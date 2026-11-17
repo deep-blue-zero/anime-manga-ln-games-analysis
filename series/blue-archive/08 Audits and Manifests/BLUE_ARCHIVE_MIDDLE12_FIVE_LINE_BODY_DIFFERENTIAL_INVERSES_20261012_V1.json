@@ -1,0 +1,128 @@
+{
+  "schema": "ROOT_COMPOSED_CURRENT_RECOVERY_ROUTE_WITH_EXACT_CONDITIONAL_MODULE_HISTORY_V1",
+  "conditional_precomposition_module": {
+    "schema": "blue-archive/middle12-five-line-body-differential-inverse-module/v1",
+    "dated": "2026-10-12",
+    "source629": "629d39d2e3873e8e07a4d54db0c26dff06ed0775",
+    "ROOT_approval": "ROOT4f5f77/e19d97;V69",
+    "body_revisions": [
+      {
+        "package": "P3-CHAR-AKO",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKO_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 68473,
+          "sha256": "9b61b4a2a7b406a188141fed0ac4f9e9b7cfa11596e3b51ee625502d8ebd85d7",
+          "lines": 286
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKO_CHARACTER_MONOGRAPH.md",
+          "bytes": 68628,
+          "sha256": "f338d863306d27fc89aae9cabe886f29d859d1bf41d9902ae233d046bb66a84b",
+          "lines": 286
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 62,
+            "before": "Ako subsequently volunteers for a ship role after the stated learning interval. That plan shows initiative and willingness to carry an assignment. It does not verify mastery of the manual or every safety calculation. Hina chooses to remain available for ground emergencies and sends Ako with care. The separation gives the aide a function that is not merely standing beside her chairwoman, while retaining their connection. The episode with a positive Ako literal header but no character-specific account in its maintained analytical paragraphs remains a retrieval route, not a license to fabricate a new turning point. [V100C003E003,008–009]\n",
+            "after": "Ako volunteers for a ship role after Rin announces the eight-hour launch deadline and the requirement that enough operators learn the manual. That plan shows initiative and willingness to carry an assignment. It does not verify mastery of the manual or every safety calculation. Hina chooses to remain available for ground emergencies and sends Ako with care. The separation gives the aide a function that is not merely standing beside her chairwoman, while retaining their connection. The episode with a positive Ako literal header but no character-specific account in its maintained analytical paragraphs remains a retrieval route, not a license to fabricate a new turning point. [V100C003E003,008–009]\n"
+          },
+          {
+            "line": 114,
+            "before": "The MINI birthday story supplies a different degree of completion. Budget anxiety, a dorayaki order, delivery expectation and cake crossing form a local February 18–19 sequence without fixing a year or its position in MAIN. Hina initially mistakes the outing for a cover for leave and apologizes when Rumi explains. Staged familiarity does not prove a long earlier friendship. The cakes are exchanged, leaders grant local first-name familiarity and the narrator represents the party as successful. Proposed karaoke and food present should not be embellished into every song completed or every item eaten. A completed party is an actual ordinary result, not merely preparation for another crisis. [MINI05010–05030]\n",
+            "after": "The MINI birthday story supplies a different degree of completion. Budget anxiety, a dorayaki order, delivery expectation and cake crossing form a local February 18–19 sequence without fixing a year or its position in MAIN. Hina initially interprets Ako's invitation as a disguised request for leave and apologizes that Ako should not need to lie to obtain time off; Rumi then explains the birthday occasion. Staged familiarity does not prove a long earlier friendship. The cakes are exchanged, leaders grant local first-name familiarity and the narrator represents the party as successful. Proposed karaoke and food present should not be embellished into every song completed or every item eaten. A completed party is an actual ordinary result, not merely preparation for another crisis. [MINI05010–05030]\n"
+          },
+          {
+            "line": 144,
+            "before": "The paperwork encounter demonstrates reciprocal fallibility. Ako requests document help, objects to an apparent interruption and makes accusations about sabotage that are countered by coincidence. Her internally imagined report is not a communicated demand. Proposed cameras and conditional physical penalties are not completed surveillance or agreed exercise; a refusal matters. When she reports construction information, that report is not an independently certified engineering finding. Apology and excitement can restore the local exchange while she departs having forgotten the initial work request. The teacher has not completed the paperwork merely by being forgiven. [A04]\n",
+            "after": "The paperwork encounter demonstrates reciprocal fallibility. Ako requests document help, objects to an apparent interruption and makes accusations about sabotage that are countered by coincidence. The internally imagined report is not a communicated demand. Proposed cameras and conditional physical penalties are not completed surveillance or agreed exercise; a refusal matters. When she reports construction information, that report is not an independently certified engineering finding. Apology and excitement can restore the local exchange while she departs having forgotten the initial work request. The teacher has not completed the paperwork merely by being forgiven. [A04]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 283,
+        "full_inverse_reverified": true,
+        "ROOT_body_delta_approval": "ROOT4f5f77/e19d97 actual five complete paragraph deltas",
+        "source_grade": "Apology precedes Rumi explanation and concerns Ako leave; immediate volunteering follows Rin deadline/manual requirement announcement, not elapsed training; inward20k characters remains internal noncommunication without secure thinker. Local birthday/initiative/paperwork and ordinary value conclusions preserved."
+      },
+      {
+        "package": "P3-CHAR-CHINATSU",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHINATSU_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 72401,
+          "sha256": "59e7ae8fcaf77788952e9d231a37c7df1f528b46cab2911c0d9052d7718c751c",
+          "lines": 323
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHINATSU_CHARACTER_MONOGRAPH.md",
+          "bytes": 72396,
+          "sha256": "78474415c76256c9d499410c0aa65dbd423714a2523b89f20a4e0b03747d81e9",
+          "lines": 323
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 80,
+            "before": "Private speech retains a comparable precision but exposes the desires public duty does not announce. The quiet library and infirmary are wanted spaces in 26000E003, yet she also wants games, a café, music and shopping. Her taste is not reducible to quietness or a single class of respectable leisure. The street music is specifically hip-hop in the received Japanese argument. The profile's philosophy books do not identify a philosophical school, and cute posters in E006 are not explicitly proved to be the same animals mentioned in the profile. Keeping these details separate protects the particularity of a person from an attractive but fabricated aesthetic unity.\n",
+            "after": "Private speech retains a comparable precision but exposes the desires public duty does not announce. The quiet library and infirmary are wanted spaces in 26000E003, yet she also wants games, a café, music and shopping. Her taste is not reducible to quietness or a single class of respectable leisure. The street music is specifically hip-hop in the received Japanese argument. The profile's philosophy books do not identify a philosophical school, and posters in E006 are not explicitly proved to be the same animals mentioned in the profile. Keeping these details separate protects the particularity of a person from an attractive but fabricated aesthetic unity.\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 322,
+        "full_inverse_reverified": true,
+        "ROOT_body_delta_approval": "ROOT4f5f77/e19d97 actual five complete paragraph deltas",
+        "source_grade": "The analytical witness explicitly retains her poster ownership and favorable response while stating contents unprinted; profile cute-animal description does not identify these particular posters. The current adjective is unestablished at this inspected analytical grade. Omit only cute; preserve ownership/favor, diverse taste and positive ordinary value. No claim that underlying primary disproves a cute descriptor or lacks it."
+      },
+      {
+        "package": "P3-CHAR-MINA",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 42150,
+          "sha256": "743004645d8ec0d114c4eae1dd046d8ded9a7c8c6bf9142d5bd313edbe321684",
+          "lines": 186
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+          "bytes": 42140,
+          "sha256": "8960dae37de7c6b75f637812addbe42b709f642002cf95fcbf35548376511db3",
+          "lines": 186
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 43,
+            "before": "Mina wants to inhabit a form of action she finds compelling. Old hardboiled films give entrances, instruments, phrases and manners that she chooses for herself. The wish is not merely a faulty tool for guarding Kisaki: it is an aesthetic life, capable of pleasure even when its practical execution disappoints. Spending more than ten minutes on a cool entrance, choosing a recorder when a clarinet proves difficult, enjoying a dramatic introduction and wanting to call another person's name all make this self-authorship concrete. The old films, a rain scene, shared conversation and an imagined calm future have value without being converted into evidence that she can solve every institutional problem (BA:bond:10070:002/003/005; written10070; costume1900914201;859012).\n",
+            "after": "Mina wants to inhabit a form of action she finds compelling. Old hardboiled films give entrances, instruments, phrases and manners that she chooses for herself. The wish is not merely a faulty tool for guarding Kisaki: it is an aesthetic life, capable of pleasure even when its practical execution disappoints. Spending time designing a cool entrance, choosing a recorder when a clarinet proves difficult, enjoying a dramatic introduction and wanting to call another person's name all make this self-authorship concrete. The old films, a rain scene, shared conversation and an imagined calm future have value without being converted into evidence that she can solve every institutional problem (BA:bond:10070:002/003/005; written10070; costume1900914201;859012).\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 185,
+        "full_inverse_reverified": true,
+        "ROOT_body_delta_approval": "ROOT4f5f77/e19d97 actual five complete paragraph deltas",
+        "source_grade": "The complete normal245 establishes more-than-ten-minute lateness and acknowledged time spent designing the entrance. It does not quantify the design duration itself. Remove only that duration claim, retaining aesthetic choice, effort, lateness, punctuality reservation and independent recipient response. No underlying-primary disproof or ordinary-value exclusion is asserted."
+      }
+    ],
+    "recovery_order": "Restore exact prior current bytes by this differential inverse first, then apply the unchanged pre-existing original-to-canonical inverse.",
+    "frozen_originals_modified": false,
+    "new_package_source_primary_identity_model_milestone_credit": 0
+  },
+  "actual_current_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 68628,
+      "sha256": "f338d863306d27fc89aae9cabe886f29d859d1bf41d9902ae233d046bb66a84b"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHINATSU_CHARACTER_MONOGRAPH.md",
+      "bytes": 72396,
+      "sha256": "78474415c76256c9d499410c0aa65dbd423714a2523b89f20a4e0b03747d81e9"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 42140,
+      "sha256": "8960dae37de7c6b75f637812addbe42b709f642002cf95fcbf35548376511db3"
+    }
+  ],
+  "current_total_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "current_total_wrapper_binding_and_recovery": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "current_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "preceding_preparation_tuple": {
+    "bytes": 11938,
+    "sha256": "2c0268374b1e30b2fa0577d77b3ecb274437a92964db108a4cdbdc077becde03"
+  },
+  "original_transport_and_author_inverses": "UNCHANGED;COMPOSED_DIFFERENTIAL_FIRST",
+  "new_source_or_package_credit": 0
+}

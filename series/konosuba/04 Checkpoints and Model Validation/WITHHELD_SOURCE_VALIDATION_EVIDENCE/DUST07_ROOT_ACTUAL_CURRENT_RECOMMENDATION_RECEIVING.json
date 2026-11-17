@@ -1,0 +1,127 @@
+{
+  "state": "ACTUAL_COMPLETE_NEW_FIELD_REPORT_SUCCESSOR_RECEIVING_NOT_ACCEPTANCE",
+  "completed_utc": "2026-10-17T21:12:06.828510+00:00",
+  "inputs": [
+    {
+      "name": "COORDINATED_COMPLETE_RECEIVING_REPORT.md",
+      "bytes": 17935,
+      "sha256": "04d9fea029c799146d7aa0342d18aa9f0402e7cc40206f43fb1672e7775cc372"
+    },
+    {
+      "name": "COORDINATED_ALL39_RECOMMENDATIONS_AND_FOUR_TYPED_CONTROLS.json",
+      "bytes": 196007,
+      "sha256": "47a5a9a80634520113403851b4ca6ea243723d18b77fec62fa91f37ddff9c89d"
+    },
+    {
+      "name": "COORDINATED_E06_DECISION_STAGE_FINAL_ADDENDUM.md",
+      "bytes": 4176,
+      "sha256": "5ea43f907ab48d584a1f5bf8bcf030e23f1ec265273880644050256a2ba91e4c"
+    },
+    {
+      "name": "COORDINATED_ALL39_RECOMMENDATIONS_AND_FOUR_TYPED_CONTROLS_v2.json",
+      "bytes": 199054,
+      "sha256": "5525fde7824bda3b4ed946b018ac501eccea9ff72d290e9c61168c41c7dbc0f3"
+    },
+    {
+      "name": "COORDINATED_E02_LIVE_BATTLE_FINAL_ADDENDUM.md",
+      "bytes": 4208,
+      "sha256": "317a06f63bf90ad7be49730923f201430841e911e5b97414789db551fc9d8c1b"
+    },
+    {
+      "name": "COORDINATED_ALL39_RECOMMENDATIONS_AND_FOUR_TYPED_CONTROLS_v3.json",
+      "bytes": 203548,
+      "sha256": "563af8a403e7ee881e71b9c4a497d26948ee6f4aecb936ea006a2f4f2b12ccaa"
+    },
+    {
+      "name": "COORDINATED_SEMANTIC_LINGUISTIC_AND_ALL39_RECEIVING_REPORT.md",
+      "bytes": 31519,
+      "sha256": "e5371633732e90bbc31fa961f5b89e995ce55c5fe01231846c5e8a0697aa3066"
+    },
+    {
+      "name": "COORDINATED_ALL39_PLUS_FOUR_TYPED_RECOMMENDATIONS.json",
+      "bytes": 339147,
+      "sha256": "7080fb3335010a206839260f48368851e72599505f1b90a706f4ac8ac9494618"
+    },
+    {
+      "name": "FIVE_OPERATION_EXTERNAL_PRECISION_AND_FULL_INVERSE_RECEIPT.json",
+      "bytes": 3699,
+      "sha256": "c20ff09e48419d8dfc80b83375787e1dc0240b44b971fae298c65d91bdec6670"
+    },
+    {
+      "name": "REPORT_EXACT_HASH_PRESENTATION_DERIVATIVE.md",
+      "bytes": 31515,
+      "sha256": "5420c66617cfa734cd1fa0e74c91f80f2bcd3c324921d4d8e576f4dea4049005"
+    },
+    {
+      "name": "ALL39_CURRENT_ROUTE_PRECISION_DERIVATIVE.json",
+      "bytes": 339147,
+      "sha256": "a009439532e742a9a19b7a4bbc8ddf39dd29e53ed2fbaf26579e77bd47e3b76e"
+    }
+  ],
+  "actual_newfield_projections": [
+    {
+      "name": "I_V1_NEW_RECOMMENDATION_FIELDS.json",
+      "bytes": 50847,
+      "sha256": "6e0bcb7440b217d1ab3e5b6f6153404537bf493924c52c2c1f1ae2c87f78c0f8"
+    },
+    {
+      "name": "I_V1_METADATA_COMMON_AND_REUSE_PROOF.json",
+      "bytes": 21718,
+      "sha256": "12b768849d463735b5e6ba5b9d64384d74ba57af24fafaf8ad6b0c4bd3f1413f"
+    },
+    {
+      "name": "I_V2_V3_ALL_CHANGED_FIELDS.json",
+      "bytes": 11322,
+      "sha256": "e5d034b46bf12108e69c62ab376e5db61dfd80f078d751219046f3b1c6e79b9a"
+    },
+    {
+      "name": "S_ALL_NEW_COORDINATED_K_FIELDS.json",
+      "bytes": 18420,
+      "sha256": "30bc37c82186b3ed5e2bfe4762a0f3a43e5347d1831fc33753b0120687c46bd5"
+    },
+    {
+      "name": "S_ALL_NEW_COORDINATED_A_FIELDS.json",
+      "bytes": 14496,
+      "sha256": "f34a949d06cc8818953715be250194100d61cb49758b68a8d008e7bfe5c30dcd"
+    },
+    {
+      "name": "S_ALL_NEW_COORDINATED_M_FIELDS.json",
+      "bytes": 13801,
+      "sha256": "e5b1de3f7a5e793bb28e35227f1d576db4408f61d40ce0ed12ae44e85649a6df"
+    },
+    {
+      "name": "S_ALL_NEW_COORDINATED_D_FIELDS.json",
+      "bytes": 14972,
+      "sha256": "0de83760846c4b945890ae61b3eb6541d2d340d395113cf77c0a1de80c2a103c"
+    },
+    {
+      "name": "S_ALL_NEW_COORDINATED_E_FIELDS.json",
+      "bytes": 24856,
+      "sha256": "f1f402ce18f76aaa858a5fd6df8baf50dc0d21beaa705085ceb46a56bc140327"
+    },
+    {
+      "name": "S_ALL_NEW_COORDINATED_T_FIELDS.json",
+      "bytes": 7163,
+      "sha256": "2451c0567947cbe80a3b5f808a7878cddc0600f1e0a41e3d24b07b6de0baf842"
+    },
+    {
+      "name": "S_COORDINATED_TOP_COMMON_AND_EXACT_REUSE_PROOF.json",
+      "bytes": 8888,
+      "sha256": "e7855da0d1aee6dc08d9cb07eed72334f4f9129f2935761dac727cf6cc5f98a8"
+    }
+  ],
+  "I_actual": "Full17935B coordinatedreport read, all43 v1 new recommendation fields read in24/19record complete untruncated displays, complete top/common/limits/corrections fields read. Full4176B E06 and4208B E02 addenda plus every actualv1→v2→v3 changed field read; unchanged42rows at each step verified/reused, all129original initial full-objecthashes checked. No fresh reread of duplicated initial windows/literal text claimed.",
+  "S_actual": "Full31519B coordinatedreport read lines1–100 and101–131. All43new currentfields inK/A+M/D+T/E bounded complete untruncated displays and complete8888B top/common/reuseproof plus4758B externalqualifications read. Exact oldliteral/preparation/nestedown-originalguard/interval/case copies verified/reused. Five externalprecision operations fully read; complete report four-string forward and single-E04route forward transformations independently reproduce exact derivative bytes; oldoriginals unchanged.",
+  "mechanical_primary_limits": "393initial peer interval occurrences/38Ishortanchors plus130Sbase/allruby copies verified separately; those are integrity joins, not new primary passes. Root original fullpass and bounded complete receiving checks are separately logged.",
+  "review_scope_not_acceptance": "Current reviewer recommendations are received; later concretecandidate/ledger/crossbook acceptance still requires bounded receiving closure and exact final publication gate. No future gate or StageC source admission claimed.",
+  "new_formal_dispositions": {
+    "NOT_TESTED": 31,
+    "CONFIRMED": 6,
+    "FALSIFIED": 1,
+    "PARTIAL": 1,
+    "four_T_source_NA": 4
+  },
+  "preserved_disagreements": "E02 implicit metric/actor access, E04 easier proposed-arrangement interpretation, E06 case/history/granularity, E03 mana-aftercare and E05 robustinference/E08 compound scope, K08 dependent adverse surface all explicit. Agreement after exchange is coordinated, not a new independent initial replication.",
+  "source_boundary_unchanged": true,
+  "all_originals_R1_later_gen_blank_fields_prior_scores_unchanged": true
+}

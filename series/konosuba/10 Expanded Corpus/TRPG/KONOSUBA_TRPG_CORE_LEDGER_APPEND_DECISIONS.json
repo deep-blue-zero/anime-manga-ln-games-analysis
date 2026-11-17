@@ -1,0 +1,879 @@
+{
+  "schema": "KONOSUBA_TRPG_CORE_TEN_LEDGER_RECEIVING_DECISIONS_V1",
+  "accepted_utc": "2026-10-18T02:29:30.403076+00:00",
+  "current_append_basis": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+  "all_current_prefix_bytes_preserved": true,
+  "rows": [
+    {
+      "ledger": "CHARACTER_STATE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-CS01",
+        "source": "TRPG-CORE",
+        "subjects": "Replay Otohime",
+        "printed_pages": "018–019,023–025,037–044,072–073",
+        "observation": "A death-return owner explicitly wants to survive, filters risk and remains frightened while choosing real cover.",
+        "implication": "Fear does not preclude costly protection; narrow success and social praise change appraisal transiently.",
+        "authority_and_adverse_limit": "Paid game cheat, co-authored past and edited play account; not Darkness or a universal fear cure.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-CS01",
+        "source": "TRPG-CORE",
+        "subjects": "Replay Otohime",
+        "printed_pages": "018–019,023–025,037–044,072–073",
+        "observation": "A death-return owner explicitly wants to survive, filters risk and remains frightened while choosing real cover.",
+        "implication": "Fear does not preclude costly protection; narrow success and social praise change appraisal transiently.",
+        "authority_and_adverse_limit": "Paid game cheat, co-authored past and edited play account; not Darkness or a universal fear cure.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "bbf5a44289fe193176a4e3a27e25eb4d5929aeb44611c2b4af6ae8a9a01261fa"
+    },
+    {
+      "ledger": "CHARACTER_STATE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-CS02",
+        "source": "TRPG-CORE",
+        "subjects": "World-guide Darkness",
+        "printed_pages": "258; reference262",
+        "observation": "Concern for a poorly equipped newcomer coexists with avid interest in his reported beating.",
+        "implication": "Preserve care and pleasure-oriented attention together rather than replacing either with a single trait.",
+        "authority_and_adverse_limit": "Guide-fiction occurrence and conditional reference are distinct; no toad quest or actual new beating is performed and pleasure cannot consent for another.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-CS02",
+        "source": "TRPG-CORE",
+        "subjects": "World-guide Darkness",
+        "printed_pages": "258; reference262",
+        "observation": "Concern for a poorly equipped newcomer coexists with avid interest in his reported beating.",
+        "implication": "Preserve care and pleasure-oriented attention together rather than replacing either with a single trait.",
+        "authority_and_adverse_limit": "Guide-fiction occurrence and conditional reference are distinct; no toad quest or actual new beating is performed and pleasure cannot consent for another.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "bbf5a44289fe193176a4e3a27e25eb4d5929aeb44611c2b4af6ae8a9a01261fa"
+    },
+    {
+      "ledger": "CHARACTER_STATE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-CS03",
+        "source": "TRPG-CORE",
+        "subjects": "Main-character NPC reference",
+        "printed_pages": "261–262",
+        "observation": "Profiles give early-state ages and conditional helpful roles; Megumin can offer wisdom despite theatrical behavior, Darkness noble knowledge despite poor sword accuracy.",
+        "implication": "Reference explicitly permits multidimensional competence.",
+        "authority_and_adverse_limit": "Not a dated encounter, natural speech distribution or license to backproject later main-state resources or these early ages everywhere.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-CS03",
+        "source": "TRPG-CORE",
+        "subjects": "Main-character NPC reference",
+        "printed_pages": "261–262",
+        "observation": "Profiles give early-state ages and conditional helpful roles; Megumin can offer wisdom despite theatrical behavior, Darkness noble knowledge despite poor sword accuracy.",
+        "implication": "Reference explicitly permits multidimensional competence.",
+        "authority_and_adverse_limit": "Not a dated encounter, natural speech distribution or license to backproject later main-state resources or these early ages everywhere.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "bbf5a44289fe193176a4e3a27e25eb4d5929aeb44611c2b4af6ae8a9a01261fa"
+    },
+    {
+      "ledger": "COMPETENCE_CONTEXT",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-CC01",
+        "source": "TRPG-CORE",
+        "subjects": "Replay distributed party",
+        "printed_pages": "049–060,068–078",
+        "observation": "Light, furniture, bath expertise, purification, cover, shield, costly magic and offense solve different phases; some misses and losses persist.",
+        "implication": "Shared success is nonadditive and conditional on local role/resource handoffs.",
+        "authority_and_adverse_limit": "No universal necessary coordinator, main-party replacement or equal competence across tasks; GM exceptions separately identified.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-CC01",
+        "source": "TRPG-CORE",
+        "subjects": "Replay distributed party",
+        "printed_pages": "049–060,068–078",
+        "observation": "Light, furniture, bath expertise, purification, cover, shield, costly magic and offense solve different phases; some misses and losses persist.",
+        "implication": "Shared success is nonadditive and conditional on local role/resource handoffs.",
+        "authority_and_adverse_limit": "No universal necessary coordinator, main-party replacement or equal competence across tasks; GM exceptions separately identified.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "36188c679f99d689b1efe1b5a63d849b3584002aa16ff10612caa855c3dbde7a"
+    },
+    {
+      "ledger": "COMPETENCE_CONTEXT",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-CC02",
+        "source": "TRPG-CORE",
+        "subjects": "GM-adjudicated mechanics",
+        "printed_pages": "043,055–056; skill168; cover235; recovery084",
+        "observation": "Cover from inside a frog and fishless-pool Fishing are local permissions; final HP damage is doubled for cover, and postscenario recovery is not in-combat healing.",
+        "implication": "Narrow actual mechanics support the local account without becoming universal novel physics.",
+        "authority_and_adverse_limit": "Visual inspection of all rule pages is not exhaustive rules certification; later interaction claims require actual governing passages.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-CC02",
+        "source": "TRPG-CORE",
+        "subjects": "GM-adjudicated mechanics",
+        "printed_pages": "043,055–056; skill168; cover235; recovery084",
+        "observation": "Cover from inside a frog and fishless-pool Fishing are local permissions. Standard cover doubles final HP damage only if the same attack also hit the coverer; successful coverer evasion receives normal cover processing. Postscenario recovery is distinct from in-combat healing.",
+        "implication": "Narrow actual mechanics support the local account without becoming universal novel physics.",
+        "authority_and_adverse_limit": "Printed235 controls the conditional multiplier after defense. Covering/other skill exceptions need their own text; all-page inspection is not exhaustive numeric/cross-rule certification. RootRQ01.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_WITH_ATTRIBUTABLE_PRECISION",
+      "original_proposal_sha256": "36188c679f99d689b1efe1b5a63d849b3584002aa16ff10612caa855c3dbde7a"
+    },
+    {
+      "ledger": "COMPETENCE_CONTEXT",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-CC03",
+        "source": "TRPG-CORE",
+        "subjects": "Optional cheats and class adaptation",
+        "printed_pages": "132,169,194–202",
+        "observation": "Basic classes in this game do not simply repeat novel acquisition gates; optional powers carry social, monetary, timing and resource costs.",
+        "implication": "Strong names do not prove limitless or identical novel capabilities.",
+        "authority_and_adverse_limit": "Pain-derived defense does not imply consent, goddess cheat does not require a female PC, and a skill prerequisite is not waived by faith.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-CC03",
+        "source": "TRPG-CORE",
+        "subjects": "Optional cheats and class adaptation",
+        "printed_pages": "132,169,194–202",
+        "observation": "Basic classes in this game do not simply repeat novel acquisition gates; optional powers carry social, monetary, timing and resource costs.",
+        "implication": "Strong names do not prove limitless or identical novel capabilities.",
+        "authority_and_adverse_limit": "Pain-derived defense does not imply consent, goddess cheat does not require a female PC, and a skill prerequisite is not waived by faith.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "36188c679f99d689b1efe1b5a63d849b3584002aa16ff10612caa855c3dbde7a"
+    },
+    {
+      "ledger": "DECISION_ERROR",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-DE01",
+        "source": "TRPG-CORE",
+        "subjects": "Chiho and rescuers",
+        "printed_pages": "057–060",
+        "observation": "Strength breaks a chest without a declared trap check; the bomb causes damage and destroys part of the possible ruby reward.",
+        "implication": "Useful capability does not repair omitted precaution; another’s cover mitigates one consequence without erasing the remaining loss.",
+        "authority_and_adverse_limit": "Actual two rubies differ from hypothetical five and later new loot; local game arithmetic not main-world physical law.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-DE01",
+        "source": "TRPG-CORE",
+        "subjects": "Chiho and rescuers",
+        "printed_pages": "057–060",
+        "observation": "Strength breaks a chest without a declared trap check; the bomb causes damage and destroys part of the possible ruby reward.",
+        "implication": "Useful capability does not repair omitted precaution; another’s cover mitigates one consequence without erasing the remaining loss.",
+        "authority_and_adverse_limit": "Actual two rubies differ from hypothetical five and later new loot; local game arithmetic not main-world physical law.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "9f309812485d141d3b75281eb982b1df248cd9db8957dd26d012b9edec0c7f25"
+    },
+    {
+      "ledger": "DECISION_ERROR",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-DE02",
+        "source": "TRPG-CORE",
+        "subjects": "Gilbert/Otohime/party",
+        "printed_pages": "025,037–043",
+        "observation": "Reassurance about armor is tested by actual swallowing; complaint and scope defense follow while imperfect shields and later attacks repair the danger.",
+        "implication": "A successful eventual phase cannot retroactively make earlier reassurance safe or the first handoff sufficient.",
+        "authority_and_adverse_limit": "Armor-like clothing is not established metal; hypothetical digestion damage never occurs here.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-DE02",
+        "source": "TRPG-CORE",
+        "subjects": "Gilbert/Otohime/party",
+        "printed_pages": "025,037–043",
+        "observation": "Reassurance about armor is tested by actual swallowing; complaint and scope defense follow while imperfect shields and later attacks repair the danger.",
+        "implication": "A successful eventual phase cannot retroactively make earlier reassurance safe or the first handoff sufficient.",
+        "authority_and_adverse_limit": "Armor-like clothing is not established metal; hypothetical digestion damage never occurs here.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "9f309812485d141d3b75281eb982b1df248cd9db8957dd26d012b9edec0c7f25"
+    },
+    {
+      "ledger": "DECISION_ERROR",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-DE03",
+        "source": "TRPG-CORE",
+        "subjects": "GM and players constructing fiction",
+        "printed_pages": "022,064,067,080–081",
+        "observation": "Creator-authority jokes, an openly added sectarian insult, an adopted villain park and a new cow-rescue bonus alter the local fiction.",
+        "implication": "Do not infer independently pre-existing triggers or scripted rewards from later effective response.",
+        "authority_and_adverse_limit": "This is collaborative authored play, not blind behavioral sampling; preserve GM/player/PC planes.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-DE03",
+        "source": "TRPG-CORE",
+        "subjects": "GM and players constructing fiction",
+        "printed_pages": "022,064,067,080–081",
+        "observation": "Creator-authority jokes, an openly added sectarian insult, an adopted villain park and a new cow-rescue bonus alter the local fiction.",
+        "implication": "Do not infer independently pre-existing triggers or scripted rewards from later effective response.",
+        "authority_and_adverse_limit": "This is collaborative authored play, not blind behavioral sampling; preserve GM/player/PC planes.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "9f309812485d141d3b75281eb982b1df248cd9db8957dd26d012b9edec0c7f25"
+    },
+    {
+      "ledger": "HUMOR_MECHANICS",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-HM01",
+        "source": "TRPG-CORE",
+        "subjects": "Diary/GM account plus companions",
+        "printed_pages": "061–064",
+        "observation": "Privacy objection is evaded through conspicuous accident claims; reported king-to-frog history adds kaeru wordplay, and a kiss cure is only proposed.",
+        "implication": "Whole-premise portability is MIXED: portable intrusion and romance coexist with a central Japanese-form layer.",
+        "authority_and_adverse_limit": "One reported transformation, not another observed event; artifact mishearing is local punchline evidence rather than general psychology.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-HM01",
+        "source": "TRPG-CORE",
+        "subjects": "Diary/GM account plus companions",
+        "printed_pages": "061–064",
+        "observation": "Diary intrusion and romantic framing are portable, while the reported king/frog backstory requires the Japanese change/frog and king wordplay.",
+        "implication": "Whole-premise portability is MIXED: portable intrusion and romance coexist with a central Japanese-form layer.",
+        "authority_and_adverse_limit": "Whole L remains MIXED. H1 for actual diary intrusion; the artifact mishearing is an explicitly reported property, not an inferred human psychology or a new transformation. Initial mixed-H/H3 rationale preserved inRQ03.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_WITH_ATTRIBUTABLE_PRECISION",
+      "original_proposal_sha256": "723c05ffc08f4b1e3a1ab1e3ae927338a3b54f00a518e64b3aa4aa5045119c90"
+    },
+    {
+      "ledger": "HUMOR_MECHANICS",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-HM02",
+        "source": "TRPG-CORE",
+        "subjects": "World-guide Aqua/newcomer/Kazuma",
+        "printed_pages": "250–252",
+        "observation": "Safe-start promise fails, anger becomes humiliating apology, and written childish deformation shrinks divine status.",
+        "implication": "Portable status reversal has a material Japanese-form layer; L MIXED, H2 for amplified defensive presentation.",
+        "authority_and_adverse_limit": "No shown punch or acoustic claim; source is guide fiction, not new main-novel chronology.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-HM02",
+        "source": "TRPG-CORE",
+        "subjects": "World-guide Aqua/newcomer/Kazuma",
+        "printed_pages": "250–252",
+        "observation": "Safe-start promise fails, anger becomes humiliating apology, and written childish deformation shrinks divine status.",
+        "implication": "Portable status reversal has a material Japanese-form layer; L MIXED, H2 for amplified defensive presentation.",
+        "authority_and_adverse_limit": "No shown punch or acoustic claim; source is guide fiction, not new main-novel chronology.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "723c05ffc08f4b1e3a1ab1e3ae927338a3b54f00a518e64b3aa4aa5045119c90"
+    },
+    {
+      "ledger": "HUMOR_MECHANICS",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-HM03",
+        "source": "TRPG-CORE",
+        "subjects": "Selected full-pass register",
+        "printed_pages": "All333 actual images; selected75 premise groups",
+        "observation": "All120 original page-level comic-note pages are preserved and grouped before codes, including weak reference and optional cases.",
+        "implication": "L, H, culture, authority and eligibility are separate. H3 means local punchline-dependent behavior, not merely paratext or uncertainty.",
+        "authority_and_adverse_limit": "Purposeful selections are not an all-source census or J02 denominator. U044 label/form remains uncertain; no fabricated language-only proof.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-HM03",
+        "source": "TRPG-CORE",
+        "subjects": "Selected full-pass register",
+        "printed_pages": "All333 actual images; selected75 premise groups",
+        "observation": "All120 original comic-note pages remain in75 selected premise groups with source intervals; selection is descriptive. The compressed113label is now read殺しの魔名, while pronunciation/pun centrality remains unproved.",
+        "implication": "L, H, culture, authority and eligibility are separate. H3 means local punchline-dependent behavior, not merely paratext or uncertainty.",
+        "authority_and_adverse_limit": "Initial code history remains exact. Current H/L warrant qualifications and source planes govern reuse; no whole-source census, J02 denominator, score or automatic L3 from a Japanese label. RootRQ02 andLW records.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_WITH_ATTRIBUTABLE_PRECISION",
+      "original_proposal_sha256": "723c05ffc08f4b1e3a1ab1e3ae927338a3b54f00a518e64b3aa4aa5045119c90"
+    },
+    {
+      "ledger": "JAPANESE_VOICE_HUMOR",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-JV01",
+        "source": "TRPG-CORE",
+        "subjects": "Player/PC/GM speaker layers",
+        "printed_pages": "022,064,073–076",
+        "observation": "Creator challenge, newly improvised insult, death-return explanation and wished-for author cameo use different audiences and authority.",
+        "implication": "Do not attribute table jokes to PC knowledge or GM deity narration to a main-character spoken turn.",
+        "authority_and_adverse_limit": "41 purposeful language witnesses, not natural before/after J01 mappings or independent tests.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-JV01",
+        "source": "TRPG-CORE",
+        "subjects": "Player/PC/GM speaker layers",
+        "printed_pages": "022,064,073–076",
+        "observation": "Creator challenge, newly improvised insult, death-return explanation and wished-for author cameo use different audiences and authority.",
+        "implication": "Do not attribute table jokes to PC knowledge or GM deity narration to a main-character spoken turn.",
+        "authority_and_adverse_limit": "41 purposeful language witnesses, not natural before/after J01 mappings or independent tests.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "7960ea4ae570785eccaa18fc6097f70974ae62bccd48b8c7c85e33d8e7035499"
+    },
+    {
+      "ledger": "JAPANESE_VOICE_HUMOR",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-JV02",
+        "source": "TRPG-CORE",
+        "subjects": "Aqua/receptionist/Kazuma/Vanir/Chris",
+        "printed_pages": "203,249,252,256,261–263",
+        "observation": "Short checked forms identify loophole stance, advertising aside, childish apology, private professional doubt and contested authority.",
+        "implication": "Voice functions require actual speaker, addressee and pragmatic context; Wiz’s eternal20 is profile narration.",
+        "authority_and_adverse_limit": "No acoustic/native-human claim. Untagged corrector identity cautiously qualified; normalized initial sample forms receive explicit errata.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-JV02",
+        "source": "TRPG-CORE",
+        "subjects": "Aqua/receptionist/Kazuma/Vanir/Chris",
+        "printed_pages": "203,249,252,256,261–263",
+        "observation": "Short checked forms identify loophole stance, advertising aside, childish apology, private professional doubt and contested authority.",
+        "implication": "Voice functions require actual speaker, addressee and pragmatic context; Wiz’s eternal20 is profile narration.",
+        "authority_and_adverse_limit": "No acoustic/native-human claim. Untagged corrector identity cautiously qualified; normalized initial sample forms receive explicit errata.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "7960ea4ae570785eccaa18fc6097f70974ae62bccd48b8c7c85e33d8e7035499"
+    },
+    {
+      "ledger": "JAPANESE_VOICE_HUMOR",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-JV03",
+        "source": "TRPG-CORE",
+        "subjects": "Unnamed sample mage and lifepath narrator",
+        "printed_pages": "101,105,113–114",
+        "observation": "An offered action includes a hedge, Fireball has explicit printed timing, and prophecy hedges certainty; one compressed113 label remains unresolved.",
+        "implication": "Distinguish L3 graphic timing from ordinary phrasing and uncertainty about a source glyph.",
+        "authority_and_adverse_limit": "Not Kazuma/Megumin identity, actual spell performance or a secure113 pun; preserve initial notes and source-safe short anchors only.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-JV03",
+        "source": "TRPG-CORE",
+        "subjects": "Unnamed sample mage and lifepath narrator",
+        "printed_pages": "101,105,113–114",
+        "observation": "The sample Fireball uses a visible pause, prolonged continuation and script contrast. This supports written timing/bathos; the113table label is visibly殺しの魔名, without an independently established pun.",
+        "implication": "Separate portable bathos and materially timed written form; current L1/form-MIXED warrant does not establish the initial L3 claim merely from orthography.",
+        "authority_and_adverse_limit": "RootRQ02/RQ04 govern current form use; original initial codes/uncertainty remain attributed history. No acoustic/native-human claim or new Megumin cast.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_WITH_ATTRIBUTABLE_PRECISION",
+      "original_proposal_sha256": "7960ea4ae570785eccaa18fc6097f70974ae62bccd48b8c7c85e33d8e7035499"
+    },
+    {
+      "ledger": "KAZUMA_NARRATOR",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-KN01",
+        "source": "TRPG-CORE",
+        "subjects": "World-guide narrative voice",
+        "printed_pages": "250–260",
+        "observation": "The continuous fiction addresses an unnamed second-person protagonist; Kazuma appears as a speaking character inside it.",
+        "implication": "Attribute mocked expectations, reader access and evaluations to the guide narrator/newcomer as locally warranted.",
+        "authority_and_adverse_limit": "Do not import Kazuma’s first-person main-novel narrator grammar or identify the newcomer as Mitsurugi from sword/goddess alone.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-KN01",
+        "source": "TRPG-CORE",
+        "subjects": "World-guide narrative voice",
+        "printed_pages": "250–260",
+        "observation": "The continuous fiction addresses an unnamed second-person protagonist; Kazuma appears as a speaking character inside it.",
+        "implication": "Attribute mocked expectations, reader access and evaluations to the guide narrator/newcomer as locally warranted.",
+        "authority_and_adverse_limit": "Do not import Kazuma’s first-person main-novel narrator grammar or identify the newcomer as Mitsurugi from sword/goddess alone.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "a66a97cf44a83e46defbd243f3a357ece0a68d6bc704b0e776f42b14647dbc6e"
+    },
+    {
+      "ledger": "KAZUMA_NARRATOR",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-KN02",
+        "source": "TRPG-CORE",
+        "subjects": "Edited replay narrator, PC speakers and GM",
+        "printed_pages": "010–082",
+        "observation": "The GM/editor reports player speech, PC declarations, dice results, improvisation and imagined alternatives under separate labels.",
+        "implication": "Narrator report of a result, a PC’s boast and a player joke about the creator have unequal fact status.",
+        "authority_and_adverse_limit": "Not unfiltered historical transcript, actor audio or a third-party independent observation of every biography.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-KN02",
+        "source": "TRPG-CORE",
+        "subjects": "Edited replay narrator, PC speakers and GM",
+        "printed_pages": "010–082",
+        "observation": "The GM/editor reports player speech, PC declarations, dice results, improvisation and imagined alternatives under separate labels.",
+        "implication": "Narrator report of a result, a PC’s boast and a player joke about the creator have unequal fact status.",
+        "authority_and_adverse_limit": "Not unfiltered historical transcript, actor audio or a third-party independent observation of every biography.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "a66a97cf44a83e46defbd243f3a357ece0a68d6bc704b0e776f42b14647dbc6e"
+    },
+    {
+      "ledger": "KAZUMA_NARRATOR",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-KN03",
+        "source": "TRPG-CORE",
+        "subjects": "Gilbert/receptionist/GM",
+        "printed_pages": "080–082",
+        "observation": "Gilbert’s executive-rank upgrade meets clerical checking and polite doubt; artifact return remains intended, while the GM explicitly adds150KE cow reward.",
+        "implication": "Retain self-credit inflation, outside correction and actual reward authorship as different claims.",
+        "authority_and_adverse_limit": "Receptionist does not certify executive rank or observed temple delivery; future skill learning remains a plan.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-KN03",
+        "source": "TRPG-CORE",
+        "subjects": "Gilbert/receptionist/GM",
+        "printed_pages": "080–082",
+        "observation": "Gilbert’s executive-rank upgrade meets clerical checking and polite doubt; artifact return remains intended, while the GM explicitly adds150KE cow reward.",
+        "implication": "Retain self-credit inflation, outside correction and actual reward authorship as different claims.",
+        "authority_and_adverse_limit": "Receptionist does not certify executive rank or observed temple delivery; future skill learning remains a plan.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "a66a97cf44a83e46defbd243f3a357ece0a68d6bc704b0e776f42b14647dbc6e"
+    },
+    {
+      "ledger": "MODEL_PREDICTION_VALIDATION",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-PV01",
+        "source": "TRPG-CORE",
+        "subjects": "Frozen main-only R1 and four-source histories",
+        "printed_pages": "Whole CORE inspection",
+        "observation": "This expanded inspection proposes no score, guard, confidence, model or threshold change and no new holdout opportunity assessment.",
+        "implication": "Actual333-page viewing/full eligible reading is a component-completion claim at declared scope only.",
+        "authority_and_adverse_limit": "Not a fifth validation, independent human coder,39/156 accuracy pool or out-of-sample experiment.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-PV01",
+        "source": "TRPG-CORE",
+        "subjects": "Frozen main-only R1 and four-source histories",
+        "printed_pages": "Whole CORE inspection",
+        "observation": "This expanded inspection proposes no score, guard, confidence, model or threshold change and no new holdout opportunity assessment.",
+        "implication": "Actual333-page viewing/full eligible reading is a component-completion claim at declared scope only.",
+        "authority_and_adverse_limit": "Not a fifth validation, independent human coder,39/156 accuracy pool or out-of-sample experiment.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "08424a0b7d4dffcaa535bb976989e24627781df6098563f8877cab3ca68d39ac"
+    },
+    {
+      "ledger": "MODEL_PREDICTION_VALIDATION",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-PV02",
+        "source": "TRPG-CORE",
+        "subjects": "Authority and counterevidence discipline",
+        "printed_pages": "Replay010–084; world250–262; scenario298–311",
+        "observation": "Performed, reported, optional, hypothetical, scripted and reference claims are recorded separately, with failure/agency/unknowns preserved.",
+        "implication": "A coherent source can support causal interpretation without becoming a uniform test corpus.",
+        "authority_and_adverse_limit": "No response-derived motives, backdated GM inventions, actual-spell inference from every effect or retrospective campaign replacement.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-PV02",
+        "source": "TRPG-CORE",
+        "subjects": "Authority and counterevidence discipline",
+        "printed_pages": "Replay010–084; world250–262; scenario298–311",
+        "observation": "Performed, reported, optional, hypothetical, scripted and reference claims are recorded separately, with failure/agency/unknowns preserved.",
+        "implication": "A coherent source can support causal interpretation without becoming a uniform test corpus.",
+        "authority_and_adverse_limit": "No response-derived motives, backdated GM inventions, actual-spell inference from every effect or retrospective campaign replacement.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "08424a0b7d4dffcaa535bb976989e24627781df6098563f8877cab3ca68d39ac"
+    },
+    {
+      "ledger": "MODEL_PREDICTION_VALIDATION",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-PV03",
+        "source": "TRPG-CORE",
+        "subjects": "Initial source-first and later coding lineage",
+        "printed_pages": "All333 acknowledgments;75 selected premises;41 selected voice records",
+        "observation": "Complete uncoded originals were sealed before formal L/H/voice assignments; later native checks add attributable shortform/glyph/profile qualifications.",
+        "implication": "Preserve initial notes, uncertain results and exact later coding rather than a consensus or completion shortcut.",
+        "authority_and_adverse_limit": "Informed same AI lineage; no pristine blindness, human performance, peer CORE initial discovery exchange or root adoption yet.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-PV03",
+        "source": "TRPG-CORE",
+        "subjects": "Initial source-first and later coding lineage",
+        "printed_pages": "All333 acknowledgments;75 selected premises;41 selected voice records",
+        "observation": "Complete uncoded originals were sealed before formal L/H/voice assignments; later native checks add attributable shortform/glyph/profile qualifications.",
+        "implication": "Preserve initial notes, uncertain results and exact later coding rather than a consensus or completion shortcut.",
+        "authority_and_adverse_limit": "Informed same AI lineage; no pristine blindness, human performance, peer CORE initial discovery exchange or root adoption yet.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "08424a0b7d4dffcaa535bb976989e24627781df6098563f8877cab3ca68d39ac"
+    },
+    {
+      "ledger": "ORDINARY_LIFE_PREFERENCES",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-OP01",
+        "source": "TRPG-CORE",
+        "subjects": "PCs and table",
+        "printed_pages": "021,084,193,218–219",
+        "observation": "Living standard sets money/recovery stakes; cohabitation does not automatically reduce per-PC cost, nonpayment can reduce XP, and future celebration needs skills.",
+        "implication": "Ordinary maintenance and desire remain part of continued adventure.",
+        "authority_and_adverse_limit": "Rules/options and actual payments differentiated; no free same-scene reset or verified occupied royal suite.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-OP01",
+        "source": "TRPG-CORE",
+        "subjects": "PCs and table",
+        "printed_pages": "021,084,193,218–219",
+        "observation": "Living standard sets money/recovery stakes; cohabitation does not automatically reduce per-PC cost, nonpayment can reduce XP, and future celebration needs skills.",
+        "implication": "Ordinary maintenance and desire remain part of continued adventure.",
+        "authority_and_adverse_limit": "Rules/options and actual payments differentiated; no free same-scene reset or verified occupied royal suite.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "7d35281f4eed32b5d427d6d4d62f2a929edf15c6064bab922a06b1b4098a7a69"
+    },
+    {
+      "ledger": "ORDINARY_LIFE_PREFERENCES",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-OP02",
+        "source": "TRPG-CORE",
+        "subjects": "Optional lifepath/motive personas",
+        "printed_pages": "111–115",
+        "observation": "The book permits ordinary families, poverty, coercion, no grand goal and peaceful life alongside vengeance or destiny.",
+        "implication": "A player may construct an actor whose motives do not replicate a principal’s defining obsession.",
+        "authority_and_adverse_limit": "Selectable templates are not performed histories; coercion is not desire or consent.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-OP02",
+        "source": "TRPG-CORE",
+        "subjects": "Optional lifepath/motive personas",
+        "printed_pages": "111–115",
+        "observation": "The book permits ordinary families, poverty, coercion, no grand goal and peaceful life alongside vengeance or destiny.",
+        "implication": "A player may construct an actor whose motives do not replicate a principal’s defining obsession.",
+        "authority_and_adverse_limit": "Selectable templates are not performed histories; coercion is not desire or consent.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "7d35281f4eed32b5d427d6d4d62f2a929edf15c6064bab922a06b1b4098a7a69"
+    },
+    {
+      "ledger": "ORDINARY_LIFE_PREFERENCES",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-OP03",
+        "source": "TRPG-CORE",
+        "subjects": "World-guide newcomer; scenario prospective party",
+        "printed_pages": "253,255–260;309–310",
+        "observation": "A500E guide fee,1000E registration and3000E savings coexist with unsubsidized lunch; eating harvested crops later trades possible reward for food/XP.",
+        "implication": "Economic tradeoffs matter outside climactic combat.",
+        "authority_and_adverse_limit": "Use Eris versus KE correctly; scenario consumption/payment and future party success remain unperformed.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-OP03",
+        "source": "TRPG-CORE",
+        "subjects": "World-guide newcomer; scenario prospective party",
+        "printed_pages": "253,255–260;309–310",
+        "observation": "A500E guide fee,1000E registration and3000E savings coexist with unsubsidized lunch; eating harvested crops later trades possible reward for food/XP.",
+        "implication": "Economic tradeoffs matter outside climactic combat.",
+        "authority_and_adverse_limit": "Use Eris versus KE correctly; scenario consumption/payment and future party success remain unperformed.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "7d35281f4eed32b5d427d6d4d62f2a929edf15c6064bab922a06b1b4098a7a69"
+    },
+    {
+      "ledger": "RELATIONSHIP_STATE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-RS01",
+        "source": "TRPG-CORE",
+        "subjects": "Otohime ↔ Chiho",
+        "printed_pages": "027,040–043,072–073,076–078",
+        "observation": "A shared reported accident becomes conditional protection, then repeated actual cover; the oath has an instrumental benefit and the player later deliberately provides a spotlight.",
+        "implication": "Affiliation, useful incentives and survival limits jointly produce cooperation.",
+        "authority_and_adverse_limit": "Gratitude is not retroactive consent; player-selected failed evasion is not a naturally sampled trial.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-RS01",
+        "source": "TRPG-CORE",
+        "subjects": "Otohime ↔ Chiho",
+        "printed_pages": "027,040–043,072–073,076–078",
+        "observation": "A shared reported accident becomes conditional protection, then repeated actual cover; the oath has an instrumental benefit and the player later deliberately provides a spotlight.",
+        "implication": "Affiliation, useful incentives and survival limits jointly produce cooperation.",
+        "authority_and_adverse_limit": "Gratitude is not retroactive consent; player-selected failed evasion is not a naturally sampled trial.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "e3cddf81f15d04c9526e054a3864b85336c2d29b2e2e91d53e1c1053ae97271b"
+    },
+    {
+      "ledger": "RELATIONSHIP_STATE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-RS02",
+        "source": "TRPG-CORE",
+        "subjects": "Gilbert ↔ Temiren",
+        "printed_pages": "020,028,045–046,069",
+        "observation": "Romance-manga prince appraisal survives corrections, while affection is made conditional on a donation; a hypothetical restored prince also meets refusal.",
+        "implication": "Different appraisals can defeat correction without removing social pressure or the other actor’s refusal.",
+        "authority_and_adverse_limit": "Roleplayed contact is not real-player contact; agreement to a donation is shown, actual payment not established.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-RS02",
+        "source": "TRPG-CORE",
+        "subjects": "Gilbert ↔ Temiren",
+        "printed_pages": "020,028,045–046,069",
+        "observation": "Romance-manga prince appraisal survives corrections, while affection is made conditional on a donation; a hypothetical restored prince also meets refusal.",
+        "implication": "Different appraisals can defeat correction without removing social pressure or the other actor’s refusal.",
+        "authority_and_adverse_limit": "Roleplayed contact is not real-player contact; agreement to a donation is shown, actual payment not established.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "e3cddf81f15d04c9526e054a3864b85336c2d29b2e2e91d53e1c1053ae97271b"
+    },
+    {
+      "ledger": "RELATIONSHIP_STATE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-RS03",
+        "source": "TRPG-CORE",
+        "subjects": "Unnamed newcomer ↔ quartet/new novice",
+        "printed_pages": "250–260",
+        "observation": "Fallible guides assist, charge, tease and share lunch without subsidy; a different novice priest then freely asks to form a party.",
+        "implication": "The setting permits ordinary new relationships and mixed help rather than exclusive quartet attachment.",
+        "authority_and_adverse_limit": "Prospective future adventures do not demonstrate complete campaign replacement; the newcomer is not identified as Mitsurugi.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-RS03",
+        "source": "TRPG-CORE",
+        "subjects": "Unnamed newcomer ↔ quartet/new novice",
+        "printed_pages": "250–260",
+        "observation": "Fallible guides assist, charge, tease and share lunch without subsidy; a different novice priest then freely asks to form a party.",
+        "implication": "The setting permits ordinary new relationships and mixed help rather than exclusive quartet attachment.",
+        "authority_and_adverse_limit": "Prospective future adventures do not demonstrate complete campaign replacement; the newcomer is not identified as Mitsurugi.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "e3cddf81f15d04c9526e054a3864b85336c2d29b2e2e91d53e1c1053ae97271b"
+    },
+    {
+      "ledger": "SERIOUSNESS_OVERRIDE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-SO01",
+        "source": "TRPG-CORE",
+        "subjects": "Otohime/Chiho/Gilbert",
+        "printed_pages": "072–073,075–078",
+        "observation": "Actual area danger elicits a deliberate shove/cover, paid return and later healing/shielding; death refusal remains explicit.",
+        "implication": "Protective action and survival motive coexist, with costs and insufficient earlier margins retained.",
+        "authority_and_adverse_limit": "GM narrates Aqua-related power but no main Aqua appearance is observed; no unlimited resurrection or fear cure.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-SO01",
+        "source": "TRPG-CORE",
+        "subjects": "Otohime/Chiho/Gilbert",
+        "printed_pages": "072–073,075–078",
+        "observation": "Actual area danger elicits a deliberate shove/cover, paid return and later healing/shielding; death refusal remains explicit.",
+        "implication": "Protective action and survival motive coexist, with costs and insufficient earlier margins retained.",
+        "authority_and_adverse_limit": "GM narrates Aqua-related power but no main Aqua appearance is observed; no unlimited resurrection or fear cure.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "ba43dc3b81100d5d7f574245336606698a473a2c2c8e6accde72b3e48bf7c4d4"
+    },
+    {
+      "ledger": "SERIOUSNESS_OVERRIDE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-SO02",
+        "source": "TRPG-CORE",
+        "subjects": "Scenario prospective PCs/Okina/Goblins",
+        "printed_pages": "298–311",
+        "observation": "Refusal can end the scenario, retreat can fail the quest, failed harvest can lose loot or create attack, and crops threaten either side.",
+        "implication": "A comic source can preserve real branch failure and competing resources.",
+        "authority_and_adverse_limit": "No actual play session occurred; these are authored possibilities, not observed acts or a new R1 test.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-SO02",
+        "source": "TRPG-CORE",
+        "subjects": "Scenario prospective PCs/Okina/Goblins",
+        "printed_pages": "298–311",
+        "observation": "Refusal can end the scenario, retreat can fail the quest, failed harvest can lose loot or create attack, and crops threaten either side.",
+        "implication": "A comic source can preserve real branch failure and competing resources.",
+        "authority_and_adverse_limit": "No actual play session occurred; these are authored possibilities, not observed acts or a new R1 test.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "ba43dc3b81100d5d7f574245336606698a473a2c2c8e6accde72b3e48bf7c4d4"
+    },
+    {
+      "ledger": "SERIOUSNESS_OVERRIDE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "initial_proposal_exact": {
+        "id": "TRPGC-SO03",
+        "source": "TRPG-CORE",
+        "subjects": "Newcomer/Aqua/Darkness",
+        "printed_pages": "250–252,258",
+        "observation": "Near-death arrival and angry grievance remain despite apology comedy; sincere concern and excited harmful-interest coexist in Darkness’s questions.",
+        "implication": "Do not treat a gag’s resolution as proof of safe treatment, consent or absence of material consequence.",
+        "authority_and_adverse_limit": "No performed punch or new beating; other actor’s pleasure cannot authorize harm.",
+        "status": "PROPOSED_NOT_ROOT_ACCEPTED",
+        "changes_frozen_R1_or_local_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGC-SO03",
+        "source": "TRPG-CORE",
+        "subjects": "Newcomer/Aqua/Darkness",
+        "printed_pages": "250–252,258",
+        "observation": "Near-death arrival and angry grievance remain despite apology comedy; sincere concern and excited harmful-interest coexist in Darkness’s questions.",
+        "implication": "Do not treat a gag’s resolution as proof of safe treatment, consent or absence of material consequence.",
+        "authority_and_adverse_limit": "No performed punch or new beating; other actor’s pleasure cannot authorize harm.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_local_scores": false,
+        "root_received_utc": "2026-10-18T02:29:30.403076+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_AND_LIMITS",
+      "original_proposal_sha256": "ba43dc3b81100d5d7f574245336606698a473a2c2c8e6accde72b3e48bf7c4d4"
+    }
+  ],
+  "frozen_R1_and_fourscores_unchanged": true
+}

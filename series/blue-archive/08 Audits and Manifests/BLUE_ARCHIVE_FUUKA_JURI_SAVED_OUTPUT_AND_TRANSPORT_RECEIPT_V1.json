@@ -1,0 +1,390 @@
+{
+  "schema": "BLUE_ARCHIVE_FUUKA_JURI_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "EXACT_C_ONLY_PROPOSAL_COMPLETE_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 40132,
+      "sha256": "44c157461fb284bf33839e7f55062a59c822b920756c18891aea0606a41c564a",
+      "git_blob_oid_of_actual_bytes": "5ead65548e46ed2bd0de4d53975baaf095dabebc"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 42781,
+      "sha256": "d11547632418cb3e9f87d9aca30a04eb74a93ad806646480857af6c9f24b5d3e",
+      "git_blob_oid_of_actual_bytes": "87fb94b3e58d2a8077d9ff796ca1992b438b98ed"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: phase3_directed_relationship_synthesis_candidate"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: phase3_directed_relationship_synthesis_candidate"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          4,
+          4
+        ],
+        "canonical_lines": [
+          4,
+          4
+        ],
+        "exact_unchanged_lines": [
+          "scope: P3-REL-FUUKA-JURI-RECIPROCAL-CARE-BURDEN"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          5,
+          6
+        ],
+        "canonical_lines": [
+          5,
+          6
+        ],
+        "original_lines_complete_text": [
+          "generation: V1",
+          "status: local_complete_candidate_ROOT_independent_receiving_pending"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_generation: V1",
+          "historical_author_status: local_complete_candidate_ROOT_independent_receiving_pending"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          7,
+          17
+        ],
+        "canonical_lines": [
+          7,
+          17
+        ],
+        "exact_unchanged_lines": [
+          "author_mode: DEEP_SYNTHESIS",
+          "required_scope_ref: GEHENNA::significant_relationship_and_institution_responsibilities::4",
+          "mandatory_named_duties: []",
+          "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+          "source_generation: BA_REFRESH_20260928T032248159554Z",
+          "analytical_source_snapshot: 7a146891ad9ffd999b2c4377d66a73313217a510",
+          "source_admission: current_qualified_admitted_with_limits_Cycle008_and_accepted_GROUP_scope",
+          "historical_order_and_independence: UNKNOWN",
+          "performed_voice: UNRECEIVED",
+          "new_primary_native_raw_QA_AV_model_credit: 0",
+          "all14_original_gaps: OPEN"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          18,
+          17
+        ],
+        "canonical_lines": [
+          18,
+          27
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "artifact_type: directed_relationship_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_FUUKA_JURI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_FUUKA_JURI_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          18,
+          20
+        ],
+        "canonical_lines": [
+          28,
+          30
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# Fuuka–Juri: wanted cooperation, reassurance and the information care needs"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          21,
+          20
+        ],
+        "canonical_lines": [
+          31,
+          32
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_FUUKA_JURI_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_FUUKA_JURI_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/source114/7a/source120-chain-pending/count statements remain creation-time history. Published120 source c6908f2dba6f3b379bb84679fdd01175ac5894da/tree 40b006f65bd1c98422d9093d08f53696c2d54cc9 has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed five-package121–125 proposal takes effect only through complete ROOT installation, yielding125 (95character/15directedrelationship/5ensemble/10institution) and the unchanged10 completed non-denominator named duties. Later126+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** All172 literary lines retain both directions, unequal burden, reassurance, division, recipient knowledge, wanted taste/company,45 claims,109 saved joins,12 finite ends and nine rivals.21 normal grades and25 documentary private inverse records keep actual custody distinct. Complete214510-character factor inverse and27 prior dependencies remain bound; no H-original tuple is followed. School Lunch, Gourmet ensemble, Gourmet→Fuuka and characters remain separate."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          21,
+          172
+        ],
+        "canonical_lines": [
+          33,
+          184
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "**Source and responsibility boundary.** This argument owns the existing significant directed relationship: Fuuka→Juri and Juri→Fuuka, their reassurance, division of labor and information needed for cooperation. It has no mandatory named duty. School Lunch's institutional resources/evaluation and the separate Gourmet→Fuuka relationship remain required independent packages. Accepted Fuuka/Juri character arguments contribute at their actual scopes; they do not complete this parent by proxy. The source snapshot above is actual local7a, distinct from ROOT's dated report of published114/mainb76 integrated89 and the pending source publication audit. It is not an author provider check, newly integrated count or merge assertion. All stronger outcome, actor, chronology and performed claims below remain bounded.",
+          "",
+          "## 1. Core thesis: cooperation needs two willing lives and usable information",
+          "",
+          "Fuuka and Juri's relationship is neither a completed equal partnership nor a one-directional story of a competent caretaker carrying a useless dependent. They repeatedly help one another, take another's wanted life seriously and produce real shared good. Yet useful contribution, sincere reassurance and affection can coexist with unequal labor, incorrect explanations and information that a recipient needs but does not receive. Their most persuasive positive achievement is therefore particular responsive cooperation: Juri helps a worried Fuuka; Fuuka supports Juri's chosen service and thanks her attempt to protect a holiday; later Juri offers food with refusal expressly allowed, and Fuuka accepts. The actual shared eating matters. It does not silently settle permanent workload, safe future cooking or every past cost. [N02; N03]",
+          "",
+          "The relationship's ethical question is practical and literary: can the other person answer the actual request, knowing what it entails, while keeping a life and purposes of her own? Being pleased by food, being needed by a club and consenting to supply labor are different judgments. MINI's closing telephone reassurance makes that distinction unusually sharp. Juri trusts an account called protection while Fuuka is actually restrained and protesting. Juri's trust is real; informed approval of that restraint is not. The distorted account is external to the pair, but it acts on their communication and the work each expects of the other. Food and concern cannot replace the missing information. [N04 §8, `BA:mini:70006020:scene:003:u:0064–0079`]",
+          "",
+          "This does not make every scene an exercise in consent failure. Fuuka's ingredient bargaining, soba, quiet conversation, amusement, clothes and home company have affirmative ordinary value. Juri's contest win, actually enjoyed parfait, wanted cooking and gardening also matter before they are measured against another's danger. Their independent repertoire resists an interpretation that values each girl only for how efficiently she keeps the kitchen or the other girl functioning. The dyad is compelling because two differentiated wanted lives meet inside a real working relation. [N01 L518–520; F01–F11; J01–J10]",
+          "",
+          "## 2. Longitudinal states: local change without a fabricated conversion",
+          "",
+          "The represented episodes contain secure local sequences but no certified world calendar joining every BOND, whole message, group, gift, variant and event. The inspection has a three-hours-before-service opening and direct continuation into a revised grade. EVENT844 has a wanted day off, a café shift, an accident, a coordinated response and an explicit days-later kitchen coda. Those local orders support interpretations of changed information, renewed effort and particular learning. They do not establish that the inspection comes before or after the café, that every gift occurs after a crisis apology, or that a later-looking variant records a stage of maturity. [N02 L55; N03 L68–98; G07]",
+          "",
+          "At the inspection, anxiety precedes Juri's calming answer. A favorable checklist then precedes a different hazardous act of hospitality, Fuuka's attempt to prevent it, an unacted concealment proposal and Iori's narrated awakening/F. It would be false to reduce the entire sequence to a persistently hostile inspector or an always-deceptive provider. It would also be false to let the initial full marks erase the later incident. The state changes because a new event occurs, not because the earlier evidence retrospectively becomes insincere. Juri's reassurance has a finite place in that order; it never guaranteed the final grade. [N02, `BA:group:1601:scene:001:u:0029–0040`; `1602:u:0038–0092`]",
+          "",
+          "EVENT844 prints a stronger positive movement without producing a global conversion. Juri initially wants to serve and later actually achieves good customer response. That food becomes harmful; she still wants to cook again and contributes an effective decoy. After the incident she reports further instruction/practice and offers pancakes under an explicit permission to refuse. Fuuka and Sensei actually eat with her. Particular learned accomplishment and a more responsive offer are supported. Permanent mastery, all subsequent safe meals or transformed institutional labor are not. The text makes renewed effort credible by giving it a completed local meal rather than merely another promise. [N03, `BA:event:844:002:scene:001:u:0005–0013`; `008:u:0061–0081`; `009:u:0001–0034`; `010:scene:003:u:0027–0047`]",
+          "",
+          "The incomplete ends remain part of their history. The day off is interrupted and no replacement museum, shopping or karaoke outing is printed. Private soup attempts do not reach a certified final success; another prescription does not narrate ingestion or cure. After the café closes its incident, the kitchen still has too little time and too little recognition. These are not reasons to deny the finished pancake meal. They prevent that meal from becoming a compressed ending to everything the relationship needs. [N01 L518–520; N03 L75/94–98; J06]",
+          "",
+          "## 3. Fuuka → Juri: recognition that sometimes carries a painful limit",
+          "",
+          "Fuuka's first response to Juri's chosen café shift is to recommend rest. She then supports a preference different from her own: Juri wants work because service can approximate the experience of others enjoying her cooking. This is a significant directed accommodation. Fuuka does not need to want the same day in order to take Juri's day seriously. Likewise, recommending rest is not itself evidence that she suppresses Juri's vocation; its meaning depends on the subsequent answer and change of response. [N03, `BA:event:844:001:scene:001:u:0023–0044`]",
+          "",
+          "When the trouble reaches her, Fuuka chooses to help and thanks Juri's care for her holiday. Both clauses matter. She acknowledges the failed attempt's protective intention while answering the actual problem. That acknowledgment avoids treating Juri's contribution as worthless simply because it did not preserve the intended result. Yet Fuuka's interrupted leisure remains a real cost. A freely chosen response at that moment does not prove that other people may routinely requisition her free day or that she had no contrary desire. [N03 L75]",
+          "",
+          "The days-later meal gives Fuuka's recognition a concrete basis. Juri fetches vegetables and asks about soaking potatoes; these are actual contributions within coordinated nikujaga preparation. Fuuka then says School Lunch cannot operate without Juri. This is neither decorative reassurance nor proof Juri is the principal cook. It acknowledges needed work at a specific practical relation. Juri appreciates the statement while hearing a painful implication that she is not a cooking combatant. Recognition can be sincerely offered and partly fail to recognize the identity the recipient wants. The argument must preserve both answers, rather than assigning one the role of objective truth and treating the other as ingratitude. [N03, `BA:event:844:010:scene:002`; `010:scene:003:u:0010–0017`]",
+          "",
+          "Fuuka's attempts to protect people can also be critically examined. At inspection she distinguishes bad taste from negligent hygiene and tries to stop Iori consuming the suspect juice. After Iori becomes unresponsive, she proposes making the victim nonexistent before the Prefects discover her. Fear of another F and reduced resources explains why concealment becomes thinkable; it does not make the proposal prudent or recipient-responsive. It remains proposed, not a completed disappearance or killing. Her genuine warning and hygiene effort must coexist with that alarming turn. A narrative that makes her only the blameless adult of the pair would lose her own agency in the adverse evidence. [N02, `1601:u:0060–0073`; `1602:u:0076–0089`]",
+          "",
+          "There are also limits on attributing her doubts to Juri's knowledge. Fuuka's parenthesized questions about the inspection becoming a contest and hope that it has ended safely are written as thought despite dialogue tagging. They cannot become criticisms definitely communicated to Juri. What Fuuka inwardly assesses, what she says, what Juri hears and what the narrative permits the reader to see are not the same evidence condition. That distinction keeps the relationship open to misalignment without inventing a conversation or diagnosing secret contempt. [N02 L59; `1601:u:0074/0081`; `1602:u:0060`]",
+          "",
+          "## 4. Juri → Fuuka: help, wanted craft and protective mistakes",
+          "",
+          "Juri's calming response to Fuuka's inspection anxiety is a real directed act. Fuuka recalls thorough preparation and a smiling inspector followed by a poor result; Juri suggests bad luck and helps her move forward. This reassurance does not establish that the former grade was wrong, that the former inspector smiled now, or that the current inspection will be safe. Its immediate value is that another person meets her worry and makes continued work possible. The act can matter without acquiring the authority of an audit or a predictive diagnosis. [N02, `BA:group:1601:scene:001:u:0029–0040`]",
+          "",
+          "Juri also supports Fuuka's hygiene efforts when Iori recounts the former poisoning/monster report. Her enthusiastic wish to fight the inspector then sits awkwardly beside Fuuka's question about why an evaluation has become a heated competition. These are incompatible local framings, not proof Juri intends to poison anyone or secretly defies the club. A peer can be loyal while misunderstanding what would actually help. The later offer of juice is intended as fresh hospitality, a personal welcome separate from the checked inventory. Sincerity helps explain the offer; Iori's distress shows why intention cannot determine the recipient's result. [N02, `1601:u:0060–0082`; `1602:u:0061–0083`]",
+          "",
+          "At the café Juri tries to protect Fuuka's rare holiday by resolving not to call her. That self-restraint would be easy to romanticize as perfect devotion. The sequence makes it harder: the manager presses Juri to cook despite her explicit inability and proposes recruiting Fuuka for higher pay. Juri elects to try the work in order to protect Fuuka. Wanting to help and being pressured coexist. Her commitment is intelligible, but the decision exposes other customers and eventually the person whose rest she hoped to protect to consequences they did not choose. No malicious intent or freely chosen culinary competence needs to be invented to criticize that attempt. [N03, `BA:event:844:001:scene:001:u:0038–0044`; `001:scene:003:u:0023–0057`]",
+          "",
+          "The initial competent café service must remain independent of that pressure. Juri uses the manual to suggest a pairing, recommends a parfait she likes, receives actual orders and praise, and declines permanent recruitment because School Lunch matters to her. She is not only trying to earn Fuuka's tolerance by compensating for failure. She has an enacted ability, a taste and an answer about where she wants to work. That positive repertoire makes the later imposed cooking a change in the request, rather than proof the entire chosen shift was a mistake. [N03, `001:scene:002:u:0020–0027`]",
+          "",
+          "The decisive positive direction is not self-sacrifice alone. Juri really helps prepare the resumed school meal, expresses gratitude and eventually asks whether Fuuka and Sensei will eat her pancakes, with refusal explicitly acceptable. She reports instruction/practice and seeks an answer; they accept, and shared eating is narrated. Offering an exit respects a different question from making the food pleasant. Both conditions are present locally. Juri's value as a companion and maker is strengthened by a completed achievement that does not require the other to deny reservation or relinquish the ability to say no. [N03, `010:scene:002`; `010:scene:003:u:0027–0047`]",
+          "",
+          "## 5. Ordinary ends: a kitchen is not the whole of either life",
+          "",
+          "Fuuka's desired holiday is not mere downtime needed to restore output. Her considered shopping, stadium, museum and karaoke are uncompleted possibilities, but they reveal what a free day could be for her. Her private bargaining/return, soba, quiet conversation, home accompaniment, clothes, hair and amusement include actual local acts and wanted enjoyment. They matter even if they never reduce her workload or improve Juri's next dish. The relationship must therefore preserve both the wanted life and the exact incompletion where an interruption prevents it; invented compensatory leisure would erase the cost rather than honor it. [N01 L518; N03 L68/75; F01–F04/F08–F11]",
+          "",
+          "Juri's private repertoire similarly exceeds an apprentice's usefulness. A contest win/trophy/shared return and an actually eaten/appraised parfait are finished ordinary goods. Knowledge of order and times coexists with failed curry, sprinklers and an uncompleted replacement meal. Repeated attempts, tears, recognition and a hand request have their own value while the final dish remains unresolved. Gardening supplies chosen pleasure alongside cooking, not proof she should abandon one vocation for another. A later apology, health claim, withdrawn explanation and future invitation are a whole message tail with reported and prospective force, not a completed medical or social settlement. [N01 L520; J01–J07, including the corrected J06/whole-MM endpoint]",
+          "",
+          "These private encounters are recipient-specific contrasts, not hidden Fuuka–Juri scenes. Fuuka's eighteen dishes can be experienced adversely despite care; Japanese eating and Korean tasting formulations remain separate. Her actual prescription does not print supply, administration, ingestion or cure; eel purchase/return does not print preparation or a stamina increase. Juri's actual contest/parfait prevents a blanket failure verdict, while her soup's final repeated attempts stay unresolved. This contrast explains why each girl's sincere labor needs a particular recipient's answer. It does not create a unified medical pattern or make their independent private conditions identical. [N01 L518–520; F05–F07; J02/J03/J06]",
+          "",
+          "The gifts provide a different form of company. Fuuka visits with food, accepts Sensei's invitation to eat together and supplies cocoa; the adult actually drinks it and experiences comfort. Her matching-cup explanation denies a special intention, and leftovers/containers remain instructions or future concerns. Juri buys a fallback after reportedly other tasters collapsed, withholds the handmade version from concern, then gives it after explicit acceptance; the adult's consciousness fades. Craft, worry and emotional welcome all have affirmative meaning, but only one of these endings is straightforwardly comforting. Neither prints a Fuuka–Juri exchange or gives the adult's acceptance universal authority over their food and work. [N05, `BA:event:810:039:scene:001:u:0031–0052`; N06, `BA:event:810:040:scene:002:u:0018–0034`]",
+          "",
+          "## 6. Division of work and the information cooperation requires",
+          "",
+          "The inspection distinguishes several kinds of knowledge. Fuuka knows the labor of preparation and remembers a previous disappointing result; Juri offers reassurance; Iori brings a quoted former-inspector diagnosis/monster description; the checklist supplies actual favorable findings. No one statement becomes a comprehensive account of the kitchen. The moving pot is represented, but Juri's selfhood explanation is an interpretation rather than an authenticated food-person ontology. Fuuka's inference about the juice is strong in its local narrative position, but not chemical analysis of every previous hazard. Cooperation can fail because explanations differ, not simply because one person lacks goodwill. [N02 L88–106]",
+          "",
+          "This distinction changes how the division of labor should be read. Actual preparation and indispensability do not tell us whether the work calendar is fair. Fuuka's insufficient-time/lack-of-recognition complaint continues after the café incident. Juri's needed assistance and her hurt at the perceived limit on cooking identity are also real. One can acknowledge the current arrangement's usefulness without treating it as the only legitimate future or as already freely negotiated. Equally, a critical account of workload must not erase chosen cooking, practical support or pleasure by declaring all food work imposed. [N03 L96–98]",
+          "",
+          "The MINI telephone ending demonstrates information asymmetry rather than a shared decision to accept burden. The Gourmets find Fuuka happily selecting ingredients; she admits forgetting to contact Juri and anticipates apology. That is Fuuka's own ordinary fallibility, and the initial absence need not be explained as captivity. Later she is actually bound and protesting while others taste. The account to Juri conceals that restraint and calls it protection. Juri's trust answers the account she receives. It does not show that she would agree if told the relevant facts, that Fuuka agrees with the explanation, or that the chase subsequently frees her. Keeping those conditions separate prevents either girl from being made an authorizing participant in an externally imposed arrangement. [N04 §8, `70006010:scene:001:u:0061/0071`; `70006020:scene:003:u:0064–0090`]",
+          "",
+          "The genuine cookie-making success in that same MINI must survive this criticism. Cookies are completed, displayed, eaten and praised; Mine's pleasure and confidence are actual. Fuuka chooses to help Mine, postpones the Gourmets' lunch and tells them to leave. Their taste offer is accepted despite her warning. These acts give craft, flavor and cute appearance intrinsic value while proving that Fuuka's chosen task can differ from the meal others want her to supply. The later restraint does not make her earlier choice fictitious; the earlier permission to taste does not authorize the later bondage. External Gourmet and Rescue directions have their own required homes and costs. [N04, `70006020:scene:002:u:0032–0077`; `scene:003:u:0010–0058/0064–0090`]",
+          "",
+          "## 7. Adversity: neither goodwill nor comedy settles another's result",
+          "",
+          "Iori's inspection illustrates why a hostile tone cannot be used to dismiss the recipient's later experience. She actually records favorable checks, explains she came to assess hygiene rather than find faults and considers revisiting the former assessment. Juri praises her fairness. The hospitality juice then produces a different evidence state. Fuuka offers water, Juri supplies the fresh fruit drink, Fuuka attempts to stop consumption too late, and Iori becomes unresponsive. Izumi actually enjoys the same juice; narration says Iori safely awakens and gives F after no solution worked. Different recipients and different ends remain. There is no inspected immunity, clinical clearance, permanent enmity or enacted next budget cut. [N02, `1602:u:0001–0014/0038–0057/0061–0092`]",
+          "",
+          "The café repeats a formally related distinction without establishing the same mechanism. Juri wants to taste before service, but the food is taken out first. Customers actually eat and find it delicious before movement and attacks create real harm. The initial good taste does not retroactively disappear; pleasure cannot guarantee a harmless later result. The chef's earlier gunpowder/burner accident is separately caused and is not Juri's cooking. Likewise, her effective decoy and the eventual coordinated response do not prove her self-reliance, invulnerability or general incapacity. Criticism has to identify the actual method, stage and recipient rather than make one spectacular failure her identity. [N03 L72–75/89–94]",
+          "",
+          "Fuuka's objections are meaningful adverse responses. She protests treating the incident as insignificant and challenges detached cinematic enjoyment while people need help. Other participants retain their own objections: a painfully awakened victim protests, Chinatsu questions a technique intended for other situations, Ako objects to unwanted seizure and demands help. Sena's qualified explanations are in-world assessments, not an externally validated clinical account. The comic register and later incident closure coexist with those costs. Nothing prints fully repaired buildings, compensated café losses, all showers or complete recovery of every victim. A dyadic reading that only celebrates Juri's renewed confidence would leave the actual recipients outside the argument. [N03 L77–94]",
+          "",
+          "The positive end addresses part of this problem by making the next offer answerable. Juri's final refusal permission differs from the manager's pressure and from forced creature contact. Fuuka and Sensei accept, and all actually eat. This is a completed local response, not merely intended hospitality. Yet recipient-responsive asking and particular consumption still do not prove a safe future process, complete restitution or revised staffing. It is strongest precisely when stated at its finite extent: the final meal is a real achievement, and the argument need not deny it in order to keep the other debts open. [N03 L98; E8]",
+          "",
+          "## 8. Sensei, peers and crisis: separate voices and separate answers",
+          "",
+          "Sensei helps make Fuuka's wanted holiday sayable, congratulating the day off and encouraging her own choice. During the incident the adult coordinates, objects to painful treatment and ultimately acts under Hina's operation-bound transfer of control. Juri's actual decoy, Hina's delegation and the responders' participation remain indispensable. Sensei's presence does not make the pair's cooperation adult-created or supply an answer to all their labor concerns. In G160 no teacher or player choice occurs; projecting adult reassurance into that inspection would change its relationship structure. [N03 L68/86/91; N02 L59; `BA:event:844:009:u:0031–0034`]",
+          "",
+          "The gifts make the adult's own judgment contestable. Welcomed cocoa, denial of a three-chocolate-meal pattern, actual warmth and denied special-cup meaning support a particular companionship with Fuuka. Juri's deliberate caution and bought fallback are positive judgment; the adult's validation and explicit handmade acceptance do not prevent the adverse fading-consciousness end. Both G8 alternatives in Juri's gift are conditional rather than two jointly enacted statements. The Japanese and Korean additional formulations keep their locale boundaries. A teacher's encouragement can meet a student's desire without being a universally sound safety judgment, a settled romance or permission another person has granted. [N05 L39–47/69–73; N06 L39–47/69–73]",
+          "",
+          "The Gourmet context makes third-party demands visible. GROUP1104's reported4,000 eggs/two-hour task, missing oil/one pan and Juri's absence elicit genuine help, but Fuuka's warning to ask before touching is overridden and no completed meal/cleanup/work repair follows. In G1901 the lemon debate is inside Ako's report: Haruna enjoys discussion while Fuuka inwardly asks for rescue. Those quoted persons are not all physically attending the Prefect meeting. A dyad cannot be credited with accepting demands merely because one member is absent or discussed. Supply/help, pleasure, continued captivity and provider freedom require distinct tests. [N08; N10; N07 L604; N01 L526]",
+          "",
+          "MAIN S2V002 likewise supplies public contrast rather than a missing private calendar. Fuuka and Juri continue ordinary work skeptically during broadcast rhetoric; that is a particular stance, not a universal immunity test. Fuuka refuses an impossible ration demand and plans to slow supply. Later apology, rejection of imposed food control and locally completed reconsideration matter alongside unreturned property and incomplete repair. Final's particular driving/arrival is a public contribution, not a permanent availability contract; no Juri role is invented from shared contextual files. These bounds allow the dyad's wanted everyday life to inform public freedom without making its private kindness acquit another's force. [N07 L596–608; N09; N11/N12; prior adequate S2/Final scopes]",
+          "",
+          "## 9. Written register, messages and attribution",
+          "",
+          "Juri's written `先輩` respect and Fuuka's questions, broken admissions and objections give the working relation texture. Respect does not by itself mean total obedience, nor do complaints prove absence of affection. The inspection's thought-like parenthesized lines cannot be made public criticisms; responsive character narration cannot categorically be called inaudible. Sixteen canonical/raw segment conflicts are retained in that owner, and its recalled diagnosis line is not a new medical witness. Exact clean narrative ends are firmer than assigning every suspect banter line to a pristine stable voice. This is written register, not heard delivery, pitch, acting or proof the game has no audio. [N02 L49/57–82/116]",
+          "",
+          "EVENT844's literal drifts also resist overly exact dialogue portraits. Context supports the chef-pressure, refusal, response and finished meal sequence, while the printed self-address/manager/robot and observer-like labels remain source-local seams. Its #video cue has been received as text, not inspected footage. The complete argument's medical explanations, instruction history and habitual claims are qualified differently from narrated eating. A psychological thesis about hidden motive cannot be secured by silently correcting a drifting label. [N03 L72/103–105]",
+          "",
+          "Whole MomoTalk tails retain what follows an interior Schedule witness: gratitude, embarrassment, criticism, self-report, withheld explanation and future invitations. They are not all enacted meetings or messages certainly known to Fuuka/Juri alike. Formal BOND options, inward ns, sequential Answers and condition-zero records also do not supply one cumulative performed history. Juri's continued soup attempts and Fuuka's quantities have material locale qualifications; the gifts distinguish bought/handmade, Japanese consciousness receding and Korean added seat-collapse wording, Japanese tear-response and Korean love-response. Retaining these conditions is part of the literary argument about how information reaches a recipient, not an obstacle to it. [N01 L546–550; N07 L612–614; F05/J06/J07; N05/N06]",
+          "",
+          "## 10. Competing readings: serious alternatives at their strongest evidence",
+          "",
+          "**R1 — Complementary skills already make the pair reciprocal.** Useful preparation, Fuuka's indispensability statement and actual shared pancakes give this reading considerable force. It correctly refuses to measure Juri only by failed cooking. But operational need is not a full account of both wanted lives: Juri hears a painful identity limit, Fuuka still voices overload, and MINI reassurance lacks decisive information. The bounded reading is actual cooperation with uncompleted fairness and communication debts, not a relation devoid of reciprocity. [N03 L96–98; N04 L176]",
+          "",
+          "**R2 — Fuuka alone is the competent caretaker.** Her repeated burden, practical knowledge and attempted prevention support the asymmetry. The reading fails if it erases Juri's competent service, contest/parfait, useful assistance, effective decoy and chosen identity, or removes Fuuka's own concealment proposal. The asymmetry is an important feature of particular work, not a warrant to make one girl all agency and the other only a problem. [N01 L518–520; N02 L104; N03 L70/89–98]",
+          "",
+          "**R3 — Juri's affection and effort excuse her mistakes.** Trying to protect Fuuka's holiday, gratitude and repeated practice are meaningful, and Fuuka actually thanks the attempted care. Still, customer distress, Iori's experience and teacher fading are not canceled by intention. The relation needs recognition of effort together with an answer to what another must endure. Treating effort as worthless is unjustified; treating it as sufficient is also unjustified. [N03 L72–75/98; N02 L102–106; N06]",
+          "",
+          "**R4 — Concealment prudently protects the club and its future.** Scarce resources and feared budget reduction make the temptation intelligible. The initial checklist praise and the harmed inspector's independent situation nonetheless remain; preserving the club cannot be treated as permission to remove a relevant victim from view. No completed concealment is printed, so neither accomplished wrongdoing nor successful protection is available as an ending. Fuuka's good work and bad proposal coexist locally. [N02 L88–106]",
+          "",
+          "**R5 — Comedy makes the harm harmless.** Surreal food, genre flags, theatrical reactions and resumed routine allow a light tonal reading. They do not erase the frightened customers, unwelcome restraint, victim protest, lost rest or Juri's distress. The text can end an incident without completing a clinical or reparative audit. Acknowledging comic form is stronger when it retains the adverse written acts than when it silently translates them into assent. [N03 L75–94; N04 L170/176]",
+          "",
+          "**R6 — The story is a steady maturation into safe equal cooking.** Continued practice and the final shared meal are unusually strong positive evidence. That local learning must survive. Yet source-world chronology is unanchored across classes, the private final soup remains unresolved and the event's workload complaint persists. A particular successful offer and meal support responsive accomplishment; they do not certify permanent mastery, a variant ladder or a finished labor arrangement. [N01 L520/546–550; N03 L96–98]",
+          "",
+          "**R7 — Good food simply is effective care.** Taste, warmth, cute craft and sincere affection make shared food more than a safety problem. But quantity discomfort, varied household preference, dangerous hospitality and explicit refusal permission distinguish pleasure, safety, permission and benefit. Izumi's enjoyed juice and Iori's adverse response must both remain. The responsive relationship asks which recipient enjoys or accepts which offer, not whether food as an abstract category is benevolent. [N01 L518; N02 L102–106; N03 L96–98; N04 L174]",
+          "",
+          "**R8 — Fuuka's protection suppresses Juri's chosen self.** Juri's hurt at the noncombatant implication and Fuuka's anxiety provide a serious basis for this reading. Actual support for the chosen café shift, indispensable help and accepted final offer are equally strong contrary evidence. The dyad contains tension between recognition of present usefulness and the identity the maker wants; it is not adequately described as either total domination or perfectly successful encouragement. [N03 L68/96–98]",
+          "",
+          "**R9 — The pair is only an institutional arrangement.** Shared work, resources and inspection criteria explain recurrence and burden. They do not exhaust wanted company, care for another's holiday, gratitude, hurt recognition and trust in a call. Conversely, affective warmth cannot substitute for institutional repair. The separate home boundary is an interpretive necessity: this directed argument follows what each person can answer, while the institution must independently account for the resources and evaluation that shape those answers. [N02 L88; N03; N04; original GEHENNA responsibility4]",
+          "",
+          "## 11. Evidence route, finite outcomes and remaining warrant",
+          "",
+          "**Adequate source route.** N01 is the maintained Gehenna20 private/contextual account; N02 GROUP1601–1602; N03 EVENT844; N04 MINI32; N05/N06 gift039/040 under the current E810 envelope; N07 S2V002 working account; N08 GROUP1101–1104; N09 EVENT820; N10 GROUP1901–1902; N11/N12 FinalC4E003/E004. The companion expands these exact bindings and the remaining S2/Final/E810 checkpoint comparands through the independently lossless School Lunch factor. F01–F12/F-CMP and J01–J11/J-CMP name this same author's prior effective private and comparison receiving at exact original scopes. Aggregation/comparison adds no source objects. No preserved `_phase2_work` file, unclassified lead, nine UNBOUND or39 unpublished contents/hashes is accessed for this synthesis.",
+          "",
+          "**Current authority.** Cycle008's maintained admission qualifies producer-era pending/UNADMITTED/unapplied/Phase3-unestablished wording retained inside older analytical bodies, including gift039/040 and the E810 source rows. Their literary meanings remain adequate at the accepted limits; no new admission is effected here. Japanese pin/generation, source-mode/locale findings, UNKNOWN historical order/independence and UNRECEIVED performed voice remain distinct. New consequential refreshes are complete G160, exact Gehenna20 private/mode paragraphs, MINI§3/§8, E844 substantive57–119, gift substantive38–73 and the specific current gift/S2 envelope. Unchanged prior whole adequate owners are reused honestly; byte equality is not new primary reading. Exact refreshed/reused extents and saved paragraph joins are in the receipt.",
+          "",
+          "| Finite end test | Bounded outcome retained |",
+          "|---|---|",
+          "| E1 | Actual favorable hygiene checks precede hazardous hospitality and later narrated safe awakening/F; they are not one invariant evaluation or a broad clinical/safety certification. |",
+          "| E2 | Fuuka proposes concealment; it is unacted. Juri interprets unresponsiveness as sleep; that is not an authoritative diagnosis or proof Fuuka knows that interpretation is right. |",
+          "| E3 | Actual useful preparation and indispensability recognition coexist with overload and hurt identity. No durable equal labor calendar, future staffing or permanent mastery is printed. |",
+          "| E4 | Juri chooses café service and rejects permanent recruitment; another chef's accident then brings pressured cooking despite her warning. These are different requests and degrees of choice. |",
+          "| E5 | Customers actually eat/approve pancakes before harm. Portion objection, moving food and later disposal/protest retain their distinct agents and phases. |",
+          "| E6 | Protecting Fuuka's holiday is intended and acknowledged; the outing is interrupted. No completed replacement shopping, museum, stadium or karaoke day is supplied. |",
+          "| E7 | Juri's real decoy works within Hina's bounded delegation, Sensei's actual command/firing and responders' acts. No single-agent victory or complete victim/café/city restitution follows. |",
+          "| E8 | Days-later preparation, refusal-permitted offer, acceptance and collective pancake eating actually occur. They are not merely wishes and do not certify every future meal or institution. |",
+          "| E9 | Contest award/trophy/return and actual parfait are complete; final soup attempts remain unresolved. Neither permanent all-failure nor all-success is supported. |",
+          "| E10 | Private care/prescription, cocoa warmth and bought/handmade chocolate have independent recipients and different ends. No combined dyadic scene, demonstrated medicine ingestion/cure or universal consent is added. |",
+          "| E11 | Ingredient pleasure, forgotten contact and anticipated apology precede external concern, real cookies and a still captive protesting cook. Juri trusts concealed-restraint reassurance; release remains unprinted. |",
+          "| E12 | Local public driving/arrival/apology/agreement are real at their own scopes. They do not date every private story, acquit coercion, repair the labor relation or create a Juri Final appearance. |",
+          "",
+          "| Stable gap — all OPEN | Contribution and remaining warrant |",
+          "|---|---|",
+          "| **G01 Ordinary and private breadth** | Both accepted19/17 pools and independent wanted ordinary ends remain represented. No all-life, unselected encounter or unrestricted repertoire conclusion follows. |",
+          "| **G02 Yuuka council/club decision transfer** | Kitchen cooperation supplies no new Yuuka decision transfer; her separate office/private warrant remains required. |",
+          "| **G03 Serika service, peer and reciprocity range** | Service is a bounded thematic comparison, not a new Serika act, answer or completed range. |",
+          "| **G04 Hina crisis causality, accountability and ordinary contrast** | E844's exact delegation/response supports local contrast. It does not close Hina's full victim/accountability or ordinary dossier. |",
+          "| **G05 Arius and PS68 ordinary/aftermath transfer** | No Arius/PS68 ordinary or aftermath completion arises from similar gratitude, café or care motifs. |",
+          "| **G06 Cross-school ordinary repertoire** | Actual selected teaching/cookie/recipient directions broaden comparison; they are not exhaustive cross-school authority or a generic friendship network. |",
+          "| **G07 Story-world chronology** | Inspection continuation and days-later café coda support local order only. BOND/MM, gifts, variants, group and public scenes have no common certified calendar. |",
+          "| **G08 Event naming and repeat contexts** | Exact numeric routes and source-local repeats are preserved. No shared kitchen/food context becomes one event or an anchored regression. |",
+          "| **G09 Written speaker/choice attribution** | Inward doubts, report-layer captivity, literal seams, unnamed actors, choices and printed endpoints retain their separate conditions; no silent actor correction or pooled dialogue history. |",
+          "| **G10 Performed voice** | Address, recipe/formulation and written objections are textual. Prosody, acting, audiovisual cues and audible delivery remain unreceived. |",
+          "| **G11 Hoshino's Yume record and office states** | This food/care comparison establishes no Yume history or Hoshino office transition; the distinct dossier remains open. |",
+          "| **G12 Counterpart, system and variant identity** | Exact Fuuka/Juri/costume keys and masked visitor's source-local identification remain bounded; no variant chronology, registry repair, food-person ontology or mechanism. |",
+          "| **G13 Office, contract, safety and technical outcomes** | Actual food, inspection, harm, awakening and incident closure do not certify clinical cause/cure, safe chemistry, permanent culinary/labor reform, consent or complete restitution. |",
+          "| **G14 Unclassified/mode continuity** | Existing unclassified833 leads remain available/unadmitted mode debt. Their metadata supplies no plot, physical Juri role or new analytical admission. |",
+          "",
+          "The completed bounded literary responsibility is the argument that wanted cooperation requires both persons' independent ends and the information needed to answer one another. Actual reassurance, needed help and shared food are its positive evidence; pressure, asymmetry, concealment and independent adverse recipients are its necessary contrary evidence. All stronger warrants remain open. ROOT's independent complete receiving/acceptance and any canonical persistence remain pending; neither this saved argument nor either prior character study completes the institution, Gourmet relationship or full355 goal."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "all_frozen_original_transports": [
+    {
+      "path": "FUUKA_JURI_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_FUUKA_JURI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 40132,
+      "sha256": "44c157461fb284bf33839e7f55062a59c822b920756c18891aea0606a41c564a",
+      "git_blob_oid_of_actual_bytes": "5ead65548e46ed2bd0de4d53975baaf095dabebc",
+      "immutable_transport_path": "immutable_originals/FUUKA_JURI_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_FUUKA_JURI_DIRECTED_RELATIONSHIP_SYNTHESIS.md"
+    },
+    {
+      "path": "FUUKA_JURI_DIRECTED_RELATIONSHIP_SYNTHESIS/FUUKA_JURI_SOURCE_CLAIM_AND_SAVED_RECEIVING_RECEIPT_V1.json",
+      "bytes": 326713,
+      "sha256": "fc413dc1b13cf567ebc42784662508b8f228ce27579ecfa6a4f72e6916a0e77f",
+      "git_blob_oid_of_actual_bytes": "807e92f8b8bb1f4f2779f0b8248561b6aa76551d",
+      "immutable_transport_path": "immutable_originals/FUUKA_JURI_DIRECTED_RELATIONSHIP_SYNTHESIS/FUUKA_JURI_SOURCE_CLAIM_AND_SAVED_RECEIVING_RECEIPT_V1.json"
+    },
+    {
+      "path": "FUUKA_JURI_DIRECTED_RELATIONSHIP_SYNTHESIS/FUUKA_JURI_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 5831,
+      "sha256": "b7bdfd220fc8f0b4c140345f8a7607638b040928e7a22b7c214eae314561c750",
+      "git_blob_oid_of_actual_bytes": "bf15b2d1b7fc840be42fc61f4f32abc1d12b39d6",
+      "immutable_transport_path": "immutable_originals/FUUKA_JURI_DIRECTED_RELATIONSHIP_SYNTHESIS/FUUKA_JURI_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    },
+    {
+      "path": "ROOT_FUUKA_JURI_COMPLETE_SOURCE_SCOPED_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json",
+      "bytes": 7430,
+      "sha256": "23e40c724aaab34ece972fcfc3a70a0acc7c2e3cf009585ae7f65196918a76c9",
+      "git_blob_oid_of_actual_bytes": "bf44f8083e0e8e2e9c6cda84d099769d4fc61b2d",
+      "immutable_transport_path": "immutable_originals/ROOT_FUUKA_JURI_COMPLETE_SOURCE_SCOPED_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json"
+    },
+    {
+      "path": "FUUKA_JURI_DIRECTED_RELATIONSHIP_SYNTHESIS/FUUKA_JURI_COMPLETE_RECEIVING_RECEIPT_V1.md",
+      "bytes": 4608,
+      "sha256": "e82f615c081f405c1ccb1eac0b6f4d5a5089f8d0f87c2e39c23e92d1d8972a05",
+      "git_blob_oid_of_actual_bytes": "9ee8fadafe1ae9a62c6c3944ced852972b9567ce",
+      "immutable_transport_path": "immutable_originals/FUUKA_JURI_DIRECTED_RELATIONSHIP_SYNTHESIS/FUUKA_JURI_COMPLETE_RECEIVING_RECEIPT_V1.md"
+    },
+    {
+      "path": "FUUKA_JURI_DIRECTED_RELATIONSHIP_SYNTHESIS/FUUKA_JURI_INDEPENDENTLY_REVIEWABLE_EXACT_BINDING_PROBE_V1.json",
+      "bytes": 80013,
+      "sha256": "a1e3eb4d56f5a83ae60ca0d49db254a713921ef7316b9ff58bfe8804d9586811",
+      "git_blob_oid_of_actual_bytes": "15101734be72dd28e4bc73a7674f416ca73cffac",
+      "immutable_transport_path": "immutable_originals/FUUKA_JURI_DIRECTED_RELATIONSHIP_SYNTHESIS/FUUKA_JURI_INDEPENDENTLY_REVIEWABLE_EXACT_BINDING_PROBE_V1.json"
+    }
+  ],
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_FUUKA_JURI_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 89311,
+      "sha256": "b5b7ad74b78f1bcd72ff02bf5a0babd73d9808935dfada2ed382ba8ccd399e5c",
+      "git_blob_oid_of_actual_bytes": "ecbbf096f396909c818114c7a239eed85f8c0377",
+      "attachment_names": [
+        "FUUKA_JURI_COMPLETE_RECEIVING_RECEIPT_V1.md",
+        "FUUKA_JURI_INDEPENDENTLY_REVIEWABLE_EXACT_BINDING_PROBE_V1.json"
+      ]
+    }
+  ],
+  "canonical_link_translations": [],
+  "mandatory_operative_qualification": "All172 literary lines retain both directions, unequal burden, reassurance, division, recipient knowledge, wanted taste/company,45 claims,109 saved joins,12 finite ends and nine rivals.21 normal grades and25 documentary private inverse records keep actual custody distinct. Complete214510-character factor inverse and27 prior dependencies remain bound; no H-original tuple is followed. School Lunch, Gourmet ensemble, Gourmet→Fuuka and characters remain separate.",
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

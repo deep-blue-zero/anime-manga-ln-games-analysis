@@ -1,0 +1,475 @@
+{
+  "schema": "MIDORI_CURRENT_PUBLIC12_DATED_COMPOSITION_SCOPE_AND_CONDITIONAL_TRANSPORT_CONTROL_V1",
+  "artifact_id": "MIDORI_CURRENT_PUBLIC_CONTROL_20261015_V1",
+  "metadata_prepared": "2026-10-15",
+  "current_role": "C-only public metadata proposal under actual private8 acceptance WITH LIMITS; all preparation status labels are explicitly dated. Actual current public-byte QA/adoption/install/publication/runtime require their own later dated receipts.",
+  "exact_current_first11_nonself_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIDORI_CHARACTER_MONOGRAPH.md",
+      "bytes": 32805,
+      "sha256": "aa77b794f9f9e2776bae01533b27e1fa013b8f8dafa319c0be0907688cc85e12",
+      "git_blob_oid_of_actual_bytes": "70b681d9033bcc7ed33efea479fffe1f6254537e"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP000_MDP035_V1.json",
+      "bytes": 462039,
+      "sha256": "988e343ce06aba4fbcf4bbb29c617380406b0cc037bd92d1aa127ebad42e0312",
+      "git_blob_oid_of_actual_bytes": "0044da78c882edf72c2d4b38a6992c4b3cae30ba"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP036_MDP070_V1.json",
+      "bytes": 587188,
+      "sha256": "2a050c21c6384b8b95574c75fc8cdb7a8ffd84dc2839090c6002ffdeac8f72e3",
+      "git_blob_oid_of_actual_bytes": "78ebbda9371f61ad0dbb1040c4ae8e79298923ee"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP071_MDP104_V1.json",
+      "bytes": 772459,
+      "sha256": "b95acf2d28139d62f604ca71b8e6212583ae7eea3e387da20f60896db7c52c62",
+      "git_blob_oid_of_actual_bytes": "d3de857c69d50dcbde80cb1eedc17aaf5892f8ad"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_SOURCE6_COMPLETE12_PREQUESTIONS_ANSWERS_GRADE_AND_ORIGINAL_COMMON105_QUALIFIERS_V1.json",
+      "bytes": 61848,
+      "sha256": "f50a3deaf7bf46899e71247bd0b3337e66ab7701a090973b1fe865473c2425ed",
+      "git_blob_oid_of_actual_bytes": "d17f8a705f116e5e9c986eab77b5df8322b6da5b"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_COMPLETE_LITERAL59_SOURCE_QUESTION_NEW105_RIVAL_END_GAP_REGISTER_V1.json",
+      "bytes": 462224,
+      "sha256": "3bb113f73ac09d7d5544f7b22c0e7c35c28b595bc84beb5f0f4b1d06cd6f3700",
+      "git_blob_oid_of_actual_bytes": "d4074784158bb533e81824c41cf363ee3b86d4ba"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSE_EXACT_PART_BODY_RELATION_INDEX_V1.json",
+      "bytes": 338639,
+      "sha256": "afd98d1eb3f7f7f29a3dee6bb4b3d4883e84aba18798e229a3cb213b1425fb4f",
+      "git_blob_oid_of_actual_bytes": "56d8241e48c19615cc5168e0205c0934e768e7a5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+      "bytes": 26378,
+      "sha256": "2b3f1affbada0662f12618aeff3c37ebf5139a00c61907a3b88e2cbbf1be72cc",
+      "git_blob_oid_of_actual_bytes": "12c74f367a47008df0d17acf564161f58331ef85"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_PRIOR_DISTINCT_COMPLETE_COMPONENT_REVIEW_TRUTHFUL_INPUT_REPORT_V1.json",
+      "bytes": 724805,
+      "sha256": "f127c5992c30c87388691cb9e604fe0020aa1c011833ee284fc4b503b01401a3",
+      "git_blob_oid_of_actual_bytes": "f5c19932d5d3faef71d26371aa5724a4a4865e7a"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ACTUAL_ROOT_PRIVATE_V4_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json",
+      "bytes": 25553,
+      "sha256": "f666f66182c5dd8017c9de55742167d007b1451191200c586f483d3c897fc845",
+      "git_blob_oid_of_actual_bytes": "95dba62ae272d1b4647c5d1a71d74c7c50a527fe"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_PUBLIC_CUSTODY_NAVIGATION_AND_HEADER_AUTHORITIES_V1.json",
+      "bytes": 36811,
+      "sha256": "c6a3eeb7b47edf3d798f8636b4d82d6416c082bd0d33f7ec649a8d229231a072",
+      "git_blob_oid_of_actual_bytes": "ad91e7a053de528fbca2ddfb3d416c2616157d01"
+    }
+  ],
+  "current_header_authority_map": [
+    {
+      "header_witness_id": "ROOT_MIDORI_PRIVATE_V4_SEMANTIC_ADOPTION_20261015_V1",
+      "original_authority_id": "MIDORI_ACTUAL_ROOT_PRIVATE_V4_438522",
+      "original_authority_tuple": {
+        "bytes": 438522,
+        "sha256": "3d858a11c94698258dc157d4048cbae1b229a779365c6f2571485b0a7bb99684",
+        "git_blob_oid_of_actual_bytes": "e30d9b7a54081c12e7bbc42220162d90827e4789"
+      },
+      "current_public_report": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ACTUAL_ROOT_PRIVATE_V4_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json",
+        "bytes": 25553,
+        "sha256": "f666f66182c5dd8017c9de55742167d007b1451191200c586f483d3c897fc845",
+        "git_blob_oid_of_actual_bytes": "95dba62ae272d1b4647c5d1a71d74c7c50a527fe"
+      },
+      "role": "Actual private8 acceptance, not public-byte acceptance; public report excludes only explicitly bound mechanical checks."
+    },
+    {
+      "header_witness_id": "MIDORI_PRIOR_DISTINCT_COMPONENT_REVIEW_WITH_V4_ROUTE_QUALIFICATION_20261015_V1",
+      "original_authority_id": "MIDORI_ACTUAL_PEER_V3_641440_PLUS_V4_11301",
+      "original_V3_tuple": {
+        "bytes": 641440,
+        "sha256": "bd1aaf322fa565c6904a1fb3ecd5043b7af0abff4b63ff6e3b0684e876b5e9e9",
+        "git_blob_oid_of_actual_bytes": "c101997ca7b03e7d22f107454bd3993d13b192aa"
+      },
+      "current_V4_qualification_tuple": {
+        "bytes": 11301,
+        "sha256": "2bbf9d0149e6bd1607c115f0c62ba8220b42704d97f991a4e4a62c620bdd5be8",
+        "git_blob_oid_of_actual_bytes": "be7f87f9dabed267be1b2d43ec27350c942fb14c"
+      },
+      "current_public_report": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_PRIOR_DISTINCT_COMPLETE_COMPONENT_REVIEW_TRUTHFUL_INPUT_REPORT_V1.json",
+        "bytes": 724805,
+        "sha256": "f127c5992c30c87388691cb9e604fe0020aa1c011833ee284fc4b503b01401a3",
+        "git_blob_oid_of_actual_bytes": "f5c19932d5d3faef71d26371aa5724a4a4865e7a"
+      },
+      "role": "Complete prior private component review and finite route resolution, not fresh public-byte QA."
+    }
+  ],
+  "complete_current_composition_qualifications": {
+    "metadata_prepared": "2026-10-15",
+    "current_semantic_basis": "ACTUAL_ROOT_PRIVATE_V4_EXACT8_ADOPTED_WITH_LIMITS;NO_PUBLIC_BYTE_ADOPTION_OR_COUNT_FROM_COMPOSITION",
+    "roles": "Private body/genuine105 author /root/m008_composition_review; distinct component reviewer /root/next_cast_source_preparation; public metadata composer /root/publishing_shared7_review (prior body-only reviewer); ROOT actual receiving and private8 adoption separately attributed. This report is not fresh independent public-byte QA.",
+    "source_grades": "Private author6WHOLE1675 (3new749+3prior926); current component peer6WHOLE1675 (1new436+5prior1239); earlier body-only peer3WHOLE749+3SELECTED519=1268. ROOT body course5WHOLE1223+FinalSELECTED150; later Final162 is separate. Original common10526WHOLE79SELECTED and producer19/source inspections remain attributed, not transferred. Composition adds no source reading.",
+    "history": "Original body-first header/intro, pending labels, new105 NOT_AUTHORED in the old map, original sourcebook and stored167 reconstruction are dated creation witnesses. Current private105/525 and ROOT private8 acceptance are completed WITH LIMITS. The separate operative public reconstruction and explicit live aliases govern current metadata; historical source/book/QA tuples keep their old scopes.",
+    "finite_actors": "Midori receives remembered consoles FROM Momoi, wins the plush, observes missing chip damage; Alice owns the bug hypothesis, Yuzu owns the volunteered perfect match and staff own the transfer report. Toki later chooses fighting as friend, distinct from the club earlier refusal to abandon her. Midori prepared food is not an invented appreciation response.",
+    "ordinary_goods": "Drawing, clothes, games, prepared food, remembered objects, quiet company and wanted attention retain intrinsic positive meaning independently of product completion or crisis contribution. Wanted console-viewing recovery is unprinted, not proof it remained lost.",
+    "common_qualifier_limits": "O087 agreement is not a fulfilled week; O094 concerns reading access, not authored writing; O096 supplied food precedes later bargaining, a contract follows rejected9:1 with final ratio unprinted; O098 inward time-buying aim is not measured success or final victory; O103 fear/projection and fuel/battery actor seams remain distinct. Original narrow qualifier layers retain their exact scopes.",
+    "review_history": "Complete V3 peer review retains its actual HOLD at105 stale current index routes. The separately reported V4 finite review resolves exactly those routes and transport4 leaves, reusing all unchanged substantive values. Neither history is silently relabeled or converted to new review.",
+    "identity_and_responsibility": "Existing home53/ordinal54/CSV55/F116/P3-CHAR-MIDORI; BA_PERSON_MIDORI variants10016/10095 remain printed routes. No inside named duty, extra REL, registry/person merge or model.",
+    "future_gates_at_preparation": "At this2026-10-15 metadata preparation, distinct public12 byte/documentary QA and ROOT composed-byte adoption, ordinary governed installation/preflight/live controls/publication/readbacks/fresh runtime remain separate actual receipts. This dated proposal never automatically certifies a later event.",
+    "fixed_limits": "All14 original gaps OPEN; models0; no new package/count/source/admission/identity/named/extraREL/install/publication/runtime/merge credit; merge RESERVED."
+  },
+  "current_body_metadata": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIDORI_CHARACTER_MONOGRAPH.md",
+    "bytes": 32805,
+    "sha256": "aa77b794f9f9e2776bae01533b27e1fa013b8f8dafa319c0be0907688cc85e12",
+    "git_blob_oid_of_actual_bytes": "70b681d9033bcc7ed33efea479fffe1f6254537e",
+    "physical_lines": 175,
+    "literal_paragraphs": 59,
+    "title_physical_line": 31,
+    "first_literal_line": 39,
+    "last_literal_line": 175,
+    "original167_tuple": {
+      "bytes": 31861,
+      "sha256": "8646dd20f51305c04b5f42f0abbe2235560801331ad2bad86b0194b0d9cb6ef8",
+      "git_blob_oid_of_actual_bytes": "306be94b7d39bed13f4c913a68e97c791d8ced3b"
+    },
+    "actual_UTF8_byte_delta": 944,
+    "actual_physical_line_delta": 8,
+    "substantive_paragraph_changes": 0
+  },
+  "original_register_geometry_role": "Stored167 full_body_reconstruction, base64 and tuple remain exact original-body history under reversible delivery-value normalization. Measured public body/59 physical lines+UTF8 offsets and added operative public reconstruction govern current use. Source6 physical locators are unchanged.",
+  "actual_prior_ROOT_semantic_authority": {
+    "private_witness_id": "MIDORI_ACTUAL_ROOT_PRIVATE_V4_438522",
+    "tuple": {
+      "bytes": 438522,
+      "sha256": "3d858a11c94698258dc157d4048cbae1b229a779365c6f2571485b0a7bb99684",
+      "git_blob_oid_of_actual_bytes": "e30d9b7a54081c12e7bbc42220162d90827e4789"
+    }
+  },
+  "actual_prior_completed_component_QA": {
+    "private_witness_id": "MIDORI_PRIOR_DISTINCT_COMPONENT_REVIEW_WITH_V4_ROUTE_QUALIFICATION_20261015_V1",
+    "V3_tuple": {
+      "bytes": 641440,
+      "sha256": "bd1aaf322fa565c6904a1fb3ecd5043b7af0abff4b63ff6e3b0684e876b5e9e9",
+      "git_blob_oid_of_actual_bytes": "c101997ca7b03e7d22f107454bd3993d13b192aa"
+    },
+    "V4_tuple": {
+      "bytes": 11301,
+      "sha256": "2bbf9d0149e6bd1607c115f0c62ba8220b42704d97f991a4e4a62c620bdd5be8",
+      "git_blob_oid_of_actual_bytes": "be7f87f9dabed267be1b2d43ec27350c942fb14c"
+    }
+  },
+  "current_public_byte_QA_ROOT_install_publication_runtime_at_preparation": "PENDING_SEPARATE_ACTUAL_RECEIPTS;NO_AUTOMATIC_FUTURE_CREDIT",
+  "reported_published_baseline_at_preparation": {
+    "required_packages": 152,
+    "required_total": 355,
+    "named": 19,
+    "named_total": 29,
+    "role": "Actual original ROOT438522 adoption snapshot only; no live provider reread or Midori increment."
+  },
+  "raw_recovery_scope": "Full original private8 and complete QA V3/V4 retain raw inverse/forward; original ROOT438522 recovers from selected normalized members plus explicitly bound private mechanical checks and original member order. All14 full originals and20 named copies preserved.",
+  "selfpin_rule": "CONTROL binds first11 only; current12 allowlist is external.",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_count_source_identity_named_extraREL_model_install_publication_runtime_merge_credit": 0,
+  "current_Akira_first_reference_editorial_successor_20261103_V2": {
+    "successor_version": "V2_20261103_AKIRA_FIRST_REFERENCE",
+    "author": "/root/recover_yuzu_saved_review",
+    "role": "FINITE_EDITORIAL_SUCCESSOR_AUTHOR_NOT_DISTINCT_QA_OR_ROOT",
+    "operation": "P038 first sentence identifies Akira before the thief, plus8UTF8 bytes/zero lines; rescuer/recipient/criminal-role-care argument and all59 meanings unchanged;58otherparagraphs and all525values literal NOOP.",
+    "history": "Every earlier preparation tuple, all59-literal-preservation statement and pending/acceptance string keeps its original dated scope. The new current bytes and operative graph/reconstruction supersede only metadata currentness; no old review is relabeled.",
+    "new_finite_delta_QA": "PENDING_SEPARATE_DIFFERENT_REVIEWER",
+    "new_ROOT_composed_byte_acceptance": "PENDING_SEPARATE_ACTUAL_ROOT_RECEIPT",
+    "source_identity_model_count_credit": 0,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "prior_current_public_QA_full20_reasons_and_finding_as_dated_original": {
+      "schema": "INDEPENDENT_MIDORI_CURRENT175_PUBLIC12_BYTE_DOCUMENTARY_OWN_REVIEW_WITH_SUPPORTED_EDITORIAL_FINDING_V1",
+      "reviewer": "/root/midori_public_byte_qa",
+      "current_local_date": "2026-11-03",
+      "decision": "BYTE_AND_DOCUMENTARY_PRESERVATION_VERIFIED;SUPPORTED_FIRST_AKIRA_NAME_EDITORIAL_FINDING;PUBLIC_PROMOTION_HELD_FOR_BOUNDED_SUCCESSOR",
+      "assignment": "Independent current-public12 byte/documentary QA; not fresh source or full literary re-adjudication and not ROOT adoption.",
+      "reading_scope": {
+        "current_governance": "Current0c5a canonical snapshot; full routing/reasoning/checklist/handoff15/current-entrypoint raw contents inherited in supplied parent tool context and read as governing context, without claiming fresh tool retrieval. This agent freshly read AGENTS/topology whole8bff3f, actual method1–380/606–777 e8f509, actual architecture1–169/313–432/497–626/645–787 8edeaf. Exact snapshot pins are independently recorded in final handoff. This is an established retrospective byte-review responsibility, not source admission or a new project.",
+        "body": "Actual current175-line body/all59 arguments received in visible332930 prefix/suffix, separately fetched central P006–P020 2b2b8c and missing P021/P022 a17ec2. The first combined output was clipped and is not represented as a sole whole-body receipt. §15 check extends across intro/middle/end and Sensei/twin/peer/Akira/Toki relationships.",
+        "documentary": "Full operative CONTROL visible before combined output clipping332930; original/current manifest roles76c675; full public ROOT report including18 warrants2b2b8c; current source-grade/qualification prose206bee; NAV operative scope/header-authority mapping715afb. All exact component/recovery bytes mechanically read and verified; embedded prior641440 literary/source review is preserved, not newly authored or treated as this reviewer's source course.",
+        "bounded_Kei_dependency": "MDP098 complete five fields715afb. Parent’s V002 L255 source finding remains attributed; underlying source not newly inspected here.",
+        "mechanics": "Own checker only: d9ceda full raw/byte checks16826, dc00dc additional235 graph/39138 pointers78983. Separate executions/counts, not a deduplicated literary-coverage total.",
+        "checker_initial_diagnostic": "Own first execution8b93f0 reached DATA decoding after successful preceding checks, then stopped on my incorrect assumption that every scalar unit had split string-part keys. Native-value rows were inspected3570c6, and only my checker was corrected. No candidate bytes changed; successful full rerun d9ceda includes the corrected decoder."
+      },
+      "own_twenty_documentary_reasons": [
+        {
+          "id": "D01",
+          "own_complete_reason": "The two header authority IDs resolve to the actual private ROOT438522 adoption and prior QA641440 plus finite V4 QA11301. The current CONTROL explicitly describes those older responsibilities and leaves current-public-byte acceptance to a separate receipt, so it does not borrow an old signature to certify this review."
+        },
+        {
+          "id": "D02",
+          "own_complete_reason": "The new INPUT identifies the original public metadata composer as a reporter. It retains the original component reviewer and author separately. My review is independent of those authors and of the 2026-11-03 documentary recovery worker; none of those roles becomes a newly performed whole-source or literary review here."
+        },
+        {
+          "id": "D03",
+          "own_complete_reason": "The V3 review’s HOLD for105 stale current routes remains visible. V4’s finite route resolution does not silently rewrite that historical decision. The actual105 current selector and part-tuple checks now resolve the intended public parts."
+        },
+        {
+          "id": "D04",
+          "own_complete_reason": "The body’s retained body-first introduction/P059 and embedded old pending strings are dated history under the current CONTROL/NAV. The original167 reconstruction remains the exact earlier body, while the separately named public175 reconstruction is operative. These roles avoid treating older creation-time pending text as a new failure or a new acceptance."
+        },
+        {
+          "id": "D05",
+          "own_complete_reason": "All59 public paragraph byte strings equal the private accepted body. The measured +870 UTF-8 bytes/+8 lines consist of the declared frontmatter/navigation prefix. The entire tail, including every argument, is unchanged; no literary rewrite is hidden in metadata promotion."
+        },
+        {
+          "id": "D06",
+          "own_complete_reason": "Each of the525 target-specific values equals the corresponding private V4 value. This establishes preservation, not a fresh adjudication of all105 source meanings. Existing positive, countermeaning, endpoint and abstention distinctions remain substantive inputs."
+        },
+        {
+          "id": "D07",
+          "own_complete_reason": "The current graph consists of130 direct current path-and-tuple objects plus105 typed index part references,235 live nodes. The single original167 tuple under full_body_reconstruction is deliberately historical, and the additional public32731 reconstruction is verified separately. They should not be counted as stale operative routes."
+        },
+        {
+          "id": "D08",
+          "own_complete_reason": "Every current literal record points to its actual public byte offset and physical line. All105 selector records match their exact five values and all708 forward and reverse paragraph-purpose joins agree, so the metadata shift does not detach an argument from its supporting purpose."
+        },
+        {
+          "id": "D09",
+          "own_complete_reason": "The private8 reconstruction works in both directions using guarded scalar operations; the body prefix also reverses in full. Whole raw equality verifies that unrelated ordered fields, source reasons and frozen payloads survive, beyond merely checking a matching final hash."
+        },
+        {
+          "id": "D10",
+          "own_complete_reason": "All14 original analytical envelopes reconstruct from315 typed full-value substitutions, and all20 named custody copies retain their pinned bytes. The templates preserve original judgments and source grades rather than replacing their contents with a synopsis or changed current interpretation."
+        },
+        {
+          "id": "D11",
+          "own_complete_reason": "All448 delivery substitutions are whole absolute C-location values and match their declared canonical counterpart or opaque private witness exactly. Their JSON keys and selectors remain intact. The57 opaque witness IDs/70 occurrences were validated as IDs and never dereferenced."
+        },
+        {
+          "id": "D12",
+          "own_complete_reason": "QA641440 and finite QA11301 reconstruct exactly with their original indent1 codec and full original payloads. Only declared delivery values change. This verifies preservation of the prior reasons and findings; it does not claim I newly performed the historical source review or relabel its HOLD as PASS."
+        },
+        {
+          "id": "D13",
+          "own_complete_reason": "The ROOT public report excludes only /checks, an ordered3350-element mechanical stream bound by its compact-value digest and whole438522 witness. Restoring that stream at the original member position recovers the entire ROOT receipt exactly. All18 substantive warrants and all other semantic/source members remain present."
+        },
+        {
+          "id": "D14",
+          "own_complete_reason": "The lossless recovery DATA reconstructs all12 public byte streams from4659 distinct values and ordered scaffolds. Its39138 occurrence pointers were separately resolved to actual values and types. Mechanical multiplicity is storage/receiving coverage and grants no extra literary or source credit."
+        },
+        {
+          "id": "D15",
+          "own_complete_reason": "The current source-control prose preserves author6WHOLE1675, component-peer6WHOLE1675, earlier body-only peer1268 and ROOT5WHOLE1223 plus selected Final scopes as different histories. Original common10526WHOLE79SELECTED remains attributed. My task adds no primary, maintained-source, native, raw or audiovisual reading course."
+        },
+        {
+          "id": "D16",
+          "own_complete_reason": "Ordinary play, drawing, clothes, food preparation, remembered objects and wanted company remain actual positive analytical goods in the preserved body and qualification prose. Their retention is not conditioned on a finished game, crisis utility, high stakes, attendance or model maturity."
+        },
+        {
+          "id": "D17",
+          "own_complete_reason": "Teacher/master/Sensei references serve the actual adult-office and temporary-maid role arguments. Unnamed shop staff, the arcade opponent and source-unidentified club helpers retain the source’s anonymity; no replacement identity is warranted. Midori/Momoi, Alice/Yuzu and Toki retain distinct acts and answers."
+        },
+        {
+          "id": "D18",
+          "own_complete_reason": "P038 first introduces Akira only as “The thief”; P040 repeats the descriptor before P041 first supplies Akira’s name. The criminal role is analytically useful, but the established person should be identified at first use. A minimal first-use phrase such as “Akira, the thief, actually rescues Midori…” resolves the name-standard issue without changing the rescued person, action, argument or any identity join."
+        },
+        {
+          "id": "D19",
+          "own_complete_reason": "The targeted MDP098 five-field reading concerns Kei’s names, ordinary interests and distributed E854 help. It does not assert disposal of her body, evaluate the school answer as arcade enjoyment, reverse who might impose preferences, or certify acceptance of a new feedback proposal. The parent’s separately found retained V002 L255 overstatement must remain qualified for future reuse; this byte review does not newly inspect that whole maintained source or silently repair its frozen sentence."
+        },
+        {
+          "id": "D20",
+          "own_complete_reason": "This review supplies current-byte/documentary judgment with one supported editorial finding. The frozen12 remain unchanged and promotion remains held for a bounded author successor plus finite delta QA and ROOT adoption. It adds no required/named package, identity, source admission, operational model, installation, publication, runtime result or merge authority."
+        }
+      ],
+      "bounded_name_reference_check": {
+        "sample": "Whole public body received, with directed check of intro P001–003, private-role P018–028, peer P032–036, E825 P037–042 and concluding P056–059.",
+        "findings": [
+          {
+            "classification": "JUSTIFIED_ROLE_REFERENCE",
+            "locator": "P004/P018–028/P033 and adult-role comparisons",
+            "disposition": "Teacher/Sensei/master labels distinguish adult responsibility and the contested temporary maid role. No mechanical replacement with names."
+          },
+          {
+            "classification": "SOURCE_REQUIRED_ANONYMITY",
+            "locator": "P009–015/P021/P032–036",
+            "disposition": "Retail/repair staff, unnamed supporting clubs and the arcade opponent are not assigned invented personal identities."
+          },
+          {
+            "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+            "locator": "P002/P003/P031/P036/P043–046",
+            "disposition": "Empty upstream joins, attributed variants, report/inward modes and limited event knowledge remain explicit."
+          },
+          {
+            "classification": "UNNECESSARY_GENERICIZATION",
+            "locator": "P038 first sentence; related P040/P041",
+            "disposition": "SUPPORTED_EDITORIAL_FINDING. Identify Akira at first use while retaining the criminal role where it explains the argument. Original byte strings remain frozen; no claim of attribution reversal or new identity.",
+            "exact_current_first_sentence": "The thief actually rescues Midori when Meitaro's indiscriminate firing puts her in danger.",
+            "minimal_proposed_first_sentence": "Akira, the thief, actually rescues Midori when Meitaro's indiscriminate firing puts her in danger.",
+            "operation": "PROPOSED_ONLY",
+            "followup": "A bounded successor with all dependent body tuples/locators/reconstruction bindings, raw inverse and one finite distinct delta review. Preserve all other paragraphs/525 values/source grades/history."
+          }
+        ]
+      },
+      "preservation": {
+        "all14_original_gaps": "OPEN",
+        "Blue_Archive_operational_models": 0,
+        "required_home": "P3-CHAR-MIDORI / home53/F116",
+        "inside_named": false,
+        "extra_REL": "NOT_COMPLETED",
+        "original12_modified": false,
+        "private8_and_recovery_modified": false,
+        "protected39_R_file_access": 0,
+        "private9_body_hash_or_alias_access": 0,
+        "R_Git_provider_or_shared_mutations": 0,
+        "new_source_or_literary_acceptance_count_identity_or_publication_credit": 0
+      },
+      "remaining_required": [
+        "Root commissions only the supported first-use editorial successor, preserving the current frozen12 and all actual older receipts.",
+        "Finite successor checks must update and verify affected body/paragraph/geometry/current pins/public raw reconstruction and inverses, leaving all remaining59/525/source meanings unchanged.",
+        "Separate actual ROOT composed-byte acceptance; normal installation and current-main reconciliation/preflight/publication remain ROOT's responsibility. Current failed production gate and pending merge are not certified by this task."
+      ]
+    },
+    "prior_QA_original_raw_tuple": {
+      "bytes": 13422,
+      "sha256": "22642180b9e80cbe728d2c2975b9fd2c084bf2edc4d01fc09eb59e2460d36052",
+      "git_blob_oid_of_actual_bytes": "fa2da64da2be475dd5f51245c78650bd093eec31"
+    },
+    "author_response_to_supported_finding": "IMPLEMENTED_THE_SUPPORTED_EDITORIAL_STRING_ONLY;NO_SELF_CERTIFICATION_OF_DISTINCT_QA_OR_ROOT_ADOPTION",
+    "exact_editorial_before_after": {
+      "paragraph_id": "MIDORI-P038",
+      "physical_line": 127,
+      "before": "The thief actually rescues Midori when Meitaro's indiscriminate firing puts her in danger.",
+      "after": "Akira, the thief, actually rescues Midori when Meitaro's indiscriminate firing puts her in danger.",
+      "UTF8_delta": 8,
+      "line_delta": 0
+    },
+    "current_body_versioning": "VersionV2 is recorded in this operative successor wrapper and external manifest. BodygenerationV1/frontmatter are unchanged historical metadata; no unrelated body edit was made.",
+    "literal_delta_count": 1,
+    "other_literal_NOOP_count": 58,
+    "unchanged_argument_meaning_count": 59,
+    "unchanged_purpose_value_count": 525
+  },
+  "current_private_historical_body_codec_derivative_20261104_V1": {
+    "scope": "FIVE_PRIVATE_HISTORICAL_BODY_CODECS_ONLY_FINITE_PUBLIC_DERIVATIVE_20261104",
+    "stage": "C_ONLY_PROPOSED_CURRENT_BYTES_AWAITING_DIFFERENT_QA_AND_ACTUAL_ROOT_BYTE_ACCEPTANCE",
+    "removed_historical_body_field": "/full_body_reconstruction/complete167_raw_UTF8_base64",
+    "retained_historical_body_tuple": {
+      "bytes": 31861,
+      "sha256": "8646dd20f51305c04b5f42f0abbe2235560801331ad2bad86b0194b0d9cb6ef8",
+      "git_blob_oid_of_actual_bytes": "306be94b7d39bed13f4c913a68e97c791d8ced3b"
+    },
+    "current_body_codec_and_readable_layouts": "UNCHANGED_BYTE_FOR_BYTE;not this remedy's subject",
+    "private_byte_custody": "Original frozen C bodies and full raw inverses remain unchanged and private. Prior standalone recovery claims describe their dated original packages; this public derivative does not carry the removed historical body bytes.",
+    "preserved_intellectual_scope": "Every unique original/current literary literal, comparative/reviewer/Root judgment,53-case qualification obligation and source/recipient/mode boundary survives. Old finding/HOLD stages remain dated; no new source course or semantic acceptance.",
+    "authority": "Owner-approved finite class/representation commission only; earlier semantic/publicC decisions remain dated to their original bytes, not automatic new byte certificates."
+  },
+  "current_eligible_metadata_preparation_20261104_V1": {
+    "schema": "CURRENT_ELIGIBLE_METADATA_PROPOSAL_WITH_DATED_PUBLIC_FORM_AUTHORITY_V1",
+    "prepared": "2026-11-04",
+    "status_choice": "canonical",
+    "status_scope": "Existing evidence-supported provisional scope stays for Alice/Himari/Rei, canonical for the other earlier four. Only Arona/Yuzu/Plana draft/veto surfaces are promoted. Proposed C bytes are not current main authority merely by label.",
+    "current_stage": "CURRENT_ELIGIBLE_METADATA_PROPOSED_20261104;PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTED_WITH_LIMITS;FINAL_DERIVATIVE_QA_AND_ROOT_BYTE_ACCEPTANCE_REQUIRED_BEFORE_INSTALLATION",
+    "composer": "/root/current_preflight_requirements",
+    "role_disclosure": "Metadata derivative composer; prior Momoi/Sumire author/composition and finite class-review roles disclosed. Not independent QA, Root personal byte acceptance, owner exact-byte signature or new source reviewer.",
+    "commission": {
+      "id": "ROOT_TEN_ACCEPTED_PUBLIC_PACKAGE_CANONICAL_METADATA_DERIVATIVE_COMMISSION_V1",
+      "bytes": 9702,
+      "sha256": "a7e382a1fc2b6945c69e5b6eb6b4d4db41e3a65ae13d89dc1ab52a504e6bd32e",
+      "meaning": "Owner-authorized analytical goal plus Root finite composition commission; no owner personal exact-byte review, merge or final derivative acceptance."
+    },
+    "prior_public_form_actual_Root_authority": {
+      "receipt_id": "ROOT_ACTUAL_MIDORI_PUBLIC175_AKIRA_FIRST_USE_FINITE_QA_FULL12_INVERSES_AND_UNCHANGED525_BYTE_ACCEPTANCE_WITH_LIMITS_20261103_V1",
+      "original_filename": "ROOT_ACTUAL_MIDORI_PUBLIC175_AKIRA_FIRST_USE_FINITE_QA_FULL12_INVERSES_AND_UNCHANGED525_BYTE_ACCEPTANCE_WITH_LIMITS_20261103_V1.json",
+      "bytes": 53628,
+      "sha256": "e174f58585050c868cad01bceea6cc99cf6a6fe8ef93ea22f98aa91d0d1dde44",
+      "role": "ACTUAL_PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTANCE_WITH_LIMITS;DATED_TO_ITS_EXACT_FORM",
+      "original_reason_pointer": "/Root_own6_warrants",
+      "complete_unique_Root_public_form_judgments": [
+        {
+          "topic": "Established first referent",
+          "reason": "CurrentP038 names Akira immediately and retains the thief role. This resolves the supported first-use omission without changing the rescuer, Midori as recipient, Meitaro as danger actor, focalization, reported local okay or limits on harmlessness and trust."
+        },
+        {
+          "topic": "Other names and directed relations",
+          "reason": "Bounded current introduction, maid middle, peer/event sections and conclusion preserve Sensei’s teacher/master roles, Midori/Momoi distinction, Alice’s hypothesis, Yuzu’s changed decisions/unwanted acclaim, Toki’s affiliation and source-required unnamed staff/opponent. No further identity substitution is supported."
+        },
+        {
+          "topic": "Intrinsic ordinary goods",
+          "reason": "Drawing, clothes, games, prepared food, remembered consoles and chosen company remain positive goods even where an illustration or development budget stays unfinished. Particular refusal and wanted privacy survive alongside useful work and warmth."
+        },
+        {
+          "topic": "Exact finite successor",
+          "reason": "The whole new175 body is the held175 body with the exact single+8-byte sentence change and no line movement. Other58 literals and all525 purposes are unchanged. Current geometry/reconstruction and corresponding references describe newbytes, while the original167 reconstruction remains historical."
+        },
+        {
+          "topic": "Review and source attribution",
+          "reason": "Full original public20 reasons/HOLD and different-author response are preserved. Current distinctfinite6 reasons discharge this correction without rewriting old judgments or transferring author/peer/ROOT/common105 source grades. INPUT8/ROOT9 remain whole byteNOOP historical reports."
+        },
+        {
+          "topic": "Acceptance limits",
+          "reason": "Accept exact currentpublic12 privately WITH_LIMITS after static byte/documentary checks and substantive review. Prior private8 adoption remains scoped to its own bytes. No R installation, real preflight, push, runtime, merge or package increment occurs; all14OPEN/models0 and baseline152/355,19/29 persist."
+        }
+      ]
+    },
+    "dated_changed_outer_technical_values": {
+      "BODY#/YAML/review_state": "review_state: PRIVATE_V4_SEMANTIC_AND_COMPONENT_REVIEW_COMPLETED_WITH_LIMITS;PUBLIC_BYTE_GATES_DATED_IN_CONTROL",
+      "MIDORI_CURRENT_PUBLIC_COMPOSITION_DATED_SCOPE_AND_CONDITIONAL_TRANSPORT_CONTROL_V1.json#/current_body_metadata/actual_UTF8_byte_delta": 878
+    },
+    "dated_other_producer_or_zero_preparation_values": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_SOURCE6_COMPLETE12_PREQUESTIONS_ANSWERS_GRADE_AND_ORIGINAL_COMMON105_QUALIFIERS_V1.json",
+        "pointer": "/new_count_source_admission_identity_named_extraREL_runtime_publication_credit",
+        "exact_preparation_value": 0,
+        "role": "DATED_PREPROMOTION_PRODUCER_STATE;NOT_LIVE_INSTALLED_COUNT_OR_OVERRIDE_OF_CURRENT_CONTROL"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_COMPLETE_LITERAL59_SOURCE_QUESTION_NEW105_RIVAL_END_GAP_REGISTER_V1.json",
+        "pointer": "/ROOT_body_adoption_count_source_runtime_publication_merge_credit",
+        "exact_preparation_value": 0,
+        "role": "DATED_PREPROMOTION_PRODUCER_STATE;NOT_LIVE_INSTALLED_COUNT_OR_OVERRIDE_OF_CURRENT_CONTROL"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+        "pointer": "/new_primary_native_raw_AV_normal105_admission_identity_model_count_install_publication_runtime_merge_credit",
+        "exact_preparation_value": 0,
+        "role": "DATED_PREPROMOTION_PRODUCER_STATE;NOT_LIVE_INSTALLED_COUNT_OR_OVERRIDE_OF_CURRENT_CONTROL"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_PUBLIC_COMPOSITION_DATED_SCOPE_AND_CONDITIONAL_TRANSPORT_CONTROL_V1.json",
+        "pointer": "/new_count_source_identity_named_extraREL_model_install_publication_runtime_merge_credit",
+        "exact_preparation_value": 0,
+        "role": "DATED_PREPROMOTION_PRODUCER_STATE;NOT_LIVE_INSTALLED_COUNT_OR_OVERRIDE_OF_CURRENT_CONTROL"
+      }
+    ],
+    "current_body_authority": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIDORI_CHARACTER_MONOGRAPH.md",
+      "geometry_owner": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_COMPLETE_LITERAL59_SOURCE_QUESTION_NEW105_RIVAL_END_GAP_REGISTER_V1.json",
+      "geometry_pointer": "/current_eligible_body_geometry_20261104_V1",
+      "prior_safe_codec_layout_scope": "Exact PREPROMOTION witnesses are retained; their values do not reconstruct the revised header. Current measured tuple/geometry is operative."
+    },
+    "live_count_and_publication_authority": "This C proposal awards no installation/publication/count/runtime/source/model/named/REL/identity credit. Original 0/null/false/pending producer values are dated preparation, not live counters. Actual installed counts and published SHA belong to the required-package CSV and dated PR/operational receipts after normal Root-owned final-byte acceptance, reconciliation and gates.",
+    "dated_nested_history": "Every original author/QA/Root/source/readiness judgment, reviewed tuple, hold and source grade keeps its dated actual scope. Older operational interpretations are history, not new current gates. No unreferenced blanket GitHub Apps-installation check is imposed for an ordinary author push.",
+    "literary_source_scope": "All post-YAML body bytes, comparative five-field meanings, full unique judgments/qualifications, actors/recipients and source intervals/grades stay exact. Ordinary play, comfort, wanted company and small ends remain intrinsic. No new source/common105/identity/named/REL/institution/model or gap credit.",
+    "private_public_scope": "No local private paths, helper/raw-beforeimage transport or removed opaque old body codec is added. Frozen producers/private full inverses remain unchanged. This is directly interpretable authority/provenance, not a private recovery bundle.",
+    "remaining": "Different bounded metadata QA and actual Root final promotion/byte adoption precede Root-only installation/shared writes/gates/publication. No future SHA/check/push/main integration/count is predeclared.",
+    "current84_class_base_actual_Root_authority": {
+      "id": "ROOT_ACTUAL_CURRENT84_FIVE_PRIVATE_CODEC_ONLY_DERIVATIVE_COMPLETE_NEW_MEANING_DISTINCT_QA_OWN4414_FULL_BYTE_AST_ADOPTION_WITH_LIMITS_20261104_V1",
+      "bytes": 8236,
+      "sha256": "41f4d77dd2a3d70190737d2de5a976f4b682a81c397cf2003793df3b8ee2837a",
+      "decision": "ADOPT_EXACT_CLASS_SAFE_CURRENT84_SELECTION29_NEW55_UNCHANGED_WITH_LIMITS;CANONICAL_METADATA_PROMOTION_STILL_SEPARATE",
+      "scope": "Exact29new+55unchanged current84 accepted after different class QA; frozen pending tags are dated, and this later metadata derivative is not yet adopted."
+    },
+    "dated_explicit_preparation_tuple_scopes": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_PUBLIC_CUSTODY_NAVIGATION_AND_HEADER_AUTHORITIES_V1.json",
+        "pointer": "/complete_original8_review_basis",
+        "role": "DATED_COMPLETE_ORIGINAL_PRIVATE8_REVIEW_BASIS;ORIGINAL_TUPLES_NOT_CURRENT_PUBLIC_BYTE_EDGES",
+        "meaning": "Keep the original accepted private8 basis and all its reviewed tuples whole; current public components have separate measured tuples. The shared repository alias is not byte identity across stages."
+      }
+    ]
+  }
+}

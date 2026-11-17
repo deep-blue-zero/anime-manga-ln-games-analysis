@@ -1,0 +1,63 @@
+{
+  "schema": "konosuba.cohort48.source-precision-qualifications.v1",
+  "source_receiving_sha256": "4faf106e1961bed6dff7a0c37df693fd457217076592678905a0109c472d64ec",
+  "qualifications": [
+    {
+      "id": "C48-Q01",
+      "subject": "Stesky access and possible recurrence",
+      "source": "MASKU01543-44;MAIN16U012325/333-336",
+      "finding": "MASK names a missing neroid pet through an unnamed consultation client; Vanir gives that client location advice, without a shown retrieval. MAIN16 names an escaped hell-neroid through Amaryllis and an unanswered location request. Same spelling is a possible identity edge only: no explicit shared owner/event/species-subtype join, recovery or proven relation to the killed pursuer. Neither declare two certified individuals nor silently merge them."
+    },
+    {
+      "id": "C48-Q02",
+      "subject": "Vampire continuity and retirement",
+      "source": "MAIN16U012477-545;MAIN17U0146-10",
+      "finding": "MAIN17 explicitly recalls the same earlier Vanir trip/true-ancestor room and shows Kazuma using the destination with the Demon King. The owner is offstage; there is no performed tomato farming, relocation, death or continued residence. Place continuity is not a new owner action."
+    },
+    {
+      "id": "C48-Q03",
+      "subject": "Owner exclusions",
+      "source": "YORI01U020158/170/306-312;YORI03U016267/330/337/359",
+      "finding": "Wolfgang Crow selfnames, is described by Aqua as not a true ancestor, vows changed conduct and is actually purified311. No fulfilled reformation or route to MAIN16 is established. The YORI03 owner is explicitly a female succubus, distinct from this vampire. Older ambiguous possible-join wording is preserved as history, not active evidence."
+    },
+    {
+      "id": "C48-Q04",
+      "subject": "Typed unrelated references",
+      "source": "MAIN01U015520/U01629/U017424;MAIN05U023495;MAIN10U01222;MAIN12U016325;YORI04U016532;DUST02U015259",
+      "finding": "Lich comparison, hypothetical commander categories, genre analogy, Sylvia exclusion, relative undead-rank report, remembered Japanese analogy, uninstantiated vampire preference and a suspected former room owner are separate access types. None identifies the MAIN16 owner."
+    },
+    {
+      "id": "C48-Q05",
+      "subject": "Author paratext",
+      "source": "MAIN11U0181-30,especially21",
+      "finding": "Complete30P afterword is author paratext and mentions a vampire in Kemono Michi. It supplies no KonoSuba canonical vampire individual. Adaptive preparation deliberately left access pending; classify after actual reading. Four complete current narrative members and one complete paratext member remain separate."
+    },
+    {
+      "id": "C48-Q06",
+      "subject": "Gil literal false positives",
+      "source": "MAIN01U014541;DUST05U012505",
+      "finding": "Remaining non-guild substrings are the Egil tree and a dragon roar. Neither is the named Gil. The lexical filter supplies no exhaustive absence, image admission or global unique-person count."
+    },
+    {
+      "id": "C48-Q07",
+      "subject": "Future-cohort exposure",
+      "source": "MAIN17U0141-113;MAIN16U010286-300/U012381-393",
+      "finding": "Demon King rejection of bait, escape preparation, attack, injury, daughter-made handkerchief report and eventual charge are now known. Multiple triggers co-occur at110; no causal isolation of daughter gift versus repeated insults. Daughter is not directly onstage. No later C49 source holdout can erase this exposure."
+    },
+    {
+      "id": "C48-Q08",
+      "subject": "Anna unchanged",
+      "source": "Current full Anna monograph receiving46c33f;MAIN16U01129-44/U0134",
+      "finding": "The existing Anna study already correctly preserves the mediated request, actual storytelling and missed coach atU013P4. This current return adds no new interpretation requiring a source supplement or second study."
+    },
+    {
+      "id": "C48-Q09",
+      "subject": "Dungeon treasure wording and ownership limits",
+      "source": "MAIN16U012512/539-540",
+      "finding": "Kazuma calls the taking robbery. The vampire says dungeons exist to be entered and identifies the stored treasure/equipment as adventurers possessions. This does not individually trace prior ownership or establish a universal entitlement rule. Preserve his account and the visible pressure rather than converting the line into a complete ownership code."
+    }
+  ],
+  "canonical_changes": false,
+  "independent_observation_count": null,
+  "full_program_complete": false
+}

@@ -10,11 +10,15 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 title: Gakuen Idolmaster V2 — Fujita Kotone Phase-3 Audiovisual Revision Addendum
-version: '2.0'
+version: '2.1'
 created: '2026-08-15'
+revised: '2026-11-15'
+revision_note: 'v2.1, source-to-analysis audit 2026-11-15: STRENGTHEN §5 with a textual naming of performed reciprocity (GKM-SAA-186) and REVISE §6.1 by narrowing the refusal/autonomy OPEN with Source Lock 1.1 text (GKM-SAA-052); textual routing only, no new audiovisual inspection'
 ---
 
 # GKM CORE 03 — FUJITA KOTONE AUDIOVISUAL REVISION ADDENDUM
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Two dated notes route later textual evidence into this addendum. §5 gains a STRENGTHEN note (GKM-SAA-186), and §6.1 gains a REVISE note that narrows the OPEN (GKM-SAA-052). The v2.0 transitions, the voice model and the counterpressures are unchanged. No audiovisual evidence was inspected for this revision; the optional AV checks are routed to the Carbon observation queue.
 
 ## 0. Function
 
@@ -135,6 +139,8 @@ Preferred current term:
 
 This term should be carried into the Character State, Song/Musical Identity, Theme/Motif, Voice Performance, and Relationship ledgers.
 
+**Named in the text (2026-11-15, GKM-SAA-186; STRENGTHEN).** Source Lock 1.1 supplies a textual statement of this circuit. In D-KOTONE Dear 036, Sena describes Kotone as the idol who, that day, gathered and returned more goodwill than any of them: `好意を集め、好意を返したアイドル` (`adv_dear_fktn_036.txt` L476). In Dear 035, Kotone draws energy from fan posts just before the final (`adv_dear_fktn_035.txt` L116–L159). That reverses the hurt she took from negative posts in `世界一可愛い私` (`adv_cidol-fktn-3-001_01.txt` L53–L79). The text does not fix the relative order of the two objects. This is textual corroboration; the performed form remains an AV question.
+
 ---
 
 # 6. Revised relationship notes
@@ -144,6 +150,8 @@ This term should be carried into the Character State, Song/Musical Identity, The
 `STRENGTHEN` mutual recognition; `OPEN` refusal/autonomy.
 
 The relationship is not one-way rescue. Kotone interprets the Producer’s work, refuses his self-disparagement, and returns artistic/emotional value. Yet her entire-career-as-payment language remains a structural risk.
+
+**OPEN narrowed by later text (2026-11-15, GKM-SAA-052; REVISE).** Source Lock 1.1 Dear 037 (C1 within D-KOTONE) narrows the refusal/autonomy question. The Producer declares the repayment settled `お釣りが必要なほど十分に` and names what Kotone gave him (`adv_dear_fktn_037.txt` L597–L611). Kotone sets terms over him: she withdraws her own no-partner demand (L285–L311) and refuses a verbal answer to her confession in both branches (L406, L460). She also reverses the provider role (L655). In Dear 031 the Producer forbids answers calibrated to his face (`adv_dear_fktn_031.txt` L173). Setting terms is not yet refusing a plan of his, and the closure still uses exchange vocabulary. Refusal/autonomy therefore stays **OPEN** in narrowed form, and institutional asymmetry stays OPEN. See the core §3.2.22 and §11.6. Delivery of the Dear 037 fan-service beat (L506–L541) is an optional AV check.
 
 ## 6.2 Sena
 

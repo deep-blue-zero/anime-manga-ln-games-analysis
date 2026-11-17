@@ -1,0 +1,188 @@
+{
+  "schema": "KONOSUBA_EXP03_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+  "source_id": "EXP-03",
+  "accepted_utc": "2026-10-18T17:10:59.994625+00:00",
+  "native_filename": "Konosuba - Spin-off - Explosions - Volume 03.epub",
+  "native_bytes": 15716486,
+  "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "0ea9a6adc67c7df5615cdf5de06abf57d8c6e97c78829eec52b94828c60083f5",
+  "language": [
+    "ja"
+  ],
+  "colophon": "この素晴らしい世界に爆焔を！３ ふたりは最強！のターン. Electronic issue2015-06-01; underlying print first edition2015-06-01. No explicit electronic version. Full author/illustrator/design/publisher credits actually read.",
+  "admission_sha256": "7f8c4267abdeeadc3df0191b2e76911144b33c4931ac8ccf7f145ce085c88c53",
+  "admission_utc": "2026-10-18T15:57:28.102926+00:00",
+  "preceding_full_gate_source": "f8198f2c6b7915c7340fb36e1a99f3f94fb431b3",
+  "preceding_gate_sha256": "5975faeee59dc87d74ff21199e0ae77fa0bd61a43ebbe2871cae66aaa0e46de0",
+  "preceding_fresh_reload_sha256": "f061fc6f457b2cf25ba373990e9fd040dff615899d5d1abfe47ba6e49c62725f",
+  "complete_uncoded_seal_sha256": "c083cc1eb7ce3ec4aa3e124b61a397535e16bcb790b994e982b874e28f241f29",
+  "complete_uncoded_seal_utc": "2026-10-18T16:44:48.214319+00:00",
+  "actual_reading": {
+    "all_textual_components": 52,
+    "all_native_P_slots": 2662,
+    "principal_P_slots": 2614,
+    "other_P_slots": 48,
+    "separate_bonus_narrative": false,
+    "individually_identified_narrative_image_groups": [
+      {
+        "id": "EXP03-INTERLUDE-I",
+        "title": "序幕 募集するぼっち少女",
+        "native_units": [
+          "EXP-03-U014",
+          "EXP-03-U015",
+          "EXP-03-U016",
+          "EXP-03-U017"
+        ],
+        "native_images": [
+          "EXP-03-IMG019",
+          "EXP-03-IMG020",
+          "EXP-03-IMG021",
+          "EXP-03-IMG022"
+        ],
+        "viewpoint": "Yunyun first person; actual speaker knowledge distinguished from Megumin and reader",
+        "scope": "All4integral full image-prose pages actually read and continuously interpreted, with distinct subject/component responsibility. Decorative closure separate where supplied."
+      },
+      {
+        "id": "EXP03-INTERLUDE-II",
+        "title": "弐幕 苦悩するぼっち少女",
+        "native_units": [
+          "EXP-03-U021",
+          "EXP-03-U022",
+          "EXP-03-U023",
+          "EXP-03-U024"
+        ],
+        "native_images": [
+          "EXP-03-IMG024",
+          "EXP-03-IMG025",
+          "EXP-03-IMG026",
+          "EXP-03-IMG027"
+        ],
+        "viewpoint": "Yunyun first person; actual speaker knowledge distinguished from Megumin and reader",
+        "scope": "All4integral full image-prose pages actually read and continuously interpreted, with distinct subject/component responsibility. Decorative closure separate where supplied."
+      },
+      {
+        "id": "EXP03-INTERLUDE-III",
+        "title": "参幕 覚醒するぼっち少女",
+        "native_units": [
+          "EXP-03-U027",
+          "EXP-03-U028",
+          "EXP-03-U029",
+          "EXP-03-U030"
+        ],
+        "native_images": [
+          "EXP-03-IMG028",
+          "EXP-03-IMG029",
+          "EXP-03-IMG030",
+          "EXP-03-IMG031"
+        ],
+        "viewpoint": "Yunyun first person; actual speaker knowledge distinguished from Megumin and reader",
+        "scope": "All4integral full image-prose pages actually read and continuously interpreted, with distinct subject/component responsibility. Decorative closure separate where supplied."
+      },
+      {
+        "id": "EXP03-INTERLUDE-FINAL",
+        "title": "終幕 紅魔族の長となる者！",
+        "native_units": [
+          "EXP-03-U035",
+          "EXP-03-U036",
+          "EXP-03-U037",
+          "EXP-03-U038",
+          "EXP-03-U039",
+          "EXP-03-U040",
+          "EXP-03-U041",
+          "EXP-03-U042"
+        ],
+        "native_images": [
+          "EXP-03-IMG032",
+          "EXP-03-IMG033",
+          "EXP-03-IMG034",
+          "EXP-03-IMG035",
+          "EXP-03-IMG036",
+          "EXP-03-IMG037",
+          "EXP-03-IMG038",
+          "EXP-03-IMG039"
+        ],
+        "viewpoint": "Yunyun first person; actual speaker knowledge distinguished from Megumin and reader",
+        "scope": "All8integral full image-prose pages actually read and continuously interpreted, with distinct subject/component responsibility. Decorative closure separate where supplied."
+      },
+      {
+        "id": "EXP03-COMIC-PRESENT-CASH-PRANK",
+        "native_units": [
+          "EXP-03-U033"
+        ],
+        "native_images": [
+          "EXP-03-IMG010"
+        ],
+        "shared_prose_event": "U032P0081–0097",
+        "scope": "Actual current Cecily stones/prize-slip prank redrawn, not another event or EXP01 denied allegation."
+      },
+      {
+        "id": "EXP03-PRINTED-VOICED-I-GAIJI",
+        "native_units": [
+          "EXP-03-U034"
+        ],
+        "native_images": [
+          "EXP-03-IMG048"
+        ],
+        "native_member": "item/image/u3044u309b-m-v.png",
+        "native_sha256": "d02cd65c5660d0d8164d43e747e1dce1a3a0fd491f40b6ffb07ed068396b74b5",
+        "shared_prose_event": "U034P0315",
+        "scope": "Transparent native glyph actually read with white-background enlarged QA rendering: voiced い immediately before っ!?. Base-text extraction omits the printed glyph. This is a character, not an illustration or new event, and not automatically L3."
+      }
+    ],
+    "individually_identified_embedded_narrative_groups": [
+      {
+        "id": "EXP03-RECALLED-LONELY-DEMON-KING-FABLE",
+        "native_units": [
+          "EXP-03-U042"
+        ],
+        "native_images": [
+          "EXP-03-IMG039"
+        ],
+        "scope": "Yunyun recalls the familiar lonely king and individually meaningless children’s powers; one nested reference continuous with prior book fable, not an actual-world trial or verified prophecy."
+      }
+    ],
+    "integral_image_only_prose_pages": 20,
+    "all_native_images_actually_viewed": 48,
+    "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+    "all_native_local_and_archive_text_image_hash_joins_reverified": 100,
+    "fresh_native_ZIP_CRC": "PASS",
+    "image_individual_scopes_control": true
+  },
+  "source_first_sealed_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 54686,
+      "sha256": "7f8c4267abdeeadc3df0191b2e76911144b33c4931ac8ccf7f145ce085c88c53"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 23283,
+      "sha256": "bb1c32fd53817f7f354301062d1fb19781410d1dc3bc4cd14e87bddb26fee998"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 151712,
+      "sha256": "31a7b11789e0ae874ff7b5ba4c9a53e4603a0bf424278cc980fa8ba6652190f7"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 40865,
+      "sha256": "4b38bfe4a4f88d4da6dcdbe3a5e70593007a0aa0160fb92e7c5a8ce7260513a3"
+    }
+  ],
+  "formal_coverage": {
+    "full_responsibilities": 17,
+    "selected_premises_not_census": 87,
+    "native_verified_short_form_context_witnesses": 114,
+    "local_unchanged_question_assessments": 7,
+    "append_only_decisions_across_ten_ledgers": 31,
+    "current_precision_qualifications": 62
+  },
+  "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_independent_second_full_pass_native_human_audio_claim": true,
+  "source_first_originals_remain_exact": true,
+  "original_four_scores_and_14_future_fields_unchanged": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+  "midread_precision_context": "Entire uncoded pass sealed before formal findings.113original voice anchors match; original106omits brackets around 残機 and is preserved alongside current exact form. Gaiji is separately actually viewed; injury wording/function tension is retained rather than silently resolved."
+}

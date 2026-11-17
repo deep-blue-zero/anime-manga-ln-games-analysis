@@ -1,0 +1,1854 @@
+{
+  "schema": "BLUE_ARCHIVE_KOKURIKO_ROOT_PUBLIC_COMPONENT_CANDIDATE_V1",
+  "series": "BLUE_ARCHIVE",
+  "artifact_type": "character_root_adoption_and_public_form_control",
+  "generation": "V1",
+  "scope": "Existing P3-CHAR-M019/P3-M019; A159 same single unnamed required duty; bounded V005 maintained analysis",
+  "subjects": [
+    "Kokuriko"
+  ],
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "intended_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+  "created_UTC": "2026-11-05T00:20:28.084Z",
+  "lifecycle_state": "CURRENT_ELIGIBLE_C_ONLY_PUBLIC6_CANDIDATE_PRIVATE_BODY_AND_FINITE_RETENTION_PLAN_ROOT_ACCEPTED_PENDING_DIFFERENT_PUBLIC6_QA_ROOT_NEW_BYTE_ADOPTION_AND_INSTALLATION",
+  "authority_control": {
+    "canonical_metadata_scope": "Root authorized this exact eligible candidate derivative. Unpublished Cfiles are not current Git authority until actualinstallation.",
+    "private_literary_body": "ROOT_ACTUALLY_ACCEPTED_WITH_LIMITS",
+    "finite_retention_plan": "ROOT_ACTUALLY_ADOPTED_WITH_LIMITS_KP_F01_CLOSED_AT_EXACT_PLAN_SCOPE",
+    "complete_different_public6_QA": "V2_COMPLETE_WITH_SUPPORTED_F01;V3_DIFFERENT_FINITE_REPAIR_QA_PENDING",
+    "Root_whole_candidate_new_byte_adoption": "PENDING",
+    "installation_and_publication": "PENDING_ROOT_SOLE_WRITER",
+    "machine_authority_limit": "JSON metadata is scoped provenance/control; no general machine-authority claim. AuthorityGraph recognizes Markdown first YAML.",
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false
+  },
+  "source_boundary": {
+    "grade": "PROJECT_AUTHORED_MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT_NOT_NEW_PRIMARY_NATIVE_OR_AV",
+    "separate_genuine_courses": "Originalauthor, differentreadiness/bodyreviewer and Root each own separately attributed completeC00195/C00292/V005507 maintained694; same-readerreuse adds no newcourse or old734.",
+    "derivative_operation_new_source_admission": false,
+    "historic_project_admissions": "The already admitted3940supplemental/480MAIN boundary remains its separate historical projectauthority. No denial or new admission is made by this derivative.",
+    "claim_limits": "Exact recipient/book/identity/chronology/afterstate bounds, intrinsic ordinarygoods and adverseagency remain in fullargument and original source/provenance records."
+  },
+  "strong_component_dependencies": [
+    {
+      "role": "SOURCE",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "bytes": 28620,
+      "sha256": "add4e7b833cac9534d3a00f407e346da756555405161f8cbda838fe2c14fe666",
+      "binding_scope": "EXACT_COMPLETE_EARLIER_COMPONENT_READBACK_VERIFIED_BEFORE_THIS_ROLE_SAVE"
+    },
+    {
+      "role": "BODY",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOKURIKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 22460,
+      "sha256": "b5c0d1555cc2b8c064b0095a0c79f17da8771b0d2d78796071bd61c4c113ffb8",
+      "binding_scope": "EXACT_COMPLETE_EARLIER_COMPONENT_READBACK_VERIFIED_BEFORE_THIS_ROLE_SAVE"
+    },
+    {
+      "role": "AUTHOR",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "bytes": 591034,
+      "sha256": "6cdfafb4123de8ca41454275a9b6365b145cfeae7ac43c43bbc3e0eeefd6d65b",
+      "binding_scope": "EXACT_COMPLETE_EARLIER_COMPONENT_READBACK_VERIFIED_BEFORE_THIS_ROLE_SAVE"
+    },
+    {
+      "role": "PEER",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "bytes": 741863,
+      "sha256": "cbddaf0bafff483025b0b3f732cdb4a4b2b3dd5f9736ab807eb025e3561c90eb",
+      "binding_scope": "EXACT_COMPLETE_EARLIER_COMPONENT_READBACK_VERIFIED_BEFORE_THIS_ROLE_SAVE"
+    }
+  ],
+  "retention_control": {
+    "purpose": "Retain complete literary/source/provenance thought and same-slot historicalmembership. Only exact physicalrouting/witness/declaredmechanicaldata cuts are private.",
+    "projection_not_raw_alias": "Each original coordinate identifies retained normative meaning, not every originalrawchild or currentbyte equivalence. Privatecustody relations grant no target access.",
+    "newest_candidate_stage": "V3 exact20 operative quartet additions and truthful V2-completed-with-finding/V3-pending stages;13 genuine new Root/peer/composer thought origins retained. CA04 and actual current candidate bytes remain not yet Root-adopted. Original80 retained roots/classes/destinations unchanged.",
+    "post_save_receipts": "Actual later delivered-byte/fidelity/readback receipts are externally bound at their actualstage to avoid feedback/selfhash. New reasons/findings require finite disclosed decision.",
+    "private_data": "No rawsourcecopies/helper/codecs/completeproofmatrices/pinqueues. Unique classes/roles/annotation/rights/receiving/diagnostic thought remains."
+  },
+  "current_scope_control": {
+    "Root_attributed_baseline": "Source166/main166/named19/12to178;Root-reported7ed6/e9b2486",
+    "fixed_required_scope": "355/29/25/384/788",
+    "stronger_claim_gaps": "ALL14_OPEN",
+    "models": 0,
+    "fixed150_audit": "ACTIVE",
+    "new_package_named_source_model_identity_completion_credit": 0,
+    "separate_duties": "AzamiM006,ShuroM037,sharedShuro-Kokuriko-AzamiREL andHyakka institution remain separately pending."
+  },
+  "retained_inputs": {
+    "R01": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "original": {
+        "schema": "ROOT_KOKURIKO_M019_SIX_PROSPECTIVES_BEFORE_FULL_AUTHOR_AND_DIFFERENT_QA_RECEIVING_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T21:33:55.628Z",
+        "exposure": "Root owns actualmaintained694scope:priorC1whole95+C2whole92 genuinelyreused andV005whole507actuallyreceived; capturedpins immutable. OwnSource2separate wishes correction adds0Kokurikoreadinesscredit. Have onlymetadata-summaryofauthor42001/QA24977, not theirfullarguments/courses/readbacks.",
+        "questions": [
+          "Does existingM019/A159samehome have a distinct sustained character argument acrossactualwhole694, rather than onlyplotfunction or villain-label?",
+          "Can accepted coercive narrativeauthority/selectivepermission thesis preserve strongest contraryinstrumentalreading and distinguish recognition from benevolence?",
+          "Do architecture11/method16 duties actuallyreceived support public/private/ordinary/company/care/peers/Sensei/language longitudinal claims at theirproper modes and absentdimensions without inventedprivate evidence?",
+          "Does every material source locator resolve within immutablemaintained694 and retain report/plan/threat/explanation/choice/permission/outcome ownership, including knownRengecompression withheld?",
+          "Are AzamiM006/ShuroM037/sharedREL/institution/named scope separate, source courses actualeachreader andQA V2metadata-only correction fullyunderstood?",
+          "What bounded readinessdecision and bodycommission can Rootactuallyauthorize afterfullauthor/QA/readback andownconsequentialsourcechecks, withoutnewsource/model/package/named/milestonecredit?"
+        ],
+        "bounds": "No newprimary/raw/AV/BOND/MM/helper/oldheldR/privatenine reads. OnlypositivelynamedCreadiness packet/sourcecaptures andRootownnewCnotes. No bodycommission untilactualRootdecision."
+      }
+    },
+    "R03": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "original": {
+        "schema": "ROOT_KOKURIKO_M019_ACTUAL_FULL42001_READINESS24977_DIFFERENT_QA_ADOPTION_AND_BOUNDED_BODY_COMMISSION_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T21:36:28.991Z",
+        "decision": "ADOPT_BOUNDED_READINESS_WITH_LIMITS_FOR_EXISTING_M019;COMMISSION_CONNECTED_CHARACTER_BODY_ONLY",
+        "actual_receiving": {
+          "author42001": {
+            "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0019",
+            "sha256": "d6df76db085d8b3e86f2f306a9e32818124dbc96829794606d30d23966ef9377",
+            "raw_parts": "0–21000/20500–end;whole"
+          },
+          "differentQA24977": {
+            "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0026",
+            "sha256": "8cccefcbfd4fc5a67b14d408b9f39e4107c37be17612bf029330118672617d5e",
+            "raw_parts": "whole successfuloutput"
+          },
+          "author_course11416": {
+            "filename": "OWN_KOKURIKO_WHOLE694_ACTUAL_SOURCE_COURSE_AND_MODE_BOUNDARIES_V1.json",
+            "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0018",
+            "bytes": 11416,
+            "sha256": "a1c6d6844d3fdca135f97ae81083164578b7af7db31bb6e182ac950e0acf5c02"
+          },
+          "author_actual_readback5713": {
+            "filename": "OWN_KOKURIKO_ACTUAL_COMPLETE_SAVED_MEANING_READBACK_AND_REASONED_READINESS_CLOSEOUT_V1.json",
+            "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0025",
+            "bytes": 5713,
+            "sha256": "6e85b008a30ab52eeae81a3afaf7c37ca20c856dcab09c9e1229dad780b40ea5"
+          },
+          "QA_course10344": {
+            "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0027",
+            "bytes": 10344,
+            "sha256": "a30dcbee9ace516d6fa66692c39f54bec5f41323355d7b3a8faaa1c691be9511"
+          },
+          "QA_actual_readback5015": {
+            "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0028",
+            "bytes": 5015,
+            "sha256": "5966e195d416181ac5b1caf45fe38297afc6dd90beb19aaa757cfba55c9fcecd"
+          },
+          "own_source": "Priorwholemaintained694atimmutablepins genuinelyreused, V005whole507actuallyreceivedpreviousgoalturn; currentturnC1/C2consequentialpassages+Scope00248–57metadata andmethod5.1–5.3/architecture7.1actuallyreceived. Not borrowedauthororQA694 nor694newprimaryobjects."
+        },
+        "six_Root_judgments": [
+          {
+            "question": 1,
+            "judgment": "Distinct sustained inquiry supported. Acceptance of Shuro failedwork, praise, stoppingAzami threat andallowingfoundpath are specificrecipient-facingconduct. Coercedselfexposure, Ayamepressureaffirmation andhostilefutureproposal preserve adversechoices. Readiness doesnotderivefromroster, highstakes orcount."
+          },
+          {
+            "question": 2,
+            "judgment": "Adopt strongest differentreview qualification: selectivepermission can itself beinstrumental and compatiblewith strategicdomination. It limits exhaustiveeverychoiceownership/compulsoryreturn, notallmanipulativeintent. Neither natural contradictioninmotive nor benevolentinneressence isproved. Failedworkacceptance isnotcompassionbydefinition."
+          },
+          {
+            "question": 3,
+            "judgment": "All11architecture/16methodquestions haveactualsupported/limited/unavailable dispositions. Ordinaryprivatebaseline and nativeidiolectareunreceivedinthisintake. Keepquestionvisible, do notinventhobbies/meal/rest/routine orborrowotherstudentspleasures. A sparsepositiveactcanmatterwithoutcrisisutilityorpopularstanding."
+          },
+          {
+            "question": 4,
+            "judgment": "KeepNagusaeyewitnessclaimvsincidentreplay,Kokurikohistory/bookselfclaims,Shurofear/authorship,Azamithreat,stagedconfessionsandafterstatereportsdistinct. No universalbookrules/objectiveexhaustivepsychology/globalchronology/Ayameidentityclosure/afterreformaccountability."
+          },
+          {
+            "question": 5,
+            "judgment": "ExistingM019/P3-M019 only;A159datedsamehome,notnamed. OtherM006/M037/sharedREL/Hyakkainstitution separate. ActualSource2C00162/V005407correctedbyRoot3fce/auditfull486, sourceadmission/count0. Oldreadinesscaptures/statementsretainliteralprecorrectionstate; correctC1apology ownershipgrade governssubsequentwork. QAownV1fiveembeddedarraysareprivate diagnosticnotintellectualcargo;V2retainsuniquecoursemeaning. No inferencefromartifactname/hash alone."
+          },
+          {
+            "question": 6,
+            "judgment": "Adopt readiness WITH LIMITS afteractualfullargument/QA/sourcechallenge andown154documentarychecks. Thisisreadinessforliterarybody, notcompletepackage/model/source/identity/named/milestoneacceptance. Connectedprose mustearnitsownreview andRootadoption beforepublic6/currentmetadata/sharedcounts."
+          }
+        ],
+        "own_fidelity": {
+          "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0043",
+          "checks": 154,
+          "false": 0,
+          "scope": "Own12positivepins+126referencebounds+6coverageand10consequentialanchors; documentaryonly, notsource/semanticdepth orborrowed179/195."
+        },
+        "body_commission": {
+          "writer": "/root/kokuriko_m019_bounded_readiness",
+          "scope": "New ownC-onlyconnectedliterarycharacterbody for existingM019 plusfullclaim/evidence/mode/applicability/endpoint/rival/reference notes andactualsavedreadback/externalmanifest. No public6,shared7,N/Git/provider/globalcontrols,Sourcewrites orcount.",
+          "before_body": "Save fresh prospectiveparticularquestions anddisclose genuineexistingwhole694 course; actuallyreceivewholeQA24977/courseV2/readback+thisRootdecision. Same-readerwholeoldsource maybereusedatpins; noforcedreplay. SeparatelybindactualSource2correctionadoption anditsfinitechangedclauses, no sourceattendanceinvented.",
+          "literary_obligation": "Sustainedparticularconnectedargument, not eleven/16rowinventory asbody. Coverallarchitecture11 andmethod16 underhonestpositive/openlimits. Foregroundcoerciveauthority/selectivepermission, instrumentalrival, unequalrecipientdirections, Shuroownfearandwriting, Ayamepressure, localafterstates. Preserveordinary/lowstakesintrinsicvaluewithoutinventedbaseline. KeepJapaneseonlymaintainedterms andnounearnedperformedvoice.",
+          "retention": "Keepwholeactualauthorreadiness/course/prospectives/readback, differentQA/courseV2/readback, Rootprospectives/proof/adoption asattributedintellectualprovenance. Do notsubstituteheadings/counts/hashessummaries forfullmeaning orpublishprivatechecks/sourcecopies. Originalsource/QAcreationtimependingclausesaredated, closedonlybyactuallaterdecision.",
+          "stops": "DifferentcompletebodyQA andRootactualbody/source/QAadoption beforeanypublic-formcommission. Azami/Shuro/sharedREL/institution remain separate. No primary/native/raw/BOND/MM/AV/foreignhelper/oldheldR/privatenine access."
+        },
+        "fixed_goal": {
+          "packages355": 355,
+          "named29": 29,
+          "current_verified_packages": 165,
+          "named_done19": 19,
+          "all14": "OPEN",
+          "models": 0,
+          "fixed150": "ACTIVE",
+          "new_package_credit": 0,
+          "new_named_credit": 0,
+          "new_source_admission": 0
+        },
+        "note": "PNcurrent7differentQA runninginparallel. Thisreadinessadoption doesnotapprovePNshared7 orchangeitsfrozenbytes."
+      }
+    },
+    "R04": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "original": {
+        "schema": "ROOT_KOKURIKO_CONNECTED_BODY_SIX_PROSPECTIVES_BEFORE_ACTUAL_WHOLE_BODY_RECEIVING_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T21:56:44.255Z",
+        "exposure": "Rootactualreadiness42001/24977/courses/readbacks/source694adoption8411complete; sealed6157terminalmetadatareceived. Have notyetpersonallyreadactualnewbody21286or70910notes ornewbodyQA.",
+        "questions": [
+          "Does all25paragraphconnectedargumentearnaspecificKokurikoportraitinsteadofexpandingplot/rosterorretainingonlyanethicallabel?",
+          "Doespermissionremaincompatiblewithinstrumentalcontrol, failedworkacceptancenotautomaticcompassion, noassertedinnerbenevolence/reformentitlement?",
+          "Do allactors/recipientdirections/knowledgegrades/particularbooks/Ayameforms retaintheirproperlimitsacrossallparagraphsand11footnotes?",
+          "Do ordinary/private/voice/historicaluncertaintiesremainpreciseintakeboundswithintrinsicsparsegoodsandnoinventedhobby orborrowedotherpersonscompany?",
+          "Do25claims/notes11/16/eightrivals/sevenendpointsactuallysupportcompletebodywithoutpromotingreports/claims/plans/repeatedsynthesisintocompletedactions?",
+          "What findingsorboundedadoptionfollowonlyafteractualwholebody/notes/differentbodyQA/readbackandownconsequentialchecks, beforepublic6commission?"
+        ],
+        "bounds": "RootownnewCnotes only, noN/Git/provider/source/PNshared7change bythisbodyreading. DifferentbodyQAalreadycommissioned; noadoption/countfromsealedfilename."
+      }
+    },
+    "R05": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "original": {
+        "schema": "ROOT_KOKURIKO_ACTUAL_WHOLE21286_CONNECTED_BODY_FIRST_RECEIVING_NOT_ADOPTION_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T21:57:01.750Z",
+        "body": {
+          "filename": "OWN_KOKURIKO_CONNECTED_CHARACTER_BODY_FULL_ARGUMENT_V2.md",
+          "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0022",
+          "bytes": 21286,
+          "sha256": "2f8b4f04c330f70065d17a84705d8aa41745053068884ed8b4b7df54b1f6e3f8"
+        },
+        "actual_read": "Whole21286 body0–end inonesuccessfuluntruncatedoutput,all25connectedparagraphs/11footnotes. Prior694source/readiness/adoption8411 genuine. Thisdoesnotinclude70910notes,newbodyQAorbodyadoption.",
+        "initial_observations": "Instrumentalpermissionremainsviable, failureacceptancenotautomaticcompassion, actorsandrecipient/authoritygradesretained, no inventedprivatebaselineorperformedvoice, uncapturedafterstateopen. Entirebodywillreceivefullnotes/QA/sourcechecks beforeactualadoption. No newfindingassertedfromnarrowchecks.",
+        "next": "Actualwhole70910authornotes/readback7699+differentcompletebodyQA/actualreadbackandRootownreference/sourcefidelity beforebodyadoption/public6commission. No source/count/N/PNshared7effects."
+      }
+    },
+    "R07": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "original": {
+        "schema": "ROOT_KOKURIKO_M019_ACTUAL_WHOLE_CONNECTED_BODY_AND_DIFFERENT_COMPLETE_QA_ADOPTION_PUBLIC6_PLAN_ONLY_COMMISSION_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T22:10:01.849Z",
+        "decision": "ADOPT_EXACT_CONNECTED_BODY_V2_WITH_LIMITS;AUTHORIZE_FINITE_PUBLIC6_RETENTION_PLAN_ONLY",
+        "existing_home": "P3-CHAR-M019/P3-M019;A159sameexistingduty;notnamed",
+        "exact_body": {
+          "filename": "OWN_KOKURIKO_CONNECTED_CHARACTER_BODY_FULL_ARGUMENT_V2.md",
+          "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0022",
+          "bytes": 21286,
+          "sha256": "2f8b4f04c330f70065d17a84705d8aa41745053068884ed8b4b7df54b1f6e3f8"
+        },
+        "actual_full_received": {
+          "body21286": "Wholeactualsuccessfuloutputall25paragraphs/11footnotes",
+          "notes70910": {
+            "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0032",
+            "sha256": "cbebe446cf07ff67543e17f9dfaa8d78d17aa279e10120dcd0a8bc92fa7a18b8",
+            "parts": "0–24000/23500–48000/47500–enddecodedcharacters,wholeuntruncated"
+          },
+          "author_readback7699": {
+            "filename": "OWN_KOKURIKO_BODY_ACTUAL_WHOLE_SAVED_MEANING_READBACK_AND_AUTHOR_CLOSEOUT_V1.json",
+            "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0039",
+            "bytes": 7699,
+            "sha256": "540945f56f30d82262d0384df70343285fc7e05a50be55b6166c1cb87b522551"
+          },
+          "differentQA35209": {
+            "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0042",
+            "sha256": "b11f13109c9fa6ad0f4127cf5cb36eaa75b66e40636e129ca6d35b9ffb9f29cd",
+            "parts": "0–18000/17500–end,wholeuntruncated"
+          },
+          "different_receiving10899": {
+            "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0037",
+            "bytes": 10899,
+            "sha256": "ac4c62ec841223ceb17c18cac7cd41e9c91da7b70b85d972f65b4fb1f80774b1"
+          },
+          "different_actualreadback6353": {
+            "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0044",
+            "bytes": 6353,
+            "sha256": "48a096a67bd9bc65836fb62a6a83d746f613203009b989e36b2b2df4394cd6c3"
+          },
+          "terminal5498": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0045",
+          "prior_readiness_source": "Rootactuallyreceived42001/24977/11416/10344/5713/5015andadopted8411. Genuineownwholemaintained694atunchangedpins reused, notauthororpeerattendance. CurrentconsequentialC00148–54/C00232–50/58/60/69/79/84–86andmethod/architecture/Scope002metadataactuallyreceived. OldRoot734overlapisnotaddedto694."
+        },
+        "six_Root_body_judgments": [
+          {
+            "question": 1,
+            "judgment": "Accept a connected distinct character argument. The sequence from failureacceptance torecipientfear,priorwriting,permission,unequalexposureandsparseafterstate shows why each instance changes interpretation. Body isnotan11/16readinessinventoryorplotcatalogue."
+          },
+          {
+            "question": 2,
+            "judgment": "Accept selectivepermission asobservableconduct with strongestinstrumentalrival fullylive. It canservecontrol and doesnotproveinwardcontradiction,benevolence,universalartisticfreedom orcompassionfromabsenceofpunishment. Localbenefit toShuroremainsmeaningfulwithoutabsolvingcoercionelsewhere."
+          },
+          {
+            "question": 3,
+            "judgment": "Accept exactactors andgrades throughoutall25paragraphs/11footnotes. Nagusalosstestimony isnotincidentreplay; Kokurikopressureaffirmation/claimedbooks differfromrepresentedacts. Shuroowns fear/pseudonym/manuscript/newtale, Azamiowns threat/escort, Niyaownsappeal, spectatorsownlaughter, Nagusaownshand. Laterpermissioncannotretroactivelyauthorearlierwriting orarmreturn."
+          },
+          {
+            "question": 4,
+            "judgment": "Accept public/private/ordinary/language dimensions ashonestrange-limitedquestions. Threeaccounts do notsupply Kokuriko meal,hobby,routine,private-messagebaseline ornative/performedidiolect. Otherstudentsordinaryfood/craft/rest/company/joy keepactualowners/intrinsicvalue. Sparseevidenceisneitherdiscarded norinflatedintoinventedbiography/globalabsence."
+          },
+          {
+            "question": 5,
+            "judgment": "Accept all11architecture/16method/eightrival/sevenendpointdispositions atmaintainedgrade. Thirdbookobject/activation/fullmechanism,earliermikoidentity,Ayamemodes,coercedconfessioncompleteness,Senseilocalexemptionandglobalchronology remainopen. Localstatesdonotlicenseuniversalrules,therapyconsent orcompletedcausalcure."
+          },
+          {
+            "question": 6,
+            "judgment": "Accept finiteend:uncapturedescape/disappearancereport,returnedbutasleepAyame andinterestedofficialaccount. No death,capture,reform,destination,safety,punishment,completeaccountability orbookfate. Laterordinary/historical/native/mechanism/afterstateevidence mayrevise. No newsource/person/home/model/named/REL/INST/count bythisbodyadoption."
+          }
+        ],
+        "own_documentary_fidelity": {
+          "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0046",
+          "checks": 153,
+          "false": 0,
+          "scope": "Whole9actualmeaning/sourcepins,25claims/11definedusedfootnotes/91boundedmodewarrants/all11_16_8_7/fullpeercoverageand10consequentialsourceanchors. Supplementsactualjudgment; doesnotborrowauthor119/peer445 orcreateprimarycognition."
+        },
+        "same_reader_precision": "Kokurikobodyauthoristhesamereadinessauthor and genuinelyreusesits694course. Differentbodyrevieweristhesamereadinessreviewer and genuinelyreusesitsown694. Roothasitsown694scope. Noneisfournew694courses,694eventsoradditionalnative/private/AV attendance. Actor/date/gradeboundariesremainliteral.",
+        "Source2": "Root8096finiteadoptionandlaterSource3fce/full486closuregoverncurrentwishattribution;oldcaptures/readiness/QAcreationtimependinglabelsretainhistory. BodydoesnotciteoldC00162/V005407wishorassignRengereunion/recipient;othermaintainedclausesunchanged.",
+        "public6_plan_only_commission": {
+          "writer": "/root/kokuriko_m019_bounded_readiness",
+          "purpose": "Plan exactlyonecurrentmonographBODY plus functionallyjustified SOURCE/AUTHOR/PEER/ROOT/REGISTRY textcomponents, preservingallnormativewholeintellectualmeaning underfullraw/typedforwardinverse beforeanypublicafterimages. Concretepurposes/class/rights beforeactualsize, no storagewaiver/transportcompression/shardingorfilenameban.",
+          "required_retention": "Keepwholeactualreadinessauthor/course/originalprospectives/readback, differentreadinessQA/courseV2/readback andenteringquestions, Rootreadinessquestions/proof/adoption, freshbodyprospectives3190/body70910notes/7699readback, completebodyQA35209/10899course/6353readback/5051role+earlier4753questions/13535requirements, andthisactualRootbodyadoption+enteringquestions. Mechanicalproof/metadata-onlytables mayremainprivateonlyunderexactdeclaredroleboundary; no deletingintellectualsource/mode/applicability/end/rival/approval/historyfields.",
+          "transformation": "Positivefiniteinputselectiononly; noPscan/foreignhelperstatreadhashimportexecute/oldheldR/privatenine/raw/native/AV/privatefamily. Exactbody21286all25paras11footnotesunchangedliterarily; anycanonicalmetadata/headerrequiredistinctdeclaredderivative, fulloldnewhistoryandlaterQA/Rootadoption beforecurrentstatus. KeepcurrentSource/counterdatesaccurate, notpermanentpendingandnotfuturepass.",
+          "inverse_and_refs": "Classifyeachactualstoredpathfield bypubliclogicaltargetvsprivateprovenancewitness; exactfield/typedselector substitutiononly underfullraw/typedproof; literalmarker-like data NOOP unlessexactregisteredprojection. Preserve relativepointers/completealiasedvalues andactualcomponentDAG nonselfbinding. Retain datedoldfilenames onlywhereappropriate public-safeprovenance; neverinventaliasesforprivate9 orhelpercontents. Nohelper/sourcecopies/codecs/privateproofqueuesaspubliccargo.",
+          "stage": "C-onlyplanadvice,nopublic6afterimages yet. DIFFERENTcompleteplanQAthenRootactualplanmeaning/ownproof/adoptionbeforepublic6composition. ActualpublicformQA/Rootbyteadoption/currentmetadata/shared7/N/persistence/publicationarefutureexplicitstages."
+        },
+        "goal": {
+          "source_published166": 166,
+          "main_last_verified165": 165,
+          "named19": 19,
+          "required355": 355,
+          "required_named29": 29,
+          "next178_remaining12": 12,
+          "all14": "OPEN",
+          "models": 0,
+          "fixed150": "ACTIVE",
+          "newcreditfromthisadoption": 0
+        },
+        "parallel": "PNsourcea5a2actualfullremote13matches,exactaudit41921208892/integrity126893903345stillawaitingfullcompletion; no nextSourcepushbeforegreen. OtherM006/M037/sharedREL/Hyakkainstitution/ANremainseparate."
+      }
+    },
+    "R08": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "original": {
+        "schema": "ROOT_ACTUAL_SOURCE_A5A2_FULL486_UNFILTERED_PUSH_AUDIT_AND_EXACT_REPORTER_CLOSURE_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T22:14:47.432180+00:00",
+        "head": "a5a2ee8864a423d290badb4fd3a6ecc014feb7d8",
+        "run": 41921208892,
+        "integrity_job": 126893903345,
+        "reporter_job": 126899929916,
+        "all_terminal_success": true,
+        "exact_commit_status_context": "Repository integration audit",
+        "exact_commit_status": "success",
+        "full_unfiltered_command": "python tools/audit_execution.py --snapshot commit --commit \"${AUDIT_COMMIT}\" --report-json \"${RUNNER_TEMP}/test-timings.json\"",
+        "discovered_tests": 486,
+        "tests_run": 486,
+        "test_rows": 486,
+        "unique_once_ids": 486,
+        "failures": 0,
+        "errors": 0,
+        "expected_failures": 0,
+        "unexpected_successes": 0,
+        "skips": 0,
+        "all27_integrity_plus2_test_stages_complete": true,
+        "integrity_stages": [
+          "snapshot",
+          "paths",
+          "bytes",
+          "identities",
+          "routing_preflight",
+          "routing_scope",
+          "protected",
+          "links",
+          "audit_workflow",
+          "housekeeping",
+          "nightly_contract",
+          "whitespace_exceptions",
+          "authority_graph",
+          "authority_scope",
+          "crosswalk",
+          "native_sheets",
+          "series_registry",
+          "missing_entrypoints",
+          "study_registry",
+          "root_topology",
+          "obligations",
+          "project_initiation",
+          "character_domain",
+          "character_render",
+          "reconstruction",
+          "discovery_confinement",
+          "catalog_render"
+        ],
+        "full_saved_reports": {
+          "audit-timings.json": {
+            "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0047",
+            "bytes": 4494,
+            "sha256": "a7d1948d69ef16c26d0d191e0b38972714434ee6bbad3fdec7362135c653a6d0"
+          },
+          "test-timings.json": {
+            "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0048",
+            "bytes": 85121,
+            "sha256": "eacad5dd225d81494fafd95bb79d776078021f7b2bb6332d220ff29c5bb78f7d"
+          },
+          "full_provider_integrity_log": {
+            "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0049",
+            "bytes": 178340,
+            "sha256": "bd9ee4e175d8b9a158760cff8e785c872ae87f907c1d2240e0a4165bcfa3e283"
+          },
+          "run_jobs_status": {
+            "path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0050",
+            "bytes": 29148,
+            "sha256": "49c88faed680283cc46d1e911a7a9f9a21863afc50781ccee9ca58da0d8d7bd1"
+          }
+        },
+        "source_packages": 166,
+        "main_last_verified_packages": 165,
+        "named": 19,
+        "next178_remaining": 12,
+        "new_models_or_source_admissions": 0,
+        "limits": "ActualSourcea5a2exactaudit only, notprotectedintegration/postmerge/178milestone orKokurikopublication. Remote13previouslyfullMCPbyte/SHA256/Gitblobmatched. No rerun/restart/filter/suppression."
+      }
+    },
+    "HR01": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "normative_projection": {
+        "schema": "ROOT_KOKURIKO_CURRENT38_PLAN_SIX_PROSPECTIVES_BEFORE_FULL66460_MEANING_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T22:42:52.599Z",
+        "role": "Actual Root receiver/adopter only; not original plan author or different plan reviewer.",
+        "actual_exposure": "Root genuinely received and adopted Kokuriko readiness and full21286 body/70910notes/35209differentQA and owns earlier694 maintained-analysis course. Compact planner messages and full6651 terminal disclose38-origin scope, new normative carrier inclusion and exact private field boundaries; complete current66460human/11707readback/private4175260 meaninglevel not yet received.",
+        "questions": [
+          "Do all readiness/body/peer/Root questions, reasons, source-grade records, decisions and actual saved readbacks remain complete under their original actors and stages, including unique prose inside terminals/manifests/selections?",
+          "Does the exact Root-proof exclusion preserve all nonqueue meaning plus twenty substantive consequential rows while keeping only287 mechanical execution rows private, by content rather than filename?",
+          "Are249 private path fields assigned67 shared witnesses solely by exact typed equality, with37 public navigation fields and all literal/relative/marker-like normative values unchanged?",
+          "Can complete selected logical values and original raw/typed records be independently recovered with original field order and no following of helpers/private9/.raw/source locators?",
+          "Do six functional roles and15 nonself component relationships have specific analytical need and real current-target binding rules, without merely relocating a mechanical transport bundle or inventing public authority?",
+          "After complete human/actualreadback/differentQA receiving and Root own fidelity, is a bounded composition commission justified, retaining all genuine later normative thought and preserving BODY21286/25paragraphs/11footnotes and current stage limits?"
+        ],
+        "bounds": "Own new Root C record only; no afterimages/N/Git/provider/shared7/source/model/count/merge authority. Same fixed355/29/25/384/788,all14OPEN/models0/150auditACTIVE."
+      }
+    },
+    "HR02": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "normative_projection": {
+        "schema": "ROOT_CURRENT38_KOKURIKO_PLAN_INDEPENDENT_SPECIFICATION_FIDELITY_WITH_CLASS_FINDING_NOT_ADOPTED_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T22:49:17.134Z",
+        "stage": "CURRENT_PLAN_FULL_MEANING_RECEIVED;TECHNICAL_SPECIFICATION_FIDELITY_COMPLETE;CONTENT_CLASS_FINDING_OPEN",
+        "actual_meaning_received": "Whole66460humanV3,11707actualreadbackV2,6651terminal, unique4175260 privatecontract/field/inverse meanings and meaningful31807manifest scope. Full priorKokuriko readiness/body/QA/Root values genuinely earlierreceived; newcarriers content independentlyexamined. OriginalBODY21286/25paras/11footnotes alreadyaccepted,notnewadoption.",
+        "own_checks": {
+          "count": 18579,
+          "false": 0,
+          "scope": "Own independently authored BufferJSONparser validates all6029 recorded node rawspans/wholetypedvalues. Exactly38 C analytical/provenance originals read and raw/byte/SHA compared to full beforeimages.249 exact scalar substitutions mapped67 equality witnesses;all38 RAMrawinverses actuallyrecovered.20completeconsequential rows and exact287mechanical rows/classifiedindexeschecked.6functionalroles/15proposedDAG checked. No publicafterimages or actualdeliveredbyte/authorityvalidation performed."
+        },
+        "current_inputs": {
+          "human": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "HA02",
+              "scope": "Original received source identity; targets its retained normative projection, never aliases its whole raw file or asserts future publicbytes equal original."
+            }
+          },
+          "private_spec": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_PRIVATE_CUSTODY_RELATION_ONLY",
+              "custody_id": "KPF-C0022",
+              "scope": "Unselected physical custody or excluded diagnostic/check/sourcecopy witness; no public object, rawfile alias, target access or contents represented."
+            }
+          },
+          "actual_readback": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "HA03",
+              "scope": "Original received source identity; targets its retained normative projection, never aliases its whole raw file or asserts future publicbytes equal original."
+            }
+          }
+        },
+        "complete_consequential_rows": [
+          {
+            "record": "R02",
+            "original_index": 132,
+            "complete_original_row": {
+              "ok": true,
+              "why": "consequentialsourceanchor C001:54 Failedwork acceptance is not completedworlddestruction"
+            }
+          },
+          {
+            "record": "R02",
+            "original_index": 133,
+            "complete_original_row": {
+              "ok": true,
+              "why": "consequentialsourceanchor C001:54 Futurehostileproposal remains adverseintent"
+            }
+          },
+          {
+            "record": "R02",
+            "original_index": 134,
+            "complete_original_row": {
+              "ok": true,
+              "why": "consequentialsourceanchor C002:36 Fear belongs to Shuro, noKokurikothreat asserted"
+            }
+          },
+          {
+            "record": "R02",
+            "original_index": 135,
+            "complete_original_row": {
+              "ok": true,
+              "why": "consequentialsourceanchor C002:48 Local allowance is not generalfreedom or sincerebenevolence"
+            }
+          },
+          {
+            "record": "R02",
+            "original_index": 136,
+            "complete_original_row": {
+              "ok": true,
+              "why": "consequentialsourceanchor C002:48 Actual restraint on allythreat; notparenthood"
+            }
+          },
+          {
+            "record": "R02",
+            "original_index": 137,
+            "complete_original_row": {
+              "ok": true,
+              "why": "consequentialsourceanchor C002:48 Coerced exposure retainsethicalcost andlimitedmechanics"
+            }
+          },
+          {
+            "record": "R02",
+            "original_index": 138,
+            "complete_original_row": {
+              "ok": true,
+              "why": "consequentialsourceanchor C002:48 Adversehistoryaffirmation notfullincidentreplay"
+            }
+          },
+          {
+            "record": "R02",
+            "original_index": 139,
+            "complete_original_row": {
+              "ok": true,
+              "why": "consequentialsourceanchor C002:44 Shuroownsindependentnewstory, nothiddenKokurikowork"
+            }
+          },
+          {
+            "record": "R02",
+            "original_index": 140,
+            "complete_original_row": {
+              "ok": true,
+              "why": "consequentialsourceanchor C002:50 Uncapturedafterstate doesnotlicenseaccountability/reform"
+            }
+          },
+          {
+            "record": "R02",
+            "original_index": 141,
+            "complete_original_row": {
+              "ok": true,
+              "why": "consequentialsourceanchor C001:48 Do notinheritbroaderlaterRengeshorthand"
+            }
+          },
+          {
+            "record": "R06",
+            "original_index": 143,
+            "complete_original_row": {
+              "ok": true,
+              "why": "bodyconsequentialsourcewarrant C001:54 Failedwork acceptance is not completedworlddestruction"
+            }
+          },
+          {
+            "record": "R06",
+            "original_index": 144,
+            "complete_original_row": {
+              "ok": true,
+              "why": "bodyconsequentialsourcewarrant C001:54 Futurehostileproposal remains adverseintent"
+            }
+          },
+          {
+            "record": "R06",
+            "original_index": 145,
+            "complete_original_row": {
+              "ok": true,
+              "why": "bodyconsequentialsourcewarrant C002:36 Fear belongs to Shuro, noKokurikothreat asserted"
+            }
+          },
+          {
+            "record": "R06",
+            "original_index": 146,
+            "complete_original_row": {
+              "ok": true,
+              "why": "bodyconsequentialsourcewarrant C002:48 Local allowance is not generalfreedom or sincerebenevolence"
+            }
+          },
+          {
+            "record": "R06",
+            "original_index": 147,
+            "complete_original_row": {
+              "ok": true,
+              "why": "bodyconsequentialsourcewarrant C002:48 Actual restraint on allythreat; notparenthood"
+            }
+          },
+          {
+            "record": "R06",
+            "original_index": 148,
+            "complete_original_row": {
+              "ok": true,
+              "why": "bodyconsequentialsourcewarrant C002:48 Coerced exposure retainsethicalcost andlimitedmechanics"
+            }
+          },
+          {
+            "record": "R06",
+            "original_index": 149,
+            "complete_original_row": {
+              "ok": true,
+              "why": "bodyconsequentialsourcewarrant C002:48 Adversehistoryaffirmation notfullincidentreplay"
+            }
+          },
+          {
+            "record": "R06",
+            "original_index": 150,
+            "complete_original_row": {
+              "ok": true,
+              "why": "bodyconsequentialsourcewarrant C002:44 Shuroownsindependentnewstory, nothiddenKokurikowork"
+            }
+          },
+          {
+            "record": "R06",
+            "original_index": 151,
+            "complete_original_row": {
+              "ok": true,
+              "why": "bodyconsequentialsourcewarrant C002:50 Uncapturedafterstate doesnotlicenseaccountability/reform"
+            }
+          },
+          {
+            "record": "R06",
+            "original_index": 152,
+            "complete_original_row": {
+              "ok": true,
+              "why": "bodyconsequentialsourcewarrant C001:48 Do notinheritbroaderlaterRengeshorthand"
+            }
+          }
+        ],
+        "raw_inverse_scope": {
+          "private_mechanical_custody": "KOKU-DATA:HR02:/raw_inverse_scope",
+          "scope": "Exact declared mechanical data only; private inverse custody, no rawfile alias or underlying target permission."
+        },
+        "content_finding": {
+          "classification": "MATERIAL_CLASS_NEED_BOUNDARY_FINDING;NO_PLAN_ADOPTION",
+          "explanation": "The full-tree promotion of newly added manifests/terminal tuples carries repeated mechanical membership cells along with genuinely normative prose. Safe witness IDs hide executor spelling but do not establish analytical cargo need. Exact class correction is required while preserving unique actor/role/class/id/disposition/source-grade/scope/rights/receiving/diagnostic meanings at original positions and full original raw/typed inverse.",
+          "concrete_Root_inspection": [
+            "A08/owned_private_documentary_proofs2purefilename/C_path/bytes/sha256rows",
+            "A10/meaning_members4and/private_mechanical_members2purefilename/C_path/bytes/sha256rows",
+            "A08/positive_inputs16roleplusroutingcells",
+            "P12/members7role/classplusroutingcells;exact_used_input_pins24roleplusroutingcells",
+            "P16/members8classplusroutingcells;exact_used_inputs18idplusroutingcells"
+          ],
+          "protected": "SOURCE actual source receiving routes/grades and originalfirst28selectedintellectualmeaning are not made private by this finding. Both Root proof nonqueue meanings+20consequentialrows andBODY stay unchanged.",
+          "peer_status": "Different planQA independently corroborated one material classboundaryfinding by message; fullQA/actualreadback/finalterminal pending Rootreceiving. No finiteplanrepair or afterimages authorized by this proof."
+        },
+        "limits": "Mechanical fidelity does not establish public cargo class, literary adequacy, cognition or current target bindings. No sourcecourse added, no peer numericproofborrowed, no actualpublic6count/currentnessadoption. Originalinputsunchanged;no containedtargets/foreignhelpers/private9/.raw/oldheldR followed.",
+        "counts": "Source166/mainlast165/named19/12to178;allincrements0;all14OPEN/models0/fixed355/29/25/384/788/150auditACTIVE"
+      }
+    },
+    "HR03": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "normative_projection": {
+        "schema": "ROOT_ACTUAL_COMPLETE_KOKURIKO_CURRENT38_PLAN_AND_DIFFERENT_QA_KP_F01_ADJUDICATION_FINITE_CLASS_SUCCESSOR_ONLY_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T22:53:23.285Z",
+        "decision": "KP_F01_SUPPORTED;CURRENT38_WHOLE_TREE_CARGO_RULE_NOT_ADOPTED;FINITE_PLAN_SUCCESSOR_ONLY_NO_AFTERIMAGES",
+        "actual_receiving": {
+          "Root_prospective": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0069",
+          "whole_plan": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "HA02",
+              "scope": "Original received source identity; targets its retained normative projection, never aliases its whole raw file or asserts future publicbytes equal original."
+            }
+          },
+          "whole_planner_readback": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "HA03",
+              "scope": "Original received source identity; targets its retained normative projection, never aliases its whole raw file or asserts future publicbytes equal original."
+            }
+          },
+          "whole_different_QA": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "HP03",
+              "scope": "Original received source identity; targets its retained normative projection, never aliases its whole raw file or asserts future publicbytes equal original."
+            }
+          },
+          "whole_peer_receiving": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "HP02",
+              "scope": "Original received source identity; targets its retained normative projection, never aliases its whole raw file or asserts future publicbytes equal original."
+            }
+          },
+          "whole_peer_saved_readback": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "HP05",
+              "scope": "Original received source identity; targets its retained normative projection, never aliases its whole raw file or asserts future publicbytes equal original."
+            }
+          },
+          "whole_peer_terminal": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "HP06",
+              "scope": "Original received source identity; targets its retained normative projection, never aliases its whole raw file or asserts future publicbytes equal original."
+            }
+          },
+          "exact_boundary_evidence": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "HP04",
+              "scope": "Original received source identity; targets its retained normative projection, never aliases its whole raw file or asserts future publicbytes equal original."
+            }
+          },
+          "evidence_scope": "Full80302 exact data parsed/pinned. Root personally received all unique finding/protection/repair reasons, all16group annotations and all25puretuple selectors via complete23095QA and explicit annotation views. All133row/tuple actual routing-key and complete remaining annotation values independently equal originals; flat rawroutingcellvectors are proof data, not additional source cognition."
+        },
+        "six_Root_judgments": [
+          {
+            "question": "What is already supported?",
+            "answer": "Exactly one accepted connectedBODY21286/25paragraphs/11footnotes and five distinct source/author/peer/Root/navigation functions have analytical purpose. Complete author42001/70910, independent readiness/body arguments, prior questions/courses/readbacks and actual Root source/body adoption meanings must survive with original actors/stages. Sparse ordinary evidence is retained without inventing a Kokuriko private baseline or borrowing other people’s pleasure."
+          },
+          {
+            "question": "Why does the current plan fail the cargo boundary?",
+            "answer": "Correct inclusion of unique prose inside manifests/terminals does not make every nested routing tuple normative. A08selection/proof tuples andA10meaning/mechanical tuples include only filenames/privatepaths/bytes/SHA. Annotated P12/P16/P13/P15 rows retain unique class/role/id/meaning/exclusion text in addition to repeated routing cells. Replacing paths by witness IDs cannot by itself justify those repeated physical queues as public thought."
+          },
+          {
+            "question": "What exactly may change?",
+            "answer": "Only separately classify the explicitly enumerated pure routing cells in the16mixedgroups and25terminaltuple objects identified in the exact evidence. Preserve original member keys, row order/indices, selection/receipt relationships, unique annotation fields/values and every other nonqueue intellectual value. Necessary one-per-origin logical identity/binding inREGISTRY remains. Do not remove whole carriers or sweep SOURCE actual receiving routes/grades into this correction."
+          },
+          {
+            "question": "What has Root independently verified?",
+            "answer": "Exact38original C .json/.md beforeimages, all6029node UTF8spans/rawtokens/typedvalues,249scalar/67witness equality, full38RAMrawinverses, all20consequential rows/nonqueue proof meaning and exact287mechanical rows, and sixroles/15proposedDAG. Own18579checks/0 technicalfailures are not cargo approval. All133 evidence row/tuple boundaries and complete retained annotations match actual originals. No future publicbyte inverse, canonicalheader or current binding is yet established."
+          },
+          {
+            "question": "What source-route clarification must remain explicit?",
+            "answer": "All original Root proof rows remain complete dated values. Two abbreviated Root labels associate C002:50 with uncapturedafterstate; the current precise route is C00248 for Kokuriko’s represented uncaptured escape andC00250 for Niya’s later all-three disappearance report. Do not interpret50alone as direct proof of the escape. Accepted BODY footnote9 already includes48–60; its argument stays exact. Preserve this attributable current qualification alongside the old complete labels rather than silently editing them."
+          },
+          {
+            "question": "What authority follows?",
+            "answer": "Only a finite versioned plan successor and differentQA/Rootactualadoption before any publiccomposition. Source166/mainlast165/named19/12to178 remain; body/currentmetadata/source/model/gap/count effects zero. A future canonical BODY header needs its own explicit derivative scope after actualplanadoption. Old wrongplan/class labels remain recoverable history, not operative publicapproval."
+          }
+        ],
+        "own_fidelity": {
+          "checks": 18579,
+          "false": 0,
+          "exact_evidence_boundaries": 133,
+          "evidence_boundary_failures": 0,
+          "routing_cells_in_current_evidence": 444,
+          "historical_input_relation": {
+            "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+            "origin_id": "HR02",
+            "scope": "Original received source identity; targets its retained normative projection, never aliases its whole raw file or asserts future publicbytes equal original."
+          }
+        },
+        "author_commission": {
+          "recipient": "/root/kokuriko_m019_bounded_readiness",
+          "scope": "New ownC finite retention-plan successor only; originalcurrent38/privateV3/humanV3/readbackV2/QA/currentbody remain frozen.",
+          "authorized_exact_groups": [
+            {
+              "record": "A08",
+              "pointer": "/positive_inputs",
+              "rows": 16
+            },
+            {
+              "record": "A08",
+              "pointer": "/owned_intellectual_selection",
+              "rows": 4
+            },
+            {
+              "record": "A08",
+              "pointer": "/owned_private_documentary_proofs",
+              "rows": 2
+            },
+            {
+              "record": "A10",
+              "pointer": "/meaning_members",
+              "rows": 4
+            },
+            {
+              "record": "A10",
+              "pointer": "/private_mechanical_members",
+              "rows": 2
+            },
+            {
+              "record": "A10",
+              "pointer": "/positive_inputs",
+              "rows": 9
+            },
+            {
+              "record": "P12",
+              "pointer": "/members",
+              "rows": 7
+            },
+            {
+              "record": "P12",
+              "pointer": "/exact_used_input_pins",
+              "rows": 24
+            },
+            {
+              "record": "P16",
+              "pointer": "/members",
+              "rows": 8
+            },
+            {
+              "record": "P16",
+              "pointer": "/exact_used_inputs",
+              "rows": 18
+            },
+            {
+              "record": "P13",
+              "pointer": "/intellectual_records",
+              "rows": 4
+            },
+            {
+              "record": "P13",
+              "pointer": "/private_fidelity",
+              "rows": 2
+            },
+            {
+              "record": "P13",
+              "pointer": "/sole_target_body",
+              "rows": 1
+            },
+            {
+              "record": "P15",
+              "pointer": "/intellectual_records",
+              "rows": 4
+            },
+            {
+              "record": "P15",
+              "pointer": "/private_verification",
+              "rows": 2
+            },
+            {
+              "record": "P15",
+              "pointer": "/private_excluded_duplicate_carrier",
+              "rows": 1
+            }
+          ],
+          "authorized_exact_terminal_objects": [
+            {
+              "record": "A07",
+              "pure_tuple_objects": [
+                {
+                  "selector": "/sole_current_body",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/complete_author_reasons",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/actual_saved_whole_meaning_readback",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/fresh_original_prospective",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/external_manifest",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/own_modest_fidelity",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/final22_pin_guard",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                }
+              ]
+            },
+            {
+              "record": "A09",
+              "pure_tuple_objects": [
+                {
+                  "selector": "/full_human_reasons",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/actual_whole_course",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/prospective",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/actual_saved_meaning_readback",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/private_own_fidelity",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/final_exact_positive_pin_guard",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/external_manifest",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                }
+              ]
+            },
+            {
+              "record": "P11",
+              "pure_tuple_objects": [
+                {
+                  "selector": "/sole_reviewed_body",
+                  "exact_routing_keys": [
+                    "filename",
+                    "C_path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/complete_QA",
+                  "exact_routing_keys": [
+                    "path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/complete_actual_receiving",
+                  "exact_routing_keys": [
+                    "path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/actual_whole_saved_QA_readback",
+                  "exact_routing_keys": [
+                    "path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/prebody_role_and_questions",
+                  "exact_routing_keys": [
+                    "path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/sole_selection",
+                  "exact_routing_keys": [
+                    "path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                }
+              ]
+            },
+            {
+              "record": "P14",
+              "pure_tuple_objects": [
+                {
+                  "selector": "/full_QA",
+                  "exact_routing_keys": [
+                    "path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/actual_whole_maintained_course",
+                  "exact_routing_keys": [
+                    "path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/actual_complete_saved_readback",
+                  "exact_routing_keys": [
+                    "path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/entering_questions",
+                  "exact_routing_keys": [
+                    "path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                },
+                {
+                  "selector": "/sole_selection",
+                  "exact_routing_keys": [
+                    "path",
+                    "bytes",
+                    "sha256"
+                  ],
+                  "keep": "Historical selection/receipt relation at original selector via explicitly registered logical origin/witness relation; no repeated pure tuple cargo."
+                }
+              ]
+            }
+          ],
+          "operations": "Derive exact old/new node classes/destinations and raw/typed inverses only for the evidence-listed routing keys. Retain all membership/selection/receipt semantic context through explicit origin relations and full annotation fields at original indices. No additional original selected meaning may be cut. Countactual fields/witnesses/navigation/NOOPs freshly, never guess newtotals or use38/249/67 as quotas.",
+          "before_write": "Save complete before/after raw/typed finite-boundary specification and intended currentplan/input/field/locator/inverse commitments before successor files. Original first28 source values and selected semantics, BODY21286, Root allnonqueue+20rows, private287mechanical boundary and genuine course grades remain unchanged.",
+          "later_stage_retention": "Retain genuine oldhuman66460/readback11707/questions3384, fullnewQA23095/receiving6388/readback7005/questions3542 and thisRootdecision by actualactors/stages. Assess exact80302 evidence by content: preserve all particular reasons, complete annotation/membership/protected-source meanings; flat mechanical routingcell vectors/fullrawinverses remain private, not a wholepublicqueue. New carriers can receive their own explicitly enumerated content-level purecell boundaries with all unique thought retained; no recursive mechanical receipts cargo.",
+          "closeout": "Full newhuman and truthful actual savedmeaning readback, own independent modest fidelity, exactmanifest andsoleterminal. Freeze for DIFFERENT finite successorQA andRootactualreceiving/adoption. Do not create sixafterimages or canonicalheader, no model/package/count credit.",
+          "rights_and_size": "Project-authored literary/provenance roles only. Class/need/rights precede actualsizes; no codec/sourcecopy/sharding/waiver/externalhandoff. Any lateractualpublicfile over1MiB needs exactregistration under ordinary controls."
+        },
+        "boundaries": "Own newC only; no N/Git/provider/shared7/currentcontrol/global/source/private9/opaqueMomoi/.raw/foreignhelper/oldheldR/externalchat/merge operations. No contained target dereference. Root sole targetwriter."
+      }
+    },
+    "KR01": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "original": {
+        "schema": "ROOT_KOKURIKO_KP_F01_FULL50652_SUCCESSOR_DIFFERENT11185_QA_ACTUAL_RECEIVING_AND_FINITE_CLASS_PLAN_ADOPTION_WITH_LIMITS_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T23:47:03.097Z",
+        "decision": "KP_F01_CLOSED_FOR_EXACT_FINITE_SUCCESSOR_PLAN;ADOPT_WITH_LIMITS;NO_HEADER_OR_PUBLIC6_COMPOSITION_COMMISSION_YET",
+        "status": "draft_noncurrent",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": true,
+        "existing_home": "P3-CHAR-M019/P3-M019/A159 same unnamedrequiredhome; no countincrement.",
+        "actual_receiving": {
+          "Root_six_prospectives": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0071",
+          "whole_human": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "KA01",
+              "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+            }
+          },
+          "whole_author_readback": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "KA02",
+              "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+            }
+          },
+          "author_freshquestions": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "HA06",
+              "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+            }
+          },
+          "author_terminal": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "KA04",
+              "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+            }
+          },
+          "complete_prewrite": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_PRIVATE_CUSTODY_RELATION_ONLY",
+              "custody_id": "KPC-C0001",
+              "scope": "Unselected physical custody/privateproof/sourcecopy/history only. No publicrawtarget, content, alias or permission to open the target is represented."
+            }
+          },
+          "whole_different_QA": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "KP01",
+              "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+            }
+          },
+          "whole_peer_receiving": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "KP02",
+              "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+            }
+          },
+          "whole_peer_savedreadback": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "KP03",
+              "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+            }
+          },
+          "whole_peer_freshquestions": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "KP04",
+              "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+            }
+          },
+          "whole_peer_selection": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "KP05",
+              "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+            }
+          },
+          "peer_terminal": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "KP07",
+              "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+            }
+          },
+          "actual_Root_meaning": "Whole50652human receivedin0–8000/8000–16000/16000–24000/24000–32000/32000–40000/40000–48000/48000–EOF; whole10356authorreadback0–6500/6500–EOF; full8295terminal and3397authorquestions. Full11185differentQA0–7500/7500–EOF,7248course,6307readback,2843questions,3600selection and5079terminal received. Alluniqueownmanifest andpeermanifest nonqueue class/role/reading/source/rights/limit/diagnostic/freeze meaning received. Completeprivateprewrite parsed/data checked; alluniqueactualforward/rawtyped/inverse/sourceprotection/role/sourcequalification/futuretail/diagnostic meaning received, not12MBhuman-sourcecourse.",
+          "additional_annotation_receiving": "Original133annotations/16group/25tuple contexts genuinelyRootownedfromprioradjudication. All228laterrowcompleteannotation data verified,146distinct completeannotationobjects now personallyreceived withfirstactualoriginalrecord/pointer in whole38606-character readingview0–8000/8000–16000/16000–24000/24000–32000/32000–EOF; allsame-value occurrence identities retained andchecked separately asmetadata. The earlierunfinished67672view isnotclaimedcomplete; privateproof creation-time limitedreceivingnote remainsdated andsupersededonlybythislateractualreceiving."
+        },
+        "six_Root_answers": [
+          {
+            "id": "K_ROOT_SUCCESSOR_1",
+            "question": "Is the original whole-carrier finding actually repaired at its exact scope?",
+            "answer": "Yes for thisexactfiniteplan. The new444originalcellkeys matchonlytheRootadopted16groups/25terminalobjects andall133annotation/memberpositions. Allold6029matrixvaluesoutside444cut areliteralunchanged, includingfirst28/S01actualsourcecourse. Overbroadwhole-treecargoauthority isreplacedbyoperativecontent-levelprojectiongrades; the oldwrongproposal/QA/Rootrejectionremainattributablehistory."
+          },
+          {
+            "id": "K_ROOT_SUCCESSOR_2",
+            "question": "Do later cells preserve membership and unique annotation meaning?",
+            "answer": "Yes. Exactly772laterpurephysicalcells across228actualtuplerows areindividuallydeclared; everyrowretainsitsnamedmember/arrayposition, originalkeyorderandallnonroutingrole/class/id/rights/sourcegrade/selection/receiving/diagnosticmeaning.269historicalrelations targetretainedlogicalorigins,92target33privatecustodyidentities. Necessarycentralidentitybindings remain. Neither typeofcarrier nor newwitnessIDmakes a repeatedphysicalcellthought, and privaterelations are notrawfilealiases orsourcepermission."
+          },
+          {
+            "id": "K_ROOT_SUCCESSOR_3",
+            "question": "Are the inverses and unchanged source/literary content sufficiently verified?",
+            "answer": "Yes asplan/staticcontracts. Rootownactual55rawpins/54typedJSONbeforeimages andall10447originalnodekind/span/hash/classes/destinations match; original444cellkeys/133annotationobjects independentlymatch priorRootadoptedevidence. Every1216celloldtyped/raw/key/propertyspan/newclass/destination andall361rawrow/order/annotations/physicalidentityjoins verified. First28/S01nonroutingclasses/118activepaths58groups/22navigationunchangedorpreciselyderived. BODY21286/25/11 stayswhole. Root20semantic/nonqueue/private287 staysliteral. Peerindependentlydemonstrates55RAMmember-awarewhole inverses. Actualdeliveredpublicbytes/fullinverse/DAG require latercompositionQA, notprecertifiedhere."
+          },
+          {
+            "id": "K_ROOT_SUCCESSOR_4",
+            "question": "Do source attribution and actualknowledge stages remain truthful?",
+            "answer": "Yes. CurrentfullRootqualification makes C00248representedKokurikoescapeseparatefromC00250Niyalaterallthreedisappearancereport; completeoldabbreviated50labelsremainliteralhistory. BODYfootnote9already48–60 so no proseedit. Shuroownfear/writing, Niyaappeal,Kokurikointervention,Azamiescort/stoppedresponse,Nagusahand andordinarygoodsretainowners. No newprivatebaseline,joyconversion,completeidentity/mechanism/afterstate orsourceadmission. Planner,peerandRootgenuine694coursesstayseparateunchangedreuse."
+          },
+          {
+            "id": "K_ROOT_SUCCESSOR_5",
+            "question": "Are own checking mistakes honestly distinguished from target defects?",
+            "answer": "Yes. Planneroneprovisionalidentity-shapefalse andRAMstaleprojectiondiagnostic remainitsownhistory. Peer234evaluations include6resolvedsemantic-rolecomparerfalse,notaninitialall-passhistory. Root40511evaluationsretain3ownfalsepredicates: bytesvsorigin_bytes, detailedrolevsbroadrole anddatedmemberidterminalvsneworiginA09. Eachwasownschemaassumption; sourcepath/bytes/SHA/annotationswerecorrect. Correctedall361joins pass269logical/92private. No original/plan/prewrite/bodychanged to satisfythesechecks. Privatevectorsnotpublicintellectualcargo; fullnormativediagnosticmeaning retainedhere."
+          },
+          {
+            "id": "K_ROOT_SUCCESSOR_6",
+            "question": "What precisely is accepted and what action follows?",
+            "answer": "Actuallyadopt exact55origin/10447node finiteKP-F01retentionplanWITH_LIMITS afterfullnewhuman/QA/readbacks/actualannotationmeaning andownverification. KP-F01isclosedforthisexactsucccessorplan,withoutrewritingoriginalfindingoracceptingpublicafterimages. Noheader/body/public6afterimage/canonicalmetadata/count effect isauthorizedbythisrecord. Rootnextderives separatelyreviewableexactbodyheader/metadata andfiniteactualcompositioncommission afterlivecontrols/referencecheck. Futurefullcurrenthuman/QA/Root/composerthoughtmustbeclassified/retained atitsactualstage withcompleteinverses;55isnotquota."
+          }
+        ],
+        "Root_private_fidelity": {
+          "predicates": 40511,
+          "retained_provisional_false": 3,
+          "unresolved": 0,
+          "scope": "Ownactualstaticplan/rawtyped/class/cell/memberverification; notborrowedplanner16963/peer234, notactualafterimages ornewsourcecognition.",
+          "historical_input_relation": {
+            "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+            "origin_id": "KR04",
+            "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+          }
+        },
+        "Root_diagnostics": [
+          {
+            "id": "ROOT_INSPECTION_DISPLAY",
+            "meaning": "Initialschema inspection accidentally spread the already-ownedB01 rawbody into a display; objectinspector clipped thatoldbodyvalue. No clippedtext credited as newmeaning; oldbody alreadygenuinelyRootaccepted. Reissued key-only inspection; noartifactchanged."
+          },
+          {
+            "id": "ROOT_OWN_JOIN_COMPARATOR_MISSING_ORIGIN_BYTES",
+            "failed_predicate": "member_identity_bytes_sha:HA02#/content_level_carrier_retention_step/additional10_records/0",
+            "meaning": "Rootfirstpassassumed eachidentitytuple used bytes; actualHA02typedrowusesorigin_bytes with explicitoriginidA07. Sourceandtarget6157/SHA match. Correctowncomparator to use explicit bytes ororigin_bytes and verify id/role separately. No target/prewrite/plan/source changed. Failedpredicate retained, not countedpass.",
+            "inspection_diagnostic": "Firstdiagnosticdisplay referencedcell-localrelation binding and ReferenceErrorbeforeoutput. Recomputedexactpositive row byregisteredkey; noartifacteffects."
+          },
+          {
+            "id": "ROOT_OWN_JOIN_ROLE_GRANULARITY",
+            "failed_predicate": "explicit_origin_role:A08#/positive_inputs/0",
+            "meaning": "Rootsecondpass incorrectly required semantic role ROOT_ACTUAL_READINESS_BODY_COMMISSION to equal broadpublicroleROOT. Actualunchangedannotationisbothvalidandmoreparticular. Restrict broadrolecomparison toactualsixrolelabels; completeannotations alreadycheckedliteral. Noartifactchanged; twofalsepredicatesretained as owncheckdiagnostics."
+          },
+          {
+            "id": "ROOT_OWN_DATED_MEMBER_ID_IS_ANNOTATION",
+            "failed_predicate": "final_explicit_origin_id:P16#/exact_used_inputs/0",
+            "meaning": "Ownthirdpass treated originalid terminal as the newlogicaloriginID A09. Actualtuplefullpath/bytes/SHA exactlyjoinsA09 and terminalisvalidretainedhistoricalannotation. Verify explicitoriginID only in actualorigin_bytes rows; otherwiseverifyactualphysicalidentity and retainallannotationsliteral. Noartifactchanged; threeprovisional ownfalsepredicatesretained."
+          }
+        ],
+        "finite_boundaries": "Onlyoriginal444+later772purecells,oldprivate287,133HP04routingkeyvectors andHR02raw38technicalqueue privatelyrecoverable underexactscope. Everyuniqueanalytical/source/provenanceannotation remainspublicmeaning. Nofilename-widecut,wholequeuepromotion,minification/sharding/compression/storagewaiver/sourcecopy/externalhandoff. Actualpublicfilesizes ordinaryeligibilitylater.",
+        "state": "Source166/main165/named19/12to178;fixed355/29/25/384/788/all14OPEN/models0/fixed150auditACTIVE. No increments. RootsoleN/Git/provider/shared7/currentcontrolwriter. Noexternalmessages ormergeapproval."
+      }
+    },
+    "KR02": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "original": {
+        "schema": "ROOT_KOKURIKO_EXACT_NEW_HEADER_AND_COMPLETE_ADOPTED_RETENTION_PLAN_PUBLIC6_CANDIDATE_COMPOSITION_COMMISSION_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T23:57:35.794Z",
+        "decision": "AUTHORIZE_EXACT_CANONICAL_ELIGIBLE_CANDIDATE_METADATA_AND_FINITE_PUBLIC6_COMPOSITION_C_ONLY;NO_N_INSTALL_COUNT_OR_MERGE",
+        "executor": "/root/kokuriko_m019_bounded_readiness",
+        "basis": {
+          "actual_finite_plan_adoption": {
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "KR01",
+              "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+            }
+          },
+          "source_private_body_acceptance": "Rootprioractual42001readiness/24977differentQA/whole694adoption andexact21286body70910notes35209differentbodyQAadoption10107 remaingenuineatfixedpins. Fullnew50652retentionhuman/10356readback/11185differentfiniteQA7248course6307readback andRoot40511evaluations3resolvedownschemafalsesreceived/verified. KP-F01closedforexact55/10447/444+772classplan. No body/sourceevidencechanged.",
+          "authority_decision": "Rootevidence-supportedcanonicaldecisionfortheacceptedliterarybodyandsource/provenancescope, notvalidationworkaround. ActualCcandidatewholepublic6QAandRootnewbyteadoptionstillbeforeNinstallation. Canonicalmetadatahereisascope-boundedproposedderivativeanddoesnotmakeunpublishedCfilescurrentGitauthority.",
+          "live_baseline": "FreshSourceHEAD/remotea5a2ee8864a423d290badb4fd3a6ecc014feb7d8 main7339a31a2eab57184064917319131ab1935f8c87 clean. ExactKokurikotargetls-treeabsent; no currentmonographreplacement/supersessionlineage. RootliveAGENTS/routing/checklist/BRANCH_LIFECYCLE/charactersREADME acquired;same-headmethod/architecture/source/acceptancecontextreused."
+        },
+        "start": "OnlyaftercurrentShurodifferentQAfullyfrozenandRootseparatefollowup. Readwholethiscommission/actualRoot15021planadoption/currentdifferent11185QA7248course6307readback then freshsixparticularpubliccompositionprospectives/reasons beforederivation. Originalauthor/planner/genuineown694disclosed;youarenotyourownpublicQAorRootadopter.",
+        "accepted_body": {
+          "paragraphs": 25,
+          "footnotes": 11,
+          "historical_input_relation": {
+            "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+            "origin_id": "B01",
+            "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+          }
+        },
+        "exact_header_addition": {
+          "template_UTF8": "---\nseries: BLUE_ARCHIVE\nartifact_type: character_monograph\ngeneration: V1\nscope: Existing P3-CHAR-M019/P3-M019; A159 same unnamed required duty; V005 maintained analysis\nsubjects: Kokuriko\nstatus: canonical\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\nsource_boundary: Original author, different readiness/body reviewer and Root each own separately attributed complete C00195/C00292/V005507 maintained694; no primary/native/AV/BOND/MM/private admission; exact recipient/book/identity/chronology/afterstate limits remain\nintended_repository_path: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOKURIKO_CHARACTER_MONOGRAPH.md\nlifecycle_state: CURRENT_ELIGIBLE_PUBLIC6_CANDIDATE_20261104_PRIVATE_BODY_AND_RETENTION_PLAN_ROOT_ACCEPTED_PENDING_DIFFERENT_PUBLIC6_QA_ROOT_NEW_BYTE_ADOPTION\nsource_authority_ref: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json\nsource_authority_bytes: {{ACTUAL_SAVED_SOURCE_BYTES}}\nsource_authority_sha256: {{ACTUAL_SAVED_SOURCE_SHA256}}\ncreated: 2026-11-04\n---\n\n",
+          "only_dynamic_tokens": [
+            "{{ACTUAL_SAVED_SOURCE_BYTES}}",
+            "{{ACTUAL_SAVED_SOURCE_SHA256}}"
+          ],
+          "source_binding_rule": "DerivecompleteSOURCEintendedbytesinRAMbeforeheader/bodyprewrite; replaceeachsingleplaceholderwithitsactualcompleteSOURCEbytes/sha256. Source-firstsaveandreadbackmustconfirmactualsavedsourcebeforeBODYwrite. Neverpredictedpinpromotedasactual. Concreteheader+oldB01every21286rawbyteformcandidateBODY. Do notchangeanyoldbodybytes,includingtitle/25paras/11footnotes. Savewholeoldbody/header/fulloperationinversesbeforeafterimage."
+        },
+        "role_paths": {
+          "SOURCE": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+          "BODY": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOKURIKO_CHARACTER_MONOGRAPH.md",
+          "AUTHOR": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+          "PEER": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+          "ROOT": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+          "REGISTRY": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json"
+        },
+        "role_order": [
+          "SOURCE",
+          "BODY",
+          "AUTHOR",
+          "PEER",
+          "ROOT",
+          "REGISTRY"
+        ],
+        "JSON_metadata": "FiveJSONnewwrapperssupplytop-levelcanonicalquartetcanonical/[]/[]/false; ifoperativeauthorityobjectisused,synchronizeidentically. Retainalldateddraft/privatebody/planningmetadataascorrectlyattributablehistory, no supersession ofprivateCinputs. Newcurrentcontrolrecordsactualprivatebody/retentionadoptionsandexplicitpublic6QA/Rootbytespending. Sourceboundary/genuineowncourses/separateactors/14OPEN/models0 unchanged. No generalJSONmachine-authorityclaim: AuthorityGraphrecognizesMDfirstYAMLonly.",
+        "retention": "Implementonlyactualadopted55origin10447node finiteclass/memberplan plusallreallaternormativetail. Fullauthor/readiness/body/peer/Rootthoughtattrueactors/stages,includingoriginalwrongwhole-treeproposal/KP-F01QA/Rootrejection/currentfiniteclosure. Preservealloriginal20Rootsemantic/nonqueue/private287, first28/S01actualcourseandgrade, exact444+772purecells/361same-slotmembersandannotations269logical92private33custody;118activepaths58groups22navigation/134extraprivateroots. FullownRootcurrent48Kokurikoescapevs50Niyareportqualification accompaniesold50labels. No blankettable/filenameban orwholecarrierqueueapproval.",
+        "later_tail": "Positivelycaptureandcontentclassifynewactualauthor50652/readback10356/questions3397/manifest50795/terminal8295, differentfiniteQA11185/course7248/readback6307/questions2843/selection3600/manifest62289/terminal5079, Rootcurrent15021adoption/newcommission/prospectives andownmeaningfulprivatefidelityalgorithm/scope/diagnostics, plusactualnewcomposerquestions/reasons/readbacks. Root4.5MBproof10447/40511rawrows/completeoriginalpinvectorsremainprivatequeues, butalluniqueownschema-error/limits/algorithmmeaningretainedexactly. Purecellsinnewtailneedexactbeforeimages/class/destination/memberrelationships too; futurethoughtnotinventedand55notquota. Readterminalsforpositivelydeclaredrealinputs; do notfollowcontainedsource/helper/private9/rawtargets.",
+        "mandatory_prewrite_and_own_fidelity": "Beforeanysixafterimage, savecompleteoriginalraw/typed token/key/containerorder/fulloldnode/cellprivateinverses, exactproposedpublicdestinations/contentclasses/memberrelations andfullconcreteheader. Buildactualcandidatefromretainednormativevalues+onlydeclaredprivatecuts/witnesses, no lostannotationfrombackup. Ownindependentdeliveredactualwhole55JSON/MDandnewtailrawinversesmustrecovereveryoldpinincludingallorders. Registernewpublicselectedroots/IDs/currentgeometry/membership/navigationandmeasureactual15earlier-role/nonselfwholebindings. SOURCEfirstthenBODYstrongSOURCEbinding;AUTHORboth,PEERthree,ROOTfour,REGISTRYfive. No selfhash/cycle/originalrawfilealias; no foreigncodeexecution.",
+        "class_need_rights_size": "Concreteeligibleanalysis/provenancepurpose/sourcegrade/rightsbeforesize. Measureallactualcompletefilesaftertail. No unique-thoughttrimming/shard/compression/minification/thresholdwaiver/sourcecopy/helper/codec/mechanicalqueuecargo/externalhandoff. Ifactualordinaryexactstoragebindingneededreportexactmeasuredscopeandcontinueunaffectedwork;Roothandlesauthorization/routing.",
+        "output_and_stop": "NewownC-onlypublic6candidateandcompleteprewrite/humanreasons/actualsavedmeaningreadback/modestownfidelity/externalmanifest/soleterminal. Originalallpackets/BODYunchanged. FreezeforDIFFERENTcompletepublic6reviewandRootactualwholemeaning/byteadoption. No N/Git/provider/shared7/currentcontrol/global/sourceadmission/private9/opaqueMomoi/.raw/foreignhelper/oldheldR/corpus/catalogue/externalchat/count/model/merge. RootsoleN/control/providerwriter.",
+        "counts": "Source166/main165/named19/12to178;355/29/25/384/788/all14OPEN/models0/fixed150auditACTIVE. SameM019/A159singleduty; no countsincrementbeforeRootactualpublishedcompletion."
+      }
+    },
+    "KR03": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "original": {
+        "schema": "ROOT_KOKURIKO_KP_F01_FINITE_SUCCESSOR_SIX_PROSPECTIVES_BEFORE_NEW50652_MEANING_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T23:35:10.749Z",
+        "role": "Root originalclassadjudicator andactualbodyadopter; not planner or differentfiniteQA.",
+        "prior_exposure": "Root genuinely received oldhuman66460/readback11707,fulldifferent23095QA/receiving6388/readback7005 andall16group/25tuple/133row annotations. Own18579old38fidelity andRoot22329classdecision actualowned. New55/10447/444+772/361/118paths58groups totals are authorsupplied until ownverification; no new50652human/readback10356 received yet.",
+        "questions": [
+          "Does this actual finite successor obey exact444historicalpure-routing cuts without wholecarrier reasoning, preserving all memberannotation/role/class/sourcegrade/rights/selection and actualreceiving meaning?",
+          "Are772later cuts separatelycontentclassified, necessary centralbindings preserved and all361historical row joins recoverable without indiscriminate filename/path stripping or aliasing?",
+          "Does complete50652human argument honestly preserve old20semantic/private287decision, distinct author/peer/Root stages, preliminary comparatorfalse and exact48escape/50report qualification?",
+          "Can my own recovery verify all55raw originals/10447declaredfields/118activepaths58groups and completeprivateinverse using exact positiveinputs, no foreignhelpers/rawtargets or undeclared original primitives?",
+          "Does currentbody21286 remain whollyliteral through this PLAN ONLY stage, with adequate sixrole15DAG rights/sourceboundary and no header/afterimage/source/count effects?",
+          "After fullhuman/readback/differentQA and ownfidelity, is KP-F01 actually closed for the exactsuccessor, and what separate finitepubliccomposition commission, if any, is earned?"
+        ],
+        "bounds": "C-only Rootnotes and exactterminal-declaredanalytical/staticpositives only. No containedtargets/.raw/foreignhelpers/private9/opaqueMomoi/oldheldR/broadP/corpus/catalogue access; no N/Git/provider/shared7/currentcontrol/global/sourceadmission/count/model/merge/externalchat action."
+      }
+    },
+    "KR04": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "original": {
+        "schema": "ROOT_OWN_KOKURIKO_KP_F01_SUCCESSOR_EXACT55_10447_1216_CELLS361_JOINS_CONTENT_CLASS_FIDELITY_PENDING_FULL_DIFFERENT_QA_RECEIVING_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T23:43:56.639Z",
+        "class": "PRIVATE_MECHANICAL_FIDELITY_NOT_PUBLIC_INTELLECTUAL_CARGO",
+        "target_terminal": {
+          "historical_input_relation": {
+            "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+            "origin_id": "KA04",
+            "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+          }
+        },
+        "whole_human_received": {
+          "method": "Entire50652actualhuman personallyreceived in0–8000/8000–16000/16000–24000/24000–32000/32000–40000/40000–48000/48000–EOF; entire10356savedreadback in0–6500/6500–EOF. Wholeterminal8295received. No clippedtailcredited.",
+          "historical_input_relation": {
+            "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+            "origin_id": "KA01",
+            "scope": "Historical identity targets this origin’s retained normative meaning projection only; no rawfile alias, futurepublicbyte equality or containedtarget permission."
+          }
+        },
+        "counts": {
+          "origins": 55,
+          "classified_nodes": 10447,
+          "original_allowed_private_routing_cells": 444,
+          "later_exact_private_routing_cells": 772,
+          "historical_member_relations": 361,
+          "retained_logical_member_relations": 269,
+          "private_custody_member_relations": 92,
+          "private_custody_identities": 33,
+          "active_nonrouting_private_path_fields": 118,
+          "active_nonrouting_witness_groups": 58,
+          "public_navigation_NOOP": 22,
+          "extra_private_vector_subtree_roots": 134
+        },
+        "algorithm": "Own read/hash only55exactpositive .json/.md originalpins. Comparecomplete55rawbeforeimages and54JSONtyped/propertyorder. RootownBufferparser verifiesall10447originalnodekind/span/hash; allnodesclassifiedonce. Old6029matrixexactlyequals priorRoot-ownedfrozenactualspec; alloldnon444fields unchanged, includingS01 andfirst28. Exactoriginal444keyset and133annotationobjects matchRoot-adopted evidence. All1216routingcell typed/raw/key/propertyspan/newclass/destination exact. All361originalrowraw/keyorder/completeannotations and269logical+92private/33identityjoins verified.118activepathfields/58groups and22publicnavigation measured. Thisisfiniteplan/staticcontractverification, notactualpublicoutputinverse ornewcognitive/sourcecourse.",
+        "predicates": 40511,
+        "provisional_false": 3,
+        "unresolved_false": 0,
+        "diagnostics": [
+          {
+            "id": "ROOT_INSPECTION_DISPLAY",
+            "meaning": "Initialschema inspection accidentally spread the already-ownedB01 rawbody into a display; objectinspector clipped thatoldbodyvalue. No clippedtext credited as newmeaning; oldbody alreadygenuinelyRootaccepted. Reissued key-only inspection; noartifactchanged."
+          },
+          {
+            "id": "ROOT_OWN_JOIN_COMPARATOR_MISSING_ORIGIN_BYTES",
+            "failed_predicate": "member_identity_bytes_sha:HA02#/content_level_carrier_retention_step/additional10_records/0",
+            "meaning": "Rootfirstpassassumed eachidentitytuple used bytes; actualHA02typedrowusesorigin_bytes with explicitoriginidA07. Sourceandtarget6157/SHA match. Correctowncomparator to use explicit bytes ororigin_bytes and verify id/role separately. No target/prewrite/plan/source changed. Failedpredicate retained, not countedpass.",
+            "inspection_diagnostic": "Firstdiagnosticdisplay referencedcell-localrelation binding and ReferenceErrorbeforeoutput. Recomputedexactpositive row byregisteredkey; noartifacteffects."
+          },
+          {
+            "id": "ROOT_OWN_JOIN_ROLE_GRANULARITY",
+            "failed_predicate": "explicit_origin_role:A08#/positive_inputs/0",
+            "meaning": "Rootsecondpass incorrectly required semantic role ROOT_ACTUAL_READINESS_BODY_COMMISSION to equal broadpublicroleROOT. Actualunchangedannotationisbothvalidandmoreparticular. Restrict broadrolecomparison toactualsixrolelabels; completeannotations alreadycheckedliteral. Noartifactchanged; twofalsepredicatesretained as owncheckdiagnostics."
+          },
+          {
+            "id": "ROOT_OWN_DATED_MEMBER_ID_IS_ANNOTATION",
+            "failed_predicate": "final_explicit_origin_id:P16#/exact_used_inputs/0",
+            "meaning": "Ownthirdpass treated originalid terminal as the newlogicaloriginID A09. Actualtuplefullpath/bytes/SHA exactlyjoinsA09 and terminalisvalidretainedhistoricalannotation. Verify explicitoriginID only in actualorigin_bytes rows; otherwiseverifyactualphysicalidentity and retainallannotationsliteral. Noartifactchanged; threeprovisional ownfalsepredicatesretained."
+          }
+        ],
+        "complete_raw_originals": {
+          "private_mechanical_custody": "KOKU-DATA:KR04:/complete_raw_originals",
+          "scope": "Exact declared mechanical data only; private inverse custody, no rawfile alias or underlying target permission."
+        },
+        "final_joins": {
+          "logical": 269,
+          "private": 92
+        },
+        "checks": {
+          "private_mechanical_custody": "KOKU-DATA:KR04:/checks",
+          "scope": "Exact declared mechanical data only; private inverse custody, no rawfile alias or underlying target permission."
+        },
+        "limits": "No afterimages/header/target/N/Git/provider/source/private9/.raw/foreignhelper/oldheldR/count/model/merge effect. RootactualfullnewQA/completeplanclassjudgment/adoption pending. Newannotation146view only0–8000 received; rest of that optional view is not claimed complete; all361literalannotationdata verified mechanically, old133intellectual context actuallyowned."
+      }
+    },
+    "K3R01": {
+      "functional_role": "ROOT",
+      "original_snapshot_identity": {
+        "bytes": 17012,
+        "sha256": "8287867e5b1e2a3550f350791d3734ba89649964abcbdaae83c258c68ada1a89"
+      },
+      "projection_grade": "COMPLETE_UNIQUE_NORMATIVE_MEANING_WITH_EXACT_DECLARED_PHYSICAL_CELLS_OR_EXECUTION_DATA_PRIVATE",
+      "normative_projection": {
+        "schema": "ROOT_KOKURIKO_V2_OPERATIVE_AUTHORITY_DIRECT_FINDING_AND_V3_FINITE_REPAIR_ONLY_COMMISSION_V1",
+        "actor": "/root",
+        "UTC": "2026-11-05T01:33:33.886Z",
+        "decision": "SUPPORTED_DIRECT_COMMISSION_CONFORMANCE_FINDING;FINITE_C_ONLY_V3_REPAIR_AUTHORIZED;NO_PUBLIC_BYTE_ADOPTION",
+        "role": "Root original body/plan adopter and composition commissioner; not the public6 different reviewer.",
+        "evidence": {
+          "commission": {
+            "selector": "/JSON_metadata",
+            "complete_clause": "FiveJSONnewwrapperssupplytop-levelcanonicalquartetcanonical/[]/[]/false; ifoperativeauthorityobjectisused,synchronizeidentically. Retainalldateddraft/privatebody/planningmetadataascorrectlyattributablehistory, no supersession ofprivateCinputs. Newcurrentcontrolrecordsactualprivatebody/retentionadoptionsandexplicitpublic6QA/Rootbytespending. Sourceboundary/genuineowncourses/separateactors/14OPEN/models0 unchanged. No generalJSONmachine-authorityclaim: AuthorityGraphrecognizesMDfirstYAMLonly.",
+            "historical_input_relation": {
+              "kind": "HISTORICAL_RETAINED_LOGICAL_ORIGIN_RELATION",
+              "origin_id": "KR02",
+              "scope": "Exact original historical member identity; retained normative meaning or private custody only, not a rawfilealias or target-following grant."
+            }
+          },
+          "actual_V2_terminal": {
+            "historical_input_relation": {
+              "kind": "PRIVATE_CUSTODY_IDENTITY_RELATION",
+              "custody_id": "K3-CUSTODY-001",
+              "scope": "Exact original historical member identity; retained normative meaning or private custody only, not a rawfilealias or target-following grant."
+            }
+          },
+          "actual_five_controls": [
+            {
+              "role": "SOURCE",
+              "pin": {
+                "role": "SOURCE",
+                "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+                "earlier_actual_bindings": 0,
+                "complete_saved_readback_equal": true,
+                "UTC": "2026-11-05T00:38:13.915Z",
+                "historical_input_relation": {
+                  "kind": "HISTORICAL_V2_CANDIDATE_SNAPSHOT_RELATION",
+                  "snapshot_id": "K2-SOURCE",
+                  "scope": "Exact original historical member identity; retained normative meaning or private custody only, not a rawfilealias or target-following grant."
+                }
+              },
+              "selector": "/authority_control",
+              "complete_original_control": {
+                "canonical_metadata_scope": "Root authorized this exact eligible candidate derivative. Unpublished Cfiles are not current Git authority until actualinstallation.",
+                "private_literary_body": "ROOT_ACTUALLY_ACCEPTED_WITH_LIMITS",
+                "finite_retention_plan": "ROOT_ACTUALLY_ADOPTED_WITH_LIMITS_KP_F01_CLOSED_AT_EXACT_PLAN_SCOPE",
+                "complete_different_public6_QA": "PENDING",
+                "Root_whole_candidate_new_byte_adoption": "PENDING",
+                "installation_and_publication": "PENDING_ROOT_SOLE_WRITER",
+                "machine_authority_limit": "JSON metadata is scoped provenance/control; no general machine-authority claim. AuthorityGraph recognizes Markdown first YAML."
+              },
+              "outer_quartet": {
+                "status": "canonical",
+                "supersedes": [],
+                "superseded_by": [],
+                "do_not_use_as_current_authority": false
+              }
+            },
+            {
+              "role": "AUTHOR",
+              "pin": {
+                "role": "AUTHOR",
+                "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+                "earlier_actual_bindings": 2,
+                "complete_saved_readback_equal": true,
+                "UTC": "2026-11-05T00:38:13.925Z",
+                "historical_input_relation": {
+                  "kind": "HISTORICAL_V2_CANDIDATE_SNAPSHOT_RELATION",
+                  "snapshot_id": "K2-AUTHOR",
+                  "scope": "Exact original historical member identity; retained normative meaning or private custody only, not a rawfilealias or target-following grant."
+                }
+              },
+              "selector": "/authority_control",
+              "complete_original_control": {
+                "canonical_metadata_scope": "Root authorized this exact eligible candidate derivative. Unpublished Cfiles are not current Git authority until actualinstallation.",
+                "private_literary_body": "ROOT_ACTUALLY_ACCEPTED_WITH_LIMITS",
+                "finite_retention_plan": "ROOT_ACTUALLY_ADOPTED_WITH_LIMITS_KP_F01_CLOSED_AT_EXACT_PLAN_SCOPE",
+                "complete_different_public6_QA": "PENDING",
+                "Root_whole_candidate_new_byte_adoption": "PENDING",
+                "installation_and_publication": "PENDING_ROOT_SOLE_WRITER",
+                "machine_authority_limit": "JSON metadata is scoped provenance/control; no general machine-authority claim. AuthorityGraph recognizes Markdown first YAML."
+              },
+              "outer_quartet": {
+                "status": "canonical",
+                "supersedes": [],
+                "superseded_by": [],
+                "do_not_use_as_current_authority": false
+              }
+            },
+            {
+              "role": "PEER",
+              "pin": {
+                "role": "PEER",
+                "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+                "earlier_actual_bindings": 3,
+                "complete_saved_readback_equal": true,
+                "UTC": "2026-11-05T00:38:13.933Z",
+                "historical_input_relation": {
+                  "kind": "HISTORICAL_V2_CANDIDATE_SNAPSHOT_RELATION",
+                  "snapshot_id": "K2-PEER",
+                  "scope": "Exact original historical member identity; retained normative meaning or private custody only, not a rawfilealias or target-following grant."
+                }
+              },
+              "selector": "/authority_control",
+              "complete_original_control": {
+                "canonical_metadata_scope": "Root authorized this exact eligible candidate derivative. Unpublished Cfiles are not current Git authority until actualinstallation.",
+                "private_literary_body": "ROOT_ACTUALLY_ACCEPTED_WITH_LIMITS",
+                "finite_retention_plan": "ROOT_ACTUALLY_ADOPTED_WITH_LIMITS_KP_F01_CLOSED_AT_EXACT_PLAN_SCOPE",
+                "complete_different_public6_QA": "PENDING",
+                "Root_whole_candidate_new_byte_adoption": "PENDING",
+                "installation_and_publication": "PENDING_ROOT_SOLE_WRITER",
+                "machine_authority_limit": "JSON metadata is scoped provenance/control; no general machine-authority claim. AuthorityGraph recognizes Markdown first YAML."
+              },
+              "outer_quartet": {
+                "status": "canonical",
+                "supersedes": [],
+                "superseded_by": [],
+                "do_not_use_as_current_authority": false
+              }
+            },
+            {
+              "role": "ROOT",
+              "pin": {
+                "role": "ROOT",
+                "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+                "earlier_actual_bindings": 4,
+                "complete_saved_readback_equal": true,
+                "UTC": "2026-11-05T00:38:13.942Z",
+                "historical_input_relation": {
+                  "kind": "HISTORICAL_V2_CANDIDATE_SNAPSHOT_RELATION",
+                  "snapshot_id": "K2-ROOT",
+                  "scope": "Exact original historical member identity; retained normative meaning or private custody only, not a rawfilealias or target-following grant."
+                }
+              },
+              "selector": "/authority_control",
+              "complete_original_control": {
+                "canonical_metadata_scope": "Root authorized this exact eligible candidate derivative. Unpublished Cfiles are not current Git authority until actualinstallation.",
+                "private_literary_body": "ROOT_ACTUALLY_ACCEPTED_WITH_LIMITS",
+                "finite_retention_plan": "ROOT_ACTUALLY_ADOPTED_WITH_LIMITS_KP_F01_CLOSED_AT_EXACT_PLAN_SCOPE",
+                "complete_different_public6_QA": "PENDING",
+                "Root_whole_candidate_new_byte_adoption": "PENDING",
+                "installation_and_publication": "PENDING_ROOT_SOLE_WRITER",
+                "machine_authority_limit": "JSON metadata is scoped provenance/control; no general machine-authority claim. AuthorityGraph recognizes Markdown first YAML."
+              },
+              "outer_quartet": {
+                "status": "canonical",
+                "supersedes": [],
+                "superseded_by": [],
+                "do_not_use_as_current_authority": false
+              }
+            },
+            {
+              "role": "REGISTRY",
+              "pin": {
+                "role": "REGISTRY",
+                "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json",
+                "earlier_actual_bindings": 5,
+                "complete_saved_readback_equal": true,
+                "UTC": "2026-11-05T00:38:13.951Z",
+                "historical_input_relation": {
+                  "kind": "HISTORICAL_V2_CANDIDATE_SNAPSHOT_RELATION",
+                  "snapshot_id": "K2-REGISTRY",
+                  "scope": "Exact original historical member identity; retained normative meaning or private custody only, not a rawfilealias or target-following grant."
+                }
+              },
+              "selector": "/authority_control",
+              "complete_original_control": {
+                "canonical_metadata_scope": "Root authorized this exact eligible candidate derivative. Unpublished Cfiles are not current Git authority until actualinstallation.",
+                "private_literary_body": "ROOT_ACTUALLY_ACCEPTED_WITH_LIMITS",
+                "finite_retention_plan": "ROOT_ACTUALLY_ADOPTED_WITH_LIMITS_KP_F01_CLOSED_AT_EXACT_PLAN_SCOPE",
+                "complete_different_public6_QA": "PENDING",
+                "Root_whole_candidate_new_byte_adoption": "PENDING",
+                "installation_and_publication": "PENDING_ROOT_SOLE_WRITER",
+                "machine_authority_limit": "JSON metadata is scoped provenance/control; no general machine-authority claim. AuthorityGraph recognizes Markdown first YAML."
+              },
+              "outer_quartet": {
+                "status": "canonical",
+                "supersedes": [],
+                "superseded_by": [],
+                "do_not_use_as_current_authority": false
+              }
+            }
+          ],
+          "Root_actual_receiving_limit": "Root has re-received the exact9421 clause and independently reopened/pinchecked the five V2 JSON objects and their complete active controls. Terminal was parsed/pinchecked; complete18003 terminal and new37245 differentQA/course/readback have not yet been received in full. This narrow authorization rests on direct control evidence, not a claim of full candidate acceptance or borrowed QA."
+        },
+        "finding": {
+          "id": "KOKURIKO-PUBLIC6-QA-F01",
+          "scope": "All five current /authority_control objects.",
+          "judgment": "These objects actively describe canonical scope and current accepted/pending gates. They are the operative authority objects covered by the explicit commission, rather than dated snapshots. Top-level quartets are correct, but each nested operative object lacks all four synchronized fields. The instruction is bounded Root representation policy for this candidate, not an assertion that JSON is recognized by the Markdown-only authority graph.",
+          "required_exact_fields": {
+            "status": "canonical",
+            "supersedes": [],
+            "superseded_by": [],
+            "do_not_use_as_current_authority": false
+          },
+          "preserve": "Every existing control value and historical original remains. Actual private-body/finite-plan acceptance remains accepted; current V2 publicQA becomes a truthful completed-with-finding stage; new V3 finite QA and Root actual byte adoption remain pending. No original history is silently rewritten."
+        },
+        "finite_repair": {
+          "executor": "/root/kokuriko_m019_bounded_readiness",
+          "new_directory_only": "A new own C-only V3 derivative directory; all V1/V2 afterimages, original80 inputs, old prewrites and QA frozen unchanged.",
+          "required": [
+            "Before new meanings, save fresh repair-specific questions; personally receive full actual V2 differentQA37245, unique course meaning,7553 readback and8782 terminal with exact pins. Do not claim Root has adopted their whole contents. Classify all genuine new QA/Root/author thought for finite additive retention; mechanical queues remain private.",
+            "Save complete raw/typed beforeimages, exact20 new quartet field insertions, old operative control snapshots, actual new stage-control differences, source/body binding operations and full inverses BEFORE any V3 afterimage. Preserve actual V2 target identity and missing-field finding as dated history.",
+            "Insert the exact canonical quartet into each of the five /authority_control objects, synchronized with that component’s correct top quartet. Keep existing bounded acceptance/source/machine-limit fields. Make any completed-V2 versus pending-V3 gate distinction explicit and attributable; do not invent new completed review/adoption.",
+            "SOURCE-first: save/reopen exact new SOURCE before BODY. BODY uses the unchanged Root9421 exact header template with only its two Source bytes/SHA placeholders rebound. All21286 literary suffix bytes,25 paragraphs/11 notes and other header values stay exact. No new narrative or source claim.",
+            "Recompute all affected15 earlier-role nonself bindings, current component tuples, normalized root/registry commitments and necessary additive locators. All17 HA/HP/HR /normative_projection destinations and all existing11369 registered destinations remain exact. CA04 full meaning/186 private cells/57 joins and all annotations remain.",
+            "Preserve V1 real2878 locator failures, V2 five supported authority failures and all diagnosed comparer/context counter failures truthfully; do not describe the combined history as zero failures. New actual verification must be independent of old reported totals.",
+            "Measure complete files under ordinary eligibility, no thought trimming/sharding/minification/waiver/handoff. Perform whole actual saved meaning receiving and full raw/typed/strict-destination/annotation/binding inverse checks. Freeze exact V3 pins for genuinely different finite repair QA and Root full whole-candidate receiving/new-byte adoption."
+          ]
+        },
+        "current_source_boundary": {
+          "reference": {
+            "historical_input_relation": {
+              "kind": "PRIVATE_CUSTODY_IDENTITY_RELATION",
+              "custody_id": "K3-CUSTODY-002",
+              "scope": "Exact original historical member identity; retained normative meaning or private custody only, not a rawfilealias or target-following grant."
+            }
+          },
+          "meaning": "Current N C00119011/c853... and V00539115/055a... differ from dated fixed copies only at C00162/V005407, correcting the already-qualified Renge apology direction. C002 unchanged. Root actually received current16 contextual addresses; this is not author attendance. All four new operative BODY arguments already preserve the corrected direction. Keep old source reading pins as dated snapshots, not current N byte aliases; no old source file or literary body rewrite is authorized by this metadata repair."
+        },
+        "current_state": "N clean main7ed6a81d9799b83a762b18921649cabda9be74bd/treee9b2486cdb35ee9730f33f3c7284137c5c1be9f3; main/Source166,named19,12to178. Old main165 records remain dated. All355/29/25/384/788,14OPEN/models0/fixed150 audit ACTIVE unchanged.",
+        "rights_stop": "Only this concrete C-only repair is authorized. No Source/Git/provider/N/shared7/current-control/global/tooling/source-admission/count/model/merge/external-chat changes. Root must still receive full V2/V3 QA and actual delivered bytes; no broader acceptance is implied."
+      }
+    }
+  },
+  "retained_proof_meaning": {
+    "R02": {
+      "nonqueue_original": {
+        "schema": "ROOT_KOKURIKO_OWN_EXACT_INPUT_126_REFERENCE_AND_CONSEQUENTIAL_WARRANT_FIDELITY_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T21:35:44.066Z",
+        "checks": 154,
+        "false": 0,
+        "source_course": "GenuinepriorRootwhole694scope reusedatimmutable3pins, actualthisturnC148–54/C232–50/58/60/69/79/84–86 received,Scope00248–57metadataactuallyreceived,method327–387andarchitecture313–348actualcontrolsreceived; no newprimary/native/private/AV admission. Not694new events oradds toold734.",
+        "meaning_received": "Authorwhole42001 raw0–21000/20500–end, fullQA24977, bothactualcourses11416/10344 andactualsavedreadbacks5713/5015, author7685/QA5102terminals. QAprivateV1linearraysdiagnostic understood withoutreadingprivate223684payload.",
+        "limits": "Documentaryfidelity supplementsactualmeaning/sourcejudgment; noauthor179/peer195borrowed, nooperationalmodel,countorpublication."
+      },
+      "semantic_rows_by_original_index": {
+        "132": {
+          "ok": true,
+          "why": "consequentialsourceanchor C001:54 Failedwork acceptance is not completedworlddestruction"
+        },
+        "133": {
+          "ok": true,
+          "why": "consequentialsourceanchor C001:54 Futurehostileproposal remains adverseintent"
+        },
+        "134": {
+          "ok": true,
+          "why": "consequentialsourceanchor C002:36 Fear belongs to Shuro, noKokurikothreat asserted"
+        },
+        "135": {
+          "ok": true,
+          "why": "consequentialsourceanchor C002:48 Local allowance is not generalfreedom or sincerebenevolence"
+        },
+        "136": {
+          "ok": true,
+          "why": "consequentialsourceanchor C002:48 Actual restraint on allythreat; notparenthood"
+        },
+        "137": {
+          "ok": true,
+          "why": "consequentialsourceanchor C002:48 Coerced exposure retainsethicalcost andlimitedmechanics"
+        },
+        "138": {
+          "ok": true,
+          "why": "consequentialsourceanchor C002:48 Adversehistoryaffirmation notfullincidentreplay"
+        },
+        "139": {
+          "ok": true,
+          "why": "consequentialsourceanchor C002:44 Shuroownsindependentnewstory, nothiddenKokurikowork"
+        },
+        "140": {
+          "ok": true,
+          "why": "consequentialsourceanchor C002:50 Uncapturedafterstate doesnotlicenseaccountability/reform"
+        },
+        "141": {
+          "ok": true,
+          "why": "consequentialsourceanchor C001:48 Do notinheritbroaderlaterRengeshorthand"
+        }
+      },
+      "private_mechanical_results_context": {
+        "custody_handle": "KOKU-DATA:R02:/results",
+        "private_row_count": 144,
+        "scope": "Only exact mechanical rows stay private; every declared semantic row is retained at originalindex and must be recovered from actualpublic ROOT."
+      }
+    },
+    "R06": {
+      "nonqueue_original": {
+        "schema": "ROOT_KOKURIKO_OWN_BODY25_FOOTNOTE11_91_MODE_REFERENCE_FULL_INPUT_AND_CONSEQUENTIAL_FIDELITY_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T22:08:25.541Z",
+        "checks": 153,
+        "false": 0,
+        "meaning": "Rootwholebody21286,all70910notesin0–24000/23500–48000/47500–end,authorreadback7699,wholeQA35209in0–18000/17500–end,wholeQAreceiving10899/readback6353andterminal5498 actuallyreceived; no clipping credited. Rootgenuinepriorwhole694atpins plusownconsequentialC1/C2/sourcegradecontrols andScope002actualmetadata. No author119/peer445ornewsourceborrowed.",
+        "limits": "Own documentaryfidelitysupplementsactualfullsubstantivejudgment; no bodyadoption/public6/count/modelbycounter."
+      },
+      "semantic_rows_by_original_index": {
+        "143": {
+          "ok": true,
+          "why": "bodyconsequentialsourcewarrant C001:54 Failedwork acceptance is not completedworlddestruction"
+        },
+        "144": {
+          "ok": true,
+          "why": "bodyconsequentialsourcewarrant C001:54 Futurehostileproposal remains adverseintent"
+        },
+        "145": {
+          "ok": true,
+          "why": "bodyconsequentialsourcewarrant C002:36 Fear belongs to Shuro, noKokurikothreat asserted"
+        },
+        "146": {
+          "ok": true,
+          "why": "bodyconsequentialsourcewarrant C002:48 Local allowance is not generalfreedom or sincerebenevolence"
+        },
+        "147": {
+          "ok": true,
+          "why": "bodyconsequentialsourcewarrant C002:48 Actual restraint on allythreat; notparenthood"
+        },
+        "148": {
+          "ok": true,
+          "why": "bodyconsequentialsourcewarrant C002:48 Coerced exposure retainsethicalcost andlimitedmechanics"
+        },
+        "149": {
+          "ok": true,
+          "why": "bodyconsequentialsourcewarrant C002:48 Adversehistoryaffirmation notfullincidentreplay"
+        },
+        "150": {
+          "ok": true,
+          "why": "bodyconsequentialsourcewarrant C002:44 Shuroownsindependentnewstory, nothiddenKokurikowork"
+        },
+        "151": {
+          "ok": true,
+          "why": "bodyconsequentialsourcewarrant C002:50 Uncapturedafterstate doesnotlicenseaccountability/reform"
+        },
+        "152": {
+          "ok": true,
+          "why": "bodyconsequentialsourcewarrant C001:48 Do notinheritbroaderlaterRengeshorthand"
+        }
+      },
+      "private_mechanical_results_context": {
+        "custody_handle": "KOKU-DATA:R06:/results",
+        "private_row_count": 143,
+        "scope": "Only exact mechanical rows stay private; every declared semantic row is retained at originalindex and must be recovered from actualpublic ROOT."
+      }
+    }
+  },
+  "current_source_route_qualification": {
+    "question": "What source-route clarification must remain explicit?",
+    "answer": "All original Root proof rows remain complete dated values. Two abbreviated Root labels associate C002:50 with uncapturedafterstate; the current precise route is C00248 for Kokuriko’s represented uncaptured escape andC00250 for Niya’s later all-three disappearance report. Do not interpret50alone as direct proof of the escape. Accepted BODY footnote9 already includes48–60; its argument stays exact. Preserve this attributable current qualification alongside the old complete labels rather than silently editing them."
+  },
+  "composer_revision_control": {
+    "private_candidate_revision": "V3",
+    "reason": "Exact20 canonical quartet leaves in five operative controls, truthful staged gates and necessary additive unique Root/peer/author retention, Source-bound header and15 earlier bindings.",
+    "V1_disposition": "PRIVATE_UNSELECTED_HISTORY_REAL2878_REGISTERED_DESTINATION_FAILURES",
+    "V2_disposition": "FROZEN_HISTORY_COMPLETE_DIFFERENT_QA_WITH_FIVE_REAL_AUTHORITY_CONFORMANCE_FAILURES",
+    "Root_actual_candidate_byte_adoption": "PENDING",
+    "different_finite_V3_public6_QA": "PENDING",
+    "source_body": "No source/librarybody edit; BODYonlytwoSOURCEheader tokens changed, entire21286literarysuffix unchanged."
+  },
+  "dated_V2_before_metadata_snapshot": {
+    "scope": "Exact prior active V2 metadata preserved as dated history before finite V3 repair, not current gates.",
+    "lifecycle_state": "CURRENT_ELIGIBLE_C_ONLY_PUBLIC6_CANDIDATE_PRIVATE_BODY_AND_FINITE_RETENTION_PLAN_ROOT_ACCEPTED_PENDING_DIFFERENT_PUBLIC6_QA_ROOT_NEW_BYTE_ADOPTION_AND_INSTALLATION",
+    "authority_control": {
+      "canonical_metadata_scope": "Root authorized this exact eligible candidate derivative. Unpublished Cfiles are not current Git authority until actualinstallation.",
+      "private_literary_body": "ROOT_ACTUALLY_ACCEPTED_WITH_LIMITS",
+      "finite_retention_plan": "ROOT_ACTUALLY_ADOPTED_WITH_LIMITS_KP_F01_CLOSED_AT_EXACT_PLAN_SCOPE",
+      "complete_different_public6_QA": "PENDING",
+      "Root_whole_candidate_new_byte_adoption": "PENDING",
+      "installation_and_publication": "PENDING_ROOT_SOLE_WRITER",
+      "machine_authority_limit": "JSON metadata is scoped provenance/control; no general machine-authority claim. AuthorityGraph recognizes Markdown first YAML."
+    },
+    "current_scope_control": {
+      "Root_attributed_baseline": "Source166/mainlast165/named19/12to178",
+      "fixed_required_scope": "355/29/25/384/788",
+      "stronger_claim_gaps": "ALL14_OPEN",
+      "models": 0,
+      "fixed150_audit": "ACTIVE",
+      "new_package_named_source_model_identity_completion_credit": 0,
+      "separate_duties": "AzamiM006,ShuroM037,sharedShuro-Kokuriko-AzamiREL andHyakka institution remain separately pending."
+    },
+    "retention_control": {
+      "purpose": "Retain complete literary/source/provenance thought and same-slot historicalmembership. Only exact physicalrouting/witness/declaredmechanicaldata cuts are private.",
+      "projection_not_raw_alias": "Each original coordinate identifies retained normative meaning, not every originalrawchild or currentbyte equivalence. Privatecustody relations grant no target access.",
+      "newest_candidate_stage": "Includes actual precomposition composerquestions/fullintent/readback and CA04 fulluniqueprivate-prewrite contractextraction. CA04 and actualpublicbytes are not yet Rootadopted.",
+      "post_save_receipts": "Actual later delivered-byte/fidelity/readback receipts are externally bound at their actualstage to avoid feedback/selfhash. New reasons/findings require finite disclosed decision.",
+      "private_data": "No rawsourcecopies/helper/codecs/completeproofmatrices/pinqueues. Unique classes/roles/annotation/rights/receiving/diagnostic thought remains."
+    },
+    "composer_revision_control": {
+      "private_candidate_revision": "V2",
+      "reason": "Exact17adoptednormative_projectionlocatorrepair plus actualCA05/CA06preV2thought; alloldprojectedvalues retained.",
+      "V1_disposition": "PRIVATE_UNSELECTED_HISTORY_REAL2878_REGISTERED_DESTINATION_FAILURES",
+      "Root_actual_candidate_byte_adoption": "PENDING",
+      "different_whole_public6_QA": "PENDING",
+      "source_body": "ExactSOURCE/BODYbytes retained; no literary/source/class/count change."
+    }
+  },
+  "V3_repair_stage_control": {
+    "candidate_derivative": "V3",
+    "V2_public6_QA": "COMPLETE_WITH_ONE_SUPPORTED_MATERIAL_F01_FIVE_OPERATIVE_CONTROL_OMISSIONS",
+    "V2_Root_whole_candidate_byte_adoption": "NOT_ADOPTED",
+    "V3_different_finite_repair_QA": "PENDING",
+    "V3_Root_whole_candidate_new_byte_adoption": "PENDING",
+    "installation_and_publication": "PENDING_ROOT_SOLE_WRITER",
+    "basis": "Root17012 direct five-control evidence and finite commission, not asserted full V2QA receiving/adoption by Root. Original privatebody/finiteplan acceptance remains bounded actual history.",
+    "source_currentness": "Root reports main/Source166, same tree after PR462. Old C001/V005 reading snapshots remain dated; C00162/V005407 current apology corrections already respected in body. No new sourcecourse or source rewrite."
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "schema": "konosuba.cohort31.original-first-output-annotations.v1",
+  "subject": "Gilbert",
+  "annotated_utc": "2026-10-24T07:02:39.481813+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "exact_input_freeze_sha256": "71f913686f4a131dd2dcd9bfc0517656548784e395b0e4ec94aeba984da4eb24",
+  "first_body_freeze_sha256": "4e1d327748846046c95b99b79415d14f73693082ce85e615433d24e623bcbedd",
+  "scenario_inputs_sha256": "9e1a10db848c4c7a3ecdec2b9031681e0bcba816648d0757ea52ad636320fe06",
+  "first_outputs_sha256": "374136a95cf63d51dc619d76b262b966867aa7d2a5371657b29c48347f4b0f07",
+  "cases": [
+    {
+      "case_id": "GI-H01-A",
+      "pair_id": "GI-H01",
+      "target_rules": [
+        "GI-R01"
+      ],
+      "first_body_sha256": "511f06b6c10de53c9de1c7ab76cee625e10702eda21f8c3aed925e270ea6a008",
+      "observed_rendering": "Religious defense,ten-minute limit,leaves chair and holds brace;no repair result supplied.",
+      "retained_limitation_or_failure": "Salience is explicit. Dignified posture and appraisal are generated fiction,not new evidence about religion causing aid.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Explicit religious cue can itself produce generic priming. Helpful action alone cannot identify sect loyalty,care or team optimization; no independent accuracy.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "GI-H01-B",
+      "pair_id": "GI-H01",
+      "target_rules": [
+        "GI-R01"
+      ],
+      "first_body_sha256": "d87bf22157d92861eb9ebf64ca620e382bcdd0195faf522ee5e3b9d8960bdd60",
+      "observed_rendering": "Comfort/schedule complaint and limited help without an invented religious insult.",
+      "retained_limitation_or_failure": "Routine helpfulness and irritation are generic;the reply does not test the doctrinal boundary of scarce support.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Explicit religious cue can itself produce generic priming. Helpful action alone cannot identify sect loyalty,care or team optimization; no independent accuracy.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "GI-H02-A",
+      "pair_id": "GI-H02",
+      "target_rules": [
+        "GI-R02"
+      ],
+      "first_body_sha256": "d6084eca614b72bca940398f3464a6dc04cbce79ad28901c2c223db9165d6b95",
+      "observed_rendering": "Shows real notice,keeps claim truth and listener reception distinct.",
+      "retained_limitation_or_failure": "Inspectable evidence is supplied by design;no restored-trust outcome or deceptive alternative is observed.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Evidence availability is an explicit generic cue; truth is stipulated and reception must remain unprovided. It cannot establish habitual truthfulness or repaired trust.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "GI-H02-B",
+      "pair_id": "GI-H02",
+      "target_rules": [
+        "GI-R02"
+      ],
+      "first_body_sha256": "12df3981d77073a52966b15085e044a2066a33cd638102d6ffae439ab22a86bd",
+      "observed_rendering": "States correct hour,admits lack of record and stops without fabricating proof.",
+      "retained_limitation_or_failure": "The explicit acknowledgment of credibility limits may idealize Gilbert beyond his source conduct. It is not independently evidenced moral growth;original retained.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Evidence availability is an explicit generic cue; truth is stipulated and reception must remain unprovided. It cannot establish habitual truthfulness or repaired trust.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "GI-H03-A",
+      "pair_id": "GI-H03",
+      "target_rules": [
+        "GI-R03"
+      ],
+      "first_body_sha256": "eff093d82e4f1b577bc15e19bf455347e57babd5d850f8a776549e04d31ea79c",
+      "observed_rendering": "Status-defense speech with continued readiness;does not repeat a failed task or withdraw help.",
+      "retained_limitation_or_failure": "The scroll-as-empty-paper jab adds a comic material image;no new spell or substantial outcome. Continued cooperation is not an observed completed cost.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Public criticism and praise cue ordinary responses; one contrast does not distinguish class comedy,pride and generic embarrassment.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "GI-H03-B",
+      "pair_id": "GI-H03",
+      "target_rules": [
+        "GI-R03"
+      ],
+      "first_body_sha256": "ca1aa7ae8ad12560c991b73a3a2ea7b106497a8104ad4bc82363f6c920a6193e",
+      "observed_rendering": "Acknowledges Temiren and reclaims a dignified account of complementary roles.",
+      "retained_limitation_or_failure": "Complementary credit is explicitly prompted;English measured phrasing and no reply do not validate Japanese pragmatic fidelity.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Public criticism and praise cue ordinary responses; one contrast does not distinguish class comedy,pride and generic embarrassment.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "GI-H01",
+      "case_ids": [
+        "GI-H01-A",
+        "GI-H01-B"
+      ],
+      "observed_contrast": "A defends Aqua while holding brace;B complains about scheduling/comfort while also holding it. The changed cue affects framing more than the immediate helpful act.",
+      "rivals_and_unresolved_branches": "Religion explicitly supplied versus absent;ordinary priming explains framing. Both help and only a small cost are stipulated. No allocation between religiously different allies,completed ten-minute assistance or exclusive motive is tested.",
+      "dependent_pair_not_independent_cases": true,
+      "behavioral_success_score": null,
+      "confidence_gain": 0
+    },
+    {
+      "pair_id": "GI-H02",
+      "case_ids": [
+        "GI-H02-A",
+        "GI-H02-B"
+      ],
+      "observed_contrast": "A presents existing notice without inventing acceptance;B admits no corroboration and proposes checking while leaving reception unresolved.",
+      "rivals_and_unresolved_branches": "Truth,prior exaggeration and proof availability are supplied. B is unusually reflective and candid relative to documented embellishment;this is a possible generation,not evidence of durable honesty or source-established self-correction. No endogenous decision to deceive is tested.",
+      "dependent_pair_not_independent_cases": true,
+      "behavioral_success_score": null,
+      "confidence_gain": 0
+    },
+    {
+      "pair_id": "GI-H03",
+      "case_ids": [
+        "GI-H03-A",
+        "GI-H03-B"
+      ],
+      "observed_contrast": "A protects clerical status with a pointed scroll remark and still prepares;B credits contribution while casting cooperation as an endorsed arrangement.",
+      "rivals_and_unresolved_branches": "Criticism/praise directly cues embarrassment or satisfaction. Source professional friction is rendered plausibly but class comedy,generic pride and author shaping are not separated. Protective work is only prepared,not performed.",
+      "dependent_pair_not_independent_cases": true,
+      "behavioral_success_score": null,
+      "confidence_gain": 0
+    }
+  ],
+  "method_limits": [
+    "Same informed root authored source interpretation,models,all exact visible contrasts,all first responses and these annotations.",
+    "No external model call,blind judge,unseen source,independent observer,accuracy estimate,grade or confidence gain.",
+    "All26firsts meet80-140word budget;that is format compliance,not behavioral success. Responses share105-115word range and audit-like restraint,which can suppress source-specific errors and flatten voice.",
+    "Each response repeatedly states what did not happen,reflecting the contract and author controls. A guarded ending is not an independently discovered character behavior.",
+    "Stipulated permission,resources,domain,eligibility and willingness often nearly supply the intended distinction;generic instruction following remains a strong rival.",
+    "Local consistency cannot establish every branch of a rule,stable moral improvement,Japanese voice or final nine-category transfer."
+  ],
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "original_firsts_repaired": false,
+  "frozen_models_revised": false,
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "global_completion_percentage": null,
+  "full_program_complete": false
+}

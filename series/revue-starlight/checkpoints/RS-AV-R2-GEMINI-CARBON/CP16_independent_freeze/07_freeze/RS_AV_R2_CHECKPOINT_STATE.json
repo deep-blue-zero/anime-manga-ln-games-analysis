@@ -1,0 +1,235 @@
+{
+  "generation": "RS-AV-R2-GEMINI-CARBON",
+  "status": "draft_noncurrent",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": true,
+  "execution_identity": "RS-AV-R2-GEMINI-CARBON",
+  "model": "Gemini 4 Carbon (High reasoning)",
+  "existing_corpus_exposure": false,
+  "ova_narrative_exposure": true,
+  "movie_narrative_exposure": true,
+  "latest_checkpoint_id": "CP16_IMMUTABLE_FREEZE",
+  "latest_completed_unit": "FULL_ANIMATED_CORPUS_IMMUTABLE_FREEZE",
+  "timestamp_utc": "2026-11-13T18:06:49.175378+00:00",
+  "next_uninspected_unit": "PUBLISHED_REPOSITORY_CORPUS (Phase F authorized ONLY after this commit)",
+  "next_authorized_operation": "Phase F & G: Pin main commit of anime-manga-ln-games-analysis, read governance + published series/revue-starlight/ corpus, execute symmetric comparative claim audit & post-exposure self-audit in 08_comparative_audit/, and prepare noncurrent repository handoff",
+  "artifact_digests": {
+    "00_inventory/RS_AV_R2_SOURCE_AND_EXECUTION_INVENTORY.md": {
+      "size_bytes": 20820,
+      "sha256": "b5b8ddc6af1cb1c8423395b6db2e6f544ada9e3abda37aa60525d3aa3af86970"
+    },
+    "00_inventory/RS_AV_R2_SOURCE_INVENTORY_DATA.json": {
+      "size_bytes": 215733,
+      "sha256": "91bb3ec5e639e7c1354ba6b554d9f14e96210f95f2e783197fb26c7d2b635912"
+    },
+    "01_tv_episodes/RS_AV_R2_TV01_DEEP_READING.md": {
+      "size_bytes": 54820,
+      "sha256": "4943af4a7becb1fe55c6b742ba32b90a99d1aebd236f47d7b0d47d547c56e36e"
+    },
+    "01_tv_episodes/RS_AV_R2_TV02_DEEP_READING.md": {
+      "size_bytes": 54126,
+      "sha256": "a1257bd046996dab464c92b539c94b366a1c98a45a3f0c7ba9d57d161164ca16"
+    },
+    "01_tv_episodes/RS_AV_R2_TV03_DEEP_READING.md": {
+      "size_bytes": 49099,
+      "sha256": "9f1a1a1d6b29a34ddec3dca324745fde7f1d8857f380935c642137517f6dc609"
+    },
+    "01_tv_episodes/RS_AV_R2_TV04_DEEP_READING.md": {
+      "size_bytes": 50388,
+      "sha256": "9d13564d0d6882c749ab15e84f6f0e5c3175a283862c21bebfc38f6152118172"
+    },
+    "01_tv_episodes/RS_AV_R2_TV05_DEEP_READING.md": {
+      "size_bytes": 47808,
+      "sha256": "34bc306cebf40d1bcf02792d029d4f17bf5ddc91116d88aa91f6db22cb61756a"
+    },
+    "01_tv_episodes/RS_AV_R2_TV06_DEEP_READING.md": {
+      "size_bytes": 46281,
+      "sha256": "047c93d3f89d7506684850f4532953445ba5c1d1a734efc6e4827ac020bb1342"
+    },
+    "01_tv_episodes/RS_AV_R2_TV07_DEEP_READING.md": {
+      "size_bytes": 47353,
+      "sha256": "2a8859fd02563e3c30d7b12bcf5c46680175ec023c72bcd62ab67bb6e2b6f1b1"
+    },
+    "01_tv_episodes/RS_AV_R2_TV08_DEEP_READING.md": {
+      "size_bytes": 43079,
+      "sha256": "0d196add269696623b16b286ae57cfb67d95d174f391009da3a29acfc2bd13f3"
+    },
+    "01_tv_episodes/RS_AV_R2_TV09_DEEP_READING.md": {
+      "size_bytes": 45810,
+      "sha256": "20bc0218c7c940b0437edde33bd43d249a399c0c6941789b0b1eeafe340b8b17"
+    },
+    "01_tv_episodes/RS_AV_R2_TV10_DEEP_READING.md": {
+      "size_bytes": 57087,
+      "sha256": "e6e009368d3c86727bae409b46e366f2ac07bbdca947ad52747a4d34d55e8327"
+    },
+    "01_tv_episodes/RS_AV_R2_TV11_DEEP_READING.md": {
+      "size_bytes": 48058,
+      "sha256": "f21ed8730f7634601024b4fb10bf73f8b01c72e43a568159b69396a0f5c458cd"
+    },
+    "01_tv_episodes/RS_AV_R2_TV12_DEEP_READING.md": {
+      "size_bytes": 54936,
+      "sha256": "105c26cb9a535bc721e9598a78ff02a65acf18974549a7e348e5252626d0a75d"
+    },
+    "02_tv_synthesis/RS_AV_R2_TV_ONLY_SYNTHESIS.md": {
+      "size_bytes": 67048,
+      "sha256": "a4262c89390e089fefbf62592c06802b5ee40e8321afb4cfe0d2bad5bf159f1d"
+    },
+    "03_ovas/RS_AV_R2_OVA01_READING.md": {
+      "size_bytes": 19781,
+      "sha256": "83f2646714c79d38d5b348a57a109a1c117d6dc1eba6b9a8e477a10ac1e9b6a3"
+    },
+    "03_ovas/RS_AV_R2_OVA02_READING.md": {
+      "size_bytes": 17160,
+      "sha256": "26eaa34a6a2329eb3bb7ab286b0ea6e7b30ada34b22c34e76e98c3f95ef00ab7"
+    },
+    "03_ovas/RS_AV_R2_OVA03_READING.md": {
+      "size_bytes": 17478,
+      "sha256": "67669d88d9373f4d95bbec723cbb003e3646b2e69fb9e13253741bc23821f5a2"
+    },
+    "03_ovas/RS_AV_R2_OVA_TO_TV_SUPPLEMENT.md": {
+      "size_bytes": 8971,
+      "sha256": "51d60de9d1d321911fb8183c77b032d9f6093bd4601b2400b08a322943606898"
+    },
+    "04_movie/RS_AV_R2_MOVIE_MONOGRAPH.md": {
+      "size_bytes": 74948,
+      "sha256": "2e36cc38ea487b035406cad200e49e3d36e90fa0269546a15c3a356d73f24506"
+    },
+    "05_full_synthesis/RS_AV_R2_FULL_ANIMATED_CORPUS_SYNTHESIS.md": {
+      "size_bytes": 54918,
+      "sha256": "5fb0fcc201f186a3184d87b31518203d26b761a8f3095d4ceec4a35542aaa3c9"
+    },
+    "06_ledgers/RS_AV_R2_CHARACTER_STATES_AND_KNOWLEDGE_LEDGER.md": {
+      "size_bytes": 73394,
+      "sha256": "2d90ebabd148022cd968370349f4d77bb36ed48c4942ca0fbb51e5bc6ebe1b1a"
+    },
+    "06_ledgers/RS_AV_R2_DIRECTED_RELATIONSHIPS_LEDGER.md": {
+      "size_bytes": 49931,
+      "sha256": "4e6420ed95d7de4e72e697b4320e4b96358b370d1ba44471e61b5f18d539131a"
+    },
+    "06_ledgers/RS_AV_R2_JAPANESE_SPEECH_AND_VOCAL_LEDGER.md": {
+      "size_bytes": 57808,
+      "sha256": "77d6c872d5af4d68b8c26189b1e33f229ee18d0c698b6828d6870e8ab445ae21"
+    },
+    "06_ledgers/RS_AV_R2_MAJOR_CLAIM_AND_REVISION_REGISTER.md": {
+      "size_bytes": 106857,
+      "sha256": "f038dbf5bbb3f020a6fff324ced0418f20f1898e122f5a2067babf024cd6db53"
+    },
+    "06_ledgers/RS_AV_R2_MUSICAL_DRAMATURGY_LEDGER.md": {
+      "size_bytes": 48544,
+      "sha256": "7c1b5cf24d413d0b60ae9acced1fb81c39e0f10a808610045a008ef8fd96fabc"
+    },
+    "06_ledgers/RS_AV_R2_VISUAL_AND_THEATRICAL_FORM_LEDGER.md": {
+      "size_bytes": 50476,
+      "sha256": "ad2984c7f6a4a1ace89d16761dcc72578bd782a8ed94295c57402aa8d170680e"
+    }
+  },
+  "checkpoint_history": [
+    {
+      "checkpoint_id": "CP01",
+      "completed_unit": "TV01",
+      "timestamp_utc": "2026-11-13T02:04:30.437707+00:00",
+      "file_count": 9
+    },
+    {
+      "checkpoint_id": "CP02",
+      "completed_unit": "TV02",
+      "timestamp_utc": "2026-11-13T02:26:53.657674+00:00",
+      "file_count": 10
+    },
+    {
+      "checkpoint_id": "CP03",
+      "completed_unit": "TV03",
+      "timestamp_utc": "2026-11-13T02:53:03.442068+00:00",
+      "file_count": 11
+    },
+    {
+      "checkpoint_id": "CP04",
+      "completed_unit": "TV04",
+      "timestamp_utc": "2026-11-13T03:21:56.786996+00:00",
+      "file_count": 12
+    },
+    {
+      "checkpoint_id": "CP05",
+      "completed_unit": "TV05",
+      "timestamp_utc": "2026-11-13T03:44:13.266426+00:00",
+      "file_count": 13
+    },
+    {
+      "checkpoint_id": "CP06",
+      "completed_unit": "TV06",
+      "timestamp_utc": "2026-11-13T04:01:57.821976+00:00",
+      "file_count": 14
+    },
+    {
+      "checkpoint_id": "CP07",
+      "completed_unit": "TV07",
+      "timestamp_utc": "2026-11-13T04:19:54.004897+00:00",
+      "file_count": 15
+    },
+    {
+      "checkpoint_id": "CP08",
+      "completed_unit": "TV08",
+      "timestamp_utc": "2026-11-13T04:40:21.309367+00:00",
+      "file_count": 16
+    },
+    {
+      "checkpoint_id": "CP09",
+      "completed_unit": "TV09",
+      "timestamp_utc": "2026-11-13T05:03:42.051918+00:00",
+      "file_count": 17
+    },
+    {
+      "checkpoint_id": "CP10",
+      "completed_unit": "TV10",
+      "timestamp_utc": "2026-11-13T05:27:14.670315+00:00",
+      "file_count": 18
+    },
+    {
+      "checkpoint_id": "CP11",
+      "completed_unit": "TV11",
+      "timestamp_utc": "2026-11-13T05:52:44.837788+00:00",
+      "file_count": 19
+    },
+    {
+      "checkpoint_id": "CP12",
+      "completed_unit": "TV12",
+      "timestamp_utc": "2026-11-13T06:16:11.832370+00:00",
+      "file_count": 20
+    },
+    {
+      "checkpoint_id": "CP13_TV_SYNTHESIS_FREEZE",
+      "completed_unit": "TV_SYNTHESIS",
+      "timestamp_utc": "2026-11-13T16:30:50.818887+00:00",
+      "file_count": 21
+    },
+    {
+      "checkpoint_id": "CP14_OVA_FREEZE",
+      "completed_unit": "OVA01_OVA03",
+      "timestamp_utc": "2026-11-13T16:52:31.603528+00:00",
+      "file_count": 25
+    },
+    {
+      "checkpoint_id": "CP15_MOVIE_FREEZE",
+      "completed_unit": "MOVIE",
+      "timestamp_utc": "2026-11-13T17:57:47.713203+00:00",
+      "file_count": 26
+    },
+    {
+      "checkpoint_id": "CP16_IMMUTABLE_FREEZE",
+      "completed_unit": "FULL_SYNTHESIS_AND_IMMUTABLE_FREEZE",
+      "timestamp_utc": "2026-11-13T18:06:49.175378+00:00",
+      "file_count": 27
+    }
+  ],
+  "freeze_manifest_digests": {
+    "07_freeze/RS_AV_R2_IMMUTABLE_FREEZE_MANIFEST.json": {
+      "size_bytes": 20031,
+      "sha256": "268ba49b85d782924a773513abb885e5a44de336c1cb8a36f2783eb858ffbfaa"
+    },
+    "07_freeze/RS_AV_R2_IMMUTABLE_FREEZE_MANIFEST.md": {
+      "size_bytes": 16131,
+      "sha256": "e110af6d38b86bb2dc8513d86e4d40d502ebb3a87a697911645f0c6e45da16fa"
+    }
+  }
+}

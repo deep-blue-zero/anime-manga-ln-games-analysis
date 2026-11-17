@@ -1,0 +1,1758 @@
+{
+  "schema": "RIO_CURRENT12_PUBLIC_AUTHORITY_ORIGINAL_RECOVERY_AND_LOCATION_CUSTODY_V1",
+  "artifact_id": "RIO_CURRENT12_PUBLIC_AUTHORITY_AND_ORIGINAL_RECOVERY_CUSTODY_V1",
+  "composer": "/root/publishing_shared7_review",
+  "actual_composed_utc": "2026-10-14T21:44:04Z",
+  "current_first10_exact_public_component_tuples": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIO_CHARACTER_MONOGRAPH.md",
+      "bytes": 59526,
+      "sha256": "0404ea9f2fff73fc809514eb0caac3c16c641fc83045db2fed503c660cf6bb1f",
+      "git_blob_oid_of_actual_bytes": "2b16a15fa684df665a9f4a0ec5cfb8b6525c3093"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT105_NEW_PURPOSE_JUDGMENTS_RIOP000_RIOP035_V1.json",
+      "bytes": 450356,
+      "sha256": "7bf2ba0670cac95e0f3ba3ec78ddbbba34d292a18ed8343f3619ecb257a33a9d",
+      "git_blob_oid_of_actual_bytes": "7ef78c4732849c856997bb036ba21d4fe2776234"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT105_NEW_PURPOSE_JUDGMENTS_RIOP036_RIOP070_V1.json",
+      "bytes": 584442,
+      "sha256": "c11afa4459ac2f3d3f45ef11ebd364b870b826111308d18f8d1e26a7dc06fcd8",
+      "git_blob_oid_of_actual_bytes": "2b5aa5abdb0093b2d78b695502de6420218871b9"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT105_NEW_PURPOSE_JUDGMENTS_RIOP071_RIOP104_V1.json",
+      "bytes": 739401,
+      "sha256": "e184d5da9fdde043efa84ba6cd051b34fae3eb750a4988767432938595fda32a",
+      "git_blob_oid_of_actual_bytes": "b3dca5b2a2fc7da6bf958cbc6acc8ac2c3d11713"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_EXISTING_CHAR43_SOURCE1_EXACT11_AUTHOR_SOURCE_SPECIFIC_RECEIVING_V2.json",
+      "bytes": 75016,
+      "sha256": "8aac9b259d89e6e233875d91ce0dbd81c09f5377481e103116b22ac368167564",
+      "git_blob_oid_of_actual_bytes": "da9912f3c280a7304a54ab93e4751ac4b2eb6e64"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT196_COMPLETE_LITERAL69_CLAIM_SOURCE_QUESTION_PURPOSE_AND_LIMIT_REGISTER_V2.json",
+      "bytes": 832413,
+      "sha256": "0bd21006df0537f021d176782d64cdc3f05e2f60a64235ed2e7c0bb0ef316f4e",
+      "git_blob_oid_of_actual_bytes": "93f7f418787a081399ed49f6e0cd425e172f2224"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V2.json",
+      "bytes": 207782,
+      "sha256": "27e5b01e64a2fb341d021b178b8fbd18e322eb0ea8ea42c1c151ac8b0ae134d6",
+      "git_blob_oid_of_actual_bytes": "3541d6cf15d8ac94673e8351c4fecdad17a40c2f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_EXACT8_SAVED_OUTPUT_WHOLE_ORIGINAL_INPUT_PRESERVATION_AND_TRANSPORT_RECEIPT_V2.json",
+      "bytes": 924616,
+      "sha256": "6bd17a5b5556d686a98e30eee1267d2becac2f7fcb384263d6f7feec0c997e09",
+      "git_blob_oid_of_actual_bytes": "6280e0bbe7863ab19448c6a36a878b79b3549a4c"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_PRIOR_COMPLETED_COMPONENT_REVIEW_NEW_PUBLIC_REPORT_V1.json",
+      "bytes": 531935,
+      "sha256": "03049e986847cc368fe682578caeae588766c5fcb5d0a1b46f6e644e81482736",
+      "git_blob_oid_of_actual_bytes": "f31969c574e828e2cd24ec2a6902736044e99fd4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_ACTUAL_ROOT_CURRENT196_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 60402,
+      "sha256": "75cfdd61a08a512652b81f6b0e2b5966a7dace715a98e8c2c71cbd62a59f6a56",
+      "git_blob_oid_of_actual_bytes": "7242860bba39acab8677e262d423d779de4d782f"
+    }
+  ],
+  "header_authority_witness_mapping": [
+    {
+      "header_witness_id": "ROOT_RIO_CURRENT196_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+      "original_actual_authority": {
+        "private_original_witness_id": "RIO-ORIGINAL-ROOT",
+        "bytes": 58225,
+        "sha256": "ef7b71311cdde64382df80fe18d03e669f7b49f00a17386a5796908ab428df9d",
+        "git_blob_oid_of_actual_bytes": "6f11521295b1568f033f9203833a7d2c40bb57fa"
+      },
+      "original_workflow_accepted_utc": "2026-10-14T20:50:52Z",
+      "current_public_derivative": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_ACTUAL_ROOT_CURRENT196_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+        "bytes": 60402,
+        "sha256": "75cfdd61a08a512652b81f6b0e2b5966a7dace715a98e8c2c71cbd62a59f6a56",
+        "git_blob_oid_of_actual_bytes": "7242860bba39acab8677e262d423d779de4d782f"
+      },
+      "scope": "ROOT semantic acceptance of original196/69/current525/source11; no current12 byte acceptance or cryptographic signature."
+    },
+    {
+      "header_witness_id": "RIO_PRIOR_COMPLETED_COMPONENT_REVIEW_NEW_PUBLIC_REPORT_V1",
+      "current_genuine_reporting_object": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_PRIOR_COMPLETED_COMPONENT_REVIEW_NEW_PUBLIC_REPORT_V1.json",
+        "bytes": 531935,
+        "sha256": "03049e986847cc368fe682578caeae588766c5fcb5d0a1b46f6e644e81482736",
+        "git_blob_oid_of_actual_bytes": "f31969c574e828e2cd24ec2a6902736044e99fd4"
+      },
+      "original_private_reporting_structure": {
+        "private_original_witness_id": "RIO-ORIGINAL-INPUT",
+        "bytes": 472549,
+        "sha256": "23fb28313b0650b4c9c58105ec5efc9c46f4c32f0e06f0e22bf518fc8acd8a8b",
+        "git_blob_oid_of_actual_bytes": "431ee1934b954092ad82284a0a3ae1f89b45acde"
+      },
+      "original_completed_independent_component_review": {
+        "bytes": 502029,
+        "sha256": "9c216f932e30bbeb97c562e529859751c80021f4dcc113f9a1aa616859caa6a1",
+        "git_blob_oid_of_actual_bytes": "1141c36f74bb9f2754c639a4f1241fe7261b2286"
+      },
+      "original_independent_reviewer": "/root/m008_composition_review",
+      "new_reporter": "/root/publishing_shared7_review",
+      "scope": "Actual new reporting of prior completed review at preserved original scope. No fresh independent review/source receiving or current12 byte approval."
+    }
+  ],
+  "exact_original8_plus_INPUT_ROOT_private_raw_basis": [
+    {
+      "private_original_witness_id": "RIO-ORIGINAL-character_body",
+      "bytes": 58578,
+      "sha256": "86933c0d358ff8416e56dc06aa4c30e97c5b23bd51d433c7c7fbd2bd32a67e1e",
+      "git_blob_oid_of_actual_bytes": "3a6b0212abca02cbd4704d4ca0fe2d498f561db1"
+    },
+    {
+      "private_original_witness_id": "RIO-ORIGINAL-purposes000_035",
+      "bytes": 448456,
+      "sha256": "4cd3ef6694373a1785e55c9f9defd65f9515be404fa2b0eda6f42a1ceee8eb69",
+      "git_blob_oid_of_actual_bytes": "ddb33c31d9fa5e12b06a0abcbbf9517141676fce"
+    },
+    {
+      "private_original_witness_id": "RIO-ORIGINAL-purposes036_070",
+      "bytes": 582542,
+      "sha256": "b1413316a60b44d6d2be1d5ac00741aeec3c775502c91dfe341a81268c9cebf2",
+      "git_blob_oid_of_actual_bytes": "6d7ec022ce7f0221a68c79d692b37a883774a001"
+    },
+    {
+      "private_original_witness_id": "RIO-ORIGINAL-purposes071_104",
+      "bytes": 737501,
+      "sha256": "0b8422b97573075a3d3d52ffea7b31274ec35050d45fe9b71415aa020e45428c",
+      "git_blob_oid_of_actual_bytes": "a8a43941088398de1450147ee4fc6ff5f1e66665"
+    },
+    {
+      "private_original_witness_id": "RIO-ORIGINAL-source1_exact11",
+      "bytes": 82255,
+      "sha256": "3077d14e0d799a071b1e5430db630783591acbd3abeb9484699564d27cf59c3f",
+      "git_blob_oid_of_actual_bytes": "890be7714f1f5c98b7bc445bbb0b1b698eba4dba"
+    },
+    {
+      "private_original_witness_id": "RIO-ORIGINAL-literal69_register",
+      "bytes": 865531,
+      "sha256": "9c0874db29ead934a23923d3d20221ce98672434c2668f863f1bc0296f15d3b7",
+      "git_blob_oid_of_actual_bytes": "4f97704027b4579279030dd559616db4638a1662"
+    },
+    {
+      "private_original_witness_id": "RIO-ORIGINAL-all105_source_index",
+      "bytes": 181552,
+      "sha256": "e5c49b9c34eb4f7ad6638342dd6f9ed51bd2fd031af7622b425949eb263f107a",
+      "git_blob_oid_of_actual_bytes": "5b7ba60f0807717305a70516ec61dec4df9105d6"
+    },
+    {
+      "private_original_witness_id": "RIO-ORIGINAL-transport",
+      "bytes": 940579,
+      "sha256": "919eeb04acac902af2d2aa177e3913e77a1426505f444a0c163a42d3fff278de",
+      "git_blob_oid_of_actual_bytes": "84bc17f536e26f091dae212f40a529c39322b2e0"
+    },
+    {
+      "private_original_witness_id": "RIO-ORIGINAL-INPUT",
+      "bytes": 472549,
+      "sha256": "23fb28313b0650b4c9c58105ec5efc9c46f4c32f0e06f0e22bf518fc8acd8a8b",
+      "git_blob_oid_of_actual_bytes": "431ee1934b954092ad82284a0a3ae1f89b45acde"
+    },
+    {
+      "private_original_witness_id": "RIO-ORIGINAL-ROOT",
+      "bytes": 58225,
+      "sha256": "ef7b71311cdde64382df80fe18d03e669f7b49f00a17386a5796908ab428df9d",
+      "git_blob_oid_of_actual_bytes": "6f11521295b1568f033f9203833a7d2c40bb57fa"
+    }
+  ],
+  "canonical_byte_identical_maintained_counterpart_declarations16": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_COFFEE_DIRECTION_QUALIFICATIONS_20261013_V1.json",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 59334,
+        "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+        "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "bd3fb3023ed7859a59b1e1443dc8080ade847679",
+        "bytes": 59334
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 61767,
+        "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+        "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+        "bytes": 61767
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 175040,
+        "sha256": "8e7e43b6b7643af9622bbaf69e91a0ded858fd4452ae3ff6773cd3054dbecdae",
+        "git_blob_oid_of_actual_bytes": "4316db408d1c8b1bfae685d5cff359817f59c2ae"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "4316db408d1c8b1bfae685d5cff359817f59c2ae",
+        "bytes": 175040
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 311785,
+        "sha256": "88022612a68c33c452639eaf4a7a9ba5bbfbc5e84bda6deea09c3537140a1002",
+        "git_blob_oid_of_actual_bytes": "74047a97019d8bb1ea6bdfd1c847ba68eaba2034"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "74047a97019d8bb1ea6bdfd1c847ba68eaba2034",
+        "bytes": 311785
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 462753,
+        "sha256": "528ba4307d3621c7565852727099a37cb8b66e325dc336c105695fe24a5cb553",
+        "git_blob_oid_of_actual_bytes": "4971d41202426c72d2c61abb8b1c367a856cd7cb"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "4971d41202426c72d2c61abb8b1c367a856cd7cb",
+        "bytes": 462753
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_RIO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 45388,
+        "sha256": "06cce038c6716555d2372b99d1f6cb4335be7642b6922dd1abebbb919724726d",
+        "git_blob_oid_of_actual_bytes": "65097173c5d3a3ad6b6f10896fcc904f200b9cd2"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "65097173c5d3a3ad6b6f10896fcc904f200b9cd2",
+        "bytes": 45388
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 14443,
+        "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+        "git_blob_oid_of_actual_bytes": "b385f8886700fb4470840306ecb05fdffb9275d2"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "b385f8886700fb4470840306ecb05fdffb9275d2",
+        "bytes": 14443
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 12691,
+        "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+        "git_blob_oid_of_actual_bytes": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1",
+        "bytes": 12691
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 40956,
+        "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+        "git_blob_oid_of_actual_bytes": "5bcbef776c36b70da61c168eebbc861ddda01cb6"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "5bcbef776c36b70da61c168eebbc861ddda01cb6",
+        "bytes": 40956
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80000/BLUE_ARCHIVE_EVENT_80000_E125_DEEP_READING.md",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 6495,
+        "sha256": "583440b911845c58d76a8a5c46276aa4e31eed55b04a4e15849ce0466645c35d",
+        "git_blob_oid_of_actual_bytes": "8ca64ca820c6868f0cf05ca4c89a2cd9a4441001"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "8ca64ca820c6868f0cf05ca4c89a2cd9a4441001",
+        "bytes": 6495
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 22309,
+        "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "edc03f8b5d5c71d7c4914187845a20b6e0941376",
+        "bytes": 22309
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 33564,
+        "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "git_blob_oid_of_actual_bytes": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+        "bytes": 33564
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 26925,
+        "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+        "git_blob_oid_of_actual_bytes": "9f210324ba71ed86e21f112b0956f2c371c5f43a"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "9f210324ba71ed86e21f112b0956f2c371c5f43a",
+        "bytes": 26925
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 47958,
+        "sha256": "f8ce4ffdedac78b6e92b296515c9ace92a4277e441dee72348d815785b5283f7",
+        "git_blob_oid_of_actual_bytes": "23b45869c2d1a6f08b988ec2e00c435d271ca327"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "23b45869c2d1a6f08b988ec2e00c435d271ca327",
+        "bytes": 47958
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 18013,
+        "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+        "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "269d6deb765ba5a65a3f831f3248741a24621fa3",
+        "bytes": 18013
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_CHECKPOINT.md",
+      "declared_source_snapshot": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "recorded_original_C_raw_tuple": {
+        "bytes": 13519,
+        "sha256": "30ac3ba693ff56140fb8d57b5caf73352206692a17ac9628b347eb19a7bd1408",
+        "git_blob_oid_of_actual_bytes": "168918c59a61c032e7128e877cf1b80ec95eee03"
+      },
+      "recorded_published_raw_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "168918c59a61c032e7128e877cf1b80ec95eee03",
+        "bytes": 13519
+      },
+      "basis": "Exact byte-identical counterpart established in accepted finite plan inventory, reused without R/source rereading."
+    }
+  ],
+  "original_private_delivery_location_witnesses": [
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-66d81abb87dc8bed7ce9",
+      "classification": "PRIVATE_CURRENT_AUTHOR_RAW_WITH_PROPOSED_PUBLIC_METADATA_DERIVATIVE",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 58578,
+          "sha256": "86933c0d358ff8416e56dc06aa4c30e97c5b23bd51d433c7c7fbd2bd32a67e1e",
+          "git_blob_oid_of_actual_bytes": "3a6b0212abca02cbd4704d4ca0fe2d498f561db1"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 10
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-845075212c783949b39f",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 220671,
+          "sha256": "262eff329b978e1431e03a33296045f19efd531af0e36e930ac298dad56e4e9a",
+          "git_blob_oid_of_actual_bytes": "9f4628571928d75c3a9eaa911db5539c9cbed436"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 4
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-d23db9c986f549fd0dd8",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 510205,
+          "sha256": "75321d3f795080f6e2a29c214770c5ea56e1c845f2416f94977837ee1482e17a",
+          "git_blob_oid_of_actual_bytes": "3d5e2f4806ee531802c7da215e753f2813dc790c"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 5
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-4eccd234183e5f83bd2a",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 15471,
+          "sha256": "4e7b56260ff4b933fa8e29b3e33347d95b1312f3262d47f46aa1f6f440950a52",
+          "git_blob_oid_of_actual_bytes": "ba217e0e78ebeb890ec81c5003d5b0c3b3af21c8"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 164
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-e7a979b28abc45eb6473",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 8229,
+          "sha256": "000a8a4879ca8cdfee75c1364ad90baf9b763658ccc08c98ab2ad98d318b5356",
+          "git_blob_oid_of_actual_bytes": "2fbbcde0b141f12975ce9c73e6c6a7dd56c66412"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 84
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-80839c4609a0237b53a6",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 4403,
+          "sha256": "7d41fdbeb66e7ca045b269988991d5df8cde794d0fb61bd738e54aa5d6066563",
+          "git_blob_oid_of_actual_bytes": "f54638d0b86af25d498e30963e0b2b8eccbba659"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-386fc3038ba023a49125",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 3918,
+          "sha256": "e951cf7d2f10a5c88b15829aea1198c141b9d7753fb6dad1743a5354851bfbe4",
+          "git_blob_oid_of_actual_bytes": "0ec290c55f906ca76c0a1264276a882d19274a75"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-c1234fd3ae470a52ad1d",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 27331,
+          "sha256": "023b43858aab5c692bdc23ca8e1cb92fd46492d90743f48f4ac175cdc112c698",
+          "git_blob_oid_of_actual_bytes": "f54c6aa27b327b8b84ca79a2dca1edd77d0b3107"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-229c6900896a805d5b2f",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 116198,
+          "sha256": "ac5b984dbb845bc6682fee475720fa9380d381a8be5d82445fae74eb87136655",
+          "git_blob_oid_of_actual_bytes": "a4b6b4bb415b9a40574d323239f63fa85a433a30"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 3
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-cae2bcc6914397e70043",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 128195,
+          "sha256": "5ca5a395f493d6a876478ddad69a43fd425b49c01e85ddf8ce6740254991121d",
+          "git_blob_oid_of_actual_bytes": "644d5650ff53255b16ce01f7ac7587bc0b24fdbd"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 2
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-000e0fc91c1e9855c4da",
+      "classification": "PRIVATE_CURRENT_AUTHOR_RAW_WITH_PROPOSED_PUBLIC_METADATA_DERIVATIVE",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 82255,
+          "sha256": "3077d14e0d799a071b1e5430db630783591acbd3abeb9484699564d27cf59c3f",
+          "git_blob_oid_of_actual_bytes": "890be7714f1f5c98b7bc445bbb0b1b698eba4dba"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 184
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-662fcd37306189994be0",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 29978,
+          "sha256": "9d04350f42df0b21d4cd6dc1cb5291d47db4e9c200af29f498c7788ac2d88681",
+          "git_blob_oid_of_actual_bytes": "d33cc21ad4a16958574fdd7fb610daaeaa56feb1"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-6dbe70b23bcdfdb571ac",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 44997,
+          "sha256": "5b9c05d758591d0a2f8f6959529db97ec28568a993083509777bd83e38865094",
+          "git_blob_oid_of_actual_bytes": "6123a85edb14e263861c9a7988d39f316f37f5f0"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 2
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-949b67f38aa2abeb51de",
+      "classification": "PRIVATE_CURRENT_AUTHOR_RAW_WITH_PROPOSED_PUBLIC_METADATA_DERIVATIVE",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 448456,
+          "sha256": "4cd3ef6694373a1785e55c9f9defd65f9515be404fa2b0eda6f42a1ceee8eb69",
+          "git_blob_oid_of_actual_bytes": "ddb33c31d9fa5e12b06a0abcbbf9517141676fce"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 38
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-3aa3c9f322ca2d8cf8ca",
+      "classification": "PRIVATE_CURRENT_AUTHOR_RAW_WITH_PROPOSED_PUBLIC_METADATA_DERIVATIVE",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 582542,
+          "sha256": "b1413316a60b44d6d2be1d5ac00741aeec3c775502c91dfe341a81268c9cebf2",
+          "git_blob_oid_of_actual_bytes": "6d7ec022ce7f0221a68c79d692b37a883774a001"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 37
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-33bf57812daeff0febf6",
+      "classification": "PRIVATE_CURRENT_AUTHOR_RAW_WITH_PROPOSED_PUBLIC_METADATA_DERIVATIVE",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 737501,
+          "sha256": "0b8422b97573075a3d3d52ffea7b31274ec35050d45fe9b71415aa020e45428c",
+          "git_blob_oid_of_actual_bytes": "a8a43941088398de1450147ee4fc6ff5f1e66665"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 36
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-6e048bbe46726b678621",
+      "classification": "PRIVATE_CURRENT_AUTHOR_RAW_WITH_PROPOSED_PUBLIC_METADATA_DERIVATIVE",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 865531,
+          "sha256": "9c0874db29ead934a23923d3d20221ce98672434c2668f863f1bc0296f15d3b7",
+          "git_blob_oid_of_actual_bytes": "4f97704027b4579279030dd559616db4638a1662"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 4
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-4c49679f7ec35cb83b9d",
+      "classification": "PRIVATE_CURRENT_AUTHOR_RAW_WITH_PROPOSED_PUBLIC_METADATA_DERIVATIVE",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 181552,
+          "sha256": "e5c49b9c34eb4f7ad6638342dd6f9ed51bd2fd031af7622b425949eb263f107a",
+          "git_blob_oid_of_actual_bytes": "5b7ba60f0807717305a70516ec61dec4df9105d6"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 2
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-37d6abe0d71f918a0761",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 58578,
+          "sha256": "86933c0d358ff8416e56dc06aa4c30e97c5b23bd51d433c7c7fbd2bd32a67e1e",
+          "git_blob_oid_of_actual_bytes": "3a6b0212abca02cbd4704d4ca0fe2d498f561db1"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 2
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-b532e0274ac108c38fe3",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-575bc6ba1ae478d78018",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 421324,
+          "sha256": "ce514ac4aa6051ef75832d7206dd64037cb5cdccd7298bdd7dc131e32c5927f8",
+          "git_blob_oid_of_actual_bytes": "90f0d80b33ce31668b63326ed795dad6d95c2fc1"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-4dad8698e8420659ed59",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-6c638e1d9233c6a10fcb",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 556143,
+          "sha256": "c22469b77132aa581f6fe163eebadb22395226208108c21fa1a98eadce41f318",
+          "git_blob_oid_of_actual_bytes": "09e6172b776d9367fd74f17ce147ceae6a4f693c"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-2c4309202693749076e4",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-0aaceeb11e2a6c295249",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 715499,
+          "sha256": "7362e39e5e9d8ff09c78f55dd55d07bfa3c52ab5f40c2d543a8113fb440d2c64",
+          "git_blob_oid_of_actual_bytes": "f2597f4b4891a9b6c6eececa47b1dbebb107b243"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-574aefef4b3b464157b4",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-33bb62f8d1bb785154e2",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-b0ae0e0c1959e37c86ab",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-40f1a5077f4932649693",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-c320d429be0b099cdc62",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-e17e423accba2578d893",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-10d9d07631a48bc5c056",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-0f27b39d41a19347f5e9",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 160244,
+          "sha256": "50c91eea7132a7a80ac1a4ca44c5085a4d217a6de257c53a62467e6238a97c53",
+          "git_blob_oid_of_actual_bytes": "c7d7287f96dfe4cd72bc5db7f03c54582633b3c5"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-b1b23982f6301c6cd2f4",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-ab46e0e4f81317a4bfc4",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 166033,
+          "sha256": "fce5e3f467eafd70b56863fc69e9e63930056a625e8f21704a209ea069504d9c",
+          "git_blob_oid_of_actual_bytes": "d37a2d26a4f5050e591c4541e7192f2545a782d6"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-5fa1bb600fc1b257d5f7",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-d353033f857e366e54db",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 168527,
+          "sha256": "068a93af48ffc97656a2e190d3c776b6ec2e2c2631aeda9eb50f5b0041e578ff",
+          "git_blob_oid_of_actual_bytes": "d81117cb6dd321a451d62c950a0ebbcc73e65dcc"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-5e9d1df49eceba2c396e",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-a2d07073fc3b618ece1d",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-bfa3e616c5045c854412",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-56c08387092efed94e0d",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-723309976f97dec723c4",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-f7a3c8b849ffbcedae3e",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-f245fdfe7106ab811f02",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-69c82944be54633593eb",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-80414f2ded253850d445",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-4f44442a62c46623992d",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-dfac1b7ac83bd6b988c1",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-f2130a93b25ed49e0775",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-8c32e86b2645d3f1cb15",
+      "classification": "UNLISTED_DELIVERY_STRING_PRIVATE_DECLARATION_REQUIRED_NO_FILE_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 58435,
+          "sha256": "22e53b621b059190055767ece8ede28c347a715574df1dd0ea00b006da34796a",
+          "git_blob_oid_of_actual_bytes": "73425b8fd96f9d91016827de217f7e0653b1b789"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-e313048ca218bde1508f",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 92459,
+          "sha256": "7f848f250fba742ff52e449c410b0f1aa4011da3a304ab9287f905ee2de843f6",
+          "git_blob_oid_of_actual_bytes": "1403f35c7958497dc82502552b383e4b6e87560b"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-77e134ca55d75b0da7af",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 221177,
+          "sha256": "daa7df584addac2c91c10ce2f7c1e19d5534bd39a952168610056217f0c841cd",
+          "git_blob_oid_of_actual_bytes": "51432d9242e045916f4c52edac92b0a941775dda"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 2
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-7496d3fb4441d5141405",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 1898,
+          "sha256": "7f961560c757970d3a03e4ec8526abef43ac19f038a2b35535d8ac1d194eb3f3",
+          "git_blob_oid_of_actual_bytes": "f0c2364f818ae5ad2c726340c4b08f3ebaad57a9"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-acb9819b04006a8a1fe6",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 289816,
+          "sha256": "461607144cadfb770745bce4cac84845a63aba9e824d94f5ce213d577631b02a",
+          "git_blob_oid_of_actual_bytes": "66421ef5c2fa001bd1e7fc9642e43f1572de19b9"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-161e1d952a3ff843572d",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 21254,
+          "sha256": "b5c919ea7e228cc57907f4e93e5250c058cd6ff8c96d76acef8fce98ce5ffe95",
+          "git_blob_oid_of_actual_bytes": "35a34fa4bb94b888c0086b43005fc0a5ad75403c"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-4c42815f351ec27a5692",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 3524,
+          "sha256": "306221a36e54e94bd83a4601d529a9413cabc4eee0ca634ba1d862f92992076d",
+          "git_blob_oid_of_actual_bytes": "ab20e6e30826baad602ed5305aaafd5bcddcf0c3"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-e5a1a7428510e4ac1083",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 18524,
+          "sha256": "06a34ffdf865f9aecff060b1056df0466e5e25ac742ff89c4bc340f478bd40f6",
+          "git_blob_oid_of_actual_bytes": "1edd2a2281686723f23163124bb3f925f6e5ecb6"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-b9fcb2e48f29192c4740",
+      "classification": "PRIVATE_DECLARED_CURRENT_OR_HISTORICAL_CUSTODY_METADATA_WITNESS_REQUIRED",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 30200,
+          "sha256": "e17882ebc229919504ae0dd91cecf6a6040b3d6c25a85b44cc04c63531db6b0e",
+          "git_blob_oid_of_actual_bytes": "c9ffadc2c03ac1b4520e18f56d8924975060cefb"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-3145ceef0f0c2870d9dc",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 502029,
+          "sha256": "9c216f932e30bbeb97c562e529859751c80021f4dcc113f9a1aa616859caa6a1",
+          "git_blob_oid_of_actual_bytes": "1141c36f74bb9f2754c639a4f1241fe7261b2286"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-5cb7ae3c46a9b8248326",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 58225,
+          "sha256": "ef7b71311cdde64382df80fe18d03e669f7b49f00a17386a5796908ab428df9d",
+          "git_blob_oid_of_actual_bytes": "6f11521295b1568f033f9203833a7d2c40bb57fa"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-b2159daa9099f1b631d3",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 502029,
+          "sha256": "9c216f932e30bbeb97c562e529859751c80021f4dcc113f9a1aa616859caa6a1",
+          "git_blob_oid_of_actual_bytes": "1141c36f74bb9f2754c639a4f1241fe7261b2286"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-07d3aa2430dd26939b71",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 116198,
+          "sha256": "ac5b984dbb845bc6682fee475720fa9380d381a8be5d82445fae74eb87136655",
+          "git_blob_oid_of_actual_bytes": "a4b6b4bb415b9a40574d323239f63fa85a433a30"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-744ea16cbe7b84a3c07a",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "EXACT_RELATIVE_PRIVATE_CUSTODY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 58225,
+          "sha256": "ef7b71311cdde64382df80fe18d03e669f7b49f00a17386a5796908ab428df9d",
+          "git_blob_oid_of_actual_bytes": "6f11521295b1568f033f9203833a7d2c40bb57fa"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-31747d7382038ae45735",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 24711,
+          "sha256": "283cbe8ec85dfcb7edaf0c36cef37feb6501c070c85a084c3b4cb6b16a53388a",
+          "git_blob_oid_of_actual_bytes": "ad288c6d720907532d937d9a8220eccee8be0bf2"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-90e7c8990b2398f033cb",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 940579,
+          "sha256": "919eeb04acac902af2d2aa177e3913e77a1426505f444a0c163a42d3fff278de",
+          "git_blob_oid_of_actual_bytes": "84bc17f536e26f091dae212f40a529c39322b2e0"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-2c7c4933b049342967d3",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 3427,
+          "sha256": "7e4724756cd4e7cd3f8dac96026480244bf8dd79cb2ccc49a5749a4b04dfb903",
+          "git_blob_oid_of_actual_bytes": "534a858f2102e02e6f3822b6aeb85f6e067d9f92"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-bc9e482587b5e621d1b5",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 2991,
+          "sha256": "4c610565deda641fd351f3a3212ad42b8c34b8a7724e0f5977876dc54e8256cf",
+          "git_blob_oid_of_actual_bytes": "1ddcd5e65b05e198dbd0a86f29577ad0064c5883"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-6fdb609f4c936548014c",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 3099,
+          "sha256": "650806a4cd465f2405e4c0617c206f6130fb1916332b95e9004073ae66a048c3",
+          "git_blob_oid_of_actual_bytes": "8cfa55a7698705dd30230063db4f52bd8d3710ec"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-1a96306acde836a028da",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 3287,
+          "sha256": "cfc2411c433fd99806692ac62a9fdb56e138c213c72ee6267115b064ccd6e7d9",
+          "git_blob_oid_of_actual_bytes": "48641706324b7dc8ba35b5eef5493ca4a5c2618d"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-022b3bae7227604f556d",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 3251,
+          "sha256": "7883a9f1d444be3804be76e4b1568ca5f6231cecf7291912cd5a1bb61f5d3039",
+          "git_blob_oid_of_actual_bytes": "568c5499812c91652beeb43817f09e131e9a2bbb"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-81223c013dce52624659",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 3214,
+          "sha256": "5a4645d6a2b4b6ed15279de80a1ecc752fefcff711a40c45a6a4b792e02a49a1",
+          "git_blob_oid_of_actual_bytes": "903e0b705663291a56f61ba457396e646215b324"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-6c234051494e4c2fc5b6",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 4132,
+          "sha256": "a3bfd14b89a1996e4eb3256648d71fdd900659f252a1f2530589e7894e1567d9",
+          "git_blob_oid_of_actual_bytes": "9c107cc723e4daf7bbca24a2f686e088c02a2dda"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-1ec58fef2439de9f671c",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 8634,
+          "sha256": "90004c0cb8043013653dbe3a63a5b8b0362456eaa14efa36ab21e6cebb8f1497",
+          "git_blob_oid_of_actual_bytes": "62baf366699a2da5c5ce81bc62d86c8798adb1c8"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-9fd88a27744161d96f2b",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 13661,
+          "sha256": "99a41b31222a1c9f36720f4546e0aae8c64a1b66899ede686ca869bcd0fc55db",
+          "git_blob_oid_of_actual_bytes": "af0b50218c9deedee4cd8ae1b6ee6b14a5dc75ee"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-72e1a336d5d37219fdc7",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 798927,
+          "sha256": "86f5a65db705a6a3f594ea65e5bee8269745e6e0d272fd9f9e5bd0d010f1b6e1",
+          "git_blob_oid_of_actual_bytes": "ad6816e750866cc2d8699a7c71c5d0f4c94cb7f2"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-1912f71ef8b4e28f270c",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 495023,
+          "sha256": "bebef143e005e69d482bee19a4ab72ecaa311046ad5b4d66c51dee6ff43f5fe0",
+          "git_blob_oid_of_actual_bytes": "ae21a292b6f0330bd229e6fe3539216b92bf6e7d"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-e9630664eaa852669574",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 28418,
+          "sha256": "a5ea335dfd318422d128e6f5f8a6e0a5a041a88331bbf3839cb9c18a217edc9c",
+          "git_blob_oid_of_actual_bytes": "e213a371a863d781a16bb0fbcebcf888a83fff83"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-d2183df509a14a848d25",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 156925,
+          "sha256": "6edc3fbd0ceeb94b6ffd8a21ebabfd146ec86df84c73ee5233951c3313aee1a2",
+          "git_blob_oid_of_actual_bytes": "101e75e603ff57eecfdb036dc1d2dc6e9f132588"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-129eb409cd046c02dfee",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [
+        {
+          "bytes": 17947,
+          "sha256": "7024b4d71d1b90e332f7f2bfd2986828e02da1b0e4db4a0a2c2d11317fc2f730",
+          "git_blob_oid_of_actual_bytes": "9a641ba95f90e17ca24ef333f49768f31b632950"
+        }
+      ],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-32ae26816acd3d1b2973",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-8d712ed61cbdecf0b957",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-97dcb5e7969b2d3ad720",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-295de8193ddafcc9e9ba",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-2140f518906896f115f1",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-7863a738e8a373a0df6c",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-c0ede437a6c701faf2da",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-78c6f50e678c3105d03e",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    },
+    {
+      "private_location_witness_id": "private-witness:RIO-LOC-2470ab88c37adb5e6f25",
+      "classification": "EXACT_ORIGINAL_PARENT_PRIVATE_DELIVERY_DECLARATION_NO_TARGET_ACCESS",
+      "original_location_value_kind": "ABSOLUTE_DELIVERY_LOCATION",
+      "recorded_parent_raw_tuples": [],
+      "actual_target_body_read_hash_or_new_alias": false,
+      "resolution": "Exact original scalar is retained in private location inventory and per-file full inverse. This is a historical delivery-location witness resolved here, not a repository path or an admitted source. Original C_path/relative_path keys carrying this identifier are historical metadata labels.",
+      "actual_occurrence_count_in_original8_INPUT_ROOT": 1
+    }
+  ],
+  "private_encoded_custody_declarations3": [
+    {
+      "private_encoded_custody_witness_id": "RIO-PRIVATE-ENCODED-CUSTODY-2b6ab91f6bd5c0d1",
+      "original_transport_pointer": "/complete_source1_register_index_original_V1_raw_inverse_forward_proofs_lossless_encoded/0/complete_raw_UTF8_zlib_base64",
+      "decoded_original_tuple": {
+        "bytes": 1898,
+        "sha256": "7f961560c757970d3a03e4ec8526abef43ac19f038a2b35535d8ac1d194eb3f3",
+        "git_blob_oid_of_actual_bytes": "f0c2364f818ae5ad2c726340c4b08f3ebaad57a9"
+      },
+      "original_encoded_string_sha256": "3f37e55f79e52158386c0023cdee8a2b796c4742e4f081963ff2f7c2a016a8e7",
+      "role": "Private original historical recovery proof, no human/source/QA credit."
+    },
+    {
+      "private_encoded_custody_witness_id": "RIO-PRIVATE-ENCODED-CUSTODY-0309c04a1345bef8",
+      "original_transport_pointer": "/complete_source1_register_index_original_V1_raw_inverse_forward_proofs_lossless_encoded/1/complete_raw_UTF8_zlib_base64",
+      "decoded_original_tuple": {
+        "bytes": 289816,
+        "sha256": "461607144cadfb770745bce4cac84845a63aba9e824d94f5ce213d577631b02a",
+        "git_blob_oid_of_actual_bytes": "66421ef5c2fa001bd1e7fc9642e43f1572de19b9"
+      },
+      "original_encoded_string_sha256": "433a4349d1c1732b4f1d2650ca2560c604b2c1d78e8870d3af84f9f99c8df0e3",
+      "role": "Private original historical recovery proof, no human/source/QA credit."
+    },
+    {
+      "private_encoded_custody_witness_id": "RIO-PRIVATE-ENCODED-CUSTODY-ec7d3e10cbb5b56b",
+      "original_transport_pointer": "/complete_source1_register_index_original_V1_raw_inverse_forward_proofs_lossless_encoded/2/complete_raw_UTF8_zlib_base64",
+      "decoded_original_tuple": {
+        "bytes": 21254,
+        "sha256": "b5c919ea7e228cc57907f4e93e5250c058cd6ff8c96d76acef8fce98ce5ffe95",
+        "git_blob_oid_of_actual_bytes": "35a34fa4bb94b888c0086b43005fc0a5ad75403c"
+      },
+      "original_encoded_string_sha256": "5ac6c79af4fda16dec2a8699509d66fe998e5b7f6c41e085f771944b52ac9488",
+      "role": "Private original historical recovery proof, no human/source/QA credit."
+    }
+  ],
+  "full_private_raw_inverse_forward_scope": "All original ten input bytes are retained, with per-file exact typed operations/order/raw serialization and actual full forward/inverse execution. Old11 envelopes/threeM008 originals and the historical precision/raw recovery machinery retain their original attribution; no new ROOT primary/common105/native/AV credit.",
+  "current_geometry": {
+    "original_author_physical_lines": 196,
+    "current_public_physical_lines": 208,
+    "literal_paragraphs": 69,
+    "title_actual_current_line": 29,
+    "first_literal_actual_current_line": 34,
+    "last_literal_actual_current_line": 208,
+    "source_carrier_physical_ranges": "UNCHANGED_ORIGINAL_SOURCE11",
+    "current_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIO_CHARACTER_MONOGRAPH.md",
+      "bytes": 59526,
+      "sha256": "0404ea9f2fff73fc809514eb0caac3c16c641fc83045db2fed503c660cf6bb1f",
+      "git_blob_oid_of_actual_bytes": "2b16a15fa684df665a9f4a0ec5cfb8b6525c3093"
+    }
+  },
+  "all_source_and_review_grade_roles": {
+    "original_reviewer_8WHOLE_3SELECTED": {
+      "WHOLE_MAINTAINED": 8,
+      "SELECTED_MAINTAINED": 3
+    },
+    "distinct_reported_source_physical_lines": 2290,
+    "eleven_exact_original_reviewer_scope_records_summary": [
+      {
+        "source_id": "RIO-S01",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            1210
+          ]
+        ],
+        "distinct_reported_physical_lines": 1210
+      },
+      {
+        "source_id": "RIO-S02",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            76
+          ]
+        ],
+        "distinct_reported_physical_lines": 76
+      },
+      {
+        "source_id": "RIO-S03",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            60
+          ]
+        ],
+        "distinct_reported_physical_lines": 60
+      },
+      {
+        "source_id": "RIO-S04",
+        "actual_original_reviewer_grade": "SELECTED_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            46,
+            174
+          ]
+        ],
+        "distinct_reported_physical_lines": 129
+      },
+      {
+        "source_id": "RIO-S05",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            52
+          ]
+        ],
+        "distinct_reported_physical_lines": 52
+      },
+      {
+        "source_id": "RIO-S06",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED_BY_PRIOR_SELECTED_AND_NEW_REMAINING_INTERVALS",
+        "actual_original_ranges": [
+          [
+            1,
+            125
+          ]
+        ],
+        "distinct_reported_physical_lines": 125
+      },
+      {
+        "source_id": "RIO-S07",
+        "actual_original_reviewer_grade": "SELECTED_MAINTAINED_WITH_PRIOR_ADEQUATE_OWN_REUSE",
+        "actual_original_ranges": [
+          [
+            66,
+            150
+          ],
+          [
+            222,
+            257
+          ]
+        ],
+        "distinct_reported_physical_lines": 121
+      },
+      {
+        "source_id": "RIO-S08",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            160
+          ]
+        ],
+        "distinct_reported_physical_lines": 160
+      },
+      {
+        "source_id": "RIO-S09",
+        "actual_original_reviewer_grade": "SELECTED_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            59
+          ],
+          [
+            80,
+            217
+          ]
+        ],
+        "distinct_reported_physical_lines": 197
+      },
+      {
+        "source_id": "RIO-S10",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            83
+          ]
+        ],
+        "distinct_reported_physical_lines": 83
+      },
+      {
+        "source_id": "RIO-S11",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            77
+          ]
+        ],
+        "distinct_reported_physical_lines": 77
+      }
+    ],
+    "original_author_grades_scope": "Source reports author9newWHOLE+2priorWHOLE/2543 lines separately; the report author obtains no fresh source receiving.",
+    "original_common105_grade_scope": "Producer/source-owner original26WHOLE79SELECTED remains attributed; report/new INPUT creates no normal105/primary/native/raw/AV or admission credit.",
+    "original_body_only_QA_tuple": {
+      "C_path": "private-witness:RIO-LOC-229c6900896a805d5b2f",
+      "bytes": 116198,
+      "sha256": "ac5b984dbb845bc6682fee475720fa9380d381a8be5d82445fae74eb87136655",
+      "git_blob_oid_of_actual_bytes": "a4b6b4bb415b9a40574d323239f63fa85a433a30"
+    },
+    "selected_E850_scope": "Only original recorded necessary selected E850 L81–100 for the one act-precision judgment, not a new twelfth Rio core or whole-source promotion."
+  },
+  "original_body_58578_scope": "Exact private original196/69 reviewed source body; not the current208 byte pin.",
+  "dated_pending_field_scope": "Original author-stage pending/draft/frontier statements and every original source/QA/ROOT tuple remain dated to private original196/69 bytes and their actual original events. The separate current public metadata fields govern the composed208/69 byte graph. Component QA and ROOT semantic acceptance refer to the exact original eight. Independent exact12 metadata QA and ROOT composed-byte adoption are pending; no source grade, required/named count, runtime, broad cast audit, model or merge credit is created.",
+  "current_composed12_independent_QA": "PENDING",
+  "ROOT_current12_byte_adoption": "PENDING",
+  "selfpin": "EXTERNAL_FINAL12_MANIFEST_ONLY",
+  "model_count_or_merge_credit": 0
+}

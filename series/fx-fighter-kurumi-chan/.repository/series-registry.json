@@ -1,0 +1,16 @@
+{
+  "series_id": "fx-fighter-kurumi-chan",
+  "stable_slug": "fx-fighter-kurumi-chan",
+  "canonical_title": "FX Fighter Kurumi-chan",
+  "media": [
+    "MANGA"
+  ],
+  "repository_path": "series/fx-fighter-kurumi-chan/",
+  "canonical_entrypoint": "series/fx-fighter-kurumi-chan/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_UNREVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Japanese collected manga FX戦士くるみちゃん by Demunyan and Tansan Daisuki. Page-based analysis of information, uncertainty, financial decisions and their human consequences in the fiction."
+}

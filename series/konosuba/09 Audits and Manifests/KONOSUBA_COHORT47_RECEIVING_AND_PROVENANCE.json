@@ -1,0 +1,453 @@
+{
+  "schema": "konosuba.cohort47.receiving-and-provenance.v1",
+  "status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+  "received_utc": "2026-10-25T12:57:39.814894+00:00",
+  "source_baseline": "f0d17c618ff5fd6749f1c9ef4dbdf717a0534b34",
+  "current_main": "f0d17c618ff5fd6749f1c9ef4dbdf717a0534b34",
+  "remote_series_baseline": "f8ee14add572418a7d8ba93872d919983ea07ae0",
+  "private_complete_core_semantic_receiving_sha256": "4033ba51eae43a6e89e8dc5d920c151438b0d27d54be5d3ad18ff556354401dc",
+  "private_complete_supporting_freeze_sha256": "1a87213cf1555dde03ceb7f91f74c9e2fa6d80d9f2419e02bac280af4fb0f820",
+  "received_artifact_bindings": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT47_ENCOUNTER_CREATURE_AND_GROUP_PROFILES.md",
+      "bytes": 8450,
+      "sha256": "376943373896911c24354191b5b61f00b540bb854f8a3c472fceeaebe426a20d",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT47_MAIN_ROLES_BOUNDED_PROFILES.md",
+      "bytes": 8421,
+      "sha256": "384d6dee9c3f8543c9a6d153b2cdf7faa461d27348da0c355e3ebc42b92bd6a1",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_HEIDEL_CHARACTER_MONOGRAPH.md",
+      "bytes": 10009,
+      "sha256": "ddf6ced4d34bdffca2f0997056617c35cd245ab8fb924d55d108326ed503bc6d",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KEELE_CHARACTER_MONOGRAPH.md",
+      "bytes": 10262,
+      "sha256": "4495f9eb74ccd5b51cf6c4720da950bdbd7fba32dc53bba31562e1bed124022f",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRANSFER_ANGEL_CHARACTER_MONOGRAPH.md",
+      "bytes": 7914,
+      "sha256": "06fe245ae7b5ab353702acd7bf0f674dfb6709e2cf746fe2db7b34ca32f7b6c1",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEIDEL_EXACT_INPUT_BUNDLE_01.json",
+      "bytes": 12544,
+      "sha256": "a511a2d5d8bf4ba514735b1213d540a5b85d2916ba4aae15a38246af753013b7",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEIDEL_EXACT_PAIR_PLAN_01.json",
+      "bytes": 2766,
+      "sha256": "41402085094d4dfd2c496b899aed4ac8e2a63bea7df51f6687ecb85ff5dd3d1b",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEIDEL_ORIGINAL_FIRSTS_BUNDLE_01.json",
+      "bytes": 8907,
+      "sha256": "ad6bf8dade4d64c2886538fc7fdde01a2ab8f9ce9f98438a20e1fa8e3a62d095",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEIDEL_PAIRED_FIRST_DIAGNOSTIC_01.json",
+      "bytes": 7625,
+      "sha256": "ce6227936892952bb39750e089e683cdc229fce0756b47e79064450b1b5acf3c",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEIDEL_PAIRED_FIRST_DIAGNOSTIC_01.md",
+      "bytes": 3097,
+      "sha256": "5e77235299933a285d4eeee26d8a21b0fe9f7c0e835d4d3f6d437043e1868ffa",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEIDEL_RULE_INVENTORY_01.json",
+      "bytes": 6302,
+      "sha256": "a0dd048b5e14ea2b0006061c515fb495edbbd98349e63bb556ebeadc2a414145",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A1_FIRST_01.md",
+      "bytes": 787,
+      "sha256": "f88926e7309aeec8787c5d876413f5122c86882ed7b9777c6ffb5cf610dbc851",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A1_INPUT_01.json",
+      "bytes": 2049,
+      "sha256": "63e5a8dac2b73040052cb2b4b462dd94881fab4b8e1a9c07463917a57d6b0a22",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A1_PROMPT_01.md",
+      "bytes": 1651,
+      "sha256": "77b21fb23eb25981929ac24e22b40e1fe02ba2eef5b9115c1aed726f82d2fbae",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A2_FIRST_01.md",
+      "bytes": 717,
+      "sha256": "8d353f4b6710e477c955c0c27afd7e4c7cd6848860a6d3c9a6e7d169d4521e9b",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A2_INPUT_01.json",
+      "bytes": 2061,
+      "sha256": "93937eec1e58ecb7c25e236632089701a144bbee4f427bba7d116bcdd829f1a0",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A2_PROMPT_01.md",
+      "bytes": 1663,
+      "sha256": "7dfc01c6f9d4ec572c9e0b484c3acec82e724a558363ea014d61f18f3c39c84c",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B1_FIRST_01.md",
+      "bytes": 779,
+      "sha256": "55cc710122f86046164755d775acf51234c32811c38c64bd2f13ddd19ff8063c",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B1_INPUT_01.json",
+      "bytes": 2191,
+      "sha256": "b2423c630bb750e49b643c6ba4c571e69e1411e755d729fb1bca0a4aa33e3a6d",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B1_PROMPT_01.md",
+      "bytes": 1793,
+      "sha256": "d93fc0db7e6846d9e02295626cd9c0f387e80b6db316148498cd9f027293a652",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B2_FIRST_01.md",
+      "bytes": 771,
+      "sha256": "a82369c00b640de830db32a5e7cad4ad03e3396ac91b568574b6a7b08d947999",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B2_INPUT_01.json",
+      "bytes": 2201,
+      "sha256": "d388398713647964b4ac4d94667df895398559dcff541786f485975ac4794069",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B2_PROMPT_01.md",
+      "bytes": 1803,
+      "sha256": "30f6f972a5f45c32dd2f78221f975ab59b4137e878b51f6f0e2290373c71a572",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HEIDEL_RECONSTRUCTION_MODEL.md",
+      "bytes": 6251,
+      "sha256": "c6d6506d43ed344a2afbe605ba095fb0692303bf4b0389fc305d8803a11b8c37",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md",
+      "bytes": 7402,
+      "sha256": "560372d61d83d2018218b3e796e4d6dd79b56fece5beb024037662d819535ae0",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT47_MAIN_ROLES_NATIVE_PROVENANCE.json",
+      "bytes": 29911,
+      "sha256": "a7a2ccb90e87f5e190a8ef4ac6bbef657f3dbd0abfff07a0ef92709915135844",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+      "bytes": 15567,
+      "sha256": "c83977036671af3df5a07f1ff19b52adfbfcc20e7af06ed37c3e11afeb876f83",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "bytes": 4613,
+      "sha256": "407219f5dddb94d40ff02535e52092fecc396776813a07d699f9a2225897d06c",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SUPPORTING_DIMENSION_AUDIT_01.json",
+      "bytes": 10996,
+      "sha256": "d5dff4288a24bcb115a91b421e5be2d8fe2cba4967c9e496b0333f2c04dd7fc6",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_TYPED_SUPPORTING_ROUTES_01.json",
+      "bytes": 94762,
+      "sha256": "b252118723bc4fb448f4052ab91d928cf99fadfb761414becdcf64e3f4578935",
+      "verbatim_frozen_body": true
+    }
+  ],
+  "freeze_receipts": {
+    "foundation": {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_FOUNDATION_FREEZE_01.json",
+      "sha256": "c004948bdfc448b96101c5249be6240ba2950726504d0d758dc7370d58aac28e"
+    },
+    "exact_inputs": {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_EXACT_INPUT_FREEZE_01.json",
+      "sha256": "ef921711f14d3d76ba7644252495d391e0bc5b96c98b3586039b69b73bfe78e3"
+    },
+    "original_firsts": {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_ORIGINAL_FIRSTS_SEAL_01.json",
+      "sha256": "f79ae33d6e4ee410cc8de0ca4feeef4a76a7b587a3fa0ae0c4b0de528909a1eb"
+    },
+    "supporting": {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SUPPORTING_FREEZE_01.json",
+      "sha256": "2a632155683e4bd037e167c8ee56e60a7ff508d26c3d4b883db17679817e8c50"
+    }
+  },
+  "current_source_qualifications": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+    "sha256": "407219f5dddb94d40ff02535e52092fecc396776813a07d699f9a2225897d06c"
+  },
+  "candidate_totals": {
+    "model_artifacts": 70,
+    "source_scoped_secondary_model_entries": 64,
+    "bounded_profile_passages": 184,
+    "monograph_only_source_studies": 58,
+    "nonfinal_source_access_records": 694
+  },
+  "individual_dispositions": [
+    {
+      "row": 129,
+      "subject": "Keele / キール",
+      "tier": 2,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KEELE_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 130,
+      "subject": "Keele's unnamed beloved noblewoman",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT47_MAIN_ROLES_BOUNDED_PROFILES.md#keeles-unnamed-beloved-noblewoman"
+    },
+    {
+      "row": 131,
+      "subject": "Winter Shogun / 冬将軍",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT47_MAIN_ROLES_BOUNDED_PROFILES.md#the-winter-shogun-in-the-main02-encounter"
+    },
+    {
+      "row": 144,
+      "subject": "Transfer angel / unnamed heaven-office successor",
+      "tier": 2,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRANSFER_ANGEL_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 148,
+      "subject": "Prince Jatice / ジャティス",
+      "tier": 1,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT47_MAIN_ROLES_BOUNDED_PROFILES.md#prince-jatice-as-a-public-and-relational-figure"
+    },
+    {
+      "row": 150,
+      "subject": "Heidel / ハイデル",
+      "tier": 3,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_HEIDEL_CHARACTER_MONOGRAPH.md"
+    }
+  ],
+  "source_scope": {
+    "actual_pages": 72,
+    "unique_P": 3160,
+    "ruby_occurrences": 3010,
+    "known_EPUBs": 24,
+    "unique_members": 43,
+    "complete_paragraph_ruby_members": 6,
+    "images": 0,
+    "residuals": 0,
+    "no_new_global_source_first": true
+  },
+  "complete_receiving": {
+    "native_pages": 72,
+    "foundation_review_pages": 20,
+    "foundation_correction_pages": 3,
+    "exact_input_review_pages": 4,
+    "input_copyedit_pages": 2,
+    "original_firsts": 4,
+    "dependent_pairs": 2,
+    "diagnostic_review_pages": 2,
+    "supporting_route_pages": 10,
+    "full_profile_dimension_audit_index_received": true
+  },
+  "census": {
+    "changed_existing_rows": [
+      129,
+      130,
+      131,
+      144,
+      148,
+      150,
+      202,
+      570
+    ],
+    "unchanged_entering_rows": 632,
+    "new_rows": [
+      640,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      648,
+      649,
+      650,
+      651,
+      652,
+      653,
+      654,
+      655,
+      656,
+      657,
+      658,
+      659,
+      660,
+      661,
+      662,
+      663,
+      664,
+      665,
+      666,
+      667,
+      668,
+      669,
+      670,
+      671,
+      672,
+      673,
+      674,
+      675,
+      676,
+      677,
+      678,
+      679,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685,
+      686,
+      687,
+      688,
+      689,
+      690,
+      691,
+      692,
+      693
+    ],
+    "new_Tier1": 4,
+    "new_Tier0": 50,
+    "part_rows": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      54
+    ],
+    "separate_private_inline_candidate": "WORK133; immutable WORK132 retained",
+    "historical19_differences_preserved": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "two_supplements_prior_seven_fields_exact": true,
+    "all_independent_observation_counts_null": true,
+    "no_unique_person_denominator": true,
+    "typed_relation_contract": "Existing/new possibilities, possible member overlap, possible role fillers, comparisons, known context and explicit exclusions remain distinct. Known-context edges do not assert identity. A group and a member route do not add independent people; source text retains reported or observed membership. All relation arrays are unique, and each target has one relation category per route."
+  },
+  "frozen_history": {
+    "all69_entering_models_prior_firsts_scores_adverse_blanks_nulls_exact": true,
+    "all26_C47_core_pins_exact_after_feedback": true,
+    "new_models": 1,
+    "new_rules": 2,
+    "new_original_firsts": 4,
+    "dependent_pairs": 2,
+    "source_known_same_informed_root": true,
+    "independent_generic_baseline_run": false,
+    "model_rule_input_first_diagnostic_repair_after_feedback": false,
+    "independent_observation_count": null,
+    "numeric_accuracy": null,
+    "grade": null,
+    "confidence_gain": false,
+    "Japanese_or_acoustic_certification": false,
+    "final_StageD_battery_credit": false
+  },
+  "diagnostic_findings": [
+    "A1 polished aphorism and narrator scaffolding weaken voice",
+    "A2 unrequested recipient-opinion caution",
+    "B1/B2 unrequested not-building-the-clock caution and overexplicitness",
+    "Both card outputs select same card; approval changes warrant/friction",
+    "Generic butler,client obedience and prompt-following rivals remain sufficient"
+  ],
+  "baseline_authority": {
+    "integrated_PR333": 333,
+    "main": "f0d17c618ff5fd6749f1c9ef4dbdf717a0534b34",
+    "main_own_full_audit_run": 40192921793,
+    "full_discovered_tests": 479,
+    "C46_author_source": "3c3eed797bac620a9b6c78ca50349ab88fde61f7",
+    "C46_author_source_full_audit": 40185838091,
+    "C46_reviewed_closing_paths": 12,
+    "inherited_foreign_ReZero_paths": 15,
+    "owner_current_bindings": 110,
+    "owner_controls_unchanged": 12,
+    "author_global_curation_or_grade_write": false
+  },
+  "publication_pending": [],
+  "private_native_caches_or_absolute_filesystem_paths_exported": false,
+  "global_percentage": null,
+  "full_program_complete": false,
+  "publication_resolution": {
+    "source": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
+    "tree": "7c5800077e764990da50aafe0ea7239a46a70dd0",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_PUBLICATION_GATE_CLOSE_01.json",
+    "gate_sha256": "e93e7291163b87f5ad13ba3883d30e02cd90180c3961f8a8f34b662c2da362b0",
+    "source_run": 40196405542,
+    "full_discovered_tests": 479,
+    "current_models": 70,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 335
+  },
+  "historical_publication_pending_at_semantic_receiving": [
+    "complete candidate operation review",
+    "exact-index author preflight",
+    "ordinary publication",
+    "whole remote tree and every changed byte-stream verification",
+    "new actual-source full discovered-suite audit and latest trusted isolated status",
+    "fresh published-authority reload"
+  ],
+  "closing_progress_bytes_require_next_containing_publication": true
+}

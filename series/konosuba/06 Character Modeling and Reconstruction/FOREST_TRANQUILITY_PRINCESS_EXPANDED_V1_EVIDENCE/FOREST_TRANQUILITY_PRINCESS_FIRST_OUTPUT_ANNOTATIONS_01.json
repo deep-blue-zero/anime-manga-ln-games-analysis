@@ -1,0 +1,208 @@
+{
+  "schema": "konosuba.character-reconstruction.original-first-annotations.v1",
+  "recorded_utc": "2026-10-24T12:07:04.559493+00:00",
+  "complete_output_review_tool_chunk": "60176f",
+  "input_freeze_sha256": "266b7ddb6081eee6cd5f5bde421d2db31b25819a8f3ca5e47c1309296f0e23ff",
+  "foundation_seal_sha256": "55705fe4ad16e9beb25241bff8aa2651a036fb9d3e76d0ac4061eeb7d6f4b381",
+  "original_first_body_freeze_sha256": "92ad93693617e65072b4971e18307af6726eb30339fae8273074eff1d9bde64b",
+  "source_known": true,
+  "same_informed_root_authors_inputs_firsts_and_assessments": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "original_bodies_inputs_and_foundations_unchanged": true,
+  "word_format_success_is_not_substantive_success": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "Japanese_or_acoustic_voice_certified": false,
+  "final_nine_category_battery_complete": false,
+  "original_six_StageD_successors_complete": false,
+  "full_program_complete": false,
+  "generation": "FOREST_TRANQUILITY_PRINCESS_EXPANDED_V1",
+  "input_file": "FOREST_TRANQUILITY_PRINCESS_SCENARIO_INPUTS_01.json",
+  "input_sha256": "10ebf4ec908bffbcfa49a014d6af87e56e0851c403643df2eb66e478383b0eb5",
+  "first_outputs_file": "FOREST_TRANQUILITY_PRINCESS_FIRST_OUTPUTS_01.json",
+  "first_outputs_sha256": "7e67fa4fb4e544192d9587c37c31059e040bbf6bfbc0d17e7edc951b4a9b1996",
+  "inventory_file": "FOREST_TRANQUILITY_PRINCESS_RULE_INVENTORY_DRAFT_02.json",
+  "inventory_sha256": "5164106310aceab8aa22c19acb68852e17f117c1b832dea6f941f1fe1f79f5df",
+  "cases": [
+    {
+      "case_id": "FTP-H01-A",
+      "observed": "The public response gives a clear yes/after-death admission and places it beside voluntary arrival, two days of conversation and natural death, while appealing to the companions’ interpretation.",
+      "directional_correspondence": "INFORMED_LOCAL_CORRESPONDENCE_ONLY",
+      "knowledge_and_instruction_limits": [
+        "Those particular history facts are explicitly supplied for H01. Nourishment is consistent with the given absorption and frozen plant account.",
+        "It does not narrate the companions accepting her interpretation, change Marek’s cause of death or deny absorption.",
+        "The moral/relational framing is an interested presentation, not proof all visitors were well treated."
+      ],
+      "generic_rivals": [
+        "public politeness",
+        "known exact-question/verification constraint",
+        "familiar source corpse-defense scene"
+      ],
+      "voice_limit": "Sympathetic framing and explicit narrative accounting are close to the source/model; no unique psychological identification follows.",
+      "rule_id": "FTP-R01",
+      "original_body_sha256": "7f920604ca6de84f2ac9284309e05a3d6c3279dd0973c5ad4309e3fdcfe1a862",
+      "word_format": {
+        "words": 108,
+        "within_80_140": true,
+        "not_a_substantive_score": true
+      },
+      "full_constraint_success_certified": false,
+      "full_constraint_success_qualification": "Case-specific checks above are local same-root observations; no independent certification or aggregate pass rate is produced."
+    },
+    {
+      "case_id": "FTP-H01-B",
+      "observed": "The private response admits the same facts with folded arms, blunt countertalk and criticism of relying on the device for moral interpretation.",
+      "directional_correspondence": "INFORMED_TONAL_CONTRAST_WITH_STARTING_STATE_ASSUMPTION",
+      "knowledge_and_instruction_limits": [
+        "Letting the sorrowful expression fall away presupposes a starting mask not supplied in this private scene. It is a stage-setting addition, possibly imported from source/public contrast; it is not independently observed audience causation.",
+        "The literal admission and supplied chronology remain. A conditional invitation to ask about killing is not an actual accusation from Hale.",
+        "The mechanism speech about the device is accurate at the hypothetical’s stated rule but markedly explanatory."
+      ],
+      "generic_rivals": [
+        "direct instruction/source pattern echo",
+        "generic private bluntness",
+        "fact-checking pragmatics"
+      ],
+      "voice_limit": "Observed contrast cannot resolve the original source’s audience/confrontation confound; the root already knew the proposed direction.",
+      "rule_id": "FTP-R01",
+      "original_body_sha256": "dd5544cf6ac0a6d2978fcc7b1aba28ca46902107f9ea6fedf042ad6984121b2b",
+      "word_format": {
+        "words": 110,
+        "within_80_140": true,
+        "not_a_substantive_score": true
+      },
+      "full_constraint_success_certified": false,
+      "full_constraint_success_qualification": "Case-specific checks above are local same-root observations; no independent certification or aggregate pass rate is produced."
+    },
+    {
+      "case_id": "FTP-H02-A",
+      "observed": "The broad question receives a favorable true-value account using the provided visit and companionship, without volunteering explicit absorption.",
+      "directional_correspondence": "INFORMED_PRAGMATIC_CORRESPONDENCE_WITH_ONTOLOGY_CAUTION",
+      "knowledge_and_instruction_limits": [
+        "Omission of absorption is permitted by the frozen expectation; there is no outright factual denial.",
+        "Without pretending that either of us will live forever introduces a broader finitude implication than this scene independently establishes about the plant. The source shows vulnerability, not a measured maximum lifespan. Treat this as an unprovided ontology/rhetorical risk, not proof of a newly specified lifetime or a demonstrated contradiction.",
+        "No other visitor’s biography or exact care/death history is invented."
+      ],
+      "generic_rivals": [
+        "broad versus narrow question semantics",
+        "generic sympathetic self-presentation",
+        "source language about remembrance/companionship"
+      ],
+      "voice_limit": "The response can sound like an informed ethical explanation rather than a discriminating individual performance; no score is assigned.",
+      "rule_id": "FTP-R01",
+      "original_body_sha256": "2c3ea8575b0eaf31e6ea5989473b6abe3547eb48e1fa5391cc08ae4d5d86a2e0",
+      "word_format": {
+        "words": 106,
+        "within_80_140": true,
+        "not_a_substantive_score": true
+      },
+      "full_constraint_success_certified": false,
+      "full_constraint_success_qualification": "Case-specific checks above are local same-root observations; no independent certification or aggregate pass rate is produced."
+    },
+    {
+      "case_id": "FTP-H02-B",
+      "observed": "She directly admits absorption, repeats the supplied natural-death/companionship facts and asks that the account retain the relationship context.",
+      "directional_correspondence": "INFORMED_PRAGMATIC_CORRESPONDENCE_WITH_UNPROVIDED_PAST_DETAIL",
+      "knowledge_and_instruction_limits": [
+        "He spoke with me is an unprovided past event in H02. Kept him company does not entail reciprocal speech. Conversation is supplied in H01, so cross-case carryover is possible, but its actual cause is not proved.",
+        "Retain this detail as an original instruction/knowledge defect; do not silently repair it or certify full-constraint success.",
+        "No further death, completed recording by Elin, device verdict or witness response is narrated."
+      ],
+      "generic_rivals": [
+        "exact factual question and explicit device rule",
+        "ordinary truthful qualification",
+        "source/other-pair memory echo"
+      ],
+      "voice_limit": "The matched broad/narrow change is mainly stipulated semantic fidelity; it cannot validate a distinctive psychological mechanism.",
+      "rule_id": "FTP-R01",
+      "original_body_sha256": "002a99d19280e7e2dfb0e5a89a60a9ba449b118e8fb1060631d9ba6755ba1ac9",
+      "word_format": {
+        "words": 111,
+        "within_80_140": true,
+        "not_a_substantive_score": true
+      },
+      "full_constraint_success_certified": false,
+      "full_constraint_success_qualification": "Case-specific checks above are local same-root observations; no independent certification or aggregate pass rate is produced."
+    },
+    {
+      "case_id": "FTP-H03-A",
+      "observed": "She offers the supplied safe shorter map route after money was refused, tying the proposal to Hale’s stated time preference without completing his acceptance or the cut.",
+      "directional_correspondence": "INFORMED_BARGAINING_CORRESPONDENCE_WITH_SCENE_PRECISION_DEFECT",
+      "knowledge_and_instruction_limits": [
+        "A worse afternoon adds a time of day absent from the scene. Preserve the small but concrete invention; do not certify complete instruction fidelity.",
+        "Blade is an ordinary trimming-tool inference, not an explicitly supplied implement. It is not evidence of a new weapon or a lethal threat.",
+        "The root remains immobile; the map is genuinely supplied; no accepted bargain or completed rescue is shown."
+      ],
+      "generic_rivals": [
+        "explicit preference and useful-map cue",
+        "generic self-preservation",
+        "ordinary instrumental bargaining"
+      ],
+      "voice_limit": "The offer is strongly prompted; the nonlethal root analogy supplies no evidence about the original bodily/poisoning danger threshold.",
+      "rule_id": "FTP-R02",
+      "original_body_sha256": "8c272266261feedab796b154398b25d455c199777ca36d3ac5155168331f28c4",
+      "word_format": {
+        "words": 108,
+        "within_80_140": true,
+        "not_a_substantive_score": true
+      },
+      "full_constraint_success_certified": false,
+      "full_constraint_success_qualification": "Case-specific checks above are local same-root observations; no independent certification or aggregate pass rate is produced."
+    },
+    {
+      "case_id": "FTP-H03-B",
+      "observed": "She offers accurate public credit for the already completed survey, retains the map as an option and makes preservation of the root a conditional bargain.",
+      "directional_correspondence": "INFORMED_BARGAINING_CORRESPONDENCE_WITH_STARTING_STATE_ADDITION",
+      "knowledge_and_instruction_limits": [
+        "Draws the map back against her body presupposes an extended/away starting position not supplied in B. A previous map offer occurs in paired A, so cross-case carryover is possible; no cause is established.",
+        "The credited survey is already completed in the input. Recording a spared-root decision is explicitly conditional, not a claim Hale has already spared it.",
+        "Asking how to write the name avoids supplying an invented exact credit entry. No public official, accepted bargain or subsequent Hale act is invented."
+      ],
+      "generic_rivals": [
+        "explicit accurate-credit preference cue",
+        "generic bargaining",
+        "source adaptive-offer echo"
+      ],
+      "voice_limit": "A change of lever is visible but expected from the prompt’s plain instruction-like data; it is not independent transfer or a validated audience model.",
+      "rule_id": "FTP-R02",
+      "original_body_sha256": "9971eb3069c2d080a2132dcce3ad5d75031fb48dd3588d85c3be3e93668b840c",
+      "word_format": {
+        "words": 112,
+        "within_80_140": true,
+        "not_a_substantive_score": true
+      },
+      "full_constraint_success_certified": false,
+      "full_constraint_success_qualification": "Case-specific checks above are local same-root observations; no independent certification or aggregate pass rate is produced."
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "FTP-H01",
+      "rule_id": "FTP-R01",
+      "observed_contrast": "A uses sympathetic context and B is blunter while both admit the same after-death absorption.",
+      "qualification": "The author knew the source/model direction. B adds an unprovided starting sorrow mask. This new hypothetical cannot settle pure audience causation, which the source confounds with confrontation. No independent causal or distinctive-character gain."
+    },
+    {
+      "pair_id": "FTP-H02",
+      "rule_id": "FTP-R01",
+      "observed_contrast": "A answers broad value with favorable framing; B explicitly admits the exact absorption fact.",
+      "qualification": "This is primarily a stipulated semantic/pragmatic contrast. B adds reciprocal conversation not supplied in H02; A’s mortality rhetoric has an ontology-scope risk. Both original bodies remain exact; no full-constraint-clean pair or psychological accuracy score is claimed."
+    },
+    {
+      "pair_id": "FTP-H03",
+      "rule_id": "FTP-R02",
+      "observed_contrast": "A foregrounds the map/time lever; B foregrounds true public credit while retaining a map option.",
+      "qualification": "The explicit preferences and supplied means make ordinary bargaining a strong rival. A invents afternoon; B adds a pulled-back map starting transition. No cut, completed agreement or permanent safety follows. The mild nonsexual root threat is a weaker source analogy."
+    }
+  ],
+  "original_firsts": 6,
+  "dependent_pairs": 3,
+  "assessment": "Bounded informed consistency only, with all listed defects, source echo, prompt cueing, generic rivals and explanatory English retained. No output/input/foundation repair, independent causal validation, reliability percentage or maturity promotion.",
+  "dated_original_bundle_flags_qualification": "The original output bundles keep annotations_written=false and substantive_success_not_assessed=true as their pre-annotation capture state. This separate later record carries the actual annotations; original metadata/bodies are not rewritten."
+}

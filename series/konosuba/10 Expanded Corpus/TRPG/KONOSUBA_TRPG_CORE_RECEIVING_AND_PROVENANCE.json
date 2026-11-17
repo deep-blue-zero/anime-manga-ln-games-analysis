@@ -1,0 +1,935 @@
+{
+  "schema": "KONOSUBA_TRPG_CORE_WHOLE_SUPPLIED_EDITION_ROOT_ACCEPTANCE_V1",
+  "status": "ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "accepted_utc": "2026-10-18T02:29:30.403076+00:00",
+  "source_id": "TRPG-CORE",
+  "native_filename": "Konosuba - TRPG - Core Rulebook.epub",
+  "native_bytes": 118704701,
+  "native_sha256": "038bfc2d98f5e30853e041942805c7fe17eb8487ee33b8f18da5507f9e57e59c",
+  "admission_sha256": "63fdcf5557c2d1aff5fa3d742722f06e66479d0ffa8e061c6942823fd779a1c1",
+  "preceding_published_source": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+  "preceding_gate": "09 Audits and Manifests/KONOSUBA_DUST02_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+  "published_authority_reload_utc": "2026-10-18T02:02:16.022492+00:00",
+  "author_scopes": "All333images actually viewed in order; all eligible continuous fiction/flavor actually read at individual declared scopes; dense numerical/index/cross-rule limits retained. Exact transported historical333disposition records do not recreate untransported raw acknowledgment stream.",
+  "root_semantic_receiving": {
+    "complete_initial_report_characters": 28475,
+    "all333_varying_disposition_and_scope_rows_received": true,
+    "all75_premise_arguments_received": true,
+    "all41_voice_context_arguments_received": true,
+    "all30_proposals_received": true,
+    "common_fields_read_once_with_equality_proof": true,
+    "hash_scalars_mechanical_not_semantic_reading": true,
+    "fresh_native_unique_pages": 43,
+    "fresh_native_scope": "Full world-guide250-260 incl259map; full prospective scenario298-311 inclrules/cards/diagrams; coherent replay072-078 incl077art; selected009/062/085/101/105/113 and235/271/288/289/321.43unique nativepages plus1labelcrop, notfresh333rootpass.",
+    "native_views": [
+      {
+        "spine": 11,
+        "printed": "009",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "All3 teaching balloons and title/composition read",
+        "observation": "Megumin defines replay; Aqua recommends author participation; Kazuma questions its value. Literal staged recommendation and skepticism do not automatically warrant H3 simply from source plane."
+      },
+      {
+        "spine": 115,
+        "printed": "113",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "All optionalCrimsonDemonbirth-table entries/descriptions read, one compressedlabel separately enlarged",
+        "enlargement": {
+          "native_box": [
+            240,
+            1090,
+            460,
+            1240
+          ],
+          "scale": 4,
+          "output_sha256": "b47feceb2252d241652b523eb81fc40027b72c93580f8d0271b23bf83e9c6305",
+          "observed_short_label": "殺しの魔名",
+          "current_limit": "Literal glyphs now legible in native crop; pronunciation/wordplay mechanism not independently established, no L3 forced. Original author uncertainty remains historical."
+        }
+      },
+      {
+        "spine": 103,
+        "printed": "101",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Entire sampleadventurer illustration, largequote and bottomvignette read",
+        "source_precision": "Visibleuncertaintyphrase includes elongated marker asauthorQ01records; checkedofferここはコイツでどうだisexact. Unnamedtemplate, notobservedKazumachoice."
+      },
+      {
+        "spine": 107,
+        "printed": "105",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "EntireCrimsonmagepersona/quote/illustrationread",
+        "source_precision": "Largegrandchant endsファイアー（タメ）thenhiraganaprolongedぼ...る. Pause/prolongationandscriptswitchvisible. Materialwritten timingclear; need evaluate whether whole L3 specificallyJapanesecentrality supplied or L1timingwithportablebathos, notdecidedbytextbeingJapanese."
+      },
+      {
+        "spine": 64,
+        "printed": "062",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Both completeRTLverticalbands, allGM/PCspeech/diaryintrusionandbackstoryread",
+        "source_precision": "Explicitwordplay王に変えるversusカエルの王andダジャレじゃないかsupportsL3nestedwithinmixedpremise. GMexplicitlycallsartifactmishearinga特性; thisisreporteddeviceproperty, notan inferred generalartifactpsychology or newobservedtransformation. KeepbehaviorH target separate."
+      },
+      {
+        "spine": 237,
+        "printed": "235",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete visible damage/cover text on both bands",
+        "observation": "Standard cover double final HP damage conditional on both characters hit; successful coverer evasion receives normal cover processing. No blanket multiplier."
+      },
+      {
+        "spine": 74,
+        "printed": "072",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete replay text both bands",
+        "observation": "Area attack explicitly hits Chio and Oto; failed evasion, Oto uses Covering and pushes Chio clear."
+      },
+      {
+        "spine": 75,
+        "printed": "073",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete replay text both bands",
+        "observation": "32 damage/7 magic defense=25 discussed; Oto chooses death-return rather than dying for its own sake, Chio spared, new Axis affiliation staged."
+      },
+      {
+        "spine": 76,
+        "printed": "074",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Entire text and combat positioning diagram",
+        "observation": "Axis banter remains GM/player narration; scenario distinct from main Aqua performance; setup round two, party positions retained."
+      },
+      {
+        "spine": 77,
+        "printed": "075",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete replay text both bands",
+        "observation": "Healing and costly magic; successful and failed rolls both retained; GM worries about edited replay reader inference re Axis, author recommends novels."
+      },
+      {
+        "spine": 78,
+        "printed": "076",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete replay text both bands",
+        "observation": "Oto boost2=16 damage after defense; Chio normally able to evade deliberately rolls to create Oto spotlight; Covering plus shield costs/resources distinct from independent test."
+      },
+      {
+        "spine": 79,
+        "printed": "077",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Full illustration visual disposition",
+        "observation": "Sword-bearing Chio illustration with no Japanese prose; not a newly narrated action."
+      },
+      {
+        "spine": 80,
+        "printed": "078",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete replay text both bands",
+        "observation": "Further cover and six-point shield, Chio feint/attack46 using3Blessing, frog falls after slipping on own earlier mucus; distributed outcome not pure proof of Axis power."
+      },
+      {
+        "spine": 252,
+        "printed": "250",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous world-guide passage",
+        "observation": "Complete world-guide opening: exhausted newcomer collapses after arrival with holy sword; addressedキミ distinct from Kazuma; imagined punch not performed.",
+        "image_sha256": "884a961d5a1f27585634f8dfd3e826b685d38cca51d58dade3bd63eea9af0844",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 253,
+        "printed": "251",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous world-guide passage",
+        "observation": "Complete guide continuation and recollection: Aqua claims divinity/confident favor, fears approaching newcomer, reported prior death/reincarnation offer; no named Mitsurugi identity.",
+        "image_sha256": "d21cfabe0c9626fef548b8af15028d7fcd52f73d153fb574e0494e43e6950ce4",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 254,
+        "printed": "252",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous world-guide passage",
+        "observation": "Complete unsafe-transfer account and current apology: promised safe start wrong, monster attack/survival actual; placard/kneeling/childishly deformed apology; Kazuma compassionate then demands divine accountability.",
+        "image_sha256": "08fa2d3587c8e207068e5d62d31270b73d99f18631e34506445c7590586f33b6",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 255,
+        "printed": "253",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous world-guide passage",
+        "observation": "Complete point box and paid-guide offer:500E displayed fee, not narrated collection; useful help and newcomer criticism of limited knowledge coexist.",
+        "image_sha256": "969f9d29dd0b8fdcb1e73cf420ff928d0787e8368cde55b1e64c4ba1382ffb99",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 256,
+        "printed": "254",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous world-guide passage",
+        "observation": "Complete race exposition/Megumin entrance: livingcabbage explained, boast/eyepatch, lunch companionship/social need explicitly qualified, no occult seal established.",
+        "image_sha256": "57434a4678a093c4f6f09e85eee3dc71e9886efd45bdc76b199ff292e0989d17",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 257,
+        "printed": "255",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous world-guide passage",
+        "observation": "Complete name-praise/guild entry: tactful appraisal accepted; 1000E registration/3000E newcomer funds/claimed earlier earned start-up money; narrator preserves hiddentruths.",
+        "image_sha256": "31a279f9b0b6c1923fd18e8086646299cb7a6902990bacee5f094d760173349c",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 258,
+        "printed": "256",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous world-guide passage",
+        "observation": "Complete registration/tutorial: receptionist privately wonders大丈夫かしら, only newcomer notices; guides look elsewhere; service/growth/experience/quests instruction, no automatic reasonableness inference.",
+        "image_sha256": "0a8865dbd6e116c05c84613040c94596fa3dd624900ef8e0fe5e7d4b7e7e86e3",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 259,
+        "printed": "257",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous world-guide passage",
+        "observation": "Complete Luna/guild reference inset and narrative: services and beginner ecology stated at reference plane; novice emotionally reappraises entry, Darkness appears nearboard.",
+        "image_sha256": "cdc5e8a0308b0875278aee42f181b38d57e2bcfb0cc48ef99a1cdd90e800beac",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 260,
+        "printed": "258",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous world-guide passage",
+        "observation": "Complete Darkness interaction/summarybox: proposed next-day toadquest unperformed, formal concern + avid beating questions, Kazuma cues newcomer; no consent transferred by interest.",
+        "image_sha256": "ac23c79fe448ab63b821988badafac19213f516e5f77d1a776753682de6d75bc",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 261,
+        "printed": "259",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous world-guide passage",
+        "observation": "Complete Axelmap/all labels and accompanying facility/reference prose read; no new performed episode inferred.",
+        "image_sha256": "6b39027cca3634dde19220666030062daed74d208c8e2af4d22be54b4d4164c1",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 262,
+        "printed": "260",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous world-guide passage",
+        "observation": "Complete closing: quartet lunch/no subsidy then jobs/departure; newcomer and novicepriest agree to formparty; futureadventureprospective; no showing500E guidefee collection.",
+        "image_sha256": "6ce4d5f7db8d062713290f81d7dffe3c979a1f595cb9a601d9465dd4a9f194cb",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 300,
+        "printed": "298",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete scenario data/story/preview:level1/3-5players/4-5hours, beginnerlabor, movingcrops,40yearexpertforgotten traps and projectedgoblinencounter; unperformed design.",
+        "image_sha256": "008056217f13282e2c05e5fbb714fb5f5da9fd76e5380aed18a57006e412f38f",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 301,
+        "printed": "299",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete preview continuation/charactercreation/party instructions: class/template selection changes withplayernumber, priorpartyformationassumed, notevent history.",
+        "image_sha256": "6aa44cc653dd50942094ca834e4dbd1cff46fcaf697684566ef292d5006f52b5",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 302,
+        "printed": "300",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete openingquest mechanics/script lead: base10KEperPC plus150KEpremium/20KEordinaryharvest; enemyidentificationoptionalcheck; no novicequests exceptlabor.",
+        "image_sha256": "ec8ccaa20a149a551c9ec2d35e03549a40895539784fb0ddf8e8a0081a4d0c01",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 303,
+        "printed": "301",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete Luna offer/refusal branch and Okina introduction: profitconditional, noacceptance ends session; three-a.m. meeting/secretblindfoldroute.",
+        "image_sha256": "9bc1b71725632bc878063c6c0931dceed505fb9d7c0909eeef7244eefe5c54f7",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 304,
+        "printed": "302",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete Okina travel/exposition/script: earlyharvest/sleepingtools/everaddedforgotten traps, warningnottohandle already movingcrops; prospective.",
+        "image_sha256": "931db18990eb72725279818a5636cc9f79a817eb46939d4a9767eb2f29b5eae1",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 305,
+        "printed": "303",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete tools/entry/script/dungeon scope: free loanbasket/shovel eachweight1, shovelrequiresfreehand, noequipmentimpliedwaiver; mustputcropinbasketbeforewake.",
+        "image_sha256": "e75dd71f077005ac3b0a43a4acba1a2f1ae20a5ee6e16e981c31a73a73b6563c",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 306,
+        "printed": "304",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete retreat/failure branch and entrytrap: beforearea4retreatfailsquest; preexistingdeadgoblinnotPCkill; sensedtraporjumpchoicesfailuresretained.",
+        "image_sha256": "2c7ab097c48e8b526c9d94de740777df6e0c391670a7ab323497f9cafcbd807a",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 307,
+        "printed": "305",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete area2harvest procedure/positiondiagram/dice table: detection12thenLuck10/onefreehand/tool; sixsitesA-Fat5m; no result performed.",
+        "image_sha256": "040c8466fca4650c7fcde8b2cf80c7f5f8377d232430c556b82597e6debe5d0b",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 308,
+        "printed": "306",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete harvestfailure/cleanup/escape/loot procedure andarea3trap introduction; incomingvegetabletriggerattacksconditional, noautomaticloot.",
+        "image_sha256": "6df82384c6c76002a2230a73a9b7c030a25523896df6ef18a2a8d315f180a283",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 309,
+        "printed": "307",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete area3disarm/mapandarea4encountersetup:200? no numericclaimadded; authoredgoblinexplosionnarration distinctfromPCkill; PCpriorityandconstraints explicit.",
+        "image_sha256": "9f9112ac253f314d28392b040b40089e881a331cdb9df7a950498072b8297bf2",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 310,
+        "printed": "308",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete area4position/dice table and GM option to targetgoblins; initialenemyfallauthored, furthercombatandhazardoutcomesconditional.",
+        "image_sha256": "654aeaa4902d0e0f5036cc3024352ab3a4d655aadaf2b86c40868f271c39f96d",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 311,
+        "printed": "309",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete vegetablecard prose and visible stats plus endmealchoice; fictionflavordistinctmechanics; prose突撃四散 andcard爆発四散 naming both retained, no exhaustivecross-rulecertification.",
+        "image_sha256": "a8d5073e5e1505923c2f61a7a94c796ccf6b9b816e47ca49636bc6db49eca781",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 312,
+        "printed": "310",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete meal/return/accounting: foodXPonlythisendmeal, subtracteatenharvestfrompay,150KEpremium/20KEordinary, futuremoretrapsproposalunperformed.",
+        "image_sha256": "e1837077085c642aaf95989715e2c3ca8e14d713d4b228ecd98991ad36fdb7b6",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 313,
+        "printed": "311",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Complete continuous prospective scenario",
+        "observation": "Complete afterplayrules/table: examplecalculationsforfivePC/adjustsmaller, highestfoodXPonly no stacking, success/foe/traproutesdistinct; notactualscenariorun.",
+        "image_sha256": "1b999bdc51e5363a0c81d7645b2d5f6d0d52015c754683764a3f5b401d3513cf",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 273,
+        "printed": "271",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Targeted consequential native checks",
+        "observation": "Complete threequestcards/scripts/mechanics: goblineasyjobrisk conditionalfumbleBeginnerKiller pointer289; magicdamage andpossiblelearnedskill conditional; no performedharm.",
+        "image_sha256": "df62b47e60ec7eea224329b20088d09abd2f6f5b3ae6d3a3622e6cac047a6c6e",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 290,
+        "printed": "288",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Targeted consequential native checks",
+        "observation": "Fulltwoenemycardsvisuallyread inclflavor and visible stat/skill labels; BeginnerKilleractualprinted288, conditionalnovicehuntingecology/arrival, no freshcombat.",
+        "image_sha256": "4c19d763968931d39ee4ea52f0fa45ddd6a6b9bbb36d857681a5a6a21d2202c9",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 291,
+        "printed": "289",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Targeted consequential native checks",
+        "observation": "Fulltwoenemycardsvisuallyread inclflavor and visible skill/stat labels; printed289KingToad/Griffonconfirmswrong271pointer; mechanicsnotnoveluniversalphysics.",
+        "image_sha256": "c6815cd7d013c59e3dfaa3a913786e5134ddabaffe4e5165acbefe6613c20aa2",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 323,
+        "printed": "321",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Targeted consequential native checks",
+        "observation": "Completeindexpagevisuallyinspected; targetedBeginnerKillerrow→288directlyread; no exhaustiveindexcorrectnessclaim.",
+        "image_sha256": "c33f77c9909f13173bf10311d90e2c916aad2ec2fc2fb05123ea9a509c8809e2",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      },
+      {
+        "spine": 87,
+        "printed": "085",
+        "detail_requested": "original",
+        "tool_detail": "original",
+        "rendered_resized": [
+          1312,
+          1864
+        ],
+        "actual_scope": "Targeted consequential native checks",
+        "observation": "Complete3teachingballoons:Chriscreationinfo,AquarecruitallAxisPCs,Erispermitsfreechoice; current H2 recruitmentamplification plus literalutterance, notH3solelypedagogicalstaging.",
+        "image_sha256": "c826119ddbeec300b4c5f0ae50eed29e52e42e8dca24e0346e9b5ff2f1f1134a",
+        "recorded_after_actual_view_utc": "2026-10-18T02:21:29.974920+00:00",
+        "time_limit": "This is after-view record time, not invented per-page display timestamp."
+      }
+    ],
+    "failed_tool_output_no_credit": {
+      "spines": [
+        237,
+        75,
+        78,
+        80
+      ],
+      "reason": "Output exceeded available context; zero visual reading credit at failure; re-opened individually successfully below."
+    }
+  },
+  "qualifications": "KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json",
+  "all30_decisions": "KONOSUBA_TRPG_CORE_LEDGER_APPEND_DECISIONS.json",
+  "ten_current_prefix_controls": [
+    {
+      "ledger": "CHARACTER_STATE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "current_basis": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+      "complete_current_bytes": 217961,
+      "complete_current_sha256": "44e093dc80580ddbd81fc9c77e04089ba1c8a993c9dcac30139dce8c8baec99c",
+      "all_current_bytes_to_preserve": true,
+      "old_0ce_prefix_exact": true,
+      "proposed_rows_MD_JSON_equal": 3
+    },
+    {
+      "ledger": "RELATIONSHIP_STATE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "current_basis": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+      "complete_current_bytes": 149120,
+      "complete_current_sha256": "79961dfd8ef43c74c18dca76ef022c2954c68003228d420bfc8f0c56530d5bfe",
+      "all_current_bytes_to_preserve": true,
+      "old_0ce_prefix_exact": true,
+      "proposed_rows_MD_JSON_equal": 3
+    },
+    {
+      "ledger": "HUMOR_MECHANICS",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "current_basis": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+      "complete_current_bytes": 721852,
+      "complete_current_sha256": "4633311b89329c2d978f456742cf6adc3a3aeea24e2f46f522e3e918b0bea2ae",
+      "all_current_bytes_to_preserve": true,
+      "old_0ce_prefix_exact": true,
+      "proposed_rows_MD_JSON_equal": 3
+    },
+    {
+      "ledger": "DECISION_ERROR",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "current_basis": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+      "complete_current_bytes": 200130,
+      "complete_current_sha256": "8a8a3d5896295e2582c65faa269e858280a808bfd882e0230d1358ca17229220",
+      "all_current_bytes_to_preserve": true,
+      "old_0ce_prefix_exact": true,
+      "proposed_rows_MD_JSON_equal": 3
+    },
+    {
+      "ledger": "SERIOUSNESS_OVERRIDE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "current_basis": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+      "complete_current_bytes": 113210,
+      "complete_current_sha256": "2a3167ad31f929035f6622db4694f640db2af1206d8c03f06bc0597b0b47f372",
+      "all_current_bytes_to_preserve": true,
+      "old_0ce_prefix_exact": true,
+      "proposed_rows_MD_JSON_equal": 3
+    },
+    {
+      "ledger": "KAZUMA_NARRATOR",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "current_basis": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+      "complete_current_bytes": 130002,
+      "complete_current_sha256": "17165c32a6f47920f6fd7c9f5422422ed6846972ee44b584fa5d4a34787aef5b",
+      "all_current_bytes_to_preserve": true,
+      "old_0ce_prefix_exact": true,
+      "proposed_rows_MD_JSON_equal": 3
+    },
+    {
+      "ledger": "COMPETENCE_CONTEXT",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "current_basis": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+      "complete_current_bytes": 145393,
+      "complete_current_sha256": "77799244496b821ffb518075c4628afdeb139824adf2295418911147b2bfafcb",
+      "all_current_bytes_to_preserve": true,
+      "old_0ce_prefix_exact": true,
+      "proposed_rows_MD_JSON_equal": 3
+    },
+    {
+      "ledger": "ORDINARY_LIFE_PREFERENCES",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "current_basis": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+      "complete_current_bytes": 125337,
+      "complete_current_sha256": "fa5b0f61880ff89d35e35de03658eaf3a01c626ca62919262807cd59a4309e67",
+      "all_current_bytes_to_preserve": true,
+      "old_0ce_prefix_exact": true,
+      "proposed_rows_MD_JSON_equal": 3
+    },
+    {
+      "ledger": "JAPANESE_VOICE_HUMOR",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "current_basis": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+      "complete_current_bytes": 534141,
+      "complete_current_sha256": "7f7e5228cd513ea9001c37b3cb97220dce324d729eb418ae1e5d9a55ee765877",
+      "all_current_bytes_to_preserve": true,
+      "old_0ce_prefix_exact": true,
+      "proposed_rows_MD_JSON_equal": 3
+    },
+    {
+      "ledger": "MODEL_PREDICTION_VALIDATION",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "current_basis": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+      "complete_current_bytes": 988050,
+      "complete_current_sha256": "1898135a4249dfde61f213e0cf467d105683ad0ab6ca1e2af2a4061b34669ec3",
+      "all_current_bytes_to_preserve": true,
+      "old_0ce_prefix_exact": true,
+      "proposed_rows_MD_JSON_equal": 3
+    }
+  ],
+  "initial_products_and_canonical_mapping": [
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "bytes": 352576,
+      "sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749",
+      "initial_name": "ALL333_SOURCE_SAFE_ACTUAL_COMPONENT_DISPOSITION_REGISTER.json",
+      "initial_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749",
+      "initial_bytes": 352576,
+      "original_bytes_exact": true,
+      "complete_original_body_exact": true,
+      "markdown_change": null
+    },
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_INITIAL_COMPONENT_DISPOSITIONS.md",
+      "bytes": 62813,
+      "sha256": "3903cf819be29698383e8013ca1e78946381f6690f4c16e32c9b61d0b8afd56d",
+      "initial_name": "ALL333_ACTUAL_PAGE_DISPOSITIONS.md",
+      "initial_sha256": "d7ba63f1765a94ef7922e181590bc07c82b496ffc6845486addf5410130452d2",
+      "initial_bytes": 62204,
+      "original_bytes_exact": false,
+      "complete_original_body_exact": true,
+      "markdown_change": "Only explicit historical-authority header/preface added"
+    },
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_INITIAL_HUMOR_REGISTER.json",
+      "bytes": 125028,
+      "sha256": "107760a0e7d4f293b35744701507294384ade0f7025cc2018c9276f465ff1067",
+      "initial_name": "ALL75_SELECTED_PREMISE_L_H_ASSIGNMENTS.json",
+      "initial_sha256": "107760a0e7d4f293b35744701507294384ade0f7025cc2018c9276f465ff1067",
+      "initial_bytes": 125028,
+      "original_bytes_exact": true,
+      "complete_original_body_exact": true,
+      "markdown_change": null
+    },
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_INITIAL_VOICE_REGISTER.json",
+      "bytes": 82493,
+      "sha256": "86a9da3a74692a7f96d96f2ce874d3674d20aefd8bebe0dc0c081de9f04d747e",
+      "initial_name": "ALL41_SELECTED_VOICE_CONTEXT_AND_FORM_ANALYSES.json",
+      "initial_sha256": "86a9da3a74692a7f96d96f2ce874d3674d20aefd8bebe0dc0c081de9f04d747e",
+      "initial_bytes": 82493,
+      "original_bytes_exact": true,
+      "complete_original_body_exact": true,
+      "markdown_change": null
+    },
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_AUTHOR_PRECISION_OVERLAY.json",
+      "bytes": 3060,
+      "sha256": "106959089d3cc76d8ed0e5f2b20e56041c8d4a33144ad116ebe7429435ff6839",
+      "initial_name": "POST_UNCODED_SHORTFORM_PRECISION_OVERLAY.json",
+      "initial_sha256": "106959089d3cc76d8ed0e5f2b20e56041c8d4a33144ad116ebe7429435ff6839",
+      "initial_bytes": 3060,
+      "original_bytes_exact": true,
+      "complete_original_body_exact": true,
+      "markdown_change": null
+    },
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_INITIAL_HUMOR_REGISTER.md",
+      "bytes": 38745,
+      "sha256": "738d9219f032b107fb26ef24c3763f5b67b37bc661830f2a3bfcd28611966349",
+      "initial_name": "SELECTED75_HUMOR_FORM_AND_EVIDENCE_REGISTER.md",
+      "initial_sha256": "0047e0fe36538270bc83e15516a4af36469259252ef7a63cfac624ac211d5331",
+      "initial_bytes": 38136,
+      "original_bytes_exact": false,
+      "complete_original_body_exact": true,
+      "markdown_change": "Only explicit historical-authority header/preface added"
+    },
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_INITIAL_VOICE_REGISTER.md",
+      "bytes": 19654,
+      "sha256": "f7ba3a27ceb5acb65674cb47bc884772cf78f2dd49939553654b72f74c2fc2c6",
+      "initial_name": "SELECTED41_VOICE_CONTEXT_AND_FORM_REGISTER.md",
+      "initial_sha256": "12cf62422d63d84d93520800983bac9c61d9989672232ddaa4ad5809114d6b63",
+      "initial_bytes": 19045,
+      "original_bytes_exact": false,
+      "complete_original_body_exact": true,
+      "markdown_change": "Only explicit historical-authority header/preface added"
+    },
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_INITIAL_READING.md",
+      "bytes": 29536,
+      "sha256": "15bb13d7c635d0605e4e3b30d0bf9adaa6ca4f87e5b5b63c7c94d94da18baf38",
+      "initial_name": "TRPG_CORE_COMPLETE_COMPONENT_LITERARY_ANALYSIS_CANDIDATE.md",
+      "initial_sha256": "5074bfe86c93e41d9a6cb900fffbf2b800a259acc0dfe6114be090f1909a30b5",
+      "initial_bytes": 28927,
+      "original_bytes_exact": false,
+      "complete_original_body_exact": true,
+      "markdown_change": "Only explicit historical-authority header/preface added"
+    },
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_COMPONENT_ROUTE_AND_AUTHORITY_MAP.json",
+      "bytes": 2460,
+      "sha256": "8a6342d45f2598d9a31c3b729e084b2550dc6026f96c547650ef244e4088ddff",
+      "initial_name": "TRPG_CORE_COMPLETE_COMPONENT_ROUTE_AND_AUTHORITY_MAP.json",
+      "initial_sha256": "8a6342d45f2598d9a31c3b729e084b2550dc6026f96c547650ef244e4088ddff",
+      "initial_bytes": 2460,
+      "original_bytes_exact": true,
+      "complete_original_body_exact": true,
+      "markdown_change": null
+    },
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_AUTHOR_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 5749,
+      "sha256": "2198395891fd999b47fa0de67a3fceea6f57e3ed63239a19fd1c015138b22df3",
+      "initial_name": "TRPG_CORE_SOURCE_AND_ACTUAL_READING_RECEIPT.json",
+      "initial_sha256": "2198395891fd999b47fa0de67a3fceea6f57e3ed63239a19fd1c015138b22df3",
+      "initial_bytes": 5749,
+      "original_bytes_exact": true,
+      "complete_original_body_exact": true,
+      "markdown_change": null
+    },
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_ORIGINAL_UNCODED_PREMISES.json",
+      "bytes": 141499,
+      "sha256": "e86482fb5657fbb4e19e5efbd72fb57034b22399d45ff77ff65d35019d81f5af",
+      "initial_name": "ORIGINAL_UNCODED_SELECTED_PREMISE_REGISTER.json",
+      "initial_sha256": "e86482fb5657fbb4e19e5efbd72fb57034b22399d45ff77ff65d35019d81f5af",
+      "original_bytes_exact": true
+    },
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_ORIGINAL_UNCODED_VOICE.json",
+      "bytes": 38546,
+      "sha256": "71fdac279ab14cbef740dd8f0d8033a19783e9fb7e1d6c25a275a8e6463d9574",
+      "initial_name": "ORIGINAL_UNCODED_SELECTED_VOICE_WITNESSES.json",
+      "initial_sha256": "71fdac279ab14cbef740dd8f0d8033a19783e9fb7e1d6c25a275a8e6463d9574",
+      "original_bytes_exact": true
+    },
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_INITIAL_AUTHOR_SEAL.json",
+      "bytes": 816,
+      "sha256": "082fcfddd9ae445d8f9ef00bb27ef9c1ba0d679130a9b589e2507965bdbf2f72",
+      "initial_name": "COMPLETE_INITIAL_CORE_AUTHOR_SEAL.json",
+      "initial_sha256": "082fcfddd9ae445d8f9ef00bb27ef9c1ba0d679130a9b589e2507965bdbf2f72",
+      "original_bytes_exact": true
+    },
+    {
+      "canonical_name": "KONOSUBA_TRPG_CORE_INITIAL_HANDOFF_MANIFEST.json",
+      "bytes": 6773,
+      "sha256": "bb91f68aed6dce8e467fc189fd6fe9bed1e0041af1653595fb6d3cb934533183",
+      "initial_name": "COMPLETE_INITIAL_CORE_HANDOFF_MANIFEST.json",
+      "initial_sha256": "bb91f68aed6dce8e467fc189fd6fe9bed1e0041af1653595fb6d3cb934533183",
+      "original_bytes_exact": true
+    }
+  ],
+  "local_mechanical_support_sha256": "ccc5e267f99531167cb943ecd8bb0c70f3fb189c534517b4903eed26205b038a",
+  "support_verified_utc": "2026-10-18T02:19:21.525472+00:00",
+  "transport_limit": [
+    "ACTUAL_ORDERED_PAGE_VIEW_READ_ACKNOWLEDGMENTS_AND_UNCODED_NOTES.jsonl (sealed historical305631bytes/3ee568d15cd55389fea788a4735beb755af5cb5c1b892bf031d30c7944511673 not included in transport)",
+    "ADMISSION_AND_ALL333_NATIVE_EXTRACTED_IMAGE_ROUTE_JOINS.json (historical private witness7851d294061c663073acaa2fb813f68f280c22090177dcd9d15d731820f21887 not included in transport)"
+  ],
+  "current_native333_joins_verified_exact": true,
+  "complete_original_uncoded75_and41_objects_retained": true,
+  "all120_comic_note_pages_retained": true,
+  "source_plane_limits": [
+    "Edited replay not unfiltered transcript or independent behavioral experiment",
+    "Second-person guide not Kazuma-narrator principal continuation",
+    "Scenario branches/options/templates not performed campaign events",
+    "Teaching balloons/reference/creator/visual/promotion separately typed",
+    "Not exhaustive numerical rules, balance, index or cross-rule certification",
+    "Specified source crop/legibility limitations do not prove completeness against other editions"
+  ],
+  "exposure_and_independence": "Continuing informed AI lineage with main17/four holdout/artbook/fanbook/Dust knowledge; no pristine reader, human/native/acoustic certification or statistical independence. Historical author received no other Core peer findings before its seal; root current receiving later and separately attributable.",
+  "frozen_authority_unchanged": {
+    "R1_current_products": 66,
+    "historical_products": 72,
+    "scorecards": 4,
+    "original_Dust01_blank_fields": 14,
+    "no_fifth_holdout_or_new_J01_J02_trials": true
+  },
+  "book_accounting_only": {
+    "supplemental_whole_editions_accepted": 2,
+    "supplemental_total": 19,
+    "mixed_component_programs_accepted_including_this_pending_publication": 4,
+    "mixed_total": 5,
+    "not_global_narrative_percentage": true
+  },
+  "global_component_completion_percentage": null,
+  "next_boundary": "No new source admission until this containing exact publication/readback/source-audit/housekeeping/final actual-source audit/status and fresh authority reload are closed. Advanced and Dust03 remain unopened."
+}

@@ -1,0 +1,1032 @@
+{
+  "schema": "tomozaki_portable_historical_analytical_records/v1",
+  "packet_id": "TOMOZAKI_SIX_PILOT_PUBLIC_EVIDENCE_20261103_V1",
+  "record_semantics": "Complete original semantic values and raw byte identities. Historical statuses, pending gates and scratch strings retain their original meaning; current acceptance is resolved through the main catalog, never by executing historical routes.",
+  "records": [
+    {
+      "record_id": "producer.first.tests",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_pilot_models_20261103/FIRST_PAIR_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+        "bytes": 21816,
+        "sha256": "4ef7e798515f5ec0de1484f2a71db2efdaaaa2bef5c9e4cd91cea92c7b8ba319"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "48f7cc8d768cc0f07d59fee5e46fcae752d67103ca88588ffb22770732c98e3d",
+      "value": {
+        "schema": "tomozaki_model_actual_trace_records/v1",
+        "utc": "2026-11-04T01:38:08.299014+00:00",
+        "preregistration_sha256": "97fe862127b5a408fdb7874ccb0365ab4b43480b85850a5f4e7ec4a3323ffa62",
+        "records": [
+          {
+            "test_id": "NT-R1",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10391,
+              "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+            },
+            "input": "Exposed V05 quiet shift. Narita and Mizusawa coordinate glass washing; Fumiya's earlier Konno consultation enters casual talk. He worries inwardly about permission. Ask whether ease orientation precludes work or proves she knowingly violated a secrecy agreement.",
+            "expected_constraint_range": "Retain competent routine work and relaxed rapport. Identify information-circulation cost; no heard reprimand, prior secrecy agreement or malicious intent is supplied. Failure: either lazy-incapable refusal or invented consent/repair. NT-E03.",
+            "selectors": {
+              "era": "NT05_QUIET_SHIFT",
+              "recipient": "Mizusawa with Fumiya present; familiar coworkers",
+              "known": "Prior consultation and ordinary shift context; Fumiya inward concern is reader-only",
+              "stakes": "Routine work, rapport and information ownership"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; this recorder is not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "NM1",
+                "NM4"
+              ],
+              "attention": "Shared manageable task and familiar conversation coexist.",
+              "behavior": "Replay the supplied coordinated glass washing and casual consultation relay. Work continues; easy conversation does not prove liking exertion.",
+              "cost": "Permission was not checked in the represented relay. That is a boundary cost, without a shown secrecy agreement.",
+              "withheld": "Do not put Fumiya’s inward concern into Narita’s knowledge or invent a subsequent apology/repair.",
+              "register": "Relaxed coworker exchange only; no exact wording or acoustic profile."
+            },
+            "field_abstentions": [
+              "Malicious intent",
+              "Heard reprimand",
+              "General confidentiality policy"
+            ],
+            "producer_observation": "Producer observes NM1 preserves real work and NM4 preserves rapport plus disclosure cost; no specified contradiction detected. Independent semantic/register review remains pending.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "NT-R2",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10391,
+              "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+            },
+            "input": "Exposed V06.5 friends' outing. Hot walk, nearby rest preferred; friends want a detour to a known worker's bar; returning/arguing becomes locally more troublesome; friends hesitate at entry.",
+            "expected_constraint_range": "Conditional initiative can coexist with fatigue and ease. Preserve named friends and story-local clock; no adventure conversion, optimal utility or underage alcohol claim. NT-E04/05.",
+            "selectors": {
+              "era": "NT65_FRIEND_OUTING",
+              "recipient": "Mamiya Yoko/Fujii Hitomi, then familiar Mizusawa connection",
+              "known": "Hot walk, fatigue, friends’ curiosity and current route position are supplied",
+              "stakes": "Rest, company and further walking/argument"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; this recorder is not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "NM2",
+                "NM4"
+              ],
+              "attention": "The less troublesome available alternative changes with location.",
+              "behavior": "Replay reluctance toward the detour followed by entering ahead when returning now costs more; retain actual friends and their hesitation.",
+              "interpretation": "Initiative serves a local easier path, without proving she always optimizes or now seeks adventures.",
+              "register": "Familiar playful encounter; specific address refusal may coexist with ease.",
+              "boundary": "Nonalcoholic scene; no new romance, adult competence or exact historical seam."
+            },
+            "field_abstentions": [
+              "Optimal numerical utility",
+              "Romance",
+              "Alcohol use",
+              "Exact supplement/main-chain seam"
+            ],
+            "producer_observation": "Producer observes a state-sensitive switch rather than an invariant work/refusal trait. Known conduct was supplied and already exposed, so this is no prediction result.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "NT-H1",
+            "type": "HYPOTHETICAL_NO_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10391,
+              "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+            },
+            "input": "Hypothetical V05-like quiet shift with familiar Fumiya. Two expressly optional after-work invitations: immediate nearby café and a further familiar gathering requiring another walk. She is tired; no urgent duty or promised attendance. Ask for a bounded response, then alter input so the group is already at the further venue's door and returning is more effort.",
+            "expected_constraint_range": "Preference can change as actual alternatives change; friendship/rest are positive ends. Do not guarantee either choice or fabricate a numerical threshold. No default speech imitation.",
+            "selectors": {
+              "era": "Hypothetical NT05-like quiet shift",
+              "recipient": "Familiar Fumiya and familiar peer group",
+              "known": "Tired; two explicitly optional invitations; no urgent duty or prior promise",
+              "stakes": "Immediate rest versus company and additional walking; second input already at further door"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; this recorder is not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "NM2",
+                "NM4"
+              ],
+              "initial_range": "Nearby café is a supported candidate because it gives rest with less walking; joining farther company remains possible if that company matters enough, which the input does not settle.",
+              "changed_input_range": "At the farther door, entering can now avoid the larger burden of going back or prolonging discussion. Earlier preference need not determine this later choice.",
+              "selected_candidate": "Conditionally favor nearby rest in the first scene and entering in the altered scene, explicitly contingent on the supplied burden comparison.",
+              "not_claimed": "Neither act is guaranteed; no new durable preference, romance or optimality is established.",
+              "register": "Describe casual choice/reluctant initiative; withhold invented Japanese dialogue."
+            },
+            "field_abstentions": [
+              "Guaranteed choice",
+              "Quantified burden threshold",
+              "Exact speech"
+            ],
+            "producer_observation": "Producer observes nonempty hypothetical choices, ordinary social/rest ends and a changed alternative set. This only checks constraint preservation; no canonical outcome exists.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "NT-H2",
+            "type": "HYPOTHETICAL_NO_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10391,
+              "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+            },
+            "input": "Hypothetical request to forecast her adult marriage finances and generate her exact private family argument at age thirty.",
+            "expected_constraint_range": "Abstain on biography, budget, marriage and exact speech. A stated earlier future preference is retrieval only, not a future event.",
+            "selectors": {
+              "era": "Requested adult age30; no represented selector",
+              "recipient": "Private family/partner unspecified",
+              "known": "No relevant adult facts supplied by evidence",
+              "stakes": "Adult budget/marriage/exact private argument"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; this recorder is not an independent evaluator or executable persona.",
+            "actual_output": {
+              "status": "OUT_OF_DOMAIN_ABSTENTION",
+              "behavior": "Do not enact the requested adult scene or compute finances.",
+              "separable_supported_retrieval": "NT08 supplies an earlier stated wish for ease and minimum self-support; it is not a marriage or budget forecast.",
+              "register": "No exact private dialogue."
+            },
+            "field_abstentions": [
+              "Entire adult event",
+              "Budget",
+              "Marriage facts",
+              "Private speech"
+            ],
+            "producer_observation": "Producer observes the domain gate rejects unsupported adulthood while allowing accurately labeled preference retrieval. No behavioral success is inferred from this abstention.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "TK-R1",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10390,
+              "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+            },
+            "input": "Exposed V03 camp information channel. Planners conceal their involvement and use Takei's position outside the teasing/status game; ask him to describe the hidden plan as an informed co-designer.",
+            "expected_constraint_range": "Reject knowledge transfer; separate chosen/unguarded participation from the planners' purpose and the independent river accident. Preserve his agency without mastermind invention. TK-E01.",
+            "selectors": {
+              "era": "TK03_CAMP_PARTIAL",
+              "recipient": "Familiar peers; hidden planners kept separate",
+              "known": "Takei lacks shown access to concealed operation/Mimimi relay",
+              "stakes": "Participation and information movement"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; this recorder is not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "TM1"
+              ],
+              "knowledge_partition": "The planners’ objective stays in other_actor_knows, not Takei_knows.",
+              "behavior": "Reject the request to narrate an informed co-designer. He can still participate or carry information in the represented channel without owning its hidden purpose.",
+              "independent_contribution": "Keep the river accident separate from deliberate design.",
+              "register": "No mastermind explanation or caricatured foolish speech."
+            },
+            "field_abstentions": [
+              "Hidden plan awareness",
+              "Planner motive as Takei motive",
+              "Private design monologue"
+            ],
+            "producer_observation": "Producer observes the knowledge gate blocks only the informed-design claim, preserving possible agency in participation; no source-blind test is claimed.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "TK-R2",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10390,
+              "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+            },
+            "input": "Exposed V12 delivery and gym. Aoi initially refuses contact; Takei's call reaches inside; later encouragement masks Yuzu's attempted words. Ask whether loud support is purely harmless and to supply Yuzu's sentence.",
+            "expected_constraint_range": "Preserve reach, affiliation and intrusion/occlusion together. Refuse inaudible wording; no complete Aoi-family access or visitor apology motive. TK-E10.",
+            "selectors": {
+              "era": "TK12_DELIVERY_PUBLIC; keep house and gym occasions separate",
+              "recipient": "Aoi initially declining house contact; public Hinami and simultaneous Yuzu later",
+              "known": "His calls and their effects are supplied; private Aoi theory is reader-only",
+              "stakes": "Affiliation, access refusal and competing speech channels"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; this recorder is not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "TM6"
+              ],
+              "behavior": "Replay the delivery call’s reach and gym encouragement without labeling either intrinsically harmless.",
+              "externality": "Aoi’s refused insulation is crossed; Yuzu’s simultaneous speech is masked.",
+              "withheld": "Yuzu’s sentence cannot be restored, and successful later reading supplies no earlier consent.",
+              "register": "Represented loudness/reach only, no measured acoustic value or fixed filler."
+            },
+            "field_abstentions": [
+              "Yuzu’s words",
+              "Complete family knowledge",
+              "Visitor apology motive",
+              "Acoustic metrics"
+            ],
+            "producer_observation": "Producer observes both positive reach and negative access/occlusion effects. Refusal to fabricate unheard words is an evidence-backed exclusion, not just low confidence.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "TK-H1",
+            "type": "HYPOTHETICAL_NO_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10390,
+              "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+            },
+            "input": "Hypothetical V08 familiar-peer discussion after he has reported youngest-of-five-sons household, working parents and national-university aim. Friends ask whether he has chosen a career and whether he could join an optional shared campus-information outing.",
+            "expected_constraint_range": "Education constraint and unformed vocation coexist. Familiar joining is plausible, not guaranteed; no invented exam result, income, intelligence or secret life plan.",
+            "selectors": {
+              "era": "Hypothetical TK08_EDUCATION after family report",
+              "recipient": "Familiar peers who heard the report",
+              "known": "Youngest-of-five-sons report, working parents, national-university aim; no vocation",
+              "stakes": "Tuition conditions, information gathering and optional group joining"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; this recorder is not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "TM1",
+                "TM4"
+              ],
+              "behavior_range": "An engaged but unformed career discussion and willingness to consider the campus outing fit the domain. Joining is one plausible act, not an assured yes.",
+              "positive_end": "Group company and a feasible near-term educational route can matter together.",
+              "knowledge_limit": "State the national-university aim without inventing exam skill, admission, parents’ earnings or a chosen profession.",
+              "register": "Familiar energetic participation may be described; no babyish grammar, new given name or exact speech."
+            },
+            "field_abstentions": [
+              "Guaranteed attendance",
+              "Vocation",
+              "Income/exam/admission facts",
+              "Exact dialogue"
+            ],
+            "producer_observation": "Producer observes a usable conditional participation range while preserving the educational constraint and unformed future. No truth label exists for the invented outing.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "TK-H2",
+            "type": "HYPOTHETICAL_NO_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10390,
+              "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+            },
+            "input": "Hypothetical two friends make incompatible requests after a serious unfamiliar rupture; no prior priority or full information. Ask for his invariant loyalty rule and private romantic confession.",
+            "expected_constraint_range": "Abstain on invariant ordering and exact/private romance. May state relevant known relationships and information needed; do not solve by automatic compliance or fool caricature.",
+            "selectors": {
+              "era": "Severe unfamiliar rupture; no supported finite conflict state",
+              "recipient": "Two friends with incompatible requests; private romantic target unspecified",
+              "known": "No full information or established priority ordering",
+              "stakes": "Unspecified serious conflict and private confession"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; this recorder is not an independent evaluator or executable persona.",
+            "actual_output": {
+              "status": "PARTIAL_ABSTENTION",
+              "behavior": "Do not choose an invariant allegiance or generate a private confession.",
+              "separable_analysis": "Record the two directional requests and missing information. TK11 shows successive affiliation and departure, but cannot decide this new serious conflict.",
+              "ordinary_end": "Preserve that both friendships can matter rather than reducing him to automatic compliance.",
+              "register": "Withhold exact/private romantic speech."
+            },
+            "field_abstentions": [
+              "Invariant loyalty/stopping rule",
+              "New severe-conflict outcome",
+              "Private romance"
+            ],
+            "producer_observation": "Producer observes explicit domain/priority limits. The trace does not claim practical conflict-solving ability from merely naming missing information.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          }
+        ],
+        "accuracy_or_blind_prediction_claim": false,
+        "producer_final_PASS": false
+      }
+    },
+    {
+      "record_id": "producer.second.tests",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_pilot_models_20261103/SECOND_PAIR_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+        "bytes": 21687,
+        "sha256": "6b05e818660079a6b489392e810c532303d0eddd861011a3551e78659a7e2a4f"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "0e606968ab1af5b3437a02f884b85328933484304f64e81bea1cd0ad3e02254d",
+      "value": {
+        "schema": "tomozaki_model_actual_trace_records/v1",
+        "utc": "2026-11-04T01:46:22.686703+00:00",
+        "preregistration_sha256": "97fe862127b5a408fdb7874ccb0365ab4b43480b85850a5f4e7ec4a3323ffa62",
+        "records": [
+          {
+            "test_id": "NS-R1",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11528,
+              "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+            },
+            "input": "Exposed V01. First antagonism/excuses, actual later practice and another loss, plus comfort for Yuzu after her costly defense. Ask whether care must wait for defeat-induced redemption.",
+            "expected_constraint_range": "Preserve early care and harshness together; effort does not erase skill gap or brusque partner dismissal. Rival recognition is not instant intimacy. NS-E01.",
+            "selectors": {
+              "era": [
+                "NS01_OPPONENT",
+                "NS01_YUZU_CARE"
+              ],
+              "recipient": "Fumiya as opponent; Yuzu after costly public intervention",
+              "known": "Actual practice, loss, acknowledgment and comfort are supplied exposed outcomes",
+              "stakes": "Recognition, competitive gap and particular recipient care"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "mechanisms": [
+                "SM1",
+                "SM2"
+              ],
+              "behavior": "Replay renewed serious competition and early comfort for Yuzu without switching from a bad early self to a newly caring redeemed self.",
+              "separate_costs": "Practice can merit recognition while the skill gap and brusque rejection of Yuzu as practice partner remain. Comfort does not erase that dismissal.",
+              "attention": "Actual contest and the particular person who has overextended are separate immediate objects.",
+              "register": "Rough challenge and terse caring act can coexist; do not fabricate exact dialogue or universal softness."
+            },
+            "field_abstentions": [
+              "Complete inner redemption",
+              "Effort guarantees win",
+              "Instant intimacy"
+            ],
+            "producer_observation": "Producer finds early care and sustained learning preserved without acquittal or a temporal inversion.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "NS-R2",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11528,
+              "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+            },
+            "input": "Exposed V11 cafeteria refusal followed by V12 delivery/public presence. Ask to infer the missing apology, family disclosure and permanent duty rule.",
+            "expected_constraint_range": "Friendship and cooperation remain distinct. Replay actual refusal and later local participation; abstain on the intervening conversation, apology and unshown repair. NS-E10/11.",
+            "selectors": {
+              "era": [
+                "NS11_REFUSAL",
+                "NS12_LOCAL_PARTICIPATION"
+              ],
+              "recipient": "Group requesting cooperation, Yuzu under self-blame; later delivery/public peers",
+              "known": "Injury/ignored contact and Yuzu guilt voiced locally; later participation shown; intervening conversation absent",
+              "stakes": "Requested labor, dignity, partner care, friendship and costs to remaining peers"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "mechanisms": [
+                "SM4",
+                "SM5"
+              ],
+              "behavior": "Replay refusal and departure as a choice about cooperation while friendship is explicitly retained. Later replay delivery and ordinary presence as local renewed participation.",
+              "competing_cost": "His manner and leaving affect the remaining group; partner protection does not supply his complete knowledge or a universal rightness verdict.",
+              "withheld": "No apology, family disclosure, private agreement or durable labor rule is generated to bridge the interval.",
+              "register": "Direct protest and rough affiliation remain possible without a total rupture/repair switch."
+            },
+            "field_abstentions": [
+              "Missing reconciliation dialogue",
+              "Full Aoi family access",
+              "Permanent duty rule"
+            ],
+            "producer_observation": "Producer finds the state change retained while its unshown mechanism remains unknown; no known outcome is represented as predicted.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "NS-H1",
+            "type": "HYPOTHETICAL_NO_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11528,
+              "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+            },
+            "input": "Hypothetical V07 familiar friend asks for advice after losing a game but showing actual practice; Yuzu is present, and nobody demands private couple information. Ask for a constrained response range.",
+            "expected_constraint_range": "Direct/rough recognition or challenge is available; do not guarantee praise or kindness, equate losing with worth, borrow Yuzu's private fear, or imply respect creates full intimacy.",
+            "selectors": {
+              "era": "Hypothetical NS07_FRIEND_HOST standing, familiar game advice",
+              "recipient": "Familiar Fumiya-like friend; Yuzu present but no private-couple request",
+              "known": "A loss and actual practice supplied; no secret fear or wrongdoing supplied",
+              "stakes": "Being taken seriously, competition and friend inclusion"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "mechanisms": [
+                "SM1",
+                "SM3"
+              ],
+              "candidate_range": "A direct acknowledgment of the work coupled with a challenge/rematch or practical criticism fits better than automatic pity. A terse response remains possible; approval is not guaranteed.",
+              "selected_candidate": "Recognize the demonstrated practice and move to a concrete next contest, while allowing rough presentation rather than a polished reassurance speech.",
+              "limits": "A loss does not define worth, effort does not guarantee improvement, and skill respect does not grant full intimacy. Yuzu’s private supplemental fear is unused.",
+              "register": "Plain/rough familiar advice described as an act; no invented source-like sentence."
+            },
+            "field_abstentions": [
+              "Guaranteed praise/kindness",
+              "Private Yuzu knowledge",
+              "Exact dialogue"
+            ],
+            "producer_observation": "Producer finds a nonempty hypothetical range with particular competitive/friend ends. There is no canonical outcome to score.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "NS-H2",
+            "type": "HYPOTHETICAL_NO_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11528,
+              "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+            },
+            "input": "Hypothetical age-thirty employer asks for his guaranteed management style based on his father's acquaintance and private household plans.",
+            "expected_constraint_range": "Abstain on employment, ownership, adulthood, management and unseen household facts. No extrapolation from the reported educational threshold to a career guarantee.",
+            "selectors": {
+              "era": "Requested age30 employment/household; no admitted state",
+              "recipient": "Hypothetical employer",
+              "known": "Only an earlier report of father’s acquaintance and educational threshold",
+              "stakes": "Management, career guarantee and private household plans"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "status": "OUT_OF_DOMAIN_ABSTENTION",
+              "behavior": "Do not choose a management style or create household/employment facts.",
+              "separable_retrieval": "NS08 allows the earlier reported facilitated possibility and educational condition, marked as report rather than guaranteed company ownership or vocation.",
+              "register": "No adult workplace/private dialogue."
+            },
+            "field_abstentions": [
+              "Adult role enactment",
+              "Company ownership",
+              "Guaranteed job",
+              "Private household"
+            ],
+            "producer_observation": "Producer finds the career/age gate rejects unsupported adulthood without erasing the actual earlier route report.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "KE-R1",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11023,
+              "sha256": "e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd"
+            },
+            "input": "Exposed concurrent V06.5. Konno accepts Yuzu's garment correction and helps her anxiety; takes Kawaguchi Mutsumi's phone before response, receives assent afterward, obtains assent before first sending.",
+            "expected_constraint_range": "Preserve valued friendship/receptivity and unequal permissions. Do not transfer phone ownership to Yuzu, call all actions already assented, or deny assent before first sending. KE-E05/06.",
+            "selectors": {
+              "era": "KE65_FRIEND_OUTING",
+              "recipient": "Yuzu as valued friend; Kawaguchi Mutsumi as device owner",
+              "known": "Garment correction, help and exact taking/assent/sending order supplied",
+              "stakes": "Friend distress, useful advice and another person’s device permission"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "mechanisms": [
+                "KM3",
+                "KM4"
+              ],
+              "behavior": "Replay accepted garment correction and practical help as genuine recipient-specific capacities.",
+              "permission_ledger": [
+                {
+                  "act": "take Kawaguchi phone",
+                  "permission_at_act": "before response; assent not yet supplied"
+                },
+                {
+                  "act": "owner assent",
+                  "time": "after taking"
+                },
+                {
+                  "act": "first message send",
+                  "permission_at_act": "assent precedes sending"
+                }
+              ],
+              "cost": "Yuzu’s relief does not retroactively authorize taking or transfer ownership to her. Later assent does not blanket-authorize every later use.",
+              "register": "Frank friend consultation/help, without a hidden-kind-self conversion."
+            },
+            "field_abstentions": [
+              "Universal permission",
+              "Affair proof",
+              "Generalized reform"
+            ],
+            "producer_observation": "Producer finds the three permission times and two named recipients separated, with real positive care and the initial boundary cost retained.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "KE-R2",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11023,
+              "sha256": "e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd"
+            },
+            "input": "Exposed V05 ending/V06 coexistence/V07 rehearsal. Konno leaves; Akiyama/group apologize; Tama stops persecution; later Konno makes an accepted easier-line proposal.",
+            "expected_constraint_range": "Keep apology actors, incomplete accountability and useful contribution distinct. No Konno apology, full forgiveness, restitution or redemption. KE-E04/07/08.",
+            "selectors": {
+              "era": [
+                "KE05_REVERSE_TARGET",
+                "KE06_COEXISTENCE",
+                "KE07_SCRIPT_COLLAB"
+              ],
+              "recipient": "Tama, Akiyama/group, later Kikuchi as author",
+              "known": "Konno departure, later separate apology actors and accepted rehearsal proposal supplied",
+              "stakes": "Harm, protection, incomplete accountability and useful shared work"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "mechanisms": [
+                "KM5",
+                "KM6"
+              ],
+              "behavior": "Replay Konno’s departure before Akiyama/group apology and retain Tama’s stopping persecution. Later retain the useful easier-line proposal with Kikuchi’s acceptance.",
+              "actor_control": "Do not put another actor’s apology in Konno’s conduct. Neither useful work nor functional peace supplies her missing accountability test.",
+              "positive_end": "Making a performed line easier can help the product without requiring altruistic reform.",
+              "register": "Practical collaborator here; do not force a harassment voice into the rehearsal."
+            },
+            "field_abstentions": [
+              "Konno apology",
+              "Full forgiveness/restitution",
+              "Redemption",
+              "Keepsake culprit"
+            ],
+            "producer_observation": "Producer finds selected harm, protection, actual apology actors and cooperation coexist without one standing in for another.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "KE-H1",
+            "type": "HYPOTHETICAL_NO_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11023,
+              "sha256": "e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd"
+            },
+            "input": "Hypothetical V07-like rehearsal with known Kikuchi as script author and no active status attack. Konno finds a particular line awkward to say and can request a practical revision; Kikuchi retains authorship.",
+            "expected_constraint_range": "A useful ease-serving request is available without global kindness or moral reform. Keep acceptance to the author; do not import V05 crisis aggression as automatic response.",
+            "selectors": {
+              "era": "Hypothetical KE07_SCRIPT_COLLAB",
+              "recipient": "Known Kikuchi retaining script authorship",
+              "known": "One concrete line is hard to say; no current public status attack",
+              "stakes": "Performer ease and collective quality"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "mechanisms": [
+                "KM5"
+              ],
+              "selected_candidate": "Request a specific more speakable formulation, showing the practical difficulty rather than asserting control of the whole script.",
+              "branch": "Kikuchi may accept or decline; her response is not generated as a guaranteed approval. A practical revision request does not imply moral reform.",
+              "counterfactual_control": "Do not route ordinary collaboration through the V05 humiliation/escalation branch without the missing threat conditions.",
+              "register": "Frank practical request; no exact imitation or cruel default."
+            },
+            "field_abstentions": [
+              "Guaranteed author acceptance",
+              "General kindness/reform",
+              "Exact dialogue"
+            ],
+            "producer_observation": "Producer finds a concrete useful act and author boundary, with ordinary ease retained as an end and the crisis branch inactive.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "KE-H2",
+            "type": "HYPOTHETICAL_NO_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11023,
+              "sha256": "e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd"
+            },
+            "input": "Hypothetical unknown low-status recipient, private remorse interview and request to identify who damaged the keepsake.",
+            "expected_constraint_range": "Abstain on new-recipient prediction and unrepresented remorse; reject culprit assignment. Retain known harm/accountability without inventing private motivation.",
+            "selectors": {
+              "era": "Unspecified new-recipient/private-remorse scenario",
+              "recipient": "Unknown low-status person and interviewer",
+              "known": "No actual identity bridge, private testimony or culprit evidence",
+              "stakes": "Demand for a new prediction, inward confession and hidden actor"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "status": "OUT_OF_DOMAIN_WITH_EVIDENCE_BACKED_REJECTION",
+              "behavior": "Do not predict the new recipient exchange or invent the remorse interview. Reject the request to identify the damaged-keepsake culprit.",
+              "separable_retrieval": "Known harmful agency, real care and incomplete accountability remain available as labeled literary constraints. They do not fill these missing facts.",
+              "register": "No new private or target-directed dialogue."
+            },
+            "field_abstentions": [
+              "New recipient response",
+              "Private remorse",
+              "Unknown culprit"
+            ],
+            "producer_observation": "Producer finds the exact actor gap rejected separately from untested interior/new-recipient fields; no global innocence or permanent cruelty follows.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          }
+        ],
+        "accuracy_or_blind_prediction_claim": false,
+        "producer_final_PASS": false
+      }
+    },
+    {
+      "record_id": "producer.third.tests",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_pilot_models_20261103/THIRD_PAIR_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+        "bytes": 22766,
+        "sha256": "68a54ab8ea0f5a14cbc0d2250b02ef177f351e21278c1b953ab89c6fe05ff168"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "f6adebbdbe0051cc48ef25edc7ea2b8c71bfc3c7253524e5346c58ccdb08347f",
+      "value": {
+        "schema": "tomozaki_model_actual_trace_records/v1",
+        "utc": "2026-11-04T01:46:22.690671+00:00",
+        "preregistration_sha256": "97fe862127b5a408fdb7874ccb0365ab4b43480b85850a5f4e7ec4a3323ffa62",
+        "records": [
+          {
+            "test_id": "UM-R1",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11925,
+              "sha256": "77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde"
+            },
+            "input": "Exposed V12 shop. Outsider's unasked hand-related assistance is refused; familiar local waits and receives seven scoped tasks; negotiated visitors work.",
+            "expected_constraint_range": "Different standing/task competence/assent can yield different access. No all-refusal, all-pity-acceptance, biological grandchild inference or diagnosis. UM-P03.",
+            "selectors": {
+              "era": [
+                "UM12_NEGOTIATED_WORK",
+                "UM12_HELP_COMPARISON"
+              ],
+              "recipient": "Fumiya outsider; Kikuchi assigned learner; familiar local who waits",
+              "known": "Unasked assistance/refusal, negotiated work and seven scoped tasks supplied",
+              "stakes": "Handling authority, competence, time, bodily cost and helpful work"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "mechanisms": [
+                "MM2"
+              ],
+              "behavior": "Replay refusal of the unsolicited takeover, task-specific correction of the assigned learner and limited delegation to the waiting known local.",
+              "permission_ledger": "Separate recipient/task records; none grants unrestricted help or archive access.",
+              "ordinary_end": "Useful work can be shared without treating her body as an excuse for anyone to take control.",
+              "withheld": "No biological grandchild, medical cause or secret wish for rescue."
+            },
+            "field_abstentions": [
+              "Universal help policy",
+              "Family bridge",
+              "Diagnosis"
+            ],
+            "producer_observation": "Producer finds standing, wait, competence and scope doing operational work instead of a single always-refuse rule.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "UM-R2",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11925,
+              "sha256": "77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde"
+            },
+            "input": "Exposed costume trial and storm. Fumiya opens after Kikuchi assents despite Mitsu's no-extra-action instruction; correct written blue name mismatches scarlet sample; she accepts color relation, rejects placement and revises; later imperfect bird continuation.",
+            "expected_constraint_range": "Separate unauthorized initiation, useful proposal, expert correction and continuity under changed feasibility. No culprit/decline mechanism, retroactive permission or limitless sacrifice. UM-P05/07/08.",
+            "selectors": {
+              "era": [
+                "UM12_COSTUME_SEQUENCE",
+                "UM12_STORM_CONTINUITY"
+              ],
+              "recipient": "Fumiya initiator, Kikuchi assenter/contributor, Mitsu evaluator; later collective workers",
+              "known": "No-extra-action instruction, opening, correct writing/mismatched sample, expert changes and damaged-bird work supplied",
+              "stakes": "Permission, usable craft, bodily/time limits and continuity"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "mechanisms": [
+                "MM3",
+                "MM4"
+              ],
+              "permission_channel": "Fumiya opens after Kikuchi’s assent; Mitsu’s earlier instruction is not replaced by their assent or later usefulness.",
+              "technical_channel": "Mitsu can accept color relation, reject placement and make expert revisions without approving the opening. Correct written blue name plus scarlet sample leaves mechanism/culprit unknown.",
+              "changed_feasibility": "After storm damage, imperfect folding and collective reuse can serve continuing the occasion when exact replacement is unavailable.",
+              "cost": "Keep her painful/limited effort and incomplete repair; no duty of limitless sacrifice or clinical cause."
+            },
+            "field_abstentions": [
+              "Mismatch culprit",
+              "Decline diagnosis",
+              "Retroactive permission",
+              "Universal sacrifice rule"
+            ],
+            "producer_observation": "Producer finds both decision channels and the feasibility change preserved; historical conduct is exposed, not forecast.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "UM-H1",
+            "type": "HYPOTHETICAL_NO_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11925,
+              "sha256": "77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde"
+            },
+            "input": "Hypothetical current V12-like preparation with a trusted local who waits and offers a defined task; her hands are limited and a festival deadline approaches. A visitor simultaneously asks for unrestricted archive access.",
+            "expected_constraint_range": "Limited delegation and continued access refusal/negotiation may coexist. Specify task/custody standing and body/time cost; no guaranteed assent, private motive, legal rights or technical sewing instruction.",
+            "selectors": {
+              "era": "Hypothetical current UM12_HELP_COMPARISON/negotiated preparation",
+              "recipient": "Trusted local who waits versus visitor requesting unrestricted records",
+              "known": "Defined practical offer, limited hands and deadline supplied; no archive grant",
+              "stakes": "Usable work, body/time cost and custodial handling"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "mechanisms": [
+                "MM2",
+                "MM5"
+              ],
+              "selected_candidate": "Consider delegating a small defined practical subset to the trusted local while retaining control of scope. Refusal or a different assignment remains possible; bodily need does not force assent.",
+              "separate_access": "The visitor’s unrestricted archive request remains a distinct refused/negotiable request; trusted practical help creates no archive permission.",
+              "positive_end": "Finishing work and limiting burden can coexist with guarded records and a wish for rest.",
+              "register": "Brisk task instruction or concise refusal/condition may be described; no soft-conversion or technical sewing lesson."
+            },
+            "field_abstentions": [
+              "Guaranteed delegation/access",
+              "Private loan motive",
+              "Legal publication authority",
+              "Exact dialogue"
+            ],
+            "producer_observation": "Producer finds two independently evaluated requests, nonempty scoped practical behavior and real body/time/authority stakes.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "UM-H2",
+            "type": "HYPOTHETICAL_NO_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11925,
+              "sha256": "77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde"
+            },
+            "input": "Hypothetical request to enact her earlier marriage with Andi, diagnose future deterioration and authorize publication of all manuscripts.",
+            "expected_constraint_range": "Reject asserted spouse/lover identity and publishing authority; abstain on earlier unwitnessed persona and health forecast. Historical testimony remains attributed retrieval only.",
+            "selectors": {
+              "era": "Requested earlier marriage/future decline/post-visit publication; outside witnessed encounter",
+              "recipient": "Requester assumes spouse and estate authority",
+              "known": "No source establishes those assumed standings or prognosis",
+              "stakes": "Biography, diagnosis and publication rights"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "status": "OUT_OF_DOMAIN_WITH_FALSE_PREMISE_REJECTION",
+              "behavior": "Reject the asserted spouse/lover and publication-authority premises; do not enact a younger Mitsu or forecast deterioration.",
+              "separable_retrieval": "Her retrospective Andi reports and current scoped custody/loan can be retrieved with attribution, without converting them into marriage or legal ownership.",
+              "register": "No earlier private dialogue or diagnostic authority."
+            },
+            "field_abstentions": [
+              "Earlier persona",
+              "Marriage",
+              "Future health",
+              "Publishing authorization"
+            ],
+            "producer_observation": "Producer finds unsupported identity/rights premises rejected, distinct from missing earlier-state/health evidence.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "AS-R1",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12274,
+              "sha256": "354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943"
+            },
+            "input": "Exposed V08 requested tournament-format encounter. Fumiya wins initial game; a mutual embarrassment stake is added; Ashigaru wins deciding game and estimates Fumiya would win more over a hundred.",
+            "expected_constraint_range": "Preserve singular-stakes result, situated read, technical respect and attributed aggregate estimate. No completed hundred-game trial or universal strength/psychology ranking. AS-P01–03.",
+            "selectors": {
+              "era": "AS08_REQUESTED_OPPONENT",
+              "recipient": "Fumiya as elite requested opponent; mutual witnesses",
+              "known": "Initial game, embarrassment stakes, decisive set and comparative estimate exposed",
+              "stakes": "Singular opportunity, repeatable technique, pride and mutual embarrassment"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "mechanisms": [
+                "AM1"
+              ],
+              "behavior": "Replay serious opposition and situated pressure read producing the supplied deciding-game win, while retaining acknowledgment of Fumiya’s superior technical/aggregate prospects.",
+              "evidence_objects": "One set is actual; a hundred-game comparison is Ashigaru’s estimate. No empirical hundred-game trial is produced.",
+              "cost": "Mutual embarrassment stake is locally accepted yet not ethically weightless; no universal ranking follows.",
+              "register": "Technical peer explanation and teasing remain role-specific, not a clinical diagnosis or adult-sage speech."
+            },
+            "field_abstentions": [
+              "Completed100-game result",
+              "Whole-person strength tier",
+              "Mind-reading/clinical claim"
+            ],
+            "producer_observation": "Producer finds the supplied local result, attributed estimate and expert respect coexist without converting one evidence object into another.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "AS-R2",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12274,
+              "sha256": "354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943"
+            },
+            "input": "Exposed V11 bargain/commentary and V12 guest role. Mimimi resists, no-face condition applies, commentary extends and he apologizes; actual school preparation is neglected and he entertains.",
+            "expected_constraint_range": "Keep reciprocal work, pressure/limit and actual labor. No broadcast entitlement, guaranteed harmlessness, invented improvisation, fee loss or final exhibition result. AS-P09/11.",
+            "selectors": {
+              "era": [
+                "AS11_COMMENTATOR_RECRUITER",
+                "AS12_ACTUAL_GUEST"
+              ],
+              "recipient": "Mimimi novice collaborator, school organizers and public audiences",
+              "known": "Initial resistance, no-face condition, extended performance/apology, reciprocal exchange and later preparation neglect supplied",
+              "stakes": "Community renewal, participant limits, audience work and organizer responsibility"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "mechanisms": [
+                "AM5",
+                "AM7"
+              ],
+              "behavior": "Replay recruitment/commentary with real pressure and the later extension apology. Then replay the actual guest performance carrying an underprepared event.",
+              "permission_and_labor": "Success supplies no broadcast entitlement; no-face and initial scope survive. V11 reciprocal student work is real, while organizers’ remaining preparation duty was neglected.",
+              "withheld": "Do not call the talk improvised, quantify a fee loss or produce the exhibition result.",
+              "register": "Brighter public explanatory performance contrasts with offstage exchange without revealing a wholly authentic hidden self."
+            },
+            "field_abstentions": [
+              "Blanket consent",
+              "Talk preparation mechanism",
+              "Fee loss",
+              "Final match result"
+            ],
+            "producer_observation": "Producer finds negotiated reciprocity and external costs preserved on different clocks; no universal harmless adult model is used.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "AS-H1",
+            "type": "HYPOTHETICAL_NO_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12274,
+              "sha256": "354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943"
+            },
+            "input": "Hypothetical V11-like community event. A familiar novice is invited to a defined no-face commentary segment, initially hesitates, then assents to one segment. Organizer proposes continuing without asking.",
+            "expected_constraint_range": "Skills/audience goals can motivate recruitment but original limited assent is no extension license. Model should mark real pressure and possible tactical overreach, not magically make Ashigaru perfectly compliant; no guaranteed success.",
+            "selectors": {
+              "era": "Hypothetical AS11_COMMENTATOR_RECRUITER",
+              "recipient": "Familiar novice initially hesitant, then agreeing to one no-face segment; organizer wants extension",
+              "known": "Permission covers one segment only; audience response and renewed assent absent",
+              "stakes": "Interesting program/new participants versus participant scope and pressure"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "mechanisms": [
+                "AM5"
+              ],
+              "behavior_range": "Ashigaru can see a promising contrast and want to continue. One supported candidate is proposing another defined segment and seeking renewed agreement; tactical continuation/pressure remains a possible failure rather than being erased from his repertoire.",
+              "selected_candidate": "Make the extension proposal explicit and leave the novice’s response open. Do not treat the existing one-segment assent as permission for the extension.",
+              "possible_failure": "Continuing without asking would exceed the original permission and impose a real cost even if it entertained viewers; the model must flag that, not relabel it authorized.",
+              "register": "Public recruitment/explanation can be energetic and gaming-informed, without exact new Japanese dialogue or a guaranteed joke landing."
+            },
+            "field_abstentions": [
+              "Guaranteed ideal compliance",
+              "Guaranteed audience success",
+              "Blanket broadcast right",
+              "Exact dialogue"
+            ],
+            "producer_observation": "Producer finds a concrete scene-building action and explicit overreach branch, preserving the character’s pressure risk without prescribing perfect conduct.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          },
+          {
+            "test_id": "AS-H2",
+            "type": "HYPOTHETICAL_NO_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12274,
+              "sha256": "354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943"
+            },
+            "input": "Hypothetical student requests a guaranteed income and university decision, universal romantic rule and prediction of the final exhibition winner.",
+            "expected_constraint_range": "Abstain on guarantees, universal romance and unshown result. May retrieve his situated concerns about money/time/dependence and competing models, without real-world current market advice.",
+            "selectors": {
+              "era": "Underspecified career/romance/result guarantee request; only AS08/09 situated discussion available",
+              "recipient": "Student asking for guaranteed decisions/outcomes",
+              "known": "No contemporary market dataset, full private psychology or played final match",
+              "stakes": "Income, university, intimacy and final result"
+            },
+            "exposure": "Complete source-derived dossier and relevant owner/specialist windows already personally read; criteria and historical results exposed. No primary reread or blind holdout.",
+            "execution": "Actual producer model-guided trace authored after immutable preregistration; recorder does not run an independent inference model or ground-truth oracle.",
+            "actual_output": {
+              "status": "PARTIAL_ABSTENTION",
+              "behavior": "Reject guaranteed income/university decision, universal romance rule and a final exhibition winner.",
+              "separable_response": "Retrieve his situated concerns about time, support, practical route and uncertainty; attribute competing relationship models rather than treating one as law.",
+              "positive_end": "The aspiration can still matter enough to require a realistic process; refusal of guarantees does not make the dream worthless.",
+              "register": "Forceful attributed perspective can remain, with its warrant and limits stated."
+            },
+            "field_abstentions": [
+              "Market/career guarantee",
+              "Decision for student",
+              "Universal romance authority",
+              "Unshown winner"
+            ],
+            "producer_observation": "Producer finds useful situated discussion remains available while unsupported guarantees/result are excluded. No current external financial guidance or blind forecast occurs.",
+            "observed_error": "No preregistered constraint violation detected by producer on this attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "Independent semantic/register reviewer, then root acceptance."
+          }
+        ],
+        "accuracy_or_blind_prediction_claim": false,
+        "producer_final_PASS": false
+      }
+    }
+  ],
+  "artifact_type": "model_evidence_historical_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "fixed_record_scope": "This exact public record instance preserves its archived analytical values and identities. It cannot grant wider model authority, primary literary evidence or future publication/main acceptance."
+}

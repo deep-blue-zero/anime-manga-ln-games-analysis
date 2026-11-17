@@ -1,0 +1,453 @@
+{
+  "schema": "KONOSUBA_YORI03_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+  "source_id": "YORI-03",
+  "accepted_utc": "2026-10-19T02:33:28.359773+00:00",
+  "native_filename": "Konosuba - Short Stories - Yorimichi 3.epub",
+  "native_bytes": 8547808,
+  "native_sha256": "f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "12040c12ed763ce92a79672af51c70b99dde00b5e4099016eb17b43de5347563",
+  "language": [
+    "ja"
+  ],
+  "colophon": "この素晴らしい世界に祝福を！ よりみち３回目！. Author暁なつめ;illustration三嶋くろね;角川スニーカー文庫/KADOKAWA;publisher山下直久. Electronic2023-09-29/ver.001;underlying print first edition2023-10-01;copyrightNatsumeAkatsuki/KuroneMishima2023.",
+  "admission_sha256": "f68b6fdbf751bffe1463ab4e47722519395e6c01e0a363598e71f49f5242cf30",
+  "admission_utc": "2026-10-19T01:33:26.395948+00:00",
+  "preceding_full_gate_source": "db1454ef9027993713c8bcce58e8b993e6e8a0cd",
+  "preceding_gate_sha256": "b6e07984c480021041c0e48dff6ab35f2135a5fef296534703bddd17d44a7d74",
+  "preceding_fresh_reload_sha256": "f0085ffb44d3f08b57f8ce4ba1ac2ae34a28f3e0fd6419d1778702659fea41e7",
+  "complete_uncoded_seal_sha256": "ccf099d89254fc527f2c09439855706a61a1956e7f78dd5c5a28f3f05b1d8830",
+  "complete_uncoded_seal_utc": "2026-10-19T02:05:31.362330+00:00",
+  "actual_reading": {
+    "all_textual_components": 26,
+    "all_native_P_slots": 3060,
+    "principal_P_slots": 3006,
+    "other_P_slots": 54,
+    "separate_bonus_narrative": false,
+    "bonus_P_slots": 0,
+    "nonfiction_P_slots": 54,
+    "individually_identified_bonus_narrative_groups": [],
+    "individually_identified_narrative_image_groups": [
+      {
+        "id": "YORI03-DIARY-DOODLE",
+        "component_id": "YORI-03-U018",
+        "image_ids": [
+          "YORI-03-IMG016"
+        ],
+        "scope": "Dated/signed illustrated diary coda; anger pose not completed assault."
+      },
+      {
+        "id": "YORI03-ABSENCE-COMPOSITION",
+        "component_id": "YORI-03-U020",
+        "image_ids": [
+          "YORI-03-IMG019"
+        ],
+        "scope": "Integral third-alternative absence/memory image, not physically present new companions or ghosts."
+      },
+      {
+        "id": "YORI03-CURRENT-COMPANY-CLOSE",
+        "component_id": "YORI-03-U020",
+        "image_ids": [
+          "YORI-03-IMG020"
+        ],
+        "scope": "Current-world smiling close, no completed meal/cast/payment/contract."
+      },
+      {
+        "id": "YORI03-AFTERWORD-REDO-MINIATURE",
+        "component_id": "YORI-03-U021",
+        "image_ids": [
+          "YORI-03-IMG021"
+        ],
+        "scope": "Illustrated paratext with handwritten character label/thought/snore, actual separately read; no sixth long story."
+      }
+    ],
+    "individually_identified_embedded_narrative_groups": [
+      {
+        "id": "YORI03-STORY01",
+        "native_units": [
+          "YORI-03-U012"
+        ],
+        "start_P": 1,
+        "end_P": 517,
+        "scope": "Distinct integral new long story, actual complete native text/ruby/residual read; K viewpoint with the individually identified diary/branch exceptions."
+      },
+      {
+        "id": "YORI03-STORY02",
+        "native_units": [
+          "YORI-03-U014"
+        ],
+        "start_P": 1,
+        "end_P": 629,
+        "scope": "Distinct integral new long story, actual complete native text/ruby/residual read; K viewpoint with the individually identified diary/branch exceptions."
+      },
+      {
+        "id": "YORI03-STORY03",
+        "native_units": [
+          "YORI-03-U016"
+        ],
+        "start_P": 1,
+        "end_P": 517,
+        "scope": "Distinct integral new long story, actual complete native text/ruby/residual read; K viewpoint with the individually identified diary/branch exceptions."
+      },
+      {
+        "id": "YORI03-STORY04",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 1,
+        "end_P": 461,
+        "scope": "Distinct integral new long story, actual complete native text/ruby/residual read; K viewpoint with the individually identified diary/branch exceptions."
+      },
+      {
+        "id": "YORI03-STORY05",
+        "native_units": [
+          "YORI-03-U020"
+        ],
+        "start_P": 1,
+        "end_P": 882,
+        "scope": "Distinct integral new long story, actual complete native text/ruby/residual read; K viewpoint with the individually identified diary/branch exceptions."
+      },
+      {
+        "id": "YORI03-DIARY-FRAME01",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 1,
+        "end_P": 37,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME02",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 38,
+        "end_P": 89,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME03",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 90,
+        "end_P": 116,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME04",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 117,
+        "end_P": 145,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME05",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 146,
+        "end_P": 178,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME06",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 179,
+        "end_P": 208,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME07",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 209,
+        "end_P": 223,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME08",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 224,
+        "end_P": 243,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME09",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 244,
+        "end_P": 255,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME10",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 256,
+        "end_P": 269,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME11",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 270,
+        "end_P": 279,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME12",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 280,
+        "end_P": 287,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME13",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 288,
+        "end_P": 294,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME14",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 295,
+        "end_P": 303,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME15",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 304,
+        "end_P": 312,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME16",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 313,
+        "end_P": 319,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME17",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 320,
+        "end_P": 328,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME18",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 329,
+        "end_P": 337,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME19",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 338,
+        "end_P": 434,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME20",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 435,
+        "end_P": 442,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME21",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 443,
+        "end_P": 452,
+        "scope": "Aqua first-person privacy-invading diary entry.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-DIARY-FRAME22",
+        "native_units": [
+          "YORI-03-U018"
+        ],
+        "start_P": 453,
+        "end_P": 461,
+        "scope": "K first-person dated fragment; symbolic day is not an actual calendar date. Interleaved household threads retain disclosure order.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-ARTIFACT-ALTERNATIVE1",
+        "native_units": [
+          "YORI-03-U020"
+        ],
+        "start_P": 76,
+        "end_P": 405,
+        "scope": "Temporary experienced alternate branch with K's retained knowledge, new counterpart states, finite flame and reversion. Later current narration may report additional events; not a permanent canon replacement.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-ARTIFACT-ALTERNATIVE2",
+        "native_units": [
+          "YORI-03-U020"
+        ],
+        "start_P": 438,
+        "end_P": 587,
+        "scope": "Temporary experienced alternate branch with K's retained knowledge, new counterpart states, finite flame and reversion. Later current narration may report additional events; not a permanent canon replacement.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-ARTIFACT-ALTERNATIVE3",
+        "native_units": [
+          "YORI-03-U020"
+        ],
+        "start_P": 616,
+        "end_P": 824,
+        "scope": "Temporary experienced alternate branch with K's retained knowledge, new counterpart states, finite flame and reversion. Later current narration may report additional events; not a permanent canon replacement.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-EMBEDDED-TURTLE-TALE",
+        "native_units": [
+          "YORI-03-U014"
+        ],
+        "start_P": 8,
+        "end_P": 19,
+        "scope": "Actual read embedded local fairy-tale variant, not independently enacted event.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-EMBEDDED-ORC-TALE-ABSTRACT",
+        "native_units": [
+          "YORI-03-U014"
+        ],
+        "start_P": 29,
+        "end_P": 29,
+        "scope": "Quoted premise/abstract only, not full separately supplied story or new completed revenge.",
+        "counts_within_parent_not_additional_P": true
+      },
+      {
+        "id": "YORI03-EMBEDDED-ELF-BOOK",
+        "native_units": [
+          "YORI-03-U014"
+        ],
+        "start_P": 88,
+        "end_P": 113,
+        "scope": "Embedded book claims and K's reading interleaved with Chris's request; no independent scientific authority.",
+        "counts_within_parent_not_additional_P": true
+      }
+    ],
+    "individually_identified_image_only_nonfiction_prose_groups": [
+      {
+        "id": "YORI03-PROFILES",
+        "component_id": "YORI-03-U010",
+        "image_id": "YORI-03-IMG010",
+        "scope": "All eight actual role descriptions; chosen art interest is not inability, Chris profile does not explicitly reveal Eris."
+      },
+      {
+        "id": "YORI03-JACKET",
+        "component_id": "YORI-03-U022",
+        "image_id": "YORI-03-IMG004",
+        "scope": "Full actual bios/synopsis/credits; historical published paratext, not current biography verification."
+      }
+    ],
+    "integral_image_only_prose_pages": 0,
+    "all_native_images_actually_viewed": 26,
+    "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+    "all_native_local_and_archive_text_image_hash_joins_reverified": 52,
+    "fresh_native_ZIP_CRC": "PASS",
+    "image_individual_scopes_control": true
+  },
+  "source_first_sealed_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 29298,
+      "sha256": "f68b6fdbf751bffe1463ab4e47722519395e6c01e0a363598e71f49f5242cf30"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 149181,
+      "sha256": "8b7027dd42107ab824e288b6fc9ffaec2808d40490d4c9c49837c8a55f3a3cf7"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 162415,
+      "sha256": "ab5a5282999e63ee69994aa185c7ad2e3a19f3bae90df21fc23e9186d31435c9"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 22308,
+      "sha256": "3ddee3aecacd2c01a3f5bd254ebf36fddfdf9b59f12b62ecb21871e6cd53eb08"
+    },
+    {
+      "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+      "bytes": 1725,
+      "sha256": "8af2cdcd0878b975cc38b39ba480f5e5b4bba0e2f088ca291337e1d39a17ad45"
+    }
+  ],
+  "formal_coverage": {
+    "full_responsibilities": 17,
+    "selected_premises_not_census": 98,
+    "native_verified_short_form_context_witnesses": 146,
+    "local_unchanged_question_assessments": 31,
+    "append_only_decisions_across_ten_ledgers": 24,
+    "current_precision_qualifications": 81
+  },
+  "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_independent_second_full_pass_native_human_audio_claim": true,
+  "source_first_originals_remain_exact": true,
+  "original_four_scores_and_14_future_fields_unchanged": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+  "midread_precision_context": "Original146fragments alljoin, with V143 explicitly actual displayed ruby. Designname corrected additively beforeseal. No fullK08from another's pressure, no hypothetical sacrifice trial, no A01/M03fitfrom output, no diary-speaker collapse, no free consent from a warm close. YORI02additive controls exact prior storm comparison."
+}

@@ -1,0 +1,526 @@
+{
+  "schema": "shuukura-v2/bounded-ln-admission-addendum/v1",
+  "inventory_id": "SHUUKURA-V2-LN10-20261024-A1",
+  "status": "FROZEN_METADATA_ADMISSION_ONLY",
+  "frozen_on": "2026-10-24",
+  "immutable": true,
+  "owner_instruction": "V10 has been added to the sources and needs to have a deep reading done.",
+  "scope": {
+    "mode": "single_operation",
+    "unit_type": "volume",
+    "ordered_units": [
+      "LN-JP-V10"
+    ],
+    "authorized_start": "LN-JP-V10",
+    "terminal_boundary": "LN-JP-V10",
+    "other_narrative_admission": "NOT_AUTHORIZED_BY_THIS_OPERATION"
+  },
+  "governing_procedure_adoption": {
+    "date": "2026-10-24",
+    "method": "series/shuukura/00 Frameworks and Methods/SHUUKURA_ANALYTICAL_METHOD.md",
+    "method_sha256": "7654da3ec005bdf193a9b07f9eff13ceb7ae1d1c5aeb842b601254ff7089ede7",
+    "architecture": "series/shuukura/00 Frameworks and Methods/SHUUKURA_SYNTHESIS_ARCHITECTURE.md",
+    "architecture_sha256": "72511173e8e25f9adaf2b541bdebba54fa0b2ed081bf26ccec7be19577b00a86",
+    "effect": "Unchanged prospective and atomic procedures adopted for LN-JP-V10 only; former I1-only applicability and main-LN10 exclusion superseded for this source, not within I1."
+  },
+  "preserved_inventories": [
+    {
+      "path": "series/shuukura/00 Frameworks and Methods/SHUUKURA_V2_EXECUTION_INVENTORY_20261017.json",
+      "id": "SHUUKURA-V2-20261017-I1",
+      "sha256": "6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b",
+      "available_units": 458,
+      "ordered_identity_sha256": "2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95",
+      "immutable": true
+    },
+    {
+      "path": "series/shuukura/00 Frameworks and Methods/SHUUKURA_V2_BW_BACKFILL_INVENTORY_20261022_A1.json",
+      "id": "SHUUKURA-V2-BW-BACKFILL-20261022-A1",
+      "sha256": "26c5a1ced2334329bb302a3c1a57acae51ba0f9927383cc705936a87ea52d159",
+      "additional_available_units": 5,
+      "additive_available_subtotal": 463,
+      "immutable": true
+    }
+  ],
+  "source": {
+    "unit_id": "LN-JP-V10",
+    "lane": "MAIN_JAPANESE_LN",
+    "source_filename": "Buying a Classmate Once a Week - Volume 10 [Japanese].epub",
+    "bytes": 12106996,
+    "sha256": "80e1c8ad88eeeecc61dc8ab6d19072121ab46b9c5b5c14bd7137894c69556640",
+    "witness_revision": "ACQUIRED-20261024-A1-80e1c8ad88ee",
+    "acquisition_surface": "OWNER_SUPPLIED_EVIDENCE_PLANE",
+    "provider_file_id": null,
+    "provider_revision": null,
+    "retail_binary_equivalence": "NOT_ESTABLISHED",
+    "opf_member": "item/standard.opf",
+    "opf_sha256": "998f0b9583ed1a0649aa577a6d2d88a0435efe44223aeb446739f8c4e639bb96",
+    "bibliographic_metadata": [
+      {
+        "field": "title",
+        "text": "週に一度クラスメイトを買う話10　～ふたりの秘密は一つ屋根の下～",
+        "attributes": {
+          "id": "title"
+        }
+      },
+      {
+        "field": "creator",
+        "text": "羽田　宇佐",
+        "attributes": {
+          "id": "creator01"
+        }
+      },
+      {
+        "field": "creator",
+        "text": "U35",
+        "attributes": {
+          "id": "creator02"
+        }
+      },
+      {
+        "field": "publisher",
+        "text": "株式会社ＫＡＤＯＫＡＷＡ",
+        "attributes": {
+          "id": "publisher"
+        }
+      },
+      {
+        "field": "language",
+        "text": "ja",
+        "attributes": {}
+      },
+      {
+        "field": "identifier",
+        "text": "urn:uuid:8eeb04f3-05a4-45c7-95f1-8d138efe5fb5",
+        "attributes": {
+          "id": "bw-ecode"
+        }
+      }
+    ],
+    "page_progression_direction": "rtl",
+    "zip_members": 69,
+    "zip_crc": "PASS",
+    "zip_duplicate_member_names": 0,
+    "encrypted_zip_members": 0,
+    "spine_components": 31,
+    "structural_element_counts": {
+      "a": 13,
+      "body": 31,
+      "br": 71,
+      "div": 66,
+      "image": 13,
+      "img": 10,
+      "p": 4405,
+      "rt": 936,
+      "ruby": 628,
+      "span": 5903,
+      "svg": 13
+    },
+    "image_asset_count": 23,
+    "audio_video_manifest_items": 0
+  },
+  "source_structure_receipt": {
+    "filename": "SOURCE_STRUCTURE_METADATA_A1.json",
+    "bytes": 21509,
+    "sha256": "5919bd7b36d18e2bb1cc3f50eacea63b9240b07a6bb4be1c506a01b9d55e59c8",
+    "private_location_omitted": true
+  },
+  "components": [
+    {
+      "ordinal": 1,
+      "member": "item/xhtml/p-cover.xhtml",
+      "bytes": 974,
+      "sha256": "f9d2c6abd844c493c32dfb4dcc9045b48c46d87b747bba7f28df1ed032f49eea",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 2,
+      "member": "item/xhtml/p-fmatter-001.xhtml",
+      "bytes": 961,
+      "sha256": "66f14c3add6e0768b2b4609afca1bd40e59fefd1dea5f83d76c5304dc5fe1561",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 3,
+      "member": "item/xhtml/p-fmatter-002.xhtml",
+      "bytes": 961,
+      "sha256": "dd43a279793c0ca39827dc4514b856b499f78950b98a004dbadc2148b289ee03",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 4,
+      "member": "item/xhtml/p-fmatter-003.xhtml",
+      "bytes": 965,
+      "sha256": "282a92c79f13350f3a666ecf856a975abf967664ffcf7a3457d94589bfd6ae2b",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 5,
+      "member": "item/xhtml/p-fmatter-004.xhtml",
+      "bytes": 965,
+      "sha256": "6ef850ea117a5a56b885f2e7756a1abe4bc54386ccaede1a666b47bea14da9e5",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 6,
+      "member": "item/xhtml/p-titlepage.xhtml",
+      "bytes": 960,
+      "sha256": "9add02241e03773ff023d6b36b54469a1837afbb81b790c48b6bc8ca55a36cd0",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 7,
+      "member": "item/xhtml/p-caution.xhtml",
+      "bytes": 1246,
+      "sha256": "366ec6261e0cb5668d44f7f02d25615d9ad59d7e84d49bae7fa78d41f12f51e8",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 8,
+      "member": "item/xhtml/p-toc-001.xhtml",
+      "bytes": 3419,
+      "sha256": "b84787f0ddb72aefc2103c63aa3bcdca16680ff4936f34f18157350209ac9de6",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 9,
+      "member": "item/xhtml/p-001.xhtml",
+      "bytes": 874,
+      "sha256": "9db5e7e5c6c0c1d1855eef8ff9da84e2d8c0c6dcd268eb8c04217460550f3780",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 10,
+      "member": "item/xhtml/p-002.xhtml",
+      "bytes": 956,
+      "sha256": "0ae51e0d703bcba062f2e32ea62e1ea772e8485f0ece7d8d623e8f14f69bb422",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 11,
+      "member": "item/xhtml/p-003.xhtml",
+      "bytes": 960,
+      "sha256": "8189ccb853bc966d16ad0a906c3af5fb94dd1a4ac54a3b91b2cd31587648ed5e",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 12,
+      "member": "item/xhtml/p-004.xhtml",
+      "bytes": 117362,
+      "sha256": "fd5fd24eeb6f9b1d2c8ecc0996ffc016ab9864cdfb5ca5f84577d857f95f8662",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 13,
+      "member": "item/xhtml/p-005.xhtml",
+      "bytes": 59056,
+      "sha256": "428d28f593d9772bdbf5930cae4859af5f9c315c0c8066df3ac3b195b395b891",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 14,
+      "member": "item/xhtml/p-006.xhtml",
+      "bytes": 66734,
+      "sha256": "39741aa0dbc03c12a33bcd50128ede34abf1289d5b4dca6dc3df783702bb1836",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 15,
+      "member": "item/xhtml/p-007.xhtml",
+      "bytes": 95203,
+      "sha256": "044a8f07d2d463412abccfa7e8470bbea48c0bec4ad13102ba57321ad4fd753d",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 16,
+      "member": "item/xhtml/p-008.xhtml",
+      "bytes": 139286,
+      "sha256": "9de013df8b0b97ddbabc827141a466112012d62925ac1a85fcb7f18f4d476953",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 17,
+      "member": "item/xhtml/p-009.xhtml",
+      "bytes": 48268,
+      "sha256": "e149d48a5dae0aea053989794dce5898782d1dd08d962860d671e412ec8fc90b",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 18,
+      "member": "item/xhtml/p-010.xhtml",
+      "bytes": 60086,
+      "sha256": "3c2336f84994f1a419caf7f70c43afabce82923c2a9f111e9a8978e9da1bf917",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 19,
+      "member": "item/xhtml/p-011.xhtml",
+      "bytes": 67858,
+      "sha256": "33b6b6f32679e520d9b70fff31d978f3cb44e02863096d36afcab3cafee41fd5",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 20,
+      "member": "item/xhtml/p-012.xhtml",
+      "bytes": 75694,
+      "sha256": "ad9d1ae6052bb3856a57bad6326b686bd527b258b9b3d6ad9967843f37230b45",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 21,
+      "member": "item/xhtml/p-013.xhtml",
+      "bytes": 68956,
+      "sha256": "7a68fda428db9fe947b118bc225119e2529a815bc80f64edd57101875e52d891",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 22,
+      "member": "item/xhtml/p-014.xhtml",
+      "bytes": 74930,
+      "sha256": "a6428bb672692ded47195b9e4bedfc657528838d7c9f85c457f1f16dc3cfdb92",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 23,
+      "member": "item/xhtml/p-015.xhtml",
+      "bytes": 7305,
+      "sha256": "f48d54117142ed095b6ec228f6054667d177b57c25e2e86248539bc4521b1a43",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 24,
+      "member": "item/xhtml/p-016.xhtml",
+      "bytes": 65984,
+      "sha256": "3fb0d5b4624b28928d573340dd85e8143aa7c27145fa086597b3971d12585bb0",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 25,
+      "member": "item/xhtml/p-017.xhtml",
+      "bytes": 960,
+      "sha256": "998b0fd380bcb336dcf4b35c099166e68aeb6ffe53ada6b7224080c1064f5116",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 26,
+      "member": "item/xhtml/p-018.xhtml",
+      "bytes": 960,
+      "sha256": "4f6caf4928a94b524b39ae3201f0a9e7636dc9f5f8dd237dcc8109cb45822362",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 27,
+      "member": "item/xhtml/p-019.xhtml",
+      "bytes": 960,
+      "sha256": "71902f88fc6b171f221ed1eba1e77838a4811cf2036bb9ad230794dc09b9d5e9",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 28,
+      "member": "item/xhtml/p-allcover-001.xhtml",
+      "bytes": 960,
+      "sha256": "70a34e8cbc0f07bcc5009218932f9ab98a02ee0049ddc97db986c0a66618b905",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 29,
+      "member": "item/xhtml/p-colophon.xhtml",
+      "bytes": 5923,
+      "sha256": "f26d823c6150df4eeaa188c7357308457f8ca7aa48a485b3762a0295f0ee498e",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 30,
+      "member": "item/xhtml/p-colophon2.xhtml",
+      "bytes": 1532,
+      "sha256": "b9372cfa140192e9cf323d91f276741f0741c16d45a1e7504627f5500bbb9092",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    },
+    {
+      "ordinal": 31,
+      "member": "item/xhtml/p-bookwalker.xhtml",
+      "bytes": 884,
+      "sha256": "12ce2faa0b241d25f0e74460a97709c2d03e6d1cc595f0f9cd5487c6295baf09",
+      "mandatory_inspection": true,
+      "role_classification": "PENDING_ACTUAL_SOURCE_INSPECTION",
+      "narrative_coverage": "UNREAD",
+      "visual_coverage": "UNINSPECTED"
+    }
+  ],
+  "inspection_at_admission": {
+    "source_bytes_and_zip": "VERIFIED",
+    "opf_bibliographic_metadata": "INSPECTED",
+    "spine_filenames_and_structural_counts": "INSPECTED",
+    "chapter_titles": "UNEXPOSED",
+    "navigation_labels": "UNEXPOSED",
+    "narrative_body": "UNREAD",
+    "illustrations": "UNINSPECTED",
+    "meaningful_paragraph_reading_credit": 0,
+    "source_identity_limit": "OPF/CRC identifies this acquired package; rendering, colophon and component roles need actual inspection. No retail-original or conversion-lineage certificate asserted."
+  },
+  "counting_at_admission": {
+    "original_I1_available": 458,
+    "original_I1_completed": 46,
+    "BW_additional_available": 5,
+    "BW_additional_completed": 5,
+    "pre_LN10_available_subtotal": 463,
+    "pre_LN10_completed_subtotal": 51,
+    "new_main_LN10_available": 1,
+    "new_main_LN10_completed": 0,
+    "combined_available": 464,
+    "combined_completed": 51,
+    "total_admitted_sources": 52,
+    "total_completed_sources": 51,
+    "completion_requires_whole_unit_acceptance": true,
+    "internal_components_are_not_additional_source_units": true,
+    "BW_JP_V10_is_distinct_from_LN_JP_V10": true
+  },
+  "preserved_paused_scope": {
+    "inventory_id": "SHUUKURA-V2-20261017-I1",
+    "run_state": "interrupted_pending_recovery",
+    "committed_high_water_mark": "KAK-JP-E0019",
+    "next_unread_unit": "KAK-JP-E0020",
+    "next_permitted_operation": "NONE_OWNER_RESUMPTION_REQUIRED",
+    "original_dependent_stages": "PAUSED",
+    "WEB_completed": 19,
+    "WEB_frozen_total": 431,
+    "NARO_correspondence_completed": 0,
+    "NARO_correspondence_total": 290,
+    "historical_gap_candidates": 51,
+    "resolved_gap_candidates": 4,
+    "unresolved_gap_candidates": 47,
+    "frozen_discovery_duties": 27
+  },
+  "exclusions": [
+    "E0020+ and original dependent I1 execution remain owner-paused",
+    "Kakuyomu episodes after frozen E0431",
+    "Automatic future releases or release bonuses",
+    "Premature V1 interpretation",
+    "New specialist, reconstruction, comparison or integrated-synthesis execution"
+  ],
+  "completion_route": {
+    "metadata_stage": "Real active single-operation declaration, no sequential reading",
+    "final_transaction": "Whole LN10 reading plus audit, four logical-ledger outcomes and synchronized map/inventory/checkpoint",
+    "required_final_run_state": "completed",
+    "required_final_next_permitted_operation": "NONE_LN10_RUN_COMPLETE",
+    "required_final_next_candidate_operation": "NONE_LN10_RUN_COMPLETE",
+    "retain_open_foundation": true,
+    "resume_original_I1": false,
+    "main_interrupted_cannot_be_bypassed_by_completion_proof": true
+  },
+  "preservation": "No I1/BW inventory, accepted reading, prospective freeze, claim ID, ledger history, source byte or repository-global control modified.",
+  "native_locator_manifest": {
+    "filename": "LN-JP-V10_native_locator_manifest_A1.json",
+    "bytes": 5404354,
+    "sha256": "4b9a714e9bfd2bc57df3dad3bd79c9aaaf0fe850c0a5e3b8567787745185f898",
+    "native_paragraphs": 4405,
+    "meaningful_paragraphs": 4324,
+    "ordered_paragraph_and_image_events": 4428,
+    "packaged_images": 23,
+    "unique_image_asset_count": 23,
+    "ruby_elements": 628,
+    "rt_elements": 936,
+    "native_byte_and_character_fragments_verified": true,
+    "native_tree_equivalence_verified_by_root": true,
+    "private_source_fragments_excluded_from_Git": true,
+    "reading_credit": 0
+  },
+  "entering_input_snapshot": {
+    "filename": "COMPLETE_ENTERING_INPUTS.json",
+    "bytes": 10491,
+    "sha256": "def4ea611ee3cd5059e07422ac1991f2ed61869ab34a1844edcc0158c3830473",
+    "input_count": 15,
+    "baseline_commit": "b44b96da54f0782ec7b006672a0a528b11057234",
+    "private_location_omitted": true,
+    "actual_exposure": "Root read accepted LN09 main analysis and complete BW10 plus current cumulative material; original LN09 journal was not reread. No fresh blind volume context claimed; later-outcome exposure cannot earn held-out credit."
+  }
+}

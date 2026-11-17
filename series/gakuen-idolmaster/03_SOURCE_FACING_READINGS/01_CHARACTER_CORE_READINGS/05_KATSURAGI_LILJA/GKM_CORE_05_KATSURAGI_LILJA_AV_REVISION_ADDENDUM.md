@@ -13,9 +13,14 @@ do_not_use_as_current_authority: false
 last_updated: '2026-08-22'
 title: Katsuragi Lilja Phase-3 Character-Core AV Revision Addendum
 parent_authority: GKM_CORE_05_KATSURAGI_LILJA.md
+version: "2.1"
+revised: "2026-11-15"
+revision_note: "v2.1 applies the source-to-analysis audit 2026-11-15 corrections (REVISE / OPEN): the open claim on refusal is narrowed to sustained disagreement over a production decision and separation, and the support-card register question is marked answered textually by cross-reference; no audiovisual evidence was reviewed"
 ---
 
 # GKM CORE 05 — KATSURAGI LILJA AV REVISION ADDENDUM
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Two bullets in §5 change, with no new audiovisual review. GKM-SAA-059 (REVISE, OPEN narrowed): the v2.0 bullet read "sustained disagreement or refusal with the Producer"; Source Lock 1.0 text already shows a graded repertoire of refusal (parent core §12.2 note), so only sustained disagreement over a production decision, and separation, stay open. GKM-SAA-107 (REVISE, cross-reference): the v2.0 bullet "whether support cards show a materially more casual peer register" is kept and marked as answered textually by the parent core §17.1; audible delivery stays open.
 
 ## 0. Authority and use
 
@@ -160,11 +165,11 @@ Lilja's audiovisual development does not replace timidity with fearlessness. It 
 
 - stable self-regulation when the Producer is absent;
 - intrinsic value of rest;
-- sustained disagreement or refusal with the Producer;
+- sustained disagreement with the Producer over a production decision, and separation (narrowed 2026-11-15, GKM-SAA-059: covert refusal, challenge to his method, rejection of reassurance and claim-making are already present in the text; parent core §12.2 note);
 - privacy/consent under expanding REVERSI commercialization;
 - post-victory self-worth outside idol achievement;
 - durability of pleasure under higher professional pressure;
-- whether support cards show a materially more casual peer register;
+- whether support cards show a materially more casual peer register (answered textually 2026-11-15, GKM-SAA-107: support stories show plain speech to Sumika, Saki, Kotone and China and sustained です／ます to Temari and Mao; parent core §17.1. Audible delivery remains open);
 - whether later sources commodify Swedish/family identity more aggressively.
 
 ## Current authority statement

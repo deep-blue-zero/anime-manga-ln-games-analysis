@@ -1,0 +1,80 @@
+{
+  "schema": "KONOSUBA_CECILY_INTERNAL_SCENARIO_INPUTS_V1",
+  "recorded_utc": "2026-10-20T10:08:25.630497+00:00",
+  "model_sha256": "34843fd30838efdc83d54f686795e23bd76730920137746aa8978729891a72a5",
+  "same_informed_root_author": true,
+  "source_known_hypothetical_only": true,
+  "cases": [
+    {
+      "id": "CECILY-H01A",
+      "paired_with": "CECILY-H01B",
+      "target_rules": [
+        "CECILY-R02",
+        "CECILY-R04"
+      ],
+      "packet": {
+        "frame": "Wholly hypothetical adult-only transfer to an ordinary Axel community fair; not a canon event.",
+        "actors": "Cecily and adult organizer Sora. No other actor speaks in this packet.",
+        "known_to_Cecily": "Yesterday Cecily spent ten minutes attaching blue paper garlands to the outside of a wooden display box built by an unidentified workshop. She did not design or build its timed chime mechanism and knows that she did not. The mechanism worked this morning and has now stopped; she does not know why. Sora is looking for the person responsible for the whole display design. Cecily would like money for leisure. The facts and public audience are otherwise identical in both variants.",
+        "consequence_variant": "Sora offers a5000eris honorarium and public credit to the person who designed the display. No decision or payment has been made.",
+        "current_question": "Sora asks: Was this display your work?",
+        "generation_request": "Give one brief Cecily reply and one sentence describing only her immediate chosen action, at most160Englishwords. She can mislead, evade, admit a limit or make a mistake; do not force an optimal ethical response. Do not add construction knowledge, a legal verdict, completed payment, acceptance, repair, another actor reply or a new past event. Preserve the difference between her true paper contribution and overall mechanical design."
+      }
+    },
+    {
+      "id": "CECILY-H01B",
+      "paired_with": "CECILY-H01A",
+      "target_rules": [
+        "CECILY-R02",
+        "CECILY-R04"
+      ],
+      "packet": {
+        "frame": "Wholly hypothetical adult-only transfer to an ordinary Axel community fair; not a canon event.",
+        "actors": "Cecily and adult organizer Sora. No other actor speaks in this packet.",
+        "known_to_Cecily": "Yesterday Cecily spent ten minutes attaching blue paper garlands to the outside of a wooden display box built by an unidentified workshop. She did not design or build its timed chime mechanism and knows that she did not. The mechanism worked this morning and has now stopped; she does not know why. Sora is looking for the person responsible for the whole display design. Cecily would like money for leisure. The facts and public audience are otherwise identical in both variants.",
+        "consequence_variant": "Sora demands a5000eris repair charge from the person who designed the display. Whether this demand is legally valid is unknown; nobody has paid or accepted it.",
+        "current_question": "Sora asks: Was this display your work?",
+        "generation_request": "Give one brief Cecily reply and one sentence describing only her immediate chosen action, at most160Englishwords. She can mislead, evade, admit a limit or make a mistake; do not force an optimal ethical response. Do not add construction knowledge, a legal verdict, completed payment, acceptance, repair, another actor reply or a new past event. Preserve the difference between her true paper contribution and overall mechanical design."
+      }
+    },
+    {
+      "id": "CECILY-H02A",
+      "paired_with": "CECILY-H02B",
+      "target_rules": [
+        "CECILY-R01",
+        "CECILY-R03",
+        "CECILY-R04"
+      ],
+      "packet": {
+        "frame": "Wholly hypothetical adult-only Axel errand, not canon.",
+        "actors": "Cecily and adult neighbor Nera, whom she has met twice.",
+        "known_to_Cecily": "Nera has three sealed meal boxes belonging to a community kitchen and offers Cecily one to carry across the quiet square. The walk takes five minutes. There is no emergency, danger, money, religious contest, authority audience or past favor. Cecily has time and would like to arrange a social meeting with Nera. The boxes are not a personal gift and cannot be taken for Cecily herself.",
+        "recipient_statement_variant": "Nera says: Will you help carry one box? I would enjoy talking with you for ten minutes tomorrow, but I must leave after that.",
+        "generation_request": "Give one brief Cecily reply and one sentence describing only her immediate chosen action, at most160Englishwords. She may help, bargain, press, stop or redirect; do not force ideal conduct. Do not give Nera another reply, complete the delivery or future meeting, invent a relationship, prior favor, payment or conversion. Neras stated permission covers carrying one box only."
+      }
+    },
+    {
+      "id": "CECILY-H02B",
+      "paired_with": "CECILY-H02A",
+      "target_rules": [
+        "CECILY-R01",
+        "CECILY-R03",
+        "CECILY-R04"
+      ],
+      "packet": {
+        "frame": "Wholly hypothetical adult-only Axel errand, not canon.",
+        "actors": "Cecily and adult neighbor Nera, whom she has met twice.",
+        "known_to_Cecily": "Nera has three sealed meal boxes belonging to a community kitchen and offers Cecily one to carry across the quiet square. The walk takes five minutes. There is no emergency, danger, money, religious contest, authority audience or past favor. Cecily has time and would like to arrange a social meeting with Nera. The boxes are not a personal gift and cannot be taken for Cecily herself.",
+        "recipient_statement_variant": "Nera says: Will you help carry one box? I do not want to arrange a social meeting. Please just tell me whether you are helping.",
+        "generation_request": "Give one brief Cecily reply and one sentence describing only her immediate chosen action, at most160Englishwords. She may help, bargain, press, stop or redirect; do not force ideal conduct. Do not give Nera another reply, complete the delivery or future meeting, invent a relationship, prior favor, payment or conversion. Neras stated permission covers carrying one box only."
+      }
+    }
+  ],
+  "pair_controls_and_limits": [
+    "H01consequence_variant is the only differing field: reward/credit versus demanded repair charge. Knowledge of limited true contribution remains identical. Inspect scope of claimed authorship rather than require an outright lie. Gain/liability framing intentionally changes incentives, not evidence. A designed self-serving contrast is also explained by generic opportunism; fictional institutional payment assumptions remain unvalidated.",
+    "H02recipient_statement_variant is the only differing field: finite social invitation versus explicit refusal; permission to carry one box stays fixed. Inspect uptake, boundary and actual assistance separately. Continuing a bid, helping or withdrawing are all allowed, not prerequired pass answers. This is a new adult mundane transfer with analogy limits.",
+    "Prior source outcomes and case design are known to the same author. No blind assignment, isolated runtime, independent judge or held-out source. Desired failure is allowed but no output is required to enact one."
+  ],
+  "assessment_contract": "Retain exact first bodies, including packet errors, overcoherence, failed contrasts and ordinary role/incentive rivals. No output regeneration or model repair after bodies. Report only disclosed internal exercise.",
+  "full_program_complete": false
+}

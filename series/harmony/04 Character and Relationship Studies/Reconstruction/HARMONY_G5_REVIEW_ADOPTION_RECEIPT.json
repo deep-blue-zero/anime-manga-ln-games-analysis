@@ -1,0 +1,80 @@
+[
+  {
+    "path": "HARMONY_G5_INDEPENDENT_RETROSPECTIVE_REVIEW.md",
+    "reviewer_body_sha256": "afe14186f21222a2412874430ffce2795b01aad8e1412304717bc32cbc62f740",
+    "adopted_file_sha256": "7a5b4be5a6205d9fdd76f08be724d825e683cfaf93e4d76574ddc61c2686ad15",
+    "body_preserved_exact": true
+  },
+  {
+    "path": "HARMONY_G5_INDEPENDENT_RETROSPECTIVE_REVIEW_INITIAL_32_CASES.md",
+    "reviewer_body_sha256": "d9c610636634ecad44798768730bafe11eb97ea31244a5ee41c26218f03681de",
+    "adopted_file_sha256": "5b9f0ef588c9a9a5d4d023e7f43bf63c39aa6849923c6d93eb08333e8cfd2fc7",
+    "body_preserved_exact": true
+  },
+  {
+    "path": "HARMONY_G5_SUCCESSOR_SOURCE_REVIEW.md",
+    "reviewer_body_sha256": "34bfd10bb2c14f6bea9b3dd6afca45a7883541b52a0720017e3b4cf6604290d8",
+    "adopted_file_sha256": "b4b28ab860a6af29079d7ba581085ca1c2b5078d9321cc7f173f50a0cf849e3b",
+    "body_preserved_exact": true
+  },
+  {
+    "path": "HARMONY_G5_INDEPENDENT_INTERACTIVE_REVIEW.md",
+    "reviewer_body_sha256": "b862c6bab616a6828aa87649fc39a6aabf0fb9e800d3c014087468e683a6dfb6",
+    "adopted_file_sha256": "bf7b90b5c997a9c976a34cb8a4f8a89549dac4c2d03e0694ea644d99c8fb02a4",
+    "body_preserved_exact": true
+  },
+  {
+    "path": "HARMONY_G5_ALL_ACTUAL_TURN_JUDGMENTS.json",
+    "sha256": "cb73ac0cd5b88f3e370b2ce246ed85484d390a6aa7cbf240202e5bdf4ee29802",
+    "bytes_preserved_exact": true,
+    "projection": "EXACT_STABLE_REVIEWER_DELIVERY"
+  },
+  {
+    "path": "HARMONY_G5_INDEPENDENT_PUBLIC_PACKET_REVIEW.json",
+    "sha256": "245224fc9469b51866ed3607f091c92ca9202f200fa9705e4be64de68a4096c4",
+    "bytes_preserved_exact": true,
+    "projection": "EXACT_STABLE_REVIEWER_DELIVERY"
+  },
+  {
+    "path": "independent-retrospective-case-judgments.json",
+    "sha256": "2d6a5547d2c351dc6a9a23c3c15e9d404ff53f012261ced41f6282df758b1841",
+    "bytes_preserved_exact": true,
+    "projection": "EXACT_STABLE_REVIEWER_DELIVERY"
+  },
+  {
+    "path": "independent-initial-conversation-judgments.json",
+    "sha256": "e914f799abc09f853b7f74d57b6b9d4daa1bcb602860f3782c072e7985b9ebe1",
+    "bytes_preserved_exact": true,
+    "projection": "EXACT_STABLE_REVIEWER_DELIVERY"
+  },
+  {
+    "path": "independent-additional-conversation-judgments.json",
+    "sha256": "3e5b48bd5212ceb6cc40af16c29e8cbd93439b837b209bc2ef71601e072b9e10",
+    "bytes_preserved_exact": true,
+    "projection": "EXACT_STABLE_REVIEWER_DELIVERY"
+  },
+  {
+    "path": "independent-initial-runtime-integrity.json",
+    "sha256": "a7d7205e24428226a56a4b10636469764632dcc9ebe691df14665ae0d75f13de",
+    "bytes_preserved_exact": true,
+    "projection": "EXACT_STABLE_REVIEWER_DELIVERY"
+  },
+  {
+    "path": "independent-additional-runtime-integrity.json",
+    "sha256": "9702367b6b394eb30f911c129d68a53347f2255b8a436cc3326f41dd3e4c2fef",
+    "bytes_preserved_exact": true,
+    "projection": "EXACT_STABLE_REVIEWER_DELIVERY"
+  },
+  {
+    "path": "independent-freeze-verification.json",
+    "sha256": "5b4867217eee65f90450e435f84f60b14bb47a99c0671914ad9f9d1cf3f59d13",
+    "bytes_preserved_exact": true,
+    "projection": "EXACT_STABLE_REVIEWER_DELIVERY"
+  },
+  {
+    "path": "independent-successor-freeze-verification.json",
+    "sha256": "40739a17de5f51b93ef03b44e2f3b8f41aabb1ff7100fa59f3f991214954ad40",
+    "bytes_preserved_exact": true,
+    "projection": "EXACT_STABLE_REVIEWER_DELIVERY"
+  }
+]

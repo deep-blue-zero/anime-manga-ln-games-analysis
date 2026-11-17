@@ -14,6 +14,12 @@ do_not_use_as_current_authority: false
 
 # My Hero Academia - Second-Pass Deep Reading, Volume 28
 
+## Current correction to inherited initial conditions — 2026-09-09
+
+The historical opening below incorrectly treats Tokoyami’s completed extraction as a V27 fact. `V27:p179` establishes arrival only and `p180` returns to Mirko. **Enter V28 with Hawks in immediate danger and extraction unresolved.** The action is first established within this volume, `V28:p060–077`; `p062` is a chapter portrait, not an additional in-world action. §7’s concern (`p066`), escape and trust (`p077`) are V28 evidence. The trust statement belongs to Tokoyami and cannot certify Hawks’s lethal decision as narrator-endorsed.
+
+Preserve the old opening as the record of an actual boundary error; exclude its prematurely asserted outcome from all earlier freezes. Later V28 conclusions may use the scene once reached. Original source blob: `a7b302b5bbe5b34ed6c49f337912612bbc1c91fe` at published source lock `7089f586ce3114e54a2c4954018f809b7c2cab09`. See the [source/provenance audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
+
 ## 0. Status, method, and prospective lock
 
 This reading follows `MHA_SP2_ANALYTICAL_METHOD_V2_1.md` and begins from the exact frozen Volume 27 endpoint at `V27:p180`.

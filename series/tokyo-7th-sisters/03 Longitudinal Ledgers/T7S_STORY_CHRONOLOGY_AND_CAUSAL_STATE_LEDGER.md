@@ -1,0 +1,885 @@
+---
+title: "Tokyo 7th Sisters — Story Chronology And Causal State Ledger"
+artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
+artifact_type: story_causal_state_ledger
+series: Tokyo 7th Sisters
+generation: V1
+version: "11.162"
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: false
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes;9whole ManyMerryParty201510documents throughT7S_B0234 with actual prospective whole-consumer/entering gate and ordered complete case freezes;3whole independent Birthday portfolios throughT7S_B0235 with genuine prospective consumers/entering and ordered complete text/native/static case freezes;12additional whole independent Birthday portfolios throughT7S_B0236 with genuine prospective complete consumers/entering and actual ordered text/native/static freezes;12additional whole independent Birthday portfolios throughT7S_B0237 under the genuine prospective42image complete-consumer contract and actual ordered case freezes;12additional whole Birthday portfolios throughT7S_B0238 under actual prospective complete consumers and ordered freezes;9additional whole Birthday portfolios throughT7S_B0239 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0240 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0241 under actual prospective complete consumers and ordered freezes; complete3chapter Event family200240 throughT7S_B0242 under actual prospective consumers and ordered freezes; fifteen complete Event documents in three original five-chapter families200250/200260/200270 throughT7S_B0243 under genuine prospective complete consumers and ordered case/family freezes; fourteen complete Event documents in three original families200280/200290/200300 in5/4/5chapters throughT7S_B0244 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200310/200320/200330 in5/5/5chapters throughT7S_B0245 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200340/200350/200360 in5/5/5chapters throughT7S_B0246 under genuine prospective complete consumers and ordered case/family freezes; eleven complete Event documents in original families200370/200380/200390 in2/5/4chapters throughT7S_B0247 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200400/200410/200420 in5/4/6chapters throughT7S_B0248 under genuine prospective complete consumers and ordered case/family freezes; seven complete Event documents in original families200430/200440/200450 in2/1/4chapters throughT7S_B0249 under genuine prospective complete consumers and ordered case/family freezes; five complete Event documents in original families200460/200470/200480 in1/2/2chapters throughT7S_B0250 under genuine prospective complete consumers and ordered case/family freezes; eight complete Event documents in original families200490/200500/200510 in2/2/4chapters throughT7S_B0251 under genuine prospective complete consumers and ordered case/family freezes; three complete Event documents in original single-document families200520/200530/200540 throughT7S_B0252 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200550 throughT7S_B0253 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200560 throughT7S_B0254 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200570 throughT7S_B0255 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200580 throughT7S_B0256 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200590 throughT7S_B0257 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200600 throughT7S_B0258 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200610 throughT7S_B0259 under genuine prospective complete consumers and ordered case/family freezes; one complete original Event family200620 throughT7S_B0260 under genuine prospective complete consumers and ordered case/family freezes; all further non-Main/additional story and2053 semantic sources remain outside"
+storage_representation: manifest_bound_components_v1
+storage_manifest: "T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json"
+architecture_lifecycle: EVOLVING
+created: 2026-09-09
+last_updated: 2026-11-14
+---
+
+# Tokyo 7th Sisters story chronology and causal state ledger
+
+Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
+
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizon. B0234adds the coherent9document ManyMerryParty family, including post-live reports and a later-read earlier live-day/remembered-school perspective; no exact Main chronology is inferred. B0235adds three independent Birthday portfolios: Haru receiving familiar celebration, Xiao choosing temporary respite while renewing training, and Monaka recognizing belonging within a continuing search. Their source/menu order supplies no common year or exact Main chronology. B0236adds twelve further independent Birthday portfolios: Mana, Rona, Honoka, Ei, Sisara, Hina, Nicole, Musubi, Shizuka, Kazumi, Hime and Kyoko. Gratitude can coexist with a request for preparation, refusal, embarrassment, grief, restrained thanks or a chosen exception. Named recipients and reports retain their exact case horizons; illustrations, costume gifts and unfinished future wishes do not supply new participants, assent or completed outcomes. Catalog order supplies no common year or cross-party cause. B0237 adds twelve further Birthday recipients, Shinju through Susu. Specific gratitude retains aptitude doubt, qualified rivalry, happy tears, active hosting, voluntary-welcome correction, remembered craft and play, conditional travel and parental attachment. Murasaki explicitly reports a previous-day Ferb celebration, without independently fixing its annual identity or a wider calendar; the earlier Ferb freeze remains. No request, gift depiction or future wish supplies an omitted answer or completed outcome. B0238 adds twelve Birthday portfolios, Saori through Rui, with particular recognition, qualified gratitude, bodily/self-dressing limits, chosen receiving/play, differentiated learning and unresolved futures. The twins remain distinct, represented figures/cake are not new actors, and overlapping graphic facets supply no extra causal chronology. Earlier Murasaki/Ferb history remains. B0239 adds the final nine Birthday portfolios, Yumeno through Miu. Particular care remains differentiated through correction, negotiated self-presentation, protective performance, chosen receiving and qualified gratitude. Later written Yamai/Saori adjudication is explicitly subsequent to both original freezes; Jersey, unsigned Memoru authors and anonymous S remain unresolved. No universal maturity or exact annual calendar is supplied. B0240 adds two whole Event portfolios, Sweet Seventh Days and its special. Date framing changes Rona’s valued company; a prepared meal makes care reciprocal while the supplement preserves stated objections beside personal reliance. Rona’s established Nicole/Coney knowledge is not first disclosed, and the special’s eating/taste remains later-known than the original first freeze. One exact non-dialogue ending voice carrier is unresolved; all138dialogue WAVs remain unheard. No readiness or exact Main calendar is supplied. B0241 adds independent NewYear/anniversary Event portfolios. Selective recollection, explicit alternative Player responses, reversed timetable reform and differentiated messages retain imperfect knowledge, objections and institutional costs. Player addressee and Coney agency-manager roles stay distinct; two exact command-only ending cues unresolved, all302dialogue plus2opening WAVs unheard. No exact calendar, runtime, readiness or fullAV claim. B0242 adds one complete three-chapter Event family. Differentiated lyric attempts, reciprocal judgment, selection and reported dream support renewed collective work without displayed finallyrics/live. Exact endingvo_special_107_140/P65 unresolved;143availableWAVs unheard. No exactcalendar/runtime/readiness/fullAV claim. B0243 adds three separate complete five-chapter Event families/15documents/562pages. Interview recognition preserves privacy/addressee objections;4U shared image preserves friction and one explicit YouthBpurchase;Kajika outing yields specific enjoyment and conditional care without a completed departure.419available WAVbindinginstances remain unheard;two exact non-dialogue gaps and two actualItemobjects are explicit. No exactcalendar/runtime/readiness/fullAV claim. B0244 adds three separate complete original Event families/14documents/417pages in5/4/5chapters. Ordinary-life recognition retains privacy/public-reach uncertainty;NI+CORA pressure/objections lead to bounded repair;distributed hip-hop teaching/care and reported success leave Ei agency unresolved. All283WAVbindings unheard;one exact command-only gap;noItem/Choices/InlineMovie. No exactcalendar/runtime/readiness/fullAV claim. B0245 adds15complete Event documents/674native pages in three original5/5/5families: chosen lady models, task-specific teaching, situated care and an unperformed live proposal. Source-explicit camp front/back continuity does not impose another common calendar. Qualified permission, attributed reports and reader/manager knowledge limits remain. All551WAVbindings unheard;selected Item/title presences reviewed;noChoices/InlineMovie/runtime/readiness/fullAV claim. B0246 adds15complete Event documents/579native pages in three original5/5/5families: differentiated service pleasure, camp planning/disagreement and shared party authorship. Cafe/party completion is reported; the camp candidate remains unperformed. Reports/hypotheses/objections retain holders;no cross-family time/cause edge.485availableWAVs unheard;5exactcommand-onlygaps,sixTitleinstances;Item/Choices/InlineMovieabsent;no readiness/fullAV/era promotion. B0247 adds11complete Event documents/550native pages in three original2/5/4families: collaboration/recognition and unresolvedHaru experience; Ferb/Yumeno musical appreciation with distinct romantic readings and explicit boundaries; contestedschoolwork,attributedreception and proposed4Ugathering. Reports/privatequestions/fantasy/objections/denials retain holders;no cross-familytime/cause.402availableWAVs unheard;9exact unresolved cues/10carriers,sixTitleinstances/oneItem;Choices/InlineMovieabsent;no readiness/fullAV/era promotion. B0248 adds15complete Event documents/854native pages in three original5/4/6families: sports preparation/support,LeSca making-of recording and Christmas preparation. Different contributions,camera/body boundaries,assigned roles,theme choice,reported resources and private interpretations retain holders and alternatives;no cross-familytime/cause.658availableWAVs unheard;3exact unresolved cues/4carriers,sixTitleinstances/oneItem;Choices/InlineMovie/Loopabsent;no readiness/fullAV/era promotion. B0249 adds7complete Event documents/492native pages in three original2/1/4families: Christmas gathering and aftermath,New Year repertoire discussion and the snow-family walk. Particular contribution/refusal,attributed public accounts,private thought and imagined appeal retain holders and alternatives;no cross-familytime/cause.421availableWAVs unheard;one exact Mimi P27 ellipsis cue unresolved,sixTitleinstances/14Items;Choices/InlineMovie/Loopabsent;no readiness/fullAV/era promotion. B0250 adds five complete Event documents/546 native pages in three original1/2/2families: anniversary thanks, LeSca joint practice and qualified4U rivalry. Named contributions, dissent, unequal knowledge, reports and unfinished futures retain source-local horizons;one explicitly named temporary contest collective is added, no permanent-band or identity promotion. Five complete documents in three families: 546 native pages, 486 written records, 60 command-only pages and 486 dialogue-voice pages were actually acquired through 94 bounded lossless text/native parts. All 195 selected sprite/object occurrences, 13 background occurrences and six title-asset occurrences were actually viewed or explicitly bound to exact earlier genuinely viewed bytes. The independent aggregate comparison reconstructs all 546 reviewed native objects and checks all 102 projection records: 60 complete command records and 42 nonstandard-field records. All 493 available current WAV occurrences remain UNHEARD, runtime UNOBSERVED and zero named current cue carriers are unresolved. Written text, native instructions and selected stills support this qualified account; no listening, watched choreography, objective musical judgment or readiness, monograph or era-release promotion is claimed. B0251 adds eight complete Event documents and three original2/2/4families: KARAKURI recognition, distributed post-live appraisal and LeSca reciprocal gift planning. Named initiative, reports, partial knowledge, graded assent and unfinished futures retain source-local horizons. No new person, unit, permanent membership or readiness promotion. B0251 covers eight complete Event documents in three original families of 2, 2 and 4 chapters, catalog 892–899: 632 native pages, 587 written TextAreas, 45 command-only pages, 479 dialogue-voice pages and 4,326 visual references. All 101 bounded text/native parts and three separate whole-family reconstructions were completed in the preserved order. The visual review covers 232 selected sprite/object instances across 119 distinct resources, 13 background instances across nine originals, and six title-image instances across four files, with genuine exact-byte reuse disclosed. All 490 available, distinct WAV bindings remain unheard. Command-only cue memory_0217_131 at 508021704:P54 is unresolved after a fresh registry and retained-bank probe; the strict failure and separately controlled case-only qualification remain preserved. That page has no TextArea, and all dialogue cues resolve. No Choice or InlineMovie occurs. The arguments use wording, native order and inspected stills under AV-D; performed delivery and runtime remain unreviewed, and no technical grade or readiness promotion follows. B0252 adds three complete single-document Event families: archive reception and privacy, a wanted late Christmas visit and adapted karuta with unresolved outcome. Named initiative, separate memories, reports, graded permission and unfinished futures retain source-local horizons. No new person, unit, permanent membership or readiness promotion. B0252 covers three complete Event documents in three original single-document families, catalog 900–902: 620 native pages, 514 written pages, 106 command pages and 502 written-page voice references. All 95 bounded text/native parts and 170 selected sprite/object instances, 18 original background instances and six title instances were actually reviewed. The selected resources comprise 139 distinct sprite/object resources, 14 distinct backgrounds and four distinct title images. All 504 available, distinct WAV bindings remain UNHEARD. Two exact unresolved carriers remain separately qualified: command-only memory_0218_172 at509022101:P207 and written Emoco interjection vo_ing3_053_01_01_180 at511022301:P105;501 of502 written-voice references resolve. No Choice or InlineMovie occurs; runtime and continuous motion are unobserved. Source-grounded narrative interpretation proceeds within those limits; performed AV, readiness, monograph maturity and era-release requirements are not promoted. B0253 adds one complete original six-chapter Event family: assumed illness, two particular care grievances and a backstage attention strategy. Named choice and reluctance, separate reports and media roleplay, public/backstage knowledge and source-local temporal frames remain differentiated. No new person,unit or readiness promotion. B0253 covers one complete original six-chapter Event family200550/catalog903–908:512native pages,434written,78command-only,299written voice carriers and3402native visual occurrences. All72bounded text/native parts and155case-selected sprite renditions across69unique resources,13background occurrences across9unique backgrounds and2title images were actually reviewed. All306distinct named WAV resources, including7non-dialogue subtitle/title carriers, are hash-bound UNHEARD with no unresolved current-family cue. Complete cases contain no Choice,InlineMovie,LoopSe orItem field. Runtime/continuous motion and acoustic performance remain unobserved. No new identity,unit,READY,monograph maturity or era release is promoted;2053closed. B0254 adds one complete original six-chapter Event family: unequal wants, shared effort and a qualified ending. Specific practical support coexists with pressure and substitution;private rival encouragement is not universally disclosed;Yumeno’s deferredshoot/protestedrepeatweek remains unresolved. No newperson,unit orreadiness promotion. B0254 covers one complete original six-chapter Event family200560/catalog909–914:640native pages,574written,66command-only,495written voice pages and4116native visual occurrences. All103bounded text/native parts were actually acquired and losslessly restored. Actual selected-static review covers257case sprite/object instances across142unique resources (141sprites and1communication object),12background instances across6unique originals and2title images.503voice-carrier pages resolve501distinct waveform hashes;allUNHEARD,including reused cue216 within chapter3 and249 across chapters3/4. Complete scripts have no Choice,InlineMovie orLoopSe field;the Item field in chapter1 is retained. Encoded effects and static art are not observed runtime or acoustic performance. No new identity,unit,READY,monograph maturity or era release is promoted;2053closed. B0255 adds one complete original six-chapter Event family: three incompatible private propositions,real care and interference,and a shared LeSca wish before specified disclosure. Member-authored coordinated work recovers while the false head premise,Player’s incomplete access and Coney’s unperformed gossip intention remain. No new person,unit orreadiness promotion. This complete original six-chapter Event family, NM-EVENT-200570 (catalog 915–920), contains 545 native pages: 464 written records and 81 command-only pages, with 363 dialogue-associated voice references and 4,834 visual-reference occurrences. All six documents were reviewed in order with a known-then exit before the next chapter and a separate whole-family causal and epistemic reconstruction. The entering state is B0254/SourceLock 12.163; this unit proposes B0255/12.164. Voice performance remains UNHEARD and runtime remains UNOBSERVED. The remaining 2034 release is not complete; 2053 is closed. B0256 adds complete original six-chapter Eventfamily200580: a demand for live-show rank becomes five heterogeneous tests. Explicit Haru-friend and Hina/Emoco-family-like acknowledgment coexists with an official KARAKURI win,contested pearl ruling and wager coda preserving renewed rivalry. Local Mitsuba,new Yumeno pen-name horizon and attributed acts/reports remain distinct. No new person,unit orreadiness promotion. Six complete chapters contain624 native pages,527 written turns,97 command-only pages,521 dialogue-voice carriers and5249 visual references. All selected120 sprite/object resources,5 backgrounds and2 title images were actually inspected across304/11/2 instances. All528 distinct named waveform resources remain UNHEARD across528 carriers; no runtime or performed-voice claim. Chapterwise knowledge boundaries, two different draw reasons, three shown quiz answers versus announced team10/10, local Haru/Mitsuba presentation and the newly acquired Yumeno pen-name link remain separate. No readiness,era-release or2053 promotion. Complete original Event/category2/root100010 family200590, catalog927–932, six documents516024801–516024806:809native/707written/102command-only pages,461dialogue-voice cues and6501visual references. Entry remains B0256/SourceLock12.165; completed closure proposes B0257/12.166. Each chapter retains its actual known-then boundary before whole-family interpretation. The local feud is publicly ended and all four are reported to have failed the audition; Matsuri leadership acceptance is unestablished. All468 named waveform carriers remainUNHEARD; runtimeUNOBSERVED. Catalog order does not fix exact dates or Main insertion;2053UNOPENED. B0258 closes the six complete documents of original Event family 200600, 姉妹ガールズバンド！～4Uの新弟子！？～の巻, catalog 933–938, at SourceLock 12.167 after the genuine B0257/12.166 entering state. All 693 native pages comprise 576 written records and 117 command-only pages, with 523 dialogue-voice carriers and 5,952 visual references. Each chapter was completely read and frozen before the next; the whole family was reconstructed after all six. Selected stills were actually reviewed. All 530 named voice resources remain unheard, and runtime remains unobserved. T7S_B0259 concerns Event/category2/root100010, original family200610, ナナスタ・聖なる夜の悪だくみの巻, catalog939–944 and episodes518026001–518026006 in the admitted Japanese offline witness T7S_GAME_OFFLINE_JA_R484, corpus c20260909-r484. The entering published analytical boundary is B0258/SourceLock12.167. The source receipt binds506native pages:434TextArea records,72command-only pages,396dialogue-voice occurrences and3318visual references. All six text/native packets were actually acquired in83bounded parts, and every chapter was frozen before the next chapter exposure. Selected stills, backgrounds and title assets were actually viewed as recorded separately for each chapter. All403named waveform resources—396dialogue and7non-dialogue title/family-title cues—remain unheard. The38text turns without a named original dialogue cue are Oosugi twice in chapter2 and twice in chapter5, and34Player turns in chapter6. No continuous audiovisual runtime was inspected. Textual and static findings remain distinct from proposed performed-voice extensions. Administrative authority metadata is not literary evidence.
+
+T7S_B0260 continues this ledger through the single complete New Year calligraphy case in original Event family NM-EVENT-200620. See the B0260 component route below. The review carries 244 native pages and directly inspected selected original stills. All 164 named source WAVs remain unheard, and continuous runtime is unobserved.
+
+Read the complete manifest-bound logical ledger through its current owner, manifest and every ordered component before interpreting or editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
+
+## Current state
+
+`event_records = 2813`; `world_state_records = 29`; `thread_records = 57`; `chronology_and_dependency_edges = 2789`; `last_closed_block = T7S_B0260`. The admitted horizon contains1136primary documents:235Main,280i-n-g,349Intimacy,45Short,12Legend,9ManyMerryParty,48Birthday and158Event, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All280admitted i-n-g episode documents,349Intimacy across49complete family portfolios,45independent Short messages and12complete Legend documents/6native pairs plus9ManyMerryParty documents and48independent Birthday portfolios plus158Event documents in43original portfolios are integrated; all further non-Main and every2053semantic state remain outside this ledger horizon. Legend route ordinals/recollections support bounded ordering, not an exact Main calendar or observed intervening contests. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+
+## Event record contract
+
+Use `EV-B0001-001` for an event, where the stable block ID remains independent of diegetic chronology. A record contains:
+
+| Field | Required content |
+| --- | --- |
+| Identity/scope | Event ID, block ID and canonical reading route, native family/episode/script/document range, witness and source-lock version |
+| Position | Native presentation order; separately narrated/framing time, era/interval and confidence, retelling/flashback/branch mode |
+| Causal chain | Starting situation, prerequisites, participants as known, location/context, initiating condition, goals, action/decision, immediate and durable consequence |
+| Evidence class | Source-established fact, attributed report, bounded causal inference or unresolved; explicit cause differs from participant explanation |
+| State delta | References to character, epistemic, directional relationship, unit/institution and world-state changes; no duplicate scene prose |
+| Threads | Opened/advanced/closed/still-unresolved thread IDs, obligations and evidenced pressures |
+| Evidence/revision | Exact locators/ranges, uncertainty, later annotation marker, correction trigger, old/new claim and affected destinations |
+
+`WORLD-0001` identifies a world/institution situation; `THREAD-0001` a continuing problem, promise or conflict; `EDGE-0001` a typed dependency. Each records its supported interval, current state, grounding events and retained transition history. A closed thread records the resolving event; silence does not close it. Offscreen causes remain uncertain when the source does not establish them.
+
+B0234distinguishes presentation order from story time: the first7documents progress from search to live eve, the after-party reports an elided live, and the final other-side returns to live day and an earlier school recollection. Costume recovery/default-blame correction are current answers, not OPEN theft claims.
+
+B0235has three independent birthday dates/years left unspecified. Its nine new edges are document-local text/cut sequences; no edge joins the parties or claims later execution of a pledge. The three declared inline-loop contents and all27available voice cues remain unreviewed as performance.
+
+B0236adds twelve independent whole Birthday documents in catalog732-743. Its26new chronology edges are document-local text/cut sequences; none joins the parties or turns a wish, offered invitation or costume gift into an observed future outcome. All176current voice cues remain unheard, eleven declared loop contents unresolved and runtime unobserved; Nicole has no InlineMovie reference in this source.
+
+B0237 adds twelve independent Birthday documents in catalog744-755. Twenty-four new edges are document-local sequence; one retains Murasaki's source-local previous-day Ferb report, with exact annual-instance identity and wider chronology unresolved. No earlier case freeze is rewritten. All166voices remain unheard, twelve loop contents unresolved and runtime unobserved.
+
+B0238 adds twelve whole Birthday portfolios/catalog756-767.44factual facets add21checked disjoint sequence links,10graphic-component dependencies and1Rui-attributed recollection of earlier grand birthdays without equating annual instances. All263voices remain unheard,12actual movie contents narrowly unresolved and runtime unobserved. Every older freeze and chronology qualification remains.
+
+B0239 adds final nine whole Birthday portfolios/catalog768-776.48factual facets add27checked disjoint document-local sequence links and7graphic-component inclusions; no common party/year or exact Main placement.169voices remain unheard,10actual movie contents unresolved and runtime unobserved. Six Kajika literal-space voice fields remain exact. Every original freeze and earlier chronology qualification remains.
+
+B0240 adds two whole Event portfolios/catalog788-789.16factual facets add14document-sequence links and1particular same-meal continuation, with no exact gap/year/Main placement.140native voice references accounted;139availableWAVs unheard and one exact non-dialogue ending title unresolved. Both original freezes, actual failure/probe and earlier chronology qualifications remain.
+
+B0241 adds two independent whole Event portfolios/catalog790-791.29factual facets and27within-document order links; first NewYear choice facet retains two alternatives, no cross-document chronology edge.306named voice references accounted;304availableWAVs unheard and2exact command-only endings unresolved. Original freezes, actual failures/recovery and all earlier chronology qualifications remain.
+
+B0242 adds complete3chapter Event family200240/catalog792-794.26factualfacets and25sequence links (23withinchapter,2nativechapterorder); noexactelapsedtime/Maininsertion orfinallyrics/live.144namedvoice references accounted;143availableWAVsunheard and1exactcommandendingunresolved. Originalfreezes andall earlierqualifications retained.
+
+B0243 adds82factual facets and79order links:67within-document and12within-family chapter links, with no cross-family EDGE. Reports, disputed intention and conditional future care retain their sources. All original freezes, older seven edge-ID gaps and actual audio/static limits remain.
+
+B0244 adds66factual facets and63order links:52within-document and11within-family chapter links; no cross-family EDGE. Selected self-accounts, attributed motives, nested testimony, private inference and future offers/remedies retain their sources. Earlier seven edge-ID gaps and all original modality/chronology limits remain.
+
+B0245 adds65factual facets and63order links:50within-document,12within-family and one source-explicit front/back camp continuation. No other cross-family edge or automatic presentation-to-cause inference. Reports, disputed appraisal, nested testimony, qualified permission and proposed live retain their sources. All seven prior edge-ID gaps and original modality/chronology limits remain.
+
+B0246 adds61factual facets and58order links:46within-document and12within-family. No cross-family time/cause edge or automatic presentation-to-cause inference. Reports, authored fantasies, unfinished choices and objections retain their source frames. All seven older edge-ID gaps and chronology/modality limits remain.
+
+B0247 adds61factual facets and58order links:50within-document and8within-family. No cross-familytime/cause edge or automaticpresentation-to-cause inference. Reports,localalias,authoredfantasy,explicitboundaries,unfinishedproposals andsleepdenial retain sourceframes. Allsevenolderedge-IDgaps and chronology/modalitylimits remain.
+
+B0248 adds83factual facets and80order links:68within-document and12within-family. No cross-familytime/cause edge or automaticpresentation-to-cause inference. Reports,privateinterpretations,hypotheticals,explicitboundaries,themechoice,unfinishedacts andpreparationclosure retain sourceframes. Allsevenolderedge-IDgaps and chronology/modalitylimits remain.
+
+B0249 adds56factual facets and53order links:49within-document and4within-family. No cross-familytime/cause edge or automaticpresentation-to-cause inference. Reports,private thought,hypothetical advice,local refusal,unfinished futures and unresolved bodily outcomes retain sourceframes. Allsevenolderedge-IDgaps and chronology/modalitylimits remain.
+
+B0250 adds43 factual facets and40 order links:38 within-document and2 within-family. No cross-family time/cause edge or automatic presentation-to-cause inference. Screen address, reported permission, uncertainty, refusal and unfinished futures retain source frames. All seven older edge-ID gaps and chronology/modality limits remain.
+
+B0251 adds71factualfacets and68typedlinks:62within-document presentation,one opening/closing-framing-facetindex and5within-familychapterlinks. The framing index is not event chronology;no cross-familytime/cause edge or automatic presentation-to-cause inference. Separate contributors,reports,unmatched referents,gradedconsent and futureactsretain sourceframes. Allsevenolderedge-IDgaps andchronology/modalitylimits remain.
+
+B0252 adds38factualfacets and35within-documentpresentationlinks. No automatic cause or cross-familytime/cause edge follows. Interested interpretations,privacydenial,correctedwelcome,namedgamecontributions and futureacts retain holders/sourceframes. Allsevenolderedge-IDgaps andchronology/modalitylimits remain.
+
+B0253 adds56factualfacets and55presentationlinks:50within-document plus5original six-chapter presentation links. These do not establish automatic cause,absolute chronology or Main insertion. Shared attention strategy retains different underlying grievances and unequal audiences; announced/agreed/reported/future/completed acts remain distinct. Allsevenolderedge-IDgaps andchronology/modalitylimits remain.
+
+B0254 adds48factualfacets and47presentationlinks:42within-document plus5originalsix-chapter links. No automaticcause/absolutecalendar/Main insertion. Practicalcare,pressure,substituteddesire and privatecoordination remain differentiated;generalcompletion isqualified by deferredshoot and proposedrepeatweek. All7olderedge-IDgaps andchronology/modalitylimits remain.
+
+B0255 adds45 factual facets and44 presentation links:39 within-document plus5 original six-chapter links. Three private propositions,care/interference and distributed shared-unit authorship remain distinct. Work recovery does not clear the false head premise or supply Player with its origin. All7older edge-ID gaps and chronology/modality limits remain.
+
+B0256 adds35 factual facets and34 presentation links:29 within-document plus5 original six-chapter links. Five contests distinguish locally demonstrated skill,knowledge,judgment and social recognition. Explicit friend/family-like acknowledgment coexists with the official KARAKURI win and disputed ruling;Ume renews rivalry. All7older edge-ID gaps and chronology/modality limits remain.
+
+B0257 adds43 factual facets and42 presentation links:37 within-document plus5 original six-chapter links. Rehearsal and wrong-school welcome lead through failed mediation to a four-person joint live and publicly declared local feud end; Matsuri leadership acceptance remains unestablished and casting is reported failed. All7older edge-ID gaps and chronology/modality limits remain.
+
+B0258 adds59 factual facets and58 presentation links:53 within-document plus5 original six-chapter links. The sisters learn and play the intro while4U supplies the continuation behind the scenes. The final flashback discloses the earlier plan without revising prior known-then exits;the temporary project announces its local ending. Public disclosure,address transfer,email and the upcoming4Ulive remain unshown. All7older edge-ID gaps and chronology/modality limits remain.
+
+B0259 adds the six-case NM-EVENT-200610 family: Christmas preparation conflict, selective hobby-tour uptake, exposed limits of recruitment, an unintended ritual-linked reversal, and a final decision to defer restoration while redistributing preparation work. Its 49 factual facets are ordered separately from the bounded causal arguments. Open gifts, purchases, travel, tournament, manuscript, restoration and party outcomes remain distinguished from shown events, reports and commitments. Selected still observations are recorded at their actual scope; performed voice and continuous runtime remain pending.
+
+<!-- T7S STORY CAUSAL STATE COMPONENT ROUTES -->
+
+The complete current story ledger is the manifest-bound logical prefix plus every ordered component payload. This wrapper alone is not the complete ledger. All original heading addresses route below.
+
+<a id="current-event-records"></a>
+
+[Current event records](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#current-event-records)
+
+<a id="first-2034-non-main-i-n-g-portfolio-tranche"></a>
+
+[First 2034 non-Main i-n-g portfolio tranche](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#first-2034-non-main-i-n-g-portfolio-tranche)
+
+<a id="current-world-state-records"></a>
+
+[Current world-state records](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#current-world-state-records)
+
+<a id="current-thread-records"></a>
+
+[Current thread records](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#current-thread-records)
+
+<a id="current-chronology-and-dependency-edges"></a>
+
+[Current chronology and dependency edges](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#current-chronology-and-dependency-edges)
+
+<a id="closeout-and-consistency"></a>
+
+[Closeout and consistency](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#closeout-and-consistency)
+
+<a id="b0100-bounded-i-n-g-state-addition"></a>
+
+[B0100 bounded i-n-g state addition](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0100-bounded-i-n-g-state-addition)
+
+<a id="b0101-bounded-i-n-g-state-addition"></a>
+
+[B0101 bounded i-n-g state addition](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0101-bounded-i-n-g-state-addition)
+
+<a id="b0102-bounded-i-n-g-state-addition"></a>
+
+[B0102 bounded i-n-g state addition](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0102-bounded-i-n-g-state-addition)
+
+<a id="b0103-nightmare-and-knowledge-boundary-addition"></a>
+
+[B0103 nightmare and knowledge-boundary addition](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0103-nightmare-and-knowledge-boundary-addition)
+
+<a id="b0104-manuscript-access-and-chosen-conversation-addition"></a>
+
+[B0104 manuscript access and chosen conversation addition](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0104-manuscript-access-and-chosen-conversation-addition)
+
+<a id="b0105-self-denial-scale-and-care-addition"></a>
+
+[B0105 self-denial, scale and care addition](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0105-self-denial-scale-and-care-addition)
+
+<a id="b0106-off-day-labor-public-address-and-rumor-addition"></a>
+
+[B0106 off-day labor, public address and rumor addition](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0106-off-day-labor-public-address-and-rumor-addition)
+
+<a id="b0107-musubi-consent-craft-and-uncertain-self-addition"></a>
+
+[B0107 Musubi consent, craft and uncertain self addition](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0107-musubi-consent-craft-and-uncertain-self-addition)
+
+<a id="b0108-rona-solo-attempt-safety-dilemma-and-incomplete-performance-addition"></a>
+
+[B0108 Rona solo attempt, safety dilemma and incomplete performance addition](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0108-rona-solo-attempt-safety-dilemma-and-incomplete-performance-addition)
+
+<a id="b0109-hime-illness-competitive-care-and-reversible-sister-roles-addition"></a>
+
+[B0109 Hime illness, competitive care and reversible sister roles addition](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0109-hime-illness-competitive-care-and-reversible-sister-roles-addition)
+
+<a id="b0110-momoka-documentary-portrait-and-production-boundary-addition"></a>
+
+[B0110 Momoka documentary portrait and production boundary addition](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0110-momoka-documentary-portrait-and-production-boundary-addition)
+
+<a id="b0111-sumire-alternative-path-and-present-specialness-addition"></a>
+
+[B0111 Sumire alternative path and present specialness addition](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0111-sumire-alternative-path-and-present-specialness-addition)
+
+<a id="b0112-sui-food-rule-victory-publicity-and-hime-labor-addition"></a>
+
+[B0112 Sui food rule, victory publicity and Hime labor addition](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0112-sui-food-rule-victory-publicity-and-hime-labor-addition)
+
+<a id="b0113-shizuka-at-the-fish-shop-and-the-unequal-household-exchange"></a>
+
+[B0113 Shizuka at the fish shop and the unequal household exchange](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0113-shizuka-at-the-fish-shop-and-the-unequal-household-exchange)
+
+<a id="b0114-suss-study-camp-rest-boundary-and-unconsulted-reward"></a>
+
+[B0114 Suss study camp, rest boundary and unconsulted reward](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0114-suss-study-camp-rest-boundary-and-unconsulted-reward)
+
+<a id="b0115-sawara-ability-preference-and-collaborative-fit"></a>
+
+[B0115 Sawara ability, preference and collaborative fit](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0115-sawara-ability-preference-and-collaborative-fit)
+
+<a id="b0116-kajikas-framed-space-trial-and-unequal-retrospective-consent"></a>
+
+[B0116 Kajika's framed space trial and unequal retrospective consent](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0116-kajikas-framed-space-trial-and-unequal-retrospective-consent)
+
+<a id="b0117-shinju-child-show-performance-and-particular-play"></a>
+
+[B0117 Shinju child-show performance and particular play](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0117-shinju-child-show-performance-and-particular-play)
+
+<a id="b0118-tomoes-protective-bridge-shared-lead-and-bodily-limit"></a>
+
+[B0118 Tomoe's protective bridge, shared lead and bodily limit](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0118-tomoes-protective-bridge-shared-lead-and-bodily-limit)
+
+<a id="b0119-four-middle-school-performers-and-a-nearer-center"></a>
+
+[B0119 four middle-school performers and a nearer center](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0119-four-middle-school-performers-and-a-nearer-center)
+
+<a id="b0120-ayumus-formal-service-lesson-and-café-context-mismatch"></a>
+
+[B0120 Ayumu's formal service lesson and café-context mismatch](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0120-ayumus-formal-service-lesson-and-café-context-mismatch)
+
+<a id="b0121-kyokos-horror-offer-rehearsal-and-bounded-broadcast-report"></a>
+
+[B0121 Kyoko's horror offer, rehearsal and bounded broadcast report](T7S_STORY_CAUSAL_STATE_COMPONENT_001.md#b0121-kyokos-horror-offer-rehearsal-and-bounded-broadcast-report)
+
+<a id="b0122-honokas-selected-role-exercise-and-peer-boundary"></a>
+
+[B0122 Honoka's selected role exercise and peer boundary](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0122-honokas-selected-role-exercise-and-peer-boundary)
+
+<a id="b0123-renas-love-letter-capacity-decision-and-private-reply"></a>
+
+[B0123 Rena's love letter, capacity decision and private reply](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0123-renas-love-letter-capacity-decision-and-private-reply)
+
+<a id="b0124-mimis-cover-hidden-load-and-shared-risk-limit"></a>
+
+[B0124 Mimi's cover, hidden load and shared-risk limit](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0124-mimis-cover-hidden-load-and-shared-risk-limit)
+
+<a id="b0125-ferbs-injury-unoptimized-peer-time-and-unfinished-commission"></a>
+
+[B0125 Ferb's injury, unoptimized peer time and unfinished commission](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0125-ferbs-injury-unoptimized-peer-time-and-unfinished-commission)
+
+<a id="b0126-false-death-premise-unsafe-tests-and-bounded-correction"></a>
+
+[B0126 false death premise, unsafe tests and bounded correction](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0126-false-death-premise-unsafe-tests-and-bounded-correction)
+
+<a id="b0127-mius-undisclosed-idol-work-and-two-valued-memberships"></a>
+
+[B0127 Miu's undisclosed idol work and two valued memberships](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0127-mius-undisclosed-idol-work-and-two-valued-memberships)
+
+<a id="b0128-monakas-school-tour-under-a-mistaken-acting-requirement"></a>
+
+[B0128 Monaka's school tour under a mistaken acting requirement](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0128-monakas-school-tour-under-a-mistaken-acting-requirement)
+
+<a id="b0129-eis-one-day-shrine-show-and-unanticipated-media-audience"></a>
+
+[B0129 Ei's one-day shrine show and unanticipated media audience](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0129-eis-one-day-shrine-show-and-unanticipated-media-audience)
+
+<a id="b0130-manons-magiko-outing-queue-risk-and-staged-inclusion"></a>
+
+[B0130 Manon's Magiko outing, queue risk and staged inclusion](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0130-manons-magiko-outing-queue-risk-and-staged-inclusion)
+
+<a id="b0131-yumenos-changed-memory-two-accidents-and-unresolved-boundary"></a>
+
+[B0131 Yumeno's changed memory, two accidents and unresolved boundary](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0131-yumenos-changed-memory-two-accidents-and-unresolved-boundary)
+
+<a id="b0132-miwakos-guided-festival-outing-and-separate-stage-offer"></a>
+
+[B0132 Miwako's guided festival outing and separate-stage offer](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0132-miwakos-guided-festival-outing-and-separate-stage-offer)
+
+<a id="b0133-tashas-adult-model-aspiration-and-repaired-listening"></a>
+
+[B0133 Tasha's adult-model aspiration and repaired listening](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0133-tashas-adult-model-aspiration-and-repaired-listening)
+
+<a id="b0134-shisaras-chosen-weak-task-experiment-with-tomoe"></a>
+
+[B0134 Shisara's chosen weak-task experiment with Tomoe](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0134-shisaras-chosen-weak-task-experiment-with-tomoe)
+
+<a id="b0135-jedahs-bon-dance-difficulty-and-reciprocal-teaching"></a>
+
+[B0135 Jedah's bon-dance difficulty and reciprocal teaching](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0135-jedahs-bon-dance-difficulty-and-reciprocal-teaching)
+
+<a id="b0136-a-real-watcher-within-an-imagined-organization-mission"></a>
+
+[B0136 a real watcher within an imagined organization mission](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0136-a-real-watcher-within-an-imagined-organization-mission)
+
+<a id="b0137-rishuris-internship-three-month-interval-and-chosen-return"></a>
+
+[B0137 Rishuri's internship, three-month interval and chosen return](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0137-rishuris-internship-three-month-interval-and-chosen-return)
+
+<a id="b0138-saoris-smile-boundary-and-the-childs-chosen-timing"></a>
+
+[B0138 Saori's smile boundary and the child's chosen timing](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0138-saoris-smile-boundary-and-the-childs-chosen-timing)
+
+<a id="b0139-shirayukis-one-live-quartet-and-hidden-older-peer-care"></a>
+
+[B0139 Shirayuki's one-live quartet and hidden older-peer care](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0139-shirayukis-one-live-quartet-and-hidden-older-peer-care)
+
+<a id="b0140-murasakis-school-festival-cover-and-contested-miss-purple"></a>
+
+[B0140 Murasaki's school-festival cover and contested `Miss Purple`](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0140-murasakis-school-festival-cover-and-contested-miss-purple)
+
+<a id="b0141-makotos-divided-attention-sumires-correction-and-reciprocal-gift"></a>
+
+[B0141 Makoto's divided attention, Sumire's correction and reciprocal gift](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0141-makotos-divided-attention-sumires-correction-and-reciprocal-gift)
+
+<a id="b0142-kazumis-chosen-bar-work-and-reciprocal-unfamiliarity"></a>
+
+[B0142 Kazumi's chosen bar work and reciprocal unfamiliarity](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0142-kazumis-chosen-bar-work-and-reciprocal-unfamiliarity)
+
+<a id="b0143-xiaos-film-offer-heterogenous-training-and-role-control-limit"></a>
+
+[B0143 Xiao's film offer, heterogenous training and role-control limit](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0143-xiaos-film-offer-heterogenous-training-and-role-control-limit)
+
+<a id="b0144-harus-day-of-detours-shared-venue-labor-and-dream-costume"></a>
+
+[B0144 Haru's day of detours, shared venue labor and dream costume](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0144-harus-day-of-detours-shared-venue-labor-and-dream-costume)
+
+<a id="b0145-musubis-search-estranged-perfection-and-offered-shared-work"></a>
+
+[B0145 Musubi's search, estranged perfection and offered shared work](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0145-musubis-search-estranged-perfection-and-offered-shared-work)
+
+<a id="b0146-rona-passes-on-courage-without-requiring-identity-copying"></a>
+
+[B0146 Rona passes on courage without requiring identity-copying](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0146-rona-passes-on-courage-without-requiring-identity-copying)
+
+<a id="b0147-himes-party-disguise-protective-action-and-recognition"></a>
+
+[B0147 Hime's party disguise, protective action and recognition](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0147-himes-party-disguise-protective-action-and-recognition)
+
+<a id="b0148-momokas-imagined-nonwork-becomes-bodily-overwork"></a>
+
+[B0148 Momoka's imagined nonwork becomes bodily overwork](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0148-momokas-imagined-nonwork-becomes-bodily-overwork)
+
+<a id="b0149-sumire-seeks-a-witness-while-finding-her-stage-reason"></a>
+
+[B0149 Sumire seeks a witness while finding her stage reason](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0149-sumire-seeks-a-witness-while-finding-her-stage-reason)
+
+<a id="b0150-sui-masaru-and-a-reward-called-a-date"></a>
+
+[B0150 Sui, Masaru and a reward called a date](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0150-sui-masaru-and-a-reward-called-a-date)
+
+<a id="b0151-shizuka-the-sponsor-and-an-on-air-answer"></a>
+
+[B0151 Shizuka, the sponsor and an on-air answer](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0151-shizuka-the-sponsor-and-an-on-air-answer)
+
+<a id="b0152-susus-audition-principle-and-private-disappointment"></a>
+
+[B0152 Susu's audition, principle and private disappointment](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0152-susus-audition-principle-and-private-disappointment)
+
+<a id="b0153-sawaras-phantom-thief-intervention-and-image-boundaries"></a>
+
+[B0153 Sawara's phantom-thief intervention and image boundaries](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0153-sawaras-phantom-thief-intervention-and-image-boundaries)
+
+<a id="b0154-kajikas-private-club-petition-and-reciprocal-gaze"></a>
+
+[B0154 Kajika's private-club petition and reciprocal gaze](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0154-kajikas-private-club-petition-and-reciprocal-gaze)
+
+<a id="b0155-shinjus-bounded-counsel-and-uncertain-frog-journey"></a>
+
+[B0155 Shinju's bounded counsel and uncertain frog journey](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0155-shinjus-bounded-counsel-and-uncertain-frog-journey)
+
+<a id="b0156-tomoes-friend-two-songs-and-separate-futures"></a>
+
+[B0156 Tomoe's friend, two songs and separate futures](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0156-tomoes-friend-two-songs-and-separate-futures)
+
+<a id="b0157-madokas-under-specified-casting-and-on-set-interpretation"></a>
+
+[B0157 Madoka's under-specified casting and on-set interpretation](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0157-madokas-under-specified-casting-and-on-set-interpretation)
+
+<a id="b0158-proposed-maid-stage-fever-and-reciprocal-service"></a>
+
+[B0158 proposed maid stage, fever and reciprocal service](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0158-proposed-maid-stage-fever-and-reciprocal-service)
+
+<a id="b0159-a-mothers-film-a-daughters-audition-and-her-present-name"></a>
+
+[B0159 a mother's film, a daughter's audition and her present name](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0159-a-mothers-film-a-daughters-audition-and-her-present-name)
+
+<a id="b0160-honoka-learns-to-teach-and-receives-one-pupils-response"></a>
+
+[B0160 Honoka learns to teach and receives one pupil's response](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0160-honoka-learns-to-teach-and-receives-one-pupils-response)
+
+<a id="b0161-renas-possible-recommendation-and-conditional-dual-pursuit"></a>
+
+[B0161 Rena's possible recommendation and conditional dual pursuit](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0161-renas-possible-recommendation-and-conditional-dual-pursuit)
+
+<a id="b0162-mimis-search-and-chosen-relational-fate"></a>
+
+[B0162 Mimi's search and chosen relational fate](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0162-mimis-search-and-chosen-relational-fate)
+
+<a id="b0163-ferbs-changed-commission-and-situated-cute-song-experiment"></a>
+
+[B0163 Ferb's changed commission and situated cute-song experiment](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0163-ferbs-changed-commission-and-situated-cute-song-experiment)
+
+<a id="b0164-chachas-temporary-school-visit-and-chosen-farewell-address"></a>
+
+[B0164 Chacha's temporary school visit and chosen farewell address](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0164-chachas-temporary-school-visit-and-chosen-farewell-address)
+
+<a id="b0165-mius-demanding-lead-and-consultation-before-protective-withdrawal"></a>
+
+[B0165 Miu's demanding lead and consultation before protective withdrawal](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0165-mius-demanding-lead-and-consultation-before-protective-withdrawal)
+
+<a id="b0166-finding-fitting-work-without-making-belonging-permanent-retention"></a>
+
+[B0166 finding fitting work without making belonging permanent retention](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0166-finding-fitting-work-without-making-belonging-permanent-retention)
+
+<a id="b0167-wanted-clothing-relational-memories-and-retained-private-knowledge"></a>
+
+[B0167 wanted clothing, relational memories and retained private knowledge](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0167-wanted-clothing-relational-memories-and-retained-private-knowledge)
+
+<a id="b0168-selective-diary-access-nested-ordinary-lessons-and-retained-private-authorship"></a>
+
+[B0168 selective diary access, nested ordinary lessons and retained private authorship](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0168-selective-diary-access-nested-ordinary-lessons-and-retained-private-authorship)
+
+<a id="b0169-imagined-relationships-actual-counterreplies-and-unrealized-manuscript-work"></a>
+
+[B0169 imagined relationships, actual counterreplies and unrealized manuscript work](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0169-imagined-relationships-actual-counterreplies-and-unrealized-manuscript-work)
+
+<a id="b0170-adult-respite-transferred-care-and-the-teacher-container-disclosure"></a>
+
+[B0170 adult respite, transferred care and the teacher-container disclosure](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0170-adult-respite-transferred-care-and-the-teacher-container-disclosure)
+
+<a id="b0171-child-authored-family-account-contested-audience-and-imperfect-care"></a>
+
+[B0171 child-authored family account, contested audience and imperfect care](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0171-child-authored-family-account-contested-audience-and-imperfect-care)
+
+<a id="b0172-assigned-exceptionalism-corrected-grievance-and-competitive-repair"></a>
+
+[B0172 assigned exceptionalism, corrected grievance and competitive repair](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0172-assigned-exceptionalism-corrected-grievance-and-competitive-repair)
+
+<a id="b0173-wanted-guest-work-family-film-memory-and-a-comic-shared-release"></a>
+
+[B0173 wanted guest work, family film memory and a comic shared release](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0173-wanted-guest-work-family-film-memory-and-a-comic-shared-release)
+
+<a id="b0174-game-leadership-shared-absorption-and-familiar-limits"></a>
+
+[B0174 game leadership, shared absorption and familiar limits](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0174-game-leadership-shared-absorption-and-familiar-limits)
+
+<a id="b0175-practical-care-shared-independence-and-recipient-room"></a>
+
+[B0175 practical care, shared independence and recipient room](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0175-practical-care-shared-independence-and-recipient-room)
+
+<a id="b0176-injury-free-recording-reciprocal-caution-and-shared-protection"></a>
+
+[B0176 injury-free recording, reciprocal caution and shared protection](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0176-injury-free-recording-reciprocal-caution-and-shared-protection)
+
+<a id="b0177-family-taste-distributed-work-and-another-home"></a>
+
+[B0177 family taste, distributed work and another home](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0177-family-taste-distributed-work-and-another-home)
+
+<a id="b0178-other-directions-and-the-work-of-finding-ones-colour"></a>
+
+[B0178 other directions and the work of finding one's colour](T7S_STORY_CAUSAL_STATE_COMPONENT_002.md#b0178-other-directions-and-the-work-of-finding-ones-colour)
+
+<a id="b0179-competing-promises-and-the-maids-chosen-return"></a>
+
+[B0179 competing promises and the maid's chosen return](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0179-competing-promises-and-the-maids-chosen-return)
+
+<a id="b0180-opening-the-role-toward-its-viewers"></a>
+
+[B0180 opening the role toward its viewers](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0180-opening-the-role-toward-its-viewers)
+
+<a id="b0181-effort-gratitude-and-the-distance-between-words"></a>
+
+[B0181 effort, gratitude and the distance between words](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0181-effort-gratitude-and-the-distance-between-words)
+
+<a id="b0182-sisaras-seven-ordinary-life-presentations"></a>
+
+[B0182 Sisara's seven ordinary-life presentations](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0182-sisaras-seven-ordinary-life-presentations)
+
+<a id="b0183-suis-independent-ordinary-life-presentations"></a>
+
+[B0183 Sui's independent ordinary-life presentations](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0183-suis-independent-ordinary-life-presentations)
+
+<a id="b0184-ronas-independent-ordinary-life-presentations"></a>
+
+[B0184 Rona's independent ordinary-life presentations](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0184-ronas-independent-ordinary-life-presentations)
+
+<a id="b0185-harus-independent-ordinary-life-presentations"></a>
+
+[B0185 Haru's independent ordinary-life presentations](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0185-harus-independent-ordinary-life-presentations)
+
+<a id="b0186-kyokos-requests-and-professional-restraint"></a>
+
+[B0186 Kyoko's requests and professional restraint](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0186-kyokos-requests-and-professional-restraint)
+
+<a id="b0187-shizukas-independent-ordinary-life-presentations"></a>
+
+[B0187 Shizuka's independent ordinary-life presentations](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0187-shizukas-independent-ordinary-life-presentations)
+
+<a id="b0188-himes-independent-ordinary-life-presentations"></a>
+
+[B0188 Hime's independent ordinary-life presentations](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0188-himes-independent-ordinary-life-presentations)
+
+<a id="b0189-mimis-older-sister-address-across-independent-occasions"></a>
+
+[B0189 Mimi's older-sister address across independent occasions](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0189-mimis-older-sister-address-across-independent-occasions)
+
+<a id="b0190-ferbs-short-addresses-and-complete-named-attention-episode"></a>
+
+[B0190 Ferb's short addresses and complete named-attention episode](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0190-ferbs-short-addresses-and-complete-named-attention-episode)
+
+<a id="b0191-momokas-selective-investment-and-continuing-place"></a>
+
+[B0191 Momoka's selective investment and continuing place](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0191-momokas-selective-investment-and-continuing-place)
+
+<a id="b0192-nicoles-selected-listeners-and-passing-idol-world"></a>
+
+[B0192 Nicole's selected listeners and passing idol world](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0192-nicoles-selected-listeners-and-passing-idol-world)
+
+<a id="b0193-mitos-song-and-the-demand-to-be-visible"></a>
+
+[B0193 Mito's song and the demand to be visible](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0193-mitos-song-and-the-demand-to-be-visible)
+
+<a id="b0194-manas-wishes-and-the-meanings-others-supply"></a>
+
+[B0194 Mana's wishes and the meanings others supply](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0194-manas-wishes-and-the-meanings-others-supply)
+
+<a id="b0195-kurts-categories-inside-an-imposed-presentation-frame"></a>
+
+[B0195 Kurt's categories inside an imposed presentation frame](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0195-kurts-categories-inside-an-imposed-presentation-frame)
+
+<a id="b0196-ruis-chosen-access-and-particular-limits"></a>
+
+[B0196 Rui's chosen access and particular limits](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0196-ruis-chosen-access-and-particular-limits)
+
+<a id="b0197-memorus-love-and-the-terms-she-sets"></a>
+
+[B0197 Memoru's love and the terms she sets](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0197-memorus-love-and-the-terms-she-sets)
+
+<a id="b0198-kazumis-words-taste-and-chosen-interpreters"></a>
+
+[B0198 Kazumi's words, taste and chosen interpreters](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0198-kazumis-words-taste-and-chosen-interpreters)
+
+<a id="b0199-renas-chosen-heights-and-the-terms-of-support"></a>
+
+[B0199 Rena's chosen heights and the terms of support](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0199-renas-chosen-heights-and-the-terms-of-support)
+
+<a id="b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry"></a>
+
+[B0200 Honoka's ordinary self and the happiness she chooses to carry](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry)
+
+<a id="b0201-makotos-offered-closeness-and-the-pressure-of-being-known"></a>
+
+[B0201 Makoto's offered closeness and the pressure of being known](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0201-makotos-offered-closeness-and-the-pressure-of-being-known)
+
+<a id="b0202-madokas-chosen-bridges-and-unfinished-invitations"></a>
+
+[B0202 Madoka's chosen bridges and unfinished invitations](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0202-madokas-chosen-bridges-and-unfinished-invitations)
+
+<a id="b0203-musubis-chosen-openings-and-the-limits-of-disclosure"></a>
+
+[B0203 Musubi's chosen openings and the limits of disclosure](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0203-musubis-chosen-openings-and-the-limits-of-disclosure)
+
+<a id="b0204-rishuris-own-pattern-and-the-company-that-widens-it"></a>
+
+[B0204 Rishuri's own pattern and the company that widens it](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0204-rishuris-own-pattern-and-the-company-that-widens-it)
+
+<a id="b0205-yumenos-looking-making-and-borrowed-permission"></a>
+
+[B0205 Yumeno's looking, making and borrowed permission](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0205-yumenos-looking-making-and-borrowed-permission)
+
+<a id="b0206-tashas-names-for-closeness-and-an-unfinished-future"></a>
+
+[B0206 Tasha's names for closeness and an unfinished future](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0206-tashas-names-for-closeness-and-an-unfinished-future)
+
+<a id="b0207-jedas-effort-and-her-ways-of-seeing"></a>
+
+[B0207 Jeda's effort and her ways of seeing](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0207-jedas-effort-and-her-ways-of-seeing)
+
+<a id="b0208-saoris-safety-and-the-reception-of-care"></a>
+
+[B0208 Saori's safety and the reception of care](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0208-saoris-safety-and-the-reception-of-care)
+
+<a id="b0209-sumires-recognition-and-the-pace-of-closeness"></a>
+
+[B0209 Sumire's recognition and the pace of closeness](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0209-sumires-recognition-and-the-pace-of-closeness)
+
+<a id="b0210-sawaras-older-sister-role-and-wanted-company"></a>
+
+[B0210 Sawara's older-sister role and wanted company](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0210-sawaras-older-sister-role-and-wanted-company)
+
+<a id="b0211-kajikas-ordinary-self-and-wanted-recognition"></a>
+
+[B0211 Kajika's ordinary self and wanted recognition](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0211-kajikas-ordinary-self-and-wanted-recognition)
+
+<a id="b0212-shinjus-dependable-company-and-chosen-limits"></a>
+
+[B0212 Shinju's dependable company and chosen limits](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0212-shinjus-dependable-company-and-chosen-limits)
+
+<a id="b0213-monakas-wanted-work-and-unevenly-received-care"></a>
+
+[B0213 Monaka's wanted work and unevenly received care](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0213-monakas-wanted-work-and-unevenly-received-care)
+
+<a id="b0214-eis-chosen-company-and-the-ownership-of-affection"></a>
+
+[B0214 Ei's chosen company and the ownership of affection](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0214-eis-chosen-company-and-the-ownership-of-affection)
+
+<a id="b0215-matsuris-play-wanted-recognition-and-local-corrections"></a>
+
+[B0215 Matsuri's play, wanted recognition and local corrections](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0215-matsuris-play-wanted-recognition-and-local-corrections)
+
+<a id="b0216-tomoes-wanted-company-giving-care-and-uncertain-worth"></a>
+
+[B0216 Tomoe's wanted company, giving care and uncertain worth](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0216-tomoes-wanted-company-giving-care-and-uncertain-worth)
+
+<a id="b0217-mius-tangible-specialness-and-imagined-shared-life"></a>
+
+[B0217 Miu's tangible specialness and imagined shared life](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0217-mius-tangible-specialness-and-imagined-shared-life)
+
+<a id="b0218-xiaos-courage-company-and-selective-disclosure"></a>
+
+[B0218 Xiao's courage, company and selective disclosure](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0218-xiaos-courage-company-and-selective-disclosure)
+
+<a id="b0219-manons-chosen-company-and-imagined-roles"></a>
+
+[B0219 Manon's chosen company and imagined roles](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0219-manons-chosen-company-and-imagined-roles)
+
+<a id="b0220-chachas-boundaries-preferences-and-chosen-company"></a>
+
+[B0220 ChaCha's boundaries, preferences and chosen company](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0220-chachas-boundaries-preferences-and-chosen-company)
+
+<a id="b0221-murasakis-own-colour-and-the-feeling-she-addresses"></a>
+
+[B0221 Murasaki's own colour and the feeling she addresses](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0221-murasakis-own-colour-and-the-feeling-she-addresses)
+
+<a id="b0222-miwakos-chosen-disclosures-study-and-reciprocal-teaching"></a>
+
+[B0222 Miwako's chosen disclosures, study and reciprocal teaching](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0222-miwakos-chosen-disclosures-study-and-reciprocal-teaching)
+
+<a id="b0223-ayumus-service-ideal-practice-and-fallible-explanations"></a>
+
+[B0223 Ayumu's service ideal, practice and fallible explanations](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0223-ayumus-service-ideal-practice-and-fallible-explanations)
+
+<a id="b0224-shirayukis-growing-skills-and-wanted-company"></a>
+
+[B0224 Shirayuki's growing skills and wanted company](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0224-shirayukis-growing-skills-and-wanted-company)
+
+<a id="b0225-hinas-self-presentation-and-qualified-resolve"></a>
+
+[B0225 Hina's self-presentation and qualified resolve](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0225-hinas-self-presentation-and-qualified-resolve)
+
+<a id="b0226-emocos-audience-refusals-and-particular-care"></a>
+
+[B0226 Emoco's audience, refusals and particular care](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0226-emocos-audience-refusals-and-particular-care)
+
+<a id="b0227-umes-account-of-herself-interrupted"></a>
+
+[B0227 Ume's account of herself, interrupted](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0227-umes-account-of-herself-interrupted)
+
+<a id="b0228-hitoha-and-futaba-extend-the-duet"></a>
+
+[B0228 Hitoha and Futaba extend the duet](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0228-hitoha-and-futaba-extend-the-duet)
+
+<a id="b0229-susu-asks-to-be-understood"></a>
+
+[B0229 Susu asks to be understood](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0229-susu-asks-to-be-understood)
+
+<a id="b0230-coney-asks-what-the-manager-wants"></a>
+
+[B0230 Coney asks what the manager wants](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0230-coney-asks-what-the-manager-wants)
+
+<a id="b0231-three-short-messages-and-an-unanswered-recipient"></a>
+
+[B0231 Three Short messages and an unanswered recipient](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0231-three-short-messages-and-an-unanswered-recipient)
+
+<a id="b0232-forty-two-short-messages-offered-selves-and-absent-answers"></a>
+
+[B0232 Forty-two Short messages, offered selves and absent answers](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0232-forty-two-short-messages-offered-selves-and-absent-answers)
+
+<a id="b0233-legend-encounters-inherited-images-and-present-work"></a>
+
+[B0233 Legend encounters, inherited images and present work](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0233-legend-encounters-inherited-images-and-present-work)
+
+<a id="b0233-bounded-world-qualifier"></a>
+
+[B0233 bounded world qualifier](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0233-bounded-world-qualifier)
+
+<a id="b0234-costume-search-corrected-attribution-and-delegated-performance"></a>
+
+[B0234 costume search, corrected attribution and delegated performance](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0234-costume-search-corrected-attribution-and-delegated-performance)
+
+<a id="b0234-local-thread-closure-and-presentationchronology-edges"></a>
+
+[B0234 local thread closure and presentation/chronology edges](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0234-local-thread-closure-and-presentationchronology-edges)
+
+<a id="b0234-world-state-qualification"></a>
+
+[B0234 world-state qualification](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0234-world-state-qualification)
+
+<a id="b0235-being-known-on-three-independent-birthdays"></a>
+
+[B0235 being known on three independent birthdays](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0235-being-known-on-three-independent-birthdays)
+
+<a id="b0235-source-local-chronology-edges"></a>
+
+[B0235 source-local chronology edges](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0235-source-local-chronology-edges)
+
+<a id="b0236-receiving-care-across-twelve-independent-birthdays"></a>
+
+[B0236 receiving care across twelve independent birthdays](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0236-receiving-care-across-twelve-independent-birthdays)
+
+<a id="b0236-source-local-chronology-edges"></a>
+
+[B0236 source-local chronology edges](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0236-source-local-chronology-edges)
+
+<a id="b0237-particular-attention-across-twelve-birthday-cases"></a>
+
+[B0237 particular attention across twelve Birthday cases](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0237-particular-attention-across-twelve-birthday-cases)
+
+<a id="b0237-local-sequence-and-attributed-chronology"></a>
+
+[B0237 local sequence and attributed chronology](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0237-local-sequence-and-attributed-chronology)
+
+<a id="b0238-particular-recognition-across-twelve-birthday-portfolios"></a>
+
+[B0238 particular recognition across twelve Birthday portfolios](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0238-particular-recognition-across-twelve-birthday-portfolios)
+
+<a id="b0238-declared-local-sequence-and-graphic-dependencies"></a>
+
+[B0238 declared local sequence and graphic dependencies](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0238-declared-local-sequence-and-graphic-dependencies)
+
+<a id="b0239-recognition-belief-and-recipient-agency-across-nine-birthday-portfolios"></a>
+
+[B0239 recognition, belief and recipient agency across nine Birthday portfolios](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0239-recognition-belief-and-recipient-agency-across-nine-birthday-portfolios)
+
+<a id="b0239-declared-local-sequence-and-graphic-dependencies"></a>
+
+[B0239 declared local sequence and graphic dependencies](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0239-declared-local-sequence-and-graphic-dependencies)
+
+<a id="b0240-two-outings-reciprocal-food-and-incomplete-understanding"></a>
+
+[B0240 two outings, reciprocal food and incomplete understanding](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0240-two-outings-reciprocal-food-and-incomplete-understanding)
+
+<a id="b0240-local-order-and-bounded-scene-continuation"></a>
+
+[B0240 local order and bounded scene continuation](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0240-local-order-and-bounded-scene-continuation)
+
+<a id="b0241-commemorative-gatherings-and-unfinished-practical-work"></a>
+
+[B0241 commemorative gatherings and unfinished practical work](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0241-commemorative-gatherings-and-unfinished-practical-work)
+
+<a id="b0241-document-order-with-explicit-alternatives-contained"></a>
+
+[B0241 document order with explicit alternatives contained](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0241-document-order-with-explicit-alternatives-contained)
+
+<a id="b0242-shared-lyric-work-judged-drafts-and-a-narrated-dream"></a>
+
+[B0242 shared lyric work, judged drafts and a narrated dream](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0242-shared-lyric-work-judged-drafts-and-a-narrated-dream)
+
+<a id="b0242-source-supported-order-inside-one-complete-family"></a>
+
+[B0242 source-supported order inside one complete family](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0242-source-supported-order-inside-one-complete-family)
+
+<a id="b0243-three-separate-event-families-and-their-retained-horizons"></a>
+
+[B0243 three separate Event families and their retained horizons](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0243-three-separate-event-families-and-their-retained-horizons)
+
+<a id="b0243-source-supported-order-separated-by-original-family"></a>
+
+[B0243 source-supported order, separated by original family](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0243-source-supported-order-separated-by-original-family)
+
+<a id="b0244-three-separate-event-families-and-source-established-order"></a>
+
+[B0244 three separate Event families and source-established order](T7S_STORY_CAUSAL_STATE_COMPONENT_005.md#b0244-three-separate-event-families-and-source-established-order)
+
+<a id="b0244-typed-source-order"></a>
+
+[B0244 typed source order](T7S_STORY_CAUSAL_STATE_COMPONENT_005.md#b0244-typed-source-order)
+
+<a id="b0245-chosen-models-camp-events-and-source-established-order"></a>
+
+[B0245 chosen models, camp events and source-established order](T7S_STORY_CAUSAL_STATE_COMPONENT_005.md#b0245-chosen-models-camp-events-and-source-established-order)
+
+<a id="b0245-typed-source-order"></a>
+
+[B0245 typed source order](T7S_STORY_CAUSAL_STATE_COMPONENT_005.md#b0245-typed-source-order)
+
+<a id="b0246-source-established-planning-service-and-shared-authorship"></a>
+
+[B0246 source-established planning, service and shared authorship](T7S_STORY_CAUSAL_STATE_COMPONENT_005.md#b0246-source-established-planning-service-and-shared-authorship)
+
+<a id="b0246-typed-source-order"></a>
+
+[B0246 typed source order](T7S_STORY_CAUSAL_STATE_COMPONENT_005.md#b0246-typed-source-order)
+
+<a id="b0247-source-established-collaboration-recognition-and-divided-work"></a>
+
+[B0247 source-established collaboration, recognition and divided work](T7S_STORY_CAUSAL_STATE_COMPONENT_005.md#b0247-source-established-collaboration-recognition-and-divided-work)
+
+<a id="b0247-typed-source-order"></a>
+
+[B0247 typed source order](T7S_STORY_CAUSAL_STATE_COMPONENT_005.md#b0247-typed-source-order)
+
+<a id="b0248-preparation-representation-and-differentiated-collective-work"></a>
+
+[B0248 preparation, representation and differentiated collective work](T7S_STORY_CAUSAL_STATE_COMPONENT_006.md#b0248-preparation-representation-and-differentiated-collective-work)
+
+<a id="b0248-typed-source-order"></a>
+
+[B0248 typed source order](T7S_STORY_CAUSAL_STATE_COMPONENT_006.md#b0248-typed-source-order)
+
+<a id="b0249-gathering-public-accounts-and-particular-choices"></a>
+
+[B0249 gathering, public accounts and particular choices](T7S_STORY_CAUSAL_STATE_COMPONENT_006.md#b0249-gathering-public-accounts-and-particular-choices)
+
+<a id="b0249-typed-source-order"></a>
+
+[B0249 typed source order](T7S_STORY_CAUSAL_STATE_COMPONENT_006.md#b0249-typed-source-order)
+
+<a id="b0250-gratitude-shared-practice-and-qualified-recognition"></a>
+
+[B0250 gratitude, shared practice and qualified recognition](T7S_STORY_CAUSAL_STATE_COMPONENT_006.md#b0250-gratitude-shared-practice-and-qualified-recognition)
+
+<a id="b0250-typed-source-order"></a>
+
+[B0250 typed source order](T7S_STORY_CAUSAL_STATE_COMPONENT_006.md#b0250-typed-source-order)
+
+<a id="b0251-recognition-audience-knowledge-and-reciprocal-gifts"></a>
+
+[B0251 recognition, audience knowledge and reciprocal gifts](T7S_STORY_CAUSAL_STATE_COMPONENT_006.md#b0251-recognition-audience-knowledge-and-reciprocal-gifts)
+
+<a id="b0251-typed-source-order"></a>
+
+[B0251 typed source order](T7S_STORY_CAUSAL_STATE_COMPONENT_006.md#b0251-typed-source-order)
+
+<a id="b0252-shared-occasions-and-differentiated-acts"></a>
+
+[B0252 shared occasions and differentiated acts](T7S_STORY_CAUSAL_STATE_COMPONENT_006.md#b0252-shared-occasions-and-differentiated-acts)
+
+<a id="b0252-typed-document-presentation-order"></a>
+
+[B0252 typed document presentation order](T7S_STORY_CAUSAL_STATE_COMPONENT_006.md#b0252-typed-document-presentation-order)
+
+<a id="b0253-assumed-illness-and-particular-care"></a>
+
+[B0253 assumed illness and particular care](T7S_STORY_CAUSAL_STATE_COMPONENT_006.md#b0253-assumed-illness-and-particular-care)
+
+<a id="b0254-common-purpose-and-differentiated-desire"></a>
+
+[B0254 common purpose and differentiated desire](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#b0254-common-purpose-and-differentiated-desire)
+
+<a id="b0255-three-secrets-a-common-wish-and-unequal-recovery"></a>
+
+[B0255 three secrets, a common wish and unequal recovery](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#b0255-three-secrets-a-common-wish-and-unequal-recovery)
+
+<a id="b0256-five-contests-different-judgments-and-a-disputed-treasure"></a>
+
+[B0256 five contests, different judgments and a disputed treasure](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#b0256-five-contests-different-judgments-and-a-disputed-treasure)
+
+<a id="b0257-rehearsed-menace-mistaken-welcome-and-a-locally-ended-feud"></a>
+
+[B0257 rehearsed menace, mistaken welcome and a locally ended feud](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#b0257-rehearsed-menace-mistaken-welcome-and-a-locally-ended-feud)
+
+<a id="bounded-world-and-professional-constraints"></a>
+
+[Bounded world and professional constraints](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#bounded-world-and-professional-constraints)
+
+<a id="closed-and-open-local-threads"></a>
+
+[Closed and open local threads](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#closed-and-open-local-threads)
+
+<a id="b0258-bounded-learning-hidden-performance-and-a-locally-closed-collaboration"></a>
+
+[B0258 bounded learning, hidden performance and a locally closed collaboration](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#b0258-bounded-learning-hidden-performance-and-a-locally-closed-collaboration)
+
+<a id="bounded-world-and-professional-constraints-1"></a>
+
+[Bounded world and professional constraints](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#bounded-world-and-professional-constraints-1)
+
+<a id="closed-and-open-local-threads-1"></a>
+
+[Closed and open local threads](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#closed-and-open-local-threads-1)
+
+<a id="b0259-source-established-events-and-bounded-source-order-links"></a>
+
+[B0259 source-established events and bounded source-order links](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#b0259-source-established-events-and-bounded-source-order-links)
+
+<a id="bounded-world-constraints"></a>
+
+[Bounded world constraints](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#bounded-world-constraints)
+
+<a id="local-threads-and-open-outcomes"></a>
+
+[Local threads and open outcomes](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#local-threads-and-open-outcomes)
+
+<a id="b0260--new-years-day-preparation-resolutions-and-greeting"></a>
+
+[B0260 — New Year's Day preparation, resolutions and greeting](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#b0260--new-years-day-preparation-resolutions-and-greeting)
+
+<a id="within-member-presentation-order"></a>
+
+[Within-member presentation order](T7S_STORY_CAUSAL_STATE_COMPONENT_007.md#within-member-presentation-order)

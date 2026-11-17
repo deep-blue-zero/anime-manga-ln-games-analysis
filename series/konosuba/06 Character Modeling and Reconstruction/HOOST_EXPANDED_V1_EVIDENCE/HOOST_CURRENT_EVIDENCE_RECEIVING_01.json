@@ -1,0 +1,239 @@
+{
+  "schema": "KONOSUBA_HOOST_CURRENT_EVIDENCE_RECEIVING_V1",
+  "accepted_utc": "2026-10-20T04:04:34.775515+00:00",
+  "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+  "receiver": "Same informed root; 1172actual EXP03 BASE slots, prior actually read EXP01 eighteen pages reused, thirteen selected current ledger rows and six first hypothetical bodies. No independent judge/runtime or native-human adequacy.",
+  "current_primary_scope": {
+    "new_EXP03_unique_BASE_slots": 1172,
+    "new_EXP03_nonempty_BASE_slots": 1077,
+    "new_EXP03_text_units": 5,
+    "reused_EXP01_actual_image_pages": 18,
+    "reused_known_interlude_groups": 5,
+    "fresh_EXP01_pixel_pass": false,
+    "new_whole_book_ruby_image_or_independent_test_credit": 0
+  },
+  "ledger_scope": {
+    "schema": "KONOSUBA_HOOST_CURRENT_LEDGER_SCOPED_ACTUAL_RECEIVING_V1",
+    "received_utc": "2026-10-20T03:59:33.175524+00:00",
+    "concordance_sha256": "b704faa2b4d1921ef6d42b64a23b38c7197017b90ff74424559f4d51cca287e6",
+    "selected_actual_entries": 13,
+    "actual_files_with_received_entries": 7,
+    "physical_current_ledger_files_queried": 11,
+    "responsibilities": 10,
+    "scope": "All thirteen complete selected rows with their heading context actually displayed and read. Four files have no name-query hits, which is not a semantic absence proof. No complete ledger body or independent scene count is claimed.",
+    "received_items": [
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "base_sha256": "021b332260b4ae9c6cfd0633fda9b67a64538a2c24e4c58b31319c87af7b9e83",
+        "line": 1292,
+        "row_id": "EXP01-WHOLE-CS03"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "base_sha256": "021b332260b4ae9c6cfd0633fda9b67a64538a2c24e4c58b31319c87af7b9e83",
+        "line": 1316,
+        "row_id": "EXP03-WHOLE-CS04"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "base_sha256": "135afe3700a9ffc75feaa1cb96c13beb25c3c7d573adb6121cf6c229573679a0",
+        "line": 1365,
+        "row_id": "K07-CC01"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "base_sha256": "f60133e2093629b72a7bf72700e1e2959b13786e5f4fbbbc01e2c229e873f6f5",
+        "line": 1827,
+        "row_id": "K07-DE01"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "base_sha256": "61c31dea22484f342b590aac2ffc3ccef09d5201bbdd08a8f4fbc424d2be3dc0",
+        "line": 1823,
+        "row_id": "K07-JV01"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "base_sha256": "0ec97391f8d2a8a9499f0c3cc20e7a8231ddddfcb4876343bed90b2c829cc38c",
+        "line": 1008,
+        "row_id": "EXP01-WHOLE-KN03"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "base_sha256": "0ec97391f8d2a8a9499f0c3cc20e7a8231ddddfcb4876343bed90b2c829cc38c",
+        "line": 1029,
+        "row_id": "EXP03-WHOLE-KN02"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "base_sha256": "0ec97391f8d2a8a9499f0c3cc20e7a8231ddddfcb4876343bed90b2c829cc38c",
+        "line": 1293,
+        "row_id": "K07-KN01"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "base_sha256": "1d976d7fc75c9ad80d08dd51f2640f581375e9b58405aa00ce0ac800078d3ca0",
+        "line": 95,
+        "row_id": "EXP03-WHOLE-PV02"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "base_sha256": "1d976d7fc75c9ad80d08dd51f2640f581375e9b58405aa00ce0ac800078d3ca0",
+        "line": 98,
+        "row_id": "EXP03-WHOLE-PV05"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "base_sha256": "1d976d7fc75c9ad80d08dd51f2640f581375e9b58405aa00ce0ac800078d3ca0",
+        "line": 99,
+        "row_id": "EXP03-WHOLE-PV06"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "base_sha256": "7900f7619f57e80f9a78e792e11c93b589c4c91478483ec41f6612cecab6bb3a",
+        "line": 1071,
+        "row_id": "EXP01-WHOLE-RS04"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "base_sha256": "7900f7619f57e80f9a78e792e11c93b589c4c91478483ec41f6612cecab6bb3a",
+        "line": 1367,
+        "row_id": "K07-RS01"
+      }
+    ],
+    "semantic_findings": [
+      "Prior EXP01/03 role-level limits stay historical; current cross-context native reinspection supports an explicitly scoped further tier decision, without rewriting those earlier rows.",
+      "Komekko particular agency, refusal, voice and finite future promise remain distinct from Hoost motives.",
+      "Main/principal predictions keep their original triggers and histories; Komekko friendship is not a Megumin bonded-opponent condition.",
+      "Reports about contract/life mechanics and offscreen combat retain attribution."
+    ],
+    "full_ledger_bodies_received": false,
+    "new_whole_source_or_independent_credit": 0
+  },
+  "one_target_census_update": {
+    "target": "Horst / Hoost retrieval variant",
+    "rows": 157,
+    "unaffected_rows_exact": 156,
+    "new_rows": 0,
+    "seven_prior_scoped_tiers_unchanged": true,
+    "canonical_candidate_before_sha256": "84d61bea454bbe65b8aabb6086ce795a7e9869751cedc479c6b6c6f6311762d6",
+    "canonical_candidate_after_sha256": "b2c88938c7e88e5a88f05255e890a05d5315958f5c86efb0a9b4b79917aef6dc",
+    "global_census_closed": false,
+    "global_completion_percentage": null
+  },
+  "semantic_name_reference_decisions": [
+    "Hoost/ホースト and prior Horst are one native-named actor; Arnes, Wolbach, Vanir and ordinary beginner-killer remain distinct.",
+    "Komekko narrates image interludes; Megumin narrates principal forest/battle. Decorative backgrounds, promotional panels and cast labels do not grant scene knowledge.",
+    "Hoost initially calls captured beast Wolbach, attacks Rex/Sophie/Terry, then recognizes ordinary prey. Both mistake and correction remain; original report161 is supported, not corrected.",
+    "Hoost recalls child/name and states reluctance toward Crimson Demons, without explicitly recognizing Megumin as Komekko sister or making her a bonded opponent.",
+    "Rex throws sword and is hit; Yunyun uses enhanced Paralysis and is also affected; Megumin surprises/charges/finishes; Cecily provides actual funds/healing/blessing at separate times.",
+    "Hard crusader/thief and construction worker in late Hoost account remain scene-level reported/unnamed; physical effect and motive testimony are not Megumin firsthand evidence.",
+    "Contract/life doctrine, inferred surviving half and future child service remain attributed/conditional. No unshown bear victory, chick consumption, rebirth or completed summoning.",
+    "U045 is principal epilogue, not production afterword; no new Hoost episode from reward reference.",
+    "HHC01 voice address underidentified; HHC02 same broad bargain with affect change; HHC03 identical first bodies. None is independent discrimination or source validation.",
+    "Previously adopted seven secondary model bodies plus six original models stay exact; monograph03 only clarifies entering versus current count."
+  ],
+  "sampled_prose_scope": "All three authored prose bodies, with introduction, substantial middle mechanism/relationship sections, conclusions and every major relationship additionally checked at stated source scope.",
+  "current_draft_pins": {
+    "HOOST_CHARACTER_MONOGRAPH_PRIVATE_DRAFT_03.md": {
+      "canonical_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_HOOST_CHARACTER_MONOGRAPH.md",
+      "bytes": 21992,
+      "sha256": "295583f246ae7677c3ed22521f437041aa23ca119e3bba7baebb16e05a36e958"
+    },
+    "HOOST_RECONSTRUCTION_MODEL_PRIVATE_DRAFT_02.md": {
+      "canonical_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
+      "bytes": 25873,
+      "sha256": "e973e7f325238ab71fa0e10e3588d32c8fc3bf03dd827bb32e9120789c4742c7"
+    },
+    "HOOST_EVIDENCE_INDEX_PRIVATE_DRAFT_01.md": {
+      "canonical_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md",
+      "bytes": 15523,
+      "sha256": "3f48020328633867eb0a90c285ad66d3b4f3464e9cbdb0cc1d5d69f9d0c88fe2"
+    }
+  },
+  "thirteen_entering_model_pins": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 24777,
+      "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+      "bytes": 20922,
+      "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+      "bytes": 21826,
+      "sha256": "0be5bfa9097547a3d705b5a8216dd395f714382b65f6fa4cad499504641065c0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    }
+  ],
+  "internal_exercise": {
+    "pairs": 3,
+    "first_bodies": 6,
+    "initial_model_sha256": "afa34837f16ddeb060b95e5f226e6880b25cf139ee3fab7ad37df2277b4a176a",
+    "HHC01": "Further-help request changes, with generic cooperation and underidentified address arrangement.",
+    "HHC02": "Same broad retreat bargain; urgency/amusement and immediate leverage differ.",
+    "HHC03": "Identical bodies; no behavioral discrimination or identity accuracy.",
+    "independent_accuracy_or_confidence_gain": false,
+    "no_separate_model_runtime": true
+  },
+  "registry_name_query": "No Hoost/Horst/native spelling row hit in verified current registry; this is not exhaustive semantic identity resolution. Designated curator owns actual addition/alias mapping.",
+  "preservation": "13enteringmodelbodies,66currentimmutable,72historicalpins,fourscores,Dust14originalblanks,SI-SY28nulls,80scratchandprecedingKomekkopostgate7 remain protected. Historical72 rechecked at staging.",
+  "not_closed": [
+    "Exact candidate adoption/publication/source-HK-final audit and fresh authority reload",
+    "Full individual/event/alias/incidental census and whole ledger bodies; additional earned artifacts/profiles",
+    "Expanded specialists and separately versioned six principal/party/transfer models",
+    "Designated discovery/evaluation curation, independently enforced governed integration and component/release/final-entry audits"
+  ]
+}

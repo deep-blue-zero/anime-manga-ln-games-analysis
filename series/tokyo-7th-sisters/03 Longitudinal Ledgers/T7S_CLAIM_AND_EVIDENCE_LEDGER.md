@@ -1,0 +1,1746 @@
+---
+title: "Tokyo 7th Sisters — Claim And Evidence Ledger"
+artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
+artifact_type: claim_evidence_ledger
+series: Tokyo 7th Sisters
+generation: V1
+version: "11.165"
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: false
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes;9whole ManyMerryParty201510documents throughT7S_B0234 with actual prospective whole-consumer/entering gate and ordered complete case freezes;3whole independent Birthday portfolios throughT7S_B0235 with genuine prospective consumers/entering and ordered complete text/native/static case freezes;12additional whole independent Birthday portfolios throughT7S_B0236 with genuine prospective complete consumers/entering and actual ordered text/native/static freezes;12additional whole independent Birthday portfolios throughT7S_B0237 under the genuine prospective42image complete-consumer contract and actual ordered case freezes;12additional whole Birthday portfolios throughT7S_B0238 under actual prospective complete consumers and ordered freezes;9additional whole Birthday portfolios throughT7S_B0239 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0240 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0241 under actual prospective complete consumers and ordered freezes; complete3chapter Event family200240 throughT7S_B0242 under actual prospective consumers and ordered freezes; fifteen complete Event documents in three original five-chapter families200250/200260/200270 throughT7S_B0243 under genuine prospective complete consumers and ordered case/family freezes; fourteen complete Event documents in three original families200280/200290/200300 in5/4/5chapters throughT7S_B0244 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200310/200320/200330 in5/5/5chapters throughT7S_B0245 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200340/200350/200360 in5/5/5chapters throughT7S_B0246 under genuine prospective complete consumers and ordered case/family freezes; eleven complete Event documents in original families200370/200380/200390 in2/5/4chapters throughT7S_B0247 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200400/200410/200420 in5/4/6chapters throughT7S_B0248 under genuine prospective complete consumers and ordered case/family freezes; seven complete Event documents in original families200430/200440/200450 in2/1/4chapters throughT7S_B0249 under genuine prospective complete consumers and ordered case/family freezes; five complete Event documents in original families200460/200470/200480 in1/2/2chapters throughT7S_B0250 under genuine prospective complete consumers and ordered case/family freezes; eight complete Event documents in original families200490/200500/200510 in2/2/4chapters throughT7S_B0251 under genuine prospective complete consumers and ordered case/family freezes; three complete Event documents in original single-document families200520/200530/200540 throughT7S_B0252 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200550 throughT7S_B0253 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200560 throughT7S_B0254 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200570 throughT7S_B0255 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200580 throughT7S_B0256 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200590 throughT7S_B0257 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200600 throughT7S_B0258 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200610 throughT7S_B0259 under genuine prospective complete consumers and ordered case/family freezes; one complete original Event family200620 throughT7S_B0260 under genuine prospective complete consumers and ordered case/family freezes; all further non-Main/additional story and2053 semantic sources remain outside; 196 solo-stage messages in a conditional supplemental scope"
+storage_representation: manifest_bound_components_v1
+storage_manifest: "T7S_CLAIM_EVIDENCE_LEDGER_MANIFEST.json"
+architecture_lifecycle: EVOLVING
+created: 2026-09-09
+last_updated: 2026-11-14
+---
+
+# Tokyo 7th Sisters claim and evidence ledger
+
+Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
+
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 349 complete Intimacy primary documents across 49 family portfolios and all45 complete independent Short messages throughB0232; first3known-exposure, remaining42prospective. B0234adds the coherent9document ManyMerryParty family, including post-live reports and a later-read earlier live-day/remembered-school perspective; no exact Main chronology is inferred. B0235adds three independent Birthday portfolios: Haru receiving familiar celebration, Xiao choosing temporary respite while renewing training, and Monaka recognizing belonging within a continuing search. Their source/menu order supplies no common year or exact Main chronology. B0236adds twelve further independent Birthday portfolios: Mana, Rona, Honoka, Ei, Sisara, Hina, Nicole, Musubi, Shizuka, Kazumi, Hime and Kyoko. Gratitude can coexist with a request for preparation, refusal, embarrassment, grief, restrained thanks or a chosen exception. Named recipients and reports retain their exact case horizons; illustrations, costume gifts and unfinished future wishes do not supply new participants, assent or completed outcomes. Catalog order supplies no common year or cross-party cause. B0237 adds twelve further Birthday recipients, Shinju through Susu. Specific gratitude retains aptitude doubt, qualified rivalry, happy tears, active hosting, voluntary-welcome correction, remembered craft and play, conditional travel and parental attachment. Murasaki explicitly reports a previous-day Ferb celebration, without independently fixing its annual identity or a wider calendar; the earlier Ferb freeze remains. No request, gift depiction or future wish supplies an omitted answer or completed outcome. B0238 adds twelve Birthday portfolios, Saori through Rui, with particular recognition, qualified gratitude, bodily/self-dressing limits, chosen receiving/play, differentiated learning and unresolved futures. The twins remain distinct, represented figures/cake are not new actors, and overlapping graphic facets supply no extra causal chronology. Earlier Murasaki/Ferb history remains. B0239 adds the final nine Birthday portfolios, Yumeno through Miu. Particular care remains differentiated through correction, negotiated self-presentation, protective performance, chosen receiving and qualified gratitude. Later written Yamai/Saori adjudication is explicitly subsequent to both original freezes; Jersey, unsigned Memoru authors and anonymous S remain unresolved. No universal maturity or exact annual calendar is supplied. B0240 adds two whole Event portfolios, Sweet Seventh Days and its special. Date framing changes Rona’s valued company; a prepared meal makes care reciprocal while the supplement preserves stated objections beside personal reliance. Rona’s established Nicole/Coney knowledge is not first disclosed, and the special’s eating/taste remains later-known than the original first freeze. One exact non-dialogue ending voice carrier is unresolved; all138dialogue WAVs remain unheard. No readiness or exact Main calendar is supplied. B0241 adds independent NewYear/anniversary Event portfolios. Selective recollection, explicit alternative Player responses, reversed timetable reform and differentiated messages retain imperfect knowledge, objections and institutional costs. Player addressee and Coney agency-manager roles stay distinct; two exact command-only ending cues unresolved, all302dialogue plus2opening WAVs unheard. No exact calendar, runtime, readiness or fullAV claim. B0242 adds one complete three-chapter Event family. Differentiated lyric attempts, reciprocal judgment, selection and reported dream support renewed collective work without displayed finallyrics/live. Exact endingvo_special_107_140/P65 unresolved;143availableWAVs unheard. No exactcalendar/runtime/readiness/fullAV claim. B0243 adds three separate complete five-chapter Event families/15documents/562pages. Interview recognition preserves privacy/addressee objections;4U shared image preserves friction and one explicit YouthBpurchase;Kajika outing yields specific enjoyment and conditional care without a completed departure.419available WAVbindinginstances remain unheard;two exact non-dialogue gaps and two actualItemobjects are explicit. No exactcalendar/runtime/readiness/fullAV claim. B0244 adds three separate complete original Event families/14documents/417pages in5/4/5chapters. Ordinary-life recognition retains privacy/public-reach uncertainty;NI+CORA pressure/objections lead to bounded repair;distributed hip-hop teaching/care and reported success leave Ei agency unresolved. All283WAVbindings unheard;one exact command-only gap;noItem/Choices/InlineMovie. No exactcalendar/runtime/readiness/fullAV claim. B0245 adds15complete Event documents/674native pages in three original5/5/5families: chosen lady models, task-specific teaching, situated care and an unperformed live proposal. Source-explicit camp front/back continuity does not impose another common calendar. Qualified permission, attributed reports and reader/manager knowledge limits remain. All551WAVbindings unheard;selected Item/title presences reviewed;noChoices/InlineMovie/runtime/readiness/fullAV claim. B0246 adds15complete Event documents/579native pages in three original5/5/5families: differentiated service pleasure, camp planning/disagreement and shared party authorship. Cafe/party completion is reported; the camp candidate remains unperformed. Reports/hypotheses/objections retain holders;no cross-family time/cause edge.485availableWAVs unheard;5exactcommand-onlygaps,sixTitleinstances;Item/Choices/InlineMovieabsent;no readiness/fullAV/era promotion. B0247 adds11complete Event documents/550native pages in three original2/5/4families: collaboration/recognition and unresolvedHaru experience; Ferb/Yumeno musical appreciation with distinct romantic readings and explicit boundaries; contestedschoolwork,attributedreception and proposed4Ugathering. Reports/privatequestions/fantasy/objections/denials retain holders;no cross-familytime/cause.402availableWAVs unheard;9exact unresolved cues/10carriers,sixTitleinstances/oneItem;Choices/InlineMovieabsent;no readiness/fullAV/era promotion. B0248 adds15complete Event documents/854native pages in three original5/4/6families: sports preparation/support,LeSca making-of recording and Christmas preparation. Different contributions,camera/body boundaries,assigned roles,theme choice,reported resources and private interpretations retain holders and alternatives;no cross-familytime/cause.658availableWAVs unheard;3exact unresolved cues/4carriers,sixTitleinstances/oneItem;Choices/InlineMovie/Loopabsent;no readiness/fullAV/era promotion. B0249 adds7complete Event documents/492native pages in three original2/1/4families: Christmas gathering and aftermath,New Year repertoire discussion and the snow-family walk. Particular contribution/refusal,attributed public accounts,private thought and imagined appeal retain holders and alternatives;no cross-familytime/cause.421availableWAVs unheard;one exact Mimi P27 ellipsis cue unresolved,sixTitleinstances/14Items;Choices/InlineMovie/Loopabsent;no readiness/fullAV/era promotion. B0250 adds five complete Event documents/546 native pages in three original1/2/2families: anniversary thanks, LeSca joint practice and qualified4U rivalry. Named contributions, dissent, unequal knowledge, reports and unfinished futures retain source-local horizons;one explicitly named temporary contest collective is added, no permanent-band or identity promotion. Five complete documents in three families: 546 native pages, 486 written records, 60 command-only pages and 486 dialogue-voice pages were actually acquired through 94 bounded lossless text/native parts. All 195 selected sprite/object occurrences, 13 background occurrences and six title-asset occurrences were actually viewed or explicitly bound to exact earlier genuinely viewed bytes. The independent aggregate comparison reconstructs all 546 reviewed native objects and checks all 102 projection records: 60 complete command records and 42 nonstandard-field records. All 493 available current WAV occurrences remain UNHEARD, runtime UNOBSERVED and zero named current cue carriers are unresolved. Written text, native instructions and selected stills support this qualified account; no listening, watched choreography, objective musical judgment or readiness, monograph or era-release promotion is claimed. B0251 adds eight complete Event documents and three original2/2/4families: KARAKURI recognition, distributed post-live appraisal and LeSca reciprocal gift planning. Named initiative, reports, partial knowledge, graded assent and unfinished futures retain source-local horizons. No new person, unit, permanent membership or readiness promotion. B0251 covers eight complete Event documents in three original families of 2, 2 and 4 chapters, catalog 892–899: 632 native pages, 587 written TextAreas, 45 command-only pages, 479 dialogue-voice pages and 4,326 visual references. All 101 bounded text/native parts and three separate whole-family reconstructions were completed in the preserved order. The visual review covers 232 selected sprite/object instances across 119 distinct resources, 13 background instances across nine originals, and six title-image instances across four files, with genuine exact-byte reuse disclosed. All 490 available, distinct WAV bindings remain unheard. Command-only cue memory_0217_131 at 508021704:P54 is unresolved after a fresh registry and retained-bank probe; the strict failure and separately controlled case-only qualification remain preserved. That page has no TextArea, and all dialogue cues resolve. No Choice or InlineMovie occurs. The arguments use wording, native order and inspected stills under AV-D; performed delivery and runtime remain unreviewed, and no technical grade or readiness promotion follows. B0252 adds three complete single-document Event families: archive reception and privacy, a wanted late Christmas visit and adapted karuta with unresolved outcome. Named initiative, separate memories, reports, graded permission and unfinished futures retain source-local horizons. No new person, unit, permanent membership or readiness promotion. B0252 covers three complete Event documents in three original single-document families, catalog 900–902: 620 native pages, 514 written pages, 106 command pages and 502 written-page voice references. All 95 bounded text/native parts and 170 selected sprite/object instances, 18 original background instances and six title instances were actually reviewed. The selected resources comprise 139 distinct sprite/object resources, 14 distinct backgrounds and four distinct title images. All 504 available, distinct WAV bindings remain UNHEARD. Two exact unresolved carriers remain separately qualified: command-only memory_0218_172 at509022101:P207 and written Emoco interjection vo_ing3_053_01_01_180 at511022301:P105;501 of502 written-voice references resolve. No Choice or InlineMovie occurs; runtime and continuous motion are unobserved. Source-grounded narrative interpretation proceeds within those limits; performed AV, readiness, monograph maturity and era-release requirements are not promoted. B0253 adds one complete original six-chapter Event family: assumed illness, two particular care grievances and a backstage attention strategy. Named choice and reluctance, separate reports and media roleplay, public/backstage knowledge and source-local temporal frames remain differentiated. No new person,unit or readiness promotion. B0253 covers one complete original six-chapter Event family200550/catalog903–908:512native pages,434written,78command-only,299written voice carriers and3402native visual occurrences. All72bounded text/native parts and155case-selected sprite renditions across69unique resources,13background occurrences across9unique backgrounds and2title images were actually reviewed. All306distinct named WAV resources, including7non-dialogue subtitle/title carriers, are hash-bound UNHEARD with no unresolved current-family cue. Complete cases contain no Choice,InlineMovie,LoopSe orItem field. Runtime/continuous motion and acoustic performance remain unobserved. No new identity,unit,READY,monograph maturity or era release is promoted;2053closed. B0254 adds one complete original six-chapter Event family: unequal wants, shared effort and a qualified ending. Specific practical support coexists with pressure and substitution;private rival encouragement is not universally disclosed;Yumeno’s deferredshoot/protestedrepeatweek remains unresolved. No newperson,unit orreadiness promotion. B0254 covers one complete original six-chapter Event family200560/catalog909–914:640native pages,574written,66command-only,495written voice pages and4116native visual occurrences. All103bounded text/native parts were actually acquired and losslessly restored. Actual selected-static review covers257case sprite/object instances across142unique resources (141sprites and1communication object),12background instances across6unique originals and2title images.503voice-carrier pages resolve501distinct waveform hashes;allUNHEARD,including reused cue216 within chapter3 and249 across chapters3/4. Complete scripts have no Choice,InlineMovie orLoopSe field;the Item field in chapter1 is retained. Encoded effects and static art are not observed runtime or acoustic performance. No new identity,unit,READY,monograph maturity or era release is promoted;2053closed. B0255 adds one complete original six-chapter Event family: three incompatible private propositions,real care and interference,and a shared LeSca wish before specified disclosure. Member-authored coordinated work recovers while the false head premise,Player’s incomplete access and Coney’s unperformed gossip intention remain. No new person,unit orreadiness promotion. This complete original six-chapter Event family, NM-EVENT-200570 (catalog 915–920), contains 545 native pages: 464 written records and 81 command-only pages, with 363 dialogue-associated voice references and 4,834 visual-reference occurrences. All six documents were reviewed in order with a known-then exit before the next chapter and a separate whole-family causal and epistemic reconstruction. The entering state is B0254/SourceLock 12.163; this unit proposes B0255/12.164. Voice performance remains UNHEARD and runtime remains UNOBSERVED. The remaining 2034 release is not complete; 2053 is closed. B0256 adds complete original six-chapter Eventfamily200580: a demand for live-show rank becomes five heterogeneous tests. Explicit Haru-friend and Hina/Emoco-family-like acknowledgment coexists with an official KARAKURI win,contested pearl ruling and wager coda preserving renewed rivalry. Local Mitsuba,new Yumeno pen-name horizon and attributed acts/reports remain distinct. No new person,unit orreadiness promotion. Six complete chapters contain624 native pages,527 written turns,97 command-only pages,521 dialogue-voice carriers and5249 visual references. All selected120 sprite/object resources,5 backgrounds and2 title images were actually inspected across304/11/2 instances. All528 distinct named waveform resources remain UNHEARD across528 carriers; no runtime or performed-voice claim. Chapterwise knowledge boundaries, two different draw reasons, three shown quiz answers versus announced team10/10, local Haru/Mitsuba presentation and the newly acquired Yumeno pen-name link remain separate. No readiness,era-release or2053 promotion. Complete original Event/category2/root100010 family200590, catalog927–932, six documents516024801–516024806:809native/707written/102command-only pages,461dialogue-voice cues and6501visual references. Entry remains B0256/SourceLock12.165; completed closure proposes B0257/12.166. Each chapter retains its actual known-then boundary before whole-family interpretation. The local feud is publicly ended and all four are reported to have failed the audition; Matsuri leadership acceptance is unestablished. All468 named waveform carriers remainUNHEARD; runtimeUNOBSERVED. Catalog order does not fix exact dates or Main insertion;2053UNOPENED. B0258 closes the six complete documents of original Event family 200600, 姉妹ガールズバンド！～4Uの新弟子！？～の巻, catalog 933–938, at SourceLock 12.167 after the genuine B0257/12.166 entering state. All 693 native pages comprise 576 written records and 117 command-only pages, with 523 dialogue-voice carriers and 5,952 visual references. Each chapter was completely read and frozen before the next; the whole family was reconstructed after all six. Selected stills were actually reviewed. All 530 named voice resources remain unheard, and runtime remains unobserved. T7S_B0259 concerns Event/category2/root100010, original family200610, ナナスタ・聖なる夜の悪だくみの巻, catalog939–944 and episodes518026001–518026006 in the admitted Japanese offline witness T7S_GAME_OFFLINE_JA_R484, corpus c20260909-r484. The entering published analytical boundary is B0258/SourceLock12.167. The source receipt binds506native pages:434TextArea records,72command-only pages,396dialogue-voice occurrences and3318visual references. All six text/native packets were actually acquired in83bounded parts, and every chapter was frozen before the next chapter exposure. Selected stills, backgrounds and title assets were actually viewed as recorded separately for each chapter. All403named waveform resources—396dialogue and7non-dialogue title/family-title cues—remain unheard. The38text turns without a named original dialogue cue are Oosugi twice in chapter2 and twice in chapter5, and34Player turns in chapter6. No continuous audiovisual runtime was inspected. Textual and static findings remain distinct from proposed performed-voice extensions. Administrative authority metadata is not literary evidence.
+
+T7S_B0260 continues this ledger through the single complete New Year calligraphy case in original Event family NM-EVENT-200620. See the B0260 component route below. The review carries 244 native pages and directly inspected selected original stills. All 164 named source WAVs remain unheard, and continuous runtime is unobserved.
+
+Read the complete manifest-bound logical ledger through its current owner, manifest and every ordered component before interpreting or editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
+
+## Current state
+
+`last_closed_block = T7S_B0260`
+
+`claims = 3537`; `revisions = 45`; `predictions = 7`; `AV_reviews = 207`; `literary_findings = 3537`. Narrative claims are bounded to their stated B0001 through B0260 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters,349complete Intimacy primary documents across49family portfolios and45independent Short messages plus12Legend documents/6paired chapters and9ManyMerryParty documents plus48Birthday and158Event documents in43original portfolios; the recorded first3native-heading exposure is retained. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+
+Four solo-stage claims compare conditional text in a distinct supplemental scope.
+
+## Claim record contract
+
+Use stable `CL-B0001-001` for narrative blocks, `CL-SUPP-SOLO-001` for this supplemental portfolio, `REV-0001`, `PRED-0001` and `AV-0001` identifiers. Every claim records formulation, class (`SOURCE_FACT`, `BOUNDED_INFERENCE`, `THEMATIC_INTERPRETATION`, `WORKING_HYPOTHESIS`, `RECONSTRUCTION_RULE`, `EXTRAPOLATION`, `OPEN`, `UNKNOWN`), witness and horizon, modality, source locators and concise evidence assertions, current confidence, rivals, counterevidence, evidence distance D0–D4, supporting events/state IDs, owner artifact, dependent current artifacts and review obligations. An attributed report is not automatically world truth. Theme/motif observations use claim records until independent retrieval warrants promotion.
+
+Current claims and their revision history are distinct. An old prediction records the information available when it was made, its frozen formulation, discriminating alternatives, target horizon and adjudication. Later correctness does not justify rewriting the original prediction. No open issue is silently marked resolved by a missing record.
+
+## Revision and contradiction contract
+
+Use `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT`, `OPEN`. Each revision stores prior/current formulation, trigger and contrary evidence, old/new scope and confidence, affected artifact IDs, dependency repairs, effective horizon and preserved historical route. Update affected current models/syntheses before declaring reconciliation complete; keep prospective reading bodies and failed hypotheses discoverable.
+
+Classify apparent contradiction before harmonizing it: native/derivative mismatch; translation/edition variation; witness or route divergence; narrated versus framing time; unreliable report, ignorance or deception; development/relationship/role conditioning; AV delivery changing textual force; paratext conflict; or genuine unresolved inconsistency. Technical mismatches route to external source investigation; analytical uncertainty stays here with alternatives and required evidence.
+
+## AV, music and modality review contract
+
+An AV record contains claim/question ID, priority AV-A/B/C/D, required modality, native locator and candidate asset/cue/sheet IDs, selection rationale, source/state/recipient context window, review status, reviewer/tool, actually seen/heard evidence, uncertainty, counterexamples, outcome, claim revision and remaining obligation. Status values: `QUEUED`, `SOURCE_UNRESOLVED`, `REVIEWED`, `BOUND_BY_CLAIM_RESTRICTION`, `CLOSED`. No inventory or byte check sets `REVIEWED` for interpretation.
+
+Native page value, derived effective state, interpreted transition and proven runtime observation remain four separate evidence levels. Preserve unbound document references and candidate cue ambiguity. Exact onset/overlap/mix or continuous movement needs exact runtime/movie evidence. Machine acoustic features do not establish psychology or substitute for listening.
+
+Record `OBSERVED VISUAL FEATURE` separately from `ANALYTICAL INTERPRETATION`; illustrative/card representation is not automatically a literal event. Linguistic voice needs native wording; performed voice needs actually heard resolved recordings; seiyuu performance is not actor personality. Music/lyric claims distinguish stored game wording, edition, speaker/persona, recording, in-story act and stage realization.
+
+At a monograph promotion audit, record the visual and voice selection pools, covered modes, common alternatives and counterexamples, diminishing-return stopping rationale, integration decisions, exact evidence routes, scope and audit outcome. The entity readiness record owns the promotion decision; the monograph owns the integrated argument. AV-D for individual textual claims does not waive either mature-monograph modality review.
+
+
+Current correction: REV-0044 qualifies Musubi's announced departure in503012803; the frozen B0244 reading is governed by its attributable erratum, with no new source or readiness horizon.
+
+<!-- T7S CLAIM EVIDENCE COMPONENT ROUTES -->
+
+The complete current claim ledger is the manifest-bound logical prefix plus every ordered component payload. This wrapper alone is not the complete ledger. All original heading addresses route below.
+
+<a id="current-claims"></a>
+
+[Current claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#current-claims)
+
+<a id="t7s_b0002-claims"></a>
+
+[T7S_B0002 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0002-claims)
+
+<a id="t7s_b0003-claims"></a>
+
+[T7S_B0003 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0003-claims)
+
+<a id="t7s_b0004-claims"></a>
+
+[T7S_B0004 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0004-claims)
+
+<a id="t7s_b0006-claims"></a>
+
+[T7S_B0006 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0006-claims)
+
+<a id="t7s_b0007-claims"></a>
+
+[T7S_B0007 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0007-claims)
+
+<a id="t7s_b0008-claims"></a>
+
+[T7S_B0008 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0008-claims)
+
+<a id="t7s_b0009-claims"></a>
+
+[T7S_B0009 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0009-claims)
+
+<a id="t7s_b0010-claims"></a>
+
+[T7S_B0010 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0010-claims)
+
+<a id="t7s_b0011-claims"></a>
+
+[T7S_B0011 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0011-claims)
+
+<a id="t7s_b0012-claims"></a>
+
+[T7S_B0012 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0012-claims)
+
+<a id="t7s_b0013-claims"></a>
+
+[T7S_B0013 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0013-claims)
+
+<a id="t7s_b0014-claims"></a>
+
+[T7S_B0014 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0014-claims)
+
+<a id="t7s_b0015-claims"></a>
+
+[T7S_B0015 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0015-claims)
+
+<a id="t7s_b0016-claims"></a>
+
+[T7S_B0016 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0016-claims)
+
+<a id="t7s_b0017-claims"></a>
+
+[T7S_B0017 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0017-claims)
+
+<a id="t7s_b0018-claims"></a>
+
+[T7S_B0018 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0018-claims)
+
+<a id="t7s_b0019-claims"></a>
+
+[T7S_B0019 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0019-claims)
+
+<a id="t7s_b0020-claims"></a>
+
+[T7S_B0020 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0020-claims)
+
+<a id="t7s_b0021-claims"></a>
+
+[T7S_B0021 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0021-claims)
+
+<a id="t7s_b0022-claims"></a>
+
+[T7S_B0022 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0022-claims)
+
+<a id="t7s_b0023-claims"></a>
+
+[T7S_B0023 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0023-claims)
+
+<a id="t7s_b0024-claims"></a>
+
+[T7S_B0024 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0024-claims)
+
+<a id="t7s_b0025-claims"></a>
+
+[T7S_B0025 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0025-claims)
+
+<a id="t7s_b0026-claims"></a>
+
+[T7S_B0026 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0026-claims)
+
+<a id="t7s_b0027-claims"></a>
+
+[T7S_B0027 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0027-claims)
+
+<a id="t7s_b0028-claims"></a>
+
+[T7S_B0028 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0028-claims)
+
+<a id="t7s_b0029-claims"></a>
+
+[T7S_B0029 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0029-claims)
+
+<a id="t7s_b0030-claims"></a>
+
+[T7S_B0030 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0030-claims)
+
+<a id="t7s_b0031-claims"></a>
+
+[T7S_B0031 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0031-claims)
+
+<a id="t7s_b0032-claims"></a>
+
+[T7S_B0032 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0032-claims)
+
+<a id="t7s_b0033-claims"></a>
+
+[T7S_B0033 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0033-claims)
+
+<a id="t7s_b0034-claims"></a>
+
+[T7S_B0034 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0034-claims)
+
+<a id="t7s_b0035-claims"></a>
+
+[T7S_B0035 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0035-claims)
+
+<a id="t7s_b0036-claims"></a>
+
+[T7S_B0036 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0036-claims)
+
+<a id="t7s_b0037-claims"></a>
+
+[T7S_B0037 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0037-claims)
+
+<a id="t7s_b0038-claims"></a>
+
+[T7S_B0038 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0038-claims)
+
+<a id="t7s_b0039-claims"></a>
+
+[T7S_B0039 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0039-claims)
+
+<a id="t7s_b0040-claims"></a>
+
+[T7S_B0040 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0040-claims)
+
+<a id="t7s_b0041-claims"></a>
+
+[T7S_B0041 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0041-claims)
+
+<a id="t7s_b0042-claims"></a>
+
+[T7S_B0042 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0042-claims)
+
+<a id="t7s_b0043-claims"></a>
+
+[T7S_B0043 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0043-claims)
+
+<a id="t7s_b0044-claims"></a>
+
+[T7S_B0044 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0044-claims)
+
+<a id="t7s_b0045-claims"></a>
+
+[T7S_B0045 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0045-claims)
+
+<a id="t7s_b0046-claims"></a>
+
+[T7S_B0046 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0046-claims)
+
+<a id="t7s_b0047-claims"></a>
+
+[T7S_B0047 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0047-claims)
+
+<a id="t7s_b0048-claims"></a>
+
+[T7S_B0048 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0048-claims)
+
+<a id="t7s_b0049-claims"></a>
+
+[T7S_B0049 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0049-claims)
+
+<a id="t7s_b0050-claims"></a>
+
+[T7S_B0050 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0050-claims)
+
+<a id="t7s_b0051-claims"></a>
+
+[T7S_B0051 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0051-claims)
+
+<a id="t7s_b0052-claims"></a>
+
+[T7S_B0052 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0052-claims)
+
+<a id="t7s_b0053-claims"></a>
+
+[T7S_B0053 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0053-claims)
+
+<a id="t7s_b0054-claims"></a>
+
+[T7S_B0054 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0054-claims)
+
+<a id="t7s_b0055-claims"></a>
+
+[T7S_B0055 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0055-claims)
+
+<a id="t7s_b0056-claims"></a>
+
+[T7S_B0056 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0056-claims)
+
+<a id="t7s_b0057-claims"></a>
+
+[T7S_B0057 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0057-claims)
+
+<a id="t7s_b0058-claims"></a>
+
+[T7S_B0058 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0058-claims)
+
+<a id="t7s_b0059-claims"></a>
+
+[T7S_B0059 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0059-claims)
+
+<a id="t7s_b0060-claims"></a>
+
+[T7S_B0060 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0060-claims)
+
+<a id="t7s_b0064-claims"></a>
+
+[T7S_B0064 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0064-claims)
+
+<a id="t7s_b0065-claims"></a>
+
+[T7S_B0065 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0065-claims)
+
+<a id="t7s_b0066-claims"></a>
+
+[T7S_B0066 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0066-claims)
+
+<a id="t7s_b0067-claims"></a>
+
+[T7S_B0067 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0067-claims)
+
+<a id="t7s_b0068-claims"></a>
+
+[T7S_B0068 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0068-claims)
+
+<a id="t7s_b0069-claims"></a>
+
+[T7S_B0069 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0069-claims)
+
+<a id="t7s_b0070-claims"></a>
+
+[T7S_B0070 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0070-claims)
+
+<a id="t7s_b0071-claims"></a>
+
+[T7S_B0071 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0071-claims)
+
+<a id="t7s_b0072-claims"></a>
+
+[T7S_B0072 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0072-claims)
+
+<a id="t7s_b0073-claims"></a>
+
+[T7S_B0073 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0073-claims)
+
+<a id="t7s_b0074-claims"></a>
+
+[T7S_B0074 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0074-claims)
+
+<a id="t7s_b0075-claims"></a>
+
+[T7S_B0075 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0075-claims)
+
+<a id="t7s_b0076-claims"></a>
+
+[T7S_B0076 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0076-claims)
+
+<a id="t7s_b0077-claims"></a>
+
+[T7S_B0077 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0077-claims)
+
+<a id="t7s_b0078-claims"></a>
+
+[T7S_B0078 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0078-claims)
+
+<a id="t7s_b0079-claims"></a>
+
+[T7S_B0079 claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0079-claims)
+
+<a id="t7s_b0080t7s_b0099-first-i-n-g-portfolio-claims"></a>
+
+[T7S_B0080–T7S_B0099 first i-n-g portfolio claims](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0080t7s_b0099-first-i-n-g-portfolio-claims)
+
+<a id="frozen-predictions"></a>
+
+[Frozen predictions](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#frozen-predictions)
+
+<a id="t7s_b0008-frozen-prediction"></a>
+
+[T7S_B0008 frozen prediction](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0008-frozen-prediction)
+
+<a id="t7s_b0010-frozen-prediction"></a>
+
+[T7S_B0010 frozen prediction](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0010-frozen-prediction)
+
+<a id="av-reviews"></a>
+
+[AV reviews](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-reviews)
+
+<a id="t7s_b0008-av-reviews"></a>
+
+[T7S_B0008 AV reviews](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0008-av-reviews)
+
+<a id="t7s_b0009-av-reviews"></a>
+
+[T7S_B0009 AV reviews](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0009-av-reviews)
+
+<a id="t7s_b0010-av-reviews"></a>
+
+[T7S_B0010 AV reviews](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0010-av-reviews)
+
+<a id="t7s_b0011-av-reviews"></a>
+
+[T7S_B0011 AV reviews](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#t7s_b0011-av-reviews)
+
+<a id="episode4u-av-reviews"></a>
+
+[EPISODE.4U AV reviews](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#episode4u-av-reviews)
+
+<a id="episode-20-av-reviews"></a>
+
+[EPISODE 2.0 AV reviews](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#episode-20-av-reviews)
+
+<a id="karakuri-av-reviews"></a>
+
+[KARAKURI AV reviews](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#karakuri-av-reviews)
+
+<a id="episode-30-av-reviews"></a>
+
+[EPISODE 3.0 AV reviews](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#episode-30-av-reviews)
+
+<a id="episode-50-av-reviews"></a>
+
+[EPISODE 5.0 AV reviews](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#episode-50-av-reviews)
+
+<a id="episode-60-av-reviews"></a>
+
+[EPISODE 6.0 AV reviews](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#episode-60-av-reviews)
+
+<a id="episode-nanasuta-av-reviews"></a>
+
+[EPISODE NANASUTA AV reviews](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#episode-nanasuta-av-reviews)
+
+<a id="av-0046--first-twenty-i-n-g-targeted-cases"></a>
+
+[`AV-0046` — first twenty i-n-g targeted cases](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0046--first-twenty-i-n-g-targeted-cases)
+
+<a id="revision-and-transaction-history"></a>
+
+[Revision and transaction history](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#revision-and-transaction-history)
+
+<a id="b0100-claims-and-presentation-review"></a>
+
+[B0100 claims and presentation review](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0100-claims-and-presentation-review)
+
+<a id="av-0047--saori-variants-and-ambulance-identification"></a>
+
+[AV-0047 — Saori variants and ambulance identification](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0047--saori-variants-and-ambulance-identification)
+
+<a id="b0101-claims-and-presentation-review"></a>
+
+[B0101 claims and presentation review](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0101-claims-and-presentation-review)
+
+<a id="av-0048--play-roles-versus-static-character-presentation"></a>
+
+[AV-0048 — play roles versus static character presentation](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0048--play-roles-versus-static-character-presentation)
+
+<a id="b0102-claims-and-presentation-review"></a>
+
+[B0102 claims and presentation review](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0102-claims-and-presentation-review)
+
+<a id="av-0049--family-work-site-and-static-presentations"></a>
+
+[AV-0049 — family work site and static presentations](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0049--family-work-site-and-static-presentations)
+
+<a id="b0103-claims-and-presentation-review"></a>
+
+[B0103 claims and presentation review](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0103-claims-and-presentation-review)
+
+<a id="av-0050--static-cues-and-the-unresolved-dream-onset"></a>
+
+[AV-0050 — static cues and the unresolved dream onset](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0050--static-cues-and-the-unresolved-dream-onset)
+
+<a id="b0104-claims-access-and-static-review"></a>
+
+[B0104 claims, access and static review](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0104-claims-access-and-static-review)
+
+<a id="av-0051--static-notebook-scene-cues-and-glasses-discrepancy"></a>
+
+[AV-0051 — static notebook-scene cues and glasses discrepancy](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0051--static-notebook-scene-cues-and-glasses-discrepancy)
+
+<a id="b0105-claims-and-exact-static-review"></a>
+
+[B0105 claims and exact static review](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0105-claims-and-exact-static-review)
+
+<a id="av-0052--still-pastries-and-unstaged-duration"></a>
+
+[AV-0052 — still pastries and unstaged duration](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0052--still-pastries-and-unstaged-duration)
+
+<a id="b0106-claims-visibility-and-static-review"></a>
+
+[B0106 claims, visibility and static review](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0106-claims-visibility-and-static-review)
+
+<a id="av-0053--office-street-park-and-elided-performance"></a>
+
+[AV-0053 — office, street, park and elided performance](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0053--office-street-park-and-elided-performance)
+
+<a id="b0107-consent-self-authorship-and-static-review"></a>
+
+[B0107 consent, self-authorship and static review](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0107-consent-self-authorship-and-static-review)
+
+<a id="av-0054--television-ellipsis-and-night-training-presentation"></a>
+
+[AV-0054 — television ellipsis and night-training presentation](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0054--television-ellipsis-and-night-training-presentation)
+
+<a id="b0108-solo-choice-adult-responsibility-and-unfinished-show"></a>
+
+[B0108 solo choice, adult responsibility and unfinished show](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0108-solo-choice-adult-responsibility-and-unfinished-show)
+
+<a id="av-0055--rehearsal-strain-holocom-support-and-stage-opening"></a>
+
+[AV-0055 — rehearsal strain, HoloCom support and stage opening](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0055--rehearsal-strain-holocom-support-and-stage-opening)
+
+<a id="b0109-fever-ordinary-care-and-non-scarce-kinship"></a>
+
+[B0109 fever, ordinary care and non-scarce kinship](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0109-fever-ordinary-care-and-non-scarce-kinship)
+
+<a id="av-0056--fevered-hime-household-meal-and-scene-cuts"></a>
+
+[AV-0056 — fevered Hime, household meal and scene cuts](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0056--fevered-hime-household-meal-and-scene-cuts)
+
+<a id="b0110-momoka-production-image-work-and-consent"></a>
+
+[B0110 Momoka production image, work and consent](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0110-momoka-production-image-work-and-consent)
+
+<a id="av-0057--static-interview-rehearsal-and-broadcast-framing"></a>
+
+[AV-0057 — static interview, rehearsal and broadcast framing](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0057--static-interview-rehearsal-and-broadcast-framing)
+
+<a id="b0111-sumire-authenticity-alternatives-and-present-choice"></a>
+
+[B0111 Sumire authenticity, alternatives and present choice](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0111-sumire-authenticity-alternatives-and-present-choice)
+
+<a id="av-0058--sumire-expression-stage-cut-and-unauditioned-stream"></a>
+
+[AV-0058 — Sumire expression, stage cut and unauditioned stream](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0058--sumire-expression-stage-cut-and-unauditioned-stream)
+
+<a id="b0112-sui-food-logic-publicity-and-labor-capacity"></a>
+
+[B0112 Sui food logic, publicity and labor capacity](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0112-sui-food-logic-publicity-and-labor-capacity)
+
+<a id="av-0059--food-dialogue-reported-swim-win-and-shop-rush"></a>
+
+[AV-0059 — food dialogue, reported swim win and shop rush](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0059--food-dialogue-reported-swim-win-and-shop-rush)
+
+<a id="b0113-shizuka-fish-shop-learning-and-unequal-exchange"></a>
+
+[B0113 Shizuka fish-shop learning and unequal exchange](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0113-shizuka-fish-shop-learning-and-unequal-exchange)
+
+<a id="av-0060--fish-shop-rush-helicopter-and-unperformed-public-address"></a>
+
+[AV-0060 — fish-shop rush, helicopter and unperformed public address](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0060--fish-shop-rush-helicopter-and-unperformed-public-address)
+
+<a id="b0114-suss-school-support-rest-and-unconsulted-reward"></a>
+
+[B0114 Suss school support, rest and unconsulted reward](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0114-suss-school-support-rest-and-unconsulted-reward)
+
+<a id="av-0061--holocom-warning-study-camp-and-comic-reward-reveal"></a>
+
+[AV-0061 — HoloCom warning, study camp and comic reward reveal](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0061--holocom-warning-study-camp-and-comic-reward-reveal)
+
+<a id="b0115-sawara-talent-refusal-and-role-fit"></a>
+
+[B0115 Sawara talent, refusal and role fit](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0115-sawara-talent-refusal-and-role-fit)
+
+<a id="av-0062--runway-costume-reported-calls-and-sealed-room-framing"></a>
+
+[AV-0062 — runway costume, reported calls and sealed-room framing](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0062--runway-costume-reported-calls-and-sealed-room-framing)
+
+<a id="b0116-kajika-staged-agency-and-frame-correction"></a>
+
+[B0116 Kajika staged agency and frame correction](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0116-kajika-staged-agency-and-frame-correction)
+
+<a id="av-0063--space-costume-and-robot-role-inside-a-museum-fiction"></a>
+
+[AV-0063 — space costume and robot role inside a museum fiction](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0063--space-costume-and-robot-role-inside-a-museum-fiction)
+
+<a id="b0117-shinju-childlike-performance-and-intellectual-continuity"></a>
+
+[B0117 Shinju childlike performance and intellectual continuity](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0117-shinju-childlike-performance-and-intellectual-continuity)
+
+<a id="av-0064--rehearsal-child-show-scene-and-shinjus-ordinary-presentation"></a>
+
+[AV-0064 — rehearsal, child-show scene and Shinju's ordinary presentation](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0064--rehearsal-child-show-scene-and-shinjus-ordinary-presentation)
+
+<a id="b0118-tomoe-protective-song-and-renewed-performance-limit"></a>
+
+[B0118 Tomoe protective song and renewed performance limit](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0118-tomoe-protective-song-and-renewed-performance-limit)
+
+<a id="av-0065--tomoe-from-rehearsal-to-shared-stage-and-encore"></a>
+
+[AV-0065 — Tomoe from rehearsal to shared stage and encore](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0065--tomoe-from-rehearsal-to-shared-stage-and-encore)
+
+<a id="b0119-middle-school-formation-aspiration-chain-and-safety-limit"></a>
+
+[B0119 middle-school formation, aspiration chain and safety limit](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0119-middle-school-formation-aspiration-chain-and-safety-limit)
+
+<a id="av-0066--four-person-rehearsal-and-unreviewed-streamed-live"></a>
+
+[AV-0066 — four-person rehearsal and unreviewed streamed live](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0066--four-person-rehearsal-and-unreviewed-streamed-live)
+
+<a id="b0120-service-style-fidelity-and-bounded-outcome"></a>
+
+[B0120 service style, fidelity and bounded outcome](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0120-service-style-fidelity-and-bounded-outcome)
+
+<a id="av-0067--ayumus-registercostume-and-unreviewed-café-event"></a>
+
+[AV-0067 — Ayumu's register/costume and unreviewed café event](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0067--ayumus-registercostume-and-unreviewed-café-event)
+
+<a id="b0121-fear-choice-and-production-evidence-limit"></a>
+
+[B0121 fear, choice and production evidence limit](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0121-fear-choice-and-production-evidence-limit)
+
+<a id="av-0068--kyokos-fear-states-and-unreviewed-tv-production"></a>
+
+[AV-0068 — Kyoko's fear states and unreviewed TV production](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0068--kyokos-fear-states-and-unreviewed-tv-production)
+
+<a id="b0122-selected-practice-intrusive-gaze-and-bounded-outcome"></a>
+
+[B0122 selected practice, intrusive gaze and bounded outcome](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0122-selected-practice-intrusive-gaze-and-bounded-outcome)
+
+<a id="av-0069--honokas-role-expressions-and-unreviewed-drama"></a>
+
+[AV-0069 — Honoka's role expressions and unreviewed drama](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0069--honokas-role-expressions-and-unreviewed-drama)
+
+<a id="b0123-capacity-privacy-and-response-boundary"></a>
+
+[B0123 capacity, privacy and response boundary](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0123-capacity-privacy-and-response-boundary)
+
+<a id="av-0070--renas-letter-object-and-unauditioned-workmeeting"></a>
+
+[AV-0070 — Rena's letter object and unauditioned work/meeting](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0070--renas-letter-object-and-unauditioned-workmeeting)
+
+<a id="b0124-reliance-backup-competence-and-safety-boundary"></a>
+
+[B0124 reliance, backup competence and safety boundary](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#b0124-reliance-backup-competence-and-safety-boundary)
+
+<a id="av-0071--mimis-substitute-work-and-unreviewed-threat-response"></a>
+
+[AV-0071 — Mimi's substitute work and unreviewed threat response](T7S_CLAIM_EVIDENCE_COMPONENT_001.md#av-0071--mimis-substitute-work-and-unreviewed-threat-response)
+
+<a id="b0125-creative-pause-ordinary-life-framing-and-injury-limit"></a>
+
+[B0125 creative pause, ordinary-life framing and injury limit](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0125-creative-pause-ordinary-life-framing-and-injury-limit)
+
+<a id="av-0072--ferb-withwithout-bass-and-unauditioned-ad-melody"></a>
+
+[AV-0072 — Ferb with/without bass and unauditioned ad melody](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0072--ferb-withwithout-bass-and-unauditioned-ad-melody)
+
+<a id="b0126-false-premise-mixed-clues-and-coercive-procedure"></a>
+
+[B0126 false premise, mixed clues and coercive procedure](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0126-false-premise-mixed-clues-and-coercive-procedure)
+
+<a id="av-0073--broken-tofu-detective-costume-and-unreviewed-health-state"></a>
+
+[AV-0073 — broken tofu, detective costume and unreviewed health state](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0073--broken-tofu-detective-costume-and-unreviewed-health-state)
+
+<a id="b0127-friendship-disclosure-and-rehearsal-choice-limits"></a>
+
+[B0127 friendship disclosure and rehearsal choice limits](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0127-friendship-disclosure-and-rehearsal-choice-limits)
+
+<a id="av-0074--mius-holocom-contact-and-unreviewed-friend-conversation"></a>
+
+[AV-0074 — Miu's Holocom contact and unreviewed friend conversation](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0074--mius-holocom-contact-and-unreviewed-friend-conversation)
+
+<a id="b0128-school-observation-visibility-and-consent-limits"></a>
+
+[B0128 school observation, visibility and consent limits](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0128-school-observation-visibility-and-consent-limits)
+
+<a id="av-0075--monakas-school-disguise-and-school-life-visibility"></a>
+
+[AV-0075 — Monaka's school disguise and school-life visibility](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0075--monakas-school-disguise-and-school-life-visibility)
+
+<a id="b0129-performed-care-and-recording-consent-limits"></a>
+
+[B0129 performed care and recording-consent limits](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0129-performed-care-and-recording-consent-limits)
+
+<a id="av-0076--eis-staged-transformation-and-unseen-recording"></a>
+
+[AV-0076 — Ei's staged transformation and unseen recording](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0076--eis-staged-transformation-and-unseen-recording)
+
+<a id="b0130-family-role-comedy-heat-preparation-and-child-stage-limits"></a>
+
+[B0130 family-role comedy, heat preparation and child-stage limits](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0130-family-role-comedy-heat-preparation-and-child-stage-limits)
+
+<a id="av-0077--mall-trip-sprites-and-unreviewed-live-show"></a>
+
+[AV-0077 — mall trip sprites and unreviewed live show](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0077--mall-trip-sprites-and-unreviewed-live-show)
+
+<a id="b0131-memory-care-and-consent-after-two-accidents"></a>
+
+[B0131 memory, care and consent after two accidents](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0131-memory-care-and-consent-after-two-accidents)
+
+<a id="av-0078--yumenos-manner-variants-and-elided-accident-action"></a>
+
+[AV-0078 — Yumeno's manner variants and elided accident action](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0078--yumenos-manner-variants-and-elided-accident-action)
+
+<a id="b0132-fan-visibility-guide-duty-and-media-opportunity-limits"></a>
+
+[B0132 fan visibility, guide duty and media opportunity limits](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0132-fan-visibility-guide-duty-and-media-opportunity-limits)
+
+<a id="av-0079--festival-attendee-costumes-and-unreviewed-crowdmusic"></a>
+
+[AV-0079 — festival-attendee costumes and unreviewed crowd/music](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0079--festival-attendee-costumes-and-unreviewed-crowdmusic)
+
+<a id="b0133-adult-image-aspiration-child-role-work-and-listening-limits"></a>
+
+[B0133 adult-image aspiration, child-role work and listening limits](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0133-adult-image-aspiration-child-role-work-and-listening-limits)
+
+<a id="av-0080--adult-model-aspiration-and-selected-speaker-sprites"></a>
+
+[AV-0080 — adult-model aspiration and selected speaker sprites](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0080--adult-model-aspiration-and-selected-speaker-sprites)
+
+<a id="b0134-distributed-craft-chosen-weakness-and-mixed-reception"></a>
+
+[B0134 distributed craft, chosen weakness and mixed reception](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0134-distributed-craft-chosen-weakness-and-mixed-reception)
+
+<a id="av-0081--first-live-and-paired-comedy-presentation"></a>
+
+[AV-0081 — first-live and paired comedy presentation](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0081--first-live-and-paired-comedy-presentation)
+
+<a id="b0135-pedagogy-mismatch-reciprocal-care-and-pre-event-boundary"></a>
+
+[B0135 pedagogy mismatch, reciprocal care and pre-event boundary](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0135-pedagogy-mismatch-reciprocal-care-and-pre-event-boundary)
+
+<a id="av-0082--rehearsal-sprites-and-pre-event-yukata"></a>
+
+[AV-0082 — rehearsal sprites and pre-event yukata](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0082--rehearsal-sprites-and-pre-event-yukata)
+
+<a id="b0136-true-gaze-false-frame-and-unremedied-boundary"></a>
+
+[B0136 true gaze, false frame and unremedied boundary](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0136-true-gaze-false-frame-and-unremedied-boundary)
+
+<a id="av-0083--agent-role-play-and-watcher-reveal-sprites"></a>
+
+[AV-0083 — agent role-play and watcher-reveal sprites](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0083--agent-role-play-and-watcher-reveal-sprites)
+
+<a id="b0137-support-without-cost-relational-craft-and-qualified-return"></a>
+
+[B0137 support without cost, relational craft and qualified return](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0137-support-without-cost-relational-craft-and-qualified-return)
+
+<a id="av-0084--designer-and-friend-sprites-across-departurereturn"></a>
+
+[AV-0084 — designer and friend sprites across departure/return](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0084--designer-and-friend-sprites-across-departurereturn)
+
+<a id="b0138-smile-obligation-injury-and-patient-care"></a>
+
+[B0138 smile obligation, injury and patient care](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0138-smile-obligation-injury-and-patient-care)
+
+<a id="av-0085--saori-sawara-and-a-non-individuated-girl-sprite"></a>
+
+[AV-0085 — Saori, Sawara and a non-individuated girl sprite](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0085--saori-sawara-and-a-non-individuated-girl-sprite)
+
+<a id="b0139-child-led-craft-covert-care-and-requested-comfort"></a>
+
+[B0139 child-led craft, covert care and requested comfort](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0139-child-led-craft-covert-care-and-requested-comfort)
+
+<a id="av-0086--child-quartet-and-older-observer-static-states"></a>
+
+[AV-0086 — child quartet and older-observer static states](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0086--child-quartet-and-older-observer-static-states)
+
+<a id="b0140-collaborative-voice-fan-attachment-and-bounded-cover-reception"></a>
+
+[B0140 collaborative voice, fan attachment and bounded cover reception](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0140-collaborative-voice-fan-attachment-and-bounded-cover-reception)
+
+<a id="av-0087--festival-collaborators-and-omitted-cover-performance"></a>
+
+[AV-0087 — festival collaborators and omitted cover performance](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0087--festival-collaborators-and-omitted-cover-performance)
+
+<a id="b0141-makotos-new-audience-pleasure-and-overextended-assurance"></a>
+
+[B0141 Makoto's new audience pleasure and overextended assurance](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0141-makotos-new-audience-pleasure-and-overextended-assurance)
+
+<a id="av-0088--expressive-variants-and-character-bento-object"></a>
+
+[AV-0088 — expressive variants and character-bento object](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0088--expressive-variants-and-character-bento-object)
+
+<a id="b0142-debt-refusal-labor-boundary-and-reciprocal-world-opening"></a>
+
+[B0142 debt refusal, labor boundary and reciprocal world-opening](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0142-debt-refusal-labor-boundary-and-reciprocal-world-opening)
+
+<a id="av-0089--bar-facade-role-silhouettes-and-kazumimurasaki-stills"></a>
+
+[AV-0089 — bar facade, role silhouettes and Kazumi/Murasaki stills](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0089--bar-facade-role-silhouettes-and-kazumimurasaki-stills)
+
+<a id="b0143-chosen-role-mixed-training-and-consentrole-control-limits"></a>
+
+[B0143 chosen role, mixed training and consent/role-control limits](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0143-chosen-role-mixed-training-and-consentrole-control-limits)
+
+<a id="av-0090--xiao-role-expression-stills-and-filmphysical-action-gap"></a>
+
+[AV-0090 — Xiao role-expression stills and film/physical-action gap](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0090--xiao-role-expression-stills-and-filmphysical-action-gap)
+
+<a id="b0144-dreamwake-bounded-availability-and-stage-readiness"></a>
+
+[B0144 dream/wake, bounded availability and stage-readiness](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0144-dreamwake-bounded-availability-and-stage-readiness)
+
+<a id="av-0091--costume-echo-and-everyday-object-states"></a>
+
+[AV-0091 — costume echo and everyday-object states](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0091--costume-echo-and-everyday-object-states)
+
+<a id="b0145-self-authorship-fan-address-and-the-unclosed-council-decision"></a>
+
+[B0145 self-authorship, fan address and the unclosed council decision](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0145-self-authorship-fan-address-and-the-unclosed-council-decision)
+
+<a id="av-0092--musubis-rolestage-sprite-states-and-unreviewed-performance"></a>
+
+[AV-0092 — Musubi's role/stage sprite states and unreviewed performance](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0092--musubis-rolestage-sprite-states-and-unreviewed-performance)
+
+<a id="b0146-noncopying-inspiration-child-choice-and-ronas-next-horizon"></a>
+
+[B0146 noncopying inspiration, child choice and Rona's next horizon](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0146-noncopying-inspiration-child-choice-and-ronas-next-horizon)
+
+<a id="av-0093--ronas-roles-and-the-trainees-generic-silhouette"></a>
+
+[AV-0093 — Rona's roles and the trainee's generic silhouette](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0093--ronas-roles-and-the-trainees-generic-silhouette)
+
+<a id="b0147-role-expansion-false-kinship-and-bounded-protective-action"></a>
+
+[B0147 role expansion, false kinship and bounded protective action](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0147-role-expansion-false-kinship-and-bounded-protective-action)
+
+<a id="av-0094--himes-continuous-dress-and-changed-hair-presentation"></a>
+
+[AV-0094 — Hime's continuous dress and changed hair presentation](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0094--himes-continuous-dress-and-changed-hair-presentation)
+
+<a id="b0148-nonwork-paradox-clinical-risk-and-non-advice-boundary"></a>
+
+[B0148 nonwork paradox, clinical risk and non-advice boundary](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0148-nonwork-paradox-clinical-risk-and-non-advice-boundary)
+
+<a id="av-0095--holocom-and-generic-clinical-presentation"></a>
+
+[AV-0095 — Holocom and generic clinical presentation](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0095--holocom-and-generic-clinical-presentation)
+
+<a id="b0149-manager-presence-self-authored-stage-motive-and-omitted-confession"></a>
+
+[B0149 manager presence, self-authored stage motive and omitted confession](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0149-manager-presence-self-authored-stage-motive-and-omitted-confession)
+
+<a id="av-0096--sumires-prior-stage-and-solo-day-states"></a>
+
+[AV-0096 — Sumire's prior stage and solo-day states](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0096--sumires-prior-stage-and-solo-day-states)
+
+<a id="b0150-youth-mentorship-date-framing-and-privacy"></a>
+
+[B0150 youth mentorship, date framing and privacy](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0150-youth-mentorship-date-framing-and-privacy)
+
+<a id="av-0097--sui-outfit-states-and-generic-masaru-role-icons"></a>
+
+[AV-0097 — Sui outfit states and generic Masaru role icons](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0097--sui-outfit-states-and-generic-masaru-role-icons)
+
+<a id="b0151-name-conditional-access-and-reciprocal-group-agency"></a>
+
+[B0151 name, conditional access and reciprocal group agency](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0151-name-conditional-access-and-reciprocal-group-agency)
+
+<a id="av-0098--shizukas-staged-return-and-generic-production-icon"></a>
+
+[AV-0098 — Shizuka's staged return and generic production icon](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0098--shizukas-staged-return-and-generic-production-icon)
+
+<a id="b0152-audition-belonging-and-bounded-vulnerability"></a>
+
+[B0152 audition, belonging and bounded vulnerability](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0152-audition-belonging-and-bounded-vulnerability)
+
+<a id="av-0099--audition-notice-holocom-and-susu-costume-states"></a>
+
+[AV-0099 — audition notice, holocom and Susu costume states](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0099--audition-notice-holocom-and-susu-costume-states)
+
+<a id="b0153-overwork-repair-and-photographic-consent"></a>
+
+[B0153 overwork, repair and photographic consent](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0153-overwork-repair-and-photographic-consent)
+
+<a id="av-0100--sawaras-trip-outfits-and-generic-holocom"></a>
+
+[AV-0100 — Sawara's trip outfits and generic holocom](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0100--sawaras-trip-outfits-and-generic-holocom)
+
+<a id="b0154-kajikas-fans-ordinary-visibility-and-custody"></a>
+
+[B0154 Kajika's fans, ordinary visibility and custody](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0154-kajikas-fans-ordinary-visibility-and-custody)
+
+<a id="av-0101--kajikas-recorded-address-and-unpictured-correspondents"></a>
+
+[AV-0101 — Kajika's recorded address and unpictured correspondents](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0101--kajikas-recorded-address-and-unpictured-correspondents)
+
+<a id="b0155-modest-care-and-dream-frame-epistemics"></a>
+
+[B0155 modest care and dream-frame epistemics](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0155-modest-care-and-dream-frame-epistemics)
+
+<a id="av-0102--frog-variants-and-the-unverified-stone-gate"></a>
+
+[AV-0102 — frog variants and the unverified stone gate](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0102--frog-variants-and-the-unverified-stone-gate)
+
+<a id="b0156-friendship-cover-and-own-song-answer"></a>
+
+[B0156 friendship, cover and own-song answer](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0156-friendship-cover-and-own-song-answer)
+
+<a id="av-0103--tomoes-two-presentations-and-generic-friend-icons"></a>
+
+[AV-0103 — Tomoe's two presentations and generic friend icons](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0103--tomoes-two-presentations-and-generic-friend-icons)
+
+<a id="b0157-film-role-interpretation-consent-and-chance"></a>
+
+[B0157 film-role interpretation, consent and chance](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0157-film-role-interpretation-consent-and-chance)
+
+<a id="av-0104--madokas-performerrole-costumes-and-generic-production-roles"></a>
+
+[AV-0104 — Madoka's performer/role costumes and generic production roles](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0104--madokas-performerrole-costumes-and-generic-production-roles)
+
+<a id="b0158-comic-contagion-and-care-reversal"></a>
+
+[B0158 comic contagion and care reversal](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0158-comic-contagion-and-care-reversal)
+
+<a id="av-0105--ayumus-rest-state-and-ensemble-expressions"></a>
+
+[AV-0105 — Ayumu's rest state and ensemble expressions](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0105--ayumus-rest-state-and-ensemble-expressions)
+
+<a id="b0159-legacy-audition-and-support-after-loss"></a>
+
+[B0159 legacy, audition and support after loss](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0159-legacy-audition-and-support-after-loss)
+
+<a id="av-0106--three-friends-absent-mother-and-unseen-audition"></a>
+
+[AV-0106 — three friends, absent mother and unseen audition](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0106--three-friends-absent-mother-and-unseen-audition)
+
+<a id="b0160-teaching-technique-own-words-and-one-pupils-light"></a>
+
+[B0160 teaching technique, own words and one pupil's light](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0160-teaching-technique-own-words-and-one-pupils-light)
+
+<a id="av-0107--honokas-clothing-states-and-generic-classroom-presentation"></a>
+
+[AV-0107 — Honoka's clothing states and generic classroom presentation](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0107--honokas-clothing-states-and-generic-classroom-presentation)
+
+<a id="b0161-plural-vocations-unfinished-improvement-and-anticipated-regret"></a>
+
+[B0161 plural vocations, unfinished improvement and anticipated regret](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0161-plural-vocations-unfinished-improvement-and-anticipated-regret)
+
+<a id="av-0108--renas-school-and-coordinated-costume-states-around-an-elided-live"></a>
+
+[AV-0108 — Rena's school and coordinated costume states around an elided live](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0108--renas-school-and-coordinated-costume-states-around-an-elided-live)
+
+<a id="b0162-chosen-fate-effort-and-the-limits-of-protective-interpretation"></a>
+
+[B0162 chosen fate, effort and the limits of protective interpretation](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0162-chosen-fate-effort-and-the-limits-of-protective-interpretation)
+
+<a id="av-0109--mimis-present-and-recruit-suit-states-within-a-narrated-recollection"></a>
+
+[AV-0109 — Mimi's present and recruit-suit states within a narrated recollection](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0109--mimis-present-and-recruit-suit-states-within-a-narrated-recollection)
+
+<a id="b0163-creative-adaptation-differentiated-consent-and-limits-of-reported-success"></a>
+
+[B0163 creative adaptation, differentiated consent and limits of reported success](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0163-creative-adaptation-differentiated-consent-and-limits-of-reported-success)
+
+<a id="av-0110--ferbs-practice-body-changes-and-selected-collaborator-states"></a>
+
+[AV-0110 — Ferb's practice-body changes and selected collaborator states](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0110--ferbs-practice-body-changes-and-selected-collaborator-states)
+
+<a id="b0164-personal-encounter-unequal-admiration-and-chosen-belief-in-reception"></a>
+
+[B0164 personal encounter, unequal admiration and chosen belief in reception](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0164-personal-encounter-unequal-admiration-and-chosen-belief-in-reception)
+
+<a id="av-0111--chachas-school-body-presented-objects-and-farewell-states"></a>
+
+[AV-0111 — Chacha's school body, presented objects and farewell states](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0111--chachas-school-body-presented-objects-and-farewell-states)
+
+<a id="b0165-reasoned-trust-awkward-care-and-the-limits-of-protective-judgment"></a>
+
+[B0165 reasoned trust, awkward care and the limits of protective judgment](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0165-reasoned-trust-awkward-care-and-the-limits-of-protective-judgment)
+
+<a id="av-0112--mius-three-static-bodies-preparation-states-and-recalled-photo-object"></a>
+
+[AV-0112 — Miu's three static bodies, preparation states and recalled photo object](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0112--mius-three-static-bodies-preparation-states-and-recalled-photo-object)
+
+<a id="b0166-own-purpose-search-inherited-reassurance-and-the-limits-of-knowing-by-watching"></a>
+
+[B0166 own-purpose search, inherited reassurance and the limits of knowing by watching](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0166-own-purpose-search-inherited-reassurance-and-the-limits-of-knowing-by-watching)
+
+<a id="av-0113--monakas-five-static-bodies-uneven-peer-pursuit-and-report-framed-reassurance"></a>
+
+[AV-0113 — Monaka's five static bodies, uneven peer pursuit and report-framed reassurance](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0113--monakas-five-static-bodies-uneven-peer-pursuit-and-report-framed-reassurance)
+
+<a id="b0167-relational-archives-wanted-mismatch-and-the-limits-of-public-understanding"></a>
+
+[B0167 relational archives, wanted mismatch and the limits of public understanding](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0167-relational-archives-wanted-mismatch-and-the-limits-of-public-understanding)
+
+<a id="av-0114--distinct-coordinations-text-only-objections-and-memoryprivacy-frames"></a>
+
+[AV-0114 — distinct coordinations, text-only objections and memory/privacy frames](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0114--distinct-coordinations-text-only-objections-and-memoryprivacy-frames)
+
+<a id="b0168-selective-access-interpretive-limits-and-ordinary-teaching-without-omniscience"></a>
+
+[B0168 selective access, interpretive limits and ordinary teaching without omniscience](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0168-selective-access-interpretive-limits-and-ordinary-teaching-without-omniscience)
+
+<a id="av-0115--diary-objects-conditional-actor-knowledge-and-representational-exaggeration"></a>
+
+[AV-0115 — diary objects, conditional actor knowledge and representational exaggeration](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0115--diary-objects-conditional-actor-knowledge-and-representational-exaggeration)
+
+<a id="b0169-appropriation-bounded-tolerance-and-imagination-without-realized-authorship"></a>
+
+[B0169 appropriation, bounded tolerance and imagination without realized authorship](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0169-appropriation-bounded-tolerance-and-imagination-without-realized-authorship)
+
+<a id="av-0116--repeated-roles-uncertain-night-onset-and-the-sleeping-manuscript-coda"></a>
+
+[AV-0116 — repeated roles, uncertain night onset and the sleeping manuscript coda](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0116--repeated-roles-uncertain-night-onset-and-the-sleeping-manuscript-coda)
+
+<a id="b0170-role-anxiety-transferred-care-and-discreet-morning-recognition"></a>
+
+[B0170 role anxiety, transferred care and discreet morning recognition](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0170-role-anxiety-transferred-care-and-discreet-morning-recognition)
+
+<a id="av-0117--stable-portraits-local-care-transitions-and-the-answered-morning-aside"></a>
+
+[AV-0117 — stable portraits, local care transitions and the answered morning aside](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0117--stable-portraits-local-care-transitions-and-the-answered-morning-aside)
+
+<a id="b0171-child-authorship-additive-family-and-gratitude-with-refusal"></a>
+
+[B0171 child authorship, additive family and gratitude with refusal](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0171-child-authorship-additive-family-and-gratitude-with-refusal)
+
+<a id="av-0118--own-handed-essay-staged-competence-and-the-illustrative-family-montage"></a>
+
+[AV-0118 — own-handed essay, staged competence and the illustrative family montage](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0118--own-handed-essay-staged-competence-and-the-illustrative-family-montage)
+
+<a id="b0172-corrected-grievance-chosen-work-and-limited-public-return"></a>
+
+[B0172 corrected grievance, chosen work and limited public return](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0172-corrected-grievance-chosen-work-and-limited-public-return)
+
+<a id="av-0119--generic-adversary-sepia-alliance-and-the-ordinaryformal-return"></a>
+
+[AV-0119 — generic adversary, sepia alliance and the ordinary/formal return](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0119--generic-adversary-sepia-alliance-and-the-ordinaryformal-return)
+
+<a id="b0173-wanted-work-family-film-memory-and-a-bounded-shared-release"></a>
+
+[B0173 wanted work, family film memory and a bounded shared release](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0173-wanted-work-family-film-memory-and-a-bounded-shared-release)
+
+<a id="av-0120--wanted-hybrid-role-represented-film-and-music-recognition"></a>
+
+[AV-0120 — wanted hybrid role, represented film and music recognition](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0120--wanted-hybrid-role-represented-film-and-music-recognition)
+
+<a id="b0174-leadership-shared-virtual-play-and-unfinished-limits"></a>
+
+[B0174 leadership, shared virtual play and unfinished limits](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0174-leadership-shared-virtual-play-and-unfinished-limits)
+
+<a id="av-0121--avatar-cooperation-requested-song-and-ordinary-waking"></a>
+
+[AV-0121 — avatar cooperation, requested song and ordinary waking](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0121--avatar-cooperation-requested-song-and-ordinary-waking)
+
+<a id="b0175-care-shared-independence-and-room-to-receive"></a>
+
+[B0175 care, shared independence and room to receive](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0175-care-shared-independence-and-room-to-receive)
+
+<a id="av-0122--ordinary-care-framed-futures-and-recipient-reversal"></a>
+
+[AV-0122 — ordinary care, framed futures and recipient reversal](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0122--ordinary-care-framed-futures-and-recipient-reversal)
+
+<a id="b0176-injury-free-image-protector-burden-and-shared-happiness"></a>
+
+[B0176 injury-free image, protector burden and shared happiness](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0176-injury-free-image-protector-burden-and-shared-happiness)
+
+<a id="av-0123--visible-bandaging-recipient-knowledge-and-shared-protection"></a>
+
+[AV-0123 — visible bandaging, recipient knowledge and shared protection](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0123--visible-bandaging-recipient-knowledge-and-shared-protection)
+
+<a id="b0177-family-taste-distributed-work-and-another-home"></a>
+
+[B0177 family taste, distributed work and another home](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0177-family-taste-distributed-work-and-another-home)
+
+<a id="av-0124--complete-b0177-native-schema-family-meal-reveal-and-static-reactions"></a>
+
+[AV-0124 — Complete B0177 native schema, family-meal reveal and static reactions](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0124--complete-b0177-native-schema-family-meal-reveal-and-static-reactions)
+
+<a id="b0178-direction-reciprocity-and-the-limits-of-tailwind"></a>
+
+[B0178 direction, reciprocity and the limits of tailwind](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0178-direction-reciprocity-and-the-limits-of-tailwind)
+
+<a id="av-0125--different-musical-directions-through-static-continuity-and-elided-trials"></a>
+
+[AV-0125 — Different musical directions through static continuity and elided trials](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0125--different-musical-directions-through-static-continuity-and-elided-trials)
+
+<a id="b0179-chosen-return-and-the-limits-of-an-apparent-fact"></a>
+
+[B0179 chosen return and the limits of an apparent fact](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0179-chosen-return-and-the-limits-of-an-apparent-fact)
+
+<a id="av-0126--body-changes-apparent-sleep-and-the-offscreen-accusation"></a>
+
+[AV-0126 — Body changes, apparent sleep and the offscreen accusation](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0126--body-changes-apparent-sleep-and-the-offscreen-accusation)
+
+<a id="b0180-acting-toward-viewers-and-the-limits-of-shared-creation"></a>
+
+[B0180 acting toward viewers and the limits of shared creation](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0180-acting-toward-viewers-and-the-limits-of-shared-creation)
+
+<a id="av-0127--the-acted-scientist-viewed-tofu-inset-and-unreceived-films"></a>
+
+[AV-0127 — The acted scientist, viewed tofu inset and unreceived films](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#av-0127--the-acted-scientist-viewed-tofu-inset-and-unreceived-films)
+
+<a id="b0181-effort-without-guaranteed-full-reception"></a>
+
+[B0181 effort without guaranteed full reception](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0181-effort-without-guaranteed-full-reception)
+
+<a id="b0182-participation-ordinary-company-and-perspectival-limits"></a>
+
+[B0182 participation, ordinary company and perspectival limits](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0182-participation-ordinary-company-and-perspectival-limits)
+
+<a id="b0183-becoming-recognition-and-conditional-proximity"></a>
+
+[B0183 becoming, recognition and conditional proximity](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0183-becoming-recognition-and-conditional-proximity)
+
+<a id="b0184-received-courage-becomes-chosen-care"></a>
+
+[B0184 received courage becomes chosen care](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0184-received-courage-becomes-chosen-care)
+
+<a id="b0185-ordinary-initiative-with-retained-limits"></a>
+
+[B0185 ordinary initiative with retained limits](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0185-ordinary-initiative-with-retained-limits)
+
+<a id="b0186-particular-attention-recipient-authorship-and-retained-limits"></a>
+
+[B0186 particular attention, recipient authorship and retained limits](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0186-particular-attention-recipient-authorship-and-retained-limits)
+
+<a id="b0187-situated-guidance-care-and-interpretation"></a>
+
+[B0187 situated guidance, care and interpretation](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0187-situated-guidance-care-and-interpretation)
+
+<a id="b0188-care-self-presentation-and-bounded-recognition"></a>
+
+[B0188 care, self-presentation and bounded recognition](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0188-care-self-presentation-and-bounded-recognition)
+
+<a id="b0189-older-sister-address-reciprocity-and-open-outcomes"></a>
+
+[B0189 older-sister address, reciprocity and open outcomes](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0189-older-sister-address-reciprocity-and-open-outcomes)
+
+<a id="b0190-musical-work-particular-address-and-distance-reconsidered"></a>
+
+[B0190 musical work, particular address and distance reconsidered](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0190-musical-work-particular-address-and-distance-reconsidered)
+
+<a id="b0191-changing-interests-negotiated-effort-and-person-specific-continuation"></a>
+
+[B0191 changing interests, negotiated effort and person-specific continuation](T7S_CLAIM_EVIDENCE_COMPONENT_002.md#b0191-changing-interests-negotiated-effort-and-person-specific-continuation)
+
+<a id="b0192-selected-address-succession-and-passing-presence"></a>
+
+[B0192 selected address, succession and passing presence](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0192-selected-address-succession-and-passing-presence)
+
+<a id="b0193-artistic-attention-and-differently-negotiated-exposure"></a>
+
+[B0193 artistic attention and differently negotiated exposure](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0193-artistic-attention-and-differently-negotiated-exposure)
+
+<a id="b0194-intentions-mediated-reception-and-contingent-freedom"></a>
+
+[B0194 intentions, mediated reception and contingent freedom](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0194-intentions-mediated-reception-and-contingent-freedom)
+
+<a id="b0195-kurts-own-categories-and-the-asymmetry-of-presentation"></a>
+
+[B0195 Kurt's own categories and the asymmetry of presentation](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0195-kurts-own-categories-and-the-asymmetry-of-presentation)
+
+<a id="b0196-ruis-offered-access-particular-comparisons-and-retained-refusal"></a>
+
+[B0196 Rui's offered access, particular comparisons and retained refusal](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0196-ruis-offered-access-particular-comparisons-and-retained-refusal)
+
+<a id="b0197-memorus-affection-access-and-legible-participation"></a>
+
+[B0197 Memoru's affection, access and legible participation](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0197-memorus-affection-access-and-legible-participation)
+
+<a id="b0198-kazumis-words-taste-and-chosen-interpreters"></a>
+
+[B0198 Kazumi's words, taste and chosen interpreters](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0198-kazumis-words-taste-and-chosen-interpreters)
+
+<a id="b0199-renas-chosen-heights-and-the-terms-of-support"></a>
+
+[B0199 Rena's chosen heights and the terms of support](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0199-renas-chosen-heights-and-the-terms-of-support)
+
+<a id="b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry"></a>
+
+[B0200 Honoka's ordinary self and the happiness she chooses to carry](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry)
+
+<a id="b0201-makotos-offered-closeness-and-the-pressure-of-being-known"></a>
+
+[B0201 Makoto's offered closeness and the pressure of being known](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0201-makotos-offered-closeness-and-the-pressure-of-being-known)
+
+<a id="b0202-madokas-chosen-bridges-and-unfinished-invitations"></a>
+
+[B0202 Madoka's chosen bridges and unfinished invitations](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0202-madokas-chosen-bridges-and-unfinished-invitations)
+
+<a id="b0203-musubis-chosen-openings-and-the-limits-of-disclosure"></a>
+
+[B0203 Musubi's chosen openings and the limits of disclosure](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0203-musubis-chosen-openings-and-the-limits-of-disclosure)
+
+<a id="b0204-rishuris-own-pattern-and-the-company-that-widens-it"></a>
+
+[B0204 Rishuri's own pattern and the company that widens it](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0204-rishuris-own-pattern-and-the-company-that-widens-it)
+
+<a id="b0205-yumenos-looking-making-and-borrowed-permission"></a>
+
+[B0205 Yumeno's looking, making and borrowed permission](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0205-yumenos-looking-making-and-borrowed-permission)
+
+<a id="b0206-tashas-names-for-closeness-and-an-unfinished-future"></a>
+
+[B0206 Tasha's names for closeness and an unfinished future](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0206-tashas-names-for-closeness-and-an-unfinished-future)
+
+<a id="b0207-jedas-effort-and-her-ways-of-seeing"></a>
+
+[B0207 Jeda's effort and her ways of seeing](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0207-jedas-effort-and-her-ways-of-seeing)
+
+<a id="b0208-saoris-safety-and-the-reception-of-care"></a>
+
+[B0208 Saori's safety and the reception of care](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0208-saoris-safety-and-the-reception-of-care)
+
+<a id="b0209-sumires-recognition-and-the-pace-of-closeness"></a>
+
+[B0209 Sumire's recognition and the pace of closeness](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0209-sumires-recognition-and-the-pace-of-closeness)
+
+<a id="b0210-sawaras-older-sister-role-and-wanted-company"></a>
+
+[B0210 Sawara's older-sister role and wanted company](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0210-sawaras-older-sister-role-and-wanted-company)
+
+<a id="b0211-kajikas-ordinary-self-and-wanted-recognition"></a>
+
+[B0211 Kajika's ordinary self and wanted recognition](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0211-kajikas-ordinary-self-and-wanted-recognition)
+
+<a id="b0212-shinjus-dependable-company-and-chosen-limits"></a>
+
+[B0212 Shinju's dependable company and chosen limits](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0212-shinjus-dependable-company-and-chosen-limits)
+
+<a id="b0213-monakas-wanted-work-and-unevenly-received-care"></a>
+
+[B0213 Monaka's wanted work and unevenly received care](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0213-monakas-wanted-work-and-unevenly-received-care)
+
+<a id="b0214-eis-chosen-company-and-the-ownership-of-affection"></a>
+
+[B0214 Ei's chosen company and the ownership of affection](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0214-eis-chosen-company-and-the-ownership-of-affection)
+
+<a id="b0215-matsuris-play-wanted-recognition-and-local-corrections"></a>
+
+[B0215 Matsuri's play, wanted recognition and local corrections](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0215-matsuris-play-wanted-recognition-and-local-corrections)
+
+<a id="b0216-tomoes-wanted-company-giving-care-and-uncertain-worth"></a>
+
+[B0216 Tomoe's wanted company, giving care and uncertain worth](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0216-tomoes-wanted-company-giving-care-and-uncertain-worth)
+
+<a id="b0217-mius-tangible-specialness-and-imagined-shared-life"></a>
+
+[B0217 Miu's tangible specialness and imagined shared life](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0217-mius-tangible-specialness-and-imagined-shared-life)
+
+<a id="b0218-xiaos-courage-company-and-selective-disclosure"></a>
+
+[B0218 Xiao's courage, company and selective disclosure](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0218-xiaos-courage-company-and-selective-disclosure)
+
+<a id="b0219-manons-chosen-company-and-imagined-roles"></a>
+
+[B0219 Manon's chosen company and imagined roles](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0219-manons-chosen-company-and-imagined-roles)
+
+<a id="b0220-chachas-boundaries-preferences-and-chosen-company"></a>
+
+[B0220 ChaCha's boundaries, preferences and chosen company](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0220-chachas-boundaries-preferences-and-chosen-company)
+
+<a id="b0221-murasakis-own-colour-and-the-feeling-she-addresses"></a>
+
+[B0221 Murasaki's own colour and the feeling she addresses](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0221-murasakis-own-colour-and-the-feeling-she-addresses)
+
+<a id="b0222-miwakos-chosen-disclosures-study-and-reciprocal-teaching"></a>
+
+[B0222 Miwako's chosen disclosures, study and reciprocal teaching](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0222-miwakos-chosen-disclosures-study-and-reciprocal-teaching)
+
+<a id="b0223-ayumus-service-ideal-practice-and-fallible-explanations"></a>
+
+[B0223 Ayumu's service ideal, practice and fallible explanations](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0223-ayumus-service-ideal-practice-and-fallible-explanations)
+
+<a id="b0224-shirayukis-growing-skills-and-wanted-company"></a>
+
+[B0224 Shirayuki's growing skills and wanted company](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0224-shirayukis-growing-skills-and-wanted-company)
+
+<a id="b0225-hinas-self-presentation-and-qualified-resolve"></a>
+
+[B0225 Hina's self-presentation and qualified resolve](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0225-hinas-self-presentation-and-qualified-resolve)
+
+<a id="b0226-emocos-audience-refusals-and-particular-care"></a>
+
+[B0226 Emoco's audience, refusals and particular care](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0226-emocos-audience-refusals-and-particular-care)
+
+<a id="rev-0043--revise-current-instrument-role-precision"></a>
+
+[`REV-0043` — REVISE current instrument-role precision](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#rev-0043--revise-current-instrument-role-precision)
+
+<a id="b0227-umes-account-of-herself-interrupted"></a>
+
+[B0227 Ume's account of herself, interrupted](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0227-umes-account-of-herself-interrupted)
+
+<a id="b0228-hitoha-and-futaba-extend-the-duet"></a>
+
+[B0228 Hitoha and Futaba extend the duet](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0228-hitoha-and-futaba-extend-the-duet)
+
+<a id="b0229-susu-asks-to-be-understood"></a>
+
+[B0229 Susu asks to be understood](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0229-susu-asks-to-be-understood)
+
+<a id="b0230-coney-asks-what-the-manager-wants"></a>
+
+[B0230 Coney asks what the manager wants](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0230-coney-asks-what-the-manager-wants)
+
+<a id="b0231-three-short-messages-and-an-unanswered-recipient"></a>
+
+[B0231 Three Short messages and an unanswered recipient](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0231-three-short-messages-and-an-unanswered-recipient)
+
+<a id="b0232-forty-two-short-messages-offered-selves-and-absent-answers"></a>
+
+[B0232 Forty-two Short messages, offered selves and absent answers](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0232-forty-two-short-messages-offered-selves-and-absent-answers)
+
+<a id="b0233-claims-alternatives-and-modality-responsibility"></a>
+
+[B0233 claims, alternatives and modality responsibility](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0233-claims-alternatives-and-modality-responsibility)
+
+<a id="av-0180--legend-likenesses-public-voices-and-unperformed-fields"></a>
+
+[AV-0180 — Legend likenesses, public voices and unperformed fields](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#av-0180--legend-likenesses-public-voices-and-unperformed-fields)
+
+<a id="b0234-claims-alternatives-and-modality-responsibility"></a>
+
+[B0234 claims, alternatives and modality responsibility](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0234-claims-alternatives-and-modality-responsibility)
+
+<a id="av-0181--ordinary-portraits-object-images-and-memories-without-performed-evidence"></a>
+
+[AV-0181 — Ordinary portraits, object images and memories without performed evidence](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#av-0181--ordinary-portraits-object-images-and-memories-without-performed-evidence)
+
+<a id="b0235-recognition-respite-and-a-continuing-search"></a>
+
+[B0235 recognition, respite and a continuing search](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0235-recognition-respite-and-a-continuing-search)
+
+<a id="av-0182--personalized-birthday-stills-with-available-but-unheard-voices"></a>
+
+[AV-0182 — Personalized Birthday stills with available but unheard voices](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#av-0182--personalized-birthday-stills-with-available-but-unheard-voices)
+
+<a id="b0236-care-received-with-requests-interpretations-and-unresolved-futures"></a>
+
+[B0236 care received with requests, interpretations and unresolved futures](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#b0236-care-received-with-requests-interpretations-and-unresolved-futures)
+
+<a id="av-0183--twelve-birthday-textstatic-cases-with-available-but-unheard-voices"></a>
+
+[AV-0183 — Twelve Birthday text/static cases with available but unheard voices](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#av-0183--twelve-birthday-textstatic-cases-with-available-but-unheard-voices)
+
+<a id="b0237-particular-attention-retained-limits-and-unresolved-futures"></a>
+
+[B0237 particular attention, retained limits and unresolved futures](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#b0237-particular-attention-retained-limits-and-unresolved-futures)
+
+<a id="av-0184--twelve-birthday-textstatic-cases-with-unheard-voice-and-unresolved-loops"></a>
+
+[AV-0184 — Twelve Birthday text/static cases with unheard voice and unresolved loops](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#av-0184--twelve-birthday-textstatic-cases-with-unheard-voice-and-unresolved-loops)
+
+<a id="b0238-particular-recognition-chosen-reception-and-unresolved-futures"></a>
+
+[B0238 particular recognition, chosen reception and unresolved futures](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#b0238-particular-recognition-chosen-reception-and-unresolved-futures)
+
+<a id="av-0185--twelve-birthday-textnativestill-cases-with-outstanding-performed-evidence"></a>
+
+[AV-0185 — Twelve Birthday text/native/still cases with outstanding performed evidence](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#av-0185--twelve-birthday-textnativestill-cases-with-outstanding-performed-evidence)
+
+<a id="b0239-recognition-belief-and-chosen-reception"></a>
+
+[B0239 recognition, belief and chosen reception](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#b0239-recognition-belief-and-chosen-reception)
+
+<a id="av-0186--nine-birthday-textnativestill-cases-with-outstanding-performed-evidence"></a>
+
+[AV-0186 — Nine Birthday text/native/still cases with outstanding performed evidence](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#av-0186--nine-birthday-textnativestill-cases-with-outstanding-performed-evidence)
+
+<a id="b0240-date-framing-reciprocal-care-and-incomplete-understanding"></a>
+
+[B0240 date framing, reciprocal care and incomplete understanding](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#b0240-date-framing-reciprocal-care-and-incomplete-understanding)
+
+<a id="av-0187--two-complete-event-textnativestill-cases-one-exact-unresolved-ending-carrier"></a>
+
+[AV-0187 — Two complete Event text/native/still cases; one exact unresolved ending carrier](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#av-0187--two-complete-event-textnativestill-cases-one-exact-unresolved-ending-carrier)
+
+<a id="b0241-commemorative-form-partial-understanding-and-continuing-work"></a>
+
+[B0241 commemorative form, partial understanding and continuing work](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#b0241-commemorative-form-partial-understanding-and-continuing-work)
+
+<a id="av-0188--two-independent-complete-event-textnativestill-cases-two-exact-unresolved-endings"></a>
+
+[AV-0188 — Two independent complete Event text/native/still cases; two exact unresolved endings](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#av-0188--two-independent-complete-event-textnativestill-cases-two-exact-unresolved-endings)
+
+<a id="b0242-collective-work-through-selection-attention-and-unfinished-effort"></a>
+
+[B0242 collective work through selection, attention and unfinished effort](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#b0242-collective-work-through-selection-attention-and-unfinished-effort)
+
+<a id="av-0189--complete-three-chapter-event-textnativestills-one-exact-unresolved-command-ending"></a>
+
+[AV-0189 — Complete three-chapter Event text/native/stills; one exact unresolved command ending](T7S_CLAIM_EVIDENCE_COMPONENT_004.md#av-0189--complete-three-chapter-event-textnativestills-one-exact-unresolved-command-ending)
+
+<a id="b0243-public-images-distinct-recipients-and-prospective-freedom"></a>
+
+[B0243 public images, distinct recipients and prospective freedom](T7S_CLAIM_EVIDENCE_COMPONENT_005.md#b0243-public-images-distinct-recipients-and-prospective-freedom)
+
+<a id="av-0190--fifteen-complete-event-textnativestill-cases-two-exact-command-cue-gaps"></a>
+
+[AV-0190 — Fifteen complete Event text/native/still cases, two exact command-cue gaps](T7S_CLAIM_EVIDENCE_COMPONENT_005.md#av-0190--fifteen-complete-event-textnativestill-cases-two-exact-command-cue-gaps)
+
+<a id="b0244-visibility-pressured-growth-and-embodied-cost"></a>
+
+[B0244 visibility, pressured growth and embodied cost](T7S_CLAIM_EVIDENCE_COMPONENT_005.md#b0244-visibility-pressured-growth-and-embodied-cost)
+
+<a id="av-0191--fourteen-complete-event-textnativestill-cases-with-one-exact-command-only-gap"></a>
+
+[AV-0191 — Fourteen complete Event text/native/still cases with one exact command-only gap](T7S_CLAIM_EVIDENCE_COMPONENT_005.md#av-0191--fourteen-complete-event-textnativestill-cases-with-one-exact-command-only-gap)
+
+<a id="rev-0044--revise-announced-departure-without-a-completed-exit"></a>
+
+[`REV-0044` — REVISE announced departure without a completed exit](T7S_CLAIM_EVIDENCE_COMPONENT_005.md#rev-0044--revise-announced-departure-without-a-completed-exit)
+
+<a id="b0245-models-care-and-shared-growth-interpretations"></a>
+
+[B0245 models, care and shared-growth interpretations](T7S_CLAIM_EVIDENCE_COMPONENT_006.md#b0245-models-care-and-shared-growth-interpretations)
+
+<a id="av-0192--fifteen-complete-event-textnativestill-cases-all-named-cues-bound-and-unheard"></a>
+
+[AV-0192 — Fifteen complete Event text/native/still cases, all named cues bound and unheard](T7S_CLAIM_EVIDENCE_COMPONENT_006.md#av-0192--fifteen-complete-event-textnativestill-cases-all-named-cues-bound-and-unheard)
+
+<a id="b0246-shared-plans-and-particular-pleasure-interpretations"></a>
+
+[B0246 shared plans and particular-pleasure interpretations](T7S_CLAIM_EVIDENCE_COMPONENT_006.md#b0246-shared-plans-and-particular-pleasure-interpretations)
+
+<a id="av-0193--fifteen-complete-event-textnativestill-cases-exact-command-only-gaps-and-unheard-audio"></a>
+
+[AV-0193 — Fifteen complete Event text/native/still cases, exact command-only gaps and unheard audio](T7S_CLAIM_EVIDENCE_COMPONENT_006.md#av-0193--fifteen-complete-event-textnativestill-cases-exact-command-only-gaps-and-unheard-audio)
+
+<a id="b0247-recognition-performance-and-shared-work-interpretations"></a>
+
+[B0247 recognition, performance and shared-work interpretations](T7S_CLAIM_EVIDENCE_COMPONENT_007.md#b0247-recognition-performance-and-shared-work-interpretations)
+
+<a id="av-0194--eleven-complete-event-textnativestill-cases-and-unheard-audio"></a>
+
+[AV-0194 — Eleven complete Event text/native/still cases and unheard audio](T7S_CLAIM_EVIDENCE_COMPONENT_007.md#av-0194--eleven-complete-event-textnativestill-cases-and-unheard-audio)
+
+<a id="b0248-preparing-collective-occasions-interpretations"></a>
+
+[B0248 preparing collective occasions: interpretations](T7S_CLAIM_EVIDENCE_COMPONENT_007.md#b0248-preparing-collective-occasions-interpretations)
+
+<a id="av-0195--fifteen-complete-event-textnativestill-cases-with-unheard-audio"></a>
+
+[AV-0195 — Fifteen complete Event text/native/still cases with unheard audio](T7S_CLAIM_EVIDENCE_COMPONENT_007.md#av-0195--fifteen-complete-event-textnativestill-cases-with-unheard-audio)
+
+<a id="b0249-gathering-and-being-understood-interpretations"></a>
+
+[B0249 gathering and being understood: interpretations](T7S_CLAIM_EVIDENCE_COMPONENT_008.md#b0249-gathering-and-being-understood-interpretations)
+
+<a id="av-0196--seven-complete-event-textnativestill-cases-with-unheard-audio"></a>
+
+[AV-0196 — Seven complete Event text/native/still cases with unheard audio](T7S_CLAIM_EVIDENCE_COMPONENT_008.md#av-0196--seven-complete-event-textnativestill-cases-with-unheard-audio)
+
+<a id="b0250-thanks-practice-and-qualified-rivalry-interpretations"></a>
+
+[B0250 thanks, practice and qualified rivalry: interpretations](T7S_CLAIM_EVIDENCE_COMPONENT_008.md#b0250-thanks-practice-and-qualified-rivalry-interpretations)
+
+<a id="av-0197--five-complete-event-textnativestill-cases-with-unheard-audio"></a>
+
+[AV-0197 — Five complete Event text/native/still cases with unheard audio](T7S_CLAIM_EVIDENCE_COMPONENT_008.md#av-0197--five-complete-event-textnativestill-cases-with-unheard-audio)
+
+<a id="b0251-recognition-without-complete-knowledge-interpretations"></a>
+
+[B0251 recognition without complete knowledge: interpretations](T7S_CLAIM_EVIDENCE_COMPONENT_008.md#b0251-recognition-without-complete-knowledge-interpretations)
+
+<a id="av-0198--eight-complete-event-textnativestill-cases-with-unheard-audio"></a>
+
+[AV-0198 — Eight complete Event text/native/still cases with unheard audio](T7S_CLAIM_EVIDENCE_COMPONENT_008.md#av-0198--eight-complete-event-textnativestill-cases-with-unheard-audio)
+
+<a id="b0252-shared-occasions-interpretations"></a>
+
+[B0252 shared occasions: interpretations](T7S_CLAIM_EVIDENCE_COMPONENT_008.md#b0252-shared-occasions-interpretations)
+
+<a id="av-0199--three-complete-event-textnativestill-cases-with-unheard-audio"></a>
+
+[AV-0199 — Three complete Event text/native/still cases with unheard audio](T7S_CLAIM_EVIDENCE_COMPONENT_008.md#av-0199--three-complete-event-textnativestill-cases-with-unheard-audio)
+
+<a id="b0253-assumed-illness-care-and-uneven-knowledge-interpretations"></a>
+
+[B0253 assumed illness, care and uneven knowledge: interpretations](T7S_CLAIM_EVIDENCE_COMPONENT_008.md#b0253-assumed-illness-care-and-uneven-knowledge-interpretations)
+
+<a id="av-0200--complete-native-text-and-selected-static-evidencevoice-unheard"></a>
+
+[`AV-0200` — complete native text and selected static evidence;voice unheard](T7S_CLAIM_EVIDENCE_COMPONENT_008.md#av-0200--complete-native-text-and-selected-static-evidencevoice-unheard)
+
+<a id="b0254-common-purpose-substitution-and-a-qualified-ending-interpretations"></a>
+
+[B0254 common purpose, substitution and a qualified ending: interpretations](T7S_CLAIM_EVIDENCE_COMPONENT_009.md#b0254-common-purpose-substitution-and-a-qualified-ending-interpretations)
+
+<a id="av-0201--complete-native-text-and-selected-static-evidencevoice-unheard"></a>
+
+[`AV-0201` — complete native text and selected static evidence;voice unheard](T7S_CLAIM_EVIDENCE_COMPONENT_009.md#av-0201--complete-native-text-and-selected-static-evidencevoice-unheard)
+
+<a id="b0255-misrecognition-shared-authorship-and-incomplete-repair-interpretations"></a>
+
+[B0255 misrecognition, shared authorship and incomplete repair: interpretations](T7S_CLAIM_EVIDENCE_COMPONENT_009.md#b0255-misrecognition-shared-authorship-and-incomplete-repair-interpretations)
+
+<a id="av-0202--complete-native-text-and-selected-static-evidencevoice-unheard"></a>
+
+[`AV-0202` — complete native text and selected static evidence;voice unheard](T7S_CLAIM_EVIDENCE_COMPONENT_009.md#av-0202--complete-native-text-and-selected-static-evidencevoice-unheard)
+
+<a id="b0256-rank-relational-acknowledgment-and-uneven-adjudication-interpretations"></a>
+
+[B0256 rank, relational acknowledgment and uneven adjudication: interpretations](T7S_CLAIM_EVIDENCE_COMPONENT_009.md#b0256-rank-relational-acknowledgment-and-uneven-adjudication-interpretations)
+
+<a id="av-0203--complete-native-text-and-selected-static-evidencevoice-unheard"></a>
+
+[`AV-0203` — complete native text and selected static evidence;voice unheard](T7S_CLAIM_EVIDENCE_COMPONENT_009.md#av-0203--complete-native-text-and-selected-static-evidencevoice-unheard)
+
+<a id="b0257-performance-shared-pleasure-and-the-limits-of-assigned-roles"></a>
+
+[B0257 performance, shared pleasure and the limits of assigned roles](T7S_CLAIM_EVIDENCE_COMPONENT_009.md#b0257-performance-shared-pleasure-and-the-limits-of-assigned-roles)
+
+<a id="av-0204--complete-native-text-and-selected-static-evidence-voice-unheard"></a>
+
+[`AV-0204` — complete native text and selected static evidence; voice unheard](T7S_CLAIM_EVIDENCE_COMPONENT_009.md#av-0204--complete-native-text-and-selected-static-evidence-voice-unheard)
+
+<a id="b0258-distributed-work-reciprocal-care-and-the-limits-of-borrowed-roles"></a>
+
+[B0258 distributed work, reciprocal care and the limits of borrowed roles](T7S_CLAIM_EVIDENCE_COMPONENT_009.md#b0258-distributed-work-reciprocal-care-and-the-limits-of-borrowed-roles)
+
+<a id="rev-0045--revise-two-b0251-collective-reference-ids"></a>
+
+[`REV-0045` — REVISE: two B0251 collective reference IDs](T7S_CLAIM_EVIDENCE_COMPONENT_009.md#rev-0045--revise-two-b0251-collective-reference-ids)
+
+<a id="av-0205--complete-native-text-and-selected-static-evidence-voice-unheard"></a>
+
+[`AV-0205` — complete native text and selected static evidence; voice unheard](T7S_CLAIM_EVIDENCE_COMPONENT_009.md#av-0205--complete-native-text-and-selected-static-evidence-voice-unheard)
+
+<a id="b0259-bounded-analytical-claims-and-recoverable-audiovisual-obligations"></a>
+
+[B0259 bounded analytical claims and recoverable audiovisual obligations](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-bounded-analytical-claims-and-recoverable-audiovisual-obligations)
+
+<a id="av-0206--complete-writtennative-context-selected-static-observations-and51-open-follow-ups"></a>
+
+[`AV-0206` — complete written/native context, selected static observations and51 open follow-ups](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#av-0206--complete-writtennative-context-selected-static-observations-and51-open-follow-ups)
+
+<a id="recoverable-private-handoff-routes"></a>
+
+[Recoverable private handoff routes](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#recoverable-private-handoff-routes)
+
+<a id="av-source-context-and-current-state-dictionary"></a>
+
+[AV source, context and current-state dictionary](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#av-source-context-and-current-state-dictionary)
+
+<a id="b0259-c1-q1--av-b"></a>
+
+[B0259-C1-Q1 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c1-q1--av-b)
+
+<a id="b0259-c1-q2--av-b"></a>
+
+[B0259-C1-Q2 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c1-q2--av-b)
+
+<a id="b0259-c1-q3--av-b"></a>
+
+[B0259-C1-Q3 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c1-q3--av-b)
+
+<a id="b0259-c1-q4--av-b"></a>
+
+[B0259-C1-Q4 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c1-q4--av-b)
+
+<a id="b0259-c1-q5--av-b"></a>
+
+[B0259-C1-Q5 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c1-q5--av-b)
+
+<a id="b0259-c1-q6--av-b"></a>
+
+[B0259-C1-Q6 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c1-q6--av-b)
+
+<a id="b0259-c1-q7--av-b"></a>
+
+[B0259-C1-Q7 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c1-q7--av-b)
+
+<a id="b0259-c1-q8--av-a"></a>
+
+[B0259-C1-Q8 — AV-A](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c1-q8--av-a)
+
+<a id="b0259-c2-q1--av-b"></a>
+
+[B0259-C2-Q1 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c2-q1--av-b)
+
+<a id="b0259-c2-q2--av-b"></a>
+
+[B0259-C2-Q2 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c2-q2--av-b)
+
+<a id="b0259-c2-q3--av-b"></a>
+
+[B0259-C2-Q3 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c2-q3--av-b)
+
+<a id="b0259-c2-q4--av-b"></a>
+
+[B0259-C2-Q4 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c2-q4--av-b)
+
+<a id="b0259-c2-q5--av-b"></a>
+
+[B0259-C2-Q5 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c2-q5--av-b)
+
+<a id="b0259-c2-q6--av-b"></a>
+
+[B0259-C2-Q6 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c2-q6--av-b)
+
+<a id="b0259-c2-q7--av-a"></a>
+
+[B0259-C2-Q7 — AV-A](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c2-q7--av-a)
+
+<a id="b0259-c2-q8--av-a"></a>
+
+[B0259-C2-Q8 — AV-A](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c2-q8--av-a)
+
+<a id="b0259-c3-q1--av-b"></a>
+
+[B0259-C3-Q1 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c3-q1--av-b)
+
+<a id="b0259-c3-q2--av-b"></a>
+
+[B0259-C3-Q2 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c3-q2--av-b)
+
+<a id="b0259-c3-q3--av-b"></a>
+
+[B0259-C3-Q3 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c3-q3--av-b)
+
+<a id="b0259-c3-q4--av-b"></a>
+
+[B0259-C3-Q4 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c3-q4--av-b)
+
+<a id="b0259-c3-q5--av-b"></a>
+
+[B0259-C3-Q5 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c3-q5--av-b)
+
+<a id="b0259-c3-q6--av-b"></a>
+
+[B0259-C3-Q6 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c3-q6--av-b)
+
+<a id="b0259-c3-q7--av-b"></a>
+
+[B0259-C3-Q7 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c3-q7--av-b)
+
+<a id="b0259-c3-q8--av-a"></a>
+
+[B0259-C3-Q8 — AV-A](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c3-q8--av-a)
+
+<a id="b0259-c4-q1--av-b"></a>
+
+[B0259-C4-Q1 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c4-q1--av-b)
+
+<a id="b0259-c4-q2--av-b"></a>
+
+[B0259-C4-Q2 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c4-q2--av-b)
+
+<a id="b0259-c4-q3--av-b"></a>
+
+[B0259-C4-Q3 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c4-q3--av-b)
+
+<a id="b0259-c4-q4--av-b"></a>
+
+[B0259-C4-Q4 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c4-q4--av-b)
+
+<a id="b0259-c4-q5--av-b"></a>
+
+[B0259-C4-Q5 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c4-q5--av-b)
+
+<a id="b0259-c4-q6--av-b"></a>
+
+[B0259-C4-Q6 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c4-q6--av-b)
+
+<a id="b0259-c4-q7--av-b"></a>
+
+[B0259-C4-Q7 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c4-q7--av-b)
+
+<a id="b0259-c4-q8--av-a"></a>
+
+[B0259-C4-Q8 — AV-A](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c4-q8--av-a)
+
+<a id="b0259-c5-q1--av-b"></a>
+
+[B0259-C5-Q1 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c5-q1--av-b)
+
+<a id="b0259-c5-q2--av-b"></a>
+
+[B0259-C5-Q2 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c5-q2--av-b)
+
+<a id="b0259-c5-q3--av-b"></a>
+
+[B0259-C5-Q3 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c5-q3--av-b)
+
+<a id="b0259-c5-q4--av-b"></a>
+
+[B0259-C5-Q4 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c5-q4--av-b)
+
+<a id="b0259-c5-q5--av-b"></a>
+
+[B0259-C5-Q5 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c5-q5--av-b)
+
+<a id="b0259-c5-q6--av-b"></a>
+
+[B0259-C5-Q6 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c5-q6--av-b)
+
+<a id="b0259-c5-q7--av-b"></a>
+
+[B0259-C5-Q7 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c5-q7--av-b)
+
+<a id="b0259-c5-q8--av-a"></a>
+
+[B0259-C5-Q8 — AV-A](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c5-q8--av-a)
+
+<a id="b0259-c5-q9--av-a"></a>
+
+[B0259-C5-Q9 — AV-A](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c5-q9--av-a)
+
+<a id="b0259-c6-q1--av-b"></a>
+
+[B0259-C6-Q1 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c6-q1--av-b)
+
+<a id="b0259-c6-q2--av-b"></a>
+
+[B0259-C6-Q2 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c6-q2--av-b)
+
+<a id="b0259-c6-q3--av-b"></a>
+
+[B0259-C6-Q3 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c6-q3--av-b)
+
+<a id="b0259-c6-q4--av-b"></a>
+
+[B0259-C6-Q4 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c6-q4--av-b)
+
+<a id="b0259-c6-q5--av-b"></a>
+
+[B0259-C6-Q5 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c6-q5--av-b)
+
+<a id="b0259-c6-q6--av-b"></a>
+
+[B0259-C6-Q6 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c6-q6--av-b)
+
+<a id="b0259-c6-q7--av-b"></a>
+
+[B0259-C6-Q7 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c6-q7--av-b)
+
+<a id="b0259-c6-q8--av-b"></a>
+
+[B0259-C6-Q8 — AV-B](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c6-q8--av-b)
+
+<a id="b0259-c6-q9--av-a"></a>
+
+[B0259-C6-Q9 — AV-A](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c6-q9--av-a)
+
+<a id="b0259-c6-q10--av-a"></a>
+
+[B0259-C6-Q10 — AV-A](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0259-c6-q10--av-a)
+
+<a id="2034-solo-stage-message-claims"></a>
+
+[2034 solo-stage message claims](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#2034-solo-stage-message-claims)
+
+<a id="b0260-claims-and-evidence"></a>
+
+[B0260 claims and evidence](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#b0260-claims-and-evidence)
+
+<a id="av-0207--complete-writtennative-review-and-selected-original-static-evidence"></a>
+
+[`AV-0207` — complete written/native review and selected original static evidence](T7S_CLAIM_EVIDENCE_COMPONENT_010.md#av-0207--complete-writtennative-review-and-selected-original-static-evidence)

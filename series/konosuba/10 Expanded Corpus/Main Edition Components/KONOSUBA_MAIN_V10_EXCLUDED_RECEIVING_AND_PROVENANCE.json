@@ -1,0 +1,625 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_BOUNDED_SAME_ROOT_RECEIVING_V1",
+  "source_id": "MAIN-10",
+  "accepted_utc": "2026-10-19T15:14:05.907503+00:00",
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "actual_source_scope": {
+    "schema": "KONOSUBA_MAIN_EXCLUDED_ACTUAL_NEW_READING_WITH_RETAINED_PRINCIPAL_RECEIPT_V1",
+    "source_id": "MAIN-10",
+    "accepted_utc": "2026-10-19T15:14:05.907503+00:00",
+    "native_filename": "Konosuba - Main Series - Volume 10.epub",
+    "native_bytes": 1630298,
+    "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+    "OPF_member": "content.opf",
+    "OPF_sha256": "61280c671e8060d741830e156059badd3a16c8e468c3e80d9bd95c72ea8ddbe8",
+    "language": [
+      "ja"
+    ],
+    "colophon_and_bibliographic_difference": "Electronic issue2016-11-01; print-basis first issue2016-11-01; copyright2016. Edition statements agree; exact bonus date and later relationship stage remain unfixed.",
+    "admission_sha256": "0d8b36d7dffeecae9aa49f3674fa28f67c0beaa8c9e4095894e81e697352aec0",
+    "preceding_full_gate_source": "f5ab57916f33302c0b81a700b56876aab05777a9",
+    "preceding_fresh_reload_sha256": "6d7630db353a0c6845ae6bc6325356ca1fb8bd3ae2eb1a6b93901f88e3bfa0ff",
+    "excluded_uncoded_seal_sha256": "7ff5a507124144d6edb3f321b99da685ec9f0df3875d711bdab60fd126a09336",
+    "excluded_uncoded_seal_utc": "2026-10-19T14:43:19.006756+00:00",
+    "actual_new_reading": {
+      "text_resources": 17,
+      "P_slots": 127,
+      "native_images": 28,
+      "ruby_and_nonparagraph_residual_received": true,
+      "bonus_P": 60,
+      "nonbonus_text_slots_P": 67,
+      "author_afterword_P": 20,
+      "other_wrapper_credit_slots_P": 47
+    },
+    "retained_principal_authority": {
+      "members": 7,
+      "P_slots": 3026,
+      "new_principal_reading_credit": 0,
+      "exact_native_and_prior_acceptance_control_joins": true
+    },
+    "fresh_native_CRC": "PASS",
+    "all_native_text_image_hashes_reverified": true,
+    "original_uncoded_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 36806,
+        "sha256": "0d8b36d7dffeecae9aa49f3674fa28f67c0beaa8c9e4095894e81e697352aec0"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 184834,
+        "sha256": "264fb1dd3c574344f948e3355763227a94c89c9e0cf53ba150e429db104d93df"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 17704,
+        "sha256": "72a1fac97b5a834acd34a0fe52f97d48c20ddf522b5130fcc9ecf5e14e44e5b1"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 25292,
+        "sha256": "60b0ddf1db01361b95d3270754fb1ae3c0fca90586882b9153415df20d8888e8"
+      }
+    ],
+    "public_preparation_view_is_redacted": true,
+    "formal_counts": [
+      21,
+      23,
+      31,
+      12,
+      38
+    ],
+    "party_comparisons": 8,
+    "typed_constraints_not_behavioral_scores": 4,
+    "Iris_SI_C01_no_opportunity_comparisons": 7,
+    "Yunyun_SY_C01_no_opportunity_comparisons": 7,
+    "original_SI_SY_null_fields_preserved": 28,
+    "historical_Yunyun_cohort_gate_preserved": {
+      "actual_source_commit": "906a29b4c986de8035b2511ed19dbf3e7c3e0676",
+      "canonical_gate_sha256": "02bf090e2f30b8f01abb66a7fd4de5c4ce8a8ca219e7b4e25d703392a831af43",
+      "historical_gate_not_current_intervening_cohort": true
+    },
+    "preceding_main_component_gate": {
+      "source_id": "MAIN-09",
+      "actual_source_commit": "f5ab57916f33302c0b81a700b56876aab05777a9",
+      "gate_sha256": "9a89b150517dbafb670b10b202a34958e817f0aac740b3a5abb5871a21ae7ef1",
+      "reload_sha256": "6d7630db353a0c6845ae6bc6325356ca1fb8bd3ae2eb1a6b93901f88e3bfa0ff",
+      "schema": "KONOSUBA_MAIN09EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1"
+    },
+    "historical_Iris_cohort_gate_preserved": {
+      "actual_source_commit": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+      "historical_gate_not_current_intervening_cohort": true
+    },
+    "continuing_informed_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03,YORI-04. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim. Separately completed main excluded-component programs: MAIN-01,MAIN-02,MAIN-03,MAIN-04,MAIN-05,MAIN-06,MAIN-07,MAIN-08,MAIN-09. These include their actual new bonuses/paratext/images, with original principal authority retained and zero new principal-pass credit. No pristine blindness is claimed. Iris andYunyunscopedTier3cohorts arepublished/fullgateclosed. ExistingSI-C01/SY-C01 eachcarrysevenoptionalrules/14originalnulls unchanged before this excluded exposure. Completed MAIN09excluded new22resources131P/33images include61Pbonus;1187boundedretainedMAIN09Preceivedwithzeronewprincipalcredit. CompleteMASKacceptedreport and1475uniqueactualnativeP additionallyreceived acrossU013/U017/U019/U021/U023;no newwholeMASKbookpass/independenttest. Workingcensus08has55qualifiedauditrows,notafinalpopulationdenominator.",
+    "no_new_blind_independent_audio_or_full_principal_reread_claim": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+  },
+  "semantic_name_reference_review": "Same continuing informedroot authored/received all17reportsections,21selectedwholecomicpremises,23exactshortwrittenforms,39individualprincipal-partycomparisons,4typeddiagnostics,14separateIris-YunyunNTrows,12ten-ledgerdecisions and38currentqualifications against17actualnewresources127P/28nativeimages plus955boundedretainedP. New60Pday-observationbonus distinguishesactualmeal/nap,cash-chorebargain,Healwithoutshowncure,cat-kindnessspeechandwaking,snackdutyinference,crepereview/extras,sandartandgranteddestruction,fountainownershipclaim/policewithdrawal,unseenshopcause/observedcast-glow-shouting-escape,usefulwaterandnuisance,finiteErisbread/stop/AxisredistributionwithnamedCecily,untaggedpitch,selectivemeritaccount/requestanddirectKrebuke.2narrowlocalsupportsA01/D06,1K08direct-pressureadverse,4partialK02/A02/E01/E07,2adjacentK01/E05,1ambiguousK04 and29NT retainrivals/missingbranches. Nooldfield/score/modelconfidencechanges. Retainedpoisonreadiness/churchreport,Darknessnightwear/glassdrugplan/Kvoluntaryescalation/selectiveaccount,seatingtussleClaire-Rain,cabbagefailure/realmeal,Aquacarriageseat,youngLevi,all-partyjail,dragonD-Aq-IcooperationandKmechanicslimit,Ragcraftrestraint/changedIristhreat/gagbite/Tinder/remaininghandcuffs,400Erisringmeaningandage-appropriateIriscontextareseparate. Creator/profile/volume11Komekkopromotionarenotnewchoices;fullsmallDcaptionremainsunverified/nounwarrantedJapaneseformcoding. No narratoromniscience,purealtruism,unlimitedresources,completednextdaychore,completedseal/cure,adultengagement,pristineblindnessorindependentreview.",
+  "narrow_retained_principal_native_backjoins": {
+    "schema": "KONOSUBA_MAIN10_ACTUAL_BOUNDED_ACCEPTED_PRINCIPAL_NATIVE_BACKJOINS_V2",
+    "created_utc": "2026-10-19T14:54:26.210917+00:00",
+    "source": "MAIN-10",
+    "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+    "windows": [
+      {
+        "component_id": "MAIN-10-U011",
+        "native_member": "text/part0009.html",
+        "member_sha256": "8ffcdc0bce2ac3275c59ab901c8603970ea8c8a73996d0d0edac327af103a598",
+        "actual_untruncated_windows_P": [
+          [
+            1,
+            21
+          ]
+        ],
+        "actual_unique_P_rechecked": 21
+      },
+      {
+        "component_id": "MAIN-10-U012",
+        "native_member": "text/part0010.html",
+        "member_sha256": "f87f7afb3581d5ce16fed794c82b7fa4421ce6df21fde22c4dc4722482e6c74f",
+        "actual_untruncated_windows_P": [
+          [
+            240,
+            285
+          ],
+          [
+            45,
+            85
+          ],
+          [
+            145,
+            167
+          ],
+          [
+            180,
+            212
+          ],
+          [
+            286,
+            305
+          ]
+        ],
+        "actual_unique_P_rechecked": 163
+      },
+      {
+        "component_id": "MAIN-10-U013",
+        "native_member": "text/part0011.html",
+        "member_sha256": "a36909b07482011a912e9150820b0af418ead81a8da0f21a97e8282cef3f73a0",
+        "actual_untruncated_windows_P": [
+          [
+            110,
+            170
+          ],
+          [
+            240,
+            290
+          ],
+          [
+            290,
+            322
+          ],
+          [
+            480,
+            525
+          ]
+        ],
+        "actual_unique_P_rechecked": 190
+      },
+      {
+        "component_id": "MAIN-10-U014",
+        "native_member": "text/part0012.html",
+        "member_sha256": "e4f5bfc08389098f75ec9b8773b1d03e70066bb827f36b5a167b30aedb6c5098",
+        "actual_untruncated_windows_P": [
+          [
+            350,
+            408
+          ],
+          [
+            409,
+            456
+          ],
+          [
+            1,
+            35
+          ],
+          [
+            490,
+            545
+          ]
+        ],
+        "actual_unique_P_rechecked": 198
+      },
+      {
+        "component_id": "MAIN-10-U015",
+        "native_member": "text/part0013.html",
+        "member_sha256": "b73250179b088609ca5fc8a0e16b9f8dd8f2df18eadcaeff469eaf5bf4bd95f0",
+        "actual_untruncated_windows_P": [
+          [
+            285,
+            330
+          ]
+        ],
+        "actual_unique_P_rechecked": 46
+      },
+      {
+        "component_id": "MAIN-10-U016",
+        "native_member": "text/part0014.html",
+        "member_sha256": "ac05d3d4d196b00fe8cf2cee20d9c9e55d580a46bb9a3870aeeb3a53e68e99cd",
+        "actual_untruncated_windows_P": [
+          [
+            316,
+            405
+          ],
+          [
+            95,
+            150
+          ],
+          [
+            590,
+            680
+          ],
+          [
+            550,
+            589
+          ]
+        ],
+        "actual_unique_P_rechecked": 277
+      },
+      {
+        "component_id": "MAIN-10-U017",
+        "native_member": "text/part0015.html",
+        "member_sha256": "2638b219db920c0fc2c7810dcb7f0f51f33aaa1b654d89432511e1a9f4e42ada",
+        "actual_untruncated_windows_P": [
+          [
+            1,
+            60
+          ]
+        ],
+        "actual_unique_P_rechecked": 60
+      }
+    ],
+    "actual_unique_retained_P_rechecked": 955,
+    "new_principal_pass_credit": 0,
+    "new_excluded_reading_credit": 0,
+    "scope": "Only the enumerated actual native windows. Seven retained principal members3026P keep prior acceptance; no new full-principal pass/event or source-test credit.",
+    "findings": [
+      "IMG003 MeguminC1P196 isconcernforIrisandearlierjealousy,notwantingtopunishagirl;AquaElroadcasinoquoteC1P155.DrestraintcaptionparallelstoC1P55,notassertednativeword-for-word;fullsmallrasterDtranscriptionunverifiedandnotJapaneseform-coded.",
+      "IMG004C5P329-340:actualAqrecentlosses/ownpocketmoneyalllost333,borrowrequest335,externallyremoved337;Meguminall-inrequest339/reachingchips340,notAqquoteorrealExplosion.Newbonusisaseparateevent,retainedgamblingnottestedagain.",
+      "IMG005C2P501Irisactualstay/countryeffortrequest;Kmeaninginterpretation524-525notprivatecertainty. No newSIopportunityfromfrontimage.",
+      "IMG011C1P259-271 ispoisoning/readinesscrisis,notproofvoluntaryromanticintimacy;Aqactuallydrunkasleep270,notdemonstratedpoison-immunityfailure.FullrecoveryonlyreportednextdayErischurch279,noshownAqcastingcure.",
+      "IMG013C2P140-148:actualseatingdispute/tussleandgamesagreement,Irisclaimscurrentprincessrole142;Claire/Rain143backfigures. Notnewarm-wrestlevictory orspell.",
+      "IMG014C2P264-299:KactualCookingrole,choppingcabbage;Irisaskshelp270/274;hespecifiesinjurylimit279/assent280;cabbageescapefailure291andliteralIriscorrection294;finishedmeal299andlaterenjoyment305. Herdesireforordinaryparticipationdoesnotmakehiminfallible.",
+      "IMG016C3P8-12AqaheadoncarriagedriverseatlookingatElroadcrowd,notfountainrailscene. IMG017Darkness362/364nightwear/bottle;Ksuspectsglass405,actualDconfessesdrugplan444afterargument/voluntaryescalation413-424andKselectiveaccount429/436. Nobottle-drugproof376,nocompletedsexoruniformtruthfulhelplessness.",
+      "IMG018C3P511-533youngprinceLevi/firstmeetingformalIrisgreeting522,notolderadult/headinjury. Initialinsultsandrudenessdifferfromlaterclaimedgoals;noall-knowledgejoin.",
+      "IMG020C4P300-316actualallpartyprison/disarmed304afterlatenightnoisemagic309;Aqbarsprotest300/301,nounshownreleasehere. Kplan318-327manipulatedthreat,basic failure303;captionimagealonecouldnotestablishcause.",
+      "IMG022C5P97-148 actualDDecoy99-100/Aqbuffs106/111,Iconcentratesandcasts125;dragonkill/bodysplit147actualaftermath.Kdoesnotseemechanics148;notunlimitedIpowerornewtrial.",
+      "IMG023C5P612-660 enemyRagcraftbinds/leavespair;Durgentlyattemptsescape613/628/bitesKgag644-647,KactuallyTindergag648-652singe,communicatesDropeplan654/assent655/actualfire657;releasedropes660buthandcuffsstillremain. Teeth/closefacearepracticalrescue,notautomaticallypleasure/romance;earlierarrivalpurpose667-669doesnotauthorizeenemyrestraint.",
+      "IMG025Ep34-40giftis400Erischildring,notengagement;Igenuinevaluedreception/thanks58. Pr5rejectsbetterreplacement;Mcost-versusmeaningcorrection12. IllustratorIMG026sleep/stuffedtoycaptioniscreatorstaging,notnewringchoice.",
+      "IMG027readfullfuture-volume11rasterpromotionscriptK/Aqcastlechoice,Dreturnrequest,MnamesKomekko,childsayshousewentbon;no newly enactedv10familyharmoreligibleforecasttest.",
+      "AdditionalactualC5P550-589:DarknessrecognizesfakeKfromspeech/attention562;captorhostagethreat567andDprotectivereply572coexistwithspecificgratification/self-requestedvoiceline572.Kobservescaptorbinding574andDplacedbesidehim576-581;Ragcraftnames/revealsdoppelgangeridentity585.SpecificinitialgratificationdoesnotmakeactuallaterIristhreat612orpracticalescapepleasure;preservechangedstate."
+    ],
+    "inspection_aid": {
+      "file": "native-reading-crops/MAIN10_IMG003_LEFT_CAPTION_INSPECTION.png",
+      "kind": "privateenlargedcropofalreadyviewednative",
+      "native_original_preserved": true,
+      "extra_native_image_credit": 0,
+      "limit": "A reading aid, no generatedcontent;fullDcaptiontranscriptionstillunverified."
+    },
+    "preceding_receipt_exact": {
+      "file": "MAIN10_ACCEPTED_PRINCIPAL_NATIVE_IMAGE_BACKJOINS_01.json",
+      "sha256": "0aaf879fba0ff3de1ac96f2b496106d3b67c9e4dabd65879a57a3edce3fe5384"
+    }
+  },
+  "additional_current_claim_revision_verified_before_append": null,
+  "original_uncoded_corrections_are_attributable_current_qualifications": true,
+  "component_role_detail_completion": {
+    "source_id": "MAIN-10",
+    "complete_at_initial_authoring": true,
+    "configuration_sha256": "7eb05ff4b1df875c7034094e261a83917c018e552067520af240c14fbe9b35d4",
+    "configuration_input_sha256": "bd4fa9ca91152e7f1bbefac2f2873685127a9bec77ee16ec8ccc3d479f8e43eb",
+    "no_separate_prose_bonus": false
+  },
+  "current_qualifications": [
+    {
+      "id": "M10EX-Q01",
+      "topic": "Actual new scope",
+      "current_qualification": "17new textual resources127P/28unique native images actually received and uncoded-sealed before formal assignment. Bonus60P,authorafterword20P,other47P; empty/structural slots are not utterance/event counts.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q02",
+      "topic": "Native identity",
+      "current_qualification": "Local Japanese EPUB1630298B/SHA2568b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733; content.opf SHA25661280c671e8060d741830e156059badd3a16c8e468c3e80d9bd95c72ea8ddbe8. Native/member/image/CRC checks do not alone prove semantic reading.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q03",
+      "topic": "Retained scope",
+      "current_qualification": "Seven accepted principal members3026P retain exact authority;955unique bounded nativeP across allseven were actually rechecked with zero new principal/event/test credit. Earlier915Preceipt01 remains exact; receipt02 adds40P.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q04",
+      "topic": "Edition dates and planes",
+      "current_qualification": "Electronic issue and print-basis first issue both2016-11-01,copyright2016. Creator/promotion/profile/retained art/bonus/wrappers remain distinct; no new image-only canonical fiction identified.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q05",
+      "topic": "Timeline precision",
+      "current_qualification": "The bonus gives selected times11am-6pm and evening return/reply, not full24-hour access or an exactly dated later relationship slice. Hide surveillance claim60 does not fill gaps in what is actually narrated.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q06",
+      "topic": "Observer limits",
+      "current_qualification": "Kazuma's visible observations differ from elder mental-health speculation, cat desire/fear, snack-duty theory, officer motive, shop cause, spell type and habitualness inferences. Hide does not reveal other minds or unseen interiors.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q07",
+      "topic": "Megumin meal",
+      "current_qualification": "Preparing the late meal5 is actual ordinary contribution; menu/result, new Cooking skill, chosen build reconsideration, mana state or a future intimacy agreement are unshown.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q08",
+      "topic": "Finite cash and chores",
+      "current_qualification": "Darkness gives some pocket money on tomorrow's dishwashing swap12; Aqua spends it23. Amount is unstated, future chores unperformed; no free cash, completed bargain obligation or new financial expertise invented.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q09",
+      "topic": "Elder and Heal",
+      "current_qualification": "Worship14 precedes Heal16. Spell use occurs; illness, cure and medical outcome are not shown. The elder is unnamed, and the narrator's いよいよ危ない speculation is not a diagnosis.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q10",
+      "topic": "Cat and consequence",
+      "current_qualification": "Aqua's desire/hesitation18 are hedged observer explanations; she loudly says she will leave the cat asleep19 and actually wakes it20. The cat is not identified as Chomusuke merely because his previous rejection is mentioned.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q11",
+      "topic": "Snack appraisal",
+      "current_qualification": "Crepe purchase23 after the bell22 is observed; snack-as-duty25 is speculation. No measured appetite disorder, immutable routine or chance-game loss is established.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q12",
+      "topic": "Vendor stance",
+      "current_qualification": "Reported crepe evaluation26 and received scraps27 occur. Habitual-customer status is uncertain; no exact private vendor motive or universal dislike/admiration inferred.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q13",
+      "topic": "Sand art and permission",
+      "current_qualification": "CreateWater/sculpture31,praise32,specific permission to modify/destroy33 and boy's actual kick34 are distinct. No dragon summon, new skill acquisition or particular-loss/substitute A08 test; permission applies to this artifact.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q14",
+      "topic": "Fountain ownership",
+      "current_qualification": "Coins36,divine-water donation argument37,officer warning/departure37-38 are represented. His motive39 is inferred. Police withdrawal is not verified lawful ownership or an unlimited church exemption.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q15",
+      "topic": "Shop interior",
+      "current_qualification": "Aqua's brief entry/exit41 and Vanir throwing salt42 are observed; what happened inside and why he expelled her are inferred. No invented Wiz damage, payment or healing result.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q16",
+      "topic": "Door magic",
+      "current_qualification": "Aqua actually casts at the door43; white light44,Vanir shouting45 and her feigned nonhearing/flight occur. Exact holy-barrier type, completed seal, duration or later release are unverified; her closing seal claim59 is not independent proof.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q17",
+      "topic": "Useful commerce",
+      "current_qualification": "Fish/shop-water48-49 and merchants' thanks/praise/gift squid50 are actual reported observations; barrel-peeking rebuke48 also occurs. A fitted water-provision phase does not imply universal competence, pure motive or all technical outcomes.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q18",
+      "topic": "Charity resource path",
+      "current_qualification": "Eris priest gives bread51,repeated queueing52,explicit stop53,then Axis distribution55. Preserve the recipient/resource limit and sectarian credit shift; no legal theft finding, infinite supply or pure altruism inferred.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q19",
+      "topic": "Cecily and unnamed actors",
+      "current_qualification": "Cecily is explicitly named sharing distribution55. The advertising56 is not individually tagged; no solo Cecily quotation or total plan is invented. Elder/priest/cop/vendors/children remain unnamed; no automatic Zesta/Eris-avatar/Sena/Komekko alias.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q20",
+      "topic": "Self-account alternatives",
+      "current_qualification": "Aqua's59 list uses real selected acts while omitting awkward context and seeking recognition/money. Sincere pious self-description and deliberate selective persuasion are rivals; narrator criticism alone does not prove she privately believes every claim false.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q21",
+      "topic": "K08 current adversity",
+      "current_qualification": "The separately supplied merit/payment appeal59 and observed counterevidence60 support a familiar status dispute; actual emphatic goddess-denial is direct and supplies no civil/procedural/information-seeking contrast. Record local adverse evidence with ordinary-angry-correction/legitimate-leverage limits, not a new blind F or altered old outcome.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q22",
+      "topic": "A03 response missingness",
+      "current_qualification": "Kazuma explicitly denies Aqua's goddess identity60, but the component ends before her reply or an adequate observable decision interval. No self-legitimation confirmation or failure is recorded from a terminal missing response.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q23",
+      "topic": "Historical author speech",
+      "current_qualification": "Afterword home-game/city-hermit self-presentation, ContinuedExplosions/poll-origin/adaptation news and next-volume anticipation are historical creator statements. No current production/news/biography verification or Kazuma-state attribution.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q24",
+      "topic": "Iris ring and coda",
+      "current_qualification": "Retained Ep34-40 gives a400Eris child's souvenir ring; Pr5 rejects a better substitute. Genuine value/thanksEp58 do not establish formal engagement, adult sexual meaning or all later permission. IMG026sleep/stuffed-toy caption is illustrator staging, not another actual ring choice.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q25",
+      "topic": "Future script",
+      "current_qualification": "IMG027stages volume11castle banter,Komekko named by Megumin,child says home wentbon/vanished. No newly performed volume10house explosion,parent death,abandonment or extra family/royal decision is added.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q26",
+      "topic": "Megumin close portrait",
+      "current_qualification": "IMG011/C1P259-271 belongs to poisoning and provider-readiness crisis. Aqua is drunk/asleep270; this does not demonstrate failure of poison-immunity ontology. Church recovery is next-day report279; no shown Aqua cure or new voluntary romantic intimacy.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q27",
+      "topic": "Darkness bottle portrait",
+      "current_qualification": "IMG017 is Darkness362/364. Bottle is newly unsealed374-376; glass drug is initially Kazuma suspicion405 then her plan admitted444. He voluntarily escalates413-424 before selective helplessness account429/436; genuine gratitude393 is not erased. No completed sex or proven drug in bottle.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q28",
+      "topic": "Seating tussle",
+      "current_qualification": "IMG013/C2P140-148 is Iris/Megumin seating conflict/tussle/game agreement, with Claire/Rain143. Iris uses current princess role142; no new arm-wrestling win, magical duel, submission or independent SI trial.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q29",
+      "topic": "Cooking object and result",
+      "current_qualification": "IMG014/C2P264-299:Kazuma has Cooking, Iris asks to help270/274 and accepts bounded instructions280. Cabbage escapes291,Iris corrects basics294; completed meal299/enjoyment305 remain. Source skill is not infallibility or modern professional expertise.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q30",
+      "topic": "Aqua outdoor portrait",
+      "current_qualification": "IMG016/C3P8-12 is Aqua at the carriage driver's seat excited by Elroad crowd, not fountain leisure or a separate repeated encounter.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q31",
+      "topic": "Prince identity and age",
+      "current_qualification": "IMG018/C3P511-533 is first princeLevi with Iris in their first formal meeting522. Approximate age is narrator comparison to Iris512; no exact number, adult identity, eye injury or already complete knowledge of the later spy plan.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q32",
+      "topic": "All-party jail",
+      "current_qualification": "IMG020/C4P300-316:all are disarmed/in police custody304 after late-night loud magic309; no performed release in that checked interval. K's threat-manufacturing plan318-327 and actual failure303 remain; local laws are source-world facts, not real-world guidance.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q33",
+      "topic": "Dragon outcome",
+      "current_qualification": "IMG022/C5P97-148 includes DarknessDecoy99-100,Aqua actual buffs106/111,Iris concentration/cast125,and dragon body split147. Kazuma does not see technique mechanics148; no sole-credit, unlimited capacity, repeated independent trial or safely prepared M03 test from illustration.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q34",
+      "topic": "Restraint and escape phases",
+      "current_qualification": "C5P550-680:Darkness identifies fakeK562,hostage threat567 and her protective response coexist with specific gratification572. Ragcraft binds574/reveals585; later Iris threat612 changes stakes. IMG023teeth/closeface are gag-release effort644-647;KactualTinder648-652singes, Dnod655/fire657; ropes freed660 but handcuffs remain. No blanket consent, completed sexual act or unexplained reset.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q35",
+      "topic": "Small-caption adequacy",
+      "current_qualification": "IMG003Megumin line joins C1P196 and Aqua C1P155. Darkness's small full-caption transcription remains unverified despite private enlargement; C1P55 identifies the restraint parallel, not asserted word-for-word identity. No Japanese microcoding or extra event is based on unverified glyphs.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q36",
+      "topic": "Both optional scopes",
+      "current_qualification": "All7SI-C01 and7SY-C01 current new-excluded-narrative comparisons are no-opportunity: neither character appears in the new bonus. Profile/retained scenes/creator coda/promotion are excluded. Both original14null sets remain null.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q37",
+      "topic": "Historical controls",
+      "current_qualification": "Frozen current66/historical72/four scores/Dust14blank fields, all old R1/MG/SEC01 scopes/outcomes, six principal/party/transfer plus Iris/Yunyun model pins and original uncoded history remain exact. New adverse/partial/NT observations do not rewrite them.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q38",
+      "topic": "Census and adequacy",
+      "current_qualification": "Actual Cecily participation and source-qualified unnamed leads feed the open audit. Private55working rows are not a final population denominator; no model tier, independent experiment, global frequency or full-program completion follows from this increment.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 299502,
+      "sha256": "f70d500fe13bc491576d74d883e0d87bf321cba63d395bed8cc4358ca2a33d85"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 219464,
+      "sha256": "8d230ff06f73ba880fe0d8e39c902ae9415ade22ccf1f0edb0c83b28a4129ef2"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 789832,
+      "sha256": "67d892ced3e961406d03197e1c2c01a4f8ddc866a59495bd167f0cc861d6aff3"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 599988,
+      "sha256": "5f7c478d04fc3e5b1dc0b69b01296113949e6ebe1043fadb58aa0d5960a10203"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 197190,
+      "sha256": "3a16eae9eabd1a55a947bd8462675acd1472916800cb6eb5ec01713f958a2b0c"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 189928,
+      "sha256": "31e9c532eb1d17b71ad7a005be954f44c84866d9286874a98cf2b8ca47e4e252"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 213469,
+      "sha256": "e6f352398e442fc37a247f1100dc30a844d8980eb7ea3898221a85bac30b2772"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 178108,
+      "sha256": "ccc97324465593ed3dbe6137186f8e96f15a6bda4354fc5767173110293fdcbd"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 268733,
+      "sha256": "8e061247bd859c43ebe7fd47a1735b70947247ac648f5366fa1c1dbf80572394"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 132797,
+      "sha256": "cabda3ccd03a2ef575ff2dec6be2c5e546a6e6c3611dcf280313394aa77a52c9"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_or_old_secondary_forecasts_changed": false,
+    "Iris_SI_C01_original14null_fields_exact": true,
+    "Yunyun_SY_C01_original14null_fields_exact": true,
+    "entering_principal_party_transfer_six_and_Iris_Yunyun_eight_model_pins_exact": true
+  },
+  "supplemental19_and_mixed5_gate_states_unchanged": true,
+  "main_excluded_component_programs": {
+    "this_source_analytically_accepted_containing_publication_pending": "MAIN-10",
+    "next_separate_source": "MAIN-11",
+    "accepted_principal_bodies_retained": true
+  },
+  "global_narrative_component_completion_percentage": null,
+  "next_boundary": "Exact publication/all-tree and changed-stream readback, full source audit, housekeeping, final actual-source audit/status and fresh published-authority reload before MAIN11 excluded admission. Ordinarily reconcile then-current main before another push. Remaining main components, complete secondary census/earned monographs/models/profiles, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue."
+}

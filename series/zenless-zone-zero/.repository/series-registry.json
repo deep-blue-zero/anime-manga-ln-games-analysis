@@ -1,0 +1,16 @@
+{
+  "series_id": "zenless-zone-zero",
+  "stable_slug": "zenless-zone-zero",
+  "canonical_title": "Zenless Zone Zero",
+  "media": [
+    "GAME"
+  ],
+  "repository_path": "series/zenless-zone-zero/",
+  "canonical_entrypoint": "series/zenless-zone-zero/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_UNREVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Independent versioned Zenless Zone Zero game project with source-, state-, language- and continuity-bounded analytical responsibilities; distinct from the HoYoverse source-library umbrella."
+}

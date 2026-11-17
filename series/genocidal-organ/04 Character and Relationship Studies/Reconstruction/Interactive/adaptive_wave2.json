@@ -1,0 +1,60 @@
+{
+  "cases": [
+    {
+      "id": "clavis",
+      "session_id": "01a1525d-aa1c-7bf1-91de-afba7dfd138b",
+      "prompt": "Same earlier C-S exchange through GO-U009 end, with Lucia only and no later knowledge. Lucia answers your new question: 'I do not want to tell you how I feel about teaching. You said I need not answer. But if you are simply waiting to ask again another way, I would rather know that now. What did your offer mean?' Continue without deciding her reaction or claiming access to her private thoughts.",
+      "policy_sha256": "4d3d12da7cbfc7f5371544138ed5cc26114268c1567f8e5249f63739b21a754b",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave2 selected only after reading all8 actual wave1 responses. Continuing open-response exchanges; no desired answer, rule selection or score supplied. Lucius explicitly receives a previously omitted but already admitted source fact as case input; original failure/partial answer preserved."
+    },
+    {
+      "id": "williams",
+      "session_id": "01a1525d-aa21-7e82-aca9-9d500bff28d5",
+      "prompt": "Same W-S U011 Clavis exchange. Clavis replies to your offer of quiet company: 'If sitting here means waiting for me to explain, I would rather have the advice. Is that what you meant?' Continue from your actual offer without assuming an unspoken diagnosis or deciding what Clavis does next.",
+      "policy_sha256": "72e6514f1ea732590888753cfed615043e7f070dce15cf7155eccf729027bbaf",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave2 selected only after reading all8 actual wave1 responses. Continuing open-response exchanges; no desired answer, rule selection or score supplied. Lucius explicitly receives a previously omitted but already admitted source fact as case input; original failure/partial answer preserved."
+    },
+    {
+      "id": "john_paul",
+      "session_id": "01a1525d-aa22-7692-b266-53675a1d1c77",
+      "prompt": "Same J2 rail-custody exchange before destination disclosure in this noncanonical conversation; restraint and thirst persist and no water delivery has occurred. Clavis answers your question: 'You are asking me to account for myself while keeping your own reasons out of reach. If I answer, do I get an answer in return?' Continue without backdating later commitments or supplying his unspoken history.",
+      "policy_sha256": "788244799f77bb332d8f0e7b2cd6a89f6edc4f402f9475c9ee7dfe6dad8417c2",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave2 selected only after reading all8 actual wave1 responses. Continuing open-response exchanges; no desired answer, rule selection or score supplied. Lucius explicitly receives a previously omitted but already admitted source fact as case input; original failure/partial answer preserved."
+    },
+    {
+      "id": "lucia",
+      "session_id": "01a1525f-c2b5-7460-9dd7-3b61f3bcfeea",
+      "prompt": "Same L1 Bishop teaching exchange. Bishop answers your question: 'No, asking me to explain a claim is not agreement. But you can correct my argument without knowing what I intended. How much of my intention are you assuming now?' Continue the lesson without supplying his private mind or his eventual understanding.",
+      "policy_sha256": "38143215e4bdb911acf11c0b25f1e097242b6e99cc9fd6f126a6ba901d57ca6c",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave2 selected only after reading all8 actual wave1 responses. Continuing open-response exchanges; no desired answer, rule selection or score supplied. Lucius explicitly receives a previously omitted but already admitted source fact as case input; original failure/partial answer preserved."
+    },
+    {
+      "id": "alex",
+      "session_id": "01a1525c-ff42-77b0-bda1-4dd01f24c2ae",
+      "prompt": "Same living A1 peer exchange before the GO-U004 target encounter. Leland replies to your offer to discuss what you mean by hell: 'Then give me one question you would ask me before going further. I was using the word hell rather loosely.' Continue without inventing Leland's private convictions, a new remembered conversation or future events.",
+      "policy_sha256": "6efcc302f07a459dc61c076071e209ccf39f73a574693d52f4e06e28344d08b1",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave2 selected only after reading all8 actual wave1 responses. Continuing open-response exchanges; no desired answer, rule selection or score supplied. Lucius explicitly receives a previously omitted but already admitted source fact as case input; original failure/partial answer preserved."
+    },
+    {
+      "id": "leland",
+      "session_id": "01a15260-1fb7-7d50-b7ea-c76602350724",
+      "prompt": "Same restored B3 live exchange at GO-U022-E013, before later deterioration or death, same injuries and restricted view. Clavis takes up your proposed question: 'Then what can you confirm from where you are, and how do you know it?' Give the next reply within the information actually supplied; do not invent feed readings or a complete battle outcome.",
+      "policy_sha256": "c3ca194a2625f83bfce577d3096d61330652b28bacedd01c304a762a6e7ff09e",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave2 selected only after reading all8 actual wave1 responses. Continuing open-response exchanges; no desired answer, rule selection or score supplied. Lucius explicitly receives a previously omitted but already admitted source fact as case input; original failure/partial answer preserved."
+    },
+    {
+      "id": "rockwell",
+      "session_id": "01a15260-26a0-7650-a0dc-0a1608eac47d",
+      "prompt": "Same R2 restricted briefing after Evans's dismissal, Clavis admitted and no new order or clearance. Clavis responds to your suggested reporting reply: 'I can say that I have no further explanation to provide. But I do not want that to sound as if the mission has changed. Give me the briefest way to keep that distinction clear.' Continue without creating a new command, institutional approval chain or the other officer's response.",
+      "policy_sha256": "f2bd2fc83686f4b62f1821ec8fa8d699abf36ca7e2980687210f6537d2c33c66",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave2 selected only after reading all8 actual wave1 responses. Continuing open-response exchanges; no desired answer, rule selection or score supplied. Lucius explicitly receives a previously omitted but already admitted source fact as case input; original failure/partial answer preserved."
+    },
+    {
+      "id": "lucius",
+      "session_id": "01a15261-804a-7eb1-afe7-01014ec11e06",
+      "prompt": "Same U2 exchange through GO-U017-E006–007 before the breach. A previously compressed existing source fact is now explicitly supplied as a case input: Lucius has acknowledged watching Lucia's house to protect archive users; this does not establish wider surveillance reach, the necessity of that choice or anyone's later fate. Lucia replies to your clarification: 'Then you are protecting their freedom by watching me. What part of my objection have you not answered?' Continue without narrating her response, a release or an unseen plan.",
+      "policy_sha256": "ada69e0a8df20f468f6a62864a552210e62f2c16393c0b8d77d60bdc12da9603",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave2 selected only after reading all8 actual wave1 responses. Continuing open-response exchanges; no desired answer, rule selection or score supplied. Lucius explicitly receives a previously omitted but already admitted source fact as case input; original failure/partial answer preserved."
+    }
+  ]
+}

@@ -1,0 +1,874 @@
+{
+  "schema": "BLUE_ARCHIVE_UMIJI_MINATO_INPUT_AND_RECEIVING_RECEIPT_V1",
+  "home": "P3-CHAR-M040",
+  "current_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+  "current_body_tuple": {
+    "bytes": 42004,
+    "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+    "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+  },
+  "body_physical_lines": 183,
+  "this_preparer_actual_current_whole_analytical_draft_receiving": {
+    "complete_numbered_body_tool": "19a2b9",
+    "display_clip_repair_tool": "be527a",
+    "display_clip_repair_range": [
+      69,
+      95
+    ],
+    "coverage_union": [
+      1,
+      183
+    ],
+    "grade": "COMPLETE_CURRENT_WRITTEN_ANALYTICAL_DRAFT_RECEIVING_NOT_NEW_PRIMARY_OR_ALL105_NORMAL_RECEIVING",
+    "body_content_edits_by_this_preparer": 0
+  },
+  "ROOT_own_full_body_acceptance_tools": [
+    "bb3e41",
+    "36cc0a",
+    "00974e"
+  ],
+  "frozen_core19_receiving_attributed_without_new_replay": [
+    {
+      "alias": "MN01",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E001_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_f3ad39804d0a34d3ddcbe1cf",
+        "bytes": 5569,
+        "sha256": "a4fb6f0650abe2e36684ae830810055c2c0d40e34c175527c937ff76c2218fb9",
+        "git_blob_oid_of_actual_bytes": "2cfa3f3fb22427358b1bb2c95958613d73473a92"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_9a931834f02f1d49edd0b2af",
+        "bytes": 5569,
+        "sha256": "a4fb6f0650abe2e36684ae830810055c2c0d40e34c175527c937ff76c2218fb9",
+        "git_blob_oid_of_actual_bytes": "2cfa3f3fb22427358b1bb2c95958613d73473a92"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN01",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E001_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_5c2334ca5b2e42a40bc5ebab",
+        "exact_tuple": {
+          "bytes": 5569,
+          "sha256": "a4fb6f0650abe2e36684ae830810055c2c0d40e34c175527c937ff76c2218fb9",
+          "git_blob_oid_of_actual_bytes": "2cfa3f3fb22427358b1bb2c95958613d73473a92"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "ac318e"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN02",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_3e72f38dfb0b71e05f278856",
+        "bytes": 6723,
+        "sha256": "f2e35aa937604025b840b70900014f7c47199a74f507bb4527accddd662673c3",
+        "git_blob_oid_of_actual_bytes": "8c62783a20370f043b6220a70b9645b2c164c8bc"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_18b73320ef2c198dcb0e3fdf",
+        "bytes": 6723,
+        "sha256": "f2e35aa937604025b840b70900014f7c47199a74f507bb4527accddd662673c3",
+        "git_blob_oid_of_actual_bytes": "8c62783a20370f043b6220a70b9645b2c164c8bc"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_2f3d8520b82f16e8b09a7895",
+        "exact_tuple": {
+          "bytes": 6723,
+          "sha256": "f2e35aa937604025b840b70900014f7c47199a74f507bb4527accddd662673c3",
+          "git_blob_oid_of_actual_bytes": "8c62783a20370f043b6220a70b9645b2c164c8bc"
+        },
+        "physical_lines": 38,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            38,
+            "ac318e"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN03",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_1038be029f0f72d77416064e",
+        "bytes": 7575,
+        "sha256": "409cc63812d2a901de0d7ded891b40bc8dda1df81bfc7aa87a3b3020b01dffb2",
+        "git_blob_oid_of_actual_bytes": "ee5db2ac32a5d864614dc43c23b5620520165efb"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_c6668707c61605f6b3d6ff66",
+        "bytes": 7575,
+        "sha256": "409cc63812d2a901de0d7ded891b40bc8dda1df81bfc7aa87a3b3020b01dffb2",
+        "git_blob_oid_of_actual_bytes": "ee5db2ac32a5d864614dc43c23b5620520165efb"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_50435ca16111331b4e92938e",
+        "exact_tuple": {
+          "bytes": 7575,
+          "sha256": "409cc63812d2a901de0d7ded891b40bc8dda1df81bfc7aa87a3b3020b01dffb2",
+          "git_blob_oid_of_actual_bytes": "ee5db2ac32a5d864614dc43c23b5620520165efb"
+        },
+        "physical_lines": 40,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            40,
+            "ac318e"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN04",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E004_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_613337c266bc18dcdad9016a",
+        "bytes": 5941,
+        "sha256": "206063c0cf27047603b2d9a64b3adbd814ff4c5ed4d40c167342002182ff2dd3",
+        "git_blob_oid_of_actual_bytes": "98013d091c7fb81a18ea6036b500814d51548805"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_c8e10035526dde000bad1a3f",
+        "bytes": 5941,
+        "sha256": "206063c0cf27047603b2d9a64b3adbd814ff4c5ed4d40c167342002182ff2dd3",
+        "git_blob_oid_of_actual_bytes": "98013d091c7fb81a18ea6036b500814d51548805"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E004_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_d26e7c7e85b683fdf56829b3",
+        "exact_tuple": {
+          "bytes": 5941,
+          "sha256": "206063c0cf27047603b2d9a64b3adbd814ff4c5ed4d40c167342002182ff2dd3",
+          "git_blob_oid_of_actual_bytes": "98013d091c7fb81a18ea6036b500814d51548805"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "4efceb"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN05",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E005_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_3468fbd43b62b696d0099fa6",
+        "bytes": 6013,
+        "sha256": "ddf48a954b61ec4af0774692fd518ec31da33fd47747e5bfcd292357bf2ee3c6",
+        "git_blob_oid_of_actual_bytes": "bafbb30ae414142d820337f9941d8b30f1c0fa65"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_5eadb7cd2b69081ecb2b8de4",
+        "bytes": 6013,
+        "sha256": "ddf48a954b61ec4af0774692fd518ec31da33fd47747e5bfcd292357bf2ee3c6",
+        "git_blob_oid_of_actual_bytes": "bafbb30ae414142d820337f9941d8b30f1c0fa65"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN05",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E005_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_deda3d4b6d7bfd1b1e277298",
+        "exact_tuple": {
+          "bytes": 6013,
+          "sha256": "ddf48a954b61ec4af0774692fd518ec31da33fd47747e5bfcd292357bf2ee3c6",
+          "git_blob_oid_of_actual_bytes": "bafbb30ae414142d820337f9941d8b30f1c0fa65"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "4efceb"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN06",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E006_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_54fcad126b7f9ebcc92ab124",
+        "bytes": 4898,
+        "sha256": "d93ae4904902d6142bf970c13d16873f9a98f4e1e71ccc2a69038e2d27ae4098",
+        "git_blob_oid_of_actual_bytes": "dd6f5713c857d1e79761543b41a2398cb91f3848"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_be1fd4894acc7a10a5ca49f7",
+        "bytes": 4898,
+        "sha256": "d93ae4904902d6142bf970c13d16873f9a98f4e1e71ccc2a69038e2d27ae4098",
+        "git_blob_oid_of_actual_bytes": "dd6f5713c857d1e79761543b41a2398cb91f3848"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN06",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E006_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_84d78818684aec4be3f314af",
+        "exact_tuple": {
+          "bytes": 4898,
+          "sha256": "d93ae4904902d6142bf970c13d16873f9a98f4e1e71ccc2a69038e2d27ae4098",
+          "git_blob_oid_of_actual_bytes": "dd6f5713c857d1e79761543b41a2398cb91f3848"
+        },
+        "physical_lines": 32,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            32,
+            "4efceb"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN07",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E007_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_62551ded6b541ee98a0a9617",
+        "bytes": 5445,
+        "sha256": "2537453c9b5bc16ab4b275813c0eaf4a6900996e92fb7e53c9ce005bb470ec2f",
+        "git_blob_oid_of_actual_bytes": "5e4a3767348c335693e33d88c06be38b81614fc5"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_dacdf0aa40adb60a1348e932",
+        "bytes": 5445,
+        "sha256": "2537453c9b5bc16ab4b275813c0eaf4a6900996e92fb7e53c9ce005bb470ec2f",
+        "git_blob_oid_of_actual_bytes": "5e4a3767348c335693e33d88c06be38b81614fc5"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN07",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E007_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_58111f1cede874205346cbb1",
+        "exact_tuple": {
+          "bytes": 5445,
+          "sha256": "2537453c9b5bc16ab4b275813c0eaf4a6900996e92fb7e53c9ce005bb470ec2f",
+          "git_blob_oid_of_actual_bytes": "5e4a3767348c335693e33d88c06be38b81614fc5"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "373956"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN08",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E008_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_587f34353af422d269ed07f6",
+        "bytes": 5427,
+        "sha256": "7757b826c87ce34013d0567621adb8a90ab09c87229b9ed9e2ba8d2ae03fa77e",
+        "git_blob_oid_of_actual_bytes": "12bf7d2d94cb381ca0d5706efa8ca01cc64f5e88"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_29d7d1918795a73ad2453234",
+        "bytes": 5427,
+        "sha256": "7757b826c87ce34013d0567621adb8a90ab09c87229b9ed9e2ba8d2ae03fa77e",
+        "git_blob_oid_of_actual_bytes": "12bf7d2d94cb381ca0d5706efa8ca01cc64f5e88"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN08",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E008_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_85e2857e8106a67b3fdc68e8",
+        "exact_tuple": {
+          "bytes": 5427,
+          "sha256": "7757b826c87ce34013d0567621adb8a90ab09c87229b9ed9e2ba8d2ae03fa77e",
+          "git_blob_oid_of_actual_bytes": "12bf7d2d94cb381ca0d5706efa8ca01cc64f5e88"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "373956"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN09",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E009_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_fa9fddf716581f28066a49db",
+        "bytes": 6296,
+        "sha256": "621761a34ca30ee73472c3d1b8dec45b0b64a3a48eb16a14e108b42b62889bfd",
+        "git_blob_oid_of_actual_bytes": "dd21df9e3375d84a85535512fc77920ae25ce2dd"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_a67174d2b77f1951b6dd906e",
+        "bytes": 6296,
+        "sha256": "621761a34ca30ee73472c3d1b8dec45b0b64a3a48eb16a14e108b42b62889bfd",
+        "git_blob_oid_of_actual_bytes": "dd21df9e3375d84a85535512fc77920ae25ce2dd"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN09",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E009_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_293a231dcfd4e5297f67a9ec",
+        "exact_tuple": {
+          "bytes": 6296,
+          "sha256": "621761a34ca30ee73472c3d1b8dec45b0b64a3a48eb16a14e108b42b62889bfd",
+          "git_blob_oid_of_actual_bytes": "dd21df9e3375d84a85535512fc77920ae25ce2dd"
+        },
+        "physical_lines": 37,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            37,
+            "373956"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN10",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E010_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_fa95050936942e55b095275d",
+        "bytes": 6081,
+        "sha256": "1f145e56e2502648be73ece0ffc7df04c04919ace3122f0f1a1bbea5ac333675",
+        "git_blob_oid_of_actual_bytes": "5355335a4c0517a600509ffa41fa43116790abfe"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_a9bafedea2b09179b8cd5c1c",
+        "bytes": 6081,
+        "sha256": "1f145e56e2502648be73ece0ffc7df04c04919ace3122f0f1a1bbea5ac333675",
+        "git_blob_oid_of_actual_bytes": "5355335a4c0517a600509ffa41fa43116790abfe"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN10",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E010_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_784a6efb4b9c56dceff7a940",
+        "exact_tuple": {
+          "bytes": 6081,
+          "sha256": "1f145e56e2502648be73ece0ffc7df04c04919ace3122f0f1a1bbea5ac333675",
+          "git_blob_oid_of_actual_bytes": "5355335a4c0517a600509ffa41fa43116790abfe"
+        },
+        "physical_lines": 37,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            37,
+            "04036e"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN11",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E011_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_b4a407aa7fb9fb645694898d",
+        "bytes": 5448,
+        "sha256": "90d84759c3e2d89c1c268d35bb9ebace287fad98ca1643f1214a7bfb7e0a1083",
+        "git_blob_oid_of_actual_bytes": "bdcacdb065ae5a4c1d01d03ae04fb8b090df7fa7"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_e72c769b936a3767d4995631",
+        "bytes": 5448,
+        "sha256": "90d84759c3e2d89c1c268d35bb9ebace287fad98ca1643f1214a7bfb7e0a1083",
+        "git_blob_oid_of_actual_bytes": "bdcacdb065ae5a4c1d01d03ae04fb8b090df7fa7"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN11",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E011_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_d9047d7005191e74701db804",
+        "exact_tuple": {
+          "bytes": 5448,
+          "sha256": "90d84759c3e2d89c1c268d35bb9ebace287fad98ca1643f1214a7bfb7e0a1083",
+          "git_blob_oid_of_actual_bytes": "bdcacdb065ae5a4c1d01d03ae04fb8b090df7fa7"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "04036e"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN12",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E012_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_b608a7b6d4ff3e76232c0d56",
+        "bytes": 5095,
+        "sha256": "b9775698ccc1c6aceac919e318dbf62c32816a0aff2ed4d7d400e35c0f1c8d34",
+        "git_blob_oid_of_actual_bytes": "cd117c068e7f52b3377f3f4608e11b2af57ce703"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_99b299023bab7893e5ef549c",
+        "bytes": 5095,
+        "sha256": "b9775698ccc1c6aceac919e318dbf62c32816a0aff2ed4d7d400e35c0f1c8d34",
+        "git_blob_oid_of_actual_bytes": "cd117c068e7f52b3377f3f4608e11b2af57ce703"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN12",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E012_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_a3925047eef4cbdadecdca95",
+        "exact_tuple": {
+          "bytes": 5095,
+          "sha256": "b9775698ccc1c6aceac919e318dbf62c32816a0aff2ed4d7d400e35c0f1c8d34",
+          "git_blob_oid_of_actual_bytes": "cd117c068e7f52b3377f3f4608e11b2af57ce703"
+        },
+        "physical_lines": 34,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            34,
+            "04036e"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN13",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E013_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_799d281a85aada79ca8d4f0a",
+        "bytes": 5320,
+        "sha256": "61d3c148bde4013254aeb1c7b7e9343e2956e8df2a7d6ede7cc23bd0d56646fc",
+        "git_blob_oid_of_actual_bytes": "ce9a3e94b55acdfd3827f7d5f77487f54029376a"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_a727fa03e4e18db1c99e0440",
+        "bytes": 5320,
+        "sha256": "61d3c148bde4013254aeb1c7b7e9343e2956e8df2a7d6ede7cc23bd0d56646fc",
+        "git_blob_oid_of_actual_bytes": "ce9a3e94b55acdfd3827f7d5f77487f54029376a"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN13",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E013_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_0870fca6f28f156501accf0f",
+        "exact_tuple": {
+          "bytes": 5320,
+          "sha256": "61d3c148bde4013254aeb1c7b7e9343e2956e8df2a7d6ede7cc23bd0d56646fc",
+          "git_blob_oid_of_actual_bytes": "ce9a3e94b55acdfd3827f7d5f77487f54029376a"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "f155b2"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN14",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E014_DEEP_READING.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_8ab3b98b4a454b42dac9be85",
+        "bytes": 5764,
+        "sha256": "9c9a0b7c6c7e0f910278c32a54ebbc01743244e2a93f9ff40820a04fec1b39c6",
+        "git_blob_oid_of_actual_bytes": "cf5e0e26d2c47723315c06351ac81df3b6577c1c"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_7fa6e8cd4d8b9f0ae5ae7497",
+        "bytes": 5764,
+        "sha256": "9c9a0b7c6c7e0f910278c32a54ebbc01743244e2a93f9ff40820a04fec1b39c6",
+        "git_blob_oid_of_actual_bytes": "cf5e0e26d2c47723315c06351ac81df3b6577c1c"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN14",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E014_DEEP_READING.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_178ee7102d8dfc7f15b914b3",
+        "exact_tuple": {
+          "bytes": 5764,
+          "sha256": "9c9a0b7c6c7e0f910278c32a54ebbc01743244e2a93f9ff40820a04fec1b39c6",
+          "git_blob_oid_of_actual_bytes": "cf5e0e26d2c47723315c06351ac81df3b6577c1c"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "f155b2"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN15",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_536c07025417f8305c5822a4",
+        "bytes": 11521,
+        "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+        "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_9cfdf5a3af3d040ccde3a602",
+        "bytes": 11521,
+        "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+        "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN15",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_3abd8dba38b04f3ee12eb790",
+        "exact_tuple": {
+          "bytes": 11521,
+          "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+          "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d"
+        },
+        "physical_lines": 58,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            58,
+            "f155b2"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN16",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_5390f470a6bf9de22ae7bce1",
+        "bytes": 19594,
+        "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+        "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_b839849be425f503bcb0e30b",
+        "bytes": 19594,
+        "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+        "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN16",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_49a1bb8f9e0232762327fa17",
+        "exact_tuple": {
+          "bytes": 19594,
+          "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+          "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1"
+        },
+        "physical_lines": 677,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            677,
+            "a23fa4"
+          ],
+          [
+            79,
+            85,
+            "6891b1"
+          ]
+        ],
+        "grade": "ADEQUATE_SAME_ROOT_PRIOR_COMPLETE_ANALYTICAL_NORMAL_MEANING_REUSED",
+        "scope_and_actor_limits": "Earlier complete MC03 account output had a display clip repaired79-85; complete union. Same ROOT actual receiving reused, not new Minato replay or another writer transfer.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN17",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_0db9ac412815991f7c601228",
+        "bytes": 50993,
+        "sha256": "6f64262858301f3100f5edbf8b65c6463e117ad15ac607e6e537d1aa467bc553",
+        "git_blob_oid_of_actual_bytes": "cdd0f12e2ac27de5538ee7dc1293368df71878a4"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_3dff918b8b1843733f57d2fd",
+        "bytes": 50993,
+        "sha256": "6f64262858301f3100f5edbf8b65c6463e117ad15ac607e6e537d1aa467bc553",
+        "git_blob_oid_of_actual_bytes": "cdd0f12e2ac27de5538ee7dc1293368df71878a4"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN17",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_85485035b60a28d6f72cac8b",
+        "exact_tuple": {
+          "bytes": 50993,
+          "sha256": "6f64262858301f3100f5edbf8b65c6463e117ad15ac607e6e537d1aa467bc553",
+          "git_blob_oid_of_actual_bytes": "cdd0f12e2ac27de5538ee7dc1293368df71878a4"
+        },
+        "physical_lines": 285,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            145,
+            "8843e0"
+          ],
+          [
+            146,
+            285,
+            "cb53eb"
+          ],
+          [
+            171,
+            198,
+            "2d6eef"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete285-line normal; last range is a concrete comparator-attribution check. Event supplies diving navigation/debt/coercive extraction/rescue/work. Sammy grief belongs to separately named MAIN comparator; no merged provenance/calendar.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN18",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOTONE/BLUE_ARCHIVE_KOTONE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_271042bef5b0ac835be359b4",
+        "bytes": 24480,
+        "sha256": "f4644f7ca1a203f0f34f4664e7c270d93558b7425727560f47a8eeb1617cc944",
+        "git_blob_oid_of_actual_bytes": "a5b576913194450904ee29406c438c81249b3618"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_0d9b0fb7282d9c27a56bb9c3",
+        "bytes": 24480,
+        "sha256": "f4644f7ca1a203f0f34f4664e7c270d93558b7425727560f47a8eeb1617cc944",
+        "git_blob_oid_of_actual_bytes": "a5b576913194450904ee29406c438c81249b3618"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN18",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOTONE/BLUE_ARCHIVE_KOTONE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_5fc1a62757d3140fbe2f2f2d",
+        "exact_tuple": {
+          "bytes": 24480,
+          "sha256": "f4644f7ca1a203f0f34f4664e7c270d93558b7425727560f47a8eeb1617cc944",
+          "git_blob_oid_of_actual_bytes": "a5b576913194450904ee29406c438c81249b3618"
+        },
+        "physical_lines": 582,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            582,
+            "edde24"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Independent Kotone typed private account; complete582 lines. No inferred Minato private family or character completion from comparison.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    },
+    {
+      "alias": "MN19",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOKORO/BLUE_ARCHIVE_KOKORO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "exact_owned_copy": {
+        "path": "HELD_PREPARATION_WITNESS_30196f4cc1c01050f67844a9",
+        "bytes": 42654,
+        "sha256": "dba39b01fa27e17f64d7cb0d2fbdd85b2f98cefd1c12feeb6056b0d0a12c77a4",
+        "git_blob_oid_of_actual_bytes": "650ad2faef3c42ae17ee4e264e315b2716096b6e"
+      },
+      "exact_origin": {
+        "path": "HELD_PREPARATION_WITNESS_f276d4dca75b9c941e35be4b",
+        "bytes": 42654,
+        "sha256": "dba39b01fa27e17f64d7cb0d2fbdd85b2f98cefd1c12feeb6056b0d0a12c77a4",
+        "git_blob_oid_of_actual_bytes": "650ad2faef3c42ae17ee4e264e315b2716096b6e"
+      },
+      "actual_ROOT_meaning_scope": {
+        "alias": "MN19",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOKORO/BLUE_ARCHIVE_KOKORO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "C_copy": "HELD_PREPARATION_WITNESS_a9429fdba837ca42145aee5e",
+        "exact_tuple": {
+          "bytes": 42654,
+          "sha256": "dba39b01fa27e17f64d7cb0d2fbdd85b2f98cefd1c12feeb6056b0d0a12c77a4",
+          "git_blob_oid_of_actual_bytes": "650ad2faef3c42ae17ee4e264e315b2716096b6e"
+        },
+        "physical_lines": 253,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            253,
+            "bd5a78"
+          ],
+          [
+            117,
+            159,
+            "a0983c"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING_AFTER_EXACT_DISPLAY_REPAIR",
+        "scope_and_actor_limits": "First whole display clipped119-153; complete117-159 repair supplies union. Independent Kokoro typed account; no private-family/cure/consent transfer to Minato or Sammy.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "new_copy_hash_primary_native_raw_AV_admission_identity_model_count_credit": 0
+    }
+  ],
+  "current_all105_public_purpose_dependency_bindings": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_CURRENT_ROOT_PURPOSE_INDEX_V1.json",
+      "bytes": 60419,
+      "sha256": "8d05c15f1d54a7ca816350af57fc6d54f7618fdaff94221344f8e01a9a2698bf",
+      "git_blob_oid_of_actual_bytes": "cb1d5ea000b7a8fb018380df3852d6b4d60307c2"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+      "bytes": 175040,
+      "sha256": "8e7e43b6b7643af9622bbaf69e91a0ded858fd4452ae3ff6773cd3054dbecdae",
+      "git_blob_oid_of_actual_bytes": "4316db408d1c8b1bfae685d5cff359817f59c2ae"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+      "bytes": 311785,
+      "sha256": "88022612a68c33c452639eaf4a7a9ba5bbfbc5e84bda6deea09c3537140a1002",
+      "git_blob_oid_of_actual_bytes": "74047a97019d8bb1ea6bdfd1c847ba68eaba2034"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+      "bytes": 462753,
+      "sha256": "528ba4307d3621c7565852727099a37cb8b66e325dc336c105695fe24a5cb553",
+      "git_blob_oid_of_actual_bytes": "4971d41202426c72d2c61abb8b1c367a856cd7cb"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_SOURCE_AND_FROZEN_RECEIPT_CUSTODY_V1.json",
+      "bytes": 238267,
+      "sha256": "59ebb8eadfec0661b779505e0465ede76e2f392d160f878e398d6ace81265dc8",
+      "git_blob_oid_of_actual_bytes": "9ca86c0649902c836901bc695362575c444faee3"
+    }
+  ],
+  "exact_frozen_V3_register_tuple": {
+    "bytes": 179420,
+    "sha256": "d9f6b0dc14a650e9daabc6da42e9d910cde8ebd9a56b1f34cc55363ed62a615b",
+    "git_blob_oid_of_actual_bytes": "4d9d26ab45ad59b593c6cd18811aa408d24b7d73"
+  },
+  "exact_frozen_V3_body_tuple": {
+    "bytes": 38821,
+    "sha256": "8caf0917c82b9c9cac690a37e213ccae58334725c1753e1921994614ebc6eafb",
+    "git_blob_oid_of_actual_bytes": "8d13cebd83d2d966330d32c9a2a3785d909fb577"
+  },
+  "authoritative_corrected_V2_operation_proof_tuple": {
+    "bytes": 47054,
+    "sha256": "e8a7e74c39d72fe96aec09bd498990785d72284c20eff4b93c251bc4877dd55c",
+    "git_blob_oid_of_actual_bytes": "27bbce62d32349143657fde6bf2b60484bba6d23"
+  },
+  "original_register_and_receipts_unchanged": true,
+  "fixed_receiving_basis_snapshot": {
+    "literal_body_line3_source_reference": "130b9c1c230c928601041b9b8ef4f013d44b24e7",
+    "literal_body_line3_integrated_main_reference": "0ed395926cca502fe1461d8c172330baab99e70e",
+    "role": "FIXED_ACTUAL_RECEIVING_BASIS_SNAPSHOT_NOT_THE_FUTURE_MINATO_PUBLICATION_HEAD",
+    "ROOT_fresh_fetch_witness": "82bad8",
+    "body_bytes_must_not_change_to_predict_future_publication_SHA": true,
+    "current_published_source_packages": 134,
+    "current_named_duties": 14,
+    "main_integrated_packages": 133,
+    "conditional_Minato_package135": "NOT_CREDITED_INSTALLATION_PUBLICATION_AND_FINAL_TRANSPORT_RECEIPTS_REQUIRED",
+    "extra_named_credit": 0
+  },
+  "source_and_credit_limits": {
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "core19": {
+      "whole_admitted_analytical_normals": 18,
+      "adequate_same_ROOT_prior_normal": 1,
+      "source_scope_credit_boundary": "18 fresh complete admitted NORMAL arguments and1 adequate sameROOT prior NORMAL argument with exact documented display repair. No other-writer source receiving, availability or copying is converted to personal primary reading."
+    },
+    "supplemental105": {
+      "ROOT_individually_adopted": 105,
+      "author_complete_normal_scopes": 26,
+      "author_selected_connected_account_scopes": 79,
+      "ROOT_report_receiving_does_not_upgrade_underlying_extents": true
+    },
+    "new_primary_native_raw_AV_private_identity_model_credit": 0,
+    "separate_parents": "Sammy directed care, Odysseia institution, claimant and GSC parents remain separately responsible.",
+    "ordinary_intrinsic_value_and_each_recipient_mode_preserved": true
+  },
+  "current_register_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_CURRENT_COMPLETE_CLAIM_REGISTER_V4.json",
+  "current_recovery_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_CURRENT_CLAIM_BINDINGS_AND_RECOVERY_20261013_V1.json",
+  "canonical_or_future_source_acceptance": "PENDING_EXACT_INSTALLATION_AND_PUBLICATION_RECEIPTS"
+}

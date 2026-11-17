@@ -1,0 +1,504 @@
+{
+  "artifact_type": "corpus_manifest_and_index",
+  "version": "1.0",
+  "source_boundary": "Y3V01",
+  "year_completion": "incomplete",
+  "canonical_entrypoint": "../COTE_Y3_CURRENT_STATE_AND_CORPUS_MAP.md",
+  "path_base": "parent Year 3 directory",
+  "excluded_from_self_listing": [
+    "COTE_Y3_V01_ARTIFACT_CHECKSUMS.sha256",
+    "COTE_Y3_V01_CORPUS_INDEX.json"
+  ],
+  "artifacts": [
+    {
+      "filename": "COTE_Y3_ANALYTICAL_METHOD_ADOPTION.md",
+      "relative_path": "00 Corpus Administration/COTE_Y3_ANALYTICAL_METHOD_ADOPTION.md",
+      "artifact_type": "analytical_method",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 331,
+      "byte_count": 3246,
+      "sha256": "1b50ab766f3a8317d769d1b4d31cceb2bb62ea40d2c3ca64e68605b9b0a5519c",
+      "supersession_relation": [],
+      "primary_home_subject": "Year 3 governing method — Adoption of the frozen V2 protocol",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_BOOTSTRAP_GATE_RECORD.md",
+      "relative_path": "00 Corpus Administration/COTE_Y3_BOOTSTRAP_GATE_RECORD.md",
+      "artifact_type": "year3_bootstrap_gate_record",
+      "source_boundary": "Y2SL",
+      "status": "canonical",
+      "word_count": 462,
+      "byte_count": 4031,
+      "sha256": "89edd629227886b9df467fe0deba69c30987940ce285d536086e71fe4247d902",
+      "supersession_relation": [],
+      "primary_home_subject": "COTE_Y3_BOOTSTRAP_GATE_RECORD",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_BOOTSTRAP_SOURCE_MANIFEST.json",
+      "relative_path": "00 Corpus Administration/COTE_Y3_BOOTSTRAP_SOURCE_MANIFEST.json",
+      "artifact_type": "year3_bootstrap_source_manifest",
+      "source_boundary": "Y2SL",
+      "status": "historical_bootstrap",
+      "word_count": 2137,
+      "byte_count": 34265,
+      "sha256": "2e53b70eda4a105866a8830edded2c9a5a1e71c4798960069019fdf3e4d1def2",
+      "supersession_relation": [],
+      "primary_home_subject": "COTE_Y3_BOOTSTRAP_SOURCE_MANIFEST",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_SYNTHESIS_ARCHITECTURE_ADOPTION.md",
+      "relative_path": "00 Corpus Administration/COTE_Y3_SYNTHESIS_ARCHITECTURE_ADOPTION.md",
+      "artifact_type": "synthesis_architecture",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 310,
+      "byte_count": 3351,
+      "sha256": "57d6809d061b6e52160bb00694a0a0f87d61418064705477a1cf2cb62b54f5ed",
+      "supersession_relation": [],
+      "primary_home_subject": "Year 3 corpus architecture — Adoption of the frozen v1.1 architecture",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_V01_DELIVERY_AUDIT.json",
+      "relative_path": "00 Corpus Administration/COTE_Y3_V01_DELIVERY_AUDIT.json",
+      "artifact_type": "source_or_integrity_support",
+      "source_boundary": "Y3V01",
+      "status": "PASS",
+      "word_count": 107,
+      "byte_count": 1278,
+      "sha256": "489bf47e6a15e2ab39f0776208a78c845d2f340097e9f8bc212759f00436a68e",
+      "supersession_relation": [],
+      "primary_home_subject": "COTE_Y3_V01_DELIVERY_AUDIT",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_V01_DELIVERY_AUDIT.md",
+      "relative_path": "00 Corpus Administration/COTE_Y3_V01_DELIVERY_AUDIT.md",
+      "artifact_type": "delivery_audit",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 914,
+      "byte_count": 8925,
+      "sha256": "8f55dcf1559c49392ce59c38dabb41236c346c93722aba8945ea3b6585bf0b76",
+      "supersession_relation": [],
+      "primary_home_subject": "Year 3 Volume 1 — Delivery audit and transaction boundary",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_V01_SOURCE_CHECKSUMS.sha256",
+      "relative_path": "00 Corpus Administration/COTE_Y3_V01_SOURCE_CHECKSUMS.sha256",
+      "artifact_type": "source_or_integrity_support",
+      "source_boundary": "Y3V01",
+      "status": "verified_support",
+      "word_count": 48,
+      "byte_count": 504,
+      "sha256": "73d4b7ea90d5f1fd99534e24c3360dce1df10fad72d51e7e0ebb506aac4b9cf6",
+      "supersession_relation": [],
+      "primary_home_subject": "COTE_Y3_V01_SOURCE_CHECKSUMS",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_V01_DEEP_READING.md",
+      "relative_path": "01 Canonical Volume Deep Readings/COTE_Y3_V01_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 6295,
+      "byte_count": 46629,
+      "sha256": "7dd77ea5a7bc82e0df3e4e703b8bdd913297691d81e143f14b29bfa347ff80a1",
+      "supersession_relation": [],
+      "primary_home_subject": "Year 3 Volume 1 — Public sovereignty and the work of separation",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_ABILITY_MEASUREMENT_LEDGER_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_ABILITY_MEASUREMENT_LEDGER_THROUGH_Y3V01.md",
+      "artifact_type": "ability_measurement_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 676,
+      "byte_count": 7427,
+      "sha256": "2bb936e50116851424f4e6fdaec7342603ea349f13795c30c0708051ed59c46a",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_ABILITY_MEASUREMENT_LEDGER_THROUGH_Y2.md"
+      ],
+      "primary_home_subject": "Ability, measurement and public reputation — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_ACTOR_IDENTITY_ALLEGIANCE_LEDGER_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_ACTOR_IDENTITY_ALLEGIANCE_LEDGER_THROUGH_Y3V01.md",
+      "artifact_type": "actor_identity_allegiance_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 867,
+      "byte_count": 8382,
+      "sha256": "058f89c64024ff6550ae7d78548fe94e47dc379f6a238c4becc30b86ed9d8ff2",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_ACTOR_IDENTITY_ALLEGIANCE_LEDGER.md"
+      ],
+      "primary_home_subject": "Actor identity and allegiance — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_ADULTS_INSTITUTIONS_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_CHAR_LEDGER_ADULTS_INSTITUTIONS_THROUGH_Y3V01.md",
+      "artifact_type": "character_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 700,
+      "byte_count": 7385,
+      "sha256": "5ba8275b45f899a102a733f2f8bb79fdcb27c1ab34a8a22fccffd7d4552e96c9",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_INSTITUTIONAL_ACTORS_THROUGH_Y2.md"
+      ],
+      "primary_home_subject": "Institutional actors — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y3V01.md",
+      "artifact_type": "character_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 696,
+      "byte_count": 7484,
+      "sha256": "f77e8ad9f55e2b826601721f4f8b16899363ed1d68d97a5f252e4cdcb66e7399",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y2.md"
+      ],
+      "primary_home_subject": "Ayanokōji Kiyotaka / 綾小路清隆 — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_CLASS_CORE_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_CHAR_LEDGER_CLASS_CORE_THROUGH_Y3V01.md",
+      "artifact_type": "character_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 1270,
+      "byte_count": 11195,
+      "sha256": "67a04124e6a3d1841034f07d419443e1486471abc5e980ab64c581c70d50603b",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_CLASS_RELATIONAL_CORE_THROUGH_Y2.md"
+      ],
+      "primary_home_subject": "Class and relational core — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y3V01.md",
+      "artifact_type": "character_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 635,
+      "byte_count": 6835,
+      "sha256": "23c65eb2e81fbd6b4c3f63f7ec0fca9d1df1b4042741fd6dfd971614d03dc469",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y2.md"
+      ],
+      "primary_home_subject": "Horikita Suzune / 堀北鈴音 — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y3V01.md",
+      "artifact_type": "character_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 712,
+      "byte_count": 7443,
+      "sha256": "d1073f77607fbbe170652bedbdc34249d2c35a97cdb981edfd91490b3feda40c",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md"
+      ],
+      "primary_home_subject": "Rivals and leaders — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_CLASS_POLITY_LEDGER_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_CLASS_POLITY_LEDGER_THROUGH_Y3V01.md",
+      "artifact_type": "class_polity_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 778,
+      "byte_count": 8107,
+      "sha256": "46cc429ea7d88445ae754034cc28dcdae37e6fa6d922f3f389df93f6bdf0ca48",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CLASS_POLITY_LEDGER_THROUGH_Y2.md"
+      ],
+      "primary_home_subject": "Class polities — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_ETHICS_LEDGER_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_ETHICS_LEDGER_THROUGH_Y3V01.md",
+      "artifact_type": "ethics_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 880,
+      "byte_count": 8648,
+      "sha256": "dc13bc7940ff95b39d7a08afefacfbae8fa4edcf05c38d742339427eaa2cdff5",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_ETHICS_LEDGER_THROUGH_Y2.md"
+      ],
+      "primary_home_subject": "Ethics, consent and accountable protection — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y3V01.md",
+      "artifact_type": "institution_exam_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 1232,
+      "byte_count": 10570,
+      "sha256": "bcdf729a8ed58aa1a4d3fc316c241c2fcf0db91a2d7338b46aba9a502c1b84a7",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_INSTITUTIONAL_RULES_LEDGER_THROUGH_Y2.md",
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_EXAM_LEDGER_THROUGH_Y2.md"
+      ],
+      "primary_home_subject": "Institutions and examinations — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_JAPANESE_VOICE_LEDGER_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_JAPANESE_VOICE_LEDGER_THROUGH_Y3V01.md",
+      "artifact_type": "japanese_voice_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 720,
+      "byte_count": 7689,
+      "sha256": "8e0545ba99917ba39e406e5d8860678ff1d431e42b9e4c191f470e1ab5cf0e64",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_JAPANESE_VOICE_LEDGER_THROUGH_Y2.md"
+      ],
+      "primary_home_subject": "Japanese written voice and narration — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER_THROUGH_Y3V01.md",
+      "artifact_type": "claim_revision_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 1090,
+      "byte_count": 11720,
+      "sha256": "55f1731d9ef12b0d11460c51d2443fc3856e84e474d63ddcf2408a95c7419584",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER.md"
+      ],
+      "primary_home_subject": "Longitudinal claims and revisions — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_ORDINARY_LIFE_COUNTERCURRICULUM_LEDGER_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_ORDINARY_LIFE_COUNTERCURRICULUM_LEDGER_THROUGH_Y3V01.md",
+      "artifact_type": "ordinary_life_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 671,
+      "byte_count": 7266,
+      "sha256": "fd058dabc8dda4d7b46550719a0c95800be2d8b676e3aa1fc87dec7f458853c1",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_ORDINARY_LIFE_COUNTERCURRICULUM_LEDGER_THROUGH_Y2.md"
+      ],
+      "primary_home_subject": "Ordinary life and counter-curriculum — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_RELATIONSHIP_LEDGER_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_RELATIONSHIP_LEDGER_THROUGH_Y3V01.md",
+      "artifact_type": "relationship_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 956,
+      "byte_count": 9380,
+      "sha256": "7b5526fe5dd385c6b8a57d1a45ccdfb49671125a54e48fd5da8a39757cc3eb5b",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_RELATIONSHIP_LEDGER_THROUGH_Y2.md"
+      ],
+      "primary_home_subject": "Relationships and irreplaceability — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_SUCCESSION_SEPARATION_LEDGER_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_SUCCESSION_SEPARATION_LEDGER_THROUGH_Y3V01.md",
+      "artifact_type": "succession_separation_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 896,
+      "byte_count": 8570,
+      "sha256": "ba3e5d5a97070d909cec9f491ee6d75b48ba4712571c871ad6097e8e869f5199",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_SUCCESSION_SEPARATION_LEDGER.md"
+      ],
+      "primary_home_subject": "Succession and separation — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_THEME_TERMINOLOGY_LEDGER_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_THEME_TERMINOLOGY_LEDGER_THROUGH_Y3V01.md",
+      "artifact_type": "theme_terminology_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 721,
+      "byte_count": 7770,
+      "sha256": "198b0abf9114173ec170238767f4f58f673ca90f26f287ce6a68e2e6c531c1cd",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_THEME_TERMINOLOGY_LEDGER_THROUGH_Y2.md"
+      ],
+      "primary_home_subject": "Themes and terminology — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_ENTERING_STATE_AND_HANDOFF_REGISTER.md",
+      "relative_path": "03 Rolling Ledgers/COTE_Y3_ENTERING_STATE_AND_HANDOFF_REGISTER.md",
+      "artifact_type": "year3_entering_state_and_handoff_register",
+      "source_boundary": "Y2SL",
+      "status": "canonical",
+      "word_count": 2132,
+      "byte_count": 18866,
+      "sha256": "f9bdf34e4e97aded5c4242838ec4afaf55686a6964a99ae5ac1b5cbd6683c823",
+      "supersession_relation": [],
+      "primary_home_subject": "COTE_Y3_ENTERING_STATE_AND_HANDOFF_REGISTER",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_HANDOFF_QUESTION_TRACKER_THROUGH_Y3V01.md",
+      "relative_path": "03 Rolling Ledgers/COTE_Y3_HANDOFF_QUESTION_TRACKER_THROUGH_Y3V01.md",
+      "artifact_type": "handoff_question_tracker",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 2392,
+      "byte_count": 19320,
+      "sha256": "7e8a416deb5a08b4308ff5e3a4658168605bff4859202ec4157091944c3fcd01",
+      "supersession_relation": [
+        "../../03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_Y2_Y1_HANDOFF_QUESTION_TRACKER.md"
+      ],
+      "primary_home_subject": "Inherited questions and handoff tests — Through Year 3 Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_V01_EVIDENCE.json",
+      "relative_path": "04 Source Maps and Support/COTE_Y3_V01_EVIDENCE.json",
+      "artifact_type": "source_or_integrity_support",
+      "source_boundary": "Y3V01",
+      "status": "verified_support",
+      "word_count": 3458,
+      "byte_count": 34638,
+      "sha256": "29e3a12fe04280dee7e6136753f727fbb0aa1c22af872e01bc4c79ce1051346b",
+      "supersession_relation": [],
+      "primary_home_subject": "COTE_Y3_V01_EVIDENCE",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_V01_EVIDENCE_AND_LOCATOR_LEDGER.md",
+      "relative_path": "04 Source Maps and Support/COTE_Y3_V01_EVIDENCE_AND_LOCATOR_LEDGER.md",
+      "artifact_type": "source_evidence_ledger",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 3115,
+      "byte_count": 25794,
+      "sha256": "3368c2b15de35400f85e5388c13f1cb490c243a8d1ee171df968972d5bcfc4ba",
+      "supersession_relation": [],
+      "primary_home_subject": "Year 3 Volume 1 — Evidence and locator ledger",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_V01_ILLUSTRATION_AUDIT.md",
+      "relative_path": "04 Source Maps and Support/COTE_Y3_V01_ILLUSTRATION_AUDIT.md",
+      "artifact_type": "illustration_audit",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 1003,
+      "byte_count": 8417,
+      "sha256": "fcfbe9842c3467e2688394d16f0b4dd4ab18e58b67925389e2b014f4ae68855a",
+      "supersession_relation": [],
+      "primary_home_subject": "Year 3 Volume 1 — Illustration and visual-paratext audit",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_V01_JAPANESE_PASSAGE_INDEX.md",
+      "relative_path": "04 Source Maps and Support/COTE_Y3_V01_JAPANESE_PASSAGE_INDEX.md",
+      "artifact_type": "japanese_passage_index",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 1423,
+      "byte_count": 12445,
+      "sha256": "f3d13d3805de41ab56015119d663300e499861eea5b0c149575894e59bb37592",
+      "supersession_relation": [],
+      "primary_home_subject": "Year 3 Volume 1 — Japanese passage index",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_V01_QUESTION_STATES.json",
+      "relative_path": "04 Source Maps and Support/COTE_Y3_V01_QUESTION_STATES.json",
+      "artifact_type": "source_or_integrity_support",
+      "source_boundary": "Y3V01",
+      "status": "verified_support",
+      "word_count": 2055,
+      "byte_count": 21335,
+      "sha256": "f3b716ed333dc74d7db838036335218d94e61e29bd0a7642608b46efac65ac25",
+      "supersession_relation": [],
+      "primary_home_subject": "COTE_Y3_V01_QUESTION_STATES",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_V01_SOURCE_AND_RECONCILIATION_AUDIT.md",
+      "relative_path": "04 Source Maps and Support/COTE_Y3_V01_SOURCE_AND_RECONCILIATION_AUDIT.md",
+      "artifact_type": "source_reconciliation_audit",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 1287,
+      "byte_count": 11037,
+      "sha256": "e0184ce6ad988ae9c50cf038ca51cd89cf93aad1df88505b83bf207d83cc9bfd",
+      "supersession_relation": [],
+      "primary_home_subject": "Year 3 Volume 1 — Source and reconciliation audit",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_V01_SOURCE_MAP.json",
+      "relative_path": "04 Source Maps and Support/COTE_Y3_V01_SOURCE_MAP.json",
+      "artifact_type": "source_or_integrity_support",
+      "source_boundary": "Y3V01",
+      "status": "verified_support",
+      "word_count": 1894,
+      "byte_count": 29927,
+      "sha256": "d6ba75f687a28428d23a07848a904eefc67674318f12df92a830160a1b259ea1",
+      "supersession_relation": [],
+      "primary_home_subject": "COTE_Y3_V01_SOURCE_MAP",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_PROVISIONAL_SYNTHESIS_THROUGH_V01.md",
+      "relative_path": "05 Year-Level Synthesis/COTE_Y3_PROVISIONAL_SYNTHESIS_THROUGH_V01.md",
+      "artifact_type": "provisional_year_synthesis",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 975,
+      "byte_count": 9336,
+      "sha256": "99c151d8bcd82a85c6d27455ecfebef7fd14205b1ec095ff9277b308c9111efc",
+      "supersession_relation": [],
+      "primary_home_subject": "Year 3 provisional synthesis — Through Volume 1",
+      "historical_predecessor_remains_authoritative": true
+    },
+    {
+      "filename": "COTE_Y3_CURRENT_STATE_AND_CORPUS_MAP.md",
+      "relative_path": "COTE_Y3_CURRENT_STATE_AND_CORPUS_MAP.md",
+      "artifact_type": "current_state_and_corpus_map",
+      "source_boundary": "Y3V01",
+      "status": "canonical",
+      "word_count": 545,
+      "byte_count": 7371,
+      "sha256": "f5bb8911ab6ea92dc0b3acd0afd5e102d777864c098e126907b7f45dc3ec25aa",
+      "supersession_relation": [],
+      "primary_home_subject": "COTE_Y3_CURRENT_STATE_AND_CORPUS_MAP",
+      "historical_predecessor_remains_authoritative": true
+    }
+  ]
+}

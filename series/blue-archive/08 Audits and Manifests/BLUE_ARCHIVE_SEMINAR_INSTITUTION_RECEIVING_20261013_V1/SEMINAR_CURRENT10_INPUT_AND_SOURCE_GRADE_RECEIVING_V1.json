@@ -1,0 +1,936 @@
+{
+  "schema": "SEMINAR_COMPLETE10_ACTUAL_WRITTEN_CORE_RECEIVING_AND12_TARGET_QUESTION_RESULTS_V1",
+  "existing_home": "P3-INST-SEMINAR-RESOURCE-AUTHORITY-PRIVATE-LIFE",
+  "current_body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 34192,
+    "sha256": "c6d421ecbe025d51e15dcd6cd97642c3b97093f7979a2c1d76c68fece42e3de1",
+    "git_blob_oid_of_actual_bytes": "de006eb0d16792374fdc085b854e2064b2134b0e"
+  },
+  "complete_initial_five_receiving_path_only_public_derivative": {
+    "schema": "SEMINAR_EXISTING_REQUIRED_HOME_INITIAL_ACTUAL_CONTROL_AND_FIVE_COMPLETE_CORE_RECEIVING_V1",
+    "prepared_UTC": "2026-10-13T22:09:15.123286+00:00",
+    "author": "/root/minato_105_derivative",
+    "stage": "C_ONLY_INITIAL_COMPLETE_CORE_RECEIVING;FULL_INSTITUTION_BODY15_RIVALS8_ENDS16_AND_ALL105_NEW_PURPOSE_AUTHORING_PENDING;NO_PACKAGE_ACCEPTANCE_CLAIM",
+    "existing_home": {
+      "required_package_id": "P3-INST-SEMINAR-RESOURCE-AUTHORITY-PRIVATE-LIFE",
+      "kind": "INSTITUTION",
+      "subject_or_question": "P3-INST-SEMINAR-RESOURCE-AUTHORITY-PRIVATE-LIFE",
+      "source_responsibility_refs": "P3-XMI-I007",
+      "mandatory_named_section_ids": "",
+      "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+      "canonical_path": "",
+      "persistence_state": "UNACCEPTED",
+      "remote_publication": "NOT_YET_PUBLISHED",
+      "main_integration": "NOT_YET_INTEGRATED",
+      "completed_after_ROOT_install": "false",
+      "required_count": "1"
+    },
+    "exact_home_partition_pointer": "/homes/333",
+    "exact_current_home_partition_row": {
+      "home_key": "P3-INST-SEMINAR-RESOURCE-AUTHORITY-PRIVATE-LIFE",
+      "kind": "INSTITUTION",
+      "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+      "source_responsibility_refs": [
+        "P3-XMI-I007"
+      ],
+      "literary_rationale": [
+        "Actual gifts/company and constrained privacy/work"
+      ],
+      "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "counts_as_completed": false,
+      "proposed_denominator_entry": true
+    },
+    "future_designated_primary_repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+    "primary_route_grade": "ROOT designated future authorship binding only; canonical row remains blank; actual install and receiving pending.",
+    "current_custody_source": {
+      "source": "58a6fef2cd0cab67a5bf2125286e53d244979d27",
+      "tree": "35155af53cd670091b5cd5143ef88c3c95a20de2",
+      "main": "bf7f7fa6d018cbfcc5a538ef2c3ce6f8029bd6ad",
+      "manifest": {
+        "P_relative_path": "private-witness:SEMINAR-ORIGINAL-58A-TRACKED-INPUT-CUSTODY",
+        "bytes": 46700,
+        "sha256": "af914d0b081d68be786d1705b94dce305c92b5cda6e41245903d1c17243c2826",
+        "git_blob_oid_of_actual_bytes": "cf9085b4ce4eabbd9311094d2dea818de5f9537a"
+      }
+    },
+    "controls": [
+      {
+        "repository_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "bytes": 53414,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "git_blob_oid_of_actual_bytes": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "own_actual_control_scope": "SELECTED_CURRENT_CONTROL: L67–115/L135–150/L177–216/L366–409/L426–460/L606–640/L736–770; source2aa reused bytes equal current58a capture",
+        "tools": "7e5544"
+      },
+      {
+        "repository_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "bytes": 52261,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "git_blob_oid_of_actual_bytes": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "own_actual_control_scope": "SELECTED_CURRENT_CONTROL: L357–369/L577–625/L645–701/L720–748; source2aa reused bytes equal current58a capture",
+        "tools": "7e5544"
+      }
+    ],
+    "actual_five_core_argument_rows": [
+      {
+        "source_id": "SC01",
+        "title": "GROUP3101–3103 complete council-practice argument",
+        "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+        "private_original_P_relative_path": "repository-reference:series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+        "private_bound_relative_C_path": "repository-reference:series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+        "bytes": 40956,
+        "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+        "git_blob_oid_of_actual_bytes": "5bcbef776c36b70da61c168eebbc861ddda01cb6",
+        "physical_lines": 226,
+        "own_actual_receiving_tools": [
+          "65bee1 L1–80",
+          "a04ef0 L81–160",
+          "f16e83 L161–226"
+        ],
+        "own_current_grade": "COMPLETE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING;NOT_UNDERLYING_WHOLE_PRIMARY_PRIVATE_FAMILY_OR_NORMAL_OWNERSHIP_TRANSFER",
+        "producer_grade": "Original source-facing/character/relationship primary, native, choice/raw/performance and previous reader credit remain attributed to their exact retained original receipts.",
+        "new_source_admission": 0
+      },
+      {
+        "source_id": "SC02",
+        "title": "Yuuka current complete character argument",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md",
+        "private_original_P_relative_path": "repository-reference:series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md",
+        "private_bound_relative_C_path": "repository-reference:series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 68966,
+        "sha256": "499d2cc5633091e0b8ec5425d2db95405a87146688c59246f045409e69f3033e",
+        "git_blob_oid_of_actual_bytes": "9eb02278db5564cfc7781943f502aeb56f721874",
+        "physical_lines": 343,
+        "own_actual_receiving_tools": [
+          "b6be72 L1–84",
+          "855b11 L85–154",
+          "9453d2 L155–248",
+          "d60987 L249–302",
+          "6c96e5 L303–343"
+        ],
+        "own_current_grade": "COMPLETE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING;NOT_UNDERLYING_WHOLE_PRIMARY_PRIVATE_FAMILY_OR_NORMAL_OWNERSHIP_TRANSFER",
+        "producer_grade": "Original source-facing/character/relationship primary, native, choice/raw/performance and previous reader credit remain attributed to their exact retained original receipts.",
+        "new_source_admission": 0
+      },
+      {
+        "source_id": "SC03",
+        "title": "Noa current complete character argument",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "private_original_P_relative_path": "repository-reference:series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "private_bound_relative_C_path": "repository-reference:series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "bytes": 41281,
+        "sha256": "e3b6e71510497bd00dcd5312875e16b34bece10de19348ab393ec8b914405bd3",
+        "git_blob_oid_of_actual_bytes": "3a72feb7616e83cf1fecaa43c850e41cf0e713e2",
+        "physical_lines": 165,
+        "own_actual_receiving_tools": [
+          "b7fb24 L1–80",
+          "11e712 L81–116/L130–165; clippedmiddle earns no missing-line credit",
+          "40ea82 repairedcompleteL117–130"
+        ],
+        "own_current_grade": "COMPLETE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING;NOT_UNDERLYING_WHOLE_PRIMARY_PRIVATE_FAMILY_OR_NORMAL_OWNERSHIP_TRANSFER",
+        "producer_grade": "Original source-facing/character/relationship primary, native, choice/raw/performance and previous reader credit remain attributed to their exact retained original receipts.",
+        "new_source_admission": 0
+      },
+      {
+        "source_id": "SC04",
+        "title": "Koyuki current complete character argument",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOYUKI_CHARACTER_MONOGRAPH.md",
+        "private_original_P_relative_path": "repository-reference:series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOYUKI_CHARACTER_MONOGRAPH.md",
+        "private_bound_relative_C_path": "repository-reference:series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOYUKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 46195,
+        "sha256": "0f62794a5c02e29c0f7f817bf57bb12b5f89f6728057134906ec7936926337bb",
+        "git_blob_oid_of_actual_bytes": "f671c92bce3cb691f6d4006b018344d8e3eb9c47",
+        "physical_lines": 230,
+        "own_actual_receiving_tools": [
+          "2f4301 L1–80",
+          "4ca651 L81–118/L120–160; clipped119 earns no missing-line credit",
+          "df3917 repaired119 plusL161–192/L196–230; clipped193–195 earns no missing-line credit",
+          "fde19d repairedcompleteL193–198"
+        ],
+        "own_current_grade": "COMPLETE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING;NOT_UNDERLYING_WHOLE_PRIMARY_PRIVATE_FAMILY_OR_NORMAL_OWNERSHIP_TRANSFER",
+        "producer_grade": "Original source-facing/character/relationship primary, native, choice/raw/performance and previous reader credit remain attributed to their exact retained original receipts.",
+        "new_source_admission": 0
+      },
+      {
+        "source_id": "SC05",
+        "title": "Noa→Yuuka / Yuuka→Noa current complete directed relationship argument",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+        "private_original_P_relative_path": "repository-reference:series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+        "private_bound_relative_C_path": "repository-reference:series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+        "bytes": 32297,
+        "sha256": "e514031fd9c22aa28209107c435f402235215e33b8840978fe514fb6d6616fd7",
+        "git_blob_oid_of_actual_bytes": "4228b559bcb30755ac582e2071cc604203168ef4",
+        "physical_lines": 173,
+        "own_actual_receiving_tools": [
+          "3f1be9 L1–43/L64–86; clipped44–63 earns no missing-line credit",
+          "0ab4c4 repaired44–63 plusL87–99/L101–142; clipped100 earns no missing-line credit",
+          "d25bbe repaired100 plusL143–173"
+        ],
+        "own_current_grade": "COMPLETE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING;NOT_UNDERLYING_WHOLE_PRIMARY_PRIVATE_FAMILY_OR_NORMAL_OWNERSHIP_TRANSFER",
+        "producer_grade": "Original source-facing/character/relationship primary, native, choice/raw/performance and previous reader credit remain attributed to their exact retained original receipts.",
+        "new_source_admission": 0
+      }
+    ],
+    "existing_role_debt": {
+      "P3-XMI-I007": "Finite resources, selective standards, information burdens; actual gifts/company and constrained privacy/work.",
+      "P3-A417": "Source-local New Materials member reduced-pain aspiration/missing load demonstration must be retained at exact GROUP3101 scope; no global person join or new character credit.",
+      "future_observation_output_role": "Distinct source output and empty person join; no sentient biography, Alice/Key/Kei join or forecast validation.",
+      "separate_existing_homes": "Yuuka/Noa/Koyuki character and Noa–Yuuka directed relationship remain independent accepted responsibilities, not credited again by this institution."
+    },
+    "source_precision_actual_receiving": {
+      "current_Yuuka_erratum": "c5203b: Noa reports Veritas not formally recognized and Rio said not to fund Himari individually; not Himari disowning blueprint. Current/body/preceding/frozen tuples explicitly distinguished.",
+      "G31_titanium_endpoint": "Owncompletea04ef0L136–140: narrated apparently favorable personal financial outcome retained; no general prediction/calibration/auditedreturn.",
+      "Noa_and_Koyuki_boundaries": "Refused termination, private diary, wanted taste/company, practical help, suspicious nonwarning, confinement dissent, actual gifts, useful reported computation and continuing work retain distinct directions/endpoints."
+    },
+    "no_new_source_primary_native_raw_AV_identity_join_model_or_canonical_count_credit": true,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "fixed_scope": "355/29/25/384/788;source140/14/main133/13;next178unreached",
+    "R_Git_provider_shared_metadata_mutations": 0,
+    "merge_approval": "RESERVED"
+  },
+  "complete_additional_five_receiving_path_only_public_derivative": {
+    "schema": "SEMINAR_ADD_FIVE_COMPLETE_MAIN_EVENT_NORMALS_AND_CURRENT_TWELVE_TARGET_CORE_RESULTS_V1",
+    "UTC": "2026-10-13T22:27:59.031633+00:00",
+    "existing_home": "P3-INST-SEMINAR-RESOURCE-AUTHORITY-PRIVATE-LIFE",
+    "author": "/root/minato_105_derivative",
+    "stage": "C_ONLY_CONSEQUENTIAL_CORE_RECEIVING_AND_TARGET_QUESTION_RESULTS;BODY15_ALL105_REGISTER_AUTHORING_PENDING;NO_ROOT_CANONICAL_ACCEPTANCE",
+    "initial_five_complete_carriers": "SEMINAR_INITIAL_ACTUAL_CURRENT_CONTROL_AND_FIVE_COMPLETE_CORE_RECEIVING_V1.json retained immutable12477/373ee7278d62f86c029a21ba943644f7891226d884449dc1a3e41ef91b6639b5",
+    "additional_actual_five_normals": [
+      {
+        "source_id": "SC06",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md",
+        "original_private_P_relative_path": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md",
+        "bound_private_relative_C_path": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md",
+        "bytes": 7307,
+        "sha256": "07a492b0629276116c57ec5f8d6cee65f4325a3abd86eead684ca630c1121f12",
+        "git_blob_oid_of_actual_bytes": "b83b2db914cdc669baa47217a32687befbca4ac9",
+        "physical_lines": 57,
+        "actual_own_receiving_tools": [
+          "30424c complete57 throughEOF"
+        ],
+        "own_grade": "OWN_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ARGUMENT_RECEIVING_ONLY",
+        "old_snapshot_and_intake_qualification": "Original per-episode uncovered/backfill/next-unit/model-count or event-unadmitted/Phase2-pending/UNAPPLIED text remains historical. Current480MAIN/Cycle0083940/admitted written route and current140 package boundary govern. No new admission/ledger/model source-credit upgrade.",
+        "original_primary_native_raw_AV_and_prior_producer_reader_grades": "ATTRIBUTED_PRESERVED_NOT_TRANSFERRED"
+      },
+      {
+        "source_id": "SC07",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md",
+        "original_private_P_relative_path": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md",
+        "bound_private_relative_C_path": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md",
+        "bytes": 3473,
+        "sha256": "a2bf3b5e5f0fca822f07824156f642644a9fe479f0708aba2dc938ad3cff68fc",
+        "git_blob_oid_of_actual_bytes": "b6d1fa5c1a153e7ad2ca2172ecee831da8014c4f",
+        "physical_lines": 31,
+        "actual_own_receiving_tools": [
+          "30424c complete31 throughEOF"
+        ],
+        "own_grade": "OWN_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ARGUMENT_RECEIVING_ONLY",
+        "old_snapshot_and_intake_qualification": "Original per-episode uncovered/backfill/next-unit/model-count or event-unadmitted/Phase2-pending/UNAPPLIED text remains historical. Current480MAIN/Cycle0083940/admitted written route and current140 package boundary govern. No new admission/ledger/model source-credit upgrade.",
+        "original_primary_native_raw_AV_and_prior_producer_reader_grades": "ATTRIBUTED_PRESERVED_NOT_TRANSFERRED"
+      },
+      {
+        "source_id": "SC08",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+        "original_private_P_relative_path": "repository-reference:series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bound_private_relative_C_path": "repository-reference:series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 31482,
+        "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+        "git_blob_oid_of_actual_bytes": "f0f9557a65b075016a229b764d9385835cde666a",
+        "physical_lines": 149,
+        "actual_own_receiving_tools": [
+          "8ff87a L1–60",
+          "744194 L61–102",
+          "6674d6 L103–123/L125–149; clipped124 not credited",
+          "08fcde complete124 repair"
+        ],
+        "own_grade": "OWN_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ARGUMENT_RECEIVING_ONLY",
+        "old_snapshot_and_intake_qualification": "Original per-episode uncovered/backfill/next-unit/model-count or event-unadmitted/Phase2-pending/UNAPPLIED text remains historical. Current480MAIN/Cycle0083940/admitted written route and current140 package boundary govern. No new admission/ledger/model source-credit upgrade.",
+        "original_primary_native_raw_AV_and_prior_producer_reader_grades": "ATTRIBUTED_PRESERVED_NOT_TRANSFERRED"
+      },
+      {
+        "source_id": "SC09",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md",
+        "original_private_P_relative_path": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md",
+        "bound_private_relative_C_path": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md",
+        "bytes": 5094,
+        "sha256": "7dab6902dd3e5cb85aac4039e6b19b48bd2787fcb55e96b466337d9614096fdc",
+        "git_blob_oid_of_actual_bytes": "df701927f406b5fd456529fe0ae0472db68680f7",
+        "physical_lines": 37,
+        "actual_own_receiving_tools": [
+          "27f558 L1–36; clipped37notcredited",
+          "0415dc complete37repair"
+        ],
+        "own_grade": "OWN_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ARGUMENT_RECEIVING_ONLY",
+        "old_snapshot_and_intake_qualification": "Original per-episode uncovered/backfill/next-unit/model-count or event-unadmitted/Phase2-pending/UNAPPLIED text remains historical. Current480MAIN/Cycle0083940/admitted written route and current140 package boundary govern. No new admission/ledger/model source-credit upgrade.",
+        "original_primary_native_raw_AV_and_prior_producer_reader_grades": "ATTRIBUTED_PRESERVED_NOT_TRANSFERRED"
+      },
+      {
+        "source_id": "SC10",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E005_DEEP_READING.md",
+        "original_private_P_relative_path": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E005_DEEP_READING.md",
+        "bound_private_relative_C_path": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E005_DEEP_READING.md",
+        "bytes": 5259,
+        "sha256": "a9a841059c515616b52abd72e76c58aa38f42f11d7852dacf04af144e82129ba",
+        "git_blob_oid_of_actual_bytes": "f203bd7af21e2554eebd91d68f1b8e2a0e870633",
+        "physical_lines": 36,
+        "actual_own_receiving_tools": [
+          "27f558 L3–36; clipped1–2notcredited",
+          "0415dc complete1–4repair"
+        ],
+        "own_grade": "OWN_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ARGUMENT_RECEIVING_ONLY",
+        "old_snapshot_and_intake_qualification": "Original per-episode uncovered/backfill/next-unit/model-count or event-unadmitted/Phase2-pending/UNAPPLIED text remains historical. Current480MAIN/Cycle0083940/admitted written route and current140 package boundary govern. No new admission/ledger/model source-credit upgrade.",
+        "original_primary_native_raw_AV_and_prior_producer_reader_grades": "ATTRIBUTED_PRESERVED_NOT_TRANSFERRED"
+      }
+    ],
+    "actual_target_question_results": [
+      {
+        "question_id": "SQ01",
+        "source_ids": [
+          "SC01"
+        ],
+        "actual_new_target_question": "Which procedures and speaker reports establish Seminar locally?",
+        "own_target_positive_result": "Printed meeting/accountant/secretary practice and explicit Seminar identification support a locally governed institution; source group registry join stays unresolved.",
+        "own_target_counterevidence_and_claim_limit": "Quarterly procedure and founding history are character accounts, not an inspected charter/complete ledger.",
+        "exact_existing_written_analytical_locators": "G31L42/90/100;3101u0002–0008/u0073–0079",
+        "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "question_id": "SQ02",
+        "source_ids": [
+          "SC01"
+        ],
+        "actual_new_target_question": "What different tests meet particular students and localA417?",
+        "own_target_positive_result": "Soft-cement pain reduction, Akane tool-burden invention and Momoi wanted game income remain positive proposals; load, novelty and payer tests are applied differently.",
+        "own_target_counterevidence_and_claim_limit": "No load demonstration, firing, game revenue or full-hearing before Momoi dismissal; no generic maker disposal.",
+        "exact_existing_written_analytical_locators": "G31L92–102;3101u0009–0063",
+        "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "question_id": "SQ03",
+        "source_ids": [
+          "SC01",
+          "SC02",
+          "SC03"
+        ],
+        "actual_new_target_question": "When do prestige, future possibility and personal remedy alter proof and payment?",
+        "own_target_positive_result": "Noa argues possible future research value; Yuuka recognizes it beside finite money, later favors prestigious Himari design and offers personal cost.",
+        "own_target_counterevidence_and_claim_limit": "Noa reports Veritas nonrecognition/Rio individual-funding restriction; not an inspected charter/order, treasury theft or audited loss.",
+        "exact_existing_written_analytical_locators": "G31L108–116;YuukaL97–103;NoaL69–73",
+        "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "question_id": "SQ04",
+        "source_ids": [
+          "SC01",
+          "SC05"
+        ],
+        "actual_new_target_question": "What is completed by making and by the titanium coda?",
+        "own_target_positive_result": "Difficult shared construction and grateful dependence are achieved; personal expense and apparently favorable titanium result retain positive ending.",
+        "own_target_counterevidence_and_claim_limit": "Horoscope differs from requested metal-price path; fortune does not certify a forecast, calibration, known blueprint transfer or full warning from beginning.",
+        "exact_existing_written_analytical_locators": "G31L122–140;3103u0006–0016/u0026–0079",
+        "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "question_id": "SQ05",
+        "source_ids": [
+          "SC02",
+          "SC03",
+          "SC04",
+          "SC05"
+        ],
+        "actual_new_target_question": "How do private wants and refusals constrain office-centered characterization?",
+        "own_target_positive_result": "Yuuka mathematics/play/rest/gifts, Noa poetry/diary/plain tastes/room choice, Koyuki company/objects/interesting work remain intrinsic.",
+        "own_target_counterevidence_and_claim_limit": "No uniform consent, all-person taste, blank-self cure, exclusive romance, clinical recovery or unchanged reliable future behavior follows.",
+        "exact_existing_written_analytical_locators": "YuukaL111–137;NoaL53–91;KoyukiL57–101;NoaYuukaL36–50",
+        "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "question_id": "SQ06",
+        "source_ids": [
+          "SC06",
+          "SC07",
+          "SC04"
+        ],
+        "actual_new_target_question": "What does recall, solved-status and refusal of further work actually establish?",
+        "own_target_positive_result": "Urgent recall/release declaration precedes a participant-corroborated cipher solve; Koyuki later objects to battle and new barrier/Hod work.",
+        "own_target_counterevidence_and_claim_limit": "Recall is not departure/solve; corroboration not inspected code/log/exclusive ability; room preference under constrained options is not lawful past-confinement consent.",
+        "exact_existing_written_analytical_locators": "FinalC2E004L30–32/s2u0002–0045;E017L20/s1u0001–0018",
+        "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "question_id": "SQ07",
+        "source_ids": [
+          "SC08",
+          "SC03",
+          "SC04",
+          "SC05"
+        ],
+        "actual_new_target_question": "How can actual gifts and pleasure coexist with discipline and privacy costs?",
+        "own_target_positive_result": "Fitting pajamas accepted, card given, shared games/cleanup/sleep and local maintenance are positive actual ends; Noa confiscates covert recorder.",
+        "own_target_counterevidence_and_claim_limit": "Nonrelease, unwilling chase, constrained recording bargain, privacy-holder drinking and continued compulsory work remain; no universal consent or harm/cure claim.",
+        "exact_existing_written_analytical_locators": "E842L87–121;E003u0005–0024/u0124–0128;E014u0058–0086;E010u0072–0088",
+        "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "question_id": "SQ08",
+        "source_ids": [
+          "SC08",
+          "SC02",
+          "SC04"
+        ],
+        "actual_new_target_question": "Where are joint-resource experiment and inherited adult filing burdens allocated?",
+        "own_target_positive_result": "Koyuki/Maki choose mixing; Hare supplies different permission/taste stance; failed mixture/resource use and later displeasing burden have distinct actors.",
+        "own_target_counterevidence_and_claim_limit": "Research label grants no retrospective permission; next-afternoon work is ongoing, not complete filing, fair compensation or unanimous assent.",
+        "exact_existing_written_analytical_locators": "E842L109/115/117–119;E013u0008–0088/E010u0072–0088",
+        "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "question_id": "SQ09",
+        "source_ids": [
+          "SC09",
+          "SC03",
+          "SC05"
+        ],
+        "actual_new_target_question": "Do colleagues share a safety judgment or verified Rio control?",
+        "own_target_positive_result": "Yuuka protective concern and Noa reported delegation to ship embody competing risk rankings under uncertainty.",
+        "own_target_counterevidence_and_claim_limit": "No Rio appearance/verified surveillance/guaranteed safe ship; local self-address seams prevent fine universal actor reassignment.",
+        "exact_existing_written_analytical_locators": "FinalC3E006L22/u0014–0047;NoaL95;NoaYuukaL106",
+        "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "question_id": "SQ10",
+        "source_ids": [
+          "SC10",
+          "SC03"
+        ],
+        "actual_new_target_question": "What does Noa/Seia early dispatch add to practical armed coordination?",
+        "own_target_positive_result": "Noa reports helicopter departed before immediate crisis; C&C seniors actually arrive, then begin clearing enemies, with Seia request and Noa trust/hunch separately attributed.",
+        "own_target_counterevidence_and_claim_limit": "No self-contained Seminar army, all-Sensei authorship, calibrated prophecy, completed evacuation/medical clearance or blanket legitimacy of all means.",
+        "exact_existing_written_analytical_locators": "FinalC4E005L24/u0036–0066;NoaL97",
+        "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "question_id": "SQ11",
+        "source_ids": [
+          "SC02",
+          "SC03",
+          "SC04",
+          "SC08"
+        ],
+        "actual_new_target_question": "Does continued friendship close authority or labor disagreements?",
+        "own_target_positive_result": "Affection, welcomed ordinary contact, practical gifts, changed game choice and apologies are finite positive relations.",
+        "own_target_counterevidence_and_claim_limit": "Apology is recipient-specific; ongoing work, refusal, information asymmetry, incomplete records and missing payments remain.",
+        "exact_existing_written_analytical_locators": "YuukaL157–169/175–179;NoaL121–129;KoyukiL121–149;E842L109–121",
+        "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "question_id": "SQ12",
+        "source_ids": [
+          "SC01",
+          "SC06",
+          "SC07",
+          "SC08",
+          "SC09",
+          "SC10"
+        ],
+        "actual_new_target_question": "Which forms and chronological edges may be joined?",
+        "own_target_positive_result": "LocalG31 sequence, E842night/next-afternoon with revisiting afterstories, ordered Final recall/solve/safety/dispatch and source-local reports retained.",
+        "own_target_counterevidence_and_claim_limit": "No worldwide private/event/MAIN calendar, execution of all choices, heard inward speech, raw actor repair, uniform person/variant joins, performed voice or future source replay.",
+        "exact_existing_written_analytical_locators": "G31L46–84/201–226;E842L77/124–126;allfourFinalepisodefrontmatter/localattributionbounds",
+        "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+      }
+    ],
+    "source_credit_boundary": "10 current written analytical carriers: six complete analytical normals (G31,event842,fourFinalepisodearguments) and four complete maintained specialist arguments. This does not transfer underlying full private33/private20/private23, allsource primary/raw/native/AV or original reader/control grades. Common105 source-report framework is a distinct reused report layer; original26whole79selected remain unchanged.",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "new_source_admission_identity_join_required_package_named_or_milestone_credit": 0,
+    "R_Git_provider_shared_metadata_mutations": 0,
+    "source140_named14_main133_named13": "UNCHANGED",
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "merge": "RESERVED"
+  },
+  "actual_core_question_results": [
+    {
+      "question_id": "SQ01",
+      "source_ids": [
+        "SC01"
+      ],
+      "actual_new_target_question": "Which procedures and speaker reports establish Seminar locally?",
+      "own_target_positive_result": "Printed meeting/accountant/secretary practice and explicit Seminar identification support a locally governed institution; source group registry join stays unresolved.",
+      "own_target_counterevidence_and_claim_limit": "Quarterly procedure and founding history are character accounts, not an inspected charter/complete ledger.",
+      "exact_existing_written_analytical_locators": "G31L42/90/100;3101u0002–0008/u0073–0079",
+      "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "question_id": "SQ02",
+      "source_ids": [
+        "SC01"
+      ],
+      "actual_new_target_question": "What different tests meet particular students and localA417?",
+      "own_target_positive_result": "Soft-cement pain reduction, Akane tool-burden invention and Momoi wanted game income remain positive proposals; load, novelty and payer tests are applied differently.",
+      "own_target_counterevidence_and_claim_limit": "No load demonstration, firing, game revenue or full-hearing before Momoi dismissal; no generic maker disposal.",
+      "exact_existing_written_analytical_locators": "G31L92–102;3101u0009–0063",
+      "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "question_id": "SQ03",
+      "source_ids": [
+        "SC01",
+        "SC02",
+        "SC03"
+      ],
+      "actual_new_target_question": "When do prestige, future possibility and personal remedy alter proof and payment?",
+      "own_target_positive_result": "Noa argues possible future research value; Yuuka recognizes it beside finite money, later favors prestigious Himari design and offers personal cost.",
+      "own_target_counterevidence_and_claim_limit": "Noa reports Veritas nonrecognition/Rio individual-funding restriction; not an inspected charter/order, treasury theft or audited loss.",
+      "exact_existing_written_analytical_locators": "G31L108–116;YuukaL97–103;NoaL69–73",
+      "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "question_id": "SQ04",
+      "source_ids": [
+        "SC01",
+        "SC05"
+      ],
+      "actual_new_target_question": "What is completed by making and by the titanium coda?",
+      "own_target_positive_result": "Difficult shared construction and grateful dependence are achieved; personal expense and apparently favorable titanium result retain positive ending.",
+      "own_target_counterevidence_and_claim_limit": "Horoscope differs from requested metal-price path; fortune does not certify a forecast, calibration, known blueprint transfer or full warning from beginning.",
+      "exact_existing_written_analytical_locators": "G31L122–140;3103u0006–0016/u0026–0079",
+      "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "question_id": "SQ05",
+      "source_ids": [
+        "SC02",
+        "SC03",
+        "SC04",
+        "SC05"
+      ],
+      "actual_new_target_question": "How do private wants and refusals constrain office-centered characterization?",
+      "own_target_positive_result": "Yuuka mathematics/play/rest/gifts, Noa poetry/diary/plain tastes/room choice, Koyuki company/objects/interesting work remain intrinsic.",
+      "own_target_counterevidence_and_claim_limit": "No uniform consent, all-person taste, blank-self cure, exclusive romance, clinical recovery or unchanged reliable future behavior follows.",
+      "exact_existing_written_analytical_locators": "YuukaL111–137;NoaL53–91;KoyukiL57–101;NoaYuukaL36–50",
+      "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "question_id": "SQ06",
+      "source_ids": [
+        "SC06",
+        "SC07",
+        "SC04"
+      ],
+      "actual_new_target_question": "What does recall, solved-status and refusal of further work actually establish?",
+      "own_target_positive_result": "Urgent recall/release declaration precedes a participant-corroborated cipher solve; Koyuki later objects to battle and new barrier/Hod work.",
+      "own_target_counterevidence_and_claim_limit": "Recall is not departure/solve; corroboration not inspected code/log/exclusive ability; room preference under constrained options is not lawful past-confinement consent.",
+      "exact_existing_written_analytical_locators": "FinalC2E004L30–32/s2u0002–0045;E017L20/s1u0001–0018",
+      "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "question_id": "SQ07",
+      "source_ids": [
+        "SC08",
+        "SC03",
+        "SC04",
+        "SC05"
+      ],
+      "actual_new_target_question": "How can actual gifts and pleasure coexist with discipline and privacy costs?",
+      "own_target_positive_result": "Fitting pajamas accepted, card given, shared games/cleanup/sleep and local maintenance are positive actual ends; Noa confiscates covert recorder.",
+      "own_target_counterevidence_and_claim_limit": "Nonrelease, unwilling chase, constrained recording bargain, privacy-holder drinking and continued compulsory work remain; no universal consent or harm/cure claim.",
+      "exact_existing_written_analytical_locators": "E842L87–121;E003u0005–0024/u0124–0128;E014u0058–0086;E010u0072–0088",
+      "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "question_id": "SQ08",
+      "source_ids": [
+        "SC08",
+        "SC02",
+        "SC04"
+      ],
+      "actual_new_target_question": "Where are joint-resource experiment and inherited adult filing burdens allocated?",
+      "own_target_positive_result": "Koyuki/Maki choose mixing; Hare supplies different permission/taste stance; failed mixture/resource use and later displeasing burden have distinct actors.",
+      "own_target_counterevidence_and_claim_limit": "Research label grants no retrospective permission; next-afternoon work is ongoing, not complete filing, fair compensation or unanimous assent.",
+      "exact_existing_written_analytical_locators": "E842L109/115/117–119;E013u0008–0088/E010u0072–0088",
+      "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "question_id": "SQ09",
+      "source_ids": [
+        "SC09",
+        "SC03",
+        "SC05"
+      ],
+      "actual_new_target_question": "Do colleagues share a safety judgment or verified Rio control?",
+      "own_target_positive_result": "Yuuka protective concern and Noa reported delegation to ship embody competing risk rankings under uncertainty.",
+      "own_target_counterevidence_and_claim_limit": "No Rio appearance/verified surveillance/guaranteed safe ship; local self-address seams prevent fine universal actor reassignment.",
+      "exact_existing_written_analytical_locators": "FinalC3E006L22/u0014–0047;NoaL95;NoaYuukaL106",
+      "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "question_id": "SQ10",
+      "source_ids": [
+        "SC10",
+        "SC03"
+      ],
+      "actual_new_target_question": "What does Noa/Seia early dispatch add to practical armed coordination?",
+      "own_target_positive_result": "Noa reports helicopter departed before immediate crisis; C&C seniors actually arrive, then begin clearing enemies, with Seia request and Noa trust/hunch separately attributed.",
+      "own_target_counterevidence_and_claim_limit": "No self-contained Seminar army, all-Sensei authorship, calibrated prophecy, completed evacuation/medical clearance or blanket legitimacy of all means.",
+      "exact_existing_written_analytical_locators": "FinalC4E005L24/u0036–0066;NoaL97",
+      "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "question_id": "SQ11",
+      "source_ids": [
+        "SC02",
+        "SC03",
+        "SC04",
+        "SC08"
+      ],
+      "actual_new_target_question": "Does continued friendship close authority or labor disagreements?",
+      "own_target_positive_result": "Affection, welcomed ordinary contact, practical gifts, changed game choice and apologies are finite positive relations.",
+      "own_target_counterevidence_and_claim_limit": "Apology is recipient-specific; ongoing work, refusal, information asymmetry, incomplete records and missing payments remain.",
+      "exact_existing_written_analytical_locators": "YuukaL157–169/175–179;NoaL121–129;KoyukiL121–149;E842L109–121",
+      "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "question_id": "SQ12",
+      "source_ids": [
+        "SC01",
+        "SC06",
+        "SC07",
+        "SC08",
+        "SC09",
+        "SC10"
+      ],
+      "actual_new_target_question": "Which forms and chronological edges may be joined?",
+      "own_target_positive_result": "LocalG31 sequence, E842night/next-afternoon with revisiting afterstories, ordered Final recall/solve/safety/dispatch and source-local reports retained.",
+      "own_target_counterevidence_and_claim_limit": "No worldwide private/event/MAIN calendar, execution of all choices, heard inward speech, raw actor repair, uniform person/variant joins, performed voice or future source replay.",
+      "exact_existing_written_analytical_locators": "G31L46–84/201–226;E842L77/124–126;allfourFinalepisodefrontmatter/localattributionbounds",
+      "disposition": "POSITIVE_WITH_LIMITS_AUTHOR_CORE_MEANING;FULL_INSTITUTION_ARGUMENT_ROOT_RECEIVING_PENDING"
+    }
+  ],
+  "public_source_rows": [
+    {
+      "source_id": "SC01",
+      "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+      "bytes": 40956,
+      "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+      "git_blob_oid_of_actual_bytes": "5bcbef776c36b70da61c168eebbc861ddda01cb6",
+      "physical_lines": 226,
+      "own_exact_grade": "COMPLETE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING;NOT_UNDERLYING_WHOLE_PRIMARY_PRIVATE_FAMILY_OR_NORMAL_OWNERSHIP_TRANSFER",
+      "actual_receiving_tools": [
+        "65bee1 L1–80",
+        "a04ef0 L81–160",
+        "f16e83 L161–226"
+      ],
+      "underlying_producer_scopes": "Original primary/private/native/raw/AV and other reader grades stay attributed, not transferred"
+    },
+    {
+      "source_id": "SC02",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 68966,
+      "sha256": "499d2cc5633091e0b8ec5425d2db95405a87146688c59246f045409e69f3033e",
+      "git_blob_oid_of_actual_bytes": "9eb02278db5564cfc7781943f502aeb56f721874",
+      "physical_lines": 343,
+      "own_exact_grade": "COMPLETE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING;NOT_UNDERLYING_WHOLE_PRIMARY_PRIVATE_FAMILY_OR_NORMAL_OWNERSHIP_TRANSFER",
+      "actual_receiving_tools": [
+        "b6be72 L1–84",
+        "855b11 L85–154",
+        "9453d2 L155–248",
+        "d60987 L249–302",
+        "6c96e5 L303–343"
+      ],
+      "underlying_producer_scopes": "Original primary/private/native/raw/AV and other reader grades stay attributed, not transferred"
+    },
+    {
+      "source_id": "SC03",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+      "bytes": 41281,
+      "sha256": "e3b6e71510497bd00dcd5312875e16b34bece10de19348ab393ec8b914405bd3",
+      "git_blob_oid_of_actual_bytes": "3a72feb7616e83cf1fecaa43c850e41cf0e713e2",
+      "physical_lines": 165,
+      "own_exact_grade": "COMPLETE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING;NOT_UNDERLYING_WHOLE_PRIMARY_PRIVATE_FAMILY_OR_NORMAL_OWNERSHIP_TRANSFER",
+      "actual_receiving_tools": [
+        "b7fb24 L1–80",
+        "11e712 L81–116/L130–165; clippedmiddle earns no missing-line credit",
+        "40ea82 repairedcompleteL117–130"
+      ],
+      "underlying_producer_scopes": "Original primary/private/native/raw/AV and other reader grades stay attributed, not transferred"
+    },
+    {
+      "source_id": "SC04",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOYUKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 46195,
+      "sha256": "0f62794a5c02e29c0f7f817bf57bb12b5f89f6728057134906ec7936926337bb",
+      "git_blob_oid_of_actual_bytes": "f671c92bce3cb691f6d4006b018344d8e3eb9c47",
+      "physical_lines": 230,
+      "own_exact_grade": "COMPLETE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING;NOT_UNDERLYING_WHOLE_PRIMARY_PRIVATE_FAMILY_OR_NORMAL_OWNERSHIP_TRANSFER",
+      "actual_receiving_tools": [
+        "2f4301 L1–80",
+        "4ca651 L81–118/L120–160; clipped119 earns no missing-line credit",
+        "df3917 repaired119 plusL161–192/L196–230; clipped193–195 earns no missing-line credit",
+        "fde19d repairedcompleteL193–198"
+      ],
+      "underlying_producer_scopes": "Original primary/private/native/raw/AV and other reader grades stay attributed, not transferred"
+    },
+    {
+      "source_id": "SC05",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 32297,
+      "sha256": "e514031fd9c22aa28209107c435f402235215e33b8840978fe514fb6d6616fd7",
+      "git_blob_oid_of_actual_bytes": "4228b559bcb30755ac582e2071cc604203168ef4",
+      "physical_lines": 173,
+      "own_exact_grade": "COMPLETE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING;NOT_UNDERLYING_WHOLE_PRIMARY_PRIVATE_FAMILY_OR_NORMAL_OWNERSHIP_TRANSFER",
+      "actual_receiving_tools": [
+        "3f1be9 L1–43/L64–86; clipped44–63 earns no missing-line credit",
+        "0ab4c4 repaired44–63 plusL87–99/L101–142; clipped100 earns no missing-line credit",
+        "d25bbe repaired100 plusL143–173"
+      ],
+      "underlying_producer_scopes": "Original primary/private/native/raw/AV and other reader grades stay attributed, not transferred"
+    },
+    {
+      "source_id": "SC06",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md",
+      "bytes": 7307,
+      "sha256": "07a492b0629276116c57ec5f8d6cee65f4325a3abd86eead684ca630c1121f12",
+      "git_blob_oid_of_actual_bytes": "b83b2db914cdc669baa47217a32687befbca4ac9",
+      "physical_lines": 57,
+      "own_exact_grade": "OWN_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ARGUMENT_RECEIVING_ONLY",
+      "actual_receiving_tools": [
+        "30424c complete57 throughEOF"
+      ],
+      "underlying_producer_scopes": "Original primary/private/native/raw/AV and other reader grades stay attributed, not transferred"
+    },
+    {
+      "source_id": "SC07",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md",
+      "bytes": 3473,
+      "sha256": "a2bf3b5e5f0fca822f07824156f642644a9fe479f0708aba2dc938ad3cff68fc",
+      "git_blob_oid_of_actual_bytes": "b6d1fa5c1a153e7ad2ca2172ecee831da8014c4f",
+      "physical_lines": 31,
+      "own_exact_grade": "OWN_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ARGUMENT_RECEIVING_ONLY",
+      "actual_receiving_tools": [
+        "30424c complete31 throughEOF"
+      ],
+      "underlying_producer_scopes": "Original primary/private/native/raw/AV and other reader grades stay attributed, not transferred"
+    },
+    {
+      "source_id": "SC08",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 31482,
+      "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+      "git_blob_oid_of_actual_bytes": "f0f9557a65b075016a229b764d9385835cde666a",
+      "physical_lines": 149,
+      "own_exact_grade": "OWN_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ARGUMENT_RECEIVING_ONLY",
+      "actual_receiving_tools": [
+        "8ff87a L1–60",
+        "744194 L61–102",
+        "6674d6 L103–123/L125–149; clipped124 not credited",
+        "08fcde complete124 repair"
+      ],
+      "underlying_producer_scopes": "Original primary/private/native/raw/AV and other reader grades stay attributed, not transferred"
+    },
+    {
+      "source_id": "SC09",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md",
+      "bytes": 5094,
+      "sha256": "7dab6902dd3e5cb85aac4039e6b19b48bd2787fcb55e96b466337d9614096fdc",
+      "git_blob_oid_of_actual_bytes": "df701927f406b5fd456529fe0ae0472db68680f7",
+      "physical_lines": 37,
+      "own_exact_grade": "OWN_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ARGUMENT_RECEIVING_ONLY",
+      "actual_receiving_tools": [
+        "27f558 L1–36; clipped37notcredited",
+        "0415dc complete37repair"
+      ],
+      "underlying_producer_scopes": "Original primary/private/native/raw/AV and other reader grades stay attributed, not transferred"
+    },
+    {
+      "source_id": "SC10",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E005_DEEP_READING.md",
+      "bytes": 5259,
+      "sha256": "a9a841059c515616b52abd72e76c58aa38f42f11d7852dacf04af144e82129ba",
+      "git_blob_oid_of_actual_bytes": "f203bd7af21e2554eebd91d68f1b8e2a0e870633",
+      "physical_lines": 36,
+      "own_exact_grade": "OWN_COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ARGUMENT_RECEIVING_ONLY",
+      "actual_receiving_tools": [
+        "27f558 L3–36; clipped1–2notcredited",
+        "0415dc complete1–4repair"
+      ],
+      "underlying_producer_scopes": "Original primary/private/native/raw/AV and other reader grades stay attributed, not transferred"
+    }
+  ],
+  "current61767_dependency": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+  },
+  "current59334_dependency": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_COFFEE_DIRECTION_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 59334,
+    "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+    "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+  },
+  "six_qualified_current_meanings": [
+    {
+      "owner_id": "O025",
+      "current_qualified_meaning": "Hot Springs chosen digging, proposed work/rest reciprocity, wanted baths and spontaneous snack sharing test practical service against exposure, coercive labor and recipient workload. Local acceptance is real; it does not authorize unlimited labor, erase leverage or finish promised repair. Neither GROUP3501–3502 vignette establishes the copied chosen-reading detail; reading elsewhere remains a separate ordinary end.",
+      "complete_finite_reason": "Chosen reading is unestablished in the two GROUP3501–3502 meanings. This does not exclude Kasumi reading in EVENT848 or other actual reading.",
+      "counterlimitations": [
+        "The two GROUP3501–3502 vignettes do not establish the copied chosen-reading detail.",
+        "Digging, proposed reciprocal work/rest, baths and spontaneous snack sharing retain intrinsic ordinary value.",
+        "Kasumi reading in EVENT848 remains independently warranted; removing O025 specificity does not remove reading across Hot Springs material.",
+        "Local acceptance does not authorize unlimited labor, erase coercion or finish promised repair."
+      ]
+    },
+    {
+      "owner_id": "O071",
+      "current_qualified_meaning": "EVENT827 RABBIT investigation, coastguard work/rest and coastal-village participation test civic duty with ordinary pleasure. Public help and institutional pressure have different recipients; the unprinted full accountability tail prevents universal official legitimacy or repair.",
+      "complete_finite_reason": "The supported source-local actors are RABBIT investigators, coastguard workers and the coastal village; the copied police/resort frame is not adequate.",
+      "counterlimitations": [
+        "RABBIT investigation, coastguard work/rest and coastal-village participants retain source-local ownership.",
+        "The qualifier does not establish global absence of police or resort activity beyond the accepted connected scope.",
+        "Help and ordinary enjoyment do not finish the unprinted accountability tail or authenticate universal official legitimacy."
+      ]
+    },
+    {
+      "owner_id": "O073",
+      "current_qualified_meaning": "EVENT829 books, reader-maker gratitude and desired company test implementation of a collective project. Refused appropriation, forced carrying and incomplete publication/profit retain costs; gratitude does not execute every bargain or remove labor pressure.",
+      "complete_finite_reason": "The connected meaning supports refusal of appropriation without establishing the copied ratio specificity.",
+      "counterlimitations": [
+        "Refused appropriation is supported; copied ratio specificity is unestablished at the recorded connected grade.",
+        "Books, reader-maker gratitude and wanted company remain substantive ends.",
+        "Forced carrying, incomplete publication/profit and labor pressure remain adverse or unfinished; gratitude does not execute every bargain."
+      ]
+    },
+    {
+      "owner_id": "O075",
+      "current_qualified_meaning": "EVENT831 Engineering contribution and maker/client ordinary wants test volunteered assistance versus presumed skill. A product and local win matter; they do not authenticate all safety, willingness or future repair.",
+      "complete_finite_reason": "Engineering hosting/manufacture, visitor wants and bodily/technical limits are supported; festival purpose is unestablished in the received interval.",
+      "counterlimitations": [
+        "Engineering contribution, hosting/manufacture and visitor wants are supported; a festival purpose is unestablished in the received interval.",
+        "The qualifier does not assign the interrupted afternoon rest to Eimi; the published Sensei-rest actor qualification remains governing where used.",
+        "A product and local win remain positive results without authenticating all safety, recipient willingness or future repair."
+      ]
+    },
+    {
+      "owner_id": "O079",
+      "current_qualified_meaning": "EVENT835 Hyakkiyako school-trip/festival pleasures and hosting obligations test revived companionship against tradition and public service. Actual aid and joy remain positive; ritual accounts, collective assent and permanent reform are not authenticated by a local success.",
+      "complete_finite_reason": "Hyakkiyako school-trip/festival pleasures and hosting are supported; the copied river detail is unestablished at this grade.",
+      "counterlimitations": [
+        "Hyakkiyako school-trip/festival pleasure and hosting obligations are supported; copied river specificity is unestablished at this grade.",
+        "Actual aid and joy retain ordinary value without merging school membership, recipient assent or story chronology.",
+        "Ritual history, collective assent and permanent reform are not authenticated by a local success."
+      ]
+    },
+    {
+      "owner_id": "O087",
+      "current_qualified_meaning": "EVENT843 Seia and Rio’s qualification/self-proof wishes, C&C accompaniment, Neru’s direct refusals and Karin’s information request test operative protection against independent recipients’ purposes. Wanted company and negotiated one-week participation retain independent value; competence and affection do not supply blanket consent, completed institutional restraint or restored prophecy.",
+      "complete_finite_reason": "The self-proof wishes belong to Seia and Rio. C&C accompaniment, Neru refusals, Karin information and negotiated one-week participation retain separate owners.",
+      "counterlimitations": [
+        "Seia and Rio own the qualification/self-proof wishes; C&C accompaniment is a distinct purpose and act.",
+        "Neru direct refusals, Karin information requests and negotiated one-week participation preserve independent recipient answers.",
+        "Competence and affection do not supply blanket consent, completed institutional restraint or restored prophecy."
+      ]
+    }
+  ],
+  "own_current_narrow_qualifier_receiving": "90eb98 complete six operative meanings/counters plus ROOT historical adoption;6c5a0c clipped full module is not credited as a whole-module fresh reading. Published59334 coffee direction reused from own adequate prior GSC correction/source selection and current module rule binding.",
+  "current_body_readback": "b2a203 lines1–90;95ddfd91–170;758682171–231; own whole231 actual saved argument, no supported author finding.",
+  "core_scope": "6 complete maintained analytical-normal arguments +4 complete maintained specialist arguments; ten carriers, not ten newly admitted primary sources.",
+  "common105_scope": "105 new source-specific questions at reused report grade; contributor26whole79selected unchanged. No default replay of105 underlying normals.",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "ROOT_adoption_and_independent_review": "PENDING",
+  "new_credits": 0,
+  "current_author_selected_O071_O094_source_precision_qualification_V1": {
+    "schema": "SEMINAR_CURRENT_O071_O094_NECESSARY_SELECTED_ANALYTICAL_SOURCE_PRECISION_QUALIFICATION_V1",
+    "author": "/root/minato_105_derivative",
+    "ROOT_authorization": "ROOT directly authorized three purpose scalars, exact index mirrors, current digest graph and additive selected-source qualification; ROOT ownE850cfe900 independently supports Miyo reading-access refusal.",
+    "actual_source_receiving_tool": "4dbcf5",
+    "source_rows": [
+      {
+        "owner_id": "O071",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_827/BLUE_ARCHIVE_EVENT_827_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 36865,
+        "sha256": "9befa909be94b8b850aeda7a026f13232fe0459b2173c016fb10b8735ac1bdaa",
+        "git_blob_oid_of_actual_bytes": "adbbd39c91ea6439a374cda2b67e25238dd20449",
+        "physical_lines": 203,
+        "own_selected_ranges": [
+          [
+            117,
+            135
+          ],
+          [
+            155,
+            169
+          ]
+        ],
+        "grade": "OWN_NECESSARY_SELECTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY;NOT_WHOLE203_PRIMARY_NATIVE_RAW_AV",
+        "complete_actual_source_paragraph_L133": "Hunger interrupts the exchange. They receive otherwise unsaleable seafood, grill it and welcome the adult’s purchased ingredients(u0072–0104). Fire use first draws a prohibition, then the coastguard notes the union-head presence/permission context(u0094–0097); this is not a universal cooking license. Kusaya then draws explicit objections, unwilling proximity and a bed-sharing boundary. Moe pressures Saki to eat; Saki says stop(u0107–0121). The narrator confirms enjoyable late-night fish-party company(u0122). Enjoyment does not revoke those refusals, guarantee every participant ate kusaya or erase all food/body boundaries.",
+        "complete_actual_source_paragraph_L169": "A parcel is actually delivered to Miyako’s exact tent address, opened and identified as expensive shrimp with a union gratitude message(u0044–0070). Gift receipt is secure; the squad’s inability to freeze it and uncertainty about consuming ten portions remain(u0071–0075). They invite the teacher and the narrator confirms a substantial shared barbecue(u0076–0085), not merely an unfulfilled offer. Later ten portions of kusaya arriving at Schale cause a separate reported fuss(u0086); no uniform enjoyment or silently completed refrigeration repair follows. The ending supplies real reciprocal hospitality alongside comic recipient differences and institutional limits.",
+        "finite_meaning": "Kusaya objection, unwilling proximity, bed-sharing boundary and Moe pressing Saki to eat/stop008u0107–0121 survive actual pleasantparty008u0122. Deliveredshrimp andbarbecue014u0044–0085 remain positive without universal assent or storage/custody/schoolrepair."
+      },
+      {
+        "owner_id": "O094",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_850/BLUE_ARCHIVE_EVENT_850_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 28418,
+        "sha256": "a5ea335dfd318422d128e6f5f8a6e0a5a041a88331bbf3839cb9c18a217edc9c",
+        "git_blob_oid_of_actual_bytes": "e213a371a863d781a16bb0fbcebcf888a83fff83",
+        "physical_lines": 139,
+        "own_selected_ranges": [
+          [
+            77,
+            100
+          ],
+          [
+            112,
+            120
+          ]
+        ],
+        "grade": "OWN_NECESSARY_SELECTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY;NOT_WHOLE139_PRIMARY_NATIVE_RAW_AV",
+        "complete_actual_source_paragraph_L81": "003:scene001 clarifies that Ritsu's planting is deliveries, not a body burial. She names sculpture and trading as hobby/skill and sculpture as major. Her offering Teacher clothes after a reported embarrassing news story is a wanted helpful gesture, politely declined, not completed dressing or verified whole earlier history. Delivery points show a student happily retrieving desired fried chicken and another receiving banned paint to finish work. The painting ban is explained through alleged insecticide danger; narrator's impression that inspected goods were less alarming than imagined does not prove all goods harmless. Other routes exist by club report, but the observed few are the actual scope.",
+        "complete_actual_source_paragraph_L87": "Fuyu has received the purported genuine painting but has not independently accepted the commission; she says she will return it if Miyo refuses. Ritsu calls it pretty, Miyo is excited to see it close and the projected payment would fund wanted fine marble as well as the typewriter. Teacher says monitoring and trust in students make the job acceptable, while Miyo maintains it is money-driven theft. She agrees with an inward resolution that it will be her last job (u0123–0136). Teacher's reassurance is part of the pressure/confidence structure, not the analyst's certification of legality or truth.",
+        "complete_actual_source_paragraph_L96": "007 completes the collaborative interpretation: Miyo proposes costly blue/purple pigments and royal exclusivity, Ritsu recognizes the title's relevant painting, Fuyu contributes media-art/photography knowledge and distinguishes sunrise from sunset; Ritsu supplies the closing-doors clue. The interpretation concludes おそらく, and the actual later evening appearance supports the local fit. Not all textual reasoning becomes universally true art history. Teacher brings cake, Ritsu actually praises/eats it, and Fuyu's plan to turn Teacher into an import business is explicitly refused. Welcome food and a commercial boundary coexist.",
+        "complete_actual_source_paragraph_L98": "Miyo reframes the job so the thief removes the stored purported forgery while the club inserts the supposedly true work. She resents praise for criminal talent and says she wanted romance novels; when Teacher wants to read one she explicitly refuses (u0063–0074). Respect her desired genre and refusal. She elects to support the thief, trusting a report that stolen works never return to circulation; that mistaken authentication premise and strategic hope must reach the later outcome.",
+        "complete_actual_source_paragraph_L118": "012 gives a concrete pleasant ending: all three club members are at the sweets cafe with Teacher and express different tasted pleasure. Miyo says Teacher's identity guarantee permits their outing, a bounded current exception rather than installed general liberalization. Fuyu again pitches importing sweets; Miyo objects to club business intruding on leisure. Actual earnings are zero and costs make the job a loss (u0018–0019), despite the ethical/public success. No typewriter or marble purchase occurs. Miyo still wants the typewriter, defends its misunderstood beauty in language deliberately reminiscent of elitist claims, and asks for another job before dissolving the club. Fuyu's joke urges silence because Ritsu may hear. Narration explicitly says daily club life continues (u0066–0071). The initial wish to dissolve and repeated last-job promise are unfulfilled; the enjoyment and peer affirmation are nevertheless actual, not discarded because desires remain unfinished.",
+        "finite_meaning": "Miyo wants novels and refuses Teacher reading one007u0063–0074; she does not refuse wanted typewriter-writing. Ritsu appreciates author, wants sculpture/materials andactuallytastes cake; final earnings0/no marble or typewriter purchase."
+      }
+    ],
+    "current_semantic_fields": [
+      {
+        "purpose_id": "SP071",
+        "owner_id": "O071",
+        "part_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+        "part_json_pointer": "/records/0/own_new_Seminar_finite_result",
+        "before": "Use the actual coastal-village source as a comparison to crisis coordination; it is not a generic resort-police duty or Saki body-refusal episode.",
+        "after": "Use the actual coastal-village source as a comparison to crisis coordination; Saki’s particular food/body refusals remain consequential beside fish-party pleasure, without a generic resort-police duty or uniform assent.",
+        "index_json_pointer": "/owner_rows/71/new_question_and_finite_result/own_new_Seminar_finite_result"
+      },
+      {
+        "purpose_id": "SP094",
+        "owner_id": "O094",
+        "part_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+        "part_json_pointer": "/records/23/own_new_Seminar_positive_connected_meaning",
+        "before": "Miyo still decides, rejects a false ending and refuses private typewriter writing; Ritsu's authorship, sculpture and cakes have intrinsic worth.",
+        "after": "Miyo still decides, rejects a false ending and refuses Teacher’s request to read her wanted novels; Ritsu’s sculpture, materials and tasted cake have intrinsic worth.",
+        "index_json_pointer": "/owner_rows/94/new_question_and_finite_result/own_new_Seminar_positive_connected_meaning"
+      },
+      {
+        "purpose_id": "SP094",
+        "owner_id": "O094",
+        "part_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+        "part_json_pointer": "/records/23/own_new_Seminar_finite_result",
+        "before": "Compare private recording and useful capacity without importing a romance or treating typewriter refusal as mere practical inconvenience.",
+        "after": "Compare private recording and useful capacity without importing a romance or treating Miyo’s refusal of reading access as mere practical inconvenience.",
+        "index_json_pointer": "/owner_rows/94/new_question_and_finite_result/own_new_Seminar_finite_result"
+      }
+    ],
+    "scope": "10 complete core maintained carriers and original10526whole79selected/sourceROOTreportgrades remain unchanged. These are two necessary selected comparison-normal checks; no core-count relabel, no default whole105replay, no sourceadmission/privatefamily/identity/model credit.",
+    "current_body": "Unchanged231 physical lines/34184bytes/32wholeclaims; different-author body75581/0536854a preserved as independent prior scope, not selfcredited.",
+    "historical_roles": "V3 sourcegrade/own105 statements are dated precedingreceiving. New selected qualification governs only corrected currentsourceuse. Original105 payloads, grades, decisions, questions/counters/triggers and other103 newpurpose rows remain unchanged.",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "ROOT_current_package_adoption": "PENDING"
+  }
+}

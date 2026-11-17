@@ -1,0 +1,94 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Saori",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_SAORI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 3310,
+    "sha256": "af21a613210a0c948b2c24b67a3f074848908a15ec67460dedebb12f6222fefc",
+    "git_blob_oid_of_actual_bytes": "a0258e240a1ddf02cbf19d5f9c48bcda3c6dcdad",
+    "lines": 49
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_SAORI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "0b16efbad9f94c9478823ba02c4cab60ef36367a5ce2be9d3002900afeb9df65",
+    "frozen_outputs_verified": 4,
+    "prior_frozen_outputs_preserved": 29,
+    "exact_unique_binding_pairs_verified": 76,
+    "fresh_complete_arguments_equal_main_and_c1": 3,
+    "selected_private_objects_exact_verified": 25,
+    "saved_nonempty_lines_exact_verified": 130,
+    "historical_metadata_bindings": [
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "ref": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "purpose": "historical metadata only"
+      }
+    ],
+    "present_metadata_witness": "Author control probe is exact at1dc/ec11af62/788 and is distinct from earlier frozen dc5 staging and main2e analytical owners. No whole-tree publication audit follows.",
+    "root_actual_receiving": {
+      "whole_final_body": [
+        "1ae7d0 lines1–109",
+        "a03376 lines110–216EOF"
+      ],
+      "whole_readable_receipt": [
+        "0bf358 all44linesEOF"
+      ],
+      "source_scope_fields": "b300ed all source controls; da618c three fresh accepted scopes; b1da87 twelve reused Main/Final scopes;10492c three necessary Japanese recovery scopes; d74f47 all25 inherited bindings;800c6c all29 earlier payload bindings;51ba7d complete37-line manifest. Whole-body receiving supplies the semantic review of all130 saved nonempty lines; the hash projection is exact verification, not a second source reading.",
+      "additional_consequential_accepted_arguments": [
+        "223d0a EVENT834 lines71–168, including complete001–015 work/cooperation arguments; not a new whole38 credit",
+        "a52903 completeEVENT810078 all73linesEOF",
+        "3226dd V003C003 lines24–96EOF, complete substantive chapter argument; historical frontmatter not newly read"
+      ],
+      "new_full_primary_or_raw_or_performance_credit": 0
+    },
+    "semantic_grounds": [
+      "Useful labor coexists with intrinsic attachment, art, sound-making, clothing, dance and wanted quiet company. Worth is not conditional on secure employment or successful delivery.",
+      "Mask repair has a recipient-reported working filter and actual pleasant company; failed sound transmission and cancelled professional dance remain unfinished work with meaningful practice.",
+      "Earlier photo refusals and later restricted permission remain distinct. An enjoyed meal and many pictures do not authorize publication or general future contact.",
+      "Azusa’s independent belonging, admitted violence, Subaru and Maia’s criticism, coercive professional methods and disputed wages remain material contrary evidence.",
+      "Account access, shared food, school participation and proposed work give finite positive results; innocence, fair-pay systems, technical protection, medical cure, global chronology and performed music remain unsupported."
+    ],
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "N353 separately adjudicated; this acceptance does not change the denominator",
+    "quarter_reached": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-SAORI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md",
+    "bytes": 49197,
+    "sha256": "a4adedf9161996c4d47b3d2cfd5dd29c33d0e4c45c0553dd327132c89cdcf13f",
+    "git_blob_oid_of_actual_bytes": "9a65ddd7fa24f20aac6f427f94d8581ffbc06673"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This file is a local candidate for independent ROOT receiving.",
+      "new": "ROOT independently received and accepted the complete bounded literary argument with limits.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    },
+    {
+      "old": "This candidate’s completion does not complete full Phase3.",
+      "new": "This monograph’s completion does not complete full Phase3.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    }
+  ]
+}

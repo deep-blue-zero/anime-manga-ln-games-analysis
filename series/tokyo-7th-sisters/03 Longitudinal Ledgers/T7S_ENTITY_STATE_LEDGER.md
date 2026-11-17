@@ -1,0 +1,1539 @@
+---
+title: "Tokyo 7th Sisters — Entity State Ledger"
+artifact_id: T7S_ENTITY_STATE_LEDGER
+artifact_type: entity_state_ledger
+series: Tokyo 7th Sisters
+generation: V1
+version: "11.163"
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: false
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes;9whole ManyMerryParty201510documents throughT7S_B0234 with actual prospective whole-consumer/entering gate and ordered complete case freezes;3whole independent Birthday portfolios throughT7S_B0235 with genuine prospective consumers/entering and ordered complete text/native/static case freezes;12additional whole independent Birthday portfolios throughT7S_B0236 with genuine prospective complete consumers/entering and actual ordered text/native/static freezes;12additional whole independent Birthday portfolios throughT7S_B0237 under the genuine prospective42image complete-consumer contract and actual ordered case freezes;12additional whole Birthday portfolios throughT7S_B0238 under actual prospective complete consumers and ordered freezes;9additional whole Birthday portfolios throughT7S_B0239 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0240 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0241 under actual prospective complete consumers and ordered freezes; complete3chapter Event family200240 throughT7S_B0242 under actual prospective consumers and ordered freezes; fifteen complete Event documents in three original five-chapter families200250/200260/200270 throughT7S_B0243 under genuine prospective complete consumers and ordered case/family freezes; fourteen complete Event documents in three original families200280/200290/200300 in5/4/5chapters throughT7S_B0244 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200310/200320/200330 in5/5/5chapters throughT7S_B0245 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200340/200350/200360 in5/5/5chapters throughT7S_B0246 under genuine prospective complete consumers and ordered case/family freezes; eleven complete Event documents in original families200370/200380/200390 in2/5/4chapters throughT7S_B0247 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200400/200410/200420 in5/4/6chapters throughT7S_B0248 under genuine prospective complete consumers and ordered case/family freezes; seven complete Event documents in original families200430/200440/200450 in2/1/4chapters throughT7S_B0249 under genuine prospective complete consumers and ordered case/family freezes; five complete Event documents in original families200460/200470/200480 in1/2/2chapters throughT7S_B0250 under genuine prospective complete consumers and ordered case/family freezes; eight complete Event documents in original families200490/200500/200510 in2/2/4chapters throughT7S_B0251 under genuine prospective complete consumers and ordered case/family freezes; three complete Event documents in original single-document families200520/200530/200540 throughT7S_B0252 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200550 throughT7S_B0253 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200560 throughT7S_B0254 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200570 throughT7S_B0255 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200580 throughT7S_B0256 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200590 throughT7S_B0257 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200600 throughT7S_B0258 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200610 throughT7S_B0259 under genuine prospective complete consumers and ordered case/family freezes; one complete original Event family200620 throughT7S_B0260 under genuine prospective complete consumers and ordered case/family freezes; all further non-Main/additional story and2053 semantic sources remain outside"
+architecture_lifecycle: EVOLVING
+created: 2026-09-09
+last_updated: 2026-11-14
+storage_representation: manifest_bound_components_v1
+storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
+logical_artifact_id: T7S_ENTITY_STATE_LEDGER
+
+---
+
+# Tokyo 7th Sisters entity state ledger
+
+Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
+
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 349 complete Intimacy primary documents across 49 family portfolios and all45complete independent Short messages throughB0232 (first3known-exposure, remaining42prospective), plus12complete Legend documents/6paired chapters throughB0233; prior exposure is retained. B0234adds the coherent9document ManyMerryParty family, including post-live reports and a later-read earlier live-day/remembered-school perspective; no exact Main chronology is inferred. B0235adds three independent Birthday portfolios: Haru receiving familiar celebration, Xiao choosing temporary respite while renewing training, and Monaka recognizing belonging within a continuing search. Their source/menu order supplies no common year or exact Main chronology. B0236adds twelve further independent Birthday portfolios: Mana, Rona, Honoka, Ei, Sisara, Hina, Nicole, Musubi, Shizuka, Kazumi, Hime and Kyoko. Gratitude can coexist with a request for preparation, refusal, embarrassment, grief, restrained thanks or a chosen exception. Named recipients and reports retain their exact case horizons; illustrations, costume gifts and unfinished future wishes do not supply new participants, assent or completed outcomes. Catalog order supplies no common year or cross-party cause. B0237 adds twelve further Birthday recipients, Shinju through Susu. Specific gratitude retains aptitude doubt, qualified rivalry, happy tears, active hosting, voluntary-welcome correction, remembered craft and play, conditional travel and parental attachment. Murasaki explicitly reports a previous-day Ferb celebration, without independently fixing its annual identity or a wider calendar; the earlier Ferb freeze remains. No request, gift depiction or future wish supplies an omitted answer or completed outcome. B0238 adds twelve Birthday portfolios, Saori through Rui, with particular recognition, qualified gratitude, bodily/self-dressing limits, chosen receiving/play, differentiated learning and unresolved futures. The twins remain distinct, represented figures/cake are not new actors, and overlapping graphic facets supply no extra causal chronology. Earlier Murasaki/Ferb history remains. B0239 adds the final nine Birthday portfolios, Yumeno through Miu. Particular care remains differentiated through correction, negotiated self-presentation, protective performance, chosen receiving and qualified gratitude. Later written Yamai/Saori adjudication is explicitly subsequent to both original freezes; Jersey, unsigned Memoru authors and anonymous S remain unresolved. No universal maturity or exact annual calendar is supplied. B0240 adds two whole Event portfolios, Sweet Seventh Days and its special. Date framing changes Rona’s valued company; a prepared meal makes care reciprocal while the supplement preserves stated objections beside personal reliance. Rona’s established Nicole/Coney knowledge is not first disclosed, and the special’s eating/taste remains later-known than the original first freeze. One exact non-dialogue ending voice carrier is unresolved; all138dialogue WAVs remain unheard. No readiness or exact Main calendar is supplied. B0241 adds independent NewYear/anniversary Event portfolios. Selective recollection, explicit alternative Player responses, reversed timetable reform and differentiated messages retain imperfect knowledge, objections and institutional costs. Player addressee and Coney agency-manager roles stay distinct; two exact command-only ending cues unresolved, all302dialogue plus2opening WAVs unheard. No exact calendar, runtime, readiness or fullAV claim. B0242 adds one complete three-chapter Event family. Differentiated lyric attempts, reciprocal judgment, selection and reported dream support renewed collective work without displayed finallyrics/live. Exact endingvo_special_107_140/P65 unresolved;143availableWAVs unheard. No exactcalendar/runtime/readiness/fullAV claim. B0243 adds three separate complete five-chapter Event families/15documents/562pages. Interview recognition preserves privacy/addressee objections;4U shared image preserves friction and one explicit YouthBpurchase;Kajika outing yields specific enjoyment and conditional care without a completed departure.419available WAVbindinginstances remain unheard;two exact non-dialogue gaps and two actualItemobjects are explicit. No exactcalendar/runtime/readiness/fullAV claim. B0244 adds three separate complete original Event families/14documents/417pages in5/4/5chapters. Ordinary-life recognition retains privacy/public-reach uncertainty;NI+CORA pressure/objections lead to bounded repair;distributed hip-hop teaching/care and reported success leave Ei agency unresolved. All283WAVbindings unheard;one exact command-only gap;noItem/Choices/InlineMovie. No exactcalendar/runtime/readiness/fullAV claim. B0245 adds15complete Event documents/674native pages in three original5/5/5families: chosen lady models, task-specific teaching, situated care and an unperformed live proposal. Source-explicit camp front/back continuity does not impose another common calendar. Qualified permission, attributed reports and reader/manager knowledge limits remain. All551WAVbindings unheard;selected Item/title presences reviewed;noChoices/InlineMovie/runtime/readiness/fullAV claim. B0246 adds15complete Event documents/579native pages in three original5/5/5families: differentiated service pleasure, camp planning/disagreement and shared party authorship. Cafe/party completion is reported; the camp candidate remains unperformed. Reports/hypotheses/objections retain holders;no cross-family time/cause edge.485availableWAVs unheard;5exactcommand-onlygaps,sixTitleinstances;Item/Choices/InlineMovieabsent;no readiness/fullAV/era promotion. B0247 adds11complete Event documents/550native pages in three original2/5/4families: collaboration/recognition and unresolvedHaru experience; Ferb/Yumeno musical appreciation with distinct romantic readings and explicit boundaries; contestedschoolwork,attributedreception and proposed4Ugathering. Reports/privatequestions/fantasy/objections/denials retain holders;no cross-familytime/cause.402availableWAVs unheard;9exact unresolved cues/10carriers,sixTitleinstances/oneItem;Choices/InlineMovieabsent;no readiness/fullAV/era promotion. B0248 adds15complete Event documents/854native pages in three original5/4/6families: sports preparation/support,LeSca making-of recording and Christmas preparation. Different contributions,camera/body boundaries,assigned roles,theme choice,reported resources and private interpretations retain holders and alternatives;no cross-familytime/cause.658availableWAVs unheard;3exact unresolved cues/4carriers,sixTitleinstances/oneItem;Choices/InlineMovie/Loopabsent;no readiness/fullAV/era promotion. B0249 adds7complete Event documents/492native pages in three original2/1/4families: Christmas gathering and aftermath,New Year repertoire discussion and the snow-family walk. Particular contribution/refusal,attributed public accounts,private thought and imagined appeal retain holders and alternatives;no cross-familytime/cause.421availableWAVs unheard;one exact Mimi P27 ellipsis cue unresolved,sixTitleinstances/14Items;Choices/InlineMovie/Loopabsent;no readiness/fullAV/era promotion. B0250 adds five complete Event documents/546 native pages in three original1/2/2families: anniversary thanks, LeSca joint practice and qualified4U rivalry. Named contributions, dissent, unequal knowledge, reports and unfinished futures retain source-local horizons;one explicitly named temporary contest collective is added, no permanent-band or identity promotion. Five complete documents in three families: 546 native pages, 486 written records, 60 command-only pages and 486 dialogue-voice pages were actually acquired through 94 bounded lossless text/native parts. All 195 selected sprite/object occurrences, 13 background occurrences and six title-asset occurrences were actually viewed or explicitly bound to exact earlier genuinely viewed bytes. The independent aggregate comparison reconstructs all 546 reviewed native objects and checks all 102 projection records: 60 complete command records and 42 nonstandard-field records. All 493 available current WAV occurrences remain UNHEARD, runtime UNOBSERVED and zero named current cue carriers are unresolved. Written text, native instructions and selected stills support this qualified account; no listening, watched choreography, objective musical judgment or readiness, monograph or era-release promotion is claimed. B0251 adds eight complete Event documents and three original2/2/4families: KARAKURI recognition, distributed post-live appraisal and LeSca reciprocal gift planning. Named initiative, reports, partial knowledge, graded assent and unfinished futures retain source-local horizons. No new person, unit, permanent membership or readiness promotion. B0251 covers eight complete Event documents in three original families of 2, 2 and 4 chapters, catalog 892–899: 632 native pages, 587 written TextAreas, 45 command-only pages, 479 dialogue-voice pages and 4,326 visual references. All 101 bounded text/native parts and three separate whole-family reconstructions were completed in the preserved order. The visual review covers 232 selected sprite/object instances across 119 distinct resources, 13 background instances across nine originals, and six title-image instances across four files, with genuine exact-byte reuse disclosed. All 490 available, distinct WAV bindings remain unheard. Command-only cue memory_0217_131 at 508021704:P54 is unresolved after a fresh registry and retained-bank probe; the strict failure and separately controlled case-only qualification remain preserved. That page has no TextArea, and all dialogue cues resolve. No Choice or InlineMovie occurs. The arguments use wording, native order and inspected stills under AV-D; performed delivery and runtime remain unreviewed, and no technical grade or readiness promotion follows. B0252 adds three complete single-document Event families: archive reception and privacy, a wanted late Christmas visit and adapted karuta with unresolved outcome. Named initiative, separate memories, reports, graded permission and unfinished futures retain source-local horizons. No new person, unit, permanent membership or readiness promotion. B0252 covers three complete Event documents in three original single-document families, catalog 900–902: 620 native pages, 514 written pages, 106 command pages and 502 written-page voice references. All 95 bounded text/native parts and 170 selected sprite/object instances, 18 original background instances and six title instances were actually reviewed. The selected resources comprise 139 distinct sprite/object resources, 14 distinct backgrounds and four distinct title images. All 504 available, distinct WAV bindings remain UNHEARD. Two exact unresolved carriers remain separately qualified: command-only memory_0218_172 at509022101:P207 and written Emoco interjection vo_ing3_053_01_01_180 at511022301:P105;501 of502 written-voice references resolve. No Choice or InlineMovie occurs; runtime and continuous motion are unobserved. Source-grounded narrative interpretation proceeds within those limits; performed AV, readiness, monograph maturity and era-release requirements are not promoted. B0253 adds one complete original six-chapter Event family: assumed illness, two particular care grievances and a backstage attention strategy. Named choice and reluctance, separate reports and media roleplay, public/backstage knowledge and source-local temporal frames remain differentiated. No new person,unit or readiness promotion. B0253 covers one complete original six-chapter Event family200550/catalog903–908:512native pages,434written,78command-only,299written voice carriers and3402native visual occurrences. All72bounded text/native parts and155case-selected sprite renditions across69unique resources,13background occurrences across9unique backgrounds and2title images were actually reviewed. All306distinct named WAV resources, including7non-dialogue subtitle/title carriers, are hash-bound UNHEARD with no unresolved current-family cue. Complete cases contain no Choice,InlineMovie,LoopSe orItem field. Runtime/continuous motion and acoustic performance remain unobserved. No new identity,unit,READY,monograph maturity or era release is promoted;2053closed. B0254 adds one complete original six-chapter Event family: unequal wants, shared effort and a qualified ending. Specific practical support coexists with pressure and substitution;private rival encouragement is not universally disclosed;Yumeno’s deferredshoot/protestedrepeatweek remains unresolved. No newperson,unit orreadiness promotion. B0254 covers one complete original six-chapter Event family200560/catalog909–914:640native pages,574written,66command-only,495written voice pages and4116native visual occurrences. All103bounded text/native parts were actually acquired and losslessly restored. Actual selected-static review covers257case sprite/object instances across142unique resources (141sprites and1communication object),12background instances across6unique originals and2title images.503voice-carrier pages resolve501distinct waveform hashes;allUNHEARD,including reused cue216 within chapter3 and249 across chapters3/4. Complete scripts have no Choice,InlineMovie orLoopSe field;the Item field in chapter1 is retained. Encoded effects and static art are not observed runtime or acoustic performance. No new identity,unit,READY,monograph maturity or era release is promoted;2053closed. B0255 adds one complete original six-chapter Event family: three incompatible private propositions,real care and interference,and a shared LeSca wish before specified disclosure. Member-authored coordinated work recovers while the false head premise,Player’s incomplete access and Coney’s unperformed gossip intention remain. No new person,unit orreadiness promotion. This complete original six-chapter Event family, NM-EVENT-200570 (catalog 915–920), contains 545 native pages: 464 written records and 81 command-only pages, with 363 dialogue-associated voice references and 4,834 visual-reference occurrences. All six documents were reviewed in order with a known-then exit before the next chapter and a separate whole-family causal and epistemic reconstruction. The entering state is B0254/SourceLock 12.163; this unit proposes B0255/12.164. Voice performance remains UNHEARD and runtime remains UNOBSERVED. The remaining 2034 release is not complete; 2053 is closed. B0256 adds complete original six-chapter Eventfamily200580: a demand for live-show rank becomes five heterogeneous tests. Explicit Haru-friend and Hina/Emoco-family-like acknowledgment coexists with an official KARAKURI win,contested pearl ruling and wager coda preserving renewed rivalry. Local Mitsuba,new Yumeno pen-name horizon and attributed acts/reports remain distinct. No new person,unit orreadiness promotion. Six complete chapters contain624 native pages,527 written turns,97 command-only pages,521 dialogue-voice carriers and5249 visual references. All selected120 sprite/object resources,5 backgrounds and2 title images were actually inspected across304/11/2 instances. All528 distinct named waveform resources remain UNHEARD across528 carriers; no runtime or performed-voice claim. Chapterwise knowledge boundaries, two different draw reasons, three shown quiz answers versus announced team10/10, local Haru/Mitsuba presentation and the newly acquired Yumeno pen-name link remain separate. No readiness,era-release or2053 promotion. Complete original Event/category2/root100010 family200590, catalog927–932, six documents516024801–516024806:809native/707written/102command-only pages,461dialogue-voice cues and6501visual references. Entry remains B0256/SourceLock12.165; completed closure proposes B0257/12.166. Each chapter retains its actual known-then boundary before whole-family interpretation. The local feud is publicly ended and all four are reported to have failed the audition; Matsuri leadership acceptance is unestablished. All468 named waveform carriers remainUNHEARD; runtimeUNOBSERVED. Catalog order does not fix exact dates or Main insertion;2053UNOPENED. B0258 closes the six complete documents of original Event family 200600, 姉妹ガールズバンド！～4Uの新弟子！？～の巻, catalog 933–938, at SourceLock 12.167 after the genuine B0257/12.166 entering state. All 693 native pages comprise 576 written records and 117 command-only pages, with 523 dialogue-voice carriers and 5,952 visual references. Each chapter was completely read and frozen before the next; the whole family was reconstructed after all six. Selected stills were actually reviewed. All 530 named voice resources remain unheard, and runtime remains unobserved. T7S_B0259 concerns Event/category2/root100010, original family200610, ナナスタ・聖なる夜の悪だくみの巻, catalog939–944 and episodes518026001–518026006 in the admitted Japanese offline witness T7S_GAME_OFFLINE_JA_R484, corpus c20260909-r484. The entering published analytical boundary is B0258/SourceLock12.167. The source receipt binds506native pages:434TextArea records,72command-only pages,396dialogue-voice occurrences and3318visual references. All six text/native packets were actually acquired in83bounded parts, and every chapter was frozen before the next chapter exposure. Selected stills, backgrounds and title assets were actually viewed as recorded separately for each chapter. All403named waveform resources—396dialogue and7non-dialogue title/family-title cues—remain unheard. The38text turns without a named original dialogue cue are Oosugi twice in chapter2 and twice in chapter5, and34Player turns in chapter6. No continuous audiovisual runtime was inspected. Textual and static findings remain distinct from proposed performed-voice extensions. Administrative authority metadata is not literary evidence.
+
+T7S_B0260 continues this ledger through the single complete New Year calligraphy case in original Event family NM-EVENT-200620. See the B0260 component route below. The review carries 244 native pages and directly inspected selected original stills. All 164 named source WAVs remain unheard, and continuous runtime is unobserved.
+
+Read the complete manifest-bound logical ledger before editing, including all ordered payload components; append stable history and patch current rows without changing unaffected bytes or IDs. This file owns current aggregate metadata and routing; each payload interval has one component owner. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
+
+## Current state
+
+`identity_routes = 112`; `character_states = 88`; `epistemic_states = 3142`; `directional_relationship_states = 2368`; `unit_states = 36`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA, T7S_B0080–T7S_B0181 i-n-g and 349 independent Intimacy documents across 49 complete portfolios through T7S_B0230 plus all45independent Short messages throughT7S_B0232 and12Legend documents throughT7S_B0233 plus9ManyMerryParty documents throughT7S_B0234 and48independent Birthday portfolios throughT7S_B0239 plus158Event documents in43original portfolios throughT7S_B0260, with separate chronology-qualified intervals and attributed representation/real-person states. UNIT0018receives a later name qualification, without rewriting its unnamed B0038horizon. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+
+## Typed record contract
+
+All records have stable ID, record type, witness/horizon, native and analytical identity references, supported interval, establishing event/reading, exact locators, confidence, current formulation, transition history and unresolved obligations.
+
+| Record type / ID prefix | Owned state |
+| --- | --- |
+| `IDENTITY_ROUTE` / `IDENTITY-0001` | Evidence-backed mapping between witness/master/native ID, literal alias and stable local subject; ambiguity, provenance and correction history |
+| `CHARACTER_STATE` / `CHAR-0001` | Development, goals/values, agency, coping, habits, constraints/resources, professional and public/private/stage roles; each conditioned by horizon |
+| `EPISTEMIC_STATE` / `KNOW-0001` | Proposition, knower, known/believed/misunderstood/unknown status, acquisition route/time, remembered history, reliability and uncertainty; reader knowledge separate |
+| `RELATIONSHIP_STATE` / `REL-0001` | Ordered subject→recipient, reciprocal counterpart link, roles, expectations, trust/dependence, information asymmetry, obligations, rupture/repair |
+| `UNIT_STATE` / `UNIT-0001` | Membership and roles by interval, coordination, leadership/authority, resources, shared identity, public image, internal tensions and inter-unit links |
+| `READINESS` / `READY-0001` | Subject/model/monograph version and horizon; independently recorded reconstruction readiness, monograph maturity, capabilities, decision evidence, audit and transition history |
+
+Evidence-backed local subject IDs use stable ASCII tokens selected after identity review, not guessed English names or resource hashes. Identity is separate from state, costume, era label or franchise witness. Group membership is time-indexed; publicity grouping is not automatically diegetic membership. Preserve literal `PLAYER`, compound speakers, role labels and unresolved names. A card's owner is not automatically a dialogue speaker.
+
+## Readiness and capability schema
+
+`reconstruction_readiness` uses only R0–R5 from the reconstruction protocol. `monograph_maturity` uses only `MONOGRAPH_NOT_READY`, `MONOGRAPH_READY_TEXTUAL`, `MONOGRAPH_MATURE` from the synthesis architecture. They are independent: neither advances the other, repository authority or the sequential gate. No readiness record is instantiated at bootstrap.
+
+Every readiness decision requires `subject_id`, `witness_id`, `state_horizon`, `artifact_version`, the two separate readiness/maturity values, `capabilities`, `evidence_locators`, `counterexamples`, `review_refs`, `unresolved_obligations`, `decision_reason`, `decision_date`, `previous_decision_id`, and `transition_scope`. If no monograph is justified, use `MONOGRAPH_NOT_READY`; no arbitrary maturity score or second registry is created.
+
+The capability fields are `textual_characterization`, `japanese_linguistic_voice`, `performed_voice`, `visual_identity`, `embodied_presentation`, `stage_identity`, `relationship_coverage`, `ordinary_life_coverage`, `chronology_coverage`. Each is an object with `scope`, `review_status`, `evidence_routes`, `limits`, `review_ref`. Status is `UNREVIEWED`, `PARTIAL`, `REVIEWED_WITH_BOUNDS`, `INSUFFICIENT_SOURCE`, or `NOT_APPLICABLE_WITH_REASON`. A capability score/sum cannot substitute for evidence. An available, unexamined visual/voice modality cannot be waived as non-applicable to monograph maturity.
+
+The current monograph declaration must match its ledger decision and scope. At textual readiness mark its integrated multimodal identity responsibility `PENDING_MULTIMODAL_MATURITY`. Mature status requires both representative visual and actual listened-to voice review, integration, counterexamples and passing audit under the architecture. Broadening scope reopens affected checks while retaining the prior bounded decision.
+
+
+Current correction: REL-1652 records Musubi's announced departure, with actual completion unestablished in503012803; [REV-0044](T7S_CLAIM_AND_EVIDENCE_LEDGER.md#rev-0044--revise-announced-departure-without-a-completed-exit) and the attributable B0244 erratum preserve the original wording and frozen reading.
+
+<!-- T7S ENTITY STATE COMPONENT ROUTES -->
+
+## Logical entity ledger and storage boundary
+
+The [manifest](T7S_ENTITY_STATE_LEDGER_MANIFEST.json) binds this owner prefix and the ordered components below. Reading this routing file alone does not read the complete entity ledger. Current state, prior annotations, readiness history and all stable IDs are retained in one disjoint logical payload. Physical storage changes do not admit a source, alter a record horizon, resolve an identity, or promote a model or monograph.
+
+| Component | Preserved migration interval | First heading |
+| --- | --- | --- |
+| [T7S_ENTITY_STATE_COMPONENT_001](T7S_ENTITY_STATE_COMPONENT_001.md) | Original bytes7138–374624 (end exclusive), exact payload | ## Current identity routes |
+| [T7S_ENTITY_STATE_COMPONENT_002](T7S_ENTITY_STATE_COMPONENT_002.md) | Original bytes374624–829500 (end exclusive), exact payload | ## B0100 chronology-qualified state annotations |
+| [T7S_ENTITY_STATE_COMPONENT_003](T7S_ENTITY_STATE_COMPONENT_003.md) | Original bytes829500–990668 (end exclusive), exact payload | ## B0168 child authorship, fallible interpretation and bounded adult knowledge |
+
+Original heading routes remain available below; each link opens the corresponding component heading. The wrapper maintains no second copy of the transferred rows or prose.
+
+<a id="current-identity-routes"></a>
+
+[Current identity routes](T7S_ENTITY_STATE_COMPONENT_001.md#current-identity-routes)
+
+<a id="i-n-g-identity-routes-added-at-t7s_b0080t7s_b0099-close"></a>
+
+[i-n-g identity routes added at T7S_B0080–T7S_B0099 close](T7S_ENTITY_STATE_COMPONENT_001.md#i-n-g-identity-routes-added-at-t7s_b0080t7s_b0099-close)
+
+<a id="current-character-states"></a>
+
+[Current character states](T7S_ENTITY_STATE_COMPONENT_001.md#current-character-states)
+
+<a id="episode-60-current-state-annotations-to-existing-stable-ids"></a>
+
+[Episode 6.0 current-state annotations to existing stable IDs](T7S_ENTITY_STATE_COMPONENT_001.md#episode-60-current-state-annotations-to-existing-stable-ids)
+
+<a id="episode-nanasuta-current-state-annotations-to-existing-stable-ids"></a>
+
+[EPISODE NANASUTA current-state annotations to existing stable IDs](T7S_ENTITY_STATE_COMPONENT_001.md#episode-nanasuta-current-state-annotations-to-existing-stable-ids)
+
+<a id="first-i-n-g-tranche-character-state-additions"></a>
+
+[First i-n-g tranche character-state additions](T7S_ENTITY_STATE_COMPONENT_001.md#first-i-n-g-tranche-character-state-additions)
+
+<a id="first-i-n-g-tranche-annotations-to-existing-character-states"></a>
+
+[First i-n-g tranche annotations to existing character states](T7S_ENTITY_STATE_COMPONENT_001.md#first-i-n-g-tranche-annotations-to-existing-character-states)
+
+<a id="current-epistemic-states"></a>
+
+[Current epistemic states](T7S_ENTITY_STATE_COMPONENT_001.md#current-epistemic-states)
+
+<a id="first-i-n-g-tranche-epistemic-states"></a>
+
+[First i-n-g tranche epistemic states](T7S_ENTITY_STATE_COMPONENT_001.md#first-i-n-g-tranche-epistemic-states)
+
+<a id="current-directional-relationship-states"></a>
+
+[Current directional relationship states](T7S_ENTITY_STATE_COMPONENT_001.md#current-directional-relationship-states)
+
+<a id="first-i-n-g-tranche-directional-relationship-states"></a>
+
+[First i-n-g tranche directional relationship states](T7S_ENTITY_STATE_COMPONENT_001.md#first-i-n-g-tranche-directional-relationship-states)
+
+<a id="current-unit-and-institution-states"></a>
+
+[Current unit and institution states](T7S_ENTITY_STATE_COMPONENT_001.md#current-unit-and-institution-states)
+
+<a id="readiness-and-transition-history"></a>
+
+[Readiness and transition history](T7S_ENTITY_STATE_COMPONENT_001.md#readiness-and-transition-history)
+
+<a id="ready-0001--春日部ハル"></a>
+
+[`READY-0001` — 春日部ハル](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0001--春日部ハル)
+
+<a id="ready-0002--天堂寺ムスビ"></a>
+
+[`READY-0002` — 天堂寺ムスビ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0002--天堂寺ムスビ)
+
+<a id="ready-0003--角森ロナ"></a>
+
+[`READY-0003` — 角森ロナ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0003--角森ロナ)
+
+<a id="ready-0004--野ノ原ヒメ"></a>
+
+[`READY-0004` — 野ノ原ヒメ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0004--野ノ原ヒメ)
+
+<a id="ready-0005--芹沢モモカ"></a>
+
+[`READY-0005` — 芹沢モモカ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0005--芹沢モモカ)
+
+<a id="ready-0006--臼田スミレ"></a>
+
+[`READY-0006` — 臼田スミレ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0006--臼田スミレ)
+
+<a id="ready-0007--神城スイ"></a>
+
+[`READY-0007` — 神城スイ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0007--神城スイ)
+
+<a id="ready-0008--久遠寺シズカ"></a>
+
+[`READY-0008` — 久遠寺シズカ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0008--久遠寺シズカ)
+
+<a id="ready-0009--アレサンドラスース"></a>
+
+[`READY-0009` — アレサンドラ・スース](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0009--アレサンドラスース)
+
+<a id="ready-0010--晴海サワラ"></a>
+
+[`READY-0010` — 晴海サワラ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0010--晴海サワラ)
+
+<a id="ready-0011--晴海カジカ"></a>
+
+[`READY-0011` — 晴海カジカ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0011--晴海カジカ)
+
+<a id="ready-0012--晴海シンジュ"></a>
+
+[`READY-0012` — 晴海シンジュ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0012--晴海シンジュ)
+
+<a id="ready-0013--九条ウメ"></a>
+
+[`READY-0013` — 九条ウメ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0013--九条ウメ)
+
+<a id="ready-0014--鰐淵エモコ"></a>
+
+[`READY-0014` — 鰐淵エモコ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0014--鰐淵エモコ)
+
+<a id="ready-0015--佐伯ヒナ"></a>
+
+[`READY-0015` — 佐伯ヒナ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0015--佐伯ヒナ)
+
+<a id="ready-0016--空栗ヒトハ"></a>
+
+[`READY-0016` — 空栗ヒトハ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0016--空栗ヒトハ)
+
+<a id="ready-0017--空栗フタバ"></a>
+
+[`READY-0017` — 空栗フタバ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0017--空栗フタバ)
+
+<a id="ready-0018--七咲ニコル--六咲コニー"></a>
+
+[`READY-0018` — 七咲ニコル / 六咲コニー](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0018--七咲ニコル--六咲コニー)
+
+<a id="ready-0019--羽生田ミト"></a>
+
+[`READY-0019` — 羽生田ミト](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0019--羽生田ミト)
+
+<a id="ready-0020--御園尾マナ"></a>
+
+[`READY-0020` — 御園尾マナ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0020--御園尾マナ)
+
+<a id="ready-0021--若王子ルイ"></a>
+
+[`READY-0021` — 若王子ルイ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0021--若王子ルイ)
+
+<a id="ready-0022--遊佐メモル"></a>
+
+[`READY-0022` — 遊佐メモル](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0022--遊佐メモル)
+
+<a id="ready-0023--寿クルト"></a>
+
+[`READY-0023` — 寿クルト](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0023--寿クルト)
+
+<a id="ready-0024--有栖シラユキ"></a>
+
+[`READY-0024` — 有栖シラユキ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0024--有栖シラユキ)
+
+<a id="ready-0025--星柿マノン"></a>
+
+[`READY-0025` — 星柿マノン](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0025--星柿マノン)
+
+<a id="ready-0026--ターシャロマノフスキー"></a>
+
+[`READY-0026` — ターシャ・ロマノフスキー](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0026--ターシャロマノフスキー)
+
+<a id="ready-0027--上杉ウエバスキョーコ"></a>
+
+[`READY-0027` — 上杉・ウエバス・キョーコ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0027--上杉ウエバスキョーコ)
+
+<a id="ready-0028--瀬戸ファーブ"></a>
+
+[`READY-0028` — 瀬戸ファーブ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0028--瀬戸ファーブ)
+
+<a id="ready-0029--桂木カヅミ"></a>
+
+[`READY-0029` — 桂木カヅミ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0029--桂木カヅミ)
+
+<a id="character-discovery-boundary"></a>
+
+[Character discovery boundary](T7S_ENTITY_STATE_COMPONENT_001.md#character-discovery-boundary)
+
+<a id="b0100-chronology-qualified-state-annotations"></a>
+
+[B0100 chronology-qualified state annotations](T7S_ENTITY_STATE_COMPONENT_002.md#b0100-chronology-qualified-state-annotations)
+
+<a id="b0101-chronology-qualified-entity-additions"></a>
+
+[B0101 chronology-qualified entity additions](T7S_ENTITY_STATE_COMPONENT_002.md#b0101-chronology-qualified-entity-additions)
+
+<a id="b0102-chronology-qualified-entity-additions"></a>
+
+[B0102 chronology-qualified entity additions](T7S_ENTITY_STATE_COMPONENT_002.md#b0102-chronology-qualified-entity-additions)
+
+<a id="b0103-actor-local-nightmare-state-annotations"></a>
+
+[B0103 actor-local nightmare-state annotations](T7S_ENTITY_STATE_COMPONENT_002.md#b0103-actor-local-nightmare-state-annotations)
+
+<a id="b0104-private-authorship-and-peer-access-annotations"></a>
+
+[B0104 private-authorship and peer-access annotations](T7S_ENTITY_STATE_COMPONENT_002.md#b0104-private-authorship-and-peer-access-annotations)
+
+<a id="b0102-stable-id-correction-receipt"></a>
+
+[B0102 stable-ID correction receipt](T7S_ENTITY_STATE_COMPONENT_002.md#b0102-stable-id-correction-receipt)
+
+<a id="b0105-xiao-identity-training-and-relational-care"></a>
+
+[B0105 Xiao identity, training and relational care](T7S_ENTITY_STATE_COMPONENT_002.md#b0105-xiao-identity-training-and-relational-care)
+
+<a id="b0106-haru-peers-and-local-public-work-state"></a>
+
+[B0106 Haru, peers and local public-work state](T7S_ENTITY_STATE_COMPONENT_002.md#b0106-haru-peers-and-local-public-work-state)
+
+<a id="b0107-musubi-actor-local-consent-and-uncertainty"></a>
+
+[B0107 Musubi actor-local consent and uncertainty](T7S_ENTITY_STATE_COMPONENT_002.md#b0107-musubi-actor-local-consent-and-uncertainty)
+
+<a id="b0108-rona-solo-agency-and-actor-local-safety-knowledge"></a>
+
+[B0108 Rona solo agency and actor-local safety knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0108-rona-solo-agency-and-actor-local-safety-knowledge)
+
+<a id="b0109-hime-household-care-and-reciprocal-jealousy"></a>
+
+[B0109 Hime household care and reciprocal jealousy](T7S_ENTITY_STATE_COMPONENT_002.md#b0109-hime-household-care-and-reciprocal-jealousy)
+
+<a id="b0110-momoka-screen-persona-and-knowledge-of-the-edit"></a>
+
+[B0110 Momoka screen persona and knowledge of the edit](T7S_ENTITY_STATE_COMPONENT_002.md#b0110-momoka-screen-persona-and-knowledge-of-the-edit)
+
+<a id="b0111-sumire-art-possibility-and-actor-local-knowledge"></a>
+
+[B0111 Sumire art possibility and actor-local knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0111-sumire-art-possibility-and-actor-local-knowledge)
+
+<a id="b0112-sui-health-knowledge-and-hime-shop-load"></a>
+
+[B0112 Sui health knowledge and Hime shop load](T7S_ENTITY_STATE_COMPONENT_002.md#b0112-sui-health-knowledge-and-hime-shop-load)
+
+<a id="b0113-shizuka-household-scale-and-harumi-shop-knowledge"></a>
+
+[B0113 Shizuka household scale and Harumi shop knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0113-shizuka-household-scale-and-harumi-shop-knowledge)
+
+<a id="b0114-suss-school-effort-and-contingent-access-boundary"></a>
+
+[B0114 Suss school effort and contingent access boundary](T7S_ENTITY_STATE_COMPONENT_002.md#b0114-suss-school-effort-and-contingent-access-boundary)
+
+<a id="b0115-sawara-choice-and-production-expectations"></a>
+
+[B0115 Sawara choice and production expectations](T7S_ENTITY_STATE_COMPONENT_002.md#b0115-sawara-choice-and-production-expectations)
+
+<a id="b0116-kajika-staged-role-felt-danger-and-museum-casting"></a>
+
+[B0116 Kajika staged role, felt danger and museum casting](T7S_ENTITY_STATE_COMPONENT_002.md#b0116-kajika-staged-role-felt-danger-and-museum-casting)
+
+<a id="b0117-shinju-age-language-and-openly-chosen-interests"></a>
+
+[B0117 Shinju age, language and openly chosen interests](T7S_ENTITY_STATE_COMPONENT_002.md#b0117-shinju-age-language-and-openly-chosen-interests)
+
+<a id="b0118-tomoe-protection-shared-song-and-overload"></a>
+
+[B0118 Tomoe protection, shared song and overload](T7S_ENTITY_STATE_COMPONENT_002.md#b0118-tomoe-protection-shared-song-and-overload)
+
+<a id="b0119-middle-school-live-madokas-nearer-leadership-and-saori-risk"></a>
+
+[B0119 middle-school live, Madoka's nearer leadership and Saori risk](T7S_ENTITY_STATE_COMPONENT_002.md#b0119-middle-school-live-madokas-nearer-leadership-and-saori-risk)
+
+<a id="b0120-ayumus-learned-register-teachers-and-pseudo-service-relation"></a>
+
+[B0120 Ayumu's learned register, teachers and pseudo-service relation](T7S_ENTITY_STATE_COMPONENT_002.md#b0120-ayumus-learned-register-teachers-and-pseudo-service-relation)
+
+<a id="b0121-kyokos-informed-choice-and-relational-support"></a>
+
+[B0121 Kyoko's informed choice and relational support](T7S_ENTITY_STATE_COMPONENT_002.md#b0121-kyokos-informed-choice-and-relational-support)
+
+<a id="b0122-honokas-role-choice-peer-coaching-and-intrusion"></a>
+
+[B0122 Honoka's role-choice, peer coaching and intrusion](T7S_ENTITY_STATE_COMPONENT_002.md#b0122-honokas-role-choice-peer-coaching-and-intrusion)
+
+<a id="b0123-renas-chosen-romantic-boundary-and-group-knowledge"></a>
+
+[B0123 Rena's chosen romantic boundary and group knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0123-renas-chosen-romantic-boundary-and-group-knowledge)
+
+<a id="b0124-mimis-cover-and-bounded-reciprocal-help"></a>
+
+[B0124 Mimi's cover and bounded reciprocal help](T7S_ENTITY_STATE_COMPONENT_002.md#b0124-mimis-cover-and-bounded-reciprocal-help)
+
+<a id="b0125-ferbs-instrument-boundary-and-peer-discovery"></a>
+
+[B0125 Ferb's instrument boundary and peer discovery](T7S_ENTITY_STATE_COMPONENT_002.md#b0125-ferbs-instrument-boundary-and-peer-discovery)
+
+<a id="b0126-chachas-coercive-detection-and-saoris-return"></a>
+
+[B0126 Chacha's coercive detection and Saori's return](T7S_ENTITY_STATE_COMPONENT_002.md#b0126-chachas-coercive-detection-and-saoris-return)
+
+<a id="b0127-mius-friendship-information-gap-and-team-repair"></a>
+
+[B0127 Miu's friendship information gap and team repair](T7S_ENTITY_STATE_COMPONENT_002.md#b0127-mius-friendship-information-gap-and-team-repair)
+
+<a id="b0128-monakas-peer-access-and-school-life-visibility"></a>
+
+[B0128 Monaka's peer access and school-life visibility](T7S_ENTITY_STATE_COMPONENT_002.md#b0128-monakas-peer-access-and-school-life-visibility)
+
+<a id="b0129-eis-scoped-participation-and-recording-knowledge-gap"></a>
+
+[B0129 Ei's scoped participation and recording knowledge gap](T7S_ENTITY_STATE_COMPONENT_002.md#b0129-eis-scoped-participation-and-recording-knowledge-gap)
+
+<a id="b0130-manons-outing-and-actor-specific-care-knowledge"></a>
+
+[B0130 Manon's outing and actor-specific care knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0130-manons-outing-and-actor-specific-care-knowledge)
+
+<a id="b0131-yumenos-memory-state-and-himes-scoped-choices"></a>
+
+[B0131 Yumeno's memory state and Hime's scoped choices](T7S_ENTITY_STATE_COMPONENT_002.md#b0131-yumenos-memory-state-and-himes-scoped-choices)
+
+<a id="b0132-miwakos-escortfan-roles-and-peer-reception"></a>
+
+[B0132 Miwako's escort/fan roles and peer reception](T7S_ENTITY_STATE_COMPONENT_002.md#b0132-miwakos-escortfan-roles-and-peer-reception)
+
+<a id="b0133-tashas-recognition-request-and-peer-mediation"></a>
+
+[B0133 Tasha's recognition request and peer mediation](T7S_ENTITY_STATE_COMPONENT_002.md#b0133-tashas-recognition-request-and-peer-mediation)
+
+<a id="b0134-shisara-tomoe-and-distributed-stage-work"></a>
+
+[B0134 Shisara, Tomoe and distributed stage work](T7S_ENTITY_STATE_COMPONENT_002.md#b0134-shisara-tomoe-and-distributed-stage-work)
+
+<a id="b0135-jedah-and-the-younger-teachers"></a>
+
+[B0135 Jedah and the younger teachers](T7S_ENTITY_STATE_COMPONENT_002.md#b0135-jedah-and-the-younger-teachers)
+
+<a id="b0136-matsuris-observer-momokas-frame-and-affected-workers"></a>
+
+[B0136 Matsuri's observer, Momoka's frame and affected workers](T7S_ENTITY_STATE_COMPONENT_002.md#b0136-matsuris-observer-momokas-frame-and-affected-workers)
+
+<a id="b0137-rishuris-creative-place-and-suis-withheld-loss"></a>
+
+[B0137 Rishuri's creative place and Sui's withheld loss](T7S_ENTITY_STATE_COMPONENT_002.md#b0137-rishuris-creative-place-and-suis-withheld-loss)
+
+<a id="b0138-saori-dog-walking-child-sawara-and-coney"></a>
+
+[B0138 Saori, dog-walking child, Sawara and Coney](T7S_ENTITY_STATE_COMPONENT_002.md#b0138-saori-dog-walking-child-sawara-and-coney)
+
+<a id="b0139-shirayukis-leadership-one-live-unit-and-hidden-care"></a>
+
+[B0139 Shirayuki's leadership, one-live unit and hidden care](T7S_ENTITY_STATE_COMPONENT_002.md#b0139-shirayukis-leadership-one-live-unit-and-hidden-care)
+
+<a id="b0140-murasakis-relational-voice-and-school-audience-boundary"></a>
+
+[B0140 Murasaki's relational voice and school-audience boundary](T7S_ENTITY_STATE_COMPONENT_002.md#b0140-murasakis-relational-voice-and-school-audience-boundary)
+
+<a id="b0141-makotos-professional-pleasure-and-sumires-local-peer-bond"></a>
+
+[B0141 Makoto's professional pleasure and Sumire's local peer bond](T7S_ENTITY_STATE_COMPONENT_002.md#b0141-makotos-professional-pleasure-and-sumires-local-peer-bond)
+
+<a id="b0142-kazumimurasaki-work-family-shop-and-task-boundary"></a>
+
+[B0142 Kazumi/Murasaki work, family shop and task boundary](T7S_ENTITY_STATE_COMPONENT_002.md#b0142-kazumimurasaki-work-family-shop-and-task-boundary)
+
+<a id="b0143-xiaos-role-work-mentors-and-player-contact-boundary"></a>
+
+[B0143 Xiao's role work, mentors and Player contact boundary](T7S_ENTITY_STATE_COMPONENT_002.md#b0143-xiaos-role-work-mentors-and-player-contact-boundary)
+
+<a id="b0144-harus-peer-detours-and-stage-readiness-limit"></a>
+
+[B0144 Haru's peer detours and stage-readiness limit](T7S_ENTITY_STATE_COMPONENT_002.md#b0144-harus-peer-detours-and-stage-readiness-limit)
+
+<a id="b0145-musubis-institutional-and-audience-facing-state"></a>
+
+[B0145 Musubi's institutional and audience-facing state](T7S_ENTITY_STATE_COMPONENT_002.md#b0145-musubis-institutional-and-audience-facing-state)
+
+<a id="b0146-rona-chapter-local-trainee-and-nonrecruitment"></a>
+
+[B0146 Rona, chapter-local trainee and nonrecruitment](T7S_ENTITY_STATE_COMPONENT_002.md#b0146-rona-chapter-local-trainee-and-nonrecruitment)
+
+<a id="b0147-hime-shizuka-and-the-false-cousin-presentation"></a>
+
+[B0147 Hime, Shizuka and the false-cousin presentation](T7S_ENTITY_STATE_COMPONENT_002.md#b0147-hime-shizuka-and-the-false-cousin-presentation)
+
+<a id="b0148-momokas-trading-care-network-and-information-limits"></a>
+
+[B0148 Momoka's trading, care network and information limits](T7S_ENTITY_STATE_COMPONENT_002.md#b0148-momokas-trading-care-network-and-information-limits)
+
+<a id="b0149-sumires-work-distress-and-reciprocal-attention"></a>
+
+[B0149 Sumire's work, distress and reciprocal attention](T7S_ENTITY_STATE_COMPONENT_002.md#b0149-sumires-work-distress-and-reciprocal-attention)
+
+<a id="b0150-sui-and-chapter-local-masaru"></a>
+
+[B0150 Sui and chapter-local Masaru](T7S_ENTITY_STATE_COMPONENT_002.md#b0150-sui-and-chapter-local-masaru)
+
+<a id="b0151-shizukas-name-group-consultation-and-sponsor-opacity"></a>
+
+[B0151 Shizuka's name, group consultation and sponsor opacity](T7S_ENTITY_STATE_COMPONENT_002.md#b0151-shizukas-name-group-consultation-and-sponsor-opacity)
+
+<a id="b0152-susu-peers-and-the-named-visiting-company"></a>
+
+[B0152 Susu, peers and the named visiting company](T7S_ENTITY_STATE_COMPONENT_002.md#b0152-susu-peers-and-the-named-visiting-company)
+
+<a id="b0153-sawara-the-player-and-ad-hoc-workplace-cover"></a>
+
+[B0153 Sawara, the Player and ad hoc workplace cover](T7S_ENTITY_STATE_COMPONENT_002.md#b0153-sawara-the-player-and-ad-hoc-workplace-cover)
+
+<a id="b0154-kajikas-visibility-and-letter-access"></a>
+
+[B0154 Kajika's visibility and letter access](T7S_ENTITY_STATE_COMPONENT_002.md#b0154-kajikas-visibility-and-letter-access)
+
+<a id="b0155-shinju-and-an-unpromoted-kerosuke-figure"></a>
+
+[B0155 Shinju and an unpromoted Kerosuke figure](T7S_ENTITY_STATE_COMPONENT_002.md#b0155-shinju-and-an-unpromoted-kerosuke-figure)
+
+<a id="b0156-tomoes-song-friend-and-collaborative-support"></a>
+
+[B0156 Tomoe's song, friend and collaborative support](T7S_ENTITY_STATE_COMPONENT_002.md#b0156-tomoes-song-friend-and-collaborative-support)
+
+<a id="b0157-madoka-as-performer-and-fictional-kanna"></a>
+
+[B0157 Madoka as performer and fictional Kanna](T7S_ENTITY_STATE_COMPONENT_002.md#b0157-madoka-as-performer-and-fictional-kanna)
+
+<a id="b0158-ayumus-care-ensemble-and-speech-phenomenon"></a>
+
+[B0158 Ayumu's care, ensemble and speech phenomenon](T7S_ENTITY_STATE_COMPONENT_002.md#b0158-ayumus-care-ensemble-and-speech-phenomenon)
+
+<a id="b0159-kyoko-her-offscreen-mother-and-chosen-support"></a>
+
+[B0159 Kyoko, her offscreen mother and chosen support](T7S_ENTITY_STATE_COMPONENT_002.md#b0159-kyoko-her-offscreen-mother-and-chosen-support)
+
+<a id="b0160-honokas-teaching-agency-and-supported-nervousness"></a>
+
+[B0160 Honoka's teaching agency and supported nervousness](T7S_ENTITY_STATE_COMPONENT_002.md#b0160-honokas-teaching-agency-and-supported-nervousness)
+
+<a id="b0161-renas-plural-commitments-and-qualified-peer-support"></a>
+
+[B0161 Rena's plural commitments and qualified peer support](T7S_ENTITY_STATE_COMPONENT_002.md#b0161-renas-plural-commitments-and-qualified-peer-support)
+
+<a id="b0162-effort-behind-mimis-competence-and-peers-partial-understanding"></a>
+
+[B0162 effort behind Mimi's competence and peers' partial understanding](T7S_ENTITY_STATE_COMPONENT_002.md#b0162-effort-behind-mimis-competence-and-peers-partial-understanding)
+
+<a id="b0163-creative-choice-collaborator-boundaries-and-actor-local-knowledge"></a>
+
+[B0163 creative choice, collaborator boundaries and actor-local knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0163-creative-choice-collaborator-boundaries-and-actor-local-knowledge)
+
+<a id="b0164-admiration-belonging-and-actor-local-farewell-knowledge"></a>
+
+[B0164 admiration, belonging and actor-local farewell knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0164-admiration-belonging-and-actor-local-farewell-knowledge)
+
+<a id="b0165-mius-reasons-for-trust-and-actor-local-preparation-knowledge"></a>
+
+[B0165 Miu's reasons for trust and actor-local preparation knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0165-mius-reasons-for-trust-and-actor-local-preparation-knowledge)
+
+<a id="b0166-recipient-local-belonging-work-inquiry-and-mediated-family-knowledge"></a>
+
+[B0166 recipient-local belonging, work inquiry and mediated family knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0166-recipient-local-belonging-work-inquiry-and-mediated-family-knowledge)
+
+<a id="b0167-actor-local-clothing-values-requested-help-and-asymmetric-disclosure"></a>
+
+[B0167 actor-local clothing values, requested help and asymmetric disclosure](T7S_ENTITY_STATE_COMPONENT_002.md#b0167-actor-local-clothing-values-requested-help-and-asymmetric-disclosure)
+
+<a id="b0168-child-authorship-fallible-interpretation-and-bounded-adult-knowledge"></a>
+
+[B0168 child authorship, fallible interpretation and bounded adult knowledge](T7S_ENTITY_STATE_COMPONENT_003.md#b0168-child-authorship-fallible-interpretation-and-bounded-adult-knowledge)
+
+<a id="b0169-scenario-making-corrective-replies-and-bounded-observer-knowledge"></a>
+
+[B0169 scenario-making, corrective replies and bounded observer knowledge](T7S_ENTITY_STATE_COMPONENT_003.md#b0169-scenario-making-corrective-replies-and-bounded-observer-knowledge)
+
+<a id="b0170-role-vulnerability-unequal-care-and-differentiated-morning-knowledge"></a>
+
+[B0170 role vulnerability, unequal care and differentiated morning knowledge](T7S_ENTITY_STATE_COMPONENT_003.md#b0170-role-vulnerability-unequal-care-and-differentiated-morning-knowledge)
+
+<a id="b0171-additive-family-care-authorial-limits-and-asymmetrical-knowledge"></a>
+
+[B0171 additive family care, authorial limits and asymmetrical knowledge](T7S_ENTITY_STATE_COMPONENT_003.md#b0171-additive-family-care-authorial-limits-and-asymmetrical-knowledge)
+
+<a id="b0172-chosen-present-partial-rivalry-repair-and-unequal-knowledge"></a>
+
+[B0172 chosen present, partial rivalry repair and unequal knowledge](T7S_ENTITY_STATE_COMPONENT_003.md#b0172-chosen-present-partial-rivalry-repair-and-unequal-knowledge)
+
+<a id="b0173-wanted-work-corrected-motive-and-intended-family-spectators"></a>
+
+[B0173 wanted work, corrected motive and intended family spectators](T7S_ENTITY_STATE_COMPONENT_003.md#b0173-wanted-work-corrected-motive-and-intended-family-spectators)
+
+<a id="b0174-game-leadership-novice-care-and-shared-limits"></a>
+
+[B0174 game leadership, novice care and shared limits](T7S_ENTITY_STATE_COMPONENT_003.md#b0174-game-leadership-novice-care-and-shared-limits)
+
+<a id="b0175-care-shared-independence-and-recipient-room"></a>
+
+[B0175 care, shared independence and recipient room](T7S_ENTITY_STATE_COMPONENT_003.md#b0175-care-shared-independence-and-recipient-room)
+
+The active component also owns the subsequent reviewed append through T7S_B0176. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0176-reciprocal-caution-and-shared-protection"></a>
+
+[B0176 reciprocal caution and shared protection](T7S_ENTITY_STATE_COMPONENT_003.md#b0176-reciprocal-caution-and-shared-protection)
+
+The active component also owns the subsequent reviewed append through T7S_B0177. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0177-family-taste-and-the-work-of-making-another-home"></a>
+
+[B0177 family taste and the work of making another home](T7S_ENTITY_STATE_COMPONENT_003.md#b0177-family-taste-and-the-work-of-making-another-home)
+
+The active component also owns the subsequent reviewed append through T7S_B0178. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0178-reciprocal-musical-directions-and-bounded-capacity"></a>
+
+[B0178 reciprocal musical directions and bounded capacity](T7S_ENTITY_STATE_COMPONENT_003.md#b0178-reciprocal-musical-directions-and-bounded-capacity)
+
+The active component also owns the subsequent reviewed append through T7S_B0179. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0179-plural-commitments-service-boundaries-and-the-misleading-apparent-fact"></a>
+
+[B0179 plural commitments, service boundaries and the misleading apparent fact](T7S_ENTITY_STATE_COMPONENT_003.md#b0179-plural-commitments-service-boundaries-and-the-misleading-apparent-fact)
+
+The active component also owns the subsequent reviewed append through T7S_B0180. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0180-research-viewer-response-and-shared-developmental-possibility"></a>
+
+[B0180 research, viewer response and shared developmental possibility](T7S_ENTITY_STATE_COMPONENT_003.md#b0180-research-viewer-response-and-shared-developmental-possibility)
+
+The active component also owns the subsequent reviewed append through T7S_B0181. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0181-fear-reciprocal-effort-and-qualified-communication"></a>
+
+[B0181 fear, reciprocal effort and qualified communication](T7S_ENTITY_STATE_COMPONENT_003.md#b0181-fear-reciprocal-effort-and-qualified-communication)
+
+The active component also owns the subsequent reviewed append through T7S_B0182. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0182-sisaras-appraisal-shared-space-and-intended-care"></a>
+
+[B0182 Sisara's appraisal, shared space and intended care](T7S_ENTITY_STATE_COMPONENT_003.md#b0182-sisaras-appraisal-shared-space-and-intended-care)
+
+The active component also owns the subsequent reviewed append through T7S_B0183. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0183-suis-recognition-care-and-bodily-limits"></a>
+
+[B0183 Sui's recognition, care and bodily limits](T7S_ENTITY_STATE_COMPONENT_003.md#b0183-suis-recognition-care-and-bodily-limits)
+
+The active component also owns the subsequent reviewed append through T7S_B0184. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0184-rona-reciprocal-care-and-retained-workplace"></a>
+
+[B0184 Rona, reciprocal care and retained workplace](T7S_ENTITY_STATE_COMPONENT_003.md#b0184-rona-reciprocal-care-and-retained-workplace)
+
+The active component also owns the subsequent reviewed append through T7S_B0185. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0185-haru-ordinary-initiative-and-renewed-aspiration"></a>
+
+[B0185 Haru, ordinary initiative and renewed aspiration](T7S_ENTITY_STATE_COMPONENT_003.md#b0185-haru-ordinary-initiative-and-renewed-aspiration)
+
+The active component also owns the subsequent reviewed append through T7S_B0186. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0186-kyokos-bounded-requests-craft-and-support"></a>
+
+[B0186 Kyoko's bounded requests, craft and support](T7S_ENTITY_STATE_COMPONENT_003.md#b0186-kyokos-bounded-requests-craft-and-support)
+
+The active component also owns the subsequent reviewed append through T7S_B0187. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0187-shizuka-learning-and-situated-initiative"></a>
+
+[B0187 Shizuka, learning and situated initiative](T7S_ENTITY_STATE_COMPONENT_003.md#b0187-shizuka-learning-and-situated-initiative)
+
+The active component also owns the subsequent reviewed append through T7S_B0188. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0188-hime-chosen-presentation-and-situated-reciprocity"></a>
+
+[B0188 Hime, chosen presentation and situated reciprocity](T7S_ENTITY_STATE_COMPONENT_003.md#b0188-hime-chosen-presentation-and-situated-reciprocity)
+
+The active component also owns the subsequent reviewed append through T7S_B0189. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0189-mimis-wants-fallibility-and-qualified-relational-address"></a>
+
+[B0189 Mimi's wants, fallibility and qualified relational address](T7S_ENTITY_STATE_COMPONENT_003.md#b0189-mimis-wants-fallibility-and-qualified-relational-address)
+
+The active component also owns the subsequent reviewed append through T7S_B0190. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0190-ferb-musical-commitments-and-expressed-personal-attention"></a>
+
+[B0190 Ferb, musical commitments and expressed personal attention](T7S_ENTITY_STATE_COMPONENT_003.md#b0190-ferb-musical-commitments-and-expressed-personal-attention)
+
+The active component also owns the subsequent reviewed append through T7S_B0191. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0191-momokas-reported-preferences-particular-address-and-peer-scopes"></a>
+
+[B0191 Momoka's reported preferences, particular address and peer scopes](T7S_ENTITY_STATE_COMPONENT_003.md#b0191-momokas-reported-preferences-particular-address-and-peer-scopes)
+
+The active component also owns the subsequent reviewed append through T7S_B0192. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0192-nicoles-audience-facing-states-and-existing-coney-route"></a>
+
+[B0192 Nicole's audience-facing states and existing Coney route](T7S_ENTITY_STATE_COMPONENT_003.md#b0192-nicoles-audience-facing-states-and-existing-coney-route)
+
+The active component also owns the subsequent reviewed append through T7S_B0193. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0193-mitos-artistic-attention-local-choices-and-peer-boundary"></a>
+
+[B0193 Mito's artistic attention, local choices and peer boundary](T7S_ENTITY_STATE_COMPONENT_003.md#b0193-mitos-artistic-attention-local-choices-and-peer-boundary)
+
+The active component also owns the subsequent reviewed append through T7S_B0194. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0194-manas-intentions-interpreted-feedback-and-specific-peerfamily-scopes"></a>
+
+[B0194 Mana's intentions, interpreted feedback and specific peer/family scopes](T7S_ENTITY_STATE_COMPONENT_003.md#b0194-manas-intentions-interpreted-feedback-and-specific-peerfamily-scopes)
+
+The active component also owns the subsequent reviewed append through T7S_B0195. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0195-kurts-own-reasoning-situated-gaps-and-differentiated-peer-roles"></a>
+
+[B0195 Kurt's own reasoning, situated gaps and differentiated peer roles](T7S_ENTITY_STATE_COMPONENT_003.md#b0195-kurts-own-reasoning-situated-gaps-and-differentiated-peer-roles)
+
+The active component also owns the subsequent reviewed append through T7S_B0196. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0196-ruis-offered-proximity-situated-admiration-and-definite-preference"></a>
+
+[B0196 Rui's offered proximity, situated admiration and definite preference](T7S_ENTITY_STATE_COMPONENT_003.md#b0196-ruis-offered-proximity-situated-admiration-and-definite-preference)
+
+The active component also owns the subsequent reviewed append through T7S_B0197. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0197-memorus-crafted-affection-public-explanations-and-demands"></a>
+
+[B0197 Memoru's crafted affection, public explanations and demands](T7S_ENTITY_STATE_COMPONENT_003.md#b0197-memorus-crafted-affection-public-explanations-and-demands)
+
+The active component also owns the subsequent reviewed append through T7S_B0198. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0198-kazumis-authorship-selective-approach-and-interpretive-trust"></a>
+
+[B0198 Kazumi's authorship, selective approach and interpretive trust](T7S_ENTITY_STATE_COMPONENT_003.md#b0198-kazumis-authorship-selective-approach-and-interpretive-trust)
+
+The active component also owns the subsequent reviewed append through T7S_B0199. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0199-renas-chosen-heights-and-the-terms-of-support"></a>
+
+[B0199 Rena's chosen heights and the terms of support](T7S_ENTITY_STATE_COMPONENT_003.md#b0199-renas-chosen-heights-and-the-terms-of-support)
+
+The active component also owns the subsequent reviewed append through T7S_B0200. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry"></a>
+
+[B0200 Honoka's ordinary self and the happiness she chooses to carry](T7S_ENTITY_STATE_COMPONENT_003.md#b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry)
+
+The active component also owns the subsequent reviewed append through T7S_B0201. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0201-makotos-offered-closeness-and-the-pressure-of-being-known"></a>
+
+[B0201 Makoto's offered closeness and the pressure of being known](T7S_ENTITY_STATE_COMPONENT_003.md#b0201-makotos-offered-closeness-and-the-pressure-of-being-known)
+
+The active component also owns the subsequent reviewed append through T7S_B0202. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0202-madokas-chosen-bridges-and-unfinished-invitations"></a>
+
+[B0202 Madoka's chosen bridges and unfinished invitations](T7S_ENTITY_STATE_COMPONENT_003.md#b0202-madokas-chosen-bridges-and-unfinished-invitations)
+
+The active component also owns the subsequent reviewed append through T7S_B0203. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0203-musubis-chosen-openings-and-the-limits-of-disclosure"></a>
+
+[B0203 Musubi's chosen openings and the limits of disclosure](T7S_ENTITY_STATE_COMPONENT_003.md#b0203-musubis-chosen-openings-and-the-limits-of-disclosure)
+
+The active component also owns the subsequent reviewed append through T7S_B0204. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0204-rishuris-own-pattern-and-the-company-that-widens-it"></a>
+
+[B0204 Rishuri's own pattern and the company that widens it](T7S_ENTITY_STATE_COMPONENT_003.md#b0204-rishuris-own-pattern-and-the-company-that-widens-it)
+
+The active component also owns the subsequent reviewed append through T7S_B0205. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0205-yumenos-looking-making-and-borrowed-permission"></a>
+
+[B0205 Yumeno's looking, making and borrowed permission](T7S_ENTITY_STATE_COMPONENT_003.md#b0205-yumenos-looking-making-and-borrowed-permission)
+
+The active component also owns the subsequent reviewed append through T7S_B0206. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0206-tashas-names-for-closeness-and-an-unfinished-future"></a>
+
+[B0206 Tasha's names for closeness and an unfinished future](T7S_ENTITY_STATE_COMPONENT_003.md#b0206-tashas-names-for-closeness-and-an-unfinished-future)
+
+The active component also owns the subsequent reviewed append through T7S_B0207. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0207-jedas-effort-and-her-ways-of-seeing"></a>
+
+[B0207 Jeda's effort and her ways of seeing](T7S_ENTITY_STATE_COMPONENT_003.md#b0207-jedas-effort-and-her-ways-of-seeing)
+
+The active component also owns the subsequent reviewed append through T7S_B0208. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0208-saoris-safety-and-the-reception-of-care"></a>
+
+[B0208 Saori's safety and the reception of care](T7S_ENTITY_STATE_COMPONENT_003.md#b0208-saoris-safety-and-the-reception-of-care)
+
+The active component also owns the subsequent reviewed append through T7S_B0209. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0209-sumires-recognition-and-the-pace-of-closeness"></a>
+
+[B0209 Sumire's recognition and the pace of closeness](T7S_ENTITY_STATE_COMPONENT_003.md#b0209-sumires-recognition-and-the-pace-of-closeness)
+
+At B0210 the first three complete components remain byte-identical and new component004 owns only the subsequent reviewed B0210 addition. Read all four ordered components through the current manifest; historical migration intervals and old heading aliases remain unchanged.
+
+<a id="b0210-sawaras-older-sister-role-and-wanted-company"></a>
+
+[B0210 Sawara's older-sister role and wanted company](T7S_ENTITY_STATE_COMPONENT_004.md#b0210-sawaras-older-sister-role-and-wanted-company)
+
+The active component also owns the subsequent reviewed append through T7S_B0211. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0211-kajikas-ordinary-self-and-wanted-recognition"></a>
+
+[B0211 Kajika's ordinary self and wanted recognition](T7S_ENTITY_STATE_COMPONENT_004.md#b0211-kajikas-ordinary-self-and-wanted-recognition)
+
+The active component also owns the subsequent reviewed append through T7S_B0212. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0212-shinjus-dependable-company-and-chosen-limits"></a>
+
+[B0212 Shinju's dependable company and chosen limits](T7S_ENTITY_STATE_COMPONENT_004.md#b0212-shinjus-dependable-company-and-chosen-limits)
+
+The active component also owns the subsequent reviewed append through T7S_B0213. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0213-monakas-wanted-work-and-unevenly-received-care"></a>
+
+[B0213 Monaka's wanted work and unevenly received care](T7S_ENTITY_STATE_COMPONENT_004.md#b0213-monakas-wanted-work-and-unevenly-received-care)
+
+The active component also owns the subsequent reviewed append through T7S_B0214. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0214-eis-chosen-company-and-the-ownership-of-affection"></a>
+
+[B0214 Ei's chosen company and the ownership of affection](T7S_ENTITY_STATE_COMPONENT_004.md#b0214-eis-chosen-company-and-the-ownership-of-affection)
+
+The active component also owns the subsequent reviewed append through T7S_B0215. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0215-matsuris-play-wanted-recognition-and-local-corrections"></a>
+
+[B0215 Matsuri's play, wanted recognition and local corrections](T7S_ENTITY_STATE_COMPONENT_004.md#b0215-matsuris-play-wanted-recognition-and-local-corrections)
+
+The active component also owns the subsequent reviewed append through T7S_B0216. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0216-tomoes-wanted-company-giving-care-and-uncertain-worth"></a>
+
+[B0216 Tomoe's wanted company, giving care and uncertain worth](T7S_ENTITY_STATE_COMPONENT_004.md#b0216-tomoes-wanted-company-giving-care-and-uncertain-worth)
+
+The active component also owns the subsequent reviewed append through T7S_B0217. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0217-mius-tangible-specialness-and-imagined-shared-life"></a>
+
+[B0217 Miu's tangible specialness and imagined shared life](T7S_ENTITY_STATE_COMPONENT_004.md#b0217-mius-tangible-specialness-and-imagined-shared-life)
+
+The active component also owns the subsequent reviewed append through T7S_B0218. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0218-xiaos-courage-company-and-selective-disclosure"></a>
+
+[B0218 Xiao's courage, company and selective disclosure](T7S_ENTITY_STATE_COMPONENT_004.md#b0218-xiaos-courage-company-and-selective-disclosure)
+
+The active component also owns the subsequent reviewed append through T7S_B0219. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0219-manons-chosen-company-and-imagined-roles"></a>
+
+[B0219 Manon's chosen company and imagined roles](T7S_ENTITY_STATE_COMPONENT_004.md#b0219-manons-chosen-company-and-imagined-roles)
+
+The active component also owns the subsequent reviewed append through T7S_B0220. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0220-chachas-boundaries-preferences-and-chosen-company"></a>
+
+[B0220 ChaCha's boundaries, preferences and chosen company](T7S_ENTITY_STATE_COMPONENT_004.md#b0220-chachas-boundaries-preferences-and-chosen-company)
+
+The active component also owns the subsequent reviewed append through T7S_B0221. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0221-murasakis-own-colour-and-the-feeling-she-addresses"></a>
+
+[B0221 Murasaki's own colour and the feeling she addresses](T7S_ENTITY_STATE_COMPONENT_004.md#b0221-murasakis-own-colour-and-the-feeling-she-addresses)
+
+The active component also owns the subsequent reviewed append through T7S_B0222. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0222-miwakos-chosen-disclosures-study-and-reciprocal-teaching"></a>
+
+[B0222 Miwako's chosen disclosures, study and reciprocal teaching](T7S_ENTITY_STATE_COMPONENT_004.md#b0222-miwakos-chosen-disclosures-study-and-reciprocal-teaching)
+
+The active component also owns the subsequent reviewed append through T7S_B0223. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0223-ayumus-service-ideal-practice-and-fallible-explanations"></a>
+
+[B0223 Ayumu's service ideal, practice and fallible explanations](T7S_ENTITY_STATE_COMPONENT_004.md#b0223-ayumus-service-ideal-practice-and-fallible-explanations)
+
+The active component also owns the subsequent reviewed append through T7S_B0224. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0224-shirayukis-growing-skills-and-wanted-company"></a>
+
+[B0224 Shirayuki's growing skills and wanted company](T7S_ENTITY_STATE_COMPONENT_004.md#b0224-shirayukis-growing-skills-and-wanted-company)
+
+The active component also owns the subsequent reviewed append through T7S_B0225. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0225-hinas-self-presentation-and-qualified-resolve"></a>
+
+[B0225 Hina's self-presentation and qualified resolve](T7S_ENTITY_STATE_COMPONENT_004.md#b0225-hinas-self-presentation-and-qualified-resolve)
+
+The active component also owns the subsequent reviewed append through T7S_B0226. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0226-emocos-audience-refusals-and-particular-care"></a>
+
+[B0226 Emoco's audience, refusals and particular care](T7S_ENTITY_STATE_COMPONENT_004.md#b0226-emocos-audience-refusals-and-particular-care)
+
+The active component also owns the subsequent reviewed append through T7S_B0227. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0227-umes-account-of-herself-interrupted"></a>
+
+[B0227 Ume's account of herself, interrupted](T7S_ENTITY_STATE_COMPONENT_004.md#b0227-umes-account-of-herself-interrupted)
+
+The active component also owns the subsequent reviewed append through T7S_B0228. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0228-hitoha-and-futaba-extend-the-duet"></a>
+
+[B0228 Hitoha and Futaba extend the duet](T7S_ENTITY_STATE_COMPONENT_004.md#b0228-hitoha-and-futaba-extend-the-duet)
+
+The active component also owns the subsequent reviewed append through T7S_B0229. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0229-susu-asks-to-be-understood"></a>
+
+[B0229 Susu asks to be understood](T7S_ENTITY_STATE_COMPONENT_004.md#b0229-susu-asks-to-be-understood)
+
+The active component also owns the subsequent reviewed append through T7S_B0230. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0230-coney-asks-what-the-manager-wants"></a>
+
+[B0230 Coney asks what the manager wants](T7S_ENTITY_STATE_COMPONENT_004.md#b0230-coney-asks-what-the-manager-wants)
+
+The active component also owns the subsequent reviewed append through T7S_B0231. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0231-three-short-messages-and-an-unanswered-recipient"></a>
+
+[B0231 Three Short messages and an unanswered recipient](T7S_ENTITY_STATE_COMPONENT_004.md#b0231-three-short-messages-and-an-unanswered-recipient)
+
+The active component also owns the subsequent reviewed append through T7S_B0232. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0232-forty-two-short-messages-offered-selves-and-absent-answers"></a>
+
+[B0232 Forty-two Short messages, offered selves and absent answers](T7S_ENTITY_STATE_COMPONENT_004.md#b0232-forty-two-short-messages-offered-selves-and-absent-answers)
+
+The active component also owns the subsequent reviewed append through T7S_B0233. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0233-state-under-inherited-images-and-present-direction"></a>
+
+[B0233 state under inherited images and present direction](T7S_ENTITY_STATE_COMPONENT_004.md#b0233-state-under-inherited-images-and-present-direction)
+
+<a id="b0233-local-identity-route"></a>
+
+[B0233 local identity route](T7S_ENTITY_STATE_COMPONENT_004.md#b0233-local-identity-route)
+
+<a id="b0233-chronology-qualified-current-character-annotations"></a>
+
+[B0233 chronology-qualified current-character annotations](T7S_ENTITY_STATE_COMPONENT_004.md#b0233-chronology-qualified-current-character-annotations)
+
+<a id="b0233-unit-qualified-annotations"></a>
+
+[B0233 unit-qualified annotations](T7S_ENTITY_STATE_COMPONENT_004.md#b0233-unit-qualified-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0234. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0234-desire-care-and-friendship-at-source-local-intervals"></a>
+
+[B0234 desire, care and friendship at source-local intervals](T7S_ENTITY_STATE_COMPONENT_004.md#b0234-desire-care-and-friendship-at-source-local-intervals)
+
+<a id="b0234-two-distinct-local-collective-routes"></a>
+
+[B0234 two distinct local collective routes](T7S_ENTITY_STATE_COMPONENT_004.md#b0234-two-distinct-local-collective-routes)
+
+<a id="b0234-chronology-qualified-current-character-annotations"></a>
+
+[B0234 chronology-qualified current-character annotations](T7S_ENTITY_STATE_COMPONENT_004.md#b0234-chronology-qualified-current-character-annotations)
+
+<a id="b0234-acquired-mistaken-private-and-corrected-knowledge"></a>
+
+[B0234 acquired, mistaken, private and corrected knowledge](T7S_ENTITY_STATE_COMPONENT_004.md#b0234-acquired-mistaken-private-and-corrected-knowledge)
+
+<a id="b0234-directional-relations"></a>
+
+[B0234 directional relations](T7S_ENTITY_STATE_COMPONENT_004.md#b0234-directional-relations)
+
+<a id="b0234-chronology-qualified-unitinstitution-annotations"></a>
+
+[B0234 chronology-qualified unit/institution annotations](T7S_ENTITY_STATE_COMPONENT_004.md#b0234-chronology-qualified-unitinstitution-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0235. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0235-recipient-positions-situated-knowledge-and-continued-wishes"></a>
+
+[B0235 recipient positions, situated knowledge and continued wishes](T7S_ENTITY_STATE_COMPONENT_004.md#b0235-recipient-positions-situated-knowledge-and-continued-wishes)
+
+<a id="b0235-chronology-qualified-character-annotations"></a>
+
+[B0235 chronology-qualified character annotations](T7S_ENTITY_STATE_COMPONENT_004.md#b0235-chronology-qualified-character-annotations)
+
+<a id="b0235-acquired-attributed-and-corrected-knowledge"></a>
+
+[B0235 acquired, attributed and corrected knowledge](T7S_ENTITY_STATE_COMPONENT_004.md#b0235-acquired-attributed-and-corrected-knowledge)
+
+<a id="b0235-directional-relations"></a>
+
+[B0235 directional relations](T7S_ENTITY_STATE_COMPONENT_004.md#b0235-directional-relations)
+
+At B0236 all 4 older complete components remain byte-identical. Component 005 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0236-particular-recipient-positions-knowledge-and-relations"></a>
+
+[B0236 particular recipient positions, knowledge and relations](T7S_ENTITY_STATE_COMPONENT_005.md#b0236-particular-recipient-positions-knowledge-and-relations)
+
+<a id="b0236-chronology-qualified-character-annotations"></a>
+
+[B0236 chronology-qualified character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0236-chronology-qualified-character-annotations)
+
+<a id="b0236-acquired-attributed-and-corrected-knowledge"></a>
+
+[B0236 acquired, attributed and corrected knowledge](T7S_ENTITY_STATE_COMPONENT_005.md#b0236-acquired-attributed-and-corrected-knowledge)
+
+<a id="b0236-directional-relations"></a>
+
+[B0236 directional relations](T7S_ENTITY_STATE_COMPONENT_005.md#b0236-directional-relations)
+
+<a id="b0236-existing-unit-annotations"></a>
+
+[B0236 existing unit annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0236-existing-unit-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0237. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0237-particular-recipients-attributed-knowledge-and-directional-relations"></a>
+
+[B0237 particular recipients, attributed knowledge and directional relations](T7S_ENTITY_STATE_COMPONENT_005.md#b0237-particular-recipients-attributed-knowledge-and-directional-relations)
+
+<a id="b0237-chronology-qualified-character-annotations"></a>
+
+[B0237 chronology-qualified character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0237-chronology-qualified-character-annotations)
+
+<a id="b0237-acquired-corrected-and-attributed-knowledge"></a>
+
+[B0237 acquired, corrected and attributed knowledge](T7S_ENTITY_STATE_COMPONENT_005.md#b0237-acquired-corrected-and-attributed-knowledge)
+
+<a id="b0237-directional-relations"></a>
+
+[B0237 directional relations](T7S_ENTITY_STATE_COMPONENT_005.md#b0237-directional-relations)
+
+<a id="b0237-existing-unit-annotations"></a>
+
+[B0237 existing unit annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0237-existing-unit-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0238. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0238-particular-recipients-and-attributed-care"></a>
+
+[B0238 particular recipients and attributed care](T7S_ENTITY_STATE_COMPONENT_005.md#b0238-particular-recipients-and-attributed-care)
+
+<a id="b0238-chronology-qualified-character-annotations"></a>
+
+[B0238 chronology-qualified character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0238-chronology-qualified-character-annotations)
+
+<a id="b0238-acquired-qualified-and-attributed-knowledge"></a>
+
+[B0238 acquired, qualified and attributed knowledge](T7S_ENTITY_STATE_COMPONENT_005.md#b0238-acquired-qualified-and-attributed-knowledge)
+
+<a id="b0238-directional-relations"></a>
+
+[B0238 directional relations](T7S_ENTITY_STATE_COMPONENT_005.md#b0238-directional-relations)
+
+<a id="b0238-existing-unit-annotations"></a>
+
+[B0238 existing unit annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0238-existing-unit-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0239. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0239-particular-recipients-and-attributed-care"></a>
+
+[B0239 particular recipients and attributed care](T7S_ENTITY_STATE_COMPONENT_005.md#b0239-particular-recipients-and-attributed-care)
+
+<a id="b0239-chronology-qualified-character-annotations"></a>
+
+[B0239 chronology-qualified character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0239-chronology-qualified-character-annotations)
+
+<a id="b0239-later-current-name-adjudication-original-case-horizons-retained"></a>
+
+[B0239 later current name adjudication, original case horizons retained](T7S_ENTITY_STATE_COMPONENT_005.md#b0239-later-current-name-adjudication-original-case-horizons-retained)
+
+<a id="b0239-acquired-qualified-and-attributed-knowledge"></a>
+
+[B0239 acquired, qualified and attributed knowledge](T7S_ENTITY_STATE_COMPONENT_005.md#b0239-acquired-qualified-and-attributed-knowledge)
+
+<a id="b0239-directional-relations"></a>
+
+[B0239 directional relations](T7S_ENTITY_STATE_COMPONENT_005.md#b0239-directional-relations)
+
+<a id="b0239-existing-unit-annotations"></a>
+
+[B0239 existing unit annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0239-existing-unit-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0240. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0240-situated-care-date-consciousness-and-recipient-agency"></a>
+
+[B0240 situated care, date consciousness and recipient agency](T7S_ENTITY_STATE_COMPONENT_005.md#b0240-situated-care-date-consciousness-and-recipient-agency)
+
+<a id="b0240-chronology-qualified-existing-character-annotations"></a>
+
+[B0240 chronology-qualified existing character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0240-chronology-qualified-existing-character-annotations)
+
+<a id="b0240-epistemic-states"></a>
+
+[B0240 epistemic states](T7S_ENTITY_STATE_COMPONENT_005.md#b0240-epistemic-states)
+
+<a id="b0240-directional-relationships"></a>
+
+[B0240 directional relationships](T7S_ENTITY_STATE_COMPONENT_005.md#b0240-directional-relationships)
+
+<a id="b0240-existing-institution-intervals"></a>
+
+[B0240 existing institution intervals](T7S_ENTITY_STATE_COMPONENT_005.md#b0240-existing-institution-intervals)
+
+The active component also owns the subsequent reviewed append through T7S_B0241. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0241-particular-knowledge-requests-and-institutional-roles"></a>
+
+[B0241 particular knowledge, requests and institutional roles](T7S_ENTITY_STATE_COMPONENT_005.md#b0241-particular-knowledge-requests-and-institutional-roles)
+
+<a id="b0241-chronology-qualified-existing-character-annotations"></a>
+
+[B0241 chronology-qualified existing character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0241-chronology-qualified-existing-character-annotations)
+
+<a id="b0241-epistemic-states"></a>
+
+[B0241 epistemic states](T7S_ENTITY_STATE_COMPONENT_005.md#b0241-epistemic-states)
+
+<a id="b0241-directional-relationships"></a>
+
+[B0241 directional relationships](T7S_ENTITY_STATE_COMPONENT_005.md#b0241-directional-relationships)
+
+<a id="b0241-existing-institution-intervals"></a>
+
+[B0241 existing institution intervals](T7S_ENTITY_STATE_COMPONENT_005.md#b0241-existing-institution-intervals)
+
+The active component also owns the subsequent reviewed append through T7S_B0242. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0242-differentiated-authorship-knowledge-and-reciprocal-work"></a>
+
+[B0242 differentiated authorship, knowledge and reciprocal work](T7S_ENTITY_STATE_COMPONENT_005.md#b0242-differentiated-authorship-knowledge-and-reciprocal-work)
+
+<a id="b0242-chronology-qualified-existing-character-annotations"></a>
+
+[B0242 chronology-qualified existing character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0242-chronology-qualified-existing-character-annotations)
+
+<a id="b0242-holder-specific-epistemic-states"></a>
+
+[B0242 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_005.md#b0242-holder-specific-epistemic-states)
+
+<a id="b0242-directional-relationships"></a>
+
+[B0242 directional relationships](T7S_ENTITY_STATE_COMPONENT_005.md#b0242-directional-relationships)
+
+<a id="b0242-existing-institution-interval"></a>
+
+[B0242 existing institution interval](T7S_ENTITY_STATE_COMPONENT_005.md#b0242-existing-institution-interval)
+
+At B0243 all 5 older complete components remain byte-identical. Component 006 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0243-differentiated-character-knowledge-relationship-and-work-intervals"></a>
+
+[B0243 differentiated character, knowledge, relationship and work intervals](T7S_ENTITY_STATE_COMPONENT_006.md#b0243-differentiated-character-knowledge-relationship-and-work-intervals)
+
+<a id="b0243-existing-character-annotations"></a>
+
+[B0243 existing character annotations](T7S_ENTITY_STATE_COMPONENT_006.md#b0243-existing-character-annotations)
+
+<a id="b0243-holder-specific-epistemic-states"></a>
+
+[B0243 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_006.md#b0243-holder-specific-epistemic-states)
+
+<a id="b0243-directional-relationships"></a>
+
+[B0243 directional relationships](T7S_ENTITY_STATE_COMPONENT_006.md#b0243-directional-relationships)
+
+<a id="b0243-existing-institutions-and-household-work"></a>
+
+[B0243 existing institutions and household work](T7S_ENTITY_STATE_COMPONENT_006.md#b0243-existing-institutions-and-household-work)
+
+The active component also owns the subsequent reviewed append through T7S_B0244. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0244-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0244 character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0244-exact-local-identity-routes"></a>
+
+[B0244 exact local identity routes](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-exact-local-identity-routes)
+
+<a id="b0244-existing-character-annotations"></a>
+
+[B0244 existing character annotations](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-existing-character-annotations)
+
+<a id="b0244-new-consequential-character-state"></a>
+
+[B0244 new consequential character state](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-new-consequential-character-state)
+
+<a id="b0244-holder-specific-epistemic-states"></a>
+
+[B0244 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-holder-specific-epistemic-states)
+
+<a id="b0244-directional-relationships"></a>
+
+[B0244 directional relationships](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-directional-relationships)
+
+<a id="b0244-institutions-and-bounded-project-states"></a>
+
+[B0244 institutions and bounded project states](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-institutions-and-bounded-project-states)
+
+At B0245 all 6 older complete components remain byte-identical. Component 007 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0245-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0245 character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_007.md#b0245-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0245-existing-character-annotations"></a>
+
+[B0245 existing character annotations](T7S_ENTITY_STATE_COMPONENT_007.md#b0245-existing-character-annotations)
+
+<a id="b0245-holder-specific-epistemic-states"></a>
+
+[B0245 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_007.md#b0245-holder-specific-epistemic-states)
+
+<a id="b0245-directional-relationships"></a>
+
+[B0245 directional relationships](T7S_ENTITY_STATE_COMPONENT_007.md#b0245-directional-relationships)
+
+<a id="b0245-existing-units-and-bounded-collective-states"></a>
+
+[B0245 existing units and bounded collective states](T7S_ENTITY_STATE_COMPONENT_007.md#b0245-existing-units-and-bounded-collective-states)
+
+The active component also owns the subsequent reviewed append through T7S_B0246. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0246-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0246 character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_007.md#b0246-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0246-existing-character-annotations"></a>
+
+[B0246 existing character annotations](T7S_ENTITY_STATE_COMPONENT_007.md#b0246-existing-character-annotations)
+
+<a id="b0246-holder-specific-epistemic-states"></a>
+
+[B0246 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_007.md#b0246-holder-specific-epistemic-states)
+
+<a id="b0246-directional-relationships"></a>
+
+[B0246 directional relationships](T7S_ENTITY_STATE_COMPONENT_007.md#b0246-directional-relationships)
+
+<a id="b0246-existing-units-and-bounded-collective-states"></a>
+
+[B0246 existing units and bounded collective states](T7S_ENTITY_STATE_COMPONENT_007.md#b0246-existing-units-and-bounded-collective-states)
+
+At B0247 all 7 older complete components remain byte-identical. Component 008 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0247-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0247 character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_008.md#b0247-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0247-existing-character-annotations"></a>
+
+[B0247 existing character annotations](T7S_ENTITY_STATE_COMPONENT_008.md#b0247-existing-character-annotations)
+
+<a id="b0247-holder-specific-epistemic-states"></a>
+
+[B0247 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_008.md#b0247-holder-specific-epistemic-states)
+
+<a id="b0247-directional-relationships"></a>
+
+[B0247 directional relationships](T7S_ENTITY_STATE_COMPONENT_008.md#b0247-directional-relationships)
+
+<a id="b0247-existing-units-and-bounded-collective-states"></a>
+
+[B0247 existing units and bounded collective states](T7S_ENTITY_STATE_COMPONENT_008.md#b0247-existing-units-and-bounded-collective-states)
+
+At B0248 all 8 older complete components remain byte-identical. Component 009 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0248-characterepistemicrelational-and-collective-intervals"></a>
+
+[B0248 character,epistemic,relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_009.md#b0248-characterepistemicrelational-and-collective-intervals)
+
+<a id="b0248-existing-character-annotations"></a>
+
+[B0248 existing character annotations](T7S_ENTITY_STATE_COMPONENT_009.md#b0248-existing-character-annotations)
+
+<a id="b0248-holder-specific-epistemic-states"></a>
+
+[B0248 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_009.md#b0248-holder-specific-epistemic-states)
+
+<a id="b0248-directional-relationships"></a>
+
+[B0248 directional relationships](T7S_ENTITY_STATE_COMPONENT_009.md#b0248-directional-relationships)
+
+<a id="b0248-existing-units-and-bounded-planned-formations"></a>
+
+[B0248 existing units and bounded planned formations](T7S_ENTITY_STATE_COMPONENT_009.md#b0248-existing-units-and-bounded-planned-formations)
+
+The active component also owns the subsequent reviewed append through T7S_B0249. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0249-particular-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0249 particular character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_009.md#b0249-particular-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0249-existing-character-annotations"></a>
+
+[B0249 existing character annotations](T7S_ENTITY_STATE_COMPONENT_009.md#b0249-existing-character-annotations)
+
+<a id="b0249-holder-specific-epistemic-states"></a>
+
+[B0249 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_009.md#b0249-holder-specific-epistemic-states)
+
+<a id="b0249-directional-relationships"></a>
+
+[B0249 directional relationships](T7S_ENTITY_STATE_COMPONENT_009.md#b0249-directional-relationships)
+
+<a id="b0249-existing-unit-and-institutional-annotations"></a>
+
+[B0249 existing unit and institutional annotations](T7S_ENTITY_STATE_COMPONENT_009.md#b0249-existing-unit-and-institutional-annotations)
+
+At B0250 all 9 older complete components remain byte-identical. Component 010 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0250-particular-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0250 particular character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_010.md#b0250-particular-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0250-existing-character-annotations"></a>
+
+[B0250 existing character annotations](T7S_ENTITY_STATE_COMPONENT_010.md#b0250-existing-character-annotations)
+
+<a id="b0250-holder-specific-epistemic-states"></a>
+
+[B0250 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_010.md#b0250-holder-specific-epistemic-states)
+
+<a id="b0250-directional-relationships"></a>
+
+[B0250 directional relationships](T7S_ENTITY_STATE_COMPONENT_010.md#b0250-directional-relationships)
+
+<a id="b0250-existing-unit-and-institutional-annotations"></a>
+
+[B0250 existing unit and institutional annotations](T7S_ENTITY_STATE_COMPONENT_010.md#b0250-existing-unit-and-institutional-annotations)
+
+<a id="b0250-new-bounded-temporary-collective"></a>
+
+[B0250 new bounded temporary collective](T7S_ENTITY_STATE_COMPONENT_010.md#b0250-new-bounded-temporary-collective)
+
+The active component also owns the subsequent reviewed append through T7S_B0251. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0251-particular-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0251 particular character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_010.md#b0251-particular-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0251-existing-character-annotations"></a>
+
+[B0251 existing character annotations](T7S_ENTITY_STATE_COMPONENT_010.md#b0251-existing-character-annotations)
+
+<a id="b0251-holder-specific-epistemic-states"></a>
+
+[B0251 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_010.md#b0251-holder-specific-epistemic-states)
+
+<a id="b0251-directional-relationships"></a>
+
+[B0251 directional relationships](T7S_ENTITY_STATE_COMPONENT_010.md#b0251-directional-relationships)
+
+<a id="b0251-existing-unit-and-institutional-annotations"></a>
+
+[B0251 existing unit and institutional annotations](T7S_ENTITY_STATE_COMPONENT_010.md#b0251-existing-unit-and-institutional-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0252. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0252-particular-character-knowledge-relationship-and-collective-intervals"></a>
+
+[B0252 particular character, knowledge, relationship and collective intervals](T7S_ENTITY_STATE_COMPONENT_010.md#b0252-particular-character-knowledge-relationship-and-collective-intervals)
+
+<a id="b0252-existing-character-annotations"></a>
+
+[B0252 existing character annotations](T7S_ENTITY_STATE_COMPONENT_010.md#b0252-existing-character-annotations)
+
+<a id="b0252-holder-specific-epistemic-states"></a>
+
+[B0252 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_010.md#b0252-holder-specific-epistemic-states)
+
+<a id="b0252-directional-relationships"></a>
+
+[B0252 directional relationships](T7S_ENTITY_STATE_COMPONENT_010.md#b0252-directional-relationships)
+
+<a id="b0252-existing-collective-annotations"></a>
+
+[B0252 existing collective annotations](T7S_ENTITY_STATE_COMPONENT_010.md#b0252-existing-collective-annotations)
+
+At B0253 all 10 older complete components remain byte-identical. Component 011 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0253-particular-character-knowledge-and-relationship-intervals"></a>
+
+[B0253 particular character, knowledge and relationship intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0253-particular-character-knowledge-and-relationship-intervals)
+
+<a id="existing-character-annotations"></a>
+
+[Existing character annotations](T7S_ENTITY_STATE_COMPONENT_011.md#existing-character-annotations)
+
+<a id="holder-specific-knowledge"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge)
+
+<a id="directional-relationships"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships)
+
+<a id="existing-collective-contexts"></a>
+
+[Existing collective contexts](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-contexts)
+
+The active component also owns the subsequent reviewed append through T7S_B0254. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0254-particular-character-knowledge-and-relationship-intervals"></a>
+
+[B0254 particular character, knowledge and relationship intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0254-particular-character-knowledge-and-relationship-intervals)
+
+<a id="existing-character-annotations-1"></a>
+
+[Existing character annotations](T7S_ENTITY_STATE_COMPONENT_011.md#existing-character-annotations-1)
+
+<a id="holder-specific-knowledge-1"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge-1)
+
+<a id="directional-relationships-1"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships-1)
+
+<a id="existing-collective-contexts-1"></a>
+
+[Existing collective contexts](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-contexts-1)
+
+The active component also owns the subsequent reviewed append through T7S_B0255. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0255-particular-character-knowledge-and-relationship-intervals"></a>
+
+[B0255 particular character, knowledge and relationship intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0255-particular-character-knowledge-and-relationship-intervals)
+
+<a id="existing-character-annotations-2"></a>
+
+[Existing character annotations](T7S_ENTITY_STATE_COMPONENT_011.md#existing-character-annotations-2)
+
+<a id="holder-specific-knowledge-2"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge-2)
+
+<a id="directional-relationships-2"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships-2)
+
+<a id="existing-collective-contexts-2"></a>
+
+[Existing collective contexts](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-contexts-2)
+
+The active component also owns the subsequent reviewed append through T7S_B0256. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0256-particular-character-knowledge-and-relationship-intervals"></a>
+
+[B0256 particular character, knowledge and relationship intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0256-particular-character-knowledge-and-relationship-intervals)
+
+<a id="existing-character-annotations-3"></a>
+
+[Existing character annotations](T7S_ENTITY_STATE_COMPONENT_011.md#existing-character-annotations-3)
+
+<a id="holder-specific-knowledge-3"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge-3)
+
+<a id="directional-relationships-3"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships-3)
+
+<a id="existing-collective-contexts-3"></a>
+
+[Existing collective contexts](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-contexts-3)
+
+The active component also owns the subsequent reviewed append through T7S_B0257. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0257-particular-character-knowledge-and-relationship-intervals"></a>
+
+[B0257 particular character, knowledge and relationship intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0257-particular-character-knowledge-and-relationship-intervals)
+
+<a id="existing-character-annotations-4"></a>
+
+[Existing character annotations](T7S_ENTITY_STATE_COMPONENT_011.md#existing-character-annotations-4)
+
+<a id="new-source-named-local-routes"></a>
+
+[New source-named local routes](T7S_ENTITY_STATE_COMPONENT_011.md#new-source-named-local-routes)
+
+<a id="holder-specific-knowledge-4"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge-4)
+
+<a id="directional-relationships-4"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships-4)
+
+<a id="existing-collective-contexts-4"></a>
+
+[Existing collective contexts](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-contexts-4)
+
+The active component also owns the subsequent reviewed append through T7S_B0258. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0258-particular-character-knowledge-and-relationship-intervals"></a>
+
+[B0258 particular character, knowledge and relationship intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0258-particular-character-knowledge-and-relationship-intervals)
+
+<a id="existing-character-annotations-5"></a>
+
+[Existing character annotations](T7S_ENTITY_STATE_COMPONENT_011.md#existing-character-annotations-5)
+
+<a id="new-source-named-local-routes-1"></a>
+
+[New source-named local routes](T7S_ENTITY_STATE_COMPONENT_011.md#new-source-named-local-routes-1)
+
+<a id="holder-specific-knowledge-5"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge-5)
+
+<a id="directional-relationships-5"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships-5)
+
+<a id="existing-collective-contexts-5"></a>
+
+[Existing collective contexts](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-contexts-5)
+
+<a id="source-named-transient-collective"></a>
+
+[Source-named transient collective](T7S_ENTITY_STATE_COMPONENT_011.md#source-named-transient-collective)
+
+<a id="current-correction-of-preserved-b0251-collective-references"></a>
+
+[Current correction of preserved B0251 collective references](T7S_ENTITY_STATE_COMPONENT_011.md#current-correction-of-preserved-b0251-collective-references)
+
+The active component also owns the subsequent reviewed append through T7S_B0259. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0259-particular-character-knowledge-and-relationship-intervals"></a>
+
+[B0259 particular character, knowledge and relationship intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0259-particular-character-knowledge-and-relationship-intervals)
+
+<a id="existing-character-annotations-6"></a>
+
+[Existing character annotations](T7S_ENTITY_STATE_COMPONENT_011.md#existing-character-annotations-6)
+
+<a id="holder-specific-knowledge-6"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge-6)
+
+<a id="directional-relationships-6"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships-6)
+
+<a id="existing-collective-context"></a>
+
+[Existing collective context](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-context)
+
+The active component also owns the subsequent reviewed append through T7S_B0260. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0260-particular-knowledge-relationship-and-collective-intervals"></a>
+
+[B0260 particular knowledge, relationship and collective intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0260-particular-knowledge-relationship-and-collective-intervals)
+
+<a id="holder-specific-knowledge-7"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge-7)
+
+<a id="directional-relationships-7"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships-7)
+
+<a id="existing-collective-context-1"></a>
+
+[Existing collective context](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-context-1)

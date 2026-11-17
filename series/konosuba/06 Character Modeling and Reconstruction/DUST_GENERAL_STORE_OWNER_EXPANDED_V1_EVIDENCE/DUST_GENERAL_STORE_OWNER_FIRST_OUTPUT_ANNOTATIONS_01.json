@@ -1,0 +1,147 @@
+{
+  "schema": "konosuba.character-first-output-annotations.v1",
+  "assessed_utc": "2026-10-24T18:58:38.898378+00:00",
+  "generation": "DUST_GENERAL_STORE_OWNER_EXPANDED_V1",
+  "first_outputs_pin": {
+    "file": "GENERAL_STORE_OWNER_FIRST_OUTPUTS_DRAFT_01.json",
+    "bytes": 6739,
+    "sha256": "cee4651fd25523b1c80b6e00f412f4eec1e04cf5cc1a82da042269d31a32468c"
+  },
+  "exact_inputs_pin": {
+    "file": "GENERAL_STORE_OWNER_SCENARIO_INPUTS_01.json",
+    "bytes": 13792,
+    "sha256": "273718c82645a08bce2279dfbbfff00bdc7db72bd0b754750f17cf33558de5ec"
+  },
+  "original_first_seal": {
+    "file": "COHORT39_ALL_ORIGINAL_FIRSTS_SEALED_01.json",
+    "bytes": 9865,
+    "sha256": "9fc27b3e2c8b87f22f79e0adc27e66f01ad7c7c64e89b4d335f7ee32478f0627"
+  },
+  "actual_complete_output_review_chunk": "ca18d4",
+  "annotations": [
+    {
+      "case_id": "DGO-A1",
+      "pair_id": "DGO-A",
+      "prompt_sha256": "0a0054681525518a9a9f6b8f3a49f24079a31020d1c97d934f795761fe8e0ed7",
+      "original_body_pin": {
+        "file": "firsts01/DGO-A1.txt",
+        "bytes": 623,
+        "sha256": "c5e7ac4a0be8b5266dd415d4bf365d17eddd724137e4ba83f31b5cfadc7edd7a"
+      },
+      "original_first_receipt": {
+        "file": "DGO-A1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2023,
+        "sha256": "f2d670e39af857bf6523b62e44205baddbaa992c661656537afcec52e2fb614b"
+      },
+      "target_rule": "DGO-R01",
+      "disposition": "BOUNDED_COMPATIBLE_ENTITLEMENT_REFUSAL",
+      "observed": "Retains lamp as stock,rejects bare debt claim for leisure and resumes checking it.",
+      "body_constraints": "No actual theft,prior debt settlement,hidden payment or new possession. Sale goods and inventory are supplied. Dust wanting a free resource follows his stated demand.",
+      "rule_comparison": "Preserves local stock boundary;generic ownership defense predicts the same.",
+      "defects": [],
+      "original_body_changed": false,
+      "regenerated": false
+    },
+    {
+      "case_id": "DGO-A2",
+      "pair_id": "DGO-A",
+      "prompt_sha256": "8152014e9da65f8425300a00225cd18e96753c49e872959dfce252fb175963f4",
+      "original_body_pin": {
+        "file": "firsts01/DGO-A2.txt",
+        "bytes": 628,
+        "sha256": "cb7e9ca14ae6f5f5fe654441bf206ecac55d9cd50913229a9f57ece323f7bcc4"
+      },
+      "original_first_receipt": {
+        "file": "DGO-A2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2023,
+        "sha256": "276016cf1b7c39106e7c231b8436dbeb99239502591854eb33f04fdf4b99a293"
+      },
+      "target_rule": "DGO-R01",
+      "disposition": "BOUNDED_COMPATIBLE_FINITE_PROVISION",
+      "observed": "Provides lamp for visible courier need,states dusk return requirement and watches from doorway;rescue remains unresolved.",
+      "body_constraints": "The handover responds to Dust already requesting this lamp;it does not manufacture a prior loan or Dust promise to return. Owner instruction is not completed return,accepted compensation or successful rescue. No cure or extra equipment.",
+      "rule_comparison": "Recipient need and useful purpose were fixed in input before choice. Ordinary aid to a trapped adult is a strong nonindividual rival.",
+      "defects": [],
+      "original_body_changed": false,
+      "regenerated": false
+    },
+    {
+      "case_id": "DGO-B1",
+      "pair_id": "DGO-B",
+      "prompt_sha256": "1e555cad5a5d44d7df4664de7316af8aefcf1d10f0ee2930cbc420d79ec5b485",
+      "original_body_pin": {
+        "file": "firsts01/DGO-B1.txt",
+        "bytes": 688,
+        "sha256": "e87c77e450690f17971f2e62ac1fcec6282cfd2cd156d97f52a36e18d89b29bf"
+      },
+      "original_first_receipt": {
+        "file": "DGO-B1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2023,
+        "sha256": "f274a3d4e3d056605960e1b1ccf36790b8a39797c9c28c28752114a1b40b7e12"
+      },
+      "target_rule": "DGO-R01",
+      "disposition": "UNPROVIDED_SETTING_ADDITION_RETAINED",
+      "observed": "Declines twenty-minute absence and offers doorway work;begins carrying the ledger upstairs while stock remains at risk.",
+      "body_constraints": "The B1 input does not supply an upstairs. Upstairs is explicit only in B2. Carrying the ledger there imports an unavailable storage-place fact;the body cannot receive strict fully bound status. All these years also adds an unspecified duration to the ledger history. No actual outside helper or successful alternative is narrated.",
+      "rule_comparison": "Staying to protect store is compatible with the proposed local distinction,but the new storage option contaminates the practical state. Do not repair it or treat the pair as a clean preservation test.",
+      "defects": [
+        "Unprovided upstairs storage place,available only in contrasting B2 prompt.",
+        "Unspecified ledger duration in all these years."
+      ],
+      "original_body_changed": false,
+      "regenerated": false
+    },
+    {
+      "case_id": "DGO-B2",
+      "pair_id": "DGO-B",
+      "prompt_sha256": "cea7e1b86aa582bd326ee4d47e0fb3643761c5be600d53d113be5377710d30cc",
+      "original_body_pin": {
+        "file": "firsts01/DGO-B2.txt",
+        "bytes": 614,
+        "sha256": "9d0b0d594ed8c2bc36fdbd28c81dd1a4c71c805160fe718994ccdc8184cedbce"
+      },
+      "original_first_receipt": {
+        "file": "DGO-B2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2023,
+        "sha256": "047cd0391332a9b93c6c2a8f33223247c91993a69b4487d8df45d5fbc43dadd4"
+      },
+      "target_rule": "DGO-R01",
+      "disposition": "BOUNDED_COMPATIBLE_LIMITED_ABSENCE",
+      "observed": "Credits supplied protection,accepts twenty minutes,keeps key and asks assistant to call if water worsens before joining work.",
+      "body_constraints": "Upstairs protection is explicitly supplied here. Call request is prospective,not a performed call or invented assistant promise. No wife message,insurance,rescue vehicle or guaranteed later shop safety.",
+      "rule_comparison": "Compatible change when property protection and assistant workload both change;generic risk management strongly explains it.",
+      "defects": [],
+      "original_body_changed": false,
+      "regenerated": false
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "DGO-A",
+      "disposition": "BOUNDED_COMPATIBLE_DEPENDENT_CONTRAST",
+      "comparison": "Refuses stock for leisure entitlement versus lends with return limit for independently visible trapped adult.",
+      "limits": "Purpose and need change together. Generic ownership plus ordinary helping can explain it;not a distinctiveness or confidence result."
+    },
+    {
+      "pair_id": "DGO-B",
+      "disposition": "UNBOUND_STORAGE_ADDITION_IN_B1_RETAINED",
+      "comparison": "Declines absence/starts protection versus limited absence after trusted protection.",
+      "limits": "B1 imports upstairs from contrasting state and unspecified ledger duration. B2 protection and workload both change. No strict fully bound-body pair or causal siege counterfactual claim."
+    }
+  ],
+  "original_firsts": 4,
+  "dependent_pairs": 2,
+  "unbound_or_ambiguous_detail_cases": [
+    "DGO-B1"
+  ],
+  "clean_mechanism_isolating_pairs": 0,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "same_informed_root_authors_and_assesses": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "Japanese_or_acoustic_voice_certification": false,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

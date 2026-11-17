@@ -1,0 +1,157 @@
+{
+  "schema": "konosuba.cohort31.original-first-output-annotations.v1",
+  "subject": "21",
+  "annotated_utc": "2026-10-24T07:03:36.113385+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "exact_input_freeze_sha256": "71f913686f4a131dd2dcd9bfc0517656548784e395b0e4ec94aeba984da4eb24",
+  "first_body_freeze_sha256": "4e1d327748846046c95b99b79415d14f73693082ce85e615433d24e623bcbedd",
+  "scenario_inputs_sha256": "20dd7f2a4bcb30e9a23c38fc54ef1817de99dde5e28b94efca92c59641eb1443",
+  "first_outputs_sha256": "b9398accc2c74b72fd724430eb900753a4807637c0428a52a4cb5029d9af0ef5",
+  "cases": [
+    {
+      "case_id": "N21-H01-A",
+      "pair_id": "N21-H01",
+      "target_rules": [
+        "N21-R01"
+      ],
+      "first_body_sha256": "28715203488f2d4672f5c436ce1e8e37f5a4349167f55b6a52834d5f7fcf1788",
+      "observed_rendering": "Hesitant Axis claim/nod under pressure,no certified belief,job or welcome.",
+      "retained_limitation_or_failure": "The narration says there is no familiar person to soften the condition. Only master/other party-member absence is stated;organizer or other familiarity is unknown. This unsupported relational generalization stays in the original with no repair.",
+      "constraint_disposition": "UNPROVIDED_RELATIONAL_GENERALIZATION_RETAINED",
+      "prompt_design_limit": "Employment incentive and the explicit condition cue generic behavior;this changes the source's master/recruiter setting. One response cannot establish free conversion,stable conformity or actual welcome.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "N21-H01-B",
+      "pair_id": "N21-H01",
+      "target_rules": [
+        "N21-R01"
+      ],
+      "first_body_sha256": "4544f6b511c6f7358bb847abb0b333729a8bd24db2fff731487605f54be284a3",
+      "observed_rendering": "Retains denial and asks for work without declaring secure membership.",
+      "retained_limitation_or_failure": "Pressure-free conditional welcome is explicit;the prompt supplies much of the distinction. English first-person speech in this case is not Japanese voice validation;the marked This body form appears in other cases,not this one.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Employment incentive and the explicit condition cue generic behavior;this changes the source's master/recruiter setting. One response cannot establish free conversion,stable conformity or actual welcome.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "N21-H02-A",
+      "pair_id": "N21-H02",
+      "target_rules": [
+        "N21-R02"
+      ],
+      "first_body_sha256": "ffb1793c220cc35afcd962166b5af137b1b6b873cbfa88a2c7effe32c3cdbc06",
+      "observed_rendering": "Asks what is new/what help is wanted,offers ten minutes and waits without contacting Otohime.",
+      "retained_limitation_or_failure": "Earlier-answer wording assumes more about the previous facilitated talk than the scene guarantees. The question can echo the known source,so the presupposition remains qualified rather than treated as fact.",
+      "constraint_disposition": "SOURCE_ECHO_WITH_UNDERPROVIDED_PAST_ANSWER_PRESUPPOSITION",
+      "prompt_design_limit": "Own willingness/refusal is stipulated,so this primarily tests conditional rendering and retention of limits. The known source and visible pair permit obvious cueing;the other person's motive remains unknown.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "N21-H02-B",
+      "pair_id": "N21-H02",
+      "target_rules": [
+        "N21-R02"
+      ],
+      "first_body_sha256": "2d1a63bcc584b958c9a6f403723ded31b5fdbf6fb8b2dbbc2068bc20425bd34f",
+      "observed_rendering": "States a stopping boundary,does not diagnose motive or promise a later appointment.",
+      "retained_limitation_or_failure": "Own rest/refusal is stipulated. The emotionally articulate answer is a generated rendering and can reflect author norms as much as character-specific capacity.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Own willingness/refusal is stipulated,so this primarily tests conditional rendering and retention of limits. The known source and visible pair permit obvious cueing;the other person's motive remains unknown.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "N21-H03-A",
+      "pair_id": "N21-H03",
+      "target_rules": [
+        "N21-R03"
+      ],
+      "first_body_sha256": "f827041c925b802b52675941312197147461c31c606f5430dc2d00d7bb023909",
+      "observed_rendering": "Separates eligibility/belonging from actual recovery and indicates willingness to use the statue.",
+      "retained_limitation_or_failure": "No activation or recoveredHP supplied;the facility rule is given. No faith/miracle,technical table mastery or mercy outcome follows.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "The eligibility rule almost supplies the answer,so success mainly shows rule retention. Mercy,combat thresholds and long-term belonging remain untested branches of the rule;no miracle or general rulebook validation.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "N21-H03-B",
+      "pair_id": "N21-H03",
+      "target_rules": [
+        "N21-R03"
+      ],
+      "first_body_sha256": "0f101ef11c5cd38e875880b92f9d926640fcd2298bd98a59bfd731a23b2e308e",
+      "observed_rendering": "Recognizes exclusion,leaves charge for ally and asks about continuing with own remaining limit.",
+      "retained_limitation_or_failure": "Wounds is a generated bodily interpretation of missingHP;injury type is not stipulated. It does not change eligibility reasoning,but must not become a certified physical source fact.",
+      "constraint_disposition": "BOUNDED_RULE_RETENTION_WITH_UNSTIPULATED_INJURY_WORDING",
+      "prompt_design_limit": "The eligibility rule almost supplies the answer,so success mainly shows rule retention. Mercy,combat thresholds and long-term belonging remain untested branches of the rule;no miracle or general rulebook validation.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "N21-H01",
+      "case_ids": [
+        "N21-H01-A",
+        "N21-H01-B"
+      ],
+      "observed_contrast": "A gives a hesitant false Axis claim under the job condition;B preserves nonmembership while requesting practical work. Neither obtains hiring or welcome.",
+      "rivals_and_unresolved_branches": "Employment incentive and explicit membership condition cue conformity/relief. The master is absent,so this extrapolates outside the source configuration. A also overgeneralizes the stated absence of old party members into absence of any familiar person;organizer familiarity is not given. Later own belonging is not tested.",
+      "dependent_pair_not_independent_cases": true,
+      "behavioral_success_score": null,
+      "confidence_gain": 0
+    },
+    {
+      "pair_id": "N21-H02",
+      "case_ids": [
+        "N21-H02-A",
+        "N21-H02-B"
+      ],
+      "observed_contrast": "A offers bounded clarification/questions;B declines another mediation and rests. Neither invents Otohime consent or a new conversation with him.",
+      "rivals_and_unresolved_branches": "Own willingness/refusal is supplied. A question presupposes an earlier answer,where the scene only guarantees a previously facilitated talk. Known source counseling can fill gaps too readily. No efficacy or unique mediator skill is established.",
+      "dependent_pair_not_independent_cases": true,
+      "behavioral_success_score": null,
+      "confidence_gain": 0
+    },
+    {
+      "pair_id": "N21-H03",
+      "case_ids": [
+        "N21-H03-A",
+        "N21-H03-B"
+      ],
+      "observed_contrast": "A recognizes group eligibility and indicates willingness;B recognizes exclusion from direct Heal and leaves it for the living ally while naming its own limit.",
+      "rivals_and_unresolved_branches": "Eligibility nearly supplies the answer;both stop before activation. This is rule retention,not independent healing knowledge. The charity/mercy and actual combat portions of N21-R03 remain untested. B describes missingHP as wounds without a supplied injury type.",
+      "dependent_pair_not_independent_cases": true,
+      "behavioral_success_score": null,
+      "confidence_gain": 0
+    }
+  ],
+  "method_limits": [
+    "Same informed root authored source interpretation,models,all exact visible contrasts,all first responses and these annotations.",
+    "No external model call,blind judge,unseen source,independent observer,accuracy estimate,grade or confidence gain.",
+    "All26firsts meet80-140word budget;that is format compliance,not behavioral success. Responses share105-115word range and audit-like restraint,which can suppress source-specific errors and flatten voice.",
+    "Each response repeatedly states what did not happen,reflecting the contract and author controls. A guarded ending is not an independently discovered character behavior.",
+    "Stipulated permission,resources,domain,eligibility and willingness often nearly supply the intended distinction;generic instruction following remains a strong rival.",
+    "Local consistency cannot establish every branch of a rule,stable moral improvement,Japanese voice or final nine-category transfer."
+  ],
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "original_firsts_repaired": false,
+  "frozen_models_revised": false,
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "global_completion_percentage": null,
+  "full_program_complete": false
+}

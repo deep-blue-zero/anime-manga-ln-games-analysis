@@ -1,0 +1,173 @@
+{
+  "method": "Complete mixed-source audio decoded to mono 16 kHz PCM. RMS/peak/envelope statistics include dialogue, BGM, effects, and silence. They are source-engineering descriptors, not isolated measurements of the performer or Tsubame.",
+  "sources": [
+    {
+      "source_id": "AV-TSUB-001",
+      "logical_identity": "dear_000",
+      "duration_seconds": 232.989025,
+      "global_rms_dbfs": -24.505644127373905,
+      "sample_peak_dbfs": -3.023984074274844,
+      "one_second_rms_p10_dbfs": -32.222796484768665,
+      "one_second_rms_median_dbfs": -25.646517400335426,
+      "one_second_rms_p90_dbfs": -20.97766859906197,
+      "one_second_dynamic_span_p90_minus_p10_db": 11.245127885706694,
+      "one_second_near_silence_percent_below_minus45_dbfs": 2.1551724137931036
+    },
+    {
+      "source_id": "AV-TSUB-002",
+      "logical_identity": "dear_001_010",
+      "duration_seconds": 3151.0,
+      "global_rms_dbfs": -26.839731059346494,
+      "sample_peak_dbfs": -4.028281785599997,
+      "one_second_rms_p10_dbfs": -35.233820600266654,
+      "one_second_rms_median_dbfs": -27.690356761685692,
+      "one_second_rms_p90_dbfs": -23.660902534653328,
+      "one_second_dynamic_span_p90_minus_p10_db": 11.572918065613326,
+      "one_second_near_silence_percent_below_minus45_dbfs": 3.5873015873015874
+    },
+    {
+      "source_id": "AV-TSUB-003",
+      "logical_identity": "dear_011_020",
+      "duration_seconds": 3448.697324,
+      "global_rms_dbfs": -23.664273356170753,
+      "sample_peak_dbfs": -2.1489507881812657,
+      "one_second_rms_p10_dbfs": -30.83023845354469,
+      "one_second_rms_median_dbfs": -24.273791307969542,
+      "one_second_rms_p90_dbfs": -20.701850510620737,
+      "one_second_dynamic_span_p90_minus_p10_db": 10.128387942923954,
+      "one_second_near_silence_percent_below_minus45_dbfs": 2.1751740139211138
+    },
+    {
+      "source_id": "AV-TSUB-004",
+      "logical_identity": "dear_021_027",
+      "duration_seconds": 3006.357188,
+      "global_rms_dbfs": -22.533985207328598,
+      "sample_peak_dbfs": -2.39024579759352,
+      "one_second_rms_p10_dbfs": -31.796198359611004,
+      "one_second_rms_median_dbfs": -23.344122321810136,
+      "one_second_rms_p90_dbfs": -19.297135843515996,
+      "one_second_dynamic_span_p90_minus_p10_db": 12.499062516095009,
+      "one_second_near_silence_percent_below_minus45_dbfs": 2.4617431803060548
+    },
+    {
+      "source_id": "AV-TSUB-005",
+      "logical_identity": "produce_outings_20",
+      "duration_seconds": 1343.344036,
+      "global_rms_dbfs": -40.243954304012306,
+      "sample_peak_dbfs": -19.492402416972762,
+      "one_second_rms_p10_dbfs": -45.416683851213115,
+      "one_second_rms_median_dbfs": -41.705882187097274,
+      "one_second_rms_p90_dbfs": -37.07036994491269,
+      "one_second_dynamic_span_p90_minus_p10_db": 8.346313906300423,
+      "one_second_near_silence_percent_below_minus45_dbfs": 11.76470588235294
+    },
+    {
+      "source_id": "AV-TSUB-006",
+      "logical_identity": "song_commu_rironbusou",
+      "duration_seconds": 357.494422,
+      "global_rms_dbfs": -27.20993124896279,
+      "sample_peak_dbfs": -5.509502676855604,
+      "one_second_rms_p10_dbfs": -34.77124824704409,
+      "one_second_rms_median_dbfs": -28.261117130228687,
+      "one_second_rms_p90_dbfs": -23.843030889903922,
+      "one_second_dynamic_span_p90_minus_p10_db": 10.92821735714017,
+      "one_second_near_silence_percent_below_minus45_dbfs": 0.8403361344537815
+    },
+    {
+      "source_id": "AV-TSUB-007",
+      "logical_identity": "song_commu_kurai_ai",
+      "duration_seconds": 483.137596,
+      "global_rms_dbfs": -26.963988180719575,
+      "sample_peak_dbfs": -8.80463111696365,
+      "one_second_rms_p10_dbfs": -34.56034925932873,
+      "one_second_rms_median_dbfs": -28.44729353995888,
+      "one_second_rms_p90_dbfs": -23.274225308498597,
+      "one_second_dynamic_span_p90_minus_p10_db": 11.286123950830135,
+      "one_second_near_silence_percent_below_minus45_dbfs": 1.0351966873706004
+    },
+    {
+      "source_id": "AV-TSUB-008",
+      "logical_identity": "song_commu_campus_mode",
+      "duration_seconds": 649.113832,
+      "global_rms_dbfs": -26.628743274737104,
+      "sample_peak_dbfs": -8.89420744221039,
+      "one_second_rms_p10_dbfs": -35.17675607393973,
+      "one_second_rms_median_dbfs": -27.75198918778734,
+      "one_second_rms_p90_dbfs": -23.39380388637936,
+      "one_second_dynamic_span_p90_minus_p10_db": 11.782952187560369,
+      "one_second_near_silence_percent_below_minus45_dbfs": 0.7704160246533128
+    },
+    {
+      "source_id": "AV-TSUB-009",
+      "logical_identity": "performance_kurai_ai",
+      "duration_seconds": 156.804354,
+      "global_rms_dbfs": -16.766573501070077,
+      "sample_peak_dbfs": -1.9409839654966177,
+      "one_second_rms_p10_dbfs": -23.514683444773844,
+      "one_second_rms_median_dbfs": -16.277420848067464,
+      "one_second_rms_p90_dbfs": -15.461746427024613,
+      "one_second_dynamic_span_p90_minus_p10_db": 8.052937017749231,
+      "one_second_near_silence_percent_below_minus45_dbfs": 5.128205128205128
+    },
+    {
+      "source_id": "AV-TSUB-010",
+      "logical_identity": "performance_campus_mode",
+      "duration_seconds": 161.285805,
+      "global_rms_dbfs": -17.88035998674176,
+      "sample_peak_dbfs": -1.5631854060533925,
+      "one_second_rms_p10_dbfs": -24.663869618199968,
+      "one_second_rms_median_dbfs": -17.7654412340172,
+      "one_second_rms_p90_dbfs": -16.351460011908145,
+      "one_second_dynamic_span_p90_minus_p10_db": 8.312409606291823,
+      "one_second_near_silence_percent_below_minus45_dbfs": 6.211180124223603
+    },
+    {
+      "source_id": "AV-TSUB-011",
+      "logical_identity": "official_mv_rironbusou",
+      "duration_seconds": 214.645261,
+      "global_rms_dbfs": -12.202276784517485,
+      "sample_peak_dbfs": -0.25526816677712294,
+      "one_second_rms_p10_dbfs": -17.98370158600018,
+      "one_second_rms_median_dbfs": -12.071800645942066,
+      "one_second_rms_p90_dbfs": -10.257526413948488,
+      "one_second_dynamic_span_p90_minus_p10_db": 7.726175172051692,
+      "one_second_near_silence_percent_below_minus45_dbfs": 3.2710280373831773
+    },
+    {
+      "source_id": "AV-TSUB-012",
+      "logical_identity": "performance_rironbusou",
+      "duration_seconds": 157.895692,
+      "global_rms_dbfs": -18.21165795024953,
+      "sample_peak_dbfs": -0.3823085792580299,
+      "one_second_rms_p10_dbfs": -26.030837591130396,
+      "one_second_rms_median_dbfs": -17.809626274789444,
+      "one_second_rms_p90_dbfs": -16.502001283911696,
+      "one_second_dynamic_span_p90_minus_p10_db": 9.5288363072187,
+      "one_second_near_silence_percent_below_minus45_dbfs": 5.7324840764331215
+    },
+    {
+      "source_id": "AV-TSUB-013",
+      "logical_identity": "event_sena_tsubame_daily",
+      "duration_seconds": 1300.131701,
+      "global_rms_dbfs": -26.360970479928195,
+      "sample_peak_dbfs": -8.483399414617608,
+      "one_second_rms_p10_dbfs": -33.21034547038798,
+      "one_second_rms_median_dbfs": -26.558265757143026,
+      "one_second_rms_p90_dbfs": -23.559328437166933,
+      "one_second_dynamic_span_p90_minus_p10_db": 9.651017033221045,
+      "one_second_near_silence_percent_below_minus45_dbfs": 1.4615384615384615
+    },
+    {
+      "source_id": "AV-TSUB-014",
+      "logical_identity": "support_yatto_mitsuketa",
+      "duration_seconds": 302.347029,
+      "global_rms_dbfs": -25.434566733151716,
+      "sample_peak_dbfs": -3.981622891014543,
+      "one_second_rms_p10_dbfs": -32.39455429549412,
+      "one_second_rms_median_dbfs": -25.5471981212685,
+      "one_second_rms_p90_dbfs": -22.83545006955569,
+      "one_second_dynamic_span_p90_minus_p10_db": 9.559104225938427,
+      "one_second_near_silence_percent_below_minus45_dbfs": 0.33112582781456956
+    }
+  ]
+}

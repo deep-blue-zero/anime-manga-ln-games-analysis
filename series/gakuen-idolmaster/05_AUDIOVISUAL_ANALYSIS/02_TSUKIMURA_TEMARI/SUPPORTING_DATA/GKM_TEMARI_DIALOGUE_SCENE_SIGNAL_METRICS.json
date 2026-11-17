@@ -1,0 +1,753 @@
+{
+  "method_note": "Full-scene audio metrics only. Pitch is a BGM- and multi-speaker-contaminated proxy, not an isolated Temari F0 measurement. Pause and RMS measures are relative within each mastered clip.",
+  "episodes": {
+    "DEAR004": {
+      "full": {
+        "duration_s": 330.017,
+        "rms_db_median": -39.53,
+        "rms_db_p90": -26.12,
+        "relative_dynamic_span_db": 25.82,
+        "relative_low_activity_fraction": 0.3084,
+        "pause_count_ge_250ms": 105,
+        "pause_rate_per_min": 19.09,
+        "pause_median_s": 0.43,
+        "scene_pitch_proxy_median_hz": 275.8,
+        "scene_pitch_proxy_p10_hz": 123.8,
+        "scene_pitch_proxy_p90_hz": 360.5,
+        "scene_pitch_proxy_voiced_fraction": 0.4011
+      },
+      "phases": {
+        "defensive_body_shame": {
+          "duration_s": 130.0,
+          "rms_db_median": -38.79,
+          "rms_db_p90": -26.88,
+          "relative_dynamic_span_db": 26.24,
+          "relative_low_activity_fraction": 0.293,
+          "pause_count_ge_250ms": 43,
+          "pause_rate_per_min": 19.85,
+          "pause_median_s": 0.46,
+          "scene_pitch_proxy_median_hz": 264.7,
+          "scene_pitch_proxy_p10_hz": 123.7,
+          "scene_pitch_proxy_p90_hz": 352.2,
+          "scene_pitch_proxy_voiced_fraction": 0.4658,
+          "start_s": 0,
+          "end_s": 130
+        },
+        "care_exposure": {
+          "duration_s": 130.0,
+          "rms_db_median": -39.56,
+          "rms_db_p90": -25.17,
+          "relative_dynamic_span_db": 25.23,
+          "relative_low_activity_fraction": 0.3167,
+          "pause_count_ge_250ms": 50,
+          "pause_rate_per_min": 23.08,
+          "pause_median_s": 0.42,
+          "scene_pitch_proxy_median_hz": 251.7,
+          "scene_pitch_proxy_p10_hz": 110.3,
+          "scene_pitch_proxy_p90_hz": 366.7,
+          "scene_pitch_proxy_voiced_fraction": 0.5045,
+          "start_s": 130,
+          "end_s": 260
+        },
+        "debt_trust_reassembly": {
+          "duration_s": 70.017,
+          "rms_db_median": -40.43,
+          "rms_db_p90": -26.13,
+          "relative_dynamic_span_db": 56.35,
+          "relative_low_activity_fraction": 0.3165,
+          "pause_count_ge_250ms": 11,
+          "pause_rate_per_min": 9.43,
+          "pause_median_s": 0.36,
+          "scene_pitch_proxy_median_hz": 293.6,
+          "scene_pitch_proxy_p10_hz": 117.6,
+          "scene_pitch_proxy_p90_hz": 372.8,
+          "scene_pitch_proxy_voiced_fraction": 0.2948,
+          "start_s": 260,
+          "end_s": 330.017
+        }
+      }
+    },
+    "DEAR009": {
+      "full": {
+        "duration_s": 385.004,
+        "rms_db_median": -39.52,
+        "rms_db_p90": -23.71,
+        "relative_dynamic_span_db": 29.3,
+        "relative_low_activity_fraction": 0.3275,
+        "pause_count_ge_250ms": 133,
+        "pause_rate_per_min": 20.73,
+        "pause_median_s": 0.38,
+        "scene_pitch_proxy_median_hz": 263.5,
+        "scene_pitch_proxy_p10_hz": 118.2,
+        "scene_pitch_proxy_p90_hz": 356.9,
+        "scene_pitch_proxy_voiced_fraction": 0.3391
+      },
+      "phases": {
+        "live_focus": {
+          "duration_s": 105.0,
+          "rms_db_median": -33.98,
+          "rms_db_p90": -27.62,
+          "relative_dynamic_span_db": 19.43,
+          "relative_low_activity_fraction": 0.3141,
+          "pause_count_ge_250ms": 33,
+          "pause_rate_per_min": 18.86,
+          "pause_median_s": 0.45,
+          "scene_pitch_proxy_median_hz": 246.8,
+          "scene_pitch_proxy_p10_hz": 99.4,
+          "scene_pitch_proxy_p90_hz": 389.4,
+          "scene_pitch_proxy_voiced_fraction": 0.3906,
+          "start_s": 0,
+          "end_s": 105
+        },
+        "misuzu_reconciliation": {
+          "duration_s": 170.0,
+          "rms_db_median": -41.74,
+          "rms_db_p90": -22.85,
+          "relative_dynamic_span_db": 28.77,
+          "relative_low_activity_fraction": 0.3419,
+          "pause_count_ge_250ms": 66,
+          "pause_rate_per_min": 23.29,
+          "pause_median_s": 0.35,
+          "scene_pitch_proxy_median_hz": 251.2,
+          "scene_pitch_proxy_p10_hz": 118.2,
+          "scene_pitch_proxy_p90_hz": 355.8,
+          "scene_pitch_proxy_voiced_fraction": 0.3825,
+          "start_s": 105,
+          "end_s": 275
+        },
+        "producer_exclusivity": {
+          "duration_s": 110.004,
+          "rms_db_median": -41.34,
+          "rms_db_p90": -22.71,
+          "relative_dynamic_span_db": 97.29,
+          "relative_low_activity_fraction": 0.2525,
+          "pause_count_ge_250ms": 16,
+          "pause_rate_per_min": 8.73,
+          "pause_median_s": 1.04,
+          "scene_pitch_proxy_median_hz": 273.1,
+          "scene_pitch_proxy_p10_hz": 208.7,
+          "scene_pitch_proxy_p90_hz": 347.7,
+          "scene_pitch_proxy_voiced_fraction": 0.3061,
+          "start_s": 275,
+          "end_s": 385.004
+        }
+      }
+    },
+    "DEAR010": {
+      "full": {
+        "duration_s": 505.006,
+        "rms_db_median": -33.9,
+        "rms_db_p90": -23.94,
+        "relative_dynamic_span_db": 24.86,
+        "relative_low_activity_fraction": 0.3044,
+        "pause_count_ge_250ms": 190,
+        "pause_rate_per_min": 22.57,
+        "pause_median_s": 0.4,
+        "scene_pitch_proxy_median_hz": 204.6,
+        "scene_pitch_proxy_p10_hz": 100.7,
+        "scene_pitch_proxy_p90_hz": 341.6,
+        "scene_pitch_proxy_voiced_fraction": 0.3412
+      },
+      "phases": {
+        "domestic_misuzu_triangle": {
+          "duration_s": 180.0,
+          "rms_db_median": -40.74,
+          "rms_db_p90": -23.18,
+          "relative_dynamic_span_db": 26.25,
+          "relative_low_activity_fraction": 0.3795,
+          "pause_count_ge_250ms": 76,
+          "pause_rate_per_min": 25.33,
+          "pause_median_s": 0.37,
+          "scene_pitch_proxy_median_hz": 229.2,
+          "scene_pitch_proxy_p10_hz": 108.2,
+          "scene_pitch_proxy_p90_hz": 338.8,
+          "scene_pitch_proxy_voiced_fraction": 0.3475,
+          "start_s": 0,
+          "end_s": 180
+        },
+        "hated_prior_self": {
+          "duration_s": 185.0,
+          "rms_db_median": -30.93,
+          "rms_db_p90": -24.52,
+          "relative_dynamic_span_db": 24.64,
+          "relative_low_activity_fraction": 0.2637,
+          "pause_count_ge_250ms": 54,
+          "pause_rate_per_min": 17.51,
+          "pause_median_s": 0.58,
+          "scene_pitch_proxy_median_hz": 173.2,
+          "scene_pitch_proxy_p10_hz": 98.5,
+          "scene_pitch_proxy_p90_hz": 319.7,
+          "scene_pitch_proxy_voiced_fraction": 0.3735,
+          "start_s": 180,
+          "end_s": 365
+        },
+        "artificial_wings_promise": {
+          "duration_s": 140.006,
+          "rms_db_median": -28.54,
+          "rms_db_p90": -23.8,
+          "relative_dynamic_span_db": 23.03,
+          "relative_low_activity_fraction": 0.2789,
+          "pause_count_ge_250ms": 36,
+          "pause_rate_per_min": 15.43,
+          "pause_median_s": 0.485,
+          "scene_pitch_proxy_median_hz": 182.3,
+          "scene_pitch_proxy_p10_hz": 98.5,
+          "scene_pitch_proxy_p90_hz": 401.4,
+          "scene_pitch_proxy_voiced_fraction": 0.2915,
+          "start_s": 365,
+          "end_s": 505.006
+        }
+      }
+    },
+    "DEAR015": {
+      "full": {
+        "duration_s": 285.014,
+        "rms_db_median": -36.04,
+        "rms_db_p90": -17.59,
+        "relative_dynamic_span_db": 29.81,
+        "relative_low_activity_fraction": 0.3339,
+        "pause_count_ge_250ms": 111,
+        "pause_rate_per_min": 23.37,
+        "pause_median_s": 0.39,
+        "scene_pitch_proxy_median_hz": 245.5,
+        "scene_pitch_proxy_p10_hz": 160.5,
+        "scene_pitch_proxy_p90_hz": 353.6,
+        "scene_pitch_proxy_voiced_fraction": 0.3906
+      },
+      "phases": {
+        "rinha_confrontation": {
+          "duration_s": 150.0,
+          "rms_db_median": -36.87,
+          "rms_db_p90": -18.25,
+          "relative_dynamic_span_db": 30.55,
+          "relative_low_activity_fraction": 0.3155,
+          "pause_count_ge_250ms": 53,
+          "pause_rate_per_min": 21.2,
+          "pause_median_s": 0.44,
+          "scene_pitch_proxy_median_hz": 226.1,
+          "scene_pitch_proxy_p10_hz": 130.4,
+          "scene_pitch_proxy_p90_hz": 325.4,
+          "scene_pitch_proxy_voiced_fraction": 0.3682,
+          "start_s": 0,
+          "end_s": 150
+        },
+        "challenge_reassembly": {
+          "duration_s": 135.014,
+          "rms_db_median": -34.83,
+          "rms_db_p90": -17.19,
+          "relative_dynamic_span_db": 28.43,
+          "relative_low_activity_fraction": 0.3654,
+          "pause_count_ge_250ms": 65,
+          "pause_rate_per_min": 28.89,
+          "pause_median_s": 0.39,
+          "scene_pitch_proxy_median_hz": 262.4,
+          "scene_pitch_proxy_p10_hz": 168.7,
+          "scene_pitch_proxy_p90_hz": 374.7,
+          "scene_pitch_proxy_voiced_fraction": 0.4459,
+          "start_s": 150,
+          "end_s": 285.014
+        }
+      }
+    },
+    "DEAR016": {
+      "full": {
+        "duration_s": 390.003,
+        "rms_db_median": -32.92,
+        "rms_db_p90": -17.36,
+        "relative_dynamic_span_db": 28.42,
+        "relative_low_activity_fraction": 0.3242,
+        "pause_count_ge_250ms": 129,
+        "pause_rate_per_min": 19.85,
+        "pause_median_s": 0.47,
+        "scene_pitch_proxy_median_hz": 287.0,
+        "scene_pitch_proxy_p10_hz": 130.8,
+        "scene_pitch_proxy_p90_hz": 417.1,
+        "scene_pitch_proxy_voiced_fraction": 0.498
+      },
+      "phases": {
+        "controlled_public_persona": {
+          "duration_s": 190.0,
+          "rms_db_median": -32.94,
+          "rms_db_p90": -17.17,
+          "relative_dynamic_span_db": 27.31,
+          "relative_low_activity_fraction": 0.3349,
+          "pause_count_ge_250ms": 79,
+          "pause_rate_per_min": 24.95,
+          "pause_median_s": 0.44,
+          "scene_pitch_proxy_median_hz": 247.1,
+          "scene_pitch_proxy_p10_hz": 129.6,
+          "scene_pitch_proxy_p90_hz": 381.2,
+          "scene_pitch_proxy_voiced_fraction": 0.5447,
+          "start_s": 0,
+          "end_s": 190
+        },
+        "breakdown_and_model_confession": {
+          "duration_s": 140.0,
+          "rms_db_median": -30.45,
+          "rms_db_p90": -17.41,
+          "relative_dynamic_span_db": 27.25,
+          "relative_low_activity_fraction": 0.324,
+          "pause_count_ge_250ms": 44,
+          "pause_rate_per_min": 18.86,
+          "pause_median_s": 0.365,
+          "scene_pitch_proxy_median_hz": 326.9,
+          "scene_pitch_proxy_p10_hz": 165.4,
+          "scene_pitch_proxy_p90_hz": 449.0,
+          "scene_pitch_proxy_voiced_fraction": 0.5004,
+          "start_s": 190,
+          "end_s": 330
+        },
+        "reassembly": {
+          "duration_s": 60.003,
+          "rms_db_median": -37.93,
+          "rms_db_p90": -17.98,
+          "relative_dynamic_span_db": 102.01,
+          "relative_low_activity_fraction": 0.2236,
+          "pause_count_ge_250ms": 11,
+          "pause_rate_per_min": 11.0,
+          "pause_median_s": 0.84,
+          "scene_pitch_proxy_median_hz": 292.8,
+          "scene_pitch_proxy_p10_hz": 131.0,
+          "scene_pitch_proxy_p90_hz": 414.1,
+          "scene_pitch_proxy_voiced_fraction": 0.376,
+          "start_s": 330,
+          "end_s": 390.003
+        }
+      }
+    },
+    "DEAR017": {
+      "full": {
+        "duration_s": 380.011,
+        "rms_db_median": -35.57,
+        "rms_db_p90": -17.6,
+        "relative_dynamic_span_db": 27.68,
+        "relative_low_activity_fraction": 0.3657,
+        "pause_count_ge_250ms": 167,
+        "pause_rate_per_min": 26.37,
+        "pause_median_s": 0.42,
+        "scene_pitch_proxy_median_hz": 233.1,
+        "scene_pitch_proxy_p10_hz": 130.5,
+        "scene_pitch_proxy_p90_hz": 357.1,
+        "scene_pitch_proxy_voiced_fraction": 0.4605
+      },
+      "phases": {
+        "promise_conflict": {
+          "duration_s": 240.0,
+          "rms_db_median": -35.97,
+          "rms_db_p90": -17.57,
+          "relative_dynamic_span_db": 27.9,
+          "relative_low_activity_fraction": 0.365,
+          "pause_count_ge_250ms": 106,
+          "pause_rate_per_min": 26.5,
+          "pause_median_s": 0.43,
+          "scene_pitch_proxy_median_hz": 228.1,
+          "scene_pitch_proxy_p10_hz": 130.0,
+          "scene_pitch_proxy_p90_hz": 358.1,
+          "scene_pitch_proxy_voiced_fraction": 0.4878,
+          "start_s": 0,
+          "end_s": 240
+        },
+        "aftershock": {
+          "duration_s": 140.011,
+          "rms_db_median": -34.89,
+          "rms_db_p90": -17.7,
+          "relative_dynamic_span_db": 27.22,
+          "relative_low_activity_fraction": 0.3651,
+          "pause_count_ge_250ms": 62,
+          "pause_rate_per_min": 26.57,
+          "pause_median_s": 0.365,
+          "scene_pitch_proxy_median_hz": 241.0,
+          "scene_pitch_proxy_p10_hz": 167.7,
+          "scene_pitch_proxy_p90_hz": 356.0,
+          "scene_pitch_proxy_voiced_fraction": 0.4181,
+          "start_s": 240,
+          "end_s": 380.011
+        }
+      }
+    },
+    "DEAR019": {
+      "full": {
+        "duration_s": 260.011,
+        "rms_db_median": -37.19,
+        "rms_db_p90": -18.08,
+        "relative_dynamic_span_db": 30.09,
+        "relative_low_activity_fraction": 0.3368,
+        "pause_count_ge_250ms": 92,
+        "pause_rate_per_min": 21.23,
+        "pause_median_s": 0.445,
+        "scene_pitch_proxy_median_hz": 228.2,
+        "scene_pitch_proxy_p10_hz": 123.9,
+        "scene_pitch_proxy_p90_hz": 355.3,
+        "scene_pitch_proxy_voiced_fraction": 0.397
+      },
+      "phases": {
+        "misuzu_as_rival": {
+          "duration_s": 260.011,
+          "rms_db_median": -37.19,
+          "rms_db_p90": -18.08,
+          "relative_dynamic_span_db": 30.09,
+          "relative_low_activity_fraction": 0.3368,
+          "pause_count_ge_250ms": 92,
+          "pause_rate_per_min": 21.23,
+          "pause_median_s": 0.445,
+          "scene_pitch_proxy_median_hz": 228.2,
+          "scene_pitch_proxy_p10_hz": 123.9,
+          "scene_pitch_proxy_p90_hz": 355.3,
+          "scene_pitch_proxy_voiced_fraction": 0.397,
+          "start_s": 0,
+          "end_s": 260.011
+        }
+      }
+    },
+    "DEAR020": {
+      "full": {
+        "duration_s": 315.013,
+        "rms_db_median": -35.16,
+        "rms_db_p90": -18.91,
+        "relative_dynamic_span_db": 27.31,
+        "relative_low_activity_fraction": 0.3337,
+        "pause_count_ge_250ms": 110,
+        "pause_rate_per_min": 20.95,
+        "pause_median_s": 0.425,
+        "scene_pitch_proxy_median_hz": 244.5,
+        "scene_pitch_proxy_p10_hz": 116.4,
+        "scene_pitch_proxy_p90_hz": 378.5,
+        "scene_pitch_proxy_voiced_fraction": 0.418
+      },
+      "phases": {
+        "nia_culmination": {
+          "duration_s": 190.0,
+          "rms_db_median": -35.29,
+          "rms_db_p90": -18.58,
+          "relative_dynamic_span_db": 26.26,
+          "relative_low_activity_fraction": 0.3547,
+          "pause_count_ge_250ms": 76,
+          "pause_rate_per_min": 24.0,
+          "pause_median_s": 0.37,
+          "scene_pitch_proxy_median_hz": 250.9,
+          "scene_pitch_proxy_p10_hz": 116.0,
+          "scene_pitch_proxy_p90_hz": 395.4,
+          "scene_pitch_proxy_voiced_fraction": 0.4564,
+          "start_s": 0,
+          "end_s": 190
+        },
+        "artificial_wings_top_producer": {
+          "duration_s": 125.013,
+          "rms_db_median": -34.89,
+          "rms_db_p90": -19.59,
+          "relative_dynamic_span_db": 28.31,
+          "relative_low_activity_fraction": 0.3039,
+          "pause_count_ge_250ms": 41,
+          "pause_rate_per_min": 19.68,
+          "pause_median_s": 0.56,
+          "scene_pitch_proxy_median_hz": 222.9,
+          "scene_pitch_proxy_p10_hz": 107.3,
+          "scene_pitch_proxy_p90_hz": 351.0,
+          "scene_pitch_proxy_voiced_fraction": 0.3845,
+          "start_s": 190,
+          "end_s": 315.013
+        }
+      }
+    },
+    "DEAR022": {
+      "full": {
+        "duration_s": 261.015,
+        "rms_db_median": -33.23,
+        "rms_db_p90": -22.22,
+        "relative_dynamic_span_db": 22.99,
+        "relative_low_activity_fraction": 0.3613,
+        "pause_count_ge_250ms": 101,
+        "pause_rate_per_min": 23.22,
+        "pause_median_s": 0.37,
+        "scene_pitch_proxy_median_hz": 220.5,
+        "scene_pitch_proxy_p10_hz": 104.0,
+        "scene_pitch_proxy_p90_hz": 356.0,
+        "scene_pitch_proxy_voiced_fraction": 0.422
+      },
+      "phases": {
+        "misuzu_stage_awe": {
+          "duration_s": 130.0,
+          "rms_db_median": -34.61,
+          "rms_db_p90": -22.22,
+          "relative_dynamic_span_db": 31.95,
+          "relative_low_activity_fraction": 0.3735,
+          "pause_count_ge_250ms": 47,
+          "pause_rate_per_min": 21.69,
+          "pause_median_s": 0.37,
+          "scene_pitch_proxy_median_hz": 212.7,
+          "scene_pitch_proxy_p10_hz": 110.4,
+          "scene_pitch_proxy_p90_hz": 330.6,
+          "scene_pitch_proxy_voiced_fraction": 0.4316,
+          "start_s": 0,
+          "end_s": 130
+        },
+        "inferiority_fanhood": {
+          "duration_s": 131.015,
+          "rms_db_median": -31.66,
+          "rms_db_p90": -22.22,
+          "relative_dynamic_span_db": 21.31,
+          "relative_low_activity_fraction": 0.3538,
+          "pause_count_ge_250ms": 54,
+          "pause_rate_per_min": 24.73,
+          "pause_median_s": 0.36,
+          "scene_pitch_proxy_median_hz": 234.3,
+          "scene_pitch_proxy_p10_hz": 100.4,
+          "scene_pitch_proxy_p90_hz": 392.5,
+          "scene_pitch_proxy_voiced_fraction": 0.4179,
+          "start_s": 130,
+          "end_s": 261.015
+        }
+      }
+    },
+    "DEAR023": {
+      "full": {
+        "duration_s": 454.012,
+        "rms_db_median": -33.45,
+        "rms_db_p90": -22.0,
+        "relative_dynamic_span_db": 22.73,
+        "relative_low_activity_fraction": 0.3454,
+        "pause_count_ge_250ms": 172,
+        "pause_rate_per_min": 22.73,
+        "pause_median_s": 0.38,
+        "scene_pitch_proxy_median_hz": 196.1,
+        "scene_pitch_proxy_p10_hz": 110.2,
+        "scene_pitch_proxy_p90_hz": 320.6,
+        "scene_pitch_proxy_voiced_fraction": 0.5807
+      },
+      "phases": {
+        "loss_control": {
+          "duration_s": 250.0,
+          "rms_db_median": -32.86,
+          "rms_db_p90": -21.68,
+          "relative_dynamic_span_db": 21.93,
+          "relative_low_activity_fraction": 0.3363,
+          "pause_count_ge_250ms": 104,
+          "pause_rate_per_min": 24.96,
+          "pause_median_s": 0.41,
+          "scene_pitch_proxy_median_hz": 192.9,
+          "scene_pitch_proxy_p10_hz": 116.5,
+          "scene_pitch_proxy_p90_hz": 314.7,
+          "scene_pitch_proxy_voiced_fraction": 0.6341,
+          "start_s": 0,
+          "end_s": 250
+        },
+        "disbandment_live_next_action": {
+          "duration_s": 204.012,
+          "rms_db_median": -34.09,
+          "rms_db_p90": -22.49,
+          "relative_dynamic_span_db": 24.89,
+          "relative_low_activity_fraction": 0.3565,
+          "pause_count_ge_250ms": 67,
+          "pause_rate_per_min": 19.7,
+          "pause_median_s": 0.37,
+          "scene_pitch_proxy_median_hz": 203.7,
+          "scene_pitch_proxy_p10_hz": 99.3,
+          "scene_pitch_proxy_p90_hz": 334.8,
+          "scene_pitch_proxy_voiced_fraction": 0.5166,
+          "start_s": 250,
+          "end_s": 454.012
+        }
+      }
+    },
+    "DEAR027": {
+      "full": {
+        "duration_s": 360.02,
+        "rms_db_median": -35.68,
+        "rms_db_p90": -20.16,
+        "relative_dynamic_span_db": 22.95,
+        "relative_low_activity_fraction": 0.4075,
+        "pause_count_ge_250ms": 162,
+        "pause_rate_per_min": 27.0,
+        "pause_median_s": 0.425,
+        "scene_pitch_proxy_median_hz": 206.6,
+        "scene_pitch_proxy_p10_hz": 99.2,
+        "scene_pitch_proxy_p90_hz": 317.3,
+        "scene_pitch_proxy_voiced_fraction": 0.5361
+      },
+      "phases": {
+        "three_person_recognition": {
+          "duration_s": 220.0,
+          "rms_db_median": -35.13,
+          "rms_db_p90": -20.16,
+          "relative_dynamic_span_db": 22.72,
+          "relative_low_activity_fraction": 0.4078,
+          "pause_count_ge_250ms": 109,
+          "pause_rate_per_min": 29.73,
+          "pause_median_s": 0.41,
+          "scene_pitch_proxy_median_hz": 197.1,
+          "scene_pitch_proxy_p10_hz": 98.5,
+          "scene_pitch_proxy_p90_hz": 308.7,
+          "scene_pitch_proxy_voiced_fraction": 0.5963,
+          "start_s": 0,
+          "end_s": 220
+        },
+        "airplane_rocket_reframe": {
+          "duration_s": 140.02,
+          "rms_db_median": -36.67,
+          "rms_db_p90": -20.16,
+          "relative_dynamic_span_db": 23.1,
+          "relative_low_activity_fraction": 0.4266,
+          "pause_count_ge_250ms": 59,
+          "pause_rate_per_min": 25.28,
+          "pause_median_s": 0.4,
+          "scene_pitch_proxy_median_hz": 224.5,
+          "scene_pitch_proxy_p10_hz": 117.5,
+          "scene_pitch_proxy_p90_hz": 334.0,
+          "scene_pitch_proxy_voiced_fraction": 0.4575,
+          "start_s": 220,
+          "end_s": 360.02
+        }
+      }
+    },
+    "DEAR035": {
+      "full": {
+        "duration_s": 321.004,
+        "rms_db_median": -28.95,
+        "rms_db_p90": -18.01,
+        "relative_dynamic_span_db": 31.91,
+        "relative_low_activity_fraction": 0.3062,
+        "pause_count_ge_250ms": 101,
+        "pause_rate_per_min": 18.88,
+        "pause_median_s": 0.38,
+        "scene_pitch_proxy_median_hz": 260.0,
+        "scene_pitch_proxy_p10_hz": 110.5,
+        "scene_pitch_proxy_p90_hz": 394.1,
+        "scene_pitch_proxy_voiced_fraction": 0.443
+      },
+      "phases": {
+        "late_comic_integration": {
+          "duration_s": 190.0,
+          "rms_db_median": -28.9,
+          "rms_db_p90": -18.15,
+          "relative_dynamic_span_db": 26.03,
+          "relative_low_activity_fraction": 0.3208,
+          "pause_count_ge_250ms": 68,
+          "pause_rate_per_min": 21.47,
+          "pause_median_s": 0.37,
+          "scene_pitch_proxy_median_hz": 259.4,
+          "scene_pitch_proxy_p10_hz": 110.7,
+          "scene_pitch_proxy_p90_hz": 391.4,
+          "scene_pitch_proxy_voiced_fraction": 0.433,
+          "start_s": 0,
+          "end_s": 190
+        },
+        "first_name_sendoff": {
+          "duration_s": 131.004,
+          "rms_db_median": -29.06,
+          "rms_db_p90": -17.83,
+          "relative_dynamic_span_db": 37.31,
+          "relative_low_activity_fraction": 0.2528,
+          "pause_count_ge_250ms": 30,
+          "pause_rate_per_min": 13.74,
+          "pause_median_s": 0.445,
+          "scene_pitch_proxy_median_hz": 261.3,
+          "scene_pitch_proxy_p10_hz": 104.7,
+          "scene_pitch_proxy_p90_hz": 403.7,
+          "scene_pitch_proxy_voiced_fraction": 0.4669,
+          "start_s": 190,
+          "end_s": 321.004
+        }
+      }
+    },
+    "DEAR036": {
+      "full": {
+        "duration_s": 313.009,
+        "rms_db_median": -29.89,
+        "rms_db_p90": -18.14,
+        "relative_dynamic_span_db": 21.28,
+        "relative_low_activity_fraction": 0.3748,
+        "pause_count_ge_250ms": 118,
+        "pause_rate_per_min": 22.62,
+        "pause_median_s": 0.47,
+        "scene_pitch_proxy_median_hz": 222.3,
+        "scene_pitch_proxy_p10_hz": 107.7,
+        "scene_pitch_proxy_p90_hz": 393.1,
+        "scene_pitch_proxy_voiced_fraction": 0.3186
+      },
+      "phases": {
+        "titleholder_exchange": {
+          "duration_s": 145.0,
+          "rms_db_median": -30.48,
+          "rms_db_p90": -18.04,
+          "relative_dynamic_span_db": 19.79,
+          "relative_low_activity_fraction": 0.4523,
+          "pause_count_ge_250ms": 59,
+          "pause_rate_per_min": 24.41,
+          "pause_median_s": 0.63,
+          "scene_pitch_proxy_median_hz": 228.4,
+          "scene_pitch_proxy_p10_hz": 99.6,
+          "scene_pitch_proxy_p90_hz": 407.0,
+          "scene_pitch_proxy_voiced_fraction": 0.3067,
+          "start_s": 0,
+          "end_s": 145
+        },
+        "public_prima_stella_address": {
+          "duration_s": 168.009,
+          "rms_db_median": -29.49,
+          "rms_db_p90": -18.24,
+          "relative_dynamic_span_db": 22.35,
+          "relative_low_activity_fraction": 0.311,
+          "pause_count_ge_250ms": 55,
+          "pause_rate_per_min": 19.64,
+          "pause_median_s": 0.39,
+          "scene_pitch_proxy_median_hz": 219.3,
+          "scene_pitch_proxy_p10_hz": 110.1,
+          "scene_pitch_proxy_p90_hz": 374.4,
+          "scene_pitch_proxy_voiced_fraction": 0.3299,
+          "start_s": 145,
+          "end_s": 313.009
+        }
+      }
+    },
+    "DEAR037": {
+      "full": {
+        "duration_s": 356.017,
+        "rms_db_median": -31.13,
+        "rms_db_p90": -18.94,
+        "relative_dynamic_span_db": 38.14,
+        "relative_low_activity_fraction": 0.2614,
+        "pause_count_ge_250ms": 83,
+        "pause_rate_per_min": 13.99,
+        "pause_median_s": 0.38,
+        "scene_pitch_proxy_median_hz": 203.5,
+        "scene_pitch_proxy_p10_hz": 109.9,
+        "scene_pitch_proxy_p90_hz": 341.8,
+        "scene_pitch_proxy_voiced_fraction": 0.5179
+      },
+      "phases": {
+        "post_victory_banter": {
+          "duration_s": 170.0,
+          "rms_db_median": -30.25,
+          "rms_db_p90": -18.94,
+          "relative_dynamic_span_db": 36.68,
+          "relative_low_activity_fraction": 0.2844,
+          "pause_count_ge_250ms": 39,
+          "pause_rate_per_min": 13.76,
+          "pause_median_s": 0.45,
+          "scene_pitch_proxy_median_hz": 192.7,
+          "scene_pitch_proxy_p10_hz": 109.4,
+          "scene_pitch_proxy_p90_hz": 323.2,
+          "scene_pitch_proxy_voiced_fraction": 0.6416,
+          "start_s": 0,
+          "end_s": 170
+        },
+        "present_self_love_attachment": {
+          "duration_s": 186.017,
+          "rms_db_median": -31.98,
+          "rms_db_p90": -18.96,
+          "relative_dynamic_span_db": 101.03,
+          "relative_low_activity_fraction": 0.2599,
+          "pause_count_ge_250ms": 53,
+          "pause_rate_per_min": 17.1,
+          "pause_median_s": 0.34,
+          "scene_pitch_proxy_median_hz": 237.5,
+          "scene_pitch_proxy_p10_hz": 110.4,
+          "scene_pitch_proxy_p90_hz": 359.8,
+          "scene_pitch_proxy_voiced_fraction": 0.408,
+          "start_s": 170,
+          "end_s": 356.017
+        }
+      }
+    }
+  }
+}

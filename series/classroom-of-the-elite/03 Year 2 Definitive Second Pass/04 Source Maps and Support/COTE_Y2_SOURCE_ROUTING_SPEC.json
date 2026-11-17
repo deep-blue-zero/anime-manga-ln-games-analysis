@@ -1,0 +1,629 @@
+{
+  "format_version": 1,
+  "snapshot_boundary": "Y2SL",
+  "source_order_is_governed_reading_order": true,
+  "sources": [
+    {
+      "source_code": "Y2V01",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 01 [Japanese].epub",
+      "source_bytes": 1033179,
+      "source_sha256": "6f31df73f2bcd05954b6c2886f6be20a844a4db8cf9ca4f6085acfeb516ad531",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V01_DEEP_READING.md",
+      "canonical_spine_index_offset": 0,
+      "expected_evidence_count": 69,
+      "illustration_aliases": {
+        "ill-13": {
+          "resource": "images/00013.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-15": {
+          "resource": "images/00015.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-16": {
+          "resource": "images/00016.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-17": {
+          "resource": "images/00017.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-18": {
+          "resource": "images/00018.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-20": {
+          "resource": "images/00020.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        }
+      },
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 01 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V02",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 02 [Japanese].epub",
+      "source_bytes": 2466176,
+      "source_sha256": "e8b1024a70a8d5eed20f0c5b155c44bed7b4552366828a9cf7d6fba8b877025a",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V02_DEEP_READING.md",
+      "canonical_spine_index_offset": 0,
+      "expected_evidence_count": 98,
+      "illustration_aliases": {
+        "ill-10": {
+          "resource": "images/00010.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-11": {
+          "resource": "images/00011.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-12": {
+          "resource": "images/00012.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-13": {
+          "resource": "images/00013.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-14": {
+          "resource": "images/00014.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-15": {
+          "resource": "images/00015.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-16": {
+          "resource": "images/00016.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-18": {
+          "resource": "images/00018.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-19": {
+          "resource": "images/00019.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-20": {
+          "resource": "images/00020.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        }
+      },
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 02 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V03",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 03 [Japanese].epub",
+      "source_bytes": 2715806,
+      "source_sha256": "0c9eec27725ec03969f6eda94736fe234e7ce63fe4ba088f841b036d8ce5309b",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V03_DEEP_READING.md",
+      "canonical_spine_index_offset": 0,
+      "expected_evidence_count": 104,
+      "illustration_aliases": {
+        "ill-14": {
+          "resource": "images/00014.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-15": {
+          "resource": "images/00015.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-16": {
+          "resource": "images/00016.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-17": {
+          "resource": "images/00017.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-18": {
+          "resource": "images/00018.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-19": {
+          "resource": "images/00019.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-20": {
+          "resource": "images/00020.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-21": {
+          "resource": "images/00021.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-22": {
+          "resource": "images/00022.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        },
+        "ill-23": {
+          "resource": "images/00023.jpeg",
+          "basis": "Source image visually compared with canonical illustration descriptions; V03 interval retains ornamental asset 21 without assigning narrative meaning."
+        }
+      },
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 03 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V04",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 04 [Japanese].epub",
+      "source_bytes": 2681573,
+      "source_sha256": "ad3a8eb0a69a77fa959fbece462a3af65cc67fbcb6a2e9b2375de0b957e6f059",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V04_DEEP_READING.md",
+      "canonical_spine_index_offset": 0,
+      "expected_evidence_count": 214,
+      "illustration_aliases": {
+        "ill-10": {
+          "resource": "images/00010.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-12": {
+          "resource": "images/00012.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-13": {
+          "resource": "images/00013.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-14": {
+          "resource": "images/00014.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-15": {
+          "resource": "images/00015.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-16": {
+          "resource": "images/00016.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-17": {
+          "resource": "images/00017.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-18": {
+          "resource": "images/00018.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-20": {
+          "resource": "images/00020.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-21": {
+          "resource": "images/00021.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        }
+      },
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 04 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V04.5",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 04.5 [Japanese].epub",
+      "source_bytes": 2534757,
+      "source_sha256": "4f23997a4f72b7ed59df6d3c334178bcc7b17c34551b6c9621a9054cd9f2f9f3",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V04_5_DEEP_READING.md",
+      "canonical_spine_index_offset": 0,
+      "expected_evidence_count": 182,
+      "illustration_aliases": {
+        "ill-08": {
+          "resource": "images/00008.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-10": {
+          "resource": "images/00010.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-11": {
+          "resource": "images/00011.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-13": {
+          "resource": "images/00013.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-15": {
+          "resource": "images/00015.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-17": {
+          "resource": "images/00017.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-19": {
+          "resource": "images/00019.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-20": {
+          "resource": "images/00020.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-21": {
+          "resource": "images/00021.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-22": {
+          "resource": "images/00022.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-23": {
+          "resource": "images/00023.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        }
+      },
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 04.5 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V05",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 05 [Japanese].epub",
+      "source_bytes": 2155499,
+      "source_sha256": "829bf63db3496f654d8d9c871d0fbbacfd699d169eb0cc4d17235faadf24c719",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V05_DEEP_READING.md",
+      "canonical_spine_index_offset": 0,
+      "expected_evidence_count": 160,
+      "illustration_aliases": {
+        "ill-08": {
+          "resource": "images/00008.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-10": {
+          "resource": "images/00010.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-11": {
+          "resource": "images/00011.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-12": {
+          "resource": "images/00012.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-13": {
+          "resource": "images/00013.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-14": {
+          "resource": "images/00014.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-16": {
+          "resource": "images/00016.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-17": {
+          "resource": "images/00017.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-18": {
+          "resource": "images/00018.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        }
+      },
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 05 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V06",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 06 [Japanese].epub",
+      "source_bytes": 16440065,
+      "source_sha256": "b4daa5f1998a3d1e05a783371233b5bd6c9a3d7b6624971a227653b2f0ae436b",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V06_DEEP_READING.md",
+      "canonical_spine_index_offset": 1,
+      "expected_evidence_count": 180,
+      "illustration_aliases": {
+        "ill-09": {
+          "resource": "OEBPS/Images/embed0009_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-10": {
+          "resource": "OEBPS/Images/embed0010_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-11": {
+          "resource": "OEBPS/Images/embed0011_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-12": {
+          "resource": "OEBPS/Images/embed0012_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-13": {
+          "resource": "OEBPS/Images/embed0013_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-14": {
+          "resource": "OEBPS/Images/embed0014_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-15": {
+          "resource": "OEBPS/Images/embed0015_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-16": {
+          "resource": "OEBPS/Images/embed0016_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-17": {
+          "resource": "OEBPS/Images/embed0017_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-18": {
+          "resource": "OEBPS/Images/embed0018_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        }
+      },
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 06 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V07",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 07 [Japanese].epub",
+      "source_bytes": 14888219,
+      "source_sha256": "db45b6e29206b048d9311d05214550ad4f2d0e5907034b27092103d848cbde0c",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V07_DEEP_READING.md",
+      "canonical_spine_index_offset": 0,
+      "expected_evidence_count": 168,
+      "illustration_aliases": {
+        "ill-01": {
+          "resource": "OEBPS/Images/embed0009_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-02": {
+          "resource": "OEBPS/Images/embed0010_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-03": {
+          "resource": "OEBPS/Images/embed0011_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-04": {
+          "resource": "OEBPS/Images/embed0013_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-05": {
+          "resource": "OEBPS/Images/embed0014_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-06": {
+          "resource": "OEBPS/Images/embed0015_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-07": {
+          "resource": "OEBPS/Images/embed0017_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-08": {
+          "resource": "OEBPS/Images/embed0018_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-09": {
+          "resource": "OEBPS/Images/embed0019_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-10": {
+          "resource": "OEBPS/Images/embed0020_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        }
+      },
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 07 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V08",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 08 [Japanese].epub",
+      "source_bytes": 10858802,
+      "source_sha256": "81059e92ce187302489bca9c2116745a1e6b31f46b736b908b11e308e391c263",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V08_DEEP_READING.md",
+      "canonical_spine_index_offset": 1,
+      "expected_evidence_count": 168,
+      "illustration_aliases": {
+        "ill-01": {
+          "resource": "OEBPS/Images/embed0010_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-02": {
+          "resource": "OEBPS/Images/embed0011_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-03": {
+          "resource": "OEBPS/Images/embed0012_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-04": {
+          "resource": "OEBPS/Images/embed0013_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-05": {
+          "resource": "OEBPS/Images/embed0014_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-06": {
+          "resource": "OEBPS/Images/embed0015_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-07": {
+          "resource": "OEBPS/Images/embed0016_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-08": {
+          "resource": "OEBPS/Images/embed0017_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-09": {
+          "resource": "OEBPS/Images/embed0018_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-10": {
+          "resource": "OEBPS/Images/embed0019_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        }
+      },
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 08 [Japanese].epub"
+    },
+    {
+      "source_code": "V00",
+      "source_filename": "Classroom of the Elite - Volume 00 [Japanese].epub",
+      "source_bytes": 9460508,
+      "source_sha256": "ec30387a4de96870b53e88a4a2ca5d28ac27455e5ffb15936f4895852fcdb209",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_V00_RETROSPECTIVE_DEEP_READING.md",
+      "canonical_spine_index_offset": 1,
+      "expected_evidence_count": 176,
+      "illustration_aliases": {
+        "ill-01": {
+          "resource": "OEBPS/Images/image8.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-02": {
+          "resource": "OEBPS/Images/image9.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-03": {
+          "resource": "OEBPS/Images/image10.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-04": {
+          "resource": "OEBPS/Images/image11.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-05": {
+          "resource": "OEBPS/Images/image12.png",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-06": {
+          "resource": "OEBPS/Images/image13.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-07": {
+          "resource": "OEBPS/Images/image14.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-08": {
+          "resource": "OEBPS/Images/image15.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-09": {
+          "resource": "OEBPS/Images/image16.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-10": {
+          "resource": "OEBPS/Images/image17.jpeg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        }
+      },
+      "source_relative_path": "Bonus and Extras/Classroom of the Elite - Volume 00 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V09",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 09 [Japanese].epub",
+      "source_bytes": 10472032,
+      "source_sha256": "da89761bfd848fbc0c1a846cc8c647a03778357a005f66fd491c4aeb38b590f3",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V09_DEEP_READING.md",
+      "canonical_spine_index_offset": 1,
+      "expected_evidence_count": 168,
+      "illustration_aliases": {
+        "ill-01": {
+          "resource": "OEBPS/Images/embed0009_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-02": {
+          "resource": "OEBPS/Images/embed0011_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-03": {
+          "resource": "OEBPS/Images/embed0013_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-04": {
+          "resource": "OEBPS/Images/embed0014_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-05": {
+          "resource": "OEBPS/Images/embed0015_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-06": {
+          "resource": "OEBPS/Images/embed0016_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-07": {
+          "resource": "OEBPS/Images/embed0017_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-08": {
+          "resource": "OEBPS/Images/embed0018_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-09": {
+          "resource": "OEBPS/Images/embed0019_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        },
+        "ill-10": {
+          "resource": "OEBPS/Images/embed0020_HD.jpg",
+          "basis": "Explicit illustration inventory row in canonical source-local artifact."
+        }
+      },
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 09 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V09.5",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 09.5 [Japanese].epub",
+      "source_bytes": 9575530,
+      "source_sha256": "8a4cadb422d030e60dca2b3b65b5e65321be3c4cdb13b102f0acdce45ed6620b",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V09_5_DEEP_READING.md",
+      "canonical_spine_index_offset": 1,
+      "expected_evidence_count": 176,
+      "illustration_aliases": {},
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 09.5 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V10",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 10 [Japanese].epub",
+      "source_bytes": 9871375,
+      "source_sha256": "310bb57a23fe737f7dae1f5b91c7acb37b195658cfc6071c91a96c8a94fbfe7e",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V10_DEEP_READING.md",
+      "canonical_spine_index_offset": 0,
+      "expected_evidence_count": 180,
+      "illustration_aliases": {},
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 10 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V11",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 11 [Japanese].epub",
+      "source_bytes": 11174532,
+      "source_sha256": "348f541675bfe30ad8d1894d43c32eef7641d366dee5a5544dbcded0886ffde5",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V11_DEEP_READING.md",
+      "canonical_spine_index_offset": 1,
+      "expected_evidence_count": 180,
+      "illustration_aliases": {},
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 11 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V12",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 12 [Japanese].epub",
+      "source_bytes": 10581855,
+      "source_sha256": "45a62f74e72c621162e9bbf8e7b8aae4a97ed719a1decb7b2fcf97462ddd7195",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V12_DEEP_READING.md",
+      "canonical_spine_index_offset": 1,
+      "expected_evidence_count": 180,
+      "illustration_aliases": {},
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 12 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2V12.5",
+      "source_filename": "Classroom of the Elite - Year 2 - Volume 12.5 [Japanese].epub",
+      "source_bytes": 12848788,
+      "source_sha256": "d547dbfe5a57850b26b8d25201af8e0986126019fb0525fb733f23a8ca6da352",
+      "canonical_artifact": "01 Canonical Volume Deep Readings/COTE_Y2_V12_5_DEEP_READING.md",
+      "canonical_spine_index_offset": 1,
+      "expected_evidence_count": 180,
+      "illustration_aliases": {},
+      "source_relative_path": "Year 2/Classroom of the Elite - Year 2 - Volume 12.5 [Japanese].epub"
+    },
+    {
+      "source_code": "Y2SL",
+      "source_filename": "Classroom of the Elite - Year 2 Official Guidebook - Second List [Japanese].epub",
+      "source_bytes": 119398463,
+      "source_sha256": "fcc6f15ff674c9833263247816bf23ce67a7b337924fe87901567285331e98b5",
+      "canonical_artifact": "01A Guidebook Paratext Audits/COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md",
+      "canonical_spine_index_offset": null,
+      "expected_evidence_count": 114,
+      "illustration_aliases": {},
+      "source_relative_path": "Bonus and Extras/Classroom of the Elite - Year 2 Official Guidebook - Second List [Japanese].epub"
+    }
+  ]
+}

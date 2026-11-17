@@ -1,0 +1,105 @@
+{
+  "schema": "konosuba.cohort49.source-precision-qualifications.v1",
+  "authority": "Mandatory source/access qualifications for the cohort49 scoped interpretations; prior history remains exact.",
+  "qualifications": [
+    {
+      "id": "C49-Q01",
+      "source": "MAIN17U014358/367/373/385/388/472;U01621",
+      "finding": "The Demon King self-introduces as Yasaka, then 八坂恭一 with やさかきょういち. He deliberately withholds the name origin and war explanation.",
+      "limit": "Earlier interrupted-name preparatory wording is preserved as dated history but qualified here. Do not suppress the actual supplied name, infer Japanese-human/reincarnation genealogy, or confuse him with the still-unnamed gatekeeper."
+    },
+    {
+      "id": "C49-Q02",
+      "source": "MAIN17U01160–171; existing Duke row75 and barrier crew692",
+      "finding": "The winged masked gatekeeper is a continuous actual defender, but his name never reaches the audience. He regenerates and proposes barrier attrition after recognizing range disadvantage.",
+      "limit": "Kazuma’s angel/Duke questions83–84 are not identity proof. Divine blood, rank and unlimited mana remain claims. Recovery does not prove infinite usable throughput or invincibility; crew capacities are not inherited."
+    },
+    {
+      "id": "C49-Q03",
+      "source": "MAIN17U011134–145",
+      "finding": "Kazuma’s gloss135 adds a body-related insult absent from displayed distant speech134; the later distant speech142 itself contains insults.",
+      "limit": "Neither independently verified transcript nor wholly invented hostility. Lip-reading, speaker text and Kazuma’s performed rendering are separate; no acoustic certification."
+    },
+    {
+      "id": "C49-Q04",
+      "source": "MAIN17U011373–375/403–405/424/435/444–445/467/477–493",
+      "finding": "Pain has alternate perception, knows a magic sword could destroy him, is harmed by Aqua and counter-drains Kazuma. He explains deception and voices a conditional shared-interest affinity while keeping enmity.",
+      "limit": "No species-wide physical or light immunity, unknown-exception claim, measured drain rates, actual friendship or general benevolence. His genuine thought-channel turns differ from Kazuma’s imitation."
+    },
+    {
+      "id": "C49-Q05",
+      "source": "MAIN17U011461–474/498/578;U01293",
+      "finding": "Kazuma’s false Pain instruction induces Nos to strike Logia; genuine Pain explains and seeks restraint. Pain is destroyed, and Logia’s corpse is confirmed.",
+      "limit": "False insult is not Pain’s real opinion; friendly strike is not deliberate betrayal. Real deaths are not harmless slapstick or an unshown resurrection. Nos retains his existing Dust07 identity and monograph."
+    },
+    {
+      "id": "C49-Q06",
+      "source": "YORI04U014530–540;MAIN17U01292/165/350",
+      "finding": "Tentative name, goat head, one two-handed axe and reported guard-command promotion strongly support Mammon’s historical cross-source join.",
+      "limit": "High-confidence conjunction, not an explicit cross-volume equation or another person. Retrospective defeated-opponent testimony and promotion hearsay retain their scope; no post-death return inferred from publication order."
+    },
+    {
+      "id": "C49-Q07",
+      "source": "MAIN17U012123/175–246",
+      "finding": "Mammon detects a register mismatch but misclassifies it, asks concrete intelligence questions, disciplines subordinates, apologizes and actually strikes the tea server217. A later attempted blow is interrupted by capture news.",
+      "limit": "Aqua purifies the tea203; no intentional server sabotage is shown. Do not count interrupted threats as more completed blows. A promised bonus is not paid on page; disguised Kazuma’s proposals are not Nos’s choices."
+    },
+    {
+      "id": "C49-Q08",
+      "source": "MAIN17U012306/321–334/343–371/468–469",
+      "finding": "Mammon first hesitates, then straightens after Mitsurugi’s challenge and stops further humiliation while retaining hostages and armed coercion. Later public bravado precedes a concealed stab, uncertain incapacitation and eventual corpse.",
+      "limit": "Internal inhibition, face, rebuke and tactical sufficiency co-occur. No single isolated moral cause or acquittal. Skill OR poison371 remains unresolved; most defenders defeated by Mitsurugi does not assign Mammon’s precise fatal blow."
+    },
+    {
+      "id": "C49-Q09",
+      "source": "MAIN17U013122–135/183–184/246/324/343–353/389",
+      "finding": "The initial lightning is cast by retainers. Three black mages, four knights, an ogre and a scythe skeleton are nine retainers, with the king making ten. Eris supplies qualified resistance and tactical assessments.",
+      "limit": "Do not give the king every spell, count ten plus king, make probable instant-death resistance an actual trial, or treat an unperformed Mitsurugi dungeon fight as fact. Seal, local ally enhancement and global monster weakening are distinct."
+    },
+    {
+      "id": "C49-Q10",
+      "source": "MAIN17U01413–77/119–263",
+      "finding": "The king diagnoses a delay strategy, attempts return, changes tactics, takes an ordinary leg wound and creates an effective buffed smaller golem at mana cost.",
+      "limit": "No absolute inability to retreat, thoughtless anger, total mundane-attack immunity, unlimited mana or universal on-sight spell learning. Kazuma’s proposed golem Teleport230 remains an untested alternative."
+    },
+    {
+      "id": "C49-Q11",
+      "source": "MAIN17U01480–112/277–279/300–322",
+      "finding": "The king calls the burning charm a curse before its explanation. He catches the handkerchief101 before saying his daughter made it103. Dust’s borrowed blade blocks a dangerous strike316 and shatters.",
+      "limit": "No neutral conclusion of a useless sword, ownership transfer from the king’s gift wording322, universal hair-damage law, isolated handkerchief anger trigger, daughter age or moral acquittal. Managerial grievances are attributed potentially self-serving memories."
+    },
+    {
+      "id": "C49-Q12",
+      "source": "MAIN17U014343/398/415–418/433/443–482/539",
+      "finding": "Escape, recruitment and curse proposals remain unperformed. Visible Explosion changes the king’s draw response. The final カース is incomplete; Eris later confirms defeat.",
+      "limit": "No tested safe-return guarantee, universally sincere/false bargaining rule, cast nonbetrayal curse, demonstrated Aqua loophole, completed last spell or precise blast-versus-collapse fatal mechanism."
+    },
+    {
+      "id": "C49-Q13",
+      "source": "MAIN16U010286–312;MAIN17U01255/U013380–384/U014103/398/705–725",
+      "finding": "Iris’s letter reports military history and expected daughter leadership. The confident MAIN16 duel forecast310 is MEGUMIN’s, explicitly tagged312. Later capital reports, father testimony and two tentative retreat identifications remain distinct.",
+      "limit": "Earlier tool-purpose wording calling the forecast Aqua’s was erroneous; Aqua is absent. No directly watched whole daughter duel, inner motive, direct voice, age, name, succession or exact strength is supplied."
+    },
+    {
+      "id": "C49-Q14",
+      "source": "MAIN17U014625–627/683–696/745–764;U01547–90;U01613–27;U018",
+      "finding": "Exceptional resurrection restores Kazuma; he brings Eris as the reward, Aqua descends separately, Mitsurugi remains alive but endangered, and the later Eris-focalized epilogue reveals living Kazuma’s Teleport. U016 is creator commentary; U018 is colophon.",
+      "limit": "No unlimited resurrection, new epilogue death, completed final healing, royal marriage or reward ceremony. Author corroboration of daughter expulsion22 is not an independent narrated witness; modal offstage sketches remain qualified."
+    },
+    {
+      "id": "C49-Q15",
+      "source": "MAIN17U01354–57/439/U014702–703/745–751; existing rows127/128/137",
+      "finding": "Fio/Clemea are a shared named set but exact spear/thief mapping is explicitly unknown. Existing role profiles and Nos’s episode alias retain their homes and distinct histories.",
+      "limit": "Do not assign an untagged plea by name, create duplicates, infer mutual romance or permanent sacrifice consent, or normalize nineteen historical canonical/private census differences."
+    },
+    {
+      "id": "C49-Q16",
+      "source": "Cohort49 complete primary and related receiving receipts",
+      "finding": "Actual current scope is 2784 structural P/2397 ruby, nine text members/three known EPUB objects, five complete narrative members, one creator afterword, one colophon and two bounded comparisons. Eighteen additional pages are derivative authority review.",
+      "limit": "No new image, residual, entire-edition, global-first, independent-reader, model, rule, scenario-first, prediction-score or final census credit. Prior known exposure and all frozen adverse histories remain exact."
+    }
+  ],
+  "independent_observation_count": null,
+  "new_models_rules_inputs_or_firsts": 0,
+  "full_program_complete": false
+}

@@ -1,0 +1,3642 @@
+{
+  "source_code": "Y3V04",
+  "source_language": "Japanese",
+  "source_filename": "Classroom of the Elite - Year 3 - Volume 04 [Japanese].epub",
+  "source_boundary": "Y3V04",
+  "status": "complete_local_read",
+  "extraction": {
+    "extractor_version": "COTE-Y3-EPUB-1.4-V04",
+    "source_sha256": "35255e4aa76a4b4b6b6a5c57bf38ba4aa1be577e20ed0847f7a11bd6cec76dee",
+    "source_bytes": 14641419,
+    "normalized_sha256": "d0f6770765b38529346ed8b34b3130232cd159d072a0465f3a68a690d4f5d66e",
+    "normalization": "UTF-8 LF; nonempty p/h1-h4/li/figcaption in OPF spine order; trim boundary whitespace; replace CR/LF/tab runs with one space; ruby rt/rp excluded from base text; rb and ruby base retained; inline gaiji restored from three visually verified image-name mappings because this converted EPUB has empty alt attributes (minus, Kushida first character, Kikyo second character); each glyph requires separate visual verification; glyph occurrences excluded from illustration numbering; original XHTML retained in EPUB; no invented print page numbers",
+    "paragraphs": 3674,
+    "characters": 156237,
+    "spines": [
+      {
+        "spine": 1,
+        "member": "titlepage.xhtml",
+        "raw_sha256": "f0611ea1a939d721d1ec02e015ffcef456de505ebc8547c029f499a3b9f3bae6",
+        "paragraphs": 0,
+        "characters": 0
+      },
+      {
+        "spine": 2,
+        "member": "OEBPS/c9.xhtml",
+        "raw_sha256": "8d1610b186567947a15113c470eafa674d813919361c2fe9a93c44635988d898",
+        "paragraphs": 0,
+        "characters": 0
+      },
+      {
+        "spine": 3,
+        "member": "OEBPS/cM.xhtml",
+        "raw_sha256": "a24ab42b33aa88139f84c1b2abbd17b364bb2c8f292af7436b1f932c4f9bfbed",
+        "paragraphs": 0,
+        "characters": 0
+      },
+      {
+        "spine": 4,
+        "member": "OEBPS/cX.xhtml",
+        "raw_sha256": "f66bf4e28e1b2b2c9d86e2bb85d7bcd89356766ecc0b2e5327622839dbca8b31",
+        "paragraphs": 0,
+        "characters": 0
+      },
+      {
+        "spine": 5,
+        "member": "OEBPS/c16.xhtml",
+        "raw_sha256": "b23272969357bb0ae66f3a0ab256417b9f198abea2da43cc6fd616b78304c8bd",
+        "paragraphs": 0,
+        "characters": 0
+      },
+      {
+        "spine": 6,
+        "member": "OEBPS/c1F.xhtml",
+        "raw_sha256": "746c9e5212dc64484dc0c60e88175b7cf1fd3f06665f8756b85e698b8acc98ab",
+        "paragraphs": 0,
+        "characters": 0
+      },
+      {
+        "spine": 7,
+        "member": "OEBPS/c1S.xhtml",
+        "raw_sha256": "72e6e5e1d5c9e79d0a962fc2c638203a6513a4129e66743f0c7636f51aa44de3",
+        "paragraphs": 0,
+        "characters": 0
+      },
+      {
+        "spine": 8,
+        "member": "OEBPS/c21.xhtml",
+        "raw_sha256": "d3e1ec8dd0b4196328ef8e3ab3675c48358456dadf67de83b348a2d0084206b4",
+        "paragraphs": 3,
+        "characters": 112
+      },
+      {
+        "spine": 9,
+        "member": "OEBPS/c2B.xhtml",
+        "raw_sha256": "03ae0a00421b30f7a30a574931608a2c8aa31e7e2e36328976b17a88174b2770",
+        "paragraphs": 0,
+        "characters": 0
+      },
+      {
+        "spine": 10,
+        "member": "OEBPS/c2M.xhtml",
+        "raw_sha256": "f7a0dc8388170db0e8539313d5422bc468918e80150008de47807d513860d1ac",
+        "paragraphs": 11,
+        "characters": 78
+      },
+      {
+        "spine": 11,
+        "member": "OEBPS/c36.xhtml",
+        "raw_sha256": "8ba8b85d96e8cea23525b4fe23faae28bb6537568d4222891c598b106806ac87",
+        "paragraphs": 35,
+        "characters": 672
+      },
+      {
+        "spine": 12,
+        "member": "OEBPS/c5B.xhtml",
+        "raw_sha256": "903a473e739b4a760c180f23fa7389ee05cd52db1d502955cc77ebd9f8049575",
+        "paragraphs": 463,
+        "characters": 23155
+      },
+      {
+        "spine": 13,
+        "member": "OEBPS/c13G.xhtml",
+        "raw_sha256": "1f435e38645e1ea798e467a09585416ed270ccfcd6e7d69a020767e47c5bbfcc",
+        "paragraphs": 932,
+        "characters": 40892
+      },
+      {
+        "spine": 14,
+        "member": "OEBPS/c2V5.xhtml",
+        "raw_sha256": "8b4e8c5047dce61b267e60668f329782d6d6bf4f30d783bbbf7d89ad72c0e9ba",
+        "paragraphs": 231,
+        "characters": 12237
+      },
+      {
+        "spine": 15,
+        "member": "OEBPS/c39K.xhtml",
+        "raw_sha256": "493229b60313c09d0fc2c2e03790da5495c8f63baeb0d1c4732cc56def5a2a6b",
+        "paragraphs": 243,
+        "characters": 10035
+      },
+      {
+        "spine": 16,
+        "member": "OEBPS/c3P4.xhtml",
+        "raw_sha256": "e986e29fe3ad911662e82f11997ce21c7b419c984705c3ee8132bf999d46c3fc",
+        "paragraphs": 377,
+        "characters": 15996
+      },
+      {
+        "spine": 17,
+        "member": "OEBPS/c4ER.xhtml",
+        "raw_sha256": "4bb64e495516eda9828be09793297fe27d0ebc2135f96eda596095d0db1dfd1a",
+        "paragraphs": 361,
+        "characters": 14529
+      },
+      {
+        "spine": 18,
+        "member": "OEBPS/c55S.xhtml",
+        "raw_sha256": "e8fa4ca01362c6006ff6c5ad9b50bbd3094a59c60f755e155be5b1250574b22f",
+        "paragraphs": 286,
+        "characters": 11665
+      },
+      {
+        "spine": 19,
+        "member": "OEBPS/c5PS.xhtml",
+        "raw_sha256": "cef753b139e5d50c9038ebf1b28953ac47a94803ba1d6b6d1b7a5726868e410f",
+        "paragraphs": 368,
+        "characters": 13759
+      },
+      {
+        "spine": 20,
+        "member": "OEBPS/c6D7.xhtml",
+        "raw_sha256": "249f1c82957c2bf271c38fae8a783bc0f1f3119ded6d84c022bd07b8c8e8ab23",
+        "paragraphs": 325,
+        "characters": 11852
+      },
+      {
+        "spine": 21,
+        "member": "OEBPS/c6ZF.xhtml",
+        "raw_sha256": "aef213ba8f553e2ed90dc9be9f0731a2479c7d022ff801b11ddd3abdf9a7ae16",
+        "paragraphs": 1,
+        "characters": 26
+      },
+      {
+        "spine": 22,
+        "member": "OEBPS/c6ZT.xhtml",
+        "raw_sha256": "0d7b529a9d938d8a490c6aebc84a7b89696c203f5a2b7cbeaa616168cb701b2f",
+        "paragraphs": 17,
+        "characters": 780
+      },
+      {
+        "spine": 23,
+        "member": "OEBPS/c70R.xhtml",
+        "raw_sha256": "e44f51e5525488fbe65ba9f5797ad42c96c12fd5de0af014d1d1ed26cad4d837",
+        "paragraphs": 0,
+        "characters": 0
+      },
+      {
+        "spine": 24,
+        "member": "OEBPS/c710.xhtml",
+        "raw_sha256": "a4c3fe1a93b2a32f02b98a19ec14b15338d2175183548355de7471a4f0ec2e4f",
+        "paragraphs": 0,
+        "characters": 0
+      },
+      {
+        "spine": 25,
+        "member": "OEBPS/c719.xhtml",
+        "raw_sha256": "dc2baf6b9afbf3fac8ad91f3d6c9939efbd5103fb4fa418be5b086124a826dc4",
+        "paragraphs": 0,
+        "characters": 0
+      },
+      {
+        "spine": 26,
+        "member": "OEBPS/c71J.xhtml",
+        "raw_sha256": "21c54cd484910d91564d3633682cce932d5fc0c3d4d4ff29c929a08da66535ad",
+        "paragraphs": 0,
+        "characters": 0
+      },
+      {
+        "spine": 27,
+        "member": "OEBPS/c71V.xhtml",
+        "raw_sha256": "17a5fcebc2a01c436bc98c3eae434789dac2aa8706c0de483d6131b8868e2fe5",
+        "paragraphs": 0,
+        "characters": 0
+      },
+      {
+        "spine": 28,
+        "member": "OEBPS/c724.xhtml",
+        "raw_sha256": "db8ebd8e2a38ad647281becba8cab1095e7f951b590213b014f53b4e8db34189",
+        "paragraphs": 18,
+        "characters": 272
+      },
+      {
+        "spine": 29,
+        "member": "OEBPS/c73B.xhtml",
+        "raw_sha256": "3f25ff09d9bfd071c7987bf6037df5aadfe1724d64fa6445df945d5c6cdbe04d",
+        "paragraphs": 3,
+        "characters": 177
+      },
+      {
+        "spine": 30,
+        "member": "OEBPS/c73N.xhtml",
+        "raw_sha256": "206165659ae94250a8821ef759ca019c0a4e8dd7906c7f4ec3c038e2705ef972",
+        "paragraphs": 0,
+        "characters": 0
+      }
+    ],
+    "images": [
+      {
+        "locator": "COTE:Y3V04:ill-01",
+        "spine": 1,
+        "after_paragraph": 0,
+        "member": "cover.jpeg",
+        "bytes": 2185028,
+        "sha256": "97849751c4dfedd1054a9af628886544b46345a0785da2c7a2a79c506d0a22ba",
+        "local_file": "image-cover.jpeg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-02",
+        "spine": 2,
+        "after_paragraph": 0,
+        "member": "OEBPS/image_rsrc74N.jpg",
+        "bytes": 970442,
+        "sha256": "77138cf60a64c7c0630190e9f3276267bb7909db5990130806b01272ae02c0ea",
+        "local_file": "image-image_rsrc74N.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-03",
+        "spine": 3,
+        "after_paragraph": 0,
+        "member": "OEBPS/image_rsrc74P.jpg",
+        "bytes": 888392,
+        "sha256": "6237eb7feb9d81bd422123cac6c1f19180ef5f7dfbcde77c963b9377a3c522ef",
+        "local_file": "image-image_rsrc74P.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-04",
+        "spine": 4,
+        "after_paragraph": 0,
+        "member": "OEBPS/image_rsrc74R.jpg",
+        "bytes": 831634,
+        "sha256": "db933d24fa41d0ea1d723bb08e226aec85704838bcfc879918a65e2ec9101ce6",
+        "local_file": "image-image_rsrc74R.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-05",
+        "spine": 5,
+        "after_paragraph": 0,
+        "member": "OEBPS/image_rsrc74S.jpg",
+        "bytes": 905945,
+        "sha256": "73a676cb3cfa6f34f801c2ca6001ad7a1de6a20ea5cab884b35ad6ff59bf3f25",
+        "local_file": "image-image_rsrc74S.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-06",
+        "spine": 6,
+        "after_paragraph": 0,
+        "member": "OEBPS/image_rsrc74T.jpg",
+        "bytes": 1167290,
+        "sha256": "99b062418433399a66c28f867a45ce7c80d0ea4dfe3d777a94e9d90cd67b4c44",
+        "local_file": "image-image_rsrc74T.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-07",
+        "spine": 7,
+        "after_paragraph": 0,
+        "member": "OEBPS/image_rsrc74U.jpg",
+        "bytes": 110302,
+        "sha256": "fd0a43affd494318d85f19d882fabd85fbe10f8b3b4ec25f04814a564cf82d2f",
+        "local_file": "image-image_rsrc74U.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-08",
+        "spine": 9,
+        "after_paragraph": 0,
+        "member": "OEBPS/image_rsrc74V.jpg",
+        "bytes": 296151,
+        "sha256": "bbac59ceb9fef61c88b3bf647c3b5d0bdbc423e430eee19348b41d1631c4904d",
+        "local_file": "image-image_rsrc74V.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-09",
+        "spine": 12,
+        "after_paragraph": 337,
+        "member": "OEBPS/image_rsrc74Z.jpg",
+        "bytes": 451630,
+        "sha256": "df5b50e9f1181bd9776dbc96a2fc5d8a41ef2850a5e66a804e652ff155221441",
+        "local_file": "image-image_rsrc74Z.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-10",
+        "spine": 13,
+        "after_paragraph": 566,
+        "member": "OEBPS/image_rsrc750.jpg",
+        "bytes": 416246,
+        "sha256": "ec1953c9ed826fcd5b6cfe4649474604c5d391fff832dd835308ed7fb4f6911d",
+        "local_file": "image-image_rsrc750.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-11",
+        "spine": 16,
+        "after_paragraph": 174,
+        "member": "OEBPS/image_rsrc751.jpg",
+        "bytes": 385381,
+        "sha256": "ac46984e3da59756b3557c85e8880894d29c996461c823158d4a0edf8d06bda5",
+        "local_file": "image-image_rsrc751.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-12",
+        "spine": 17,
+        "after_paragraph": 177,
+        "member": "OEBPS/image_rsrc752.jpg",
+        "bytes": 524036,
+        "sha256": "5db8a99738eb4bbdf814b0bff5cbdeeeef511a8f62ea146ac1e966103c0f772a",
+        "local_file": "image-image_rsrc752.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-13",
+        "spine": 18,
+        "after_paragraph": 158,
+        "member": "OEBPS/image_rsrc753.jpg",
+        "bytes": 384451,
+        "sha256": "4ee4c60565ccdd19da08899d931194c1fd5b45f6209e618355f538b1c320fd75",
+        "local_file": "image-image_rsrc753.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-14",
+        "spine": 19,
+        "after_paragraph": 163,
+        "member": "OEBPS/image_rsrc754.jpg",
+        "bytes": 471504,
+        "sha256": "4456f4c153a8fb2b0c3aefe78c5f734d5b4e23d12275f1bb681b129c89ee21bb",
+        "local_file": "image-image_rsrc754.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-15",
+        "spine": 19,
+        "after_paragraph": 353,
+        "member": "OEBPS/image_rsrc755.jpg",
+        "bytes": 461652,
+        "sha256": "fb94fcdacb7aac6a2ede383ce8f4fe4ea9ca7677fb207e7e697ea7cb33c53c9a",
+        "local_file": "image-image_rsrc755.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-16",
+        "spine": 20,
+        "after_paragraph": 137,
+        "member": "OEBPS/image_rsrc756.jpg",
+        "bytes": 478058,
+        "sha256": "f694ac63b3c5f64c137f7fa0c80e40fba83eca4efaab4df5a98768e00c92c5bb",
+        "local_file": "image-image_rsrc756.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-17",
+        "spine": 20,
+        "after_paragraph": 209,
+        "member": "OEBPS/image_rsrc757.jpg",
+        "bytes": 422706,
+        "sha256": "f918cf47f9405a6d760dbf5f20e7c223f947f3e04588b74fc8de0e3cd3b8cda1",
+        "local_file": "image-image_rsrc757.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-18",
+        "spine": 21,
+        "after_paragraph": 1,
+        "member": "OEBPS/image_rsrc758.jpg",
+        "bytes": 489029,
+        "sha256": "317e860b295af948ede1e94cef6f19a2c7d6cd72ae7d0d9adce5fa7fe860581e",
+        "local_file": "image-image_rsrc758.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-19",
+        "spine": 23,
+        "after_paragraph": 0,
+        "member": "OEBPS/image_rsrc759.jpg",
+        "bytes": 599006,
+        "sha256": "07d152a807a52902d66a032e270bb73d478e985694c82f4532793dc839cfc948",
+        "local_file": "image-image_rsrc759.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-20",
+        "spine": 24,
+        "after_paragraph": 0,
+        "member": "OEBPS/image_rsrc75A.jpg",
+        "bytes": 685643,
+        "sha256": "1b835f3a8fbb2b282d71293d55809c6e80421c324f3c51a04802009b232f6df8",
+        "local_file": "image-image_rsrc75A.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-21",
+        "spine": 25,
+        "after_paragraph": 0,
+        "member": "OEBPS/image_rsrc75B.jpg",
+        "bytes": 674055,
+        "sha256": "0bc7bee1f513052fa46876360fe965eda46db3e0f4526aaab7fb241a072d8b6b",
+        "local_file": "image-image_rsrc75B.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-22",
+        "spine": 26,
+        "after_paragraph": 0,
+        "member": "OEBPS/image_rsrc75C.jpg",
+        "bytes": 388831,
+        "sha256": "aac405d3dd95daeaabb626dc7dc7253538f1eb3ac99028874464744d20371d89",
+        "local_file": "image-image_rsrc75C.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-23",
+        "spine": 27,
+        "after_paragraph": 0,
+        "member": "OEBPS/image_rsrc75D.jpg",
+        "bytes": 438636,
+        "sha256": "df50a5d247ba746ee302681b1d45498f03eb843b5b75ccd46eeb9d9f41968664",
+        "local_file": "image-image_rsrc75D.jpg"
+      },
+      {
+        "locator": "COTE:Y3V04:ill-24",
+        "spine": 30,
+        "after_paragraph": 0,
+        "member": "OEBPS/image_rsrc75E.jpg",
+        "bytes": 169326,
+        "sha256": "a2d265eeb1247bd8b4f5ecf32441baccc482bea56e6244a0e18bbdf6b0416c74",
+        "local_file": "image-image_rsrc75E.jpg"
+      }
+    ],
+    "glyphs": [
+      {
+        "spine": 12,
+        "paragraph": 49,
+        "member": "OEBPS/image_rsrc74W.jpg",
+        "source_alt": "",
+        "visual_transcription": "－",
+        "sha256": "4f8a9b03a899a3d863677e6a4266015b3a8d37db8b2044af4f566ec783514e3e"
+      },
+      {
+        "spine": 12,
+        "paragraph": 200,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 12,
+        "paragraph": 201,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 12,
+        "paragraph": 202,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 12,
+        "paragraph": 209,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 12,
+        "paragraph": 209,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 12,
+        "paragraph": 215,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 12,
+        "paragraph": 215,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 12,
+        "paragraph": 224,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 12,
+        "paragraph": 228,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 12,
+        "paragraph": 232,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 12,
+        "paragraph": 234,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 12,
+        "paragraph": 243,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 12,
+        "paragraph": 248,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 12,
+        "paragraph": 251,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 12,
+        "paragraph": 406,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 52,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 55,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 58,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 64,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 75,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 78,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 81,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 81,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 85,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 87,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 94,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 95,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 13,
+        "paragraph": 95,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 96,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 100,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 104,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 106,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 107,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 110,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 111,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 140,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 230,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 256,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 281,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 294,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 297,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 299,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 303,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 304,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 305,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 312,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 13,
+        "paragraph": 314,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 315,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 316,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 316,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 318,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 321,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 366,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 366,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 369,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 372,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 373,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 389,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 390,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 392,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 394,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 398,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 13,
+        "paragraph": 400,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 445,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 450,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 13,
+        "paragraph": 496,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 13,
+        "paragraph": 497,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 499,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 500,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 501,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 501,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 502,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 551,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 554,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 555,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 556,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 560,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 562,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 568,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 573,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 577,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 582,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 583,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 589,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 593,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 609,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 612,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 614,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 615,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 618,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 623,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 13,
+        "paragraph": 625,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 625,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 627,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 13,
+        "paragraph": 628,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 631,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 632,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 636,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 638,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 13,
+        "paragraph": 640,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 644,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 646,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 659,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 13,
+        "paragraph": 665,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 670,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 676,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 677,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 678,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 680,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 682,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 685,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 687,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 705,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 13,
+        "paragraph": 707,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 708,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 710,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 710,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 711,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 720,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 726,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 734,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 755,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 776,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 793,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 802,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 802,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 804,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 805,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 13,
+        "paragraph": 818,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 836,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 860,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 881,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 13,
+        "paragraph": 884,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 14,
+        "paragraph": 73,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 14,
+        "paragraph": 83,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 14,
+        "paragraph": 83,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 14,
+        "paragraph": 110,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 14,
+        "paragraph": 172,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 14,
+        "paragraph": 174,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 14,
+        "paragraph": 183,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 14,
+        "paragraph": 191,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 30,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 32,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 38,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 40,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 41,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 43,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 44,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 44,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 45,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 48,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 49,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 50,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 51,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 53,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 55,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 55,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 60,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 62,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 65,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 89,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 94,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 95,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 99,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 100,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 105,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 105,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 106,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 108,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 109,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 109,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 110,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 110,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 114,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 141,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 257,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 257,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 16,
+        "paragraph": 261,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 261,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 16,
+        "paragraph": 265,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 266,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 266,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 16,
+        "paragraph": 267,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 271,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 271,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 16,
+        "paragraph": 286,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 287,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 289,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 295,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 311,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 327,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 335,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 336,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 341,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 341,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 342,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 342,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 16,
+        "paragraph": 344,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 347,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 351,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 352,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 354,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 16,
+        "paragraph": 356,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 368,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 370,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 16,
+        "paragraph": 376,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 8,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 10,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 11,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 12,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 12,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 17,
+        "paragraph": 18,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 21,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 21,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 23,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 71,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 85,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 90,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 91,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 100,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 102,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 103,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 104,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 110,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 111,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 115,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 116,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 17,
+        "paragraph": 121,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 121,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 122,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 17,
+        "paragraph": 123,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 124,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 125,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 17,
+        "paragraph": 126,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 17,
+        "paragraph": 126,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 17,
+        "paragraph": 126,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 131,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 132,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 135,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 138,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 142,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 146,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 154,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 154,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 159,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 160,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 161,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 163,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 167,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 172,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 173,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 174,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 175,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 175,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 180,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 183,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 188,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 190,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 195,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 196,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 199,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 203,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 207,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 209,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 214,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 222,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 226,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 229,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 232,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 243,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 251,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 257,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 257,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 258,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 261,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 263,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 263,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 264,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 264,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 265,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 266,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 272,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 277,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 278,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 17,
+        "paragraph": 280,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 282,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 17,
+        "paragraph": 286,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 289,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 289,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 290,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 303,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 307,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 309,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 310,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 315,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 319,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 320,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 321,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 327,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 327,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 329,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 331,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 331,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 333,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 336,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 337,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 348,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 355,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 361,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 17,
+        "paragraph": 361,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 6,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 12,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 13,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 14,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 15,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 15,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 19,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 23,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 39,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 44,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 47,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 50,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 54,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 58,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 69,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 80,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 83,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 85,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 18,
+        "paragraph": 87,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 27,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 55,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 80,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 99,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 192,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 214,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 218,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 233,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 235,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 236,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 256,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 258,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 259,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 261,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 266,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 271,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 272,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 276,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 276,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 277,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 278,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 280,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 282,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 283,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 290,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 291,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 293,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 295,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 300,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 302,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 303,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 305,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 306,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 309,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 312,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 318,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 322,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 325,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 326,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 19,
+        "paragraph": 328,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 66,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 75,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 83,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 86,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 86,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 99,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 101,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 106,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 109,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 111,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 116,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 116,
+        "member": "OEBPS/image_rsrc74Y.jpg",
+        "source_alt": "",
+        "visual_transcription": "梗",
+        "sha256": "89b649a525ecf4d665b932fb2eb38e4a91073d5569b8ec03c77a173482fd5816"
+      },
+      {
+        "spine": 20,
+        "paragraph": 121,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 122,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 124,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 126,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 133,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 133,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 136,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 138,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      },
+      {
+        "spine": 20,
+        "paragraph": 142,
+        "member": "OEBPS/image_rsrc74X.jpg",
+        "source_alt": "",
+        "visual_transcription": "櫛",
+        "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+      }
+    ],
+    "anomalies": [],
+    "extraction_script_sha256": "adbbf02b5193d59b95f4acf6e8445e45b1460e0bcb1f1c4eaa4fe266f3ee55f1"
+  },
+  "read_chunks": 55,
+  "all_chunks_read": true,
+  "read_chunk_sha256": [
+    "dc619c0a64b6c1ab430d422a991183ea92e8e70006bddd691c823c957e57f1c3",
+    "4d4b295b4c03edfe8c1deb675a857e1208128b53fca700dac46af8504fe30530",
+    "7660400601bd03f0d08be8bfedf5811e4cf582730e23ef44094ed6f0efd67284",
+    "11dd87ffe41d24536c97dd7bf59ae017afa36f1645b26d2106b4a3b2b2ce03ba",
+    "48e7f9a2f968ff88284dcdf1b53ff2646d9530bac5805e2eef6a2b9e8c0fd344",
+    "acdbfd58cef457a0893eb5678bf02be12465253e1c9c176f6534d4a3b4f1e7c4",
+    "ba971917c6a7ab1cc93d0497d83aae753db6d6fc9f716797bb71665a8856b08e",
+    "c5238c0ab927bc7377347dbba4369cf7903c2c970609670524f1eb34da54fa09",
+    "10efd4c8df949fd29c44f9d1e669d57e7ea16948b79d9b316479582735fe99e0",
+    "93f81a37b229e48ceacf582755328a84c95df8981873644321e2512936c535cf",
+    "dad26732c41b604c881acb1b7a5227d17015f65c7ed04a0227bd676ac6ee0b91",
+    "8109bc6354ef8360b860fad43f69719ee8610e9a9508d4b6e6032476fc13f05e",
+    "9cd1b3b2d6da22fd906431b375d79bdf48c18af4ca1eb9a9cf114fc81e694b0b",
+    "ea7a0eb5acd4fc4ee3789558d29d78dc3aa7a333e0d641ec8866b4f727e5b15e",
+    "864724b09c053ca3688aa9874fb68ffc877ad549dd50ee717af03361547d9e2d",
+    "5087bc26e8f3c6dc42d607bf2e71098585cf181d40913aa8913fe2fc0ad780ba",
+    "a79a28c05e755b0acee1fe1d1e4da30ed8908495e01e453de65bdb093df267fa",
+    "3758178624463ce7420cd8a902cec4b81d291e3b5bf1982294a3bf376ccdd60f",
+    "c338197f35d7016699b7fe0b2988593b33dfe7759b25a007365e0b59e949f722",
+    "670726081508881c29978f59e8cd990092ba3deda3e4fc732c911dac84ac41e7",
+    "fd2ee90f50123cfa2f3769603d678da2bfc52c90d4f54f45d49fab4cb87a6963",
+    "b11bc6c813a9b19b153c83f572f0b4b2fa731901056639abe08694c6408ae313",
+    "22b2519a7f00fd7d60ebe90092e4a94dd60ee0a8b9297909ad7ec9de8dcd0659",
+    "8da1b9ad09fb4e8e6d3e6cf6d7c1a4fcfdfb74947c9815dca5c46bd3bc04a302",
+    "9c6238a5957bef5907fbf353081398af35b6c904d6d1a337215ed7df50281d15",
+    "2d25215b2d724d9620d0a7681016f5f7bc3bbb59676cb24a23374eeb6e6993ae",
+    "1dfdf60d0af02fde16f953319502e1df1ad080b66093123699c875a979aaece1",
+    "ce0b8ea742c9927e9c57bdf19592380ffb14daa77b316aaa28424425b9a19f47",
+    "b99800b7b34b0a65f1c15031d60977e7e0c7093634ef10a1da5bb51d751bc718",
+    "76fe520f77bb0b737d73cebc7016d36f56e5f63cb7d1f41d0008fbb5e469b26c",
+    "1b8b613827a2e71b984a9e573454976e7695d8b5d94685839f6f3fd10e29ef8c",
+    "6de6c855adb0e3b4eeb3961ecb26fade68d54c3cc23eddc50190473a4da59ffd",
+    "86e70dd35b803a05376580a5d4dedcf701157409817c840e8a214847880eb1fe",
+    "49786e07704755bc1d249f6a4f12845e2b4dc8ca2061520260a3e7ff901c4538",
+    "bfc0669bfb8a4114f3524a6122591485a07babb04d640f9df0161824dc759724",
+    "d7734479e419e44695eff3bdfeb908a86d6fc13c9424200bd3b0d80d0ecc3461",
+    "a1a6f0127e0ee0f24b63c5040a618cb4364ae6f938e612366e0909bf9848eb5c",
+    "bc674ad5a33e77a4f76aa549ce81228b6deecaf8e5163a8408169f66fe8d443e",
+    "25ea26848ad47faa85598ee4c7a98f41da81ff39ea615907c92d015443cedf97",
+    "9dd1a833dd934b54e50c56dbc1ab53fe41bb15f29724d27896f184d5f284521c",
+    "12a123cb7f426a58d7b88cc5dc6430e7dc9293ef9bfc75462ec38d5fe4cca247",
+    "8ac4e9e4cae87f2e696e707444dc995e168a6fa64d36dd38afca3efeba4d949d",
+    "aaaa236a733b66f77ac0d60789dbd64bd046ec49c4796fa30248c21608672a08",
+    "05fdf6b11f93c474f650f4eeb12f623da283a8301f5aa6da31cc672a7abb52fc",
+    "f00ce3e35b42da6c0e217de9ddd656694b3566ef346880745548459835527b4c",
+    "2d6fd0c8d900f0ab918af91fef17058050669925e026f355f94930556c7e5ee0",
+    "64e9378854b5fa57ed780035165e32e30cced1b187968965dc05b0bddb000c70",
+    "2bc0919d9e58430dbf4b4fd20327ad544f7265591fd53f9ccae2ff43acc8d435",
+    "e7725616f428822830123185a89381148db4e05a1e2069af00913d715b45f7c9",
+    "2b249e1a0b5d8c9a28f2979010cef31f2424f9e600c6cc901bb2b259e21147b9",
+    "6ee38e1d7cb8754679c0a7ae75ffe765df293af364061f2ce3a3fc2807b7c150",
+    "1197cae08bf5742d5ebf94d976029c6e012763e0d00197a11b70f5cd05c9d06b",
+    "0c1b7fa6fda974e57911aaa50bd7e06b335136a797295f7a24de77fb3fb55458",
+    "4ed9ea69ed9f78d37ebd27b5cac61043a201025cac7c34c33a6e0623f2532778",
+    "4d2ae7ad982250279cbe43a0aba7ec5124084e31a3a1ccca831486175899223e"
+  ],
+  "artwork_occurrences": 24,
+  "glyph_occurrences": 391,
+  "distinct_glyph_assets": 3,
+  "source_media_included": false,
+  "next_source_read": false
+}

@@ -1,0 +1,970 @@
+[
+  {
+    "claim_id": "RINHA-C001",
+    "claim_at_start": "Rinha is the former leader/coaching center of SyngUp and a former Hatsuboshi high-level/special-student figure.",
+    "inherited_status": "PRESERVE / STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C002",
+    "claim_at_start": "Rinha had an idol older sister whom she admired intensely.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C003",
+    "claim_at_start": "The older-sister “sun” is Kaya Kei / 賀陽継, a former Prima Stella.",
+    "inherited_status": "STRENGTHEN — BOUNDED",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_BOUNDED",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C004",
+    "claim_at_start": "Rinha’s childhood idol dream was to become an idol like her older sister.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C005",
+    "claim_at_start": "Rinha believes she caught and overtook her older-sister ideal and then saw herself as having damaged the sister she chased.",
+    "inherited_status": "STRENGTHEN — SELF-REPORT",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-006"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_BOUNDED",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C006",
+    "claim_at_start": "Rinha objectively caused all or most of her older sister’s damage.",
+    "inherited_status": "OPEN / DOWNGRADE",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-006"
+    ],
+    "promotion_ceiling_at_start": "FORBID_AS_FACT",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C007",
+    "claim_at_start": "Rinha’s investment in Saki/Ume is activated by perceived resemblance to her own sister history.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-006",
+      "RINHA-AV-P1-001",
+      "RINHA-AV-P1-003"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C008",
+    "claim_at_start": "Rinha does not actually substitute Saki/Ume for herself and her older sister.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-006"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C009",
+    "claim_at_start": "After SyngUp’s collapse, Rinha subjectively treats her prior idol self as ended.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-002",
+      "RINHA-AV-P0-004"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C010",
+    "claim_at_start": "“Rinha has no idol passion” is a complete, stable description of her current motivational state.",
+    "inherited_status": "REJECT / REVISE",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "FORBID_OLD_WORDING",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C011",
+    "claim_at_start": "Rinha defines legitimate idolhood normatively through intention/resolve and emotionally committed performance.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "STRENGTHEN",
+    "reason": "Within-scene visual contrast in Misuzu024 supports self-directed idol standards; audible severity remains open.",
+    "target_ids": [
+      "RINHA-AV-P0-005"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C012",
+    "claim_at_start": "Rinha understands her original childhood idol dream as finished rather than merely interrupted.",
+    "inherited_status": "STRENGTHEN — BOUNDED",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-002",
+      "RINHA-AV-P0-004"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_BOUNDED",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C013",
+    "claim_at_start": "Rinha’s post-collapse stage activity is initially organized around unfinished business, promises/contracts, and fan closure more than a newly articulated dream.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-002",
+      "RINHA-AV-P0-004"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C014",
+    "claim_at_start": "Before relational reactivation, Rinha planned a proper fan farewell and retirement.",
+    "inherited_status": "STRENGTHEN — ROUTE-BOUNDED",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-002",
+      "RINHA-AV-P0-004",
+      "RINHA-AV-P1-003"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_BOUNDED",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C015",
+    "claim_at_start": "By later material, Rinha expects/intends to return to idol activity.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-008"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C016",
+    "claim_at_start": "Rinha has already articulated a stable, independent post-return dream for herself.",
+    "inherited_status": "OPEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "OPEN_IN_DOSSIER",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C017",
+    "claim_at_start": "Rinha wants Prima Stella/top-idol status for herself as her mature goal.",
+    "inherited_status": "REJECT / OPEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "FORBID_AS_CURRENT_GOAL",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C018",
+    "claim_at_start": "Rinha remains an active and knowledgeable idol fan after disqualifying herself from idolhood.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "STRENGTHEN",
+    "reason": "Phone/merchandise smiles in Misuzu024 corroborate active fandom alongside self-disqualification.",
+    "target_ids": [
+      "RINHA-AV-P0-005"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C019",
+    "claim_at_start": "Idol performance functions as emotional regulation/inspiration for Rinha personally.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "STRENGTHEN",
+    "reason": "Support0097-03 ends in a request to be affected by Ume’s song; successful resolution of the worry remains unproven.",
+    "target_ids": [
+      "RINHA-AV-P0-010",
+      "RINHA-AV-P1-002",
+      "RINHA-AV-P1-004"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C020",
+    "claim_at_start": "Rinha treats former fans as continuing responsibilities rather than disposable audience assets.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-002",
+      "RINHA-AV-P0-007",
+      "RINHA-AV-P1-003"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE_WITH_CRITIQUE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C021",
+    "claim_at_start": "Rinha wants to control the timing/visibility of her return rather than disappear from public life permanently.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "STRENGTHEN",
+    "reason": "Support0097-01 locates selective publicity control and a return promise; no independent new dream is invented.",
+    "target_ids": [
+      "RINHA-AV-P0-008"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_BOUNDED",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C022",
+    "claim_at_start": "Rinha no longer loves idols or idol culture.",
+    "inherited_status": "REJECT",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "FORBID",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C023",
+    "claim_at_start": "In D-TEMARI, Rinha’s Gokugetsu/961 affiliation is primarily a contract/instrument for supporting the institution and completing her own idol “end-of-life”/fan-handoff goals.",
+    "inherited_status": "STRENGTHEN — ROUTE-BOUNDED",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_BOUNDED",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C024",
+    "claim_at_start": "Kuroi contacted Rinha after months of blocked/unfinished retirement and proposed helping her close idol activity.",
+    "inherited_status": "STRENGTHEN — ROUTE-BOUNDED",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_BOUNDED",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C025",
+    "claim_at_start": "Rinha’s Gokugetsu affiliation proves ideological conversion to Gokugetsu’s values.",
+    "inherited_status": "REJECT / OPEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "FORBID",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C026",
+    "claim_at_start": "Gokugetsu caused Rinha’s original idol collapse or sister wound.",
+    "inherited_status": "REJECT",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "FORBID",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C027",
+    "claim_at_start": "Rinha takes Gokugetsu contractual obligations seriously and can work toward institutional goals she does not frame as personal dream fulfillment.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C028",
+    "claim_at_start": "Rinha occupied a real teaching/technical leadership role inside SyngUp.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C029",
+    "claim_at_start": "Keeping promises/contracts is a central Rinha behavioral rule, not merely one plot convenience.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C030",
+    "claim_at_start": "One reason Rinha formed SyngUp was that Temari/Misuzu were the people who did not reject singing beside her.",
+    "inherited_status": "STRENGTHEN — ROUTE-BOUNDED INTERIORITY",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-003"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_BOUNDED",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C031",
+    "claim_at_start": "Rinha’s own memory of SyngUp is not uniformly negative; at least the early period was genuinely enjoyable.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-004"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C032",
+    "claim_at_start": "SyngUp’s collapse is not adequately explained by lack of affection.",
+    "inherited_status": "PRESERVE / STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C033",
+    "claim_at_start": "Rinha’s older-sister/fulfilled-dream wound is a major Rinha-side contributor to SyngUp breakdown, but not the sole unit cause.",
+    "inherited_status": "REVISE / STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-006"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE_WITH_CAUSAL_LIMIT",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C034",
+    "claim_at_start": "Rinha’s inflammatory public statements had the effect of shifting substantial public hostility away from Temari and onto Rinha.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-001"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE_EFFECT_ONLY",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C035",
+    "claim_at_start": "Rinha deliberately sacrificed her reputation primarily to protect Temari.",
+    "inherited_status": "DOWNGRADE / OPEN",
+    "this_pass_disposition": "OPEN",
+    "reason": "Denial located and actor attribution corrected; stills cannot decide hidden protective motive.",
+    "target_ids": [
+      "RINHA-AV-P0-001"
+    ],
+    "promotion_ceiling_at_start": "OPEN_IN_DOSSIER",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C036",
+    "claim_at_start": "Rinha wants permanent SyngUp restoration as her preferred future.",
+    "inherited_status": "REJECT",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "FORBID",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C037",
+    "claim_at_start": "Rinha genuinely wants permanent personal severance from Temari and Misuzu.",
+    "inherited_status": "REJECT / REVISE",
+    "this_pass_disposition": "STRENGTHEN",
+    "reason": "Strengthens the existing rejection of permanent severance: Temari024 ends with renewed training access; support02 coordinates the dissolution live.",
+    "target_ids": [
+      "RINHA-AV-P0-009",
+      "RINHA-AV-P1-005"
+    ],
+    "promotion_ceiling_at_start": "FORBID_LITERAL_GLOBAL",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C038",
+    "claim_at_start": "A dissolution live is meaningful to Rinha as unfinished public/relational ending-work.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-009"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C039",
+    "claim_at_start": "The former-member relationships can persist after the permanent unit ends.",
+    "inherited_status": "PRESERVE / STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-009",
+      "RINHA-AV-P1-005"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C040",
+    "claim_at_start": "Systems-I claim RS1-SYNGUP-06 — Rinha remains formative, relationally active, and future-facing after rupture.",
+    "inherited_status": "STRENGTHEN / PROMOTE",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-009"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C041",
+    "claim_at_start": "Systems-I claim RS1-SYNGUP-07 — a meaningful dissolution live is compatible with rejecting permanent unit restoration.",
+    "inherited_status": "STRENGTHEN / PROMOTE",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-009"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C042",
+    "claim_at_start": "Rinha’s default pedagogy often uses abrasive provocation plus concrete technique.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-011",
+      "RINHA-AV-P1-005",
+      "RINHA-AV-P1-007"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C043",
+    "claim_at_start": "A recurrent Rinha teaching sequence is provoke → demonstrate/diagnose → leave the recipient a challenge → reward/recognize improvement.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-011",
+      "RINHA-AV-P1-007"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C044",
+    "claim_at_start": "Rinha is a relatively precise recipient modeler: she tracks what specific people/fans need, value, or are likely to do.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-007"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C045",
+    "claim_at_start": "Rinha often routes care through challenge, teasing, conditions, or practical action rather than soft reassurance.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C046",
+    "claim_at_start": "Rinha’s concern reliably becomes controlling intervention regardless of recipient response.",
+    "inherited_status": "REJECT",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-007",
+      "RINHA-AV-P1-004"
+    ],
+    "promotion_ceiling_at_start": "FORBID",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C047",
+    "claim_at_start": "Rinha can revise action when a recipient asserts a credible boundary or alternative.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "STRENGTHEN",
+    "reason": "Ume029 explicitly refuses help, Rinha accepts and redirects to coaching; emotional quality of acceptance remains unheard.",
+    "target_ids": [
+      "RINHA-AV-P0-007",
+      "RINHA-AV-P1-004"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C048",
+    "claim_at_start": "Rinha can give direct praise and validation when she judges it earned.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P1-002",
+      "RINHA-AV-P1-004",
+      "RINHA-AV-P1-005",
+      "RINHA-AV-P1-006",
+      "RINHA-AV-P1-007"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C049",
+    "claim_at_start": "Rinha has organizer/broker competence in addition to technical coaching.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C050",
+    "claim_at_start": "Rinha is comfortable performing fanservice/social play and coaching others in it.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C051",
+    "claim_at_start": "Rinha uses territorial “make it your song” competitive rhetoric as a performance principle.",
+    "inherited_status": "STRENGTHEN — RHETORIC",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_BOUNDED",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C052",
+    "claim_at_start": "High-fidelity mimicry/voice imitation is a real Rinha technical skill used pedagogically.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "REVISE",
+    "reason": "Keep story-established imitation as a pedagogical skill. Separate Ume’s captioned report and krnh asset keys from unverified real performer/fidelity.",
+    "target_ids": [
+      "RINHA-AV-P1-007"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C053",
+    "claim_at_start": "Rinha’s copying of Kei proves she has no independent performance identity.",
+    "inherited_status": "REJECT / OPEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "FORBID",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C054",
+    "claim_at_start": "Fan accountability is part of Rinha’s professional judgment of idols and competition.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-005",
+      "RINHA-AV-P1-006"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C055",
+    "claim_at_start": "Rinha has substantial ordinary sociality outside high-stakes competition.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-009",
+      "RINHA-AV-P1-002",
+      "RINHA-AV-P1-006"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C056",
+    "claim_at_start": "Temari is simultaneously former student, imitation-descendant, rival, attachment figure, and person whose growth Rinha monitors.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P1-005"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C057",
+    "claim_at_start": "Temari’s crying/need reliably penetrates Rinha’s defensive posture, but “Rinha always gives in to tears” is too absolute.",
+    "inherited_status": "STRENGTHEN / REVISE",
+    "this_pass_disposition": "REVISE",
+    "reason": "Separate Temari’s 3D tears, Rinha’s bust variants and Temari’s report of Rinha crying; no newly heard crying or universal capitulation.",
+    "target_ids": [
+      "RINHA-AV-P0-002",
+      "RINHA-AV-P0-004",
+      "RINHA-AV-P1-005"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_BOUNDED",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C058",
+    "claim_at_start": "Misuzu and Rinha have durable old intimacy expressed through teaching history, rivalry, mutual reading, direct conflict, and continued separate-road friendship.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-004",
+      "RINHA-AV-P1-006"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C059",
+    "claim_at_start": "Saki functions for Rinha as a live counterexample/mirror of the older-sister wound and becomes a genuine friend/collaborator, without replacing Rinha’s sister.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-006",
+      "RINHA-AV-P1-001",
+      "RINHA-AV-P1-002"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_BOUNDED",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C060",
+    "claim_at_start": "Ume becomes a non-SyngUp fan/teacher/rival/sister-play relation and a counterexample to Rinha’s assumption about how younger sisters must respond to burning older sisters.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-007",
+      "RINHA-AV-P0-010",
+      "RINHA-AV-P1-003",
+      "RINHA-AV-P1-004",
+      "RINHA-AV-P1-007"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_BOUNDED",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C061",
+    "claim_at_start": "Rinha’s viable social network extends well beyond SyngUp.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C062",
+    "claim_at_start": "Rinha’s `お姉ちゃん`/`妹`, “date,” “floating/cheating,” possessive, heart-mark, and kiss language proves literal romance or ownership.",
+    "inherited_status": "DOWNGRADE / OPEN",
+    "this_pass_disposition": "OPEN",
+    "reason": "Kiss/date/sister coding retains its existing ceiling; recipient close-ups do not establish categorical romance, ownership or consent.",
+    "target_ids": [
+      "RINHA-AV-P1-001",
+      "RINHA-AV-P1-002",
+      "RINHA-AV-P1-003"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CODING_ONLY",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C063",
+    "claim_at_start": "Kissing/tactile provocation is a recurrent Rinha social behavior rather than a one-off accident.",
+    "inherited_status": "STRENGTHEN — BOUNDED",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Scripted recurrence and recipient staging corroborated; no visible lip-contact mechanics or audible kiss quality certified.",
+    "target_ids": [
+      "RINHA-AV-P1-001",
+      "RINHA-AV-P1-003"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_BOUNDED",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C064",
+    "claim_at_start": "A substantive Rinha↔Tsubame dyad can currently be modeled.",
+    "inherited_status": "OPEN / DOWNGRADE",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. No new discriminating AV observation is assigned to this claim in the targeted set.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "OPEN_IN_DOSSIER",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C065",
+    "claim_at_start": "Rinha’s stable first-person form in the corrected direct corpus is `私`, not `あたし`.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "REVISE",
+    "reason": "Correct denominator 621→620; 私91 and あたし0 reproduced unchanged.",
+    "target_ids": [],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C066",
+    "claim_at_start": "Rinha’s surface register is strongly adversarial/directive: negative questions, `～してあげる`, `じゃない`, `でしょ`, imperatives, insults, and mock threats are recurrent.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "REVISE",
+    "reason": "Correct denominator 621→620; listed directive substrings unchanged. Related elongation count 63→49 excludes fan speech.",
+    "target_ids": [
+      "RINHA-AV-P0-005",
+      "RINHA-AV-P0-011"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C067",
+    "claim_at_start": "Rinha’s abrasive language is normally proof of genuine hostility.",
+    "inherited_status": "REJECT",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-001",
+      "RINHA-AV-P0-005",
+      "RINHA-AV-P0-011",
+      "RINHA-AV-P1-005",
+      "RINHA-AV-P1-006",
+      "RINHA-AV-P1-007"
+    ],
+    "promotion_ceiling_at_start": "FORBID",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C068",
+    "claim_at_start": "Rinha’s abrasive language is always disguised affection.",
+    "inherited_status": "REJECT",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-001",
+      "RINHA-AV-P0-005",
+      "RINHA-AV-P0-011",
+      "RINHA-AV-P1-005",
+      "RINHA-AV-P1-006",
+      "RINHA-AV-P1-007"
+    ],
+    "promotion_ceiling_at_start": "FORBID",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C069",
+    "claim_at_start": "Affection and positive investment leak through the abrasive register via praise, hearts, kisses, explicit liking, fandom, concern, and embarrassment.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-001",
+      "RINHA-AV-P0-005",
+      "RINHA-AV-P1-001",
+      "RINHA-AV-P1-002",
+      "RINHA-AV-P1-004",
+      "RINHA-AV-P1-005",
+      "RINHA-AV-P1-006"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C070",
+    "claim_at_start": "Rinha can disclose vulnerability directly, but often briefly and with immediate deflection, humor, or antagonistic recoding.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "REVISE",
+    "reason": "Replace a single immediate-deflection model with alternatives: recoding, sustained supportive disclosure, or an accepted request with no subsequent Rinha turn.",
+    "target_ids": [
+      "RINHA-AV-P0-001",
+      "RINHA-AV-P0-002",
+      "RINHA-AV-P0-005",
+      "RINHA-AV-P0-006",
+      "RINHA-AV-P0-008",
+      "RINHA-AV-P0-010",
+      "RINHA-AV-P1-002",
+      "RINHA-AV-P1-003",
+      "RINHA-AV-P1-005"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C071",
+    "claim_at_start": "Playful theatricality/hyperbole is a real part of Rinha’s ordinary register.",
+    "inherited_status": "STRENGTHEN",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-005",
+      "RINHA-AV-P1-001",
+      "RINHA-AV-P1-002",
+      "RINHA-AV-P1-006"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C072",
+    "claim_at_start": "A generic fandom label such as “tsundere” is sufficient as Rinha’s behavioral model.",
+    "inherited_status": "REJECT",
+    "this_pass_disposition": "PRESERVE",
+    "reason": "Existing textual adjudication and promotion ceiling retained. Source/point corroboration is bounded to the listed scene records; no new vocal certainty.",
+    "target_ids": [
+      "RINHA-AV-P0-005"
+    ],
+    "promotion_ceiling_at_start": "FORBID_AS_MODEL",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "claim_id": "RINHA-C073",
+    "claim_at_start": "Rinha’s register shifts by relationship and affective task even while lexical abrasiveness remains stable.",
+    "inherited_status": "STRENGTHEN — AV DISCRIMINATION",
+    "this_pass_disposition": "OPEN",
+    "reason": "Recipient-specific scene function and sampled pose/framing sharpened. Performed vocal partition remains unreviewed, so ALLOW_CORE_AFTER_AV_REFINEMENT is not cleared.",
+    "target_ids": [
+      "RINHA-AV-P0-003",
+      "RINHA-AV-P0-005",
+      "RINHA-AV-P0-008",
+      "RINHA-AV-P1-005",
+      "RINHA-AV-P1-006"
+    ],
+    "promotion_ceiling_at_start": "ALLOW_CORE_AFTER_AV_REFINEMENT",
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  }
+]

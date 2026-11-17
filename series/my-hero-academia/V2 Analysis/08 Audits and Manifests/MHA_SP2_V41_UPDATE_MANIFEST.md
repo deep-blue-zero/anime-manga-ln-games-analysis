@@ -5,12 +5,11 @@ artifact_type: update_manifest
 scope: V41
 generation: V2
 method_generation: V2.1
-status: draft_noncurrent
-proposed_status_if_promoted: canonical
+status: canonical
 source_boundary: Japanese manga Volume 41, narrative V41:p005-p195
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 origin_working_packet: series/my-hero-academia/V2 Analysis/09 Working Branches/V41/
 ---
 
@@ -18,13 +17,13 @@ origin_working_packet: series/my-hero-academia/V2 Analysis/09 Working Branches/V
 
 ## Tranche state
 
-**CANONICAL-FORM DRAFT / NOT CURRENT MHA AUTHORITY.**
+**V41 CUMULATIVE SYNCHRONIZATION COMPLETE / CANONICAL ON THE STABLE ANALYTICAL BRANCH.**
 
-This manifest is materialized at the architecture-designated audit/manifest home as the companion to the Volume 41 sequential-reading draft. It records the proposed canonical consequences of the V41 second-pass reading. The existing cumulative ledgers, readiness index, source/index surfaces, and series current-state map have not yet been advanced through V41, so this document remains `draft_noncurrent` and must not be used as current authority.
+The existing Git deep reading and this manifest are promoted with all seventeen cumulative responsibilities synchronized against verified post-reconciliation blobs. The promotion preserves the V41 prospective boundary. Japanese-page review corrected packet wording and speaker/action attribution before incorporation; the companion `MHA_SP2_V41_RECONCILIATION_AUDIT.md` records the beforeimages, dispositions and source checks.
 
-The original V41 working packet under `09 Working Branches/V41/` remains provenance for the pre-promotion analysis and semantic update proposals. It is not a competing current-authority surface. Continuing MHA work is routed through `series/my-hero-academia` under the repository branch lifecycle policy. The evidence Drive remains unchanged.
+The original packet under `09 Working Branches/V41/` remains noncurrent provenance. No transport duplicate is promoted. Git is the analytical authority plane; raw manga remains in Drive. Branch publication and main integration remain subject to the repository's exact-commit audits and protected integration mechanism.
 
-The current canonical high-water mark remains Volume 40 until the V41 cumulative surfaces are synchronized and the V41 promotion is explicitly completed.
+The sequential high-water mark for this tranche is Volume 41. Later tranches may advance the current-state map without changing this manifest's prospective record.
 
 ## Source closure
 
@@ -59,8 +58,8 @@ Supporting rules:
 
 1. `危機感知` cliffhanger: Shigaraki stole Danger Sense; Fourth separates; Shigaraki can use it.
 2. OFA transfer plan: Midoriya/vestiges deliberately expend inherited factors through Shigaraki's interior wound.
-3. Shimura-memory entry: Midoriya reaches child Tenko and protects him from Kotaro's strike.
-4. Shigaraki adult agency claim: `僕が選んだ` / League hands / `敵の…ヒーロー` are explicit.
+3. Shimura-memory entry: Nana blocks Kotaro at p110 while Midoriya reaches Tenko; Midoriya later holds the child's destructive hands (p113-119).
+4. Shigaraki adult agency claim: the p116 choice claim concerns family destruction; the p121-123 League montage and `敵の…ヒーロー` separately establish later relational obligation.
 5. AFO internal return: occurs after Tenko's interior state is overwhelmed.
 6. AFO developmental engineering: direct Shimura-family manipulation, latent-factor removal, engineered destruction-only Quirk copy, hatred cultivation for OFA theft.
 7. Midoriya arm loss/recent Rewind: both arms lost and restored within Eri's short temporal window.
@@ -70,7 +69,7 @@ Supporting rules:
 11. Sero explicitly rejects the thesis that tragedy is desirable/necessary for strength.
 12. AFO's Yoichi attachment is affectively unique: Yoichi's loss drains color from his world.
 13. Midoriya states OFA has been lost while `残り火` remain at the V41 boundary.
-14. Aizawa explicitly states reciprocal need between Midoriya and the group.
+14. Aoyama states reciprocal need to Midoriya at p175; Aizawa supplies practical bodily care.
 15. Final V41 strike is enabled by distributed path-making/support.
 
 ### Revised / complicated
@@ -103,7 +102,7 @@ Supporting rules:
 | Midoriya | `specialist_ready` | remains | major refinement: OFA relinquishment, rescue under refusal, help-reception, reciprocal dependence |
 | Shigaraki | `specialist_ready` | remains | causal model revised by AFO engineering; adult League/choice evidence preserved |
 | AFO | `strong` | remains, very strongly strengthened | design/manipulation/Yoichi attachment deepens core model; ordinary reciprocal breadth still missing |
-| Aizawa | `specialist_ready` | remains | mixed-identity reasoning + distributed command + reciprocity |
+| Aizawa | `specialist_ready` | remains | mixed-identity reasoning + distributed command + Eri-risk objection and practical care |
 | Present Mic | no forced top-tier change | no forced promotion | grief/identity relation strengthened, ordinary breadth still thin |
 | Kurogiri | `moderate` | remains, very strongly strengthened | relational response + mixed continuity; independent ordinary desire/final identity open |
 | Eri | `strong` | remains, very strongly strengthened | later autonomous bounded Rewind use + ordinary future desire; longer baseline still gates specialist tier |
@@ -112,16 +111,16 @@ Supporting rules:
 | Mineta | `emerging` | remains, strengthened | continued prosocial self-risk under depletion; breadth still too narrow |
 | Ojiro / Sato / Aoyama / Hagakure | existing tiers | remain | high-stakes contribution strengthens but does not create breadth sufficient for promotion |
 
-## Materialized draft homes
+## Promoted canonical homes
 
-1. `02 Sequential Readings/MHA_SP2_V41_DEEP_READING.md` — materialized as `draft_noncurrent`.
-2. `08 Audits and Manifests/MHA_SP2_V41_UPDATE_MANIFEST.md` — this canonical-form draft.
+1. `02 Sequential Readings/MHA_SP2_V41_DEEP_READING.md` — canonical/current.
+2. `08 Audits and Manifests/MHA_SP2_V41_UPDATE_MANIFEST.md` — this canonical/current tranche manifest.
 
-Neither file advances current MHA authority by itself.
+Their authority advances only with the synchronized cumulative surfaces in this tranche.
 
-## Pending cumulative synchronization
+## Completed cumulative synchronization
 
-The V41 working packet contains pre-promotion semantic updates for these existing canonical surfaces. They must be applied against complete, verified current files through targeted edits, preserving unaffected bytes and history:
+The following existing canonical surfaces were read in full, blob-verified and updated through targeted changes. Packet proposals were reconciled semantically, including direct-source corrections, while unaffected content and historical order were preserved:
 
 1. Class 1-A Character State Ledger
 2. U.A. Students/Staff Character State Ledger
@@ -149,21 +148,16 @@ The V41 working packet contains pre-promotion semantic updates for these existin
 
 ## Character-reference integrity
 
-This materialization adds new `draft_noncurrent` V41 analysis and does not rename, delete, or invalidate an already referenced canonical MHA evidence path. No coordinated character repair is required for this draft-materialization step. If a later V41 promotion changes an existing referenced evidence path, anchor, authority relationship, coverage claim, or generated character output, the designated curation agent must review and supply any required coordinated repair before integration.
+Promotion retains the existing analytical paths and previously current authority references. Necessary corrections to the draft's section headings are documented in the reconciliation audit. No previously cited object is removed, no global character-registry output is edited, and no competing canonical transport copy is created. Character discovery remains the designated curation process's responsibility.
 
-## Promotion gates
+## Promotion verification and integration boundary
 
-A future authorized V41 promotion transaction must:
-
-1. re-fetch every existing cumulative target and verify the exact current branch/blob identity before editing;
-2. apply the V41 semantic updates as targeted changes to complete verified sources, preserving unaffected content and ledger history;
-3. synchronize the current-state map and all materially affected ledgers/indexes through the same V41 evidence boundary before treating V41 as the current high-water mark;
-4. change the V41 deep reading and this manifest from `draft_noncurrent` to current canonical authority only as part of the validated promotion state, not merely because they occupy canonical homes;
-5. keep character discovery separate under `CHARACTER_DISCOVERY_MAINTENANCE.md`; coordinate a curation-agent repair only if existing referenced evidence would otherwise become invalid;
-6. run the applicable stable-branch author preflight or connector-mode equivalent, then require housekeeping/final exact-commit audit as required by live governance;
-7. reconcile current `main` using the approved non-rewriting branch procedure before any integration cycle and repeat affected validation after drift;
-8. use only an owner-authorized integration route into `main`; and
-9. require the exact resulting `main` commit to pass the Repository audit before treating promotion as closed.
+- Non-rewriting main reconciliation precedes analytical edits: merge `c999a3d82b618fa022ec97993211d99116aa28a3` includes main `da94ba9b5f37e9bddffa98cde9834b394c18b937`.
+- Exact beforeimages and bounded edit responsibilities are recorded in the companion reconciliation audit.
+- All seventeen cumulative surfaces and both canonical-home V41 artifacts belong to the same promotion tranche.
+- V42 evidence remains excluded from this reading and its prospective states.
+- The stable-branch index preflight is required before committing; remote publication requires exact-head CI verification. Canonical-on-branch status does not assert that main integration has already happened.
+- Main integration must use the live protected repository mechanism and its resulting-commit audit.
 
 ## Next sequential operation
 

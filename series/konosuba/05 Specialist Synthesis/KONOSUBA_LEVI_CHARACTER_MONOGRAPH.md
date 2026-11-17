@@ -1,0 +1,94 @@
+---
+series: KONOSUBA
+artifact_type: character_monograph
+scope: LEVI_EXPANDED_V1
+status: active_provisional
+source_boundary: Already admitted MAIN10 and DUST04; informed retrospective individual consolidation
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+# Levi — the limits he can recognize and the leverage he still chooses
+
+## 1. Identity and the character responsibility
+
+Levi, レヴィ, is Elroad's first prince and Iris's former fiancé. Revi is the accepted Dust analysis's English retrieval variant; the earlier working レビー seed is not the verified spelling. MAIN10 identifies the kingdom, rank and proposed marriage directly. DUST04 identifies the same prince, the former engagement and the aftermath of Ragcraft's defeat. This join uses explicit continuity, rather than the mere recurrence of a name. Kazuma's mistaken reception as Iris's biological royal brother is a separate error in Levi's knowledge. (MAIN10 C3 P522–529, C5 P734–757; DUST04 U014 P22–34/89–102.)
+
+Levi earns a substantial monograph and an asymmetric, provisional **Tier 3 reconstruction**. The evidence distinguishes public hostility, assessment of opponents, bargaining design, refusal of further exposure, acknowledgment of error, concern, diplomatic realignment, relationship entitlement, deliberate coercion and another gambling defeat. It supports locally differentiated behavioral expectations rather than only the role of an obstructive prince. Concentration in two connected narrative programs limits the model's breadth; it is not a reason to impose an appearance quota. Conversely, neither density nor production of a model establishes predictive reliability. His care and his harmful choices must both remain explanatory evidence.
+
+This monograph interprets Levi as an agent. The [model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md) owns defeasible generation rules; the [evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEVI_EVIDENCE_INDEX.md) owns event joins, return locators and access planes. The current source-known BASE recheck receives 612 paragraph slots in MAIN10 and 436 in DUST04. These 1,048 slots describe this bounded inspection, not newly unique global primary coverage or another complete reading. No new ruby, image, source admission, independent reader or future-source validation is claimed.
+
+## 2. A hostile reception contains real errors as well as a political purpose
+
+Levi disparages Iris, her kingdom's resources and the apparent quality of her escort. His attendants initially laugh, then recognize dangers he has missed. He apologizes when Megumin's response becomes threatening, is warned about Aqua, and privately seeks information about Darkness and Kazuma. The encounter shows dependence on advisers for specific social and military identification. It does not establish that he lacks all political understanding or can never change an appraisal. His movement from insult to fear is actual; Kazuma's repeated judgment that he is stupid remains a narrator's evaluation. (MAIN10 C3 P529–578.)
+
+The later explanation that he was trying to make Iris dislike him is Levi's own retrospective account. Earlier, Kazuma already suspects deliberate provocation without knowing its purpose. Neither account entitles the analyst to relabel every ignorant remark as a perfectly controlled performance. Levi did not recognize the danger of the Crimson mage and required intervention. A strategic goal can recruit a genuine misconception or a real contemptuous habit. His explanation also does not cancel the cost of the hostility to Iris. (C3 P551–559; C5 P754–758.)
+
+Rank changes what he can demand, but it does not make him sovereign over every judgment in the room. Ragcraft presents himself as managing policy and resists further support; Kazuma presses the distinction between the minister's control and the prince's decision power. Levi later makes his own commitment despite the minister's protest. The resulting interpretation is uneven agency within an institution, rather than a puppet without responsibility or an unlimited ruler. The source does not audit the state's entire constitutional order. (C3 P634–669; C5 P459–476.)
+
+## 3. Gambling matters because its stakes and rules matter
+
+Levi initially makes defeating his knights a condition for hearing the appeal. When Iris wins, he insists that a hearing was not a promise of funding, offers a limited concession, and objects when she asks to continue the same destructive test. This conduct combines opportunistic wording, visible fear, a wish to be entertained and a limit on further harm to his own fighters. It is not one unconditional preference to continue any exciting contest. Iris's strength changes his immediate treatment without automatically settling the funding question. (MAIN10 C4 P25–95.)
+
+When Kazuma offers a game, Levi quickly understands the financial purpose and asks for reciprocal stakes. He rejects proposed personal services and a borrowed toy as inadequate, then proposes that one victory can erase the support obligation. To him, repeated participation has a policy advantage: a loss preserves an existing position, while a win can end the requests. This is his stated rationale, compatible with enjoyment and competitive pride. It should not be reduced to either wholly irrational compulsion or perfectly disinterested statecraft. (C4 P139–197/247–255.)
+
+Kazuma exploits the difference between asking where a coin is and inviting a choice between two displayed fists. Levi repeatedly assumes the latter. When the deception is revealed, he protests, then accepts that failure to detect it was his own mistake and declines to demand the money back. A specific rule interpretation failed; admitting it is not proof that he has mastered every later deception. The narrative does not show a test of his normal skill against every ordinary player. (C4 P257–279.)
+
+The critical counterexample to indiscriminate pride is his refusal to wager new offensive support. Kazuma tries to provoke him about losing, but Levi distinguishes that additional exposure from the contests he has accepted and maintains the refusal. He can inhibit an immediately attractive competitive response when he understands the national stakes differently. Later casino pressure makes this stance costly, and he subsequently changes it. The first refusal remains genuine evidence of a stopping rule; the later decision does not turn it into a universal immunity to pressure. (C4 P250–284; C5 P376–476.)
+
+## 4. Concern is real without being sufficient to solve the political conflict
+
+Levi objects when Iris proposes defeating the country's most damaging monster. He says that, after speaking with her, her death would leave him feeling bad. Ragcraft encourages allowing the attempt; Levi finally turns away and permits it. His concern therefore has direct verbal evidence, but it does not prevent the expedition. A claim that he simply wanted Iris dead is contradicted; a claim that his care reliably controls the outcome is also too strong. (MAIN10 C5 P15–30.)
+
+After the dragon is defeated, Levi recognizes the proof and protests the inadequate reward. He simultaneously acknowledges the reason additional aid is politically difficult. He apologizes to Iris and tries to offer the casino as a consolation. These responses show recognition, a willingness to object to Ragcraft and an attempt at repair, but the attempted consolation supplies the next source of pressure on his country. Kazuma's inference that every boy worships a dragon slayer is broader than the directly observed change in Levi's response. (C5 P164–213.)
+
+When sustained casino losses bring the parties together again, Ragcraft discloses the neutrality arrangement. Iris recognizes the survival pressure, offers mediation and reassures Levi without demanding that he accept the identity of a contemptible coward. Levi then proposes a newly specified wager and chooses to back Belzerg. The source reports continuing defensive support and promised additional offensive funding. It does not display a cash transfer, an exact budget, or a controlled experiment isolating compassion from military proof, economic pressure and personal admiration. (C5 P376–477.)
+
+Chronology is decisive: **this commitment precedes Ragcraft's exposure**. Removing the infiltrator cannot be its original cause. The subsequent discovery creates additional gratitude and acknowledgment of error, not the first pro-Belzerg choice. A useful explanation retains several interacting incentives and Levi's decision, rather than choosing between a single magical kindness cure and a prince who never acted independently. (C5 P459–477 before P715–734.)
+
+## 5. Gratitude and restored friendship do not confer a marriage claim
+
+After Ragcraft is exposed, Levi publicly apologizes and promises support. Iris asks him to recover his royal bearing. Levi does so, acknowledges the debt and names the countries' alliance and friendship. He is capable of receiving correction without simply doubling down on offended status. Yet his next assumption is that these improvements also restore the engagement. He still mistakes Kazuma for a royal brother and has not separately obtained Iris's agreement. (MAIN10 C5 P715–754.)
+
+Iris chooses continued friendship. This is her direct decision, not evidence that she owes Levi a compensating form of intimacy or that his distress reverses the dissolution. His account of having acted coldly for diplomatic distance is compatible with later changed affection, but cannot determine all his earlier private feelings. DUST04 adds his avowal of loss and attendants' descriptions of developing affection and rejection. Those are further statements about an overlapping relationship history, rather than a second independently observed original courtship. (C5 P754–758; DUST04 U014 P89–105.)
+
+The useful distinction is between feeling something, revising a political commitment and recognizing another person's choice. Levi can make the first two changes without reliably performing the third. This matters when his behavior is compared with Kazuma's or Claire's attachment to Iris: shared concern is not interchangeable motive, and no person's gratitude or protection supplies possession of her future. Iris's child agency remains visible without turning symbolic royal marriage arrangements into an established mature relationship.
+
+## 6. The later custody scene defeats a clean reform narrative
+
+DUST04 makes clear that Ragcraft has already been defeated. Levi apologizes for the prior imprisonment and returns Dust's property, while acknowledging minor offenses that did not warrant that imprisonment. Soldiers nevertheless stop Dust from leaving. Small is brought under guard in humiliating religious clothing. Levi says he knows handing her to hostile Axis followers is dangerous and proposes using her to divert their protests. When Dust asserts her lack of Demon King affiliation and even offers verification, Levi accepts the likely truth but continues invoking the political situation as a reason not to release her freely. (U014 P6–86.)
+
+He then seeks information about Kazuma, especially Kazuma's relationship with Iris, in exchange for release. He expressly acknowledges the national debt to Kazuma while treating him as the person because of whom he lost Iris. These motives coexist in his own speech. The gratitude has not disappeared; it fails to inhibit a coercive attempt to secure a personal advantage. State pressure is part of the situation but does not explain away the particular information he demands. (P89–118.)
+
+Levi also acknowledges confining Dust's searching companions in an inn to prevent their joining the Axis protest. Controlling information and potential opposition has practical value to him and imposes real costs on others. The guests' later participation in a wager takes place within that unequal situation. Entertainment, recognizable game procedure or a later release does not make the starting conditions freely chosen. (P144–170/223–244.)
+
+The account must also resist false adverse evidence. Dust and Small privately fabricate a different accusation about Levi to hide Small's identity and royal facts. Their invented abuses and altered losing stakes are not his actual conduct. Leen later proposes her own humiliating stake; Small reports being caught up in it. Levi's distress and avoidance of looking differ from some attendants' and Dust's conduct. These distinctions limit the accusation without excusing the actual detention, known threat, coerced information demand or participation in the resulting game. (P183–223/279–324.)
+
+## 7. Acknowledging one defeat does not ensure fair learning
+
+Dust offers his important sword as collateral. Levi recognizes its exceptional value; Dust expected a royal recipient to understand it. Recognizing value here is a concrete competence, not evidence of omniscience about the sword's entire provenance. Levi expands the offer to four challengers, requiring only one of them to win and promising compensation to a winner. The apparently favorable structure is consistent with his confidence in controlling the contests. (DUST04 U014 P119–131/223–235.)
+
+Small reports a run of casino successes after the earlier losses to Kazuma, and Dust initially interprets this as improved skill. Perfect results then lead him to infer cheating, possibly through cards and dealer cooperation. He cannot inspect the removed cards. Levi finally admits cheating after losing to Dust, confirming the broad accusation while leaving Dust's exact proposed mechanism unverified. It would be inaccurate to describe this as proven honest practice or to treat every speculative technical detail as observed. (P229–264/418.)
+
+Dust designs one round in which the lowest card defeats the highest. Levi asks how many rounds, accepts the disclosed exception, takes thirteen and appears certain of victory. Dust takes one. The source links Dust's design to Vanir's earlier forecast and his anticipation of Levi's maximum. Levi's defeat therefore has a specific informational and rule structure. It is not evidence that he must always lose, that ordinary low numbers are generally powerful, or that a real-world probability model has been validated. (P339–418.)
+
+After losing, Levi suggests banning gambling, permits departure and says he had intended release regardless of the result. The proposed ban is not an enacted law. The release permission is current speech; the alleged prior intention is a late self-report, without a precontest disclosure establishing it. Even if sincere, it does not remove the fear and constrained choices his earlier threat caused. His own humiliation also does not establish an apology adequate to every affected person or a completed repair. (P418–441; separately, the accepted DUST04 epilogue reports compensation.)
+
+## 8. Voice, ordinary life and the comic envelope
+
+Levi's printed voice combines first-person **俺**, ranked address, commands, challenges and imperious second-person forms such as **貴様**. These can yield to hesitation, explanation, apology or respectful **カズマ殿**. Respectful address can coexist with grievance and an intrusive demand about the same person. After the bounty he bows and apologizes; after the impostor's exposure he initially prostrates himself; when the engagement is recalled he stammers and pleads. A single arrogant template cannot reproduce these functions. Nor does one apology turn every following clause into grammatical honorific speech. (MAIN10 C3 P529–578; C4 P251–281; C5 P185–211/715–758; DUST04 U014 P89–105/418–430.)
+
+The evidence is written dialogue and attributed visible conduct. It supports register and pragmatic stance at those moments, not acoustic delivery, a native-human adequacy judgment or an all-context morphological frequency. Ordinary equivalents can preserve the gaps between rank, apology and embarrassed attachment; no L3 dependence is inferred simply from royal speech, Japanese pronouns or the coin rule. The latter's referential wording matters, but the distinction between an open location question and two displayed options can survive translation.
+
+Games, public recognition and being entertained are meaningful preferences. They organize how Levi spends attention and frames negotiations; they are not merely an empty mask covering pure policy calculation. The record is much thinner about food, domestic work, friendships away from Iris, private hobbies other than games, education and long-term governance. These absences should remain absences. The model should not fill his palace life with invented tastes or extrapolate habitual gambling into an actual clinical diagnosis.
+
+Comedy amplifies status reversals and emotional collapse. The performed threats, confinement, protests, concessions and apologies remain literal choices at their own source plane. H2 can describe a magnified tendency; it cannot erase the people constrained by it. A humorous later consolation is not full repair. Concern can make him hesitate or object while coercion remains available to him in another conflict.
+
+## 9. Current interpretation and what remains uncertain
+
+Levi's distinctive evidence lies in the unequal distribution of restraint. He can recognize that a new wager crosses a political limit, accept a wording failure, worry about an adversary's life, acknowledge indebtedness and change sides before a villain is exposed. He also assumes relational entitlement, uses coercive authority for particular information, accepts an unfair advantage and tries to explain a harmful episode after the danger has done its work. Neither an unteachable fool nor a reformed ally accounts for this sequence.
+
+The provisional model therefore keeps perceived downside, national and personal stakes, control over the setting, public face, recipient and currently accessible information distinct. It allows refusal, pressure, apology and mistakes in one person. Its causal weights are not experimentally identified: compassion, admiration, economic pressure and confidence in Belzerg all plausibly contribute to the aid decision. The exact cheating device, undisclosed original release intention, eventual lasting policy and broader everyday behavior remain unresolved.
+
+A later genuine test would need new unread evidence and preregistered conditions. The present source is known; internal hypothetical comparisons only inspect whether a proposed rule distinguishes its inputs and preserves ignorance. They cannot improve historical scores, establish independent accuracy or close the full census. Wider character dispositions, expanded specialist and series synthesis, six separately versioned principal/party/transfer revisions, designated curation and final integration/release remain separate responsibilities.

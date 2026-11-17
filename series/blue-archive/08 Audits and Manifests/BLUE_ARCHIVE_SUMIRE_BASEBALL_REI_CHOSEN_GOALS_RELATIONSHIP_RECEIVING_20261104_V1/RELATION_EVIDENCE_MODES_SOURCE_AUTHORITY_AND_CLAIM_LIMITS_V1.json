@@ -1,0 +1,2256 @@
+{
+  "schema": "RELATION_SIX_ROLE_PUBLIC_FORM_PREPARATION_V1",
+  "series": "BLUE_ARCHIVE",
+  "scope": "P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS/P3-XMI-R001;Sumire/baseballReiCH0245",
+  "generation": "V1",
+  "authority": {
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false
+  },
+  "composer": "/root/current_preflight_requirements",
+  "preparation_date": "2026-11-04",
+  "lifecycle_state": "PUBLIC_FORM_PREPARATION_20261104_PRIVATE_CONNECTED20_ROOT_ACCEPTED",
+  "review_at_creation": "Private body and plan accepted at their exact recorded scopes; new public bytes await different complete public-form QA and Root actual new-byte adjudication. Stable preparation-date state, no future publication/count certificate.",
+  "history_qualification": "Every dated original actor/date/null/source grade remains. Original pending/counters/heads/filenames/private tuple scopes are original creation history; current portable bindings live only in top component_refs/current registry/geometry. No new source/course/identity/named/extraREL/model/install/publication/count credit.",
+  "artifact_role": "SOURCE",
+  "component_refs": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 14075,
+      "sha256": "014b5b1d58cc5cf99f8380520b6e79e7f9ab9c783f55908fa97d7817c6ddde53"
+    }
+  ],
+  "dated_records": {
+    "A02": {
+      "record_id": "A02",
+      "original_filename": "RELATION_BODY_SOURCE_AUTHORITY_VERIFIED_OWN_TWO_MONOGRAPHS_SELECTED240_AND_OPERATIVE_QUALIFIERS_V1.json",
+      "original_file_bytes": 22493,
+      "original_file_sha256": "64c8905f7f4d99d912d22dfd22df7cc91cdd8a3e63730b186710cbb2cfd4ea1f",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:17:12.318899+00:00"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "da9114fb81d60ab14f793dfbb9b2815bd1da0d398857b68649f8a50814bdcd68"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "RELATION_BODY_OWN_VERIFIED_REUSE_SOURCE_GRADE_AND_LIMITS_BEFORE_AUTHORING_V1",
+        "UTC": "2026-11-04T13:17:12.318899+00:00",
+        "author": "/root/current_preflight_requirements",
+        "authority": {
+          "status": "draft_noncurrent",
+          "supersedes": [],
+          "superseded_by": [],
+          "do_not_use_as_current_authority": true
+        },
+        "scope": "Existing P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS/P3-XMI-R001;no named duty",
+        "old_own_courses": [
+          {
+            "C_path": "DATED-LOCATOR-B94A9535AF8D28B8",
+            "bytes": 9144,
+            "sha256": "1e22deba57d1223a96772089c8a4e553033d91637a18ca180eb1a2fda7b99271"
+          },
+          {
+            "C_path": "DATED-LOCATOR-8C01F65A6E841F8D",
+            "bytes": 16942,
+            "sha256": "cdf63aff710db2d4483f22c1036074ab68caeff33f755a60130d5a6cc2036bac"
+          }
+        ],
+        "identity_and_pins": "Same actual reader in both frozen courses; exactsix previous character/selectedcompanions and allfive source/qualifier captures independently repinned before anynewbody write. Hashchecking supplies fidelity, not new meaning attendance.",
+        "actual_own_grade": {
+          "monographs": "WHOLE2 accepted maintained character analyses:336physical lines/117literaryparagraphs/62293bytes;Sumire155+baseballRei181. Original literary writers remain distinct.",
+          "underlying": "SELECTED240 existing maintained analytical addresses:60headers+180selected acrossG330/E832/E845;notWHOLE3. Zero additionalsourceaddresses acquired in this composition.",
+          "qualifiers": "Selected complete SumireO023/SQ02/SQ04 andReifoodmode/actorchronology/dating completevalues; no original4WHOLE950/12WHOLE1839 grade transfer.",
+          "composition_context": "WholeRoot8431, own12/eight readiness and selected8/eight cases/coursegrade refreshed as existing normative records. Applicable method380–425 andarchitecture346–356/577–625/645–701 actuallyreceived under exactcurrentcaptures; no newstorysource."
+        },
+        "source_table": [
+          {
+            "source_id": "G330",
+            "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+            "C_source_path": "DATED-LOCATOR-20A9EE05D6842779",
+            "whole_file_pin_only": {
+              "bytes": 28668,
+              "sha256": "4b2cc0b4808e617e18c1bf3e788da5357f4c20fcb87bceeabb9b6f73e22e4d69",
+              "physical_lines": 176
+            },
+            "own_actual_grade": "SELECTED_MAINTAINED_ANALYTICAL_ACCOUNT_NOT_PRIMARY_NATIVE_RAW_AV_OR_WHOLE",
+            "selected_inclusive_intervals": [
+              [
+                1,
+                20
+              ],
+              [
+                71,
+                123
+              ],
+              [
+                125,
+                150
+              ],
+              [
+                162,
+                176
+              ]
+            ],
+            "selected_count": 114,
+            "header_addresses": 20,
+            "substantive_selected_addresses": 94
+          },
+          {
+            "source_id": "E832",
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+            "C_source_path": "DATED-LOCATOR-45F94A4C91A56BFD",
+            "whole_file_pin_only": {
+              "bytes": 23709,
+              "sha256": "aa8ea335644d12f74f0a268aa3cb03e8dcd1b51838cafa4bec8f66714a451e20",
+              "physical_lines": 115
+            },
+            "own_actual_grade": "SELECTED_MAINTAINED_ANALYTICAL_ACCOUNT_NOT_PRIMARY_NATIVE_RAW_AV_OR_WHOLE",
+            "selected_inclusive_intervals": [
+              [
+                1,
+                20
+              ],
+              [
+                67,
+                108
+              ],
+              [
+                110,
+                115
+              ]
+            ],
+            "selected_count": 68,
+            "header_addresses": 20,
+            "substantive_selected_addresses": 48
+          },
+          {
+            "source_id": "E845",
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_845/BLUE_ARCHIVE_EVENT_845_CONTEXTUALIZATION_CHECKPOINT.md",
+            "C_source_path": "DATED-LOCATOR-2B02A6A44CD61C86",
+            "whole_file_pin_only": {
+              "bytes": 32500,
+              "sha256": "236dfb06f0ed33f65b5f478a04350d74b5ef8a36568b22ff7f95b1aa1caa9252",
+              "physical_lines": 175
+            },
+            "own_actual_grade": "SELECTED_MAINTAINED_ANALYTICAL_ACCOUNT_NOT_PRIMARY_NATIVE_RAW_AV_OR_WHOLE",
+            "selected_inclusive_intervals": [
+              [
+                1,
+                20
+              ],
+              [
+                78,
+                114
+              ],
+              [
+                130,
+                130
+              ]
+            ],
+            "selected_count": 58,
+            "header_addresses": 20,
+            "substantive_selected_addresses": 38
+          }
+        ],
+        "operative_complete_qualifier_meanings": {
+          "Sumire": {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_SOURCE4_COMPLETE12_ANSWERS_NEW105_QUESTIONS_GRADES_AND_CURRENT_COMMON_QUALIFICATIONS_V1.json",
+            "C_source_path": "DATED-LOCATOR-2AFC2B9F287F6223",
+            "bytes": 46774,
+            "sha256": "866aab751189cf94cdb6fdf5bb144b74ed5ab681e14a75dffdf3e342037fce94",
+            "own_grade": "SELECTED_COMPLETE_OPERATIVE_QUALIFIER_VALUES_NOT_WHOLE_SOURCE_FILE_OR_ORIGINAL_AUTHOR_GRADE",
+            "complete_received_values": {
+              "O023": "Sumire grants Rei’s requested break and shares spectating. Rei values stadium food and offers to treat Sumire; Sumire permits one hot dog. No purchase or meal consumed by Sumire is shown. Original G330/footer and prepared correction retain their dated publication roles.",
+              "SQ02": {
+                "question_id": "SQ02",
+                "full_own_source_question": "What does Rei request, accept, question or refuse in G330, and where does Sumire listen locally while still moving or exceeding a previous endpoint?",
+                "source_loci": "SS02:83-113;SS03:81-87",
+                "own_complete_actual_answer": "Rei requests instruction and provisional attachment, receives a break and agrees to continue after an enjoyable outing. She also questions changing repetitions, restraint, relevance to batting and renewed full-speed running. Her first request and stadium agreement cannot erase the later method-specific objections; her future intention to leave is not enacted departure."
+              },
+              "SQ04": {
+                "question_id": "SQ04",
+                "full_own_source_question": "Whose food interest, offer, permission, purchase and consumption are actually narrated, including the corrected G330 stadium-food attribution?",
+                "source_loci": "SS02:97-107;SS01:199-235",
+                "own_complete_actual_answer": "G330 assigns stadium-food preference and treat offer to Rei and one-hot-dog permission to Sumire; Sumire explicitly enjoys shared watching. No purchase or meal consumed by Sumire is shown. Private café tastes and product advocacy have their own different objects and afterstates and cannot fill the G330 missing meal."
+              },
+              "current_use_and_dated_history": "Body145/mapV2 and readiness books/QA/ROOT are immutable dated stages; their NOT_STARTED or pending fields describe creation. This component supplies new AUTHOR_ONLY Sumire525, not a retrospective QA or ROOT package adoption. Old G330/normal Cycle drafts remain dated; current listed qualifications govern source use.",
+              "own_grade_attributed_to_original_author": "OWN_SUMIRE4_WHOLE_MAINTAINED950_AND_NEW_TARGET_JUDGMENT;ORIGINAL_COMMON105_REPORT_SCOPES_ATTRIBUTED_NOT_FRESH_NORMAL_PRIMARY_NATIVE_RAW_AV"
+            }
+          },
+          "Rei": {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_SOURCE12_COMPLETE12_QUESTIONS_CURRENT_QUALIFIERS_AND_ACTUAL_GRADE_RECEIVING_V1.json",
+            "C_source_path": "DATED-LOCATOR-154A114203099511",
+            "bytes": 44479,
+            "sha256": "febcc3e1596aad3a8af72a9395decdfbde5b84be1167749c12f316b16c5799ee",
+            "own_grade": "SELECTED_COMPLETE_OPERATIVE_QUALIFIER_VALUES_NOT_WHOLE_SOURCE_FILE_OR_ORIGINAL_AUTHOR_GRADE",
+            "complete_received_values": {
+              "current_food_mode_precision": "G33099 gives wanted food/allowed one hotdog/offered treat, not an inspected purchase or Sumire meal; currentO012/O058 use wanted stadium food. E126 actual eating remains literal.",
+              "current_common_source_use_qualifications": {
+                "O087": "Actual no-force one-week agreement and unpacking, not evidence that the week was fulfilled.",
+                "O094": "Teacher reading of Miyo wanted romance novels is refused; not Miyo authorship or refusal to write/share authored writing.",
+                "O096": "Reported foodlessness; food supplied before later bill/printing bargaining; contract follows rejected9:1, final agreed terms/ratio unprinted; no demonstrated deliberate withholding or clinical starvation mechanism.",
+                "actor_mode_chronology": "Original grades and local actors/modes retained; no inferred Rei attendance beyond actual own sources, shared calendar, universal audience, voice performance, registry join or global absence."
+              },
+              "actual_source_totals": {
+                "WHOLE_maintained_files": 12,
+                "physical_lines": 1839,
+                "bytes": 250064,
+                "overlap": "REIB checkpoint and four paired/two written companions overlap the same ten owned primary objects; twelve maintained files are not twelve independent primary corpora. SUMI is a comparator rather than extra Rei private scenes. E126 is one admitted maintained gift argument, not whole EVENT80001 or a primary inspection.",
+                "primary_native_raw_AV_normal105": 0
+              },
+              "body_metadata_qualification": "Unchanged body-first draft metadata and no105/bodyQA/ROOTpending prose describe the original body-authoring stage. Actual10071 body-only adoption governs new105 permission; no current exact8 acceptance or public lifecycle promotion is granted.",
+              "no_inside_named_or_REL307_completion": true
+            }
+          }
+        },
+        "source_snapshot_pins": [
+          {
+            "C_source_path": "DATED-LOCATOR-3CAF7873D19786C8",
+            "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SUMIRE_CHARACTER_MONOGRAPH.md",
+            "bytes": 25661,
+            "sha256": "602dd505b980ba18b4ca651e898d60abf6c4d3e8c9830e121415dec430d44681"
+          },
+          {
+            "C_source_path": "DATED-LOCATOR-D9E5EE182C43C6C8",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_SOURCE4_COMPLETE12_ANSWERS_NEW105_QUESTIONS_GRADES_AND_CURRENT_COMMON_QUALIFICATIONS_V1.json",
+            "bytes": 46774,
+            "sha256": "866aab751189cf94cdb6fdf5bb144b74ed5ab681e14a75dffdf3e342037fce94"
+          },
+          {
+            "C_source_path": "DATED-LOCATOR-7DBC2B032BE89BBF",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_CURRENT_COMPLETE_LITERAL52_SOURCE_QUESTION_NEW105_RIVAL_END_GAP_REGISTER_V1.json",
+            "bytes": 890921,
+            "sha256": "a7ee8650a7dfc5e2af748500a7280bbd9f3d1ada59eed57f60a2d8299581b866"
+          },
+          {
+            "C_source_path": "DATED-LOCATOR-36AB1B854875CDD1",
+            "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_CHARACTER_MONOGRAPH.md",
+            "bytes": 36632,
+            "sha256": "c81171441d97a67a18c9388101893249a4de8b76fc739e3f20860d9bb5361966"
+          },
+          {
+            "C_source_path": "DATED-LOCATOR-2080B77AD3164AAC",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_SOURCE12_COMPLETE12_QUESTIONS_CURRENT_QUALIFIERS_AND_ACTUAL_GRADE_RECEIVING_V1.json",
+            "bytes": 44479,
+            "sha256": "febcc3e1596aad3a8af72a9395decdfbde5b84be1167749c12f316b16c5799ee"
+          },
+          {
+            "C_source_path": "DATED-LOCATOR-D404EC80D1DB99D0",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_CURRENT173_COMPLETE_LITERAL65_SOURCE_QUESTION_PURPOSE_RIVAL_END_GAP_REGISTER_V3.json",
+            "bytes": 442673,
+            "sha256": "f00f2a14e1eb152ca454928870c3e8a23b7b11c47d5e5ba293e71c662dff13c0"
+          },
+          {
+            "C_source_path": "DATED-LOCATOR-20A9EE05D6842779",
+            "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+            "bytes": 28668,
+            "sha256": "4b2cc0b4808e617e18c1bf3e788da5357f4c20fcb87bceeabb9b6f73e22e4d69"
+          },
+          {
+            "C_source_path": "DATED-LOCATOR-45F94A4C91A56BFD",
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 23709,
+            "sha256": "aa8ea335644d12f74f0a268aa3cb03e8dcd1b51838cafa4bec8f66714a451e20"
+          },
+          {
+            "C_source_path": "DATED-LOCATOR-2B02A6A44CD61C86",
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_845/BLUE_ARCHIVE_EVENT_845_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 32500,
+            "sha256": "236dfb06f0ed33f65b5f478a04350d74b5ef8a36568b22ff7f95b1aa1caa9252"
+          },
+          {
+            "C_source_path": "DATED-LOCATOR-2AFC2B9F287F6223",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_SOURCE4_COMPLETE12_ANSWERS_NEW105_QUESTIONS_GRADES_AND_CURRENT_COMMON_QUALIFICATIONS_V1.json",
+            "bytes": 46774,
+            "sha256": "866aab751189cf94cdb6fdf5bb144b74ed5ab681e14a75dffdf3e342037fce94"
+          },
+          {
+            "C_source_path": "DATED-LOCATOR-154A114203099511",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_SOURCE12_COMPLETE12_QUESTIONS_CURRENT_QUALIFIERS_AND_ACTUAL_GRADE_RECEIVING_V1.json",
+            "bytes": 44479,
+            "sha256": "febcc3e1596aad3a8af72a9395decdfbde5b84be1167749c12f316b16c5799ee"
+          }
+        ],
+        "framework_manifest": {
+          "C_path": "DATED-LOCATOR-D23A4E273F3B3785",
+          "bytes": 2675,
+          "sha256": "d8ba7911a45d458485ad6063dea42bec601630c67c22884d192eabb7786ffb50"
+        },
+        "framework_selected_intervals": {
+          "method": [
+            [
+              380,
+              425
+            ]
+          ],
+          "architecture": [
+            [
+              346,
+              356
+            ],
+            [
+              577,
+              625
+            ],
+            [
+              645,
+              701
+            ]
+          ]
+        },
+        "overlap": "Two monographs and these maintained accounts discuss overlapping episodes. Neither numberoffiles nor repeatedparagraphs provides independent corroboration, chronology or a causalmodel.",
+        "claim_limits": [
+          "BaseReiCH0245 only;no divingRei, newtypedidentity/person/home or extraREL.",
+          "G330 is peerexchange withoutSenseimediation. E832trioofframp isChihiro/group choice, neverRei permission. E845actualwin andnextdayfailure preserveotheractors/contributions; Sumire no-deciding principle coexistswith restoverride.",
+          "CurrentO023/SQ02/SQ04 govern retainedG330176footer; SumiregrantsReibreak and enjoys sharedwatching. No consumedSumiremeal;foodoffer/allowance preserved, breakfastfuture.",
+          "No inspecteddeviceactivation/release/safety, efficacy/clinicalmechanism, causalmonopoly, permanentconsent/loyalty/reform/globalcalendar, enacteddeparture or majorrupture/repair invented.",
+          "No private/BOND/V002/futureE/primary/native/raw/AV acquisition/admission; all14OPEN/models0 and355/29 remain."
+        ],
+        "reader_role": "Currentbody author, notdifferentcompletebodyreviewer orRootadopter. Priorprivatepeer/publicmetadata/class roles disclosed.",
+        "access": "ExactpositiveC only/ownstdlib;noR/N/Git/provider/shared/frozen/excludedtarget access,foreignhelperexecution/import,broadscan or externalchat.",
+        "pending": "Current body-first C packet awaits differentcompletebodyQA and Root actualfullreceiving/adoption; its exactfrozen terminal governs completion. No install/count/publication/source/modelcredit.",
+        "source_prebody_creation_history": {
+          "pending_literal_at_prebody_creation": "Original connectedrelationbody next; Cdraft only, separate differentcompletebodyQA andRootactualfullreceiving before anyadoption/publication/count.",
+          "qualification": "Dated sourceattestation created before manuscript; this field does not describe current bodycompletion."
+        }
+      }
+    },
+    "A03": {
+      "record_id": "A03",
+      "original_filename": "RELATION_COMPLETE20_LITERAL_PARAGRAPH_PURPOSE_DIRECTION_MODE_ENDPOINT_AND_TWELVE_DIMENSION_MAP_V1.json",
+      "original_file_bytes": 44645,
+      "original_file_sha256": "fd9f0719eb5a545dda6ce1b2f6a53db0d672884febf947ae2547c6a7978d93c6",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "d6d444012320c9281329d7cacd90c94c9fd6d7ca4de4a8440c7f8cc0402890b0"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "SUMIRE_BASEBALL_REI_CONNECTED_RELATION_COMPLETE_LITERAL20_MAP_V1",
+        "author": "/root/current_preflight_requirements",
+        "authority": {
+          "status": "draft_noncurrent",
+          "supersedes": [],
+          "superseded_by": [],
+          "do_not_use_as_current_authority": true
+        },
+        "lifecycle_state": "C_ONLY_AUTHOR_MAP_PENDING_DIFFERENT_COMPLETE_BODY_QA_ROOT",
+        "component_refs": [
+          {
+            "relative_path": "BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS_C_ONLY_DRAFT_V1.md",
+            "bytes": 13991,
+            "sha256": "56870a2ae81aaf2b1d19fdb8dbaeb9066cf49ffeab361f09644b93f63b4ca5cd"
+          },
+          {
+            "relative_path": "RELATION_BODY_SOURCE_AUTHORITY_VERIFIED_OWN_TWO_MONOGRAPHS_SELECTED240_AND_OPERATIVE_QUALIFIERS_V1.json",
+            "bytes": 22493,
+            "sha256": "64c8905f7f4d99d912d22dfd22df7cc91cdd8a3e63730b186710cbb2cfd4ea1f"
+          }
+        ],
+        "literal_paragraph_count": 20,
+        "body_physical_lines": 58,
+        "paragraphs": [
+          {
+            "paragraph_id": "SRR001",
+            "physical_start_line": 20,
+            "physical_end_line": 20,
+            "UTF8_span": [
+              860,
+              1585
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                944,
+                1669
+              ],
+              "literal_UTF8_bytes": 725,
+              "literal_sha256": "309c8a317f35c01a92d4090ea5da5d4819a79d5de8270e1136a5722021387e7a",
+              "current_geometry_selector": "#/current_body_geometry/0"
+            },
+            "literal_UTF8_bytes": 725,
+            "literal_sha256": "309c8a317f35c01a92d4090ea5da5d4819a79d5de8270e1136a5722021387e7a",
+            "own_connected_purpose": "Make the dyad question specific: wanted expert help must continue answering Rei’s particular goal and present response.",
+            "actor_recipient_and_direction": "Rei→Sumire chosenrequest;Sumire→Rei expertresponse;reciprocal company",
+            "claim_mode_and_finite_endpoint": "Wanted help and actual local accommodations coexist with disputed future methods.",
+            "particular_limits": "Association established with recurring pressure, not moral essence or an unlimited compact.",
+            "relationship_dimensions": [
+              2,
+              3,
+              4,
+              5
+            ],
+            "evidence": [
+              {
+                "source_key": "G330",
+                "physical_ranges": [
+                  [
+                    71,
+                    113
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/0",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              },
+              {
+                "source_key": "E845",
+                "physical_ranges": [
+                  [
+                    96,
+                    110
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/2",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR002",
+            "physical_start_line": 22,
+            "physical_end_line": 22,
+            "UTF8_span": [
+              1587,
+              2276
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                1671,
+                2360
+              ],
+              "literal_UTF8_bytes": 689,
+              "literal_sha256": "3bf1b07b70ce0503181019013765861dd48af5eab6d4ebc8644d3f7d73dbe0eb",
+              "current_geometry_selector": "#/current_body_geometry/1"
+            },
+            "literal_UTF8_bytes": 689,
+            "literal_sha256": "3bf1b07b70ce0503181019013765861dd48af5eab6d4ebc8644d3f7d73dbe0eb",
+            "own_connected_purpose": "Establish a locally known beginning through limitation-aware referral and active temporary request.",
+            "actor_recipient_and_direction": "Seniors→Rei referral;Rei→Sumire request;Sumire→Rei acceptance",
+            "claim_mode_and_finite_endpoint": "Request/acceptance and referral at their printed local order.",
+            "particular_limits": "No first-ever meeting or unlimited agreement inferred.",
+            "relationship_dimensions": [
+              1,
+              2
+            ],
+            "evidence": [
+              {
+                "source_key": "G330",
+                "physical_ranges": [
+                  [
+                    71,
+                    85
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/0",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR003",
+            "physical_start_line": 24,
+            "physical_end_line": 24,
+            "UTF8_span": [
+              2278,
+              2941
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                2362,
+                3025
+              ],
+              "literal_UTF8_bytes": 663,
+              "literal_sha256": "55c64302d6b19dfe2d429b1e9a872739e90e285c4af4b3d24ec16d0372a06c3c",
+              "current_geometry_selector": "#/current_body_geometry/2"
+            },
+            "literal_UTF8_bytes": 663,
+            "literal_sha256": "55c64302d6b19dfe2d429b1e9a872739e90e285c4af4b3d24ec16d0372a06c3c",
+            "own_connected_purpose": "Locate initial asymmetry in pace and expertise while retaining the pupil’s independent criterion of usefulness.",
+            "actor_recipient_and_direction": "Sumire→Rei prescription;Rei→Sumire relevance/readiness judgment",
+            "claim_mode_and_finite_endpoint": "Instruction begins; ends remain different.",
+            "particular_limits": "No claim that bodily development or batting efficacy is independently proven.",
+            "relationship_dimensions": [
+              2,
+              3,
+              7
+            ],
+            "evidence": [
+              {
+                "source_key": "G330",
+                "physical_ranges": [
+                  [
+                    83,
+                    89
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/0",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR004",
+            "physical_start_line": 26,
+            "physical_end_line": 26,
+            "UTF8_span": [
+              2943,
+              3552
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                3027,
+                3636
+              ],
+              "literal_UTF8_bytes": 609,
+              "literal_sha256": "c7aff15732a502186dcdc21e72d35c7fc389282a834e40cf67acaa84d33cf82a",
+              "current_geometry_selector": "#/current_body_geometry/3"
+            },
+            "literal_UTF8_bytes": 609,
+            "literal_sha256": "c7aff15732a502186dcdc21e72d35c7fc389282a834e40cf67acaa84d33cf82a",
+            "own_connected_purpose": "Distinguish moving endpoints from the actual granted stopping request, keeping both as real actions.",
+            "actor_recipient_and_direction": "Sumire→Rei repeatedlastset/praise;Rei→Sumire breakrequest;Sumire grants",
+            "claim_mode_and_finite_endpoint": "Completed count praised and break granted locally.",
+            "particular_limits": "Rei receives break; no permanent reform or discarded kindness.",
+            "relationship_dimensions": [
+              3,
+              4,
+              5,
+              9
+            ],
+            "evidence": [
+              {
+                "source_key": "G330",
+                "physical_ranges": [
+                  [
+                    87,
+                    87
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/0",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": [
+              "O023",
+              "SQ02"
+            ]
+          },
+          {
+            "paragraph_id": "SRR005",
+            "physical_start_line": 28,
+            "physical_end_line": 28,
+            "UTF8_span": [
+              3554,
+              4116
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                3638,
+                4200
+              ],
+              "literal_UTF8_bytes": 562,
+              "literal_sha256": "68e8568d00be0cf3ccff46bd2dcd4299ae7550cd4785355efd583328b8c0235d",
+              "current_geometry_selector": "#/current_body_geometry/4"
+            },
+            "literal_UTF8_bytes": 562,
+            "literal_sha256": "68e8568d00be0cf3ccff46bd2dcd4299ae7550cd4785355efd583328b8c0235d",
+            "own_connected_purpose": "Read the ended session and offered outing as a change in what the expert is available to share.",
+            "actor_recipient_and_direction": "Sumire→Rei venuechange;Rei→Sumire baseballworld",
+            "claim_mode_and_finite_endpoint": "Session ends and outing is offered/undertaken in the local sequence.",
+            "particular_limits": "Company need not prove a home run; no causal training guarantee.",
+            "relationship_dimensions": [
+              5,
+              9,
+              10
+            ],
+            "evidence": [
+              {
+                "source_key": "G330",
+                "physical_ranges": [
+                  [
+                    93,
+                    103
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/0",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR006",
+            "physical_start_line": 30,
+            "physical_end_line": 30,
+            "UTF8_span": [
+              4118,
+              4681
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                4202,
+                4765
+              ],
+              "literal_UTF8_bytes": 563,
+              "literal_sha256": "840bbb34909801be34c721480959a64a6f368078fcd4dc31a6bd7ff51c49ab13",
+              "current_geometry_selector": "#/current_body_geometry/5"
+            },
+            "literal_UTF8_bytes": 563,
+            "literal_sha256": "840bbb34909801be34c721480959a64a6f368078fcd4dc31a6bd7ff51c49ab13",
+            "own_connected_purpose": "Retain quiet sparse-crowd company as an actual good with distinct participant ends.",
+            "actor_recipient_and_direction": "Rei→sharedbaseballplace;Sumire→Rei enjoyedcompany",
+            "claim_mode_and_finite_endpoint": "Shared watching and explicit Sumire pleasure.",
+            "particular_limits": "No global calendar or athletic-result validation required.",
+            "relationship_dimensions": [
+              5,
+              6,
+              10
+            ],
+            "evidence": [
+              {
+                "source_key": "G330",
+                "physical_ranges": [
+                  [
+                    97,
+                    107
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/0",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR007",
+            "physical_start_line": 32,
+            "physical_end_line": 32,
+            "UTF8_span": [
+              4683,
+              5340
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                4767,
+                5424
+              ],
+              "literal_UTF8_bytes": 657,
+              "literal_sha256": "3aba348b02e69fc0d98e8009fabaf26c7f8e2fa82c411f6642c4c68454d529a7",
+              "current_geometry_selector": "#/current_body_geometry/6"
+            },
+            "literal_UTF8_bytes": 657,
+            "literal_sha256": "3aba348b02e69fc0d98e8009fabaf26c7f8e2fa82c411f6642c4c68454d529a7",
+            "own_connected_purpose": "Reverse expertise within the dyad without erasing training seniority.",
+            "actor_recipient_and_direction": "Rei→Sumire rules/correction;Sumire→Rei trainingknowledge",
+            "claim_mode_and_finite_endpoint": "Junior supplies domain-specific knowledge.",
+            "particular_limits": "No total hierarchy reversal or total senior expertise.",
+            "relationship_dimensions": [
+              3,
+              7
+            ],
+            "evidence": [
+              {
+                "source_key": "G330",
+                "physical_ranges": [
+                  [
+                    99,
+                    107
+                  ],
+                  [
+                    144,
+                    150
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/0",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR008",
+            "physical_start_line": 34,
+            "physical_end_line": 34,
+            "UTF8_span": [
+              5342,
+              5972
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                5426,
+                6056
+              ],
+              "literal_UTF8_bytes": 630,
+              "literal_sha256": "14a7b150e1ca63020d1e92b18854028067fd5ff319466f6a09ea52ba1396794a",
+              "current_geometry_selector": "#/current_body_geometry/7"
+            },
+            "literal_UTF8_bytes": 630,
+            "literal_sha256": "14a7b150e1ca63020d1e92b18854028067fd5ff319466f6a09ea52ba1396794a",
+            "own_connected_purpose": "Preserve food as offer and allowance with the correct owner of spectating pleasure.",
+            "actor_recipient_and_direction": "Rei→Sumire treatoffer;Sumire→Rei onehotdogallowance",
+            "claim_mode_and_finite_endpoint": "Wanted food/offer/permission; sharedwatching enjoyed.",
+            "particular_limits": "No actedpurchase or consumedSumiremeal; O023/SQ04 control retainedfooter.",
+            "relationship_dimensions": [
+              5,
+              10
+            ],
+            "evidence": [
+              {
+                "source_key": "G330",
+                "physical_ranges": [
+                  [
+                    99,
+                    99
+                  ],
+                  [
+                    103,
+                    103
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/0",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": [
+              "O023",
+              "SQ04"
+            ]
+          },
+          {
+            "paragraph_id": "SRR009",
+            "physical_start_line": 36,
+            "physical_end_line": 36,
+            "UTF8_span": [
+              5974,
+              6598
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                6058,
+                6682
+              ],
+              "literal_UTF8_bytes": 624,
+              "literal_sha256": "42bf0693df254b6e29c11fe39b53e5fdad097ff865234741214437dbe2101d09",
+              "current_geometry_selector": "#/current_body_geometry/8"
+            },
+            "literal_UTF8_bytes": 624,
+            "literal_sha256": "42bf0693df254b6e29c11fe39b53e5fdad097ff865234741214437dbe2101d09",
+            "own_connected_purpose": "Treat renewed continuation as a positive local answer which leaves later judgment possible.",
+            "actor_recipient_and_direction": "Sumire→Rei continuationrequest;Rei→Sumire affirmation",
+            "claim_mode_and_finite_endpoint": "Both affirm this association locally.",
+            "particular_limits": "No inner-life completeness or all-future-method consent.",
+            "relationship_dimensions": [
+              3,
+              6,
+              9
+            ],
+            "evidence": [
+              {
+                "source_key": "G330",
+                "physical_ranges": [
+                  [
+                    103,
+                    113
+                  ],
+                  [
+                    144,
+                    150
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/0",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR010",
+            "physical_start_line": 38,
+            "physical_end_line": 38,
+            "UTF8_span": [
+              6600,
+              7285
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                6684,
+                7369
+              ],
+              "literal_UTF8_bytes": 685,
+              "literal_sha256": "473db2deb7c856edb4852b1d4bbac3b8bdf764088920a73b6e363f11a794ec69",
+              "current_geometry_selector": "#/current_body_geometry/9"
+            },
+            "literal_UTF8_bytes": 685,
+            "literal_sha256": "473db2deb7c856edb4852b1d4bbac3b8bdf764088920a73b6e363f11a794ec69",
+            "own_connected_purpose": "Make inability to stop a substantive objection and bound the unfinished departure/rupture.",
+            "actor_recipient_and_direction": "Sumire→Rei devicecompletionclaim;Rei→Sumire stopobjection/intention",
+            "claim_mode_and_finite_endpoint": "Displayed/explaineddevice;objection;statedfutureintention.",
+            "particular_limits": "No activation/release/safety test or enacteddeparture/majorrupture/completedrepair.",
+            "relationship_dimensions": [
+              4,
+              6,
+              8,
+              9
+            ],
+            "evidence": [
+              {
+                "source_key": "G330",
+                "physical_ranges": [
+                  [
+                    111,
+                    123
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/0",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR011",
+            "physical_start_line": 40,
+            "physical_end_line": 40,
+            "UTF8_span": [
+              7287,
+              7925
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                7371,
+                8009
+              ],
+              "literal_UTF8_bytes": 638,
+              "literal_sha256": "3c887c4814b2d7a4b215c2c1a54f1252347a5823462f197a8b44d95fa87c13d2",
+              "current_geometry_selector": "#/current_body_geometry/10"
+            },
+            "literal_UTF8_bytes": 638,
+            "literal_sha256": "3c887c4814b2d7a4b215c2c1a54f1252347a5823462f197a8b44d95fa87c13d2",
+            "own_connected_purpose": "Separate useful public help from Rei’s direct unanswered stopping demand.",
+            "actor_recipient_and_direction": "TrainingClub→outingparty diversion;Rei→Sumire objections;Sumire refusesexit",
+            "claim_mode_and_finite_endpoint": "Publichelp actual;Rei stopanswer refused beforemenucomplete.",
+            "particular_limits": "No fullchase/injuryaudit or permission from admired dedication.",
+            "relationship_dimensions": [
+              3,
+              4,
+              5,
+              12
+            ],
+            "evidence": [
+              {
+                "source_key": "E832",
+                "physical_ranges": [
+                  [
+                    81,
+                    83
+                  ],
+                  [
+                    93,
+                    108
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/1",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR012",
+            "physical_start_line": 42,
+            "physical_end_line": 42,
+            "UTF8_span": [
+              7927,
+              8594
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                8011,
+                8678
+              ],
+              "literal_UTF8_bytes": 667,
+              "literal_sha256": "80ca390c3bab4c0198657eac5593105b56116e27344fa09dfd914221c6778d0b",
+              "current_geometry_selector": "#/current_body_geometry/11"
+            },
+            "literal_UTF8_bytes": 667,
+            "literal_sha256": "80ca390c3bab4c0198657eac5593105b56116e27344fa09dfd914221c6778d0b",
+            "own_connected_purpose": "Keep the trio off-ramp and Rei’s imposed sprint as different recipient decisions.",
+            "actor_recipient_and_direction": "Chihiro→trio option;trio→Chihiro choice;Sumire→Rei sprintoverprotest",
+            "claim_mode_and_finite_endpoint": "Trio locallychooses;Rei separatelyprotests.",
+            "particular_limits": "No transferring trio permission to this dyad.",
+            "relationship_dimensions": [
+              4,
+              6,
+              9
+            ],
+            "evidence": [
+              {
+                "source_key": "E832",
+                "physical_ranges": [
+                  [
+                    85,
+                    89
+                  ],
+                  [
+                    93,
+                    108
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/1",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR013",
+            "physical_start_line": 44,
+            "physical_end_line": 44,
+            "UTF8_span": [
+              8596,
+              9228
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                8680,
+                9312
+              ],
+              "literal_UTF8_bytes": 632,
+              "literal_sha256": "6d2222f3707bff6d7d2c7746b23a3c1881bf3bc213bc4cf0ffc7455567bc7a4e",
+              "current_geometry_selector": "#/current_body_geometry/12"
+            },
+            "literal_UTF8_bytes": 632,
+            "literal_sha256": "6d2222f3707bff6d7d2c7746b23a3c1881bf3bc213bc4cf0ffc7455567bc7a4e",
+            "own_connected_purpose": "Retain actual arrival/pleasure without completing future food or borrowing simulator outcomes.",
+            "actor_recipient_and_direction": "Outingparticipants arrive/view;foodchoices proposed;gamecharacter changes",
+            "claim_mode_and_finite_endpoint": "Arrival/view actual;breakfastfuture;simulatorgain game-only.",
+            "particular_limits": "No consumedbreakfast/improvedReibody or cancellation of refusal byarrival.",
+            "relationship_dimensions": [
+              5,
+              10
+            ],
+            "evidence": [
+              {
+                "source_key": "E832",
+                "physical_ranges": [
+                  [
+                    85,
+                    91
+                  ],
+                  [
+                    110,
+                    115
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/1",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR014",
+            "physical_start_line": 46,
+            "physical_end_line": 46,
+            "UTF8_span": [
+              9230,
+              9909
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                9314,
+                9993
+              ],
+              "literal_UTF8_bytes": 679,
+              "literal_sha256": "448bec7e5c800e59701da25323693a9f36bf637433ab9d94bab0b2753960b973",
+              "current_geometry_selector": "#/current_body_geometry/13"
+            },
+            "literal_UTF8_bytes": 679,
+            "literal_sha256": "448bec7e5c800e59701da25323693a9f36bf637433ab9d94bab0b2753960b973",
+            "own_connected_purpose": "Test Sumire’s chosen-self principle against limited practical capacities rather than treating it as completed conduct.",
+            "actor_recipient_and_direction": "Sumire→others support/decisionlimit;Sumire→Rei boundedexpertise",
+            "claim_mode_and_finite_endpoint": "Statedprinciple,admittednegotiationlimit,noise-limitedcodeknowledge.",
+            "particular_limits": "No all-purposeexpert,hiddenmotive or settled observance.",
+            "relationship_dimensions": [
+              2,
+              5,
+              6,
+              7
+            ],
+            "evidence": [
+              {
+                "source_key": "E845",
+                "physical_ranges": [
+                  [
+                    78,
+                    98
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/2",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR015",
+            "physical_start_line": 48,
+            "physical_end_line": 48,
+            "UTF8_span": [
+              9911,
+              10570
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                9995,
+                10654
+              ],
+              "literal_UTF8_bytes": 659,
+              "literal_sha256": "c5a5d187913c30bdbf6ad786c5e1da2bfce9a4e08d1cbda6650683c2211cc8ac",
+              "current_geometry_selector": "#/current_body_geometry/14"
+            },
+            "literal_UTF8_bytes": 659,
+            "literal_sha256": "c5a5d187913c30bdbf6ad786c5e1da2bfce9a4e08d1cbda6650683c2211cc8ac",
+            "own_connected_purpose": "Distribute support and costs across named actors while keeping Rei’s attempted goal hers.",
+            "actor_recipient_and_direction": "Hanae cheers;Sensei acts;Sumire contributes;Rei choosesbatting",
+            "claim_mode_and_finite_endpoint": "Particularcontributions and Rei decision atplate.",
+            "particular_limits": "No causalmonopoly or reassigning Sensei contact toSumire.",
+            "relationship_dimensions": [
+              5,
+              6,
+              12
+            ],
+            "evidence": [
+              {
+                "source_key": "E845",
+                "physical_ranges": [
+                  [
+                    78,
+                    106
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/2",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR016",
+            "physical_start_line": 50,
+            "physical_end_line": 50,
+            "UTF8_span": [
+              10572,
+              11229
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                10656,
+                11313
+              ],
+              "literal_UTF8_bytes": 657,
+              "literal_sha256": "b699de7becc7cbce250a79850a39a7688ceca7b4dffcbc16365f14c0b5fec2a0",
+              "current_geometry_selector": "#/current_body_geometry/15"
+            },
+            "literal_UTF8_bytes": 657,
+            "literal_sha256": "b699de7becc7cbce250a79850a39a7688ceca7b4dffcbc16365f14c0b5fec2a0",
+            "own_connected_purpose": "Value an actual success alongside failure without making either consume the other.",
+            "actor_recipient_and_direction": "Rei bats;others receivejoy;Rei laterfacesmachine",
+            "claim_mode_and_finite_endpoint": "Grand slam/joy actual;followingmachine defeat actual.",
+            "particular_limits": "No reliableacquiredskill,Sumirecausalproof or ethicalabsolution.",
+            "relationship_dimensions": [
+              6,
+              10
+            ],
+            "evidence": [
+              {
+                "source_key": "E845",
+                "physical_ranges": [
+                  [
+                    104,
+                    110
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/2",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR017",
+            "physical_start_line": 52,
+            "physical_end_line": 52,
+            "UTF8_span": [
+              11231,
+              11877
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                11315,
+                11961
+              ],
+              "literal_UTF8_bytes": 646,
+              "literal_sha256": "f43c44da36096a29b1ca30edf839ed80d604c83460711fecffb7b4e3348f51db",
+              "current_geometry_selector": "#/current_body_geometry/16"
+            },
+            "literal_UTF8_bytes": 646,
+            "literal_sha256": "f43c44da36096a29b1ca30edf839ed80d604c83460711fecffb7b4e3348f51db",
+            "own_connected_purpose": "Keep chosen club continuity and wanted material memory as different ordinary ends.",
+            "actor_recipient_and_direction": "Rei→proclub refusal/ownclubcommitment/equipmentthanks;Sumire→outfitmemorywish",
+            "claim_mode_and_finite_endpoint": "Localrefusal,thanks and wantedmemory.",
+            "particular_limits": "No completedclubreconstruction/permanentintimacy or inspectedretention ofoutfit.",
+            "relationship_dimensions": [
+              6,
+              9,
+              10
+            ],
+            "evidence": [
+              {
+                "source_key": "E845",
+                "physical_ranges": [
+                  [
+                    108,
+                    114
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/2",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR018",
+            "physical_start_line": 54,
+            "physical_end_line": 54,
+            "UTF8_span": [
+              11879,
+              12539
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                11963,
+                12623
+              ],
+              "literal_UTF8_bytes": 660,
+              "literal_sha256": "10bd87bd04a08e89dc89587fc7e510e77ca8fca92cd2c735991460cf458ba8e4",
+              "current_geometry_selector": "#/current_body_geometry/17"
+            },
+            "literal_UTF8_bytes": 660,
+            "literal_sha256": "10bd87bd04a08e89dc89587fc7e510e77ca8fca92cd2c735991460cf458ba8e4",
+            "own_connected_purpose": "Hold the rest override beside moderation talk as an unresolved practical contradiction.",
+            "actor_recipient_and_direction": "Rei→Sumire dayoffrequest;Sumire→members endurance",
+            "claim_mode_and_finite_endpoint": "Rest requested;endurance demands renewed.",
+            "particular_limits": "No durablemoderation/reform,fullfinalsession or motive diagnosis.",
+            "relationship_dimensions": [
+              3,
+              4,
+              9,
+              10
+            ],
+            "evidence": [
+              {
+                "source_key": "E845",
+                "physical_ranges": [
+                  [
+                    96,
+                    114
+                  ],
+                  [
+                    130,
+                    130
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/2",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR019",
+            "physical_start_line": 56,
+            "physical_end_line": 56,
+            "UTF8_span": [
+              12541,
+              13311
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                12625,
+                13395
+              ],
+              "literal_UTF8_bytes": 770,
+              "literal_sha256": "93cdbd48445aa2a339810c0638815a81b92919e8b0d377787ec427f9af659bb6",
+              "current_geometry_selector": "#/current_body_geometry/18"
+            },
+            "literal_UTF8_bytes": 770,
+            "literal_sha256": "93cdbd48445aa2a339810c0638815a81b92919e8b0d377787ec427f9af659bb6",
+            "own_connected_purpose": "Distinguish peer grammar from context-specific Sensei mediation and limit global chronology/address inference.",
+            "actor_recipient_and_direction": "G330peers;E832Sensei observes;E845Sensei acts;Rei judges",
+            "claim_mode_and_finite_endpoint": "Writtenrequests/prescriptions/pause/affirmations/objections recur.",
+            "particular_limits": "No nativevoice/address-termchange or one datedreformcalendar established.",
+            "relationship_dimensions": [
+              3,
+              7,
+              9,
+              11,
+              12
+            ],
+            "evidence": [
+              {
+                "source_key": "G330",
+                "physical_ranges": [
+                  [
+                    83,
+                    123
+                  ],
+                  [
+                    144,
+                    150
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/0",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              },
+              {
+                "source_key": "E832",
+                "physical_ranges": [
+                  [
+                    81,
+                    87
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/1",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              },
+              {
+                "source_key": "E845",
+                "physical_ranges": [
+                  [
+                    78,
+                    114
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/2",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          },
+          {
+            "paragraph_id": "SRR020",
+            "physical_start_line": 58,
+            "physical_end_line": 58,
+            "UTF8_span": [
+              13313,
+              13990
+            ],
+            "literal_text": {
+              "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+              "UTF8_span": [
+                13397,
+                14074
+              ],
+              "literal_UTF8_bytes": 677,
+              "literal_sha256": "341b19e5aa0cad98037e207edd09f5d92ef8ec7f6e88825602858298af9f0fc8",
+              "current_geometry_selector": "#/current_body_geometry/19"
+            },
+            "literal_UTF8_bytes": 677,
+            "literal_sha256": "341b19e5aa0cad98037e207edd09f5d92ef8ec7f6e88825602858298af9f0fc8",
+            "own_connected_purpose": "Close on the two goods of asking for help and retaining an answer that can change it.",
+            "actor_recipient_and_direction": "Bothgivehelp/company;Reicorrects/refuses;Sumireaccommodates/presses",
+            "claim_mode_and_finite_endpoint": "Positivecompany and continuing contestedmeans coexist.",
+            "particular_limits": "No harmoniousessence,totalcoercion,forcedfutureexit or causalmodel.",
+            "relationship_dimensions": [
+              3,
+              4,
+              5,
+              6,
+              10
+            ],
+            "evidence": [
+              {
+                "source_key": "G330",
+                "physical_ranges": [
+                  [
+                    87,
+                    113
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/0",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              },
+              {
+                "source_key": "E832",
+                "physical_ranges": [
+                  [
+                    81,
+                    91
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/1",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              },
+              {
+                "source_key": "E845",
+                "physical_ranges": [
+                  [
+                    108,
+                    114
+                  ]
+                ],
+                "source_authority_pointer": "/source_table/2",
+                "grade": "OWN_VERIFIED_SELECTED_MAINTAINED_CONTEXT_NOT_PRIMARY"
+              }
+            ],
+            "operative_qualifier_keys": []
+          }
+        ],
+        "twelve_dimensions": [
+          {
+            "dimension": 1,
+            "name": "Origin / first meaningful contact",
+            "paragraph_ids": [
+              "SRR002"
+            ],
+            "own_judgment": "G330 referral/request establishes the received local coaching beginning; no firstever encounter claim."
+          },
+          {
+            "dimension": 2,
+            "name": "Initial asymmetry",
+            "paragraph_ids": [
+              "SRR001",
+              "SRR002",
+              "SRR003",
+              "SRR014"
+            ],
+            "own_judgment": "Training expertise and pace create a wanted but disputed asymmetry; Rei retains her batting goal and judgment."
+          },
+          {
+            "dimension": 3,
+            "name": "Recurring relational grammar",
+            "paragraph_ids": [
+              "SRR001",
+              "SRR003",
+              "SRR004",
+              "SRR007",
+              "SRR009",
+              "SRR011",
+              "SRR018",
+              "SRR019",
+              "SRR020"
+            ],
+            "own_judgment": "Requests, prescriptions, moving endpoints, grantedpause, affirmation and renewedobjection form a recurring grammar across contexts without a globalcalendar."
+          },
+          {
+            "dimension": 4,
+            "name": "Conflict pattern",
+            "paragraph_ids": [
+              "SRR001",
+              "SRR004",
+              "SRR010",
+              "SRR011",
+              "SRR012",
+              "SRR018",
+              "SRR020"
+            ],
+            "own_judgment": "Relevance, duration and stopping are concrete conflicts; help to otherpeople doesnot answer Rei’s present refusal."
+          },
+          {
+            "dimension": 5,
+            "name": "Care language",
+            "paragraph_ids": [
+              "SRR001",
+              "SRR004",
+              "SRR005",
+              "SRR006",
+              "SRR008",
+              "SRR011",
+              "SRR013",
+              "SRR014",
+              "SRR015",
+              "SRR020"
+            ],
+            "own_judgment": "A grantedbreak, endedtraining/outing, enjoyedcompany, treatoffer and supportingchosenselves are positivecare forms;pressure doesnot canceltheiractuality."
+          },
+          {
+            "dimension": 6,
+            "name": "Trust and disclosure",
+            "paragraph_ids": [
+              "SRR006",
+              "SRR009",
+              "SRR010",
+              "SRR012",
+              "SRR014",
+              "SRR015",
+              "SRR016",
+              "SRR017",
+              "SRR020"
+            ],
+            "own_judgment": "Local requests/affirmations and decisionownership supply trust evidence; no complete private disclosure or permanentconsent."
+          },
+          {
+            "dimension": 7,
+            "name": "Rivalry or hierarchy",
+            "paragraph_ids": [
+              "SRR003",
+              "SRR007",
+              "SRR014",
+              "SRR019"
+            ],
+            "own_judgment": "Rei teaches baseball rules while seeking training expertise; hierarchy is domain-specific and no separate personal rivalry is invented."
+          },
+          {
+            "dimension": 8,
+            "name": "Major rupture",
+            "paragraph_ids": [
+              "SRR010"
+            ],
+            "own_judgment": "Device objection includes an intention notreturn; enacteddeparture/majorrupture is unprinted inreceivedsequence. No artificial ruptureslot filled."
+          },
+          {
+            "dimension": 9,
+            "name": "Repair or redefinition",
+            "paragraph_ids": [
+              "SRR004",
+              "SRR005",
+              "SRR009",
+              "SRR010",
+              "SRR012",
+              "SRR017",
+              "SRR018",
+              "SRR019"
+            ],
+            "own_judgment": "Grantedpause/changedvenue/localcontinuation are redefinitions. Lateroverrides and uncertain crosssourceorder prevent a durable repair/reform claim."
+          },
+          {
+            "dimension": 10,
+            "name": "Ordinary-life afterstate",
+            "paragraph_ids": [
+              "SRR005",
+              "SRR006",
+              "SRR008",
+              "SRR013",
+              "SRR016",
+              "SRR017",
+              "SRR018",
+              "SRR020"
+            ],
+            "own_judgment": "Quietwatching,wantedfood,actualarrival,clubchoice,outfitmemorywish and dayoffrequest retain intrinsic meaning with finite actual/future modes."
+          },
+          {
+            "dimension": 11,
+            "name": "Linguistic/address markers",
+            "paragraph_ids": [
+              "SRR019"
+            ],
+            "own_judgment": "Written requests/repeatedlastset/cannotstop and senior-junior roles matter. No nativeaddress-termshift,heardtone or AVperformance course; no invented linguistic change."
+          },
+          {
+            "dimension": 12,
+            "name": "Sensei mediation",
+            "paragraph_ids": [
+              "SRR011",
+              "SRR015",
+              "SRR019"
+            ],
+            "own_judgment": "G330peers have noSenseimediation;E832 adultobservation andE845 adultaction remain distinct context-specific contributions, not authorship of Rei’sanswers."
+          }
+        ],
+        "qualifier_rule": "SOURCE/operative_complete_qualifier_meanings/Sumire/complete_received_values/{O023,SQ02,SQ04};Reicurrent_food_mode_precision controls oldfooter. Evidence physicalranges are maintained accountaddresses within actualselected240; no primary/native locatorreceiving.",
+        "scope": "Single existingrequired relation P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS/P3-XMI-R001, notnamed; no extraREL/person/count/model/source credit."
+      }
+    },
+    "B03": {
+      "record_id": "B03",
+      "original_filename": "EXACT_POSITIVE_G330_E832_E845_RETAINED_SOURCE_ROUTE_REQUESTS_AND_UNOPENED_STRONGER_CLAIM_SEAMS_V1.json",
+      "original_file_bytes": 8266,
+      "original_file_sha256": "79e7045edd20f2bd97c135340398436daf2faa3031a468894af0ff0f5b1db0de",
+      "source_actor_fields": {},
+      "source_date_fields": {},
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "28d4d9027278e60f1729d44148f08f42495433be9c65409a2febd48d09c2e4a7"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "RELATION_READINESS_POSITIVE_RETAINED_OWNER_REQUESTS_V1",
+        "status": "REQUESTS_ONLY;NO_TARGET_ACQUISITION_OR_READING",
+        "requests": [
+          {
+            "priority": 1,
+            "source": "G330/SS02",
+            "exact_retained_route": {
+              "source_id": "SS02",
+              "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+              "C_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+              "bytes": 28668,
+              "sha256": "4b2cc0b4808e617e18c1bf3e788da5357f4c20fcb87bceeabb9b6f73e22e4d69",
+              "git_blob_oid_of_actual_bytes": "199da3f35af1f6ab9802b7396d2d844c8638b0d3",
+              "physical_lines": 176
+            },
+            "positively_mapped_selected_intervals": [
+              [
+                71,
+                123
+              ],
+              [
+                125,
+                150
+              ],
+              [
+                162,
+                176
+              ]
+            ],
+            "question": "Resolve the particular request/referral, moving final sets/granted break, food offer/one-hotdog allowance, shared watching/continuation and restraint objection, preserving exact text/display actor and inward-mode seams. The retained old footer and current break/food qualification must be read together.",
+            "current_authority": "Sumire SOURCE O023 and SQ02/SQ04 govern current use; original retained account bytes stay dated. SUMIRE-P025–P038 and REI-P006–P011 have complete current limits.",
+            "requested_action_not_executed": "If Root requires closer source-level claims before a body commission, capture the exact current maintained owner plus its operative existing qualifier into a positive fixed C route, then authorize question-led selected receiving; do not silently substitute a guessed or corrected whole file."
+          },
+          {
+            "priority": 2,
+            "source": "E832/SS03",
+            "exact_retained_route": {
+              "source_id": "SS03",
+              "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+              "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+              "bytes": 23709,
+              "sha256": "aa8ea335644d12f74f0a268aa3cb03e8dcd1b51838cafa4bec8f66714a451e20",
+              "git_blob_oid_of_actual_bytes": "c86f892caa1c88cfb9efacd14007408df834945b",
+              "physical_lines": 115
+            },
+            "positively_mapped_selected_intervals": [
+              [
+                67,
+                108
+              ],
+              [
+                110,
+                115
+              ]
+            ],
+            "question": "Who chooses/objects in the initial training, bear diversion, repeated wish to stop, cooldown claim and summit run? Distinguish Chihiro's separate off-ramp/trio answer, actual local arrival/view and participants' food from Rei/Sumire future breakfast or simulated-body change.",
+            "current_authority": "SUMIRE-P039–P043 and REI-P048–P050 preserve repeated recipient refusal without erasing useful diversion.",
+            "requested_action_not_executed": "Root capture/authorization first if those exact episode/recipient sequences need personally closer maintained receiving; selected scope can be adequate without ritual whole115 or primary replay."
+          },
+          {
+            "priority": 3,
+            "source": "E845",
+            "exact_retained_route": {
+              "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_845/BLUE_ARCHIVE_EVENT_845_CONTEXTUALIZATION_CHECKPOINT.md",
+              "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_845/BLUE_ARCHIVE_EVENT_845_CONTEXTUALIZATION_CHECKPOINT.md",
+              "bytes": 32500,
+              "sha256": "236dfb06f0ed33f65b5f478a04350d74b5ef8a36568b22ff7f95b1aa1caa9252",
+              "git_blob_oid_of_actual_bytes": "4daee761776362b12e6ee46b9632e9062c0c2d3c",
+              "physical_lines": 175,
+              "capture_grade": "COMPLETE_FIXED_F93_ADMITTED_MAINTAINED_ANALYTICAL_OR_ELIGIBILITY_NAVIGATION_BYTE_CAPTURE_ONLY_NO_HUMAN_RECEIVING"
+            },
+            "positively_mapped_selected_intervals": [
+              [
+                78,
+                114
+              ],
+              [
+                130,
+                130
+              ]
+            ],
+            "question": "What is specifically Sumire's chosen contribution, limited expertise, report/medical assertion and renewed rest response versus Hanae's, Sensei's and Rei's own acts? Keep the actual represented winning hit, thanks/refused contract and next-day defeat distinct from a tested causal training benefit or repaired coaching relation.",
+            "current_authority": "REI-P039–P047, SOURCE RQ07/RQ08/RQ10 and current register limits. This strand is present in Rei's accepted analysis, not a second Sumire-body witness or a fresh E845 course by me.",
+            "requested_action_not_executed": "The strongest additional positive route for later source-depth is this exact maintained E845 owner. Root capture first; no new primary acquisition/future E files or inherited WHOLE175 grade."
+          }
+        ],
+        "not_a_blanket_gate": "A bounded analytical relation can be considered from the two accepted complete character analyses at that explicit grade. These closer maintained-owner courses become necessary for newly asserted exact sequence/actor/quotation or causal claims, not merely because more files exist. Root decides the body/source commission; this agent does not self-authorize it.",
+        "optional_comparative_routes_metadata_only": [
+          {
+            "source": "SumireSS01/ReiSUMI",
+            "exact_retained_route": {
+              "source_id": "SS01",
+              "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUMIRE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+              "C_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUMIRE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+              "bytes": 32702,
+              "sha256": "a4d9e272de8bca85407fd8955f09a02b8c838da6f46333d87295671b8380352f",
+              "git_blob_oid_of_actual_bytes": "ad699ece11140c0c737357f4e4687f1c420d100a",
+              "physical_lines": 402
+            },
+            "retained_locus": [
+              [
+                195,
+                239
+              ]
+            ],
+            "question": "If comparing Sumire's differing answers to other recipients, receive that bounded context and keep it as comparator, not extra Rei scenes. No new private-account acquisition is authorized here."
+          },
+          {
+            "source": "SS04V002",
+            "exact_retained_route": {
+              "source_id": "SS04",
+              "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+              "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+              "bytes": 33564,
+              "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+              "git_blob_oid_of_actual_bytes": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+              "physical_lines": 257,
+              "role": "FIXED_F93_ALREADY_ADMITTED_MAINTAINED_ANALYTICAL_CONTEXT_BYTES_ONLY_NOT_HUMAN_PRIMARY_OR_SOURCE_RECEIVING"
+            },
+            "retained_locus": [
+              [
+                243,
+                247
+              ]
+            ],
+            "question": "Only if the later relation uses the existing comparative paragraph; it adds no independent dyad observation/global chronology. Kei03 L255 use remains qualified and C-only55781 is not globally installed. No need to reopen this account for a G330/E832/E845-centered body."
+          }
+        ],
+        "stronger_unwarranted_claims": [
+          "Performed restraint activation/release or engineered safety certification",
+          "Clinical injury/cure, optimal nutrition or a consumed Sumire stadium meal/breakfast",
+          "A general training→home-run causal mechanism or durable improved batting skill",
+          "Permanent consent, settled reform, permanent TrainingClub membership, enacted future departure or a merged global calendar",
+          "Diving Rei identity, new family/person/home, unprinted player choices/voice performance"
+        ],
+        "route_identity": "Exact source repository paths and retained tuple metadata, not permission to dereference original C aliases or source files. Future currentness/capture belongs to Root."
+      }
+    }
+  },
+  "current_body_geometry": [
+    {
+      "paragraph_id": "SRR001",
+      "physical_start_line": 20,
+      "physical_end_line": 20,
+      "UTF8_span": [
+        944,
+        1669
+      ],
+      "literal_UTF8_bytes": 725,
+      "literal_sha256": "309c8a317f35c01a92d4090ea5da5d4819a79d5de8270e1136a5722021387e7a",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/0",
+      "effective_evidence": [
+        {
+          "source_key": "G330",
+          "physical_ranges": [
+            [
+              71,
+              113
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/0"
+        },
+        {
+          "source_key": "E845",
+          "physical_ranges": [
+            [
+              96,
+              110
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/2"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR002",
+      "physical_start_line": 22,
+      "physical_end_line": 22,
+      "UTF8_span": [
+        1671,
+        2360
+      ],
+      "literal_UTF8_bytes": 689,
+      "literal_sha256": "3bf1b07b70ce0503181019013765861dd48af5eab6d4ebc8644d3f7d73dbe0eb",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/1",
+      "effective_evidence": [
+        {
+          "source_key": "G330",
+          "physical_ranges": [
+            [
+              71,
+              85
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/0"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR003",
+      "physical_start_line": 24,
+      "physical_end_line": 24,
+      "UTF8_span": [
+        2362,
+        3025
+      ],
+      "literal_UTF8_bytes": 663,
+      "literal_sha256": "55c64302d6b19dfe2d429b1e9a872739e90e285c4af4b3d24ec16d0372a06c3c",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/2",
+      "effective_evidence": [
+        {
+          "source_key": "G330",
+          "physical_ranges": [
+            [
+              83,
+              89
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/0"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR004",
+      "physical_start_line": 26,
+      "physical_end_line": 26,
+      "UTF8_span": [
+        3027,
+        3636
+      ],
+      "literal_UTF8_bytes": 609,
+      "literal_sha256": "c7aff15732a502186dcdc21e72d35c7fc389282a834e40cf67acaa84d33cf82a",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/3",
+      "effective_evidence": [
+        {
+          "source_key": "G330",
+          "physical_ranges": [
+            [
+              87,
+              87
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/0"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR005",
+      "physical_start_line": 28,
+      "physical_end_line": 28,
+      "UTF8_span": [
+        3638,
+        4200
+      ],
+      "literal_UTF8_bytes": 562,
+      "literal_sha256": "68e8568d00be0cf3ccff46bd2dcd4299ae7550cd4785355efd583328b8c0235d",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/4",
+      "effective_evidence": [
+        {
+          "source_key": "G330",
+          "physical_ranges": [
+            [
+              93,
+              103
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/0"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR006",
+      "physical_start_line": 30,
+      "physical_end_line": 30,
+      "UTF8_span": [
+        4202,
+        4765
+      ],
+      "literal_UTF8_bytes": 563,
+      "literal_sha256": "840bbb34909801be34c721480959a64a6f368078fcd4dc31a6bd7ff51c49ab13",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/5",
+      "effective_evidence": [
+        {
+          "source_key": "G330",
+          "physical_ranges": [
+            [
+              97,
+              107
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/0"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR007",
+      "physical_start_line": 32,
+      "physical_end_line": 32,
+      "UTF8_span": [
+        4767,
+        5424
+      ],
+      "literal_UTF8_bytes": 657,
+      "literal_sha256": "3aba348b02e69fc0d98e8009fabaf26c7f8e2fa82c411f6642c4c68454d529a7",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/6",
+      "effective_evidence": [
+        {
+          "source_key": "G330",
+          "physical_ranges": [
+            [
+              99,
+              107
+            ],
+            [
+              144,
+              150
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/0"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR008",
+      "physical_start_line": 34,
+      "physical_end_line": 34,
+      "UTF8_span": [
+        5426,
+        6056
+      ],
+      "literal_UTF8_bytes": 630,
+      "literal_sha256": "14a7b150e1ca63020d1e92b18854028067fd5ff319466f6a09ea52ba1396794a",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/7",
+      "effective_evidence": [
+        {
+          "source_key": "G330",
+          "physical_ranges": [
+            [
+              99,
+              99
+            ],
+            [
+              103,
+              103
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/0"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR009",
+      "physical_start_line": 36,
+      "physical_end_line": 36,
+      "UTF8_span": [
+        6058,
+        6682
+      ],
+      "literal_UTF8_bytes": 624,
+      "literal_sha256": "42bf0693df254b6e29c11fe39b53e5fdad097ff865234741214437dbe2101d09",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/8",
+      "effective_evidence": [
+        {
+          "source_key": "G330",
+          "physical_ranges": [
+            [
+              103,
+              113
+            ],
+            [
+              144,
+              150
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/0"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR010",
+      "physical_start_line": 38,
+      "physical_end_line": 38,
+      "UTF8_span": [
+        6684,
+        7369
+      ],
+      "literal_UTF8_bytes": 685,
+      "literal_sha256": "473db2deb7c856edb4852b1d4bbac3b8bdf764088920a73b6e363f11a794ec69",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/9",
+      "effective_evidence": [
+        {
+          "source_key": "G330",
+          "physical_ranges": [
+            [
+              111,
+              123
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/0"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR011",
+      "physical_start_line": 40,
+      "physical_end_line": 40,
+      "UTF8_span": [
+        7371,
+        8009
+      ],
+      "literal_UTF8_bytes": 638,
+      "literal_sha256": "3c887c4814b2d7a4b215c2c1a54f1252347a5823462f197a8b44d95fa87c13d2",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/10",
+      "effective_evidence": [
+        {
+          "source_key": "E832",
+          "physical_ranges": [
+            [
+              81,
+              83
+            ],
+            [
+              93,
+              108
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/1"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR012",
+      "physical_start_line": 42,
+      "physical_end_line": 42,
+      "UTF8_span": [
+        8011,
+        8678
+      ],
+      "literal_UTF8_bytes": 667,
+      "literal_sha256": "80ca390c3bab4c0198657eac5593105b56116e27344fa09dfd914221c6778d0b",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/11",
+      "effective_evidence": [
+        {
+          "source_key": "E832",
+          "physical_ranges": [
+            [
+              85,
+              89
+            ],
+            [
+              93,
+              108
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/1"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR013",
+      "physical_start_line": 44,
+      "physical_end_line": 44,
+      "UTF8_span": [
+        8680,
+        9312
+      ],
+      "literal_UTF8_bytes": 632,
+      "literal_sha256": "6d2222f3707bff6d7d2c7746b23a3c1881bf3bc213bc4cf0ffc7455567bc7a4e",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/12",
+      "effective_evidence": [
+        {
+          "source_key": "E832",
+          "physical_ranges": [
+            [
+              85,
+              91
+            ],
+            [
+              110,
+              115
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/1"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR014",
+      "physical_start_line": 46,
+      "physical_end_line": 46,
+      "UTF8_span": [
+        9314,
+        9993
+      ],
+      "literal_UTF8_bytes": 679,
+      "literal_sha256": "448bec7e5c800e59701da25323693a9f36bf637433ab9d94bab0b2753960b973",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/13",
+      "effective_evidence": [
+        {
+          "source_key": "E845",
+          "physical_ranges": [
+            [
+              78,
+              98
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/2"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR015",
+      "physical_start_line": 48,
+      "physical_end_line": 48,
+      "UTF8_span": [
+        9995,
+        10654
+      ],
+      "literal_UTF8_bytes": 659,
+      "literal_sha256": "c5a5d187913c30bdbf6ad786c5e1da2bfce9a4e08d1cbda6650683c2211cc8ac",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/14",
+      "effective_evidence": [
+        {
+          "source_key": "E845",
+          "physical_ranges": [
+            [
+              78,
+              106
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/2"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR016",
+      "physical_start_line": 50,
+      "physical_end_line": 50,
+      "UTF8_span": [
+        10656,
+        11313
+      ],
+      "literal_UTF8_bytes": 657,
+      "literal_sha256": "b699de7becc7cbce250a79850a39a7688ceca7b4dffcbc16365f14c0b5fec2a0",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/15",
+      "effective_evidence": [
+        {
+          "source_key": "E845",
+          "physical_ranges": [
+            [
+              104,
+              110
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/2"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR017",
+      "physical_start_line": 52,
+      "physical_end_line": 52,
+      "UTF8_span": [
+        11315,
+        11961
+      ],
+      "literal_UTF8_bytes": 646,
+      "literal_sha256": "f43c44da36096a29b1ca30edf839ed80d604c83460711fecffb7b4e3348f51db",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/16",
+      "effective_evidence": [
+        {
+          "source_key": "E845",
+          "physical_ranges": [
+            [
+              108,
+              114
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/2"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR018",
+      "physical_start_line": 54,
+      "physical_end_line": 54,
+      "UTF8_span": [
+        11963,
+        12623
+      ],
+      "literal_UTF8_bytes": 660,
+      "literal_sha256": "10bd87bd04a08e89dc89587fc7e510e77ca8fca92cd2c735991460cf458ba8e4",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/17",
+      "effective_evidence": [
+        {
+          "source_key": "E845",
+          "physical_ranges": [
+            [
+              96,
+              114
+            ],
+            [
+              130,
+              130
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/2"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR019",
+      "physical_start_line": 56,
+      "physical_end_line": 56,
+      "UTF8_span": [
+        12625,
+        13395
+      ],
+      "literal_UTF8_bytes": 770,
+      "literal_sha256": "93cdbd48445aa2a339810c0638815a81b92919e8b0d377787ec427f9af659bb6",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/18",
+      "effective_evidence": [
+        {
+          "source_key": "G330",
+          "physical_ranges": [
+            [
+              83,
+              123
+            ],
+            [
+              144,
+              150
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/0"
+        },
+        {
+          "source_key": "E832",
+          "physical_ranges": [
+            [
+              81,
+              87
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/1"
+        },
+        {
+          "source_key": "E845",
+          "physical_ranges": [
+            [
+              78,
+              114
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/2"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "SRR020",
+      "physical_start_line": 58,
+      "physical_end_line": 58,
+      "UTF8_span": [
+        13397,
+        14074
+      ],
+      "literal_UTF8_bytes": 677,
+      "literal_sha256": "341b19e5aa0cad98037e207edd09f5d92ef8ec7f6e88825602858298af9f0fc8",
+      "complete_meaning_selector": "#/dated_records/A03/original_value/paragraphs/19",
+      "effective_evidence": [
+        {
+          "source_key": "G330",
+          "physical_ranges": [
+            [
+              87,
+              113
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/0"
+        },
+        {
+          "source_key": "E832",
+          "physical_ranges": [
+            [
+              81,
+              91
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/1"
+        },
+        {
+          "source_key": "E845",
+          "physical_ranges": [
+            [
+              108,
+              114
+            ]
+          ],
+          "source_selector": "#/dated_records/A02/original_value/source_table/2"
+        }
+      ]
+    }
+  ],
+  "effective_source_authority_selector": "#/dated_records/A02/original_value/source_table",
+  "effective_operative_qualifiers_selector": "#/dated_records/A02/original_value/operative_complete_qualifier_meanings",
+  "historical_three_precision_paragraphs": [
+    {
+      "current_paragraph_id": "SRR006",
+      "current_paragraph_sha256": "840bbb34909801be34c721480959a64a6f368078fcd4dc31a6bd7ff51c49ab13",
+      "current_exact_selector": "/paragraphs/5/literal_text",
+      "old_utf8": "Their company has value in its actual, modest setting, before a later victory could turn it into a useful preparation scene.",
+      "new_utf8": "Their company has value in its actual, modest setting, without requiring an athletic result to validate it.",
+      "historical_full_paragraph": "At the reserve ground, quietness and a sparse crowd belong to Rei's pleasure in baseball. Sumire explicitly enjoys watching with someone. Their company has value in its actual, modest setting, before a later victory could turn it into a useful preparation scene. The two are sharing an activity that each can enjoy for her own reasons. That difference gives the outing its relational force: Rei does not have to become a general fitness enthusiast, and Sumire does not have to arrive as an accomplished baseball spectator, for spending the time together to matter. [G330:97–107]"
+    },
+    {
+      "current_paragraph_id": "SRR010",
+      "current_paragraph_sha256": "473db2deb7c856edb4852b1d4bbac3b8bdf764088920a73b6e363f11a794ec69",
+      "current_exact_selector": "/paragraphs/9/literal_text",
+      "old_utf8": "a voiced intention not to return",
+      "new_utf8": "a stated intention not to return",
+      "historical_full_paragraph": "The restraint device brings that distinction to a sharper point. Sumire explains a means of making Rei finish, while Rei identifies the loss of an ability to stop. Completion and stopping are different goods in this exchange. Rei's objection challenges the terms of the proposed help, rather than showing that her original aspiration was insincere. The represented endpoint is a displayed and explained device, an objection and a voiced intention not to return; activation, release, safety and an enacted departure remain unprinted. A major rupture and completed repair cannot be built out of that intention alone. The unresolved objection nevertheless counts in full. [G330:111–123]"
+    },
+    {
+      "current_paragraph_id": "SRR019",
+      "current_paragraph_sha256": "93cdbd48445aa2a339810c0638815a81b92919e8b0d377787ec427f9af659bb6",
+      "current_exact_selector": "/paragraphs/18/literal_text",
+      "old_utf8": "keep the junior audible as a judging participant",
+      "new_utf8": "keep the junior present as a judging participant",
+      "historical_full_paragraph": "The settings change how this association is mediated, while leaving that question recognizable. G330 gives the peer exchange without Sensei mediation; E832 places it beside an adult's observation of mismatch; E845 gives the adult an active part in a public attempt. None of those roles makes Sensei the author of Rei's request or her later assent and protest. The written pattern is carried by asking, prescribing, granting a pause, affirming company and objecting again. Seniority shapes who proposes the work, but Rei's corrections and refusals keep the junior audible as a judging participant. The received accounts establish these local redefinitions, rather than a single dated progression toward final reform. [G330:83–123,144–150; E832:81–87; E845:78–114]"
+    }
+  ],
+  "historical_initial_body_binding": {
+    "bytes": 14008,
+    "sha256": "5b80c918d8cf71107150b6f3ec430f431e99bde31c46d16a6c04506176ec2f69",
+    "scope": "Three complete old paragraph values and exact old/new fragment recipe preserve every literary sentence; full private raw original remains private. No wholebody codec."
+  }
+}

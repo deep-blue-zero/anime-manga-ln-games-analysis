@@ -1,0 +1,1498 @@
+{
+  "schema": "INDEPENDENT_LIBRARY_CURRENT_V2_COMPLETE221_52_BODY_ONLY_LITERARY_AND_ACTUAL_FULL_INVERSE_QA_V1",
+  "UTC": "2026-10-13T20:02:11.307708+00:00",
+  "reviewer": "/root/receive_middle_remaining",
+  "distinct_body_author": "/root/minato_105_derivative",
+  "independence_and_prior_exposure": "Different author of the library body, not cleanroom. I authored GSC relationship/M008/prior core receiving and the next-duty plan; previous common-source meanings and source-control exposure remain disclosed. No Library draft authorship or repairs; no use of hashes/CI as semantic evidence.",
+  "decision": "PASS_WITH_LIMITS_FOR_CURRENT_COMPLETE_BODY52_ONLY; ROOT_FINAL_LITERARY_ADOPTION_AND_FULL105_REGISTER_COMPONENT_PACKAGE_GATES_SEPARATE",
+  "body": {
+    "bytes": 42014,
+    "sha256": "48587c4ce60f0c215f47d6a9753c2252bff0c52ffc9e89f6d37e71da21d1b9c7",
+    "git_blob_oid_of_actual_bytes": "bc5ad7d907391fec1da2b2452f3b269caae56373",
+    "physical_lines": 221,
+    "actual_whole_body_receiving": [
+      "bb8c94 L1–110",
+      "3fd8e3 L111–221"
+    ],
+    "retained_private_witness_id": "private-witness:BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS_PRIVATE_DRAFT_V2.md"
+  },
+  "counted_literary_structure": {
+    "thesis_paragraphs": 2,
+    "institution_dimensions": 15,
+    "institution_dimension_paragraphs": 30,
+    "substantial_existing_Ui_Shimiko_directed_dimensions": 12,
+    "named_directed_paragraphs": 12,
+    "serious_rivals": 8,
+    "complete_paragraph_claims": 52,
+    "finite_ends": 16,
+    "stable_original_gaps": 14
+  },
+  "all52_complete_actual_paragraph_judgments": [
+    {
+      "body_only_receiving_claim_id": "LIBQA001",
+      "current_physical_line": 7,
+      "complete_literal_current_paragraph": "How can a library preserve particular objects, enable access, respect personal space and make reading wanted without allowing any one of those purposes to authorize every method? The received material supports an institution enacted through differentiated practices: Ui preserves and interprets old words, negotiates access and guards proximity; Shimiko matches readers, lends books, makes comfortable spaces and defends circulation. Their shared affiliation connects these practices but does not make their collections, authority, preferences or effects identical. The library is intelligible through the decisions its workers and users actually make, including ordinary pleasure and disagreement, rather than through an unreceived universal charter. [U:36–38/64–70/108; S:36–42/74–86; P:373–445/509]",
+      "byte_start": 735,
+      "byte_end_exclusive": 1546,
+      "actual_source_citation_literal": [
+        "U:36–38/64–70/108; S:36–42/74–86; P:373–445/509"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "The institutional thesis positively differentiates preservation, access and reader matching. Roles and methods remain specific; an unreceived universal charter is not inferred. Complete accepted U/S arguments and selected P practices substantiate this finite synthesis.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA002",
+      "current_physical_line": 9,
+      "complete_literal_current_paragraph": "Reading, making, sorting, sharing chocolate, coffee, company and sleep are substantial outcomes in this account. An actually found book and an actually comfortable rest need no crisis result to become meaningful. A wished-for rare volume remains unfound even when the search gives real companionship; successful craft remains pleasurable even when it costs Ui rest. The argument therefore preserves achieved enjoyment, declined or incomplete service, and recipient costs together. Ordinary evidence neither waits for institutional usefulness nor supplies an exemption from responsibility. [P:268/381–445/534–560; L56:37–45/67–71; V:109/141/149; W:165–169]",
+      "byte_start": 1548,
+      "byte_end_exclusive": 2213,
+      "actual_source_citation_literal": [
+        "P:268/381–445/534–560; L56:37–45/67–71; V:109/141/149; W:165–169"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Actual reading, company, good rest and useful craft remain achievements; failed rare-book discovery and lost Ui sleep remain distinct contrary outcomes. Quiet goods are intrinsically valued rather than discarded by stakes or translated into a productivity score.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA003",
+      "current_physical_line": 13,
+      "complete_literal_current_paragraph": "Ui identifies herself as library manager and Committee chair, and Shimiko describes her exceptional ancient-text expertise. Those assertions establish represented roles and a reason to seek particular help. They do not prove that all spaces a librarian enters are the chair's property, that an expert owns every visitor's response, or that the reported magician epithet names supernatural power. Ui's report of Shimiko's objection to treating the library as private property is institutionally consequential precisely because it distinguishes the office, cared-for objects and a person's space. It remains reported disagreement, rather than a newly heard direct joint scene. [U:54/64–70/108/116; S:64/74–82/130; P:455/509]",
+      "byte_start": 2299,
+      "byte_end_exclusive": 3025,
+      "actual_source_citation_literal": [
+        "U:54/64–70/108/116; S:64/74–82/130; P:455/509"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Ui's manager/chair role and reported expertise are represented authority. Shimiko's private-property objection is attributed reported disagreement, not an invented direct dyadic scene or supernatural warrant. Complete accepted U64/S64 support the stated source grade.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA004",
+      "current_physical_line": 15,
+      "complete_literal_current_paragraph": "EVENT852 supplies a different formal act: Nagisa secretly commissions the teacher and Library Committee, permits JTF cooperation and appoints Shimiko temporary external advisor. The commission actually occurs in represented dialogue while the alleged intentional attack remains unproved. Later library approval changes local procedure; the exchange proposal remains represented and prospective. They do not authenticate a complete charter, unrestricted legal power, a treaty document or all future circulation. Appointment, practical decision and the reach of authority must remain separate claims. [W:106–112/150–159/173; S:84–86]",
+      "byte_start": 3027,
+      "byte_end_exclusive": 3664,
+      "actual_source_citation_literal": [
+        "W:106–112/150–159/173; S:84–86"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Nagisa's commission and temporary appointment are actual represented institutional decisions. The corrected approval-versus-exchange distinction is supported by W108/W152/W155: local approval occurred, whereas a represented proposal supplies no executed treaty or all-future power.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA005",
+      "current_physical_line": 19,
+      "complete_literal_current_paragraph": "Shimiko's service authority has concrete achievements. She asks a reader's genre, makes the work site comfortable, finds the particular wanted book after classification and a lengthy search, and lends it for return to Schale. The failed rare-book expedition has another endpoint: many books and duplicates are identified, no unknown treasure is found, and shared sorting is still enjoyed. Expertise is neither omniscience nor an empty claim simply because one advertised search fails. Paper access, classification and a user's actual request each contribute to an accomplished service. [P:415/427–445; S:48–54/90–92/156]",
+      "byte_start": 3730,
+      "byte_end_exclusive": 4356,
+      "actual_source_citation_literal": [
+        "P:415/427–445; S:48–54/90–92/156"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "The wanted-book search genuinely succeeds and a loan occurs; rare treasure fails while sorting gives pleasure. The paragraph locates competence and access rather than treating either failure as general incompetence or expertise as omniscience. P435–445 and S48–54 support the contrast.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA006",
+      "current_physical_line": 21,
+      "complete_literal_current_paragraph": "Professional referral is another constructive act. In the accepted EVENT812 arguments Shimiko distinguishes repair from restoration, admits that reconnecting the ancient text exceeds ordinary capacity and directs the request to Ui. Ui's subsequent specialist work and physical handoff belong to Ui and the later source owners, rather than being absorbed by the referrer. The library can organize access to different skills without making one worker responsible for every result. This paragraph reuses the complete accepted U/S arguments at their declared analytical scope; it claims no fresh EVENT812 handoff-body reading. [U:48/64–70/136–142; S:64/78–80/108/168]",
+      "byte_start": 4358,
+      "byte_end_exclusive": 5027,
+      "actual_source_citation_literal": [
+        "U:48/64–70/136–142; S:64/78–80/108/168"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Shimiko's admission of a professional limit and referral remain her achievements. Ui's later restoration/handoff is reused from complete accepted U/S arguments at inherited analytical grade, with no fresh forbidden EVENT812 handoff-body inspection or transferred specialist authorship.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA007",
+      "current_physical_line": 25,
+      "complete_literal_current_paragraph": "The noisy visitor's food, crumbs, insults to cleaning, threatened fight and folded page explain a conflict around shared use. They do not establish that every subsequent punitive act is proportionate. The private normal preserves frightened responses and the narrator's coercive education endpoint while narrowing individual turns at the printed actor seams. Adult praise and subsequent relaxed recommended reading are actual, but neither provides a judgment that the visitor learned, consented, received safe treatment or obtained restitution. A library's valuable object-care purpose has to answer to the person affected by its enforcement. [P:415–423/528/558; S:104–106/154]",
+      "byte_start": 5088,
+      "byte_end_exclusive": 5769,
+      "actual_source_citation_literal": [
+        "P:415–423/528/558; S:104–106/154"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "The visitor's adverse conduct explains object-care conflict without settling proportionality. Coercive education and affected recipient distress coexist with adult praise and actual subsequent recommended reading. P417–423 preserves exact speaker seams and no learning, consent, clinical result or restitution is invented.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA008",
+      "current_physical_line": 27,
+      "complete_literal_current_paragraph": "Readers also confer substantive value through their own responses. EVENT852 gives actual liking, purchases, peer sharing, imagined continuations, shelter for publishers and eventually Mashiro's wish to read more. These are differentiated acts, not a single endorsement of marketing or library policy. One reader withdraws help and another condemns then purchases; Takane's appreciated criticism remains meaningful despite a false prestigious persona. Access matters because people can think, enjoy, make and decline, rather than because every reader is converted into agreement. [W:99–103/122–140/159/165–169; S:100/138/164]",
+      "byte_start": 5771,
+      "byte_end_exclusive": 6401,
+      "actual_source_citation_literal": [
+        "W:99–103/122–140/159/165–169; S:100/138/164"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Reader liking, purchases, shelter, peer creation and Mashiro's continuation wish are separately positive. Withdrawn help and false marketing remain consequential. W99–101/W122–131/W159 distinguish actual cultural reception from policy or prestige vindication.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA009",
+      "current_physical_line": 31,
+      "complete_literal_current_paragraph": "Books, cushions, keys, shelves and notebooks shape what can be done. Ui's sole key is offered and returned; advance contact becomes the arrangement. Her large notebook is left at the library and actually becomes a book-comment space. Shimiko lends her own worn, repeatedly sewn cushion when immediate repair of the visitor cushion is unavailable, and the adult actually sleeps well and regains energy. These material adaptations are positive outcomes. They neither transfer all gate custody nor certify every cushion, every loan return or a complete technical system. [P:377/383–389/439–445; U:44–46/74/96; S:52–54/92]",
+      "byte_start": 6472,
+      "byte_end_exclusive": 7098,
+      "actual_source_citation_literal": [
+        "P:377/383–389/439–445; U:44–46/74/96; S:52–54/92"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Returned sole key, usable exchange notebook, substitute worn cushion and achieved adult sleep are concrete material adaptations. P377–389/P443–445 supports their exact ends without all-key transfer, repaired visitor cushion or universally safe object certification.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA010",
+      "current_physical_line": 33,
+      "complete_literal_current_paragraph": "The same attention is owed to material and time costs. In EVENT851 Ui finishes restored-book arrangement and wants a quiet hour, then observes Shimiko's rapid genre research and costume making and reports sleeping none. Curtains and black flooring become visible cutting and sewing material; costume use is a strong contextual inference, permission to consume repair stock is unestablished. Successful entrance and audience assistance do not supply that permission or restore the observer's sleep. Ui's imagined stopping or knocking-out response is not enacted, and her inner estimates are not validated viewing or reading totals. [V:133/141/149/157–159; U:92; S:82/98/130]",
+      "byte_start": 7100,
+      "byte_end_exclusive": 7775,
+      "actual_source_citation_literal": [
+        "V:133/141/149/157–159; U:92; S:82/98/130"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Ui's no-sleep report belongs to the affected observer; Shimiko's desired research and sewing retain their own positive value. V149 preserves inner speed estimates, unexecuted stopping thought and unestablished stock permission; success cannot silently restore time or consent.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA011",
+      "current_physical_line": 37,
+      "complete_literal_current_paragraph": "The received library evidence includes coercive enforcement and violent rhetoric, but not an inspected standing arsenal or general security organization. In the private scene, secure surroundings support a bounded adverse action and an affected visitor; mismatched labels prevent a silently repaired blow-by-blow actor map. The visitor's river and grandfather imagery remains distressed testimony, rather than confirmed death or diagnosis. Neither material-strength claims nor the word education establishes a safe punishment protocol. [P:417–423/528/558; S:74/104–106/144]",
+      "byte_start": 7860,
+      "byte_end_exclusive": 8437,
+      "actual_source_citation_literal": [
+        "P:417–423/528/558; S:74/104–106/144"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Broad coercive enforcement is retained while a standing arsenal, authenticated individual turn map, death and clinical diagnosis remain unclaimed. P417–423/S104–106 supports a bounded adverse act and source-label limits, rather than actor repair from attractive surrounding meaning.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA012",
+      "current_physical_line": 39,
+      "complete_literal_current_paragraph": "EVENT852's threatened clash is another source-local sequence. Mashiro proposes inventory and possible removal, Ui interprets takeover and threatens wrists, and JTF members threaten force. The adult and Shimiko stop the impending confrontation. Shimiko's references to prior hospitalizations and injunction not to shoot people do not narrate a new battle, specify an injury count or authenticate every prior incident. Actual restraint deserves credit while the competing authority claims and distress remain. This does not turn a caretaker into either a wholly peaceful institution or a verified independent army. [W:148–152/163; S:84/114]",
+      "byte_start": 8439,
+      "byte_end_exclusive": 9079,
+      "actual_source_citation_literal": [
+        "W:148–152/163; S:84/114"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "W148–152 supports threatened force, actual stopping, Ui distress and Shimiko rebuke. References to prior hospitalization are not a fresh battle or measured injury count. Useful restraint neither proves a wholly peaceful institution nor dismisses the prior private coercion.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA013",
+      "current_physical_line": 43,
+      "complete_literal_current_paragraph": "Ui and Shimiko differ within shared care. Ui's specialized preservation, guarded ancient-library space and selective invitation are not Shimiko's public reader matching, shelf service or after-hours hosting. The reported private-property objection and Ui's visitor-referral complaint expose differences over use rather than proving an organized permanent faction. EVENT851 gives another concrete asymmetry: one person's wanted research and sewing occur alongside another's lost rest. A shared love of books explains some cooperation without resolving who may use which resources or require whose presence. [U:64/92/108; S:74–82/130; P:377–445/489/509; V:149]",
+      "byte_start": 9160,
+      "byte_end_exclusive": 9822,
+      "actual_source_citation_literal": [
+        "U:64/92/108; S:74–82/130; P:377–445/489/509; V:149"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Ui's guarded specialist space and Shimiko's reader-facing work remain different. Reported disagreement does not invent a permanent faction. V149 positively links craft to Ui's actual rest cost without turning affiliation into material or labor permission.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA014",
+      "current_physical_line": 45,
+      "complete_literal_current_paragraph": "The public reading conflict is likewise plural. Shimiko thinks approval may require adjustment; Ui personally thinks adjustment unnecessary and delegates others' judgments. Mashiro accepts process after earlier unread condemnation, while Takane keeps objecting to false marketing and Koharu defends readers' happiness without erasing her disclaimers. No single committee, school or book-loving essence owns all those positions. Reliable collective action can be interpreted while adjacent-actor seams narrow individual quotation and a stable faction structure remains unprinted. [W:124/133–159/165/175; S:84/138/150]",
+      "byte_start": 9824,
+      "byte_end_exclusive": 10442,
+      "actual_source_citation_literal": [
+        "W:124/133–159/165/175; S:84/138/150"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "W152 preserves Shimiko's anticipated adjustment, Ui's own contrary judgment/approval and Mashiro's response; reader criticism remains independent. The paragraph credits local action without creating one library mind or silently resolving adjacent actor seams.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA015",
+      "current_physical_line": 49,
+      "complete_literal_current_paragraph": "Quiet requests, sealed-drink conditions, food rules, return deadlines and care for pages organize local use. They can enable the reading that several people actually want. A rule statement, however, does not make every enforcement method lawful or harmless. The gift's coating and committee popularity are participant testimony, not verified chemistry or permission to eat around every book. Shimiko's particular after-hours invitation to the adult does not enact universal public opening. Norms need their particular speaker, site, recipient and response, rather than one flattened rulebook. [P:415–445; L56:43/67–69; S:74–78/94]",
+      "byte_start": 10528,
+      "byte_end_exclusive": 11164,
+      "actual_source_citation_literal": [
+        "P:415–445; L56:43/67–69; S:74–78/94"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Local quiet, sealed-drink and loan conditions can serve real desired reading, but cannot certify harmless enforcement or unrestricted access. P415–445 and complete L56 preserve material-performance/popularity as testimony, not chemistry or a universal rule.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA016",
+      "current_physical_line": 51,
+      "complete_literal_current_paragraph": "Gifts, recommendations, shared sorting and repeated repair are also ordinary practices rather than just discipline's softer instruments. Shimiko's chosen thanks and book-shaped chocolate lead to actual shared food and side-by-side work; she falls asleep, the adult covers her and returns to Schale. The sequence gives company and blanket care while a complete backlog and measured recovery remain unprinted. Her birthday wish for something besides another book also resists an automatic hobby-based gift norm. Written holiday, lobby and Special repetitions are modes of address, not new acted meetings. [L56:37–45/67–71; P:459–471; S:56/94–96/122/146–148]",
+      "byte_start": 11166,
+      "byte_end_exclusive": 11831,
+      "actual_source_citation_literal": [
+        "L56:37–45/67–71; P:459–471; S:56/94–96/122/146–148"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Shared gift food and work, Shimiko sleep, blanket care and adult return are actual L56 narration. Backlog and measured recovery remain open. Birthday non-book preference retains value as an undelivered want; repeated written modes are not extra enacted encounters.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA017",
+      "current_physical_line": 55,
+      "complete_literal_current_paragraph": "The received material identifies the Committee, workers and library users, but does not inspect a full recruitment system or invent a Library-owned admitted GROUP packet. Public-library work near the adult, after-hours reading, the ancient-library space and a profiled Trinity collection retain distinct scopes. A reported whole-collection reading claim does not certify every collection or every reader's taste. Sparse visitors and unnamed workers remain meaningful local participants without manufactured identity joins or a universal membership census. [P:260–264/415–459/544–549; U:64/108/148; S:32/68/74–76/136]",
+      "byte_start": 11907,
+      "byte_end_exclusive": 12531,
+      "actual_source_citation_literal": [
+        "P:260–264/415–459/544–549; U:64/108/148; S:32/68/74–76/136"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Committee roles and actual users are retained without an invented Library GROUP packet, complete recruitment census or joined anonymous person. S32/S68/S74–76 and selected current P239–264/P455–471 supply the declared institutional/profile boundaries.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA018",
+      "current_physical_line": 57,
+      "complete_literal_current_paragraph": "Belonging can involve chosen, conditional company. Ui actually invites shared reading and a private café, keeps a guest restriction, asks for small-step walking and refuses simply to be pushed around. In EVENT852 she offers temporary shelter but rejects long stays and distinguishes her three-metre preference from a strict rule. Those conditions do not mean all outsiders are disliked, nor does useful shelter erase them. The institution becomes usable through particular accommodations while personal privacy and entry authority remain different questions. [P:375–409; U:58/82/98–102; W:140/143; S:138]",
+      "byte_start": 12533,
+      "byte_end_exclusive": 13142,
+      "actual_source_citation_literal": [
+        "P:375–409; U:58/82/98–102; W:140/143; S:138"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Ui's own invitations and restrictions are both affirmative. P393–409 and W140/W143 support chosen private coffee/walk and temporary conditional shelter; distance is personal preference, not an unrestricted public exclusion policy or cured reserve.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA019",
+      "current_physical_line": 61,
+      "complete_literal_current_paragraph": "Useful conflict response can begin with an admitted limit or a corrected interpretation. The returned key and adapted notebook solve particular access burdens; the recovered missing book resolves a communication mismatch without making it a rescued pupil. Shimiko's referral avoids pretending that all conservation problems are ordinary repairs. These are substantive solutions with finite objects. They do not prove that all future access will be frictionless or that every book, recipient and specialist task has been repaired. [P:377–389/439–445; U:44–48/96; S:64/108]",
+      "byte_start": 13215,
+      "byte_end_exclusive": 13792,
+      "actual_source_citation_literal": [
+        "P:377–389/439–445; U:44–48/96; S:64/108"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Returned key, notebook arrangement, recovered book and professional referral are actual finite solutions. They do not imply every later access, object or specialist result is repaired. P377–389/P439–445 and accepted U/S keep those different ends intact.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA020",
+      "current_physical_line": 63,
+      "complete_literal_current_paragraph": "EVENT852 reaches an actual represented local approval after a stopped clash, publisher apologies and hearing their account. The teacher proposes library permission, Shimiko supplies a responsibility-based route, Ui approves and delegates judgment, and Mashiro accepts process and plans to report. The subsequent actual reading gives the change practical substance. Yet an exchange proposal, anticipated adjustment and continuing oversight are not a universally enacted charter or completed liability test. Takane's continuing criticism and the unfinished story prevent procedure from becoming a total reconciliation. [W:150–159/163–177/195–201; S:84–86/164]",
+      "byte_start": 13794,
+      "byte_end_exclusive": 14459,
+      "actual_source_citation_literal": [
+        "W:150–159/163–177/195–201; S:84–86/164"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "W150–159 supports hearing/apology, library approval, delegation, Mashiro process and actual subsequent reading. Proposed exchange, ongoing oversight and continued criticism limit the settlement's reach. The paragraph neither erases achieved access nor invents a universal consultation charter.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA021",
+      "current_physical_line": 67,
+      "complete_literal_current_paragraph": "The adult's care works when adapted to what a recipient values: returning Ui's sole key, respecting advance contact, acknowledging the missing book's importance, accommodating the notebook, helping local work and leaving quietly after sleep. Shimiko can herself invite, ask about willingness and supply a wanted reading or rest arrangement. These acts give both recipients and givers agency. Adult persistence after Ui's request for solitude and praise after disputed enforcement remain contrary costs; later comfort does not authorize every intrusion or punitive method. [P:377–445/519–525; U:96–102; S:118–124]",
+      "byte_start": 14538,
+      "byte_end_exclusive": 15158,
+      "actual_source_citation_literal": [
+        "P:377–445/519–525; U:96–102; S:118–124"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Adapted adult help and Shimiko-authored invitation/checks retain both parties' agency. P377–445/P519–525 supplies positive endpoints and intrusion/punishment-praise limits; later comfort does not retrospectively authorize persistence after solitude refusal or coercive enforcement.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA022",
+      "current_physical_line": 69,
+      "complete_literal_current_paragraph": "The public adult role is similarly finite. The teacher and Shimiko stop escalation and help formulate approval; the adult challenges false princess marketing and undertakes continuing observation with an explicit responsibility limit. Guarantor and temporary representative language in the proposal has consequence without supplying unlimited power or a tested international instrument. Koharu's sample and chosen intervention, Ui's approval, readers' requests and Mashiro's taste retain independent authorship rather than becoming effects produced solely by Sensei. [W:124/133–159/189; S:126/138]",
+      "byte_start": 15160,
+      "byte_end_exclusive": 15759,
+      "actual_source_citation_literal": [
+        "W:124/133–159/189; S:126/138"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Stopping the clash and formulating permission are genuine distributed work. Ui approval, Koharu help and reader tastes stay independently authored. W133–159/W189 keeps limited proposed guarantorship separate from a tested instrument or adult-only achievement.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA023",
+      "current_physical_line": 73,
+      "complete_literal_current_paragraph": "Tea Party commissioning, JTF cooperation and library judgment interact in EVENT852, but their roles must not collapse. Nagisa's attack inference is challenged; Nagisa's encouragement is misheard by Mashiro and develops into pressured enforcement; Ui's takeover interpretation is unverified. The procedural settlement does not retrospectively justify unread condemnation or prove that all prior removal occurred. A library can challenge authority and participate in formal decisions while the scope and reception of each institution's request remain distinct. [W:106–119/135–159/163; S:84–86]",
+      "byte_start": 15854,
+      "byte_end_exclusive": 16451,
+      "actual_source_citation_literal": [
+        "W:106–119/135–159/163; S:84–86"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "The corrected actor relation is exact: W135 gives Nagisa's encouragement and Mashiro's misheard reception, then W138 gives her pressured expansion. Unverified attack/takeover interpretations and unfinished prior removal remain different from the locally supported procedure.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA024",
+      "current_physical_line": 75,
+      "complete_literal_current_paragraph": "Red Winter's publishers and creators bring material need, editing pressure, sales work, actual settlements and genuine creative attachment. These affect access to readers without making every institutional report independently audited. The proposed 9:1 division is rejected and the executed final ratio unprinted; delighted readers do not validate starvation leverage or the false princess biography. Takane's criticism and Mel's chosen creation matter independently of sales. The library's service question is therefore connected to circulation and livelihood while remaining unable to certify a complete contract, universal cultural value or another school's reform. [W:91–101/115–143/167–169/195–201]",
+      "byte_start": 16453,
+      "byte_end_exclusive": 17164,
+      "actual_source_citation_literal": [
+        "W:91–101/115–143/167–169/195–201"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Deprivation, material need, settlements, sales work, creativity and reader attachment are distinct meaningful acts. W92–96/W115/W127–131 supports a rejected proposed9:1 ratio, unprinted final term and false persona; cultural pleasure does not validate coercive bargaining or all profit reports.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA025",
+      "current_physical_line": 79,
+      "complete_literal_current_paragraph": "Shimiko's objection to inferred malicious intent and her defence of interpretive room are real institutional dissent. They coexist with strategic denial of reading, an apocrypha cover story, a punitive atonement proposal and an overbroad harmless-book-lover inference. Ui also objects to inventory and possible removal while escalating through unverified takeover suspicion and threatened force. The account can credit disagreement without making either critic ethically self-certifying. The right question is which act or interpretation each objection challenges and how affected people respond. [W:106–119/133/148–152/163–175; S:70/114/164]",
+      "byte_start": 17252,
+      "byte_end_exclusive": 17900,
+      "actual_source_citation_literal": [
+        "W:106–119/133/148–152/163–175; S:70/114/164"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Shimiko's interpretive dissent is real but not ethically self-certifying. W106–119/W148–152 retains strategic denial, cover, proposed punitive atonement, broad harmlessness inference and Ui escalation. A critic can challenge a particular act while their own methods remain answerable.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA026",
+      "current_physical_line": 81,
+      "complete_literal_current_paragraph": "Dissent is not limited to officials. A reader's withdrawn help is a legitimate limit, Takane's objections persist beyond local success, and Ui's quiet, distance and rest wants are positive claims rather than mere obstacles to another person's craft. Shimiko's own checks against unwilling sorting demonstrate that recipient response can shape service. A birthday alternative that remains undelivered and a wished-for continuation that remains unfinished are still substantive wants. The absence of a grand consequence does not make a small refusal or preference dispensable. [P:435–461; V:149; W:138/159/165–169; S:90–100]",
+      "byte_start": 17902,
+      "byte_end_exclusive": 18530,
+      "actual_source_citation_literal": [
+        "P:435–461; V:149; W:138/159/165–169; S:90–100"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Reader withdrawal, Takane objection, Ui rest/distance and Shimiko recipient checks preserve actual independently wanted ends. Unfulfilled birthday gift and continuation remain meaningful without being performed. The paragraph directly avoids discarding quiet or low-stakes evidence.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA027",
+      "current_physical_line": 85,
+      "complete_literal_current_paragraph": "Books as companions and messages, the functioning exchange notebook, classification and a repeatedly repaired cushion show different ways of keeping a past usable. Ui's decipherment lets old words reach someone; Shimiko's time-machine metaphor gives readers room to answer past writers in their own terms. These are meaningful accounts of memory and interpretation, rather than proof of sentient books, perfect archival coverage or a universal difference between books and other media. Habit and wanted solitary reading retain value alongside shared access. [P:377–389/439–461/509–531; W:133/173; U:116; S:92/100/142]",
+      "byte_start": 18601,
+      "byte_end_exclusive": 19224,
+      "actual_source_citation_literal": [
+        "P:377–389/439–461/509–531; W:133/173; U:116; S:92/100/142"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Notebook use, classification, repaired cushion and decipherment are different material practices of memory. P377–389/P439–461/P509–531 and S100 support metaphor and interpretation without living-book ontology, audited perfect archive or a law about other media.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA028",
+      "current_physical_line": 87,
+      "complete_literal_current_paragraph": "Privacy and public reporting nevertheless differ. The accepted Ui argument retains a reported secret copy and the island's capsule/report question, including acknowledged duty, inferred historical purpose and unverified lost-letter content. A private café or discreet after-hours invitation does not decide that public obligation. Shimiko's worn cushion can be compared with object companionship without making her a participant in the capsule burial or a knower of withheld information. Institutional memory is an allocation of access and responsibility, not an automatic authorization to conceal. [U:60/68–70/108–112/130; P:431/479–489/522–531]",
+      "byte_start": 19226,
+      "byte_end_exclusive": 19881,
+      "actual_source_citation_literal": [
+        "U:60/68–70/108–112/130; P:431/479–489/522–531"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Accepted U60/U68–70/U108–112 preserves secret-copy reporting and capsule duty at inherited argument grade. Those public obligations remain distinct from private invitations and Shimiko's separate cushion; no new EVENT828 primary, shared capsule participation or automatic concealment license is claimed.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA029",
+      "current_physical_line": 91,
+      "complete_literal_current_paragraph": "EVENT851 joins ordinary media interest to public help: Shimiko researches, reads, sews, practices a role, makes a deliberately timed entrance and recruits the audience's lights to locate the pursued merchant. Her actual contribution does not require the villain role to reveal an evil person. Later completed reading practice, interest and audience enjoyment remain worthwhile beyond operational usefulness. They also remain source-local written evidence, rather than measured near-impossible viewing speed, performed villain voice or a second registered identity. [V:115/129/133/137–149/161–167; S:66/98/110]",
+      "byte_start": 19967,
+      "byte_end_exclusive": 20580,
+      "actual_source_citation_literal": [
+        "V:115/129/133/137–149/161–167; S:66/98/110"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "V115/V129/V133/V137–149/V167 supports actual book labor, chosen role research, timed entrance and audience search, with later practice/taste. Fictional villain work is not evil identity; audience/operational utility is not the only value of making or reading, and no measured throughput/performance is added.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA030",
+      "current_physical_line": 93,
+      "complete_literal_current_paragraph": "The crisis comparison retains its costs. Ui loses intended sleep, stock-use permission is unestablished, the audience understands a show while supporting an armed pursuit, and mistaken capture and bounty loss retain their own actors and endpoints. Fiction can enable cooperation and desire while obscuring informed participation. Similarly, EVENT852's achieved reading access does not erase deprivation leverage, unread policing or an imposed false persona. A successful local finish does not convert these contrary mechanisms into harmless comedy or a complete institutional cure. [V:149/157–159; W:163–169; U:92; S:112/160/164]",
+      "byte_start": 20582,
+      "byte_end_exclusive": 21215,
+      "actual_source_citation_literal": [
+        "V:149/157–159; W:163–169; U:92; S:112/160/164"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "V149/V157–159 preserves Ui lost rest, unproved stock permission and limited audience understanding beside successful help. W163–169 keeps deprivation, policing and false prestige after real new reading. Humor does not become harmlessness, clinical cure or total institutional reform.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA031",
+      "current_physical_line": 97,
+      "complete_literal_current_paragraph": "The library's stated care for texts and readers is substantively enacted in found books, lending, completed local work, recommendations, repaired-object use, shared reading and achieved rest. Those successes should remain affirmative even when adjacent goals fail. The same practices can gate access, pressure recipients, conceal knowledge or enforce through force. An adequate institution argument explains the particular method and result rather than awarding a fixed gentle or violent essence, or reducing its workers to service functions. [P:415–445/507–540/558–560; U:126–132; S:154–162]",
+      "byte_start": 21302,
+      "byte_end_exclusive": 21904,
+      "actual_source_citation_literal": [
+        "P:415–445/507–540/558–560; U:126–132; S:154–162"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "The positive thesis is substantiated by actual found/lent books, completed local work, comfort and good rest. Gatekeeping, concealment and coercive methods remain contrary. S154–162/P534–560 supports a differentiated functioning institution without a fixed gentle/violent essence.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA032",
+      "current_physical_line": 99,
+      "complete_literal_current_paragraph": "EVENT852 strengthens the thesis through a locally workable change with actual new readership and continued desire. It leaves future consultation, the exchange proposal, limited guarantorship, false prestige and unfinished continuation unresolved. EVENT851 strengthens it through chosen making with another person's unrestored rest and unverified material permission. A wanted place to read can therefore be maintained through negotiation and disagreement while remaining answerable for the objects, people and duties that its own pleasures do not settle. [V:141/149/157–159; W:150–169/195–201; S:164–172]",
+      "byte_start": 21906,
+      "byte_end_exclusive": 22518,
+      "actual_source_citation_literal": [
+        "V:141/149/157–159; W:150–169/195–201; S:164–172"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Actual reading and continuing desire strengthen locally workable access while exchange/consultation and guarantorship remain finite. Craft stays positive while Ui time/material costs remain unresolved. The conclusion preserves negotiation and dissent rather than extending one finish into durable universal settlement.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA033",
+      "current_physical_line": 105,
+      "complete_literal_current_paragraph": "The received source-local relation already contains affiliation, referral and disagreement; it does not narrate a historically first meeting. Ui reports Shimiko's objection to private-property treatment and complains about visitor referral, while Shimiko identifies Ui's exceptional restoration expertise. These are positive directed meanings at reported and professional modes. They support an established relation with different access commitments, rather than permitting first-co-occurrence metadata, source filing order or a missing-book episode to manufacture an origin. [U:64/108; S:64/130; P:260–264/379/489/509]",
+      "byte_start": 22633,
+      "byte_end_exclusive": 23254,
+      "actual_source_citation_literal": [
+        "U:64/108; S:64/130; P:260–264/379/489/509"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "The named relation has a substantive origin limit: established affiliation, reported disagreement and professional referral are meaningful, but no historically first meeting is invented. Complete U64/U108/S64/S130 grounds the relation without manufacturing a first-contact calendar.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA034",
+      "current_physical_line": 109,
+      "complete_literal_current_paragraph": "Ui has the represented chair role, guarded space and ancient-text specialty; Shimiko has her own reader-facing competence and an ability to locate what another person needs. Referral is not surrender of all judgment, and chair status does not decide all public-library practices. Their relation is asymmetrical in particular tasks while each retains an ordinary life and a capacity to object. A specialized repair cannot be reassigned to Shimiko, nor can her actual lending, rest arrangement and costume work be credited to Ui merely through shared affiliation. [U:64–70/108; S:64/74–82/130; P:439–445/509]",
+      "byte_start": 23279,
+      "byte_end_exclusive": 23891,
+      "actual_source_citation_literal": [
+        "U:64–70/108; S:64/74–82/130; P:439–445/509"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Chair/specialist work and reader-facing skill give particular asymmetries without making one person the whole library. Actual Ui restoration and Shimiko lending/cushion/craft work retain their separate authors; professional referral is not surrender of all judgment.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA035",
+      "current_physical_line": 113,
+      "complete_literal_current_paragraph": "Their connected grammar includes quiet requests, descriptions of competence, referral, scrutiny of access and responses to disturbance. Ui's reported private-property disagreement is not interchangeable with her personal privacy condition; Shimiko's public reading-room norms are not identical to the ancient-library door. The shared object language connects them without making every invitation mutual or every reader a committee member. The library relation becomes consequential through those specific directions and contexts, rather than simply their names appearing in the same source pool. [U:58/64/108; S:74–82/130; P:375–445/489/509]",
+      "byte_start": 23927,
+      "byte_end_exclusive": 24572,
+      "actual_source_citation_literal": [
+        "U:58/64/108; S:74–82/130; P:375–445/489/509"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Recurring quiet requests, competence/referral, access scrutiny and disturbance responses connect the dyad through actual directions. Reported private-property disagreement differs from a personal proximity condition and public reading norms; no universal invitation or membership rule follows.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA036",
+      "current_physical_line": 117,
+      "complete_literal_current_paragraph": "EVENT851 supplies a concrete directed cost: Shimiko's freely chosen genre research and sewing keep Ui from her intended quiet and sleep. Ui's speed estimates and frightened observations are her modes; her thought about stopping or knocking Shimiko out is unperformed. The preparation cannot be compressed into either mutual delight in an overnight hobby or a malicious attack on Ui. Chosen making and actual sleeplessness coexist, with stock-use permission and subsequent restitution unprinted. [V:149/157–159; U:92; S:82/98/130]",
+      "byte_start": 24596,
+      "byte_end_exclusive": 25127,
+      "actual_source_citation_literal": [
+        "V:149/157–159; U:92; S:82/98/130"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "V149 supplies a substantial directed conflict: chosen Shimiko research/sewing costs Ui wanted sleep, with observer estimates and imagined intervention kept in their modes. Malicious-attack and mutual-delight readings both lose source evidence. No stock permission or restitution is manufactured.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA037",
+      "current_physical_line": 121,
+      "complete_literal_current_paragraph": "For Ui, cared-for old words, quiet, selective company and intact personal space have independent value. For Shimiko, reading, bookmarks, recommendation, finding the wanted book, repaired cushions, thanks and creative practice have independent value. Those repertoires make the conflict intelligible: a craft project can be sincerely wanted while another person wants rest. Their affinities provide grounds for understanding and referral without requiring the observer to surrender her end or the maker to have no pleasure beyond school service. [P:377–445/455–461/509–531; U:36–40/74–82; S:90–100]",
+      "byte_start": 25177,
+      "byte_end_exclusive": 25786,
+      "actual_source_citation_literal": [
+        "P:377–445/455–461/509–531; U:36–40/74–82; S:90–100"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "The section gives both parties independent personal ends: Ui words/quiet/space, Shimiko reading/bookmarks/recipient service/cushion/thanks/craft. Actual affinity can explain referral while conflicting wants remain serious. Neither is reduced to a role serving the other's importance.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA038",
+      "current_physical_line": 125,
+      "complete_literal_current_paragraph": "Referral displays trust in a particular expertise; it does not prove unlimited confidence in every method or complete shared knowledge. Ui's missing-book cleaner remains unnamed, so no claim that Shimiko misplaced the book or restored that trust follows. Likewise, Ui's capsule and secret-copy matters remain her differently sourced report and duty, rather than knowledge automatically held by a fellow librarian. Shimiko's EVENT852 strategic denial and later admission of reading are her public presentation sequence, not a private disclosure scene to Ui. [P:379/485–489; U:60/70/108; S:70/80/144; W:108/150]",
+      "byte_start": 25814,
+      "byte_end_exclusive": 26425,
+      "actual_source_citation_literal": [
+        "P:379/485–489; U:60/70/108; S:70/80/144; W:108/150"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Professional trust is task-specific. P379's unnamed cleaner is not joined to Shimiko; accepted U capsule/secret-copy matters are not automatically shared knowledge. W108 concealment/admission is public presentation, not an invented private disclosure to Ui.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA039",
+      "current_physical_line": 129,
+      "complete_literal_current_paragraph": "The chair title and reported private-property objection create an institutional tension without proving a continuing personal rivalry or stable faction. Shimiko can question access practice and identify Ui's skill; Ui can value dear members while resisting pressure to go out, without every unnamed dear member becoming Shimiko. Shared affiliation permits comparison but supplies no universal permission to use materials, no ownership of another person's time and no single hierarchy applicable to every public, ancient and after-hours site. [U:64/108; P:387/489/509; S:74–82/130]",
+      "byte_start": 26454,
+      "byte_end_exclusive": 27036,
+      "actual_source_citation_literal": [
+        "U:64/108; P:387/489/509; S:74–82/130"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Reported access criticism and chair role create tension without proving lasting rivalry or a stable faction. Ui dear-member reference remains unnamed. The section keeps tasks, sites, materials, time and personal will separate from common affiliation and automatic hierarchy.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA040",
+      "current_physical_line": 133,
+      "complete_literal_current_paragraph": "EVENT852 narrates a locally serious confrontation: Ui interprets the inventory proposal as takeover, the adult and Shimiko stop the impending clash, Ui accuses Shimiko of betrayal and cries during her rebuke, and Shimiko invokes earlier hospitalizations and says not to shoot people. The restraint, accusation and distress all matter. They do not establish a newly enacted battle, precise prior injury count or permanent relational break. Shimiko's own coercive private enforcement also prevents this scene from sorting the pair into a wholly responsible mediator and an essentially dangerous colleague. [W:148–152/163; S:104–106/114/138]",
+      "byte_start": 27077,
+      "byte_end_exclusive": 27719,
+      "actual_source_citation_literal": [
+        "W:148–152/163; S:104–106/114/138"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "The rupture is literary and consequential at its actual scope: stopped clash, betrayal accusation, crying and rebuke coexist. W150 and S114 preserve unmeasured prior hospitalization and no newly narrated battle or permanent break; Shimiko's own prior coercion prevents morally pure mediator sorting.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA041",
+      "current_physical_line": 137,
+      "complete_literal_current_paragraph": "The local procedure follows hearing and apology rather than erasing disagreement. Shimiko says Library responsibility allows approval and expects adjustment; Ui thinks adjustment unnecessary, approves and delegates other judgments. This is an actual change in the conflict's handling and a practical differentiation of decision roles. It supports cooperation with continued differences, not a narrated complete apology between the two, a permanently reconciled relation or a universal consultation charter. [W:150–159; S:84–86/138/164]",
+      "byte_start": 27749,
+      "byte_end_exclusive": 28288,
+      "actual_source_citation_literal": [
+        "W:150–159; S:84–86/138/164"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "W152 supplies actual differentiated handling: hearing/apology, Shimiko adjustment expectation, Ui disagreement/approval/delegation and Mashiro process. This supports local cooperation without a fully narrated pairwise apology or permanent reconciliation. The section retains achieved change rather than merely calling it a proposal.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA042",
+      "current_physical_line": 141,
+      "complete_literal_current_paragraph": "The EVENT851 later reunion records Shimiko's completed reading practice and interest in media; Ui's lost sleep and material permission are not thereby repaired. Other sources separately preserve chosen reading, recipient checks, actual shared chocolate and work until Shimiko sleeps, and adult blanket care. Those quiet achievements belong to their actual participants; the gift does not turn Ui into the chocolate recipient or establish that the pair now share a settled rest routine. Positive ordinary continuities can coexist with an unprinted Ui–Shimiko reconciliation. [V:141/149/167; L56:37–45/67–71; P:427–445; S:56/94/122]",
+      "byte_start": 28320,
+      "byte_end_exclusive": 28958,
+      "actual_source_citation_literal": [
+        "V:141/149/167; L56:37–45/67–71; P:427–445; S:56/94/122"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Later reading practice and wanted media are achieved at V141/V149/V167. Ui's rest/material costs remain unrepaired; L56 shared chocolate belongs to Shimiko/adult, not Ui. Separate ordinary continuities cannot be pooled into a mutually settled Ui–Shimiko rest routine.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA043",
+      "current_physical_line": 145,
+      "complete_literal_current_paragraph": "The expert and magician vocabulary identifies skill and reported reputation rather than supernatural status. Reported private-property criticism, Ui's inner speed estimates, her unexecuted stopping thought and Shimiko's researched villain practice retain different modes. EVENT852's betrayal accusation and rebuke give locally meaningful conflict language; adjacent-actor seams still prevent a silently reassigned native turn map. No heard tonal reconciliation, universal address-term change, evil identity or performed voice follows from these written meanings. [U:116–122; S:142–150; P:455–471/528; V:149/161–167; W:173–175]",
+      "byte_start": 28994,
+      "byte_end_exclusive": 29630,
+      "actual_source_citation_literal": [
+        "U:116–122; S:142–150; P:455–471/528; V:149/161–167; W:173–175"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Skill/reputation, reported criticism, inner estimates, unperformed intervention thought and role practice retain different written channels. W173–175 and accepted U/S protect source seams and no supernatural identity, performed tone or secretly reassigned native actor map is inferred.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA044",
+      "current_physical_line": 149,
+      "complete_literal_current_paragraph": "The teacher and Shimiko actually stop the EVENT852 clash and help formulate local permission, but their intervention does not replace Ui's approval and delegation or readers' own receptions. The adult's quiet blanket care for Shimiko and adaptive access with Ui separately provide meaningful comparisons in attentive giving; they are not direct proof of a repaired pair. The named section consequently retains substantial directed conflicts, particular ends, modes and finite cooperation without borrowing a permanent relationship from an adult's successful local help. [W:150–159; P:377–445/525; L56:45/69; U:96–102; S:114/126/138]",
+      "byte_start": 29670,
+      "byte_end_exclusive": 30308,
+      "actual_source_citation_literal": [
+        "W:150–159; P:377–445/525; L56:45/69; U:96–102; S:114/126/138"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Actual adult/Shimiko restraint and local procedural work do not absorb Ui approval or reader reactions. Adult blanket care and Ui access help are finite comparison, not direct repaired pair evidence. The named duty is fully argued without manufacturing permanent dyadic completion.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA045",
+      "current_physical_line": 153,
+      "complete_literal_current_paragraph": "1. A benign sanctuary reading has found books, wanted reading, comfortable work, cushions, actual rest and local approval in its favor. It fails as a total account when it makes force, coercive education, pressure, sleeplessness and unknown stock permission incidental. A wanted space is a substantive good whose methods remain answerable. [P:417–445; V:149; W:148–169]",
+      "byte_start": 30347,
+      "byte_end_exclusive": 30720,
+      "actual_source_citation_literal": [
+        "P:417–445; V:149; W:148–169"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival1 is serious because actual sanctuary goods exist. Its total benign form loses coercion, pressure, sleeplessness and material permission. The judgment keeps positive wanted space and accountability together without discarding pleasure.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA046",
+      "current_physical_line": 155,
+      "complete_literal_current_paragraph": "2. A coercive gatekeeper reading sees real punishment, exclusion, threatened force and concealed knowledge. It fails when it discards useful referral, recipient checks, chosen invitations, actual lending, comfort and achieved access. Contrary conduct must constrain the thesis without erasing positive acts or making all service fraudulent. [P:375–445; U:126–132; S:154–164]",
+      "byte_start": 30722,
+      "byte_end_exclusive": 31102,
+      "actual_source_citation_literal": [
+        "P:375–445; U:126–132; S:154–164"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival2 has real coercion and gatekeeping support; its total form loses recipient checks, referral, welcome, lending and rest. Contrary conduct constrains rather than nullifies service or supplies a global fraudulent essence.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA047",
+      "current_physical_line": 157,
+      "complete_literal_current_paragraph": "3. A flawless expert system reading can cite Ui's specialty and Shimiko's profiled collection knowledge and successful search. It cannot turn a profile into audited omniscience, a failed treasure into a found book, a referral into performed restoration, or an inner estimate into validated throughput. Competence remains positively located in different tasks and finite endings. [P:435–461; U:64–70; S:64/68/156; V:149]",
+      "byte_start": 31104,
+      "byte_end_exclusive": 31527,
+      "actual_source_citation_literal": [
+        "P:435–461; U:64–70; S:64/68/156; V:149"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival3 gives expertise its strongest genuine grounds, then limits profile omniscience, failed treasure, referral-versus-restoration and inner speed estimates. Positive competence remains particular and source-located instead of either a perfect system or no meaningful skill.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA048",
+      "current_physical_line": 159,
+      "complete_literal_current_paragraph": "4. A single library mind reading takes shared affiliation and book care as one preference, rule or authority. The distinct sites, Ui's private-property/referral complaints, Shimiko's reader matching, EVENT851 rest cost and EVENT852 adjustment disagreement resist it. The relation is significant through different authors and recipients, not through compulsory sameness. [U:64/108; S:74–86/130; P:489/509; V:149; W:152]",
+      "byte_start": 31529,
+      "byte_end_exclusive": 31949,
+      "actual_source_citation_literal": [
+        "U:64/108; S:74–86/130; P:489/509; V:149; W:152"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival4 is tested by shared affiliation and care, but loses distinct sites, reported objections, reader matching, actual rest cost and procedural disagreement. The pair's relation requires differentiated agency, not a common library mind.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA049",
+      "current_physical_line": 161,
+      "complete_literal_current_paragraph": "5. A service-and-productivity reading treats leisure as reward or fuel for work. The failed treasure's enjoyed company, personally wanted reading, bookmark/costume making, specific coffee, birthday alternative and actually good rest resist that reduction. Their value is intrinsic while they keep achieved, wanted and incomplete states. Neither political usefulness nor a high-stakes consequence is required. [P:268/381–461; U:40/74–82; S:90–100; W:169]",
+      "byte_start": 31951,
+      "byte_end_exclusive": 32410,
+      "actual_source_citation_literal": [
+        "P:268/381–461; U:40/74–82; S:90–100; W:169"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival5's productivity framing is materially resisted by failed-search pleasure, chosen reading/craft, precise taste, wanted alternative gift and achieved good rest. Ordinary value is explicit and remains compatible with unfinished ends; it is not conditioned on crisis or performance.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA050",
+      "current_physical_line": 163,
+      "complete_literal_current_paragraph": "6. A harmless fiction reading has comedy, wanted research and audience pleasure as evidence. It overreaches when the show hides armed pursuit, stock permission and Ui's lost rest, or a false princess persona is validated by genuine criticism. An evil-maker reading conversely mistakes a researched role for a person's intent. Purposeful pleasure and affected recipients need their actual source-local relation. [V:129–149/157–167; W:127–143/159; S:160]",
+      "byte_start": 32412,
+      "byte_end_exclusive": 32870,
+      "actual_source_citation_literal": [
+        "V:129–149/157–167; W:127–143/159; S:160"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival6 credits comedy and purposeful research while retaining audience knowledge, stock permission and Ui sleep costs. Genuine skill does not validate a false prestige persona; researched villain fiction does not establish evil motive. The contrary recipient is preserved.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA051",
+      "current_physical_line": 165,
+      "complete_literal_current_paragraph": "7. A completed liberalization reading notices real local approval, actual new readers and Mashiro's continuation wish. It fails if those ends become a universal charter, repealed all-school censorship, delivered continuation, true prestige or unlimited guarantorship. Continuing criticism and proposal-stage responsibility remain part of the ending's meaning. [W:150–177/195–201; S:84–86/164]",
+      "byte_start": 32872,
+      "byte_end_exclusive": 33270,
+      "actual_source_citation_literal": [
+        "W:150–177/195–201; S:84–86/164"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival7 has actual approval/new-reader support but overreaches into universal charter, ended censorship, delivered continuation, true prestige and unlimited guarantorship. The source-local settlement is positively retained with those stronger institutional predicates unproved.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA052",
+      "current_physical_line": 167,
+      "complete_literal_current_paragraph": "8. A personal cure or permanent reconciliation reading can cite useful mediation and wanted company. It cannot erase Ui's retained distance, an initial solitude refusal, continuing privacy, the craft-related unrestored rest or the unprinted pairwise apology. A failed-only relation also loses actual referral, restraint and differentiated approval. The supported account is locally consequential cooperation and disagreement with broader duration legitimately unknown. [P:393–409/558–560; U:98–108/126; V:149; W:150–159]",
+      "byte_start": 33272,
+      "byte_end_exclusive": 33800,
+      "actual_source_citation_literal": [
+        "P:393–409/558–560; U:98–108/126; V:149; W:150–159"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival8 gives mediation and company their genuine force while rejecting permanent cure or pairwise reconciliation without evidence. Remaining distance, solitude refusal and unrepaired craft costs matter; a failure-only relation also loses useful referral, restraint and differentiated approval.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    }
+  ],
+  "named_direction_receiving": {
+    "current_fields": [
+      {
+        "body_only_receiving_claim_id": "LIBQA033",
+        "current_physical_line": 105,
+        "complete_literal_current_paragraph": "The received source-local relation already contains affiliation, referral and disagreement; it does not narrate a historically first meeting. Ui reports Shimiko's objection to private-property treatment and complains about visitor referral, while Shimiko identifies Ui's exceptional restoration expertise. These are positive directed meanings at reported and professional modes. They support an established relation with different access commitments, rather than permitting first-co-occurrence metadata, source filing order or a missing-book episode to manufacture an origin. [U:64/108; S:64/130; P:260–264/379/489/509]",
+        "byte_start": 22633,
+        "byte_end_exclusive": 23254,
+        "actual_source_citation_literal": [
+          "U:64/108; S:64/130; P:260–264/379/489/509"
+        ],
+        "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+        "my_actual_meaning_and_limit_judgment": "The named relation has a substantive origin limit: established affiliation, reported disagreement and professional referral are meaningful, but no historically first meeting is invented. Complete U64/U108/S64/S130 grounds the relation without manufacturing a first-contact calendar.",
+        "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+        "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+      },
+      {
+        "body_only_receiving_claim_id": "LIBQA034",
+        "current_physical_line": 109,
+        "complete_literal_current_paragraph": "Ui has the represented chair role, guarded space and ancient-text specialty; Shimiko has her own reader-facing competence and an ability to locate what another person needs. Referral is not surrender of all judgment, and chair status does not decide all public-library practices. Their relation is asymmetrical in particular tasks while each retains an ordinary life and a capacity to object. A specialized repair cannot be reassigned to Shimiko, nor can her actual lending, rest arrangement and costume work be credited to Ui merely through shared affiliation. [U:64–70/108; S:64/74–82/130; P:439–445/509]",
+        "byte_start": 23279,
+        "byte_end_exclusive": 23891,
+        "actual_source_citation_literal": [
+          "U:64–70/108; S:64/74–82/130; P:439–445/509"
+        ],
+        "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+        "my_actual_meaning_and_limit_judgment": "Chair/specialist work and reader-facing skill give particular asymmetries without making one person the whole library. Actual Ui restoration and Shimiko lending/cushion/craft work retain their separate authors; professional referral is not surrender of all judgment.",
+        "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+        "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+      },
+      {
+        "body_only_receiving_claim_id": "LIBQA035",
+        "current_physical_line": 113,
+        "complete_literal_current_paragraph": "Their connected grammar includes quiet requests, descriptions of competence, referral, scrutiny of access and responses to disturbance. Ui's reported private-property disagreement is not interchangeable with her personal privacy condition; Shimiko's public reading-room norms are not identical to the ancient-library door. The shared object language connects them without making every invitation mutual or every reader a committee member. The library relation becomes consequential through those specific directions and contexts, rather than simply their names appearing in the same source pool. [U:58/64/108; S:74–82/130; P:375–445/489/509]",
+        "byte_start": 23927,
+        "byte_end_exclusive": 24572,
+        "actual_source_citation_literal": [
+          "U:58/64/108; S:74–82/130; P:375–445/489/509"
+        ],
+        "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+        "my_actual_meaning_and_limit_judgment": "Recurring quiet requests, competence/referral, access scrutiny and disturbance responses connect the dyad through actual directions. Reported private-property disagreement differs from a personal proximity condition and public reading norms; no universal invitation or membership rule follows.",
+        "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+        "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+      },
+      {
+        "body_only_receiving_claim_id": "LIBQA036",
+        "current_physical_line": 117,
+        "complete_literal_current_paragraph": "EVENT851 supplies a concrete directed cost: Shimiko's freely chosen genre research and sewing keep Ui from her intended quiet and sleep. Ui's speed estimates and frightened observations are her modes; her thought about stopping or knocking Shimiko out is unperformed. The preparation cannot be compressed into either mutual delight in an overnight hobby or a malicious attack on Ui. Chosen making and actual sleeplessness coexist, with stock-use permission and subsequent restitution unprinted. [V:149/157–159; U:92; S:82/98/130]",
+        "byte_start": 24596,
+        "byte_end_exclusive": 25127,
+        "actual_source_citation_literal": [
+          "V:149/157–159; U:92; S:82/98/130"
+        ],
+        "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+        "my_actual_meaning_and_limit_judgment": "V149 supplies a substantial directed conflict: chosen Shimiko research/sewing costs Ui wanted sleep, with observer estimates and imagined intervention kept in their modes. Malicious-attack and mutual-delight readings both lose source evidence. No stock permission or restitution is manufactured.",
+        "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+        "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+      },
+      {
+        "body_only_receiving_claim_id": "LIBQA037",
+        "current_physical_line": 121,
+        "complete_literal_current_paragraph": "For Ui, cared-for old words, quiet, selective company and intact personal space have independent value. For Shimiko, reading, bookmarks, recommendation, finding the wanted book, repaired cushions, thanks and creative practice have independent value. Those repertoires make the conflict intelligible: a craft project can be sincerely wanted while another person wants rest. Their affinities provide grounds for understanding and referral without requiring the observer to surrender her end or the maker to have no pleasure beyond school service. [P:377–445/455–461/509–531; U:36–40/74–82; S:90–100]",
+        "byte_start": 25177,
+        "byte_end_exclusive": 25786,
+        "actual_source_citation_literal": [
+          "P:377–445/455–461/509–531; U:36–40/74–82; S:90–100"
+        ],
+        "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+        "my_actual_meaning_and_limit_judgment": "The section gives both parties independent personal ends: Ui words/quiet/space, Shimiko reading/bookmarks/recipient service/cushion/thanks/craft. Actual affinity can explain referral while conflicting wants remain serious. Neither is reduced to a role serving the other's importance.",
+        "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+        "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+      },
+      {
+        "body_only_receiving_claim_id": "LIBQA038",
+        "current_physical_line": 125,
+        "complete_literal_current_paragraph": "Referral displays trust in a particular expertise; it does not prove unlimited confidence in every method or complete shared knowledge. Ui's missing-book cleaner remains unnamed, so no claim that Shimiko misplaced the book or restored that trust follows. Likewise, Ui's capsule and secret-copy matters remain her differently sourced report and duty, rather than knowledge automatically held by a fellow librarian. Shimiko's EVENT852 strategic denial and later admission of reading are her public presentation sequence, not a private disclosure scene to Ui. [P:379/485–489; U:60/70/108; S:70/80/144; W:108/150]",
+        "byte_start": 25814,
+        "byte_end_exclusive": 26425,
+        "actual_source_citation_literal": [
+          "P:379/485–489; U:60/70/108; S:70/80/144; W:108/150"
+        ],
+        "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+        "my_actual_meaning_and_limit_judgment": "Professional trust is task-specific. P379's unnamed cleaner is not joined to Shimiko; accepted U capsule/secret-copy matters are not automatically shared knowledge. W108 concealment/admission is public presentation, not an invented private disclosure to Ui.",
+        "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+        "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+      },
+      {
+        "body_only_receiving_claim_id": "LIBQA039",
+        "current_physical_line": 129,
+        "complete_literal_current_paragraph": "The chair title and reported private-property objection create an institutional tension without proving a continuing personal rivalry or stable faction. Shimiko can question access practice and identify Ui's skill; Ui can value dear members while resisting pressure to go out, without every unnamed dear member becoming Shimiko. Shared affiliation permits comparison but supplies no universal permission to use materials, no ownership of another person's time and no single hierarchy applicable to every public, ancient and after-hours site. [U:64/108; P:387/489/509; S:74–82/130]",
+        "byte_start": 26454,
+        "byte_end_exclusive": 27036,
+        "actual_source_citation_literal": [
+          "U:64/108; P:387/489/509; S:74–82/130"
+        ],
+        "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+        "my_actual_meaning_and_limit_judgment": "Reported access criticism and chair role create tension without proving lasting rivalry or a stable faction. Ui dear-member reference remains unnamed. The section keeps tasks, sites, materials, time and personal will separate from common affiliation and automatic hierarchy.",
+        "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+        "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+      },
+      {
+        "body_only_receiving_claim_id": "LIBQA040",
+        "current_physical_line": 133,
+        "complete_literal_current_paragraph": "EVENT852 narrates a locally serious confrontation: Ui interprets the inventory proposal as takeover, the adult and Shimiko stop the impending clash, Ui accuses Shimiko of betrayal and cries during her rebuke, and Shimiko invokes earlier hospitalizations and says not to shoot people. The restraint, accusation and distress all matter. They do not establish a newly enacted battle, precise prior injury count or permanent relational break. Shimiko's own coercive private enforcement also prevents this scene from sorting the pair into a wholly responsible mediator and an essentially dangerous colleague. [W:148–152/163; S:104–106/114/138]",
+        "byte_start": 27077,
+        "byte_end_exclusive": 27719,
+        "actual_source_citation_literal": [
+          "W:148–152/163; S:104–106/114/138"
+        ],
+        "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+        "my_actual_meaning_and_limit_judgment": "The rupture is literary and consequential at its actual scope: stopped clash, betrayal accusation, crying and rebuke coexist. W150 and S114 preserve unmeasured prior hospitalization and no newly narrated battle or permanent break; Shimiko's own prior coercion prevents morally pure mediator sorting.",
+        "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+        "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+      },
+      {
+        "body_only_receiving_claim_id": "LIBQA041",
+        "current_physical_line": 137,
+        "complete_literal_current_paragraph": "The local procedure follows hearing and apology rather than erasing disagreement. Shimiko says Library responsibility allows approval and expects adjustment; Ui thinks adjustment unnecessary, approves and delegates other judgments. This is an actual change in the conflict's handling and a practical differentiation of decision roles. It supports cooperation with continued differences, not a narrated complete apology between the two, a permanently reconciled relation or a universal consultation charter. [W:150–159; S:84–86/138/164]",
+        "byte_start": 27749,
+        "byte_end_exclusive": 28288,
+        "actual_source_citation_literal": [
+          "W:150–159; S:84–86/138/164"
+        ],
+        "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+        "my_actual_meaning_and_limit_judgment": "W152 supplies actual differentiated handling: hearing/apology, Shimiko adjustment expectation, Ui disagreement/approval/delegation and Mashiro process. This supports local cooperation without a fully narrated pairwise apology or permanent reconciliation. The section retains achieved change rather than merely calling it a proposal.",
+        "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+        "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+      },
+      {
+        "body_only_receiving_claim_id": "LIBQA042",
+        "current_physical_line": 141,
+        "complete_literal_current_paragraph": "The EVENT851 later reunion records Shimiko's completed reading practice and interest in media; Ui's lost sleep and material permission are not thereby repaired. Other sources separately preserve chosen reading, recipient checks, actual shared chocolate and work until Shimiko sleeps, and adult blanket care. Those quiet achievements belong to their actual participants; the gift does not turn Ui into the chocolate recipient or establish that the pair now share a settled rest routine. Positive ordinary continuities can coexist with an unprinted Ui–Shimiko reconciliation. [V:141/149/167; L56:37–45/67–71; P:427–445; S:56/94/122]",
+        "byte_start": 28320,
+        "byte_end_exclusive": 28958,
+        "actual_source_citation_literal": [
+          "V:141/149/167; L56:37–45/67–71; P:427–445; S:56/94/122"
+        ],
+        "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+        "my_actual_meaning_and_limit_judgment": "Later reading practice and wanted media are achieved at V141/V149/V167. Ui's rest/material costs remain unrepaired; L56 shared chocolate belongs to Shimiko/adult, not Ui. Separate ordinary continuities cannot be pooled into a mutually settled Ui–Shimiko rest routine.",
+        "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+        "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+      },
+      {
+        "body_only_receiving_claim_id": "LIBQA043",
+        "current_physical_line": 145,
+        "complete_literal_current_paragraph": "The expert and magician vocabulary identifies skill and reported reputation rather than supernatural status. Reported private-property criticism, Ui's inner speed estimates, her unexecuted stopping thought and Shimiko's researched villain practice retain different modes. EVENT852's betrayal accusation and rebuke give locally meaningful conflict language; adjacent-actor seams still prevent a silently reassigned native turn map. No heard tonal reconciliation, universal address-term change, evil identity or performed voice follows from these written meanings. [U:116–122; S:142–150; P:455–471/528; V:149/161–167; W:173–175]",
+        "byte_start": 28994,
+        "byte_end_exclusive": 29630,
+        "actual_source_citation_literal": [
+          "U:116–122; S:142–150; P:455–471/528; V:149/161–167; W:173–175"
+        ],
+        "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+        "my_actual_meaning_and_limit_judgment": "Skill/reputation, reported criticism, inner estimates, unperformed intervention thought and role practice retain different written channels. W173–175 and accepted U/S protect source seams and no supernatural identity, performed tone or secretly reassigned native actor map is inferred.",
+        "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+        "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+      },
+      {
+        "body_only_receiving_claim_id": "LIBQA044",
+        "current_physical_line": 149,
+        "complete_literal_current_paragraph": "The teacher and Shimiko actually stop the EVENT852 clash and help formulate local permission, but their intervention does not replace Ui's approval and delegation or readers' own receptions. The adult's quiet blanket care for Shimiko and adaptive access with Ui separately provide meaningful comparisons in attentive giving; they are not direct proof of a repaired pair. The named section consequently retains substantial directed conflicts, particular ends, modes and finite cooperation without borrowing a permanent relationship from an adult's successful local help. [W:150–159; P:377–445/525; L56:45/69; U:96–102; S:114/126/138]",
+        "byte_start": 29670,
+        "byte_end_exclusive": 30308,
+        "actual_source_citation_literal": [
+          "W:150–159; P:377–445/525; L56:45/69; U:96–102; S:114/126/138"
+        ],
+        "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+        "my_actual_meaning_and_limit_judgment": "Actual adult/Shimiko restraint and local procedural work do not absorb Ui approval or reader reactions. Adult blanket care and Ui access help are finite comparison, not direct repaired pair evidence. The named duty is fully argued without manufacturing permanent dyadic completion.",
+        "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+        "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+      }
+    ],
+    "separate_UI_and_SHIMIKO_ends": "Ui quiet, objects, privacy and wanted access remain distinct from Shimiko reader matching, sewing, recommendations, work, appetite/company and gift difference. Referral/rest-cost/rupture/differentiated local approval are substantive directed relations, not shared-name decoration.",
+    "historical_origin_and_motive_limits": "No historically first meeting, permanent faction/rivalry, shared confidential capsule knowledge, actor join or complete reconciliation manufactured."
+  },
+  "all8_complete_serious_rival_judgments": [
+    {
+      "body_only_receiving_claim_id": "LIBQA045",
+      "current_physical_line": 153,
+      "complete_literal_current_paragraph": "1. A benign sanctuary reading has found books, wanted reading, comfortable work, cushions, actual rest and local approval in its favor. It fails as a total account when it makes force, coercive education, pressure, sleeplessness and unknown stock permission incidental. A wanted space is a substantive good whose methods remain answerable. [P:417–445; V:149; W:148–169]",
+      "byte_start": 30347,
+      "byte_end_exclusive": 30720,
+      "actual_source_citation_literal": [
+        "P:417–445; V:149; W:148–169"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival1 is serious because actual sanctuary goods exist. Its total benign form loses coercion, pressure, sleeplessness and material permission. The judgment keeps positive wanted space and accountability together without discarding pleasure.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA046",
+      "current_physical_line": 155,
+      "complete_literal_current_paragraph": "2. A coercive gatekeeper reading sees real punishment, exclusion, threatened force and concealed knowledge. It fails when it discards useful referral, recipient checks, chosen invitations, actual lending, comfort and achieved access. Contrary conduct must constrain the thesis without erasing positive acts or making all service fraudulent. [P:375–445; U:126–132; S:154–164]",
+      "byte_start": 30722,
+      "byte_end_exclusive": 31102,
+      "actual_source_citation_literal": [
+        "P:375–445; U:126–132; S:154–164"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival2 has real coercion and gatekeeping support; its total form loses recipient checks, referral, welcome, lending and rest. Contrary conduct constrains rather than nullifies service or supplies a global fraudulent essence.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA047",
+      "current_physical_line": 157,
+      "complete_literal_current_paragraph": "3. A flawless expert system reading can cite Ui's specialty and Shimiko's profiled collection knowledge and successful search. It cannot turn a profile into audited omniscience, a failed treasure into a found book, a referral into performed restoration, or an inner estimate into validated throughput. Competence remains positively located in different tasks and finite endings. [P:435–461; U:64–70; S:64/68/156; V:149]",
+      "byte_start": 31104,
+      "byte_end_exclusive": 31527,
+      "actual_source_citation_literal": [
+        "P:435–461; U:64–70; S:64/68/156; V:149"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival3 gives expertise its strongest genuine grounds, then limits profile omniscience, failed treasure, referral-versus-restoration and inner speed estimates. Positive competence remains particular and source-located instead of either a perfect system or no meaningful skill.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA048",
+      "current_physical_line": 159,
+      "complete_literal_current_paragraph": "4. A single library mind reading takes shared affiliation and book care as one preference, rule or authority. The distinct sites, Ui's private-property/referral complaints, Shimiko's reader matching, EVENT851 rest cost and EVENT852 adjustment disagreement resist it. The relation is significant through different authors and recipients, not through compulsory sameness. [U:64/108; S:74–86/130; P:489/509; V:149; W:152]",
+      "byte_start": 31529,
+      "byte_end_exclusive": 31949,
+      "actual_source_citation_literal": [
+        "U:64/108; S:74–86/130; P:489/509; V:149; W:152"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival4 is tested by shared affiliation and care, but loses distinct sites, reported objections, reader matching, actual rest cost and procedural disagreement. The pair's relation requires differentiated agency, not a common library mind.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA049",
+      "current_physical_line": 161,
+      "complete_literal_current_paragraph": "5. A service-and-productivity reading treats leisure as reward or fuel for work. The failed treasure's enjoyed company, personally wanted reading, bookmark/costume making, specific coffee, birthday alternative and actually good rest resist that reduction. Their value is intrinsic while they keep achieved, wanted and incomplete states. Neither political usefulness nor a high-stakes consequence is required. [P:268/381–461; U:40/74–82; S:90–100; W:169]",
+      "byte_start": 31951,
+      "byte_end_exclusive": 32410,
+      "actual_source_citation_literal": [
+        "P:268/381–461; U:40/74–82; S:90–100; W:169"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival5's productivity framing is materially resisted by failed-search pleasure, chosen reading/craft, precise taste, wanted alternative gift and achieved good rest. Ordinary value is explicit and remains compatible with unfinished ends; it is not conditioned on crisis or performance.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA050",
+      "current_physical_line": 163,
+      "complete_literal_current_paragraph": "6. A harmless fiction reading has comedy, wanted research and audience pleasure as evidence. It overreaches when the show hides armed pursuit, stock permission and Ui's lost rest, or a false princess persona is validated by genuine criticism. An evil-maker reading conversely mistakes a researched role for a person's intent. Purposeful pleasure and affected recipients need their actual source-local relation. [V:129–149/157–167; W:127–143/159; S:160]",
+      "byte_start": 32412,
+      "byte_end_exclusive": 32870,
+      "actual_source_citation_literal": [
+        "V:129–149/157–167; W:127–143/159; S:160"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival6 credits comedy and purposeful research while retaining audience knowledge, stock permission and Ui sleep costs. Genuine skill does not validate a false prestige persona; researched villain fiction does not establish evil motive. The contrary recipient is preserved.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA051",
+      "current_physical_line": 165,
+      "complete_literal_current_paragraph": "7. A completed liberalization reading notices real local approval, actual new readers and Mashiro's continuation wish. It fails if those ends become a universal charter, repealed all-school censorship, delivered continuation, true prestige or unlimited guarantorship. Continuing criticism and proposal-stage responsibility remain part of the ending's meaning. [W:150–177/195–201; S:84–86/164]",
+      "byte_start": 32872,
+      "byte_end_exclusive": 33270,
+      "actual_source_citation_literal": [
+        "W:150–177/195–201; S:84–86/164"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival7 has actual approval/new-reader support but overreaches into universal charter, ended censorship, delivered continuation, true prestige and unlimited guarantorship. The source-local settlement is positively retained with those stronger institutional predicates unproved.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    },
+    {
+      "body_only_receiving_claim_id": "LIBQA052",
+      "current_physical_line": 167,
+      "complete_literal_current_paragraph": "8. A personal cure or permanent reconciliation reading can cite useful mediation and wanted company. It cannot erase Ui's retained distance, an initial solitude refusal, continuing privacy, the craft-related unrestored rest or the unprinted pairwise apology. A failed-only relation also loses actual referral, restraint and differentiated approval. The supported account is locally consequential cooperation and disagreement with broader duration legitimately unknown. [P:393–409/558–560; U:98–108/126; V:149; W:150–159]",
+      "byte_start": 33272,
+      "byte_end_exclusive": 33800,
+      "actual_source_citation_literal": [
+        "P:393–409/558–560; U:98–108/126; V:149; W:150–159"
+      ],
+      "my_independent_whole_body_disposition": "SUPPORTED_FINITE_CURRENT_ARGUMENT_WITH_LIMITS",
+      "my_actual_meaning_and_limit_judgment": "Rival8 gives mediation and company their genuine force while rejecting permanent cure or pairwise reconciliation without evidence. Remaining distance, solitude refusal and unrepaired craft costs matter; a failure-only relation also loses useful referral, restraint and differentiated approval.",
+      "actual_support_grade": "Complete accepted Ui150 and Shimiko189 written character arguments, plus necessary selected connected admitted normal checks and complete gift71. Other cited subobjects and original source-primary/control scopes remain inherited and unclaimed as my fresh read.",
+      "new_primary_native_raw_AV_source_admission_package_named_model_credit": 0
+    }
+  ],
+  "all16_complete_finite_endpoint_rows_and_dispositions": [
+    {
+      "end_id": "E01",
+      "complete_literal_row": "| E01 | Ui's sole key is offered and returned; advance contact and shared reading occur. | Unrestricted gate custody or permanent open entry. |",
+      "physical_line": 173,
+      "affirmative_or_adverse_actual_endpoint": "Ui's sole key is offered and returned; advance contact and shared reading occur.",
+      "stronger_unresolved_endpoint": "Unrestricted gate custody or permanent open entry.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E02",
+      "complete_literal_row": "| E02 | The missing object is a book; it is found around sunset and thanked for. | Abducted pupil, named Shimiko cleaner or every volume located. |",
+      "physical_line": 174,
+      "affirmative_or_adverse_actual_endpoint": "The missing object is a book; it is found around sunset and thanked for.",
+      "stronger_unresolved_endpoint": "Abducted pupil, named Shimiko cleaner or every volume located.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E03",
+      "complete_literal_row": "| E03 | The large notebook is left at the library and becomes book-comment exchange. | Every future entry, romance contract or universal visitor arrangement. |",
+      "physical_line": 175,
+      "affirmative_or_adverse_actual_endpoint": "The large notebook is left at the library and becomes book-comment exchange.",
+      "stronger_unresolved_endpoint": "Every future entry, romance contract or universal visitor arrangement.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E04",
+      "complete_literal_row": "| E04 | Local Ui work ends, she sleeps and the adult blankets and quietly leaves. | Whole collection deciphered, patches applied or general clinical recovery. |",
+      "physical_line": 176,
+      "affirmative_or_adverse_actual_endpoint": "Local Ui work ends, she sleeps and the adult blankets and quietly leaves.",
+      "stronger_unresolved_endpoint": "Whole collection deciphered, patches applied or general clinical recovery.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E05",
+      "complete_literal_row": "| E05 | Shimiko's setting supports completed adult work and reading until dawn. | Universal twenty-four-hour public opening or medically safe overnight norm. |",
+      "physical_line": 177,
+      "affirmative_or_adverse_actual_endpoint": "Shimiko's setting supports completed adult work and reading until dawn.",
+      "stronger_unresolved_endpoint": "Universal twenty-four-hour public opening or medically safe overnight norm.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E06",
+      "complete_literal_row": "| E06 | Sorting is enjoyed and continues, while the hoped-for unknown book is not found. | Discovered rare treasure or authenticated ownership of all shelf deposits. |",
+      "physical_line": 178,
+      "affirmative_or_adverse_actual_endpoint": "Sorting is enjoyed and continues, while the hoped-for unknown book is not found.",
+      "stronger_unresolved_endpoint": "Discovered rare treasure or authenticated ownership of all shelf deposits.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E07",
+      "complete_literal_row": "| E07 | A wanted book is found, lent and taken to Schale; a deadline remains. | Actual return, renewed borrowing or waived obligation. |",
+      "physical_line": 179,
+      "affirmative_or_adverse_actual_endpoint": "A wanted book is found, lent and taken to Schale; a deadline remains.",
+      "stronger_unresolved_endpoint": "Actual return, renewed borrowing or waived obligation.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E08",
+      "complete_literal_row": "| E08 | Her own worn cushion is lent and the adult actually sleeps well and regains energy. | Immediate visitor-cushion repair or universally certified treatment/safety. |",
+      "physical_line": 180,
+      "affirmative_or_adverse_actual_endpoint": "Her own worn cushion is lent and the adult actually sleeps well and regains energy.",
+      "stronger_unresolved_endpoint": "Immediate visitor-cushion repair or universally certified treatment/safety.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E09",
+      "complete_literal_row": "| E09 | Shimiko's chocolate is actually shared during work; she sleeps and receives blanket care. | Complete backlog, measured recovery, Ui participation or fixed romance. |",
+      "physical_line": 181,
+      "affirmative_or_adverse_actual_endpoint": "Shimiko's chocolate is actually shared during work; she sleeps and receives blanket care.",
+      "stronger_unresolved_endpoint": "Complete backlog, measured recovery, Ui participation or fixed romance.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E10",
+      "complete_literal_row": "| E10 | Shimiko admits a professional limit and refers to Ui; accepted later owners give Ui's work. | Shimiko performs the restoration or this author rereads the EVENT812 handoff. |",
+      "physical_line": 182,
+      "affirmative_or_adverse_actual_endpoint": "Shimiko admits a professional limit and refers to Ui; accepted later owners give Ui's work.",
+      "stronger_unresolved_endpoint": "Shimiko performs the restoration or this author rereads the EVENT812 handoff.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E11",
+      "complete_literal_row": "| E11 | Genre research, sewing, a timed entrance and audience light search occur. | Measured speeds, performed voice, evil identity or informed whole-crowd assent. |",
+      "physical_line": 183,
+      "affirmative_or_adverse_actual_endpoint": "Genre research, sewing, a timed entrance and audience light search occur.",
+      "stronger_unresolved_endpoint": "Measured speeds, performed voice, evil identity or informed whole-crowd assent.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E12",
+      "complete_literal_row": "| E12 | Ui reports no sleep; visible cutting/sewing supports costume-use inference. | Stock-use permission, completed stopping/knocking-out or restored Ui rest. |",
+      "physical_line": 184,
+      "affirmative_or_adverse_actual_endpoint": "Ui reports no sleep; visible cutting/sewing supports costume-use inference.",
+      "stronger_unresolved_endpoint": "Stock-use permission, completed stopping/knocking-out or restored Ui rest.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E13",
+      "complete_literal_row": "| E13 | The private normal supports coercive enforcement and an affected visitor, with actor seams. | Full repaired turn map, learning, proportionate safety, death or compensation. |",
+      "physical_line": 185,
+      "affirmative_or_adverse_actual_endpoint": "The private normal supports coercive enforcement and an affected visitor, with actor seams.",
+      "stronger_unresolved_endpoint": "Full repaired turn map, learning, proportionate safety, death or compensation.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E14",
+      "complete_literal_row": "| E14 | EVENT852 clash is stopped; Ui's accusation/distress and Shimiko's rebuke are represented. | New narrated battle, authenticated prior hospital count or permanent rupture. |",
+      "physical_line": 186,
+      "affirmative_or_adverse_actual_endpoint": "EVENT852 clash is stopped; Ui's accusation/distress and Shimiko's rebuke are represented.",
+      "stronger_unresolved_endpoint": "New narrated battle, authenticated prior hospital count or permanent rupture.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E15",
+      "complete_literal_row": "| E15 | Library approval/delegation is actual locally, with new reading and continued criticism. | Universal charter, complete prior seizure or permanent ethical rehabilitation. |",
+      "physical_line": 187,
+      "affirmative_or_adverse_actual_endpoint": "Library approval/delegation is actual locally, with new reading and continued criticism.",
+      "stronger_unresolved_endpoint": "Universal charter, complete prior seizure or permanent ethical rehabilitation.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    },
+    {
+      "end_id": "E16",
+      "complete_literal_row": "| E16 | Exchange, consultation, continuation and criticism collection remain proposed/wanted/considered. | Executed treaty/liability test, delivered books or unlimited future guarantorship. |",
+      "physical_line": 188,
+      "affirmative_or_adverse_actual_endpoint": "Exchange, consultation, continuation and criticism collection remain proposed/wanted/considered.",
+      "stronger_unresolved_endpoint": "Executed treaty/liability test, delivered books or unlimited future guarantorship.",
+      "independent_disposition": "Supported exact distinction; actual positives retained without stronger uninspected endpoint."
+    }
+  ],
+  "all14_original_stable_OPEN_gap_rows_and_dispositions": [
+    {
+      "gap_id": "G01",
+      "complete_original_stable_gap_name_and_current_row": "| G01 — Ordinary and private breadth | OPEN: selected quiet reading, food, craft, rest and company are substantive; unreceived breadth and lasting duration are not completed. |",
+      "physical_line": 194,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    },
+    {
+      "gap_id": "G02",
+      "complete_original_stable_gap_name_and_current_row": "| G02 — Yuuka council/club decision transfer | OPEN: library referral and local approval do not settle Yuuka's separate transfer duty. |",
+      "physical_line": 195,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    },
+    {
+      "gap_id": "G03",
+      "complete_original_stable_gap_name_and_current_row": "| G03 — Serika service, peer and reciprocity range | OPEN: reader matching and returned-key care do not supply Serika's missing service/receiver range. |",
+      "physical_line": 196,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    },
+    {
+      "gap_id": "G04",
+      "complete_original_stable_gap_name_and_current_row": "| G04 — Hina crisis causality, accountability and ordinary contrast | OPEN: library enforcement and limited restraint do not settle Hina's distinct causal or ordinary account. |",
+      "physical_line": 197,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    },
+    {
+      "gap_id": "G05",
+      "complete_original_stable_gap_name_and_current_row": "| G05 — Arius and PS68 ordinary/aftermath transfer | OPEN: circulation, quiet work and craft do not certify Arius/PS68 livelihood, safety or social restoration. |",
+      "physical_line": 198,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    },
+    {
+      "gap_id": "G06",
+      "complete_original_stable_gap_name_and_current_row": "| G06 — Cross-school ordinary repertoire | OPEN: actual visitors/readers and their different pleasures remain local rather than completing every school's ordinary lives. |",
+      "physical_line": 199,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    },
+    {
+      "gap_id": "G07",
+      "complete_original_stable_gap_name_and_current_row": "| G07 — Story-world chronology | OPEN: same-day, dawn, preparation, reunion and event-local order stay distinct; no release/variant sequence becomes one global calendar. |",
+      "physical_line": 200,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    },
+    {
+      "gap_id": "G08",
+      "complete_original_stable_gap_name_and_current_row": "| G08 — Event naming and repeat contexts | OPEN: literal event IDs, suffixes and repeated written contexts stay visible; no metadata title or extra enacted meeting is invented. |",
+      "physical_line": 201,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    },
+    {
+      "gap_id": "G09",
+      "complete_original_stable_gap_name_and_current_row": "| G09 — Written speaker/choice attribution | OPEN: private enforcement seams, EVENT812 inherited actor witnesses, EVENT851 unknown/inner modes and EVENT852 adjacent-actor seams remain qualified. |",
+      "physical_line": 202,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    },
+    {
+      "gap_id": "G10",
+      "complete_original_stable_gap_name_and_current_row": "| G10 — Performed voice | OPEN: no cry, villain practice, tonal assent, music, movement or engine performance was received as audiovisual evidence. |",
+      "physical_line": 203,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    },
+    {
+      "gap_id": "G11",
+      "complete_original_stable_gap_name_and_current_row": "| G11 — Hoshino's Yume record and office states | OPEN: library records, memory metaphors and local appointments do not authenticate that separate history or office continuity. |",
+      "physical_line": 204,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    },
+    {
+      "gap_id": "G12",
+      "complete_original_stable_gap_name_and_current_row": "| G12 — Counterpart, system and variant identity | OPEN: Ui's literal CH0169, Shimiko26004, anonymous members and fictional roles are kept distinct; no private-family or variant join is made. |",
+      "physical_line": 205,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    },
+    {
+      "gap_id": "G13",
+      "complete_original_stable_gap_name_and_current_row": "| G13 — Office, contract, safety and technical outcomes | OPEN: charter/access, force proportionality, stock permission, loan return, coating, rest duration, copy equivalence, public reporting, contracts and liability retain specific limits. |",
+      "physical_line": 206,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    },
+    {
+      "gap_id": "G14",
+      "complete_original_stable_gap_name_and_current_row": "| G14 — Unclassified/mode continuity | OPEN: report, metaphor, inner estimate, direct speech, choice, narration, whole-message tail and written repetition retain different warrants. |",
+      "physical_line": 207,
+      "status": "OPEN",
+      "independent_disposition": "Retained as claim-specific duration/source/recipient or institutional limit; no inherited source or model closure."
+    }
+  ],
+  "actual_own_analytical_input_receiving": [
+    {
+      "alias": "U",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "bytes": 33192,
+      "sha256": "47d9e9a4033de8d0a2213bd5ff49dc604a8a96e9668a523be7f68970c8e38919",
+      "git_blob_oid_of_actual_bytes": "3fdd31ac601c8885f174a69964def02ce3d19359",
+      "physical_lines": 150,
+      "my_actual_grade": "COMPLETE_CURRENT_ACCEPTED_WRITTEN_CHARACTER_ARGUMENT; INHERITED_UNDERLYING_SCOPE_NOT_REPLAYED",
+      "actual_ranges": [
+        [
+          1,
+          150
+        ]
+      ],
+      "actual_tools": [
+        "302cf2"
+      ],
+      "clipped_output_qualification": "Untruncated declared whole character-argument ranges actually received.",
+      "new_primary_native_raw_AV_credit": 0,
+      "retained_private_witness_id": "private-witness:BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "alias": "S",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 60063,
+      "sha256": "7aa59a2d13594081af9e37659e01ff26ed539bd3525861446cf6709a40f4608a",
+      "git_blob_oid_of_actual_bytes": "f3a7247d7afec298d5f6a17d5663ac1b11f62e64",
+      "physical_lines": 189,
+      "my_actual_grade": "COMPLETE_CURRENT_ACCEPTED_WRITTEN_CHARACTER_ARGUMENT; INHERITED_UNDERLYING_SCOPE_NOT_REPLAYED",
+      "actual_ranges": [
+        [
+          1,
+          189
+        ]
+      ],
+      "actual_tools": [
+        "5146bd",
+        "b37038"
+      ],
+      "clipped_output_qualification": "Untruncated declared whole character-argument ranges actually received.",
+      "new_primary_native_raw_AV_credit": 0,
+      "retained_private_witness_id": "private-witness:BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "alias": "P",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 76346,
+      "sha256": "d523094c54e611aa45cebab91ffbf2ecd1888b59f112c8f01dafeb66d274a638",
+      "git_blob_oid_of_actual_bytes": "9bef56d2d1791c796b95a2eee21d4a539ee7c77f",
+      "physical_lines": 562,
+      "my_actual_grade": "NECESSARY_SELECTED_CONNECTED_ADMITTED_MAINTAINED_WRITTEN_NORMAL; NO_FRESH49_ORIGINAL_PRIVATE_WRITTEN_OBJECTS",
+      "actual_ranges": [
+        [
+          239,
+          264
+        ],
+        [
+          373,
+          411
+        ],
+        [
+          415,
+          471
+        ],
+        [
+          509,
+          560
+        ]
+      ],
+      "actual_tools": [
+        "a7a188",
+        "4c212f"
+      ],
+      "clipped_output_qualification": "P middle clipped in a7a188 was recovered4c212f before assigning selected scope; gift complete71 last block remains displayed without a gift gap.",
+      "new_primary_native_raw_AV_credit": 0,
+      "retained_private_witness_id": "private-witness:BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+    },
+    {
+      "alias": "L56",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_056_80000056_DEEP_READING.md",
+      "bytes": 7581,
+      "sha256": "1b6ca141b3ff7c6a7fe879e11b903c6c9d502b9cdf06aabfad563708ae0de24d",
+      "git_blob_oid_of_actual_bytes": "569d4c353181a46020a739da5db60b52c6f8da81",
+      "physical_lines": 71,
+      "my_actual_grade": "COMPLETE_CURRENT_MAINTAINED_GIFT_ARGUMENT71; ORIGINAL_PRIMARY_RAW_CONTROLS_ATTRIBUTED",
+      "actual_ranges": [
+        [
+          1,
+          71
+        ]
+      ],
+      "actual_tools": [
+        "a7a188"
+      ],
+      "clipped_output_qualification": "P middle clipped in a7a188 was recovered4c212f before assigning selected scope; gift complete71 last block remains displayed without a gift gap.",
+      "new_primary_native_raw_AV_credit": 0,
+      "retained_private_witness_id": "private-witness:BLUE_ARCHIVE_EVENT_810_EPISODE_056_80000056_DEEP_READING.md"
+    },
+    {
+      "alias": "V",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 38628,
+      "sha256": "61e628dab0ac127c946e0101225a89d1d7808a27b0f540d5d7a03fc76c36072c",
+      "git_blob_oid_of_actual_bytes": "38ec4671a63ffd51f0f92b9cfd4dad0517a304e5",
+      "physical_lines": 195,
+      "my_actual_grade": "NECESSARY_SELECTED_CONNECTED_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL; ORIGINAL17_OR10_RECEIVING_ATTRIBUTED_NOT_REPLAYED",
+      "actual_ranges": [
+        [
+          25,
+          45
+        ],
+        [
+          115,
+          149
+        ],
+        [
+          153,
+          169
+        ],
+        [
+          181,
+          195
+        ]
+      ],
+      "actual_tools": [
+        "488463"
+      ],
+      "source_admission_qualification": "Current Cycle008 adoption paragraph personally received; old UNADMITTED/proposal/producer status below is dated original and unchanged.",
+      "new_primary_native_raw_AV_credit": 0,
+      "retained_private_witness_id": "private-witness:O095__095__EVENT__BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+    },
+    {
+      "alias": "W",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 38411,
+      "sha256": "14559582a911ee118c9663a60fadaf06193733082b980495f486ed7729098e4f",
+      "git_blob_oid_of_actual_bytes": "98586e8ee96bb670a38425a83a59bb41a61bbac3",
+      "physical_lines": 205,
+      "my_actual_grade": "NECESSARY_SELECTED_CONNECTED_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL; ORIGINAL17_OR10_RECEIVING_ATTRIBUTED_NOT_REPLAYED",
+      "actual_ranges": [
+        [
+          1,
+          10
+        ],
+        [
+          25,
+          45
+        ],
+        [
+          90,
+          119
+        ],
+        [
+          122,
+          131
+        ],
+        [
+          133,
+          159
+        ],
+        [
+          163,
+          177
+        ],
+        [
+          187,
+          191
+        ],
+        [
+          195,
+          205
+        ]
+      ],
+      "actual_tools": [
+        "606f34",
+        "488463"
+      ],
+      "source_admission_qualification": "Current Cycle008 adoption paragraph personally received; old UNADMITTED/proposal/producer status below is dated original and unchanged.",
+      "new_primary_native_raw_AV_credit": 0,
+      "retained_private_witness_id": "private-witness:O096__096__EVENT__BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md"
+    }
+  ],
+  "accepted_EVENT812_outcome_reuse": "Ui restoration and physical handoff remain supported at complete accepted Ui/SHIMIKO written-argument grade. No new EVENT812 handoff body, original primary or native/raw/AV check performed; specialist achievement not transferred to referrer.",
+  "C810_source_alias_grade_limit": "C810 cited source-author comparison is inherited through complete accepted S and current P/Cycle008 authority. This reviewer did not independently receive the C810 comparison body in this task; exact matched custody row was absent in finite406e82 lookup. No global absence/unreadness or new102-original-object credit inferred. L56 itself was personally complete at maintained analytical grade.",
+  "current_two_literary_repairs_received": {
+    "approval_vs_exchange": "W152 actual local approval kept separate from W155 represented prospective exchange; body15 passes.",
+    "Nagisa_vs_Mashiro": "W135 Nagisa encouragement misheard by Mashiro, then W138 pressured enforcement; body73 passes.",
+    "runtime_metadata": "Body3 attributes ROOT closure of source2aa and expressly supplies no candidate library closure."
+  },
+  "actual_full_body_recovery": {
+    "bytes": 97005,
+    "sha256": "f8d108d13053e26213b8a5a26c5ee377c3e050cf4ee08857e65fb2b4ba95f45b",
+    "git_blob_oid_of_actual_bytes": "b942df83033b753ac07cf230b29994cd0eb43d2e",
+    "actual_independent_reexecution": "fd6132; full V2→actual V1 byte equality and V1→actual V2 byte equality",
+    "changed_complete_physical_lines": [
+      3,
+      15,
+      73
+    ],
+    "all218_other_lines_identical": true,
+    "original_and_current_complete_UTF8_fields_match_actual_saved_files": true,
+    "allowed_operations": 3,
+    "original_V1_preserved": true,
+    "retained_private_witness_id": "private-witness:LIBRARY_V2_TWO_SUPPORTED_ACTOR_PROCEDURE_PRECISIONS_AND_FULL_V1_BODY_INVERSE_V1.json"
+  },
+  "findings": [],
+  "zero_findings_scope": "No current whole-body semantic finding after these actual complete/selected analytical checks. This is not the all105 purpose/register review, exact component acceptance, fresh primary independence or canonical completion.",
+  "all105_purpose_register_current_QA": "NOT_PERFORMED_PENDING; source pool/hash metadata never substituted for all105 meaning receiving.",
+  "all14_gaps": "OPEN",
+  "models": 0,
+  "protected39_and_UNBOUND9": "No reads/hashes; no repository/Git/provider/source-admission/sharedmetadata mutations.",
+  "new_source_primary_native_raw_AV_or_package_named_model_credits": 0,
+  "remaining_gates": [
+    "ROOT separate final body receiving/adoption",
+    "Complete current105 new-target meanings and original scopes/custody",
+    "Literal current52 register and dependent component/inverse/reference checks",
+    "Complete composed package QA",
+    "Actual ROOT canonical installation/publication/main integration"
+  ]
+}

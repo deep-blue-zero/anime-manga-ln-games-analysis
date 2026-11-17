@@ -23,7 +23,7 @@ volume0_usage_rule: "reader-level retrospective recontextualization only; Volume
 second_list_information_used: true
 year3_information_used: false
 do_not_use_as_current_authority: false
-point_snapshot_issue_state: "OPEN_NARROWED_TO_PROBABLE_COHORT_MISROUTING_PENDING_SOURCE_SURFACE_VERIFICATION"
+point_snapshot_issue_state: "RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION"
 governing_year1_exam_authority:
   - COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1.md
   - COTE_Y1_FIRST_FILE_PARATEXT_AUDIT.md
@@ -32,7 +32,7 @@ current_supporting_authorities:
   - COTE_CLASS_POLITY_LEDGER_THROUGH_Y2.md
   - COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md
 created_at: "2026-08-25"
-updated_at: "2026-08-25"
+updated_at: "2026-09-09"
 ---
 
 > **YEAR-BOUNDARY AUTHORITY NOTICE**
@@ -704,7 +704,7 @@ Hirata characterizes the action as approaching `越権行為`. The rule allowed 
 
 These are strong official records of competitive position. They do not explain which leader authored each gain, how much hidden intervention mattered, whether the polity can reproduce the score, or whether the methods were legitimate.
 
-## 18.2 The previous “point discrepancy” is narrowed, not closed
+## 18.2 The previous “point discrepancy” is resolved by cohort identification
 
 The class-polity and institutional-rules ledgers preserved an apparent cross-guidebook discrepancy.
 
@@ -722,7 +722,7 @@ The class-polity and institutional-rules ledgers preserved an apparent cross-gui
 - C: **532**
 - D: **510**
 
-The exam-ledger audit materially narrows the problem.
+The original exam-ledger audit materially narrowed the problem; the closeout source-surface check now resolves it.
 
 Three pieces of evidence argue **against** treating these as competing records of the same cohort/timepoint:
 
@@ -730,15 +730,9 @@ Three pieces of evidence argue **against** treating these as competing records o
 2. Y2V01 immediately follows that boundary and records post-exam points of **1169 / 565 / 539 / 283** (`Y2V01-E061`), a sequence compatible in scale and direction with the *First File* snapshot.
 3. `Y2SL-E085` is described in the *Second List* audit as **“first-year end positions”** at the end of Ayanokōji's *second* school year—when the Hōsen/Nanase/Tsubaki cohort occupies the first-year layer.
 
-This makes **cohort misrouting** a stronger explanation than contradictory point accounting.
+That prior reasoning is now confirmed by direct visual verification. Direct inspection of `COTE:Y2SL:IMG:embed0231_HD.jpg` (printed p. 236) confirms the younger first-year cohort: `新1年生`, with Amasawa, the withdrawn Yagami, Utomiya, and Hōsen callouts. The values do not conflict with Ayanokōji's own Year-1 endpoint. This corrects cohort routing, preserves both printed tables, and leaves `Y2SL-E085` unchanged. See [Y2_10, section 6](../05%20Year-Level%20Synthesis/COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md).
 
-However, the fixed-layout `embed0231_HD.jpg` surface has not been remounted in the present operation. The current audit text does not reproduce the page's explicit class/student labels in a form sufficient for a source-surface lock.
-
-Canonical state:
-
-> **`LIKELY_COHORT_MISROUTING — UNVERIFIED AT SOURCE SURFACE`.**
-
-Do not continue calling the numbers a demonstrated arithmetic discrepancy. Also do not silently rewrite prior ledgers as though the correction has been visually re-verified. The next source-surface audit should check whether `Y2SL-E085` indeed belongs to the first-year cohort of Hōsen/Nanase/Tsubaki at the end of Ayanokōji's Year 2.
+Canonical state: **`RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION`**. The earlier likely-but-unverified state remains historical provenance; it is no longer the current disposition.
 
 ## 18.3 Methodological implication
 
@@ -934,15 +928,15 @@ The currency must always be named before the number.
 - `Y2SL-E084`: Ayanokōji cohort provisional end-Year2 state `1233 / 1040–1090 / 793 / 714`, mapped by current polity.
 - `Y2SL-E085`: separate “first-year end positions” table `991 / 697 / 532 / 510`.
 
-### Current best interpretation
+### Verified current interpretation
 
-The *First File* and Y2V01 figures form a coherent longitudinal chain for Ayanokōji's cohort. `Y2SL-E085` most likely belongs to the cohort that is **first-year during Ayanokōji's Year 2** rather than being an alternative record of Ayanokōji's own first-year endpoint.
+The *First File* and Y2V01 figures form a coherent longitudinal chain for Ayanokōji's cohort. Direct source inspection confirms that `Y2SL-E085` belongs to the cohort that is **first-year during Ayanokōji's Year 2**. See [Y2_10, section 6](../05%20Year-Level%20Synthesis/COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md).
 
 ### Authority state
 
-`OPEN_NARROWED_TO_PROBABLE_COHORT_MISROUTING_PENDING_SOURCE_SURFACE_VERIFICATION`
+`RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION`
 
-Do not perform arithmetic across `Y2SL-E085` and Ayanokōji-cohort values until the fixed-layout page is visually rechecked.
+Do not perform arithmetic across `Y2SL-E085` and Ayanokōji-cohort values: direct verification establishes that they concern different cohorts.
 
 # 32. Claim-transition ledger — Year 1 → Year 2
 
@@ -977,7 +971,7 @@ Do not perform arithmetic across `Y2SL-E085` and Ayanokōji-cohort values until 
 5. **“Anonymous voting maximizes freedom.”** Revise to: anonymity protects ballot autonomy while unanimity deadlines manufacture collective coercion.
 6. **“Protection reveals who matters most.”** Revise to: protection reveals a decision under a particular scarcity, not total relational value.
 7. **“Expulsion is simply the penalty for weakness.”** Revise to: some exams manufacture eligibility, scarcity, or sacrificial branches where political choice determines terminal cost.
-8. **“First File and Y2SL contain contradictory Year-1 class-point totals.”** Revise to: current evidence strongly suggests a cohort-routing error; source-surface verification remains pending.
+8. **“First File and Y2SL contain contradictory Year-1 class-point totals.”** Revise to: direct source-surface verification confirms a cohort-routing error; the two printed tables concern different cohorts (Y2_10 section 6).
 
 ## DOWNGRADE
 
@@ -1003,7 +997,7 @@ Do not perform arithmetic across `Y2SL-E085` and Ayanokōji-cohort values until 
 
 ## OPEN
 
-1. Confirm the cohort identity of `Y2SL-E085` directly from `embed0231_HD.jpg`.
+1. **RESOLVED at closeout:** direct `embed0231_HD.jpg` verification confirms the younger first-year cohort (Y2_10 section 6). This retained item records the formerly open question.
 2. Build a complete source-surface class-point crosswalk across all Year-2 scored events.
 3. Determine which apparent class-point changes come from ordinary monthly conduct versus discrete exam/event reward.
 4. Audit the exact full V09 OAA-to-answer-point schedule if needed for `Y2_06`.
@@ -1107,7 +1101,7 @@ For exact rules, escalate to the source-local artifact/original Japanese passage
 - point currencies are not conflated;
 - leader performance is separated from polity development;
 - exam-local value is separated from total human value;
-- the `Y2SL-E085` issue is narrowed to likely cohort misrouting but remains unverified at source-image level.
+- the `Y2SL-E085` issue is resolved by direct source-image verification of the younger first-year cohort; original evidence IDs and printed values remain unchanged.
 
 # 39. Canonical Year-2 examination synthesis
 

@@ -32,9 +32,9 @@ year3_information_used: false
 volume0_information_used: true
 volume0_usage_rule: "retrospective genealogy of developmental measurement only; no Volume 0 fact is treated as a Year-2 local event"
 second_list_information_used: true
-point_snapshot_issue_state: "OPEN_NARROWED_TO_PROBABLE_COHORT_MISROUTING_PENDING_SOURCE_SURFACE_VERIFICATION"
+point_snapshot_issue_state: "RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION"
 created_at: "2026-08-26"
-updated_at: "2026-08-26"
+updated_at: "2026-09-09"
 ---
 
 # 『ようこそ実力至上主義の教室へ』
@@ -1654,17 +1654,11 @@ The current canonical routes preserve:
 - `Y2SL-E084`: provisional end-Year2 Ayanokōji-cohort state `1233 / 1040–1090 / 793 / 714` mapped by current polity;
 - `Y2SL-E085`: a separate “first-year end positions” table `991 / 697 / 532 / 510`.
 
-## 28.2 The unresolved cohort-routing issue
+## 28.2 The resolved cohort-routing issue
 
-The strongest current interpretation is that `Y2SL-E085` refers to the cohort that is first-year during Ayanokōji's Year 2 rather than providing an alternate record of Ayanokōji's own Year-1 endpoint.
+Direct inspection of `COTE:Y2SL:IMG:embed0231_HD.jpg` (printed p. 236) confirms the younger first-year cohort: `新1年生`, with Amasawa, the withdrawn Yagami, Utomiya, and Hōsen callouts. The values do not conflict with Ayanokōji's own Year-1 endpoint. This corrects cohort routing, preserves both printed tables, and leaves `Y2SL-E085` unchanged. See [Y2_10, section 6](COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md).
 
-But the fixed-layout source surface has not yet been directly re-verified.
-
-The canonical state therefore remains:
-
-`OPEN_NARROWED_TO_PROBABLE_COHORT_MISROUTING_PENDING_SOURCE_SURFACE_VERIFICATION`.
-
-Do not “fix” the archive by assumption.
+The canonical state is now `RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION`. The previous pending state remains in the revision history; the printed numbers need no correction.
 
 ## 28.3 No invented point delta
 
@@ -2209,7 +2203,7 @@ Likewise:
 - transfer price is not human value;
 - class rank is not constitutional rank.
 
-The unresolved `Y2SL-E085` cohort issue remains a source-surface verification problem, not a license to reconcile conflicting tables by inference.
+The `Y2SL-E085` cohort issue is resolved by direct source-surface verification (Y2_10 section 6). It remains impermissible to compute cross-cohort deltas or invent a complete event-by-event point accounting.
 
 ---
 
@@ -2234,7 +2228,7 @@ The unresolved `Y2SL-E085` cohort issue remains a source-surface verification pr
 - development is separated from revelation;
 - availability is separated from capacity;
 - public measurement is treated as reflexive infrastructure;
-- the `Y2SL-E085` cohort-routing issue remains open pending direct fixed-layout source-surface verification.
+- the `Y2SL-E085` cohort-routing issue is resolved by direct fixed-layout source-surface verification, with original printed values and evidence IDs preserved.
 
 ---
 
