@@ -5,7 +5,7 @@ artifact_type: analysis_packet_entrypoint
 scope: LYNAE_SOURCE_3_6_0_PRE_AV
 generation: V0.1-pre-av
 status: active_provisional
-authority_state: local_working_draft_not_promoted
+authority_state: owner_adopted_current_provisional
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 drive_character_bridge: 1OCxQve4YIlSCQhhq7shQjgdqeF0DreIt
@@ -13,10 +13,19 @@ drive_voice_view: 1GWCEfknQjwNwhcHP9GaRg3mXQgnuggFh
 intended_canonical_home: series/wuthering-waves/04 Character Analysis/Lynae/
 governing_protocol: WUWA_CHARACTER_RECONSTRUCTION_PROTOCOL.md V0.2
 created: 2026-09-02
-do_not_use_as_current_git_authority: true
+do_not_use_as_current_git_authority: false
+release_state: current_provisional_pre_av
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_adoption: owner_2026_09_09_text_audio_baseline
 ---
 
+> **Current authority — owner adoption, 2026-09-09.** This document is current `active_provisional` authority for its declared analytical or planning scope and inspected text/audio evidence. AV and other stated gaps limit the corresponding claims, not the entire model. Original local-draft and future-publication statements below describe preparation history. Coverage and completion claims remain as recorded; plans and probes are not observations. See the [adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md).
+
 # Lynae reconstruction packet — pre-audiovisual V0.1
+
+The [current-state router](WUWA_LYNAE_CURRENT_STATE.md) is the primary current character entrypoint. This README retains packet-manifest, provenance, and reading-order responsibilities; the artifact-class layout does not change authority or completion state.
 
 ## Purpose
 
@@ -26,7 +35,7 @@ It is deliberately **pre-audiovisual**. The current WUWA reconstruction protocol
 
 It is also **not a human voice-performance reading**. The Drive voice package contains nearly complete four-language official audio, but the current evidence has zero structured human-performance annotations. Human listening is an optional terminal addendum under the V0.2 reconstruction protocol.
 
-Nothing in this directory has been committed, pushed, merged, or promoted to repository authority.
+At initial preparation, this directory had not been committed, pushed, merged, or promoted. The owner has since adopted this packet as current provisional authority within its declared text/audio scope; the adoption note above governs present status.
 
 ## Governing method
 
@@ -129,35 +138,35 @@ is treated as established unless it follows from text rather than visual observa
 
 ## Packet contents and analytical responsibility
 
-### 1. `WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md`
+### 1. `01 Evidence and Source-Facing/WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md`
 
 The principal source-facing literary/character reading. It establishes the current thesis, developmental architecture, source-family reading, ethical tensions, longitudinal changes, narrative motifs, rival interpretations, and explicit limits.
 
-### 2. `WUWA_LYNAE_EVIDENCE_AND_FALSIFICATION_MATRIX.md`
+### 2. `01 Evidence and Source-Facing/WUWA_LYNAE_EVIDENCE_AND_FALSIFICATION_MATRIX.md`
 
 A claim-level apparatus. Each claim is typed as source fact, stable observation, strong inference, or candidate thesis; it records strongest evidence, counterevidence, extrapolation limits, and what later audiovisual or source material could falsify or revise it.
 
-### 3. `WUWA_LYNAE_RELATIONSHIP_AND_STATE_PROFILE.md`
+### 3. `01 Evidence and Source-Facing/WUWA_LYNAE_RELATIONSHIP_AND_STATE_PROFILE.md`
 
 The canonical candidate home for developmental states, relationship states, recipient-specific behavior, and transition evidence. It prevents the reconstruction from treating “Lynae” as one timeless social register.
 
-### 4. `WUWA_LYNAE_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`
+### 4. `01 Evidence and Source-Facing/WUWA_LYNAE_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`
 
 Mundane evidence: food, mobility, hobbies, study, rest, silence, shopping, color/aesthetic taste, play, practical competence, boredom, volunteering, and low-stakes social initiative. Entries distinguish source fact, analytical implication, and extrapolation limit.
 
-### 5. `WUWA_LYNAE_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md`
+### 5. `03 Audiovisual and Voice/WUWA_LYNAE_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md`
 
 Textual speech/register analysis plus the reproducible acoustic accounting currently supportable from Drive. It contains no human acting labels and does not claim protocol-complete machine voice profiling.
 
-### 6. `WUWA_LYNAE_RECONSTRUCTIVE_PROFILE_PRE_AV.md`
+### 6. `02 Reconstruction/WUWA_LYNAE_RECONSTRUCTIVE_PROFILE_PRE_AV.md`
 
 A compact operational model for bounded unfamiliar-situation prediction. It includes state selection, core drives, behavior rules, exceptions, recipient modifiers, confidence, and mandatory abstentions.
 
-### 7. `WUWA_LYNAE_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md`
+### 7. `04 Validation and Readiness/WUWA_LYNAE_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md`
 
 Adversarial tests of the reconstructive profile against ordinary time, praise, failure, boredom, rules, friends, crisis, ambiguous intimacy, identity threats, and localization traps.
 
-### 8. `WUWA_LYNAE_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md`
+### 8. `03 Audiovisual and Voice/WUWA_LYNAE_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md`
 
 Phase-8 AV hierarchy/nomination work: what cutscenes, in-engine sequences, trailers/showcases, and official images should be collected, what each can actually prove, and which textual claims they should test.
 
@@ -184,14 +193,14 @@ Phase-8 AV hierarchy/nomination work: what cutscenes, in-engine sequences, trail
 
 ## Recommended reading order
 
-1. `WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md`
-2. `WUWA_LYNAE_EVIDENCE_AND_FALSIFICATION_MATRIX.md`
-3. `WUWA_LYNAE_RELATIONSHIP_AND_STATE_PROFILE.md`
-4. `WUWA_LYNAE_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`
-5. `WUWA_LYNAE_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md`
-6. `WUWA_LYNAE_RECONSTRUCTIVE_PROFILE_PRE_AV.md`
-7. `WUWA_LYNAE_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md`
-8. `WUWA_LYNAE_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md`
+1. `01 Evidence and Source-Facing/WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md`
+2. `01 Evidence and Source-Facing/WUWA_LYNAE_EVIDENCE_AND_FALSIFICATION_MATRIX.md`
+3. `01 Evidence and Source-Facing/WUWA_LYNAE_RELATIONSHIP_AND_STATE_PROFILE.md`
+4. `01 Evidence and Source-Facing/WUWA_LYNAE_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`
+5. `03 Audiovisual and Voice/WUWA_LYNAE_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md`
+6. `02 Reconstruction/WUWA_LYNAE_RECONSTRUCTIVE_PROFILE_PRE_AV.md`
+7. `04 Validation and Readiness/WUWA_LYNAE_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md`
+8. `03 Audiovisual and Voice/WUWA_LYNAE_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md`
 
 ## Promotion boundary
 
@@ -207,7 +216,7 @@ The WUWA governance documents currently require the same analytical transaction 
 - revision controls;
 - corpus manifest/audit.
 
-This packet therefore remains local working material until the owner authorizes a coordinated repository transaction.
+The owner has now authorized the coordinated authority adoption recorded above. The packet is current provisional text/audio analysis; the original preparation checklist does not veto that adoption.
 
 ## One-sentence working thesis
 

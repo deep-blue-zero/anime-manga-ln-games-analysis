@@ -601,3 +601,229 @@ Reference-only ZIP artifacts:
 | `1NlAqE7T4AElv77wXMFagVEVO9kEYAjyC` | `Classroom of the Elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_02_V05_TO_V07_5_RECONCILED.zip` | 397329 | `00c93e9526b4087ddb76e5ba1a4ee90a3ab0ac8c5338bfb6b054dd8c83438b2f` | `REFERENCE_DRIVE` |
 | `1T5gozZ9VKrM3riuZjc5w-esgHhsyrZ-1` | `Classroom of the Elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_03_V08_TO_V10_RECONCILED.zip` | 393042 | `1f44070837a4040ce3390914590fa10340e4ceec549bb821e0bae5ab06971ca6` | `REFERENCE_DRIVE` |
 | `1Sa0HV69aDmarWsInqpUlQf3KC_MkOmfS` | `Classroom of the Elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_FINAL_EVIDENCE_LOCK_PACKAGE.zip` | 232227 | `4690fdfff02bde9ad32e06710a9685163c9793e77e3ad7a2343fb7e427c212df` | `REFERENCE_DRIVE` |
+
+## Current reference additions — 2026-10-12: Medalist bootstrap
+
+This section indexes the 22 Drive objects actually cited by the [Medalist source and scope map](../../series/medalist/00%20Frameworks%20and%20Methods/MEDALIST_SOURCE_AND_SCOPE_MAP.md) at source commit `000d1bfbb60ec82fc99be67930bc9a33f91e8c85`: 15 source-book candidates, five folders and two routing/reference documents. Live Drive metadata reads on **2026-10-12 at 04:26 UTC** verified each object's ID, exact name, provider MIME type and returned parent ID. The book names, MIME types and reported byte sizes match the original cited inventory.
+
+This is a current reference-index addition, separate from the frozen migration sections above. Historical rows, aggregate counts, source hashes and migration crosswalks remain unchanged. All listed objects remain external to Git; only sanitized routing metadata is recorded here. Parent IDs are metadata returned for the cited objects, not additional source admissions.
+
+### Cited folder identities
+
+All five objects have provider MIME type `application/vnd.google-apps.folder`. Folder identity verification does not reassert the bootstrap's historical child counts or empty-folder observations.
+
+| Cited role | Exact provider name | Drive folder ID | Returned parent ID |
+| --- | --- | --- | --- |
+| Canonical evidence root | `Manga / Anime / LN / Games — Primary Sources and Derived Evidence` | `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy` | `0AG4avie5yJngUk9PVA` |
+| Medalist evidence folder | `Medalist` | `1LkDT3QktWHcaO3trg5562Jly4uDWQqBx` | `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy` |
+| Filename-labeled Japanese candidates | `Japanese EPUBs` | `1Ia6iImQH3iI4FR6Z9-I2cFwa7u3toHCC` | `1LkDT3QktWHcaO3trg5562Jly4uDWQqBx` |
+| Filename-labeled English candidates | `English CBZs` | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` | `1LkDT3QktWHcaO3trg5562Jly4uDWQqBx` |
+| Source audit / manifest routing | `Source Audit and Manifests` | `1wM22Yp2oMHVvYLzOyPwfML9txl4r-Ig0` | `1LkDT3QktWHcaO3trg5562Jly4uDWQqBx` |
+
+### Original 15 cited book candidates
+
+These are exactly the objects in the source map's [visible source objects](../../series/medalist/00%20Frameworks%20and%20Methods/MEDALIST_SOURCE_AND_SCOPE_MAP.md#visible-source-objects) table. Volume and language strings below remain filename assertions. Metadata identity and MIME do not verify language, edition, publisher, translation credits, chapter coverage, content or byte integrity. No source payload was downloaded or opened, and no new source checksum is asserted.
+
+| Original source key | Exact provider filename | Drive file ID | Provider MIME | Reported bytes | Returned parent ID |
+| --- | --- | --- | --- | ---: | --- |
+| `MD-MG-JP-TB-V013-W01` | `Medalist - Volume 13 [Japanese].epub` | `1ZurT7W0r8c9JatVe15ziXnfYDPfaNmd2` | `application/epub+zip` | 94128894 | `1Ia6iImQH3iI4FR6Z9-I2cFwa7u3toHCC` |
+| `MD-MG-JP-TB-V014-W01` | `Medalist - Volume 14 [Japanese].epub` | `1muyhWS4KS-ERSLSqM9t0R06CtB2oS4uK` | `application/epub+zip` | 115194640 | `1Ia6iImQH3iI4FR6Z9-I2cFwa7u3toHCC` |
+| `MD-MG-JP-TB-V015-W01` | `Medalist - Volume 15 [Japanese].epub` | `1k_M910KnNmC1Q309YY1A8cAkqZbAn3zG` | `application/epub+zip` | 98048078 | `1Ia6iImQH3iI4FR6Z9-I2cFwa7u3toHCC` |
+| `MD-MG-EN-TB-V001-W01` | `Medalist - Volume 01 [English].cbz` | `1kO90RUf9iRaDjPN0rODjv3XEujQTRzDV` | `application/x-cbz` | 440690151 | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` |
+| `MD-MG-EN-TB-V002-W01` | `Medalist - Volume 02 [English].cbz` | `1lSaL5RQn64sng4VbckniF2_QweU4qiee` | `application/x-cbz` | 440109734 | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` |
+| `MD-MG-EN-TB-V003-W01` | `Medalist - Volume 03 [English].cbz` | `1yTZZ0w1HEnPF3374NGKKn8xXVljEoV5U` | `application/x-cbz` | 400741843 | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` |
+| `MD-MG-EN-TB-V004-W01` | `Medalist - Volume 04 [English].cbz` | `1zYxNZKMyVut8052EVxERFoMs7dVjgSLB` | `application/x-cbz` | 452294077 | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` |
+| `MD-MG-EN-TB-V005-W01` | `Medalist - Volume 05 [English].cbz` | `1e9Ne49ZF4ujWLqghTF4piz-lirXFGdN-` | `application/x-cbz` | 486552224 | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` |
+| `MD-MG-EN-TB-V006-W01` | `Medalist - Volume 06 [English].cbz` | `1ujbaLmnBb6PwKwfjJBFoirRiP2vlRKM5` | `application/x-cbz` | 486815367 | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` |
+| `MD-MG-EN-TB-V007-W01` | `Medalist - Volume 07 [English].cbz` | `1QgUkgZGykHXlyBlR3RYB2RiGPoGys4WK` | `application/x-cbz` | 455399881 | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` |
+| `MD-MG-EN-TB-V008-W01` | `Medalist - Volume 08 [English].cbz` | `1Xgvf5DSdzIVJe-fSM7kQYtt_Q9HrQTtm` | `application/x-cbz` | 440075326 | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` |
+| `MD-MG-EN-TB-V009-W01` | `Medalist - Volume 09 [English].cbz` | `1cu0JHw2kNqhIWcHqHLVzABtpf5p3f2tK` | `application/x-cbz` | 474191616 | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` |
+| `MD-MG-EN-TB-V010-W01` | `Medalist - Volume 10 [English].cbz` | `1O107KXxAEW_SiqWdA1JSUYeXx61mYZJ0` | `application/x-cbz` | 353804557 | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` |
+| `MD-MG-EN-TB-V011-W01` | `Medalist - Volume 11 [English].cbz` | `1_ATC9YnJG9f2Dpx36T8YCvW-ihLiuyAP` | `application/x-cbz` | 204576469 | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` |
+| `MD-MG-EN-TB-V012-W01` | `Medalist - Volume 12 [English].cbz` | `1q4oQS2Ip7NbjX1vCYup07WwfAc4P3JcD` | `application/x-cbz` | 167263395 | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` |
+
+### Cited reference documents
+
+These two documents were cited for routing and historical reconnaissance. This repair verifies their metadata only; it does not freshly certify their contents, inventory completeness, current revisions or historical authority hashes.
+
+| Cited role | Exact provider name | Drive file ID | Provider MIME | Returned parent ID |
+| --- | --- | --- | --- | --- |
+| Shared evidence inventory | `01_SERIES_AND_EVIDENCE_INVENTORY` | `1bfPi00AKmELjeXmdCudU_4HqOknTIOODANEi12GDJFw` | `application/vnd.google-apps.document` | `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy` |
+| Historical Drive master index | `MANGA_ANIME_DRIVE_INDEX.md` | `1o1oJ-LM7FgIzX-x8XQB34ucKYx-TeR8-` | `text/markdown` | `18sF-o3T_7SUsaVb3zXwvjkYX9gtGXsf7` |
+
+### Admission and preservation boundary
+
+This dated section covers the original cited set only. Later or otherwise uncited intake is not inventoried, authenticated or admitted by this repair. The source map's earlier observations, including its then-visible Japanese V01–V12 absence, remain historical statements rather than a new assertion about today's folder contents.
+
+The [Medalist entrypoint](../../series/medalist/CURRENT_STATE_AND_CORPUS_MAP.md) remains `INITIAL`, `active_provisional` and `OWNER_REVIEW_PENDING`, with `SEQUENTIAL_ANALYSIS_LOCK = CLOSED`. Structurally verified, admitted, narratively inspected and sequentially completed source units remain zero; the seven longitudinal ledgers retain zero evidence rows. Owner architecture review remains the next permitted operation. This metadata repair does not promote analytical authority, unlock sources or change any Medalist analytical artifact.
+
+## Youjo Senki CMR primary-source reference routing - 2026-10-12
+
+This section indexes fourteen source EPUBs, their source-audit manifest and the source folder used by the published Youjo Senki CMR continuation. The operational references are recorded in the pinned [integrity reproduction audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/44660b7e1f0feefbe1f1e30bcfac35ae669b843d/series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_INTEGRITY_REPRODUCTION_AUDIT.md#L20-L43), [CMR retrieval instructions](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/44660b7e1f0feefbe1f1e30bcfac35ae669b843d/series/youjo-senki/CMR/README.md#L34-L46) and [diagnostic source-navigation contract](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/44660b7e1f0feefbe1f1e30bcfac35ae669b843d/series/youjo-senki/CMR/Diagnostics/YOUJO_SENKI_TANYA_DIAGNOSTIC_NAVIGATION.md#L43-L68). The source-folder route also predates that continuation on `main`.
+
+Provider metadata was verified on 2026-10-12 at 22:25 UTC: the exact names, IDs, MIME types, file byte sizes and returned parent IDs below matched the cited objects. This is metadata verification only. The metadata response did not expose version or checksum fields; no new Drive-body download, source-byte hash verification, language authentication or narrative reading is claimed. The locked hashes in the pinned integrity audit remain that audit's historical source-integrity evidence.
+
+### Source folder
+
+| Exact provider name | Drive folder ID | Provider MIME | Returned parent ID |
+| --- | --- | --- | --- |
+| `Youjo Senki` | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` | `application/vnd.google-apps.folder` | `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy` |
+
+### Source EPUBs and audit manifest
+
+| Cited role | Exact provider name | Drive file ID | Provider MIME | Provider bytes | Returned parent ID |
+| --- | --- | --- | --- | ---: | --- |
+| `V01` | `Youjo Senki - Volume 01.epub` | `1U8EVl8O36c0UNufRZ8FyECQn1OdX66O3` | `application/epub+zip` | 4336476 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V02` | `Youjo Senki - Volume 02.epub` | `1FDlbddgXsbMIM3owNB1gl-Sevri9qkkm` | `application/epub+zip` | 18107855 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V03` | `Youjo Senki - Volume 03.epub` | `1rf02o6MhrDg3ZZ5MRAcFl351P9RJVIOy` | `application/epub+zip` | 4415642 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V04` | `Youjo Senki - Volume 04.epub` | `1drbI91vxz7KlHmg18bRQcHqZi0TERZFr` | `application/epub+zip` | 16201497 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V05` | `Youjo Senki - Volume 05.epub` | `1gr_NDKTkXiuuJxin59jav-EpzL9nC_tU` | `application/epub+zip` | 19322381 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V06` | `Youjo Senki - Volume 06.epub` | `1kDkWgFZxp-FFXNPRaKGUpBSLsw3bs1U4` | `application/epub+zip` | 17194950 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V07` | `Youjo Senki - Volume 07.epub` | `1Vod5TbjC9RhC8LUrLnYx8kNDmUfl05gx` | `application/epub+zip` | 16373031 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V08` | `Youjo Senki - Volume 08.epub` | `1yQtGtiZhfEJiQwUQaDXt6jJdmYwe8Eqb` | `application/epub+zip` | 14295126 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V09` | `Youjo Senki - Volume 09.epub` | `1pCgiYrXBISzrIuHVMTuxZTZZ9WQ8i0PZ` | `application/epub+zip` | 1762494 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V10` | `Youjo Senki - Volume 10.epub` | `1tym5uP66m2NI9CY-Rw5luqx1CVBCl1MN` | `application/epub+zip` | 20774463 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V11` | `Youjo Senki - Volume 11.epub` | `1zQw9hDWovkBGhA3KzGcBPC1jdGcolEyQ` | `application/epub+zip` | 24762051 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V12` | `Youjo Senki - Volume 12.epub` | `1pDDFx2jWBxJ0rCzYXQnPEy4TBnyZaeVK` | `application/epub+zip` | 21178558 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V13` | `Youjo Senki - Volume 13.epub` | `1-kQGGtMKjv5GODAY2Xdbx-7PxGJ7lEm4` | `application/epub+zip` | 22572251 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V14` | `Youjo Senki - Volume 14.epub` | `1YHzsVf_qrg9_rqm2QjqTsUyzhKC0Navc` | `application/epub+zip` | 24047512 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| Primary-source audit | `audit_manifest.json` | `1JXarPgypYVSdzAexUyyOa4qH8mxlyHcx` | `application/json` | 8798 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+
+### Reference and preservation boundary
+
+The EPUBs and audit payload remain outside Git. These entries provide sanitized reference routing; they do not change the source boundary, analytical conclusions, frozen evidence, migration crosswalks or existing CMR object records. Historical migration counts and dispositions remain historical.
+
+At this indexing checkpoint, the cited CMR continuation remains held in [draft PR 154](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/154). This metadata repair does not integrate that analysis, certify its models or QA, or promote its authority. Its analytical completion and review obligations remain separate.
+
+## Silent Witch V01 source-lock reference routing
+
+On 2026-10-13 UTC, the [V01 technical source lock](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/22243bb5c7b401b02ac3d98c17e7165fa43f2310/series/silent-witch/01%20Source%20Lock%20and%20Inventory/SW_LNJP_V01_SOURCE_LOCK.md#stable-external-evidence) independently retrieved and verified the exact source bytes and retained manifest. The [source map](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/22243bb5c7b401b02ac3d98c17e7165fa43f2310/series/silent-witch/01%20Source%20Lock%20and%20Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md#recovery-and-future-ingestion-dependency) retains the wider qualified collection inventory. These are new technical references, not amendments to frozen migration crosswalks or historical disposition counts.
+
+Collection metadata was verified on 2026-10-13 at 01:36 UTC; the folder listing at 01:37 UTC returned exactly eighteen direct files. The table records those observed names, IDs, MIME types, byte sizes and parent IDs for twelve numbered EPUBs, four companion EPUBs, the retained report and manifest, and their folder. Technical checks and hashes below are attributed to the producer's published records at the pinned commit. This metadata repair did not download or inspect EPUB bytes or the local derivative package, and metadata review does not certify those technical checks.
+
+| Cited object | Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID |
+|---|---|---|---|---|
+| Source folder | Silent Witch | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` | application/vnd.google-apps.folder | `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy` |
+| V01 witness | Secrets of the Silent Witch - Volume 01 [Japanese].epub | `132fYBc7_pAdS0Z0zI3NQW3QwjjQFYrG9` | application/epub+zip / 17,235,698 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| V02 | Secrets of the Silent Witch - Volume 02 [Japanese].epub | `1eABTDSSBD_6MVFwNQFv84ZpRvBPooDTX` | application/epub+zip / 16,295,034 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| V03 | Secrets of the Silent Witch - Volume 03 [Japanese].epub | `1PNgiFIPEE5pA4bgvef44FihdhW2NaRjL` | application/epub+zip / 16,512,601 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| V04 | Secrets of the Silent Witch - Volume 04 [Japanese].epub | `1SkjAXBJj5Uol4DDhItKO3ZGzhw3Gd9jC` | application/epub+zip / 17,309,899 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| V05 | Secrets of the Silent Witch - Volume 05 [Japanese].epub | `1pcdcOSYMh62VHDk7HTZikFg1kLiD3Oha` | application/epub+zip / 20,217,305 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| V06 | Secrets of the Silent Witch - Volume 06 [Japanese].epub | `18nJ0wEdgIde7Yr0EEZSrlfAgPMpgm_Cd` | application/epub+zip / 21,414,746 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| V07 | Secrets of the Silent Witch - Volume 07 [Japanese].epub | `1rszxBH8oVrTmN_5FehnB7TurFRzkmr8Z` | application/epub+zip / 20,577,485 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| V08 | Secrets of the Silent Witch - Volume 08 [Japanese].epub | `1dUcb1hHVZgcGmc5at3Pvq078hIv4dB5B` | application/epub+zip / 19,650,208 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| V09 | Secrets of the Silent Witch - Volume 09 [Japanese].epub | `1jGjf4ixCS9oyzonCld2-JNQ5da4ytoCR` | application/epub+zip / 3,055,000 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| V10 | Secrets of the Silent Witch - Volume 10 [Japanese].epub | `1jZPdtfB7zqfJot-h1T4k1Mk93IFU1LPf` | application/epub+zip / 17,190,113 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| V11 | Secrets of the Silent Witch - Volume 11 [Japanese].epub | `1tdMKKV-OeirdaTaBpuMqczSJjDN6bHeE` | application/epub+zip / 18,283,771 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| V12 | Secrets of the Silent Witch - Volume 12 [Japanese].epub | `1OJCXk0VetLBW3lRo7alhlI_G9Iuzhxml` | application/epub+zip / 20,781,154 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| Companion: 04 After | Secrets of the Silent Witch - Volume 04 After [Japanese].epub | `1qb456_DaN1obMgMKNSDELsT4HJv8fXGn` | application/epub+zip / 23,490,806 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| Companion: Another 01 | Secrets of the Silent Witch - Another - Part 01 (Upper) [Japanese].epub | `1ClQ5kH6HLbo7qpegNRd-h2dCs6HLbVO7` | application/epub+zip / 19,598,231 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| Companion: Another 02 | Secrets of the Silent Witch - Another - Part 02 (Lower) [Japanese].epub | `16hDoUt0JyMZ28brTuDxfoxT6-Wdn1L9h` | application/epub+zip / 17,222,919 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| Companion: 09 Extra | Secrets of the Silent Witch - Volume 09 Extra [Japanese].epub | `1W5gi94fwkJ-no5NuEYdfy8h2n4J1rDcr` | application/epub+zip / 31,848,077 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| Retained manifest | audit_manifest.json | `12uKVr1bAXZKlhYBzlGntvN5kNLDetjzU` | application/json / 644,164 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| Retained report | AUDIT_REPORT.md | `1bXhAGOSzRO6BECVIG_cp4jDH-Oj57ysL` | text/markdown / 10,763 at bootstrap metadata verification | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+
+The computed V01 SHA-256 is `d3d8cca8fc271f29cc96a56e7e92b898bfebe4f744b9f3fd424fd8789686968d`, matching the retained fingerprint. The manifest body SHA-256 is `2ddd2ec5721e77658ae25d2534e2e7b93ac1dd475ce015c8d82ccf9a2b9c26da`. Current metadata for V01, the manifest and source folder matched their observed identities; the report remains the already verified bootstrap reference.
+
+The derivative `SW-LNJP-V01_FIDELITY_LOCATORS_V1.zip` remains local, SHA-256 `33fade35c657bd95b120878b613d999d61dad2569f1a10e9418a76a7bd656f1e`. The owner explicitly chose local retention and a CLOSED gate after upload approval was rejected. No derivative Drive ID, uploaded source, narrative reading, changed source bytes or OPEN execution is claimed. Raw text, locator maps and images remain outside Git. The [foundation/gate report](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/22243bb5c7b401b02ac3d98c17e7165fa43f2310/series/silent-witch/08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) records the acceptance, checks and stop.
+
+At this pinned checkpoint, the producer records an accepted foundation, a technical V01 source lock, local-only derivative retention, sequential lock `CLOSED` and high-water mark `PRE_V01`. Earlier bootstrap acceptance-pending statements remain historical. This index-only repair imports no bootstrap or generated routing files into main and grants no narrative-reading authorization or literary coverage. All previous index bytes and frozen migration records remain preserved.
+
+## Youjo Senki CMR native predecessor cutover references - 2026-10-13
+
+This dated addendum records the six existing Markdown Drive predecessors in the pinned [typed cutover receipt](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/55211c434a1fe2cd24161bfc8aee64bfd8bb4175/series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json) (SHA-256 `4f8431a132ea8d24b44b239cbbec55ec459ff5f0e3826b3abcd990f0cac260de`) and [readable cutover audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/55211c434a1fe2cd24161bfc8aee64bfd8bb4175/series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md#verified-cmr-analytical-authority-and-native-predecessor-pointers). Both references identify source commit `55211c434a1fe2cd24161bfc8aee64bfd8bb4175`; the destinations below are pinned to that same recorded source.
+
+The analytical corpus was accepted through [PR154](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/154) at main `813cc91553f99e2de7c357794897bb8c59b2f548`. The earlier source-reference addendum's draft-PR154 wording remains a historical indexing checkpoint. The later wrapper and receipt source `55211c434a1fe2cd24161bfc8aee64bfd8bb4175` was integrated separately through [PR164](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/164) at main `6e139d9bb82fc9d07c16bbefd2b3f15211a691cb`. The pinned receipt's original analytical acceptance remains `813cc91553f99e2de7c357794897bb8c59b2f548`; the later wrapper integration is a separate recorded checkpoint. This reference entry records those published states and does not independently confer analytical, method or wrapper authority.
+
+On 2026-10-13 at 23:27 UTC, complete native raw-file responses independently reproduced every current byte count and SHA-256 below. Provider metadata matched the exact existing IDs, names, parent IDs and `text/markdown` MIME types. Revision listings contained the recorded preceding and current revisions. These are current cutover observations; the original G7 migration records and their historical hashes remain unchanged.
+
+| Recorded role | Exact provider name | Existing Drive ID | Returned parent ID | Current raw bytes | Current raw SHA-256 |
+| --- | --- | --- | --- | ---: | --- |
+| `METHOD` | `YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md` | `16tMcTb0rZZ7U3gjidf6bzJ-TravNQcCh` | `1Ul_BbZkw9UkSOrDik3hmWVfcK84WWGvW` | 44995 | `f22e3c66a2e7c39a2c78d2a1c22042407f8e0b50e99bc99013f7644f69f34e99` |
+| `READINESS` | `YOUJO_SENKI_CHARACTER_RECONSTRUCTION_READINESS_AUDIT.md` | `1LYRzJS4AL6jHAmIAjkaOC-HIWQQdBp51` | `1aDiFqWjWHZ53xX-lBvjMLfA6eN89Z7SZ` | 27955 | `dc355a7c07f97f36a39d62c97d98a935dcc3da227ed54ac5370d8224da7a5a4e` |
+| `EVIDENCE_README` | `README.md` | `1d6vk6xFzkML17mwbUmBrWyxNxftptkv4` | `1aDiFqWjWHZ53xX-lBvjMLfA6eN89Z7SZ` | 8900 | `0e890f290832f4cca1275de796b832471aa204a3a9eba06558fc7387d21b0205` |
+| `MODELS_README` | `README.md` | `1VJj8j-KwC2ODJT7mkJcX1zvExrY4Cvl2` | `1AMNfngVWTSm_4O0XadlJjHWjR8hMw21X` | 2799 | `df71515b379c300d1ab870868eff4d865bdf0ade03433614cc3ac9a912942aeb` |
+| `RELATIONS_README` | `README.md` | `1B9k4mqImDwLNhZz4jrbXi85h5fSsN7dP` | `1TomsYaw1BmQMRp-JuMils2PeHzl375uo` | 2610 | `c5e474b39a72d85643b85a9ae4f2d7b2b739fa38269eed501cb0924872e089f0` |
+| `QA_README` | `README.md` | `1Z7UPnnWeFoO2tpXxv1NfvWtcMkPwt63V` | `1dPqF3RjqawccCi8LA59QVMXsp2KDvH63` | 2618 | `f3f5a9b34a558b128c5305e056570050253a32ce5d726d9525b49f2168d95ce5` |
+
+### Retained revisions and recorded Git destinations
+
+| Recorded role | Retained preceding revision | Current revision | Receipt destination at the pinned source |
+| --- | --- | --- | --- |
+| `METHOD` | `0B24avie5yJngSElKajFBL2hDaFE4Qm9vazUweGdMcldtT3BzPQ` | `0B24avie5yJngejRIbS9sa250OEdYeDliWXpFSVpuTHNYdkhvPQ` | [YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/55211c434a1fe2cd24161bfc8aee64bfd8bb4175/series/youjo-senki/CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md) |
+| `READINESS` | `0B24avie5yJngQ3BBWHVLcXRXQXRleW5KWkR2Nis0dzBTdEpzPQ` | `0B24avie5yJngaFgrNmNSR2x4MXQ2VElJOHc1c3kwN1JhTGVvPQ` | [YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.md](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/55211c434a1fe2cd24161bfc8aee64bfd8bb4175/series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.md) |
+| `EVIDENCE_README` | `0B24avie5yJngUzQvNVpQY3I4TTRqNlQvOUp3SjdMN1N5Slo4PQ` | `0B24avie5yJngeUFjWHBkcWZ1MXFWQU4vY3NyeDNlUzYxaERRPQ` | [README.md](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/55211c434a1fe2cd24161bfc8aee64bfd8bb4175/series/youjo-senki/CMR/README.md) |
+| `MODELS_README` | `0B24avie5yJngKzBzenBUZTE4WWE1dElxTFFTMjA1KzArVVY0PQ` | `0B24avie5yJngSkJBVmxRTzQwRlJOc1FMd1RpOC9nNS8xZ0drPQ` | [YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/55211c434a1fe2cd24161bfc8aee64bfd8bb4175/series/youjo-senki/CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md) |
+| `RELATIONS_README` | `0B24avie5yJngZS9mNlBjVStKbGNxekhzN2U5OURHbVdrblZjPQ` | `0B24avie5yJngUUQ5aWUrdlBNM214dWgwcWtwby9HdFQrWW44PQ` | [YOUJO_SENKI_DIRECTED_RELATIONSHIP_REGISTER.md](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/55211c434a1fe2cd24161bfc8aee64bfd8bb4175/series/youjo-senki/CMR/Relations/YOUJO_SENKI_DIRECTED_RELATIONSHIP_REGISTER.md) |
+| `QA_README` | `0B24avie5yJngRUZXb3M3T1FqTTFJWXNiNk54cm54bVdyamw4PQ` | `0B24avie5yJngdFNkd1lWaVRVYzlnN2RxVWxJc3BTWElwNFlVPQ` | [YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA.md](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/55211c434a1fe2cd24161bfc8aee64bfd8bb4175/series/youjo-senki/CMR/QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA.md) |
+
+The pinned receipt retains the predecessor sizes and hashes, original substantive-body hashes, and the evidence for metadata/banner-only updates and preserved identities. Its private proof-receipt hashes are provenance references, not newly inspected private proof files. This index verification read current raw bytes and revision metadata; it did not re-certify the receipt's original-body or permission-continuity proofs.
+
+Source EPUBs and bulk extracted evidence retain their Drive evidence role. Git interpretation, source classes, model and QA qualifications, and provisional ceilings remain governed by their accepted records and separate review. The original readiness predecessor remains historical with its current-authority veto; its recorded destination is the later qualified re-audit. All prior index bytes, frozen migration crosswalks, analytical files and native Drive objects are preserved by this additive reference repair.
+
+## Shuukura V2 retained locator and source evidence references - 2026-10-17
+
+These three `REFERENCE_DRIVE` ZIPs are recorded in the published source commit `28f178a21cd0b68158f7d5fbb14cf56f528ab96b`. The links below pin each evidence reference to that commit. Git retains analytical interpretation authority; the retained ZIP payloads remain Drive-only evidence.
+
+The authorized Drive metadata check supplied for this repair (2026-10-17 at 19:31 UTC) matched each stable ID, exact filename, `application/zip` MIME type and byte size below. Checksums, revisions and parent IDs were not returned. The SHA-256 values and member counts are producer-recorded claims from the pinned Git records, not independently recomputed or verified by this index repair.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Producer-recorded SHA-256 (unverified) | Producer-recorded members (unverified) | Pinned Git reference |
+| --- | --- | --- | --- | ---: | --- |
+| `SHUUKURA_V2_BW07_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `17XVliD1tbuqQevhWnHPT_w8N2m6ef1Gk` | `application/zip` / 40985 | `7667bf9792c365bd8ee0d685f7cf76df8c7f9a9b8108e6a2646a1e6d9aedcfd5` | 16 | [BW07 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/28f178a21cd0b68158f7d5fbb14cf56f528ab96b/series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V07_DEEP_READING.md#L33) |
+| `SHUUKURA_V2_BW09_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1FFOAO3-XeXVXdP-tVfVtqsO0R5Ig1JEA` | `application/zip` / 43616 | `0ed99ecc3b94d0ff2ff20c26649fd168dc873f4335ff69197996c341ff32ae6f` | 17 | [BW09 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/28f178a21cd0b68158f7d5fbb14cf56f528ab96b/series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V09_DEEP_READING.md#L33) |
+| `SHUUKURA_V2_KSS01_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1BwKE9IGEw-MC0-J2bUzTG1t6eeY8zCSL` | `application/zip` / 61843 | `fb14022272c72fcfe74ab2c73deb8e9a680f9ffcb69026083f4aed3f1e139ca1` | 20 | [KSS01 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/28f178a21cd0b68158f7d5fbb14cf56f528ab96b/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_01_TRANSACTION_AUDIT.md#L36) |
+
+This additive reference entry preserves prior index content and historical migration dispositions. It does not confer semantic acceptance, source admission or authority promotion; the analytical records and their separate review obligations remain governing.
+
+### KSS02 retained evidence reference - 2026-10-17
+
+An additional `REFERENCE_DRIVE` ZIP is cited in published source commit `da0ed6b45dfe429a12505cc5a0f11bb31171e007`. The authorized provider metadata check supplied for this repair (2026-10-17 at 20:12 UTC) matched the exact filename, stable ID, `application/zip` MIME type, byte size and returned parent ID below. No checksum or revision was returned. The SHA-256 value and member count remain producer-recorded, independently unverified claims from the pinned Git record.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID | Producer-recorded SHA-256 (unverified) | Producer-recorded members (unverified) | Pinned Git reference |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `SHUUKURA_V2_KSS02_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1N421XTKAnNizVpBri2Q-HpYGEUtrmCF1` | `application/zip` / 78212 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `2cb49638bcf4eb3d957d8f5ba80fd863a7214c9e57075961bbf75e416dc2aa4a` | 22 | [KSS02 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/da0ed6b45dfe429a12505cc5a0f11bb31171e007/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_02_TRANSACTION_AUDIT.md#L38) |
+
+Git retains analytical interpretation authority; this ZIP remains Drive-only evidence. This metadata-only addition grants no semantic acceptance, source admission or authority promotion and preserves the prior three entries and all earlier index content.
+
+### KSS03 retained evidence reference - 2026-10-17
+
+An additional `REFERENCE_DRIVE` ZIP is cited in published source commit `e3603f3a7a818f4ae4313fe42acfb0df844d6192`. The authorized provider metadata check supplied for this repair (2026-10-17 at 20:52 UTC) matched the exact filename, stable ID, `application/zip` MIME type, byte size and returned parent ID below. No checksum or revision was returned. The SHA-256 value and member count remain producer-recorded, independently unverified claims from the pinned Git record.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID | Producer-recorded SHA-256 (unverified) | Producer-recorded members (unverified) | Pinned Git reference |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `SHUUKURA_V2_KSS03_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1u0PPivSGqdxmeeEidzZwLBSdmByWj-g0` | `application/zip` / 63075 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `2b0575e87751164d5cc8e2c3f97432f00d965a5a0f4e589e81ed0b869e39c19e` | 22 | [KSS03 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e3603f3a7a818f4ae4313fe42acfb0df844d6192/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_03_TRANSACTION_AUDIT.md#L38) |
+
+Git retains analytical interpretation authority; this ZIP remains Drive-only evidence. This metadata-only addition grants no semantic acceptance, source admission or authority promotion and preserves the prior four entries and all earlier index content.
+
+### KSS04 retained evidence reference - 2026-10-17
+
+An additional `REFERENCE_DRIVE` ZIP is cited in published source commit `9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217`. The authorized provider metadata check supplied for this repair (2026-10-17 at 21:12 UTC) matched the exact filename, stable ID, `application/zip` MIME type, byte size and returned parent ID below. No checksum or revision was returned. The SHA-256 value and member count remain producer-recorded, independently unverified claims from the pinned Git record.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID | Producer-recorded SHA-256 (unverified) | Producer-recorded members (unverified) | Pinned Git reference |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `SHUUKURA_V2_KSS04_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1XNNlrDaGiR3LoTon3ZBGFNVdhsKx7uNe` | `application/zip` / 89516 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `1b9f68034ffab39a5abad7a4e6db68ad7fefd36d28b99750bb280d99a7229cda` | 22 | [KSS04 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_04_TRANSACTION_AUDIT.md#L48) |
+
+Git retains analytical interpretation authority; this ZIP remains Drive-only evidence. This metadata-only addition grants no semantic acceptance, source admission or authority promotion and preserves the prior five entries and all earlier index content.
+
+### KSS05 retained evidence references - 2026-10-17
+
+These two additional `REFERENCE_DRIVE` ZIPs are cited in published source commit `8fd720135c078b43873797d9d207da76672a8c17`. The authorized provider metadata check supplied for this repair (2026-10-17 at 22:10 UTC) matched each exact filename, stable ID, `application/zip` MIME type, byte size and returned parent ID below. No checksum or revision was returned. SHA-256 values and member counts remain producer-recorded, independently unverified claims from the pinned Git records.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID | Producer-recorded SHA-256 (unverified) | Producer-recorded members (unverified) | Pinned Git reference |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `SHUUKURA_V2_KSS05_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1dS5RjfMecaJajSjoCY5XY5y5rFUfh-LG` | `application/zip` / 64365 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `6c29c6fbb4221405ba582e634551d330ef8fc77ef8512f236ea511a8dd70d5f9` | 24 | [KSS05 locator/source evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/8fd720135c078b43873797d9d207da76672a8c17/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_05_TRANSACTION_AUDIT.md#L44) |
+| `SHUUKURA_V2_KSS05_CLAIM_ROUTING_CORRECTION_EVIDENCE_20261017_A1.zip` | `1jPfqrZ-YBItGzDXZb4idOJ_-OH4vAZbf` | `application/zip` / 28459 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `08662e0d6c186bcd3a68fc026a8fbe3fd3320565ff19c301a9d651ef9001a53b` | 4 | [KSS05 claim-routing correction evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/8fd720135c078b43873797d9d207da76672a8c17/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_05_TRANSACTION_AUDIT.md#L60) |
+
+Git interpretation and Drive evidence roles remain unchanged. This metadata-only addition preserves the six earlier entries and all prior index content and grants no semantic acceptance, source admission or authority promotion.
+
+## Genocidal Organ targeted source-verification proof reference - 2026-10-17
+
+At this indexing checkpoint, [PR215](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/215) is draft and unmerged on `series/genocidal-organ`; both Git records below are pinned to its published source commit `00d9c7a7e7c5f5793ac14148a2280b32f0191494`. This entry imports no PR215 analytical changes.
+
+Supplied provider metadata identifies the exact JSON filename, stable ID, MIME type, byte size and parent below, with observed `shared=false`. The supplied independent reviewer downloaded the neutral proof JSON and reproduced its SHA-256. That authenticates proof identity only; underlying-source reproduction and semantics are not certified by this index repair.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID | Observed shared | SHA-256 reproduced by independent reviewer (proof identity only) | Pinned Git records |
+| --- | --- | --- | --- | --- | --- | --- |
+| `GO_G2_TARGETED_ADMITTED_SOURCE_VERIFICATION_20261017_V1.json` | `1kxfJWUKuyqB4AttSuUnWUsT2_Jp1c5RX` | `application/json` / 67596 | `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3` | `false` | `492b89465d69d1be0a94d5a6851567716fc4a47adc99cdb2e3220e4d03d830af` | [Source/scope map record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/00d9c7a7e7c5f5793ac14148a2280b32f0191494/series/genocidal-organ/00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SOURCE_AND_SCOPE_MAP.md#L529); [Execution receipt record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/00d9c7a7e7c5f5793ac14148a2280b32f0191494/series/genocidal-organ/07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_CONTINUATION_EXECUTION_RECEIPT.md#L617) |
+
+The proof remains `REFERENCE_DRIVE`. This metadata-only entry preserves all previous index content and grants no source admission, semantic acceptance or authority promotion. Source-branch publication and proof identity verification remain separate from analytical integration.

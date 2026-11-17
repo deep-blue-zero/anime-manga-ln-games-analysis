@@ -1,0 +1,200 @@
+[
+  {
+    "logical_id": "LILJA-P01",
+    "scope": "白線",
+    "role": "3dmv",
+    "duration_seconds": 166.463855,
+    "audio": {
+      "input_i": -13.76,
+      "input_tp": 0.36,
+      "input_lra": 4.6,
+      "input_thresh": -23.94,
+      "output_i": -15.43,
+      "output_tp": -1.5,
+      "output_lra": 4.3,
+      "output_thresh": -25.61,
+      "normalization_type": "dynamic",
+      "target_offset": -0.57
+    }
+  },
+  {
+    "logical_id": "LILJA-P02",
+    "scope": "白線",
+    "role": "official_mv",
+    "duration_seconds": 217.524535,
+    "audio": {
+      "input_i": -7.79,
+      "input_tp": 1.95,
+      "input_lra": 3.8,
+      "input_thresh": -17.82,
+      "output_i": -15.81,
+      "output_tp": -4.79,
+      "output_lra": 3.5,
+      "output_thresh": -25.83,
+      "normalization_type": "dynamic",
+      "target_offset": -0.19
+    }
+  },
+  {
+    "logical_id": "LILJA-P03",
+    "scope": "Campus mode!!",
+    "role": "3dmv",
+    "duration_seconds": 160.867846,
+    "audio": {
+      "input_i": -12.63,
+      "input_tp": -0.23,
+      "input_lra": 3.5,
+      "input_thresh": -22.75,
+      "output_i": -15.71,
+      "output_tp": -1.5,
+      "output_lra": 2.7,
+      "output_thresh": -25.8,
+      "normalization_type": "dynamic",
+      "target_offset": -0.29
+    }
+  },
+  {
+    "logical_id": "LILJA-P04",
+    "scope": "極光",
+    "role": "3dmv",
+    "duration_seconds": 196.742676,
+    "audio": {
+      "input_i": -14.05,
+      "input_tp": -0.42,
+      "input_lra": 9.0,
+      "input_thresh": -24.46,
+      "output_i": -14.62,
+      "output_tp": -1.5,
+      "output_lra": 8.0,
+      "output_thresh": -24.89,
+      "normalization_type": "dynamic",
+      "target_offset": -1.38
+    }
+  },
+  {
+    "logical_id": "LILJA-P05",
+    "scope": "Atmosphere",
+    "role": "3dmv",
+    "duration_seconds": 189.59093,
+    "audio": {
+      "input_i": -13.17,
+      "input_tp": -0.21,
+      "input_lra": 10.0,
+      "input_thresh": -23.44,
+      "output_i": -14.38,
+      "output_tp": -1.5,
+      "output_lra": 9.4,
+      "output_thresh": -24.58,
+      "normalization_type": "dynamic",
+      "target_offset": -1.62
+    }
+  },
+  {
+    "logical_id": "LILJA-P06",
+    "scope": "Atmosphere",
+    "role": "official_mv",
+    "duration_seconds": 269.328254,
+    "audio": {
+      "input_i": -8.98,
+      "input_tp": -1.04,
+      "input_lra": 12.1,
+      "input_thresh": -19.29,
+      "output_i": -13.97,
+      "output_tp": -1.5,
+      "output_lra": 8.9,
+      "output_thresh": -24.0,
+      "normalization_type": "dynamic",
+      "target_offset": -2.03
+    }
+  },
+  {
+    "logical_id": "LILJA-P07",
+    "scope": "ときめきエモーション / REVERSI",
+    "role": "3dmv",
+    "duration_seconds": 160.403447,
+    "audio": {
+      "input_i": -12.47,
+      "input_tp": 0.05,
+      "input_lra": 3.8,
+      "input_thresh": -22.61,
+      "output_i": -15.91,
+      "output_tp": -1.5,
+      "output_lra": 3.6,
+      "output_thresh": -26.03,
+      "normalization_type": "dynamic",
+      "target_offset": -0.09
+    }
+  },
+  {
+    "logical_id": "LILJA-P08",
+    "scope": "ときめきエモーション / REVERSI",
+    "role": "official_mv",
+    "duration_seconds": 209.049252,
+    "audio": {
+      "input_i": -8.14,
+      "input_tp": -0.1,
+      "input_lra": 5.6,
+      "input_thresh": -18.19,
+      "output_i": -15.03,
+      "output_tp": -1.5,
+      "output_lra": 4.2,
+      "output_thresh": -25.06,
+      "normalization_type": "dynamic",
+      "target_offset": -0.97
+    }
+  },
+  {
+    "logical_id": "LILJA-P09",
+    "scope": "ガラクタロード",
+    "role": "3dmv",
+    "duration_seconds": 164.04898,
+    "audio": {
+      "input_i": -13.24,
+      "input_tp": -0.45,
+      "input_lra": 3.8,
+      "input_thresh": -23.3,
+      "output_i": -16.31,
+      "output_tp": -1.5,
+      "output_lra": 3.5,
+      "output_thresh": -26.36,
+      "normalization_type": "dynamic",
+      "target_offset": 0.31
+    }
+  },
+  {
+    "logical_id": "LILJA-P10",
+    "scope": "ENDLESS DANCE",
+    "role": "3dmv",
+    "duration_seconds": 109.621406,
+    "audio": {
+      "input_i": -11.37,
+      "input_tp": 0.53,
+      "input_lra": 2.3,
+      "input_thresh": -21.52,
+      "output_i": -15.41,
+      "output_tp": -1.5,
+      "output_lra": 1.8,
+      "output_thresh": -25.53,
+      "normalization_type": "dynamic",
+      "target_offset": -0.59
+    }
+  },
+  {
+    "logical_id": "LILJA-P11",
+    "scope": "Howling over the World",
+    "role": "3dmv",
+    "duration_seconds": 110.666304,
+    "audio": {
+      "input_i": -13.55,
+      "input_tp": 0.16,
+      "input_lra": 5.7,
+      "input_thresh": -23.88,
+      "output_i": -14.79,
+      "output_tp": -1.5,
+      "output_lra": 4.4,
+      "output_thresh": -25.02,
+      "normalization_type": "dynamic",
+      "target_offset": -1.21
+    }
+  }
+]

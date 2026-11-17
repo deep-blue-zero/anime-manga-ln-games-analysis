@@ -12,12 +12,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-23'
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15: STRENGTHEN of §6.1 with an inference-labelled identification of the trainer's 'circumstances' as Rinami's assigned Love☆しすたぁず little-sister persona, and a wording REVISE of the §6.1 Rinami transition (GKM-SAA-274)."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM SUPPORT SERIES 01 DEEP READING
+
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** GKM-SAA-274: §6.1 gains an inference-labelled paragraph identifying the trainer's `あなたの事情` (`adv_csprt-1-0004_01` L65) as most probably Rinami's assigned Love☆しすたぁず little-sister persona (`adv_csprt-3-0064_03` L115, L123; `adv_csprt-2-0004_02` L71). The §6.1 Rinami REVISE is reworded (STRENGTHEN, wording REVISE) so that “little-sister” names an assigned persona, not an identity; the earlier wording is kept in the transition line. No other claim changes.
 
 ## 0. Scope, method, and principal finding
 
@@ -368,6 +373,8 @@ Rinami rehearses a grateful acting scene. The visual trainer says it is slightly
 
 The trainer knows Rinami's circumstances but asks her to temporarily remove them from the task and imagine someone close to her instead.
 
+**The trainer's “circumstances” (GKM-SAA-274; inference).** The scene does not say what `あなたの事情` refers to (`adv_csprt-1-0004_01` L65). The most probable referent is the little-sister idol persona Rinami was assigned in her first-year unit, Love☆しすたぁず. The trainer has just named `妹っぽさ` as the problem (L51), and Rinami repeats the word (L57). In Series 3, Rinami calls that period `『Love☆しすたぁず』時代の私`, and Sumika answers that she cannot picture Rinami as a `妹キャラ` (`adv_csprt-3-0064_03` L115, L123; Series 3 parts 051–075 reading §15). In Series 2, Rinami says of the little-sister manner, `私はうまくできなかったから` (`adv_csprt-2-0004_02` L71; Series 2 parts 001–025 reading §6). The trainer never names the unit, so this identification is an inference from cross-support evidence, not a line of this scene.
+
 Rinami repeats the same lines. The trainer immediately says the result is much better and that Rinami's own strengths are visible.
 
 This is a compact but very important role-authorship scene.
@@ -377,7 +384,7 @@ A preexisting “little sister” story about Rinami is not automatically the ro
 ### Claim transitions
 
 - **Rinami — STRENGTHEN:** authentic-feeling performance emerges through relational memory rather than fixed archetype imitation.
-- **Rinami — REVISE:** “little-sister identity” is not sufficient as an explanatory master key. It can itself become an artificial performance constraint.
+- **Rinami — REVISE (wording revised 2026-11-15, GKM-SAA-274):** the assigned “little-sister” persona is not sufficient as an explanatory master key. It is a persona Rinami was given, not an identity, and it can itself become an artificial performance constraint. Earlier wording: “little-sister identity” is not sufficient as an explanatory master key.
 - **Rinami — STRENGTHEN:** she can transform private relational feeling into professional acting without the relation being literally reenacted.
 
 ## 6.2 Rinami as actual older sister is stricter than the soft stereotype

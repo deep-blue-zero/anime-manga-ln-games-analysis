@@ -1,10 +1,10 @@
 ---
 series: MHA
 artifact_type: locator_index
-scope: V01-V35
+scope: V01-V42_PLUS_BOUNDED_SUPPLEMENTAL_ROUTING
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon Volume 1 through Volume 40
+source_boundary: Completed Japanese V01-V42 manga locators preserved; separately locked UA/UAN/UAG spine routing admitted for ordered supplemental reconciliation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -42,6 +42,20 @@ do_not_use_as_current_authority: false
 
 
 # MHA SP2 — Primary Source Locator
+
+## Current source-admissibility correction — continuation
+
+Logical book pages, raw archive filenames and paratext must be distinguished. The [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) records the exact CBZ hashes, actually inspected pages, mapping checks and inherited evidence. The following corrections govern retrieval without rewriting the historical volume locks.
+
+- **V27 → V28:** V27:p149 is the strike on Twice; V27:p179 is Tokoyami's arrival, not extraction. V27:p180 ends the narrative with Mirko. Hawks extraction is V28:p060–077, excluding the p062 chapter portrait. Any older “reached/extracted” endpoint here contributes arrival only to a V27 freeze.
+- **V31:** the extra `0002.png` creates a raw filename offset: logical pNNN maps to numeric filename NNN+1 in the cited story sequence. Logical p213 is raw 0214, the narrative endpoint. Logical p214–225 (raw 0215–0226) is non-sequential tail matter; there is no logical p226 source image. Do not shift chapter locators or confuse an image count of 226 with a logical endpoint.
+- **V36:** raw facing-page image index `i` contains logical right p(2i−2), left p(2i−1); use raw `floor((p+2)/2)`. Mirio's spoken apology is p170 and internal reconsideration p171. Big Three coordination is p173–179, Tamaki's received-belief reflection p181. p180 is authorial promotion, not Tamaki's thought. Jiro's effect includes rebellious wills, degraded control of the copied AFO factor and sensory delay (p082–092), not an unqualified sound-only mechanism.
+- **V37:** p148 is an author-shared Twitter kimono drawing. Exclude it from Shoji's in-world ordinary behavior. Valid anti-revenge/name/classmate exchange and childhood rescue memories are p140–142; adult professional/ordinary evidence is V42:p132,p163.
+- **V38:** Gentle's rescue/rehabilitation scenes are p054–059 and p081–083. p062 is an author recap, p063 a chapter cover and p064 the logo. Nagant's medically risky intervention is p065–068. Gentle experiences joy before noticing the students' cameras; p082–083 does not establish permanent absence of an audience.
+- **V39:** p146 is Tsukauchi's interpretation of All Might's risk; p155 supplies All Might's stated intention to fight to win. One does not transparently report the other actor's motive.
+- **V40:** p150 is an author Q&A interstitial. The offer imagined at p190 is rejected at p191; do not treat it as an enacted bargain. These are inherited direct-review findings, not newly inspected pages in this continuation.
+- **V41:** p110 Nana's blocking; p116 Tenko's hand contradiction; p121–123 continuing League-directed intent; p157–159 Eri's limited horn route; p168 Sero's rejection of necessary suffering; p175 Aoyama's mutual-need statement. Keep speakers and adult objections attached to claims.
+- **V42:** p042–043 is Mirio's future/humor argument; p062–064 moves from Shoto's food question to Toya's narrow apology. Both p144 **and p145** are authorial afterword, correctly excluded already. Tamaki's adult social sequence is p149,p151,p153. p159 establishes Midoriya's chosen teaching even under the counterfactual of retained OFA. p167's Toya altar supports a strong death inference, not an observed death scene. p180–183 joins Ochako's dream/memory to mutual approach; it does not prove objective vestige survival or a formal relationship status.
 
 
 
@@ -1659,7 +1673,7 @@ Source: `My Hero Academia - Vol. 18 [Japanese].cbz` - Drive `1uXDOUStNBGzwBLMcAb
 - Mirko/Aizawa hospital coordination: `V28:p006-021`.
 - Garaki/Shigaraki provisional-death state and three-person Aizawa/Mic/Shirakumo memory: `V28:p022-039`.
 - Quirk Singularity / Garaki biography / original-vs-duplicate AFO succession: `V28:p040-058`.
-- Tokoyami extraction of Hawks / Dabi confrontation / Machia scent recognition: `V28:p060-079`.
+- Tokoyami extraction of Hawks / Dabi confrontation: `V28:p060-077`, excluding the p062 chapter portrait; Machia scent recognition follows at `V28:p078-079`.
 - first-holder warning / awakened Decay / evacuation / Crust rescue: `V28:p080-099`.
 - Shigaraki destruction objective / Machia call / Toga grief-world judgment: `V28:p100-119`.
 - Search / AFO-linked OFA acquisition drive / Ragdoll contrast / Midoriya target inference and decoy: `V28:p120-139`.
@@ -1754,7 +1768,7 @@ High-value locators:
 - Sequential chapters: No.296-306.
 - Starts: No.296 `p007`; No.297 `p027`; No.298 `p047`; No.299 `p067`; No.300 `p087`; No.301 `p105`; No.302 `p123`; No.303 `p143`; No.304 `p159`; No.305 `p177`; No.306 `p194`.
 - Narrative endpoint: **`V31:p213`**.
-- `V31:p214-226`: non-sequential promotional, publication, digital-extra, advertising and cover matter.
+- `V31:p214-225` (raw numeric files 0215–0226): non-sequential promotional, publication, digital-extra, advertising and cover matter. The archive has 226 image entries; this is not a logical p226 endpoint.
 
 High-value locators:
 - PLF secure/escape counts and remaining Near High-Ends: `V31:p009-012`.
@@ -1952,8 +1966,8 @@ Anchor checks: raw `0004` right=`p006`, left=`p007`; raw `0012` left=`p023`; raw
 | Toga finite Twice-blood strategy / Spinner bet | `V38:p007-021` |
 | Uraraka `恋バナ` pursuit | `V38:p007-021` |
 | La Brava/Skeptic information-front intervention | `V38:p035-046` |
-| Gentle U.A. rescue / rehabilitation | `V38:p047-062`, `p081-098` |
-| Lady Nagant return | `V38:p063-068` |
+| Gentle U.A. rescue / rehabilitation | Decisive narrative `V38:p054-059`, `p081-083`; broader surrounding action does not admit p062–064 as behavior |
+| Lady Nagant return | `V38:p065-068`; p063 chapter cover and p064 logo excluded |
 | Shigaraki hidden `原点` internal recovery | `V38:p070-075` |
 | Shigaraki/Tenko destructive salvation statement | `V38:p074-076` |
 | Midoriya `見なかった事にはしない` | `V38:p078` |
@@ -2101,3 +2115,107 @@ Anchor checks: raw `0004` right=`p006`, left=`p007`; raw `0012` left=`p023`; raw
 | Shigaraki adapts to Gearshift and closes distance | `V40:p197-198` |
 | `危機感知` cliffhanger | `V40:p199` |
 
+
+## Volume 41
+
+| Locator | Content |
+|---|---|
+| V41:p005 | Ch.411 start; Shigaraki has stolen Danger Sense |
+| V41:p008-010 | Fourth/Danger Sense separation and Shigaraki use |
+| V41:p019 | Midoriya `人だよ` personhood classification |
+| V41:p028 | Shigaraki `守るもんが多くて大変だなァ` |
+| V41:p033-035 | Kudo interprets Midoriya's human-heart belief, then accepts the wager |
+| V41:p035-036 | Kudo instructs OFA relinquishment |
+| V41:p037-048 | interior-wound / forced-transfer plan derived from Star-and-Stripe encounter |
+| V41:p049-051 | Midoriya calls OFA `宝物` and agrees to relinquish it |
+| V41:p053-058 | Blackwhip `オーバーレイ` bodily reinforcement |
+| V41:p059-068 | Nagant-style decoy/tactical deception; transfer opening |
+| V41:p069 onward | Ch.415 `拒絶`; active resistance to vestige transfer |
+| V41:p073-080 | memory crossover / vestige penetration |
+| V41:p081-084 | Eri Rewind stockpile currently insufficient for broad reset |
+| V41:p085-087 | Kota wants to contribute despite self-described weakness |
+| V41:p090-093 | wider shared-concern proposition; `勧善懲悪` route problem |
+| V41:p095 | Midoriya reaches Shimura-house memory |
+| V41:p097-101 | Nana exclusion; `これは 私の弱さだ` |
+| V41:p101-104 | memory-house threshold / Midoriya entry |
+| V41:p109-110 | Nana blocks Kotaro; Midoriya reaches toward child Tenko |
+| V41:p109-112 | Nana recognizes family wound and apologizes for not returning |
+| V41:p113-119 | Midoriya holds Tenko's hands despite Decay; Shigaraki claims choice of home/family destruction at p116 |
+| V41:p116-123 | p116 family-destruction agency claim; p121-123 League montage and villains' hero obligation |
+| V41:p124-125 | unknown AFO-linked memory around Shimura family appears |
+| V41:p127 | AFO reappears; claims Tenko chose nothing |
+| V41:p129 | Ch.419 `DESIGN` substantive title/start |
+| V41:p131 | AFO says Tenko interior collapse enabled renewed consciousness |
+| V41:p132-133 | hatred cultivation; manipulation around free will; OFA-theft will objective |
+| V41:p133-134 | subtle Shimura/Kotaro family manipulation |
+| V41:p134-135 | Tenko latent factor removed; engineered destruction-only copy supplied |
+| V41:p135-136 | AFO `全部だ` total-authorship claim |
+| V41:p136-140 | renewed body/identity capture; Midoriya loses both arms |
+| V41:p142-145 | Sero/Ojiro/Sato rescue reinforcement; Aizawa arrival |
+| V41:p147-151 | Aizawa/Mic/Kurogiri; mixed-identity black/white model; teacher-duty framing |
+| V41:p151-156 | Kurogiri Warp Gate / distributed reinforcement logistics; returning/unnamed heroes; Gashly front |
+| V41:p157 | Aizawa assesses AFO/Tenko internal state; Eri horn revealed |
+| V41:p158-159 | Eri deliberate bounded contribution; `私 お歌したいの`; short Rewind window |
+| V41:p160-163 | depleted friends/Mineta re-enter; cannot leave friend fighting alone |
+| V41:p164-165 | `WE ARE HERE` title spread / plural arrival grammar |
+| V41:p166 | AFO: Yoichi loss makes world lose color |
+| V41:p167-168 | AFO tragedy-strength thesis; Sero anti-tragedy reply |
+| V41:p169-173 | coordinated coalition attacks; AFO isolation/emptiness; Midoriya says OFA lost |
+| V41:p173-174 | inheritance soaked into `無個性`; `残り火` remain |
+| V41:p175 | Aoyama reciprocal-need formulation and recalled offered hand |
+| V41:p176 | `皆 一緒に戦ってくれてるよ` / shared participation |
+| V41:p179-184 | Ch.422 start; Aoyama/Hagakure/class path-making |
+| V41:p185 | distributed `頑張れ`; Midoriya answers |
+| V41:p186 | AFO cannot understand why damaged fighters keep standing |
+| V41:p187-188 | `弱き強さ`; Midoriya's need mobilizes repeated participation |
+| V41:p189-194 | global/civilian encouragement convergence |
+| V41:p195 | final V41 punch / frozen prospective endpoint; outcome remains V42 OPEN |
+
+
+# Volume 42 cumulative closure
+
+## Verified final main-volume source
+
+- `My Hero Academia - Vol. 42 [Japanese].cbz`; Drive `1HiFWIMVIizGLbqlfVmK1xvTSwA3Rqi9O`.
+- Size **89,885,814 bytes**; SHA-256 `969bd3ca1df7cea2f2e6e2aae16eae77c4717d82c09f7ee372f22a5d195b86c3`.
+- 193 JPEG logical pages plus `ComicInfo.xml`; JPEG number equals logical page.
+- Chapters 423–431; encompassing sequence `V42:p005-p183`. `p145` is authorial paratext; `p184+` publication/end matter. Other credits, interstitial notes and title-only portraits inside the encompassing interval are not in-world events; see the V42 reconciliation audit's page-classification table. In particular `p144` joins `p145` as afterword.
+
+| Chapter | Start | Retrieval anchors |
+|---|---|---|
+| 423 | `p005` | Kurogiri mixed relational action `p009-011`; AFO/Yoichi `p013-015`; terminal Tomura/message `p018-020` |
+| 424 | `p023` | rebuilding `p023-026`; Bakugo rehab `p027-028`; life/heart/embers `p030-035` |
+| 425 | `p039` | Mirio positive-future speech `p042-043`; Aoyama choice/Shinso inclusion `p045-047` |
+| 426 | `p055` | terminal Toya `p056`; Endeavor recognition/duty `p059-066`; soba/apology `p062-064`; Nagant/Hawks/Gentle `p067-069` |
+| 427 | `p071` | public/Spinner accounts `p071-081`; Chisaki/boss `p082-083` |
+| 428 | `p087` | Aizawa media boundary `p090`; civic labor `p093-095`; missing camera/grief `p098-103` |
+| 429 | `p104` title portrait; narrative continues `p107` | child confinement `p107-108`; shared grief `p110-117`; chart proposal `p118-119`; civilian hand `p120-123` |
+| 430 | `p124` title portrait; narrative `p127` | embers/time `p129-130`; Shoji `p132`; counseling `p133`; teacher/Dai `p134-139`; armor `p140-143` |
+| 431 | `p146`; title `p148` | counseling/voice `p149-155`; recruiting/vocation `p156-161`; adult group `p162-175`; Shoto `p166-168`; mutual more `p177-183` |
+
+All `p005-p183` pages were directly viewed during reconciliation. The formal/paratext distinction is applied page by page; no supplemental author comment is silently promoted as dialogue or a depicted event.
+
+
+## Supplemental source routing — 2026-09-10
+
+Existing `VXX:pNNN` entries retain their exact manga identities, offsets and exclusions. The newly admitted `UA:sNNNN`, `UAN:sNNNN` and `UAG:sNNNN` locators use original EPUB OPF spine positions. They do not change manga pagination or imply printed-page numbers. The [official supplemental source lock](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_OFFICIAL_SUPPLEMENTAL_SOURCE_LOCK.md) and [complete source/member/hash map](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_SUPPLEMENTAL_SPINE_MAP.tsv) own exact retrieval; repaired EPUBs are only reading derivatives.
+
+The [UA audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ARCHIVE_PARATEXT_AUDIT.md) and [217-page coverage](../01A%20Supplemental%20Source%20Audits/MHA_SP2_UA_PAGE_COVERAGE.csv) record actual completed page accounting with seven limited-readability subparts; the [supplemental ledger](MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md) owns claim adjudication. Subsequent book progress is controlled by the [current map](../00%20Frameworks%20and%20Methods/CURRENT_STATE_AND_CORPUS_MAP.md#current-supplemental-reconciliation). Technical locks for UAN/UAG are not analytical review completion.
+
+The historical publication/source-reverification audit remains byte-identical and manga-only. This appendix does not add supplementary checks to its old SR series or alter the V27/V28, V31, V35 or V36 mapping corrections.
+
+## Ultra Analysis routing checkpoint — 2026-09-10
+
+The [UAN audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ANALYSIS_PARATEXT_AUDIT.md) and [297-page coverage](../01A%20Supplemental%20Source%20Audits/MHA_SP2_UAN_PAGE_COVERAGE.csv) now establish complete original-page accounting, with bounded unreadable subparts on s0275. The [UAN ledger section](MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#ultra-analysis-checkpoint) records source claims and UA comparisons. UAG remains technically locked but analytically pending until this checkpoint's verification and commit.
+
+Narrow new manga checks use the existing original locators V23:p046–047 for Monoma's conditional disclosure and V13:p105 for Yaoyorozu's 94-point result. They are supplemental verification, not new sequential readings or retrospective additions to the historical source-reverification audit. Existing manga locator bodies and prior mapping corrections remain intact.
+
+## Ultra Age routing checkpoint — 2026-09-10
+
+The [UAG audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_AGE_PARATEXT_AUDIT.md) and [331-page coverage](../01A%20Supplemental%20Source%20Audits/MHA_SP2_UAG_PAGE_COVERAGE.csv) establish complete original-image accounting through the new Eri one-shot, afterword, credits, colophon and reproduced jacket/boards. The [UAG ledger index](MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#ultra-age-checkpoint) preserves 485 stable records with single detailed owners in two bounded partitions. Original spine ordinals, visible folios and reproduced manga locators remain different references.
+
+Narrow original-manga comparisons use V42:p129–130 for graduation/embers and the eight-year caption, and V23:p091–094 for genealogy context, with the material child statement at p092. These checks establish compatibility of the inspected passages with the more specific guide wording; they do not prove a timeline or genealogical contradiction. They supplement source verification without rewriting the historical source audit or frozen manga locators. Current character and full-series propagation follows the verified UAG checkpoint.
+
+## Completed supplemental reconciliation — 2026-09-10
+
+All three source checkpoints now converge through the [all-subject character audit](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) and [impact audit](../08%20Audits%20and%20Manifests/MHA_SP2_SUPPLEMENTAL_RECONCILIATION_IMPACT_AUDIT.md). Current interpretation and reconstruction use V01–V42 plus the exact UA/UAN/UAG sources; the historical checkpoint paragraphs above retain their former stage boundaries. The current coverage clears unprinted UAN folios at s0108, s0117 and s0262 and corrects verified UAG contents/poll labels. Original spine ordinals, archive members, image hashes, manga locators and the 1,095 stable evidence IDs are unchanged. Final model and literary use does not create a new source witness or alter a frozen manga probe.

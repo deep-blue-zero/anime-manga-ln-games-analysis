@@ -2,14 +2,18 @@
 title: "Gakuen Idolmaster V2 - Voice Performance State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.5"
+version: "2.6"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-22 — Rinami R2 voice/performance state promoted; 13/13 character baselines complete"
+last_updated: "2026-11-15 — source-to-analysis audit correction to T-DIA-04 (GKM-SAA-006); perceptual review open"
+revised: "2026-11-15"
+revision_note: "v2.6 correction (source-to-analysis audit 2026-11-15; transition REVISE): T-DIA-04 Dear 035 now tests the requested honorific drop answered by the bare surname, with the given name initiated by the Producer in Dear 037 (GKM-SAA-006); no acoustic claim promoted"
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
 # VOICE PERFORMANCE STATE LEDGER
+
+> **Revision record — v2.6, 2026-11-15 (source-to-analysis audit corrections).** GKM-SAA-006, REVISE: the Temari T-DIA-04 Dear 035 row read "surname-to-given-name distance shift". A1 shows Temari asking only to drop `さん` (`adv_dear_ttmr_035.txt` L632–643), the Producer answering with the bare surname `月村` (single option, L647) and a plain imperative (L650), and the given name `手毬` arriving in Dear 037 on the Producer's initiative (`adv_dear_ttmr_037.txt` L417, single option L428). Her request remains her agency. Residual ambiguity: `呼び捨て` could in principle cover the given name, but A1 shows her naming only the honorific. The Dear 037 row gains the reception test. The earlier `last_updated` value read "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open".
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
 
@@ -68,9 +72,9 @@ No Temari AV has yet been inspected. These are hypotheses to test, not observed 
 | Tsukimura Temari | T-DIA-02 | Dear 019 | `TV5 rival command` | Misuzu | praise reception, command, response to refusal | PENDING |
 | Tsukimura Temari | T-DIA-03 | Dear 022–023 | `TV6 fan/inferiority/loss` | Misuzu/Sena/Producer | admiration, shame, contained post-loss affect | PENDING |
 | Tsukimura Temari | T-DIA-03 | Dear 027 | `TV7 artificial-flight confidence` | Misuzu/Producer | intimacy and rocket escalation | PENDING |
-| Tsukimura Temari | T-DIA-04 | Dear 035 | `TV8 chosen name intimacy` | Producer | surname-to-given-name distance shift | PENDING |
+| Tsukimura Temari | T-DIA-04 | Dear 035 | `TV8 chosen name intimacy` | Producer | requested honorific drop (`月村さんじゃなくて`, L632–643) answered by the bare surname `月村` (L647) and a plain imperative (L650); the given name follows only in Dear 037, on the Producer's initiative (GKM-SAA-006) | PENDING |
 | Tsukimura Temari | T-DIA-04 | Dear 036 | `TV9 formal title → attack` | public/Sena | gratitude, title receipt, noncustodial ambition | PENDING |
-| Tsukimura Temari | T-DIA-04 | Dear 037 | `TV10 present self-love` | Producer/private | food pleasure, reciprocal `好き`, future orientation | PENDING |
+| Tsukimura Temari | T-DIA-04 | Dear 037 | `TV10 present self-love` | Producer/private | food pleasure, reciprocal `好き`, future orientation; reception of the Producer-initiated `手毬` (L428; silent line L441, `はいっ` L450; AV-CARBON-SAA-006) | PENDING |
 | Tsukimura Temari | T-DIA-05 | cidol 000 | `TV11 song-self denial/recognition` | Producer/live | difference between spoken disavowal and singing | PENDING |
 | Tsukimura Temari | T-DIA-07 | cidol 018 | `TV12 blue-flame cool` | Producer/live | cold image vs high-heat complete combustion | PENDING |
 
@@ -380,3 +384,28 @@ Fine facial claims in Dear 028–037 are resolution-limited because the availabl
 | confession/vow | blush-compatible hesitation followed by explicit `好きだよ`, mutual-aid and professional language | contraction, hand to sternum, averted gaze, direct-eye-contact recovery | romance intensifies the same relational grammar | personal/professional fusion requires governance |
 
 Longitudinal textual corroboration remains comparative rather than psychometric: ellipsis-bearing lines fall markedly in D04 while desire/love/victory vocabulary rises. R2 audio-identity verification preserves all earlier timecode and selected-prosody locators; the new 720p files raise only the visual-evidence ceiling.
+
+<!-- RINHA_AV_20260911 -->
+## Kaya Rinha performance-state controls — not yet heard
+
+The [18-target baseline](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md) has source-bound text, still observations and selected stereo-mix measurements. Direct listening and continuous-motion counters both remain 0 seconds. No acoustic emotion state or final speech-simulation register is promoted.
+
+Keep separate: Temari’s 3D crying, Rinha’s bust expression and Temari’s report of Rinha crying (Dear016); Rinha’s internal/public framing change (Temari020); fan engagement versus self-disqualification poses (Misuzu024); recoded versus sustained versus accepted disclosure endings (Temari016/Saki026/support0097-03). Ume015’s imitation report and `krnh` voice-asset identifiers do not establish real performer identity or acoustic fidelity. Mixed-window LUFS/LRA values are recording controls, not Rinha-specific voice-state measurements.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| character | AV source | text source | delivery question | story state | status |
+| --- | --- | --- | --- | --- | --- |
+| Rinha, Misuzu, Temari | AV-CARBON-RIN-001 | GKM-R86-08 | Compare café question, challenge and deflection, separating present speech and recalled incident. | M-MISUZU 018 | Text only. Supplemental, no change to 1.0 gate. |
+| Rinami and Tsubame | AV-CARBON-E028-001 | GKM-R86-05 | Distinguish invitation, inner response and movement into public performance. | E028 | Text and script markers, synchronized AV pending. |
+| Lilja, Saki and Ume | AV-CARBON-E030-001 | GKM-R86-06 | Compare the same line across failed and accepted takes. | E030 | Text and reported staff decisions, rendered delivery pending. |
+| Kotone | AV-CARBON-KOT-001 | GKM-R86-01 | Mark imagined, recorded and public audience layers and delivery shifts. | D-KOTONE 035–036 | Text and script staging, voice and rendering pending. |
+| Sena and Tsubame | AV-CARBON-TSB-003, AV-CARBON-SEN-001 | GKM-R86-02, 03 | Track private address and titleholder address inside their own outcomes. | D-TSUBAME and D-SENA | Synchronized AV pending. |
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+| character | AV source | text source | delivery question | story state | status |
+| --- | --- | --- | --- | --- | --- |
+| Hiwatari Kanae | AV-HKNE-R88-04 | GKM-R88-01, Dear 004/005/008 | align technical performance instruction, courtesy with China, private speech and the explicit request to step on stage | Kanae Dear, multiple distinct scenes | AV-C script and register only |
+| Hiwatari Kanae | AV-HKNE-R88-05 | GKM-R88-06, live 001 and seven common steps | resolve `{voice_asset_id}` where applicable and align voice cues to messages or non-message slots | separate live wrappers and common steps | AV-C cues, zero direct listening |

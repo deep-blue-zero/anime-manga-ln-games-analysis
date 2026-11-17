@@ -1,0 +1,380 @@
+{
+  "schema": "MIDORI_CURRENT_EXACT8_FULL_ORIGINAL_CUSTODY_AND_CONDITIONAL_TRANSPORT_V1",
+  "author": "/root/m008_composition_review",
+  "role": "BODY_AND_GENUINE_NEW105_AUTHOR_NOT_INDEPENDENT_SELF_QA",
+  "exact_current_first7": [
+    {
+      "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIDORI_CHARACTER_MONOGRAPH.md",
+      "bytes": 32805,
+      "sha256": "aa77b794f9f9e2776bae01533b27e1fa013b8f8dafa319c0be0907688cc85e12",
+      "git_blob_oid_of_actual_bytes": "70b681d9033bcc7ed33efea479fffe1f6254537e"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP000_MDP035_V1.json",
+      "bytes": 462039,
+      "sha256": "988e343ce06aba4fbcf4bbb29c617380406b0cc037bd92d1aa127ebad42e0312",
+      "git_blob_oid_of_actual_bytes": "0044da78c882edf72c2d4b38a6992c4b3cae30ba"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP036_MDP070_V1.json",
+      "bytes": 587188,
+      "sha256": "2a050c21c6384b8b95574c75fc8cdb7a8ffd84dc2839090c6002ffdeac8f72e3",
+      "git_blob_oid_of_actual_bytes": "78ebbda9371f61ad0dbb1040c4ae8e79298923ee"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP071_MDP104_V1.json",
+      "bytes": 772459,
+      "sha256": "b95acf2d28139d62f604ca71b8e6212583ae7eea3e387da20f60896db7c52c62",
+      "git_blob_oid_of_actual_bytes": "d3de857c69d50dcbde80cb1eedc17aaf5892f8ad"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_SOURCE6_COMPLETE12_PREQUESTIONS_ANSWERS_GRADE_AND_ORIGINAL_COMMON105_QUALIFIERS_V1.json",
+      "bytes": 61848,
+      "sha256": "f50a3deaf7bf46899e71247bd0b3337e66ab7701a090973b1fe865473c2425ed",
+      "git_blob_oid_of_actual_bytes": "d17f8a705f116e5e9c986eab77b5df8322b6da5b"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_COMPLETE_LITERAL59_SOURCE_QUESTION_NEW105_RIVAL_END_GAP_REGISTER_V1.json",
+      "bytes": 462224,
+      "sha256": "3bb113f73ac09d7d5544f7b22c0e7c35c28b595bc84beb5f0f4b1d06cd6f3700",
+      "git_blob_oid_of_actual_bytes": "d4074784158bb533e81824c41cf363ee3b86d4ba"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSE_EXACT_PART_BODY_RELATION_INDEX_V1.json",
+      "bytes": 338639,
+      "sha256": "afd98d1eb3f7f7f29a3dee6bb4b3d4883e84aba18798e229a3cb213b1425fb4f",
+      "git_blob_oid_of_actual_bytes": "56d8241e48c19615cc5168e0205c0934e768e7a5"
+    }
+  ],
+  "original20_raw_custody_manifest": {
+    "C_path": "private-witness:MIDORI_LOCATION_87b588c567081993db525a38aff5f220dbf0479b5e3a3b4744ff8a4f33ac944c",
+    "bytes": 30146,
+    "sha256": "85925703de33de91be1a7c5e156827a0310af5b1ab65f95bababa445af69045f",
+    "git_blob_oid_of_actual_bytes": "8d99b89a9ff5083b2521e6a29f148b16bcaf4bd9"
+  },
+  "current14_complete_original_raw_recovery_proofs": [
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_319964371d71f860802ccd07b0846d3cc474f6abacbb401b9558ea823e08b133",
+      "bytes": 10763,
+      "sha256": "f18a232edd25d7799557f1ec9caa79fd070920ee24f58b9e51e3f84c486878c9",
+      "git_blob_oid_of_actual_bytes": "f5be2e50b3555bee2f6f1e1024402bd86b6a9d35"
+    },
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_aeb451f2bf9f112434c64a1c314fb5dca951c92ed01d2d834f5d99ed52efb641",
+      "bytes": 10773,
+      "sha256": "d720983858992d1c6cd102074420ab9230e18c3397f59a8e44a9c781171e8868",
+      "git_blob_oid_of_actual_bytes": "c0fb044d075b72dc56532bab133d3852dfc69200"
+    },
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_30146a616dc6debd945ad4b9ef9b500ad1ba31d6983117948f9037171711c8a1",
+      "bytes": 10773,
+      "sha256": "5b7e82fd0992f21414c43ecc4d80604ebbe2fd927c7c3d17fc4c4c0c6d39dbe0",
+      "git_blob_oid_of_actual_bytes": "508a0d0e6f3017e0af6983caf83484cd3693fd03"
+    },
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_8229fd65a3e2d6bddf1520836bb0f0c0fa15cf827545a8f0ddcb11d22773b6ff",
+      "bytes": 10769,
+      "sha256": "a748d369fa597242eac1b761d23d93955066ace6d7b520054eb193be1ab39fa7",
+      "git_blob_oid_of_actual_bytes": "63362ded2083797badcd6cb29e08db9927a75a5c"
+    },
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_b33301ff3b0736bbd06579c123e527ba991cac1de9ba2ac9aa25b37f3f3e9009",
+      "bytes": 10767,
+      "sha256": "a7115dd86bf919e1924e0a3c5a0af652c4942c55755ca6e1d220a4ab637531b7",
+      "git_blob_oid_of_actual_bytes": "465cfd6ad35ad2349043dbec93bcf3c0652f7037"
+    },
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_5637350ef430dfac0afe6b9bff2e5d3d0ce92911a45862b81c84b74dc1b23fd8",
+      "bytes": 10773,
+      "sha256": "a9492d991f0c9da376dd9370f989b3009bd3800528f86eae25f50ae6036e9836",
+      "git_blob_oid_of_actual_bytes": "86b124f51be19df3b98d5d0ce5b5f8d01db543da"
+    },
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_e2189517fa9fd5d19b5ca91d0c767a28c4483394ddbc241bb1fd6b821972c4e5",
+      "bytes": 10776,
+      "sha256": "c37614611cf4b8b33073cab5421e194b2718f50b97cd24935092045bbda58cfc",
+      "git_blob_oid_of_actual_bytes": "85cd8c71b5b6c2712e9fbe4de7c01c3e360a5352"
+    },
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_82aa9559b932c3f914e83bf39fd1591e12f3f3a9d06de1d8d59102f71b4ddd41",
+      "bytes": 10767,
+      "sha256": "9fc1b5fa802408f92274ececefa75c5e7ebbed0b94e5964e00855310af36da71",
+      "git_blob_oid_of_actual_bytes": "c8238b0995b8802d65d51b59fd81ce3837baef58"
+    },
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_9282f41a0ef0f084a6e619771f32dee53c938a405187191a75ecfc4f66d859f1",
+      "bytes": 10775,
+      "sha256": "b61d2a93e78b498a41cef0fd034689b9c5eae4d909236793d21c7451ac7e048c",
+      "git_blob_oid_of_actual_bytes": "0c886907f7791177bc05323d4cdc92a8c415e853"
+    },
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_d094fa626a94cb1eeedc68232a922d74fa6dce5d2f5b73be9e4f82e7da023943",
+      "bytes": 10776,
+      "sha256": "089fa46399c12ab857f44ac23818d11d31d12c15023d613c2ab12de79d53cb3b",
+      "git_blob_oid_of_actual_bytes": "7aceacc4045644c585e0df84f71bcc0a0b518669"
+    },
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_7e3f8be373bf317641683ff37b83998d4dc371fa68f13215889df668b007dd97",
+      "bytes": 7322,
+      "sha256": "3927682748531cc19bd296f754d47d65ae3a840be889fc3930f355da203addd3",
+      "git_blob_oid_of_actual_bytes": "1a71cc106fc26cf675b384e47f87e663fe34911e"
+    },
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_830c724bc975d54b9a90f655398c6dfaaaac248a32b50d3a79dc28d8d0404857",
+      "bytes": 217496,
+      "sha256": "705ac4831fd320c81ec7bc4ca50ebdf8842862879b186471ea3a69c1e9f2fe10",
+      "git_blob_oid_of_actual_bytes": "b1b19ddafa9d8737738aed4be1a4995a107c0bd0"
+    },
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_fa30813a733261df7b85385f357c8adb8ca2f69156dea2ab014e5755e0cdc94b",
+      "bytes": 221957,
+      "sha256": "fde1e4a38881fa07a7f182ac9c695a2a5ddad3323c597ab648dd933d0692efa4",
+      "git_blob_oid_of_actual_bytes": "668aa35fc90bf8338d4f841bacda2cd9c7fde5ab"
+    },
+    {
+      "C_path": "private-witness:MIDORI_LOCATION_6a63506876bda0dc4a85875d4170416e998da4c9d21a88a6dd2da5fff9a27c8b",
+      "bytes": 223051,
+      "sha256": "d721b2e3f54d424fb0aae1f290020663d6cc1eadaa5b80e3500989e33e01933c",
+      "git_blob_oid_of_actual_bytes": "9c7125d5940054ec8871c55da9b3fd0237910030"
+    }
+  ],
+  "immutable_current_body_source_QA_ROOT_inputs": {
+    "original_body_map": {
+      "C_path": "private-witness:MIDORI_LOCATION_91c96c77057c1dc44ed26ab319b443ddcb85fa776fc44074365356988de9cbf9",
+      "bytes": 180768,
+      "sha256": "fabf4895ff4fca5d59324f7faed0322a04e2791d7f99d9e5e354ca64f081229e",
+      "git_blob_oid_of_actual_bytes": "3c75a2e08869e606d3531c6a2d03974d6724da16"
+    },
+    "source_readiness_book": {
+      "C_path": "private-witness:MIDORI_LOCATION_38a02684a715fed54479c5dbca0d0739a9e4a5a183f109d6cf330dbaaeec3741",
+      "bytes": 44394,
+      "sha256": "1f7a93342a826f0ee4b5f7f737727208298c841f222048a46023b08e95cde393",
+      "git_blob_oid_of_actual_bytes": "20017d6843c2270f8a2a2b0e9af9a5336120219c"
+    },
+    "distinct_body_QA": {
+      "C_path": "private-witness:MIDORI_LOCATION_ae5a5b71c262d491456542e3285c75936e8288e7db0d9303c3e4c6ff2f23173f",
+      "bytes": 82127,
+      "sha256": "3d8cc6fb33e249e4eba676c3b15bbd3deb17839df3efdc1edb3af2f40f695d05",
+      "git_blob_oid_of_actual_bytes": "dd8423845e43287ed38d34ad59aa46fd4da24e12"
+    },
+    "ROOT_body_adoption_new105_permission": {
+      "C_path": "private-witness:MIDORI_LOCATION_f7c83708a801aec96d4ea1097419011eb520f88a24d3c854092b0366de17004a",
+      "bytes": 9584,
+      "sha256": "9e0587d25907ba55c78ef34d9a588304574f0af9c5b059d25ab7983124554c00",
+      "git_blob_oid_of_actual_bytes": "938df8c71ba8dc7ee3b34c38acca2579bd5423e3"
+    }
+  },
+  "genuine_new105_questions_before_values": {
+    "C_path": "private-witness:MIDORI_LOCATION_3e89f88851f0dbb2724fc8823620e1b38b2572c0a0dc8c4667144cc8d8c6d16a",
+    "bytes": 3981,
+    "sha256": "ed563b1113501e8041b4310c2de47a2b8e6bfd2bbb5fb7770427e2de8d92a291",
+    "git_blob_oid_of_actual_bytes": "576b3c0ea770ac4a5990af79ffd176ad2a9aaa60"
+  },
+  "actual_author_feedback_readiness": {
+    "C_path": "private-witness:MIDORI_LOCATION_4a5967ace15b66837103137afc8447f06c12985406d0b143dac9f61ac92e6bb3",
+    "bytes": 7808,
+    "sha256": "149cd63b9641dfc4afb9d863971883496dfc7c20acdfa925f133c0c0a7aefe69",
+    "git_blob_oid_of_actual_bytes": "85b9467aa0f5bbc3e7519eff4d31e44defa99fff"
+  },
+  "body_geometry": "CurrentV3 body167/59 bytes31861; exactly7 neutral analytical Sensei clauses in6 paragraphs(+33bytes), all53otherparagraphs literal. PriorV2 body31828 and P057/ME12 correction remain preserved as dated original scope.",
+  "old_body_source_stage_statements": "Literal dated body-first/readiness/no105/pending history. Actual ROOT9584 body adoption authorizes this new comparative stage; current exact8 fullcomponent QA/ROOT semantic adoption remains separate.",
+  "source_use_qualifiers": {
+    "O087": "Actual no-force one-week agreement and unpacking, not evidence that the week was fulfilled.",
+    "O094": "Teacher reading of Miyo wanted romance novels is refused; not Miyo authorship or refusal to write/share authored writing.",
+    "O096": "Reported foodlessness; food supplied before later bill/printing bargaining; contract follows rejected9:1, final agreed terms/ratio unprinted; no demonstrated deliberate withholding or clinical starvation mechanism.",
+    "actor_mode_chronology": "Original grades and local actors/modes retained; no inferred Rei attendance beyond actual own sources, shared calendar, universal audience, voice performance, registry join or global absence."
+  },
+  "new105_saved_value_receiving": "PENDING_ACTUAL_WHOLE_CURRENT525_AND59_NEW_JOIN_METADATA_RECEIVING; author closure must follow actual pages.",
+  "fixed_home": {
+    "required_id": "P3-CHAR-MIDORI",
+    "home_zero": 53,
+    "ordinal": 54,
+    "CSV_physical": 55,
+    "family": "F116",
+    "literal_person_key": "BA_PERSON_MIDORI",
+    "variants": [
+      "10016",
+      "10095"
+    ],
+    "inside_named_duty": null,
+    "extra_REL": "NOT_COMPLETED"
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "inside_named_duty": null,
+  "extra_REL": "NOT_COMPLETED",
+  "self_tuple_rule": "External final author manifest pins this eighth component; no transport selfpin.",
+  "new_primary_native_raw_AV_normal105_admission_identity_model_count_install_publication_runtime_merge_credit": 0,
+  "R_Git_provider_shared_protected39_private9_body_access_or_mutation": 0,
+  "current_author_precision_and_receiving_qualification_V2": {
+    "six_target_value_precisions": [
+      {
+        "owner_id": "O000",
+        "purpose_id": "MDP000",
+        "part_index": 0,
+        "pointer": "/records/0/own_new_Midori_positive_connected_meaning",
+        "field": "own_new_Midori_positive_connected_meaning",
+        "before": "A pleasurable encounter can have its own achieved recipient. Midori's shared competitive play, prepared sandwiches and tea, received game and late peer company matter independently of a completed illustration or produced game.",
+        "after": "A pleasurable encounter can have its own actual beneficiary. Midori's shared competitive play, prepared sandwiches and tea, received game and late peer company matter independently of a completed illustration or produced game.",
+        "own_finite_reason": "Grammar precision: value belongs to an actual beneficiary, not an achieved person."
+      },
+      {
+        "owner_id": "O002",
+        "purpose_id": "MDP002",
+        "part_index": 0,
+        "pointer": "/records/2/own_new_Midori_source_specific_substantive_question",
+        "field": "own_new_Midori_source_specific_substantive_question",
+        "before": "How do Nodoka's attachment and wish to return coexistence illuminate Midori's sisterly attachment and dissatisfaction without erasing costs?",
+        "after": "How can Nodoka's attachment coexist with her wish to return, and how does that illuminate Midori's sisterly attachment and dissatisfaction without erasing costs?",
+        "own_finite_reason": "Grammar only; coexistence and contrary costs retained."
+      },
+      {
+        "owner_id": "O004",
+        "purpose_id": "MDP004",
+        "part_index": 0,
+        "pointer": "/records/4/own_new_Midori_positive_connected_meaning",
+        "field": "own_new_Midori_positive_connected_meaning",
+        "before": "Refusing falsification and correcting misuse are specific acts of competent record handling. Midori's request for retailer documentation and attention to observed chip damage similarly deserve recognition without claiming an exhaustive audit.",
+        "after": "Refusing falsification and correcting misuse are specific acts of competent record handling. Midori's request for retailer documentation and attention to the observed absence of chip damage similarly deserve recognition without claiming an exhaustive audit.",
+        "own_finite_reason": "Actual bodyP033 notices missing chip damage; no performed damage or forensic proof inferred."
+      },
+      {
+        "owner_id": "O021",
+        "purpose_id": "MDP021",
+        "part_index": 0,
+        "pointer": "/records/21/own_new_Midori_countermeaning_and_rival_limit",
+        "field": "own_new_Midori_countermeaning_and_rival_limit",
+        "before": "Requested price evidence, fees and knowledge are absent. A missing damage-chip observation or bug hypothesis cannot establish forensic causation, and transfer completion reported by staff is not an independent integrity test.",
+        "after": "Requested price evidence, fees and knowledge are absent. An observation of absent chip damage or bug hypothesis cannot establish forensic causation, and transfer completion reported by staff is not an independent integrity test.",
+        "own_finite_reason": "Distinguish an observed absence of chip damage from an absent observation."
+      },
+      {
+        "owner_id": "O039",
+        "purpose_id": "MDP039",
+        "part_index": 1,
+        "pointer": "/records/3/own_new_Midori_positive_connected_meaning",
+        "field": "own_new_Midori_positive_connected_meaning",
+        "before": "Practical maintenance and civic thanks have particular benefits. Midori's object questions, observed chip damage and useful local work deserve credit without exclusive professional authority.",
+        "after": "Practical maintenance and civic thanks have particular benefits. Midori's object questions, the observed absence of chip damage and useful local work deserve credit without exclusive professional authority.",
+        "own_finite_reason": "Preserve actualP033 observation polarity without changing source/body."
+      },
+      {
+        "owner_id": "O087",
+        "purpose_id": "MDP087",
+        "part_index": 2,
+        "pointer": "/records/16/own_new_Midori_countermeaning_and_rival_limit",
+        "field": "own_new_Midori_countermeaning_and_rival_limit",
+        "before": "Outward cooperation can coexist with hurt, and the agreed duration is unfulfilled in the received account. Midori's later chores and fun likewise cannot erase the forgotten deadline or prior refusal.",
+        "after": "Outward cooperation can coexist with hurt, and the received account does not show fulfillment of the agreed duration. Midori's later chores and fun likewise cannot erase the forgotten deadline or prior refusal.",
+        "own_finite_reason": "Unprinted fulfillment is not demonstrated failure to fulfill the agreed week."
+      }
+    ],
+    "current_target_actor_mode_qualification_source1_pointer": "/current_Midori_target_actor_mode_qualification_V2",
+    "old_author_pre_receiving_states": "Original V1 pending states remain dated. Actual fullV1 saved525 readback744de8/91b9f6/082dcb/273d59 precedes these six separately received current values. Current authorcomplete closure follows full current control/join receiving, not inferred by this preparation.",
+    "all_other519_new_values": "LITERAL_UNCHANGED",
+    "body_sourcebook_original14_originalcommon105": "No body/source/original common105 changes. Midori167/59 and correctedP057/ME12 are unchanged.",
+    "future_component_QA_ROOT_adoption": "PENDING_SEPARATE"
+  },
+  "current_V3_eleven_material_and_seven_neutral_author_precision_qualification": {
+    "ROOT_exact_approval": {
+      "C_path": "private-witness:MIDORI_LOCATION_e346697c403728da15608d6ba35f6545d67492b1819f3dd0e5ab1985193e7522",
+      "bytes": 333107,
+      "sha256": "352a95ec07a7544349145fe868c427aafaad80752bddf2599913836a4e8a46cf",
+      "git_blob_oid_of_actual_bytes": "0d6233df9e3caab32d755782bc3b58ee6fb93481"
+    },
+    "current_O004_counter_qualification": {
+      "C_path": "private-witness:MIDORI_LOCATION_32b2337d1428d55520479dc7a56e3a5219d671a808b571c8ac1a94c775efc54f",
+      "bytes": 7456,
+      "sha256": "5f999731262e7c5a07cb21b670eb625b8095b4d6c4c5e61661bb96599b84b81d",
+      "git_blob_oid_of_actual_bytes": "fbf34a666ae57505ac256c413c7a6a6d63cd664d"
+    },
+    "actual_eleven_field_count": 11,
+    "other514_current_target_fields": "LITERAL_UNCHANGED",
+    "neutral_clause_count": 7,
+    "neutral_body_paragraphs": 6,
+    "original_body_map": {
+      "C_path": "private-witness:MIDORI_LOCATION_91c96c77057c1dc44ed26ab319b443ddcb85fa776fc44074365356988de9cbf9",
+      "bytes": 180768,
+      "sha256": "fabf4895ff4fca5d59324f7faed0322a04e2791d7f99d9e5e354ca64f081229e",
+      "git_blob_oid_of_actual_bytes": "3c75a2e08869e606d3531c6a2d03974d6724da16"
+    },
+    "current_editorial_body_map": {
+      "C_path": "private-witness:MIDORI_LOCATION_e9fb5a99024f4cc65f699baec789380f2c48303659476150862d679f1cb67cf7",
+      "bytes": 183028,
+      "sha256": "17afd17e35a223fd1fa2e3db874a7f2de99445c6cd26b95b141f3a600bbf7622",
+      "git_blob_oid_of_actual_bytes": "db1720a3cd39fafdf24f338520fefbc73cf8cb61"
+    },
+    "old_V2_body_QA_and_author_component_QA": "Preserved actual V2 receiving/body acceptance and component findings remain dated; no correctedV3 currentQA/ROOT525 adoption inferred.",
+    "source_grades": "Own6WHOLE1675 maintained, reviewer/Root actual scopes separate; no new primary/native/raw/AV/normal105/sourcegrade from this correction.",
+    "new_count_source_admission_identity_named_model_runtime_publication_merge_credit": 0
+  },
+  "current_public_metadata_preparation_qualification_20261015": {
+    "complete_current_composition_qualifications": {
+      "metadata_prepared": "2026-10-15",
+      "current_semantic_basis": "ACTUAL_ROOT_PRIVATE_V4_EXACT8_ADOPTED_WITH_LIMITS;NO_PUBLIC_BYTE_ADOPTION_OR_COUNT_FROM_COMPOSITION",
+      "roles": "Private body/genuine105 author /root/m008_composition_review; distinct component reviewer /root/next_cast_source_preparation; public metadata composer /root/publishing_shared7_review (prior body-only reviewer); ROOT actual receiving and private8 adoption separately attributed. This report is not fresh independent public-byte QA.",
+      "source_grades": "Private author6WHOLE1675 (3new749+3prior926); current component peer6WHOLE1675 (1new436+5prior1239); earlier body-only peer3WHOLE749+3SELECTED519=1268. ROOT body course5WHOLE1223+FinalSELECTED150; later Final162 is separate. Original common10526WHOLE79SELECTED and producer19/source inspections remain attributed, not transferred. Composition adds no source reading.",
+      "history": "Original body-first header/intro, pending labels, new105 NOT_AUTHORED in the old map, original sourcebook and stored167 reconstruction are dated creation witnesses. Current private105/525 and ROOT private8 acceptance are completed WITH LIMITS. The separate operative public reconstruction and explicit live aliases govern current metadata; historical source/book/QA tuples keep their old scopes.",
+      "finite_actors": "Midori receives remembered consoles FROM Momoi, wins the plush, observes missing chip damage; Alice owns the bug hypothesis, Yuzu owns the volunteered perfect match and staff own the transfer report. Toki later chooses fighting as friend, distinct from the club earlier refusal to abandon her. Midori prepared food is not an invented appreciation response.",
+      "ordinary_goods": "Drawing, clothes, games, prepared food, remembered objects, quiet company and wanted attention retain intrinsic positive meaning independently of product completion or crisis contribution. Wanted console-viewing recovery is unprinted, not proof it remained lost.",
+      "common_qualifier_limits": "O087 agreement is not a fulfilled week; O094 concerns reading access, not authored writing; O096 supplied food precedes later bargaining, a contract follows rejected9:1 with final ratio unprinted; O098 inward time-buying aim is not measured success or final victory; O103 fear/projection and fuel/battery actor seams remain distinct. Original narrow qualifier layers retain their exact scopes.",
+      "review_history": "Complete V3 peer review retains its actual HOLD at105 stale current index routes. The separately reported V4 finite review resolves exactly those routes and transport4 leaves, reusing all unchanged substantive values. Neither history is silently relabeled or converted to new review.",
+      "identity_and_responsibility": "Existing home53/ordinal54/CSV55/F116/P3-CHAR-MIDORI; BA_PERSON_MIDORI variants10016/10095 remain printed routes. No inside named duty, extra REL, registry/person merge or model.",
+      "future_gates_at_preparation": "At this2026-10-15 metadata preparation, distinct public12 byte/documentary QA and ROOT composed-byte adoption, ordinary governed installation/preflight/live controls/publication/readbacks/fresh runtime remain separate actual receipts. This dated proposal never automatically certifies a later event.",
+      "fixed_limits": "All14 original gaps OPEN; models0; no new package/count/source/admission/identity/named/extraREL/install/publication/runtime/merge credit; merge RESERVED."
+    },
+    "current_body_geometry": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIDORI_CHARACTER_MONOGRAPH.md",
+      "bytes": 32805,
+      "sha256": "aa77b794f9f9e2776bae01533b27e1fa013b8f8dafa319c0be0907688cc85e12",
+      "git_blob_oid_of_actual_bytes": "70b681d9033bcc7ed33efea479fffe1f6254537e",
+      "physical_lines": 175,
+      "literal_paragraphs": 59,
+      "title_physical_line": 31,
+      "first_literal_line": 39,
+      "last_literal_line": 175,
+      "original167_tuple": {
+        "bytes": 31861,
+        "sha256": "8646dd20f51305c04b5f42f0abbe2235560801331ad2bad86b0194b0d9cb6ef8",
+        "git_blob_oid_of_actual_bytes": "306be94b7d39bed13f4c913a68e97c791d8ced3b"
+      },
+      "actual_UTF8_byte_delta": 878,
+      "actual_physical_line_delta": 8,
+      "substantive_paragraph_changes": 0
+    },
+    "current_first7_rule": "exact_current_first7 contains complete current public paths AND tuples. Original copied proofs/sourcebooks/maps retain dated private scopes under opaque custody IDs. The original stored167 reconstruction is history, not the operative public body.",
+    "actual_private_ROOT_authority": {
+      "private_witness_id": "ROOT_MIDORI_PRIVATE_V4_SEMANTIC_ADOPTION_20261015_V1",
+      "original_tuple": {
+        "bytes": 438522,
+        "sha256": "3d858a11c94698258dc157d4048cbae1b229a779365c6f2571485b0a7bb99684",
+        "git_blob_oid_of_actual_bytes": "e30d9b7a54081c12e7bbc42220162d90827e4789"
+      }
+    },
+    "actual_component_QA_authority": {
+      "private_witness_id": "MIDORI_PRIOR_DISTINCT_COMPONENT_REVIEW_WITH_V4_ROUTE_QUALIFICATION_20261015_V1",
+      "V3_original_tuple": {
+        "bytes": 641440,
+        "sha256": "bd1aaf322fa565c6904a1fb3ecd5043b7af0abff4b63ff6e3b0684e876b5e9e9",
+        "git_blob_oid_of_actual_bytes": "c101997ca7b03e7d22f107454bd3993d13b192aa"
+      },
+      "V4_finite_qualification_tuple": {
+        "bytes": 11301,
+        "sha256": "2bbf9d0149e6bd1607c115f0c62ba8220b42704d97f991a4e4a62c620bdd5be8",
+        "git_blob_oid_of_actual_bytes": "be7f87f9dabed267be1b2d43ec27350c942fb14c"
+      }
+    }
+  },
+  "current_Akira_first_reference_editorial_successor_20261103_V2": {
+    "successor_version": "V2_20261103_AKIRA_FIRST_REFERENCE",
+    "author": "/root/recover_yuzu_saved_review",
+    "role": "FINITE_EDITORIAL_SUCCESSOR_AUTHOR_NOT_DISTINCT_QA_OR_ROOT",
+    "operation": "P038 first sentence identifies Akira before the thief, plus8UTF8 bytes/zero lines; rescuer/recipient/criminal-role-care argument and all59 meanings unchanged;58otherparagraphs and all525values literal NOOP.",
+    "history": "Every earlier preparation tuple, all59-literal-preservation statement and pending/acceptance string keeps its original dated scope. The new current bytes and operative graph/reconstruction supersede only metadata currentness; no old review is relabeled.",
+    "new_finite_delta_QA": "PENDING_SEPARATE_DIFFERENT_REVIEWER",
+    "new_ROOT_composed_byte_acceptance": "PENDING_SEPARATE_ACTUAL_ROOT_RECEIPT",
+    "source_identity_model_count_credit": 0,
+    "all14_original_gaps": "OPEN",
+    "models": 0
+  }
+}

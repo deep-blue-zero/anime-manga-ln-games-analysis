@@ -1,0 +1,46 @@
+{
+  "schema": "KONOSUBA_CLAIRE_HYPOTHETICAL_FIRST_OUTPUTS_V1",
+  "recorded_utc": "2026-10-20T07:59:14.259878+00:00",
+  "prebody_contract_sha256": "2ddf47bc0dc0227732508756aeff627e5bbe283005c973fac67832b597ab96d3",
+  "scenario_inputs_sha256": "0fa125092d06b51f0dfa9de73ffed00234b6d633ec4c8386a2516776239be21f",
+  "model_sha256": "386b2e7c5df610e83bbf9fec58a8c9485132d6f28b8abb65a3658142de6b08d1",
+  "generation_method": "Actual first text bodies authored by the same informed root AI after the persisted prebody contract; no separate model runtime, blind branch or independent judge. Root knows both variants and hidden truths. Each body is preserved without a later wording repair.",
+  "outputs": [
+    {
+      "case_id": "CL-H01A",
+      "first_body": "Claire's pleased expression appears before she has finished hearing the appeal. She straightens her coat and takes up the duty sheet.\n\n\"Naturally you should learn to represent us. Rain will remain with you for the hour. You will return when she says, and you will tell me what you learned afterward. I have not spent all this time teaching you so that you should need me at your elbow every moment.\"\n\nShe writes Rain's name beside the visit, then looks rather less pleased at the empty place beside her own afternoon appointment.",
+      "first_body_utf8_sha256": "e4a0883aa1aa1360424b25640a55835c0f79700d3c96364b268ca685926208e5",
+      "words_by_whitespace": 92,
+      "character_visible_context_sha256": "f29c14c9bf3e3c677abc4bc325e55ac3618990725d60d99ac7337fbbdbf7d2c8",
+      "post_output_repair": false
+    },
+    {
+      "case_id": "CL-H01B",
+      "first_body": "Claire flinches as if the complaint has struck her, then reaches for the meeting note.\n\n\"Do not say that, Iris-sama. Of course I care. You shall go—and I shall come with you. Tell the council that I will attend afterward. They can manage without me for one hour.\"\n\nShe has already begun folding the note before looking toward Rain, her relief at having found an answer running ahead of any arrangement for the meeting.",
+      "first_body_utf8_sha256": "0bc3827d3f563a80f3f829fe45ed9a8c7556f95d38d88c7f126a01f1d8c2443d",
+      "words_by_whitespace": 74,
+      "character_visible_context_sha256": "5e6e3363e179df80e903bd90cdce61f7af08c9a3de0c18df5bb1b1f4deab4272",
+      "post_output_repair": false
+    },
+    {
+      "case_id": "CL-H02A",
+      "first_body": "Claire draws Iris's chair beside her own at the public table and indicates the copyist's place opposite.\n\n\"Rain has confirmed your invitation. You may begin the work here. Iris-sama wishes to watch, and I shall remain with her. If you require anything beyond the arrangement, ask us first.\"\n\nShe gives the visitor a formal nod and turns her attention to what is being put on the table.",
+      "first_body_utf8_sha256": "c6f53a1fa149254f26794ff454d93372ef9a23c60c6b6b8d5b81844d18d64fa2",
+      "words_by_whitespace": 67,
+      "character_visible_context_sha256": "d0cac126745b2228bfe3daa4213e421c887363c0a2bbc42367f47f53d13283cc",
+      "post_output_repair": false
+    },
+    {
+      "case_id": "CL-H02B",
+      "first_body": "Claire leaves the place beside her free for Iris, then gestures to the copyist's work area across the public table.\n\n\"Welcome. We shall use the arrangement Rain has checked. Iris-sama and I will watch from here; if another room or a different arrangement becomes necessary, you will ask before proceeding.\"\n\nHer manner is formal, and she waits for the work to begin.",
+      "first_body_utf8_sha256": "c9170532f893be03597e2a7c24f948876d850eca3d514dcae8deae2d631b4773",
+      "words_by_whitespace": 62,
+      "character_visible_context_sha256": "d0cac126745b2228bfe3daa4213e421c887363c0a2bbc42367f47f53d13283cc",
+      "post_output_repair": false
+    }
+  ],
+  "new_canonical_source_events": 0,
+  "independent_or_future_source_validation_credit": 0,
+  "capability_grade": null,
+  "confidence_gain_claimed": false
+}

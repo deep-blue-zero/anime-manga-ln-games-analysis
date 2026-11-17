@@ -7,7 +7,10 @@ phase: "3 — Character-Core Readings / Audiovisual Baseline"
 character: "Tsukimura Temari / 月村手毬"
 parent_document: "GKM_CORE_02_TSUKIMURA_TEMARI.md"
 created: "2026-08-14"
-status: "canonical AV revision layer; parent textual reading remains preserved"
+status: historical_legacy
+historical_release_status: "canonical AV revision layer; parent textual reading remains preserved"
+do_not_use_as_current_authority: true
+superseded_by: "series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/02_TSUKIMURA_TEMARI/GKM_CORE_02_TSUKIMURA_TEMARI_AV_REVISION_ADDENDUM.md"
 ---
 
 # TSUKIMURA TEMARI CORE READING — AUDIOVISUAL REVISION ADDENDUM

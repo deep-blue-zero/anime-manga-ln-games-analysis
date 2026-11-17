@@ -1,0 +1,738 @@
+{
+  "schema": "HIMARI_SOURCE16_COMPLETE12_QUESTIONS_QUALIFIED_CURRENT_GRADE_AND_COMMON105_SCOPE_V1",
+  "author": "/root/publishing_shared7_review",
+  "existing_home": {
+    "required_id": "P3-CHAR-HIMARI-CH0159",
+    "required_zero": 43,
+    "required_ordinal": 44,
+    "required_CSV_physical": 45,
+    "partition_pointer": "/homes/43",
+    "candidate_id": "P3-F052",
+    "responsibility_zero": 51,
+    "responsibility_CSV_physical": 53,
+    "family_key": "CH0159",
+    "literal_person_key": "BA_PERSON_CH0159",
+    "variants": [
+      "20020",
+      "20054"
+    ],
+    "display_name": "明星ヒマリ",
+    "selected_scope": {
+      "BOND": 8,
+      "wholeMM": 8,
+      "written": 4,
+      "total": 20
+    },
+    "inside_named_duty": null
+  },
+  "body": {
+    "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIMARI_BOUNDED_CHARACTER_MONOGRAPH.md",
+    "bytes": 42423,
+    "sha256": "a0c731f6fcb41aeec41ffba74b42ca37fce6cc9921d360d1bab2d759b64a297e",
+    "git_blob_oid_of_actual_bytes": "6a449a5f5fba99307b72197ae0d89daec03e9173"
+  },
+  "source16": {
+    "O01": {
+      "source_id": "O01",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_a97608482829625b6036a62f576adf5f8356489419bcc8d4006094dccfaf37de",
+        "bytes": 11467,
+        "sha256": "c40de4600e119dc51e27a3810e366c100a608c6a316738d165c3db5c1d986e3a",
+        "git_blob_oid_of_actual_bytes": "54d8c148520269b622003ce448d0cac9acb3a4ca"
+      },
+      "kind": "PRIOR_QUALIFIED_MAINTAINED_OWNER_ARGUMENT",
+      "own_actual_maintained_grade": "WHOLE_QUALIFIED_ORIGINAL_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          108
+        ]
+      ],
+      "physical_lines": 108,
+      "upstream_source_ids_attributed_NOT_new_receiving": [
+        "BA:bond:20020:002",
+        "BA:momotalk:20020:thread:200200010"
+      ],
+      "original_metadata_pointer": {
+        "input_role": "Exact declared original owner/argument metadata; primary targets not read",
+        "pointer": "/owners/0"
+      },
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "O02": {
+      "source_id": "O02",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_27bddb611005770db14cde9281311f774e5b952d71f48ea1ec7330c325d43e7f",
+        "bytes": 10645,
+        "sha256": "d53931d99133404fbb9b7d95dc9273c7f40612aedd46d2de0f9b3ba48ce869bd",
+        "git_blob_oid_of_actual_bytes": "6f58caefa894844acc296dcb0e596ef6acd7bf35"
+      },
+      "kind": "PRIOR_QUALIFIED_MAINTAINED_OWNER_ARGUMENT",
+      "own_actual_maintained_grade": "WHOLE_QUALIFIED_ORIGINAL_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          108
+        ]
+      ],
+      "physical_lines": 108,
+      "upstream_source_ids_attributed_NOT_new_receiving": [
+        "BA:bond:20020:003",
+        "BA:momotalk:20020:thread:200200180"
+      ],
+      "original_metadata_pointer": {
+        "input_role": "Exact declared original owner/argument metadata; primary targets not read",
+        "pointer": "/owners/1"
+      },
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "O03": {
+      "source_id": "O03",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_dedf4e33a3ba7ba196de908cdb338ab740aebf6f48a5739eebc9a805efa47b59",
+        "bytes": 11059,
+        "sha256": "1aec88cb91a8ade4d6f904a4223f9c0840e6a4c9058d2051147529fa957ebaaf",
+        "git_blob_oid_of_actual_bytes": "2a205668c496b05eae8e7e882b098e233d1048eb"
+      },
+      "kind": "PRIOR_QUALIFIED_MAINTAINED_OWNER_ARGUMENT",
+      "own_actual_maintained_grade": "WHOLE_QUALIFIED_ORIGINAL_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          108
+        ]
+      ],
+      "physical_lines": 108,
+      "upstream_source_ids_attributed_NOT_new_receiving": [
+        "BA:bond:20020:005",
+        "BA:momotalk:20020:thread:200200230"
+      ],
+      "original_metadata_pointer": {
+        "input_role": "Exact declared original owner/argument metadata; primary targets not read",
+        "pointer": "/owners/2"
+      },
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "O04": {
+      "source_id": "O04",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_3d7fd191b542f10224278592c430e42af10e3d2f513c7ec8e2730bd6896f727f",
+        "bytes": 10712,
+        "sha256": "d69533283fac21f324a150b49901805988314b06d59f449ac54dada16f8e2474",
+        "git_blob_oid_of_actual_bytes": "c8da5a0cc895e7991dc3bb80bc57d8e24fd82022"
+      },
+      "kind": "PRIOR_QUALIFIED_MAINTAINED_OWNER_ARGUMENT",
+      "own_actual_maintained_grade": "WHOLE_QUALIFIED_ORIGINAL_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          108
+        ]
+      ],
+      "physical_lines": 108,
+      "upstream_source_ids_attributed_NOT_new_receiving": [
+        "BA:bond:20020:006",
+        "BA:momotalk:20020:thread:200200260"
+      ],
+      "original_metadata_pointer": {
+        "input_role": "Exact declared original owner/argument metadata; primary targets not read",
+        "pointer": "/owners/3"
+      },
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "O05": {
+      "source_id": "O05",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_7820500cdd6b9b4d9da02d509c361d6442819110be403bb2070f0cf297f1745e",
+        "bytes": 10635,
+        "sha256": "6cd459598082043319227811c6e6e8f816c738faebb9b42fe324323fe8799cbf",
+        "git_blob_oid_of_actual_bytes": "adf3715e42ab08bbef1e3352852fca950c025570"
+      },
+      "kind": "PRIOR_QUALIFIED_MAINTAINED_OWNER_ARGUMENT",
+      "own_actual_maintained_grade": "WHOLE_QUALIFIED_ORIGINAL_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          108
+        ]
+      ],
+      "physical_lines": 108,
+      "upstream_source_ids_attributed_NOT_new_receiving": [
+        "BA:bond:20054:002",
+        "BA:momotalk:20054:thread:200540010"
+      ],
+      "original_metadata_pointer": {
+        "input_role": "Exact declared original owner/argument metadata; primary targets not read",
+        "pointer": "/owners/4"
+      },
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "O06": {
+      "source_id": "O06",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_c5556c5b93ca177bf368cbae396313f54cbb8120f76bdad0c82d22669a398dea",
+        "bytes": 10225,
+        "sha256": "c4ba571304ce195ff7b5a5342e58ce6fb75a762e95e51c978f2d16a8b4e998e3",
+        "git_blob_oid_of_actual_bytes": "9b57e157343befbb1927a721b687bb7277bc4e03"
+      },
+      "kind": "PRIOR_QUALIFIED_MAINTAINED_OWNER_ARGUMENT",
+      "own_actual_maintained_grade": "WHOLE_QUALIFIED_ORIGINAL_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          108
+        ]
+      ],
+      "physical_lines": 108,
+      "upstream_source_ids_attributed_NOT_new_receiving": [
+        "BA:bond:20054:003",
+        "BA:momotalk:20054:thread:200540040"
+      ],
+      "original_metadata_pointer": {
+        "input_role": "Exact declared original owner/argument metadata; primary targets not read",
+        "pointer": "/owners/5"
+      },
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "O07": {
+      "source_id": "O07",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_892a23e80c5762e7fe035cdbb475c44b0e849fa528a0c693f1bf627d0483d7a6",
+        "bytes": 10919,
+        "sha256": "50788061ac092e9bb9f57f2d09449f59ac637c141bd2a4bd5df79ad1ab36c835",
+        "git_blob_oid_of_actual_bytes": "d1898c2b01982f5f3b54eccae5aaaf6ddfdf853c"
+      },
+      "kind": "PRIOR_QUALIFIED_MAINTAINED_OWNER_ARGUMENT",
+      "own_actual_maintained_grade": "WHOLE_QUALIFIED_ORIGINAL_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          108
+        ]
+      ],
+      "physical_lines": 108,
+      "upstream_source_ids_attributed_NOT_new_receiving": [
+        "BA:bond:20054:005",
+        "BA:momotalk:20054:thread:200540100"
+      ],
+      "original_metadata_pointer": {
+        "input_role": "Exact declared original owner/argument metadata; primary targets not read",
+        "pointer": "/owners/6"
+      },
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "O08": {
+      "source_id": "O08",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_db25bf7a2481e6f56f6e78070a2e35aea366ff671f578b3986b95190aca193d6",
+        "bytes": 11219,
+        "sha256": "7a5a59713035c6a094ffd6d7e94f1a5d9d3d8fa2afec10e712c8f4246dc64899",
+        "git_blob_oid_of_actual_bytes": "19234f6bbafa2cbccfc77adf2cee2df5efbd73e2"
+      },
+      "kind": "PRIOR_QUALIFIED_MAINTAINED_OWNER_ARGUMENT",
+      "own_actual_maintained_grade": "WHOLE_QUALIFIED_ORIGINAL_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          108
+        ]
+      ],
+      "physical_lines": 108,
+      "upstream_source_ids_attributed_NOT_new_receiving": [
+        "BA:bond:20054:006",
+        "BA:momotalk:20054:thread:200540240"
+      ],
+      "original_metadata_pointer": {
+        "input_role": "Exact declared original owner/argument metadata; primary targets not read",
+        "pointer": "/owners/7"
+      },
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "O09": {
+      "source_id": "O09",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_693675977d41827fc367ca838bf991640a130d020ad213e5ba65f03e166fb9fc",
+        "bytes": 10339,
+        "sha256": "a242146767cf6c92811b3af2b470c5fbc69bee490a8d436a121b926f02d215b5",
+        "git_blob_oid_of_actual_bytes": "466a500a0c7aa4893a96cc17f23c5057dbd9aad0"
+      },
+      "kind": "PRIOR_QUALIFIED_MAINTAINED_OWNER_ARGUMENT",
+      "own_actual_maintained_grade": "WHOLE_QUALIFIED_ORIGINAL_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          106
+        ]
+      ],
+      "physical_lines": 106,
+      "upstream_source_ids_attributed_NOT_new_receiving": [
+        "BA:character_data:20020:profile_and_dialog"
+      ],
+      "original_metadata_pointer": {
+        "input_role": "Exact declared original owner/argument metadata; primary targets not read",
+        "pointer": "/owners/8"
+      },
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "O10": {
+      "source_id": "O10",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_04eff58afc57e98fda09d82ae76bad7916ae84335e5af98df3f527140c2d90ab",
+        "bytes": 10238,
+        "sha256": "bbe82585b2af0857a6bbcca6a78ce3f55eda981b8f8dad24e111c026aec7320f",
+        "git_blob_oid_of_actual_bytes": "d06a66d95daf07b725fb79f32372eb36455a05e1"
+      },
+      "kind": "PRIOR_QUALIFIED_MAINTAINED_OWNER_ARGUMENT",
+      "own_actual_maintained_grade": "WHOLE_QUALIFIED_ORIGINAL_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          106
+        ]
+      ],
+      "physical_lines": 106,
+      "upstream_source_ids_attributed_NOT_new_receiving": [
+        "BA:character_data:20054:profile_and_dialog"
+      ],
+      "original_metadata_pointer": {
+        "input_role": "Exact declared original owner/argument metadata; primary targets not read",
+        "pointer": "/owners/9"
+      },
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "O11": {
+      "source_id": "O11",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_22ca968b4dedffc54ab34e44619c273547b9c18d2f89a40d15a2f9c8cb7a25c2",
+        "bytes": 9126,
+        "sha256": "b7b83b6d267f87374e3d32de957f93e9e9dded5e899c3a0a75773350d566623c",
+        "git_blob_oid_of_actual_bytes": "20bd19c929c9766a3b726ddebd370dec716e45f8"
+      },
+      "kind": "PRIOR_QUALIFIED_MAINTAINED_OWNER_ARGUMENT",
+      "own_actual_maintained_grade": "WHOLE_QUALIFIED_ORIGINAL_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          106
+        ]
+      ],
+      "physical_lines": 106,
+      "upstream_source_ids_attributed_NOT_new_receiving": [
+        "BA:character_data:event_costume:1900901801:character:20020"
+      ],
+      "original_metadata_pointer": {
+        "input_role": "Exact declared original owner/argument metadata; primary targets not read",
+        "pointer": "/owners/10"
+      },
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "O12": {
+      "source_id": "O12",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_cea2ba18eddd2003770666f53e9adbff52829bd0ebb975eb245e505bbe9c5b3f",
+        "bytes": 10494,
+        "sha256": "c80fa3e46fcd8289ebc8383dc75ae571251c7e8dfd2a53c2cced74584fd675db",
+        "git_blob_oid_of_actual_bytes": "d72aebed34a04bc998b26371a7dd78fdd15a58a4"
+      },
+      "kind": "PRIOR_QUALIFIED_MAINTAINED_OWNER_ARGUMENT",
+      "own_actual_maintained_grade": "WHOLE_QUALIFIED_ORIGINAL_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          106
+        ]
+      ],
+      "physical_lines": 106,
+      "upstream_source_ids_attributed_NOT_new_receiving": [
+        "BA:character_data:event_costume:1900931501:character:20020"
+      ],
+      "original_metadata_pointer": {
+        "input_role": "Exact declared original owner/argument metadata; primary targets not read",
+        "pointer": "/owners/11"
+      },
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "NORMAL": {
+      "source_id": "NORMAL",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_e83e80ebe7eef8611d3fb58afabfa9b9139ac23e03fd0c81db7e64581420303f",
+        "bytes": 23794,
+        "sha256": "23b784b6d681fe11ef170251470b655f1c09756bee762acb0c219ebe7b47e0e5",
+        "git_blob_oid_of_actual_bytes": "14ae2626b0af29ed8ad3929291e3e7884a1c9e83"
+      },
+      "kind": "CURRENT_MAINTAINED_NORMAL_OWNER",
+      "own_actual_maintained_grade": "WHOLE_CURRENT_MAINTAINED_NORMAL_ANALYTICAL_ACCOUNT",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          254
+        ]
+      ],
+      "physical_lines": 254,
+      "upstream_source_ids_attributed_NOT_new_receiving": [],
+      "original_metadata_pointer": null,
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "C002": {
+      "source_id": "C002",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_938ed1d97f95fdcebda77f298abe121b58327337c541747624feaff2e7cf24f2",
+        "bytes": 22309,
+        "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+      },
+      "kind": "MAINTAINED_PUBLIC_CHECKPOINT_OR_SYNTHESIS",
+      "own_actual_maintained_grade": "SELECTED_CURRENT_MAINTAINED_HIMARI_SPECIFIC_PUBLIC_COMPARISON",
+      "own_actual_physical_intervals": [
+        [
+          36,
+          62
+        ],
+        [
+          74,
+          74
+        ],
+        [
+          118,
+          123
+        ]
+      ],
+      "physical_lines": 125,
+      "upstream_source_ids_attributed_NOT_new_receiving": [],
+      "original_metadata_pointer": null,
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "FINAL": {
+      "source_id": "FINAL",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_b31827a3604e72b5f9bd118f86c0e76357b76f6ad705f327721170d8e3557a1d",
+        "bytes": 49292,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622"
+      },
+      "kind": "MAINTAINED_PUBLIC_CHECKPOINT_OR_SYNTHESIS",
+      "own_actual_maintained_grade": "SELECTED_CURRENT_MAINTAINED_HIMARI_SPECIFIC_PUBLIC_COMPARISON",
+      "own_actual_physical_intervals": [
+        [
+          154,
+          175
+        ],
+        [
+          235,
+          251
+        ]
+      ],
+      "physical_lines": 452,
+      "upstream_source_ids_attributed_NOT_new_receiving": [],
+      "original_metadata_pointer": null,
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "E854": {
+      "source_id": "E854",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_4b4d38a7b19aeb6c454b5858362a2f42914643fac145d0bc5f1d0105ceadd19f",
+        "bytes": 47958,
+        "sha256": "f8ce4ffdedac78b6e92b296515c9ace92a4277e441dee72348d815785b5283f7",
+        "git_blob_oid_of_actual_bytes": "23b45869c2d1a6f08b988ec2e00c435d271ca327"
+      },
+      "kind": "MAINTAINED_PUBLIC_CHECKPOINT_OR_SYNTHESIS",
+      "own_actual_maintained_grade": "SELECTED_CURRENT_MAINTAINED_HIMARI_SPECIFIC_PUBLIC_COMPARISON",
+      "own_actual_physical_intervals": [
+        [
+          124,
+          143
+        ],
+        [
+          157,
+          185
+        ]
+      ],
+      "physical_lines": 217,
+      "upstream_source_ids_attributed_NOT_new_receiving": [],
+      "original_metadata_pointer": null,
+      "no_primary_native_raw_AV_normal105_credit": true
+    }
+  },
+  "documentary_check_attribution_controls_NOT_story_sources": {
+    "PRECISION": {
+      "source_id": "PRECISION",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_44aac072def68e19d94c42d972ea5f54f69415266c064f6105516d791f77ee04",
+        "bytes": 2145,
+        "sha256": "1ad65e743dc8dab8493ad8623c10dfefbd0a3406e1a4d835be54ceddbbc74bc6",
+        "git_blob_oid_of_actual_bytes": "0ae1a71a3c9034b63a702da7f2cc6019fca01d1c"
+      },
+      "kind": "CHECK_ATTRIBUTION_CONTROL_ONLY",
+      "own_actual_maintained_grade": "WHOLE_DOCUMENTARY_CONTROL_NOT_CHARACTER_SOURCE",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          25
+        ]
+      ],
+      "physical_lines": 25,
+      "upstream_source_ids_attributed_NOT_new_receiving": [],
+      "original_metadata_pointer": null,
+      "no_primary_native_raw_AV_normal105_credit": true
+    },
+    "ROOTOLD": {
+      "source_id": "ROOTOLD",
+      "pin": {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_04e051a4132e12316c996a597102a2f142b64c1a75f3f4b8b78ac5c66a289058",
+        "bytes": 44109,
+        "sha256": "6c67b86971f95bff3525f7720d32d801b878608c86c8e0a9543a1fc659bf8beb",
+        "git_blob_oid_of_actual_bytes": "53a8a7f7b11d9481484ea60abe96b9e3a42bf775"
+      },
+      "kind": "ATTRIBUTED_PRIOR_ROOT_ANALYTICAL_SCOPE_AND_GAPS_CONTROL",
+      "own_actual_maintained_grade": "WHOLE_PRIOR_ROOT_JUDGMENT_CONTROL_NOT_PRIMARY",
+      "own_actual_physical_intervals": [
+        [
+          1,
+          350
+        ]
+      ],
+      "physical_lines": 350,
+      "upstream_source_ids_attributed_NOT_new_receiving": [],
+      "original_metadata_pointer": null,
+      "no_primary_native_raw_AV_normal105_credit": true
+    }
+  },
+  "complete12_original_questions_and_current_source_answers_NOT_rewritten": [
+    {
+      "question_id": "HQ01",
+      "complete_original_question_NOT_rewritten": {
+        "question_id": "HQ01",
+        "track": "literal_identity_and_selected_variants",
+        "genuine_source_specific_question": "How does the maintained Himari20 owner delimit BA_PERSON_CH0159 and selected20020/20054, and which printed labels, written contexts or provisional retrieval relations must remain distinct? Which fields actually justify the shared明星ヒマリ display rather than a new guessed BA_PERSON_HIMARI join?",
+        "finite_existing_source_scope_and_reason": "F052/coverage row53, selected8+8+4 owner, existing home43; metadata confirms a literal key and variants, not fresh content or registry work.",
+        "actual_private_owner_answer": "NOT_RECEIVED_OR_AUTHORED_IN_THIS_METADATA_TASK"
+      },
+      "own_actual_bounded_source_answer": "CH0159/BA_PERSON_CH0159 with20020/20054 is the literal positive family; CH0332 is an inherited dev alias, not a new person or growth date. Both contextual costumes have character20020 despite appearances associated with other scenes. H is a video presentation identity. Eight field profiles and their hedges do not prove degrees, clinical status or a guessed BA_PERSON_HIMARI join.",
+      "own_finite_disposition": "READY_WITH_SOURCE_SPECIFIC_LIMITS_FOR_BODY_FIRST_REVIEW_ONLY"
+    },
+    {
+      "question_id": "HQ02",
+      "complete_original_question_NOT_rewritten": {
+        "question_id": "HQ02",
+        "track": "all_eight_ordinary_encounters",
+        "genuine_source_specific_question": "Across all eight selected BOND encounters under20020/20054, what does Himari actually want or enjoy independent of solving a technical problem, institutional office or public reputation? Preserve the particular leisure, food/rest, company, praise, awkwardness, routine work or refusal the source supplies, without inventing preferences from a variant.",
+        "finite_existing_source_scope_and_reason": "Whole maintained eight-pair argument; each existing local endpoint and contrary recipient response, with no stakes-only selection.",
+        "actual_private_owner_answer": "NOT_RECEIVED_OR_AUTHORED_IN_THIS_METADATA_TASK"
+      },
+      "own_actual_bounded_source_answer": "All eight complete maintained paired arguments are now personally received. O01 company and enka, O02 horoscope curiosity, O03 thrift and theatrical reputation work, O04 premium drink sharing and ordinary labor, O05 chosen cleanser/grooming with discomfort, O06 maintenance/mobility pleasure, O07 food boredom/night riding/new-sky curiosity, and O08 receiving help/rest are substantive ordinary repertoire. Reprimand, failed public meaning, specific requested help, unresolved red screen, unperformed demonstration, local safe return/unfinished theory and resumed staff tail remain their own endings. None needs public success to survive as evidence.",
+      "own_finite_disposition": "READY_WITH_SOURCE_SPECIFIC_LIMITS_FOR_BODY_FIRST_REVIEW_ONLY"
+    },
+    {
+      "question_id": "HQ03",
+      "complete_original_question_NOT_rewritten": {
+        "question_id": "HQ03",
+        "track": "all_eight_whole_message_pairs",
+        "genuine_source_specific_question": "What do each of the eight whole MomoTalk prefaces, requests, Sensei alternatives, answers and tails establish about Himari’s own invitation, information control, wanted company, timing and recipient permission? Which messages report an outcome, leave a wish future or supply mutually exclusive alternatives?",
+        "finite_existing_source_scope_and_reason": "All eight positively paired wholeMM arguments at the existing owner’s actually qualified scope; no extraction of only technical or crisis fragments.",
+        "actual_private_owner_answer": "NOT_RECEIVED_OR_AUTHORED_IN_THIS_METADATA_TASK"
+      },
+      "own_actual_bounded_source_answer": "The eight maintained pair arguments preserve appointment/invitation/coda and source-unit/choice routes. O01 predetermined invitation and praise/permission alternatives; O02 hidden experiment narrower than meeting consent; O03 urgency/rebuttal choices narrower than upload approval; O04 withdrawal and specific care request; O05 scheduled text versus live observation and pressure after objections; O06 invitation without completed demonstration; O07 readiness, medicine alternatives, safety request and full160–230 post-launch tail; O08 offered refusal, until-sleep agreement, unshared monologue and full290–360 next-morning tail are distinct. This is whole maintained argument receiving, not primary thread20 inspection.",
+      "own_finite_disposition": "READY_WITH_SOURCE_SPECIFIC_LIMITS_FOR_BODY_FIRST_REVIEW_ONLY"
+    },
+    {
+      "question_id": "HQ04",
+      "complete_original_question_NOT_rewritten": {
+        "question_id": "HQ04",
+        "track": "four_written_objects_and_modes",
+        "genuine_source_specific_question": "What do the four selected written objects actually add to Himari’s self-presentation, address, register, profile/variant conditions and ordinary wants? Which empty, conditional, narrated or UI fields prevent a timeless trait, clinical claim, performed voice or new institutional fact?",
+        "finite_existing_source_scope_and_reason": "All four written baseline arguments at20020/20054; no inferred costume sequence or new native/AV reception.",
+        "actual_private_owner_answer": "NOT_RECEIVED_OR_AUTHORED_IN_THIS_METADATA_TASK"
+      },
+      "own_actual_bounded_source_answer": "Four whole maintained written arguments supply two eight-field profiles with52/71 contexts and two empty-profile costumes with24/64 contexts. Their211-row census is producer metadata, not211 events personally read as primary. Cafe/lobby/gift/special/operation/shop/prize triggers retain distinct conditional audiences. Former/current office wording versus dual-chief assertion, uncertain degree, cold/crowd comfort, rest and time-as-gift remain mode-specific. Empty profiles, implied replies, typed sleep, unspecified AI/human example and repeated701/900701/70000 labels prohibit invented biography, gestures, enactments, stable variant growth or AV.",
+      "own_finite_disposition": "READY_WITH_SOURCE_SPECIFIC_LIMITS_FOR_BODY_FIRST_REVIEW_ONLY"
+    },
+    {
+      "question_id": "HQ05",
+      "complete_original_question_NOT_rewritten": {
+        "question_id": "HQ05",
+        "track": "mandatory_attribution_qualification",
+        "genuine_source_specific_question": "The received MAIN_V002 normal account positively calls Himari20 complete with a mandatory attribution correction. What exact owner passage and positively declared correction govern that current use? Which actor, mode, addressee, source fact or reporter assertion is corrected, and which original words remain dated history?",
+        "finite_existing_source_scope_and_reason": "Exact current private owner and only any companion/qualification route it explicitly names; current V002 normal maintained L168–170. No guessed correction file or scope expansion.",
+        "actual_private_owner_answer": "NOT_RECEIVED_OR_AUTHORED_IN_THIS_METADATA_TASK"
+      },
+      "own_actual_bounded_source_answer": "The exact mandatory companion2145/1ad65e74 is personally received. It qualifies adoption44109/6c67b869 at actual_receiving.checks_attribution_only.producer_once_check: unsupported producer14PASS0FAIL is excluded; producer ca4bff one completeness/ownership/current-consistency check passed with no numerical total asserted. Distinct incoming14PASS0FAIL atda9b00 stays separately attributed. This correction concerns check attribution, not a Himari speaker fact or altered literary meaning. Old UNADMITTED/veto/status fields are dated prior Phase2 stage; the registered current normal's Cycle008 qualification governs present source use. Neither historic check is rerun or transferred to my/ROOT execution.",
+      "own_finite_disposition": "READY_WITH_SOURCE_SPECIFIC_LIMITS_FOR_BODY_FIRST_REVIEW_ONLY"
+    },
+    {
+      "question_id": "HQ06",
+      "complete_original_question_NOT_rewritten": {
+        "question_id": "HQ06",
+        "track": "C002_dissent_and_risky_help",
+        "genuine_source_specific_question": "How do the owner’s private motives and recipient distinctions compare, at bounded chronology, with C002 Himari’s actual dissent from Rio, isolation/escape, offered hazardous dive and unfinished facility work? Separate her knowledge, judgment, proposal, enacted aid and technical limits from Alice’s self-choice and the coalition’s independent actions.",
+        "finite_existing_source_scope_and_reason": "Existing maintained V002 C002 L36–62/L74/L118–123, previously received whole in the Alice role; no new45 MAIN primary or private-caused-rescue chronology.",
+        "actual_private_owner_answer": "NOT_RECEIVED_OR_AUTHORED_IN_THIS_METADATA_TASK"
+      },
+      "own_actual_bounded_source_answer": "C002 gives Himari actual dissent and escape from isolation, a hazardous dive offer, and continuing Eridu work. Those acts operate alongside independent cutoff, hacking, hardware, combat, volunteer and Alice-choice contributions. Rio's confident forecast and exclusivity fail locally without making danger imaginary. The private delight in skill or practical support can be compared without saying private lessons caused rescue or that offered risky help establishes a system audit, completed closure or office accountability.",
+      "own_finite_disposition": "READY_WITH_SOURCE_SPECIFIC_LIMITS_FOR_BODY_FIRST_REVIEW_ONLY"
+    },
+    {
+      "question_id": "HQ07",
+      "complete_original_question_NOT_rewritten": {
+        "question_id": "HQ07",
+        "track": "Final_cooperation_and_continuing_criticism",
+        "genuine_source_specific_question": "What exact comparison is supported between private Himari and Final’s willingness to receive Rio’s calculation contribution under safeguards while criticizing earlier distrust? Which ship/ground/student roles, proposed mechanisms, actual local results and continuing accountability remain separately attributed?",
+        "finite_existing_source_scope_and_reason": "Actual maintained FinalV100 normal L154–175/L235–251 and any owner-positive required route; retained selected prior Alice context, not new64 MAIN primary.",
+        "actual_private_owner_answer": "NOT_RECEIVED_OR_AUTHORED_IN_THIS_METADATA_TASK"
+      },
+      "own_actual_bounded_source_answer": "Final L156/L162 supports accepting Rio's present calculation help under safeguards while continuing criticism of past distrust. Launch, partial breach, interruptions, rescue reports and ordinary aftermath have distinct agents and costs. Himari's skepticism about the roughly2KB file explicitly prevents a memory-function addition from being called revived Kei. Useful help and gratitude do not locate Rio bodily, settle prior misconduct, complete health records or transform a private desire into a universal technical policy.",
+      "own_finite_disposition": "READY_WITH_SOURCE_SPECIFIC_LIMITS_FOR_BODY_FIRST_REVIEW_ONLY"
+    },
+    {
+      "question_id": "HQ08",
+      "complete_original_question_NOT_rewritten": {
+        "question_id": "HQ08",
+        "track": "E854_recipient_understanding_and_forecast_limits",
+        "genuine_source_specific_question": "What does source-specific public comparison permit about Himari’s timing, ordinary excitement, acknowledged uncertainty and companionship? In E854, distinguish her represented virtual assistance and Eimi’s outside hardware action, the testimony/reframing of earlier excitement, refusal of foreseeing every outcome, and the difference between technical design feedback and a recipient’s surprise at deployment.",
+        "finite_existing_source_scope_and_reason": "Existing maintained EVENT854 L124–143/L157–185 at the already received selected grade. No prototype universal safety or assumed private/event placement.",
+        "actual_private_owner_answer": "NOT_RECEIVED_OR_AUTHORED_IN_THIS_METADATA_TASK"
+      },
+      "own_actual_bounded_source_answer": "E854 separates Himari's virtual assistance from Eimi's destruction of outside hardware and Rio's cracking time. Bravado is qualified by an inward need to buy time; Rio's inference that Himari would intervene is not Himari's consent. Toki/Eimi testify to excitement, Himari reframes resolution as opening uncertainty and rejects foreseeing every result. She protects assigned roles, rescues the twins, offers unadministered motion-sickness medicine and later receives largely encrypted data. Design feedback does not authorize surprise pilot deployment, and no final defeat, universal safety or complete aftercare is printed.",
+      "own_finite_disposition": "READY_WITH_SOURCE_SPECIFIC_LIMITS_FOR_BODY_FIRST_REVIEW_ONLY"
+    },
+    {
+      "question_id": "HQ09",
+      "complete_original_question_NOT_rewritten": {
+        "question_id": "HQ09",
+        "track": "character_relations_and_separate_REL350",
+        "genuine_source_specific_question": "Which actually received Himari-to-Eimi, Eimi-to-Himari, Himari-to-Rio, Himari-to-Sensei or other directed requests/responses belong in this character argument? What different wishes, dependence, care, knowledge or disagreement are evidenced, and where would completing the separately required Himari–Eimi relationship duty require its own argument?",
+        "finite_existing_source_scope_and_reason": "Character home43 has no named section. Existing P3-REL-HIMARI-EIMI-DIFFERENT-DEPENDENCIES requiredzero350/ordinal351/CSV352 remains a separate pending home; no symmetric or double-counted completion.",
+        "actual_private_owner_answer": "NOT_RECEIVED_OR_AUTHORED_IN_THIS_METADATA_TASK"
+      },
+      "own_actual_bounded_source_answer": "The twelve arguments strengthen directed character relations without completing separate REL350. O04 specific requested help and withdrawal differ from O05 unsolicited pressured service; O08 private attachment and reported Eimi room return differ from a reciprocal exclusive agreement. Public Himari/Eimi virtual/outside contributions and Himari/Rio safeguards/criticism have separate actors and knowledge. Character home43 has no named section, so these comparisons must remain inside its argument rather than counting the independently pending Himari–Eimi responsibility.",
+      "own_finite_disposition": "READY_WITH_SOURCE_SPECIFIC_LIMITS_FOR_BODY_FIRST_REVIEW_ONLY"
+    },
+    {
+      "question_id": "HQ10",
+      "complete_original_question_NOT_rewritten": {
+        "question_id": "HQ10",
+        "track": "institutional_knowledge_permission_and_burden",
+        "genuine_source_specific_question": "How does Himari’s actual institutional role alter what she knows, asks, may access, delegates or owes, while leaving her ordinary preference independent? What source-specific failures, refusals, workload, bodily/technical costs or uncertainty constrain a reading that turns expertise into unlimited prediction, consent or authority?",
+        "finite_existing_source_scope_and_reason": "Only actual private owner evidence and already grounded public comparators; role is not a personality total, clinical explanation or universal access license.",
+        "actual_private_owner_answer": "NOT_RECEIVED_OR_AUTHORED_IN_THIS_METADATA_TASK"
+      },
+      "own_actual_bounded_source_answer": "Broadcast, drones, transport, access permits, office credibility and mobility design are different institutional means, sometimes appropriated for private ends. Their use does not by itself prove authorization, finance, medical benefit, prediction calibration or combat safety. Public dissent and risky aid coexist with proposals, failures, exhaustion and unfinished closure. Ordinary taste, thrift, curiosity and rest remain part of the person rather than being erased by expertise or role.",
+      "own_finite_disposition": "READY_WITH_SOURCE_SPECIFIC_LIMITS_FOR_BODY_FIRST_REVIEW_ONLY"
+    },
+    {
+      "question_id": "HQ11",
+      "complete_original_question_NOT_rewritten": {
+        "question_id": "HQ11",
+        "track": "written_Japanese_and_actor_seams",
+        "genuine_source_specific_question": "Which literal Japanese examples support Himari’s self-reference, address, claims, qualification, teasing, gratitude, refusal or repair in each relationship and mode? How do messages, dialogue, inward/narrator/unknown forms, alternatives and consequential actor seams constrain attribution or a stable voice description?",
+        "finite_existing_source_scope_and_reason": "Exact owner BOND/MM/written locators and any actually needed maintained public sequence; no generated recovered dialogue, performed prosody, Korean/native inspection or silent actor repair.",
+        "actual_private_owner_answer": "NOT_RECEIVED_OR_AUTHORED_IN_THIS_METADATA_TASK"
+      },
+      "own_actual_bounded_source_answer": "Whole owner arguments supply exact written contrasts: long titles and hesitant company without repayment, 実証実験 versus tentative可能性, all-to-mostly gossip defense, negotiated-care timing/nonmonotoneu0082, hacking-to-electronic-negotiation euphemism, く・る・ま・い・す/移動補助用具/今さら, かもしれません/きっかけくらい, parenthesized attachment/卑怯/closing care, profileらしい/なのだとか versus全部本当 and consciously variedその都度, むしろ、それがいい and ordinary-joy自由. The source witnesses are supplied locators, not new native/AV. Inward/drowsy/implied reply, Korean/log forms and consequential public actor seams remain bounded, with no silent repair.",
+      "own_finite_disposition": "READY_WITH_SOURCE_SPECIFIC_LIMITS_FOR_BODY_FIRST_REVIEW_ONLY"
+    },
+    {
+      "question_id": "HQ12",
+      "complete_original_question_NOT_rewritten": {
+        "question_id": "HQ12",
+        "track": "serious_rivals_finite_ends_and_claim_gaps",
+        "genuine_source_specific_question": "Which serious competing readings preserve both intrinsic ordinary wants and technical/public competence, and which finite actual outcomes distinguish them? Identify source-specific evidence against unrestricted forecasting, infallible protection, one-way dependency or office-as-whole-person claims, while retaining genuine skill, pleasure, initiative and care. What precise missing evidence forces abstention?",
+        "finite_existing_source_scope_and_reason": "Whole adequately received maintained owner plus bounded comparators when allocated; all14 original gaps remain OPEN, models0, no future body/105/ROOT or count credit from this metadata preparation.",
+        "actual_private_owner_answer": "NOT_RECEIVED_OR_AUTHORED_IN_THIS_METADATA_TASK"
+      },
+      "own_actual_bounded_source_answer": "Eight serious rival records below retain actual skill and wanted ordinary life alongside inappropriate methods and fallibility. The12 owner judgments supply complete local ends: company with broadcast costs, reprimand, adverse public frame, requested cleaning/drinks/work, unresolved screen, demonstration promise, safe ride/unfinished theory, bounded received care and next-morning reported network, plus four written context envelopes rather than enacted endings. C002/Final/E854 comparisons retain actual assistance, safeguards, distributed work, hypotheses and unresolved closure. Origin, office/degree verification, authorization, actual trigger enactment, chronology, performed delivery and durable safety/relationship repair still require abstention. All14 remain OPEN/models0; no whole-person predictive policy follows.",
+      "own_finite_disposition": "READY_WITH_SOURCE_SPECIFIC_LIMITS_FOR_BODY_FIRST_REVIEW_ONLY"
+    }
+  ],
+  "complete_qualified_readiness_reference": {
+    "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_f53f8c49673071a265ac6ddad21575ac1d82fc59ec20e36df892d46656614111",
+    "bytes": 81044,
+    "sha256": "98c8e560fefe8ed79df3675335607c49d598422aaa13621ee6aa2c7d949d4b68",
+    "git_blob_oid_of_actual_bytes": "32c3eedb068f3c20bba8ec02ab9e148a80565035"
+  },
+  "actual_maintained_source_totals": {
+    "WHOLE": 13,
+    "WHOLE_lines": 1542,
+    "SELECTED": 3,
+    "SELECTED_distinct_lines": 122,
+    "total_actual_core_lines": 1664,
+    "primary20_native_raw_AV_normal105": 0
+  },
+  "actual_author_source_receiving_NOT_transferred": {
+    "normal_whole": "067b3c all254",
+    "original12_whole": [
+      "5158c1",
+      "3d92cb",
+      "220b65",
+      "3ea87b",
+      "c63b22",
+      "d8fb82"
+    ],
+    "original12_totals": "127078 bytes/1288 lines; whole analytical arguments, not canonical20",
+    "Himari_specific_selected_compares": [
+      "6e30b1 C00234",
+      "2281af Final39",
+      "f67c9a E85449"
+    ],
+    "mandatory_precision_whole": "881ce3",
+    "governed_prior_ROOT_adoption_whole": [
+      "774891",
+      "b0e1ba"
+    ],
+    "ROOT_body_authorization_whole": "56da3b",
+    "initial_control_locator_scan_clipped": "8ecaf2 locator scan only; no whole control meaning credit",
+    "selected_control_meaning_received": [
+      "2a8326",
+      "5ef15d"
+    ],
+    "oversized_supplemental_crosswalk_body_read_hash": 0
+  },
+  "original_common105_qualifier_reference": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+    "scope": "Published source130b9 current GSC six-purpose successor layer; source-consistency audit qualifiers and original purpose/source payloads remain operative at their actual disclosed grades. This Minato derivative does not alter their records, inverse proofs or actor decisions."
+  },
+  "original_common105_qualifier_scope": "Original source629 audit, PR152 frozen fields and later current effective qualifications remain operative at their disclosed snapshots; original source payloads are retained as dated owner history.",
+  "full_narrow61767_and59334_raw_copies": {
+    "frozen_25": {
+      "source_C_path": "HIMARI_PRIVATE_LOCATION_SHA256_9975911694fc45429a2ace55ea854295d14828aa0369392f139c738a1f6c07a6",
+      "current_exact_C_raw_copy": "HIMARI_PRIVATE_LOCATION_SHA256_3f593a9cddf55a9ef6e8cf6ba5bea84cc00f8fe19f622f65072f96d6e16d9090",
+      "bytes": 61767,
+      "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+      "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+    },
+    "frozen_26": {
+      "source_C_path": "HIMARI_PRIVATE_LOCATION_SHA256_2eb56c291f466682ec1faed2e1e3630f69d2701182d84e0ec450280ffb3bc918",
+      "current_exact_C_raw_copy": "HIMARI_PRIVATE_LOCATION_SHA256_c4285415742f3128d0b4c3f3c84f8351d3bf45eab9d6b93760a0895c72751910",
+      "bytes": 59334,
+      "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+      "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+    }
+  },
+  "mandatory_producer_check_precision": "Producer ca4bff one completeness/ownership/current-consistency check passed without a numerical count. Unsupported producer14PASS0FAIL excluded. Distinct incoming14PASS0FAIL separately attributed; not producer/ROOT/this author. Old UNADMITTED/veto/status fields are dated Phase2 history.",
+  "current_087_094_096_103": "087 actual one-week/no-force agreement+unpacking, not fulfilled week;094 Teacher reading request refused, not authorship;096 reported foodlessness→supplied food→later bill/bargain with existing contract/unprinted ratio and no deliberate withholding/clinical mechanism;103 Anna failure fear and Elina admitted projection distinct. Frozen historical strings remain literal.",
+  "actual_E852_precision_context": "Own selected physical86–99 plus167=15 maintained lines at34435c, additional exact keyword locus159 at7cb085; this is finite extra contextual precision, not a seventeenth core source, whole205, primary or fresh normal105.",
+  "original105_receiving": "Previously completed own original105 report-meaning receiving during independent Alice component review remains report scope, with original owner extents attributed. Himari target-specific fivefields are newly authored, not a substitution credit for normal105.",
+  "actual_current_distinct_body_QA": {
+    "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_4b68457922f81574d3aba63375fb11e76e179033c49da9937188287081041264",
+    "bytes": 247883,
+    "sha256": "ec21c21a77c13cdb131201a0806077e48aea941a2789dd65ea077cf6acdebe34",
+    "git_blob_oid_of_actual_bytes": "f245b5eb53ec7c80f04f7764b2b7833816a136f3"
+  },
+  "author_actual_whole65_QA_reason_concurrence_reference": {
+    "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_0cec8246afb68facd9752bbce665a299aac2938545ba047e21ae055aded30905",
+    "bytes": 4567,
+    "sha256": "0b04a2b2bf89fc6ef7e0c59179e902afeb1474e9b825cd0eb7a7e21237dc2ef0",
+    "git_blob_oid_of_actual_bytes": "eb20f823a626d3eaeed871572d3ea0379066c796"
+  },
+  "actual_ROOT_body_only_permission_for_new105": {
+    "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_2204b0ca0d2120e054ed0768475270f9926eac7879618181a67c7eeb1be31736",
+    "bytes": 7989,
+    "sha256": "3556d4764980638c823c61307449cfc11ac7925ed6f7ba7ce0ae791571c06576",
+    "git_blob_oid_of_actual_bytes": "d26c01d3a2d2cdf3a1397da8fc460f16087db9e9"
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "current_component_QA_ROOT_adoption_publication_count": "PENDING_SEPARATE_ACTUAL_RECEIVING; no source/admission/identity/REL350/named/model credit."
+}

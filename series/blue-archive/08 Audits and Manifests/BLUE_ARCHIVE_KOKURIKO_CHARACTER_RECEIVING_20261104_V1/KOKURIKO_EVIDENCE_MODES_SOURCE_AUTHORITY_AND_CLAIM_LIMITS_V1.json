@@ -1,0 +1,449 @@
+{
+  "schema": "BLUE_ARCHIVE_KOKURIKO_SOURCE_PUBLIC_COMPONENT_CANDIDATE_V1",
+  "series": "BLUE_ARCHIVE",
+  "artifact_type": "character_source_authority_and_claim_limits",
+  "generation": "V1",
+  "scope": "Existing P3-CHAR-M019/P3-M019; A159 same single unnamed required duty; bounded V005 maintained analysis",
+  "subjects": [
+    "Kokuriko"
+  ],
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "intended_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+  "created_UTC": "2026-11-05T00:20:28.084Z",
+  "lifecycle_state": "CURRENT_ELIGIBLE_C_ONLY_PUBLIC6_CANDIDATE_PRIVATE_BODY_AND_FINITE_RETENTION_PLAN_ROOT_ACCEPTED_PENDING_DIFFERENT_PUBLIC6_QA_ROOT_NEW_BYTE_ADOPTION_AND_INSTALLATION",
+  "authority_control": {
+    "canonical_metadata_scope": "Root authorized this exact eligible candidate derivative. Unpublished Cfiles are not current Git authority until actualinstallation.",
+    "private_literary_body": "ROOT_ACTUALLY_ACCEPTED_WITH_LIMITS",
+    "finite_retention_plan": "ROOT_ACTUALLY_ADOPTED_WITH_LIMITS_KP_F01_CLOSED_AT_EXACT_PLAN_SCOPE",
+    "complete_different_public6_QA": "V2_COMPLETE_WITH_SUPPORTED_F01;V3_DIFFERENT_FINITE_REPAIR_QA_PENDING",
+    "Root_whole_candidate_new_byte_adoption": "PENDING",
+    "installation_and_publication": "PENDING_ROOT_SOLE_WRITER",
+    "machine_authority_limit": "JSON metadata is scoped provenance/control; no general machine-authority claim. AuthorityGraph recognizes Markdown first YAML.",
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false
+  },
+  "source_boundary": {
+    "grade": "PROJECT_AUTHORED_MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT_NOT_NEW_PRIMARY_NATIVE_OR_AV",
+    "separate_genuine_courses": "Originalauthor, differentreadiness/bodyreviewer and Root each own separately attributed completeC00195/C00292/V005507 maintained694; same-readerreuse adds no newcourse or old734.",
+    "derivative_operation_new_source_admission": false,
+    "historic_project_admissions": "The already admitted3940supplemental/480MAIN boundary remains its separate historical projectauthority. No denial or new admission is made by this derivative.",
+    "claim_limits": "Exact recipient/book/identity/chronology/afterstate bounds, intrinsic ordinarygoods and adverseagency remain in fullargument and original source/provenance records."
+  },
+  "strong_component_dependencies": [],
+  "retention_control": {
+    "purpose": "Retain complete literary/source/provenance thought and same-slot historicalmembership. Only exact physicalrouting/witness/declaredmechanicaldata cuts are private.",
+    "projection_not_raw_alias": "Each original coordinate identifies retained normative meaning, not every originalrawchild or currentbyte equivalence. Privatecustody relations grant no target access.",
+    "newest_candidate_stage": "V3 exact20 operative quartet additions and truthful V2-completed-with-finding/V3-pending stages;13 genuine new Root/peer/composer thought origins retained. CA04 and actual current candidate bytes remain not yet Root-adopted. Original80 retained roots/classes/destinations unchanged.",
+    "post_save_receipts": "Actual later delivered-byte/fidelity/readback receipts are externally bound at their actualstage to avoid feedback/selfhash. New reasons/findings require finite disclosed decision.",
+    "private_data": "No rawsourcecopies/helper/codecs/completeproofmatrices/pinqueues. Unique classes/roles/annotation/rights/receiving/diagnostic thought remains."
+  },
+  "current_scope_control": {
+    "Root_attributed_baseline": "Source166/main166/named19/12to178;Root-reported7ed6/e9b2486",
+    "fixed_required_scope": "355/29/25/384/788",
+    "stronger_claim_gaps": "ALL14_OPEN",
+    "models": 0,
+    "fixed150_audit": "ACTIVE",
+    "new_package_named_source_model_identity_completion_credit": 0,
+    "separate_duties": "AzamiM006,ShuroM037,sharedShuro-Kokuriko-AzamiREL andHyakka institution remain separately pending."
+  },
+  "retained_inputs": {
+    "S01": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "original": {
+        "schema": "OWN_KOKURIKO_EXACT_WHOLE694_MAINTAINED_SOURCE_COURSE_AND_SEPARATE_CONTROL_ATTENDANCE_V1",
+        "status": "draft_noncurrent",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": true,
+        "author": "/root/kokuriko_m019_bounded_readiness",
+        "UTC": "2026-11-04T20:19:33.256Z",
+        "original_prospective": {
+          "filename": "OWN_KOKURIKO_SIX_PROSPECTIVES_ROLE_AND_SOURCE_BOUNDARY_BEFORE_MEANING_V1.json",
+          "bytes": 2512,
+          "sha256": "be581790b0a14b22d155658d23f44cd6760a576bd747b0adc6bf584874caec2b"
+        },
+        "actual_personal_receiving": [
+          {
+            "role": "C001",
+            "physical_intervals": [
+              [
+                1,
+                95
+              ]
+            ],
+            "complete": true,
+            "entry": {
+              "role": "C001",
+              "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+              "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0001",
+              "bytes": 18949,
+              "sha256": "0e94dbe5c5e5ed2c9fc1dd1b959f075e16a4d95097afe3f38c24c2d3342b23f5",
+              "lines": 95,
+              "class": "EXISTING_ADMITTED_MAINTAINED_ANALYTICAL_ACCOUNT_NOT_PRIMARY"
+            },
+            "meaning": "Complete first-chapter thesis/sequence/person tables/language and mechanism controls/readiness/forward questions actually received; Nagusa eyewitness account, Shuro claims and Kokuriko final dialogue remain different grades."
+          },
+          {
+            "role": "C002",
+            "physical_intervals": [
+              [
+                1,
+                92
+              ]
+            ],
+            "complete": true,
+            "entry": {
+              "role": "C002",
+              "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+              "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0002",
+              "bytes": 18737,
+              "sha256": "2fbedf436268f5c7078d62bf4be45c29566786a2d305610ff49d45bded07c66a",
+              "lines": 92,
+              "class": "EXISTING_ADMITTED_MAINTAINED_ANALYTICAL_ACCOUNT_NOT_PRIMARY"
+            },
+            "meaning": "Complete second-chapter sequence/person and book tables/identity and ethics/forward limits actually received; Kokuriko self-history, praise, path permission, third-book claim, imposed introspection and escape retain their distinct endpoints."
+          },
+          {
+            "role": "V005",
+            "physical_intervals": [
+              [
+                1,
+                170
+              ],
+              [
+                171,
+                340
+              ],
+              [
+                341,
+                430
+              ],
+              [
+                431,
+                507
+              ]
+            ],
+            "complete": true,
+            "entry": {
+              "role": "V005",
+              "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+              "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0003",
+              "bytes": 39118,
+              "sha256": "c04118271472b1a02144789b2659976a513ee619d3d5049d26062f8ee4d6303b",
+              "lines": 507,
+              "class": "EXISTING_ADMITTED_MAINTAINED_ANALYTICAL_ACCOUNT_NOT_PRIMARY"
+            },
+            "meaning": "Whole507 addresses, including long source-ID front matter and all connected contextual comparisons/admission-stage qualifications, actually received. This is one maintained analytical account, not hundreds of newly read bond/MomoTalk/event objects."
+          }
+        ],
+        "actual_course_total": {
+          "maintained_addressed_lines": 694,
+          "whole_accounts": 3,
+          "primary_episodes_read": 0,
+          "Japanese_raw_records": 0,
+          "normal_private_objects_read": 0,
+          "performed_voice": 0
+        },
+        "controls": {
+          "method": {
+            "entry": {
+              "repository_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+              "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0004",
+              "bytes": 53414,
+              "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+              "lines": 840,
+              "class": "CURRENT_METHOD_ARCHITECTURE_CONTROL_NOT_CHARACTER_EVIDENCE"
+            },
+            "actual_reading": "Whole text received in overlapping0–18000/17500–35500/35000–end character slices; all840 lines are control scope, not source-course credit."
+          },
+          "architecture": {
+            "entry": {
+              "repository_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+              "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0005",
+              "bytes": 52261,
+              "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+              "lines": 851,
+              "class": "CURRENT_METHOD_ARCHITECTURE_CONTROL_NOT_CHARACTER_EVIDENCE"
+            },
+            "actual_reading": "Whole text received in overlapping0–18000/17500–35500/35000–end character slices; all851 lines are control scope, not character evidence."
+          },
+          "Scope002": {
+            "entry": {
+              "role": "SCOPE002",
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_002.md",
+              "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0006",
+              "bytes": 15453,
+              "sha256": "011464212dd1b012e34ff728a231512261fba7dfa55b75fe602e057273232b26",
+              "lines": 88,
+              "class": "EXISTING_SCOPE_METADATA_CONTROL_RELEVANT_SECTION3"
+            },
+            "actual_metadata_intervals": [
+              [
+                48,
+                57
+              ]
+            ],
+            "meaning": "MAIN-only43 routes remain retrieval/identity duties and finite empty typed joins never authorize dialogue invention or global absence."
+          },
+          "scope_metadata": {
+            "positive_inputs": [
+              {
+                "repository_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+                "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0007",
+                "bytes": 461112,
+                "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a"
+              },
+              {
+                "repository_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+                "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0008",
+                "bytes": 797685,
+                "sha256": "b23e7e7ba1f006041016c06eb74ff65ed7c511f302bf863f3e0dd295be0f37b4"
+              },
+              {
+                "repository_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+                "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0009",
+                "bytes": 82861,
+                "sha256": "141aa9dd8cc3118e0914d96cb4579aacd8d60b8231520f0e6061a879fa2d3e3e"
+              }
+            ],
+            "actual_receiving": "Parsed exact partition/candidate/dispatch data; personally received M019 home, M019/A159 rows, related separate homes and current355/29 summary. Parsing all788/105 metadata rows is not literary owner-census receiving or source attendance."
+          }
+        },
+        "stage_and_version_limits": "C001/C002 historical246/274 and backfill-pending/frontier words are local dated states. V005 creation-stage299UNADMITTED wording is expressly superseded for currentadmission by its Cycle008394 paragraph. Currentmethod/architecture3940/480 controls govern; the reader acquires no new source admission or implicit reading of linked primary objects.",
+        "source_grade": "MAINTAINED_ANALYTICAL_ACCOUNT. Within that grade distinguish represented direct actions/speech, Nagusa eyewitness testimony, actor historical/mechanism reports, institutional public account and analyst inference. No exact Japanese dialogue, audibility or performance is newly attested.",
+        "guarded_absences": "No claim of inspecting Kokuriko whole private pool, playable variants, source registry or all main source text. These three accounts provide the sufficient declared bounded inquiry scope; absent Kokuriko ordinary/private scenes here is not global source absence.",
+        "source_scope_notice": "C00148 specifically says Renge wants to apologize while C00162 and V005407 use broader collapsed apology/reunion phrasing. This readiness does not use the broader wording as an individual Renge claim or as Kokuriko evidence. Original account bytes remain unchanged; no source repair or new primary ambiguity check is performed.",
+        "access": "Only exact nine declared positive C data/control/account inputs and three named intake receipts read. No containedsource/primary/Japanese/raw/BOND/MM/pipeline/private/excluded/helper target followed; no .py helper stat/read/hash/execute/import. No N/Git/provider/shared7/control/global/externalchat actions.",
+        "rights": "Project-authored maintained analytical/provenance text. Capture availability is separate from literary adequacy; these copies are private receiving inputs, not proposed Git cargo.",
+        "stop": "Own course record, not independent readiness QA, Root adoption, literary package, model, source admission, publication or count."
+      }
+    },
+    "S02": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "original": {
+        "schema": "ROOT_ACTUAL_FULL16034_SOURCE_QA4986_READBACK_AND_EXACT_TWO_SOURCE_CORRECTION_BYTE_ADOPTION_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T20:37:35.681Z",
+        "decision": "ADOPT_EXACT_C00162_V005407_CORRECTIVE_BYTES_WITH_LIMITS;AUTHORIZE_SOLE_ROOT_ORDINARY_SCOPED_INSTALL_STAGE_PREFLIGHT_COMMIT_AND_PUBLICATION",
+        "actual_receiving": "Root actuallyreceived complete16034 currentdifferentSourceQA in0–9000/8500–end, whole4986actualreadback, whole2425prospectives,whole2980referencekeyprecision andwhole8160terminal. Allsixanswers/sevenparticularreferencejudgments/snapshotgrade/recipient/chronology/contrarylimits anddiagnostics received. Bothactualsavedtargetlines personallyreceived; fulloutsidebytes andwholeinverse2 independentlychecked byRoot beforedifferentQA. No proofoverrideofmeaning.",
+        "six_Root_judgments": {
+          "direction": "C00126/48 supportKikyou’sparticularwishforNagusaherselfandcontinuedresentment, andseparatelyRenge’swishtoapologize. Distributionbynamecorrectsthecollectiveapology/reunionclaim withoutinventingrecipient orcompletedrepair.",
+          "V005": "The summary’sRengeclause nowmatchesonlythesupportedwish. AllsurroundingwantedHyakkamembership/Nagusaattention/withheldtruth/hurt/cooperation/disclosurecosts/helddissolution/unprintedofficesliteral. Ordinarypleasureelsewhereuntouched.",
+          "counterevidence": "Hurt/resentment/continuinghesitation andinstitutionalunsettledness remainagainsttotalforgiveness/reunion. No laterAyamereturn orprivatepleasureusedtoassignRengeanearlierrecipient/wish.",
+          "fidelity": "ExactlyC00162/V005407fragmentschange. RootactualCcandidatewholeforwards/inverses2passed; differentreviewerown32/0 andfinal16pin0mismatchesseparate. Originalheaders/sourceIDs/grade/dates/sourcepaths/openboundarycell/otherphysicaladdressesremainliteral. CurrentGitcommitandthisdateddecisionidentifynewcorrection; oldsnapshots/pinsstaytheiractualcreation/readhistory.",
+          "references": "NamedKikyou,Renge,NagusaandYukariareappropriatefortheexactownershipmistake. 百蓮remainsdisplayedholdingnotnewofficequalification. Reviewer’sownromanizationkeyprecisiontoKikyou_holding_百蓮 changesnoSourcefact,openduty orcandidatebyte.",
+          "scope": "AcceptonlythesetwoSourcecorrectivebytes atmaintainedanalyticalgrade. No primary/native/raw/AV/newadmission/coursecount/identity/model/package/named/global150auditcompletion. KokurikoreadinessandPNmetadataQAstillindependentgates; thisadoptiondoesnotclear them."
+        },
+        "exact_targets": [
+          {
+            "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0010",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+            "bytes": 19011,
+            "sha256": "c853a066c88be24c06a3cd06f7ef3c92d5b23fd19f9422e112a0d850c85473d0"
+          },
+          {
+            "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0011",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "bytes": 39115,
+            "sha256": "055a3b80d82823ae3fffe45096b7a5842e99855c78509c1e1ed4eeb5f061b1ef"
+          }
+        ],
+        "private_prewrite": {
+          "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0012",
+          "bytes": 6920,
+          "sha256": "291de024bde17f2a4906ae7dd75ee8264d370c255dc15e95642b06ae250ed0d3"
+        },
+        "Root_proposal": {
+          "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0013",
+          "bytes": 5776,
+          "sha256": "f9bb46e52a8044f5fb246297cd51fe106ad2ab0502c2d512e97f446d02d7f462"
+        },
+        "different_Source_QA": {
+          "reviewer": "/root/kokuriko_m019_bounded_readiness",
+          "role": "ActualownWHOLE694duringseparatecharacterreadiness; differentfromRootSourceproposalwriter. Notselfreviewofcharacterreadiness,no otherreadercreditborrowed.",
+          "fullHuman": {
+            "filename": "OWN_EXACT_TWO_SOURCE_CORRECTIONS_COMPLETE_DIFFERENT_QA_REASONS_REFERENCE_JUDGMENTS_AND_LIMITS_V2.json",
+            "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0014",
+            "bytes": 16034,
+            "sha256": "b132a8dbf5a7fa2d729e68c01585ef49d6e3371ed74fa108664952dcd58b7e6d"
+          },
+          "readback": {
+            "filename": "OWN_EXACT_TWO_SOURCE_QA_ACTUAL_WHOLE_SAVED_MEANING_READBACK_AND_FINITE_CLOSEOUT_V1.json",
+            "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0015",
+            "bytes": 4986,
+            "sha256": "5a0bffc6cca1a3a5fe326532fae7d9166c53d72423e4da3fef90fbb9eefd188b"
+          },
+          "labelprecision": {
+            "filename": "OWN_SOURCE_QA_PREFREEZE_REFERENCE_KEY_PRECISION_COMPLETE_THREE_OPERATION_INVERSE_V1.json",
+            "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0016",
+            "bytes": 2980,
+            "sha256": "831e5fe6090191d6993d075aa6fa7e8a35544ec7e87813740d7232be562e16a7"
+          },
+          "terminal": {
+            "C_path": "PRIVATE_PROVENANCE_WITNESS:KOKU-W0017",
+            "bytes": 8160,
+            "sha256": "a1d2af4e98b3c09c3eb3f57eb7d9a3a249adf991dd8cd60fd2267350b2d6d054"
+          }
+        },
+        "history_and_currentness": "WholecurrentSourceC118949/0e94d… andV00539118/c041… remainimmutableinpositiveC andGitbeforehistory. No source/raw/frozen/helper input rewrites orbackdatedreading. Actualadoptedcurrentcorrectionbytes19011/c853… and39115/055a…requireactualN/commit/push/auditreceipts. Preservedcreation/frontmatter datesdescribeoriginalaccount stage, notnewsourceattendance; thisdatedcorrectiveauthority andactualcommit recordtheNovembereditorialoperation.",
+        "execution": {
+          "C_bytes_adopted": true,
+          "installed": false,
+          "committed": false,
+          "published_commit": null,
+          "count_credit": 0,
+          "named_credit": 0,
+          "new_source_course": 0,
+          "models": 0,
+          "gaps_closed": 0,
+          "fixed150audit": "ACTIVE"
+        },
+        "next": "Rootfreshrefs/head/clean/twoexactbeforeimage/identityguards; preserveallunpublishedfiles. InstallonlyexacttwoadoptedSourcepaths, stageonlytwo, personallyreviewcompleteactualstageddiff, rununmodifiedproductionauthorpreflight, approvedauthor/committerordinarycommit/nonforcedpushandfullremoteexacthead/audit. PendingPNtransactionmayfollowseparatelyatitsactualacceptedbytes; mergeauthorityunchanged."
+      }
+    },
+    "S03": {
+      "original_actor_stage": "Full attributed original schema/actor/date/status/rights are retained below; dated proposals/receipts remain history.",
+      "projection_grade": "NORMATIVE_PROJECTION_WITH_EXACT_DECLARED_PRIVATE_BOUNDARIES;NOT_WHOLE_RAWFILE_ALIAS",
+      "original": {
+        "schema": "ROOT_ACTUAL_SOURCE3FCE_FULL486_EXACT_PUSH_AUDIT_REPORTER_AND_PR462_CLOSURE_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T21:12:25.499128+00:00",
+        "source": "3fce9204fbcd8eefe8d74540ddfe9688868a62b1",
+        "run": 41910781511,
+        "integrity_job": 126857446921,
+        "reporter_job": 126863631309,
+        "full_unfiltered_command": "python tools/audit_execution.py --snapshot commit --commit \"${AUDIT_COMMIT}\" --report-json \"${RUNNER_TEMP}/test-timings.json\"",
+        "authored_paths": 10835,
+        "discovered": 486,
+        "run_tests": 486,
+        "rows": 486,
+        "unique": 486,
+        "failures": 0,
+        "errors": 0,
+        "expected_failures": 0,
+        "unexpected_successes": 0,
+        "skips": 0,
+        "exact_integrity_stages": [
+          "snapshot",
+          "paths",
+          "bytes",
+          "identities",
+          "routing_preflight",
+          "routing_scope",
+          "protected",
+          "links",
+          "audit_workflow",
+          "housekeeping",
+          "nightly_contract",
+          "whitespace_exceptions",
+          "authority_graph",
+          "authority_scope",
+          "crosswalk",
+          "native_sheets",
+          "series_registry",
+          "missing_entrypoints",
+          "study_registry",
+          "root_topology",
+          "obligations",
+          "project_initiation",
+          "character_domain",
+          "character_render",
+          "reconstruction",
+          "discovery_confinement",
+          "catalog_render"
+        ],
+        "stages27plus2allcomplete": true,
+        "full_saved_reports": {
+          "full_log": {
+            "filename": "ROOT_ACTUAL_SOURCE3FCE_FULL_UNFILTERED_PROVIDER_INTEGRITY_LOG_V1.txt",
+            "bytes": 178359,
+            "sha256": "472ba5703e2bd306f36cb1b462626e449d39da8bd475112c6e868636acbcd7da"
+          },
+          "audit-timings.json": {
+            "filename": "ROOT_ACTUAL_SOURCE3FCE_FULL_AUDIT-TIMINGS_JSON_V1.json",
+            "bytes": 4512,
+            "sha256": "0c51847a06a756b2ff111d8a8f9242519f61e1ac3c3bcf2da123e6aa362b9b6a"
+          },
+          "test-timings.json": {
+            "filename": "ROOT_ACTUAL_SOURCE3FCE_FULL_TEST-TIMINGS_JSON_V1.json",
+            "bytes": 85132,
+            "sha256": "11d87b3dede678c44a038ae9fe1d7eb2328a334b855acd30cc92fff4cf439bc2"
+          }
+        },
+        "PR": {
+          "number": 462,
+          "state": "open",
+          "merged": false,
+          "head": "3fce9204fbcd8eefe8d74540ddfe9688868a62b1",
+          "base": "7339a31a2eab57184064917319131ab1935f8c87",
+          "merge_commit_sha": "d20b601d2f3a729d9732019cd977c154568f094e"
+        },
+        "counts": {
+          "source_packages": 165,
+          "main_last_verified": 165,
+          "named": 19,
+          "next": 178,
+          "remaining": 13,
+          "new_packages": 0
+        },
+        "limits": "ActualfullSource3fceclosure, notPN166publication or178milestone. PRactualstate reported; testmergeSHAifopenisnotintegration. BothfullremoteSourcefilespreviouslyverified."
+      }
+    }
+  },
+  "dated_V2_before_metadata_snapshot": {
+    "scope": "Exact prior active V2 metadata preserved as dated history before finite V3 repair, not current gates.",
+    "lifecycle_state": "CURRENT_ELIGIBLE_C_ONLY_PUBLIC6_CANDIDATE_PRIVATE_BODY_AND_FINITE_RETENTION_PLAN_ROOT_ACCEPTED_PENDING_DIFFERENT_PUBLIC6_QA_ROOT_NEW_BYTE_ADOPTION_AND_INSTALLATION",
+    "authority_control": {
+      "canonical_metadata_scope": "Root authorized this exact eligible candidate derivative. Unpublished Cfiles are not current Git authority until actualinstallation.",
+      "private_literary_body": "ROOT_ACTUALLY_ACCEPTED_WITH_LIMITS",
+      "finite_retention_plan": "ROOT_ACTUALLY_ADOPTED_WITH_LIMITS_KP_F01_CLOSED_AT_EXACT_PLAN_SCOPE",
+      "complete_different_public6_QA": "PENDING",
+      "Root_whole_candidate_new_byte_adoption": "PENDING",
+      "installation_and_publication": "PENDING_ROOT_SOLE_WRITER",
+      "machine_authority_limit": "JSON metadata is scoped provenance/control; no general machine-authority claim. AuthorityGraph recognizes Markdown first YAML."
+    },
+    "current_scope_control": {
+      "Root_attributed_baseline": "Source166/mainlast165/named19/12to178",
+      "fixed_required_scope": "355/29/25/384/788",
+      "stronger_claim_gaps": "ALL14_OPEN",
+      "models": 0,
+      "fixed150_audit": "ACTIVE",
+      "new_package_named_source_model_identity_completion_credit": 0,
+      "separate_duties": "AzamiM006,ShuroM037,sharedShuro-Kokuriko-AzamiREL andHyakka institution remain separately pending."
+    },
+    "retention_control": {
+      "purpose": "Retain complete literary/source/provenance thought and same-slot historicalmembership. Only exact physicalrouting/witness/declaredmechanicaldata cuts are private.",
+      "projection_not_raw_alias": "Each original coordinate identifies retained normative meaning, not every originalrawchild or currentbyte equivalence. Privatecustody relations grant no target access.",
+      "newest_candidate_stage": "Includes actual precomposition composerquestions/fullintent/readback and CA04 fulluniqueprivate-prewrite contractextraction. CA04 and actualpublicbytes are not yet Rootadopted.",
+      "post_save_receipts": "Actual later delivered-byte/fidelity/readback receipts are externally bound at their actualstage to avoid feedback/selfhash. New reasons/findings require finite disclosed decision.",
+      "private_data": "No rawsourcecopies/helper/codecs/completeproofmatrices/pinqueues. Unique classes/roles/annotation/rights/receiving/diagnostic thought remains."
+    },
+    "composer_revision_control": null
+  },
+  "V3_repair_stage_control": {
+    "candidate_derivative": "V3",
+    "V2_public6_QA": "COMPLETE_WITH_ONE_SUPPORTED_MATERIAL_F01_FIVE_OPERATIVE_CONTROL_OMISSIONS",
+    "V2_Root_whole_candidate_byte_adoption": "NOT_ADOPTED",
+    "V3_different_finite_repair_QA": "PENDING",
+    "V3_Root_whole_candidate_new_byte_adoption": "PENDING",
+    "installation_and_publication": "PENDING_ROOT_SOLE_WRITER",
+    "basis": "Root17012 direct five-control evidence and finite commission, not asserted full V2QA receiving/adoption by Root. Original privatebody/finiteplan acceptance remains bounded actual history.",
+    "source_currentness": "Root reports main/Source166, same tree after PR462. Old C001/V005 reading snapshots remain dated; C00162/V005407 current apology corrections already respected in body. No new sourcecourse or source rewrite."
+  },
+  "composer_revision_control": {
+    "private_candidate_revision": "V3",
+    "reason": "Exact20 canonical quartet leaves in five operative controls, truthful staged gates and necessary additive unique Root/peer/author retention, Source-bound header and15 earlier bindings.",
+    "V1_disposition": "PRIVATE_UNSELECTED_HISTORY_REAL2878_REGISTERED_DESTINATION_FAILURES",
+    "V2_disposition": "FROZEN_HISTORY_COMPLETE_DIFFERENT_QA_WITH_FIVE_REAL_AUTHORITY_CONFORMANCE_FAILURES",
+    "Root_actual_candidate_byte_adoption": "PENDING",
+    "different_finite_V3_public6_QA": "PENDING",
+    "source_body": "No source/librarybody edit; BODYonlytwoSOURCEheader tokens changed, entire21286literarysuffix unchanged."
+  }
+}

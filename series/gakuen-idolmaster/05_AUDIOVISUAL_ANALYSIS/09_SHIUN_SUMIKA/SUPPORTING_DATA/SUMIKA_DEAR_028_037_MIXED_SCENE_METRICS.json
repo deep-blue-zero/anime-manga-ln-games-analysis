@@ -1,0 +1,189 @@
+[
+  {
+    "name": "D32_trauma_start",
+    "start": 1975,
+    "duration": 15,
+    "rms_db": -21.39,
+    "mid_side_db": 18.48,
+    "f0_med": 288.1,
+    "f0_iqr": 43.3,
+    "voiced_ratio": 0.704,
+    "centroid_hz": 1837.8
+  },
+  {
+    "name": "D32_strength_claim",
+    "start": 2050,
+    "duration": 15,
+    "rms_db": -22.82,
+    "mid_side_db": 16.26,
+    "f0_med": 331.0,
+    "f0_iqr": 128.6,
+    "voiced_ratio": 0.427,
+    "centroid_hz": 1807.6
+  },
+  {
+    "name": "D32_public_promise",
+    "start": 2065,
+    "duration": 20,
+    "rms_db": -21.91,
+    "mid_side_db": 28.1,
+    "f0_med": 365.1,
+    "f0_iqr": 91.6,
+    "voiced_ratio": 0.475,
+    "centroid_hz": 2291.5
+  },
+  {
+    "name": "D32_thanks",
+    "start": 2095,
+    "duration": 10,
+    "rms_db": -23.44,
+    "mid_side_db": 21.23,
+    "f0_med": 308.8,
+    "f0_iqr": 37.8,
+    "voiced_ratio": 0.231,
+    "centroid_hz": 3008.0
+  },
+  {
+    "name": "D32_humor_restore",
+    "start": 2120,
+    "duration": 20,
+    "rms_db": -21.85,
+    "mid_side_db": 21.83,
+    "f0_med": 406.3,
+    "f0_iqr": 66.6,
+    "voiced_ratio": 0.231,
+    "centroid_hz": 2651.1
+  },
+  {
+    "name": "D34_fear_selfdoubt",
+    "start": 2684,
+    "duration": 20,
+    "rms_db": -21.71,
+    "mid_side_db": 18.23,
+    "f0_med": 267.3,
+    "f0_iqr": 127.2,
+    "voiced_ratio": 0.602,
+    "centroid_hz": 1486.0
+  },
+  {
+    "name": "D34_acceptance",
+    "start": 2718,
+    "duration": 8,
+    "rms_db": -22.62,
+    "mid_side_db": 13.23,
+    "f0_med": 265.7,
+    "f0_iqr": 107.2,
+    "voiced_ratio": 0.406,
+    "centroid_hz": 1743.2
+  },
+  {
+    "name": "D34_hand_thanks",
+    "start": 2746,
+    "duration": 20,
+    "rms_db": -23.62,
+    "mid_side_db": 22.86,
+    "f0_med": 305.2,
+    "f0_iqr": 82.3,
+    "voiced_ratio": 0.348,
+    "centroid_hz": 1297.6
+  },
+  {
+    "name": "D34_commitment",
+    "start": 2774,
+    "duration": 10,
+    "rms_db": -23.7,
+    "mid_side_db": 15.54,
+    "f0_med": 288.9,
+    "f0_iqr": 169.8,
+    "voiced_ratio": 0.227,
+    "centroid_hz": 2094.0
+  },
+  {
+    "name": "D36_speech_start",
+    "start": 3320,
+    "duration": 20,
+    "rms_db": -23.82,
+    "mid_side_db": 16.31,
+    "f0_med": 418.2,
+    "f0_iqr": 102.5,
+    "voiced_ratio": 0.079,
+    "centroid_hz": 2837.7
+  },
+  {
+    "name": "D36_strength_directive",
+    "start": 3390,
+    "duration": 20,
+    "rms_db": -21.51,
+    "mid_side_db": 17.54,
+    "f0_med": 409.8,
+    "f0_iqr": 106.3,
+    "voiced_ratio": 0.338,
+    "centroid_hz": 2743.2
+  },
+  {
+    "name": "D36_final_address",
+    "start": 3420,
+    "duration": 25,
+    "rms_db": -22.14,
+    "mid_side_db": 16.35,
+    "f0_med": 383.5,
+    "f0_iqr": 91.8,
+    "voiced_ratio": 0.298,
+    "centroid_hz": 2469.6
+  },
+  {
+    "name": "D37_win_uncertainty",
+    "start": 3630,
+    "duration": 20,
+    "rms_db": -22.89,
+    "mid_side_db": 22.72,
+    "f0_med": 264.2,
+    "f0_iqr": 100.6,
+    "voiced_ratio": 0.688,
+    "centroid_hz": 1933.0
+  },
+  {
+    "name": "D37_gratitude",
+    "start": 3680,
+    "duration": 30,
+    "rms_db": -22.75,
+    "mid_side_db": 16.22,
+    "f0_med": 289.8,
+    "f0_iqr": 117.2,
+    "voiced_ratio": 0.615,
+    "centroid_hz": 1400.8
+  },
+  {
+    "name": "D37_request_truth",
+    "start": 3740,
+    "duration": 20,
+    "rms_db": -23.32,
+    "mid_side_db": 12.76,
+    "f0_med": 314.2,
+    "f0_iqr": 98.8,
+    "voiced_ratio": 0.369,
+    "centroid_hz": 817.8
+  },
+  {
+    "name": "D37_realization",
+    "start": 3860,
+    "duration": 35,
+    "rms_db": -22.41,
+    "mid_side_db": 20.97,
+    "f0_med": 293.1,
+    "f0_iqr": 225.8,
+    "voiced_ratio": 0.465,
+    "centroid_hz": 2422.2
+  },
+  {
+    "name": "D37_future",
+    "start": 3900,
+    "duration": 20,
+    "rms_db": -23.52,
+    "mid_side_db": 20.06,
+    "f0_med": 373.6,
+    "f0_iqr": 230.9,
+    "voiced_ratio": 0.158,
+    "centroid_hz": 2864.9
+  }
+]

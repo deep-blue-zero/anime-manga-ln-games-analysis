@@ -1,0 +1,965 @@
+{
+  "scope": "V14 Phase A candidate: all analytical register routes, source-member XPath coverage, visual hashes, explicit short-quote primary readbacks; manual attribution/nesting reviewed in ordered reading",
+  "raw_sha256": "86dd3d6ae2196f1255b9266003e0b6337ee5011e0d11d0a4d2afe25791d31fd5",
+  "zip_crc": null,
+  "evidence_units": 87,
+  "covered_original_paragraphs": 2341,
+  "visual_register_assets": 35,
+  "quotes": [
+    {
+      "record": 643,
+      "phrase": "結果的に超えても超えられなくても",
+      "speaker": "Miyako direct speech",
+      "gloss": "whether or not the work surpasses the benchmark",
+      "locator": "V14|chapter:北へ。|spine:018|xhtml:text/part0017.html|p:0137|fp:714eee4a9910",
+      "ruby": [],
+      "primary_contains": true
+    },
+    {
+      "record": 663,
+      "phrase": "事実と違うことを伝えた",
+      "speaker": "narrator describing Haruto",
+      "gloss": "the report is deliberately false",
+      "locator": "V14|chapter:北へ。|spine:018|xhtml:text/part0017.html|p:0157|fp:c0d775800c9d",
+      "ruby": [],
+      "primary_contains": true
+    },
+    {
+      "record": 1215,
+      "phrase": "可児那由多",
+      "speaker": "Itsuki proposal target",
+      "gloss": "professional writer as addressed reader",
+      "locator": "V14|chapter:シリウス|spine:032|xhtml:text/part0031.html|p:0090|fp:eb39782ba108",
+      "ruby": [
+        {
+          "start": 12,
+          "end": 13,
+          "base": "可",
+          "reading": "か"
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "base": "児",
+          "reading": "に"
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "base": "那",
+          "reading": "な"
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "base": "由",
+          "reading": "ゆ"
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "base": "多",
+          "reading": "た"
+        }
+      ],
+      "primary_contains": true
+    },
+    {
+      "record": 1218,
+      "phrase": "強い想い",
+      "speaker": "Miyako-aligned narration",
+      "gloss": "a strong feeling toward someone",
+      "locator": "V14|chapter:シリウス|spine:032|xhtml:text/part0031.html|p:0093|fp:e0d7057a603b",
+      "ruby": [],
+      "primary_contains": true
+    },
+    {
+      "record": 1288,
+      "phrase": "家事とか宙くんのこと",
+      "speaker": "Nayuta speech",
+      "gloss": "housework and care of Sora",
+      "locator": "V14|chapter:報いの虹|spine:036|xhtml:text/part0035.html|p:0037|fp:97a0583d5a77",
+      "ruby": [
+        {
+          "start": 16,
+          "end": 17,
+          "base": "宙",
+          "reading": "そら"
+        }
+      ],
+      "primary_contains": true
+    },
+    {
+      "record": 1289,
+      "phrase": "小説を書きたいので",
+      "speaker": "Nayuta attributed continuation",
+      "gloss": "because she wants to write",
+      "locator": "V14|chapter:報いの虹|spine:036|xhtml:text/part0035.html|p:0038|fp:3f7fe285dcbb",
+      "ruby": [],
+      "primary_contains": true
+    },
+    {
+      "record": 1481,
+      "phrase": "全員まとめて",
+      "speaker": "Itsuki public speech",
+      "gloss": "suspended challenge completed in ILL021",
+      "locator": "V14|chapter:報いの虹|spine:036|xhtml:text/part0035.html|p:0230|fp:9de6b749d5d0",
+      "ruby": [
+        {
+          "start": 43,
+          "end": 44,
+          "base": "有",
+          "reading": "う"
+        },
+        {
+          "start": 44,
+          "end": 45,
+          "base": "象",
+          "reading": "ぞう"
+        },
+        {
+          "start": 45,
+          "end": 46,
+          "base": "無",
+          "reading": "む"
+        },
+        {
+          "start": 46,
+          "end": 47,
+          "base": "象",
+          "reading": "ぞう"
+        }
+      ],
+      "primary_contains": true
+    },
+    {
+      "record": 1824,
+      "phrase": "人でなし",
+      "speaker": "draft-Sora focalization",
+      "gloss": "costly, inconsiderate creator aspiration",
+      "locator": "V14|chapter:青い小鳥たち|spine:042|xhtml:text/part0041.html|p:0046|fp:6c8f1b7f1698",
+      "ruby": [
+        {
+          "start": 25,
+          "end": 26,
+          "base": "蔑",
+          "reading": "ないがし"
+        }
+      ],
+      "primary_contains": true
+    },
+    {
+      "record": 2232,
+      "phrase": "現在２歳",
+      "speaker": "mainline narrator",
+      "gloss": "Sora is currently two; future is manuscript",
+      "locator": "V14|chapter:青い小鳥たち|spine:045|xhtml:text/part0044.html|p:0005|fp:d33710a39fd0",
+      "ruby": [
+        {
+          "start": 23,
+          "end": 24,
+          "base": "伊",
+          "reading": "い"
+        },
+        {
+          "start": 24,
+          "end": 25,
+          "base": "月",
+          "reading": "つき"
+        },
+        {
+          "start": 57,
+          "end": 58,
+          "base": "甥",
+          "reading": "おい"
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "base": "宙",
+          "reading": "そら"
+        }
+      ],
+      "primary_contains": true
+    },
+    {
+      "record": 2237,
+      "phrase": "生モノ",
+      "speaker": "Chihiro speech",
+      "gloss": "care around actual people used as fiction",
+      "locator": "V14|chapter:青い小鳥たち|spine:045|xhtml:text/part0044.html|p:0010|fp:b672901d8572",
+      "ruby": [],
+      "primary_contains": true
+    },
+    {
+      "record": 2258,
+      "phrase": "事後承諾",
+      "speaker": "Itsuki speech",
+      "gloss": "permission sought after writing",
+      "locator": "V14|chapter:青い小鳥たち|spine:045|xhtml:text/part0044.html|p:0031|fp:fb1a989f17bc",
+      "ruby": [],
+      "primary_contains": true
+    },
+    {
+      "record": 2263,
+      "phrase": "曇ってる顔",
+      "speaker": "Itsuki speech",
+      "gloss": "enjoying Nadeko's hurt face",
+      "locator": "V14|chapter:青い小鳥たち|spine:045|xhtml:text/part0044.html|p:0036|fp:bfd56c64f888",
+      "ruby": [
+        {
+          "start": 45,
+          "end": 47,
+          "base": "可愛",
+          "reading": "かわい"
+        }
+      ],
+      "primary_contains": true
+    },
+    {
+      "record": 2278,
+      "phrase": "ハイテク",
+      "speaker": "Chihiro speech",
+      "gloss": "vague future-technology critique",
+      "locator": "V14|chapter:青い小鳥たち|spine:045|xhtml:text/part0044.html|p:0051|fp:d16fd43a0896",
+      "ruby": [],
+      "primary_contains": true
+    },
+    {
+      "record": 2285,
+      "phrase": "ご都合主義",
+      "speaker": "Chihiro speech",
+      "gloss": "convenient fictional medicine",
+      "locator": "V14|chapter:青い小鳥たち|spine:045|xhtml:text/part0044.html|p:0058|fp:79d9cea49e96",
+      "ruby": [],
+      "primary_contains": true
+    },
+    {
+      "record": 2311,
+      "phrase": "宇宙飛行士になるんだから",
+      "speaker": "Chihiro private speech",
+      "gloss": "astronaut aspiration, not achievement",
+      "locator": "V14|chapter:青い小鳥たち|spine:045|xhtml:text/part0044.html|p:0084|fp:9df1829160c1",
+      "ruby": [],
+      "primary_contains": true
+    },
+    {
+      "record": 2315,
+      "phrase": "予知夢",
+      "speaker": "Chihiro private thought",
+      "gloss": "brief prophetic-dream speculation",
+      "locator": "V14|chapter:青い小鳥たち|spine:045|xhtml:text/part0044.html|p:0088|fp:0667e7e6de30",
+      "ruby": [],
+      "primary_contains": true
+    },
+    {
+      "record": 2316,
+      "phrase": "まさかね",
+      "speaker": "Chihiro private speech",
+      "gloss": "dismissal of that speculation",
+      "locator": "V14|chapter:青い小鳥たち|spine:045|xhtml:text/part0044.html|p:0089|fp:2a24a725a777",
+      "ruby": [],
+      "primary_contains": true
+    },
+    {
+      "record": 2320,
+      "phrase": "宙の妹",
+      "speaker": "mainline narrator through Chihiro",
+      "gloss": "actual unborn younger sister",
+      "locator": "V14|chapter:青い小鳥たち|spine:045|xhtml:text/part0044.html|p:0093|fp:810b9318a768",
+      "ruby": [
+        {
+          "start": 50,
+          "end": 51,
+          "base": "瑕",
+          "reading": "か"
+        },
+        {
+          "start": 51,
+          "end": 52,
+          "base": "疵",
+          "reading": "し"
+        }
+      ],
+      "primary_contains": true
+    },
+    {
+      "record": 2323,
+      "phrase": "ないものねだり",
+      "speaker": "Chihiro-aligned reflection",
+      "gloss": "desire for what one lacks",
+      "locator": "V14|chapter:青い小鳥たち|spine:045|xhtml:text/part0044.html|p:0096|fp:621dfbecc807",
+      "ruby": [],
+      "primary_contains": true
+    },
+    {
+      "record": 2328,
+      "phrase": "これさえあればいい。",
+      "speaker": "Chihiro-aligned reflection / narrator",
+      "gloss": "particular sufficient story",
+      "locator": "V14|chapter:青い小鳥たち|spine:045|xhtml:text/part0044.html|p:0101|fp:b6ade6dc596e",
+      "ruby": [
+        {
+          "start": 54,
+          "end": 55,
+          "base": "摑",
+          "reading": "つか"
+        }
+      ],
+      "primary_contains": true
+    },
+    {
+      "record": 2331,
+      "phrase": "実は本編でした",
+      "speaker": "Yomi afterword",
+      "gloss": "framing story actually main narrative",
+      "locator": "V14|chapter:あとがき２|spine:046|xhtml:text/part0045.html|p:0002|fp:7b3a47c8718f",
+      "ruby": [
+        {
+          "start": 210,
+          "end": 211,
+          "base": "千",
+          "reading": "ち"
+        },
+        {
+          "start": 211,
+          "end": 212,
+          "base": "尋",
+          "reading": "ひろ"
+        },
+        {
+          "start": 250,
+          "end": 251,
+          "base": "宙",
+          "reading": "そら"
+        },
+        {
+          "start": 252,
+          "end": 253,
+          "base": "優",
+          "reading": "ゆ"
+        },
+        {
+          "start": 253,
+          "end": 254,
+          "base": "羽",
+          "reading": "う"
+        }
+      ],
+      "primary_contains": true
+    },
+    {
+      "record": 2341,
+      "phrase": "関係ありますん",
+      "speaker": "author biography",
+      "gloss": "ambiguous comic negation",
+      "locator": "V14|chapter:あとがき２|spine:048|xhtml:text/part0047.html|p:0003|fp:eb6ab7975607",
+      "ruby": [],
+      "primary_contains": true
+    }
+  ],
+  "issues": [],
+  "status": "PASS",
+  "semantic_exception": "Frozen G005 replacement 吐 is wrong; original scolding glyph and しか ruby override analytical use without changing frozen release.",
+  "artifact": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V14_DEEP_READING.md",
+  "artifact_sha256": "e3bdbec2041a19dac8ad37726f07ed5820f2102a4722f74bc23b2817f4f8b489",
+  "artifact_bytes": 118708,
+  "ordered_intake_records": 2369,
+  "non_gaiji_visuals_inspected": 35,
+  "primary_identity_ruby_checks": [
+    {
+      "record": 86,
+      "locator": "V14|chapter:３年後|spine:011|xhtml:text/part0010.html|p:0010|fp:b7658b9a93ad",
+      "original_and_normalized_ruby_match": true,
+      "ruby_pairs": [
+        [
+          "神",
+          "み"
+        ],
+        [
+          "坂",
+          "さか"
+        ],
+        [
+          "蒼",
+          "そう"
+        ],
+        [
+          "真",
+          "ま"
+        ]
+      ]
+    },
+    {
+      "record": 269,
+      "locator": "V14|chapter:おっぱい|spine:014|xhtml:text/part0013.html|p:0071|fp:84860febe55b",
+      "original_and_normalized_ruby_match": true,
+      "ruby_pairs": [
+        [
+          "木",
+          "き"
+        ],
+        [
+          "曽",
+          "そ"
+        ],
+        [
+          "撫子",
+          "なでしこ"
+        ],
+        [
+          "羽",
+          "は"
+        ],
+        [
+          "島",
+          "しま"
+        ]
+      ]
+    },
+    {
+      "record": 742,
+      "locator": "V14|chapter:吸血鬼爆誕|spine:020|xhtml:text/part0019.html|p:0035|fp:c71cc6ecd2ce",
+      "original_and_normalized_ruby_match": true,
+      "ruby_pairs": [
+        [
+          "木",
+          "き"
+        ],
+        [
+          "曽",
+          "そ"
+        ],
+        [
+          "義",
+          "よし"
+        ],
+        [
+          "弘",
+          "ひろ"
+        ],
+        [
+          "神",
+          "ごう"
+        ],
+        [
+          "戸",
+          "ど"
+        ],
+        [
+          "聖",
+          "さとし"
+        ],
+        [
+          "土",
+          "と"
+        ],
+        [
+          "岐",
+          "き"
+        ],
+        [
+          "健",
+          "けん"
+        ],
+        [
+          "次",
+          "じ"
+        ],
+        [
+          "郎",
+          "ろう"
+        ],
+        [
+          "褒",
+          "ほ"
+        ]
+      ]
+    },
+    {
+      "record": 800,
+      "locator": "V14|chapter:仁義なき業界|spine:022|xhtml:text/part0021.html|p:0024|fp:e47d6617d02e",
+      "original_and_normalized_ruby_match": true,
+      "ruby_pairs": [
+        [
+          "揉",
+          "も"
+        ],
+        [
+          "和泉",
+          "いずみ"
+        ],
+        [
+          "颯",
+          "そう"
+        ],
+        [
+          "太",
+          "た"
+        ]
+      ]
+    },
+    {
+      "record": 1075,
+      "locator": "V14|chapter:パンツをかぶる日|spine:028|xhtml:text/part0027.html|p:0055|fp:fef956e6963e",
+      "original_and_normalized_ruby_match": true,
+      "ruby_pairs": [
+        [
+          "熊",
+          "くま"
+        ],
+        [
+          "野",
+          "の"
+        ],
+        [
+          "愛",
+          "まな"
+        ],
+        [
+          "果",
+          "か"
+        ]
+      ]
+    },
+    {
+      "record": 1472,
+      "locator": "V14|chapter:報いの虹|spine:036|xhtml:text/part0035.html|p:0221|fp:62a9a44e4823",
+      "original_and_normalized_ruby_match": true,
+      "ruby_pairs": [
+        [
+          "可",
+          "か"
+        ],
+        [
+          "児",
+          "に"
+        ],
+        [
+          "那",
+          "な"
+        ],
+        [
+          "由",
+          "ゆ"
+        ],
+        [
+          "多",
+          "た"
+        ],
+        [
+          "羽",
+          "は"
+        ],
+        [
+          "島",
+          "しま"
+        ],
+        [
+          "千",
+          "ち"
+        ],
+        [
+          "尋",
+          "ひろ"
+        ],
+        [
+          "白",
+          "しら"
+        ],
+        [
+          "川",
+          "かわ"
+        ],
+        [
+          "京",
+          "みやこ"
+        ],
+        [
+          "不",
+          "ふ"
+        ],
+        [
+          "破",
+          "わ"
+        ],
+        [
+          "春",
+          "はる"
+        ],
+        [
+          "斗",
+          "と"
+        ],
+        [
+          "恵",
+          "え"
+        ],
+        [
+          "那",
+          "な"
+        ],
+        [
+          "刹",
+          "せつ"
+        ],
+        [
+          "那",
+          "な"
+        ],
+        [
+          "三",
+          "み"
+        ],
+        [
+          "国",
+          "くに"
+        ],
+        [
+          "山",
+          "やま"
+        ],
+        [
+          "蚕",
+          "かいこ"
+        ],
+        [
+          "木",
+          "き"
+        ],
+        [
+          "曽",
+          "そ"
+        ],
+        [
+          "撫子",
+          "なでしこ"
+        ],
+        [
+          "海",
+          "かい"
+        ],
+        [
+          "津",
+          "づ"
+        ],
+        [
+          "真",
+          "ま"
+        ],
+        [
+          "騎",
+          "き"
+        ],
+        [
+          "那",
+          "な"
+        ],
+        [
+          "八",
+          "や"
+        ],
+        [
+          "坂",
+          "さか"
+        ],
+        [
+          "土",
+          "と"
+        ],
+        [
+          "岐",
+          "き"
+        ],
+        [
+          "健",
+          "けん"
+        ],
+        [
+          "次",
+          "じ"
+        ],
+        [
+          "郎",
+          "ろう"
+        ],
+        [
+          "神",
+          "ごう"
+        ],
+        [
+          "戸",
+          "ど"
+        ],
+        [
+          "聖",
+          "さとし"
+        ],
+        [
+          "山",
+          "やま"
+        ],
+        [
+          "県",
+          "がた"
+        ],
+        [
+          "笠",
+          "かさ"
+        ],
+        [
+          "松",
+          "まつ"
+        ],
+        [
+          "青",
+          "あお"
+        ],
+        [
+          "葉",
+          "ば"
+        ],
+        [
+          "相",
+          "あい"
+        ],
+        [
+          "生",
+          "おい"
+        ],
+        [
+          "初",
+          "うい"
+        ],
+        [
+          "義",
+          "よし"
+        ],
+        [
+          "弘",
+          "ひろ"
+        ],
+        [
+          "加",
+          "か"
+        ],
+        [
+          "茂",
+          "も"
+        ],
+        [
+          "正",
+          "ただし"
+        ],
+        [
+          "柳",
+          "やな"
+        ],
+        [
+          "ヶ",
+          "が"
+        ],
+        [
+          "瀬",
+          "せ"
+        ],
+        [
+          "慎",
+          "まこと"
+        ],
+        [
+          "和泉",
+          "いずみ"
+        ],
+        [
+          "颯",
+          "そう"
+        ],
+        [
+          "太",
+          "た"
+        ],
+        [
+          "三",
+          "み"
+        ],
+        [
+          "田",
+          "た"
+        ],
+        [
+          "洞",
+          "ほら"
+        ],
+        [
+          "彩",
+          "あや"
+        ],
+        [
+          "音",
+          "ね"
+        ],
+        [
+          "城",
+          "しろ"
+        ],
+        [
+          "ヶ",
+          "が"
+        ],
+        [
+          "峰",
+          "みね"
+        ],
+        [
+          "信",
+          "のぶ"
+        ],
+        [
+          "長",
+          "なが"
+        ],
+        [
+          "啓",
+          "けい"
+        ],
+        [
+          "輔",
+          "すけ"
+        ],
+        [
+          "棗",
+          "なつめ"
+        ],
+        [
+          "栞",
+          "しおり"
+        ],
+        [
+          "宙",
+          "そら"
+        ],
+        [
+          "優",
+          "ゆ"
+        ],
+        [
+          "羽",
+          "う"
+        ],
+        [
+          "高",
+          "たか"
+        ],
+        [
+          "科",
+          "しな"
+        ],
+        [
+          "勇",
+          "ゆう"
+        ],
+        [
+          "真",
+          "ま"
+        ],
+        [
+          "垂",
+          "たる"
+        ],
+        [
+          "井",
+          "い"
+        ],
+        [
+          "宗",
+          "むね"
+        ],
+        [
+          "典",
+          "のり"
+        ],
+        [
+          "大",
+          "おお"
+        ],
+        [
+          "島",
+          "しま"
+        ],
+        [
+          "勤",
+          "つとむ"
+        ],
+        [
+          "乗",
+          "のり"
+        ],
+        [
+          "鞍",
+          "くら"
+        ],
+        [
+          "拓",
+          "たく"
+        ],
+        [
+          "郎",
+          "ろう"
+        ],
+        [
+          "朝",
+          "あさ"
+        ],
+        [
+          "倉",
+          "くら"
+        ],
+        [
+          "正",
+          "まさ"
+        ],
+        [
+          "樹",
+          "き"
+        ],
+        [
+          "山",
+          "やま"
+        ],
+        [
+          "田",
+          "だ"
+        ],
+        [
+          "駆",
+          "かける"
+        ],
+        [
+          "中",
+          "なか"
+        ],
+        [
+          "島",
+          "しま"
+        ],
+        [
+          "鮨",
+          "すし"
+        ],
+        [
+          "太",
+          "た"
+        ]
+      ]
+    }
+  ],
+  "canonicalization": "Phase A reading with explicit primary-name corrections; publication pending",
+  "source_route_repair": "Ceremony continuation unit explicitly added to Ui/Izumi/changed-address claims; register source bytes and IDs unchanged.",
+  "original_tranche_representation": {
+    "sha256": "b64b3f0c82569ae572eaa609116262ae4afd19f01b6b393b2ae253ec777cfea6",
+    "bytes": 119441,
+    "scope": "Actual Phase A checked representation before first-publication compatibility transform"
+  },
+  "publication_compatibility": "Required LF and opaque Drive-ID references only; analysis/E identifiers/states unchanged; explicit transformation receipt binds before/after"
+}

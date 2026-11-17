@@ -1,0 +1,633 @@
+{
+  "schema": "MIDORI_CURRENT_PUBLIC12_CUSTODY_NAVIGATION_AND_HEADER_AUTHORITIES_V1",
+  "artifact_id": "MIDORI_CURRENT_PUBLIC_NAV_20261015_V1",
+  "preparation_scope": {
+    "metadata_prepared": "2026-10-15",
+    "current_semantic_basis": "ACTUAL_ROOT_PRIVATE_V4_EXACT8_ADOPTED_WITH_LIMITS;NO_PUBLIC_BYTE_ADOPTION_OR_COUNT_FROM_COMPOSITION",
+    "roles": "Private body/genuine105 author /root/m008_composition_review; distinct component reviewer /root/next_cast_source_preparation; public metadata composer /root/publishing_shared7_review (prior body-only reviewer); ROOT actual receiving and private8 adoption separately attributed. This report is not fresh independent public-byte QA.",
+    "source_grades": "Private author6WHOLE1675 (3new749+3prior926); current component peer6WHOLE1675 (1new436+5prior1239); earlier body-only peer3WHOLE749+3SELECTED519=1268. ROOT body course5WHOLE1223+FinalSELECTED150; later Final162 is separate. Original common10526WHOLE79SELECTED and producer19/source inspections remain attributed, not transferred. Composition adds no source reading.",
+    "history": "Original body-first header/intro, pending labels, new105 NOT_AUTHORED in the old map, original sourcebook and stored167 reconstruction are dated creation witnesses. Current private105/525 and ROOT private8 acceptance are completed WITH LIMITS. The separate operative public reconstruction and explicit live aliases govern current metadata; historical source/book/QA tuples keep their old scopes.",
+    "finite_actors": "Midori receives remembered consoles FROM Momoi, wins the plush, observes missing chip damage; Alice owns the bug hypothesis, Yuzu owns the volunteered perfect match and staff own the transfer report. Toki later chooses fighting as friend, distinct from the club earlier refusal to abandon her. Midori prepared food is not an invented appreciation response.",
+    "ordinary_goods": "Drawing, clothes, games, prepared food, remembered objects, quiet company and wanted attention retain intrinsic positive meaning independently of product completion or crisis contribution. Wanted console-viewing recovery is unprinted, not proof it remained lost.",
+    "common_qualifier_limits": "O087 agreement is not a fulfilled week; O094 concerns reading access, not authored writing; O096 supplied food precedes later bargaining, a contract follows rejected9:1 with final ratio unprinted; O098 inward time-buying aim is not measured success or final victory; O103 fear/projection and fuel/battery actor seams remain distinct. Original narrow qualifier layers retain their exact scopes.",
+    "review_history": "Complete V3 peer review retains its actual HOLD at105 stale current index routes. The separately reported V4 finite review resolves exactly those routes and transport4 leaves, reusing all unchanged substantive values. Neither history is silently relabeled or converted to new review.",
+    "identity_and_responsibility": "Existing home53/ordinal54/CSV55/F116/P3-CHAR-MIDORI; BA_PERSON_MIDORI variants10016/10095 remain printed routes. No inside named duty, extra REL, registry/person merge or model.",
+    "future_gates_at_preparation": "At this2026-10-15 metadata preparation, distinct public12 byte/documentary QA and ROOT composed-byte adoption, ordinary governed installation/preflight/live controls/publication/readbacks/fresh runtime remain separate actual receipts. This dated proposal never automatically certifies a later event.",
+    "fixed_limits": "All14 original gaps OPEN; models0; no new package/count/source/admission/identity/named/extraREL/install/publication/runtime/merge credit; merge RESERVED."
+  },
+  "exact_current_first10_nonself_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIDORI_CHARACTER_MONOGRAPH.md",
+      "bytes": 32805,
+      "sha256": "aa77b794f9f9e2776bae01533b27e1fa013b8f8dafa319c0be0907688cc85e12",
+      "git_blob_oid_of_actual_bytes": "70b681d9033bcc7ed33efea479fffe1f6254537e"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP000_MDP035_V1.json",
+      "bytes": 462039,
+      "sha256": "988e343ce06aba4fbcf4bbb29c617380406b0cc037bd92d1aa127ebad42e0312",
+      "git_blob_oid_of_actual_bytes": "0044da78c882edf72c2d4b38a6992c4b3cae30ba"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP036_MDP070_V1.json",
+      "bytes": 587188,
+      "sha256": "2a050c21c6384b8b95574c75fc8cdb7a8ffd84dc2839090c6002ffdeac8f72e3",
+      "git_blob_oid_of_actual_bytes": "78ebbda9371f61ad0dbb1040c4ae8e79298923ee"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP071_MDP104_V1.json",
+      "bytes": 772459,
+      "sha256": "b95acf2d28139d62f604ca71b8e6212583ae7eea3e387da20f60896db7c52c62",
+      "git_blob_oid_of_actual_bytes": "d3de857c69d50dcbde80cb1eedc17aaf5892f8ad"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_SOURCE6_COMPLETE12_PREQUESTIONS_ANSWERS_GRADE_AND_ORIGINAL_COMMON105_QUALIFIERS_V1.json",
+      "bytes": 61848,
+      "sha256": "f50a3deaf7bf46899e71247bd0b3337e66ab7701a090973b1fe865473c2425ed",
+      "git_blob_oid_of_actual_bytes": "d17f8a705f116e5e9c986eab77b5df8322b6da5b"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_COMPLETE_LITERAL59_SOURCE_QUESTION_NEW105_RIVAL_END_GAP_REGISTER_V1.json",
+      "bytes": 462224,
+      "sha256": "3bb113f73ac09d7d5544f7b22c0e7c35c28b595bc84beb5f0f4b1d06cd6f3700",
+      "git_blob_oid_of_actual_bytes": "d4074784158bb533e81824c41cf363ee3b86d4ba"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSE_EXACT_PART_BODY_RELATION_INDEX_V1.json",
+      "bytes": 338639,
+      "sha256": "afd98d1eb3f7f7f29a3dee6bb4b3d4883e84aba18798e229a3cb213b1425fb4f",
+      "git_blob_oid_of_actual_bytes": "56d8241e48c19615cc5168e0205c0934e768e7a5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+      "bytes": 26378,
+      "sha256": "2b3f1affbada0662f12618aeff3c37ebf5139a00c61907a3b88e2cbbf1be72cc",
+      "git_blob_oid_of_actual_bytes": "12c74f367a47008df0d17acf564161f58331ef85"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_PRIOR_DISTINCT_COMPLETE_COMPONENT_REVIEW_TRUTHFUL_INPUT_REPORT_V1.json",
+      "bytes": 724805,
+      "sha256": "f127c5992c30c87388691cb9e604fe0020aa1c011833ee284fc4b503b01401a3",
+      "git_blob_oid_of_actual_bytes": "f5c19932d5d3faef71d26371aa5724a4a4865e7a"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ACTUAL_ROOT_PRIVATE_V4_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json",
+      "bytes": 25553,
+      "sha256": "f666f66182c5dd8017c9de55742167d007b1451191200c586f483d3c897fc845",
+      "git_blob_oid_of_actual_bytes": "95dba62ae272d1b4647c5d1a71d74c7c50a527fe"
+    }
+  ],
+  "current_header_authority_map": [
+    {
+      "header_witness_id": "ROOT_MIDORI_PRIVATE_V4_SEMANTIC_ADOPTION_20261015_V1",
+      "original_authority_id": "MIDORI_ACTUAL_ROOT_PRIVATE_V4_438522",
+      "original_authority_tuple": {
+        "bytes": 438522,
+        "sha256": "3d858a11c94698258dc157d4048cbae1b229a779365c6f2571485b0a7bb99684",
+        "git_blob_oid_of_actual_bytes": "e30d9b7a54081c12e7bbc42220162d90827e4789"
+      },
+      "current_public_report": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ACTUAL_ROOT_PRIVATE_V4_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json",
+        "bytes": 25553,
+        "sha256": "f666f66182c5dd8017c9de55742167d007b1451191200c586f483d3c897fc845",
+        "git_blob_oid_of_actual_bytes": "95dba62ae272d1b4647c5d1a71d74c7c50a527fe"
+      },
+      "role": "Actual private8 acceptance, not public-byte acceptance; public report excludes only explicitly bound mechanical checks."
+    },
+    {
+      "header_witness_id": "MIDORI_PRIOR_DISTINCT_COMPONENT_REVIEW_WITH_V4_ROUTE_QUALIFICATION_20261015_V1",
+      "original_authority_id": "MIDORI_ACTUAL_PEER_V3_641440_PLUS_V4_11301",
+      "original_V3_tuple": {
+        "bytes": 641440,
+        "sha256": "bd1aaf322fa565c6904a1fb3ecd5043b7af0abff4b63ff6e3b0684e876b5e9e9",
+        "git_blob_oid_of_actual_bytes": "c101997ca7b03e7d22f107454bd3993d13b192aa"
+      },
+      "current_V4_qualification_tuple": {
+        "bytes": 11301,
+        "sha256": "2bbf9d0149e6bd1607c115f0c62ba8220b42704d97f991a4e4a62c620bdd5be8",
+        "git_blob_oid_of_actual_bytes": "be7f87f9dabed267be1b2d43ec27350c942fb14c"
+      },
+      "current_public_report": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_PRIOR_DISTINCT_COMPLETE_COMPONENT_REVIEW_TRUTHFUL_INPUT_REPORT_V1.json",
+        "bytes": 724805,
+        "sha256": "f127c5992c30c87388691cb9e604fe0020aa1c011833ee284fc4b503b01401a3",
+        "git_blob_oid_of_actual_bytes": "f5c19932d5d3faef71d26371aa5724a4a4865e7a"
+      },
+      "role": "Complete prior private component review and finite route resolution, not fresh public-byte QA."
+    }
+  ],
+  "complete_original8_review_basis": [
+    {
+      "private_witness_id": "MIDORI_REVIEWED_PRIVATE_COMPONENT_0",
+      "prospective_public_alias": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIDORI_CHARACTER_MONOGRAPH.md",
+      "bytes": 31861,
+      "sha256": "8646dd20f51305c04b5f42f0abbe2235560801331ad2bad86b0194b0d9cb6ef8",
+      "git_blob_oid_of_actual_bytes": "306be94b7d39bed13f4c913a68e97c791d8ced3b"
+    },
+    {
+      "private_witness_id": "MIDORI_REVIEWED_PRIVATE_COMPONENT_1",
+      "prospective_public_alias": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP000_MDP035_V1.json",
+      "bytes": 468022,
+      "sha256": "da2f5dec71f5532d7f778799c5a3b062e4c75ff986a9812afc669c5d5f2ab9c6",
+      "git_blob_oid_of_actual_bytes": "630633da836612e984a20450e0d8954c7551fd3d"
+    },
+    {
+      "private_witness_id": "MIDORI_REVIEWED_PRIVATE_COMPONENT_2",
+      "prospective_public_alias": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP036_MDP070_V1.json",
+      "bytes": 593015,
+      "sha256": "feed97f6209766e71bd4f64a03c6a2b13201e5ad78065a43496a705449e74a8e",
+      "git_blob_oid_of_actual_bytes": "d3397a6579b3b192f8d90beae5aa020dd5add27f"
+    },
+    {
+      "private_witness_id": "MIDORI_REVIEWED_PRIVATE_COMPONENT_3",
+      "prospective_public_alias": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP071_MDP104_V1.json",
+      "bytes": 778130,
+      "sha256": "4dd5ad1ecbde2ba344368e29b531654dfe7a0367b441bea5ca2a55b7e788916e",
+      "git_blob_oid_of_actual_bytes": "2a831bd0df1e77c1cd382023b0fc0608fcd1514d"
+    },
+    {
+      "private_witness_id": "MIDORI_REVIEWED_PRIVATE_COMPONENT_4",
+      "prospective_public_alias": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_SOURCE6_COMPLETE12_PREQUESTIONS_ANSWERS_GRADE_AND_ORIGINAL_COMMON105_QUALIFIERS_V1.json",
+      "bytes": 69405,
+      "sha256": "586ad6e8d42f8eb4f8690c6bfd7ee07ea618215b899f3d9a9ef7883476283fbe",
+      "git_blob_oid_of_actual_bytes": "633cc765c6d9c5c87608cc2e2c68e8c61f38d8ad"
+    },
+    {
+      "private_witness_id": "MIDORI_REVIEWED_PRIVATE_COMPONENT_5",
+      "prospective_public_alias": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_COMPLETE_LITERAL59_SOURCE_QUESTION_NEW105_RIVAL_END_GAP_REGISTER_V1.json",
+      "bytes": 415247,
+      "sha256": "900dc7a605927ee010f421d5a99903559409c2e82e5fdc9248dafeccaac18ebc",
+      "git_blob_oid_of_actual_bytes": "0562a6a0b353ca5d045aacaf239be4b6e40f781d"
+    },
+    {
+      "private_witness_id": "MIDORI_REVIEWED_PRIVATE_COMPONENT_6",
+      "prospective_public_alias": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSE_EXACT_PART_BODY_RELATION_INDEX_V1.json",
+      "bytes": 356013,
+      "sha256": "fa10abf77786699c300e62e9960e76962735390bea17c554dfba1e824591373b",
+      "git_blob_oid_of_actual_bytes": "b68c76bd19f631816f20045e71db3ab6cd5afe86"
+    },
+    {
+      "private_witness_id": "MIDORI_REVIEWED_PRIVATE_COMPONENT_7",
+      "prospective_public_alias": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+      "bytes": 26480,
+      "sha256": "8c382a901d338ee9b32cc237ac5dcbf5276bbea38fb42c3f4b0442de0e83c18e",
+      "git_blob_oid_of_actual_bytes": "336ead6cf1b91537e6cd86e6150f7e473606c50c"
+    }
+  ],
+  "original14_and20_recovery_contract": {
+    "actual_whole_original14_tuples": [
+      {
+        "bytes": 58865,
+        "sha256": "2e923d2763c8073d0d61d54acb78ce99d5bbe4edef0eb84efca38cd0783bab5d",
+        "git_blob_oid_of_actual_bytes": "914909a538f54ac969e280fe5f60c55e96dd2906"
+      },
+      {
+        "bytes": 53604,
+        "sha256": "9ffdf06d3991c7677bf1377a4e599dbd61136029c80220cb2b9540bca56d0735",
+        "git_blob_oid_of_actual_bytes": "bd835b21400054707d5113ec6c23e6a0cd26bf18"
+      },
+      {
+        "bytes": 55023,
+        "sha256": "7421defc4b0f32b5a3f603763d76cd744ba09a9bf40cd7a4e629d2efc2467bba",
+        "git_blob_oid_of_actual_bytes": "ed66acda47094a411487ea10f8ec3b41091f55cc"
+      },
+      {
+        "bytes": 70082,
+        "sha256": "26b6f1b31df148c44134c599510f60cec5e58203bb9f60b2f964e56916cf8e5f",
+        "git_blob_oid_of_actual_bytes": "5cc40b03dd38e6eaf935699be4765b68aa7820c4"
+      },
+      {
+        "bytes": 85986,
+        "sha256": "83870b947a0f25a459b4b0d8fec33a552bc0fe74b92e0ba62572fbe44e1e3d36",
+        "git_blob_oid_of_actual_bytes": "79380b8b1b6dfb4757064663f8f14135b12bbc07"
+      },
+      {
+        "bytes": 96346,
+        "sha256": "ade26f1d99ddfe1835a7a39a718816dd283c385945e0100893058c9835be945a",
+        "git_blob_oid_of_actual_bytes": "fdcc1cb8850106660091c1560b7ea88c9a8d00aa"
+      },
+      {
+        "bytes": 110226,
+        "sha256": "342d9319537817e2ebca80032572b88e24c889655d1d1b921df242164fd490c5",
+        "git_blob_oid_of_actual_bytes": "1e7a194861dd50acaa4668e51dd026337db8468b"
+      },
+      {
+        "bytes": 131988,
+        "sha256": "776d61eb17eb70111047e21a6cc38ebd0b58fdf3c93510de16786ca12a95e640",
+        "git_blob_oid_of_actual_bytes": "6bb3ba99a453c0b537273fd3aaa7915edfa8b46b"
+      },
+      {
+        "bytes": 140190,
+        "sha256": "322e14ed4c07435f2ec419786f9551c47e55d99fceafff1a5ae81504e1311947",
+        "git_blob_oid_of_actual_bytes": "e43d962d95815f01556bb04b91f580c870235eda"
+      },
+      {
+        "bytes": 152450,
+        "sha256": "3408232ce6a8f0624ab792e92c01ca818aab2f5d4f682cc92ecc6e4596686309",
+        "git_blob_oid_of_actual_bytes": "cad8c10fc131ccbaacce780a5101c99c77d8b5ec"
+      },
+      {
+        "bytes": 83739,
+        "sha256": "81364d28d5da8a26c88fb390645099415f5b6db8723f9475a3ff6df5d783d387",
+        "git_blob_oid_of_actual_bytes": "5b1be5e3ef3bdc9e5174f0953893704b1968641d"
+      },
+      {
+        "bytes": 405832,
+        "sha256": "c5554f1ad3d152529beeeab079fcb5a6a9e7ba26a6ef0f8fd2545af4c5c68bc3",
+        "git_blob_oid_of_actual_bytes": "1b227069e0ef843ad100b4c716aacca4ca4b72b6"
+      },
+      {
+        "bytes": 549668,
+        "sha256": "2d3d97e0e0a8f5b6d5216bb2c6724c37eb73080df7567d58e74bb8e5da18dec1",
+        "git_blob_oid_of_actual_bytes": "597f6da9880d36cca4d1138e472d43de5bc7cc17"
+      },
+      {
+        "bytes": 707877,
+        "sha256": "370075d93bee086430bd29702eca9725fc3a9d09962f19fb2c2c7f01d2ccf9ba",
+        "git_blob_oid_of_actual_bytes": "8d824facccff446e3712ab9a2ece904dff8a042e"
+      }
+    ],
+    "substitution_count": 315,
+    "complete_custody20": [
+      {
+        "original_role": "frozen_11",
+        "bytes": 58865,
+        "sha256": "2e923d2763c8073d0d61d54acb78ce99d5bbe4edef0eb84efca38cd0783bab5d",
+        "git_blob_oid_of_actual_bytes": "914909a538f54ac969e280fe5f60c55e96dd2906"
+      },
+      {
+        "original_role": "frozen_12",
+        "bytes": 53604,
+        "sha256": "9ffdf06d3991c7677bf1377a4e599dbd61136029c80220cb2b9540bca56d0735",
+        "git_blob_oid_of_actual_bytes": "bd835b21400054707d5113ec6c23e6a0cd26bf18"
+      },
+      {
+        "original_role": "frozen_13",
+        "bytes": 55023,
+        "sha256": "7421defc4b0f32b5a3f603763d76cd744ba09a9bf40cd7a4e629d2efc2467bba",
+        "git_blob_oid_of_actual_bytes": "ed66acda47094a411487ea10f8ec3b41091f55cc"
+      },
+      {
+        "original_role": "frozen_14",
+        "bytes": 70082,
+        "sha256": "26b6f1b31df148c44134c599510f60cec5e58203bb9f60b2f964e56916cf8e5f",
+        "git_blob_oid_of_actual_bytes": "5cc40b03dd38e6eaf935699be4765b68aa7820c4"
+      },
+      {
+        "original_role": "frozen_15",
+        "bytes": 85986,
+        "sha256": "83870b947a0f25a459b4b0d8fec33a552bc0fe74b92e0ba62572fbe44e1e3d36",
+        "git_blob_oid_of_actual_bytes": "79380b8b1b6dfb4757064663f8f14135b12bbc07"
+      },
+      {
+        "original_role": "frozen_16",
+        "bytes": 96346,
+        "sha256": "ade26f1d99ddfe1835a7a39a718816dd283c385945e0100893058c9835be945a",
+        "git_blob_oid_of_actual_bytes": "fdcc1cb8850106660091c1560b7ea88c9a8d00aa"
+      },
+      {
+        "original_role": "frozen_17",
+        "bytes": 110226,
+        "sha256": "342d9319537817e2ebca80032572b88e24c889655d1d1b921df242164fd490c5",
+        "git_blob_oid_of_actual_bytes": "1e7a194861dd50acaa4668e51dd026337db8468b"
+      },
+      {
+        "original_role": "frozen_18",
+        "bytes": 131988,
+        "sha256": "776d61eb17eb70111047e21a6cc38ebd0b58fdf3c93510de16786ca12a95e640",
+        "git_blob_oid_of_actual_bytes": "6bb3ba99a453c0b537273fd3aaa7915edfa8b46b"
+      },
+      {
+        "original_role": "frozen_19",
+        "bytes": 140190,
+        "sha256": "322e14ed4c07435f2ec419786f9551c47e55d99fceafff1a5ae81504e1311947",
+        "git_blob_oid_of_actual_bytes": "e43d962d95815f01556bb04b91f580c870235eda"
+      },
+      {
+        "original_role": "frozen_20",
+        "bytes": 152450,
+        "sha256": "3408232ce6a8f0624ab792e92c01ca818aab2f5d4f682cc92ecc6e4596686309",
+        "git_blob_oid_of_actual_bytes": "cad8c10fc131ccbaacce780a5101c99c77d8b5ec"
+      },
+      {
+        "original_role": "frozen_21",
+        "bytes": 83739,
+        "sha256": "81364d28d5da8a26c88fb390645099415f5b6db8723f9475a3ff6df5d783d387",
+        "git_blob_oid_of_actual_bytes": "5b1be5e3ef3bdc9e5174f0953893704b1968641d"
+      },
+      {
+        "original_role": "frozen_22",
+        "bytes": 405832,
+        "sha256": "c5554f1ad3d152529beeeab079fcb5a6a9e7ba26a6ef0f8fd2545af4c5c68bc3",
+        "git_blob_oid_of_actual_bytes": "1b227069e0ef843ad100b4c716aacca4ca4b72b6"
+      },
+      {
+        "original_role": "frozen_23",
+        "bytes": 549668,
+        "sha256": "2d3d97e0e0a8f5b6d5216bb2c6724c37eb73080df7567d58e74bb8e5da18dec1",
+        "git_blob_oid_of_actual_bytes": "597f6da9880d36cca4d1138e472d43de5bc7cc17"
+      },
+      {
+        "original_role": "frozen_24",
+        "bytes": 707877,
+        "sha256": "370075d93bee086430bd29702eca9725fc3a9d09962f19fb2c2c7f01d2ccf9ba",
+        "git_blob_oid_of_actual_bytes": "8d824facccff446e3712ab9a2ece904dff8a042e"
+      },
+      {
+        "original_role": "frozen_25",
+        "bytes": 61767,
+        "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+        "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+      },
+      {
+        "original_role": "frozen_26",
+        "bytes": 59334,
+        "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+        "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+      },
+      {
+        "original_role": "original11_proof",
+        "bytes": 21261,
+        "sha256": "4e0d72fecee425bc4be247a014b9e66060292741b6f14df57d8443491b08cecf",
+        "git_blob_oid_of_actual_bytes": "d3a5f6699a50d2ac594909520a50e106d2a0d50c"
+      },
+      {
+        "original_role": "carrier_proof_0",
+        "bytes": 160382,
+        "sha256": "7993a3564800575bb89e5096dfbc0bf3664ebf2769b1d771f4cd0643f8860ded",
+        "git_blob_oid_of_actual_bytes": "aad21c3bebd95c9da0aa96b0f1d2cb875af33bb3"
+      },
+      {
+        "original_role": "carrier_proof_1",
+        "bytes": 166171,
+        "sha256": "19cbaf552d1e424c471abb06314504e8f3deff24a0f013b5ddfeb735f7d32a48",
+        "git_blob_oid_of_actual_bytes": "1ce6c582726936cbaa6f3bbe69da5443c0332b7b"
+      },
+      {
+        "original_role": "carrier_proof_2",
+        "bytes": 168665,
+        "sha256": "4043e8633501fa8d3319bf5392775869b3cea55d8c7322879a340c9a2a4b34e9",
+        "git_blob_oid_of_actual_bytes": "f2e0ba8927a638ba08e58299d8041e1004816065"
+      }
+    ],
+    "method": "Full current public original objects reverse exact delivery-value normalization to original private parts, then resolve the fourteen complete ordered templates. Each indent2/ensure_asciiFalse/oneLF raw result equals its original whole copy. All20 raw copies and14 full proofs retained privately; tuples alone do not grant source reading.",
+    "private_original_and_inverse_custody_id": "MIDORI_PUBLIC12_COMPLETE_PRIVATE_ORIGINAL8_14_20_AND_REPORT_AUTHORITIES_V1"
+  },
+  "canonical_alias_declarations": [
+    "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIDORI_CHARACTER_MONOGRAPH.md",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP000_MDP035_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP036_MDP070_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSES_MDP071_MDP104_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_SOURCE6_COMPLETE12_PREQUESTIONS_ANSWERS_GRADE_AND_ORIGINAL_COMMON105_QUALIFIERS_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_COMPLETE_LITERAL59_SOURCE_QUESTION_NEW105_RIVAL_END_GAP_REGISTER_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ALL105_GENUINE_NEW_PURPOSE_EXACT_PART_BODY_RELATION_INDEX_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_PRIOR_DISTINCT_COMPLETE_COMPONENT_REVIEW_TRUTHFUL_INPUT_REPORT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDORI_CHARACTER_RECEIVING_20261015_V1/MIDORI_ACTUAL_ROOT_PRIVATE_V4_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json"
+  ],
+  "opaque_private_delivery_witnesses": [
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_0f75edd31c6a3cb0a688c778246c410e50535bdb1aa88373637b959314bd7f59",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_140c1e7efd99bef76c85a5b3c42832ab179de3ba431d89576f96b2d52682c202",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_169c68a8a818f4493dfb4f54257545745f315a9a2694baca78ac3d480aa93543",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_170487107200ba2cb9966823a8318d973d58adc56b9255dae14868932bfc7a03",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_30146a616dc6debd945ad4b9ef9b500ad1ba31d6983117948f9037171711c8a1",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_319964371d71f860802ccd07b0846d3cc474f6abacbb401b9558ea823e08b133",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_32b2337d1428d55520479dc7a56e3a5219d671a808b571c8ac1a94c775efc54f",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_33e9278757588463c1c5331abae7f1582466390f5f3d602f594a4281fc88c0fa",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_38a02684a715fed54479c5dbca0d0739a9e4a5a183f109d6cf330dbaaeec3741",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_38d5b85d2f6777303af4fe7defdbf0bf5814afd04830a8c0d6e7b9138ba92b96",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_3e89f88851f0dbb2724fc8823620e1b38b2572c0a0dc8c4667144cc8d8c6d16a",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_3f593a9cddf55a9ef6e8cf6ba5bea84cc00f8fe19f622f65072f96d6e16d9090",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_415ebba1e59702a042e0050397ee1316fe650b195c511a7f48c74fb94ead6ba4",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_42b3a637269c4d3a3aa0c055591c1299a38504c144f3a5a33f41ab269000ea9a",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_4936a39862028fdbde3ae6cfbcca0da8fd8973dc6fe47818b102691aafbfc906",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_4a5967ace15b66837103137afc8447f06c12985406d0b143dac9f61ac92e6bb3",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_5637350ef430dfac0afe6b9bff2e5d3d0ce92911a45862b81c84b74dc1b23fd8",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_6678c4fe61cea4e4bf25384e0835e8067e9a0d89713de4207aa515ccfe38a85c",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_679a96d8a2aae97a09d8e6be4621e13acb69219326cb79d8a5580223b9a58c7c",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_681138952a255ee425d62fcb38de0b56b8b04fdb91938fc6bf2f7668a4cbd05b",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_6a63506876bda0dc4a85875d4170416e998da4c9d21a88a6dd2da5fff9a27c8b",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_7e3f8be373bf317641683ff37b83998d4dc371fa68f13215889df668b007dd97",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_8229fd65a3e2d6bddf1520836bb0f0c0fa15cf827545a8f0ddcb11d22773b6ff",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_82aa9559b932c3f914e83bf39fd1591e12f3f3a9d06de1d8d59102f71b4ddd41",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_82d4e46f0d08e021a8f576e3d01aeff4358492161e0734a70347dde7cc81f0b1",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_830c724bc975d54b9a90f655398c6dfaaaac248a32b50d3a79dc28d8d0404857",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_87b588c567081993db525a38aff5f220dbf0479b5e3a3b4744ff8a4f33ac944c",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_88701a67bb6dabd1818cfd04f11efe3de6fab9397bce400fcdd2a5d66c5871f5",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_8a5ab5e44a5f0a832f24dcd33fb95161509d6f997a180da6c3d17b5b1446e8ce",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_91c96c77057c1dc44ed26ab319b443ddcb85fa776fc44074365356988de9cbf9",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_9282f41a0ef0f084a6e619771f32dee53c938a405187191a75ecfc4f66d859f1",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_a80f304ffcb0a7a1df40eb1954df85932b83b17b5373e109d470700e005037a9",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_a9f59affbbe12e1ea118efcfa8edc99614b140e8ad24f2eeb315b44e35b78f60",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_ae5a5b71c262d491456542e3285c75936e8288e7db0d9303c3e4c6ff2f23173f",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_aeb451f2bf9f112434c64a1c314fb5dca951c92ed01d2d834f5d99ed52efb641",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_b0b693bc056f05225bba033945bfb9103006499ffb83d0d42b4453da70f13084",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_b33301ff3b0736bbd06579c123e527ba991cac1de9ba2ac9aa25b37f3f3e9009",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_b35674c3a5864c8c1a88e10dc00347515ec2b9e8c96e7aca0f781eb3097e0128",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_b79791751f968cdceedf5554228d46ea0f14d05196a472d4ee56bf58da8a25be",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_b7f574f421c2646e1846f0586090e5d1cd9bd9517d814872c6cb50b1d265baa9",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_b9768209f5b61d3e47e18787629c3c7d2cdc5c6d717515835f915e881205c0f7",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_bf4f3dd5a8b8679347d10dfbe1b553fb2dacff9cbfd6309b1bae01d8d1689564",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_c15acfe1767fed2f336344bb7dbef7e0e72a7d5bd3cf8a55c087f47e2b30ce5b",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_c4285415742f3128d0b4c3f3c84f8351d3bf45eab9d6b93760a0895c72751910",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_c556a598d6988883bdfd1f20bce719368fbf206c187159a3a7243b60ce082061",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_cbfaab8bee3ea200997c5dff5fb26940e1b7dbf0f9842785b8ca9155958ca2ce",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_cc5d37f3121d9941285c156d0a00d43141d338e8aa4f9d1a93129c2510175856",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_d094fa626a94cb1eeedc68232a922d74fa6dce5d2f5b73be9e4f82e7da023943",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_d9c4570cf4669188575942d453c3c993a37ed39b242f881c61359e20be202f58",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_dd414fc1983a4502f114127d00ab81f3a9c4c3b366ce97caa4530223103da5db",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_e2189517fa9fd5d19b5ca91d0c767a28c4483394ddbc241bb1fd6b821972c4e5",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_e346697c403728da15608d6ba35f6545d67492b1819f3dd0e5ab1985193e7522",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_e9fb5a99024f4cc65f699baec789380f2c48303659476150862d679f1cb67cf7",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_f204c46d42f832e11753178da6f286fbd7d7e4eaeab9ee3830a3f25002b7bd37",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_f7c83708a801aec96d4ea1097419011eb520f88a24d3c854092b0366de17004a",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_f841cc9539f205c3480a3ade1a11a996eadc69ec5b06cc6bad2a549418cdc014",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    },
+    {
+      "private_witness_id": "private-witness:MIDORI_LOCATION_fa30813a733261df7b85385f357c8adb8ca2f69156dea2ab014e5755e0cdc94b",
+      "kind": "DECLARED_PRIVATE_LOCATION_NO_TARGET_DEREFERENCE"
+    }
+  ],
+  "selfpin_rule": "This NAV binds first10 only, never itself or CONTROL. No future byte/freeze/adoption tuple is invented.",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "current_Akira_first_reference_editorial_successor_20261103_V2": {
+    "successor_version": "V2_20261103_AKIRA_FIRST_REFERENCE",
+    "author": "/root/recover_yuzu_saved_review",
+    "role": "FINITE_EDITORIAL_SUCCESSOR_AUTHOR_NOT_DISTINCT_QA_OR_ROOT",
+    "operation": "P038 first sentence identifies Akira before the thief, plus8UTF8 bytes/zero lines; rescuer/recipient/criminal-role-care argument and all59 meanings unchanged;58otherparagraphs and all525values literal NOOP.",
+    "history": "Every earlier preparation tuple, all59-literal-preservation statement and pending/acceptance string keeps its original dated scope. The new current bytes and operative graph/reconstruction supersede only metadata currentness; no old review is relabeled.",
+    "new_finite_delta_QA": "PENDING_SEPARATE_DIFFERENT_REVIEWER",
+    "new_ROOT_composed_byte_acceptance": "PENDING_SEPARATE_ACTUAL_ROOT_RECEIPT",
+    "source_identity_model_count_credit": 0,
+    "all14_original_gaps": "OPEN",
+    "models": 0
+  }
+}

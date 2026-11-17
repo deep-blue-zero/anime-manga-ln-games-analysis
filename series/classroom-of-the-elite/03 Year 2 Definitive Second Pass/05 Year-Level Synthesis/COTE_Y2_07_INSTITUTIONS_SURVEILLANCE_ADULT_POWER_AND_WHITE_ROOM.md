@@ -34,9 +34,9 @@ year3_information_used: false
 volume0_information_used: true
 volume0_usage_rule: "reader-level retrospective institutional genealogy only; Volume 0 does not grant ordinary Year-2 actors knowledge they did not possess"
 second_list_information_used: true
-point_snapshot_issue_state: "OPEN_NARROWED_TO_PROBABLE_COHORT_MISROUTING_PENDING_SOURCE_SURFACE_VERIFICATION"
+point_snapshot_issue_state: "RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION"
 created_at: "2026-08-26"
-updated_at: "2026-08-26"
+updated_at: "2026-09-09"
 ---
 
 # 『ようこそ実力至上主義の教室へ』
@@ -1749,9 +1749,7 @@ The institution's own archive therefore contains multiple epistemic modes:
 
 ## 25.3 Richer archive does not eliminate provenance questions
 
-The open class-point snapshot discrepancy remains unresolved.
-
-No institutional specialist may silently reconcile the competing records until the source surface is re-verified.
+Direct inspection of `COTE:Y2SL:IMG:embed0231_HD.jpg` (printed p. 236) confirms the younger first-year cohort: `新1年生`, with Amasawa, the withdrawn Yagami, Utomiya, and Hōsen callouts. The values do not conflict with Ayanokōji's own Year-1 endpoint. This corrects cohort routing, preserves both printed tables, and leaves `Y2SL-E085` unchanged. See [Y2_10, section 6](COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md). The correction is explicit cohort identification, not silent numerical reconciliation.
 
 ## 25.4 The archive should preserve history rather than rewrite it
 
@@ -2337,7 +2335,7 @@ Volume 0 must always be tagged as retrospective genealogy rather than local Year
 
 - `Y2SL-E007–E010`, `E086–E087` — OAA as official institutional observation.
 - `Y2SL-E080` — transfer becomes official jurisdictional fact.
-- `Y2SL-E085` — unresolved first-year point snapshot; do not silently reconcile.
+- `Y2SL-E085` — younger-cohort first-year point snapshot; cohort identification directly verified in Y2_10 section 6.
 
 ---
 

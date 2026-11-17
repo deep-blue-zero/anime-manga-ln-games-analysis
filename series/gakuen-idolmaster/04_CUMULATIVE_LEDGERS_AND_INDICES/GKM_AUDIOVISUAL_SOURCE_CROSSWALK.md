@@ -2,14 +2,18 @@
 title: "Gakuen Idolmaster V2 - Audiovisual Source Crosswalk"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.4"
+version: "2.5"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-22 — Rinami crosswalk closed at integrated AV R2; 13/13 character baselines complete"
+last_updated: "2026-11-15 — source-to-analysis audit corrections (GKM-SAA-076, GKM-SAA-265); perceptual review open"
+revised: "2026-11-15"
+revision_note: "v2.5 correction (source-to-analysis audit 2026-11-15; transitions REVISE in scope and STRENGTHEN): the SUGAR FLAVOR commu row now names both non-additive C4 commu versions (GKM-SAA-076); AV-HKNE-R88-05 records the Kanae step backgrounds as AV-C staging evidence (GKM-SAA-265); no media identity changed"
 status: "active; Phase-3 character audiovisual crosswalk complete at 13/13"
 ---
 
 # AUDIOVISUAL SOURCE CROSSWALK
+
+> **Revision record — v2.5, 2026-11-15 (source-to-analysis audit corrections).** (1) GKM-SAA-076: the Mao-section `SUGAR FLAVOR` commu row maps to `adv_cidol-amao-3-017_01..03` while the Rinami rows map the duo to CIDOL 018; both are correct for their own character, and the row now says that the two commus are separate, non-additive C4 versions of the unit's origin. (2) GKM-SAA-265, STRENGTHEN: the `AV-HKNE-R88-05` row adds the backgrounds of two Kanae step variants. Existing cell text is kept. The earlier `last_updated` value read "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open".
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
 
@@ -121,7 +125,7 @@ The exact byte sizes, hashes, codecs, resolutions, and durations are preserved i
 | Hinamatsuri / `雪解けに` commu | `adv_cidol-amao-3-009_01..03` | `有村麻央 雪解けに 楽曲コミュ` | **STAGED/INSPECTED** — 1080p30 |
 | `ミラクルナナウ(ﾟ∀ﾟ)！` Mao commu / Osaka homecoming | `adv_cidol-amao-3-013_01..03` | exact uploader-facing title: `【楽曲コミュ】ミラクルナナウ(ﾟ∀ﾟ)！【有村麻央】【学マス】`; fallback `有村麻央 ミラクルナナウ 大阪編` | **STAGED/VERIFIED** — 1080p60, AAC-LC ~128 kbps, ~8:44; Osaka/child-actor/parents sequence confirmed |
 | `見て` / Ryuugetsu Maki commu | `adv_cidol-amao-3-015_01..03` | `有村麻央 見て 楽曲コミュ` | **STAGED/INSPECTED** — 1080p60 |
-| `SUGAR FLAVOR` commu | `adv_cidol-amao-3-017_01..03` | `有村麻央 姫崎莉波 SUGAR FLAVOR 楽曲コミュ` | **STAGED/INSPECTED** — 1080p60 |
+| `SUGAR FLAVOR` commu | `adv_cidol-amao-3-017_01..03` | `有村麻央 姫崎莉波 SUGAR FLAVOR 楽曲コミュ` | **STAGED/INSPECTED** — 1080p60. *(2026-11-15, GKM-SAA-076)* Mao-side version; Rinami's `adv_cidol-hrnm-3-018_01..03` (CIDOL 018 in the Rinami rows) is a separate, non-additive C4 version of the unit's origin with the opposite initiator |
 | Mao `ガラクタロード` | P3 prescribed-song context | `有村麻央 ガラクタロード H.I.F` | **STAGED** — 1080p60 rendered performance |
 
 **2026-08-17 Mao acquisition delta:** the expanded communication boundary is now **complete**: all eight Mao `cidol` sequences and the full Dear spine including 親愛度10.5 are staged. Song communications remain in the Dialogue/Commu source branch; authored MVs, rendered 3DMVs, and full-song objects remain in the separate Music/MV branch.
@@ -440,3 +444,29 @@ Canonical manifest: `GKM_PHASE3_CHINA_AUDIOVISUAL_SOURCE_MANIFEST.json` — Driv
 | breadth | `ENDLESS DANCE`, `がむしゃらに行こう！`, `ミラクルナナウ`, `初` | common/seasonal repertoire | CLOSED as range controls |
 
 R2 source note: the high-resolution Dear 021–027 and 028–037 files replace only the physical R1 analysis representatives. Audio identity was verified; route timing, exact-text control, and logical-object count remain unchanged. Current manifest authority is `GKM_PHASE3_RINAMI_AUDIOVISUAL_SOURCE_MANIFEST.json` inside the R2 release.
+
+<!-- RINHA_AV_20260911 -->
+## Kaya Rinha distributed target mapping — RINHA-AV-20260911
+
+All 18 planned targets reference one of 12 retained physical compilations in the [source manifest](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md). The [target map](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/SUPPORTING_DATA/target_map.json) binds unchanged RINHA-AV/RINHA-XW IDs to exact A1 paths and source SHA-256s through the manifest. Caption points confirm scene identity; conservative envelopes are not exact frame cuts or complete word alignments.
+
+Ume11–20 is a new 1080p materialization distinct from historical 720p AV-UME-013; no byte-equivalence or independent-story credit is claimed. EVENT016 is 996×1920 portrait and its embedded chapter labels are shifted; actual main-03 captions govern its locator. Support0097-02 has nine Rinha messages and an independent fan utterance at 174.000s. All media are present; audible performance and continuous movement remain unreviewed.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+The [Carbon register](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md#new-and-supplemental-candidates) crosswalks the new D-KOTONE, D-SENA, D-TSUBAME, E027/E028/E030, support, U1 and Kanae targets to exact Japanese A1 locators and acquisition groups. Its Rinha table retains the original IDs, hashes, byte counts and conservative windows for 12 physical recordings. Public leads identify candidate editions. Acquire or recover the exact recordings, match their native dialogue or chapter and version, and verify offsets before cutting or judging a scene.
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+The following Kanae A1 matches have **AV-C** script authority. ADV timeline positions are from commands. Matching them to a recording and measuring its offsets are separate work.
+
+| Target | A1 original and physical line | Script identity | Media match |
+| --- | --- | --- | --- |
+| AV-HKNE-R88-01 | `adv_dear_hkne_009.txt` L217–219, with title at `adv_dear_hkne_002.txt` L368 | `初` assessment. `sud_music_live_all-001-hkne_true-001`, `tln_live_all-001`, ADV 164.201–212.214 s, clip-in 51.0 s. | pending scene version, asset and exact observed window |
+| AV-HKNE-R88-02 | `adv_cidol-hkne-3-000_01.txt` L116, L150; `adv_cidol-hkne-3-000_03.txt` L120 | `メタモルフォーゼ` demo discussion and pre-live cue `sud_bgm_adv_inst-hkne-001`. Part 01 offset 20 s. | pending edition and distinction from a standalone full song |
+| AV-HKNE-R88-03 | `adv_dear_hkne_010.txt` L381 | `mov_adv_dear_ed_hkne_001`, ADV start about 313.129 s with commanded duration 165 s. | pending clip identity and playback |
+| AV-HKNE-R88-04 | `adv_dear_hkne_004.txt` L373–485; `adv_dear_hkne_005.txt` L272–355 and L389–510; `adv_dear_hkne_008.txt` L504–541 and L613–722 | center mark and stand-in sound check; gift, mirror and self-appraisal; recommitment and sprint | pending complete native scene runs with captions |
+| AV-HKNE-R88-05 | `adv_live_hkne_001_start/end-01..04-01.txt`; seven `adv_pstep_001_cmmn_` originals in [delta](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261115.tsv) | Paired crowd metadata for 01–03. 04 start has voice commands at L7–8. Seven `cmmn` steps bind Kanae at L2 and use `{voice_asset_id}` placeholders at L12, 10, 12, 14, 13, 14 and 11 in order of the filenames in the delta. *(2026-11-15, GKM-SAA-265, AV-C staging)* `adv_pstep_001_cmmn_before-rest-01-hkne.txt` L1 uses `env_2d_adv_outschool-kcnahouse-out-00-noon`, the same exterior as `before-rest-01-kcna`; `adv_pstep_001_cmmn_after-odekake-01-d-02.txt` L1 ends on `env_3d_adv_toschool-00-00-night`, where the base `after-odekake-01-d` uses `env_2d_adv_dormitory-gate-00-night`. This is consistent with Kanae's live-in service (`adv_dear_hkne_000-01-horizontal.txt` L623). Counterevidence: a rest-day location is not itself a statement of residence, and Produce Series 003 rest steps have no house variants. | pending dispatch and voice asset resolution |
+
+Dear 007 L418 names a China H.I.F. monitor asset in a retrospective scene. The opening joint performance in the same script is separately framed as Kanae's dream. Use the actual assessment commands in Dear 009 to identify the pass performance. See the [AV verification queue](GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md#source-lock-12--transcript-refresh-2026-11-15).

@@ -1,0 +1,770 @@
+{
+  "schema": "konosuba.cohort44.native-provenance.v1",
+  "prepared_utc": "2026-10-25T03:40:09.315969+00:00",
+  "native_object": {
+    "source_id": "YORI-02",
+    "native_filename": "Konosuba - Short Stories - Yorimichi 2.epub",
+    "bytes": 9172954,
+    "sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "3fb5c9ce87a43b9508b06e3f6258b80d45135c40db7c813fe5ddcef0a54cc071",
+    "fresh_CRC": "PASS"
+  },
+  "native_plan_sha256": "2fbd699ec89b06f0900a876659ffc846876965cbad046938e1049626b9a0cac7",
+  "actual_native_receiving_sha256": "9f72bbd8a767280eeef0ff98064e06ea938692a3fa97a32573d4767810ea2671",
+  "current_unique_P": 2675,
+  "current_ruby_occurrences": 2530,
+  "current_full_paragraph_projection_members": 10,
+  "member_scopes": [
+    {
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U012",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "d8574291fd3d1c4231eba73b3d406cc6d9d95bedb2dbf8ba8b5eb6f6221b145a",
+      "native_member_bytes": 42541,
+      "paragraph_slots": 283,
+      "planned_ranges": [
+        [
+          1,
+          283
+        ]
+      ],
+      "planned_unique_P": 283
+    },
+    {
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+      "native_member_bytes": 41017,
+      "paragraph_slots": 282,
+      "planned_ranges": [
+        [
+          1,
+          282
+        ]
+      ],
+      "planned_unique_P": 282
+    },
+    {
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U016",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "1274d2757dd9afeeedd21bf6615d2b985cbbca1ebb470d9bc01cb4f31ebeda59",
+      "native_member_bytes": 61016,
+      "paragraph_slots": 390,
+      "planned_ranges": [
+        [
+          1,
+          390
+        ]
+      ],
+      "planned_unique_P": 390
+    },
+    {
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U018",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+      "native_member_bytes": 52917,
+      "paragraph_slots": 331,
+      "planned_ranges": [
+        [
+          1,
+          331
+        ]
+      ],
+      "planned_unique_P": 331
+    },
+    {
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U020",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "b0546d7f184f34f80377d3bf14e4a53cfbd952dd867e4c4bd06a89e1b5769212",
+      "native_member_bytes": 61042,
+      "paragraph_slots": 393,
+      "planned_ranges": [
+        [
+          1,
+          393
+        ]
+      ],
+      "planned_unique_P": 393
+    },
+    {
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U022",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "cbc9bdd201b7819a246886f3b0198a6818af7be6c9bed79fc4c8a5f44ac4b6e9",
+      "native_member_bytes": 73000,
+      "paragraph_slots": 423,
+      "planned_ranges": [
+        [
+          1,
+          423
+        ]
+      ],
+      "planned_unique_P": 423
+    },
+    {
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U024",
+      "member": "item/xhtml/p-015.xhtml",
+      "member_sha256": "8b5eeb955f8e23c0a7cbbc84db7ba8784793d9fe57eccc2b394aabf1789a201f",
+      "native_member_bytes": 59692,
+      "paragraph_slots": 367,
+      "planned_ranges": [
+        [
+          1,
+          367
+        ]
+      ],
+      "planned_unique_P": 367
+    },
+    {
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U026",
+      "member": "item/xhtml/p-017.xhtml",
+      "member_sha256": "5a07d6deca57eb52c99bfb753dc03c4bebdccb528f88bb11770888a3be7b4d45",
+      "native_member_bytes": 12005,
+      "paragraph_slots": 67,
+      "planned_ranges": [
+        [
+          1,
+          67
+        ]
+      ],
+      "planned_unique_P": 67
+    },
+    {
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U027",
+      "member": "item/xhtml/p-018.xhtml",
+      "member_sha256": "29b271f2e94e7a5494794b40e15cee4b96ce712168409f44e319c870510bc7a9",
+      "native_member_bytes": 13188,
+      "paragraph_slots": 62,
+      "planned_ranges": [
+        [
+          1,
+          62
+        ]
+      ],
+      "planned_unique_P": 62
+    },
+    {
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U028",
+      "member": "item/xhtml/p-019.xhtml",
+      "member_sha256": "8fbfe5da64f05b627311e515fb61f9bd73636b3ddc89eb8cb39728ddf3e6630b",
+      "native_member_bytes": 12204,
+      "paragraph_slots": 77,
+      "planned_ranges": [
+        [
+          1,
+          77
+        ]
+      ],
+      "planned_unique_P": 77
+    }
+  ],
+  "actual_complete_native_deliveries": [
+    {
+      "pages": [
+        1,
+        2
+      ],
+      "delivery": "d6e003"
+    },
+    {
+      "pages": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "delivery": "f453eb"
+    },
+    {
+      "pages": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "delivery": "055ebb"
+    },
+    {
+      "pages": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "delivery": "8e357b"
+    },
+    {
+      "pages": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "delivery": "9ef233"
+    },
+    {
+      "pages": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "delivery": "239354"
+    },
+    {
+      "pages": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "delivery": "afc8d2"
+    },
+    {
+      "pages": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "delivery": "a09db4"
+    },
+    {
+      "pages": [
+        31,
+        32,
+        33,
+        34
+      ],
+      "delivery": "19dd72"
+    },
+    {
+      "pages": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "delivery": "7dac9f"
+    },
+    {
+      "pages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "delivery": "53c97a"
+    },
+    {
+      "pages": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "delivery": "2ef1c8"
+    },
+    {
+      "pages": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "delivery": "53f521"
+    },
+    {
+      "pages": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "delivery": "6840a4"
+    },
+    {
+      "pages": [
+        55,
+        56,
+        57
+      ],
+      "delivery": "9772aa"
+    }
+  ],
+  "actual_native_page_pins": [
+    {
+      "page": 1,
+      "bytes": 7079,
+      "characters": 3083,
+      "sha256": "7941dc6824a96997fa0e365dca4665d9f03973c9b36b35ec0765710d0509ffea"
+    },
+    {
+      "page": 2,
+      "bytes": 7069,
+      "characters": 3035,
+      "sha256": "5f9c4ad3272db7d5f27c65307db777071aae3fe7484d9cf8c1e6fd9d340a1bc2"
+    },
+    {
+      "page": 3,
+      "bytes": 6932,
+      "characters": 3052,
+      "sha256": "a127e742192805df8716d349fdaf8fad8cfa655d0457e62c15200fe80919dd81"
+    },
+    {
+      "page": 4,
+      "bytes": 7053,
+      "characters": 3075,
+      "sha256": "30a782c96e0b5c220d7e7e3e22b155873d05ccee0b72f8587ac781202ec92ca9"
+    },
+    {
+      "page": 5,
+      "bytes": 7046,
+      "characters": 3090,
+      "sha256": "29dfab6b3e0e92ef8d6bb87eb8279a45a2227767c457091337a053e1479454ae"
+    },
+    {
+      "page": 6,
+      "bytes": 6596,
+      "characters": 3030,
+      "sha256": "ef0a88f178f3e2a578618286d06986f0f8e48a9842dcbfbc611b5c3bfa2cc3fa"
+    },
+    {
+      "page": 7,
+      "bytes": 7121,
+      "characters": 3027,
+      "sha256": "dc1d777c8e62f1aa44f60a08672771c161e91725b7fc20f944ac6cf86c578795"
+    },
+    {
+      "page": 8,
+      "bytes": 6974,
+      "characters": 3048,
+      "sha256": "f45cea7196f5bb334ea450edae8749e80ba829f89147cf8a954edaeb603ab607"
+    },
+    {
+      "page": 9,
+      "bytes": 6938,
+      "characters": 3092,
+      "sha256": "c2aaf19845b8cc6ed7659f2b513d12820bf313f1abef2d37379d00d0a3953844"
+    },
+    {
+      "page": 10,
+      "bytes": 6974,
+      "characters": 3090,
+      "sha256": "663c64ddcce226aed817e119a943ebea1e10ff6da26dd0e5d836df2a9eb21273"
+    },
+    {
+      "page": 11,
+      "bytes": 7062,
+      "characters": 3064,
+      "sha256": "cc672b7604634653b85b4063fa905f184658fd14b3090ac6bc895ddb12c0a1b2"
+    },
+    {
+      "page": 12,
+      "bytes": 6853,
+      "characters": 3037,
+      "sha256": "7f5db072a9649e13921894b940b2f938a16d6a8c41e75363b6fe657659f742f7"
+    },
+    {
+      "page": 13,
+      "bytes": 7047,
+      "characters": 3080,
+      "sha256": "8d9efc35b8c785928ffb6ec19bd66ae32380feabcf5e1e83f8308a5a381a47cc"
+    },
+    {
+      "page": 14,
+      "bytes": 7037,
+      "characters": 3055,
+      "sha256": "87964fe83fb10cab8511c3817acaff2d786050d8330da35dcc53160d15ef15f0"
+    },
+    {
+      "page": 15,
+      "bytes": 7016,
+      "characters": 3054,
+      "sha256": "ac2b313c5d38abf77a51ec56c09bdaac142db39a1b19ce375831c10de34e7cae"
+    },
+    {
+      "page": 16,
+      "bytes": 6884,
+      "characters": 3099,
+      "sha256": "6ae1c2a1c316d023754e8e4a989bd2800942f4a9f196c29e389006a75c8b03a8"
+    },
+    {
+      "page": 17,
+      "bytes": 7064,
+      "characters": 3075,
+      "sha256": "a416a7b4e5c76911a321077a54b1a2243194865a19f7ccf029a9d02a9a822fa8"
+    },
+    {
+      "page": 18,
+      "bytes": 6958,
+      "characters": 3080,
+      "sha256": "f1816f9453efa05c6936d6cc5ba3f8ad232e5a29e35850beea4286d8e4cc94e0"
+    },
+    {
+      "page": 19,
+      "bytes": 7007,
+      "characters": 3043,
+      "sha256": "9758ddfe90569c8c732364970695aef60b57f9422406e853dbacd2fee311173c"
+    },
+    {
+      "page": 20,
+      "bytes": 7201,
+      "characters": 3047,
+      "sha256": "f1810eb2ec7a1487766255151dbaa4f521ecb2215abc91783ba39509baa11dc8"
+    },
+    {
+      "page": 21,
+      "bytes": 7279,
+      "characters": 3061,
+      "sha256": "37f5ff4ff7eac512b6fe531e1062b38d17b011893bf569ec560c612fe678466d"
+    },
+    {
+      "page": 22,
+      "bytes": 7006,
+      "characters": 3094,
+      "sha256": "231ab0a73040637bccc471ff1c2b3c6756c901b04621a2d33d5d2df798c3699b"
+    },
+    {
+      "page": 23,
+      "bytes": 7306,
+      "characters": 3056,
+      "sha256": "898cd5e17112647ebc1aafd6054f90a4a6a27459385a7163e131b517f15abbd4"
+    },
+    {
+      "page": 24,
+      "bytes": 7076,
+      "characters": 3074,
+      "sha256": "f743c1e1fea24724878fafbfebfa11ce6f7d2f77fa31bc1345311bada170c098"
+    },
+    {
+      "page": 25,
+      "bytes": 7107,
+      "characters": 3061,
+      "sha256": "4d25373e30306255fab08d8daa7595e2fa569f8991a40b65bd6c5d58bed860e1"
+    },
+    {
+      "page": 26,
+      "bytes": 6937,
+      "characters": 3005,
+      "sha256": "821f5cd3ba9e3b577b37b7c35ca004d5dfb57d11e9cf58af921c14801c4e0366"
+    },
+    {
+      "page": 27,
+      "bytes": 6871,
+      "characters": 3089,
+      "sha256": "1993f59d668f77960db2c9d50799861b7be509eb783b0d90a9ff0f80415872b1"
+    },
+    {
+      "page": 28,
+      "bytes": 7412,
+      "characters": 3074,
+      "sha256": "e556355d40e4cb86ee8e954bb479559b12bc0b52cfe9be0fe5b046efa402ea4e"
+    },
+    {
+      "page": 29,
+      "bytes": 6862,
+      "characters": 2966,
+      "sha256": "46373c75785463d22f025f274c1aba58c4fcf0c9a8799f23c282bfb987b9d1ec"
+    },
+    {
+      "page": 30,
+      "bytes": 7215,
+      "characters": 3082,
+      "sha256": "a4fe38e4da739caf6bb1ec6dd335763879621faa30ff14d573e11164a30ecb17"
+    },
+    {
+      "page": 31,
+      "bytes": 7175,
+      "characters": 3085,
+      "sha256": "21088e3d690746cd9b2896352ded57c52e39a7c55197f57b1127d29b0d7cb870"
+    },
+    {
+      "page": 32,
+      "bytes": 7222,
+      "characters": 3084,
+      "sha256": "e2e939732e67b8c7079b3194bc486761beaf5d1efe534a63d45bb936f8d86739"
+    },
+    {
+      "page": 33,
+      "bytes": 6746,
+      "characters": 3090,
+      "sha256": "2633c15f4811b48cfd45da00e72aae47c8c991842dbe011655bab62cc47d7737"
+    },
+    {
+      "page": 34,
+      "bytes": 7039,
+      "characters": 3066,
+      "sha256": "7700c0aff9d2d11dcc4e0dc3e36cbdde87731f8b2356fccb1bfc0b6cf56dae33"
+    },
+    {
+      "page": 35,
+      "bytes": 6794,
+      "characters": 3082,
+      "sha256": "9ac5263cb36b21227c62520a20b330ef3fd768eb13afb913eb36c9d28f229342"
+    },
+    {
+      "page": 36,
+      "bytes": 7266,
+      "characters": 3100,
+      "sha256": "4cb3542759a2bcf143042e755688ef3050dacf2e553569da14b69975317db445"
+    },
+    {
+      "page": 37,
+      "bytes": 7245,
+      "characters": 3093,
+      "sha256": "add4cc56bf3bee00371e6e8db9bc52791b39a23e20c7590618ba6ba228ac50a3"
+    },
+    {
+      "page": 38,
+      "bytes": 7468,
+      "characters": 3092,
+      "sha256": "f6dbcf32a059d828a08b77feccede03d710ddc8dc6fdd7e9705caa290e50257a"
+    },
+    {
+      "page": 39,
+      "bytes": 6948,
+      "characters": 3070,
+      "sha256": "ad63e84e1b1074a5273b2936379f0d98ffc7e39dce71efd305ab9ccb80ec132a"
+    },
+    {
+      "page": 40,
+      "bytes": 7794,
+      "characters": 3082,
+      "sha256": "a9b143de642322953ab7a2400dc642e88cab3584ba6aa30161a23ef76c06868e"
+    },
+    {
+      "page": 41,
+      "bytes": 7178,
+      "characters": 3100,
+      "sha256": "c3df0bc6f0657a023ddebdde28d5e52cf966cb1c4d6aa96bf3cff967cfb874cc"
+    },
+    {
+      "page": 42,
+      "bytes": 7028,
+      "characters": 3068,
+      "sha256": "0cc830edf4747f3e81beaabe35f11fb06256c4933be0da72f343a909133d3805"
+    },
+    {
+      "page": 43,
+      "bytes": 7041,
+      "characters": 2968,
+      "sha256": "330eb6ffaea8492fd6dc6c7b99cb2470058b9bb3a788bb20d480214fce6bbeca"
+    },
+    {
+      "page": 44,
+      "bytes": 7287,
+      "characters": 3001,
+      "sha256": "8ac06332f06a393fa0773a0838e08ac5a71e24a88e89f4ceee5b81283cf8f827"
+    },
+    {
+      "page": 45,
+      "bytes": 6867,
+      "characters": 3059,
+      "sha256": "db7534f3cf3455df655491ad8fe092f3bec773681b8a09d31a4305eba9a0ed01"
+    },
+    {
+      "page": 46,
+      "bytes": 7188,
+      "characters": 3074,
+      "sha256": "45205ba4660af44126c2e46b69b30dcf835c6c5d8b81232673e8c8c9b712a8d9"
+    },
+    {
+      "page": 47,
+      "bytes": 7353,
+      "characters": 3099,
+      "sha256": "47edefa6f98322594c86a326716738a5d3feca7a28cb7db7914d38388eb17516"
+    },
+    {
+      "page": 48,
+      "bytes": 7190,
+      "characters": 3075,
+      "sha256": "10f20ad6c86d12c6cbd1afd8ceb55c1fdd7a8ecb2305cf20319bc9bd27c4ede6"
+    },
+    {
+      "page": 49,
+      "bytes": 6826,
+      "characters": 2968,
+      "sha256": "6b2bd1d154db8a1b78bae53d2cacadaead50206397377023d9733ca33e69788e"
+    },
+    {
+      "page": 50,
+      "bytes": 7330,
+      "characters": 3054,
+      "sha256": "3612d85162b43b4cdc717d5dde654553a7d5b5e8f491e438f83448af0e0daf62"
+    },
+    {
+      "page": 51,
+      "bytes": 7032,
+      "characters": 3036,
+      "sha256": "ce8dee19eaeaabc0078f037c9157f7af823024f2d3c4ef8d1cac66a37d2fe9fe"
+    },
+    {
+      "page": 52,
+      "bytes": 7212,
+      "characters": 3067,
+      "sha256": "af76dfcd288b12403ac949f68b8e8a0add5a04e9a3d75a3768c17e9959bf635f"
+    },
+    {
+      "page": 53,
+      "bytes": 7423,
+      "characters": 3077,
+      "sha256": "5277d747b4b80375cc8e26e1ac296dd38079ec652648ee3b652b911451e47157"
+    },
+    {
+      "page": 54,
+      "bytes": 7221,
+      "characters": 3099,
+      "sha256": "db43aeb1b206466f2969d6cd594c745ddc5fc61ea280e784dab1e4fd6c29d07e"
+    },
+    {
+      "page": 55,
+      "bytes": 7489,
+      "characters": 3041,
+      "sha256": "afc4200f0a89a4578eb22d1ccf27ebdd52a0fe78e4cb05eac0ca32537fdd5609"
+    },
+    {
+      "page": 56,
+      "bytes": 7213,
+      "characters": 3055,
+      "sha256": "6dbe162f2a1655dbf42d7d69ab89b81bf9135c51268e14243467234e545e2586"
+    },
+    {
+      "page": 57,
+      "bytes": 5622,
+      "characters": 2464,
+      "sha256": "a9a9908d34e86cea2bbf349291012386a0d0f17506aec71a3cba0448f114da90"
+    }
+  ],
+  "C43_37P_return": {
+    "component_id": "YORI-02-U018",
+    "P": [
+      [
+        209,
+        245
+      ]
+    ],
+    "P_count": 37,
+    "receipt_sha256": "b55aafd65c3654300c455adfde23d1cc6196e5abaf3e1a203a9e3990d79b4846"
+  },
+  "earlier_whole_edition_receipt_path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_SOURCE_AND_READING_RECEIPT.json",
+  "earlier_whole_edition_scope_retained": true,
+  "current_images": 0,
+  "current_nonparagraph_residuals": 0,
+  "current_whole_edition_credit": false,
+  "new_global_source_first_credit": 0,
+  "existing_context_receiving_sha256": "8f2bdfc571b65dc560fa14abb686319442d46b7db939844ba28c405688729ff4",
+  "existing_context_artifact_pins": [
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_DEEP_READING.md",
+      "bytes": 38138,
+      "sha256": "e0c759f30ffe03e9e4ce4aff5c23685cb013fc287c3e05a32cf283c1705e01ac"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_COMPONENT_ANALYSIS.md",
+      "bytes": 16659,
+      "sha256": "cdaf5435f851190a0c8971fc7fa770a5d2c0e7635c9d751f0018f6cb5916229b"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 15559,
+      "sha256": "7cd0c109d00d7ff4956193e6dde4e1b2bfe9cd441e439c5f53b277340e9612c8"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 8478,
+      "sha256": "99c2d6ec6a14b4b672b2b0b684c81ea507d61a2cc42a68982c0a6e1c31be41e2"
+    }
+  ],
+  "existing_context_actual_complete_deliveries": [
+    {
+      "pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "delivery": "fc04d3"
+    },
+    {
+      "pages": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "delivery": "01d591"
+    },
+    {
+      "pages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "delivery": "98b3f7"
+    },
+    {
+      "pages": [
+        13
+      ],
+      "delivery": "d18823"
+    }
+  ],
+  "identity_context_receiving_sha256": "f8454e929d524768fdf610d8ee17e28015691d24631871ae4018aca2d2c04225",
+  "identity_context_actual_complete_deliveries": [
+    {
+      "pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "delivery": "ecf518"
+    },
+    {
+      "pages": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "delivery": "4714a5"
+    },
+    {
+      "pages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "delivery": "77228a"
+    },
+    {
+      "pages": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "delivery": "477cc3"
+    }
+  ],
+  "all456_labels_routing_only": true,
+  "related_complete_rows": 13,
+  "existing_Chomusuke_monograph_received": true,
+  "raw_spirit_language_mediated": true,
+  "source_known_same_informed_root": true,
+  "independent_observations": 0,
+  "primary_text_images_private_not_published": true,
+  "full_program_complete": false
+}

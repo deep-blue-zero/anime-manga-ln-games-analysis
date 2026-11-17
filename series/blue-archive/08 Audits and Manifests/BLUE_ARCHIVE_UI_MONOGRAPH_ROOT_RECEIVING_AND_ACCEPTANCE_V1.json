@@ -1,0 +1,145 @@
+{
+  "schema": "BLUE_ARCHIVE_ROOT_UI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+  "status": "PASS_WITH_LIMITS",
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "candidate_sha256": "4aed0693ba32f492ca3841150b18c1758d913fbc09df77f55c443541d51a14b7",
+  "source_checks": [
+    {
+      "source_id": "M04",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "4a3cd456d3cd21d1b1b60efc6e33c930fd162a72eee1685a82fa89c1515ab59f"
+    },
+    {
+      "source_id": "C01",
+      "same_main": false,
+      "same_declared_snapshot": true,
+      "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286"
+    },
+    {
+      "source_id": "C02",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d"
+    },
+    {
+      "source_id": "C03",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6"
+    },
+    {
+      "source_id": "C04",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac"
+    },
+    {
+      "source_id": "U01",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "d523094c54e611aa45cebab91ffbf2ecd1888b59f112c8f01dafeb66d274a638"
+    },
+    {
+      "source_id": "E03",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "43ddfe3dac8e4d2b3bcbd93e7113482780c06db222079e2d39c7ab2337668840"
+    },
+    {
+      "source_id": "E08",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "b6c852fd9a36a2ccaa47a1a9abbf468b0f452946ebe7d00980a45c3388931419"
+    },
+    {
+      "source_id": "E10",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "3c9d43cfd831875db1c7d2d6c4dd95db03e3b014ba2f9be942e88ce451d6da2f"
+    },
+    {
+      "source_id": "E11",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "a85a6e29853f0685003a4a7b9da062ddab38d761c6628a9c0708886f82855440"
+    },
+    {
+      "source_id": "E13",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "e1b1d51c0042245992bfb615116c234f6a60f0d008068567ae84c5107e8b1f17"
+    },
+    {
+      "source_id": "E15",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "2c786f03af0fe9314fc5941f552c87fefdcdc85c27bcca6c6deeafd51b970087"
+    },
+    {
+      "source_id": "A00",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "6a6ce9b164f151fb70498bebcad0173ce39c3cb5e71653f6de1f231a27442bd6"
+    },
+    {
+      "source_id": "A01",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "789b6a465f259ac2d427c9d9722102b449388c278943b04e51c3ab19f1a2997d"
+    },
+    {
+      "source_id": "A02",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "61e628dab0ac127c946e0101225a89d1d7808a27b0f540d5d7a03fc76c36072c"
+    },
+    {
+      "source_id": "L03",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "a07ad2833082ff9a556c082bc35bdb4626c3faee897e00af110a8dc39f6c2e43"
+    }
+  ],
+  "exact_saved_claim_paragraphs": 15,
+  "frozen_outputs_verified": 4,
+  "saved_receipt_sha256": "f9106a2068bf7d5ce18816220c2be38c04c3f0a28f2b9c60540ffab500adeb4e",
+  "prior_frozen_outputs_preserved": 26,
+  "root_actual_receiving": {
+    "body": [
+      "c51231 lines1–70",
+      "717ceb lines71–136EOF"
+    ],
+    "source_fields": "7e0be1 all16 exact input/scope fields;e37a2a all controls/review/gaps",
+    "claims": "b124ea UI01–08;8aa16a UI09–15;77f8de headers/end fields",
+    "saved_receipt": "19914b complete saved fields",
+    "additional_whole_accepted_arguments": [
+      "11dcff E812015 all63linesEOF",
+      "3ded77 gift073 all73linesEOF"
+    ],
+    "grounds": [
+      "Ui adapts access for particular valued words, objects, work, privacy and chosen company; returned key and notebook arrangement are accomplished ordinary practices.",
+      "Book care and restored handoff coexist with mischief, renewed blame, recipient lost sleep, speculative motives and concealed copying/reporting; expertise does not discharge public duties.",
+      "Complete ending revises cake-favorite inference: grateful reception, sour drink, explicit iced Americano preference and future request remain distinct.",
+      "Self-initiated reading, notebook, cafe and walk counter total reclusion or instrument-only research; ongoing reserve and boundary costs counter social cure or blanket romance.",
+      "Independent Hinata, Shimiko, Hanako, Koharu and Sakurako choices, actual overlooking of copying and unresolved disclosure retain directed responsibility."
+    ]
+  },
+  "root_new_primary_or_performance_credit": 0,
+  "canonical_adoption": "CANONICAL_SOURCE_BRANCH_DERIVATIVE",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "N_frozen": false,
+  "quarter_reached": false,
+  "main_integration": "NONE",
+  "canonical_derivative": {
+    "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+    "bytes": 33192,
+    "sha256": "47d9e9a4033de8d0a2213bd5ff49dc604a8a96e9668a523be7f68970c8e38919",
+    "frozen_author_bytes": 31871,
+    "frozen_author_sha256": "4aed0693ba32f492ca3841150b18c1758d913fbc09df77f55c443541d51a14b7"
+  },
+  "public_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+  "public_claim_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+  "historical_receiving_flags_retained": "N, publication and main state refer to the dated receiving event; current full-cast scope is separately indexed."
+}

@@ -1,0 +1,51 @@
+{
+  "schema": "konosuba.dryad.retained-first-annotations.v1",
+  "original_bundle_sha256": "9252224c8f28c620486a1caf41b8553db7b2ea26adc69c1d93a7d7d7c181fa30",
+  "original_seal_sha256": "1319a7edfb3a3ff3261051ab7ba63461bed100f578feabe2e38a26de71ddaa53",
+  "exact_inputs_sha256": "1871484bd870df203c8671ec0249b0c13e897bba30f28e8256c7640b8c4c3bf1",
+  "foundation_freeze_sha256": "2c645c3acfd6b4ad3f98e91a29ab8cbef14fbe57501ad7bd1a2d0a17b3156f02",
+  "actual_complete_original_bundle_and_seal_delivery": "84d169",
+  "feedback_after_original_seal": true,
+  "source_known_same_informed_root": true,
+  "annotations": [
+    {
+      "scenario_id": "DRY-A1",
+      "original_UTF8_sha256": "b4a4688f76772f035562d345097438a21d7956e31daed9c29ca4263fb3d4145d",
+      "retained_behavior": "She distinguishes the expired bundle from the living plants, verbally accepts this particular exchange and waits for the flask. The body does not narrate a completed handover, later watering service or removal of living herbs.",
+      "rule_relation": "The expired-plant/wanted-water route is visibly usable in the body. This is a narrow expression of DRY-R01 under almost explicitly supplied source-like conditions, not evidence that the constraint causes distinctive character behavior.",
+      "role_and_commitment_binding": "The trader offers and still possesses the flask. The dryad's 'Yes, that exchange' is her immediate acceptance; the final waiting action does not invent a second acceptance or completed transfer by the trader. The warning about insufficient herbs is conditional, not a factual claim that the trader already demanded more.",
+      "adverse_limits_and_ambiguities": [
+        "The clean acceptance selects one plausible course from a provisional rule. The source does not establish a reliable acceptance rate or that she never asks for further terms.",
+        "Her disparaging comment and gaze at the flask are invented English scene realization. Their broad compatibility with resource interest does not certify the particular Japanese mediated voice.",
+        "The body supplies no pressure against the dryad's own interests and cannot test the limits of her willingness to bargain. The stipulated safe, wanted water removes rather than tests resource uncertainty."
+      ],
+      "generic_rivals_and_source_echo": "An ordinary self-interested trader, or almost any protector who distinguishes living dependents from expired material, could make this bargain. The exact living/dead and water cues echo the known source closely.",
+      "unambiguous_material_input_violation_identified": false,
+      "repair_or_regeneration": false
+    },
+    {
+      "scenario_id": "DRY-A2",
+      "original_UTF8_sha256": "ddeeea87e87ba040a2ecd839e9e2f77543ee11aaa7462f3c348c2bcaa06985a5",
+      "retained_behavior": "She places herself before the living patch, refuses to exchange it merely for wanted water, proposes the expired bundle instead and acknowledges that the trader has already excluded that alternative. The flask remains with the trader and no bargain is performed.",
+      "rule_relation": "The requested living plants remain the issue rather than silently becoming the expired bundle. Her offered alternative stays unaccepted. Visible resource interest does not erase the local living-dependent boundary.",
+      "role_and_commitment_binding": "'You said you wouldn't' refers to the trader's explicit refusal to offer the flask for the other bundle in the frozen input. It does not require an invented intervening reply. The body gives no trader assent, payment or future service.",
+      "adverse_limits_and_ambiguities": [
+        "The staged pause and tidy refusal are one English realization, not a validated prediction that she would refuse with exactly this degree of composure.",
+        "She makes no fertilizer threat here. Its absence in this invented immediate response does not erase her canonical death threat, pressure after refusal or unequal treatment of humans; those remain contrary evidence in the frozen rule and monograph.",
+        "Physical interposition is a small invented action, not proof of a new canonical feat or successful defense against a resisting trader. No later challenge or resolution is shown."
+      ],
+      "generic_rivals_and_source_echo": "Generic dependent protection or ordinary reservation of property explains this refusal. The supplied living/dead distinction makes the expected branch conspicuous; the pair does not isolate the particular dryad from these rivals.",
+      "unambiguous_material_input_violation_identified": false,
+      "repair_or_regeneration": false
+    }
+  ],
+  "pair_relation": "One dependent contrast by the same informed root: the requested plants and corresponding demonstrative in the trader's offer change. Both conditions and the pre-first questions were visible before either body was authored.",
+  "independent_observation_count": null,
+  "accuracy_estimate": null,
+  "capability_grade": null,
+  "confidence_gain": false,
+  "causal_isolation_or_canon_confirmation": false,
+  "final_nine_category_battery": false,
+  "originals_inputs_and_model_unchanged": true,
+  "full_program_complete": false
+}

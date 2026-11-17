@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: POWER_PHILOSOPHY
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -42,6 +42,14 @@ do_not_use_as_current_authority: false
 
 
 # MHA SP2 — Power Philosophy Ledger
+
+## Current source-admissibility correction — continuation
+
+The V27 mobility/mentor reversal below establishes arrival at p179; the exercise of extraction capacity is V28:p060–077. Do not move that later action into a V27 freeze. V31:p164–174 makes accumulated OFA dangerous for an already Quirk-bearing successor and frames Quirklessness as a compatibility condition; it does not authorize a universal predicted lifespan. “Excellent successor” cannot mean both ethical suitability and uncomplicated biological suitability for Mirio.
+
+Jiro's contribution at V36:p082–092 is mediated: hostile wills rebel, the copied AFO factor has weaker control, and sensory delay permits further blows. “Sound defeats AFO” would erase that causal chain. Eri's V41:p157–159 horn intervention is limited, chosen help accompanied by adult concern about lasting Quirk damage, not permission to treat a child's body as an owed resource.
+
+These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
 
 
 
@@ -3925,3 +3933,54 @@ Current distinction: **voluntary co-presence vs possessive jurisdiction**. Agenc
 
 - `V40:p185`: AFO intends to reach Shigaraki, transfer/reinforce his own factor and regain control. The plan fails before contact.
 - Succession on the AFO side is therefore not accepted successor difference; it is a mechanism for restoring ownership.
+
+# Volume 41 power-philosophy updates
+
+## Ownership is not permanence
+
+- `V41:p049-051`: Midoriya calls OFA All Might's `宝物` and then chooses to relinquish it. The power has become genuinely his without becoming something he must preserve at all costs.
+- Mature power ownership therefore includes the capacity to surrender possession when the purpose for which the power mattered demands it.
+
+## Power transfer does not transfer complete authorship
+
+- `V41:p129-136`: AFO confirms that he altered Tenko's developmental/Quirk conditions and then claims `全部だ` — that the whole resulting life was his design.
+- V41 sharply distinguishes **causal influence** from **total ownership**. AFO's specific interventions are established; his inference from intervention to authorship is the possessive error the volume keeps attacking.
+
+## Factor loss does not erase embodied inheritance
+
+- `V41:p173-174`: Midoriya says OFA is lost but that what he inherited has soaked into his `無個性` self and `残り火` remain.
+- Power therefore persists as trained body, judgment, biography, relationship and habit even when the transferable factor is no longer securely possessed.
+
+## Bounded power remains meaningful power
+
+- Eri's limited Rewind window restores only recent loss (`V41:p157-159`).
+- Aizawa's damaged body, Kurogiri's unstable continuity, wounded classmates and civilians all contribute within limits rather than needing maximal output.
+- V41 rejects the assumption that only overwhelming individual capacity counts as agency.
+
+## Plural power can remain plural
+
+- `V41:p179-195`: the final action depends on distinct Quirks, portals, support, shielding, encouragement and path-making without collapsing them into one owner's power.
+- Collective capacity is strongest when functions remain differentiated and agents retain authorship.
+
+## Current synthesis through V41
+
+> **Power is not morally legitimized by possession, scale, or causal influence. V41's strongest powers are those that can be relinquished, bounded, shared and coordinated without erasing the people who bear them. The opposite pole is AFO's attempt to convert giving, taking, designing and loving into a single jurisdictional claim: therefore it is mine.**
+
+
+# Volume 42 cumulative closure
+
+## Capacity, identity and authorship remain separate
+
+`V42:p030-035,p129-141,p158-160`: OFA factors are expended, embers persist temporarily then end, and Midoriya teaches before receiving technological capacity. He explicitly retains teaching after the armor arrives. **Fact:** the capacities and roles change. **Strong inference:** a biography formed through power survives its loss. **Interpretation:** power should enlarge rather than exhaust a person's available life.
+
+## Social contribution does not imply ownership
+
+`V42:p140-141`: All Might's battle data, engineering collaboration and class funding centered on Bakugo create the armor; it is not OFA mechanically restored. All Might calls it power Midoriya earned. Compare AFO's permission/ownership claims even while pleading for Yoichi (`p014-015`): causal contribution does not settle legitimate jurisdiction over the recipient. The suit's complete capability, cost and maintenance envelope remain unshown.
+
+## Skilled power remains necessary within prevention
+
+`V42:p119-123` makes early civilian approach decisive without spectacular force; `p149-152` depicts trained Quirk use and counseling together; `p171-174` still requires professional response to dangerous Quirk use. Distributed responsibility is differentiated competence, not universal combat equivalence.
+
+## Selfhood exceeds both imposed and chosen missions
+
+Shoto's food/tableware preference and explicit self beyond `なりたい自分` (`V42:p166-168`), Ochako's chosen work/desire (`p153,p177-183`) and Midoriya's dual vocation resist total role identity. These are character-grounded normative interpretations, not a claim that obligation vanishes or that tragedy was necessary for growth.

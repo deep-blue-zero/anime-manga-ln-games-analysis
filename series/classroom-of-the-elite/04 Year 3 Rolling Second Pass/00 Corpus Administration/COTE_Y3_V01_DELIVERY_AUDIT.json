@@ -1,0 +1,40 @@
+{
+  "audit": "COTE_Y3V01_PACKAGE_AUDIT_1.0",
+  "status": "PASS",
+  "scope": "Year 3 package; preservation checks cover 174 frozen inherited files. This is local content validation, not GitHub publication or integration certification.",
+  "files": 33,
+  "markdown_files": 29,
+  "relative_links_checked": 184,
+  "local_locator_references_checked": 90,
+  "evidence_records": 59,
+  "japanese_keys_checked": 29,
+  "read_chunks": 47,
+  "paragraphs": 3998,
+  "artwork_occurrences": 22,
+  "rolling_snapshots": 17,
+  "question_counts": {
+    "year1": {
+      "PARTIALLY_ANSWERED": 13,
+      "ANSWERED_BY_DEVELOPMENT": 15,
+      "STILL_OPEN": 4,
+      "REFRAMED": 7,
+      "ANSWERED_BY_REVELATION": 3
+    },
+    "year2": {
+      "PARTIALLY_ANSWERED": 8,
+      "UNANSWERED": 4
+    },
+    "prospective_prediction_pairs": {}
+  },
+  "frozen_inherited_files_preserved": 174,
+  "duplicate_long_paragraphs": [],
+  "duplication_exclusions": "YAML, headings, tables, mandated notices and predecessor-route boilerplate. Short repeated retrieval labels are intentional.",
+  "exam_recomputation": {
+    "D_purchase": 1250000,
+    "per_student": 31250.0,
+    "four_month_income": 40000,
+    "exactly_two_percent": 9.946687578266527,
+    "at_least_two_percent": 10.87767929873193
+  },
+  "errors": []
+}

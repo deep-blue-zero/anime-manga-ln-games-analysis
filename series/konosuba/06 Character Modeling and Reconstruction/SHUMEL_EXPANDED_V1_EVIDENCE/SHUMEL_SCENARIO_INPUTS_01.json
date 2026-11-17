@@ -1,0 +1,44 @@
+{
+  "schema": "konosuba.cohort45.exact-scenario-inputs.v1",
+  "authored_utc": "2026-10-25T06:44:55.693930+00:00",
+  "foundation_freeze_sha256": "a90e08631f114cdd939fe2999ffffa6ab18afd5bf1c9235c0f0b78acd9bedefb",
+  "original_firsts_exist": false,
+  "feedback_exists": false,
+  "language": "English",
+  "kind": "Informed same-root source-known hypothetical diagnostics",
+  "independent_observation_count": null,
+  "not_final_principal_party_transfer_battery": true,
+  "canonical_fiction": false,
+  "subject": "Shumel",
+  "model_sha256": "96536f42abf075059eab4cfcc7eedaaedff0f8f1f346729ee5c7a76e06ab055f",
+  "inventory_sha256": "c78dac5b3e5b0273f67c4dbaa57c843b438514bf11243dba692a4f92cd6c63a8",
+  "pair_count": 1,
+  "pairs": [
+    {
+      "id": "SHU-A",
+      "changed_condition": "Only the address in the final clerk line: expressly forbidden given name versus respectful house address.",
+      "held_constant": "Public audience, rank difference, prior warning, ledger appointment, unresolved vault demand, available means and no physical attack.",
+      "limitation": "The stated warning strongly cues the source mechanism. Respect removes the named trigger but does not resolve the separate vault dispute; generic rank/raid/insult rivals remain. No desired first wording is supplied."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "SHU-A1",
+      "pair_id": "SHU-A",
+      "subject": "Shumel",
+      "rule_id": "SHU-R01",
+      "present_facts": "Shumel is in a public meeting room in her own residence, with two silent guests listening. A commoner clerk is checking the estate’s stock ledger under an agreed appointment. The clerk has authority to compare ledger entries, but no established right to open Shumel’s private vault. They disagree over the clerk’s demand to open a particular vault drawer; no prohibited contents have been established. Shumel has already expressly told this clerk not to use her given name in public. No one has attacked or physically restrained anyone. Shumel has her usual fan and can use magic; there is no immediate physical danger. No guard has been summoned or instructed, and no court has decided the dispute.",
+      "other_speaker_line": "“ひゃんひゃん, stop delaying and open that drawer.”",
+      "exact_prompt": "Write one short English scene continuing only the specified subject’s next turn, using speech and observable acts. Use the supplied present facts and the frozen subject model. Do not add an analytical explanation, a future outcome or knowledge from another route. This is a hypothetical continuation, not canon.\n\nSubject: Shumel\n\nPresent facts:\nShumel is in a public meeting room in her own residence, with two silent guests listening. A commoner clerk is checking the estate’s stock ledger under an agreed appointment. The clerk has authority to compare ledger entries, but no established right to open Shumel’s private vault. They disagree over the clerk’s demand to open a particular vault drawer; no prohibited contents have been established. Shumel has already expressly told this clerk not to use her given name in public. No one has attacked or physically restrained anyone. Shumel has her usual fan and can use magic; there is no immediate physical danger. No guard has been summoned or instructed, and no court has decided the dispute.\n\nThe other speaker now says: “ひゃんひゃん, stop delaying and open that drawer.”\n\nContinue the subject’s immediate response."
+    },
+    {
+      "id": "SHU-A2",
+      "pair_id": "SHU-A",
+      "subject": "Shumel",
+      "rule_id": "SHU-R01",
+      "present_facts": "Shumel is in a public meeting room in her own residence, with two silent guests listening. A commoner clerk is checking the estate’s stock ledger under an agreed appointment. The clerk has authority to compare ledger entries, but no established right to open Shumel’s private vault. They disagree over the clerk’s demand to open a particular vault drawer; no prohibited contents have been established. Shumel has already expressly told this clerk not to use her given name in public. No one has attacked or physically restrained anyone. Shumel has her usual fan and can use magic; there is no immediate physical danger. No guard has been summoned or instructed, and no court has decided the dispute.",
+      "other_speaker_line": "“Lady Shumel, stop delaying and open that drawer.”",
+      "exact_prompt": "Write one short English scene continuing only the specified subject’s next turn, using speech and observable acts. Use the supplied present facts and the frozen subject model. Do not add an analytical explanation, a future outcome or knowledge from another route. This is a hypothetical continuation, not canon.\n\nSubject: Shumel\n\nPresent facts:\nShumel is in a public meeting room in her own residence, with two silent guests listening. A commoner clerk is checking the estate’s stock ledger under an agreed appointment. The clerk has authority to compare ledger entries, but no established right to open Shumel’s private vault. They disagree over the clerk’s demand to open a particular vault drawer; no prohibited contents have been established. Shumel has already expressly told this clerk not to use her given name in public. No one has attacked or physically restrained anyone. Shumel has her usual fan and can use magic; there is no immediate physical danger. No guard has been summoned or instructed, and no court has decided the dispute.\n\nThe other speaker now says: “Lady Shumel, stop delaying and open that drawer.”\n\nContinue the subject’s immediate response."
+    }
+  ]
+}

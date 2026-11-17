@@ -1,0 +1,1111 @@
+{
+  "schema": "KONOSUBA_IRIS_ACCEPTED_BOUNDED_NATIVE_PROVENANCE_V1",
+  "accepted_utc": "2026-10-19T10:33:28.943186+00:00",
+  "scope": "Ten preserved analytical native backjoin records; interval/source/member hashes and actual reading scopes, not raw source text or pixels. Historical private/input statuses do not supersede this accepted cohort receiving.",
+  "new_full_reading_or_independent_test_credit": 0,
+  "records": [
+    {
+      "preserved_input": "SECONDARY_ACCEPTED_NATIVE_IDENTITY_AND_AGENCY_BACKJOIN_02.json",
+      "input_sha256": "084cb8c7c2b3ec91bef38bf8aab8a76675c8afaeb1a9fb2c1ed718a3b928fdc3",
+      "declared_public_path_transformations": [],
+      "historical_actual_receiving_record_public_derivative": {
+        "schema": "KONOSUBA_SECONDARY_ACCEPTED_NATIVE_BACKJOIN_V1",
+        "created_utc": "2026-10-19T06:36:31.560835+00:00",
+        "purpose": "Exact alias, voice, information and autonomy backjoin for Iris/Claire/Rain/Yunyun, on a previously accepted and published supplied edition.",
+        "accepted_gate_source": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+        "source_component": "CONTEXP-01-U013",
+        "member": "item/xhtml/p-004.xhtml",
+        "member_sha256": "598ef7fa04089518be1fe8dc3f5296a89ee236436fdfcd47dc75ca0bb43a4b5a",
+        "transcription_sha256": "6d97b8228a278b3de7bdf9bcb9a36878dea4cde1f4aa646e4bc0b376ac83ca4e",
+        "actual_read_ranges_P": [
+          [
+            104,
+            153
+          ],
+          [
+            389,
+            424
+          ]
+        ],
+        "new_principal_or_whole_source_pass_credit": 0,
+        "new_excluded_resource_admission": false,
+        "observations": [
+          {
+            "P": [
+              110,
+              125
+            ],
+            "plane": "direct dialogue plus Megumin focalization",
+            "finding": "True name アイリス; deliberate public alias イリス. Requests イリス without 様 atP115; tells false chirimen-wholesaler-granddaughter cover atP121. Megumin knows royalty; Yunyun asks if a noble child and does not receive explicit true identity here.",
+            "limit": "Warm-food claim is Iris dialogue, not independently established lifetime meal history or proof of maltreatment."
+          },
+          {
+            "P": [
+              131,
+              151
+            ],
+            "plane": "enacted direct interaction",
+            "finding": "Secret base, punishing corrupt nobles and illicit adventure excite rather than discourage Iris. She explicitly asks to join; Yunyun separately refuses automatic executive assignment.",
+            "limit": "Volunteering for this group is not blanket consent to all roles, risks, payment or coercion."
+          },
+          {
+            "P": [
+              389,
+              401
+            ],
+            "plane": "direct Claire-Iris interaction",
+            "finding": "Claire claims detailed surveillance and refuses overnight request; Iris asks releaseP395 and looseningP398, ignoredP399. Iris physically forces releaseP400-401.",
+            "limit": "Faithful protection does not erase real unwanted holding; no invented diagnosis, lasting injury or general force preference."
+          },
+          {
+            "P": [
+              402,
+              417
+            ],
+            "plane": "direct plus narrator inference and report",
+            "finding": "Claire announces transport surveillance; Iris initially downcast, then visibly welcomes Megumin private future-pickup promiseP408-415. Claire reports Rain crying and searchingP416.",
+            "limit": "Rain report is attributed, not a newly witnessed Rain action; Megumin promise is not yet completed transport, and her initial no-future-meetings expectation is overtaken by her plan."
+          },
+          {
+            "P": [
+              420,
+              424
+            ],
+            "plane": "Yunyun direct account and request",
+            "finding": "Yunyun reports recently learned Teleport to return home and gives qualified agreement to register capital destination, while questioning intent.",
+            "limit": "No unqualified standing agreement to unlimited transport work."
+          }
+        ],
+        "model_use": "Retrospective calibration and deduplicated underlying encounters. Existing I01/I02 generations and SEC01 scope remain exact; no retroactive blind success or new validation. Age-appropriate attachment, curiosity, competence, moral learning and autonomy only."
+      }
+    },
+    {
+      "preserved_input": "SECONDARY_ACCEPTED_NATIVE_IRIS_AGENCY_BACKJOIN_04.json",
+      "input_sha256": "ff7b47777b171c67054c769188a1e7bf26d85a15c55f7df126ba0cfe3a5632ef",
+      "declared_public_path_transformations": [],
+      "historical_actual_receiving_record_public_derivative": {
+        "schema": "KONOSUBA_SECONDARY_ACCEPTED_NATIVE_BACKJOIN_V1",
+        "created_utc": "2026-10-19T07:12:25.448970+00:00",
+        "accepted_gate_source": "b274b31dfcc96932643feba27e53e1deb2dc7813",
+        "source_id": "CONTEXP-02",
+        "pins": [
+          {
+            "component_id": "CONTEXP-02-U013",
+            "native_member": "OEBPS/Text/part0011.xhtml",
+            "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+            "actual_received_P_ranges": [
+              [
+                83,
+                148
+              ],
+              [
+                150,
+                178
+              ]
+            ]
+          },
+          {
+            "component_id": "CONTEXP-02-U020",
+            "native_member": "OEBPS/Text/part0018.xhtml",
+            "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+            "actual_received_P_ranges": [
+              [
+                225,
+                239
+              ],
+              [
+                475,
+                499
+              ]
+            ]
+          }
+        ],
+        "new_principal_or_whole_source_pass_credit": 0,
+        "observations": [
+          {
+            "route": "U013P106",
+            "plane": "Iris direct self-identification",
+            "finding": "True full name ベルゼルグ・スタイリッシュ・ソード・アイリス. アイリス true name and イリス public alias are joined explicitly; prior chirimen-granddaughter account is declared a temporary guise."
+          },
+          {
+            "route": "U013P113-148",
+            "plane": "direct retained court interaction plus self-report",
+            "finding": "Iris shifts from protective royal-duty rhetoric to sadness and threatened affection withdrawal, then proposes a training demonstration. Rain rejects the claimed need, reports actual pay reduction due to escapesP141 and remains resistant until the proposed demonstration. Claire is moved, yields, then recovers her objection before collapsing at affection threat. Retainers yield before any duelP147.",
+            "limit": "No actual duel/victory or literal Claire death/respiratory diagnosis. Rain pay loss is her own direct report, not employer/accounting verification. Megumin comparison toKazuma is attribution, not proof he taught each tactic."
+          },
+          {
+            "route": "U013P153-178",
+            "plane": "direct dialogue and observable response",
+            "finding": "Iris says outsideexperience is useful; acknowledges limited spell repertoireP156; asks Yunyun ordinary friendship/no様P170-172; is embarrassed and asksforgether earlier rebuke ofKazuma informal addressP174-175. Yunyun acceptsnormalfriendaddressP177 and promises futureShapeChange/self-sacrifice.",
+            "limit": "Real change and relation-specific agency; no acquired transformation or performed sacrifice. Requests normal peer relation do not erase subordinate coercion atcourt."
+          },
+          {
+            "route": "U020P225-239",
+            "plane": "Iris direct owned-value statement plus Megumin attribution",
+            "finding": "Iris calls her cheap ring greatest treasureP229, projects effort/feeling as Barbera wish, and protests/demands apology for child dismissalP233/238. Megumin says she thinksitwasKazuma giftP230; narrativeattribution retainsits wording.",
+            "limit": "No adult royal engagement, overheardBarberaanswer or independently verifiedrecipientmotive. Do not merge with MAIN06ring by motif alone."
+          },
+          {
+            "route": "U020P475-499",
+            "plane": "actual false-witness offer and speech/cast sequence",
+            "finding": "YunyunwarnsnearcapitalcastP478. Irisoffersroyalwitness to supposedrareanimal killP480, then reassuresP485 afteradventurercardobjectionP484. Meguminactuallystatesfabricatedkill/destructionaccountP494andcastsP497.",
+            "current_precision": "Native assurance supports an intention/belief about overcoming record objection; no actual card alteration, infallible royal override or completedlegalexoneration is shown in this boundedscene. Earlier derivative shorthand about cardoverride must retain this limit."
+          }
+        ],
+        "scope": "Retrospective secondary-model calibration, distinct direct/report/hypothetical planes. Preserve all historicalI01/I02/CE01/SEC01 scopes and outcomes; no newblind trial."
+      }
+    },
+    {
+      "preserved_input": "SECONDARY_ACCEPTED_NATIVE_IRIS_MAIN06_BACKJOIN_06.json",
+      "input_sha256": "2a20c05c6408f9815cc8226c078c49ce6657ccb8e85fbfb105c16f1fa23a81ba",
+      "declared_public_path_transformations": [],
+      "historical_actual_receiving_record_public_derivative": {
+        "schema": "KONOSUBA_SECONDARY_ACCEPTED_NATIVE_IRIS_MAIN06_BACKJOIN_06",
+        "recorded_utc": "2026-10-19T08:05:18.344647+00:00",
+        "source": "MAIN-06",
+        "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "new_principal_pass_credit": 0,
+        "new_excluded_reading_credit": 0,
+        "exposure": "Retrospective informed backjoin to accepted principal members; no fresh forecast or complete-source rereading claimed.",
+        "members": [
+          {
+            "member": "item/xhtml/p-004.xhtml",
+            "sha256": "0091b247031f484548d7ecc8c7364c81cf6f8ea098e3edd108112fccd382c585",
+            "actual_untruncated_windows_P": [
+              [
+                29,
+                55
+              ],
+              [
+                90,
+                174
+              ],
+              [
+                232,
+                254
+              ],
+              [
+                277,
+                335
+              ],
+              [
+                398,
+                424
+              ],
+              [
+                521,
+                584
+              ]
+            ],
+            "observations": [
+              {
+                "P": "31-46",
+                "classification": "Direct exchange plus Rain report/translation",
+                "claim": "Rain calls Iris habitually compliant and this her first selfish act (35): reported historical generalization, not omniscient timeless trait. Iris via translation admits retaliation against Darkness and envy of companions (40-42), apologizes and requests a few days. K perceives reputation pressure (45), so agreement is not costless unrestricted assent."
+              },
+              {
+                "P": "52,98-118,128-130",
+                "classification": "Direct Iris speech; K narration distinguished",
+                "claim": "Private informal address explicitly permitted at52. School/festival curiosity includes practical payment/profit questions105, not absence of all practical reasoning. Alarm context leads Iris herself to state she cannot focus only on study130. No school established."
+              },
+              {
+                "P": "145-173",
+                "classification": "Direct offer, wish and K response",
+                "claim": "Iris offers K safe return, apologizes for taking him and maintains wish for more company. Older-brother comparison concerns lost informality with actual brother156. K reverses departure plan after eliciting casual sibling address, not Iris ordering him to remain."
+              },
+              {
+                "P": "234-254,277-330",
+                "classification": "Ordered phases of one castle play/learning episode",
+                "claim": "Iris explicitly wants an opponent who tries238 and actually wins enough that K begs to continue. K later lies that a bamboo toy is an artifact and wins with a handicap; Rain corrects297, Iris protests unfairness299 then seeks a rematch. In subsequent play she questions novel claims, is corrected about local fish by Rain321, rejects true fire-cat report without observation324, and explicitly claims distraction strategy329. High game ability and social/informational inexperience coexist; rapid tactical uptake is direct, not every new skill acquisition."
+              },
+              {
+                "P": "399-421",
+                "classification": "Direct changed request after explanation",
+                "claim": "Iris defends K, hears Darkness explain his home/friends and their worry415, agrees sadly416-417, then asks only farewell dinner421. This is a bounded reduced request around others obligations, not automatically the full later I02 royal-duty predicate."
+              },
+              {
+                "P": "521-584",
+                "classification": "Direct statement, K attributions separate",
+                "claim": "Iris states nondeference and genuine competition are reasons she likes K543-546. K generalization about suppressing self to royal duty567 is his attribution. She directly imagines adventurer/theft roles576 and explicitly recognizes royal incongruity while admiring righteous thief582. Not performed theft or established adult relationship."
+              }
+            ]
+          },
+          {
+            "member": "item/xhtml/p-012.xhtml",
+            "sha256": "7b41d3a5074878e066da43fda03c057f6b5460b4fc1a6a98cb7569ccea4efd5e",
+            "actual_untruncated_windows_P": [
+              [
+                1,
+                45
+              ]
+            ],
+            "focalizer": "Iris first-person 私; distinct from K in C2 and following Ep2",
+            "observations": [
+              {
+                "P": "7-14,22-26",
+                "classification": "Claire account plus Iris private appraisal/direct promise",
+                "claim": "Claire acknowledges happiness but invokes future marriage/status separation7. Iris privately understands and does not resent retainers12-14; promises to intercede with father22, not actual completed pardon. Thinks Claire too rigid24-25."
+              },
+              {
+                "P": "15-22,27-45",
+                "classification": "Iris direct/internal versus retainers interpretation",
+                "claim": "Long-worn stolen ring is explicit15-21. Claire offers future reunion for commander feat27; Rain misreads quick farewell34. Iris refers to K promise36; Claire takes it as game rematch38 while Iris privately recalls country rule of Demon King slayer receiving princess-marriage right41-42 and hopes older brother values ring45. This is future symbolic expectation, not adult present commitment or the later cheap gifted ring in CONTEXP02."
+              }
+            ]
+          },
+          {
+            "member": "item/xhtml/p-013.xhtml",
+            "sha256": "7143daeb585ae08772c63c7a06c2f86b55e61000700dd81bb5fff74d4cffe334",
+            "actual_untruncated_windows_P": [
+              [
+                1,
+                74
+              ]
+            ],
+            "focalizer": "K first-person 俺",
+            "observations": [
+              {
+                "P": "8-16",
+                "classification": "K wishful claim and Darkness rebuttal; narrator inference",
+                "claim": "K proposes unsupported romantic/sleeping counterfactual; Darkness explicitly says Iris is12 and challenges his projection9. M describes incomplete outing13; K conjectures friend-separation feelings16, not M internal narration."
+              },
+              {
+                "P": "68-74",
+                "classification": "K direct ring possession and refusal",
+                "claim": "K has the stolen ring as proof of castle experience and retrieves it when Aqua requests it for an act. Does not establish a cheap gift to Iris or her direct present receipt."
+              }
+            ]
+          }
+        ],
+        "deduplication": "All C2 game phases remain one castle stay parent event; epilogues are aftermath/alternative focalization, not independent repetitions of a behavioral test. I01/I02 historical scope/outcomes unchanged.",
+        "current_status": "Evidence backjoin for incomplete secondary census; no final tier or completed model asserted."
+      }
+    },
+    {
+      "preserved_input": "SECONDARY_ACCEPTED_NATIVE_IRIS_MAIN10_11_BACKJOIN_07.json",
+      "input_sha256": "b66ae05608a6c884edd6dd91948551b1e231f8c73c9e98f43665163e08755278",
+      "declared_public_path_transformations": [],
+      "historical_actual_receiving_record_public_derivative": {
+        "schema": "KONOSUBA_SECONDARY_ACCEPTED_NATIVE_IRIS_MAIN10_11_BACKJOIN_07",
+        "recorded_utc": "2026-10-19T08:07:43.953301+00:00",
+        "status": "ACTUAL_BOUNDED_NATIVE_BACKJOIN_FOR_SECONDARY_CENSUS",
+        "new_principal_pass_credit": 0,
+        "new_excluded_reading_credit": 0,
+        "exposure": "Completed-known evidence; retrospective calibration only. No I01/I02 historical field, scope or outcome edited.",
+        "members": [
+          {
+            "source": "MAIN-10",
+            "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+            "member": "text/part0011.html",
+            "member_sha256": "a36909b07482011a912e9150820b0af418ead81a8da0f21a97e8282cef3f73a0",
+            "actual_untruncated_windows_P": [
+              [
+                194,
+                317
+              ],
+              [
+                450,
+                480
+              ]
+            ],
+            "claims": [
+              {
+                "P": "194-219",
+                "plane": "Direct K-focalized event plus attributed explanation",
+                "claim": "Actual Exterion strike bisects bull monster196-197. Darkness ancestry/education/experience-food/weapons explanation202 remains her account; not experimentally isolated causes. Iris seeks recognition206 and volunteers vanguard209. Protectee strength is not a total escort/authority claim."
+              },
+              {
+                "P": "232-249",
+                "plane": "Direct relational exchange",
+                "claim": "Iris acknowledges prior Darkness training238 and defends her protector role247 when K mocks escort usefulness. Darkness receiving comfort249 does not erase her real other functions."
+              },
+              {
+                "P": "270-300",
+                "plane": "Direct offer, restriction report, action and correction",
+                "claim": "Iris offers cooking help270, reports court refuses274, accepts bounded instructions279-280; she corrects K about ingredient life294. Cooking completed after struggle299, not universal incompetence or no practical knowledge."
+              },
+              {
+                "P": "459-480",
+                "plane": "Direct Iris request/refusal plus K inference and recollection",
+                "claim": "Iris asks escort in darkness464 and directly declines co-sleeping469. Not waking others is K inference466-467/473, not her stated sufficient motive. Past unsanctioned visits477-479 are recollection, not repeated direct new events. No adult consent or entitlement inferred."
+              }
+            ]
+          },
+          {
+            "source": "MAIN-10",
+            "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+            "member": "text/part0014.html",
+            "member_sha256": "ac05d3d4d196b00fe8cf2cee20d9c9e55d580a46bb9a3870aeeb3a53e68e99cd",
+            "actual_untruncated_windows_P": [
+              [
+                418,
+                477
+              ],
+              [
+                677,
+                758
+              ]
+            ],
+            "claims": [
+              {
+                "P": "418-477",
+                "plane": "Ragcraft testimony; direct Iris/Levi response; subsequent narrated result",
+                "claim": "Neutrality arrangement is disclosed by interested Ragcraft418-428. Iris recognizes survival pressure446, promises father mediation448, says her kingdom can endure450 and consoles452. K weak/compliant label447 remains his framing. Levi independently proposes supporting Belzerg459 after casino pressure already forced disclosure. Funding outcome475-476 precedes assassin exposure; no single-cause compassion proof."
+              },
+              {
+                "P": "699-707",
+                "plane": "Direct action with unknown preceding dialogue",
+                "claim": "Actual Exterion702 passes above K and door collapses705; Iris sword and Ragcraft black remains707. Her complete preceding recognition test/dialogue is not shown in this window. Later own claim of discernment does not grant omniscience or universal detecting power."
+              },
+              {
+                "P": "715-758",
+                "plane": "Direct after-event political exchange",
+                "claim": "Iris asks Levi not to take full blame715 and invokes royal bearing725. Levi alliance gratitude727-734 is his commitment, not Iris overriding his mind. After Levi explains hostile performance754 and pleads755, Iris chooses continuing friendship757 rather than revived engagement. This direct current choice does not prove every earlier private engagement preference."
+              }
+            ]
+          },
+          {
+            "source": "MAIN-10",
+            "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+            "member": "text/part0015.html",
+            "member_sha256": "2638b219db920c0fc2c7810dcb7f0f51f33aaa1b654d89432511e1a9f4e42ada",
+            "actual_untruncated_windows_P": [
+              [
+                22,
+                60
+              ]
+            ],
+            "claims": [
+              {
+                "P": "29,34-60",
+                "plane": "Iris own claim and actual gift receipt",
+                "claim": "Iris says she judges people well29; performance remains domain-bounded. K actually gives400-Eris child ring35-40 as replacement for missing long-worn ring39. Iris receives it40, treasures54 and shifts to casual older-brother thanks58. This is a distinct physical gift from MAIN06 stolen ring. CONTEXP02 cheap-ring memory is compatible with this gift; M there qualifies attribution, so retain evidentiary strength of each source separately. No engagement contract."
+              }
+            ]
+          },
+          {
+            "source": "MAIN-11",
+            "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+            "member": "item/xhtml/p-003.xhtml",
+            "member_sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f",
+            "actual_untruncated_windows_P": [
+              [
+                320,
+                367
+              ]
+            ],
+            "claims": [
+              {
+                "P": "328-361",
+                "plane": "Direct gift, explicit wish, recognized royal obligation and reduced request",
+                "claim": "Iris gives handmade charm328-332, says substitute should travel333, then actually grabs hem341 and repudiates substitute343. Wishes shared travel/adventure343-345, recognizes her public duty to protect people348, refuses further indulgence354, and reduces to brief company tonight361. This supplies the clean historical I02 conjunction in this source. One scene repeated in checkpoints/ledgers is one test context; prior historical C stays C and future NTs stay NT."
+              },
+              {
+                "P": "349-367",
+                "plane": "K inference/temptation separated from Iris agency",
+                "claim": "K childhood-discipline inference349 and legal-age-change speculation363 are his cognition, not Iris proposal or established permission. Model her12-year-old agency/attachment, not K unsupported adult projection."
+              }
+            ]
+          }
+        ],
+        "deduplication": "MAIN10 road/cooking/diplomacy/impostor/aftergift phases share one journey parent; distinguish mechanisms without inflating trials. MAIN11 one direct wish-duty scene is one parent across all derivative witnesses.",
+        "counterexamples_to_broad_rules": [
+          "Physical power does not remove unfamiliarity or demand for care.",
+          "Royal duty can motivate assertive negotiation; soft K labels do not prove global inability to demand.",
+          "CONTEXP02 court pressure and false-witness offer remain adverse to unrestricted compliance, while exact historical I02 predicate still requires the specified understood conflicting royal duty."
+        ]
+      }
+    },
+    {
+      "preserved_input": "SECONDARY_ACCEPTED_NATIVE_IRIS_DUST03_BACKJOIN_08.json",
+      "input_sha256": "f2985dbf83c0f2cf921c570348692a2974460858a11bcfb382fd66a5112e656b",
+      "declared_public_path_transformations": [
+        {
+          "field": "accepted_report.path",
+          "operation": "Verified local repository reference made repository-relative; original private input retained exactly."
+        }
+      ],
+      "historical_actual_receiving_record_public_derivative": {
+        "schema": "KONOSUBA_SECONDARY_ACCEPTED_NATIVE_IRIS_DUST03_BACKJOIN_08",
+        "recorded_utc": "2026-10-19T08:13:26.576961+00:00",
+        "source": "DUST-03",
+        "accepted_report": {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md",
+          "sha256": "05f34f0eac8f51d195154d2b64b5a91945f524ed88eb4af8d60d6d630e6f92bd",
+          "actual_untruncated_lines": [
+            [
+              22,
+              104
+            ],
+            [
+              114,
+              144
+            ]
+          ]
+        },
+        "new_full_pass_credit": 0,
+        "new_forecast_trial_credit": 0,
+        "native_members": [
+          {
+            "component_id": "DUST-03-U014",
+            "member": "item/xhtml/p-006.xhtml",
+            "member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+            "actual_untruncated_windows_P": [
+              [
+                95,
+                132
+              ],
+              [
+                300,
+                370
+              ]
+            ]
+          },
+          {
+            "component_id": "DUST-03-U016",
+            "member": "item/xhtml/p-008.xhtml",
+            "member_sha256": "d5038a1f6a1ec42b3241d54a1e5093f0159f0c16bbf61ab338029ab12cb68781",
+            "actual_untruncated_windows_P": [
+              [
+                1,
+                44
+              ]
+            ]
+          },
+          {
+            "component_id": "DUST-03-U017",
+            "member": "item/xhtml/p-009.xhtml",
+            "member_sha256": "8c3caf31805b2a11e5dd93475f19a5082e9150906ee0a75cbb6cb7712419d4b4",
+            "actual_untruncated_windows_P": [
+              [
+                1,
+                39
+              ]
+            ]
+          }
+        ],
+        "focalizer": "Dust first-person; Iris heard and observed, with a mask-mediated access plane in U014 P98-132. No authority over her body in this later mask mode.",
+        "observations": [
+          {
+            "locator": "U014 P103-130",
+            "claim": "True Iris alias イリス is explicitly joined to アイリス105. Private play and righteous-thief wish108 lead to actual funding papers112-114, hope that fiance leverage helps119, acknowledged escape fantasy125 and explicit duty refusal130. Dust romance/political-marriage generalizations121-122 and former lady comparison126/129 remain his framing, not Iris knowledge or canonical complete biography."
+          },
+          {
+            "locator": "U014 P300-370",
+            "claim": "Deceptive multiple distractions exploit guard indecision, borrowed helmet/armor and incomplete map. Real lender conditions316-324, dragon reception347-350 and Iris invitation359 matter. Iris directly checks whether trouble results361; Dust minimizes exposure rather than securing formal royal clearance362. She recognizes friend connection363-365 and accepts366. Not an ignorant kidnapping, but willingness does not retroactively authorize prior mask intrusion or imply complete risk knowledge."
+          },
+          {
+            "locator": "U016 P1-18",
+            "claim": "Actual flight returns her to terrace11-12. Iris reports relief13 and responds positively to suggestion to rely on others17-18. Temporary enjoyment does not complete funding task or demonstrate abandoning acknowledged national duty. Future universal willingness to seek help is not shown."
+          },
+          {
+            "locator": "U016 P28-44",
+            "claim": "Leen reports sanctuary outcome30; Dust infers her knowledge36-37; she asks for eventual disclosure39 and accepts delay41. Her own selective boundary and cooperation survive alongside Iris evidence."
+          },
+          {
+            "locator": "U017 P9-36",
+            "claim": "Yunyun directly tries to prevent dangerous quarrel, condemns Dust property-destruction suggestion. Quarrel actually de-escalates22 without making proposal benevolent. Iris apologizes26, reports having thanked actual envoy and discovering denial/body difference32; offers indirect thanks36 without demanding Dust admission. Her follow-up action is reported here, not a second newly witnessed inquiry scene. No complete knowledge of his past inferred."
+          }
+        ],
+        "chronology": "Do not impose one diegetic date on whole DUST03. U014 funding/fiance context precedes resolution of MAIN10 diplomacy, while U017 explicitly mentions K gifted ring P9 and therefore has a later relevant relation. Preserve per-scene temporal anchors. Three ring objects/responsibilities must not collapse: MAIN06 stolen long-worn ring; DUST03 U012 treasury-reward/resale episode (not newly native-backjoined here); MAIN10 400-Eris replacement gift with later CONTEXP02 compatible memory.",
+        "deduplication": "U014 mediated duty observation, U014/U016 flight and U017 reported inquiry are distinct phases under linked episodes; report/voice/ledger repetitions are not additional trials. The prologue overlaps another full-sequence scene and remains one observation.",
+        "forecast_integrity": "No archived I01/I02 scope moved into Dust03; no completed-known scene called prospective confirmation. Original MG05 target remains V16-V17 and NTs preserved.",
+        "status": "Substantive evidence receipt for incomplete census; no full-corpus census or final character artifact closure."
+      }
+    },
+    {
+      "preserved_input": "SECONDARY_ACCEPTED_NATIVE_IRIS_MASK_BACKJOIN_10.json",
+      "input_sha256": "4ebb402f6311b712c7ec6ec2154efd4eafa1a9000dd3e7b07984e3d9ce757a89",
+      "declared_public_path_transformations": [],
+      "historical_actual_receiving_record_public_derivative": {
+        "schema": "KONOSUBA_SECONDARY_ACCEPTED_NATIVE_IRIS_MASK_BACKJOIN_10",
+        "recorded_utc": "2026-10-19T08:48:30.803847+00:00",
+        "source": "MASK",
+        "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+        "member": "text/part0013.html",
+        "member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "actual_untruncated_windows_P": [
+          [
+            137,
+            170
+          ],
+          [
+            210,
+            223
+          ],
+          [
+            288,
+            324
+          ],
+          [
+            345,
+            418
+          ],
+          [
+            431,
+            484
+          ]
+        ],
+        "focalizer": "Vanir first-person; Iris direct speech distinguished from his private sight, judgment and role performance",
+        "new_full_source_or_principal_pass_credit": 0,
+        "new_prospective_test_credit": 0,
+        "claims": [
+          {
+            "P": "139-170",
+            "claim": "Iris wants a public ruler-performance and reunion earned through praise151. Rain corrects stale Alderp information142. Iris persists after correction and shifts to finding a suitable villain166: real goal substitution, not universal deferential compliance. Claire both blames K influence and enjoys her new demands168; that does not uniquely prove causation. Borrowed merchant cover is misunderstood161-163, not true genealogy."
+          },
+          {
+            "P": "210-223",
+            "claim": "A visit without achievement is genuinely offered216 and Claire becomes tempted219; Iris herself declines221 because she wants evidence of her own effort. Reunion access is not the only goal. No performed arrest of silver-haired thieves follows from a suggestion223."
+          },
+          {
+            "P": "288-324",
+            "claim": "Aulip explicitly threatens civilians289/311, distinct from Alderp though related by Rain report293. Iris tries to intervene316, hears guard danger assessment318-319 and actually complies321-322. Vanir habitually-not-demanding inference323 is viewpoint-bound, not timeless fact."
+          },
+          {
+            "P": "345-418",
+            "claim": "Iris renews help appeal, then Vanir volunteers361 and invites command369; she explicitly commands punishment375 despite retainers warnings371. Violence is partly retold388-391 with injuries admitted, not zero-cost harmlessness. Vanir bonus motive364 and uplift365 coexist; kingly-skill theory367 is inference, not demonstrated ability. Iris enjoys running406 and then defers K reunion414 at retainers request412 while asking finite further company."
+          },
+          {
+            "P": "431-484",
+            "claim": "Iris considers future capital festival439, not actual attendance. She thanks finite provider451 and offers longer employment456; Vanir refuses for friend458 while allowing another day, so no accepted permanent hire. She offers identity disclosure479 but he declines; her fullidentity need not be spoken for him to know it. No automatic guard replacement or royal ownership of provider."
+          }
+        ],
+        "forecast_integrity": "Completed-known retrospective calibration; no archived I01/I02 target moved into MASK. Same episode phases and repeated report/voice/ledger witnesses do not become multiple independent confirmations.",
+        "chronology": "C2 after Alderp removal and before upcoming Eris festival; do not borrow MAIN10 demonstrated combat state or later court relationships into every current choice.",
+        "status": "Bounded evidence backjoin for incomplete secondary census; no final artifact or mature model closure."
+      }
+    },
+    {
+      "preserved_input": "SECONDARY_ACCEPTED_NATIVE_IRIS_BODY_AGENCY_BACKJOIN_14.json",
+      "input_sha256": "4a3daabc2b9dc5531cb1b9ebc79ce44591537a8440829ec43033e5e42adec3d0",
+      "declared_public_path_transformations": [],
+      "historical_actual_receiving_record_public_derivative": {
+        "schema": "KONOSUBA_ACCEPTED_NATIVE_IRIS_BODY_AGENCY_BACKJOIN_V1",
+        "created_utc": "2026-10-19T09:37:42.987195+00:00",
+        "source_id": "MAIN-06",
+        "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "member": "item/xhtml/p-006.xhtml",
+        "member_sha256": "30e532224ed103494180481b7b2b913413d3a23e61b59b91a94e0fd1dfb43bd5",
+        "accepted_principal_P_slots": 637,
+        "actual_untruncated_windows_P": [
+          [
+            285,
+            374
+          ],
+          [
+            445,
+            493
+          ]
+        ],
+        "new_principal_pass_credit": 0,
+        "findings": [
+          "Unexpected swap follows artifact activation; Iris explicitly objects to improper use of her bodyP309-312 and again excludes interferenceP349. Familiar affection is compatible with specific immediate boundaries.",
+          "Iris expresses adventure/freedom attractionP327/334 but also concern about returning. She asks for one unaccompanied-by-retainers city outingP345-350; Megumin offers an escort with fewer restrictionsP356; Iris acceptsP358-363. No permanent abdication occurs.",
+          "Kazuma does not directly witness the interim outing. After reversion, witnesses report he had challenged the men; Megumin admits her own provocationP465-474. Do not assign every challenge to Iris or treat Megumin enjoyment report as omniscience.",
+          "Megumin states royal competence could operate in Kazuma bodyP463; this is her claim, not a new controlled test of cross-body skill or MAIN10 equipment in an earlier state.",
+          "Iris later learns the misuse, is distressed and asks with guardians; Kazuma reports her angerP489-491. His loss of social ease does not invalidate her objection or turn it into romantic jealousy."
+        ],
+        "limits": "Known accepted principal material, bounded continuing-root actual read; prior truncated lead display did not receive full-text credit. Sensitive content summarized as bodily agency and misconduct, without erotic elaboration. No full reread or prospective validation."
+      }
+    },
+    {
+      "preserved_input": "SECONDARY_ACCEPTED_PRINCIPAL_NATIVE_IMAGE_BACKJOIN_15.json",
+      "input_sha256": "0adbc12a3ad7fb8fda1e233ffb8010d1cf08915012ab4495815ccb5b41a89c40",
+      "declared_public_path_transformations": [],
+      "historical_actual_receiving_record_public_derivative": {
+        "schema": "KONOSUBA_ACCEPTED_PRINCIPAL_NATIVE_IMAGE_BACKJOIN_V1",
+        "created_utc": "2026-10-19T09:56:17.304230+00:00",
+        "source": "MAIN-06",
+        "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "new_principal_pass_credit": 0,
+        "windows": [
+          {
+            "component_id": "MAIN-06-U012",
+            "member": "item/xhtml/p-003.xhtml",
+            "member_sha256": "d512140474abc121565cc7ac9a800dfe7f6af2205ec79000e5776128f77e9d45",
+            "actual_untruncated_windows_P": [
+              [
+                111,
+                145
+              ],
+              [
+                390,
+                437
+              ],
+              [
+                438,
+                477
+              ]
+            ],
+            "new_principal_pass_credit": 0,
+            "reading_history": "Actual complete bounded windows received in this execution. U015body-boundary windows and U021/U022whole epilogues retain earlier receipt06/14 reading, not a newly claimed pass. Overlapping/split windows are preserved rather than counted as repeated events."
+          },
+          {
+            "component_id": "MAIN-06-U013",
+            "member": "item/xhtml/p-004.xhtml",
+            "member_sha256": "0091b247031f484548d7ecc8c7364c81cf6f8ea098e3edd108112fccd382c585",
+            "actual_untruncated_windows_P": [
+              [
+                210,
+                228
+              ],
+              [
+                388,
+                424
+              ]
+            ],
+            "new_principal_pass_credit": 0,
+            "reading_history": "Actual complete bounded windows received in this execution. U015body-boundary windows and U021/U022whole epilogues retain earlier receipt06/14 reading, not a newly claimed pass. Overlapping/split windows are preserved rather than counted as repeated events."
+          },
+          {
+            "component_id": "MAIN-06-U014",
+            "member": "item/xhtml/p-005.xhtml",
+            "member_sha256": "609f68d62bd334308e3074b110bd7dcd7bbcd85514695eae1275cfe6b9b36a5c",
+            "actual_untruncated_windows_P": [
+              [
+                273,
+                307
+              ],
+              [
+                308,
+                336
+              ],
+              [
+                545,
+                576
+              ]
+            ],
+            "new_principal_pass_credit": 0,
+            "reading_history": "Actual complete bounded windows received in this execution. U015body-boundary windows and U021/U022whole epilogues retain earlier receipt06/14 reading, not a newly claimed pass. Overlapping/split windows are preserved rather than counted as repeated events."
+          },
+          {
+            "component_id": "MAIN-06-U015",
+            "member": "item/xhtml/p-006.xhtml",
+            "member_sha256": "30e532224ed103494180481b7b2b913413d3a23e61b59b91a94e0fd1dfb43bd5",
+            "actual_untruncated_windows_P": [
+              [
+                285,
+                374
+              ],
+              [
+                398,
+                444
+              ],
+              [
+                445,
+                493
+              ]
+            ],
+            "new_principal_pass_credit": 0,
+            "reading_history": "Actual complete bounded windows received in this execution. U015body-boundary windows and U021/U022whole epilogues retain earlier receipt06/14 reading, not a newly claimed pass. Overlapping/split windows are preserved rather than counted as repeated events."
+          },
+          {
+            "component_id": "MAIN-06-U016",
+            "member": "item/xhtml/p-007.xhtml",
+            "member_sha256": "61363480867030a6233ee1975f43afd442ea88adea60e15cbe989e8a5706cd39",
+            "actual_untruncated_windows_P": [
+              [
+                1,
+                30
+              ],
+              [
+                280,
+                315
+              ],
+              [
+                403,
+                431
+              ]
+            ],
+            "new_principal_pass_credit": 0,
+            "reading_history": "Actual complete bounded windows received in this execution. U015body-boundary windows and U021/U022whole epilogues retain earlier receipt06/14 reading, not a newly claimed pass. Overlapping/split windows are preserved rather than counted as repeated events."
+          },
+          {
+            "component_id": "MAIN-06-U018",
+            "member": "item/xhtml/p-009.xhtml",
+            "member_sha256": "e713a9177d9ced97e22623cd6b2f2be9e2ad8682c0b5e106f86e185b2e4175e3",
+            "actual_untruncated_windows_P": [
+              [
+                1,
+                12
+              ]
+            ],
+            "new_principal_pass_credit": 0,
+            "reading_history": "Actual complete bounded windows received in this execution. U015body-boundary windows and U021/U022whole epilogues retain earlier receipt06/14 reading, not a newly claimed pass. Overlapping/split windows are preserved rather than counted as repeated events."
+          },
+          {
+            "component_id": "MAIN-06-U019",
+            "member": "item/xhtml/p-010.xhtml",
+            "member_sha256": "9a044a08ae12bfe8fb97af17da5e08914c0a635a4e3d47c92178fdd63169bb08",
+            "actual_untruncated_windows_P": [
+              [
+                143,
+                169
+              ],
+              [
+                169,
+                194
+              ]
+            ],
+            "new_principal_pass_credit": 0,
+            "reading_history": "Actual complete bounded windows received in this execution. U015body-boundary windows and U021/U022whole epilogues retain earlier receipt06/14 reading, not a newly claimed pass. Overlapping/split windows are preserved rather than counted as repeated events."
+          },
+          {
+            "component_id": "MAIN-06-U021",
+            "member": "item/xhtml/p-012.xhtml",
+            "member_sha256": "7b41d3a5074878e066da43fda03c057f6b5460b4fc1a6a98cb7569ccea4efd5e",
+            "actual_untruncated_windows_P": [
+              [
+                1,
+                45
+              ]
+            ],
+            "new_principal_pass_credit": 0,
+            "reading_history": "Actual complete bounded windows received in this execution. U015body-boundary windows and U021/U022whole epilogues retain earlier receipt06/14 reading, not a newly claimed pass. Overlapping/split windows are preserved rather than counted as repeated events."
+          },
+          {
+            "component_id": "MAIN-06-U022",
+            "member": "item/xhtml/p-013.xhtml",
+            "member_sha256": "7143daeb585ae08772c63c7a06c2f86b55e61000700dd81bb5fff74d4cffe334",
+            "actual_untruncated_windows_P": [
+              [
+                1,
+                74
+              ]
+            ],
+            "new_principal_pass_credit": 0,
+            "reading_history": "Actual complete bounded windows received in this execution. U015body-boundary windows and U021/U022whole epilogues retain earlier receipt06/14 reading, not a newly claimed pass. Overlapping/split windows are preserved rather than counted as repeated events."
+          }
+        ],
+        "current_findings": [
+          "IMG006 right-hand rank-insulting quote is Claire/white-suit spoken mediation after Iris whispers, U012P423-426. No direct Iris verbatim utterance is supplied for the whispered content. Later mediated requests/praiseP450-474 likewise keep that route. Do not give all composite speech to the central Iris label.",
+          "IMG006 controller is staged frontmatter imagery; accepted U013playmate wordingP224 and known board-game narrative do not establish an actual console in-world. Modern props cannot create a new scene or capability.",
+          "IMG010 is an actual separate MAIN06 maid bargain: U012P118-124 states the conditions;P138-139 corrects the alleged treasured vase. Do not backdate it to MAIN05 hypothetical service or treat the unowned vase as Kazuma cherished property.",
+          "IMG011 includes Iris and the white-suit guard establishedU012P395-425; the later explicit Claire role joinsU015P399-405. Facial expression does not independently establish either actor motive.",
+          "IMG012 follows Kazuma choice to remainU013P173; the bounded prior nativeC2P145-174 receipt already establishes the older-brother exchange. A pictured pose is no new independent agreement.",
+          "IMG013 is Darkness physically holding Kazuma during the castle-return dispute, U013P388-424, not Claire. The actual threat, restraint, Iris intervention, explanation about worried companions and reduced farewell-dinner request retain order. This is not automatically the later royal-duty I02 conjunction.",
+          "IMG014 is Aqua admitting damage while Kazuma remains bound by Chris Bind, U014P273-336. Kazuma requested that bindingP299; Chris cast itP300-302 and escaped; Darkness attempted releaseP312. The old V06 report section4.4 misattributes restraint to Darkness and suggests both are restrained. Current CR-MAIN06EX-001 corrects that factual route without rewriting the frozen reading or scores.",
+          "IMG015 accompanies Chris night visit, U014P545-576. Kazuma physically captures/touches her; she explicitly objectsP550/553, rejects the sexualized explanationP558, and presses the urgent account after he tries to withdraw. No Bind rope, willing sexual invitation, completed sexual act or automatic consent is established for this image.",
+          "IMG016 shows Iris body controlled by Kazuma in the preparation sceneU015P398-431. He impersonates her authority and solicits adult participation; it is not Iris voluntary bathing or permission. Reversion occurs as he reaches for his clothing; completed bathing/backwashing is not shown here. Her direct body boundariesP309-312/349 and later distress/angerP489-491 remain separate.",
+          "IMG017 is Kazuma wearing a mask given by Vanir, U016P9-17; Chris covers her mouth. No actual Vanir presence or possession follows. Knights misidentify Chris as a boy atP306-309; that is their description, not ontology.",
+          "At U016P403-431 Aqua, Darkness, Megumin, Iris and the thieves have different task accounts. Iris readies weapon/ring then visibly pauses at the masked pair; the precise recognition inference must not become universal knowledge. U018P1-12 keeps Aqua actual seal separate from her incomplete understanding.",
+          "IMG018 joins Iris actual smile and requested future rematchU019P169-194. Her quarrel with Megumin and guardians intervening are actual; the image alone gives neither adult settlement nor an unconditional castle-stay request.",
+          "IMG030 Kazuma decoration cannot overwrite Iris private first-person epilogueU021;IMG031 Megumin decoration cannot overwrite Kazuma first-person epilogueU022. Narrator, visual decoration and character knowledge differ.",
+          "IMG009 Iris12 and Chris15? remain printed edition profile data. Keep the question mark, unknown divine ages, jobs and prior edition histories. Profile traits do not count as direct enactment tests.",
+          "IMG019 is an illustrator coda, IMG020 is guest artist Watarimasahito congratulations/comic promotion, and IMG021 is future volume7 promotion. Address rivalry, doll contact, creator wishes, possible marriage and alleged pet preferences are not fresh performed mainline outcomes.",
+          "U023 afterword makes a training-by-reading-manga joke, reports CD/script/comic activity and describes autograph anxiety. Joke, contemporary report, proposal and actual fictional event are distinct. Both supplied colophon entries are2015-03-01; this qualifies the edition only."
+        ],
+        "original_uncoded_notes_preserved_exact": true,
+        "prior_native_receipts": [
+          {
+            "file": "SECONDARY_ACCEPTED_NATIVE_IRIS_MAIN06_BACKJOIN_06.json",
+            "sha256": "2a20c05c6408f9815cc8226c078c49ce6657ccb8e85fbfb105c16f1fa23a81ba"
+          },
+          {
+            "file": "SECONDARY_ACCEPTED_NATIVE_IRIS_BODY_AGENCY_BACKJOIN_14.json",
+            "sha256": "4a3daabc2b9dc5531cb1b9ebc79ce44591537a8440829ec43033e5e42adec3d0"
+          }
+        ],
+        "scope": "Actual bounded accepted-principal image/identity/agency audits, including explicitly retained prior received windows. No whole principal reread, independent event or retrospective forecast retargeting."
+      }
+    },
+    {
+      "preserved_input": "SECONDARY_ACCEPTED_PRINCIPAL_NATIVE_BACKJOIN_16.json",
+      "input_sha256": "f3303e15f1ab23df24b90f99c1b74ad3569fcb2cb6c21455ba767a6d1e6e02d7",
+      "declared_public_path_transformations": [],
+      "historical_actual_receiving_record_public_derivative": {
+        "schema": "KONOSUBA_SECONDARY_IRIS_GAME_NATIVE_BACKJOIN_V1",
+        "received_utc": "2026-10-19T10:21:57.840573+00:00",
+        "source": "MAIN-06",
+        "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "member": "item/xhtml/p-004.xhtml",
+        "member_sha256": "0091b247031f484548d7ecc8c7364c81cf6f8ea098e3edd108112fccd382c585",
+        "paragraphs": 640,
+        "actual_received_windows": [
+          [
+            285,
+            307
+          ],
+          [
+            319,
+            335
+          ]
+        ],
+        "new_principal_pass_credit": 0,
+        "new_excluded_reading_credit": 0,
+        "finding": "Iris protests deceptive handicap after Rain corrects the toy claim, asks rematch and appeals to Claire; later explicitly calls distracting Kazuma calculated and wins. Genuine competition is not a blanket rule against tactical advantage. Kazuma final innocence-loss appraisal is his interpretation.",
+        "receiving_use": "Qualifies SC10 fairness extension without revising original game notes, forecasts, scores or already published MAIN06 record."
+      }
+    },
+    {
+      "preserved_input": "SECONDARY_ACCEPTED_NATIVE_COMPETENCE_BACKJOIN_17.json",
+      "input_sha256": "042603e593fded9c068c8c59c79b5310eb8affbaa2076cc56745a82c689cf0ae",
+      "declared_public_path_transformations": [],
+      "historical_actual_receiving_record_public_derivative": {
+        "schema": "KONOSUBA_SECONDARY_CONTEXP01_COMPETENCE_NATIVE_BACKJOIN_V1",
+        "created_utc": "2026-10-19T10:26:42.195844+00:00",
+        "source": "CONTEXP-01",
+        "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+        "member": "item/xhtml/p-004.xhtml",
+        "member_sha256": "598ef7fa04089518be1fe8dc3f5296a89ee236436fdfcd47dc75ca0bb43a4b5a",
+        "paragraphs": 501,
+        "actual_received_P_windows": [
+          [
+            171,
+            212
+          ]
+        ],
+        "new_full_reading_credit": 0,
+        "findings": [
+          "Sword technique174-177, weapon-only challenge181, Iris offers sword-free demonstration184; actual spell189-192 destroys group. Inherited spell explanation207 is Iris account, not controlled causal proof.",
+          "Megumin warning186-187 is followed by cast without displayed pause; Iris already raised hand. This is adverse adjacent evidence for generic warning inhibition. Exact uptake and a clean initial response opportunity unshown; do not silently exclude it as a confirmation.",
+          "Megumin changes entry criterion197; Yunyun objects198 and reports broader spell result206. Iris active learning/readiness209 is not general mastery or consent to every band act."
+        ],
+        "resulting_current_model_change": "SI-D05 lowered LOW; exact adverse/chronology limits retained. Original drafts, forecasts, scenario contracts and outputs unchanged."
+      }
+    }
+  ],
+  "later_main_derivative_review": {
+    "schema": "KONOSUBA_SECONDARY_IRIS_BOUNDED_MAIN_DERIVATIVE_GAP_REVIEW_V1",
+    "received_utc": "2026-10-19T10:21:57.840573+00:00",
+    "published_source": "57c44c52e923800515c236a312f6c204c931432c",
+    "read_scopes": [
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V07_DEEP_READING.md",
+        "bytes": 56569,
+        "sha256": "1f27454edcd22ea8315867767484aeea47cdb4f8c2cf209182a167c08936c64c",
+        "received_1based_line_ranges": [
+          [
+            768,
+            783
+          ],
+          [
+            801,
+            811
+          ],
+          [
+            848,
+            856
+          ]
+        ]
+      },
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V08_DEEP_READING.md",
+        "bytes": 55637,
+        "sha256": "dfd7006c95c750deef902d61da41fb28ee226d984fcb7c2699d6369cc94e5c74",
+        "received_1based_line_ranges": [
+          [
+            702,
+            716
+          ],
+          [
+            732,
+            742
+          ],
+          [
+            772,
+            781
+          ]
+        ]
+      },
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V09_DEEP_READING.md",
+        "bytes": 83538,
+        "sha256": "628fc5b663031395ee053689ccdf179f313e16840be071b79b8f33c305a63331",
+        "received_1based_line_ranges": [
+          [
+            94,
+            105
+          ],
+          [
+            148,
+            157
+          ],
+          [
+            180,
+            199
+          ],
+          [
+            250,
+            261
+          ],
+          [
+            306,
+            312
+          ],
+          [
+            405,
+            406
+          ],
+          [
+            448,
+            459
+          ],
+          [
+            462,
+            462
+          ]
+        ]
+      },
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V12_DEEP_READING.md",
+        "bytes": 187867,
+        "sha256": "4f0e498d60284953a2e8d9b8d42e9304a1d4fa4166b6f2d5be3bdd240fc89377",
+        "received_1based_line_ranges": [
+          [
+            62,
+            72
+          ],
+          [
+            180,
+            189
+          ],
+          [
+            214,
+            224
+          ],
+          [
+            367,
+            376
+          ],
+          [
+            508,
+            518
+          ],
+          [
+            568,
+            576
+          ],
+          [
+            623,
+            630
+          ]
+        ]
+      },
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V13_DEEP_READING.md",
+        "bytes": 284570,
+        "sha256": "52da1486a8d276a3be36809d6fc9d8d98b9ef22bb6340c8c71cd17cd4bb4b9ac",
+        "received_1based_line_ranges": [
+          [
+            916,
+            939
+          ]
+        ]
+      },
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V14_DEEP_READING.md",
+        "bytes": 377734,
+        "sha256": "c06e2dd10113ec1effed84caf973eb44ded0652a4121a16a438b6438e4b0925b",
+        "received_1based_line_ranges": [
+          [
+            558,
+            568
+          ],
+          [
+            801,
+            821
+          ]
+        ]
+      },
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V15_DEEP_READING.md",
+        "bytes": 979019,
+        "sha256": "4def6d40eda5cb620f30c778aee0256d0b7b8542df7c9f6f22be4d4e8bad8edc",
+        "received_1based_line_ranges": [
+          [
+            126,
+            126
+          ],
+          [
+            757,
+            757
+          ],
+          [
+            866,
+            866
+          ],
+          [
+            1319,
+            1345
+          ]
+        ]
+      },
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V16_DEEP_READING.md",
+        "bytes": 242821,
+        "sha256": "3abfddeea351603a856e1ef56c7638c4c64e5ec9754b21e09c0eaaa82ae25c22",
+        "received_1based_line_ranges": [
+          [
+            75,
+            75
+          ],
+          [
+            192,
+            192
+          ],
+          [
+            393,
+            393
+          ],
+          [
+            525,
+            525
+          ],
+          [
+            913,
+            913
+          ],
+          [
+            1063,
+            1106
+          ]
+        ]
+      },
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V17_DEEP_READING.md",
+        "bytes": 66777,
+        "sha256": "cc5df8a45547c7058bc6152bfdfd8822747146be0cb848f3d425a3c5411be1c6",
+        "received_1based_line_ranges": [
+          [
+            56,
+            56
+          ],
+          [
+            98,
+            98
+          ],
+          [
+            154,
+            154
+          ],
+          [
+            185,
+            185
+          ],
+          [
+            208,
+            216
+          ]
+        ]
+      }
+    ],
+    "credit": "Only listed untruncated displayed spans; no full-file/new full-volume reading or exhaustive corpus-census credit. Earlier truncated combined calls excluded. Native backjoins are separate.",
+    "findings": [
+      "V07/V08 no direct Iris test; V09 letter has attributed salutation/escort request but no directly shown wish-duty choice or comparable safe/constrained pair.",
+      "V12 flattering possibly edited Kazuma recollection cannot authenticate prior stay-or-die speech, tears or a new Iris event; previous V11 result stays exact.",
+      "V13/V14 mentions belong to other speakers, without a new direct Iris interaction.",
+      "V15 guarantee/letter/Claire-Rain behavior are reports; planned military victory or escort is not observed Iris behavior.",
+      "V16 signed letter supplies real written agency, concern and praise wish. Plans/reported war do not establish a conflicting larger wish plus narrowed response.",
+      "V17 Iris/capital news is reported, arrives after Kazuma commitment, and does not disclose a new direct decision or daughter ending.",
+      "All original MG02-MG05 outcomes, blanks and exact forecast-lineage blocks retained."
+    ],
+    "unresolved": "Remaining MAIN07-MAIN17 excluded components are unadmitted; this derivative closure does not anticipate them. Full secondary-character census remains open."
+  },
+  "warnings": [
+    "Intervals overlap; never sum as independent observations.",
+    "MAIN06 image-backjoin15 also contains non-Iris attribution corrections; their original planes remain.",
+    "Untruncated actual intervals only. Truncated tool displays earn no additional reading credit."
+  ]
+}

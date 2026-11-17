@@ -1,0 +1,470 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_NINE_HOLDS_ADJUDICATION_V1/EXACT_INPUTS_AND_ACTUAL_RECEIVING_SCOPE_V1.json",
+  "original_frozen_binding": {
+   "bytes": 17133,
+   "sha256": "b117cab97a915a67e7a5b20251a4308120879b33aaac1dfb3b60383d231b26c3",
+   "git_blob_sha1": "3cd2aad0b003c4ecda34337013a49a5b17d21694"
+  }
+ },
+ "historical_payload": {
+  "status": "C_ONLY_COMPLETE_ANALYTICAL_RECEIVING_SCOPES_NO_CANONICAL_ADOPTION",
+  "inputs": [
+   {
+    "tuple": {
+     "path": "series\\blue-archive\\02 Sequential Readings\\BOND\\BLUE_ARCHIVE_HIMARI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+     "bytes": 23794,
+     "sha256": "23b784b6d681fe11ef170251470b655f1c09756bee762acb0c219ebe7b47e0e5",
+     "git_blob_sha1": "14ae2626b0af29ed8ad3929291e3e7884a1c9e83"
+    },
+    "receiving": {
+     "semantic_receiving": "PERSONALLY_WHOLE_CURRENT_ACCEPTED_ARGUMENT_THROUGH_EOF",
+     "actual_receiving": [
+      [
+       "4bd957",
+       0,
+       18000
+      ],
+      [
+       "c13d17",
+       18000,
+       23714
+      ]
+     ]
+    }
+   },
+   {
+    "tuple": {
+     "path": "series\\blue-archive\\02 Sequential Readings\\BOND\\BLUE_ARCHIVE_EIMI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+     "bytes": 29433,
+     "sha256": "1905b4df47918eedc4d41993f8caa2f4bd16dfd3c03288f9d454972990f7180f",
+     "git_blob_sha1": "98410f7c82dc5f10f34ef4368ff9ebe851c4ad9d"
+    },
+    "receiving": {
+     "semantic_receiving": "PERSONALLY_WHOLE_CURRENT_ACCEPTED_ARGUMENT_THROUGH_EOF",
+     "actual_receiving": [
+      [
+       "4bd957",
+       0,
+       1000
+      ],
+      [
+       "c13d17",
+       1000,
+       16000
+      ],
+      [
+       "c85edb",
+       16000,
+       29291
+      ]
+     ]
+    }
+   },
+   {
+    "tuple": {
+     "path": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_002_時計じかけの花のパヴァーヌ\\BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+     "bytes": 33564,
+     "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+     "git_blob_sha1": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683"
+    },
+    "receiving": {
+     "semantic_receiving": "PERSONALLY_WHOLE_CURRENT_ACCEPTED_ARGUMENT_THROUGH_EOF",
+     "actual_receiving": [
+      [
+       "110cfa",
+       0,
+       18000
+      ],
+      [
+       "2f9f10",
+       18000,
+       33376
+      ]
+     ]
+    }
+   },
+   {
+    "tuple": {
+     "path": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+     "bytes": 39118,
+     "sha256": "c04118271472b1a02144789b2659976a513ee619d3d5049d26062f8ee4d6303b",
+     "git_blob_sha1": "04fa995598c89a51c5ed241e4ad33a88736e3283"
+    },
+    "receiving": {
+     "semantic_receiving": "PERSONALLY_WHOLE_CURRENT_ACCEPTED_ARGUMENT_THROUGH_EOF",
+     "actual_receiving": [
+      [
+       "110cfa",
+       0,
+       18000
+      ],
+      [
+       "2f9f10",
+       18000,
+       39035
+      ]
+     ]
+    }
+   },
+   {
+    "tuple": {
+     "path": "series\\blue-archive\\02 Sequential Readings\\MAIN\\SERIES2_VOLUME_001\\BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+     "bytes": 13393,
+     "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+     "git_blob_sha1": "cc58366c949eb4844063ed7d1aecd889dec1308d"
+    },
+    "receiving": {
+     "semantic_receiving": "PERSONALLY_WHOLE_CURRENT_ACCEPTED_ARGUMENT_THROUGH_EOF",
+     "actual_receiving": [
+      [
+       "c85edb",
+       0,
+       13347
+      ]
+     ]
+    }
+   },
+   {
+    "tuple": {
+     "path": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_836\\BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+     "bytes": 53227,
+     "sha256": "221e1398809a988693956548309259d18da8014cdbf69bcd8aac86b49cf30550",
+     "git_blob_sha1": "d751bb3102093e6afaff1c875126b0378b41a537"
+    },
+    "receiving": {
+     "semantic_receiving": "PERSONALLY_WHOLE_CURRENT_ACCEPTED_ARGUMENT_THROUGH_EOF",
+     "actual_receiving": [
+      [
+       "2eba17",
+       0,
+       18000
+      ],
+      [
+       "54f5d7",
+       18000,
+       35000
+      ],
+      [
+       "c165fe",
+       35000,
+       52653
+      ]
+     ]
+    }
+   },
+   {
+    "tuple": {
+     "path": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_843\\BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+     "bytes": 26925,
+     "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+     "git_blob_sha1": "9f210324ba71ed86e21f112b0956f2c371c5f43a"
+    },
+    "receiving": {
+     "semantic_receiving": "PERSONALLY_WHOLE_CURRENT_ACCEPTED_ARGUMENT_THROUGH_EOF",
+     "actual_receiving": [
+      [
+       "2eba17",
+       "complete displayed beginning 0–14000; combined display clipped later"
+      ],
+      [
+       "54f5d7",
+       14000,
+       26515
+      ]
+     ]
+    }
+   },
+   {
+    "tuple": {
+     "path": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_851\\BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+     "bytes": 38628,
+     "sha256": "61e628dab0ac127c946e0101225a89d1d7808a27b0f540d5d7a03fc76c36072c",
+     "git_blob_sha1": "38ec4671a63ffd51f0f92b9cfd4dad0517a304e5"
+    },
+    "receiving": {
+     "semantic_receiving": "PERSONALLY_WHOLE_CURRENT_ACCEPTED_ARGUMENT_THROUGH_EOF",
+     "actual_receiving": [
+      [
+       "c165fe",
+       0,
+       18000
+      ],
+      [
+       "7b20c5",
+       18000,
+       38218
+      ]
+     ]
+    }
+   },
+   {
+    "tuple": {
+     "path": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_856\\BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+     "bytes": 39030,
+     "sha256": "5b6357e6048dcccbea2b1de56d19ad34b461ead8581903b4f1f12e233c62c9bf",
+     "git_blob_sha1": "6f11eb7847ab307f2001f2ce783c52db9df3e968"
+    },
+    "receiving": {
+     "semantic_receiving": "PERSONALLY_WHOLE_CURRENT_ACCEPTED_ARGUMENT_THROUGH_EOF",
+     "actual_receiving": [
+      [
+       "7b20c5",
+       0,
+       19000
+      ],
+      [
+       "acd0ce",
+       19000,
+       38708
+      ]
+     ]
+    }
+   },
+   {
+    "tuple": {
+     "path": "series\\blue-archive\\02 Sequential Readings\\MINI\\BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+     "bytes": 93829,
+     "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+     "git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+    },
+    "receiving": {
+     "semantic_receiving": "PRIOR_PERSONALLY_COMPLETE_CURRENT_MINI32_ARGUMENT_REUSE_PLUS_FRESH_CURRENT_OVERLAY_AND_WHOLE_SECTION11",
+     "fresh_scope": [
+      {
+       "output": "acd0ce",
+       "raw_character_range": [
+        0,
+        8000
+       ]
+      },
+      {
+       "output": "6b20e3",
+       "complete_lines_inclusive": [
+        194,
+        203
+       ]
+      }
+     ],
+     "no_fresh_whole_MINI32_claim": true,
+     "prior_receipt": "CENSUS_GEHENNA and CENSUS_RESIDUAL26 exact author/ROOT receiving"
+    }
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_COHORT_ARGUMENTS_V1/ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md",
+     "bytes": 32751,
+     "sha256": "cb20b5b0f2e0cd757ed2a1d0495116cebe771031c969b5858ca66b647a5e89b9",
+     "git_blob_sha1": "d56786e8e2b5184c3c69056df0ede08c772b0bea"
+    },
+    "receiving": {
+     "receiving": "PRIOR_PERSONALLY_WHOLE_ARGUMENT_RETAINED",
+     "prior_outputs": [
+      "60db09",
+      "774811",
+      "611a6f"
+     ],
+     "fresh_complete_section3": {
+      "output": "106458",
+      "raw_characters": [
+       25227,
+       29718
+      ]
+     },
+     "48f7f9_combined_refresh_clipped_not_whole_credit": true
+    }
+   },
+   {
+    "tuple": {
+     "path": "immutable-local-custody://PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS\\BLUE_ARCHIVE_SHIROKO_CHARACTER_MONOGRAPH.md",
+     "bytes": 48619,
+     "sha256": "4aed715309bdb3bb7581bd3ab77dbbfa6d853dbca10d0232bb46bfab659ced20",
+     "git_blob_sha1": "11d3ed0d7915af553870ed966e77fe521f4d06d4"
+    },
+    "receiving": {
+     "receiving": "PERSONALLY_WHOLE_FROZEN_CANDIDATE_THROUGH_EOF",
+     "raw_character_ranges": [
+      [
+       "6b20e3",
+       0,
+       17000
+      ],
+      [
+       "99d6a6",
+       17000,
+       34000
+      ],
+      [
+       "2451ff",
+       34000,
+       "EOF"
+      ]
+     ],
+     "ROOT_receiving_attributed_separately": "5157bb"
+    }
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_MAIN_SPECIAL/MAIN_SPECIAL_CENSUS_CANDIDATE.json",
+     "bytes": 282340,
+     "sha256": "28c1f3905bf099b10e1d09d028733b5c022769f2fc05e3ac6fa13d93298b9cae",
+     "git_blob_sha1": "76856e202f8363507e87c52a83f15dc06995f47f"
+    },
+    "receiving": {
+     "receiving": "COMPLETE_M005_AND_M015_ALL_SEMANTIC_FIELDS_FRESH_PLUS_PRIOR_WHOLE_QUESTION_PROJECTION",
+     "fresh_output": "33a3d5",
+     "not_new_whole_original_JSON_human_receiving": true
+    }
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/COUNTED_REQUIRED_HOME_PARTITION_PROPOSAL.json",
+     "bytes": 277787,
+     "sha256": "1f055c48fcc3b7de14f1faaa15ef6641998b617f535ce87682825b5ef4932e18",
+     "git_blob_sha1": "d10ec955b3b43019377f16b283b5d518cff96d4f"
+    },
+    "receiving": {
+     "receiving": "MECHANICAL_EXACT_OLD_HOME_BASELINE_350_AND_MATCHING_HOLDS",
+     "no_new_semantic_adoption": true
+    }
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/SHARED_QUESTION_COMMON_HOME_CATALOG.json",
+     "bytes": 175361,
+     "sha256": "06dae80bd5565557de54eb0523a09295378186f3518c5100c374008182967a41",
+     "git_blob_sha1": "07e363d8b71792be84a304dc63bb64d0e8217f16"
+    },
+    "receiving": {
+     "receiving": "MECHANICAL_EXACT_FULL_SEARCH_FOR_SHIROKO_DYAD_EQUIVALENT",
+     "positive_matching_Shiroko_Ayane_only": "6b20e3"
+    }
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/COMMON_HOME_ALIAS_AND_SECTION_DECISION_TABLE.json",
+     "bytes": 15859,
+     "sha256": "ba7bd8dab930e5c9bf6a43f4404f252ee533b875676b84fb4de8b2344de09eaa",
+     "git_blob_sha1": "a65b10b76111a61d6be72df8fda1ef115332c0f0"
+    },
+    "receiving": {
+     "receiving": "MECHANICAL_EXACT_FULL_SEARCH_FOR_SHIROKO_DYAD_EQUIVALENT",
+     "output": "6b20e3"
+    }
+   },
+   {
+    "tuple": {
+     "path": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_849\\BLUE_ARCHIVE_EVENT_849_CONTEXTUALIZATION_CHECKPOINT.md",
+     "bytes": 35106,
+     "sha256": "ad78e22c8dc0e0ffd471e61c7afdfac235793b48d4e447e418c6d86f4405507f",
+     "git_blob_sha1": "2b693ccaeb424591554fb714a070a384de8b1802"
+    },
+    "receiving": {
+     "scope": "WHOLE_THROUGH_EOF_CURRENT_ACCEPTED_ARGUMENT",
+     "custody": "Own prior personally complete accepted argument reused; frozen Residual26 receipt/ROOT exact PASS337rosters659bindings",
+     "new_primary_credit": 0
+    }
+   },
+   {
+    "tuple": {
+     "path": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_862\\BLUE_ARCHIVE_EVENT_862_CONTEXTUALIZATION_CHECKPOINT.md",
+     "bytes": 41110,
+     "sha256": "77ba72b65a0b43af2150ffbc19f30bd118dc75f3fa43bd0c8a1666deb33ded20",
+     "git_blob_sha1": "acefe4bccb5e2750419ad95f50c96de75594d1dc"
+    },
+    "receiving": {
+     "scope": "WHOLE_THROUGH_EOF_CURRENT_ACCEPTED_ARGUMENT",
+     "custody": "Own prior personally complete accepted argument reused; frozen Residual26 receipt/ROOT exact PASS337rosters659bindings",
+     "new_primary_credit": 0
+    }
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/CURRENT_PUBLIC_MEANING_RECEIVING_RECEIPT.json",
+     "bytes": 28328,
+     "sha256": "56500b529f6aba0a02bc45fe119cc644bc72d5f65dbe374ceb3885f9c0c45e47",
+     "git_blob_sha1": "b27b902d9de919f433ccf1f2b5d0a7a318bd3313"
+    },
+    "receiving": {
+     "scope": "Exact prior whole nineteen normal/current arguments receiving retained, including E802/E808/E824",
+     "not_fresh_nineteen_receiving": true
+    }
+   }
+  ],
+  "actual_targeted_primary_witness_receiving": [
+   {
+    "path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MINI\\MINI_70010010.md",
+    "bytes": 36794,
+    "sha256": "41e859589ab6bcbf86254453e9a1331340df3d52483eb3f097aabde5f3ebf963",
+    "blob": "c4e81d94f79ba8d848c39ae2436ff80f56d32d82",
+    "actual_targeted_receiving_scope": {
+     "header_context_line_spans_one_based_inclusive": [
+      [
+       10,
+       325
+      ],
+      [
+       689,
+       760
+      ],
+      [
+       826,
+       897
+      ],
+      [
+       1051,
+       1083
+      ]
+     ],
+     "not_whole_source_narrative_credit": true
+    }
+   },
+   {
+    "path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MINI\\MINI_70010020.md",
+    "bytes": 17061,
+    "sha256": "4813ec2e8b1e85138cafe843dd2a4a81156cbee542cc42b90ecdfd887540a358",
+    "blob": "b40a787e79a5cb73e08f639b65a8d9b110b11ede",
+    "actual_targeted_receiving_scope": {
+     "header_context_line_spans_one_based_inclusive": [
+      [
+       200,
+       271
+      ],
+      [
+       507,
+       556
+      ]
+     ],
+     "not_whole_source_narrative_credit": true
+    }
+   },
+   {
+    "path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_856\\EPISODE_015_10053130.md",
+    "bytes": 3844,
+    "sha256": "78019e11cce0cc0f77dffd609d02a05bf2c7b345b6e927d3576eaee136e9efdf",
+    "blob": "d20ff7e4663fb82ee69f18e571082ad75b33616c",
+    "actual_targeted_receiving_scope": "whole exact E856015 necessary actor/address ambiguity witness"
+   }
+  ],
+  "targeted_primary_output": "2451ff",
+  "new_complete_primary_narrative_credit": 0,
+  "fresh_complete_small_ambiguity_witness_E856015": true,
+  "fresh_full_MINI_narrative_credit": false,
+  "nine_unbound_large_files_opened_or_hashed": false,
+  "all14_gaps": "OPEN",
+  "repository_writes": false,
+  "N_frozen": false,
+  "exact_final_input_verification": {
+   "status": "PASS",
+   "exact_paths": 22,
+   "all_sizes_below_1MiB": true,
+   "source_or_frozen_input_content_modified": false
+  }
+ }
+}

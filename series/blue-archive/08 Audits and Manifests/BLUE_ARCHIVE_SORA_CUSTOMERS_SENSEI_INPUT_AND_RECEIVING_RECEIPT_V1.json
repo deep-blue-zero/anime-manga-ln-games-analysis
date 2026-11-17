@@ -1,0 +1,2891 @@
+{
+  "schema": "BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_INPUT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SYNTHESIS.md",
+  "current_scope": "355 required packages;29 non-denominator mandatory substantial named duties across25 distinct parent packages; literal kinds18 SECTION/9 DIRECTED_RELATIONSHIP/2 ENSEMBLE",
+  "dated_source_beforeimage_witness": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+  "dated_source_tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+  "accepted_merged_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "commit_custody_qualification": "7546 source and b76 squash main have the same e9 tree; distinct commit and audit custody is preserved. This preparer performed no fetch, local reconciliation, merge or new remote observation.",
+  "fixed_preparation_snapshot": {
+    "packages": [
+      90,
+      101
+    ],
+    "new_packages": 12,
+    "after_complete_ROOT_install": 101,
+    "characters": 89,
+    "directed_relationships": 6,
+    "ensembles": 3,
+    "institutions": 3,
+    "named_duties_after_complete_ROOT_install": 3,
+    "previous_merged_packages": 89,
+    "next_milestone": 178,
+    "later_live_acceptances_excluded": true
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "Original pending/local/counter/source-capture/receiving fields retain creation-time meaning. The separate complete ROOT acceptance controls current literary judgment; the accepted milestone control supersedes only earlier first-milestone pending states. No author physical source receiving is inferred retrospectively.",
+  "original_exact_tuple": {
+    "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SORA_CUSTOMERS_SENSEI/SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+    "bytes": 18500,
+    "sha256": "a83fdb6831e040a79f84afe4e29494506df5f38686c45911e5e99494795970c4",
+    "git_blob_oid_of_actual_bytes": "6e476f3f6460b3c1863734dc2984a603ec23c90a",
+    "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SORA_CUSTOMERS_SENSEI/SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1",
+    "status": "AUTHOR_FULL_BOUNDED_DIRECTED_CANDIDATE_ROOT_RECEIVING_PENDING",
+    "required_home": "P3-REL-SORA-CUSTOMERS-SENSEI",
+    "kind": "DIRECTED_RELATIONSHIP",
+    "source_responsibility_refs": [
+      "P3-REL-SORA-CUSTOMERS-SENSEI"
+    ],
+    "distinct_question": "How do paid routine, particular customer boundaries and recognition permit warm company without making every request, gift or adult interpretation adequate?",
+    "directions": [
+      "Sora → particular customers: gift search, requests and wanted recognition, with different recipients and limits.",
+      "Hina/Kazusa/Yuuka/Miyako → Sora: their own wanted ends, refusals, corrections and particular responses, without uniform reciprocity.",
+      "Sensei → Sora: recognition of paid routine and warm company while adult suspicion remains."
+    ],
+    "body": {
+      "file": "BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SYNTHESIS.md",
+      "byte_count": 36913,
+      "line_count": 162,
+      "sha256": "2778d459d5f35578e62b547aa38e33cd2d1724e173c6c87656c4b9241652d1ad",
+      "actual_byte_blob_oid": "2bc543340263c730b5e21a62706b6d08ba1787d1"
+    },
+    "proposed_canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SYNTHESIS.md",
+    "source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+    "analytical_main": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "architecture": "1.12 eleven mature substantive sections; existing directed relation class",
+    "inputs": [
+      {
+        "source_id": "A01",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_count": 52261,
+        "line_count": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "current_HEAD_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "current_bytes_equal_HEAD": true,
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": false
+        },
+        "qualified_prior_author_receiving": "Architecture1.12 required11 section meanings personally received previously fb4f2f L322–344; unchanged1.12, no full851line fresh claim Reused unchanged at declared prior scope; no fresh whole control or literary credit from metadata. Historical cf2 bound source is preserved; current732 byte equality separately checked.",
+        "new_primary_raw_native_performed_model_independent_credit": 0,
+        "C_bound_copy_relative_path": "bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "actual_personal_receiving": "Same-author complete required eleven-section and relationship/ensemble class receiving9e47f5 L328–344/ad6104 L346–369; no fresh whole851-line architecture claim.",
+        "actual_current_author_receiving": "Adequate same-author eleven-section and relationship-class meanings9e47f5 L328–344/ad6104 L346–369 retained unchanged; no fresh851-line whole claim."
+      },
+      {
+        "source_id": "CONTROL_CSV",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "byte_count": 93949,
+        "line_count": 356,
+        "sha256": "bc9b6e73aee8a3343680624c2416386607c598d27b986d8e685d31d62fdae348",
+        "actual_byte_blob_oid": "640cb3980ccd79999522a8776d108601bbf6a9e8",
+        "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "current_HEAD_blob_oid": "640cb3980ccd79999522a8776d108601bbf6a9e8",
+        "current_bytes_equal_HEAD": true,
+        "main2e_comparison": {
+          "present": false,
+          "same_bytes": false
+        },
+        "qualified_prior_author_receiving": "exact scope controls only",
+        "new_primary_raw_native_performed_model_independent_credit": 0,
+        "actual_personal_receiving": "Exact current existing-home binding and prior complete four-home proposal/allocation; hash/copy is not human reading or literary acceptance.",
+        "actual_current_author_receiving": "Existing required-home beforeimage and exact732 scope/control only; no literary verdict from index."
+      },
+      {
+        "source_id": "CONTROL_JSON",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "byte_count": 461112,
+        "line_count": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "current_HEAD_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "current_bytes_equal_HEAD": true,
+        "main2e_comparison": {
+          "present": false,
+          "same_bytes": false
+        },
+        "qualified_prior_author_receiving": "exact scope controls only",
+        "new_primary_raw_native_performed_model_independent_credit": 0,
+        "actual_personal_receiving": "Exact current existing-home binding and prior complete four-home proposal/allocation; hash/copy is not human reading or literary acceptance.",
+        "actual_current_author_receiving": "Existing required-home beforeimage and exact732 scope/control only; no literary verdict from index."
+      },
+      {
+        "source_id": "M",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 93829,
+        "line_count": 344,
+        "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+        "actual_byte_blob_oid": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+        "author_receiving_scope": "Fresh adequate complete three-object MINI040 analytical sequence current§6 lines134–152:011d4e63–148 and57804c148–158 fullyreceivecontrols63–80 plus sequenceendpointthrough152. Navigation2418f5 firstroutes ismetadataonly; prioragentcalled§5, literalcurrent§6governs. This is notfresh344-linewhole/all32originalprimary. Kazusa04010/04020actualcare/apology/macarongift vsunprintedconsumption/futureplans;04030recollectionsnotphysicalpresence. Sora/Miyako/Yuuka/Hinaindependentends retained. No original-primary/raw/native/performed/independencecredit.",
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        },
+        "current_cf2_source_blob_oid": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "blob_oid": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+        },
+        "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "current_HEAD_blob_oid": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+        "current_bytes_equal_HEAD": true,
+        "C_bound_copy_relative_path": "bound_source_inputs/M_BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "actual_current_author_receiving": "Personally complete necessary current three-object normal §6 argument L134–143 f1968f plus144–1520b955b, all recipient directions and endings; complete current authority63–80ccf8bc. Adequate prior same-author complete§6 011d4e/57804c retained. No fresh344-line MINI32,32 original primary bodies,raw/native/performed or independent credit. Historical producer scaffolding remains qualified by current accepted normal/Cycle008 authority."
+      }
+    ],
+    "historical_C_inputs": [
+      {
+        "file": "ROOT_SWEETS_FOUR_EXISTING_HOME_ALLOCATION_V1.json",
+        "byte_count": 7448,
+        "line_count": 103,
+        "sha256": "097b09d5be74cd9315e88e37b965399437a00b98ecdeb101a1e39059418666c5",
+        "actual_byte_blob_oid": "fb3dbcbf591a8b02b46631853789cc6610560f58",
+        "meaning": "Immutable scope allocation or personally actual prior analytical custody only; not current candidate ROOT acceptance."
+      },
+      {
+        "file": "SWEETS_RELATIONSHIP_SCOPE_PROPOSAL_V1/SWEETS_RELATIONSHIP_EXACT_EXISTING_HOME_PROPOSAL_V1.json",
+        "byte_count": 48004,
+        "line_count": 709,
+        "sha256": "0578f1331b8660033c0882d1daebe5479315d691ab66642d22de328f66a806a4",
+        "actual_byte_blob_oid": "c0d537b11a3a3f0069267b69f52f840ea7be50d5",
+        "meaning": "Immutable scope allocation or personally actual prior analytical custody only; not current candidate ROOT acceptance."
+      },
+      {
+        "file": "SWEETS_CLUB_MONOGRAPHS/KAZUSA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 48717,
+        "line_count": 928,
+        "sha256": "ed9240d1b619ffaa29ccd02f6fc0f71ba944228f7d0b2efb88b955ff642dbf87",
+        "actual_byte_blob_oid": "8b8e5181c1d674f2e6758dffdaba376788ff9eb8",
+        "meaning": "Immutable scope allocation or personally actual prior analytical custody only; not current candidate ROOT acceptance."
+      }
+    ],
+    "required_index_beforeimage": {
+      "required_package_id": "P3-REL-SORA-CUSTOMERS-SENSEI",
+      "kind": "DIRECTED_RELATIONSHIP",
+      "subject_or_question": "P3-REL-SORA-CUSTOMERS-SENSEI",
+      "source_responsibility_refs": "P3-REL-SORA-CUSTOMERS-SENSEI",
+      "mandatory_named_section_ids": "",
+      "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+      "canonical_path": "",
+      "persistence_state": "UNACCEPTED",
+      "remote_publication": "NOT_YET_PUBLISHED",
+      "main_integration": "NOT_YET_INTEGRATED",
+      "completed_after_ROOT_install": "false",
+      "required_count": "1"
+    },
+    "partition_beforeimage": {
+      "home_key": "P3-REL-SORA-CUSTOMERS-SENSEI",
+      "kind": "DIRECTED_RELATIONSHIP",
+      "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+      "source_responsibility_refs": [
+        "P3-REL-SORA-CUSTOMERS-SENSEI"
+      ],
+      "literary_rationale": [
+        "Sora’s gift search fails against particular boundaries; final recognition of paid routine makes warm company possible while adult remains suspicious. Hina/Kazusa/Yuuka/Miyako each have own ends and refusals."
+      ],
+      "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "counts_as_completed": false,
+      "proposed_denominator_entry": true
+    },
+    "partition_pointer": "/homes/197",
+    "source_custody": {
+      "complete_adequate_owner_scope": "MINI32 §6 entire134–152 three-object meaning argument/endings; current authority63–80 received. Other29 MINI meanings not this authoring receipt.",
+      "fresh_necessary_scopes": [
+        "f1968f L134–143",
+        "0b955b L144–152 EOF of complete §6",
+        "ccf8bc L63–80 current authority"
+      ],
+      "qualified_prior": "011d4e/57804c personally whole adequate MINI040 arguments in Kazusa private/public receipt; reused at exact unchanged bytes, no new independent-primary or whole MINI32 claim.",
+      "original_source_limits": "77/128/82 source units and6/8 choice groups are producer scoped metadata, not new personal unit reading; actor labels/contextual functions, repeated replies and recalled phrases remain qualified.",
+      "MAIN_comparisons": "The normal owner supplies bounded thematic Yuuka/Hina/Kazusa/Miyako/hospitality links only, not precise absoluteMAIN placement or complete independent family custody.",
+      "source_admission": "Current normal/Cycle008 unchanged; no admission or registry mutation.",
+      "new_primary_raw_native_performed_model_independent_credit": 0
+    },
+    "link_transport": [
+      {
+        "candidate_relative_href": "bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "repository_relative_target": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "canonical_relative_href": "../../00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+      },
+      {
+        "candidate_relative_href": "bound_source_inputs/M_BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "repository_relative_target": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "canonical_relative_href": "../../02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+        "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+      }
+    ],
+    "actor_choice_identity_precision": "Cashier labels Hina/Yuuka u0006/0026, Hina question/thanks u0007/0032, Kazusa shiftsu0051/0059/0065/0082, invertedSora/Yuukau0101/0107/0115/0119, Sora-labelled Miyako-likeu0037 and choice/recollection modes retained. No silent canonical actor repair, unnamed junior identity, widerSora join or every alternative enacted.",
+    "all_fourteen_original_gaps": [
+      {
+        "id": "G01",
+        "literal_name": "Ordinary and private breadth",
+        "state": "OPEN",
+        "saved_body_line": 145,
+        "claim_specific_effect": "three shop objects provide valuable paid routine, tastes and company, not the complete ordinary/private repertoire of Sora or her customers."
+      },
+      {
+        "id": "G02",
+        "literal_name": "Yuuka council/club decision transfer",
+        "state": "OPEN",
+        "saved_body_line": 146,
+        "claim_specific_effect": "fiscal objections and conditional student/teacher advice do not settle Seminar's wider budget/authority decisions, audit the submissions or identify the worried junior."
+      },
+      {
+        "id": "G03",
+        "literal_name": "Serika service, peer and reciprocity range",
+        "state": "OPEN",
+        "saved_body_line": 147,
+        "claim_specific_effect": "Sora's retail and food reciprocity are bounded comparisons, not completion of Serika's actual service, peer or reciprocity question."
+      },
+      {
+        "id": "G04",
+        "literal_name": "Hina crisis causality, accountability and ordinary contrast",
+        "state": "OPEN",
+        "saved_body_line": 148,
+        "claim_specific_effect": "the duty visit, school offer and intended holiday retain ordinary importance without resolving Hina's crisis responsibility or complete wanted life."
+      },
+      {
+        "id": "G05",
+        "literal_name": "Arius and PS68 ordinary/aftermath transfer",
+        "state": "OPEN",
+        "saved_body_line": 149,
+        "claim_specific_effect": "local wages, suspicion and care cannot certify those groups' coercion, accountability or ordinary aftermath."
+      },
+      {
+        "id": "G06",
+        "literal_name": "Cross-school ordinary repertoire",
+        "state": "OPEN",
+        "saved_body_line": 150,
+        "claim_specific_effect": "each customer's particular wants matter, but these three objects do not complete every school's ordinary range or create a universal student response."
+      },
+      {
+        "id": "G07",
+        "literal_name": "Story-world chronology",
+        "state": "OPEN",
+        "saved_body_line": 151,
+        "claim_specific_effect": "“almost Christmas,” next morning and later meeting establish local order without dating all MAIN/private/holiday contexts or making intentions completed schedules."
+      },
+      {
+        "id": "G08",
+        "literal_name": "Event naming and repeat contexts",
+        "state": "OPEN",
+        "saved_body_line": 152,
+        "claim_specific_effect": "repeated holiday phrases and recollections are not additional independently enacted gift exchanges or physical customer attendance."
+      },
+      {
+        "id": "G09",
+        "literal_name": "Written speaker/choice attribution",
+        "state": "OPEN",
+        "saved_body_line": 153,
+        "claim_specific_effect": "cashier/customer labels, Hina/Kazusa/Yuuka dialogue seams, the Miyako-like Sora label and repeated choice replies retain literal and contextual limits without silent repair."
+      },
+      {
+        "id": "G10",
+        "literal_name": "Performed voice",
+        "state": "OPEN",
+        "saved_body_line": 154,
+        "claim_specific_effect": "embarrassment, warmth, suspicion and pause are written meanings; audio, facial performance and timing are not personally heard or watched."
+      },
+      {
+        "id": "G11",
+        "literal_name": "Hoshino's Yume record and office states",
+        "state": "OPEN",
+        "saved_body_line": 155,
+        "claim_specific_effect": "this shop sequence does not resolve that record, office continuity or related responsibilities."
+      },
+      {
+        "id": "G12",
+        "literal_name": "Counterpart, system and variant identity",
+        "state": "OPEN",
+        "saved_body_line": 156,
+        "claim_specific_effect": "literal Sora's wider canonical-person join and unnamed recipients cannot be invented; no variant or system identity is adjudicated here."
+      },
+      {
+        "id": "G13",
+        "literal_name": "Office, contract, safety and technical outcomes",
+        "state": "OPEN",
+        "saved_body_line": 157,
+        "claim_specific_effect": "wage law/contracts, clinical drink effect, weapon use, actual future guidance/holiday plans, turkey/macaron consumption, coupon repayment and a verified glove-measurement method remain unprinted or bounded."
+      },
+      {
+        "id": "G14",
+        "literal_name": "Unclassified/mode continuity",
+        "state": "OPEN",
+        "saved_body_line": 158,
+        "claim_specific_effect": "report, rumor, plan, choice, recollection, transaction and final narration retain different modes; their coexistence supplies no automatic enacted or global continuity."
+      }
+    ],
+    "overlap_controls": [
+      "This is adjacent to Sweets and explicitly broader; retain Hina, Kazusa, Yuuka, Miyako and Sensei. Do not turn it into a newly invented Kazusa-only relationship.",
+      "Sora P3-N001 and dated P3-A007 retrieve one existing character responsibility, not an additional person or directed package.",
+      "No unprinted Kazusa macaron consumption, perfect-gift verdict, universal customer hostility, permanent cure or romance conclusion.",
+      "Reusing MINI040 in character packages gives no independent source, primary or performed credit."
+    ],
+    "scope_355_29": "UNCHANGED; one existing directed home, not added dyads/customer institution/person count",
+    "ROOT_acceptance": "PENDING",
+    "canonical_adoption": "PENDING",
+    "source_counts_are_completion": false,
+    "unbound_large": "All9UNBOUND UNOPENED_UNREAD_UNHASHED"
+  },
+  "public_reference_translation": "Every original field survives exact reference translation. Original tuples bind original bytes, not derivative bytes; full immutable C transports and literal inverses are retained.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "complete_author_attachments": [
+    {
+      "name": "SORA_CUSTOMERS_SENSEI_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "original_exact_tuple": {
+        "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SORA_CUSTOMERS_SENSEI/SORA_CUSTOMERS_SENSEI_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "bytes": 74702,
+        "sha256": "993f61862b15367c304ba236a68484471f9f88560dfd7e680c1ecbc8f5452e18",
+        "git_blob_oid_of_actual_bytes": "b207d2f92bd1d8cef9727a78ac42c76a28394c91",
+        "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SORA_CUSTOMERS_SENSEI/SORA_CUSTOMERS_SENSEI_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1",
+        "status": "AUTHOR_FINITE_PROJECTION_ROOT_RECEIVING_PENDING",
+        "required_home": "P3-REL-SORA-CUSTOMERS-SENSEI",
+        "body": {
+          "file": "BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SYNTHESIS.md",
+          "byte_count": 36913,
+          "line_count": 162,
+          "sha256": "2778d459d5f35578e62b547aa38e33cd2d1724e173c6c87656c4b9241652d1ad",
+          "actual_byte_blob_oid": "2bc543340263c730b5e21a62706b6d08ba1787d1"
+        },
+        "source_binding_lookup": {
+          "A01": {
+            "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+            "line_count": 851,
+            "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+            "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+          },
+          "CONTROL_CSV": {
+            "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+            "line_count": 356,
+            "sha256": "bc9b6e73aee8a3343680624c2416386607c598d27b986d8e685d31d62fdae348",
+            "actual_byte_blob_oid": "640cb3980ccd79999522a8776d108601bbf6a9e8"
+          },
+          "CONTROL_JSON": {
+            "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+            "line_count": 6514,
+            "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+            "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1"
+          },
+          "M": {
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "line_count": 344,
+            "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+            "actual_byte_blob_oid": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+          }
+        },
+        "common_epistemic_bound": "All locators refer to complete accepted MINI040 normal analytical meanings. Actor/function/choice/report/plan/rumor/recollection bounds retained; no newprimary/performed/identity joins.",
+        "saved_paragraph_projection": [
+          {
+            "claim_id": "SC001",
+            "saved_body_line": 5,
+            "architecture_section": "OPENING_SCOPE",
+            "paragraph_sha256": "b73ca1f841e202e7dfdaa3a9c8bfab24ccfb800ba81186413e5d3498b5bdf9c4",
+            "opening_22_words": "This is the existing broader relationship responsibility, including Sora's directions toward Hina, Kazusa, Yuuka, Miyako and Sensei and their distinct responses. It",
+            "verbatim_citation_tokens": [
+              "M:L134–152"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    134,
+                    152
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC002",
+            "saved_body_line": 7,
+            "architecture_section": "OPENING_SCOPE",
+            "paragraph_sha256": "a30ca23c38cdfe3d9807b7ea7178ab8da72d10205e9934b61b824edafdf02e5a",
+            "opening_22_words": "`M` denotes that exact accepted analytical owner at source snapshot `732b3f2e635d2b8e8855f4e6709354031936ebc6`. Adequate same-author complete three-object analytical custody is reused, with necessary current",
+            "verbatim_citation_tokens": [
+              "M:L68–80,L134–152"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    68,
+                    80
+                  ],
+                  [
+                    134,
+                    152
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC003",
+            "saved_body_line": 11,
+            "architecture_section": "1. Core thesis",
+            "paragraph_sha256": "df6408faba682e2b08d26165fd6f10127473c6b4bab06258681c8c9a2358c668",
+            "opening_22_words": "The sequence makes recognition possible **within paid ordinary work, without converting either service or kindness into unlimited personal access**. Sora welcomes customers,",
+            "verbatim_citation_tokens": [
+              "M:L138–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    138,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC004",
+            "saved_body_line": 13,
+            "architecture_section": "1. Core thesis",
+            "paragraph_sha256": "092606fa0307b85af90969945977c914d79b5130cd68de6f7f88b74174c42e16",
+            "opening_22_words": "The gift inquiry exposes this structure by moving across different recipients. Sora finds a present without a communicated owner and fears what",
+            "verbatim_citation_tokens": [
+              "M:L140–148"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    140,
+                    148
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC005",
+            "saved_body_line": 15,
+            "architecture_section": "1. Core thesis",
+            "paragraph_sha256": "d418bcc29db048aae25625e621b1bc071357ef11b2b499b162ff373a426adda1",
+            "opening_22_words": "The endpoint repairs an actual communicative failure while retaining a different discomfort. Sensei identifies the gift as intended for Sora and acknowledges",
+            "verbatim_citation_tokens": [
+              "M:L150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    150,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC006",
+            "saved_body_line": 17,
+            "architecture_section": "1. Core thesis",
+            "paragraph_sha256": "0e3d7b4638fac944d904f279a7b8a22bc813c5dd7968e338ee3b07a4b92760a3",
+            "opening_22_words": "The strongest reading therefore treats warmth as a particular response with limits, rather than an abstract verdict on the adult or a",
+            "verbatim_citation_tokens": [
+              "M:L138–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    138,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC007",
+            "saved_body_line": 21,
+            "architecture_section": "2. Longitudinal arc",
+            "paragraph_sha256": "d7ab0e3fd459ceb95367f99dae8943dd247b4e21abb2a6571955e17c566b03de",
+            "opening_22_words": "The secure beginning is a shop's working day, not a complete history of Sora's education, employment or relationships. Hina's wanted duty visit,",
+            "verbatim_citation_tokens": [
+              "M:L138"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    138,
+                    138
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC008",
+            "saved_body_line": 23,
+            "architecture_section": "2. Longitudinal arc",
+            "paragraph_sha256": "487242c9b1102c0ef1ac795934f5ffaccb4b3403d92fa5c01c68bd4ccbb72b7a",
+            "opening_22_words": "Sensei's first visit includes advice against believing social media uncritically and a promotional vitamin drink associated with the purchase of mint gum",
+            "verbatim_citation_tokens": [
+              "M:L140"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    140,
+                    140
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC009",
+            "saved_body_line": 25,
+            "architecture_section": "2. Longitudinal arc",
+            "paragraph_sha256": "90d92b867b51ca25901521bdcc43d064479b50cd700fe1febfd0eaf0dae3b35d",
+            "opening_22_words": "The inquiry moves through actual differences rather than accumulating confirmations of its initial fear. Hina resists the schedule probe while recognizing diligent",
+            "verbatim_citation_tokens": [
+              "M:L142–146"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    142,
+                    146
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC010",
+            "saved_body_line": 27,
+            "architecture_section": "2. Longitudinal arc",
+            "paragraph_sha256": "608b8c9c48f0474999b2a52eea8caee784e550633c1bd55d29c708fba3f33956",
+            "opening_22_words": "Miyako's later turkey gift adds another kind of reciprocity. She brings food made from neighbours' meat as thanks for discarded lunches. Sora",
+            "verbatim_citation_tokens": [
+              "M:L148"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    148,
+                    148
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC011",
+            "saved_body_line": 29,
+            "architecture_section": "2. Longitudinal arc",
+            "paragraph_sha256": "cade4bb2ff0ab33b36debd801d4b76a2f095fe3c54093d5b71ede3a153c296a9",
+            "opening_22_words": "The final encounter changes the present's attribution rather than retrospectively making all earlier inferences right. Sensei says it was for Sora and",
+            "verbatim_citation_tokens": [
+              "M:L150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    150,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC012",
+            "saved_body_line": 31,
+            "architecture_section": "2. Longitudinal arc",
+            "paragraph_sha256": "1bc3afd58d72a32c32c27b330d99ac6472971f3bd2e8ad421568d7469a38413f",
+            "opening_22_words": "“Almost Christmas,” the next morning and a later meeting secure this local order. They do not date every recalled plan, connect all",
+            "verbatim_citation_tokens": [
+              "M:L136,L148"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    136,
+                    136
+                  ],
+                  [
+                    148,
+                    148
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC013",
+            "saved_body_line": 35,
+            "architecture_section": "3. Public/private self",
+            "paragraph_sha256": "ff9c4c2626aeeb915b4b00479622a27d361369901c13788bff9d8b6070323acd",
+            "opening_22_words": "Sora's retail role is public in its practical accessibility, while her interpretation of the customers includes private hopes and fears. Her inquiry",
+            "verbatim_citation_tokens": [
+              "M:L140"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    140,
+                    140
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC014",
+            "saved_body_line": 37,
+            "architecture_section": "3. Public/private self",
+            "paragraph_sha256": "4370546865b3ee51fde0d44a762088d093690cadf7242b363e6e09ee71c1535e",
+            "opening_22_words": "Her account of Sensei similarly mixes observation and rumor. She estimates visitors and recognizes a kind-adult reputation, while online stories about pools,",
+            "verbatim_citation_tokens": [
+              "M:L138–140,L150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    138,
+                    140
+                  ],
+                  [
+                    150,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC015",
+            "saved_body_line": 39,
+            "architecture_section": "3. Public/private self",
+            "paragraph_sha256": "90dfbf97446e03b7401582d4dacdddf161592047a1fea66181723ebe4371360d",
+            "opening_22_words": "Customer privacy has differentiated forms. Hina does not want her schedule probed, although she does offer assistance of another kind. Kazusa's loud",
+            "verbatim_citation_tokens": [
+              "M:L142–146"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    142,
+                    146
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC016",
+            "saved_body_line": 41,
+            "architecture_section": "3. Public/private self",
+            "paragraph_sha256": "2e9e6f50c75580087255e5a8c726316b91198a66350391d805c3792432787b9a",
+            "opening_22_words": "The final statement about wages is also a private motive brought into conversation. It resists an account in which every welcome must",
+            "verbatim_citation_tokens": [
+              "M:L150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    150,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC017",
+            "saved_body_line": 45,
+            "architecture_section": "4. School/club role",
+            "paragraph_sha256": "3a9bd41ca1be82c59e5140af8144561e5873e374cec67059f33e6037e0fde0ce",
+            "opening_22_words": "The school question illustrates why the relationship cannot be flattened into institutionally ranked customers rescuing an insignificant worker. Sora expects the serious",
+            "verbatim_citation_tokens": [
+              "M:L142,L152"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    142,
+                    142
+                  ],
+                  [
+                    152,
+                    152
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC018",
+            "saved_body_line": 47,
+            "architecture_section": "4. School/club role",
+            "paragraph_sha256": "7eb24cce1f81c58887f6652a145e1e9a2a2f1b65375a9462577fd9df75c0a60c",
+            "opening_22_words": "Kazusa also revises an institutional stereotype from within her own pleasure. She welcomes recognition as Trinity while correcting the belief that all",
+            "verbatim_citation_tokens": [
+              "M:L138,L144"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    138,
+                    138
+                  ],
+                  [
+                    144,
+                    144
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC019",
+            "saved_body_line": 49,
+            "architecture_section": "4. School/club role",
+            "paragraph_sha256": "5878891494da1e480f1fa92af01b7eb6a695665b181b107fa475aca5676296be",
+            "opening_22_words": "Yuuka's institutional function is similarly substantial and bounded. She reports private toy/game expenses in Schale submissions and objects; the account does not",
+            "verbatim_citation_tokens": [
+              "M:L138,L146"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    138,
+                    138
+                  ],
+                  [
+                    146,
+                    146
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC020",
+            "saved_body_line": 51,
+            "architecture_section": "4. School/club role",
+            "paragraph_sha256": "e272779c6b327265179880aa9c95dbc29acb16b64451e284f5be68e0bcf5c9fb",
+            "opening_22_words": "Miyako's practical food reciprocity belongs to the represented neighbourhood support and discarded-lunch exchange. It should not be rewritten as an audited welfare",
+            "verbatim_citation_tokens": [
+              "M:L148–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    148,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC021",
+            "saved_body_line": 55,
+            "architecture_section": "5. Ordinary life",
+            "paragraph_sha256": "05d6b4800ac86ea83658f2764c7c1481c87e84fd629a7564ae24b8727f3d9ef3",
+            "opening_22_words": "Food and work are not minor preliminaries to the gift's “real” meaning. Cake advice after duty, wanted buns and seasonal sweets, a",
+            "verbatim_citation_tokens": [
+              "M:L138–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    138,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC022",
+            "saved_body_line": 57,
+            "architecture_section": "5. Ordinary life",
+            "paragraph_sha256": "8339e1aeb0f6aea6c5578b351db424dc4fe1084eb9f33f64510e7cdf006ab4af",
+            "opening_22_words": "Kazusa's macarons provide care with two stated directions. They respond to Sora's working hunger and accompany apology for having frightened her. She",
+            "verbatim_citation_tokens": [
+              "M:L144"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    144,
+                    144
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC023",
+            "saved_body_line": 59,
+            "architecture_section": "5. Ordinary life",
+            "paragraph_sha256": "40e35ebbd84378f76f15397aaa41620da37f3d236e93baf4c5992c2ed77c60a6",
+            "opening_22_words": "Miyako's turkey is likewise more than a symbolic token. It comes from neighbours' meat and is thanks for discarded lunches; both sides",
+            "verbatim_citation_tokens": [
+              "M:L148"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    148,
+                    148
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC024",
+            "saved_body_line": 61,
+            "architecture_section": "5. Ordinary life",
+            "paragraph_sha256": "7276ca480ca1bb6ce48933668afb46beb381071983e90355783f47bf420e2a00",
+            "opening_22_words": "The gloves supply a material pleasure which deserves its own ending. They are actually opened and described as light, warm and fitting.",
+            "verbatim_citation_tokens": [
+              "M:L150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    150,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC025",
+            "saved_body_line": 63,
+            "architecture_section": "5. Ordinary life",
+            "paragraph_sha256": "6e94edf23af1c5a39343c3c38bf4d448d7af408d5885f26f6d99504240a7153e",
+            "opening_22_words": "Wanted future life is present without being fully enacted. Hina intends time with peers and Ako's preparations, Kazusa mentions future sharing and",
+            "verbatim_citation_tokens": [
+              "M:L142–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    142,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC026",
+            "saved_body_line": 67,
+            "architecture_section": "6. Crisis behavior",
+            "paragraph_sha256": "14a33bbecca4a30d72cb8afd5c8bdea54430dfcd8d461fc0433956e8affc8527",
+            "opening_22_words": "This package's consequential difficulty is interpretive and ordinary. An unexplained gift in a blind spot makes Sora fearful; her suspicion imagines confession",
+            "verbatim_citation_tokens": [
+              "M:L140–146"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    140,
+                    146
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC027",
+            "saved_body_line": 69,
+            "architecture_section": "6. Crisis behavior",
+            "paragraph_sha256": "f801dc57b5390a5a70637873df2d468e64a4ecf30897898d1082c8f1e0a231e5",
+            "opening_22_words": "The inquiry also produces friction rather than harmless information gathering. Hina resists a personal probe. Kazusa's loud reaction frightens the questioner and",
+            "verbatim_citation_tokens": [
+              "M:L142–146"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    142,
+                    146
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC028",
+            "saved_body_line": 71,
+            "architecture_section": "6. Crisis behavior",
+            "paragraph_sha256": "5e1f54b1516f7ee4021ab2590f085f00f65d8556877e777fc0f34e435b353913",
+            "opening_22_words": "Sensei's communication failure gives the gift problem an actual causal endpoint. The present was intended for Sora, yet its purpose was not",
+            "verbatim_citation_tokens": [
+              "M:L140,L150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    140,
+                    140
+                  ],
+                  [
+                    150,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC029",
+            "saved_body_line": 73,
+            "architecture_section": "6. Crisis behavior",
+            "paragraph_sha256": "1083fca5eaa8534a874ecd821b6784f253a60b698ce6b8797e39495a19f31781",
+            "opening_22_words": "Miyako's explanation is useful counterevidence to an entirely sinister-adult reading, but it is also a recipient's interpretation. She describes imperfect attentiveness, denies",
+            "verbatim_citation_tokens": [
+              "M:L148"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    148,
+                    148
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC030",
+            "saved_body_line": 75,
+            "architecture_section": "6. Crisis behavior",
+            "paragraph_sha256": "a31179ea6b9b5887336d9626a67056a9116f785b93da0b3b49fad269ae67276d",
+            "opening_22_words": "The source therefore supports local revision without complete cure. Inquiry ends without a clue before later gift attribution; practical thanks precedes a",
+            "verbatim_citation_tokens": [
+              "M:L146–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    146,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC031",
+            "saved_body_line": 79,
+            "architecture_section": "7. Sensei relationship",
+            "paragraph_sha256": "81d3f8528dc3e49fa4f77c805c92f8337cd413a5e5c2657879570fd72086f3f4",
+            "opening_22_words": "The first actual encounter gives teacher a mixed but particular role. Advice about social media acknowledges Sora's interpretive vulnerability without proving all",
+            "verbatim_citation_tokens": [
+              "M:L140"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    140,
+                    140
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC032",
+            "saved_body_line": 81,
+            "architecture_section": "7. Sensei relationship",
+            "paragraph_sha256": "6354302b77528f80c08db6d7c4f9873318c6d3a0e0a858d98d4a43c9249629e5",
+            "opening_22_words": "The later gift names the value of reliable daily work. Teacher sees welcomes and availability as worth thanking even when Sora insists",
+            "verbatim_citation_tokens": [
+              "M:L150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    150,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC033",
+            "saved_body_line": 83,
+            "architecture_section": "7. Sensei relationship",
+            "paragraph_sha256": "8f9779b9417414ee4878cf63cba71415673986215c8d5bcda5cc99edecc96654",
+            "opening_22_words": "Sora receives the actual gloves happily, questions their fit and still labels the adult suspicious. The represented alternatives explain hand-size knowledge in",
+            "verbatim_citation_tokens": [
+              "M:L150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    150,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC034",
+            "saved_body_line": 85,
+            "architecture_section": "7. Sensei relationship",
+            "paragraph_sha256": "39ea0d76a05f87b0508cf96c15520715fc0064f336a90303feef5cf3851fe5a1",
+            "opening_22_words": "The recipient's description of wages and material pleasure protects a distinction between being seen and being absorbed into teacher's purpose. She need",
+            "verbatim_citation_tokens": [
+              "M:L150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    150,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC035",
+            "saved_body_line": 87,
+            "architecture_section": "7. Sensei relationship",
+            "paragraph_sha256": "ca3a374f3dcb666da80540c9faeb7e18969b5ce3975cfdcd4ea7caaf74c44389",
+            "opening_22_words": "Miyako's trust provides an independently voiced direction toward the same adult. She wants to share the next meal, describes an imperfect but",
+            "verbatim_citation_tokens": [
+              "M:L148–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    148,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC036",
+            "saved_body_line": 91,
+            "architecture_section": "8. Major peer relationships",
+            "paragraph_sha256": "0f8ba80ccaa810e645050e9919449368418d401b522b5ddb424371f2507dff75",
+            "opening_22_words": "**Sora → Hina, and Hina → Sora.** Sora probes a schedule under assumptions about a serious student's gift behavior. Hina resists that",
+            "verbatim_citation_tokens": [
+              "M:L142"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    142,
+                    142
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC037",
+            "saved_body_line": 93,
+            "architecture_section": "8. Major peer relationships",
+            "paragraph_sha256": "0898fc4b059df652bf71a0cd5f3c40b122fd6d153623dee2124b5449362b14e5",
+            "opening_22_words": "**Sora → Kazusa, and Kazusa → Sora.** Sora's assumptions about Trinity sweets and presumed teacher company meet corrections. Kazusa wants the new",
+            "verbatim_citation_tokens": [
+              "M:L144"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    144,
+                    144
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC038",
+            "saved_body_line": 95,
+            "architecture_section": "8. Major peer relationships",
+            "paragraph_sha256": "89e8d2eebf1050e3865137293167c91eee62c8e7ff8d8968a986b1532d707d19",
+            "opening_22_words": "**Sora → Yuuka, and Yuuka → Sora.** Sora interprets fiscal access as a clue to personal scheduling, while Yuuka limits questions to",
+            "verbatim_citation_tokens": [
+              "M:L146"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    146,
+                    146
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC039",
+            "saved_body_line": 97,
+            "architecture_section": "8. Major peer relationships",
+            "paragraph_sha256": "6975bd38ee9e38428662fe49eac029142d7b3cc534e12af59392aae921d69f10",
+            "opening_22_words": "**Sora → Miyako, and Miyako → Sora.** Miyako returns practical thanks for discarded lunches with turkey; Sora offers a shared meal and",
+            "verbatim_citation_tokens": [
+              "M:L148"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    148,
+                    148
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC040",
+            "saved_body_line": 99,
+            "architecture_section": "8. Major peer relationships",
+            "paragraph_sha256": "b41f44a7c71238af844ac0d23350c0161492de64fcb6dfeb8f52f46fc94b6e61",
+            "opening_22_words": "**Customers → retail worker, and worker → customers.** Across these directions, Sora handles transactions and wants information, while customers want duty supplies,",
+            "verbatim_citation_tokens": [
+              "M:L138–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    138,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC041",
+            "saved_body_line": 101,
+            "architecture_section": "8. Major peer relationships",
+            "paragraph_sha256": "5ce97c35c563d2ae06766797b248541fa8e1f1c97535c10f615a69ef3967210f",
+            "opening_22_words": "The sequence does not establish a unified group of friends who all share the same knowledge at the endpoint. The final object",
+            "verbatim_citation_tokens": [
+              "M:L146,L148,L152"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    146,
+                    146
+                  ],
+                  [
+                    148,
+                    148
+                  ],
+                  [
+                    152,
+                    152
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC042",
+            "saved_body_line": 105,
+            "architecture_section": "9. Language/voice",
+            "paragraph_sha256": "0b123bff1bb1ccf117c283b369ceb76a7e8c1c2ea59f7cc83f92810337cc86af",
+            "opening_22_words": "Written language supplies the argument's contrasts, while performed tone is unreceived. “Suspicious adult” and “very happy” coexist at the endpoint; payment language",
+            "verbatim_citation_tokens": [
+              "M:L142–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    142,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC043",
+            "saved_body_line": 107,
+            "architecture_section": "9. Language/voice",
+            "paragraph_sha256": "9db53478fef1f524f6a1903822625c53ddc3ccfa4f5de02a1ebdd44617f55353",
+            "opening_22_words": "General labels are repeatedly corrected by particular responses. A serious student can offer school guidance; a Trinity customer can want ordinary buns",
+            "verbatim_citation_tokens": [
+              "M:L142–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    142,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC044",
+            "saved_body_line": 109,
+            "architecture_section": "9. Language/voice",
+            "paragraph_sha256": "ae37565a2aebbdaacad0a4f9c5827e136686848cd8db1f6262024cc12298dfc5",
+            "opening_22_words": "The source's actor labels require unusually careful handling. Cashier functions can bear literal Hina/Yuuka labels in04010; question/thanks labels drift in Hina's exchange;",
+            "verbatim_citation_tokens": [
+              "M:L138,L142–148"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    138,
+                    138
+                  ],
+                  [
+                    142,
+                    148
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC045",
+            "saved_body_line": 111,
+            "architecture_section": "9. Language/voice",
+            "paragraph_sha256": "b9026c94b0836c7307f4451eefc6969356f86b363f8947b9337295d28cae7fc3",
+            "opening_22_words": "Choice-space repetitions also limit quantitative or psychological inference. The three stored scenes retain six choice groups in04010 and eight in04030; repeated replies",
+            "verbatim_citation_tokens": [
+              "M:L136,L148,L150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    136,
+                    136
+                  ],
+                  [
+                    148,
+                    148
+                  ],
+                  [
+                    150,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC046",
+            "saved_body_line": 113,
+            "architecture_section": "9. Language/voice",
+            "paragraph_sha256": "9f1802d59e62b051dba31c222ed410d054c40ed1758f66b3cf39d310e8ad0999",
+            "opening_22_words": "“Lost things, no forgotten things” is Miyako's own voiced distinction. It matters as a position toward the suspected present and trust; it",
+            "verbatim_citation_tokens": [
+              "M:L148–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    148,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC047",
+            "saved_body_line": 117,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "97ac8049d0de1465db48ef1d062b650c49dec2b3bcc0d5ae2ba49222742295ad",
+            "opening_22_words": "**“Paid work makes the warmth insincere.”** Sora says she works for wages, and her customer priority is real. That evidence contradicts compulsory",
+            "verbatim_citation_tokens": [
+              "M:L140,L144–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    140,
+                    140
+                  ],
+                  [
+                    144,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC048",
+            "saved_body_line": 119,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "50810e64e6d6eb34a7720aafde0bc9458a04a762c55891483aefa613b1183ef3",
+            "opening_22_words": "**“The customers simply mistreat an innocent questioner.”** Some responses impose costs: Kazusa frightens Sora and apologizes; questions produce embarrassment and frustration. Yet",
+            "verbatim_citation_tokens": [
+              "M:L142–148"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    142,
+                    148
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC049",
+            "saved_body_line": 121,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "619b127d7710b2a5f8c106fa9152a37b9f37a5dfd637e10304ca6f1c0c1b82e7",
+            "opening_22_words": "**“Every refusal means the shop's care failed.”** Miyako explicitly values the discarded lunches and brings thanks while declining Sora's meal invitation. Hina",
+            "verbatim_citation_tokens": [
+              "M:L142,L146,L148"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    142,
+                    142
+                  ],
+                  [
+                    146,
+                    146
+                  ],
+                  [
+                    148,
+                    148
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC050",
+            "saved_body_line": 123,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "ccdd858a719c523fced327498c6ba3fdda32bb4184a090465f69c8533b3f7e0a",
+            "opening_22_words": "**“The gift proves Sensei's universal goodness and resolves doubt.”** Teacher identifies the present, admits failed communication and gives welcome gloves. Those positives",
+            "verbatim_citation_tokens": [
+              "M:L148–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    148,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC051",
+            "saved_body_line": 125,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "9b38f3213a0a0aaf49ebb1bcc50ae4965954edb1b3da667405ec0bb299f24c77",
+            "opening_22_words": "**“The rumors reveal the adult's actual conduct.”** Their content influences Sora's suspicion, but the checkpoint does not certify pools/feet/control-tool stories as primary",
+            "verbatim_citation_tokens": [
+              "M:L138–140,L150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    138,
+                    140
+                  ],
+                  [
+                    150,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC052",
+            "saved_body_line": 127,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "5e263f7d4bf1460c4c1c71005736807ae8adaa5fbd867d222a01a0c403ae1e21",
+            "opening_22_words": "**“The final present validates Sora's initial conflict theory.”** It resolves the owner/recipient question in a different way: the gift was for her",
+            "verbatim_citation_tokens": [
+              "M:L140–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    140,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC053",
+            "saved_body_line": 129,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "639a60a9c9e344fcb73a3bcb3e796406ddb4fa892a8a1959e95b91722107372c",
+            "opening_22_words": "**“The gloves are a perfect gift, so the method no longer matters.”** They are welcomed as light, warm and fitting, which gives",
+            "verbatim_citation_tokens": [
+              "M:L150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    150,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC054",
+            "saved_body_line": 131,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "89cb46ef8a409045404f9b929bfef57696e70e17e5b44de21020cacbeee74223",
+            "opening_22_words": "**“School and role labels explain each customer's private life.”** Hina, Kazusa and Yuuka give useful counterexamples to Sora's convenient expectations. Their corrections",
+            "verbatim_citation_tokens": [
+              "M:L142–146"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    142,
+                    146
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC055",
+            "saved_body_line": 133,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "77baa22a8f5448b4f425ae2786e701ad901c2a431a220b7ce4eb32746c88c2e4",
+            "opening_22_words": "**“The shop scene should culminate in romance.”** Gifts, embarrassment, presumed teacher company, invitations and warm fitting gloves make intimacy an available interpretive",
+            "verbatim_citation_tokens": [
+              "M:L144–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    144,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC056",
+            "saved_body_line": 135,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "534e6f574fd0f42e4ea6f57638b88a60f6bdb90b6800dc63a2d664e4d6c6a515",
+            "opening_22_words": "**“Only the later glove recognition has analytical weight.”** Removing early orders, interruptions, cleaning, seasonal tastes, local charge error and declined company would",
+            "verbatim_citation_tokens": [
+              "M:L138–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    138,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC057",
+            "saved_body_line": 139,
+            "architecture_section": "11. Evidence route",
+            "paragraph_sha256": "1d5a8f147049130898a0b6aa6c36bed995a748d73b1d287be6ee5e21bb23ef4b",
+            "opening_22_words": "The precise literary route is [MINI32's complete accepted three-object §6 account](bound_source_inputs/M_BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md), received at actual scope rather than from a person list or",
+            "verbatim_citation_tokens": [
+              "M:L68–80,L134–152"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    68,
+                    80
+                  ],
+                  [
+                    134,
+                    152
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC058",
+            "saved_body_line": 141,
+            "architecture_section": "11. Evidence route",
+            "paragraph_sha256": "1e089c26c22921acb252ffbc00ec681d2adcdcc538ef511c52bedd9415da898b",
+            "opening_22_words": "The account is a full bounded synthesis of this required question, not a complete Sora character monograph or every customer's life. Hina's",
+            "verbatim_citation_tokens": [
+              "M:L138–152"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    138,
+                    152
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC059",
+            "saved_body_line": 143,
+            "architecture_section": "11. Evidence route",
+            "paragraph_sha256": "d986323051759da2e28e4e9a2039b69367ef4fa850abcbe4d36a8a278c2f6afe",
+            "opening_22_words": "Every original gap remains OPEN with a specific effect:",
+            "verbatim_citation_tokens": [],
+            "exact_analytical_line_anchors": [],
+            "projection_class": "SCOPE_CUSTODY_GAP_OR_PROGRESS_CONTROL",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC060",
+            "saved_body_line": 160,
+            "architecture_section": "11. Evidence route",
+            "paragraph_sha256": "d328a6f19b3148517dbaa94683243c1a04213a1204698178d2dac84aa9af7f6b",
+            "opening_22_words": "This remains one allocated existing directed argument with independent ROOT receiving and canonical adoption pending. The fixed355 packages/29 named sections, original ownership/independence,",
+            "verbatim_citation_tokens": [],
+            "exact_analytical_line_anchors": [],
+            "projection_class": "SCOPE_CUSTODY_GAP_OR_PROGRESS_CONTROL",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SC061",
+            "saved_body_line": 162,
+            "architecture_section": "11. Evidence route",
+            "paragraph_sha256": "7bde88bc660b57f02d189a825e6896ea1d61d2fd7a77bf7eaecea89949df007f",
+            "opening_22_words": "The achieved relation is exact enough to sustain both happiness and a question: a worker's paid presence is recognized, customers retain their",
+            "verbatim_citation_tokens": [
+              "M:L138–150"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "M",
+                "analytical_line_ranges": [
+                  [
+                    138,
+                    150
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          }
+        ],
+        "endpoints": [
+          {
+            "endpoint_id": "SCE01",
+            "source_object": "04010 transactions",
+            "source_id": "M",
+            "analytical_locator": "L138",
+            "positive_or_achieved": "Duty supplies, cake advice, expense objection and represented exact orders/totals frame reliable retail work.",
+            "unfinished_or_contrary": "Cashier label seams remain; no later ingestion, weapon incident, receipt audit or adjudicated embezzlement.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE02",
+            "source_object": "04010 firstSensei encounter",
+            "source_id": "M",
+            "analytical_locator": "L140",
+            "positive_or_achieved": "Social-media caution, promotion-linked drink gift/thanks, customer priority actually allowed.",
+            "unfinished_or_contrary": "Question interrupted and remains unanswered; not independently bought medical treatment or proof all rumors false.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE03",
+            "source_object": "04010 foundpresent",
+            "source_id": "M",
+            "analytical_locator": "L140",
+            "positive_or_achieved": "Cleaning finds a present in a camera blind spot; Sora chooses discreet inquiry.",
+            "unfinished_or_contrary": "Confession/interschool conflict are hypotheses, sender unknown; delivery steps unshown.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE04",
+            "source_object": "04020 Hinaquestionguidance",
+            "source_id": "M",
+            "analytical_locator": "L142",
+            "positive_or_achieved": "Schedule probe resisted, diligence recognized, school choice/contact guidance offered.",
+            "unfinished_or_contrary": "No enrollment, completed guidance, actual shop attack or authorization of every personal question.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE05",
+            "source_object": "04020 Hinawantedholiday",
+            "source_id": "M",
+            "analytical_locator": "L142",
+            "positive_or_achieved": "Peer time and Ako preparation declared as wanted Christmas plan.",
+            "unfinished_or_contrary": "Completed celebration unprinted; serious-student no-gift expectation is Sora stereotype.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE06",
+            "source_object": "04020 Kazusataste",
+            "source_id": "M",
+            "analytical_locator": "L144",
+            "positive_or_achieved": "Wanted mint-chocolate bun/other flavours, welcomed Trinity recognition, ordinary-sweets correction plus wanted limited cake.",
+            "unfinished_or_contrary": "No aristocratic uniform taste or verified total Trinity appetite.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE07",
+            "source_object": "04020 Kazusaloudresponse",
+            "source_id": "M",
+            "analytical_locator": "L144",
+            "positive_or_achieved": "Presumed teacher company meets loud response; Kazusa apologizes for frightening Sora.",
+            "unfinished_or_contrary": "No settled romantic confession or denial of actual cost because it is comic.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE08",
+            "source_object": "04020 Kazusamacarongift",
+            "source_id": "M",
+            "analytical_locator": "L144",
+            "positive_or_achieved": "Gives limited macarons, receives thanks, combines working-hunger care and apology.",
+            "unfinished_or_contrary": "Consumption not printed; no clinical effect, uniform mutual taste or reciprocal love.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE09",
+            "source_object": "04020 Kazusafutureplans",
+            "source_id": "M",
+            "analytical_locator": "L144",
+            "positive_or_achieved": "Wants sharing with clubmates, Sisterhood assistance/panettone stated as plan.",
+            "unfinished_or_contrary": "Future consumption/charity work uncompleted; not all customers gathered.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE10",
+            "source_object": "04020 Yuukabattery",
+            "source_id": "M",
+            "analytical_locator": "L146",
+            "positive_or_achieved": "Needs a power bank after her own charge calculation failed.",
+            "unfinished_or_contrary": "Local error is not global incompetence or complete technical charge audit.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE11",
+            "source_object": "04020 Yuukaquestionboundary",
+            "source_id": "M",
+            "analytical_locator": "L146",
+            "positive_or_achieved": "Only answerable personal questions allowed; money advice limited to student/teacher relations.",
+            "unfinished_or_contrary": "Fiscal access is not proof of mutual Christmas intimacy; embarrassment not unlimited disclosure.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE12",
+            "source_object": "04020 Yuukawantedplans",
+            "source_id": "M",
+            "analytical_locator": "L146",
+            "positive_or_achieved": "Expected Seminar time/look after worried junior; normally avoids nonurgent holiday contact.",
+            "unfinished_or_contrary": "No completed calendar or unnamed junior identity.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE13",
+            "source_object": "04020 inquiryending",
+            "source_id": "M",
+            "analytical_locator": "L146",
+            "positive_or_achieved": "Narrated continued inquiry yields no useful clue.",
+            "unfinished_or_contrary": "No universal gift-denial, guilt/lying verdict or discovery achieved.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE14",
+            "source_object": "04030 Miyakoturkey",
+            "source_id": "M",
+            "analytical_locator": "L148",
+            "positive_or_achieved": "Actual turkey from neighbours meat thanks discarded lunches; both value practical reciprocity.",
+            "unfinished_or_contrary": "No consumption, audited welfare/ownership or completed institutional remedy.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE15",
+            "source_object": "04030 Miyakomealrefusal",
+            "source_id": "M",
+            "analytical_locator": "L148",
+            "positive_or_achieved": "Sora invites a meal; Miyako politely declines to share with Sensei next.",
+            "unfinished_or_contrary": "No turkey eating with either party or completed next meal; refusal is not denial of thankfulness.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE16",
+            "source_object": "04030 Miyakotrust",
+            "source_id": "M",
+            "analytical_locator": "L148",
+            "positive_or_achieved": "Own imperfect-attentive-adult interpretation, denial of exploitation and ability to confide voiced.",
+            "unfinished_or_contrary": "Her trust is not universal virtue/security guarantee; lost/forgotten distinction is not a new loss record.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE17",
+            "source_object": "04030 recollections",
+            "source_id": "M",
+            "analytical_locator": "L148",
+            "positive_or_achieved": "Earlier Hina/Kazusa/Yuuka phrases recur textually.",
+            "unfinished_or_contrary": "Not physical presence, shared final knowledge or dialogue actor repair for Sora-labelled u0037.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE18",
+            "source_object": "04030 attributedgift",
+            "source_id": "M",
+            "analytical_locator": "L150",
+            "positive_or_achieved": "Sensei identifies the gift for Sora and acknowledges failed communication.",
+            "unfinished_or_contrary": "Sender/recipient attribution repaired without full delivery mechanism or initial conflict theory vindicated.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE19",
+            "source_object": "04030 wageandrecognition",
+            "source_id": "M",
+            "analytical_locator": "L150",
+            "positive_or_achieved": "Reliable ordinary shop work/welcomes/daily availability recognized; Sora says wages.",
+            "unfinished_or_contrary": "Payment does not cancel value; no employer contract/pay record or proof work is never burdensome.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE20",
+            "source_object": "04030 glovesmaterialending",
+            "source_id": "M",
+            "analytical_locator": "L150",
+            "positive_or_achieved": "Actually opened/recognized/praised light, warm, fitting gloves.",
+            "unfinished_or_contrary": "Pleasure is not perfect-gift/romance verdict or all privacy questions resolved.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE21",
+            "source_object": "04030 handsizequestion",
+            "source_id": "M",
+            "analytical_locator": "L150",
+            "positive_or_achieved": "Hand-size question receives two represented alternatives, including repeated change-giving observation.",
+            "unfinished_or_contrary": "Not both consecutively verified or a single measurement protocol; no blanket observation permission.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE22",
+            "source_object": "04030 finalreception",
+            "source_id": "M",
+            "analytical_locator": "L150",
+            "positive_or_achieved": "Very happy/thanks for trusting the store and final suspicious-adult language coexist.",
+            "unfinished_or_contrary": "Complete confidence not achieved; reciprocal coupon repayment unprinted.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE23",
+            "source_object": "wholeMINI04010",
+            "source_id": "M",
+            "analytical_locator": "L136–140",
+            "positive_or_achieved": "Working day, advice/gift/customer priority, cleaning and gift found, discreet inquiry decision complete at normal scope.",
+            "unfinished_or_contrary": "Question unanswered, rumor/war/confession unverified, alternatives not all enacted.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE24",
+            "source_object": "wholeMINI04020",
+            "source_id": "M",
+            "analytical_locator": "L142–146",
+            "positive_or_achieved": "Three customers distinct wanted ends, refusals/corrections/actual macaron gift/apology.",
+            "unfinished_or_contrary": "No useful clue at EOF; holidays/charity/consumption/unidentified junior remain pending.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SCE25",
+            "source_object": "wholeMINI04030",
+            "source_id": "M",
+            "analytical_locator": "L148–150",
+            "positive_or_achieved": "Practical reciprocity/refused meal, independent trust explanation, repaired gift attribution/opened welcome gloves/continued suspicion.",
+            "unfinished_or_contrary": "No actual turkey/macaron consumption, universal good adult, romantic resolution or complete privacy repair.",
+            "new_primary_credit": 0
+          }
+        ],
+        "serious_competing_readings": [
+          {
+            "saved_body_line": 117,
+            "claim_id": "SC047",
+            "whole_rival_argument": "**“Paid work makes the warmth insincere.”** Sora says she works for wages, and her customer priority is real. That evidence contradicts compulsory selflessness, not every genuine relation. Kazusa's care/apology, Miyako's practical thanks, Sora's invited meal and happiness in the gloves have achieved represented scopes. The source keeps pay as a motive while recognition names what reliable work makes available to others. Neither sentiment nor money needs to erase the other. [M:L140,L144–150]",
+            "paragraph_sha256": "97ac8049d0de1465db48ef1d062b650c49dec2b3bcc0d5ae2ba49222742295ad"
+          },
+          {
+            "saved_body_line": 119,
+            "claim_id": "SC048",
+            "whole_rival_argument": "**“The customers simply mistreat an innocent questioner.”** Some responses impose costs: Kazusa frightens Sora and apologizes; questions produce embarrassment and frustration. Yet Sora's probe of Hina's schedule, Sora's fiscal-to-holiday inference and Miyako's right to choose another meal companion also matter. Guidance, conditional answers and apology are particular forms of reception. The stronger account identifies responsibility on both sides rather than classifying every limit as hostility. [M:L142–148]",
+            "paragraph_sha256": "50810e64e6d6eb34a7720aafde0bc9458a04a762c55891483aefa613b1183ef3"
+          },
+          {
+            "saved_body_line": 121,
+            "claim_id": "SC049",
+            "whole_rival_argument": "**“Every refusal means the shop's care failed.”** Miyako explicitly values the discarded lunches and brings thanks while declining Sora's meal invitation. Hina offers guidance while resisting a different personal question; Yuuka offers only bounded answerability. A valued service and a valid refusal address different wants. The actual declined meal should remain, but it cannot make the food reciprocity or guidance offer unreal. [M:L142,L146,L148]",
+            "paragraph_sha256": "619b127d7710b2a5f8c106fa9152a37b9f37a5dfd637e10304ca6f1c0c1b82e7"
+          },
+          {
+            "saved_body_line": 123,
+            "claim_id": "SC050",
+            "whole_rival_argument": "**“The gift proves Sensei's universal goodness and resolves doubt.”** Teacher identifies the present, admits failed communication and gives welcome gloves. Those positives are substantial. Sora's hand-size question and final suspicious-adult phrase remain after the happiness; Miyako's interpretation of imperfect attentiveness is separately hers. No universal verdict follows from an achieved local gift, and the source deliberately permits recognition alongside observational discomfort. [M:L148–150]",
+            "paragraph_sha256": "ccdd858a719c523fced327498c6ba3fdda32bb4184a090465f69c8533b3f7e0a"
+          },
+          {
+            "saved_body_line": 125,
+            "claim_id": "SC051",
+            "whole_rival_argument": "**“The rumors reveal the adult's actual conduct.”** Their content influences Sora's suspicion, but the checkpoint does not certify pools/feet/control-tool stories as primary behavior. The actual advice against uncritical social media belief and final represented observation have different warrants. It would be equally unsupported to make every rumor true or use the advice as proof every rumor false. This argument uses the particular shown exchanges without deciding the missing rumor cases. [M:L138–140,L150]",
+            "paragraph_sha256": "9b38f3213a0a0aaf49ebb1bcc50ae4965954edb1b3da667405ec0bb299f24c77"
+          },
+          {
+            "saved_body_line": 127,
+            "claim_id": "SC052",
+            "whole_rival_argument": "**“The final present validates Sora's initial conflict theory.”** It resolves the owner/recipient question in a different way: the gift was for her and the giver had not said so. No interschool war or known romantic confession had been established. Her discretion is meaningful conduct under fear, but a later correct attribution does not make the fear's original premises true. Failed customer inquiry and acknowledged adult communication failure preserve the actual route. [M:L140–150]",
+            "paragraph_sha256": "5e263f7d4bf1460c4c1c71005736807ae8adaa5fbd867d222a01a0c403ae1e21"
+          },
+          {
+            "saved_body_line": 129,
+            "claim_id": "SC053",
+            "whole_rival_argument": "**“The gloves are a perfect gift, so the method no longer matters.”** They are welcomed as light, warm and fitting, which gives material pleasure secure represented support. The question about how size was known arises precisely from that fit, and alternative replies include observation during change-giving. Comfort does not establish a single verified measurement method, settle every privacy concern or grant blanket observational consent. Pleasant reception and continuing suspicion are both required. [M:L150]",
+            "paragraph_sha256": "639a60a9c9e344fcb73a3bcb3e796406ddb4fa892a8a1959e95b91722107372c"
+          },
+          {
+            "saved_body_line": 131,
+            "claim_id": "SC054",
+            "whole_rival_argument": "**“School and role labels explain each customer's private life.”** Hina, Kazusa and Yuuka give useful counterexamples to Sora's convenient expectations. Their corrections and local miscalculation do not destroy public competence or school membership. They do show that schedules, tastes, intentions and availability require particular reception. The unnamed junior and uncompleted plans cannot be recovered by attaching familiar names or presumed institutional routines. [M:L142–146]",
+            "paragraph_sha256": "89cb46ef8a409045404f9b929bfef57696e70e17e5b44de21020cacbeee74223"
+          },
+          {
+            "saved_body_line": 133,
+            "claim_id": "SC055",
+            "whole_rival_argument": "**“The shop scene should culminate in romance.”** Gifts, embarrassment, presumed teacher company, invitations and warm fitting gloves make intimacy an available interpretive question. The source nevertheless supplies practical apology, wages, neighbour-food reciprocity, a declined meal and explicit remaining suspicion. It prints no settled reciprocal romance, canceled customer boundaries or permanent entitlement. The thesis of particular company accounts for those endings without requiring a total romantic verdict. [M:L144–150]",
+            "paragraph_sha256": "77baa22a8f5448b4f425ae2786e701ad901c2a431a220b7ce4eb32746c88c2e4"
+          },
+          {
+            "saved_body_line": 135,
+            "claim_id": "SC056",
+            "whole_rival_argument": "**“Only the later glove recognition has analytical weight.”** Removing early orders, interruptions, cleaning, seasonal tastes, local charge error and declined company would remove the work which is finally recognized and the comparisons which qualify it. The quiet repertoire also gives peers wanted lives beyond teacher and makes Sora's wages claim intelligible. The apparent low stakes are the argument's substance, rather than a reason to discard it. [M:L138–150]",
+            "paragraph_sha256": "534e6f574fd0f42e4ea6f57638b88a60f6bdb90b6800dc63a2d664e4d6c6a515"
+          }
+        ],
+        "all_original_fourteen_OPEN": [
+          {
+            "id": "G01",
+            "literal_name": "Ordinary and private breadth",
+            "state": "OPEN",
+            "saved_body_line": 145,
+            "claim_specific_effect": "three shop objects provide valuable paid routine, tastes and company, not the complete ordinary/private repertoire of Sora or her customers."
+          },
+          {
+            "id": "G02",
+            "literal_name": "Yuuka council/club decision transfer",
+            "state": "OPEN",
+            "saved_body_line": 146,
+            "claim_specific_effect": "fiscal objections and conditional student/teacher advice do not settle Seminar's wider budget/authority decisions, audit the submissions or identify the worried junior."
+          },
+          {
+            "id": "G03",
+            "literal_name": "Serika service, peer and reciprocity range",
+            "state": "OPEN",
+            "saved_body_line": 147,
+            "claim_specific_effect": "Sora's retail and food reciprocity are bounded comparisons, not completion of Serika's actual service, peer or reciprocity question."
+          },
+          {
+            "id": "G04",
+            "literal_name": "Hina crisis causality, accountability and ordinary contrast",
+            "state": "OPEN",
+            "saved_body_line": 148,
+            "claim_specific_effect": "the duty visit, school offer and intended holiday retain ordinary importance without resolving Hina's crisis responsibility or complete wanted life."
+          },
+          {
+            "id": "G05",
+            "literal_name": "Arius and PS68 ordinary/aftermath transfer",
+            "state": "OPEN",
+            "saved_body_line": 149,
+            "claim_specific_effect": "local wages, suspicion and care cannot certify those groups' coercion, accountability or ordinary aftermath."
+          },
+          {
+            "id": "G06",
+            "literal_name": "Cross-school ordinary repertoire",
+            "state": "OPEN",
+            "saved_body_line": 150,
+            "claim_specific_effect": "each customer's particular wants matter, but these three objects do not complete every school's ordinary range or create a universal student response."
+          },
+          {
+            "id": "G07",
+            "literal_name": "Story-world chronology",
+            "state": "OPEN",
+            "saved_body_line": 151,
+            "claim_specific_effect": "“almost Christmas,” next morning and later meeting establish local order without dating all MAIN/private/holiday contexts or making intentions completed schedules."
+          },
+          {
+            "id": "G08",
+            "literal_name": "Event naming and repeat contexts",
+            "state": "OPEN",
+            "saved_body_line": 152,
+            "claim_specific_effect": "repeated holiday phrases and recollections are not additional independently enacted gift exchanges or physical customer attendance."
+          },
+          {
+            "id": "G09",
+            "literal_name": "Written speaker/choice attribution",
+            "state": "OPEN",
+            "saved_body_line": 153,
+            "claim_specific_effect": "cashier/customer labels, Hina/Kazusa/Yuuka dialogue seams, the Miyako-like Sora label and repeated choice replies retain literal and contextual limits without silent repair."
+          },
+          {
+            "id": "G10",
+            "literal_name": "Performed voice",
+            "state": "OPEN",
+            "saved_body_line": 154,
+            "claim_specific_effect": "embarrassment, warmth, suspicion and pause are written meanings; audio, facial performance and timing are not personally heard or watched."
+          },
+          {
+            "id": "G11",
+            "literal_name": "Hoshino's Yume record and office states",
+            "state": "OPEN",
+            "saved_body_line": 155,
+            "claim_specific_effect": "this shop sequence does not resolve that record, office continuity or related responsibilities."
+          },
+          {
+            "id": "G12",
+            "literal_name": "Counterpart, system and variant identity",
+            "state": "OPEN",
+            "saved_body_line": 156,
+            "claim_specific_effect": "literal Sora's wider canonical-person join and unnamed recipients cannot be invented; no variant or system identity is adjudicated here."
+          },
+          {
+            "id": "G13",
+            "literal_name": "Office, contract, safety and technical outcomes",
+            "state": "OPEN",
+            "saved_body_line": 157,
+            "claim_specific_effect": "wage law/contracts, clinical drink effect, weapon use, actual future guidance/holiday plans, turkey/macaron consumption, coupon repayment and a verified glove-measurement method remain unprinted or bounded."
+          },
+          {
+            "id": "G14",
+            "literal_name": "Unclassified/mode continuity",
+            "state": "OPEN",
+            "saved_body_line": 158,
+            "claim_specific_effect": "report, rumor, plan, choice, recollection, transaction and final narration retain different modes; their coexistence supplies no automatic enacted or global continuity."
+          }
+        ],
+        "actor_choice_identity_precision": "Cashier labels Hina/Yuuka u0006/0026, Hina question/thanks u0007/0032, Kazusa shiftsu0051/0059/0065/0082, invertedSora/Yuukau0101/0107/0115/0119, Sora-labelled Miyako-likeu0037 and choice/recollection modes retained. No silent canonical actor repair, unnamed junior identity, widerSora join or every alternative enacted.",
+        "overlap_controls": [
+          "This is adjacent to Sweets and explicitly broader; retain Hina, Kazusa, Yuuka, Miyako and Sensei. Do not turn it into a newly invented Kazusa-only relationship.",
+          "Sora P3-N001 and dated P3-A007 retrieve one existing character responsibility, not an additional person or directed package.",
+          "No unprinted Kazusa macaron consumption, perfect-gift verdict, universal customer hostility, permanent cure or romance conclusion.",
+          "Reusing MINI040 in character packages gives no independent source, primary or performed credit."
+        ],
+        "projection_limit": "25 endpoint meanings include three wholeobject endings and consequential substages, not25 independent sources or separate packages. Complete all five customer/adult directions preserve one existing directedhome.",
+        "new_credit": 0
+      }
+    },
+    {
+      "name": "SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SAVED_OUTPUT_RECEIPT_V1.json",
+      "original_exact_tuple": {
+        "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SORA_CUSTOMERS_SENSEI/SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SAVED_OUTPUT_RECEIPT_V1.json",
+        "bytes": 2198,
+        "sha256": "0fc414c36d7b75fe8faab561a582ee4d5334abe6a1061e8c3d93defbf0c3b696",
+        "git_blob_oid_of_actual_bytes": "7e0d0b38965bcf777b8c963902d02e254e8b2613",
+        "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SORA_CUSTOMERS_SENSEI/SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SAVED_OUTPUT_RECEIPT_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SAVED_OUTPUT_RECEIPT_V1",
+        "status": "SAVED_CANDIDATE_AUTHOR_NEW_RECEIPT_FIELDS_RECEIVING_PENDING",
+        "required_home": "P3-REL-SORA-CUSTOMERS-SENSEI",
+        "outputs": [
+          {
+            "file": "BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SYNTHESIS.md",
+            "byte_count": 36913,
+            "line_count": 162,
+            "sha256": "2778d459d5f35578e62b547aa38e33cd2d1724e173c6c87656c4b9241652d1ad",
+            "actual_byte_blob_oid": "2bc543340263c730b5e21a62706b6d08ba1787d1"
+          },
+          {
+            "file": "SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+            "byte_count": 18500,
+            "line_count": 311,
+            "sha256": "a83fdb6831e040a79f84afe4e29494506df5f38686c45911e5e99494795970c4",
+            "actual_byte_blob_oid": "6e476f3f6460b3c1863734dc2984a603ec23c90a"
+          },
+          {
+            "file": "SORA_CUSTOMERS_SENSEI_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+            "byte_count": 74702,
+            "line_count": 1886,
+            "sha256": "993f61862b15367c304ba236a68484471f9f88560dfd7e680c1ecbc8f5452e18",
+            "actual_byte_blob_oid": "b207d2f92bd1d8cef9727a78ac42c76a28394c91"
+          }
+        ],
+        "body_actual_whole_readback": [
+          "021e59[0,17000)",
+          "e3baf3[17000,36646 EOF) before three narrow pre-freeze precision qualifications",
+          "5d0ee4 all complete final changed paragraphs15/37/119; all other paragraphs unchanged"
+        ],
+        "pre_freeze_precision_edits": [
+          "L15 one represented observation reply qualified, no every alternative as observation",
+          "L37 represented choice-space explanation distinguished from actual universallyverifiedconduct",
+          "L119 Sora probesHinaschedule clarified direction"
+        ],
+        "architecture_sections": 11,
+        "paragraph_joins": 61,
+        "endpoints": 25,
+        "serious_rivals": 10,
+        "literal_OPEN_gaps": 14,
+        "links": 2,
+        "ROOT_acceptance": "PENDING",
+        "canonical_adoption": "PENDING",
+        "encoding": "UTF8/LF/noBOM/onefinalLF/allfiles<1MiB",
+        "completion_credit": 0,
+        "unbound_large": "UNOPENED_UNREAD_UNHASHED",
+        "pre_freeze_receipt_precision": "All25 endpoint English sentences spaced before freezing; meaning/locators/body remain unchanged, final complete fields must be received."
+      }
+    }
+  ],
+  "complete_frozen_manifest": {
+    "schema": "BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDED_DIRECTED_ARGUMENT_ROOT_RECEIVING_PENDING",
+    "required_home": "P3-REL-SORA-CUSTOMERS-SENSEI",
+    "kind": "DIRECTED_RELATIONSHIP",
+    "source_responsibility_refs": [
+      "P3-REL-SORA-CUSTOMERS-SENSEI"
+    ],
+    "source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+    "analytical_main": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "outputs": [
+      {
+        "file": "BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SYNTHESIS.md",
+        "byte_count": 36913,
+        "line_count": 162,
+        "sha256": "2778d459d5f35578e62b547aa38e33cd2d1724e173c6c87656c4b9241652d1ad",
+        "actual_byte_blob_oid": "2bc543340263c730b5e21a62706b6d08ba1787d1"
+      },
+      {
+        "file": "SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 18500,
+        "line_count": 311,
+        "sha256": "a83fdb6831e040a79f84afe4e29494506df5f38686c45911e5e99494795970c4",
+        "actual_byte_blob_oid": "6e476f3f6460b3c1863734dc2984a603ec23c90a"
+      },
+      {
+        "file": "SORA_CUSTOMERS_SENSEI_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 74702,
+        "line_count": 1886,
+        "sha256": "993f61862b15367c304ba236a68484471f9f88560dfd7e680c1ecbc8f5452e18",
+        "actual_byte_blob_oid": "b207d2f92bd1d8cef9727a78ac42c76a28394c91"
+      },
+      {
+        "file": "SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 2198,
+        "line_count": 50,
+        "sha256": "0fc414c36d7b75fe8faab561a582ee4d5334abe6a1061e8c3d93defbf0c3b696",
+        "actual_byte_blob_oid": "7e0d0b38965bcf777b8c963902d02e254e8b2613"
+      }
+    ],
+    "actual_body_whole_receiving": [
+      "021e59[0,17000)",
+      "e3baf3[17000,36646 EOF) before three narrow pre-freeze precision qualifications",
+      "5d0ee4 all complete final changed paragraphs15/37/119; all other paragraphs unchanged"
+    ],
+    "actual_complete_receipt_fields": {
+      "source": "94843a entire311-line SOURCE through EOF",
+      "claim": [
+        "c08b0f[0,17000)",
+        "9a5493[17000,34000)",
+        "8f8ce2[34000,51000)",
+        "52846d[51000,57676 EOF)"
+      ],
+      "saved": "b6bc61 entire50-line final SAVED through EOF"
+    },
+    "receiving_qualification": "Complete original saved body received, then all three full final changed paragraphs5d0ee4. Every source/claim/endpoint/rival/gap/saved field actually received through EOF. Receipt English endpoint spacing repaired before any freeze and final whole fields read; no copied or hash-only human credit.",
+    "pre_freeze_precision_edits": [
+      "L15 one represented observation reply qualified, no every alternative as observation",
+      "L37 represented choice-space explanation distinguished from actual universallyverifiedconduct",
+      "L119 Sora probesHinaschedule clarified direction"
+    ],
+    "pre_freeze_receipt_precision": "All25 endpoint English sentences spaced before freezing; meaning/locators/body remain unchanged, final complete fields must be received.",
+    "finite_exact_checks": {
+      "result": "PASS",
+      "R_inputs": 4,
+      "literary_method_owners": 2,
+      "scope_controls": 2,
+      "C_inputs": 3,
+      "saved_payloads": 4,
+      "paragraph_joins": 61,
+      "endpoints": 25,
+      "whole_rivals": 10,
+      "sections": 11,
+      "links": 2,
+      "literal_OPEN_gap_effects": 14,
+      "existing_home_beforeimages": 2,
+      "prior_frozen": 47
+    },
+    "exact_R_inputs": [
+      {
+        "source_id": "A01",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_count": 52261,
+        "line_count": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+      },
+      {
+        "source_id": "CONTROL_CSV",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "byte_count": 93949,
+        "line_count": 356,
+        "sha256": "bc9b6e73aee8a3343680624c2416386607c598d27b986d8e685d31d62fdae348",
+        "actual_byte_blob_oid": "640cb3980ccd79999522a8776d108601bbf6a9e8"
+      },
+      {
+        "source_id": "CONTROL_JSON",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "byte_count": 461112,
+        "line_count": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1"
+      },
+      {
+        "source_id": "M",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 93829,
+        "line_count": 344,
+        "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+        "actual_byte_blob_oid": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+      }
+    ],
+    "exact_C_inputs": [
+      {
+        "file": "ROOT_SWEETS_FOUR_EXISTING_HOME_ALLOCATION_V1.json",
+        "byte_count": 7448,
+        "line_count": 103,
+        "sha256": "097b09d5be74cd9315e88e37b965399437a00b98ecdeb101a1e39059418666c5",
+        "actual_byte_blob_oid": "fb3dbcbf591a8b02b46631853789cc6610560f58"
+      },
+      {
+        "file": "SWEETS_RELATIONSHIP_SCOPE_PROPOSAL_V1/SWEETS_RELATIONSHIP_EXACT_EXISTING_HOME_PROPOSAL_V1.json",
+        "byte_count": 48004,
+        "line_count": 709,
+        "sha256": "0578f1331b8660033c0882d1daebe5479315d691ab66642d22de328f66a806a4",
+        "actual_byte_blob_oid": "c0d537b11a3a3f0069267b69f52f840ea7be50d5"
+      },
+      {
+        "file": "SWEETS_CLUB_MONOGRAPHS/KAZUSA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 48717,
+        "line_count": 928,
+        "sha256": "ed9240d1b619ffaa29ccd02f6fc0f71ba944228f7d0b2efb88b955ff642dbf87",
+        "actual_byte_blob_oid": "8b8e5181c1d674f2e6758dffdaba376788ff9eb8"
+      }
+    ],
+    "preserved_prior_frozen": [
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/AIRI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 6754,
+        "line_count": 171,
+        "sha256": "fa5361a98b543319dc085848ea983f6c5b610aa6e12b727df5f6a6d9cbb0f13b",
+        "actual_byte_blob_oid": "c36dc5aa34dead6ea2500d17b402d7c15ebbbfaa"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/AIRI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 75781,
+        "line_count": 1215,
+        "sha256": "cc1c06457383c1cf34ee979b5a8cdfccbe351bad8925faa845e46f80e7669150",
+        "actual_byte_blob_oid": "2167c22e64d0ca6e14403290ed64805a9ccaac3e"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/AIRI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1857,
+        "line_count": 43,
+        "sha256": "cf3e2042154641c8cad9b141136d685571b3e28b65835e1242210b5e975133c9",
+        "actual_byte_blob_oid": "cb6c66ea179f7924776b3e91af2d780ee61a2990"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/AIRI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 39972,
+        "line_count": 755,
+        "sha256": "a2aa82ec893e19aace39a04e90661bbbede5ae940e307165b1c3575b16109e7b",
+        "actual_byte_blob_oid": "eb0546f9899891a091c5f88d02153a52665a8f7d"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/BLUE_ARCHIVE_AIRI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 55201,
+        "line_count": 157,
+        "sha256": "a22c87022c496d3389f516f7fc3492a2775cad10608d5734c5851dc38e61fc15",
+        "actual_byte_blob_oid": "68831d852cf6ca96c59e690c54a13f34bdf1782e"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/BLUE_ARCHIVE_KAZUSA_CHARACTER_MONOGRAPH.md",
+        "byte_count": 60013,
+        "line_count": 153,
+        "sha256": "e27e6ea27aea5f07b90b4839aa20378473b14bbf66dd1998292d525a9d388394",
+        "actual_byte_blob_oid": "3c45b0ef7874900321c9a49a36ca0413f7a62ece"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/KAZUSA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 6542,
+        "line_count": 160,
+        "sha256": "6d9529f6e3e749d0580992ef3301aada4e44d185f349c6bee7b9e5fc37ee3dcd",
+        "actual_byte_blob_oid": "24c688ed867e27a709837173d41ff20efac843ed"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/KAZUSA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 81768,
+        "line_count": 1298,
+        "sha256": "2d7f862d960ca33459b7833256e75ab7d31f31a2c4ce26675c1a8b54c8b76f41",
+        "actual_byte_blob_oid": "86dc1fee9c5308a7af139d60c8f4e9ff13e54ede"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/KAZUSA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1898,
+        "line_count": 44,
+        "sha256": "d402d0ee6e9b8a10307b438100e73d2f5fb8522de963c0db2848e733ce958845",
+        "actual_byte_blob_oid": "9764e9567caa8561ca2ef48228cea0200ce07ef7"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/KAZUSA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 48717,
+        "line_count": 928,
+        "sha256": "ed9240d1b619ffaa29ccd02f6fc0f71ba944228f7d0b2efb88b955ff642dbf87",
+        "actual_byte_blob_oid": "8b8e5181c1d674f2e6758dffdaba376788ff9eb8"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/BLUE_ARCHIVE_NATSU_CHARACTER_MONOGRAPH.md",
+        "byte_count": 55968,
+        "line_count": 151,
+        "sha256": "204e03dae7fbba7499f18605a885c10d73abac1ffc5e42be0d2332dffa745279",
+        "actual_byte_blob_oid": "af27afd34331ed39319a7fdca6df9eca77ca48fb"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/NATSU_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 6852,
+        "line_count": 155,
+        "sha256": "5be570b613e4723a062095c0f3eef4204c836faeecb9ba267d53d516f7d4f3eb",
+        "actual_byte_blob_oid": "ebe74706cd388cd0daaf339e753435a2c6bc1f77"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/NATSU_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 73904,
+        "line_count": 1187,
+        "sha256": "780dd0b70b1d2e732129886fabf4f2475493189914958df1cdbd92831b767b6d",
+        "actual_byte_blob_oid": "140aacdd9c8e02faddd3445a1cd8e23f49e47d46"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/NATSU_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1878,
+        "line_count": 44,
+        "sha256": "f7c911f9bd6c642d3fd7b07e0dbce43a61b62cb2c90a08cc6c0218a9d642d058",
+        "actual_byte_blob_oid": "9594ec4beadf6b34bde799583db740a17bb83123"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/NATSU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 50221,
+        "line_count": 947,
+        "sha256": "447065d703b667f1e09ccc6d92527c5da82315b1dd9df08d77f2b501ab7b53fa",
+        "actual_byte_blob_oid": "589fb7f2be90a37519d5ba68e3dbe2b1827ff09a"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/BLUE_ARCHIVE_YOSHIMI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 58168,
+        "line_count": 163,
+        "sha256": "813e283ef060249ef552d6e2f3c556df143db4d257a3f9eb1cca0654aafa1799",
+        "actual_byte_blob_oid": "7abf465483473ca93f603dab0ae60c562345cece"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/YOSHIMI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 51280,
+        "line_count": 936,
+        "sha256": "eb2eeb33c02be18a52770a7635f91dc1a4c16c907be37dedf5ab953fdb29795b",
+        "actual_byte_blob_oid": "9f1c2dcb4e497c415d9aa6678ed34914668f3ee3"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/YOSHIMI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 75517,
+        "line_count": 1198,
+        "sha256": "d705639e705709530e6b58c9f3c06c5c73f941f6038f481e9b1801107c9c53ae",
+        "actual_byte_blob_oid": "ee372cf0cf3d1562b8abc6b701c3ed509146cce6"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/YOSHIMI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1897,
+        "line_count": 44,
+        "sha256": "f2b2a44e57af817f30d00f8b015bc8eed76266dbf3697afdd43628e2c29014e8",
+        "actual_byte_blob_oid": "6e485ad52e44eb597383849eadca2218ee5e437f"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/YOSHIMI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 7360,
+        "line_count": 155,
+        "sha256": "7e798d5f93969a7e3e05ed1c6c72a564e5755776dfaa3e6c9a91040df99f6155",
+        "actual_byte_blob_oid": "48dcc226f9a39dae6737c083b2e76a05847514de"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/KAZUSA_NATSU_IMITATION_CLAUSE_NARROW_AUTHOR_ERRATUM_V1.json",
+        "byte_count": 5226,
+        "line_count": 41,
+        "sha256": "8c6ee7735781cab263fa46d12b7f9183f96fefa37a1dbbe6fd8426003b4eb9de",
+        "actual_byte_blob_oid": "1e2e76d306c74f70e7adfe5d3d6b92c616410bb5"
+      },
+      {
+        "path": "PHASE3_START_20261009/ROOT_KAZUSA_NATSU_IMITATION_CLAUSE_OPERATIVE_QUALIFICATION_V1.json",
+        "byte_count": 4931,
+        "line_count": 35,
+        "sha256": "6fff734136db228cf01f9679c33b366493f3d98dbc7b39bc9bfff32ddc24c580",
+        "actual_byte_blob_oid": "71510766a6db60388ddab030d2d928a60f10e2f7"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_RELATIONSHIP_SCOPE_PROPOSAL_V1/SWEETS_RELATIONSHIP_SCOPE_AND_PRIORITY_PROPOSAL_V1.md",
+        "byte_count": 8622,
+        "line_count": 73,
+        "sha256": "0b6f3c8df1e6c3d5a610f36996947ee200d34c259eeba9d66d46de34ec4b81be",
+        "actual_byte_blob_oid": "6e46035d5eca62484d8015d009fa2d63a251e8d6"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_RELATIONSHIP_SCOPE_PROPOSAL_V1/SWEETS_RELATIONSHIP_EXACT_EXISTING_HOME_PROPOSAL_V1.json",
+        "byte_count": 48004,
+        "line_count": 709,
+        "sha256": "0578f1331b8660033c0882d1daebe5479315d691ab66642d22de328f66a806a4",
+        "actual_byte_blob_oid": "c0d537b11a3a3f0069267b69f52f840ea7be50d5"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_RELATIONSHIP_SCOPE_PROPOSAL_V1/SWEETS_RELATIONSHIP_PROPOSAL_EXACT_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 3567,
+        "line_count": 74,
+        "sha256": "b8fb4a4af7251b2ae767113c30ac8d50411bba92bf2b474df16e4a3b88cb84f3",
+        "actual_byte_blob_oid": "c6db6b6460ee8ecba0314e603d7a2fb0cdae0fd4"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_RELATIONSHIP_SCOPE_PROPOSAL_V1/SWEETS_RELATIONSHIP_PROPOSAL_AUTHOR_COMPLETE_RECEIVING_AND_FREEZE_V1.json",
+        "byte_count": 11477,
+        "line_count": 245,
+        "sha256": "cf89530e6e09971224c99823b2c7d46057c2c66fecd6d3d7829cf8513bdc09d7",
+        "actual_byte_blob_oid": "9997a530ef1392585156797212c36df2fa8984c5"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md",
+        "byte_count": 45862,
+        "line_count": 187,
+        "sha256": "fad7b7ec91c38cdd3e5ddb92e7daf759215567f081581dda4ffa98fdc9c7ed72",
+        "actual_byte_blob_oid": "258a4ff04a77d0066133b3859361c7b10bda802e"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 36101,
+        "line_count": 561,
+        "sha256": "5548e7964a47305623256c6ffab6ef31c22cf915136cbb5ba506c75483d27c37",
+        "actual_byte_blob_oid": "b661d748592899affe01b4be8a103179f3144f02"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 89539,
+        "line_count": 2637,
+        "sha256": "5f304d2af802011eed3316624affda911345f76fb70cc620f64ca78ef4058480",
+        "actual_byte_blob_oid": "22509d08cef0f1471c7b3d6bf4406986b979e447"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1746,
+        "line_count": 44,
+        "sha256": "5520fd80531bc8ee432c39ca2aa17b4ab065a6837a6ce42d041797b97a2ef3fe",
+        "actual_byte_blob_oid": "31cbda19cb9fd791abc60eece58673b23d6ebda1"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 21890,
+        "line_count": 452,
+        "sha256": "3eadbbd2ec8e611652b4649b09862d5b486678f068ad1c03cbc1a27139580ca9",
+        "actual_byte_blob_oid": "b4628c50dc74309ed6c3b8816877c19bb724bf69"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+        "byte_count": 45851,
+        "line_count": 174,
+        "sha256": "eb9785a2b58a978d7e6b58c4c7d2ce312464ac7e361dc265a77143a9c81c0959",
+        "actual_byte_blob_oid": "e75eded0103680ed40957717b645c9fb1e6b35b8"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 27724,
+        "line_count": 432,
+        "sha256": "63022435553ad2e310565c13742c4d962f27278ecd3e4a4b16484b774e7a312c",
+        "actual_byte_blob_oid": "679f1a0ff9058b3138b9bb80a7f1166b91801ddf"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 102615,
+        "line_count": 2875,
+        "sha256": "fe30400607774d7ec84455bbb7b5e25eee8b320ec501a495f5bf4d8eba212400",
+        "actual_byte_blob_oid": "039d893cac726853de7e9717222f9ab1512324c7"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1598,
+        "line_count": 44,
+        "sha256": "28946ed34be8d33f2d90610e25ef6c48e80d1472bb8e4dd9db3c2c323bd981e9",
+        "actual_byte_blob_oid": "106aa26fb80b1baa2ded7a26418af94620098a74"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 21825,
+        "line_count": 433,
+        "sha256": "d4ac2a10eb49fdec7ea40f4a7f54d0e1898f25e7202b06aa4e9a93b6a1e64d82",
+        "actual_byte_blob_oid": "d85ff6dc5db6134c33614b2ed62353ca8dd509b7"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_TEMPORARY_BAND/BLUE_ARCHIVE_SWEETS_TEMPORARY_BAND_ENSEMBLE_SYNTHESIS.md",
+        "byte_count": 45846,
+        "line_count": 182,
+        "sha256": "539c9db04ee8db8f8addf5f030729f60ae55216b13a901c1442410012bdcc7fb",
+        "actual_byte_blob_oid": "1eb8c9328aa7e12ed26b5fa35b43ef8a135378b4"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_TEMPORARY_BAND/SWEETS_TEMPORARY_BAND_ENSEMBLE_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 22040,
+        "line_count": 359,
+        "sha256": "5f8f42c62761ae587daded7a20d57f4fbaf2b31702a94a8900023c16dd03838a",
+        "actual_byte_blob_oid": "5f80f9db88d8ed7fb1dc03724dad148cb6f89725"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_TEMPORARY_BAND/SWEETS_TEMPORARY_BAND_ENSEMBLE_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 110646,
+        "line_count": 3116,
+        "sha256": "b5103901df8e825e728d333f2d94cf01001f36987c36a93457ad2569d71cbc3f",
+        "actual_byte_blob_oid": "cfa28bab78f2327bf6d26faf2444fb97e5ad455e"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_TEMPORARY_BAND/SWEETS_TEMPORARY_BAND_ENSEMBLE_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 2218,
+        "line_count": 65,
+        "sha256": "88867bb64d7a9186a1317284446e9f58644d6120f28bea9784873888eb542ee3",
+        "actual_byte_blob_oid": "c83c7e33f7ad9245433eb6dc596f654963e1632d"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_TEMPORARY_BAND/SWEETS_TEMPORARY_BAND_ENSEMBLE_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 22427,
+        "line_count": 465,
+        "sha256": "13c80c96f877fd9692a8488bf5a2bab1e773b92c31a7d1799a393eca15bbb57d",
+        "actual_byte_blob_oid": "d93cc4c72091e423b4951800d5ecb58bc00f1130"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_TEMPORARY_BAND_V2_CORRECTED/BLUE_ARCHIVE_SWEETS_TEMPORARY_BAND_ENSEMBLE_SYNTHESIS.md",
+        "byte_count": 45900,
+        "line_count": 182,
+        "sha256": "81209781c4418688a051303f3f9c4d282358bc83f596f2f8f9db7567f68c8789",
+        "actual_byte_blob_oid": "77673fef058d41b1a0de0cb45fb3ed8c5caadc61"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_TEMPORARY_BAND_V2_CORRECTED/SWEETS_TEMPORARY_BAND_ENSEMBLE_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V2.json",
+        "byte_count": 24120,
+        "line_count": 397,
+        "sha256": "14c96ab67a7a49d485dc5248ec5eaba4c870c8cf02da19ce28ff12d425a42999",
+        "actual_byte_blob_oid": "d8dd6d2e7b348e9ae1701f3436b109b043072a11"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_TEMPORARY_BAND_V2_CORRECTED/SWEETS_TEMPORARY_BAND_ENSEMBLE_CLAIM_AND_ENDPOINT_REGISTER_V2.json",
+        "byte_count": 110908,
+        "line_count": 3117,
+        "sha256": "fffb5340713e67915bf007db925bfdfefefe33f319199e84ebb2924e50aaaac9",
+        "actual_byte_blob_oid": "196454078779b9b36cb2924b3e3c8fc22698ed8a"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_TEMPORARY_BAND_V2_CORRECTED/SWEETS_TEMPORARY_BAND_ENSEMBLE_SAVED_OUTPUT_RECEIPT_V2.json",
+        "byte_count": 2005,
+        "line_count": 40,
+        "sha256": "5f8b6bd0dc572ce7981e1f9b0fe705601b58825e9b11a62a324db686a8220664",
+        "actual_byte_blob_oid": "c42da636a7134e9e30eefdce8969e265d62d4320"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_TEMPORARY_BAND_V2_CORRECTED/SWEETS_BAND_AUDIENCE_LIMIT_NARROW_AUTHOR_ERRATUM_V1.json",
+        "byte_count": 9943,
+        "line_count": 194,
+        "sha256": "b84caa0a38bd07c333ec6538e09ee47596c2fdff1974bf02a7924e9c3591abe3",
+        "actual_byte_blob_oid": "45205684c2e3364dc53f05538352445321ed9cd9"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_TEMPORARY_BAND_V2_CORRECTED/SWEETS_TEMPORARY_BAND_ENSEMBLE_AUTHOR_CORRECTED_COMPLETE_REVIEW_AND_FREEZE_V2.json",
+        "byte_count": 23635,
+        "line_count": 489,
+        "sha256": "89a90e9dd82b8fc1563a9fe886245b26370728f0c2e62cfd7a1c1bf283be5d2b",
+        "actual_byte_blob_oid": "ca066207993b111269582e4d253af9961846dc33"
+      }
+    ],
+    "semantic_review": {
+      "thesis": "Recognition within paid routine without unlimited customer access, complete trust or obligation.",
+      "positive": "Reliable daily shop work, practical gifts, school guidance offer, apology, welcomed comfort and continuing ordinary company.",
+      "contrary": "Probed schedules, fiscal/private inference, frightened recipient, no useful clue, refused meal and continued observation suspicion.",
+      "recipient_directions": "Full Hina/Kazusa/Yuuka/Miyako/Sensei directions; each has wanted life/refusal or interpretation. Recall not actual whole group presence.",
+      "actual_endings": "Gift attribution repaired, actual gloves opened/welcomed, wage motive retained; macaron/turkey consumption and future guidance/holiday/coupon outcomes unprinted.",
+      "source_mode": "Choice alternatives, report/rumor/plan/transaction/recollection/narration and literal actor seams remain separate; no silent speaker/person repair.",
+      "overlap": "One allocated broader existing directedhome, not Kazusa-only, fullSoracharacter or added institution/pairs.",
+      "MAIN": "Bounded thematic scope only; no full MAIN/family credit from these three MINI meanings."
+    },
+    "scope_355_29": "UNCHANGED",
+    "ROOT_acceptance": "PENDING",
+    "canonical_adoption": "PENDING",
+    "new_primary_raw_native_performed_model_independence_or_completion_credit": 0,
+    "unbound_large": "All9UNBOUND UNOPENED_UNREAD_UNHASHED",
+    "actions": "Only new C-only outputs; no R/Git/provider/global writes; all47 prior frozen witnesses unchanged.",
+    "authorfreeze_receiving": "Whole new authorfreeze must actually be received through EOF; no self-certification."
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SORA_CUSTOMERS_SENSEI/SORA_CUSTOMERS_SENSEI_RELATIONSHIP_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+    "bytes": 24614,
+    "sha256": "96742c85d4b6c37dfd89cab8b9641ab11b2b3dc2f762643e8447785df3cb7386",
+    "git_blob_oid_of_actual_bytes": "347fbca52886badc2ef6d7fc5201034b8ae3cd06",
+    "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SORA_CUSTOMERS_SENSEI/SORA_CUSTOMERS_SENSEI_RELATIONSHIP_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+  },
+  "original_body_exact_tuple": {
+    "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SORA_CUSTOMERS_SENSEI/BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 36913,
+    "sha256": "2778d459d5f35578e62b547aa38e33cd2d1724e173c6c87656c4b9241652d1ad",
+    "git_blob_oid_of_actual_bytes": "2bc543340263c730b5e21a62706b6d08ba1787d1",
+    "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SORA_CUSTOMERS_SENSEI/BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SYNTHESIS.md"
+  },
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 39283,
+    "sha256": "7cf2ba978e64f2ba43ec76bf61a6ed335ed1c9a2816d0958b0daf16422f50f38",
+    "git_blob_oid_of_actual_bytes": "39d923c012088f97611b2e9f731824dc78b3eca6"
+  },
+  "canonical_link_translations": [
+    {
+      "candidate_relative_href": "bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "repository_relative_target": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "canonical_relative_href": "../../00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "byte_sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged",
+      "operative_canonical_relative_href": "../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/M_BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_relative_href": "../../02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged",
+      "operative_canonical_relative_href": "../../02%20Sequential%20Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md"
+    }
+  ],
+  "mandatory_claim_metadata_inverse": null,
+  "mandatory_operative_qualification": "162-line original as-is; metadata and two link-only canonical translations"
+}

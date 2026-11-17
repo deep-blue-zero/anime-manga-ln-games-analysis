@@ -1,0 +1,853 @@
+{
+  "schema": "INDEPENDENT_HIROMI_CURRENT167_COMPLETE42_BODY_FIRST_DISTINCT_LITERARY_METHOD16_RIVAL8_END16_GAP14_QA_V1",
+  "saved_actual_UTC": "2026-10-14T01:37:15.681449+00:00",
+  "reviewer": "/root/m008_composition_review",
+  "author": "/root/minato_105_derivative",
+  "decision": "PASS_WITH_LIMITS_COMPLETE_CURRENT167_42_BODY_ONLY_LITERARY_REVIEW_NO_NEW105_COMPONENTS_OR_ROOT_ADOPTION",
+  "findings": [],
+  "manifest": {
+    "C_path": "HIROMI-QA-CONTROL-b05ca40f4a29a5dd",
+    "bytes": 6320,
+    "sha256": "c58e5cb687f3c0e8bde3663a17e992ec6d965e4225a2ab226057d75d66c6338b",
+    "git_blob_oid_of_actual_bytes": "00a52be8f97dab4b45bf6744d8b19a26f237d3a6"
+  },
+  "body": {
+    "C_path": "HIROMI-QA-CONTROL-5be8eb2f08f4059f",
+    "bytes": 37729,
+    "sha256": "b7d396dd8993c8fb8ff1386bf22d250d7303386c18993d456570628064cfe14c",
+    "git_blob_oid_of_actual_bytes": "d534074256b548080789723b0f04ac2c29353732",
+    "physical_lines": 167,
+    "complete_paragraphs": 42
+  },
+  "independence_disclosure": "Reviewer authored none of Hiromi character body, ten predraft questions, source receiving or literal bindings. Reviewer previously authored Library LP094/Veritas VP094 E850 actor/access precisions and had adequate selected E850 familiarity, and earlier next-home inventories. Those related source-control roles are disclosed background; they do not constitute Hiromi prose authorship or transfer literary QA/ROOT credit. This distinct review judges the actual Hiromi argument from personally received current body and necessary maintained source contexts, not a clean-room or fresh primary claim.",
+  "actual_personal_body_receiving": [
+    {
+      "tool": "3f1da9",
+      "range": [
+        1,
+        59
+      ],
+      "untruncated": true
+    },
+    {
+      "tool": "09c35e",
+      "range": [
+        60,
+        116
+      ],
+      "untruncated": true
+    },
+    {
+      "tool": "e5a396",
+      "range": [
+        117,
+        167
+      ],
+      "scope": "Complete bodyprefix fully visible before combined appended source excerpt clipped; no whole combinedoutput/sourceappendix credit."
+    }
+  ],
+  "actual_personal_selected_source_receiving": {
+    "carrier": {
+      "C_path": "HIROMI-QA-CONTROL-d0acef481b9de91e",
+      "bytes": 28418,
+      "sha256": "a5ea335dfd318422d128e6f5f8a6e0a5a041a88331bbf3839cb9c18a217edc9c",
+      "git_blob_oid_of_actual_bytes": "e213a371a863d781a16bb0fbcebcf888a83fff83"
+    },
+    "current_tool": "045df5",
+    "complete_selected_ranges": [
+      [
+        33,
+        35
+      ],
+      [
+        67,
+        69
+      ],
+      [
+        88,
+        110
+      ],
+      [
+        114,
+        118
+      ],
+      [
+        121,
+        139
+      ]
+    ],
+    "additional_context_tool": "b872c3",
+    "additional_complete_range": [
+      74,
+      87
+    ],
+    "grade": "SELECTED_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT;NOT_WHOLE139_OWN_NEW_SOURCE_PASS_OR_PRODUCER_TWELVE_PRIMARY_OBJECTS",
+    "adequate_prior_context": "Own earlier selected maintained E85081–100687a24 from LP094 work is disclosed adequate background. Current selected review personally receives Hiromi belief/relaxation/warning92, reported custody94, actualobstruction/Miyo inward safety103, publicoutcome114 and source mode/remainingbounds. Producer twelve canonical/native/raw/AV scopes are not transferred.",
+    "clipped_predecessor_display": "The combined e5a396 sourceappendix clipped around admission/role fields;045df5 fully rereceived these selected fields and complete connected argument. No lost field is used for semanticcredit.",
+    "Cycle008": "Complete selected33–35 currentadoption governs retained original intake/proposal/queue text. Historical L137/139 pending-source effects/private breadth statements retain grade/scope limits without reasserting outdated publication status."
+  },
+  "actual_method_and_author_question_receiving": {
+    "tool": "e46df3",
+    "complete_method_range": [
+      345,
+      376
+    ],
+    "sixteen_actual_character_concerns_and_ordinary_before_crisis": "Personally received exactcurrent method list, not inferred from sixteen labels.",
+    "tool_questions": "aa3792",
+    "scope": "Complete ten predraft target questions/finite results and author receiving-grade declarations; authorcomplete139 reuse remains attributed, not reviewerwhole139."
+  },
+  "complete42_manual_literal_argument_dispositions": [
+    {
+      "claim_id": "HC001",
+      "physical_line": 11,
+      "complete_literal_paragraph": "**HC001.** Hiromi is a tired guard deputy who also finds ease with a literature peer. Those interests do not collapse into a single professional function: the conversation has value for her before the warning letter becomes useful to Miyo's operation. Her belief that Miyo is uninvolved makes that ease possible, while the friend's concealed participation later contributes to obstructing her work. The contradiction belongs to the relation between her actual confidence, restricted knowledge and burdened duty, rather than to a supposed secret wish for crime or a demonstrated weakness of character. Hiromi supplies information and is affected by the operation; she is neither just a clue dispenser nor a fully informed collaborator. The source gives no later discovery, forgiveness or restored trust. [HI01:L92–103,139.]",
+      "source_refs": [
+        "HI01:L92–103,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "The opening preserves Hiromi's own ease and work as well as limited knowledge; later obstruction does not supply knowing collaboration or discovery."
+    },
+    {
+      "claim_id": "HC002",
+      "physical_line": 13,
+      "complete_literal_paragraph": "**HC002.** This is a distinct character argument within the already accepted scoped home. It uses the author's adequate complete139-line maintained argument receiving, with a new consequential reading of the Hiromi encounter, warning custody, obstruction and scope boundaries. It addresses all sixteen concerns listed by the current character method, including meaningful unknown goals, private history and later development. It does not borrow completion from the Art-commerce institutional or Miyo–Fuyu–Ritsu–Hiromi ensemble section. Common105 report meanings remain adequate comparative background at attributed grades; no new Hiromi105 purposes have yet been completed by this body-first stage. School names, written speaker seams and theatrical identities remain local. No private pool, raw/native/AV source, global registry join, clinical model or canonical count is added. [HI01:L33–35,67–69,121–139; method:L345–376.]",
+      "source_refs": [
+        "HI01:L33–35,67–69,121–139; method:L345–376."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "The existing scope is an architectural obligation, while this new body remains pending acceptance; common report familiarity does not complete new purpose work."
+    },
+    {
+      "claim_id": "HC003",
+      "physical_line": 17,
+      "complete_literal_paragraph": "**HC003.** The encounter places Hiromi's two roles in the same scene. She is a literature peer and Dormitory Guard deputy; guarding the exhibition has crowded out smuggling enforcement. Fatigue is represented or reported, and she feels able to relax with Miyo because she believes her uninvolved. That reason matters: the trusted person offers an alternative to constant professional pressure. It would be reductive to treat the ease only as a failed security screen, just as it would be misleading to describe it as an informed agreement to suspend duty for the club. Her relief is real within the represented encounter while the condition on which it rests is mistaken. The source keeps both, with no need to deny the value of ordinary companionship. [HI01:L92.]",
+      "source_refs": [
+        "HI01:L92."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Hiromi's work and relaxed literary encounter are simultaneous roles, with the mistaken premise kept explicit rather than redefining care as merely a failed security screen."
+    },
+    {
+      "claim_id": "HC004",
+      "physical_line": 19,
+      "complete_literal_paragraph": "**HC004.** Later, actual traps and smoke obstruct guards including Hiromi. The source thereby makes the concealed activity consequential to her work rather than leaving mistrust as an abstract theme. Yet the obstruction is not a narrated scene in which she realizes Miyo's role, confronts her or becomes permanently suspicious. Miyo's inward apology and later moral distress are Miyo's states. Hiromi's actual burden and limited knowledge should remain her own rather than receiving the friend's narrated conscience as a substitute. This contradiction supports an account of compromised trust and constrained duty; it does not establish that Hiromi knowingly compromises her office, approves the trap or experiences a printed betrayal revelation. [HI01:L92,103,139.]",
+      "source_refs": [
+        "HI01:L92,103,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Actual interference is distinguished from Hiromi learning the concealed role; Miyo's inward states cannot become Hiromi's voiced response."
+    },
+    {
+      "claim_id": "HC005",
+      "physical_line": 23,
+      "complete_literal_paragraph": "**HC005.** Her explicit professional context is narrower than a complete vocation. The maintained account calls her a deputy and explains that exhibition guarding displaces smuggling enforcement. Those are current responsibilities and competing workloads. They do not establish a received appointment process, a lifelong career ambition, an articulated theory of property or an unconditional preference for every enforcement demand. Sharing the thief's warning is an actual act in that context, but one act cannot answer every institutional question on her behalf. A full character argument should allow a competent person to have present work without turning a role label into her entire desired future. [HI01:L69,92–94.]",
+      "source_refs": [
+        "HI01:L69,92–94."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Current deputy responsibility and warning-sharing do not create a lifelong career ambition, complete mandate or property theory."
+    },
+    {
+      "claim_id": "HC006",
+      "physical_line": 25,
+      "complete_literal_paragraph": "**HC006.** The encounter also supplies a concrete local purpose: she can relax with a trusted literature peer amid fatigue and discuss the pressure surrounding the exhibition. This is a represented response and conversational opportunity, rather than a separately certified general goal that all literature must be therapeutic or all duty unwelcome. Her sharing the warning after Miyo notices the subdued voice and asks shows participation in the exchange. It is not merely an object passing between institutions: the sequence has a person noticing another person's condition, asking, and receiving an answer. The passage does not grant a complete list of Hiromi's reading preferences or say that she wants to abandon the guards. [HI01:L92.]",
+      "source_refs": [
+        "HI01:L92."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "The local conversation and information response have value as Hiromi's participation; no full hobby list or desire to abandon work follows."
+    },
+    {
+      "claim_id": "HC007",
+      "physical_line": 27,
+      "complete_literal_paragraph": "**HC007.** An implicit need for a place to let professional vigilance ease is supported by the local reason she gives for relaxing. That inference stays close to the encounter: she believes the friend uninvolved and feels more at ease. It does not diagnose a need for rescue, infer a hidden romance or declare that she cannot manage work without this one person. The ordinary alternative is nevertheless consequential. Literary familiarity can matter before it produces a useful clue, and a tired person need not demonstrate an extraordinary achievement to make her wanted quiet worth analyzing. The inference concerns the available interaction, with wider routines and support networks unreceived. [HI01:L92,125,139.]",
+      "source_refs": [
+        "HI01:L92,125,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "A nearby inference of wanted relief is explicitly bounded to the encounter and excludes rescue dependence, romance and a clinical interpretation."
+    },
+    {
+      "claim_id": "HC008",
+      "physical_line": 29,
+      "complete_literal_paragraph": "**HC008.** The information asymmetry exposes another possible need: confidence that friendship and professional duty can coexist without one's trust being used against the work. This is an analytical implication of the actual mismatch, not a quoted demand Hiromi makes or a remedy she has accepted. The source supplies her mistaken belief, warning-sharing and later obstruction, but does not narrate a disclosure that would let her reconsider. Preserving that missing response keeps the person in the argument. A writer can identify a recipient cost without deciding her later judgment, demanding punishment for her, or pretending she would necessarily renounce the friendship if informed. [HI01:L92–103,139.]",
+      "source_refs": [
+        "HI01:L92–103,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "A need for informed confidence is an analytical implication, not a stated demand or accepted remedy; later judgment is left with the person."
+    },
+    {
+      "claim_id": "HC009",
+      "physical_line": 33,
+      "complete_literal_paragraph": "**HC009.** Fatigue gives Hiromi's professional burden ordinary bodily and temporal force. Exhibition protection has consumed attention that previously went to smuggling enforcement, while the conversation provides some ease. This supports competing obligations and a local need for relief without showing a clinical wound, measured sleep deficit or medically caused failure. The report's signs and statements should remain at that written scope. Neither the source of the character's whole exhaustion nor a treatment endpoint is certified. A temporary relaxed encounter also differs from actual taken leave, relieved assignments, completed sleep or a sustained recovery. [HI01:L92,103.]",
+      "source_refs": [
+        "HI01:L92,103."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Represented fatigue and competing work priorities remain real without measured sleep loss, clinical burnout, completed leave or recovery."
+    },
+    {
+      "claim_id": "HC010",
+      "physical_line": 35,
+      "complete_literal_paragraph": "**HC010.** The later guard obstruction leaves an obligation unresolved in a different sense: a familiar peer is involved in thwarting work she is doing. The account does not show whether she learns this or how she would weigh the duties afterward. It is therefore more precise to retain the work and trust costs than to call her ashamed, wounded by a known betrayal, or torn by a confessed moral dilemma. Those would add inward states not received here. The friend's apology is inward, and Miyo's wish that no injury occur is not Hiromi's evaluation of the danger or a completed examination of her condition. [HI01:L92,103,139.]",
+      "source_refs": [
+        "HI01:L92,103,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "The unresolved work and trust cost does not fabricate shame, known betrayal or an examination from Miyo's apology and safety wish."
+    },
+    {
+      "claim_id": "HC011",
+      "physical_line": 37,
+      "complete_literal_paragraph": "**HC011.** The available description of Hiromi's self-concept is limited. Deputy status identifies a present role, while her confidence in Miyo identifies a local belief about a familiar person's noninvolvement. Neither is a complete first-person portrait. It would overstate the evidence to make Hiromi define herself only as lawful enforcer, harmless reader or unquestioning loyal friend. Her action of sharing information can coexist with a mistaken belief without settling a stable trait of gullibility. The source gives a particular error of knowledge in a relationship, not every earlier judgment by the character. [HI01:L69,92–94.]",
+      "source_refs": [
+        "HI01:L69,92–94."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "A deputy title and local confidence are not a full self-portrait or stable gullibility essence."
+    },
+    {
+      "claim_id": "HC012",
+      "physical_line": 39,
+      "complete_literal_paragraph": "**HC012.** Others' perception is better supplied but also actor-specific. Miyo notices a subdued voice, asks about it, apologizes inwardly and later recognizes the cost of assisting crime. These responses make Hiromi someone whose fatigue and trust are consequential to Miyo. They do not reveal what all guards think of her, what her institution would judge, or what Hiromi thinks of Miyo's concealed apology. The character should not be filled out by taking every thought about her as a thought she shares. Miyo's attentiveness is positive relational evidence and her concealment is contrary evidence; neither alone supplies Hiromi's complete identity. [HI01:L92,103.]",
+      "source_refs": [
+        "HI01:L92,103."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Miyo's noticing and inward concern are distinct perceptions rather than Hiromi's own knowledge or an institution-wide judgment."
+    },
+    {
+      "claim_id": "HC013",
+      "physical_line": 41,
+      "complete_literal_paragraph": "**HC013.** Public and private behavior meet without a printed double life. Hiromi's guard responsibility remains present during a familiar literary encounter, while the encounter permits relaxation. The source thereby distinguishes a person's work from the way she relates to a peer, even if it does not narrate a private household, a complete hobby archive or a wholly off-duty day. Her personal confidence is part of the action's meaning, not a decorative pause between guard events. This distinction cannot be turned into proof that she privately rejects enforcement or holds the same smuggling ethic as the traders. [HI01:L92.]",
+      "source_refs": [
+        "HI01:L92."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Literary familiarity and professional duty remain personal modes without inventing a private household, all-day off-duty scene or shared smuggling ethic."
+    },
+    {
+      "claim_id": "HC014",
+      "physical_line": 43,
+      "complete_literal_paragraph": "**HC014.** Concealment in the scene belongs principally to the information Hiromi lacks about Miyo's activity. She is not shown concealing a personal crime from the guards, engineering a cover story or knowingly leaking a secret for illicit profit. The later copied warning and reported relaxation of confidentiality are separate source facts with their own speaker and custody limits. They do not retroactively make the friendly exchange an authorized criminal collaboration. A full public/private distinction here concerns what a trusted conversation lets Hiromi believe and disclose while her public task persists, with no invented guilty motive required. [HI01:L92–94,103.]",
+      "source_refs": [
+        "HI01:L92–94,103."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Concealment is information she lacks; copied warning and Miyo's confidentiality report do not establish Hiromi's knowingly illicit disclosure."
+    },
+    {
+      "claim_id": "HC015",
+      "physical_line": 47,
+      "complete_literal_paragraph": "**HC015.** Hiromi occupies a deputy role, knows the exhibition's warning context and supplies relevant information when asked. These are affirmative signs of situated participation in guard work. The redistribution of duties is not, by itself, her personal failure to remember smuggling enforcement. The institution's attention and the exhibition's demands structure what she can do. Her information matters to the club, but usefulness to an adversary is not proof that her professional knowledge is trivial. The character argument can preserve actual knowledge and an actual task without issuing a general performance assessment for every guard operation. [HI01:L92–94.]",
+      "source_refs": [
+        "HI01:L92–94."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Actual relevant knowledge and duty participation are retained; institutional workload is not automatically her personal performance failure."
+    },
+    {
+      "claim_id": "HC016",
+      "physical_line": 49,
+      "complete_literal_paragraph": "**HC016.** The later obstruction is enacted through preparations, systems, smoke and traps. It supplies adversarial interference with Hiromi's work rather than an inspected causal diagnosis that her fatigue made her careless or her literary affection made her incompetent. Nor does it establish capture, a completed arrest, a known injury or permanent inability to guard an exhibition. A mistaken relational premise is relevant, but the passage does not supply a full causal chain by which her particular information transfer caused every later trap. The analysis keeps the sequence and limits together: she knows, shares, and is later affected, with universal fault or flawless competence both unsupported. [HI01:L92–103,139.]",
+      "source_refs": [
+        "HI01:L92–103,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Adversarial systems and traps constrain work without proving fatigue caused every obstruction, a completed arrest, injury or permanent incapacity."
+    },
+    {
+      "claim_id": "HC017",
+      "physical_line": 53,
+      "complete_literal_paragraph": "**HC017.** Guard duty places Hiromi on a side of an art-security problem without printing her complete theory of it. Other speakers debate theft protection, ownership and access; the theatrical guard's assertion about silence rights is not a doctrine that can be assigned to Hiromi because she also guards. Her actual role and warning-sharing do not prove she endorses every institutional restriction or the thief's alternative. This ethical dimension has meaningful limits: she is a person doing the represented work, while universal legality, policy preference and a mandate for every use of force remain unreceived. [HI01:L92,101–103,116,123,130.]",
+      "source_refs": [
+        "HI01:L92,101–103,116,123,130."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "A guard role cannot inherit another theatrical guard's art/property or rights doctrine; ethical responsibility keeps its represented scope."
+    },
+    {
+      "claim_id": "HC018",
+      "physical_line": 55,
+      "complete_literal_paragraph": "**HC018.** The clearest ethical issue affecting her is that valued trust and professional work are placed under unequal information. Miyo's concern about her voice and inward apology have genuine interpersonal force, yet the club obstructs the guard. That coexistence prevents either all kindness or all manipulation from becoming the only description. Hiromi's response is not supplied, so a claim that she consents to sacrifice her work for friendship would erase the very information gap. Likewise the wish that nobody be injured cannot stand for her bodily safety or permission. The character remains an affected recipient whose eventual judgment and remedy are open. [HI01:L92,103,139.]",
+      "source_refs": [
+        "HI01:L92,103,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Miyo's attentiveness and covert obstruction coexist; wanted kindness neither supplies Hiromi's informed assent nor a bodily safety endpoint."
+    },
+    {
+      "claim_id": "HC019",
+      "physical_line": 59,
+      "complete_literal_paragraph": "**HC019.** Hiromi's literary familiarity and the ease of speaking with Miyo are substantive character evidence. They explain why the encounter matters to her, independently of the letter's later plot usefulness. A reader can care about another reader's tired day without making the interaction a strategic resource or a foreshadowing device only. The account does not specify her favorite genre, preferred author, private manuscript or daily reading schedule. That uncertainty leaves a modest but affirmative ordinary repertoire: she is a literature peer, she can relax with this friend, and the friend's noticing invites an actual exchange. These goods need no later crisis payoff to become valuable. [HI01:L92,125,139.]",
+      "source_refs": [
+        "HI01:L92,125,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Literary ease has intrinsic value before the letter's plot use; specific genres, authors, manuscripts and daily routines remain unreceived."
+    },
+    {
+      "claim_id": "HC020",
+      "physical_line": 61,
+      "complete_literal_paragraph": "**HC020.** The surrounding source includes comic commercial confidence, dangerous ingenuity and art-lover disagreements, but those do not automatically become Hiromi's humor or enjoyment. Her subdued voice and fatigue should not be rewritten as comic enthusiasm because other characters are funny. Conversely the lack of a complete joke repertoire does not reduce her to a solemn duty machine. The ordinary scene provides a valued conversational alternative, while later disruption remains a cost. Neither slapstick framing nor the traders' café ending authenticates harmlessness for her or establishes that she laughs about being obstructed. [HI01:L90–103,118,139.]",
+      "source_refs": [
+        "HI01:L90–103,118,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Surrounding comic events are not Hiromi's humour or enjoyment; no laughter, harmlessness or café pleasure is transferred to her."
+    },
+    {
+      "claim_id": "HC021",
+      "physical_line": 65,
+      "complete_literal_paragraph": "**HC021.** Hiromi's relation to the Dormitory Guard is supplied through present deputy status and changing work priorities. Exhibition guarding crowds out smuggling enforcement, making the institution's competing functions visible through a particular worker. This is a concrete attachment rather than a verified recruitment history or a claim that she chose every burden. Her personal literary relation crosses the work boundary without adding her to the Special Trading Club. The argument therefore retains guard identity and friendship together, without treating an affectionate encounter as membership transfer or knowing allegiance to the club's operation. [HI01:L69,92–103.]",
+      "source_refs": [
+        "HI01:L69,92–103."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Deputy work and literary confidence remain distinct affiliations without a club membership transfer or recruitment history."
+    },
+    {
+      "claim_id": "HC022",
+      "physical_line": 67,
+      "complete_literal_paragraph": "**HC022.** Nothing in the available afterstate gives Hiromi a completed departure, promotion, institutional sanction or relief from guarding. The public art comparison and local client removal resolve other portions of the event; concealment of the trading club and its continuing daily life are not guard reform or Hiromi's personal assent. A comprehensive account of her belonging would need relevant further evidence of her terms, choices and work. The present character home can still support a substantial argument about ordinary affiliation under pressure, while its wider institutional and private history remains genuinely incomplete. [HI01:L114–118,125–139.]",
+      "source_refs": [
+        "HI01:L114–118,125–139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Public success and continued trading-club life leave her workload, promotion, departure and later personal terms unprinted."
+    },
+    {
+      "claim_id": "HC023",
+      "physical_line": 71,
+      "complete_literal_paragraph": "**HC023.** The maintained source does not supply a developed personal relationship between Hiromi and Teacher. The adult is an injured visitor, monitor, trust-giver, cake provider and outing facilitator for other participants, but those roles cannot be distributed to Hiromi by proximity to the same event. Her trusted encounter is with Miyo, and the later guard interference affects her work. The character dimension concerning Teacher is thus an explicit limited result rather than a missing heading: no direct personal care, address, request, confidence or completed mediation for Hiromi is established by the received passage. [HI01:L74–87,92–105,116–118.]",
+      "source_refs": [
+        "HI01:L74–87,92–105,116–118."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "The adult's injury, monitoring, cake and trust elsewhere do not supply a direct Hiromi relationship; this is a local receiving limit."
+    },
+    {
+      "claim_id": "HC024",
+      "physical_line": 73,
+      "complete_literal_paragraph": "**HC024.** Teacher's nonauthentication and the eventual public wager nevertheless form part of the event around the problem affecting Hiromi. They can be described as context without granting her knowledge of the conversation, agreement with the public test or relief from guard burdens. The adult's general trust in students is not Hiromi's trust in Miyo, and the two cannot repair each other by analogy alone. Any stronger claim of personal reconciliation, institutional intervention on her behalf or restored confidence would require an actual Hiromi interaction and endpoint. Until then this dimension remains source-bounded, with no categorical global absence certificate. [HI01:L92–118,139.]",
+      "source_refs": [
+        "HI01:L92–118,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Public wager context is kept separate from Hiromi knowing or endorsing it; no universal absence or analogical trust restoration is asserted."
+    },
+    {
+      "claim_id": "HC025",
+      "physical_line": 75,
+      "complete_literal_paragraph": "**HC025.** Miyo is the significant peer relationship actually developed here. Literary familiarity, ease, attention to a subdued voice, questioning and warning-sharing give it affirmative content. The relation is not exhausted by its informational use: a person can be sincerely attentive while still withholding consequential involvement. Hiromi's belief in noninvolvement differentiates her position from Miyo's inward apology and concealed plan. That asymmetry makes the relationship material to Hiromi's character, with no need to impose romance, a complete origin story or a universally affectionate response to every later act. [HI01:L92–103.]",
+      "source_refs": [
+        "HI01:L92–103."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "The actual developed peer is Miyo, whose attention and concealment preserve asymmetric knowledge without adding romance or origin biography."
+    },
+    {
+      "claim_id": "HC026",
+      "physical_line": 77,
+      "complete_literal_paragraph": "**HC026.** The source does not make Fuyu and Ritsu Hiromi's interchangeable trusted friends. Their preparations and systems contribute to obstruction, and they belong to the collaborative operation affecting her, but the literary intimacy is specifically with Miyo. Nor does the thief's guard performance supply Hiromi's own aesthetic philosophy or identity. Preserving those distinct positions protects the character from becoming merely the fourth person in a uniform art-loving ensemble. A complete network would need actual further interactions; the present event instead supplies one developed peer confidence and several consequential operational relations with different information and permission scopes. [HI01:L69,92,101–103,123.]",
+      "source_refs": [
+        "HI01:L69,92,101–103,123."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Fuyu/Ritsu's operational involvement is distinguished from Miyo's literary intimacy; the theatrical guard remains a separate actor and position."
+    },
+    {
+      "claim_id": "HC027",
+      "physical_line": 81,
+      "complete_literal_paragraph": "**HC027.** Miyo's noticing of Hiromi's subdued voice is usable as a written account of communicative change and attentiveness. It motivates the question and the disclosure that follows. It does not constitute the author's receiving of an actor's timbre, volume, pause length or fatigue in audio. The source's represented voice description can support a finite claim about how this encounter is written; it cannot sustain a full performed-persona or clinical interpretation. Respecting that limit does not discard the line's value: it is one reason Hiromi's burden becomes visible to another person. [HI01:L92,123,132.]",
+      "source_refs": [
+        "HI01:L92,123,132."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "A written subdued voice explains noticing and questioning, with no actor timbre, performed fatigue or clinical vocal interpretation."
+    },
+    {
+      "claim_id": "HC028",
+      "physical_line": 83,
+      "complete_literal_paragraph": "**HC028.** A complete Japanese register profile is not supplied by this maintained Hiromi passage. Source-local role naming and the reported conversational exchange are retained without guessing a first-person pronoun, stable honorific pattern, private variant identity or complete writing voice. The event contains explicit drifting actor labels that must not be silently repaired into Hiromi dialogue. A later source-specific register argument may become possible, but it requires its own adequate written or performed receiving. This character body addresses the dimension by distinguishing what is actually represented from the repertoire still unreceived, without inventing quotation or a global identity join. [HI01:L69,92,123,132,137–139.]",
+      "source_refs": [
+        "HI01:L69,92,123,132,137–139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Japanese register and drifting tags remain source-local limitations rather than invented pronouns, stable voice or identity repair."
+    },
+    {
+      "claim_id": "HC029",
+      "physical_line": 87,
+      "complete_literal_paragraph": "**HC029.** The event has a local progression for Hiromi's situation: the fatigued literary encounter and warning-sharing precede the club's actual guard obstruction. This materially changes the relation between what she believes and what happens to her work. It is not a received development arc in which she learns a lesson, changes allegiance or forgives Miyo. The later public comparison and café scenes do not contain her completed response. A longitudinal dimension can therefore identify changing circumstances and a missing perspective without projecting a whole-person growth trajectory onto the source's chronological order. [HI01:L92–118,121,139.]",
+      "source_refs": [
+        "HI01:L92–118,121,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Local changed circumstances are meaningful without inventing a learning, allegiance or forgiveness arc."
+    },
+    {
+      "claim_id": "HC030",
+      "physical_line": 89,
+      "complete_literal_paragraph": "**HC030.** The actual local ordering is narrower than a calendar joining every source class. The report places the encounter in the morning sequence, later research and evening operation, and a next-day exhibition, while the café date is not fixed. It supplies no private chronology against Hiromi's other pools or a repeated-event identity certificate. Her duty and confidence should be interpreted through the received local sequence, rather than imported later revelations. Wider development remains open because additional meaningful evidence has not been received for this home, not because ordinary scenes are presumed insignificant or crisis alone defines a character. [HI01:L121,125,137–139.]",
+      "source_refs": [
+        "HI01:L121,125,137–139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Morning/operation/next-day exhibition order is retained while café date and wider MAIN/private calendar remain open."
+    },
+    {
+      "claim_id": "HC031",
+      "physical_line": 91,
+      "complete_literal_paragraph": "**HC031.** Positive counterevidence matters against a victim-only reading. Hiromi holds a responsible role, participates in a trusted exchange and supplies relevant information; she also finds ease with a literature peer. These are actual forms of presence rather than no agency until a later confrontation is shown. The contrary evidence remains equally concrete: knowledge is mistaken and work is obstructed. Keeping both avoids an artificial choice between entirely powerless victim and knowing accomplice. Neither office nor information-sharing is universal independence, but neither should vanish because the account leaves later redress unknown. [HI01:L92–103.]",
+      "source_refs": [
+        "HI01:L92–103."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Situated agency and responsible participation counter a victim-only account without erasing mistaken knowledge or obstruction."
+    },
+    {
+      "claim_id": "HC032",
+      "physical_line": 93,
+      "complete_literal_paragraph": "**HC032.** The strongest limit on a fully trusting or safely cared-for reading is not the absence of kindness. It is the source's specific distinction between Miyo's attention, inward apology, concealed involvement and actual obstruction. No apology heard or injury avoided is established simply because the giver wants well. A later relation might change, but it cannot be narrated now as repaired. At the same time, no printed betrayal discovery or lasting hatred permits the opposite absolute conclusion. The character's received condition is affected and underinformed, with real ordinary confidence and a future response left open. [HI01:L92,103,139.]",
+      "source_refs": [
+        "HI01:L92,103,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Kindness, inward apology and interference oppose total safety or repaired trust, while no lasting hatred or betrayal revelation is supplied."
+    },
+    {
+      "claim_id": "HC033",
+      "physical_line": 95,
+      "complete_literal_paragraph": "**HC033.** Every direct argument here depends on one maintained written contextualization account. The author previously personally received its full139 lines and has now read the complete necessary Hiromi passages and context for this new target. The producer's twelve Japanese canonical-object readings and provenance remain attributed. Current Cycle008 adoption qualifies older creation-stage intake and proposal language; it does not turn this author into a new primary reader. This distinction permits deep synthesis from an adequate maintained route while preventing a thin citation from certifying unreceived private pools, performed voice, exhaustive appearance or whole-character reconstruction. [HI01:L33–35,67–69,125,137–139.]",
+      "source_refs": [
+        "HI01:L33–35,67–69,125,137–139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "One maintained argument and its producer's underlying receipts are explicitly separated; source-class boundaries do not disappear through reuse."
+    },
+    {
+      "claim_id": "HC034",
+      "physical_line": 97,
+      "complete_literal_paragraph": "**HC034.** Reused common105 report meanings can later test ordinary value, unequal knowledge, fatigue, refusal and repair, but they do not put their actors into Hiromi's scene. They must receive new Hiromi-specific questions and finite judgments before being counted as this home's purpose work. The original contributor26 whole/79 selected and ROOT report-receiving scopes remain separate, with the six-source61767 qualification and published coffee-direction59334 module limited to their declared uses. A character body is ready for independent literary receiving now; that readiness does not settle new105, a final literal register, ROOT adoption, installation, publication or a milestone. [HI01:L125,137–139; method:L363–376.]",
+      "source_refs": [
+        "HI01:L125,137–139; method:L363–376."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Comparative report meanings require later new target judgments and cannot grant attendance or finish components/adoption."
+    },
+    {
+      "claim_id": "HC035",
+      "physical_line": 101,
+      "complete_literal_paragraph": "**HC035.** **Hiromi is merely a guard obstacle in Miyo's plot.** Later obstruction and the warning's usefulness give this reading narrative force. It loses her fatigue, literary familiarity, confidence and opportunity to relax if those become only mechanisms for clever planning. The ordinary conversation has an affected recipient with her own burden before it produces an operational resource. A stronger account keeps guard work and valued peer ease together, while admitting the available event cannot supply her entire private life. [HI01:L92–103.]",
+      "source_refs": [
+        "HI01:L92–103."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "The obstacle rival recognizes operational usefulness but is challenged by an affected person's wanted ordinary encounter."
+    },
+    {
+      "claim_id": "HC036",
+      "physical_line": 103,
+      "complete_literal_paragraph": "**HC036.** **Her trust demonstrates gullibility or professional incompetence.** The belief in Miyo's noninvolvement is mistaken, and sharing the warning is consequential. Those facts support a specific knowledge failure rather than no failure at all. They do not audit every judgment, appointment or causal contribution to the traps. Institutional workload, familiar literary company and covert preparation are also supplied. A general incompetent essence would replace these actual conditions with an unreceived trait; a flawless portrait would erase the mistaken premise. The finite account preserves both the local error and meaningful competence. [HI01:L92–103.]",
+      "source_refs": [
+        "HI01:L92–103."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "The incompetence rival keeps a local knowledge error but lacks a full performance/causal/trait audit; actual competence and workload also count."
+    },
+    {
+      "claim_id": "HC037",
+      "physical_line": 105,
+      "complete_literal_paragraph": "**HC037.** **Sharing the letter makes her an accomplice.** The transfer helps Miyo and therefore has real operational importance. Yet Hiromi believes Miyo uninvolved; copied text and confidentiality are separately reported, and no knowingly illicit agreement is shown. The later club obstruction is not her authored plan or accepted role. Knowing complicity would require her received knowledge and actual choice in that context. Her agency in a trusted exchange remains, without being transformed into criminal assent by the usefulness of its result to someone else. [HI01:L92–94,103.]",
+      "source_refs": [
+        "HI01:L92–94,103."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Letter-sharing is consequential agency without demonstrated knowingly illicit assent or a global confidentiality waiver."
+    },
+    {
+      "claim_id": "HC038",
+      "physical_line": 107,
+      "complete_literal_paragraph": "**HC038.** **Literary affection means the trust is safe or already repaired.** Relaxation and attention are genuinely positive; they are not counterfeit just because concealment follows. But Miyo's apology stays inward and Hiromi's confidence rests on mistaken noninvolvement. Actual interference with her work remains, with no confession, discovery, accepted apology or altered terms printed. The relation can contain affection without a completed safety or repair endpoint. This rival fails when a valued feeling substitutes for the information and response a recipient has not been given. [HI01:L92,103,139.]",
+      "source_refs": [
+        "HI01:L92,103,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Affection supports a positive encounter but lacks confession, received apology or implemented repair; the competing ethical reading stays specific."
+    },
+    {
+      "claim_id": "HC039",
+      "physical_line": 109,
+      "complete_literal_paragraph": "**HC039.** **Fatigue explains the obstruction and establishes burnout or harm.** Work displacement and tiredness make burden a serious part of the character, rather than a negligible detail. The obstruction is also enacted through adversarial traps and systems. No examination, measured condition or source-resolved causal link makes fatigue the complete explanation, and no printed injury or cure follows Miyo's wish for safety. The stronger reading retains ordinary exhaustion and the need for relief at their actual written scopes while leaving clinical and causal amplifications unresolved. [HI01:L92,103,139.]",
+      "source_refs": [
+        "HI01:L92,103,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Fatigue matters but adversarial action and absent examinations prevent burnout, injury or complete causal diagnosis."
+    },
+    {
+      "claim_id": "HC040",
+      "physical_line": 111,
+      "complete_literal_paragraph": "**HC040.** **The deputy title makes her a representative of every coercive school rule.** Her office and enforcement duties supply institutional responsibility, so they should not disappear into private friendship. Other actors' entry rules, property arguments and theatrical rights assertions, however, are not automatically her beliefs or decisions. No complete charter or personal policy testimony is received. A situated worker can be part of enforcement without this scene certifying every school law, aesthetic position or use of force as her chosen doctrine. The character remains distinct from the institution's entire conduct. [HI01:L76,92,101–103,116,123,130.]",
+      "source_refs": [
+        "HI01:L76,92,101–103,116,123,130."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Institutional work remains responsibility without adopting every other actor's school rule, art doctrine or force."
+    },
+    {
+      "claim_id": "HC041",
+      "physical_line": 113,
+      "complete_literal_paragraph": "**HC041.** **The public art outcome vindicates the interference with Hiromi.** Actual spectator response and the thief's concession establish a real local achievement. They do not narrate Hiromi's knowledge, approval, relieved guard burden or restored confidence. The consequence for another recipient cannot be assigned to her simply because the event's central puzzle receives an ending. A successful public test may coexist with an unprinted private repair and unchanged duty. This keeps the positive artistic result intact while refusing an all-recipient ethical acquittal. [HI01:L103–118,139.]",
+      "source_refs": [
+        "HI01:L103–118,139."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Public art success remains a real other-party outcome and cannot become Hiromi's consent, relieved duty or restored confidence."
+    },
+    {
+      "claim_id": "HC042",
+      "physical_line": 115,
+      "complete_literal_paragraph": "**HC042.** **Sparse private evidence prevents any substantial character argument.** Wider history, explicit inner vocabulary and later response are genuinely missing, and this monograph cannot become a whole-person model. It nevertheless has specific work priorities, literary confidence, represented fatigue, an information act, a mistaken belief and a later affected task. Those form a meaningful distinct argument when their actors and modes are kept separate. The right finite result is an accepted scoped question ready for literary review, with broader receiving still required; neither a heading-only completion nor discarding low-stakes relational evidence follows. [HI01:L92–103,125,137–139; method:L345–376.]",
+      "source_refs": [
+        "HI01:L92–103,125,137–139; method:L345–376."
+      ],
+      "disposition": "ACCEPT_WRITTEN_SOURCE_SCOPED_ARGUMENT_WITH_LIMITS",
+      "manual_reason": "Sparse private breadth prevents a whole-person model, while actual work, confidence, knowledge and burdens support this substantial scoped argument."
+    }
+  ],
+  "complete16_manual_method_concern_dispositions": [
+    {
+      "concern": "core_contradiction",
+      "actual_claims": [
+        "HC003",
+        "HC004"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Literary ease and restricted knowledge meet obstructed duty without a fabricated guilty wish."
+    },
+    {
+      "concern": "explicit_goals",
+      "actual_claims": [
+        "HC005",
+        "HC006"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Present work/information response distinguish actual professional context from unreceived lifelong ambition."
+    },
+    {
+      "concern": "implicit_needs",
+      "actual_claims": [
+        "HC007",
+        "HC008"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Relief and informed confidence are carefully labelled local analytical implications, not stated demands, diagnoses or exclusive dependency."
+    },
+    {
+      "concern": "fears_wounds_shame_unresolved_obligations",
+      "actual_claims": [
+        "HC009",
+        "HC010"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Fatigue and thwarted work remain actual; shame, known betrayal, medical injury and recovery remain unprinted."
+    },
+    {
+      "concern": "self_concept_vs_others_perception",
+      "actual_claims": [
+        "HC011",
+        "HC012"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Role/localbelief distinguish her limitedselfdescription from Miyo noticing/apology and unknown institutional judgment."
+    },
+    {
+      "concern": "public_role_vs_private_behavior",
+      "actual_claims": [
+        "HC013",
+        "HC014"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Work and peerconfidence coexist; missing information is not Hiromi concealing guilt or adopting smuggling ethics."
+    },
+    {
+      "concern": "competence_failure",
+      "actual_claims": [
+        "HC015",
+        "HC016"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Relevant knowledge and duties remainaffirmative, with actual interference but no universal incapacity or inspected singlecause."
+    },
+    {
+      "concern": "ethics_power",
+      "actual_claims": [
+        "HC017",
+        "HC018"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "She is an affected worker and trustedrecipient; otherguards law/art assertions and Miyo safetywish are not her policy or assent."
+    },
+    {
+      "concern": "humor_ordinary_life",
+      "actual_claims": [
+        "HC019",
+        "HC020"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Literary company is intrinsic beforeplotpayoff; othercharacters humour/café enjoyment do not become hers."
+    },
+    {
+      "concern": "school_club",
+      "actual_claims": [
+        "HC021",
+        "HC022"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Deputywork and displacedpriorities imply presentbelonging, with no recruitment, promotion, departure, rolechoice or clubmembership transfer."
+    },
+    {
+      "concern": "Sensei",
+      "actual_claims": [
+        "HC023",
+        "HC024"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Otherparticipants adultcare iscontext, not a received personalHiromi relation or a globalabsence claim."
+    },
+    {
+      "concern": "significant_peers",
+      "actual_claims": [
+        "HC025",
+        "HC026"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Miyo actualliteraryrelation remainsdistinct from Fuyu/Ritsu operational roles and theatrical guard identity."
+    },
+    {
+      "concern": "Japanese_register",
+      "actual_claims": [
+        "HC027",
+        "HC028"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Written subduedvoice has narrative function without performed acoustics, inventedpronouns or silentlyrepairedtags."
+    },
+    {
+      "concern": "longitudinal",
+      "actual_claims": [
+        "HC029",
+        "HC030"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Localchangedcircumstance doesnot supply learning/forgiveness or a crosssourcecalendar."
+    },
+    {
+      "concern": "contradictions_counterevidence",
+      "actual_claims": [
+        "HC031",
+        "HC032"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "Actualknowledge,sharing and ordinaryease countervictim-only; actualconcealment/obstruction counter safe/fullyinformed readings."
+    },
+    {
+      "concern": "source_class_dependence",
+      "actual_claims": [
+        "HC033",
+        "HC034"
+      ],
+      "disposition": "SUBSTANTIVELY_ADDRESSED_AT_PRINTED_OR_EXPLICITLY_LIMITED_SCOPE",
+      "reason": "One maintainedeventargument/selectedcontext/producerprimary attribution explicitly exclude unavailablecredit from privatepools/commonreport reuse."
+    }
+  ],
+  "eight_serious_rival_result": "HC035–042 personally received fully. Each rival has an actual favourable warrant and particular adverse or incomplete evidence: obstacle-only/gullible/accomplice/safetrust/clinicalfatigue/totalinstitutionalrepresentative/publicsuccessacquittal/noargumentwithsparseprivateevidence. No rival is rejected merely by a header or formalcount; real ordinarycompany and work retain value alongside cost and uncertainty.",
+  "complete16_finite_retrospective_endpoint_dispositions": [
+    {
+      "physical_line": 123,
+      "complete_literal_row": "| HE01 | Deputy status is reported at HI01:L69/92. Appointment, recruitment and a complete formal mandate are not received. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 124,
+      "complete_literal_row": "| HE02 | Exhibition guarding crowds out smuggling enforcement at L92. This is work priority, not Hiromi's permanent chosen career or a completed all-duty audit. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 125,
+      "complete_literal_row": "| HE03 | Fatigue is represented/reported at L92. No clinical burnout, measured sleep deficit or cause of every later obstruction is established. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 126,
+      "complete_literal_row": "| HE04 | She can relax with Miyo because she believes her uninvolved at L92. This is local ease, not actual leave, completed sleep or sustained recovery. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 127,
+      "complete_literal_row": "| HE05 | Literature-peer familiarity has ordinary value at L92. No specific favorite genre, new manuscript or complete private reading pool is supplied. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 128,
+      "complete_literal_row": "| HE06 | Miyo notices a subdued voice and asks at L92. Written attention is received; acting/acoustics and certified vocal symptoms are not. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 129,
+      "complete_literal_row": "| HE07 | Hiromi shares the thief warning at L92. Knowing criminal collaboration, global secrecy waiver or a complete chain of causation does not follow. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 130,
+      "complete_literal_row": "| HE08 | Hiromi's noninvolvement belief is mistaken within L92–103. No scene of her discovering that error or making a later judgment is printed. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 131,
+      "complete_literal_row": "| HE09 | Miyo apologizes inwardly at L92. A spoken apology, Hiromi's hearing, acceptance or forgiveness is unperformed here. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 132,
+      "complete_literal_row": "| HE10 | Original guard-held warning, Miyo's copy and reported confidentiality relaxation are distinguished at L94. Hiromi's independent authorization of every later use is not shown. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 133,
+      "complete_literal_row": "| HE11 | Traps/smoke actually obstruct guards and Hiromi at L103. Capture, completed arrest, permanent incapacity or full guard-operation failure is not certified. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 134,
+      "complete_literal_row": "| HE12 | Miyo thinks no injury should occur at L103. This is not Hiromi's agreement, a medical result or an all-victim safety inspection. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 135,
+      "complete_literal_row": "| HE13 | The public art comparison succeeds locally at L114. Hiromi's personal trust restoration or relieved workload is not its narrated endpoint. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 136,
+      "complete_literal_row": "| HE14 | Tree obstruction obtains a hearing at L109 and affects another escape choice. It is not an act or consent automatically assigned to Hiromi. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 137,
+      "complete_literal_row": "| HE15 | The traders enjoy a café while profit/exit remain limited at L118. Hiromi is not given that scene's pleasure or a completed repaired friendship. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    },
+    {
+      "physical_line": 138,
+      "complete_literal_row": "| HE16 | Morning encounter, later operation and next-day exhibition provide local context at L121. They do not establish a complete private chronology or stable longitudinal character transformation. |",
+      "disposition": "ACCEPT_EXACT_RECEIVED_ENDPOINT_WITH_DECLARED_STRONGER_LIMIT"
+    }
+  ],
+  "complete14_original_gap_dispositions": [
+    {
+      "physical_line": 146,
+      "complete_literal_row": "| G01 Ordinary and private breadth | Literature and wanted conversational ease are meaningful; complete Hiromi private/written repertoire remains unreceived. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    },
+    {
+      "physical_line": 147,
+      "complete_literal_row": "| G02 Yuuka council/club decision transfer | Information asymmetry and workload here do not supply new Yuuka decisions or close her duty. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    },
+    {
+      "physical_line": 148,
+      "complete_literal_row": "| G03 Serika service, peer and reciprocity range | Warning-sharing and trusted company are comparisons, not Serika service completion. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    },
+    {
+      "physical_line": 149,
+      "complete_literal_row": "| G04 Hina crisis causality, accountability and ordinary contrast | Tired guarding and uninspected safety do not resolve Hina's separate cause or recovery claims. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    },
+    {
+      "physical_line": 150,
+      "complete_literal_row": "| G05 Arius and PS68 ordinary/aftermath transfer | Concealed cooperation and burdens here do not settle their distinct aftermath, pay or consent. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    },
+    {
+      "physical_line": 151,
+      "complete_literal_row": "| G06 Cross-school ordinary repertoire | Hiromi's local literary ease matters without completing every school's ordinary character pool. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    },
+    {
+      "physical_line": 152,
+      "complete_literal_row": "| G07 Story-world chronology | Local encounter/operation order is retained; other MAIN/private ordering and café date remain unresolved. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    },
+    {
+      "physical_line": 153,
+      "complete_literal_row": "| G08 Event naming and repeat contexts | The maintained twelve-object EVENT850 scope does not admit unreceived UI/reissue/family variants. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    },
+    {
+      "physical_line": 154,
+      "complete_literal_row": "| G09 Written speaker/choice attribution | Hiromi belief, Miyo inward apology/safety thought and reported warning custody remain distinct; drifting labels are not silently repaired. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    },
+    {
+      "physical_line": 155,
+      "complete_literal_row": "| G10 Performed voice | Written subdued voice is meaningful; no actor performance, acoustics or native timing received. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    },
+    {
+      "physical_line": 156,
+      "complete_literal_row": "| G11 Hoshino's Yume record and office states | Trust and office comparisons here do not authenticate that notebook or complete Hoshino's office history. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    },
+    {
+      "physical_line": 157,
+      "complete_literal_row": "| G12 Counterpart, system and variant identity | No Hiromi private/global join or Milia/Akira registry promotion follows source-local role context. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    },
+    {
+      "physical_line": 158,
+      "complete_literal_row": "| G13 Office, contract, safety and technical outcomes | Guard authority, confidentiality terms, injury outcome, actual discovery/repair and relieved work remain source-specific and incomplete. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    },
+    {
+      "physical_line": 159,
+      "complete_literal_row": "| G14 Unclassified/mode continuity | Current maintained analytical adoption is retained; no new primary/private/raw/native/AV continuity is added. OPEN. |",
+      "disposition": "OPEN_ORIGINAL_IDENTITY_RETAINED"
+    }
+  ],
+  "overall_literary_reason": "The character argument is substantial ratherthan a role synopsis: it differentiates Hiromi subjectivity, represented confidence, ordinary ease, knowledge acts and competing duties from Miyo inward thoughts, otherclub operational agency, the adult elsewhere and publicart outcomes. Limited desire/selfportrait/register/development are genuinely addressed as unknownspecificreceiving, without inventedbiography or categoricalabsence. The recurring sourceboundaries are meaningful because the source permitsdeep interpretation of a small relation while withholding discovery, apologyheard, injuryinspection and relief. This is a scoped currentcharacterhome argument, never a wholeperson prediction/model or substituted institutional/ensemble completion.",
+  "current_body_V1_V2_preservation": "Three already-author-repaired actor/scope precisions and four metadata trailing-space line changes are source-supported and actual7operations fully reversed/forward to immutableoriginal37772. Current42literal/sourcebindings and167lines/end16/gap14 matchactualbody. No candidate/body/source mutation by reviewer; no remaining supportedprecision found.",
+  "mechanical_receipt": {
+    "C_path": "HIROMI-QA-CONTROL-905ad05479e6fa24",
+    "bytes": 14770,
+    "sha256": "4a957eb590d91996f50e1868b4ace1ae39173ac404e4b6888f6c1dc63957e46f",
+    "git_blob_oid_of_actual_bytes": "df7dd9bb3230ee0867f381e9ce914d88c5bc3d9c",
+    "actual_tool": "0a1035",
+    "checks": 182,
+    "failure_count": 0,
+    "role": "Raw/literal/custodychecks do not bythemselves grantliterary or sourcecredit."
+  },
+  "stage_and_exclusions": {
+    "existing_home": "P3-CHAR-HIROMI-ART-COMMERCE-SOURCE-SCOPED",
+    "required_CSV_physical_line": 335,
+    "mandatory_named_duty": null,
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "merge": "RESERVED",
+    "new105_five_field_purpose_judgments": "NOT_REVIEWED_BY_THIS_BODY_ONLY_QA;authorlaterfinal8 preparation remains separatelypendingreview/allocation.",
+    "complete_final8_source_purpose_transport_graph": "NOT_REVIEWED;body-only literalbinding/rawinverse is not fullcomponents.",
+    "ROOT_receiving_and_adoption_installation_publication_newheadCI_MAIN": "PENDING_SEPARATE_ROOT_GATES;not inferred from thisbodypass.",
+    "new_source_primary_private_native_raw_AV_identity_registry_model_named_package_credit": 0,
+    "R_Git_provider_sharedmetadata_or_protected_body_operations": 0
+  }
+}

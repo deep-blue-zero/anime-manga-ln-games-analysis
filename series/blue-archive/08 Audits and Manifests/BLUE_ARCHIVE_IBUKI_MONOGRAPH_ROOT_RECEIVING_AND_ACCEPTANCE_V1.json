@@ -1,0 +1,246 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Ibuki",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IBUKI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_IBUKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5338,
+    "sha256": "90d194afed633778c1e32e4173f3e9838a2e42afba278565a652cd9762dca843",
+    "git_blob_oid_of_actual_bytes": "f83fdb53686af9c7a1cae3f51ccf433d2cf9ef55",
+    "lines": 75
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_IBUKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS_AND_EXPLICIT_SCOPE_QUALIFICATION",
+    "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "a32b180359ed1ba07758b3eebd2457ade3381a05c3552fe49541df8f8cd0f0dd",
+    "frozen_outputs_verified": 4,
+    "prior_frozen_payloads_preserved": 93,
+    "separate_Kasumi_supplement_payloads_preserved": 2,
+    "exact_unique_binding_pairs_verified": 159,
+    "public_arguments_equal_current_main_c1_old_and_new_published_source": 17,
+    "effective_private_arguments": 13,
+    "separate_comparison_arguments": 1,
+    "selected_private_objects_integrity_only": 20,
+    "saved_nonempty_lines_joined": 91,
+    "substantial_sections": 11,
+    "ROOT_actual_receiving": {
+      "whole_body": [
+        "b224fe1–80",
+        "5ff7ab81–147EOF"
+      ],
+      "whole_readable_receipt": "e8a7cf75EOF",
+      "all_nonarray_controls": "d9a936",
+      "all_private_bindings": "11e3ed",
+      "whole_private_arguments": [
+        "9fadb2IB01–04eachEOF",
+        "5c4e3bIB05–08eachEOF",
+        "6ec2cfIB09–12eachEOF",
+        "71e499IB13whole80EOF",
+        "69f903wholecomparison107EOF"
+      ],
+      "whole_fresh_main_arguments": "848bbaE01137EOF/E02135EOF",
+      "all_five_claim_review_fields": "0cc4d4",
+      "whole_delivery_manifest": "4d3914",
+      "exact_scope_rows": "9e77ee",
+      "adequate_prior_meanings": "ROOT fresh complete E860273 through EOF in Makoto review, accepted MAIN480/Eden/Final/S2 and qualified GROUP190/MINI32/E833/E835 meanings preserve all asserted recipients, failures, material endpoints and source-class limits. No fresh all15 reused-owner replay or inherited primary/native/QA/AV credit.",
+      "dated_snapshots": "Historical346 metadata, author dbabb mutable capture, current92184703 publication and main2e literary owners separately preserved. Historical CSV bytes verified at dated Git snapshots; exact current Ibuki rows unchanged. Cycle008 admission qualifies historical UNADMITTED/frontier language without rewriting it."
+    },
+    "scope_qualification": {
+      "frozen_body_line": 147,
+      "frozen_readable_line": 75,
+      "source_wording_issue": "Distinct mandatory directions are analytical responsibilities; the current scope does not allocate four independent counted Ibuki relationship packages.",
+      "required_canonical_derivative_wording": "Makoto→Ibuki and Iroha→Ibuki remain two substantial named sections in the one counted Pandemonium–Ibuki ensemble package. Ibuki–Sensei and Ibuki–PS68 remain distinct analytical responsibilities in her character account and applicable existing broad Sensei/PS68 homes; mentioning them creates no additional package or named section. Pandemonium roles, resources and selective care has its separate existing institutional package.",
+      "author_frozen_bytes_changed": false,
+      "required_catalog_changed": false,
+      "package_credit": "P3-CHAR-IBUKI only"
+    },
+    "semantic_grounds": [
+      "Particular play, learning, food, shade, clothes, toys, art and companionship have intrinsic value regardless of stakes or completed outcomes.",
+      "Actual failed park destination coexists with fulfilled indoor play; riceball offering is distinct from explicitly shared corn meal. Unfinished collage and failed rake method retain both effort and limited material result.",
+      "Ibuki finds shade and Sensei helps her down; lesson precedes fall/carry/beach return. Neither reversed help nor all-day carry, hospital event, coconut strike or fatigue cure is supplied.",
+      "Actual voiced choice to stay with lonely Makoto, Iroha checking and accepting it, and Makoto removing blame preserve agency without certifying welfare or imposing lifelong care.",
+      "Pudding promise is widened and forgiveness occurs; future compliance and every replacement remain unprinted. PS68 offers chosen company, not a kidnapping or complete custody account.",
+      "E860 help is partial and recipients have independent refusals and burdens. Actual protective diversion/rescue/newboat matter; dream conquests, every pirate fate, reciprocal apology and future cuts remain unperformed or open.",
+      "Unidentified switch/log/headache and qualified legacy speculation remain consequential unresolved leads, not authenticated biology, history, cause or intended ideology.",
+      "Merchant and Valkyrie raw/typed actor seams, inward modes, separate same-group answers, JP/KR quantities/calendar/row-order, ClubNone and registry joins remain literal; written voice fields supply no performance."
+    ],
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "new_primary_native_raw_QA_AV_credit": 0,
+    "scope": "355packages/29namedsections unchanged; existingP3-CHAR-IBUKI/F028/A040 only",
+    "progress": {
+      "previous_ROOTaccepted_packages": 52,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 53,
+      "character_packages": 52,
+      "directed_relationship_packages": 1,
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION_WITH_SCOPE_QUALIFICATION",
+      "published_packages": 47,
+      "published_source_commit": "92184703994a1950a5660654ce52d8516dbe9bf5",
+      "published_source_audit_chain": "SOURCE_SUCCESS_HOUSEKEEPING_SUCCESS_FINAL_FULL_AUDIT_PENDING",
+      "quarter_reached": false
+    },
+    "main_integration": "NONE",
+    "nine_unbound_large": "UNREAD_UNHASHED"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-IBUKI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IBUKI_CHARACTER_MONOGRAPH.md",
+    "bytes": 43728,
+    "sha256": "7ac367657f36350f75fab4c5fc74188809e675e45463582fdcb64f218537f24e",
+    "git_blob_oid_of_actual_bytes": "f77fbf01b34d028a571f9cd92b2fbfd38b3e945a"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "ROOT's independent whole saved receiving, exact source/paragraph verification and canonical adoption remain required before this C-only candidate is accepted.",
+      "new": "ROOT independently received the whole saved argument, verified exact source/paragraph bindings and accepted this complete character boundary with limits and an explicit scope qualification; canonical persistence follows complete ROOT installation.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    },
+    {
+      "old": "Directed Ibuki–Makoto/Iroha/Sensei/PS68 relationships, Pandemonium ensemble and institution/labor/permission/repair analyses, source-specific written-register work and the rest of the eligible cast remain distinct mandatory Phase3 packages within ROOT's355/29 scope.",
+      "new": "Makoto→Ibuki and Iroha→Ibuki remain the two substantial required named sections P3-REL-MAKOTO-IBUKI and P3-REL-IROHA-IBUKI within the one counted P3-ENSEMBLE-PANDEMONIUM-IBUKI-DIFFERENT-DIRECTIONS package. Ibuki–Sensei and Ibuki–PS68 remain distinct analytical responsibilities in her character account and applicable existing broad Sensei/PS68 homes; mentioning them creates no additional package or named section. Pandemonium roles, resources and selective care retain the separate existing P3-INST-PANDEMONIUM-ROLES-RESOURCES-SELECTIVE-CARE institution. Source-specific written-register work and the rest of the eligible cast remain required within the unchanged355/29 catalog.",
+      "kind": "EXPLICIT_ROOT_SCOPE_QUALIFICATION"
+    },
+    {
+      "old": "| Gap | Status and claim-specific limit |\n|---|---|\n| G01 | OPEN — ordinary evidence is represented fully within the selected private family; stronger claims about every hobby, routine, artwork or future outing need additional admitted evidence. Failed park plans and the incomplete collage remain. |\n| G02 | OPEN — recipient directions are preserved for Sensei, Makoto, Iroha, Satsuki, Chiaki and PS68; reciprocal care or local forgiveness does not prove every peer's assent, future compliance or complete relational history. |\n| G03 | OPEN — first-year/age/profile and Pandemonium joins remain documentary fields; no complete office, custody protocol, permission policy or institutional welfare audit is certified. |\n| G04 | OPEN — local story order, recollection and message-relative days are usable; release fields and swimsuit/base order do not settle a complete Main/private/event chronology. |\n| G05 | OPEN — source actors, inward records, narration, generic logs, formal alternatives and exact message groups remain distinct; disputed police/shopkeeper or public speaker seams cannot yield secure individual speech. |\n| G06 | OPEN — Japanese primary wording and distinct Korean formulations are retained; commercial quantities, help direction, reflection subject and seasonal row pairing are not harmonized into one empirical account. |\n| G07 | OPEN — all76 normal and49 event written records are textual repertoire; gifts, hugs, purchases, remembered dances, birthdays and rest motifs do not become extra completed encounters. |\n| G08 | OPEN — voice IDs, written snoring/music, photographic reports and scene cues confer no performed voice, audio, image or staging inspection. |\n| G09 | OPEN — shade/rest, falling/carrying, fearful clinging and reported recovery remain local; no clinical diagnosis, fatigue cure, venom exposure, hospitalization or universal safety finding is made. |\n| G10 | OPEN — snack arithmetic, learning, provisional career experiences and approximate cannon knowledge have exact local reach; no aptitude certification, engineered mechanism or permanent capacity law follows. |\n| G11 | OPEN — Makoto's qualified legacy thought and unidentified switch/log passage remain serious leads; person continuity, cause, device, historical transcript and Ibuki's ideological intention are unresolved. |\n| G12 | OPEN — achieved games, food, lessons, care, apology and forgiveness are distinguished from promised visits, return, purchase reports, all-day reassurance and uncompleted collage/repair; no global completed ledger is inferred. |\n| G13 | OPEN — current source admission and independent accepted analytical authority are bounded; original historical firstness/independence and broader source absence remain UNKNOWN, and no private source-reading credit transfers. |\n| G14 | OPEN — no standalone model, prediction register, held-out diagnostic, denominator, milestone, capacity or publication promotion follows from this textual candidate. |\n",
+      "new": "**Stable original-gap qualification.** The immutable author table below used G01–G14 to enumerate local limits. Those local topics are retained verbatim as L01–L14 in this public derivative; they do not redefine the original gap IDs. The fourteen stable definitions in the [source-gap impact register](../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md) govern G01–G14. The following stable-ID table records their claim-specific effect here. Every original gap remains OPEN; this clarification adds no source, receiving, model, scope, package or gap-closure credit. Original author bytes and coordinates remain frozen and exactly recoverable.\n\n| Local limit | Status and claim-specific limit |\n|---|---|\n| L01 | OPEN — ordinary evidence is represented fully within the selected private family; stronger claims about every hobby, routine, artwork or future outing need additional admitted evidence. Failed park plans and the incomplete collage remain. |\n| L02 | OPEN — recipient directions are preserved for Sensei, Makoto, Iroha, Satsuki, Chiaki and PS68; reciprocal care or local forgiveness does not prove every peer's assent, future compliance or complete relational history. |\n| L03 | OPEN — first-year/age/profile and Pandemonium joins remain documentary fields; no complete office, custody protocol, permission policy or institutional welfare audit is certified. |\n| L04 | OPEN — local story order, recollection and message-relative days are usable; release fields and swimsuit/base order do not settle a complete Main/private/event chronology. |\n| L05 | OPEN — source actors, inward records, narration, generic logs, formal alternatives and exact message groups remain distinct; disputed police/shopkeeper or public speaker seams cannot yield secure individual speech. |\n| L06 | OPEN — Japanese primary wording and distinct Korean formulations are retained; commercial quantities, help direction, reflection subject and seasonal row pairing are not harmonized into one empirical account. |\n| L07 | OPEN — all76 normal and49 event written records are textual repertoire; gifts, hugs, purchases, remembered dances, birthdays and rest motifs do not become extra completed encounters. |\n| L08 | OPEN — voice IDs, written snoring/music, photographic reports and scene cues confer no performed voice, audio, image or staging inspection. |\n| L09 | OPEN — shade/rest, falling/carrying, fearful clinging and reported recovery remain local; no clinical diagnosis, fatigue cure, venom exposure, hospitalization or universal safety finding is made. |\n| L10 | OPEN — snack arithmetic, learning, provisional career experiences and approximate cannon knowledge have exact local reach; no aptitude certification, engineered mechanism or permanent capacity law follows. |\n| L11 | OPEN — Makoto's qualified legacy thought and unidentified switch/log passage remain serious leads; person continuity, cause, device, historical transcript and Ibuki's ideological intention are unresolved. |\n| L12 | OPEN — achieved games, food, lessons, care, apology and forgiveness are distinguished from promised visits, return, purchase reports, all-day reassurance and uncompleted collage/repair; no global completed ledger is inferred. |\n| L13 | OPEN — current source admission and independent accepted analytical authority are bounded; original historical firstness/independence and broader source absence remain UNKNOWN, and no private source-reading credit transfers. |\n| L14 | OPEN — no standalone model, prediction register, held-out diagnostic, denominator, milestone, capacity or publication promotion follows from this textual candidate. |\n\n| Stable original gap | Status | Character-specific contribution and remaining warrant |\n|---|---|---|\n| G01 — Ordinary and private breadth | OPEN | Wanted games, food, lessons, art and company retain intrinsic value within the admitted family. Failed park plans and unfinished collage remain; this is no exhaustive lifetime psychology. Local L01/L12 retain their exact limits. |\n| G02 — Yuuka council/club decision transfer | OPEN | Ibuki’s chosen help and Pandemonium membership supply no Yuuka council/club decision envelope, privacy rule or durable security outcome. Yuuka’s own situated evidence is required for that stronger claim. |\n| G03 — Serika service, peer and reciprocity range | OPEN | Snack arithmetic, preferred food and reciprocal help do not discharge Serika’s customer, work, peer or private-recipient duties. No Serika rule or outcome is inferred by analogy. |\n| G04 — Hina crisis causality, accountability and ordinary contrast | OPEN | Ibuki’s care, local forgiveness and Pandemonium context do not settle Hina’s NK Ultra causal allocation, affected-student redress or durable institutional repair. Each requires its own evidence. |\n| G05 — Arius and PS68 ordinary/aftermath transfer | OPEN | PS68 company and situated decisions remain meaningful. They do not prove Arius or PS68 trauma cure, permanent livelihood/security, legal absolution or complete aftermath; recipient choices remain independent. |\n| G06 — Cross-school ordinary repertoire | OPEN | Particular company, visits, shared activities and objections broaden ordinary repertoire. They do not establish an all-school norm, every peer’s assent or a complete directed history. Local L02 remains. |\n| G07 — Story-world chronology | OPEN | Local story order, recollections and message-relative days remain usable. Release, retrieval and swimsuit/base order do not locate a global Main/private/event calendar. Local L04 remains. |\n| G08 — Event naming and repeat contexts | OPEN | Literal event/source and written costume routes remain distinct. Missing overarching titles, repeat identities and enacted reruns are not supplied by a variant label or release context; no title is invented. |\n| G09 — Written speaker/choice attribution | OPEN | Inward records, generic logs, narration, formal alternatives, message groups and disputed police/shopkeeper or public headings constrain actors and knowledge. JP/KR direction differences stay separate. Local L05/L06 remain. |\n| G10 — Performed voice | OPEN | Voice IDs, written snoring/music, photographs reported in text and scene cues supply no heard voice, audio, pixels, animation or staging inspection. Local L08 remains. |\n| G11 — Hoshino's Yume record and office states | OPEN | Makoto’s qualified legacy thought and Ibuki’s local care do not authenticate Hoshino/Yume notebook or death records, settle their causality or demonstrate lasting stabilization. Their office states remain separately sourced. |\n| G12 — Counterpart, system and variant identity | OPEN | Documented person/profile joins and unidentified switch/log passages retain their actual confidence. No body, person, control, device or historical-continuity chain is authenticated by resemblance; local L03/L11 remain. |\n| G13 — Office, contract, safety and technical outcomes | OPEN | Actual games, lessons, care, apology and forgiveness coexist with promised visits, incomplete artwork and unaudited office, clinical, welfare or technical outcomes. Carrying, comfort and approximate cannon knowledge certify no cure or safe mechanism. Local L03/L09/L10/L12 remain. |\n| G14 — Unclassified/mode continuity | OPEN | The admitted private/written and declared public modes retain their actual scope. Conditional records are not extra performed encounters; unclassified, special and other mini routes are neither silently admitted nor discarded. Local L07/L13/L14 retain custody and no-promotion limits. |\n",
+      "kind": "EXPLICIT_STABLE_ORIGINAL_GAP_ID_QUALIFICATION_LOCAL_TEXT_PRESERVED"
+    }
+  ],
+  "exact_added_authority_or_custody_paragraphs": [
+    "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_IBUKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_IBUKI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed. The prior47-package source publication base is `92184703994a1950a5660654ce52d8516dbe9bf5`; frozen author/control/progress snapshots below retain their dated meaning. Execution requires ROOT’s successful actual exact-head audit chain."
+  ],
+  "exact_added_retrieval_title": null,
+  "fixed_publication_snapshot": "Seven accepted packages48–54 only; after complete ROOT installation54=53characters+1directedrelationship; later liveROOT acceptances excluded",
+  "stable_original_gap_alignment": {
+    "original_gap_authority": {
+      "repository_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+      "bytes": 79178,
+      "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+      "git_blob_oid_of_actual_bytes": "0e15ecdee162ba461e475081e2b430a17ce76edf"
+    },
+    "authority_received_scopes": [
+      [
+        27,
+        45
+      ],
+      [
+        333,
+        354
+      ]
+    ],
+    "authority_whole_file_reading_credit": false,
+    "historical_local_G01_G14_rows_preserved_as_L01_L14": true,
+    "stable_G01_G14_claim_specific_rows_added": [
+      {
+        "gap_id": "G01",
+        "original_name": "Ordinary and private breadth",
+        "status": "OPEN",
+        "claim_specific_disposition": "Wanted games, food, lessons, art and company retain intrinsic value within the admitted family. Failed park plans and unfinished collage remain; this is no exhaustive lifetime psychology. Local L01/L12 retain their exact limits."
+      },
+      {
+        "gap_id": "G02",
+        "original_name": "Yuuka council/club decision transfer",
+        "status": "OPEN",
+        "claim_specific_disposition": "Ibuki’s chosen help and Pandemonium membership supply no Yuuka council/club decision envelope, privacy rule or durable security outcome. Yuuka’s own situated evidence is required for that stronger claim."
+      },
+      {
+        "gap_id": "G03",
+        "original_name": "Serika service, peer and reciprocity range",
+        "status": "OPEN",
+        "claim_specific_disposition": "Snack arithmetic, preferred food and reciprocal help do not discharge Serika’s customer, work, peer or private-recipient duties. No Serika rule or outcome is inferred by analogy."
+      },
+      {
+        "gap_id": "G04",
+        "original_name": "Hina crisis causality, accountability and ordinary contrast",
+        "status": "OPEN",
+        "claim_specific_disposition": "Ibuki’s care, local forgiveness and Pandemonium context do not settle Hina’s NK Ultra causal allocation, affected-student redress or durable institutional repair. Each requires its own evidence."
+      },
+      {
+        "gap_id": "G05",
+        "original_name": "Arius and PS68 ordinary/aftermath transfer",
+        "status": "OPEN",
+        "claim_specific_disposition": "PS68 company and situated decisions remain meaningful. They do not prove Arius or PS68 trauma cure, permanent livelihood/security, legal absolution or complete aftermath; recipient choices remain independent."
+      },
+      {
+        "gap_id": "G06",
+        "original_name": "Cross-school ordinary repertoire",
+        "status": "OPEN",
+        "claim_specific_disposition": "Particular company, visits, shared activities and objections broaden ordinary repertoire. They do not establish an all-school norm, every peer’s assent or a complete directed history. Local L02 remains."
+      },
+      {
+        "gap_id": "G07",
+        "original_name": "Story-world chronology",
+        "status": "OPEN",
+        "claim_specific_disposition": "Local story order, recollections and message-relative days remain usable. Release, retrieval and swimsuit/base order do not locate a global Main/private/event calendar. Local L04 remains."
+      },
+      {
+        "gap_id": "G08",
+        "original_name": "Event naming and repeat contexts",
+        "status": "OPEN",
+        "claim_specific_disposition": "Literal event/source and written costume routes remain distinct. Missing overarching titles, repeat identities and enacted reruns are not supplied by a variant label or release context; no title is invented."
+      },
+      {
+        "gap_id": "G09",
+        "original_name": "Written speaker/choice attribution",
+        "status": "OPEN",
+        "claim_specific_disposition": "Inward records, generic logs, narration, formal alternatives, message groups and disputed police/shopkeeper or public headings constrain actors and knowledge. JP/KR direction differences stay separate. Local L05/L06 remain."
+      },
+      {
+        "gap_id": "G10",
+        "original_name": "Performed voice",
+        "status": "OPEN",
+        "claim_specific_disposition": "Voice IDs, written snoring/music, photographs reported in text and scene cues supply no heard voice, audio, pixels, animation or staging inspection. Local L08 remains."
+      },
+      {
+        "gap_id": "G11",
+        "original_name": "Hoshino's Yume record and office states",
+        "status": "OPEN",
+        "claim_specific_disposition": "Makoto’s qualified legacy thought and Ibuki’s local care do not authenticate Hoshino/Yume notebook or death records, settle their causality or demonstrate lasting stabilization. Their office states remain separately sourced."
+      },
+      {
+        "gap_id": "G12",
+        "original_name": "Counterpart, system and variant identity",
+        "status": "OPEN",
+        "claim_specific_disposition": "Documented person/profile joins and unidentified switch/log passages retain their actual confidence. No body, person, control, device or historical-continuity chain is authenticated by resemblance; local L03/L11 remain."
+      },
+      {
+        "gap_id": "G13",
+        "original_name": "Office, contract, safety and technical outcomes",
+        "status": "OPEN",
+        "claim_specific_disposition": "Actual games, lessons, care, apology and forgiveness coexist with promised visits, incomplete artwork and unaudited office, clinical, welfare or technical outcomes. Carrying, comfort and approximate cannon knowledge certify no cure or safe mechanism. Local L03/L09/L10/L12 remain."
+      },
+      {
+        "gap_id": "G14",
+        "original_name": "Unclassified/mode continuity",
+        "status": "OPEN",
+        "claim_specific_disposition": "The admitted private/written and declared public modes retain their actual scope. Conditional records are not extra performed encounters; unclassified, special and other mini routes are neither silently admitted nor discarded. Local L07/L13/L14 retain custody and no-promotion limits."
+      }
+    ],
+    "no_gap_closure_or_new_source_scope_package_model_credit": true
+  },
+  "current_scope_qualification": {
+    "frozen_body_line": 147,
+    "frozen_readable_line": 75,
+    "source_wording_issue": "Distinct mandatory directions are analytical responsibilities; the current scope does not allocate four independent counted Ibuki relationship packages.",
+    "required_canonical_derivative_wording": "Makoto→Ibuki and Iroha→Ibuki remain two substantial named sections in the one counted Pandemonium–Ibuki ensemble package. Ibuki–Sensei and Ibuki–PS68 remain distinct analytical responsibilities in her character account and applicable existing broad Sensei/PS68 homes; mentioning them creates no additional package or named section. Pandemonium roles, resources and selective care has its separate existing institutional package.",
+    "author_frozen_bytes_changed": false,
+    "required_catalog_changed": false,
+    "package_credit": "P3-CHAR-IBUKI only"
+  }
+}

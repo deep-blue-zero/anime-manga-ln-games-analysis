@@ -1,0 +1,473 @@
+{
+  "schema": "KONOSUBA_WHOLE_LOCAL_TEXT_EPUB_ACTUAL_UNCODED_READING_SEAL_V1",
+  "source_id": "EXP-01",
+  "sealed_utc": "2026-10-18T13:26:33.940923+00:00",
+  "native_filename": "Konosuba - Spin-off - Explosions - Volume 01.epub",
+  "native_bytes": 19168549,
+  "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+  "fresh_native_ZIP_CRC": "PASS",
+  "actual_complete_textual_units": 54,
+  "actual_paragraph_slots": 3232,
+  "actual_unique_native_images_viewed": 51,
+  "unit_interval_verification": [
+    {
+      "component_id": "EXP-01-U001",
+      "native_member": "item/xhtml/p-cover.xhtml",
+      "sha256": "514480b87e6289fdfdab973186747a1173ddbb63d4709c89715aa37d1699d1b5",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U002",
+      "native_member": "item/xhtml/p-fmatter-001.xhtml",
+      "sha256": "9ed18992f9a7de6bcca18d63ed4b9880093a5491240d94ab114279d8bd81a62f",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U003",
+      "native_member": "item/xhtml/p-fmatter-002.xhtml",
+      "sha256": "bc0645e1122b96b73e1fa555d48090a10ee67b98466b9406d0ab87ea01d4adb6",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U004",
+      "native_member": "item/xhtml/p-fmatter-003.xhtml",
+      "sha256": "0c8c67f38ba2bcae3326f91acfe59c6913fd38091b410e78ec085eb5c8325c94",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U005",
+      "native_member": "item/xhtml/p-fmatter-004.xhtml",
+      "sha256": "a8af8ee26ce0925ca87f3ed819bc0ca262c2a7780d8b9ed5db33da6a3232ffbe",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U006",
+      "native_member": "item/xhtml/p-fmatter-005.xhtml",
+      "sha256": "ff990738f75951910a0470a02319b8bdc12b2946197a1ff7daddda90e56f9ab6",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U007",
+      "native_member": "item/xhtml/p-titlepage.xhtml",
+      "sha256": "499ac79cad46e0fd509036e5b42d05ba41a2f96b4f876169100a1e4ba0e36a0b",
+      "paragraph_slots_actually_received": 6,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U008",
+      "native_member": "item/xhtml/p-caution.xhtml",
+      "sha256": "60cd884a27555eaed461252881c69b1176ae4ff16061aa82450e9fa3dadf912b",
+      "paragraph_slots_actually_received": 6,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U009",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "sha256": "cd13e686179cb30717b1d644115da9801ac453e9b143bcd3bcb1d603731d2774",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U010",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "sha256": "1979f406bf95729aac2560b6c491de93a42a6b70589a391045457b31a096cb1a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U011",
+      "native_member": "item/xhtml/p-toc-001.xhtml",
+      "sha256": "83c9e29813cdaf3a6aec4e42e7892f1b33822685eced607d6c4928b02e220bda",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U012",
+      "native_member": "item/xhtml/p-toc-002.xhtml",
+      "sha256": "020ce8a9ca0ed1f83356b0bd7783ee97ccd4bc5a4e3c939335e828aacb974892",
+      "paragraph_slots_actually_received": 10,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U013",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "sha256": "20eebc7acb10f11a3055e6aed9f5cbe87d38a48f3272a084f6631c533cd3fd2d",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U014",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "sha256": "62aa05713d8653627ef91f2ef3698cd182314c1aa03e5a2ddf7a3d6b6d5e3046",
+      "paragraph_slots_actually_received": 29,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U015",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "sha256": "bb2615fcc999c2ccab4964b3e943ff13c2259ba2e64172f04066070d3fe8a178",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U016",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "sha256": "615198d8c4ec0905416e97249a4b7f9b070d4b0b7faac512cee9c1d22de7942d",
+      "paragraph_slots_actually_received": 57,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U017",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "sha256": "adcd0f11854ef4ded2d44ff8ea9e0a551b4d93f20ccb4dc2c168b11d94ba994b",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U018",
+      "native_member": "item/xhtml/p-008.xhtml",
+      "sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "paragraph_slots_actually_received": 614,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U019",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "sha256": "481f61a63a19efaf627df79190b74c7c82b87194bdecbfabc67bb0a6b84e6c2a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U020",
+      "native_member": "item/xhtml/p-010.xhtml",
+      "sha256": "13705eb94742bfc49d6361d93bf73f85fecc63b6e7b0fa237c0720ee1e60af9e",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U021",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "sha256": "80dc4df1693da30141a9829f6fbbb4779b757017e39e85e39608f600c8dee47b",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U022",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "sha256": "17680f2898ba0fa90a76fb4651f74b9206787a35f369807fb755bab585c686d8",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U023",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "paragraph_slots_actually_received": 703,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U024",
+      "native_member": "item/xhtml/p-014.xhtml",
+      "sha256": "7245d7f2469fec5f2212777309eed2a02dfbe90943407849dda153f890d93db5",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U025",
+      "native_member": "item/xhtml/p-015.xhtml",
+      "sha256": "dadf75a1b2a1788edd868b7070f5a2bb39c0cdee82e3f77cd510b6e7b7e05c68",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U026",
+      "native_member": "item/xhtml/p-016.xhtml",
+      "sha256": "28dc4148ae1af7226d4fac043ca4d525af48ca4b271c1cd0d61f74868a0e828b",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U027",
+      "native_member": "item/xhtml/p-017.xhtml",
+      "sha256": "5a833e2493e61dbaf7c612fc2646639e2f779022e4cf80fb3f9db0e0a1fe251f",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U028",
+      "native_member": "item/xhtml/p-018.xhtml",
+      "sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+      "paragraph_slots_actually_received": 493,
+      "intervals": 3,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U029",
+      "native_member": "item/xhtml/p-019.xhtml",
+      "sha256": "b38224da4340873a85506f812175cc22765546920c0ba6588719db9f86cc76b6",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U030",
+      "native_member": "item/xhtml/p-020.xhtml",
+      "sha256": "f8fb7e2007697218d717f885e3cea1fa40dd1ee7a7d6df01888e9263eedc8f3a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U031",
+      "native_member": "item/xhtml/p-021.xhtml",
+      "sha256": "153bc1b4629f9191700db8a8be21b47bb4449997e3dd3d6e49762cd31b6e248e",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U032",
+      "native_member": "item/xhtml/p-022.xhtml",
+      "sha256": "56418110578b21eef1dc0de20d0efac94efd31897d71e08698cba4372f0df9d6",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U033",
+      "native_member": "item/xhtml/p-023.xhtml",
+      "sha256": "a8f6086c11cfd7326bf24057b7883017e916c5bb8b1b9d3fdbad758687175cfb",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U034",
+      "native_member": "item/xhtml/p-024.xhtml",
+      "sha256": "3f41c401eed63de1de9dcb486461831e3caa77dccf0eafdb7451107600d984fd",
+      "paragraph_slots_actually_received": 179,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U035",
+      "native_member": "item/xhtml/p-025.xhtml",
+      "sha256": "b220ec6bc45f9432f567aa91beea77ae5bd0026413773a724e21863a871dbbd5",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U036",
+      "native_member": "item/xhtml/p-026.xhtml",
+      "sha256": "54c5614e699e9c8dbc7b001a6791e050e9344d71991feb3fecbd4c6fcbdfd874",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U037",
+      "native_member": "item/xhtml/p-027.xhtml",
+      "sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+      "paragraph_slots_actually_received": 427,
+      "intervals": 3,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U038",
+      "native_member": "item/xhtml/p-028.xhtml",
+      "sha256": "63df4197d888c63930551ee8a55f7bb688cf35b1869e8bba433779b6cbbffecd",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U039",
+      "native_member": "item/xhtml/p-029.xhtml",
+      "sha256": "93a3d40d54fd9cb9e1513ca2315659ca9e055dfb88643cbb6f4476ed4b1efa58",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U040",
+      "native_member": "item/xhtml/p-030.xhtml",
+      "sha256": "64a0f8674c0842b245527f21250f5f2093d383be50843a84ecda0235122149ea",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U041",
+      "native_member": "item/xhtml/p-031.xhtml",
+      "sha256": "d20d7e4b9e62886e53bdd7af79ec4a8d01317b8d71fe02dd9b86314541409566",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U042",
+      "native_member": "item/xhtml/p-032.xhtml",
+      "sha256": "31f31aeca4d25f58406776ad466e9286192c2997ada9153d551d177c2138c12d",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U043",
+      "native_member": "item/xhtml/p-033.xhtml",
+      "sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+      "paragraph_slots_actually_received": 614,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U044",
+      "native_member": "item/xhtml/p-034.xhtml",
+      "sha256": "0b947cc5f52698531ad6df85cff45594d161756dbca20615bc6312a21d92fb11",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U045",
+      "native_member": "item/xhtml/p-035.xhtml",
+      "sha256": "10f0f9c54ee350445e9d284981a2f8f1a6c4521c30236a7f80a4efddb19b9f8a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U046",
+      "native_member": "item/xhtml/p-036.xhtml",
+      "sha256": "6b29c9b6728a4bd79ae088d52173d83dc9409b3433b47995b1ead8642d741e40",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U047",
+      "native_member": "item/xhtml/p-037.xhtml",
+      "sha256": "494353599bf49b0512fe65862a3ad5352393e0f85c4c2d4f0ddb0574a6cc80a6",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U048",
+      "native_member": "item/xhtml/p-038.xhtml",
+      "sha256": "887c0f191766d4e5e5ab9d5253dc0b7f0aec8c0a614496e5181ee0c2cf03e62a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U049",
+      "native_member": "item/xhtml/p-039.xhtml",
+      "sha256": "6b11990f5101539067279b4f7870ea3670f8bc8b7106fe62439fea33043ea62c",
+      "paragraph_slots_actually_received": 71,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U050",
+      "native_member": "item/xhtml/p-040.xhtml",
+      "sha256": "6b75631edb48b6f5b07bcdcdea9d81bd88b416380bd5df1b3ed63b6d991fbda1",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U051",
+      "native_member": "item/xhtml/p-041.xhtml",
+      "sha256": "d9937ca58301d984ecc95f8958a9c0f0948e291a7281f44b121b8c02a0866915",
+      "paragraph_slots_actually_received": 5,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U052",
+      "native_member": "item/xhtml/p-colophon.xhtml",
+      "sha256": "c553c869d3500518930e51a7cb51a80639d351b8409e255f4f7e18694815f0fd",
+      "paragraph_slots_actually_received": 18,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U053",
+      "native_member": "item/xhtml/p-bookwalker.xhtml",
+      "sha256": "5fea6f2510e62288e91d99a2ab3ebd68620c7d9a14adc17d45960e90be3506e6",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-01-U054",
+      "native_member": "item/navigation-documents.xhtml",
+      "sha256": "d3146eadbb09b200eca0a16617b1f1d5f0ec05d943e24f6acee1d09073431731",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    }
+  ],
+  "immutable_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 57158,
+      "sha256": "615c86a7c62c699cd5f6274172f192117e5157f15572931f2b0135b4863d7d1e"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 8360,
+      "sha256": "ce5ed39343c165868a5e0d8e7a0ef8063227fb65c81a925fc084297efee7ca4e"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 142005,
+      "sha256": "440438a23074310c29d3f257a1782e38009467a297d6bad7750797c7a3d771fa"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 39383,
+      "sha256": "70ed3c0658a86c56d11439e5465e0597d36b312fd995aaf849a5c3b56500eed8"
+    }
+  ],
+  "all_source_first_formal_outcomes_still_unassigned": true,
+  "reader": "Continuing informed root AI; same author and receiver, no independent review, pristine blindness, native-human or audio claim.",
+  "scope": "All supplied textual bodies, ruby readings displayed inline, native nonparagraph residuals, front/end/navigation, electronic bonus, author and contributor paratext, and every image received actual separate reading/view records. Exact layout inspection of textual XHTML is not a separate print-page facsimile claim. Structural extraction alone received no reading credit.",
+  "corrections_to_resolve_in_separate_current_derivatives": [],
+  "remaining": "Formal L/H and voice coding, natural-order question assessment, seventeen-responsibility report, component dispositions, ledger decisions, acceptance, and full publication gate; no whole-program completion claim."
+}

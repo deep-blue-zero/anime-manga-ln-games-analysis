@@ -1,0 +1,909 @@
+{
+  "source_code": "Y3V01",
+  "source_sha256": "9036bb7750bdf14a323425b8307190932025ee4d09be4fee5e19edc2497cc47f",
+  "source_bytes": 11586189,
+  "normalized_sha256": "d4a0387098448f41c0fd24b9b4ba3e272ea0dbae2b64a98a5f9af0529b19a3f8",
+  "extractor_version": "COTE-Y3-EPUB-1.1",
+  "extraction_script_sha256": "633e6be74a5cb42fb8ed0062a33b4fce41407495601ca3b97576daaa005e699c",
+  "normalization": "UTF-8 LF; nonempty p/h1-h4/li/figcaption in OPF spine order; trim boundary whitespace; replace CR/LF/tab runs with one space; ruby rt/rp excluded from base text; rb and ruby base retained; inline gaiji transcribed from verified source alt attributes (櫛, 梗, －); glyph occurrences excluded from illustration numbering; original XHTML retained in EPUB; no invented print page numbers",
+  "paragraphs": 3998,
+  "characters": 139391,
+  "spines": [
+    {
+      "spine": 1,
+      "member": "OEBPS/Text/cover.xhtml",
+      "raw_sha256": "0f2f349a256399ca3f7fd3122454bd66047ba1bf6ab0c6119102701ee9c86517",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 2,
+      "member": "OEBPS/Text/part0000.xhtml",
+      "raw_sha256": "2cc80d9c6252a86ed47c4f079d353b2f37bf9dbea7edb9646c0795956b5c2727",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 3,
+      "member": "OEBPS/Text/part0001.xhtml",
+      "raw_sha256": "4530cd1277e6eb7540f449dba1fdde782955994e7dc3c62851eeeef617827765",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 4,
+      "member": "OEBPS/Text/part0002.xhtml",
+      "raw_sha256": "87e4c5d032bf550b8fb06e1eafd8a39297125b4844323d4d10281869c4a3f89b",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 5,
+      "member": "OEBPS/Text/part0003.xhtml",
+      "raw_sha256": "2e0eb0b587250bf5f9ccefd9a68d324fd54d8c21c64d0c45d80255c2890975a7",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 6,
+      "member": "OEBPS/Text/part0004.xhtml",
+      "raw_sha256": "8afd8be78dd84bf6c76d3265f2d9e913b9f2e186d71c2aac82100ae372f8c0fc",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 7,
+      "member": "OEBPS/Text/part0005.xhtml",
+      "raw_sha256": "bcb6840e9f9a00af0c53a5830d3db8c6795602d8f498c004a6a54e31f4ce7633",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 8,
+      "member": "OEBPS/Text/part0006.xhtml",
+      "raw_sha256": "854ad3cda79d3fb915b7bf7ca73326449210b9b5e55f3de87d0ef7b55905f3e2",
+      "paragraphs": 3,
+      "characters": 112
+    },
+    {
+      "spine": 9,
+      "member": "OEBPS/Text/part0007.xhtml",
+      "raw_sha256": "a1636d447a286c87a55032e3a66f5d46b43e6239a8abc3771064c253846f94b4",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 10,
+      "member": "OEBPS/Text/part0008.xhtml",
+      "raw_sha256": "7029e3a75928987ed6c84e2855e7de25c4fbd1ee57fb860be64e389ed6618483",
+      "paragraphs": 11,
+      "characters": 57
+    },
+    {
+      "spine": 11,
+      "member": "OEBPS/Text/part0009.xhtml",
+      "raw_sha256": "3ab693ba41cf8e794c06b49a35d7a8b4704727b86c1e7ac00bf4b58aaccd8892",
+      "paragraphs": 58,
+      "characters": 1481
+    },
+    {
+      "spine": 12,
+      "member": "OEBPS/Text/part0010.xhtml",
+      "raw_sha256": "07b8639bfc55248a79f96da9ff09a3fe13b9cac4de2f18f0807dafa0d348dfa1",
+      "paragraphs": 282,
+      "characters": 9714
+    },
+    {
+      "spine": 13,
+      "member": "OEBPS/Text/part0011.xhtml",
+      "raw_sha256": "66162e106377d24b7ee58a61874d6a856ffebb9cc5a2c3d2c4cfd0e6b08e140a",
+      "paragraphs": 227,
+      "characters": 6711
+    },
+    {
+      "spine": 14,
+      "member": "OEBPS/Text/part0012.xhtml",
+      "raw_sha256": "e374aad4587c134d4feec7f6af8d4be9cb610b58ccdac595ab1c155f0583702a",
+      "paragraphs": 611,
+      "characters": 24110
+    },
+    {
+      "spine": 15,
+      "member": "OEBPS/Text/part0013.xhtml",
+      "raw_sha256": "44842a08f21c0ec571083d49fce97808b23e2848b7c0ee1fad36eff614ade5dc",
+      "paragraphs": 382,
+      "characters": 13691
+    },
+    {
+      "spine": 16,
+      "member": "OEBPS/Text/part0014.xhtml",
+      "raw_sha256": "83cd668ee406832433896b9b0cec2f55515e6a484792882facfd1da675f6be93",
+      "paragraphs": 796,
+      "characters": 28195
+    },
+    {
+      "spine": 17,
+      "member": "OEBPS/Text/part0015.xhtml",
+      "raw_sha256": "2ef850a22d1af258fed2443044ce2667e960946831104770c0768017c8521e11",
+      "paragraphs": 276,
+      "characters": 8933
+    },
+    {
+      "spine": 18,
+      "member": "OEBPS/Text/part0016.xhtml",
+      "raw_sha256": "55359ad53aab35b28a92b3182e6aa41253514bf3cce7d084a6d62ab5e17925fc",
+      "paragraphs": 597,
+      "characters": 22724
+    },
+    {
+      "spine": 19,
+      "member": "OEBPS/Text/part0017.xhtml",
+      "raw_sha256": "8f83bfaf5f1b466c0f207e3ae5ef81f82a5260411eb9915946ff308e409bed27",
+      "paragraphs": 371,
+      "characters": 10760
+    },
+    {
+      "spine": 20,
+      "member": "OEBPS/Text/part0018.xhtml",
+      "raw_sha256": "04f60a94dffddd0ceadc5693d3ef4688c3d0fffa2f9de249b98250b093b666a7",
+      "paragraphs": 345,
+      "characters": 11858
+    },
+    {
+      "spine": 21,
+      "member": "OEBPS/Text/part0019.xhtml",
+      "raw_sha256": "04fb58be514707e6626622996073c185f06bc6803a4d88cb1b36b0a14fe77210",
+      "paragraphs": 18,
+      "characters": 596
+    },
+    {
+      "spine": 22,
+      "member": "OEBPS/Text/part0020.xhtml",
+      "raw_sha256": "9cc6ce6833369689191f15f36b8b524fea247d2cf418d47397dfc3560c0043de",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 23,
+      "member": "OEBPS/Text/part0021.xhtml",
+      "raw_sha256": "c53ec9721ed6e5d9e809e28a972ab0b33975a4c17e994e870b8e30ba4be207c2",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 24,
+      "member": "OEBPS/Text/part0022.xhtml",
+      "raw_sha256": "3965ff0bb5e2c504ab49fc02e7cdf3147b86ba0d4cee3f487a7d5019be72456c",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 25,
+      "member": "OEBPS/Text/part0023.xhtml",
+      "raw_sha256": "24066e3e54c980dc8685dab5e7e31f80d497d8ed6e66d53b8aa4e97ec9bc4e8f",
+      "paragraphs": 18,
+      "characters": 272
+    },
+    {
+      "spine": 26,
+      "member": "OEBPS/Text/part0024.xhtml",
+      "raw_sha256": "1a91db0f04a6b2114555fb13dd177e3e44965d3c622db062a92b14596f0359c6",
+      "paragraphs": 3,
+      "characters": 177
+    },
+    {
+      "spine": 27,
+      "member": "OEBPS/Text/part0025.xhtml",
+      "raw_sha256": "d63c2d0e289db2bb7764085f438645573c8e2b11e350d4360b12d4fe7f381bd3",
+      "paragraphs": 0,
+      "characters": 0
+    }
+  ],
+  "images": [
+    {
+      "locator": "COTE:Y3V01:ill-01",
+      "spine": 1,
+      "after_paragraph": 0,
+      "member": "OEBPS/Images/embed0024_HD.jpg",
+      "bytes": 2620924,
+      "sha256": "671fb15d063d6c55d24e91e93adf135baa29667dbcbe762c66f3694ff34b51e5"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-02",
+      "spine": 2,
+      "after_paragraph": 0,
+      "member": "OEBPS/Images/embed0000_HD.jpg",
+      "bytes": 692112,
+      "sha256": "da4b8a36a3f3e1ca8bcb445378285857ad3b5fc1e3163ca0d3f1c60955ed3438"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-03",
+      "spine": 3,
+      "after_paragraph": 0,
+      "member": "OEBPS/Images/embed0001_HD.jpg",
+      "bytes": 870500,
+      "sha256": "daffa5f1b5b24fb46c3ae7b56849a081981fa9c000c1251a13f02b6f4a2d2c02"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-04",
+      "spine": 4,
+      "after_paragraph": 0,
+      "member": "OEBPS/Images/embed0002_HD.jpg",
+      "bytes": 803100,
+      "sha256": "2231d88a963561e5b3e87c75fa28b46940c14956ecea48bd8a7badd4bbecff4f"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-05",
+      "spine": 5,
+      "after_paragraph": 0,
+      "member": "OEBPS/Images/embed0003_HD.jpg",
+      "bytes": 837676,
+      "sha256": "b5d7c0c44e02a4d4a9f2dbfca9229fc1d6a1d397030b48cdde7c726c47c9adf3"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-06",
+      "spine": 6,
+      "after_paragraph": 0,
+      "member": "OEBPS/Images/embed0004_HD.jpg",
+      "bytes": 226612,
+      "sha256": "2c34408124f93fd2675353410c23b616e9d5ccd161811b1e40c3de8809fc0067"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-07",
+      "spine": 7,
+      "after_paragraph": 0,
+      "member": "OEBPS/Images/embed0005_HD.jpg",
+      "bytes": 152260,
+      "sha256": "bbbad0daeabfdfa3fa8d4765661c9c7c52693734bb78f12c7db99dad9b105a80"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-08",
+      "spine": 9,
+      "after_paragraph": 0,
+      "member": "OEBPS/Images/embed0006_HD.jpg",
+      "bytes": 310900,
+      "sha256": "ca94e9930894e7f45a44fe8fb346403027b55b28016dd4ce26331bac6281936d"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-09",
+      "spine": 12,
+      "after_paragraph": 190,
+      "member": "OEBPS/Images/embed0007_HD.jpg",
+      "bytes": 482408,
+      "sha256": "6b281ad51a7c1c237da5fff28ef9da585726de0558d2fa6265eab8deca3b9e0f"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-10",
+      "spine": 15,
+      "after_paragraph": 36,
+      "member": "OEBPS/Images/embed0011_HD.jpg",
+      "bytes": 389332,
+      "sha256": "9f77a1b47fc1303a824fdd751bc02a3a6d3dea02e21cf0b7f697b966a6e27080"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-11",
+      "spine": 16,
+      "after_paragraph": 529,
+      "member": "OEBPS/Images/embed0012_HD.jpg",
+      "bytes": 425212,
+      "sha256": "8e815c2f2fed547d827d1110c71180b09c2f66b2f1457e85e8a53f9334d66980"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-12",
+      "spine": 17,
+      "after_paragraph": 252,
+      "member": "OEBPS/Images/embed0013_HD.jpg",
+      "bytes": 360076,
+      "sha256": "f64ea1ac1adaaf9592e306e4452740c11a35304022d689792fb8af48e2527a24"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-13",
+      "spine": 18,
+      "after_paragraph": 180,
+      "member": "OEBPS/Images/embed0014_HD.jpg",
+      "bytes": 472316,
+      "sha256": "b511d1a883879b628416a51a4dcfa5e6da469d05cddafa441a585f375562ae06"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-14",
+      "spine": 18,
+      "after_paragraph": 597,
+      "member": "OEBPS/Images/embed0015_HD.jpg",
+      "bytes": 258916,
+      "sha256": "ddb145fad662d7533dbeafb32572bde9e725dd8ed37ca15df45fcf4a78383c4f"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-15",
+      "spine": 19,
+      "after_paragraph": 30,
+      "member": "OEBPS/Images/embed0016_HD.jpg",
+      "bytes": 541156,
+      "sha256": "6d148d38f3b39fd1bb4a74aa86c736d257b39398b8590c9ef74acc694674fbb7"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-16",
+      "spine": 19,
+      "after_paragraph": 267,
+      "member": "OEBPS/Images/embed0017_HD.jpg",
+      "bytes": 401080,
+      "sha256": "c9ad07985f57855cb8c291077d4061f17da97fe41fa55dcf73039bf40dde7173"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-17",
+      "spine": 20,
+      "after_paragraph": 175,
+      "member": "OEBPS/Images/embed0018_HD.jpg",
+      "bytes": 419424,
+      "sha256": "1bab87a090e7eb05d976582c795c9b9a0e082e375e18b15a5d7b8121939fbec5"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-18",
+      "spine": 20,
+      "after_paragraph": 321,
+      "member": "OEBPS/Images/embed0019_HD.jpg",
+      "bytes": 513380,
+      "sha256": "ba4d34dc3e7abe292750a8c28d7e2dc1ae6060929524f1ab9471e49ef96fab37"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-19",
+      "spine": 22,
+      "after_paragraph": 0,
+      "member": "OEBPS/Images/embed0020_HD.jpg",
+      "bytes": 310920,
+      "sha256": "0442e884c4a56243f16dfcef2e2db71a909b0d5bc324d93859b0add1f8723b9c"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-20",
+      "spine": 23,
+      "after_paragraph": 0,
+      "member": "OEBPS/Images/embed0021_HD.jpg",
+      "bytes": 396156,
+      "sha256": "a6dc9f695959c02e1786359629f9a04052bd793f9812cde2a22c7572783a6f6a"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-21",
+      "spine": 24,
+      "after_paragraph": 0,
+      "member": "OEBPS/Images/embed0022_HD.jpg",
+      "bytes": 408600,
+      "sha256": "0b33f219e6af3b74a0597b16c048673cbeb2c29081319114a0b428bf38b7bd36"
+    },
+    {
+      "locator": "COTE:Y3V01:ill-22",
+      "spine": 27,
+      "after_paragraph": 0,
+      "member": "OEBPS/Images/embed0023_HD.jpg",
+      "bytes": 206624,
+      "sha256": "8175def0972e39f44a90aee3a3605fe646752dba01b75bc2715fe8364588225e"
+    }
+  ],
+  "glyphs": [
+    {
+      "spine": 12,
+      "paragraph": 215,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 12,
+      "paragraph": 221,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 12,
+      "paragraph": 225,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 12,
+      "paragraph": 259,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 12,
+      "paragraph": 267,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 12,
+      "paragraph": 269,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 12,
+      "paragraph": 271,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 14,
+      "paragraph": 137,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 14,
+      "paragraph": 137,
+      "member": "OEBPS/Images/embed0009.jpg",
+      "source_alt": "梗",
+      "sha256": "6aa0a7130e7d36e33735c3e7ce02316defbe640d43b47abe5c20c5e359f92a0b"
+    },
+    {
+      "spine": 15,
+      "paragraph": 26,
+      "member": "OEBPS/Images/embed0010.jpg",
+      "source_alt": "－",
+      "sha256": "b1edd60bc01f9b8366a55c6e2add73e2ee81acb39bf028709e7b82ff67cbacd3"
+    },
+    {
+      "spine": 16,
+      "paragraph": 507,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 508,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 509,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 512,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 514,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 520,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 522,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 523,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 530,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 530,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 532,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 534,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 538,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 542,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 545,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 553,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 561,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 563,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 565,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 567,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 572,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 583,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 16,
+      "paragraph": 637,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 18,
+      "paragraph": 295,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 18,
+      "paragraph": 384,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 18,
+      "paragraph": 384,
+      "member": "OEBPS/Images/embed0009.jpg",
+      "source_alt": "梗",
+      "sha256": "6aa0a7130e7d36e33735c3e7ce02316defbe640d43b47abe5c20c5e359f92a0b"
+    },
+    {
+      "spine": 19,
+      "paragraph": 261,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 263,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 267,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 268,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 273,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 293,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 298,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 298,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 302,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 304,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 309,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 310,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 315,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 323,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 326,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 338,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 342,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 356,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 360,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 364,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 366,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 19,
+      "paragraph": 370,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    },
+    {
+      "spine": 20,
+      "paragraph": 2,
+      "member": "OEBPS/Images/embed0008.jpg",
+      "source_alt": "櫛",
+      "sha256": "524dec8c9228de45f31cba92aab475339032af94ed853351ba3e202682732559"
+    }
+  ],
+  "extraction_anomalies": [],
+  "source_text_anomalies": [{"locator": "COTE:Y3V01:spine17:para0055", "status": "apparent_attribution_inconsistency_preserved", "description": "Source names Shiraishi while scene context identifies Nishikawa; Shiraishi arrives at para0122. No silent normalization correction."}],
+  "chapter_map": [
+    {
+      "spine": 11,
+      "title_ja": "終わる日常",
+      "working_title_en": "An everyday life ending",
+      "focal_architecture": "Horikita first person",
+      "function": "The A plate, remembered losses, shared future and adjacent seat establish the expectation the transfer will break.",
+      "first": "COTE:Y3V01:spine11:para0001",
+      "last": "COTE:Y3V01:spine11:para0058",
+      "paragraphs": 58
+    },
+    {
+      "spine": 12,
+      "title_ja": "混乱",
+      "working_title_en": "Confusion",
+      "focal_architecture": "Third person, principally Horikita and classroom",
+      "function": "Transfer becomes an institutional fact before its purpose becomes intelligible. Teacher and peers distribute the work of responding.",
+      "first": "COTE:Y3V01:spine12:para0001",
+      "last": "COTE:Y3V01:spine12:para0282",
+      "paragraphs": 282
+    },
+    {
+      "spine": 13,
+      "title_ja": "確かめる",
+      "working_title_en": "Seeking confirmation",
+      "focal_architecture": "Horikita first person",
+      "function": "A public café replaces the private conversation she requests; Matsushita is exposed to an audience with unequal information.",
+      "first": "COTE:Y3V01:spine13:para0001",
+      "last": "COTE:Y3V01:spine13:para0227",
+      "paragraphs": 227
+    },
+    {
+      "spine": 14,
+      "title_ja": "始まる１年間",
+      "working_title_en": "The year begins",
+      "focal_architecture": "Ayanokōji first person; chronological rewind",
+      "function": "Replays the opening from the other side: funding, consent, alliance and calculated timing. The former classmates retain their own responses.",
+      "first": "COTE:Y3V01:spine14:para0001",
+      "last": "COTE:Y3V01:spine14:para0611",
+      "paragraphs": 611
+    },
+    {
+      "spine": 15,
+      "title_ja": "傍目八目",
+      "working_title_en": "An outsider’s clearer view",
+      "focal_architecture": "Ayanokōji, then third-person Ichinose/Amasawa",
+      "function": "Shiraishi contests an arbitrary condition; adult and junior encounters reveal multiple forms of knowledge. Ichinose defeats a probe through a bluff.",
+      "first": "COTE:Y3V01:spine15:para0001",
+      "last": "COTE:Y3V01:spine15:para0382",
+      "paragraphs": 382
+    },
+    {
+      "spine": 16,
+      "title_ja": "交錯",
+      "working_title_en": "Crossing paths",
+      "focal_architecture": "Horikita/Ayanokōji first person; Kushida and Ryūen third-person windows",
+      "function": "Rules, competing strategy meetings, grief and ordinary routines intersect. Other students possess expertise while leaders misread one another.",
+      "first": "COTE:Y3V01:spine16:para0001",
+      "last": "COTE:Y3V01:spine16:para0796",
+      "paragraphs": 796
+    },
+    {
+      "spine": 17,
+      "title_ja": "Ｃクラスでの学校生活",
+      "working_title_en": "School life in Class C",
+      "focal_architecture": "Ayanokōji first person",
+      "function": "Karaoke, social maneuvering, study culture and eraser teasing complicate the imported leader’s reception.",
+      "first": "COTE:Y3V01:spine17:para0001",
+      "last": "COTE:Y3V01:spine17:para0276",
+      "paragraphs": 276
+    },
+    {
+      "spine": 18,
+      "title_ja": "綾小路の敗北",
+      "working_title_en": "Ayanokōji’s defeat",
+      "focal_architecture": "Kei/Ichinose and rival classrooms in third person; Ayanokōji first person; Ryūen coda",
+      "function": "Kei is hurt before the test; the scoreboards separate raw ability from official defeat; public interpretation establishes a mandate.",
+      "first": "COTE:Y3V01:spine18:para0001",
+      "last": "COTE:Y3V01:spine18:para0597",
+      "paragraphs": 597
+    },
+    {
+      "spine": 19,
+      "title_ja": "敵と味方",
+      "working_title_en": "Enemies and allies",
+      "focal_architecture": "Horikita first person, then Ayanokōji first person",
+      "function": "Kei and Horikita disclose and support one another; a separate Kushida meeting joins remembered childhood to a new coercive offer.",
+      "first": "COTE:Y3V01:spine19:para0001",
+      "last": "COTE:Y3V01:spine19:para0371",
+      "paragraphs": 371
+    },
+    {
+      "spine": 20,
+      "title_ja": "先に待つもの",
+      "working_title_en": "What waits ahead",
+      "focal_architecture": "Ayanokōji first person, then third-person observers",
+      "function": "Memory, Kitō’s resistance, independent class observation and Nanase’s calls open distinct future problems without resolving them.",
+      "first": "COTE:Y3V01:spine20:para0001",
+      "last": "COTE:Y3V01:spine20:para0345",
+      "paragraphs": 345
+    }
+  ],
+  "coverage": {
+    "read_chunks": 47,
+    "total_chunks": 47,
+    "artwork_occurrences_inspected": 22,
+    "inline_glyph_types_inspected": 3
+  },
+  "excluded": [
+    "External linked campaign story not embedded in this EPUB",
+    "Year 3 Volumes 2–4 narrative"
+  ]
+}

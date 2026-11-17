@@ -1,0 +1,100 @@
+{
+  "schema": "konosuba.cohort47.supporting-individual-dimension-audit.v1",
+  "authored_utc": "2026-10-25T12:47:59.555235+00:00",
+  "source_receiving_sha256": "87953cbba9cad1d114ab0149877bc54213c52575abf11730f4621d1f0bf8c168",
+  "subjects": [
+    {
+      "token": "C47-S16",
+      "row": 655,
+      "subject": "Beginner Killer",
+      "tier": 1,
+      "twelve_dimension_audit": {
+        "appearances": "Actual concealment and pursuit sequences MAIN02U014501-541/643-725; Dust739 supplies an unseen encounter report. Same-species mentions are not a global individual identity proof.",
+        "direct_vs_reported": "Sniffing517, passing522, targeting Taylor668, pouncing677 and reaction682-683 are narrated. Hunting/blood accounts530/534-535 and city avoidance691 are attributed explanation or inference.",
+        "decisions_goals_constraints": "Local movement changes with the available target and eye obstruction. Predatory goals are a reasonable functional reading; deliberate use of goblins in this particular encounter is not observed.",
+        "relationships": "Kazuma and Taylor alter exposure and opportunity; other party members provide concealment and escape context. No stable personal relationship or recognized individual-human preference is established.",
+        "repeated_and_contrary": "Passing a hidden party contrasts with approaching an exposed one; obstruction precedes escape. The different scenes do not isolate smell masking, test a universal city boundary or establish a killed predator.",
+        "ordinary_life": "No ordinary routine, age, personal diet beyond attributed predation, ownership or unique name is supplied.",
+        "competence": "Sniffing, rapid approach and pounce are local behavior. Skill detection is Kazuma access; the account does not measure every sensory range or establish all-species hunting intelligence.",
+        "Japanese_voice": "No articulate speech. Narrated crouching and threat are behavior, without a Japanese dialogue corpus or invented inner monologue.",
+        "existing_predictions": "No existing creature prediction or principal first is rewritten. The received Heidel cases do not test this creature.",
+        "prospective_tests": "No model, rules, new hypothetical inputs or firsts. Contrasting concealment and interruption could motivate later questions, but current source-known scenes are not prospective validation.",
+        "gaps": "Uncertain cross-scene individual continuity, indirect hunting theory, no whole life or independent observations. Tier1 encounter profile only.",
+        "narrators": "Kazuma narrates; Keith spots the later approach645, party explanation530 is not assigned to a named speaker, Taylor proposes534-535 and Dust reports739."
+      },
+      "independent_observation_count": null,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C47-S21",
+      "row": 660,
+      "subject": "Dungeon mimic",
+      "tier": 1,
+      "twelve_dimension_audit": {
+        "appearances": "One actual MAIN02U015229-250 encounter, including Kazuma chest misclassification and the bottle-triggered floor/wall response.",
+        "direct_vs_reported": "Enemy detection235 and moving enclosure241/chewing-like motion242 are narrated; Aqua identification237 and species explanation245 remain attributed. Human disguise is reported capability, not performed.",
+        "decisions_goals_constraints": "The bottle contacts the floor before the enclosure moves. Lure function is explained by Aqua; private intention, omnivorous preference and a complete decision procedure are not directly accessible.",
+        "relationships": "Aqua probes with an empty bottle and explains the hazard; Kazuma revises a familiar chest-only expectation. No durable social tie or separate chest-person is established.",
+        "repeated_and_contrary": "An initial perceptual error is corrected by bodily response. Only one trial is shown; neither a successful human attack nor universal inability to move is independently tested.",
+        "ordinary_life": "No name, age, ordinary routine, full diet or later life. Swallowing-like enclosure of an empty bottle is not a measured digestion experiment.",
+        "competence": "Local floor/wall movement is observed. Human imitation and inability to walk are Aqua account; complete range, strength and intelligence remain unmeasured.",
+        "Japanese_voice": "No direct creature speech; Aqua supplies the Japanese name and explanation. No human-disguise dialogue or private mind is invented.",
+        "existing_predictions": "No existing Hans, Ragcraft, creature or principal outputs are repaired. Functional resemblance does not bridge their identities.",
+        "prospective_tests": "No reconstruction model, rules, inputs or firsts assigned. A future test would require genuine observations and a predeclared model rather than replaying this known encounter.",
+        "gaps": "One bounded organism-and-encounter profile is justified. Species scope, actual intentions, mobility and long-term response remain open; no fully modeled mind.",
+        "narrators": "Kazuma narrates perception and detection; Aqua identifies and explains. Their knowledge channels remain separate from direct observation of the creature."
+      },
+      "independent_observation_count": null,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C47-S49",
+      "row": 688,
+      "subject": "Castle eviction guards",
+      "tier": 1,
+      "twelve_dimension_audit": {
+        "appearances": "Actual MAIN11U012448-633 removal sequence, formal requests, successive resistance, Rain reinforcements and final restraint around the forced potion.",
+        "direct_vs_reported": "Guard demands456-457 and bodily restraint581/584 are actual. Captain rank527 is Kazuma guess; Rain casualty account543 includes mediated effects. No direct access to unanimous motives.",
+        "decisions_goals_constraints": "Removal and restraint are observable local functions, with material resistance to Kazuma escape. Continued advance509-511 after Claire retreat507-508 prevents a simple all-follow-one-order model.",
+        "relationships": "Claire directs restraint, Rain brings soldiers, Kazuma resists and Iris intervention617 fails to prevent the result. Heidel412 remains an earlier service actor, not an identified guard.",
+        "repeated_and_contrary": "Four guards512, more than ten soldiers536-540 and final restrainers cannot be summed as unique people. Different tactics change resistance; identical collective beliefs are not established.",
+        "ordinary_life": "No names, exact ages, private domestic life or complete duty rota. Earlier banquet guards and reported training soldiers remain separate occurrences without individual continuity proof.",
+        "competence": "Blocking, encircling and holding contribute to an effective coercive situation. Some are disabled by Kazuma; no universal elite competence, harmlessness or legal approval follows.",
+        "Japanese_voice": "Formal requests and tactical cries are supplied for unindividuated roles. Speech is not assigned to one persistent speaker or generalized as every guard voice.",
+        "existing_predictions": "No Claire, Rain, Iris, Heidel or principal prediction is revised. This collective encounter does not validate any existing model or independent trial.",
+        "prospective_tests": "No group generator, new rules, hypothetical inputs or firsts. Membership and command variation would have to be resolved before a durable behavioral model.",
+        "gaps": "Tier1 collective encounter profile; exact roster, confirmed ranks, private loyalty and later fate unknown. Forced potion630 and blackout631 are retained without inventing later memory outcomes.",
+        "narrators": "Kazuma focalizes the action and guesses rank; Rain reports casualties. The profile does not silently convert these channels into an omniscient account."
+      },
+      "independent_observation_count": null,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C47-S53",
+      "row": 692,
+      "subject": "Castle barrier crew",
+      "tier": 1,
+      "twelve_dimension_audit": {
+        "appearances": "Actual MAIN17U01154-55/114-158 defense, moving and cloaking the gatekeeper, lip-read panic, continued repairs and barrier failure.",
+        "direct_vs_reported": "Initial repair55 is Kazuma inference, later117/149 identifies the role. Assistance117/132 is narrated. Voices124-129 are his distant lip reading, not a separate recorded transcript.",
+        "decisions_goals_constraints": "Repair work and help for a disabled gatekeeper are material functions. Panic and continued work coexist; they do not prove identical individual loyalty or a universal military psychology.",
+        "relationships": "The gatekeeper139 proposes attrition142; the crew responds143 and works149. Dark knights, winged attackers and oni-like reinforcements retain separate occurrence routes.",
+        "repeated_and_contrary": "Early repairs do not guarantee success: barrier155 breaks and nearby users158 are blown away. No exact fixed speaker count or exhaustive individual death/escape roster.",
+        "ordinary_life": "No names, exact ages, personal routines or ordinary-life preferences. The cry for a mother129 is an exclamation, not an introduced parent.",
+        "competence": "Group barrier work and physical assistance are evidenced. Gatekeeper infinite-mana claim142 is not each crew member resource level; moving/cloaking does not prove crew-cast regeneration114-115.",
+        "Japanese_voice": "Quoted distant panic is mediated by Kazuma lip reading; separate cries are not one stable individual voice. His provocative rendering134-139 differs from raw wording and remains marked.",
+        "existing_predictions": "No gatekeeper, demon officer or principal first is repaired. The scene is now source-known for the later MAIN17 cohort, with no renewed unread or holdout status.",
+        "prospective_tests": "No reconstruction model, rule, input or first assigned. Later work must preserve current exposure and distinguish collective resources from gatekeeper claims.",
+        "gaps": "Tier1 group profile; identities, species, exact resources, personal motives and each final fate remain open. No independent observation count or final tier claim.",
+        "narrators": "Kazuma narrates, infers, observes at distance and lip-reads; gatekeeper speech is not a universal statement about all crew. Access qualification remains attached."
+      },
+      "independent_observation_count": null,
+      "new_model_or_rule": false
+    }
+  ],
+  "remaining50_routes": "Proportional Tier0 source/access records, each with a source distribution, access classification, specific substantive responsibility, gaps and typed relations in the complete route object. No claimed unique-person increment.",
+  "source_new_P": 0,
+  "new_model_rule_input_first_count": 0,
+  "global_percentage": null,
+  "full_program_complete": false
+}

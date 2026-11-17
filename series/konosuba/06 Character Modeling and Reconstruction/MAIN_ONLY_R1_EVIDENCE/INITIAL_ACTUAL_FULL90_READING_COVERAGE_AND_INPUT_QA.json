@@ -1,0 +1,150 @@
+{
+  "state": "COMPLETE_INITIAL_EXTERNAL_ASSESSMENT_BEFORE_SHARED_QA",
+  "recorded_utc": "2026-10-17T14:49:41.223527+00:00",
+  "input_byte_identities": {
+    "K_responses": {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-first-k18-responses-v1/ROOT_FIRST_K18_BOUNDED_RESPONSES.jsonl",
+      "bytes": 73974,
+      "sha256": "0617a36e0ddcf21218b1584db9a368f587a55e222176c2446a38effb2df8c740"
+    },
+    "P_responses": {
+      "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/PRODUCER_ALL36_FIRST_RESPONSES.jsonl",
+      "bytes": 99987,
+      "sha256": "be6e5b65842c4552f3be96acc972697b908f8b0cf690abd58445a55714e9ce71"
+    },
+    "I_responses": {
+      "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/ALL36_FIRST_COMPLETE_RESPONSE_RECORDS.json",
+      "bytes": 264871,
+      "sha256": "ea1c93e54eadde9e4126723f4eed8d0d386daaf6393bbf4ca049aef392b7afb1"
+    },
+    "K_seal": {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-first-k18-responses-v1/ROOT_FIRST_COMPLETE_K18_RESPONSE_SEAL.json",
+      "bytes": 2369,
+      "sha256": "c8d2720ed5de49cfc67fd5057fca004e0cebb8b3595d38f3b7308b078e90a167"
+    },
+    "P_seal": {
+      "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/PRODUCER_ALL36_FIRST_OUTPUTS_SEAL.json",
+      "bytes": 1404,
+      "sha256": "99832fc324456a5ce0b0b0bf91ccf6413feb8c5a88355c441dfdabb3456abf53"
+    },
+    "I_seal": {
+      "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/FIRST_COMPLETE36_EXECUTION_PRE_EVALUATOR_SEAL.json",
+      "bytes": 10979,
+      "sha256": "bf31b7bae747f574b66bd4d1cd154b687ad224d2839cebbf997e2bade8a1b141"
+    },
+    "binding_seal": {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/METADATA_ONLY_FINAL_PRE_RESPONSE_BINDING_SEAL.json",
+      "bytes": 3085,
+      "sha256": "4d44a08e0d3cf48ab023317bf3115b7a73b9642ff5d50ae76baf9d4a1172a9d2"
+    },
+    "binding_full": {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SEALED_PRE_RESPONSE_BINDINGS_PRIVATE.json",
+      "bytes": 1382202,
+      "sha256": "0a05252f1005f482da2d0f015d4431f715c9b8544451d2d7ba3251fdeecd189d"
+    },
+    "contract_registry": {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/EXACT_RECEIVED_MODEL_CONTRACT_REGISTRY.json",
+      "bytes": 250967,
+      "sha256": "680748c892a9178852901c217b657119afeea3879e547db8a393d93878d9b833"
+    }
+  },
+  "counts": {
+    "first_responses": 90,
+    "individual": 72,
+    "party": 18,
+    "canonical": 45,
+    "transfer": 45,
+    "unique_settings": 45,
+    "eight_criterion_records": 720,
+    "primary_contract_views_not_trials": 702,
+    "typed_constraint_views_not_trials": 360
+  },
+  "full_substantive_read_pages": [
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_I_01_03.txt",
+      "bytes": 7779,
+      "sha256": "417c6c0a29eeb001ef6e4a0c335b9b467d923829ac5aa2ddf4b996e8b4e1bb39"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_I_04_06.txt",
+      "bytes": 8477,
+      "sha256": "4597cc9d97d2c9fce95c6478de03b9013bea74a0721d3e9b62ad79ee5227cbde"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_I_07_09.txt",
+      "bytes": 9523,
+      "sha256": "ae3075c4847287f200388e414a19b6ea1945f05c62e01b9604bc846e037c276a"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_I_10_12.txt",
+      "bytes": 10550,
+      "sha256": "3845b47fd8f279256394973e1b70ba3bfcf4af12390fa9fcd75b8ab9b4986f92"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_I_13_15.txt",
+      "bytes": 11700,
+      "sha256": "1dcefaa275bd0db335ca4635dcc2de9c832ec152ed294664ea38870d712da6d4"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_I_16_18.txt",
+      "bytes": 12622,
+      "sha256": "1ea9d632aec8c149a8e2f63efa1ab69b177472fcc6f68a11b6dc198dc5b068af"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_K_01_03.txt",
+      "bytes": 11663,
+      "sha256": "10f433d6080d58a12a027f8924182286cf3e29183d032b350b9aa22336c15290"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_K_04_06.txt",
+      "bytes": 11738,
+      "sha256": "d239f46b68ea188f26813b2cb1f8dc7e738814e106caa7fdfc75bf81384dff71"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_K_07_09.txt",
+      "bytes": 12170,
+      "sha256": "27089d166c00ae76bee77effaede75c930a48086a1a5aea2a048108baae5ead2"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_P_01_03.txt",
+      "bytes": 9270,
+      "sha256": "09bd0ee554fe60198e418bef871ec64c02da85286ccff5a7cab4763a3bc978ff"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_P_04_06.txt",
+      "bytes": 9570,
+      "sha256": "66375713dbaac43959c1ad9cbf9cec7a9d27067d087ab549c130c62a1fd59433"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_P_07_09.txt",
+      "bytes": 9129,
+      "sha256": "a61a9be0c7e2ae083d531e1431b23210dc2c879fd652725f2a3c5ac8a4a2675a"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_P_10_12.txt",
+      "bytes": 9199,
+      "sha256": "30f1b7687ca007975328909ff0bd71887c474504418fe32f581f013f4263cdd5"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_P_13_15.txt",
+      "bytes": 9338,
+      "sha256": "0080bf2ac6f636c86e381784ea6888a2ca6fed0c065e11014a7170f380c769f4"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/FACTORED_ACTUAL_PAIR_FIELDS_P_16_18.txt",
+      "bytes": 9597,
+      "sha256": "502c21dba032dda2cdc1059dbf50256e3209d693052a1cbc733fdee07e57bba6"
+    }
+  ],
+  "duplicate_value_reuse_proof": {
+    "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/EXACT_PAIR_FACTORIZATION_REUSE_PROOF.json",
+    "bytes": 23934,
+    "sha256": "fa83a83aecdb39f875dc0f710c5f93749ef6042c391590cd7d3da4c6503985ed"
+  },
+  "metadata_scope": "All generated action/dialogue/JP and eight causal/voice-audit fields read; exact common metadata/runtime/provenance read once. Every response ID/mode/subject/model and exposed prompt hash checked mechanically. No claim of human-like serial reading of all duplicate JSON keys, hash strings or 438832 raw input bytes.",
+  "no_owner_self_QA_or_root_peer_report_read_before_this_assessment": true,
+  "new_primary_narrative_opened": false,
+  "baseline_models_bank_bindings_outcomes_and_first_responses_edited": false,
+  "full_criteria_presence_verified_not_substantive_certification": true,
+  "runtime": "Exact served model/build/temperature/top_p/seed/reasoning settings unavailable; declared same GPT-6-based Codex authoring, no independent stochastic sampling claim."
+}

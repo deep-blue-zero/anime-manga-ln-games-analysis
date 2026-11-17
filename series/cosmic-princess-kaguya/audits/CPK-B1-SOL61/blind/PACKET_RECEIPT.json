@@ -1,0 +1,10 @@
+{
+  "first_packet_exposure_utc_recorded": "2026-11-12T04:51:35.089152+00:00",
+  "pr_head_sha": "7c850af679471b74e36a8458985e448bc8191068",
+  "git_blob_sha": "16db6d02d9c545957c2881c2891adda103b2aa7a",
+  "packet_bytes": 21403,
+  "packet_sha256": "807784579986a87afea5da5ce0bdf1921d803a6be5e81baed72662da91b7c2a2",
+  "independent_freeze_manifest_sha256": "67d16bc1a88fa6672f24c0f7cdf9c3002a0bd946aeafc8d7058c1c407d1448e7",
+  "gemini_substantive_material_seen": false,
+  "note": "Technical ls-remote head only plus approved packet; no PR metadata, description, changed-file listing or withheld title homes retrieved."
+}

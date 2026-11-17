@@ -1,0 +1,95 @@
+{
+  "schema": "KONOSUBA_LOSSLESS_JSON_REASSEMBLY_RECIPE_V1",
+  "artifact_class": "SOURCE_SAFE_DECLARATIVE_DATA_ONLY_NO_EXECUTABLE_CODE",
+  "purpose": "Reproduce the original pre-response binding stream byte-for-byte from its public header/order and three complete owner partitions. This verifies representation only, not the semantic adequacy of any binding.",
+  "path_base": "The directory containing PRE_RESPONSE_BINDING_HEADER_AND_ORDER.json and the three PRE_RESPONSE_BINDINGS_*.json inputs. No workspace, attachment, network or historical absolute path is required or dereferenced.",
+  "inputs": {
+    "header": {
+      "relative_path": "PRE_RESPONSE_BINDING_HEADER_AND_ORDER.json",
+      "bytes": 3151,
+      "sha256": "782164f1e8bd0c635609f4125e946a0519d57bc62c52888a153249e314e186d7"
+    },
+    "partitions": [
+      {
+        "relative_path": "PRE_RESPONSE_BINDINGS_KAZUMA.json",
+        "bytes": 283319,
+        "sha256": "36947aa88f432b9e0e26c02542c0a995547852458de812fd1491571089f010b5"
+      },
+      {
+        "relative_path": "PRE_RESPONSE_BINDINGS_AQUA_MEGUMIN.json",
+        "bytes": 535162,
+        "sha256": "13c46c5bb36d4c56ba41477ebbd67d1377c6db7076a6ef03305938fd708a953e"
+      },
+      {
+        "relative_path": "PRE_RESPONSE_BINDINGS_DARKNESS_PARTY.json",
+        "bytes": 564146,
+        "sha256": "c42a29d0ae406776ae66e70bd4ebdb5b52dbd7aa256a4bf747e75e2fe42885f4"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "operation": "VERIFY_INPUT_BYTE_IDENTITIES",
+      "rule": "For each input, match bytes and SHA256 before parsing; fail on a mismatch. Do not fetch replacement inputs."
+    },
+    {
+      "operation": "PARSE_UTF8_JSON_PRESERVING_ORDER",
+      "rule": "Decode UTF-8 without a BOM; retain every object member order, array order, number, Unicode scalar and value. Do not normalize strings or interpret field contents."
+    },
+    {
+      "operation": "COLLECT_EXECUTION_OBJECTS",
+      "input_aliases": "all partitions in listed order",
+      "array_pointer": "/executions",
+      "index_key": "execution_id",
+      "reject_duplicate_ids": true,
+      "rule": "Keep each entire execution object and its internal property order unchanged; no fields or nested values are dropped."
+    },
+    {
+      "operation": "RESTORE_EXECUTION_ORDER",
+      "order_input_alias": "header",
+      "order_array_pointer": "/execution_id_order",
+      "rule": "Require exactly the same set of unique IDs in the index and the90-element order array; lookup complete objects in that explicit order. Reject missing, extra or duplicate IDs."
+    },
+    {
+      "operation": "RESTORE_TOP_LEVEL_OBJECT",
+      "key_order_input_alias": "header",
+      "key_order_pointer": "/source_top_level_key_order",
+      "header_values_pointer": "/source_header_without_executions",
+      "execution_array_key": "executions",
+      "rule": "Insert keys in the recorded top-level order. For the executions key insert the restored array. For every other key copy its entire existing header value, retaining nested object order. Require exact key-set coverage; no inferred/default keys."
+    },
+    {
+      "operation": "SERIALIZE_JSON",
+      "encoding": "UTF-8",
+      "ensure_ascii": false,
+      "indent": 2,
+      "sort_keys": false,
+      "separators": [
+        ",",
+        ": "
+      ],
+      "line_endings": "LF",
+      "byte_order_mark": false,
+      "terminal_newlines": 1,
+      "rule": "Use conventional JSON pretty serialization equivalent to json.dumps(object, ensure_ascii=False, indent=2, sort_keys=False) plus exactly one LF. Nested insertion order must not be sorted."
+    },
+    {
+      "operation": "VERIFY_RECONSTRUCTED_BYTES",
+      "expected_bytes": 1382202,
+      "expected_sha256": "0a05252f1005f482da2d0f015d4431f715c9b8544451d2d7ba3251fdeecd189d",
+      "rule": "Report failure if either identity differs. Hash equality is the decisive serialization check, not a claim of semantic review."
+    }
+  ],
+  "output": {
+    "suggested_local_verification_filename": "REASSEMBLED_ORIGINAL_PRE_RESPONSE_BINDING_STREAM.json",
+    "bytes": 1382202,
+    "sha256": "0a05252f1005f482da2d0f015d4431f715c9b8544451d2d7ba3251fdeecd189d",
+    "publication_note": "The reconstructed large stream is an optional local verification product, not an additional maintained public artifact; the individually bounded public partitions/header remain the preservation representation."
+  },
+  "safety_and_scope": [
+    "No private source path, signed URL, attachment, narrative paragraph or hidden evaluator field content is embedded in this recipe.",
+    "Copy binding fields opaquely; this procedure does not read or evaluate hidden facts, expected answers, predicates, outcomes or adverse signatures.",
+    "Do not alter original models, prompts, first responses, settings, partitions, candidate files or canonical/Git state.",
+    "This is not model adoption, suite acceptance, publication, a reconstruction freeze, behavioral validation or a new source admission."
+  ]
+}

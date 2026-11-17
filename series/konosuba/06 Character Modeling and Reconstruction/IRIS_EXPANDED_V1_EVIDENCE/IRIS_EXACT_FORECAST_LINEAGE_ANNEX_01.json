@@ -1,0 +1,271 @@
+{
+  "schema": "KONOSUBA_IRIS_EXACT_HISTORICAL_LINEAGE_ANNEX_V1",
+  "status": "SCOPED_COHORT01_ACCEPTED_HISTORICAL_LINEAGE_NOT_NEW_SCORES",
+  "created_utc": "2026-10-19T09:34:13.038111+00:00",
+  "original_eight_frozen_blocks": [
+    {
+      "id": "MG02-I01",
+      "source_path": "03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "source_bytes": 1037609,
+      "source_sha256": "6e3892edf4e3248d30b61594e750822d36d526277174baa18331909daeb52263",
+      "start_line": 566,
+      "bytes": 529,
+      "sha256": "062d4f6accf94312afcbab3572a598a124778c1808941ea072812f396a4dfdba",
+      "exact_original_string": "### MG02-I01 — Nondeferential safety unlocks age-level agency\n- **Trigger/context:** Iris is with a trusted person who treats her as an ordinary younger peer rather than only as royalty.\n- **Prediction:** curiosity, competitive behavior, ordinary wants, and tactical experimentation increase; she learns informal strategies quickly.\n- **Confidence:** MODERATE-HIGH.\n- **Disconfirmation:** later safe nondeferential contexts leave her behavior as constrained/formal as public royal contexts.\n- **Outcome:**\n- **Adjudication:**\n\n"
+    },
+    {
+      "id": "MG02-I02",
+      "source_path": "03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "source_bytes": 1037609,
+      "source_sha256": "6e3892edf4e3248d30b61594e750822d36d526277174baa18331909daeb52263",
+      "start_line": 574,
+      "bytes": 508,
+      "sha256": "cd04b139a7790b278e61a2bf1f4b0553b717476271cf5aa59a46765c2169182b",
+      "exact_original_string": "### MG02-I02 — Duty suppresses wants more than ability does\n- **Trigger/context:** personal desire conflicts with royal role/duty.\n- **Prediction:** Iris will often self-limit or choose a smaller request rather than openly demand the desired freedom, even while privately maintaining the wish.\n- **Confidence:** MODERATE-HIGH.\n- **Disconfirmation:** she repeatedly prioritizes personal desire over understood royal obligations without meaningful conflict or constraint.\n- **Outcome:**\n- **Adjudication:**\n\n"
+    },
+    {
+      "id": "MG03-I01",
+      "source_path": "04 Checkpoints and Model Validation/KONOSUBA_V07-V09_CHECKPOINT.md",
+      "source_bytes": 90799,
+      "source_sha256": "68d0b9962389a183a517ff2859bdd85f3275681c18fa9a74c76ae6e3bd8faf92",
+      "start_line": 626,
+      "bytes": 1326,
+      "sha256": "e73ac34a0920faf9d56831c77ba1af532586e5f1b0fb90676690370e89d71240",
+      "exact_original_string": "### MG03-I01 — Safe nondeferential interaction expands Iris's agency\n- **Trigger/context:** Iris is directly shown with a trusted person who treats her as an ordinary younger peer in a setting with less formal royal surveillance.\n- **Relationship/stakes:** compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.\n- **Predicted appraisal:** ordinary curiosity, experimentation and wants can be expressed without immediate royal correction.\n- **Predicted dominant motive:** learn, play or exercise age-appropriate agency.\n- **Predicted behavior:** curiosity, informal strategy learning, competition or ordinary requests will become more visible than in the constrained setting.\n- **Interaction tendency:** familiar address and less inhibited interaction may accompany the behavioral change; honorifics alone do not prove the mechanism.\n- **Confidence:** MODERATE-HIGH as inherited from V06; V07–V09 provide no matched test.\n- **Evidence basis:** CP03-I01; V04–V06 checkpoint §10 and unchanged MG02-I01; V09 `0016:P0035–0040` only preserves the letter boundary.\n- **Disconfirmation:** repeated safe nondeferential settings leave her equally constrained, with no predicted behavioral expansion despite available ordinary choices.\n- **Outcome:**\n- **Adjudication:**\n\n"
+    },
+    {
+      "id": "MG03-I02",
+      "source_path": "04 Checkpoints and Model Validation/KONOSUBA_V07-V09_CHECKPOINT.md",
+      "source_bytes": 90799,
+      "source_sha256": "68d0b9962389a183a517ff2859bdd85f3275681c18fa9a74c76ae6e3bd8faf92",
+      "start_line": 639,
+      "bytes": 1358,
+      "sha256": "b283ad60124a835bf4b8a42852096c905df0f7438b5997498284a3578ca995b5",
+      "exact_original_string": "### MG03-I02 — An expressed wish may be narrowed by understood royal duty\n- **Trigger/context:** the source directly establishes both a personal wish of Iris's and a royal obligation she understands as conflicting with it.\n- **Relationship/stakes:** genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.\n- **Predicted appraisal:** the larger personal wish exceeds what the role permits.\n- **Predicted dominant motive:** preserve duty while obtaining a smaller part of the desired freedom or connection.\n- **Predicted behavior:** she will tend to self-limit or choose a reduced request while the original wish remains expressed or otherwise directly evidenced.\n- **Interaction tendency:** restrained petition may coexist with familiar attachment language; the source must establish the motive rather than the analyst supplying it.\n- **Confidence:** MODERATE-HIGH as inherited from V06; still unvalidated in V07–V09.\n- **Evidence basis:** CP03-I01; V04–V06 checkpoint §10 and unchanged MG02-I02; V09 `0016:P0036–0041` is not a matched decision.\n- **Disconfirmation:** repeated explicit wish/duty conflicts produce unconstrained prioritization of the wish without meaningful conflict or self-limitation, despite understood obligations.\n- **Outcome:**\n- **Adjudication:**\n\n"
+    },
+    {
+      "id": "MG04-I01",
+      "source_path": "04 Checkpoints and Model Validation/KONOSUBA_V10-V12_CHECKPOINT.md",
+      "source_bytes": 143090,
+      "source_sha256": "42b80aadc190720d205e9f594c3488b91c8108dc78c6aef3358794720fc1fe82",
+      "start_line": 1062,
+      "bytes": 2028,
+      "sha256": "36b18cf02b79f1d84946d9653bf3d8c48991552aafd971fdfa5dffcff12aadc2",
+      "exact_original_string": "## MG04-I01 — Safe nondeferential interaction expands Iris's agency\n\nNew prospective statement; original MG03 record and outcomes unchanged.\n- **Trigger/context:** Iris is directly shown with a trusted person who treats her as an ordinary younger peer in a setting with less formal royal surveillance.\n- **Relationship/stakes:** compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.\n- **Predicted appraisal:** ordinary curiosity, experimentation and wants can be expressed without immediate royal correction.\n- **Predicted dominant motive:** learn, play or exercise age-appropriate agency.\n- **Predicted behavior/effect:** curiosity, informal strategy learning, competition or ordinary requests will become more visible than in the constrained setting.\n- **Interaction tendency:** familiar address and less inhibited interaction may accompany the behavioral change; honorifics alone do not prove the mechanism.\n- **Confidence:** MODERATE-HIGH for bounded role conditioning, now supported by directly matched V10/V11 contrasts beyond inherited V06 evidence. V07–V09 remain historically without a matched test; V12 supplies no new direct contrast.\n- **Evidence basis:** CP03-I01; V04–V06 checkpoint §10 and unchanged MG02-I01; V09 `0016:P0035–0040` only preserves the letter boundary.; CP04 branch score MG03-I01: V10/V11 directly shown constrained/public versus safer nondeferential interaction supports role-conditioned Iris behavior. V12 route: C1P0238–0254; C5P0138–0142. Adjacent/NT records are limits, not confirmations.\n- **Disconfirmation:** repeated safe nondeferential settings leave her equally constrained, with no predicted behavioral expansion despite available ordinary choices.\n- **Coding and modifiers:** Require a new actual comparable constrained/public versus safer/nondeferential interaction. V12 possibly edited retrospective narrative remains report-level and cannot reopen earlier Iris speech/tears.\n- **Outcome:**\n- **Adjudication:**\n\n"
+    },
+    {
+      "id": "MG04-I02",
+      "source_path": "04 Checkpoints and Model Validation/KONOSUBA_V10-V12_CHECKPOINT.md",
+      "source_bytes": 143090,
+      "source_sha256": "42b80aadc190720d205e9f594c3488b91c8108dc78c6aef3358794720fc1fe82",
+      "start_line": 1078,
+      "bytes": 2035,
+      "sha256": "604cfc79c7272bda0d199ddecc0c8c2b9f9eeb20dab95133b58dd8e991017e3e",
+      "exact_original_string": "## MG04-I02 — An expressed wish may be narrowed by understood royal duty\n\nNew prospective statement; original MG03 record and outcomes unchanged.\n- **Trigger/context:** the source directly establishes both a personal wish of Iris's and a royal obligation she understands as conflicting with it.\n- **Relationship/stakes:** genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.\n- **Predicted appraisal:** the larger personal wish exceeds what the role permits.\n- **Predicted dominant motive:** preserve duty while obtaining a smaller part of the desired freedom or connection.\n- **Predicted behavior/effect:** she will tend to self-limit or choose a reduced request while the original wish remains expressed or otherwise directly evidenced.\n- **Interaction tendency:** restrained petition may coexist with familiar attachment language; the source must establish the motive rather than the analyst supplying it.\n- **Confidence:** MODERATE-HIGH for bounded wish–duty negotiation, now supported by the clean V11 explicit wish/duty/reduced-request decision. V10 and V12 remain locallyNT; V07–V09 historical nonvalidation is not rewritten.\n- **Evidence basis:** CP03-I01; V04–V06 checkpoint §10 and unchanged MG02-I02; V09 `0016:P0036–0041` is not a matched decision.; CP04 branch score MG03-I02: V11 directly establishes personal wish, understood royal duty and narrowing of the request. V12 route: C1P0241–0243,0248; C5P0138. Adjacent/NT records are limits, not confirmations.\n- **Disconfirmation:** repeated explicit wish/duty conflicts produce unconstrained prioritization of the wish without meaningful conflict or self-limitation, despite understood obligations.\n- **Coding and modifiers:** Require actual personal wish plus understood conflicting royal duty before a narrowed/renegotiated request. Retold attachment, old letter obligation or generic public constraint alone cannot supply the full sequence.\n- **Outcome:**\n- **Adjudication:**\n"
+    },
+    {
+      "id": "MG05-I01",
+      "source_path": "04 Checkpoints and Model Validation/KONOSUBA_V13-V15_CHECKPOINT.md",
+      "source_bytes": 298541,
+      "source_sha256": "9b205b0a45e51cf78533896d1f161f8401c2bca30eda3f4663af93c575f0adc2",
+      "start_line": 1977,
+      "bytes": 2919,
+      "sha256": "95903eb1efb343fcb4e47156edd975f6896e779efe301e82e34b532e8f4342ec",
+      "exact_original_string": "## MG05-I01 — Direct safer nondeferential context permits more ordinary Iris agency\n\n**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.\n\n**Character/system:** Iris.\n\n**Relationship condition:** compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.\n\n**Stake level:** Safer trusted nondeferential context versus directly observed royal-surveillance context.\n\n**Lineage/change:** PRESERVE earlier directly supported bounded contrast; no new validation from letters/mentions. Predecessor `MG04-I01` block SHA256 `36b18cf02b79f1d84946d9653bf3d8c48991552aafd971fdfa5dffcff12aadc2`.\n\n- **Trigger/context:** Iris is directly shown with a trusted person who treats her as an ordinary younger peer in a setting with less formal royal surveillance.\n- **Relationship/stakes:** compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.\n- **Predicted appraisal:** ordinary curiosity, experimentation and wants can be expressed without immediate royal correction.\n- **Predicted dominant motive:** learn, play or exercise age-appropriate agency.\n- **Predicted behavior/effect:** curiosity, informal strategy learning, competition or ordinary requests will become more visible than in the constrained setting.\n- **Interaction tendency:** familiar address and less inhibited interaction may accompany the behavioral change; honorifics alone do not prove the mechanism.\n- **Confidence:** MODERATE-HIGH inherited bounded role conditioning from direct V10/V11 contrasts; no fresh matched V13–V15 contrast. Historical earlier NTs remain.\n- **Evidence basis:** CP04 bounded-secondary table/MG04-I01 and actual V10/V11 contrasts; V13–V15 localI01NT/letter boundaries.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.\n- **Disconfirmation:** repeated safe nondeferential settings leave her equally constrained, with no predicted behavioral expansion despite available ordinary choices.\n- **Coding and modifiers:** Require a new actual comparable constrained/public versus safer/nondeferential interaction. V12 possibly edited retrospective narrative remains report-level and cannot reopen earlier Iris speech/tears.\n- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.\n- **Failure threshold:** Repeated safe nondeferential settings remain equally constrained despite available ordinary choices and a direct public comparison; prospectively at least2. A letter cannot supply the comparison.\n- **Outcome:**\n- **Adjudication:**\n\n"
+    },
+    {
+      "id": "MG05-I02",
+      "source_path": "04 Checkpoints and Model Validation/KONOSUBA_V13-V15_CHECKPOINT.md",
+      "source_bytes": 298541,
+      "source_sha256": "9b205b0a45e51cf78533896d1f161f8401c2bca30eda3f4663af93c575f0adc2",
+      "start_line": 2004,
+      "bytes": 2929,
+      "sha256": "de8330069ce5a10ed0c5e5f1acd7b6d8c50db97281a8cebecf030a36018c61ba",
+      "exact_original_string": "## MG05-I02 — Directly expressed wish and understood royal duty test reduced requests\n\n**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.\n\n**Character/system:** Iris.\n\n**Relationship condition:** genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.\n\n**Stake level:** Directly evidenced personal wish and understood conflicting royal obligation.\n\n**Lineage/change:** PRESERVE inherited bounded wish–duty mechanism without pretending the unexposed next tranche contains it. Predecessor `MG04-I02` block SHA256 `604cfc79c7272bda0d199ddecc0c8c2b9f9eeb20dab95133b58dd8e991017e3e`.\n\n- **Trigger/context:** the source directly establishes both a personal wish of Iris's and a royal obligation she understands as conflicting with it.\n- **Relationship/stakes:** genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.\n- **Predicted appraisal:** the larger personal wish exceeds what the role permits.\n- **Predicted dominant motive:** preserve duty while obtaining a smaller part of the desired freedom or connection.\n- **Predicted behavior/effect:** she will tend to self-limit or choose a reduced request while the original wish remains expressed or otherwise directly evidenced.\n- **Interaction tendency:** restrained petition may coexist with familiar attachment language; the source must establish the motive rather than the analyst supplying it.\n- **Confidence:** MODERATE-HIGH inherited bounded wish–duty negotiation from direct V11; no fresh matched V13–V15 sequence. Historical earlier NTs remain.\n- **Evidence basis:** CP04 bounded-secondary table/MG04-I02; V11 direct wish/duty/reduced request; V13–V15 localI02NT.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.\n- **Disconfirmation:** repeated explicit wish/duty conflicts produce unconstrained prioritization of the wish without meaningful conflict or self-limitation, despite understood obligations.\n- **Coding and modifiers:** Require actual personal wish plus understood conflicting royal duty before a narrowed/renegotiated request. Retold attachment, old letter obligation or generic public constraint alone cannot supply the full sequence.\n- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.\n- **Failure threshold:** Repeated directly understood wish/duty conflicts prioritize wish unconstrained without meaningful conflict/self-limit; prospectively at least2.\n- **Outcome:**\n- **Adjudication:**\n"
+    }
+  ],
+  "historical_outcomes_separate_from_original_blank_fields": [
+    {
+      "generation": "MG02",
+      "derivation": "CP02/MAIN06; not a prospective MAIN06 test",
+      "target": "V07-V09",
+      "I01": {
+        "V07": "NOT_TESTED",
+        "V08": "NOT_TESTED",
+        "V09": "NOT_TESTED"
+      },
+      "I02": {
+        "V07": "NOT_TESTED",
+        "V08": "NOT_TESTED",
+        "V09": "NOT_TESTED"
+      },
+      "source": "04 Checkpoints and Model Validation/KONOSUBA_V07-V09_CHECKPOINT.md",
+      "read_scope": "Table80-81 and bounded-secondary section232-240; original MG02 blocks566-580 and freeze584 read.",
+      "source_bytes": 90799,
+      "source_sha256": "68d0b9962389a183a517ff2859bdd85f3275681c18fa9a74c76ae6e3bd8faf92"
+    },
+    {
+      "generation": "MG03",
+      "target": "V10-V12",
+      "I01": {
+        "V10": "CONFIRMED",
+        "V11": "CONFIRMED",
+        "V12": "NOT_TESTED"
+      },
+      "I02": {
+        "V10": "NOT_TESTED",
+        "V11": "CONFIRMED",
+        "V12": "NOT_TESTED"
+      },
+      "source": "04 Checkpoints and Model Validation/KONOSUBA_V10-V12_CHECKPOINT.md",
+      "read_scope": "Table90-91 and full adjudications467-497. V11 underlying event counted once across all artifacts.",
+      "source_bytes": 143090,
+      "source_sha256": "42b80aadc190720d205e9f594c3488b91c8108dc78c6aef3358794720fc1fe82"
+    },
+    {
+      "generation": "MG04",
+      "target": "V13-V15",
+      "I01": {
+        "V13": "NOT_TESTED",
+        "V14": "NOT_TESTED",
+        "V15": "NOT_TESTED"
+      },
+      "I02": {
+        "V13": "NOT_TESTED",
+        "V14": "NOT_TESTED",
+        "V15": "NOT_TESTED"
+      },
+      "source": "04 Checkpoints and Model Validation/KONOSUBA_V13-V15_CHECKPOINT.md",
+      "read_scope": "Table58-59 and exact prior blocks; letters/mentions do not supply required direct conjunctions.",
+      "source_bytes": 298541,
+      "source_sha256": "9b205b0a45e51cf78533896d1f161f8401c2bca30eda3f4663af93c575f0adc2"
+    },
+    {
+      "generation": "MG05",
+      "target": "V16-V17 ONLY; never retargeted to supplemental or new model scope",
+      "I01": {
+        "V16": "NOT_TESTED",
+        "V17": "NOT_TESTED"
+      },
+      "I02": {
+        "V16": "NOT_TESTED",
+        "V17": "NOT_TESTED"
+      },
+      "source": "04 Checkpoints and Model Validation/KONOSUBA_V16-V17_FINAL_SEQUENTIAL_CHECKPOINT.md",
+      "read_scope": "Table72-73 and previously received complete CP06 adjudications; threshold at least2 repeated matched cases preserved in exact MG05 blocks.",
+      "source_bytes": 224053,
+      "source_sha256": "2f6877c60083933617a3f012c3f248938449bcdf45cbf01f55af9172c2695f6e"
+    }
+  ],
+  "pre_YORI04_separate_scope": {
+    "file_sha256": "1b85d49398bd832026c310d77d4651c1f66ca9a58eb8a0f7a6aa114944c9b3c1",
+    "created_utc": "2026-10-19T02:49:03.808800+00:00",
+    "exact_Iris_commitments": [
+      {
+        "commitment_id": "SEC01-I01",
+        "model_generation": "SECONDARY_INFORMED_EXPLORATORY_01_NOT_FULL_RECONSTRUCTION",
+        "prior_hypothesis": "MG05-I01",
+        "prior_block_sha256": "95903eb1efb343fcb4e47156edd975f6896e779efe301e82e34b532e8f4342ec",
+        "original_prior_block_exact": "## MG05-I01 — Direct safer nondeferential context permits more ordinary Iris agency\n\n**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.\n\n**Character/system:** Iris.\n\n**Relationship condition:** compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.\n\n**Stake level:** Safer trusted nondeferential context versus directly observed royal-surveillance context.\n\n**Lineage/change:** PRESERVE earlier directly supported bounded contrast; no new validation from letters/mentions. Predecessor `MG04-I01` block SHA256 `36b18cf02b79f1d84946d9653bf3d8c48991552aafd971fdfa5dffcff12aadc2`.\n\n- **Trigger/context:** Iris is directly shown with a trusted person who treats her as an ordinary younger peer in a setting with less formal royal surveillance.\n- **Relationship/stakes:** compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.\n- **Predicted appraisal:** ordinary curiosity, experimentation and wants can be expressed without immediate royal correction.\n- **Predicted dominant motive:** learn, play or exercise age-appropriate agency.\n- **Predicted behavior/effect:** curiosity, informal strategy learning, competition or ordinary requests will become more visible than in the constrained setting.\n- **Interaction tendency:** familiar address and less inhibited interaction may accompany the behavioral change; honorifics alone do not prove the mechanism.\n- **Confidence:** MODERATE-HIGH inherited bounded role conditioning from direct V10/V11 contrasts; no fresh matched V13–V15 contrast. Historical earlier NTs remain.\n- **Evidence basis:** CP04 bounded-secondary table/MG04-I01 and actual V10/V11 contrasts; V13–V15 localI01NT/letter boundaries.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.\n- **Disconfirmation:** repeated safe nondeferential settings leave her equally constrained, with no predicted behavioral expansion despite available ordinary choices.\n- **Coding and modifiers:** Require a new actual comparable constrained/public versus safer/nondeferential interaction. V12 possibly edited retrospective narrative remains report-level and cannot reopen earlier Iris speech/tears.\n- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.\n- **Failure threshold:** Repeated safe nondeferential settings remain equally constrained despite available ordinary choices and a direct public comparison; prospectively at least2. A letter cannot supply the comparison.\n- **Outcome:**\n- **Adjudication:**\n\n",
+        "trigger": "Iris is directly shown with a trusted person who treats her as an ordinary younger peer in a setting with less formal royal surveillance.",
+        "relationship_and_stakes": "compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.",
+        "predicted_appraisal": "ordinary curiosity, experimentation and wants can be expressed without immediate royal correction.",
+        "predicted_dominant_motive": "learn, play or exercise age-appropriate agency.",
+        "predicted_behavior": "curiosity, informal strategy learning, competition or ordinary requests will become more visible than in the constrained setting.",
+        "interaction_tendency": "familiar address and less inhibited interaction may accompany the behavioral change; honorifics alone do not prove the mechanism.",
+        "disconfirmation": "repeated safe nondeferential settings leave her equally constrained, with no predicted behavioral expansion despite available ordinary choices.",
+        "evidence_basis": "CP04 bounded-secondary table/MG04-I01 and actual V10/V11 contrasts; V13–V15 localI01NT/letter boundaries.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.",
+        "qualitative_confidence": "Inherited bounded mechanism only; explicit original limits remain. No confidence gain from earlier reappearances or this administrative re-expression.",
+        "new_test_scope": "Only separately admitted, not-yet-read YORI-04 native components after YORI03 full gate. No guaranteed character presence or eligible trigger. Newly created scope does not alter the prior MG05 test scope or historical outcomes.",
+        "adjudication_guard": "Actual component chronology/actor/knowledge, all trigger branches and available opportunity first. Absent or mentioned actor is NOT_TESTED; letter or a reused event is not a new direct comparison. A self-set Chris/Eris service boundary is adverse, never confirmation. Preserve local adverse case even if old repeated-case global failure threshold is unmet. Known earlier material supports calibration only.",
+        "outcome": null,
+        "adjudication": null
+      },
+      {
+        "commitment_id": "SEC01-I02",
+        "model_generation": "SECONDARY_INFORMED_EXPLORATORY_01_NOT_FULL_RECONSTRUCTION",
+        "prior_hypothesis": "MG05-I02",
+        "prior_block_sha256": "de8330069ce5a10ed0c5e5f1acd7b6d8c50db97281a8cebecf030a36018c61ba",
+        "original_prior_block_exact": "## MG05-I02 — Directly expressed wish and understood royal duty test reduced requests\n\n**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.\n\n**Character/system:** Iris.\n\n**Relationship condition:** genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.\n\n**Stake level:** Directly evidenced personal wish and understood conflicting royal obligation.\n\n**Lineage/change:** PRESERVE inherited bounded wish–duty mechanism without pretending the unexposed next tranche contains it. Predecessor `MG04-I02` block SHA256 `604cfc79c7272bda0d199ddecc0c8c2b9f9eeb20dab95133b58dd8e991017e3e`.\n\n- **Trigger/context:** the source directly establishes both a personal wish of Iris's and a royal obligation she understands as conflicting with it.\n- **Relationship/stakes:** genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.\n- **Predicted appraisal:** the larger personal wish exceeds what the role permits.\n- **Predicted dominant motive:** preserve duty while obtaining a smaller part of the desired freedom or connection.\n- **Predicted behavior/effect:** she will tend to self-limit or choose a reduced request while the original wish remains expressed or otherwise directly evidenced.\n- **Interaction tendency:** restrained petition may coexist with familiar attachment language; the source must establish the motive rather than the analyst supplying it.\n- **Confidence:** MODERATE-HIGH inherited bounded wish–duty negotiation from direct V11; no fresh matched V13–V15 sequence. Historical earlier NTs remain.\n- **Evidence basis:** CP04 bounded-secondary table/MG04-I02; V11 direct wish/duty/reduced request; V13–V15 localI02NT.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.\n- **Disconfirmation:** repeated explicit wish/duty conflicts produce unconstrained prioritization of the wish without meaningful conflict or self-limitation, despite understood obligations.\n- **Coding and modifiers:** Require actual personal wish plus understood conflicting royal duty before a narrowed/renegotiated request. Retold attachment, old letter obligation or generic public constraint alone cannot supply the full sequence.\n- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.\n- **Failure threshold:** Repeated directly understood wish/duty conflicts prioritize wish unconstrained without meaningful conflict/self-limit; prospectively at least2.\n- **Outcome:**\n- **Adjudication:**\n",
+        "trigger": "the source directly establishes both a personal wish of Iris's and a royal obligation she understands as conflicting with it.",
+        "relationship_and_stakes": "genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.",
+        "predicted_appraisal": "the larger personal wish exceeds what the role permits.",
+        "predicted_dominant_motive": "preserve duty while obtaining a smaller part of the desired freedom or connection.",
+        "predicted_behavior": "she will tend to self-limit or choose a reduced request while the original wish remains expressed or otherwise directly evidenced.",
+        "interaction_tendency": "restrained petition may coexist with familiar attachment language; the source must establish the motive rather than the analyst supplying it.",
+        "disconfirmation": "repeated explicit wish/duty conflicts produce unconstrained prioritization of the wish without meaningful conflict or self-limitation, despite understood obligations.",
+        "evidence_basis": "CP04 bounded-secondary table/MG04-I02; V11 direct wish/duty/reduced request; V13–V15 localI02NT.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.",
+        "qualitative_confidence": "Inherited bounded mechanism only; explicit original limits remain. No confidence gain from earlier reappearances or this administrative re-expression.",
+        "new_test_scope": "Only separately admitted, not-yet-read YORI-04 native components after YORI03 full gate. No guaranteed character presence or eligible trigger. Newly created scope does not alter the prior MG05 test scope or historical outcomes.",
+        "adjudication_guard": "Actual component chronology/actor/knowledge, all trigger branches and available opportunity first. Absent or mentioned actor is NOT_TESTED; letter or a reused event is not a new direct comparison. A self-set Chris/Eris service boundary is adverse, never confirmation. Preserve local adverse case even if old repeated-case global failure threshold is unmet. Known earlier material supports calibration only.",
+        "outcome": null,
+        "adjudication": null
+      }
+    ],
+    "assessment_file_sha256": "ff88a03e36e1c347b688d3fdade0d8f4874d84e27743a75a552e35e170511dfd",
+    "exact_separate_assessments": [
+      {
+        "commitment_id": "SEC01-I01",
+        "pre_exposure_commitment_exact": {
+          "commitment_id": "SEC01-I01",
+          "model_generation": "SECONDARY_INFORMED_EXPLORATORY_01_NOT_FULL_RECONSTRUCTION",
+          "prior_hypothesis": "MG05-I01",
+          "prior_block_sha256": "95903eb1efb343fcb4e47156edd975f6896e779efe301e82e34b532e8f4342ec",
+          "original_prior_block_exact": "## MG05-I01 — Direct safer nondeferential context permits more ordinary Iris agency\n\n**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.\n\n**Character/system:** Iris.\n\n**Relationship condition:** compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.\n\n**Stake level:** Safer trusted nondeferential context versus directly observed royal-surveillance context.\n\n**Lineage/change:** PRESERVE earlier directly supported bounded contrast; no new validation from letters/mentions. Predecessor `MG04-I01` block SHA256 `36b18cf02b79f1d84946d9653bf3d8c48991552aafd971fdfa5dffcff12aadc2`.\n\n- **Trigger/context:** Iris is directly shown with a trusted person who treats her as an ordinary younger peer in a setting with less formal royal surveillance.\n- **Relationship/stakes:** compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.\n- **Predicted appraisal:** ordinary curiosity, experimentation and wants can be expressed without immediate royal correction.\n- **Predicted dominant motive:** learn, play or exercise age-appropriate agency.\n- **Predicted behavior/effect:** curiosity, informal strategy learning, competition or ordinary requests will become more visible than in the constrained setting.\n- **Interaction tendency:** familiar address and less inhibited interaction may accompany the behavioral change; honorifics alone do not prove the mechanism.\n- **Confidence:** MODERATE-HIGH inherited bounded role conditioning from direct V10/V11 contrasts; no fresh matched V13–V15 contrast. Historical earlier NTs remain.\n- **Evidence basis:** CP04 bounded-secondary table/MG04-I01 and actual V10/V11 contrasts; V13–V15 localI01NT/letter boundaries.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.\n- **Disconfirmation:** repeated safe nondeferential settings leave her equally constrained, with no predicted behavioral expansion despite available ordinary choices.\n- **Coding and modifiers:** Require a new actual comparable constrained/public versus safer/nondeferential interaction. V12 possibly edited retrospective narrative remains report-level and cannot reopen earlier Iris speech/tears.\n- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.\n- **Failure threshold:** Repeated safe nondeferential settings remain equally constrained despite available ordinary choices and a direct public comparison; prospectively at least2. A letter cannot supply the comparison.\n- **Outcome:**\n- **Adjudication:**\n\n",
+          "trigger": "Iris is directly shown with a trusted person who treats her as an ordinary younger peer in a setting with less formal royal surveillance.",
+          "relationship_and_stakes": "compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.",
+          "predicted_appraisal": "ordinary curiosity, experimentation and wants can be expressed without immediate royal correction.",
+          "predicted_dominant_motive": "learn, play or exercise age-appropriate agency.",
+          "predicted_behavior": "curiosity, informal strategy learning, competition or ordinary requests will become more visible than in the constrained setting.",
+          "interaction_tendency": "familiar address and less inhibited interaction may accompany the behavioral change; honorifics alone do not prove the mechanism.",
+          "disconfirmation": "repeated safe nondeferential settings leave her equally constrained, with no predicted behavioral expansion despite available ordinary choices.",
+          "evidence_basis": "CP04 bounded-secondary table/MG04-I01 and actual V10/V11 contrasts; V13–V15 localI01NT/letter boundaries.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.",
+          "qualitative_confidence": "Inherited bounded mechanism only; explicit original limits remain. No confidence gain from earlier reappearances or this administrative re-expression.",
+          "new_test_scope": "Only separately admitted, not-yet-read YORI-04 native components after YORI03 full gate. No guaranteed character presence or eligible trigger. Newly created scope does not alter the prior MG05 test scope or historical outcomes.",
+          "adjudication_guard": "Actual component chronology/actor/knowledge, all trigger branches and available opportunity first. Absent or mentioned actor is NOT_TESTED; letter or a reused event is not a new direct comparison. A self-set Chris/Eris service boundary is adverse, never confirmation. Preserve local adverse case even if old repeated-case global failure threshold is unmet. Known earlier material supports calibration only.",
+          "outcome": null,
+          "adjudication": null
+        },
+        "current_outcome": "NOT_TESTED",
+        "adjudication_after_whole_uncoded_seal_utc": "2026-10-19T03:51:05.493079+00:00",
+        "source_routes": "U012P234;all five source bodies",
+        "conjuncts_rivals_and_limits": "Iris has only the national-funding mentionU012234. No direct safe/public contrast or her own expressed wish/understood-duty conflict appears. Mention is not a behavioral test.",
+        "same_root_informed_not_independent": true,
+        "historical_original_outcomes_and_new_pre_exposure_nulls_preserved_exact": true
+      },
+      {
+        "commitment_id": "SEC01-I02",
+        "pre_exposure_commitment_exact": {
+          "commitment_id": "SEC01-I02",
+          "model_generation": "SECONDARY_INFORMED_EXPLORATORY_01_NOT_FULL_RECONSTRUCTION",
+          "prior_hypothesis": "MG05-I02",
+          "prior_block_sha256": "de8330069ce5a10ed0c5e5f1acd7b6d8c50db97281a8cebecf030a36018c61ba",
+          "original_prior_block_exact": "## MG05-I02 — Directly expressed wish and understood royal duty test reduced requests\n\n**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.\n\n**Character/system:** Iris.\n\n**Relationship condition:** genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.\n\n**Stake level:** Directly evidenced personal wish and understood conflicting royal obligation.\n\n**Lineage/change:** PRESERVE inherited bounded wish–duty mechanism without pretending the unexposed next tranche contains it. Predecessor `MG04-I02` block SHA256 `604cfc79c7272bda0d199ddecc0c8c2b9f9eeb20dab95133b58dd8e991017e3e`.\n\n- **Trigger/context:** the source directly establishes both a personal wish of Iris's and a royal obligation she understands as conflicting with it.\n- **Relationship/stakes:** genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.\n- **Predicted appraisal:** the larger personal wish exceeds what the role permits.\n- **Predicted dominant motive:** preserve duty while obtaining a smaller part of the desired freedom or connection.\n- **Predicted behavior/effect:** she will tend to self-limit or choose a reduced request while the original wish remains expressed or otherwise directly evidenced.\n- **Interaction tendency:** restrained petition may coexist with familiar attachment language; the source must establish the motive rather than the analyst supplying it.\n- **Confidence:** MODERATE-HIGH inherited bounded wish–duty negotiation from direct V11; no fresh matched V13–V15 sequence. Historical earlier NTs remain.\n- **Evidence basis:** CP04 bounded-secondary table/MG04-I02; V11 direct wish/duty/reduced request; V13–V15 localI02NT.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.\n- **Disconfirmation:** repeated explicit wish/duty conflicts produce unconstrained prioritization of the wish without meaningful conflict or self-limitation, despite understood obligations.\n- **Coding and modifiers:** Require actual personal wish plus understood conflicting royal duty before a narrowed/renegotiated request. Retold attachment, old letter obligation or generic public constraint alone cannot supply the full sequence.\n- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.\n- **Failure threshold:** Repeated directly understood wish/duty conflicts prioritize wish unconstrained without meaningful conflict/self-limit; prospectively at least2.\n- **Outcome:**\n- **Adjudication:**\n",
+          "trigger": "the source directly establishes both a personal wish of Iris's and a royal obligation she understands as conflicting with it.",
+          "relationship_and_stakes": "genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.",
+          "predicted_appraisal": "the larger personal wish exceeds what the role permits.",
+          "predicted_dominant_motive": "preserve duty while obtaining a smaller part of the desired freedom or connection.",
+          "predicted_behavior": "she will tend to self-limit or choose a reduced request while the original wish remains expressed or otherwise directly evidenced.",
+          "interaction_tendency": "restrained petition may coexist with familiar attachment language; the source must establish the motive rather than the analyst supplying it.",
+          "disconfirmation": "repeated explicit wish/duty conflicts produce unconstrained prioritization of the wish without meaningful conflict or self-limitation, despite understood obligations.",
+          "evidence_basis": "CP04 bounded-secondary table/MG04-I02; V11 direct wish/duty/reduced request; V13–V15 localI02NT.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.",
+          "qualitative_confidence": "Inherited bounded mechanism only; explicit original limits remain. No confidence gain from earlier reappearances or this administrative re-expression.",
+          "new_test_scope": "Only separately admitted, not-yet-read YORI-04 native components after YORI03 full gate. No guaranteed character presence or eligible trigger. Newly created scope does not alter the prior MG05 test scope or historical outcomes.",
+          "adjudication_guard": "Actual component chronology/actor/knowledge, all trigger branches and available opportunity first. Absent or mentioned actor is NOT_TESTED; letter or a reused event is not a new direct comparison. A self-set Chris/Eris service boundary is adverse, never confirmation. Preserve local adverse case even if old repeated-case global failure threshold is unmet. Known earlier material supports calibration only.",
+          "outcome": null,
+          "adjudication": null
+        },
+        "current_outcome": "NOT_TESTED",
+        "adjudication_after_whole_uncoded_seal_utc": "2026-10-19T03:51:05.493079+00:00",
+        "source_routes": "U012P234;all five source bodies",
+        "conjuncts_rivals_and_limits": "Iris has only the national-funding mentionU012234. No direct safe/public contrast or her own expressed wish/understood-duty conflict appears. Mention is not a behavioral test.",
+        "same_root_informed_not_independent": true,
+        "historical_original_outcomes_and_new_pre_exposure_nulls_preserved_exact": true
+      }
+    ]
+  },
+  "new_model_draft_boundary": "SI-D01..SI-D07 are separate informed rules. SI-C01 fixes optional future eligibility before MAIN07-MAIN17 excluded exposure; it neither retargets MG02-MG05 nor supplies source validation. SI-D05 current confidence LOW; earlier synthetic exercise-model drafts remain historical.",
+  "deduplication": "One underlying scene/ordered phase group remains one event across reading/checkpoint/ledger/monograph/model; letters, retellings, private narration and reported testimony retain their planes.",
+  "counterevidence": "CONTEXP02 false witness and court pressure constrain global innocence/obedience; do not retrospectively force these cases into an archived I02 target or invent an understood royal-duty conflict.",
+  "all_original_bytes_preserved": true
+}

@@ -1,0 +1,268 @@
+{
+  "schema": "REI_ACTUAL_ROOT_PRIVATE8_SEMANTIC_ACCEPTANCE_DATED_PUBLIC_REPORT_V1",
+  "reporting_preparer": "/root/m008_composition_review",
+  "original_ROOT_witness_id": "ROOT_REI_CURRENT_V3_PRIVATE8_SEMANTIC_ADOPTION_15625_20261015_V1",
+  "actual_original_ROOT_receipt_tuple": {
+    "bytes": 15625,
+    "sha256": "72371643a1386e7d27240c2f34f4fec784d5b34d390da98fcbac85055154bc26",
+    "git_blob_oid_of_actual_bytes": "200c6fa4659796ccbce7ea4edd4f129c02a706aa"
+  },
+  "report_role": "COMPLETE_ORIGINAL_SEMANTIC_ADOPTION_REPORT_NOT_COMPOSED_BYTE_ADOPTION",
+  "preparation_scope": {
+    "at_preparation_2026_10_15": "C-only metadata composition of the exact semantically accepted privateV3 author8. Original QA and ROOT payloads are dated original authorities; no new independent current-byte review or future executed gate follows from this report.",
+    "actual_accepted_semantic_scope": "ROOT15625 accepted complete private8 WITH LIMITS after actual all525/65 and distinct complete263 own-reason receiving. Current RIP020 wants stadium food; it does not narrate an eaten/shared stadium meal. E126 gift eating is separate.",
+    "source_grade_roles": "Author and original body reviewer each12WHOLE1839 maintained, with overlapping checkpoint/companions not12 primary corpora. Distinct component reviewer and ROOT own3WHOLE456+2SELECTED58=514; remaining7 source bodies stay attributed at that component-review scope. Frozen original common10526WHOLE79SELECTED remains attributed, not fresh normal105 or primary/native/raw/AV.",
+    "historical_original_bases": "All original173 reconstruction, body-first/new105/bodyQA/ROOT-pending prose, author-stage status and saved-receiving fields, source-book/source tuples, common105 envelopes, Minato outer references, dated V2 finding/QA/ROOT and original published_progress remain literal dated scopes under this current qualification. Current metadata bindings and newly measured body geometry are separate.",
+    "finite_actor_mode_qualifications": "P026 displayed human-pitcher teacher option versus Rei probable-machine answer; actual E845 grand slam/first team victory then next-day failure, not first-career/mastery/clinical proof; O087 agreement/unpacking not fulfilled week; O094 Teacher READING wanted novels not authorship; O096 food before bill/bargain, executed contract/unprinted ratio/future collection incomplete; O098 inward aim not achieved time; O103 Anna fear versus Elina projection; O104 motive not payroll.",
+    "fixed_scope": "Existing home46/ordinal47/CSV48/F071/P3-CHAR-NOMASA-REI-CH0245/BA_PERSON_CH0245/10115. Baseball Rei is not diving Rei, generic employees/vendors or an inferred registry bridge. No named duty and separate REL307 remains pending. All14 original gaps OPEN, models0; no count/model/source-admission/identity/publication/runtime/merge credit.",
+    "future_gates_at_preparation_2026_10_15": "Different-author current composed-byte QA, actual ROOT byte adoption, shared metadata/freeze, guarded installation/preflight, normal publication/full readback and new exact-head CI remain owned by their future dated ROOT operational receipts. Original receipt progress and PR173 status remain dated, not live provider assertions."
+  },
+  "complete_original_ROOT_semantic_acceptance_payload": {
+    "schema": "ROOT_ACTUAL_REI_CURRENT_V3_PRIVATE8_COMPLETE_LITERARY_DOCUMENTARY_ADOPTION_WITH_LIMITS_V1",
+    "actor": "/root",
+    "disposition": "CURRENT_PRIVATE8_ADOPTED_WITH_LIMITS_PUBLIC12_C_ONLY_COMPOSITION_PERMITTED",
+    "current_author_manifest": {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_b382248cdf5111f17d51c70e38dcd36f69a1d9380be92d6156625273af2ebc1a",
+      "bytes": 17214,
+      "sha256": "08869ca4c047521600c7affa9b96f6729e01e1d0e6c17f9a9938871ad1a6f35b",
+      "git_blob_oid_of_actual_bytes": "6c4706bc470fd28c7011412fe1b96834fc7a24ec"
+    },
+    "exact_current8": [
+      {
+        "C_path": "REI_PRIVATE_LOCATION_SHA256_ab45456735c71e3820aa7d76e926c6b71b46a23ad49be6225b3105196de6bf8c",
+        "bytes": 35417,
+        "sha256": "4bf3dbf7e3a6aaed3bc64f43baf6c0e744a07165ad7e0ab05913d9b1e095af12",
+        "git_blob_oid_of_actual_bytes": "366d827168f4a3d744038d6f94e3ecc3aac7ddc0"
+      },
+      {
+        "C_path": "REI_PRIVATE_LOCATION_SHA256_1e2aa867f1f532a0faea846946ea4aacd385ff12513ca97fc90b3f857abb5d79",
+        "bytes": 431177,
+        "sha256": "c696b3b89d3d794c5cdb298ea8263a4325f0772ec48d7cfff576aa6f4c01376e",
+        "git_blob_oid_of_actual_bytes": "f92f8cb992b248268fcc2efc6874dc4ee699f80d"
+      },
+      {
+        "C_path": "REI_PRIVATE_LOCATION_SHA256_7240eab7044405fbb0d68eb3f02899f440636d5457e98535deb05d0bfc759b91",
+        "bytes": 558006,
+        "sha256": "6134e4d4f65d9933da720950856291a0aa4a89eaf5e31a2f9676264bdb8720d5",
+        "git_blob_oid_of_actual_bytes": "e58fe73def85f97da2795573b7b175fd51d8931b"
+      },
+      {
+        "C_path": "REI_PRIVATE_LOCATION_SHA256_aa66c5c6e8a101f3b0f4d1876a21932cca29cc0d04115c0dfc2ddced6e9e8646",
+        "bytes": 747357,
+        "sha256": "39645944abb229521c303778c9ebb88550d0de6958fe6f5b68ac977fd12bb053",
+        "git_blob_oid_of_actual_bytes": "f85d53ed475ea4d0dd8c570a7bb27691f619283f"
+      },
+      {
+        "C_path": "REI_PRIVATE_LOCATION_SHA256_cb8177528f1f09a4d9fcbee8208de9225684ed35b158908a54136a5c96c001e5",
+        "bytes": 49679,
+        "sha256": "70562a44b21cacc74c47bb79436298027c97d750bd9b193aa33b8608d7b08066",
+        "git_blob_oid_of_actual_bytes": "3946166b3591ce37e68277195a202bbba9357ac4"
+      },
+      {
+        "C_path": "REI_PRIVATE_LOCATION_SHA256_368c92268d89ae5c9f5ee0942958f09730bb53b5cdc8e7cba01fe1ae68e77b90",
+        "bytes": 410802,
+        "sha256": "8b0cd386729ca9044d88b04a0b1cf2559f85f26d6a2214b01bde16b5042666fd",
+        "git_blob_oid_of_actual_bytes": "cc830b8a788be454c81e06e4566eed2dbc414ea6"
+      },
+      {
+        "C_path": "REI_PRIVATE_LOCATION_SHA256_3d2b38e6c330aeb55436f0a3ceccd0b2c83f8cb9a54a12ac8927ee3d719171bd",
+        "bytes": 323153,
+        "sha256": "94e7be8345409b66f1a28aee8ae756435a2029fde906bd7db95e39909386d298",
+        "git_blob_oid_of_actual_bytes": "db3a6077eefadef75bb2819125c5d80cc9321acf"
+      },
+      {
+        "C_path": "REI_PRIVATE_LOCATION_SHA256_094e5e40c87578573c0598f3f5dd54f7da24fb729fe6791e7a0e3b24a904a1e7",
+        "bytes": 16853,
+        "sha256": "f143b7d29f81270982ac039eee10e1841fe7a3639aeeaaea348020f020f59507",
+        "git_blob_oid_of_actual_bytes": "88b149eb657e8b06bcff13756ef3ff909be8366d"
+      }
+    ],
+    "actual_root_fidelity": {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_358d359045e5e1835c0be302ab5bc6608e27bccf0100a382cfc79cf9b7c89300",
+      "bytes": 18839,
+      "sha256": "753513e407636da122b922b25665aacc38360b20fcfb60ee7f519adc7cee45b9",
+      "git_blob_oid_of_actual_bytes": "c3d6da8ca7faeb698211126473fca04d4b305b21"
+    },
+    "distinct_full_manual": {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_f4cf4f407441f0eb378f03bc83c7c6c8f876e17c5a3c406d6adf1107827baa77",
+      "bytes": 1008328,
+      "sha256": "43a65aaa78ecbfc45c345e400c295139fa7ea56d79a06c89f12f6fc23f9b8462",
+      "git_blob_oid_of_actual_bytes": "3b325dd329bfe071f379d0b64e6a89db040ae327"
+    },
+    "distinct_complete263_manifest": {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_3b8e21ebdf32b30e514fabd48692e2c12e366f96eb1361bc71fdbb57d2f36f81",
+      "bytes": 8812,
+      "sha256": "0c37ffc62674f0f0fdaf021b26abdf6a386b4d7eba2555f847e42c4dbd29b97d",
+      "git_blob_oid_of_actual_bytes": "efdc48e604816970cb38f88c687e933f5a3aa8f8"
+    },
+    "distinct_final_handoff": {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_9e003bab260308c6ad3bef4cf621546fdc1d004c482f8e564fdb471f5d8fa697",
+      "bytes": 10416,
+      "sha256": "7054e36963c441b5209870d7e22a76fe9e9169aef860ce751fdf33799899ec0e",
+      "git_blob_oid_of_actual_bytes": "dec116f0202935dabd8879c207433153b4a69ebb"
+    },
+    "full_ordered_QA_manual_recovery": {
+      "all263units": 263,
+      "whole_manual_bytes": 1008328,
+      "whole_raw_equal": true,
+      "predicates": 2343,
+      "failures": []
+    },
+    "actual_root_receiving": {
+      "current525_V2literal_then020successor": [
+        "d5696e",
+        "9f9311",
+        "3c57d3",
+        "8ea61d",
+        "7fde85",
+        "812513",
+        "216bf2",
+        "bef934"
+      ],
+      "all65joins": [
+        "623470",
+        "16f673"
+      ],
+      "all54authorcontrolvalues": [
+        "51c28a",
+        "cc6696",
+        "f438a7",
+        "c6e6de"
+      ],
+      "all263uniquepeerunits": [
+        "2c6413",
+        "d3411a",
+        "3a7da9",
+        "7a28ca",
+        "66e9b6",
+        "6ef9a6",
+        "a96f11"
+      ],
+      "peercontract": "9473c7",
+      "peerfinalhandoff": "d8b6c3",
+      "sourcefoodfinding": "d9d8c6/51e1d4 actualG330 selected89–107",
+      "priorbodyonlypermission": "f2f339 actual10071/cb438e3f"
+    },
+    "own_complete_literary_adoption_reasons": [
+      {
+        "scope": "All105 current fivefields and whole65body",
+        "own_reason": "Each record asks how a specific source episode changes an explicit Rei paragraph, then states positive use, counterevidence, finite ending and stronger trigger. Whole current525 values and all65links were personally read; the varied food, craft, authority, publicity, knowledge, material and work comparisons have particular functions, not completion credit from field count."
+      },
+      {
+        "scope": "RIP000–016/pleasure/method/privacy",
+        "own_reason": "Sensory enjoyment, chosen service, local attachment, mediated craft, record uncertainty and quiet rest retain positive value. Specific refused methods and absent aftermath constrain general care, safe training or permanent affiliation. Actual E126 eating is distinct from wanted stadium food, and a photo request does not supply a photo."
+      },
+      {
+        "scope": "RIP017–033/credit/gift/agency/change",
+        "own_reason": "Local service, memory and making remain meaningful without justified public tactics or all-actor benefit. Actual gift approach/finishing/eating and narrated game success do not establish workshop observation, a played imagined match or durable conversion. Original food020 overclaim is corrected rather than using intrinsic value to invent performance."
+      },
+      {
+        "scope": "RIP034–043/availability/materials/distributed help",
+        "own_reason": "Uniform, praise, actual welcomes and local repair differ from unperformed rescue, wages, restoration and office instruments. A kept object can comfort without a mechanism, while a real win leaves public restitution and others costs unclosed. Multiple peer contributions resist sole-savior credit."
+      },
+      {
+        "scope": "RIP044–060/requests/voice/publicity",
+        "own_reason": "Polite requests and boundaries coexist with continuing respect, affection and new choices. Actor statements, private feeling, alternative replies, rumors and projected explanations keep their audience and mode. A current reply or good result cannot establish diagnosis, formal romance, universal publicity or a uniquely adult-authored transformation."
+      },
+      {
+        "scope": "RIP061–078/roster/craft/crisis/sourcegrade",
+        "own_reason": "Club labels, temporary training and written Club=None are different documentary functions. Actual grand slam, child company and gift craft oppose total incompetence without medical or technical certification. E832 direct maintained author scope and selected E834 report scope are expressly attributed; simulated fitness and proposed meals are not transferred to Rei."
+      },
+      {
+        "scope": "RIP079–093/choice/recognition/ordinary repertoire",
+        "own_reason": "Hosting, presence valued before skill, differentiated leisure/camera wishes, refused career roles and particular recipients explain Rei more fully than a sports utility score. E845 real winning swing, equipment thanks, contract refusal and next-day failure are all retained; actual local success neither deletes objections nor requires permanence to count."
+      },
+      {
+        "scope": "RIP094–104/current operative qualifiers",
+        "own_reason": "Miyo refuses reading access to her wanted novels; this is not an authorship claim. Food is supplied before the later bill and printing bargain; an executed contract does not print its final ratio or complete future collection. Invitation runs Alice to Toki, and Anna fear differs from Elina projection. These exact common qualifications are retained without new identity, source admission or all105-primary credit."
+      },
+      {
+        "scope": "RIP020positive/currentmirror/G330L89–107",
+        "own_reason": "Root independently checked the actual maintained G330 selected passage: desired food, treat offer and one-hotdog allowance do not narrate a purchase or shared meal. Current wanted stadium food is supported; other524fields/body65 remain literal and the old finding/beforeimages remain historical. E126 actual eating is preserved separately."
+      },
+      {
+        "scope": "P026material actor and P027–032memory/gift",
+        "own_reason": "The human-pitcher possibility is the displayed teacher option; Rei hesitates and says probably machine. Damage reasoning is not eyewitness cause. A caught ball is not Rei own first home run; felt warmth is not literal magic. Reported scan/data/mold and attributed finishing do not cancel actual completed gift, eating and talk."
+      },
+      {
+        "scope": "All65 exact source/question/purpose joins/11tracks/16concerns",
+        "own_reason": "Whole source loci/questions/finite warrants connect the original body to genuine new current purposes. The joins preserve overlapping checkpoint/companion basis, conditional written contexts and situated physiological/voice claims. Those links establish documentary traceability and qualitative argument, not source attendance or calibrated prediction."
+      },
+      {
+        "scope": "All8seriousrivals/16endpoints/14OPENvs14CL",
+        "own_reason": "Total incapacity meets actual skills and care; permanent breakthrough meets next-day defeat. Pure coercion meets chosen requests while harmless coaching meets actual refusals; reason/feeling, glory-only, exclusive dependence and merged chronology meet specific contrary evidence. Endings remain finite and every stronger original gap remains OPEN, separate from own local abstentions."
+      },
+      {
+        "scope": "Original14/20custody/prior grades/history",
+        "own_reason": "Own fidelity2a50a3 proves complete original14 ordered/raw recovery and20literalcopies, current8/525/65/index links, fullV2/V3 sparse chains. This byte preservation supports addressing only; actual literary reasons and declared report/maintained reading establish interpretation. Dated pending statements are not silently rewritten, and author12whole1839 is not Root or peer3whole456+selected58."
+      },
+      {
+        "scope": "Currentprivate8adoptiononly",
+        "own_reason": "The existinghome46/F071/baseball CH0245 responsibility is adequately argued WITHLIMITS, with diving Rei, unnamed roles and REL307 separate. Public12 construction and independent public-byte QA remain required, as do global current-state updates, validation and authorized publication. This receipt adds no155th published package, named completion, model, source admission, clinical confidence or merge."
+      }
+    ],
+    "sourcegrade_boundaries": "Author12WHOLE1839 maintained. Distinctnextcast3WHOLE456+2SELECTED58=514 maintained and remaining7report/synthesis-only. Root actual3WHOLE456+2SELECTED58=514 maintained, not author12whole. Original common10526WHOLE79SELECTED stay attributed. No primary/native/raw/AV from maintained/report bytes.",
+    "preservation": "Original14 wholeordered/raw envelopes,20fullrawcopies, all525/65 actual relations, V1/V2/V3 historical precision/finding/receiving fields retained. CurrentRIP020positive/mirror uses wanted food. Dated pending body fields qualified by actual later adoption, not backdated review.",
+    "public_composition_authorization": "Compose exact public12 with canonical existinghome46/F071 monograph/receiving paths, fullprivate8raw recovery and precisely bounded metadata qualification of actual completed privateQA/Rootadoption. Dated preparation headers only; no shared7 or currentpublishedcount mutation, no R/Git/provider installation, no main merge. Currentpublicbytes need distinct QA and Rootactualreceiving/adoption.",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "published_progress": "152/355;19/29 unchanged;26to178; PR173 reserved merge question pending",
+    "new_public_package_count_named_REL_primary_native_AV_admission_identity_model_install_publication_merge_credit": 0
+  },
+  "current_composed_first8_for_navigation_not_ROOT_byte_adoption": [
+    {
+      "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "bytes": 36632,
+      "sha256": "c81171441d97a67a18c9388101893249a4de8b76fc739e3f20860d9bb5361966",
+      "git_blob_oid_of_actual_bytes": "997eab62f2bf61cd2fddf801d586b219f1b85fa0"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_ALL105_NEW_PURPOSES_RIP000_RIP035_V3.json",
+      "bytes": 431037,
+      "sha256": "5215edf6489eb738e6c6939e3f3ea2bd560d658a51e51235c84f30f9aab6c504",
+      "git_blob_oid_of_actual_bytes": "7c300bd62568e28433d745377cf9ea139c90f027"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_ALL105_NEW_PURPOSES_RIP036_RIP070_V2.json",
+      "bytes": 557866,
+      "sha256": "e8c5006a65f62e5a8c63cb5a39234f1c88a59980574fe1c34ed79511837e46ba",
+      "git_blob_oid_of_actual_bytes": "349c19fc89b4eb5e876d0eb972dbc0250e0c9983"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_ALL105_NEW_PURPOSES_RIP071_RIP104_V1.json",
+      "bytes": 747217,
+      "sha256": "c8eca8b197e9f012e34d99f541ea2c9715713669b775de3b962836e912ce2144",
+      "git_blob_oid_of_actual_bytes": "1163add66d063dbd9961f5f89cba4219b81b393f"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_SOURCE12_COMPLETE12_QUESTIONS_CURRENT_QUALIFIERS_AND_ACTUAL_GRADE_RECEIVING_V1.json",
+      "bytes": 44479,
+      "sha256": "febcc3e1596aad3a8af72a9395decdfbde5b84be1167749c12f316b16c5799ee",
+      "git_blob_oid_of_actual_bytes": "20e86dbfdc244550c4fc260679b1ad365d49d9e0"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_CURRENT173_COMPLETE_LITERAL65_SOURCE_QUESTION_PURPOSE_RIVAL_END_GAP_REGISTER_V3.json",
+      "bytes": 442673,
+      "sha256": "f00f2a14e1eb152ca454928870c3e8a23b7b11c47d5e5ba293e71c662dff13c0",
+      "git_blob_oid_of_actual_bytes": "1a1216838ffb91093172de96caed861df9c4cbf0"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_ALL105_NEW_PURPOSE_EXACT_PART_AND_BODY_RELATION_INDEX_V3.json",
+      "bytes": 312153,
+      "sha256": "a133a4694002d754a207d171a29988eb3b5d562940104133513416bd1c908127",
+      "git_blob_oid_of_actual_bytes": "bcac951f89d44d9f0b6ee0cd32c482e99c88d407"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CONDITIONAL_TRANSPORT_RECEIPT_V3.json",
+      "bytes": 12731,
+      "sha256": "890f07181b0045ac68b3bbe79ab4b842d72385935d94f25a763317c255183ce1",
+      "git_blob_oid_of_actual_bytes": "4be2b81fedc59f40d9486fc40d68eae68cbfb716"
+    }
+  ],
+  "original_distinct_QA_reporting_component": {
+    "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_COMPLETE_PRIOR_CURRENT_V3_COMPONENT_QA_TRUTHFUL_PUBLIC_INPUT_REPORT_V1.json",
+    "bytes": 1007434,
+    "sha256": "9e9bb2f7789b8991a5e96f1baf6dba993676e13abeaacb2924ef92726322eea2",
+    "git_blob_oid_of_actual_bytes": "82446a76c721466cde3b3e7f4d61988afd7cf986"
+  }
+}

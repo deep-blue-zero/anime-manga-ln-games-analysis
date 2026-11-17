@@ -1,0 +1,1500 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+    "bytes": 42650,
+    "sha256": "a1deb4ab608085c2ba4fa7d309c80591814a15fd3dcc4a73b4705eeb4fbdd96c",
+    "git_blob_oid_of_actual_bytes": "2d49ae5c1e1e67fe11b9e19ba7a27db2145f96ea"
+  },
+  "frozen_claim_register_qualification": "The nested claim register retains original paragraph/line coordinates and exact original support meaning. Use the exhaustive frozen→canonical saved line joins and changed range texts in the current saved-output receipt; historical addresses are never presented as current addresses.",
+  "canonical_saved_line_mapping": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ICHIKA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+  "public_exact_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ICHIKA_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "historical_frozen_claim_and_endpoint_register": {
+    "schema": "BLUE_ARCHIVE_PHASE3_ICHIKA_CLAIM_AND_ENDPOINT_V1",
+    "status": "AUTHOR_VERIFIED_ROOT_RECEIVING_PENDING",
+    "claims": [
+      {
+        "claim_id": "IC01",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 22,
+        "joined_saved_paragraph": "Ichika's competence answers a task more readily than it answers what she wants to do with her life. She can prioritize disputes, call urgent backup, finish postponed work, retrieve a child's balloon, learn guitar and surfing quickly, diagnose a propeller problem and accept needed help. None of those capacities establishes a permanent passion, a compelled vocation or effortless social ease. Her central literary problem is the relation between useful contribution and chosen participation: she admires absorbed people, wants a reciprocal role for herself and seeks ordinary company without becoming an imposition. Moderation is one active response to that problem, rather than absence of care. [P01:10077:002–006; 26015:002–006; E48:007/014–030]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:002–006 and26015:002–006 all eight complete pairs",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "007/014–030 all local arguments",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Capacity not destiny/cure or effortless ease; helpful acts and failed aims retained.",
+        "directed_recipients_and_agency": "Ichika chooses participation, reciprocal contribution and company, peers not adult-improvement instruments.",
+        "actual_endpoint_and_unfinished_coda": "Actual finite work/play/help alongside unresolved vocation.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC02",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 30,
+        "joined_saved_paragraph": "The eight private BOND stories and complete linked message objects supply local sequences and codas. Base003's instrument experiment has a meaningful afterward: trying at home does not sustain inclination, and the guitar is put away. Base005 later says it is kept because of praise while allowing that it might be passed on if wanted. Those are compatible local states, not a completed sale or permanent attachment. Summer006 explicitly recalls the previous night's failed prank. These connections cannot date the two variants, every gift, the train or the holiday against a global MAIN calendar. [P01:checkpoint:L353–L361; 10077:003/005; 26015:005/006]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "checkpointL353–361;10077:003/005,26015:005/006 whole message links",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Local cupboard/kept instrument and last-night link not completed sale/fixed variant growth/global calendar.",
+        "directed_recipients_and_agency": "Her chosen experimental activity and continued wishes remain intrinsic.",
+        "actual_endpoint_and_unfinished_coda": "Instrument put away then retained because praised; hypothetical giveaway, local later openness.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G08",
+          "G09",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC03",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 32,
+        "joined_saved_paragraph": "Her first base duty illustrates moderation's positive content. Ichika accompanies the teacher under a verified assignment and sufficient staffing, encounters a noisy dispute and prioritizes the adult's errand. She expects support where needed and actually contacts backup for urgent cases; after his work ends on schedule, she returns to the deferred disturbances. She accepts his offered company, asks to escort him for her own ease and completes both her work and the Schale escort. The whole coda confirms his arrival and her bedtime. Deferral is not abandonment, yet this finite result is not a complete security audit or proof that small disputes never deserve attention. [P01:10077:002, wholeT100770010]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:002 wholeT100770010",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Sufficient staffing/backup/deferral not universal security certificate or abandonment.",
+        "directed_recipients_and_agency": "Her triage, adult offered companionship, separate disputed recipients/urgent backup.",
+        "actual_endpoint_and_unfinished_coda": "Deferred labor and Schale escort actually complete, arrival and bedtime coda.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC04",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 34,
+        "joined_saved_paragraph": "The guitar encounter changes activity without securing identity. Ichika admires a street musician's enthusiasm and chooses to try a beginner instrument, asks not to be ridiculed if she is poor, buys it and practices by the river. Written appraisals give surprising facility; her claim that anyone could do it from basics is a generalization. She asks for the adult's preferred song and they enjoy the afternoon. The whole message tail then records little desire to play at home and the cupboard. This is a successful temporary experiment with a contrary lasting-passion coda, not the discovery of a true vocation or a worthless afternoon. [P01:10077:003, wholeT100770100]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:003 wholeT100770100 includingm0260–0350",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Written facility not heard music; anyone-can-do claim not fact; temporary enjoyment not permanent passion.",
+        "directed_recipients_and_agency": "Her no-ridicule request and song invitation condition participation.",
+        "actual_endpoint_and_unfinished_coda": "Enjoyed river afternoon then low home inclination/guitar in cupboard.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G09",
+          "G10",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC05",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 36,
+        "joined_saved_paragraph": "Her later park conversation names the unresolved question more directly. She envies people who become absorbed, says doing many things is insufficient without something wanted and worries that disclosure sounds boastful. She chooses this confidant while explicitly denying distrust of everyone else. Advice to stop hurriedly searching is received but not understood. Her own immediate answer is to ask for a whole day of play; actual enjoyment and a more cheerful-looking return follow, with future-play wishes and “for now” preference in the coda. The pause is a real chosen end without permanent purpose found or a clinical cure. [P01:10077:006, wholeT100770300]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:006 wholeT100770300 includingm0550–0670",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Advice honestly uncomprehended; confidant choice not distrust all peers/clinical cure/permanent purpose.",
+        "directed_recipients_and_agency": "Her disclosure, boundary against boastful interpretation, chosen all-day play.",
+        "actual_endpoint_and_unfinished_coda": "Actual enjoyment/more cheerful return, for-now and future-play coda.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC06",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 38,
+        "joined_saved_paragraph": "The summer sequence adds refusal and a local communicative change. Fast learning and commentators' praise lead neither to a trophy nor a chosen surfing career. A night interview brings useful disclosure and disappointment; a subsequent hypothetical dangerous-girl prank fails to produce the intended response. In the later last-night-linked encounter she accepts care, worries about the adult's workload and chooses to be a little more straightforward in this relationship. Actual playful exchange and future openness are positive, but no all-life cure, vocation or settled repair of every forgetting request follows. The local change is valuable precisely because its scope is finite. [P01:26015:002–006]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "26015:002–006 complete four pairs",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "No fixed summer improvement ladder or cure; remembering last night local link only.",
+        "directed_recipients_and_agency": "Refused professional route, lost wanted walk, failed prank and chosen local openness each independent.",
+        "actual_endpoint_and_unfinished_coda": "Missed trophy, declined career, actual interview/prank/roomward return/later playful care, unmet repair remains.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC07",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 40,
+        "joined_saved_paragraph": "The train and holiday offer a separate longitudinal comparison with an explicit contextual relation. EVENT848 recaps the earlier train conflict; EVENT830's whole current argument gives the fuller refused affiliation, bag leverage, shooting report, failed task and proportionate acknowledgment. The later holiday names the previous conflict as a reason for a particular exception to dialogue, then shows Ichika choosing to approach disliked expertise for a different purpose. This is evidence of remembered conflict and occasion-specific changed action. It is not a universal hatred-to-friendship ladder or proof that every unresolved train injury, custody and repair was closed before the holiday. [E30:005–012; E48:001/003/008/009]",
+        "support": [
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "005–012 complete current argument",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "001/003/008/009",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Explicit train recall not universal global chronology/closure of injury or custody/hatred-to-friendship law.",
+        "directed_recipients_and_agency": "Ichika refuses imposed relationship then separately chooses disliked expertise for Mika actual care.",
+        "actual_endpoint_and_unfinished_coda": "Actual train task failure/acknowledgment, later expert help and continued friendship denial.",
+        "applicable_open_gaps": [
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC08",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 44,
+        "joined_saved_paragraph": "Affability is presented as effort, not effortless essence. Her base profile reports mediation and relatively good other-school relations while qualifying the social ease as earned. Actual base duty supports purposeful prioritization, and the train shows what happens when others repeatedly interpret her affiliation or silence before hearing an explanation. She can remain courteous, want peace and accept practical help without consenting to every assigned motive. Ellipses are not reliable assent, deliberate withholding or a hidden diagnosis. The wished small private opportunity and public task can coexist without either being a cover. [P01:10077:002/written; E30:002–010]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:002 andwritten checkpointL497–503",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "002–010",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Earned affability not effortless essence; silence not certain assent/withholding/diagnosis.",
+        "directed_recipients_and_agency": "Attempted explanations and wanted small contact coexist with actual assigned task.",
+        "actual_endpoint_and_unfinished_coda": "Actual triage/help and rejected explanations, no universal welcome.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC09",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 46,
+        "joined_saved_paragraph": "The bag assignment is explicitly narrower than a total care obligation. Hasumi assigns the relic and personally wants the teacher to rest, but permits that support to be dropped if it interferes with recovery. Ichika accepts the opportunity for talk and thanks the adult during cleanup; mostly finished equipment is not total audited clearing. Boarding and bag placement are reports at their separate frontiers. Passenger suspicion and a no-ticket allegation then interrupt attempted explanations and a Japanese unfinished purchase request. Those utterances establish a conflict over being heard, not certified fare-evasion intent or universal passenger hostility. [E30:002:u0026–0034/u0070–0085; 003]",
+        "support": [
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "002:s1:u0026–0034/u0070–0085;003 complete locale distinctions",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Rest support can be omitted if interferes with bag recovery; ticket allegation not certified criminal intent.",
+        "directed_recipients_and_agency": "Hasumi limits extra hope, Ichika accepts talk opportunity, passenger/teacher separate testimony.",
+        "actual_endpoint_and_unfinished_coda": "Assigned bag/boarding reports and attempted explanation/purchase; no audited clearing/fare guilt.",
+        "applicable_open_gaps": [
+          "G06",
+          "G07",
+          "G09",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC10",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 48,
+        "joined_saved_paragraph": "Kasumi's useful knowledge, partial apologies and promises remain real beside condescension and leverage. Ichika objects to companionship and rhetorical similarity; a temporary deal assertion does not make the whole relation freely chosen. Iori's duty and later investigation qualification coexist with transport and detention threats, without proving lawful custody. The source eventually prints Ichika's own shooting report and apology and her failed work. These are consequential public acts, rather than merely predictions. They leave target, count, weapon, clinical result and full containment insufficiently determined at the accepted scope. Warm reassurance cannot remove that responsibility or supply missing forensic detail. [E30:005–010]",
+        "support": [
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "005–010;009s1u0060 shooting report",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Useful knowledge/promises not free allegiance; legal custody/trajectory/targets/clinical details unproved.",
+        "directed_recipients_and_agency": "Kasumi praise/leverage, Iori investigation and threats, Ichika report/apology and failed duty separate.",
+        "actual_endpoint_and_unfinished_coda": "Actual shooting report/failed task, no reconstructed complete forensic outcome.",
+        "applicable_open_gaps": [
+          "G06",
+          "G07",
+          "G09",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC11",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 50,
+        "joined_saved_paragraph": "Private vulnerability is equally resistant to stereotypes. A choker becomes an imagined collar only in a conditional performance of danger, followed by retraction and apology. Ichika is not revealed to possess an actual restraint device or clinically hidden personality. Her sea response is not compulsory joy: she partly dislikes it, feels work-like expectations, notices another student who wanted the opportunity and worries whether she deserved it. Public talent and Trinity's favorable image do not determine how the experience feels to her. [P01:26015:003/005/006/written]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "26015:003/005/006 written andwhole pairs",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Conditional collar prank not real restraint/diagnostic hidden self; sea experience not compulsory joy.",
+        "directed_recipients_and_agency": "Her questions/apology/deserved-place concern, junior wanted opportunity and adult reaction distinct.",
+        "actual_endpoint_and_unfinished_coda": "Actual failed prank/roomward return and local care; unnamed nemesis not joined.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC12",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 52,
+        "joined_saved_paragraph": "Mika's holiday gives a positive appraisal change at a definite scope. Ichika locates rubbish at the propeller; Mika independently cleans the oily bag, credits her diagnosis and thanks or apologizes for helpers' lost play time. After collapse, Mika chooses safety and honest withdrawal rather than protecting a flawless vacation. Ichika says these acts changed her initial rumor-based view and independently seeks Kasumi so that chosen care will not be extinguished. This is a particular judgment based on actual work. It does not erase Mika's public accountability, certify every rumor false or make Ichika merely loyal to office. [E48:007/008]",
+        "support": [
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "007/008 complete meanings",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Changed rumor-based appraisal not every rumor disproved/Mika accountability erased/loyalty imposed.",
+        "directed_recipients_and_agency": "Mika independently chooses dirty work/apology/safety; Ichika states judgment and seeks expertise.",
+        "actual_endpoint_and_unfinished_coda": "Actual obstruction cleanup, positive appraisal change and chosen help request.",
+        "applicable_open_gaps": [
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC13",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 58,
+        "joined_saved_paragraph": "The train ending provides an actual institutional response without a general policy. Nagisa acknowledges the event, apologizes reciprocally and says damage is acceptable; her concern is loss, and restoration is conditional with attributed expert confidence. Ichika's feared resignation is counterfactual, not an accomplished departure. The acknowledgment is proportionate communication, not an executed repair, witnessed artifact transfer or independently authenticated relic. Its local reassurance should survive alongside failed work, while stronger claims about legal or material settlement remain open. [E30:011:s2:u0006–0015]",
+        "support": [
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "011:s2:u0006–0015",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Acknowledgment not restitution/relic authentication/handover; resignation feared not occurred.",
+        "directed_recipients_and_agency": "Nagisa proportionate acknowledgment/apology and Ichika relief/future-contact wish distinct.",
+        "actual_endpoint_and_unfinished_coda": "Actual response allows damage, conditional restoration/confidence only.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC14",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 60,
+        "joined_saved_paragraph": "The band event gives another bounded administrative capacity. After reported breach and capture, Ichika is to take over the detained students' disposition. She promises a plausible upward explanation and thinks things will probably work out, attributing likely indulgence to Tea Party desire to avoid a large dispute. No final pardon, ruling, restitution or secure cancellation of every sanction is printed. The scene's useful prospect of mediation belongs beside Airi's separate confidentiality pressure and peers' mistaken motives, rather than turning official helpfulness into a completed moral repair for everyone. [E36:008:s1:u0002–0007/u0079–0089]",
+        "support": [
+          {
+            "source_id": "E36",
+            "accepted_argument_locator": "008:s1:u0002–0007/u0079–0089; checkpointL176–180",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Proposed disposition/plausible explanation/probable indulgence not final pardon/ruling/repair.",
+        "directed_recipients_and_agency": "Ichika mediates upward, Airi confidentiality and peer misunderstood motives remain independent.",
+        "actual_endpoint_and_unfinished_coda": "Actual detention/takeover prospect; final disposition unprinted.",
+        "applicable_open_gaps": [
+          "G06",
+          "G07",
+          "G09",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC15",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 62,
+        "joined_saved_paragraph": "Holiday opening produces real field-capacity limits. Nagisa announces a public beach, apologizes for short notice and permits reasonable effort and tourist enjoyment. The expected light duty is immediately tested: Ichika takes a small break, questions whom she is excusing herself to and realizes the scale cannot be handled alone. Hasumi admits she also cannot replace one person and requests cooperation. That agreement is practical shared capacity, not general incompetence or completed enforcement. A pause already has substantive value before the institution solves staffing. [E48:012–015]",
+        "support": [
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "012–015",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Reasonable permission and cooperation not finished enforcement/global incompetence/clinical recovery.",
+        "directed_recipients_and_agency": "Nagisa public announcement, Ichika finite break and request, Hasumi own capacity limit.",
+        "actual_endpoint_and_unfinished_coda": "Actual beach opening/pause and cooperation agreement, staffing outcome pending.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC16",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 64,
+        "joined_saved_paragraph": "When Nagisa offers personal help, sincere care coexists with rank. Ichika explains her difficult patrol area and accepts but inwardly feels she cannot now refuse and must protect her. A promised later discussion with Tsurugi and Hasumi is not performed burden reform. Other Tea Party junior and senior volunteers criticize field knowledge and then offer help; their criticism is occasion testimony, not certified blanket ignorance, and their work is not simply obedient following. The office can both enable assistance and make its refusal harder. [E48:016/029]",
+        "support": [
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "016/029",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Sincere aid not free refusal or performed burden reform; upward criticism not certified total ignorance.",
+        "directed_recipients_and_agency": "Ichika safeguarding cost, Nagisa rank and future discussion, independent juniors/seniors volunteering.",
+        "actual_endpoint_and_unfinished_coda": "Help offered/accepted; future discussion and deployment not complete.",
+        "applicable_open_gaps": [
+          "G06",
+          "G07",
+          "G09",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC17",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 66,
+        "joined_saved_paragraph": "The other helper encounters retain local limits instead of becoming one triumphant deployment. Koharu's delight at being called a capable junior is actual without grades improved or formal return. Mashiro's concern includes loneliness as well as visible contribution. An unnamed junior musters courage, Ichika expressly asks for help and admits her own limit, and eager assent precedes setting out. These acts make belonging and wanted company visible independently of strength. The linked848/854 routes do not prove all helpers were present in one simultaneous patrol, every proposed task finished or staffing permanently solved. [E48:025/026/030; checkpoint:L1687]",
+        "support": [
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "025/026/030 andphysicalL1687 routing qualification",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Accepted local offers not simultaneous848/854 all-helper patrol or grades/formal return/solved staffing.",
+        "directed_recipients_and_agency": "Koharu delight, Mashiro loneliness care, anonymous junior courage and Ichika admitted limit.",
+        "actual_endpoint_and_unfinished_coda": "Actual recognition/assent before setting out; every patrol completion unprinted.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC18",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 70,
+        "joined_saved_paragraph": "Trying many things can be enjoyable without furnishing a single purpose. Ichika packs goods for delivery, values resale and other buyers' pleasure at low prices and shows a represented platinum app rating. Cross-school commerce is reported rather than comprehensively audited. She keeps the praised guitar but conditionally allows future disposal. The actual cleared park is a completed task, while parcel arrivals are unprinted. Her delight in useful circulation is genuine ordinary value, not proof that lack of sustained enthusiasm makes every interest disposable or every sale an institutional duty. [P01:10077:005]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:005 wholeT100770230",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Platinum rating/resale not audited trade history; conditional guitar giveaway not sale, parcel arrivals unprinted.",
+        "directed_recipients_and_agency": "Her delight in buyers happiness, kept praise token, reciprocal help preference.",
+        "actual_endpoint_and_unfinished_coda": "Actual cleared park/packing; retained guitar and future disposal possibility.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC19",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 72,
+        "joined_saved_paragraph": "The balloon encounter begins with competent small help: she asks a child to wait safely instead of climbing, retrieves the balloon in the represented action and returns without it while explaining. That supports help without inventing independently narrated handover mechanics. The new high perspective on the adult and the initial misunderstanding that praise addresses the tree supply humor; she then knowingly accepts praise for helping. None of those moments must solve her wanted-life question to count. Her later all-day play request is equally authored and actually enjoyed. [P01:10077:006]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:006 wholeT100770300",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Represented balloon rescue/return without it not invented independently narrated handover; humor not incompetence.",
+        "directed_recipients_and_agency": "Child safety direction, tree perspective, knowingly accepted praise and wanted play.",
+        "actual_endpoint_and_unfinished_coda": "Actual represented retrieval/return, subsequent all-day joy; transfer mechanics not fabricated.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G09",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC20",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 74,
+        "joined_saved_paragraph": "Surfing is another experiment with a condition. Ichika's work is finished, she wanders partly to avoid looking idle and initially dislikes the imagined flashy lifestyle. She agrees only if they do it together, imposing a real adult participation cost. Fast learning and competition entry are printed, while years of experience are commentators' false inference against the novice setup. She misses the trophy, rejects a professional future and judges the result fitting to others' effort without proof of intentional loss. Enjoyment and uncertain repetition survive the refusal. Talent gives an opportunity, not another person's title to choose her life. [P01:26015:002]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "26015:002 wholeT260150010 includingmessage090–150",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Fast facility not years of experience/pro vocation/intentional loss/compulsory repeat.",
+        "directed_recipients_and_agency": "Joint condition imposes adult cost; coach/commentator inference opposed by novice setup and own choice.",
+        "actual_endpoint_and_unfinished_coda": "Actual competition misses trophy, refuses profession, enjoys but unsure repeat.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G09",
+          "G10",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC21",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 76,
+        "joined_saved_paragraph": "Chosen presentation contributes another ordinary register. She deliberately selects sunglasses and likes praise; tea skill is reported as learned from a senior. Peace, rest, tidying, holiday gifts, accepted candy, a hoped reciprocal present and intentionally shared birthday time matter as written desires and acts of address. They are not independently completed cups, gifts or calendar anchors. The question whether a burden like the teacher's might provide enthusiasm is a written possibility, not proof that overload cures uncertainty. Looking like others' brightness and finding one's own wanted pace remain different things. [P01:checkpoint:L497–L503]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "written checkpointL497–503 two profiles/two costume objects",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Chosen sunglasses and wishes not completed future gifts/calendar; burden possibility not overload cure.",
+        "directed_recipients_and_agency": "Own presentation/rest/tidying/company/reciprocal candy and senior-learned tea report.",
+        "actual_endpoint_and_unfinished_coda": "Written ordinary desires/addresses and reported skills, later celebrations unprinted.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC22",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 78,
+        "joined_saved_paragraph": "The holiday's small pause is complete as a pause. Fatigue and self-questioning are printed without an external rebuke or full clinical recovery. Her later acceptance of juniors' support gives warmth and practical possibility, while Kasumi's chosen reading and members' return for ice-cream company retain their own ordinary motives. Meg already gives the existing treats to Kasumi and the teacher and plans another for herself; no finished new purchase follows. These are separate people's pleasures, not redemption receipts which Ichika must earn by accepting friendship. [E48:011/013/026/029/030]",
+        "support": [
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "011/013/026/029/030",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Pause not full clinical recovery/finished staffing; ice-cream existing gift not planned new purchase achieved.",
+        "directed_recipients_and_agency": "Ichika accepts help; Kasumi chosen reading/members return and Meg own future treat remain independent.",
+        "actual_endpoint_and_unfinished_coda": "Actual finite pause/reading/company and existing treat distribution; new purchase pending.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC23",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 80,
+        "joined_saved_paragraph": "The gift encounter centers preparation and wanted conversational recognition. Ichika brings a sheet or prepares the place in locale-specific wording because the adult has made time; she greets, names Valentine's Day and presents the gift. Her question atU12 positively treats it as readily received from her perspective. She prefers directness locally but also wants room to tell how it was made and to have effort recognized; those desires need not be collapsed into a contradiction. Handmade preparation is reported, not an inspected manufacturing sequence. Delicacy is a requested manner of engaging with her ordinary labor. [L94:interactionsE01–E05; E34:094]",
+        "support": [
+          {
+            "source_id": "L94",
+            "accepted_argument_locator": "interactionsE01–E05,especiallyE02u12/E04u18–21/E05u26–27",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E34",
+            "accepted_argument_locator": "094 current meaningphysicalL169",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Gift received in her perspective not independently certified mechanics; handmade report not manufacture audit.",
+        "directed_recipients_and_agency": "Ichika preparation/occasion/directness alongside wanted maker narrative and delicacy.",
+        "actual_endpoint_and_unfinished_coda": "Actual represented gift presentation/reception question, wanted effort recognition.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC24",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 82,
+        "joined_saved_paragraph": "The gift's ending remains a substantive request. Attributed or echoed assurances and playful responsibility language do not supply an independent blanket adult agreement. Her final named narration asks him to open his mouth; later sound and heart instructions do not show feeding, taste or completed repair. The request is unshown as accomplished, not proved to fail. Gift reception in her perspective, formal thanks or receptive alternatives and desired conversation are positive evidence which survives the unperformed ending. A small encounter can express reciprocity and a boundary without securing romance, numerical age or a fulfilled repair. [L94:interactionsE06–E09; E34:094]",
+        "support": [
+          {
+            "source_id": "L94",
+            "accepted_argument_locator": "interactionsE06–E09; finalu43 andfourlaterclear/sound/heartcommands",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E34",
+            "accepted_argument_locator": "094 current meaningphysicalL169",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Echo/formal alternatives not selected execution/adult blanket consent; final mouth request not feeding/taste/repair or proven failure.",
+        "directed_recipients_and_agency": "Her requested continuation and playful accountability, adult alternatives separate source mode.",
+        "actual_endpoint_and_unfinished_coda": "Positive perspective reception and formal thanks repertoire, final accomplished feeding unshown.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC25",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 86,
+        "joined_saved_paragraph": "Ichika's moderation is strongest where the text prints its action and endpoint. Contacting urgent backup and returning to postponed work achieve the assignment, so avoiding an immediate quarrel cannot be called blanket cowardice. The train then gives a contrary public case: refused explanations, pursuit, bag leverage and incompatible duty claims precede her explicit shooting report at009U60, an attributed impulsive explanation and apology. Written falls and sound cues do not secure trajectories, targets or every injury, while later intake accounts positively report prior harm and containment work. Incomplete forensic reconstruction is not reason to erase her actual report. [P01:10077:002; E30:003–012]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:002 wholeT100770010",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "003–012 particularly009u60/012 prior-harm accounts",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Affirmative shooting report retained without invented targets/trajectories/diagnosis; incomplete forensics not erasure.",
+        "directed_recipients_and_agency": "Ichika action/apology and Kasumi/Iori/crew independent reports and recipients.",
+        "actual_endpoint_and_unfinished_coda": "Actual report of shooting, later intake/prior harm accounts, full clinical/mechanism/custody unfinished.",
+        "applicable_open_gaps": [
+          "G06",
+          "G07",
+          "G09",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC26",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 88,
+        "joined_saved_paragraph": "Her failed work and relief also remain different results. Front arrival does not finish stopping the train; defensive artifact humor meets self-reproach, and teacher reassurance recognizes effort without establishing innate goodness or immunity. The source gives accepting accompaniment and future reporting, then Nagisa's actual acknowledgment. Subsequent restoration, return and final confinement or escape are not filled by reassuring talk or sound clusters. Accountability has a finite communicative ending here while technical and custodial tails remain open. [E30:010–012]",
+        "support": [
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "010–012 whole arguments",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Front arrival not completed train stop/repair; reassurance not innate goodness/immunity; containment future not achieved.",
+        "directed_recipients_and_agency": "She self-reproaches and accepts accompaniment; adult response/Nagisa acknowledgment distinct.",
+        "actual_endpoint_and_unfinished_coda": "Actual failed work, accepted help and communicative acknowledgment; final transfer/repair/custody/escape unknown.",
+        "applicable_open_gaps": [
+          "G06",
+          "G07",
+          "G09",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC27",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 90,
+        "joined_saved_paragraph": "The holiday confronts a claimed collapse risk and actual later catastrophe. Meg's bombs and Kasumi's prediction provoke Hasumi's forceful resistance; Ichika joins and treats Hot Springs as her own exception to dialogue. Retreat is not arrest or permanently solved safety. Later she recognizes the beach may be unsafe and Mika chooses to disclose and leave; seeking disliked expertise is Ichika's alternative initiative. She promises what she can do, returns materials as part of the subsequent completed replacement bath, declines authority to transfer land and offers persuasion. Neither the bounded promise nor Kasumi's claimed exchange rights certify a legal contract or limitless consent. [E48:003/004/008/009]",
+        "support": [
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "003/004/008/009",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Retreat not arrest/secured safety; materials help not legal property transfer/limitless contract consent.",
+        "directed_recipients_and_agency": "Hasumi force, Ichika own no-dialogue exception then chosen expertise, Mika safety judgment, Kasumi club volunteer.",
+        "actual_endpoint_and_unfinished_coda": "Actual force/retreat and later materials return/replacement bath; land transfer refused/persuasion offered.",
+        "applicable_open_gaps": [
+          "G06",
+          "G07",
+          "G09",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC28",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 92,
+        "joined_saved_paragraph": "The replacement bathing facility and meals actually complete; they are not simply intended. It is heated water with additive rather than a natural hot spring, and expertise about cause is attributed rather than independently surveyed. Nagisa later presses the switch and the next episode explicitly affirms a villa explosion. The feared mass-arrest and roll-cake punishment opening does not occur as the actual response: Nagisa apologizes for pressing the switch, recognizes Mika's effort, separates outstanding problems and trusts her. Camping and cards follow. None of that establishes injury-free collapse, all-bomb removal, legal absolution or lasting engineering repair. Real local repair work and play survive those boundaries. [E48:009/010]",
+        "support": [
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "009/010 complete ending",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Bath/dinner actual but not natural spring/engineered certification; actual villa explosion not fearedmassarrest enacted.",
+        "directed_recipients_and_agency": "Kasumi knowledge, Nagisa switch/apology, Mika acknowledged effort/trust, three friends own cardplay.",
+        "actual_endpoint_and_unfinished_coda": "Actual replacement heated bath/dinner/explosion/camping/cards; bombs/injuries/legal/engineering tails unprinted.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC29",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 94,
+        "joined_saved_paragraph": "The theatre gives a qualified public comparison without forcing a vocation. P01 preserves an attributed parent completion report of Ichika's prince-role practice and performance; this author's receipt of that report is not personal whole receiving of the underlying working account. E41's current016 argument independently preserves Tsurugi's chosen script preparation, explicit agreement to replace an injured princess actor, strong performance, loss of composure at the adult's cheering and viewers' expressionist interpretation. The play succeeds and Tsurugi faints at curtain call; recovery is unprinted. The attributed Ichika contribution does not absorb the original actor, Tsukuyo's disappointed assent or Michiru's pending filming permission, and neither it nor applause supplies a permanent theatrical life. [P01:checkpoint:L524; E41:016]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "checkpointphysicalL524 attributed external parent report",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E41",
+            "accepted_argument_locator": "016 physicalL949–965 complete",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Prince contribution attributed, no personal whole external account/primary credit; no permanent vocation/recovery/media permission.",
+        "directed_recipients_and_agency": "Tsurugi chosen script/assent, injured actor, Tsukuyo disappointment/assent, Michiru filming request and audience reading independent.",
+        "actual_endpoint_and_unfinished_coda": "Current argument actual play success/Tsurugi faint; Ichika role qualified report, recovery/unperformed filming unknown.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC30",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 98,
+        "joined_saved_paragraph": "Ichika wants reciprocity instead of being only the recipient of an adult's effort. In base005 she notices praise and refused repayment for other students, then proposes that he call her for small troubles or shopping choices where she feels capable. The alternatives include questioning whether an answer has yet been given as well as accepting help; they are not one unconditional agreement. The cleared park is actual and the parcel outcome unprinted. The wish is relational contribution, not an appointment, legal contract or permanent availability. [P01:10077:005]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:005 wholeT100770230",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Small-help proposal and alternatives not unconditional agreement/appointment/permanent availability.",
+        "directed_recipients_and_agency": "Her wanted reciprocity notices other students praise/repayment and asks a capable contribution.",
+        "actual_endpoint_and_unfinished_coda": "Actual cleared park, future small errands/parcel outcomes unprinted.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC31",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 100,
+        "joined_saved_paragraph": "Her requests also condition how help should occur. The guitar experiment asks for no ridicule. Disclosure about enthusiasm selects this confidant but denies distrust of others. The eventual play request is her own answer to advice she has not understood. Those conditions and the actual pleasant afternoon or park do not certify every question welcome. The sea walk becomes an interview she appreciates while feeling she lost something, and expected sleep remains unprinted. An adult can give useful listening while depriving the encounter of another wanted purpose. [P01:10077:003/006; 26015:003]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:003/006,26015:003 wholeT260150110 includingm0260–0370",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Confidant choice not every question welcome; useful interview not achieved desired walk/sleep.",
+        "directed_recipients_and_agency": "No-ridicule request, own play response, night disclosure gratitude and lost ordinary purpose.",
+        "actual_endpoint_and_unfinished_coda": "Actual enjoyed guitar/play and valued interview with felt loss; sleep expected only.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC32",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 102,
+        "joined_saved_paragraph": "The failed dangerous-girl performance sharpens that limit. Ichika first asks that an over-talkative night be forgotten; blanket acceptance does not answer it. She tries a conditional choker-as-collar hypothetical and an intimidating stereotype reversal, then apologizes, says it was a prank for this teacher and admits the ending did not go as intended. Returning to rooms and a somewhat forceful back-push are narrated; later repair is proposed. In the last-night-linked encounter she says she does not actually want to be demanding, accepts care and chooses more openness. That local answer matters without turning the original forgetting request into completed repair or all future vulnerability into permission. [P01:26015:005/006]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "26015:005 wholeT260150260 and006 wholeT260150340 includingm0600–0650",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Blanket reassurance not answered forgetting request; hypothetical collar not real device; later warmth not complete earlier repair.",
+        "directed_recipients_and_agency": "Her attempted boundary/prank/apology/return request/back-push, later accepts care and chooses straightforwardness.",
+        "actual_endpoint_and_unfinished_coda": "Actual failed prank and roomward return, later local playful care/new openness; future repair pending.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC33",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 104,
+        "joined_saved_paragraph": "Train reassurance has the same positive and bounded shape. She accepts help, feels relief and wants occasional small private contact, while asking the adult to moderate comments and preserving privacy and mixed embarrassment. JP and Korean versions locate appreciation and echoed speech differently; alternatives are not all spoken. Nagisa's proportionate response supports relief without absolving every train action. Contact, tasty food and future company remain invitations or proposals rather than completed later visits, an unlimited dependency relation or settled romance. [E30:006/010/011]",
+        "support": [
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "006/010/011 locale-specific complete arguments",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Occasional contact not periodic appointment/unlimited dependency/romance; formal alternatives not all executed.",
+        "directed_recipients_and_agency": "She accepts help but asks moderation/privacy, adult locale replies and Nagisa acknowledgment distinct.",
+        "actual_endpoint_and_unfinished_coda": "Actual relief with future company/food/private contact proposals not completed.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC34",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 110,
+        "joined_saved_paragraph": "Hasumi gives support with actual limits. Her train instruction separates bag work from the personal rest hope and permits abandoning that extra support if it obstructs recovery. In the holiday she first observes Ichika's nervousness, later agrees to the request for Hot Spring expertise and thanks the helpers despite suspicion. The open beach then makes Hasumi admit her own inability to replace Ichika alone and propose cooperation. Those acts are neither total senior rescue nor proof that Ichika has no agency; different responsibilities, negotiated means and shared capacity make the relation practically reciprocal. [E30:002; E48:002/009/015]",
+        "support": [
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "002 complete assignment/rest qualification",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "002/009/015",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Senior help not total rescue/suppressed junior agency; extra rest hope can yield to recovery.",
+        "directed_recipients_and_agency": "Hasumi own limit/thanks and Ichika negotiated expertise request/shared capacity.",
+        "actual_endpoint_and_unfinished_coda": "Actual instructions/help/acknowledged capacity and cooperation agreement; enforcement pending.",
+        "applicable_open_gaps": [
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC35",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 112,
+        "joined_saved_paragraph": "Kasumi has a particularly consequential directed relation. On the train she mixes useful knowledge, promises and ordinary food invitation with patronizing school-qualified praise, refused allegiance and bag leverage. Ichika's later refusal to talk with Hot Spring Development has a printed prior-conflict basis. Yet she chooses to approach Kasumi after seeing Mika's actual care, acknowledges expertise and accepts a volunteered response from the club. She repeatedly denies that this makes them friends and objects when the teacher presses that framing. Kasumi claims exchange rights and later offers a withheld ordinary-day explanation for helping; neither statement is a verified deed or a final secret motive. Cooperation can be real without mutual friendship or every coercive edge repaired. [E30:005–009; E48:001/003/008/009/011]",
+        "support": [
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "005–009",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "001/003/008/009/011",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Useful knowledge/cooperation not freely chosen allegiance/friendship/legal deed or revealed secret motive.",
+        "directed_recipients_and_agency": "Kasumi expertise/promises/patronizing praise/leverage, Ichika objections/initiative, club volunteered aid distinct.",
+        "actual_endpoint_and_unfinished_coda": "Actual refused friendship and accomplished replacement help, claims of exchange/withheld motive unfinished.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC36",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 114,
+        "joined_saved_paragraph": "Mika's changed appraisal arises from her own acts and Ichika's own judgment. Cleaning the oily obstruction, recognizing privilege and helpers' lost time, apologizing and choosing safety provide the reasons Ichika states for seeking help. She explicitly rejects loyalty to office as the explanation. Later, Mika's offered patrol help first encounters a practical safety objection: fighting should be avoided, not guaranteed by strong Tea Party members. A friend framing is eventually accepted and Mika is pleased. That warmth is an actual local response while practical institutional concerns persist, and the patrol is not printed complete. [E48:007/008/017]",
+        "support": [
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "007/008/017",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Changed appraisal not office loyalty/allrumors false; accepting friend framing not completed safe patrol.",
+        "directed_recipients_and_agency": "Mika care/safety/apology and wanted help, Ichika explicit appraisal/safety concern.",
+        "actual_endpoint_and_unfinished_coda": "Actual expert-seeking judgment and local accepted framing/Mika pleasure; patrol completion unprinted.",
+        "applicable_open_gaps": [
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC37",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 116,
+        "joined_saved_paragraph": "Nagisa and Seia cannot be reduced to the same helpful friend role. Nagisa's actual train acknowledgment is proportionate, but her later personal patrol offer adds guarding and refusal costs through rank. Seia advances a philosophy of socially changeable roles and treats her own assent as half of a two-person society; Ichika explicitly says the explanation does not answer the safety problem. Assent is not a consent theorem or proof that both agree. The three friends' camping and cards remain their own pleasure, while Ichika's objection and workload are equally real rather than erased by the private holiday's success. [E30:011; E48:010/016/018]",
+        "support": [
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "011",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "010/016/018",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Seia halfsociety rhetoric not consent theorem/both assent; rank aid not free refusal or workload solved.",
+        "directed_recipients_and_agency": "Nagisa proportionate response/guarding cost, Seia own philosophy and Ichika explicit objection; friends own cards.",
+        "actual_endpoint_and_unfinished_coda": "Actual acknowledgment/camping/cards and offered help with continuing disagreement.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC38",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 118,
+        "joined_saved_paragraph": "Mashiro and the unnamed junior expose wanted company independent of raw strength. Mashiro worries about visible contribution but also asks whether solitary patrol is lonely; Ichika recognizes this care and accepts. The anonymous junior fears her own insignificance, receives an express request and eager assent follows Ichika's admission of reaching a limit. Koharu's delight in being recognized as capable similarly has value apart from academic status. They do not become one interchangeable labor supply or a single completed all-person operation. Acknowledgment lets another person choose to contribute before competence is numerically certified. [E48:025/026/030]",
+        "support": [
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "025/026/030",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Wanted company/recognition not one interchangeable force or completed operation/grades proven.",
+        "directed_recipients_and_agency": "Mashiro loneliness care, unnamed junior courage, Koharu delight, Ichika explicit limit/request.",
+        "actual_endpoint_and_unfinished_coda": "Actual accepted support/assent; every future patrol and lasting comfort pending.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC39",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 120,
+        "joined_saved_paragraph": "Other offers keep contrasting motives and objections. Azusa's gratitude and ordinary memories resist presumed hatred, yet her search-and-destroy patrol interpretation worries Ichika. Hanako's accepted help retains unwanted teasing. Hina acknowledges official political complications while proposing personal volunteering. Hifumi reports the Remedial students' own discussion and some are still being sought. Shizuko's economic costs coexist with her preferred shared-fun explanation; Izuna's self-authored ninja identity and wanted training are not dismissed as mere play. Iori's cooperative encounter and Tsurugi's offered replacement have literal speaker seams which prevent a clean per-unit reassignment. None of these routes permits erasing independent motives, concatenating every helper or inventing finished enforcement. [E48:019–024/027/028]",
+        "support": [
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "019–024/027/028 all local arguments",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "848/854 routes not simultaneous allhelper event;021/022 literal speaker shifts not silently reassigned.",
+        "directed_recipients_and_agency": "Azusa gratitude/memories, Hanako unwanted teasing, Hina politics, Hifumi peer initiative, Shizuko fun and Izuna selfauthored ninja.",
+        "actual_endpoint_and_unfinished_coda": "Local help offers/assent preserve objection and incomplete search/patrol, no fabricated enforcement.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC40",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 122,
+        "joined_saved_paragraph": "The Sweets Club detention and theatre place Ichika in other people's unfinished stories. She offers an upward explanation but Airi's confidentiality, misunderstood motive, peers' chosen inclusion and eventual local self-appraisal belong to those recipients. Her prince-role contribution remains P01's attributed completion report, while the current theatre argument independently preserves Tsurugi's script interest, Tsukuyo's own disappointment and the audience's unintended reading. These different evidence scopes permit a qualified public comparison while preserving distinct wanted lives around her. [E36:008–012; P01:checkpoint:L524; E41:016]",
+        "support": [
+          {
+            "source_id": "E36",
+            "accepted_argument_locator": "008–012",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "checkpointphysicalL524 attributed report",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E41",
+            "accepted_argument_locator": "016 complete meaning",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Useful explanation not final ruling; theatre role attributed not independent whole account; no appropriation of peer ends.",
+        "directed_recipients_and_agency": "Airi confidentiality and peers local inclusion, Tsurugi script/Tsukuyo disappointment/audience interpretation independent.",
+        "actual_endpoint_and_unfinished_coda": "Actual proposed disposition and play success with separate unfinished repair/media/recovery.",
+        "applicable_open_gaps": [
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC41",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 126,
+        "joined_saved_paragraph": "Casual っす, hedges, apologies and “not a big deal” can make Ichika's effort less visible, but they do not prove lack of care. The written profile's earned affability and actual triage contradict an effortless or lazy essence. Her deliberately polished dangerous-girl hypothetical changes register and is then retracted; the collar language cannot be detached from the conditional setup. Responsibility speech in a playful continuing relation is neither legal transfer nor adult ownership. Written rhetoric and mode-bound appraisal remain stronger evidence than an invented performed tone. [P01:10077:002/written; 26015:005/006; checkpoint:L528–L534]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:002/written,26015:005/006,physicalL528–534",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Casual words not laziness/clinical self; retracted collar conditional, responsibility not legal ownership.",
+        "directed_recipients_and_agency": "Her effortful courtesy/register shifts and requested relation conditions.",
+        "actual_endpoint_and_unfinished_coda": "Written rhetoric/local playful response, performed tone unreceived.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC42",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 128,
+        "joined_saved_paragraph": "Brief directness and desired conversation can coexist. In the gift she expresses a local preference for direct wording, yet the instantly correct answer deprives her of room to narrate making. The complaint concerns delicacy and recognition, not universal hostility or actual end of the conversation. Reported handmade work, uncertain echoes, unfinished words, locale-specific turn placements and three named narration turns retain their own claims. 年頃の女の子 is self-description, not numerical age or a legal category; formal reception options are positive repertoire without proving which route executed. [L94:interactionsE01–E09]",
+        "support": [
+          {
+            "source_id": "L94",
+            "accepted_argument_locator": "allnineinteractionsE01–E09/currentrefinements",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E34",
+            "accepted_argument_locator": "094 physicalL169",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Local directness not global hostility; title not numericage/legalclass, three named narration turns and alternatives not performance.",
+        "directed_recipients_and_agency": "Maker wanted conversational space and delicacy, echoed uncertain uptake and formal reception distinct.",
+        "actual_endpoint_and_unfinished_coda": "Actual perspective reception and conversation complaint, final feeding request unperformed.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC43",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 130,
+        "joined_saved_paragraph": "The train's Japanese/Korean distinctions are consequential. Illness and running injury are different questions, an unfinished ticket-purchase request is not the same as a complaint that no words have yet been exchanged, and heard or calculated knowledge about the cargo has different attributed mechanisms. An Ichika shooting report is affirmative without reconstructing an exact victim from adjacent falls and sounds. The final occasional-contact wording must not become periodic appointments, and options which cross escape versus unconscious stop-issuer across locales cannot be aligned by number alone. Current analytical corrections govern without a silent locked-source repair or new raw audit. [E30:003/006/007/009–011]",
+        "support": [
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "003/006/007/009–011 wholelocalecontrols",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Differentillness/injury/purchase/knowledge/options mechanisms not silently aligned; no raw source repair/new credit.",
+        "directed_recipients_and_agency": "Specific speakers/choices/attributions preserve attempted explanation and actual shooting report.",
+        "actual_endpoint_and_unfinished_coda": "Current corrected account, occasional contact and crossed option mappings; forensic/physical completion unknown.",
+        "applicable_open_gaps": [
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC44",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 132,
+        "joined_saved_paragraph": "The two complete profiles and two costume repertoires preserve literal10077/26015 routes. Helping and trying many things, rest, many school calls, chosen sunglasses and self-consciousness are written fields and address conditions. Empty costume profiles are inventory shape, not missing biographies. Repeated830/10830/900830 and848/10848 modes do not multiply completed plots. A mission says a particular item is complete without completing the whole event; the holiday costume says Mika differed pleasantly from expectation while retaining sea dislike, no regret at leaving, work relief and wanted enjoyment. This is meaningful contrary evidence to total holiday conversion. [P01:checkpoint:L497–L503]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "written physicalL497–503 bothprofiles/costumes1900918001:10077,1900940401:26015",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Emptyprofiles not missing bio; repeats830/10830/900830/848/10848 not extra plots; unnamednemesis not automaticidentity.",
+        "directed_recipients_and_agency": "Rest/sea dislike/changed Mika view/selected sunglasses/company meaningful contrary/wantedlife.",
+        "actual_endpoint_and_unfinished_coda": "Written repertoire with local mission completion only, no totalholidayconversion/costumeperformance.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC45",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 138,
+        "joined_saved_paragraph": "A lazy-mediator reading cannot account for urgent backup, completed postponed work, escort, safe child-directed balloon help, actual diagnosis assistance and her own effortful affability. A perfect-flexibility reading cannot account for no-dialogue exception, force readiness, shooting report or conflicted refusal. The account is more precise when it treats moderation as a workable local practice and a wanted style, not a permanent immunity from failure. Public responsibility can be real even where a particular task fails. [P01:10077:002/006; E30; E48:003/007/014–030]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:002/006",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "all12currentmeanings",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "003/007/014–030",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Lazy and perfectmediator rivals both contradicted, failed public task not all care failure.",
+        "directed_recipients_and_agency": "Actual backup/help plus no-dialogue exception/shooting/own wantedstyle and recipients.",
+        "actual_endpoint_and_unfinished_coda": "Real completed labor/small help and consequential force beside unclosed crisis tails.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC46",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 140,
+        "joined_saved_paragraph": "A talent-to-destiny reading is directly tested by the cupboard coda, missed trophy, declined profession and uncomprehended advice. An all-experiments-fail reading is likewise contradicted by an enjoyable guitar afternoon, chosen surfing experience and actual all-day park pleasure. The question of what lasts does not erase what was wanted and achieved briefly. Resale happiness, retained guitar and conditional willingness to pass it on need no invented settled identity to count. [P01:10077:003/005/006; 26015:002]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:003/005/006,26015:002 allwholecodas",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Talent destiny and all-experimentfailure rivals opposed by real temporaryjoy/refusedcareer/unsolved purpose.",
+        "directed_recipients_and_agency": "Her selected activities/praise token/play and commentators own claims distinct.",
+        "actual_endpoint_and_unfinished_coda": "Cupboard, retained guitar, missed trophy/refused profession, actual enjoyment.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G09",
+          "G10",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC47",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 142,
+        "joined_saved_paragraph": "A teacher-created-good-child reading would treat every encouragement as discovery of her true self and every disclosure as successful listening. It cannot preserve the lost ordinary walk, unanswered forgetting request, failed prank, conditional no-ridicule request, desired gift conversation or limits on future availability. A total-help-fails reading would erase actual shared work, pleasure, useful listening, accepting help and local openness. Her choice of a confidant and her boundaries make the relation active on both sides; neither warmth nor criticism settles every later encounter. [P01; E30:010/011; L94]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "alleightpairs/fourwrittenobjects",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "010/011",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "L94",
+            "accepted_argument_locator": "wholeargument",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E34",
+            "accepted_argument_locator": "094",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Teacher-created true-self and allhelpmissing rivals both tested; warmth not every later boundary resolved.",
+        "directed_recipients_and_agency": "No-ridicule/play/giftrecognition/lostwalk/forgettingrequest and acceptedcare chosen on both sides.",
+        "actual_endpoint_and_unfinished_coda": "Actual usefullistening/work/localopenness with finite unresolved wanted ends.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC48",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 144,
+        "joined_saved_paragraph": "A simple hostility-to-friendship arc with Kasumi is also inadequate. Their practical cooperation and volunteered assistance are actual; refused friendship, pressure and claims of exchange remain actual too. Changed Mika appraisal is not merely institutional loyalty, and a holiday ending with camping, cards, reading and chosen company cannot close all engineering, property or rank concerns. The sources make room for help from a disliked expert and warmth toward a different peer without forcing uniform affection or moral rehabilitation. [E30:005–009; E48:008–011/016–018]",
+        "support": [
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "005–009",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "008–011/016–018",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Hostility-tofriendshipladder not required; cooperation real but pressure/engineering/property/rank not closed.",
+        "directed_recipients_and_agency": "Ichika ownexpertrequest and changed Mika appraisal; Kasumi independent reading/friendpressure/claimscope.",
+        "actual_endpoint_and_unfinished_coda": "Actual bath/help/cards/company with ongoingdenials and incomplete legal/workload tails.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC49",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 146,
+        "joined_saved_paragraph": "Finally, an institutional-success reading would multiply all accepted helper offers into completed patrol and treat proportionate talk as repair, contract rhetoric as legal transfer or the narrator's local enthusiasm as a solved workload. A total-institution-failure reading would deny real referral, modest completed labor, help acceptance and recognized belonging. The strongest synthesis separates assignment, actual work, disclosure, permission, self-appraisal, material outcome and another person's pleasure. Ichika's wanted reciprocity belongs in each comparison rather than functioning as an afterthought to public force. [P01:10077:002/005; E30:011/012; E36:008; E48:012–030]",
+        "support": [
+          {
+            "source_id": "P01",
+            "accepted_argument_locator": "10077:002/005",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E30",
+            "accepted_argument_locator": "011/012",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E36",
+            "accepted_argument_locator": "008",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E48",
+            "accepted_argument_locator": "012–030",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Institution success/failure rivals require separate assignment/permission/material outcome; counts not doctrine/finishedpatrol.",
+        "directed_recipients_and_agency": "Reciprocal ordinary wanted life and each helper agency persist beside rank/force costs.",
+        "actual_endpoint_and_unfinished_coda": "Actual modest labor/help/recognition, promised reform/ruling/repair/patrol not filled.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC50",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 152,
+        "joined_saved_paragraph": "L94 is the complete published historical integrator literary argument, freshly received through EOF, paired with current E34:094 contextual adoption wording. Its original producer and independent checks are attributed, not recertified by this author; the historical noncurrent preparation status does not itself admit or erase the object. Current Cycle008 governs the contextual authority, with3940 supplemental objects admitted with limits. The bounded name-routing inquiry in small MAIN working owners locates private-comparison and Final retrieval clauses, not a new Ichika MAIN act or exhaustive absence. Previously received accepted Eden protection is an institutional comparator at its actual actors. No ritual primary restart follows from historical pending headers.",
+        "support": [
+          {
+            "source_id": "C04",
+            "accepted_argument_locator": "currentCycle008wholecheckpoint",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "L94",
+            "accepted_argument_locator": "historicaldraft_noncurrentargumentqualifiednotstandalonecurrent",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E34",
+            "accepted_argument_locator": "094currentcontext",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "M03",
+            "accepted_argument_locator": "acceptedEdeninstitutionalcomparatoronly",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "F00",
+            "accepted_argument_locator": "line370rosterretrievalonly",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Binding not wholecustody; historical status not primaryrestart/admission, name routing not MAIN act/exhaustive absence.",
+        "directed_recipients_and_agency": "Current contextual authority and original producer/independent scopes remain attributed separately.",
+        "actual_endpoint_and_unfinished_coda": "3940supplemental current admission with limits reused; no new producer/raw/performance credit.",
+        "applicable_open_gaps": [
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "IC51",
+        "saved_monograph": "BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 156,
+        "joined_saved_paragraph": "All fourteen gaps remain OPEN. G01 bounds wider released contexts and lasting purpose; G02–G05 prevent useful Trinity or cross-school help from completing Yuuka, Serika, Hina, Arius or PS68's independent obligations. G06 keeps each local appraisal, friendship refusal, volunteer offer, confidentiality and wanted company distinct from global reconciliation. G07 permits real message codas, last-night links and recalled train relation without an absolute MAIN-event calendar. G08 preserves literal variants, costume contexts, recap scope, missing titles and unnamed profile references. G09 retains locale, choice, inward, narration and actor-label differences, including all-helper route alternatives. G10 is unreceived music, voice, images, videos and stage performance.",
+        "support": [
+          {
+            "source_id": "C03",
+            "accepted_argument_locator": "all14openentriesandclaimspecificeffects",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "C01",
+            "accepted_argument_locator": "physical319–344elevenrequiredsections",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "C02",
+            "accepted_argument_locator": "scope/choices/rivalsrequirements",
+            "exact_tuple_home": "ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Opengaps not lowstakesexclusion/global scopecompletion/fixedN/quarter.",
+        "directed_recipients_and_agency": "Eachpeer/role/variant/mode retains own responsibility and ordinary life value.",
+        "actual_endpoint_and_unfinished_coda": "All14OPEN, bounded complete candidate pendingROOT review; wider chronology/source/performance/legal/clinical/custody tails distinct.",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G03",
+          "G04",
+          "G05",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G11",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Personally complete accepted analytical arguments at declared scopes; saved paragraph wholly read. Explicit theatre parent attribution and historical gift qualification retained. Original producer source custody remains attributed.",
+        "ROOT_review": "PENDING"
+      }
+    ],
+    "eleven_headers": [
+      "## 1. Core thesis",
+      "## 2. Longitudinal arc",
+      "## 3. Public and private self",
+      "## 4. School and club role",
+      "## 5. Ordinary life",
+      "## 6. Crisis behavior",
+      "## 7. Relationship with Sensei",
+      "## 8. Major peer relationships",
+      "## 9. Language and written voice",
+      "## 10. Competing readings",
+      "## 11. Evidence route and remaining limits"
+    ],
+    "complete_saved_body_readback": "f27fe0 saved1–76 complete body portion (separate authority output had a clipped tail, no whole authority-document credit);604e3c saved77–160EOF. Final94/122 qualified theatre paragraphs received at77cbdf before freeze.",
+    "all14gaps": "OPEN",
+    "counts_not_completion_proof": true,
+    "original_primary_or_performed_or_independent_credit_added": 0,
+    "ROOT_literary_review": "PENDING",
+    "N_or_quarter_claimed": false
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_literary_or_source_credit": 0
+}

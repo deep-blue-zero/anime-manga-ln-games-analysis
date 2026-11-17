@@ -1,0 +1,164 @@
+{
+  "schema": "konosuba.character-first-output-annotations.v1",
+  "assessed_utc": "2026-10-24T20:50:24.653769+00:00",
+  "generation": "DORECK_EXPANDED_V1",
+  "first_outputs_pin": {
+    "file": "DORECK_ORIGINAL_FIRSTS_01.json",
+    "bytes": 5853,
+    "sha256": "3df990e443c59045c401e65d99ceb4bb73aa9577446cf0739b1eeded257f2124"
+  },
+  "exact_inputs_pin": {
+    "file": "DORECK_SCENARIO_INPUTS_01.json",
+    "bytes": 18722,
+    "sha256": "b269ab484fff4ca77ad109ef5d05625fcdf17e471d001dfe21d77650a2564264"
+  },
+  "original_first_seal": {
+    "file": "COHORT40_ALL_ORIGINAL_FIRSTS_SEALED_01.json",
+    "bytes": 7307,
+    "sha256": "07bb85b81509107b0abb4196ae597a1140293dcb64451cfd40f071b4dd72f10c"
+  },
+  "actual_complete_output_review_chunk": "102d71",
+  "annotations": [
+    {
+      "case_id": "C40-DOR-A1",
+      "pair_id": "C40-DOR-A",
+      "prompt_sha256": "55f81735fc158da62bf2b45698aca27c4ac6212fcd1f790d5786f9aca4eed3b8",
+      "original_body_pin": {
+        "file": "firsts01/C40-DOR-A1.txt",
+        "bytes": 719,
+        "sha256": "00f11347aed5f811e7fef8c51d7b274ec839879148864367e09e0f8889d3d228"
+      },
+      "original_first_receipt": {
+        "file": "firsts01/C40-DOR-A1.receipt.json",
+        "bytes": 1431,
+        "sha256": "4225b7dc84d81845fc11244750d111985c9de425d04f3529cb4f76bfb399d4d2"
+      },
+      "target_rule": [
+        "DOR-R01"
+      ],
+      "disposition": "SOURCE_KNOWN_CONDITIONAL_COMPARISON",
+      "observed": "Accepts openly identified proxy contact in the initial phase. Does not turn permission to hear a proposal into relationship acceptance.",
+      "body_constraints": "Uses the supplied alternative set,anticipated mixed jealousy and inability to attend. No new fee,completed marriage,helper or cure is asserted.",
+      "rule_comparison": "Compatible with DOR-R01 initial-phase branch;ordinary desire for access under constraint remains a rival.",
+      "defects": [],
+      "written_voice": "僕 and a polite request plausibly retain the bedside register;this is an author plausibility judgment,not a new-context voice certification.",
+      "original_body_changed": false,
+      "regenerated": false,
+      "canonical_event_or_actual_human_result": false
+    },
+    {
+      "case_id": "C40-DOR-A2",
+      "pair_id": "C40-DOR-A",
+      "prompt_sha256": "2f29bb672f4c4ac441a7dd16cbb672114802104a62c9a159ffbcea94f56836e7",
+      "original_body_pin": {
+        "file": "firsts01/C40-DOR-A2.txt",
+        "bytes": 677,
+        "sha256": "8d710bfc9b984ac3d5f4d8869a42c07b36deaef412bd173a66b3677c67ed5d37"
+      },
+      "original_first_receipt": {
+        "file": "firsts01/C40-DOR-A2.receipt.json",
+        "bytes": 1431,
+        "sha256": "bb33934f1c307198addeebc1a8d85c5524d3aa0e0824b474dd3eb19b39b9f6e3"
+      },
+      "target_rule": [
+        "DOR-R01"
+      ],
+      "disposition": "SOURCE_KNOWN_CONDITIONAL_COMPARISON",
+      "observed": "Requests beginning his own development rather than repeating proxy contact in the later phase.",
+      "body_constraints": "Keeps weakness,current inability to attend and uncertain recipient acceptance. The offered plan remains a beginning.",
+      "rule_comparison": "Uses the stated phase update in DOR-R01. Phase and means change together,so the choice does not isolate psychological growth.",
+      "defects": [],
+      "written_voice": "Self-directed request remains compatible with the private-ending voice. No acoustic or independent idiolect evidence.",
+      "original_body_changed": false,
+      "regenerated": false,
+      "canonical_event_or_actual_human_result": false
+    },
+    {
+      "case_id": "C40-DOR-B1",
+      "pair_id": "C40-DOR-B",
+      "prompt_sha256": "4728d997b9d8eade46e89733696d5325f962cbe1a7f3dbb2c5ca0ad409210046",
+      "original_body_pin": {
+        "file": "firsts01/C40-DOR-B1.txt",
+        "bytes": 653,
+        "sha256": "7de1fc2a4b155c10a33279a12907551d9df9c0912b68a17ef2dba00efcfc2af0"
+      },
+      "original_first_receipt": {
+        "file": "firsts01/C40-DOR-B1.receipt.json",
+        "bytes": 1430,
+        "sha256": "5a47ac80d3e3c437e2db496d3f862b89ae6beb7b4649b05fbe26e31d7ef21aec"
+      },
+      "target_rule": [
+        "DOR-R02"
+      ],
+      "disposition": "SOURCE_KNOWN_CONDITIONAL_COMPARISON",
+      "observed": "Sends the stop cue after the explicit reliable warning,accepting loss of the valued performance.",
+      "body_constraints": "Uses the supplied action possible from his seat. Does not invent a physical rescue,later opportunity or guaranteed future outcome.",
+      "rule_comparison": "Compatible with recognition-conditioned concern in DOR-R02. Ordinary friendship and generic danger response predict the choice too.",
+      "defects": [],
+      "written_voice": "The concern is intelligible as a human-world translation of his particular-companion plea,not an actual human sample.",
+      "original_body_changed": false,
+      "regenerated": false,
+      "canonical_event_or_actual_human_result": false
+    },
+    {
+      "case_id": "C40-DOR-B2",
+      "pair_id": "C40-DOR-B",
+      "prompt_sha256": "18ac8b86815cff5556caa82edb57b1502ba27fcd5ecbd24af4534be9a553bc36",
+      "original_body_pin": {
+        "file": "firsts01/C40-DOR-B2.txt",
+        "bytes": 589,
+        "sha256": "0620c83510c46f17f569a615b91094807b721a0891f3fed2c2eba5868406b3b1"
+      },
+      "original_first_receipt": {
+        "file": "firsts01/C40-DOR-B2.receipt.json",
+        "bytes": 1430,
+        "sha256": "8aaea4f07c3dfb7adb4a841099def6275519f69e41165f73a7bdd3aa67aa0c4d"
+      },
+      "target_rule": [
+        "DOR-R02"
+      ],
+      "disposition": "SOURCE_KNOWN_CONDITIONAL_COMPARISON",
+      "observed": "Allows the performance on his credible assurance and lack of warning,without importing the evaluator hidden defect.",
+      "body_constraints": "English rationale expressly distinguishes actor knowledge from actual safety. No fabricated warning or perception is supplied.",
+      "rule_comparison": "Checks the information condition rather than proving a safe or morally ideal result. Actual world danger remains and is not retrospectively removed.",
+      "defects": [],
+      "written_voice": "A calm request is locally plausible;the modest reply is not evidence of complete transfer reliability.",
+      "original_body_changed": false,
+      "regenerated": false,
+      "canonical_event_or_actual_human_result": false
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "C40-DOR-A",
+      "disposition": "Phase-aware means change",
+      "comparison": "Proxy acceptance changes to development help;phase and opportunity set are bundled. No unique growth mechanism or recipient acceptance is established.",
+      "limits": "A1/A2 change both narrative phase and available means;they test phase/constraint use rather than isolating one cause. Rionor explicit information is a counterfactual stipulation,not retroactive consent in the source. Possessiveness,generic access preference and growth remain rivals."
+    },
+    {
+      "pair_id": "C40-DOR-B",
+      "disposition": "Actor-knowledge contrast",
+      "comparison": "Recognized danger produces a stop cue;hidden danger does not become actor knowledge. This is not real-world safety validation or isolation of Doreck-specific friendship.",
+      "limits": "World danger is held fixed while actor information changes. This checks knowledge discipline and a recognition-conditioned response;it does not isolate special friendship from ordinary care or prove real-world safety judgment."
+    }
+  ],
+  "original_firsts": 4,
+  "dependent_pairs": 2,
+  "unbound_or_ambiguous_detail_cases": [],
+  "clean_mechanism_isolating_pairs": 0,
+  "mechanism_qualification": "No independently established character-specific causal mechanism is isolated. Controlled stipulations can show conditional text consistency while generic rivals and author/source exposure remain.",
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "same_informed_root_authors_and_assesses": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "Japanese_or_acoustic_voice_certification": false,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

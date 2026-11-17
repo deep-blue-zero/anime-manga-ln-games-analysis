@@ -1,0 +1,950 @@
+{
+  "schema": "PLANA_BODY_AUTHOR_FULL_REASONS_AND_DATED_PRECISIONS_PUBLIC_V1",
+  "authority": {
+    "artifact_id": "PLANA_BODY_AUTHOR_FULL_REASONS_AND_DATED_PRECISIONS_PUBLIC_V1",
+    "scope": "P3-CHAR-M028",
+    "generation": "PUBLIC_FORM_V1",
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false,
+    "private_body_review": "ROOT_ACCEPTED_C_ONLY_WITH_LIMITS_20261104",
+    "public_review": "CURRENT_ELIGIBLE_METADATA_PROPOSED_20261104;PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTED_WITH_LIMITS;FINAL_DERIVATIVE_QA_AND_ROOT_BYTE_ACCEPTANCE_REQUIRED_BEFORE_INSTALLATION"
+  },
+  "prepared": "2026-11-04",
+  "historical_record_contract": "Each dated original record is preserved at its original author/reader/reviewer grade and stage. Current public wrapper is a separate draft; pending/next and first-person historical text is not promoted to current instruction or transferred attendance. Locator tokens replace unnecessary local paths with declared provenance/source IDs; original field names remain as dated schemas.",
+  "records": [
+    {
+      "record_id": "PLANA-BODY-AUTHOR-00-20261104-V1",
+      "original_filename": "OWN_PLANA_BODY_FIRST_PROSPECTIVE_ARGUMENT_QUESTIONS_AND_DATED_EXPOSURE_V1.json",
+      "original_file_bytes": 3088,
+      "original_file_sha256": "6cd5d8ed77f1bd41eb3b51871f0dfc0ab97cd72f8061226ff4513e58bc2bcff1",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "PLANA_M028_BODY_FIRST_AUTHOR_PROSPECTIVE_DECISIONS_AND_EXPOSURE_V1",
+        "commission": {
+          "C_path": "provenance-locator:PLANA-LOC-f2aa57a2ca47103288af",
+          "bytes": 12992,
+          "sha256": "746f88c46db381689d58ab8065bfa2d466cac7c9ed955e4a96129e1e5e35dcfe",
+          "received_whole": "d78d82"
+        },
+        "status": "SAVED_BEFORE_FULL_READINESS_ARGUMENTS_AND_CURRENT_BODY_AUTHORING",
+        "exposure": "I authored the earlier Arona body and Plana source preparation. My own dated maintained six-account whole1977 course, selected refresh272, whole58 checkpoint and wholeC00460+E00838 preparation are available at those actual grades. These are maintained written analyses, not native/raw/AV. Readiness author781, peer288 and Root560 remain attributed; I have not yet personally received their complete reasoning for this body task. Existing own prep8/six literary questions stay frozen and reused as dated history.",
+        "prospective_questions": [
+          "How does accepting another person's proposed name differ from letting another person define everything about oneself? Preserve the qualified answer, address negotiation and hand-taking rather than upgrading them to enthusiasm, biological family or self-naming.",
+          "What distinct things does Plana want in ordinary company, and how do offered capacity and worry about being a burden complicate rather than determine whether she may stay? Keep care, routine and embarrassment valuable without a productivity test.",
+          "How do severe protective judgment and the rejected halo-destruction proposal remain actual counterpressure on a welcoming account? Avoid forcing chronology into reform, reducing Plana to threat, or settling her whole ethics from one proposal.",
+          "When does Plana know, remember, hypothesize or privately claim a proof? Distinguish her claim from Arona's speech and the reader's knowledge; keep shared operation separate from shared thought.",
+          "What can this maintained source scope sustain about counterpart association, trust, home and change without repairing the double-tagged opening speaker or importing a definite Prenapates biography/grief/fate?"
+        ],
+        "prospective_authoring_choices": "First receive full readiness meanings; then refresh only necessary positively pinned maintained contexts to resolve actual claim/recipient/mimesis/severe-proposal bounds. Develop an individual connected thesis before determining paragraph count. Address eleven dimensions through the argument and explicit limits rather than forced headings. New stronger quotation/chronology/individual speech or mixed-written preference claims require a concrete seam request to Root, not primary access.",
+        "constraints": "Sole new C directory; no frozen packet edits/R/Git/provider/shared/control/tooling/source admission/common105/privateF/private8/public12. Pending distinct complete-body QA/Root acceptance; all14OPEN/models0/counts unchanged."
+      }
+    },
+    {
+      "record_id": "PLANA-BODY-AUTHOR-01-20261104-V1",
+      "original_filename": "OWN_PLANA_ORIGINAL_CONNECTED_BODY_AUTHORING_VALUES_AND_DISTINCT_DECISIONS_V1.json",
+      "original_file_bytes": 33043,
+      "original_file_sha256": "80fd1c502f3632511bf4b1c4ce042fb74e1789d520171c0ada9aacb38455a355",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "OWN_PLANA_ORIGINAL_CONNECTED_BODY_AUTHORING_DECISIONS_V1",
+        "author": "/root/recover_yuzu_saved_review",
+        "status": "AUTHORING_VALUES_NOT_DISTINCT_QA_OR_ROOT_ADOPTION",
+        "thesis": "Accepted company gives Plana a distinct relational place while leaving her severe judgments and private certainty answerable; belonging is not conditional on technical usefulness and does not settle every ethical or epistemic claim.",
+        "paragraphs": [
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/0",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "ca59e316270275a2e9d4536135fb64c3068970a4b9b75d68e7b4b4a769345375",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/1",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "ce20b542a2713ed5bf1a7efc2d9d0e828b399bada1a004a25f656990db8e1773",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/2",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "d8fddf640e5b28708241624169cad9ed01d7d7b8e506128bce9cd106005a588c",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/3",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "6fd5ab79f5c8fbc1ab4f748bfe08226d8f1d3abe596cdcb507272c6344a4e56b",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/4",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "069b79ccbfaf1a42e5f01020c3c4ec9dc205c74bd8944ab8f0b87e31c46eaccf",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/5",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "a6b413915bdafdbd63c386bcd47a3435fa15022a2c47baef69c17650a83090bc",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/6",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "0294ebbc251cd139ff7d57a92332aba41fb56bc8b96f0e114bb99adcf0cd0799",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/7",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "588adb7151789df44d345c9299732bee268995f3a761c42f16b73b2731a88bb4",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/8",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "6e57847a8b93f17233e7312c6ea975e9edabe3138bbbee37f11b9e89bed3a994",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/9",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "3c490d1a73ca345b6444233b13e7b2101ceb29efaad44e4c92de0c3176be9915",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/10",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "dc7138e8ce3ccf0b4bb9e819d5b0b5be53356415dfc5f0edf49269d260b7ac17",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/11",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "a29c3c6654d3828786fc1ed78b437f6a6fb9203da04c2cec8fc3078e1115b681",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/12",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "27fcf9281aed43712136d729eaca33b6ac380fb31c30e264f6bb6b143a70d423",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/13",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "2c5f17a452018cd22cc2e1d61610d3a5b2d9b7b4eebc20a9d3af92c27011f314",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/14",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "7b8b11834b63e6113c8f5bf140156326b2e3b656292cebb89d719f681adb37aa",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/15",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "ebb3a63e9fda33d86959c7f082f2ddcd08ecffa3f49a962ffbc0083dfb427c8f",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/16",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "dea976618a5d0d27033a04e05cca43d80624b294852105d6191ef469914d62b3",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/17",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "e4de84ab3622d2c49a9ddd5da2f6acb7c0c6767b61a54897eb818199355e3cc3",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/18",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "5a2a397c21f24989bc952e46c63d42a51feba49e7a03002a7edf26dfdbdcdc0d",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/19",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "25408a8cfa79b082662c3b8bcce0a8174e6a6dcf6abab4f23165764a59f690ff",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/20",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "51e7b3131a3356122920684db95ba21fd14cb8ba15fa4653600f53935cc1ef22",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/21",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "3f587c9883eabcf1d7436a71282059fd40305b5fb577a32a73d1ab15e186ffc0",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/22",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "2a16e8520ddbefa1b2da8745914cea3085e0cf6222352732e3d6d1c54571a4d2",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/23",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "da06ee85644383c039ad0c2231c0bcf86b68e44e209747b13e3485cc8cbb95f1",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          },
+          {
+            "$public_selector": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+              "pointer": "/records/0/content/paragraphs/24",
+              "project_keys": [
+                "id",
+                "section_start",
+                "literal_text",
+                "own_original_argument_role",
+                "evidence",
+                "dimensions",
+                "stronger_claim_limit"
+              ],
+              "value_sha256": "3bc0420ed402f4a5ae7acddc584311d7c23159d08d4ec6652819e117942393f6",
+              "value_kind": "EXACT_ORIGINAL_AUTHOR_ROW_PROJECTION"
+            }
+          }
+        ],
+        "scope": "Original connected body and meaningful author decisions only; no fixed paragraph quota, common105/privateF apparatus, body QA/adoption/model/REL/named/count/publication claim.",
+        "component_refs": [
+          {
+            "C_path": "provenance-locator:PLANA-LOC-70de4c0ed1fdedb09bce",
+            "bytes": 22322,
+            "sha256": "662a5efbc906dcc12d6a70247dab59039b4bff25878b07e943e54669f327f6f0"
+          }
+        ],
+        "draft_citation_note": "Only P010 adds the positively refreshed S01 background route before author freeze; all25 literary strings remain original."
+      }
+    },
+    {
+      "record_id": "PLANA-BODY-AUTHOR-02-20261104-V1",
+      "original_filename": "OWN_PLANA_WHOLE_SAVED_BODY25_ELEVEN_DIMENSIONS_RIVALS_AND_SEMANTIC_REFERENCE_READBACK_V1.json",
+      "original_file_bytes": 18892,
+      "original_file_sha256": "fd57ab4c8858ba6bcf61d324b6abf9323f84283f44014198f7c36bd3bdb10d90",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "OWN_PLANA_WHOLE_SAVED_BODY_SUBSTANTIVE_READBACK_WITH_LIMITS_V1",
+        "author": "/root/recover_yuzu_saved_review",
+        "role": "Author's actual full readback; not distinct QA or Root acceptance",
+        "actual_receiving": {
+          "whole_saved_body": "33d918;all83 physical lines and25 literary paragraphs",
+          "whole_SOURCE_and_all25_original_decisions": "debc88;full SOURCE then all25 original role/evidence/dimension/limit values. Literal paragraphs already read whole33d918; their map/value copies will be proved exact rather than claimed as an independent second source course.",
+          "unique_SOURCE_provenance_precision": "b499ca;original seam rows explicitly attributed to readiness author, Arona C-only acceptance distinguished from canonical duty; all other SOURCE fields and all25 arguments/evidence unchanged."
+        },
+        "own25_reasons": [
+          {
+            "id": "PLANA-P001",
+            "own_readback_reason": "The opening makes accepted company central and keeps severe judgment as a real complication. It does not infer that welcome settles every ethical question or that trouble makes the ordinary acts worthless.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P002",
+            "own_readback_reason": "The saved second paragraph connects the resolved existing control-room subject to the later accepted name. It does not create a third OS or read identical initial labels as numerical identity.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P003",
+            "own_readback_reason": "The name's planetarium imagery stays with Arona's offer. Plana's contribution is taking up an offered address, so no astronomy hobby or self-coining has slipped into the argument.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P004",
+            "own_readback_reason": "The qualified affirmative response carries agency without an intensity upgrade. The paragraph reads the supplied maintained account; it does not claim new Japanese performance or full happiness.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P005",
+            "own_readback_reason": "Hands, shared return and negotiated address have their own finite value. The text does not use affectionate address as genealogy or require later technical usefulness to validate it.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P006",
+            "own_readback_reason": "The body correctly moves from offered home to depicted welcome and routine. It calls this a local change, preserving the distinction between an enacted outcome and permanent residence.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P007",
+            "own_readback_reason": "Plana's private sleepiness explanation is preserved as concern and interpretation. Neither the paragraph nor the source declaration treats it as measured damage or a settled obligation to leave.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P008",
+            "own_readback_reason": "Arona's power claim and Plana's load concern remain separately owned. The saved argument does not calculate a net-capacity verdict or make acceptance conditional on a favorable balance.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P009",
+            "own_readback_reason": "The four-a.m. response remains jointly attributed to the two OSs, with watch-memory difference explicit. Invited food/check/rest is not turned into consumption, examination or a cure.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P010",
+            "own_readback_reason": "The institutional paragraph locates work through the Chest and council inquiry, with source background explicitly added before freeze. It bounds unrepresented school/club biography rather than inventing an office.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P011",
+            "own_readback_reason": "The rejected halo proposal remains the strongest ethical counterpressure. Its severity is interpreted at maintained paraphrase scope, without an unreceived exact quotation, target assignment or implementation.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P012",
+            "own_readback_reason": "Sensei owns the refusal. The body does not invent Plana's inner conversion or use documentary order to construct a reform-and-relapse timeline.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P013",
+            "own_readback_reason": "The conditional survival forecast stays conditional; coalition action, two-OS proposal and reported return remain different modes and actors. The paragraph assigns no sole Plana rescue mechanics.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P014",
+            "own_readback_reason": "The actual safe-return report retains its positive force. The text neither discards it because landing is omitted nor upgrades participation into every cause of survival.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P015",
+            "own_readback_reason": "RPL04 is explicitly applied: one-OS opening speech and teacher referent stay unresolved despite later naming. No definite Prenapates grief, loyalty, death or deletion biography is supplied.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P016",
+            "own_readback_reason": "The difference in watch recollection sustains distinct witnesses without authenticating origin architecture. Shared concern is not shared memory or a diagnosis of general ignorance.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P017",
+            "own_readback_reason": "The mimesis/mismatch judgment is Plana's hypothesis, and memory loss is Arona's serious rival. Neither is promoted to a definitive president or maliciousness classification.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P018",
+            "own_readback_reason": "Logged pairing is distinguished from failed core inspection. Sensei's authorization remains named, and the unavailable core answer is not given to Plana by implication.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P019",
+            "own_readback_reason": "Plana's offered capacity matters as an offer. No app installation, evidence collection or classifier outcome is silently completed.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P020",
+            "own_readback_reason": "The claimed private proof supplies characterization of confidence and unshared thought. The reader is not granted its derivation, a president location or Arona's possession of the same knowledge.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P021",
+            "own_readback_reason": "The rope-ball paragraph keeps the three finders, claimant inference and Minato maker account separate. Plana is neither given an individual S.O.S. speech nor another participant's grief.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P022",
+            "own_readback_reason": "The presentation analysis makes tags and private/report/dialogue modes relevant without claiming performed voice. It does not resolve earlier ambiguous turns by automatic name replacement.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P023",
+            "own_readback_reason": "The local name-to-routine strand and inquiry episodes are developed without claiming a complete private biography. Documentary backfill is explicitly prevented from dating moral reform.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P024",
+            "own_readback_reason": "The rival paragraph gives different counterexamples to interface-only, threat-only, redemption and infallibility readings. Refuting them does not establish equally exhaustive opposite essences.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          },
+          {
+            "id": "PLANA-P025",
+            "own_readback_reason": "The exit state preserves the actual choice and joined company alongside scrutiny. It offers a bounded literary conclusion rather than a behavioral model, REL completion or source-count promotion.",
+            "disposition": "AUTHOR_READBACK_ADEQUATE_WITH_STATED_LIMITS;DISTINCT_REVIEW_PENDING"
+          }
+        ],
+        "own5_prospective_answers": [
+          "Accepted naming is a directed offer and qualified answer, carried into hands, negotiated address and enacted welcome. It neither imposes a total identity theory nor needs invented enthusiasm. The recipient's answer is indispensable to the thesis.",
+          "Company has intrinsic value while private concern complicates staying. Arona's capacity claim and Plana's load interpretation do not provide a measurable admission criterion, and ordinary care can proceed while watch/identity questions remain open.",
+          "The severe halo proposal and Sensei's refusal remain active contrary evidence. The study does not explain them away through welcome, assert a global reform sequence, or equate a troubling proposal with an implemented act.",
+          "Memory, mismatch, private proof and offers have different grades. The unprinted proof and unsuccessful inspection keep knowledge limited; disagreement with Arona is part of the relation rather than evidence that the two voices should be merged.",
+          "The late name/home direction is clear, but the opening one-OS/her-teacher passage is not. Plana's directly located acceptance and separate private concern suffice for this argument; no definite Prenapates grief/loyalty/fate or new primary seam is required."
+        ],
+        "all11_dimensions": [
+          {
+            "dimension": 1,
+            "meaning": "Core thesis developed inP001/024/025: accepted company coexists with consequential, answerable judgment."
+          },
+          {
+            "dimension": 2,
+            "meaning": "Local control-room-to-name-to-routine change inP002/006/023; inquiry recurrence adds memory/disagreement/attempts. Global reform biography and backfill chronology stay bounded."
+          },
+          {
+            "dimension": 3,
+            "meaning": "P007/008/020/022 distinguish shared role and private load/proof interpretation; reader knowledge is not transferred to peers."
+          },
+          {
+            "dimension": 4,
+            "meaning": "P010 locates technical/institutional situation; school/club membership and formal office are honestly unrepresented, not manufactured."
+          },
+          {
+            "dimension": 5,
+            "meaning": "P003–009 andP021 give name, hands, company, routine and care intrinsic value while keeping correct actors and finite endpoints."
+          },
+          {
+            "dimension": 6,
+            "meaning": "P011–014/018 distinguish harsh proposal, conditional forecast, coalition cooperation, proposed rescue, reported return and inspection limits."
+          },
+          {
+            "dimension": 7,
+            "meaning": "P006/009/010/012–019 give Sensei care, authorization, refusal and reported return, while opening teacher ambiguity remains explicitP015."
+          },
+          {
+            "dimension": 8,
+            "meaning": "Arona relation develops through invitation, response, burden, memory and disagreement; claimant and Minato retain their separate contributions. REL185 remains separate."
+          },
+          {
+            "dimension": 9,
+            "meaning": "P004/005/015/022 analyze qualified response, address and tags at maintained written mode, without invented performed tone or native-language inspection."
+          },
+          {
+            "dimension": 10,
+            "meaning": "P011/017/024 retain serious harshness/epistemic rivals; no forced resolution into a single harmless, threatening, familial or omniscient essence."
+          },
+          {
+            "dimension": 11,
+            "meaning": "All25 exact routes, modes, rivals and limits are preserved in the complete map and SOURCE; no counts, checks or inherited custody substitute for these meanings."
+          }
+        ],
+        "eight_readiness_rivals_preserved": [
+          {
+            "rival": "PLR01 inert-interface only",
+            "answer": "Accepted answer, private concern and company require relational interpretation; ontology remains unproved."
+          },
+          {
+            "rival": "PLR02 same-Arona flattening",
+            "answer": "Directed naming and actual unequal memories/judgments retain distinct subjects without software-lineage proof."
+          },
+          {
+            "rival": "PLR03 technical confidence authenticates knowledge",
+            "answer": "Rival amnesia, overflow and unprinted Q.E.D. prevent infallibility and leave consequential confidence interpretable."
+          },
+          {
+            "rival": "PLR04 threat-only",
+            "answer": "Enacted ordinary company and care are real; the severe proposal remains equally real counterpressure."
+          },
+          {
+            "rival": "PLR05 permanent redemption/harmony",
+            "answer": "Welcome is achieved locally, with private concern and unprinted long-term consequences still present."
+          },
+          {
+            "rival": "PLR06 settled family or grief cure",
+            "answer": "Negotiated affection is meaningful without genealogy, a secured earlier teacher referent, death or bereavement closure."
+          },
+          {
+            "rival": "PLR07 only extraordinary success counts",
+            "answer": "Name, hands, address and routine are intrinsic goods, kept at correct actor/mode/endpoint; stake level never excludes them."
+          },
+          {
+            "rival": "PLR08 absent private pool defeats eligibility",
+            "answer": "The actual sustained MAIN argument supplies individual scope. This procedural rival is handled by SOURCE/architecture boundaries rather than importing a privateF/common105 apparatus into the essay."
+          }
+        ],
+        "semantic_name_and_reference_samples": [
+          {
+            "scope": "IntroductionP001–006",
+            "classification": "JUSTIFIED_ROLE_REFERENCE",
+            "reason": "Plana/Arona are identifiable participants; control-room OS and familiar Arona differentiate the prior shared tag and naming direction. Sensei is identified as adult teacher. No reader name becomes another actor's earlier knowledge."
+          },
+          {
+            "scope": "MiddleP011–015",
+            "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+            "reason": "Sensei owns rejection and reported-return recipient; one-OS opening speech remains unresolved. Prenapates is named only as the counterpart adult, not a secured farewell teacher or grief cause."
+          },
+          {
+            "scope": "Arona relationshipP003–009/016–020",
+            "classification": "JUSTIFIED_ROLE_REFERENCE",
+            "reason": "Offer/coining versus acceptance, private load versus power claim, unequal memories and rival explanations preserve speakers and recipients."
+          },
+          {
+            "scope": "Claimant/inquiryP017–019",
+            "classification": "SOURCE_REQUIRED_ANONYMITY",
+            "reason": "Federal-president claimant remains a contested role rather than an authenticated president; authorization, logs and missing core remain distinct."
+          },
+          {
+            "scope": "Collective/endP021–025",
+            "classification": "JUSTIFIED_ROLE_REFERENCE",
+            "reason": "Sensei/Arona/Plana find together; claimant infers and Minato supplies maker testimony. Exit synthesis preserves actors and conditional conclusions."
+          }
+        ],
+        "findings_and_draft_changes": "No supported material literary defect identified by this author readback. Before freezeP010 received an explicit previously available background citation; original25 literary strings were unchanged. SOURCE received explicit attribution of preserved readiness seam wording and precise separation of Arona C-only versus uninstalled canonical duty. Complete draft beforeimages remain in separate diagnostic records; no already frozen external artifact changed.",
+        "source_grade_limit": "Dated own whole6/1977 plus prior selected272/whole58 and own prep98 remain dated; current195 repeated physical addresses are97 SELECTED+98 repeated WHOLE, not195 new source objects or borrowed781/288/560. No native/raw/AV admission.",
+        "remaining": "Distinct complete-body QA and actual Root acceptance; later separately commissioned public composition, reconciliation and publication. No self-certified independent QA/adoption or canonical count.",
+        "component_refs": [
+          {
+            "C_path": "provenance-locator:PLANA-LOC-75b1184c5bc037ab793b",
+            "bytes": 15717,
+            "sha256": "e2d2ab4871ff9f6bd51f1091d6932c72864f1a81bb4d47f5e2df743fdc6ed340"
+          },
+          {
+            "C_path": "provenance-locator:PLANA-LOC-21a19165beb0dbcdf219",
+            "bytes": 63382,
+            "sha256": "be7708bc84759068db21434c553c1204e4b4dccbefe602d233e614455431b2af"
+          },
+          {
+            "C_path": "provenance-locator:PLANA-LOC-70de4c0ed1fdedb09bce",
+            "bytes": 22322,
+            "sha256": "662a5efbc906dcc12d6a70247dab59039b4bff25878b07e943e54669f327f6f0"
+          },
+          {
+            "C_path": "provenance-locator:PLANA-LOC-eed9e1ab0cc79bb42f07",
+            "bytes": 33043,
+            "sha256": "80fd1c502f3632511bf4b1c4ce042fb74e1789d520171c0ada9aacb38455a355"
+          }
+        ]
+      }
+    },
+    {
+      "record_id": "PLANA-BODY-AUTHOR-03-20261104-V1",
+      "original_filename": "OWN_UNFROZEN_P010_BACKGROUND_CITATION_REFINEMENT_WITH_TWO_WHOLE_DRAFT_BEFOREIMAGES_V1.json",
+      "original_file_bytes": 64862,
+      "original_file_sha256": "3581e0a45f93539af3c7f091e8d109d0a9165822eef06e883919842180d236bf",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "OWN_UNFROZEN_BACKGROUND_CITATION_REFINEMENT_AND_FULL_DRAFT_BEFOREIMAGES_V1",
+        "reason": "P010 background on the Chest has its own positively pinned V00058–66 refresh9d7ce1. Add that explicit route to the paragraph evidence/citation; all25 literary argument texts are unchanged. These are working drafts captured before any author terminal freeze, not a material correction to an accepted body.",
+        "beforeimages": [
+          {
+            "role": "body",
+            "bytes": 15706,
+            "sha256": "f3a01b48da015bc919b80f905b925f080a85d0eb49f412437e52e3ba5fad5446"
+          },
+          {
+            "role": "original_values",
+            "bytes": 32345,
+            "sha256": "8ebf8597f7c794687b6f66a2a0646f490a9947cc4946a7988afe80476f036b37"
+          }
+        ]
+      },
+      "private_payload_omissions": [
+        {
+          "pointer": "/beforeimages/0/whole_raw_base64",
+          "value_sha256": "eee6e61cd4c291456c27f268fb129ca669eec7edeacb5e90b7b20322d5d8d896",
+          "characters": 20944,
+          "reason": "Complete encoded old draft payload stays in the exact pinned private original; no unique surrounding reason is removed."
+        },
+        {
+          "pointer": "/beforeimages/1/whole_raw_base64",
+          "value_sha256": "f202afb132350cade3612911fe6c589bc2004414e9a1e4788d9b0be368388fe6",
+          "characters": 43128,
+          "reason": "Complete encoded old draft payload stays in the exact pinned private original; no unique surrounding reason is removed."
+        }
+      ]
+    },
+    {
+      "record_id": "PLANA-BODY-AUTHOR-04-20261104-V1",
+      "original_filename": "OWN_UNFROZEN_SOURCE_SEAM_ATTRIBUTION_PRECISION_AND_THREE_FULL_BEFOREIMAGES_V1.json",
+      "original_file_bytes": 160796,
+      "original_file_sha256": "998a085dcf9af55483969442beae1317abf9e0babf1aeafce59158ad7ff77a3f",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "OWN_UNFROZEN_SOURCE_SEAM_ATTRIBUTION_AND_SEPARATE_DUTY_PRECISION_V1",
+        "nature": "Before terminal freeze, explicitly attribute the preserved original seam rows, and distinguish Arona C-only body acceptance from uninstalled canonical duty. No sourcebody, literary paragraph, evidence range, source grade or original substantive authoring decision changed.",
+        "full_beforeimages": [
+          {
+            "relative_path": "PLANA_BODY_FIRST_SOURCE_AUTHORITY_ACTUAL_GRADES_AND_DATED_CUSTODY_V1.json",
+            "bytes": 21712,
+            "sha256": "73855750d3f264abe579dfd5436f382e8a789f399336701b69ade1c92235c8b6"
+          },
+          {
+            "relative_path": "OWN_PLANA_ORIGINAL_CONNECTED_BODY_AUTHORING_VALUES_AND_DISTINCT_DECISIONS_V1.json",
+            "bytes": 33043,
+            "sha256": "522a1c166d67a976c213ac346c5b32203de575a6cbd2a5f33bd08ed6f3a844cb"
+          },
+          {
+            "relative_path": "PLANA_COMPLETE_CONNECTED_PARAGRAPH_EVIDENCE_MODE_RIVAL_AND_ELEVEN_DIMENSION_MAP_V1.json",
+            "bytes": 63382,
+            "sha256": "47b580a6804284179b59678a865fd95e1e5ab1d08fd67ea3f55822170d575452"
+          }
+        ],
+        "current_pins": [
+          {
+            "C_path": "provenance-locator:PLANA-LOC-70de4c0ed1fdedb09bce",
+            "bytes": 22322,
+            "sha256": "662a5efbc906dcc12d6a70247dab59039b4bff25878b07e943e54669f327f6f0"
+          },
+          {
+            "C_path": "provenance-locator:PLANA-LOC-eed9e1ab0cc79bb42f07",
+            "bytes": 33043,
+            "sha256": "80fd1c502f3632511bf4b1c4ce042fb74e1789d520171c0ada9aacb38455a355"
+          },
+          {
+            "C_path": "provenance-locator:PLANA-LOC-21a19165beb0dbcdf219",
+            "bytes": 63382,
+            "sha256": "be7708bc84759068db21434c553c1204e4b4dccbefe602d233e614455431b2af"
+          }
+        ],
+        "new_unique_current_SOURCE_values": {
+          "conditional_seams_attribution": "The five conditional_seams rows are preserved verbatim from readiness author /root/current_preflight_requirements, personally received55f1b1. Their first-person own-four/whole38 wording and original source-course claims are that author's dated history, not this author's attendance. My own prep8/whole98 and current repeat195 grades are stated separately; no additional seam has been opened.",
+          "separate_duties": "M002 Arona andM029 Prenapates retain distinct homes and responsibilities; this M028 study completes neither. Arona already has its separate C-only body-first acceptance, which is not installed canonical package/count completion. REL185 remains incomplete; all355/Suou/Ayame duties are preserved. No mandatory named duty is assigned toM028 by this packet."
+        }
+      },
+      "private_payload_omissions": [
+        {
+          "pointer": "/full_beforeimages/0/whole_raw_base64",
+          "value_sha256": "44c87f8f4b19aea5ba5c644cdd5063fb99c6ae481423d5e6f9ec4f5397f31b6c",
+          "characters": 28952,
+          "reason": "Complete encoded old draft payload stays in the exact pinned private original; no unique surrounding reason is removed."
+        },
+        {
+          "pointer": "/full_beforeimages/1/whole_raw_base64",
+          "value_sha256": "2037a825757d8e11bcd95acf7c803469c4d8b209d7f5c1eb59978e3491719572",
+          "characters": 44060,
+          "reason": "Complete encoded old draft payload stays in the exact pinned private original; no unique surrounding reason is removed."
+        },
+        {
+          "pointer": "/full_beforeimages/2/whole_raw_base64",
+          "value_sha256": "8926bdd8793c67d2146bcb0c7237ddd6e20658144bf21e4ba2e68ad78a816993",
+          "characters": 84512,
+          "reason": "Complete encoded old draft payload stays in the exact pinned private original; no unique surrounding reason is removed."
+        }
+      ]
+    },
+    {
+      "record_id": "PLANA-BODY-AUTHOR-05-20261104-V1",
+      "original_filename": "PLANA_FROZEN_V1_EXACT_RESULT_854_FIDELITY_VS_855_TOTAL_ZERO_FALSE_ADDITIVE_DIAGNOSTIC_20261104_V1.json",
+      "original_file_bytes": 2639,
+      "original_file_sha256": "7b1c30e115744d68b58568b2e3159e4c223bba299097d23e89b5ec288b62683e",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "PLANA_FROZEN_V1_PREDICATE_COUNT_SCOPE_DIAGNOSTIC_ADDITIVE_ONLY_V1",
+        "date": "2026-11-04",
+        "authorization": "Root authorized only a dated additive count clarification and V2 receiving wrapper/manifest; preserve every V1 byte.",
+        "component_refs": [
+          {
+            "relative_C_path": "OWN_PLANA_COMPLETE_FIDELITY_INPUTS_RANGES_CORE4_INVERSES_AND_ACYCLIC_CURRENT_GRAPH_RESULTS_V1.json",
+            "C_path": "provenance-locator:PLANA-LOC-5df3be9fcbbf0b8ca0b1",
+            "bytes": 94997,
+            "sha256": "dc678c5d3f9e3e0f7eb4709f67692dbb59f80e45ee1fca00ff0a845bdd6f34c4"
+          }
+        ],
+        "exact_original_result": {
+          "relative_C_path": "OWN_PLANA_COMPLETE_FIDELITY_INPUTS_RANGES_CORE4_INVERSES_AND_ACYCLIC_CURRENT_GRAPH_RESULTS_V1.json",
+          "C_path": "provenance-locator:PLANA-LOC-5df3be9fcbbf0b8ca0b1",
+          "bytes": 94997,
+          "sha256": "dc678c5d3f9e3e0f7eb4709f67692dbb59f80e45ee1fca00ff0a845bdd6f34c4"
+        },
+        "original_checks_scalar": 854,
+        "pre_result_fidelity_predicates": 854,
+        "actual_complete_predicate_list_rows": 855,
+        "additional_final_creation_guard": {
+          "ordinal_one_based": 855,
+          "check": "results absent",
+          "pass": true
+        },
+        "false_predicates": 0,
+        "cause": "The result checks scalar was set after854 existing fidelity predicates. One final results-file-absent creation guard was then appended to the shared list before serialization. The original scalar remains854; it is not relabeled as originally855.",
+        "actual_observation": "Exact read-only582a27: all855 rows true;V1 all56files verified, graph56nodes/134edges acyclic, whole core4 inverses exact. These prior core/source proof results are retained, not rerun as a new source course.",
+        "effect": "Bookkeeping count/scope clarification only. No literary/source material finding or change to body/map/SOURCE/original-author values/readback/raw4/old result/helpers/V1terminal/V1manifest.",
+        "preservation": "V1 manifest55 members plus itself remain exactly unchanged. The V2 wrapper binds that complete dated V1 packet and this clarification without replacing any bytes.",
+        "no_new_credit": "No distinct QA/Root adoption/source/model/count/publication or merge credit."
+      }
+    }
+  ],
+  "dated_private_body_header": "---\nseries: BLUE_ARCHIVE\nartifact_type: character_monograph\nscope: P3-CHAR-M028\nsubject: Plana\nrequired_home_zero: 22\nresponsibility: P3-M028\ngeneration: C_ONLY_BODY_FIRST_V1\nstatus: draft_noncurrent\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: true\nreview_state: AUTHOR_COMPLETE_PENDING_DISTINCT_BODY_QA_AND_ROOT_ACCEPTANCE\ncreated: 2026-11-04\nsource_boundary: Pinned maintained MAIN readings and checkpoints; actual dated grades and qualified source modes in the companion declaration; no new primary or audiovisual inspection\nall14_original_gaps: OPEN\nmodels: 0\ncanonical_count_credit: 0\n---\n",
+  "dated_private_body_technical_preface": "This study uses pinned maintained written accounts, identified as S01–S09 in its source declaration. It distinguishes depicted acts, reports, offers and private claims; the evidence map preserves exact physical routes and source-dependent limits.",
+  "composition_scope": "Exactly two approved technical spans change in a separate public successor. All25 literary paragraph bytes, title/headings/order/citations are unchanged. Historical author/source/readiness text is qualified, not rewritten; no new character judgment or source course.",
+  "current_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+      "bytes": 16882,
+      "sha256": "662566a292345150854d39ce285e39c09cbf85098a85ba796d6ec4a4c7cc1244"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_SOURCE_AUTHORITY_DATED_COURSES_AND_EFFECTIVE_QUALIFICATIONS_V1.json",
+      "bytes": 24385,
+      "sha256": "f9c67f3c4087a76a204f7d365c912f5ef8e8b5bdf9dcfc80baab368a0ed542e3"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+      "bytes": 72544,
+      "sha256": "a7f9bd544a38ee2c3a5a734faccd22d867cffef8be55261ce11be9c23296e62c"
+    }
+  ],
+  "composer": "/root/recover_yuzu_saved_review"
+}

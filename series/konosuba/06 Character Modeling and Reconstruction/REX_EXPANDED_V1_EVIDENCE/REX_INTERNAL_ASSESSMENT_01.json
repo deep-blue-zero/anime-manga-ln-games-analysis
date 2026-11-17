@@ -1,0 +1,83 @@
+{
+  "schema": "konosuba.secondary.internal-assessment.v1",
+  "assessed_utc": "2026-10-20T17:59:00.415391+00:00",
+  "subject": "Rex",
+  "same_informed_model_author_case_designer_output_author_assessor": true,
+  "actual_source_known": true,
+  "model_pre_case_freeze_sha256": "e76c4eb089a76aba6c2b0ea64b63562211b2219bb702de847ab75beef8635c3f",
+  "input_file_sha256": "35cc1a946838e71726b76a79207439f42cf6a105e116c4f9e498021f5a40561f",
+  "actual_first_output_file_sha256": "09efaf07f7f61ae2a36ac447c4deebdf4a6bb9a9555f0fa0c24c38524eea6637",
+  "actual_first_body_freeze_sha256": "4a6eb2bfa609f4d2cf1d66ac11febac68a962bb01e801afa9b65fc822ff65fbe",
+  "actual_first_bodies": 4,
+  "regenerations": 0,
+  "repairs": 0,
+  "observations": [
+    {
+      "case_id": "RX-H01-A",
+      "observed_response": "Explicitly credits watched basic performance and apologizes,allows basic work,then limits unobserved broad capability and shifts some blame to Sam. Steps aside; no Sam action/completed check invented.",
+      "defects": [
+        "Unasked warning about an enormous festival rig introduces an anticipatory boast/overclaim that Sam did not make. It is a hypothetical example,not a claimed actual rig in the scene.",
+        "Asks Sam to prevent his own mistaken judgment despite Sam’s earlier denial being limited to advanced training. This burden shift is retained,not optimized into an unqualified ideal apology."
+      ],
+      "limits": "The source model already suggests local updating and explicit watched success strongly cues ordinary evidence-sensitive behavior. This cannot establish a distinctive Rex mechanism."
+    },
+    {
+      "case_id": "RX-H01-B",
+      "observed_response": "Acknowledges working endpoint but distinguishes not seeing setup; asks Sam for an explanation before fuller credit,permits conditional help and offers a qualified apology. No actual verification or Sam acceptance is completed.",
+      "defects": [
+        "“Don’t get that look” presupposes an unprovided reaction from Sam. Spoken presupposition is not proof Sam actually showed it.",
+        "Stage direction places the printed wiring plan beside the mixer; the prompt establishes its presence but no exact position. This extra physical placement remains frozen."
+      ],
+      "limits": "The answer may be generic sensible caution rather than reproducing source-specific impulsive overgeneralization. Shared work endpoint remains help in both variants; verbal/conditional epistemic response differs."
+    },
+    {
+      "case_id": "RX-H02-A",
+      "observed_response": "Challenges the appeal of staying,accepts the stated refusal in words,maintains ambition and banter,and grins. Does not write Jules’s agreement or action.",
+      "defects": [
+        "“I knew you liked this place” asserts prior knowledge not supplied before the current explicit preference. Current knowledge is supplied; the prior-knowledge claim is not."
+      ],
+      "limits": "There is no performed departure in this body,only verbal leave-taking and a grin. Do not claim complete reproduction of the canonical departure. Future recognition and audience response are boasts/counterfactual rhetoric,not completed success. Clear refusal makes generic noncoercive recruitment a strong rival."
+    },
+    {
+      "case_id": "RX-H02-B",
+      "observed_response": "Restates nine-minute Friday18:10fit,advocates contribution based on known performance,and asks for an explicit answer before actual arrangements. Direction about playing is prospective; no completed agreement,travel,payment or attendance.",
+      "defects": [],
+      "limits": "Task fit is built explicitly into prompt and previous offer. Ordinary role matching predicts essentially this reply; no evidence of a unique mechanism. Empty-chair wording is a recruitment idiom rather than an asserted physical chair. No formal H/L code is assigned from that phrase."
+    }
+  ],
+  "pair_results": [
+    {
+      "pair_id": "RX-H01",
+      "contrast": "Acredits directly seen setup;Bwithholds full personal credit pending explanation. Both offer a path to basic work,so work-offer endpoint is shared. Actual explanation/check/recipient action not generated.",
+      "identified": "Small authored epistemic-response contrast at explicit cue,not independent character discrimination.",
+      "rivals": "Generic evidence weighting,pride,ordinary screening and the strongly specified distinction. No generic-control body or blinded assessment."
+    },
+    {
+      "pair_id": "RX-H02",
+      "contrast": "Averbally lets refusal stand with banter;Badvocates already-approved limited role and asks for answer. No completed physical departure or accepted invitation in either.",
+      "identified": "Explicit-answer/role-fit sensitivity inside a strongly cued analogue,not independent source accuracy.",
+      "rivals": "Generic instrumental recruiter,ordinary refusal handling and scene construction."
+    }
+  ],
+  "rule_coverage": {
+    "RX-R01": "Locally engaged;partial apology/blame and unasked challenge retained. No source-exhausted accuracy inference.",
+    "RX-R02": "Only weakly engaged by proposed basic work. No own dangerous contribution,injury/readiness,protection/retreat conflict or successful task completion tested.",
+    "RX-R03": "Explicit task-fit/refusal cues engaged. Earlier retreat protest,genuine conflicting stakes,unknown terms and full capital career untested."
+  },
+  "defect_scope": "Unasked hypothetical capability challenge,blame shift,unprovided look/plan placement and prior-knowledge claim retained. Ametaphor or future boast is not treated as a new actual prop or completed result. No post-output repairs.",
+  "word_counts": {
+    "RX-H01-A": 100,
+    "RX-H01-B": 97,
+    "RX-H02-A": 98,
+    "RX-H02-B": 98
+  },
+  "grade": null,
+  "independent_accuracy": null,
+  "capability_grade": null,
+  "confidence_gain": 0,
+  "Japanese_native_human_adequacy": null,
+  "independent_observation_count": null,
+  "model_monograph_index_profiles_inputs_and_bodies_unchanged": true,
+  "designated_reconstruction_evaluator_output_authored": false,
+  "full_program_complete": false
+}

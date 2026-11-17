@@ -1,0 +1,631 @@
+{
+  "schema": "KONOSUBA_MASK_WHOLE_SUPPLIED_EDITION_SAME_ROOT_ACCEPTANCE_V1",
+  "source_id": "MASK",
+  "status": "ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "accepted_utc": "2026-10-18T21:29:15.090786+00:00",
+  "native_identity": {
+    "native_filename": "Konosuba - Spin-off - Consulting the Masked Devil.epub",
+    "native_bytes": 2895671,
+    "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+    "OPF_member": "content.opf",
+    "OPF_sha256": "327ab8c4c2253ee6e2777f2b179a4877a8a39ca4bbdaeafc4427d729357c3b7b"
+  },
+  "actual_source_and_reading_receipt": {
+    "schema": "KONOSUBA_MASK_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+    "source_id": "MASK",
+    "accepted_utc": "2026-10-18T21:29:15.090786+00:00",
+    "native_filename": "Konosuba - Spin-off - Consulting the Masked Devil.epub",
+    "native_bytes": 2895671,
+    "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+    "OPF_member": "content.opf",
+    "OPF_sha256": "327ab8c4c2253ee6e2777f2b179a4877a8a39ca4bbdaeafc4427d729357c3b7b",
+    "language": [
+      "ja"
+    ],
+    "colophon": "この素晴らしい世界に祝福を！スピンオフ この仮面の悪魔に相談を！【電子特別版】. Electronic issue and underlying print first edition both2016-04-01; copyrightAkatsuki/Mishima2016. Author暁なつめ; illustration三嶋くろね; design百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）; publisher三坂泰二/KADOKAWA. Image-only author afterword dated2016.3, distinct from issue date.",
+    "admission_sha256": "43aa5463a4d2b510fab84599429c8a2ad62241547e163cedf655fcde63541021",
+    "admission_utc": "2026-10-18T20:34:30.309852+00:00",
+    "preceding_full_gate_source": "b274b31dfcc96932643feba27e53e1deb2dc7813",
+    "preceding_gate_sha256": "dac49239d107ef923bf82c5dab98d3869c0a11765b0d8ac188e0d7e801111528",
+    "preceding_fresh_reload_sha256": "ea48577b7fcfee0077e6a2f5121df2991e0f6a61c1ee4e30126161f9fb0c2e21",
+    "complete_uncoded_seal_sha256": "df292c7f139b694f27e289e2a96511a80ae76965abd26012a987bf694a4aaab0",
+    "complete_uncoded_seal_utc": "2026-10-18T21:05:47.312234+00:00",
+    "actual_reading": {
+      "all_textual_components": 29,
+      "all_native_P_slots": 2970,
+      "principal_P_slots": 2862,
+      "other_P_slots": 108,
+      "separate_bonus_narrative": true,
+      "bonus_P_slots": 57,
+      "nonfiction_P_slots": 51,
+      "individually_identified_bonus_narrative_groups": [
+        {
+          "id": "MASK-BONUS-ELECTRONIC-HAREM-CONSULTATION",
+          "title": "ハーレム相談はじめました",
+          "native_units": [
+            "MASK-U025"
+          ],
+          "native_member": "text/part0023.html",
+          "paragraph_slots": 57,
+          "viewpoint": "Vanir first person, exact day unassigned; holy-water stock is present",
+          "scope": "Complete separate electronic story read; actual payment/provider pressure/stance change distinguished from unperformed curse, purchase, exorcism and false rumors."
+        }
+      ],
+      "individually_identified_narrative_image_groups": [],
+      "individually_identified_embedded_narrative_groups": [
+        {
+          "id": "MASK-HUMAN-WIZ-FIRST-PERSON-PAST",
+          "native_units": [
+            "MASK-U021"
+          ],
+          "start_P": 45,
+          "end_P": 240,
+          "scope": "Embedded early history told by human-Wiz first person; host possession has separately attributed voices."
+        },
+        {
+          "id": "MASK-VANIR-PAST-ORIGIN-CONTINUATION",
+          "native_units": [
+            "MASK-U021"
+          ],
+          "start_P": 276,
+          "end_P": 556,
+          "scope": "Embedded earlier history from Vanir: failed tools, actual life-risk bargain, transformed return; present epilogue supplies completed cure."
+        }
+      ],
+      "individually_identified_image_only_nonfiction_prose_groups": [
+        {
+          "id": "MASK-AUTHOR-AFTERWORD-IMAGE",
+          "component_id": "MASK-U024",
+          "image_id": "MASK-IMG013",
+          "scope": "Complete visually read creator afterword signedAkatsuki/2016.3; nonfiction scope, not an image-only fictional scene."
+        }
+      ],
+      "integral_image_only_prose_pages": 1,
+      "all_native_images_actually_viewed": 26,
+      "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+      "all_native_local_and_archive_text_image_hash_joins_reverified": 55,
+      "fresh_native_ZIP_CRC": "PASS",
+      "image_individual_scopes_control": true
+    },
+    "source_first_sealed_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 30337,
+        "sha256": "43aa5463a4d2b510fab84599429c8a2ad62241547e163cedf655fcde63541021"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 148331,
+        "sha256": "1868f31e7a864ef448e5e7ad58b5c2fb7f2e67ae674432459a82fb08caae62c5"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 139716,
+        "sha256": "48f43867190b25a4e692b4ece60c73293332cbb9dda39a205b7c842a6dc0c078"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 17747,
+        "sha256": "cd779b2ab313043c40d8059dde96fbfa8b585ef29a7844c3f698e17c746ec896"
+      },
+      {
+        "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+        "bytes": 561,
+        "sha256": "99cb1001f4b8aa771551958d19a1fc18db305d2e4fffe61b6ea1e1539908a84c"
+      }
+    ],
+    "formal_coverage": {
+      "full_responsibilities": 17,
+      "selected_premises_not_census": 88,
+      "native_verified_short_form_context_witnesses": 130,
+      "local_unchanged_question_assessments": 31,
+      "append_only_decisions_across_ten_ledgers": 27,
+      "current_precision_qualifications": 79
+    },
+    "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+    "no_independent_second_full_pass_native_human_audio_claim": true,
+    "source_first_originals_remain_exact": true,
+    "original_four_scores_and_14_future_fields_unchanged": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+    "midread_precision_context": "All130original short forms native-join within their original windows; each current form has an individual independent context warrant. Original image-profile omission ofンis preserved with an additive pre-seal correction. Relative episode chronology, narrator changes, unspoken identities, actual versus near life loss, curse completion and promises are qualified."
+  },
+  "current_root_check": "The same continuing informed root authored and received seventeen substantive responsibilities,88bounded effects,130individually argued native voice witnesses,31principal and8party exact-model informed comparisons,4typed checks,all29text/26image roles,one57Pbonus,onevisually read nonfiction afterword,qualified decisions across ten append-only ledgers and current precision findings. Source receipt, actor, chronology, role, risk, alternatives, property and unperformed outcomes are checked. This is not independent review, native-human/audio validation, a new freeze or a new blind trial.",
+  "current_qualifications": [
+    {
+      "id": "Q01",
+      "qualification": "The native edition is2895671B/SHAfea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127; all29textual units,2970paragraph slots and26native images were actually received before formal assignment.",
+      "source": "Native admission;complete uncoded seal"
+    },
+    {
+      "id": "Q02",
+      "qualification": "Seven principal bodies contain2862P, the separately identified electronic bonus57P, and nonfiction51P. An additional image-only afterword has real printed prose and was fully read visually.",
+      "source": "U011/013/015/017/019/021/023;U025;IMG013"
+    },
+    {
+      "id": "Q03",
+      "qualification": "Electronic issue and underlying print first edition both2016-04-01; copyright2016Akatsuki/Mishima. Exact design credit百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）.",
+      "source": "U027–028"
+    },
+    {
+      "id": "Q04",
+      "qualification": "The image afterword is signed暁なつめ/2016.3. It describes attention to less-spotlit characters and intended Vanir/Wiz history; future detail is conditional on opportunity.",
+      "source": "IMG013 full actually viewed page"
+    },
+    {
+      "id": "Q05",
+      "qualification": "The book revises and retitles a Sneaker WEB work with new writing. That provenance statement does not credit a fresh complete reading of every web version.",
+      "source": "U026P0004"
+    },
+    {
+      "id": "Q06",
+      "qualification": "C2precedes an upcoming Eris festival, while C3andC4refer to already completed festival help. The episodes are not one day or one static knowledge state.",
+      "source": "U015P0431;U017P0150;U019P0056/0607"
+    },
+    {
+      "id": "Q07",
+      "qualification": "The final chapter has a Vanir present frame, human-Wiz first-person past atP0045–0240, present return atP0244, and Vanir past fromP0276.",
+      "source": "U021;actual first-person bodies"
+    },
+    {
+      "id": "Q08",
+      "qualification": "All130original short voice fragments match their declared native paragraph windows. Current independently argued warrants are separate from immutable uncoded historical notes.",
+      "source": "CURRENT_SELECTED_VOICE_REGISTER.json"
+    },
+    {
+      "id": "Q09",
+      "qualification": "A color-profile re-view confirmsチリメンドンヤ, matching the body. The original loose note omittedン; its error is preserved and corrected in a pre-seal additive record.",
+      "source": "IMG021;U015P0088/0161;pre-seal correction"
+    },
+    {
+      "id": "Q10",
+      "qualification": "The prologue owner is charred but speaking/recovering; the new cause, a fresh death and completed resurrection are not shown.",
+      "source": "U011P0003–0016"
+    },
+    {
+      "id": "Q11",
+      "qualification": "Manatite works and ordinary grades sell, but highest-quality stock is locally overpriced. Vanir already sold every unnamed young man’s right for capital; a casino is only planned.",
+      "source": "U011P0011–0020"
+    },
+    {
+      "id": "Q12",
+      "qualification": "Wiz refuses paid ten-year exclusion because she values working with companions; Vanir explicitly values both his own dungeon and the owner/store.",
+      "source": "U011P0023–0041"
+    },
+    {
+      "id": "Q13",
+      "qualification": "The frog device costs200000against25000reward/meat. Aqua’s avoidance value can differ, but funding is only requested or contemplated, not a performed purchase.",
+      "source": "U013P0009–0019"
+    },
+    {
+      "id": "Q14",
+      "qualification": "Aqua receives a divine-status challenge and actually claims divine wisdom. Vanir privately knows tax/capital obstacles but leaves without voicing them.",
+      "source": "U013P0030–0040"
+    },
+    {
+      "id": "Q15",
+      "qualification": "Staged harassers develop genuine interest; Dust’s staged rescue turns into unwanted pressure. Vanir actually kicks him away, but later imposes his own gratitude demand.",
+      "source": "U013P0048–0104"
+    },
+    {
+      "id": "Q16",
+      "qualification": "Yunyun correctly identifies Vanir’s high devil rank and suspects the setup; Dust’s different real name is seen but never supplied to the reader here.",
+      "source": "U013P0081–0097/0101–0117"
+    },
+    {
+      "id": "Q17",
+      "qualification": "The friendlessness curse is threatened, not cast. Yunyun’s stated broad minimum does not imply consent to any proposed friend or later impersonation.",
+      "source": "U013P0103/0184/0320/0419–0425"
+    },
+    {
+      "id": "Q18",
+      "qualification": "The cafe food arrives but Yunyun leaves before eating it; asking for the bill is not independently shown completed payment.",
+      "source": "U013P0161/0190/0206–0209"
+    },
+    {
+      "id": "Q19",
+      "qualification": "Vanir actually obtains permission for the guild business site. Specific eligibility and business terms remain partly offstage.",
+      "source": "U013P0215–0244"
+    },
+    {
+      "id": "Q20",
+      "qualification": "Divination of the masked thieves actually failed; the bright obstruction does not reveal their identities, and recoil as a cause of shop losses is conjecture.",
+      "source": "U013P0261–0270"
+    },
+    {
+      "id": "Q21",
+      "qualification": "The lucky-item inventory fraud is a future plan. The free public demonstration already imposes humiliation, including after another helper objects to its degree.",
+      "source": "U013P0272–0294"
+    },
+    {
+      "id": "Q22",
+      "qualification": "Yunyun’s power limits sight. The prediction supplies future company but neither person nor method; Vanir later helps cause the outcome.",
+      "source": "U013P0298–0305/0399–0459"
+    },
+    {
+      "id": "Q23",
+      "qualification": "Dust states18andYunyun states14at her birthday. These are source facts; criticism remains non-graphic and does not invent an intimate act.",
+      "source": "U013P0304–0308"
+    },
+    {
+      "id": "Q24",
+      "qualification": "Leen refuses loans and guarantees for unrepaid debt, then explains distrust of Dust and level mismatch. Others actually admire Yunyun but wrongly infer chosen solitude.",
+      "source": "U013P0343–0380"
+    },
+    {
+      "id": "Q25",
+      "qualification": "A prepared chant precedes an offscreen confrontation. The narrator hears scream and blast and later sees Leen; exact wound, spell, death and threatened exposure are unshown.",
+      "source": "U013P0383–0394"
+    },
+    {
+      "id": "Q26",
+      "qualification": "Yunyun accepts a false Leen identity, then recognizes Vanir and objects. Later happiness does not retroactively inform the first assent.",
+      "source": "U013P0399–0437"
+    },
+    {
+      "id": "Q27",
+      "qualification": "Wiz becomes a new friend but was already Yunyun’s potion seller. The claimed unpaid-friend duty is not yet an actually performed work task or blanket agreement.",
+      "source": "U013P0433–0459"
+    },
+    {
+      "id": "Q28",
+      "qualification": "The final land account reports borrowing, returned principal and interest owed after Kazuma’s warning. C2explicitly confirms the speculation ignored these costs; no land purchase is independently stated.",
+      "source": "U013P0480;U015P0014–0017"
+    },
+    {
+      "id": "Q29",
+      "qualification": "Aqua’s later cold-water request is specific welcome; contact purification is a literal mechanism. Earlier complaint and later pleasure remain separate.",
+      "source": "U015P0022–0034"
+    },
+    {
+      "id": "Q30",
+      "qualification": "The consultation montage includes advice and sympathy, not independently verified pet recovery, pepper use or resolved reception workload. Unnamed troublesome people remain unnamed.",
+      "source": "U015P0043–0050"
+    },
+    {
+      "id": "Q31",
+      "qualification": "Iris’s apparent age is narrator estimation, not exact self-report; royal cover is false. Vanir actually reads status privately, while the retainers’ staged attack is stopped.",
+      "source": "U015P0060–0108"
+    },
+    {
+      "id": "Q32",
+      "qualification": "The heavy bag is actually received and changes Vanir’s refusal before the proposal ends. Exact sum is unshown; Iris reports father’s permission, not proved theft.",
+      "source": "U015P0110–0137"
+    },
+    {
+      "id": "Q33",
+      "qualification": "Rain corrects the political premise: Alderp is gone and Dustiness governs well. Vanir’s private knowledge of hell removal does not become the visitors’ knowledge.",
+      "source": "U015P0139–0153"
+    },
+    {
+      "id": "Q34",
+      "qualification": "チリメンドンヤ/チリメン丼屋 andお調子者/絶好調are distinct Japanese-form effects. No source-named external TV title is supplied by the analysis.",
+      "source": "U015P0155–0168/0354–0375"
+    },
+    {
+      "id": "Q35",
+      "qualification": "The blond harasser delivered to police is unnamed here. Iris herself declines an ordinary visit to pursue achievement; Claire’s imagined overnight benefits are not performed.",
+      "source": "U015P0209–0224"
+    },
+    {
+      "id": "Q36",
+      "qualification": "A distant daily explosion is heard and attributed by inference, without a newly observed Megumin cast. Town normality does not prove whole-operation safety.",
+      "source": "U015P0233–0247/0339"
+    },
+    {
+      "id": "Q37",
+      "qualification": "The noble actually threatens capture/execution, and his knights actually fire into the air. No specific civilian hit, completed execution or later trial is shown.",
+      "source": "U015P0289–0325"
+    },
+    {
+      "id": "Q38",
+      "qualification": "The fight is largely retold by witnesses; Vanir claims no dead but accepts he overdid it. Injuries and escape remain real; the supposed royal recognition is his inference.",
+      "source": "U015P0379–0414"
+    },
+    {
+      "id": "Q39",
+      "qualification": "Street performers are proposed for military use, then Rain corrects the premise. No actual recruitment or additional confirmed combat skill follows.",
+      "source": "U015P0422–0427"
+    },
+    {
+      "id": "Q40",
+      "qualification": "Vanir refuses continuing employment for a friend and receives an actual bonus, then actually leaves to seek the job after a new loss. No subsequent accepted court employment is shown.",
+      "source": "U015P0456–0517"
+    },
+    {
+      "id": "Q41",
+      "qualification": "Initial holy-water sales really succeed by Wiz’s report. Extra production opens explosive potion stock; this is not failed purification or no useful work.",
+      "source": "U015P0506–0516"
+    },
+    {
+      "id": "Q42",
+      "qualification": "Luna’s reception work includes targeted information, penalty classification, harassment boundaries, summons and recovery instructions; not all ordered remedies are shown completed.",
+      "source": "U017P0009–0018/0163–0178"
+    },
+    {
+      "id": "Q43",
+      "qualification": "The proposed memory wager is actually one-sided through sight. Yunyun pays while objecting; Dust later steals her valued drink before she uses it.",
+      "source": "U017P0023–0028/0150–0161"
+    },
+    {
+      "id": "Q44",
+      "qualification": "The advisers repeatedly infer romance despite Vanir’s explicit denial. The monster-corpse gift misidentifies a professional disposal duty as a personal hobby.",
+      "source": "U017P0046–0114"
+    },
+    {
+      "id": "Q45",
+      "qualification": "Luna requests recall of explosive dolls; no recall is verified. Hunters ask for time/place coordination, not a ban; Megumin’s actual receipt/compliance is not supplied.",
+      "source": "U017P0093–0097/0171–0173"
+    },
+    {
+      "id": "Q46",
+      "qualification": "The medical-slime seizure is a vendor’s report involving an unnamed blond knight and a guardian request. Payment offered does not establish willing transfer.",
+      "source": "U017P0175–0178"
+    },
+    {
+      "id": "Q47",
+      "qualification": "Yunyun initiates Light of Saber against the succubi and Vanir stops her before a strike. The younger-looking devil is later explicitly older than Wiz.",
+      "source": "U017P0226–0235;U019P0434"
+    },
+    {
+      "id": "Q48",
+      "qualification": "The late-worker rest complaint is real, with conditions reported by Luna. Vanir keeps pouring wine and relishes emotion; self-interest coexists with actual relief.",
+      "source": "U017P0288–0333"
+    },
+    {
+      "id": "Q49",
+      "qualification": "Other staff reluctantly approve the substitute desk role; Luna does not give prior informed approval of every method. The clients offer service before the actual curse.",
+      "source": "U017P0345–0346/0370–0375"
+    },
+    {
+      "id": "Q50",
+      "qualification": "The imposed bodily curse is literal and harmful, represented non-graphically. Duration/shortening promises are not actual completed restoration or verified service.",
+      "source": "U017P0375–0419"
+    },
+    {
+      "id": "Q51",
+      "qualification": "Vanir plans the public romantic expectation through sight for an emotional harvest. All others, including devil fans, condemn it. Luna’s later paid shift terms do not authorize prior humiliation.",
+      "source": "U017P0430–0519"
+    },
+    {
+      "id": "Q52",
+      "qualification": "Nightly listening and the reported bounty retaliation are actual; prince impersonation, marriage prediction and face reveal remain unperformed proposals or requests.",
+      "source": "U017P0521–0548"
+    },
+    {
+      "id": "Q53",
+      "qualification": "The cooler works and current books show profit. Delivery in two months misses summer, and six-month lifetime defeats next-year storage; no final beam or actual cancellation is shown.",
+      "source": "U017P0551–0586"
+    },
+    {
+      "id": "Q54",
+      "qualification": "A formal protection pitch initially conceals fan-event wishes. An attempted charm fails on Wiz, while ordinary flattery works; shed skin is actually welcomed by the recipient.",
+      "source": "U019P0003–0040"
+    },
+    {
+      "id": "Q55",
+      "qualification": "The racket uses property damage, unwanted contact, seat occupation and a recurring sticker cover. The vendor’s jokes are not consent to coercion; some clients also sought genuine security.",
+      "source": "U019P0062–0116/0151–0205/0387"
+    },
+    {
+      "id": "Q56",
+      "qualification": "Wiz’s menu intervention is based on a misunderstanding, though the men really leave. After learning the coercion she explicitly seeks civic action.",
+      "source": "U019P0178–0216"
+    },
+    {
+      "id": "Q57",
+      "qualification": "Aqua reports helpful expulsion plus accidental barrel purification. Her further help is actual but initially misconstrues the request as peeling stickers, a task that becomes enjoyable.",
+      "source": "U019P0230–0232/0485–0495"
+    },
+    {
+      "id": "Q58",
+      "qualification": "Regulars expel thugs, contracts are enforced against their sellers, and Dust stages fraud with discarded pottery. Compensation and later scam rounds are not all shown paid/performed.",
+      "source": "U019P0241–0365"
+    },
+    {
+      "id": "Q59",
+      "qualification": "Yunyun is mistaken for the Explosion caster and explicitly denies it. She rejects friendship and further involvement after discovering the scheme; no spell is released in that encounter.",
+      "source": "U019P0327–0364"
+    },
+    {
+      "id": "Q60",
+      "qualification": "Vanir’s neighbor-help fee is unspoken, so gratitude is not agreement to paid terms. The widow and Wiz have different mistaken romantic accounts.",
+      "source": "U019P0384–0413"
+    },
+    {
+      "id": "Q61",
+      "qualification": "Vanir’s first conditional offer is followed by chosen self-defense. The later actual help plea activates the offered terms; reciprocal protection volunteers precede his explanation.",
+      "source": "U019P0452–0455/0482/0509–0536"
+    },
+    {
+      "id": "Q62",
+      "qualification": "The succubi defeat the night attackers before Aqua intends to take the credit and eradicate everyone. Vanir sends Wiz for Kazuma and protects them at real repeated body cost.",
+      "source": "U019P0503–0565"
+    },
+    {
+      "id": "Q63",
+      "qualification": "Aqua attributes past restraint toward Vanir to Wiz’s grief, but ignores Wiz’s current plea for the succubi. The precise consent and target structures differ.",
+      "source": "U019P0514–0538"
+    },
+    {
+      "id": "Q64",
+      "qualification": "Aqua apologizes, accepts the succubi’s continued existence under Kazuma’s warning, and seeks their intercession. Her renewed Vanir conflict does not undo the particular no-succubus boundary.",
+      "source": "U019P0557–0599"
+    },
+    {
+      "id": "Q65",
+      "qualification": "Police jail and reward are reported complete; future harmlessness after release and all monthly tribute receipts are not. The safe-money explanation remains incomplete before a beam line.",
+      "source": "U019P0579–0583/0624–0647"
+    },
+    {
+      "id": "Q66",
+      "qualification": "Human Wiz really performs search spells; Rosary’s holy seal is kicked before activation. A later artificial-body collapse is staged defeat, and Teleport is already irreversible.",
+      "source": "U021P0067–0169"
+    },
+    {
+      "id": "Q67",
+      "qualification": "Host possession is real, the host resists under pain, and impostor insults are not her views. Wiz uses Sleep, Brad actually recovers her, and only then do they depart.",
+      "source": "U021P0190–0234"
+    },
+    {
+      "id": "Q68",
+      "qualification": "Wiz’s present forgiveness is personal, while Brad and Rosary’s resentment remains. Expired bounty discussion never becomes an actual collection.",
+      "source": "U021P0244–0261"
+    },
+    {
+      "id": "Q69",
+      "qualification": "The forced scroll affects living targets only and the expensive barrier blocks both ways. Both tools function; the user’s target/attack model is wrong.",
+      "source": "U021P0294–0354"
+    },
+    {
+      "id": "Q70",
+      "qualification": "Vanir actually impersonates an injured traveler but the planned restaurant trick is not carried out. Wiz’s serious battle spends life and all resources; Vanir nearly loses a life, not actually.",
+      "source": "U021P0373–0420"
+    },
+    {
+      "id": "Q71",
+      "qualification": "The original soul-price cure bargain is refused. The alternative method has a conditional dream price, and Vanir explicitly cannot construct the dungeon alone.",
+      "source": "U021P0429–0485"
+    },
+    {
+      "id": "Q72",
+      "qualification": "Vanir deliberately declines to use sight to learn Wiz’s outcome. The ogre’s accounts describe Hans frozen and Sylvia drained, not dead; Beldia’s heard promise alone is not the cure.",
+      "source": "U021P0491–0546"
+    },
+    {
+      "id": "Q73",
+      "qualification": "The epilogue explicitly confirms the curse lifted and the shop as a meeting place. Deaths of unnamed colleagues are rumor; the two returning former adventurers and child remain unnamed.",
+      "source": "U023P0001–0025"
+    },
+    {
+      "id": "Q74",
+      "qualification": "Aqua sleeps through an unspecified portion of the history, so narration does not establish her complete receipt. The seer’s proposed attack is stopped without being performed.",
+      "source": "U023P0007–0017"
+    },
+    {
+      "id": "Q75",
+      "qualification": "The bonus has actual consultation payment and an attributed ghost diagnosis but no verified holy-water purchase or exorcism. Kazuma’s claim of resolution is premature.",
+      "source": "U025P0025–0040"
+    },
+    {
+      "id": "Q76",
+      "qualification": "The bonus independently grounds provider/queue pressure before Kazuma’s civil apology. His later threatened rumors and Vanir’s curse are not completed acts.",
+      "source": "U025P0041–0057"
+    },
+    {
+      "id": "Q77",
+      "qualification": "All39entering behavioral contracts and four typed checks retain exact models and text. Thirty-one principal and eight party comparisons are informed discussions, not new C/P/F/NTscores.",
+      "source": "Prebody pins;current local comparisons"
+    },
+    {
+      "id": "Q78",
+      "qualification": "Four original score files,66current frozen paths,72historical paths and14future/adjudication blanks remain unchanged. The original PVledger remains exact and uses its existing continuation.",
+      "source": "Frozen authorities;exact index checks"
+    },
+    {
+      "id": "Q79",
+      "qualification": "The authored edition closes only its own containing publication gate after validation. Fantastic Days, Yorimichi01–04,17main excluded-component programs, syntheses, attributable StageD, secondary dispositions, indexes and final release remain.",
+      "source": "Current program boundary"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 259067,
+      "sha256": "a24fa4a74c8f8c2bcd6b5b671a41727f8256dca79713e72058cdefa867240410"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 186828,
+      "sha256": "ebfb58e062c0ed511ab9c0e1f2d509c76b0e0976d0c13173fe3db238117ed1cb"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 758039,
+      "sha256": "851d60c95a679be8534266f5ac415d21c4c6faef44d8857e7eb507b79ec38c87"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 569493,
+      "sha256": "2fcf0ecb4d1dd9002516cebbd8a4d040631e8ba408d79db272560dfce9e984d8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 165856,
+      "sha256": "50b815ed23a3e487cdaafc26f5f5329c34ad98710ab9be53c7e574ea7dacccb9"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 159229,
+      "sha256": "a00ae411f9940ec7d2ab1206c8c608222792d5db582c453bd3f9ab3a59618780"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 180935,
+      "sha256": "4a3f3fe31a28cb91f0f2fcd07435c003cd8a8d58ce42fc665393e848af01d7dd"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 147861,
+      "sha256": "9a653106b5b8efdad932cd2a2cd2593ef8114f7dc94ea3d39533d7f45b7c329c"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 235948,
+      "sha256": "8cc3596c0bb8575855970e95e3428977612786dc78c95d7bd033733e0d051d4a"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 95295,
+      "sha256": "a53a9055bccffd07b119687397aafb8accccec31fd507ec737efbbcf20846328"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_changed": false
+  },
+  "whole_edition_accounting_only": {
+    "supplemental_total": 19,
+    "accepted_including_this_pending_publication": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07",
+      "DUST-CONT",
+      "EXP-01",
+      "EXP-02",
+      "EXP-03",
+      "CONTEXP-01",
+      "CONTEXP-02",
+      "MASK"
+    ],
+    "previously_published_full_gate_closed": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07",
+      "DUST-CONT",
+      "EXP-01",
+      "EXP-02",
+      "EXP-03",
+      "CONTEXP-01",
+      "CONTEXP-02"
+    ],
+    "mixed_programs_published_at_stated_scopes": 5
+  },
+  "global_narrative_component_completion_percentage": null,
+  "remaining_boundary": "Close the exact MASK publication, whole remote readback, source audit, owner housekeeping, final actual-source audit/status and fresh published authority reload before separate FDadmission. Then Fantastic Days, Yorimichi01–04, all17main excluded-component programs, expanded syntheses, attributable versioned StageD, evidence-proportional secondary reconstruction or limited disposition, indexes and final release continue. The global narrative-component denominator remains unresolved and completion percentage null."
+}

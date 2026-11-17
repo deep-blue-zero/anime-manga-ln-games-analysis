@@ -1,0 +1,154 @@
+{
+  "schema": "EIMI_ACTUAL_ORIGINAL_ROOT_PRIVATE_V4_SEMANTIC_ADOPTION_DATED_PUBLIC_DELIVERY_REPORT_V1",
+  "artifact_id": "ROOT_EIMI_PRIVATE_V4_SEMANTIC_ADOPTION_20261015_V1",
+  "title": "Actual ROOT private V4 semantic and documentary adoption WITH LIMITS; public metadata delivery report, not current public-byte adoption",
+  "original_root_authority": {
+    "private_witness_id": "EIMI_ACTUAL_ROOT_SEMANTIC_14283",
+    "original_tuple": {
+      "bytes": 14283,
+      "sha256": "dcba5914147e996e809827c9351732e32952052863752ca193836fbcb367e2d8",
+      "git_blob_oid_of_actual_bytes": "2ce0be0d006f4e5f27df209102feb952c0c493b4"
+    }
+  },
+  "reporting_scope_at_preparation_2026_10_15": {
+    "metadata_prepared": "2026-10-15",
+    "current_semantic_basis": "ACTUAL_PRIVATE_V4_EXACT8_ROOT_ACCEPTANCE_WITH_LIMITS;NO_PUBLIC_CURRENT_BYTE_ADOPTION_INFERRED",
+    "roles": "Bodyauthor/currentmetadata composer /root/m008_composition_review; genuine105 author /root/next_cast_source_preparation; distinct private component reviewer /root/publishing_shared7_review; ROOT actual receiving/adoption separately attributed.",
+    "source_grades": "Bodyauthor26WHOLE3800; purposeauthor6WHOLE1580+20SELECTED1320; peer23WHOLE2874+3SELECTED503; ROOT own course exactly as original14283 receipt. Original common10526WHOLE79SELECTED and narrow61767six/59334oldGSC16 remain separate attributed report scopes. No new source reading from this composition.",
+    "preserved_history": "Original187 body intro/header/tail and whole original body/base64/map geometry; frozen source/Art/Rei/prior-target wrappers; original creation-stage pending labels, private C tuples, reviewed-author8 QA/ROOT tuples and old recovery proof bindings retain their actual dated scopes. Current public bindings are only explicit live aliases and new operative reconstruction; original literals do not become present latest-byte claims.",
+    "finite_modes": "O002 telescope damage is threatened; O038 Sensei refuses Eimi ice-bath invitation; O061 cheer request is imagined; O087 agreement/unpacking is not fulfilled week; O094 refusal concerns Teacher READING wanted novels; O096 supplied food precedes bargaining, contract exists with unprinted ratio and incomplete future collection; O098 Himari inward time-buying aim is not achieved duration; O103 Anna fear differs from Elina projection; O104 wage motive is not payroll.",
+    "peer_warrant": "Current complete peer manual676784/707c3810... already includes the exact corrected purpose23 reason. Its separate3978/6ae40005... qualification is pinned as an actual original witness; no meal shown is distinct from proof of nonconsumption. This is reporting of prior228 completed units, not new independent review of these public bytes.",
+    "source26_prior20": "EP01–EP20 remain prior producer analytical arguments under actual current normal Cycle008 bounds. Historical draft/veto/UNADMITTED labels and literal source person keys are not upgraded; no guessed public aliases are assigned to those private analytical objects.",
+    "identity": "Existing required home47/ordinal48/CSV49/F084/P3-CHAR-EIMI-RETRIEVAL-BOUNDED only. BA_PERSON_EIMI variants10001/20032 and BA_PERSON_CH0337 variant10136 remain distinct printed routes; G150 empty person join remains empty. No named duty, extra REL350, registry/person join or model.",
+    "future_gates_at_preparation": "Distinct current public12 metadata/raw QA; ROOT actual composed-byte receiving/adoption; guarded install/preflight; live policy/provider controls; normal publication/full readback and fresh exact-head runtime remain separate future operational gates at this2026-10-15 preparation stage. No event is fabricated or automatically completed by later use of this report.",
+    "fixed_scope": "355/29/25/384/788; all14 original gaps OPEN; models0; new package/named/source/identity/count/install/publication/runtime/merge credit0; merge RESERVED."
+  },
+  "complete_original_ROOT_semantic_receipt_delivery_values_only_normalized": {
+    "schema": "ROOT_ACTUAL_EIMI_CURRENT187_V4_PRIVATE8_COMPLETE525_LITERAL69_UNIQUE43_DISTINCT228_AND_CORRECTED_PEER_WARRANT_ADOPTION_WITH_LIMITS_V1",
+    "writer": "/root",
+    "UTC": "2026-10-15T06:13:30.560127+00:00",
+    "decision": "PRIVATE_EXACT8_LITERARY_AND_DOCUMENTARY_ADOPTED_WITH_LIMITS;PUBLIC12_COMPOSITION_AND_DISTINCT_PUBLIC_BYTE_QA_NEXT",
+    "author_manifest": {
+      "C_path": "private-witness:EIMI_LOCATION_47a1082d94d41b8f738397394104c804de094362dcd6a0ff1966f71cac97a8cf",
+      "bytes": 20460,
+      "sha256": "5c5c01ffbb72a22c18875f28001c9ff61495840f60f60442e634404e013742ba",
+      "git_blob_oid_of_actual_bytes": "765131cc84245e0297299121acfb546df78526e4"
+    },
+    "exact_current8": [
+      {
+        "original_C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "bytes": 36006,
+        "sha256": "f8d8638f4e8e0ec9f9149a38b35555b0b9ba1b171097b303c15510df5a6ee9a9",
+        "git_blob_oid_of_actual_bytes": "6bcd44b934a4749d9d770e9fe8acd0e83250e960"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_NEW_PURPOSES_EIP000_EIP035_V1.json",
+        "bytes": 479094,
+        "sha256": "513688e3479504da9403326c38b9c149df5f68c917a3cdc7f7bc408ca2bbcd34",
+        "git_blob_oid_of_actual_bytes": "4e271c5223eea3d06aa7d5775de3623d1d4011f3"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_NEW_PURPOSES_EIP036_EIP070_V1.json",
+        "bytes": 603681,
+        "sha256": "b3cbeb92d8ba7706efa2aed58f08dcf210b81e33684a2674a1feb513e5da62bf",
+        "git_blob_oid_of_actual_bytes": "e05317c37f47cf1be4472d6110c945e1ad164d84"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_NEW_PURPOSES_EIP071_EIP104_V1.json",
+        "bytes": 790813,
+        "sha256": "a9709a6fc22aed232f5318dd29f726359c177746d6b4815f514f7aa3c9d3a6cb",
+        "git_blob_oid_of_actual_bytes": "618b402d8b440e57797e2a5c8fe084305ddc08d8"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_SOURCE26_OWN6WHOLE20SELECTED_ORIGINAL105_QUESTIONS_AND_GRADE_REGISTER_V1.json",
+        "bytes": 121032,
+        "sha256": "4edf41f52f6362ee562ed54d535614acbe08190f88d93086a020da81b88e60c6",
+        "git_blob_oid_of_actual_bytes": "6bef4ca6ca160f34c4c0e3342ec7007728e77b88"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_LITERAL69_SOURCE_QUESTION_NEW105_PURPOSE_AND_FINITE_LIMIT_REGISTER_V1.json",
+        "bytes": 718005,
+        "sha256": "8e6679b01b8babf572ecb6c3da02cd7fcffe575527a9ebe768f5da081e68d931",
+        "git_blob_oid_of_actual_bytes": "4714741a9d9942b483c2b8e7c266fe6cd9feea19"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_CURRENT_FIVEFUNCTION_BODY_SOURCE_QUESTION_JOIN_INDEX_V1.json",
+        "bytes": 337187,
+        "sha256": "d873f8b1bdd2e2dabcdf11bae6e9e4c6f54def6459a32a9a7bf06134b29c048e",
+        "git_blob_oid_of_actual_bytes": "76ce35a1f5e79445343d7aba3574096c31aabedd"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_EXACT8_ORIGINAL14_RAW_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+        "bytes": 40940,
+        "sha256": "70daacd1420cb2fd0e73f5fe6a46a63593331b76525759b563fda2b0e61befdc",
+        "git_blob_oid_of_actual_bytes": "75268f89497d3cab12543978291156dc27965862"
+      }
+    ],
+    "ROOT_current525_69_43_and_full14_currentgraph_fidelity": {
+      "C_path": "private-witness:EIMI_LOCATION_e4b3732d5b13f672951e5a82b37b614e2a773fd736864eef56a1a798256d38f3",
+      "bytes": 26116,
+      "sha256": "2c0bfee0c79a25bbb58ba537c811d3849cd7f2cb9dc16808a0368de05f0a0610",
+      "git_blob_oid_of_actual_bytes": "b2bb55c9ad45b8f5471f1fd1cc10e886fb16129e"
+    },
+    "ROOT_complete228_peer_raw_and_custody20_fidelity": {
+      "C_path": "private-witness:EIMI_LOCATION_cfae0c07bf55094ba83011a25027967fb47916612801e8d827182f17b20bae85",
+      "bytes": 22780,
+      "sha256": "4e73b7c24dd5200568f33735d87a4e29dcc93974b1e3d115d6cd1f9a78c0c117",
+      "git_blob_oid_of_actual_bytes": "6dd8ed22c92ed11c40c68c9d1772db85a67df093"
+    },
+    "current_distinct_complete_peer_manual": {
+      "C_path": "private-witness:EIMI_LOCATION_7bf745dfd2444b45ef37d33a062f04cf3e4626c0b7ac23b424a12aa798e8762e",
+      "bytes": 676784,
+      "sha256": "707c38107094c97f58a8c9bfb7cdf08aab2b01bb134ca236768bfbe79deb1604",
+      "git_blob_oid_of_actual_bytes": "bbc5cbdcb177c28cf48202f98adb0e5a8163d36b"
+    },
+    "peer_current_warrant_qualification": {
+      "C_path": "private-witness:EIMI_LOCATION_6af9343774b84ee3e6842aebde4beadf0afd8f036f7eccf49d2836bdea75e239",
+      "bytes": 3978,
+      "sha256": "6ae40005e4a76741e7600a50b1eddac2d674425ea8603e889be992d6e204c82f",
+      "git_blob_oid_of_actual_bytes": "c123379c05997e4f7e3c5c85e0b675b4980a35e6"
+    },
+    "dated_original_peer_handoff": {
+      "C_path": "private-witness:EIMI_LOCATION_c519ed6ff06b20c25d55f6ba2f4084175f4886fcd3695769e177c36b5d974bbb",
+      "bytes": 11771,
+      "sha256": "799539d55f11ad908023974ec75714390821ef6fc3e6e91b0600519afee493c2",
+      "git_blob_oid_of_actual_bytes": "096bec38ab06aeac6331065544de79304a27129e"
+    },
+    "ROOT_personal_current_qualified_peer_receiving": "All228 completeuniqueunits1d13fd/b48ddb/ce9b69/9e2a61/9e7b3f and exact3978qualificationfd792e; no hypothetical whole676k human print. Fullraw old676743 reconstructed independently46e103; exact oneleaf successor independentlyforward/inverse here.",
+    "ROOT_own12_complete_current_literary_and_documentary_reasons": [
+      "The525 new functions ask distinct source-dependent questions of the already adopted69-paragraph argument. A comparison has a positive act or want, a specified contrary result or recipient, a finite endpoint and a test for stronger claims; the links are interpretive uses, not substituted evidence that Eimi attended every comparison scene.",
+      "Mint, narrated song, fashion choice, sky watching, cocoa, tea, idleness, weak handmade craft and selective company remain substantive goods before usefulness. Failed engineering or an unfinished social aim cannot make these pleasures analytically disposable.",
+      "Requests and refusals have separate owners and times. Current038 names Sensei refusing Eimi's ice-bath invitation and Eimi respecting that answer. A local agreement, grateful reply or chosen visit does not authorize a different method or perpetual availability.",
+      "Current002 preserves threatened telescope damage and061 preserves an imagined cheer request. These author-found precisions retain the original report's actual modes; original damaged/unqualified-request wordings survive only as dated beforeimages rather than operative facts.",
+      "The G150 functions distinguish a false published number, Eimi's initial data response, later correction and continuing rumor. They neither make100kg a body fact nor use technical access to establish authorization, repaired reputation or a filled person join.",
+      "The E831 functions give opening rest to Sensei, distinguish visitors' wants and bodily complaints, and credit Eimi's revised briefing, practical contribution and entrusted-gun reception. Incomplete understanding, exhausted escape, unknown home-world memory and unfulfilled reunion remain real limits.",
+      "The E854 functions keep Himari's inward aim, Eimi's hardware report and Rio's cracking separate. Cold enjoyment, wanted glacier, fear, idleness and provisional games interests coexist with work; neither co-design nor short-name response retroactively supplies pilot consent or surrendered agency.",
+      "Final comparisons preserve civic aid, meals, model making, welcome and distinct technical uncertainties. I additionally received maintainedFinal133-175 and441-452 at4dc3d6, adding only previously unreceived133-142 and441-442 to my prior150-line selected course. The current union162 is not a retroactive wholeFinal/primary claim or Eimi presence at all fronts.",
+      "The accepted common-report qualifiers retain actual one-week agreement without fulfilled duration, reading-access refusal rather than authorship, food supplied before later bargaining and a contract with unprinted ratio, Anna's fear distinct from Elina's projection, and wage motive rather than payroll. Narrow layers stay narrow and original source scopes remain attributed.",
+      "All69 current joins retain their complete original literals, source loci, question-answer roles and finite limits;568 reciprocal connections and411 typed bindings/315 selectors resolve actual values. Source questions from the two authors remain distinct objects despite common EQ labels. Preserved raw histories establish custody rather than literary merit.",
+      "The original14 complete advertised report/wrapper objects recover from current rows, and all20 named copies verify. Root whole228 peer reasons and the corrected PURPOSE23 warrant distinguish unshown consumption from proof of uneaten food. The correction changes no candidate8 bytes and preserves the entire old peer manual and allother227 units.",
+      "The eight serious rivals, local task successes/failures and selected reserve support a bounded descriptive character account. Literal EIMI/CH0337 routes and G150 empty join remain; all14 original gaps stay OPEN/models0. Private component adoption creates no public-byte acceptance, source admission, identity/named/REL350, canonical count, model, installation, publication or merge authority."
+    ],
+    "ROOT_actual_source_course": "10WHOLE1683 at originalEimi adoption; priorFinal66, lateradditional84 forMidori/Momoi and current12 exactnewphysical lines give selectedFinal162 now. Maintained analytical sources only. Fifteen other finer owners were not freshly whole-read byRoot; qualified sourcebook/report/completepeer judgments carry their stated grades. Bodyauthor26WHOLE3800, NEWauthor6WHOLE1580+20SELECTED1320, peer23WHOLE2874+3SELECTED503 remain separate.",
+    "one_peer_precision_disposition": "Resolved by exact immutable current manualV2; no candidate finding. Rootassesses the corrected complete reason as sound and allother227 units literal.",
+    "mechanical_scope": "Root2211 finite current8/525/69/43/full14raw/V3raw/graph checks; previous555 saved peer228/20copy predicates (console556 included later target-nonexistence guard); current supplemental checks recorded below. Distinct peer8526 fullV1→V4 checks remain attributed, not repeated as Root executions.",
+    "supplement_checks": 25,
+    "failures": [],
+    "preservation": "Original8 histories, author/peer receipts, old peer676743 and pages, inherited originals, original14 gaps, frozen otherpackages all unchanged. C-only Rootreceipt, no R/Git/provider/shared/protected39/private9 access/writes.",
+    "future_work": [
+      "Prepare exact12 public representation with honest dated metadata qualifications and full raw recovery; receive wholeunique metadata and distinct public-byte QA before actual public-byte adoption.",
+      "Prepare governed shared7/current published state only after appropriate package acceptance and live branch reconciliation; no precredit."
+    ],
+    "published_progress_unchanged": {
+      "packages": 152,
+      "required": 355,
+      "named": 19,
+      "required_named": 29,
+      "new_credit": 0
+    },
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "main_merge_approval": "RESERVED"
+  }
+}

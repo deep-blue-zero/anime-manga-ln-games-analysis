@@ -1,0 +1,31 @@
+{
+  "sealed_at_utc": "2026-10-17T13:27:02.914979+00:00",
+  "manifest": {
+    "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/METADATA_ONLY_HANDOFF_MANIFEST.json",
+    "bytes": 4956,
+    "sha256": "0dd9328659fcb2e279035300053ed9c29660a5b0a3c6d83f0bfe1cb8b3c2e87c"
+  },
+  "private_bank": {
+    "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/SEALED_EVALUATOR_CASE_BANK_PRIVATE.json",
+    "bytes": 130801,
+    "sha256": "1d88c6f5356adcb8b54bb401952be9b4b83f046a4aa141755af4a14e04e74e9f"
+  },
+  "private_prompt_packet": {
+    "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/SEALED_EXECUTABLE_PROMPTS_PRIVATE.json",
+    "bytes": 304159,
+    "sha256": "a0e260030457c940f06412c33894a86a69ba1aa301044af87ab9e9ab6f60674c"
+  },
+  "counts": {
+    "required_families": 9,
+    "subject_specific_cases": 36,
+    "main_subjects": 4,
+    "subject_executions_two_modes": 72,
+    "party_cases": 9,
+    "party_executions_two_modes": 18,
+    "total_prepared_executions": 90,
+    "actual_executed_responses": 0
+  },
+  "contents_must_remain_closed_to_model_authors_until_verified_initial_seals": true,
+  "case_author_has_not_opened_initial_model_arguments": true,
+  "no_responses_executed": true
+}

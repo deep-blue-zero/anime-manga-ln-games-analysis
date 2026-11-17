@@ -1,0 +1,109 @@
+{
+  "schema": "konosuba.cohort31.original-first-outputs.v1",
+  "subject": "Temiren",
+  "serialized_utc": "2026-10-24T07:00:18.693711+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "exact_input_freeze_sha256": "71f913686f4a131dd2dcd9bfc0517656548784e395b0e4ec94aeba984da4eb24",
+  "scenario_inputs_sha256": "9faea5d20ea84aff3820d52b1892c06bbb60582221de5da68f17a7f03b7533b7",
+  "source_known": true,
+  "same_informed_root_author": true,
+  "all_contrasts_visible": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "cases": [
+    {
+      "case_id": "TE-H01-A",
+      "pair_id": "TE-H01",
+      "variant": "A",
+      "target_rules": [
+        "TE-R01"
+      ],
+      "exact_prompt_sha256": "a45b51da07719d851c94d17bcc56907d1d86e0c148971cc30921250a81256ffd",
+      "first_response_utf8": "Temiren is disappointed about today, but hears a future opening rather than a complete dismissal. She wants the useful work noticed by this particular person, and the invitation to ask later lets that wish survive without inventing an appointment.\n\n“Another day, then. I was looking forward to hearing what you thought while we walked. I will ask when today's errand is no longer in the way; do not be surprised if I remember.”\n\nShe lets the immediate walk drop and turns back toward finishing her part of the errand. Her expression remains expectant. No later date is fixed, no romance begins and Gilbert supplies no reply inside her next action.\n",
+      "original_private_serialization": {
+        "case_id": "TE-H01-A",
+        "body_file": "COHORT31_FIRST_BODY_TE-H01-A_01.txt",
+        "body_bytes": 652,
+        "body_sha256": "1e45db3564d99e599f0cea4edb4edb87ccc1c40701df21ed7bd7462dcaea4060",
+        "receipt_file": "COHORT31_FIRST_BODY_TE-H01-A_01_RECEIPT.json",
+        "receipt_sha256": "d1a5d0c97a1dd3f25e87a79ce11df5c491665748611cc1a47cb102e90f05c0b0",
+        "words": 110,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "TE-H01-B",
+      "pair_id": "TE-H01",
+      "variant": "B",
+      "target_rules": [
+        "TE-R01"
+      ],
+      "exact_prompt_sha256": "a0c1166527efe7eab24739dd3aabaf1e8837a93afd7e85e0a525115b188615c0",
+      "first_response_utf8": "Temiren wants to find a less disappointing meaning in the answer, but the request not to keep inviting him is clear. Feeling foolish about having wanted recognition does not mean the wish vanishes, and it does not turn his refusal into a hidden invitation.\n\n“I wanted you to notice what I did. I heard the rest as well. I will not keep asking you to walk with me. That does not make it pleasant to hear.”\n\nShe turns toward her own unfinished errand rather than making another invitation. The movement is deliberately brisk. There is no invented softening from Gilbert, no physical contact and no claim that her attachment is permanently resolved.\n",
+      "original_private_serialization": {
+        "case_id": "TE-H01-B",
+        "body_file": "COHORT31_FIRST_BODY_TE-H01-B_01.txt",
+        "body_bytes": 651,
+        "body_sha256": "e912fff9f22febfc0833c58dd78a3dcfc398cf6db60a7bf6c055763ef0aa409d",
+        "receipt_file": "COHORT31_FIRST_BODY_TE-H01-B_01_RECEIPT.json",
+        "receipt_sha256": "f8f6835f6035a466fcb43800bef2f5ec341feaf1aee3a5060f4f0679fc817dee",
+        "words": 112,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "TE-H02-A",
+      "pair_id": "TE-H02",
+      "variant": "A",
+      "target_rules": [
+        "TE-R02"
+      ],
+      "exact_prompt_sha256": "14304d0a54dea3b905bc84920939bfba79970fab44023123a8c8488e0feb7ca2",
+      "first_response_utf8": "Temiren recognizes a task where her knowledge may be useful and is aware that Gilbert is there to see it. The relevant scroll offers an attempt, not a result; spending thirty out of forty would also leave little margin for anything later.\n\n“This is at least the sort of magic I can examine. Let me look before we spend the scroll. If we use it, I will have ten left, so I would prefer an answer worth that price.”\n\nShe begins the permitted inspection and brings the available scroll into consideration without activating it. Her brief glance toward Gilbert invites notice, but no identification roll, successful operation or praise is supplied.\n",
+      "original_private_serialization": {
+        "case_id": "TE-H02-A",
+        "body_file": "COHORT31_FIRST_BODY_TE-H02-A_01.txt",
+        "body_bytes": 649,
+        "body_sha256": "6aa0643716c56fbad55a35dc02e8e6ab80923ded07db90e8bc2f97b03596dc12",
+        "receipt_file": "COHORT31_FIRST_BODY_TE-H02-A_01_RECEIPT.json",
+        "receipt_sha256": "909271bad1dc07993b4afcbd64431e767da1639de268a2c85e9813280607461b",
+        "words": 111,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "TE-H02-B",
+      "pair_id": "TE-H02",
+      "variant": "B",
+      "target_rules": [
+        "TE-R02"
+      ],
+      "exact_prompt_sha256": "b9cf288a12941f591e5095e76cc82acb3d13a457bf4f9b0180e97dd25aa78d11",
+      "first_response_utf8": "Temiren would like to give an impressive answer with Gilbert watching, but an unfamiliar timing mechanism is not made into ice magic by that wish. The thirty-point scroll cost offers no solution when there is no usable scroll for this object.\n\n“I can examine monsters and magic; that does not mean I know what every little mechanical part does. We need someone who understands the timing, or information we do not have. I would rather not make the demonstration exciting in the wrong way.”\n\nShe keeps clear of the controls and looks over the object without operating it. She has not found an expert or manual, repaired anything, spent MP or received admiration.\n",
+      "original_private_serialization": {
+        "case_id": "TE-H02-B",
+        "body_file": "COHORT31_FIRST_BODY_TE-H02-B_01.txt",
+        "body_bytes": 666,
+        "body_sha256": "3acc79b1c9a6a23ee2b087ff0442d82f44009403cc9c8ed13577a9f4c69ba22e",
+        "receipt_file": "COHORT31_FIRST_BODY_TE-H02-B_01_RECEIPT.json",
+        "receipt_sha256": "47a103102e9bfb8798540cb4d3a0551a41ec0c0d4560697dd6fb2f88f1da2a7c",
+        "words": 113,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "word_budget_is_not_behavioral_success": true,
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

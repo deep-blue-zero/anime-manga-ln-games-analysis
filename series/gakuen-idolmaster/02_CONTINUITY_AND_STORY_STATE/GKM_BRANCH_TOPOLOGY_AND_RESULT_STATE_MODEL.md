@@ -2,14 +2,18 @@
 title: "Gakuen Idolmaster V2 Branch Topology and Result-State Model"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "branch topology specification"
-version: "2.0"
+version: "2.1"
 phase: "1 - Continuity and Story-State Reconstruction"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 created: "2026-08-13"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 targeted addition (STRENGTHEN): §5.5 records two SL1.0 lesson variants that presuppose a P3-C run producing Sena; the NOT PRESENT IN LOCK rule and all other content unchanged"
 status: "canonical Phase 1 artifact"
 ---
 
 # GKM BRANCH TOPOLOGY AND RESULT-STATE MODEL
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** STRENGTHEN: §5.5 adds a note that two SL1.0 shared lesson variants presuppose a P3-C run in which the Producer produces Sena (GKM-SAA-116). The coverage rule and all other sections are unchanged.
 
 ## 0. Purpose
 
@@ -250,6 +254,8 @@ The statements “Sena is current champion” and “Ume is current champion” 
 
 No individual Series 3 pstory fragments exist for Kotone, Sena, or Tsubame in Source Lock 1.0. This must be represented as `NOT PRESENT IN LOCK`, not `DID NOT PARTICIPATE`.
 
+Note (GKM-SAA-116; 2026-11-15): the absence concerns Produce Story fragments, not every trace of a P3-C[SENA] state. Two SL1.0 shared Produce-event lesson variants presuppose a run in which the Producer produces Sena: `adv_pevent_003_cmmn_school_1-006-02` (Asari addresses him as Sena's 担当プロデューサー, L5, L13) and `adv_pevent_003_cmmn_school_3-005-02` (a planned fourth consecutive H.I.F. title, L5, L13, L22–L25). They are C3 lesson variants within P3-C and do not create a Sena Series 3 biography. SL1.1 later supplies P3-SENA material.
+
 ---
 
 # 6. Unit Story as track-level branch
@@ -324,3 +330,7 @@ The branch system is now stable enough for later analysis:
 - World-state branches are treated as mutually exclusive.
 - `true` remains a label, not a universal canon verdict.
 - Numeric suffixes receive family-specific interpretation.
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+Kanae Produce Series 001 gives a fresh C3 witness for the model: seven alternative openings, separate mid and final pass and failure groups, four paired live wrappers and six endings, including two failed productions labelled `normal`. Displayed choices in a result script follow the announcement. Both `activity_017-02` and `activity_018-02` contain a two-way `Condition` under the first of two displayed choices. See the [revision 88 branch ledger](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_BRANCH_DIVERGENCE_LEDGER.md#source-lock-12--transcript-refresh-2026-11-15) and [scene evidence](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/14_HIWATARI_KANAE/GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md#produce-series-001) for outcome controls. The new scripts expose individual states. The exact runtime dispatch remains open.

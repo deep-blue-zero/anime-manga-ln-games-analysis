@@ -1,0 +1,58 @@
+{
+  "schema": "BLUE_ARCHIVE_ROOT_ATSUKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+  "status": "PASS_WITH_LIMITS",
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "candidate_sha256": "cd713fbacf902b8930f6040de6ddb38175103397297dbcf5f68c74bddc11bad4",
+  "frozen_outputs_verified": 4,
+  "prior_frozen_outputs_preserved": 25,
+  "exact_unique_binding_pairs_verified": 67,
+  "fresh_complete_arguments_equal_main_and_c1": 2,
+  "selected_private_objects_exact_verified": 17,
+  "saved_nonempty_lines_exact_verified": 128,
+  "historical_metadata_bindings": [
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "ref": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+      "purpose": "historical metadata only"
+    }
+  ],
+  "present_metadata_witness": "Original dc5 HEAD with staged ec11af62 candidate/788 witness now exact at published1dc20920; immutable witness is not a whole-tree or publish audit. Dispatch unchanged.",
+  "root_actual_receiving": {
+    "whole_final_body": [
+      "695c29 lines1–73",
+      "ed0675 lines74–141",
+      "7129ec lines142–212EOF"
+    ],
+    "whole_readable_receipt": [
+      "43cd61 all49linesEOF"
+    ],
+    "source_scope_fields": "Fresh2 3aea3c; prior12Main51d5cf; fourpriorwholeevent scopes1d7bd5; currentprivate286c39 and qualifiedgroupa36a04; necessaryprimaryc481ba; allcontrols2210d3; manifestfc7b5e; metadata4f1b4c. Primary work remains attributed to author, no fresh ROOT primary credit. Original private fullsemantic211–660 receiving remains partial-frontmatter, no whole660file claim.",
+    "new_complete_accepted_arguments": [
+      "8c26e8 exactly EVENT810077 all71linesEOF"
+    ],
+    "new_full_primary_or_raw_or_performance_credit": 0
+  },
+  "semantic_grounds": [
+    "Atsuko chooses meaningful life contents: company, school play, flowers, a walk and a privately owned final image. Their value does not depend on serving a completed recovery narrative.",
+    "Interrupted play, dead plants, empty camera and withheld pixels are substantive different outcomes; future learning and display do not become completed results.",
+    "Saori, Misaki, Hiyori, Maia, Subaru, Azusa and the rescue coalition retain independently motivated choices and changing relations.",
+    "Coercive Squad protection, pressured care and unauthorized entry remain adverse beside pleasure and successful escape; actor seams limit individual attribution.",
+    "Reported office/exam/historical and clinical mechanisms remain bounded; actual school participation, awake speech, company and valuation do not require invented charter, cure, image subject or genealogy."
+  ],
+  "canonical_adoption": "CANONICAL_SOURCE_BRANCH_DERIVATIVE",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "N_frozen": false,
+  "quarter_reached": false,
+  "main_integration": "NONE",
+  "canonical_derivative": {
+    "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md",
+    "bytes": 53343,
+    "sha256": "593ece130594b92f162924fa1fad7f6a955ba532f0e5c5840c4e7f9df81d8dd2",
+    "frozen_author_bytes": 52227,
+    "frozen_author_sha256": "cd713fbacf902b8930f6040de6ddb38175103397297dbcf5f68c74bddc11bad4"
+  },
+  "public_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ATSUKO_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+  "public_claim_register": null,
+  "historical_receiving_flags_retained": "N, publication and main state refer to the dated receiving event; current full-cast scope is separately indexed."
+}

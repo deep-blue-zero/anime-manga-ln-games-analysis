@@ -1,0 +1,1542 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_INPUT_AND_AUTHOR_SCOPE_RECEIPT_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Noa–Yuuka",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_DIRECTED_RELATIONSHIP_MONOGRAPHS/NOA_YUUKA_RELATIONSHIP_SOURCE_AND_SAVED_OUTPUT_RECEIPT_V1.json",
+    "bytes": 53993,
+    "sha256": "b685e5898e0fca82f5b2d78ba5531d0aaf3d6932eaa1a9284f97058c55758ca0",
+    "git_blob_oid_of_actual_bytes": "16c0a5fa56c71e2987d60c05c03dcec3bcbd65b7",
+    "lines": 615
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SOURCE_AND_SAVED_OUTPUT_RECEIPT_V1",
+    "status": "ROOT_AUTHORED_COMPLETE_DRAFT_INDEPENDENT_RECEIVING_PENDING",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_DIRECTED_RELATIONSHIP_MONOGRAPHS/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 31039,
+      "lines": 163,
+      "sha256": "c2e712c38ad115e9bcc6104207caba6c5b3f635713d4fd0c28fb0adcac30e73f",
+      "actual_scope": "ROOT saved whole body0f02da1–80/97671481–163EOF; five local citation/wording fixes follow, requiring changed-line receiving before frozen completion",
+      "new_primary_credit": 0
+    },
+    "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+    "required_home": {
+      "home_key": "P3-REL-NOA-YUUKA-PRIVACY-MEMORY-COMPANY",
+      "kind": "DIRECTED_RELATIONSHIP",
+      "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+      "source_responsibility_refs": [
+        "P3-XMI-R005"
+      ],
+      "literary_rationale": [
+        "Full E842 contrary cases; privacy support and pressured disclosure coexist"
+      ],
+      "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "counts_as_completed": false,
+      "proposed_denominator_entry": true
+    },
+    "inputs": [
+      {
+        "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+        "bytes": 40956,
+        "lines": 226,
+        "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+        "actual_scope": "ROOT current actual complete226-line analytical argument:0ed65e1–100/6b79d0101–226EOF; source primary/raw claims remain attributed to existing owner",
+        "new_primary_credit": 0
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 31482,
+        "lines": 149,
+        "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+        "actual_scope": "ROOT current actual complete149-line analytical argument:73fd591–75/d1ace176–149EOF; all15 source objects and raw/primary claims remain author-attributed",
+        "new_primary_credit": 0
+      },
+      {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 68567,
+        "lines": 341,
+        "sha256": "e9a1629f7bef0dab6049b8464740904fe2dbe74af140f5f9dc9cba1cfaf8e741",
+        "actual_scope": "ROOT current actual complete341-line canonical argument:b853f81–100/971266101–190/2c52e3191–275/1a32ee276–341EOF; L97 exact subject-shift erratum qualified against completeG31; original frozen bytes not silently repaired",
+        "new_primary_credit": 0
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md",
+        "bytes": 5094,
+        "lines": 37,
+        "sha256": "7dab6902dd3e5cb85aac4039e6b19b48bd2787fcb55e96b466337d9614096fdc",
+        "actual_scope": "Prior actual ROOT whole37-line analytical argument369e4f, reused with actor drift and reported safety reasoning; no fresh whole or primary credit",
+        "new_primary_credit": 0
+      },
+      {
+        "path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "bytes": 52261,
+        "lines": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "actual_scope": "Actual current subsection7.2e567d3; whole file byte binding is not whole narrative receiving",
+        "new_primary_credit": 0
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "bytes": 40144,
+        "lines": 152,
+        "sha256": "7cfad36a54c559d9b9fa0231f841a917c324e5a7f8c163f151b84dfa19d369e4",
+        "actual_scope": "Prior actual ROOT complete152-line frozen Noa argument336c07/efecfa, accepted64c8e0; reused at its exact source-mode/claim boundaries; public canonical derivative pending",
+        "new_primary_credit": 0
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_NOA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+        "bytes": 8698,
+        "lines": 205,
+        "sha256": "436b0fcd1481f0e4e7a3096ac64ea1c564db259f6eeca4d80f2a9b0f56422196",
+        "actual_scope": "Explicit existing ROOT semantic/exact acceptance; no new whole source/primary credit from this record",
+        "new_primary_credit": 0
+      },
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "bytes": 461112,
+        "lines": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "actual_scope": "Only top-level control count and exact named home projection received92dc1a; not whole literary partition receiving",
+        "new_primary_credit": 0
+      }
+    ],
+    "historical_source_pins": "a038020f1f5ac02dcfe76962426d38f86414cdd8 / parser0.2.0 / BA_REFRESH_20260928T032248159554Z",
+    "source_admission": "CurrentCycle008 governs; prior owner intake and ledger-proposal statements historical",
+    "new_primary_or_raw_or_performance_credit": 0,
+    "mandatory_recovery_for_bounded_asserted_claims": [],
+    "all14_gaps": "OPEN_UNCHANGED",
+    "source_scope_limits": [
+      "G31 exact actor qualification inherited; no fresh raw replay or Sensei presence",
+      "E842 afterstories revisit party; no globalNewYear/EXPO chronology",
+      "Sports/Pavane comparisons use complete accepted character arguments; no new underlying whole episode/package credit",
+      "Noa prior whole accepted character source used with own privacy and ordinary wants; source-history/independence unknown",
+      "YuuL97 report qualified byG3102u35–38; narrow public erratum pending adoption",
+      "Final37-line safety argument uses prioractualROOT complete custody; no verifiedsurveillance or guarantee"
+    ],
+    "saved_nonempty_line_projection": [
+      {
+        "line": 1,
+        "sha256_utf8_line_no_terminator": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "text": "---"
+      },
+      {
+        "line": 2,
+        "sha256_utf8_line_no_terminator": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "line": 3,
+        "sha256_utf8_line_no_terminator": "c296976b43529728c524056ca51883d7dcae129a1f4980908291f0e1912af284",
+        "text": "artifact_type: relationship_synthesis"
+      },
+      {
+        "line": 4,
+        "sha256_utf8_line_no_terminator": "f34600b2e691e8ed24ee7ebadb26332d7a2c590abbcf6718f1613776efa7b172",
+        "text": "scope: P3-REL-NOA-YUUKA-PRIVACY-MEMORY-COMPANY"
+      },
+      {
+        "line": 5,
+        "sha256_utf8_line_no_terminator": "34bc1f7cd288274b788cc2caa3049a431c28bd5e0093d4ed4671ce57c4944aed",
+        "text": "status: working_candidate"
+      },
+      {
+        "line": 6,
+        "sha256_utf8_line_no_terminator": "0946f5047ae20836f2c40c039c809b4c2a0e0f6548c9e51e4ef1342b3ede236b",
+        "text": "generation: V1"
+      },
+      {
+        "line": 7,
+        "sha256_utf8_line_no_terminator": "1f407436b832cc421e1a8c5cd41c230af22d12fdd3ed4d60ba418ec2d0dc31e9",
+        "text": "participant_keys: [BA_PERSON_CH0095, BA_PERSON_YUUKA]"
+      },
+      {
+        "line": 8,
+        "sha256_utf8_line_no_terminator": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "line": 9,
+        "sha256_utf8_line_no_terminator": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "line": 10,
+        "sha256_utf8_line_no_terminator": "8cf5d25eb28c893b0d094a840e1e49f4131891a7345b6beeffe14d16da4e4972",
+        "text": "analytical_source_baseline: 7489d76d96b232609f1cd16473173b6dc4ab0eee"
+      },
+      {
+        "line": 11,
+        "sha256_utf8_line_no_terminator": "ddc2407b7f351caf67bfb2d8b63619289e58da0c178e1412f78cf178913d3c19",
+        "text": "source_boundary: complete accepted written character and contextual arguments, with attributed source custody and explicit local limits"
+      },
+      {
+        "line": 12,
+        "sha256_utf8_line_no_terminator": "5c99aab184bfe37df2dad75adc7a7b5b1d6a20609dff82f60dcd70ce31f3cd7c",
+        "text": "ROOT_literary_acceptance: PENDING"
+      },
+      {
+        "line": 13,
+        "sha256_utf8_line_no_terminator": "ed2e528e6315754c1403405723fcd84011f6ea85eca3bf6d98f192bf5d3300a1",
+        "text": "created: 2026-10-10"
+      },
+      {
+        "line": 14,
+        "sha256_utf8_line_no_terminator": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "text": "---"
+      },
+      {
+        "line": 16,
+        "sha256_utf8_line_no_terminator": "d8afe2808eb78f74f1b38bb87997935b2ceda723758fea12d667b97dac0e1e52",
+        "text": "# Noa and Yuuka — wanted company, selective knowledge, and the cost of withholding"
+      },
+      {
+        "line": 18,
+        "sha256_utf8_line_no_terminator": "34ccd55cbf870ccc8e162971105c1632e8ac302baf26f06a6e7323adff2c1526",
+        "text": "This package owns the required directed relationship duty `P3-REL-NOA-YUUKA-PRIVACY-MEMORY-COMPANY`. It compares Noa toward Yuuka and Yuuka toward Noa as separate directions. Their joint presence does not by itself establish a shared intention, equal knowledge, consent to a particular game, or an enduring relationship state. The current source admission is Cycle008; older producer intake statements remain historical. This draft adds no source admission, primary reading, performed voice, reconstruction model, or prediction. Its literary review and canonical adoption remain pending."
+      },
+      {
+        "line": 20,
+        "sha256_utf8_line_no_terminator": "7e502782a81c47723790860974d2fa66a418e3b171cb9c3f90821cabc9e2823d",
+        "text": "## 1. Thesis: familiarity makes a boundary consequential"
+      },
+      {
+        "line": 22,
+        "sha256_utf8_line_no_terminator": "0d29d19b0e12b3f603913ad4c42d34d46696205d7ce82ca56da16806907d202f",
+        "text": "Noa and Yuuka can want each other's company, contribute indispensable work, and remain unevenly attentive to what the other wants kept private. Noa's explicit affection, practical construction help, curiosity and pleasure matter as positive relationship evidence. Yuuka's request for more help, gratitude, shared making, private party preparation and willingness to play matter independently. These facts prevent the relationship from being reduced to victim and controller. They also make the withheld warning, unwanted personal question and disproportionate drinking burden consequential: the person pressing a boundary is a valued partner, rather than an anonymous antagonist. [G31 §§4–7][g31] [E842 E003/E014][e842]"
+      },
+      {
+        "line": 24,
+        "sha256_utf8_line_no_terminator": "caee3244ccd842b19892a771cfc49be9d5cee35decc1517efe5ff1c05c29861e",
+        "text": "The central distinction is between **attending to someone and being entitled to their disclosure**. Noa can notice an exact position, remember an exchange, or recognize a possibility without knowing how another person feels or having authority to choose the audience for that person's answer. Yuuka can trust useful help, accept a game and show affection without offering every private subject for public examination. Their relationship supplies occasions for recognition and occasions when recognition becomes pressure. Neither form should be inferred solely from their official roles or from a comic genre convention. [E842 E006/E009–010/E014][e842] [Yuuka §§3/8/10][yuuka] [Noa §§1/3/8/10][noa]"
+      },
+      {
+        "line": 26,
+        "sha256_utf8_line_no_terminator": "53e1d9a45b301885c7cde3c5d609979bb1c01992fd6d3593b4eb0f272103b2c3",
+        "text": "The distinction also belongs to Noa herself. Her accepted character account preserves a private diary, a chosen sparse room, a particular loved-poem preference she hesitates to fix in writing, and separate contexts in which she writes her own poetry. These are her boundaries and tastes. They make it possible to compare selective self-expression with her handling of Yuuka's withheld answer, without declaring that keeping a diary proves deliberate hypocrisy or that every form of recording is the same act. Yuuka likewise wants games, mathematics, rest, gifts and a possible future home. Her protected interior is a positive life, rather than merely an obstacle to a romantic reveal. [Noa §§1/3/5][noa] [Yuuka §§1/3/5][yuuka]"
+      },
+      {
+        "line": 28,
+        "sha256_utf8_line_no_terminator": "af7a96060b3d5ffaf0c96a5f954f94a202091200641342845313a521af1ff8d1",
+        "text": "## 2. Two people with lives beyond the dyad"
+      },
+      {
+        "line": 30,
+        "sha256_utf8_line_no_terminator": "69150540ae88f453d491ec38f12bd128de954b10679554e2feff7c7101d67da8",
+        "text": "### Noa toward Yuuka"
+      },
+      {
+        "line": 32,
+        "sha256_utf8_line_no_terminator": "19f9f44da73743d701848472b5d7e15c0196687763695636d60213fdd79325fa",
+        "text": "Noa praises Yuuka's accountant value and expressly says `ユウカちゃんのこと大好き` in GROUP3101. The affection is secure in its written source form. Her stated secretary neutrality, amusement and selective teasing occur beside it. In the later construction she supplies work without which Yuuka says she would have given up. She also has objections of her own: ignored procedures, costs equivalent to several clubs' quarterly budgets, missing guarantees and a funding problem. Noa is therefore neither passive support staff nor a person whose sole interest is Yuuka's embarrassment. Her curiosity, institutional judgment and willingness to help shape the encounter. [G3101 u0080–0089; G3102 u0016–0045; G3103 u0006–0013][g31]"
+      },
+      {
+        "line": 34,
+        "sha256_utf8_line_no_terminator": "66ad5a22eaf7db638e64a9f3a88bd45732222a387c7087009021ac33a83a5dbf",
+        "text": "Her wider accepted repertoire prevents a blank-recorder account. Administrative review, coffee, books, poetry, ordinary sensory comfort and wanted company have their own ends. In the year-end party she explicitly considers occasions for company, memory and leaving an impression, acknowledges her indirectness, and hopes for peaceful daily continuity. These statements do not mean every earlier chase or question was welcomed. They establish what she wants and how she describes herself; the affected person's response remains a different part of the evidence. [Noa §§1/5/7][noa] [E842 E010u1–65/E015u34–38][e842]"
+      },
+      {
+        "line": 36,
+        "sha256_utf8_line_no_terminator": "4006e3760cc20ae939c54b6a889b4c7aa2cee0820a2901f8d816354aed4bb6d9",
+        "text": "### Yuuka toward Noa"
+      },
+      {
+        "line": 38,
+        "sha256_utf8_line_no_terminator": "e2da58c0d1c1d9a33dc3ac515fc62c3dc049e64e707804147dc4110461539d68",
+        "text": "Yuuka asks for more practical support, recognizes Noa's indispensable construction contribution, accepts help and later demands to know why a suspicion was not volunteered. Dependence, gratitude and anger are each locally shown. They cannot be flattened into permanent distrust, or treated as evidence that gratitude authorizes whatever a helpful colleague does next. Her own decision to pursue a prestigious design and offer personal payment also matters: Noa's withheld suspicion does not replace Yuuka's agency or erase Yuuka's responsibility for her decision. [G3101 u0082–0088; G3102 u0039–0050; G3103 u0007/u0072–0079][g31]"
+      },
+      {
+        "line": 40,
+        "sha256_utf8_line_no_terminator": "f27bae03620f578ba30b0463716ed25a80eaa0b91a77e1bee33ea2270b3af605",
+        "text": "Yuuka prepares a private party, chooses pajamas fitting Koyuki and wants better personal communication; Noa accepts and anticipates that gathering. Within the same preparation Yuuka asks Noa not to touch things in her room. Wanted company and a room boundary are compatible. The source does not make acceptance of the party equivalent to unrestricted access to her possessions or feelings. Her game enjoyment is independently established in her complete private account, so reluctance about one question cannot be dismissed as a general inability to have fun. [E842 E003u5–46][e842] [Yuuka §§1/3/5][yuuka]"
+      },
+      {
+        "line": 42,
+        "sha256_utf8_line_no_terminator": "7bda1ebe19dba32e8bc4cabc2490b55dc09f8d60532acd58951fdc8d778a6e05",
+        "text": "## 3. What can legitimately be ordered"
+      },
+      {
+        "line": 44,
+        "sha256_utf8_line_no_terminator": "b5d78de0a13b761cc94224e01b844286623f4ceeae6e6cf8a51833f9721216c5",
+        "text": "GROUP3101–3103 has a coherent local sequence: budget review and document discovery, consideration of the blueprint, completed construction, output, later conversation and financial coda. The separate Himari–Chihiro conversation is reader-facing information. It is not shown being heard by Noa and Yuuka at the meeting. The referred-to recent special award and reported previous-day fund crash are local presuppositions; they do not date this whole relationship against every main chapter or private encounter. [G31 §§2/5–6][g31]"
+      },
+      {
+        "line": 46,
+        "sha256_utf8_line_no_terminator": "ca9bef0ae361f68c0a8885731259e627cbcc722995e2c9f7dfc16ce75a0a4d76",
+        "text": "The year-end event likewise has its own order. Preparation precedes chase and capture, the group actually plays, Noa and Sensei have a countdown conversation, cleanup and sleep occur, and the next afternoon contains ongoing work. E011–015 revisit party exchanges. Their position after E010 does not put every game after the next-afternoon filing scene. In particular, the unpleasant disclosure game belongs to the party account; file order cannot turn it into a later punishment for already completed work. [E842 local reconstruction and E009–015][e842]"
+      },
+      {
+        "line": 48,
+        "sha256_utf8_line_no_terminator": "d96082982f0332edecc7a2e0352ca591792099e072d150d07c6d7b4077312a77",
+        "text": "Main-story chapter progression permits comparison of joint inquiry and crisis contributions. It does not produce a ladder in which all ordinary countercases precede a perfected later partnership. The base and pajama records also cannot be arranged as necessary stages of ethical growth merely from variant identifiers. Where no relative date is established, this synthesis compares different contexts and audiences. It preserves local changes without inventing a single global transformation from teasing to transparent trust. [Yuuka §§2/6/11][yuuka] [Noa §§2/6/11][noa]"
+      },
+      {
+        "line": 50,
+        "sha256_utf8_line_no_terminator": "e6dab9e9a5939bde2edafc9e1226753f3f25f31856c1e005b03f8021f0a27227",
+        "text": "## 4. Shared work: assistance has value without moral immunity"
+      },
+      {
+        "line": 52,
+        "sha256_utf8_line_no_terminator": "71f66d075856dcb805e9042f61d1cb1c485f419d01c13d5060517bd2174da3ab",
+        "text": "The budget story gives both participants a substantive position. Noa argues that researchers choose their direction and that seemingly meaningless work can become a future foundation. Yuuka recognizes possibility while distinguishing unknowable future value from a known immediate budget. The rejected inventions remain evidence of wanted creation, reduced tool burden, leisure income and care for residents. Their rejection does not make those desires analytically worthless. The pair's disagreement concerns allocation under uncertainty, rather than a choice between enjoying life and respecting reality. [G3101 u0065–0079; G31 §§4/9][g31]"
+      },
+      {
+        "line": 54,
+        "sha256_utf8_line_no_terminator": "9db0316f63913a19e8def16143b3b3ef9d486a1f27e294b8893a39f76e7edee8",
+        "text": "The proposed future-observation device then changes the test. Yuuka invokes Himari's prestige after initially doubting feasibility. Noa notes omitted procedures and guarantees, estimates the cost, and reports that Veritas is not formally recognized and Rio said not to fund Himari individually. These are Noa's institutional reports, not inspected charter or order. Yuuka offers her own name and hopes the device can remedy a recent financial loss. Noa agrees because the project seems interesting. Curiosity, money hope, institutional ideals and pleasurable collaboration coexist. [G3102 u0012–0050][g31]"
+      },
+      {
+        "line": 56,
+        "sha256_utf8_line_no_terminator": "59472241864c67b22b5a5441137efa40aed4be1c16c881de47eafcc4206b7d9f",
+        "text": "The finished build is an actual shared achievement. Yuuka thanks Noa and says she would otherwise have stopped; Noa almost describes it as interesting before adopting a formal institutional explanation. Practical help is therefore more than an affectionate phrase. Yet the object does not provide the requested numerical rare-metal forecast: a birthday input leads to a horoscope and lucky titanium. The narrator later says Yuuka personally pays and that her titanium transaction apparently works out. The favorable hedged coda belongs in the relationship account because it prevents an invented ending of complete financial ruin. It still supplies neither a reliable predictor nor retrospective vindication of the original decision procedure. [G3103 u0006–0016/u0026–0036/u0078–0079][g31]"
+      },
+      {
+        "line": 58,
+        "sha256_utf8_line_no_terminator": "26da43911908e4b086566e26aa0ab6aa05b8404c9352a8c9fd1097d491db9358",
+        "text": "Noa's contribution remains valuable when her information practice is criticized. Conversely, useful help cannot settle whether a relevant suspicion should have been volunteered. The pair's actual cooperation contains this unresolved difference. A psychological account that makes her help merely a trap discards shown work; one that makes the help proof of complete loyalty discards the ensuing complaint. [G3103 u0063–0077; G31 §7 directed rows][g31]"
+      },
+      {
+        "line": 60,
+        "sha256_utf8_line_no_terminator": "d416c970ef6f82828a519fcc378af588e9869454fbbc02969ea6e8fa3bf3930b",
+        "text": "## 5. Memory, neutrality, and the unoffered warning"
+      },
+      {
+        "line": 62,
+        "sha256_utf8_line_no_terminator": "a19ae175b3ad7aa0d2d3e7830fc1f45913ea27ed74c01a68a7fb4c8655b8763a",
+        "text": "Noa reports library loans of astrology books and infers that the blueprint was probably Himari's playful toy. When Yuuka asks whether she noticed earlier, Noa expressly lacks certainty and explains not warning with `聞かれてませんし？`. The supported conclusion is qualified suspicion that she did not proactively share. It is stronger than no information asymmetry, and weaker than certain knowledge from the beginning or a fully planned deception. Yuuka's anger is a real response to the withheld possibility; it does not convert the possibility into proven certainty. [G3103 u0068–0077; G31 §§6–7][g31]"
+      },
+      {
+        "line": 64,
+        "sha256_utf8_line_no_terminator": "571b09b372b18ac1a558f79218dc83f2e50ad81381d452a864dffdae680c64c0",
+        "text": "Her stated neutral secretary role in the earlier exchange is also local speech. Yuuka says neutrality seems especially available when Yuuka is disadvantaged. Noa's subsequent affection and actual work make it implausible to treat this as simple withdrawal from the relationship. The conflict instead concerns the limits of an official explanation when another person needs a warning or practical assistance. A description of role does not demonstrate that every relevant fact was shared, while criticism of selective sharing does not establish universal dishonesty. [G3101 u0080–0089][g31]"
+      },
+      {
+        "line": 66,
+        "sha256_utf8_line_no_terminator": "c1c359f58cc67807c037dc2b643a697e3d5d1fb28a369f64927b135fafb358e8",
+        "text": "E842 supplies a different information asymmetry. Noa notices altered positions and dust, later says she had noticed Sensei since Koyuki's earlier flight, and enjoys their coordination. She nevertheless acknowledges she cannot know how Sensei felt and apologizes for possible discomfort. That admission is a concrete limit on a mind-reading interpretation. Exact memory of a position and inference about another person's enjoyment remain different kinds of knowledge. Its value for the Noa–Yuuka comparison is contextual: her observation skill cannot make Yuuka's unspoken feelings fully known or give a game question an already authorized answer. [E842 E004/E006/E009u16–49][e842]"
+      },
+      {
+        "line": 68,
+        "sha256_utf8_line_no_terminator": "e40d6501e04f0a320c4d7848c26916d46636fcb8b156efc60d11a8398d18c175",
+        "text": "Noa can want memories without making every memory public. Her own diary and hesitation about fixing a preference on paper show selective inscription; the countdown conversation gives wanted remembered company. Yuuka's withheld answer similarly has content even when the reader cannot complete it. The relationship therefore needs room for an unshared feeling, an uncertain suspicion and a known helpful act to coexist. None has to be converted into a total secret, a total confession or an invariant rule of trust. [Noa §§1/3/5/10][noa] [E842 E010/E014][e842]"
+      },
+      {
+        "line": 70,
+        "sha256_utf8_line_no_terminator": "1e73a6991352cf7884736dabc44040f3257bd02a341cf4932f9de9c632eb2859",
+        "text": "## 6. Privacy: the participant and audience decide the particular boundary"
+      },
+      {
+        "line": 72,
+        "sha256_utf8_line_no_terminator": "617e638ef0935115c38a5442380deb79a39d68cf72af84dea03c16be7f7e34da",
+        "text": "Noa confiscates the recorder Hare and Kotama placed in a table game to obtain screams and possibly Sensei's reaction. The event explicitly frames her act as protecting privacy. This is positive evidence of a particular intervention. It does not authorize treating every subsequent Noa act as protective, or assuming that the right to record and the right to ask a private question are identical. Their sources, recipients and means differ. [E842 E003u110–128][e842]"
+      },
+      {
+        "line": 74,
+        "sha256_utf8_line_no_terminator": "0e013fe054c8a7f63dd37fffaf2b5676d74722674f73feb9beed8a23a551eec6",
+        "text": "The later Truth or Dare exchange provides the contrary case required by this package. Noa proposes the game as a way to avoid wasting the mixed drink and judges that its ingredients appear not dangerous. Yuuka accepts reluctantly, partly because she likes games. Noa asks about her feelings for Sensei; Yuuka objects to answering publicly and chooses the drink instead. The incomplete answer remains incomplete. The actual unpleasant taste and continuing questions then leave Yuuka drinking almost all the mixture. A familiar participant's enjoyment of games and conditional acceptance of rules do not settle the fairness of that burden. [E842 E014u11–31/u58–86][e842]"
+      },
+      {
+        "line": 76,
+        "sha256_utf8_line_no_terminator": "16734b7b5b16627f3d7537bd2cbcbad082be5c3e1fa2b4e0ec3aad9653a8a4f2",
+        "text": "The asymmetry is sharpened by the other answers in the same game. Noa can answer a question about her underwear without fluster. That is a specific self-report and her chosen response. It does not establish that Yuuka should be equally comfortable, or that a participant who answers freely earns access to everyone else's private subject. The recipient's own choice of disclosure matters more than a uniform expectation of openness. [E842 E014u36–66][e842]"
+      },
+      {
+        "line": 78,
+        "sha256_utf8_line_no_terminator": "e6dfb501267dbd2d5f42b18a39a99c3ae69974699322b9aacef1909e05cfcff9",
+        "text": "Nor does Yuuka's refusal demonstrate hostility to Noa or absence of affection for Sensei. It locates a boundary in subject, audience and method. The game makes withholding costly; that cost is actually borne rather than merely threatened. E015's sleep utterance that she cannot drink more preserves the aftermath. No clinical injury or cure is printed, but the absence of a diagnosis cannot erase the unpleasant burden. The game's creators and the privacy-holder do not bear equivalent costs merely because all are at the same party. [E842 E014u73–86/E015; Yuuka §§3/8/10][e842]"
+      },
+      {
+        "line": 80,
+        "sha256_utf8_line_no_terminator": "1556088fa00169e9da57b55a56450fbdc82bd8977af6c8b6868b7e718c8fee7b",
+        "text": "The earlier future-device question has a distinct attribution limit. GROUP3103u0021 is canonically labelled Yuuka but, under the accepted raw actor qualification, belongs to Noa's question. Yuuka's clean u0022–0023 objects to being asked this way; Noa's u0024 notes that she has not denied interest. This is prompted teasing and an interpreted nonanswer. It is not Yuuka spontaneously asking about a romance, Sensei reciprocating, or a complete confession. Sensei does not appear or act in that group packet. The actor limit changes the relationship argument and belongs here in its main reasoning. [G31 §3/u0021–0024][g31]"
+      },
+      {
+        "line": 82,
+        "sha256_utf8_line_no_terminator": "4a99ed7c69eb02961517cb1f3b1d48038d165c3256f509414366c8b498d03ce3",
+        "text": "## 7. Ordinary company and games retain their own meaning"
+      },
+      {
+        "line": 84,
+        "sha256_utf8_line_no_terminator": "9c49ba8171f132a4cfeb6de65b6c17afac2d32e995fe3e4081b6e95d4a67e29b",
+        "text": "The party is not valuable solely as an ethical counterexample. Pajamas selected for a particular recipient, snacks, borrowed games and shared play supply wanted ordinary company. Koyuki actually wears and accepts Yuuka's gift; Noa anticipates the party; the narrator later establishes group enjoyment and participation. These local completions deserve their own positive account. They do not need an institutional crisis or a romantic conclusion to justify being kept. [E842 E003–005/E009][e842]"
+      },
+      {
+        "line": 86,
+        "sha256_utf8_line_no_terminator": "22d8f75f06bc2c794c5cca9f0db502fb6a85ad81f4971ee7de228ab5a34e42c6",
+        "text": "Choice within play also occurs. Koyuki proposes a different game; Yuuka allows the change; Maki declines it as too simple. Noa later apologizes when others find the one-sided game unfun. These are particular responses to recipients. The apology gives evidence of revision within the party, while it does not establish an apology to Yuuka for the later disclosure burden or complete repair of every chase and penalty. Noa's admissions concerning Sensei's possible discomfort likewise belong to that recipient; they cannot silently become apologies for all dyads. [E842 E011u19–66/E012u1–4/E009u25–40][e842]"
+      },
+      {
+        "line": 88,
+        "sha256_utf8_line_no_terminator": "c702783e8612523c9cce26aa465b1f75080a916f3ce03219e98beb0538ac56e9",
+        "text": "Noa and Yuuka's familiar humor can therefore be read without declaring it either inherently harmless or inherently coercive. Humor accompanies actual affection, successful work, invitations and pleasure; it also accompanies withheld information and privacy pressure. The specific action, answer and aftermath decide what the scene supports. Continuing company does not prove that a boundary never mattered, while a criticized episode does not make earlier wanted company unreal. [G31][g31] [E842][e842]"
+      },
+      {
+        "line": 90,
+        "sha256_utf8_line_no_terminator": "9d95084947786fef84e105e74fa2e77644b7d0c957c6b5525998421da696da1d",
+        "text": "The sports-event comparison remains at its accepted character-account boundary. The borrowed-item teasing, Yuuka's denial and a memorandum restriction have consequential actor seams and do not securely reveal a confession or the document's contents. Organizer leisure and a future dance offer can be meaningful without a performed dance. Here those observations are inherited from the complete accepted Yuuka and Noa accounts; this package does not claim fresh whole sports-event primary or raw receiving. They broaden the occasions in which familiar partners negotiate public visibility, rather than supplying a hidden fact that overrides the later explicit nonanswer. [Yuuka §§6/8/9][yuuka] [Noa §§2/5/8/9][noa]"
+      },
+      {
+        "line": 92,
+        "sha256_utf8_line_no_terminator": "ed6ed03790aaa776525252b5504a59cfb92e33859f38e5f92d9909f26aae2847",
+        "text": "## 8. Public cooperation does not settle private disclosure"
+      },
+      {
+        "line": 94,
+        "sha256_utf8_line_no_terminator": "4543391b65285768d43fa5512cfd0845c893526466a11a94b5099201f40bc7ad",
+        "text": "Pavane chapter 2 supplies real joint inquiry and intervention. Noa and Yuuka recover information and help locate Eridu. Yuuka continues beyond the original coordinate-transmission assignment as Noa describes it. Their useful collaboration occurs among contributions by C&C, Engineering, Eimi, Himari, Alice and others. It is neither evidence of a solitary pair saving everyone nor a demonstration that Noa always chooses Yuuka's preferred scope of action. The achieved interruption and rescue contributions remain separate from a completed financial audit, institutional legitimacy or permanent safety. [Yuuka §§2/6/8][yuuka] [Noa §§2/4/6/8][noa]"
+      },
+      {
+        "line": 96,
+        "sha256_utf8_line_no_terminator": "261d9dc6ce41af5b0bf937f8644524f6eaeb1d86f76691cb44c68078bac0323b",
+        "text": "Final C003E006 gives an actual difference in safety assessment. Yuuka worries about Alice and Rio's absence; Noa reports deciding to send Alice and Game Development to the ship because Rio likely has more control within Millennium. The reasoning compares dangers under uncertainty. Noa's report is not a fully inspected surveillance mechanism, and moving someone to the ship does not guarantee safety there. The local self-address actor drift at u0037/u0045 also prevents converting every printed heading into a clean individual quotation. This disagreement matters because coordinated colleagues retain their own judgments rather than becoming one mind in public work. [Final C003E006 u0014–0047; Noa §6][safety]"
+      },
+      {
+        "line": 98,
+        "sha256_utf8_line_no_terminator": "2fcfd0c04e24d513cf46fa7bdfb1627d859501673e0623b6f30dd9fdbe6e8bd2",
+        "text": "Later timely help and successful coalition actions give their work positive endpoints, but operational competence cannot decide the private ethics of a disclosure game. Conversely, the disclosure dispute cannot cancel their actual usefulness in a crisis. The comparison works in both directions: capabilities transfer only within their supported domain, and criticism travels only with its demonstrated act and recipient. Noa's memory is useful without universal access to feelings; Yuuka's calculations and accountability questions are useful without invariant judgment. [Yuuka §§6/10][yuuka] [Noa §§6/10][noa]"
+      },
+      {
+        "line": 100,
+        "sha256_utf8_line_no_terminator": "dbf59a6e4c4052f3bd976786b645ed8fd54d10f391afc43ca9dc410bfbb6cf17",
+        "text": "Yuuka also has coercive or pressuring acts of her own. The next-afternoon party endpoint has helpers objecting to compulsory work on Sensei's overdue filing; completion, compensation and universal assent are not narrated. Her separate declined arithmetic drill and profitable maid-continuation proposal similarly require their own recipient accounts. This synthesis does not turn privacy-holder status in one game into universal moral innocence. Those acts constrain a flattering comparison while remaining distinct from Noa's question toward her. [E842 E010u72–88][e842] [Yuuka §§5/7/10][yuuka]"
+      },
+      {
+        "line": 102,
+        "sha256_utf8_line_no_terminator": "85ac3ff1833bda2718ea2198708bb5d4fc5a1a3502930ce60ce105f994d832e1",
+        "text": "## 9. Written language, actor qualification, and audience"
+      },
+      {
+        "line": 104,
+        "sha256_utf8_line_no_terminator": "d5ceb7627cf87d3693c7f0ec80858b8adc3d3a4b1c03a7a0a866b505e3d25695",
+        "text": "`ユウカちゃん` and Noa's explicit `大好き` establish familiar affectionate address in the group exchange. `聞かれてませんし？` gives the explanation for not volunteering a suspicion. These written forms carry different relational functions: warmth and a selective information boundary. Neither supplies performed vocal tone, a psychiatric diagnosis, or an all-context intention. Yuuka's gratitude and later direct question keep her responsive direction visible rather than reducing her to the object of Noa's phrasing. [G31 §§3/4/6/8][g31]"
+      },
+      {
+        "line": 106,
+        "sha256_utf8_line_no_terminator": "a5be290f13be5b52f33a1fe38f05bd3de0984b37e83cc78102af26ba434f1aba",
+        "text": "The group account retains seven multi-portrait attribution seams. In particular, the future relationship question and opening construction exchange cannot anchor an exact unqualified Noa/Yuuka idiolect comparison. Clean gratitude, objections and work statements remain usable. Noa/Yuuka character narration, the represented Himari communication form and device output also remain distinct modes. The cut to the designer's discussion supplies reader knowledge; it is not shared spoken knowledge of the two builders. [G31 §§2–3][g31]"
+      },
+      {
+        "line": 108,
+        "sha256_utf8_line_no_terminator": "154b8b320f40ec865dc430f00a2c6f4d86630f07485b190ef3e7dbf4d86a0fda",
+        "text": "E842 retains its own printed seams, inward actions, alternatives and narrated endpoints. Noa's remarkable recall is represented speech, not an independently tested universal memory. Yuuka's public nonanswer and actual drinking do not require the analyst to silently repair every adjacent actor label. A quoted question, a thought, a self-report, a report about someone else and a narrated action each support a different strength of conclusion. Inherited source-mode findings remain attributed to the accepted owners; this draft adds no raw table, native performance or audiovisual inspection. [E842 actor/mode limits][e842]"
+      },
+      {
+        "line": 110,
+        "sha256_utf8_line_no_terminator": "87a962f2429990ee0bb175c8fb41ae24d4fc0f2bbff4a70db9ff5631771b94e2",
+        "text": "The result is a written relationship interpretation with high confidence in clean local acts and endpoints, moderate confidence in the cross-context psychological comparison, and explicit limits on motive, durability and universal competence. Familiarity is securely represented; reciprocal romantic commitment, unrestricted disclosure rights, lasting reform and a global chronology are not."
+      },
+      {
+        "line": 112,
+        "sha256_utf8_line_no_terminator": "6f86d3f35d401a3215205865c51c74938cb99e53f057a4c9a22bc8e86b218a2b",
+        "text": "## 10. Rival readings and claim-specific limits"
+      },
+      {
+        "line": 114,
+        "sha256_utf8_line_no_terminator": "03b53a8ebaa71537b0fbe79ab9540c2d51f3ccb9f8f30ca38e4f8c0565c0327c",
+        "text": "### Benevolent teasing explains everything"
+      },
+      {
+        "line": 116,
+        "sha256_utf8_line_no_terminator": "56323f1f475c4038d4b0663eedcceaed378693e3e9e6b0aa921b05c50cb14ae0",
+        "text": "Affection, enjoyed company, material help and actual apologies support a sympathetic reading. It fails when it substitutes those facts for the recipient's response. Yuuka directly objects to the manner and audience of personal questions, takes an unpleasant alternative and bears repeated drinking. The defensible remainder is valued familiarity with uneven respect for particular limits, rather than harmlessness guaranteed by affection. [G3103 u0021–0024][g31] [E842 E014][e842]"
+      },
+      {
+        "line": 118,
+        "sha256_utf8_line_no_terminator": "2c75e4d98fd1f943fb2334fb7a025ccaf698a6d98b36098d4896c8d3d1ddc62d",
+        "text": "### Noa is an omniscient manipulator; Yuuka has no agency"
+      },
+      {
+        "line": 120,
+        "sha256_utf8_line_no_terminator": "8a23a5fe11c35a3771f5259434ce89a7c6c76e60a0c392b4fec820a0845caddf",
+        "text": "Withheld suspicion, observation and targeted questions give this reading material evidence. Noa's express lack of certainty and inability to know Sensei's feelings oppose its omniscient claim. Yuuka chooses the prestigious project, offers personal cost, values real help, asks for an explanation and withholds a public answer. The relationship has asymmetry without total control. The fortunate financial coda also prevents constructing a wholly ruined victim endpoint. [G31 §§5–7][g31] [E842 E009/E014][e842]"
+      },
+      {
+        "line": 122,
+        "sha256_utf8_line_no_terminator": "c9e95b92cd40216e6dba9ee48d07fa9658eb37552efcf9b730b53992eef33d40",
+        "text": "### Their offices determine the whole bond"
+      },
+      {
+        "line": 124,
+        "sha256_utf8_line_no_terminator": "a4741269b5f7510c2fbb6c7f43adada7f248cb00fe53496d463415a8d637ed4f",
+        "text": "Secretary and accountant functions organize work and argument. They do not exhaust enjoyment in making, room boundaries, chosen gifts, games, private diary practices, poems or wanted company. Noa's neutrality is itself questioned, and Yuuka's funding standard changes under prestige and personal hope. The offices supply situated responsibilities, not a complete personality or symmetric trust rule. [G31][g31] [Noa §§1/4/5][noa] [Yuuka §§1/4/5][yuuka]"
+      },
+      {
+        "line": 126,
+        "sha256_utf8_line_no_terminator": "fe064dbd867e0e71c1727e2526e3a84de6383a78c78b46e92d0fb6e98ed7009a",
+        "text": "### Continued company proves full repair"
+      },
+      {
+        "line": 128,
+        "sha256_utf8_line_no_terminator": "b5fd676292b18df5c0cb8b4d6bfb67daa9263f72a783f740b7793de81abe3386",
+        "text": "Continued play, cleanup, shared work and ordinary wishes are positive continuities. They do not establish a completed apology for Yuuka's drink burden, full consent to every game, a repaired information policy, permanent rest or fair compensation. The source can close a particular activity while leaving its distribution of costs unresolved. A future peaceful-day wish remains a wish. [E842 E009–015][e842]"
+      },
+      {
+        "line": 130,
+        "sha256_utf8_line_no_terminator": "225630dd64411daa8fe181fb67ac26b5ab44e118c2931edbe8708d2b0c26d06f",
+        "text": "All fourteen original gaps remain OPEN. The relationship argument narrows what it claims:"
+      },
+      {
+        "line": 132,
+        "sha256_utf8_line_no_terminator": "3b71e9d78d22602fee241dacab96511c7cc09a8336fdb0bb7232de1be83ce4b3",
+        "text": "| Gap | Supported contribution | Remaining limit or separate owner |"
+      },
+      {
+        "line": 133,
+        "sha256_utf8_line_no_terminator": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+        "text": "|---|---|---|"
+      },
+      {
+        "line": 134,
+        "sha256_utf8_line_no_terminator": "192144ead2978f8f70afdb240f76e8031027eeaa2d66c0eddcb8e78574a898d9",
+        "text": "| G01 ordinary/private breadth | Wanted making, company, games, gifts, poems, diaries and refusals have intrinsic value. | Whole-cast private breadth and newly required source responsibilities remain. |"
+      },
+      {
+        "line": 135,
+        "sha256_utf8_line_no_terminator": "dd78c2d45993479fc0c5153485427060dc9b1dc4819a3261888dc832b2397b05",
+        "text": "| G02 council decision transfer | Two participants' criteria, prestige exception, personal payment and different safety judgments are distinguished. | Full Seminar institutional account and transferable decision mechanisms are not completed here. |"
+      },
+      {
+        "line": 136,
+        "sha256_utf8_line_no_terminator": "55cbc10897518c126a7cddb5d17c09e5e351316a292f71b0f1117d3251ac3772",
+        "text": "| G03 Serika service | Shared work and reciprocal help supply a comparison only. | Serika's own wages, recipients and aftermath retain separate ownership. |"
+      },
+      {
+        "line": 137,
+        "sha256_utf8_line_no_terminator": "5ae2cb65802d63f9f189fb58b8ee10bd7415268a67d7d176718f6bb54524eb71",
+        "text": "| G04 Hina accountability | Recipient assent and repair are analytically differentiated. | No Hina coercion, institution or remedy gap is closed by this dyad. |"
+      },
+      {
+        "line": 138,
+        "sha256_utf8_line_no_terminator": "5675a7dddc735e97fea5e1aa62ab0422ed79ee39ad7ad6dc9ddb07ce096e11e9",
+        "text": "| G05 Arius/PS68 aftermath | Other participants are not treated as background to the pair. | Their livelihoods, harms, legal and medical afterstates remain separately required. |"
+      },
+      {
+        "line": 139,
+        "sha256_utf8_line_no_terminator": "58d3f1e952fa22fc02d66750979a47f9bfb4b7c667822dabf005edd86e556ff0",
+        "text": "| G06 ordinary cross-school breadth | Quiet Millennium company and local disagreement are retained without a stakes filter. | No school prevalence or complete cross-school repertoire follows. |"
+      },
+      {
+        "line": 140,
+        "sha256_utf8_line_no_terminator": "5ed105976b9f6df2959c32b333a207da68b1b4dfedc20712c76f0753883c3daf",
+        "text": "| G07 chronology | Group local sequence, year-end night and revisiting afterstories are preserved. | Absolute MAIN/private/event alignment and a variant growth ladder remain unestablished. |"
+      },
+      {
+        "line": 141,
+        "sha256_utf8_line_no_terminator": "7f43dc43532abc295004b550a0fb4911b892f89e38025b010c287f7f9d3173e8",
+        "text": "| G08 event naming/repeats | E842, sports comparison and local object forms remain distinct. | Similar celebrations or EXPO references are not fused into one chronology. |"
+      },
+      {
+        "line": 142,
+        "sha256_utf8_line_no_terminator": "faebb0ffbeb83d3f3263a1a749d9b3b4d30c9433e44675cdc117a604eea494c0",
+        "text": "| G09 attribution/choices | Seven group seams, event seams, modes, refusal and narrated endpoints are consequential. | No comprehensive raw repair or execution of every represented alternative is asserted. |"
+      },
+      {
+        "line": 143,
+        "sha256_utf8_line_no_terminator": "cfc1d7219a4ca64dd17923ce016d0c98cb7e6992df4f23a2dc358a1cbc321943",
+        "text": "| G10 performance | Written address and wording only. | Voice, acting, timing, pixels and acoustic identification remain unreceived. |"
+      },
+      {
+        "line": 144,
+        "sha256_utf8_line_no_terminator": "28d8ca7796098cb9ac32c21f121f0e678a5c051c8d086c2fd59a324375f7a0a7",
+        "text": "| G11 Hoshino/Yume | No dyadic analogy supplies a new historical record. | Their records, grief and office-state authentication have their own homes. |"
+      },
+      {
+        "line": 145,
+        "sha256_utf8_line_no_terminator": "4da2017ca872bdab1d2b1c367883ddb9611df06f4b392cd914abb5fcdb45c9f4",
+        "text": "| G12 identity/system | BA_PERSON_CH0095 and BA_PERSON_YUUKA remain the two identified participants; device output is separate. | No device personhood, variant chronology or wider identity adjudication is added. |"
+      },
+      {
+        "line": 146,
+        "sha256_utf8_line_no_terminator": "f88d14322e6b0f7c459077afa2a32986725b0b63eb7e8266f3176f23e5c0c455",
+        "text": "| G13 institutions/outcomes | Help, build, hedged windfall, privacy intervention and actual drinking are kept. | Charter/order, toxicity, durable safety, restitution, compensation and complete repair remain unproved. |"
+      },
+      {
+        "line": 147,
+        "sha256_utf8_line_no_terminator": "00210a9601e126be4ae50769727c77094241f8465220ae39872f6afbe3fd048d",
+        "text": "| G14 modes/continuity | Accepted written argument boundaries and attributed source custody are explicit. | Outside-selection and unclassified routes retain their separate revisit duties. |"
+      },
+      {
+        "line": 149,
+        "sha256_utf8_line_no_terminator": "0c13d16d59506c82e5ec548f1f079f323d8b03bc096c659ca070a1a1f95aca15",
+        "text": "## 11. Evidence route and what this package completes"
+      },
+      {
+        "line": 151,
+        "sha256_utf8_line_no_terminator": "e694f168673d00fd7172473565efeb5444d78786571a1041f71e54d7988e0d2a",
+        "text": "The central source argument is the complete accepted GROUP3101–3103 account, with its local sequence, seven raw-actor qualifications, affectionate exchange, actual build, qualified nonwarning and favorable hedged coda. The second is the complete accepted fifteen-object E842 account, including every appended party afterstory, privacy confiscation, games, unwanted disclosure, repeated drinking, actual cleanup and ongoing afternoon work. ROOT actually received both complete analytical arguments in the current writing turn. This is complete argument receiving, not fresh reading of their underlying Japanese primary, raw scripts or performed media. [G31][g31] [E842][e842]"
+      },
+      {
+        "line": 153,
+        "sha256_utf8_line_no_terminator": "df9f3582275111d223f69aa4aacb76c45c580281919762c693e2b082538baaa4",
+        "text": "The complete accepted Yuuka character account was also actually received through its 341 lines. Its sentence describing Noa's funding report is qualified by the complete group source: the report concerns Veritas's formal recognition and Rio's instruction against individual funding for Himari. The original sentence's subject shift is a narrow recorded erratum; this synthesis uses the corrected source meaning. Noa's complete frozen character argument and ROOT acceptance are adequate prior received authority, reused within their attributed boundaries. The Final C003E006 safety argument likewise uses prior actual complete ROOT receiving, without fresh primary or new whole-source credit. Exact input and saved-output bindings accompany the draft; they do not substitute for literary reading. [Yuuka][yuuka] [Noa][noa] [Safety assessment][safety]"
+      },
+      {
+        "line": 155,
+        "sha256_utf8_line_no_terminator": "5cea988a7fbe02d58c9424ac6758fbe5e760ef86bead9e79f2d9ed82bd012392",
+        "text": "This package supplies a complete bounded relationship argument for the named home, subject to independent receiving and ROOT acceptance. It adds no second package for the reverse direction, no extra character, no named-section alias credit and no newly frozen denominator. It does not replace the Seminar institution, Sensei relationships, Koyuki/Veritas relationships, full-cast monographs or Japanese register syntheses. Those owners must retain the other participants' own reasons and the costs not settled here."
+      },
+      {
+        "line": 157,
+        "sha256_utf8_line_no_terminator": "c85cc7cbcb4d7d33902a71b9962708bf20b7c7d8cd1b8ad3900ee0bd7fbb70ac",
+        "text": "The conclusion is that Noa and Yuuka are valued partners with actual shared work and ordinary company, whose familiarity also exposes differences over what must be said, who may ask and who pays for withholding. Noa's pleasure and care remain real; Yuuka's gratitude and agency remain real. Their uneven handling of uncertainty and privacy remains real too. A complete reading requires all three, with each local recipient and endpoint kept visible."
+      },
+      {
+        "line": 159,
+        "sha256_utf8_line_no_terminator": "b50f2b31efba0a22123b645a6d52343ce534fb0d34ade0c1c19e157fdacbeef8",
+        "text": "[g31]: ../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md"
+      },
+      {
+        "line": 160,
+        "sha256_utf8_line_no_terminator": "ae71b984e167be61e3c5f41180f87efffd05cbac438d4ab496abe9c74c5c300e",
+        "text": "[e842]: ../../02%20Sequential%20Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+      },
+      {
+        "line": 161,
+        "sha256_utf8_line_no_terminator": "8e5c2d27f81c9020abef251db60fcc0bb98a2eea87c44894792a7e8ebcb91186",
+        "text": "[yuuka]: ../Character%20Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md"
+      },
+      {
+        "line": 162,
+        "sha256_utf8_line_no_terminator": "7a3e1c53da173fe794d813acce79009db5c5e34ed3ed0a87696f62acd8583128",
+        "text": "[noa]: ../Character%20Monographs/BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md"
+      },
+      {
+        "line": 163,
+        "sha256_utf8_line_no_terminator": "c30d821b3a4c2a8ce6ea5799e0d33cbc62557064b6ce730068155470099abe15",
+        "text": "[safety]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md"
+      }
+    ],
+    "semantic_claim_routes": {
+      "positive_intrinsic_company": "§§1/2/4/7",
+      "separate_directed_responses": "§2 Noa towardYuuka/Yuuka towardNoa; §§4/5/6",
+      "qualified_suspicion_not_omniscience": "§5 G3103u68–77",
+      "privacy_protection_and_pressure": "§6 E842E003u110–128/E014u11–86",
+      "actual_party_pleasure_and_local_apology": "§7 E842E009/E011/E012",
+      "crisis_cooperation_distinct_from_private_ethics": "§8/FinalC003E006u14–47",
+      "language_actor_audience_limits": "§9/G31sevenseams/E842limits",
+      "contrary_rival_readings_and_fourteen_open_gaps": "§10",
+      "exact_current_receiving_and_separate_owners": "§11"
+    },
+    "models_or_predictions_promoted": false,
+    "scope_or_denominator_changed": false,
+    "package_progress_credit": 0,
+    "canonical_adoption": "PENDING",
+    "external_handoff": "NONE",
+    "quarter_reached": false
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "current_required_home": "P3-REL-NOA-YUUKA-PRIVACY-MEMORY-COMPANY",
+  "root_exact_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "historical_author_delivery_attachments": {
+    "INDEPENDENT_NOA_YUUKA_SOURCE_CLAIM_AND_EXACT_REVIEW_V1.json": {
+      "schema": "BLUE_ARCHIVE_PHASE3_INDEPENDENT_NOA_YUUKA_LITERARY_REVIEW_V1",
+      "status": "REVIEW_COMPLETE_PROPOSED_ROOT_ACCEPTANCE_PENDING",
+      "created": "2026-10-10",
+      "required_home": {
+        "home_key": "P3-REL-NOA-YUUKA-PRIVACY-MEMORY-COMPANY",
+        "kind": "DIRECTED_RELATIONSHIP",
+        "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+        "source_responsibility_refs": [
+          "P3-XMI-R005"
+        ],
+        "literary_rationale": [
+          "Full E842 contrary cases; privacy support and pressured disclosure coexist"
+        ],
+        "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+        "counts_as_completed": false,
+        "proposed_denominator_entry": true
+      },
+      "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+      "proposed_decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+      "requested_exact_draft_changes": [],
+      "candidate": {
+        "working_artifact_relative_path": "ROOT_DIRECTED_RELATIONSHIP_MONOGRAPHS/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+        "byte_count": 31039,
+        "line_count": 163,
+        "sha256": "c2e712c38ad115e9bcc6104207caba6c5b3f635713d4fd0c28fb0adcac30e73f",
+        "actual_byte_blob_oid": "7ab2dbc371e9d1fd273bd4be91e321862fa73590"
+      },
+      "root_source_and_saved_receipt": {
+        "working_artifact_relative_path": "ROOT_DIRECTED_RELATIONSHIP_MONOGRAPHS/NOA_YUUKA_RELATIONSHIP_SOURCE_AND_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 53993,
+        "line_count": 615,
+        "sha256": "b685e5898e0fca82f5b2d78ba5531d0aaf3d6932eaa1a9284f97058c55758ca0",
+        "actual_byte_blob_oid": "16c0a5fa56c71e2987d60c05c03dcec3bcbd65b7"
+      },
+      "inputs": [
+        {
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+          "byte_count": 40956,
+          "line_count": 226,
+          "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+          "actual_byte_blob_oid": "5bcbef776c36b70da61c168eebbc861ddda01cb6",
+          "ROOT_declared_receiving_scope": "ROOT current actual complete226-line analytical argument:0ed65e1–100/6b79d0101–226EOF; source primary/raw claims remain attributed to existing owner",
+          "exact_comparison": "PASS_CURRENT_BYTES_EQUAL_DECLARED_TUPLE_AT_REVIEW",
+          "new_primary_credit": 0
+        },
+        {
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+          "byte_count": 31482,
+          "line_count": 149,
+          "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+          "actual_byte_blob_oid": "f0f9557a65b075016a229b764d9385835cde666a",
+          "ROOT_declared_receiving_scope": "ROOT current actual complete149-line analytical argument:73fd591–75/d1ace176–149EOF; all15 source objects and raw/primary claims remain author-attributed",
+          "exact_comparison": "PASS_CURRENT_BYTES_EQUAL_DECLARED_TUPLE_AT_REVIEW",
+          "new_primary_credit": 0
+        },
+        {
+          "repository_relative_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 68567,
+          "line_count": 341,
+          "sha256": "e9a1629f7bef0dab6049b8464740904fe2dbe74af140f5f9dc9cba1cfaf8e741",
+          "actual_byte_blob_oid": "5a14b7752cb17e6f776e55c9a5cf1b2f7d585982",
+          "ROOT_declared_receiving_scope": "ROOT current actual complete341-line canonical argument:b853f81–100/971266101–190/2c52e3191–275/1a32ee276–341EOF; L97 exact subject-shift erratum qualified against completeG31; original frozen bytes not silently repaired",
+          "exact_comparison": "PASS_CURRENT_BYTES_EQUAL_DECLARED_TUPLE_AT_REVIEW",
+          "new_primary_credit": 0
+        },
+        {
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md",
+          "byte_count": 5094,
+          "line_count": 37,
+          "sha256": "7dab6902dd3e5cb85aac4039e6b19b48bd2787fcb55e96b466337d9614096fdc",
+          "actual_byte_blob_oid": "df701927f406b5fd456529fe0ae0472db68680f7",
+          "ROOT_declared_receiving_scope": "Prior actual ROOT whole37-line analytical argument369e4f, reused with actor drift and reported safety reasoning; no fresh whole or primary credit",
+          "exact_comparison": "PASS_CURRENT_BYTES_EQUAL_DECLARED_TUPLE_AT_REVIEW",
+          "new_primary_credit": 0
+        },
+        {
+          "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+          "byte_count": 52261,
+          "line_count": 851,
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+          "ROOT_declared_receiving_scope": "Actual current subsection7.2e567d3; whole file byte binding is not whole narrative receiving",
+          "exact_comparison": "PASS_CURRENT_BYTES_EQUAL_DECLARED_TUPLE_AT_REVIEW",
+          "new_primary_credit": 0
+        },
+        {
+          "working_artifact_relative_path": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 40144,
+          "line_count": 152,
+          "sha256": "7cfad36a54c559d9b9fa0231f841a917c324e5a7f8c163f151b84dfa19d369e4",
+          "actual_byte_blob_oid": "9a12a4d6987c50f497fa7ea4444fe326484f3d02",
+          "ROOT_declared_receiving_scope": "Prior actual ROOT complete152-line frozen Noa argument336c07/efecfa, accepted64c8e0; reused at its exact source-mode/claim boundaries; public canonical derivative pending",
+          "exact_comparison": "PASS_CURRENT_BYTES_EQUAL_DECLARED_TUPLE_AT_REVIEW",
+          "new_primary_credit": 0
+        },
+        {
+          "working_artifact_relative_path": "ROOT_NOA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+          "byte_count": 8698,
+          "line_count": 205,
+          "sha256": "436b0fcd1481f0e4e7a3096ac64ea1c564db259f6eeca4d80f2a9b0f56422196",
+          "actual_byte_blob_oid": "7030aba3cb18142352cbaf707e68a219f90418b2",
+          "ROOT_declared_receiving_scope": "Explicit existing ROOT semantic/exact acceptance; no new whole source/primary credit from this record",
+          "exact_comparison": "PASS_CURRENT_BYTES_EQUAL_DECLARED_TUPLE_AT_REVIEW",
+          "new_primary_credit": 0
+        },
+        {
+          "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+          "byte_count": 461112,
+          "line_count": 6514,
+          "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+          "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+          "ROOT_declared_receiving_scope": "Only top-level control count and exact named home projection received92dc1a; not whole literary partition receiving",
+          "exact_comparison": "PASS_CURRENT_BYTES_EQUAL_DECLARED_TUPLE_AT_REVIEW",
+          "new_primary_credit": 0
+        }
+      ],
+      "prior_own_noa_source_custody_receipt": {
+        "working_artifact_relative_path": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 37796,
+        "line_count": 622,
+        "sha256": "8dcef3f9dc3e39e71d9c720d16440dc91e4ecc416ab2d8cdd6c71ea65643b185",
+        "actual_byte_blob_oid": "a2d723391d0cd25e97c5004b50810c20acf90421"
+      },
+      "reused_prior_own_complete_meaning_scopes": [
+        {
+          "source_id": "G31",
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+          "byte_count": 40956,
+          "line_count": 226,
+          "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+          "worktree_content_blob_oid": "5bcbef776c36b70da61c168eebbc861ddda01cb6",
+          "inspected_scope": "Personally prior whole226-line analytical argument cef8701–115/eb5247116–226EOF. Fresh bounded47–184419ef1 had three clipped lines124–126 recovered9e2b42. All proposal, build, qualified suspicion, cost/hedged windfall, directed gratitude and seven raw actor seams retained. Producer narrative/primary inventory is attributed, not fresh native or primary credit.",
+          "receiving_records": "cef870/eb5247/419ef1/9e2b42",
+          "custody_credit": "PRIOR_COMPLETE_GROUP_ARGUMENT_WITH_EXACT_SCOPED_RECOVERY"
+        },
+        {
+          "source_id": "E42",
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+          "byte_count": 31482,
+          "line_count": 149,
+          "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+          "worktree_content_blob_oid": "f0f9557a65b075016a229b764d9385835cde666a",
+          "inspected_scope": "Fresh whole149-line fifteen-object current accepted analytical checkpoint4e61bb. Full night/next-afternoon local order and all afterstories, Noa privacy confiscation, adult caught/possible discomfort apology, actual games/countdown/cleanup/sleep, Yuuka drink-instead disclosure objection, unpleasant burden, one-sided game apology, declared local maintenance and ongoing forced filing retained. Whole meaning not whole primary; producer admission text qualified by Cycle008.",
+          "receiving_records": "4e61bb",
+          "custody_credit": "PERSONALLY_COMPLETE_CURRENT_PARTY_AND_AFTERSTORIES_ARGUMENT"
+        },
+        {
+          "source_id": "M02",
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "byte_count": 33564,
+          "line_count": 257,
+          "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+          "worktree_content_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+          "inspected_scope": "Fresh whole257-line contextual argument27fd0c(1–135)/971197(136–257EOF), with all relevant public/private comparisons and original source-status/provenance bounds. Whole arc mean argument is not primary replay, familycounts not new admissions; modernCycle008 supersedes earlier queue statements. No borrowing peers feats or automatic eventchronology.",
+          "receiving_records": [
+            "27fd0c",
+            "971197"
+          ],
+          "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_PAVANE_CONTEXTUAL_ARGUMENT"
+        },
+        {
+          "source_id": "M21",
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md",
+          "byte_count": 23039,
+          "line_count": 137,
+          "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+          "worktree_content_blob_oid": "4328e26cd55fbdb65935615c27e85154f7c6867a",
+          "inspected_scope": "Fresh whole137-line checkpoint at0aa121. Genuine C&C assignment, Alice detaineddecoy and coalition tacticalforecast failures, Karin fire/Akaneescape/Asunaintervention/Yuukareserves, withdrawal/report, Nerutest, repaired-body appraisal/accident report and temporaryprize outcomes retained. Historicalcbe3fd producerpin not recertifiedmodern primary; no licensed detention/noharm/fulllegalrepair invented.",
+          "receiving_records": [
+            "0aa121"
+          ],
+          "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_PAVANE_C001_ARGUMENT"
+        },
+        {
+          "source_id": "M22",
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+          "byte_count": 22309,
+          "line_count": 125,
+          "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+          "worktree_content_blob_oid": "edc03f8b5d5c71d7c4914187845a20b6e0941376",
+          "inspected_scope": "Fresh whole125-line checkpoint300ee6. Distributed12–25 coalitionauthors, elevator21 enactment and exactAkane correction ofRio soleSenseiattribution atphysicalL44 freshly verified4808c7, consequential sourcefirewall79–103 at8e9651. Alice socialreturn/Nerudischarge/Toki uneasytolerance/Rio resignationapologydisappearance distinct from clearedcombat/fullforgiveness/accountability. Historicalcbe3fd producerpin retained, no newprimary technicaloutcomeproof.",
+          "receiving_records": [
+            "300ee6",
+            "8e9651",
+            "4808c7"
+          ],
+          "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_PAVANE_C002_ARGUMENT"
+        },
+        {
+          "source_id": "F36",
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md",
+          "byte_count": 5094,
+          "line_count": 37,
+          "sha256": "7dab6902dd3e5cb85aac4039e6b19b48bd2787fcb55e96b466337d9614096fdc",
+          "worktree_content_blob_oid": "df701927f406b5fd456529fe0ae0472db68680f7",
+          "inspected_scope": "Fresh whole37-line accepted analytical episode argumentbe3a24. Units14–47 preserve Yuuka concern for Alice/Rio absence, Noa reported decision to send Alice/GDD to ship because Rio likely has greater Millennium control, competing safety rankings and self-address actor drift37/45. Not inspected surveillance, guaranteed safety, independent mechanism or universal fine actor repair.",
+          "receiving_records": "be3a24",
+          "custody_credit": "PERSONALLY_COMPLETE_CURRENT_FINAL_SAFETY_EPISODE_ARGUMENT"
+        },
+        {
+          "source_id": "E17",
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+          "byte_count": 15844,
+          "line_count": 99,
+          "sha256": "4bbb3e21eb2959d3a06f1f0fb4b66111017a6d7e113283d7b32f7dd66aee852e",
+          "worktree_content_blob_oid": "779b22f9d700bbcfe2e8aa38e628217ed9891858",
+          "inspected_scope": "Fresh whole99-line current accepted comparison39e06b. All eleven literary meanings including tired opening, participant reluctance, revised flexible offers, unknown opponents motivations and correction of false exception, unfinished consultation/data/security tails. Producer actor/177 seam inventories attributed, not re-performed; no entire EVENT817 primary credit.",
+          "receiving_records": "39e06b",
+          "custody_credit": "PERSONALLY_COMPLETE_CURRENT_FESTIVAL_COMPARISON_ARGUMENT"
+        },
+        {
+          "source_id": "N01",
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_NOA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "byte_count": 51299,
+          "line_count": 1088,
+          "sha256": "790bb58c59b7821a56b6ac5963135d04539f0f2c77bdd5189dfdd40ddcb4e480",
+          "worktree_content_blob_oid": "81f05eb5e25d3df1ca1650812b93442f56eee921",
+          "inspected_scope": "Personally complete declared adoption/substantive/structured-control scope137–1088EOF:3358db137–451/795521452–743/c2c8f4744–1088. All eight complete BOND/whole-Momo pair meanings, four written objects, actual and failed codas, contrary replies, options and producer custody. Metadata1–136 not claimed fresh whole literary receiving. Historical status fields qualified by current Cycle008.",
+          "receiving_records": "3358db/795521/c2c8f4",
+          "custody_credit": "PERSONALLY_COMPLETE_DECLARED_PRIVATE_ARGUMENT"
+        }
+      ],
+      "current_additional_receiving": {
+        "architecture": "Full current L322–367, including relationship7.2 L346–355; scoped control, not whole851-line reading",
+        "G31": "Complete consequential L106–144; prior whole226-line analytical custody reused",
+        "E842": "Complete consequential L77–105 and L105–149; prior whole149-line analytical custody reused",
+        "Yuuka": "Matched substantive paragraphs/current headings through EOF, with clipped L95–105 fully recovered; not fresh full341-line literary custody",
+        "Final_C003_E006": "Whole37-line small accepted analytical owner through EOF; prior own completebe3a24 also retained",
+        "draft": "Whole final163-line saved argument received through EOF previously in this continuous turn; fresh routing projection60494e; repeated clipped output adds no reading credit",
+        "ROOT_receipt": "Complete current eight-input/98-join JSON through EOF in prior continuous spans",
+        "unretained_fresh_chunk_ids": "Current source tool texts were actually emitted, but chunk IDs were not preserved for those bounded reads; no invented IDs asserted",
+        "original_primary_or_raw": "NONE"
+      },
+      "claims": [
+        {
+          "claim_id": "C01",
+          "saved_body_lines": [
+            22,
+            24,
+            26,
+            32,
+            34,
+            38,
+            40
+          ],
+          "source_locators": [
+            "G31 §§4/7",
+            "E842 L89/105/107",
+            "Noa §§1/3/5",
+            "Yuuka §§1/3/5"
+          ],
+          "reviewed_argument": "Two self-directed people want company; affection and help coexist with recipient-specific limits.",
+          "necessary_limit": "Clean acts/self-reports plus bounded cross-context interpretation; no uniform dyadic intention.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "0d29d19b0e12b3f603913ad4c42d34d46696205d7ce82ca56da16806907d202f",
+            "caee3244ccd842b19892a771cfc49be9d5cee35decc1517efe5ff1c05c29861e",
+            "53e1d9a45b301885c7cde3c5d609979bb1c01992fd6d3593b4eb0f272103b2c3",
+            "19f9f44da73743d701848472b5d7e15c0196687763695636d60213fdd79325fa",
+            "66ad5a22eaf7db638e64a9f3a88bd45732222a387c7087009021ac33a83a5dbf",
+            "e2da58c0d1c1d9a33dc3ac515fc62c3dc049e64e707804147dc4110461539d68",
+            "f27bae03620f578ba30b0463716ed25a80eaa0b91a77e1bee33ea2270b3af605"
+          ]
+        },
+        {
+          "claim_id": "C02",
+          "saved_body_lines": [
+            44,
+            46,
+            48
+          ],
+          "source_locators": [
+            "G31 local reconstruction",
+            "E842 L77",
+            "Yuuka §§2/6/11",
+            "Noa §§2/6/11"
+          ],
+          "reviewed_argument": "Local sequences and revisiting afterstories are retained without an absolute MAIN/private/event ladder.",
+          "necessary_limit": "No global calendar or variant ranking.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "b5d78de0a13b761cc94224e01b844286623f4ceeae6e6cf8a51833f9721216c5",
+            "ca9bef0ae361f68c0a8885731259e627cbcc722995e2c9f7dfc16ce75a0a4d76",
+            "d96082982f0332edecc7a2e0352ca591792099e072d150d07c6d7b4077312a77"
+          ]
+        },
+        {
+          "claim_id": "C03",
+          "saved_body_lines": [
+            52,
+            54
+          ],
+          "source_locators": [
+            "G31 L110–116/G3102u0012–0050"
+          ],
+          "reviewed_argument": "Budget uncertainty and curiosity are both substantive; corrected report concerns Veritas and individual Himari funding.",
+          "necessary_limit": "Noa reports, not inspected charter or Rio instruction; Yuuka L97 pre-erratum wording not adopted.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "71f66d075856dcb805e9042f61d1cb1c485f419d01c13d5060517bd2174da3ab",
+            "9db0316f63913a19e8def16143b3b3ef9d486a1f27e294b8893a39f76e7edee8"
+          ]
+        },
+        {
+          "claim_id": "C04",
+          "saved_body_lines": [
+            56,
+            58
+          ],
+          "source_locators": [
+            "G31 L122/126/138–140"
+          ],
+          "reviewed_argument": "Actual build/help and gratitude; requested numeric forecast absent; favorable financial coda retained.",
+          "necessary_limit": "Hedged narration not calibrated prediction, account inspection, ruin, or universal reliability.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "59472241864c67b22b5a5441137efa40aed4be1c16c881de47eafcc4206b7d9f",
+            "26da43911908e4b086566e26aa0ab6aa05b8404c9352a8c9fd1097d491db9358"
+          ]
+        },
+        {
+          "claim_id": "C05",
+          "saved_body_lines": [
+            62,
+            64,
+            66,
+            68
+          ],
+          "source_locators": [
+            "G31 L134/G3103u0063–0077",
+            "E842 L99/105/107",
+            "Noa §§1/3/5"
+          ],
+          "reviewed_argument": "Qualified suspicion and an unoffered warning differ from full foreknowledge; memory differs from knowing feelings.",
+          "necessary_limit": "Sensei-specific apology/unknown feeling only contextual to Yuuka, not an apology to her.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "a19ae175b3ad7aa0d2d3e7830fc1f45913ea27ed74c01a68a7fb4c8655b8763a",
+            "571b09b372b18ac1a558f79218dc83f2e50ad81381d452a864dffdae680c64c0",
+            "c1c359f58cc67807c037dc2b643a697e3d5d1fb28a369f64927b135fafb358e8",
+            "e40d6501e04f0a320c4d7848c26916d46636fcb8b156efc60d11a8398d18c175"
+          ]
+        },
+        {
+          "claim_id": "C06",
+          "saved_body_lines": [
+            72,
+            74,
+            76,
+            78
+          ],
+          "source_locators": [
+            "E842 L91/117/119"
+          ],
+          "reviewed_argument": "Privacy intervention, reluctantly accepted game, refused public answer, chosen unpleasant drink and repeated burden all retained.",
+          "necessary_limit": "No toxicity audit, diagnosis, full confession, unrestricted assent, or repair.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "617e638ef0935115c38a5442380deb79a39d68cf72af84dea03c16be7f7e34da",
+            "0e013fe054c8a7f63dd37fffaf2b5676d74722674f73feb9beed8a23a551eec6",
+            "16734b7b5b16627f3d7537bd2cbcbad082be5c3e1fa2b4e0ec3aad9653a8a4f2",
+            "e6dfb501267dbd2d5f42b18a39a99c3ae69974699322b9aacef1909e05cfcff9"
+          ]
+        },
+        {
+          "claim_id": "C07",
+          "saved_body_lines": [
+            80,
+            104,
+            106
+          ],
+          "source_locators": [
+            "G31 §3/G3103u0021–0024",
+            "Yuuka L175"
+          ],
+          "reviewed_argument": "Prompted question is qualified Noa attribution; clean Yuuka objection and interpreted nonanswer stay separate.",
+          "necessary_limit": "Sensei absent; no performance, reciprocation, or broad raw normalization.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "1556088fa00169e9da57b55a56450fbdc82bd8977af6c8b6868b7e718c8fee7b",
+            "d5ceb7627cf87d3693c7f0ec80858b8adc3d3a4b1c03a7a0a866b505e3d25695",
+            "a5be290f13be5b52f33a1fe38f05bd3de0984b37e83cc78102af26ba434f1aba"
+          ]
+        },
+        {
+          "claim_id": "C08",
+          "saved_body_lines": [
+            84,
+            86,
+            88
+          ],
+          "source_locators": [
+            "E842 L89/97/105/111/113"
+          ],
+          "reviewed_argument": "Pajama gift/party/play and local game choice/apology remain positive ordinary ends.",
+          "necessary_limit": "Koyuki/Maki/Chihiro recipients independent; apology to one audience not automatic Yuuka repair.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "9c49ba8171f132a4cfeb6de65b6c17afac2d32e995fe3e4081b6e95d4a67e29b",
+            "22d8f75f06bc2c794c5cca9f0db502fb6a85ad81f4971ee7de228ab5a34e42c6",
+            "c702783e8612523c9cce26aa465b1f75080a916f3ce03219e98beb0538ac56e9"
+          ]
+        },
+        {
+          "claim_id": "C09",
+          "saved_body_lines": [
+            90
+          ],
+          "source_locators": [
+            "Yuuka L149/175/211",
+            "Noa §§2/5/8/9",
+            "prior E17 whole accepted comparison"
+          ],
+          "reviewed_argument": "Sports comparison remains inherited qualified character meaning; wanted dance not performed.",
+          "necessary_limit": "No fresh whole sports primary/raw/performance or disclosed memorandum/confession.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "9d95084947786fef84e105e74fa2e77644b7d0c957c6b5525998421da696da1d"
+          ]
+        },
+        {
+          "claim_id": "C10",
+          "saved_body_lines": [
+            94,
+            98
+          ],
+          "source_locators": [
+            "Yuuka L51/53/141/173",
+            "prior M02/M21/M22 whole accepted arguments"
+          ],
+          "reviewed_argument": "Joint Eridu inquiry and Yuuka extension beyond coordinates have real public value.",
+          "necessary_limit": "Distributed Alice/C&C/Engineering/Eimi/Himari agency; no pair-only rescue or completed audit.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "4543391b65285768d43fa5512cfd0845c893526466a11a94b5099201f40bc7ad",
+            "2fcfd0c04e24d513cf46fa7bdfb1627d859501673e0623b6f30dd9fdbe6e8bd2"
+          ]
+        },
+        {
+          "claim_id": "C11",
+          "saved_body_lines": [
+            96
+          ],
+          "source_locators": [
+            "Final C003E006 complete L1–37/u0014–0047"
+          ],
+          "reviewed_argument": "Competing Alice safety judgments remain actor reasoning under uncertainty.",
+          "necessary_limit": "u0037/u0045 self-address drift; no tested surveillance mechanism or guaranteed safe ship.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "261d9dc6ce41af5b0bf937f8644524f6eaeb1d86f76691cb44c68078bac0323b"
+          ]
+        },
+        {
+          "claim_id": "C12",
+          "saved_body_lines": [
+            100
+          ],
+          "source_locators": [
+            "E842 L109/E010u0072–0088",
+            "Yuuka L87/117/161"
+          ],
+          "reviewed_argument": "Yuuka has pressuring acts toward other recipients and unfinished imposed filing.",
+          "necessary_limit": "Purpose not assent; no completed filing, compensation, or universal innocence.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "dbf59a6e4c4052f3bd976786b645ed8fd54d10f391afc43ca9dc410bfbb6cf17"
+          ]
+        },
+        {
+          "claim_id": "C13",
+          "saved_body_lines": [
+            104,
+            106,
+            108,
+            110
+          ],
+          "source_locators": [
+            "G31 §§2/3/8",
+            "E842 L123–126",
+            "qualified accepted character language sections"
+          ],
+          "reviewed_argument": "Affection/nonwarning wording, narrator/report/choice/inward distinctions and actor seams materially constrain interpretation.",
+          "necessary_limit": "No performed tone, diagnostic trait, universal memory, or silent actor repair.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "d5ceb7627cf87d3693c7f0ec80858b8adc3d3a4b1c03a7a0a866b505e3d25695",
+            "a5be290f13be5b52f33a1fe38f05bd3de0984b37e83cc78102af26ba434f1aba",
+            "154b8b320f40ec865dc430f00a2c6f4d86630f07485b190ef3e7dbf4d86a0fda",
+            "87a962f2429990ee0bb175c8fb41ae24d4fc0f2bbff4a70db9ff5631771b94e2"
+          ]
+        },
+        {
+          "claim_id": "C14",
+          "saved_body_lines": [
+            116,
+            120,
+            124,
+            128
+          ],
+          "source_locators": [
+            "G31 positive/contrary/coda",
+            "E842 local choice/apology/aftermath"
+          ],
+          "reviewed_argument": "Four serious rivals are tested against positive and adverse endings rather than dismissed by genre or popularity.",
+          "necessary_limit": "No accepted model mechanism, invariant intention, romance, or completed repair.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "56323f1f475c4038d4b0663eedcceaed378693e3e9e6b0aa921b05c50cb14ae0",
+            "8a23a5fe11c35a3771f5259434ce89a7c6c76e60a0c392b4fec820a0845caddf",
+            "a4741269b5f7510c2fbb6c7f43adada7f248cb00fe53496d463415a8d637ed4f",
+            "b5fd676292b18df5c0cb8b4d6bfb67daa9263f72a783f740b7793de81abe3386"
+          ]
+        },
+        {
+          "claim_id": "C15",
+          "saved_body_lines": [
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147
+          ],
+          "source_locators": [
+            "inherited14 gap controls",
+            "Noa prior source receipt all_fourteen_gaps"
+          ],
+          "reviewed_argument": "All fourteen gaps OPEN with claim-specific effects and other required owners visible.",
+          "necessary_limit": "No whole-cast, cross-school, authority, attribution, source-mode or performance closure.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "225630dd64411daa8fe181fb67ac26b5ab44e118c2931edbe8708d2b0c26d06f",
+            "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "3b71e9d78d22602fee241dacab96511c7cc09a8336fdb0bb7232de1be83ce4b3",
+            "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+            "192144ead2978f8f70afdb240f76e8031027eeaa2d66c0eddcb8e78574a898d9",
+            "dd78c2d45993479fc0c5153485427060dc9b1dc4819a3261888dc832b2397b05",
+            "55cbc10897518c126a7cddb5d17c09e5e351316a292f71b0f1117d3251ac3772",
+            "5ae2cb65802d63f9f189fb58b8ee10bd7415268a67d7d176718f6bb54524eb71",
+            "5675a7dddc735e97fea5e1aa62ab0422ed79ee39ad7ad6dc9ddb07ce096e11e9",
+            "58d3f1e952fa22fc02d66750979a47f9bfb4b7c667822dabf005edd86e556ff0",
+            "5ed105976b9f6df2959c32b333a207da68b1b4dfedc20712c76f0753883c3daf",
+            "7f43dc43532abc295004b550a0fb4911b892f89e38025b010c287f7f9d3173e8",
+            "faebb0ffbeb83d3f3263a1a749d9b3b4d30c9433e44675cdc117a604eea494c0",
+            "cfc1d7219a4ca64dd17923ce016d0c98cb7e6992df4f23a2dc358a1cbc321943",
+            "28d8ca7796098cb9ac32c21f121f0e678a5c051c8d086c2fd59a324375f7a0a7",
+            "4da2017ca872bdab1d2b1c367883ddb9611df06f4b392cd914abb5fcdb45c9f4",
+            "f88d14322e6b0f7c459077afa2a32986725b0b63eb7e8266f3176f23e5c0c455",
+            "00210a9601e126be4ae50769727c77094241f8465220ae39872f6afbe3fd048d"
+          ]
+        },
+        {
+          "claim_id": "C16",
+          "saved_body_lines": [
+            151,
+            153,
+            155,
+            157
+          ],
+          "source_locators": [
+            "eight exact inputs",
+            "required V3 existing home",
+            "ROOT full meaning custody separately attributed"
+          ],
+          "reviewed_argument": "Complete bounded argument proposed for one already required home, not reverse-direction or institution multiplication.",
+          "necessary_limit": "ROOT acceptance/canonical persistence/progress remains pending at review.",
+          "decision": "SUPPORTED_WITH_STATED_LIMITS",
+          "saved_line_hashes": [
+            "e694f168673d00fd7172473565efeb5444d78786571a1041f71e54d7988e0d2a",
+            "df9f3582275111d223f69aa4aacb76c45c580281919762c693e2b082538baaa4",
+            "5cea988a7fbe02d58c9424ac6758fbe5e760ef86bead9e79f2d9ed82bd012392",
+            "c85cc7cbcb4d7d33902a71b9962708bf20b7c7d8cd1b8ad3900ee0bd7fbb70ac"
+          ]
+        }
+      ],
+      "complete_saved_projection": {
+        "nonempty_lines": 98,
+        "all_text_joins": "PASS",
+        "all_line_sha256_joins": "PASS",
+        "full_body_sha256": "c2e712c38ad115e9bcc6104207caba6c5b3f635713d4fd0c28fb0adcac30e73f",
+        "eleven_sections": 11,
+        "sections_not_completion_proof": true
+      },
+      "relative_link_verification": [
+        {
+          "reference": "g31",
+          "target_from_canonical_containing_file": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+          "resolution": "EXISTING_REPOSITORY_HOME",
+          "binding": {
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+            "byte_count": 40956,
+            "line_count": 226,
+            "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+            "actual_byte_blob_oid": "5bcbef776c36b70da61c168eebbc861ddda01cb6"
+          }
+        },
+        {
+          "reference": "e842",
+          "target_from_canonical_containing_file": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+          "resolution": "EXISTING_REPOSITORY_HOME",
+          "binding": {
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+            "byte_count": 31482,
+            "line_count": 149,
+            "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+            "actual_byte_blob_oid": "f0f9557a65b075016a229b764d9385835cde666a"
+          }
+        },
+        {
+          "reference": "yuuka",
+          "target_from_canonical_containing_file": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md",
+          "resolution": "EXISTING_REPOSITORY_HOME",
+          "binding": {
+            "repository_relative_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md",
+            "byte_count": 68567,
+            "line_count": 341,
+            "sha256": "e9a1629f7bef0dab6049b8464740904fe2dbe74af140f5f9dc9cba1cfaf8e741",
+            "actual_byte_blob_oid": "5a14b7752cb17e6f776e55c9a5cf1b2f7d585982"
+          }
+        },
+        {
+          "reference": "noa",
+          "target_from_canonical_containing_file": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+          "resolution": "REVIEWED_V6_CANONICAL_CANDIDATE_PENDING_ROOT_INSTALLATION",
+          "binding": {
+            "working_artifact_relative_path": "ROOT_ACCEPTED_CONTINUATION_ADOPTION_PREPARATION_V6/candidate/series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+            "byte_count": 41281,
+            "line_count": 165,
+            "sha256": "e3b6e71510497bd00dcd5312875e16b34bece10de19348ab393ec8b914405bd3",
+            "actual_byte_blob_oid": "3a72feb7616e83cf1fecaa43c850e41cf0e713e2"
+          }
+        },
+        {
+          "reference": "safety",
+          "target_from_canonical_containing_file": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md",
+          "resolution": "EXISTING_REPOSITORY_HOME",
+          "binding": {
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md",
+            "byte_count": 5094,
+            "line_count": 37,
+            "sha256": "7dab6902dd3e5cb85aac4039e6b19b48bd2787fcb55e96b466337d9614096fdc",
+            "actual_byte_blob_oid": "df701927f406b5fd456529fe0ae0472db68680f7"
+          }
+        }
+      ],
+      "all14_gaps": [
+        {
+          "gap": "G01",
+          "state": "OPEN",
+          "body_line": 134,
+          "claim_specific_effect_preserved": true
+        },
+        {
+          "gap": "G02",
+          "state": "OPEN",
+          "body_line": 135,
+          "claim_specific_effect_preserved": true
+        },
+        {
+          "gap": "G03",
+          "state": "OPEN",
+          "body_line": 136,
+          "claim_specific_effect_preserved": true
+        },
+        {
+          "gap": "G04",
+          "state": "OPEN",
+          "body_line": 137,
+          "claim_specific_effect_preserved": true
+        },
+        {
+          "gap": "G05",
+          "state": "OPEN",
+          "body_line": 138,
+          "claim_specific_effect_preserved": true
+        },
+        {
+          "gap": "G06",
+          "state": "OPEN",
+          "body_line": 139,
+          "claim_specific_effect_preserved": true
+        },
+        {
+          "gap": "G07",
+          "state": "OPEN",
+          "body_line": 140,
+          "claim_specific_effect_preserved": true
+        },
+        {
+          "gap": "G08",
+          "state": "OPEN",
+          "body_line": 141,
+          "claim_specific_effect_preserved": true
+        },
+        {
+          "gap": "G09",
+          "state": "OPEN",
+          "body_line": 142,
+          "claim_specific_effect_preserved": true
+        },
+        {
+          "gap": "G10",
+          "state": "OPEN",
+          "body_line": 143,
+          "claim_specific_effect_preserved": true
+        },
+        {
+          "gap": "G11",
+          "state": "OPEN",
+          "body_line": 144,
+          "claim_specific_effect_preserved": true
+        },
+        {
+          "gap": "G12",
+          "state": "OPEN",
+          "body_line": 145,
+          "claim_specific_effect_preserved": true
+        },
+        {
+          "gap": "G13",
+          "state": "OPEN",
+          "body_line": 146,
+          "claim_specific_effect_preserved": true
+        },
+        {
+          "gap": "G14",
+          "state": "OPEN",
+          "body_line": 147,
+          "claim_specific_effect_preserved": true
+        }
+      ],
+      "review_body": {
+        "working_artifact_relative_path": "INDEPENDENT_NOA_YUUKA_RELATIONSHIP_REVIEW_V1/INDEPENDENT_NOA_YUUKA_COMPLETE_LITERARY_REVIEW_V1.md",
+        "byte_count": 15030,
+        "line_count": 73,
+        "sha256": "496a753f4f24934afc4a601d084057e563e0957f13a88db1ef8d04f8991acd11",
+        "actual_byte_blob_oid": "d140dfbeae57ede6e5b896a23c83c10e19af1a2d"
+      },
+      "custody": {
+        "reviewer": "phase3_scope_readiness",
+        "source_author_distinctness": "This is a distinct review of ROOT authored synthesis, not a certification of independence among historical primary producers",
+        "ROOT_acceptance": "PENDING",
+        "canonical_installation": "PENDING_ROOT_ONLY",
+        "new_primary_credit": 0,
+        "new_raw_credit": 0,
+        "new_performed_credit": 0,
+        "models_or_predictions_added": 0,
+        "denominator_entries_added": 0,
+        "completion_credit_added": 0,
+        "named_section_credit_added": 0,
+        "required_packages": 355,
+        "mandatory_named_sections": 29,
+        "home_objects": 384,
+        "scope_change": false,
+        "quarter_claimed": false,
+        "main_integration_claimed": false,
+        "R_or_global_or_Git_or_provider_writes": 0,
+        "unbound_large_reads_or_hashes": 0,
+        "external_handoff": false,
+        "V6_adoption_candidate": "PRESERVED_IMMUTABLE; helper inventory issue ROOT will address in separate execution derivative"
+      }
+    },
+    "INDEPENDENT_NOA_YUUKA_COMPLETE_LITERARY_REVIEW_V1.md": "# Independent literary review — Noa and Yuuka\n\n## Decision and exact object\n\n**Proposed decision: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS.** The current 163-line, 31,039-byte draft supplies a sustained directed relationship argument for the already required home `P3-REL-NOA-YUUKA-PRIVACY-MEMORY-COMPANY`. Its SHA256 is `c2e712c38ad115e9bcc6104207caba6c5b3f635713d4fd0c28fb0adcac30e73f`. I found no unresolved substantive defect requiring a draft change. This is a proposal to ROOT after complete literary receiving and exact verification. ROOT acceptance, canonical installation and completion credit remain pending; the authoring or review of this file does not itself increment progress.\n\nThis review concerns the final saved argument and its complete source/saved-output receipt. The earlier one-sentence Yuuka funding-report erratum is already handled correctly in the relationship draft; its source meaning is evaluated here without changing the published pre-erratum Yuuka body or any frozen author object. The separate fifteen-character V6 adoption package remains immutable and independently reviewable.\n\n## 1. Why this is a distinct required relationship package\n\nThe draft’s thesis is more specific than familiar colleagues teasing each other. Shared work, affectionate address and wanted company make selective disclosure ethically consequential because the partner pressing a boundary is also a valued helper. The unoffered warning and public drink-or-disclose burden are not merely parallel personality examples. They test what one participant owes the other, what gratitude licenses, who decides an audience, and who pays for withholding. The final comparison sustains this problem across work, games, ordinary company and different crisis judgments.\n\nThe two directions are actually developed. Noa toward Yuuka includes express affection, indispensable work, procedural and cost objections, qualified suspicion, the choice not to volunteer it, room teasing and a later private question. Yuuka toward Noa includes asking for support, accepting help, thanking her, choosing a costly project, wanting a party, protecting her room, demanding an explanation and refusing a public answer. These are not inferred from pair frequency. They are directed actions with different knowledge, costs and recipients. A single required package can own both directions without inventing a second denominator entry.\n\nArchitecture §7.2 requires narrative significance; it does not make a bundle name, a machine rank or co-occurrence count sufficient. The draft meets that significance requirement with consequential changes in reciprocal help, information and privacy. Its eleven sections provide useful mature structure, but their count is not the acceptance argument. The meaningful scope is one dyadic question; full Seminar authority and wider Veritas or Sensei relationships retain separate owners.\n\n## 2. Ordinary lives are intrinsic evidence\n\nThe opening comparison gives Noa a chosen diary, sparse room, poems, coffee, reading, sensory comfort and wanted remembered company. It distinguishes hesitation about fixing a loved-poem preference from authoring poetry elsewhere. This preserves selective expression without turning all inscription into one behavior or treating a private diary as proof of hypocrisy. Yuuka’s mathematics, games, gifts, rest and possible home are also positive wants. They make her withholding a protected life, not an empty delay before an assumed romance revelation.\n\nThe party’s gifts, snacks, borrowed games and group enjoyment remain actual positive ends. Koyuki’s acceptance and wearing of the selected pajamas is not discarded because she is also constrained. Maki’s decision that one proposed game is too simple, Koyuki’s proposed change, Chihiro’s initially declined participation and subsequent enjoyment, and Noa’s local apology leave peers with their own preferences. None must serve only as proof that the central pair is kind or unkind. This protects low-stakes character evidence exactly where it could otherwise be overwhelmed by the privacy argument.\n\n## 3. Shared making and the full financial ending\n\nThe construction account retains both participants’ reasons. Noa defends open-ended research while raising procedures, guarantees and several clubs’ quarterly costs. Yuuka recognizes possible future value but emphasizes a known budget, then changes her standard under Himari’s prestige and personal financial hope. Curiosity, institutional aspiration, pleasure and personal expense coexist. The completed device and Yuuka’s explicit thanks support genuine assistance; they do not grant moral immunity to the subsequent information practice.\n\nThe source correction is exact: GROUP3102u0035–0038, accepted G31 L114, says Noa reports that Veritas is not formally recognized and that Rio said not to fund Himari individually. The relationship draft L54 uses that meaning and explicitly retains report status. It does not adopt the published Yuuka L97 subject shift concerning Himari recognizing a design or the absence of a funding instruction. No inspected charter or order is invented.\n\nThe ending is complete enough to test the thesis: a requested rare-metal price forecast instead produces a birthday/Pisces horoscope and lucky titanium; narration says Yuuka pays personally and that a titanium futures rise apparently resolves her finances. The favorable hedge matters. Omitting it would wrongly manufacture total ruin; treating it as validation would manufacture a reliable forecaster. The draft preserves both the actual mismatch and the favorable coda, so criticism of the decision procedure does not erase pleasure, help or outcome.\n\n## 4. Qualified knowledge and recipient-specific privacy\n\nNoa’s suspicion is qualified and her nonwarning is real. Accepted G31 L134 supplies library loans, the likely playful-toy inference, her stated lack of certainty and `聞かれてませんし？`, followed by Yuuka’s anger. The draft does not replace those local facts with full foreknowledge or a planned deception. It also allows Yuuka’s prestige-based choice and personal-cost offer to remain her actions. This defeats an omniscient-controller reading without softening the actual information asymmetry.\n\nE842 supplies a deliberately serious contrary comparison. Noa confiscates a recorder to protect privacy; later she proposes Truth or Dare, Yuuka reluctantly accepts, objects to answering about Sensei before others, chooses the unpleasant drink and ends up consuming almost all the mixture. Noa’s own unflustered underwear answer cannot become a universal openness standard. Yuuka’s enjoyment of games cannot become assent to every private subject or fair burden. Her later sleep utterance retains the cost without inventing poisoning, clinical injury or treatment.\n\nThe argument also keeps its recipients straight. Noa’s admission that she cannot know Sensei’s feelings and her apology for possible discomfort establish a limit on mind-reading, but are not reallocated as an apology to Yuuka. The apology for a one-sided game answers those local recipients, not every chased person or the later disclosure burden. Continued play, cleanup and wanted peaceful days therefore supply continuity without completing repair. This is a substantive strength of the draft, not a remote disclaimer added after an otherwise totalizing claim.\n\n## 5. Public cooperation and independent peers\n\nPavane contributes real inquiry, Eridu location and continued intervention beyond a coordinates assignment. The draft lets that public usefulness count. It preserves Engineering, C&C, Eimi, Himari, Alice and other coalition actors as independently necessary rather than granting every rescue step to the pair. A successful interruption or rescue contribution is not an audited account of Rio’s spending, permanent safety or complete institutional legitimacy.\n\nFinal C003E006 is an actual disagreement in safety reasoning. Yuuka worries about Alice with Rio absent; Noa reports sending Alice and Game Development to the ship because Rio likely has more control inside Millennium. The complete accepted small episode argument supports the report and uncertainty, while u0037/u0045 self-address drift prevents clean quotation of every heading. The draft does not turn the report into inspected surveillance or guaranteed safety. This is enough to show different judgments within coordination.\n\nYuuka’s own pressuring acts remain consequential: the refused arithmetic drill, the profitable maid-work continuation proposal and next-afternoon compulsory filing involve different recipients. E842’s ending shows ongoing work and complaints, not completed filing, payment or universal assent. The draft consequently avoids giving privacy-holder status blanket innocence. Likewise, public competence does not excuse a private question, and a private objection does not erase crisis competence.\n\n## 6. Ordering, written language and actor bounds\n\nG31 has a local budget/design/build/output/conversation/coda sequence. Its separate Himari–Chihiro exchange gives reader-facing information and cannot be assigned as knowledge heard by Noa and Yuuka. The transferred book and recent award/fund crash do not produce an absolute calendar. E842’s appended E011–015 revisit party exchanges despite appearing after the next-afternoon scene. The draft correctly blocks an invented ordering in which the disclosure game follows the afternoon filing assignment.\n\nSports comparisons remain inherited complete character arguments with consequential actor seams; a borrowed-item prompt, denial and restricted memorandum do not securely disclose a confession or document contents. A wanted dance is not performed. Variants supply different contexts, not a compulsory maturity ladder. These limits are part of the actual argument rather than a justification for dropping ordinary scenes.\n\nThe use of `ユウカちゃん`, `大好き` and `聞かれてませんし？` is narrow and functional: familiar affection and a selective information explanation. GROUP3103u0021’s qualified Noa question is distinguished from clean Yuuka u0022–0023 and Noa’s u0024 interpretation. Sensei is absent in that group packet. Seven group seams and event-specific label, inward, alternative and narrator modes prevent universal actor normalization or performed-tone claims. The draft preserves this without abandoning clean gratitude, objections, build, gifts, refusal and narrated endpoints.\n\n## 7. Rival readings and open responsibilities\n\nFour rivals receive serious evidence before being constrained. Benevolent teasing has affection, enjoyment, help and apologies, yet cannot stand in for Yuuka’s objections and actual cost. Omniscient manipulation has observation and withholding, yet conflicts with express uncertainty, admitted limits and Yuuka’s own choices. Office roles organize work, yet cannot explain away poetry, rooms, company, gifts or games. Continued company is positive, yet cannot certify an apology, fair distribution, full consent or durable repair. The draft’s preferred reading explains these competing facts more completely than either an ideal partnership or an absolute controller/victim account.\n\nAll fourteen inherited gaps remain OPEN. Their effects are attached to claims: ordinary/private and cross-school breadth do not become complete through one dyad; council transfer and Seminar mechanisms retain institutional owners; Serika, Hina, Arius/PS68 and Hoshino/Yume receive no borrowed closure; local ordering and repeated events are not universal chronology; actor/choice distinctions and identity limits remain; performance is unreceived; charter/order, toxicity, durable safety, restitution and compensation are unproved; outside-selection and unclassified routes retain their revisit duties. The package can be complete as a bounded literary synthesis while these stronger or separately owned responsibilities remain unfinished.\n\n## 8. Complete receiving and exact verification\n\nI personally received the entire final 163-line draft through EOF in the prior uninterrupted receiving of this review turn, including all eleven sections, the complete fourteen-gap table and all five link definitions. The subsequent large repeated tool output clipped part of an already received paragraph; it adds no new whole-reading claim. Fresh route projection confirms saved paragraph locations. The complete ROOT source/saved receipt was personally received in its continuous two spans through EOF, including every eight-input field and all 98 nonempty saved-line projections.\n\nMy adequate prior source custody is independently declared in the frozen Noa author receipt: complete G31, complete fifteen-object E842 meaning, complete Pavane contextual/checkpoint arguments, complete relevant Final safety argument and the full declared private argument. I reused those accepted meanings instead of replaying primary. Fresh bounded checking in this review received consequential E842 L77–105 and L105–149, G31 L106–144, Yuuka’s relevant selected paragraphs and fully recovered L95–105, and the whole 37-line Final safety owner. The selected Yuuka paragraphs are not a claim that I freshly read all 341 lines; ROOT’s separately complete Yuuka custody remains attributed. The report correction is checked directly against G31 L114.\n\nExact verification passed all eight declared tuples: bytes, UTF-8 line counts and SHA256, with actual-byte Git blob IDs computed separately from commit metadata. The final body is 31,039 bytes/163 lines at the declared SHA; all 98 nonempty saved lines join exactly to their text and per-line hashes. The required-home projection equals the existing V3 object. Five relative link definitions resolve from the proposed canonical containing file; Noa’s public home currently resolves through the frozen reviewed V6 candidate pending installation. Exact bindings and source counts are not substitutes for the literary review above.\n\n## 9. Proposed disposition and custody boundary\n\nI recommend ROOT accept this complete bounded argument with its present limits. No draft change is requested. Publication preparation should retain the Yuuka erratum qualification, attributed old primary/raw custody, current Cycle008 admission and all fourteen OPEN gaps. Future source developments can revise the argument prospectively; they need not be fabricated to close the current named home.\n\nThis review is distinct receiving of ROOT’s relationship synthesis, not certification that historical primary producers were independent. It adds zero primary, raw or performed evidence, zero reconstruction or prediction, zero denominator entries, zero canonical persistence, and zero completion or quarter credit. The scope stays 355 required packages plus 29 mandatory named sections, 384 home objects in all. Those home-object counts must not be relabelled as 384 packages. ROOT remains sole integrator and acceptance authority.\n",
+    "INDEPENDENT_NOA_YUUKA_AUTHOR_FULL_READBACK_AND_FREEZE_RECEIPT_V1.json": {
+      "schema": "BLUE_ARCHIVE_PHASE3_INDEPENDENT_NOA_YUUKA_AUTHOR_FULL_READBACK_AND_FREEZE_V1",
+      "status": "PASS_COMPLETE_SAVED_REVIEW_RECEIVING_WITH_LIMITS",
+      "review_body_whole_receiving": "3ac32a whole73-line15,030-byte review through EOF, plus complete saved-output receipt40lines through EOF",
+      "structured_review_whole_receiving": [
+        "4c1254 rawcharacters0–18000",
+        "83aba9 rawcharacters18000–36714EOF"
+      ],
+      "outputs": [
+        {
+          "working_artifact_relative_path": "INDEPENDENT_NOA_YUUKA_RELATIONSHIP_REVIEW_V1/INDEPENDENT_NOA_YUUKA_COMPLETE_LITERARY_REVIEW_V1.md",
+          "byte_count": 15030,
+          "line_count": 73,
+          "sha256": "496a753f4f24934afc4a601d084057e563e0957f13a88db1ef8d04f8991acd11",
+          "actual_byte_blob_oid": "d140dfbeae57ede6e5b896a23c83c10e19af1a2d"
+        },
+        {
+          "working_artifact_relative_path": "INDEPENDENT_NOA_YUUKA_RELATIONSHIP_REVIEW_V1/INDEPENDENT_NOA_YUUKA_SOURCE_CLAIM_AND_EXACT_REVIEW_V1.json",
+          "byte_count": 36907,
+          "line_count": 776,
+          "sha256": "552309cc10b5da56ec89d50e321c831f37aa14dd7b52323a8e9c253986b7419c",
+          "actual_byte_blob_oid": "230f3f4ca243ea94e006e8600854ef69603cb00f"
+        },
+        {
+          "working_artifact_relative_path": "INDEPENDENT_NOA_YUUKA_RELATIONSHIP_REVIEW_V1/INDEPENDENT_NOA_YUUKA_SAVED_REVIEW_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 1844,
+          "line_count": 40,
+          "sha256": "7c2aa545c29cb411ff32964d1de1c93c7ecaedc2ec1622294ac080d8f1d3ae0d",
+          "actual_byte_blob_oid": "a88d67e6459462841edc17bf1f5cdefc4558000e"
+        }
+      ],
+      "candidate_original_unchanged": {
+        "working_artifact_relative_path": "ROOT_DIRECTED_RELATIONSHIP_MONOGRAPHS/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+        "byte_count": 31039,
+        "line_count": 163,
+        "sha256": "c2e712c38ad115e9bcc6104207caba6c5b3f635713d4fd0c28fb0adcac30e73f",
+        "actual_byte_blob_oid": "7ab2dbc371e9d1fd273bd4be91e321862fa73590"
+      },
+      "ROOT_source_receipt_unchanged": {
+        "working_artifact_relative_path": "ROOT_DIRECTED_RELATIONSHIP_MONOGRAPHS/NOA_YUUKA_RELATIONSHIP_SOURCE_AND_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 53993,
+        "line_count": 615,
+        "sha256": "b685e5898e0fca82f5b2d78ba5531d0aaf3d6932eaa1a9284f97058c55758ca0",
+        "actual_byte_blob_oid": "16c0a5fa56c71e2987d60c05c03dcec3bcbd65b7"
+      },
+      "sixteen_claims_all_saved_line_sha_joins": "PASS",
+      "saved_claim_line_joins": 63,
+      "all14gap_literal_rows": "PASS",
+      "V6_frozen_declared_seals_unchanged": [
+        {
+          "working_artifact_relative_path": "ROOT_ACCEPTED_CONTINUATION_ADOPTION_PREPARATION_V6/BLUE_ARCHIVE_FIFTEEN_CHARACTER_CANONICAL_ADOPTION_EXACT_PATH_MANIFEST_V1.json",
+          "byte_count": 246421,
+          "line_count": 3532,
+          "sha256": "457189d604331a907226b46cf21873fe3a8e128c5199c75842e4f237e5c85aa6",
+          "actual_byte_blob_oid": "e5f2311b6b590aa99262edaeeda161e1c0c27812"
+        },
+        {
+          "working_artifact_relative_path": "ROOT_ACCEPTED_CONTINUATION_ADOPTION_PREPARATION_V6/CANONICAL_ASSEMBLY_EXACT_SELF_REVIEW_V1.json",
+          "byte_count": 120947,
+          "line_count": 1986,
+          "sha256": "9e57950ed11edd1c6438201fbb0e5b033eab74ec960776493e776b9a6e7d4b43",
+          "actual_byte_blob_oid": "1dc8efc526ea8779f4316dfc188c47587e310881"
+        },
+        {
+          "working_artifact_relative_path": "ROOT_ACCEPTED_CONTINUATION_ADOPTION_PREPARATION_V6/FINAL_BUNDLE_FREEZE_AND_AUTHOR_REVIEW_RECEIPT_V1.json",
+          "byte_count": 96653,
+          "line_count": 1913,
+          "sha256": "65819616e7f65bbc26e8030c4298d630b2479653ad92f6bf8e88cd4221a48597",
+          "actual_byte_blob_oid": "10cf68509dea40eb5a611b9c9e4ce9f309261d68"
+        }
+      ],
+      "complete_argument_verdict": "PROPOSE_ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+      "exact_draft_changes_requested": [],
+      "ROOT_acceptance": "PENDING",
+      "progress_credit": 0,
+      "source_or_scope_or_denominator_credit": 0,
+      "R_or_Git_or_provider_or_global_writes": 0,
+      "unbound_large_reads_or_hashes": 0,
+      "public_safe": true
+    },
+    "INDEPENDENT_NOA_YUUKA_SAVED_REVIEW_OUTPUT_RECEIPT_V1.json": {
+      "schema": "BLUE_ARCHIVE_PHASE3_INDEPENDENT_NOA_YUUKA_SAVED_REVIEW_OUTPUT_V1",
+      "status": "EXACT_OUTPUT_BINDINGS_SAVED_AUTHOR_FULL_RECEIVING_PENDING",
+      "outputs": [
+        {
+          "working_artifact_relative_path": "INDEPENDENT_NOA_YUUKA_RELATIONSHIP_REVIEW_V1/INDEPENDENT_NOA_YUUKA_COMPLETE_LITERARY_REVIEW_V1.md",
+          "byte_count": 15030,
+          "line_count": 73,
+          "sha256": "496a753f4f24934afc4a601d084057e563e0957f13a88db1ef8d04f8991acd11",
+          "actual_byte_blob_oid": "d140dfbeae57ede6e5b896a23c83c10e19af1a2d"
+        },
+        {
+          "working_artifact_relative_path": "INDEPENDENT_NOA_YUUKA_RELATIONSHIP_REVIEW_V1/INDEPENDENT_NOA_YUUKA_SOURCE_CLAIM_AND_EXACT_REVIEW_V1.json",
+          "byte_count": 36907,
+          "line_count": 776,
+          "sha256": "552309cc10b5da56ec89d50e321c831f37aa14dd7b52323a8e9c253986b7419c",
+          "actual_byte_blob_oid": "230f3f4ca243ea94e006e8600854ef69603cb00f"
+        }
+      ],
+      "candidate": {
+        "working_artifact_relative_path": "ROOT_DIRECTED_RELATIONSHIP_MONOGRAPHS/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+        "byte_count": 31039,
+        "line_count": 163,
+        "sha256": "c2e712c38ad115e9bcc6104207caba6c5b3f635713d4fd0c28fb0adcac30e73f",
+        "actual_byte_blob_oid": "7ab2dbc371e9d1fd273bd4be91e321862fa73590"
+      },
+      "ROOT_receipt": {
+        "working_artifact_relative_path": "ROOT_DIRECTED_RELATIONSHIP_MONOGRAPHS/NOA_YUUKA_RELATIONSHIP_SOURCE_AND_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 53993,
+        "line_count": 615,
+        "sha256": "b685e5898e0fca82f5b2d78ba5531d0aaf3d6932eaa1a9284f97058c55758ca0",
+        "actual_byte_blob_oid": "16c0a5fa56c71e2987d60c05c03dcec3bcbd65b7"
+      },
+      "root_acceptance": "PENDING",
+      "progress_credit": 0,
+      "original_and_V6_bytes_modified": false,
+      "all_outputs_less_than_1MiB": true,
+      "UTF8_LF_noBOM_one_finalLF": true,
+      "no_public_absolute_machine_paths": true
+    }
+  },
+  "source_credit_rule": "Whole and bounded author/ROOT receiving is attributed exactly in preserved original records. Mechanical adoption adds zero new source receiving. Izumi retains one necessary partial canonical recovery u21–42/G9–11 with zero whole-primary credit; Iori retains two complete small written-source checks at their original declared bounds. No source custody is rewritten as zero merely because this assembler does not replay it."
+}

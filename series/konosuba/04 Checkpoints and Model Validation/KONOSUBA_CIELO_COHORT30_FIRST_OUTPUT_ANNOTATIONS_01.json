@@ -1,0 +1,150 @@
+{
+  "schema": "konosuba.cohort30.same-author-first-output-annotations.v1",
+  "subject": "Cielo",
+  "recorded_utc": "2026-10-24T05:24:45.244163+00:00",
+  "annotated_after_all24_body_freeze_sha256": "ca402376d1cb9db19faa7a8e5d77980ad53d660b290965ae65053920b8758464",
+  "first_output_aggregation_sha256": "0f37824da7c8148f4d622c2bcc391fc15125b7f4e6fe585e35f5406125037161",
+  "foundation_seal_sha256": "d732ece2042e585a2801246830d9ad875fbeb0070064068ed98a82f661ccef70",
+  "exact_input_freeze_sha256": "8eea093ea2e54917c2d33f9ee273aba7f66b7611be9c9c2cdaaa13fc3c00e0d7",
+  "same_informed_root_author": true,
+  "independent_judge": false,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "global_method_limits": [
+    "This same informed root authored source interpretation,models,exact prompts,original outputs andannotations;allcontrasts visible.",
+    "Strong cues,generic rivals and methodological English prose limit identification. No Japanese voice/audio/native-human assessment.",
+    "Internal reasoning phrases and boundary disclaimers are authorial exposition,not demonstrated source speech. Apparent consistency is not independent accuracy.",
+    "No prospective unread source,no blind holdout,no grade/confidence gain,no completed nine-category final battery.",
+    "All unsupported additions,overidealized choices and adverse overrides remain in immutable first bodies; no regeneration or feedback repair."
+  ],
+  "cases": [
+    {
+      "case_id": "CI-H01-A",
+      "raw_body_sha256": "5f94d288f4d6ec500566b077c6ef207997028d397ad0a3fbf3676159979b67f9",
+      "descriptive_receiving": "Offers readiness under the intact local fifty-layer condition, with no visitor movement or completed touch.",
+      "limits_and_unprovided_additions": "Local assent is not cure or general contact permission. The stimulus strongly cues a consent distinction rather than testing motor control.",
+      "word_count": 108,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "CI-H01-B",
+      "raw_body_sha256": "2e8364d4f99c9adaff1158f60e7b67280e69e306e0db849b5613c3924e8d2240",
+      "descriptive_receiving": "Refuses the changed bare-contact request while the visitor remains away; no assault or punch is invented.",
+      "limits_and_unprovided_additions": "This is not evidence the source trigger could never fire before touch. Current distance/no movement are key conditions; generic boundary assertion is a rival.",
+      "word_count": 109,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "CI-H02-A",
+      "raw_body_sha256": "ddccc8e763d1bd359004eab952c818bb55da73bc4c69b62454a258efd51956c7",
+      "descriptive_receiving": "Wants the slot for enjoyment and questions the sole-cure frame, without a booking or recovery result.",
+      "limits_and_unprovided_additions": "The explicit self-advocacy may be more articulate than source deference in comparable producer exchanges. Strong normative wording cannot establish stable autonomy or therapy knowledge.",
+      "word_count": 110,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "CI-H02-B",
+      "raw_body_sha256": "fe425cbe95134dfe92e5767c64bca5110422dc4c09d118ff21edbcb492f5c5da",
+      "descriptive_receiving": "Willingness, enjoyment and continuing difficulty coexist; outcome stops at discussion.",
+      "limits_and_unprovided_additions": "The speech assumes men at the next audience (men there), although the prompt provides no concrete audience composition. Retain this small unprovided scene assumption. Both variants want the slot; no historical growth mechanism isolated.",
+      "word_count": 110,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "CI-H03-A",
+      "raw_body_sha256": "48a054c47f60eb556a69a1b93fe621c7e9cd48b0d1cad543c34602384eed13a8",
+      "descriptive_receiving": "Accepts an invited light-carry role but awaits route information; no load moved or Lia reply invented.",
+      "limits_and_unprovided_additions": "This favors prudent coordination; exact safety competence beyond the stipulated role remains unknown and generic helper behavior fits.",
+      "word_count": 109,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "CI-H03-B",
+      "raw_body_sha256": "41110a7fb57e20481e1d373da684b70f57ee6382ee60be9e21753017fc57c664",
+      "descriptive_receiving": "Takes a step toward props despite explicit no; output names the override and supplies no later assent.",
+      "limits_and_unprovided_additions": "Spoken Being worried about me attributes a protective reason to Lia that was not supplied. Treat it as Cielo unverified interpretation, not objective motive. Caring does not repair the boundary override.",
+      "word_count": 112,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "CI-H04-A",
+      "raw_body_sha256": "ecb5e05455a6703e13306294171b5a5ee13aaf2c9a091d9590ce215179049bd2",
+      "descriptive_receiving": "Prepares her own side of a load without making Darkness lift or accepting an unwanted identity.",
+      "limits_and_unprovided_additions": "Generic coordination explains it. No actual carry tests strength, healing or response to unfamiliar work.",
+      "word_count": 110,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    },
+    {
+      "case_id": "CI-H04-B",
+      "raw_body_sha256": "c9806e9b78a1916635a016044fbec11f651488669ff6778c699b74dae04058cd",
+      "descriptive_receiving": "Objects to the explicitly repeated label while remaining ready to contribute; no apology supplied.",
+      "limits_and_unprovided_additions": "Direct prior rejection strongly cues protest. No independent gender/voice/competence inference; useful work and objection can coexist.",
+      "word_count": 112,
+      "word_range_met": true,
+      "word_compliance_not_behavioral_success": true,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null,
+      "repairs_or_regenerations": 0
+    }
+  ],
+  "paired_descriptive_findings": [
+    {
+      "pair_id": "CI-H01",
+      "finding": "Protected readiness versus refusal of a changed request, without actual touch in either. Strongly cued and no motor-control or treatment result."
+    },
+    {
+      "pair_id": "CI-H02",
+      "finding": "Both want performance, while A disputes instrumental framing. Not a test of the historical growth cause; articulate self-advocacy and B assumed male audience remain limits."
+    },
+    {
+      "pair_id": "CI-H03",
+      "finding": "Invitation produces scoped coordination; exclusion produces a step despite refusal. B unverified protective-motive attribution and actual override remain unrepaired."
+    },
+    {
+      "pair_id": "CI-H04",
+      "finding": "Both remain available for work; only B protests repeated unwanted label. Generic preference respect and explicit instruction cue the result; no strength trial."
+    }
+  ],
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "full_program_complete": false
+}

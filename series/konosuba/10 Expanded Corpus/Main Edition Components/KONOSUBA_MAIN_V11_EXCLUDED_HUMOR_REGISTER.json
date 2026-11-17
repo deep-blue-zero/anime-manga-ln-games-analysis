@@ -1,0 +1,392 @@
+{
+  "schema": "KONOSUBA_MAIN11_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-11",
+  "records": [
+    {
+      "id": "M11EX-H01",
+      "boundary": {
+        "component_id": "MAIN-11-U021",
+        "start_P": 3,
+        "end_P": 12
+      },
+      "whole_selected_premise": "Aqua requests a lip-reading demonstration, and the first noble supplies an ordinary concern about a missing favorite dish rather than a grand secret.",
+      "primary_L": "L0",
+      "L_rationale": "Curiosity and deflated expectations survive paraphrase; the exact food name remains a smaller wording choice.",
+      "primary_H": "H1",
+      "H_rationale": "The request and Kazuma's reported decoding are literal scene actions; the noble's words are accessed through his skill, not independent mind access.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H02",
+      "boundary": {
+        "component_id": "MAIN-11-U021",
+        "start_P": 13,
+        "end_P": 13
+      },
+      "whole_selected_premise": "Kazuma recalls mistaking women's laughter for attraction before discovering that their lip-read conversation disparaged him.",
+      "primary_L": "L0",
+      "L_rationale": "The self-favoring inference and contrary information are portable across wording.",
+      "primary_H": "H2",
+      "H_rationale": "The narrator emphasizes a punctured flattering interpretation; this is a reported previous event, not a newly witnessed independent encounter.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H03",
+      "boundary": {
+        "component_id": "MAIN-11-U021",
+        "start_P": 13,
+        "end_P": 14
+      },
+      "whole_selected_premise": "The recalled grievance becomes prolonged retaliation until a drink and roughly ten compliments are extracted.",
+      "primary_L": "L1",
+      "L_rationale": "Repeated ネチネチ and the approximate compliment tally help stage excessive insistence; the pressure mechanism is also portable.",
+      "primary_H": "H2",
+      "H_rationale": "The retrospective self-account amplifies persistence. Reported coercive pressure remains consequential rather than harmless because it is comic.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H04",
+      "boundary": {
+        "component_id": "MAIN-11-U021",
+        "start_P": 15,
+        "end_P": 23
+      },
+      "whole_selected_premise": "Aqua predicts petty illicit fun, but the two nobles' decoded exchange concerns secret dealings with Elroad's compromised minister and destroying evidence.",
+      "primary_L": "L0",
+      "L_rationale": "Mismatch between the guessed minor scheme and dangerous discovered stakes survives paraphrase.",
+      "primary_H": "H1",
+      "H_rationale": "The guess is spoken; its proposed underwear theft is not performed. The dangerous exchange is represented through Kazuma's decoding, with external verification separate.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H05",
+      "boundary": {
+        "component_id": "MAIN-11-U021",
+        "start_P": 21,
+        "end_P": 25
+      },
+      "whole_selected_premise": "Having heard dangerous information, Aqua disclaims seeing or hearing anything while proposing to notify Iris, Darkness or officials and stay personally uninvolved; Kazuma readily agrees.",
+      "primary_L": "L2",
+      "L_rationale": "The conventional disavowal and casual 告げ口 register contrast with a substantive report proposal.",
+      "primary_H": "H1",
+      "H_rationale": "Literal speech and agreement with an evasive pragmatic surface; no actual amnesia, completed report or solved conspiracy is supplied.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H06",
+      "boundary": {
+        "component_id": "MAIN-11-U021",
+        "start_P": 26,
+        "end_P": 32
+      },
+      "whole_selected_premise": "Kazuma vows to seal the dangerous skill, then immediately uses it again when irritated by a noble courting Darkness.",
+      "primary_L": "L0",
+      "L_rationale": "An immediate reversal under a changed attraction is portable.",
+      "primary_H": "H1",
+      "H_rationale": "The vow, irritation and renewed use are narrated actual decisions. Jealousy is an interpretation, and no completed romantic claim follows.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H07",
+      "boundary": {
+        "component_id": "MAIN-11-U021",
+        "start_P": 35,
+        "end_P": 38
+      },
+      "whole_selected_premise": "Courtly compliments invoke imposing fantasy flora and a Greater King Goblin, while the translator questions whether the grand language even flatters.",
+      "primary_L": "L2",
+      "L_rationale": "Cultivated reciprocal court register and its incongruous reference field carry the effect; exact invented names are local phrasing.",
+      "primary_H": "H1",
+      "H_rationale": "The speech is reported through Kazuma and his reaction. Courteous reciprocity is not consent to a marriage proposal or proof of private attraction.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H08",
+      "boundary": {
+        "component_id": "MAIN-11-U021",
+        "start_P": 35,
+        "end_P": 40
+      },
+      "whole_selected_premise": "Kazuma stops translating from embarrassment, and Aqua asks him to stop using the woman's register because the imitation is uncomfortable.",
+      "primary_L": "L2",
+      "L_rationale": "The comic conflict concerns who voices a courtly feminine register and how it is received.",
+      "primary_H": "H2",
+      "H_rationale": "Self-conscious embarrassment is emphasized; no acoustic performance or objective gender diagnosis is inferred.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H09",
+      "boundary": {
+        "component_id": "MAIN-11-U021",
+        "start_P": 41,
+        "end_P": 44
+      },
+      "whole_selected_premise": "Aqua publicly appoints herself interpreter and asks Kazuma to check only after she finishes, as spectators expect another of her tricks.",
+      "primary_L": "L0",
+      "L_rationale": "Unverified self-confidence, audience expectation and a delayed checking arrangement survive paraphrase.",
+      "primary_H": "H1",
+      "H_rationale": "The attempt is actual; established party-trick reputation does not independently establish this new lip-reading skill.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H10",
+      "boundary": {
+        "component_id": "MAIN-11-U021",
+        "start_P": 45,
+        "end_P": 47
+      },
+      "whole_selected_premise": "A marriage-topic transition is misread as a food word: ところで becomes ところ天.",
+      "primary_L": "L3",
+      "L_rationale": "The local Japanese input/output forms and lip-reading substitution are central; a generic mistranslation loses the particular joke.",
+      "primary_H": "H1",
+      "H_rationale": "Actual represented misreading in a public attempt. No universal inability or altered world mechanics is required.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H11",
+      "boundary": {
+        "component_id": "MAIN-11-U021",
+        "start_P": 49,
+        "end_P": 50
+      },
+      "whole_selected_premise": "The count's title/name is transformed into 透けパンツ好き, accidentally assigning a revealing-underwear preference within Darkness's formal reply.",
+      "primary_L": "L3",
+      "L_rationale": "ビフランツ伯 and the false parse supply a specific Japanese form-dependent collision, not perfect homophony.",
+      "primary_H": "H1",
+      "H_rationale": "The absurd output is Aqua's actual failed interpretation, not Darkness's preference or a true noble declaration.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H12",
+      "boundary": {
+        "component_id": "MAIN-11-U021",
+        "start_P": 49,
+        "end_P": 50
+      },
+      "whole_selected_premise": "The properly-refused formulation is cut into a kitchen word: きちんと becomes キッチンと before the interpretation is stopped.",
+      "primary_L": "L3",
+      "L_rationale": "Segmentation/lexical substitution in these Japanese strings is central; the unfinished sentence must remain unfinished.",
+      "primary_H": "H1",
+      "H_rationale": "Literal represented erroneous speech; its comic nonsense does not make every surrounding act hypothetical.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H13",
+      "boundary": {
+        "component_id": "MAIN-11-U021",
+        "start_P": 48,
+        "end_P": 53
+      },
+      "whole_selected_premise": "Kazuma stops the public interpretation to protect Darkness's reputation, yet she later reports strange gifts and unwanted harassment.",
+      "primary_L": "L0",
+      "L_rationale": "A protective stop followed by residual consequences survives paraphrase.",
+      "primary_H": "H1",
+      "H_rationale": "The stop is directly represented and the later complaint is narrator-reported. Gift senders and the full rumor route remain unshown.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "23a0b6645fdabcf0746007e1610c9281f508291c99b456359d3b41e5a35ef837",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H14",
+      "boundary": {
+        "component_id": "MAIN-11-U018",
+        "start_P": 5,
+        "end_P": 5
+      },
+      "whole_selected_premise": "The author introduces himself as something resembling a writer rather than relying on professional grandeur.",
+      "primary_L": "L1",
+      "L_rationale": "物書きっぽい何か uses an approximating category and vague residue as self-deprecation.",
+      "primary_H": "H2",
+      "H_rationale": "A deliberately diminished public self-description, not evidence of inability to write.",
+      "source_plane": "AUTHOR_NONFICTION_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "abaf7e00cf72ef4bc0411ea5cb20d195ff1673155b076f25023ef57ae4096788",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H15",
+      "boundary": {
+        "component_id": "MAIN-11-U018",
+        "start_P": 6,
+        "end_P": 7
+      },
+      "whole_selected_premise": "An ambitious shift toward boxing stalls after the newly purchased punching ball is installed but never touched.",
+      "primary_L": "L0",
+      "L_rationale": "The gap between ambitious plan and minimal setup is portable.",
+      "primary_H": "H2",
+      "H_rationale": "The self-account emphasizes failed follow-through; it is not a principal-character event or medical claim.",
+      "source_plane": "AUTHOR_NONFICTION_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "abaf7e00cf72ef4bc0411ea5cb20d195ff1673155b076f25023ef57ae4096788",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H16",
+      "boundary": {
+        "component_id": "MAIN-11-U018",
+        "start_P": 7,
+        "end_P": 7
+      },
+      "whole_selected_premise": "The projected ring name Explosion Natsume escalates an untouched exercise purchase into imagined public fame.",
+      "primary_L": "L1",
+      "L_rationale": "The branded spell/name echo supplies a specific nested wording effect.",
+      "primary_H": "H4",
+      "H_rationale": "An explicitly projected comic author persona rather than an achieved boxing career or a canonical spell acquisition.",
+      "source_plane": "AUTHOR_NONFICTION_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "abaf7e00cf72ef4bc0411ea5cb20d195ff1673155b076f25023ef57ae4096788",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H17",
+      "boundary": {
+        "component_id": "MAIN-11-U018",
+        "start_P": 9,
+        "end_P": 11
+      },
+      "whole_selected_premise": "The author describes a dilemma in which more plot thins the gags and more gags prevent the story from reaching an ending.",
+      "primary_L": "L0",
+      "L_rationale": "The competing craft aims survive paraphrase.",
+      "primary_H": "H2",
+      "H_rationale": "Rolling around the room and the stark dilemma are amplified authorial framing, not a quantitative law of this series.",
+      "source_plane": "AUTHOR_NONFICTION_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "abaf7e00cf72ef4bc0411ea5cb20d195ff1673155b076f25023ef57ae4096788",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H18",
+      "boundary": {
+        "component_id": "MAIN-11-U018",
+        "start_P": 20,
+        "end_P": 24
+      },
+      "whole_selected_premise": "After an extravagant synopsis of another work, the author says that even he does not understand his own description while continuing the sales invitation.",
+      "primary_L": "L2",
+      "L_rationale": "The puzzled self-response functions inside a promotional address to readers.",
+      "primary_H": "H2",
+      "H_rationale": "A playful rhetorical framing of a separately attributed work; its wrestler/princess/pet-shop events do not enter KonoSuba continuity.",
+      "source_plane": "AUTHOR_NONFICTION_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "abaf7e00cf72ef4bc0411ea5cb20d195ff1673155b076f25023ef57ae4096788",
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H19",
+      "boundary": {
+        "component_id": "MAIN-11-U010",
+        "image_id": "MAIN-11-IMG016"
+      },
+      "whole_selected_premise": "The profile's absolute labels compress capable, variable people into a one-line uncontrolled goddess, luck-led adventurer, defensive masochist and Explosion specialist.",
+      "primary_L": "L0",
+      "L_rationale": "The compressed persona caricatures are portable editorial framing rather than exact-form jokes.",
+      "primary_H": "H2",
+      "H_rationale": "Editorial amplification cannot overrule actual competence, refusal, finite resources or individual choices.",
+      "source_plane": "RASTER_PARATEXT_NOT_NEW_DIRECT_TRIAL",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "native_member_sha256": "2cf08fafadb8d5c4b1d84a2060af2187272429b710e1c42848ad0a8426069d0c",
+      "native_image_sha256": "7cc9682d5bedb5e861d03564f230f1edebe70b9b2a5fe5e6dceec583e82e6aed",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M11EX-H20",
+      "boundary": {
+        "component_id": "MAIN-11-U020",
+        "image_id": "MAIN-11-IMG028"
+      },
+      "whole_selected_premise": "The NEXT12 teaser assembles panicked gossip, noble-childbirth rationalization, pleas to listen and a stammered denial into a pregnancy implication.",
+      "primary_L": "L2",
+      "L_rationale": "Interruptions, status rationale and repeated pleas create the staged misunderstanding.",
+      "primary_H": "H4",
+      "H_rationale": "A promotional staged script; it does not establish current pregnancy, motherhood, childbirth or a new MAIN11 choice.",
+      "source_plane": "RASTER_PARATEXT_NOT_NEW_DIRECT_TRIAL",
+      "eligibility_and_limits": "Post-seal purposeful whole-premise selection after complete actual excluded-text/ruby/residual/raster reception. Declared overlaps do not supply a frequency denominator; retrospective narration, observed choices, projected acts and mediated speech remain distinct.",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "932923427a60990a8c2c61eb0ebdbebb048b8a8d1c75c4fc0247d61449ccf945",
+      "native_image_sha256": "def01f8991ab4e8e47a6aa2b499e3c5a790525d029b80ce69b2c73b79a56682b",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T16:06:22.794787+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    }
+  ],
+  "H_protocol": "H1 literal acts or attributed statements; H2 underlying reaction with amplified intensity; H3 only behavior contingent on a local gag, not uncertainty; H4 staged/nonliteral presentation rather than fantasy automatically. Actual and projected effects remain different.",
+  "L_protocol": "L0 structurally portable; L1 phrasing-sensitive; L2 register/pragmatic stance; L3 central Japanese-form dependence. Whole effects and named nested forms are distinct; selected overlap is not a denominator."
+}

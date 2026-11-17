@@ -1,0 +1,135 @@
+{
+  "distinct_commitments": 39,
+  "primary_contract_views": 702,
+  "paired_modes_overlap": true,
+  "records": {
+    "R1-A01": {
+      "CONDITIONAL_PHASE_LIMITED_OR_UNCREATED_NOT_INITIAL_FULL_TEST": 10,
+      "NOT_TESTED_FULL_CONJUNCTION": 8
+    },
+    "R1-A02": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-A03": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-A04": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-A05": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-A06": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-A07": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-A08": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-D01": {
+      "NOT_TESTED_FULL_CONJUNCTION": 14,
+      "BEHAVIOR_COMPATIBLE_LOCAL_ATTEMPT_NOT_SOURCE_CONFIRMATION": 4
+    },
+    "R1-D02": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-D03": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-D04": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-D05": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-D06": {
+      "BEHAVIOR_COMPATIBLE_LOCAL_ATTEMPT_NOT_SOURCE_CONFIRMATION": 12,
+      "NOT_TESTED_FULL_CONJUNCTION": 4,
+      "CONDITIONAL_PHASE_LIMITED_OR_UNCREATED_NOT_INITIAL_FULL_TEST": 2
+    },
+    "R1-D07": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-D08": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-E01": {
+      "CONDITIONAL_PHASE_LIMITED_OR_UNCREATED_NOT_INITIAL_FULL_TEST": 14,
+      "NOT_TESTED_FULL_CONJUNCTION": 4
+    },
+    "R1-E02": {
+      "NOT_TESTED_FULL_CONJUNCTION": 16,
+      "LOCAL_ADVERSE_WITH_PREBOUND_INFERENCE_AND_PRAGMATIC_RIVAL": 2
+    },
+    "R1-E03": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-E04": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-E05": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-E06": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-E07": {
+      "NOT_TESTED_FULL_CONJUNCTION": 14,
+      "CONDITIONAL_PHASE_LIMITED_OR_UNCREATED_NOT_INITIAL_FULL_TEST": 4
+    },
+    "R1-E08": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-K01": {
+      "BEHAVIOR_COMPATIBLE_LOCAL_ATTEMPT_NOT_SOURCE_CONFIRMATION": 12,
+      "NOT_TESTED_FULL_CONJUNCTION": 6
+    },
+    "R1-K02": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-K03": {
+      "NOT_TESTED_FULL_CONJUNCTION": 16,
+      "BEHAVIOR_COMPATIBLE_LOCAL_ATTEMPT_NOT_SOURCE_CONFIRMATION": 2
+    },
+    "R1-K04": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-K05": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-K06": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-K07": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-K08": {
+      "NOT_TESTED_FULL_CONJUNCTION": 16,
+      "CONDITIONAL_LANGUAGE_EFFECT_MIXED_NOT_FULL_BEHAVIOR_TEST": 2
+    },
+    "R1-M01": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-M02": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-M03": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-M04": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-M05": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-M06": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    },
+    "R1-M07": {
+      "NOT_TESTED_FULL_CONJUNCTION": 18
+    }
+  },
+  "no_independent_trial_or_success_rate": true
+}

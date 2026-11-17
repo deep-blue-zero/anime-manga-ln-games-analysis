@@ -1,0 +1,36 @@
+{
+  "schema": "KONOSUBA_IRIS_SEPARATE_SYNTHETIC_EXTENSION_CONTRACT_V1",
+  "sealed_utc": "2026-10-19T10:11:42.950920+00:00",
+  "status": "FIXED_BEFORE_EXTENSION_OUTPUTS_NOT_SOURCE_FORECAST",
+  "model_file": "KONOSUBA_IRIS_RECONSTRUCTION_MODEL_DRAFT_03.md",
+  "model_sha256": "f40eab76d50e86525df9748fedbda36ab5e58c96c3a0205c1eaba917a3c45f07",
+  "causal_receiving01_sha256": "d165c954cacc807f03277f2fb1fd05b4403bad390496efb9761a35ba546c0e05",
+  "scenario_pairs": [
+    {
+      "id": "IRIS-SC10",
+      "kind": "competitive frustration",
+      "shared": "A trusted familiar peer offers a safe new strategy game and plays sincerely. Iris has learned the rules, loses three fair rounds, and still has time for one more. No duty, money, danger or unfamiliar bodily boundary conflicts. The peer offers either another real game or a polite rank-based victory.",
+      "canonical": "Kazuma is willing to play one more genuine round and will explain one rule if asked. Iris has no magic that changes the game and no right to force him to stay beyond that round.",
+      "transfer": "A supervised tabletop club with an admired older peer. Iris is twelve, with ordinary learning ability; scores and turn rules are fixed, and the peer's time limit is real.",
+      "contracts": [
+        "SI-D01"
+      ],
+      "expected": "Active fair participation, information seeking or competitive insistence is plausible; do not collapse the model into perpetual timid politeness. A thrown ceremonial win is specifically different from the ordinary reciprocal goal. Losing does not confer mastery, compel another round or erase frustration."
+    },
+    {
+      "id": "IRIS-SC11",
+      "kind": "direct nonsexual bodily boundary",
+      "shared": "A familiar trusted companion begins drawing a decorative ink mark on the back of Iris's hand. She understands it, has already decided she does not want a mark, can pull the hand away or speak immediately, and has made no promise or emergency commitment requiring it. The companion's earlier kindness remains true.",
+      "canonical": "The companion means it playfully and has no special right to alter her body. No injury, romantic implication, royal emergency or punitive magic is supplied.",
+      "transfer": "The same supervised youth-event situation with washable ink and ordinary human ability. Adults remain available; Iris has no power to punish staff or change policy.",
+      "contracts": [
+        "SI-D07"
+      ],
+      "expected": "Immediate specific verbal boundary or withdrawal attempt within the directly defined bodily-use branch. Affection, playfulness and small physical stakes do not become permission. No sexual content, adult counseling or punitive rank display."
+    }
+  ],
+  "requested_new_outputs": 4,
+  "all_new_outputs_unassigned": true,
+  "reason": "Address actual receiving gaps: competitive-frustration expression and directly bounded nonsexual bodily-use objection. Do not replace or rerate the earlier18outputs.",
+  "limits": "Same-root informed exercise with expected branches visible; no new source-validation credit, independent test, fidelity percentage or confidence increase."
+}

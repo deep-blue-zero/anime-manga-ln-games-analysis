@@ -1,0 +1,409 @@
+{
+  "schema": "EIMI_EXACT8_FIRST7_CURRENT_GRAPH_ORIGINAL_RAW_CUSTODY_AND_SCOPE_TRANSPORT_V1",
+  "author": "/root/next_cast_source_preparation",
+  "role": "Current private author components only; not publication, independent component QA or ROOT package adoption",
+  "exact_current_first7": [
+    {
+      "original_C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "bytes": 36734,
+      "sha256": "374617ae4829e9cb1baa61018a8fb966aeedde5edb4865fb2d2461114bfc4367",
+      "git_blob_oid_of_actual_bytes": "4113086b2cdad1634a756882e60e7647a03dbb71"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_NEW_PURPOSES_EIP000_EIP035_V1.json",
+      "bytes": 474954,
+      "sha256": "4b9c9fca0f33fe5130301623bd9e86f5c416c1ebe5ffb81c2d2d0a7bba801530",
+      "git_blob_oid_of_actual_bytes": "6105175be8f6b9059870f0e8e61d6d094bf5f9b7"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_NEW_PURPOSES_EIP036_EIP070_V1.json",
+      "bytes": 599644,
+      "sha256": "5e3c183a9b8ce0d087d0e7caedbc8b42d1149c4fe0a6a29a18f7e1f328b9e469",
+      "git_blob_oid_of_actual_bytes": "7c4d3a5d8f80103f5053b0349bf0cd2c3f810116"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_NEW_PURPOSES_EIP071_EIP104_V1.json",
+      "bytes": 786879,
+      "sha256": "c75d16e1be15c0716577f2c94b08da5a490dd1c86e3bd0f63fbb3b438b18d0b2",
+      "git_blob_oid_of_actual_bytes": "c6657c019e40b631f387424164f382377d6fdb4e"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_SOURCE26_OWN6WHOLE20SELECTED_ORIGINAL105_QUESTIONS_AND_GRADE_REGISTER_V1.json",
+      "bytes": 107488,
+      "sha256": "9167c4747c1d129e4f79ffbb3bbe54919a0fd4bbf3a6d3f5ef95aeea82a922f2",
+      "git_blob_oid_of_actual_bytes": "8847809cd47688d894d353e79af494c7f5e8db79"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_LITERAL69_SOURCE_QUESTION_NEW105_PURPOSE_AND_FINITE_LIMIT_REGISTER_V1.json",
+      "bytes": 689326,
+      "sha256": "8bcdce82f124586d83ec18d2640c5e56e38fa6dcecce1e856f2ea6d0e9775cb6",
+      "git_blob_oid_of_actual_bytes": "9ef06940483e6f185f5394e358a027cc54646cb6"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_CURRENT_FIVEFUNCTION_BODY_SOURCE_QUESTION_JOIN_INDEX_V1.json",
+      "bytes": 322960,
+      "sha256": "48f1efca0738b4c8664097a16c05283a04102b2d88355f2509fbccd7c264f675",
+      "git_blob_oid_of_actual_bytes": "c3b9e990b0f09ecf2d7cf1fb8d7df696c3f88fba"
+    }
+  ],
+  "current_source_and_grade_rule": "New105 author own6WHOLE1580+20SELECTED1320=2900; bodyauthor26WHOLE3800, prior bodypeer23WHOLE2874+3SELECTED503 and ROOT scopes remain separately attributed. Common105 original26WHOLE79SELECTED report grades not transferred.",
+  "original20_raw_custody_manifest": {
+    "C_path": "private-witness:EIMI_LOCATION_20529197d4e4de7f6d58e9418115c61ea6cd5c0adde1b6f5fd32a8fa888afab6",
+    "bytes": 18209,
+    "sha256": "784f1ee88a52ab586230667d12a545e3f469c911ac12fb3e8d731084a8d65741",
+    "git_blob_oid_of_actual_bytes": "d70967facd8db057c2c5b0493c8f2b902ba6f243"
+  },
+  "current_original14_fullraw_recoveries": [
+    {
+      "C_path": "private-witness:EIMI_LOCATION_eb2d4304540f0b3c96fcc8a9d60cdf37db03ad36062b0e0640707adb1067a3b3",
+      "bytes": 11431,
+      "sha256": "63cd03c13a7b610cc7cf7b090354bf7eac21fb0b94fc77c4f1a86946db337514",
+      "git_blob_oid_of_actual_bytes": "0d6bd3de2b13f53f068e2fd6f68f6d9db8df1752"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_73ffb1c668117af9cd34862e40b6903a8e71af520a6bf2b7f579d566b3fb1560",
+      "bytes": 11441,
+      "sha256": "edd18e9b1d76f02e74ac200762bec7834cbd2afecd52ccd0945f1f93f9f317ec",
+      "git_blob_oid_of_actual_bytes": "d84ff0e1aa351986369318ad2bedf3b02e074c1f"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_cefd0c659a40597bc5ee5174dcda2b6c481f5975359a5f4f0ad7a57ef73d3350",
+      "bytes": 11441,
+      "sha256": "619344e6272a897bf4203f7e6be88fe16b52081fdc23c09c5afba56f60451eb5",
+      "git_blob_oid_of_actual_bytes": "f397bda34f6624ffd4e65a8a0b406c72697808ae"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_99c77bf3a2e65125f82d14cfe7494b9a2ba86130e3df00f3e83cc7838c891ef9",
+      "bytes": 11437,
+      "sha256": "7c54df642eb6fe3050530717518e609d710ea37561829ad5d4dea67b57041dea",
+      "git_blob_oid_of_actual_bytes": "366ec5dc27cbdf33cb08bcd2c4cc57c0b6eac76b"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_b913edc123064ad9587cd1483c69d53886b14cb5bc31326dce27f9d26acedc75",
+      "bytes": 11435,
+      "sha256": "8dfaa96909f0cbcabaeaa266413911e145580c3389de53492a892f8bbba478b9",
+      "git_blob_oid_of_actual_bytes": "e5f981afafa99ca3b695ffe3c731e1582096b4e0"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_eb2bf592b4749e012aa0f3eedb86641b52ac0b822e21b09d0180011fad487af7",
+      "bytes": 11441,
+      "sha256": "c9365fd89a959e94a0551e8f5fcdd1b65b0cedf0580d01bcdbc6b6a694cb5b16",
+      "git_blob_oid_of_actual_bytes": "85f4ebc2ff44cc4634f931fc5f9ef21a59be4d25"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_8e0943d459d08d73fb628977ac92eb013c32ce67b44a57330d6787e2ae32b581",
+      "bytes": 11443,
+      "sha256": "6919756871ad715341859b601fce03b8b2f74838b4c644707f89dc3c153490c8",
+      "git_blob_oid_of_actual_bytes": "d704dd16047dfe9fcfbce844fe4effb94c873205"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_62969a292db61393449fefab489537a64045a360e30de319c9d98b38de88905c",
+      "bytes": 11119,
+      "sha256": "e8959541c1ec83276d26bff69850db7e25feff43a7cec145da8aad93441de0aa",
+      "git_blob_oid_of_actual_bytes": "bd3a15ab58f98a326589d04f3ef36781596a4849"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_97e5054ef4af1d3c30228bc3face978d273cdcc873598554053b81c9d4722877",
+      "bytes": 11092,
+      "sha256": "d79f0f1d89f25d372986b5390178879057c074bb549346bfc0c9530ef9a9ab98",
+      "git_blob_oid_of_actual_bytes": "1b4c09296d0f74f2d363d655ce03418a44b46bc9"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_7e3c888043dd32a82fb8082d47f56b8c6ac71ed5e3b036774d1a9e429177f77b",
+      "bytes": 11093,
+      "sha256": "617e340bc195c62083b6b81a0e8c792f83999f6fae3e677cba9415a0cfcf51f5",
+      "git_blob_oid_of_actual_bytes": "8fb7e3f8540ed9be0c1245b90c4c752e0582ac09"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_7d3933d5a987dfdf14e192f8ba71b742b00729f8d90b69b8d549521dcea89231",
+      "bytes": 7923,
+      "sha256": "940f2947c06e07cf8d3a2b9db7b0fd50dff6c8f3a1d1627102774ccdd8703bdc",
+      "git_blob_oid_of_actual_bytes": "2931c404c72a23a22bc00ef9df4c9b3b10d5d854"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_3b774b82e19ff38bc05600b72ba2d38666e33da4f862978083dca2781006b7cc",
+      "bytes": 216812,
+      "sha256": "9a3b83145a0f40f7ab10f51465417cc9c22608ff8cdd50578a75bb8bea4d4cb6",
+      "git_blob_oid_of_actual_bytes": "bb72344f0519d53e8eaa607c5c014ea493890b55"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_c387bf75002b0848bfd12fe7099bdc39e8b50795e672543f73cb34b8b1c5bd84",
+      "bytes": 221317,
+      "sha256": "7e89e87636a7ba142cbe0f5636560e24ad5486461e71cd368151a34eefd8d213",
+      "git_blob_oid_of_actual_bytes": "cb9172ab4f7096fcc90b1b4fdfb266a72c9cfc93"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_749f7501535a9610f97af98dd4a6e53f29a448c8c23457310eedd3c15c895677",
+      "bytes": 220075,
+      "sha256": "e85b46943379382d0002774edb5a561232f8799fe33e2514e2b984c38a0d34bc",
+      "git_blob_oid_of_actual_bytes": "9f960bccddee8344f83bc3c3e1678009bccbd7f7"
+    }
+  ],
+  "immutable_body_map_book_own_readiness_and_prior_QA_ROOT_permissions": {
+    "map": {
+      "original_C_path": "private-witness:EIMI_LOCATION_1aba06dfe48ae1e4037a117b4000471ddb74b7067258bc99f7ea6d624f746af0",
+      "C_path": "private-witness:EIMI_LOCATION_72104a3e6822ec37076bda01123722183a58c48f66047f779531f2c670b5cbab",
+      "bytes": 174314,
+      "sha256": "8776e789aa92c23c60e0822388e5d597188ed7324f715537e12d96813558a846",
+      "git_blob_oid_of_actual_bytes": "8b1a81e7a2db4fb0eaa1c31791ec82cde78390db"
+    },
+    "sourcebook": {
+      "original_C_path": "private-witness:EIMI_LOCATION_18aff4c243ea929774e1fe2ec0f3aec0a2764414def195302aef2d038ceede89",
+      "C_path": "private-witness:EIMI_LOCATION_263f9fd1543298686e636beeaf434535883e35a8fcdfc27913b08d92b90f7645",
+      "bytes": 70382,
+      "sha256": "16fbeed87585f93c5c1b2d941dfce944a4f017ee610678508f9e43dc9ccfd6b4",
+      "git_blob_oid_of_actual_bytes": "b6b5b25dea9cf57348e42d43b6ee85b2aac79bda"
+    },
+    "body_author_questions": {
+      "original_C_path": "private-witness:EIMI_LOCATION_bb1c38ea19f5fadf5b9c0a156e8455e050f5958f003ee97ca34320f019ef96a6",
+      "C_path": "private-witness:EIMI_LOCATION_beadaa4b1c8825cc3f161580084f02f592699097561ab59133c1dcab25254b98",
+      "bytes": 5181,
+      "sha256": "3db00dcf3d93222110a864c6cdb3efa9c821733a882d9e5d9bb11654e6da0b4e",
+      "git_blob_oid_of_actual_bytes": "0e906193c68ac4c9accf015e034912a4ba2986db"
+    },
+    "own_readiness": {
+      "original_C_path": "private-witness:EIMI_LOCATION_8ce47ac2463b0f1dde22bc51a66f632ef85c2ceee33e9e1013c74aac4594436e",
+      "C_path": "private-witness:EIMI_LOCATION_a2bc0bb6c8f5de65065845774a97824a7b265d1aa169fc2f91bf611007fbc18e",
+      "bytes": 118689,
+      "sha256": "c3c9e56c8565645678f41a41d7e197ac3da13c5909c66ab25d62492eeaaf920e",
+      "git_blob_oid_of_actual_bytes": "8bda48dbd3294981e5d60dca314afb7aac1b0a80"
+    },
+    "own_readiness_closure": {
+      "original_C_path": "private-witness:EIMI_LOCATION_00a737a215c40731c1e551e354c6f8d32788a95b15d82f3122e2763e704bae3f",
+      "C_path": "private-witness:EIMI_LOCATION_ff1e5ece6c25437c4f0a7760d905523f5b0167f93542bb1ae747cedf6b136082",
+      "bytes": 4783,
+      "sha256": "6f7353c9c2802f39aaab513966ee32d77d08f196f46f1604f38a378195aec0da",
+      "git_blob_oid_of_actual_bytes": "96cfce4fdd656147d46fd21b55fa6f47be084757"
+    },
+    "ROOT_body_permission": {
+      "original_C_path": "private-witness:EIMI_LOCATION_8fee180639580955d107d433689fafc8727dee4deb67ccfa1202f2b72e7ffa08",
+      "C_path": "private-witness:EIMI_LOCATION_4f6928ee88cd04c23e2460ebe55d9cfdcd7f021a4c27d6adc3b816832ca930bd",
+      "bytes": 12664,
+      "sha256": "e5b610906730a24b08d36bc1c952a61e3f3208bfb544811cbdbdcc868b66b1fc",
+      "git_blob_oid_of_actual_bytes": "9f88699ad2deff1a5a499d69d7dc508d4a15484f"
+    },
+    "ROOT_readiness_permission": {
+      "original_C_path": "private-witness:EIMI_LOCATION_75f63d5a16064c15272593b0b4b87eddfcc8ee47186b805826c62b790157c8ec",
+      "C_path": "private-witness:EIMI_LOCATION_db81796a83ee70d0bde0a3978699d7a1a56afe9dd8d84165169505f2e7ea99dd",
+      "bytes": 5995,
+      "sha256": "b9025d72cf0edd52ea627c1e18cf9bfef9664484e3fbc39beadd10e72a303f39",
+      "git_blob_oid_of_actual_bytes": "5b22809696aad0a726c62a3d3713f99ae101f887"
+    },
+    "peer_body_QA": {
+      "original_C_path": "private-witness:EIMI_LOCATION_e57f4bd685757023ed363ac12d3020b80a8a864437d37bd9ad08dfeaa5b4a8c0",
+      "C_path": "private-witness:EIMI_LOCATION_e7bf680c7e6cf2b9aeb31b76fd8c4a85586b40ad17d4e23a9cf62e63d950a76b",
+      "bytes": 155841,
+      "sha256": "7cf0030fb9f260fbb4439248d756e4e14c3150344d67ad2f38e2f985bda51893",
+      "git_blob_oid_of_actual_bytes": "54693f4de0fee2e98495ee3fbda472078a8bfa1e"
+    }
+  },
+  "original_authored_six_fragments": [
+    {
+      "C_path": "private-witness:EIMI_LOCATION_b3bba41359e2607c75acbf6ca6f492e0dd9ed1452115df677985b57a417cad1c",
+      "bytes": 20835,
+      "sha256": "d7522fdabc950fb3428ceac95d12d9a220b57aeab535abb81adf9ff56298b0c0",
+      "git_blob_oid_of_actual_bytes": "e0dcb7be698b41798fd8d153fcc024c2c7f4bd3e"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_37361629e66373133c12bc8a83a78f682072e59691d9e10595e3bc70a3aa17e5",
+      "bytes": 20529,
+      "sha256": "9aa0ce9d7aa072f18ba458dfd53aa8fc0dd5f412ca7ddbddc0890ca988863347",
+      "git_blob_oid_of_actual_bytes": "02c59465b79206315b2b5f8e8b902e120014c296"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_5c0972a5722993869b21271f8777945c4a88a3f68e4c349f059835059a2af1f6",
+      "bytes": 20451,
+      "sha256": "1aaf5636b6f853200f3bb8800dc44de41f4c2d1efb70ee75de2b68ba627ee82e",
+      "git_blob_oid_of_actual_bytes": "28105ebb495e0710f085c9e3aed5bff9fac8b840"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_4b5f0bde800763351629a2c32d1be928b9b86aad1e30f83e4b2e8deffa8c9a22",
+      "bytes": 20838,
+      "sha256": "b2d2ab30161df8f46d0a7779db0d57bb82947662257de50fde4844016d0f2c31",
+      "git_blob_oid_of_actual_bytes": "c5d1df876c335fdc1bb9c4f25982bb2c7b033d47"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_3bcc5f836c85ceaaa43f2a49d5b517f8cc359d352f790e1fdef075f8d4f1d2d3",
+      "bytes": 20944,
+      "sha256": "e9ee77a375c4666ea538618fe03a34d974f841bf9fe39bd8820254a4020e1f4b",
+      "git_blob_oid_of_actual_bytes": "65c50d8dcfcdbc6a84d4a9770abc6a12bdf44795"
+    },
+    {
+      "C_path": "private-witness:EIMI_LOCATION_51fe2f340ca61d20f8516398ab0d884a1b721394da006e8dcfeaa0572372af4f",
+      "bytes": 18644,
+      "sha256": "d87c48d1c9453fcd8f9b86e2b35bf2a72a1cc208aad9195402361d74ea5383ff",
+      "git_blob_oid_of_actual_bytes": "3e3a2f6be2a6e4a193cba1ef24158245aba09dc8"
+    }
+  ],
+  "additional_explicit_body_role_inventory": {
+    "C_path": "private-witness:EIMI_LOCATION_1241312850e9c2a653a90aa892c5d38bd45eb04d90f7b46f811892c264412f6c",
+    "bytes": 2450,
+    "sha256": "866d5a18ac391d24f97f215ad2acf1ea3121e2cba331c379b2f269095d739efe",
+    "git_blob_oid_of_actual_bytes": "79dfc6afa79536ece802eb38a58666913e7b24d3"
+  },
+  "two_P066_reciprocal_role_joins_full_V1_raw_preservation": {
+    "C_path": "private-witness:EIMI_LOCATION_734b736047cf0b287e58cd0c79f6d542f319d946504cc8f3d351f679895e350b",
+    "bytes": 80513,
+    "sha256": "4555fe2f9716e65fdf3c5646bbd84cb7bb539199e21ff4f8801c0ebb94cf4dbf",
+    "git_blob_oid_of_actual_bytes": "6d387f55d50c9e3d4fc3f5fe3d79ce112b9c00aa"
+  },
+  "current_finite_qualifications": {
+    "O087": "Actual no-force one-week agreement and unpacking, not fulfilled duration.",
+    "O094": "Teacher requests reading access to Miyo wanted romance novels; Miyo refuses. No refusal to write or share authored writing.",
+    "O096": "Reported foodlessness followed by supplied food before later billing/bargaining; subsequent contract exists after rejected9:1, final ratio unprinted, future criticism collection uncompleted; not deliberate withheld meal or clinical mechanism.",
+    "O098": "Himari inward time-buying aim, Eimi reported hardware destruction and Rio cracking stay separate; no measured achieved unique window.",
+    "O103": "Anna fuel use from renewed public-failure fear differs from Elina projecting her own provocation response; fuel not battery.",
+    "O104": "Sora wage motive, not demonstrated payroll; producer30primary/2reuse not new author reading.",
+    "narrow61767": "Only O025/O071/O073/O075/O079/O087; not whole105 qualifier payload.",
+    "coffee59334": "Only oldGSC16 coffee-direction aliases; no whole105 extension.",
+    "frozen_original_labels": "Original Minato/Odysseia/claimant pending or current labels are quoted historical records, not current Eimi authorship/adoption. Original 'This Minato derivative' scope string remains literal."
+  },
+  "current_body_creation_stage_header_qualification": "Original frontmatter/closing source-grade and pending new105/adoption labels remain literal dated body-author state. Current new105 functions exist here, but saved-value receiving/independent component QA/ROOT package adoption remain subsequent. No literary clause changed.",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "no_named_no_REL350_no_identity_no_source_admission_no_count_runtime_publication_merge": true,
+  "current_one_O038_counter_actor_precision": {
+    "old_author_stage": {
+      "C_path": "private-witness:EIMI_LOCATION_0e4cfef3f65888fa55794d60dc42bdb1e73458a81837d7edd6d3cccfebdec315",
+      "bytes": 20321,
+      "sha256": "a9e59de2b989cbb3eaeddc265158b37e7199185038b9794f337c271a6dcd9392",
+      "git_blob_oid_of_actual_bytes": "e5cb17860ed84a6560234c34737c9960c5c16270"
+    },
+    "whole_V1_exact8_beforeimages": [
+      {
+        "C_path": "private-witness:EIMI_LOCATION_61a6bb89caac62e59a18747fb63eb441bc34b16804939f97b052e2ba11156c7b",
+        "bytes": 36006,
+        "sha256": "f8d8638f4e8e0ec9f9149a38b35555b0b9ba1b171097b303c15510df5a6ee9a9",
+        "git_blob_oid_of_actual_bytes": "6bcd44b934a4749d9d770e9fe8acd0e83250e960"
+      },
+      {
+        "C_path": "private-witness:EIMI_LOCATION_14e4ce7eac96708d320c7ffe2b38783900eb335626113ceba773f39cfad81178",
+        "bytes": 479084,
+        "sha256": "f8125ffae7b8aa80a52f715435aa71e21cb0eeddd9115113068592c4f78bc314",
+        "git_blob_oid_of_actual_bytes": "5bb9745736bb9e0da97eee915991ccfea64bfc2f"
+      },
+      {
+        "C_path": "private-witness:EIMI_LOCATION_420d0c45af420f891fa46c8f18bb585e31e1914d507d6e0f9df202a405f51b6c",
+        "bytes": 603660,
+        "sha256": "2ce7b02d55b1adfb86a4a3b36bfdd1254a308a4ed3f1352bb1a0ddb72f062e2e",
+        "git_blob_oid_of_actual_bytes": "5e25bbaa9142aa1bca73c88080936e7482f65749"
+      },
+      {
+        "C_path": "private-witness:EIMI_LOCATION_b1ea7ad229eb13dd99400f2217bf4d0e66d627cfa1f77523ee79365add73ab19",
+        "bytes": 790813,
+        "sha256": "a9709a6fc22aed232f5318dd29f726359c177746d6b4815f514f7aa3c9d3a6cb",
+        "git_blob_oid_of_actual_bytes": "618b402d8b440e57797e2a5c8fe084305ddc08d8"
+      },
+      {
+        "C_path": "private-witness:EIMI_LOCATION_0bb3d97b59ad68de3ee5cbabb372c4c26505952bc7392ad8982437dba69ed92b",
+        "bytes": 121032,
+        "sha256": "4edf41f52f6362ee562ed54d535614acbe08190f88d93086a020da81b88e60c6",
+        "git_blob_oid_of_actual_bytes": "6bef4ca6ca160f34c4c0e3342ec7007728e77b88"
+      },
+      {
+        "C_path": "private-witness:EIMI_LOCATION_bd1b655ad2c80546a2e1eb03688ff90bc37606585d94e94a8ef17a052048a527",
+        "bytes": 716227,
+        "sha256": "5a133a9b8de4be2d3df91271eadb5b1655b466f68f1865959d252a3cf07c1b55",
+        "git_blob_oid_of_actual_bytes": "26c48fa8b2f63308f60ddee98eb662df48da60ac"
+      },
+      {
+        "C_path": "private-witness:EIMI_LOCATION_fd1da9dcbd0347eb254517b12a8986588b107640f3cf9e318c6a9839ec17a5af",
+        "bytes": 335368,
+        "sha256": "56750a6e16879a2c0332cbac1eb9942bdb72c4fc96ca1825ef6797e7e3c3e451",
+        "git_blob_oid_of_actual_bytes": "a91b70d5a6555fadf965bae5324e1251bdeb17b5"
+      },
+      {
+        "C_path": "private-witness:EIMI_LOCATION_4b98b9035d6062e622c2077ae8ce19ae428042542cc9077fd794771d88edaa3a",
+        "bytes": 25226,
+        "sha256": "71d12d72b53d6133d85860c61b76076a976506591c6c08f276336d9d86d2f968",
+        "git_blob_oid_of_actual_bytes": "925d760b777a72e4197119aeba909e26555681fe"
+      }
+    ],
+    "owner_id": "O038",
+    "field": "own_new_Eimi_countermeaning_and_rival_limit",
+    "complete_before": "Mine's feeding lacks prior assent, and individual concerns about mess or slower appreciation survive generosity. Eimi's incomplete clothing response and refusal of another's bath invitation require equally particular answers.",
+    "complete_after": "Mine's feeding lacks prior assent, and individual concerns about mess or slower appreciation survive generosity. Eimi's incomplete clothing response and Sensei's refusal of Eimi's ice-bath invitation require equally particular answers.",
+    "actual_source_basis": "EP14 physical34-99 own SELECTED prior analytical account under currentnormalCycle008; P030 unchanged: Sensei refuses Eimi's ice-bath invitation, Eimi respects it.",
+    "scope": "One actual new counter clause plus indexmirror/currenttypedpin propagation. All other524/body69/source26/originals remain literal. No new source, primary, reviewer or count credit."
+  },
+  "current_nested_original14_marker_binding_precision": {
+    "dated_V2_manifest": {
+      "C_path": "private-witness:EIMI_LOCATION_58d8c2e2c67874d2b2b7e22432e16d977c8d9bf52b6ec4e176f72e1d74792746",
+      "bytes": 29633,
+      "sha256": "2e3c71dceeec5bdf71fd403aecde7b020f178392bd00368e1b73b3faa76d0133",
+      "git_blob_oid_of_actual_bytes": "4e5abfad92491b2f28f442c776349fa8641121a0"
+    },
+    "actual_nested_marker_objects_corrected": 105,
+    "reason": "Nested original14 markers retain C_path,pointer,part_tuple envelope. Current part1 binding corrected; all complete original values/525/body/source and currentfirst7 unchanged. V2 marker custody was a dated preserved V1 part route, not fresh current target/source evidence."
+  },
+  "current_two_original_report_mode_precisions_O002_O061": {
+    "dated_V3_held_entry": {
+      "C_path": "private-witness:EIMI_LOCATION_22b84a11a128c811e5d551a136bd993afdc132def3ecc79262a5f7b5cbad7142",
+      "bytes": 30944,
+      "sha256": "dfd79cc955bbd3b58c068e8d9ea34435a238210bce6ed111e65cfb62503ad3a6",
+      "git_blob_oid_of_actual_bytes": "95b27d14282777682e2f699e52b04e20de23f400"
+    },
+    "complete_two_current_counter_values": [
+      {
+        "owner_id": "O002",
+        "field": "own_new_Eimi_countermeaning_and_rival_limit",
+        "old_current_part": {
+          "C_path": "private-witness:EIMI_LOCATION_4ac3dcdf4dc9111513262dccd1c4bb82896919b017e6339cf68e28a8921a36f7",
+          "bytes": 479084,
+          "sha256": "f8125ffae7b8aa80a52f715435aa71e21cb0eeddd9115113068592c4f78bc314",
+          "git_blob_oid_of_actual_bytes": "5bb9745736bb9e0da97eee915991ccfea64bfc2f"
+        },
+        "current_part": {
+          "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_NEW_PURPOSES_EIP000_EIP035_V1.json",
+          "bytes": 479094,
+          "sha256": "513688e3479504da9403326c38b9c149df5f68c917a3cdc7f7bc408ca2bbcd34",
+          "git_blob_oid_of_actual_bytes": "4e271c5223eea3d06aa7d5775de3623d1d4011f3"
+        },
+        "current_pointer": "/records/2/own_new_Eimi_countermeaning_and_rival_limit",
+        "complete_before": "Nodoka's coerced performance and damaged telescope survive restored administration. Eimi's local cooperation or requested guidance cannot prove that pressure, surprise or every protective intervention was welcome.",
+        "complete_after": "Nodoka's coerced performance and threatened telescope damage survive restored administration. Eimi's local cooperation or requested guidance cannot prove that pressure, surprise or every protective intervention was welcome.",
+        "complete_original_report_pointer": "/records/2/complete_original_common105_receiving_input_row_NOT_rewritten/complete_exact_prior_ROOT_purpose_record/complete_frozen_ROOT_record_sanitized/complete_actually_received_fields/counterevidence_and_rival_limits",
+        "complete_relevant_original_report_value_NOT_rewritten": "Nodoka refuses inducement and complies to stop tickling. Tomoe corrects oversleep timing; Marina voices accurate mascot limits. Restoration is not voluntary assent or repaired treatment. The telescope damage and benefit promises remain uncompleted.",
+        "source_grade": "Preserved original report context only; no fresh underlying normal or primary reading.",
+        "all_current_five_fields": {
+          "own_new_Eimi_source_specific_substantive_question": "How does Nodoka's attachment to Class227 challenge an efficiency reading that treats Eimi's comfort, familiar company and chosen reserve as dispensable?",
+          "own_new_Eimi_positive_connected_meaning": "Pudding, telescope and a familiar building have value beyond Cherino's recruitment scheme. Eimi's sky viewing, music and quiet company similarly supply ends that efficiency cannot exhaust.",
+          "own_new_Eimi_countermeaning_and_rival_limit": "Nodoka's coerced performance and threatened telescope damage survive restored administration. Eimi's local cooperation or requested guidance cannot prove that pressure, surprise or every protective intervention was welcome.",
+          "own_new_Eimi_finite_endpoint_and_body_role": "The costume performance breaks and administration returns without repaired treatment. P018/P022/P031 retain warmth and idleness without an accomplished permanent adjustment.",
+          "own_new_Eimi_stronger_claim_trigger_and_abstention": "To claim that a restored system satisfies its participants requires their own later accounts and actual repair. No Class227 identity, costume merger or institutional chronology joins Eimi's keys."
+        }
+      },
+      {
+        "owner_id": "O061",
+        "field": "own_new_Eimi_countermeaning_and_rival_limit",
+        "old_current_part": {
+          "C_path": "private-witness:EIMI_LOCATION_7a6ab9833961d9186a497f496b72375afade0bf98d733d80e0ecf5dd4968fe40",
+          "bytes": 603670,
+          "sha256": "d0ffcda3d750abd3a499c4d7a49b3ef0f86974bc31d9a48f99a87987997bc6f4",
+          "git_blob_oid_of_actual_bytes": "32a80daf25b1df89a3e8b7268ff4961135bc6322"
+        },
+        "current_part": {
+          "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_NEW_PURPOSES_EIP036_EIP070_V1.json",
+          "bytes": 603681,
+          "sha256": "b3cbeb92d8ba7706efa2aed58f08dcf210b81e33684a2674a1feb513e5da62bf",
+          "git_blob_oid_of_actual_bytes": "e05317c37f47cf1be4472d6110c945e1ad164d84"
+        },
+        "current_pointer": "/records/25/own_new_Eimi_countermeaning_and_rival_limit",
+        "complete_before": "Roster permission is challenged, imagined features impose costs, and Chihiro refuses a cheer request. Hibiki finishes Utaha's wanted gakuran while others wear earlier outfits; technology and enthusiasm do not supply everyone's assent.",
+        "complete_after": "Roster permission is challenged, imagined features impose costs, and Chihiro rejects the imagined cheer request. Hibiki finishes Utaha's wanted gakuran while others wear earlier outfits; technology and enthusiasm do not supply everyone's assent.",
+        "complete_original_report_pointer": "/records/25/complete_original_common105_receiving_input_row_NOT_rewritten/complete_exact_prior_ROOT_purpose_record/complete_frozen_ROOT_record_sanitized/complete_actually_received_fields/counter",
+        "complete_relevant_original_report_value_NOT_rewritten": "Training enthusiasm interrupts objection; maker imagination includes unwanted features/cost. Chihiro challenges roster permission and rejects an imagined cheer request. Hibiki completed only Utaha's wanted gakuran; others wear her earlier cheer outfits despite embarrassment. Poor robot, tired helpers and late-change complaints survive the opening; dreams are not real adult requests or sanctions.",
+        "source_grade": "Preserved original report context only; no fresh underlying normal or primary reading.",
+        "all_current_five_fields": {
+          "own_new_Eimi_source_specific_substantive_question": "How does recipient-shaped festival participation qualify Eimi's efficiency and requests for useful work?",
+          "own_new_Eimi_positive_connected_meaning": "Records, tea, craft, clothes and wanted company have particular owners. Actual machine stopping and program revision show that effective work can answer objections rather than simply demand more participation.",
+          "own_new_Eimi_countermeaning_and_rival_limit": "Roster permission is challenged, imagined features impose costs, and Chihiro rejects the imagined cheer request. Hibiki finishes Utaha's wanted gakuran while others wear earlier outfits; technology and enthusiasm do not supply everyone's assent.",
+          "own_new_Eimi_finite_endpoint_and_body_role": "The local revisions succeed while tired helpers and late-change complaints survive. P043/P052/P053 compare understanding, wanted rest and differentiated work without total festival enjoyment.",
+          "own_new_Eimi_stronger_claim_trigger_and_abstention": "A universal participation claim needs each affected answer and implemented conditions. Dreams are not actual adult requests or sanctions; no attire-based identity or shared calendar joins Eimi."
+        }
+      }
+    ],
+    "scope": "Only2 new counter fields/indexmirrors and necessary currentpart/marker/register/index/transport pins. Original038 actor precision preserved; other523/new105 source questions/body69/source26/grades/alloriginals literal. Original V3 fullreceiving foundthese2, so V3 was not authorcomplete."
+  }
+}

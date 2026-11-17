@@ -1,0 +1,111 @@
+{
+  "schema": "KONOSUBA_IRIS_SYNTHETIC_SCENARIO_CONTRACTS_V1",
+  "sealed_utc": "2026-10-19T09:39:07.199794+00:00",
+  "status": "SCENARIO_EXPECTATIONS_FIXED_BEFORE_OUTPUTS_NOT_SOURCE_FORECAST",
+  "model_file": "KONOSUBA_IRIS_RECONSTRUCTION_MODEL_DRAFT_02.md",
+  "model_sha256": "97f9f201447c6b4e3e2674d3eb49d115be3efdd136887dc5f7b83604b32490ce",
+  "source_plane": "Entirely synthetic informed same-root exercises; no blinded independent or source-accuracy validation. Actual generated outputs and receiving must be recorded separately.",
+  "scenario_pairs": [
+    {
+      "id": "IRIS-SC01",
+      "kind": "ordinary inconvenience",
+      "shared": "Iris wants to help a trusted same-age friend finish an unfamiliar snack. One attempt fails; the friend offers a safe two-step task and enough time. No royal/public duty conflicts, no coercion, and real participation is available.",
+      "canonical": "Crimson Demon kitchen; no spell or weapon is needed or newly supplied. Yunyun demonstrates measuring and asks whether Iris wants to try.",
+      "transfer": "A supervised community kitchen; Iris is twelve, has ordinary human strength, and the friend can show the measuring task. No rank-based exemption from kitchen rules.",
+      "contracts": [
+        "SI-D01"
+      ],
+      "expected": "Initial active involvement or a concrete information request; allow novice error. No ceremonial-service demand, instantaneous mastery or unreceived technique."
+    },
+    {
+      "id": "IRIS-SC02",
+      "kind": "resource conflict",
+      "shared": "Iris wants another hour with a valued familiar companion. She explicitly recognizes an already scheduled legitimate public responsibility at the same time. A ten-minute visit beforehand is feasible, and she knows it will not delay the responsibility.",
+      "canonical": "A royal relief briefing within Iris's actual known role; she knows she must attend. No proxy is independently available for the full hour.",
+      "transfer": "A youth council's agreed supplies handover; Iris has promised a real ten-minute contribution, without executive authority. Travel times and adult supervision make only the shorter visit feasible.",
+      "contracts": [
+        "SI-D02"
+      ],
+      "expected": "Choose/ask for reduced contact while preserving the larger wish. No invented cancellation, unlimited proxy, purely adult emotional detachment or disappearance of disappointment."
+    },
+    {
+      "id": "IRIS-SC03",
+      "kind": "unfamiliar people",
+      "shared": "An unfamiliar adult offers an interesting off-site demonstration. Iris is curious but has received no independent trust or safety information. A guardian is nearby and willing to answer questions; nobody is under immediate threat.",
+      "canonical": "A visiting vendor claims a secret magic workshop. No actual power, identity or benign intention is supplied by the scenario.",
+      "transfer": "A stranger offers a private robotics demonstration away from the supervised fair. No royal privilege or combat immunity exists.",
+      "contracts": [],
+      "expected": "Model is underdetermined for the substantive choice. Preserve curiosity and missing trust/safety. Do not treat SI-D01 as matched, certify the stranger, invent knowledge or claim a prediction success from a prudent-looking answer."
+    },
+    {
+      "id": "IRIS-SC04",
+      "kind": "public embarrassment",
+      "shared": "A companion dismisses an inexpensive keepsake as worthless in front of peers. The scenario independently supplies that Iris values the specific giver and memory and understands the price. She has time to respond without a competing emergency.",
+      "canonical": "The keepsake has personal significance but no new magic or betrothal is implied. Peers are ordinary companions, not enemies.",
+      "transfer": "The same meaningful object at a school event. Iris has no power to punish a peer or spend public money to vindicate it.",
+      "contracts": [
+        "SI-D06"
+      ],
+      "expected": "Express or act on relational meaning rather than adopt price as exhaustive. No adult engagement, universal eloquence, punitive legal command or fabricated origin."
+    },
+    {
+      "id": "IRIS-SC05",
+      "kind": "moral pressure",
+      "shared": "A valued ally proposes a dishonest account to avoid a rule and reach a shared attractive outing. Iris understands it is dishonest, believes her personal influence can absorb consequences, and has an immediate choice. No conflicting public duty is supplied.",
+      "canonical": "The ally seeks her reassurance to guardians. Rank can influence people but cannot change the actual written record. No automatic acceptance or successful cover is supplied.",
+      "transfer": "A close classmate asks for a false excuse to a supervisor. Iris incorrectly believes her prominent family can absorb trouble. She has no actual authority over attendance records or staff.",
+      "contracts": [
+        "SI-D04"
+      ],
+      "expected": "Initial reassurance or participation is the low-confidence model prediction. Preserve its ethical cost and false rank belief. Do not sanitize the tendency, automatically make the lie succeed or retrospectively score old I02."
+    },
+    {
+      "id": "IRIS-SC06",
+      "kind": "danger and provider change",
+      "shared": "Iris wants to intervene in a visible threat to another person. A trusted protector gives credible, specific information that the currently available method risks bystanders. After her first response, a different provider independently offers a limited compatible safer method and asks whether she wants that contribution.",
+      "canonical": "The new provider can block one passage while civilians leave, not defeat everyone or accept indefinite service. No unseen combat ability is added to Iris.",
+      "transfer": "At a crowded youth event, an adult staff member can clear one exit for two minutes. Iris cannot use fantastic force or give binding commands to adult staff.",
+      "contracts": [
+        "SI-D05"
+      ],
+      "expected": "Separate the initial pause/adjustment from possible renewed finite action after the offer. No universal obedience, proof the danger never existed, unlimited provider ownership or new power."
+    },
+    {
+      "id": "IRIS-SC07",
+      "kind": "domain shift",
+      "shared": "Iris has strong demonstrated ability in one domain and wants to contribute to a safe unfamiliar practical task. A trusted guide offers bounded instruction. The unfamiliar task has a real technique she has not learned.",
+      "canonical": "Known combat competence is supplied, but sewing a torn travel bag is unfamiliar. A needle, thread and patient guide are available; no repair spell is supplied.",
+      "transfer": "Iris is a trained young fencer helping repair a costume bag. Ordinary human tools, motor learning, time and adult supervision apply.",
+      "contracts": [
+        "SI-D01"
+      ],
+      "expected": "Try a bounded learned step or ask instruction, with actual novice limits. No instant domain transfer, damage-free magical repair or turning every practical task into battle."
+    },
+    {
+      "id": "IRIS-SC08",
+      "kind": "relationship conflict and privacy",
+      "shared": "A familiar trusted companion reaches for Iris's private journal after she has clearly decided she does not want the pages read. She understands the act, can speak/move the journal, and no emergency or conflicting prior promise blocks a response.",
+      "canonical": "The companion's previous kindness and sibling-like role remain true. They have no general permission to read. No threat to the kingdom is involved.",
+      "transfer": "The same age-appropriate privacy conflict at a supervised school visit. No adult romantic or sexual interpretation is supplied.",
+      "contracts": [
+        "SI-D07"
+      ],
+      "expected": "Immediate explicit boundary or withdrawal attempt while keeping attachment distinct. No automatic forgiveness, silent comfortable permission, rank punishment or adult-counselor monologue."
+    },
+    {
+      "id": "IRIS-SC09",
+      "kind": "cross-setting recognition pressure",
+      "shared": "Iris has independently stated that she wants to complete one concrete useful achievement before reuniting with a valued companion. An easy immediate reunion without that achievement is offered. The safe achievement remains feasible with her own finite effort; others may decline to help.",
+      "canonical": "She can finish a small relief-supplies count within her known arithmetic skills; a palace visit is available now. No need to find or punish a villain.",
+      "transfer": "At a community fair she wants to finish an agreed inventory task before greeting her admired mentor. She is twelve, with no authority to compel classmates or skip supervision.",
+      "contracts": [
+        "SI-D03"
+      ],
+      "expected": "Initial substantive deferral of easy access and an achievement-directed attempt. No invented villain, unlimited service order, guaranteed admiration or generic pride speech substituted for an action."
+    }
+  ],
+  "requested_outputs": 18,
+  "all_outputs_unassigned": true,
+  "scoring": "No pass fraction, character-fidelity percentage or transferred source score. Assess causal consistency, informative failures, uncertain branches and both mode constraints. Unmatched substantive predictions remain underdetermined.",
+  "historical_predictions_or_source_targets_changed": false
+}
