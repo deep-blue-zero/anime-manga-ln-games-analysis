@@ -2,7 +2,7 @@
 title: "Girl meets Rock! — Checkpoint and Reconstruction Register"
 artifact_id: GMR_CHECKPOINT_REGISTER
 artifact_type: checkpoint_reconstruction_register
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: GMR-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary or musical-performance findings"
 source_boundary: "Metadata only: Japanese manga V01–12; no narrative admitted and no audio witness supplied"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 ---
 
 # Checkpoint and reconstruction register
@@ -37,6 +37,8 @@ Future models contain trigger/stakes/state → response-family rules with inhibi
 Manga-only models cannot certify singing, instrumental execution or vocal imitation. Independent held-out predictions freeze before exposure; exposed tests are RETROSPECTIVE_CONSISTENCY_TEST. Evaluators compare actual diagnostic outcomes with meaningful baselines/controls, recording opportunities/confounds. Synthetic output never becomes canonical or primary evidence. Global discovery/readiness registries remain with designated agents.
 
 ## Closeout and transfer
+
+`GMR-TX` carries the [independent reading receipt](GMR_SYNTHESIS_ARCHITECTURE.md#independent-source-reading). Record each person's assignment, independent context, actual exposure, inspected material and precise locators. Preserve the material observations, rival explanations, counterexamples, challenges and remaining debts, with the principal's grounds for adopting, qualifying, rejecting or leaving each finding open. Link the full argument and any affected claim revisions. Record observed settings only when known.
 
 Accept complete reading and synchronized registers atomically. Verify actual page coverage/retrieval, actor/group knowledge, ordinary controls, directed ties, Japanese/form reasoning and bounded name/reference review. Audit depicted-versus-heard warrants. The absence of audio is a source-scope limit, not a false completed AV inspection.
 
