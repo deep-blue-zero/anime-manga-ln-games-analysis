@@ -4,7 +4,7 @@ artifact_id: WATAYURI_ANALYTICAL_METHOD
 artifact_type: analytical_method
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.1"
+version: "0.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -42,5 +42,7 @@ Track consequential propositions as information states: represented truth, each 
 Written Japanese speech permits a model of self-reference, address, honorifics, politeness, sentence endings, register switches, lexical habits, indirectness, teasing, hesitation and confrontation. Note role-conditioned versus private speech when the page supports it. Manga lettering does **not** establish acoustic timbre, pitch, breath, or voice-actor delivery; do not import anime performance. Inspect manga form as well as dialogue: gaze and averted gaze, body orientation, approach/touch and response, isolation/proximity, panel scale/sequence, reaction and withheld face, page turn, costume, front/backstage space and repeated compositions. Distinguish depicted fact from an interpretive reading of form.
 
 ## Completed volume contract
+
+The volume receipt follows the [independent reading and reconciliation assignments](WATAYURI_SYNTHESIS_ARCHITECTURE.md#independent-readings-of-role-and-disclosure). Identify each reader's access and horizon, the located findings and challenges, and the principal's reasons and ledger effects.
 
 A future VNN deep reading should include: source and coverage receipt; prior-volume synopsis and entering developmental state (for V01 explicitly none); chronological events and form-sensitive close reading; directional relationship and information-state changes; competing readings and disconfirmers; claims with locators and confidence; predictions with adjudication targets; character/readiness changes; unresolved source questions; and a frozen exit-state statement. Update **only materially affected** ledgers and the source map/current entrypoint, then close the atomic transaction before any next volume. A deep reading alone is not closure. The [architecture's transaction list](WATAYURI_SYNTHESIS_ARCHITECTURE.md) governs routing. This method creates no V01 observation or prediction at bootstrap.
