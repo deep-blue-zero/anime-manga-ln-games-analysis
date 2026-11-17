@@ -4,7 +4,7 @@ series: astra-lost-in-space
 artifact_id: ALS_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: ALS-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL unit-mapped series architecture and derived-use pathway"
 source_boundary: "One Japanese 彼方のアストラ 全巻合本版 omnibus EPUB; internal units unverified; no narrative admission or inspection"
@@ -77,11 +77,21 @@ Nothing here asserts a particular institution, mystery, event or story structure
 
 ## 5. Studies and analytical depth
 
-Major character work must explain transitions, motive/self-report, behavior, ordinary versus crisis evidence, relationship conditioning, language/form, counterexamples and uncertainty. A relationship argument must preserve both directed perspectives and their causal effects. A character earns an independent monograph when a distinct developmental question across admitted units requires sustained treatment; a bounded one-unit case may instead warrant a scoped study.
+Major character work must explain transitions, motive/self-report, behavior, ordinary versus crisis evidence, relationship conditioning, language/form, counterexamples and uncertainty. A relationship argument must preserve both directed perspectives and their causal effects. Apply the [character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) to every subject with differentiated evidence, including supporting characters and concentrated sequences. Record identity, frontier, outcome, source grounds, gaps and reassessment trigger in the existing role-gap audit at specialist readiness. Reassess after material new evidence. Each qualifying subject requires a self-contained portrait under `studies/` grounded in the character's own knowledge, decisions and relationships, with evidence cited by unit and global image occurrence. Add its actual path and record separate self-containment and fidelity reviews. Carry outstanding portraits through synthesis readiness and release.
 
 Required mature responsibilities are character/causality, knowledge/chronology, directed relations, Japanese expression and page form. They may be substantial integrated sections where independent specialists add no retrieval or argument value. The role-gap audit must name those sections and explain why no separate specialist is needed. A collective-system or other domain specialist is earned by actual recurring evidence, not by title familiarity.
 
 A full-series synthesis integrates those arguments and their disagreements; it cannot concatenate unit summaries. No universal word ceiling applies. Acceptance requires causal mechanisms, inferential warrants, representative/disconfirming evidence, clear named agents, competing readings and meaningful limits. During transfer compare complete incoming/outgoing prose for lost reasoning. Table density or file length alone is no certificate.
+
+### Independent source reading
+
+For each future substantive reading of a mapped volume or chapter inside the omnibus, confirm the [topology §4.1 configuration](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) before source exposure. The principal inspects the entire admitted unit, writes the canonical reading and alone coordinates its cumulative updates. Give a specialist and a distinct critical reviewer separate contexts with direct STILL_IMAGE access to the assigned Japanese pages and the accepted entering state. Both form observations from the assigned evidence without inheriting the principal's working interpretation. Restrict each source view to the authorized internal span and its admitted apparatus. Quarantine later units even when the full omnibus travels as one file. Freeze prospective judgments before exposure to their resolution and disclose contamination that limits independent or prospective credit.
+
+**Independent specialist.** Trace a disclosure from its earliest visible Japanese wording or panel through the point at which a named observer can act on it. Cite the unit key and global image occurrence, including both sides of a spread where needed. A reset printed page number alone cannot locate it.
+
+**Critical reviewer.** Reopen the decisive images within that unit. Test whether the reading borrowed an identity or explanation from later in the same file and whether a quiet reaction supports a competing account. Inspect decisive evidence before reading the candidate where practical. Return locator-backed corrections, competing interpretations and omissions to the principal.
+
+The principal reconciles these findings in the full reading and the reading's ledger-update manifest, using the existing claim history for revisions. The unit receipt belongs with the reading. Record each person's assignment, independent context, actual exposure, inspected material and precise locators. Preserve the material observations, rival explanations, counterexamples, challenges and remaining debts, with the principal's grounds for adopting, qualifying, rejecting or leaving each finding open. Link the full argument and any affected claim revisions. Record observed settings only when known. Use SUBSTANTIVE_ANALYSIS for bounded source interpretation, with DEEP_SYNTHESIS for difficult attribution or conflicting state. Section 4.1 applies to source reading. Later synthesis, portrait review and reconstruction evaluation retain their own responsibilities. An unusually bounded unit may combine specialist and reviewer in one other independent, source-capable context only when it can both contribute fresh observations and critically test the candidate. Justify each use in the unit receipt. If required inspection or independent participation is unavailable, record the capability gap in current state and hold acceptance and frontier advancement.
 
 ## 6. Conflict handling and dependency gates
 
@@ -137,6 +147,7 @@ Current indexes, entry, method and architecture are mutable by targeted changes 
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL one-witness/multiple-natural-unit architecture; no narrative findings |
 | 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for future mapped-unit readings; internal-unit boundary, full analytical duties and CLOSED authorization boundary retained |
+| 1.2 | 2026-11-17 | Assigned independent source-reading, transaction and qualification responsibilities at the existing unit and readiness gates |
 
 ## 9. Owners, reasoning and transfer
 
