@@ -3,7 +3,7 @@ title: "A Certain Scientific Railgun — Governing synthesis architecture"
 artifact_id: RG_SYNTHESIS_ARCHITECTURE
 artifact_type: project_synthesis_architecture
 series: a-certain-scientific-railgun
-version: "1.2"
+version: "1.3"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 authority_scope: initial_project_design_only
@@ -100,6 +100,18 @@ Reasoning classes: metadata/locators BOUNDED_STANDARD; substantive reading and i
 
 The future run owner controls scope/admission/coordination; readers deliver full units and cumulative transactions; independent reviewers test semantics/compression; housekeeping owns routing outputs; discovery and reconstruction evaluators own their global products. Handoffs include complete files and hashes, target root/branch, source and knowledge boundary, drift assessment, pending defects and next owner. Verify full delivered content before authority promotion; never replace a maintained artifact from a partial preview.
 
+### Team for a source reading
+
+Before each authorized chapter or causal sequence, resolve the [source-reading configuration](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading). The principal inspects the whole admitted unit, authors its full reading and integrates the findings. Give the specialist and a distinct critical reviewer separate contexts, direct STILL_IMAGE access to assigned Japanese pages, and the accepted entering state at this manga's disclosure frontier. Each forms source observations independently of the principal's working account. Freeze prospective findings before later panels or the unit-end synopsis disclose their resolution. Record earlier franchise exposure and withhold affected independent or prospective credit.
+
+**Specialist assignment.** Pair a stated institutional rule or explanation with the depicted sequence that tests its practical effect. Preserve the conditions on that inference, the perspective of a person affected by it, and any ordinary counterexample.
+
+**Critical review.** Return to the full sequence and intervening pages. Test whether an official explanation fits the observed consequences, whose choices the candidate omitted and whether familiarity with Index or an anime supplied a missing causal step. The reviewer records the source routes, counterevidence and any loss of diagnostic evidence during integration. Where practical, the reviewer inspects decisive pages before seeing the candidate reading.
+
+The principal preserves material observations and counterreadings in the full reading, explains each contested disposition and alone coordinates shared state and claim updates. The [unit transaction](RG_CLAIMS_AND_FORM.md#transaction-freeze-and-amendment) records actual roles, context separation, source coverage and reconciliation. Use SUBSTANTIVE_ANALYSIS for a focused interpretive assignment and escalate conflicting attributions or high-impact revisions under §7. A later specialist study or reconstruction evaluation follows its own gates.
+
+An unusually bounded unit may combine specialist and review duties in one context independent of the principal when it can both contribute source-grounded findings and challenge the candidate directly. Justify each use in the transaction. Missing independent participation or required page inspection holds acceptance and frontier advancement. Record the capability gap at the current entrypoint.
+
 ## 8. Sixteen-duty crosswalk
 
 | Initiation duty | Implementation |
@@ -125,3 +137,5 @@ The future run owner controls scope/admission/coordination; readers deliver full
 
 - **2026-11-13 — v1.1:** Added the local-method link for the initiation-policy §5.3 current-unit story synopsis in future eligible readings. Existing full-reading, volume-reconciliation, source/knowledge, INITIAL lifecycle and CLOSED authorization duties remain intact.
 - **2026-11-14 — v1.2:** Adopted the initiation-policy §5.5.1 self-contained character monograph standard: §4 sets qualification, its record and the canonical monograph home; §§2–3 and §6 route qualified characters to individual monographs and gates; the method adds prospective monograph-supporting capture. No roster, qualification result, monograph, source admission or authorization is created, and the INITIAL lifecycle and CLOSED lock are unchanged.
+
+- **2026-11-17 — v1.3.** Recorded the standing source-reading team, independent page review and transaction evidence for future authorized units.
