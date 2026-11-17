@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 154; `STALE` 1; `SUPERSEDED` 33
+- Recorded totals: `CANDIDATE` 155; `STALE` 1; `SUPERSEDED` 33
 
 ## Namespaces
 
@@ -25,7 +25,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
 | [`azur-lane`](reconstruction_index/azur-lane.md) | 2 | 2 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
-| [`chiramune`](reconstruction_index/chiramune.md) | 1 | 1 |
+| [`chiramune`](reconstruction_index/chiramune.md) | 2 | 2 |
 | [`classroom-of-the-elite`](reconstruction_index/classroom-of-the-elite.md) | 1 | 1 |
 | [`cornered-mouse`](reconstruction_index/cornered-mouse.md) | 2 | 2 |
 | [`cosmic-princess-kaguya`](reconstruction_index/cosmic-princess-kaguya.md) | 1 | 1 |
@@ -70,6 +70,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `blue-archive:aru@game` | [`blue-archive-aru-game-c001-distributed-20261024-01`](reconstruction_index/blue-archive.md#blue-archive-aru-game-c001-distributed-20261024-01) | `CANDIDATE` | `E` | `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` |
 | `blue-archive:kokuriko@game` | [`blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01`](reconstruction_index/blue-archive.md#blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01) | `CANDIDATE` | `E` | `0f3b661d66455030cb663d9486a11879f0911cf9` |
 | `blue-archive:prenapates@game` | [`blue-archive-prenapates-game-character-monograph-20261106-01`](reconstruction_index/blue-archive.md#blue-archive-prenapates-game-character-monograph-20261106-01) | `CANDIDATE` | `E` | `1ec6a88d6120d2e28a07c5e99a809ab985f67302` |
+| `chiramune:haru-aomi@light-novel` | [`chiramune-haru-aomi-light-novel-haru-monograph-20261117-01`](reconstruction_index/chiramune.md#chiramune-haru-aomi-light-novel-haru-monograph-20261117-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
 | `chiramune:yua-uchida@light-novel` | [`chiramune-yua-uchida-light-novel-yua-monograph-20261115-01`](reconstruction_index/chiramune.md#chiramune-yua-uchida-light-novel-yua-monograph-20261115-01) | `CANDIDATE` | `C` | `7d8ece76cbefeea3eb1d7cd02d4ca99e41966d4a` |
 | `classroom-of-the-elite:horikita-suzune@original-light-novels-through-year-2` | [`classroom-of-the-elite-horikita-suzune-y2-specialist-20261115-01`](reconstruction_index/classroom-of-the-elite.md#classroom-of-the-elite-horikita-suzune-y2-specialist-20261115-01) | `CANDIDATE` | `B` | `77ce4cedf3a09bd7ad0c134dfb1be830d7f683d6` |
 | `cornered-mouse:natsuki@manga` | [`cornered-mouse-natsuki-manga-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-natsuki-manga-monograph-20261031-01) | `CANDIDATE` | `E` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
