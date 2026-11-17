@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: project_changelog
 scope: VERBATIM_ENTRYPOINT_AND_MASTER_HISTORY_THROUGH_V25
-generation: V1.43
+generation: V1.44
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -6424,3 +6424,9 @@ The earned [Subaru V01–V25 model](05%20Character%20Analysis/REZERO_NATSUKI_SUB
 The saved scope contains 19 phases, 55 evidence bundles and 37 conditional rules. Independent original-source challenges changed the C691 attribution, the attempted evacuation and Rem’s exact final exchange. The local documentary review records the other repairs and retains supported refusals at the source boundary. All 777 exact current narrative claims and their historical bytes remain recoverable. V26 stays unopened.
 
 Close SUBARU_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order, each with its own applied fidelity review and complete publication and integration gate. After all six, open the exact sealed V26 horizon and continue through admitted V43 and the mandatory terminal architecture, state, readiness and acquisition review. CI owns merges.
+
+## Ram V01–V25 successor and applied fidelity review
+
+CI integrated Subaru through [PR #622](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/622). The final source, merge and later main each passed 517 tests. Master §1 records the exact commits and native verification.
+
+The [Ram V01–V25 model](05%20Character%20Analysis/REZERO_RAM_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](08%20Audits%20and%20Manifests/REZERO_RAM_V01_V25_FIDELITY_REVIEW.md) distinguish Ram’s chosen care from the burden imposed on sleeping Rem and trace her last audible warning. The review corrects C311/C516 on cooking and C717 on Emilia’s rooftop rescue. Master §13 records the affected owners. V25 retains 777 claims and V26 stays sealed. Ram’s full gate precedes Julius.
