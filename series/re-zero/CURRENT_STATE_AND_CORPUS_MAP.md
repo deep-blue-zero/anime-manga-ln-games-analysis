@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.64
+generation: V0.65
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -29,7 +29,7 @@ project_initialization:
   required_day_one_infrastructure:
     - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: ARC_06_FULL_PUBLICATION_INTEGRATION_GATE
+  next_permitted_operation: SUBARU_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE
 ```
 
 ```yaml
@@ -39,7 +39,7 @@ sequential_execution:
   authorized_start: V03
   terminal_boundary: V43
   committed_high_water_mark: V25 # PR498 full publication and integration gate CLOSED
-  next_candidate_operation: ARC_06_FULL_PUBLICATION_INTEGRATION_GATE
+  next_candidate_operation: SUBARU_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE
   confirmation_between_units: false
   run_state: active
 ```
@@ -53,19 +53,19 @@ sequential_execution:
 
 ## Current analytical state
 
-Verified integrated sequential high-water is V25 through PR498, with777 current narrative claims. The source-verified Arc06 checkpoint is IMPLEMENTED with32 local cross-volume propositions and its own full publication/integration gate PENDING. The current E046 survives displacement and ends on an unnamed plain with awake Rem and physical Louis. The working derivation remains45 cumulative Subaru deaths and46 reached analytical segments. Four new terminal scenes are selected individually and eleven are compressed in the stated fifteen-death sequence. SOURCE_COUNT_TENSION remains OPEN for the seventeenth restart, fifteen deaths, twenty-two post-loss deaths and total forty. [Arc06 source-verified checkpoint](02%20Sequential%20Readings/REZERO_ARC_06_CHECKPOINT.md)
+V25 remains the last integrated numbered source through PR #498, with 777 narrative claims. E046 survives displacement and ends on an unnamed plain with awake Rem and physical Louis. The working derivation retains 45 Subaru deaths and 46 reached segments. SOURCE_COUNT_TENSION remains open for the seventeenth reunion, fifteen additional deaths, twenty-two post-loss deaths and total forty.
 
-V25/PR498 full publication and integration gate is CLOSED. Author and final source 8272d04ee2d42f7d39e845ce0630d6cf7ee1aed8 integrated at actual ordered-parent merge 68df1b566bdc15e7235e03cc5f553b3d726cf8a2, with verified current-main role 9fa21ee99926a07b71ae808e8349ad40089bf00b. Exact source audit42385324187, actual-merge audit42389103220 and current-main audit42389965789 each actually executed all511 discovered tests with zero nonpasses and isolated trusted success statuses58329903958,58331421325 and58331629815. Source-specific housekeeping42386329605 verified routing current. All three commits share Re:Zero subtree5b0dc5f5e9599f216e3193a0f7876af96f431533. Later native proof completed at2026-11-07T16:28:20.139464Z and the durable full gate closed at16:28:21.653363Z before Arc06 execution. [PR498](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/498)
+Arc 6 full publication and integration is CLOSED. CI merged the exact final source bd78aaa984f47306f2da733c035de53e45431514 at b0d1294fa93ff1aa0b2df0e03de16db3a7d45106. Later native verification at 2026-11-17T05:51:45.064184+00:00 confirmed the same project tree on verified main 1659818b852648bdfa7718154049877130c981eb. The ordered parent pair is 83ee41aafa45a46e630ca6bb64c7a170c8b42c44 and bd78aaa984f47306f2da733c035de53e45431514. Exact audits 42399490508, 42409550640, 43967085274 executed 511, 511 and 517 tests with zero nonpasses. Source housekeeping 42400848363 returned VERIFIED_ROUTING_CURRENT_NO_OP. The recorded gate closed at 2026-11-17T05:51:58.177889+00:00. [PR #501](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/501)
 
-All83 entering protected artifacts,26 historical model scopes and53 model/review files remain exact. The new checkpoint becomes protected artifact84. Five owner files remain byte-exact at E046/K1092/M695/I589/R219/RT675. Master section3 still selects the complete frozen V25 claim register. All777 formulations, dispositions and source ancestries, the formal19-dimension protocol tail and registered schema tail remain exact.
+The earned [Subaru V01–V25 model](05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V25_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_NATSUKI_SUBARU_V01_V25_FIDELITY_REVIEW.md) are implemented with local documentary PASS_WITH_BOUND across all nineteen dimensions, incorporating a separate source-grounded critique. The default is V25_E046_UNKNOWN_PLAIN_AFTER_HERO_INTRODUCTION_REM_UNRECOGNIZING. The own full publication and integration gate is pending. The earlier V01–V10 model and audit keep their own scope and terminal E013.
 
-The Arc06 checkpoint implements the earned five-volume consolidation. The seven person operations remain EARNED_UNIMPLEMENTED/UNGRADED. Earlier local grades retain their exact source, default and same-analyst nonblind documentary bounds.
+Close SUBARU_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order, each with its own applied fidelity review and complete publication and integration gate. After all six, open the exact sealed V26 horizon and continue through admitted V43 and the mandatory terminal architecture, state, readiness and acquisition review. CI owns merges.
 
-Close ARC_06_FULL_PUBLICATION_INTEGRATION_GATE. Then execute SUBARU_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW, each with its own complete publication/integration gate before the next. Open sealed V26 afterward. Continue after every raised PR through admitted V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges.
+The 84 protected artifacts, 26 previous model scopes and 53 previous model and review files retain their exact bytes. The five owners remain at E046/K1092/M695/I589/R219/RT675. Master §3 still selects all 777 exact V25 formulations, dispositions and ancestries.
 
-The Arc06 checkpoint compares readable ended lives, selective memory loss, chosen company and differently received support. It preserves the Meili release discrepancy, source-count tension, Julius contract wording, human/fox separation and the terminal identity questions. The current plain transition is survived, with later tower-party safety individually unshown.
+The C691 speaker and request correction is recorded in master §13 and the fidelity review. The original episode anchors preserve the bounds on the latest physical Louis and current Rem.
 
-All eight whole V19–V26 prospective bodies remain literal. V26 remains unopened, with 60 questions and10 forecasts sealed at2026-11-07T14:56:58.822051Z,24594UTF8bytes and SHA25693182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
+The eight whole V19–V26 prospective bodies retain their literal form. V26 remains unopened with 60 questions and 10 forecasts sealed at 2026-11-07T14:56:58.822051Z. Its 24,594 UTF-8 bytes have SHA-256 93182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
 
 ## Governing method and retrieval route
 
@@ -102,15 +102,15 @@ A discarded or superseded event-state can remain highly probative character evid
 
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | Protocol V1.53 and architecture V1.54 route the implemented Arc06 checkpoint and seven earned person operations. Formal fidelity controls remain exact. |
-| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | Source lock V0.57. V25 remains the last fully consumed Japanese original. Admission, V41 exception and dated acquisition gaps retain exact scope. |
-| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V25 and four earlier checkpoints have closed gates. The fifth checkpoint, Arc06 V21–V25, is implemented with32local propositions and its own pending full gate. [Arc06 source-verified checkpoint](02%20Sequential%20Readings/REZERO_ARC_06_CHECKPOINT.md). |
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | Protocol V1.54 and architecture V1.55 route the new derived operation. Architecture §16 binds the standing multi-agent volume configuration. |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | Source lock V0.58. V25 is the last fully consumed Japanese original. V26 is unopened. |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V25 and five source-verified checkpoints have closed gates. Arc 6 integrates 32 cross-volume propositions. [Arc 6 selectors](02%20Sequential%20Readings/REZERO_ARC_06_CHECKPOINT.md#14-readiness-and-architecture-responsibility). |
 | `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
-| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | Master V1.55 owns current readiness and selects777exact claims in the frozen V25 register. Schema V0.56 retains fields. Five owner files remain byte-exact at E046/K1092/M695/I589/R219/RT675, with working45deaths/46segments and open source tensions. |
-| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | Directory V0.44 routes26historical scopes. Seven earned person operations remain unimplemented and ungraded after this checkpoint gate. |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | Master V1.56 selects 777 exact V25 claims and current readiness. Schema V0.57 routes the five complete owners at E046/K1092/M695/I589/R219/RT675. The working count is 45 deaths and 46 reached segments with open source tension. |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | Directory V0.45 routes 27 bounded scopes including implemented Subaru V01–V25 under its own gate. Six further Arc 6 person operations are earned. |
 | `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
 | `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
-| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | V25/PR498 exact source, merge and current-main all511test audits, source housekeeping and later native proof closed its full gate. Arc06 saved semantic acceptance and its own publication gate have separate responsibilities. |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | Arc 6 full gate is closed through PR #501. The separate Subaru review records the local result and independent critique. The Subaru full gate is pending. |
 | future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
 | future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
@@ -119,11 +119,11 @@ The absence of an unused directory is intentional. Re:Zero should grow by analyt
 
 ## Sequential lock and history
 
-V25/PR498 full publication and integration gate is CLOSED. Author and final source 8272d04ee2d42f7d39e845ce0630d6cf7ee1aed8 integrated at actual ordered-parent merge 68df1b566bdc15e7235e03cc5f553b3d726cf8a2, with verified current-main role 9fa21ee99926a07b71ae808e8349ad40089bf00b. Exact source audit42385324187, actual-merge audit42389103220 and current-main audit42389965789 each actually executed all511 discovered tests with zero nonpasses and isolated trusted success statuses58329903958,58331421325 and58331629815. Source-specific housekeeping42386329605 verified routing current. All three commits share Re:Zero subtree5b0dc5f5e9599f216e3193a0f7876af96f431533. Later native proof completed at2026-11-07T16:28:20.139464Z and the durable full gate closed at16:28:21.653363Z before Arc06 execution. [PR498](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/498)
+Arc 6 full publication and integration is CLOSED. CI merged the exact final source bd78aaa984f47306f2da733c035de53e45431514 at b0d1294fa93ff1aa0b2df0e03de16db3a7d45106. Later native verification at 2026-11-17T05:51:45.064184+00:00 confirmed the same project tree on verified main 1659818b852648bdfa7718154049877130c981eb. [PR #501](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/501)
 
-All eight whole V19–V26 prospective bodies remain literal. V26 remains unopened, with 60 questions and10 forecasts sealed at2026-11-07T14:56:58.822051Z,24594UTF8bytes and SHA25693182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
+The eight whole V19–V26 prospective bodies retain their literal form. V26 remains unopened with 60 questions and 10 forecasts sealed at 2026-11-07T14:56:58.822051Z. Its 24,594 UTF-8 bytes have SHA-256 93182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
 
-Close ARC_06_FULL_PUBLICATION_INTEGRATION_GATE. Then execute SUBARU_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW, each with its own complete publication/integration gate before the next. Open sealed V26 afterward. Continue after every raised PR through admitted V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges.
+Close SUBARU_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order, each with its own applied fidelity review and complete publication and integration gate. After all six, open the exact sealed V26 horizon and continue through admitted V43 and the mandatory terminal architecture, state, readiness and acquisition review. CI owns merges.
 
 ## Reasoning-class routing
 
@@ -183,11 +183,10 @@ Publication follows the current repository integration checklist. Routing-curren
 
 ## Current work order
 
-1. Preserve83entering protected artifacts,26historical scopes,53model/review files,777current rows, five complete owners, eight literal prospective bodies and formal tails.
-2. Publish the accepted Arc06 checkpoint and reconcile its exact remote, actual full-test audit, source housekeeping, CI merge/current-main audits and later native proof.
-3. After that full gate, execute Subaru, Ram, Julius, human Anastasia, Louis, Shaula and manifested Reid in the separately scoped order, each with its own full gate.
-4. Open the existing whole sealed V26 body only after those seven gates, then continue sequentially through admitted V43.
-5. Complete the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges and work continues after each raised PR.
+1. Complete Subaru’s final-path publication, exact-source audit, source housekeeping, CI merge, actual-merge and current-main audits and later native verification.
+2. Execute Ram, Julius, human Anastasia, Louis, Shaula and manifested Reid in that order. Each operation needs its own semantic review and full gate.
+3. After those gates, use the existing sealed V26 horizon and continue the Japanese sequence through V43.
+4. Complete the terminal architecture, source-state, readiness and acquisition review. Continue after each opening of a PR, subject to the binding dependency. CI owns merges.
 
 ## Bootstrap abstentions
 
@@ -1665,4 +1664,97 @@ The incoming V25 body remains literal. The complete V26 horizon is sealed at 245
 5. Execute the Arc06 checkpoint and seven earned person operations, each with its own full gate, before sealed V26.
 6. Continue through admitted V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges.
 
+``````````
+
+### Subaru V01–V25 transaction — exact entering fragments
+
+These dated records preserve the entering current text and its previous scope.
+
+#### Entering fragment 1
+
+``````````markdown
+  next_permitted_operation: ARC_06_FULL_PUBLICATION_INTEGRATION_GATE
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+  next_candidate_operation: ARC_06_FULL_PUBLICATION_INTEGRATION_GATE
+``````````
+
+#### Entering fragment 3
+
+``````````markdown
+
+Verified integrated sequential high-water is V25 through PR498, with777 current narrative claims. The source-verified Arc06 checkpoint is IMPLEMENTED with32 local cross-volume propositions and its own full publication/integration gate PENDING. The current E046 survives displacement and ends on an unnamed plain with awake Rem and physical Louis. The working derivation remains45 cumulative Subaru deaths and46 reached analytical segments. Four new terminal scenes are selected individually and eleven are compressed in the stated fifteen-death sequence. SOURCE_COUNT_TENSION remains OPEN for the seventeenth restart, fifteen deaths, twenty-two post-loss deaths and total forty. [Arc06 source-verified checkpoint](02%20Sequential%20Readings/REZERO_ARC_06_CHECKPOINT.md)
+
+V25/PR498 full publication and integration gate is CLOSED. Author and final source 8272d04ee2d42f7d39e845ce0630d6cf7ee1aed8 integrated at actual ordered-parent merge 68df1b566bdc15e7235e03cc5f553b3d726cf8a2, with verified current-main role 9fa21ee99926a07b71ae808e8349ad40089bf00b. Exact source audit42385324187, actual-merge audit42389103220 and current-main audit42389965789 each actually executed all511 discovered tests with zero nonpasses and isolated trusted success statuses58329903958,58331421325 and58331629815. Source-specific housekeeping42386329605 verified routing current. All three commits share Re:Zero subtree5b0dc5f5e9599f216e3193a0f7876af96f431533. Later native proof completed at2026-11-07T16:28:20.139464Z and the durable full gate closed at16:28:21.653363Z before Arc06 execution. [PR498](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/498)
+
+All83 entering protected artifacts,26 historical model scopes and53 model/review files remain exact. The new checkpoint becomes protected artifact84. Five owner files remain byte-exact at E046/K1092/M695/I589/R219/RT675. Master section3 still selects the complete frozen V25 claim register. All777 formulations, dispositions and source ancestries, the formal19-dimension protocol tail and registered schema tail remain exact.
+
+The Arc06 checkpoint implements the earned five-volume consolidation. The seven person operations remain EARNED_UNIMPLEMENTED/UNGRADED. Earlier local grades retain their exact source, default and same-analyst nonblind documentary bounds.
+
+Close ARC_06_FULL_PUBLICATION_INTEGRATION_GATE. Then execute SUBARU_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW, each with its own complete publication/integration gate before the next. Open sealed V26 afterward. Continue after every raised PR through admitted V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges.
+
+The Arc06 checkpoint compares readable ended lives, selective memory loss, chosen company and differently received support. It preserves the Meili release discrepancy, source-count tension, Julius contract wording, human/fox separation and the terminal identity questions. The current plain transition is survived, with later tower-party safety individually unshown.
+
+All eight whole V19–V26 prospective bodies remain literal. V26 remains unopened, with 60 questions and10 forecasts sealed at2026-11-07T14:56:58.822051Z,24594UTF8bytes and SHA25693182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
+``````````
+
+#### Entering fragment 4
+
+``````````markdown
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | Protocol V1.53 and architecture V1.54 route the implemented Arc06 checkpoint and seven earned person operations. Formal fidelity controls remain exact. |
+``````````
+
+#### Entering fragment 5
+
+``````````markdown
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | Source lock V0.57. V25 remains the last fully consumed Japanese original. Admission, V41 exception and dated acquisition gaps retain exact scope. |
+``````````
+
+#### Entering fragment 6
+
+``````````markdown
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V25 and four earlier checkpoints have closed gates. The fifth checkpoint, Arc06 V21–V25, is implemented with32local propositions and its own pending full gate. [Arc06 source-verified checkpoint](02%20Sequential%20Readings/REZERO_ARC_06_CHECKPOINT.md). |
+``````````
+
+#### Entering fragment 7
+
+``````````markdown
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | Master V1.55 owns current readiness and selects777exact claims in the frozen V25 register. Schema V0.56 retains fields. Five owner files remain byte-exact at E046/K1092/M695/I589/R219/RT675, with working45deaths/46segments and open source tensions. |
+``````````
+
+#### Entering fragment 8
+
+``````````markdown
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | Directory V0.44 routes26historical scopes. Seven earned person operations remain unimplemented and ungraded after this checkpoint gate. |
+``````````
+
+#### Entering fragment 9
+
+``````````markdown
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | V25/PR498 exact source, merge and current-main all511test audits, source housekeeping and later native proof closed its full gate. Arc06 saved semantic acceptance and its own publication gate have separate responsibilities. |
+``````````
+
+#### Entering fragment 10
+
+``````````markdown
+
+V25/PR498 full publication and integration gate is CLOSED. Author and final source 8272d04ee2d42f7d39e845ce0630d6cf7ee1aed8 integrated at actual ordered-parent merge 68df1b566bdc15e7235e03cc5f553b3d726cf8a2, with verified current-main role 9fa21ee99926a07b71ae808e8349ad40089bf00b. Exact source audit42385324187, actual-merge audit42389103220 and current-main audit42389965789 each actually executed all511 discovered tests with zero nonpasses and isolated trusted success statuses58329903958,58331421325 and58331629815. Source-specific housekeeping42386329605 verified routing current. All three commits share Re:Zero subtree5b0dc5f5e9599f216e3193a0f7876af96f431533. Later native proof completed at2026-11-07T16:28:20.139464Z and the durable full gate closed at16:28:21.653363Z before Arc06 execution. [PR498](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/498)
+
+All eight whole V19–V26 prospective bodies remain literal. V26 remains unopened, with 60 questions and10 forecasts sealed at2026-11-07T14:56:58.822051Z,24594UTF8bytes and SHA25693182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
+
+Close ARC_06_FULL_PUBLICATION_INTEGRATION_GATE. Then execute SUBARU_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW, each with its own complete publication/integration gate before the next. Open sealed V26 afterward. Continue after every raised PR through admitted V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges.
+``````````
+
+#### Entering fragment 11
+
+``````````markdown
+
+1. Preserve83entering protected artifacts,26historical scopes,53model/review files,777current rows, five complete owners, eight literal prospective bodies and formal tails.
+2. Publish the accepted Arc06 checkpoint and reconcile its exact remote, actual full-test audit, source housekeeping, CI merge/current-main audits and later native proof.
+3. After that full gate, execute Subaru, Ram, Julius, human Anastasia, Louis, Shaula and manifested Reid in the separately scoped order, each with its own full gate.
+4. Open the existing whole sealed V26 body only after those seven gates, then continue sequentially through admitted V43.
+5. Complete the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges and work continues after each raised PR.
 ``````````
