@@ -60,5 +60,6 @@ Each accepted future unit appends a transaction: unit/witness identity; full rea
 | Date | Control event | Analytical consequence |
 |---|---|---|
 | 2026-11-07 | Four independent notebook section contracts initialized for standalone scope | Zero literary observations; no subjects, claims or readiness findings; lock remains closed |
+| 2026-11-16 | Witness `TDH-JP-01` bound; run `TDH-RUN-20261116-U01-U15` authorized; lock opened; multi-agent configuration recorded (architecture §8.1) | Still zero literary observations; unit transactions will be appended below as each unit is accepted |
 
 Split a section into a dedicated file only when its independent retrieval need is demonstrated. Preserve IDs, full rows and bidirectional crosswalks; update the architecture and entrypoint together. Frozen snapshots receive errata or superseding versions, never silent replacement. This notebook remains the current mutable retrieval layer until a recorded architectural amendment changes that responsibility.
