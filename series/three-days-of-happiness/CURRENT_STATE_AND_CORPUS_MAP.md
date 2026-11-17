@@ -8,8 +8,8 @@ generation: INITIAL_BOOTSTRAP
 status: canonical
 scope: "Current entrypoint"
 authority_scope: project_design_active_run_authority_source_boundary_and_corpus_routing
-source_boundary: "TDH-JP-01 bound and admitted for run TDH-RUN-20261116-U01-U15; committed reading high-water mark NONE; U01 is the next candidate"
-last_updated: 2026-11-16
+source_boundary: "TDH-JP-01 bound and admitted for run TDH-RUN-20261116-U01-U15; committed reading high-water mark U01; U02 is the next candidate"
+last_updated: 2026-11-17
 canonical_home: series/three-days-of-happiness/CURRENT_STATE_AND_CORPUS_MAP.md
 supersedes: []
 superseded_by: []
@@ -27,15 +27,15 @@ project_initialization:
     - TDH_SOURCE_REGISTER.md
     - TDH_LONGITUDINAL_NOTEBOOK.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: U01
+  next_permitted_operation: U02
 sequential_execution:
   run_id: TDH-RUN-20261116-U01-U15
   mode: continuous_sequential
   unit_type: chapter
   authorized_start: U01
   terminal_boundary: U15
-  committed_high_water_mark: NONE_BEFORE_U01
-  next_candidate_operation: U01
+  committed_high_water_mark: U01
+  next_candidate_operation: U02
   confirmation_between_units: false
   run_state: active
 recommended_reasoning_class: SUBSTANTIVE_ANALYSIS
@@ -51,7 +51,7 @@ The method and architecture govern the project. The architecture lifecycle is `I
 
 *Bootstrap record (2026-11-07, superseded as current state on 2026-11-16):* the lock was then closed, no sequential execution existed, every frontier was empty, and the next permitted operation was `NONE_AWAITING_RUN_AUTHORIZATION`.
 
-**SEQUENTIAL_ANALYSIS_LOCK = OPEN** from 2026-11-16, after SRC-01–SRC-04 were resolved in the [source register](TDH_SOURCE_REGISTER.md#admission-resolution-2026-11-16), the multi-agent configuration was recorded, and owner authorization was received. Run `TDH-RUN-20261116-U01-U15` is **active**. Committed reading high-water mark: none yet (`NONE_BEFORE_U01`). Next candidate and next permitted operation: **U01**. The synthesis and reconstruction frontiers are **EMPTY**. An OPEN lock is a precondition for this run's admissions, not authority for any other source.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN** from 2026-11-16, after SRC-01–SRC-04 were resolved in the [source register](TDH_SOURCE_REGISTER.md#admission-resolution-2026-11-16), the multi-agent configuration was recorded, and owner authorization was received. Run `TDH-RUN-20261116-U01-U15` is **active**. Committed reading high-water mark: **U01** (accepted 2026-11-17). Next candidate and next permitted operation: **U02**. The synthesis and reconstruction frontiers are **EMPTY**. An OPEN lock is a precondition for this run's admissions, not authority for any other source.
 
 <a id="owner-run-authorization"></a>
 
@@ -111,7 +111,7 @@ Both supporting records are required day-one infrastructure. At the 2026-11-16 a
 
 | Unit | Canonical reading | Acceptance |
 |---|---|---|
-| — | No reading accepted yet | — |
+| U01 | [Front matter and chapter 1 「十年後の約束」](readings/TDH_U01_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
 
 ## Reconnaissance actually achieved
 
