@@ -4,9 +4,9 @@ series: scums-wish
 artifact_id: SW_PERSPECTIVE_AND_STATE_LEDGER
 artifact_type: character_state_ledger
 generation: SW-G1
-version: "1.0"
+version: "1.1"
 status: canonical
-authority_scope: "Subject/perspective/state schemas and controls; no character findings"
+authority_scope: "Subject, perspective, state and portrait qualification schemas and controls; no character findings"
 source_boundary: "Metadata reconnaissance of Japanese main manga volumes 01-08 and decor volume 09; no narrative units admitted or inspected"
 canonical_home: series/scums-wish/SW_PERSPECTIVE_AND_STATE_LEDGER.md
 supersedes: []
@@ -50,6 +50,17 @@ Required event fields: `event_id | subject_key | MAIN_or_DECOR | presentation_un
 Separate disposition candidate, developmental state and temporary condition. Change cause is DISPOSITION, KNOWLEDGE, RELATIONSHIP, CONTEXT, ROLE, RESOURCE, REVEALED_NOT_NEW or UNRESOLVED. A newly available decor explanation may change analyst knowledge without changing the person's earlier state. Record both coordinates.
 
 No perspective or state events exist.
+
+## Individual portrait qualification
+
+At the [character and specialist readiness review](SW_SYNTHESIS_ARCHITECTURE.md#6-studies-and-depth-obligations), append a qualification assessment for each person assessed, including when the review leaves the narrative state unchanged. Use one `SW-PQ0001`-style assessment ID per decision.
+
+| Assessment ID | Subject key | MAIN or DECOR horizon and last admitted unit | Prior assessment ID, if any | Qualification outcome | Source-grounded rationale and evidence IDs or locators | Largest evidence gaps or counterexamples | Next review trigger | Portrait path, once it exists | Self-containment result reference | Source-fidelity result reference |
+|---|---|---|---|---|---|---|---|---|---|---|
+
+Use `QUALIFIED_PENDING` for an outstanding portrait, `COMPLETE_AT_BOUNDARY` after the portrait passes its acceptance checks, `DEFERRED_EVIDENCE` when support is insufficient, or `REASSESS_AFTER_REVISION` when new evidence calls an earlier decision into question. At reassessment, append a decision linked to its predecessor. Retain the earlier outcome, rationale and horizon so a DECOR assessment can be traced back to the MAIN-only assessment. The record acquires a portrait path when the document exists. Before recording `COMPLETE_AT_BOUNDARY`, link the row to two separately recorded passing results at that horizon: the self-containment check on the portrait read alone and the fidelity check of its load-bearing claims against the source. The two references may point to distinct results in the same acceptance or integration record.
+
+No qualification assessments exist.
 
 ## Update and history contract
 

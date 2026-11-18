@@ -4,7 +4,7 @@ series: domestic-girlfriend
 artifact_id: DG_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: DG-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL project method; procedural authority only, no literary findings"
 source_boundary: "Metadata reconnaissance of Japanese manga volumes 01-03 only; no narrative units admitted or inspected"
@@ -90,6 +90,8 @@ Locator precision is L1 exact image/panel/balloon, L2 bounded movement or scene,
 Record image-review states in the governed evidence plane: REVIEWED_MATERIAL, NO_MATERIAL_ADDITION, DUPLICATE, EXCLUDED or UNRESOLVED_READABILITY, with reasons where applicable. The Git reading gives total coverage, exclusions and unresolved regions and a safe receipt alias. A hash is integrity evidence, not proof that an image was inspected. Raw images, OCR, transcripts, private IDs, acquisition paths and access tokens stay outside public Git.
 
 ## 9. Complete future volume transaction
+
+Use the [independent source-reading team](DG_SYNTHESIS_ARCHITECTURE.md#independent-source-reading) for every future authorized unit. Close the volume reading's ledger-update manifest with the participant evidence and principal's reconciliation before advancing the accepted frontier.
 
 The required reading artifact is `readings/DG_VNN_DEEP_READING.md`, created only during an authorized run, with structured `artifact_type: deep_reading`. Its sections cover:
 
