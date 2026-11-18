@@ -4,7 +4,7 @@ series: scums-wish
 artifact_id: SW_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: SW-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL project method; methodological authority only, with no narrative findings"
 source_boundary: "Metadata reconnaissance of Japanese main manga volumes 01-08 and decor volume 09; no narrative units admitted or inspected"
@@ -90,6 +90,8 @@ Keep per-image review states in the evidence plane: REVIEWED_MATERIAL, NO_MATERI
 Material claim changes use PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT or OPEN with prior wording retained. Questions and forecasts keep their original horizon. DECOR may trigger a new supplementary formulation and a cross-horizon comparison; it cannot falsify the fact that the earlier uncertainty existed.
 
 ## 9. Required future reading and acceptance
+
+Apply the [standing source-reading configuration](SW_SYNTHESIS_ARCHITECTURE.md#independent-review-of-perspective-and-conduct) at this unit’s authorized frontier. Its transaction records the independent findings and the principal’s adjudication alongside coverage, claim revisions and remaining evidence gaps.
 
 Create `readings/SW_MAIN_VNN_DEEP_READING.md`, or separately authorized `readings/SW_DECOR_V09_DEEP_READING.md`, with `artifact_type: deep_reading` only during a legitimate run. Required content:
 
