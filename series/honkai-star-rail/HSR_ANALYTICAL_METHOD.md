@@ -3,7 +3,7 @@ title: "Honkai: Star Rail — Governing analytical method"
 artifact_id: HSR_ANALYTICAL_METHOD
 artifact_type: project_game_analytical_method
 series: honkai-star-rail
-version: "1.1"
+version: "1.2"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 scope: "Governing analytical method"
@@ -74,6 +74,8 @@ Preserve reported native `hoyo://` locators but treat their grammar/resolver as 
 Use stable `HSR-Cnnn` claims and `HSR-Snnn` states. The retrieval chain is synthesis assertion → claim version → full reading heading → evidence/native locator and state. Preserve all necessary anchors for distributed patterns. Revisions use `PRESERVE/STRENGTHEN/REVISE/DOWNGRADE/REJECT/OPEN`, keeping original formulation, horizon, counterevidence and dependent artifacts. Source repair, chronology correction, unreliable testimony, branch/variant difference, localization conflict and genuine inconsistency require distinct diagnoses.
 
 A complete block includes locked source/packet receipt and exact coverage; entering states; factual causal account; sustained interpretation; form/register/AV actually inspected; named character, directional relationship, epistemic and group changes; ordinary-life evidence; counterreadings; claim transitions; exiting state; and a transaction naming each required ledger/coverage update or reviewed/no-supported-change disposition. No frontier advances while a required update or consequential channel gap remains outstanding.
+
+Use the [standing causal-block configuration](HSR_SYNTHESIS_ARCHITECTURE.md#reading-a-causal-block-with-independent-analysts) to assign independent graph and source checks before reading. Include the findings, challenges and adjudications in the same block transaction.
 
 Before acceptance, apply handoff §15.6: sample opening, substantial middle and exit synthesis, extending to major relationships, for identifiable subjects, purposeful role references, clear pronouns and correct speaker/thinker/recipient attribution without breaking concealed identity or knowledge horizons. Record sampled scope and supported classifications; mechanical name counts or global substitutions cannot certify semantics. Handoffs preserve full artifact bytes and unresolved obligations. No entrypoint, summary or target dossier replaces full readings.
 
