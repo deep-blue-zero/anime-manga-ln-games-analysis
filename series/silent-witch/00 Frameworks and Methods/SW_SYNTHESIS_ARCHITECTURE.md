@@ -5,8 +5,8 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.27"
-last_updated: "2026-10-18"
+version: "1.29"
+last_updated: "2026-11-17"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review and the V04 supplemental-admission review recorded"
 source_boundary: "Accepted foundation; Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read and closed under it; first closed-volume review based on V01 only; V02 to V04 notes recorded; supplemental-admission review at the V04 boundary recorded before IV -after-."
@@ -126,9 +126,19 @@ One numbered volume is one atomic source transaction. Internal chapter/scene wor
 
 Coverage, accepted interpretation, and repository publication remain distinct. A completely read but unresolved unit is not declared accepted; accepted prose without cumulative updates is not transaction-closed; a commit is not a remote audit. Preserve partial state and do not advance the high-water mark on incomplete closure.
 
+### 6.1 Standing configuration for a future substantive LN reading
+
+Before opening a separately authorized Japanese LN unit, the principal records the witness, admitted members, entering freeze and assignments. The principal reads the whole admitted unit in order, writes the connected reading, and owns its reconciliation into the master and claims ledgers. Each participant receives independent access to the locked Japanese passages and recoverable locators needed for their assignment. Verify actual text access, including ruby or original XHTML where wording matters, and image inspection where a claim depends on an illustration or image-set prose. Keep publisher previews and other witnesses outside the assignment. Record each participant’s prior exposure, including front matter that anticipates later scenes. Freeze prospective judgments before exposure to their resolution. Apply section 11’s packet screening to every context in an independent generation.
+
+A specialist in a separate context first examines the source without the principal’s interpretation. Trace a consequential change in address, register or silence across speakers and recipients, or investigate how focalization distributes knowledge between character and reader. Let the unit determine the question. Where demands diverge, another specialist can trace private aims or counterexamples in ordinary and supporting-character exchanges. Each returns a located observation, its explanatory significance and any viable rival. Reading assignments supply evidence to this unit. Section 7 governs later, retrospective specialist arguments.
+
+A distinct reviewer selects diagnostic passages from the admitted source, preferably before seeing the candidate. Test the candidate’s attribution, locator, order of disclosure and claimed mechanism against those passages and examine what was lost between source, reading and cumulative state under method section 7.1. The principal checks disputes against the witness, records the reason for adopting, qualifying, rejecting or leaving each material finding open, and preserves consequential alternatives. Use the unit observation and typed master record or justified local route under section 5.1. A changed load-bearing claim goes through its claim ID and the claims ledger’s revision-event contract. The same routes resolve within the approved generation.
+
+Resolve each interpretive role from the sequential-reading class in section 9. Escalate a difficult focalization dispute or a revision with broad downstream effects according to its actual burden. Record observed capabilities separately from reasoning. Only an unusually bounded unit can combine specialist and review duties in one independent context. Its receipt must explain why that participant could both contribute original findings and directly challenge the candidate. A full companion collection calls for the same standing configuration as a numbered volume. If independence or required source inspection is unavailable, preserve the partial work, record the blocker in the current map, and hold acceptance and high-water advancement under [topology section 4.1](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading).
+
 ## 7. Character, relationship, and specialist responsibilities
 
-Substantial character work must eventually explain time-indexed motivations, appraisal, public/private presentation, ordinary behavior, speech, relationship conditioning, contradictions, choices and literary function. A dedicated home is earned by explanatory complexity and independent retrieval across eligible units, not cast prominence. A relationship synthesis is earned when reciprocal asymmetries, shared history, information/obligation, and repair require an argument beyond incidental character sections. Ensemble work should preserve autonomous goals.
+Substantial character work must eventually explain time-indexed motivations, appraisal, public/private presentation, ordinary behavior, speech, relationship conditioning, contradictions, choices and literary function. By a future authorized specialist-readiness review, assess each person for whom the admitted evidence supports a differentiated portrait. Contrasts across recipients, ordinary interactions and evidence against a generic trait can establish that case within one concentrated sequence. Look in the full readings as well as the master ledger. Use the generation’s mutable master ledger character/readiness section to record identity, boundary, decision, rationale and largest gaps, next review trigger, and the path when a portrait exists. A qualified person has a pending monograph until it meets the [self-containment and source-fidelity standard](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard). Carry outstanding portraits into synthesis readiness and release review, and reassess when material new evidence arrives. Reconstruction readiness remains a separate judgment. A relationship synthesis is earned when reciprocal asymmetries, shared history, information/obligation, and repair require an argument beyond incidental character sections. Ensemble work should preserve autonomous goals.
 
 A **thin** character or relationship record means inspected, adequately retained evidence supports only a bounded interpretation in the named domain and state. It does not mean substantial evidence was discarded because the subject seemed secondary. A subject without a monograph can require substantial preservation in readings and cumulative state. Record whether apparent thinness is a source limit, capture/routing gap or unresolved conflict; retrieve or escalate before using it as a readiness judgment. Deferral decisions name the evidence basis, local route and reconsideration trigger and remain revisitable when recovered or newly admitted evidence changes the basis. No monograph is required for every supporting character, and the historical V1 target choices remain intact.
 
@@ -374,3 +384,11 @@ Only after independent completion and that freeze may separately authorized comp
 ### Amendment record — 1.27, 2026-10-18
 
 Owner-requested methodology amendment after completed V1: explicit preservation at each transition, significance-based one-off promotion, qualified thinness, reinspection duties, semantic-retention gate dependencies and independent-generation isolation. Lifecycle remains STABILIZED; all cumulative responsibilities and canonical homes remain in place. The current claim route is corrected to the already existing claims ledger. No literary backfill, source admission, readiness reassessment or qualification was performed. The amendment report and current entrypoint record the review boundary and remaining pre-run obligations.
+
+### Amendment record — 1.28, 2026-11-17
+
+Added section 6.1 to assign source-reading participation and reconciliation for a future authorized unit. Lifecycle remains STABILIZED. The completed V1 and independent G2 records retain their original execution histories.
+
+### Amendment record — 1.29, 2026-11-17
+
+Specified future individual portrait qualification and acceptance in section 7. The existing master ledger remains the decision home within the authorized generation. Historical targets and assessments remain at their recorded boundaries.
