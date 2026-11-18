@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 173; `STALE` 2; `SUPERSEDED` 35
+- Recorded totals: `CANDIDATE` 175; `STALE` 2; `SUPERSEDED` 35
 
 ## Namespaces
 
@@ -23,7 +23,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | --- | ---: | ---: |
 | [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 14 | 14 |
 | [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
-| [`azur-lane`](reconstruction_index/azur-lane.md) | 3 | 3 |
+| [`azur-lane`](reconstruction_index/azur-lane.md) | 4 | 4 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
 | [`chiramune`](reconstruction_index/chiramune.md) | 3 | 3 |
 | [`classroom-of-the-elite`](reconstruction_index/classroom-of-the-elite.md) | 1 | 1 |
@@ -48,7 +48,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 6 | 6 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
-| [`silent-witch`](reconstruction_index/silent-witch.md) | 3 | 3 |
+| [`silent-witch`](reconstruction_index/silent-witch.md) | 4 | 4 |
 | [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
 | [`sound-euphonium`](reconstruction_index/sound-euphonium.md) | 1 | 1 |
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
@@ -79,6 +79,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `azur-lane:baltimore@mobile-game` | [`azur-lane-baltimore-mobile-game-character-monograph-20261115-01`](reconstruction_index/azur-lane.md#azur-lane-baltimore-mobile-game-character-monograph-20261115-01) | `CANDIDATE` | `B` | `2fb9e0d724982f17dadd3071d97fe332920caaf7` |
 | `azur-lane:bremerton@mobile-game` | [`azur-lane-bremerton-mobile-game-character-monograph-20261115-01`](reconstruction_index/azur-lane.md#azur-lane-bremerton-mobile-game-character-monograph-20261115-01) | `CANDIDATE` | `C` | `2fb9e0d724982f17dadd3071d97fe332920caaf7` |
 | `azur-lane:st-louis@mobile-game` | [`azur-lane-st-louis-mobile-game-character-monograph-20261118-01`](reconstruction_index/azur-lane.md#azur-lane-st-louis-mobile-game-character-monograph-20261118-01) | `CANDIDATE` | `C` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
+| `azur-lane:taihou@mobile-game` | [`azur-lane-taihou-mobile-game-character-monograph-20261118-01`](reconstruction_index/azur-lane.md#azur-lane-taihou-mobile-game-character-monograph-20261118-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `blue-archive:aru@game` | [`blue-archive-aru-game-c001-distributed-20261024-01`](reconstruction_index/blue-archive.md#blue-archive-aru-game-c001-distributed-20261024-01) | `CANDIDATE` | `E` | `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` |
 | `blue-archive:kokuriko@game` | [`blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01`](reconstruction_index/blue-archive.md#blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01) | `CANDIDATE` | `E` | `0f3b661d66455030cb663d9486a11879f0911cf9` |
 | `blue-archive:prenapates@game` | [`blue-archive-prenapates-game-character-monograph-20261106-01`](reconstruction_index/blue-archive.md#blue-archive-prenapates-game-character-monograph-20261106-01) | `CANDIDATE` | `E` | `1ec6a88d6120d2e28a07c5e99a809ab985f67302` |
@@ -223,6 +224,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-20261021-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-20261021-01) | `SUPERSEDED` | `E` | `036ed43f1d2a974b5351429792bae2c733e577db` |
 | `silent-witch:cyril-ashley@light-novel` | [`silent-witch-cyril-ashley-ln-v01-v12-monograph-20261118-01`](reconstruction_index/silent-witch.md#silent-witch-cyril-ashley-ln-v01-v12-monograph-20261118-01) | `CANDIDATE` | `B` | `e6f79b7ae8e86c2b0c04ebda19f756486a13e87e` |
 | `silent-witch:isaac-walker@light-novel` | [`silent-witch-isaac-walker-ln-v01-v12-monograph-20261118-01`](reconstruction_index/silent-witch.md#silent-witch-isaac-walker-ln-v01-v12-monograph-20261118-01) | `CANDIDATE` | `B` | `e6f79b7ae8e86c2b0c04ebda19f756486a13e87e` |
+| `silent-witch:louis-miller@light-novel` | [`silent-witch-louis-miller-ln-v01-v12-monograph-20261118-01`](reconstruction_index/silent-witch.md#silent-witch-louis-miller-ln-v01-v12-monograph-20261118-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `silent-witch:monica-everett@light-novel` | [`silent-witch-monica-everett-ln-v01-v12-monograph-20261118-01`](reconstruction_index/silent-witch.md#silent-witch-monica-everett-ln-v01-v12-monograph-20261118-01) | `CANDIDATE` | `B` | `2737dd7629ad709ad10b117715984f84b2cc0aa7` |
 | `solo-leveling:cha-hae-in@original-korean-novel` | [`solo-leveling-cha-hae-in-original-korean-novel-reconstruction-model-20261107-01`](reconstruction_index/solo-leveling.md#solo-leveling-cha-hae-in-original-korean-novel-reconstruction-model-20261107-01) | `CANDIDATE` | `C` | `7da71cb9be614645641dc5c0038b1df3acf07063` |
 | `solo-leveling:sung-jinwoo@original-korean-novel` | [`solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01`](reconstruction_index/solo-leveling.md#solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01) | `STALE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |

@@ -111,6 +111,61 @@ Recorded assessments of subjects in the `silent-witch` namespace of the [Charact
 - Evidence at basis commit:
   - [`silent-witch:isaac-walker@light-novel#v1-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e6f79b7ae8e86c2b0c04ebda19f756486a13e87e/series/silent-witch/06%20Character%20and%20Relationship%20Arguments/SW_CHARACTER_ISAAC_WALKER.md)
 
+### Subject `silent-witch:louis-miller@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/silent-witch/louis-miller@light-novel.jsonl`](../reconstruction_capabilities/silent-witch/louis-miller@light-novel.jsonl)
+
+<a id="silent-witch-louis-miller-ln-v01-v12-monograph-20261118-01"></a>
+
+#### Assessment `silent-witch-louis-miller-ln-v01-v12-monograph-20261118-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `silent-witch:louis-miller`
+- Scope: continuity `silent-witch-japanese-light-novels`
+- Source boundary: Only silent-witch:louis-miller@light-novel\#v1-character-monograph \(the canonical V1 character monograph SW\_CHARACTER\_LOUIS\_MILLER.md, version 1.0\) at basis\_commit, read in full as reviewed repository analysis of the Japanese light novels V01-V12 with the companions IV -after- \(AFTER04\) and IX -extra- \(EXTRA09\) and the two -another- prequel volumes, as closed at snapshot 60b21a7 \(sixteen units\). Louis is seen mostly from outside in the numbered track, through short strategic secret episodes, and from inside in the prequels, which were admitted and read last; the monograph marks prequel evidence as retrospective and does not use it to revise a frozen numbered reading. Paratext is cited only as paratext. The monograph was written by a fresh-context analyst from name-filtered retrieval \(V05-V08 and V10 read only in part\) and checked mechanically and for knowledge boundaries by the integrator; neither reread the Japanese source, and owner semantic acceptance is not claimed. The master ledger, the readings, the relationship arguments, the project's reconstruction-readiness assessment and the Codex G2 material are not curated on this subject and nothing is borrowed from them. No web serial, adaptation or translation is used, and the evaluator inspected no primary source.
+- Temporal boundary: Evidence runs from Louis's childhood in the Dangrots brothel through Minerva, the Magic Corps, the Sage selection and his marriage \(all before V01, from the prequels, retrospective\), the AFTER04 prologue and the first EXTRA09 chapter \(his first year or so as a Sage, also before V01\), and the numbered track to the end of V12. Facts disclosed late \(Vivian's request, Clockford's suppression of his candidacy\) belong to the world at every earlier state, but Louis's knowledge follows the monograph: he never learns that Adolf started the rumour about Birdland, and he learns of the suppression only when told. Within V01-V12 his state changes little and his roles accumulate; the assessed split is the V09 council \(V09 obs. 072, 104, 137\), before which he assumes Monica will never ask for help and after which he dates his third method, connections, to that defeat \(V11 obs. 183\). The V11 fog regression \(obs. 119-149\) is a bounded episode, not a state. No state after V12 is established.
+- Basis commit: `bd3cf48ffe9720fd54551166a5321439c937e62b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `80bbad8717d88c518e8e94ddf0b6d93924aad10c4e1bc6d5b5f88340fcf67756`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Output is illustrative and labelled noncanonical, never presented as a quotation.
+  - `DIALOGUE` condition: Output is in English or another rendering that describes register; no Japanese pronoun, ending or lexical claim is made.
+  - `DIALOGUE` condition: The register is chosen by the documented conditions: polished politeness by default, hardening to command under pressure, rough speech when attacked or provoked about his looks, the northern accent only when the polish drops \(the fog regression, or private sincerity with Rosalie\).
+  - `DIALOGUE` condition: The recipient is one of the sampled recipients, at a named state, chosen before wording.
+  - `CROSS_SCENARIO` condition: A Sage-duty, dragon-subjugation, investigation or court-politics problem in which he protects family and the vulnerable first, uses capable juniors instrumentally, and invests in the standing of people he respects.
+  - `CROSS_SCENARIO` condition: Novel provocation by a rival or a slight, answered with effort or disproportionate force unless someone whose approval he wants is watching.
+  - `CROSS_SCENARIO` condition: Pre-V09 he assumes Monica will not ask for help; post-V09 he credits connections as method.
+  - `CROSS_SCENARIO` condition: Abstain where the scenario requires choosing between serious harm to Monica and a mission or political aim, or depends on the post-V12 Kerbeck dragon mission, the seventh Sage, Carla's family matter or whom Lynn loves.
+  - `CROSS_SCENARIO` bounds: chronology Adult Sage between the AFTER04 prologue and the end of V12, with the state named as before or after the V09 council; prequel states only as retrospective history.; interlocutor Monica, Rosalie, Glen, Owen, Lynn, Rutherford, Lionel, Adolf or Birdland as sampled; a stranger gets the polished register without invented history.; settings Settings the evidence samples: Sage duty, Magic Corps work, missions, court and family home.; No post-V12 events and no reliance on withheld identities.; Serious violence is predicted only in the forms the evidence locates.
+  - `MUNDANE_SOCIAL` condition: Meals, drink, gifts, travel, errands or household care with Rosalie, Owen, Glen, Monica or Lynn.
+  - `MUNDANE_SOCIAL` condition: Jam, liquor and money habits as located; tending and mending are skills from the brothel.
+  - `MUNDANE_SOCIAL` condition: Affection to friends in gruff or commanding register, not stated warmth.
+  - `ETHICAL_DELIBERATION` condition: Predict his stance on the located questions: exposing frauds and Clockford's faction, testing pupils, coercing capable colleagues, vengeance on behalf of others.
+  - `ETHICAL_DELIBERATION` condition: State the stance and its stated rationale, not an invented deliberation.
+  - `ETHICAL_DELIBERATION` condition: Abstain on novel moral dilemmas outside these positions.
+  - `ROMANCE_RELATIONSHIP` condition: The partner is Rosalie at a named state: Minerva courtship, the polished engagement and its misreading, the carriage restoration, or marriage.
+  - `ROMANCE_RELATIONSHIP` condition: Devotion concealed by sarcasm or polish in public, sincerity in the northern accent in private.
+  - `ROMANCE_RELATIONSHIP` condition: No other romance; Lynn's and Glen's feelings are theirs, not his.
+  - `PROFESSIONAL_CONTEXT` condition: Sage or Corps duty, dragon subjugation, investigation through information control, teaching Glen, or coordinating his connections \(V11 obs. 182-188\).
+  - `PROFESSIONAL_CONTEXT` condition: Barrier-based tactics as located, including rule loopholes.
+  - `PROFESSIONAL_CONTEXT` condition: No unshown Sage deliberation and no Spirit-King summoning detail.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` B; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `cross-unit-inferences` (evidence-backed limitation): Two points are labelled inference: that Louis was the unnamed past abuser behind the duel barrier's rule, and that his V11 'connections' self-report describes method learned rather than connections first acquired.
+  - `filtered-retrieval-v05-v10` (evidence-backed limitation): Numbered-track evidence was gathered through section reads and name-filtered observation rows; V05-V08 and V10 were read only in part, so observations of Louis in the mission years may be missing.
+  - `house-seam` (evidence-backed limitation): V10's remark that Lynn's contract stone cost him his dream of a house is unreconciled with the prequel's purchase of a house after the contract.
+  - `no-validation-or-probes` (evidence gap): No probe, held-out test or validation of predictions about Louis exists in the cited evidence.
+  - `not-source-reread` (evidence-backed limitation): The monograph was written by a fresh-context analyst from a read-only copy of the readings, and neither analyst nor integrator reread the Japanese source; no Japanese is quoted. Owner semantic acceptance is not claimed.
+  - `numbered-track-interiority-strategic` (evidence-backed limitation): In V01-V12 his interior appears only in short, mostly strategic secret episodes; motive there rests on inference from conduct, and the continuous inside view comes from the prequels, read last.
+  - `open-threads-v12` (evidence-backed limitation): Open at V12 and unpredicted: the Kerbeck black-dragon mission, how he learned Spirit-King summoning, Carla's family matter, the selection of the seventh Sage and whom Lynn loves.
+  - `prequel-retrospective` (evidence-backed limitation): Prequel evidence is marked retrospective: it explains the numbered track and does not revise a frozen numbered reading.
+  - `pride-care-ordering` (evidence-backed limitation): Where serious harm to Monica conflicts with a mission or political aim the evidence divides \(V07 obs. 136-138; V08 obs. 188, 253 against V04 obs. 096; V02 obs. 096\). The monograph treats pride and care as fused and does not adjudicate which decides.
+  - `withheld-identities` (evidence-backed limitation): Withheld identities \(the patron called by the honorific, the seventh Sage, the executed researcher, the pale-gold girl\) are not named, and his soirée suspicion of the second prince is his perception, not knowledge.
+  - `written-speech-only` (evidence-backed limitation): Accent, register and address rest on written prose; nothing about voice or delivery is claimed.
+- Evidence at basis commit:
+  - [`silent-witch:louis-miller@light-novel#v1-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/bd3cf48ffe9720fd54551166a5321439c937e62b/series/silent-witch/06%20Character%20and%20Relationship%20Arguments/SW_CHARACTER_LOUIS_MILLER.md)
+
 ### Subject `silent-witch:monica-everett@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/silent-witch/monica-everett@light-novel.jsonl`](../reconstruction_capabilities/silent-witch/monica-everett@light-novel.jsonl)

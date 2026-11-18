@@ -148,3 +148,56 @@ Recorded assessments of subjects in the `azur-lane` namespace of the [Character 
   - `uncurated-specialists` (evidence gap): The R5-R7 specialist files, the audio reconciliation and voice performance profiles, the impact ledger and the extracted corpus are not curated on this subject, so the record IDs, acoustic figures and adversarial outcomes were not rechecked here.
 - Evidence at basis commit:
   - [`azur-lane:st-louis@mobile-game#azur-lane-st-louis-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/bd3cf48ffe9720fd54551166a5321439c937e62b/series/azur-lane/03%20Character%20Reconstruction/ST_LOUIS_10213/AZUR_LANE_ST_LOUIS_CHARACTER_MONOGRAPH.md)
+
+### Subject `azur-lane:taihou@mobile-game`
+
+- Registry file: [`characters/reconstruction_capabilities/azur-lane/taihou@mobile-game.jsonl`](../reconstruction_capabilities/azur-lane/taihou@mobile-game.jsonl)
+
+<a id="azur-lane-taihou-mobile-game-character-monograph-20261118-01"></a>
+
+#### Assessment `azur-lane-taihou-mobile-game-character-monograph-20261118-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `azur-lane:taihou`
+- Scope: continuity `azur-lane-mobile-game`
+- Source boundary: Only azur-lane:taihou@mobile-game\#azur-lane-taihou-character-monograph, the canonical frozen V1 integrated monograph AZUR\_LANE\_TAIHOU\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the pinned CN-semantic Azur Lane client corpus \(build AZL-2026-08-22-4cca5c24-cc8e9fdf\) as the monograph summarizes it: the seven-chapter dedicated memory dafeng1-dafeng7, 28 CN-linked narrative scenes with 257 direct dialogue lines, 116 normalized character-dialogue records, 25 CN social sections, 125 routed Dorm3D groups, and JP/EN/TW/KR regional textual witnesses. The R0-R3 specialist readings, the R5 adversarial audit, R6 relationship synthesis, R7 speech profile, R8 novel-situation audit, the claim-revision ledger and the extracted corpus are not curated on this subject; their results are used only as the monograph reports them, and probe protocols were not inspected. The project's readiness grade A, score 86.89 and simulator-status labels are inputs, not conclusions. The evaluator performed no primary-source inspection and no audio audition.
+- Temporal boundary: The live-service game has no single story chronology. The monograph's S0-S7 operating states are context states, and its CMD0-CMD3 Commander regimes are explicitly nonchronological; skins and Dorm3D are not forced into a sequence. The only ordered arc is the dafeng1-dafeng7 memory sequence, including the dafeng6-dafeng7 rest and self-condemnation episode. Claims cover the corpus pinned at the build above; content released after it, and the 58 unmapped audio records and four unresolved DormLvPerformance1201-1204 references, are outside the boundary.
+- Basis commit: `bd3cf48ffe9720fd54551166a5321439c937e62b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `bb3e570b9f7fc9c9ebcb469633fc34c65bee740b3e5110074d53bf8c682ca093`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Output is illustrative and labelled noncanonical, never presented as a quotation.
+  - `DIALOGUE` condition: Appraisal and action are predicted first, inside the section 26 C1-C3 envelope; one locale \(CN, JP, EN, TW or KR\) is then chosen and only its documented markers and modifiers are applied.
+  - `DIALOGUE` condition: Signature possessive or violent phrasing is not inserted where the state does not call for it.
+  - `DIALOGUE` condition: No performed-voice, timbre or acoustic claim.
+  - `CROSS_SCENARIO` condition: One of the reported families: ordinary peer interaction at low Commander salience, work against desired proximity, self-authored performance, unexpected reciprocal agency \(bounded\), Akagi rivalry under secure choice with feasible local sharing, Albacore harmless disruption or credible threat, mild separation \(bounded\), credible reassurance, secure reciprocal care, tactical problem solving, theatrical violent language, an explicit operational or privacy boundary, small low-cost dependency engineering \(bounded\).
+  - `CROSS_SCENARIO` condition: The Commander regime, security state and the other person's classification are named before prediction.
+  - `CROSS_SCENARIO` condition: Abstain on acute serious refusal, serious Commander rejection, betrayal, prolonged unreassured separation, grave culpable failure, deliberate severe rival harm, long-duration enforced sharing, prolonged nonreciprocal dependency, non-Commander romance, broad moral conflict, permanent incapacity and loss of combat capability.
+  - `CROSS_SCENARIO` condition: Exact outputs are C3 extrapolations, labelled as such.
+  - `CROSS_SCENARIO` bounds: chronology No story chronology; the pinned build AZL-2026-08-22-4cca5c24-cc8e9fdf, with the Commander at a named nonchronological regime \(CMD0-CMD3\) if present.; interlocutor The Commander at a named regime and security state, or Albacore, Akagi, Shoukaku, Yamashiro, Roon or Yat Sen in their documented functions, or an unfamiliar peer group with no Commander-threat cue.; settings Port life, professional exercise or mission, public performance or event, private date, or established domestic setting.; Dorm3D-grounded behaviour only in high-security intimacy settings, never as a baseline.; No high-stakes authority-versus-attachment conflict.
+  - `MUNDANE_SOCIAL` condition: Leisure, port life, group activity or practical conversation with a named peer or unfamiliar peer group.
+  - `MUNDANE_SOCIAL` condition: No Commander references injected merely to make her recognizable \(DR1\).
+  - `MUNDANE_SOCIAL` condition: Breadth of independent hobbies is not invented beyond the located examples.
+  - `ETHICAL_DELIBERATION` condition: Predict how she weighs a legible privacy, work or authority norm against attachment reward, using the section 9.2 outcomes.
+  - `ETHICAL_DELIBERATION` condition: Awareness of excess is not treated as reliable restraint \(DR10\).
+  - `ETHICAL_DELIBERATION` condition: Abstain on acute serious refusal and on moral or ideological questions unrelated to attachment or role.
+  - `ROMANCE_RELATIONSHIP` condition: The partner is the Commander at a named regime \(CMD0-CMD3\) and security state; the regimes are not a canon sequence.
+  - `ROMANCE_RELATIONSHIP` condition: Secure intimacy keeps tracking, access and exclusivity behaviour \(DR12\); self-authored frames raise fluency; an unexpected opening can fluster her.
+  - `ROMANCE_RELATIONSHIP` condition: No hard refusal, serious rejection, betrayal or prolonged separation, and no non-Commander romance.
+  - `PROFESSIONAL_CONTEXT` condition: A legitimate, clearly structured task or exercise; she first seeks a task-plus-closeness solution, then restraint or compliance \(DR2\).
+  - `PROFESSIONAL_CONTEXT` condition: Competent participation under distributed authority and acceptance of peer expertise.
+  - `PROFESSIONAL_CONTEXT` condition: No broad command philosophy, no severe authority-versus-attachment conflict and no grave failure.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` B; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` B; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `commander-heavy` (evidence-backed limitation): 79.3 percent of normalized character dialogue is Commander-facing; peer, public and low-salience evidence receives corrective weight, but global peer psychology rests on a smaller base.
+  - `dorm3d-high-security-stratum` (evidence-backed limitation): Dorm3D is a high-security established-intimacy stratum and must not be projected onto baseline or stranger contexts.
+  - `grave-failure-and-rival-harm-open` (evidence-backed limitation): Grave professional failure with responsibility, moral injury, and the ceiling of severe ordinary-world harm to a rival are OPEN.
+  - `hard-refusal-open` (evidence-backed limitation): The corpus has no clean, serious, informed hard-refusal experiment for intimacy or access; neither ignoring nor immediately honouring a serious no may be inferred.
+  - `no-chronology` (evidence-backed limitation): Operating states and Commander regimes are nonchronological; skins are not a literal sequence, and only the memory arc is ordered.
+  - `non-commander-romance-and-ideology-unsupported` (evidence-backed limitation): Stable non-Commander romantic psychology, a broad moral or ideological worldview and comprehensive leadership style are unsupported.
+  - `performed-voice-open` (evidence-backed limitation): JP performed voice is OPEN\_PARTIAL\_SOURCE\_MAPPING \(151 mapped slots, 58 expected records missing, 57 of them Dorm3D\); text may not be used to fabricate acoustic traits.
+  - `rejection-betrayal-separation-open` (evidence-backed limitation): Responses to serious Commander rejection, betrayal and long separation without reassurance are OPEN, and the exact severe self-as-unwanted threshold is medium.
+  - `validation-reported-not-inspected` (evidence gap): The R5 adversarial audit and the R8 probes and abstention controls behind the C2 and C3 classes are reported in the monograph but are not curated evidence on this subject; their protocols and individual outcomes were not inspected.
+- Evidence at basis commit:
+  - [`azur-lane:taihou@mobile-game#azur-lane-taihou-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/bd3cf48ffe9720fd54551166a5321439c937e62b/series/azur-lane/03%20Character%20Reconstruction/TAIHOU_30707/AZUR_LANE_TAIHOU_CHARACTER_MONOGRAPH.md)
