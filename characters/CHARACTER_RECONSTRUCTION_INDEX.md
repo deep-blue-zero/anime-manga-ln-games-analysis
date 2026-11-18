@@ -15,13 +15,13 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 171; `STALE` 2; `SUPERSEDED` 35
+- Recorded totals: `CANDIDATE` 173; `STALE` 2; `SUPERSEDED` 35
 
 ## Namespaces
 
 | Namespace | Subjects | Assessments |
 | --- | ---: | ---: |
-| [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 12 | 12 |
+| [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 14 | 14 |
 | [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
 | [`azur-lane`](reconstruction_index/azur-lane.md) | 3 | 3 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
@@ -68,10 +68,12 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `86-eighty-six:frederica-rosenfort@original-light-novels` | [`86-eighty-six-frederica-rosenfort-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-frederica-rosenfort-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `b9ff988fda60b9d9ceb6b96dcc403ce6e96fcc41` |
 | `86-eighty-six:grethe-wenzel@original-light-novels` | [`86-eighty-six-grethe-wenzel-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-grethe-wenzel-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `b9ff988fda60b9d9ceb6b96dcc403ce6e96fcc41` |
 | `86-eighty-six:kurena-kukumila@original-light-novels` | [`86-eighty-six-kurena-kukumila-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-kurena-kukumila-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
+| `86-eighty-six:lerche@original-light-novels` | [`86-eighty-six-lerche-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-lerche-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `86-eighty-six:raiden-shuga@original-light-novels` | [`86-eighty-six-raiden-shuga-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-raiden-shuga-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `d68f3465126a2a95fd36138af773ccaea10d8e9a` |
 | `86-eighty-six:shiden-iida@original-light-novels` | [`86-eighty-six-shiden-iida-ln-cmr-profile-20261118-02`](reconstruction_index/86-eighty-six.md#86-eighty-six-shiden-iida-ln-cmr-profile-20261118-02) | `CANDIDATE` | `B` | `442bd3967061332ca915e5d16377c6315b22a1e6` |
 | `86-eighty-six:shinei-nouzen@original-light-novels` | [`86-eighty-six-shinei-nouzen-ln-cmr-profile-20261023-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-shinei-nouzen-ln-cmr-profile-20261023-01) | `CANDIDATE` | `B` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |
 | `86-eighty-six:theoto-rikka@original-light-novels` | [`86-eighty-six-theoto-rikka-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-theoto-rikka-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `d68f3465126a2a95fd36138af773ccaea10d8e9a` |
+| `86-eighty-six:viktor-idinarohk@original-light-novels` | [`86-eighty-six-viktor-idinarohk-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-viktor-idinarohk-ln-cmr-profile-20261118-01) | `CANDIDATE` | `C` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `86-eighty-six:vladilena-milize@original-light-novels` | [`86-eighty-six-vladilena-milize-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-vladilena-milize-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `d68f3465126a2a95fd36138af773ccaea10d8e9a` |
 | `attack-on-titan:erwin-smith@manga` | [`attack-on-titan-erwin-smith-manga-v2-shared-ledgers-20261115-01`](reconstruction_index/attack-on-titan.md#attack-on-titan-erwin-smith-manga-v2-shared-ledgers-20261115-01) | `CANDIDATE` | `C` | `e9f6fda08bd880fbfdc248355bae75d167519627` |
 | `azur-lane:baltimore@mobile-game` | [`azur-lane-baltimore-mobile-game-character-monograph-20261115-01`](reconstruction_index/azur-lane.md#azur-lane-baltimore-mobile-game-character-monograph-20261115-01) | `CANDIDATE` | `B` | `2fb9e0d724982f17dadd3071d97fe332920caaf7` |
