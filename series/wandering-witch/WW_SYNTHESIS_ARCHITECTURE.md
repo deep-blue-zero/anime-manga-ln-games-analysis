@@ -2,7 +2,7 @@
 title: "Wandering Witch — Synthesis Architecture"
 artifact_id: WW_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: WW-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese main volumes 01–25 plus separate 2014 Upper and Lower editions; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-17
+last_updated: 2026-11-18
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -52,7 +52,7 @@ Only foundation files and the local descriptor exist now. Future homes below are
 | Full volume readings | Developed local-unit arguments plus cross-unit implications at that boundary | Future `readings/WW_MAIN_Vnn_READING.md`, only after authorized inspection |
 | Focused local-unit study | A substantial question exceeding a volume reading without duplicating it | Future `studies/local/<unit-id>_<question>.md`, only when earned |
 | Recurrence/form/ethical study | Compare selected units with explicit selection, variation and counterinstances | Future `studies/patterns/<question>.md`, commissioned at role review |
-| Character/relationship monograph | Sustained diachronic, relational, psychological, linguistic and formal interpretation | Future `studies/subjects/` or `studies/relationships/`, source-established scope |
+| Character/relationship monograph | Sustained diachronic, relational, psychological, linguistic and formal interpretation | Individual portrait: `studies/subjects/WW-SUB-nnn_MONOGRAPH.md`, using the exact subject ID from the persona ledger. Relationship studies have their own home under `studies/relationships/`. |
 | Edition comparison | Exact main/original alignment, changed and unmatched material, interpretive effects | Future `studies/editions/WW_2014_COMPARISON.md`, separately authorized |
 | Continuous synthesis | Integrate the corpus, including irreducible local variation and competing interpretations | Future `synthesis/WW_CONTINUOUS_SYNTHESIS.md`, after convergence/readiness |
 | Reconstruction and evaluation | Conditional time-indexed model and independently tested predictions | Future `reconstruction/<subject-id>/`, separate evidence/model/test roles |
@@ -121,7 +121,7 @@ Dependency review checks the atlas edge, local argument, subject state, language
 
 A local-unit study is warranted when its causal/formal or evaluative problem needs sustained treatment beyond the source-facing reading. It must contribute an independent question, not a polished duplicate. A recurrence study needs a stated selection rule, diverse instances, counterinstances and plausible alternative groupings; it cannot stand on a few memorable examples.
 
-By W5, assess every person whose admitted evidence supports a differentiated portrait, including a supporting figure in a single local story. The persona ledger's monograph qualification register records identity, boundary, decision, rationale and gaps, reassessment trigger and actual monograph path when available. A qualified person creates a production obligation. Review the portrait for independent usability and fidelity under [initiation section 5.5.1](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard), reassess when material evidence changes, and record any outstanding obligation at W8 and release. The monograph integrates the subject's narration/presentation, actions, language, development and literary role. A relationship study handles directional and systemic issues that cannot be responsibly owned by either monograph alone.
+By W5, assess every person whose admitted evidence supports a differentiated portrait, including a supporting figure in a single local story. The persona ledger's monograph qualification register records the stable `WW-SUB-nnn` identity, lane/witness and assessment boundary, decision, rationale and gaps, reassessment trigger and the §3 portrait path when the document exists. Aliases keep the same path for a confirmed subject. Keep unresolved cross-witness identities separate until the evidence establishes a match. Reassessments append to the register and identify the portrait revision that served that boundary. A qualified person creates a production obligation. Review the portrait for independent usability and fidelity under [initiation section 5.5.1](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard), reassess when material evidence changes, and record any outstanding obligation at W8 and release. The monograph integrates the subject's narration/presentation, actions, language, development and literary role. A relationship study handles directional and systemic issues that cannot be responsibly owned by either monograph alone.
 
 Potential specialists include narrative self-presentation, ordering and local-world variation, if evidence warrants them. They are **anticipated responsibilities**, not findings or mandatory empty directories. The role-gap review decides whether independent specialists are needed and records an evidence-based rationale if full readings and a qualified synthesis can discharge a role without a separate study.
 
