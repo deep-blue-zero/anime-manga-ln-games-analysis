@@ -5,14 +5,14 @@ artifact_type: "analytical_method"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.6"
+version: "0.7"
 status: "canonical"
 scope: "Primary-source observation, interpretation, prospective state and evidence standards"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_ANALYTICAL_METHOD.md"
 source_boundary: "Method contract; the closed manga boundary and admitted sources are those recorded in CURRENT_STATE_AND_CORPUS_MAP.md"
 created: "2026-10-11"
-updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_NAMING_RULE_UPDATE"
+updated: "2026-11-17"
+review_status: "AUTHOR_REVIEWED_PROSPECTIVE_FRAMEWORK_AMENDMENT"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -77,6 +77,8 @@ The default atomic unit is one complete Japanese tankōbon volume; chapters and 
 Read admitted mainline pages in verified spine/chapter order, including silent pages and sequences that resist OCR. Track actual coverage and excluded bonus/paratext components. Within-volume impressions may change; record diagnostic immediate impressions separately from the final interpretation through that volume. Freeze exit state before opening the next unit. Later revelations update retrospective records and current claims, never the earlier prospective freeze or original prediction.
 
 A magazine-only Score can be one transaction after its exact placement and complete installment are verified. Website splits such as ①/② are delivery segments, not automatically independent chapters. An unusually long chapter may be segmented for processing but retains one exit freeze unless an owner-reviewed architecture amendment justifies a different analytical unit. Do not create a tankōbon freeze from a mixture of unverified editions.
+
+At the next authorized unit, use the [standing reading team](MEDALIST_SYNTHESIS_ARCHITECTURE.md#standing-reading-team) and the reading specification’s participation receipt before freezing the exit state. Preserve Japanese wording, visual ambiguity, ordinary interactions and disconfirming performances when reconciling specialist findings.
 
 ## Character development and psychology
 
