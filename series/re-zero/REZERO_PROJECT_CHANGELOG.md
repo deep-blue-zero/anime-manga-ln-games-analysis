@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: project_changelog
 scope: VERBATIM_ENTRYPOINT_AND_MASTER_HISTORY_THROUGH_V25
-generation: V1.47
+generation: V1.48
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -6430,3 +6430,9 @@ The [human Anastasia V01–V25 model](05%20Character%20Analysis/REZERO_ANASTASIA
 CI integrated human Anastasia through [PR #673](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/673). The exact preceding gate, the controller’s later discovery update and Louis’s analytical input are recorded in [Master §1](04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md#1-current-boundary-snapshot).
 
 The [Louis Arneb V19–V25 model](05%20Character%20Analysis/REZERO_LOUIS_ARNEB_V19_V25_CHARACTER_MODEL.md) and [applied fidelity review](08%20Audits%20and%20Manifests/REZERO_LOUIS_ARNEB_V19_V25_FIDELITY_REVIEW.md) distinguish the waiting half’s design for a life, the participant’s firsthand terror and the physical girl’s observable contact on the plain. Local documentary PASS_WITH_BOUND. The accepted model comprises 68770 UTF-8 bytes at SHA-256 642641e2fb7f47675e174cc928cde7c024d412a2381a5d7c68d09062e9bae316. The applied review comprises 32425 bytes at SHA-256 a76b3526fff576227f6e52740118e80b64951087ed945533b7ca672c9c4cd6cc. Earlier unobserved acts keep their controller open. The struggle between the two selves ends without a victor. The physical girl’s route into her body and independent access to either self’s history remain unknown. [Master §13](04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md#13-promotion-readiness) carries the C688, C690, C691/C154 and C396/C694 qualifications across the affected current projections. The 777 formulations, five owner totals, working 45 deaths and 46 reached segments, the count tension and eight whole prospective seals are retained. Shaula then manifested Reid follow Louis’s own full gate. V26 remains unopened.
+
+## Shaula V21–V25 successor and applied fidelity review
+
+CI integrated Louis through [PR #675](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/675). [Master §1](04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md#1-current-boundary-snapshot) records the preceding gate and the exact 123-file entry.
+
+The [Shaula V21–V25 model](05%20Character%20Analysis/REZERO_SHAULA_V21_V25_CHARACTER_MODEL.md) and [applied fidelity review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V25_FIDELITY_REVIEW.md) trace Shaula’s voluntary withholding, forced transformation, personal memories, uncertain farewell and loss beside the small red scorpion. Local documentary PASS_WITH_BOUND. The accepted model comprises 78713 UTF-8 bytes at SHA-256 47a31bfb75134ecd90b00876601855f42689a9f25f280e8e25f5cfcf68116858. The applied review comprises 36218 bytes at SHA-256 fa80dd472d294a309fdfb0789c346c2d15c14de8fe6af7d264922c5b32f3379a. [Master §13](04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md#13-promotion-readiness) qualifies C700, C701 and C754–C757, including the two descents, the separate claw injuries and the small animal’s response to Meili. The V21–V23 and V21–V24 pairs retain their horizons. V25 keeps its 777 claims, five owner endpoints, 45 working deaths, 46 reached segments, open count tension and eight prospective seals. Manifested Reid follows Shaula’s full gate. V26 remains unopened.
