@@ -2,7 +2,7 @@
 title: "Blue Box — Synthesis Architecture"
 artifact_id: BB_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: BB-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–27 and separate prose Interlude/Prologue; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -84,6 +84,19 @@ Each accepted operation closes full independent reading and synchronized registe
 
 Before comparison, ensure both source-facing readings exist and were accepted independently. A comparative operation does not reopen frozen prospective knowledge or automatically create a combined continuity. Checkpoints preserve full local arguments and ordinary material, then reconcile role gaps, claims and possible comparison dependencies.
 
+### Source-reading team for B2
+
+For every future authorized substantive reading, select the team before opening the narrative unit under [topology §4.1](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading). Give each participant the locked witness, the admitted chapter or movement frontier and the accepted entering state. Verify direct access to the material their assignment requires. The specialist and reviewer work in separate contexts and form their observations before seeing the principal's account where practical. Freeze each prospective contribution before its resolution. Record any prior or accidental exposure and withhold prospective or independent credit where it affected the finding.
+
+- **Principal analyst and integrator.** Inspect the full admitted unit through its governing method. Develop the source-facing reading and reconcile the contributions. The principal alone coordinates the five-register update.
+- **Manga specialist.** Read the relevant Japanese pages in STILL_IMAGE. Test how a spread, intervening silent panel or balloon attribution changes the apparent cause of a reaction. Trace what each participant could see or hear and preserve an ordinary interaction or contrary instance when it qualifies that reading.
+- **Prose supplement specialist.** For a separately authorized Interlude or Prologue unit, inspect its Japanese TEXT. Locate shifts between narrator, focalizer, thought and report. Test who can know what from the wording at that disclosure point. Use STILL_IMAGE for a material illustration claim. Each unit uses the specialist for its own witness.
+- **Independent critical reviewer.** Reopen the decisive panels or passages, check locators and challenge the candidate's consequential inferences. Check whether integration lost a supporting character's action, a directed relationship asymmetry or a rival account. Report the evidence, result and remaining uncertainty to the principal.
+
+Use SUBSTANTIVE_ANALYSIS for a bounded unit interpretation or focused source check. Escalate difficult attribution or conflicting accounts to DEEP_SYNTHESIS and propagation-sensitive disputes to PREMIUM_QUALITY_FIRST where justified. The section 8 choice to commission a later synthesis study is separate from participation in a source reading. An unusually bounded authorized unit may combine specialist and reviewer in one independent, source-capable context only when it can both contribute its own reading and test the principal's claims. Record why that configuration suffices for this unit in `BB-TX`.
+
+Before B2 acceptance, the principal records the [transaction receipt](CHECKPOINT_AND_RECONSTRUCTION_REGISTER.md#responsibility-and-schemas) and carries the material findings, evidence and counterexamples into the full reading. Link `BB-E` evidence, `BB-D` disputes and `BB-R` revisions where applicable. Record the principal's disposition and grounds even when a disagreement stays open. Missing required inspection or independent participation holds acceptance and the lane frontier. Record the capability gap in current state. The authorized publisher follows the [repository checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md).
+
 ## 6. Time, knowledge and continuity
 
 The state key combines lane/witness/version, admitted frontier, disclosure position, story-time constraints, subject identity/knowledge, physical/affective condition, role/resources, directed relationship and interpretive mode. Modes are MANGA_PROSPECTIVE, PROSE_PROSPECTIVE, RETROSPECTIVE_WITHIN_ADMITTED_LANE, CROSS_MEDIUM_COMPARATIVE and UNRESOLVED.
@@ -104,7 +117,7 @@ Propagate changes separately through each lane's states, form/language, monograp
 
 ## 8. Specialists, monographs and integrated synthesis
 
-A monograph needs adequate time, relationship, ordinary-context and expressive coverage. It integrates motivation/rivals, behavior, presentation and function, with source lane explicit. A manga-only monograph cannot silently adopt prose interiority; a cross-medium monograph requires an explicit integration scope and retained differences.
+At B5, assess every subject with differentiated evidence under the [character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard), including a supporting character illuminated by a concentrated sequence. Record the lane, subject, assessed frontier, outcome, evidence, gaps and reassessment trigger in `BB-RG`. Material changes in the character evidence reopen that decision. Each qualifying subject is owed a self-contained portrait in the existing `studies/` home. Add the path when the portrait exists and record separate self-containment and source-fidelity reviews. Carry outstanding portraits into B8 and B12 until the character layer closes. Each portrait integrates motivation, rival explanations, behavior, presentation and function within its declared source lane. A manga-only monograph cannot silently adopt prose interiority; a cross-medium monograph requires an explicit integration scope and retained differences.
 
 A relationship study earns an independent home when directed development, asymmetry or surrounding institutional conditions require sustained work beyond subject monographs. Small practical interactions and contrary evidence must survive alongside dramatic statements.
 
@@ -134,7 +147,7 @@ Synthetic outputs never become primary evidence, canonical quotations or indepen
 |---|---|
 | B0 Foundation | Both adapted methods, source/medium boundaries, sixteen duties, schemas and depth reviewed |
 | B1 Admission/run | Exact lane/source/capability verification, owner-bounded scope and OPEN precondition; absent now |
-| B2 Sequential completion | Full independent manga/prose source-facing outputs and actual component coverage |
+| B2 Sequential completion | Full lane-specific source-facing reading, actual component coverage and reconciled participant evidence in `BB-TX` |
 | B3 Longitudinal reconciliation | Lane-specific causal, time/knowledge, character/relationship and form histories reconciled |
 | B4 Claim stabilization | Central retrieval, preserved alternatives and revision propagation within/between lanes |
 | B5 Character/specialist readiness | Role-gap and ordinary/context/linguistic/visual coverage assessed by scope |
@@ -150,7 +163,7 @@ Source-complete is not synthesis-ready. Main completion does not close supplemen
 
 ## 11. Execution, transfer and extension
 
-SUBSTANTIVE_ANALYSIS covers future source readings and interpretive updates; DEEP_SYNTHESIS covers checkpoints, specialists, monographs, comparisons and model/evaluator work; PREMIUM_QUALITY_FIRST covers architecture and integrated synthesis because medium conflation propagates. Stable mapping uses BOUNDED_STANDARD; hashes ROUTINE_FAST. Resolve actual settings via the [reasoning policy](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md).
+SUBSTANTIVE_ANALYSIS covers future source readings and interpretive updates; DEEP_SYNTHESIS covers checkpoints, retrospective specialist studies, monographs, comparisons and model/evaluator work; PREMIUM_QUALITY_FIRST covers architecture and integrated synthesis because medium conflation propagates. Stable mapping uses BOUNDED_STANDARD; hashes ROUTINE_FAST. Resolve actual settings via the [reasoning policy](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md).
 
 The [long-series protocol](../../governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) favors local source-capable readings/ledgers, fresh fully supplied synthesis, independent review and designated integration. Current access is metadata/documents only. Verify transport, processing, manga STILL_IMAGE/prose TEXT/needed illustration inspection, interpretation and persistence under [capability routing](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md).
 
