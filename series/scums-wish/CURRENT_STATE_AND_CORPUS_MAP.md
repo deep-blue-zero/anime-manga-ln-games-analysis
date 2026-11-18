@@ -4,7 +4,7 @@ series: scums-wish
 artifact_id: CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 generation: SW-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "Single INITIAL bootstrap entrypoint; no narrative or run authority"
 source_boundary: "Metadata reconnaissance of Japanese main manga volumes 01-08 and decor volume 09; no narrative units admitted or inspected"
@@ -63,6 +63,8 @@ No readings, monographs, syntheses, models or simulations exist. The tables' con
 ## Review and next operation
 
 Independent semantic review found no unresolved defects in this INITIAL bootstrap design within its metadata-only source boundary. Further foundation review, supported bootstrap repairs and repository validation remain permitted. Source uncertainty limits future admission rather than preventing this bounded design; review grants no owner approval or narrative run authorization.
+
+For future authorized source readings, the [standing configuration](SW_SYNTHESIS_ARCHITECTURE.md#independent-review-of-perspective-and-conduct) assigns independent evidence work, critical review and reconciliation in the existing transaction.
 
 A future owner-defined main run must record actual bounds, source verification and the consistent OPEN transition. After accepted main completion, preserve the main-only interpretive checkpoint before separately authorized decor admission. Neither publication nor the presence of the supplement authorizes reading it.
 

@@ -5,8 +5,8 @@ artifact_type: analytical_method
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.6"
-last_updated: "2026-10-18"
+version: "1.7"
+last_updated: "2026-11-17"
 status: canonical
 scope: "Japanese-primary published-LN prospective reading and evidence discipline"
 source_boundary: "Accepted foundation; Japanese LN V01 read and closed under this method; the method itself contains no source findings."
@@ -148,6 +148,8 @@ A future single-unit instruction defaults to single_operation. Continuous execut
 
 Apply this gate at each future volume closure and at retrospective argument/synthesis acceptance. The reviewer compares meaning across original admitted source, reading, cumulative record or justified local route, and the proposed interpretation. Locator presence, document length, formatting, observation counts and a repository test pass cannot establish semantic retention.
 
+At a future substantive LN reading, the independent reviewer performs the source-grounded challenge under [architecture section 6.1](SW_SYNTHESIS_ARCHITECTURE.md#61-standing-configuration-for-a-future-substantive-ln-reading). The principal shows how the review and the specialist’s source-led findings affected the reading and cumulative routes in the volume’s closure receipt. A compromised prospective judgment retains its actual exposure boundary and loses prospective credit for the affected finding.
+
 1. Record the candidate version/commit, source boundary, reviewer and review scope. Select a small, risk-sensitive sample spanning different focalizers, supporting-character viewpoints, ordinary interactions, consequential plot scenes and thematic passages where available. Include both inference-driven selections and source passages selected independently of existing claims; otherwise uncaptured material is invisible to the review. Explain unavailable categories and sampling limits without inventing coverage or fixed quotas.
 2. Inspect each sampled primary passage in enough context to distinguish observation, belief and inference. Trace it forward to the reading and cumulative destination/local route, then trace selected important interpretations backward to their primary basis. Check whether motivations, affect, reciprocity, contradiction, counterevidence and source-stated propositions survive, including distinctions not reflected in the synopsis. Expand inspection when a defect suggests a wider capture or routing problem.
 3. Record a compact finding with source locator, affected observation/claim or section, lost distinction, analytical consequence, severity and disposition. Use the reading's closure receipt or the target review/closeout in the existing checkpoint/audit homes; do not create another evidence ledger. Minor findings may be grouped. Source access that is required but unavailable is an unresolved obligation, not a passing sample.
@@ -170,3 +172,4 @@ If a process, sampling rule, artifact boundary or compression convention would m
 ## Amendment history
 
 - **1.6 — 2026-10-18:** Prospective diagnostic fidelity, separate coverage/retention judgments, semantic-retention gate, source escalation and existing-governance conflict route. V1 findings and freezes unchanged; no qualification or second-generation run executed.
+- **1.7 — 2026-11-17.** Added the independent source-reading challenge to the prospective semantic-retention gate.

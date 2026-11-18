@@ -4,7 +4,7 @@ artifact_id: T7S_ANALYTICAL_METHOD
 artifact_type: analytical_method
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -13,7 +13,7 @@ do_not_use_as_literary_evidence: true
 source_boundary: "c20260909-r484; governing method applied through the exact T7S_B0001–T7S_B0079 horizon; no 2053 or other unadmitted story source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-11-14
+last_updated: 2026-11-17
 ---
 
 # Tokyo 7th Sisters analytical method
@@ -149,6 +149,8 @@ Revision operations are `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT
 
 Use the repository's stable workload classes: bounded source/locator audits `BOUNDED_STANDARD`; normal readings and established ledger updates `SUBSTANTIVE_ANALYSIS`; mature character, relationship, chronology, and era integration `DEEP_SYNTHESIS`; propagation-sensitive final/adversarial work may warrant `PREMIUM_QUALITY_FIRST` with justification. Literal models, controls, and prices require the then-current provider verification; this method supplies no new product mapping. [Reasoning/model-routing policy](../../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md)
 
+Before the reading is sealed, include the [block team’s](T7S_SYNTHESIS_ARCHITECTURE.md#independent-source-reading-within-an-admitted-block) inspected page or command ranges, actual exposure, independently located findings, critical challenges and the principal’s reasoned dispositions in the reading body. Link resulting evidence IDs and open debts before SourceLock binds the artifact.
+
 ### Reading front-matter template
 
 Every sequential reading opens with a YAML front-matter block whose first lines carry the repository's complete authority quartet exactly as below, before any project-specific field. The quartet is what makes a reading current-eligible as character evidence under the [artifact authority rule](../../../characters/README.md); a partial quartet classifies as `UNCLASSIFIED_LEGACY`, and no later edit can repair it once the SourceLock closeout binds the file hash.
@@ -251,3 +253,4 @@ Future ingestion is question-driven: an official lyric edition to resolve a vari
 - 2026-10-27 — V1 / 1.5: add the reading front-matter template carrying the complete authority quartet after T7S_B0184–T7S_B0187 closed with incomplete quartets; the governing method and every analytical boundary are unchanged.
 
 - 2026-11-14 — V1 / 1.6 — Adopt the current-unit story synopsis for plot-bearing deep readings from T7S_B0260. The synopsis follows the unit’s prospective freezes and uses its own admitted evidence.
+- 2026-11-17 — V1 / 1.7. Add the prospective participation and reconciliation receipt before block closure.
