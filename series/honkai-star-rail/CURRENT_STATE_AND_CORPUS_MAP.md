@@ -3,7 +3,7 @@ title: "Honkai: Star Rail — Current entrypoint"
 artifact_id: HSR_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: honkai-star-rail
-version: "1.0"
+version: "1.1"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 scope: "Current entrypoint"
@@ -61,6 +61,8 @@ These five supporting homes have distinct responsibilities. No empty reading/stu
 ## Next bootstrap operation and future admission
 
 Review the complete design; bind the approved native snapshot and normalization lineage; verify target coverage and source-coordinate grammar; resolve the blocking main-story and identity/graph gaps for any proposed first scope. A new source can be inventoried without becoming admitted. Before a future run, record exact source lock, whole-unit membership, disclosure/chronology policy, inspection lanes, execution/review owners, stop boundary and explicit bounded authorization. Narrow diagnostic inspection cannot become undeclared character analysis.
+
+For any future authorized block, resolve the [standing reading configuration and transaction receipt](HSR_SYNTHESIS_ARCHITECTURE.md#reading-a-causal-block-with-independent-analysts) against the verified native witnesses and the proposed disclosure horizon.
 
 Source reconstruction uses `BOUNDED_STANDARD` when joins are deterministic, escalating interpretive identity questions. Future readings use `SUBSTANTIVE_ANALYSIS`; state/continuity reconciliation and models use `DEEP_SYNTHESIS`. Architecture and integrated release synthesis use `PREMIUM_QUALITY_FIRST`, with independent review of source joins, state leakage and compression as the expected reliability gain. Actual execution surface is resolved under current repository routing, not frozen by a product name here.
 
