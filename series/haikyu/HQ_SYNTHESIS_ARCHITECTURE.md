@@ -2,7 +2,7 @@
 title: "Haikyu!! — Synthesis Architecture"
 artifact_id: HQ_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -116,7 +116,7 @@ A material revision triggers review of action, character/relationship, language,
 
 ## 8. Specialists and continuous synthesis
 
-Character monographs integrate diachronic behavior, motives/rivals, knowledge, ordinary-life evidence, relationships, language, presentation and literary function. Apply the [character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) to every subject with differentiated evidence, including supporting characters and concentrated sequences. Record identity, frontier, outcome (`QUALIFIED_PENDING`, `COMPLETE_AT_BOUNDARY`, `DEFERRED_EVIDENCE` or `REASSESS_AFTER_REVISION`), source grounds, gaps and reassessment trigger in `HQ-RG` at the character/specialist readiness gate. Reassess after material new evidence. Each qualifying subject requires a self-contained portrait under `studies/` that explains the person's decisions, ordinary interactions and contribution to collective action at the colour-edition frontier. Add its actual path and record separate self-containment and fidelity reviews. Carry outstanding portraits through synthesis readiness and release. A relationship study is warranted when directional development and surrounding group/institutional constraints need independent sustained treatment.
+Character monographs integrate diachronic behavior, motives/rivals, knowledge, ordinary-life evidence, relationships, language, presentation and literary function. Apply the [character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) to every subject with differentiated evidence, including supporting characters and concentrated sequences. Record identity, frontier, outcome (`QUALIFIED_PENDING`, `COMPLETE_AT_BOUNDARY`, `DEFERRED_EVIDENCE` or `REASSESS_AFTER_REVISION`), source grounds, gaps and reassessment trigger in `HQ-RG` at the character/specialist readiness gate. Reassess after material new evidence. Each qualifying subject requires a self-contained portrait at `studies/HQ_<subject-key>_MONOGRAPH.md`. Substitute the complete `HQ-SUB-nnn` identity key from [the character ledger](CHARACTER_RELATIONSHIP_AND_LANGUAGE_LEDGER.md) and retain it across aliases and assessment frontiers. The portrait must explain the person's decisions, ordinary interactions and contribution to collective action at the colour-edition frontier. Add its actual path and record separate self-containment and fidelity reviews. Carry outstanding portraits through synthesis readiness and release. A relationship study is warranted when directional development and surrounding group/institutional constraints need independent sustained treatment.
 
 Potential collective-action, institutional, page-form or colour specialists remain anticipated until recurring source evidence supports a consequential question. Commission them with an exact frozen boundary, full readings, evidence routes, counterexamples and a defined contribution to the synthesis. A no-independent-specialist decision requires an evidence-based rationale and an identified owner for the role.
 
@@ -194,3 +194,4 @@ Audit with methodological edge cases: uncertain simultaneity, a collective outco
 - **2026-11-13 — v1.1:** Added the local-method synopsis duty for future plot-bearing units under initiation policy §5.3. Colour-edition and separately admitted companion boundaries, complete analytical/register obligations, INITIAL lifecycle and CLOSED authorization remain intact.
 
 - **2026-11-17 — v1.2.** Assigned independent source-reading responsibilities and evidence reconciliation, and routed source-bounded character qualification to the existing role-gap record.
+- **2026-11-17 — v1.3.** Specified the permanent individual portrait path from the local subject identity key.
