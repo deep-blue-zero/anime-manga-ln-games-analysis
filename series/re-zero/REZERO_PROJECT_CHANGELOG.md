@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: project_changelog
 scope: VERBATIM_ENTRYPOINT_AND_MASTER_HISTORY_THROUGH_V25
-generation: V1.45
+generation: V1.46
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -6424,3 +6424,9 @@ The [Ram V01–V25 model](05%20Character%20Analysis/REZERO_RAM_V01_V25_CHARACTER
 CI integrated Ram through [PR #625](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/625). The final source and actual merge each passed 517 tests, and the verified-main role used the same merge commit and audit. Master §1 records the commits, runs and native verification.
 
 The [Julius V01–V25 model](05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V25_FIDELITY_REVIEW.md) trace Julius’s cultivated knighthood, release and renewed choice by the six spirits, and his new pledge to human Anastasia. Master §13 qualifies C734 on parentage and C739 on the first successful manifestation of Al Cranvel. The register retains 777 claims. Close Julius’s full gate before the human Anastasia review. V26 remains sealed.
+
+## Human Anastasia Hoshin V01–V25 reconstruction and applied fidelity review
+
+CI integrated Julius through [PR #629](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/629). The final-source and actual-merge audits each executed 517 tests with zero nonpasses. The verified-main role shares the merge commit and audit. [Master §1](04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md#1-current-boundary-snapshot) records the full closure.
+
+The [human Anastasia V01–V25 model](05%20Character%20Analysis/REZERO_ANASTASIA_HOSHIN_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](08%20Audits%20and%20Manifests/REZERO_ANASTASIA_HOSHIN_V01_V25_FIDELITY_REVIEW.md) concern the human merchant, candidate and patron who returns and chooses Julius anew. Local documentary PASS_WITH_BOUND. Her last reported care for Rem follows the Roy custody decision. Her position during the later shadow is unshown. The V20–V22 scarf model keeps its own scope. [Master §13](04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md#13-promotion-readiness) qualifies C027, RT-262 and its V17 R093 wording, current R092 and C153/C322/C759. V25 retains 777 claims. Louis, Shaula and manifested Reid follow the human Anastasia gate in order. V26 stays sealed.
