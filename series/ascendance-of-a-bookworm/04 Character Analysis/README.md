@@ -14,7 +14,7 @@ do_not_use_as_current_authority: false
 
 # Ascendance of a Bookworm character-analysis router
 
-This directory is the canonical future home for Bookworm character-specific analysis. At the completed V03 / Part 1 boundary, the first mandatory promotion review has identified **Myne and Lutz as evidence-earned character-monograph responsibilities**, but those monographs are not instantiated by the V03 source-unit transaction itself. Promotion should create a substantive analytical object when a later operation actually needs the independent retrieval surface, not an empty or shallow placeholder.
+This directory is the canonical future home for Bookworm character-specific analysis. At the completed V03 / Part 1 boundary, the first mandatory promotion review has identified **Myne and Lutz as evidence-earned character-monograph responsibilities**, but those monographs are not instantiated by the V03 source-unit transaction itself. Myne and Lutz remain outstanding production obligations for character synthesis. The Part 1 review below preserves the original language of its assessment.
 
 Global character discovery remains separate. The designated character curation agent, not this analytical authoring session, owns enrollment in `characters/registry.jsonl` and maintenance of `CHARACTER_ANALYSIS_INDEX.md`.
 
@@ -31,7 +31,7 @@ numbered-volume deep reading
 master longitudinal ledger
         |
         v
-sufficient multi-state / multi-context evidence?
+converging evidence for a differentiated portrait?
         |
        yes
         v
@@ -48,7 +48,7 @@ Local character analysis and global character discovery are distinct decisions.
 
 ## When a character earns an independent canonical home
 
-Create `04 Character Analysis/<Character>/` only when source-grounded longitudinal evidence gives the character an independent retrieval/revision responsibility. Useful triggers include several of the following:
+Apply synthesis architecture §7 and initiation policy §5.5.1. This router owns actual qualification decisions and links completed individual portraits. A concentrated sequence may qualify a person at one boundary; supporting characters and adults use the same standard. Carry qualified pending work into synthesis, and record self-containment and source fidelity separately on acceptance. The following are assessment triggers:
 
 - meaningful evidence across multiple volumes or developmental states;
 - a need to separate stable tendencies from role effects, recipient effects, situational effects, or genuine development;
