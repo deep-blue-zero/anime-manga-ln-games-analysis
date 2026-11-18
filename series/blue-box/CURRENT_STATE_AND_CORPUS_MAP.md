@@ -2,7 +2,7 @@
 title: "Blue Box — Current State and Corpus Map"
 artifact_id: BB_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: BB-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–27 and separate prose Interlude/Prologue; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
@@ -63,10 +63,12 @@ The main lane uses the [manga method](BB_MANGA_METHOD.md). Any separately author
 
 No future studies, readings, comparisons or archived generations are represented as existing. Review must test both independently adapted methods, all sixteen architecture duties and protection against cross-medium compression.
 
+The [B2 source-reading team and reconciliation rules](BB_SYNTHESIS_ARCHITECTURE.md#source-reading-team-for-b2) apply from the first separately authorized manga or prose unit. Its participation receipt belongs in the existing `BB-TX` transaction.
+
 ## Next permitted work and execution
 
 Before a future run, bind selected immutable witnesses and source-unit maps, verify manga STILL_IMAGE or prose TEXT capabilities plus needed illustrations, establish the authorized start/terminal boundary, and record scope under the [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md). Neither “Prologue” nor “Interlude” specifies that run order. Cross-medium comparison requires both independent admitted evidence boundaries and explicit comparison scope.
 
-Architecture and integrated synthesis use PREMIUM_QUALITY_FIRST to reduce edition/medium/knowledge conflation. Sequential interpretation uses SUBSTANTIVE_ANALYSIS; checkpoints, specialists, monographs, comparative studies and models use DEEP_SYNTHESIS; settled indexing BOUNDED_STANDARD; hashes ROUTINE_FAST. Actual model settings are not invented.
+Architecture and integrated synthesis use PREMIUM_QUALITY_FIRST to reduce edition/medium/knowledge conflation. Sequential interpretation uses SUBSTANTIVE_ANALYSIS; checkpoints, retrospective specialist studies, monographs, comparative studies and models use DEEP_SYNTHESIS; settled indexing BOUNDED_STANDARD; hashes ROUTINE_FAST. Actual model settings are not invented.
 
 Preferred execution is source-capable local readings/ledgers, fresh fully supplied synthesis, independent review and designated integration. Current access is metadata/local documents only. Written voice is not vocal performance; manga and prose need different inspection capabilities. Resume from full documents and actual accepted register state. Primary files, bulk extraction and private identifiers stay outside Git. The [local descriptor](.repository/series-registry.json) classifies MANGA and NOVEL source forms, with NOVEL referring to the prose supplements, not an inferred light-novel label. Housekeeping owns global routing.
