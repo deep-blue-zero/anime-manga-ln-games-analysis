@@ -72,6 +72,8 @@ The primary sources are the seven Japanese EPUBs in the owner's local `Main Seri
 | [Character reconstruction specification](KSOA_CHARACTER_RECONSTRUCTION_SPEC.md) | Defines the evidence and independent testing needed for a bounded future reconstruction |
 | [Bootstrap review](KSOA_BOOTSTRAP_REVIEW.md) | Records producer scope, unresolved questions and receiving review obligations |
 
+For a newly authorized unit, the [architecture](KSOA_SYNTHESIS_ARCHITECTURE.md) assigns the principal, independent Japanese source reader and separate reviewer. The [method](KSOA_ANALYTICAL_METHOD.md) routes their findings through volume closeout. The seven pending qualified portraits retain their existing synthesis route.
+
 ## Accepted readings
 
 The reading openings give the source context, prior developments and the story through each volume's ending. Each leads into the full deep reading. For a prospective or earlier-horizon task, start with the [disclosure ledger](KSOA_DISCLOSURE_AND_HYPOTHESIS_LEDGER.md) and extract only the permitted horizon.

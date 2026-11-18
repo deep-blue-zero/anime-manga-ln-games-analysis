@@ -4,7 +4,7 @@ series: scums-wish
 artifact_id: SW_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: SW-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL main/supplement architecture; procedural authority only"
 source_boundary: "Metadata reconnaissance of Japanese main manga volumes 01-08 and decor volume 09; no narrative units admitted or inspected"
@@ -53,6 +53,14 @@ An accepted volume transaction consists of the full causal reading and entering/
 
 Each major reading thesis must keep its inferential warrant, material evidence, strongest plausible counterreading and disconfirming case. A later specialist may challenge that thesis through visible claim transitions; it may not silently replace a complete argument with an abstract.
 
+### Independent review of perspective and conduct
+
+For each future authorized reading of a MAIN volume or separately admitted DECOR reading, the principal verifies the locked witness and the Japanese page-inspection route for each assignment, reads the full unit, and owns its single source-facing interpretation. Give a separate specialist the admitted pages in the same unit. Ask them to identify whose account a thought, caption or balloon conveys, what the recipient could actually observe, and whether a later action supports, qualifies or contradicts that account. Keep agency and reciprocity directional. Return diagnostic ordinary interactions as well as crises where the evidence warrants it.
+
+A distinct reviewer reopens the pivotal panels and tests attribution, the strongest rival to an inferred motive, and whether compression obscured a refusal, hesitation or contrary action. The MAIN team remains inside its disclosure frontier. A separately authorized DECOR reading can revise a claim through its own horizon while keeping the main-only checkpoint intact. The specialist forms an account in a separate context before seeing the principal’s draft. Where practicable the reviewer inspects the evidence before seeing either account. Record prior exposure, freeze predictions before revealing the outcome and identify any findings that lose independent or prospective credit after exposure.
+
+Use item 8 of the volume reading, linking material findings to perspective/state, directed relationships, expression and claim history to record participants, assignments, actual access and horizon, located observations, alternatives and review challenges. The principal records the reason to adopt, qualify, reject or leave each material finding open, preserves diagnostic evidence in the reading, and reconciles the shared records once. Check coverage, findings and cumulative state before closing the transaction. Interpretive roles start at `SUBSTANTIVE_ANALYSIS` and escalate individually for difficult or propagation-sensitive judgments. The standing team has distinct specialist and reviewer contexts. Record a capability blocker at the entrypoint and hold acceptance and frontier advance if the required access or independence is unavailable. [Source-reading policy](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading)
+
 ## 4. Sixteen-duty traceability
 
 | Initiation duty | Owning implementation | Acceptance question |
@@ -96,13 +104,15 @@ Every recurring dimension has a cumulative or direct synthesis responsibility. F
 
 The main-sequence literary integration must answer three connected questions: how perspective or testimony permits an account of each material person's conduct; how directed interpersonal states change and produce consequences; and how page form and Japanese expression shape those interpretations. These are mandatory responsibilities, not necessarily three documents.
 
-Create an independent character monograph when a named person's development, multiple situations or distinct relationships require sustained explanation beyond the integrated argument. A one-unit subject can earn a bounded case study, with its limits stated. A relationship study requires source-supported directional evidence, consequential change and a distinct question. Do not flatten people into objects in another person's desire, or deduce reciprocity from the label of a relationship.
+Assess individual portraits under the qualification rule below, including for a person whose evidence is concentrated in one unit. A relationship study requires source-supported directional evidence, consequential change and a distinct question. Do not flatten people into objects in another person's desire, or deduce reciprocity from the label of a relationship.
 
 A monograph must account for self-report, behavior, access to interiority, ordinary-life controls, changes, relationship conditioning, counterexamples and literary function. A relationship study must distinguish each actor's knowledge and appraisal, the evidence for an asymmetric account and the consequences of their interaction. Both need claim IDs and precise locators. Reconstruction formalizes conditional behavior and testing separately.
 
 A study of ethics or social constraint becomes mandatory only when the role-gap review demonstrates that the integrated interpretation cannot responsibly answer the source without it. Conversely, when a separate specialist is unnecessary, record why substantive integrated sections cover its responsibility. A missing document is not automatically a missing analysis; a titled document is not automatically adequate analysis.
 
 No universal word cap governs a mature study. Acceptance examines whether substantial causal mechanisms, alternative explanations, representative evidence, exceptions, named actors and temporal distinctions are preserved. Cross-session compression of those elements is a defect even if every heading survives. A continuous synthesis must reconcile its arguments, not concatenate specialist summaries.
+
+At character and specialist readiness, record each assessed person in the perspective/state ledger at the assessed MAIN or DECOR horizon. Assess differentiated behavior across contexts or within a concentrated sequence, including supporting characters and counterexamples. Record identity, source boundary, outcome, rationale, gaps, next review trigger and the portrait path once it exists. A qualified subject earns a standalone `studies/SW_<subject>_<horizon>_MONOGRAPH.md`. Carry outstanding portraits through synthesis and release reviews. Reassess on material evidence changes. Check the portrait alone for a usable account of the person, then test fidelity separately against diagnostic source evidence. [Individual monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)
 
 ## 7. Evidence routes, contradictions and revision
 
@@ -176,3 +186,4 @@ The governing policies are [initiation](../../governance/source-policies/MANGA_A
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL MAIN/DECOR architecture from metadata; no source admissions, narrative claims or owner-run approval |
 | 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for future eligible MAIN/DECOR readings; separate horizons, full analytical obligations and CLOSED boundary retained |
+| 1.2 | 2026-11-17 | Assigned independent source reading and reconciliation, and the qualification and acceptance route for individual portraits. |

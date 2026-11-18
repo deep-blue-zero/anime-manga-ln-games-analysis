@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: project_changelog
 scope: VERBATIM_ENTRYPOINT_AND_MASTER_HISTORY_THROUGH_V25
-generation: V1.44
+generation: V1.45
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -6401,19 +6401,7 @@ Historical complete V25 transaction. [Exact preserved entry](REZERO_PROJECT_CHAN
 
 ## Arc06 checkpoint — readable lives, chosen company and unfinished return
 
-Verified integrated sequential high-water is V25 through PR498, with777 current narrative claims. The source-verified Arc06 checkpoint is IMPLEMENTED with32 local cross-volume propositions and its own full publication/integration gate PENDING. The current E046 survives displacement and ends on an unnamed plain with awake Rem and physical Louis. The working derivation remains45 cumulative Subaru deaths and46 reached analytical segments. Four new terminal scenes are selected individually and eleven are compressed in the stated fifteen-death sequence. SOURCE_COUNT_TENSION remains OPEN for the seventeenth restart, fifteen deaths, twenty-two post-loss deaths and total forty. [Arc06 source-verified checkpoint](02%20Sequential%20Readings/REZERO_ARC_06_CHECKPOINT.md)
-
-V25/PR498 full publication and integration gate is CLOSED. Author and final source 8272d04ee2d42f7d39e845ce0630d6cf7ee1aed8 integrated at actual ordered-parent merge 68df1b566bdc15e7235e03cc5f553b3d726cf8a2, with verified current-main role 9fa21ee99926a07b71ae808e8349ad40089bf00b. Exact source audit42385324187, actual-merge audit42389103220 and current-main audit42389965789 each actually executed all511 discovered tests with zero nonpasses and isolated trusted success statuses58329903958,58331421325 and58331629815. Source-specific housekeeping42386329605 verified routing current. All three commits share Re:Zero subtree5b0dc5f5e9599f216e3193a0f7876af96f431533. Later native proof completed at2026-11-07T16:28:20.139464Z and the durable full gate closed at16:28:21.653363Z before Arc06 execution. [PR498](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/498)
-
-Actual bounded context reacquisition, nine Japanese source offers and a twenty-position count recheck precede saved-content acceptance. The checkpoint retains the Meili room discrepancy, Julius contract wording, Reala naming actor and Beatrice positive minimum receipt. It distinguishes shared cost from received choice, the returned human from the artificial operator, Louis halves from the physical girl and human Shaula from the small creature.
-
-All83 entering protected artifacts,26 historical model scopes and53 model/review files remain exact. The new checkpoint becomes protected artifact84. Five owner files remain byte-exact at E046/K1092/M695/I589/R219/RT675. Master section3 still selects the complete frozen V25 claim register. All777 formulations, dispositions and source ancestries, the formal19-dimension protocol tail and registered schema tail remain exact.
-
-The Arc06 checkpoint implements the earned five-volume consolidation. The seven person operations remain EARNED_UNIMPLEMENTED/UNGRADED. Earlier local grades retain their exact source, default and same-analyst nonblind documentary bounds.
-
-All eight whole V19–V26 prospective bodies remain literal. V26 remains unopened, with 60 questions and10 forecasts sealed at2026-11-07T14:56:58.822051Z,24594UTF8bytes and SHA25693182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
-
-Close ARC_06_FULL_PUBLICATION_INTEGRATION_GATE. Then execute SUBARU_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW, each with its own complete publication/integration gate before the next. Open sealed V26 afterward. Continue after every raised PR through admitted V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges.
+The existing changelog archive preserves the complete Arc 6 checkpoint entry and its original links here. [Preserved checkpoint entry](REZERO_PROJECT_CHANGELOG_ARCHIVE_01.md#julius-preserved-arc-6-checkpoint-entry)
 
 ## Subaru V01–V25 successor and applied fidelity review
 
@@ -6430,3 +6418,9 @@ Close SUBARU_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute RAM_V01_V25
 CI integrated Subaru through [PR #622](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/622). The final source, merge and later main each passed 517 tests. Master §1 records the exact commits and native verification.
 
 The [Ram V01–V25 model](05%20Character%20Analysis/REZERO_RAM_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](08%20Audits%20and%20Manifests/REZERO_RAM_V01_V25_FIDELITY_REVIEW.md) distinguish Ram’s chosen care from the burden imposed on sleeping Rem and trace her last audible warning. The review corrects C311/C516 on cooking and C717 on Emilia’s rooftop rescue. Master §13 records the affected owners. V25 retains 777 claims and V26 stays sealed. Ram’s full gate precedes Julius.
+
+## Julius V01–V25 successor and applied fidelity review
+
+CI integrated Ram through [PR #625](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/625). The final source and actual merge each passed 517 tests, and the verified-main role used the same merge commit and audit. Master §1 records the commits, runs and native verification.
+
+The [Julius V01–V25 model](05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V25_FIDELITY_REVIEW.md) trace Julius’s cultivated knighthood, release and renewed choice by the six spirits, and his new pledge to human Anastasia. Master §13 qualifies C734 on parentage and C739 on the first successful manifestation of Al Cranvel. The register retains 777 claims. Close Julius’s full gate before the human Anastasia review. V26 remains sealed.
