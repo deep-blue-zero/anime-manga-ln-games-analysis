@@ -26,6 +26,10 @@ core_principle: "Description first; pattern second; interpretation third; theme 
 
 The legacy `proposed` workflow label is reconciled to `canonical`: this is the existing V1 method actually used by the accepted V01–V15 corpus, not a new analytical generation. Its identifier, substantive method, and historical version title remain intact. The current entrypoint is `../CURRENT_STATE_AND_CORPUS_MAP.md`. The series-local `YURUCAMP_CHARACTER_RECONSTRUCTION_SPEC.md` adds a future behavioral-reconstruction contract without replacing literary analysis.
 
+## Source-reading amendment — 2026-11-17
+
+Section 26 adds the item 3 current-unit story synopsis and the item 25 participation and reconciliation record for newly authorized volumes. The V1 identifier and substantive method remain. The completed V01–V19 readings keep the V1 procedure in force when each closed and receive no participation records ([topology §4.1.8](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#418-applicability-and-historical-preservation)); a later reading identifies its procedure as this method with this dated amendment.
+
 ## 1. Purpose
 
 This protocol governs a sequential, source-grounded deep reading of Afro's 『ゆるキャン△』.

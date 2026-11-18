@@ -313,7 +313,7 @@ Unsupported through V19 under the project's evidentiary standard. Relational int
 
 ## 7. Architecture and ledger state
 
-The [standing source-reading configuration](00%20Frameworks/YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md#independent-reading-of-ordinary-practice) applies to a future authorized volume. The current derived work remains the four provisional specialists at the V19 boundary.
+The [standing source-reading configuration](00%20Frameworks/YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md#independent-reading-of-ordinary-practice) applies to a future authorized volume. At the V19 boundary the current derived work is the seven accepted `active_provisional` accounts in §4 (Documents 02–06, 10 and 12); specialists 07, 08, 09 and 11 remain queued (§9), and character qualification decisions are recorded before that queued work proceeds.
 
 The original empty standalone-ledger directory was intentional. Architecture §6.0 now authorizes `V01–V15_RETROSPECTIVE_LEDGER_BACKFILL` to meet evidence-retrieval, reconstruction, and handoff needs without restarting the project.
 
