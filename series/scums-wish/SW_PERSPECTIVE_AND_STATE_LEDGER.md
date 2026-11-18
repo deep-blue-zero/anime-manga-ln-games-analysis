@@ -55,10 +55,10 @@ No perspective or state events exist.
 
 At the [character and specialist readiness review](SW_SYNTHESIS_ARCHITECTURE.md#6-studies-and-depth-obligations), append a qualification assessment for each person assessed, including when the review leaves the narrative state unchanged. Use one `SW-PQ0001`-style assessment ID per decision.
 
-| Assessment ID | Subject key | MAIN or DECOR horizon and last admitted unit | Prior assessment ID, if any | Qualification outcome | Source-grounded rationale and evidence IDs or locators | Largest evidence gaps or counterexamples | Next review trigger | Portrait path, once it exists |
-|---|---|---|---|---|---|---|---|---|
+| Assessment ID | Subject key | MAIN or DECOR horizon and last admitted unit | Prior assessment ID, if any | Qualification outcome | Source-grounded rationale and evidence IDs or locators | Largest evidence gaps or counterexamples | Next review trigger | Portrait path, once it exists | Self-containment result reference | Source-fidelity result reference |
+|---|---|---|---|---|---|---|---|---|---|---|
 
-Use `QUALIFIED_PENDING` for an outstanding portrait, `COMPLETE_AT_BOUNDARY` after the portrait passes its acceptance checks, `DEFERRED_EVIDENCE` when support is insufficient, or `REASSESS_AFTER_REVISION` when new evidence calls an earlier decision into question. At reassessment, append a decision linked to its predecessor. Retain the earlier outcome, rationale and horizon so a DECOR assessment can be traced back to the MAIN-only assessment. The record acquires a portrait path when the document exists.
+Use `QUALIFIED_PENDING` for an outstanding portrait, `COMPLETE_AT_BOUNDARY` after the portrait passes its acceptance checks, `DEFERRED_EVIDENCE` when support is insufficient, or `REASSESS_AFTER_REVISION` when new evidence calls an earlier decision into question. At reassessment, append a decision linked to its predecessor. Retain the earlier outcome, rationale and horizon so a DECOR assessment can be traced back to the MAIN-only assessment. The record acquires a portrait path when the document exists. Before recording `COMPLETE_AT_BOUNDARY`, link the row to two separately recorded passing results at that horizon: the self-containment check on the portrait read alone and the fidelity check of its load-bearing claims against the source. The two references may point to distinct results in the same acceptance or integration record.
 
 No qualification assessments exist.
 
