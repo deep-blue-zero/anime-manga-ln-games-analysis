@@ -2,7 +2,7 @@
 title: "SPY x FAMILY — Analytical Method"
 artifact_id: SXF_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: SXF-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–18 plus separate EYES ONLY fanbook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -84,6 +84,8 @@ Every unit thesis has a serious rival and a disconfirmation condition. Preserve 
 Use PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT and OPEN, retaining earlier/new formulations, boundary, evidence, rivals and affected outputs. Frozen prospective readings and predictions are not rewritten. Main/fanbook disagreement remains explicitly source-layered.
 
 ## 8. Complete future output and acceptance
+
+Apply the [standing source-reading configuration](SXF_SYNTHESIS_ARCHITECTURE.md#independent-reading-at-s2) at this unit’s authorized frontier. Its transaction records the independent findings and the principal’s adjudication alongside coverage, claim revisions and remaining evidence gaps.
 
 A future full reading contains receipt/component coverage; entering knowledge/role/relationship state and frozen expectations; developed thesis/rival; movement-by-movement causal/page analysis; subject and directed relationship changes; ordinary-life controls; source-earned institutional questions; Japanese/graphic voice; form/recurrence and counterexamples; claim transitions; five-register manifest; exit freeze; limits and completion decision.
 

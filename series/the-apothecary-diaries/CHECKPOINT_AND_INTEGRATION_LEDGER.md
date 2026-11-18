@@ -2,7 +2,7 @@
 title: "The Apothecary Diaries — Checkpoint and Integration Ledger"
 artifact_id: AP_CHECKPOINT_LEDGER
 artifact_type: checkpoint_integration_ledger
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: AP-INITIAL
 authority_scope: "INITIAL bootstrap method, architecture, and administrative metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese volumes 01–16 and separate simplified Chinese volume 15; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 ---
 
 # Checkpoint and integration ledger
@@ -30,6 +30,8 @@ This register prevents source closure, ledger synchronization, synthesis readine
 | Role-gap `AP-RG-nnnn` | Required analytical responsibility; observed coverage; missing situations/relationships/language/forms; effect on synthesis; targeted evidence return or specialist; owner and completion criterion |
 | Handoff `AP-HO-nnnn` | Base snapshot; full input/output paths/digests; witness/admission/knowledge boundary; authority generation; assigned responsibility; owners; complete transfer receipt; returned changes/limits; base-candidate-current drift result; acceptance and unresolved dependencies |
 | Gate review `AP-GR-nnnn` | Architecture gate G0–G12; evidence examined; independent reviewer when required; deficiencies; pass/hold/bounded acceptance; exact accepted boundary; next permitted action |
+
+For an authorized volume, the `AP-TX` receipt identifies independent contexts, assignments, exposure, inspected ranges, significant findings and their locators, rival explanations, critical findings, and the principal’s dispositions and outstanding obligations. Link to the sustained argument and affected claim versions. A role list alone cannot establish closure.
 
 The scope of a no-change finding is explicit. Missing ledger rows, missing images or untested locators cannot be silently treated as “no change” or “not applicable.” Handoff fields are filled only from actual observed values; unknown model settings, hashes, authorization or review outcomes remain unknown.
 

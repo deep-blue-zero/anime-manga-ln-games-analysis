@@ -188,8 +188,10 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
   - _None._
 - Analytical coverage:
   - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Julius across the original Japanese main light novels V01–V16, with load-bearing evidence from V04 encounters reconciled through V07–V09 and V16. Default is his last personally observed V16 garden conversation; the discarded square retained only by Subaru is not his memory. No exhaustive childhood or family history and no later-volume, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+  - `v01-v25-character-model`: LIGHT_NOVEL VOLUME: Dedicated successor model of Julius across the original Japanese main light novels V01–V25, built on the frozen readings and owner ledgers with targeted original reinspection. Beyond the V16 horizon it covers Priestella and the loss of his name to Roy, Joshua's erased recognition known only through Subaru's word, the tower approach, trial defeats and balcony disclosure, the iteration-specific E025–E029 states, the release and renewal of the six spirits, renewed service to the human Anastasia and the Roy custody deliberation ending at E046 with his later position unshown. Each reset iteration stays separate, and Joshua's lost episodes stay lost. No V26 or later, web-novel, IF, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
   - [`character-model` — Julius Juukulius: V01–V16 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md)
+  - [`v01-v25-character-model` — Julius Juukulius: V01–V25 successor character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V25_CHARACTER_MODEL.md)
 
 <a id="liliana-masquerade"></a>
 

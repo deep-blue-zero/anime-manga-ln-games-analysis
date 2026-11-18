@@ -3,7 +3,7 @@ title: "A Certain Scientific Railgun: Astral Buddy — Current entrypoint"
 artifact_id: AB_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: a-certain-scientific-railgun-astral-buddy
-version: "1.0"
+version: "1.1"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 authority_scope: initial_project_design_only
@@ -53,6 +53,8 @@ Four observed volumes support a compact project with one sectioned state/claim n
 | [AB_RECONSTRUCTION_CONTRACT.md](AB_RECONSTRUCTION_CONTRACT.md) | Future state-bounded evidence/model/evaluation pathway; no readiness finding |
 
 Required supporting records have operational schemas and source/control rows. Analytical records are empty because no narrative was read; no empty study/reading folders exist.
+
+The [standing source-reading team](AB_SYNTHESIS_ARCHITECTURE.md#team-for-a-source-reading) applies from the first authorized unit. Its receipt belongs in the existing [unit transaction](AB_STATE_AND_CLAIM_NOTEBOOK.md#transaction-freeze-and-amendment).
 
 ## Review, resumption and future admission
 

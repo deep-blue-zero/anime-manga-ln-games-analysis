@@ -4,7 +4,7 @@ series: look-back
 artifact_id: LB_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: LB-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL standalone architecture and derived-use pathway only"
 source_boundary: "One Japanese standalone manga EPUB, metadata verified; narrative admission and inspection NONE"
@@ -68,7 +68,7 @@ Source components remain separate: actual narrative, covers/afterwords/extras, t
 
 | Dimension | Capture | Cumulative destination | Mature duty |
 |---|---|---|---|
-| Person behavior and development | Every material transition and diagnostic ordinary example | Scene/state ledger's subject-state records | Character interpretation mandatory; monograph only if distinct question earns it |
+| Person behavior and development | Every material transition and diagnostic ordinary example | Scene/state ledger's subject-state records | Character interpretation and qualified individual portraits under §5 |
 | Directed relationships | Each supported direction and material change | Directed-edge records | Relational argument mandatory |
 | Event/disclosure time, knowledge and frame | Every consequential uncertainty/transition | Scene map and epistemic fields | Causal/temporal synthesis mandatory |
 | Japanese register and ordinary behavior | Contextual samples, thought/speech distinguished | Expression/ordinary sample records | Baseline and written-register account mandatory where evidence exists; gaps explicit |
@@ -81,15 +81,25 @@ Source components remain separate: actual narrative, covers/afterwords/extras, t
 
 Every recurring observation has a home. The standalone evidence ledger contains clearly separate typed records with their own schemas, rather than a blanket paragraph pretending to preserve all states.
 
+### Independent reading within scene frontiers
+
+For each future authorized reading of the standalone work, the principal verifies the locked witness and the Japanese page-inspection route for each assignment, reads the full unit, and owns its single source-facing interpretation. Give a second reader the same locked Japanese pages in movement order, with later movements withheld until the relevant forecasts are frozen. Ask whether any silent sequence, repeated composition or change of viewpoint actually observed on those pages supports, qualifies or contradicts a candidate causal connection between two scenes. Preserve what a participant actually did, what the page withholds, and a credible alternative to the connection.
+
+The separate critical reviewer reopens diagnostic pages and tests whether the drawing establishes a change in the person, a change in what the reader knows, or leaves that distinction unresolved. Check that a minor action or ordinary practice that limits the claim survives the full-work retrospective. Beyond those pages, the reviewer challenges the reading's other material findings: source attribution, locators, temporal boundaries, unsupported inferences, character states, missing counterexamples and information lost during integration. The specialist forms an account in a separate context before seeing the principal’s draft. Where practicable the reviewer inspects the evidence before seeing either account. Record prior exposure, freeze predictions before revealing the outcome and identify any findings that lose independent or prospective credit after exposure.
+
+Use the closing manifest of the standalone reading to record participants, assignments, the actual separation of their execution contexts, actual access and horizon, the pages each participant actually inspected, located observations, alternatives, review challenges and each participant’s unresolved evidence obligations. The principal records the reason to adopt, qualify, reject or leave each material finding open, preserves diagnostic evidence in the reading, and reconciles the shared records once. Check coverage, findings and cumulative state before closing the transaction. Interpretive roles start at `SUBSTANTIVE_ANALYSIS` and escalate individually for difficult or propagation-sensitive judgments. The standing team has distinct specialist and reviewer contexts. Record a capability blocker at the entrypoint and hold acceptance and frontier advance if the required access or independence is unavailable. [Source-reading policy](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading)
+
 ## 5. Substantial synthesis and earned specialists
 
 The full reading must preserve sequence-level causal explanation and an exit account of what remains uncertain. Retrospective synthesis then explains how the work's parts support, qualify or challenge that account. It must integrate character, relationships, language and page form into an argument, not concatenate section summaries.
 
-Create a monograph, directed relationship study, formal study or thematic specialist only when a distinct question requires sustained treatment that the integrated account cannot adequately contain. Before deciding no specialist is needed, the role-gap review names the substantive integrated sections carrying each duty. Absence of extra files is acceptable; absence of the analytical responsibility is not.
+Create a directed relationship study, formal study or thematic specialist only when a distinct question requires sustained treatment that the integrated account cannot adequately contain. Before deciding no specialist is needed, the role-gap review names the substantive integrated sections carrying each duty. Absence of extra files is acceptable; absence of the analytical responsibility is not.
 
 A character argument distinguishes actual change from altered reader knowledge, stated motive from behavior, ordinary versus crisis evidence and interpersonal conditioning. A relationship argument identifies both people and each direction, including asymmetry and counterevidence. A formal argument explains the effect of observed composition and sequence, testing alternatives rather than assigning symbolism by image prominence.
 
 No universal word cap governs these artifacts. Acceptance requires preserved inferential steps, representative support, exceptions, rival accounts, subject identity and limits. During handoff/revision compare full versions for lost intellectual content. An outline with headings or a ledger densely populated with labels cannot pass as mature synthesis.
+
+At character and specialist readiness, record each assessed person in the scene/state ledger’s monograph qualification schema within its subject records. Assess differentiated behavior across contexts or within a concentrated sequence, including supporting characters and counterexamples. Record identity, source boundary, outcome, rationale, gaps, next review trigger and the portrait path once it exists. A qualified subject earns a standalone `studies/LB_<subject>_MONOGRAPH.md`. Carry outstanding portraits through synthesis and release reviews. Reassess on material evidence changes. Check the portrait alone for a usable account of the person, then test fidelity separately against diagnostic source evidence. [Individual monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)
 
 ## 6. Contradictions, dependencies and gates
 
@@ -140,6 +150,7 @@ Current method/architecture, entry and indexes are mutable through targeted chan
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL one-work architecture with scene-level preservation and bounded reconstruction; no narrative findings |
 | 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for the future standalone reading; scene-level preservation, full analytical duties and CLOSED authorization boundary retained |
+| 1.2 | 2026-11-17 | Assigned independent source reading and reconciliation, and the qualification and acceptance route for individual portraits, with its record schema in the scene/state ledger. |
 
 ## 9. Ownership, transfer and retrieval
 

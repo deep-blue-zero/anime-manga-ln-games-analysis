@@ -4,7 +4,7 @@ artifact_id: RAG_CHARACTER_RECONSTRUCTION_SPEC
 artifact_type: character_reconstruction_specification
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -23,7 +23,7 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 ## 1. Required outcome
 
-A substantial character study must support more than recollection of events or a list of personality traits. The target is a **source-bounded, time-indexed model of perception, motivation, choice, speech, and relationship-conditioned behavior**, with explicit limits on extrapolation.
+An operational reconstruction study must support more than recollection of events or a list of personality traits. The target is a **source-bounded, time-indexed model of perception, motivation, choice, speech, and relationship-conditioned behavior**, with explicit limits on extrapolation.
 
 The model should answer: under these circumstances, at this point in the manga, with these people and this knowledge, what responses are well supported, what alternatives remain plausible, and what would be inconsistent without additional assumptions?
 
@@ -47,9 +47,9 @@ The model is updated through targeted changes after material new evidence. Older
 
 `RAG_<CHARACTER>_CHARACTER_MONOGRAPH.md` owns the substantial literary and psychological synthesis: development, causality, motives, self-report, relationships, speech, contradiction, narrative form, thematic role, and interpretive disputes.
 
-Every mature monograph **must include a substantive reconstruction account**: explain the model's central mechanisms, state transitions, relationship conditioning, behavioral and speech repertoire, important negative constraints, tested examples, and limitations. It must name the exact model version or snapshot it incorporates and link the detailed rule IDs.
+Every mature monograph explains the person's behavior at the claimed source boundary, including situational variation, relationships, ordinary conduct and negative evidence. When it incorporates an operational model, identify the exact model version or snapshot, link the applicable rule IDs, and explain the mechanisms, tested examples and limitations in prose. A qualified portrait can use diagnostic Japanese pages and the person's evidence history while operational readiness remains `UNMODELED`.
 
-A monograph cannot satisfy reconstruction merely with a link. Equally, it must not maintain a competing set of operational rules. The detailed model is the operational home; the monograph explains and integrates it. The monograph can challenge a rule, but accepted revisions route back through the model and claim history.
+The detailed model owns operational rules. A monograph that draws on a model explains what those rules contribute to its account of the person. It can challenge a rule, with accepted revisions routed through the model and claim history.
 
 The monograph's literary interpretation and the model's operational extrapolation have different responsibilities. Neither automatically supersedes the other. A later model update does not silently expand the monograph's declared scope.
 
@@ -264,7 +264,7 @@ Do not publish a numerical accuracy percentage from a small handpicked sample. T
 
 ## 10. Checkpoint audit and local readiness
 
-After each ten-volume checkpoint, create one project-local reconstruction audit covering active substantial characters. For each character, record the exact model/snapshot, observed domains, strong and weak rules, tests performed, failures, required assumptions, unsupported scenarios, and the next evidence needed.
+After each ten-volume checkpoint, create one project-local reconstruction audit covering active substantial characters. For each modeled character, record the exact model/snapshot, observed domains, strong and weak rules, tests performed, failures, required assumptions, unsupported scenarios, and the next evidence needed. For an unmodeled person, retain the observed evidence and coverage gaps under `UNMODELED`.
 
 Use descriptive local readiness, not global A-E grades. A practical local vocabulary is:
 
@@ -279,13 +279,13 @@ The global `characters/RECONSTRUCTION_CAPABILITY_SPEC.md` reserves production ca
 
 ## 11. Promotion to a mature monograph
 
-Promotion is evidence-based, not determined by having reached V030 or V040. At each block boundary, decide whether the character warrants a bounded dossier, an operational candidate, a substantial monograph, or further evidence collection. A mature through-V010 monograph can be legitimate when sufficiently supported; a through-V040 monograph can still be premature for a sparsely depicted figure.
+At a future block boundary assess literary qualification and operational model readiness separately. Conduct concentrated within one unit can support a differentiated standalone portrait if the evidence sustains it. A later volume count alone supplies no basis for a portrait. Route the decision through architecture §10.
 
 A mature monograph must:
 
 1. Develop an integrated argument about the character across the declared source boundary, rather than concatenate volume summaries.
 2. Explain change and persistence, self-report versus action, relationship conditioning, written speech, ordinary repertoire, and important contradictions at the depth the evidence supports.
-3. Incorporate the operational reconstruction in substantive prose with rule/state links and representative applications.
+3. Explain source-supported conditions on behavior. If the monograph incorporates an operational model, cite its rule/state links and representative applications. Otherwise state the limits of extrapolation at the assessed source boundary.
 4. Address the strongest competing interpretation and material counterevidence.
 5. Distinguish literary/narrative function from inferred psychology and from counterfactual extrapolation.
 6. Provide traceable source routes and disclose material gaps, scope, and validation limitations.

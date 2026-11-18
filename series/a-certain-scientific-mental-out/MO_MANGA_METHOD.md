@@ -3,7 +3,7 @@ title: "A Certain Scientific Mental Out — Governing manga method"
 artifact_id: MO_MANGA_METHOD
 artifact_type: project_manga_analytical_method
 series: a-certain-scientific-mental-out
-version: "1.1"
+version: "1.2"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 authority_scope: initial_project_design_only
@@ -61,7 +61,7 @@ Use `PRESERVE/STRENGTHEN/REVISE/DOWNGRADE/REJECT/OPEN`. Keep prior formulation, 
 
 Each future reading delivers exact coverage/witness receipt; entering state/exposure; full factual causal reconstruction; sustained interpretation with visual/Japanese evidence; named character, directional relationship and knowledge changes; ordinary-life cases; counterreadings; claims and exit state; and a transaction listing every required cumulative/source update or explicit reviewed/no-supported-change outcome. No fixed length cap governs the argument. Locator tables, checkpoint synopses and output receipts do not replace the full reading.
 
-Reinspect load-bearing pages and verify page completeness, semantic attribution and any OCR ambiguity before acceptance. Missing or unread pages block affected completion claims. A chapter can be provisionally interpreted while a specific gap is repaired, but its unresolved influence remains visible to downstream work. Full-volume reconciliation checks that all chapters, transitions, extras and silent pages received explicit coverage decisions; a highest-number frontier cannot conceal holes.
+Apply the [standing source-reading team](MO_SYNTHESIS_ARCHITECTURE.md#team-for-a-source-reading) to each new substantive reading and close the contribution receipt with its cumulative updates. Reinspect load-bearing pages and verify page completeness, semantic attribution and any OCR ambiguity before acceptance. Missing or unread pages block affected completion claims. A chapter can be provisionally interpreted while a specific gap is repaired, but its unresolved influence remains visible to downstream work. Full-volume reconciliation checks that all chapters, transitions, extras and silent pages received explicit coverage decisions; a highest-number frontier cannot conceal holes.
 
 Apply handoff §15.6 before semantic acceptance: sample opening, substantial middle and concluding/exit passages, extending to major relations, for stable known names, clear pronouns, purposeful role labels and correct speaker/thinker/recipient attribution while preserving concealment and knowledge boundaries. Record scope and classify supported findings as justified role reference, source-required anonymity, knowledge-boundary-required, unnecessary genericization, ambiguous referent or incorrect identity/attribution. Never certify semantics through counts or automatic substitution.
 
@@ -82,3 +82,5 @@ For Mental Out, retain the distinction between what is asserted about intention,
 The synopsis is unit-end, spoiler-bearing orientation: compose or finalize it only after the applicable prospective captures are frozen, and keep the full spoiler-bearing reading from analysts assigned an earlier chapter, sequence or volume horizon. It is neither a prospective freeze nor independent evidence. Full causal, visual, Japanese, character, relationship and counterreading arguments, state/claim updates, coverage decisions and exit freezes remain mandatory. A genuinely non-narrative separately scoped pass may record reasoned inapplicability; a plot-bearing unit may not omit this duty.
 
 _Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 for future eligible units. No narrative synopsis, source admission, run authorization or frozen-history change is made here._
+
+_Prospective amendment — 2026-11-17, method v1.2. Routed source-facing acceptance to the standing participant configuration and the existing unit transaction._
