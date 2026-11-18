@@ -237,6 +237,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Reviewed current evidence:
   - [`character-model` — Liliana Masquerade: V01–V19 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_LILIANA_V01_V19_CHARACTER_MODEL.md)
 
+<a id="louis-arneb"></a>
+
+### Louis Arneb
+
+- Entity ID: `re-zero:louis-arneb`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:louis-arneb@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v19-v25-character-model`: LIGHT_NOVEL VOLUME: Dedicated model of Louis across the original Japanese main light novels V19–V25, built on the frozen readings and owner ledgers with targeted original reinspection of V19–V25. It covers the V19 recognition conditions (no Louis dialogue), the V20 Priestella manifestation before Otto, Felt and Beatrice, her represented past in the white room as told in V25, the first meeting with Subaru and the soul partition, the waiting half's V24 negotiation, the participating half inside Subaru (individual acts in the tower gaps kept unassigned unless a witness supports them), the E046 Corridor encounter with integrated Subaru, the victorless struggle of the two selves and the physical girl through the green room and the unknown plain, whose interior is not modeled. The brothers' own conduct is attributed to them, not to Louis. No V26 or later, web-novel, IF, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`v19-v25-character-model` — Louis Arneb: V19–V25 character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_LOUIS_ARNEB_V19_V25_CHARACTER_MODEL.md)
+
 <a id="meili"></a>
 
 ### Meili
