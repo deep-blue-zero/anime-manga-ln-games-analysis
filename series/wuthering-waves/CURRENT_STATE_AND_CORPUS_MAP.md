@@ -122,6 +122,8 @@ Sequential story analysis is governed by:
 
 All current packets use the complete current-authority quartet and retain their actual modality coverage. See the applicable packet import/adoption record. Missing AV alone does not disqualify a text/audio model.
 
+For the next authorized substantive story reading, the [standing team](00%20Frameworks%20and%20Methods/WUWA_LONGITUDINAL_STORY_ANALYSIS_ARCHITECTURE.md#standing-team-for-a-narrative-unit) reconciles its findings in the existing [narrative closeout](00%20Frameworks%20and%20Methods/WUWA_NARRATIVE_DEEP_READING_PROTOCOL.md#closeout).
+
 ## Project-initiation state
 
 The existing Git-native bootstrap already supplies the canonical analytical method, synthesis architecture, and the five longitudinal artifacts required by that architecture. This declaration records their verified present state for imported character deep readings under the current initiation policy. It does not claim completed title-wide sequential analysis, claim unperformed audio/AV review, or authorize a new source acquisition.
