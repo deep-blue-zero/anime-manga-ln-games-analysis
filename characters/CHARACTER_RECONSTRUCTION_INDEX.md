@@ -15,13 +15,13 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 157; `STALE` 2; `SUPERSEDED` 33
+- Recorded totals: `CANDIDATE` 159; `STALE` 2; `SUPERSEDED` 33
 
 ## Namespaces
 
 | Namespace | Subjects | Assessments |
 | --- | ---: | ---: |
-| [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 7 | 7 |
+| [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 9 | 9 |
 | [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
 | [`azur-lane`](reconstruction_index/azur-lane.md) | 2 | 2 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
@@ -60,6 +60,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | Subject | Assessment | Recorded status | Overall tier | Basis commit |
 | --- | --- | --- | --- | --- |
 | `86-eighty-six:anju-emma@original-light-novels` | [`86-eighty-six-anju-emma-ln-cmr-profile-20261118-02`](reconstruction_index/86-eighty-six.md#86-eighty-six-anju-emma-ln-cmr-profile-20261118-02) | `CANDIDATE` | `B` | `442bd3967061332ca915e5d16377c6315b22a1e6` |
+| `86-eighty-six:frederica-rosenfort@original-light-novels` | [`86-eighty-six-frederica-rosenfort-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-frederica-rosenfort-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `b9ff988fda60b9d9ceb6b96dcc403ce6e96fcc41` |
+| `86-eighty-six:grethe-wenzel@original-light-novels` | [`86-eighty-six-grethe-wenzel-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-grethe-wenzel-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `b9ff988fda60b9d9ceb6b96dcc403ce6e96fcc41` |
 | `86-eighty-six:kurena-kukumila@original-light-novels` | [`86-eighty-six-kurena-kukumila-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-kurena-kukumila-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
 | `86-eighty-six:raiden-shuga@original-light-novels` | [`86-eighty-six-raiden-shuga-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-raiden-shuga-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `d68f3465126a2a95fd36138af773ccaea10d8e9a` |
 | `86-eighty-six:shiden-iida@original-light-novels` | [`86-eighty-six-shiden-iida-ln-cmr-profile-20261118-02`](reconstruction_index/86-eighty-six.md#86-eighty-six-shiden-iida-ln-cmr-profile-20261118-02) | `CANDIDATE` | `B` | `442bd3967061332ca915e5d16377c6315b22a1e6` |
