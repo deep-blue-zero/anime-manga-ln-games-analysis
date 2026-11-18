@@ -4,7 +4,7 @@ series: scums-wish
 artifact_id: SW_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: SW-G1
-version: "1.2"
+version: "1.3"
 status: canonical
 authority_scope: "INITIAL project method; methodological authority only, with no narrative findings"
 source_boundary: "Metadata reconnaissance of Japanese main manga volumes 01-08 and decor volume 09; no narrative units admitted or inspected"
@@ -102,7 +102,7 @@ Create `readings/SW_MAIN_VNN_DEEP_READING.md`, or separately authorized `reading
 5. Person/state changes, directed relationships, ordinary situations and contextual constraints.
 6. Japanese register and consequential visual form, including text/image tension if present.
 7. Counterevidence, competing explanations, claim transitions and forecast adjudications.
-8. Exact ledger-update manifest, exit state and remaining debts/completion decision.
+8. Exact ledger-update manifest, exit state and remaining debts/completion decision. In the participation receipt, identify the principal, each specialist and the critical reviewer. For each, record the bound witness and MAIN or DECOR horizon, the page/image and panel ranges they actually inspected under §8, and any assigned ranges they excluded or could not inspect, with the reason. Link each participant’s findings or challenges to the principal’s disposition.
 
 A full reading is an argued interpretation, not a filled table or collection of labels. Preserve causal mechanisms, significant examples and counterexamples, ambiguity and temporal transitions without a universal word ceiling. Each mandatory ledger advances atomically with the accepted unit; a reading with only prose or only rows is incomplete. “No material change” belongs in the transaction manifest with a reason, not a routine filler row.
 

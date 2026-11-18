@@ -11,7 +11,7 @@ authority_generation: AP-INITIAL
 authority_scope: "INITIAL bootstrap method, architecture, and administrative metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese volumes 01–16 and separate simplified Chinese volume 15; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-18
 ---
 
 # Character, relationship and register ledger
@@ -32,6 +32,7 @@ The registers below share subject/evidence keys but cannot substitute for one an
 | Written register `AP-L-nnnn` | Speaker/narrator and recipient/audience; spoken/interior/reported mode; witness and exact Japanese locator; verified short wording and ruby/base distinction; speech act/objective; register/address/modality/ellipsis; gloss and alternatives; contextual comparison; source language; interpretive claim and uncertainty |
 | Opportunity/control `AP-O-nnnn` | Subject/relationship; ordinary-life or negative-evidence question; actual opportunity; stakes/resources/audience; observed action/non-action; absent-information limit; comparable contexts; evidence and counterexample; generalization ceiling |
 | Reconstruction coverage obligation `AP-RC-nnnn` | Source-established subject and model boundary; evidence channel/context/relationship/time coverage; represented and absent scenarios; contradictions; written-voice evidence; excluded witnesses; held-out plan/exposure; no readiness grade unless assigned by designated independent evaluator |
+| Monograph qualification, keyed by `AP-SUB-nnn` and assessment boundary | Subject; assessment boundary; outcome `QUALIFIED_PENDING / COMPLETE_AT_BOUNDARY / DEFERRED_EVIDENCE / REASSESS_AFTER_REVISION` ([initiation section 5.5.1](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)); brief source-grounded rationale naming the largest gaps; next review trigger; monograph path once a real document exists; separate self-containment and fidelity acceptance references for `COMPLETE_AT_BOUNDARY`. A reassessment appends a row; the latest row is current and earlier rows remain. An unassessed subject has no row and is neither qualified nor rejected |
 
 Register dimensions are descriptive, not mandatory positive findings. Use `UNKNOWN` or `NOT_ESTABLISHED` with reason when the source does not supply them. Do not turn an unavailable internal state into a table entry labeled “motivation.”
 
@@ -64,3 +65,4 @@ At checkpoint, inspect whether evidence overrepresents crises, one interlocutor,
 | History ID | Date | Change | Result |
 |---|---|---|---|
 | AP-CR-H001 | 2026-11-07 | Initialized evidence responsibilities and coverage gaps | No roster, characterization, reconstruction policy or readiness claim |
+| AP-CR-H002 | 2026-11-18 | Added the monograph qualification register schema | No subject assessed; no qualification outcome recorded |
