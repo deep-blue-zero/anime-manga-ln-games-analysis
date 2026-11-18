@@ -6,6 +6,56 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 
 ## Recorded assessments
 
+### Subject `re-zero:anastasia-hoshin@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/re-zero/anastasia-hoshin@light-novel.jsonl`](../reconstruction_capabilities/re-zero/anastasia-hoshin@light-novel.jsonl)
+
+<a id="re-zero-anastasia-hoshin-ln-v01-v25-model-20261118-01"></a>
+
+#### Assessment `re-zero-anastasia-hoshin-ln-v01-v25-model-20261118-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `re-zero:anastasia-hoshin`
+- Scope: continuity `re-zero-main-light-novels`
+- Source boundary: Only re-zero:anastasia-hoshin@light-novel\#v01-v25-character-model, the canonical generation V1.0 derived-use model REZERO\_ANASTASIA\_HOSHIN\_V01\_V25\_CHARACTER\_MODEL.md at basis\_commit \(81,224 bytes\), the one REVIEWED item on the row, read in full as reviewed repository analysis of the human Anastasia in the admitted original Japanese numbered main light novels V01-V25, with its event-state, volume, member, block-range, rule \(A25-R01-R20\) and claim-ID locators as the model states them. The artificial spirit \(scarf Echidna\) is a separate subject: its conduct during V19-V25 is used only where the model uses it to bound the human. The separate fidelity review, the V25 claim register, the Arc 6 checkpoint, the owner ledgers, the scarf operator's own model, the source lock and the Japanese originals are not curated as evidence here and were not used. The model header's MONOGRAPH\_READY readiness, local PASS\_WITH\_BOUND fidelity state and PENDING\_THIS\_OPERATION\_FULL\_GATE value are inputs, not conclusions; the project character-analysis router, read for gate state only, records the model's full publication and integration gate as closed through PR \#673. The evaluator performed no primary-source inspection.
+- Temporal boundary: Japanese main light novels V01-V25: the adult's retrospective account of her Kararagi rise, the V04 E008 candidacy and bout, the V06 E010 café and V07 E011 negotiation, V16 Priestella hosting, the V17-V18 E021 city crisis and the V18 private question about Beatrice, the emergency handover and her withdrawal while the artificial spirit operates the body \(V19-V25, no human dialogue\), and the V25 E046 return through her report to Emilia about watching sleeping Rem, the model's default. Claims are selected by the model's seven axes and its section 2 states, never by whole-volume labels; who controls the body is decided before any utterance is attributed. Her position and perception at the later shadow, the compressed V25 attempts and anything after the default are outside this assessment, as are IF routes, EX, the web novel, adaptations, side stories and V26 or later.
+- Basis commit: `bd3cf48ffe9720fd54551166a5321439c937e62b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `4affd0a967ef597e04fe3e2c44572e56c1f31d06ba6053c938fc017fc015632b`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Output is illustrative and labeled noncanonical, never presented as a quotation.
+  - `DIALOGUE` condition: Who controls the body is established first; no human dialogue is generated for an operator-only scene.
+  - `DIALOGUE` condition: Wording follows the section 11 recipient and occasion \(court, café, familiar, dependent in danger, the returned knight, Emilia\) with the source of her information and the stakes kept audible.
+  - `DIALOGUE` condition: No phonetic accent, no recollection of pre-loss Julius episodes after the return, and no words after the default.
+  - `CROSS_SCENARIO` condition: A bounded situation built from the rule triggers and the section 12 probes: a request about a guarded source, a small surprise for a familiar, an errand for an eager subordinate, a favor given or received without a price, a speaker chosen for a frightened audience, or an irreversible check.
+  - `CROSS_SCENARIO` condition: The interlocutor is a sampled recipient in a named state; a comparable unfamiliar merchant or colleague is a separate, lower-confidence condition.
+  - `CROSS_SCENARIO` condition: Abstain where gain and care conflict without a sampled analogue, on her V19-V24 interior, on her position after the default, and on any outcome of a promise or plan.
+  - `CROSS_SCENARIO` bounds: chronology One section 2 human state: V04-V18 before the handover, or the V25 E046 return after the re-pledge and up to the report about Rem; no operator-period human state.; interlocutor A sampled recipient \(Julius before or after the loss, Subaru in a named state, Emilia, Mimi, Hetaro or Tibby, Ricardo, Kiritaka, Joshua, Crusch's camp or the fox\); an unfamiliar counterpart only as a separate lower-confidence case.; settings The royal court, a capital café or negotiating table, the Priestella inn and city council, or the Pleiades Watchtower after the return, or a comparable commercial, household or civic setting.; No setting after the default, no operator-only scene and no IF-route, EX, web-novel or adaptation material.; Her impaired mana intake stands; the human is not given magic she cannot ordinarily use.
+  - `MUNDANE_SOCIAL` condition: Hosting, a small surprise, a shared meal, looking after Mimi or giving an errand, with a familiar recipient present.
+  - `MUNDANE_SOCIAL` condition: Her pleasure in others' reaction and her practical sense as host are predicted; the sentence used is not.
+  - `MUNDANE_SOCIAL` condition: No private favorite food, daily routine or reliable cooking skill is invented.
+  - `ETHICAL_DELIBERATION` condition: Dilemmas of owed favors, accepting another's self-chosen risk, disclosing a companion's secret, or an irreversible act to gain information.
+  - `ETHICAL_DELIBERATION` condition: Her last-resort maxim and stated willingness to decide a lethal matter herself are both kept; neither becomes an absolute rule.
+  - `ETHICAL_DELIBERATION` condition: No resolution is generated where commercial gain and care conflict without a sampled analogue.
+  - `PROFESSIONAL_CONTEXT` condition: Merchant negotiation, the candidate before the council, the Priestella host, or the temporary civic deputy.
+  - `PROFESSIONAL_CONTEXT` condition: She cannot speak for Russell's guild, guarantee a seller's consent or claim public charisma from her title.
+  - `PROFESSIONAL_CONTEXT` condition: Promises do not establish outcomes; the Roy custody decision establishes no arrival, extraction or sentence.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `compressed-attempts-unknown` (evidence-backed limitation): The V25 compressed attempts give no individual Anastasia action; each is held UNKNOWN \(section 2\).
+  - `family-attribution` (evidence-backed limitation): 'Family' at the V17 sickroom is the narrator's word and Mimi's elsewhere; legal kinship, the identity of the finder Mimi calls ローシ and each subordinate's private preferences are not established \(section 5\).
+  - `julius-episodes-not-restored` (evidence-backed limitation): The returned human does not remember her earlier relationship with Julius; the fox's offer to tell her what it saw enlarges knowledge without restoring episodes \(section 8, R16-R17, P06\).
+  - `later-position-unshown` (evidence-backed limitation): After her report to Emilia about sleeping Rem, her location and perception when the shadow arrives are unknown; nothing places her on the plain \(section 9, R20, P09\).
+  - `od-reserve-unmeasured` (evidence-backed limitation): The fox's account of her Gate, finite reserve and the risk of forcible removal is one participant's judgment; no measurement, lifespan or general release method is given \(section 7\).
+  - `operator-period-human-silent` (evidence-backed limitation): From the emergency handover through the V25 return the artificial spirit operates the body; the human's speech and perception in those scenes are SOURCE\_SILENT, a first-person form or familiar gesture does not identify the speaker, and the first instant of the handover is open \(sections 2 and 7, R13-R14, P05\).
+  - `single-derived-synthesis` (evidence gap): The model is one synthesis derived from the project's own frozen readings and ledgers; its probes P01-P09 are noncanonical documentary applications, not held-out tests.
+  - `uncurated-review-and-ledgers` (evidence gap): The separate fidelity review, the V25 claim register, the Arc 6 checkpoint, the owner ledgers, the scarf operator's model, the source lock and the primary Japanese sources are not curated as evidence here, so no locator was rechecked and no independent probe result is in this evidence set. Missing support is not evidence of absence.
+  - `volumes-not-covered` (evidence gap): The model states no coverage of V05 or V08-V15 and does not say whether the human acts there; the discovery row's coverage note is curation metadata, not evidence.
+  - `withdrawal-reason-through-fox` (evidence-backed limitation): The reason for her prolonged withdrawal \(staying inside to keep her memory of Julius from Gluttony's effect\) is given in the fox's focalization and then claimed by her as her own choice; her complete inner account, the first instant either recognized the cost and the acoustics of her call are open \(section 8, R15\).
+- Evidence at basis commit:
+  - [`re-zero:anastasia-hoshin@light-novel#v01-v25-character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/bd3cf48ffe9720fd54551166a5321439c937e62b/series/re-zero/05%20Character%20Analysis/REZERO_ANASTASIA_HOSHIN_V01_V25_CHARACTER_MODEL.md)
+
 ### Subject `re-zero:beatrice@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/re-zero/beatrice@light-novel.jsonl`](../reconstruction_capabilities/re-zero/beatrice@light-novel.jsonl)
@@ -991,6 +1041,58 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
   - [`re-zero:shaula@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2ccd93a9781634afa64285d01b7c204cbf589d08/series/re-zero/05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md)
 - Superseded by: `re-zero-shaula-ln-v21-v24-models-20261107-01`
 - Stale reason: reconstruction\_status.py work-queue at main 141711495d1fc86a86c6db882e6e734ad9efc91e reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED: discovery PR \#495 added reviewed evidence re-zero:shaula@light-novel\#v21-v24-character-model \(REZERO\_SHAULA\_V21\_V24\_CHARACTER\_MODEL.md, the V21–V24 successor model\) and a coverage entry, so this assessment no longer covers the subject's reviewed evidence set.
+
+### Subject `re-zero:subaru@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/re-zero/subaru@light-novel.jsonl`](../reconstruction_capabilities/re-zero/subaru@light-novel.jsonl)
+
+<a id="re-zero-subaru-ln-v01-v25-model-20261118-01"></a>
+
+#### Assessment `re-zero-subaru-ln-v01-v25-model-20261118-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `re-zero:subaru`
+- Scope: continuity `re-zero-main-light-novels`
+- Source boundary: Only re-zero:subaru@light-novel\#v01-v25-character-model, the canonical generation V1.0 derived-use model REZERO\_NATSUKI\_SUBARU\_V01\_V25\_CHARACTER\_MODEL.md at basis\_commit \(103,400 bytes\), read in full as reviewed repository analysis of the admitted original Japanese numbered main light novels V01-V25, with its phase, event-state, bundle \(B01-B55\), rule \(RZ-SUB25-R001-R037\), volume, member and block locators as the model states them. The row's other reviewed items \(the V01-V10 model with its terminal E013 default, the estate-story checkpoint and the master longitudinal ledger\) were not used; the V25 model maps every V01-V10 rule onto its own rules in section 9 and governs current use. The separate V01-V25 fidelity review, the V25 claim register, the Arc 6 checkpoint, the five owner ledgers, the source lock and the Japanese originals are not curated as evidence here and were not used. The model header's MONOGRAPH\_READY readiness, local PASS\_WITH\_BOUND fidelity state and PENDING\_THIS\_OPERATION\_FULL\_GATE value are inputs, not conclusions; the project character-analysis router, read for gate state only, records the model's full publication and integration gate as closed through PR \#622. The evaluator performed no primary-source inspection.
+- Temporal boundary: Japanese main light novels V01-V25, from the S00 remembered Japan and S01 capital arrival through S18, the V25 E046 unnamed plain immediately after Subaru calls himself Rem's hero \(the model's default\). Claims are selected by the model's section 2 phase \(S00-S18\) and its development, event-state, knowledge, remembered-history, recipient, role and resource inputs, never by whole-volume labels; discarded-segment experience belongs only to the Subaru who retains it, and the S12-S13 memory-loss state and the S17 integrated state are separate. The body's acts during the missing-control interval, the eleven compressed V25 attempts, Rem's response to the hero declaration and everything after it are outside this assessment; IF routes, EX, the web novel, adaptations, side stories and V26 or later are excluded.
+- Basis commit: `bd3cf48ffe9720fd54551166a5321439c937e62b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `166d099631a631a89eff91e876341aff53503b44795ff5de43b3d06dbefe0438`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Output is illustrative and labeled noncanonical, never presented as a quotation.
+  - `DIALOGUE` condition: Phase, event state, knowledge, remembered history, recipient, role and resources are selected from section 2 before wording is chosen.
+  - `DIALOGUE` condition: Address forms follow section 7.2 for the selected recipient and phase \(for example エミリアたん versus V23 エミリアちゃん; no ベア子 where Beatrice has refused it\).
+  - `DIALOGUE` condition: No speech for the body during the missing-control interval, no reply from Rem after the hero declaration and no words after E046.
+  - `CROSS_SCENARIO` condition: A bounded novel situation built from the rule triggers: a refusal of help he thinks urgent, a request to explain future-like knowledge, a companion naming a specific harm, an offered burden, a vulnerable person who has caused harm asking for help, or a chore with tools and feedback.
+  - `CROSS_SCENARIO` condition: The interlocutor is a section 6 recipient in a named phase; a comparable unfamiliar ally is a separate, lower-confidence condition built from R006, R007 and R010.
+  - `CROSS_SCENARIO` condition: Abstain on Rem's response after the hero declaration, on the agent of any missing-control act, on Earth family's current reaction and on anything after E046.
+  - `CROSS_SCENARIO` condition: Return by Death mechanics and the count follow R035; no guaranteed return, save point or new checkpoint is assumed.
+  - `CROSS_SCENARIO` bounds: chronology One named section 2 phase between S01 and S18, with Subaru's knowledge and retained experience at that phase; the S12-S16 post-loss self lacks older local autobiography, and S17-S18 keep both histories.; interlocutor A section 6 recipient in a named state \(Emilia, Rem in a selected state, Beatrice, Ram, Otto, Julius, Petra, Meili, Patrasche or Yosef, Roswaal, the operator or returned Anastasia, Shaula, Louis, Crusch or Ferris\); a comparable unfamiliar ally only as a separate lower-confidence case.; settings The capital, the Roswaal estate, the Sanctuary, Pristella, the road to the tower or the Pleiades Watchtower, or a comparable household, campaign or expedition setting.; No setting after the E046 plain and no IF-route, EX, web-novel or adaptation material.; Erasure stays in force for Rem and for the people who forgot Julius; broken Gate and partner-dependent mana stay in force after V15.
+  - `MUNDANE_SOCIAL` condition: A household task, craft, meal, training session, travel conversation or play with a familiar recipient at a selected phase.
+  - `MUNDANE_SOCIAL` condition: Trained skill follows the phase \(S02 learner versus S09 and later trained body; S12 cannot retrieve local literacy or trained whip technique on demand\).
+  - `MUNDANE_SOCIAL` condition: No invented favorite food, menu, schedule, complete cooking repertoire or hobby.
+  - `ETHICAL_DELIBERATION` condition: Dilemmas of disclosure under sanction, accepting or imposing risk, taking another's burden, resisting a requested death, or helping someone who has caused harm.
+  - `ETHICAL_DELIBERATION` condition: Acts in the missing-control interval are not attributed to his choice; his later concealment and lies are.
+  - `ETHICAL_DELIBERATION` condition: No general moral rule is printed across recipients; section 6.1's distinct cases are kept distinct.
+  - `ROMANCE_RELATIONSHIP` condition: Only Subaru's own side: admiration and direct attraction toward Emilia at a selected phase \(R019\), or the pre-erasure Rem relationship on its V06 received terms.
+  - `ROMANCE_RELATIONSHIP` condition: The recipient's refusal, uncertain reception \(the V13 kiss\) and choice are preserved; her reply is not generated.
+  - `ROMANCE_RELATIONSHIP` condition: No romance with awake Rem after the hero declaration \(RELATIONSHIP\_STATE\_UNKNOWN\), none read from 愛してる to Beatrice, and no reciprocity with Shaula.
+  - `PROFESSIONAL_CONTEXT` condition: Estate servant, Emilia's knight after the V15 knighting, coalition negotiator, Pristella public speaker or tower party member at a selected phase.
+  - `PROFESSIONAL_CONTEXT` condition: The V04 self-appointment, the V15 knighthood and qualified crisis leadership are different authorities.
+  - `PROFESSIONAL_CONTEXT` condition: No legal immunity, unlimited command or further ceremony is assumed.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` B; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` B; `HUMOR_PLAY` B; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `compressed-v25-attempts` (evidence-backed limitation): Eleven of the fifteen V25 deaths are compressed in the source with no individual state, and the source's own count wording \(seventeenth reunion, twenty-two post-loss deaths, total forty\) remains in tension with the working ledger's 45 deaths and 46 segments \(section 2, R035\).
+  - `earth-family-represented` (evidence-backed limitation): Kenichi and Naoko are available only as Subaru remembers them and as represented in the V10 trial; their real present reaction is unknown \(B08, R018\).
+  - `missing-control-agents-open` (evidence-backed limitation): During the S13 missing-control interval the source implicates Subaru's body in Meili's death but does not identify the controller, the left-arm inscription's writer, the corpse mover or the rear decapitator; only his later concealment, lies and rush at Ram are his attested choices \(B37, R025, P04\).
+  - `post-e046-unshown` (evidence-backed limitation): Rem's response to the hero declaration, her autobiographical condition, the location reached, the next save point and the fates of the missing tower party are unshown; the default stops at the last witnessed words \(sections 0, 2 and 8, R036, P07\).
+  - `precise-voice-unsupported` (evidence gap): No profile of sentence endings, honorific levels, lexicon or acoustic delivery is given beyond the located address forms; a request for precise original voice receives JAPANESE\_REGISTER\_SAMPLE\_TOO\_NARROW.
+  - `rbd-mechanics-open` (evidence-backed limitation): The provider, save-point control and ontology of Return by Death, the shadow's full mechanism and the books' production remain open; the model's rules use observed recurrences only \(sections 7.1 and 8, B44\).
+  - `single-derived-synthesis` (evidence gap): The model is one synthesis derived from the project's own frozen readings and ledgers; its probes P01-P07 are noncanonical documentary applications, not held-out tests.
+  - `uncurated-review-and-ledgers` (evidence gap): The separate V01-V25 fidelity review, the V25 claim register, the Arc 6 checkpoint, the five owner ledgers, the source lock and the primary Japanese sources are not curated as evidence here, and the row's V01-V10 model, estate checkpoint and master ledger were not used, so no locator was rechecked and no independent probe result is in this evidence set. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`re-zero:subaru@light-novel#v01-v25-character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/bd3cf48ffe9720fd54551166a5321439c937e62b/series/re-zero/05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V25_CHARACTER_MODEL.md)
 
 ### Subject `re-zero:theresia-van-astrea@light-novel`
 

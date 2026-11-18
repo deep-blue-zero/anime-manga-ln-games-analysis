@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 169; `STALE` 2; `SUPERSEDED` 35
+- Recorded totals: `CANDIDATE` 171; `STALE` 2; `SUPERSEDED` 35
 
 ## Namespaces
 
@@ -44,7 +44,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 2 | 2 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
 | [`project-sekai`](reconstruction_index/project-sekai.md) | 3 | 4 |
-| [`re-zero`](reconstruction_index/re-zero.md) | 19 | 22 |
+| [`re-zero`](reconstruction_index/re-zero.md) | 21 | 24 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 6 | 6 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
@@ -186,6 +186,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `project-sekai:rui@game` | [`project-sekai-rui-game-generation-2-package-20261116-01`](reconstruction_index/project-sekai.md#project-sekai-rui-game-generation-2-package-20261116-01) | `CANDIDATE` | `B` | `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27` |
 | `project-sekai:tsukasa@game` | [`project-sekai-tsukasa-game-generation-2-package-20261116-02`](reconstruction_index/project-sekai.md#project-sekai-tsukasa-game-generation-2-package-20261116-02) | `CANDIDATE` | `B` | `58340ff57a3ae0e5f7b3d97996ba9ad47cc24d4a` |
 | `project-sekai:tsukasa@game` | [`project-sekai-tsukasa-game-generation-2-package-20261116-01`](reconstruction_index/project-sekai.md#project-sekai-tsukasa-game-generation-2-package-20261116-01) | `SUPERSEDED` | `B` | `6fca4fab304d77d2c3d448e67b995fea480c37b0` |
+| `re-zero:anastasia-hoshin@light-novel` | [`re-zero-anastasia-hoshin-ln-v01-v25-model-20261118-01`](reconstruction_index/re-zero.md#re-zero-anastasia-hoshin-ln-v01-v25-model-20261118-01) | `CANDIDATE` | `C` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `re-zero:beatrice@light-novel` | [`re-zero-beatrice-ln-v01-v15-model-20261029-01`](reconstruction_index/re-zero.md#re-zero-beatrice-ln-v01-v15-model-20261029-01) | `CANDIDATE` | `C` | `057a9b65f94da293f9eda5a5cefd11568839a094` |
 | `re-zero:crusch-karsten@light-novel` | [`re-zero-crusch-karsten-ln-v01-v16-model-20261023-01`](reconstruction_index/re-zero.md#re-zero-crusch-karsten-ln-v01-v16-model-20261023-01) | `CANDIDATE` | `C` | `297bc0d05040a24facbeb5440481b9c604de5568` |
 | `re-zero:ferris@light-novel` | [`re-zero-ferris-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-ferris-ln-v01-v16-model-20261024-01) | `CANDIDATE` | `C` | `b20de0edab953d40bf5fc3d2e51dea84e99a610c` |
@@ -206,6 +207,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `re-zero:reid-astrea@light-novel` | [`re-zero-reid-astrea-ln-v22-v24-manifested-model-20261107-01`](reconstruction_index/re-zero.md#re-zero-reid-astrea-ln-v22-v24-manifested-model-20261107-01) | `CANDIDATE` | `C` | `141711495d1fc86a86c6db882e6e734ad9efc91e` |
 | `re-zero:shaula@light-novel` | [`re-zero-shaula-ln-v21-v24-models-20261107-01`](reconstruction_index/re-zero.md#re-zero-shaula-ln-v21-v24-models-20261107-01) | `STALE` | `C` | `83ee41aafa45a46e630ca6bb64c7a170c8b42c44` |
 | `re-zero:shaula@light-novel` | [`re-zero-shaula-ln-v21-v23-model-20261107-01`](reconstruction_index/re-zero.md#re-zero-shaula-ln-v21-v23-model-20261107-01) | `SUPERSEDED` | `C` | `2ccd93a9781634afa64285d01b7c204cbf589d08` |
+| `re-zero:subaru@light-novel` | [`re-zero-subaru-ln-v01-v25-model-20261118-01`](reconstruction_index/re-zero.md#re-zero-subaru-ln-v01-v25-model-20261118-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `re-zero:theresia-van-astrea@light-novel` | [`re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01`](reconstruction_index/re-zero.md#re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01) | `CANDIDATE` | `C` | `6e50c633339b9e2b2d569d0f0eea53a7290cdc16` |
 | `re-zero:wilhelm-van-astrea@light-novel` | [`re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01) | `CANDIDATE` | `C` | `38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357` |
 | `shiboyugi:yuuki@light-novel` | [`shiboyugi-yuuki-light-novel-sby-p001-monograph-20261115-01`](reconstruction_index/shiboyugi.md#shiboyugi-yuuki-light-novel-sby-p001-monograph-20261115-01) | `CANDIDATE` | `C` | `57a2a2026b88f3c9d09fbe0b4f90b62c4d768690` |
