@@ -4,7 +4,7 @@ series: you-and-i-are-polar-opposites
 artifact_id: PO_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: PO-G1
-version: "1.1"
+version: "1.3"
 status: canonical
 authority_scope: "INITIAL main-manga architecture with separate shared-paratext controls"
 source_boundary: "Japanese manga volumes 01-08 plus one unadmitted shared artbook; metadata only, no narrative admission or inspection"
@@ -72,15 +72,25 @@ Future readings, checkpoints, studies, reconstruction and audits appear only wit
 | Adaptation/other-title continuity | Excluded | No pooled character evidence |
 | Incidental local detail | Reading only | No unjustified tracker |
 
+### Independent reading of conduct and audience
+
+For each future authorized reading of a collected manga volume or separately admitted narrative component, the principal verifies the locked witness and the Japanese page-inspection route for each assignment, reads the full unit, and owns its single source-facing interpretation. Ask the separate specialist to follow one person's words, gestures and choices across a change of audience. Use the Japanese balloons and page arrangement to distinguish private appraisal, public speech and another person's impression. Return the located ordinary interaction or counterexample that most qualifies the proposed disposition.
+
+A distinct reviewer reopens diagnostic pages, checks both directions of a relationship and tests whether the principal has turned a group’s impression into an individual’s state. Track the actual witness for the claim. The shared artbook and the other title stay outside the main-manga reading. The specialist forms an account in a separate context before seeing the principal’s draft. Where practicable the reviewer inspects the evidence before seeing either account. Record prior exposure, freeze predictions before revealing the outcome and identify any findings that lose independent or prospective credit after exposure.
+
+In the volume manifest, record a separate entry for the principal, each specialist and the critical reviewer. For each person, name their assignment, actual source access and temporal horizon, the witness and page/image and panel ranges they inspected, and any material they skipped or could not inspect, with the reason. Record empty coverage explicitly. Link their located observations, alternatives and challenges to the relevant person/relationship record, ordinary-life or register sample, and any claim revision. The principal records the reason to adopt, qualify, reject or leave each material finding open, preserves diagnostic evidence in the reading, and reconciles the shared records once. Check coverage, findings and cumulative state before closing the transaction. Interpretive roles start at `SUBSTANTIVE_ANALYSIS` and escalate individually for difficult or propagation-sensitive judgments. The standing team has distinct specialist and reviewer contexts. Record a capability blocker at the entrypoint and hold acceptance and frontier advance if the required access or independence is unavailable. [Source-reading policy](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading)
+
 ## 5. Studies and preservation of analytical depth
 
-An independent monograph is earned when an individual's distinct developmental question requires sustained evidence across situations/relationships. A directed relationship study needs independently supported orientations on each side, meaningful change and causal consequences. Group patterns must retain named actors, their differing knowledge and missing edges rather than replace them with types.
+Assess individual portraits at the qualification gate below. A directed relationship study needs independently supported orientations on each side, meaningful change and causal consequences. Group patterns must retain named actors, their differing knowledge and missing edges rather than replace them with types.
 
 Mandatory mature responsibilities are character/causality, directed relationships, ordinary/contextual behavior, Japanese expression and page form. A bounded integrated study may cover several in substantive sections. The role-gap review must identify those sections and explain why independent specialists are unnecessary. A social-context or thematic specialist becomes required only when actual recurring evidence cannot be responsibly handled elsewhere.
 
 Counterexamples to simple opposition deserve preservation, as do context-dependent similarities. This is a methodological safeguard, not a claim that the source contains any specific inversion. An integrated synthesis must explain the evidence rather than promote a catchy symmetry.
 
 No universal word ceiling governs mature prose. Check causal mechanisms, inferential warrants, significant support/counterevidence, rival readings, named subjects, temporal state and boundaries. Ledger rows and abstracts are retrieval aids, not stand-ins for full arguments. During transfer compare complete versions for lost substance.
+
+At character and specialist readiness, record each assessed person in the person/relationship ledger, citing the ordinary-life and register samples where diagnostic. Assess differentiated behavior across contexts or within a concentrated sequence, including supporting characters and counterexamples. Record identity, source boundary, outcome, rationale, gaps, next review trigger and the portrait path once it exists. A qualified subject earns a standalone `studies/PO_<subject>_MONOGRAPH.md`. Carry outstanding portraits through synthesis and release reviews. Reassess on material evidence changes. Check the portrait alone for a usable account of the person, then test fidelity separately against diagnostic source evidence. [Individual monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)
 
 ## 6. Contradictions, dependencies and gates
 
@@ -135,6 +145,8 @@ Current maps/method/architecture and current indexes permit targeted edits with 
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL main-manga/contextual-expression architecture and single-home shared-paratext boundary; no findings |
 | 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the local method; individual/directed-relationship responsibilities, single-home shared-paratext boundary and CLOSED lock retained |
+| 1.2 | 2026-11-17 | Assigned independent source reading and reconciliation, and the qualification and acceptance route for individual portraits. |
+| 1.3 | 2026-11-18 | Specified each participant’s actual page and panel coverage in the volume manifest and the matching assessment row in the person/relationship ledger. |
 
 ## 9. Ownership and transfer
 

@@ -17,6 +17,8 @@ do_not_use_as_current_authority: false
 
 # Project SEKAI analytical corpus
 
+Future authorized substantive readings use the [phase or event team](00_FRAMEWORKS_AND_METHODS/PJSK_SYNTHESIS_ARCHITECTURE.md#independent-reading-of-a-phase-or-event) and preserve reconciled evidence in the [phase-reading handoff](00_FRAMEWORKS_AND_METHODS/PJSK_ANALYTICAL_METHOD.md#phase-reading-template).
+
 <!-- UNIT_BACKFILL_0029_0090_START -->
 ## Current analytical boundary
 
