@@ -564,11 +564,59 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 
 - Registry file: [`characters/reconstruction_capabilities/re-zero/ram@light-novel.jsonl`](../reconstruction_capabilities/re-zero/ram@light-novel.jsonl)
 
+<a id="re-zero-ram-ln-v01-v25-model-20261118-01"></a>
+
+#### Assessment `re-zero-ram-ln-v01-v25-model-20261118-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `re-zero:ram`
+- Scope: continuity `re-zero-main-light-novels`
+- Source boundary: Only re-zero:ram@light-novel\#v01-v25-character-model, the canonical generation V1.0 derived-use model REZERO\_RAM\_V01\_V25\_CHARACTER\_MODEL.md at basis\_commit, read in full as reviewed repository analysis of the admitted original Japanese numbered main light novels V01-V25, with its volume, part, paragraph-range and claim-ID locators as the model states them. The row's other reviewed items \(the estate-story checkpoint, the master longitudinal ledger and the V01-V15 model\) were not used. The separate V01-V25 fidelity review, the V25 claim register, the five owner ledgers, the source lock and the Japanese EPUBs are not curated on this subject and were not used. The model header's MONOGRAPH\_READY readiness, local PASS\_WITH\_BOUND fidelity state and PENDING\_THIS\_OPERATION\_FULL\_GATE value are inputs, not conclusions; the project router, read for gate state only, records this model's full publication and integration gate as closed through PR \#625. The evaluator performed no primary-source inspection.
+- Temporal boundary: Japanese main light novels V01-V25, from the represented village childhood \(reader evidence, masked in Ram's own V25 recollection\) through the E046 tower separation, where Subaru hears Ram's last warning across the shadow \(V25 part0018 B0374-0378\). Claims are selected by the model's fourteen development phases and branch-specific event states \(E014, E017, E018, E023, E024, E027, E028, E029, E046\), never by whole-volume labels. Ram's location, survival and every later conversation after that separation are unshown and outside this assessment; IF routes, the web novel, adaptations, side stories and V26 or later are excluded.
+- Basis commit: `bd3cf48ffe9720fd54551166a5321439c937e62b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `82b29ed8e7d6647a9fdbc2937136b6e06154c93340e310f5a409fe592ce6117f`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Output is illustrative and labeled noncanonical, never presented as a quotation.
+  - `DIALOGUE` condition: The phase, event state, knowledge and recipient are selected from the model's section 2 axes before wording is chosen.
+  - `DIALOGUE` condition: The located Japanese formulas are used only in their located functions; レムが泣くわよ voices Ram's idea of Rem, and 姉様 never establishes identity.
+  - `DIALOGUE` condition: No recovered sister memory and no words after the E046 separation.
+  - `CROSS_SCENARIO` condition: A bounded novel situation built from the model's rule conditions: allocation of cost, a threatened companion acting alone, an unverified changed ally, a captive who might restore a loss, or household and expedition work.
+  - `CROSS_SCENARIO` condition: The interlocutor is a sampled relationship \(Subaru in a named state, the sleeping Rem, Emilia, Roswaal, Garfiel, Otto, Julius or Patrasche\); a comparable new ally is a separate, lower-confidence condition built from R03, R11 and R12.
+  - `CROSS_SCENARIO` condition: Abstain on an awake Rem who can consent or refuse, on reconciliation with Roswaal beyond the shown reception, and on Ram after E046.
+  - `CROSS_SCENARIO` condition: Power and stamina follow R14's reported stages and costs; no ranking is derived.
+  - `CROSS_SCENARIO` bounds: chronology One named section 2 phase or event state between the V02 estate and the E046 separation, with Ram's knowledge at that point; the represented childhood is reader evidence and is not Ram's remembered episode.; interlocutor Subaru in a named state, the sleeping Rem, Emilia before or after the name loss, Roswaal, Garfiel, Otto, Julius or Patrasche; a comparable unfamiliar ally only as a separate lower-confidence case.; settings The Roswaal estate, Arlam village, the Sanctuary, the desert crossing or the Pleiades Watchtower, or a comparable household or expedition setting.; No setting after the E046 separation and no IF-route, web-novel or adaptation material.; Roswaal's daily adjustment and the horn scar remain as physical conditions.
+  - `MUNDANE_SOCIAL` condition: Estate work, teaching, guest visits, shared meals or bedside care with a sampled recipient.
+  - `MUNDANE_SOCIAL` condition: No favorite food, tea, hobby or timetable is invented; steamed potatoes are her named specialty with an unknown personal significance, not a defect.
+  - `MUNDANE_SOCIAL` condition: Teasing stays sparse; HUMOR\_PLAY is E.
+  - `ETHICAL_DELIBERATION` condition: Dilemmas about who pays for another's wish, coercion to protect a companion, questioning a captive, or keeping another camp's confidence.
+  - `ETHICAL_DELIBERATION` condition: When Ram imposes a cost on someone who cannot consent, the model has her own the damage afterward; whether she would honor an awake person's refusal is not predicted.
+  - `ETHICAL_DELIBERATION` condition: Proposals, opposition and performed force are kept as separate facts.
+  - `ROMANCE_RELATIONSHIP` condition: Only Ram's declared love for Roswaal as shown: disobedience to free him from the book, continued material dependence, an emotionally significant absence, and her admission that she may overestimate him.
+  - `ROMANCE_RELATIONSHIP` condition: No reciprocal confession, consummation or future romance; Roswaal's reception has its own evidence and is not supplied.
+  - `ROMANCE_RELATIONSHIP` condition: Garfiel's proposal stays rejected; no other romance is modeled.
+  - `PROFESSIONAL_CONTEXT` condition: Household service, training a new worker, evacuation under the lord's authority \(R04\), or expedition and combat work.
+  - `PROFESSIONAL_CONTEXT` condition: She cannot promise unlimited payment or act as a political office.
+  - `PROFESSIONAL_CONTEXT` condition: Combat output follows R14's stated releases and costs and her history of overestimating her stamina.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` B; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `awake-rem-consent-unpredicted` (evidence-backed limitation): The model states that the evidence cannot predict whether Ram would always override, or always honor, an awake Rem's conscious refusal under a new threat \(P04, section 5\); V25 has not given that conversation.
+  - `excluded-sources` (evidence-backed limitation): IF routes, the web novel, anime performance, adaptations, side stories and V26 or later supply no evidence for this model, and exact food favorites, unreported private dialogue, a diagnosis, Rem's forgiveness and future romance remain open \(section 5 closing\).
+  - `post-e046-unshown` (evidence-backed limitation): Ram's later location, survival through the separation's aftermath and any reunion are unshown; the default stops at her last warning across the shadow, and Rem's waking on the plain gives Ram no receipt \(section 2 default, P05, P07\).
+  - `single-derived-synthesis` (evidence gap): The model is one synthesis derived from the project's own frozen readings and ledgers; its probes are documentary applications marked NONCANONICAL\_PROBE, not held-out tests.
+  - `sister-memories-absent` (evidence-backed limitation): After the name theft Ram can say Rem's name and feel a faint link but lacks the older shared episodes; the V16 narration says they have not returned, and the V24 report repeats it. Model her as lacking those scenes in every state after the theft.
+  - `uncurated-review-and-ledgers` (evidence gap): The separate V01-V25 fidelity review, the V25 claim register, the five owner ledgers, the source lock and the primary Japanese sources are not curated on this subject, and the row's other items were not used, so no locator was rechecked and no independent probe result is in this evidence set. Missing support is not evidence of absence.
+  - `v16-v20-borrowed-evidence` (evidence-backed limitation): For V16-V20 the model instructs that no independent Ram response to city events be modeled solely on Garfiel's, Otto's or Subaru's evidence; Ram-own states there are few.
+- Evidence at basis commit:
+  - [`re-zero:ram@light-novel#v01-v25-character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/bd3cf48ffe9720fd54551166a5321439c937e62b/series/re-zero/05%20Character%20Analysis/REZERO_RAM_V01_V25_CHARACTER_MODEL.md)
+- Supersedes: `re-zero-ram-ln-v01-v15-model-20261029-01`
+
 <a id="re-zero-ram-ln-v01-v15-model-20261029-01"></a>
 
 #### Assessment `re-zero-ram-ln-v01-v15-model-20261029-01`
 
-- Recorded status: `STALE` — historical record; not current readiness
+- Recorded status: `SUPERSEDED` — historical record; replaced by a successor assessment
 - Entity: `re-zero:ram`
 - Scope: continuity `re-zero-main-light-novels`
 - Source boundary: Two curated reviewed items on re-zero:ram@light-novel at basis\_commit, both read in full: \#character-model, the canonical generation V1.0 Ram V01-V15 source-bounded model of the already-consumed original-Japanese main light novels, which declares thirty-nine bounded reread windows \(128,450 characters\) rather than fifteen whole rereads, keeps represented childhood separately attributed and preserves an open seven-year/nine-year chronology tension; and \#estate-story-checkpoint, the frozen V02-V03 estate-story synthesis, whose section 5 treats Ram's and Rem's history, divergence and differentiated loyalty. The curated \#master-longitudinal-ledger was not read and is not cited. The project's current-state entrypoint was read for method, gate and horizon only. The frozen volume readings, the five specialist ledgers, the source lock, the reconstruction protocol, the separate Ram fidelity review and the Japanese EPUBs are not curated evidence here and nothing is borrowed from them; V16 and later, IF, web-novel, supplement and adaptation material is excluded.
@@ -617,6 +665,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 - Evidence at basis commit:
   - [`re-zero:ram@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/057a9b65f94da293f9eda5a5cefd11568839a094/series/re-zero/05%20Character%20Analysis/REZERO_RAM_V01_V15_CHARACTER_MODEL.md)
   - [`re-zero:ram@light-novel#estate-story-checkpoint`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/057a9b65f94da293f9eda5a5cefd11568839a094/series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
+- Superseded by: `re-zero-ram-ln-v01-v25-model-20261118-01`
 - Stale reason: reconstruction\_status.py currentness at main 086219b8dbe1864193b68e567191e36bad7b2afb reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED. Discovery PR \#626 \(commit 7169f618\) added reviewed evidence re-zero:ram@light-novel\#v01-v25-character-model \(05 Character Analysis/REZERO\_RAM\_V01\_V25\_CHARACTER\_MODEL.md, canonical generation V1.0\) and its V01-V25 coverage entry to the row after PR \#625 merged that successor model. The cited \#character-model and \#estate-story-checkpoint items are unchanged, but this assessment no longer covers the subject's reviewed evidence set or coverage. A reassessment at a newer basis is required before any assessment of this subject applies.
 
 ### Subject `re-zero:reala-thompson@light-novel`
@@ -768,7 +817,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 
 #### Assessment `re-zero-shaula-ln-v21-v24-models-20261107-01`
 
-- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Recorded status: `STALE` — historical record; not current readiness
 - Entity: `re-zero:shaula`
 - Scope: continuity `re-zero-main-light-novels`
 - Source boundary: Only the two reviewed items curated on re-zero:shaula@light-novel at basis\_commit, each read in full as reviewed repository analysis of the admitted Japanese main light novels: \#character-model, the canonical generation V1.0 V21-V23 model \(28 contextual intervals, seven original stills, its own V23 dinner default\), and \#v21-v24-character-model, the canonical generation V1.0 V21-V24 successor \(supersedes nothing; reconciles the earlier bundles and rules R01-R25 with V24 and adds R26-R33 from 15 targeted intervals and four original stills\). The project's character-analysis router and current-state entrypoint were read for method, authority order and gate state only. The frozen V21-V24 deep readings, the V25 sequential reading and claim register, the five specialist ledgers and master ledger, the source lock, the reconstruction protocol, both separate Shaula fidelity reviews and the Japanese EPUBs are not curated evidence on this subject and nothing is borrowed from them; V25 and later, EX, IF, web-novel, supplement, translation and adaptation material is excluded.
@@ -776,7 +825,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 - Basis commit: `83ee41aafa45a46e630ca6bb64c7a170c8b42c44`
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `1863b2a10ad3cf937ee150261927303574a4e99a9aef248dd8f05e1964bf2654`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
-- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Overall tier: historical `C` — specialist-supported interpretation without unconstrained simulation support
 - Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
   - `DIALOGUE` condition: A living human state is selected explicitly among S2-S6b, S8-S11, S12a-S12c and S14a-S14d; S7, SX, SX28, S13 and the default S14e produce description or abstention, never living speech.
   - `DIALOGUE` condition: Output is short, behavior-described first, labeled noncanonical, follows the located register of section 6 of the selected model \(あーし, お師様, ッス-type endings, the らしい hedge on rule claims, the V24 refusal and appeal contrasts\) and keeps お師様 attached to her belief rather than to a proved identity.
@@ -807,6 +856,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
   - [`re-zero:shaula@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/83ee41aafa45a46e630ca6bb64c7a170c8b42c44/series/re-zero/05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md)
   - [`re-zero:shaula@light-novel#v21-v24-character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/83ee41aafa45a46e630ca6bb64c7a170c8b42c44/series/re-zero/05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md)
 - Supersedes: `re-zero-shaula-ln-v21-v23-model-20261107-01`
+- Stale reason: reconstruction\_status.py currentness at main bd3cf48ffe9720fd54551166a5321439c937e62b reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED. Discovery PR \#678 \(commit 9e3c3f6c, merged at bd3cf48f\) added reviewed evidence re-zero:shaula@light-novel\#v21-v25-character-model \(05 Character Analysis/REZERO\_SHAULA\_V21\_V25\_CHARACTER\_MODEL.md, canonical generation V1.0\) and its V21-V25 coverage entry to the row after PR \#677 merged that successor model. The cited \#character-model and \#v21-v24-character-model items are unchanged, but this assessment no longer covers the subject's reviewed evidence set or coverage. A reassessment at a newer basis is required before any assessment of this subject applies.
 
 <a id="re-zero-shaula-ln-v21-v23-model-20261107-01"></a>
 

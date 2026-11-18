@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 166; `STALE` 3; `SUPERSEDED` 33
+- Recorded totals: `CANDIDATE` 167; `STALE` 3; `SUPERSEDED` 34
 
 ## Namespaces
 
@@ -23,7 +23,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | --- | ---: | ---: |
 | [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 12 | 12 |
 | [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
-| [`azur-lane`](reconstruction_index/azur-lane.md) | 2 | 2 |
+| [`azur-lane`](reconstruction_index/azur-lane.md) | 3 | 3 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
 | [`chiramune`](reconstruction_index/chiramune.md) | 3 | 3 |
 | [`classroom-of-the-elite`](reconstruction_index/classroom-of-the-elite.md) | 1 | 1 |
@@ -44,7 +44,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 2 | 2 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
 | [`project-sekai`](reconstruction_index/project-sekai.md) | 3 | 4 |
-| [`re-zero`](reconstruction_index/re-zero.md) | 18 | 19 |
+| [`re-zero`](reconstruction_index/re-zero.md) | 18 | 20 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 6 | 6 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
@@ -76,6 +76,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `attack-on-titan:erwin-smith@manga` | [`attack-on-titan-erwin-smith-manga-v2-shared-ledgers-20261115-01`](reconstruction_index/attack-on-titan.md#attack-on-titan-erwin-smith-manga-v2-shared-ledgers-20261115-01) | `CANDIDATE` | `C` | `e9f6fda08bd880fbfdc248355bae75d167519627` |
 | `azur-lane:baltimore@mobile-game` | [`azur-lane-baltimore-mobile-game-character-monograph-20261115-01`](reconstruction_index/azur-lane.md#azur-lane-baltimore-mobile-game-character-monograph-20261115-01) | `CANDIDATE` | `B` | `2fb9e0d724982f17dadd3071d97fe332920caaf7` |
 | `azur-lane:bremerton@mobile-game` | [`azur-lane-bremerton-mobile-game-character-monograph-20261115-01`](reconstruction_index/azur-lane.md#azur-lane-bremerton-mobile-game-character-monograph-20261115-01) | `CANDIDATE` | `C` | `2fb9e0d724982f17dadd3071d97fe332920caaf7` |
+| `azur-lane:st-louis@mobile-game` | [`azur-lane-st-louis-mobile-game-character-monograph-20261118-01`](reconstruction_index/azur-lane.md#azur-lane-st-louis-mobile-game-character-monograph-20261118-01) | `CANDIDATE` | `C` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `blue-archive:aru@game` | [`blue-archive-aru-game-c001-distributed-20261024-01`](reconstruction_index/blue-archive.md#blue-archive-aru-game-c001-distributed-20261024-01) | `CANDIDATE` | `E` | `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` |
 | `blue-archive:kokuriko@game` | [`blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01`](reconstruction_index/blue-archive.md#blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01) | `CANDIDATE` | `E` | `0f3b661d66455030cb663d9486a11879f0911cf9` |
 | `blue-archive:prenapates@game` | [`blue-archive-prenapates-game-character-monograph-20261106-01`](reconstruction_index/blue-archive.md#blue-archive-prenapates-game-character-monograph-20261106-01) | `CANDIDATE` | `E` | `1ec6a88d6120d2e28a07c5e99a809ab985f67302` |
@@ -196,11 +197,12 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `re-zero:otto-suwen@light-novel` | [`re-zero-otto-suwen-ln-v01-v13-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-otto-suwen-ln-v01-v13-model-20261024-01) | `CANDIDATE` | `C` | `38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357` |
 | `re-zero:petra-leyte@light-novel` | [`re-zero-petra-leyte-ln-v01-v21-model-20261101-01`](reconstruction_index/re-zero.md#re-zero-petra-leyte-ln-v01-v21-model-20261101-01) | `CANDIDATE` | `C` | `194d0d5dbbc09d4cf22ede0af6a2789adf3a8a17` |
 | `re-zero:priscilla-barielle@light-novel` | [`re-zero-priscilla-barielle-ln-v01-v18-model-20261028-01`](reconstruction_index/re-zero.md#re-zero-priscilla-barielle-ln-v01-v18-model-20261028-01) | `CANDIDATE` | `C` | `2c4dee68a5be9dd7a4f14ec83028b9a9c4a6f83e` |
-| `re-zero:ram@light-novel` | [`re-zero-ram-ln-v01-v15-model-20261029-01`](reconstruction_index/re-zero.md#re-zero-ram-ln-v01-v15-model-20261029-01) | `STALE` | `C` | `057a9b65f94da293f9eda5a5cefd11568839a094` |
+| `re-zero:ram@light-novel` | [`re-zero-ram-ln-v01-v25-model-20261118-01`](reconstruction_index/re-zero.md#re-zero-ram-ln-v01-v25-model-20261118-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
+| `re-zero:ram@light-novel` | [`re-zero-ram-ln-v01-v15-model-20261029-01`](reconstruction_index/re-zero.md#re-zero-ram-ln-v01-v15-model-20261029-01) | `SUPERSEDED` | `C` | `057a9b65f94da293f9eda5a5cefd11568839a094` |
 | `re-zero:reala-thompson@light-novel` | [`re-zero-reala-thompson-ln-v01-v21-model-20261102-01`](reconstruction_index/re-zero.md#re-zero-reala-thompson-ln-v01-v21-model-20261102-01) | `CANDIDATE` | `C` | `1e97b80e68c064c65263e1f3322b4544ee499500` |
 | `re-zero:regulus-corneas@light-novel` | [`re-zero-regulus-corneas-ln-v01-v19-model-20261027-01`](reconstruction_index/re-zero.md#re-zero-regulus-corneas-ln-v01-v19-model-20261027-01) | `CANDIDATE` | `C` | `70efdcaf6ace3fd53fd94fb9c082c4abe9808fd1` |
 | `re-zero:reid-astrea@light-novel` | [`re-zero-reid-astrea-ln-v22-v24-manifested-model-20261107-01`](reconstruction_index/re-zero.md#re-zero-reid-astrea-ln-v22-v24-manifested-model-20261107-01) | `CANDIDATE` | `C` | `141711495d1fc86a86c6db882e6e734ad9efc91e` |
-| `re-zero:shaula@light-novel` | [`re-zero-shaula-ln-v21-v24-models-20261107-01`](reconstruction_index/re-zero.md#re-zero-shaula-ln-v21-v24-models-20261107-01) | `CANDIDATE` | `C` | `83ee41aafa45a46e630ca6bb64c7a170c8b42c44` |
+| `re-zero:shaula@light-novel` | [`re-zero-shaula-ln-v21-v24-models-20261107-01`](reconstruction_index/re-zero.md#re-zero-shaula-ln-v21-v24-models-20261107-01) | `STALE` | `C` | `83ee41aafa45a46e630ca6bb64c7a170c8b42c44` |
 | `re-zero:shaula@light-novel` | [`re-zero-shaula-ln-v21-v23-model-20261107-01`](reconstruction_index/re-zero.md#re-zero-shaula-ln-v21-v23-model-20261107-01) | `SUPERSEDED` | `C` | `2ccd93a9781634afa64285d01b7c204cbf589d08` |
 | `re-zero:theresia-van-astrea@light-novel` | [`re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01`](reconstruction_index/re-zero.md#re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01) | `CANDIDATE` | `C` | `6e50c633339b9e2b2d569d0f0eea53a7290cdc16` |
 | `re-zero:wilhelm-van-astrea@light-novel` | [`re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01) | `CANDIDATE` | `C` | `38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357` |
