@@ -5,8 +5,8 @@ artifact_type: volume_reading_template
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.3"
-last_updated: "2026-10-18"
+version: "1.4"
+last_updated: "2026-11-17"
 status: canonical
 scope: "Reusable production contract; never an actual V01 reading"
 source_boundary: "Architecture bootstrap and source reconnaissance only; no narrative source unit analyzed."
@@ -90,6 +90,8 @@ Use this concise review with the method's section 7.1 source-grounded sample; re
 
 Record full admitted coverage; source/locator/wording checks; prose/image/paratext inspection separately; semantic review, including the method’s name-and-reference check with its sampled sections and material findings; ledger reconciliation; readiness changes or abstentions; durable transaction; entrypoint advancement; and unresolved mandatory versus optional evidence.
 
+**Participation and reconciliation.** Identify the principal, independent specialist and reviewer, their separate contexts, assignments, exposure boundaries and actual inspected passages or images. Record any justified combined role. For each material contribution, give its locator or observation ID, finding and rival or counterexample, reviewer challenge, principal’s decision and reason, and destination in section 9 or a justified local route. Preserve unresolved obligations and who must address them. This receipt can reference the source sample and dispositions below.
+
 Record these two dimensions independently:
 
 - **Source coverage completeness:** which admitted narrative material was actually inspected, with coverage gaps and separate prose/image/paratext states.
@@ -105,3 +107,4 @@ Quality comes from the significant causal story, literary mechanisms, specific e
 ## Amendment history
 
 - **1.3 — 2026-10-18:** Prospective mechanism-preserving observations, local/cumulative routing, diagnostic review and separate coverage/retention receipt. No historical reading or acceptance record amended.
+- **1.4 — 2026-11-17.** Added a prospective participation and reconciliation receipt for substantive LN readings.
