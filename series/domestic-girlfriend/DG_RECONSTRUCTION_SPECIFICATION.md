@@ -38,7 +38,7 @@ For each eligible subject and defined state, use separate future homes:
 - `reconstruction/DG_<SUBJECT>_<STATE>_EVIDENCE_LEDGER.md`: scoped retrieval map and exclusions.
 - `reconstruction/DG_<SUBJECT>_<STATE>_MODEL_VNN.md`: operational model and limits.
 - `reconstruction/DG_<SUBJECT>_<STATE>_VALIDATION_VNN.md`: independent test specification, frozen predictions, adjudications and fidelity review.
-- `studies/DG_<SUBJECT>_CHARACTER_MONOGRAPH.md`, only when a distinct literary question earns it: interpretation, not model certification.
+- `studies/DG_<SUBJECT>_CHARACTER_MONOGRAPH.md`, for each subject the architecture's character monograph standard qualifies: interpretation, not model certification.
 
 No such artifacts exist now. Resolve established names and any curated subject ID at creation; do not seed global discovery or capability rows. A model version later assessed by an evaluator stays identifiable and is superseded explicitly rather than silently rewritten.
 
