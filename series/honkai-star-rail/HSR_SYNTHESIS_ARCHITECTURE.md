@@ -3,7 +3,7 @@ title: "Honkai: Star Rail — Governing synthesis architecture"
 artifact_id: HSR_SYNTHESIS_ARCHITECTURE
 artifact_type: project_synthesis_architecture
 series: honkai-star-rail
-version: "1.1"
+version: "1.2"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 scope: "Governing synthesis architecture"
@@ -69,6 +69,16 @@ Production order: verified source lock and gap resolution → explicit source/ru
 
 Analyst retrieval starts with the current entrypoint/source horizons and relevant full readings; a future reader guide starts from accepted synthesis and is written last. A synopsis remains navigation, never the only input to serious synthesis.
 
+### Reading a causal block with independent analysts
+
+For each newly authorized substantive block or reread, the principal inspects the entire admitted block, including all in-scope paths and shared nodes, and owns the single integrated reading. Give a separate specialist the native graph and text at the same build, language and disclosure horizon. Before seeing the principal's interpretation, the specialist traces a consequential choice or information transfer from prerequisite through outcome. Identify which actor or player can know what, which responses are shared across paths, and where an unlock, technical form or change of addressee limits a claim. Where voice or staging matters, assign that evidence only to a participant who can inspect its bound witness. A missing timeline stays a source gap.
+
+A third, independent reviewer reopens decisive nodes and challenges the reading against them, inspecting the evidence before seeing the interpretation where practicable. Test a proposed form or speaker join, an alternative route or translation, and any ordinary interaction or counterexample that materially changes the characterization. Select tests from the evidence in the block. Give each participant a separate context and source access within their assignment. Record actual prior exposure, freeze forecasts before revealing outcomes, and withdraw prospective or independent credit for affected findings if a handoff discloses too much.
+
+Use the sequential reading class for interpretive work and escalate the particular role when a disputed identity, chronology or branching state warrants deeper synthesis. For an unusually bounded unit the specialist may also review in the separate context if the principal records why both jobs can be performed independently and with direct verification. If adequate source access or independent participation is unavailable, record the blocker at the entrypoint and hold acceptance and frontier advance under [the source-reading policy](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading).
+
+In the block reading's existing transaction, identify each participant, role, context separation, exposure boundary and material actually inspected. Preserve material observations with native coordinates and route/state selectors, rival explanations, the reviewer's challenges, and the principal's reason for adopting, qualifying, rejecting or leaving each finding open. Link resulting `HSR-Snnn` states, `HSR-Cnnn` claim revisions and outstanding intake/channel obligations. The principal alone reconciles shared records and checks the accepted reading still carries diagnostic evidence, including minor participants' actions. Close the block after source coverage, review, adjudication and synchronized state are evidenced. Later specialist studies, reconstruction evaluation and repository publication retain their separate gates.
+
 ## 5. Distinct completion gates
 
 | Gate | Acceptance evidence |
@@ -85,6 +95,8 @@ Analyst retrieval starts with the current entrypoint/source horizons and relevan
 | Reconstruction assessment | Separate evidence/model/held-out requirements met within a named state; evaluator alone assigns capability, not literary completion |
 
 No gate implies the next. A pipeline exit, nonzero line count, source update or final unit reached is not analytical completion.
+
+At character/specialist readiness, record each assessed person's identity, source and state boundary, decision, evidence, significant gaps, reassessment trigger and eventual monograph path in the boundary audit. Consider supporting participants and concentrated sequences as well as leads. Carry qualified portraits forward as production obligations through synthesis readiness and release. Reassess when a source or identity revision changes the evidence. For the portrait in the §2 studies home, review what a reader can learn from the document alone, then independently check its account against diagnostic sources, counterexamples and earlier states. Apply the [individual monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard). A completed portrait and its review establish no reconstruction grade.
 
 ## 6. Revision, intake and freezing
 
