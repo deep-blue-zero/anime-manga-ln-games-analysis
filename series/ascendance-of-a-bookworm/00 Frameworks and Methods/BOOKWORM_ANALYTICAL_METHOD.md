@@ -236,6 +236,8 @@ Each numbered deep reading should cover, as evidence warrants:
 - revision status of important prior claims;
 - bounded expectations/open questions for the next unread numbered volume.
 
+After the prospective captures are frozen, place a unit-end-spoiler synopsis near the front of the finished reading. Follow the events through their ending and distinguish Myne's inferences from outcomes and from information supplied by another viewpoint. At closeout, include the independent production/knowledge reading, separate source review and principal's dispositions specified in architecture §4.
+
 ## 17. Promotion thresholds for new artifacts
 
 Create a new canonical artifact only when it owns a recurring retrieval/revision responsibility that the existing files no longer serve reliably.

@@ -11,7 +11,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-10-28
+updated: 2026-11-17
 workspace_state: governed_series_branch
 analysis_completed_through: V37_canonical_plus_web287_active_provisional
 next_volume: none_local_collected; future web intake is independent of tankobon pace
@@ -22,6 +22,8 @@ git_integration_gate: SERIES_BRANCH_PUBLICATION_AUTHORIZED; PROTECTED_MAIN_SEPAR
 
 
 # One Punch Man — Current State and Corpus Map
+
+For the next separately requested substantive volume or official-web tranche, follow the [standing reading team](00%20Frameworks%20and%20Methods/OPM_SYNTHESIS_ARCHITECTURE_V2.md#standing-reading-team) and the [participation receipt](00%20Frameworks%20and%20Methods/OPM_ANALYTICAL_METHOD_V2.md#71-authority-and-source-block). The current usable boundaries remain V37 collected and web287 active provisional.
 
 ## Rolling official-web analysis — 2026-10-28
 
