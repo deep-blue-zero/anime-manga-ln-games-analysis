@@ -43,7 +43,7 @@ Written Japanese speech permits a model of self-reference, address, honorifics, 
 
 ## Completed volume contract
 
-The volume receipt follows the [independent reading and reconciliation assignments](WATAYURI_SYNTHESIS_ARCHITECTURE.md#independent-readings-of-role-and-disclosure). Identify each reader's access and horizon, the located findings and challenges, and the principal's reasons and ledger effects.
+The volume receipt follows the [independent reading and reconciliation assignments](WATAYURI_SYNTHESIS_ARCHITECTURE.md#independent-readings-of-role-and-disclosure). Identify how each reader's execution context was separated from the principal's and the other reader's, each reader's access and horizon, the located findings and challenges, and the principal's reasons and ledger effects.
 
 For a newly authorized VNN, place a clearly labeled **Current-unit story synopsis** immediately after the witness and entering context, ahead of close reading and ledger changes. Tell what happens in this volume, from the opening situation and each principal participant’s stakes to the choices, physical actions and disclosures that change the situation by its end. Distinguish an in-role statement from what a person privately knew or another person actually witnessed. Attribute reported or disputed events and anchor consequential turns to the Shift and page/image in the admitted edition. Finalize the synopsis after the prospective captures freeze. Keep its unit-end disclosures from earlier-horizon readers and keep separately bounded extras in their own scope under [initiation §5.3](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#53-sequential-reading-contract).
 
