@@ -37,6 +37,8 @@ Each record links full causal prose and exact witness support. A broad theme or 
 
 **Ordinary/expression sample:** `sample_id | subject | interlocutor/audience | unit/state/horizon | situation/stakes(ORDINARY/CRISIS/MIXED) | opportunity | behavior/inaction | speech/thought/narration/effect_layer | attribution_confidence | brief_Japanese_form/labeled_gloss_if_needed | register/pragmatic_feature | baseline/exception | claims/reading/locators`. Missing opportunity is GAP. Private thought is not spoken register.
 
+**Qualification:** `subject_key | assessment_boundary | QUALIFIED_PENDING/COMPLETE_AT_BOUNDARY/DEFERRED_EVIDENCE/REASSESS_AFTER_REVISION | source_grounded_rationale | largest_gaps | next_review_trigger | monograph_path_or_NONE | self_containment_review_ref | fidelity_review_ref | prior_record`. A changed outcome appends a new record; the monograph path is added only once a real document exists.
+
 All analytical tables contain zero rows. Colour/pose alone cannot establish inner state; link observed form to a separately argued inference.
 
 ## Updates, corrections and coverage
