@@ -219,6 +219,8 @@ For new Bookworm analytical work, read in this order:
 
 Before opening V04, recover the V03-frozen prospective state from the master ledger and `BOOKWORM_V03_DEEP_READING.md`. Do not use later-volume memory to adjust those predictions after the fact.
 
+For the next separately authorized volume use synthesis architecture §4 and method §16 for the Japanese source assignments, synopsis and receipt. Architecture §7 and the character router carry the Part 1 portrait obligations into future synthesis.
+
 ## Materialized analytical architecture
 
 | Layer | Responsibility | Current state |
