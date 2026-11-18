@@ -32,6 +32,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`legend-of-the-galactic-heroes`](characters/index/legend-of-the-galactic-heroes.md) | 2 |
 | [`maebashi-witches`](characters/index/maebashi-witches.md) | 7 |
 | [`mass-effect`](characters/index/mass-effect.md) | 2 |
+| [`medalist`](characters/index/medalist.md) | 2 |
 | [`monogatari-series`](characters/index/monogatari-series.md) | 5 |
 | [`mushoku-tensei`](characters/index/mushoku-tensei.md) | 13 |
 | [`my-hero-academia`](characters/index/my-hero-academia.md) | 30 |
@@ -272,6 +273,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Iida Tenya](characters/index/my-hero-academia.md#iida-tenya) | My Hero Academia manga | `my-hero-academia:iida-tenya@manga` | — |
 | [Ikumi Mito](characters/index/shokugeki-no-soma.md#ikumi-mito) | Shokugeki no Soma manga | `shokugeki-no-soma:ikumi-mito@manga` | — |
 | [Imagase](characters/index/cornered-mouse.md#imagase) | Japanese manga continuity | `cornered-mouse:imagase@manga` | 今ヶ瀬渉 |
+| [Inori Yuitsuka](characters/index/medalist.md#inori-yuitsuka) | Japanese manga | `medalist:inori-yuitsuka@manga` | 結束いのり; Yuitsuka Inori |
 | [Inuyama Aoi](characters/index/yuru-camp.md#inuyama-aoi) | Japanese manga | `yuru-camp:inuyama-aoi@manga` | 犬山あおい |
 | [Iris](characters/index/konosuba.md#iris) | Original light-novel continuity, accepted Iris cohort 01 | `konosuba:iris@original-light-novel` | アイリス; イリス |
 | [Isaac Walker](characters/index/silent-witch.md#isaac-walker) | Silent Witch Japanese light novels | `silent-witch:isaac-walker@light-novel` | アイザック・ウォーカー; Felix Arc Ridill; Ike; フェリクス・アーク・リディル |
@@ -592,6 +594,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Totsuki Sheena](characters/index/kimishinu.md#totsuki-sheena) | KimiShinu manga through Volume 9 and side stories | `kimishinu:totsuki-sheena@manga-v09-side-stories` | トツキ・シーナ |
 | [Toya](characters/index/project-sekai.md#toya) | Project SEKAI game — Vivid BAD SQUAD | `project-sekai:toya@game` | — |
 | [Tsukasa](characters/index/project-sekai.md#tsukasa) | Project SEKAI game — Wonderlands×Showtime | `project-sekai:tsukasa@game` | — |
+| [Tsukasa Akeuraji](characters/index/medalist.md#tsukasa-akeuraji) | Japanese manga | `medalist:tsukasa-akeuraji@manga` | 明浦路司; Akeuraji Tsukasa |
 | [Tsukasa Eishi](characters/index/shokugeki-no-soma.md#tsukasa-eishi) | Shokugeki no Soma manga | `shokugeki-no-soma:tsukasa-eishi@manga` | — |
 | [Tsunomori Rona](characters/index/tokyo-7th-sisters.md#tsunomori-rona) | Tokyo 7th Sisters game | `tokyo-7th-sisters:tsunomori-rona@game` | — |
 | [Tuan Kirie](characters/index/harmony.md#tuan-kirie) | Original novel, bounded comparative ethics | `harmony:tuan-kirie@original-novel` | — |
