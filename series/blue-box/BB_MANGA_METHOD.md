@@ -2,7 +2,7 @@
 title: "Blue Box — Manga Analytical Method"
 artifact_id: BB_MANGA_METHOD
 artifact_type: analytical_method
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: BB-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–27 and separate prose Interlude/Prologue; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -81,7 +81,7 @@ Keep full causal, relational, linguistic and formal reasoning at the length need
 
 Before semantic acceptance, promotion or integration, sample introduction, substantial middle, conclusion/exit and major relationships/ambiguous actors. Verify names, purposeful roles, pronouns, concealment, speaker/thinker/recipient and knowledge boundary. Classify JUSTIFIED_ROLE_REFERENCE, SOURCE_REQUIRED_ANONYMITY, KNOWLEDGE_BOUNDARY_REQUIRED, UNNECESSARY_GENERICIZATION, AMBIGUOUS_REFERENT or INCORRECT_IDENTITY_OR_ATTRIBUTION. Record sampled scope/material findings and repair supported defects.
 
-Accept complete prose and synchronized registers atomically. Scoped no-change findings state actual inspection. Unreadable required pages, broken central locators or missing updates remain holds.
+Use the [B2 source-reading team](BB_SYNTHESIS_ARCHITECTURE.md#source-reading-team-for-b2) and close its `BB-TX` receipt alongside the page coverage and exit freeze. Accept complete prose and synchronized registers atomically. Scoped no-change findings state actual inspection. Unreadable required pages, broken central locators or missing updates remain holds.
 
 ### Current-unit story synopsis
 
