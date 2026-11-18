@@ -4,7 +4,7 @@ series: domestic-girlfriend
 artifact_id: DG_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: DG-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL source-bounded project architecture; no run authorization or literary conclusion"
 source_boundary: "Metadata reconnaissance of Japanese manga volumes 01-03 only; no narrative units admitted or inspected"
@@ -66,6 +66,16 @@ A complete authorized volume transaction includes the full method-compliant read
 
 The reading owns movement-level explanation: agent, perceived stakes, decision/constraint, consequence, inferential warrant and live counterreading. Cumulative rows point to stable reading sections and precise locators. They retain enough context for retrieval but never become the sole support for claims whose reasoning they omit.
 
+### Independent source reading
+
+For each future substantive reading of a collected volume and its movement-level disclosures, confirm the [topology §4.1 configuration](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) before source exposure. The principal inspects the entire admitted unit, writes the canonical reading and alone coordinates its cumulative updates. Give a specialist and a distinct critical reviewer separate contexts with direct STILL_IMAGE access to the assigned Japanese pages and the accepted entering state. Both form observations from the assigned evidence without inheriting the principal's working interpretation. Confine each assignment to the authorized part of the V01–03 acquisition. Withhold later outcomes and familiarity with adaptations. Freeze prospective judgments before exposure to their resolution and disclose contamination that limits independent or prospective credit.
+
+**Independent specialist.** Read the ordinary and pressured versions of a directed interaction in the Japanese pages. Identify the speaker, addressee, observed response and apparent options for each person. Preserve a rival account of a change in address, distance or initiative.
+
+**Critical reviewer.** Reopen the consequential pages and counterexamples. Check whether a response, stated wish, private thought or later consequence was used to infer reciprocation or earlier consent. Test the account against both directions of the relationship. Inspect decisive evidence before reading the candidate where practical. Return locator-backed corrections, competing interpretations and omissions to the principal.
+
+The principal reconciles these findings in the full reading and the volume reading's ledger-update manifest, using the existing claim history for revisions. The unit receipt belongs with the reading. Record each person's assignment, independent context, actual exposure, inspected material and precise locators. Preserve the material observations, rival explanations, counterexamples, challenges and remaining debts, with the principal's grounds for adopting, qualifying, rejecting or leaving each finding open. Link the full argument and any affected claim revisions. Record observed settings only when known. Use SUBSTANTIVE_ANALYSIS for bounded source interpretation, with DEEP_SYNTHESIS for difficult attribution or conflicting state. Section 4.1 applies to source reading. Later synthesis, portrait review and reconstruction evaluation retain their own responsibilities. An unusually bounded unit may combine specialist and reviewer in one other independent, source-capable context only when it can both contribute fresh observations and critically test the candidate. Justify each use in the unit receipt. If required inspection or independent participation is unavailable, record the capability gap in current state and hold acceptance and frontier advancement.
+
 ## Sixteen-duty contract map
 
 | Initiation duty | Concrete implementation | Verification before promotion |
@@ -106,7 +116,7 @@ The reading owns movement-level explanation: agent, perceived stakes, decision/c
 
 ## Earned studies and substantive acceptance
 
-A recurring person earns a monograph when evidence across more than one admitted unit establishes a distinct developmental question and supports contrast across situations or relationships. A consequential one-unit case may instead justify a bounded study with its narrower scope declared. No chapter-count or popularity threshold substitutes for the question.
+Apply the [character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) to every subject with differentiated evidence, including supporting characters and concentrated sequences. Record identity, frontier, outcome, source grounds, gaps and reassessment trigger in the existing role-gap audit at specialist readiness. Reassess after material new evidence. Each qualifying subject requires a self-contained portrait at the reconstruction specification's `studies/DG_<SUBJECT>_CHARACTER_MONOGRAPH.md` home that explains the person's own decisions, Japanese speech and directed relationships at the partial acquisition boundary. Add its actual path and record separate self-containment and fidelity reviews. Carry outstanding portraits through synthesis readiness and release.
 
 A character monograph must explain transitions rather than list traits. It must distinguish self-report from conduct, developmental change from changed knowledge, relationship-specific behavior from generalized disposition, ordinary from crisis evidence, and literary function from behavioral predictability. It uses claim IDs and source locators, not “see volume 2” alone. A directed relationship study must explain both persons' evidence separately, the asymmetry between their perspectives and the causal consequences of changes; an ensemble account integrates those edges without flattening them.
 
@@ -181,3 +191,4 @@ Retrieval is entrypoint → method/architecture → scoped ledger or study → c
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL partial-acquisition architecture; no sequential findings, source admissions or owner run approval |
 | 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for future eligible volume readings; all existing analytical duties and CLOSED authorization boundary preserved |
+| 1.2 | 2026-11-17 | Assigned independent source-reading, transaction and qualification responsibilities at the existing unit and readiness gates; aligned the reconstruction specification's monograph home with this qualification test, superseding its earlier distinct-question condition |
