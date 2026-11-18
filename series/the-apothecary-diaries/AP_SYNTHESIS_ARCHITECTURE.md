@@ -120,7 +120,7 @@ No summary, schema, table or reconstruction policy may replace the full account 
 
 ## 8. Monographs and specialists
 
-At G5, assess every person for whom the readings or cumulative state support a differentiated portrait, including evidence concentrated within one volume. In the character ledger, record identity, boundary, qualification outcome and rationale, gaps, reassessment trigger and the real path when available. A qualified portrait is due in the character stage. Check it independently for self-containment and fidelity under [initiation section 5.5.1](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard). Reassess material new evidence and carry pending portraits to G8 and release. Frequency of appearance alone is insufficient. The monograph integrates narrative presentation, behavior, motive alternatives, development, language and literary function; it does not merely print the character ledger.
+At G5, assess every person for whom the readings or cumulative state support a differentiated portrait, including evidence concentrated within one volume. In the character ledger's monograph qualification register, record identity, boundary, qualification outcome and rationale, gaps, reassessment trigger and the real path when available. A qualified portrait is due in the character stage. Check it independently for self-containment and fidelity under [initiation section 5.5.1](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard). Reassess material new evidence and carry pending portraits to G8 and release. Frequency of appearance alone is insufficient. The monograph integrates narrative presentation, behavior, motive alternatives, development, language and literary function; it does not merely print the character ledger.
 
 A directed relationship study is warranted when reciprocal/asymmetric development, institutional constraints or persistent interpretive conflict cannot be adequately owned by either subject monograph. Its scope must identify both directions and surrounding relations, not assume symmetrical affection or trust.
 
@@ -204,4 +204,4 @@ A future architecture review should test these responsibilities against actual e
 ## Prospective amendment record
 
 - **2026-11-13 — v1.1:** Linked the initiation-policy §5.3 current-unit story synopsis to the local method for future eligible Japanese prose readings. Existing analytical responsibilities, witness distinctions, INITIAL lifecycle and CLOSED authorization boundary remain unchanged.
-- **2026-11-17 — v1.2.** Added the standing volume-reading configuration, transaction receipt and person-level qualification route.
+- **2026-11-17 — v1.2.** Added the standing volume-reading configuration, transaction receipt and person-level qualification route, with its record schema in the character ledger.
