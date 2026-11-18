@@ -170,6 +170,8 @@ Record current source-bounded conclusions, surviving alternatives, open source q
 |---|---|---|---|
 | Declared prose coverage | | | |
 | Consequential locators/wording checked | | | |
+| Independent reading and distinct source review (roles, actual coverage/access, prior exposure and findings) | | | |
+| Principal's dispositions, unresolved disagreement and affected ledger routes | | | |
 | Illustrations/paratext scope stated | | | |
 | Claims/revisions reviewed | | | |
 | Character/state/readiness reviewed | | | |

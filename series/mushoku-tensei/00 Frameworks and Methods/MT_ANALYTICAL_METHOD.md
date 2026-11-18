@@ -150,6 +150,8 @@ Keep sexual-abuse analysis non-graphic and proportionate. Brief, accurate descri
 
 A completed transaction requires the deep reading, complete declared coverage, source locators, entering/exiting freezes, affected ledger updates, claim revisions, relevant model/readiness updates, and an accurate current-state record. For each required ledger, record either an update or an explained no-material-update finding. Do not pad a ledger to satisfy a row count.
 
+Use the architecture §7 source assignments and the template's closure table. Return the independently grounded reading, review challenges, relevant Japanese locators, actual access and the principal's decision on each material contribution before the next horizon advances.
+
 Separate drafted, semantically reviewed, transaction-closed, committed, branch-published, and integrated-to-main states. A successful write is not proof of semantic completeness. A closed volume may remain branch-local pending the repository's publication lifecycle; report that state exactly.
 
 Never advance the high-water mark after a partial reading. Never cross the owner's authorized terminal volume. Bootstrap authorization is not authorization to read V01, and an open readiness gate does not create run authorization.

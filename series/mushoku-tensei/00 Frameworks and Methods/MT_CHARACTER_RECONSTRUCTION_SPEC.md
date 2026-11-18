@@ -48,7 +48,7 @@ Every model states source witnesses, actual admitted coverage, latest incorporat
 | `EVIDENCE_INDEX.md` | Curated routes from claims/rules/context domains to canonical volume observations and ledger events. |
 | `STATE_HISTORY.md` | Optional focused navigation through complex observed state history; links to the shared state ledger rather than owning a competing chronology. |
 
-The monograph must explain the model's central mechanisms and important limits, not merely provide a link. The detailed rules remain owned by the reconstruction model. A monograph may challenge them; accepted changes propagate back to the model and claim ledger.
+For an individual portrait that draws on an operational model, explain its central mechanisms and important limits. Its detailed rules remain in the reconstruction model. A portrait may challenge those rules, with accepted revisions routed to the model and claim ledger. For a qualified person without an operational model, ground the explanation in the admitted Japanese LN and record the limits of behavioral extrapolation.
 
 Do not create separate CLOUD, LOCAL, and FINAL models. Preserve artifact identities across sessions. A generated scenario is a test/output, never a new source about the character.
 
@@ -199,6 +199,6 @@ A user-requested adult counterfactual is a declared altered premise, not evidenc
 
 Update rules through targeted edits, preserving IDs, rejected alternatives, tests, and state history. A failure can expose missing knowledge, wrong relationship conditioning, an overly broad rule, or a genuine source contradiction. Do not rescue every rule by adding exceptions until nothing could falsify it.
 
-A mature monograph is accepted only if it makes a sustained explanatory argument, includes material state transitions and counterreadings, gives source-bearing ordinary behavior, explains the operational model, and states evidence limitations. A model is accepted separately for the domains its rules and tests support.
+A mature monograph requires a sustained explanatory argument, source-bearing ordinary conduct, material transitions or continuity, counterreadings and explicit evidence limits. An operational model, when one exists, is assessed separately within the domains its rules and tests support. The absence of a model leaves literary acceptance available under the architecture's individual qualification and portrait review.
 
 The character curation agent decides discovery enrollment under the live repository policy. Local readiness does not create permission to edit the global registry or claim a new global capability.
