@@ -272,7 +272,7 @@ Each `RAG_VNNN_DEEP_READING.md` contains:
 
 - complete authority metadata, exact source witness/coverage, entering and exiting boundaries;
 - a clearly labeled **current-volume story synopsis** directly after the witness and brief entering context, before the thesis, scene map and ledgers. Describe the opening situation, participants and stakes, consequential choices, physical actions, shifts in what can be known, and the state at volume end. Distinguish an observed exchange from Kazuya’s inference or another person’s report. Cite retrievable page or evidence IDs where an event turns on a disputed detail. Finalize this unit-end account after freezing applicable forecasts, withhold it from earlier-horizon readers, and exclude later volumes. [Sequential-reading contract](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#53-sequential-reading-contract);
-- [independent reading receipt](RAG_SERIES_ARCHITECTURE.md#independent-readings-of-information-and-initiative) naming assignments, exposure and inspected pages, located divergences, reviewer challenges, dispositions with reasons, and affected ledger/model destinations;
+- [independent reading receipt](RAG_SERIES_ARCHITECTURE.md#independent-readings-of-information-and-initiative) naming each participant and how its execution context was separated from the principal's, assignments, exposure and inspected pages, located divergences, reviewer challenges, dispositions with reasons, and affected ledger/model destinations;
 - a substantive volume thesis, proportional to the material, not a verdict imposed from reputation;
 - an ordered chapter/scene map accounting for the whole narrative volume;
 - close readings of diagnostic scenes with stable evidence IDs;
@@ -282,6 +282,8 @@ Each `RAG_VNNN_DEEP_READING.md` contains:
 - a character-model change log or explicit reviewed/no-material-change results;
 - prediction adjudication, open questions, and consequential claim revisions;
 - exact ledger/model destinations updated, coverage debts, exiting freeze, and next eligible operation.
+
+The story synopsis and independent reading receipt apply to readings newly authorized after V040. The closed V001–V040 readings keep the template in force when each closed and receive neither by retrofit ([topology §4.1.8](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#418-applicability-and-historical-preservation)).
 
 These are semantic responsibilities, not a demand for an identical wall of headings. The prose must explain mechanisms and integrate evidence. No fixed word ceiling or floor substitutes for that obligation.
 
