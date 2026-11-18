@@ -3,7 +3,7 @@ title: "Shiboyugi — Synthesis Architecture"
 artifact_id: SBY_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: shiboyugi
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ authority_generation: SBY-INITIAL
 authority_scope: "Evolving project architecture and retrieval for the completed V01–V10 project"
 source_boundary: "Admitted Japanese V01–V10 main narratives and original visual layers"
 created: 2026-11-13
-last_updated: 2026-11-15
+last_updated: 2026-11-18
 architecture_lifecycle: EVOLVING
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 do_not_use_as_literary_evidence: true
@@ -47,6 +47,12 @@ A near-front **Current-unit story synopsis — unit-end spoilers** answers what 
 The synopsis is distinct from the causal account, the claim register and the cumulative ledgers. The causal account explains changes and alternative explanations; the synopsis enables independent human comprehension. Neither licenses a future or earlier-horizon reader to cross their assigned knowledge boundary.
 
 The closure transaction consists of the full reading plus source coverage, state/evidence deltas or reasoned no-change decisions, claim and forecast changes, exit freeze and entrypoint/high-water synchronization. No next source is admitted merely because the essay is drafted. The method owns the detailed unit acceptance procedure.
+
+### Standing source roles for a future admitted volume
+
+The principal reads the complete admitted Japanese LN in order, protects entering forecasts, writes the causal account and owns both ledger dispositions and the exit freeze. An independent reader receives the admitted witness and allowed entry horizon before seeing the principal's account. Test where a game rule is stated, who can know it, how a particular ruling or physical constraint is actually enforced, and what the affected player does. Use contrary cases and ordinary-life conduct when they bear on an attribution of strategy or character. A distinct reviewer checks the decisive Japanese passages or relevant admitted plate directly and challenges an inference using the difference between retrospective disclosure and what a player could know then. Identify prior solution/forecast exposure and bound each claim accordingly. Japanese TEXT and any necessary STILL_IMAGE must be available to the person making the claim. Keep electronic bonuses and other separate witnesses within their own authority.
+
+Use substantive literary judgment for specialists and review. The unit reading and existing checkpoint record assignments, coverage and channels actually inspected, exposure, locators, independent findings, counterevidence and disagreements. The principal records which changes were accepted, qualified, rejected or left open and routes them to the state/evidence or claim/forecast ledger. For an unusually bounded authorized unit, the independent specialist may also review in a context separate from the principal. Record why independent source access and critical scrutiny remain sufficient. At review, compare the integrated account with the evidence returns and restore any consequential detail lost in compression. Hold dependent closure where source access or independence cannot support it. Earlier checkpoints preserve their actual historical division of work.
 
 ## 4. Day-one cumulative homes
 
@@ -169,6 +175,8 @@ The [integrated synthesis](SHIBOYUGI_V01_V10_INTEGRATED_SYNTHESIS.md) can compar
 | [Mikkai ensemble](studies/SHIBOYUGI_MIKKAI_ENSEMBLE.md) | Explain group labor, household access, technical promises and authority to recruit. Test what Yūki hears at the earlier call, what V09 tells the reader, and what Airi does under the actual contract and ship conditions. |
 
 Ethical interpretation, violence and the representation of attention, linguistic register and visual placement continue across the integrated work, character portraits and annotated readings. A single visual language or a second cast-wide relationship authority would exceed what the admitted material demonstrates. The same applies to permanent rule codification, financial accounting, psychiatric diagnoses and adaptation comparison. [Reconstruction readiness](SHIBOYUGI_RECONSTRUCTION_READINESS.md) routes the separate, state-specific downstream responsibility. No release changes the admitted source boundary.
+
+**Source-role amendment, v1.3 (2026-11-17).** Global topology §4.1 (v1.2) requires every newly undertaken substantive source reading to have a principal, independent source-aware specialist contribution and independent critical review, and §4.1.8 requires an established project to record its standing configuration before its next reading. Section 3 now records that configuration for a future admitted volume; method §12 and the entrypoint route its closure record. Existing artifact IDs, ledgers, lifecycle and the admitted V01–V10 source boundary are unchanged. No claim changes and no backfill follow: the V01–V10 readings, checkpoints and supplemental frontiers keep their recorded historical division of work and are not reopened to add participation records.
 
 ## 13. Completion gates
 

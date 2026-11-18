@@ -5,14 +5,14 @@ artifact_type: "character_reconstruction_specification"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.6"
+version: "0.7"
 status: "canonical"
 scope: "Evidence density, monograph and behavioral-model promotion, constraints and validation"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_CHARACTER_RECONSTRUCTION_SPEC.md"
 source_boundary: "Reconstruction contract; the closed manga boundary and admitted sources are those recorded in CURRENT_STATE_AND_CORPUS_MAP.md"
 created: "2026-10-11"
-updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_NAMING_RULE_UPDATE"
+updated: "2026-11-17"
+review_status: "AUTHOR_REVIEWED_PROSPECTIVE_FRAMEWORK_AMENDMENT"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -71,6 +71,8 @@ Editorial profiles and relationship captions do not replace observed behavior; r
 Use retrospective source reproduction, contrasting interlocutors/stakes, negative constraints and ordinary-life tests. Prospective tests must be frozen before later eligible evidence; specify an actual opportunity to test, an adjudication window and falsifier. No opportunity means `UNTESTED`. Model familiarity can contaminate holdouts; label remembered-source fitting honestly.
 
 Generated scenarios and a model's self-consistency are not manga evidence. Cross-series transfer is a separate extrapolation decision with changed premises, knowledge/resources supplied, evidence distance, plausible range and abstention. Readiness is bounded by domain and state; an owner/authorized global process controls formal capability assessments and discovery.
+
+At the first of the project's next entry into character or specialist synthesis, its next architecture review checkpoint or the next authorized specialist-readiness gate ([initiation §10](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#10-existing-projects-and-grandfathering)), and again after material new evidence, record person-level qualification in the existing character/readiness ledger under [initiation §5.5.1](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard). Consider every subject with differentiated evidence, including a concentrated skating or coaching sequence with contrasting conditions and meaningful constraints. A qualified subject creates a portrait obligation in the existing `04 Character and Relationship Synthesis/<local-subject>/MEDALIST_<NAME>_PROVISIONAL_MONOGRAPH.md` convention. Record the identity, boundary, evidence basis, gaps, next trigger, outcome and eventual path. For each new or materially revised portrait, review standalone usability and fidelity to the Japanese observations and current claim versions separately. Reference both results from the decision. Operational-model readiness keeps its separate test.
 
 ## Revision and acceptance
 

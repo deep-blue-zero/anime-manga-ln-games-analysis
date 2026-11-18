@@ -4,7 +4,7 @@ series: the-ramparts-of-ice
 artifact_id: RI_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: RI-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL full-colour tankobon method; no narrative findings"
 source_boundary: "Japanese full-colour tankobon volumes 01-14 metadata verified; no narrative admission or inspection"
@@ -66,6 +66,8 @@ The private evidence plane holds image-review states REVIEWED_MATERIAL/NO_MATERI
 Each major thesis records support, inferential warrant, strongest counterreading and falsifier. Revisions use PRESERVE/STRENGTHEN/REVISE/DOWNGRADE/REJECT/OPEN; retain earlier formulations and freezes. A tidy visual index cannot substitute for the prose explaining its function.
 
 ## Complete volume and acceptance
+
+Apply the [standing source-reading configuration](RI_SYNTHESIS_ARCHITECTURE.md#independent-colour-and-page-reading) at this unit’s authorized frontier. Its transaction records the independent findings and the principal’s adjudication alongside coverage, claim revisions and remaining evidence gaps.
 
 A future `readings/RI_VNN_DEEP_READING.md` carries `artifact_type: deep_reading` only under an authorized run. It contains witness/admission/coverage, exposure/entering state, governing/rival theses, full causal movement prose, named character/directed relationship changes, ordinary/Japanese expression, colour/page form, counterreadings, claim/forecast changes, exact ledger-update manifest and exit uncertainty/debts.
 
