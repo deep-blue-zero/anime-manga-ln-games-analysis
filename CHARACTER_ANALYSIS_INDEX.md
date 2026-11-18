@@ -41,7 +41,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 28 |
+| [`re-zero`](characters/index/re-zero.md) | 29 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shiboyugi`](characters/index/shiboyugi.md) | 13 |
@@ -87,6 +87,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Amaya Tsubame](characters/index/the-idolmaster.md#amaya-tsubame) | Gakuen Idolmaster mobile-game Phase-3 core | `the-idolmaster:amaya-tsubame@mobile-game-phase-3-core` | 雨夜燕 |
 | [Ami Shirakawa](characters/index/shuukura.md#ami-shirakawa) | Original Japanese light-novel continuity and author supplements | `shuukura:ami-shirakawa@original-light-novel` | 白川亜美; Shirakawa Ami |
 | [An](characters/index/project-sekai.md#an) | Project SEKAI game — Vivid BAD SQUAD | `project-sekai:an@game` | — |
+| [Anastasia Hoshin](characters/index/re-zero.md#anastasia-hoshin) | Re:Zero main light novel | `re-zero:anastasia-hoshin@light-novel` | — |
 | [Angie](characters/index/konosuba.md#angie) | Original light-novel continuity, scoped cohort monograph | `konosuba:angie@original-light-novel` | アンジー |
 | [Anju Emma](characters/index/86-eighty-six.md#anju-emma) | 86 - Eighty-Six original light novels | `86-eighty-six:anju-emma@original-light-novels` | アンジュ・エマ |
 | [Anna Filante Esteroid](characters/index/konosuba.md#anna-filante-esteroid) | Original light-novel continuity, scoped cohort monograph | `konosuba:anna-filante-esteroid@original-light-novel` | アンナ゠フィランテ゠エステロイド; アンナ＝フィランテ＝エステロイド |

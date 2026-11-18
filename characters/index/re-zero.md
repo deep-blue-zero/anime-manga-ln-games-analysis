@@ -6,6 +6,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 
 ## Reviewed entries
 
+<a id="anastasia-hoshin"></a>
+
+### Anastasia Hoshin
+
+- Entity ID: `re-zero:anastasia-hoshin`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:anastasia-hoshin@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v01-v25-character-model`: LIGHT_NOVEL VOLUME: Dedicated model of the human Anastasia across the original Japanese main light novels V01–V25, built on the frozen readings and owner ledgers with targeted original reinspection of V04, V06, V07 and V16–V25 (V01–V03 yield no occurrence). It covers her retrospective account of her Kararagi rise, the V04 candidacy speech and bout, the V06 café and V07 White Whale negotiations, V16 Priestella hosting, the V17–V18 city crisis and temporary civic charge, the emergency handover to the artificial spirit and her withdrawal during V19–V24 (operator-only scenes receive no human dialogue), the V25 return, her renewed choice of Julius without their earlier shared episodes and the Roy custody deliberation ending at E046 with her later position unshown. Each reset iteration stays separate. The scarf operator's own V20–V22 conduct and the Witch Echidna are not covered here. No V26 or later, web-novel, IF, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`v01-v25-character-model` — Anastasia Hoshin (human): V01–V25 character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_ANASTASIA_HOSHIN_V01_V25_CHARACTER_MODEL.md)
+
 <a id="beatrice"></a>
 
 ### Beatrice
