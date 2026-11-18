@@ -55,6 +55,12 @@ Use R0001 onward within each work. The reverse direction requires independent ev
 
 Use X0001 onward. A silent behavioral sample need not contain quoted text. Missing opportunity is a gap, not negative evidence. Private thought is not spoken register. A model cannot infer an ordinary baseline from crisis samples alone.
 
+## Monograph qualification
+
+`work/subject_key | assessment_boundary | outcome | source_grounded_rationale/largest_gaps | next_review_trigger | monograph_path_or_NONE | self_containment/fidelity_acceptance_refs`.
+
+Outcome is QUALIFIED_PENDING, COMPLETE_AT_BOUNDARY, DEFERRED_EVIDENCE or REASSESS_AFTER_REVISION under [initiation section 5.5.1](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard). COMPLETE_AT_BOUNDARY cites the separately recorded self-containment and fidelity results. A reassessment, new outcome or real monograph path appends a row for the same subject; the latest row is current and earlier rows remain. An unassessed person has no row and is neither qualified nor rejected.
+
 ## Update/history and readiness
 
 Append material records within the accepted story transaction. Never renumber IDs or rewrite earlier state to match an ending or collection comparison. Current-view indexes route latest event IDs by work/person/horizon without replacing history. Corrections append `correction_id | prior_record | date | old/new | source_basis | affected_claims`; interpretive changes enter the claim ledger.
