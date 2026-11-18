@@ -4,7 +4,7 @@ series: domestic-girlfriend
 artifact_id: CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 generation: DG-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "Single INITIAL bootstrap routing surface; no literary findings or sequential authorization"
 source_boundary: "Metadata reconnaissance of Japanese manga volumes 01-03 only; no narrative units admitted or inspected"
@@ -59,6 +59,8 @@ Metadata reconnaissance establishes Japanese digital manga V01–03 only. All th
 | [Bootstrap review](DG_BOOTSTRAP_REVIEW.md) | Producer scope, unresolved review duties and handoff instructions |
 
 There are no readings, character dossiers, monographs, syntheses, models or simulations. The initialized control surfaces are complete for the bootstrap responsibility; their existence is not narrative coverage.
+
+The [standing source-reading configuration](DG_SYNTHESIS_ARCHITECTURE.md#independent-source-reading) applies at the first separately authorized unit. The volume reading's ledger-update manifest retains the contribution evidence and its disposition.
 
 ## Review state and next permitted work
 
