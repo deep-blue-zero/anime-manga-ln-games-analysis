@@ -9,7 +9,7 @@ source_boundary: Chinese-original audiovisual Season 1, Episodes 1–24, prospec
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-10-25
+last_updated: 2026-11-17
 ---
 
 # To Be Hero X V2 — Current State and Corpus Map
@@ -21,7 +21,8 @@ This is the canonical first-read routing surface for the active *To Be Hero X* V
 - **Generation:** V2 Chinese-original audiovisual reread.
 - **Primary evidence:** Mandarin dialogue/audio and visual form.
 - **Secondary witness:** aligned Japanese subtitles/dialogue.
-- **Governing frameworks:** `TBHX_V2_ANALYTICAL_METHOD.md` (reading method); `TBHX_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md` **v1.5** (architecture, `STABILIZED`); `TBHX_V2_CHARACTER_RECONSTRUCTION_METHOD.md` **v1.0** (governs Document 20 and any later subject models). This file is the project's **sole current entrypoint** (architecture §10.2); any Phase-9 reader guide is subordinate and carries no status.
+- **Governing frameworks:** `TBHX_V2_ANALYTICAL_METHOD.md` (reading method); `TBHX_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md` **v1.6** (architecture, `STABILIZED`); `TBHX_V2_CHARACTER_RECONSTRUCTION_METHOD.md` **v1.0** (governs Document 20 and any later subject models). This file is the project's **sole current entrypoint** (architecture §10.2); any Phase-9 reader guide is subordinate and carries no status.
+- **Future authorized episode readings:** [Architecture §10.8](TBHX_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md#standing-team-for-a-future-episode-reading) assigns independent episode work and review. [Method §7](TBHX_V2_ANALYTICAL_METHOD.md#7-canonical-episode-document-structure) records their evidence and the principal’s reconciliation.
 - **Sequential readings:** **E01–E24 canonical / prospectively frozen**.
 - **Current phase:** **Phase 5 — language, audio, visual-form, and character-modeling synthesis; active**.
 - **Phase-5 progress:** **1/4 architecture-defined specialist documents complete**; Document 17 is canonical; Document 20 character behavior/personality/speech/situational modeling is now architecture-defined; the E05–E07 tranche and ten remaining-arc handoffs now have bounded analytical audits with explicit continuous/audio source debts; all eleven Season 1 bundles are received, while Documents 18–20 await adequate accepted source coverage.
