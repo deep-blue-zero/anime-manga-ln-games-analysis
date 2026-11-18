@@ -63,6 +63,8 @@ Text timing, subtitles, and clip existence are not visual review. Mark camera, g
 
 ## Closeout
 
+Apply the [standing narrative team](WUWA_LONGITUDINAL_STORY_ANALYSIS_ARCHITECTURE.md#standing-team-for-a-narrative-unit). After freezing applicable prospective judgments, put a synopsis of the admitted unit’s actions and outcome near the front, distinguishing option-dependent outcomes. Record each participant’s role, exposure, inspected occurrences and material findings, the reviewer’s checks, and the principal’s disposition with its claim or ledger route before acceptance.
+
 A reading closes only when it:
 
 - states the exact covered and missing source surfaces;

@@ -3,7 +3,7 @@ title: "Zenless Zone Zero — Governing synthesis architecture"
 artifact_id: ZZZ_SYNTHESIS_ARCHITECTURE
 artifact_type: project_synthesis_architecture
 series: zenless-zone-zero
-version: "1.1"
+version: "1.2"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 scope: "Governing synthesis architecture"
@@ -69,6 +69,16 @@ Production order: verified source lock and gap resolution → explicit source/ru
 
 Analyst retrieval starts with the current entrypoint/source horizons and relevant full readings; a future reader guide starts from accepted synthesis and is written last. A synopsis remains navigation, never the only input to serious synthesis.
 
+### Independent reading of a reachable scene
+
+Before a separately authorized causal block or reread, give the principal, an independent specialist and a distinct reviewer the verified build, native graph membership, applicable languages, trust and unlock state, and disclosure horizon. The principal follows every admitted path in the block and writes one integrated reading. The specialist works from the original nodes before seeing that reading. Trace who initiates and who can answer a message or trust interaction. Check whether a choice-specific reply recurs elsewhere, and whether the graph actually binds a contact or a mixed-speaker fragment to the proposed person. Preserve the words or ordinary gesture that would change the relationship inference, with its native coordinate and conditions.
+
+The reviewer independently inspects diagnostic nodes, preferably before seeing the draft, then challenges its attribution and strongest inference. Test whether a projected scene would still support the account if an unresolved speaker stayed unidentified or a different option were selected. Verify performance or staging only through an inspected runtime witness. Record each participant's actual access and exposure. Freeze forecasts before later trust stages, outcomes or routes are revealed. Disclose contamination and withdraw the affected prospective or independent credit.
+
+Use the sequential-reading class for interpretive assignments and escalate the particular dispute when attribution across graph families or state-dependent conduct requires deeper reasoning. An unusually bounded unit may combine specialist and review duties in one independent source-capable context with a unit-specific justification showing how both duties were discharged. If access or independence is inadequate, record the blocker at the current map and hold acceptance and frontier advance under [topology §4.1](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading).
+
+In the existing block transaction, record assignments and independent contexts, actual inspected materials, route and exposure limits, located findings, counterexamples, review challenges and the principal's reason for adopting, qualifying, rejecting or leaving a finding open. The principal reconciles the reading and the shared source, identity, state and claim records once, linking `ZZZ-Snnn` and `ZZZ-Cnnn` as applicable. Before closure, trace material findings and outstanding source or channel gaps into their destinations. The later graph-conditioned social study, reconstruction assessment and publication each retain their own owner and gates.
+
 ## 5. Distinct completion gates
 
 | Gate | Acceptance evidence |
@@ -85,6 +95,8 @@ Analyst retrieval starts with the current entrypoint/source horizons and relevan
 | Reconstruction assessment | Separate evidence/model/held-out requirements met within a named state; evaluator alone assigns capability, not literary completion |
 
 No gate implies the next. A pipeline exit, nonzero line count, source update or final unit reached is not analytical completion.
+
+At character/specialist readiness, record each assessed person's identity, source and state boundary, decision, evidence, significant gaps, reassessment trigger and eventual monograph path in the boundary audit. Consider supporting participants and concentrated sequences as well as leads. Carry qualified portraits forward as production obligations through synthesis readiness and release. Reassess when a source or identity revision changes the evidence. For the portrait in the §2 studies home, review what a reader can learn from the document alone, then independently check its account against diagnostic sources, counterexamples and earlier states. Apply the [individual monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard). A completed portrait and its review establish no reconstruction grade.
 
 ## 6. Revision, intake and freezing
 
