@@ -4,7 +4,7 @@ series: astra-lost-in-space
 artifact_id: ALS_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: ALS-G1
-version: "1.2"
+version: "1.3"
 status: canonical
 authority_scope: "INITIAL unit-mapped series architecture and derived-use pathway"
 source_boundary: "One Japanese 彼方のアストラ 全巻合本版 omnibus EPUB; internal units unverified; no narrative admission or inspection"
@@ -77,7 +77,7 @@ Nothing here asserts a particular institution, mystery, event or story structure
 
 ## 5. Studies and analytical depth
 
-Major character work must explain transitions, motive/self-report, behavior, ordinary versus crisis evidence, relationship conditioning, language/form, counterexamples and uncertainty. A relationship argument must preserve both directed perspectives and their causal effects. Apply the [character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) to every subject with differentiated evidence, including supporting characters and concentrated sequences. Record identity, frontier, outcome, source grounds, gaps and reassessment trigger in the existing role-gap audit at specialist readiness. Reassess after material new evidence. Each qualifying subject requires a self-contained portrait under `studies/` grounded in the character's own knowledge, decisions and relationships, with evidence cited by unit and global image occurrence. Add its actual path and record separate self-containment and fidelity reviews. Carry outstanding portraits through synthesis readiness and release.
+Major character work must explain transitions, motive/self-report, behavior, ordinary versus crisis evidence, relationship conditioning, language/form, counterexamples and uncertainty. A relationship argument must preserve both directed perspectives and their causal effects. Apply the [character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) to every subject with differentiated evidence, including supporting characters and concentrated sequences. At specialist readiness, record each assessed person's decision in [the qualification schema in the state and evidence ledger](ALS_STATE_AND_EVIDENCE_LEDGER.md#character-qualification). Reassess on material new evidence and retain earlier decisions at their original frontiers. Each qualifying subject requires a self-contained portrait at `studies/ALS_<subject-key>_CHARACTER_MONOGRAPH.md`. Substitute the complete immutable `ALS-Pnnnn` identity key from that ledger. Ground the portrait in the person's own knowledge, decisions and relationships, with evidence cited by unit and global image occurrence. Record its actual path once the portrait exists and link the separate self-containment and fidelity reviews. Carry outstanding portraits through synthesis readiness and release.
 
 Required mature responsibilities are character/causality, knowledge/chronology, directed relations, Japanese expression and page form. They may be substantial integrated sections where independent specialists add no retrieval or argument value. The role-gap audit must name those sections and explain why no separate specialist is needed. A collective-system or other domain specialist is earned by actual recurring evidence, not by title familiarity.
 
@@ -148,6 +148,7 @@ Current indexes, entry, method and architecture are mutable by targeted changes 
 | 1.0 | 2026-11-07 | INITIAL one-witness/multiple-natural-unit architecture; no narrative findings |
 | 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for future mapped-unit readings; internal-unit boundary, full analytical duties and CLOSED authorization boundary retained |
 | 1.2 | 2026-11-17 | Assigned independent source-reading, transaction and qualification responsibilities at the existing unit and readiness gates |
+| 1.3 | 2026-11-17 | Named the qualification schema in the state and evidence ledger and the individual portrait path keyed by its immutable subject identity. |
 
 ## 9. Owners, reasoning and transfer
 
