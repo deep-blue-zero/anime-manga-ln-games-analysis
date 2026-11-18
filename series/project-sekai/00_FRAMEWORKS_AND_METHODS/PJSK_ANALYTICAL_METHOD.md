@@ -90,7 +90,7 @@ Compare the current reading with existing claims. Use PRESERVE, STRENGTHEN, REVI
 
 Each main-story phase or major event deep reading should normally contain:
 - scope and source boundary;
-- concise narrative map;
+- a near-front synopsis of the admitted narrative, finalized after applicable prospective captures and retaining the actions, changes of knowledge and outcomes needed to understand the block;
 - causal analysis;
 - character-by-character state analysis;
 - relationship changes;
@@ -103,6 +103,8 @@ Each main-story phase or major event deep reading should normally contain:
 - claims to update in longitudinal ledgers;
 - unresolved questions for later material.
 
+
+For a substantive source reading, follow the [phase or event team](PJSK_SYNTHESIS_ARCHITECTURE.md#independent-reading-of-a-phase-or-event) and include the source-located contributions, challenges and principal’s dispositions in the state handoff, including unresolved cross-unit or conditional evidence.
 
 The state handoff is mandatory for developmental material. It should make clear what is true at the end of the block that was not true at the beginning.
 
