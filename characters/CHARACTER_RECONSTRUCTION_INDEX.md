@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 162; `STALE` 3; `SUPERSEDED` 33
+- Recorded totals: `CANDIDATE` 164; `STALE` 3; `SUPERSEDED` 33
 
 ## Namespaces
 
@@ -37,7 +37,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`konosuba`](reconstruction_index/konosuba.md) | 15 | 15 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
-| [`medalist`](reconstruction_index/medalist.md) | 1 | 1 |
+| [`medalist`](reconstruction_index/medalist.md) | 2 | 2 |
 | [`monogatari-series`](reconstruction_index/monogatari-series.md) | 1 | 1 |
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
 | [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 42 |
@@ -48,6 +48,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 6 | 6 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
+| [`silent-witch`](reconstruction_index/silent-witch.md) | 1 | 1 |
 | [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
 | [`sound-euphonium`](reconstruction_index/sound-euphonium.md) | 1 | 1 |
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
@@ -113,6 +114,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `mass-effect:commander-shepard@paragon-player-archetype` | [`mass-effect-paragon-shepard-archetype-20261023-01`](reconstruction_index/mass-effect.md#mass-effect-paragon-shepard-archetype-20261023-01) | `CANDIDATE` | `D` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
 | `mass-effect:commander-shepard@renegade-player-archetype` | [`mass-effect-renegade-shepard-archetype-20261109-01`](reconstruction_index/mass-effect.md#mass-effect-renegade-shepard-archetype-20261109-01) | `CANDIDATE` | `D` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `medalist:inori-yuitsuka@manga` | [`medalist-inori-yuitsuka-manga-v01-v15-monograph-20261118-01`](reconstruction_index/medalist.md#medalist-inori-yuitsuka-manga-v01-v15-monograph-20261118-01) | `CANDIDATE` | `C` | `3fe7c1f414e92b3555444bd1342cc3bb13fe0b26` |
+| `medalist:tsukasa-akeuraji@manga` | [`medalist-tsukasa-akeuraji-manga-v01-v15-monograph-20261118-01`](reconstruction_index/medalist.md#medalist-tsukasa-akeuraji-manga-v01-v15-monograph-20261118-01) | `CANDIDATE` | `B` | `2737dd7629ad709ad10b117715984f84b2cc0aa7` |
 | `monogatari-series:senjogahara-hitagi@original-light-novels` | [`monogatari-series-senjogahara-hitagi-original-light-novels-d05-monograph-20261115-01`](reconstruction_index/monogatari-series.md#monogatari-series-senjogahara-hitagi-original-light-novels-d05-monograph-20261115-01) | `CANDIDATE` | `B` | `7d8ece76cbefeea3eb1d7cd02d4ca99e41966d4a` |
 | `mushoku-tensei:aisha@light-novel` | [`mushoku-tensei-aisha-ln-v10-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-aisha-ln-v10-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:cliff@light-novel` | [`mushoku-tensei-cliff-ln-v09-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-cliff-ln-v09-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
@@ -211,6 +213,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `shokugeki-no-soma:yukihira-soma@manga` | [`shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01) | `CANDIDATE` | `B` | `4d83b32a8ef03b3e109e261b32151b737f58fdf3` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-ln10-20261031-01) | `CANDIDATE` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-20261021-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-20261021-01) | `SUPERSEDED` | `E` | `036ed43f1d2a974b5351429792bae2c733e577db` |
+| `silent-witch:monica-everett@light-novel` | [`silent-witch-monica-everett-ln-v01-v12-monograph-20261118-01`](reconstruction_index/silent-witch.md#silent-witch-monica-everett-ln-v01-v12-monograph-20261118-01) | `CANDIDATE` | `B` | `2737dd7629ad709ad10b117715984f84b2cc0aa7` |
 | `solo-leveling:cha-hae-in@original-korean-novel` | [`solo-leveling-cha-hae-in-original-korean-novel-reconstruction-model-20261107-01`](reconstruction_index/solo-leveling.md#solo-leveling-cha-hae-in-original-korean-novel-reconstruction-model-20261107-01) | `CANDIDATE` | `C` | `7da71cb9be614645641dc5c0038b1df3acf07063` |
 | `solo-leveling:sung-jinwoo@original-korean-novel` | [`solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01`](reconstruction_index/solo-leveling.md#solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01) | `STALE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
 | `solo-leveling:yoo-jinho@original-korean-novel` | [`solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01`](reconstruction_index/solo-leveling.md#solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01) | `CANDIDATE` | `C` | `923ee527a9f594b30e751e697c62a0b549eb77dc` |
