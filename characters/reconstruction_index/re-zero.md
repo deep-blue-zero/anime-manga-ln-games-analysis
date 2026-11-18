@@ -223,7 +223,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 
 #### Assessment `re-zero-julius-juukulius-ln-v01-v16-model-20261024-01`
 
-- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Recorded status: `STALE` — historical record; not current readiness
 - Entity: `re-zero:julius-juukulius`
 - Scope: continuity `re-zero-main-light-novels`
 - Source boundary: Only re-zero:julius-juukulius@light-novel\#character-model, the canonical derived-use model REZERO\_JULIUS\_JUUKULIUS\_V01\_V16\_CHARACTER\_MODEL.md at basis\_commit, read in full as reviewed repository analysis of the original Japanese main light novels V01-V16, whose load-bearing Julius evidence is V04, V07, V08, V09 and V16. The project's CURRENT\_STATE\_AND\_CORPUS\_MAP.md and 05 Character Analysis README were read for method, authority order and scope only. The separate same-analyst fidelity review, the frozen volume readings, the master and five owner ledgers, the reconstruction protocol, the source lock and the Japanese EPUBs are not curated evidence on this subject and nothing is borrowed from them. The model's MONOGRAPH\_READY and PASS\_WITH\_BOUND labels and its HIGH and MEDIUM confidence tags are inputs, not conclusions. No V17 or later volume, EX, IF, web-novel, anime or game material is included, and the evaluator performed no primary-source inspection.
@@ -231,7 +231,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 - Basis commit: `b20de0edab953d40bf5fc3d2e51dea84e99a610c`
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `bb32df76eea62ce0b782ecd23e92d20f219c303d4c8a666dd593a8b686c34dae`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
-- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Overall tier: historical `C` — specialist-supported interpretation without unconstrained simulation support
 - Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
   - `DIALOGUE` condition: Written Japanese register only, as section 7 defines it; no anime delivery, prosody or audiovisual staging.
   - `DIALOGUE` condition: Speaker, recipient, office, audience and pressure are selected before lexical imitation, with the address the model supports for that relation and phase \(エミリア様 in public, 我が友 only from the V09 trust scene onward, the familiar name only after the V07 apology\).
@@ -263,6 +263,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
   - `uncurated-adjacent-and-later-material` (evidence gap): The separate fidelity review, the frozen readings, the ledgers, the protocol and the Japanese EPUBs are not curated on this subject, and the project's later admitted V17 lies outside this set; none was used, and missing support is not evidence of absence.
 - Evidence at basis commit:
   - [`re-zero:julius-juukulius@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b20de0edab953d40bf5fc3d2e51dea84e99a610c/series/re-zero/05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md)
+- Stale reason: reconstruction\_status.py currentness at main 3fe7c1f414e92b3555444bd1342cc3bb13fe0b26 reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED. Discovery PR \#669 \(commit a110ae4e, merged at 48484583\) added reviewed evidence re-zero:julius-juukulius@light-novel\#v01-v25-character-model \(05 Character Analysis/REZERO\_JULIUS\_JUUKULIUS\_V01\_V25\_CHARACTER\_MODEL.md, canonical generation V1.0\) and its V01-V25 coverage entry to the row. The cited \#character-model item is unchanged, but this assessment no longer covers the subject's reviewed evidence set or coverage. A reassessment at a newer basis is required before any assessment of this subject applies.
 
 ### Subject `re-zero:liliana-masquerade@light-novel`
 

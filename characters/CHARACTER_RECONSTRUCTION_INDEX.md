@@ -15,13 +15,13 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 161; `STALE` 2; `SUPERSEDED` 33
+- Recorded totals: `CANDIDATE` 162; `STALE` 3; `SUPERSEDED` 33
 
 ## Namespaces
 
 | Namespace | Subjects | Assessments |
 | --- | ---: | ---: |
-| [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 11 | 11 |
+| [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 12 | 12 |
 | [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
 | [`azur-lane`](reconstruction_index/azur-lane.md) | 2 | 2 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
@@ -37,6 +37,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`konosuba`](reconstruction_index/konosuba.md) | 15 | 15 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
+| [`medalist`](reconstruction_index/medalist.md) | 1 | 1 |
 | [`monogatari-series`](reconstruction_index/monogatari-series.md) | 1 | 1 |
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
 | [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 42 |
@@ -62,6 +63,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `86-eighty-six:anju-emma@original-light-novels` | [`86-eighty-six-anju-emma-ln-cmr-profile-20261118-02`](reconstruction_index/86-eighty-six.md#86-eighty-six-anju-emma-ln-cmr-profile-20261118-02) | `CANDIDATE` | `B` | `442bd3967061332ca915e5d16377c6315b22a1e6` |
 | `86-eighty-six:annette-penrose@original-light-novels` | [`86-eighty-six-annette-penrose-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-annette-penrose-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `95f33c918143000bba547f96289e4ad9d164e60b` |
 | `86-eighty-six:ernst-zimmerman@original-light-novels` | [`86-eighty-six-ernst-zimmerman-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-ernst-zimmerman-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `95f33c918143000bba547f96289e4ad9d164e60b` |
+| `86-eighty-six:erwin-marcel@original-light-novels` | [`86-eighty-six-erwin-marcel-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-erwin-marcel-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `3fe7c1f414e92b3555444bd1342cc3bb13fe0b26` |
 | `86-eighty-six:frederica-rosenfort@original-light-novels` | [`86-eighty-six-frederica-rosenfort-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-frederica-rosenfort-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `b9ff988fda60b9d9ceb6b96dcc403ce6e96fcc41` |
 | `86-eighty-six:grethe-wenzel@original-light-novels` | [`86-eighty-six-grethe-wenzel-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-grethe-wenzel-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `b9ff988fda60b9d9ceb6b96dcc403ce6e96fcc41` |
 | `86-eighty-six:kurena-kukumila@original-light-novels` | [`86-eighty-six-kurena-kukumila-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-kurena-kukumila-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
@@ -110,6 +112,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `legend-of-the-galactic-heroes:yang-wen-li@original-novels` | [`legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01`](reconstruction_index/legend-of-the-galactic-heroes.md#legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01) | `CANDIDATE` | `C` | `589435c3ebada7c66aac6b44ed014876d9050423` |
 | `mass-effect:commander-shepard@paragon-player-archetype` | [`mass-effect-paragon-shepard-archetype-20261023-01`](reconstruction_index/mass-effect.md#mass-effect-paragon-shepard-archetype-20261023-01) | `CANDIDATE` | `D` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
 | `mass-effect:commander-shepard@renegade-player-archetype` | [`mass-effect-renegade-shepard-archetype-20261109-01`](reconstruction_index/mass-effect.md#mass-effect-renegade-shepard-archetype-20261109-01) | `CANDIDATE` | `D` | `5aa25a60a918015bb973776732340cf205f9d39e` |
+| `medalist:inori-yuitsuka@manga` | [`medalist-inori-yuitsuka-manga-v01-v15-monograph-20261118-01`](reconstruction_index/medalist.md#medalist-inori-yuitsuka-manga-v01-v15-monograph-20261118-01) | `CANDIDATE` | `C` | `3fe7c1f414e92b3555444bd1342cc3bb13fe0b26` |
 | `monogatari-series:senjogahara-hitagi@original-light-novels` | [`monogatari-series-senjogahara-hitagi-original-light-novels-d05-monograph-20261115-01`](reconstruction_index/monogatari-series.md#monogatari-series-senjogahara-hitagi-original-light-novels-d05-monograph-20261115-01) | `CANDIDATE` | `B` | `7d8ece76cbefeea3eb1d7cd02d4ca99e41966d4a` |
 | `mushoku-tensei:aisha@light-novel` | [`mushoku-tensei-aisha-ln-v10-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-aisha-ln-v10-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:cliff@light-novel` | [`mushoku-tensei-cliff-ln-v09-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-cliff-ln-v09-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
@@ -184,7 +187,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `re-zero:crusch-karsten@light-novel` | [`re-zero-crusch-karsten-ln-v01-v16-model-20261023-01`](reconstruction_index/re-zero.md#re-zero-crusch-karsten-ln-v01-v16-model-20261023-01) | `CANDIDATE` | `C` | `297bc0d05040a24facbeb5440481b9c604de5568` |
 | `re-zero:ferris@light-novel` | [`re-zero-ferris-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-ferris-ln-v01-v16-model-20261024-01) | `CANDIDATE` | `C` | `b20de0edab953d40bf5fc3d2e51dea84e99a610c` |
 | `re-zero:garfiel-tinsel@light-novel` | [`re-zero-garfiel-tinsel-ln-v10-v15-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-garfiel-tinsel-ln-v10-v15-model-20261024-01) | `CANDIDATE` | `C` | `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` |
-| `re-zero:julius-juukulius@light-novel` | [`re-zero-julius-juukulius-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-julius-juukulius-ln-v01-v16-model-20261024-01) | `CANDIDATE` | `C` | `b20de0edab953d40bf5fc3d2e51dea84e99a610c` |
+| `re-zero:julius-juukulius@light-novel` | [`re-zero-julius-juukulius-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-julius-juukulius-ln-v01-v16-model-20261024-01) | `STALE` | `C` | `b20de0edab953d40bf5fc3d2e51dea84e99a610c` |
 | `re-zero:liliana-masquerade@light-novel` | [`re-zero-liliana-masquerade-ln-v01-v19-model-20261026-01`](reconstruction_index/re-zero.md#re-zero-liliana-masquerade-ln-v01-v19-model-20261026-01) | `CANDIDATE` | `C` | `f79e49071be39667e2fc5d5be5a5f3e9ae503589` |
 | `re-zero:meili@light-novel` | [`re-zero-meili-ln-v01-v21-model-20261101-01`](reconstruction_index/re-zero.md#re-zero-meili-ln-v01-v21-model-20261101-01) | `CANDIDATE` | `C` | `ba230369f74b7aa47a4d01951221cf18b8b99b3e` |
 | `re-zero:mimi@light-novel` | [`re-zero-mimi-ln-v01-v17-model-20261023-01`](reconstruction_index/re-zero.md#re-zero-mimi-ln-v01-v17-model-20261023-01) | `CANDIDATE` | `C` | `297bc0d05040a24facbeb5440481b9c604de5568` |
