@@ -11,7 +11,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-last_amended: 2026-10-28
+last_amended: 2026-11-17
 ---
 
 # One Punch Man — V2 Multi-Document Synthesis Architecture
@@ -628,20 +628,7 @@ This ordering is preferable to analyzing current chapters first because the V2 p
 
 # 16. Reasoning-strength recommendations
 
-For GPT-5.6 Sol:
-
-- **Phase 0 source inventory/crosswalk:** medium to high; use high when reconciling conflicting chapter/revision identities.
-- **Individual volume deep reading:** high.
-- **Checkpoint:** high.
-- **Routine ledger maintenance:** medium, escalating to high when a claim materially changes.
-- **Visual/redraw comparison:** high.
-- **Specialist character/thematic synthesis:** high.
-- **Cumulative series synthesis:** high.
-- **Minor current-release update note:** medium.
-- **Major current-release revelation or institutional/ontology shift:** high.
-- **Tankobon reconciliation after redraws:** high.
-
-The expensive reasoning should be concentrated on interpretation, revision, visual causality, and synthesis rather than simple source inventory.
+Use the [reasoning policy](../../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md) to select the class per responsibility. Use ROUTINE_FAST or BOUNDED_STANDARD for deterministic source identity and locator checks, SUBSTANTIVE_ANALYSIS for source-grounded Japanese reading and diagnostic review, and DEEP_SYNTHESIS for complex redraw adjudication, cross-volume reconciliation or sustained synthesis. Escalate unresolved interpretive conflicts according to their evidential difficulty. Verify image and Japanese-text access for the assigned work separately from reasoning class and publication permissions.
 
 ---
 
@@ -773,3 +760,15 @@ For uncollected material, follow the current-release overlay and web/revision cr
 Current official chapters are ingested in coherent tranches, and every meaningful state change propagates into its existing owning document during the same transaction. No duplicate permanent web-only character library is created. A shared document may retain canonical collected history and explicitly bounded PR current state. Frozen readings and prospective checkpoints keep their earlier knowledge.
 
 The local sequential owner handles this bounded 39-page intake and its synchronized ledger updates. A separate cloud synthesis handoff is not required for this limited extension of an existing rolling argument; substantial future monographs may still use the preferred fresh-context topology. This is adoption at the next reading boundary, not a restart of V01-V37.
+
+## Standing reading team
+
+Apply [execution topology §4.1](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) to each newly authorized substantive tankobon reading or official-web tranche. The principal inspects the entire admitted Japanese unit, owns its publication-boundary reading and integrates all material findings. Independent participants receive separate contexts, their assignments, the entering state, actual primary-page access and an explicit disclosure limit. They form their own observations before seeing the principal’s draft. Keep later web, retrospective and superseded evidence outside a prospective assignment. A version comparison receives only the identified witnesses its question requires.
+
+The independent attribution and revision specialist traces who performed, witnessed and received credit for a pivotal action through Japanese balloons, panel order and scene transitions. For a relevant revision compare the permitted official versions at mapped page anchors and identify which finding depends on that rendering. A distinct critical reviewer inspects the decisive pages directly, preferably before seeing the draft. Challenge a causal attribution using another character’s knowledge, a quiet reaction or a joke’s page turn, and check whether the reading has imported a redraw, webcomic, anime or later revelation. Trace corrections through the existing evidence code, claim and ledger homes. The principal alone reconciles competing accounts into the canonical reading, including useful contrary evidence and unresolved coverage.
+
+For an unusually bounded installment only, the specialist may also review in a separate independent context if the transaction records the reason, adequate source access and sufficient scrutiny. If required independence or source coverage is unavailable, record the gap and hold acceptance and advancement under §4.1. The [volume template](OPM_ANALYTICAL_METHOD_V2.md#71-authority-and-source-block) and current-release protocol retain the receipt. Retrospective synthesis, reconstruction validation and repository publication have their own owners and acceptance criteria.
+
+## Literary portrait qualification
+
+At the next authorized specialist-readiness assessment, and after material new evidence, apply [initiation §5.5.1](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) to every person with differentiated evidence from the sequential readings and cumulative homes. A concentrated sequence can qualify a supporting character. Use the existing model-readiness index for separately labeled literary decisions with identity, collected or provisional boundary, evidence basis, gaps, outcome, next trigger and eventual path. For each qualified subject, produce one standalone V2 portrait under `04 Specialist Synthesis` using `OPM_<NAME>_CHARACTER_MONOGRAPH.md` for a new portrait. Retain the roles of existing thematic studies and historical V1 portraits. Record separate self-containment and source-fidelity results for each new or materially revised portrait and link them from the decision. An outstanding portrait remains a synthesis obligation independently of dossier or predictive readiness.

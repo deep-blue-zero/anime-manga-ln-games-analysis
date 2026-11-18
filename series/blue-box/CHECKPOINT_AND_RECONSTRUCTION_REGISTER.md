@@ -2,7 +2,7 @@
 title: "Blue Box — Checkpoint and Reconstruction Register"
 artifact_id: BB_CHECKPOINT_REGISTER
 artifact_type: checkpoint_reconstruction_register
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: BB-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–27 and separate prose Interlude/Prologue; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 ---
 
 # Checkpoint and reconstruction register
@@ -22,13 +22,15 @@ No run, frontier, checkpoint, comparison, model or readiness grade exists. The r
 
 | Record / prefix | Required fields |
 |---|---|
-| Transaction `BB-TX-nnnn` | Actual lane/operation authorization; witness/unit; entry/exit frontier; full reading; five-register deltas or scoped no-change; image/prose/retrieval debt; name/reference sample/results; reviewer/disposition; next permitted operation |
+| Transaction `BB-TX-nnnn` | Actual lane/operation authorization; witness/unit; entry/exit frontier; full reading; five-register deltas or scoped no-change; image/prose/retrieval debt; name/reference sample/results; participation and reconciliation receipt below; next permitted operation |
 | Checkpoint `BB-CP-nn` | Authorized main tranche or prose segment; complete inputs/digests/authority; frozen lane-specific state/claims/forecasts; full reconciliation; comparisons if separately authorized; role gaps/limits |
 | Dependency `BB-DEP-nnnn` | Upstream source/evidence/claim/state; affected lane/study/model; trigger; review owner; OPEN/RESOLVED_WITH_ROUTE/ACCEPTED_LIMITATION and evidence |
 | Role gap `BB-RG-nnnn` | Responsibility; actual lane/time/ordinary/relationship/language/form coverage; missing evidence; effect; targeted return/specialist; justified no-specialist route; acceptance criterion |
 | Model coverage `BB-MC-nnnn` | Subject@lane/witness/frontier/state; twelve dimensions/six scenarios; narrator/subject access; exclusions and cross-medium conflict policy; missing evidence; confidence/distance/abstention; holdout/exposure and independent evaluation |
 | Handoff `BB-HO-nnnn` | Base snapshot; full inputs/outputs/digests; relevant methods; authority/lane/source/admission/knowledge boundary; owners; transfer receipt; returned changes/evidence; base-candidate-current drift; acceptance/remaining obligations |
 | Gate `BB-GR-nnnn` | B0–B12; actual input boundary; evidence/reviewer/independence; defects; pass/hold/bounded acceptance; next allowed action |
+
+For each future `BB-TX`, identify the principal, specialist and reviewer, their assignments and context separation. Record actual exposure, lane, frontier, inspected material and retrievable locators for each. Preserve material observations, interpretations, counterexamples, reviewer challenges and the principal's reason for adopting, qualifying, rejecting or leaving each finding open. Link outstanding evidence and affected claim versions. Record the reason for any reduced configuration and observed settings when known. Close the transaction under the [B2 team contract](BB_SYNTHESIS_ARCHITECTURE.md#source-reading-team-for-b2).
 
 ## Model and transfer rules
 
