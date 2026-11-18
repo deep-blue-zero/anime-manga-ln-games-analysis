@@ -2,7 +2,7 @@
 title: "Blue Box — Prose Supplement Analytical Method"
 artifact_id: BB_PROSE_METHOD
 artifact_type: analytical_method
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: BB-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–27 and separate prose Interlude/Prologue; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -73,7 +73,7 @@ Use the shared warrant and revision vocabulary defined in the manga method, with
 
 Before semantic acceptance, promotion or integration, perform the same bounded name/reference check: introduction, substantial middle, conclusion/exit and major relationships/ambiguous actors, preserving speaker/thinker/recipient and source-required concealment. Use the six classifications in the manga method and record actual scope/material findings.
 
-Accept full prose and five registers atomically. Missing components, untested central routes or essential uninspected images remain holds. Frozen prospective readings preserve their original knowledge and source boundary.
+Use the [B2 source-reading team](BB_SYNTHESIS_ARCHITECTURE.md#source-reading-team-for-b2) and close its `BB-TX` receipt at the authorized supplement frontier. Accept full prose and five registers atomically. Missing components, untested central routes or essential uninspected images remain holds. Frozen prospective readings preserve their original knowledge and source boundary.
 
 ### Current-unit story synopsis
 
