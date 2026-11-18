@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.60
+generation: V0.61
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 
 V25 remains the last integrated numbered source through PR #498, with 777 narrative claims. E046 survives displacement and ends on an unnamed plain with awake Rem and physical Louis. The working derivation retains 45 Subaru deaths and 46 reached segments. SOURCE_COUNT_TENSION remains open for the seventeenth reunion, fifteen additional deaths, twenty-two post-loss deaths and total forty.
 
-Ram’s V01–V25 full publication and integration gate is CLOSED. CI integrated d189f25ab82040a457e3804f5cd067194277fe3d through [PR #625](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/625) at 294f302fbd65d331fdae6d672cdda1e29623a886. Verified main 294f302fbd65d331fdae6d672cdda1e29623a886 retained Re:Zero tree 0cf9597b896ba5a277aada254501efa1b847a805. Subaru and Arc 6 were integrated through PRs #622 and #501.
+Julius’s V01–V25 full publication and integration gate is CLOSED. CI integrated e6ecb65c6da49fb381862d20c7691008681a78ed through [PR #629](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/629) at 10cbf06825d4e93c3d8c79490ab7929f6f8ba532. Verified main 10cbf06825d4e93c3d8c79490ab7929f6f8ba532 retained Re:Zero tree 1a46ad639becd2b2a448477187eea595004d1b4f. Arc 6, Subaru and Ram were integrated through PRs #501, #622 and #625.
 
-V25 is the last fully consumed original. The Julius operation reopens targeted passages in the admitted Japanese main novels. Its actual text and image inspection and independent participation are reported in the [Julius fidelity review](../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V25_FIDELITY_REVIEW.md). V01–V43 admission, the V41 exception and V44/V45 acquisition status remain governed here.
+V25 is the last fully consumed original. The human Anastasia operation reopens targeted passages in the admitted Japanese main novels. The [human Anastasia fidelity review](../08%20Audits%20and%20Manifests/REZERO_ANASTASIA_HOSHIN_V01_V25_FIDELITY_REVIEW.md) is the route for the actual inspection, independent participation and limits of the local assessment. V01–V43 admission, the V41 exception and V44/V45 acquisition status remain governed here.
 
 The eight whole V19–V26 prospective bodies retain their literal form. V26 remains unopened with 60 questions and 10 forecasts sealed at 2026-11-07T14:56:58.822051Z. Its 24,594 UTF-8 bytes have SHA-256 93182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
 
@@ -1375,4 +1375,18 @@ Subaru’s V01–V25 full publication and integration gate is CLOSED. CI integra
 
 ``````````markdown
 V25 is the last fully consumed original. The Ram operation reopens selected already admitted passages. Its direct Japanese coverage, illustrated position and independent participation are recorded in the [Ram review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V25_FIDELITY_REVIEW.md). V01–V43 admission, the V41 exception and the V44/V45 acquisition boundary remain governed here.
+``````````
+
+### Human Anastasia V01–V25 transaction — exact entering fragments
+
+#### Entering fragment 1
+
+``````````markdown
+Ram’s V01–V25 full publication and integration gate is CLOSED. CI integrated d189f25ab82040a457e3804f5cd067194277fe3d through [PR #625](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/625) at 294f302fbd65d331fdae6d672cdda1e29623a886. Verified main 294f302fbd65d331fdae6d672cdda1e29623a886 retained Re:Zero tree 0cf9597b896ba5a277aada254501efa1b847a805. Subaru and Arc 6 were integrated through PRs #622 and #501.
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+V25 is the last fully consumed original. The Julius operation reopens targeted passages in the admitted Japanese main novels. Its actual text and image inspection and independent participation are reported in the [Julius fidelity review](../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V25_FIDELITY_REVIEW.md). V01–V43 admission, the V41 exception and V44/V45 acquisition status remain governed here.
 ``````````

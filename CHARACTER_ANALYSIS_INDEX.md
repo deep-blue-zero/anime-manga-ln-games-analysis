@@ -32,6 +32,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`legend-of-the-galactic-heroes`](characters/index/legend-of-the-galactic-heroes.md) | 2 |
 | [`maebashi-witches`](characters/index/maebashi-witches.md) | 7 |
 | [`mass-effect`](characters/index/mass-effect.md) | 2 |
+| [`medalist`](characters/index/medalist.md) | 2 |
 | [`monogatari-series`](characters/index/monogatari-series.md) | 5 |
 | [`mushoku-tensei`](characters/index/mushoku-tensei.md) | 13 |
 | [`my-hero-academia`](characters/index/my-hero-academia.md) | 30 |
@@ -47,6 +48,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`shine-post`](characters/index/shine-post.md) | 7 |
 | [`shokugeki-no-soma`](characters/index/shokugeki-no-soma.md) | 17 |
 | [`shuukura`](characters/index/shuukura.md) | 5 |
+| [`silent-witch`](characters/index/silent-witch.md) | 4 |
 | [`solo-leveling`](characters/index/solo-leveling.md) | 5 |
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
@@ -154,6 +156,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Criminal chief (Dust)](characters/index/konosuba.md#dust-criminal-chief) | Original light-novel continuity, bounded character study | `konosuba:dust-criminal-chief@original-light-novel` | — |
 | [Crocodile tissue cover](characters/index/shuukura.md#crocodile-tissue-cover) | Original Japanese light-novel continuity and author supplements | `shuukura:crocodile-tissue-cover@original-light-novel` | — |
 | [Crusch Karsten](characters/index/re-zero.md#crusch-karsten) | Re:Zero main light novel | `re-zero:crusch-karsten@light-novel` | クルシュ・カルステン |
+| [Cyril Ashley](characters/index/silent-witch.md#cyril-ashley) | Silent Witch Japanese light novels | `silent-witch:cyril-ashley@light-novel` | シリル・アシュリー |
 | [Dabi](characters/index/my-hero-academia.md#todoroki-toya) | My Hero Academia manga | `my-hero-academia:todoroki-toya@manga` | Todoroki Toya |
 | [Daniel](characters/index/konosuba.md#daniel) | Fantastic Days novelization, bounded character study | `konosuba:daniel@fantastic-days-novelization` | ダニエル |
 | [Dark Stalker (Yorimichi 4)](characters/index/konosuba.md#yorimichi04-retired-dark-stalker) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi04-retired-dark-stalker@original-light-novel` | — |
@@ -270,8 +273,10 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Iida Tenya](characters/index/my-hero-academia.md#iida-tenya) | My Hero Academia manga | `my-hero-academia:iida-tenya@manga` | — |
 | [Ikumi Mito](characters/index/shokugeki-no-soma.md#ikumi-mito) | Shokugeki no Soma manga | `shokugeki-no-soma:ikumi-mito@manga` | — |
 | [Imagase](characters/index/cornered-mouse.md#imagase) | Japanese manga continuity | `cornered-mouse:imagase@manga` | 今ヶ瀬渉 |
+| [Inori Yuitsuka](characters/index/medalist.md#inori-yuitsuka) | Japanese manga | `medalist:inori-yuitsuka@manga` | 結束いのり; Yuitsuka Inori |
 | [Inuyama Aoi](characters/index/yuru-camp.md#inuyama-aoi) | Japanese manga | `yuru-camp:inuyama-aoi@manga` | 犬山あおい |
 | [Iris](characters/index/konosuba.md#iris) | Original light-novel continuity, accepted Iris cohort 01 | `konosuba:iris@original-light-novel` | アイリス; イリス |
+| [Isaac Walker](characters/index/silent-witch.md#isaac-walker) | Silent Witch Japanese light novels | `silent-witch:isaac-walker@light-novel` | アイザック・ウォーカー; Felix Arc Ridill; Ike; フェリクス・アーク・リディル |
 | [Ito Momiji](characters/index/shine-post.md#ito-momiji) | SHINE POST television anime | `shine-post:ito-momiji@television-anime` | — |
 | [Itsuki Hashima](characters/index/a-sisters-all-you-need.md#itsuki-hashima) | A Sister's All You Need original light novels through Volume 14 | `a-sisters-all-you-need:itsuki-hashima@original-light-novels` | 羽島伊月 |
 | [Izumi Yuzu](characters/index/tomozaki.md#izumi-yuzu) | Bottom-Tier Character Tomozaki light novel | `tomozaki:izumi-yuzu@light-novel` | — |
@@ -357,6 +362,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Little Johnny](characters/index/to-be-hero-x.md#little-johnny) | To Be Hero X animated series | `to-be-hero-x:little-johnny@animated-series` | — |
 | [Lolierina](characters/index/konosuba.md#lolierina) | Original light-novel continuity, scoped current monograph | `konosuba:lolierina@original-light-novel` | ロリエリーナ |
 | [Lolisa](characters/index/konosuba.md#lolisa) | Original light-novel continuity, bounded character study | `konosuba:lolisa@original-light-novel` | ロリーサ |
+| [Louis Miller](characters/index/silent-witch.md#louis-miller) | Silent Witch Japanese light novels | `silent-witch:louis-miller@light-novel` | 結界の魔術師; ルイス・ミラー |
 | [Lucky Cyan](characters/index/to-be-hero-x.md#lucky-cyan) | To Be Hero X animated series | `to-be-hero-x:lucky-cyan@animated-series` | — |
 | [Lucy](characters/index/konosuba.md#lucy) | Original light-novel continuity, bounded expanded cohort | `konosuba:lucy@original-light-novel` | ルーシー |
 | [Luna](characters/index/konosuba.md#luna) | Original light-novel continuity, bounded character study | `konosuba:luna@original-light-novel` | ルナ |
@@ -409,6 +415,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Momo Adachi](characters/index/peach-girl.md#adachi-momo) | Japanese manga | `peach-girl:adachi-momo@manga` | 安達もも; Adachi Momo |
 | [Momoi](characters/index/blue-archive.md#momoi) | Blue Archive game | `blue-archive:momoi@game` | — |
 | [Momono](characters/index/shiboyugi.md#momono) | Japanese light-novel continuity | `shiboyugi:momono@light-novel` | 桃乃 |
+| [Monica Everett](characters/index/silent-witch.md#monica-everett) | Silent Witch Japanese light novels | `silent-witch:monica-everett@light-novel` | Monica Rain; 沈黙の魔女; モニカ・エヴァレット; モニカ・ノートン |
 | [Motoya Kitsukawa](characters/index/kamakura-sho.md#motoya-kitsukawa) | Original Japanese novel continuity | `kamakura-sho:motoya-kitsukawa@original-novel` | きつかわ もとや; 吉川元哉 |
 | [Mutsuki](characters/index/blue-archive.md#mutsuki) | Blue Archive game | `blue-archive:mutsuki@game` | — |
 | [Myne](characters/index/ascendance-of-a-bookworm.md#myne) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:myne@light-novel` | — |
@@ -587,6 +594,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Totsuki Sheena](characters/index/kimishinu.md#totsuki-sheena) | KimiShinu manga through Volume 9 and side stories | `kimishinu:totsuki-sheena@manga-v09-side-stories` | トツキ・シーナ |
 | [Toya](characters/index/project-sekai.md#toya) | Project SEKAI game — Vivid BAD SQUAD | `project-sekai:toya@game` | — |
 | [Tsukasa](characters/index/project-sekai.md#tsukasa) | Project SEKAI game — Wonderlands×Showtime | `project-sekai:tsukasa@game` | — |
+| [Tsukasa Akeuraji](characters/index/medalist.md#tsukasa-akeuraji) | Japanese manga | `medalist:tsukasa-akeuraji@manga` | 明浦路司; Akeuraji Tsukasa |
 | [Tsukasa Eishi](characters/index/shokugeki-no-soma.md#tsukasa-eishi) | Shokugeki no Soma manga | `shokugeki-no-soma:tsukasa-eishi@manga` | — |
 | [Tsunomori Rona](characters/index/tokyo-7th-sisters.md#tsunomori-rona) | Tokyo 7th Sisters game | `tokyo-7th-sisters:tsunomori-rona@game` | — |
 | [Tuan Kirie](characters/index/harmony.md#tuan-kirie) | Original novel, bounded comparative ethics | `harmony:tuan-kirie@original-novel` | — |

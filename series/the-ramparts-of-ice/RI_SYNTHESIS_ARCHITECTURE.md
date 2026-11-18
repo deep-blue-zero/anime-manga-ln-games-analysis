@@ -4,7 +4,7 @@ series: the-ramparts-of-ice
 artifact_id: RI_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: RI-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL colour-tankobon longitudinal architecture and derived-use contract"
 source_boundary: "Japanese full-colour tankobon volumes 01-14 metadata verified; no narrative admission or inspection"
@@ -73,15 +73,25 @@ Future `readings/` contains each volume's substantial argument. `checkpoints/` f
 | Acoustic/scroll/adaptation claims | Excluded | Not applicable until separate source/assignment |
 | Incidental detail | Local reading only | No persistent class without retrieval need |
 
+### Independent colour and page reading
+
+For each future authorized reading of a full-colour tankobon volume, the principal verifies the locked witness and the Japanese page-inspection route for each assignment, reads the full unit, and owns its single source-facing interpretation. Give the independent specialist the same colour render and full page context. Have them compare a consequential shift in palette, viewpoint or spatial grouping with the local lighting and routine rendering. Tie the proposed effect and its strongest rival to exact page regions and a person’s action or response. If adequate inspection finds no consequential shift, the specialist records that source-grounded no-material-change result with the pages inspected and takes another dimension the volume’s evidence warrants, such as directed relationships, ordinary conduct or Japanese expression; the transaction records the reason.
+
+A separate reviewer reopens the marked sequence and a diagnostic comparison. Test whether colour or a withheld face carries the proposed emotional inference, and whether Japanese wording or a supporting person's ordinary conduct limits it. Beyond that sequence, challenge representative material claims across the reading: source attribution, locators, temporal boundaries, character states, missing counterexamples and information lost during integration. Restrict visual comparisons to the admitted collected edition. The specialist forms an account in a separate context before seeing the principal’s draft. Where practicable the reviewer inspects the evidence before seeing either account. Record prior exposure, freeze predictions before revealing the outcome and identify any findings that lose independent or prospective credit after exposure.
+
+Use the volume’s ledger-update manifest, linking the relevant visual-form observations, subject states and claim revisions to record participants, assignments, the actual separation of their execution contexts, actual access and horizon, the pages each participant actually inspected, located observations, alternatives, review challenges and each participant’s unresolved evidence obligations. The principal records the reason to adopt, qualify, reject or leave each material finding open, preserves diagnostic evidence in the reading, and reconciles the shared records once. Check coverage, findings and cumulative state before closing the transaction. Interpretive roles start at `SUBSTANTIVE_ANALYSIS` and escalate individually for difficult or propagation-sensitive judgments. The standing team has distinct specialist and reviewer contexts. Record a capability blocker at the entrypoint and hold acceptance and frontier advance if the required access or independence is unavailable. [Source-reading policy](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading)
+
 ## 5. Substantive studies
 
-A person earns a monograph through a distinct developmental question with sufficient state/context/relationship evidence, not fame or appearance count. A directed relationship study needs independent evidence for each side, consequential change and an explanatory question. A small case may remain a bounded section instead of an empty standalone document.
+Assess individual portraits at the qualification gate below. A directed relationship study needs independent evidence for each side, consequential change and an explanatory question. A small case may remain a bounded section instead of an empty standalone document.
 
 The mature corpus must account for character/causality, relationships, ordinary/contextual behavior, Japanese expression and colour/page form. The colour/form responsibility is mandatory because the supplied edition is the evidence object; it does not require an isolated document if substantial integrated sections adequately explain it. A specialist becomes necessary where independent recurring questions cannot be responsibly absorbed. Role-gap review records exact carrying sections and a reason when separate specialists are unnecessary.
 
 Formal interpretation must connect observed colour/layout features to narrative effect while testing lighting, routine palette, viewpoint and edition-design alternatives. The character argument must retain self-report versus conduct, ordinary versus crisis context, actual development versus new disclosure and counterexamples. An integrated synthesis reconciles these arguments; it cannot simply append a visual appendix to a psychology summary.
 
 No universal word cap applies. Accept depth by preserved causal mechanisms, inferential warrants, significant evidence, competing explanations, names, directionality, temporal state and limits. Compare full transferred versions for lost substance. Ledgers are retrieval apparatus, not miniature substitutes for mature prose.
+
+At character and specialist readiness, record each assessed person as a Qualification record in the person/relationship ledger. Assess differentiated behavior across contexts or within a concentrated sequence, including supporting characters and counterexamples. Record identity, source boundary, outcome, rationale, gaps, next review trigger and the portrait path once it exists. A qualified subject earns a standalone `studies/RI_<subject>_MONOGRAPH.md`. Carry outstanding portraits through synthesis and release reviews. Reassess on material evidence changes. Check the portrait alone for a usable account of the person, then test fidelity separately against diagnostic source evidence, and reference both results from the qualification record. [Individual monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)
 
 ## 6. Reconciliation and completion gates
 
@@ -133,6 +143,7 @@ Current entry/method/architecture and current indexes are mutable by targeted ed
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL colour-tankobon architecture, single-home artbook boundary and no narrative claims |
 | 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the local method; colour-tankobon/source boundaries, full analytical duties and CLOSED lock retained |
+| 1.2 | 2026-11-17 | Assigned independent source reading and reconciliation, and the qualification and acceptance route for individual portraits. |
 
 ## 9. Execution and retrieval
 

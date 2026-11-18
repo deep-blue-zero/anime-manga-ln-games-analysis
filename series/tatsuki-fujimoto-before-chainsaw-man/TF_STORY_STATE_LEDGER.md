@@ -42,6 +42,8 @@ All narrative records require a verified collection/story key. No collective “
 
 **Situated expression/behavior:** `work/sample_id | subject | interlocutor/audience | scene/state/horizon | ORDINARY/CRISIS/MIXED | diagnostic_opportunity | shown_behavior/inaction | speech/thought/narration/effect_layer | attribution_confidence | brief_Japanese_form/labeled_gloss_if_needed | register/pragmatic_feature | baseline/exception | claims/reading/locators`. A silent sample need not contain text. Missing opportunity is GAP, not negative evidence. Keep private thought distinct from public speaking habits.
 
+**Qualification:** `collection/story/subject_key | assessment_boundary | QUALIFIED_PENDING/COMPLETE_AT_BOUNDARY/DEFERRED_EVIDENCE/REASSESS_AFTER_REVISION | source_grounded_rationale | largest_gaps | next_review_trigger | monograph_path_or_NONE | self_containment_review_ref | fidelity_review_ref | prior_record`. A changed outcome appends a new record; the monograph path is added only once a real document exists.
+
 All record sets contain zero rows. IDs are assigned only when evidence exists, never from marketing summaries.
 
 ## Updates and historical preservation

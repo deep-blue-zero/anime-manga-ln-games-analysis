@@ -4,7 +4,7 @@ series: look-back
 artifact_id: CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 generation: LB-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "Single INITIAL bootstrap route; no narrative authority or run authorization"
 source_boundary: "One Japanese standalone manga EPUB, metadata verified; narrative admission and inspection NONE"
@@ -49,5 +49,7 @@ One Japanese EPUB is metadata-verified and uninspected. No narrative unit is adm
 No reading, monograph, synthesis, character model or simulation exists. The reconstruction pathway is intended but NOT_READY. Other Fujimoto works and adaptations are excluded.
 
 The next permitted work is independent foundation review, supported bootstrap repairs and repository validation. Reading requires a separate owner-defined standalone run, source/gate verification and consistent OPEN transition. Publication cannot authorize it. Future execution uses verified STILL_IMAGE plus Japanese TEXT; this bootstrap verified metadata access only.
+
+For future authorized source readings, the [standing configuration](LB_SYNTHESIS_ARCHITECTURE.md#independent-reading-within-scene-frontiers) assigns independent evidence work, critical review and reconciliation in the existing transaction.
 
 Resume from this entrypoint, method/architecture and relevant initialized homes, then live governance. The architecture names stage owners, stable reasoning classes and evidence/handoff obligations; no conversation history is needed to infer the source boundary.

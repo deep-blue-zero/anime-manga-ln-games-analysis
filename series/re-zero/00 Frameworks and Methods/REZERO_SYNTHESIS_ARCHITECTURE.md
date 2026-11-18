@@ -2,11 +2,11 @@
 series: RE_ZERO
 artifact_type: synthesis_architecture
 scope: JAPANESE_LIGHT_NOVEL_PROSPECTIVE_LONGITUDINAL_AND_SYNTHESIS_ARCHITECTURE
-generation: V1.57
+generation: V1.58
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
-source_boundary: "Japanese main LN V01–V43 admitted. Integrated V25 has 777 claims. Subaru and Ram are integrated. Julius is implemented under its own gate before four further person operations and sealed V26."
+source_boundary: "Japanese main LN V01–V43 admitted. Integrated V25 has 777 claims. Subaru, Ram and Julius are integrated. The first human Anastasia model is implemented under its own gate before three further person operations and sealed V26."
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 pro_justification: "Propagation-sensitive architecture repair: this routing governs every later Re:Zero volume transaction and synthesis layer."
@@ -23,11 +23,11 @@ The method, source lock, witness protocol and repository policy govern this arch
 
 V25 remains the last integrated numbered source through PR #498, with 777 narrative claims. E046 survives displacement and ends on an unnamed plain with awake Rem and physical Louis. The working derivation retains 45 Subaru deaths and 46 reached segments. SOURCE_COUNT_TENSION remains open for the seventeenth reunion, fifteen additional deaths, twenty-two post-loss deaths and total forty.
 
-Ram’s V01–V25 full publication and integration gate is CLOSED. CI integrated d189f25ab82040a457e3804f5cd067194277fe3d through [PR #625](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/625) at 294f302fbd65d331fdae6d672cdda1e29623a886. Verified main 294f302fbd65d331fdae6d672cdda1e29623a886 retained Re:Zero tree 0cf9597b896ba5a277aada254501efa1b847a805. Subaru and Arc 6 were integrated through PRs #622 and #501.
+Julius’s V01–V25 full publication and integration gate is CLOSED. CI integrated e6ecb65c6da49fb381862d20c7691008681a78ed through [PR #629](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/629) at 10cbf06825d4e93c3d8c79490ab7929f6f8ba532. Verified main 10cbf06825d4e93c3d8c79490ab7929f6f8ba532 retained Re:Zero tree 1a46ad639becd2b2a448477187eea595004d1b4f. Arc 6, Subaru and Ram were integrated through PRs #501, #622 and #625.
 
-The [Julius V01–V25 model](../05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V25_FIDELITY_REVIEW.md) implement Julius’s V01–V25 successor. The local documentary result is PASS_WITH_BOUND across nineteen dimensions after independent Japanese-source review. His default is V25_E046_AFTER_ROY_CUSTODY_DELIBERATION_LATER_SHADOW_OUTCOME_UNSHOWN. Julius has renewed his service to human Anastasia and supported keeping Roy alive for questioning. His public name, Joshua’s episodes and his location after the later shadow remain unresolved. The Julius publication and integration gate is pending.
+The [human Anastasia V01–V25 model](../05%20Character%20Analysis/REZERO_ANASTASIA_HOSHIN_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_ANASTASIA_HOSHIN_V01_V25_FIDELITY_REVIEW.md) cover the first human Anastasia V01–V25 model. Local documentary PASS_WITH_BOUND. Her default is V25_E046_RETURNED_HUMAN_AFTER_ROY_DELIBERATION_LATER_POSITION_UNSHOWN. She chooses Julius again without their earlier shared episodes, contributes to Roy’s custody decision and then reports on Rem. The later shadow leaves her position unshown. Her full publication and integration gate is pending.
 
-Close JULIUS_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order. Each person requires an applied review and a full publication and integration gate. After those four gates, open the original sealed V26 horizon and continue through V43 and the terminal architecture, state, readiness and acquisition review. CI owns merges.
+Close ANASTASIA_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order. Each person requires an applied fidelity review and a full publication and integration gate. After those three gates, open the original sealed V26 horizon, continue through V43 and complete the terminal architecture, state, readiness and acquisition review. CI owns merges.
 
 ## 1. Purpose and governed scope
 
@@ -274,7 +274,7 @@ Current V16 person responsibility: Ten prior model/review pairs including Crusch
 
 ### Literary portrait qualification and operational reconstruction
 
-Master §13 records character, authorized witness scope, qualification evidence, limitations and reassessment point. A self-contained literary portrait develops a sustained interpretation in relation to the original source. The operational model governs conditional action, knowledge, voice and abstention. A fidelity assessment applies the defined responsibilities to a saved artifact, with observed independent work stated at its actual scope. Master §13 currently routes the Subaru, Ram and Julius qualifications and implementations.
+Master §13 records character, authorized witness scope, qualification evidence, limitations and reassessment point. A self-contained literary portrait develops a sustained interpretation in relation to the original source. The operational model governs conditional action, knowledge, voice and abstention. A fidelity assessment applies the defined responsibilities to a saved artifact, with observed independent work stated at its actual scope. Master §13 routes the Subaru, Ram, Julius and human Anastasia qualifications and their separate operational reconstructions.
 
 ## 11. Specialist synthesis responsibilities
 
@@ -341,14 +341,14 @@ Claim/evidence stabilization precedes any synthesis that depends on the disputed
 | Route/event-state | local state, trigger, outcome, durability, carry-forward | `04 Longitudinal Ledgers/REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` | memory/continuity or mechanics specialist if earned | V25 has a working cumulative derivation of45 Subaru deaths and46 reached analytical segments, with E046 continuing alive on an unnamed plain. Four new terminal scenes are selected individually and eleven are compressed in the stated fifteen-death sequence. SOURCE_COUNT_TENSION remains OPEN for the seventeenth reunion, twenty-two post-loss deaths and total forty wording. |
 | Knowledge/asymmetry | holder, source, confidence, nonholder, disclosure, false belief, consequence | `04 Longitudinal Ledgers/REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` | relationship, agency, and continuity syntheses | K001–1092 selects actual restored memories, continued missing recognition and private versus received information. |
 | Relationships | each party's remembered history, trust, disclosure, dependency, power | `04 Longitudinal Ledgers/REZERO_RELATIONSHIP_CONTINUITY_LEDGER.md` | character monographs; dyadic/ensemble synthesis if earned | R001–219 and RT001–675 with207 individual current decisions and600 individual dated native-history dispositions. |
-| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | The V25 ledgers record bodies, memory, costs and last observed acts. The character directory selects 29 source-bounded model scopes, including integrated Subaru and Ram and the implemented Julius V01–V25 successor. Each earlier model retains its own horizon and selector. |
+| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | The V25 ledgers distinguish body, controlling speaker, received testimony and last observed acts. The directory selects 30 source-bounded model scopes, including the first human Anastasia scope. The scarf operator retains her distinct V20–V22 scope. |
 | Institutions/factions/power | rule/doctrine, actor behavior, capacity, resources, status, coercion | `04 Longitudinal Ledgers/REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` | institutional/political specialist if earned | I001–589 records completed Trials, human return, chosen and imposed support and planned sealed custody. |
 | Mechanics/world model | speaker theory, observation, cost, exception, corroboration | `04 Longitudinal Ledgers/REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md` | mechanics/metaphysics specialist if earned | M001–695 separates performed burden transfer, new contracts, host limits, survival and explicit source tensions. |
 | Ordinary life/preferences | only model-diagnostic routines, tastes, labor, comfort, low-stakes conduct | master ledger ordinary-life table | character/relationship or ordinary-life specialist if earned | Named drawing contributions, particular tickling, practiced contact, chosen manners and individual waiting. |
 | Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis | Masked heart, count and contract wording, actual human and fox speakers and Rem identity question. |
 | Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | The incoming V25 body remains literal. The complete V26 horizon is sealed at 24594 bytes, SHA256 `93182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1` after actual V25 saved-content acceptance. [V25 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V25_DEEP_READING.md) |
 | Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | RZ-MAIN-LN-JA-V25 has3251519 bytes, SHA256 `8101e27bee57dc954e80642976ccb35ad5c9a6cfc771b8b6e0a4f0637edb1804`,62 ZIP entries and CRC PASS. All28 OPF members and5416 positions were actually attended in57 offers, including5375 written positions and41 image placements from25 distinct original assets. All2279 contextual ruby groups,3028 labels and twelve original NCX destinations were checked. Independent raw text, ruby, image and navigation correspondence passed. Tiny jacket print is resolution-limited. |
-| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Master §13 owns qualification and scoped readiness. Subaru and Ram are integrated through PRs #622 and #625. The [Julius V01–V25 model](../05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V25_FIDELITY_REVIEW.md) implement the third Arc 6 person operation. Four earned operations follow the Julius gate. |
+| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Master §13 owns scoped readiness. Subaru, Ram and Julius have closed full gates through PRs #622, #625 and #629. The [human Anastasia V01–V25 model](../05%20Character%20Analysis/REZERO_ANASTASIA_HOSHIN_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_ANASTASIA_HOSHIN_V01_V25_FIDELITY_REVIEW.md) concern the fourth Arc 6 person operation. Local documentary PASS_WITH_BOUND. Louis, Shaula and manifested Reid follow the human Anastasia gate. |
 | Supplemental/IF/WN | catalog awareness only; no opening until admission and safe horizon | supplemental catalog + source lock + witness protocol; later witness-specific reading | bounded cross-witness specialist | no separately admitted witness; V09 internal escape-family fragment remains MAIN_LN-container/local-premise evidence |
 | Anime/adaptation | no observation until source admission | adaptation source lock/readings when created | adaptation specialists and bounded comparison | `NO_WITNESS_ADMITTED` |
 
@@ -701,9 +701,9 @@ Conversational memory never advances state. A drafted file, local commit, push s
 
 ### Current V25 derived-use recovery binding
 
-Ram’s V01–V25 full publication and integration gate is CLOSED. CI integrated d189f25ab82040a457e3804f5cd067194277fe3d through [PR #625](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/625) at 294f302fbd65d331fdae6d672cdda1e29623a886. Verified main 294f302fbd65d331fdae6d672cdda1e29623a886 retained Re:Zero tree 0cf9597b896ba5a277aada254501efa1b847a805. Subaru and Arc 6 were integrated through PRs #622 and #501.
+Julius’s V01–V25 full publication and integration gate is CLOSED. CI integrated e6ecb65c6da49fb381862d20c7691008681a78ed through [PR #629](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/629) at 10cbf06825d4e93c3d8c79490ab7929f6f8ba532. Verified main 10cbf06825d4e93c3d8c79490ab7929f6f8ba532 retained Re:Zero tree 1a46ad639becd2b2a448477187eea595004d1b4f. Arc 6, Subaru and Ram were integrated through PRs #501, #622 and #625.
 
-Close JULIUS_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order. Each person requires an applied review and a full publication and integration gate. After those four gates, open the original sealed V26 horizon and continue through V43 and the terminal architecture, state, readiness and acquisition review. CI owns merges.
+Close ANASTASIA_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order. Each person requires an applied fidelity review and a full publication and integration gate. After those three gates, open the original sealed V26 horizon, continue through V43 and complete the terminal architecture, state, readiness and acquisition review. CI owns merges.
 
 ## 19. Initial repair decision
 
@@ -1607,11 +1607,11 @@ V22 is source-complete and separately saved-content accepted at537claims:467indi
 
 V25 remains the last integrated numbered source through PR #498, with 777 narrative claims. E046 survives displacement and ends on an unnamed plain with awake Rem and physical Louis. The working derivation retains 45 Subaru deaths and 46 reached segments. SOURCE_COUNT_TENSION remains open for the seventeenth reunion, fifteen additional deaths, twenty-two post-loss deaths and total forty.
 
-Ram’s V01–V25 full publication and integration gate is CLOSED. CI integrated d189f25ab82040a457e3804f5cd067194277fe3d through [PR #625](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/625) at 294f302fbd65d331fdae6d672cdda1e29623a886. Verified main 294f302fbd65d331fdae6d672cdda1e29623a886 retained Re:Zero tree 0cf9597b896ba5a277aada254501efa1b847a805. Subaru and Arc 6 were integrated through PRs #622 and #501.
+Julius’s V01–V25 full publication and integration gate is CLOSED. CI integrated e6ecb65c6da49fb381862d20c7691008681a78ed through [PR #629](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/629) at 10cbf06825d4e93c3d8c79490ab7929f6f8ba532. Verified main 10cbf06825d4e93c3d8c79490ab7929f6f8ba532 retained Re:Zero tree 1a46ad639becd2b2a448477187eea595004d1b4f. Arc 6, Subaru and Ram were integrated through PRs #501, #622 and #625.
 
-The [Julius V01–V25 model](../05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V25_FIDELITY_REVIEW.md) implement Julius’s V01–V25 successor. The local documentary result is PASS_WITH_BOUND across nineteen dimensions after independent Japanese-source review. His default is V25_E046_AFTER_ROY_CUSTODY_DELIBERATION_LATER_SHADOW_OUTCOME_UNSHOWN. Julius has renewed his service to human Anastasia and supported keeping Roy alive for questioning. His public name, Joshua’s episodes and his location after the later shadow remain unresolved. The Julius publication and integration gate is pending.
+The [human Anastasia V01–V25 model](../05%20Character%20Analysis/REZERO_ANASTASIA_HOSHIN_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_ANASTASIA_HOSHIN_V01_V25_FIDELITY_REVIEW.md) cover the first human Anastasia V01–V25 model. Local documentary PASS_WITH_BOUND. Her default is V25_E046_RETURNED_HUMAN_AFTER_ROY_DELIBERATION_LATER_POSITION_UNSHOWN. She chooses Julius again without their earlier shared episodes, contributes to Roy’s custody decision and then reports on Rem. The later shadow leaves her position unshown. Her full publication and integration gate is pending.
 
-Close JULIUS_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order. Each person requires an applied review and a full publication and integration gate. After those four gates, open the original sealed V26 horizon and continue through V43 and the terminal architecture, state, readiness and acquisition review. CI owns merges.
+Close ANASTASIA_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order. Each person requires an applied fidelity review and a full publication and integration gate. After those three gates, open the original sealed V26 horizon, continue through V43 and complete the terminal architecture, state, readiness and acquisition review. CI owns merges.
 
 The eight whole V19–V26 prospective bodies retain their literal form. V26 remains unopened with 60 questions and 10 forecasts sealed at 2026-11-07T14:56:58.822051Z. Its 24,594 UTF-8 bytes have SHA-256 93182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
 
@@ -2616,4 +2616,72 @@ Close RAM_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute JULIUS_V01_V25
 
 ``````````markdown
 The current Subaru and Ram qualifications and implementations are routed by master §13.
+``````````
+
+### Human Anastasia V01–V25 transaction — exact entering fragments
+
+#### Entering fragment 1
+
+``````````markdown
+Ram’s V01–V25 full publication and integration gate is CLOSED. CI integrated d189f25ab82040a457e3804f5cd067194277fe3d through [PR #625](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/625) at 294f302fbd65d331fdae6d672cdda1e29623a886. Verified main 294f302fbd65d331fdae6d672cdda1e29623a886 retained Re:Zero tree 0cf9597b896ba5a277aada254501efa1b847a805. Subaru and Arc 6 were integrated through PRs #622 and #501.
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+The [Julius V01–V25 model](../05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V25_FIDELITY_REVIEW.md) implement Julius’s V01–V25 successor. The local documentary result is PASS_WITH_BOUND across nineteen dimensions after independent Japanese-source review. His default is V25_E046_AFTER_ROY_CUSTODY_DELIBERATION_LATER_SHADOW_OUTCOME_UNSHOWN. Julius has renewed his service to human Anastasia and supported keeping Roy alive for questioning. His public name, Joshua’s episodes and his location after the later shadow remain unresolved. The Julius publication and integration gate is pending.
+``````````
+
+#### Entering fragment 3
+
+``````````markdown
+Close JULIUS_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order. Each person requires an applied review and a full publication and integration gate. After those four gates, open the original sealed V26 horizon and continue through V43 and the terminal architecture, state, readiness and acquisition review. CI owns merges.
+``````````
+
+#### Entering fragment 4
+
+``````````markdown
+| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Master §13 owns qualification and scoped readiness. Subaru and Ram are integrated through PRs #622 and #625. The [Julius V01–V25 model](../05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V25_FIDELITY_REVIEW.md) implement the third Arc 6 person operation. Four earned operations follow the Julius gate. |
+``````````
+
+#### Entering fragment 5
+
+``````````markdown
+| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | The V25 ledgers record bodies, memory, costs and last observed acts. The character directory selects 29 source-bounded model scopes, including integrated Subaru and Ram and the implemented Julius V01–V25 successor. Each earlier model retains its own horizon and selector. |
+``````````
+
+#### Entering fragment 6
+
+``````````markdown
+Ram’s V01–V25 full publication and integration gate is CLOSED. CI integrated d189f25ab82040a457e3804f5cd067194277fe3d through [PR #625](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/625) at 294f302fbd65d331fdae6d672cdda1e29623a886. Verified main 294f302fbd65d331fdae6d672cdda1e29623a886 retained Re:Zero tree 0cf9597b896ba5a277aada254501efa1b847a805. Subaru and Arc 6 were integrated through PRs #622 and #501.
+``````````
+
+#### Entering fragment 7
+
+``````````markdown
+The [Julius V01–V25 model](../05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V25_FIDELITY_REVIEW.md) implement Julius’s V01–V25 successor. The local documentary result is PASS_WITH_BOUND across nineteen dimensions after independent Japanese-source review. His default is V25_E046_AFTER_ROY_CUSTODY_DELIBERATION_LATER_SHADOW_OUTCOME_UNSHOWN. Julius has renewed his service to human Anastasia and supported keeping Roy alive for questioning. His public name, Joshua’s episodes and his location after the later shadow remain unresolved. The Julius publication and integration gate is pending.
+``````````
+
+#### Entering fragment 8
+
+``````````markdown
+Close JULIUS_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order. Each person requires an applied review and a full publication and integration gate. After those four gates, open the original sealed V26 horizon and continue through V43 and the terminal architecture, state, readiness and acquisition review. CI owns merges.
+``````````
+
+#### Entering fragment 9
+
+``````````markdown
+Ram’s V01–V25 full publication and integration gate is CLOSED. CI integrated d189f25ab82040a457e3804f5cd067194277fe3d through [PR #625](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/625) at 294f302fbd65d331fdae6d672cdda1e29623a886. Verified main 294f302fbd65d331fdae6d672cdda1e29623a886 retained Re:Zero tree 0cf9597b896ba5a277aada254501efa1b847a805. Subaru and Arc 6 were integrated through PRs #622 and #501.
+``````````
+
+#### Entering fragment 10
+
+``````````markdown
+Close JULIUS_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order. Each person requires an applied review and a full publication and integration gate. After those four gates, open the original sealed V26 horizon and continue through V43 and the terminal architecture, state, readiness and acquisition review. CI owns merges.
+``````````
+
+#### Entering fragment 11
+
+``````````markdown
+Master §13 currently routes the Subaru, Ram and Julius qualifications and implementations.
 ``````````
