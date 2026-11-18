@@ -4,7 +4,7 @@ artifact_id: WATAYURI_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -70,7 +70,7 @@ A third reader reopens the diagnostic sequence and tests who could see or hear e
 
 Include the assignments, how each reader's execution context or session was kept separate from the principal's and the other reader's, actual source access, material findings and review challenges in the frozen VNN receipt. For every material divergence the principal records a reason to accept, qualify, decline or defer it, then links affected proposition, performance, directed relationship and revision IDs. Update each cumulative home once. Review coverage, unresolved evidence and the receipt before closure. The existing reasoning classes apply by role and complexity. Missing required access or independence holds acceptance at the current frontier.
 
-At the next authorized cast review, use the cast and reconstruction readiness ledger to record each assessed person's horizon, qualification decision and reasons, gaps, review trigger and portrait route. Differentiated behavior in a concentrated public/private transition can qualify a supporting person. Track each qualified subject to a standalone portrait and test whether it explains their conduct unaided, then check the claims separately against diagnostic pages. Keep behavior-model validation under the reconstruction specification.
+At the next authorized cast review, use the cast and reconstruction readiness ledger to record each assessed person's horizon, qualification decision and reasons, gaps, review trigger and portrait route. Differentiated behavior in a concentrated public/private transition can qualify a supporting person. For each qualified subject use `04 Character Analysis/WATAYURI_<cast-id>_CHARACTER_MONOGRAPH.md`, with `<cast-id>` replaced by the exact stable local subject ID in the cast and reconstruction readiness ledger. Café roles, public names and private identities follow that subject’s evidence-bounded identity record. Record the actual path in the ledger when the portrait is produced. Test whether the portrait explains the subject’s conduct unaided, then check its claims separately against diagnostic pages. Keep behavior-model validation under the reconstruction specification.
 
 [Source-reading configurations](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) · [Individual monograph acceptance](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)
 
