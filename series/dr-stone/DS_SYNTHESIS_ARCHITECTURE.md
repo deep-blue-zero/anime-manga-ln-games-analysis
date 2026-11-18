@@ -2,7 +2,7 @@
 title: "Dr. STONE — Synthesis Architecture"
 artifact_id: DS_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -113,7 +113,7 @@ A change in causal interpretation reviews affected capability, character/group/r
 
 ## 8. Monographs and specialist integration
 
-Apply the [character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) to every subject with differentiated evidence, including supporting characters and concentrated sequences. Record identity, frontier, outcome, source grounds, gaps and reassessment trigger in `DS-RG` at the character/specialist readiness gate. Reassess after material new evidence. Each qualifying subject requires a self-contained portrait under `studies/` that explains the person's knowledge, contributions and ordinary relationships alongside the limits of attributed capability. Add its actual path and record separate self-containment and fidelity reviews. Carry outstanding portraits through synthesis readiness and release. Qualified portraits integrate behavior, motivation/rivals, development, language, graphic presentation and literary function. They cannot become competence rankings or accomplishment chronologies.
+Apply the [character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) to every subject with differentiated evidence, including supporting characters and concentrated sequences. Record identity, frontier, outcome, source grounds, gaps and reassessment trigger in `DS-RG` at the character/specialist readiness gate. Reassess after material new evidence. Each qualifying subject requires a self-contained portrait at `studies/DS_<subject-key>_MONOGRAPH.md`. Use the complete `DS-S-nnnn` key of the person's first source-established subject/state record in [the character ledger](CHARACTER_GROUP_AND_RELATIONSHIP_LEDGER.md) as the permanent filename key. Later state records and aliases refer back to that key. The portrait must explain the person's knowledge, contributions and ordinary relationships alongside the limits of attributed capability. Add its actual path and record separate self-containment and fidelity reviews. Carry outstanding portraits through synthesis readiness and release. Qualified portraits integrate behavior, motivation/rivals, development, language, graphic presentation and literary function. They cannot become competence rankings or accomplishment chronologies.
 
 A relationship/group study earns an independent home when directed ties, distributed labor, obligation, authority or institutional conditions need sustained analysis beyond a single subject. Claims about contribution, loyalty or group purpose require evidence and contrary cases.
 
@@ -195,3 +195,4 @@ Stress review with a claimed mechanism whose intermediate steps are omitted, a g
 - **2026-11-13 — v1.1:** Linked the local-method current-unit synopsis duty under initiation policy §5.3. Explanation/demonstration/external-truth distinctions, separate fanbook scope, full literary/register obligations, INITIAL lifecycle and CLOSED authorization remain intact.
 
 - **2026-11-17 — v1.2.** Assigned independent source-reading responsibilities and evidence reconciliation, and routed source-bounded character qualification to the existing role-gap record.
+- **2026-11-17 — v1.3.** Specified the permanent individual portrait path from the source-established subject/state key.
