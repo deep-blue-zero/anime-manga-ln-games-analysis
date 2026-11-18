@@ -4,7 +4,7 @@ artifact_id: "MT_SERIES_ARCHITECTURE"
 artifact_type: "synthesis_corpus_architecture"
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -79,7 +79,7 @@ series/mushoku-tensei/
     MT_FORM_THEMES_AND_WORLD_LEDGER.md
   04 Character Analysis/
     <verified-local-character-key>/
-      CHARACTER_MONOGRAPH.md
+      CHARACTER_MONOGRAPH_V<first>_V<last>.md
       RECONSTRUCTION_MODEL.md
       EVIDENCE_INDEX.md
       [STATE_HISTORY.md only if independently useful]
@@ -167,7 +167,7 @@ A checkpoint must assess durable changes, failed predictions, unresolved alterna
 
 Open a living model once repeated or uniquely diagnostic evidence supports a useful bounded response model. Do not require a full-series monograph before useful local reconstruction. Do require enough ordinary and relationship-conditioned behavior for any claimed domain of readiness.
 
-Assess literary portrait qualification in the character state and readiness ledger at specialist readiness and after material changes. Apply initiation policy §5.5.1 to every subject with differentiated evidence, including secondary characters. Converging evidence from one concentrated sequence may suffice when behavior varies by situation or interlocutor and counterevidence constrains the account. Record identity, source boundary, outcome, reasons and largest gaps, next trigger and path when a portrait exists. As an established project, Mushoku Tensei records its first decisions when it next enters character or specialist synthesis or reaches its next architecture review checkpoint (initiation §10); until then an unassessed character is neither qualified nor rejected. Carry qualified pending portraits into synthesis and release. Each qualifying person receives an independently usable document under `04 Character Analysis/<person>/` following the existing character-monograph naming pattern. Record separately the monograph-only question check and the source-fidelity review. The ledger's operational model and test states remain separate.
+Assess literary portrait qualification in the character state and readiness ledger at specialist readiness and after material changes. Apply initiation policy §5.5.1 to every subject with differentiated evidence, including secondary characters. Converging evidence from one concentrated sequence may suffice when behavior varies by situation or interlocutor and counterevidence constrains the account. Record identity, source boundary, outcome, reasons and largest gaps, next trigger and path when a portrait exists. As an established project, Mushoku Tensei records its first decisions when it next enters character or specialist synthesis or reaches its next architecture review checkpoint (initiation §10); until then an unassessed character is neither qualified nor rejected. Carry qualified pending portraits into synthesis and release. For a qualified person, use `04 Character Analysis/<verified-local-character-key>/CHARACTER_MONOGRAPH_V<first>_V<last>.md`. Use the first and last admitted numbered Japanese LN volumes covered by the portrait, each padded to at least two digits; a one-volume portrait repeats its number. Correct or revise the same file at the same boundary. A broader accepted scope gets its own boundary-suffixed file, and the character readiness ledger and entrypoint identify the single accepted portrait for the current boundary. Rudeus’s existing `rudeus/CHARACTER_MONOGRAPH.md` is the canonical V01–V10 account for retrieval at that historical boundary. `rudeus/CHARACTER_MONOGRAPH_V01_V15.md` is the current portrait at V15. The latter extends the former; both keep their original identity and metadata. Record separately the monograph-only question check and the source-fidelity review. The ledger's operational model and test states remain separate.
 
 Anticipated specialists include narrative voice/reader alignment; continuity, embodiment, and the second life; family and generational responsibility; intimacy and power; competence and social circumstances; world/institutional constraints; and recurrence, genre, and form. These are **possible responsibilities**, not assertions about what the series proves. Promote, merge, or drop them at checkpoints. Textual history and reception are distinct specialists once their sources are admitted.
 
@@ -221,7 +221,7 @@ Maintained documents receive targeted patches against verified current contents.
 
 A new analytical dimension justifies an architecture change when recurring evidence or independent retrieval demands it. State why existing homes are inadequate, which prior material needs backfill, and what will not be reread. Changes affecting a central premise require dependent specialists to be reviewed, not merely an appended disclaimer.
 
-**Source-reading and portrait amendment, 2026-11-17.** Topology §4.1.8 requires this established project to record its standing multi-agent configuration before its next source reading, and initiation §5.5.1 adds individual portrait qualification. Section 7 now records the standing assignments; method §12 and template section M carry their closure record; Sections 8 and 10 and the reconstruction specification route qualification and separate literary portrait acceptance from operational models. These apply prospectively. The V01–V15 readings, checkpoints, models and both Rudeus monographs keep their recorded boundaries and historical division of work, and no source is reread or backfilled.
+**Source-reading and portrait amendment, 2026-11-17 (architecture, method and template v1.2; reconstruction specification v1.1).** Topology §4.1.8 requires this established project to record its standing multi-agent configuration before its next source reading, and initiation §5.5.1 adds individual portrait qualification. Section 7 now records the standing assignments; method §12 and template section M carry their closure record; Sections 8 and 10 and the reconstruction specification route qualification and separate literary portrait acceptance from operational models. These apply prospectively. The V01–V15 readings, checkpoints, models and both Rudeus monographs keep their recorded boundaries and historical division of work, and no source is reread or backfilled.
 
 At interruption, preserve exact files, partial coverage, base/input commit, last closed unit, unresolved work, next permitted action, and access limitations. A long conversation is not the corpus. Use the handoff specification; never claim complete preservation of details that were not externalized.
 

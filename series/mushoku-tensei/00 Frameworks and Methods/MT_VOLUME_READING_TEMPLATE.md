@@ -4,7 +4,7 @@ artifact_id: "MT_VOLUME_READING_TEMPLATE"
 artifact_type: "volume_reading_template"
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []

@@ -4,7 +4,7 @@ artifact_id: "MT_CHARACTER_RECONSTRUCTION_SPEC"
 artifact_type: "character_reconstruction_specification"
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -43,7 +43,7 @@ Every model states source witnesses, actual admitted coverage, latest incorporat
 
 | Artifact | Responsibility |
 |---|---|
-| `CHARACTER_MONOGRAPH.md` | Substantial literary/psychological explanation of the person, development, relationships, contradictions, voice, and narrative function. |
+| `CHARACTER_MONOGRAPH_V<first>_V<last>.md` (new portraits, architecture §10) | Substantial literary/psychological explanation of the person, development, relationships, contradictions, voice, and narrative function. |
 | `RECONSTRUCTION_MODEL.md` | Current operational rules, applicable states, response ranges, negative constraints, and validation. |
 | `EVIDENCE_INDEX.md` | Curated routes from claims/rules/context domains to canonical volume observations and ledger events. |
 | `STATE_HISTORY.md` | Optional focused navigation through complex observed state history; links to the shared state ledger rather than owning a competing chronology. |

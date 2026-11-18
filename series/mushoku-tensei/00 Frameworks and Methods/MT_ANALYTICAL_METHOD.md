@@ -4,7 +4,7 @@ artifact_id: "MT_ANALYTICAL_METHOD"
 artifact_type: "analytical_method"
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
