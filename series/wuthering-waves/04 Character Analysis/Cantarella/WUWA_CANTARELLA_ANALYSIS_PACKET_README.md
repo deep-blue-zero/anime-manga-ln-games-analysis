@@ -5,8 +5,8 @@ artifact_type: readme
 analytical_responsibility: "Single entrypoint, authority, scoped completeness, validation, and open gaps"
 scope: CANTARELLA_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: CANTARELLA_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,18 +15,20 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
-# Cantarella reconstruction packet — draft pre-AV V0.1
+# Cantarella reconstruction packet — current provisional, Chapter II AV-reconciled
 
-> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's `draft_noncurrent` status.
+**Current authority and AV coverage (2026-11-18 owner adoption):** This Cantarella reconstruction packet is current `active_provisional` interpretive authority for its declared pinned-source scope; it is not a draft or a complete all-modality census. The Chapter II shared AV reconciliation `WUWA_RINASCITA_CH2_SHARED_AV_V01` directly resolved 4/36 nominated scene crosswalk targets and listened to 6/845 selected solo semantic voice lines in each of four dubs (zh-Hans, ja, ko, en). Uninspected targets and remaining voice lines retain their open states. The [shared AV audit](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md) and [four-dub voice ledger](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) govern the precise dispositions; the packet's pre-AV file identifiers and baseline statements remain provenance rather than present completion claims.
+
+> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's current `active_provisional` authority.
 
 **Event-image authority:** The `TZZNQ` event has an explicit statement that Echo Cubes are independent of their originals (Shorekeeper `7842/1/4`). Cantarella-labeled turns in that family require local diegetic-instantiation review before becoming embodied Cantarella memories, promises or relationship states.
 
 **External-source audio caveat:** A private twelve-packet hash audit found 43 selected `TZZNQ_*`/`Side_TZJNSC_*` event-family lines whose four language-labeled render rows share one `gl_vo_` WEM and identical PCM per line; eleven of their text keys differ from the source WEM basename. These are four localized text witnesses and technically decoded audio associations, **not** 43 proved four-dub performances or necessarily proved text→audio matches. Language/container dispatch and the eleven mismatches remain open; the semantic-line denominator is unchanged. See `_research/character_packets/GLOBAL_EXTERNAL_SOURCE_LANGUAGE_ALIAS_AUDIT_2026-09-27.md` in the private evidence plane.
 
-This is a **noncurrent analytical draft pending owner review**, not an adopted replacement for collection or visual authority. It studies playable Cantarella (坎特蕾拉, role 1607) through a pinned normalized Chinese semantic view with EN/JA/KO witnesses. Official-client audio is separate raw-media evidence: exact FLAC/PCM validation does not itself validate every source speaker, branch, chronology or interpretation. Source-generation freeze is orthogonal to draft authority.
+This is a **current owner-adopted active-provisional analytical packet** within the admitted pinned-source scope. It studies playable Cantarella (坎特蕾拉, role 1607) through a pinned normalized Chinese semantic view with EN/JA/KO witnesses. Official-client audio is separate raw-media evidence: exact FLAC/PCM validation does not itself validate every source speaker, branch, chronology or interpretation. Source-generation freeze is orthogonal to draft authority.
 
 The central reading is [a dream that permits waking](01%20Evidence%20and%20Source-Facing/WUWA_CANTARELLA_CHARACTER_DEEP_DIVE_PRE_AV.md). The Fisalia head learns to reject a system that makes children pay for an alleged greater good; her dangerous dreamcraft can offer relief but also threaten agency. Five favor stories stage multiple viewpoints in a dream and end in a waking choice to retain responsibility while entering ordinary life. The Sea of Ghosts is a qualified memory medium, not a literal video of every trial. A separate tower side quest distinguishes past candidates' memory fragments from girls returned in the character quest and from future daughters named in her unfinished-reform wish. City tea, unmodified food, fresh air and an unwillingness to claim the girls' mixed power are central model evidence, not decorative sentiment.
 

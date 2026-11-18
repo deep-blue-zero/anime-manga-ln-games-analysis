@@ -5,8 +5,8 @@ artifact_type: readme
 analytical_responsibility: "Single entrypoint, authority, scoped completeness, validation, and open gaps"
 scope: AUGUSTA_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: AUGUSTA_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,14 +15,16 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
-# Augusta reconstruction packet — draft pre-AV V0.1
+# Augusta reconstruction packet — current provisional, Chapter II AV-reconciled
 
-> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's `draft_noncurrent` status.
+**Current authority and AV coverage (2026-11-18 owner adoption):** This Augusta reconstruction packet is current `active_provisional` interpretive authority for its declared pinned-source scope; it is not a draft or a complete all-modality census. The Chapter II shared AV reconciliation `WUWA_RINASCITA_CH2_SHARED_AV_V01` directly resolved 19/32 nominated scene crosswalk targets and listened to 8/605 selected solo semantic voice lines in each of four dubs (zh-Hans, ja, ko, en). Uninspected targets and remaining voice lines retain their open states. The [shared AV audit](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md) and [four-dub voice ledger](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) govern the precise dispositions; the packet's pre-AV file identifiers and baseline statements remain provenance rather than present completion claims.
 
-This is a **noncurrent analytical draft pending owner review**, not an adopted replacement for the current Wuthering Waves collection or visual authority. It studies playable Augusta (奥古斯塔, role 1306), anchored to the pinned normalized Arikatsu Chinese semantic view with EN/JA/KO localization witnesses. Installed-client FLACs are official-client raw media evidence, not independent proof of the normalized speaker/story model. Source freeze remains separate from packet status.
+> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's current `active_provisional` authority.
+
+This is a **current owner-adopted active-provisional analytical packet** within the admitted pinned-source scope. It studies playable Augusta (奥古斯塔, role 1306), anchored to the pinned normalized Arikatsu Chinese semantic view with EN/JA/KO localization witnesses. Installed-client FLACs are official-client raw media evidence, not independent proof of the normalized speaker/story model. Source freeze remains separate from packet status.
 
 The central reading is [what a hero owes after victory](01%20Evidence%20and%20Source-Facing/WUWA_AUGUSTA_CHARACTER_DEEP_DIVE_PRE_AV.md): Augusta's source moves from fear and an underestimated Forte through an explicit refusal to turn defeated people into expendable arena spectacle; it then tests the difference between beating an opponent and governing a city. Her struggle with prophecy is about agency, not contempt for Iuno; she also admits that hostile whispers once seemed tactically useful before she tests their contradictory incentives. After a shared victory she still asks what life can be beyond a singular hero title. The packet distinguishes Magno's rumored poisoning, Augusta's **pre-Act-XI reported sight of Angel's transformation versus Act XI's independent `Galbrena` survival/reunion** (`flow#/9520, 10454`; state-gated so earlier scenes preserve her uncertainty), and the exceptional Iuno-memory disturbance instead of treating all three as the same kind of uncertainty.
 

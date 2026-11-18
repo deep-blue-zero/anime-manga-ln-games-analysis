@@ -5,8 +5,8 @@ artifact_type: readme
 analytical_responsibility: "Single entrypoint, authority, scoped completeness, validation, and open gaps"
 scope: BRANT_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: BRANT_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,18 +15,20 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
-# Brant reconstruction packet — draft pre-AV V0.1
+# Brant reconstruction packet — current provisional, Chapter II AV-reconciled
 
-> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's `draft_noncurrent` status.
+**Current authority and AV coverage (2026-11-18 owner adoption):** This Brant reconstruction packet is current `active_provisional` interpretive authority for its declared pinned-source scope; it is not a draft or a complete all-modality census. The Chapter II shared AV reconciliation `WUWA_RINASCITA_CH2_SHARED_AV_V01` directly resolved 5/38 nominated scene crosswalk targets and listened to 6/606 selected solo semantic voice lines in each of four dubs (zh-Hans, ja, ko, en). Uninspected targets and remaining voice lines retain their open states. The [shared AV audit](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md) and [four-dub voice ledger](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) govern the precise dispositions; the packet's pre-AV file identifiers and baseline statements remain provenance rather than present completion claims.
+
+> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's current `active_provisional` authority.
 
 **Event-image authority:** The `TZZNQ` event has an explicit statement that Echo Cubes are independent of their originals (Shorekeeper `7842/1/4`). Brant-labeled turns in that family require local diegetic-instantiation review before becoming embodied Brant memories, promises or relationship states.
 
 **External-source audio caveat:** A private twelve-packet hash audit found 31 selected `TZZNQ_*`/`Side_TZJNSC_*` event-family lines whose four language-labeled render rows share one `gl_vo_` WEM and identical PCM per line; three of their text keys differ from the source WEM basename. These are four localized text witnesses and technically decoded audio associations, **not** 31 proved four-dub performances or necessarily proved text→audio matches. Language/container dispatch and the three mismatches remain open; the semantic-line denominator is unchanged. See `_research/character_packets/GLOBAL_EXTERNAL_SOURCE_LANGUAGE_ALIAS_AUDIT_2026-09-27.md` in the private evidence plane.
 
-This is a **noncurrent analytical draft pending owner review**, not an adopted replacement for Wuthering Waves collection or visual authority. It studies playable Brant (布兰特, role 1206) from the pinned normalized Chinese semantic view, with EN/JA/KO as witnesses. Installed-client FLACs are official-client raw media evidence, not independent proof that a normalized speaker attribution or chronology is correct. Source freeze remains orthogonal to authority status.
+This is a **current owner-adopted active-provisional analytical packet** within the admitted pinned-source scope. It studies playable Brant (布兰特, role 1206) from the pinned normalized Chinese semantic view, with EN/JA/KO as witnesses. Installed-client FLACs are official-client raw media evidence, not independent proof that a normalized speaker attribution or chronology is correct. Source freeze remains orthogonal to authority status.
 
 The central reading is [the captain who makes room to leave](01%20Evidence%20and%20Source-Facing/WUWA_BRANT_CHARACTER_DEEP_DIVE_PRE_AV.md). Brant's performance is skilled labor and collective memory, not a continuous personal mask; his offstage sincerity coexists with deliberately hiding fear from the crew. Banished for a childhood question, he builds a refuge from wreckage, then insists it not be the final destination of every Fool. His Carnival argument preserves freedom regardless of divinity, with a material JA localization fork in the middle premise. His disagreement with Aldric asks who pays for a leader's promised prosperity. The selected dialogue records Aldric returning for money under danger, while the linked client-derived quest synopsis separately reports his end at the treasure site. The latter does not establish the physical mechanism, runtime staging or what Brant personally saw; English dialogue states a stronger life-for-treasure reading than the Chinese anchor. After Carnevale Brant lets people depart or rest, and returns to Ragunna without restoring the sold childhood house. The model must hold that arc together with money pressure, opportunistic bounty tactics, ordinary food/music and real risk rather than turning “freedom” into a frictionless slogan.
 

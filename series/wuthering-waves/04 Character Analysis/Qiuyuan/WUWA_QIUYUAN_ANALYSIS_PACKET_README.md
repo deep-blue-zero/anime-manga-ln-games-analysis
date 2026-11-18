@@ -5,8 +5,8 @@ artifact_type: readme
 analytical_responsibility: "Single entrypoint, scope and authority, reading order, completeness, validation, and open gaps"
 scope: QIUYUAN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: QIUYUAN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,14 +15,16 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
-# Qiuyuan reconstruction packet — draft pre-AV V0.1
+# Qiuyuan reconstruction packet — current provisional, Chapter II AV-reconciled
 
-> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's `draft_noncurrent` status.
+**Current authority and AV coverage (2026-11-18 owner adoption):** This Qiuyuan reconstruction packet is current `active_provisional` interpretive authority for its declared pinned-source scope; it is not a draft or a complete all-modality census. The Chapter II shared AV reconciliation `WUWA_RINASCITA_CH2_SHARED_AV_V01` directly resolved 5/27 nominated scene crosswalk targets and listened to 5/255 selected solo semantic voice lines in each of four dubs (zh-Hans, ja, ko, en). Uninspected targets and remaining voice lines retain their open states. The [shared AV audit](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md) and [four-dub voice ledger](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) govern the precise dispositions; the packet's pre-AV file identifiers and baseline statements remain provenance rather than present completion claims.
 
-This is a **noncurrent analytical draft pending owner review**, not an adopted replacement for any current Wuthering Waves authority. It reconstructs the playable Qiuyuan (仇远, role 1411), not the different NPC Qiuyan (秋艳). Chinese is the semantic anchor; English, Japanese, and Korean supply localized text and installed-client voice witnesses. The source is pinned to normalized Arikatsu commit 353f2eaed119bc9f680eab92807d20ac75a79b40, generation arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko. Official-client audio is raw media authority; it does not independently prove the normalized semantic view. The source-generation freeze bit is not an analytical authority status.
+> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's current `active_provisional` authority.
+
+This is a **current owner-adopted active-provisional analytical packet** within the admitted pinned-source scope. It reconstructs the playable Qiuyuan (仇远, role 1411), not the different NPC Qiuyan (秋艳). Chinese is the semantic anchor; English, Japanese, and Korean supply localized text and installed-client voice witnesses. The source is pinned to normalized Arikatsu commit 353f2eaed119bc9f680eab92807d20ac75a79b40, generation arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko. Official-client audio is raw media authority; it does not independently prove the normalized semantic view. The source-generation freeze bit is not an analytical authority status.
 
 The core reading is [The sword, the sheath, and the unfinished judgment](01%20Evidence%20and%20Source-Facing/WUWA_QIUYUAN_CHARACTER_DEEP_DIVE_PRE_AV.md): Qiuyuan's old choice to spare Geshu Lin was made against a false accusation, yet later harm turns that restraint into an unresolved self-imposed debt. His pursuit of Scar and Geshu coexists with patient care, civilian protection, and a growing ability to recognize why other people can be a home. The packet preserves these tensions rather than choosing one “true” personality.
 

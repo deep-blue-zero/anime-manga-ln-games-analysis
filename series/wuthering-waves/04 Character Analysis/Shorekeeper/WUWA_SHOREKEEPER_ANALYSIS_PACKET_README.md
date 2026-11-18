@@ -4,8 +4,8 @@ character: Shorekeeper
 artifact_type: readme
 scope: SHOREKEEPER_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: SHOREKEEPER_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,18 +14,20 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
-# Shorekeeper reconstruction packet — draft pre-AV V0.1
+# Shorekeeper reconstruction packet — current provisional, Chapter II AV-reconciled
 
-> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's `draft_noncurrent` status.
+**Current authority and AV coverage (2026-11-18 owner adoption):** This Shorekeeper reconstruction packet is current `active_provisional` interpretive authority for its declared pinned-source scope; it is not a draft or a complete all-modality census. The Chapter II shared AV reconciliation `WUWA_RINASCITA_CH2_SHARED_AV_V01` directly resolved 2/14 nominated scene crosswalk targets and listened to 4/543 selected solo semantic voice lines in each of four dubs (zh-Hans, ja, ko, en). Uninspected targets and remaining voice lines retain their open states. The [shared AV audit](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md) and [four-dub voice ledger](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) govern the precise dispositions; the packet's pre-AV file identifiers and baseline statements remain provenance rather than present completion claims.
+
+> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's current `active_provisional` authority.
 
 **Event-image authority:** In the `TZZNQ` event, a Shorekeeper-labeled speaker says at `7842/1/4` that she and other Echo Cubes are independent of their originals. Treat these turns as event-image evidence until diegetic instantiation is reviewed, not automatically as embodied Shorekeeper memories, promises or relationship states.
 
 **External-source audio caveat:** A private twelve-packet hash audit found 31 selected `TZZNQ_*`/`Side_TZJNSC_*` event-family lines whose four language-labeled render rows share one `gl_vo_` WEM and identical PCM per line; eight of their text keys differ from the source WEM basename. These are four localized text witnesses and technically decoded audio associations, **not** 31 proved four-dub performances or necessarily proved text→audio matches. Language/container dispatch and the eight mismatches remain open; the semantic-line denominator is unchanged. See `_research/character_packets/GLOBAL_EXTERNAL_SOURCE_LANGUAGE_ALIAS_AUDIT_2026-09-27.md` in the private evidence plane.
 
-This is a **noncurrent owner-review draft** for playable Shorekeeper (role 1505). Commit-pinned normalized Chinese provides the semantic anchor with EN/JA/KO witnesses; official-client media and art retain separate raw authority. The conflicting freeze fields are disclosed above. The existing three-raster visual design profile is still `active_provisional`; this literary draft does not replace it.
+This is a **current owner-adopted active-provisional analytical packet** within the admitted pinned-source scope. Commit-pinned normalized Chinese provides the semantic anchor with EN/JA/KO witnesses; official-client media and art retain separate raw authority. The conflicting freeze fields are disclosed above. the existing three-raster visual design profile retains its separately bounded `active_provisional` visual authority; this current literary packet does not expand the visual evidence beyond that scope.
 
 The [deep dive](01%20Evidence%20and%20Source-Facing/WUWA_SHOREKEEPER_CHARACTER_DEEP_DIVE_PRE_AV.md) follows the Second Instance from intended tool through field encounter, Delone's death, damaging Tethys core service and chosen selfhood. It also preserves difficult concealment and consent questions. Unlike subtler packets, this record contains an explicit **Shorekeeper declaration of love toward Rover** (`FavorWord_150531_Content`), while mutual exclusive romance is unproven. Her Black Shores community, music, tastes, and later investigation of Abby remain independent sources of behavior. A pre-repair Tethys exchange adds a sharply localized property-versus-guardian self-description and a Sonoro-vessel-versus-created-purpose distinction; its fourteen Shorekeeper turns are source-unvoiced, not a heard performance. A later Aetherfin side quest adds a source-unvoiced branching test of ecological return, the changed river, monitoring boundaries and other members' birthday preparations; it does not supply a performed-voice observation. Two Honami actions add branch-sensitive beverage comparison, a normal-vitals/Abby disagreement and a likely but unsafe rift route; they do not demonstrate a cure or executed crossing.
 

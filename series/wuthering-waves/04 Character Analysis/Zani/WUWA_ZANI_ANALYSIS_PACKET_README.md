@@ -5,8 +5,8 @@ artifact_type: readme
 analytical_responsibility: "Single entrypoint, authority, scoped completeness, validation, and open gaps"
 scope: ZANI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: ZANI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,18 +15,20 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
-# Zani reconstruction packet — draft pre-AV V0.1
+# Zani reconstruction packet — current provisional, Chapter II AV-reconciled
 
-> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's `draft_noncurrent` status.
+**Current authority and AV coverage (2026-11-18 owner adoption):** This Zani reconstruction packet is current `active_provisional` interpretive authority for its declared pinned-source scope; it is not a draft or a complete all-modality census. The Chapter II shared AV reconciliation `WUWA_RINASCITA_CH2_SHARED_AV_V01` directly resolved 2/12 nominated scene crosswalk targets and listened to 5/912 selected solo semantic voice lines in each of four dubs (zh-Hans, ja, ko, en). Uninspected targets and remaining voice lines retain their open states. The [shared AV audit](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md) and [four-dub voice ledger](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) govern the precise dispositions; the packet's pre-AV file identifiers and baseline statements remain provenance rather than present completion claims.
+
+> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's current `active_provisional` authority.
 
 **Event-image authority:** The `TZZNQ` event has an explicit statement that Echo Cubes are independent of their originals (Shorekeeper `7842/1/4`). Zani-labeled turns in that family require local diegetic-instantiation review before becoming embodied Zani memories, promises or relationship states.
 
 **External-source audio caveat:** A private twelve-packet hash audit found 28 selected `TZZNQ_*`/`Side_TZJNSC_*` event-family lines whose four language-labeled render rows share one `gl_vo_` WEM and identical PCM per line. None of these 28 has a text-key/WEM-basename mismatch, but the shared PCM still does **not** prove four distinct dubbed performances. The four localized text witnesses and decoded object bytes remain available; language/container dispatch is open and the semantic-line denominator is unchanged. See `_research/character_packets/GLOBAL_EXTERNAL_SOURCE_LANGUAGE_ALIAS_AUDIT_2026-09-27.md` in the private evidence plane.
 
-This is a **noncurrent analytical draft pending owner review**, not an adopted replacement for the current collection or visual authority. It studies playable Zani (赞妮, role 1507) from the pinned normalized Arikatsu Chinese semantic view with EN/JA/KO comparison witnesses. The installed-client official audio is separate raw evidence for renders, not an independent confirmation of every normalized story or speaker assignment. Source freeze is orthogonal to authority status.
+This is a **current owner-adopted active-provisional analytical packet** within the admitted pinned-source scope. It studies playable Zani (赞妮, role 1507) from the pinned normalized Arikatsu Chinese semantic view with EN/JA/KO comparison witnesses. The installed-client official audio is separate raw evidence for renders, not an independent confirmation of every normalized story or speaker assignment. Source freeze is orthogonal to authority status.
 
 The central reading is [the nightwalker who wants a city that can sleep](01%20Evidence%20and%20Source-Facing/WUWA_ZANI_CHARACTER_DEEP_DIVE_PRE_AV.md): Zani's labor, covert protection, dry self-deflation and difficulty resting are organized around the survival of ordinary civic routines. She can be forceful enough to trouble a clean-hero portrait, and practical enough to help coerced people rebuild lives after a case. An additional Colleen action shows her first contest a survivor's risky offer to guide a rescue, then concede after hearing Colleen's practical reason and Rover's assurance; it does not prove the rescue succeeded. The packet keeps her early lone intervention, professional backing, confrontation, restorative follow-through, offer of longer work and later *actual* paid leave as distinct states; the offer is not a witnessed extra shift.
 

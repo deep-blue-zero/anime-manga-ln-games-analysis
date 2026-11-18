@@ -5,8 +5,8 @@ artifact_type: readme
 analytical_responsibility: "Single entrypoint, authority, scoped completeness, validation, and open gaps"
 scope: IUNO_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: IUNO_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,14 +15,16 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
-# Iuno reconstruction packet — draft pre-AV V0.1
+# Iuno reconstruction packet — current provisional, Chapter II AV-reconciled
 
-> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's `draft_noncurrent` status.
+**Current authority and AV coverage (2026-11-18 owner adoption):** This Iuno reconstruction packet is current `active_provisional` interpretive authority for its declared pinned-source scope; it is not a draft or a complete all-modality census. The Chapter II shared AV reconciliation `WUWA_RINASCITA_CH2_SHARED_AV_V01` directly resolved 21/39 nominated scene crosswalk targets and listened to 8/540 selected solo semantic voice lines in each of four dubs (zh-Hans, ja, ko, en). Uninspected targets and remaining voice lines retain their open states. The [shared AV audit](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md) and [four-dub voice ledger](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) govern the precise dispositions; the packet's pre-AV file identifiers and baseline statements remain provenance rather than present completion claims.
 
-This is a **noncurrent analytical draft pending owner review**, not an adopted replacement for collection or visual authority. It studies playable Iuno (尤诺, role 1410) through a pinned normalized Chinese semantic view and EN/JA/KO witnesses. Official-client audio is raw-media evidence for exact sound objects, not an independent endorsement of normalized attribution, branch or chronology. The source freeze is independent of this draft's authority state.
+> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's current `active_provisional` authority.
+
+This is a **current owner-adopted active-provisional analytical packet** within the admitted pinned-source scope. It studies playable Iuno (尤诺, role 1410) through a pinned normalized Chinese semantic view and EN/JA/KO witnesses. Official-client audio is raw-media evidence for exact sound objects, not an independent endorsement of normalized attribution, branch or chronology. The source freeze is independent of this packet's authority state.
 
 The central reading is [from seeing the end to choosing a beginning](01%20Evidence%20and%20Source-Facing/WUWA_IUNO_CHARACTER_DEEP_DIVE_PRE_AV.md). The prodigy Priestess traded clear foresight for power to make Dark Tide beings vulnerable, at a mounting cost to her existence in other people's memories. Her public confidence, fear of being forgotten, strategic concealment of the cost, partial Chaos remnant, Rover's exceptional remembrance and later self-chosen civilian aid cannot be collapsed into one timeless register. The model preserves both the moral force of her intervention and the objection that she kept Augusta and Rover underinformed. Her conditional promise to give Rover a complete account before a future similar choice is distinct from her separate request to keep the Chaos episode private.
 

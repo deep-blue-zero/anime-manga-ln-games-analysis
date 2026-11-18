@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check Shorekeeper draft packet structure, media joins and private source pin."""
+"""Check Shorekeeper current provisional packet structure, media joins and private source pin."""
 
 from __future__ import annotations
 
@@ -67,14 +67,14 @@ def validate(source_root: Path | None) -> dict:
     for suffix in expected:
         path = packet_artifact(HERE, f"{PREFIX}{suffix}")
         body = path.read_text(encoding="utf-8")
-        require(body.startswith("---\n") and "\nstatus: draft_noncurrent\n" in body,
-                f"draft authority: {path.name}", checks)
-        require("\ndo_not_use_as_current_authority: true\n" in body,
+        require(body.startswith("---\n") and "\nstatus: active_provisional\n" in body,
+                f"current authority: {path.name}", checks)
+        require("\ndo_not_use_as_current_authority: false\n" in body,
                 f"noncurrent flag: {path.name}", checks)
         require(f"\nsource_commit: {COMMIT}\n" in body,
                 f"source pin: {path.name}", checks)
     model = json.loads((packet_artifact(HERE, f"{PREFIX}CHARACTER_MODEL_PACKAGE.json")).read_text(encoding="utf-8"))
-    require(model["authority"] == "draft_noncurrent" and model["source_commit"] == COMMIT,
+    require(model["authority"] == "active_provisional" and model["source_commit"] == COMMIT,
             "model authority and source pin", checks)
     require(len(model["rules"]) == 24 and len({r["id"] for r in model["rules"]}) == 24,
             "24 distinct model rules", checks)

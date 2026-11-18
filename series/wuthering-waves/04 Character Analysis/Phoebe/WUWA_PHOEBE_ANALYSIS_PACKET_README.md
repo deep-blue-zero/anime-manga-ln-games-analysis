@@ -5,8 +5,8 @@ artifact_type: readme
 analytical_responsibility: "Single entrypoint, authority, scoped completeness, validation, and open gaps"
 scope: PHOEBE_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: PHOEBE_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,18 +15,20 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
-# Phoebe reconstruction packet — draft pre-AV V0.1
+# Phoebe reconstruction packet — current provisional, Chapter II AV-reconciled
 
-> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's `draft_noncurrent` status.
+**Current authority and AV coverage (2026-11-18 owner adoption):** This Phoebe reconstruction packet is current `active_provisional` interpretive authority for its declared pinned-source scope; it is not a draft or a complete all-modality census. The Chapter II shared AV reconciliation `WUWA_RINASCITA_CH2_SHARED_AV_V01` directly resolved 7/24 nominated scene crosswalk targets and listened to 6/476 selected solo semantic voice lines in each of four dubs (zh-Hans, ja, ko, en). Uninspected targets and remaining voice lines retain their open states. The [shared AV audit](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md) and [four-dub voice ledger](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) govern the precise dispositions; the packet's pre-AV file identifiers and baseline statements remain provenance rather than present completion claims.
+
+> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's current `active_provisional` authority.
 
 **Event-image authority:** The `TZZNQ` event has an explicit statement that Echo Cubes are independent of their originals (Shorekeeper `7842/1/4`). Phoebe-labeled turns in that family require local diegetic-instantiation review before becoming embodied Phoebe memories, promises or relationship states.
 
 **External-source audio caveat:** A private twelve-packet hash audit found 25 selected `TZZNQ_*`/`Side_TZJNSC_*` event-family lines whose four language-labeled render rows share one `gl_vo_` WEM and identical PCM per line; one text key differs from the source WEM basename. These are four localized text witnesses and technically decoded audio associations, **not** 25 proved four-dub performances or necessarily a proved text→audio match for that key. Language/container dispatch and the mismatch remain open; the semantic-line denominator is unchanged. See `_research/character_packets/GLOBAL_EXTERNAL_SOURCE_LANGUAGE_ALIAS_AUDIT_2026-09-27.md` in the private evidence plane.
 
-This is a **noncurrent analytical draft pending owner review**, not an adopted replacement for the current Wuthering Waves collection or visual authority. It studies playable Phoebe (菲比, role 1506), anchored to the pinned normalized Arikatsu Chinese semantic view with EN/JA/KO localization witnesses. Installed-client audio is official-client raw media evidence, not an independent confirmation of every normalized semantic attribution. Source-generation freeze is orthogonal to packet status.
+This is a **current owner-adopted active-provisional analytical packet** within the admitted pinned-source scope. It studies playable Phoebe (菲比, role 1506), anchored to the pinned normalized Arikatsu Chinese semantic view with EN/JA/KO localization witnesses. Installed-client audio is official-client raw media evidence, not an independent confirmation of every normalized semantic attribution. Source-generation freeze is orthogonal to packet status.
 
 The central reading is [A light that has to choose what it illuminates](01%20Evidence%20and%20Source-Facing/WUWA_PHOEBE_CHARACTER_DEEP_DIVE_PRE_AV.md): Phoebe's devotion is genuine, as are her Echo friendships, procedural competence and gratitude to the Order. Evidence of wrongdoing, a failed first approach to a frightened Echo, and later public crisis press her to distinguish faith from leader, rule from care, and prayer from personally owned action. She does not simply abandon belief. Her sea-expedition inquiry also checks records older than the Order and treats an apparent siren as a possible symbiotic being affected by another disturbance, without proving that ecology or claiming to speak whale. Cetus's later reply, as mediated by Abby, recognizes her capacity to receive as well as give, without solving her personal wish. The early vault transfer shows her useful cooperation and explicit lack of knowledge about the carried object's contents; a later public exchange gives her Cartethyia's proposed people-shaped account of faith, while another direct action shows actual joint damage assessment with Zani. Other speakers' explanations are not Phoebe's entire doctrine. The packet preserves early concealment and later public Echo affection as different states, with a deliberately open account of exactly which rules change.
 
