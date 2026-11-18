@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.61
+generation: V0.62
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -22,13 +22,13 @@ No recurring ledger was promoted at bootstrap. Frozen volume readings were the i
 
 V25 remains the last integrated numbered source through PR #498, with 777 narrative claims. E046 survives displacement and ends on an unnamed plain with awake Rem and physical Louis. The working derivation retains 45 Subaru deaths and 46 reached segments. SOURCE_COUNT_TENSION remains open for the seventeenth reunion, fifteen additional deaths, twenty-two post-loss deaths and total forty.
 
-Human Anastasia’s V01–V25 full publication and integration gate is CLOSED. CI integrated 20ab1e60089c75f46c778f23e265a32585cf163c through [PR #673](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/673) at 3fe7c1f414e92b3555444bd1342cc3bb13fe0b26. The gate verified main 3fe7c1f414e92b3555444bd1342cc3bb13fe0b26 with Re:Zero tree 310f361c98f90e68ee43fbbe376386f09a67bdde. Louis’s analytical entry 2737dd7629ad709ad10b117715984f84b2cc0aa7 retains that tree. Arc 6, Subaru, Ram and Julius were integrated through PRs #501, #622, #625 and #629.
+Louis Arneb’s V19–V25 full publication and integration gate is CLOSED. CI integrated ef8bb12978d2b9b579d3ccab00b1a58438d7d979 through [PR #675](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/675) at e6f79b7ae8e86c2b0c04ebda19f756486a13e87e. Shaula’s analytical entry is that verified main with the 123-file Re:Zero tree c275de6f3251916e2167508ebdea70b22553c772. Arc 6, Subaru, Ram, Julius and human Anastasia were integrated through PRs #501, #622, #625, #629 and #673.
 
-The [Louis Arneb V19–V25 model](../05%20Character%20Analysis/REZERO_LOUIS_ARNEB_V19_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_LOUIS_ARNEB_V19_V25_FIDELITY_REVIEW.md) cover Louis’s first model. Local documentary PASS_WITH_BOUND. Her default is V25_E046_PHYSICAL_LOUIS_UNKNOWN_PLAIN_INNER_CONTINUITY_UNPROVED. The waiting self asks what the other experienced. The participant fears dying again. On the unknown plain the physical girl licks Subaru and vocalizes. Her private history and the path into that body remain unproved. Her full publication and integration gate is pending.
+The [Shaula V21–V25 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V25_FIDELITY_REVIEW.md) extend the two earlier Shaula scopes through V25. Local documentary PASS_WITH_BOUND. Her default is V25_E046_HUMAN_SELF_LOST_SMALL_SCORPION_DISTINCT. In E030 she withholds the fifth rule to keep Subaru near. In E046 she asks Subaru to order her death before she can attack him. He refuses. The reader receives her private thoughts. The farewell’s reality remains uncertain. The blessing-responsive small scorpion lacks Shaula’s self. Her full publication and integration gate is pending.
 
-Close LOUIS_V19_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW followed by MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW. Each person requires an applied fidelity review and a full publication and integration gate. After both gates, open the original sealed V26 horizon, continue through V43 and complete the terminal architecture, state, readiness and acquisition review. CI owns merges.
+Close SHAULA_V21_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW with its applied fidelity review and full publication and integration gate. Once that gate closes, open the original sealed V26 horizon, continue through V43 and complete the terminal architecture, source-state, specialist-readiness and acquisition review. CI owns merges.
 
-The 84 protected artifacts retain their exact bytes. The entering 30 scopes account for 30 models and 29 named fidelity reviews. The inaugural fidelity audit and Liliana’s separate reassessment bring the entering total to 61. Louis’s first model and its review bring the inventory to 31 scopes, 31 models and 30 named fidelity reviews. The same two separate assessments bring the total to 63 artifacts. The five owners end at E046/K1092/M695/I589/R219/RT675. Master §3 selects all 777 frozen formulations and their ancestry.
+The 84 protected artifacts retain their exact bytes. The entering 31 scopes account for 31 models and 30 named fidelity reviews. The inaugural fidelity audit and Liliana’s separate reassessment bring the entering total to 63. Shaula’s V21–V25 successor and its review bring the inventory to 32 scopes, 32 models and 31 named fidelity reviews. The same two separate assessments bring the total to 65 artifacts. The five owners end at E046/K1092/M695/I589/R219/RT675. Master §3 selects all 777 frozen formulations and their ancestry.
 
 ### Post-Garfiel15 Ram field-contract review
 
@@ -364,6 +364,8 @@ Accepted V22 saved content and sealed outgoingV23whole body → V22 final-index 
 
 ### V25 retained fields and scoped next uses
 
+The [Shaula V21–V25 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V25_FIDELITY_REVIEW.md) use the existing event, knowledge, mechanics, institutional and relationship fields for Shaula’s human conduct, bodily constraint, private memories, the uncertain farewell and the small animal’s behavior. C700/K1015/M647/I533/RT618 and R180 distinguish Shaula’s report and plea, Echidna’s analogy and the qualified narration. C701/K1016/M648/I534/RT620 separates the driven-down scorpion from the later evacuation and its second Murak. C754/K1069/M684/I573 and RT658 distinguish the cut tail and claw from the other claw burst by Al Cranvel. C755–C757, RT660 and RT661 distinguish the white encounter, the large scorpion’s gentle fang, its four witnesses and the later accounts heard by Emilia and Ram. The small creature responds to Meili’s blessing. Consent and a renewed human voice remain unestablished. Master §13 identifies the exact native routes for each qualification and carries them to the next source-facing adjudication.
+
 Use existing event, knowledge, mechanics, institutional and relationship fields for Louis’s collective speech, individual experience and observable physical behavior. The [Louis Arneb V19–V25 model](../05%20Character%20Analysis/REZERO_LOUIS_ARNEB_V19_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_LOUIS_ARNEB_V19_V25_FIDELITY_REVIEW.md) distinguish the waiting and participating selves, earlier missing control and the unknown-plain child. C688/K1003/M639 assign the gap in personal memory to Louis. C690/K1005/M641 distinguish the participating girl’s accusation and Subaru’s understanding of it. C691/C154, R199, K1006, I528 and Arc 6 S014 retain separate speakers for the demand, refused help and dismissal. C396/C694, K1009, M644, R211, RT612, E046, Arc 6 §6 and RZ-A06-S013 retain the narrator’s conclusion that the inner struggle ends without a victor. The physical girl’s continuity remains unproved. Apply the source qualifications from Master §13 in current retrieval and reconsider the frozen formulations at the next source-facing adjudication. The five owner ledgers retain their rows.
 
 Use the existing owner fields for bodily control, each recipient’s testimony and independent relationship choices. The [human Anastasia V01–V25 model](../05%20Character%20Analysis/REZERO_ANASTASIA_HOSHIN_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_ANASTASIA_HOSHIN_V01_V25_FIDELITY_REVIEW.md) distinguish the human from the companion’s imitation and its later separate testimony. For RZ-V25-C027, human Anastasia warns Subaru against putting too much trust in the Book and says her secondhand account may have gaps (V25 part0018 B0134–0139). Subaru distinguishes the actual cause of his amnesia and privately imagines Roy overwriting the reader (B0141–0143). Killing Roy and consulting his Book remain a proposal. For relationship RT-262 and its historical V17 R093 wording, the narrator calls the mercenaries family after the human credits Mimi’s brothers with their own decision and relieves Ferris of blame (V17 p-006 B0244–0245). Mimi says everyone is family in her own earlier account (V17 p-005 B0529). RZ-V25-C349 and RZ-V25-C457 retain their bounded reports of Mimi’s family and remembered instruction. For current R092, the fox’s focal account supplies the motive for withdrawal (V25 part0014 B0258–0268). The returned human confirms her own choice and Julius says he heard the reason (part0018 B0089–0093). For RZ-V25-C153, RZ-V25-C322 and RZ-V25-C759, the human and her knight choose their bond anew (part0014 B0405–0422). She says she has heard about recent events from the fox (part0018 B0085–0086). The fox later offers to tell her what it learned of Julius during those two months (B0095–0097). The offer establishes neither transferred memories nor restored earlier episodes. The operator relinquishes control of the human’s own body in RZ-V25-C618. RZ-V25-C764 already records the human’s report to Emilia about watching unchanged Rem after the custody discussion (part0018 B0182–0209). Retain the 777 frozen rows and apply these qualifications to current use of the corresponding reading, register and relationship projections at the next source-facing revision. Retain the open C736 contract wording in its V22 and V25 contexts.
@@ -372,7 +374,7 @@ Use existing owner fields for Julius’s retained self-history, other people’s
 
 [Arc 6 selectors](../02%20Sequential%20Readings/REZERO_ARC_06_CHECKPOINT.md#14-readiness-and-architecture-responsibility). The eight whole V19–V26 prospective bodies retain their literal form. V26 remains unopened with 60 questions and 10 forecasts sealed at 2026-11-07T14:56:58.822051Z. Its 24,594 UTF-8 bytes have SHA-256 93182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
 
-Close LOUIS_V19_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW followed by MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW. Each person requires an applied fidelity review and a full publication and integration gate. After both gates, open the original sealed V26 horizon, continue through V43 and complete the terminal architecture, state, readiness and acquisition review. CI owns merges.
+Close SHAULA_V21_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW with its applied fidelity review and full publication and integration gate. Once that gate closes, open the original sealed V26 horizon, continue through V43 and complete the terminal architecture, source-state, specialist-readiness and acquisition review. CI owns merges.
 
 ### V23 exact entering schema preimages
 
@@ -828,6 +830,39 @@ The 84 protected artifacts retain their exact bytes. The entering 29 scopes acco
 
 ``````````markdown
 Close ANASTASIA_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order. Each person requires an applied fidelity review and a full publication and integration gate. After those three gates, open the original sealed V26 horizon, continue through V43 and complete the terminal architecture, state, readiness and acquisition review. CI owns merges.
+``````````
+
+
+### Shaula V21–V25 transaction — exact entering fragments
+
+#### Entering fragment 1
+
+``````````markdown
+Human Anastasia’s V01–V25 full publication and integration gate is CLOSED. CI integrated 20ab1e60089c75f46c778f23e265a32585cf163c through [PR #673](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/673) at 3fe7c1f414e92b3555444bd1342cc3bb13fe0b26. The gate verified main 3fe7c1f414e92b3555444bd1342cc3bb13fe0b26 with Re:Zero tree 310f361c98f90e68ee43fbbe376386f09a67bdde. Louis’s analytical entry 2737dd7629ad709ad10b117715984f84b2cc0aa7 retains that tree. Arc 6, Subaru, Ram and Julius were integrated through PRs #501, #622, #625 and #629.
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+The [Louis Arneb V19–V25 model](../05%20Character%20Analysis/REZERO_LOUIS_ARNEB_V19_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_LOUIS_ARNEB_V19_V25_FIDELITY_REVIEW.md) cover Louis’s first model. Local documentary PASS_WITH_BOUND. Her default is V25_E046_PHYSICAL_LOUIS_UNKNOWN_PLAIN_INNER_CONTINUITY_UNPROVED. The waiting self asks what the other experienced. The participant fears dying again. On the unknown plain the physical girl licks Subaru and vocalizes. Her private history and the path into that body remain unproved. Her full publication and integration gate is pending.
+``````````
+
+#### Entering fragment 3
+
+``````````markdown
+Close LOUIS_V19_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW followed by MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW. Each person requires an applied fidelity review and a full publication and integration gate. After both gates, open the original sealed V26 horizon, continue through V43 and complete the terminal architecture, state, readiness and acquisition review. CI owns merges.
+``````````
+
+#### Entering fragment 4
+
+``````````markdown
+The 84 protected artifacts retain their exact bytes. The entering 30 scopes account for 30 models and 29 named fidelity reviews. The inaugural fidelity audit and Liliana’s separate reassessment bring the entering total to 61. Louis’s first model and its review bring the inventory to 31 scopes, 31 models and 30 named fidelity reviews. The same two separate assessments bring the total to 63 artifacts. The five owners end at E046/K1092/M695/I589/R219/RT675. Master §3 selects all 777 frozen formulations and their ancestry.
+``````````
+
+#### Entering fragment 5
+
+``````````markdown
+Close LOUIS_V19_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW followed by MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW. Each person requires an applied fidelity review and a full publication and integration gate. After both gates, open the original sealed V26 horizon, continue through V43 and complete the terminal architecture, state, readiness and acquisition review. CI owns merges.
 ``````````
 
 ### Registered exact candidate homes

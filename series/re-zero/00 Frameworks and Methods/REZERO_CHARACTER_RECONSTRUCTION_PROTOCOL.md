@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.58
+generation: V1.59
 status: canonical
 release_state: mutable_active
 current_analytical_horizon: V25
@@ -21,17 +21,17 @@ Subordinate to the method, architecture, witness protocol and source lock.
 
 V25 remains the last integrated numbered source through PR #498, with 777 narrative claims. E046 survives displacement and ends on an unnamed plain with awake Rem and physical Louis. The working derivation retains 45 Subaru deaths and 46 reached segments. SOURCE_COUNT_TENSION remains open for the seventeenth reunion, fifteen additional deaths, twenty-two post-loss deaths and total forty.
 
-Human Anastasia’s V01–V25 full publication and integration gate is CLOSED. CI integrated 20ab1e60089c75f46c778f23e265a32585cf163c through [PR #673](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/673) at 3fe7c1f414e92b3555444bd1342cc3bb13fe0b26. The gate verified main 3fe7c1f414e92b3555444bd1342cc3bb13fe0b26 with Re:Zero tree 310f361c98f90e68ee43fbbe376386f09a67bdde. Louis’s analytical entry 2737dd7629ad709ad10b117715984f84b2cc0aa7 retains that tree. Arc 6, Subaru, Ram and Julius were integrated through PRs #501, #622, #625 and #629.
+Louis Arneb’s V19–V25 full publication and integration gate is CLOSED. CI integrated ef8bb12978d2b9b579d3ccab00b1a58438d7d979 through [PR #675](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/675) at e6f79b7ae8e86c2b0c04ebda19f756486a13e87e. Shaula’s analytical entry is that verified main with the 123-file Re:Zero tree c275de6f3251916e2167508ebdea70b22553c772. Arc 6, Subaru, Ram, Julius and human Anastasia were integrated through PRs #501, #622, #625, #629 and #673.
 
-The [Louis Arneb V19–V25 model](../05%20Character%20Analysis/REZERO_LOUIS_ARNEB_V19_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_LOUIS_ARNEB_V19_V25_FIDELITY_REVIEW.md) cover Louis’s first model. Local documentary PASS_WITH_BOUND. Her default is V25_E046_PHYSICAL_LOUIS_UNKNOWN_PLAIN_INNER_CONTINUITY_UNPROVED. The waiting self asks what the other experienced. The participant fears dying again. On the unknown plain the physical girl licks Subaru and vocalizes. Her private history and the path into that body remain unproved. Her full publication and integration gate is pending.
+The [Shaula V21–V25 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V25_FIDELITY_REVIEW.md) extend the two earlier Shaula scopes through V25. Local documentary PASS_WITH_BOUND. Her default is V25_E046_HUMAN_SELF_LOST_SMALL_SCORPION_DISTINCT. In E030 she withholds the fifth rule to keep Subaru near. In E046 she asks Subaru to order her death before she can attack him. He refuses. The reader receives her private thoughts. The farewell’s reality remains uncertain. The blessing-responsive small scorpion lacks Shaula’s self. Her full publication and integration gate is pending.
 
-Close LOUIS_V19_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW followed by MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW. Each person requires an applied fidelity review and a full publication and integration gate. After both gates, open the original sealed V26 horizon, continue through V43 and complete the terminal architecture, state, readiness and acquisition review. CI owns merges.
+Close SHAULA_V21_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW with its applied fidelity review and full publication and integration gate. Once that gate closes, open the original sealed V26 horizon, continue through V43 and complete the terminal architecture, source-state, specialist-readiness and acquisition review. CI owns merges.
 
 ### Current Arc06 qualitative responsibility binding
 
 [Arc 6 selectors](../02%20Sequential%20Readings/REZERO_ARC_06_CHECKPOINT.md#14-readiness-and-architecture-responsibility). The eight whole V19–V26 prospective bodies retain their literal form. V26 remains unopened with 60 questions and 10 forecasts sealed at 2026-11-07T14:56:58.822051Z. Its 24,594 UTF-8 bytes have SHA-256 93182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
 
-Use all seven axes for each person. Subaru addresses Rem on the plain. Louis’s physical contact and sounds are observable there. Her Corridor voices separately require the waiting or participating self and its own access to death. Ram’s warning, Julius’s custody opinion and human Anastasia’s later report to Emilia have their own recipients.
+Use all seven axes for each person. Subaru’s arrival beside Rem, Ram’s warning, Julius’s custody opinion, human Anastasia’s report to Emilia and physical Louis’s behavior have distinct witnesses. For Shaula select the human exchange, compelled large form, reader’s access to her thoughts, uncertain farewell or the small creature after her loss.
 
 ## 1. Operational aim
 
@@ -320,6 +320,8 @@ For Julius at the V01–V25 horizon, select V25_E046_AFTER_ROY_CUSTODY_DELIBERAT
 For human Anastasia at the V01–V25 horizon, select V25_E046_RETURNED_HUMAN_AFTER_ROY_DELIBERATION_LATER_POSITION_UNSHOWN. After Roy’s custody discussion she reports on the watch over Rem. Her position during the later shadow is unshown. Select the human, the artificial operator using her body or the separate fox as the source warrants. The [human Anastasia V01–V25 model](../05%20Character%20Analysis/REZERO_ANASTASIA_HOSHIN_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_ANASTASIA_HOSHIN_V01_V25_FIDELITY_REVIEW.md) concern the human. The [V20–V22 scarf Echidna model](../05%20Character%20Analysis/REZERO_SCARF_ECHIDNA_V20_V22_CHARACTER_MODEL.md) retains its operator endpoint.
 
 For Louis Arneb through V25 select V25_E046_PHYSICAL_LOUIS_UNKNOWN_PLAIN_INNER_CONTINUITY_UNPROVED. The child licks Subaru and vocalizes on the unknown plain. Return SOURCE_SILENT for her memories, intentions, command of language, path into the body or continuity with either earlier self. For the Corridor select who waited, who underwent death and whom the speaker addresses. Keep unobserved control in older acts unassigned. Consult the [Louis Arneb V19–V25 model](../05%20Character%20Analysis/REZERO_LOUIS_ARNEB_V19_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_LOUIS_ARNEB_V19_V25_FIDELITY_REVIEW.md).
+
+For Shaula through V25 select V25_E046_HUMAN_SELF_LOST_SMALL_SCORPION_DISTINCT. The small creature can climb, pinch and respond to Meili’s blessing. Human Shaula’s current speech, memories and decisions return SOURCE_SILENT. Earlier human responses require their own recipient and event state. The reader hears Shaula’s waiting thoughts during the large scorpion’s fight. The white encounter’s status is uncertain. Four people witness the physical dissolution. Consult the [Shaula V21–V25 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V25_FIDELITY_REVIEW.md).
 
 V08 historical terminal-state application: V08-E1 continues V07-E1/V06-E2/RZ-E-011 until death eleven; that freeze does not show arrival/checkpoint. Its post-return query remains `ENDPOINT_NOT_YET_READ` at that horizon. Witnessing death does not grant RBD/successor remembrance; the old promise was not yet recall proof. Actual earlier changes remain evidence under their conditions.
 
@@ -1395,6 +1397,33 @@ Close ANASTASIA_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute LOUIS_V1
 
 ``````````markdown
 Use all seven axes for each person. Subaru’s declaration to Rem, Ram’s warning, Julius’s custody opinion and human Anastasia’s later report to Emilia about Rem occur at different personal endpoints. The three remaining scopes keep their own body, memory, recipient and resource selectors.
+``````````
+
+
+### Shaula V21–V25 transaction — exact entering fragments
+
+#### Entering fragment 1
+
+``````````markdown
+Human Anastasia’s V01–V25 full publication and integration gate is CLOSED. CI integrated 20ab1e60089c75f46c778f23e265a32585cf163c through [PR #673](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/673) at 3fe7c1f414e92b3555444bd1342cc3bb13fe0b26. The gate verified main 3fe7c1f414e92b3555444bd1342cc3bb13fe0b26 with Re:Zero tree 310f361c98f90e68ee43fbbe376386f09a67bdde. Louis’s analytical entry 2737dd7629ad709ad10b117715984f84b2cc0aa7 retains that tree. Arc 6, Subaru, Ram and Julius were integrated through PRs #501, #622, #625 and #629.
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+The [Louis Arneb V19–V25 model](../05%20Character%20Analysis/REZERO_LOUIS_ARNEB_V19_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_LOUIS_ARNEB_V19_V25_FIDELITY_REVIEW.md) cover Louis’s first model. Local documentary PASS_WITH_BOUND. Her default is V25_E046_PHYSICAL_LOUIS_UNKNOWN_PLAIN_INNER_CONTINUITY_UNPROVED. The waiting self asks what the other experienced. The participant fears dying again. On the unknown plain the physical girl licks Subaru and vocalizes. Her private history and the path into that body remain unproved. Her full publication and integration gate is pending.
+``````````
+
+#### Entering fragment 3
+
+``````````markdown
+Close LOUIS_V19_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW followed by MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW. Each person requires an applied fidelity review and a full publication and integration gate. After both gates, open the original sealed V26 horizon, continue through V43 and complete the terminal architecture, state, readiness and acquisition review. CI owns merges.
+``````````
+
+#### Entering fragment 4
+
+``````````markdown
+Use all seven axes for each person. Subaru addresses Rem on the plain. Louis’s physical contact and sounds are observable there. Her Corridor voices separately require the waiting or participating self and its own access to death. Ram’s warning, Julius’s custody opinion and human Anastasia’s later report to Emilia have their own recipients.
 ``````````
 
 ## 19. First mature-character fidelity audit
