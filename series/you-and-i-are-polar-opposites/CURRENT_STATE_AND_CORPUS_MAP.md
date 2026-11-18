@@ -4,7 +4,7 @@ series: you-and-i-are-polar-opposites
 artifact_id: CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 generation: PO-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "Single INITIAL main/paratext route; no narrative/run authority"
 source_boundary: "Japanese manga volumes 01-08 plus one unadmitted shared artbook; metadata only, no narrative admission or inspection"
@@ -51,5 +51,7 @@ Japanese main V01–08 and one shared artbook are metadata-verified, all unadmit
 The cross-title artbook has one primary evidence home here; The Ramparts of Ice refers to the same object. Its components are unclassified and separately gated, with no cross-cast or narrative substitution. Adaptations and alternate editions are excluded.
 
 No reading, monograph, synthesis, model or simulation exists; reconstruction is NOT_READY. Next work is independent foundation review, supported bootstrap repair and repository validation. A narrative run requires separate owner-defined units, source/gate verification and consistent OPEN fields. Main publication/reading does not authorize artbook admission.
+
+For future authorized source readings, the [standing configuration](PO_SYNTHESIS_ARCHITECTURE.md#independent-reading-of-conduct-and-audience) assigns independent evidence work, critical review and reconciliation in the existing transaction.
 
 Resume through this entrypoint, full pair, source controls and relevant ledgers under current governance. Future STILL_IMAGE/Japanese TEXT inspection must be verified. This bootstrap used metadata access only; architecture names reasoning classes, synthesis/convergence roles and specialized registry owners.
