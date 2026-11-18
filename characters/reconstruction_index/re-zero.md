@@ -219,11 +219,58 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 
 - Registry file: [`characters/reconstruction_capabilities/re-zero/julius-juukulius@light-novel.jsonl`](../reconstruction_capabilities/re-zero/julius-juukulius@light-novel.jsonl)
 
+<a id="re-zero-julius-juukulius-ln-v01-v25-model-20261118-01"></a>
+
+#### Assessment `re-zero-julius-juukulius-ln-v01-v25-model-20261118-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `re-zero:julius-juukulius`
+- Scope: continuity `re-zero-main-light-novels`
+- Source boundary: Only re-zero:julius-juukulius@light-novel\#v01-v25-character-model, the canonical generation V1.0 derived-use model REZERO\_JULIUS\_JUUKULIUS\_V01\_V25\_CHARACTER\_MODEL.md at basis\_commit \(67,943 bytes\), read in full as reviewed repository analysis of the admitted original Japanese numbered main light novels V01-V25, with its volume, member, block-range and claim-ID locators as the model states them. The row's other reviewed item, the V01-V16 model with its garden default, was not used; the V25 model states how its twenty-four V16 rules map onto J25-R01-R21. The separate V01-V25 fidelity review, the V25 claim register, the Arc 6 checkpoint, the owner ledgers, the source lock and the Japanese originals are not curated on this subject and were not used. The model header's MONOGRAPH\_READY readiness, local PASS\_WITH\_BOUND fidelity state and PENDING\_THIS\_OPERATION\_FULL\_GATE value are inputs, not conclusions; the project router, read for gate state only, records this model's full publication and integration gate as closed through PR \#629. The evaluator performed no primary-source inspection.
+- Temporal boundary: Japanese main light novels V01-V25, from the V04 court and training-ground states \(V01-V03 give no continuous Julius interior\) through the V25 E046 Roy custody deliberation, the model's default. Claims are selected by the model's development, event-state \(E008, E011-E013, E019, E021-E029, E046\), knowledge, remembered-history, recipient, role and resource inputs, never by whole-volume labels; branch outcomes stay with the branch that produced them. Julius's survival, location, reactions and knowledge after the later shadow, and every scene after the custody discussion, are unshown and outside this assessment; IF routes, EX, the web novel, adaptations, side stories and V26 or later are excluded.
+- Basis commit: `bd3cf48ffe9720fd54551166a5321439c937e62b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `ccbdaba6ed642b136e12754b30b731b8c941076c8ce1f3166a7fe7d8f156dbe0`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Output is illustrative and labeled noncanonical, never presented as a quotation.
+  - `DIALOGUE` condition: Development, event state, knowledge, remembered history, recipient, role and resources are selected from the model's section 2 inputs before wording is chosen.
+  - `DIALOGUE` condition: Speech follows the section 8 recipient table as speech actions; no generic court speech is printed in his name, and the measured surface is not read as calm.
+  - `DIALOGUE` condition: No remembered Joshua episode, restored public recognition or words after the E046 custody discussion.
+  - `CROSS_SCENARIO` condition: A bounded novel situation built from the rule conditions: a status or qualification dispute before an audience, an apology between former opponents, protective intervention without full consent, a hidden truth about someone he serves, a captive whose fate affects other victims, or a test of trained form against an opponent who scorns it.
+  - `CROSS_SCENARIO` condition: The interlocutor is a sampled relationship in a named state; a comparable unfamiliar colleague or host is a separate, lower-confidence condition built from R06, R07 and R15.
+  - `CROSS_SCENARIO` condition: Abstain on a staged reunion with Joshua or Reinhard, on the returned Anastasia beyond the first hours, on the six's private reasons and on Julius after E046.
+  - `CROSS_SCENARIO` condition: Combat capacity follows the selected resources; Al Cranvel's E046 success is not a guarantee of repetition.
+  - `CROSS_SCENARIO` bounds: chronology One named section 2 state between V04 E008 and the V25 E046 custody deliberation, with Julius's knowledge and remembered history at that point; after V20 Joshua is known by testimony only and other people no longer recognize Julius.; interlocutor Subaru in a named state, Joshua, Ricardo, Reinhard, Ferris or Marcos, Emilia remembered or forgotten, scarf Echidna, the returned human Anastasia in her first hours, the six, manifested Reid or Ram; a comparable unfamiliar colleague or host only as a separate lower-confidence case.; settings The royal capital and Guard, the coalition operations, Priestella, the road to the tower or the Pleiades Watchtower, or a comparable court, campaign or expedition setting.; No setting after the E046 custody discussion and no IF-route, EX, web-novel or adaptation material.; Name erasure stays in force: strangers, his dragon and the human Anastasia do not remember him.
+  - `MUNDANE_SOCIAL` condition: A shared meal with a host, travel conversation, a private contest with a peer, or correcting a younger relative's manners.
+  - `MUNDANE_SOCIAL` condition: Tact toward a host and a practical correction are predicted; the sentence used is not.
+  - `MUNDANE_SOCIAL` condition: No timetable, musical repertoire, recipe, favorite food or solitary hobby is invented.
+  - `ETHICAL_DELIBERATION` condition: Dilemmas about who is fit to stand beside a principal, accountability for force, protective action without full consent, disclosure of a painful secret, or killing versus holding a captive whose fate matters to others.
+  - `ETHICAL_DELIBERATION` condition: The V04 classed position and its sanction stay with V04; no general public retraction is staged.
+  - `ETHICAL_DELIBERATION` condition: R21's preference for custody is tied to his personal stakes and incomplete knowledge and is not a universal doctrine.
+  - `PROFESSIONAL_CONTEXT` condition: Royal Guard duty, a candidate's knight, a public representative, the Yuri mercenary role in coalition aid, or a spirit knight in a party.
+  - `PROFESSIONAL_CONTEXT` condition: His authority to volunteer himself or his aid does not entitle him to order another knight in every jurisdiction \(R06\).
+  - `PROFESSIONAL_CONTEXT` condition: Service to the returned Anastasia is newly offered at E046; its later terms are unshown.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` B; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `class-doctrine-revision-unstaged` (evidence-backed limitation): V25 supplies no scene of a general public retraction of the V04 classed challenge; his later commoner childhood and conduct give it bite but do not stage a revision \(section 4\).
+  - `contract-wording-tension` (evidence-backed limitation): The V22 cut-contract wording and the V25 narration of an enduring contract have incompatible literal implications; the model keeps both and the practical sequence and invents no intermediate repair \(section 5, C736 open\).
+  - `joshua-known-by-testimony` (evidence-backed limitation): After the name loss Julius knows Joshua as his brother only from Subaru's testimony and the faces he can compare; Roy's garden story does not restore a memory, and no restoration, interrogation result or brothers' meeting is performed \(R09, P03, section 6\).
+  - `post-e046-unshown` (evidence-backed limitation): Julius's survival, location, reaction and knowledge after the later shadow are unshown; the default stops at the Roy custody deliberation, and Anastasia's later report of his departure is hers \(section 2 default, P09\).
+  - `public-erasure-persists` (evidence-backed limitation): Other people's prior recognition of Julius stays erased through V25: his dragon, the returned human Anastasia and strangers do not remember him, Emilia's return gives no universal reversal rule, and Reid's use of his name certifies nothing about society's recognition \(sections 4 and 6, R19\).
+  - `single-derived-synthesis` (evidence gap): The model is one synthesis derived from the project's own frozen readings and ledgers; its paired probes P01-P09 are noncanonical documentary applications, not held-out tests.
+  - `six-reasons-unknown` (evidence-backed limitation): The six spirits' private reasons for returning after the severance are not reported, and their retrieving former memories would need its own evidence \(sections 1 and 6\).
+  - `uncurated-review-and-ledgers` (evidence gap): The separate V01-V25 fidelity review, the V25 claim register, the Arc 6 checkpoint, the owner ledgers, the source lock and the primary Japanese sources are not curated on this subject, and the row's V01-V16 model was not used, so no locator was rechecked and no independent probe result is in this evidence set. Missing support is not evidence of absence.
+  - `v04-motive-partial` (evidence-backed limitation): R02 is strong for the performed V04 beating and partial for motive: deterrence, real irritation, confidence in his own control and institutional damage are all material, and the injured party was absent from the accountability scene.
+- Evidence at basis commit:
+  - [`re-zero:julius-juukulius@light-novel#v01-v25-character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/bd3cf48ffe9720fd54551166a5321439c937e62b/series/re-zero/05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V25_CHARACTER_MODEL.md)
+- Supersedes: `re-zero-julius-juukulius-ln-v01-v16-model-20261024-01`
+
 <a id="re-zero-julius-juukulius-ln-v01-v16-model-20261024-01"></a>
 
 #### Assessment `re-zero-julius-juukulius-ln-v01-v16-model-20261024-01`
 
-- Recorded status: `STALE` — historical record; not current readiness
+- Recorded status: `SUPERSEDED` — historical record; replaced by a successor assessment
 - Entity: `re-zero:julius-juukulius`
 - Scope: continuity `re-zero-main-light-novels`
 - Source boundary: Only re-zero:julius-juukulius@light-novel\#character-model, the canonical derived-use model REZERO\_JULIUS\_JUUKULIUS\_V01\_V16\_CHARACTER\_MODEL.md at basis\_commit, read in full as reviewed repository analysis of the original Japanese main light novels V01-V16, whose load-bearing Julius evidence is V04, V07, V08, V09 and V16. The project's CURRENT\_STATE\_AND\_CORPUS\_MAP.md and 05 Character Analysis README were read for method, authority order and scope only. The separate same-analyst fidelity review, the frozen volume readings, the master and five owner ledgers, the reconstruction protocol, the source lock and the Japanese EPUBs are not curated evidence on this subject and nothing is borrowed from them. The model's MONOGRAPH\_READY and PASS\_WITH\_BOUND labels and its HIGH and MEDIUM confidence tags are inputs, not conclusions. No V17 or later volume, EX, IF, web-novel, anime or game material is included, and the evaluator performed no primary-source inspection.
@@ -263,6 +310,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
   - `uncurated-adjacent-and-later-material` (evidence gap): The separate fidelity review, the frozen readings, the ledgers, the protocol and the Japanese EPUBs are not curated on this subject, and the project's later admitted V17 lies outside this set; none was used, and missing support is not evidence of absence.
 - Evidence at basis commit:
   - [`re-zero:julius-juukulius@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b20de0edab953d40bf5fc3d2e51dea84e99a610c/series/re-zero/05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md)
+- Superseded by: `re-zero-julius-juukulius-ln-v01-v25-model-20261118-01`
 - Stale reason: reconstruction\_status.py currentness at main 3fe7c1f414e92b3555444bd1342cc3bb13fe0b26 reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED. Discovery PR \#669 \(commit a110ae4e, merged at 48484583\) added reviewed evidence re-zero:julius-juukulius@light-novel\#v01-v25-character-model \(05 Character Analysis/REZERO\_JULIUS\_JUUKULIUS\_V01\_V25\_CHARACTER\_MODEL.md, canonical generation V1.0\) and its V01-V25 coverage entry to the row. The cited \#character-model item is unchanged, but this assessment no longer covers the subject's reviewed evidence set or coverage. A reassessment at a newer basis is required before any assessment of this subject applies.
 
 ### Subject `re-zero:liliana-masquerade@light-novel`
@@ -311,6 +359,49 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
   - `uncurated-readings-ledgers-reviews-and-primary-sources` (evidence gap): The frozen V04-V19 deep readings, the event, knowledge, mechanics, institution and relationship ledgers, the master ledger, the source lock, the reconstruction protocol, the original and current fidelity reviews and the Japanese EPUBs are not curated evidence on this subject, so the model's block locators and image views were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
 - Evidence at basis commit:
   - [`re-zero:liliana-masquerade@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f79e49071be39667e2fc5d5be5a5f3e9ae503589/series/re-zero/05%20Character%20Analysis/REZERO_LILIANA_V01_V19_CHARACTER_MODEL.md)
+
+### Subject `re-zero:louis-arneb@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/re-zero/louis-arneb@light-novel.jsonl`](../reconstruction_capabilities/re-zero/louis-arneb@light-novel.jsonl)
+
+<a id="re-zero-louis-arneb-ln-v19-v25-model-20261118-01"></a>
+
+#### Assessment `re-zero-louis-arneb-ln-v19-v25-model-20261118-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `re-zero:louis-arneb`
+- Scope: continuity `re-zero-main-light-novels`
+- Source boundary: Only re-zero:louis-arneb@light-novel\#v19-v25-character-model, the canonical generation V1.0 derived-use model REZERO\_LOUIS\_ARNEB\_V19\_V25\_CHARACTER\_MODEL.md at basis\_commit \(68,770 bytes\), read in full as reviewed repository analysis of the admitted original Japanese numbered main light novels V19-V25, with its volume, member, block-range, image and claim-ID locators as the model states them. It is the only reviewed item on the row. The separate fidelity review, the reconstruction and route protocols, the Arc 6 checkpoint, the master and owner ledgers, the source lock and the Japanese originals are not curated on this subject and were not used. The model header's MONOGRAPH\_READY readiness, local PASS\_WITH\_BOUND fidelity state and PENDING\_THIS\_OPERATION\_FULL\_GATE value are inputs, not conclusions; the project router, read for gate state only, records this model's full publication and integration gate as closed through PR \#675. The evaluator performed no primary-source inspection.
+- Temporal boundary: Japanese main light novels V19-V25. V19 supplies no Louis dialogue, only recognition conditions. Speaking Louis runs from the V20 Priestella manifestation, through the bodiless sibling's represented past and the E024 partition as told in V25, the waiting half's E028 conversation in V24, the participating half inside Subaru, and the E046 Corridor encounter, to the struggle of the two selves that ends without a victor \(V25 part0011 B0443-0454\). The physical girl in the green room and on the unknown plain \(the model's default\) is in scope for observable action only; her interior is SOURCE\_SILENT and her continuity with either self is unproved. Claims are selected by the model's seven coordinates, never by whole-volume labels, and the V25 retrospective's represented time is kept apart from what earlier witnesses knew. Everything after the plain scene, IF routes, the web novel, adaptations, side stories, translations and V26 or later are excluded.
+- Basis commit: `bd3cf48ffe9720fd54551166a5321439c937e62b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `7b357dcd604f91969223f04b6210d13013f82ff727177c738a8a7d580213e165`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `DIALOGUE` condition: Output is illustrative and labeled noncanonical, never presented as a quotation.
+  - `DIALOGUE` condition: A speaking state is selected \(the V20 city Louis, the bodiless sibling, the waiting half or the returned participant\) with its recipient and knowledge before wording is chosen.
+  - `DIALOGUE` condition: Address forms follow the located recipients; 私たち and あたしたち are not used to mark the two halves.
+  - `DIALOGUE` condition: Subaru's remembered 愛してる is not completed in her mouth, and the physical girl on the plain receives no lexical speech or inner voice.
+  - `CROSS_SCENARIO` condition: A bounded novel situation that varies one of the model's located conditions: whether she can intervene in or only watch a life, whether a memory is borrowed or lived, whether she has a precedent for a claim, whether she can perceive a listener's other interlocutor, or whether a choice risks another death.
+  - `CROSS_SCENARIO` condition: The interlocutor is Subaru in a named state, her other self, or a city witness of the Otto or Felt kind; any other recipient is a separate, lower-confidence condition.
+  - `CROSS_SCENARIO` condition: Abstain on the physical girl's interior and intentions, on which self continues after the struggle, on individual acts inside Subaru during his gaps, and on the brothers' own conduct.
+  - `CROSS_SCENARIO` condition: Predict what she wants and how lived death changes it, not which competing pull decides in a materially new relationship.
+  - `CROSS_SCENARIO` bounds: chronology One named speaking state between the V20 Priestella manifestation and the end of the E046 Corridor struggle, with the knowledge available in that state; the V25 retrospective's represented past informs the bodiless sibling only.; interlocutor Subaru as visitor, as the waiting half's target or as the integrated Subaru; her other self; or an injured or hostile city witness comparable to Otto or Felt. Brothers are providers of experience, not staged interlocutors.; settings The Corridor or white room, or a public confrontation comparable to the Priestella square.; No setting after the plain scene and no IF-route, web-novel, adaptation or translation material.; No demonstrated present use of Gluttony by the physical girl.
+  - `ETHICAL_DELIBERATION` condition: Only claims of entitlement to another's life and refusals of restitution under fear, within a selected state.
+  - `ETHICAL_DELIBERATION` condition: No repentance, voluntary return of victims or negotiated pardon is supplied.
+  - `ETHICAL_DELIBERATION` condition: Subaru's judgment of her and his refusal to save her stay his.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `no-restitution-shown` (evidence-backed limitation): Nothing in the evidence shows that she knows how to return the victims, that they are returned, or that she repairs the wrong; she withholds them as insurance \(section 7, R13-R14\).
+  - `ordinary-life-silent` (evidence-backed limitation): Cooking, a daily timetable, a material family, favorite meals, table manners and reciprocal friendships are SOURCE\_SILENT \(section 13\).
+  - `participant-acts-unassigned` (evidence-backed limitation): The participating half's project of estranging Subaru from his earlier self is established, but individual acts during his gaps, including Meili's killing and the wall writing, are not assigned to her without that occasion's witness \(section 6, R11\).
+  - `physical-girl-source-silent` (evidence-backed limitation): The physical girl in the green room and on the unknown plain has no opened interior; requests for her present knowledge, wants, regrets or plans return SOURCE\_SILENT, and her continuity with either Corridor self is unproved \(sections 1, 9, R18\).
+  - `single-derived-synthesis` (evidence gap): The model is the first and only synthesis of Louis, derived from the project's own frozen readings and ledgers; its paired probes P01-P09 are NONCANONICAL\_PROBE applications, not held-out tests.
+  - `single-encounter-per-state` (evidence-backed limitation): Each speaking state rests on one encounter with one principal interlocutor, and the model rates responses beyond the city encounter and to a new gift from her brothers as MEDIUM \(R02, R05\).
+  - `struggle-without-victor` (evidence-backed limitation): The struggle of the two selves begins and ends without a victor; which half survived, whether both continue and whether the physical girl inherits anything from either are unanswered at this boundary \(section 8\).
+  - `uncurated-review-and-ledgers` (evidence gap): The separate V19-V25 fidelity review, the protocols, the Arc 6 checkpoint, the master and owner ledgers, the source lock and the primary Japanese sources are not curated on this subject, so no locator was rechecked and no independent probe result is in this evidence set. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`re-zero:louis-arneb@light-novel#v19-v25-character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/bd3cf48ffe9720fd54551166a5321439c937e62b/series/re-zero/05%20Character%20Analysis/REZERO_LOUIS_ARNEB_V19_V25_CHARACTER_MODEL.md)
 
 ### Subject `re-zero:meili@light-novel`
 

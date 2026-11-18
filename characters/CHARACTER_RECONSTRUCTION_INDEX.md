@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 167; `STALE` 3; `SUPERSEDED` 34
+- Recorded totals: `CANDIDATE` 169; `STALE` 2; `SUPERSEDED` 35
 
 ## Namespaces
 
@@ -44,7 +44,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 2 | 2 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
 | [`project-sekai`](reconstruction_index/project-sekai.md) | 3 | 4 |
-| [`re-zero`](reconstruction_index/re-zero.md) | 18 | 20 |
+| [`re-zero`](reconstruction_index/re-zero.md) | 19 | 22 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 6 | 6 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
@@ -190,8 +190,10 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `re-zero:crusch-karsten@light-novel` | [`re-zero-crusch-karsten-ln-v01-v16-model-20261023-01`](reconstruction_index/re-zero.md#re-zero-crusch-karsten-ln-v01-v16-model-20261023-01) | `CANDIDATE` | `C` | `297bc0d05040a24facbeb5440481b9c604de5568` |
 | `re-zero:ferris@light-novel` | [`re-zero-ferris-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-ferris-ln-v01-v16-model-20261024-01) | `CANDIDATE` | `C` | `b20de0edab953d40bf5fc3d2e51dea84e99a610c` |
 | `re-zero:garfiel-tinsel@light-novel` | [`re-zero-garfiel-tinsel-ln-v10-v15-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-garfiel-tinsel-ln-v10-v15-model-20261024-01) | `CANDIDATE` | `C` | `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` |
-| `re-zero:julius-juukulius@light-novel` | [`re-zero-julius-juukulius-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-julius-juukulius-ln-v01-v16-model-20261024-01) | `STALE` | `C` | `b20de0edab953d40bf5fc3d2e51dea84e99a610c` |
+| `re-zero:julius-juukulius@light-novel` | [`re-zero-julius-juukulius-ln-v01-v25-model-20261118-01`](reconstruction_index/re-zero.md#re-zero-julius-juukulius-ln-v01-v25-model-20261118-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
+| `re-zero:julius-juukulius@light-novel` | [`re-zero-julius-juukulius-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-julius-juukulius-ln-v01-v16-model-20261024-01) | `SUPERSEDED` | `C` | `b20de0edab953d40bf5fc3d2e51dea84e99a610c` |
 | `re-zero:liliana-masquerade@light-novel` | [`re-zero-liliana-masquerade-ln-v01-v19-model-20261026-01`](reconstruction_index/re-zero.md#re-zero-liliana-masquerade-ln-v01-v19-model-20261026-01) | `CANDIDATE` | `C` | `f79e49071be39667e2fc5d5be5a5f3e9ae503589` |
+| `re-zero:louis-arneb@light-novel` | [`re-zero-louis-arneb-ln-v19-v25-model-20261118-01`](reconstruction_index/re-zero.md#re-zero-louis-arneb-ln-v19-v25-model-20261118-01) | `CANDIDATE` | `C` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `re-zero:meili@light-novel` | [`re-zero-meili-ln-v01-v21-model-20261101-01`](reconstruction_index/re-zero.md#re-zero-meili-ln-v01-v21-model-20261101-01) | `CANDIDATE` | `C` | `ba230369f74b7aa47a4d01951221cf18b8b99b3e` |
 | `re-zero:mimi@light-novel` | [`re-zero-mimi-ln-v01-v17-model-20261023-01`](reconstruction_index/re-zero.md#re-zero-mimi-ln-v01-v17-model-20261023-01) | `CANDIDATE` | `C` | `297bc0d05040a24facbeb5440481b9c604de5568` |
 | `re-zero:otto-suwen@light-novel` | [`re-zero-otto-suwen-ln-v01-v13-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-otto-suwen-ln-v01-v13-model-20261024-01) | `CANDIDATE` | `C` | `38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357` |
