@@ -56,6 +56,16 @@ The chronology ledger should distinguish:
 - `retrospective_or_reenacted`;
 - `uncertain_or_conflicting`.
 
+## Standing team for a narrative unit
+
+For a newly authorized quest, event or substantive reread, the principal reads the entire admitted flow and owns the interpretation, [reading closeout](WUWA_NARRATIVE_DEEP_READING_PROTOCOL.md#closeout) and updates to the five longitudinal ledgers. Establish the game version, quest and TalkSequence IDs, option conditions and entering player and character knowledge before distributing evidence. Freeze prospective judgments before opening later states.
+
+A source-aware specialist independently follows an occurrence through its branch conditions, speaker crosswalk and official text witnesses. Test which choices change an outcome, what a particular interlocutor could know, and whether an apparent trait survives a different relationship or low-stakes exchange. Use the pinned flowState when the selected-quest projection omits the path. Separate ambiguous identity or runtime dispatch from an observed delivery. Where a conclusion depends on tone or staging, assign a listener or viewer with direct access to the matched language render or bounded scene. The zh-Hans text anchor, each dubbed performance, acoustic measurements and selected stills each carry their own evidentiary limits.
+
+A separate critical reviewer directly checks the decisive option, utterance or scene and a material counterexample. Working from the admitted evidence before the principal’s interpretation where practicable, challenge branch conflation, retrospective knowledge, localization overrides and details lost between the source and cumulative account. The principal reconciles both accounts with locators and reasons in the unit closeout. An unresolved path or conflicting account stays open in the existing claim and open-question routes.
+
+Apply [topology §4.1](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) in independent, frontier-limited contexts. Each reading role starts at `SUBSTANTIVE_ANALYSIS`; escalate a disputed flow, identity or consequential revision in the affected role. For an unusually bounded unit the principal may use one independent contributor/reviewer with a recorded reason and adequate direct inspection. Missing independent access holds acceptance and high-water advance. Retrospective character reconstruction and scene/voice completion follow their specialized protocols and existing authority routes.
+
 ## Update transaction
 
 A substantive reading or character update should atomically update the relevant:

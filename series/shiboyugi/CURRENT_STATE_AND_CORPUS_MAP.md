@@ -66,6 +66,8 @@ Read the [method](SHIBOYUGI_ANALYTICAL_METHOD.md) and [architecture](SHIBOYUGI_S
 
 The two ledgers preserve the zero-admission baseline and changes through V10. The V10 checkpoint maintains the distinct exposure, chronology, interpretation and test boundaries. Longitudinal synthesis, character qualification and portraits, specialist studies and reconstruction readiness are evaluated separately from source-run completion.
 
+For the next separately admitted volume, architecture §3 and method §12 govern independent source assignments, reviewer challenges and the checkpoint contribution record. The V01–V10 and supplemental frontiers keep their recorded scope.
+
 ## V01–V10 retrospective
 
 The [integrated literary synthesis](SHIBOYUGI_V01_V10_INTEGRATED_SYNTHESIS.md) follows the ten admitted novels through their separate accounts of survival, work, responsibility and bodily care. The seven studies below answer questions whose evidence needs to be compared across more than one volume or participant.
