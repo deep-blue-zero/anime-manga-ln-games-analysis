@@ -237,6 +237,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Reviewed current evidence:
   - [`character-model` — Liliana Masquerade: V01–V19 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_LILIANA_V01_V19_CHARACTER_MODEL.md)
 
+<a id="louis-arneb"></a>
+
+### Louis Arneb
+
+- Entity ID: `re-zero:louis-arneb`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:louis-arneb@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v19-v25-character-model`: LIGHT_NOVEL VOLUME: Dedicated model of Louis across the original Japanese main light novels V19–V25, built on the frozen readings and owner ledgers with targeted original reinspection of V19–V25. It covers the V19 recognition conditions (no Louis dialogue), the V20 Priestella manifestation before Otto, Felt and Beatrice, her represented past in the white room as told in V25, the first meeting with Subaru and the soul partition, the waiting half's V24 negotiation, the participating half inside Subaru (individual acts in the tower gaps kept unassigned unless a witness supports them), the E046 Corridor encounter with integrated Subaru, the victorless struggle of the two selves and the physical girl through the green room and the unknown plain, whose interior is not modeled. The brothers' own conduct is attributed to them, not to Louis. No V26 or later, web-novel, IF, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`v19-v25-character-model` — Louis Arneb: V19–V25 character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_LOUIS_ARNEB_V19_V25_CHARACTER_MODEL.md)
+
 <a id="meili"></a>
 
 ### Meili
@@ -600,9 +622,11 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Analytical coverage:
   - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of the Pleiades Watchtower's star-keeper across the original Japanese main light novels V21–V23, built from 28 contextual intervals of already-consumed V21, V22 and V23 with seven original stills; it covers her reported antecedents (as attributed report only), the E021–E022 approach defenses, the E024 rescue, reunion and permitted speech, the nonharm promise, Merope refusal and four reported tower rules, the Electra faint and recovery, ordinary camp life, the V23 E024–E025 memory-loss disclosures, the E026 corpse encounter, and the E027 standby, book crisis, personal search request and dinner default. The later E027 scorpion catastrophe is treated only as evidence context, with no identity bridge or terminal Shaula state claimed. No V24 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
   - `v21-v24-character-model`: LIGHT_NOVEL VOLUME: Dedicated successor model across the original Japanese main light novels V21–V24, reconciling the V21–V23 states with targeted rereading of 15 intervals and four original stills; beyond the earlier horizon it covers the E028 public amnesia disclosure, Meili rescue and inclusion in her care, and the perimeter defense with Meili, the E029 scorpion interrupting and killing Lye and then attacking Subaru, and the E030 human conversation (willingness to die on command, refusal of the fifth rule for fear of losing company, bodily onset, reported breach, request for a death command, disclosure of the fifth rule after Subaru's deceptive promise), the human rescue dive and the transformation into the scorpion aiming at falling Subaru. Post-change cognition, the rule breaker, enforcement mechanics and her post-impact fate are left open. No V25 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+  - `v21-v25-character-model`: LIGHT_NOVEL VOLUME: Dedicated successor model across the original Japanese main light novels V21–V25, built on the frozen readings and owner ledgers with original reinspection across all five books and eleven source images or printed devices; it re-maps the V21–V24 states and, beyond the earlier horizon, covers Subaru's compressed E031–E045 trials (crediting Shaula with no memory of them), the E046 balcony onset, reported breach, request for a death command and audible declaration, the reader-only interior during the giant fight, the white farewell (its reality left open), the giant's last touch and dissolution, and the separately behaving small red scorpion, which the model treats as distinct from Shaula's lost human self. The identity of the old master, her origin and age, the rule breaker, the efficacy of a death command, the E030 Shaula's fate and the small creature's interior stay open. No V26 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
   - [`character-model` — Shaula: V21–V23 character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md)
   - [`v21-v24-character-model` — Shaula: V21–V24 successor character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md)
+  - [`v21-v25-character-model` — Shaula: V21–V25 successor character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_SHAULA_V21_V25_CHARACTER_MODEL.md)
 
 <a id="subaru"></a>
 

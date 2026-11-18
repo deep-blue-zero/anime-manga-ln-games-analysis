@@ -41,7 +41,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 29 |
+| [`re-zero`](characters/index/re-zero.md) | 30 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shiboyugi`](characters/index/shiboyugi.md) | 13 |
@@ -363,6 +363,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Little Johnny](characters/index/to-be-hero-x.md#little-johnny) | To Be Hero X animated series | `to-be-hero-x:little-johnny@animated-series` | — |
 | [Lolierina](characters/index/konosuba.md#lolierina) | Original light-novel continuity, scoped current monograph | `konosuba:lolierina@original-light-novel` | ロリエリーナ |
 | [Lolisa](characters/index/konosuba.md#lolisa) | Original light-novel continuity, bounded character study | `konosuba:lolisa@original-light-novel` | ロリーサ |
+| [Louis Arneb](characters/index/re-zero.md#louis-arneb) | Re:Zero main light novel | `re-zero:louis-arneb@light-novel` | — |
 | [Louis Miller](characters/index/silent-witch.md#louis-miller) | Silent Witch Japanese light novels | `silent-witch:louis-miller@light-novel` | 結界の魔術師; ルイス・ミラー |
 | [Lucky Cyan](characters/index/to-be-hero-x.md#lucky-cyan) | To Be Hero X animated series | `to-be-hero-x:lucky-cyan@animated-series` | — |
 | [Lucy](characters/index/konosuba.md#lucy) | Original light-novel continuity, bounded expanded cohort | `konosuba:lucy@original-light-novel` | ルーシー |
