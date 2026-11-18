@@ -4,7 +4,7 @@ series: you-and-i-are-polar-opposites
 artifact_id: PO_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: PO-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL manga method with separate shared-paratext boundary"
 source_boundary: "Japanese manga volumes 01-08 plus one unadmitted shared artbook; metadata only, no narrative admission or inspection"
@@ -70,6 +70,8 @@ Keep per-image REVIEWED_MATERIAL/NO_MATERIAL_ADDITION/DUPLICATE/EXCLUDED/UNRESOL
 Material revisions use PRESERVE/STRENGTHEN/REVISE/DOWNGRADE/REJECT/OPEN with old formulations and prospective freezes preserved. A changed central premise requires dependent-study review, not an appended note that leaves the argument unchanged.
 
 ## Completed volume and acceptance
+
+Apply the [standing source-reading configuration](PO_SYNTHESIS_ARCHITECTURE.md#independent-reading-of-conduct-and-audience) at this unit’s authorized frontier. Its transaction records the independent findings and the principal’s adjudication alongside coverage, claim revisions and remaining evidence gaps.
 
 Future `readings/PO_VNN_DEEP_READING.md` carries `artifact_type: deep_reading` only under an authorized run. It includes witness/admission/coverage; exposure/entering state; thesis/rival; substantial movement-level causal prose; named person/directed changes; ordinary/Japanese expression; page form; counterreadings, claims/questions/forecasts; exact ledger-update manifest; exit uncertainty/debts and completion decision.
 
