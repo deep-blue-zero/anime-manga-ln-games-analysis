@@ -12,7 +12,7 @@ authority_generation: SBY-INITIAL
 authority_scope: "Evolving project architecture and retrieval for the completed V01–V10 project"
 source_boundary: "Admitted Japanese V01–V10 main narratives and original visual layers"
 created: 2026-11-13
-last_updated: 2026-11-15
+last_updated: 2026-11-18
 architecture_lifecycle: EVOLVING
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 do_not_use_as_literary_evidence: true
@@ -175,6 +175,8 @@ The [integrated synthesis](SHIBOYUGI_V01_V10_INTEGRATED_SYNTHESIS.md) can compar
 | [Mikkai ensemble](studies/SHIBOYUGI_MIKKAI_ENSEMBLE.md) | Explain group labor, household access, technical promises and authority to recruit. Test what Yūki hears at the earlier call, what V09 tells the reader, and what Airi does under the actual contract and ship conditions. |
 
 Ethical interpretation, violence and the representation of attention, linguistic register and visual placement continue across the integrated work, character portraits and annotated readings. A single visual language or a second cast-wide relationship authority would exceed what the admitted material demonstrates. The same applies to permanent rule codification, financial accounting, psychiatric diagnoses and adaptation comparison. [Reconstruction readiness](SHIBOYUGI_RECONSTRUCTION_READINESS.md) routes the separate, state-specific downstream responsibility. No release changes the admitted source boundary.
+
+**Source-role amendment, 2026-11-17.** Global topology §4.1 (v1.2) requires every newly undertaken substantive source reading to have a principal, independent source-aware specialist contribution and independent critical review, and §4.1.8 requires an established project to record its standing configuration before its next reading. Section 3 now records that configuration for a future admitted volume; method §12 and the entrypoint route its closure record. Existing artifact IDs, ledgers, lifecycle and the admitted V01–V10 source boundary are unchanged. No claim changes and no backfill follow: the V01–V10 readings, checkpoints and supplemental frontiers keep their recorded historical division of work and are not reopened to add participation records.
 
 ## 13. Completion gates
 
