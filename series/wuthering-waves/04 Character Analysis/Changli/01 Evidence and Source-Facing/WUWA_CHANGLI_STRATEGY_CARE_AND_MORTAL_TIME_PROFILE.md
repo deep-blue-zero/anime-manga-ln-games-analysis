@@ -4,8 +4,8 @@ character: Changli
 artifact_type: strategy_care_mortal_time_specialist_profile
 scope: CHANGLI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: CHANGLI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,12 +14,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Changli — planning for a future she cannot own
 
-Changli's apparent mastery is easiest to understand if one asks what it is *for*. She gathers information, places people where they can make consequential choices, and anticipates danger. She also knows she cannot keep everyone alive, guarantee a cure or share Rover's possible span of years. The board-game language in her dossier is therefore neither a proof of omniscience nor a declaration that living people are disposable pieces. It is a way of arranging uncertainty while trying to leave another person a viable future. The contrary possibility—that a skilled planner still instrumentalizes others—is real and must remain testable. This profile draws on `FavorStory_120501–120505_Content`, `FavorWord_120501–120518_Content`, the Mt. Firmament and character-quest flows, and later `flow#/20177/6`; it is a noncurrent text/audio analytical draft, not an AV finding.
+Changli's apparent mastery is easiest to understand if one asks what it is *for*. She gathers information, places people where they can make consequential choices, and anticipates danger. She also knows she cannot keep everyone alive, guarantee a cure or share Rover's possible span of years. The board-game language in her dossier is therefore neither a proof of omniscience nor a declaration that living people are disposable pieces. It is a way of arranging uncertainty while trying to leave another person a viable future. The contrary possibility—that a skilled planner still instrumentalizes others—is real and must remain testable. This profile draws on `FavorStory_120501–120505_Content`, `FavorWord_120501–120518_Content`, the Mt. Firmament and character-quest flows, and later `flow#/20177/6`; it is an owner-adopted `active_provisional` text/machine-audio specialist profile, not a scene-AV or human-listening finding.
 
 ## How the reputation is made
 

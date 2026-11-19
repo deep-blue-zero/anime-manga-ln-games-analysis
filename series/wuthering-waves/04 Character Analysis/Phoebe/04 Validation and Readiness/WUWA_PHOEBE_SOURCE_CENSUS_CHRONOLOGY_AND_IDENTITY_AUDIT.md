@@ -20,7 +20,7 @@ do_not_use_as_current_authority: false
 
 # Phoebe — source census, chronology, and identity audit
 
-This is a **noncurrent working reconstruction** of playable Phoebe (菲比, role 1506), not a replacement for the active source collection or existing visual profile. The primary textual witness is the pinned normalized Chinese semantic view; EN/JA/KO are localized witnesses. Installed-client audio is official-client raw evidence for the mapped media, not an independent proof of all normalized semantic claims. Source-generation freeze and analytical authority status are separate fields.
+This is an **owner-adopted `active_provisional` reconstruction** of playable Phoebe (菲比, role 1506), distinct from the private source collection and the separately governed three-raster visual profile. The primary textual witness is the pinned normalized Chinese semantic view; EN/JA/KO are localized witnesses. Installed-client audio is official-client raw evidence for the mapped media, not an independent proof of all normalized semantic claims. Source-generation freeze and analytical authority status are separate fields.
 
 The full local collection is `ANALYSIS/Characters/Phoebe`, with the private voice view at `_voice_media/character/complete_voice_corpus/Phoebe/v0_1`. The collection's `COLLECTION_AUDIT.json`, `occurrence_identity_crosswalk.jsonl`, `RAW_RELEVANT_FLOW_STATES.jsonl`, `SCENE_AND_EVIDENCE_LEDGER.jsonl`, five favor stories, archive words, and four-language voice manifests are the reproducible inputs. The compact form `R/A/T` below means `BinData/flowState/flowstate.json#/R/Actions!/A/Params/TalkItems/T` under `wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/`. A row number alone is neither diegetic order nor a complete playable graph.
 

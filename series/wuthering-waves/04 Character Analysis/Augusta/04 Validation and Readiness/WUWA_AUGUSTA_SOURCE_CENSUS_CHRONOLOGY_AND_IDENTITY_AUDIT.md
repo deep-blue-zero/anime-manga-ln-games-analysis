@@ -4,8 +4,8 @@ character: Augusta
 artifact_type: source_census_chronology_identity_audit
 scope: AUGUSTA_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: AUGUSTA_PRE_AV_V0_1
-status: active_provisional
-release_state: owner_adopted_current_provisional
+status: canonical
+release_state: owner_adopted_current_canonical
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -19,7 +19,7 @@ do_not_use_as_current_authority: false
 
 # Augusta — source census, chronology, and identity audit
 
-> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_AUGUSTA_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `canonical` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_AUGUSTA_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 This is a bounded selected-collection audit, not a claim to every graph path or later client version. Source shorthand `flow#/N/A/I` expands to `wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/N/Actions!/A/Params/TalkItems/I`; favor/profile keys refer to the exact multilingual records in the local `character_source_package.json`. The Chinese text is the semantic anchor; English, Japanese and Korean are witnesses. Raw official-client audio and pinned normalized Arikatsu semantics have distinct authority.
 
@@ -39,7 +39,7 @@ This is a bounded selected-collection audit, not a claim to every graph path or 
 | Unique native PCM/FLAC objects | 2,399 | 673,191,997 FLAC bytes; 2,399/2,399 locally measured, zero failures. |
 | WavesLine shells | 1 | Five accepted message talk items at `flow#/14526/1`; shell content remains metadata-only and two other items are not hers. |
 
-`COLLECTION_AUDIT.json` reports collection and voice completeness valid, `source_generation_frozen: true` and normalized `status: active_provisional`. This *interpretive draft* is `draft_noncurrent`; source freeze is not an authority-status synonym. The 18 selected matched-audio cases each span four languages (72 renders), but are not the full corpus.
+`COLLECTION_AUDIT.json` reports collection and voice completeness valid, `source_generation_frozen: true` and normalized `status: active_provisional`. This interpretive packet holds owner-adopted `canonical` authority (`do_not_use_as_current_authority: false`); source freeze is not an authority-status synonym. The 18 selected matched-audio cases each span four languages (72 renders), but are not the full corpus.
 
 The 37 mismatches are all in raw IDs `130632–130669` except the absent raw `130650`; they occupy `favorword#/2506–2539` and `#/2620–2622`. They join 37 complete four-dub semantic voice rows, 37 event IDs and 148 distinct locally PCM-valid renders. The [exact row/key map](../01%20Evidence%20and%20Source-Facing/WUWA_AUGUSTA_COMBAT_TRIGGER_AND_ARCHIVE_KEY_IDENTITY_PROFILE.md) is a reverse provenance aid, not a proof that every gameplay trigger was observed. In particular, raw `130645` is key `FavorWord_130632_Content`, while `FavorWord_130645_Content` belongs to another raw row. The voice census of 605 lines already includes these 37; neither the row count nor the 148 renders should be added again to the total.
 
@@ -62,4 +62,4 @@ The 37 mismatches are all in raw IDs `130632–130669` except the absent raw `13
 
 ## Graph, genre and source limits
 
-The five favor stories are authored prose with shifts between perspective, reported rumor, Augusta's interpretation and direct speech. Magno's death and childhood whisper origin must be held at their actual evidentiary level; Augusta's `8402/4/29–30` Angel testimony is more specific than the archive's unresolved *later* fate, while `7741/5` is a separately contested memory state. The selected flow rows preserve choices and sequence transitions in `RAW_RELEVANT_FLOW_STATES.jsonl` and `SCENE_AND_EVIDENCE_LEDGER.jsonl`. Several reflective or ordinary-life lines—including `11364/2`—are source-unvoiced and cannot be described as heard performances. One bankable route to retrieval is `../03 Audiovisual and Voice/AUDIO_MATCHED_SEMANTIC_CASES.json`, which joins 18 selected exact text/occurrence keys to 72 render records. No human listening or runtime video review has been done for this draft. The visual profile's three official-client UI rasters have separate previously active provisional authority and do not prove runtime gesture or model construction.
+The five favor stories are authored prose with shifts between perspective, reported rumor, Augusta's interpretation and direct speech. Magno's death and childhood whisper origin must be held at their actual evidentiary level; Augusta's `8402/4/29–30` Angel testimony is more specific than the archive's unresolved *later* fate, while `7741/5` is a separately contested memory state. The selected flow rows preserve choices and sequence transitions in `RAW_RELEVANT_FLOW_STATES.jsonl` and `SCENE_AND_EVIDENCE_LEDGER.jsonl`. Several reflective or ordinary-life lines—including `11364/2`—are source-unvoiced and cannot be described as heard performances. One bankable route to retrieval is `../03 Audiovisual and Voice/AUDIO_MATCHED_SEMANTIC_CASES.json`, which joins 18 selected exact text/occurrence keys to 72 render records. At initial pre-AV packet construction no human listening or runtime video review had yet been performed (see the current-state router and voice profile for subsequent Chapter II AV and four-dub calibration). The visual profile's three official-client UI rasters have separate previously active provisional authority and do not prove runtime gesture or model construction.

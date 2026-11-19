@@ -19,7 +19,7 @@ do_not_use_as_current_authority: false
 
 # Qiuyuan — textual speech and measured voice, pre-AV
 
-> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_QIUYUAN_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `active_provisional` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_QIUYUAN_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 This profile separates **what the lines say**, **what the signal measurement found**, and **what remains unheard**. Chinese is the semantic anchor; English, Japanese, and Korean are official text/voice witnesses in the selected collection. The machine-readable [fourteen-case join](AUDIO_MATCHED_SEMANTIC_CASES.json) gives semantic IDs, exact text keys/source locators, per-render IDs, WEM and PCM/FLAC hashes, durations, energy, pitch qualification, and QC flags without redistributing media. The [source audit](../04%20Validation%20and%20Readiness/WUWA_QIUYUAN_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md) defines the complete selected denominator.
 
@@ -97,7 +97,7 @@ Text supports a contextual speech design: concise under immediate pressure; refl
 
 ### Cohort separation and coverage boundary
 
-This section records bounded direct four-dub listening from [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) and [WUWA_QIUYUAN_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_QIUYUAN_AV_HUMAN_RETRIEVAL_CROSSWALK.md) while preserving all historical machine-measurement sections and `draft_noncurrent` authority (`do_not_use_as_current_authority: true`):
+This section records bounded direct four-dub listening from [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) and [WUWA_QIUYUAN_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_QIUYUAN_AV_HUMAN_RETRIEVAL_CROSSWALK.md) while preserving all historical machine-measurement sections (originally recorded under `draft_noncurrent`; packet now owner-adopted `active_provisional` with `do_not_use_as_current_authority: false`):
 
 - **Cohort 1 — Complete selected machine census (unreviewed by ear as a whole)**: `255` semantic voice lines, `1,022` render associations, and `1,018` distinct verified PCM/FLAC objects (`199/1,018` passing the conservative pitch gate).
 - **Cohort 2 — Source-defined story-action machine crosscheck**: `110/255` disjoint semantic story lines (`440` distinct PCM objects; `61/440` conservative pitch-gate qualified).

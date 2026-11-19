@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate Augusta's current provisional packet; optionally crosscheck private primary evidence.
+"""Validate Augusta's current canonical packet; optionally crosscheck private primary evidence.
 
 This is a structural/identity/media-join check, not literary truth, graph-path
 exhaustiveness, generative fidelity, or human listening. Only --write-report writes.
@@ -99,14 +99,14 @@ def validate(source_root: Path | None) -> dict:
             "no raw media in Git packet", checks)
     for path in HERE.rglob("WUWA_AUGUSTA_*.md"):
         body = path.read_text(encoding="utf-8")
-        require(body.startswith("---\n") and "\nstatus: active_provisional\n" in body,
-                f"current authority: {path.name}", checks)
+        require(body.startswith("---\n") and "\nstatus: canonical\n" in body,
+                f"canonical authority: {path.name}", checks)
         require("\ndo_not_use_as_current_authority: false\n" in body,
                 f"noncurrent flag: {path.name}", checks)
         require(f"\nsource_commit: {COMMIT}\n" in body,
                 f"source pin: {path.name}", checks)
     model = json.loads((packet_artifact(HERE, "WUWA_AUGUSTA_CHARACTER_MODEL_PACKAGE.json")).read_text(encoding="utf-8"))
-    require(model["authority"] == "active_provisional" and model["source_commit"] == COMMIT,
+    require(model["authority"] == "canonical" and model["source_commit"] == COMMIT,
             "model authority and source pin", checks)
     rules = model["rules"]
     require({rule["id"] for rule in rules} ==

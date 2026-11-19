@@ -5,8 +5,8 @@ artifact_type: model
 analytical_responsibility: "Apply twenty-one source-linked rules across arena, office, friendship, crisis command, memory disturbance and possible future states"
 scope: AUGUSTA_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: AUGUSTA_PRE_AV_V0_1
-status: active_provisional
-release_state: owner_adopted_current_provisional
+status: canonical
+release_state: owner_adopted_current_canonical
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true

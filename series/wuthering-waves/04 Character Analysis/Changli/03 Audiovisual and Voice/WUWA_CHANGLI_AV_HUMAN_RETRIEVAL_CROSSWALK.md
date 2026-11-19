@@ -5,8 +5,8 @@ artifact_type: av_human_retrieval_crosswalk
 analytical_responsibility: "Claim-driven exact sound and runtime targets with language and unresolved-playback controls"
 scope: CHANGLI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: CHANGLI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,7 +15,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Changli — claim-driven human AV retrieval crosswalk
@@ -111,4 +111,4 @@ The highest-value tests are CHL-R01 (identity), R02/R03 (risk and Jinhsi's expre
 
 ## Chapter II shared AV scope & avatar hygiene (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** All 39 Changli crosswalk targets (`CHL-AV-*` and `CHL-R01`–`R21`, covering Chapter I Mt. Firmament `121800001`–`003` / `125900000`, Companion Story `121000035` *Immortal Blaze*, Dream event `139000039`, and archive `FavorWord` items) are verified **`out_of_recording_scope`** relative to the Chapter II *Rinascita* main-story witness `WUWA_CH2_FAYATO_1080P60_6076F127` (`0` Changli dialogue turns; see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)). Two Chapter II boundaries are recorded: (1) **Act IV interstate diplomatic footprint** (`SEG-005` `SCN-0085`, `flow#/5513 [9]`), where Cantarella attributes her Jinzhou intelligence and tea gift to `'a friend at Mingting in Huanglong'` (`一位在瑝珑明庭任职的朋友`); and (2) **strict non-diegetic avatar separation**, isolating all player-controlled overworld/combat party swaps (`char:changli_avatar` in `SEG-002` `SCN-0016`, `SEG-012` `SCN-0293`, and `SEG-013` `SCN-0317, 0319`) from diegetic narrative presence. Four-dub listening and Chapter I/Companion Story runtime review remain open; this packet stays `draft_noncurrent`.
+> **Historical authority at initial Chapter II reconciliation (`draft_noncurrent`; subsequently promoted to `active_provisional` / `do_not_use_as_current_authority: false` on 2026-11-19).** All 39 Changli crosswalk targets (`CHL-AV-*` and `CHL-R01`–`R21`, covering Chapter I Mt. Firmament `121800001`–`003` / `125900000`, Companion Story `121000035` *Immortal Blaze*, Dream event `139000039`, and archive `FavorWord` items) are verified **`out_of_recording_scope`** relative to the Chapter II *Rinascita* main-story witness `WUWA_CH2_FAYATO_1080P60_6076F127` (`0` Changli dialogue turns; see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)). Two Chapter II boundaries are recorded: (1) **Act IV interstate diplomatic footprint** (`SEG-005` `SCN-0085`, `flow#/5513 [9]`), where Cantarella attributes her Jinzhou intelligence and tea gift to `'a friend at Mingting in Huanglong'` (`一位在瑝珑明庭任职的朋友`); and (2) **strict non-diegetic avatar separation**, isolating all player-controlled overworld/combat party swaps (`char:changli_avatar` in `SEG-002` `SCN-0016`, `SEG-012` `SCN-0293`, and `SEG-013` `SCN-0317, 0319`) from diegetic narrative presence. Four-dub listening and Chapter I/Companion Story runtime review remain open; this packet now holds `active_provisional` authority within its declared bounds.

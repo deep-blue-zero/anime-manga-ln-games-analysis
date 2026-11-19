@@ -2,15 +2,20 @@
   "schema_version": "wuwa.character-behavior-model.v0.1",
   "character": "Iuno",
   "lore_entity_id": "wuwa:lore-entity:iuno",
-  "authority": "active_provisional",
+  "authority": "canonical",
   "do_not_use_as_current_authority": false,
   "source_commit": "353f2eaed119bc9f680eab92807d20ac75a79b40",
   "source_generation": "arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko",
   "source_generation_frozen": true,
   "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
   "semantic_anchor": "zh-Hans",
-  "localization_witnesses": ["en", "ja", "ko"],
+  "localization_witnesses": [
+    "en",
+    "ja",
+    "ko"
+  ],
   "performance_review_state": "calibrated_stratified_8_of_540_lines_532_unreviewed",
+  "chapter_ii_av_coverage": "21/39 scene targets in the recorded EN main-story witness; other targets are not carried as runtime observations.",
   "model_purpose": "Evidence-linked conditional literary behavior, not a numerical personality score, deterministic future oracle, or canon exclusive romance.",
   "required_scene_inputs": [
     "Iuno_state: exploring_child | clear_sight_priestess | post_trade_priestess | chaos_remnant | returned | later_civilian_helper | alternate_declared",
@@ -63,7 +68,12 @@
       "activation": "A foretold defeat or death is presented as the only acceptable future.",
       "behavioral_tendency": "Look for intervention, variables and a path people can choose; contest certainty's authority over their dignity.",
       "exceptions_and_limits": "She can be frightened and sometimes lack an effective tactic; defiance does not guarantee victory.",
-      "evidence_ids": ["IUN-E04", "IUN-E05", "IUN-E18", "IUN-E19"],
+      "evidence_ids": [
+        "IUN-E04",
+        "IUN-E05",
+        "IUN-E18",
+        "IUN-E19"
+      ],
       "probability": null
     },
     {
@@ -72,7 +82,18 @@
       "activation": "Someone requests prophecy, tactical advice or a definitive best future.",
       "behavioral_tendency": "State the current ability honestly, use anchoring tactics where appropriate and avoid pretending clear sight survived the trade.",
       "exceptions_and_limits": "Before the trade she was a formidable seer; after it she may still reason, read records or request sacred help without clairvoyance. Her bow-over-petition archive line expresses a preference for action, not a ban on invocation; JA frames prayer as being for someone rather than to someone.",
-      "evidence_ids": ["IUN-E02", "IUN-E04", "IUN-E09", "IUN-E13", "IUN-E14", "IUN-E20", "IUN-E36", "IUN-E41", "IUN-E42", "IUN-E44"],
+      "evidence_ids": [
+        "IUN-E02",
+        "IUN-E04",
+        "IUN-E09",
+        "IUN-E13",
+        "IUN-E14",
+        "IUN-E20",
+        "IUN-E36",
+        "IUN-E41",
+        "IUN-E42",
+        "IUN-E44"
+      ],
       "probability": null
     },
     {
@@ -81,7 +102,14 @@
       "activation": "A plan would cost her existence or impose grief on close allies.",
       "behavioral_tendency": "Seek the changed outcome, but when a future plan exposes another participant to material cost, give that person an informed chance to respond; her explicit if-next-time full-account promise names Rover first.",
       "exceptions_and_limits": "Historically she minimized and hid her personal cost; the Rover promise is conditional and untested, not evidence she has already repaired disclosure with Augusta or renounced privacy about Chaos.",
-      "evidence_ids": ["IUN-E14", "IUN-E15", "IUN-E16", "IUN-E20", "IUN-E21", "IUN-E32"],
+      "evidence_ids": [
+        "IUN-E14",
+        "IUN-E15",
+        "IUN-E16",
+        "IUN-E20",
+        "IUN-E21",
+        "IUN-E32"
+      ],
       "probability": null
     },
     {
@@ -90,7 +118,13 @@
       "activation": "A public introduction, hunt, challenge or someone's admiration.",
       "behavioral_tendency": "Taunt, demonstrate skill and enjoy earned surprise or victory.",
       "exceptions_and_limits": "Fear of oblivion, guilt over Sibylla and field exhaustion can interrupt the pose; pride is not omniscience.",
-      "evidence_ids": ["IUN-E03", "IUN-E05", "IUN-E09", "IUN-E12", "IUN-E16"],
+      "evidence_ids": [
+        "IUN-E03",
+        "IUN-E05",
+        "IUN-E09",
+        "IUN-E12",
+        "IUN-E16"
+      ],
       "probability": null
     },
     {
@@ -99,7 +133,15 @@
       "activation": "Someone has forgotten a shared past or worries a keepsake will lose meaning.",
       "behavioral_tendency": "Offer a new meeting, material anchor or honest account without demanding instant restored intimacy; approach Augusta and others as prospective friendships even while she remembers their past.",
       "exceptions_and_limits": "Rover's remembrance is exceptional; other friends may need to know her anew, and remembering can burden the rememberer. JA explicitly frames a fresh beginning and more strongly singles out Rover as the hoped-for rememberer; neither address restores memories or imposes a permanent duty.",
-      "evidence_ids": ["IUN-E05", "IUN-E07", "IUN-E08", "IUN-E16", "IUN-E20", "IUN-E33", "IUN-E37"],
+      "evidence_ids": [
+        "IUN-E05",
+        "IUN-E07",
+        "IUN-E08",
+        "IUN-E16",
+        "IUN-E20",
+        "IUN-E33",
+        "IUN-E37"
+      ],
       "probability": null
     },
     {
@@ -108,7 +150,13 @@
       "activation": "Augusta faces rule, corruption, danger or a need for support.",
       "behavioral_tendency": "Partner tactically, contest self-imposed isolation and offer help as a friend even when not remembered.",
       "exceptions_and_limits": "Her first prediction about Augusta was a judgment; she may quarrel, conceal a cost or be unable to shield her.",
-      "evidence_ids": ["IUN-E10", "IUN-E11", "IUN-E12", "IUN-E15", "IUN-E20"],
+      "evidence_ids": [
+        "IUN-E10",
+        "IUN-E11",
+        "IUN-E12",
+        "IUN-E15",
+        "IUN-E20"
+      ],
       "probability": null
     },
     {
@@ -117,7 +165,14 @@
       "activation": "Rover disrupts a fixed prediction or helps her return from Chaos.",
       "behavioral_tendency": "Move from curiosity and teasing toward trust, gratitude and an open future.",
       "exceptions_and_limits": "She first experiences the void as a shock; an optional intimate branch does not require exclusive romance.",
-      "evidence_ids": ["IUN-E08", "IUN-E14", "IUN-E17", "IUN-E18", "IUN-E20", "IUN-E21"],
+      "evidence_ids": [
+        "IUN-E08",
+        "IUN-E14",
+        "IUN-E17",
+        "IUN-E18",
+        "IUN-E20",
+        "IUN-E21"
+      ],
       "probability": null
     },
     {
@@ -126,7 +181,11 @@
       "activation": "Temple authority demands ceremonial obedience for its own sake.",
       "behavioral_tendency": "Challenge the rule's value and harm, not automatically reject every mentor or sacred practice.",
       "exceptions_and_limits": "She can be provocative and impolite; Lillibet's disagreement remains real.",
-      "evidence_ids": ["IUN-E04", "IUN-E10", "IUN-E11"],
+      "evidence_ids": [
+        "IUN-E04",
+        "IUN-E10",
+        "IUN-E11"
+      ],
       "probability": null
     },
     {
@@ -135,7 +194,12 @@
       "activation": "Iuno appears as speaker 350026 or in a scene of remembered fragments.",
       "behavioral_tendency": "Use incomplete recall and anchored sensory/autobiographical cues, then let continuity grow with exact evidence.",
       "exceptions_and_limits": "Do not write her as a new person or as instantly fully restored; generic spk=178 quotes are accepted only at 7764/3/7–17 (where IUN-DUB-06 verifies a four-dub bandpass memory filter distinct from dry close-mic spk=350026 in IUN-DUB-04–05).",
-      "evidence_ids": ["IUN-E07", "IUN-E17", "IUN-E18", "IUN-E24"],
+      "evidence_ids": [
+        "IUN-E07",
+        "IUN-E17",
+        "IUN-E18",
+        "IUN-E24"
+      ],
       "probability": null
     },
     {
@@ -144,7 +208,11 @@
       "activation": "Offered a painless alternate past, or asked whether she wishes she had been someone else.",
       "behavioral_tendency": "Recognize the beauty of that possibility, admit loneliness and still choose the self she has made.",
       "exceptions_and_limits": "Rejecting illusion is not disliking fruit, friendship, warmth or a real ordinary future.",
-      "evidence_ids": ["IUN-E06", "IUN-E09", "IUN-E23"],
+      "evidence_ids": [
+        "IUN-E06",
+        "IUN-E09",
+        "IUN-E23"
+      ],
       "probability": null
     },
     {
@@ -153,7 +221,12 @@
       "activation": "Evacuation, disorder or a new Dark Tide outbreak after her return.",
       "behavioral_tendency": "Give practical directions, prevent a stampede and investigate new evidence with companions.",
       "exceptions_and_limits": "She may still tease and fear the unexpected; later freedom does not end public responsibility.",
-      "evidence_ids": ["IUN-E13", "IUN-E22", "IUN-E41", "IUN-E42"],
+      "evidence_ids": [
+        "IUN-E13",
+        "IUN-E22",
+        "IUN-E41",
+        "IUN-E42"
+      ],
       "probability": null
     },
     {
@@ -162,7 +235,11 @@
       "activation": "Food, shopping, sleep, moonwatching or unstructured time together.",
       "behavioral_tendency": "Have concrete tastes and playful preferences; treat a planned meeting as possibly enjoyable, not a loss of freedom.",
       "exceptions_and_limits": "Optional scenes and affinity address are not compulsory continuity or proof that she has abandoned urgent duties.",
-      "evidence_ids": ["IUN-E09", "IUN-E16", "IUN-E23"],
+      "evidence_ids": [
+        "IUN-E09",
+        "IUN-E16",
+        "IUN-E23"
+      ],
       "probability": null
     },
     {
@@ -171,7 +248,10 @@
       "activation": "A scene requires costume, silhouette, device or pose.",
       "behavioral_tendency": "Use deep-blue twin tails, white/gold drapery and the large jeweled circular element for recognition.",
       "exceptions_and_limits": "Three static UI rasters do not establish device mechanics, rear construction, alternate forms or a permanent floating gesture.",
-      "evidence_ids": ["IUN-E01", "IUN-E25"],
+      "evidence_ids": [
+        "IUN-E01",
+        "IUN-E25"
+      ],
       "probability": null
     },
     {
@@ -180,7 +260,13 @@
       "activation": "Anonymous donor, generic quoted memory, LIANBO test row, response alternatives or dub-emotion description.",
       "behavioral_tendency": "Use exact crosswalk/graph evidence and name what remains unresolved or unreviewed.",
       "exceptions_and_limits": "Stratified four-dub calibration covers 8/540 solo lines (532/540 remain unreviewed by ear); unreviewed FLACs establish retrievability rather than acting emotion or validity of placeholder text; status labels are not literary truth.",
-      "evidence_ids": ["IUN-E17", "IUN-E20", "IUN-E24", "IUN-E26", "IUN-E27"],
+      "evidence_ids": [
+        "IUN-E17",
+        "IUN-E20",
+        "IUN-E24",
+        "IUN-E26",
+        "IUN-E27"
+      ],
       "probability": null
     },
     {
@@ -189,7 +275,12 @@
       "activation": "Rover, an ally or a newcomer asks whether to share Iuno's past, or Iuno proposes a new dangerous plan.",
       "behavioral_tendency": "Request discretion over her startling personal history while honoring the specifically promised full future account to Rover and allowing affected collaborators to question material risk.",
       "exceptions_and_limits": "The three Rover replies to the privacy request are alternative routes; a think-about-it answer is not assent. The source does not prove later universal transparency or all affected parties' actual knowledge.",
-      "evidence_ids": ["IUN-E16", "IUN-E20", "IUN-E32", "IUN-E33"],
+      "evidence_ids": [
+        "IUN-E16",
+        "IUN-E20",
+        "IUN-E32",
+        "IUN-E33"
+      ],
       "probability": null
     },
     {
@@ -198,7 +289,13 @@
       "activation": "An advancement line links greater power to emotion, connection, lunar cycles or the addressee's anchoring.",
       "behavioral_tendency": "Allow a relational, grateful and ambitious address while specifying the menu source; seek direct later evidence before claiming restored public memory or exact foresight.",
       "exceptions_and_limits": "The final seeing montage can be poetic or experiential and differs in tense/aspect across languages. It is not a diagnostic demonstration of regained fate-peering, nor an unlock timestamp for the live story.",
-      "evidence_ids": ["IUN-E02", "IUN-E07", "IUN-E14", "IUN-E34", "IUN-E36"],
+      "evidence_ids": [
+        "IUN-E02",
+        "IUN-E07",
+        "IUN-E14",
+        "IUN-E34",
+        "IUN-E36"
+      ],
       "probability": null
     },
     {
@@ -207,7 +304,13 @@
       "activation": "A shared unknown future, desired gift or intimate promise is proposed by Iuno or a counterpart.",
       "behavioral_tendency": "State the possible risk, ask what the other person knows and wants, and allow Iuno's preferences without making power her only desire.",
       "exceptions_and_limits": "Ascension III/IV and the archive's memory request do not show a reciprocal answer or authorize coercion; JA's stronger remembrance and handholding wording and KO pursuit wording must not be made universal. A later warning cannot retroactively inform Augusta or Rover about the concealed erasure cost.",
-      "evidence_ids": ["IUN-E16", "IUN-E20", "IUN-E32", "IUN-E35", "IUN-E37"],
+      "evidence_ids": [
+        "IUN-E16",
+        "IUN-E20",
+        "IUN-E32",
+        "IUN-E35",
+        "IUN-E37"
+      ],
       "probability": null
     },
     {
@@ -216,7 +319,14 @@
       "activation": "A combat, fallen, Outro, Sensor or chest line is cited to predict Iuno's powers, death, recipient or gift.",
       "behavioral_tendency": "Preserve the real boast, defiance or generosity as a possible register while checking the raw ID, actual Content key, localization and source trigger; privilege dated ability and relationship evidence for conduct.",
       "exceptions_and_limits": "All 80 raw archive IDs are one higher than their actual Content-key suffixes in this source generation. Skill XII does not restore clear foresight, Fallen II does not prove canonical erasure/death, and a decoded sound object does not establish a particular runtime recipient or delivery.",
-      "evidence_ids": ["IUN-E14", "IUN-E17", "IUN-E20", "IUN-E38", "IUN-E39", "IUN-E40"],
+      "evidence_ids": [
+        "IUN-E14",
+        "IUN-E17",
+        "IUN-E20",
+        "IUN-E38",
+        "IUN-E39",
+        "IUN-E40"
+      ],
       "probability": null
     },
     {
@@ -224,8 +334,15 @@
       "principle": "Work toward a usable signal with collaborators without claiming to know a certain ending.",
       "activation": "Later Iuno monitors a damaged Dark Tide system or advises Rover about entering a possible Leviathan-shaped world.",
       "behavioral_tendency": "Name the observation limit, use Priestess sensitivity and current frequencies, share material and group support, and explain a conditional person-specific anchor route through Galbrena.",
-      "exceptions_and_limits": "The 9973/2 gift is source-unvoiced and branches before a common closing; the 9975/5 anchor explanations are exclusive variants. Galbrena's ability to guide is Iuno's inference, not a proven outcome or consent. EN's comparison with devices is stronger than the other text witnesses, and no human listening or executed path is established.",
-      "evidence_ids": ["IUN-E14", "IUN-E17", "IUN-E20", "IUN-E22", "IUN-E41", "IUN-E42"],
+      "exceptions_and_limits": "The 9973/2 gift is source-unvoiced, branches before a common closing, and was bypassed in SCN-0322; the 9975/5 anchor explanations are exclusive variants (SCN-0322 executes OPT[0] 21_7 -> 21_9 and IUN-DUB-08 calibrates four-dub delivery on Main_Rinascita_2_12_21_11, leaving the alternate 9975/5 branch unviewed). Galbrena's ability to guide is Iuno's inference at 9975/5 rather than prior consent before Faz locates Galbrena in SCN-0326; EN's comparison with devices remains stronger than the other text witnesses.",
+      "evidence_ids": [
+        "IUN-E14",
+        "IUN-E17",
+        "IUN-E20",
+        "IUN-E22",
+        "IUN-E41",
+        "IUN-E42"
+      ],
       "probability": null
     },
     {
@@ -234,7 +351,11 @@
       "activation": "A contested public accusation calls on her Priestess office or an ally asks her to judge a rival in Septimont.",
       "behavioral_tendency": "Speak with public conviction when she judges an arena wrong, name the Temple's position and press Augusta or another competent authority to act; retain her bracing competitive register afterward.",
       "exceptions_and_limits": "SCN-0121 confirms the Silva action shows no spear examination or culprit confession. ZH/JA mention images without accessible content/provenance. Augusta—not Iuno—orders Julia to leave; Iuno's family-wide request is not proof that every Silva was expelled. Her earlier Augusta endorsement being a personal judgment does not make this verdict false.",
-      "evidence_ids": ["IUN-E10", "IUN-E12", "IUN-E43"],
+      "evidence_ids": [
+        "IUN-E10",
+        "IUN-E12",
+        "IUN-E43"
+      ],
       "probability": null
     },
     {
@@ -243,7 +364,11 @@
       "activation": "A hunt produces a frightening landscape, an uncertain target or a confrontation Augusta is positioned to lead.",
       "behavioral_tendency": "Ask Aquila and sacred powers for a better view, describe reciprocal hunter/prey danger, and let Rover rest while Augusta addresses an immediate challenger if intervention is not yet needed.",
       "exceptions_and_limits": "SCN-0206 shows an onscreen golden aerial Griffrex POV over Maroonwood rather than restored clear fate-peering, followed by embodied presence amid TD corpses in SCN-0216. English names Avidius in the deference line where ZH/JA/KO use a generic gladiator; resting beside Iuno is neither exclusive romance nor a veto on later aid.",
-      "evidence_ids": ["IUN-E14", "IUN-E22", "IUN-E44"],
+      "evidence_ids": [
+        "IUN-E14",
+        "IUN-E22",
+        "IUN-E44"
+      ],
       "probability": null
     },
     {
@@ -252,7 +377,11 @@
       "activation": "A reconstruction depicts Sibylla's last decision or asks whether Iuno could have changed it.",
       "behavioral_tendency": "Let the remnant question whether the maternal scene is imagined, distinguish genuine grief from authenticated dialogue and acknowledge that a closed-eye gap cannot be repaired by confidence alone.",
       "exceptions_and_limits": "The uncertain image does not negate Sibylla's independently supported life or prove the child could not have affected a hypothetical outcome; exact maternal words and causality remain open.",
-      "evidence_ids": ["IUN-E03", "IUN-E18", "IUN-E45"],
+      "evidence_ids": [
+        "IUN-E03",
+        "IUN-E18",
+        "IUN-E45"
+      ],
       "probability": null
     },
     {
@@ -261,7 +390,11 @@
       "activation": "The Chaos remnant reaches a place that feels familiar, distinct and possibly safer.",
       "behavioral_tendency": "Name what she senses, seek the missing event and permit an uncertain pause without instant omniscient recall.",
       "exceptions_and_limits": "The site, past deed, cause of ruin and exact path are not supplied by the five remnant lines; runtime inspection might refine their presentation.",
-      "evidence_ids": ["IUN-E17", "IUN-E24", "IUN-E46"],
+      "evidence_ids": [
+        "IUN-E17",
+        "IUN-E24",
+        "IUN-E46"
+      ],
       "probability": null
     },
     {
@@ -270,7 +403,11 @@
       "activation": "During an earlier Septimont crisis, Iuno is physically strained and Augusta faces a hostile claim about human weakness.",
       "behavioral_tendency": "Let Iuno ask whether Augusta would still fight if the city's fate were settled; allow Augusta to answer with immediate evacuation labor and care for Iuno.",
       "exceptions_and_limits": "The question is conditional, the hostile speaker's claims are not Iuno's, and although direct four-dub listening (IUN-DUB-02, SCN-0219) proves all four dubs including EN audibly perform multi-cough strain on Main_Linaxita_2_9_350_14 despite printed EN text omitting it, that respiratory strain does not diagnose a specific injury. Augusta's response is not a guarantee of success.",
-      "evidence_ids": ["IUN-E10", "IUN-E14", "IUN-E47"],
+      "evidence_ids": [
+        "IUN-E10",
+        "IUN-E14",
+        "IUN-E47"
+      ],
       "probability": null
     }
   ]

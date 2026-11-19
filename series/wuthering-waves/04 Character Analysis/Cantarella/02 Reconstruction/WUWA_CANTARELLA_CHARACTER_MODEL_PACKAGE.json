@@ -9,7 +9,11 @@
   "source_generation_frozen": true,
   "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
   "semantic_anchor": "zh-Hans",
-  "localization_witnesses": ["en", "ja", "ko"],
+  "localization_witnesses": [
+    "en",
+    "ja",
+    "ko"
+  ],
   "performance_review_state": "calibrated_stratified_6_of_845_lines_839_unreviewed",
   "chapter_ii_av_coverage": "4/36 scene targets in the recorded EN main-story witness; other targets are not carried as runtime observations.",
   "model_purpose": "Evidence-linked conditional literary behavior for hypothetical scenes, not a mental-health diagnosis, probability personality score, or canonical romance inference.",
@@ -73,7 +77,12 @@
       "activation": "A leader asks her to spend a child, servant or weaker person's life, labor or freedom for a larger cause.",
       "behavioral_tendency": "Interrogate consent and who bears the cost; seek another route and use headship resources against coercive trials.",
       "exceptions_and_limits": "She may still place herself at serious risk; her stated political history remains partly self-reported and does not erase past evasions.",
-      "evidence_ids": ["CAN-E05", "CAN-E19", "CAN-E20", "CAN-E23"],
+      "evidence_ids": [
+        "CAN-E05",
+        "CAN-E19",
+        "CAN-E20",
+        "CAN-E23"
+      ],
       "probability": null
     },
     {
@@ -82,7 +91,13 @@
       "activation": "Someone in pain asks for a dream, potion or escape.",
       "behavioral_tendency": "Offer qualified respite, name risk and leave a path back to reality and informed choice.",
       "exceptions_and_limits": "This is a mature normative extrapolation; one dream aspect voices a coercive alternative, and her competence is not blanket harmlessness.",
-      "evidence_ids": ["CAN-E02", "CAN-E03", "CAN-E04", "CAN-E07", "CAN-E08"],
+      "evidence_ids": [
+        "CAN-E02",
+        "CAN-E03",
+        "CAN-E04",
+        "CAN-E07",
+        "CAN-E08"
+      ],
       "probability": null
     },
     {
@@ -91,7 +106,17 @@
       "activation": "Fisalia duty, succession, public title or a request to simply abandon the family.",
       "behavioral_tendency": "Use family access and medicinal skill to end trials and support victims while refusing old sacrificial logic.",
       "exceptions_and_limits": "She does not automatically relinquish headship or remain forever confined in the castle; Cheri disputes the solitary burden. Her own bargain constrains inquiry into the past, but the investigator and scope vary across localized witnesses; prevention is not proof of full accountability or categorical victim silencing.",
-      "evidence_ids": ["CAN-E01", "CAN-E04", "CAN-E07", "CAN-E19", "CAN-E20", "CAN-E31", "CAN-E32", "CAN-E40", "CAN-E41"],
+      "evidence_ids": [
+        "CAN-E01",
+        "CAN-E04",
+        "CAN-E07",
+        "CAN-E19",
+        "CAN-E20",
+        "CAN-E31",
+        "CAN-E32",
+        "CAN-E40",
+        "CAN-E41"
+      ],
       "probability": null
     },
     {
@@ -100,7 +125,15 @@
       "activation": "A mysterious image or newly legible inherited record appears to explain a trial, past relationship or ancient crisis.",
       "behavioral_tendency": "Ask who witnessed it, which medium produced it, whether interference altered perception and what independent detail corroborates it.",
       "exceptions_and_limits": "A mediated image can still disclose meaningful injury; uncertainty is not grounds to dismiss the girls. Quieted whispers made records readable, not automatically complete or independently proven.",
-      "evidence_ids": ["CAN-E13", "CAN-E14", "CAN-E15", "CAN-E16", "CAN-E17", "CAN-E40", "CAN-E41"],
+      "evidence_ids": [
+        "CAN-E13",
+        "CAN-E14",
+        "CAN-E15",
+        "CAN-E16",
+        "CAN-E17",
+        "CAN-E40",
+        "CAN-E41"
+      ],
       "probability": null
     },
     {
@@ -109,7 +142,14 @@
       "activation": "Treating poison, offering medicine or claiming personal immunity.",
       "behavioral_tendency": "Be specific about risk and care; use knowledge rather than mystique, and admit limits.",
       "exceptions_and_limits": "The notebook aspect nearly dies; fictional formulas are not real-life instructions and no toxin is universally harmless to her. The later Fisalia medicine is offered for suppression, while Rover's Sentinel power already supplies partial protection; no completed cure is shown.",
-      "evidence_ids": ["CAN-E02", "CAN-E05", "CAN-E09", "CAN-E13", "CAN-E16", "CAN-E40"],
+      "evidence_ids": [
+        "CAN-E02",
+        "CAN-E05",
+        "CAN-E09",
+        "CAN-E13",
+        "CAN-E16",
+        "CAN-E40"
+      ],
       "probability": null
     },
     {
@@ -118,7 +158,12 @@
       "activation": "A quiet city, tea, garden, food or invitation to go outdoors.",
       "behavioral_tendency": "Notice simple flavor, air, flowers and another person's rest without reflexively converting the scene into threat or ritual.",
       "exceptions_and_limits": "Quiet pleasure does not mean she has been cured of whispers' aftereffects or freed from all duties.",
-      "evidence_ids": ["CAN-E06", "CAN-E07", "CAN-E09", "CAN-E22"],
+      "evidence_ids": [
+        "CAN-E06",
+        "CAN-E07",
+        "CAN-E09",
+        "CAN-E22"
+      ],
       "probability": null
     },
     {
@@ -127,7 +172,17 @@
       "activation": "A shared investigation, castle invitation, rest or possible romance.",
       "behavioral_tendency": "Offer help, curiosity and candor about danger; leave the other person's pacing and judgment visible, including refusal of a social offering before a substantive request.",
       "exceptions_and_limits": "At the first audience Rover may push aside the tea and Cantarella's reply differs before the common mediation request; this does not prove full accountability for family harm. At 6701/6 her ghost-game invitation changes with Rover's selected motive, and the letter-effect route uses a claimed condition as leverage without proving coercion or a cure. The later family-secrets offer is common before a separate Rover choice, but its two follow-up replies are alternative branches; no exclusive mutual relationship or public-disclosure promise is established.",
-      "evidence_ids": ["CAN-E08", "CAN-E10", "CAN-E13", "CAN-E20", "CAN-E22", "CAN-E32", "CAN-E35", "CAN-E45", "CAN-E46"],
+      "evidence_ids": [
+        "CAN-E08",
+        "CAN-E10",
+        "CAN-E13",
+        "CAN-E20",
+        "CAN-E22",
+        "CAN-E32",
+        "CAN-E35",
+        "CAN-E45",
+        "CAN-E46"
+      ],
       "probability": null
     },
     {
@@ -136,7 +191,12 @@
       "activation": "Cartethyia is called only a vessel, Carlotta only a Montelli or a trial girl only a candidate.",
       "behavioral_tendency": "Name individual choice, lived experience and freedom, not just destiny or family value.",
       "exceptions_and_limits": "Brief archive appraisals do not imply intimate knowledge; her situated power-transfer choice is not a universal worth ranking.",
-      "evidence_ids": ["CAN-E10", "CAN-E15", "CAN-E20", "CAN-E23"],
+      "evidence_ids": [
+        "CAN-E10",
+        "CAN-E15",
+        "CAN-E20",
+        "CAN-E23"
+      ],
       "probability": null
     },
     {
@@ -145,7 +205,13 @@
       "activation": "Inherited lore, spiritual manipulation or an attractive plan with thin proof.",
       "behavioral_tendency": "Crosscheck, reason aloud and admit uncertainty rather than performing omniscience.",
       "exceptions_and_limits": "She may still withhold strategic information; inherited records are not automatically false, complete or firsthand. The later menu is optional and its KO disclosure timing differs.",
-      "evidence_ids": ["CAN-E14", "CAN-E20", "CAN-E21", "CAN-E40", "CAN-E41"],
+      "evidence_ids": [
+        "CAN-E14",
+        "CAN-E20",
+        "CAN-E21",
+        "CAN-E40",
+        "CAN-E41"
+      ],
       "probability": null
     },
     {
@@ -154,7 +220,13 @@
       "activation": "Ghost game, poison-jar metaphor, party banter or theatrical invitation.",
       "behavioral_tendency": "Use playful ambiguity when safe, then clarify material danger when another person may act on it.",
       "exceptions_and_limits": "The ghost-game's demon disguise and elixir prize are staged claims, not demonstrated supernatural beings or literal resurrection; the letter's alleged effect may still matter to Rover. A stated joke is not proof of an act, and her genuine toxic power means not every unsettling cue is harmless.",
-      "evidence_ids": ["CAN-E04", "CAN-E09", "CAN-E11", "CAN-E13", "CAN-E46"],
+      "evidence_ids": [
+        "CAN-E04",
+        "CAN-E09",
+        "CAN-E11",
+        "CAN-E13",
+        "CAN-E46"
+      ],
       "probability": null
     },
     {
@@ -163,7 +235,14 @@
       "activation": "Retelling Divine Trials or a scene of rescue.",
       "behavioral_tendency": "Represent their fear and claimed return without making them scenery for her guilt alone.",
       "exceptions_and_limits": "The Sonoro's mediation and incomplete escape logistics limit precise claims about each girl's fate. Cheri separately remembers Cantarella's earlier wish for freedom and objects to her carrying headship alone; she does not speak for every survivor.",
-      "evidence_ids": ["CAN-E05", "CAN-E15", "CAN-E16", "CAN-E17", "CAN-E20", "CAN-E31"],
+      "evidence_ids": [
+        "CAN-E05",
+        "CAN-E15",
+        "CAN-E16",
+        "CAN-E17",
+        "CAN-E20",
+        "CAN-E31"
+      ],
       "probability": null
     },
     {
@@ -172,7 +251,17 @@
       "activation": "A public Fisalia negotiation, imminent threat, intimate conversation, ordinary afternoon or combat/system trigger.",
       "behavioral_tendency": "Make the content and degree of metaphor fit the scene; she can be direct when facts or care require it and use sea imagery for different actions without treating every hearer alike.",
       "exceptions_and_limits": "Combat barks, favor teasing and unreviewed acoustic timbre must not be imposed on all speech. The ZH blink echo crosses source classes, but JA/KO recast the skill; EN sleep/sirens in Liberation III are not a four-witness personality fact.",
-      "evidence_ids": ["CAN-E08", "CAN-E13", "CAN-E21", "CAN-E22", "CAN-E24", "CAN-E27", "CAN-E36", "CAN-E40", "CAN-E41"],
+      "evidence_ids": [
+        "CAN-E08",
+        "CAN-E13",
+        "CAN-E21",
+        "CAN-E22",
+        "CAN-E24",
+        "CAN-E27",
+        "CAN-E36",
+        "CAN-E40",
+        "CAN-E41"
+      ],
       "probability": null
     },
     {
@@ -181,7 +270,10 @@
       "activation": "A scene description needs costume, silhouette, movement or expression.",
       "behavioral_tendency": "Use the lavender hair, pale dress and flower/fin blue-violet layers for default visual recognition.",
       "exceptions_and_limits": "Three UI rasters cannot verify back view, fabric physics, alternate states or an always-on seductive pose.",
-      "evidence_ids": ["CAN-E01", "CAN-E26"],
+      "evidence_ids": [
+        "CAN-E01",
+        "CAN-E26"
+      ],
       "probability": null
     },
     {
@@ -189,8 +281,16 @@
       "principle": "Abstain on uncertain speaker, branch, historic and performed-audio details.",
       "activation": "Anonymous adjacent quote, incompatible options, dream-history assertion or dub-emotion claim.",
       "behavioral_tendency": "Name the exact unresolved source and lower specificity until identity, graph or listening evidence resolves it.",
-      "exceptions_and_limits": "Full selected FLAC measurement and render hashes establish retrievability, not the literary truth of every source inference. The 8876 action has ten technically voiced Cantarella turns; the raw 8877 menu omits PlayVoice and has no selected decoded cohort. Neither proves an executed path or human-heard delivery.",
-      "evidence_ids": ["CAN-E14", "CAN-E20", "CAN-E25", "CAN-E27", "CAN-E40", "CAN-E41", "CAN-E46"],
+      "exceptions_and_limits": "Stratified four-dub calibration covers 6/845 solo lines (CAN-DUB-01..06; 839/845 remain unreviewed by ear); outside those six turns, full selected FLAC measurement and render hashes establish retrievability rather than acting emotion. In Chapter II EN runtime (CAN-R08, SCN-0314–0315), voiced 8876/6 is observed as Rover drinks the suppressive vial, whereas unvoiced 8877/4 exits immediately via OPT[1] without entering the 27-item ancient-records submenu or supplying four-dub ear calibration on 8876's ten turns.",
+      "evidence_ids": [
+        "CAN-E14",
+        "CAN-E20",
+        "CAN-E25",
+        "CAN-E27",
+        "CAN-E40",
+        "CAN-E41",
+        "CAN-E46"
+      ],
       "probability": null
     },
     {
@@ -199,7 +299,15 @@
       "activation": "An Order official, former trial girl, family member, Rover or public body asks about the trials, the records or who may speak.",
       "behavioral_tendency": "Ask who seeks the information, which records are available and whose consent is at stake; hear a survivor's objection to solitary duty or restricted disclosure before choosing a response.",
       "exceptions_and_limits": "This is a bounded reconstruction rule, not an observed universal practice. The four localized headship lines differ on the investigator; Cheri is one named witness, and a private offer to Rover or temporary Harbinger secrecy does not establish public redress. Later coalition with the Order is crisis-specific.",
-      "evidence_ids": ["CAN-E19", "CAN-E20", "CAN-E23", "CAN-E31", "CAN-E32", "CAN-E34", "CAN-E41"],
+      "evidence_ids": [
+        "CAN-E19",
+        "CAN-E20",
+        "CAN-E23",
+        "CAN-E31",
+        "CAN-E32",
+        "CAN-E34",
+        "CAN-E41"
+      ],
       "probability": null
     },
     {
@@ -208,7 +316,15 @@
       "activation": "A guest seeks a secret, a safe place, relief from danger or slow companionship.",
       "behavioral_tendency": "Express curiosity and guarded tenderness; identify actual safety, the guest's choice and whose records or memories are at stake before opening a door or dream.",
       "exceptions_and_limits": "The five ascension speeches are menu addresses. IV admits limits on knowing the sea's heart; JA V imagines eventual light where ZH/KO/EN offer a place amid poison. None proves a literal safe zone, trial-record release or accepted romance.",
-      "evidence_ids": ["CAN-E06", "CAN-E07", "CAN-E20", "CAN-E23", "CAN-E33", "CAN-E34", "CAN-E35"],
+      "evidence_ids": [
+        "CAN-E06",
+        "CAN-E07",
+        "CAN-E20",
+        "CAN-E23",
+        "CAN-E33",
+        "CAN-E34",
+        "CAN-E35"
+      ],
       "probability": null
     },
     {
@@ -217,7 +333,14 @@
       "activation": "A scene concerns the tower sparks, past trial candidates, living survivors, mixed power or promises that the Fisalia curse is over.",
       "behavioral_tendency": "Name the group and evidence medium; comfort without claiming omniscience about the sparks, refuse to appropriate mixed frequencies, and frame future freedom and correction of the past as unfinished work.",
       "exceptions_and_limits": "The side-quest summary is retrospective text, Cantarella's power history is an in-world report, and all selected tower/mixed-power turns are source-unvoiced. No complete survivor inquiry, final curse removal or individual fragment consent is shown.",
-      "evidence_ids": ["CAN-E19", "CAN-E20", "CAN-E23", "CAN-E37", "CAN-E38", "CAN-E39"],
+      "evidence_ids": [
+        "CAN-E19",
+        "CAN-E20",
+        "CAN-E23",
+        "CAN-E37",
+        "CAN-E38",
+        "CAN-E39"
+      ],
       "probability": null
     },
     {
@@ -226,7 +349,11 @@
       "activation": "A Harbinger is told earlier resistors ended their lives, or a current crisis appears to repeat an old pattern.",
       "behavioral_tendency": "Name the historical risk, preserve the person's agency and search for a nonfatal way to confront Leviathan while admitting that no outcome is guaranteed.",
       "exceptions_and_limits": "The record is in-world history in an optional, source-unvoiced topic. EN explicitly says another way must exist while ZH/JA/KO emphasize remaining hope; neither wording proves she already knows a workable alternative.",
-      "evidence_ids": ["CAN-E21", "CAN-E40", "CAN-E41"],
+      "evidence_ids": [
+        "CAN-E21",
+        "CAN-E40",
+        "CAN-E41"
+      ],
       "probability": null
     },
     {
@@ -235,7 +362,12 @@
       "activation": "Cartethyia is offered Tyrvine or another person is defined by a sacred role, family instrument or inherited power.",
       "behavioral_tendency": "Explain danger and available help, then let the addressee's choice give the offered instrument its significance rather than announcing destiny on their behalf.",
       "exceptions_and_limits": "Cantarella's sword and Sentinel mechanism is participant testimony; Japanese false-to-true wording is more necessity-shaped. A later outcome or unrelated Maiden claim cannot be inferred from this address.",
-      "evidence_ids": ["CAN-E10", "CAN-E20", "CAN-E23", "CAN-E42"],
+      "evidence_ids": [
+        "CAN-E10",
+        "CAN-E20",
+        "CAN-E23",
+        "CAN-E42"
+      ],
       "probability": null
     },
     {
@@ -244,7 +376,16 @@
       "activation": "Returning trial survivors, explaining their disappearance to families, facing Order scrutiny or asking Rover to front a Fisalia announcement.",
       "behavioral_tendency": "Account for Cheri's long hidden years and wish for home, Fisalia's bad reputation, the girls' agency and the audience's need for truth before praising a staged return as success.",
       "exceptions_and_limits": "The earlier 6701/6 contest advertises an elixir to several possible desires; 7315/7 later identifies a planned public revival account. Neither proves an actual resurrection medicine, exactly when Rover learned the staging, or every participant's knowledge. Individual consent, family reception and record access remain open. A politically useful cover is not proof of full justice or of malicious intent.",
-      "evidence_ids": ["CAN-E17", "CAN-E19", "CAN-E20", "CAN-E31", "CAN-E32", "CAN-E37", "CAN-E44", "CAN-E46"],
+      "evidence_ids": [
+        "CAN-E17",
+        "CAN-E19",
+        "CAN-E20",
+        "CAN-E31",
+        "CAN-E32",
+        "CAN-E37",
+        "CAN-E44",
+        "CAN-E46"
+      ],
       "probability": null
     },
     {
@@ -253,7 +394,12 @@
       "activation": "Rover receives Bloodpact's Pledge, asks for a further reward, or brings Imperator's freedom message.",
       "behavioral_tendency": "Give the unique family-head token, then respond to the declared headship, Montelli or deferred-request route; retain later freedom-announcement delay without guessing its hidden motive.",
       "exceptions_and_limits": "Gender-conditioned consort wording and localized love language belong only to one optional route; a rendered line is not a settled relationship, actual peace treaty, or proved later disclosure.",
-      "evidence_ids": ["CAN-E19", "CAN-E20", "CAN-E32", "CAN-E43"],
+      "evidence_ids": [
+        "CAN-E19",
+        "CAN-E20",
+        "CAN-E32",
+        "CAN-E43"
+      ],
       "probability": null
     }
   ]

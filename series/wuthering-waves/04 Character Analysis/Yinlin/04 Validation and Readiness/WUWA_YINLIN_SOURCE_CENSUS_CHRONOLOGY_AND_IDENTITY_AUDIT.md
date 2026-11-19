@@ -5,8 +5,8 @@ artifact_type: audit
 analytical_responsibility: "Source census, reveal-state and identity adjudication, partial chronology, and evidence limits"
 scope: YINLIN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: YINLIN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,12 +15,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Yinlin — source census, chronology, and identity audit
 
-This audit governs a **noncurrent working reconstruction** of Yinlin (吟霖, playable role 1302). It distinguishes her source-attributed speech from deliberately performed undercover identities and from other speakers; it also distinguishes historic quest events from optional dream simulations and low-authority test stubs. The pinned normalized Arikatsu semantic view is anchored in Chinese, with EN/JA/KO localization witnesses. Installed-client audio is separately official-client raw media evidence, not proof that all normalized semantic tables have independent official-client parity. Source freeze state and draft analytical authority are orthogonal.
+This audit governs the **owner-adopted `active_provisional` reconstruction** of Yinlin (吟霖, playable role 1302). It distinguishes her source-attributed speech from deliberately performed undercover identities and from other speakers; it also distinguishes historic quest events from optional dream simulations and low-authority test stubs. The pinned normalized Arikatsu semantic view is anchored in Chinese, with EN/JA/KO localization witnesses. Installed-client audio is separately official-client raw media evidence, not proof that all normalized semantic tables have independent official-client parity. Source freeze state and analytical authority are orthogonal.
 
 The owner-authenticated private evidence route is ANALYSIS/Characters/Yinlin in the local extraction workspace, replicated under 03 Analysis Bridge Corpora/Characters/Yinlin/ in Drive. The local collection's YINLIN_READING_GUIDE.md, COLLECTION_AUDIT.json, occurrence_identity_crosswalk.jsonl, SCENE_AND_EVIDENCE_LEDGER.jsonl, five-story/favor source package, and source-locked four-language voice manifests provide the reproducible inputs. Audio object-level measurements stay outside Git in _research/character_packets/Yinlin/audio_work/. For compact source citations, R/A/T means BinData/flowState/flowstate.json#/R/Actions!/A/Params/TalkItems/T beneath the pinned wuwa:// commit. A flow row or friendly state name is not by itself a complete quest graph.
 

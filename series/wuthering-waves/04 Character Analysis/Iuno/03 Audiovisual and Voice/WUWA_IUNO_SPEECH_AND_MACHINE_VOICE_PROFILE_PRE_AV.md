@@ -4,8 +4,8 @@ character: Iuno
 artifact_type: speech_and_machine_voice_profile_pre_av
 scope: IUNO_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: IUNO_PRE_AV_V0_1
-status: active_provisional
-release_state: owner_adopted_current_provisional
+status: canonical
+release_state: owner_adopted_current_canonical
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -19,7 +19,7 @@ do_not_use_as_current_authority: false
 
 # Iuno — textual speech and measured voice, pre-AV
 
-> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_IUNO_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `canonical` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_IUNO_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 ## A voice with state, not one permanent pose
 
@@ -79,7 +79,7 @@ A completed performed-voice claim would require listening to all 540 selected se
 
 ### Cohort separation and coverage boundary
 
-This section records bounded direct four-dub listening from [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) and [WUWA_IUNO_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_IUNO_AV_HUMAN_RETRIEVAL_CROSSWALK.md) without altering the historical machine-measurement sections above and while keeping this packet strictly `draft_noncurrent` (`do_not_use_as_current_authority: true`):
+This section records bounded direct four-dub listening from [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) and [WUWA_IUNO_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_IUNO_AV_HUMAN_RETRIEVAL_CROSSWALK.md) without altering the historical machine-measurement sections above (originally recorded under `draft_noncurrent`; packet now owner-adopted `canonical` with `do_not_use_as_current_authority: false`):
 
 - **Cohort 1 — Complete selected machine corpus (unreviewed by ear as a whole)**: `540` semantic line records, `2,162` render associations, and `2,155` disjoint verified native PCM/FLAC objects.
 - **Cohort 2 — Source-defined disappearance-and-return machine audit**: `170/540` semantic lines (`680` distinct mono objects) across eight pinned story cohorts.

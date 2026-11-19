@@ -20,7 +20,7 @@ do_not_use_as_current_authority: false
 
 # Qiuyuan — the sword, the sheath, and the unfinished judgment
 
-> Working draft for the selected 3.6.0 corpus. The [matrix](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md) gives falsifiable claim IDs and exact retrieval routes; the [source audit](../04%20Validation%20and%20Readiness/WUWA_QIUYUAN_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md) gives denominators and identity boundaries. Nothing here establishes a completed audiovisual, perceptual-listening, or later-version arc.
+> Owner-adopted `active_provisional` reading for the selected 3.6.0 corpus (`do_not_use_as_current_authority: false`). The [matrix](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md) gives falsifiable claim IDs and exact retrieval routes; the [source audit](../04%20Validation%20and%20Readiness/WUWA_QIUYUAN_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md) gives denominators and identity boundaries. Nothing here establishes a completed audiovisual, perceptual-listening, or later-version arc.
 
 ## The central problem
 

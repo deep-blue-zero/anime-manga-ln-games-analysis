@@ -5,8 +5,8 @@ artifact_type: character_current_state
 analytical_responsibility: "Canonical current authority router for this character; provenance, completed AV work, and remaining constraints"
 scope: AUGUSTA_PINNED_3_6_0_CH2_AV_RECONCILED
 analysis_generation: AUGUSTA_PRE_AV_V0_1_PLUS_WUWA_RINASCITA_CH2_SHARED_AV_V01
-status: active_provisional
-release_state: owner_adopted_current_provisional
+status: canonical
+release_state: owner_adopted_current_canonical
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
@@ -19,9 +19,9 @@ do_not_use_as_current_authority: false
 
 ## Authority and entrypoints
 
-The existing [reconstruction packet](WUWA_AUGUSTA_ANALYSIS_PACKET_README.md) is **owner-adopted current `active_provisional` authority** for its pinned Wuthering Waves 3.6.0 textual, machine-audio, bounded visual and Chapter II AV-reviewed evidence. Its `PRE_AV` filenames and original V0.1 generation labels preserve the chronology of production, **not** a present draft, noncurrent state or claim that audiovisual inspection has never happened. The [continuous deep dive](01%20Evidence%20and%20Source-Facing/WUWA_AUGUSTA_CHARACTER_DEEP_DIVE_PRE_AV.md) and [evidence/falsification matrix](01%20Evidence%20and%20Source-Facing/WUWA_AUGUSTA_EVIDENCE_AND_FALSIFICATION_MATRIX.md) are the source-facing interpretive center; the [compiled model](02%20Reconstruction/WUWA_AUGUSTA_CHARACTER_MODEL_PACKAGE.json) is subordinate to source findings and claim revisions. The [original packet README](WUWA_AUGUSTA_ANALYSIS_PACKET_README.md) retains its detailed provenance, source denominators and navigation duties.
+The existing [reconstruction packet](WUWA_AUGUSTA_ANALYSIS_PACKET_README.md) is **owner-adopted current `canonical` authority** for its pinned Wuthering Waves 3.6.0 textual, machine-audio, bounded visual and Chapter II AV-reviewed evidence. Its `PRE_AV` filenames and original V0.1 generation labels preserve the chronology of production, **not** a present draft, noncurrent state or claim that audiovisual inspection has never happened. The [continuous deep dive](01%20Evidence%20and%20Source-Facing/WUWA_AUGUSTA_CHARACTER_DEEP_DIVE_PRE_AV.md) and [evidence/falsification matrix](01%20Evidence%20and%20Source-Facing/WUWA_AUGUSTA_EVIDENCE_AND_FALSIFICATION_MATRIX.md) are the source-facing interpretive center; the [compiled model](02%20Reconstruction/WUWA_AUGUSTA_CHARACTER_MODEL_PACKAGE.json) is subordinate to source findings and claim revisions. The [original packet README](WUWA_AUGUSTA_ANALYSIS_PACKET_README.md) retains its detailed provenance, source denominators and navigation duties.
 
-[Owner adoption and acceptance record](../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md); [visual-design profile](03%20Audiovisual%20and%20Voice/CHARACTER_VISUAL_DESIGN_PROFILE.md); [visual provenance manifest](03%20Audiovisual%20and%20Voice/CHARACTER_VISUAL_REFERENCE_MANIFEST.json). The [current source-backed validation receipt](../../08%20Audits%20and%20Manifests/WUWA_CH2_CURRENT_SOURCE_VALIDATION_2026_11_19.json) records 332 passing checks for this packet at its bound adoption-candidate snapshot on 2026-11-19. These are mechanical source/identity/render checks, not fresh listening or AV fidelity acceptance. The unchanged [historical validation report](04%20Validation%20and%20Readiness/VALIDATION_REPORT.json) preserves the earlier draft-authority run.
+[Owner adoption and acceptance record](../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md); [visual-design profile](03%20Audiovisual%20and%20Voice/CHARACTER_VISUAL_DESIGN_PROFILE.md); [visual provenance manifest](03%20Audiovisual%20and%20Voice/CHARACTER_VISUAL_REFERENCE_MANIFEST.json). The regenerated [source-crosschecked validation report](04%20Validation%20and%20Readiness/VALIDATION_REPORT.json) records `332` passing checks (`source_crosscheck: passed`), and the [source-backed validation receipt](../../08%20Audits%20and%20Manifests/WUWA_CH2_CURRENT_SOURCE_VALIDATION_2026_11_19.json) binds both the regenerated current-authority report and the historical draft-run SHA-256. Promoted to `canonical` under the owner's 2026-11-19 coverage-depth tiering based on substantial Chapter II main-arc scene resolution, four-dub human-ear calibration, and claim/model reconciliation (`CHARACTER_VISUAL_DESIGN_PROFILE.md` retains its separate `active_provisional` three-raster status).
 
 ## Completed reviews: Chapter II scenes and separately scoped four-dub voice
 

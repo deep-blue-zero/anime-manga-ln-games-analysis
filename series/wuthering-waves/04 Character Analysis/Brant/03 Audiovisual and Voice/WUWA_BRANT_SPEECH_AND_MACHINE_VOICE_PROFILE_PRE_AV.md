@@ -19,7 +19,7 @@ do_not_use_as_current_authority: false
 
 # Brant — speech and machine voice, before listening
 
-> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_BRANT_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `active_provisional` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_BRANT_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 This is a text-register analysis and a native-audio integrity/signal census. **No human four-dub listening, actor-performance annotation or runtime audiovisual review had occurred in the pre-AV baseline preserved below** (see the appended **Stratified four-dub direct-listening calibration** section for the bounded `6/606`-line / `24`-render direct-ear pass while `600/606` semantic lines remain unreviewed). The Chinese text is the semantic anchor; localization witnesses can choose different metaphors, lengths and idioms. Do not compare raw written-unit rates across scripts as if they were phonetic syllables.
 
@@ -78,7 +78,7 @@ The [23 exact matched cases](AUDIO_MATCHED_SEMANTIC_CASES.json) each retain occu
 
 ### Cohort separation and coverage boundary
 
-This section incorporates bounded direct human listening from [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) and [WUWA_BRANT_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_BRANT_AV_HUMAN_RETRIEVAL_CROSSWALK.md) without modifying the historical pre-AV machine cohorts above and while preserving `draft_noncurrent` status (`do_not_use_as_current_authority: true`):
+This section incorporates bounded direct human listening from [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) and [WUWA_BRANT_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_BRANT_AV_HUMAN_RETRIEVAL_CROSSWALK.md) without modifying the historical pre-AV machine cohorts above (originally recorded under `draft_noncurrent`; packet now owner-adopted `active_provisional` with `do_not_use_as_current_authority: false`):
 
 - **Cohort 1 — Whole selected machine census (unreviewed by ear as a whole)**: `606` semantic lines (`544` voiced story + `62` archive), `2,432` render associations, and `2,324` distinct verified FLAC/PCM objects (`28` shared four-dub objects).
 - **Cohort 2 — Source-defined scene-cohort machine audit**: `104/606` semantic lines (`416` mono render associations) across opening/rehearsal (`4220/3`, `4385/1`), island history (`4381/2`), and later cost actions (`5248/5`, `5357/3`).

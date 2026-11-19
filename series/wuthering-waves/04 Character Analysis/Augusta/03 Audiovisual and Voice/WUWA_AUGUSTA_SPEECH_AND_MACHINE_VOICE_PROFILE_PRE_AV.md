@@ -4,8 +4,8 @@ character: Augusta
 artifact_type: speech_and_machine_voice_profile
 scope: AUGUSTA_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: AUGUSTA_PRE_AV_V0_1
-status: active_provisional
-release_state: owner_adopted_current_provisional
+status: canonical
+release_state: owner_adopted_current_canonical
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -19,7 +19,7 @@ do_not_use_as_current_authority: false
 
 # Augusta — textual speech and measured audio, pre-AV
 
-> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_AUGUSTA_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `canonical` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_AUGUSTA_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 The pinned scripts support speech *acts and registers*; the local client-derived FLACs support source/render identity and signal measurements. Human four-dub listening and runtime gesture inspection had **not** been done in the pre-AV baseline preserved below (see the appended **Stratified four-dub direct-listening calibration** section for the bounded `8/605`-line / `32`-render direct-ear pass while `597/605` semantic lines remain unreviewed), so no claim about enacted tenderness, authority, accent, actor intention or emotional pitch is made in the pre-AV sections. Some central reflective scenes are source-unvoiced.
 
@@ -79,7 +79,7 @@ The first four-dub comparison should contrast public `Main_Linaxita_2_9_25_7` wi
 
 ### Cohort separation and coverage boundary
 
-This section records bounded direct human listening from the Chapter II shared audiovisual pass ([WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md); [WUWA_AUGUSTA_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_AUGUSTA_AV_HUMAN_RETRIEVAL_CROSSWALK.md)) without altering the historical machine-measurement cohorts above and while keeping this packet strictly `draft_noncurrent` (`do_not_use_as_current_authority: true`):
+This section records bounded direct human listening from the Chapter II shared audiovisual pass ([WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md); [WUWA_AUGUSTA_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_AUGUSTA_AV_HUMAN_RETRIEVAL_CROSSWALK.md)) without altering the historical machine-measurement cohorts above (originally recorded under `draft_noncurrent`; packet now owner-adopted `canonical` with `do_not_use_as_current_authority: false`):
 
 - **Cohort 1 — Full selected machine pass (unreviewed by ear as a whole)**: `605` semantic voice lines (`537` story + `68` archive), `2,420` render associations, and `2,399` distinct verified FLAC/PCM objects.
 - **Cohort 2 — Source-defined story-action machine audit**: `189/605` story occurrences (`756` distinct four-dub objects) measured algorithmically across nine pinned action slices.

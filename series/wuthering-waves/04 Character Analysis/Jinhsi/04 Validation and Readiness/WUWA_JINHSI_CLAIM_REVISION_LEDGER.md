@@ -2,11 +2,11 @@
 series: WUWA
 character: Jinhsi
 artifact_type: claim_revision_ledger
-analytical_responsibility: "Record graph, attribution, localization, public-choice and pre-Firmament agency corrections to the local noncurrent draft"
+analytical_responsibility: "Record graph, attribution, localization, public-choice and pre-Firmament agency corrections in the Jinhsi packet"
 scope: JINHSI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: JINHSI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,12 +15,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Jinhsi — local draft claim-revision ledger
 
-This ledger records changes **within an unpublished, noncurrent draft**, not supersession of a published or owner-adopted interpretation. The pinned semantic generation is unchanged. The [evidence matrix](../01%20Evidence%20and%20Source-Facing/WUWA_JINHSI_EVIDENCE_AND_FALSIFICATION_MATRIX.md) retains the claim IDs; the [first-alliance specialist](../01%20Evidence%20and%20Source-Facing/WUWA_JINHSI_FIRST_ALLIANCE_CHOICE_AND_INFORMATION_ASYMMETRY_PROFILE.md) and [public-invitation/agency specialist](../01%20Evidence%20and%20Source-Facing/WUWA_JINHSI_PUBLIC_INVITATION_PRE_FIRMAMENT_AGENCY_AND_BATTLE_CHOICE_PROFILE.md) argue their source-specific readings. Official-client media are a distinct raw-evidence authority. The transitions below use raw `TalkSequence` and `JumpTalk`, exact occurrence attribution, the four text witnesses, and `FavorStory_130405_Content`.
+This ledger records claim-level transitions established during pre-AV packet construction and retained under owner-adopted `active_provisional` authority. The pinned semantic generation is unchanged. The [evidence matrix](../01%20Evidence%20and%20Source-Facing/WUWA_JINHSI_EVIDENCE_AND_FALSIFICATION_MATRIX.md) retains the claim IDs; the [first-alliance specialist](../01%20Evidence%20and%20Source-Facing/WUWA_JINHSI_FIRST_ALLIANCE_CHOICE_AND_INFORMATION_ASYMMETRY_PROFILE.md) and [public-invitation/agency specialist](../01%20Evidence%20and%20Source-Facing/WUWA_JINHSI_PUBLIC_INVITATION_PRE_FIRMAMENT_AGENCY_AND_BATTLE_CHOICE_PROFILE.md) argue their source-specific readings. Official-client media are a distinct raw-evidence authority. The transitions below use raw `TalkSequence` and `JumpTalk`, exact occurrence attribution, the four text witnesses, and `FavorStory_130405_Content`.
 
 | Claim or responsibility | Earlier local-draft tendency | Transition | Corrected or retained position | Exact basis and remaining uncertainty |
 |---|---|---|---|---|
