@@ -45,6 +45,50 @@ Recorded assessments of subjects in the `shokugeki-no-soma` namespace of the [Ch
 - Evidence at basis commit:
   - [`shokugeki-no-soma:aldini-takumi@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed16d08d72d08c45e8647d8daac749a8b6f7c6c5/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_TAKUMI_CHARACTER_MODEL.md)
 
+### Subject `shokugeki-no-soma:arato-hisako@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/arato-hisako@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/arato-hisako@manga.jsonl)
+
+<a id="shokugeki-no-soma-arato-hisako-manga-v2-model-20261119-01"></a>
+
+#### Assessment `shokugeki-no-soma-arato-hisako-manga-v2-model-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shokugeki-no-soma:arato-hisako`
+- Scope: continuity `shokugeki-no-soma-manga`
+- Source boundary: Only shokugeki-no-soma:arato-hisako@manga\#reviewed-dedicated-analysis, the active\_provisional V2 bounded character model SHOKUGEKI\_HISAKO\_CHARACTER\_MODEL.md \(about 16 KB\) at basis\_commit, read in full as reviewed repository analysis of the original Japanese manga V01-V36 including Le dessert. Its linked deep readings \(D07-D10, D13, D14, D16, D17, D30, D31, D36\), state, voice, relationship and readiness ledgers, evidence matrix, router and validation audits are not curated on this subject and were not used as evidence. The model's readiness label 'substantial, provisional' and its authority\_state are inputs, not conclusions. No anime adaptation or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Six states as the model orders them: early medicinal cook and attendant \(D07, D09\); the independent self-test in the V08 supplementary story \(lower weight\); the Election loss to Hayama and withdrawal \(D10\); the Mitamura partner \(D13\); chosen return, forced dismissal by Azami and help with Erina's escape \(D13, D16, D17\); and the friend and adult supporter \(D30, D31, D36\), whose adult work is compressed. The record covers every state but excludes, in each, any choice between Erina's claim and a competing duty or peer obligation. Evidence is located by volume reading key, not by chapter or page-level state change; the serialized ending, Présent, Passé and Futur are kept distinct by the model.
+- Basis commit: `510efb922655cc94f14d6d2e431e4c38b932a099`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `0700bab848e395b905e14e32905c52a1fbacf6b7be08ecd342a41890d087f2f2`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Translated illustrative lines only, never presented as quotation, in a selected state and one of the sampled relations: Erina, Soma before or after the Mitamura work, Alice, or restaurant owners and staff.
+  - `DIALOGUE` condition: Register follows the model: respectful firmness toward Erina carrying attachment and hierarchy; directive kitchen and administrative language in a rush; defensive formality with Soma before trust; a controlled refusal of task-specific help.
+  - `DIALOGUE` condition: After V30, friendship may be named while respectful habit persists; no sudden brash peer voice and no robotic deference.
+  - `DIALOGUE` condition: No Japanese first-person, honorific or address inventory and no invented secretarial catchphrase; no lines in romantic or private-life settings.
+  - `CROSS_SCENARIO` condition: A novel medicinal-cuisine, kitchen-production, administrative-systems or support task governed by the model's rules: concrete urgency produces organized action; an independent test leads her to decline help that would replace her own work, while shared service lets her accept it.
+  - `CROSS_SCENARIO` condition: A routine mistake brings prompt correction and embarrassment \(M\); a self-disqualifying withdrawal needs a state-specific threat to the Erina relation comparable to the Election loss.
+  - `CROSS_SCENARIO` condition: The interlocutor is Erina, Soma, Alice, a restaurant owner or staff, or a peer collaborator; a peer receives precise collaboration without the standing-behind geometry, which is a separate, lower-confidence transfer when the peer is unfamiliar.
+  - `CROSS_SCENARIO` condition: Abstain, or present the alternatives as unresolved, whenever Erina's claim competes with a peer's need or another duty; no instant equality, automatic obedience or hidden resentment.
+  - `CROSS_SCENARIO` bounds: chronology A named state from the model; the default is the terminal friend and supporter, with the Election-withdrawal state used only when a comparable relational threat is specified.; interlocutor Erina, Soma, Alice, restaurant owners and staff as sampled; an unfamiliar peer collaborator only as a separate, lower-confidence transfer.; settings A kitchen, restaurant service, culinary competition or office and administrative work.; No romance, domestic routine or nonculinary leisure beyond the located outings, and no anime adaptation material.; Medicinal claims stay within the depicted cuisine; culinary mechanism, judging and institutions follow their specialist routes, which are outside this evidence set.
+  - `MUNDANE_SOCIAL` condition: A quiet work-adjacent exchange with Erina or a familiar peer, such as a small administrative correction after a workday \(probe 1, M\): precise action, habitual respect and possible awkward thanks, without reviving the Election withdrawal.
+  - `MUNDANE_SOCIAL` condition: No favorite-food ranking, hobby, domestic schedule or private romance is supplied, and a transfer to an unfamiliar peer is lower confidence.
+  - `PROFESSIONAL_CONTEXT` condition: Medicinal cuisine as a cuisine of pleasure and composition, kitchen production under a rush, reservation, records and accounting systems, and support work for Erina.
+  - `PROFESSIONAL_CONTEXT` condition: Her competence is central authorship evidence, not secretarial incidentals; owners and staff keep purpose and decisions.
+  - `PROFESSIONAL_CONTEXT` condition: No general medical practice, limitless office competence, guaranteed victory, or full independent career trajectory.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `adult-state-compressed` (evidence-backed limitation): Adult office support continues but is compressed; adult maintenance detail and repeated ordinary refusal are named gaps.
+  - `erina-versus-duty-priority-undetermined` (evidence-backed limitation): The model identifies competing loyalties when a peer's urgent need conflicts with Erina's preference but establishes no stable priority rule \(probe 3, U\), and names direct conflict between Erina and another duty as a material gap.
+  - `independent-goal-gap` (evidence-backed limitation): A sustained independent goal outside service and later self-authored cooking are material gaps; neither full emancipation nor contentment may be supplied.
+  - `single-compact-synthesis` (evidence gap): The model is one compact synthesis of a 36-volume reading; its three probes are noncanonical examples with stated confidence, not test outcomes.
+  - `supplementary-weight` (evidence-backed limitation): The V08 refusal of Alice's advice and the pool outing come from supplementary comics that the model weights lower; the refusal is task-specific, not a rejection of all help.
+  - `uncurated-readings-and-audits` (evidence gap): The deep readings, voice, state, relationship and readiness ledgers, the evidence matrix and the validation and fidelity audits are not curated on this subject, so no locator was rechecked and no probe result is in this evidence set.
+  - `voice-inventory-unspecified` (evidence-backed limitation): Pronoun inventories and a secretarial catchphrase are not attested in the cited model, and no acting or acoustic traits are claimed.
+- Evidence at basis commit:
+  - [`shokugeki-no-soma:arato-hisako@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/510efb922655cc94f14d6d2e431e4c38b932a099/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_HISAKO_CHARACTER_MODEL.md)
+
 ### Subject `shokugeki-no-soma:hayama-akira@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/hayama-akira@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/hayama-akira@manga.jsonl)
@@ -400,6 +444,48 @@ Recorded assessments of subjects in the `shokugeki-no-soma` namespace of the [Ch
   - `voice-forms-uncited` (evidence gap): Exact forms of address and the period-by-period lexical record of Megumi's Japanese are deferred by the monograph to a voice ledger that is not curated on this subject.
 - Evidence at basis commit:
   - [`shokugeki-no-soma:tadokoro-megumi@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/92f1c00e429f2da8672403dd3afd8187d375381a/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_MEGUMI_CHARACTER_MONOGRAPH.md)
+
+### Subject `shokugeki-no-soma:tsukasa-eishi@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/tsukasa-eishi@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/tsukasa-eishi@manga.jsonl)
+
+<a id="shokugeki-no-soma-tsukasa-eishi-manga-v2-model-20261119-01"></a>
+
+#### Assessment `shokugeki-no-soma-tsukasa-eishi-manga-v2-model-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shokugeki-no-soma:tsukasa-eishi`
+- Scope: continuity `shokugeki-no-soma-manga`
+- Source boundary: Only shokugeki-no-soma:tsukasa-eishi@manga\#reviewed-dedicated-analysis, the active\_provisional V2 bounded character model SHOKUGEKI\_TSUKASA\_CHARACTER\_MODEL.md \(about 14 KB\) at basis\_commit, read in full as reviewed repository analysis of the original Japanese manga V01-V36 including Le dessert. Its linked deep readings \(D14, D16, D19-D21, D26, D27, D29-D31, D33, D34\), state, voice, relationship and readiness ledgers, evidence matrix, router and validation audits are not curated on this subject and were not used as evidence. The model's readiness label 'substantial' and its authority\_state are inputs, not conclusions. No anime adaptation or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: The record's scope is the states the model orders from high-rank ordinary presence \(D14\) and solo or service authority through the Central recruiter \(D16, D19, D20\), the Régiment specialist \(D26, D27, D29, D30\) and the post-course loss through the BLUE value task \(D31, D33\). The loss to Asahi and the blade custody change \(D34\) are a located event only; his recovery after it and the adult chef, whom the model makes its default when time is unspecified but leaves compressed, are outside scope. Evidence is located by volume reading key, not by chapter or page-level state change; the serialized ending, Présent, Passé and Futur are kept distinct by the model.
+- Basis commit: `510efb922655cc94f14d6d2e431e4c38b932a099`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `64de95b102d4ae5aa1a7f253f4067b8f762c2ca078c734226c9fb8de8ccd4e76`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Translated illustrative lines only, never presented as quotation, in a kitchen, competition, course-planning or recruitment exchange within the declared states.
+  - `DIALOGUE` condition: Register follows the model: hesitant or diffusing in ordinary company, exact and materially specific in culinary instruction, measured when acknowledging an opponent; a quiet tone may carry a coercive offer.
+  - `DIALOGUE` condition: No mystical ingredient monologue, no Japanese first-person, honorific or address inventory and no fixed timid performance.
+  - `DIALOGUE` condition: No lines after the loss to Asahi, in the adult chef state or in private settings.
+  - `CROSS_SCENARIO` condition: A novel kitchen, course-design, competition or recruitment situation governed by the model's rules: exact reproduction draws precise instructions; a capable helper draws a support-only offer; when coercion cannot produce the helper he relinquishes that consequence for practical reasons; an opponent's demonstrated pressure is acknowledged.
+  - `CROSS_SCENARIO` condition: A Central-period junior asking to make a wholly independent dish while assisting him meets resistance to that role change \(probe 2, H pattern, M scene\).
+  - `CROSS_SCENARIO` condition: The interlocutor is Rindō, a subordinate or assistant in his kitchen, or a rival comparable to Soma, Kuga or Isshiki; an unfamiliar subordinate receives precise instruction, while latitude and ordinary warmth are separate, lower-confidence matters.
+  - `CROSS_SCENARIO` condition: Abstain on Central accountability, the post-Asahi recovery and an adult subordinate's criticism \(probe 3, U\).
+  - `CROSS_SCENARIO` bounds: chronology A named state from high-rank ordinary presence through the Central recruiter, the Régiment specialist and the post-course loss up to the BLUE value task; nothing after the loss to Asahi.; interlocutor Rindō as course partner, a subordinate or assistant in his kitchen, or a culinary rival comparable to Soma, Kuga or Isshiki; an unfamiliar adult only as a separate M/U case.; settings A professional kitchen, course planning, a culinary competition or a Central-era recruitment or service exchange.; No domestic, leisure or private setting beyond the located Elite Ten gathering, and no anime adaptation material.; Culinary mechanism, judging and institutions follow their specialist routes, which are outside this evidence set.
+  - `PROFESSIONAL_CONTEXT` condition: Elite ingredient-centered French cooking, extraction, temperature and course control, partnered sequencing with Rindō, and recomposition of prepared goods.
+  - `PROFESSIONAL_CONTEXT` condition: Instruction is precise and hierarchical however polite; a capable assistant is pressed toward reproducing his answer.
+  - `PROFESSIONAL_CONTEXT` condition: No universal superiority from one score, no detailed adult professional routine and no care-and-repair pattern with subordinates.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `adult-chef-compressed` (evidence-backed limitation): The adult chef is a professional continuation whose ordinary behavior, routine and accountability remain compressed, although the model makes the terminal trajectory its default when time is unspecified.
+  - `central-accountability-gap` (evidence-backed limitation): Central accountability and full institutional remorse are not shown; recognizing other cooks' joy does not cancel his political contradiction.
+  - `post-asahi-recovery-undetermined` (evidence-backed limitation): The loss to Asahi and the blade custody change are located events, but his emotional recovery and later tool practice are underdescribed \(U\), so no state after it is modeled.
+  - `single-compact-synthesis` (evidence gap): The model is one compact synthesis of a 36-volume reading; its three probes are noncanonical examples with stated confidence, not test outcomes.
+  - `subordinate-care-gap` (evidence-backed limitation): Ordinary reciprocal help, emotional support for an unfamiliar subordinate and a care-and-repair pattern are not evidenced; a soft voice does not make him a caring teacher.
+  - `uncurated-readings-and-audits` (evidence gap): The deep readings, voice, state, relationship and readiness ledgers, the evidence matrix and the validation and fidelity audits are not curated on this subject, so no locator was rechecked and no probe result is in this evidence set.
+  - `voice-inventory-unspecified` (evidence-backed limitation): No full pronoun or address inventory or fixed vocal performance is attested in the cited model.
+- Evidence at basis commit:
+  - [`shokugeki-no-soma:tsukasa-eishi@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/510efb922655cc94f14d6d2e431e4c38b932a099/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_TSUKASA_CHARACTER_MODEL.md)
 
 ### Subject `shokugeki-no-soma:yukihira-joichiro@manga`
 
