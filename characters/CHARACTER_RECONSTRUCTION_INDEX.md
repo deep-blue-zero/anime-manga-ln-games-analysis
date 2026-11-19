@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 196; `STALE` 1; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 198; `STALE` 1; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -46,7 +46,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`project-sekai`](reconstruction_index/project-sekai.md) | 6 | 7 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 21 | 25 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
-| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 14 | 14 |
+| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 15 | 15 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
 | [`silent-witch`](reconstruction_index/silent-witch.md) | 4 | 4 |
 | [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
@@ -56,7 +56,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 1 | 1 |
 | [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 17 |
 | [`tomozaki`](reconstruction_index/tomozaki.md) | 18 | 22 |
-| [`wuthering-waves`](reconstruction_index/wuthering-waves.md) | 1 | 1 |
+| [`wuthering-waves`](reconstruction_index/wuthering-waves.md) | 2 | 2 |
 | [`yuru-camp`](reconstruction_index/yuru-camp.md) | 2 | 2 |
 
 ## Recorded assessments
@@ -229,6 +229,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `shokugeki-no-soma:ikumi-mito@manga` | [`shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01) | `CANDIDATE` | `C` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
 | `shokugeki-no-soma:kobayashi-rindo@manga` | [`shokugeki-no-soma-kobayashi-rindo-manga-v2-model-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-kobayashi-rindo-manga-v2-model-20261119-01) | `CANDIDATE` | `C` | `cc0e909015692aa29cc1629031e516a4824ddc74` |
 | `shokugeki-no-soma:kurokiba-ryo@manga` | [`shokugeki-no-soma-kurokiba-ryo-manga-bounded-model-20261115-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-kurokiba-ryo-manga-bounded-model-20261115-01) | `CANDIDATE` | `C` | `d0019f2f149d57a9f817238a899dff9248a2ca9f` |
+| `shokugeki-no-soma:nakiri-alice@manga` | [`shokugeki-no-soma-nakiri-alice-manga-v2-model-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-alice-manga-v2-model-20261119-01) | `CANDIDATE` | `B` | `75f290763feaa7bfef41770ed3991e4245358905` |
 | `shokugeki-no-soma:nakiri-azami@manga` | [`shokugeki-no-soma-nakiri-azami-manga-v2-monograph-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-azami-manga-v2-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `shokugeki-no-soma:nakiri-erina@manga` | [`shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01) | `CANDIDATE` | `B` | `f4b3164218ddeacb5b94fbe9678d315beed44972` |
 | `shokugeki-no-soma:saiba-asahi@manga` | [`shokugeki-no-soma-saiba-asahi-manga-v2-monograph-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-saiba-asahi-manga-v2-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
@@ -294,5 +295,6 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `tomozaki:tomozaki@light-novel` | [`tomozaki-tomozaki-ln-v12-model-20261112-01`](reconstruction_index/tomozaki.md#tomozaki-tomozaki-ln-v12-model-20261112-01) | `SUPERSEDED` | `C` | `870de40b0e25fbead978613f8389e8678ff63ee3` |
 | `tomozaki:umayahara-mitsu@light-novel` | [`tomozaki-umayahara-mitsu-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-umayahara-mitsu-ln-v12-model-20261109-01) | `CANDIDATE` | `D` | `f582dbbb2a5c31c60868c7e39898268f54e8a6bb` |
 | `wuthering-waves:augusta@game` | [`wuthering-waves-augusta-game-pre-av-deep-dive-20261119-01`](reconstruction_index/wuthering-waves.md#wuthering-waves-augusta-game-pre-av-deep-dive-20261119-01) | `CANDIDATE` | `C` | `cc0e909015692aa29cc1629031e516a4824ddc74` |
+| `wuthering-waves:iuno@game` | [`wuthering-waves-iuno-game-pre-av-deep-dive-20261119-01`](reconstruction_index/wuthering-waves.md#wuthering-waves-iuno-game-pre-av-deep-dive-20261119-01) | `CANDIDATE` | `C` | `75f290763feaa7bfef41770ed3991e4245358905` |
 | `yuru-camp:kagamihara-nadeshiko@manga` | [`yuru-camp-kagamihara-nadeshiko-manga-document03-20261116-01`](reconstruction_index/yuru-camp.md#yuru-camp-kagamihara-nadeshiko-manga-document03-20261116-01) | `CANDIDATE` | `C` | `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27` |
 | `yuru-camp:shima-rin@manga` | [`yuru-camp-shima-rin-manga-v01-v19-synthesis-20261025-01`](reconstruction_index/yuru-camp.md#yuru-camp-shima-rin-manga-v01-v19-synthesis-20261025-01) | `CANDIDATE` | `D` | `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8` |

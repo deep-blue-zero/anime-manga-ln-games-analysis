@@ -252,6 +252,52 @@ Recorded assessments of subjects in the `shokugeki-no-soma` namespace of the [Ch
 - Evidence at basis commit:
   - [`shokugeki-no-soma:kurokiba-ryo@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d0019f2f149d57a9f817238a899dff9248a2ca9f/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_KUROKIBA_CHARACTER_MODEL.md)
 
+### Subject `shokugeki-no-soma:nakiri-alice@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/nakiri-alice@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/nakiri-alice@manga.jsonl)
+
+<a id="shokugeki-no-soma-nakiri-alice-manga-v2-model-20261119-01"></a>
+
+#### Assessment `shokugeki-no-soma-nakiri-alice-manga-v2-model-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shokugeki-no-soma:nakiri-alice`
+- Scope: continuity `shokugeki-no-soma-manga`
+- Source boundary: Only shokugeki-no-soma:nakiri-alice@manga\#reviewed-dedicated-analysis, the active\_provisional V2 bounded character model SHOKUGEKI\_ALICE\_CHARACTER\_MODEL.md \(14,217 bytes\) at basis\_commit, read in full as reviewed repository analysis of the original Japanese manga V01-V36 including Le dessert. Its linked deep readings \(D08-D10, D12, D13, D15-D17, D19, D36\), state, voice, relationship and readiness ledgers, evidence matrix, router and validation audits are not curated on this subject and were not used as evidence. The model's readiness label 'substantial' and its authority\_state are inputs, not conclusions. No anime adaptation or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: The record covers the school states the model orders: the Election competitor and her first adverse result against Soma's bento \(D08, D09\); the festival revision and the Central-era escape and burned-letters confrontation \(D15-D17, D19\); and the restored peer. The overseas formation and childhood Ryō rivalry are retrospective background. The adult international leader \(D36\), which the model makes its default when time is unspecified, is used only as the established professional fact: its management, private life and sustained adult ordinary repair are montage-level and outside this record's scope. Supplementary comics, including the pool outing, carry lower weight. Evidence is located by volume reading key and VV-NNN archive image, not by chapter-level state change; the serialized ending, Présent, Passé and Futur are kept distinct by the model.
+- Basis commit: `75f290763feaa7bfef41770ed3991e4245358905`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `d573b910894c6db9a3455a15bcebd4b30e69d99f9edcfbae2fa10ac638be368b`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Translated illustrative lines only, never presented as quotation, in a selected school state and one of the sampled relations: Erina, Ryō, Hisako, Soma, Azami, or an unknown colleague.
+  - `DIALOGUE` condition: Register follows the model: theatrical confidence, quick judgments and technical density; commands read as comic, professional or urgent from context; tears may coexist with composed ambition.
+  - `DIALOGUE` condition: No Japanese first-person or honorific inventory, no scientific catchphrase in every line, and no audiovisual performance claims.
+  - `DIALOGUE` condition: No line that confirms a romance with Ryō, completes the cousin reconciliation or describes adult company management.
+  - `CROSS_SCENARIO` condition: A novel culinary, technical or service task governed by the model's rules: a familiar category invites an exact, spectacular transformation; evidence that cost or audience makes a design unusable brings revision without abandoning molecular craft, possibly after hurt or protest \(probe 1, M\); a fair loss brings retasting, visible hurt and renewed ambition.
+  - `CROSS_SCENARIO` condition: Erina in a sheltered or controlled routine draws initiative that may intrude; Erina declining calls for attention to her preference, while Ryō declining a comparison meets an independent rival's agency \(probe 2, M\); she is never the sole rescuer.
+  - `CROSS_SCENARIO` condition: The interlocutor is Erina, Ryō, Hisako, Soma or Azami; an unknown colleague gets technical confidence only, as a separate, lower-confidence case without cousin teasing, possessive labels or intimate intervention.
+  - `CROSS_SCENARIO` condition: Abstain on her response when an unfamiliar person says her teasing crossed a boundary \(probe 3, M/U\), sustained ordinary repair, adult company governance, private routines and a romance with Ryō.
+  - `CROSS_SCENARIO` bounds: chronology A named school state from the Election through the festival, the Central era and the restored peer; the adult leader only as the established professional fact, with no management or private detail.; interlocutor Erina as cousin and rival, Ryō as long-standing culinary counterforce within asymmetric titles, Hisako as Erina's attendant, Soma as a rival who beat her, Azami as the uncle whose control she opposes; an unknown colleague only as a separate, lower-confidence case.; settings A kitchen, culinary competition, festival service, research space or school setting.; No romantic or adult domestic setting, and no anime adaptation material.; Culinary mechanism, judging and institutions follow their specialist routes, which are outside this evidence set.
+  - `MUNDANE_SOCIAL` condition: A leisure outing she proposes with Erina or a familiar peer, with pleasure, social initiative and room for the other to refuse with a purpose.
+  - `MUNDANE_SOCIAL` condition: Teasing and intrusion remain possible but not inevitable.
+  - `MUNDANE_SOCIAL` condition: No favorite-food list, no universal love of crowds and no domestic routine.
+  - `PROFESSIONAL_CONTEXT` condition: Molecular and scientific cuisine with research, apparatus, repeated prototypes and manual precision; spectacle must answer actual service, cost and audience.
+  - `PROFESSIONAL_CONTEXT` condition: Patents, contracts and elite access show scale, not effortlessness or universal business competence.
+  - `PROFESSIONAL_CONTEXT` condition: No adult management, administration or authority outside family and Ryō.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `adult-state-montage` (evidence-backed limitation): The adult international leader, the model's default when time is unspecified, is montage-level: management, private relation and domestic life are not detailed.
+  - `erina-consent-not-implied` (evidence-backed limitation): Her initiative for Erina can be intrusive, Erina's consent is not universally implied, and disclosure of the burned letters brings no complete family reconciliation.
+  - `excluded-source-images` (evidence-backed limitation): No detail is reconstructed from defective 26-137, obscured small text on 36-114 or the duplicate back cover 36-258.
+  - `no-voice-inventory-or-av` (evidence-backed limitation): The model forbids a fabricated first-person or honorific inventory and makes no audiovisual performance claims.
+  - `probes-not-outcomes` (evidence gap): The model's three probes are noncanonical analytical predictions, not test outcomes, and the evidence includes no validation results.
+  - `supplementary-weight` (evidence-backed limitation): The Erina outing and Hisako's refusal come from supplementary comics carrying lower weight; the outing rule is H only within the supplementary story and M on transfer.
+  - `uncurated-linked-evidence` (evidence gap): The linked deep readings, state, voice, relationship and readiness ledgers, evidence matrix and validation audits are not curated on this subject, so no locator was rechecked.
+  - `unfamiliar-boundary-correction-open` (evidence-backed limitation): Her response when an unfamiliar person says her teasing crossed a boundary is M/U: the record supports both respect for a purposeful refusal and intrusive play, and no apology script follows.
+- Evidence at basis commit:
+  - [`shokugeki-no-soma:nakiri-alice@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/75f290763feaa7bfef41770ed3991e4245358905/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_ALICE_CHARACTER_MODEL.md)
+
 ### Subject `shokugeki-no-soma:nakiri-azami@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/nakiri-azami@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/nakiri-azami@manga.jsonl)
