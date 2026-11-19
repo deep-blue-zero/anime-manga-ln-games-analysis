@@ -28,6 +28,72 @@ Reviewed analysis subjects in the `wuthering-waves` namespace of the [Character 
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Aemeath dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Aemeath/01%20Evidence%20and%20Source-Facing/WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
 
+<a id="augusta"></a>
+
+### Augusta
+
+- Entity ID: `wuthering-waves:augusta`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:augusta@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed canonical pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package (semantic commit 353f2eaed119bc9f680eab92807d20ac75a79b40). Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation, human four-dub listening or unrestricted full-game coverage is claimed. Canonical authority is bounded to the packet's declared 3.6.0 and Chapter II scopes.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Augusta dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Augusta/01%20Evidence%20and%20Source-Facing/WUWA_AUGUSTA_CHARACTER_DEEP_DIVE_PRE_AV.md)
+
+<a id="brant"></a>
+
+### Brant
+
+- Entity ID: `wuthering-waves:brant`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:brant@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package (semantic commit 353f2eaed119bc9f680eab92807d20ac75a79b40). Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation, human four-dub listening or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Brant dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Brant/01%20Evidence%20and%20Source-Facing/WUWA_BRANT_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+
+<a id="cantarella"></a>
+
+### Cantarella
+
+- Entity ID: `wuthering-waves:cantarella`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:cantarella@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package (semantic commit 353f2eaed119bc9f680eab92807d20ac75a79b40). Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation, human four-dub listening or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Cantarella dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Cantarella/01%20Evidence%20and%20Source-Facing/WUWA_CANTARELLA_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+
 <a id="cartethyia"></a>
 
 ### Cartethyia
@@ -48,12 +114,34 @@ Reviewed analysis subjects in the `wuthering-waves` namespace of the [Character 
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `cartethyia-reviewed-corpus`: GAME QUEST: Current provisional Cartethyia pre-AV rebuild and retained V0.2 analytical corpus over the pinned Wuthering Waves 3.6.0/3.6.6 semantic view and its explicitly qualified multilingual, voice, relationship, and ordinary-life evidence.; continuity `wuthering-waves-game`
+  - `cartethyia-reviewed-corpus`: GAME QUEST: Current canonical Cartethyia pre-AV rebuild and retained V0.2 analytical corpus, current within the declared Wuthering Waves 3.6.0/3.6.6 semantic view and Chapter II (Rinascita) audiovisual boundary, with its explicitly qualified multilingual, voice, relationship, and ordinary-life evidence. The speech profile includes the Chapter II four-dub human-listening calibration (29 moments, 116 renders); most solo lines remain unreviewed by ear, and optional or non-main-story audiovisual targets remain open.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
   - [`wuwa-cartethyia-character-monograph` — WUWA CARTETHYIA CHARACTER MONOGRAPH](../../series/wuthering-waves/04%20Character%20Analysis/Cartethyia/05%20Integrated%20Synthesis/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md)
   - [`wuwa-cartethyia-ordinary-life-and-preferences-profile` — WUWA CARTETHYIA ORDINARY LIFE AND PREFERENCES PROFILE](../../series/wuthering-waves/04%20Character%20Analysis/Cartethyia/01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md)
   - [`wuwa-cartethyia-relationship-and-state-ledger` — WUWA CARTETHYIA RELATIONSHIP AND STATE LEDGER](../../series/wuthering-waves/04%20Character%20Analysis/Cartethyia/01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md)
   - [`wuwa-cartethyia-speech-voice-and-performance-profile` — WUWA CARTETHYIA SPEECH VOICE AND PERFORMANCE PROFILE](../../series/wuthering-waves/04%20Character%20Analysis/Cartethyia/03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md)
+
+<a id="changli"></a>
+
+### Changli
+
+- Entity ID: `wuthering-waves:changli`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:changli@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package (semantic commit 353f2eaed119bc9f680eab92807d20ac75a79b40). Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation, human four-dub listening or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Changli dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Changli/01%20Evidence%20and%20Source-Facing/WUWA_CHANGLI_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
 
 <a id="chisa"></a>
 
@@ -99,6 +187,72 @@ Reviewed analysis subjects in the `wuthering-waves` namespace of the [Character 
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Denia dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Denia/01%20Evidence%20and%20Source-Facing/WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
 
+<a id="iuno"></a>
+
+### Iuno
+
+- Entity ID: `wuthering-waves:iuno`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:iuno@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed canonical pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package (semantic commit 353f2eaed119bc9f680eab92807d20ac75a79b40). Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation, human four-dub listening or unrestricted full-game coverage is claimed. Canonical authority is bounded to the packet's declared 3.6.0 and Chapter II scopes.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Iuno dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Iuno/01%20Evidence%20and%20Source-Facing/WUWA_IUNO_CHARACTER_DEEP_DIVE_PRE_AV.md)
+
+<a id="jinhsi"></a>
+
+### Jinhsi
+
+- Entity ID: `wuthering-waves:jinhsi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:jinhsi@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package (semantic commit 353f2eaed119bc9f680eab92807d20ac75a79b40). Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation, human four-dub listening or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Jinhsi dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Jinhsi/01%20Evidence%20and%20Source-Facing/WUWA_JINHSI_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+
+<a id="luuk-herssen"></a>
+
+### Luuk Herssen
+
+- Entity ID: `wuthering-waves:luuk-herssen`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:luuk-herssen@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package (semantic commit 353f2eaed119bc9f680eab92807d20ac75a79b40). Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation, human four-dub listening or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Luuk Herssen dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Luuk%20Herssen/01%20Evidence%20and%20Source-Facing/WUWA_LUUK_HERSSEN_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+
 <a id="lynae"></a>
 
 ### Lynae
@@ -121,6 +275,72 @@ Reviewed analysis subjects in the `wuthering-waves` namespace of the [Character 
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Lynae dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Lynae/01%20Evidence%20and%20Source-Facing/WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
 
+<a id="phoebe"></a>
+
+### Phoebe
+
+- Entity ID: `wuthering-waves:phoebe`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:phoebe@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package (semantic commit 353f2eaed119bc9f680eab92807d20ac75a79b40). Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation, human four-dub listening or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Phoebe dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Phoebe/01%20Evidence%20and%20Source-Facing/WUWA_PHOEBE_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+
+<a id="qiuyuan"></a>
+
+### Qiuyuan
+
+- Entity ID: `wuthering-waves:qiuyuan`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:qiuyuan@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package (semantic commit 353f2eaed119bc9f680eab92807d20ac75a79b40). Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation, human four-dub listening or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Qiuyuan dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Qiuyuan/01%20Evidence%20and%20Source-Facing/WUWA_QIUYUAN_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+
+<a id="shorekeeper"></a>
+
+### Shorekeeper
+
+- Entity ID: `wuthering-waves:shorekeeper`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:shorekeeper@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package (semantic commit 353f2eaed119bc9f680eab92807d20ac75a79b40). Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation, human four-dub listening or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Shorekeeper dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Shorekeeper/01%20Evidence%20and%20Source-Facing/WUWA_SHOREKEEPER_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+
 <a id="sigrika"></a>
 
 ### Sigrika
@@ -142,3 +362,47 @@ Reviewed analysis subjects in the `wuthering-waves` namespace of the [Character 
   - `commit-pinned-textual-scope`: GAME QUEST: Reviewed current active-provisional character profile over the declared 3.6.0 semantic source commit 353f2eaed119bc9f680eab92807d20ac75a79b40. Chinese is primary; localization witnesses and optional branches retain their stated limits. No unrestricted full-game coverage, future-patch update or new primary-source inspection is claimed.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
   - [`reviewed-dedicated-profile` — Sigrika bounded reconstructive profile](../../series/wuthering-waves/04%20Character%20Analysis/Sigrika/02%20Reconstruction/WUWA_SIGRIKA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) — **active provisional authority**
+
+<a id="yinlin"></a>
+
+### Yinlin
+
+- Entity ID: `wuthering-waves:yinlin`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:yinlin@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package (semantic commit 353f2eaed119bc9f680eab92807d20ac75a79b40). Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation, human four-dub listening or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Yinlin dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Yinlin/01%20Evidence%20and%20Source-Facing/WUWA_YINLIN_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+
+<a id="zani"></a>
+
+### Zani
+
+- Entity ID: `wuthering-waves:zani`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:zani@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package (semantic commit 353f2eaed119bc9f680eab92807d20ac75a79b40). Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation, human four-dub listening or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Zani dedicated analysis](../../series/wuthering-waves/04%20Character%20Analysis/Zani/01%20Evidence%20and%20Source-Facing/WUWA_ZANI_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
