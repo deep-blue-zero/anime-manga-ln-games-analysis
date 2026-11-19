@@ -4,7 +4,7 @@ series: summer-time-rendering
 artifact_id: CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 generation: STR-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "Single INITIAL main/supplement route; no narrative/run authority"
 source_boundary: "Japanese main manga volumes 01-13 and 2026 未然事故物件 supplement; metadata only, no narrative admission or inspection"
@@ -51,5 +51,7 @@ Main V01–13 and サマータイムレンダ2026 未然事故物件 are metadat
 No readings, dossiers, models, syntheses or simulations exist; reconstruction is NOT_READY. Adaptations, translations and other editions are excluded.
 
 Next work: independent foundation review, supported bootstrap repair and repository validation. Main reading requires separate owner-defined units, source/gate verification and consistent OPEN state. After accepted main completion preserve main-only interpretation before separately authorized supplement admission. Publication or a file's presence cannot grant that scope.
+
+For future authorized source readings, the [standing configuration](STR_SYNTHESIS_ARCHITECTURE.md#independent-occurrence-and-disclosure-review) assigns independent evidence work, critical review and reconciliation in the existing transaction.
 
 Resume from this entrypoint, full method/architecture, source controls and relevant event/person/claim homes under live governance. Future STILL_IMAGE/Japanese TEXT capability must be verified; only metadata access was used now. Architecture names stable reasoning classes and fresh-synthesis/local-convergence ownership, with specialized index/evaluator roles separate.

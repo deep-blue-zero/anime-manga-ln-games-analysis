@@ -113,6 +113,8 @@ Read in this order for new Chiramune analytical work:
 
 The Japanese prose is the current semantic anchor. Later anime material, official interviews, reception research, translations, or other adaptations may become separate witnesses, but they do not silently alter this source boundary.
 
+For a newly admitted Japanese prose source, main or supplemental, use architecture §5 and method §14 for the reading assignments, evidence returns and closure. An `ADAPTATION_PERFORMANCE` witness first needs the separately admitted adaptation route of architecture §10 and method §16. Architecture §8 routes person-level assessment to the character router. The current V09.5 frontier still awaits new admission.
+
 ## Corpus architecture
 
 | Layer | Analytical responsibility | Current state |

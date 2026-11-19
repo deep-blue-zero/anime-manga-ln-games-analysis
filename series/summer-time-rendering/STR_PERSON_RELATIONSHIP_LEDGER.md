@@ -34,6 +34,8 @@ Directed relationship: `edge_id | from | to | track/unit/scene/horizon | occurre
 
 Ordinary/Japanese sample: `sample_id | subject | interlocutor/audience | track/unit/state/horizon | situation/stakes(ORDINARY/CRISIS/MIXED) | diagnostic_opportunity | shown_behavior/inaction | speech/thought/narration/effect_layer | attribution_confidence | brief_Japanese_form/labeled_gloss_if_needed | register/pragmatic_feature | baseline/exception | claims/reading/locators`. Unrepresented situations are gaps; private thoughts are not spoken register.
 
+Monograph qualification: `subject_key | main_only_or_supplement_horizon/assessment_boundary | outcome | source_grounded_rationale/largest_gaps | next_review_trigger | monograph_path_or_NONE | self_containment/fidelity_acceptance_refs`. Outcome QUALIFIED_PENDING, COMPLETE_AT_BOUNDARY, DEFERRED_EVIDENCE or REASSESS_AFTER_REVISION under [initiation section 5.5.1](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard); COMPLETE_AT_BOUNDARY cites the separately recorded self-containment and fidelity results. A reassessment, new outcome or real portrait path appends a row; the latest row per subject and horizon is current and earlier rows remain. An unassessed person has no row and is neither qualified nor rejected.
+
 All analytical rows are absent. No character dossier is inferred from title or familiarity.
 
 ## History and readiness
