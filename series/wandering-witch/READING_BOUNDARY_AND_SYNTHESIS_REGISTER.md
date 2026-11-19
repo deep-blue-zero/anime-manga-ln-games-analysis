@@ -2,7 +2,7 @@
 title: "Wandering Witch — Reading Boundary and Synthesis Register"
 artifact_id: WW_BOUNDARY_REGISTER
 artifact_type: reading_boundary_synthesis_register
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: WW-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese main volumes 01–25 plus separate 2014 Upper and Lower editions; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 ---
 
 # Reading boundary and synthesis register
@@ -30,6 +30,8 @@ This surface records actual source-facing transactions, preserved local argument
 | Role gap `WW-RG-nnnn` | Responsibility; local/cross-unit coverage; missing evidence/context/voice/relationships; effect; targeted return or specialist assignment; independent-study rationale or justified no-specialist decision; acceptance evidence |
 | Handoff `WW-HO-nnnn` | Base snapshot; complete input/output paths/digests; source/lane/admission/knowledge boundary; authority; role/owner; unresolved obligations; transfer receipt; full returned files; change/evidence manifest; base-candidate-current drift and acceptance |
 | Gate decision `WW-GR-nnnn` | W0–W12 gate; exact boundary/input files; evidence examined; reviewer/independence; defects; pass/hold/bounded acceptance; next permitted operation |
+
+In the `WW-TX` receipt, identify each context, assignment, exposure and actual inspection. Retain each material observation or argument with its locator, rival, critical finding and the principal’s reasoned disposition. Link the local reading and any affected atlas edge, persona or argument version. Identify unresolved obligations and their owner before accepting or holding the unit.
 
 No source acceptance, hash, exposure status or model setting may be fabricated to fill a schema. An absent required value remains unresolved with an owner.
 
