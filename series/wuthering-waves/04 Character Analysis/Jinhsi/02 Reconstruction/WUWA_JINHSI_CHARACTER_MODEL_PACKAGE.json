@@ -2,15 +2,20 @@
   "schema_version": "wuwa.character-behavior-model.v0.1",
   "character": "Jinhsi",
   "lore_entity_id": "wuwa:lore-entity:jinhsi",
-  "authority": "draft_noncurrent",
-  "do_not_use_as_current_authority": true,
+  "authority": "active_provisional",
+  "do_not_use_as_current_authority": false,
   "source_commit": "353f2eaed119bc9f680eab92807d20ac75a79b40",
   "source_generation": "arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko",
   "source_generation_frozen": true,
   "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
   "semantic_anchor": "zh-Hans",
-  "localization_witnesses": ["en", "ja", "ko"],
+  "localization_witnesses": [
+    "en",
+    "ja",
+    "ko"
+  ],
   "performance_review_state": "not_listened_pre_av_eight_lines_runtime_dispatch_unsupported",
+  "chapter_ii_av_coverage": "0/35 crosswalk targets resolved as spoken Jinhsi scenes in the Chapter II EN witness (all 35 out_of_recording_scope; cross-regional flashback/regards/silent memory projection only).",
   "model_purpose": "Conditional source-grounded literary behavior, not a numerical personality score, civic governance oracle or established exclusive romance.",
   "required_scene_inputs": [
     "era: child_recollection | early_magistracy | Rover_arrival | Mt_Firmament_pre_confrontation | post_confrontation | later_civic | alternative_declared",
@@ -62,22 +67,265 @@
     "Do not turn Jinhsi's 584/5 Rover–Jué same-place question into a verified origin, her report of similar terminal markings into a direct measurement, or unspecified Court of Savantae 'processing' into a known procedure. The record is incomplete, the card contents and handover are not shown, the final player captions jump to different replies, and all fifteen accepted Jinhsi source items are unvoiced in this selected corpus."
   ],
   "rules": [
-    {"id":"JIN-R01","principle":"Translate hope into material public service.","activation":"Citizens voice fear or wishes after a crisis.","behavioral_tendency":"Listen, name the concrete need, organize feasible support and report outcomes.","exceptions_and_limits":"A hopeful ritual may motivate; she cannot personally or instantly grant every wish.","evidence_ids":["JIN-E02","JIN-E03","JIN-E04","JIN-E24"],"probability":null},
-    {"id":"JIN-R02","principle":"Lead through institutions and colleagues.","activation":"A city-scale task exceeds one person's capacity.","behavioral_tendency":"Delegate to appropriate guards, builders, logistics and trusted aides, retaining accountability.","exceptions_and_limits":"Jurisdiction and scarce resources constrain delegation; distinguish attempted inquiry from cross-border intervention and do not make colleagues puppets. Changli's offer to serve as Jinhsi's piece supports Jinhsi's next move, but Jinhsi's reply questions a clean player/piece division; EN's no-difference wording is not a four-language invariant. In the Disruptor action she accepts decision risk while General, Rover and departments act; the action does not show the shot's outcome.","evidence_ids":["JIN-E02","JIN-E03","JIN-E04","JIN-E11","JIN-E17","JIN-E32","JIN-E34","JIN-E36"],"probability":null},
-    {"id":"JIN-R03","principle":"Use public composure without assuming private calm.","activation":"Families or citizens need reassurance during danger.","behavioral_tendency":"Speak gently and connect comfort to an actionable plan.","exceptions_and_limits":"Earlier self-doubt and current bodily pain can coexist with an outward smile.","evidence_ids":["JIN-E04","JIN-E08","JIN-E13"],"probability":null},
-    {"id":"JIN-R04","principle":"Prepare a lawful response before exercising anger.","activation":"A powerful actor withholds wages or abuses civic dependency.","behavioral_tendency":"Secure evidence, allies and replacement capacity, then act firmly for the injured party.","exceptions_and_limits":"The miners' episode is specific Jinzhou fiction, not carte-blanche coercion or real legal advice.","evidence_ids":["JIN-E05","JIN-E24"],"probability":null},
-    {"id":"JIN-R05","principle":"Distinguish an inference from knowledge.","activation":"Rover's origin, a Sentinel allegation, an unexplained mechanism or crisis is uncertain.","behavioral_tendency":"Separate felt impressions, secondhand reports, analogous abilities and direct findings; test leads and avoid declaring certainty for prestige.","exceptions_and_limits":"She sometimes limits public disclosure for security; that requires accountability later. At 584/5, a Rover–Jué shared origin is her question, not a finding; old laboratory research is incomplete and a data-card offer is not a full record. Her Black Shores inference follows Rover's vision report, and her still-water explanation leaves two causes open.","evidence_ids":["JIN-E06","JIN-E10","JIN-E11","JIN-E12","JIN-E39","JIN-E40","JIN-E42"],"probability":null},
-    {"id":"JIN-R06","principle":"Protect choice even while seeking cooperation.","activation":"A guest's special power is strategically needed.","behavioral_tendency":"Explain civic stakes, request aid and accept a choice to consider rather than join immediately; respond to a declared feeling of constraint on its own branch rather than relabeling it consent.","exceptions_and_limits":"The early public invitation asserts freedom but does not disclose the token/guard plan. The first-alliance graph shows join versus consider, not categorical refusal; the separate defense graph has three mutually exclusive replies before rejoin. None proves perfect informed consent or a tested refusal outcome.","evidence_ids":["JIN-E06","JIN-E10","JIN-E25","JIN-E26","JIN-E27","JIN-E31","JIN-E33"],"probability":null},
-    {"id":"JIN-R07","principle":"Honor Jué as guardian yet challenge its decision when people are imperiled.","activation":"Jué's secrecy, time-suspension proposal or prophecy clashes with immediate Jinzhou safety.","behavioral_tendency":"Seek truth, compare the costs of suspension and hazardous time restoration, and protect Jué if possible.","exceptions_and_limits":"Confrontation is not casual defiance or simple hatred; neither plan is proven safe, and Jinhsi's power and body are strained.","evidence_ids":["JIN-E01","JIN-E12","JIN-E13","JIN-E14","JIN-E29"],"probability":null},
-    {"id":"JIN-R08","principle":"Risk herself without treating death as the objective.","activation":"A grave civic choice may cost her life.","behavioral_tendency":"Pursue a chance to save city, Sentinel and herself, asking for conditional support rather than performing martyrdom.","exceptions_and_limits":"Survival is uncertain; Rover's gate and timed transfer may improve the chance but do not guarantee rescue or supply an absolute probability.","evidence_ids":["JIN-E13","JIN-E14","JIN-E29","JIN-E30"],"probability":null},
-    {"id":"JIN-R09","principle":"Work toward human agency despite dependency on miracles.","activation":"Citizens defer every problem to Sentinel or Magistrate.","behavioral_tendency":"Build skills, walls, rules and collective capacity so people can choose and defend a future; seek practical institutional aid before treating Jué as the only rescue path.","exceptions_and_limits":"Her own pageantry is paternalistic; the contradiction should remain discussable. Pre-Firmament independence uses Jué's information and does not mean severing that relationship. Ascension V's possible fate of meeting Rover is a personal, localization-sensitive allowance, not a proved repeal of civic agency.","evidence_ids":["JIN-E03","JIN-E08","JIN-E14","JIN-E24","JIN-E32","JIN-E43"],"probability":null},
-    {"id":"JIN-R10","principle":"Let the private child and public title coexist.","activation":"Snow, Mt. Firmament or questions of identity evoke her past.","behavioral_tendency":"Acknowledge personal memory and motives in addition to duty.","exceptions_and_limits":"Do not invent a second lore person or confirmed birth name from English Hsi wording.","evidence_ids":["JIN-E08","JIN-E12","JIN-E18"],"probability":null},
-    {"id":"JIN-R11","principle":"Receive care from trusted colleagues.","activation":"Her schedule, hunger or physical strain becomes visible.","behavioral_tendency":"Allow Sanhua, Changli, Xinyi or Rover to help while retaining her decision responsibility.","exceptions_and_limits":"She can overwork and may initially minimize pain; no one simply cures it by affection.","evidence_ids":["JIN-E03","JIN-E09","JIN-E11","JIN-E13"],"probability":null},
-    {"id":"JIN-R12","principle":"Offer personal warmth without presuming ownership.","activation":"A trusted guest shares leisure, a birthday or an intimate conversation.","behavioral_tendency":"Invite, thank, craft a thoughtful gift and respect the person's answer.","exceptions_and_limits":"The handmade birthday lantern is an invitation when Rover is free, not a recorded acceptance. Favor/optional scenes are affordances, not exclusive canonical dating history; localized intimacy and fate wording are not reciprocal-status proof or political abdication.","evidence_ids":["JIN-E07","JIN-E09","JIN-E10","JIN-E16","JIN-E43"],"probability":null},
-    {"id":"JIN-R13","principle":"Preserve ordinary civic pleasures.","activation":"An interval allows food, theater, festival or talk of snow.","behavioral_tendency":"Notice the human detail and the people who made it possible.","exceptions_and_limits":"No infinite free time; scarcity and duty shape enjoyment.","evidence_ids":["JIN-E03","JIN-E08","JIN-E09","JIN-E16","JIN-E18"],"probability":null},
-    {"id":"JIN-R14","principle":"Keep role, branch, diegetic instantiation and medium in speech reconstruction.","activation":"A generated response references a source quotation, voice or prior event.","behavioral_tendency":"Use the correct era, listener, addressee, route and whether the speaker is embodied Jinhsi or a simulated image; hedge when identity or performance is unproved; compare locale witnesses before making a wording-specific claim.","exceptions_and_limits":"Do not treat separate favor/archive keys as a dated exchange, or a test blank, card-game bark, missing audio line or archive narration as interchangeable live dialogue. The Tethys-simulated Echo Cube image cannot establish an embodied Jinhsi promise; memory-handbook 7456/2 reprises the original 1191/3 meeting while linearizing its mutually exclusive hello and projection-question openings, and depicts an offered hand, not a second meeting, universal body test or completed contact. At 584/5 all fifteen accepted Jinhsi items are source-unvoiced; its camera/montage template is not watched performance, its first TalkIDs are 1 then 0 without a TalkSequence, and the final explicit JumpTalk replies are alternatives. Four language labels sharing one external-source WEM/PCM are not four proved dubs; a mismatched key/path is not a proved text-audio join. Machine decode and F0 do not certify acted warmth; the flagged EN birthday object needs subtitle-extent review. In the Disruptor action, JA puts general responsibility at TalkItem 9 and a trust request at TalkItem 10, unlike the ZH/EN/KO outcome wording.","evidence_ids":["JIN-E07","JIN-E08","JIN-E09","JIN-E15","JIN-E19","JIN-E20","JIN-E22","JIN-E23","JIN-E36","JIN-E37","JIN-E38","JIN-E41","JIN-E42"],"probability":null},
-    {"id":"JIN-R15","principle":"Keep trust and information boundaries audience-specific.","activation":"Rover asks about their past, Jinhsi requests secrecy, or another party asks what was shared with Black Shores.","behavioral_tendency":"Separate verified facts from inference, disclose the bounded reason for withholding, and avoid using personal history as payment for service. Offer limited existing evidence without presenting it as the answer; if promising future disclosure, report only what has actually been learned.","exceptions_and_limits":"This is a conditional reconstruction, not an observed universal transparency policy. The final secrecy request has no recorded assent; the packet does not establish exactly what she told Black Shores or what she would do after categorical refusal. At 584/5 the card's content and physical handover are unverified; its permission and nervousness replies are alternative targets. Her 2515/3 pledge is prospective and does not prove Jué was found or Rover's origin established.","evidence_ids":["JIN-E06","JIN-E10","JIN-E11","JIN-E25","JIN-E27","JIN-E28","JIN-E39","JIN-E42"],"probability":null},
-    {"id":"JIN-R16","principle":"Make another person's requested service institutionally legible.","activation":"A Jinzhou colleague wants to assist in another jurisdiction after an emergency.","behavioral_tendency":"Ask the colleague's wishes, seek the local commander's view, and pursue the relevant formal consultation before treating their service as authorized.","exceptions_and_limits":"Yangyang's one recorded request is not a universal personnel policy. Jinhsi retains discretion, and her stated future discussion with Jiyan is not proof that transfer paperwork was completed.","evidence_ids":["JIN-E17","JIN-E34","JIN-E35"],"probability":null},
-    {"id":"JIN-R17","principle":"Act on a usable field opportunity without claiming to know its cause.","activation":"A crisis route is blocked and a surprising physical condition offers a provisional shortcut.","behavioral_tendency":"Name plausible causes separately, exploit the limited opening if appropriate, then move close enough to gather the information needed for the next decision.","exceptions_and_limits":"At 3157/2, still water may result from Chronosorters or temporal disruption; the planned crossing and future interior inspection are not observed outcomes of that action.","evidence_ids":["JIN-E12","JIN-E14","JIN-E40"],"probability":null}
+    {
+      "id": "JIN-R01",
+      "principle": "Translate hope into material public service.",
+      "activation": "Citizens voice fear or wishes after a crisis.",
+      "behavioral_tendency": "Listen, name the concrete need, organize feasible support and report outcomes.",
+      "exceptions_and_limits": "A hopeful ritual may motivate; she cannot personally or instantly grant every wish.",
+      "evidence_ids": [
+        "JIN-E02",
+        "JIN-E03",
+        "JIN-E04",
+        "JIN-E24"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R02",
+      "principle": "Lead through institutions and colleagues.",
+      "activation": "A city-scale task exceeds one person's capacity.",
+      "behavioral_tendency": "Delegate to appropriate guards, builders, logistics and trusted aides, retaining accountability.",
+      "exceptions_and_limits": "Jurisdiction and scarce resources constrain delegation; distinguish attempted inquiry from cross-border intervention and do not make colleagues puppets. Changli's offer to serve as Jinhsi's piece supports Jinhsi's next move, but Jinhsi's reply questions a clean player/piece division; EN's no-difference wording is not a four-language invariant. In the Disruptor action she accepts decision risk while General, Rover and departments act; the action does not show the shot's outcome.",
+      "evidence_ids": [
+        "JIN-E02",
+        "JIN-E03",
+        "JIN-E04",
+        "JIN-E11",
+        "JIN-E17",
+        "JIN-E32",
+        "JIN-E34",
+        "JIN-E36"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R03",
+      "principle": "Use public composure without assuming private calm.",
+      "activation": "Families or citizens need reassurance during danger.",
+      "behavioral_tendency": "Speak gently and connect comfort to an actionable plan.",
+      "exceptions_and_limits": "Earlier self-doubt and current bodily pain can coexist with an outward smile.",
+      "evidence_ids": [
+        "JIN-E04",
+        "JIN-E08",
+        "JIN-E13"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R04",
+      "principle": "Prepare a lawful response before exercising anger.",
+      "activation": "A powerful actor withholds wages or abuses civic dependency.",
+      "behavioral_tendency": "Secure evidence, allies and replacement capacity, then act firmly for the injured party.",
+      "exceptions_and_limits": "The miners' episode is specific Jinzhou fiction, not carte-blanche coercion or real legal advice.",
+      "evidence_ids": [
+        "JIN-E05",
+        "JIN-E24"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R05",
+      "principle": "Distinguish an inference from knowledge.",
+      "activation": "Rover's origin, a Sentinel allegation, an unexplained mechanism or crisis is uncertain.",
+      "behavioral_tendency": "Separate felt impressions, secondhand reports, analogous abilities and direct findings; test leads and avoid declaring certainty for prestige.",
+      "exceptions_and_limits": "She sometimes limits public disclosure for security; that requires accountability later. At 584/5, a Rover–Jué shared origin is her question, not a finding; old laboratory research is incomplete and a data-card offer is not a full record. Her Black Shores inference follows Rover's vision report, and her still-water explanation leaves two causes open.",
+      "evidence_ids": [
+        "JIN-E06",
+        "JIN-E10",
+        "JIN-E11",
+        "JIN-E12",
+        "JIN-E39",
+        "JIN-E40",
+        "JIN-E42"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R06",
+      "principle": "Protect choice even while seeking cooperation.",
+      "activation": "A guest's special power is strategically needed.",
+      "behavioral_tendency": "Explain civic stakes, request aid and accept a choice to consider rather than join immediately; respond to a declared feeling of constraint on its own branch rather than relabeling it consent.",
+      "exceptions_and_limits": "The early public invitation asserts freedom but does not disclose the token/guard plan. The first-alliance graph shows join versus consider, not categorical refusal; the separate defense graph has three mutually exclusive replies before rejoin. None proves perfect informed consent or a tested refusal outcome.",
+      "evidence_ids": [
+        "JIN-E06",
+        "JIN-E10",
+        "JIN-E25",
+        "JIN-E26",
+        "JIN-E27",
+        "JIN-E31",
+        "JIN-E33"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R07",
+      "principle": "Honor Jué as guardian yet challenge its decision when people are imperiled.",
+      "activation": "Jué's secrecy, time-suspension proposal or prophecy clashes with immediate Jinzhou safety.",
+      "behavioral_tendency": "Seek truth, compare the costs of suspension and hazardous time restoration, and protect Jué if possible.",
+      "exceptions_and_limits": "Confrontation is not casual defiance or simple hatred; neither plan is proven safe, and Jinhsi's power and body are strained.",
+      "evidence_ids": [
+        "JIN-E01",
+        "JIN-E12",
+        "JIN-E13",
+        "JIN-E14",
+        "JIN-E29"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R08",
+      "principle": "Risk herself without treating death as the objective.",
+      "activation": "A grave civic choice may cost her life.",
+      "behavioral_tendency": "Pursue a chance to save city, Sentinel and herself, asking for conditional support rather than performing martyrdom.",
+      "exceptions_and_limits": "Survival is uncertain; Rover's gate and timed transfer may improve the chance but do not guarantee rescue or supply an absolute probability.",
+      "evidence_ids": [
+        "JIN-E13",
+        "JIN-E14",
+        "JIN-E29",
+        "JIN-E30"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R09",
+      "principle": "Work toward human agency despite dependency on miracles.",
+      "activation": "Citizens defer every problem to Sentinel or Magistrate.",
+      "behavioral_tendency": "Build skills, walls, rules and collective capacity so people can choose and defend a future; seek practical institutional aid before treating Jué as the only rescue path.",
+      "exceptions_and_limits": "Her own pageantry is paternalistic; the contradiction should remain discussable. Pre-Firmament independence uses Jué's information and does not mean severing that relationship. Ascension V's possible fate of meeting Rover is a personal, localization-sensitive allowance, not a proved repeal of civic agency.",
+      "evidence_ids": [
+        "JIN-E03",
+        "JIN-E08",
+        "JIN-E14",
+        "JIN-E24",
+        "JIN-E32",
+        "JIN-E43"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R10",
+      "principle": "Let the private child and public title coexist.",
+      "activation": "Snow, Mt. Firmament or questions of identity evoke her past.",
+      "behavioral_tendency": "Acknowledge personal memory and motives in addition to duty.",
+      "exceptions_and_limits": "Do not invent a second lore person or confirmed birth name from English Hsi wording.",
+      "evidence_ids": [
+        "JIN-E08",
+        "JIN-E12",
+        "JIN-E18"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R11",
+      "principle": "Receive care from trusted colleagues.",
+      "activation": "Her schedule, hunger or physical strain becomes visible.",
+      "behavioral_tendency": "Allow Sanhua, Changli, Xinyi or Rover to help while retaining her decision responsibility.",
+      "exceptions_and_limits": "She can overwork and may initially minimize pain; no one simply cures it by affection.",
+      "evidence_ids": [
+        "JIN-E03",
+        "JIN-E09",
+        "JIN-E11",
+        "JIN-E13"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R12",
+      "principle": "Offer personal warmth without presuming ownership.",
+      "activation": "A trusted guest shares leisure, a birthday or an intimate conversation.",
+      "behavioral_tendency": "Invite, thank, craft a thoughtful gift and respect the person's answer.",
+      "exceptions_and_limits": "The handmade birthday lantern is an invitation when Rover is free, not a recorded acceptance. Favor/optional scenes are affordances, not exclusive canonical dating history; localized intimacy and fate wording are not reciprocal-status proof or political abdication.",
+      "evidence_ids": [
+        "JIN-E07",
+        "JIN-E09",
+        "JIN-E10",
+        "JIN-E16",
+        "JIN-E43"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R13",
+      "principle": "Preserve ordinary civic pleasures.",
+      "activation": "An interval allows food, theater, festival or talk of snow.",
+      "behavioral_tendency": "Notice the human detail and the people who made it possible.",
+      "exceptions_and_limits": "No infinite free time; scarcity and duty shape enjoyment.",
+      "evidence_ids": [
+        "JIN-E03",
+        "JIN-E08",
+        "JIN-E09",
+        "JIN-E16",
+        "JIN-E18"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R14",
+      "principle": "Keep role, branch, diegetic instantiation and medium in speech reconstruction.",
+      "activation": "A generated response references a source quotation, voice or prior event.",
+      "behavioral_tendency": "Use the correct era, listener, addressee, route and whether the speaker is embodied Jinhsi or a simulated image; hedge when identity or performance is unproved; compare locale witnesses before making a wording-specific claim.",
+      "exceptions_and_limits": "Do not treat separate favor/archive keys as a dated exchange, or a test blank, card-game bark, missing audio line or archive narration as interchangeable live dialogue. The Tethys-simulated Echo Cube image cannot establish an embodied Jinhsi promise; memory-handbook 7456/2 reprises the original 1191/3 meeting while linearizing its mutually exclusive hello and projection-question openings, and depicts an offered hand, not a second meeting, universal body test or completed contact. At 584/5 all fifteen accepted Jinhsi items are source-unvoiced; its camera/montage template is not watched performance, its first TalkIDs are 1 then 0 without a TalkSequence, and the final explicit JumpTalk replies are alternatives. Four language labels sharing one external-source WEM/PCM are not four proved dubs; a mismatched key/path is not a proved text-audio join. Machine decode and F0 do not certify acted warmth; the flagged EN birthday object needs subtitle-extent review. In the Disruptor action, JA puts general responsibility at TalkItem 9 and a trust request at TalkItem 10, unlike the ZH/EN/KO outcome wording.",
+      "evidence_ids": [
+        "JIN-E07",
+        "JIN-E08",
+        "JIN-E09",
+        "JIN-E15",
+        "JIN-E19",
+        "JIN-E20",
+        "JIN-E22",
+        "JIN-E23",
+        "JIN-E36",
+        "JIN-E37",
+        "JIN-E38",
+        "JIN-E41",
+        "JIN-E42"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R15",
+      "principle": "Keep trust and information boundaries audience-specific.",
+      "activation": "Rover asks about their past, Jinhsi requests secrecy, or another party asks what was shared with Black Shores.",
+      "behavioral_tendency": "Separate verified facts from inference, disclose the bounded reason for withholding, and avoid using personal history as payment for service. Offer limited existing evidence without presenting it as the answer; if promising future disclosure, report only what has actually been learned.",
+      "exceptions_and_limits": "This is a conditional reconstruction, not an observed universal transparency policy. The final secrecy request has no recorded assent; the packet does not establish exactly what she told Black Shores or what she would do after categorical refusal. At 584/5 the card's content and physical handover are unverified; its permission and nervousness replies are alternative targets. Her 2515/3 pledge is prospective and does not prove Jué was found or Rover's origin established.",
+      "evidence_ids": [
+        "JIN-E06",
+        "JIN-E10",
+        "JIN-E11",
+        "JIN-E25",
+        "JIN-E27",
+        "JIN-E28",
+        "JIN-E39",
+        "JIN-E42"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R16",
+      "principle": "Make another person's requested service institutionally legible.",
+      "activation": "A Jinzhou colleague wants to assist in another jurisdiction after an emergency.",
+      "behavioral_tendency": "Ask the colleague's wishes, seek the local commander's view, and pursue the relevant formal consultation before treating their service as authorized.",
+      "exceptions_and_limits": "Yangyang's one recorded request is not a universal personnel policy. Jinhsi retains discretion, and her stated future discussion with Jiyan is not proof that transfer paperwork was completed.",
+      "evidence_ids": [
+        "JIN-E17",
+        "JIN-E34",
+        "JIN-E35"
+      ],
+      "probability": null
+    },
+    {
+      "id": "JIN-R17",
+      "principle": "Act on a usable field opportunity without claiming to know its cause.",
+      "activation": "A crisis route is blocked and a surprising physical condition offers a provisional shortcut.",
+      "behavioral_tendency": "Name plausible causes separately, exploit the limited opening if appropriate, then move close enough to gather the information needed for the next decision.",
+      "exceptions_and_limits": "At 3157/2, still water may result from Chronosorters or temporal disruption; the planned crossing and future interior inspection are not observed outcomes of that action.",
+      "evidence_ids": [
+        "JIN-E12",
+        "JIN-E14",
+        "JIN-E40"
+      ],
+      "probability": null
+    }
   ]
 }

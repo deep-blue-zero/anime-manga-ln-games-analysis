@@ -5,8 +5,8 @@ artifact_type: av_human_retrieval_crosswalk
 analytical_responsibility: "Exact sound and runtime retrieval for restraint, judgment, care, and unresolved revenge"
 scope: QIUYUAN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: QIUYUAN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,10 +15,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Qiuyuan — claim-driven human AV retrieval crosswalk
+
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `active_provisional` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_QIUYUAN_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 **Event/bank boundary:** 32 of 56 selected render records have `event_id: null` and `numeric_media_id: null`. Those records join source text to a client external-source virtual path and exact media/WEM/PCM/FLAC identities; they do **not** prove an explicit Wwise event → bank → numeric media chain. Preserve the nulls, and do not infer an event or bank from a friendly path. Other selected renders retain the IDs supplied by the source mapping.
 
@@ -130,11 +132,11 @@ Future capture should preserve client version, exact state key, executed path, l
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Across all 27 Qiuyuan crosswalk items, `WUWA_CH2_FAYATO_1080P60_6076F127` resolves **all 5 Chapter II Act XI (`158800019`) main-story items** (`QIU-AV-09`, `QIU-AV-10`, `QIU-AV-11`, `QIU-R04`, `QIU-R05`) and classifies **22 `out_of_recording_scope`** (`15` items from Patch 2.7 Segue *A Stranger in a Strange Land* and its coda `175000000` / `936800000` — `QIU-AV-03`–`08`, `QIU-AV-12`–`13`, `QIU-AV-16`, `QIU-R01`–`03`, `QIU-R06`–`07`, `QIU-R09` — plus `7` archive, combat-trigger, and `ShortMessage` items — `QIU-AV-01`–`02`, `QIU-AV-14`–`15`, `QIU-AV-17`, `QIU-R08`, `QIU-R10`; see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)). Full-census four-dub human listening beyond the calibrated 5-moment cohort (`QIU-DUB-01`..`05`) and Patch 2.7 Segue footage remain open; this packet stays `draft_noncurrent`.
+> **Historical authority at initial Chapter II reconciliation (`draft_noncurrent`; subsequently promoted to `active_provisional` / `do_not_use_as_current_authority: false` on 2026-11-19).** Across all 27 Qiuyuan crosswalk items, `WUWA_CH2_FAYATO_1080P60_6076F127` resolves **all 5 Chapter II Act XI (`158800019`) main-story items** (`QIU-AV-09`, `QIU-AV-10`, `QIU-AV-11`, `QIU-R04`, `QIU-R05`) and classifies **22 `out_of_recording_scope`** (`15` items from Patch 2.7 Segue *A Stranger in a Strange Land* and its coda `175000000` / `936800000` — `QIU-AV-03`–`08`, `QIU-AV-12`–`13`, `QIU-AV-16`, `QIU-R01`–`03`, `QIU-R06`–`07`, `QIU-R09` — plus `7` archive, combat-trigger, and `ShortMessage` items — `QIU-AV-01`–`02`, `QIU-AV-14`–`15`, `QIU-AV-17`, `QIU-R08`, `QIU-R10`; see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)). Full-census four-dub human listening beyond the calibrated 5-moment cohort (`QIU-DUB-01`..`05`) and Patch 2.7 Segue footage remain open; this packet now holds `active_provisional` authority within its declared bounds.
 
 - **Act XI camp arrival, Napoli II lantern handoff & Jinzhou regards (`QIU-AV-09`, `QIU-R04`; `SEG-013` `SCN-0321`–`0322`, `25:59:55`–`26:12:10`, `TRN-SEG013-0223..0284`, `OBS-SEG013-008..009`)**: Entering as `who=178` -> `1563` (`Qiuyuan`), he delivers Napoli II's First Relic lantern entrusted to him by dying Fenrico (`flow#/9965`), then settles into lowered private camp counsel (`flow#/8882/5`)—perceptively reading Faz's silent Dark Tide suppression (`904_21`), judging Fenrico's martyrdom (`'Death is a cheap way to pay for transgressions'`), pledging chosen surface defense beyond Mingting jurisdiction (`904_28`: `'I'll hold the line here'`), and relaying Magistrate Jinhsi's regards (`904_32`).
 - **Act XI Scar interception & dawn survivor-priority ethic (`QIU-AV-10`, `QIU-AV-11`, `QIU-R05`; `SEG-013` `SCN-0330, 0340`, `27:20:55`–`28:43:40`, `TRN-SEG013-0675..1139`, `OBS-SEG013-017, 027`)**: Intercepting Scar's ambush on Three Heroes' Crest (`SCN-0330`, `flow#/11919/1` & `10977`), Qiuyuan declares lethal sanction (`44_11–13`: `'I never planned on bringing you back alive. Dead or alive... makes no difference to me!'`, calibrated in `QIU-DUB-03`) and fights `Scar: Aberrant Nightmare` as playable Trial Qiuyuan until Phrolova's `M0307` deluge. At dawn (`SCN-0340`, `flow#/11982/1`), asked by Cantarella about Scar's escape, he calmly states (`73_8`, `QIU-DUB-04`): `'Survivors deserve more attention than criminals who deserve to die'`—proving sequential consistency between lethal defense against active mass-casualty attackers and disciplined refusal to abandon wounded allies for personal pursuit.
 
-### Four-dub voice calibration (`QIU-DUB-01`..`05`; `draft_noncurrent` preserved)
+### Four-dub voice calibration (`QIU-DUB-01`..`05`; historical reconciliation)
 
-Direct four-language listening (`20` isolated WEM renders across `zh-Hans`, `ja`, `ko`, `en`; see [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md)) anchors the deepest natural human bass in the cohort (`86.7`–`150.1 Hz`): Qiuyuan's lethal warning to Scar (`Main_Rinascita_2_12_44_12`, `QIU-DUB-03`: `ko` `86.7 Hz` at `-29.3 dBFS`, `ja`/`en` `99.9 Hz`, `zh` `102.6 Hz`) drops lower and flatter than civilian evacuation (`QIU-DUB-01`), whereas survivor priority (`2_12_73_8`, `QIU-DUB-04`) and his `'home / sheath'` counsel (`HRT_Rinascita_Interludes_603_38`, `QIU-DUB-05`, including an audible paternal sigh in `zh` and mentor `'お主'` in `ja`) soften consonant edges into quiet protective warmth. Segue `175000000` visual footage and remaining `250/255` Qiuyuan lines stay open; `draft_noncurrent` (`do_not_use_as_current_authority: true`) is preserved.
+Direct four-language listening (`20` isolated WEM renders across `zh-Hans`, `ja`, `ko`, `en`; see [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md)) anchors the deepest natural human bass in the cohort (`86.7`–`150.1 Hz`): Qiuyuan's lethal warning to Scar (`Main_Rinascita_2_12_44_12`, `QIU-DUB-03`: `ko` `86.7 Hz` at `-29.3 dBFS`, `ja`/`en` `99.9 Hz`, `zh` `102.6 Hz`) drops lower and flatter than civilian evacuation (`QIU-DUB-01`), whereas survivor priority (`2_12_73_8`, `QIU-DUB-04`) and his `'home / sheath'` counsel (`HRT_Rinascita_Interludes_603_38`, `QIU-DUB-05`, including an audible paternal sigh in `zh` and mentor `'お主'` in `ja`) soften consonant edges into quiet protective warmth. Segue `175000000` visual footage and remaining `250/255` Qiuyuan lines stay open; `active_provisional` (`do_not_use_as_current_authority: false`) governs the current packet within these bounds.

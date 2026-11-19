@@ -2,10 +2,10 @@
 series: WUWA
 artifact_type: character_current_state
 scope: CARTETHYIA_SOURCE_3_6_0
-source_boundary: "Imported V0.2 analysis over pinned source commit 353f2eaed119bc9f680eab92807d20ac75a79b40; current Drive evidence package V0.3.1 is a later evidence projection requiring explicit reconciliation"
-generation: V0.1_GIT_IMPORT_OF_ANALYTICAL_V0.2
+source_boundary: "Owner-adopted canonical analysis over pinned source commit 353f2eaed119bc9f680eab92807d20ac75a79b40 and integrated Chapter II AV/four-dub pass WUWA_RINASCITA_CH2_SHARED_AV_V01; current Drive evidence package V0.3.1 remains the restricted evidence plane"
+generation: V0.2_PLUS_PRE_AV_REBUILD_V0_1_CH2_AV_RECONCILED
 status: canonical
-release_state: mutable_active
+release_state: owner_adopted_current_canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -15,20 +15,20 @@ do_not_use_as_current_authority: false
 
 ## Earlier V0.2 generation routes
 
-1. `05 Integrated Synthesis/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md`
-2. `01 Evidence and Source-Facing/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md`
-3. ordinary-life evidence within the current monograph; the standalone earlier profile is now historical
-4. `03 Audiovisual and Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md`
-5. claim/counterevidence and revision ledgers
-6. compiled model and fidelity check
+1. [05 Integrated Synthesis/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md](05%20Integrated%20Synthesis/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md)
+2. [01 Evidence and Source-Facing/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md](01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md)
+3. ordinary-life evidence within the current monograph and [current ordinary-life profile](01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md); the standalone earlier profile is archived in `90 Legacy and Superseded/`
+4. [03 Audiovisual and Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md](03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md)
+5. [claim/counterevidence ledger](01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_CLAIM_AND_COUNTEREVIDENCE_LEDGER.json) and [revision ledgers](04%20Validation%20and%20Readiness/WUWA_CARTETHYIA_CLAIM_REVISION_LEDGER.md)
+6. [compiled model](02%20Reconstruction/WUWA_CARTETHYIA_CHARACTER_MODEL_PACKAGE.json) and [fidelity check](04%20Validation%20and%20Readiness/WUWA_CARTETHYIA_MODEL_FIDELITY_CHECK.md)
 
-## Current authority
+## Current authority and coverage-depth tier
 
-The newer source-facing packet is the preferred current text/audio first read under the owner adoption. The imported Cartethyia V0.2 monograph remains **active provisional** within its earlier-generation scope, not final. The claim ledger outranks the compiled model for proposition-level qualification. Primary evidence outranks every analytical artifact.
+Under the owner's 2026-11-19 coverage-depth promotion ([adoption and tiering record](../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md); earlier baseline [2026-09-09 adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md)), Cartethyia's analytical packet holds **`status: canonical`** (`do_not_use_as_current_authority: false`) within its declared Wuthering Waves 3.6.0 semantic, machine-audio, and Chapter II audiovisual/four-dub boundaries (`27/33` Chapter II EN scene-AV targets resolved + `29`-moment / `116`-render four-dub human-ear calibration). `canonical` marks current corpus authority within those explicit boundaries, not an all-line voice census or closure of optional/post-3.6 content. The newer twelve-document rebuild is the preferred first read for source-facing text/audio routing, while the reconciled V0.2 monograph, ledgers, specialist voice profile, and compiled model remain canonical within their scopes. Claim ledgers outrank the compiled model for proposition-level qualification, and primary evidence outranks every analytical artifact.
 
 Drive evidence folder: `1RD8BcQVtNPY0GHcG5IkCSpaWyq0svWd_`.
 
-## Imported artifacts
+## Imported V0.2 artifacts
 
 - character monograph;
 - relationship/state ledger;
@@ -39,13 +39,13 @@ Drive evidence folder: `1RD8BcQVtNPY0GHcG5IkCSpaWyq0svWd_`.
 - fidelity check;
 - V0.2 hardening completion report under `08 Audits and Manifests`.
 
-The imported files are byte-preserved analytical sources except for repository path/filename placement. The older ordinary-life profile reorganized already attested evidence into the character-folder contract and is now retained as historical material at the owner's request.
+The imported files preserve their original analytical history in the frozen bootstrap manifest while carrying in-place Chapter II AV/four-dub reconciliations and current `canonical` authority headers. The older ordinary-life profile reorganized already attested evidence into the character-folder contract and is retained as `historical_legacy` material at the owner's request.
 
-## Current pre-AV rebuild
+## Current rebuild packet
 
-The later twelve-document `CARTETHYIA_PRE_AV_REBUILD_V0_1` packet is owner-adopted current `active_provisional` authority for its declared text/audio scope. Start at [its packet README](WUWA_CARTETHYIA_ANALYSIS_PACKET_README.md), source-facing deep dive, evidence/falsification matrix, and reconstructive profile. The V0.2 monograph, ledgers, and model retain their earlier-generation scopes; use the newer source-facing packet and prior-generation revision ledger for current refinements. The older standalone ordinary-life profile is retired to legacy.
+The twelve-document `CARTETHYIA_PRE_AV_REBUILD_V0_1` packet is owner-adopted current `canonical` authority for its declared 3.6.0 text, machine-audio, and Chapter II AV-reconciled scope. Start at [its packet README](WUWA_CARTETHYIA_ANALYSIS_PACKET_README.md), [source-facing deep dive](01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_CHARACTER_DEEP_DIVE_PRE_AV.md), [evidence/falsification matrix](01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md), and [reconstructive profile](02%20Reconstruction/WUWA_CARTETHYIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md). Its `PRE_AV` filenames and V0.1 generation tags record construction provenance rather than a draft or pre-AV present state.
 
-The newer [ordinary-life profile](01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) is current `active_provisional` authority in the character folder. At the owner's express request, the older profile is retained in [90 Legacy and Superseded](90%20Legacy%20and%20Superseded/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md), with historical metadata and its analytical body preserved. The archived profile is not current discovery evidence. The newer current profile is subject to the designated curation agent's review of the existing registry reference before integration. The [integration repair manifest](../../08%20Audits%20and%20Manifests/WUWA_PRE_AV_BRANCH_INTEGRATION_REPAIR_MANIFEST.json) binds both versions and all mechanical transformations.
+The newer [ordinary-life profile](01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) is current `canonical` authority in the character folder. At the owner's express request, the older profile is retained in [90 Legacy and Superseded](90%20Legacy%20and%20Superseded/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) with `status: historical_legacy` (`do_not_use_as_current_authority: true`) and its analytical body preserved. The archived profile is not current discovery evidence. Historical import hashes remain preserved in the [integration repair manifest](../../08%20Audits%20and%20Manifests/WUWA_PRE_AV_BRANCH_INTEGRATION_REPAIR_MANIFEST.json).
 
 ## Earlier V0.2 thesis (retained scope)
 
@@ -53,11 +53,11 @@ Cartethyia's freedom is the right to give inherited obligation a meaning she can
 
 ## State model
 
-The current reconstructive profile uses D0–D4 developmental states with independent overlays. For unspecified ordinary-character modeling it permits D3/D4 only as an explicit working assumption; precise historical questions require the exact state. The older V0.2 model used S5 for post-Leviathan wandering and S4 as an operational overlay over S3. Keep these generation-specific labels distinct; the newer profile and prior-generation revision ledger govern current selection.
+The current reconstructive profile uses D0–D4 developmental states with independent overlays. For unspecified ordinary-character modeling it permits D3/D4 only as an explicit working assumption; precise historical questions require the exact state. The older V0.2 model used S5 for post-Leviathan wandering and S4 as an operational overlay over S3. Keep these generation-specific labels distinct; the newer profile and [prior-generation revision ledger](04%20Validation%20and%20Readiness/WUWA_CARTETHYIA_PRIOR_GENERATION_CLAIM_REVISION_LEDGER.md) govern current selection.
 
 ## Bounded static visual layer
 
-The [V0.2 visual-design profile](03%20Audiovisual%20and%20Voice/CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Cartethyia's role-linked head icon, formation art, and activity portrait for the default playable/base presentation. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. Fleurdelys, spirit-body and combat-transformation states, rear construction, runtime motion, and scene staging are not established by these three rasters.
+The independently governed [V0.2 visual-design profile](03%20Audiovisual%20and%20Voice/CHARACTER_VISUAL_DESIGN_PROFILE.md), structured [visual claims JSON](03%20Audiovisual%20and%20Voice/CHARACTER_VISUAL_DESIGN_PROFILE.json), and [visual provenance manifest](03%20Audiovisual%20and%20Voice/CHARACTER_VISUAL_REFERENCE_MANIFEST.json) directly inspect Cartethyia's role-linked head icon, formation art, and activity portrait for the default playable/base presentation (`status: active_provisional` retained on that narrow three-raster layer). Fleurdelys, spirit-body and combat-transformation states, rear construction, runtime motion, and scene staging are not established by these three rasters.
 
 ## Open hardening work
 
@@ -75,7 +75,7 @@ The [Chapter II shared AV reconciliation audit](../../08%20Audits%20and%20Manife
 - **3 `out_of_scope_non_main_story` targets**: `AV13` (post-Act-IV overworld ecology `katixiya-shengtai_*`), `AV17` (Septimont rail-sliding side challenge `flow#/9031`/`9035`), and `AV23` (Version 3.1 drink-mixing event `flow#/14569`/`15099`).
 - **Speaker and avatar hygiene**: separates Leviathan impersonation `who=1626` (`Cartethyia?`) and `who=1647` (`Threnodian: Leviathan`) from authentic `Cartethyia` (`who=50074`), frequency-channel `who=800343`, Cartethyia+Galbrena unison `who=1633`, and non-diegetic post-Chaos exploration avatar `char:cartethyia_avatar` (`SEG-011`).
 - **Four-dub voice calibration (`29` moments / `116` renders; [speech/performance profile](03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md) and [four-dub voice ledger](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md))**: directly calibrates `zh-Hans`, `ja`, `ko`, and `en` across `CART-DUB-01`..`23` and `CART-EXTRA-01`..`06` (`27/786` accepted solo lines + `1/5` rejected `who=1626` + `1/1` compound `who=1633`; `0` shared-PCM placeholders), establishing `zh-Hans` single-personhood continuity (`183.70`–`305.75 Hz` Cartethyia / `190.38`–`202.14 Hz` Fleurdelys), `ja`'s `>110 Hz` maiden-to-imperative plunge (`202.19`–`385.77 Hz` vs `148.43`–`195.44 Hz`, refuted against passive fragility by `CART-DUB-04`/`19`/`23` & `CART-EXTRA-04`), `en`'s chest-grounded British RP poise and dynamic grit (`167.23`–`255.29 Hz` vs `146.97`–`214.61 Hz`, refuted against stiffness by `CART-DUB-20` `167.23 Hz` and `FavorWord_140907_Content`), **falsification** of the `ko` midpoint hypothesis in favor of an independent high lyric soprano center (`232.69`–`336.59 Hz` with `261.61`–`272.75 Hz` polite `-세요`/`-군요` Fleurdelys belt), `who=1626` Leviathan vocal counterfeit (`CART-EXTRA-05`), and `who=1633` simultaneous Cartethyia+Galbrena two-actress layering (`CART-EXTRA-06`).
-- **Remaining open gates**: full-census human listening across the remaining `759` of `786` accepted solo Cartethyia lines (including archive pilot `140902` and `140903`), the `6` unviewed optional/non-main-story AV targets, and the four absent source flow states (`WUWA-OQ-003`) remain open; the packet remains `active_provisional`.
+- **Remaining open gates**: full-census human listening across the remaining `759` of `786` accepted solo Cartethyia lines (including archive pilot `140902` and `140903`), the `6` unviewed optional/non-main-story AV targets, and the four absent source flow states (`WUWA-OQ-003`) remain open as bounded gaps within the `canonical` 3.6.0 / Chapter II packet.
 
 ## Reconstruction boundary
 

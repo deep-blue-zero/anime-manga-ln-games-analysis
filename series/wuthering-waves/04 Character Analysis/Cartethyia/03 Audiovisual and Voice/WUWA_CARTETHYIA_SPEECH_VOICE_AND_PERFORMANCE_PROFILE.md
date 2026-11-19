@@ -3,8 +3,8 @@ series: WUWA
 artifact_type: character_speech_performance_profile
 scope: CARTETHYIA_SOURCE_3_6_0
 generation: V0.2
-status: active_provisional
-release_state: mutable_active
+status: canonical
+release_state: owner_adopted_current_canonical
 source_boundary: "Pinned Wuthering Waves 3.6.0 / Arikatsu resource 3.6.6 four-language text at commit 353f2eaed119bc9f680eab92807d20ac75a79b40 and installed-client V0.5.1 performance media; human-listening conclusions are limited to explicitly reviewed cohorts"
 supersedes: []
 superseded_by: []

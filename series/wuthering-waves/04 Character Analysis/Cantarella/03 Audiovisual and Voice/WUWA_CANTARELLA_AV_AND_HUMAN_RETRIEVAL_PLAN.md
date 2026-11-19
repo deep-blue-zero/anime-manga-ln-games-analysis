@@ -4,8 +4,8 @@ character: Cantarella
 artifact_type: av_and_human_retrieval_plan
 scope: CANTARELLA_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: CANTARELLA_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,10 +14,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Cantarella — AV and human retrieval plan
+
+**Current-status correction:** This is a retained nomination plan, not a completion certificate. Following the owner-adopted Chapter II AV reconciliation, 4/36 scene crosswalk targets and 6/845 stratified solo voice lines have been directly reviewed. Statements below about no listening or no runtime viewing describe the original pre-AV nomination baseline, not the current packet status. See [the current packet router](../WUWA_CANTARELLA_ANALYSIS_PACKET_README.md) and the [Chapter II AV audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md).
 
 ## Current state
 

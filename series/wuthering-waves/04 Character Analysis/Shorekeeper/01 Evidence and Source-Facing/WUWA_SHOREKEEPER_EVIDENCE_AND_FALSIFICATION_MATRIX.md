@@ -4,8 +4,8 @@ character: Shorekeeper
 artifact_type: evidence_and_falsification_matrix
 scope: SHOREKEEPER_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: SHOREKEEPER_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,10 +14,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Shorekeeper — evidence and falsification matrix
+
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `active_provisional` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_SHOREKEEPER_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 `flow#/N/A/I` expands to `wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/N/Actions!/A/Params/TalkItems/I`. Archive/profile keys resolve in the private four-language package. Normalized Chinese is the semantic anchor and the other dubs are witnesses. “Fully resolved selected audio” below does **not** mean human listening or complete discovery beyond this source generation.
 
@@ -204,4 +206,4 @@ The source gives a more demanding behavior test than “she is always beside Rov
 
 **Category:** direct ordered four-witness text for `flow#/3455/2`; interpretation is bounded by chronology and authority. **Confidence:** high for speaker, text, graph, exact quest pointer and absent selected voice; moderate for what the ownership word means to Shorekeeper in that moment; low for any legal status, seen imagery or performed quality. Rover asks why she is there, then Shorekeeper says she is Tethys's core and, in ZH/JA/KO, Black Shores property. EN substitutes guardian. The next key names her Sonoro as the suitable emotion vessel in three witnesses; EN says she was created for the purpose. Her account of Lament victims' names and emotions in Tethys does not prove the named people live within it or turn a differently quantified mass loss into an audited casualty number. A later selfhood claim and changed core require time-indexing rather than deletion of this earlier wording. An official-client scene could show the hands and supply audible delivery; an institutional document or later direct explanation could test the property's literal/legal scope. The [source specialist](WUWA_SHOREKEEPER_TETHYS_NAMES_PROPERTY_AND_SONORO_BURDEN_PROFILE.md) separates those questions [SHK-E02, E05–E06, E14, E16, E33, E39].
 
-Direct AV, exact branch traversal or a new source generation may revise these claims. Frozen source status is orthogonal to `draft_noncurrent` authority.
+Direct AV, exact branch traversal or a new source generation may revise these claims. Frozen source status is orthogonal to this packet's `active_provisional` authority.

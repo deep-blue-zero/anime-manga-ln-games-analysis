@@ -5,8 +5,8 @@ artifact_type: av_human_retrieval_crosswalk
 analytical_responsibility: "Exact sound and runtime retrieval for secrecy, embodiment, choice, and love"
 scope: SHOREKEEPER_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: SHOREKEEPER_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,10 +15,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Shorekeeper — claim-driven human AV retrieval crosswalk
+
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `active_provisional` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_SHOREKEEPER_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 **Event/bank boundary:** 24 of 60 selected render records have `event_id: null` and `numeric_media_id: null`. Those records join source text to a client external-source virtual path and exact media/WEM/PCM/FLAC identities; they do **not** prove an explicit Wwise event → bank → numeric media chain. Preserve the nulls, and do not infer an event or bank from a friendly path. Other selected renders retain the IDs supplied by the source mapping.
 
@@ -109,12 +111,12 @@ Favor-story crystal origin, field walking and Delone farewell are narrated prose
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Across all 14 Shorekeeper crosswalk items, `WUWA_CH2_FAYATO_1080P60_6076F127` resolves **2 `inspected_resolved`** in Chapter II Prologue (`SHK-R05`, `SHK-R07`) and classifies **12 `out_of_recording_scope`** (Chapter I Black Shores `145000004` / `151750001` items `SHK-R01`–`04`, `SHK-R06`, `SHK-R09`–`10`, `SHK-R14`; Patch 2.8 Honami `剧情_2_8_下半_穗波市_*` items `SHK-R12`–`13`; and combat/WavesLine items `SHK-R08`, `SHK-R11`; see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)). Non-diegetic player combat/HUD appearances (`SEG-001`, `SEG-010`, `SEG-013`) are strictly isolated under `char:shorekeeper_avatar`. Full-census four-dub human listening beyond the calibrated 4-moment cohort (`SHK-DUB-01`..`04`) remains open; this packet stays `draft_noncurrent`.
+> **Historical authority at initial Chapter II reconciliation (`draft_noncurrent`; subsequently promoted to `active_provisional` / `do_not_use_as_current_authority: false` on 2026-11-19).** Across all 14 Shorekeeper crosswalk items, `WUWA_CH2_FAYATO_1080P60_6076F127` resolves **2 `inspected_resolved`** in Chapter II Prologue (`SHK-R05`, `SHK-R07`) and classifies **12 `out_of_recording_scope`** (Chapter I Black Shores `145000004` / `151750001` items `SHK-R01`–`04`, `SHK-R06`, `SHK-R09`–`10`, `SHK-R14`; Patch 2.8 Honami `剧情_2_8_下半_穗波市_*` items `SHK-R12`–`13`; and combat/WavesLine items `SHK-R08`, `SHK-R11`; see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)). Non-diegetic player combat/HUD appearances (`SEG-001`, `SEG-010`, `SEG-013`) are strictly isolated under `char:shorekeeper_avatar`. Full-census four-dub human listening beyond the calibrated 4-moment cohort (`SHK-DUB-01`..`04`) remains open; this packet now holds `active_provisional` authority within its declared bounds.
 
 - **Prologue negative-control hologram check (`SHK-R07`; `SEG-001` `SCN-0002`, `00:02:23`–`00:04:44.5`, `TRN-SEG001-017..029`, `OBS-SEG001-005..006`)**: Visually and acoustically confirms speaker `178` (`'???'`) -> `50077` (`'"Rover" of the Past'`) in `flow#/4214` is a faceless blue-wireframe hologram of Female Rover voiced by Female Rover's EN VA with digital-grid reverb—never Shorekeeper.
 - **Prologue piano baseline, diagnostic framing & portal care (`SHK-R05`; `SEG-001` `SCN-0001, 0003`, `00:00:00`–`00:06:00`, `TRN-SEG001-007..037`, `OBS-SEG001-001, 007`)**: `SCN-0001` opens on Shorekeeper performing solo at the Black Shores grand piano with a contented smile-blink (realizing archive aspiration `SHK-S03` in active runtime continuity). In `SCN-0003` (`flow#/4099`, `4215`), she presents Rinascita's Sentinel Imperator in a calm clinical register strictly as Tethys's most viable provisional lead for Abby's weakening frequency—not a guaranteed cure (`SHK-C18`)—and reflexively expends personal computing power stabilizing the portal until Rover checks her.
 - **Act XI diegetic touchpoints (`SEG-013` `SCN-0318, 0332`)**: Indexes her astral blue butterfly heralding the Black Shores reinforcement teleport array (`SCN-0318`, `flow#/9962` `6_25`) and her silent golden memory projection beside Jinhsi behind Faz inside Cristoforo's sanctum (`SCN-0332`, `99421`–`99440 s`).
 
-### Four-dub voice calibration (`SHK-DUB-01`..`04`; `draft_noncurrent` preserved)
+### Four-dub voice calibration (`SHK-DUB-01`..`04`; historical reconciliation)
 
-Direct four-language listening (`16` isolated WEM renders across `zh-Hans`, `ja`, `ko`, `en`; see [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md)) calibrates Shorekeeper's translucent legato mezzo (`183.4`–`248.4 Hz`) across Chapter I, `FavorWord_150531`, Chapter II Prologue (`Main_Linaxita_2_0_1_6`, `SHK-DUB-03`), and Chapter III prologue anchor `Main_LahaiRoi_3_1_2_14`: progressing from halting breath-suspended wonder (`SHK-DUB-01`) through deliberate heartbeat-paced certainty (`'噗通 / トクン / 쿵 / Thump'`, `SHK-DUB-02`) to grounded post-Rinascita personal concern (`SHK-DUB-04`). Remaining `539/543` Shorekeeper lines and Chapter I / `2.8` / `3.x` runtime footage stay open; `draft_noncurrent` (`do_not_use_as_current_authority: true`) is preserved.
+Direct four-language listening (`16` isolated WEM renders across `zh-Hans`, `ja`, `ko`, `en`; see [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md)) calibrates Shorekeeper's translucent legato mezzo (`183.4`–`248.4 Hz`) across Chapter I, `FavorWord_150531`, Chapter II Prologue (`Main_Linaxita_2_0_1_6`, `SHK-DUB-03`), and Chapter III prologue anchor `Main_LahaiRoi_3_1_2_14`: progressing from halting breath-suspended wonder (`SHK-DUB-01`) through deliberate heartbeat-paced certainty (`'噗通 / トクン / 쿵 / Thump'`, `SHK-DUB-02`) to grounded post-Rinascita personal concern (`SHK-DUB-04`). Remaining `539/543` Shorekeeper lines and Chapter I / `2.8` / `3.x` runtime footage stay open; `active_provisional` (`do_not_use_as_current_authority: false`) governs the current packet within these bounds.

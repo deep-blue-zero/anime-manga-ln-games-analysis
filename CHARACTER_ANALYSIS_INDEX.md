@@ -57,7 +57,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 52 |
 | [`tomozaki`](characters/index/tomozaki.md) | 18 |
 | [`watayuri`](characters/index/watayuri.md) | 7 |
-| [`wuthering-waves`](characters/index/wuthering-waves.md) | 6 |
+| [`wuthering-waves`](characters/index/wuthering-waves.md) | 18 |
 | [`yuru-camp`](characters/index/yuru-camp.md) | 5 |
 
 ## Reviewed subjects
@@ -109,6 +109,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Asuka Nishino](characters/index/chiramune.md#asuka-nishino) | Chiramune light novel | `chiramune:asuka-nishino@light-novel` | — |
 | [Asumi Ogasawara](characters/index/kamakura-sho.md#asumi-ogasawara) | Original Japanese novel continuity | `kamakura-sho:asumi-ogasawara@original-novel` | おがさわら あすみ; 小笠原亜澄 |
 | [Atsuko](characters/index/blue-archive.md#atsuko) | Blue Archive game | `blue-archive:atsuko@game` | — |
+| [Augusta](characters/index/wuthering-waves.md#augusta) | Wuthering Waves game | `wuthering-waves:augusta@game` | — |
 | [Aulip](characters/index/konosuba.md#aulip) | Original light-novel continuity, scoped current monograph | `konosuba:aulip@original-light-novel` | アウリープ |
 | [Ayame](characters/index/blue-archive.md#ayame) | Blue Archive game | `blue-archive:ayame@game` | — |
 | [Ayane](characters/index/blue-archive.md#ayane) | Blue Archive game | `blue-archive:ayane@game` | — |
@@ -129,12 +130,15 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Black Suit](characters/index/blue-archive.md#black-suit) | Blue Archive game | `blue-archive:black-suit@game` | — |
 | [Boren](characters/index/konosuba.md#boren) | Authored TRPG component, unplayed source-specific scope | `konosuba:boren@trpg-advanced-supplied-scenario` | ボーレン |
 | [Brad](characters/index/konosuba.md#brad) | Original light-novel continuity, bounded expanded cohort | `konosuba:brad@original-light-novel` | ブラッド |
+| [Brant](characters/index/wuthering-waves.md#brant) | Wuthering Waves game | `wuthering-waves:brant@game` | — |
 | [Bremerton](characters/index/azur-lane.md#bremerton) | Azur Lane mobile game | `azur-lane:bremerton@mobile-game` | — |
 | [Bridol head butler](characters/index/konosuba.md#bridol-head-butler) | Original light-novel continuity, bounded character study | `konosuba:bridol-head-butler@original-light-novel` | — |
 | [Bukkorori](characters/index/konosuba.md#bukkorori) | Original light-novel continuity, scoped current monograph | `konosuba:bukkorori@original-light-novel` | ぶっころりー |
+| [Cantarella](characters/index/wuthering-waves.md#cantarella) | Wuthering Waves game | `wuthering-waves:cantarella@game` | — |
 | [Cartethyia](characters/index/wuthering-waves.md#cartethyia) | Wuthering Waves game | `wuthering-waves:cartethyia@game` | カルテジア; 카르티시아; 卡提希娅 |
 | [Cecily](characters/index/konosuba.md#cecily) | Original light-novel continuity, bounded character study | `konosuba:cecily@original-light-novel` | セシリー |
 | [Cha Hae-In](characters/index/solo-leveling.md#cha-hae-in) | Solo Leveling original Korean novel | `solo-leveling:cha-hae-in@original-korean-novel` | — |
+| [Changli](characters/index/wuthering-waves.md#changli) | Wuthering Waves game | `wuthering-waves:changli@game` | — |
 | [Charlie](characters/index/konosuba.md#charlie) | Fantastic Days novelization, bounded character study | `konosuba:charlie@fantastic-days-novelization` | チャーリー |
 | [Chekera](characters/index/konosuba.md#chekera) | Original light-novel continuity, scoped current monograph | `konosuba:chekera@original-light-novel` | ちぇけら |
 | [Child Emperor](characters/index/one-punch-man.md#child-emperor) | One Punch Man manga | `one-punch-man:child-emperor@manga` | — |
@@ -281,9 +285,11 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Isaac Walker](characters/index/silent-witch.md#isaac-walker) | Silent Witch Japanese light novels | `silent-witch:isaac-walker@light-novel` | アイザック・ウォーカー; Felix Arc Ridill; Ike; フェリクス・アーク・リディル |
 | [Ito Momiji](characters/index/shine-post.md#ito-momiji) | SHINE POST television anime | `shine-post:ito-momiji@television-anime` | — |
 | [Itsuki Hashima](characters/index/a-sisters-all-you-need.md#itsuki-hashima) | A Sister's All You Need original light novels through Volume 14 | `a-sisters-all-you-need:itsuki-hashima@original-light-novels` | 羽島伊月 |
+| [Iuno](characters/index/wuthering-waves.md#iuno) | Wuthering Waves game | `wuthering-waves:iuno@game` | — |
 | [Izumi Yuzu](characters/index/tomozaki.md#izumi-yuzu) | Bottom-Tier Character Tomozaki light novel | `tomozaki:izumi-yuzu@light-novel` | — |
 | [Jean Kirstein](characters/index/attack-on-titan.md#jean-kirstein) | Attack on Titan manga | `attack-on-titan:jean-kirstein@manga` | — |
 | [Jeda Diamond](characters/index/tokyo-7th-sisters.md#jeda-diamond) | Tokyo 7th Sisters game | `tokyo-7th-sisters:jeda-diamond@game` | — |
+| [Jinhsi](characters/index/wuthering-waves.md#jinhsi) | Wuthering Waves game | `wuthering-waves:jinhsi@game` | — |
 | [Jiro Kyoka](characters/index/my-hero-academia.md#jiro-kyoka) | My Hero Academia manga | `my-hero-academia:jiro-kyoka@manga` | — |
 | [John Paul](characters/index/genocidal-organ.md#john-paul) | Original novel, bounded comparative ethics | `genocidal-organ:john-paul@original-novel` | — |
 | [Jougasaki Mika](characters/index/the-idolmaster.md#jougasaki-mika) | Cinderella Girls mobile games | `the-idolmaster:jougasaki-mika@cinderella-girls-mobile-games` | — |
@@ -371,6 +377,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Luna](characters/index/konosuba.md#luna) | Original light-novel continuity, bounded character study | `konosuba:luna@original-light-novel` | ルナ |
 | [Luo Li](characters/index/to-be-hero-x.md#luo-li) | To Be Hero X animated series | `to-be-hero-x:luo-li@animated-series` | — |
 | [Lutz](characters/index/ascendance-of-a-bookworm.md#lutz) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:lutz@light-novel` | — |
+| [Luuk Herssen](characters/index/wuthering-waves.md#luuk-herssen) | Wuthering Waves game | `wuthering-waves:luuk-herssen@game` | — |
 | [Lynae](characters/index/wuthering-waves.md#lynae) | Wuthering Waves game — playable Lynae | `wuthering-waves:lynae@game` | — |
 | [Mafuyu](characters/index/project-sekai.md#mafuyu) | Project SEKAI game — Nightcord at 25:00 | `project-sekai:mafuyu@game` | — |
 | [Maguma](characters/index/shiboyugi.md#maguma) | Japanese light-novel continuity | `shiboyugi:maguma@light-novel` | 赭熊早百合; 真熊; Shaguma Sayuri |
@@ -467,12 +474,14 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Paul](characters/index/mushoku-tensei.md#paul) | Japanese light-novel continuity | `mushoku-tensei:paul@light-novel` | — |
 | [Perie](characters/index/konosuba.md#perie) | Original light-novel continuity, bounded expanded cohort | `konosuba:perie@original-light-novel` | ペリエ |
 | [Petra Leyte](characters/index/re-zero.md#petra-leyte) | Re:Zero main light novel | `re-zero:petra-leyte@light-novel` | ペトラ・レイテ |
+| [Phoebe](characters/index/wuthering-waves.md#phoebe) | Wuthering Waves game | `wuthering-waves:phoebe@game` | — |
 | [Pickles](characters/index/konosuba.md#pickles) | Original light-novel continuity, bounded expanded cohort | `konosuba:pickles@original-light-novel` | トランザム・ルッソ・ピクルス |
 | [Plana](characters/index/blue-archive.md#plana) | Blue Archive game | `blue-archive:plana@game` | — |
 | [Platypus tissue cover](characters/index/shuukura.md#platypus-tissue-cover) | Original Japanese light-novel continuity and author supplements | `shuukura:platypus-tissue-cover@original-light-novel` | — |
 | [Prenapates](characters/index/blue-archive.md#prenapates) | Blue Archive game | `blue-archive:prenapates@game` | — |
 | [Priscilla Barielle](characters/index/re-zero.md#priscilla-barielle) | Re:Zero main light novel | `re-zero:priscilla-barielle@light-novel` | プリシラ・バーリエル |
 | [Pucchin](characters/index/konosuba.md#pucchin) | Original light-novel continuity, scoped current monograph | `konosuba:pucchin@original-light-novel` | ぷっちん |
+| [Qiuyuan](characters/index/wuthering-waves.md#qiuyuan) | Wuthering Waves game | `wuthering-waves:qiuyuan@game` | — |
 | [Queen](characters/index/to-be-hero-x.md#queen) | To Be Hero X animated series | `to-be-hero-x:queen@animated-series` | — |
 | [Ragcraft](characters/index/konosuba.md#ragcraft) | Original light-novel continuity, scoped current monograph | `konosuba:ragcraft@original-light-novel` | ラグクラフト |
 | [Raiden Shuga](characters/index/86-eighty-six.md#raiden-shuga) | 86 - Eighty-Six original light novels | `86-eighty-six:raiden-shuga@original-light-novels` | ライデン・シュガ |
@@ -552,6 +561,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Shiun Sumika](characters/index/the-idolmaster.md#shiun-sumika) | Gakuen Idolmaster mobile-game Phase-3 core | `the-idolmaster:shiun-sumika@mobile-game-phase-3-core` | 紫雲清夏 |
 | [Shizuku](characters/index/project-sekai.md#shizuku) | Project SEKAI game — MORE MORE JUMP! | `project-sekai:shizuku@game` | — |
 | [Shoji Mezo](characters/index/my-hero-academia.md#shoji-mezo) | My Hero Academia manga | `my-hero-academia:shoji-mezo@manga` | — |
+| [Shorekeeper](characters/index/wuthering-waves.md#shorekeeper) | Wuthering Waves game | `wuthering-waves:shorekeeper@game` | — |
 | [Shumel](characters/index/konosuba.md#shumel) | Original light-novel continuity, scoped cohort monograph | `konosuba:shumel@original-light-novel` | シュメール・ミード・ひゃんひゃん |
 | [Siegwald](characters/index/konosuba.md#siegwald) | Original light-novel continuity, scoped cohort monograph | `konosuba:siegwald@original-light-novel` | ジーク; ジークヴァルト; ヴォルフガング・ジークヴァルト |
 | [Sigrika](characters/index/wuthering-waves.md#sigrika) | Wuthering Waves game | `wuthering-waves:sigrika@game` | — |
@@ -632,6 +642,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Yang Wen-li](characters/index/legend-of-the-galactic-heroes.md#yang-wen-li) | Legend of the Galactic Heroes original novels | `legend-of-the-galactic-heroes:yang-wen-li@original-novels` | ヤン・ウェンリー |
 | [Yano Mitsuki](characters/index/watayuri.md#yano-mitsuki) | Japanese manga | `watayuri:yano-mitsuki@manga` | — |
 | [Yaoyorozu Momo](characters/index/my-hero-academia.md#yaoyorozu-momo) | My Hero Academia manga | `my-hero-academia:yaoyorozu-momo@manga` | — |
+| [Yinlin](characters/index/wuthering-waves.md#yinlin) | Wuthering Waves game | `wuthering-waves:yinlin@game` | — |
 | [YonaiP (U149 Producer)](characters/index/the-idolmaster.md#yonai-p) | U149 anime Producer | `the-idolmaster:yonai-p@u149-anime` | 米内P; YonaiP; U149P; プロデューサー; 471P |
 | [Yoo Jinho](characters/index/solo-leveling.md#yoo-jinho) | Solo Leveling original Korean novel | `solo-leveling:yoo-jinho@original-korean-novel` | — |
 | [Yorimichi 2 dryad](characters/index/konosuba.md#yorimichi02-dryad) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi02-dryad@original-light-novel` | — |
@@ -655,6 +666,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Yuzu](characters/index/blue-archive.md#yuzu) | Blue Archive game | `blue-archive:yuzu@game` | — |
 | [Yuzuki Nanase](characters/index/chiramune.md#yuzuki-nanase) | Chiramune light novel | `chiramune:yuzuki-nanase@light-novel` | — |
 | [Yūki](characters/index/shiboyugi.md#yuuki) | Japanese light-novel continuity | `shiboyugi:yuuki@light-novel` | 反町友樹; 幽鬼; Sorimachi Yūki |
+| [Zani](characters/index/wuthering-waves.md#zani) | Wuthering Waves game | `wuthering-waves:zani@game` | — |
 | [Zanoba](characters/index/mushoku-tensei.md#zanoba) | Japanese light-novel continuity | `mushoku-tensei:zanoba@light-novel` | — |
 | [Zereschilt](characters/index/konosuba.md#zereschilt) | Original light-novel continuity, scoped current monograph | `konosuba:zereschilt@original-light-novel` | 残虐公; ゼーレシルト |
 | [Zesta](characters/index/konosuba.md#zesta) | Original light-novel continuity, bounded character study | `konosuba:zesta@original-light-novel` | ゼスタ |
