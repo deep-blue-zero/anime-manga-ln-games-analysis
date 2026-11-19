@@ -151,6 +151,8 @@ The completed artifact contains, in order suited to the actual source:
 
 This is a responsibility contract, not an order to compress every volume into eighteen short boxes. Related responsibilities may be integrated in substantial prose when they remain independently retrievable. Preserve distinctive scenes, physical mechanics, names, motives supported by the text, counterarguments and ambiguity.
 
+At closure include the architecture §3 independent reading and distinct source review in the reading/checkpoint. State what each role actually inspected, where a rule, act or disclosure can be checked, what challenge changed the argument and how the principal disposed of unresolved findings.
+
 Close the source-unit transaction only when the reading, required cumulative deltas or explicit no-material-change decisions, source coverage, locators, claim revisions, forecast outcomes, exit freeze and current high-water state agree. Persist and review the complete transaction before admitting a next unit. If interrupted, retain the last verified boundary and separate unfinished work; do not advance from an outline or the final chat sentence.
 
 ## 13. Acceptance and named-reference check

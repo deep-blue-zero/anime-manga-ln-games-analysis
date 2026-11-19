@@ -2,7 +2,7 @@
 title: "Sayonara Lara: Full-Series Analytical Method"
 artifact_id: "SYL_ANALYTICAL_METHOD"
 artifact_type: analytical_method
-version: "1.1-adopted"
+version: "1.2-adopted"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -22,7 +22,7 @@ adopted_on: "2026-09-20 America/New_York"
 
 Build a source-grounded literary and audiovisual account of the television series, with independently useful character and relationship analyses and a reliable basis for comparison within the project. The planned narrative boundary is Episodes 01-12, to be confirmed against the supplied source inventory. Specials, promotional voice dramas, later releases, adaptations, and other continuities are not silently admitted.
 
-This is a proposed series-specific method. Upon receipt, Codex must reconcile it with live governance, adopt it through the repository's ordinary acceptance process, and record the adopted version in `CURRENT_STATE_AND_CORPUS_MAP.md`. The packet's `draft_noncurrent` status is intentional; shipping this file does not open the sequential-analysis gate. The relevant requirements are [G01-G09, G12-G14] in the package source notes.
+This method was adopted under the repository acceptance process. The canonical entrypoint records its operational scope and the episode boundary. The original design packet and its governance sources [G01-G09, G12-G14] remain documented in the package source notes.
 
 The central questions concern alienation, desire, love, companionship, self-authorship, comedy, embodiment, and the ending. They are research questions, not predetermined conclusions. A final interpretation may preserve, substantially revise, or reject the earlier conversational thesis.
 
@@ -111,12 +111,15 @@ Write the episode reading; synchronize applicable cumulative homes; register loc
 Each `SYL_EPnn_DEEP_READING.md` should make the following recoverable without rigidly repeating a paragraph template:
 
 - source edition/language, knowledge boundary, and actual inspection coverage;
-- concise, accurate summary and scene map;
+- participant, blinded assignment and horizon, inspected cue/frame/interval, material finding or rival, reviewer challenge, principal disposition, and linked claim or channel debt under the [standing configuration](SYL_SYNTHESIS_ARCHITECTURE.md#independent-episode-and-channel-readings);
+- a **Current-unit story synopsis** near the front, after the witness, coverage and entering context, followed by the located scene map;
 - a sustained episode-level argument with close readings;
 - character and relationship changes, including continuity and contradiction;
 - distinctive comedy, formal, Japanese-language, and performance findings;
 - strongest counterreading and unresolved causal/linguistic questions;
 - claim/ledger deltas, freeze, next operation, and evidence debts.
+
+For each newly authorized narrative episode, finalize the synopsis after the applicable prospective captures are frozen and keep it from readers still at an earlier scene. Tell the episode’s story in accessible prose, from the opening situation and participants’ stakes through consequential actions, decisions, disclosures and their aftermath at the ending. Anchor decisive events to an episode scene and inspected cue, frame or interval. Distinguish what happens on screen from a memory, dream or character’s account. Where sampled images or captions leave a movement, speaker or outcome uncertain, keep that uncertainty in the synopsis. Apply [initiation §5.3](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#53-sequential-reading-contract) within the authorized episode and inspection lanes.
 
 Use explicit stable anchors for major scenes/claims. A serious episode normally warrants several developed arguments, not a plot synopsis decorated with thematic nouns. There is no automatic word-count certificate of completion.
 

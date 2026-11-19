@@ -99,3 +99,160 @@ Recorded assessments of subjects in the `azur-lane` namespace of the [Character 
   - `unlocated-compact-synthesis` (evidence gap): The monograph carries almost no record-level locators, and its multilingual, relationship and validation files are not curated on this subject, so its warrants were not rechecked here. Missing support is not evidence of absence.
 - Evidence at basis commit:
   - [`azur-lane:bremerton@mobile-game#azur-lane-bremerton-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2fb9e0d724982f17dadd3071d97fe332920caaf7/series/azur-lane/03%20Character%20Reconstruction/BREMERTON_10324/AZUR_LANE_BREMERTON_CHARACTER_MONOGRAPH.md)
+
+### Subject `azur-lane:st-louis@mobile-game`
+
+- Registry file: [`characters/reconstruction_capabilities/azur-lane/st-louis@mobile-game.jsonl`](../reconstruction_capabilities/azur-lane/st-louis@mobile-game.jsonl)
+
+<a id="azur-lane-st-louis-mobile-game-character-monograph-20261118-01"></a>
+
+#### Assessment `azur-lane-st-louis-mobile-game-character-monograph-20261118-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `azur-lane:st-louis`
+- Scope: continuity `azur-lane-mobile-game`
+- Source boundary: Only azur-lane:st-louis@mobile-game\#azur-lane-st-louis-character-monograph, the canonical frozen V1 constrained monograph AZUR\_LANE\_ST\_LOUIS\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the pinned CN-origin Azur Lane client corpus \(build AZL-2026-08-22-4cca5c24-cc8e9fdf\) as the monograph summarizes it: 18 linked narrative records, no dedicated character-memory group, 29 base-skin and 48 non-base-skin dialogue records, 8 affinity records, 1 oath record, 7 combat records, 2 relationship-specific records, 5 Juustagram appearances and JP/EN/TW/KR regional witnesses, with 71 mapped JP spoken utterances. The R5 adversarial audit, R6 relationship-state synthesis, R7 multilingual speech profile, JP audio reconciliation audit, JP voice performance profile, impact ledger and extracted corpus files are not curated on this subject and were not used. The project's readiness grade C, score 57.3 and simulator-status labels are inputs, not conclusions. The evaluator performed no primary-source inspection and no audio audition.
+- Temporal boundary: The live-service game has no single story chronology. The monograph orders St. Louis's Commander relationship functionally \(C0 familiar baseline, C1 private access, C2 direct intimacy, oath\) and says that order is not a guaranteed canon sequence across skin releases; peer scenes are cited by scene key and record ID without dates. The yihailiusheng event scenes, including the catastrophic yihailiusheng17, are treated by the monograph as alternate-context, lower-tier support. Claims cover the corpus pinned at the build above; content released after that build is outside the boundary.
+- Basis commit: `bd3cf48ffe9720fd54551166a5321439c937e62b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `c5dff8711d6e1392333dd483260ead489d3ccce76b29371d6900b27bbd432f1d`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Output is illustrative and labeled noncanonical, never presented as a quotation.
+  - `DIALOGUE` condition: Output locale is CN or JP, using the documented markers; EN, TW and KR stylistic claims are not made.
+  - `DIALOGUE` condition: The recipient is the Commander at a named functional state or a named peer \(Helena, Honolulu, Boise\), chosen before wording.
+  - `DIALOGUE` condition: No perceptual-timbre or performance claim beyond the stated acoustic tendencies.
+  - `CROSS_SCENARIO` condition: Low-stakes social novelty covered by section 26: dinner with friendly strangers, meeting a shy young woman, a technical controversy, or mild failure in a game.
+  - `CROSS_SCENARIO` condition: Flirtation is not transferred to anyone but the Commander; a stranger gets peer-level initiative and teasing only if embarrassed but not distressed.
+  - `CROSS_SCENARIO` condition: Abstain where the scenario turns on a clarified hard stop, open anger, grief, a moral dilemma or non-Commander romance.
+  - `CROSS_SCENARIO` condition: Serious danger to Helena is a lower-confidence condition because its strongest support is alternate-context.
+  - `CROSS_SCENARIO` bounds: chronology No story chronology; the pinned build AZL-2026-08-22-4cca5c24-cc8e9fdf, with the Commander at a named functional state if present.; interlocutor The Commander at a named state, Helena, Honolulu or Boise as sampled, or a friendly stranger treated as a peer without invented history.; settings Port, party, dinner, leisure or routine-duty settings.; No high-stakes interpersonal rejection, sustained grief or command-leadership setting.; Alternate yihailiusheng contexts only as lower-tier support.
+  - `MUNDANE_SOCIAL` condition: Party, dinner, drink, drive, shopping or fashion interaction with the Commander or a named peer.
+  - `MUNDANE_SOCIAL` condition: She is a socially engaged guest, not an established cook.
+  - `MUNDANE_SOCIAL` condition: Public-private discretion about intimacy is kept \(touch2\).
+  - `ROMANCE_RELATIONSHIP` condition: The partner is the Commander at a named functional state \(C0, C1, C2 or oath\).
+  - `ROMANCE_RELATIONSHIP` condition: Intimacy grows by permission, exclusivity and reciprocal access, without a shy transformation.
+  - `ROMANCE_RELATIONSHIP` condition: No non-Commander romance and no claim that the states form a canon sequence.
+  - `PROFESSIONAL_CONTEXT` condition: Secretary duty, routine reports, sortie lines or informal coordination of peers.
+  - `PROFESSIONAL_CONTEXT` condition: Technical uncertainty is met by admitted concern and recruited expertise.
+  - `PROFESSIONAL_CONTEXT` condition: No formal command leadership or military doctrine.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` E; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` B; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `alternate-context-high-stakes` (evidence-backed limitation): The strongest high-stakes protection and guilt material \(yihailiusheng17 and the injury apology\) is alternate-context and carried at lower confidence.
+  - `commander-and-skin-heavy` (evidence-backed limitation): About 79.2 percent of the corpus is Commander-facing and about 62.3 percent skin-sourced; the monograph forbids letting Commander flirtation define her personality and weights the peer scenes to correct for it.
+  - `hard-stop-untested` (evidence gap): No source test shows how she responds when someone clearly separates genuine distress from face-saving embarrassment and repeats a hard stop \(OPEN-3\). Missing support is not evidence of absence.
+  - `mild-protest-does-not-stop-her` (evidence-backed limitation): Mild or face-saving protest does not reliably end her social steering \(Boise, Honolulu, R5 Test C\); a consent model in which any protest ends it is rejected.
+  - `no-memory-sequence` (evidence-backed limitation): St. Louis has no dedicated character-memory group and no Fleet Chat, and the corpus has 18 linked narrative records; interior claims are inferences from conduct.
+  - `open-domains` (evidence gap): Sustained grief, anger and conflict, deep ideology, formal leadership, long domestic routine, cooking competence and non-Commander romance are OPEN in the monograph.
+  - `regional-registers-unprofiled` (evidence gap): EN, TW and KR registers have structural presence but no stylistic profile; the monograph says they should not be guessed from CN or JP.
+  - `uncurated-specialists` (evidence gap): The R5-R7 specialist files, the audio reconciliation and voice performance profiles, the impact ledger and the extracted corpus are not curated on this subject, so the record IDs, acoustic figures and adversarial outcomes were not rechecked here.
+- Evidence at basis commit:
+  - [`azur-lane:st-louis@mobile-game#azur-lane-st-louis-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/bd3cf48ffe9720fd54551166a5321439c937e62b/series/azur-lane/03%20Character%20Reconstruction/ST_LOUIS_10213/AZUR_LANE_ST_LOUIS_CHARACTER_MONOGRAPH.md)
+
+### Subject `azur-lane:taihou@mobile-game`
+
+- Registry file: [`characters/reconstruction_capabilities/azur-lane/taihou@mobile-game.jsonl`](../reconstruction_capabilities/azur-lane/taihou@mobile-game.jsonl)
+
+<a id="azur-lane-taihou-mobile-game-character-monograph-20261118-01"></a>
+
+#### Assessment `azur-lane-taihou-mobile-game-character-monograph-20261118-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `azur-lane:taihou`
+- Scope: continuity `azur-lane-mobile-game`
+- Source boundary: Only azur-lane:taihou@mobile-game\#azur-lane-taihou-character-monograph, the canonical frozen V1 integrated monograph AZUR\_LANE\_TAIHOU\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the pinned CN-semantic Azur Lane client corpus \(build AZL-2026-08-22-4cca5c24-cc8e9fdf\) as the monograph summarizes it: the seven-chapter dedicated memory dafeng1-dafeng7, 28 CN-linked narrative scenes with 257 direct dialogue lines, 116 normalized character-dialogue records, 25 CN social sections, 125 routed Dorm3D groups, and JP/EN/TW/KR regional textual witnesses. The R0-R3 specialist readings, the R5 adversarial audit, R6 relationship synthesis, R7 speech profile, R8 novel-situation audit, the claim-revision ledger and the extracted corpus are not curated on this subject; their results are used only as the monograph reports them, and probe protocols were not inspected. The project's readiness grade A, score 86.89 and simulator-status labels are inputs, not conclusions. The evaluator performed no primary-source inspection and no audio audition.
+- Temporal boundary: The live-service game has no single story chronology. The monograph's S0-S7 operating states are context states, and its CMD0-CMD3 Commander regimes are explicitly nonchronological; skins and Dorm3D are not forced into a sequence. The only ordered arc is the dafeng1-dafeng7 memory sequence, including the dafeng6-dafeng7 rest and self-condemnation episode. Claims cover the corpus pinned at the build above; content released after it, and the 58 unmapped audio records and four unresolved DormLvPerformance1201-1204 references, are outside the boundary.
+- Basis commit: `bd3cf48ffe9720fd54551166a5321439c937e62b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `bb3e570b9f7fc9c9ebcb469633fc34c65bee740b3e5110074d53bf8c682ca093`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Output is illustrative and labelled noncanonical, never presented as a quotation.
+  - `DIALOGUE` condition: Appraisal and action are predicted first, inside the section 26 C1-C3 envelope; one locale \(CN, JP, EN, TW or KR\) is then chosen and only its documented markers and modifiers are applied.
+  - `DIALOGUE` condition: Signature possessive or violent phrasing is not inserted where the state does not call for it.
+  - `DIALOGUE` condition: No performed-voice, timbre or acoustic claim.
+  - `CROSS_SCENARIO` condition: One of the reported families: ordinary peer interaction at low Commander salience, work against desired proximity, self-authored performance, unexpected reciprocal agency \(bounded\), Akagi rivalry under secure choice with feasible local sharing, Albacore harmless disruption or credible threat, mild separation \(bounded\), credible reassurance, secure reciprocal care, tactical problem solving, theatrical violent language, an explicit operational or privacy boundary, small low-cost dependency engineering \(bounded\).
+  - `CROSS_SCENARIO` condition: The Commander regime, security state and the other person's classification are named before prediction.
+  - `CROSS_SCENARIO` condition: Abstain on acute serious refusal, serious Commander rejection, betrayal, prolonged unreassured separation, grave culpable failure, deliberate severe rival harm, long-duration enforced sharing, prolonged nonreciprocal dependency, non-Commander romance, broad moral conflict, permanent incapacity and loss of combat capability.
+  - `CROSS_SCENARIO` condition: Exact outputs are C3 extrapolations, labelled as such.
+  - `CROSS_SCENARIO` bounds: chronology No story chronology; the pinned build AZL-2026-08-22-4cca5c24-cc8e9fdf, with the Commander at a named nonchronological regime \(CMD0-CMD3\) if present.; interlocutor The Commander at a named regime and security state, or Albacore, Akagi, Shoukaku, Yamashiro, Roon or Yat Sen in their documented functions, or an unfamiliar peer group with no Commander-threat cue.; settings Port life, professional exercise or mission, public performance or event, private date, or established domestic setting.; Dorm3D-grounded behaviour only in high-security intimacy settings, never as a baseline.; No high-stakes authority-versus-attachment conflict.
+  - `MUNDANE_SOCIAL` condition: Leisure, port life, group activity or practical conversation with a named peer or unfamiliar peer group.
+  - `MUNDANE_SOCIAL` condition: No Commander references injected merely to make her recognizable \(DR1\).
+  - `MUNDANE_SOCIAL` condition: Breadth of independent hobbies is not invented beyond the located examples.
+  - `ETHICAL_DELIBERATION` condition: Predict how she weighs a legible privacy, work or authority norm against attachment reward, using the section 9.2 outcomes.
+  - `ETHICAL_DELIBERATION` condition: Awareness of excess is not treated as reliable restraint \(DR10\).
+  - `ETHICAL_DELIBERATION` condition: Abstain on acute serious refusal and on moral or ideological questions unrelated to attachment or role.
+  - `ROMANCE_RELATIONSHIP` condition: The partner is the Commander at a named regime \(CMD0-CMD3\) and security state; the regimes are not a canon sequence.
+  - `ROMANCE_RELATIONSHIP` condition: Secure intimacy keeps tracking, access and exclusivity behaviour \(DR12\); self-authored frames raise fluency; an unexpected opening can fluster her.
+  - `ROMANCE_RELATIONSHIP` condition: No hard refusal, serious rejection, betrayal or prolonged separation, and no non-Commander romance.
+  - `PROFESSIONAL_CONTEXT` condition: A legitimate, clearly structured task or exercise; she first seeks a task-plus-closeness solution, then restraint or compliance \(DR2\).
+  - `PROFESSIONAL_CONTEXT` condition: Competent participation under distributed authority and acceptance of peer expertise.
+  - `PROFESSIONAL_CONTEXT` condition: No broad command philosophy, no severe authority-versus-attachment conflict and no grave failure.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` B; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` B; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `commander-heavy` (evidence-backed limitation): 79.3 percent of normalized character dialogue is Commander-facing; peer, public and low-salience evidence receives corrective weight, but global peer psychology rests on a smaller base.
+  - `dorm3d-high-security-stratum` (evidence-backed limitation): Dorm3D is a high-security established-intimacy stratum and must not be projected onto baseline or stranger contexts.
+  - `grave-failure-and-rival-harm-open` (evidence-backed limitation): Grave professional failure with responsibility, moral injury, and the ceiling of severe ordinary-world harm to a rival are OPEN.
+  - `hard-refusal-open` (evidence-backed limitation): The corpus has no clean, serious, informed hard-refusal experiment for intimacy or access; neither ignoring nor immediately honouring a serious no may be inferred.
+  - `no-chronology` (evidence-backed limitation): Operating states and Commander regimes are nonchronological; skins are not a literal sequence, and only the memory arc is ordered.
+  - `non-commander-romance-and-ideology-unsupported` (evidence-backed limitation): Stable non-Commander romantic psychology, a broad moral or ideological worldview and comprehensive leadership style are unsupported.
+  - `performed-voice-open` (evidence-backed limitation): JP performed voice is OPEN\_PARTIAL\_SOURCE\_MAPPING \(151 mapped slots, 58 expected records missing, 57 of them Dorm3D\); text may not be used to fabricate acoustic traits.
+  - `rejection-betrayal-separation-open` (evidence-backed limitation): Responses to serious Commander rejection, betrayal and long separation without reassurance are OPEN, and the exact severe self-as-unwanted threshold is medium.
+  - `validation-reported-not-inspected` (evidence gap): The R5 adversarial audit and the R8 probes and abstention controls behind the C2 and C3 classes are reported in the monograph but are not curated evidence on this subject; their protocols and individual outcomes were not inspected.
+- Evidence at basis commit:
+  - [`azur-lane:taihou@mobile-game#azur-lane-taihou-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/bd3cf48ffe9720fd54551166a5321439c937e62b/series/azur-lane/03%20Character%20Reconstruction/TAIHOU_30707/AZUR_LANE_TAIHOU_CHARACTER_MONOGRAPH.md)
+
+### Subject `azur-lane:takao@mobile-game`
+
+- Registry file: [`characters/reconstruction_capabilities/azur-lane/takao@mobile-game.jsonl`](../reconstruction_capabilities/azur-lane/takao@mobile-game.jsonl)
+
+<a id="azur-lane-takao-mobile-game-character-monograph-20261119-01"></a>
+
+#### Assessment `azur-lane-takao-mobile-game-character-monograph-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `azur-lane:takao`
+- Scope: continuity `azur-lane-mobile-game`
+- Source boundary: Only azur-lane:takao@mobile-game\#azur-lane-takao-character-monograph, the canonical frozen V1 monograph AZUR\_LANE\_TAKAO\_CHARACTER\_MONOGRAPH.md \(method 1.0.0\) at basis\_commit, read in full as reviewed repository analysis of the pinned CN-semantic Azur Lane client corpus \(build AZL-2026-08-22-4cca5c24-cc8e9fdf\) as the monograph summarizes it: 43 linked narrative story records, the seven-part dedicated memory gaoxiong1-gaoxiong7, 36 base-skin and 84 non-base-skin dialogue records, 12 interactive-skin, 8 affinity, 1 oath, 12 combat and 2 relationship-specific records, 4 Juustagram posts, 1 Fleet Chat thread, JP/EN/TW/KR regional witnesses at 96.69 percent weighted alignment, and 114 mapped JP performed utterances. The JP voice-performance profile, its monograph impact ledger, the promotion audit, the character source map, source coverage, the CN narrative and social corpora and the source augmentation report are not curated on this subject; acoustic and source-closure results are used only as the monograph reports them. Crossover scenes \(E5\) are used only where the monograph says they agree with E1-E3 evidence. The project's readiness grade A, score 89.21 and C1-C5 confidence classes are inputs, not conclusions. The evaluator performed no primary-source inspection and no audio audition.
+- Temporal boundary: The live-service game has no single story chronology, and the monograph does not sequence skins. Two ordered series exist: the affinity progression from the relationship state C0 \(feeling1-feeling2\) through C1 \(feeling3-feeling4 and the gaoxiong1-gaoxiong6 curriculum\) and the oath transition \(propose, feeling5\) to C2 established intimacy \(gaoxiong7, main\_extra and post-oath material\), where C0-C2 are the monograph's relationship states and distinct from the method's C1-C5 confidence classes; and the memory sequence gaoxiong1-gaoxiong7. The aidang2 heat-collapse episode is retrospective history before the current sports-drink routine. Claims cover the corpus pinned at the build above; later content is outside the boundary.
+- Basis commit: `bd3cf48ffe9720fd54551166a5321439c937e62b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `24c201fee70c3f10c35b9486d55807ed6243b7096cff484cd941cbfc4d431440`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Output is illustrative and labelled noncanonical, never presented as a quotation.
+  - `DIALOGUE` condition: The scene state and relationship state \(C0, C1, oath or C2\) are fixed first; then one locale is chosen and only its documented forms are used: JP 拙者 and 指揮官殿 with そなた only in intimate states, KR 소인 and 지휘관 나리 with 그대 only in intimate states, CN restrained archaism with selective 在下, TW parallel to CN, EN elevated modern English without thee or thou.
+  - `DIALOGUE` condition: Many lines carry no sword, bushido or training reference \(section 27.9\), and locale-specific shifts \(sisters against the Fourth Squadron; bride against exclusive ship\) are kept per locale.
+  - `DIALOGUE` condition: No perceptual timbre, breathiness or actor-style claim; acoustic tendencies only as the monograph reports them.
+  - `CROSS_SCENARIO` condition: The situation is one of the families the rules cover: a novel professional or safety problem, a novel hobby or skill deficit, a social gathering or contest, a romantic gesture at a named relationship state, an injury or fatigue during an obligation, mentoring a trainee, an outsider who needs a safety boundary or explanation, offered care, or principled correction.
+  - `CROSS_SCENARIO` condition: The Commander's relationship state \(C0, C1, oath or C2\) is named before prediction; the states are affinity tiers, not story chronology.
+  - `CROSS_SCENARIO` condition: Atago and the Commander are the best-sampled interlocutors; Choukai, Sakura peers and unfamiliar trainees or guests follow their documented functions at lower confidence.
+  - `CROSS_SCENARIO` condition: Output predicts her characteristic errors: concealing a minor injury, overreach, missing a subtle social motive until it is explained, transparent pretexts, and over-investment in a contest.
+  - `CROSS_SCENARIO` condition: Abstain on clear duty conflicting with a major relationship or moral commitment, catastrophic moral failure, high-stakes strategic deception, abstract ideology, long-duration domestic routine, non-Commander romance and the reciprocal perspectives of Atago or Choukai.
+  - `CROSS_SCENARIO` bounds: chronology No story chronology; the pinned build AZL-2026-08-22-4cca5c24-cc8e9fdf, with the Commander relationship at a named state C0, C1, oath or C2 and, where relevant, a named position in gaoxiong1-gaoxiong7.; interlocutor The Commander at a named relationship state; Atago as social interpreter and caretaker; Choukai as collegial peer; Sakura peers in group settings; or an unfamiliar trainee, guest or outsider \(Lila, Nana and Pursuer are the sampled cases\).; settings Port life, training ground, fleet operation or exercise, beach, pool or other leisure setting, kitchen, modeling or photography, or group chat.; Crossover premises are not treated as baseline chronology, and skin material is not projected as baseline behavior.; No setting in which clear duty and a major relationship or moral commitment conflict.
+  - `MUNDANE_SOCIAL` condition: Leisure, port life, group activity or practical conversation with peers or guests.
+  - `MUNDANE_SOCIAL` condition: Rest stays rest until a contest appears; then she commits seriously and seeks a rematch after a loss.
+  - `MUNDANE_SOCIAL` condition: She is not over-formalized among peers and does not police harmless behavior.
+  - `MUNDANE_SOCIAL` condition: No invented domestic routine or preference beyond the located examples \(OPEN-4\).
+  - `ETHICAL_DELIBERATION` condition: Predict whether she intervenes from the section 14 gradient: safety, dereliction, reckless weapon handling or obvious underestimation of a threat raise intervention, while harmless casual behavior lowers it.
+  - `ETHICAL_DELIBERATION` condition: Credible exposure of a low-stakes pretext leads to confession rather than escalation \(rule T7\).
+  - `ETHICAL_DELIBERATION` condition: Abstain on moral dilemmas, conflicts between duty and attachment, and political or ideological questions \(section 28.6; OPEN-5\).
+  - `ROMANCE_RELATIONSHIP` condition: The partner is the Commander at a named relationship state \(C0, C1, oath or C2\); oath-level tenderness or そなた intimacy is not used in an early state.
+  - `ROMANCE_RELATIONSHIP` condition: Early states show care through action and transparent training pretexts; C2 keeps modesty and bounded embarrassment, and martial identity is integrated, not replaced \(gaoxiong7\).
+  - `ROMANCE_RELATIONSHIP` condition: No non-Commander romance, no serious rejection or betrayal scenario, and no skin-specific fanservice as baseline.
+  - `PROFESSIONAL_CONTEXT` condition: A fleet operation, exercise, training or mentoring setting: she identifies the objective and risk, assigns responsibility, acts and reviews failure afterward \(section 28.1\).
+  - `PROFESSIONAL_CONTEXT` condition: She delegates to demonstrated competence with a relevant warning \(rules T9; laisharichang3; diehaimenghua18\) and teaches from first principles and embodied integration.
+  - `PROFESSIONAL_CONTEXT` condition: No comprehensive command doctrine, strategic leadership philosophy or duty-against-attachment conflict.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` B; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `affinity-not-chronology` (evidence-backed limitation): The C0, C1, oath and C2 relationship states are affinity tiers, not story time; skins are not sequenced and continuity among them can vary.
+  - `commander-heavy` (evidence-backed limitation): About 80.8 percent of normalized character dialogue is Commander-facing; peer, professional and narrative evidence receives corrective weight, but peer psychology rests on a smaller base.
+  - `domestic-and-ideology-open` (evidence-backed limitation): Long-duration domestic behavior \(OPEN-4\) and abstract ideology outside professional and martial domains \(OPEN-5\) are OPEN; broad ideological responses stay at C3-C4.
+  - `duty-attachment-conflict-unsampled` (evidence gap): No located case puts clear duty against a major relationship or moral commitment; the monograph names the case \(section 28.1\) without modelling which motive decides.
+  - `high-stakes-unsampled` (evidence-backed limitation): Catastrophic moral failure and high-stakes strategic deception are not sampled, and the severity threshold of her self-neglect is approximate.
+  - `perceptual-timbre-open` (evidence-backed limitation): Direct ear-dependent timbre, perceived breathiness and actor-style description are OPEN; text may not be used to fabricate them.
+  - `reciprocal-relationships-open` (evidence-backed limitation): Reciprocal Atago and Choukai perspectives are OPEN \(OPEN-6\), and the Choukai dynamic rests on a smaller sample rated Medium.
+  - `skin-and-crossover-weighting` (evidence-backed limitation): Skin material may not outvote sustained narrative, and crossover scenes are E5 evidence used only where they agree with E1-E3; neither is baseline chronology.
+  - `specialists-reported-not-inspected` (evidence gap): The JP voice-performance profile, its impact ledger, the promotion audit and the extracted corpora are not curated on this subject; their findings are used only as the monograph reports them.
+- Evidence at basis commit:
+  - [`azur-lane:takao@mobile-game#azur-lane-takao-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/bd3cf48ffe9720fd54551166a5321439c937e62b/series/azur-lane/03%20Character%20Reconstruction/TAKAO_30311/AZUR_LANE_TAKAO_CHARACTER_MONOGRAPH.md)

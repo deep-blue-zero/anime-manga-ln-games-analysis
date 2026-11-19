@@ -3,7 +3,7 @@ title: "A Certain Scientific Railgun — Governing manga method"
 artifact_id: RG_MANGA_METHOD
 artifact_type: project_manga_analytical_method
 series: a-certain-scientific-railgun
-version: "1.2"
+version: "1.3"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 authority_scope: initial_project_design_only
@@ -61,7 +61,7 @@ Use `PRESERVE/STRENGTHEN/REVISE/DOWNGRADE/REJECT/OPEN`. Keep prior formulation, 
 
 Each future reading delivers exact coverage/witness receipt; entering state/exposure; full factual causal reconstruction; sustained interpretation with visual/Japanese evidence; named character, directional relationship and knowledge changes; ordinary-life cases and the other [monograph-supporting captures](#monograph-supporting-capture); counterreadings; claims and exit state; and a transaction listing every required cumulative/source update or explicit reviewed/no-supported-change outcome. No fixed length cap governs the argument. Locator tables, checkpoint synopses and output receipts do not replace the full reading.
 
-Reinspect load-bearing pages and verify page completeness, semantic attribution and any OCR ambiguity before acceptance. Missing or unread pages block affected completion claims. A chapter can be provisionally interpreted while a specific gap is repaired, but its unresolved influence remains visible to downstream work. Full-volume reconciliation checks that all chapters, transitions, extras and silent pages received explicit coverage decisions; a highest-number frontier cannot conceal holes.
+Apply the [standing source-reading team](RG_SYNTHESIS_ARCHITECTURE.md#team-for-a-source-reading) to each new substantive reading and close the contribution receipt with its cumulative updates. Reinspect load-bearing pages and verify page completeness, semantic attribution and any OCR ambiguity before acceptance. Missing or unread pages block affected completion claims. A chapter can be provisionally interpreted while a specific gap is repaired, but its unresolved influence remains visible to downstream work. Full-volume reconciliation checks that all chapters, transitions, extras and silent pages received explicit coverage decisions; a highest-number frontier cannot conceal holes.
 
 Apply handoff §15.6 before semantic acceptance: sample opening, substantial middle and concluding/exit passages, extending to major relations, for stable known names, clear pronouns, purposeful role labels and correct speaker/thinker/recipient attribution while preserving concealment and knowledge boundaries. Record scope and classify supported findings as justified role reference, source-required anonymity, knowledge-boundary-required, unnecessary genericization, ambiguous referent or incorrect identity/attribution. Never certify semantics through counts or automatic substitution.
 
@@ -102,3 +102,5 @@ Future readings preserve the observations that a later self-contained character 
 Expression, gesture, posture and staging are recorded as drawn, never as inferred animation or voice. Identity stays work-local: a counterpart figure in another A Certain work is a source-map question, not a merged character. An isolated detail may remain `LOCAL_ONLY` in its reading. Capture creates no monograph, roster or eligibility judgment during sequential work and imposes no fixed per-character template; it ensures the evidence exists when the architecture's character/specialist readiness gate assesses eligibility.
 
 _Prospective amendment — 2026-11-14, method v1.2: implements the initiation policy §5.5.1 capture duty for future readings. No monograph, roster, qualification result, source admission, run authorization or frozen-history change is made here._
+
+_Prospective amendment — 2026-11-17, method v1.3. Routed source-facing acceptance to the standing participant configuration and the existing unit transaction._
