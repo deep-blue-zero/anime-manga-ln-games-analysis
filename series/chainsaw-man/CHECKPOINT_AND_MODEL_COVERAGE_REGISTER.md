@@ -2,7 +2,7 @@
 title: "Chainsaw Man — Checkpoint and Model Coverage Register"
 artifact_id: CM_CHECKPOINT_REGISTER
 artifact_type: checkpoint_model_coverage_register
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: CM-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–24; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 ---
 
 # Checkpoint and model coverage register
@@ -25,7 +25,7 @@ This register separates actual source closure, longitudinal reconciliation, synt
 | Transaction `CM-TX-nnnn` | Actual authorization; unit/witness; entry/exit frontier; full reading; all five register deltas or scoped no-change; coverage/retrieval/modality debt; name/reference sample/findings; reviewer; next authorized operation |
 | Checkpoint `CM-CP-nn` | Authorized tranche; full files/digests/authority; frozen states/claims/forecasts; complete reconciliation; conflicts; role gaps; remaining limits |
 | Dependency `CM-DEP-nnnn` | Upstream witness/evidence/claim/state; downstream study/model/synthesis; trigger; required review/owner; OPEN/RESOLVED_WITH_ROUTE/ACCEPTED_LIMITATION and evidence |
-| Role gap `CM-RG-nnnn` | Analytical responsibility; actual time/context/ordinary/relationship/language/form coverage; missing evidence; effect; targeted return or specialist; justified no-specialist alternative; acceptance criterion |
+| Role gap `CM-RG-nnnn` | Analytical responsibility; actual time/context/ordinary/relationship/language/form coverage; missing evidence; effect; targeted return or specialist; justified no-specialist alternative; acceptance criterion. A character-qualification record also gives stable subject identity; assessment frontier; outcome; source grounds and largest gaps; reassessment trigger; monograph path once a real document exists; separate self-containment and fidelity review references |
 | Model coverage `CM-MC-nnnn` | Source-established subject@witness/frontier/state; twelve architecture dimensions and six scenarios; evidence channels; missing/contrary evidence; exclusions; confidence/evidence-distance/abstention limits; prospective holdout/exposure; independent evaluator disposition |
 | Handoff `CM-HO-nnnn` | Base snapshot; complete inputs/outputs/digests; authority; source/knowledge/admission boundary; owners; full transfer receipt; returned changes/evidence; base-candidate-current drift; acceptance/remaining obligations |
 | Gate `CM-GR-nnnn` | C0–C12; exact input boundary; evidence and reviewer/independence; defects; pass/hold/bounded acceptance; next permitted operation |
@@ -37,6 +37,8 @@ Future model artifacts must contain conditional trigger/stakes/state → respons
 Freeze true held-out predictions before source exposure. Independent evaluators compare outcomes with diagnostic baselines, decoys or controls where appropriate, preserving opportunity denominators and confounds. Exposed work is RETROSPECTIVE_CONSISTENCY_TEST. Synthetic outputs cannot become canonical evidence. Monographs and global readiness registries have distinct owners/responsibilities.
 
 ## Closeout and full-output handoff
+
+`CM-TX` carries the [independent reading receipt](CM_SYNTHESIS_ARCHITECTURE.md#independent-source-reading). Record each person's assignment, independent context, actual exposure, inspected material and precise locators. Preserve the material observations, rival explanations, counterexamples, challenges and remaining debts, with the principal's grounds for adopting, qualifying, rejecting or leaving each finding open. Link the full argument and any affected claim revisions. Record observed settings only when known.
 
 Accept complete readings and synchronized registers atomically. Verify page coverage, retrieval, prospective boundaries, state/relationship specificity, ordinary controls, language/form reasoning and bounded name/reference review. Missing required evidence remains a hold.
 
