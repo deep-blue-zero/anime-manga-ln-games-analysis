@@ -11,7 +11,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-last_amended: 2026-10-28
+last_amended: 2026-11-17
 ---
 
 # One Punch Man — Analytical Method V2
@@ -265,6 +265,8 @@ Every `OPM_VXX_DEEP_READING.md` should normally contain the following.
 - V2 method version;
 - authority state.
 
+For each new substantive volume or web tranche, use the [standing reading team](OPM_SYNTHESIS_ARCHITECTURE_V2.md#standing-reading-team). In the canonical reading’s source block or its linked update manifest, retain participant/context, assignment, inspected Japanese volume/image or provider episode ID, version/date/page, permitted horizon and exposure. Record independent findings, counterexamples, verification gaps and reviewer corrections with locators. The principal records each material disposition and grounds, affected claims, actual coverage and unresolved limits. Confirm semantic retention and cumulative consistency before accepting the unit.
+
 ## 7.2 Volume orientation
 
 A compact statement of what changes in this volume:
@@ -276,6 +278,8 @@ A compact statement of what changes in this volume:
 - ending state.
 
 Avoid long plot-summary retelling unless chronology itself is analytically important.
+
+For newly read narrative units, make this orientation a clearly labeled current-unit story synopsis near the front. Explain the opening situation, physical actions and decisions, disclosures and ending in accessible prose. Cite decisive event locators, distinguish attributed reports from witnessed events, and finalize it after the prospective captures freeze. Keep its unit-end information from earlier-horizon assignments.
 
 ## 7.3 Central volume thesis and strongest counter-reading
 
@@ -604,6 +608,8 @@ A tranche should normally close when:
 - enough material accumulates to justify synthesis;
 - a new tankobon boundary is announced or released.
 
+A substantive web note or range reading uses the same participating roles, reconciliation receipt and plot-bearing synopsis as §7.1–7.2. Use provider-specific source locators for each contribution.
+
 ## 10.3 Authority marking
 
 All uncollected conclusions must be labeled `active_provisional` and evidence code `PR` where relevant.
@@ -665,6 +671,8 @@ A specialist document is justified when a subject:
 - supports later cumulative synthesis;
 - has a distinct analytical responsibility;
 - is likely to require continuing revision.
+
+For individual literary portraits, the [architecture’s qualification route](OPM_SYNTHESIS_ARCHITECTURE_V2.md#literary-portrait-qualification) applies even where evidence is concentrated in one sequence. The multi-volume and retrieval considerations above guide other specialist studies.
 
 When a specialist document exists, later insights should update that canonical topical home rather than generate `UPDATED`, `FINAL`, `NEW THOUGHTS`, or other near-duplicate files.
 

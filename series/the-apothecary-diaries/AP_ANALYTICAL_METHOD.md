@@ -2,7 +2,7 @@
 title: "The Apothecary Diaries — Analytical Method"
 artifact_id: AP_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: AP-INITIAL
 authority_scope: "INITIAL bootstrap method, architecture, and administrative metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese volumes 01–16 and separate simplified Chinese volume 15; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -113,6 +113,7 @@ The minimum completed future reading contains the following developed responsibi
 | Subject and relationship development | Named evidence, ordinary-life controls, directed states, motive alternatives and change causes |
 | Language and form | Consequential Japanese phrasing, voice/register, ordering, motifs and counterexamples |
 | Specialist and modality debts | Earned domains, institutional claims, images and paratext; inspected versus unresolved clearly separated |
+| Independent participation | Link the source-grounded specialist contribution and independent challenge to their resolution in the full reading and its `AP-TX` receipt under architecture section 5.1. |
 | Revision and integration | Claims preserved/strengthened/revised/downgraded/rejected/opened; linked evidence, ledger deltas and affected destinations |
 | Exit freeze | Accepted source frontier, unresolved questions, preserved prospective forecasts and exact next authorized operation or none |
 

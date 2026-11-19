@@ -2,7 +2,7 @@
 title: "The Apothecary Diaries — Current State and Corpus Map"
 artifact_id: AP_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: AP-INITIAL
 authority_scope: "INITIAL bootstrap method, architecture, and administrative metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese volumes 01–16 and separate simplified Chinese volume 15; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
@@ -71,6 +71,8 @@ The architecture is INITIAL and current for bootstrap rules. Independent semanti
 Before a future run, bind every selected witness to immutable bytes and a public-safe local witness key; inspect container/spine and language; verify the intended numbered order and exact selected units; settle access and illustration capability; and record a bounded owner-authorized run under the [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md). Do not substitute Chinese V15 for Japanese V15, assume translation equivalence, or silently include a later acquisition.
 
 Open source obligations are AP-SG-001 through AP-SG-005 in the source map. Narrative state and reconstruction coverage remain **NOT_ASSESSED**. A missing source, uncertain narrator, absent opportunity, and actual counterevidence are different conditions.
+
+For a future authorized Japanese volume, [architecture section 5.1](AP_SYNTHESIS_ARCHITECTURE.md#51-independent-reading-of-a-japanese-volume) assigns the principal, causal and linguistic source examination, independent critical review and their reconciliation in the unit transaction.
 
 ## Execution and durable resumption
 

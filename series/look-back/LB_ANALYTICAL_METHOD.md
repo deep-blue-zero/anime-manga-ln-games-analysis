@@ -4,7 +4,7 @@ series: look-back
 artifact_id: LB_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: LB-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL standalone manga method only"
 source_boundary: "One Japanese standalone manga EPUB, metadata verified; narrative admission and inspection NONE"
@@ -66,6 +66,8 @@ Keep image-review states in the evidence plane: REVIEWED_MATERIAL, NO_MATERIAL_A
 Material revisions use PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT or OPEN. Keep original formulations and prospective freezes. A reread after complete exposure is retrospective; do not call it a first-pass prediction.
 
 ## Complete future reading and acceptance
+
+Apply the [standing source-reading configuration](LB_SYNTHESIS_ARCHITECTURE.md#independent-reading-within-scene-frontiers) at this unit’s authorized frontier. Its transaction records the independent findings and the principal’s adjudication alongside coverage, claim revisions and remaining evidence gaps.
 
 A single future `readings/LB_WORK_DEEP_READING.md` carries `artifact_type: deep_reading` and covers witness/admission/inspection, prior exposure, entering state, governing and competing theses, substantial movement-by-movement causal prose, person/directed relationship states, ordinary contexts, Japanese expression, page form, recurrence, counterreadings, revisions and exit uncertainty.
 

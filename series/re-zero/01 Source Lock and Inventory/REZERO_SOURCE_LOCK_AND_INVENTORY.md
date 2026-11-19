@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.59
+generation: V0.63
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 
 V25 remains the last integrated numbered source through PR #498, with 777 narrative claims. E046 survives displacement and ends on an unnamed plain with awake Rem and physical Louis. The working derivation retains 45 Subaru deaths and 46 reached segments. SOURCE_COUNT_TENSION remains open for the seventeenth reunion, fifteen additional deaths, twenty-two post-loss deaths and total forty.
 
-Subaru’s V01–V25 full publication and integration gate is CLOSED. CI integrated 4d38b35183959bdcc5cf312d27b47f1565aa4562 at bbaa97ab25f876643cd1afc1f24ccab3d375f460. Exact main 3b79017dae5f077f802db05b3f406d00ba838c25 retained Re:Zero tree 83df9960cff2fca2f760c662e8513166cd7ee73d. [PR #622](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/622) Arc 6 was previously integrated through PR #501.
+Louis Arneb’s V19–V25 full publication and integration gate is CLOSED. CI integrated ef8bb12978d2b9b579d3ccab00b1a58438d7d979 through [PR #675](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/675) at e6f79b7ae8e86c2b0c04ebda19f756486a13e87e. Shaula’s analytical entry is that verified main with the 123-file Re:Zero tree c275de6f3251916e2167508ebdea70b22553c772. Arc 6, Subaru, Ram, Julius and human Anastasia were integrated through PRs #501, #622, #625, #629 and #673.
 
-V25 is the last fully consumed original. The Ram operation reopens selected already admitted passages. Its direct Japanese coverage, illustrated position and independent participation are recorded in the [Ram review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V25_FIDELITY_REVIEW.md). V01–V43 admission, the V41 exception and the V44/V45 acquisition boundary remain governed here.
+V25 is the last fully consumed original. The Shaula successor uses targeted rereading of the previously consumed numbered Japanese V21–V25 EPUBs. The [Shaula fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V25_FIDELITY_REVIEW.md) records actual inspection, independent participation and the scope of the documentary assessment. V01–V43 admission, the V41 exception and V44/V45 acquisition status retain their existing source lock. V26 remains unopened.
 
 The eight whole V19–V26 prospective bodies retain their literal form. V26 remains unopened with 60 questions and 10 forecasts sealed at 2026-11-07T14:56:58.822051Z. Its 24,594 UTF-8 bytes have SHA-256 93182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
 
@@ -1361,4 +1361,60 @@ Arc 6 full publication and integration is CLOSED. CI merged the exact final sour
 
 ``````````markdown
 V25 is the last fully consumed original. The latest derived operation uses targeted original reinspection and independently checked Japanese passages through V25. See actual coverage in the [Subaru review](../08%20Audits%20and%20Manifests/REZERO_NATSUKI_SUBARU_V01_V25_FIDELITY_REVIEW.md). Japanese V01–V43 admission, the bounded V41 exception and dated V44/V45 acquisition gaps retain their source-inventory routes.
+``````````
+
+### Julius V01–V25 transaction — exact entering fragments
+
+#### Entering fragment 1
+
+``````````markdown
+Subaru’s V01–V25 full publication and integration gate is CLOSED. CI integrated 4d38b35183959bdcc5cf312d27b47f1565aa4562 at bbaa97ab25f876643cd1afc1f24ccab3d375f460. Exact main 3b79017dae5f077f802db05b3f406d00ba838c25 retained Re:Zero tree 83df9960cff2fca2f760c662e8513166cd7ee73d. [PR #622](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/622) Arc 6 was previously integrated through PR #501.
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+V25 is the last fully consumed original. The Ram operation reopens selected already admitted passages. Its direct Japanese coverage, illustrated position and independent participation are recorded in the [Ram review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V25_FIDELITY_REVIEW.md). V01–V43 admission, the V41 exception and the V44/V45 acquisition boundary remain governed here.
+``````````
+
+### Human Anastasia V01–V25 transaction — exact entering fragments
+
+#### Entering fragment 1
+
+``````````markdown
+Ram’s V01–V25 full publication and integration gate is CLOSED. CI integrated d189f25ab82040a457e3804f5cd067194277fe3d through [PR #625](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/625) at 294f302fbd65d331fdae6d672cdda1e29623a886. Verified main 294f302fbd65d331fdae6d672cdda1e29623a886 retained Re:Zero tree 0cf9597b896ba5a277aada254501efa1b847a805. Subaru and Arc 6 were integrated through PRs #622 and #501.
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+V25 is the last fully consumed original. The Julius operation reopens targeted passages in the admitted Japanese main novels. Its actual text and image inspection and independent participation are reported in the [Julius fidelity review](../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V25_FIDELITY_REVIEW.md). V01–V43 admission, the V41 exception and V44/V45 acquisition status remain governed here.
+``````````
+
+### Louis Arneb V19–V25 transaction — exact entering fragments
+
+#### Entering fragment 1
+
+``````````markdown
+Julius’s V01–V25 full publication and integration gate is CLOSED. CI integrated e6ecb65c6da49fb381862d20c7691008681a78ed through [PR #629](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/629) at 10cbf06825d4e93c3d8c79490ab7929f6f8ba532. Verified main 10cbf06825d4e93c3d8c79490ab7929f6f8ba532 retained Re:Zero tree 1a46ad639becd2b2a448477187eea595004d1b4f. Arc 6, Subaru and Ram were integrated through PRs #501, #622 and #625.
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+V25 is the last fully consumed original. The human Anastasia operation reopens targeted passages in the admitted Japanese main novels. The [human Anastasia fidelity review](../08%20Audits%20and%20Manifests/REZERO_ANASTASIA_HOSHIN_V01_V25_FIDELITY_REVIEW.md) is the route for the actual inspection, independent participation and limits of the local assessment. V01–V43 admission, the V41 exception and V44/V45 acquisition status remain governed here.
+``````````
+
+### Shaula V21–V25 transaction — exact entering fragments
+
+#### Entering fragment 1
+
+``````````markdown
+Human Anastasia’s V01–V25 full publication and integration gate is CLOSED. CI integrated 20ab1e60089c75f46c778f23e265a32585cf163c through [PR #673](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/673) at 3fe7c1f414e92b3555444bd1342cc3bb13fe0b26. The gate verified main 3fe7c1f414e92b3555444bd1342cc3bb13fe0b26 with Re:Zero tree 310f361c98f90e68ee43fbbe376386f09a67bdde. Louis’s analytical entry 2737dd7629ad709ad10b117715984f84b2cc0aa7 retains that tree. Arc 6, Subaru, Ram and Julius were integrated through PRs #501, #622, #625 and #629.
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+V25 is the last fully consumed original. The Louis reconstruction uses targeted rereading of the admitted numbered Japanese V19–V25 EPUBs. The [Louis Arneb fidelity review](../08%20Audits%20and%20Manifests/REZERO_LOUIS_ARNEB_V19_V25_FIDELITY_REVIEW.md) records the actual inspection, independent participation and limits of the local assessment. V01–V43 admission, the V41 exception and the V44/V45 acquisition status retain their existing source lock. V26 remains unopened.
 ``````````
