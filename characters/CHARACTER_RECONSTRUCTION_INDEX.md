@@ -15,13 +15,13 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 177; `STALE` 2; `SUPERSEDED` 35
+- Recorded totals: `CANDIDATE` 179; `STALE` 2; `SUPERSEDED` 35
 
 ## Namespaces
 
 | Namespace | Subjects | Assessments |
 | --- | ---: | ---: |
-| [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 15 | 15 |
+| [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 16 | 16 |
 | [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
 | [`azur-lane`](reconstruction_index/azur-lane.md) | 5 | 5 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
@@ -43,7 +43,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 42 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 2 | 2 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
-| [`project-sekai`](reconstruction_index/project-sekai.md) | 3 | 4 |
+| [`project-sekai`](reconstruction_index/project-sekai.md) | 4 | 5 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 21 | 24 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 6 | 6 |
@@ -65,6 +65,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `86-eighty-six:annette-penrose@original-light-novels` | [`86-eighty-six-annette-penrose-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-annette-penrose-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `95f33c918143000bba547f96289e4ad9d164e60b` |
 | `86-eighty-six:ernst-zimmerman@original-light-novels` | [`86-eighty-six-ernst-zimmerman-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-ernst-zimmerman-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `95f33c918143000bba547f96289e4ad9d164e60b` |
 | `86-eighty-six:erwin-marcel@original-light-novels` | [`86-eighty-six-erwin-marcel-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-erwin-marcel-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `3fe7c1f414e92b3555444bd1342cc3bb13fe0b26` |
+| `86-eighty-six:fido@original-light-novels` | [`86-eighty-six-fido-ln-cmr-profile-20261119-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-fido-ln-cmr-profile-20261119-01) | `CANDIDATE` | `B` | `d970f85e940160938343d27cdcbc2826d1199885` |
 | `86-eighty-six:frederica-rosenfort@original-light-novels` | [`86-eighty-six-frederica-rosenfort-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-frederica-rosenfort-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `b9ff988fda60b9d9ceb6b96dcc403ce6e96fcc41` |
 | `86-eighty-six:grethe-wenzel@original-light-novels` | [`86-eighty-six-grethe-wenzel-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-grethe-wenzel-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `b9ff988fda60b9d9ceb6b96dcc403ce6e96fcc41` |
 | `86-eighty-six:kurena-kukumila@original-light-novels` | [`86-eighty-six-kurena-kukumila-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-kurena-kukumila-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
@@ -187,6 +188,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `peach-girl:okayasu-kairi@manga` | [`peach-girl-okayasu-kairi-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-okayasu-kairi-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `peach-girl:okayasu-ryo@manga` | [`peach-girl-okayasu-ryo-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-okayasu-ryo-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `peach-girl:tojigamori-kazuya@manga` | [`peach-girl-tojigamori-kazuya-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-tojigamori-kazuya-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
+| `project-sekai:emu@game` | [`project-sekai-emu-game-generation-2-package-20261119-01`](reconstruction_index/project-sekai.md#project-sekai-emu-game-generation-2-package-20261119-01) | `CANDIDATE` | `B` | `d970f85e940160938343d27cdcbc2826d1199885` |
 | `project-sekai:nene@game` | [`project-sekai-nene-game-generation-2-package-20261116-01`](reconstruction_index/project-sekai.md#project-sekai-nene-game-generation-2-package-20261116-01) | `CANDIDATE` | `B` | `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27` |
 | `project-sekai:rui@game` | [`project-sekai-rui-game-generation-2-package-20261116-01`](reconstruction_index/project-sekai.md#project-sekai-rui-game-generation-2-package-20261116-01) | `CANDIDATE` | `B` | `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27` |
 | `project-sekai:tsukasa@game` | [`project-sekai-tsukasa-game-generation-2-package-20261116-02`](reconstruction_index/project-sekai.md#project-sekai-tsukasa-game-generation-2-package-20261116-02) | `CANDIDATE` | `B` | `58340ff57a3ae0e5f7b3d97996ba9ad47cc24d4a` |

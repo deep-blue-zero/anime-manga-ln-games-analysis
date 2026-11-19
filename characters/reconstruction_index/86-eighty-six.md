@@ -206,6 +206,57 @@ Recorded assessments of subjects in the `86-eighty-six` namespace of the [Charac
 - Evidence at basis commit:
   - [`86-eighty-six:erwin-marcel@original-light-novels#86-marcel-character-reference-profile`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/3fe7c1f414e92b3555444bd1342cc3bb13fe0b26/series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_MARCEL_CHARACTER_REFERENCE_PROFILE.md)
 
+### Subject `86-eighty-six:fido@original-light-novels`
+
+- Registry file: [`characters/reconstruction_capabilities/86-eighty-six/fido@original-light-novels.jsonl`](../reconstruction_capabilities/86-eighty-six/fido@original-light-novels.jsonl)
+
+<a id="86-eighty-six-fido-ln-cmr-profile-20261119-01"></a>
+
+#### Assessment `86-eighty-six-fido-ln-cmr-profile-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `86-eighty-six:fido`
+- Scope: continuity `86-eighty-six-original-light-novels`
+- Source boundary: Only 86-eighty-six:fido@original-light-novels\#86-fido-character-reference-profile, the canonical CMR-6 Fido character reference profile \(version 1.2, release 86-V2-V01-V14-1.0\) at basis\_commit, read in full as reviewed repository analysis of the locked original-Japanese light novels V01-V14, with V10's first-person Fido chapter as the direct interior source and twelve audited Alter.1 ordinary-life controls; Alter.2 is excluded. The profile's Appendix A prints all 293 diagnostic rows \(86-CMR-FID-001 to 293\) with an exact route and Japanese anchor; 12 carry a frozen Phase-5 locator and 281 are LOCATOR\_GAP rows. The governing method, CMR-9 audit and ledger, ledgers L01, L02 and L09, Documents 08, 09 and 12, other characters' profiles, the Phase-5 and Phase-8 artifacts and the Japanese EPUBs are not curated evidence on this subject, and nothing is borrowed from them. The profile's CMR-9 verdict and its High, Moderate and Open labels are inputs, not conclusions. No anime adaptation, V15 onward or Alter.2 scene is included, and the evaluator inspected no primary source.
+- Temporal boundary: Fido from his prewar origin as Prototype 008 in the Nouzen household, as V10 recounts it, through V14, with audited Alter.1 ordinary life unplaced in the volume chronology. States split at the located knowledge change: before the Federacy reactivation he believes the adolescent Shin a substitute for the child; at reactivation he hears 'シンエイ' and recognizes them as the same person \(V10 p-030 ¶250-255, FID-234 to FID-237\), then asks to serve again. V10 discloses to the reader an interior that predates the series; it does not mark a personality change. The boundary limits evidence, not knowledge: his origin, the naming and the family's removal belong to him at every later state, while earlier focalizers do not share V10's disclosures.
+- Basis commit: `d970f85e940160938343d27cdcbc2826d1199885`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `3efc210966a26ce1c5d6a25091fb040051fa71521807d3313931a7f002bc6c19`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Interior first-person narration only, in written Japanese, illustrative and never presented as quotation: わたくし with humble and service morphology and the located per-person address terms, chosen by state \(ノウゼン様 before recognition, わたくしの最初で最後の主 after it\).
+  - `DIALOGUE` condition: External interaction is rendered as beeps, sensor blinking, posture, crane-arm gesture and action, never as spoken sentences or a translated beep lexicon, unless a new communication technology is explicitly introduced.
+  - `DIALOGUE` condition: Human interpretations of his signals are labelled as interpretations; Shin's understanding is dyadic, not a general decoder.
+  - `DIALOGUE` condition: Strong emotion shortens and repeats formal units; it does not turn colloquial.
+  - `CROSS_SCENARIO` condition: Apply the priority order: nonharm to humans is absolute; protecting particular humans outranks assigned functions, which outrank local orders.
+  - `CROSS_SCENARIO` condition: Fix his body: heavy and relatively slow, manipulators and containers, no speech output, no fire control.
+  - `CROSS_SCENARIO` condition: Exclude copy or backup identity, memory ownership or consent, legal standing, revision of the directive and a postwar vocation.
+  - `CROSS_SCENARIO` condition: Transfer to an unsampled relationship is a separate, lower-confidence condition; generalized care for unfamiliar humans is moderate confidence.
+  - `CROSS_SCENARIO` bounds: chronology A located state: the search years; Spearhead and Special Recon service while he believes the adolescent Shin a substitute; after the Federacy rebuilding and the recognition at reactivation \(FID-234 to FID-249\); or V11-V14 ordinary membership. No V15 onward, Alter.2 or postwar state.; interlocutor Shin \(primary\), Raiden, Theo, Kurena and Anju at the depth the profile gives, Frederica, base personnel; Lena, Rito and Marcel at lower depth; unfamiliar humans and animals under the moderate rule; Legion as the hostile classification.; settings Military support, camp, leisure, memorial or rescue situations matched to the located cases.; No new communication technology, combat vocation or armed conversion.; No copy or backup, memory-consent, civic-standing or directive-revision scenario.
+  - `MUNDANE_SOCIAL` condition: Settings sampled: group leisure and games, camp logistics, quiet co-presence with Shin, group rest against his body, gift-bringing.
+  - `MUNDANE_SOCIAL` condition: Participation depends on bodily feasibility; failure brings visible dejection and continued presence, not withdrawal.
+  - `MUNDANE_SOCIAL` condition: Render his part through action and signals, not speech.
+  - `ETHICAL_DELIBERATION` condition: Matched dilemmas only: human nonharm against an instruction, protection against self-preservation, local orders against remaining with or helping people he values, classification of a hostile machine.
+  - `ETHICAL_DELIBERATION` condition: Keep the nonharm and friendship directive absolute; do not stage its rejection as liberation.
+  - `ETHICAL_DELIBERATION` condition: No artificial-peer ethics beyond the Legion case, memory or copy consent, or civic-rights reasoning.
+  - `PROFESSIONAL_CONTEXT` condition: Scavenger support and recovery work: resupply under fire, salvage, towing, transport, memento recovery, camp logistics and rescue.
+  - `PROFESSIONAL_CONTEXT` condition: Respect the mechanical limits: no fire control, weight, terrain and manipulator limits.
+  - `PROFESSIONAL_CONTEXT` condition: Not supported: a combat vocation, command, rank, pay or institutional rights.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` B; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` B; `HUMOR_PLAY` B; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `derived-profile-locators` (evidence-backed limitation): The only curated item is a derived profile subordinate to narrower authorities; 281 of its 293 controls are LOCATOR\_GAP rows with exact routes but no frozen locator.
+  - `directive-absolute` (evidence-backed limitation): The creator's 'good friend to humans' wish and the human-nonharm rule are his 存在理由 and 絶対; the corpus never shows him rejecting them.
+  - `glosses-interpretive` (evidence-backed limitation): Human readings of his movements \(worried, sulking, proud\) are focalizers' interpretations; V10 establishes that he has emotions, not that each gloss is exact.
+  - `interior-single-chapter` (evidence-backed limitation): Direct interior access comes from the V10 first-person chapter; other volumes give behavior and human interpretation only.
+  - `legion-classification-local` (evidence-backed limitation): His classification of the Legion as outside the friendship rule is not a general theory of artificial persons.
+  - `no-combat-vocation` (evidence-backed limitation): His violent acts are rescue interventions; he lacks fire control and a heavy gun would destabilize him.
+  - `no-romance-evidence` (evidence gap): The curated profile does not address romance.
+  - `no-speech-output` (evidence-backed limitation): He has no ordinary speech output; external communication is beeps, sensors, posture, gesture and action, with no general lexicon.
+  - `posthuman-questions-open` (evidence gap): Copy or backup identity, memory ownership and consent, civic standing, revision of the directive and a postwar vocation are open.
+  - `thin-relations` (evidence gap): Lena, Maika and Rei, and Theo, Kurena and Anju beyond the farewell are less specified than his Spearhead and Shin relations.
+- Evidence at basis commit:
+  - [`86-eighty-six:fido@original-light-novels#86-fido-character-reference-profile`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_FIDO_CHARACTER_REFERENCE_PROFILE.md)
+
 ### Subject `86-eighty-six:frederica-rosenfort@original-light-novels`
 
 - Registry file: [`characters/reconstruction_capabilities/86-eighty-six/frederica-rosenfort@original-light-novels.jsonl`](../reconstruction_capabilities/86-eighty-six/frederica-rosenfort@original-light-novels.jsonl)
