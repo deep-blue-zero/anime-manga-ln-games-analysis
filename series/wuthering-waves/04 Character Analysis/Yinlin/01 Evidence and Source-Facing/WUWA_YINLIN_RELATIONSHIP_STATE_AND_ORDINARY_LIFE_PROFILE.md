@@ -5,19 +5,19 @@ artifact_type: relationship_state_ordinary_life_profile
 analytical_responsibility: "Recipient-specific knowledge, cover/reveal state, everyday practices, and bounded intimacy affordances"
 scope: YINLIN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: YINLIN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation_frozen: true
 source_freeze_metadata: conflicting_collection_and_embedded_lock_fields
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Yinlin — relationships, states, and ordinary life
 
-This noncurrent specialist profile is subordinate to the [source audit](../04%20Validation%20and%20Readiness/WUWA_YINLIN_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md) and [claim matrix](WUWA_YINLIN_EVIDENCE_AND_FALSIFICATION_MATRIX.md). Its purpose is to keep a future model from collapsing an undercover performance, an unguarded conversation, an optional festival encounter, and a dream into one timeless speaking situation. R/A/T addresses in the matrix point into the pinned Chinese-primary normalized source; EN/JA/KO are witnesses, not interchangeable authorities.
+This `active_provisional` specialist profile is subordinate to the [source audit](../04%20Validation%20and%20Readiness/WUWA_YINLIN_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md) and [claim matrix](WUWA_YINLIN_EVIDENCE_AND_FALSIFICATION_MATRIX.md). Its purpose is to keep a future model from collapsing an undercover performance, an unguarded conversation, an optional festival encounter, and a dream into one timeless speaking situation. R/A/T addresses in the matrix point into the pinned Chinese-primary normalized source; EN/JA/KO are witnesses, not interchangeable authorities.
 
 ## State before trait
 

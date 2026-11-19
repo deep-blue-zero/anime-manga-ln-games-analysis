@@ -1,0 +1,267 @@
+{
+  "schema": "wuwa/ch2-current-source-validation-receipt/v2",
+  "baseline_branch_head_before_regeneration": "200a654d1a7427906234d977ce55f6eabc972c2e",
+  "validation_date_utc": "2026-11-19",
+  "scope": "In-place source-crosschecked regeneration of VALIDATION_REPORT.json across all twelve validator-bearing Wuthering Waves character packets (two canonical Chapter II main-arc packets, six active_provisional partial-AV Chapter II packets, and four newly promoted active_provisional pre-AV text/machine-audio packets), paired with primary-source and restricted CKPT-014-FOUR-DUB-CALIBRATED dataset SHA-256 verification.",
+  "semantic_source": {
+    "commit": "353f2eaed119bc9f680eab92807d20ac75a79b40",
+    "tree": "71106202b5c2113b491878351f284f33aac7a742",
+    "scoped_worktree_status": "clean",
+    "byte_comparison": "Consumed raw JSON files under _sources/Arikatsu_WutheringWaves_Data match their pinned Git blobs after CRLF-to-LF normalization; all twelve ANALYSIS/Characters/<Character>/COLLECTION_AUDIT.json manifests report valid=true."
+  },
+  "restricted_av_dataset_verification": {
+    "run_id": "WUWA_RINASCITA_CH2_SHARED_AV_V01",
+    "checkpoint_id": "CKPT-014-FOUR-DUB-CALIBRATED",
+    "manifest_path": "series/wuthering-waves/08 Audits and Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_MANIFEST.json",
+    "restricted_files_verified_byte_and_sha256": 14,
+    "crosswalk_rows_verified": 483,
+    "four_dub_moments_verified": 107,
+    "four_dub_renders_verified": 428
+  },
+  "in_place_reports_regenerated": true,
+  "historical_draft_hashes_recorded_in_receipt": true,
+  "full_report_serialization": "json.dumps(report, indent=2, ensure_ascii=False) + final LF, UTF-8; written in place via reproduce_validation.py --source-root <authorized extraction workspace> --write-report",
+  "check_comparison": {
+    "packets_validated": 12,
+    "historical_total": 3126,
+    "current_total": 3160,
+    "net_added": 34,
+    "authority_change": "Augusta and Iuno check canonical frontmatter and model authority; Brant, Cantarella, Changli, Jinhsi, Luuk Herssen, Phoebe, Qiuyuan, Shorekeeper, Yinlin, and Zani check active_provisional frontmatter and model authority. All twelve validators include their root WUWA_<CHAR>_CURRENT_STATE.md routers. Zero non-authority historical check labels were removed.",
+    "new_router_checks": {
+      "Augusta": 3,
+      "Brant": 3,
+      "Cantarella": 3,
+      "Changli": 3,
+      "Iuno": 3,
+      "Jinhsi": 3,
+      "Luuk Herssen": 3,
+      "Phoebe": 3,
+      "Qiuyuan": 2,
+      "Shorekeeper": 3,
+      "Yinlin": 2,
+      "Zani": 3
+    }
+  },
+  "packets": [
+    {
+      "packet": "Augusta",
+      "tier": "canonical",
+      "validator_path": "series/wuthering-waves/04 Character Analysis/Augusta/04 Validation and Readiness/reproduce_validation.py",
+      "validator_sha256": "4aec8ea95e9249a55d569b4279d52836da746fe5bc7bf1fe868426077afe5e04",
+      "report_path": "series/wuthering-waves/04 Character Analysis/Augusta/04 Validation and Readiness/VALIDATION_REPORT.json",
+      "historical_draft_report_sha256": "ee6ca522104825f17c0058cc5c0f62e539bc46521c0a34174478ded1fb8368d4",
+      "historical_check_count": 329,
+      "result": "pass",
+      "source_crosscheck": "passed",
+      "check_count": 332,
+      "regenerated_report_sha256": "3c1efc762849cce223b5db3dd87005fce4b860be0256d34703099b7ab6b64a0c",
+      "added_non_authority_checks": [
+        "noncurrent flag: WUWA_AUGUSTA_CURRENT_STATE.md",
+        "source pin: WUWA_AUGUSTA_CURRENT_STATE.md"
+      ],
+      "removed_non_authority_checks": []
+    },
+    {
+      "packet": "Brant",
+      "tier": "active_provisional",
+      "validator_path": "series/wuthering-waves/04 Character Analysis/Brant/04 Validation and Readiness/reproduce_validation.py",
+      "validator_sha256": "511375cdcd9017a07c5057a772484c2294c5f007e66c006f637f959cc08c391e",
+      "report_path": "series/wuthering-waves/04 Character Analysis/Brant/04 Validation and Readiness/VALIDATION_REPORT.json",
+      "historical_draft_report_sha256": "2e27c047d7689f29386baa3744adeac9f68412ea191c7e5b33c9140221fe48ce",
+      "historical_check_count": 249,
+      "result": "pass",
+      "source_crosscheck": "passed",
+      "check_count": 252,
+      "regenerated_report_sha256": "e098796729473d8fc452e9db098d90a78860c1c66d7a5b282757fee511c07573",
+      "added_non_authority_checks": [
+        "noncurrent flag: WUWA_BRANT_CURRENT_STATE.md",
+        "source pin: WUWA_BRANT_CURRENT_STATE.md"
+      ],
+      "removed_non_authority_checks": []
+    },
+    {
+      "packet": "Cantarella",
+      "tier": "active_provisional",
+      "validator_path": "series/wuthering-waves/04 Character Analysis/Cantarella/04 Validation and Readiness/reproduce_validation.py",
+      "validator_sha256": "b749069285aea36a6a715422f73d099d7063703efab3345630c45f732e074ebc",
+      "report_path": "series/wuthering-waves/04 Character Analysis/Cantarella/04 Validation and Readiness/VALIDATION_REPORT.json",
+      "historical_draft_report_sha256": "fdafe9918943a9004c10b174f595e395f6c75669c323ca042b695ab7ffcf9125",
+      "historical_check_count": 254,
+      "result": "pass",
+      "source_crosscheck": "passed",
+      "check_count": 257,
+      "regenerated_report_sha256": "60d01218b3826be6929fcde837868f5f6b32b5c3b285e50948009c4b88318773",
+      "added_non_authority_checks": [
+        "noncurrent flag: WUWA_CANTARELLA_CURRENT_STATE.md",
+        "source pin: WUWA_CANTARELLA_CURRENT_STATE.md"
+      ],
+      "removed_non_authority_checks": []
+    },
+    {
+      "packet": "Changli",
+      "tier": "active_provisional",
+      "validator_path": "series/wuthering-waves/04 Character Analysis/Changli/04 Validation and Readiness/reproduce_validation.py",
+      "validator_sha256": "e3b6f9881b875e845717464cec5c44ee95c3a803a451d7fde5b0ecfe26b7f6b9",
+      "report_path": "series/wuthering-waves/04 Character Analysis/Changli/04 Validation and Readiness/VALIDATION_REPORT.json",
+      "historical_draft_report_sha256": "c8e5da2b1b5b4f63384f786d3806ac208b7a764e08726e0e10ba03c3b2b9a12f",
+      "historical_check_count": 227,
+      "result": "pass",
+      "source_crosscheck": "passed",
+      "check_count": 230,
+      "regenerated_report_sha256": "c4a8f62fb5cf6dbfe6208758fd11e3f566c42f89e3794935ad1d686f03256608",
+      "added_non_authority_checks": [
+        "noncurrent flag: WUWA_CHANGLI_CURRENT_STATE.md",
+        "source pin: WUWA_CHANGLI_CURRENT_STATE.md"
+      ],
+      "removed_non_authority_checks": []
+    },
+    {
+      "packet": "Iuno",
+      "tier": "canonical",
+      "validator_path": "series/wuthering-waves/04 Character Analysis/Iuno/04 Validation and Readiness/reproduce_validation.py",
+      "validator_sha256": "594148cb740e989f29dbdea186b6b57a335028465f55c12a63cd698259770a0b",
+      "report_path": "series/wuthering-waves/04 Character Analysis/Iuno/04 Validation and Readiness/VALIDATION_REPORT.json",
+      "historical_draft_report_sha256": "ee7f861aab878792af9aec2d68db953af940d41ed7f91c318460dacd3f7f78ec",
+      "historical_check_count": 609,
+      "result": "pass",
+      "source_crosscheck": "passed",
+      "check_count": 612,
+      "regenerated_report_sha256": "dd2570b19c6f0cc74c1d563dcb396b93f8efea8235b724ef6bb6e476ec71f544",
+      "added_non_authority_checks": [
+        "noncurrent flag: WUWA_IUNO_CURRENT_STATE.md",
+        "source pin: WUWA_IUNO_CURRENT_STATE.md"
+      ],
+      "removed_non_authority_checks": []
+    },
+    {
+      "packet": "Jinhsi",
+      "tier": "active_provisional",
+      "validator_path": "series/wuthering-waves/04 Character Analysis/Jinhsi/04 Validation and Readiness/reproduce_validation.py",
+      "validator_sha256": "789c4f3c89320b6b345e9bc6cff3cfc1bf87b1c32064032b185caf3fc1f5bbec",
+      "report_path": "series/wuthering-waves/04 Character Analysis/Jinhsi/04 Validation and Readiness/VALIDATION_REPORT.json",
+      "historical_draft_report_sha256": "d2837dc3ed284d8a63239e1d0e26f2e45d3426d2172e66c9e96420d998fee97a",
+      "historical_check_count": 226,
+      "result": "pass",
+      "source_crosscheck": "passed",
+      "check_count": 229,
+      "regenerated_report_sha256": "ef362bbd9cfea3430a8d8f018ca3936cfc4c6007fcaa0c53cac47449b0602200",
+      "added_non_authority_checks": [
+        "noncurrent flag: WUWA_JINHSI_CURRENT_STATE.md",
+        "source pin: WUWA_JINHSI_CURRENT_STATE.md"
+      ],
+      "removed_non_authority_checks": []
+    },
+    {
+      "packet": "Luuk Herssen",
+      "tier": "active_provisional",
+      "validator_path": "series/wuthering-waves/04 Character Analysis/Luuk Herssen/04 Validation and Readiness/reproduce_validation.py",
+      "validator_sha256": "b57bdcd2ae721a761ab521e7f9fc72e8bd6dc817ac0b3491c45d6a95144780d4",
+      "report_path": "series/wuthering-waves/04 Character Analysis/Luuk Herssen/04 Validation and Readiness/VALIDATION_REPORT.json",
+      "historical_draft_report_sha256": "7c295a272155b93e8bc46f3501bd52dd22d2485993c2ed0bff004972430d1da4",
+      "historical_check_count": 287,
+      "result": "pass",
+      "source_crosscheck": "passed",
+      "check_count": 290,
+      "regenerated_report_sha256": "96c9810e2f2b5ead7f6f02dbf21653dee042677496f676102c04ce2cd79775c1",
+      "added_non_authority_checks": [
+        "noncurrent flag: WUWA_LUUK_HERSSEN_CURRENT_STATE.md",
+        "source pin: WUWA_LUUK_HERSSEN_CURRENT_STATE.md"
+      ],
+      "removed_non_authority_checks": []
+    },
+    {
+      "packet": "Phoebe",
+      "tier": "active_provisional",
+      "validator_path": "series/wuthering-waves/04 Character Analysis/Phoebe/04 Validation and Readiness/reproduce_validation.py",
+      "validator_sha256": "fb47bc27b4ea01e9d9eb952839b6397ed426f693b968354bfd25f232eef562f5",
+      "report_path": "series/wuthering-waves/04 Character Analysis/Phoebe/04 Validation and Readiness/VALIDATION_REPORT.json",
+      "historical_draft_report_sha256": "7c8be21174da4140212d6d44bbc6d11aea094fb6930486f5d3321e21ac00ae9e",
+      "historical_check_count": 171,
+      "result": "pass",
+      "source_crosscheck": "passed",
+      "check_count": 174,
+      "regenerated_report_sha256": "aa8054492cc8e534354adc136aace56ac9d9890e24818ad0676eaf0ddd32867f",
+      "added_non_authority_checks": [
+        "noncurrent flag: WUWA_PHOEBE_CURRENT_STATE.md",
+        "source pin: WUWA_PHOEBE_CURRENT_STATE.md"
+      ],
+      "removed_non_authority_checks": []
+    },
+    {
+      "packet": "Qiuyuan",
+      "tier": "active_provisional",
+      "validator_path": "series/wuthering-waves/04 Character Analysis/Qiuyuan/04 Validation and Readiness/reproduce_validation.py",
+      "validator_sha256": "b5b2ca05d80f1395327ac4728132863c616a592e55eab27ee08ae724763588fb",
+      "report_path": "series/wuthering-waves/04 Character Analysis/Qiuyuan/04 Validation and Readiness/VALIDATION_REPORT.json",
+      "historical_draft_report_sha256": "09a30da69d10c7a34c33fe7b5d247acb35040964bb0f0eb714e7f76522ae38a9",
+      "historical_check_count": 172,
+      "result": "pass",
+      "source_crosscheck": "passed",
+      "check_count": 174,
+      "regenerated_report_sha256": "e0defdc011f03f14b785c41d11bff37d249afe50a921f6901676f720383b17b5",
+      "added_non_authority_checks": [
+        "not-current flag: WUWA_QIUYUAN_CURRENT_STATE.md"
+      ],
+      "removed_non_authority_checks": []
+    },
+    {
+      "packet": "Shorekeeper",
+      "tier": "active_provisional",
+      "validator_path": "series/wuthering-waves/04 Character Analysis/Shorekeeper/04 Validation and Readiness/reproduce_validation.py",
+      "validator_sha256": "8fbb61015fbff990fefb02eafa188976fae070ec7fd5668bda67616c9b1be9f7",
+      "report_path": "series/wuthering-waves/04 Character Analysis/Shorekeeper/04 Validation and Readiness/VALIDATION_REPORT.json",
+      "historical_draft_report_sha256": "b5ce01375db8670c31cbfdf97cfdb9b3489f347b323c6b906063b913738b59f0",
+      "historical_check_count": 210,
+      "result": "pass",
+      "source_crosscheck": "passed",
+      "check_count": 213,
+      "regenerated_report_sha256": "7c295a3f71c494bcc2d4e3fb7c59b42ea088e9b859c188316909bc1eca6ae13c",
+      "added_non_authority_checks": [
+        "noncurrent flag: WUWA_SHOREKEEPER_CURRENT_STATE.md",
+        "source pin: WUWA_SHOREKEEPER_CURRENT_STATE.md"
+      ],
+      "removed_non_authority_checks": []
+    },
+    {
+      "packet": "Yinlin",
+      "tier": "active_provisional",
+      "validator_path": "series/wuthering-waves/04 Character Analysis/Yinlin/04 Validation and Readiness/reproduce_validation.py",
+      "validator_sha256": "7379ba498021331a95ce8bfd4e9a5c56fd1dada633d86b649dfce3c82b017f90",
+      "report_path": "series/wuthering-waves/04 Character Analysis/Yinlin/04 Validation and Readiness/VALIDATION_REPORT.json",
+      "historical_draft_report_sha256": "03e34c758e4eb8d9ee8cf5875515a525116fa0f5d695e2fff845b647170e4c90",
+      "historical_check_count": 166,
+      "result": "pass",
+      "source_crosscheck": "passed",
+      "check_count": 168,
+      "regenerated_report_sha256": "3e78b9b4f64fb994acf0c1bd118cc83bd253c056b62cf603ce6fb6313203b230",
+      "added_non_authority_checks": [
+        "not-current flag: WUWA_YINLIN_CURRENT_STATE.md"
+      ],
+      "removed_non_authority_checks": []
+    },
+    {
+      "packet": "Zani",
+      "tier": "active_provisional",
+      "validator_path": "series/wuthering-waves/04 Character Analysis/Zani/04 Validation and Readiness/reproduce_validation.py",
+      "validator_sha256": "896351687921fa592589571ecb5a2f9b508df9c138ba7263efa8dba0ba37826e",
+      "report_path": "series/wuthering-waves/04 Character Analysis/Zani/04 Validation and Readiness/VALIDATION_REPORT.json",
+      "historical_draft_report_sha256": "354c18b6e83b8e70210a09de287508caf9bc28180718c925cd57389d035d639f",
+      "historical_check_count": 226,
+      "result": "pass",
+      "source_crosscheck": "passed",
+      "check_count": 229,
+      "regenerated_report_sha256": "679d9cbcc9d902bfaa795cb6482709224cf226ff9232b777da9c782c907e9a3f",
+      "added_non_authority_checks": [
+        "noncurrent flag: WUWA_ZANI_CURRENT_STATE.md",
+        "source pin: WUWA_ZANI_CURRENT_STATE.md"
+      ],
+      "removed_non_authority_checks": []
+    }
+  ],
+  "unchanged_boundaries": [
+    "No unperformed four-dub listening, non-Chapter-II scene observation, or post-3.6 coverage is claimed; open lines, branches, and dispatch gaps remain explicit.",
+    "All 54 V0.2 static visual-profile files retain status: active_provisional and byte-exact SHA-256 bindings.",
+    "Historical bootstrap, import, and Chapter II AV reconciliation manifests remain byte-exact snapshots of their original commits.",
+    "Global character discovery registry curation and reconstruction capability grades remain separate cross-series governance actions."
+  ]
+}

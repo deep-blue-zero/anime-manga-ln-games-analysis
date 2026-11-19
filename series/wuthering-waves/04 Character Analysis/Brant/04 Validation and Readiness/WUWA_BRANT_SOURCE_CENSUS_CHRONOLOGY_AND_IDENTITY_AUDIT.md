@@ -4,8 +4,8 @@ character: Brant
 artifact_type: source_census_chronology_identity_audit
 scope: BRANT_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: BRANT_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,10 +14,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Brant — source census, chronology, and identity audit
+
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `active_provisional` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_BRANT_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 This is a selected-collection audit, not a claim of every route or version. `flow#/N/A/I` expands to the pinned `wuwa://.../BinData/flowState/flowstate.json#/N/Actions!/A/Params/TalkItems/I` locator; `FavorStory_...`, `FavorWord_...` and `FavorRoleInfo_...` are exact local package keys. Chinese is the semantic anchor; EN/JA/KO are witnesses. Official-client FLAC is raw-media evidence, whereas Arikatsu is the current normalized semantic view. Source freeze and authority status are separate.
 
@@ -36,7 +38,7 @@ This is a selected-collection audit, not a claim of every route or version. `flo
 | Unique native PCM/FLAC objects | 2,324 | 550,554,288 FLAC bytes; 2,324/2,324 locally integrity-checked and measured, zero failures. |
 | WavesLine shells | 0 | No Brant message shell was selected; do not infer he cannot communicate by other channels. |
 
-`COLLECTION_AUDIT.json` reports the selected source and voice corpus valid, `source_generation_frozen: true`, and normalized source status `active_provisional`. This interpretive packet is `draft_noncurrent`. The 23 metadata-only selected cases span 92 EN/JA/KO/ZH render records, not all 606 lines; 48 retain paired null event/numeric-media IDs. All five newly selected ascension cases have explicit event and numeric-media IDs in their four renders, but this does not independently establish every bank edge.
+`COLLECTION_AUDIT.json` reports the selected source and voice corpus valid, `source_generation_frozen: true`, and normalized source status `active_provisional`. This interpretive packet holds owner-adopted `active_provisional` authority (`do_not_use_as_current_authority: false`). The 23 metadata-only selected cases span 92 EN/JA/KO/ZH render records, not all 606 lines; 48 retain paired null event/numeric-media IDs. All five newly selected ascension cases have explicit event and numeric-media IDs in their four renders, but this does not independently establish every bank edge.
 
 ## Identity boundary
 

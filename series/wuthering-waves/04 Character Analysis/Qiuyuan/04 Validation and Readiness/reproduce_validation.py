@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the Qiuyuan draft packet and, when supplied, its local evidence joins.
+"""Validate the Qiuyuan current provisional packet and, when supplied, its local evidence joins.
 
 This checks structure and selected identities, not the truth of literary judgments.
 It is read-only unless --write-report is passed. No media or raw text is copied.
@@ -145,10 +145,10 @@ def validate(source_root: Path | None) -> dict:
         if path.name.startswith("CHARACTER_VISUAL_"):
             continue  # Existing independently governed visual artifacts.
         if path.name.startswith("WUWA_QIUYUAN_"):
-            require(body.startswith("---\n") and "\nstatus: draft_noncurrent\n" in body, f"draft authority: {path.name}", checks)
-            require("\ndo_not_use_as_current_authority: true\n" in body, f"not-current flag: {path.name}", checks)
+            require(body.startswith("---\n") and "\nstatus: active_provisional\n" in body, f"current authority: {path.name}", checks)
+            require("\ndo_not_use_as_current_authority: false\n" in body, f"not-current flag: {path.name}", checks)
     model = json.loads((packet_artifact(HERE, "WUWA_QIUYUAN_CHARACTER_MODEL_PACKAGE.json")).read_text(encoding="utf-8"))
-    require(model["authority"] == "draft_noncurrent" and model["source_commit"] == COMMIT, "model authority/source pin", checks)
+    require(model["authority"] == "active_provisional" and model["source_commit"] == COMMIT, "model authority/source pin", checks)
     require(len(model["rules"]) == 16 and {x["id"] for x in model["rules"]}
             == {f"QIU-R{number:02d}" for number in range(1, 17)},
             "16 distinct model rules", checks)

@@ -5,14 +5,14 @@ artifact_type: av_human_retrieval_plan
 analytical_responsibility: "Claim-driven four-dub listening and audiovisual nominations with acquisition status"
 scope: YINLIN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: YINLIN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation_frozen: true
 source_freeze_metadata: conflicting_collection_and_embedded_lock_fields
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Yinlin — claim-driven AV and human retrieval plan

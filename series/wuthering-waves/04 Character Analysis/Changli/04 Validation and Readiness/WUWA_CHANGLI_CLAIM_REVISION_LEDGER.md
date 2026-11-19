@@ -2,11 +2,11 @@
 series: WUWA
 character: Changli
 artifact_type: claim_revision_ledger
-analytical_responsibility: "Record the Weiqi-invitation graph, token apology and localization corrections to the local noncurrent draft"
+analytical_responsibility: "Record the Weiqi-invitation graph, token apology and localization corrections in the Changli packet"
 scope: CHANGLI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: CHANGLI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,12 +15,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Changli — local draft claim-revision ledger
 
-This ledger corrects an **unpublished, noncurrent draft**, not a published or owner-adopted packet. The source generation stays frozen. The [evidence matrix](../01%20Evidence%20and%20Source-Facing/WUWA_CHANGLI_EVIDENCE_AND_FALSIFICATION_MATRIX.md) is the local claim-ID map and the [invitation specialist](../01%20Evidence%20and%20Source-Facing/WUWA_CHANGLI_WEIQI_INVITATION_BRANCH_AND_DISCLOSURE_PROFILE.md) gives the sustained reading. The raw `TalkSequence`/`SequenceTransitions` at `flow#/3296/4` are prior to a projected linear transcript when route claims conflict.
+This ledger records claim-level corrections established during pre-AV packet construction and retained under owner-adopted `active_provisional` authority. The source generation stays frozen. The [evidence matrix](../01%20Evidence%20and%20Source-Facing/WUWA_CHANGLI_EVIDENCE_AND_FALSIFICATION_MATRIX.md) is the local claim-ID map and the [invitation specialist](../01%20Evidence%20and%20Source-Facing/WUWA_CHANGLI_WEIQI_INVITATION_BRANCH_AND_DISCLOSURE_PROFILE.md) gives the sustained reading. The raw `TalkSequence`/`SequenceTransitions` at `flow#/3296/4` are prior to a projected linear transcript when route claims conflict.
 
 | Claim or responsibility | Earlier local-draft tendency | Transition | Corrected or retained position | Exact basis and limit |
 |---|---|---|---|---|

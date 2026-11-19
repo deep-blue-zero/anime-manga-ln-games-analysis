@@ -5,9 +5,9 @@ artifact_type: relationship_and_state_profile
 analytical_responsibility: "Chronological states, knowledge boundaries, and recipient-conditioned relationships"
 scope: CARTETHYIA_SOURCE_3_6_0_PRE_AV_REBUILD
 analysis_generation: CARTETHYIA_PRE_AV_REBUILD_V0_1
-status: active_provisional
-release_state: current_provisional_pre_av
-analysis_authority_state: owner_adopted_current_provisional
+status: canonical
+release_state: owner_adopted_current_canonical
+analysis_authority_state: owner_adopted_current_canonical
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 text_authority: zh-Hans
 localization_witnesses: [ja, ko, en]
@@ -21,7 +21,7 @@ created: 2026-09-05
 authority_adoption: owner_2026_09_09_text_audio_baseline
 ---
 
-> **Current authority — owner adoption, 2026-09-09.** This document is current `active_provisional` authority for its declared analytical or planning scope and inspected text/audio evidence. AV and other stated gaps limit the corresponding claims, not the entire model. Original local-draft and future-publication statements below describe preparation history. Coverage and completion claims remain as recorded; plans and probes are not observations. See the [adoption record](../../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md).
+> **Current authority — owner adoption and canonical promotion (2026-11-19).** This document holds owner-adopted `canonical` authority (`do_not_use_as_current_authority: false`) within Cartethyia's pinned 3.6.0 text, machine-audio, and Chapter II AV/four-dub reconciled boundary; see the [current-state router](../WUWA_CARTETHYIA_CURRENT_STATE.md), [2026-11-19 tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md), and earlier [2026-09-09 baseline adoption](../../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md). Open voice-census (`759/786` solo lines) and non-main-story/optional AV (`6/33` targets) limits continue to bound the corresponding claims; original preparation statements below record construction history.
 
 # Cartethyia: Relationship and State Profile
 
@@ -157,4 +157,4 @@ A later update should distinguish a new encounter, a richer second-party perspec
 
 ---
 
-**Routing and status.** This is owner-adopted current provisional authority within its declared text/audio or planning scope; pending AV limits the relevant claims. [Packet entrypoint](../WUWA_CARTETHYIA_ANALYSIS_PACKET_README.md) records the source boundary. Evidence codes E01-E60 and claim codes C01-C50 resolve in the [evidence matrix](WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md). Row/action locators are literal indices in the pinned scene ledger, not public chapter numbers.
+**Routing and status.** This is owner-adopted current `canonical` authority within its declared 3.6.0 and Chapter II AV-reconciled scope; pending AV limits the relevant claims. [Packet entrypoint](../WUWA_CARTETHYIA_ANALYSIS_PACKET_README.md) records the source boundary. Evidence codes E01-E60 and claim codes C01-C50 resolve in the [evidence matrix](WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md). Row/action locators are literal indices in the pinned scene ledger, not public chapter numbers.

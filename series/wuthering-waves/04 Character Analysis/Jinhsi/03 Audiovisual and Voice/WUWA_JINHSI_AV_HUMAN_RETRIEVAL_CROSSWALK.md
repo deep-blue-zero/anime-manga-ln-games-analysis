@@ -5,8 +5,8 @@ artifact_type: av_human_retrieval_crosswalk
 analytical_responsibility: "Join claim-driven listening and viewing targets to exact pinned semantic occurrences without claiming human AV observation"
 scope: JINHSI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: JINHSI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,7 +15,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Jinhsi — claim-driven human AV retrieval crosswalk
@@ -133,4 +133,4 @@ The most consequential unresolved tests are JIN-R04/R05 (death-risk intent versu
 
 ## Chapter II shared AV scope & cross-regional attestation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** All 35 Jinhsi crosswalk targets (`JIN-AV-*` and `JIN-R01`–`R17`, covering Chapter I Jinzhou / Mt. Firmament Quests `140000004`, `139000031`, `121800001`–`005`, `125900000`, Echo Cube event `7844`/`8329`, and archive `FavorWord` items) are verified **`out_of_recording_scope`** relative to the Chapter II *Rinascita* main-story witness `WUWA_CH2_FAYATO_1080P60_6076F127` (`0` scenes of live Jinhsi dialogue; see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)). Three bounded Chapter II cross-regional attestations are indexed without altering her Chapter I open tests: (1) **Act IV onscreen visual flashback & benchmark naming** (`SEG-005` `SCN-0084`, `flow#/6801 [41]` at `25095.0`–`25096.0 s`), where Rover cites Magistrate Jinhsi's Mt. Firmament trial with Sentinel Jué as the canonical reference for Second Resonance Awakening; (2) **Act XI diplomatic regards** (`SEG-013` `SCN-0322`, `flow#/8882/5` `904_32`), relayed by Mingting emissary Qiuyuan on Three Heroes' Crest; and (3) **Act XI silent golden memory projection** (`SEG-013` `SCN-0332`, `99421`–`99440 s`), standing beside Shorekeeper behind Faz inside Cristoforo's sanctum. Only `CHARACTER_VISUAL_DESIGN_PROFILE.md` is `active_provisional`; this pre-AV packet remains `draft_noncurrent`.
+> **Historical authority at initial Chapter II reconciliation (`draft_noncurrent`; subsequently promoted to `active_provisional` / `do_not_use_as_current_authority: false` on 2026-11-19).** All 35 Jinhsi crosswalk targets (`JIN-AV-*` and `JIN-R01`–`R17`, covering Chapter I Jinzhou / Mt. Firmament Quests `140000004`, `139000031`, `121800001`–`005`, `125900000`, Echo Cube event `7844`/`8329`, and archive `FavorWord` items) are verified **`out_of_recording_scope`** relative to the Chapter II *Rinascita* main-story witness `WUWA_CH2_FAYATO_1080P60_6076F127` (`0` scenes of live Jinhsi dialogue; see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)). Three bounded Chapter II cross-regional attestations are indexed without altering her Chapter I open tests: (1) **Act IV onscreen visual flashback & benchmark naming** (`SEG-005` `SCN-0084`, `flow#/6801 [41]` at `25095.0`–`25096.0 s`), where Rover cites Magistrate Jinhsi's Mt. Firmament trial with Sentinel Jué as the canonical reference for Second Resonance Awakening; (2) **Act XI diplomatic regards** (`SEG-013` `SCN-0322`, `flow#/8882/5` `904_32`), relayed by Mingting emissary Qiuyuan on Three Heroes' Crest; and (3) **Act XI silent golden memory projection** (`SEG-013` `SCN-0332`, `99421`–`99440 s`), standing beside Shorekeeper behind Faz inside Cristoforo's sanctum. Both `CHARACTER_VISUAL_DESIGN_PROFILE.md` and this promoted text/machine-audio packet hold current `active_provisional` authority within their respective bounds.

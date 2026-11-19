@@ -4,8 +4,8 @@ character: Iuno
 artifact_type: source_census_chronology_identity_audit
 scope: IUNO_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: IUNO_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: canonical
+release_state: owner_adopted_current_canonical
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,12 +14,14 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Iuno — source census, chronology and identity
 
-The selected normalized semantic source is Arikatsu commit `353f2eaed119bc9f680eab92807d20ac75a79b40`, generation `arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko`. Chinese is the semantic anchor; EN/JA/KO are official localized witnesses. Official-client WEM/decoded FLAC are a separate raw-media evidence authority for bytes and performance retrieval, not independent proof that the normalized narrative graph is correct. The generation is frozen; this analytical packet remains `draft_noncurrent`.
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `canonical` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_IUNO_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
+
+The selected normalized semantic source is Arikatsu commit `353f2eaed119bc9f680eab92807d20ac75a79b40`, generation `arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko`. Chinese is the semantic anchor; EN/JA/KO are official localized witnesses. Official-client WEM/decoded FLAC are a separate raw-media evidence authority for bytes and performance retrieval, not independent proof that the normalized narrative graph is correct. The source generation is frozen independently of this packet's owner-adopted `canonical` authority.
 
 The local valid collection audit retains **152** relevant full flow-state rows, **2,463** contextual text keys, **46** quest references across **nine** quest IDs and **three** WavesLine **metadata-only shells**. There are 595 direct attribution candidates: 585 accepted solo, five rejected, five unresolved. Of accepted direct occurrences, 460 are source-voiced and 125 source-unvoiced. Five favor stories and 80 archive voice entries are separate archive/profile material. The complete selected voice corpus has 540 semantic voice lines, 2,162 render associations, 2,158 runtime object rows and 2,155 distinct locally validated FLAC/PCM objects (616,110,370 distinct FLAC bytes), all locally measured with zero failures. These are pinned selected-scope denominators, not all-version or every-branch completeness.
 

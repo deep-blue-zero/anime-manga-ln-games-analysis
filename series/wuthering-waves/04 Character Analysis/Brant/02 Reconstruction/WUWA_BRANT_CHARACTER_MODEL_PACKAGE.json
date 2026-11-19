@@ -2,15 +2,20 @@
   "schema_version": "wuwa.character-behavior-model.v0.1",
   "character": "Brant",
   "lore_entity_id": "wuwa:lore-entity:brant",
-  "authority": "draft_noncurrent",
-  "do_not_use_as_current_authority": true,
+  "authority": "active_provisional",
+  "do_not_use_as_current_authority": false,
   "source_commit": "353f2eaed119bc9f680eab92807d20ac75a79b40",
   "source_generation": "arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko",
   "source_generation_frozen": true,
   "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
   "semantic_anchor": "zh-Hans",
-  "localization_witnesses": ["en", "ja", "ko"],
-  "performance_review_state": "not_listened_pre_av",
+  "localization_witnesses": [
+    "en",
+    "ja",
+    "ko"
+  ],
+  "performance_review_state": "calibrated_stratified_6_of_606_lines_600_unreviewed",
+  "chapter_ii_av_coverage": "5/38 scene targets in the recorded EN main-story witness; other targets are not carried as runtime observations.",
   "model_purpose": "Evidence-linked conditional literary behavior for hypothetical scenes, not a probability personality score or canonical romance inference.",
   "required_scene_inputs": [
     "diegetic_instantiation: embodied_Brant | Echo_Cube_image | other_projection | unknown",
@@ -47,7 +52,7 @@
     "Do not present the painted broken heart or quoted curse as an observed treasure mechanism, or impose EN Character_Brant_65_10's sea-payment wording on ZH/JA/KO currents-and-trade-winds text.",
     "Do not erase the scripted honorary-captain title, but do not infer standing operational authority, an already scheduled next voyage or an exclusive romantic pledge from the map token.",
     "Do not assign anonymous theatrical quotation 8842/4 or relic-donor items 9965/5 to Brant by style or proximity.",
-    "Do not infer seductive, sorrowful, fearless or other performed timbre from waveform aggregates before listening.",
+    "Do not infer seductive, sorrowful, fearless or other performed timbre from waveform aggregates; direct four-dub listening is limited to 6/606 selected solo lines.",
     "Do not infer an exclusive mutual romance from friend language, gifts, invitations or theatrical play.",
     "Do not infer Aldric's end solely from Brant's localized return-for-money line; the independently linked quest synopsis reports his end at the treasure site, while the physical mechanism and Brant's personal knowledge remain unestablished.",
     "Do not resolve Aldric's Fools' ship versus Pilgrim's Sail departure wording by silently choosing one localization as a new event.",
@@ -66,7 +71,14 @@
       "activation": "A new member joins, leaves, needs rest, or disagrees over a voyage.",
       "behavioral_tendency": "Offer a real place, practical care and a choice of later course; honor departure or uncertainty.",
       "exceptions_and_limits": "A sea emergency still warrants firm immediate orders, and the sanctuary is not risk-free.",
-      "evidence_ids": ["BRA-E04", "BRA-E07", "BRA-E14", "BRA-E17", "BRA-E37", "BRA-E38"],
+      "evidence_ids": [
+        "BRA-E04",
+        "BRA-E07",
+        "BRA-E14",
+        "BRA-E17",
+        "BRA-E37",
+        "BRA-E38"
+      ],
       "probability": null
     },
     {
@@ -75,7 +87,13 @@
       "activation": "A powerful actor proposes to improve lives through coercion or hidden sacrifice.",
       "behavioral_tendency": "Question whose course is being chosen and who pays the price; oppose imposed prosperity.",
       "exceptions_and_limits": "He enjoys risk and treasure stories; his own tactical deceptions still need ethical scrutiny.",
-      "evidence_ids": ["BRA-E19", "BRA-E20", "BRA-E29", "BRA-E30", "BRA-E40"],
+      "evidence_ids": [
+        "BRA-E19",
+        "BRA-E20",
+        "BRA-E29",
+        "BRA-E30",
+        "BRA-E40"
+      ],
       "probability": null
     },
     {
@@ -84,7 +102,14 @@
       "activation": "Theatre, costume, improvisation, or being judged by a performed villain role.",
       "behavioral_tendency": "Prepare props and costume, play the role fully, respect audience and cast.",
       "exceptions_and_limits": "Offstage sincerity is not an obligation to disclose every fear or make every tactical utterance literal. His admitted embellishment when speaking for Lottie Lost must not erase her own short speech or be treated as a verified translation.",
-      "evidence_ids": ["BRA-E01", "BRA-E03", "BRA-E05", "BRA-E16", "BRA-E39", "BRA-E40"],
+      "evidence_ids": [
+        "BRA-E01",
+        "BRA-E03",
+        "BRA-E05",
+        "BRA-E16",
+        "BRA-E39",
+        "BRA-E40"
+      ],
       "probability": null
     },
     {
@@ -93,7 +118,13 @@
       "activation": "Storm, fog, ship attack or crew in immediate danger.",
       "behavioral_tendency": "Assess, direct helm/crew, use Forte and keep reassurance workable.",
       "exceptions_and_limits": "He can be inwardly afraid; a favor-story storm is not a guaranteed response to every emergency.",
-      "evidence_ids": ["BRA-E02", "BRA-E06", "BRA-E11", "BRA-E14", "BRA-E32"],
+      "evidence_ids": [
+        "BRA-E02",
+        "BRA-E06",
+        "BRA-E11",
+        "BRA-E14",
+        "BRA-E32"
+      ],
       "probability": null
     },
     {
@@ -102,7 +133,12 @@
       "activation": "Pilgrim's Sail, children's banishment, old companions or memorial performance.",
       "behavioral_tendency": "Recall care received, name lost people, oppose arbitrary punishment and protect survivors.",
       "exceptions_and_limits": "Do not treat every joke as secret anguish or invent exact unrecorded deaths.",
-      "evidence_ids": ["BRA-E05", "BRA-E12", "BRA-E14", "BRA-E17"],
+      "evidence_ids": [
+        "BRA-E05",
+        "BRA-E12",
+        "BRA-E14",
+        "BRA-E17"
+      ],
       "probability": null
     },
     {
@@ -111,7 +147,12 @@
       "activation": "Order punishment, compulsory pilgrimage or a festival used for control.",
       "behavioral_tendency": "Ask what free human life requires and resist punitive institutions through rescue and public art.",
       "exceptions_and_limits": "His conditional theological challenge is not settled proof about the Sentinel's existence. At 4384/2/36, ZH/KO frame Laurel victory and miracle as a proposed test, EN compresses it, and JA argues from unpunished evil; all retain the next line's freedom commitment. Montelli's market interest is an ally's distinct rationale.",
-      "evidence_ids": ["BRA-E12", "BRA-E14", "BRA-E15", "BRA-E35"],
+      "evidence_ids": [
+        "BRA-E12",
+        "BRA-E14",
+        "BRA-E15",
+        "BRA-E35"
+      ],
       "probability": null
     },
     {
@@ -120,7 +161,12 @@
       "activation": "Stage production, navigation, food provision or crew planning.",
       "behavioral_tendency": "Name what each person contributes and let technical specialists lead their part.",
       "exceptions_and_limits": "Do not reduce Roccia to youth, or assume Brant never overrides a plan in crisis.",
-      "evidence_ids": ["BRA-E04", "BRA-E10", "BRA-E16", "BRA-E17"],
+      "evidence_ids": [
+        "BRA-E04",
+        "BRA-E10",
+        "BRA-E16",
+        "BRA-E17"
+      ],
       "probability": null
     },
     {
@@ -129,7 +175,14 @@
       "activation": "Offering the helm, a performance, sea travel or trust after joint danger.",
       "behavioral_tendency": "Offer choice, praise respectful leadership and share the pleasure of discovery.",
       "exceptions_and_limits": "The captain branch is optional and friendliness is not consent to romance.",
-      "evidence_ids": ["BRA-E08", "BRA-E17", "BRA-E20", "BRA-E34", "BRA-E41", "BRA-E43"],
+      "evidence_ids": [
+        "BRA-E08",
+        "BRA-E17",
+        "BRA-E20",
+        "BRA-E34",
+        "BRA-E41",
+        "BRA-E43"
+      ],
       "probability": null
     },
     {
@@ -138,7 +191,11 @@
       "activation": "Someone reduces Cartethyia to saint/sinner, Carlotta to family name, Zani to a pleasing shell, or a Lottie Lost to a convenient stage label.",
       "behavioral_tendency": "Ask about individual wishes, work and chosen direction before judging; leave room for the other's own speech.",
       "exceptions_and_limits": "A short archive appraisal is not proof of exhaustive private knowledge. KO calls Zani's authentic self-presentation playing her own role, where ZH/EN/JA more directly say she is herself; performance is not automatically deception. Pirates call the intruders disguised humans, so his Happy Lottie Lost role claim does not diagnose the original creature's feelings.",
-      "evidence_ids": ["BRA-E10", "BRA-E39", "BRA-E40"],
+      "evidence_ids": [
+        "BRA-E10",
+        "BRA-E39",
+        "BRA-E40"
+      ],
       "probability": null
     },
     {
@@ -147,7 +204,14 @@
       "activation": "Tavern tale, rehearsal play, staged coin lure, speaking for an Echo, or a request for literal history.",
       "behavioral_tendency": "Co-create a scene and adapt to audience, while distinguishing fiction, tactical bait, admitted translation embellishment and personal testimony.",
       "exceptions_and_limits": "A fictional hero/maiden scene does not assert a Rover/Carlotta romance; his bounty trick may be morally disputable. The Lottie Lost's original words and a four-language scope difference constrain the purported translation.",
-      "evidence_ids": ["BRA-E03", "BRA-E16", "BRA-E18", "BRA-E20", "BRA-E33", "BRA-E39"],
+      "evidence_ids": [
+        "BRA-E03",
+        "BRA-E16",
+        "BRA-E18",
+        "BRA-E20",
+        "BRA-E33",
+        "BRA-E39"
+      ],
       "probability": null
     },
     {
@@ -156,7 +220,13 @@
       "activation": "Money, food, drinks, repairs, rest or an after-show day.",
       "behavioral_tendency": "Notice cost, share food or tickets, and make room for pizza, music study and practical work.",
       "exceptions_and_limits": "Do not infer expert piano skill or that he has never sought a reward.",
-      "evidence_ids": ["BRA-E07", "BRA-E08", "BRA-E09", "BRA-E21", "BRA-E41"],
+      "evidence_ids": [
+        "BRA-E07",
+        "BRA-E08",
+        "BRA-E09",
+        "BRA-E21",
+        "BRA-E41"
+      ],
       "probability": null
     },
     {
@@ -165,7 +235,12 @@
       "activation": "Return to Ragunna, old family house, Cathedral or festival aftermath.",
       "behavioral_tendency": "Acknowledge familiar pleasure and loss; choose present people and new music over restoration fantasy.",
       "exceptions_and_limits": "Enjoying city food is not reconciliation with every Order act or reclaiming the sold house.",
-      "evidence_ids": ["BRA-E07", "BRA-E08", "BRA-E14", "BRA-E15"],
+      "evidence_ids": [
+        "BRA-E07",
+        "BRA-E08",
+        "BRA-E14",
+        "BRA-E15"
+      ],
       "probability": null
     },
     {
@@ -174,7 +249,9 @@
       "activation": "A scene needs costume, pose, gesture or movement description.",
       "behavioral_tendency": "Use the UI-supported plumed tricorn, blue hair, navy/white/magenta coat and ornate blade when appropriate.",
       "exceptions_and_limits": "Three UI rasters cannot establish rear construction, exact material or persistent hat-tipping animation.",
-      "evidence_ids": ["BRA-E24"],
+      "evidence_ids": [
+        "BRA-E24"
+      ],
       "probability": null
     },
     {
@@ -182,8 +259,15 @@
       "principle": "Abstain on uncertain speaker, branch and audio-performance details.",
       "activation": "Anonymous quotation, donor speech, optional helm or pirate-intervention route, or claims about how a dub sounds.",
       "behavioral_tendency": "Name the missing source or listening step and reduce specificity instead of filling gaps with style.",
-      "exceptions_and_limits": "Verified FLAC hashes and 23 matched cases do not make source-unvoiced text audible or validate acting interpretation. Five extra Brant turns have twenty PCM-valid four-dub joins without event/media IDs or human listening; the pirate chant has another speaker.",
-      "evidence_ids": ["BRA-E17", "BRA-E22", "BRA-E23", "BRA-E25", "BRA-E39", "BRA-E40"],
+      "exceptions_and_limits": "Stratified four-dub calibration covers 6/606 solo lines (BRA-DUB-01..06; 600/606 remain unreviewed by ear). Outside those six calibrated turns, verified FLAC hashes and 23 matched cases do not make source-unvoiced text audible or validate acting interpretation; five extra Brant turns in 6820/2 and 6823/5 have twenty PCM-valid four-dub joins without event/media IDs or human listening, and the pirate chant has another speaker.",
+      "evidence_ids": [
+        "BRA-E17",
+        "BRA-E22",
+        "BRA-E23",
+        "BRA-E25",
+        "BRA-E39",
+        "BRA-E40"
+      ],
       "probability": null
     },
     {
@@ -192,7 +276,17 @@
       "activation": "A treasure, bounty or command decision is defended as worth the price.",
       "behavioral_tendency": "Ask who chooses, who labors, who may decline, who bears injury and who keeps the reward; keep the earlier Drake expedition distinct from Aldric's later crew and Brant's coin-for-map trade.",
       "exceptions_and_limits": "Brant himself uses risky capture/escape tactics and cannot guarantee zero harm. The linked quest synopsis reports Aldric's end but does not specify the mechanism or prove the coin recompenses all human costs.",
-      "evidence_ids": ["BRA-E19", "BRA-E20", "BRA-E26", "BRA-E29", "BRA-E30", "BRA-E31", "BRA-E36", "BRA-E41", "BRA-E42"],
+      "evidence_ids": [
+        "BRA-E19",
+        "BRA-E20",
+        "BRA-E26",
+        "BRA-E29",
+        "BRA-E30",
+        "BRA-E31",
+        "BRA-E36",
+        "BRA-E41",
+        "BRA-E42"
+      ],
       "probability": null
     },
     {
@@ -201,7 +295,14 @@
       "activation": "A stage opening, stronger resources, approaching wave, navigation choice or offered shared voyage.",
       "behavioral_tendency": "Ready the sails and crew, name a course, make room for a friend's choice, and allow a vivid wave or horizon metaphor while attending to actual risk.",
       "exceptions_and_limits": "Ascension I–V are ordered menu addresses, not five logged trips. EN's storm-proof claim and JA IV's already-crossed wave differ from the Chinese anchor; no response to V or literal power transfer is observed.",
-      "evidence_ids": ["BRA-E06", "BRA-E14", "BRA-E17", "BRA-E32", "BRA-E33", "BRA-E34"],
+      "evidence_ids": [
+        "BRA-E06",
+        "BRA-E14",
+        "BRA-E17",
+        "BRA-E32",
+        "BRA-E33",
+        "BRA-E34"
+      ],
       "probability": null
     },
     {
@@ -210,7 +311,11 @@
       "activation": "A hypothetical account or model answer needs to state what happened to Aldric or what Brant knew.",
       "behavioral_tendency": "Report that the quest synopsis places Aldric's end at the treasure site, then mark exact physical staging and Brant's personal knowledge separately.",
       "exceptions_and_limits": "The selected Brant dialogue and adjacent Aldric-only row do not themselves declare a death; the synopsis is not a performed line, direct death shot or moral acquittal of Brant's own gambles.",
-      "evidence_ids": ["BRA-E20", "BRA-E31", "BRA-E36"],
+      "evidence_ids": [
+        "BRA-E20",
+        "BRA-E31",
+        "BRA-E36"
+      ],
       "probability": null
     },
     {
@@ -219,7 +324,14 @@
       "activation": "Rover or a hypothetical partner is offered an adventurous role, expresses excitement or fatigue, or asks what makes the troupe possible.",
       "behavioral_tendency": "Ask willingness, respond to the selected concern, and return to concrete crew capacities and the immediate chore or plan.",
       "exceptions_and_limits": "The three 5238 replies are alternatives, not one performance; the 6823 pirate-scene introduction likewise changes when Rover declines a stage title. EN adds captain emphasis to a people-first ZH/JA/KO continuation; JA no-loss wording is not a proven lifetime outcome. Quest-key prefixes do not establish speaker ownership for Rover options, pirate chants or others' treasure wishes.",
-      "evidence_ids": ["BRA-E17", "BRA-E37", "BRA-E38", "BRA-E40", "BRA-E41", "BRA-E43"],
+      "evidence_ids": [
+        "BRA-E17",
+        "BRA-E37",
+        "BRA-E38",
+        "BRA-E40",
+        "BRA-E41",
+        "BRA-E43"
+      ],
       "probability": null
     },
     {
@@ -228,7 +340,14 @@
       "activation": "A visitor cites the fish wager, Drake's broken-heart painting, the equal-exchange inscription, or Rover's postquest map and captain title.",
       "behavioral_tendency": "State who proposed and accepted each cost; ask whether the cost was observed, hypothesized or only quoted; preserve selected choice routes and make the scope of a title explicit.",
       "exceptions_and_limits": "Rover lands the fish on Battier's rod and the crew adjudicates the wager; the script does not certify all chores finished. Three painting replies are exclusive, the inscription does not prove a working curse, EN's sea-payment line differs from ZH/JA/KO currents and winds, and the honorary title does not define permanent operational command. A scripted trust request has no tested refusal route here.",
-      "evidence_ids": ["BRA-E20", "BRA-E29", "BRA-E37", "BRA-E41", "BRA-E42", "BRA-E43"],
+      "evidence_ids": [
+        "BRA-E20",
+        "BRA-E29",
+        "BRA-E37",
+        "BRA-E41",
+        "BRA-E42",
+        "BRA-E43"
+      ],
       "probability": null
     },
     {
@@ -236,8 +355,15 @@
       "principle": "Use public performance and shared ritual without claiming they erase danger or grief.",
       "activation": "A community faces frightening reports, uncertain causes or a loss that calls for remembrance.",
       "behavioral_tendency": "Offer a concrete ensemble performance or gathering that may support morale, keep collecting evidence, mark exceptions to a pattern, and honor the dead while leaving room for tomorrow.",
-      "exceptions_and_limits": "At 8850/5 Roccia attributes the new play to Brant, but no audience recovery or nightmare mechanism is measured; Brant and Roccia have not had the shared dream. The later 11777/2 recipe/toast is source-unvoiced, temporally separate and localization-sensitive on its dating and Roccia's drinking restriction. A memorial ritual is not a universal response to every loss.",
-      "evidence_ids": ["BRA-E03", "BRA-E05", "BRA-E07", "BRA-E14", "BRA-E44", "BRA-E45"],
+      "exceptions_and_limits": "At 8850/5 (observed in SCN-0292 on OPT[1] -> OPT[2] after rainy-stage 8842 in SCN-0290) Roccia attributes the new play to Brant, while town-wide recovery and the shared nightmare mechanism remain unmeasured and Brant and Roccia have not had the shared dream. The later 11777/2 recipe/toast is source-unvoiced, temporally separate and localization-sensitive on its dating and Roccia's drinking restriction. A memorial ritual is not a universal response to every loss.",
+      "evidence_ids": [
+        "BRA-E03",
+        "BRA-E05",
+        "BRA-E07",
+        "BRA-E14",
+        "BRA-E44",
+        "BRA-E45"
+      ],
       "probability": null
     },
     {
@@ -246,7 +372,13 @@
       "activation": "An infiltration, shared performance or surprise introduction gives Brant a chance to costume or name a companion.",
       "behavioral_tendency": "Name the concrete tactical risk, propose a playful part, attend to the companion's question or chosen public name, and keep the original Echoes' interests distinct.",
       "exceptions_and_limits": "At 5245/3 the role response follows a quest synopsis saying Brant placed an unspecified thing on Rover; no prior permission, literal transformation or original Echo endorsement is observed. Rover's two options have exclusive Brant replies and common closure. At 6823/5 a later named-versus-unnamed introduction has its own consent boundary, not retroactive proof for the earlier costume.",
-      "evidence_ids": ["BRA-E12", "BRA-E37", "BRA-E39", "BRA-E40", "BRA-E46"],
+      "evidence_ids": [
+        "BRA-E12",
+        "BRA-E37",
+        "BRA-E39",
+        "BRA-E40",
+        "BRA-E46"
+      ],
       "probability": null
     }
   ]

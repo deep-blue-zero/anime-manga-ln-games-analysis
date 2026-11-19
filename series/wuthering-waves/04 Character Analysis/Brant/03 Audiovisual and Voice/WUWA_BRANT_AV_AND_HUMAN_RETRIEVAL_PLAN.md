@@ -4,8 +4,8 @@ character: Brant
 artifact_type: av_and_human_retrieval_plan
 scope: BRANT_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: BRANT_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,10 +14,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Brant — claim-driven AV and human retrieval plan
+
+**Current-status correction:** This is a retained nomination plan, not a completion certificate. Following the owner-adopted Chapter II AV reconciliation, 5/38 scene crosswalk targets and 6/606 stratified solo voice lines have been directly reviewed. Statements below about no listening or no runtime viewing describe the original pre-AV nomination baseline, not the current packet status. See [the current packet router](../WUWA_BRANT_ANALYSIS_PACKET_README.md) and the [Chapter II AV audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md).
 
 Current state: exact four-language text/media/FLAC joins and waveform measurements exist for the 23 [matched cases](AUDIO_MATCHED_SEMANTIC_CASES.json); **no human listening or direct runtime clip inspection has been completed for this draft**. Forty-eight of 92 selected render variants have null event/numeric-media IDs, so an exact external-source join does not prove a bank chain. FLAC and visual/video media remain private. The selected case file is metadata-only and carries source occurrence ID, language, render variant, available event and media identifiers, virtual path and hashes so a reviewer can fetch the right object without relying on a friendly filename.
 

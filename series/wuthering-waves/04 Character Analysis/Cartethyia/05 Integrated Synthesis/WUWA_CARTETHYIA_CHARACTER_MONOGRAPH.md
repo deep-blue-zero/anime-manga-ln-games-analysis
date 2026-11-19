@@ -3,8 +3,8 @@ series: WUWA
 artifact_type: character_monograph
 scope: CARTETHYIA_SOURCE_3_6_0
 generation: V0.2
-status: active_provisional
-release_state: mutable_active
+status: canonical
+release_state: owner_adopted_current_canonical
 source_boundary: "Pinned Wuthering Waves 3.6.0 / Arikatsu resource 3.6.6 semantic view at commit 353f2eaed119bc9f680eab92807d20ac75a79b40, four-language official text witnesses, installed-client V0.5.1 raw audio/package evidence, and explicitly qualified audiovisual evidence"
 supersedes: []
 superseded_by: []
@@ -13,10 +13,10 @@ do_not_use_as_current_authority: false
 
 # Cartethyia: Freedom as the Right to Choose One's Obligations
 
-Analytical status: active provisional  
+Analytical status: canonical (bounded to pinned 3.6.0 + Chapter II AV/four-dub pass)\
 Canon boundary: pinned Wuthering Waves 3.6.0/3.6.6 evidence at Arikatsu commit `353f2eaed119bc9f680eab92807d20ac75a79b40`  
 Text authority: Chinese; Japanese, Korean, and English are official localization witnesses  
-Audio boundary: twelve verified archive FLACs, measured but not yet human-annotated  
+Audio boundary: twelve verified archive FLACs (initial V0.2 pilot) supplemented by the 29-moment / 116-render Chapter II four-dub human-ear calibration (`759/786` solo lines remain unreviewed by ear)
 
 ## Thesis
 
@@ -175,7 +175,7 @@ The literary and model claims above are grounded in the pinned four-language tex
 - ten hashed English client-recorded quest clips spanning initial presentation, truth, Blessed Maiden memory, grief, integration, particular rescue, chosen naming, reciprocal defiance, and the ordinary coda;
 - 23 matched semantic story moments across Chinese, Japanese, Korean, and English, yielding 92 PCM-verified FLACs.
 
-Neither preparation is a substitute for direct observation. The local visual-review surfaces were unavailable, and no human listening pass was performed. Camera/framing, actor delivery, and cross-dub performance-center claims remain **OPEN** in `WUWA_CARTETHYIA_DIRECT_AUDIOVISUAL_REVIEW_LEDGER.md` and `WUWA_CARTETHYIA_FOUR_DUB_LISTENING_LEDGER.md`. They do not silently strengthen the governing thesis.
+At initial V0.2 preparation, neither set had yet received direct human observation. Subsequent Chapter II shared AV and four-dub reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`) directly resolved `27/33` Cartethyia crosswalk targets in 1080p60 EN runtime (including all ten bounded anchor clips `V03_CLIP_A`–`V03_CLIP_J`) and calibrated `29` four-dub moments (`116` renders across `zh-Hans`, `ja`, `ko`, and `en`: `27/786` accepted solo lines plus `who=1626` counterfeit and `who=1633` unison) in [WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md](../03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md) and [WUWA_CARTETHYIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md](../03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md), falsifying the Korean midpoint hypothesis while confirming that the literary thesis above requires no change. Full-census human listening across the remaining `759/786` solo lines and `6` optional/non-main-story AV targets remain **OPEN**.
 
 ## Conclusion
 

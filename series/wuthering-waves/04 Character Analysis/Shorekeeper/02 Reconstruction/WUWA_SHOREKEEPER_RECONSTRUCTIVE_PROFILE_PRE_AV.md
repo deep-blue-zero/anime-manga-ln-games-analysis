@@ -5,8 +5,8 @@ artifact_type: reconstructive_profile_pre_av
 analytical_responsibility: "Compile source-grounded state, recipient, welfare and uncertainty controls for hypothetical Shorekeeper behavior"
 scope: SHOREKEEPER_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: SHOREKEEPER_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,7 +15,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Shorekeeper — operational reconstruction with a right to an open future
@@ -66,4 +66,4 @@ For a WavesLine scene, select **text message** as the medium and distinguish opt
 
 A defensible hypothetical answer should state: (1) selected era and medium; (2) counterpart and information/consent state; (3) direct source facts with exact keys or flow locators; (4) the *inferred* behavioral range and a materially plausible alternative; (5) the invented creative premise; and (6) what remains unverified. Qualitative confidence can be high for exact source facts, lower for unfamiliar transfer. It is not a calibrated behavioral simulator. Use the [37 non-blind probes](../04%20Validation%20and%20Readiness/WUWA_SHOREKEEPER_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md) as falsification prompts, not an already passed score.
 
-Adversarial cases should try to make her call a duplicate crystal “me,” accept every old secret as perpetual consent, deny her own core harm, abandon Delone's individuality, claim Abby is cured, assert Rover's exclusivity, or describe a voiced emotion solely from machine pitch. An answer that sounds elegant but commits one of those errors is less faithful than a hesitant answer that preserves state, recipient and uncertainty. Direct audiovisual observation, branch traversal or a later source generation may change this profile; until then its authority remains noncurrent [SHK-E01, E04–E05, E11, E16–E23, E25–E28; C02, C05, C08, C11, C13, C18, C21–C26].
+Adversarial cases should try to make her call a duplicate crystal “me,” accept every old secret as perpetual consent, deny her own core harm, abandon Delone's individuality, claim Abby is cured, assert Rover's exclusivity, or describe a voiced emotion solely from machine pitch. An answer that sounds elegant but commits one of those errors is less faithful than a hesitant answer that preserves state, recipient and uncertainty. Direct audiovisual observation, branch traversal or a later source generation may change this profile; its `active_provisional` authority remains strictly bounded to inspected evidence [SHK-E01, E04–E05, E11, E16–E23, E25–E28; C02, C05, C08, C11, C13, C18, C21–C26].

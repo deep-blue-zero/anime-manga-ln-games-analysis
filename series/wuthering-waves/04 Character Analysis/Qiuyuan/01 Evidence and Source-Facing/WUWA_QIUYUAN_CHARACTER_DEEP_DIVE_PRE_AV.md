@@ -5,8 +5,8 @@ artifact_type: character_deep_dive
 analytical_responsibility: "Continuous literary and behavioral interpretation of Qiuyuan within the pinned selected source"
 scope: QIUYUAN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: QIUYUAN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,12 +15,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Qiuyuan — the sword, the sheath, and the unfinished judgment
 
-> Working draft for the selected 3.6.0 corpus. The [matrix](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md) gives falsifiable claim IDs and exact retrieval routes; the [source audit](../04%20Validation%20and%20Readiness/WUWA_QIUYUAN_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md) gives denominators and identity boundaries. Nothing here establishes a completed audiovisual, perceptual-listening, or later-version arc.
+> Owner-adopted `active_provisional` reading for the selected 3.6.0 corpus (`do_not_use_as_current_authority: false`). The [matrix](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md) gives falsifiable claim IDs and exact retrieval routes; the [source audit](../04%20Validation%20and%20Readiness/WUWA_QIUYUAN_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md) gives denominators and identity boundaries. Nothing here establishes a completed audiovisual, perceptual-listening, or later-version arc.
 
 ## The central problem
 
@@ -134,6 +134,6 @@ The text has a contextual rhythm. Immediate danger often elicits clipped imperat
 
 The later combat archive gives that caution more substance. A skill and a sensor call use hearing; an injury line says even a self-risking feint has limits; three fallen barks invoke recognition debt, stopped wind and darkness. These are available words under gameplay triggers, not a chronological sequence in which he regains sight, dies, and speaks from an afterlife. The lethal liberation call likewise belongs in his repertoire without becoming proof of Scar's death. Thirty raw favor-word `Id` values in this region do not match their `Content` key suffixes, so the [source-row crosswalk](FAVOR_WORD_ID_TEXT_KEY_CROSSWALK.json) is necessary even before literary inference. The [combat profile](WUWA_QIUYUAN_COMBAT_TRIGGER_SENSORY_AND_LIMIT_LANGUAGE_PROFILE.md) keeps this textual evidence and its four-dub technical joins separate from unobserved delivery [QIU-E33](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-C31](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests).
 
-All selected direct semantic voiced lines have a four-language local render mapping; the 1,018 distinct FLAC objects have passed native-hash and waveform measurement. That supports retrieval and measurement. It does not license a claim about how an actor “sounds” emotionally until someone listens to representative recordings with the source and scene in view. The conservative pitch filter rejects most objects, so even acoustic population summaries must be narrowly qualified. The client-derived visual profile similarly supports observed silhouette and dress, not animated posture or facial timing. An integrated reconstruction remains open until those witnesses are inspected. [QIU-C21](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests) [QIU-C22](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests)
+All selected direct semantic voiced lines have a four-language local render mapping; the 1,018 distinct FLAC objects have passed native-hash and waveform measurement. That supports retrieval and measurement. It does not license a claim about how an actor “sounds” emotionally until someone listens to representative recordings with the source and scene in view. The conservative pitch filter rejects most objects, so even acoustic population summaries must be narrowly qualified. The client-derived visual profile similarly supports observed silhouette and dress, not animated posture or facial timing. Later inspection covered five Chapter II scene targets and five solo lines in four dubs; any broader integrated audiovisual account remains open. [QIU-C21](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests) [QIU-C22](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests)
 
 For future scenario writing, the strongest faithful premise is not that Qiuyuan must choose once between violence and kindness. It is that he can be exacting about danger, unexpectedly attentive in ordinary care, guarded about his own future, and fiercely unwilling to let a blood debt disappear through rhetoric. A good scene asks what he knows, which part of the arc he occupies, who is at risk, and whether the proposed action protects a person or merely lets the sword perform itself. If the source does not answer, the model should say so rather than manufacture certainty.
