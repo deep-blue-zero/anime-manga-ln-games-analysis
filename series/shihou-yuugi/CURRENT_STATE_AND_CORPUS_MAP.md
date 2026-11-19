@@ -4,7 +4,7 @@ series: shihou-yuugi
 artifact_id: CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 generation: SY-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "Single INITIAL collection route; no narrative findings or run approval"
 source_boundary: "One Japanese four-story anthology EPUB, metadata verified; all story narratives unadmitted and uninspected"
@@ -47,6 +47,8 @@ One Japanese EPUB is metadata-verified; publisher bibliography identifies four o
 | [Producer review](SY_BOOTSTRAP_REVIEW.md) | Transfer boundaries and receiving obligations |
 
 No reading, dossier, synthesis, model or simulation exists. Reconstruction remains NOT_READY, possibly limited by one-shot evidence even after future reading.
+
+An authorized story uses the [standing reading team](SY_SYNTHESIS_ARCHITECTURE.md#standing-team-for-one-authorized-story) and preserves the principal’s adjudication in that story’s closure record.
 
 Independent foundation review, supported bootstrap repairs and repository validation are permitted next. Narrative admission requires owner-defined story scope, source/gate verification and a consistent OPEN transition. Reading one story does not authorize the rest of the file. Publication does not supply that authority.
 
