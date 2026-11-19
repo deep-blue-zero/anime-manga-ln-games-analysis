@@ -92,6 +92,8 @@ Start with this entrypoint, then the governing [analytical method](00%20Framewor
 
 The volume-reading and bootstrap documents are templates. The V01–V15 readings own their respective source observations; V01 owner approval and later execution under the continuing authorization remain distinct. Textual-history and discourse lanes remain unopened.
 
+For a newly authorized LN unit, use architecture §7, method §12 and template section M for the reading assignments, source review and contribution record. Architecture §10 routes portrait qualification to the character state and readiness ledger. V15 remains the terminal volume of the completed grant.
+
 ## Required day-one ledgers
 
 - [MT_CHARACTER_STATE_AND_READINESS_LEDGER](03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md) — preserved earlier history plus V15 states and ten bounded model revisions.
