@@ -1,0 +1,16 @@
+{
+  "series_id": "re-creators",
+  "stable_slug": "re-creators",
+  "canonical_title": "Re:Creators",
+  "media": [
+    "ANIME"
+  ],
+  "repository_path": "series/re-creators/",
+  "canonical_entrypoint": "series/re-creators/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_UNREVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261118",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Self-contained anime analysis of character agency, creator/creation relations, narrative levels and audiovisual form."
+}
