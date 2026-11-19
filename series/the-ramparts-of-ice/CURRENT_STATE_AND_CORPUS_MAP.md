@@ -4,7 +4,7 @@ series: the-ramparts-of-ice
 artifact_id: CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 generation: RI-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "Single INITIAL colour-tankobon route; no narrative/run authority"
 source_boundary: "Japanese full-colour tankobon volumes 01-14 metadata verified; no narrative admission or inspection"
@@ -51,5 +51,7 @@ Fourteen Japanese full-colour tankobon EPUBs are metadata-verified, all unadmitt
 The shared cross-title artbook has one evidence home with You and I Are Polar Opposites and is not admitted here. Scroll/serialization, translations and adaptations are excluded. No readings, dossiers, models, syntheses or simulations exist; reconstruction is NOT_READY.
 
 Next work is independent foundation review, supported bootstrap repair and repository validation. A narrative run needs separate owner-defined units, adequate source/gate verification and consistent OPEN fields. Publication does not authorize it.
+
+For future authorized source readings, the [standing configuration](RI_SYNTHESIS_ARCHITECTURE.md#independent-colour-and-page-reading) assigns independent evidence work, critical review and reconciliation in the existing transaction.
 
 Resume via the full pair, source controls, relevant person/visual/claim homes and live governance. Future source inspection requires verified full-colour STILL_IMAGE plus Japanese TEXT; only metadata access was used now. Stage classes and fresh-synthesis/local-convergence ownership are in the architecture.

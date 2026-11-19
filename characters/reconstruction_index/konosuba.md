@@ -204,6 +204,49 @@ Recorded assessments of subjects in the `konosuba` namespace of the [Character R
 - Evidence at basis commit:
   - [`konosuba:heidel@original-light-novel#scoped-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_HEIDEL_CHARACTER_MONOGRAPH.md)
 
+### Subject `konosuba:karen-donnelly@original-light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/konosuba/karen-donnelly@original-light-novel.jsonl`](../reconstruction_capabilities/konosuba/karen-donnelly@original-light-novel.jsonl)
+
+<a id="konosuba-karen-donnelly-original-light-novel-calibration-20261116-01"></a>
+
+#### Assessment `konosuba-karen-donnelly-original-light-novel-calibration-20261116-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:karen-donnelly`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only the subject's two curated REVIEWED items at basis\_commit, each read in full with its front matter: the active\_provisional KONOSUBA\_KAREN\_DONNELLY\_CHARACTER\_MONOGRAPH.md \(twelve evidence-proportional sections\) and the active\_provisional KONOSUBA\_KAREN\_DONNELLY\_RECONSTRUCTION\_MODEL.md \(three unequal rules KD-R01 to KD-R03, no independent prediction result\). Both concern the self-introduced head of the Donnelly family in the connected CONTEXP01 arc \(census row 70\): the earlier forest-house rescue at U019P454-P524 and the U021 episode of reception and contract, next-day monster work, a one-kill report and confrontation, a nighttime intrusion and the next-morning evidence handoff. The reported MASK adventurer Karen is not joined to this subject and nothing about her is used. Kazuma Satō narrates; Karen's affect is observed by him, and Darkness's and Megumin's accounts of her are testimony. The cohort evidence index, native provenance JSON and rule inventory the items link were read only as method context; they are not curated on this subject and no claim rests on them. Both items are labelled provisional, and every claim here inherits that label. No primary source was inspected.
+- Temporal boundary: The CONTEXP01 arc only: the earlier rescue in the Megumin episode \(U019\) and the later U021 episode placed after the Elroad journey and an interval \(U021P4\), ordered by paragraph. Register and stance change repeatedly within the U021 episode \(formal welcome, rivalrous insult, recovered business smile, mockery, alarm, renewed authority, fear, renewed threat, retraction at P515-P517\); these are within-arc states, not independent samples, and the closing frightened apology is not a developmental endpoint. No dates, development across time, or life outside the arc are evidenced. She is not shown to know of Kazuma's death when she mocks the one-kill report \(P213 is interrupted\).
+- Basis commit: `f979bbe513c5013ec494c6268aca5168ff39296b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `ca6c2c34c4e48ffecd8b74375652dbda66fd8f8d2f527c2b95b55c3f8eea25e5`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative short written-Japanese lines only, never presented as quotation, in the sampled acts: formal self-presentation, elaborate praise of a valued hire, cutting comparison toward a rival, money-centred justification, command, alarm and abrupt placation.
+  - `DIALOGUE` condition: Vary the act by recipient and situation; do not repeat one source insult or a noble-lady catchphrase, and do not make every line a stammer.
+  - `DIALOGUE` condition: No audio, accent or native-human validation is implied.
+  - `CROSS_SCENARIO` condition: Specify what Karen knows about profit, others' costs, her own exposure, rival standing, available assistance and immediate means before predicting.
+  - `CROSS_SCENARIO` condition: Give outcomes as the model's unequal hypotheses with their stated rivals, never as a decided motive ordering.
+  - `CROSS_SCENARIO` condition: Preserve canonical-comic mode facts: no unseen third theft, no completed punishment, no successful high-level defence, no reset; do not reproduce the bodily violation as a test method.
+  - `CROSS_SCENARIO` bounds: chronology Within or immediately after the U021 episode, with Karen holding only what she knows there \(not Kazuma's death at P213, not the reader's causal assembly of her business\).; interlocutor A hired adventurer of Kazuma's party's standing, a status rival of Darkness's kind, or her own staff and guards; MASK Karen's relationships are excluded.; settings An Axel-area noble household or business transaction in canonical-comic mode, with actual magic and class hierarchy.; Transfer mode only with its own assets, risks and institutions: no imported aristocratic impunity, magic, high level, addiction or diagnostic labels.; No ordinary-life, family or romance content.
+  - `PROFESSIONAL_CONTEXT` condition: Her role as Donnelly head arranging paid work and defending endorsed practices under KD-R02, with the representative-apology and payment exceptions retained.
+  - `PROFESSIONAL_CONTEXT` condition: No exact wealth, probabilities, returns, legal judgement or institutional consequence beyond her own claims.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `bodily-violation-bounded` (evidence-backed limitation): The two completed clothing thefts violate her bodily agency; the third attempt is stopped. No third theft, completed exposure or justified coercive method may be supplied, and the violation is not a testing method.
+  - `claimed-capacities-unperformed` (evidence-backed limitation): Her high-level-noble claim, guards and summoning stones give no demonstrated control: no spell is performed, the guards are separated by bars, and two stones are taken before use.
+  - `life-outside-arc` (evidence gap): No domestic routine, leisure, friendships, family biography, exact commercial accounts, combat capacity, legal outcome or later response to noncoercive correction is evidenced.
+  - `mask-karen-unjoined` (evidence-backed limitation): The reported MASK adventurer Karen is not joined to this subject; a shared first name is insufficient for merger, and the absence of a bridge does not prove the two are distinct.
+  - `model-unvalidated` (evidence-backed limitation): The model reports no independent prediction result; no exact case or first response had been serialized at its boundary, and a plausible output would not validate it.
+  - `motive-weights-unfixed` (evidence-backed limitation): The global weights of commercial return, standing, useful service, household position and immediate safety are not fixed, so which motive decides a new choice is undetermined.
+  - `no-audio` (evidence-backed limitation): Voice evidence is written Japanese only, without audio, accent or native-human validation.
+  - `no-death-knowledge` (evidence-backed limitation): Darkness's explanation at P213 is interrupted, so Karen is not shown to know of Kazuma's death when she mocks the one-kill report; a knowing mockery would be invention.
+  - `rivals-unseparated` (evidence-backed limitation): Generic hostile-noble convention, genre pacing, ordinary fear, social comparison and business incentives all explain part of the same material, and no independent observation separates them.
+  - `single-connected-arc` (evidence-backed limitation): All evidence comes from one connected arc; her repeated changes within it are not independent lifetime samples.
+- Evidence at basis commit:
+  - [`konosuba:karen-donnelly@original-light-novel#expanded-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f979bbe513c5013ec494c6268aca5168ff39296b/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_KAREN_DONNELLY_CHARACTER_MONOGRAPH.md)
+  - [`konosuba:karen-donnelly@original-light-novel#expanded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f979bbe513c5013ec494c6268aca5168ff39296b/series/konosuba/06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_KAREN_DONNELLY_RECONSTRUCTION_MODEL.md)
+
 ### Subject `konosuba:mammon@original-light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/konosuba/mammon@original-light-novel.jsonl`](../reconstruction_capabilities/konosuba/mammon@original-light-novel.jsonl)

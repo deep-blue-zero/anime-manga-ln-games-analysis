@@ -136,6 +136,12 @@ A drafted reading without its required cumulative updates, freeze, state advance
 
 The current owner instruction authorizes `continuous_sequential` execution from V03 through every source in the live admitted inventory at run start. Each unit must still close atomically before the next source is opened.
 
+### Source assignments for the next admitted unit
+
+The principal reads the complete admitted Japanese source unit within its §4.1 component boundary, without opening a later component of the same object before the current freeze, owns the entering and exit freezes and writes the interpretive account. An independent reader works from the authorized prose and prior frozen boundary before seeing that account. Trace a disputed exchange in sequence: identify who speaks, who perceives it, who reports a reputation, and what the recipient actually does. Include an ordinary encounter or a contrary audience where it tests a reading of social performance or intimacy. A distinct reviewer returns to the Japanese at the consequential turn and tests a rival attribution or explanation. For a supplement, give its own story-time, disclosure order and permitted exposure horizon before connecting it to a numbered reading. Verify Japanese TEXT access for each textual assignment and direct STILL_IMAGE access for claims about a plate or production rough.
+
+The volume reading or supplemental checkpoint records each assignment and actual coverage, prior exposure, inspected channels, returnable locators, findings, counterevidence and disagreements. The principal records which findings were accepted, revised, rejected or left open, and links the affected rolling home and revision decision. Use substantive literary reasoning for both readings and independent judgment for review. For an unusually brief component, the independent specialist may also review in a context separate from the principal. Record why source access, independence and critical scrutiny remain sufficient. At review, compare the integrated account with the evidence returns and restore any consequential detail lost in compression. Suspend a dependent finding or closure if the source or required independence cannot be recovered.
+
 ## 6. Prospective history and claim revision
 
 The dedicated rolling claim home is `../03 Longitudinal Ledgers/CHIRAMUNE_REVISION_LEDGER.md`.
@@ -166,7 +172,9 @@ Add another ledger only when a recurring dimension accumulates independently, af
 
 ## 8. Character-model promotion
 
-Create or update a monograph only after sufficient multi-scene evidence supports an independent reconstruction. A qualifying model should distinguish:
+At specialist readiness and after material new evidence, apply initiation policy §5.5.1 across all subjects, including adults and supporting characters. A concentrated sequence can establish a differentiated portrait when converging evidence shows variation by context or recipient and meaningful counterexamples. The assessment belongs in `04 Character Analysis/README.md`: identify the person and boundary, outcome, rationale and gaps, next trigger and actual portrait path when available. As an established project, Chiramune records its first decisions when it next enters character or specialist synthesis or reaches its next architecture review checkpoint (initiation §10); until then an unassessed character is neither qualified nor rejected. Qualified pending portraits are required at synthesis and remain visible at release; retain historical decisions at their original horizon. Use the existing per-person monograph naming convention. Before accepting a portrait, record separately what a reader can recover from the document alone and whether its load-bearing claims survive a source check. Operational reconstruction requires its own evidence.
+
+The sequential captures that support a portrait should distinguish:
 
 - first-person self-narration;
 - internal focalization;

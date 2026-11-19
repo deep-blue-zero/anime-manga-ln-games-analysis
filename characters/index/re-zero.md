@@ -6,6 +6,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 
 ## Reviewed entries
 
+<a id="anastasia-hoshin"></a>
+
+### Anastasia Hoshin
+
+- Entity ID: `re-zero:anastasia-hoshin`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:anastasia-hoshin@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v01-v25-character-model`: LIGHT_NOVEL VOLUME: Dedicated model of the human Anastasia across the original Japanese main light novels V01–V25, built on the frozen readings and owner ledgers with targeted original reinspection of V04, V06, V07 and V16–V25 (V01–V03 yield no occurrence). It covers her retrospective account of her Kararagi rise, the V04 candidacy speech and bout, the V06 café and V07 White Whale negotiations, V16 Priestella hosting, the V17–V18 city crisis and temporary civic charge, the emergency handover to the artificial spirit and her withdrawal during V19–V24 (operator-only scenes receive no human dialogue), the V25 return, her renewed choice of Julius without their earlier shared episodes and the Roy custody deliberation ending at E046 with her later position unshown. Each reset iteration stays separate. The scarf operator's own V20–V22 conduct and the Witch Echidna are not covered here. No V26 or later, web-novel, IF, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`v01-v25-character-model` — Anastasia Hoshin (human): V01–V25 character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_ANASTASIA_HOSHIN_V01_V25_CHARACTER_MODEL.md)
+
 <a id="beatrice"></a>
 
 ### Beatrice
@@ -188,8 +210,10 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
   - _None._
 - Analytical coverage:
   - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Julius across the original Japanese main light novels V01–V16, with load-bearing evidence from V04 encounters reconciled through V07–V09 and V16. Default is his last personally observed V16 garden conversation; the discarded square retained only by Subaru is not his memory. No exhaustive childhood or family history and no later-volume, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+  - `v01-v25-character-model`: LIGHT_NOVEL VOLUME: Dedicated successor model of Julius across the original Japanese main light novels V01–V25, built on the frozen readings and owner ledgers with targeted original reinspection. Beyond the V16 horizon it covers Priestella and the loss of his name to Roy, Joshua's erased recognition known only through Subaru's word, the tower approach, trial defeats and balcony disclosure, the iteration-specific E025–E029 states, the release and renewal of the six spirits, renewed service to the human Anastasia and the Roy custody deliberation ending at E046 with his later position unshown. Each reset iteration stays separate, and Joshua's lost episodes stay lost. No V26 or later, web-novel, IF, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
   - [`character-model` — Julius Juukulius: V01–V16 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md)
+  - [`v01-v25-character-model` — Julius Juukulius: V01–V25 successor character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V25_CHARACTER_MODEL.md)
 
 <a id="liliana-masquerade"></a>
 
@@ -212,6 +236,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
   - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Liliana Masquerade across the original Japanese main light novels V01–V19, integrating actual appearances and attributed retrospects from targeted revisits of already-consumed V04, V10 and V16–V19; the horizon label does not assert an appearance in every volume. Default is living E021 at Kiritaka's canal retrieval after the tower collapse, before unshown transport or waking; Subaru's discarded branches are not her memories. No V20 or later, manor side-story, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
   - [`character-model` — Liliana Masquerade: V01–V19 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_LILIANA_V01_V19_CHARACTER_MODEL.md)
+
+<a id="louis-arneb"></a>
+
+### Louis Arneb
+
+- Entity ID: `re-zero:louis-arneb`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:louis-arneb@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v19-v25-character-model`: LIGHT_NOVEL VOLUME: Dedicated model of Louis across the original Japanese main light novels V19–V25, built on the frozen readings and owner ledgers with targeted original reinspection of V19–V25. It covers the V19 recognition conditions (no Louis dialogue), the V20 Priestella manifestation before Otto, Felt and Beatrice, her represented past in the white room as told in V25, the first meeting with Subaru and the soul partition, the waiting half's V24 negotiation, the participating half inside Subaru (individual acts in the tower gaps kept unassigned unless a witness supports them), the E046 Corridor encounter with integrated Subaru, the victorless struggle of the two selves and the physical girl through the green room and the unknown plain, whose interior is not modeled. The brothers' own conduct is attributed to them, not to Louis. No V26 or later, web-novel, IF, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`v19-v25-character-model` — Louis Arneb: V19–V25 character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_LOUIS_ARNEB_V19_V25_CHARACTER_MODEL.md)
 
 <a id="meili"></a>
 
@@ -365,10 +411,12 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Analytical coverage:
   - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Ram across the original Japanese main light novels V01–V15, defaulting to living E018 beside sleeping Rem. Represented childhood remains separately attributed, and the model's unresolved chronology question binds use. No V16 or later, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
   - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. This entry claims no V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+  - `v01-v25-character-model`: LIGHT_NOVEL VOLUME: Dedicated successor model of Ram across the original Japanese main light novels V01–V25, built on the frozen readings and owner ledgers with targeted original reinspection. Beyond the V15 horizon it covers her chosen care of the name-erased Rem, the treatment arrangement and tower expedition, the counterfeit accusation against the changed Subaru, the fight with Lye and the forced activation of sleeping Rem's horn, her responsibility for that imposed cost, the Green Room appearance of Louis, and the final evacuation ending at E046 with her later fate unshown. Represented village childhood stays a reader's view separate from adult Ram's access, and lost sister episodes stay lost. No V26 or later, web-novel, IF, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
   - [`character-model` — Ram: V01–V15 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_RAM_V01_V15_CHARACTER_MODEL.md)
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](../../series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
   - [`master-longitudinal-ledger` — Cumulative character, information and relationship states (cited here for V02–V03)](../../series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+  - [`v01-v25-character-model` — Ram: V01–V25 successor character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_RAM_V01_V25_CHARACTER_MODEL.md)
 
 <a id="reala-thompson"></a>
 
@@ -574,9 +622,11 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Analytical coverage:
   - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of the Pleiades Watchtower's star-keeper across the original Japanese main light novels V21–V23, built from 28 contextual intervals of already-consumed V21, V22 and V23 with seven original stills; it covers her reported antecedents (as attributed report only), the E021–E022 approach defenses, the E024 rescue, reunion and permitted speech, the nonharm promise, Merope refusal and four reported tower rules, the Electra faint and recovery, ordinary camp life, the V23 E024–E025 memory-loss disclosures, the E026 corpse encounter, and the E027 standby, book crisis, personal search request and dinner default. The later E027 scorpion catastrophe is treated only as evidence context, with no identity bridge or terminal Shaula state claimed. No V24 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
   - `v21-v24-character-model`: LIGHT_NOVEL VOLUME: Dedicated successor model across the original Japanese main light novels V21–V24, reconciling the V21–V23 states with targeted rereading of 15 intervals and four original stills; beyond the earlier horizon it covers the E028 public amnesia disclosure, Meili rescue and inclusion in her care, and the perimeter defense with Meili, the E029 scorpion interrupting and killing Lye and then attacking Subaru, and the E030 human conversation (willingness to die on command, refusal of the fifth rule for fear of losing company, bodily onset, reported breach, request for a death command, disclosure of the fifth rule after Subaru's deceptive promise), the human rescue dive and the transformation into the scorpion aiming at falling Subaru. Post-change cognition, the rule breaker, enforcement mechanics and her post-impact fate are left open. No V25 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+  - `v21-v25-character-model`: LIGHT_NOVEL VOLUME: Dedicated successor model across the original Japanese main light novels V21–V25, built on the frozen readings and owner ledgers with original reinspection across all five books and eleven source images or printed devices; it re-maps the V21–V24 states and, beyond the earlier horizon, covers Subaru's compressed E031–E045 trials (crediting Shaula with no memory of them), the E046 balcony onset, reported breach, request for a death command and audible declaration, the reader-only interior during the giant fight, the white farewell (its reality left open), the giant's last touch and dissolution, and the separately behaving small red scorpion, which the model treats as distinct from Shaula's lost human self. The identity of the old master, her origin and age, the rule breaker, the efficacy of a death command, the E030 Shaula's fate and the small creature's interior stay open. No V26 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
   - [`character-model` — Shaula: V21–V23 character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md)
   - [`v21-v24-character-model` — Shaula: V21–V24 successor character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md)
+  - [`v21-v25-character-model` — Shaula: V21–V25 successor character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_SHAULA_V21_V25_CHARACTER_MODEL.md)
 
 <a id="subaru"></a>
 

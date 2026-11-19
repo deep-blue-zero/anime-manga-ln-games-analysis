@@ -42,6 +42,8 @@ State schema: `state_event_id | subject_key | scene_id | valid_from/until | disc
 
 Change cause is DISPOSITION, KNOWLEDGE, RELATIONSHIP, CONTEXT, ROLE, RESOURCE, REVEALED_NOT_NEW or UNRESOLVED. Knowledge assertions name knower, proposition, KNOWS/BELIEVES/SUSPECTS/UNAWARE/UNKNOWN, how acquired and reader horizon. UNAWARE needs evidence; an unshown possibility is UNKNOWN.
 
+Monograph qualification schema: `subject_key | assessment_boundary | outcome | source_grounded_rationale/largest_gaps | next_review_trigger | monograph_path_or_NONE | self_containment/fidelity_acceptance_refs`. Outcome is QUALIFIED_PENDING, COMPLETE_AT_BOUNDARY, DEFERRED_EVIDENCE or REASSESS_AFTER_REVISION under [initiation section 5.5.1](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard); COMPLETE_AT_BOUNDARY cites the separately recorded self-containment and fidelity results. A reassessment, new outcome or real portrait path appends a row; the latest row per subject is current and earlier rows remain. An unassessed person has no row and is neither qualified nor rejected.
+
 ## Directed-edge records
 
 `edge_event_id | from_subject | to_subject | scene/horizon | expressed_position | shown_conduct | recipient_response | inferred_state/confidence | knowledge/power/constraint_asymmetry | counterevidence | prior_edge_event | claim_ids/reading_anchor/locators`.

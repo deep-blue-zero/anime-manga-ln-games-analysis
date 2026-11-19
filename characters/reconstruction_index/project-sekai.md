@@ -6,15 +6,173 @@ Recorded assessments of subjects in the `project-sekai` namespace of the [Charac
 
 ## Recorded assessments
 
+### Subject `project-sekai:nene@game`
+
+- Registry file: [`characters/reconstruction_capabilities/project-sekai/nene@game.jsonl`](../reconstruction_capabilities/project-sekai/nene@game.jsonl)
+
+<a id="project-sekai-nene-game-generation-2-package-20261116-01"></a>
+
+#### Assessment `project-sekai-nene-game-generation-2-package-20261116-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `project-sekai:nene`
+- Scope: continuity `project-sekai-game`
+- Source boundary: Only the subject's three curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical V1 Wonderlands×Showtime main-story causal synthesis \(Japanese main story wonder\_01\_00–wonder\_01\_20, source lock PJSK\_SOURCE\_20260822T184634Z\_EVENT\_0213\), and the canonical Generation 2 Kusanagi Nene character monograph and reconstruction model \(source lock PJSK\_SOURCE\_20261030T035133Z\_EVENT\_0222, admitted Japanese textual event, card, area and supplemental analysis through EVENT\_0222\). Locators are those recorded in the admitted analysis; no primary transcript or audiovisual performance was inspected. Event readings, longitudinal ledgers, the subject's evidence index, the supplemental scene audit and Generation 1 are referenced by these files but not curated on the row and were not used. The project-local R4\_MATURE\_RECONSTRUCTION label is not inherited.
+- Temporal boundary: Nene from the main story through EVENT\_0222. Default state: after EVENT\_0208 and before a Wonder! audition result, with acting at EVENT\_0185, direction at EVENT\_0144 and self-continuity at EVENT\_0209. Earlier scenarios use the located milestone and its knowledge \(main-story private fear in episode 12 and disclosure in episode 16; EVENT\_0095, EVENT\_0114, EVENT\_0132, EVENT\_0144, EVENT\_0149, EVENT\_0185, EVENT\_0209, EVENT\_0214, EVENT\_0217\). My SEKAI exchanges are undated. Nothing after EVENT\_0222.
+- Basis commit: `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `2485e26e52848cb8d94f457541a9b6913a151733caa69e218e3848a05213fd13`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative written-Japanese lines only, never presented as quotation; select domain \(acting, singing, direction, social approach, game\) and recipient before wording.
+  - `DIALOGUE` condition: Use 「わたし」 as self-reference; 「私」 and romantic address belong to Heart's performed role and never to Nene's everyday speech.
+  - `DIALOGUE` condition: Matched D1-D2 situations with the same information as a register row; hesitation and directness are domain- and recipient-specific, not a general register.
+  - `DIALOGUE` condition: My SEKAI rows are undated ordinary contrasts and never place a line in the default state or a dated milestone.
+  - `DIALOGUE` condition: No performed voice, singing timing, timbre or technique, and no frequency claim; a new gratitude scene may be brief or hesitant.
+  - `CROSS_SCENARIO` condition: Name the difficult domain first and do not transfer competence between acting, singing, directing, social approach and games.
+  - `CROSS_SCENARIO` condition: Predict both method \(specific inquiry, technical diagnosis, requested feedback, trusted company, mediation\) and error \(overpractice, confidence loss, blunt critique that misfires, self-blame broader than the facts, persisting initial distance\).
+  - `CROSS_SCENARIO` condition: Under entrusted pressure, give a range: blocked intention and commitment through received trust are both supported; never assume severe pressure helps.
+  - `CROSS_SCENARIO` condition: Separate her own chosen answer from a director's pressure, and a local repair from complete absolution.
+  - `CROSS_SCENARIO` bounds: chronology The default state after EVENT\_0208 through EVENT\_0222, with the Wonder! audition unresolved and the acting, direction and self-continuity owners at EVENT\_0185, EVENT\_0144 and EVENT\_0209; or a located earlier milestone in the monograph using only that milestone's owner and knowledge.; interlocutor Wonderlands×Showtime companions \(Rui as friend, technician and director; Tsukasa; Emu\), a craft instructor or rival whose authority covers one problem, unfamiliar collaborators joined by a shared task, or a familiar peer in a game; a transfer to a comparable new colleague is a separate, lower-confidence condition.; settings A new acting, singing, directing or production problem, or an ordinary game, travel or privacy situation, matched in knowledge and stakes to the located cases \(D1-D2\).; No casting result, global fame, lifelong cure, universal acting fit, unshown Yumemi members' motives or audiovisual performance \(D3-D4\).; Undated My SEKAI behavior is not placed in a dated state.
+  - `MUNDANE_SOCIAL` condition: Familiar company, games, travel, rest and privacy as sampled; genre-specific game expertise; fatigue and motion sickness remain possible.
+  - `MUNDANE_SOCIAL` condition: With an unfamiliar person, initial distance persists; person-specific questions and a shared task are a tested route, not instant ease.
+  - `MUNDANE_SOCIAL` condition: No invented daily routine, frequency or domestic detail; My SEKAI exchanges stay undated.
+  - `PROFESSIONAL_CONTEXT` condition: Troupe and school-production acting, singing and direction as sampled: diagnose role and technical gaps, ask who can do what, redistribute after disruption and return credit.
+  - `PROFESSIONAL_CONTEXT` condition: Mediation through NeneRobo is a valid performance resource, not a false self.
+  - `PROFESSIONAL_CONTEXT` condition: No audition or casting outcome, professional career trajectory, unfamiliar professional hierarchy or universal acting fit.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `audition-and-fame-open` (evidence-backed limitation): The Wonder! casting result and global-stage attainment are not shown; EVENT\_0149 is an actual loss, not a hidden victory.
+  - `competence-domain-specific` (evidence-backed limitation): Competence does not transfer: shooting-game skill is not falling-block puzzle speed, production leadership does not confer stranger ease, and acting and directing are related but separate.
+  - `current-companions-thin` (evidence gap): Current-state conduct with Tsukasa and Emu is sketched briefly, and a new conflict with either is unsampled in the admitted set.
+  - `fear-threshold-open` (evidence-backed limitation): Future repeatability under pressure is explicitly open: anxiety affects access without negating desire or skill, and whether a new entrusted pressure blocks or mobilizes her is not determined.
+  - `heart-role-speech` (evidence-backed limitation): Heart's 「私」, romantic address and fictional magic in EVENT\_0185 are performed character speech, not Nene's everyday register or relationship behavior.
+  - `knowledge-partition` (evidence-backed limitation): She knows El's father's disclosed illness and Olivia's disclosure to her and Emu; she does not know Tsukasa's recovered anger, and others do not automatically know what she was told.
+  - `mysekai-undated` (evidence-backed limitation): The My SEKAI exchanges supply ordinary contrasts without a secure date and establish no placement in the default state or a dated milestone.
+  - `no-performed-voice` (evidence-backed limitation): No punctuation or written singing certifies audible timing, timbre or technique; no audiovisual inference substitutes for inspected text.
+  - `pressure-not-necessary` (evidence-backed limitation): EVENT\_0185 does not show that pressure is necessary or appropriate: Rui's severe demand was one intervention among several, and he says it could have worsened her condition.
+  - `self-blame-not-causal` (evidence-backed limitation): Her main-story all-fault account exceeds the distributed causal evidence \(prolonged practice, a missed charge and Rui's missed check\); her self-report is not the causal account.
+  - `shyness-retained` (evidence-backed limitation): EVENT\_0209 retains the fearful origin rather than curing it; she still wants to be less shy, and the self-address does not cause the earlier bodily restoration.
+  - `uncurated-intermediate-states` (evidence gap): States between milestones, the EVENT\_0008 authority, Generation 1 through EVENT\_0140, the event readings, ledgers, the subject's evidence index and the supplemental scene audit are not curated on this row.
+  - `yumemi-repair-partial` (evidence-backed limitation): Only three former Yumemi peers receive a particular repair; the views of other past cast members are not established.
+- Evidence at basis commit:
+  - [`project-sekai:nene@game#reviewed-model-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/51d0e99d78a1f60d8d1551a03c58f8e7291e2b27/series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_RECONSTRUCTION_MODEL.md)
+  - [`project-sekai:nene@game#reviewed-monograph-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/51d0e99d78a1f60d8d1551a03c58f8e7291e2b27/series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_CHARACTER_MONOGRAPH.md)
+  - [`project-sekai:nene@game#reviewed-shared-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/51d0e99d78a1f60d8d1551a03c58f8e7291e2b27/series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
+
+### Subject `project-sekai:rui@game`
+
+- Registry file: [`characters/reconstruction_capabilities/project-sekai/rui@game.jsonl`](../reconstruction_capabilities/project-sekai/rui@game.jsonl)
+
+<a id="project-sekai-rui-game-generation-2-package-20261116-01"></a>
+
+#### Assessment `project-sekai-rui-game-generation-2-package-20261116-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `project-sekai:rui`
+- Scope: continuity `project-sekai-game`
+- Source boundary: Only the subject's three curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical V1 Wonderlands×Showtime main-story causal synthesis \(Japanese main story wonder\_01\_00–wonder\_01\_20, source lock PJSK\_SOURCE\_20260822T184634Z\_EVENT\_0213\), and the canonical Generation 2 Kamishiro Rui character monograph and reconstruction model \(source lock PJSK\_SOURCE\_20261030T035133Z\_EVENT\_0222, admitted Japanese textual event, card, area and supplemental analysis through EVENT\_0222\). Locators are those recorded in the admitted analysis; no primary transcript or audiovisual performance was inspected. Event readings, historical ledger states, the subject's evidence index, the supplemental scene audit, the execution record and Generation 1 are referenced by these files but not curated on the row and were not used. The project-local R4\_MATURE\_RECONSTRUCTION label is not inherited.
+- Temporal boundary: Rui from the main story through EVENT\_0222. Default state: direction owned by EVENT\_0200, self-continuity by EVENT\_0144 and outsider collaboration by EVENT\_0024; group EVENT\_0208 after a successful cohosted show and before demonstrated safeguards or a Wonder! casting result. Earlier scenarios use the located milestone and its knowledge \(main-story episodes, EVENT\_0099, EVENT\_0119, EVENT\_0145, EVENT\_0150, EVENT\_0152, EVENT\_0172, EVENT\_0185, EVENT\_0211, EVENT\_0217, EVENT\_0218\). The middle-school exchange recounted in EVENT\_0211 is his memory at every later state; its reinterpretation as bravado is current. My SEKAI exchanges are undated. Nothing after EVENT\_0222.
+- Basis commit: `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `65505cccf5e9877134989de5860069c87415033df8c8b244953e786f9d527a07`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative written-Japanese lines only, never presented as quotation; fix state, recipient, what Rui knows, whether he has permission and the active relationship before wording.
+  - `DIALOGUE` condition: Use 「僕」 as self-reference; 「祖父」／「拓海」 and other film-role lines are performed speech, and parenthesized planning is private thought, not dialogue.
+  - `DIALOGUE` condition: Polite grammar does not select an intent: support, guarded withdrawal and provocation are all attested with honorific wording; choose the mode from the scene's evidence or present the alternatives.
+  - `DIALOGUE` condition: My SEKAI rows are undated ordinary contrasts and never place a line in the default state or a dated milestone.
+  - `DIALOGUE` condition: No performed voice, timing or delivery, no frequency claim, and no Emu-directed register inferred from other recipients.
+  - `CROSS_SCENARIO` condition: Identify the intended experience, the actual medium, the available collaborator and what Rui only infers before predicting a choice.
+  - `CROSS_SCENARIO` condition: Predict method and error together: diagnosis, experiment and acceptance of a better solution beside overreaching diagnosis, overwork before asking help, pressure or manipulation before informed agreement, and delayed intervention for a companion at risk.
+  - `CROSS_SCENARIO` condition: For a performer struggling under pressure, give the attested range \(restraint, permission-seeking coaching, unconsented pressure or provocation\) rather than the most benevolent or most sinister option; never assume a successful take shows the process was consented or safe.
+  - `CROSS_SCENARIO` condition: Keep later gratitude separate from earlier permission, and a stated wish to protect from an implemented safeguard.
+  - `CROSS_SCENARIO` bounds: chronology The default state after EVENT\_0208 through EVENT\_0222, with direction owned by EVENT\_0200, self-continuity by EVENT\_0144 and outsider collaboration by EVENT\_0024, before demonstrated safeguards or a Wonder! casting result; or a located earlier milestone in the monograph using only that milestone's owner and knowledge.; interlocutor Wonderlands×Showtime companions \(Nene as old friend, performer and independent judge; Tsukasa as compatible lead\), a friend from another unit seeking advice about their own choice \(the EVENT\_0145 and EVENT\_0150 pattern\), ordinary classmates, an expert collaborator with bounded authority \(Ohara, Tom, Sakaki\), or an unfamiliar performer in a production; Emu-specific conduct and a transfer to a comparable new colleague are separate, lower-confidence conditions.; settings A new staging, filming, device or performer-coaching problem, or an ordinary friendship situation, matched in knowledge and stakes to the located cases \(D1-D2\).; No universal safety, hidden psychological causes, built versions of proposed inventions, global professional outcomes or complete SEKAI mechanics \(D3-D4\).; Undated My SEKAI behavior is not placed in a dated state.
+  - `MUNDANE_SOCIAL` condition: Ordinary friends and classmates as sampled: shared interests, joking and valued time without a show objective, with a possible turn toward an idea.
+  - `MUNDANE_SOCIAL` condition: A companion's insistence on leisure can prevail over his device plans \(EVENT\_0217\); fatigue and fan excitement are attested.
+  - `MUNDANE_SOCIAL` condition: No invented daily routine, frequency or domestic detail; My SEKAI exchanges stay undated.
+  - `ETHICAL_DELIBERATION` condition: Advising a friend about the friend's own uncertain choice: ask whether they want to talk, decline to decide for them, qualify the fit of his own experience, and separate what he knows from what he hopes \(EVENT\_0145, EVENT\_0150\).
+  - `ETHICAL_DELIBERATION` condition: Retrospective appraisal of his own completed intervention: admit uncertainty about the method, name a possible harm, apologize where he used someone's feelings, and keep thanks distinct from prior permission \(card 1283, EVENT\_0200\).
+  - `ETHICAL_DELIBERATION` condition: Never resolve a prospective consent-versus-result production dilemma in one direction; present the attested range.
+  - `PROFESSIONAL_CONTEXT` condition: Troupe and film production as sampled: diagnose what the desired experience requires, learn the medium's constraints, accept a collaborator's better solution and credit contributions \(EVENT\_0119, EVENT\_0152, EVENT\_0200\).
+  - `PROFESSIONAL_CONTEXT` condition: Performer coaching includes both precise permission-seeking direction and emotional manipulation before informed agreement; model whether he obtains consent rather than assuming it.
+  - `PROFESSIONAL_CONTEXT` condition: No Wonder! casting result, permanent career trajectory, mastery claim from a mixed-reception piece, or working version of a proposed device.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `diagnosis-exceeds-knowledge` (evidence-backed limitation): His main-story criticism identifies a real collaboration failure but overreaches about Tsukasa's whole motive and future; his diagnosis of performers can exceed what he has learned.
+  - `emu-thin` (evidence gap): Rui's current-state conduct with Emu is sketched in one monograph sentence with no register row, and a new conflict with her is unsampled in the admitted set.
+  - `gratitude-not-consent` (evidence-backed limitation): Nene's later thanks do not show the EVENT\_0185 pressure was necessary or safe, and Rui says it could have worsened her state; Nagamine's thanks after EVENT\_0200 are not prior permission.
+  - `intervention-mode-open` (evidence-backed limitation): For a new high-pressure performer scene the evidence attests restraint, permission-seeking coaching and unconsented pressure or provocation, and the model explicitly declines to select one; polite wording alone does not decide among them.
+  - `knowledge-partition` (evidence-backed limitation): The EVENT\_0211 account reaches Saki, Toya, Mizuki and Interstice KAITO, not automatically the troupe; El's father's illness reaches him with Tsukasa and Nene, not Emu; he lacks Tsukasa's recovered anger; Nagamine's fuller account arrives after the provocation.
+  - `middle-school-history-mixed` (evidence-backed limitation): EVENT\_0211 shows he refused an offered compromise and Mizuki reports a prank that injured a caretaker; past exclusion is real but does not make him innocent in every conflict.
+  - `mysekai-undated` (evidence-backed limitation): The My SEKAI exchanges supply ordinary contrasts without a secure date and establish no placement in the default state or a dated milestone.
+  - `no-performed-voice` (evidence-backed limitation): The textual register observations do not certify performed delivery; no audiovisual inference substitutes for inspected text.
+  - `performed-role-speech` (evidence-backed limitation): In the EVENT\_0200 filming, 「祖父」／「拓海」 belong to performed roles and parenthesized planning is private thought; neither is ordinary conversation.
+  - `professional-outcomes-open` (evidence-backed limitation): Wonder! casting, permanent professional outcomes and universal repeatability are open; the EVENT\_0172 workshop piece had mixed reception and does not establish mastery.
+  - `proposals-not-devices` (evidence-backed limitation): The invisibility cloak and the motor and sound-sensor ideas are proposals, the EVENT\_0217 drone stays unused, and he says he cannot explain or reproduce the SEKAI doorway.
+  - `return-not-authorized` (evidence-backed limitation): His return to the company followed seizure and transport after refusal; his later choice to resume directing does not retroactively authorize the means.
+  - `safeguard-not-implemented` (evidence-backed limitation): The EVENT\_0208 wish to prevent another such state is a commitment, not a demonstrated protective system; he warned and deferred before intervening.
+  - `uncurated-intermediate-states` (evidence gap): States between milestones, Generation 1 through EVENT\_0140, the event readings, historical ledger states, the subject's evidence index, the supplemental scene audit and the execution record are not curated on this row.
+- Evidence at basis commit:
+  - [`project-sekai:rui@game#reviewed-model-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/51d0e99d78a1f60d8d1551a03c58f8e7291e2b27/series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_RECONSTRUCTION_MODEL.md)
+  - [`project-sekai:rui@game#reviewed-monograph-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/51d0e99d78a1f60d8d1551a03c58f8e7291e2b27/series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_CHARACTER_MONOGRAPH.md)
+  - [`project-sekai:rui@game#reviewed-shared-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/51d0e99d78a1f60d8d1551a03c58f8e7291e2b27/series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
+
 ### Subject `project-sekai:tsukasa@game`
 
 - Registry file: [`characters/reconstruction_capabilities/project-sekai/tsukasa@game.jsonl`](../reconstruction_capabilities/project-sekai/tsukasa@game.jsonl)
+
+<a id="project-sekai-tsukasa-game-generation-2-package-20261116-02"></a>
+
+#### Assessment `project-sekai-tsukasa-game-generation-2-package-20261116-02`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `project-sekai:tsukasa`
+- Scope: continuity `project-sekai-game`
+- Source boundary: Only the subject's three curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical V1 Wonderlands×Showtime main-story causal synthesis \(Japanese wonder\_01\_00-wonder\_01\_20 at the EVENT\_0213 lock\), and the canonical Generation 2 Tsukasa monograph and reconstruction model through EVENT\_0222 at the PJSK\_SOURCE\_20261030T035133Z\_EVENT\_0222 lock, located by story, event, card, area and My SEKAI locators; the My SEKAI material remains undated conditional-encounter evidence. Speech is the original-Japanese textual register; no performed voice or audiovisual analysis is admitted. The project reconstruction method and the WxS textual-register remediation audit \(Tsukasa scene tests T1-T6\) were read only as method context and calibration; the uncurated evidence index, event readings, ledgers and Generation 1 files are not curated on this subject and no claim rests on them. The model's R4 readiness label is project-local and was not adopted. No primary source was inspected.
+- Temporal boundary: Tsukasa from the main story through EVENT\_0222. Default state: after the EVENT\_0208 cohosted production and its card \(card 1410\), with EVENT\_0178's recipient relation and the EVENT\_0113 and EVENT\_0136 role and body methods retained; EVENT\_0217 adds an offered Wonder! audition only and EVENT\_0218 an ordinary older-brother preference. Earlier states are used only at the milestones the items locate \(main-story formation and repair; EVENT\_0113, 0136, 0160, 0178, 0208\); states between them rest on ledger snapshots that are not curated here. My SEKAI encounters, including 13\_8663 and 13\_8664, and some area encounters have no securely inferred date; the My SEKAI cases are not assigned to the post-EVENT\_0208 default state or any dated milestone. The boundary limits evidence, not knowledge: he holds the recovered childhood anger from EVENT\_0208 on, while Saki and the troupe do not receive it.
+- Basis commit: `58340ff57a3ae0e5f7b3d97996ba9ad47cc24d4a`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `6b245a574431fe0fd768702d041c103f0bfa3f723036b4d8c581d720205ba0a5`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative written-Japanese lines only, never presented as quotation; select state, recipient, information and aim before wording.
+  - `DIALOGUE` condition: Use the register table's observed alternatives under the historical state, recipient, available information and immediate aim jointly. 「僕」 and 「オレ」 are both attested; the single early deferential 「僕」 is not a frequency rule, 「オレ」 is not invariant, and addressee alone does not select a pronoun. No later developmental origin for politeness is inferred.
+  - `DIALOGUE` condition: Exclude acted-role speech and remembered childhood speech from his present-day voice; no performed voice, loudness or timing.
+  - `DIALOGUE` condition: Keep My SEKAI register observations, including 13\_8663 and 13\_8664, as undated conditional encounters; do not assign them to the default state or a dated milestone.
+  - `CROSS_SCENARIO` condition: Ask which audience, role and person he believes he must reach; separate research, imagined scene, childhood memory and staged fiction.
+  - `CROSS_SCENARIO` condition: Predict both disciplined method and the risk that urgency displaces it; never infer that a successful result proves the preparation safe.
+  - `CROSS_SCENARIO` condition: Give his response to a companion's intervention as initial resistance, possible reception and retained disagreement, not a guaranteed safeguard.
+  - `CROSS_SCENARIO` condition: Exclude the undated My SEKAI cross-unit acquaintance class \(13\_8663 and 13\_8664\) from this dated CROSS\_SCENARIO claim; its ordinary encounters remain separately undated under DIALOGUE and MUNDANE\_SOCIAL.
+  - `CROSS_SCENARIO` bounds: chronology The post-EVENT\_0208 default state through EVENT\_0222, with the recovered childhood anger known only to him and the Wonder! audition unresolved; or a located earlier milestone with its own knowledge state. Undated My SEKAI encounters establish no placement in either chronology and are excluded from this dated scope.; interlocutor Wonderlands×Showtime companions \(Emu, Nene, Rui\), Saki, a craft instructor or director whose authority covers one problem, Wonderland Len in a located dated encounter; transfer to an unsampled relationship is a separate, lower-confidence condition.; settings A new acting, production or stage-craft problem, or a family interaction, matched in knowledge and stakes to the located cases \(D1-D2\).; No clinical interpretation, permanent career outcome, audition result, Asahi history or universal safety prediction \(D3-D4\).; Textual Japanese register only; no performed voice.
+  - `MUNDANE_SOCIAL` condition: Settings sampled: familiar troupe company, family time with Saki, low-stakes cross-unit My SEKAI contact, Wonderland Len, travel with the quartet.
+  - `MUNDANE_SOCIAL` condition: Helpful initiative and confident misreading are both plausible; small corrections are taken without a wounded-pride crisis.
+  - `MUNDANE_SOCIAL` condition: Treat My SEKAI cross-unit contact \(13\_8663 with Mafuyu; 13\_8664 with Mizuki\) only as undated conditional encounters. Do not import these observations into the post-EVENT\_0208 default state or any dated milestone; date the other sampled settings only where their own locators support it.
+  - `PROFESSIONAL_CONTEXT` condition: Stage and acting work with the troupe or a bounded instructor or director, at the default or a located state.
+  - `PROFESSIONAL_CONTEXT` condition: Supported: researching a small role, seeking tailored technique and recovery, responding to a particular listener, accepting craft-limited instruction, overreaching under urgency or immersion.
+  - `PROFESSIONAL_CONTEXT` condition: Not supported: the Wonder! audition outcome, professional career attainment, conduct in an unsampled production hierarchy.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `acted-and-undated-speech` (evidence-backed limitation): Acted-role lines \(EVENT\_0131 Benkei, EVENT\_0185 Breath\) are not his voice, and My SEKAI encounters, including 13\_8663 and 13\_8664, have no securely inferred event date. They support undated conditional ordinary encounters, not a dated default or milestone state, and the cross-unit class is excluded from the dated CROSS\_SCENARIO scope.
+  - `current-troupe-differentiation` (evidence gap): At the default state the curated items do not differentiate how he responds to Emu, Nene and Rui individually beyond their EVENT\_0208 roles.
+  - `immersion-method-unrenounced` (evidence-backed limitation): After EVENT\_0208 he thanks and apologizes to the troupe but explicitly refuses to promise not to use the immersion method again; their retrieval commitment is untested.
+  - `intermediate-states-uncurated` (evidence gap): States between the located milestones rest on ledger snapshots and a Generation 1 file that are not curated on this subject.
+  - `no-performed-voice` (evidence gap): Speech evidence is original-Japanese text; performed voice, timing and loudness are not analysed.
+  - `no-romance-evidence` (evidence gap): No curated item addresses romance.
+  - `open-future-events` (evidence-backed limitation): The Wonder! audition is offered, not won; Asahi's absence and unanswered messages remain unexplained; the family dinner after card 1410 is future within the scene.
+  - `private-anger-undisclosed` (evidence-backed limitation): The recovered childhood anger is known only to him; Saki and the troupe do not receive it, and the child's reading of his parents is not an established parental intention.
+  - `repair-not-consent` (evidence-backed limitation): The main-story repair used chasing and transport; his apology renews the relationship but is not retrospective consent, and success in one production does not prove its methods safe.
+- Evidence at basis commit:
+  - [`project-sekai:tsukasa@game#reviewed-model-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/58340ff57a3ae0e5f7b3d97996ba9ad47cc24d4a/series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_RECONSTRUCTION_MODEL.md)
+  - [`project-sekai:tsukasa@game#reviewed-monograph-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/58340ff57a3ae0e5f7b3d97996ba9ad47cc24d4a/series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_CHARACTER_MONOGRAPH.md)
+  - [`project-sekai:tsukasa@game#reviewed-shared-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/58340ff57a3ae0e5f7b3d97996ba9ad47cc24d4a/series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
+- Supersedes: `project-sekai-tsukasa-game-generation-2-package-20261116-01`
 
 <a id="project-sekai-tsukasa-game-generation-2-package-20261116-01"></a>
 
 #### Assessment `project-sekai-tsukasa-game-generation-2-package-20261116-01`
 
-- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Recorded status: `SUPERSEDED` — historical record; replaced by a successor assessment
 - Entity: `project-sekai:tsukasa`
 - Scope: continuity `project-sekai-game`
 - Source boundary: Only the subject's three curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical V1 Wonderlands×Showtime main-story causal synthesis \(Japanese wonder\_01\_00-wonder\_01\_20 at the EVENT\_0213 lock\), and the canonical Generation 2 Tsukasa monograph and reconstruction model through EVENT\_0222 at the PJSK\_SOURCE\_20261030T035133Z\_EVENT\_0222 lock, located by story, event, card, area and My SEKAI locators. Speech is the original-Japanese textual register; no performed voice or audiovisual analysis is admitted. The project reconstruction method and the WxS textual-register remediation audit \(Tsukasa scene tests T1-T6\) were read only as method context and calibration; the uncurated evidence index, event readings, ledgers and Generation 1 files are not curated on this subject and no claim rests on them. The model's R4 readiness label is project-local and was not adopted. No primary source was inspected.
@@ -22,7 +180,7 @@ Recorded assessments of subjects in the `project-sekai` namespace of the [Charac
 - Basis commit: `6fca4fab304d77d2c3d448e67b995fea480c37b0`
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `6b245a574431fe0fd768702d041c103f0bfa3f723036b4d8c581d720205ba0a5`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
-- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Overall tier: historical `B` — strong inferential model with explicit bounded uncertainty
 - Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
   - `DIALOGUE` condition: Illustrative written-Japanese lines only, never presented as quotation; select state, recipient, information and aim before wording.
   - `DIALOGUE` condition: Recipients and modes from the register table; 「僕」 and 「オレ」 both available, chosen by addressee, not by a developmental rule.
@@ -51,3 +209,4 @@ Recorded assessments of subjects in the `project-sekai` namespace of the [Charac
   - [`project-sekai:tsukasa@game#reviewed-model-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6fca4fab304d77d2c3d448e67b995fea480c37b0/series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_RECONSTRUCTION_MODEL.md)
   - [`project-sekai:tsukasa@game#reviewed-monograph-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6fca4fab304d77d2c3d448e67b995fea480c37b0/series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_CHARACTER_MONOGRAPH.md)
   - [`project-sekai:tsukasa@game#reviewed-shared-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6fca4fab304d77d2c3d448e67b995fea480c37b0/series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
+- Superseded by: `project-sekai-tsukasa-game-generation-2-package-20261116-02`

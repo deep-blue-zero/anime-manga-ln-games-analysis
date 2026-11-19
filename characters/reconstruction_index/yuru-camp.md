@@ -6,6 +6,53 @@ Recorded assessments of subjects in the `yuru-camp` namespace of the [Character 
 
 ## Recorded assessments
 
+### Subject `yuru-camp:kagamihara-nadeshiko@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/yuru-camp/kagamihara-nadeshiko@manga.jsonl`](../reconstruction_capabilities/yuru-camp/kagamihara-nadeshiko@manga.jsonl)
+
+<a id="yuru-camp-kagamihara-nadeshiko-manga-document03-20261116-01"></a>
+
+#### Assessment `yuru-camp-kagamihara-nadeshiko-manga-document03-20261116-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `yuru-camp:kagamihara-nadeshiko`
+- Scope: continuity `yuru-camp-manga`
+- Source boundary: Only yuru-camp:kagamihara-nadeshiko@manga\#reviewed-synthesis-document03, the active\_provisional Document03 synthesis of Kagamihara Nadeshiko \(Japanese main manga V01-V19\) at basis\_commit, read in full as reviewed repository analysis. The project's corpus map, analytical method and character reconstruction specification were read for method, authority and scope only; the specification's statement that no subject has a readiness determination is an input, not a conclusion. The volume readings, the five longitudinal ledgers, Documents02 and 04-06, 10 and 12, the checkpoints and the Japanese source images are not curated evidence on this subject, and nothing is borrowed from them. No anime, anthology or post-V19 material is included, and the evaluator inspected no primary source.
+- Temporal boundary: Japanese main manga V01-V19 as read through the six checkpoints and the V19 transaction, with the dated post-V19 complements placed in their V04-V07 and V13 story epochs. States are split at the located transitions: the V01 repaired invitation, V04-V05 work, the V06 counsel request, the V07 solo trip, the V16-V17 Gunma journey and the V19 household reunion. The V16 spring special is placed before the Gunma chapters, and bonus-strip chronology is not fixed. No default state is set, and no state after V19 is established.
+- Basis commit: `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `bc7e55c884c1ac94dee0f6427dddc53372d3ca6bfad74c83b9af5d43021c6d19`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `DIALOGUE` condition: Illustrative Japanese only, never quotation, in short turns whose purpose and recipient are fixed before wording \(an optional invitation, thanks, a hedge, an admission of error, a request for counsel, a playful host offer, an acknowledgment\).
+  - `DIALOGUE` condition: Register follows the attested relation: familiar with Rin \(Shima Rin\), Ena \(Saitō Ena\), Aoi \(Inuyama Aoi\) and Ema \(Mizunami Ema\); energetic polite forms to workplace adults and residents; playful elderly-host diction with children; plain warmth and apology within the family.
+  - `DIALOGUE` condition: Energy does not imply confidence in the underlying fact, and a polite form among friends does not imply distance.
+  - `DIALOGUE` condition: Main-story speech is kept apart from bonus-strip and fantasy modes; no self-reference rule, frequency claim, sustained conflict, formal setting, lengthy workplace exchange or extended negative affect.
+  - `CROSS_SCENARIO` condition: A bounded novel outing, meal or visit in one selected state, with a sampled companion and stated material conditions.
+  - `CROSS_SCENARIO` condition: The response is given as a range: proposing or joining activity, contributing food or a plan, asking or accepting help, revising after a mismatch, and the real possibility of a planning error, missed information or fatigue.
+  - `CROSS_SCENARIO` condition: Other people's contributions \(driving, cooking, consent, knowledge\) stay theirs, and recovery after a setback names its object.
+  - `CROSS_SCENARIO` bounds: chronology One explicitly selected state, and nothing later: before the V07 solo trip \(no solo experience; V05 delivery work and V06 counsel request only\), after V07 \(actual solo experience, mixed appraisal and the wish to alternate\), the V16-V17 Gunma journey with Ena \(Saitō Ena\) and Ema \(Mizunami Ema\), or after the V19 household reunion. V19 is not the manga's ending.; interlocutor Rin \(Shima Rin\), Ena, Aoi \(Inuyama Aoi\), Ema, Ayano \(Toki Ayano\) or a family member \(Sakura \(Kagamihara Sakura\), mother, father\) in their sampled roles. Chiaki \(Ōgaki Chiaki\) and Mei \(Nakatsugawa Mei\) only within sampled exchanges. Strangers at a campsite are sampled once \(V07\); a comparable stranger is a separate, lower-confidence transfer.; settings Camping, rail, bus and walking travel, cooking experiments, household hospitality and short-term errands in a realistic contemporary Japanese setting with stated money, transport, timetables, services and fatigue; Outputs are ranges with alternatives; the evidence does not say when an interest will be acted on rather than left a wish; No sustained interpersonal conflict, romance, ethical dilemma, formal institutional setting or lengthy workplace exchange, and no setting or technology absent from the V01-V19 manga
+  - `MUNDANE_SOCIAL` condition: Sampled ordinary classes only: campsite cooking and food experiments, shared and solo camping, rail and walking travel, delivery errands, gear desire against price, family logistics and hosting guests at home, messaging and telephone contact.
+  - `MUNDANE_SOCIAL` condition: Solo and group modes are both positive options for her; the solo preference adds to group life rather than replacing it.
+  - `MUNDANE_SOCIAL` condition: Money, timetables, services, fatigue and other people's knowledge stay in force, and she can misplan, misjudge or fall asleep.
+  - `MUNDANE_SOCIAL` condition: Wages, household finances, school life and lengthy workplace exchanges are outside these conditions.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` B; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` D; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` B; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `analysis-extracted-strands` (evidence-backed limitation): 22 older observations keep ANALYSIS\_EXTRACTED status, including the V03 lamp and remote-participation strands, broad Oigawa logistics, the V12 listener episode and the V14 opening with Ema \(Mizunami Ema\); other reading-level details, such as the V01 club joining, also keep analytical status. They support the account at analytical strength only.
+  - `consequential-planning-errors` (evidence-backed limitation): Her planning errors have consequences for routes, timing, money and what companions must do \(the missed bus, the missed museum event, the wrong turn, the registration deadline\). Recovery, when it comes, is contingent on other people and services.
+  - `distributed-hospitality` (evidence-backed limitation): Hospitality is distributed: her father cooks the V19 meal, Sakura \(Kagamihara Sakura\) drives, her mother consents, her grandmother provides, and Aoi \(Inuyama Aoi\) leads the Christmas dinner. Nadeshiko \(Kagamihara Nadeshiko\) organizes and hosts without being the source of everything.
+  - `genre-rival-substantial` (evidence-backed limitation): The rival explanation that many patterns follow from camping subject matter, episodic comedy and ensemble structure remains substantial; actor-specific exchanges support the character account without settling that rival.
+  - `influence-not-authorship` (evidence-backed limitation): Her encouragement shapes the V07 girl's wish, not an enacted trip; Ema's \(Mizunami Ema's\) repeat request is not membership; and Mei's \(Nakatsugawa Mei's\) joining and the V15 advice to Ema belong to others.
+  - `knowledge-is-actor-specific` (evidence-backed limitation): Nadeshiko \(Kagamihara Nadeshiko\) does not know Rin's \(Shima Rin's\) private praise, Ema's \(Mizunami Ema's\) unspoken doubts, Ayano's \(Toki Ayano's\) dream, or that Rin and Sakura \(Kagamihara Sakura\) checked on her V07 trip.
+  - `mode-separation` (evidence-backed limitation): Bonus strips, fantasy images and other characters' dreams of her do not add real events, jobs, abilities or knowledge, and the V19 food-credibility hoax is a bonus-strip case, not evidence of habitual dishonesty in the main story.
+  - `no-validation` (evidence gap): No in-sample or held-out probe of a model of Nadeshiko \(Kagamihara Nadeshiko\) exists.
+  - `pattern-not-prediction` (evidence-backed limitation): Turning interest into revisable activity has moderate confidence and is explicitly not a prediction that every curiosity will be acted on or every plan repaired. The evidence does not say when an interest becomes action rather than a wish.
+  - `sustained-conflict-and-ethics-gap` (evidence gap): Sustained interpersonal conflict and ethical deliberation are not sampled in this low-conflict corpus. This is a gap, not evidence that she cannot argue or reason morally.
+  - `v19-provisional-horizon` (evidence-backed limitation): The evidence is an active\_provisional synthesis through the Japanese main manga V19, the end of the authorized reading run and not the manga's ending. No state after V19 is established, and the anime and anthologies are excluded.
+  - `voice-not-census` (evidence-backed limitation): The Japanese samples are tied to recipients but are not a census. Self-reference, sustained conflict, unfamiliar formal settings, lengthy workplace exchanges and negative affect are undercovered.
+- Evidence at basis commit:
+  - [`yuru-camp:kagamihara-nadeshiko@manga#reviewed-synthesis-document03`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/51d0e99d78a1f60d8d1551a03c58f8e7291e2b27/series/yuru-camp/05%20Full-Series%20Synthesis/03_KAGAMIHARA_NADESHIKO_CHARACTER_VOICE_CURIOSITY_AND_HOSPITALITY.md)
+
 ### Subject `yuru-camp:shima-rin@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/yuru-camp/shima-rin@manga.jsonl`](../reconstruction_capabilities/yuru-camp/shima-rin@manga.jsonl)

@@ -3,7 +3,7 @@ title: "A Certain Scientific Railgun — Claims, counterreadings and form"
 artifact_id: RG_CLAIMS_AND_FORM
 artifact_type: claim_revision_and_form_register
 series: a-certain-scientific-railgun
-version: "1.0"
+version: "1.1"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 authority_scope: initial_project_design_only
@@ -38,5 +38,7 @@ Current Form/register rows: **none**.
 ## Transaction, freeze and amendment
 
 Each accepted unit records exact source coverage, full reading path, State changes, Claims transitions, Form/register entries, reconstruction-coverage implications, gaps and reviewer disposition. Every required home is updated or explicitly reviewed/no-supported-change. A finished reading with pending required updates is incomplete. Stable IDs and full reasoning survive transfers; a checkpoint summary cannot replace them.
+
+In that transaction, identify the principal, specialist and reviewer, their contexts (each separate from the principal's; a reduced configuration names its one shared specialist/reviewer context), assignments, actual exposure and inspected page/panel routes. Preserve each material finding and its evidence, rival or correction, any remaining debt, and the principal's grounds for adoption, qualification, rejection or an open decision. Link affected `RG-S` states, `RG-C` claim versions and full reading arguments. Record the reason for any reduced configuration and actual settings where known.
 
 Preserve frozen readings and earlier state/claim versions. Correct by linked errata or a superseding generation with reciprocal authority metadata. If a recurring dimension needs independent retrieval beyond these sections, record the source-earned rationale, preserve all rows/IDs and add a crosswalk during architectural amendment. Do not create a specialist folder merely for symmetry.

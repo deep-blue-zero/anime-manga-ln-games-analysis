@@ -6,6 +6,107 @@ Recorded assessments of subjects in the `chiramune` namespace of the [Character 
 
 ## Recorded assessments
 
+### Subject `chiramune:asuka-nishino@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/chiramune/asuka-nishino@light-novel.jsonl`](../reconstruction_capabilities/chiramune/asuka-nishino@light-novel.jsonl)
+
+<a id="chiramune-asuka-nishino-light-novel-asuka-monograph-20261117-01"></a>
+
+#### Assessment `chiramune-asuka-nishino-light-novel-asuka-monograph-20261117-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `chiramune:asuka-nishino`
+- Scope: continuity `chiramune-light-novel`
+- Source boundary: Only chiramune:asuka-nishino@light-novel\#reviewed-dedicated-analysis, the active\_provisional generation V1.2 cumulative monograph CHIRAMUNE\_ASUKA\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the original Japanese light novels: main Volumes 01-09 and every admitted narrative supplement it integrates through Volume 09.5 \(the V05 special-edition booklet, V06.5, Days of Endless Summer and Volume 09.5\). The V08 rough-illustration collection is excluded by the monograph as production paratext. V01-V02 enter only as Saku's and Yuzuki's witness; V04 and Volume 09.5 supply no Asuka focalization. The Chiramune readings, longitudinal ledgers, specialist syntheses and other character monographs that also analyze Asuka are not curated on this subject and were not used. The monograph's active\_provisional status and its own current-model statements are inputs, not conclusions. The evaluator performed no primary-source inspection.
+- Temporal boundary: The base model is the V03 promotion model \(direct childhood focalization in chapter 4, family conflict, the Tokyo trip and decision, with paragraph-range locators\), followed by located revisions for V04 \(no Asuka focalization; Saku's category reopened\), V05 main, the V05 special edition \(including a V02-associated riverside scene placed before V03\), V06, V06.5, V07, V08 main, V09, Days of Endless Summer and Volume 09.5 \(family and institutional context only, no new Asuka state\). The monograph's sections are not in reading order \(V09 and Days of Endless Summer precede V08 main, V06.5 and V07\), and its opening scope paragraph still calls it V04-bounded while the front matter and later sections extend to Volume 09.5; each section's current model is bound to its own boundary. Her childhood summers with Saku are her knowledge at every state; Saku learns her childhood identity only at V03 p-0032. Later states never revise earlier located behavior.
+- Basis commit: `1659818b852648bdfa7718154049877130c981eb`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `86d0e8af7b59be3fb2e1e0d042f2ed49edabd2db7b5315c2b165fc353ad087b1`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: Chronology is one named boundary state: V03 \(split at the Tokyo trip between pre-trip compliance and withdrawal at p-0022 and the post-return argued decision at p-0032\), V05 main, V06, V06.5, V07 \(split between the riverbank outburst at part0020 and the apology at part0022\), V08 main, V09 or post-Days of Endless Summer; default post-Days of Endless Summer, which Volume 09.5 leaves unchanged. Earlier states do not import later corrections, such as V06.5 listening or V08 lateral responsibility.
+  - `CROSS_SCENARIO` condition: Her childhood summers with Saku are her knowledge at every state; before V03 p-0032 Saku does not know her childhood identity.
+  - `CROSS_SCENARIO` condition: The interlocutor is Saku, her father, Kuranosuke, Yua, Momiji, Haru, Yuzuki, her grandmother, the located editors or Okuno. Her mother is not modeled; transfer to an unsampled peer or adult is a separate, lower-confidence condition handled without invented history.
+  - `CROSS_SCENARIO` condition: The situation is a decision about her future under family or partner pressure, editorial or interview practice, group membership and repair, finite shared time before departure, or a threat to a place or relation she treats as special.
+  - `CROSS_SCENARIO` condition: Reliance on others in Tokyo, a self-originated request to Saku for finite company, Saku's selection and any couple form are output as open forks, never resolved.
+  - `CROSS_SCENARIO` condition: Output is behavioral description, not quoted dialogue.
+  - `CROSS_SCENARIO` bounds: chronology One named monograph boundary state, defaulting to post-Days of Endless Summer; earlier states only when selected, without importing later development; Volume 09.5 and Days of Endless Summer retrospective material are context, not later states.; interlocutor Saku as childhood formative partner, admired junior and unanswered beloved; her father as overreaching then supporting parent; Kuranosuke as provisional adult ally; Yua and Momiji as friend and repaired rival-ally; Haru and Yuzuki as rivals; editors as correcting mentors; an unsampled peer or adult only at lower confidence.; settings Fukui high-school and family life, local travel and the Tokyo research trip as located; Pre-vocational editorial practice: observation, practice interviews and mediation; No Tokyo residence, university, employment or editorial placement; No selection, couple status or Saku-side romantic declaration; Reliance and finite-request forks end in abstention
+  - `MUNDANE_SOCIAL` condition: Reading, local food and travel, group outings, the market outing and cooking learned from Yua, and peer-group teasing, using the section 10 profile and the located V05, V06, V08 and V09 scenes.
+  - `MUNDANE_SOCIAL` condition: The left-ear code, the riverbank and the roof carry meaning as shared history, never as ownership.
+  - `MUNDANE_SOCIAL` condition: Daily home routine, schoolwork detail and Tokyo life are not invented.
+  - `ETHICAL_DELIBERATION` condition: Restricted to the located positions: dependence versus decision authority, guarantees versus ownership, interpretation versus another's expression, compromise of destination for proximity, non-possession of places and people, and lateral duties within the group.
+  - `ETHICAL_DELIBERATION` condition: Each position is used at its own boundary state; the pre-V06.5 fluent overreach and the pre-V08 outsider stance remain available when those states are selected.
+  - `ETHICAL_DELIBERATION` condition: A novel moral dilemma outside these positions is output as an open fork.
+  - `ROMANCE_RELATIONSHIP` condition: Her side only: love named at V03, the deliberate V05 beach reveal, the V06 withheld stake to remain his moon, the V07 riverbank reliance, and the Days of Endless Summer refusal of Okuno because she loves Saku.
+  - `ROMANCE_RELATIONSHIP` condition: Saku's side is limited to his located attraction, prior love language and V04 categorical uncertainty; no matching current love, selection, exclusivity or couple is invented at any boundary.
+  - `ROMANCE_RELATIONSHIP` condition: She is never made the unnamed girl of Saku's later refusal.
+  - `PROFESSIONAL_CONTEXT` condition: Pre-vocational editorial practice only: observing a Tokyo editor \(V03 p-0029 p0507-p0558\), the failed URALA practice interview and its correction \(V065 p-0021\), the local editors' methods \(V065 p-0023\), studying the failed interview and mediating a child's reading at AKUSHU \(DES p-0044, p-0050\).
+  - `PROFESSIONAL_CONTEXT` condition: Listening after correction is used only from V06.5 on; earlier states may overwrite the speaker.
+  - `PROFESSIONAL_CONTEXT` condition: University study, employment, editorial placement, hierarchy and career outcomes are not modeled.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `childhood-escape-not-template` (evidence-backed limitation): The childhood festival escape is marked liberating and unsafe; it is not a model of ideal autonomy to generalize.
+  - `mother-unreconstructed` (evidence-backed limitation): The monograph explicitly declines a detailed model of her mother and forbids inferring equal responsibility from her father's dominance.
+  - `no-dyadic-momiji-repair` (evidence-backed limitation): Asuka and Momiji repair at group level \(V09\) and form a lateral alliance \(Days of Endless Summer\), but no direct conversation about the riverbank or Momiji's concealed purpose is shown.
+  - `no-selection-no-couple` (evidence-backed limitation): At every boundary through Volume 09.5 Asuka's love is named but Saku answers with attraction, prior love language and V04 categorical uncertainty; no selection, exclusivity or couple forms, and no evidence identifies her as Saku's unnamed girl.
+  - `reliance-fork-open` (evidence-backed limitation): Every watchlist from V03 to Volume 09.5 leaves open whether she can rely on others or ask Saku for finite company without reading it as failed independence; located acceptance of help is Fukui-bound and leaves authorship with her.
+  - `single-provisional-artifact` (evidence gap): The evidence is one active\_provisional V1.2 monograph whose sections are out of reading order; no linked reading, ledger, synthesis or held-out validation is curated on this subject. Missing support is not evidence of absence.
+  - `tokyo-non-operational` (evidence-backed limitation): Through Volume 09.5 Tokyo remains a chosen direction without housing, transport, study, work, editorial placement or communication planning; her Tokyo life must not be invented.
+  - `voice-unmodeled` (evidence gap): No register, address inventory or speech-style analysis exists in this evidence set beyond recurring verbal practices and a few quoted forms.
+  - `witness-filter-v01-v02` (evidence-backed limitation): V01-V02 present Asuka only through Saku's and Yuzuki's witness, which the monograph treats as evidence of their projection and her relational effect rather than her total character.
+- Evidence at basis commit:
+  - [`chiramune:asuka-nishino@light-novel#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1659818b852648bdfa7718154049877130c981eb/series/chiramune/04%20Character%20Analysis/Asuka%20Nishino/CHIRAMUNE_ASUKA_CHARACTER_MONOGRAPH.md)
+
+### Subject `chiramune:haru-aomi@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/chiramune/haru-aomi@light-novel.jsonl`](../reconstruction_capabilities/chiramune/haru-aomi@light-novel.jsonl)
+
+<a id="chiramune-haru-aomi-light-novel-haru-monograph-20261117-01"></a>
+
+#### Assessment `chiramune-haru-aomi-light-novel-haru-monograph-20261117-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `chiramune:haru-aomi`
+- Scope: continuity `chiramune-light-novel`
+- Source boundary: Only chiramune:haru-aomi@light-novel\#reviewed-dedicated-analysis, the active\_provisional generation V1.0 cumulative monograph CHIRAMUNE\_HARU\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the original Japanese light novels: main Volumes 01-09 and the admitted narrative supplements it integrates \(the V05 special-edition booklet, V06.5 and Days of Endless Summer\). The V08 rough-illustration collection is excluded by the monograph as production paratext and Volume 09.5 is unopened. The Chiramune readings, longitudinal ledgers, specialist syntheses and other character monographs that also analyze Haru are not curated on this subject and were not used. The monograph's active\_provisional status and its own current-model statements are inputs, not conclusions. The evaluator performed no primary-source inspection.
+- Temporal boundary: V01-V03 are summarized only in the promotion statement; the base model is bound to V04 \(prologue and epilogue focalization, captaincy crisis, Asuwayama, the kiss\), followed by located revisions for V05 main, the V05 special edition \(including first-year autumn retrospective and a V02-associated story\), V06, V06.5, V07, V08 main, V09 and Days of Endless Summer, with paragraph-range locators for most claims. The monograph's sections are not in reading order \(V09 and Days of Endless Summer precede V08 main and V07\), so each section's current model is bound to its own boundary. Days of Endless Summer stories are retrospective testimony except its single present bridge, which the monograph places as current only after placement. Later states never revise earlier located behavior.
+- Basis commit: `1659818b852648bdfa7718154049877130c981eb`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `19e11538366c269319885ec5da0e80ccd2a0d649025f2fff1580f9de0f0390b3`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: Chronology is one named boundary state: V04 captaincy \(pre- or post-collapse\), V05 main, V06, V06.5, V07 \(pre- or post-repair\), V08 main, V09 or the Days of Endless Summer present bridge; default post-V09. Earlier states do not import later corrections, and the V07 and V08 primacy shocks are not projected backward.
+  - `CROSS_SCENARIO` condition: The interlocutor is Saku, Yuzuki, Momiji, Mai, Coach Misaki, Yuko, Yua, Atomu or the Fujishi teammates as located. Transfer to an unsampled classmate or adult is a separate, lower-confidence condition handled without invented history.
+  - `CROSS_SCENARIO` condition: The situation is athletic practice or competition, partner rivalry, a challenge or wager, support for someone who has lost heat, or a threat to her place beside Saku or Yuzuki.
+  - `CROSS_SCENARIO` condition: Team leadership after V04, unprompted emotional support requests, the enacted challenge to Saku, any romantic selection and her athletic vocation are output as open forks, never resolved.
+  - `CROSS_SCENARIO` condition: Output is behavioral description, not quoted dialogue.
+  - `CROSS_SCENARIO` bounds: chronology One named monograph boundary state, defaulting to post-V09; earlier states only when selected, without importing later development; Days of Endless Summer retrospective stories are history, not later states.; interlocutor Saku as running partner, catch partner and unanswered romantic object; Yuzuki as independently primary partner and fair rival; Momiji as harmed-then-repaired junior and fair rival; Mai and Coach Misaki as athletic superior and mentor; Fujishi teammates at located captaincy states; an unsampled peer only at lower confidence.; settings High-school life: basketball practice and games, catch and running, Asuwayama, group outings; No adult, collegiate, corporate-league or occupational setting; No selection, couple status or Saku-side romantic declaration; Team-governance and support-request forks end in abstention
+  - `MUNDANE_SOCIAL` condition: Food, exercise, catch, running, styling and group outings with sampled interlocutors, using the section 10 profile and the located V05, V06 and Days of Endless Summer routines.
+  - `MUNDANE_SOCIAL` condition: Glove, wristband and Asuwayama carry meaning as practical objects and places, never as ownership of a relationship.
+  - `MUNDANE_SOCIAL` condition: Home, family, schoolwork and solitary leisure are not invented.
+  - `ETHICAL_DELIBERATION` condition: Restricted to the located positions: effort versus guaranteed outcome, a stake versus decision authority, conduct versus inner seriousness, non-entitled future requests, fairness in romance, and love versus sport.
+  - `ETHICAL_DELIBERATION` condition: Each position is used at its own boundary state, including the pre-collapse V04 imposition when that state is selected.
+  - `ETHICAL_DELIBERATION` condition: A novel moral dilemma outside these positions is output as an open fork.
+  - `ROMANCE_RELATIONSHIP` condition: Her side only: repeated direct naming of love, the V04 kiss that leaves the next move to Saku, the V05 challenge protocol and kejime, V06 support below a present request, the V06.5 shot addressed to basketball and \`ダーリン\`, and fair rivalry with Yuzuki and Momiji.
+  - `ROMANCE_RELATIONSHIP` condition: Saku's side is limited to the located support, directed gesture, partner language and agreement not to flee; no matching love, selection, exclusivity or couple is invented at any boundary.
+  - `ROMANCE_RELATIONSHIP` condition: Through Days of Endless Summer the promised challenge is not enacted; she is not given it.
+  - `PROFESSIONAL_CONTEXT` condition: School-sport institutional roles only: Fujishi girls' basketball captain at the V04 states \(mandate, hidden compact, expanded hours, walkout, collapse, admitted dependence\) and ace under Coach Misaki at V08.
+  - `PROFESSIONAL_CONTEXT` condition: Whether post-V04 leadership is transparent or reverts to imposition is output as an open fork.
+  - `PROFESSIONAL_CONTEXT` condition: Recruitment, university, corporate-league and career logistics are not modeled.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `challenge-not-enacted` (evidence-backed limitation): The promised direct romantic challenge and the kejime it waits on remain unenacted and unexplained through Days of Endless Summer; every watchlist carries them open.
+  - `effort-not-victory` (evidence-backed limitation): Mai's structural superiority and the team's later loss are located; effort does not guarantee outcomes and must not be modeled as doing so.
+  - `home-family-absent` (evidence gap): Home, family, schoolwork and solitary leisure are not sampled in this evidence set.
+  - `no-selection-no-couple` (evidence-backed limitation): At every boundary through Days of Endless Summer, Saku answers Haru through support, partner language and a directed gesture, not matching love; no selection or couple forms, and her marriage-and-children imagery is unheard and unadopted.
+  - `saku-focalization-filter` (evidence-backed limitation): Most V04 evidence is filtered through Saku's focalization; the monograph treats his admiration as evidence about the relationship and requires independent conduct to corroborate it.
+  - `single-provisional-artifact` (evidence gap): The evidence is one active\_provisional V1.0 monograph with V01-V03 summarized and Volume 09.5 unopened; no linked reading, ledger, synthesis or held-out validation is curated on this subject. Missing support is not evidence of absence.
+  - `support-requests-prompted` (evidence-backed limitation): Through V09 Haru originates bounded shared tasks, but emotional disclosure is prompted and the V06.5 call is Mai-initiated; self-originated emotional support requests remain untested.
+  - `team-governance-open` (evidence-backed limitation): After V04 no section samples training negotiation, workload accountability, injury protocol or repair of the hidden compact; whether her dyadic consent practice generalizes to team leadership is affirmatively left open.
+  - `voice-unmodeled` (evidence gap): No register, address inventory or speech-style analysis exists in this evidence set beyond a speech-act repertoire and a few quoted forms.
+- Evidence at basis commit:
+  - [`chiramune:haru-aomi@light-novel#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1659818b852648bdfa7718154049877130c981eb/series/chiramune/04%20Character%20Analysis/Haru%20Aomi/CHIRAMUNE_HARU_CHARACTER_MONOGRAPH.md)
+
 ### Subject `chiramune:yua-uchida@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/chiramune/yua-uchida@light-novel.jsonl`](../reconstruction_capabilities/chiramune/yua-uchida@light-novel.jsonl)

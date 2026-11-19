@@ -83,6 +83,12 @@ Writing standalone deep-reading prose without the required cumulative-state upda
 
 Execution scope is separate from analytical architecture. Unless the user explicitly authorizes a bounded continuous run, one request advances one atomic source unit and stops after closeout.
 
+### Japanese reading and review at volume closure
+
+The principal reads the entire authorized numbered volume in Japanese, preserves its entering state and integrates the reading and master-ledger deltas. An independent reader takes the admitted witness before seeing the principal's interpretation and tests a production or knowledge-transfer chain. Trace what Myne knows, what another actor can observe, where materials, labor, money or household status intervene, and whether the proposed technique is actually adopted. Use a side viewpoint when the admitted volume provides one. A separate reviewer checks the consequential Japanese passages and a plausible competing account, including who can speak or act under the relevant institutional constraint. Keep separately numbered supplements and Royal Academy stories at their own admission boundaries.
+
+The deep reading records who covered what, actual Japanese TEXT and any directly inspected STILL_IMAGE, edition, prior exposure, scene locators, independent findings, counterevidence and dissent. The principal records each material disposition and resulting master-ledger change or reason for no change. Assign substantive analysis to reading and review; only an unusually bounded supplement may combine specialist and review duties in one source-aware context separate from the principal. Record the reason and how independent access and critical scrutiny were preserved. At review, compare the integrated account with the evidence returns and restore any consequential detail lost in compression. Hold affected closure if required evidence or independence is unavailable.
+
 ## 5. Day-one longitudinal infrastructure
 
 Before V01, the project initializes one canonical cumulative file:
@@ -120,9 +126,9 @@ This single-file initialization is intentional. A dimension receives a dedicated
 
 ## 7. Character and relationship synthesis
 
-Dedicated character work is expected for subjects whose longitudinal evidence becomes substantial enough to support an independent reconstruction. Creation is evidence-triggered, not cast-list-triggered.
+At Part checkpoints and no later than specialist readiness, assess every subject whose admitted scenes support a differentiated portrait under initiation policy §5.5.1. One concentrated sequence can suffice if independent details converge, behavior varies with circumstances or audience, and counterexamples constrain the interpretation. Record each assessed person's identity, boundary, outcome, grounds, gaps, next trigger and actual path in the character-analysis router. Reassess on material new evidence. Myne and Lutz retain the recorded Part 1 warranted-but-unwritten obligations. Carry all qualifying pending portraits through synthesis and release until substantive individual documents exist under `04 Character Analysis/<Character>/`. Record a monograph-only question check and a separate source-fidelity check before accepting a portrait. Behavioral model readiness has its own evidentiary threshold.
 
-A character earns an independent canonical home when several of the following are true:
+The following features can prompt assessment:
 
 - the model spans multiple source states rather than one local appearance;
 - stable tendencies must be separated from development, role effects, recipient effects, or situational effects;
