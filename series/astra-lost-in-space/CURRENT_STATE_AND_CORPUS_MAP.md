@@ -4,7 +4,7 @@ series: astra-lost-in-space
 artifact_id: CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 generation: ALS-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "Single INITIAL mapped-omnibus route; no narrative authority or owner run"
 source_boundary: "One Japanese 彼方のアストラ 全巻合本版 omnibus EPUB; internal units unverified; no narrative admission or inspection"
@@ -47,6 +47,8 @@ One Japanese 全巻合本版 EPUB is metadata-verified. Its “complete omnibus�
 | [Producer review](ALS_BOOTSTRAP_REVIEW.md) | Transfer scope and next-owner duties |
 
 No synthetic individual EPUBs, readings, dossiers, models, syntheses or simulations exist. Reconstruction remains NOT_READY. Adaptations and other source editions are excluded.
+
+The [standing source-reading configuration](ALS_SYNTHESIS_ARCHITECTURE.md#independent-source-reading) applies at the first separately authorized unit. The reading's ledger-update manifest retains the contribution evidence and its disposition.
 
 Next permitted work: independent foundation review, supported bootstrap corrections, repository validation and authorized source mapping sufficient to define natural units. Narrative reading requires owner-defined exact mapped scope, adequate source/gate verification and consistent OPEN transition. One accessible file does not authorize all later sections.
 

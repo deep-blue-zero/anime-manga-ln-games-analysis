@@ -2,7 +2,7 @@
 title: "Dr. STONE — Checkpoint and Reconstruction Register"
 artifact_id: DS_CHECKPOINT_REGISTER
 artifact_type: checkpoint_reconstruction_register
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: DS-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary or technical findings"
 source_boundary: "Metadata only: Japanese main manga V01–27 plus separate 科学王国事典 fanbook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 ---
 
 # Checkpoint and reconstruction register
@@ -37,6 +37,8 @@ A future operational model is distinct from a monograph and any technical proces
 Genuine held-out predictions freeze before exposure. Independent evaluators use actual diagnostic outcomes, baselines/controls where meaningful and explicit opportunities/confounds. Exposed work is RETROSPECTIVE_CONSISTENCY_TEST. Synthetic solutions/dialogue are never primary or canonical evidence, scientific validation or independent corroboration. Global discovery/readiness outputs belong to designated agents.
 
 ## Closeout and handoff
+
+`DS-TX` carries the [independent reading receipt](DS_SYNTHESIS_ARCHITECTURE.md#independent-source-reading). Record each person's assignment, independent context, actual exposure, inspected material and precise locators. Preserve the material observations, rival explanations, counterexamples, challenges and remaining debts, with the principal's grounds for adopting, qualifying, rejecting or leaving each finding open. Link the full argument and any affected claim revisions. Record observed settings only when known.
 
 Accept complete prose and register changes atomically, verifying actual page/diagram coverage, retrieval, explanation/demonstration/external distinctions, ordinary controls, directed ties, Japanese/form reasoning and bounded name/reference review. Missing pages or updates are not no-change evidence.
 

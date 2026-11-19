@@ -4,7 +4,7 @@ artifact_id: WATAYURI_CURRENT_STATE
 artifact_type: corpus_map
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.15"
+version: "0.16"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -64,6 +64,8 @@ This is the single first-read surface for `series/watayuri/` on the continuing `
 - Publication state: continuing `series/watayuri` branch. V13 is validated at the exact commit above. Merge `bec783419befe635c5c1506360228c680b7fd7d0` reconciled main `1ac5215d216de2451fd3cf0ed667d90ad9df7cde` without changing Watayuri bytes. V14 becomes the published source-branch state on the exact synchronized commit after its successful audit sequence; Git history and exact-head checks record that result. Main acceptance and later completion bookkeeping remain separate verified events. The [bootstrap receipt](07%20Audits%20and%20Handoffs/WATAYURI_BOOTSTRAP_RECEIPT.md) retains the original construction scope.
 
 ## Governing homes and read order
+
+A future authorized volume uses the [standing role and disclosure team](00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md#independent-readings-of-role-and-disclosure). The V14 acceptance and bookkeeping route below governs the present operation.
 
 1. This current-state entrypoint and the [source and scope map](00%20Frameworks%20and%20Methods/WATAYURI_SOURCE_AND_SCOPE_MAP.md).
 2. [Analytical method](00%20Frameworks%20and%20Methods/WATAYURI_ANALYTICAL_METHOD.md) for evidence, prospective freeze, and individual volume operations.
