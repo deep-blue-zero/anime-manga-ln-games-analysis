@@ -8,7 +8,7 @@ generation: INITIAL_BOOTSTRAP
 status: canonical
 scope: "Current entrypoint"
 authority_scope: project_design_active_run_authority_source_boundary_and_corpus_routing
-source_boundary: "TDH-JP-01 bound and admitted for run TDH-RUN-20261116-U01-U15; committed reading high-water mark U02; U03 is the next candidate"
+source_boundary: "TDH-JP-01 bound and admitted for run TDH-RUN-20261116-U01-U15; run completed at terminal boundary U15; no further reading operation"
 last_updated: 2026-11-17
 canonical_home: series/three-days-of-happiness/CURRENT_STATE_AND_CORPUS_MAP.md
 supersedes: []
@@ -27,17 +27,17 @@ project_initialization:
     - TDH_SOURCE_REGISTER.md
     - TDH_LONGITUDINAL_NOTEBOOK.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: U03
+  next_permitted_operation: NONE_RUN_COMPLETE
 sequential_execution:
   run_id: TDH-RUN-20261116-U01-U15
   mode: continuous_sequential
   unit_type: chapter
   authorized_start: U01
   terminal_boundary: U15
-  committed_high_water_mark: U02
-  next_candidate_operation: U03
+  committed_high_water_mark: U15
+  next_candidate_operation: NONE_RUN_COMPLETE
   confirmation_between_units: false
-  run_state: active
+  run_state: completed
 recommended_reasoning_class: SUBSTANTIVE_ANALYSIS
 ---
 
@@ -51,7 +51,7 @@ The method and architecture govern the project. The architecture lifecycle is `I
 
 *Bootstrap record (2026-11-07, superseded as current state on 2026-11-16):* the lock was then closed, no sequential execution existed, every frontier was empty, and the next permitted operation was `NONE_AWAITING_RUN_AUTHORIZATION`.
 
-**SEQUENTIAL_ANALYSIS_LOCK = OPEN** from 2026-11-16, after SRC-01–SRC-04 were resolved in the [source register](TDH_SOURCE_REGISTER.md#admission-resolution-2026-11-16), the multi-agent configuration was recorded, and owner authorization was received. Run `TDH-RUN-20261116-U01-U15` is **active**. Committed reading high-water mark: **U02** (accepted 2026-11-17). Next candidate and next permitted operation: **U03**. The synthesis and reconstruction frontiers are **EMPTY**. An OPEN lock is a precondition for this run's admissions, not authority for any other source.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN** from 2026-11-16, after SRC-01–SRC-04 were resolved in the [source register](TDH_SOURCE_REGISTER.md#admission-resolution-2026-11-16), the multi-agent configuration was recorded, and owner authorization was received. Run `TDH-RUN-20261116-U01-U15` is **completed** (2026-11-17) at its terminal boundary. Committed reading high-water mark: **U15** (accepted 2026-11-17). Next candidate and next permitted operation: **NONE_RUN_COMPLETE**. The completion audit (including the end-paratext dispositions), monograph qualification and the retrospective layer follow under the same owner authorization; they admit no further source unit. The retrospective candidate (completion audit, five bounded character monographs and the novel synthesis) is on PR #623, held awaiting the owner’s release decision; it is not a frozen release. See the [source-dependent corrections and bounded independent reviews](audits/TDH_U15_AUDIT.md#13-source-dependent-correction-and-receiving-review). The sequential run remains completed; the reconstruction frontier is **EMPTY**, and no reconstruction operation is authorized. An OPEN lock is a precondition for this run's admissions, not authority for any other source.
 
 <a id="owner-run-authorization"></a>
 
@@ -105,7 +105,15 @@ All participants are language-model instances and may hold training-derived fami
 | Source identity, limits and admission | [TDH_SOURCE_REGISTER.md](TDH_SOURCE_REGISTER.md) | Bound witness `TDH-JP-01`, admission resolution, `TDH-NORM-v1` locators and the U01–U15 unit map with per-unit states |
 | State, claims and readiness | [TDH_LONGITUDINAL_NOTEBOOK.md](TDH_LONGITUDINAL_NOTEBOOK.md) | Separate named sections for state, claims, form/register, and reconstruction eligibility |
 
-Both supporting records are required day-one infrastructure. At the 2026-11-16 admission they hold source/control facts and empty analytical tables. No character state, narrative claim, reading, checkpoint, monograph or model exists yet.
+Both supporting records are required day-one infrastructure. At the 2026-11-16 admission they held source/control facts and empty analytical tables; they now carry the completed run's records.
+
+| Retrospective layer | Current home | Use |
+|---|---|---|
+| Completion audit and closing gates | [audits/TDH_U15_AUDIT.md](audits/TDH_U15_AUDIT.md) | Coverage, paratext dispositions, reconciliation, contradictions retained, monograph qualification, reconstruction readiness, the six gates |
+| Integrated novel synthesis | [synthesis/TDH_NOVEL_SYNTHESIS.md](synthesis/TDH_NOVEL_SYNTHESIS.md) | The continuous argument about the whole novel, with its retrospective layer and counterreadings |
+| Character monographs | [Kusunoki](studies/TDH_KUSUNOKI_NOVEL_MONOGRAPH.md), [Miyagi](studies/TDH_MIYAGI_NOVEL_MONOGRAPH.md), [Himeno](studies/TDH_HIMENO_NOVEL_MONOGRAPH.md), [Shinbashi](studies/TDH_SHINBASHI_NOVEL_MONOGRAPH.md), [the substitute watcher](studies/TDH_SUBSTITUTE_WATCHER_NOVEL_MONOGRAPH.md) | Self-contained person-level portraits under initiation §5.5.1 |
+
+No checkpoint, separate specialist study, reconstruction model or reader-facing guide exists.
 
 ## Reading corpus
 
@@ -113,6 +121,19 @@ Both supporting records are required day-one infrastructure. At the 2026-11-16 a
 |---|---|---|
 | U01 | [Front matter and chapter 1 「十年後の約束」](readings/TDH_U01_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
 | U02 | [Chapter 2 「終わりの始まり」](readings/TDH_U02_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
+| U03 | [Chapter 3 「三角座りの監視員」](readings/TDH_U03_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
+| U04 | [Chapter 4 「答えあわせといきましょう」](readings/TDH_U04_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
+| U05 | [Chapter 5 「これから起こることすべて」](readings/TDH_U05_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
+| U06 | [Chapter 6 「変わってしまった人、変われなかった人」](readings/TDH_U06_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted; specialist exposure incident disclosed) |
+| U07 | [Chapter 7 「タイムカプセル荒らし」](readings/TDH_U07_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
+| U08 | [Chapter 8 「不適切な行動」](readings/TDH_U08_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
+| U09 | [Chapter 9 「できすぎた話」](readings/TDH_U09_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
+| U10 | [Chapter 10 「私の、たった一人の幼馴染へ」](readings/TDH_U10_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
+| U11 | [Chapter 11 「自販機巡りのすすめ」](readings/TDH_U11_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
+| U12 | [Chapter 12 「嘘つきと小さな願い」](readings/TDH_U12_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
+| U13 | [Chapter 13 「確かなこと」](readings/TDH_U13_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
+| U14 | [Chapter 14 「青の時代」](readings/TDH_U14_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted) |
+| U15 | [Chapter 15 「賢者の贈り物」](readings/TDH_U15_DEEP_READING.md) | Accepted 2026-11-17 (A + B + C + D; reviewer `ACCEPT_WITH_CORRECTIONS`, corrections adopted); terminal unit |
 
 ## Reconnaissance actually achieved
 
