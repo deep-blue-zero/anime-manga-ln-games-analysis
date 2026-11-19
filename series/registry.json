@@ -907,6 +907,22 @@
       "catalog_note": "Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git."
     },
     {
+      "series_id": "re-creators",
+      "stable_slug": "re-creators",
+      "canonical_title": "Re:Creators",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/re-creators/",
+      "canonical_entrypoint": "series/re-creators/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261118",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Self-contained anime analysis of character agency, creator/creation relations, narrative levels and audiovisual form."
+    },
+    {
       "series_id": "re-zero",
       "stable_slug": "re-zero",
       "canonical_title": "Re:ZERO -Starting Life in Another World-",
