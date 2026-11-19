@@ -33,7 +33,7 @@ The final G7 materialization and sealed epoch-1 migration scope contain these se
 - [`project-sekai/`](project-sekai/) — Project SEKAI — Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git.
 - [`redo-of-healer/`](redo-of-healer/) — Redo of Healer
 - [`revue-starlight/`](revue-starlight/) — Revue Starlight
-- [`shine-post/`](shine-post/) — SHINE POST
+- [`shine-post/`](shine-post/) — SHINE POST — Japanese-anime analysis with character, directed-relationship, music and performance responsibilities; preserves the earlier V1 corpus.
 - [`shokugeki-no-soma/`](shokugeki-no-soma/) — Shokugeki no Soma
 - [`shuukura/`](shuukura/) — Shuukura / 週に一度クラスメイトを買う話 — Independent V2 architecture for original-Japanese LN reading, separate web witnesses, longitudinal character and relationship analysis, and evidence-tested reconstruction; V1 remains preserved historical analysis. Primary and derived evidence remain in Drive.
 - [`solo-leveling/`](solo-leveling/) — Solo Leveling
