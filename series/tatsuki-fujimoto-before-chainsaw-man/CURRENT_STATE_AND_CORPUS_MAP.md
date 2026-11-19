@@ -4,7 +4,7 @@ series: tatsuki-fujimoto-before-chainsaw-man
 artifact_id: CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 generation: TF-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "Single INITIAL partial-collection entrypoint; no narrative or run authority"
 source_boundary: "Japanese 藤本タツキ短編集 22-26 only; 17-21 absent; no narrative admission or inspection"
@@ -49,5 +49,7 @@ Canonical root: `series/tatsuki-fujimoto-before-chainsaw-man/`. Japanese identit
 No readings, dossiers, synthesis, models or simulations exist. Reconstruction is NOT_READY. Look Back, Chainsaw Man and other author works remain outside this root's source boundary.
 
 Independent foundation review, supported bootstrap correction and repository validation are next. Reading requires a separate owner-defined story scope, verified source/inspection route and consistent OPEN transition. Publication cannot authorize source admission. A future 17–21 acquisition requires explicit scope and architecture review.
+
+For future authorized source readings, the [standing configuration](TF_SYNTHESIS_ARCHITECTURE.md#independent-reading-within-one-mapped-story) assigns independent evidence work, critical review and reconciliation in the existing transaction.
 
 Resume from the entrypoint, full method/architecture, source/work controls and live governance. The architecture names local reading and fresh-synthesis/local-convergence ownership, reasoning classes and specialized registry owners. Only metadata access was used for this bootstrap.
