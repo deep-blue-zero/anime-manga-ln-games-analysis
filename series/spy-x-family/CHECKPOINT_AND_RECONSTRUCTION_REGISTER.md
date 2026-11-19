@@ -2,7 +2,7 @@
 title: "SPY x FAMILY — Checkpoint and Reconstruction Register"
 artifact_id: SXF_CHECKPOINT_REGISTER
 artifact_type: checkpoint_reconstruction_register
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: SXF-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–18 plus separate EYES ONLY fanbook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 ---
 
 # Checkpoint and reconstruction register
@@ -22,10 +22,11 @@ No run, accepted frontier, checkpoint, model or readiness grade exists. This reg
 
 | Record / key | Required fields |
 |---|---|
-| Transaction `SXF-TX-nnnn` | Actual run/operation authorization; witness/unit; entering/exit frontier; full reading; five-register deltas or scoped no-change; page/retrieval/modality debts; name/reference sample/results; reviewer/disposition; next permitted operation |
+| Transaction `SXF-TX-nnnn` | Actual run/operation authorization; witness/unit; entering/exit frontier; full reading; five-register deltas or scoped no-change; page/retrieval/modality debts; name/reference sample/results; independent assignments, actual context separation, exposure and inspected page locators, material findings/rivals, review challenges, principal disposition and linked ledger effects or outstanding obligations; next permitted operation |
 | Checkpoint `SXF-CP-nn` | Authorized tranche; complete files/digests/authority; frozen knowledge/audience/relationship/voice/form states and forecasts; full reconciliation; contradictions; role gaps and remaining limits |
 | Dependency `SXF-DEP-nnnn` | Upstream source/evidence/claim/state; downstream argument/study/model; revision trigger; owner/review; OPEN/RESOLVED_WITH_ROUTE/ACCEPTED_LIMITATION with evidence |
 | Role gap `SXF-RG-nnnn` | Required responsibility; actual time/ordinary/relationship/audience/language/form coverage; missing evidence; synthesis effect; targeted return/specialist; justified no-specialist route and owner; acceptance criterion |
+| Monograph qualification `SXF-RG-nnnn`, keyed by subject and assessment boundary | Subject identity; source boundary and assessment boundary; outcome `QUALIFIED_PENDING / COMPLETE_AT_BOUNDARY / DEFERRED_EVIDENCE / REASSESS_AFTER_REVISION` ([initiation section 5.5.1](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)); source-grounded rationale naming the largest gaps; next review trigger; monograph path once a real document exists; separate self-containment and fidelity review references; prior record. A changed outcome appends a new record |
 | Model coverage `SXF-MC-nnnn` | Source-established subject@lane/witness/frontier/state; twelve dimensions/six scenarios from architecture; evidence channels; subject-knowledge limits; excluded fanbook/adaptation; gaps/contradictions; confidence/distance/abstention; holdout/exposure and independent evaluator |
 | Handoff `SXF-HO-nnnn` | Base snapshot; full exact inputs/outputs/digests; authority/source/admission/knowledge boundary; owners; transfer receipt; returned changes/evidence; base-candidate-current drift; acceptance/unresolved work |
 | Gate review `SXF-GR-nnnn` | S0–S12; actual input scope; evidence and reviewer/independence; defects; pass/hold/bounded acceptance; next permitted action |
@@ -74,3 +75,4 @@ Append actual results with their input boundary; never invent hashes, authorizat
 | History ID | Date | Operation | Result |
 |---|---|---|---|
 | SXF-INT-H001 | 2026-11-07 | Initialized transactions, roles, dependencies, model coverage and gates | CLOSED bootstrap; narrative and model work unstarted |
+| SXF-INT-H002 | 2026-11-18 | Added independent-reading transaction fields and the per-subject monograph qualification schema in the role-gap record | No reading run, subject assessment or qualification outcome recorded |

@@ -5,14 +5,14 @@ artifact_type: "synthesis_architecture"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.6"
+version: "0.7"
 status: "canonical"
 scope: "Accumulation model, canonical responsibilities, promotion, convergence and completion"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SYNTHESIS_ARCHITECTURE.md"
 source_boundary: "Architecture contract; the closed manga boundary and admitted sources are those recorded in CURRENT_STATE_AND_CORPUS_MAP.md"
 created: "2026-10-11"
-updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_NAMING_RULE_UPDATE"
+updated: "2026-11-17"
+review_status: "AUTHOR_REVIEWED_PROSPECTIVE_FRAMEWORK_AMENDMENT"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -74,6 +74,14 @@ The frozen exit state stores the claim and domain-row versions actually in force
 One volume is a transaction, not merely one prose file. Internal processing chunks do not grant later evidence. V01 begins with no narrative findings. A partial volume never advances the completed boundary. For magazine-only material, verify exact chapter identity/placement and complete delivery first; the method permits a whole Score transaction without inventing a collected-volume boundary.
 
 The continuation policy defaults future requests to `single_operation`; a bounded continuous run needs owner authorization and individually closed transactions. Next-candidate metadata does not authorize a reading. The historical bootstrap left `SEQUENTIAL_ANALYSIS_LOCK = CLOSED`. Owner approval and V01 source verification now permit the entrypoint to record OPEN for one V01 transaction. An OPEN project gate does not authorize later volumes or supplements.
+
+## Standing reading team
+
+For each newly authorized volume, complete serial Score, substantive supplemental audit, reread or major reanalysis generation, apply [execution topology §4.1](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading). The principal inspects the whole admitted unit in order, owns its prospective freeze, reconciles rival readings and updates the seven existing homes wherever evidence changes. Give each independent participant a separate context, the entering freeze, the assigned question and access to the permitted primary pages at the same or a narrower disclosure frontier. Record prior exposure. Each forms observations before seeing the principal’s interpretation. An episode, translation or later fanbook lies outside a manga assignment unless separately admitted for its own named comparison.
+
+The skating and form specialist works independently. Follow the pictured attempt from preparation to aftermath, recover the exact Japanese source of any technical call, and distinguish what the panel sequence shows from what the skater, coach or judges attribute to it. For a fanbook assignment, test the authorship, source class, disclosure position and originality of the diagnostic component. A reprint supplies its earlier observation route. A distinct critical reviewer directly checks decisive images and balloons, preferably before reading the draft. Test whether a coach’s explanation became the athlete’s private knowledge, a drawing became a confirmed element call, or compression lost an ordinary exchange or a rival’s action. Return the counter-reading, locators and unresolved limits.
+
+Use the reasoning classes in the execution gates below according to the judgment each role requires. Source access and the ability to inspect Japanese pages are separate requirements. An unusually bounded unit can combine specialist and reviewer work in one independent context only with a recorded reason and adequate evidence access and scrutiny. Otherwise maintain the full team. If required access or independence fails, record the gap and hold acceptance and the frontier under §4.1. The principal reconciles the contributions in the [unit contract](MEDALIST_SOURCE_UNIT_READING_SPEC.md#mandatory-section-contract) before semantic acceptance. Later specialist synthesis and operational modeling retain their separate promotion and validation gates.
 
 ## Fanbook admission checkpoints
 
@@ -180,6 +188,8 @@ Version 0.4 (2026-10-12): first V01 transaction completed with full admitted-ima
 Version 0.5 (2026-10-12): owner authorized `continuous_sequential` V02–V15, conditional fanbook audits and provisional boundary syntheses. No responsibility, ledger or dependency changes. Front-matter source boundary now defers to the entrypoint so it does not go stale at each closure. Earlier statements here that V02 or supplements are unauthorized record the V01-only scope and are retained as history; the entrypoint owns live authorization.
 
 Version 0.6 (2026-10-13): owner-directed entity naming convention adopted in the method; this document adds one cross-reference under promotion. No responsibility, ledger or dependency changes. Frozen readings and ledger histories are not rewritten for it.
+
+Version 0.7 (2026-11-17) adds the prospective reading team and its unit receipt. Existing releases and the completed continuous run retain their recorded boundaries.
 
 ## V01 evidence-driven architecture review
 

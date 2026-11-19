@@ -4,7 +4,7 @@ artifact_id: T7S_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -13,7 +13,7 @@ do_not_use_as_literary_evidence: true
 source_boundary: "c20260909-r484; governing architecture through closed T7S_B0230 and checked claim/story/entity/source-lock/coverage physical representations; no new semantic source or2053 admission"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-31
+last_updated: 2026-11-17
 ---
 
 # Tokyo 7th Sisters synthesis architecture
@@ -419,6 +419,16 @@ The architecture can support bounded work without solving the entire story chron
 
 
 
+### Independent source reading within an admitted block
+
+For a newly authorized substantive B#### reading or reread, the principal verifies the block’s native episode and page membership, the allowed witness and the entering story, character and player horizons. The principal inspects the complete admitted block, freezes applicable prospective judgments before exposure to outcomes, reconciles the reading and updates the existing B08 coverage, causal-state, entity-state and claim/evidence homes. The 2034/2053 transition rules apply to every participant.
+
+Assign an independent reader the permitted Japanese pages in a fresh context without the principal’s draft. Trace a consequence through the actual exchange and its branches or command-only pages. Check what a named speaker says, what the recipient could infer and which state persists into the next interaction. Preserve small cast actions, address changes, ordinary preferences and conflicting evidence where they affect the account. A source ID, still composite or dialogue command can locate a performance question. Listening and continuous movement claims require verified access to the matched performance. Retain a missing channel in the existing evidence route.
+
+A distinct critical reviewer directly inspects diagnostic dialogue, neighboring pages or matched media. Where practical, establish the alternative explanation before seeing the candidate. Test addressee, chronology, branch membership, retrospective knowledge and material lost in the transfer from the reading to B08 and the three ledgers. The principal records the assignments and real exposure, the inspected native locators, findings and rival readings, review and reasoned dispositions in the block before the SourceLock binds its hash. Carry revisions and open debts into their existing homes.
+
+The [source-reading policy](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) governs the independent contexts. The method’s reading-class baseline applies to each role; escalate disputed inter-arc chronology, attribution or propagation in the affected role. An unusually bounded block can use one independent specialist/reviewer only with a recorded reason and adequate source access. Without independent source-aware review, acceptance and high-water advance remain pending. Mechanical representation checks, era synthesis and reconstruction retain their own acceptance routes.
+
 ## Sequential initiation and execution gate
 
 The current entrypoint alone records the live lock; the bootstrap record preserves its transitions. Before the first substantive sequential reading, require the owner-authorized root, current eligible method and synthesis architecture, immutable witness/source bindings, explicit chronology/identity/horizon rules, the exact coverage ledger and three initialized longitudinal homes, and verified source/locator/first-boundary recovery. Review the actual artifacts and record an affirmative OPEN transition. Absent, malformed, contradictory or CLOSED state fails closed; scaffolding and source completeness cannot substitute for verification.
@@ -477,3 +487,4 @@ Before interpretation, capture or editing, assemble the exact owner prefix and e
 SourceLock12.138 is administrative at unchanged B0230. Fresh consumers must explicitly handle all five logical source/coverage/entity/story/claim views. The reviewed bridge returns four modules followed by those five views; captures return four snapshots followed by three complete ledgers. Earlier frozen consumers and historical path literals remain unchanged. Separate positive/negative proof, independent full-byte preservation, finite native preparation/application, repository validation, normal publication/readback and automatic exact-head audit remain mandatory. Full2034 remains incomplete;2053 blocked.
 
 - 2026-10-31 — 1.11: specify lossless B0230 claim/evidence representation and complete-view consumer gate; preserve analytical responsibilities and all earlier freezes.
+- 2026-11-17 — 1.12. Adopt independent source reading and reconciliation within each future authorized block.
