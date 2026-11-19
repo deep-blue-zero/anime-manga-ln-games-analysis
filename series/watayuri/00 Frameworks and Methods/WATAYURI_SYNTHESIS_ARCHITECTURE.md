@@ -4,14 +4,14 @@ artifact_id: WATAYURI_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.1"
+version: "0.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V14 available, none narratively admitted or inspected"
+source_boundary: "At bootstrap, Japanese manga V01–V14 were available before narrative admission. CURRENT_STATE_AND_CORPUS_MAP.md owns the live reading boundary."
 canonical_home: series/watayuri/00 Frameworks and Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md
 ---
 
@@ -54,13 +54,25 @@ The claim ledger uses `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT`,
 1. Check authorization and current head; verify/admit **one** exact Japanese numbered witness, its pagination/locator convention, and any limitations.
 2. Record the entering state from the previous frozen volume and reproduce only the necessary prior developments; V01 has no narrative entering state.
 3. Inspect the complete admitted mainline volume, both written text and pages/form. Mark any excluded bonus component or missed content explicitly.
-4. Write `WATAYURI_VNN_DEEP_READING.md` with source receipt, synopsis/developments from the previous volume when applicable, close reading, state changes, evidence, alternative readings, and prospective exit state.
+4. Write `WATAYURI_VNN_DEEP_READING.md` with source receipt, brief inherited context when applicable, the current volume’s story synopsis under the method’s completed volume contract, close reading, state changes, evidence, alternative readings, and prospective exit state.
 5. Update every **materially affected** cumulative ledger; add/revise claims and adjudicate predictions, leaving no fabricated zero-change entry.
 6. Reassess character evidence density, relationship synthesis need, and reconstruction readiness if the evidence bears on them.
 7. Advance the witness's inspection state, update the sole current entrypoint, freeze the volume endpoint, and identify the next candidate operation without automatically authorizing it.
 8. Validate and commit the complete transaction under the repository checklist. A partial reading does not advance the high-water mark.
 
-The continuation policy's `single_operation` default applies unless a future owner instruction expressly authorizes a bounded continuous run. The owner-approved lock is OPEN for a future V01 transaction; no sequential unit has yet begun.
+The continuation policy's `single_operation` default applies unless a future owner instruction expressly authorizes a bounded continuous run. The V01 opening described at bootstrap is historical. Consult the current entrypoint for the operative admission, high-water mark and next operation.
+
+### Independent readings of role and disclosure
+
+The principal owns the complete admitted Japanese mainline volume and its single prospective exit. Give a separate reader the same pages in Shift order and ask them to follow an exchange across Liebe's public role script, the participants' differing knowledge and what is privately represented. Return page locators for a consequential gesture, wording or omission, what each direction supports, and a credible competing account before seeing the principal's interpretation. Tag any separately admitted short or one-shot by its actual continuity.
+
+A third reader reopens the diagnostic sequence and tests who could see or hear each cue, how a memory or retrospective disclosure is framed, and whether an ordinary interaction has been compressed away. Supply independently usable pages at the permitted horizon, record prior exposure, and withhold later material and other readers' conclusions until the independent account is recorded. Disclose contamination and reassign prospective questions it compromises.
+
+Include the assignments, how each reader's execution context or session was kept separate from the principal's and the other reader's, actual source access, material findings and review challenges in the frozen VNN receipt. For every material divergence the principal records a reason to accept, qualify, decline or defer it, then links affected proposition, performance, directed relationship and revision IDs. Update each cumulative home once. Review coverage, unresolved evidence and the receipt before closure. The existing reasoning classes apply by role and complexity. Missing required access or independence holds acceptance at the current frontier.
+
+At the next authorized cast review, use the cast and reconstruction readiness ledger to record each assessed person's horizon, qualification decision and reasons, gaps, review trigger and portrait route. Differentiated behavior in a concentrated public/private transition can qualify a supporting person. For each qualified subject use `04 Character Analysis/WATAYURI_<cast-id>_CHARACTER_MONOGRAPH.md`, with `<cast-id>` replaced by the exact stable local subject ID in the cast and reconstruction readiness ledger. Café roles, public names and private identities follow that subject’s evidence-bounded identity record. Record the actual path in the ledger when the portrait is produced. Test whether the portrait explains the subject’s conduct unaided, then check its claims separately against diagnostic pages. Keep behavior-model validation under the reconstruction specification.
+
+[Source-reading configurations](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) · [Individual monograph acceptance](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)
 
 ## Synthesis dependencies and promotion
 

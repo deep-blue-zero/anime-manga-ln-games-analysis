@@ -6,6 +6,28 @@ Reviewed analysis subjects in the `three-days-of-happiness` namespace of the [Ch
 
 ## Reviewed entries
 
+<a id="himeno"></a>
+
+### Himeno
+
+- Entity ID: `three-days-of-happiness:himeno`
+- Entity aliases:
+  - ヒメノ (ja, ORIGINAL_SCRIPT) — Katakana form used throughout the narration and dialogue; a surname, given name never stated.
+
+#### Subject: Three Days of Happiness original novel
+
+- Analysis subject ID: `three-days-of-happiness:himeno@original-novel`
+- Series: `three-days-of-happiness`
+- Continuity: `three-days-of-happiness-original-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `monograph-scope`: LIGHT_NOVEL CHAPTER: Bounded to her depicted existence in TDH-JP-01 chapters 1–15: the childhood chapter at ten, traces and testimony in chapters 3–9, the festival-night encounter and dinner (Ch09 P0136–Ch10 P0154) and her letter at twenty (Ch10 P0190–P0200). Her life between ten and twenty and her fate are not narrated. No other edition, translation or adaptation is claimed.; continuity `three-days-of-happiness-original-novel`
+- Reviewed current evidence:
+  - [`novel-monograph` — Himeno novel monograph: bounded person-level portrait across U01–U15](../../series/three-days-of-happiness/studies/TDH_HIMENO_NOVEL_MONOGRAPH.md)
+
 <a id="kusunoki"></a>
 
 ### Kusunoki
@@ -19,12 +41,80 @@ Reviewed analysis subjects in the `three-days-of-happiness` namespace of the [Ch
 - Analysis subject ID: `three-days-of-happiness:kusunoki@original-novel`
 - Series: `three-days-of-happiness`
 - Continuity: `three-days-of-happiness-original-novel`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `u01-u02`: LIGHT_NOVEL CHAPTER: Distributed analysis in the accepted readings of U01 (front matter and chapter 1) and U02 (chapter 2) of the single Japanese witness TDH-JP-01, run TDH-RUN-20261116-U01-U15. Each reading keeps its own knowledge boundary. No U03–U15, synthesis, monograph, other edition, translation or adaptation coverage is claimed.; continuity `three-days-of-happiness-original-novel`
+  - `u01-u02`: LIGHT_NOVEL CHAPTER: Distributed analysis in the accepted readings of U01 (front matter and chapter 1) and U02 (chapter 2) of the single Japanese witness TDH-JP-01, run TDH-RUN-20261116-U01-U15. Each reading keeps its own knowledge boundary. This entry claims no U03–U15 coverage; the monograph entry covers the whole novel. No other edition, translation or adaptation is claimed.; continuity `three-days-of-happiness-original-novel`
+  - `u01-u15-monograph`: LIGHT_NOVEL CHAPTER: Native chapters 1–15 of the single Japanese witness TDH-JP-01 (front matter and chapters; end paratext excluded), through the ending of chapter 15, which narrates the first morning, reunion and present happiness and projects the remaining days without narrating the deaths. No other edition, translation or adaptation is claimed.; continuity `three-days-of-happiness-original-novel`
 - Reviewed current evidence:
+  - [`novel-monograph` — Kusunoki novel monograph: self-contained person-level portrait across U01–U15](../../series/three-days-of-happiness/studies/TDH_KUSUNOKI_NOVEL_MONOGRAPH.md)
   - [`u01-reading` — U01 accepted multi-agent deep reading: the unnamed narrator as a boy and at about twenty](../../series/three-days-of-happiness/readings/TDH_U01_DEEP_READING.md#7-characters)
   - [`u02-reading` — U02 accepted multi-agent deep reading: Kusunoki at twenty and the lifespan sale](../../series/three-days-of-happiness/readings/TDH_U02_DEEP_READING.md#7-characters)
+
+<a id="miyagi"></a>
+
+### Miyagi
+
+- Entity ID: `three-days-of-happiness:miyagi`
+- Entity aliases:
+  - ミヤギ (ja, ORIGINAL_SCRIPT) — Katakana name she gives on introducing herself as Kusunoki's watcher (Ch03 P0050); the text does not settle whether it is a surname or a given name.
+
+#### Subject: Three Days of Happiness original novel
+
+- Analysis subject ID: `three-days-of-happiness:miyagi@original-novel`
+- Series: `three-days-of-happiness`
+- Continuity: `three-days-of-happiness-original-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `monograph-scope`: LIGHT_NOVEL CHAPTER: Native chapters 2–15 of TDH-JP-01 (she does not appear in chapter 1; end paratext excluded): the unnamed shop clerk of chapter 2, the watcher of chapters 3–14 and her return in chapter 15, whose remaining days are projected, not narrated. No other edition, translation or adaptation is claimed.; continuity `three-days-of-happiness-original-novel`
+- Reviewed current evidence:
+  - [`novel-monograph` — Miyagi novel monograph: self-contained person-level portrait across U02–U15](../../series/three-days-of-happiness/studies/TDH_MIYAGI_NOVEL_MONOGRAPH.md)
+
+<a id="shinbashi"></a>
+
+### Shinbashi
+
+- Entity ID: `three-days-of-happiness:shinbashi`
+- Entity aliases:
+  - シンバシ (ja, ORIGINAL_SCRIPT) — Katakana name of Kusunoki's neighbour, as in the monograph title and Miyagi's シンバシさん (Ch14 P0038).
+
+#### Subject: Three Days of Happiness original novel
+
+- Analysis subject ID: `three-days-of-happiness:shinbashi@original-novel`
+- Series: `three-days-of-happiness`
+- Continuity: `three-days-of-happiness-original-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `monograph-scope`: LIGHT_NOVEL CHAPTER: Bounded to Ch14 P0010–P0077 of TDH-JP-01 (pub intervention, gathering and car loan), with the later public sighting of Ch15 P0075–P0094 used only as a limit; no direct perception of Miyagi is attested. No other edition, translation or adaptation is claimed.; continuity `three-days-of-happiness-original-novel`
+- Reviewed current evidence:
+  - [`novel-monograph` — Shinbashi novel monograph: bounded portrait of Kusunoki's neighbour](../../series/three-days-of-happiness/studies/TDH_SHINBASHI_NOVEL_MONOGRAPH.md)
+
+<a id="substitute-watcher"></a>
+
+### The substitute watcher
+
+- Entity ID: `three-days-of-happiness:substitute-watcher`
+- Entity aliases:
+  - _None._
+
+#### Subject: Three Days of Happiness original novel
+
+- Analysis subject ID: `three-days-of-happiness:substitute-watcher@original-novel`
+- Series: `three-days-of-happiness`
+- Continuity: `three-days-of-happiness-original-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `monograph-scope`: LIGHT_NOVEL CHAPTER: Bounded to passages within Ch12 P0004–P0173, Ch14 P0155–P0168 and Miyagi's report at Ch15 P0089–P0105 of TDH-JP-01. No other edition, translation or adaptation is claimed.; continuity `three-days-of-happiness-original-novel`
+- Reviewed current evidence:
+  - [`novel-monograph` — Substitute watcher novel monograph: bounded portrait of Miyagi's unnamed replacement](../../series/three-days-of-happiness/studies/TDH_SUBSTITUTE_WATCHER_NOVEL_MONOGRAPH.md)
