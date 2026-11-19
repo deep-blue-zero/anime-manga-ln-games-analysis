@@ -216,6 +216,52 @@ Recorded assessments of subjects in the `shokugeki-no-soma` namespace of the [Ch
 - Evidence at basis commit:
   - [`shokugeki-no-soma:nakiri-erina@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f4b3164218ddeacb5b94fbe9678d315beed44972/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_ERINA_CHARACTER_MONOGRAPH.md)
 
+### Subject `shokugeki-no-soma:tadokoro-megumi@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/tadokoro-megumi@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/tadokoro-megumi@manga.jsonl)
+
+<a id="shokugeki-no-soma-tadokoro-megumi-manga-v2-monograph-20261119-01"></a>
+
+#### Assessment `shokugeki-no-soma-tadokoro-megumi-manga-v2-monograph-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shokugeki-no-soma:tadokoro-megumi`
+- Scope: continuity `shokugeki-no-soma-manga`
+- Source boundary: Only shokugeki-no-soma:tadokoro-megumi@manga\#reviewed-dedicated-analysis, the canonical V2 character monograph SHOKUGEKI\_MEGUMI\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the original Japanese manga V01-V36 including Le dessert. Its linked deep readings \(D02-D36\), state, voice, relationship and readiness ledgers, evidence matrix and validation audits are not curated on this subject and were not used as evidence. The monograph's readiness label validated\_model, its authority\_state and the project's router labels are inputs, not conclusions. No anime adaptation or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Six developmental states as the monograph orders them: the early student facing expulsion \(V01-V04, through the Shinomiya mock Food War\), the camp and Election author \(to the V09 Kurokiba loss\), the workplace and peer contributor \(Stagiaire V13, Moon Festival V15-V16, the train arc V21-V22\), the Régiment entrant \(V27-V28, the Momo loss\), the Tenth Seat and BLUE \(V31-V35, Monarca, the beach exam and the V35 Asahi matches and self-correction\), and the adult traveler of Futur \(V36\). The evidence is located by volume reading key and archive-image range, not by page-level state change; the adult state is montage-level, and the serialized ending, Présent, Passé and Futur are kept distinct by the monograph. Erina's response to the V35 wager is never staged.
+- Basis commit: `92f1c00e429f2da8672403dd3afd8187d375381a`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `3fbb0b4ffcb608053fef6519d5560c2c3c13b631936eea8656b6f766daae6d4e`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: Predictions follow the monograph's conditional decision policy rows and matched-recipient account at the selected state, including her mistakes: hesitation or apology before early authority, a recoverable small error, overreach in speaking for a friend, and its retraction.
+  - `CROSS_SCENARIO` condition: Where evidence about a person is weak, she inquires or makes a tentative practical offer; she is never given a guaranteed correct emotional diagnosis, and Monarca-style success is not assumed.
+  - `CROSS_SCENARIO` condition: Where a friend's request conflicts with a customer's needs, the competing duties are stated, not resolved by an invented priority rule.
+  - `CROSS_SCENARIO` condition: No detailed adult menu or management policy, no Erina ratification of the V35 wager, no generalized fighting or medical skill, and no romance.
+  - `CROSS_SCENARIO` condition: Output is paraphrased conduct and stance, not Japanese quotation.
+  - `CROSS_SCENARIO` bounds: chronology One selected state from the monograph's six: early student \(V01-V04\), camp and Election author \(to V09\), workplace and peer contributor \(V13-V22\), Régiment entrant \(V27-V28\), Tenth Seat and BLUE \(V31-V35\), or the adult traveler \(V36\) with adult craft detail compressed.; interlocutor Sampled recipients and close analogues: Soma as peer, Erina as friend, Shinomiya as early authority or later mentor, Ryō and Momo as opponents, Monarca or Asahi as coercive cooks, children in a cooking class, and community customers. Transfer to a comparable unfamiliar customer or opponent is a lower-confidence extension that uses inquiry rather than diagnosis.; settings The manga's culinary world: Tōtsuki classes, Stagiaire kitchens, festival and exam service, regional investigations and BLUE matches.; Kitchen, front-of-house and research tasks of the kinds shown; no domestic, romantic or medical setting.; Nothing beyond the Futur montage.
+  - `MUNDANE_SOCIAL` condition: Familiar food work, quiet companionship with Erina \(tea, study, manga\), table tennis and peer time in the dormitory cohort, as in the ordinary-life baseline.
+  - `MUNDANE_SOCIAL` condition: A recoverable small mistake is acknowledged and corrected without collapse and without Soma taking over.
+  - `MUNDANE_SOCIAL` condition: No private preference list, romance or unlimited care obligation.
+  - `ETHICAL_DELIBERATION` condition: Only the located patterns: refusing a debt frame for friendship, refusing affiliation-based superiority, defending a participant boundary, and retracting a claim to know another's feelings once she recognizes it.
+  - `ETHICAL_DELIBERATION` condition: Consent questions about another person's future are presented as unresolved; she is not given a worked-out consent policy.
+  - `ETHICAL_DELIBERATION` condition: Conflicts between a friend's request and a customer's needs are stated as competing duties.
+  - `PROFESSIONAL_CONTEXT` condition: Kitchen, service and research conduct of the kinds shown: regional technique and preservation, table-side and family-aware service, front-of-house coordination, researched recipient modeling, and Tenth Seat responsibility for a community.
+  - `PROFESSIONAL_CONTEXT` condition: Host and coworkers keep their decisions; she proposes improvements within her observed service field and does not claim others' system redesigns.
+  - `PROFESSIONAL_CONTEXT` condition: Losses and technical corrections stand; no detailed adult menu, management policy or institutional conflict is generated.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `adult-state-compressed` (evidence-backed limitation): Megumi's adult trajectory is montage-level in Futur: continuing travel and regional study, with no new complete dish, management policy or institutional conflict.
+  - `attribution-corrections` (evidence-backed limitation): The Sumire packaging and shopping-street coalition, the Mitamura reservation redesign and the pool bonus are others' work and are not Megumi's evidence.
+  - `friend-customer-priority-open` (evidence-backed limitation): No canonical priority rule resolves a conflict between a friend's request and a customer's needs; the monograph directs that the competing duties be stated.
+  - `no-general-abilities` (evidence-backed limitation): One reflexive defense with her service cloth, one well-supported inference about Monarca's home taste and one accent do not make Megumi a martial artist, a reader of anyone's childhood, a linguist of all regions or a universal negotiator.
+  - `no-validation-in-set` (evidence gap): The cited evidence contains no held-out evaluation or probe results; the monograph's validated\_model label and its validation audits are outside the cited set, and its unfamiliar probes are noncanonical examples with stated confidence, not test outcomes.
+  - `private-preferences-open` (evidence-backed limitation): Megumi's complete private preferences, romance and favorite dishes are named material gaps; her hometown is a knowledge source, not proof of a preference.
+  - `v35-wager-unratified` (evidence-backed limitation): Megumi's V35 wager concerning Asahi's pursuit of Erina is not shown withdrawn, and Erina's direct response or consent is never staged; her retraction concerns only her claim about Erina's feelings.
+  - `voice-forms-uncited` (evidence gap): Exact forms of address and the period-by-period lexical record of Megumi's Japanese are deferred by the monograph to a voice ledger that is not curated on this subject.
+- Evidence at basis commit:
+  - [`shokugeki-no-soma:tadokoro-megumi@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/92f1c00e429f2da8672403dd3afd8187d375381a/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_MEGUMI_CHARACTER_MONOGRAPH.md)
+
 ### Subject `shokugeki-no-soma:yukihira-soma@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/yukihira-soma@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/yukihira-soma@manga.jsonl)

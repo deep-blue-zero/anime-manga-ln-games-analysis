@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 185; `STALE` 2; `SUPERSEDED` 35
+- Recorded totals: `CANDIDATE` 187; `STALE` 2; `SUPERSEDED` 35
 
 ## Namespaces
 
@@ -46,13 +46,13 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`project-sekai`](reconstruction_index/project-sekai.md) | 6 | 7 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 21 | 24 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
-| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 6 | 6 |
+| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 7 | 7 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
 | [`silent-witch`](reconstruction_index/silent-witch.md) | 4 | 4 |
 | [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
 | [`sound-euphonium`](reconstruction_index/sound-euphonium.md) | 1 | 1 |
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
-| [`three-days-of-happiness`](reconstruction_index/three-days-of-happiness.md) | 4 | 4 |
+| [`three-days-of-happiness`](reconstruction_index/three-days-of-happiness.md) | 5 | 5 |
 | [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 1 | 1 |
 | [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 17 |
 | [`tomozaki`](reconstruction_index/tomozaki.md) | 18 | 22 |
@@ -226,6 +226,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `shokugeki-no-soma:ikumi-mito@manga` | [`shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01) | `CANDIDATE` | `C` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
 | `shokugeki-no-soma:kurokiba-ryo@manga` | [`shokugeki-no-soma-kurokiba-ryo-manga-bounded-model-20261115-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-kurokiba-ryo-manga-bounded-model-20261115-01) | `CANDIDATE` | `C` | `d0019f2f149d57a9f817238a899dff9248a2ca9f` |
 | `shokugeki-no-soma:nakiri-erina@manga` | [`shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01) | `CANDIDATE` | `B` | `f4b3164218ddeacb5b94fbe9678d315beed44972` |
+| `shokugeki-no-soma:tadokoro-megumi@manga` | [`shokugeki-no-soma-tadokoro-megumi-manga-v2-monograph-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-tadokoro-megumi-manga-v2-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `shokugeki-no-soma:yukihira-soma@manga` | [`shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01) | `CANDIDATE` | `B` | `4d83b32a8ef03b3e109e261b32151b737f58fdf3` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-ln10-20261031-01) | `CANDIDATE` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-20261021-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-20261021-01) | `SUPERSEDED` | `E` | `036ed43f1d2a974b5351429792bae2c733e577db` |
@@ -238,6 +239,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `solo-leveling:yoo-jinho@original-korean-novel` | [`solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01`](reconstruction_index/solo-leveling.md#solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01) | `CANDIDATE` | `C` | `923ee527a9f594b30e751e697c62a0b549eb77dc` |
 | `sound-euphonium:kaori-nakaseko@original-novels` | [`sound-euphonium-kaori-nakaseko-original-novels-hibike-monograph-20261114-01`](reconstruction_index/sound-euphonium.md#sound-euphonium-kaori-nakaseko-original-novels-hibike-monograph-20261114-01) | `CANDIDATE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
 | `the-idolmaster:yonai-p@u149-anime` | [`the-idolmaster-yonai-p-u149-anime-20261023-01`](reconstruction_index/the-idolmaster.md#the-idolmaster-yonai-p-u149-anime-20261023-01) | `CANDIDATE` | `D` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |
+| `three-days-of-happiness:himeno@original-novel` | [`three-days-of-happiness-himeno-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-himeno-original-novel-monograph-20261119-01) | `CANDIDATE` | `D` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `three-days-of-happiness:kusunoki@original-novel` | [`three-days-of-happiness-kusunoki-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-kusunoki-original-novel-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `three-days-of-happiness:miyagi@original-novel` | [`three-days-of-happiness-miyagi-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-miyagi-original-novel-monograph-20261119-01) | `CANDIDATE` | `C` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `three-days-of-happiness:shinbashi@original-novel` | [`three-days-of-happiness-shinbashi-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-shinbashi-original-novel-monograph-20261119-01) | `CANDIDATE` | `E` | `92f1c00e429f2da8672403dd3afd8187d375381a` |

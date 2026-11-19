@@ -6,6 +6,41 @@ Recorded assessments of subjects in the `three-days-of-happiness` namespace of t
 
 ## Recorded assessments
 
+### Subject `three-days-of-happiness:himeno@original-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/three-days-of-happiness/himeno@original-novel.jsonl`](../reconstruction_capabilities/three-days-of-happiness/himeno@original-novel.jsonl)
+
+<a id="three-days-of-happiness-himeno-original-novel-monograph-20261119-01"></a>
+
+#### Assessment `three-days-of-happiness-himeno-original-novel-monograph-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `three-days-of-happiness:himeno`
+- Scope: continuity `three-days-of-happiness-original-novel`
+- Source boundary: Only three-days-of-happiness:himeno@original-novel\#novel-monograph \(the canonical v1.0 Himeno novel monograph, qualified COMPLETE\_AT\_BOUNDARY \(bounded\), accepted with corrections and passed on receiving review against the Japanese EPUB\) at basis\_commit, read in full as reviewed repository analysis of the single Japanese witness TDH-JP-01, native chapters 1-15, end paratext excluded. Himeno speaks in person only in Ch01, Ch09 P0147 and Ch10; the rest is traces, Kusunoki's constructions and Miyagi's testimony, which the monograph separates from her own words and which this assessment does not treat as evidence of her. The readings, the longitudinal notebook, the novel synthesis, the completion audit, the release-decision record and the other monographs are not cited, and nothing is borrowed from them. The audit's readiness table, its RETROSPECTIVE\_CONSISTENCY\_TEST caution and the project's statement that no reconstruction operation is authorized were read as method inputs, not conclusions. No translation, adaptation or other edition is assessed, and the evaluator inspected no primary source.
+- Temporal boundary: Three located periods only, as the monograph's profile defines them: V10, age ten \(the classroom answer, the shrine scene Ch01 P0057-P0093 and narrated childhood, with childhood memories recalled at twenty used as her or his testimony as labeled\); V17, her letter at seventeen, known only through Kusunoki's summary \(Ch09 P0054-P0063\); and V20, the festival-night encounter \(Ch09 P0136-P0148; Ch10 P0004-P0008\) and the dinner day \(Ch10 P0080-P0154\), with her letter \(Ch10 P0190-P0200\) as her testimony about intentions up to the dinner. The dinner is split at her decision to abandon the plan, made by strong inference within minutes of his confession \(Ch10 P0137-P0151\). Her life between ten and twenty is known only as disputed summary facts, and nothing after her exit from the dinner is established.
+- Basis commit: `92f1c00e429f2da8672403dd3afd8187d375381a`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `e024ab13dd598a2a9b5c83e42d7ac92623acf29ef98911575f1c6061d5c07108`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `DIALOGUE` condition: Illustrative textual Japanese only, never quotation, and only toward Kusunoki in a situation closely resembling one shown: V10 private talk \(plain declaratives, soft endings, 私 and 私たち, no names or second-person pronouns\) or V20 sociable talk at the dinner \(casual, quick, teasing; クスノキ and 君; そっか; apologetic preambles before frank content\).
+  - `DIALOGUE` condition: Polite register only where the evidence places it: a classroom answer, or a marked moment of exposure followed by retraction; no letter text is generated.
+  - `DIALOGUE` condition: Lines express surface conduct only: no stated motive, belief in his story, romantic feeling, view of the childhood promise, or account of her decade beyond the summary facts she gave.
+  - `DIALOGUE` condition: Nothing after her exit from the dinner \(Ch10 P0154\), and nothing toward anyone else after ten.
+  - `CROSS_SCENARIO` bounds: chronology One located period only: V10 \(Ch01 and narrated childhood\), or V20 from the festival-night encounter \(Ch09 P0136\) to her exit from the dinner \(Ch10 P0154\), before or after her decision there; V17 is known only through his summary.; interlocutor Kusunoki as childhood rival and friend at ten, or as the friend she meets again at twenty while concealing a grievance; the teacher and parents only as in the summarized childhood scenes. Miyagi, whom she cannot perceive, her husband, her child, colleagues and anyone after ten are excluded.; settings The novel's world and its hometown places as located: the classroom, the shrine steps, the families' houses, the restaurant.; No work, family life or other setting from her decade.; Nothing after Ch10 P0154.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` D; `INTERIORITY` E; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `constructions-and-testimony-not-her` (evidence-backed limitation): Kusunoki's dream, imagined letters, retelling and decoding, and Miyagi's account of her life and original course, are evidence of their Himenos, not of her; Miyagi's account stands item by item, and she admits an unspecified lie about Himeno \(Ch12 P0193\).
+  - `dinner-motive-undecidable` (evidence-backed limitation): Because her letter discloses a plan to become indispensable to Kusunoki before dying in front of him, every warm act at the dinner, including her professed belief in his story, is undecidable between sincerity and strategy \(TDH-S054\).
+  - `fate-unnarrated` (evidence-backed limitation): Himeno's fate is never narrated; Miyagi's original-course forecast is uncorroborated except as the plan Himeno says she abandoned, and Kusunoki's "she will soon kill herself" is his belief.
+  - `letter-is-testimony` (evidence-backed limitation): Her letter at twenty is her own written testimony about past intention; its truth, sincerity and completeness are not independently checked, and when the plan formed is not stated.
+  - `mediated-record` (evidence-backed limitation): All of Himeno's speech and conduct reaches the page through Kusunoki's record, written by strong inference after her letter; the ten-year-old's portrait is recalled about ten years later, and its touches of vulnerability cannot be checked for retrospective coloring \(TDH-C010\).
+  - `no-model-or-evaluation` (evidence gap): The cited evidence contains no reconstruction model, probe or held-out evaluation of Himeno; the monograph's conditional profile is a literary aid it states has not been tested.
+  - `two-sequences-one-document` (evidence-backed limitation): In her own person Himeno is shown in two concentrated sequences \(Ch01; Ch09 P0136 to Ch10 P0200\), one classroom answer and one letter; her decade between ten and twenty is never shown.
+- Evidence at basis commit:
+  - [`three-days-of-happiness:himeno@original-novel#novel-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/92f1c00e429f2da8672403dd3afd8187d375381a/series/three-days-of-happiness/studies/TDH_HIMENO_NOVEL_MONOGRAPH.md)
+
 ### Subject `three-days-of-happiness:kusunoki@original-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/three-days-of-happiness/kusunoki@original-novel.jsonl`](../reconstruction_capabilities/three-days-of-happiness/kusunoki@original-novel.jsonl)
