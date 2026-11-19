@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Shorekeeper — evidence and falsification matrix
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_SHOREKEEPER_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 `flow#/N/A/I` expands to `wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/N/Actions!/A/Params/TalkItems/I`. Archive/profile keys resolve in the private four-language package. Normalized Chinese is the semantic anchor and the other dubs are witnesses. “Fully resolved selected audio” below does **not** mean human listening or complete discovery beyond this source generation.
 
 ## Evidence bundles

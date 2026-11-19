@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Augusta — textual speech and measured audio, pre-AV
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_AUGUSTA_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 The pinned scripts support speech *acts and registers*; the local client-derived FLACs support source/render identity and signal measurements. Human four-dub listening and runtime gesture inspection had **not** been done in the pre-AV baseline preserved below (see the appended **Stratified four-dub direct-listening calibration** section for the bounded `8/605`-line / `32`-render direct-ear pass while `597/605` semantic lines remain unreviewed), so no claim about enacted tenderness, authority, accent, actor intention or emotional pitch is made in the pre-AV sections. Some central reflective scenes are source-unvoiced.
 
 ## Textual registers

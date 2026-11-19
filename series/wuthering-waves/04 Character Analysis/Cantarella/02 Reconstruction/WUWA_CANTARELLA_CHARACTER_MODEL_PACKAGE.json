@@ -10,7 +10,8 @@
   "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
   "semantic_anchor": "zh-Hans",
   "localization_witnesses": ["en", "ja", "ko"],
-  "performance_review_state": "not_listened_pre_av",
+  "performance_review_state": "calibrated_stratified_6_of_845_lines_839_unreviewed",
+  "chapter_ii_av_coverage": "4/36 scene targets in the recorded EN main-story witness; other targets are not carried as runtime observations.",
   "model_purpose": "Evidence-linked conditional literary behavior for hypothetical scenes, not a mental-health diagnosis, probability personality score, or canonical romance inference.",
   "required_scene_inputs": [
     "diegetic_instantiation: embodied_Cantarella | Echo_Cube_image | other_projection | unknown",
@@ -50,7 +51,7 @@
     "Do not call the common family-secrets offer branch-dependent; its two subsequent Rover-conditioned replies are mutually exclusive.",
     "Do not turn Cheri's objection into the unanimous will of the trial girls, or assume that preventing new trials proves either complete public justice or universal survivor silencing.",
     "Do not conflate returned trial survivors, past candidates' memory fragments and future daughters in Cantarella's wish, or call liberation of fragments a completed reform or each child's verified consent.",
-    "Do not infer performed timbre, actor intention or emotional state from FLAC hashes or aggregate F0 before human listening.",
+    "Do not infer performed timbre, actor intention or emotional state from FLAC hashes or aggregate F0; direct four-dub listening is limited to 6/845 selected solo lines.",
     "Do not give usable real-world poison or antidote instructions based on fictional prose.",
     "Do not treat Ascension I–V as dated ocean travel, IV's intimate secret image as audited public disclosure, or V's poisonous sea as a literally safe toxin environment.",
     "Do not erase the ZH/KO/EN reserved-refuge versus JA eventual-light difference in Ascension V or invent the addressee's reply.",

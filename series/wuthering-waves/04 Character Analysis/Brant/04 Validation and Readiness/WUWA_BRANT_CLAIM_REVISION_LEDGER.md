@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Brant — local claim-revision ledger
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_BRANT_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 This ledger records interpretive changes within a **noncurrent working packet**. The labels describe transitions from a tempting or earlier shorthand to the supported bound; they do not promote this draft over published authority. Full evidence and falsifiers are in [the matrix](../01%20Evidence%20and%20Source-Facing/WUWA_BRANT_EVIDENCE_AND_FALSIFICATION_MATRIX.md). `source_generation_frozen` is a provenance state, not an authority status.
 
 | Transition | Decision | Resulting claim and reason | Remaining test |
@@ -63,7 +65,7 @@ Future revision entries should name the exact source version, key/locator, witne
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); full-census four-dub listening beyond `BRA-DUB-01`..`06` and Companion Story `155000000` visual scenes remain open.
+> **Authority at the time of the Chapter II reconciliation (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); full-census four-dub listening beyond `BRA-DUB-01`..`06` and Companion Story `155000000` visual scenes remain open.
 
 | Claim / item | Transition | Runtime AV & English signal revision | Remaining boundary |
 |---|---|---|---|

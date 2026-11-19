@@ -20,6 +20,8 @@ do_not_use_as_current_authority: false
 
 # Qiuyuan — local draft claim-revision ledger
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_QIUYUAN_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 These changes refine an unpublished draft; they do not supersede an owner-adopted Qiuyuan authority. The source pin and semantic hierarchy are unchanged. The [evidence matrix](../01%20Evidence%20and%20Source-Facing/WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md) holds the claim IDs; the [recognition specialist](../01%20Evidence%20and%20Source-Facing/WUWA_QIUYUAN_RECOGNITION_BLADE_WEIGHT_AND_CHOSEN_SERVICE_PROFILE.md), [combat-trigger specialist](../01%20Evidence%20and%20Source-Facing/WUWA_QIUYUAN_COMBAT_TRIGGER_SENSORY_AND_LIMIT_LANGUAGE_PROFILE.md), and [harbor/message specialist](../01%20Evidence%20and%20Source-Facing/WUWA_QIUYUAN_HARBOR_SHEATH_AND_INVERTED_BOAT_MESSAGE_PROFILE.md) give targeted four-language readings. The additional [matched audio cases](../03%20Audiovisual%20and%20Voice/AUDIO_MATCHED_SEMANTIC_CASES.json), [source-action audit](WUWA_QIUYUAN_SOURCE_DEFINED_AUDIO_COHORT_AUDIT.md), and [favor-word row/key crosswalk](../01%20Evidence%20and%20Source-Facing/FAVOR_WORD_ID_TEXT_KEY_CROSSWALK.json) are technical joins and measurements, not new listening observations.
 
 | Claim or responsibility | Earlier local-draft tendency | Transition | Corrected or retained position | Basis and open test |
@@ -48,7 +50,7 @@ The 170-check validator checks archive key presence, exact four-language wording
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates for Chapter II Act XI (`158800019`) from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Patch 2.7 Segue `175000000` / `936800000` (`QIU-R01`–`03, R06`–`07, R09`) and full-census four-dub human listening beyond `QIU-DUB-01`..`05` remain open.
+> **Authority at the time of the Chapter II reconciliation (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates for Chapter II Act XI (`158800019`) from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Patch 2.7 Segue `175000000` / `936800000` (`QIU-R01`–`03, R06`–`07, R09`) and full-census four-dub human listening beyond `QIU-DUB-01`..`05` remain open.
 
 | Claim / item | Transition | Runtime AV & English signal revision | Remaining boundary |
 |---|---|---|---|

@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Zani — source census, chronology, and identity audit
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_ZANI_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 This is a selected-collection audit, not a claim to every future game version or every possible graph path. Its authority is the frozen normalized Arikatsu semantic view, with the installed client supplying separate raw audio evidence. Local private roots are `ANALYSIS/Characters/Zani/` and `_voice_media/character/complete_voice_corpus/Zani/v0_1/`. The source pin is the commit in the front matter. In the locators below, `flow#/N/A/I` expands to `wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/N/Actions!/A/Params/TalkItems/I`. `FavorWord_...` and `FavorStory_...` are exact text keys, not quotations. Consult the source JSON and crosswalk for their full locators.
 
 ## Denominators and scope

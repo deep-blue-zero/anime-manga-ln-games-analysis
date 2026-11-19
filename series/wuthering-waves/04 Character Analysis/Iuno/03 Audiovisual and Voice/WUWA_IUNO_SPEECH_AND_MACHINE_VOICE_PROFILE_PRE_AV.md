@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Iuno — textual speech and measured voice, pre-AV
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_IUNO_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 ## A voice with state, not one permanent pose
 
 Public Iuno enjoys self-advertisement, direct challenge, mock-grand titles and turning a tactical maneuver into a game. That register is not merely false armor; she says she likes surprises and applause, and her field instructions are genuinely confident. It is nevertheless incomplete. With Augusta she can quarrel and worry; with an injured companion she gives brief practical directions; before vanishing she asks about rest and admits the fear of forgetting; the 350026 remnant speaks in broken searches for her own name; after return she can admit an unknown future. The textual shift is a source-state constraint, **not yet an observed acting interpretation in the pre-AV baseline below** (see the appended **Stratified four-dub direct-listening calibration** section for the bounded `8/540`-line / `32`-render direct-ear pass while `532/540` semantic lines remain unreviewed). [IUN-E09–E18, E20–E23]

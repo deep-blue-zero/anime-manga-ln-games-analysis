@@ -20,6 +20,8 @@ do_not_use_as_current_authority: false
 
 # Iuno — claim revision ledger, draft pre-AV
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_IUNO_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 This ledger traces changes inside a noncurrent draft. `PRESERVE` retains a supported reading; `STRENGTHEN` adds independently sourced precision; `REVISE` changes an earlier shorthand; `DOWNGRADE` narrows a claim; `REJECT` withdraws it; `OPEN` names evidence still needed. None is a promotion of this packet to published authority. Claims and falsifiers remain in the [matrix](../01%20Evidence%20and%20Source-Facing/WUWA_IUNO_EVIDENCE_AND_FALSIFICATION_MATRIX.md).
 
 | Transition | Earlier shorthand or risk | Source-grounded disposition | Boundary |
@@ -63,7 +65,7 @@ Future promotion requires claim-specific source review, branch reachability wher
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal revisions from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); full-census four-dub listening beyond `IUN-DUB-01`..`08` remains open and this packet stays `draft_noncurrent`.
+> **Authority at the time of the Chapter II reconciliation (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal revisions from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); full-census four-dub listening beyond `IUN-DUB-01`..`08` remains open and this packet stays `draft_noncurrent`.
 
 | Claim / item | Transition | Runtime AV & English signal revision | Remaining boundary |
 |---|---|---|---|

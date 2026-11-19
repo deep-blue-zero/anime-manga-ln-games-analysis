@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Cantarella — textual speech and measured voice, pre-AV
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_CANTARELLA_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 ## Written registers, not actor-performance labels
 
 Cantarella often folds a concrete proposal into sea, poison or dream metaphor, then tests whether the addressee will approach. That pattern has multiple functions. A favor line offering relief for fatigue is caring; a character-quest warning names lethal plants with almost instructional precision; the Sea of Ghosts invitation asks Rover to judge her; the political account of Sentinel/Leviathan is structured explanation; after the crisis she describes ordinary tea plainly. The same lexical motif can therefore signal temptation, medical caution, memory, affection or artifice depending on scene. [CAN-E08–E13, E20–E22]

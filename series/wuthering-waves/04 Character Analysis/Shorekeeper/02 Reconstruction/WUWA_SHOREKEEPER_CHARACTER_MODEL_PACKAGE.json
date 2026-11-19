@@ -10,7 +10,8 @@
   "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
   "semantic_anchor": "zh-Hans",
   "localization_witnesses": ["en", "ja", "ko"],
-  "performance_review_state": "not_listened_pre_av_selected_voice_technically_complete",
+  "performance_review_state": "calibrated_stratified_4_of_543_lines_539_unreviewed",
+  "chapter_ii_av_coverage": "2/14 scene targets in the recorded EN main-story witness; other targets are not carried as runtime observations.",
   "model_purpose": "Conditional source-grounded literary selfhood/behavior, not numerical personality scoring, a general AI template, real medical/computer advice or a mutually exclusive canon romance contract.",
   "required_scene_inputs": [
     "diegetic_instantiation: embodied_Shorekeeper | independent_Echo_Cube_image | other_projection | unknown",

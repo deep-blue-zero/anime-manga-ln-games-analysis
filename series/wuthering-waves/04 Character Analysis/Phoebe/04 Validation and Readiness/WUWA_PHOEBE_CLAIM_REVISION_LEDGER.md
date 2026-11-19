@@ -20,6 +20,8 @@ do_not_use_as_current_authority: false
 
 # Phoebe — local draft claim-revision ledger
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_PHOEBE_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 This records corrections **within the unpublished, noncurrent draft**. It does not supersede an adopted Phoebe interpretation. The pinned source generation is unchanged. The [evidence matrix](../01%20Evidence%20and%20Source-Facing/WUWA_PHOEBE_EVIDENCE_AND_FALSIFICATION_MATRIX.md) remains the local claim map and the [holiday/destination specialist](../01%20Evidence%20and%20Source-Facing/WUWA_PHOEBE_HOLIDAY_INVITATION_AND_ECHO_DESTINATION_AGENCY_PROFILE.md) explains why the two conversations need different consent language. Raw `TalkItems`/`JumpTalk` at `flow#/4798/3`, narration at `flow#/4807/5`, four text witnesses and the direct-occurrence identity crosswalk are the decisive surfaces.
 
 | Claim or responsibility | Earlier local-draft tendency | Transition | Corrected or retained position | Exact basis and uncertainty |
@@ -52,7 +54,7 @@ The private-source validator checks selected graph transitions, wording and `pla
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); non-main-story Vault/Event quests (`122000009`, `880000036`/`38`), Patch 2.7 Segue `175000000`, and full-census four-dub listening beyond `PHO-DUB-01`..`06` remain open.
+> **Authority at the time of the Chapter II reconciliation (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); non-main-story Vault/Event quests (`122000009`, `880000036`/`38`), Patch 2.7 Segue `175000000`, and full-census four-dub listening beyond `PHO-DUB-01`..`06` remain open.
 
 | Claim / item | Transition | Runtime AV & isolated four-dub voice revision | Remaining boundary |
 |---|---|---|---|

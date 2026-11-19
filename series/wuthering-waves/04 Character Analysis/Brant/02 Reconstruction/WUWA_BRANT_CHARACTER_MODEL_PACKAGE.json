@@ -10,7 +10,8 @@
   "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
   "semantic_anchor": "zh-Hans",
   "localization_witnesses": ["en", "ja", "ko"],
-  "performance_review_state": "not_listened_pre_av",
+  "performance_review_state": "calibrated_stratified_6_of_606_lines_600_unreviewed",
+  "chapter_ii_av_coverage": "5/38 scene targets in the recorded EN main-story witness; other targets are not carried as runtime observations.",
   "model_purpose": "Evidence-linked conditional literary behavior for hypothetical scenes, not a probability personality score or canonical romance inference.",
   "required_scene_inputs": [
     "diegetic_instantiation: embodied_Brant | Echo_Cube_image | other_projection | unknown",
@@ -47,7 +48,7 @@
     "Do not present the painted broken heart or quoted curse as an observed treasure mechanism, or impose EN Character_Brant_65_10's sea-payment wording on ZH/JA/KO currents-and-trade-winds text.",
     "Do not erase the scripted honorary-captain title, but do not infer standing operational authority, an already scheduled next voyage or an exclusive romantic pledge from the map token.",
     "Do not assign anonymous theatrical quotation 8842/4 or relic-donor items 9965/5 to Brant by style or proximity.",
-    "Do not infer seductive, sorrowful, fearless or other performed timbre from waveform aggregates before listening.",
+    "Do not infer seductive, sorrowful, fearless or other performed timbre from waveform aggregates; direct four-dub listening is limited to 6/606 selected solo lines.",
     "Do not infer an exclusive mutual romance from friend language, gifts, invitations or theatrical play.",
     "Do not infer Aldric's end solely from Brant's localized return-for-money line; the independently linked quest synopsis reports his end at the treasure site, while the physical mechanism and Brant's personal knowledge remain unestablished.",
     "Do not resolve Aldric's Fools' ship versus Pilgrim's Sail departure wording by silently choosing one localization as a new event.",

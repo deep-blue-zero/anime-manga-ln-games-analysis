@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Iuno — source census, chronology and identity
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_IUNO_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 The selected normalized semantic source is Arikatsu commit `353f2eaed119bc9f680eab92807d20ac75a79b40`, generation `arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko`. Chinese is the semantic anchor; EN/JA/KO are official localized witnesses. Official-client WEM/decoded FLAC are a separate raw-media evidence authority for bytes and performance retrieval, not independent proof that the normalized narrative graph is correct. The generation is frozen; this analytical packet remains `draft_noncurrent`.
 
 The local valid collection audit retains **152** relevant full flow-state rows, **2,463** contextual text keys, **46** quest references across **nine** quest IDs and **three** WavesLine **metadata-only shells**. There are 595 direct attribution candidates: 585 accepted solo, five rejected, five unresolved. Of accepted direct occurrences, 460 are source-voiced and 125 source-unvoiced. Five favor stories and 80 archive voice entries are separate archive/profile material. The complete selected voice corpus has 540 semantic voice lines, 2,162 render associations, 2,158 runtime object rows and 2,155 distinct locally validated FLAC/PCM objects (616,110,370 distinct FLAC bytes), all locally measured with zero failures. These are pinned selected-scope denominators, not all-version or every-branch completeness.

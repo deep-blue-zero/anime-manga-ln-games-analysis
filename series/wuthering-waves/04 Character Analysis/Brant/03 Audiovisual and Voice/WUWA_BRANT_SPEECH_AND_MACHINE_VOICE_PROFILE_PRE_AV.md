@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Brant — speech and machine voice, before listening
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_BRANT_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 This is a text-register analysis and a native-audio integrity/signal census. **No human four-dub listening, actor-performance annotation or runtime audiovisual review had occurred in the pre-AV baseline preserved below** (see the appended **Stratified four-dub direct-listening calibration** section for the bounded `6/606`-line / `24`-render direct-ear pass while `600/606` semantic lines remain unreviewed). The Chinese text is the semantic anchor; localization witnesses can choose different metaphors, lengths and idioms. Do not compare raw written-unit rates across scripts as if they were phonetic syllables.
 
 ## Textual registers and switches

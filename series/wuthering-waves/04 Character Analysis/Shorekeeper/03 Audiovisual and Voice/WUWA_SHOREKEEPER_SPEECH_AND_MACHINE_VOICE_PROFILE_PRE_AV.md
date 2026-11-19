@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Shorekeeper — written register and measured four-dub audio, pre-listening
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_SHOREKEEPER_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 All 543 selected semantic voice lines resolve in all four official-client dubs. This is **technical resolution**, not completed full-corpus human listening (the pre-AV baseline below is now supplemented by the appended `4/543`-line / `16`-render stratified four-dub calibration while `539/543` semantic lines remain unreviewed). FLAC/PCM hashes prove which signal object was measured, not whether its voice seems robotic, tender, sorrowful or romantic. Fifteen [matched cases](AUDIO_MATCHED_SEMANTIC_CASES.json) are metadata-only source/text/media joins with explicit event IDs where present.
 
 | Written register | Contextual indicators | Caution |

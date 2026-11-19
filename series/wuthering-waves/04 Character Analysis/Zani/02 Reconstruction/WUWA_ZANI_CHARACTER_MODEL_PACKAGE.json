@@ -10,7 +10,8 @@
   "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
   "semantic_anchor": "zh-Hans",
   "localization_witnesses": ["en", "ja", "ko"],
-  "performance_review_state": "not_listened_pre_av",
+  "performance_review_state": "calibrated_stratified_5_of_912_lines_907_unreviewed",
+  "chapter_ii_av_coverage": "2/12 scene targets in the recorded EN main-story witness; other targets are not carried as runtime observations.",
   "model_purpose": "Conditional literary/behavioral scenario constraints, not a predictive probability model or license to reproduce game dialogue.",
   "required_scene_inputs": [
     "diegetic_instantiation: embodied_Zani | Echo_Cube_image | other_projection | unknown",
@@ -32,7 +33,7 @@
     "No transcript may be invented for the two missing normalized four-language text witnesses at flow row 4657.",
     "No specific origin of her Forte, identity of redacted assailants, or literal folkloric creature ancestry is established.",
     "No archive Ascension I–V line establishes a dated quest scene, unconditional service contract, or literal invulnerable sword/shield capability.",
-    "No actor emotion, intention, or dub-specific timbre claims before human four-dub listening.",
+    "Do not infer actor emotion or intention from signal measures, or generalize dub-specific timbre beyond the 5/912 directly listened four-dub solo lines.",
     "No bank-to-vigilante acoustic persona arc may be inferred from the eight measured action cohorts: level and qualified-F0 contrasts are inconsistent across dubs, and the first bank line has multiple PCM variants.",
     "No performed restitution or night-city tone may be claimed for the accepted 8585/5 and 8586/10 turns: all 23 are source-unvoiced in the selected pinned generation.",
     "English 'saving the world can wait' in a rest-advice archive line is stronger than the Chinese/Japanese/Korean endless-overtime analogy; do not turn it into a blanket refusal of urgent rescue.",

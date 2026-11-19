@@ -20,6 +20,8 @@ do_not_use_as_current_authority: false
 
 # Zani — claim revision ledger, draft pre-AV
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_ZANI_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 This ledger records interpretive changes made during packet construction, not changes to source text or to existing published authority. `PRESERVE` keeps a supported reading; `STRENGTHEN` adds independent support or precision; `REVISE` changes the claim; `DOWNGRADE` narrows its force; `REJECT` withdraws it; `OPEN` names missing evidence. The [matrix](../01%20Evidence%20and%20Source-Facing/WUWA_ZANI_EVIDENCE_AND_FALSIFICATION_MATRIX.md) remains the current draft claim index. Source anchors below point into the pinned Chinese semantic view, with EN/JA/KO as explicit witnesses.
 
 | Transition | Earlier shorthand or risk | Source-driven disposition | Material boundary |
@@ -54,7 +56,7 @@ No row promotes this draft to current or published authority. A later review may
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Companion Story `158800014`, holiday quest `230750000`, and full-census four-dub human listening beyond `ZAN-DUB-01`..`05` remain open.
+> **Authority at the time of the Chapter II reconciliation (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Companion Story `158800014`, holiday quest `230750000`, and full-census four-dub human listening beyond `ZAN-DUB-01`..`05` remain open.
 
 | Claim / item | Transition | Runtime AV & English signal revision | Remaining boundary |
 |---|---|---|---|

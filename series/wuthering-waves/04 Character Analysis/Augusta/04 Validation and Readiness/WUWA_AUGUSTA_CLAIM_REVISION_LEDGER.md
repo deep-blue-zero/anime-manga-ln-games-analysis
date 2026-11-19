@@ -20,6 +20,8 @@ do_not_use_as_current_authority: false
 
 # Augusta — claim revision ledger, draft pre-AV
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_AUGUSTA_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 This records changes to the interpretation of the pinned source, not changes to source data or a promotion to published authority. `PRESERVE` keeps a supported claim; `STRENGTHEN` adds material support; `REVISE` corrects it; `DOWNGRADE` narrows its force; `REJECT` withdraws it; `OPEN` names a missing test. The [matrix](../01%20Evidence%20and%20Source-Facing/WUWA_AUGUSTA_EVIDENCE_AND_FALSIFICATION_MATRIX.md) carries current draft claim IDs and falsifiers.
 
 | Transition | Shorthand or hazard | Source-grounded disposition | Remaining boundary |
@@ -62,7 +64,7 @@ A new source version, exact branch traversal or direct AV observation should rev
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Targeted runtime revisions from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); full-census four-dub human listening beyond `AUG-DUB-01`..`08` remains open and this draft is not promoted to current authority.
+> **Authority at the time of the Chapter II reconciliation (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Targeted runtime revisions from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); full-census four-dub human listening beyond `AUG-DUB-01`..`08` remains open and this draft is not promoted to current authority.
 
 | Claim / item | Transition | Runtime AV & English signal revision | Remaining boundary |
 |---|---|---|---|

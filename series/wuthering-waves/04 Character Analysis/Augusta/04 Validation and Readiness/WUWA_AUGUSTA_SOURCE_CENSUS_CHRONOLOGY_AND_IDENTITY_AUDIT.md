@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Augusta — source census, chronology, and identity audit
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_AUGUSTA_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 This is a bounded selected-collection audit, not a claim to every graph path or later client version. Source shorthand `flow#/N/A/I` expands to `wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/N/Actions!/A/Params/TalkItems/I`; favor/profile keys refer to the exact multilingual records in the local `character_source_package.json`. The Chinese text is the semantic anchor; English, Japanese and Korean are witnesses. Raw official-client audio and pinned normalized Arikatsu semantics have distinct authority.
 
 ## Denominators

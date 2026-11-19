@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Shorekeeper — source census, chronology and identity audit
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_SHOREKEEPER_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 Private source roots: `ANALYSIS/Characters/Shorekeeper`, `_voice_media/character/complete_voice_corpus/Shorekeeper/v0_1` and `_research/character_packets/Shorekeeper/audio_work`. Pinned collection integrity passes: 157 relevant *full* flow states, 2,684 contextual text keys, 79 quest references over 18 IDs, and four message records. These are collection-context denominators, not numbers of Shorekeeper lines. Direct candidates: 624; accepted solo 619, rejected five. Accepted direct occurrences: 483 source-voiced, 136 source-unvoiced. Five favor stories and 60 archive voice entries. The selected voice census is **543/543 complete semantic lines** with 2,172 four-language render associations (543 per language), 2,052 runtime object rows, 2,048 distinct locally measured FLAC/PCM objects, 524,309,692 distinct FLAC bytes, four repeated PCM rows and zero local measurement failures. No missing text witnesses or unresolved media reasons in this *selected pinned generation*. Human performance annotations remain zero; broader/live-client completeness is not implied.
 
 ## What each denominator can prove

@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Brant — source census, chronology, and identity audit
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_BRANT_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 This is a selected-collection audit, not a claim of every route or version. `flow#/N/A/I` expands to the pinned `wuwa://.../BinData/flowState/flowstate.json#/N/Actions!/A/Params/TalkItems/I` locator; `FavorStory_...`, `FavorWord_...` and `FavorRoleInfo_...` are exact local package keys. Chinese is the semantic anchor; EN/JA/KO are witnesses. Official-client FLAC is raw-media evidence, whereas Arikatsu is the current normalized semantic view. Source freeze and authority status are separate.
 
 ## Denominators

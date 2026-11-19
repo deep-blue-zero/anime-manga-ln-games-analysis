@@ -20,6 +20,8 @@ do_not_use_as_current_authority: false
 
 # Phoebe — textual speech and machine-measured four-dub voice
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_PHOEBE_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 This document preserves the pre-listening machine profile first and appends a bounded `6/476`-line (`24`-render) direct four-dub calibration section below (`470/476` semantic lines remain unreviewed). The voice corpus proves matched semantic occurrences, localized text witnesses, client source-media routes, and decoded PCM/FLAC objects; explicit Wwise event/bank/media IDs are available for some, not all, selected renders. The [retrieval crosswalk](WUWA_PHOEBE_AV_HUMAN_RETRIEVAL_CROSSWALK.md) records 28/48 selected render rows with null event and numeric-media IDs. The corpus does **not** establish the actor's emotional delivery, breath intention, accent, timbral image, or scene-specific audio mix. The twelve selected chains in [AUDIO_MATCHED_SEMANTIC_CASES.json](AUDIO_MATCHED_SEMANTIC_CASES.json) retain exact source locator, text hashes, event and numeric-media fields including nulls, source virtual path, WEM hash, FLAC hash, PCM hash, render variant, language, signal values, and QC flags without committing audio.
 
 ## Speech functions, not a single “sweet voice”

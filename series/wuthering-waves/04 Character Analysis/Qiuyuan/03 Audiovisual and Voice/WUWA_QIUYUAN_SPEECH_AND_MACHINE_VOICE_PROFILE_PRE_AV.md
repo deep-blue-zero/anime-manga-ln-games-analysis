@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Qiuyuan — textual speech and measured voice, pre-AV
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_QIUYUAN_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 This profile separates **what the lines say**, **what the signal measurement found**, and **what remains unheard**. Chinese is the semantic anchor; English, Japanese, and Korean are official text/voice witnesses in the selected collection. The machine-readable [fourteen-case join](AUDIO_MATCHED_SEMANTIC_CASES.json) gives semantic IDs, exact text keys/source locators, per-render IDs, WEM and PCM/FLAC hashes, durations, energy, pitch qualification, and QC flags without redistributing media. The [source audit](../04%20Validation%20and%20Readiness/WUWA_QIUYUAN_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md) defines the complete selected denominator.
 
 ## Textual speech modes

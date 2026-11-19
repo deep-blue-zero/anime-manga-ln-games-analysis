@@ -20,6 +20,8 @@ do_not_use_as_current_authority: false
 
 # Cantarella — local draft claim-revision ledger
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_CANTARELLA_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 This ledger records corrections **within the unpublished, noncurrent draft**. It is not a claim that a published or owner-adopted Cantarella interpretation was superseded. The source generation remains pinned. The readings use the full `flow#/6607/6` farewell, four official text witnesses to `Character_Cantarella_124_6`, the raw `TalkSequence`/`JumpTalk` graph at `flow#/6620/3`, the five ascension records, and a private source-defined audit of existing four-dub measurements. The [evidence matrix](../01%20Evidence%20and%20Source-Facing/WUWA_CANTARELLA_EVIDENCE_AND_FALSIFICATION_MATRIX.md) remains the current local claim-ID map; the [Cheri/headship specialist](../01%20Evidence%20and%20Source-Facing/WUWA_CANTARELLA_CHERI_HEADSHIP_AND_CONTESTABLE_PROTECTION_PROFILE.md), [sea/sanctuary specialist](../01%20Evidence%20and%20Source-Facing/WUWA_CANTARELLA_ASCENSION_SEA_SANCTUARY_AND_DISCLOSURE_PROFILE.md) and [speech profile](../03%20Audiovisual%20and%20Voice/WUWA_CANTARELLA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md) give the sustained arguments.
 
 | Claim or responsibility | Earlier local-draft tendency | Transition | Corrected or retained position | Exact basis and remaining counterevidence |
@@ -66,7 +68,7 @@ No listening or audiovisual observation was added. The selected sound cases acro
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Companion Story `880000033` visual staging and full-census four-dub human listening beyond `CAN-DUB-01`..`06` remain open.
+> **Authority at the time of the Chapter II reconciliation (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Companion Story `880000033` visual staging and full-census four-dub human listening beyond `CAN-DUB-01`..`06` remain open.
 
 | Claim / item | Transition | Runtime AV & English signal revision | Remaining boundary |
 |---|---|---|---|

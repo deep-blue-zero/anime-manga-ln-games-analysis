@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Zani — textual speech and measured audio, pre-AV
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_ZANI_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 This separates two different claims. The pinned text can support *what she says and how her wording changes by situation*. The official-client FLACs and Sigrika-derived signal pass can support *exact render identity and reproducible acoustic measurements*. No one had yet listened across four dubs in the pre-AV machine baseline preserved below (see the appended **Stratified four-dub direct-listening calibration** section for the bounded `5/912`-line / `20`-render direct-ear pass while `907/912` semantic lines remain unreviewed); no emotion, actor intention, dialect or relationship conclusion is inferred from pitch or loudness alone.
 
 ## Textual registers and speaking acts

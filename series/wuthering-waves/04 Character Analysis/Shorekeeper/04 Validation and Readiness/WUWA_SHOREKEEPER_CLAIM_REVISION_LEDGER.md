@@ -19,6 +19,8 @@ do_not_use_as_current_authority: false
 
 # Shorekeeper — claim revision ledger, pre-AV
 
+> **Publication note.** Statements below that retain draft or noncurrent authority describe the earlier preparation or Chapter II reconciliation, not the proposed adoption in this PR. The [current-state router](../WUWA_SHOREKEEPER_CURRENT_STATE.md) records the proposed owner-adopted scope. The adoption does not close any outstanding evidence or review limits.
+
 These transitions describe this draft's source-reading corrections, not changes to the game or a prior owner-adopted Shorekeeper model. The [matrix](../01%20Evidence%20and%20Source-Facing/WUWA_SHOREKEEPER_EVIDENCE_AND_FALSIFICATION_MATRIX.md) retains the durable evidence IDs and falsification tests. `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT` and `OPEN` denote analytical disposition within the pinned generation; a machine audio measurement is not human listening.
 
 | Transition | Earlier tempting shorthand | Current bounded claim and source reason | What remains open |
@@ -56,7 +58,7 @@ The operational consequence is asymmetric: retain explicit source propositions e
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV updates for Chapter II Prologue (`114000026`) and Act XI (`158800019`) from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Chapter I Black Shores (`145000004`), Patch 2.8 Honami (`SHK-R12`–`13`), and full-census four-dub listening beyond `SHK-DUB-01`..`04` remain open.
+> **Authority at the time of the Chapter II reconciliation (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV updates for Chapter II Prologue (`114000026`) and Act XI (`158800019`) from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Chapter I Black Shores (`145000004`), Patch 2.8 Honami (`SHK-R12`–`13`), and full-census four-dub listening beyond `SHK-DUB-01`..`04` remain open.
 
 | Transition | Target item / claim | Runtime AV & English signal revision | Remaining boundary |
 |---|---|---|---|
