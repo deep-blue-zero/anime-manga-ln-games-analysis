@@ -19,7 +19,7 @@ last_updated: 2026-11-19
 
 # B0252/B0253 documentary citation errata draft
 
-**Noncurrent proposal, not an accepted correction.** This draft records three citation-list omissions relative to the detailed event records already present in the published corpus. It proposes additional routes without replacing any claim, changing an interpretation or rewriting a prospective freeze. All line numbers below refer to the pinned baseline above.
+**Noncurrent proposal, not an accepted correction.** This draft records three citation-list corrections relative to the detailed event records already present in the published corpus. It proposes one citation-range replacement and two citation-list additions without replacing any claim, changing an interpretation or rewriting a prospective freeze. All line numbers below refer to the pinned baseline above.
 
 The comparison used the existing [B0252 reading](../02%20Readings/T7S_B0252_DEEP_READING.md), [B0253 reading](../02%20Readings/T7S_B0253_DEEP_READING.md), [claim component 008](../03%20Longitudinal%20Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_008.md) and [story component 006](../03%20Longitudinal%20Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_006.md). The original Japanese native pages were not inspected in this correction pass. Documentary agreement is not fresh primary-source verification, independent acceptance of the claims, or audiovisual review.
 
@@ -27,9 +27,9 @@ The comparison used the existing [B0252 reading](../02%20Readings/T7S_B0252_DEEP
 
 **Affected citation lists:** claim component 008, line 324; B0252 reading, claim at lines 97–101. Both lists cite `memory_0221.json__24c714f73fdfc6f0` P18–31, P59–71 and P108–125, while the formulation also names the refrigerator anecdote.
 
-**Existing documentary route:** `EV-B0252-010`, B0252 reading line 60 and story component 006 line 587, assigns that anecdote and its surrounding reactions to episode `509022101`, P140–158.
+**Existing documentary route:** `EV-B0252-010`, B0252 reading line 60 and story component 006 line 587, assigns that anecdote and its surrounding reactions to episode `509022101`, P140–158. By contrast, `EV-B0252-008` assigns P108–125 to 4U/Lucky Lucky affiliation, praise and future live plans, not to the household anecdotes in the complete `CL-B0252-006` claim.
 
-**Proposed addition, retaining the existing citations:** `t7s://c20260909-r484/v1/script/memory_0221.json__24c714f73fdfc6f0?doc=primary&log=140#/Pages/140` through `t7s://c20260909-r484/v1/script/memory_0221.json__24c714f73fdfc6f0?doc=primary&log=158#/Pages/158`.
+**Proposed replacement of P108–125, retaining P18–31 and P59–71:** `t7s://c20260909-r484/v1/script/memory_0221.json__24c714f73fdfc6f0?doc=primary&log=140#/Pages/140` through `t7s://c20260909-r484/v1/script/memory_0221.json__24c714f73fdfc6f0?doc=primary&log=158#/Pages/158`.
 
 The proposed route preserves the published distinction between a reported household anecdote and independently established physical capacity. It supplies no new claim about an accident, strength or performed delivery.
 
