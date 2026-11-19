@@ -4,7 +4,7 @@ series: summer-time-rendering
 artifact_id: STR_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: STR-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL main/supplement manga method; no narrative-mechanism findings"
 source_boundary: "Japanese main manga volumes 01-13 and 2026 未然事故物件 supplement; metadata only, no narrative admission or inspection"
@@ -68,6 +68,8 @@ The evidence plane retains per-image REVIEWED_MATERIAL/NO_MATERIAL_ADDITION/DUPL
 Every governing claim keeps support, inferential warrant, strongest counterreading and falsifier. Revisions use PRESERVE/STRENGTHEN/REVISE/DOWNGRADE/REJECT/OPEN, retaining prior formulations and prospective freezes. Reconstructed chronology is explicitly retrospective; it cannot overwrite the first-pass record.
 
 ## Complete future unit and acceptance
+
+Apply the [standing source-reading configuration](STR_SYNTHESIS_ARCHITECTURE.md#independent-occurrence-and-disclosure-review) at this unit’s authorized frontier. Its transaction records the independent findings and the principal’s adjudication alongside coverage, claim revisions and remaining evidence gaps.
 
 Create `readings/STR_MAIN_VNN_DEEP_READING.md` or a separately authorized `readings/STR_SUP2026_DEEP_READING.md` with `artifact_type: deep_reading` only during a legitimate run. Required content: witness/admission/coverage; exposure/entering state; governing/rival theses; full causal movement prose; named character/directed state; event/knowledge distinctions; ordinary/Japanese evidence; visual form; counterreadings and claim/forecast changes; exact ledger-update manifest; exit uncertainty/debts.
 

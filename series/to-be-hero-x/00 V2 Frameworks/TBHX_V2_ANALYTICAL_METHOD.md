@@ -2,7 +2,7 @@
 title: "To Be Hero X V2 — Full-Series Analytical Method"
 project: "To Be Hero X V2"
 artifact_type: "governing_method"
-version: "1.0"
+version: "1.1"
 created: "2026-08-13"
 status: "governing"
 primary_spoken_language: "Mandarin Chinese"
@@ -189,6 +189,8 @@ Each episode is processed in the following order.
 
 ### Pass 0 — Source and boundary check
 
+For a future authorized reading, assign the [standing episode team](TBHX_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md#standing-team-for-a-future-episode-reading) and verify each reader’s source, clock, inspection capabilities and prior exposure before opening the unit.
+
 - verify episode identity;
 - verify program-start offset;
 - confirm accessible Mandarin audio, Chinese ASS, screenshot archive, and Japanese reference if retained;
@@ -348,6 +350,8 @@ Each `TBHX_V2_E##_DEEP_READING.md` should contain:
 22. Primary-source locator ledger
 23. V1 comparison notes, if applicable
 24. Cumulative delta carried forward
+
+For future plot-bearing units, place a narrative synopsis near the front that preserves the episode’s consequential actions, uncertainties and outcome in proportion to its complexity after freezing the applicable prospective captures. Use the admitted broadcast horizon. In item 24 record each independent context and assignment, actual source coverage and exposure, significant located observations and alternatives, the reviewer’s challenges, the principal’s decisions and resulting ledger routes or open debts. Preserve the material evidence in the reading itself, including findings that changed or limited the principal’s interpretation.
 
 The retrospective addendum should remain empty until later material genuinely revises the episode.
 
