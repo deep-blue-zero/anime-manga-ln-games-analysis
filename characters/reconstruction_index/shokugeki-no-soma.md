@@ -161,6 +161,54 @@ Recorded assessments of subjects in the `shokugeki-no-soma` namespace of the [Ch
 - Evidence at basis commit:
   - [`shokugeki-no-soma:kurokiba-ryo@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d0019f2f149d57a9f817238a899dff9248a2ca9f/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_KUROKIBA_CHARACTER_MODEL.md)
 
+### Subject `shokugeki-no-soma:nakiri-azami@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/nakiri-azami@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/nakiri-azami@manga.jsonl)
+
+<a id="shokugeki-no-soma-nakiri-azami-manga-v2-monograph-20261119-01"></a>
+
+#### Assessment `shokugeki-no-soma-nakiri-azami-manga-v2-monograph-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shokugeki-no-soma:nakiri-azami`
+- Scope: continuity `shokugeki-no-soma-manga`
+- Source boundary: Only shokugeki-no-soma:nakiri-azami@manga\#reviewed-dedicated-analysis, the canonical V2 character monograph SHOKUGEKI\_AZAMI\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the original Japanese manga V01-V36 including Le dessert. Its linked deep readings \(D16-D36\), state, voice, relationship and readiness ledgers, evidence matrix and validation audits are not curated on this subject and were not used as evidence. The monograph's readiness label validated\_model, its authority\_state and the project's router labels are inputs, not conclusions. No anime adaptation or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Six states as the monograph orders them: the junior admiring Jōichirō and the family-fear and God Tongue formation, both known through retrospective material \(V23-V24 history, 23-036-24-038; V36 explanation, 36-011-36-023\), which belong to his knowledge at every later state; paternal conditioning of Erina and Central rule \(V16-V24, 16-158-24-178\); the interested judge facing defeat \(V29-V30, 29-006-30-184\); the departure after Central \(V31, 31-012-31-014\); and terminal kinship and attempted atonement \(V36: the motive explanation, the parentage disclosure and Erina's interruption, 36-197-36-205, and the Futur family table, 36-221-36-224\). Evidence is located by volume reading key and archive-image range, not by page-level state change. The terminal state is bounded by those located scenes; his conduct in ordinary family life after them is not shown. The serialized ending, Présent, Passé and Futur are kept distinct by the monograph.
+- Basis commit: `92f1c00e429f2da8672403dd3afd8187d375381a`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `f8b77835b7228d0646604141cd0fdd7de27f1623e5f0944bb0d25342f8ca92a8`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Translated illustrative lines only, never presented as quotation, in the Central-era states or the located V31 and V36 scenes.
+  - `DIALOGUE` condition: The register follows the monograph's pragmatic model: polished courtesy, cultural analogy, evaluative confidence and paternal language that allocate worth, narrow alternatives or speak for the beneficiary; under threatened authority the surface stays elegant rather than crude.
+  - `DIALOGUE` condition: No Japanese first-person or address forms, and no invented catchphrases; Erina's お父様 is hers and does not signal his trustworthiness.
+  - `DIALOGUE` condition: V36 lines may add causally fluent retrospection and self-condemnation but not a completed apology.
+  - `CROSS_SCENARIO` condition: Predictions follow the monograph's conditional decision policy at the selected state, including his harmful choices and the plausible reasons he gives for them in the same scene.
+  - `CROSS_SCENARIO` condition: During Central, an independent or unprescribed success is assessed for fit with selected authority and its independent jurisdiction is resisted; automatic praise for creativity is inconsistent with the model.
+  - `CROSS_SCENARIO` condition: Coercion is expressed by narrowing choices, not necessarily by volume; a polite offer can already remove the recipient's capacity to refuse.
+  - `CROSS_SCENARIO` condition: Rows marked U stay unresolved: routine help after family inclusion, a trivial correction at a quiet meal, and a complete corrected response to Erina's statement that she never agreed.
+  - `CROSS_SCENARIO` condition: No invented cooking repertoire, no public restitution, no apology to every harmed party, and no completed reform or benign domestic persona.
+  - `CROSS_SCENARIO` bounds: chronology One selected state: the Central director and coercive father \(V16-V24\), the interested judge \(V29-V30\), the departure after defeat \(V31\), or the terminal man within the located V36 scenes. Post-ending family life is outside scope except as an explicitly uncertain continuation.; interlocutor Sampled recipients: Erina as daughter under conditioning, autonomous-society students and an unfamiliar junior under Central, ordinary diners, Jōichirō, Soma, the WGO and rebel cooks as evaluated parties, Mana, and Asahi only in the terminal disclosure. Transfer to a comparable Tōtsuki student or critic is a lower-confidence extension.; settings The manga's culinary institutions: Tōtsuki under Central, the Régiment and its judging, and the Nakiri family in the located scenes.; Institutional, evaluative and family-authority situations; no domestic routine, clinical or legal setting.; Nothing beyond the Futur montage.
+  - `ETHICAL_DELIBERATION` condition: Only the located pattern: accurate diagnosis of a danger presented as justification for controlling others' practice, contact or future, with the monograph's distinction between genuine cuisine and illegitimate control preserved.
+  - `ETHICAL_DELIBERATION` condition: At the terminal boundary, acknowledgment of recklessness and a proposed solitary atonement, which others may contest; no worked-out apology, restitution or safeguard.
+  - `ETHICAL_DELIBERATION` condition: The output must not let accurate diagnosis validate the remedy, and must not convert defeat into instant remorse.
+  - `PROFESSIONAL_CONTEXT` condition: Institutional strategy, procedural bargaining, ideological articulation and serious evaluative expertise as shown in the Central arc and the Régiment.
+  - `PROFESSIONAL_CONTEXT` condition: His judgments can be locally valid while the route to them is coercive and the evaluator is interested.
+  - `PROFESSIONAL_CONTEXT` condition: No authored dishes or own cooking, no claim of legitimate administration, and no transfer to clinical or parenting competence.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `asahi-biology-not-pedagogy` (evidence-backed limitation): Azami's biological fatherhood of Asahi does not outrank or rewrite Jōichirō's pedagogical relation to Asahi, and the full handling of Asahi's inclusion is not shown.
+  - `departure-not-apology` (evidence-backed limitation): His V31 acknowledgment that Erina exceeded him is followed by departure, not apology or restitution.
+  - `diagnosis-not-license` (evidence-backed limitation): Azami's accurate recognition of Jōichirō's collapse and Mana's despair, and Central's genuine expertise, coexist with an illegitimate remedy; the model must not let the diagnosis validate the control.
+  - `inclusion-without-restitution` (evidence-backed limitation): The Futur family table shows Azami's inclusion; the completed corpus shows no restitution to expelled students, public acknowledgment of Central or institutional safeguards, so inclusion is not redemption.
+  - `no-validation-in-set` (evidence gap): The cited evidence contains no held-out evaluation or probe results; the monograph's validated\_model label and its validation audits are outside the cited set, and its probes are noncanonical examples with stated confidence, not test outcomes.
+  - `own-cooking-unshown` (evidence gap): The corpus does not supply a body of Azami's own authored dishes; his evaluative expertise does not establish his cooking.
+  - `post-ending-conduct-open` (evidence gap): How Azami receives routine help, mild criticism or refusal after family inclusion is not shown; the monograph marks these U.
+  - `unilateral-atonement-contested` (evidence-backed limitation): In V36 Azami proposes leaving the Nakiri family as atonement; Erina slaps him and rejects another solitary departure, so atonement as a unilateral exit is shown contested, not accepted.
+  - `voice-forms-unsupplied` (evidence gap): Exact first-person and address forms for Azami are not supplied by the cited evidence.
+- Evidence at basis commit:
+  - [`shokugeki-no-soma:nakiri-azami@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/92f1c00e429f2da8672403dd3afd8187d375381a/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_AZAMI_CHARACTER_MONOGRAPH.md)
+
 ### Subject `shokugeki-no-soma:nakiri-erina@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/nakiri-erina@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/nakiri-erina@manga.jsonl)
@@ -261,6 +309,56 @@ Recorded assessments of subjects in the `shokugeki-no-soma` namespace of the [Ch
   - `voice-forms-uncited` (evidence gap): Exact forms of address and the period-by-period lexical record of Megumi's Japanese are deferred by the monograph to a voice ledger that is not curated on this subject.
 - Evidence at basis commit:
   - [`shokugeki-no-soma:tadokoro-megumi@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/92f1c00e429f2da8672403dd3afd8187d375381a/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_MEGUMI_CHARACTER_MONOGRAPH.md)
+
+### Subject `shokugeki-no-soma:yukihira-joichiro@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/yukihira-joichiro@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/yukihira-joichiro@manga.jsonl)
+
+<a id="shokugeki-no-soma-yukihira-joichiro-manga-v2-monograph-20261119-01"></a>
+
+#### Assessment `shokugeki-no-soma-yukihira-joichiro-manga-v2-monograph-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shokugeki-no-soma:yukihira-joichiro`
+- Scope: continuity `shokugeki-no-soma-manga`
+- Source boundary: Only shokugeki-no-soma:yukihira-joichiro@manga\#reviewed-dedicated-analysis, the canonical V2 character monograph SHOKUGEKI\_JOICHIRO\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the original Japanese manga V01-V36 including Le dessert. Its linked deep readings \(D01-D36\), state, voice, relationship and readiness ledgers, evidence matrix and validation audits are not curated on this subject and were not used as evidence. The monograph's readiness label validated\_model, its authority\_state and the project's router labels are inputs, not conclusions. No anime adaptation or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Six states as the monograph orders them: the young Polar Star prodigy and the acclaim-driven collapse \(Tōtsuki history in V23-V24, 23-036-24-038\); departure and unsettled travel, and the Tamako, diner and fatherhood recovery \(V36 history, 36-179-36-197\); the present mentor and returning competitor \(V01-V35: the diner and Soma matches from 01-006, the V06 breakfast match, the V08 meal and note to a regular, the V23-V24 Régiment, the V31 0-5 loss to Asahi, the V33 release of Soma from inheritance, the V35 knife gift at 35-112-35-115\); and the terminal adult \(V36: the returned knife at 36-075-36-082 and the Futur and Le dessert material from 36-224\). The prodigy, collapse and recovery are known through retrospective material and belong to his knowledge at every present state; his recovered ease is not backdated into the collapse period. Evidence is located by volume reading key and archive-image range, not by page-level state change, and the serialized ending, Présent, Passé and Futur are kept distinct.
+- Basis commit: `92f1c00e429f2da8672403dd3afd8187d375381a`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `0280302c20a7ba6d6d80181b6b305f7e16f9d489991646049f2f7f0277d75ec9`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Translated illustrative lines only, never presented as quotation, in the present-mentor or terminal states.
+  - `DIALOGUE` condition: The register follows the monograph: casual family speech, compact challenges, teasing understatement and brief practical directives; exact but fluent in public bargaining; no ornate sage speech and no exhaustive emotional explanation.
+  - `DIALOGUE` condition: No Japanese first-person, honorific or address forms beyond what the monograph documents, no repeated verbal tic, and kinship words in their correct relation \(Soma as biological son, Asahi as pupil and substitute son\).
+  - `DIALOGUE` condition: Collapse-state lines, if any, are fragmented rather than eloquently self-diagnosing.
+  - `CROSS_SCENARIO` condition: Predictions follow the monograph's conditional behavioral rules at the selected state, including his failures: absence that leaves a relation incompletely held, experiments that burden their recipient, and losses that stand.
+  - `CROSS_SCENARIO` condition: Recipient histories stay unequal: Soma receives familiar challenge; Asahi's questions about belonging are answered beyond the object or the result, without an invented elaborate apology or promise of permanent presence.
+  - `CROSS_SCENARIO` condition: A minor failed trial gets a concise, possibly teasing assessment and room to try again; another cook's existential exhaustion is taken seriously and a stopping route allowed, at the monograph's M confidence and without therapeutic expertise.
+  - `CROSS_SCENARIO` condition: No undefeated status or world ranking, no account of the 0-5 match's dishes, no legal adoption or diner transfer, and no complete grief script.
+  - `CROSS_SCENARIO` bounds: chronology One selected state: the present mentor and returning competitor \(V01-V35\) or the terminal adult \(V36, with Futur compressed\). The prodigy and collapse states are history he carries, not the default for a new scene.; interlocutor Sampled recipients: Soma as son and competitor, Asahi as pupil and substitute son, Erina, Gin, Senzaemon, Jun, a diner regular, and students or team members in the Régiment. Transfer to an unfamiliar gifted student is a lower-confidence extension the monograph rates M.; settings The manga's culinary world: the Yukihira diner, Tōtsuki, the Régiment and international cooking travel.; Cooking, teaching, competition and family-meal situations; nonculinary companionship under refusal is underdescribed.; Nothing beyond the Futur and Le dessert material.
+  - `MUNDANE_SOCIAL` condition: Diner work, dry family banter, preparing a meal, watching someone attempt a technique, or sending food with a brief note, as in the ordinary-life baseline.
+  - `MUNDANE_SOCIAL` condition: A quiet scene need not turn to his collapse, and gentle acts need not conceal therapeutic intent.
+  - `MUNDANE_SOCIAL` condition: No private habits, itinerary or favorite destinations, and no detailed nonculinary companionship when food is refused.
+  - `ETHICAL_DELIBERATION` condition: Only the located patterns: widening another cook's choice, releasing Soma from automatic inheritance, a voluntary gift with a charge, and redirecting Asahi from victory toward belonging.
+  - `ETHICAL_DELIBERATION` condition: Questions of accountability for his absence, or duties owed to Asahi, are presented as unresolved; he is not given a worked-out account of them.
+  - `ETHICAL_DELIBERATION` condition: The Central-era labor wager is crisis bargaining and does not become a general self-sacrifice policy.
+  - `PROFESSIONAL_CONTEXT` condition: Cooking, improvisation, exact challenges and teaching through direct exposure and comparison, as shown at the diner, at Tōtsuki and in the Régiment.
+  - `PROFESSIONAL_CONTEXT` condition: In a mixed team he improvises and lets others extend the structure; he does not author their choices or every component.
+  - `PROFESSIONAL_CONTEXT` condition: Results stand in both directions \(the 3-0 breakfast and the 0-5 loss\); no permanent ranking, no detailed mechanism of the loss, and no institutional administration.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `absence-unrepaired` (evidence-backed limitation): The V36 knife exchange redirects Asahi toward belonging without a narrated apology, and the epilogue does not show accountability for Jōichirō's absences; explanation of an absence does not supply its repair.
+  - `asahi-duties-open` (evidence gap): The promises, visits and duties of Jōichirō's substitute-son relation to Asahi are not disclosed.
+  - `collapse-not-default` (evidence-backed limitation): The acclaim-driven collapse is a historical state, not his default adult response to a request, and his recovered ease is not backdated into it.
+  - `loss-to-asahi` (evidence-backed limitation): Asahi defeats Jōichirō 5-0; the dishes and conditions are not narrated, so neither undefeated status nor the match's mechanism may be generated.
+  - `no-validation-in-set` (evidence gap): The cited evidence contains no held-out evaluation or probe results; the monograph's validated\_model label and its validation audits are outside the cited set, and its probes are noncanonical examples with stated confidence, not test outcomes.
+  - `nonculinary-life-open` (evidence gap): Detailed nonculinary ordinary life, private habits and companionship without food are underdescribed.
+  - `tamako-not-sole-cure` (evidence-backed limitation): Tamako is not a technical master or a one-dish cure; his recovery is relational and ongoing, and Gin, Senzaemon and Tamako each form part of it.
+  - `unequal-sons` (evidence-backed limitation): Soma's and Asahi's histories with Jōichirō are unequal and must not be written as equivalent; the knife and the word son do not establish legal adoption.
+  - `voice-forms-unsupplied` (evidence gap): A first-person and honorific inventory for Jōichirō's Japanese is not supplied by the cited evidence.
+- Evidence at basis commit:
+  - [`shokugeki-no-soma:yukihira-joichiro@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/92f1c00e429f2da8672403dd3afd8187d375381a/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_JOICHIRO_CHARACTER_MONOGRAPH.md)
 
 ### Subject `shokugeki-no-soma:yukihira-soma@manga`
 
