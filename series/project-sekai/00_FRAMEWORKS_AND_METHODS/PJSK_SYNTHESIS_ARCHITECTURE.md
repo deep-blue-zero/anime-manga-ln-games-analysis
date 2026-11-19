@@ -54,6 +54,16 @@ Unit syntheses integrate long spans of events and character development. Special
 Cross-unit and whole-series interpretation is produced only after sufficient lower-layer coverage. Full-series synthesis should not become a dumping ground for unresolved local analysis.
 
 
+## Independent reading of a phase or event
+
+For each newly authorized substantive phase, event or supplemental reading, one principal reads its complete admitted envelope and owns the integrated interpretation, state handoff and resulting ledger deltas. Before source access, state the event and story IDs, conditions and earlier unit states available to each participant. Freeze prospective judgments before exposure to their resolution. A later release enters the established intake process at its own cutoff.
+
+An independent specialist reads the assigned canonical story records in a fresh context. Trace a consequential exchange from each participant’s available knowledge into its effect on the human unit or cross-unit relationship. Compare an admitted card, area conversation or My SEKAI encounter when it bears on the claim. Retain the ordinary response, private preference, refusal or counterexample with its speaker, recipient and context. Use the event relevance ledger to route the discovery to the existing affected unit. Keep special and alternate contexts distinguishable and preserve the scope of the original witness. Japanese text can support wording; claims about performed delivery or musical timing require a participant who actually inspected the authorized recording.
+
+A different critical reviewer directly inspects decisive dialogue and its neighboring turns or scene evidence, forming an initial view before seeing the interpretation where practical. Test claims of shared knowledge, cross-unit reach, chronology and lasting change, including evidence dropped from a card or support scene during integration. In the phase reading’s state handoff, the principal records assignments, actual exposure and inspection, located findings and alternatives, reviewer challenges, and why each material finding was accepted, narrowed, rejected or left open. Reconcile affected state, release-impact and claim-revision records before semantic acceptance. Maintain distinct source, analysis and reconstruction cutoffs.
+
+The [source-reading policy](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) governs independence and exceptions. Select reasoning per assignment from `SUBSTANTIVE_ANALYSIS`, escalating causal or epistemic disputes where warranted. Only an unusually bounded story may combine contribution and review in one separate source-aware context with the reason recorded. An unavailable independent inspection holds acceptance and high-water advance. Franchise screening, reconstruction and release promotion retain their existing roles.
+
 ## Main-story architecture
 
 

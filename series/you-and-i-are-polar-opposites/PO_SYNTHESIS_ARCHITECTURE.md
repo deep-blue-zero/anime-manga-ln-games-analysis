@@ -4,7 +4,7 @@ series: you-and-i-are-polar-opposites
 artifact_id: PO_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: PO-G1
-version: "1.2"
+version: "1.3"
 status: canonical
 authority_scope: "INITIAL main-manga architecture with separate shared-paratext controls"
 source_boundary: "Japanese manga volumes 01-08 plus one unadmitted shared artbook; metadata only, no narrative admission or inspection"
@@ -78,7 +78,7 @@ For each future authorized reading of a collected manga volume or separately adm
 
 A distinct reviewer reopens diagnostic pages, checks both directions of a relationship and tests whether the principal has turned a group’s impression into an individual’s state. Track the actual witness for the claim. The shared artbook and the other title stay outside the main-manga reading. The specialist forms an account in a separate context before seeing the principal’s draft. Where practicable the reviewer inspects the evidence before seeing either account. Record prior exposure, freeze predictions before revealing the outcome and identify any findings that lose independent or prospective credit after exposure.
 
-Use the volume manifest, connecting a finding to its person/relationship record, ordinary-life or register sample, and any claim revision to record participants, assignments, actual access and horizon, located observations, alternatives and review challenges. The principal records the reason to adopt, qualify, reject or leave each material finding open, preserves diagnostic evidence in the reading, and reconciles the shared records once. Check coverage, findings and cumulative state before closing the transaction. Interpretive roles start at `SUBSTANTIVE_ANALYSIS` and escalate individually for difficult or propagation-sensitive judgments. The standing team has distinct specialist and reviewer contexts. Record a capability blocker at the entrypoint and hold acceptance and frontier advance if the required access or independence is unavailable. [Source-reading policy](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading)
+In the volume manifest, record a separate entry for the principal, each specialist and the critical reviewer. For each person, name their assignment, actual source access and temporal horizon, the witness and page/image and panel ranges they inspected, and any material they skipped or could not inspect, with the reason. Record empty coverage explicitly. Link their located observations, alternatives and challenges to the relevant person/relationship record, ordinary-life or register sample, and any claim revision. The principal records the reason to adopt, qualify, reject or leave each material finding open, preserves diagnostic evidence in the reading, and reconciles the shared records once. Check coverage, findings and cumulative state before closing the transaction. Interpretive roles start at `SUBSTANTIVE_ANALYSIS` and escalate individually for difficult or propagation-sensitive judgments. The standing team has distinct specialist and reviewer contexts. Record a capability blocker at the entrypoint and hold acceptance and frontier advance if the required access or independence is unavailable. [Source-reading policy](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading)
 
 ## 5. Studies and preservation of analytical depth
 
@@ -146,6 +146,7 @@ Current maps/method/architecture and current indexes permit targeted edits with 
 | 1.0 | 2026-11-07 | INITIAL main-manga/contextual-expression architecture and single-home shared-paratext boundary; no findings |
 | 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the local method; individual/directed-relationship responsibilities, single-home shared-paratext boundary and CLOSED lock retained |
 | 1.2 | 2026-11-17 | Assigned independent source reading and reconciliation, and the qualification and acceptance route for individual portraits. |
+| 1.3 | 2026-11-18 | Specified each participant’s actual page and panel coverage in the volume manifest and the matching assessment row in the person/relationship ledger. |
 
 ## 9. Ownership and transfer
 

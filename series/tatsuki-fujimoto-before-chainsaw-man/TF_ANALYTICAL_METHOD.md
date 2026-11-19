@@ -4,7 +4,7 @@ series: tatsuki-fujimoto-before-chainsaw-man
 artifact_id: TF_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: TF-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL partial-collection manga method; no literary findings"
 source_boundary: "Japanese 藤本タツキ短編集 22-26 only; 17-21 absent; no narrative admission or inspection"
@@ -66,6 +66,8 @@ The evidence plane retains image-review states REVIEWED_MATERIAL/NO_MATERIAL_ADD
 Material claims retain full source-grounded warrant, strongest counterreading and possible falsifier. Changes use PRESERVE/STRENGTHEN/REVISE/DOWNGRADE/REJECT/OPEN, with prior formulations and prospective freezes kept. New acquisition cannot silently broaden an earlier claim's scope.
 
 ## Complete reading and comparative acceptance
+
+Apply the [standing source-reading configuration](TF_SYNTHESIS_ARCHITECTURE.md#independent-reading-within-one-mapped-story) at this unit’s authorized frontier. Its transaction records the independent findings and the principal’s adjudication alongside coverage, claim revisions and remaining evidence gaps.
 
 Create a future `readings/TF_C2226_<STORYKEY>_DEEP_READING.md` with `artifact_type: deep_reading` only in an authorized run. It includes source/admission/coverage, exposure and entering state, governing/rival theses, movement-level causal argument, person/directed states, ordinary/Japanese evidence, form, counterreadings, claim/forecast changes, ledger-update manifest and exit uncertainty.
 
