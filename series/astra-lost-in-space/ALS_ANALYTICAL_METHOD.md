@@ -4,7 +4,7 @@ series: astra-lost-in-space
 artifact_id: ALS_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: ALS-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL mapped-omnibus manga procedure; no literary findings"
 source_boundary: "One Japanese 彼方のアストラ 全巻合本版 omnibus EPUB; internal units unverified; no narrative admission or inspection"
@@ -64,6 +64,8 @@ Evidence-plane page states are REVIEWED_MATERIAL, NO_MATERIAL_ADDITION, DUPLICAT
 Every governing interpretation retains its support, inferential step, strongest counterreading and falsifier. New evidence uses PRESERVE/STRENGTHEN/REVISE/DOWNGRADE/REJECT/OPEN, keeping original wording and freezes. A clean map or high page count cannot substitute for argument.
 
 ## Complete future unit and acceptance
+
+Use the [independent source-reading team](ALS_SYNTHESIS_ARCHITECTURE.md#independent-source-reading) for every future authorized unit. Close the reading's ledger-update manifest with the participant evidence and principal's reconciliation before advancing the accepted frontier.
 
 A future `readings/ALS_<VERIFIED_UNIT>_DEEP_READING.md` has `artifact_type: deep_reading` only within an authorized run. Required sections: bound witness/unit and actual inspection; exposure/entering state; thesis/rival; full movement-level causal prose; named state and directed relationships; ordinary/Japanese evidence; visual form/recurrence; counterreadings and claim/forecast changes; exact ledger-update manifest; exit state, debt and completion decision.
 
