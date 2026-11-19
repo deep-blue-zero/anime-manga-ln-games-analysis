@@ -383,6 +383,10 @@ def write_outputs(root: Path, snapshot: GitSnapshot, rendered: Mapping[str, str]
         target = root.joinpath(*PurePosixPath(path).parts)
         data = rendered[path].encode("utf-8")
         if target.is_file() and not target.is_symlink() and target.read_bytes() == data:
+            # A retry can find correct worktree bytes that are still unstaged.
+            entry = snapshot.get(path)
+            if entry is None or entry.mode != "100644" or entry.data != data:
+                changed.append(path)
             continue
         target.parent.mkdir(parents=True, exist_ok=True)
         atomic_write_text(target, rendered[path])
