@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 179; `STALE` 2; `SUPERSEDED` 35
+- Recorded totals: `CANDIDATE` 181; `STALE` 2; `SUPERSEDED` 35
 
 ## Namespaces
 
@@ -43,7 +43,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 42 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 2 | 2 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
-| [`project-sekai`](reconstruction_index/project-sekai.md) | 4 | 5 |
+| [`project-sekai`](reconstruction_index/project-sekai.md) | 6 | 7 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 21 | 24 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 6 | 6 |
@@ -189,6 +189,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `peach-girl:okayasu-ryo@manga` | [`peach-girl-okayasu-ryo-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-okayasu-ryo-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `peach-girl:tojigamori-kazuya@manga` | [`peach-girl-tojigamori-kazuya-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-tojigamori-kazuya-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `project-sekai:emu@game` | [`project-sekai-emu-game-generation-2-package-20261119-01`](reconstruction_index/project-sekai.md#project-sekai-emu-game-generation-2-package-20261119-01) | `CANDIDATE` | `B` | `d970f85e940160938343d27cdcbc2826d1199885` |
+| `project-sekai:haruka@game` | [`project-sekai-haruka-game-generation-2-package-20261119-01`](reconstruction_index/project-sekai.md#project-sekai-haruka-game-generation-2-package-20261119-01) | `CANDIDATE` | `B` | `d970f85e940160938343d27cdcbc2826d1199885` |
+| `project-sekai:minori@game` | [`project-sekai-minori-game-generation-2-package-20261119-01`](reconstruction_index/project-sekai.md#project-sekai-minori-game-generation-2-package-20261119-01) | `CANDIDATE` | `B` | `d970f85e940160938343d27cdcbc2826d1199885` |
 | `project-sekai:nene@game` | [`project-sekai-nene-game-generation-2-package-20261116-01`](reconstruction_index/project-sekai.md#project-sekai-nene-game-generation-2-package-20261116-01) | `CANDIDATE` | `B` | `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27` |
 | `project-sekai:rui@game` | [`project-sekai-rui-game-generation-2-package-20261116-01`](reconstruction_index/project-sekai.md#project-sekai-rui-game-generation-2-package-20261116-01) | `CANDIDATE` | `B` | `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27` |
 | `project-sekai:tsukasa@game` | [`project-sekai-tsukasa-game-generation-2-package-20261116-02`](reconstruction_index/project-sekai.md#project-sekai-tsukasa-game-generation-2-package-20261116-02) | `CANDIDATE` | `B` | `58340ff57a3ae0e5f7b3d97996ba9ad47cc24d4a` |
