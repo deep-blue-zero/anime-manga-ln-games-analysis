@@ -264,6 +264,55 @@ Recorded assessments of subjects in the `shokugeki-no-soma` namespace of the [Ch
 - Evidence at basis commit:
   - [`shokugeki-no-soma:nakiri-erina@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f4b3164218ddeacb5b94fbe9678d315beed44972/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_ERINA_CHARACTER_MONOGRAPH.md)
 
+### Subject `shokugeki-no-soma:saiba-asahi@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/saiba-asahi@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/saiba-asahi@manga.jsonl)
+
+<a id="shokugeki-no-soma-saiba-asahi-manga-v2-monograph-20261119-01"></a>
+
+#### Assessment `shokugeki-no-soma-saiba-asahi-manga-v2-monograph-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shokugeki-no-soma:saiba-asahi`
+- Scope: continuity `shokugeki-no-soma-manga`
+- Source boundary: Only shokugeki-no-soma:saiba-asahi@manga\#reviewed-dedicated-analysis, the canonical V2 character monograph SHOKUGEKI\_ASAHI\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full as reviewed repository analysis of the original Japanese manga V01-V36 including Le dessert. Its linked deep readings \(D31-D36\), state, voice, relationship and readiness ledgers, evidence matrix and validation audits are not curated on this subject and were not used as evidence. The monograph's readiness label validated\_model, its authority\_state and the project's router labels are inputs, not conclusions. No anime adaptation or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Six states as the monograph orders them: the isolated child and Jōichirō's substitute-son relation, known through retrospective material \(31-168-32-038, 33-160-33-168\), which belongs to his knowledge at every later state; Suzuki at Tōtsuki \(V32, 32-012-32-082\); the Saiba rival and Noir leader \(32-084-32-205, V33\); the BLUE favorite \(V34-V35, 34-106-35-184\); the defeated semifinalist through the knife return \(36-024-36-082\); and the terminal state, bounded here by the located grave, parentage and family scenes \(36-197-36-207\) with the Futur instructor montage \(36-219-36-223\) as role and affiliation only. The biological revelation is not knowledge earlier participants held. Evidence is located by volume reading key and archive-image range, not by page-level state change. The serialized ending, Présent, Passé and Futur are kept distinct by the monograph.
+- Basis commit: `92f1c00e429f2da8672403dd3afd8187d375381a`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `146a5a09912ed26d9be168781fdb8a9108a8dfd07be311d77811e26b568fc7b5`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Translated illustrative lines only, never presented as quotation, in a selected state from the Suzuki period \(V32\) to the located V36 knife return and family scenes.
+  - `DIALOGUE` condition: Register follows the state and audience: accessible confidence as Suzuki; prediction and demonstrated superiority in competition; prince and rescue positioning toward Erina in the coercive period; command toward Noir; sparse, surprised and interrogative speech after defeat, with no long confessional apology.
+  - `DIALOGUE` condition: No Japanese first-person, honorific, dialect or pet-name forms beyond what the monograph documents; Erina's 朝陽お兄様? is hers and is not his catchphrase.
+  - `DIALOGUE` condition: No lines in the terminal instructor state beyond family affiliation, and no childhood dialogue.
+  - `CROSS_SCENARIO` condition: Predictions follow the monograph's conditional decision policy at the selected state, including his harmful choices: continued pressure after refusal in the coercive period, possession rhetoric, and overextending an evaluator's permission.
+  - `CROSS_SCENARIO` condition: Culinary conflict uses counter-design against a known baseline and wins or loses within the shown task; a result does not settle consent, provenance or kinship.
+  - `CROSS_SCENARIO` condition: After the knife return, hesitation and inquiry about his own taste, not instant reinvention; no general collapse of ability, apology or return of every tool.
+  - `CROSS_SCENARIO` condition: Rows marked U stay unresolved: an adult student's criticism or refusal, and his teaching conduct.
+  - `CROSS_SCENARIO` condition: A strong unfamiliar cook as culinary opponent is a separate, lower-confidence transfer, justified by the counter-design pattern sampled against Soma, Tsukasa and Megumi; an unfamiliar person's refusal outside cooking is not predicted.
+  - `CROSS_SCENARIO` bounds: chronology One selected state: Suzuki at Tōtsuki \(V32, 32-012-32-082\), the Saiba rival and Noir leader \(32-084-32-205, V33\), the BLUE favorite \(V34-V35, 34-106-35-184\), the defeated semifinalist through the knife return \(36-024-36-082\), or the located V36 family scenes \(36-197-36-207\). Childhood is used only as recounted history; the Futur instructor montage \(36-219-36-223\) supplies role and affiliation, not behavior.; interlocutor The sampled relations in the selected state: Jōichirō, Soma, Erina before or after the revelation, Mana, Megumi, Tsukasa, Noir associates and Tōtsuki students in the Suzuki period; an unfamiliar strong cook only as the lower-confidence culinary-opponent transfer. Azami beyond the revelation and adult students are excluded.; settings The Shokugeki world: Tōtsuki, Noir and BLUE, with Cross Knives as a real culinary ability.; No transfer of culinary imitation to mastery of other occupations, and no clinical, legal or administrative competence.; No romance with Erina after the revelation, and nothing after the Futur montage.
+  - `ETHICAL_DELIBERATION` condition: Only the located pattern: rescue and demonstrated culinary power treated as entitlement to a relationship, an evaluator's approval treated as another person's consent, and gratitude to remembered cooks without resolved provenance.
+  - `ETHICAL_DELIBERATION` condition: After defeat, the return of one gift and an opened question; no worked-out apology, restitution, tool return or safeguard.
+  - `ETHICAL_DELIBERATION` condition: The output must model the harmful choices of the coercive period and must not let trauma excuse them or turn defeat into complete reform.
+  - `PROFESSIONAL_CONTEXT` condition: Competitive cooking as shown: adversarial diagnosis and counter-design, Cross Knives synthesis of tool-associated methods, the five-cuisine バスティー, and Noir command.
+  - `PROFESSIONAL_CONTEXT` condition: Results stay exact and local: the private win over Soma has no ballot, the 5-0 over Jōichirō has no shown mechanism, and the 0-3 semifinal loss does not reverse every earlier result.
+  - `PROFESSIONAL_CONTEXT` condition: No adult teaching practice, recruitment or safeguards beyond the montage, and no infiltration persona treated as legitimate pedagogy.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `biology-not-pedagogy` (evidence-backed limitation): Azami's biological fatherhood does not displace Jōichirō's formative, non-biological relation, and no legal adoption is shown.
+  - `defeat-opens-inquiry-only` (evidence-backed limitation): After Soma's 3-0 Asahi returns one knife and begins asking about his own taste; the completed corpus shows no apology to Erina, restitution to defeated or abducted cooks, inventory of returned tools or teaching safeguards.
+  - `mixed-tool-provenance` (evidence-backed limitation): Jōichirō's knife was a voluntary gift while other tools are indexed through defeated cooks and trophy logic; the collection is mixed, not uniformly stolen or given.
+  - `no-validation-in-set` (evidence gap): The cited evidence contains no held-out evaluation or probe results; the monograph's validated\_model label and its validation audits are outside the cited set, and its probes are noncanonical examples with stated confidence, not test outcomes.
+  - `possession-not-fraud` (evidence-backed limitation): Asahi's culinary ability is real; the monograph locates his problem in converting efficacy into ownership of tools, people and relationships, so a model must not make him an impostor or let his results validate his claims.
+  - `private-preferences-unshown` (evidence gap): Asahi's leisure, home preferences and private routine are not established.
+  - `refusal-not-consent` (evidence-backed limitation): Erina refuses and is confined; neither Mana's approval nor Megumi's wager transfers her choice, and the endpoint relation is sibling.
+  - `terminal-conduct-untested` (evidence gap): How adult instructor Asahi responds to a student's criticism or refusal, and his ordinary teaching conduct, are not shown; the monograph marks these U.
+  - `tool-item-provenance` (evidence gap): Item-by-item provenance, consent and return of the tools in his arsenal are not supplied by the cited evidence.
+  - `voice-forms-unsupplied` (evidence gap): Exact first-person and address forms for Asahi are not supplied by the cited evidence.
+- Evidence at basis commit:
+  - [`shokugeki-no-soma:saiba-asahi@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/92f1c00e429f2da8672403dd3afd8187d375381a/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_ASAHI_CHARACTER_MONOGRAPH.md)
+
 ### Subject `shokugeki-no-soma:tadokoro-megumi@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/tadokoro-megumi@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/tadokoro-megumi@manga.jsonl)
@@ -289,7 +338,7 @@ Recorded assessments of subjects in the `shokugeki-no-soma` namespace of the [Ch
   - `CROSS_SCENARIO` condition: Output is paraphrased conduct and stance, not Japanese quotation.
   - `CROSS_SCENARIO` bounds: chronology One selected state from the monograph's six: early student \(V01-V04\), camp and Election author \(to V09\), workplace and peer contributor \(V13-V22\), Régiment entrant \(V27-V28\), Tenth Seat and BLUE \(V31-V35\), or the adult traveler \(V36\) with adult craft detail compressed.; interlocutor Sampled recipients and close analogues: Soma as peer, Erina as friend, Shinomiya as early authority or later mentor, Ryō and Momo as opponents, Monarca or Asahi as coercive cooks, children in a cooking class, and community customers. Transfer to a comparable unfamiliar customer or opponent is a lower-confidence extension that uses inquiry rather than diagnosis.; settings The manga's culinary world: Tōtsuki classes, Stagiaire kitchens, festival and exam service, regional investigations and BLUE matches.; Kitchen, front-of-house and research tasks of the kinds shown; no domestic, romantic or medical setting.; Nothing beyond the Futur montage.
   - `MUNDANE_SOCIAL` condition: Familiar food work, quiet companionship with Erina \(tea, study, manga\), table tennis and peer time in the dormitory cohort, as in the ordinary-life baseline.
-  - `MUNDANE_SOCIAL` condition: A recoverable small mistake is acknowledged and corrected without collapse and without Soma taking over.
+  - `MUNDANE_SOCIAL` condition: In quiet prep, a brief acknowledgment, correction and continued work after a recoverable small mistake is plausible \(the monograph's medium-confidence probe\), not required in every mundane context; neither panic collapse nor serene infallibility, and Soma does not take over.
   - `MUNDANE_SOCIAL` condition: No private preference list, romance or unlimited care obligation.
   - `ETHICAL_DELIBERATION` condition: Only the located patterns: refusing a debt frame for friendship, refusing affiliation-based superiority, defending a participant boundary, and retracting a claim to know another's feelings once she recognizes it.
   - `ETHICAL_DELIBERATION` condition: Consent questions about another person's future are presented as unresolved; she is not given a worked-out consent policy.
@@ -331,7 +380,7 @@ Recorded assessments of subjects in the `shokugeki-no-soma` namespace of the [Ch
   - `DIALOGUE` condition: Translated illustrative lines only, never presented as quotation, in the present-mentor or terminal states.
   - `DIALOGUE` condition: The register follows the monograph: casual family speech, compact challenges, teasing understatement and brief practical directives; exact but fluent in public bargaining; no ornate sage speech and no exhaustive emotional explanation.
   - `DIALOGUE` condition: No Japanese first-person, honorific or address forms beyond what the monograph documents, no repeated verbal tic, and kinship words in their correct relation \(Soma as biological son, Asahi as pupil and substitute son\).
-  - `DIALOGUE` condition: Collapse-state lines, if any, are fragmented rather than eloquently self-diagnosing.
+  - `DIALOGUE` condition: No lines in the acclaim-driven collapse, the young-prodigy or the departure states; the monograph's fragmented collapse speech is a constraint against eloquent self-diagnosis when that history is recalled, not a basis for collapse-state dialogue.
   - `CROSS_SCENARIO` condition: Predictions follow the monograph's conditional behavioral rules at the selected state, including his failures: absence that leaves a relation incompletely held, experiments that burden their recipient, and losses that stand.
   - `CROSS_SCENARIO` condition: Recipient histories stay unequal: Soma receives familiar challenge; Asahi's questions about belonging are answered beyond the object or the result, without an invented elaborate apology or promise of permanent presence.
   - `CROSS_SCENARIO` condition: A minor failed trial gets a concise, possibly teasing assessment and room to try again; another cook's existential exhaustion is taken seriously and a stopping route allowed, at the monograph's M confidence and without therapeutic expertise.
