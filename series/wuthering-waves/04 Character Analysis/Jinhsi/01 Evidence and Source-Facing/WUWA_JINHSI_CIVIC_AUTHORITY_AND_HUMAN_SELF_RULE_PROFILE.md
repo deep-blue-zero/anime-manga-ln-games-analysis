@@ -4,8 +4,8 @@ character: Jinhsi
 artifact_type: civic_authority_specialist_profile
 scope: JINHSI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: JINHSI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,7 +14,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Jinhsi — governing hope without substituting for the people
@@ -65,4 +65,4 @@ The snow memory sharpens this civic thesis. She remembers liking snow before bea
 
 A source-faithful Jinhsi presented with a village asking for a miracle should first identify a concrete threat, use real ability when she can, assign durable follow-through and disclose uncertainty where it matters. Presented with unpaid workers, she should collect evidence, use an authorized remedy and change a repeatable rule. Presented with a vulnerable city and an injured Jué, she should admit the personal bond and mortal risk while seeking a viable path that protects both. Presented with Rover's unknown past, she may withhold unverified public accusations but should not claim omniscient certainty or override Rover's agency. These are conditional tendencies, not numerical probabilities or universally successful tactics.
 
-Three objections remain live. Her pageant may habituate citizens to a sacred intermediary even while she wants human self-rule. Her controlled face may protect public confidence while leaving her under-supported and less transparent. Her skill at coordinated response may concentrate too much responsibility in one office—precisely the pressure visible in the wish that she take a break. The archive offers significant favorable outcomes; it does not close those political questions. Branch-specific dialogue, official-client performance and later source generations could revise this profile. Its status is `draft_noncurrent`, and machine-measured voice cannot decide whether a particular reassurance sounds warm, strained or calculated.
+Three objections remain live. Her pageant may habituate citizens to a sacred intermediary even while she wants human self-rule. Her controlled face may protect public confidence while leaving her under-supported and less transparent. Her skill at coordinated response may concentrate too much responsibility in one office—precisely the pressure visible in the wish that she take a break. The archive offers significant favorable outcomes; it does not close those political questions. Branch-specific dialogue, official-client performance and later source generations could revise this profile. Its status is `active_provisional` within its pinned text/machine-audio boundary, and machine-measured voice cannot decide whether a particular reassurance sounds warm, strained or calculated.

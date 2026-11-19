@@ -5,8 +5,8 @@ artifact_type: av_human_retrieval_crosswalk
 analytical_responsibility: "Exact sound and runtime retrieval for cover speech, consent, repair, and chosen visibility"
 scope: YINLIN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: YINLIN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,7 +15,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Yinlin — claim-driven human AV retrieval crosswalk
@@ -117,4 +117,4 @@ Future capture should record client build, exact state key, path/branch, languag
 
 ## Chapter II shared AV scope verification (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** All 33 Yinlin crosswalk targets (`YIN-AV-*` and `YIN-R01`–`R12`, centered on Companion Story `114000018` *Solitary Path*, event quests `32750018` / `880700001` / `139000039` / `211750002`, and archive `FavorWord` items) are verified **`out_of_recording_scope`** across all `105,804.732367 s` (`SEG-001`–`SEG-013`) of the Chapter II *Rinascita* main-story witness `WUWA_CH2_FAYATO_1080P60_6076F127`, with zero diegetic or player-avatar appearances (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)). Companion Story runtime acquisition and four-dub human listening remain open; this packet stays `draft_noncurrent`.
+> **Historical authority at initial Chapter II reconciliation (`draft_noncurrent`; subsequently promoted to `active_provisional` / `do_not_use_as_current_authority: false` on 2026-11-19).** All 33 Yinlin crosswalk targets (`YIN-AV-*` and `YIN-R01`–`R12`, centered on Companion Story `114000018` *Solitary Path*, event quests `32750018` / `880700001` / `139000039` / `211750002`, and archive `FavorWord` items) are verified **`out_of_recording_scope`** across all `105,804.732367 s` (`SEG-001`–`SEG-013`) of the Chapter II *Rinascita* main-story witness `WUWA_CH2_FAYATO_1080P60_6076F127`, with zero diegetic or player-avatar appearances (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)). Companion Story runtime acquisition and four-dub human listening remain open; this packet now holds `active_provisional` authority within its declared bounds.

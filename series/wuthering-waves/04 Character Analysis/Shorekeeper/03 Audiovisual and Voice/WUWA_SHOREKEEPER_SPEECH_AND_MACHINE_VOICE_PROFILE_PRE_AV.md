@@ -4,8 +4,8 @@ character: Shorekeeper
 artifact_type: speech_and_machine_voice_profile
 scope: SHOREKEEPER_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: SHOREKEEPER_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,10 +14,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Shorekeeper — written register and measured four-dub audio, pre-listening
+
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `active_provisional` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_SHOREKEEPER_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 All 543 selected semantic voice lines resolve in all four official-client dubs. This is **technical resolution**, not completed full-corpus human listening (the pre-AV baseline below is now supplemented by the appended `4/543`-line / `16`-render stratified four-dub calibration while `539/543` semantic lines remain unreviewed). FLAC/PCM hashes prove which signal object was measured, not whether its voice seems robotic, tender, sorrowful or romantic. Fifteen [matched cases](AUDIO_MATCHED_SEMANTIC_CASES.json) are metadata-only source/text/media joins with explicit event IDs where present.
 
@@ -83,7 +85,7 @@ The five [battle-language retrieval nominations](../01%20Evidence%20and%20Source
 
 ### Cohort separation and coverage boundary
 
-This section appends bounded direct four-dub listening from [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) and [WUWA_SHOREKEEPER_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_SHOREKEEPER_AV_HUMAN_RETRIEVAL_CROSSWALK.md) while preserving all historical pre-listening sections and `draft_noncurrent` authority (`do_not_use_as_current_authority: true`):
+This section appends bounded direct four-dub listening from [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) and [WUWA_SHOREKEEPER_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_SHOREKEEPER_AV_HUMAN_RETRIEVAL_CROSSWALK.md) while preserving all historical pre-listening sections (originally recorded under `draft_noncurrent`; packet now owner-adopted `active_provisional` with `do_not_use_as_current_authority: false`):
 
 - **Cohort 1 — Complete selected machine manifest (unreviewed by ear as a whole)**: `543` semantic voice lines, `2,172` render associations, and `2,048` distinct measured FLAC/PCM objects.
 - **Cohort 2 — Nine source-defined story cohorts**: `208/543` story occurrences (`832` distinct integrity-valid PCM objects) audited algorithmically across Black Shores, Rinascita Prologue, and `3.1` tunnel states.

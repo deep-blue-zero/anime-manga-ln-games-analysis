@@ -5,8 +5,8 @@ artifact_type: lucilla_academy_trust_student_hope_and_nivora_pursuit_profile
 analytical_responsibility: "Read one continuous Academy audience and abduction response without converting conversational estimates, trusted solo hypotheses, or technical voice variants into completed outcomes"
 scope: LUUK_HERSSEN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: LUUK_HERSSEN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,7 +15,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Luuk — earning institutional trust without surrendering private judgment

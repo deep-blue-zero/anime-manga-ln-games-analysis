@@ -5,9 +5,9 @@ artifact_type: analysis_packet_entrypoint
 analytical_responsibility: "Local entrypoint, source accounting, authority boundary, and delivery audit"
 scope: CARTETHYIA_SOURCE_3_6_0_PRE_AV_REBUILD
 analysis_generation: CARTETHYIA_PRE_AV_REBUILD_V0_1
-status: active_provisional
-release_state: current_provisional_pre_av
-analysis_authority_state: owner_adopted_current_provisional
+status: canonical
+release_state: owner_adopted_current_canonical
+analysis_authority_state: owner_adopted_current_canonical
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 text_authority: zh-Hans
 localization_witnesses: [ja, ko, en]
@@ -21,7 +21,7 @@ created: 2026-09-05
 authority_adoption: owner_2026_09_09_text_audio_baseline
 ---
 
-> **Current authority — owner adoption, 2026-09-09.** This document is current `active_provisional` authority for its declared analytical or planning scope and inspected text/audio evidence. AV and other stated gaps limit the corresponding claims, not the entire model. Original local-draft and future-publication statements below describe preparation history. Coverage and completion claims remain as recorded; plans and probes are not observations. See the [adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md).
+> **Current authority — owner adoption and canonical promotion (2026-11-19).** This document holds owner-adopted `canonical` authority (`do_not_use_as_current_authority: false`) within Cartethyia's pinned 3.6.0 text, machine-audio, and Chapter II AV/four-dub reconciled boundary; see the [current-state router](WUWA_CARTETHYIA_CURRENT_STATE.md), [2026-11-19 tiering record](../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md), and earlier [2026-09-09 baseline adoption](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md). Open voice-census (`759/786` solo lines) and non-main-story/optional AV (`6/33` targets) limits continue to bound the corresponding claims; original preparation statements below record construction history.
 
 # Cartethyia Reconstruction Packet - Local Pre-AV Rebuild V0.1
 
@@ -31,7 +31,7 @@ The [current-state router](WUWA_CARTETHYIA_CURRENT_STATE.md) is the primary curr
 
 This is the **packet-manifest entrypoint** for a twelve-document reconstruction of Cartethyia, rebuilt using the source-facing, state-sensitive, ordinary-life, falsification, and audiovisual-retrieval practices developed in the Lynae, Aemeath, and Denia packets. It is not a renamed template or an expansion of the earlier monograph by paraphrase. The frozen primary selection was reread, the supplied acoustic records reaggregated, and material prior interpretations reconsidered.
 
-**Authority:** owner-adopted current `active_provisional` text/audio analysis. At initial preparation, no Git or Drive publication was performed; the adoption note above records the later owner decision. Intended future analytical home: `series/wuthering-waves/04 Character Analysis/Cartethyia/`. Existing published analysis is not overwritten or silently superseded. The word rebuild distinguishes this packet's V0.1 from historical Cartethyia analytical V0.1/V0.2 and evidence V0.3.1; these are different version domains.
+**Authority:** owner-adopted current `canonical` analysis within its declared 3.6.0 text, machine-audio, and Chapter II AV-reconciled boundary. At initial preparation, no Git or Drive publication was performed; the adoption note above records the later owner decision. Intended future analytical home: `series/wuthering-waves/04 Character Analysis/Cartethyia/`. Existing published analysis is not overwritten or silently superseded. The word rebuild distinguishes this packet's V0.1 from historical Cartethyia analytical V0.1/V0.2 and evidence V0.3.1; these are different version domains.
 
 **Reading center:** *Cartethyia: A Life That Cannot Be Finished for Her*. The governing interpretation is that she reclaims a continuous, imperfect life from powers that would determine its origin, role, and ending. Knightliness, ordinary joy, being cared for, reciprocal opposition, and civic repair belong to that life. They do not prove that every pressure toward self-instrumentalization has disappeared.
 

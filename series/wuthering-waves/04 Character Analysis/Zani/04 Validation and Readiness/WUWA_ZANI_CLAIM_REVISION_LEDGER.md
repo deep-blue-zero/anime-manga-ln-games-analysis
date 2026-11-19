@@ -5,8 +5,8 @@ artifact_type: claim_revision_ledger
 analytical_responsibility: "Record material source-driven transitions and remaining uncertainty in the draft packet"
 scope: ZANI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: ZANI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,10 +15,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Zani — claim revision ledger, draft pre-AV
+
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `active_provisional` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_ZANI_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 This ledger records interpretive changes made during packet construction, not changes to source text or to existing published authority. `PRESERVE` keeps a supported reading; `STRENGTHEN` adds independent support or precision; `REVISE` changes the claim; `DOWNGRADE` narrows its force; `REJECT` withdraws it; `OPEN` names missing evidence. The [matrix](../01%20Evidence%20and%20Source-Facing/WUWA_ZANI_EVIDENCE_AND_FALSIFICATION_MATRIX.md) remains the current draft claim index. Source anchors below point into the pinned Chinese semantic view, with EN/JA/KO as explicit witnesses.
 
@@ -54,10 +56,10 @@ No row promotes this draft to current or published authority. A later review may
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Companion Story `158800014`, holiday quest `230750000`, and full-census four-dub human listening beyond `ZAN-DUB-01`..`05` remain open.
+> **Historical authority at initial Chapter II reconciliation (`draft_noncurrent`; subsequently promoted to `active_provisional` / `do_not_use_as_current_authority: false` on 2026-11-19).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Companion Story `158800014`, holiday quest `230750000`, and full-census four-dub human listening beyond `ZAN-DUB-01`..`05` remain open.
 
 | Claim / item | Transition | Runtime AV & English signal revision | Remaining boundary |
 |---|---|---|---|
 | `ZAN-C01, C02` / `ZAN-R01` & Act X `flow#/9950` (`ZAN-E23` labor candor vs protective service) | **STRENGTHEN** | `SCN-0017` (collar-touch sigh and paid-leave slip after Lombardi call, calibrated across 4 dubs in `ZAN-DUB-01`–`02`) paired with triggered optional `SCN-0293` (`flow#/9950`, quietly covering bereaved clerk Nevana's desk before commanding Vault evacuations in `flow#/8863`) proves dry overtime fatigue coexists with unadvertised care for coworkers and civilians. | Actual paid-leave quest `12439/7` (`ZAN-R05`) is outside main-story recording scope. |
 | `ZAN-C43` / `ZAN-R12` (`4245/2` Pioneer projection & mask-shop route) | **STRENGTHEN** | `SCN-0021`–`0022` verifies the sepia C-MOSS still (`4088.5 s`, masked figure with crimson-black TD flower), executed `_26_8 -> _26_33 -> _26_40` branch path, speaker separation from Fulmine and Rover, and Masked Reverie outcome where Carlotta identifies Gilberto. | Alternate first/mask branches in `4245/2` and bypassed `LevelD` Gondola bark `ZAN-R06` (`4657/1`) remain unplayed in this witness. |
-| `ZAN-C19`–`C24` / `ZAN-DUB-01..05` (4-dub off-clock sigh drop & close-mic protective growl) | **STRENGTHEN** | Direct 4-dub calibration (`20` isolated WEM renders; [four-dub voice ledger](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md)) confirms an audible off-clock sigh across all 4 dubs in `2_1_16_41` (`en` `-50.5 Hz` drop from `_F` `DUB-01` into husky Italianate alto) and controlled low-register menace (`en` `128.8 Hz`) in `Character_Zani_63_23`. | Stratified 5-moment cohort (`907/912` Zani lines remain uninspected by ear); Companion Story `158800014` runtime scenes remain open; `draft_noncurrent` preserved. |
+| `ZAN-C19`–`C24` / `ZAN-DUB-01..05` (4-dub off-clock sigh drop & close-mic protective growl) | **STRENGTHEN** | Direct 4-dub calibration (`20` isolated WEM renders; [four-dub voice ledger](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md)) confirms an audible off-clock sigh across all 4 dubs in `2_1_16_41` (`en` `-50.5 Hz` drop from `_F` `DUB-01` into husky Italianate alto) and controlled low-register menace (`en` `128.8 Hz`) in `Character_Zani_63_23`. | Stratified 5-moment cohort (`907/912` Zani lines remain uninspected by ear); Companion Story `158800014` runtime scenes remain open; current `active_provisional` bounds apply. |

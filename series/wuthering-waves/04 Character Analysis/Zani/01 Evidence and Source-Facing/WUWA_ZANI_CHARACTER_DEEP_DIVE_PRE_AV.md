@@ -4,8 +4,8 @@ character: Zani
 artifact_type: continuous_character_deep_dive
 scope: ZANI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: ZANI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,7 +14,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Zani: the nightwalker who wants a city that can sleep
@@ -125,4 +125,4 @@ Several rival readings must remain available. She may be understood as a fundame
 
 ## Limits of this reconstruction
 
-Zani's voice corpus is locally complete for the selected normalized scope—912 semantic voice lines, 3,653 render associations, 3,517 measured unique FLAC/PCM objects—but it has not undergone human four-dub listening. Two voiced semantic occurrences have missing normalized text in all four languages. These are open gaps, not silent opportunities to guess words from audio. Three official-client UI rasters support an individualized office/security visual profile, not runtime pose, back construction, every form or animation. Optional branch paths and repeated text witnesses should not be compressed into one canonical witnessed scene. Character state is still provisional: newer source versions or direct runtime evidence could revise specific inferences. The best supported concise reading is therefore conditional: a capable worker and protector whose jokes, force and exhaustion make sense around a strong preference for meaningful civic safety—and whose deepest practical challenge may be learning to inhabit the peace she helps create.
+Zani's voice corpus is locally complete for the selected normalized scope—912 semantic voice lines, 3,653 render associations, 3,517 measured unique FLAC/PCM objects—in the pre-AV baseline; subsequent human four-dub listening is limited to the five solo lines named in the current-state router. Two voiced semantic occurrences have missing normalized text in all four languages. These are open gaps, not silent opportunities to guess words from audio. Three official-client UI rasters support an individualized office/security visual profile, not runtime pose, back construction, every form or animation. Optional branch paths and repeated text witnesses should not be compressed into one canonical witnessed scene. Character state is still provisional: newer source versions or direct runtime evidence could revise specific inferences. The best supported concise reading is therefore conditional: a capable worker and protector whose jokes, force and exhaustion make sense around a strong preference for meaningful civic safety—and whose deepest practical challenge may be learning to inhabit the peace she helps create.
