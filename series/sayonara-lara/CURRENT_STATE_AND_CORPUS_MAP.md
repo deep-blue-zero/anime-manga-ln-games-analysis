@@ -4,7 +4,7 @@ artifact_id: SYL_CURRENT_STATE
 artifact_type: corpus_map
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -86,6 +86,8 @@ This runtime can read text, inspect original-resolution still images, decode/pro
 7. [Legacy hypotheses](90_Legacy_and_Superseded/SYL_LEGACY_AND_HYPOTHESIS_REGISTER.md) only after the source-based episode/checkpoint result is recorded.
 
 ## Adopted architecture amendment
+
+For a separately scoped substantive source reading, follow the [independent episode and channel assignments](00_Method/SYL_SYNTHESIS_ARCHITECTURE.md#independent-episode-and-channel-readings). The accepted E01–E12 caption and static-frame record retains its historical inspection boundary.
 
 The owner requested a dedicated Rowan monograph because the king represents a major ideological axis. [His substantive monograph](04_Characters/SYL_ROWAN_MONOGRAPH.md) tests paternal sacrifice, dynastic need and sovereign coercion against each other.
 

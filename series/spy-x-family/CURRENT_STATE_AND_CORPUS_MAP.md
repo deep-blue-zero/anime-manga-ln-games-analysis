@@ -2,7 +2,7 @@
 title: "SPY x FAMILY — Current State and Corpus Map"
 artifact_id: SXF_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: SXF-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–18 plus separate EYES ONLY fanbook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
@@ -65,8 +65,10 @@ No future study or historical generation is represented as existing. Review shou
 
 ## Next bootstrap work and execution
 
+For future authorized source readings, the [standing configuration](SXF_SYNTHESIS_ARCHITECTURE.md#independent-reading-at-s2) assigns independent evidence work, critical review and reconciliation in the existing transaction.
+
 Before a future run, bind exact selected main witnesses, verify image/spine/chapter/spread mapping and actual STILL_IMAGE access, then record bounded authorization under the [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md). Fanbook admission needs its own component and spoiler boundary. Foundation completion/publication is not authorization.
 
-Architecture and continuous synthesis use PREMIUM_QUALITY_FIRST to prevent propagating false knowledge, role and relationship equivalences. Sequential interpretation uses SUBSTANTIVE_ANALYSIS; checkpoints, specialists, monographs and models use DEEP_SYNTHESIS; stable indexing BOUNDED_STANDARD; hashes ROUTINE_FAST. Actual model settings are recorded only when observed.
+Architecture and continuous synthesis use PREMIUM_QUALITY_FIRST to prevent propagating false knowledge, role and relationship equivalences. Sequential interpretation uses SUBSTANTIVE_ANALYSIS; checkpoints, retrospective specialist studies, monographs and models use DEEP_SYNTHESIS; stable indexing BOUNDED_STANDARD; hashes ROUTINE_FAST. Actual model settings are recorded only when observed.
 
 Preferred execution is source-capable local readings/ledgers, fresh fully supplied synthesis stages, independent evaluation and designated integration. Current capabilities establish metadata/local document access only. STILL_IMAGE governs manga inspection; TEXT/OCR aids retrieval and cannot certify page form or silence. No audiovisual or performed-voice witness is admitted. Resume from full files and the last actual accepted transaction. Primary pages, private receipts and source IDs stay outside Git. The [local descriptor](.repository/series-registry.json) routes identity; housekeeping maintains global indexes.
