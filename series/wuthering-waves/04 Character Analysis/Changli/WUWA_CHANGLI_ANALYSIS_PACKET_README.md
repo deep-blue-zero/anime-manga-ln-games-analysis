@@ -4,8 +4,8 @@ character: Changli
 artifact_type: readme
 scope: CHANGLI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: CHANGLI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,18 +14,18 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
-# Changli reconstruction packet — draft pre-AV V0.1
+# Changli reconstruction packet — current provisional, pre-AV V0.1
 
-> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's `draft_noncurrent` status.
+> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's current `active_provisional` authority.
 
 **Event-image authority:** The `TZZNQ` event has an explicit statement that Echo Cubes are independent of their originals (Shorekeeper `7842/1/4`). Changli-labeled turns in that family require local diegetic-instantiation review before becoming embodied Changli memories, promises or relationship states.
 
 **External-source audio caveat:** A private twelve-packet hash audit found 35 selected `TZZNQ_*`/`Side_TZJNSC_*` event-family lines whose four language-labeled render rows share one `gl_vo_` WEM and identical PCM per line; twelve of their text keys differ from the source WEM basename. These are four localized text witnesses and technically decoded audio associations, **not** 35 proved four-dub performances or necessarily proved text→audio matches. Language/container dispatch and the twelve mismatches remain open; the semantic-line denominator is unchanged. See `_research/character_packets/GLOBAL_EXTERNAL_SOURCE_LANGUAGE_ALIAS_AUDIT_2026-09-27.md` in the private evidence plane.
 
-This is a **noncurrent owner-review draft** about playable Changli (role 1205). The exact source commit is pinned independently of the unresolved freeze metadata and analytical authority. Normalized Chinese is the semantic anchor with EN/JA/KO witnesses; official-client audio and art are separate raw-media authorities. The pre-existing three-asset visual profile stays `active_provisional` and is not silently replaced.
+This is an **owner-adopted `active_provisional` reconstruction packet** (`do_not_use_as_current_authority: false`) about playable Changli (role 1205); start at the [current-state router](WUWA_CHANGLI_CURRENT_STATE.md). The exact source commit is pinned independently of the unresolved freeze metadata and analytical authority. Normalized Chinese is the semantic anchor with EN/JA/KO witnesses; official-client audio and art are separate raw-media authorities. The pre-existing three-asset visual profile stays `active_provisional` and is not silently replaced.
 
 The [deep dive](01%20Evidence%20and%20Source-Facing/WUWA_CHANGLI_CHARACTER_DEEP_DIVE_PRE_AV.md) rejects the omniscient “chess master” shorthand without denying her strategic skill. A hungry, fire-endangered child learns through imperfect kindness; Xuanmiao's unfinished game becomes a research obligation; she guides Jinhsi yet yields office power; her Rover search combines planning and uncertainty; Fuling/Wuli challenge a frozen immortality solution. A Sonoro phantom counsels self-preservation before wider service, but its prognosis is not a medical certificate. Under a separate acute time-flow threat she conditionally tells Rover to continue if she falls, then in the later record search explicitly says she needs help; her account of Jinhsi's early office burden is a mentor's perspective, not Jinhsi's private testimony. At the Sentinel handoff she leaves Rover/Jinhsi the final choice but remains to defend the route; later a companion changes how she sees familiar Hongzhen, with EN more direct than the other dubs. The *first* Weiqi invitation's three final routes all accept, with distinct reasons and rewards; no categorical refusal outcome is recorded. The direct post-Sonoro dialogue later ends in a proposed game, while all four quest-tree synopsis witnesses report that Changli and Rover finish it and Wuli/Fuling decide to continue exploring; the latter is not a cure or voiced acceptance record. Mature Forte control is her claim in one later scene, while medical assessment retains possible long-term damage. Her warmth and mortality make romantic scenarios plausible, not canon-exclusive.
 
@@ -69,4 +69,4 @@ The private, reproducible [cohort audit](04%20Validation%20and%20Readiness/WUWA_
 
 The [Chronosorter case study](01%20Evidence%20and%20Source-Facing/WUWA_CHANGLI_CHRONOSORTER_HYPOTHESIS_EVIDENCE_AND_RISK_PROFILE.md) reads previously compressed mountain records. Changli sees a probable Overclocking clue, revises a first file's bleak conclusion after a second file reports one fleeting machine exception, rejects overexertion as a safe shortcut and notices a possibly visitor-directed Jué transfer. Her later warning to Jinhsi is consistent with discovering a technical possibility while lacking a repeatable human safety result. The associated sound and runtime scenes are nominated for future retrieval, not claimed heard or viewed.
 
-Priority next steps: solve the eighteen-line dispatch; full four-dub human listening; stage/branch review of `2516`, mountain, companion quest and Sonoro; multilingual checking of high-stakes prognosis/affection; later-generation source comparison; and owner review before promoting any literary draft to current authority. Test-labeled blank English text and optional/roguelike states are explicitly not a single seamless biography.
+Priority next steps: solve the eighteen-line dispatch; full four-dub human listening; stage/branch review of `2516`, mountain, companion quest and Sonoro; multilingual checking of high-stakes prognosis/affection; later-generation source comparison; and claim-specific ledger revisions whenever future audiovisual witnesses are acquired. Test-labeled blank English text and optional/roguelike states are explicitly not a single seamless biography.

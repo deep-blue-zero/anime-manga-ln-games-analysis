@@ -2,11 +2,11 @@
 series: WUWA
 character: Luuk Herssen
 artifact_type: claim_revision_ledger
-analytical_responsibility: "Track material source-driven model transitions without promoting this draft"
+analytical_responsibility: "Track material source-driven model transitions within bounded evidence"
 scope: LUUK_HERSSEN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: LUUK_HERSSEN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,12 +15,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
-# Luuk Herssen — source-grounded claim transitions, draft pre-AV
+# Luuk Herssen — source-grounded claim transitions (pre-AV baseline)
 
-This ledger names the model shortcuts the pinned source confirms, complicates or refuses. It is not a revision of source records, a claim of measured generative performance, or an adoption decision. `PRESERVE` retains a supported bounded claim; `STRENGTHEN` adds a useful independent or exact-route constraint; `REVISE` changes a materially misleading account; `DOWNGRADE` narrows evidentiary force; `REJECT` withdraws an unsupported formulation; `OPEN` marks the needed witness. The [matrix](../01%20Evidence%20and%20Source-Facing/WUWA_LUUK_HERSSEN_EVIDENCE_AND_FALSIFICATION_MATRIX.md) supplies current draft claim IDs and falsification conditions.
+This ledger names the model shortcuts the pinned source confirms, complicates or refuses. It is not a revision of source records, a claim of measured generative performance, or an adoption decision. `PRESERVE` retains a supported bounded claim; `STRENGTHEN` adds a useful independent or exact-route constraint; `REVISE` changes a materially misleading account; `DOWNGRADE` narrows evidentiary force; `REJECT` withdraws an unsupported formulation; `OPEN` marks the needed witness. The [matrix](../01%20Evidence%20and%20Source-Facing/WUWA_LUUK_HERSSEN_EVIDENCE_AND_FALSIFICATION_MATRIX.md) supplies current claim IDs and falsification conditions.
 
 | Transition | Earlier shorthand or model risk | Source-driven disposition | Boundary and next check |
 |---|---|---|---|

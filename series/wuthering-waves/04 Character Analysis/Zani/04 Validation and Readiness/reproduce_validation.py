@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate Zani's draft packet and optional private evidence joins.
+"""Validate Zani's current provisional packet and optional private evidence joins.
 
 Checks structure, authority, source identity and media retrieval—not literary
 truth, story-graph exhaustiveness or human perceptual performance. Read-only
@@ -75,11 +75,11 @@ def validate(source_root: Path | None) -> dict:
     for path in HERE.rglob("WUWA_ZANI_*.md"):
         body = path.read_text(encoding="utf-8")
         require(
-            body.startswith("---\n") and "\nstatus: draft_noncurrent\n" in body,
-            f"draft authority: {path.name}", checks,
+            body.startswith("---\n") and "\nstatus: active_provisional\n" in body,
+            f"current authority: {path.name}", checks,
         )
         require(
-            "\ndo_not_use_as_current_authority: true\n" in body,
+            "\ndo_not_use_as_current_authority: false\n" in body,
             f"noncurrent flag: {path.name}", checks,
         )
         require(
@@ -88,7 +88,7 @@ def validate(source_root: Path | None) -> dict:
         )
     model = json.loads((packet_artifact(HERE, "WUWA_ZANI_CHARACTER_MODEL_PACKAGE.json")).read_text(encoding="utf-8"))
     require(
-        model["authority"] == "draft_noncurrent" and model["source_commit"] == COMMIT,
+        model["authority"] == "active_provisional" and model["source_commit"] == COMMIT,
         "model authority and source pin", checks,
     )
     rules = model["rules"]

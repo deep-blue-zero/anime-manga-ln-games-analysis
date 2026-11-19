@@ -50,10 +50,10 @@ Reviewed analysis subjects in the `wuthering-waves` namespace of the [Character 
 - Analytical coverage:
   - `cartethyia-reviewed-corpus`: GAME QUEST: Current provisional Cartethyia pre-AV rebuild and retained V0.2 analytical corpus over the pinned Wuthering Waves 3.6.0/3.6.6 semantic view and its explicitly qualified multilingual, voice, relationship, and ordinary-life evidence.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
-  - [`wuwa-cartethyia-character-monograph` — WUWA CARTETHYIA CHARACTER MONOGRAPH](../../series/wuthering-waves/04%20Character%20Analysis/Cartethyia/05%20Integrated%20Synthesis/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
-  - [`wuwa-cartethyia-ordinary-life-and-preferences-profile` — WUWA CARTETHYIA ORDINARY LIFE AND PREFERENCES PROFILE](../../series/wuthering-waves/04%20Character%20Analysis/Cartethyia/01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) — **active provisional authority**
-  - [`wuwa-cartethyia-relationship-and-state-ledger` — WUWA CARTETHYIA RELATIONSHIP AND STATE LEDGER](../../series/wuthering-waves/04%20Character%20Analysis/Cartethyia/01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md) — **active provisional authority**
-  - [`wuwa-cartethyia-speech-voice-and-performance-profile` — WUWA CARTETHYIA SPEECH VOICE AND PERFORMANCE PROFILE](../../series/wuthering-waves/04%20Character%20Analysis/Cartethyia/03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md) — **active provisional authority**
+  - [`wuwa-cartethyia-character-monograph` — WUWA CARTETHYIA CHARACTER MONOGRAPH](../../series/wuthering-waves/04%20Character%20Analysis/Cartethyia/05%20Integrated%20Synthesis/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md)
+  - [`wuwa-cartethyia-ordinary-life-and-preferences-profile` — WUWA CARTETHYIA ORDINARY LIFE AND PREFERENCES PROFILE](../../series/wuthering-waves/04%20Character%20Analysis/Cartethyia/01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md)
+  - [`wuwa-cartethyia-relationship-and-state-ledger` — WUWA CARTETHYIA RELATIONSHIP AND STATE LEDGER](../../series/wuthering-waves/04%20Character%20Analysis/Cartethyia/01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md)
+  - [`wuwa-cartethyia-speech-voice-and-performance-profile` — WUWA CARTETHYIA SPEECH VOICE AND PERFORMANCE PROFILE](../../series/wuthering-waves/04%20Character%20Analysis/Cartethyia/03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md)
 
 <a id="chisa"></a>
 

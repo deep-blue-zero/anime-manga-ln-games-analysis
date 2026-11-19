@@ -4,8 +4,8 @@ character: Shorekeeper
 artifact_type: character_deep_dive_pre_av
 scope: SHOREKEEPER_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: SHOREKEEPER_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,7 +14,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Shorekeeper: a person is not the instrument that made her
@@ -141,4 +141,4 @@ Her selfhood argument likewise remains relational without becoming a claim of ow
 
 ## Source and AV boundary
 
-The collection accepts 619 of 624 direct nominations and rejects five misleading nearby voices: an authorization device, an unrelated past/future self and three remembered instructor lines (`IDENTITY_REVIEW.md`; E19,E23). Selected voice resolution is strong—543/543 semantic lines, four language associations each and 2,048 distinct measured FLAC objects with zero failures—but no human four-dub listening is recorded. Three official-client UI rasters support a luminous butterfly/star-petal design but not a runtime transformation, the precise bodily nature of her fissures, or performed emotion. The source graph and later contexts are not a single continuous conversation; authority remains draft/noncurrent pending review.
+The collection accepts 619 of 624 direct nominations and rejects five misleading nearby voices: an authorization device, an unrelated past/future self and three remembered instructor lines (`IDENTITY_REVIEW.md`; E19,E23). Selected voice resolution is strong—543/543 semantic lines, four language associations each and 2,048 distinct measured FLAC objects with zero failures—in the pre-AV baseline. Later direct four-dub listening is limited to the four solo lines in the current-state router. Three official-client UI rasters support a luminous butterfly/star-petal design but not a runtime transformation, the precise bodily nature of her fissures, or performed emotion. The source graph and later contexts are not a single continuous conversation; the scope and outstanding acceptance requirements of the proposed adoption are recorded in the current-state router.

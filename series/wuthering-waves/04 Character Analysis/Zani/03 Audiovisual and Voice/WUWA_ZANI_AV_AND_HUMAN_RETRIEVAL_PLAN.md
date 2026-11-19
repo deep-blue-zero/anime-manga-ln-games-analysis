@@ -4,8 +4,8 @@ character: Zani
 artifact_type: av_human_retrieval_plan
 scope: ZANI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: ZANI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,10 +14,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Zani — claim-driven AV and human retrieval plan
+
+**Current-status correction:** This is a retained nomination plan, not a completion certificate. Following the owner-adopted Chapter II AV reconciliation, 2/12 scene crosswalk targets and 5/912 stratified solo voice lines have been directly reviewed. Statements below about no listening or no runtime viewing describe the original pre-AV nomination baseline, not the current packet status. See [the current packet router](../WUWA_ZANI_ANALYSIS_PACKET_README.md) and the [Chapter II AV audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md).
 
 Current state: the local client-derived four-dub FLAC corpus was hash-verified and machine-measured (3,517/3,517 distinct objects, zero measurement failures). Fifteen exact source-key cases were joined to 63 render variants in [metadata only](AUDIO_MATCHED_SEMANTIC_CASES.json). **No human four-dub listening or runtime video/gesture review has been performed for this packet.** No recordings, WEMs, art or full scripts are included in Git. Local restricted roots: `_voice_media/character/complete_voice_corpus/Zani/v0_1/`, `_research/character_packets/Zani/audio_work/`, and the previously exported `_visual_media/character_visual_v0_2/` rasters. The installed client and private Drive evidence plane remain separate from analytical Git authority.
 

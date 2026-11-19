@@ -3,8 +3,8 @@ series: WUWA
 artifact_type: character_relationship_state_ledger
 scope: CARTETHYIA_SOURCE_3_6_0
 generation: V0.2
-status: active_provisional
-release_state: mutable_active
+status: canonical
+release_state: owner_adopted_current_canonical
 source_boundary: "Pinned Wuthering Waves 3.6.0 / Arikatsu resource 3.6.6 semantic view at commit 353f2eaed119bc9f680eab92807d20ac75a79b40, four-language official text witnesses, and installed-client V0.5.1 voice evidence"
 supersedes: []
 superseded_by: []
