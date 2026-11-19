@@ -4,7 +4,7 @@ artifact_id: "MT_VOLUME_READING_TEMPLATE"
 artifact_type: "volume_reading_template"
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -170,6 +170,8 @@ Record current source-bounded conclusions, surviving alternatives, open source q
 |---|---|---|---|
 | Declared prose coverage | | | |
 | Consequential locators/wording checked | | | |
+| Independent reading and distinct source review (roles, context separation from the principal, source/temporal boundary, actual coverage/access, prior exposure and findings) | | | |
+| Principal's dispositions, unresolved disagreement and affected ledger routes | | | |
 | Illustrations/paratext scope stated | | | |
 | Claims/revisions reviewed | | | |
 | Character/state/readiness reviewed | | | |

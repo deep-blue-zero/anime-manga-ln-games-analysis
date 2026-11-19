@@ -2,7 +2,7 @@
 title: "Girl meets Rock! — Current State and Corpus Map"
 artifact_id: GMR_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: GMR-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary or musical-performance findings"
 source_boundary: "Metadata only: Japanese manga V01–12; no narrative admitted and no audio witness supplied"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
@@ -63,10 +63,12 @@ Read the [method](GMR_ANALYTICAL_METHOD.md) and [architecture](GMR_SYNTHESIS_ARC
 
 No readings, specialists, models or archives exist. Music-related specialist obligations must be earned from actual readings; ordinary character, relationship, language and causal interpretation remain mandatory responsibilities.
 
+The [standing source-reading configuration](GMR_SYNTHESIS_ARCHITECTURE.md#independent-source-reading) applies at the first separately authorized unit. The `GMR-TX` transaction retains the contribution evidence and its disposition.
+
 ## Next permitted work and execution
 
 Metadata/foundation review can continue. Before future admission, verify exact selected bytes, actual image/chapter/spread/readability map and STILL_IMAGE capability, then record bounded owner scope under the [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md). New audio evidence would require its own identification, authorization and governing modality design; no audio inspection is implied now.
 
-Architecture and integrated synthesis use PREMIUM_QUALITY_FIRST to prevent unsupported sound inference and group/character compression. Sequential interpretation uses SUBSTANTIVE_ANALYSIS; checkpoints, specialists, monographs and models use DEEP_SYNTHESIS; stable indexing BOUNDED_STANDARD; hashes ROUTINE_FAST.
+Architecture and integrated synthesis use PREMIUM_QUALITY_FIRST to prevent unsupported sound inference and group/character compression. Sequential interpretation uses SUBSTANTIVE_ANALYSIS; checkpoints, retrospective specialist studies, monographs and models use DEEP_SYNTHESIS; stable indexing BOUNDED_STANDARD; hashes ROUTINE_FAST.
 
 Prefer source-capable local readings/ledgers, fresh fully supplied synthesis, independent review and designated integration. Current capability is metadata/local documents only. Manga STILL_IMAGE is primary; TEXT/OCR aids retrieval. Resume from full files and actual accepted state. Primary images, lyric/text dumps, recordings and private source identifiers stay outside Git. The [local descriptor](.repository/series-registry.json) classifies this supplied project as MANGA; housekeeping owns global routing.

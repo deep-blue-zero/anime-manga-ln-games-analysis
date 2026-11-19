@@ -2,7 +2,7 @@
 title: "Girl meets Rock! — Analytical Method"
 artifact_id: GMR_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: GMR-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary or musical-performance findings"
 source_boundary: "Metadata only: Japanese manga V01–12; no narrative admitted and no audio witness supplied"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -91,6 +91,8 @@ Conflicts may be witness/page map, timing/chronology, report reliability, knowle
 Revision uses PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT and OPEN, keeping old/new formulations, source/knowledge/channel boundaries, evidence, rivals and dependencies. Frozen prospective states are not rewritten. Sensitive or contentious material is described only as needed for sourced analysis, without moral prefiltering or retrospective justification.
 
 ## 9. Full output and acceptance
+
+Use the [independent source-reading team](GMR_SYNTHESIS_ARCHITECTURE.md#independent-source-reading) for every future authorized unit. Close `GMR-TX` with the participant evidence and principal's reconciliation before advancing the accepted frontier.
 
 Each future reading includes exact receipt/coverage; entering state/forecasts; developed thesis/rival; movement-level causal/page argument; subjects, directed ties and group state if established; ordinary controls; Japanese expression; drawn performance/lyric/audience/form analysis where earned; recurrence/counterexamples; claim transitions; five-register manifest; exit freeze; limits and completion decision.
 
