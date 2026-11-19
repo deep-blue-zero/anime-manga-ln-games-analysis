@@ -15,15 +15,15 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 175; `STALE` 2; `SUPERSEDED` 35
+- Recorded totals: `CANDIDATE` 177; `STALE` 2; `SUPERSEDED` 35
 
 ## Namespaces
 
 | Namespace | Subjects | Assessments |
 | --- | ---: | ---: |
-| [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 14 | 14 |
+| [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 15 | 15 |
 | [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
-| [`azur-lane`](reconstruction_index/azur-lane.md) | 4 | 4 |
+| [`azur-lane`](reconstruction_index/azur-lane.md) | 5 | 5 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
 | [`chiramune`](reconstruction_index/chiramune.md) | 3 | 3 |
 | [`classroom-of-the-elite`](reconstruction_index/classroom-of-the-elite.md) | 1 | 1 |
@@ -70,6 +70,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `86-eighty-six:kurena-kukumila@original-light-novels` | [`86-eighty-six-kurena-kukumila-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-kurena-kukumila-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
 | `86-eighty-six:lerche@original-light-novels` | [`86-eighty-six-lerche-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-lerche-ln-cmr-profile-20261118-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `86-eighty-six:raiden-shuga@original-light-novels` | [`86-eighty-six-raiden-shuga-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-raiden-shuga-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `d68f3465126a2a95fd36138af773ccaea10d8e9a` |
+| `86-eighty-six:rito-oriya@original-light-novels` | [`86-eighty-six-rito-oriya-ln-cmr-profile-20261119-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-rito-oriya-ln-cmr-profile-20261119-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `86-eighty-six:shiden-iida@original-light-novels` | [`86-eighty-six-shiden-iida-ln-cmr-profile-20261118-02`](reconstruction_index/86-eighty-six.md#86-eighty-six-shiden-iida-ln-cmr-profile-20261118-02) | `CANDIDATE` | `B` | `442bd3967061332ca915e5d16377c6315b22a1e6` |
 | `86-eighty-six:shinei-nouzen@original-light-novels` | [`86-eighty-six-shinei-nouzen-ln-cmr-profile-20261023-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-shinei-nouzen-ln-cmr-profile-20261023-01) | `CANDIDATE` | `B` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |
 | `86-eighty-six:theoto-rikka@original-light-novels` | [`86-eighty-six-theoto-rikka-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-theoto-rikka-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `d68f3465126a2a95fd36138af773ccaea10d8e9a` |
@@ -80,6 +81,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `azur-lane:bremerton@mobile-game` | [`azur-lane-bremerton-mobile-game-character-monograph-20261115-01`](reconstruction_index/azur-lane.md#azur-lane-bremerton-mobile-game-character-monograph-20261115-01) | `CANDIDATE` | `C` | `2fb9e0d724982f17dadd3071d97fe332920caaf7` |
 | `azur-lane:st-louis@mobile-game` | [`azur-lane-st-louis-mobile-game-character-monograph-20261118-01`](reconstruction_index/azur-lane.md#azur-lane-st-louis-mobile-game-character-monograph-20261118-01) | `CANDIDATE` | `C` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `azur-lane:taihou@mobile-game` | [`azur-lane-taihou-mobile-game-character-monograph-20261118-01`](reconstruction_index/azur-lane.md#azur-lane-taihou-mobile-game-character-monograph-20261118-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
+| `azur-lane:takao@mobile-game` | [`azur-lane-takao-mobile-game-character-monograph-20261119-01`](reconstruction_index/azur-lane.md#azur-lane-takao-mobile-game-character-monograph-20261119-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `blue-archive:aru@game` | [`blue-archive-aru-game-c001-distributed-20261024-01`](reconstruction_index/blue-archive.md#blue-archive-aru-game-c001-distributed-20261024-01) | `CANDIDATE` | `E` | `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` |
 | `blue-archive:kokuriko@game` | [`blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01`](reconstruction_index/blue-archive.md#blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01) | `CANDIDATE` | `E` | `0f3b661d66455030cb663d9486a11879f0911cf9` |
 | `blue-archive:prenapates@game` | [`blue-archive-prenapates-game-character-monograph-20261106-01`](reconstruction_index/blue-archive.md#blue-archive-prenapates-game-character-monograph-20261106-01) | `CANDIDATE` | `E` | `1ec6a88d6120d2e28a07c5e99a809ab985f67302` |
