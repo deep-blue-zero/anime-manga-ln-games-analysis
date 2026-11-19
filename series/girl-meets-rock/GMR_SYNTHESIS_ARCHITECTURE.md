@@ -2,7 +2,7 @@
 title: "Girl meets Rock! — Synthesis Architecture"
 artifact_id: GMR_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: GMR-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary or musical-performance findings"
 source_boundary: "Metadata only: Japanese manga V01–12; no narrative admitted and no audio witness supplied"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -83,6 +83,16 @@ Accept complete reading and synchronized five-register updates atomically. Freez
 
 Checkpoints retain full earlier readings, ordinary-life material, state histories and competing interpretations. Reconcile group, relationship, knowledge, graphic-expression and claim histories before role-gap review. Arrival at V12 inventory position cannot certify full-work completion, synthesis readiness or any audio capability.
 
+### Independent source reading
+
+For each future substantive reading of an admitted manga volume, confirm the [topology §4.1 configuration](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) before source exposure. The principal inspects the entire admitted unit, writes the canonical reading and alone coordinates its cumulative updates. Give a specialist and a distinct critical reviewer separate contexts with direct STILL_IMAGE access to the assigned Japanese pages and the accepted entering state. Both form observations from the assigned evidence without inheriting the principal's working interpretation. Make these assignments only after the selected witness is verified to support STILL_IMAGE inspection of readable Japanese lettering (`GMR-SG-001`/`GMR-SG-002`); that capability is not yet established. No recording, imagined performance or later volume enters an assignment. Freeze prospective judgments before exposure to their resolution and disclose contamination that limits independent or prospective credit.
+
+**Independent specialist.** Inspect the page sequence around a depicted performance or rehearsal when present. Attribute printed words and reported judgments to their speakers. Track which listeners are shown reacting and which ordinary interactions could qualify a claim about the group.
+
+**Critical reviewer.** Reopen the panels supporting a musical or interpersonal claim. Distinguish represented timing from heard tempo and a drawn reaction from proof of skill or reciprocal feeling. Test whether a quieter member's contribution and a contrary instance survived integration. Inspect decisive evidence before reading the candidate where practical. Return locator-backed corrections, competing interpretations and omissions to the principal.
+
+The principal reconciles these findings in the full reading and `GMR-TX`, using the existing claim history for revisions. Use SUBSTANTIVE_ANALYSIS for bounded source interpretation, with DEEP_SYNTHESIS for difficult attribution or conflicting state. Section 4.1 applies to source reading. Later synthesis, portrait review and reconstruction evaluation retain their own responsibilities. An unusually bounded unit may combine specialist and reviewer in one other independent, source-capable context only when it can both contribute fresh observations and critically test the candidate. Justify each use in the unit receipt. If required inspection or independent participation is unavailable, record the capability gap in current state and hold acceptance and frontier advancement.
+
 ## 6. Temporal, epistemic and continuity state
 
 The state key is witness/version + admitted frontier + disclosure position + story-time constraints + subject/group knowledge + role/resources/condition + directed ties + interpretive mode. Modes are PROSPECTIVE_AT_BOUNDARY, RETROSPECTIVE_WITHIN_ADMITTED_BOUNDARY, EXTERNAL_CONTEXTUAL and UNRESOLVED.
@@ -103,7 +113,7 @@ A material revision reviews state/ties, depicted-performance/form, language, spe
 
 ## 8. Monographs and specialist convergence
 
-A character monograph requires sufficient temporal, relational, ordinary-context and expressive coverage. It integrates motives/rivals, actions, knowledge, development, Japanese/graphic presentation and literary function; it is not a talent or personality profile.
+Apply the [character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) to every subject with differentiated evidence, including supporting characters and concentrated sequences. Record identity, frontier, outcome, source grounds, gaps and reassessment trigger in `GMR-RG` at the character/specialist readiness gate. Reassess after material new evidence. Each qualifying subject requires one self-contained portrait per recorded assessment boundary at `studies/GMR_<CHARACTER_ID>_<BOUNDARY>_CHARACTER_MONOGRAPH.md`. Use the stable individual identity resolved from the group/relationship/routine ledger (not a state-row ID or alias) and a filesystem-safe boundary key recorded in `GMR-RG`; reuse the same identity and key for revisions at that boundary. The portrait explains ordinary club interactions, Japanese wording and how the pages present the person. Add its actual path and record separate self-containment and fidelity reviews. Carry outstanding portraits through synthesis readiness and release. Each portrait integrates motives/rivals, actions, knowledge, development, Japanese/graphic presentation and literary function; it is not a talent or personality profile.
 
 Relationship/group studies earn independent homes when directed development, coordination, belonging, role/resource constraints or persistent interpretive tension require sustained treatment beyond one subject. A group result alone cannot establish every member's private aims or mutual feeling.
 
@@ -149,7 +159,7 @@ Source-complete is not synthesis-ready. Manga completion never certifies audio/A
 
 ## 11. Execution, full-output handoff and growth
 
-SUBSTANTIVE_ANALYSIS covers future readings/interpretive updates; DEEP_SYNTHESIS covers checkpoints, specialists, monographs and model/evaluator work; PREMIUM_QUALITY_FIRST covers architecture and continuous integration because false channel assumptions propagate. Stable indexing is BOUNDED_STANDARD, hashes ROUTINE_FAST. Resolve actual configuration via the [reasoning policy](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md).
+SUBSTANTIVE_ANALYSIS covers future readings/interpretive updates; DEEP_SYNTHESIS covers checkpoints, retrospective specialist studies, monographs and model/evaluator work; PREMIUM_QUALITY_FIRST covers architecture and continuous integration because false channel assumptions propagate. Stable indexing is BOUNDED_STANDARD, hashes ROUTINE_FAST. Resolve actual configuration via the [reasoning policy](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md).
 
 The [long-series protocol](../../governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) favors local source-capable readings/ledgers, fresh fully supplied synthesis, independent review and designated integration. Current capability is metadata/documents only. Verify transport, processing, STILL_IMAGE/TEXT inspection, interpretation and persistence under [capability routing](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md). No audio capability has been tested or claimed.
 
@@ -183,3 +193,5 @@ Stress review with a drawn audience response that supports several explanations,
 ## Prospective amendment record
 
 - **2026-11-13 — v1.1:** Linked the local-method current-unit synopsis duty under initiation policy §5.3. Complete analytical/register responsibilities, the depicted-versus-heard boundary, INITIAL lifecycle and CLOSED authorization remain intact.
+
+- **2026-11-17 — v1.2.** Assigned independent source-reading responsibilities and evidence reconciliation, and routed source-bounded character qualification to the existing role-gap record, whose schema now carries the qualification fields. The witness's STILL_IMAGE capability remains a precondition to verify, not an established fact.

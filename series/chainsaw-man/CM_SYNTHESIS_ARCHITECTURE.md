@@ -2,7 +2,7 @@
 title: "Chainsaw Man — Synthesis Architecture"
 artifact_id: CM_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: CM-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–24; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -79,6 +79,16 @@ The authorized run defines start, terminal unit, finer boundaries and checkpoint
 
 At closeout, submit the complete reading and five synchronized registers. An explicit no-change finding states inspected scope. Unread pages and missing updates are not no-change evidence. Checkpoints retrieve full prior readings, reconcile state/version differences and audit role gaps; they do not compress the corpus into a shorter substitute.
 
+### Independent source reading
+
+For each future substantive reading of a volume and its chapter or movement frontiers, confirm the [topology §4.1 configuration](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) before source exposure. The principal inspects the entire admitted unit, writes the canonical reading and alone coordinates its cumulative updates. Give a specialist and a distinct critical reviewer separate contexts with direct STILL_IMAGE access to the assigned Japanese pages and the accepted entering state. Both form observations from the assigned evidence without inheriting the principal's working interpretation. Withhold later disclosures, adaptations and remembered cast identities from the assigned frontier. Freeze prospective judgments before exposure to their resolution and disclose contamination that limits independent or prospective credit.
+
+**Independent specialist.** Track one consequential attribution or change in a subject's state through the Japanese lettering and sequence of reaction panels. Compare a quiet interaction that tests whether the apparent change reflects disposition, circumstances or a newly disclosed fact. Where the unit lacks such an attribution or quiet interaction, assign another manga dimension its evidence supports under topology §4.1.2, such as narration and focalization, chronology and information state, causality and rule enforcement, or page composition, and record the reason in `CM-TX`.
+
+**Critical reviewer.** Return to the material and contrary pages. Test whether the candidate imposed a later identity or motive on an earlier figure, treated a rendering shift as literal, or dropped what a supporting character saw and did. Inspect decisive evidence before reading the candidate where practical. Return locator-backed corrections, competing interpretations and omissions to the principal.
+
+The principal reconciles these findings in the full reading and `CM-TX`, using the existing claim history for revisions. Use SUBSTANTIVE_ANALYSIS for bounded source interpretation, with DEEP_SYNTHESIS for difficult attribution or conflicting state. Section 4.1 applies to source reading. Later synthesis, portrait review and reconstruction evaluation retain their own responsibilities. An unusually bounded unit may combine specialist and reviewer in one other independent, source-capable context only when it can both contribute fresh observations and critically test the candidate. Justify each use in the unit receipt. If required inspection or independent participation is unavailable, record the capability gap in current state and hold acceptance and frontier advancement.
+
 ## 6. Temporal, epistemic and continuity state
 
 The common state vector is `witness/version + admitted frontier + disclosure position + story-time constraints + source-established subject identity + knowledge/belief + physical/affective condition + role/resources + directed relationship + interpretive mode`. Unknown values and alternate identity/time mappings remain explicit.
@@ -99,7 +109,7 @@ Propagate consequential changes through state, directed ties, language/form clai
 
 ## 8. Monographs, specialists and convergence
 
-A character monograph is commissioned only after adequate contextual, temporal, relational, ordinary-life and expressive evidence supports a developed question. It integrates action, motive alternatives, narration, state change, language and literary function; it does not output a personality checklist.
+Apply the [character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) to every subject with differentiated evidence, including supporting characters and concentrated sequences. Record identity, frontier, outcome, source grounds, gaps and reassessment trigger in `CM-RG` at the character/specialist readiness gate. Reassess after material new evidence. Each qualifying subject requires one self-contained portrait per recorded assessment boundary at `studies/CM_<CHARACTER_ID>_<BOUNDARY>_CHARACTER_MONOGRAPH.md`. Use the stable individual identity resolved from the state/knowledge/relationship ledger (not a state-row ID or alias) and a filesystem-safe boundary key recorded in `CM-RG`; reuse the same identity and key for revisions at that boundary. The portrait explains the person at the declared identity and knowledge horizon. Add its actual path and record separate self-containment and fidelity reviews. Carry outstanding portraits through synthesis readiness and release. Each portrait integrates action, motive alternatives, narration, state change, language and literary function; it does not output a personality checklist.
 
 A directed-relationship study earns an independent home when asymmetry, mutual development, institutional conditions or persistent interpretive conflict cannot be responsibly assigned to one monograph. It keeps the broader relational network and meaningful counterexamples.
 
@@ -143,7 +153,7 @@ Source-complete is not synthesis-ready. A release at V24 of the supplied invento
 
 ## 11. Execution, handoff and growth
 
-Use SUBSTANTIVE_ANALYSIS for future readings and interpretive updates; DEEP_SYNTHESIS for checkpoints, specialists, monographs and model/test work; PREMIUM_QUALITY_FIRST for architecture and continuous synthesis because state/knowledge errors propagate. Stable indexing is BOUNDED_STANDARD and hashes ROUTINE_FAST. Resolve actual configuration under the [reasoning policy](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md), recording only observed settings.
+Use SUBSTANTIVE_ANALYSIS for future readings and interpretive updates; DEEP_SYNTHESIS for checkpoints, retrospective specialist studies, monographs and model/test work; PREMIUM_QUALITY_FIRST for architecture and continuous synthesis because state/knowledge errors propagate. Stable indexing is BOUNDED_STANDARD and hashes ROUTINE_FAST. Resolve actual configuration under the [reasoning policy](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md), recording only observed settings.
 
 The [long-series protocol](../../governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) prefers local source-capable sequential work/ledgers, fresh fully supplied synthesis sessions, independent review and designated integration. Current access establishes metadata/documents only. Under [capability routing](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md), verify transport, processing, STILL_IMAGE/TEXT inspection, interpretation and persistence separately.
 
@@ -177,3 +187,5 @@ Review stress cases include a later disclosure changing an earlier inference, an
 ## Prospective amendment record
 
 - **2026-11-13 — v1.1:** Linked the local-method current-unit synopsis duty under initiation policy §5.3 for future eligible main readings. All full analytical/register obligations, disclosure boundaries, INITIAL lifecycle and CLOSED authorization are preserved.
+
+- **2026-11-17 — v1.2.** Assigned independent source-reading responsibilities and evidence reconciliation, and routed source-bounded character qualification to the existing role-gap record, whose schema now carries the qualification fields. The specialist assignment yields to an evidence-appropriate dimension when its default features are absent.

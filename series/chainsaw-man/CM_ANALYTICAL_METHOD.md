@@ -2,7 +2,7 @@
 title: "Chainsaw Man — Analytical Method"
 artifact_id: CM_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: CM-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–24; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -82,6 +82,8 @@ Use PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT and OPEN. Store old/new form
 Classify apparent contradictions as witness/page-map issues, chronology, perspective, misinformation, role/audience, altered context/state, rendering convention, missing evidence, analyst disagreement or possible textual inconsistency. Leave alternatives open where the source does. Smoothness and brevity are not reasons to collapse them.
 
 ## 8. Complete future output and acceptance
+
+Use the [independent source-reading team](CM_SYNTHESIS_ARCHITECTURE.md#independent-source-reading) for every future authorized unit. Close `CM-TX` with the participant evidence and principal's reconciliation before advancing the accepted frontier.
 
 Each future reading must contain receipt/coverage; entering state and frozen expectations; developed thesis/rival; movement-by-movement causal/page analysis; subject and directed relationship changes; ordinary-life controls; Japanese language and graphic voice; form/recurrence with counterexamples; earned institutional/domain questions; claim transitions; full ledger manifest; exit freeze; limitations and completion decision.
 

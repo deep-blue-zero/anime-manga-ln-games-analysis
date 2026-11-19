@@ -174,6 +174,18 @@ Corrections should be logged.
 
 ---
 
+### Independent reading of ordinary practice
+
+For a newly authorized volume the principal reads the full Japanese tankobon in sequence, reconstructs the events and owns the integrated account. Give a second reader the actual pages in a fresh bounded context. Ask them to follow how someone learns a practice, gives help, chooses solitude or quietly changes who initiates. Return the actions, relevant Japanese forms of address or page rhythms, a competing explanation and locators. Preserve cases where a routine stays ordinary or an invitation has no larger consequence.
+
+A separate critical reader reopens the decisive pages and challenges every material finding of the reading, whatever its dimension: source attribution, locators, temporal boundaries, unsupported inferences, missing counterexamples, character-state errors, conflicting interpretations and information lost during integration. This includes testing whether a presumed change of competence or relationship exceeds the evidence. Distinguish dialogue, silent panels and the narrator's account. For a geography claim, apply the existing evidence layers before assigning a place to a character's experience. Withhold later volumes and the principal's hypotheses until the independent findings are recorded. Record prior exposure and replace a reader where it compromises prospective judgment.
+
+Retain actual assignments, access, horizon, material findings and challenges in the volume reading. The principal records reasons for adoption, qualification, rejection or deferral, links supported deltas to the existing longitudinal and revision homes, and closes only after semantic and coverage review. Existing extracted rows keep their recorded basis. Use `SUBSTANTIVE_ANALYSIS` for interpretive work, `DEEP_SYNTHESIS` for retrospective convergence, and escalate propagation-sensitive adjudication to `PREMIUM_QUALITY_FIRST`. Metadata checks can use `BOUNDED_STANDARD`. Verify page access independently of reasoning class. Hold acceptance when required independent or sensory coverage is unavailable.
+
+Before the queued retrospective specialist work proceeds, as the project's next entry into character or specialist synthesis under [initiation §10](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#10-existing-projects-and-grandfathering), the character state ledger records each assessed person's source horizon, individual qualification outcome and reasons, coverage gaps, next review trigger and portrait destination. Include concentrated, differentiated conduct by supporting people. Keep standalone individual portraits retrievable by the naming rule in §15. Document 04 remains the ensemble account; it does not discharge an individual obligation. Test the portrait alone for a usable understanding of the person, then check the account against diagnostic Japanese pages. Behavioral portability requires its own validation. Retrospective specialists use their frozen V19 inputs and declared evidence routes.
+
+[Source-reading configurations](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) · [Individual monograph acceptance](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)
+
 # 5. Phase 2 — Three-volume checkpoints
 
 After every three volumes, write a compact adversarial checkpoint:
@@ -676,6 +688,10 @@ Frameworks:
 `YURUCAMP_ANALYTICAL_METHOD_V1.md`
 
 `YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md`
+
+Individual portraits (paths relative to the series root):
+
+Documents 02 (Rin) and 03 (Nadeshiko) remain the existing individual portrait paths at their recorded boundaries. For a qualified subject without an existing portrait at the assessed boundary, use `05 Full-Series Synthesis/Individual Portraits/YURUCAMP_<CHARACTER_ID>_<BOUNDARY>_CHARACTER_MONOGRAPH.md`. Use the exact stable character-state-ledger ID (such as `YC-CHIAKI`) and a filesystem-safe key for the assessed source horizon (such as `V01_V19`), both recorded with the qualification. Route each subject and boundary to one current individual portrait, recording its actual path and separate self-containment and source-fidelity review references in the character state ledger. Do not create placeholders or renumber the synthesis documents.
 
 Final release:
 
