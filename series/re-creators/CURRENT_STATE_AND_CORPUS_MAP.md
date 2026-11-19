@@ -9,7 +9,7 @@ authority_generation: RC-INITIAL
 authority_scope: "Canonical foundation navigation, admission and execution state"
 source_boundary: "NONE admitted; foundation metadata only"
 created: 2026-11-18
-last_updated: 2026-11-18
+last_updated: 2026-11-19
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -55,10 +55,12 @@ This is the canonical entrypoint for the self-contained anime project at `series
 
 The local inventory contains 22 readable MKVs labeled E01–E22 from one BDRIP-labeled AV1/Opus encode family. All 22 have full-file SHA-256 digests and technical probes. This establishes architecture-level reconnaissance only. It does not establish official edition provenance, complete episode content, primary Japanese audio identity or analytical admission. The audio tracks have no language tags. The embedded subtitle tracks are tagged Chinese. A directory labeled Japanese subtitles was empty when inspected. No complete analysis bundle, primary-language transcript, clean frame index or inspected continuous-AV runtime is verified.
 
-The INITIAL design is complete enough to describe future work and its prerequisites. It is not an execution-readiness claim. The preferred future principal is the owner's nominated Gemini runtime, subject to actual continuous-video and audio access. Independently operating OpenAI and/or Anthropic specialists and critical reviewers must inspect decisive evidence. The project uses the explicitly scoped AV-primary mirror profile in the [plan](RC_AV_EXECUTION_AND_RECONCILIATION_PLAN.md), while retaining the governing anime method and bundle/text verification responsibilities.
+The INITIAL design is complete enough to describe future work and its prerequisites. It is not an execution-readiness claim. As recorded on 2026-11-18, the owner prefers a Gemini principal with OpenAI and/or Anthropic specialist and critical-review participation, subject to verified capabilities. The mandatory configuration is provider-neutral: an accountable principal and integrator, genuinely independent source-aware specialist work and independent critical review with direct inspection of decisive evidence. The project uses the explicitly scoped AV-primary mirror profile in the [plan](RC_AV_EXECUTION_AND_RECONCILIATION_PLAN.md), while retaining the governing anime method and bundle/text verification responsibilities.
 
 ## Before any sequential reading
 
 After foundation integration, acquire current repository governance and this entire document family. A bounded owner-authorized run must identify the admitted edition, units, start and terminal boundary, and operation mode. Default continuation is a single operation unless an explicit bounded range is authorized. Verify the source identity and language, required evidence routes, independent contexts, clock crosswalk and runtime capabilities. Record actual role ownership, exposure boundaries and required versus optional channels in the execution record.
+
+Primary-language TXT is presently unavailable. The bundle includes it where available; its absence is a disclosed claim-specific limitation, not a blanket episode-admission prerequisite. Adequately verified audio/AV evidence may support observations within its capabilities, while exact-wording claims requiring TXT remain unresolved. AO/HL listening evidence never becomes TXT. Required unresolved claims or channels block their dependent completion under the source register and execution plan.
 
 Only then may an authorized agent establish a mutually consistent OPEN entrypoint and active execution record through the [initiation](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) and [continuation](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) gates. Passing a structural validator or reading these foundations does not grant source admission. Source media and derivatives remain in the authorized private source or working environment.

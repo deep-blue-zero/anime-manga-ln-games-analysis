@@ -9,7 +9,7 @@ authority_generation: RC-INITIAL
 authority_scope: "Candidate inventory, witness identity and admission prerequisites"
 source_boundary: "NONE admitted; foundation metadata only"
 created: 2026-11-18
-last_updated: 2026-11-18
+last_updated: 2026-11-19
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -61,21 +61,23 @@ The files also contain an MJPEG image stream and font attachments. They do not s
 
 ## Evidence-route status
 
-| Route | Verified availability | Missing admission prerequisite |
+| Route | Verified availability | Required preparation or claim-specific limitation |
 | --- | --- | --- |
 | Continuous video | 22 hashed video containers and main-video technical metadata | Runtime perception, decode/integrity, complete coverage, actual visual sampling and transport verification |
 | Audio | Embedded Opus stereo streams | Language, channel content, replay access and source/derivative clock alignment |
-| Primary-language text | None verified | Verified Japanese primary-language subtitle/transcript layer; listening transcription remains AO/HL and cannot substitute for TXT |
+| Primary-language text | None verified | Verify Japanese primary-language subtitle/transcript evidence where available; otherwise disclose its absence and hold claims requiring exact TXT wording. Listening transcription remains AO/HL and cannot substitute for TXT |
 | Translation subtitles | Two chi-tagged ASS streams per file | Private extraction/inspection, provenance, cue mapping and fidelity assessment |
 | Clean frames and dialogue/frame mapping | None verified | Authorized bundle preparation, frame/cue indexes, component coverage and extraction QA |
-| Complete semantic episode bundle | None verified | Metadata, primary text, timestamped frames, mappings, complete audio and QA under bundle specification |
+| Complete semantic episode bundle | None verified | Metadata, primary-language text where available, timestamped frames, mappings, complete audio and QA under bundle specification, with unavailable layers and their effects recorded |
 | Supplemental or alternative-edition material | None verified in this inventory | Independent identification, scope decision, separate source IDs and admission |
 
 ## Required before admission
 
 Confirm work/episode/edition identity and actual component completeness against reliable release/source records. Preserve any unresolved origin limitations. Verify audio language, subtitle character set and cue timing, complete decode/access, and any beginning/end padding, recap, opening, ending, preview or special component. Do not infer narrative content from filenames or duration.
 
-Build or verify the required private semantic bundle according to the [bundle specification](../../governance/source-policies/MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION.md). Assign stable derivative IDs, parent hashes, extraction settings, exact retained time ranges and offset/crosswalk information. Extracted frames, subtitle text, transcripts, audio and media stay outside public analytical Git. Public records retain sufficient identities, locators, limitations and analytical support without reproducing restricted raw assets.
+Build or verify the required private semantic bundle according to the [bundle specification](../../governance/source-policies/MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION.md). Its primary-language dialogue/subtitle responsibility applies where that evidence is available. Record an unavailable text layer explicitly and assess each proposed claim's evidence needs. Missing Japanese TXT does not by itself block episode admission or observations adequately supported by verified audio/AV routes. Claims requiring exact primary-language wording remain unresolved until the relevant TXT is verified. Direct listening still requires verified source-language access, adequate coverage, appropriate competence and disclosed uncertainty; it never upgrades AO/HL evidence into TXT. A required unresolved claim or channel blocks its dependent completion, while a disclosed unavailable optional layer does not become a blanket source gate.
+
+Assign stable derivative IDs, parent hashes, extraction settings, exact retained time ranges and offset/crosswalk information. Extracted frames, subtitle text, transcripts, audio and media stay outside public analytical Git. Public records retain sufficient identities, locators, limitations and analytical support without reproducing restricted raw assets.
 
 Check the current provider/runtime transport limits for these actual files. Several exceed 512 million bytes. Dated policy examples do not establish a universal present limit. Any permitted transcode or segmentation must preserve narrative coverage and register a new derivative hash and exact clock mapping. This bootstrap authorizes no conversion or upload.
 

@@ -9,7 +9,7 @@ authority_generation: RC-INITIAL
 authority_scope: "Responsibility ownership, sequential integration and eventual series synthesis"
 source_boundary: "NONE admitted; foundation metadata only"
 created: 2026-11-18
-last_updated: 2026-11-18
+last_updated: 2026-11-19
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,6 +21,8 @@ do_not_use_as_literary_evidence: true
 ## INITIAL structure and canonical ownership
 
 Re:Creators has one self-contained anime sequence. A franchise hierarchy or a season-by-season master duplication would add no justified responsibility at bootstrap. The current [source register](RC_SOURCE_REGISTER.md) identifies one candidate encode family. All other versions and supplemental works require independent identity and admission decisions.
+
+The governing [RC analytical method](RC_ANALYTICAL_METHOD.md) is a required dependency for sequential readings and the source-facing inputs to every later synthesis. This architecture assigns their outputs and acceptance boundaries; the method governs how evidence, synopsis, source language, causality, character and audiovisual interpretation are developed.
 
 The day-one infrastructure is the source register, two combined ledgers and the execution/reconciliation plan. These files contain real governance, record contracts and explicit empty narrative state. No placeholder episode reading, character portrait or specialist synthesis is created.
 
@@ -75,6 +77,9 @@ The monograph must work for a reader who has not followed the ledgers. It should
 5. Reconcile dependencies, terminology, competing explanations and cross-document inconsistencies.
 6. Write the full-series synthesis from the stabilized source-facing and specialist corpus.
 7. Audit synthesis fidelity, independent usability, source boundaries, required AV completion and publication readiness.
+8. After the applicable readiness and audit gates pass and the reviewed artifact set is integrated through the authorized repository process, explicitly record its bounded frozen/release state.
+
+The frozen/release gate is distinct from sequential completion, reconciled longitudinal state, specialist readiness, full-series synthesis readiness and audit completion. Its release record identifies the admitted source boundary, exact accepted artifact set and hashes, completed required responsibilities, disclosed limitations or optional unresolved items, audit disposition, authorized integration reference and effective release state. Required unresolved obligations block release of the affected scope. Freeze the identified release artifacts and retain correction/supersession routes; mutable navigation and ledgers continue to identify that release and any later authorized work. An audit pass, a completed synthesis or a local freeze does not automatically promote analytical authority or authorize publication. Terminal source closure, when applicable, remains a separate governed authorization and control operation.
 
 A fresh synthesis context receives the full frozen inputs necessary for its responsibility, their hashes, source horizon, active claims, disagreements and evidence-access routes. A compressed handoff summary alone is insufficient. Prefer the [long-series hybrid protocol](../../governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md)'s fresh substantial synthesis and local evidence completion/integration arrangement while selecting actual stages by verified capability and authority.
 

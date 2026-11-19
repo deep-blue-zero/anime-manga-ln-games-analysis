@@ -9,7 +9,7 @@ authority_generation: RC-INITIAL
 authority_scope: "Role assignment, scoped AV-primary mirror, calibration and independent acceptance"
 source_boundary: "NONE admitted; foundation metadata only"
 created: 2026-11-18
-last_updated: 2026-11-18
+last_updated: 2026-11-19
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -36,7 +36,7 @@ For a unit that meets the mirror conditions, the relay is **continuous-AV princi
 | Independent critical reviewer | A context independent of the principal and the claims it reviews | Direct decisive-source checks, omission/compression audit, adverse cases and acceptance objections | NOT_VERIFIED |
 | Repository integration owner | Authorized local integrator | Receipts, provenance, accepted changes, authority boundaries and required validation | No active analytical run |
 
-The owner's current preference names **Gemini 4 Carbon High**. This is an assignment preference, not a claim that a product, model endpoint, transport feature, visual sample rate or Japanese capability has been verified. Provider names do not determine evidential authority. A later run records the actual runtime/model identity and date, inspected object, native video perception, audio access, language competence, tool limits and successful evidence-access checks. A codec probe proves technical metadata access only.
+The owner's preference recorded on 2026-11-18 names **Gemini 4 Carbon High** for the principal and OpenAI and/or Anthropic participation for independent specialist work and critical review. These are assignment preferences, not mandatory providers or claims that a product, model endpoint, transport feature, visual sample rate or Japanese capability has been verified. The required roles depend on genuine independence and verified evidence capabilities. Provider names do not determine evidential authority. A later run records the actual runtime/model identity and date, inspected object, native video perception, audio access, language competence, tool limits and successful evidence-access checks. A codec probe proves technical metadata access only.
 
 Use genuine independent execution contexts under [topology §4.1](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md). The minimum substantive arrangement has an accountable principal, an independent source-aware specialist and independent critical review. Allocate additional specialists when the distinct evidence questions require them. A principal's role-played second opinion or an auditor reading only the principal's prose does not satisfy the requirement. Lack of independent contexts or required source access blocks that responsibility.
 
@@ -56,7 +56,7 @@ The default navigation tolerance is 0.5 seconds. Claims about shorter timing req
 
 A load-bearing observation becomes ANCHORED only when every supporting observation has a calibrated interval and cue/frame anchor, has been re-viewed, lies within effective resolution and has required corroboration. Otherwise it remains REPORTED. Native source frame-rate metadata is not the model's effective sampling rate.
 
-The private bundle must satisfy the [semantic specification](../../governance/source-policies/MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION.md), including source metadata, clean timestamped frames and indexes, primary-language text, supplemental translation status, dialogue/frame mapping, complete audio and extraction QA. A contact sheet, subtitle file, clip or audio derivative remains a partial derivative. Verify current transport limits before sending any object. Register permitted conversions with hashes and exact retained coverage. This foundation conducts no uploads, conversions or model benchmarks.
+The private bundle must satisfy the [semantic specification](../../governance/source-policies/MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION.md), including source metadata, clean timestamped frames and indexes, primary-language dialogue/subtitle evidence where available, supplemental translation status, cross-modal mapping, complete audio and extraction QA. Record an unavailable primary-language text layer and any resulting mapping or wording limits. Verify available audio/AV evidence and source-language competence for the observations it supports. Missing TXT does not alone block episode admission; exact-wording claims requiring TXT remain unresolved, and AO/HL listening transcription never substitutes for TXT. Required unresolved claims or channels block their dependent acceptance rather than turning every unavailable optional layer into a source gate. A contact sheet, subtitle file, clip or audio derivative remains a partial derivative. Verify current transport limits before sending any object. Register permitted conversions with hashes and exact retained coverage. This foundation conducts no uploads, conversions or model benchmarks.
 
 ## Adjudication and bounded reinspection
 
