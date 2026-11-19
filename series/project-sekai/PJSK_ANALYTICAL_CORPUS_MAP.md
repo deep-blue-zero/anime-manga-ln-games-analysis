@@ -153,7 +153,7 @@ Stores materially distinct superseded analysis and Conversation Archives. Legacy
 1. Select the requested temporal state.
 2. Read the current CHARACTER_MONOGRAPH.
 3. Read the RECONSTRUCTION_MODEL for conditional behavior and speech.
-4. Check CHARACTER_STATE, RELATIONSHIP_STATE, and EPISTEMIC_STATE ledgers for the relevant period.
+4. Check CHARACTER_STATE, RELATIONSHIP_STATE, and EPISTEMIC_STATE ledgers for the relevant period. For EVENT_0183 epistemic owner references, apply the [identifier erratum](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_EVENT_0183_EPISTEMIC_REFERENCE_ERRATUM.md); the historical ledger bytes and both preserve dispositions remain unchanged.
 5. Follow EVIDENCE_INDEX locators back to canonical source when high confidence or exact wording is required.
 
 
