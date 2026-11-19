@@ -907,20 +907,20 @@
       "catalog_note": "Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git."
     },
     {
-      "series_id": "re-creators",
-      "stable_slug": "re-creators",
-      "canonical_title": "Re:Creators",
+      "series_id": "psycho-pass",
+      "stable_slug": "psycho-pass",
+      "canonical_title": "Psycho-Pass",
       "media": [
         "ANIME"
       ],
-      "repository_path": "series/re-creators/",
-      "canonical_entrypoint": "series/re-creators/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "repository_path": "series/psycho-pass/",
+      "canonical_entrypoint": "series/psycho-pass/CURRENT_STATE_AND_CORPUS_MAP.md",
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
       "materialization_status": "PRESENT_UNREVIEWED",
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261118",
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
-      "catalog_note": "Self-contained anime analysis of character agency, creator/creation relations, narrative levels and audiovisual form."
+      "catalog_note": "One anime franchise project with edition-aware installment readings and reconciled longitudinal synthesis; Season 1 New Edit is the intended first installment."
     },
     {
       "series_id": "re-zero",
