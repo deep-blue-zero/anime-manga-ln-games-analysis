@@ -3,13 +3,13 @@ title: "Three Days of Happiness — Current entrypoint"
 artifact_id: TDH_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: three-days-of-happiness
-version: "1.1"
+version: "1.2"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 scope: "Current entrypoint"
 authority_scope: project_design_active_run_authority_source_boundary_and_corpus_routing
 source_boundary: "TDH-JP-01 bound and admitted for run TDH-RUN-20261116-U01-U15; run completed at terminal boundary U15; no further reading operation"
-last_updated: 2026-11-17
+last_updated: 2026-11-19
 canonical_home: series/three-days-of-happiness/CURRENT_STATE_AND_CORPUS_MAP.md
 supersedes: []
 superseded_by: []
@@ -51,7 +51,7 @@ The method and architecture govern the project. The architecture lifecycle is `I
 
 *Bootstrap record (2026-11-07, superseded as current state on 2026-11-16):* the lock was then closed, no sequential execution existed, every frontier was empty, and the next permitted operation was `NONE_AWAITING_RUN_AUTHORIZATION`.
 
-**SEQUENTIAL_ANALYSIS_LOCK = OPEN** from 2026-11-16, after SRC-01–SRC-04 were resolved in the [source register](TDH_SOURCE_REGISTER.md#admission-resolution-2026-11-16), the multi-agent configuration was recorded, and owner authorization was received. Run `TDH-RUN-20261116-U01-U15` is **completed** (2026-11-17) at its terminal boundary. Committed reading high-water mark: **U15** (accepted 2026-11-17). Next candidate and next permitted operation: **NONE_RUN_COMPLETE**. The completion audit (including the end-paratext dispositions), monograph qualification and the retrospective layer follow under the same owner authorization; they admit no further source unit. The retrospective candidate (completion audit, five bounded character monographs and the novel synthesis) is on PR #623, held awaiting the owner’s release decision; it is not a frozen release. See the [source-dependent corrections and bounded independent reviews](audits/TDH_U15_AUDIT.md#13-source-dependent-correction-and-receiving-review). The sequential run remains completed; the reconstruction frontier is **EMPTY**, and no reconstruction operation is authorized. An OPEN lock is a precondition for this run's admissions, not authority for any other source.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN** from 2026-11-16, after SRC-01–SRC-04 were resolved in the [source register](TDH_SOURCE_REGISTER.md#admission-resolution-2026-11-16), the multi-agent configuration was recorded, and owner authorization was received. Run `TDH-RUN-20261116-U01-U15` is **completed** (2026-11-17) at its terminal boundary. Committed reading high-water mark: **U15** (accepted 2026-11-17). Next candidate and next permitted operation: **NONE_RUN_COMPLETE**. The completion audit (including the end-paratext dispositions), monograph qualification and the retrospective layer follow under the same owner authorization; they admit no further source unit. The owner’s merge of PR #623 is the release decision: the corrected corpus is **RELEASED AND FROZEN** at `9ea0c7187ceba311a46b2ec4c822a544592d3cd1` (2026-11-19 04:46:08 UTC). The [release-decision record](audits/TDH_RELEASE_DECISION_20261119.md) supplies the current Gate 6 disposition, exact inventory, validation and errata rule. The audit’s earlier hold and unreleased-candidate statements remain historical, not current release status. See the [source-dependent corrections and bounded independent reviews](audits/TDH_U15_AUDIT.md#13-source-dependent-correction-and-receiving-review). The sequential run remains completed; the reconstruction frontier is **EMPTY**, and no reconstruction operation is authorized. An OPEN lock is a precondition for this run's admissions, not authority for any other source.
 
 <a id="owner-run-authorization"></a>
 
@@ -109,7 +109,8 @@ Both supporting records are required day-one infrastructure. At the 2026-11-16 a
 
 | Retrospective layer | Current home | Use |
 |---|---|---|
-| Completion audit and closing gates | [audits/TDH_U15_AUDIT.md](audits/TDH_U15_AUDIT.md) | Coverage, paratext dispositions, reconciliation, contradictions retained, monograph qualification, reconstruction readiness, the six gates |
+| Release decision and freeze | [audits/TDH_RELEASE_DECISION_20261119.md](audits/TDH_RELEASE_DECISION_20261119.md) | Current Gate 6 disposition; owner-approved merge boundary, immutable snapshot and correction routing |
+| Completion audit and closing gates | [audits/TDH_U15_AUDIT.md](audits/TDH_U15_AUDIT.md) | Coverage, paratext dispositions, reconciliation, contradictions retained, monograph qualification and reconstruction readiness; pre-release Gate 6 history |
 | Integrated novel synthesis | [synthesis/TDH_NOVEL_SYNTHESIS.md](synthesis/TDH_NOVEL_SYNTHESIS.md) | The continuous argument about the whole novel, with its retrospective layer and counterreadings |
 | Character monographs | [Kusunoki](studies/TDH_KUSUNOKI_NOVEL_MONOGRAPH.md), [Miyagi](studies/TDH_MIYAGI_NOVEL_MONOGRAPH.md), [Himeno](studies/TDH_HIMENO_NOVEL_MONOGRAPH.md), [Shinbashi](studies/TDH_SHINBASHI_NOVEL_MONOGRAPH.md), [the substitute watcher](studies/TDH_SUBSTITUTE_WATCHER_NOVEL_MONOGRAPH.md) | Self-contained person-level portraits under initiation §5.5.1 |
 
