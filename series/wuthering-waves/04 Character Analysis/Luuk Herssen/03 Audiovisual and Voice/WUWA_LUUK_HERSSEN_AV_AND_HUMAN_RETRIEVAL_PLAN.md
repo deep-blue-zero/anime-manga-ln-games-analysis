@@ -4,8 +4,8 @@ character: Luuk Herssen
 artifact_type: av_and_human_retrieval_plan
 scope: LUUK_HERSSEN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: LUUK_HERSSEN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,7 +14,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Luuk Herssen — AV and human retrieval plan
@@ -46,4 +46,4 @@ Existing [individual visual profile](CHARACTER_VISUAL_DESIGN_PROFILE.md) and [re
 1. Reconcile every claimed speech or gesture with a particular occurrence/render and annotate non-audible message/archival prose separately.
 2. Traverse graph branches in pivotal Rover/companion scenes; never concatenate mutually exclusive replies as a single conversation.
 3. Check Chinese/EN/JA/KO scope differences, particularly “most” versus English “without exception” in the Rhein archive story, Japanese birthday “one of” companion wording, and Ascension V's ZH/JA/KO ally versus EN “sworn friends” and longer-duration vow, before changing a material claim.
-4. Give the owner targeted examples of any performance or visual observation that revises the written model. Draft authority remains noncurrent until reviewed and adopted under repo governance.
+4. Give the owner targeted examples of any performance or visual observation that revises the written model. Current `active_provisional` authority remains strictly bounded to text/machine-audio scope until those audiovisual observations are recorded.

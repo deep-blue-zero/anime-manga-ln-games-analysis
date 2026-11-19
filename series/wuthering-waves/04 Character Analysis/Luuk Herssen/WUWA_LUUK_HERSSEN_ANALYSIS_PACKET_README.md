@@ -5,8 +5,8 @@ artifact_type: readme
 analytical_responsibility: "Single entrypoint, authority, scoped completeness, validation, and open gaps"
 scope: LUUK_HERSSEN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: LUUK_HERSSEN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,14 +15,14 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
-# Luuk Herssen reconstruction packet — draft pre-AV V0.1
+# Luuk Herssen reconstruction packet — current provisional, pre-AV V0.1
 
-> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's `draft_noncurrent` status.
+> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's current `active_provisional` authority.
 
-This is a **noncurrent analytical draft pending owner review**, not an adopted replacement for collection or visual authority. It studies playable Luuk Herssen (陆·赫斯, role 1510) using a pinned normalized Chinese semantic view and EN/JA/KO witnesses. Official-client sound is separate raw-media authority for exact objects, not proof of normalized speaker attribution or story reachability. Source freeze and analytical authority are orthogonal.
+This is an **owner-adopted `active_provisional` reconstruction packet** (`do_not_use_as_current_authority: false`), distinct from private collection authority and the separately bounded visual profile; start at the [current-state router](WUWA_LUUK_HERSSEN_CURRENT_STATE.md). It studies playable Luuk Herssen (陆·赫斯, role 1510) using a pinned normalized Chinese semantic view and EN/JA/KO witnesses. Official-client sound is separate raw-media authority for exact objects, not proof of normalized speaker attribution or story reachability. Source freeze and analytical authority are orthogonal.
 
 The central reading is [a physician who learns not to make every life a case](01%20Evidence%20and%20Source-Facing/WUWA_LUUK_HERSSEN_CHARACTER_DEEP_DIVE_PRE_AV.md). Childhood Ichor exploitation, genuine care for Rhein, institutional inheritance, Fractsidus disguise, admitted hatred and Academy listening all remain simultaneously relevant. The companion cat episode is particularly diagnostic: after precise adoption planning, he accepts an animal who comes home on its own terms. His warmth toward Rover is grounded, but no text-only draft should canonize exclusive romance or treat him as an infallible therapist.
 
@@ -59,7 +59,7 @@ The [beside-not-observer cat and reciprocal-rest study](01%20Evidence%20and%20So
 | 15 | [Exostrider authorization and secure contact](01%20Evidence%20and%20Source-Facing/WUWA_LUUK_HERSSEN_EXOSTRIDER_AUTHORIZATION_SECURE_CONTACT_AND_RISK_COUNSEL_PROFILE.md) | Submitted evaluation/meeting boundary, Chase's institutional incentives, distinct Rover/Shorekeeper speakers and no-certain-plan counsel |
 | 16 | [Beside-not-observer, cat placement and reciprocal rest](01%20Evidence%20and%20Source-Facing/WUWA_LUUK_HERSSEN_BESIDE_NOT_OBSERVER_CAT_ADOPTION_AND_RECIPROCAL_REST_PROFILE.md) | Direct companionship request, Luuk's friend-language and inferred motive, three response routes, conditional later invitation and 23-line/92-render authored union |
 
-The [twenty matched audio cases](03%20Audiovisual%20and%20Voice/AUDIO_MATCHED_SEMANTIC_CASES.json) are metadata-only source/text/render/media/hash joins with explicit event IDs where present, not recordings. FLAC/WEM, art rasters, full game text and object-level waveform results stay local/restricted. Private source: `ANALYSIS/Characters/Luuk Herssen`; local audio: `_research/character_packets/Luuk Herssen/audio_work/`. The existing three-image visual profile retains its own `active_provisional` state and is not silently superseded by this literary draft.
+The [twenty matched audio cases](03%20Audiovisual%20and%20Voice/AUDIO_MATCHED_SEMANTIC_CASES.json) are metadata-only source/text/render/media/hash joins with explicit event IDs where present, not recordings. FLAC/WEM, art rasters, full game text and object-level waveform results stay local/restricted. Private source: `ANALYSIS/Characters/Luuk Herssen`; local audio: `_research/character_packets/Luuk Herssen/audio_work/`. The existing three-image visual profile retains its own `active_provisional` state and is not silently superseded by this literary packet.
 
 ## Selected-scope completeness and quality boundary
 
@@ -77,4 +77,4 @@ Exact `10719/5/1–2` generic doctor lines are accepted because the same appoint
 
 ## Priority gaps
 
-Human four-dub listening over all 719 selected lines; runtime visual/staging review; exact branch-path traversal for the central disclosure and companion choices; full JA/KO adjudication of delicate family/romance/clinical nuances; current-client comparison; and owner review before current-authority routing. Static UI art does not prove gestures or wound mechanics; FLAC hashes and F0 do not prove emotional performance. Luuk's future Huanglong travel, Rhein's eventual outcome and permanent Ichor safety remain open.
+Human four-dub listening over all 719 selected lines; runtime visual/staging review; exact branch-path traversal for the central disclosure and companion choices; full JA/KO adjudication of delicate family/romance/clinical nuances; current-client comparison; and claim-specific ledger revisions as future `3.x` audiovisual witnesses are acquired. Static UI art does not prove gestures or wound mechanics; FLAC hashes and F0 do not prove emotional performance. Luuk's future Huanglong travel, Rhein's eventual outcome and permanent Ichor safety remain open.

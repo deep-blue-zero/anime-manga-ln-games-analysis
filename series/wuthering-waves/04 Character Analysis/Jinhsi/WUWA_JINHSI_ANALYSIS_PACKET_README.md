@@ -4,8 +4,8 @@ character: Jinhsi
 artifact_type: readme
 scope: JINHSI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: JINHSI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,14 +14,14 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
-# Jinhsi reconstruction packet — draft pre-AV V0.1
+# Jinhsi reconstruction packet — current provisional, pre-AV V0.1
 
-> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's `draft_noncurrent` status.
+> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's current `active_provisional` authority.
 
-This is a **noncurrent draft awaiting owner review**, not a replacement for the existing active-provisional visual profile. It studies playable Jinhsi (role 1304) using a commit-pinned normalized Chinese semantic anchor and EN/JA/KO witnesses; official-client art and audio are separate raw-evidence authorities. The conflicting freeze metadata above is not an analytical status.
+This is an **owner-adopted `active_provisional` reconstruction packet** (`do_not_use_as_current_authority: false`), distinct from the separately bounded `active_provisional` visual profile; start at the [current-state router](WUWA_JINHSI_CURRENT_STATE.md). It studies playable Jinhsi (role 1304) using a commit-pinned normalized Chinese semantic anchor and EN/JA/KO witnesses; official-client art and audio are separate raw-evidence authorities. The conflicting freeze metadata above is not an analytical status.
 
 The [deep dive](01%20Evidence%20and%20Source-Facing/WUWA_JINHSI_CHARACTER_DEEP_DIVE_PRE_AV.md) reads Jinhsi as a civic leader whose “miracles” create hope but require infrastructure and other people's labor. It retains the tension between protective secrecy and choice, Sentinel dependency and human self-rule, public composure and private doubt. Her Mt. Firmament decision risks death **while expressly seeking survival**; a tender Rover scenario is plausible but not an exclusive canon relationship.
 
@@ -71,4 +71,4 @@ The separate `584/5` [Jué-origin/card study](01%20Evidence%20and%20Source-Facin
 
 The valid pinned collection has 185 relevant full flow states, 3,465 contextual keys and 142 quest references/44 IDs. It adjudicates 617 direct attribution candidates: 584 accepted, 33 rejected; 472 accepted occurrences are source-voiced and 112 unvoiced. Five favor stories and 75 archive lines are inventoried. Of **547** selected semantic voice lines, **539** have technical decoded-object associations and **eight** remain `runtime_dispatch_unsupported`, producing 32 unresolved language rows for `flow#/3722/0/1–8`. WEM membership alone cannot prove playable audio. Within the 539, 31 event-family lines have four language labels sharing one source WEM/PCM per line, so distinct four-dub performance is unproved for that subset. The decoded set comprises 2,209 render associations, 2,042 runtime rows and 2,038 unique locally measured FLAC objects (526,464,066 bytes) with zero measurement failures. Local validation checks structure and source joins, not full literary truth or human AV.
 
-The 33 rejected cases include Sanhua mislabelled in Chinese, Hsin, Copo, an unnamed visitor, remote speakers and Changli's hidden strategist speech. Two test-labeled states have blank English and are quarantined from the stylistic examples. A later client/source update, exact graph traversal, resolving the eight missing audio lines, full human four-dub listening and runtime visual review remain open. No adoption as current authority is implied.
+The 33 rejected cases include Sanhua mislabelled in Chinese, Hsin, Copo, an unnamed visitor, remote speakers and Changli's hidden strategist speech. Two test-labeled states have blank English and are quarantined from the stylistic examples. A later client/source update, exact graph traversal, resolving the eight missing audio lines, full human four-dub listening and runtime visual review remain open. Current `active_provisional` adoption does not close those open audiovisual or dispatch gates.

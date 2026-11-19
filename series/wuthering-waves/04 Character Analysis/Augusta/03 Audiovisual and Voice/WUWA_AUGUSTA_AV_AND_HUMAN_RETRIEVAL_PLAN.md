@@ -4,8 +4,8 @@ character: Augusta
 artifact_type: av_human_retrieval_plan
 scope: AUGUSTA_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: AUGUSTA_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: canonical
+release_state: owner_adopted_current_canonical
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,10 +14,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Augusta — claim-driven AV and human retrieval plan
+
+**Current-status correction:** This is a retained nomination plan, not a completion certificate. Following the owner-adopted Chapter II AV reconciliation, 19/32 scene crosswalk targets and 8/605 stratified solo voice lines have been directly reviewed. Statements below about no listening or no runtime viewing describe the original pre-AV nomination baseline, not the current packet status. See [the current packet router](../WUWA_AUGUSTA_ANALYSIS_PACKET_README.md) and the [Chapter II AV audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md).
 
 Current state: 2,399/2,399 distinct local native PCM/FLAC objects were integrity checked and machine measured with zero failures. Eighteen source-key-selected cases join 72 EN/JA/KO/ZH render identities in the [metadata artifact](AUDIO_MATCHED_SEMANTIC_CASES.json); 32 selected renders retain paired null event/numeric-media IDs. **No human listening or runtime scene review has been performed for this packet.** The text-authority and official-client media-authority planes remain separate; the analytical Git directory contains no copyrighted audio or imagery.
 

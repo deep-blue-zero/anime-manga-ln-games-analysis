@@ -5,8 +5,8 @@ artifact_type: av_and_human_retrieval_plan
 analytical_responsibility: "Claim-driven listening and runtime-visual acquisition with exact addresses and failure conditions"
 scope: PHOEBE_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: PHOEBE_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,10 +15,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Phoebe — claim-driven AV and human retrieval plan
+
+**Current-status correction:** This is a retained nomination plan, not a completion certificate. Following the owner-adopted Chapter II AV reconciliation, 7/24 scene crosswalk targets and 6/476 stratified solo voice lines have been directly reviewed. Statements below about no listening or no runtime viewing describe the original pre-AV nomination baseline, not the current packet status. See [the current packet router](../WUWA_PHOEBE_ANALYSIS_PACKET_README.md) and the [Chapter II AV audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md).
 
 The packet has source text, four-language audio provenance, a full machine pass over selected FLAC objects, and three official-client UI images. It has **no** human listening annotation or exact runtime-footage viewing. This plan states what would change claims rather than asserting that unretrieved media has been reviewed. Media belongs in the private evidence plane, not this Git packet. The voice cases table supplies exact render IDs, paths and hashes; this plan supplies reasons to inspect them.
 

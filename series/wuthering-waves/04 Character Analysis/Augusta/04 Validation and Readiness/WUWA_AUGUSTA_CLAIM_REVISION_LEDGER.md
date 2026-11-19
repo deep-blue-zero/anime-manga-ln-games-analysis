@@ -2,11 +2,11 @@
 series: WUWA
 character: Augusta
 artifact_type: claim_revision_ledger
-analytical_responsibility: "Record source-driven transitions, localization forks and remaining evidence gates in the noncurrent draft"
+analytical_responsibility: "Record source-driven transitions, localization forks and remaining evidence gates in the Augusta packet"
 scope: AUGUSTA_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: AUGUSTA_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: canonical
+release_state: owner_adopted_current_canonical
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,10 +15,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Augusta — claim revision ledger, draft pre-AV
+
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `canonical` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_AUGUSTA_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 This records changes to the interpretation of the pinned source, not changes to source data or a promotion to published authority. `PRESERVE` keeps a supported claim; `STRENGTHEN` adds material support; `REVISE` corrects it; `DOWNGRADE` narrows its force; `REJECT` withdraws it; `OPEN` names a missing test. The [matrix](../01%20Evidence%20and%20Source-Facing/WUWA_AUGUSTA_EVIDENCE_AND_FALSIFICATION_MATRIX.md) carries current draft claim IDs and falsifiers.
 
@@ -62,7 +64,7 @@ A new source version, exact branch traversal or direct AV observation should rev
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Targeted runtime revisions from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); full-census four-dub human listening beyond `AUG-DUB-01`..`08` remains open and this draft is not promoted to current authority.
+> **Historical authority at initial Chapter II reconciliation (`draft_noncurrent`; subsequently promoted to `canonical` / `do_not_use_as_current_authority: false` on 2026-11-19).** Targeted runtime revisions from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); full-census four-dub human listening beyond `AUG-DUB-01`..`08` remains open and subsequent 2026-11-19 owner adoption sets packet status to `canonical` without closing those open gates.
 
 | Claim / item | Transition | Runtime AV & English signal revision | Remaining boundary |
 |---|---|---|---|
@@ -70,4 +72,4 @@ A new source version, exact branch traversal or direct AV observation should rev
 | `AUG-C07` / `AUG-R02` & `AUG-AV-12` (`8797` Senate vs Palace roof) | **STRENGTHEN** | Contrasts unbroken God's-eye Senate Chiaroscuro (`SCN-0189`, wet hall reverb in `AUG-DUB-02`, zero close-ups) against intimate sunset roof close-ups with barefoot Iuno (`SCN-0190`, dry close-mic candor in `AUG-DUB-03`, chest-anchored blade vow in `AUG-DUB-04`, and quiet fond chuckle at `63004.5 s` in `AUG-DUB-05`). | Uncalibrated turns in `8797/4` outside `AUG-DUB-02`–`05` remain open. |
 | `AUG-C10, C16, C21, C40` / `AUG-R07, R14` (`8402` Oak Hollow, `8416/1/3` voicing, Angel identity) | **REVISE** | (1) `SCN-0236`–`0237` visually depicts only child Angel's golden Reverberation and a purple vortex, never a monster body; (2) `flow#/8416` item `3` (`Main_Linaxita_2_9_530_4` anti-Divinity retort) **is audibly voiced in EN runtime** despite static BinData unvoiced flags; (3) Act XI (`SEG-013` `SCN-0324, 0344`, `flow#/9520, 10454`) resolves Angel's survival and identity as **Galbrena**, who reunites with living Ephor Augusta in Septimont (`76_10–13`). | Non-EN runtime dispatch for `8416/1/3` and unchosen `8424` Option 1 (`580_11` Cartethyia branch) remain open. |
 | `AUG-C09, C19` / `AUG-R03` (`7741`, `7804`, `8879` memory continuity) | **STRENGTHEN** | `SEG-011` (`SCN-0262, 0279`) and `SEG-013` (`SCN-0317`, `flow#/8879` `'Recover...?'`) confirm Septimont's pre-erasure memory of Iuno was **not** restored; Augusta re-bonds with returned Iuno solely through character recognition (`'cut from the same cloth'`). | `FavorWord` archive addresses and `AUG-R06` (`FavorStory_130604_Content`) remain non-main-story text records. |
-| `AUG-C33`–`C36` / `AUG-DUB-01..08, WUWA-OQ-013` (four-dub register, `8797/4` acoustic shift & `8416` static-index check) | **STRENGTHEN** | Direct 4-dub calibration (`32` isolated WEM renders; [four-dub voice ledger](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md)) verifies wet-hall vs. dry close-mic staging in `8797/4` (`ko` `+51.5 Hz` honorific-drop warmth vs. `en` `-12.6 Hz` wry drop), dub-scoped chuckle realization in `2_8_9_51` (`ja` `0.32 s` `'ふっ'` and `ko` breathy aspiration vs. `~1.4 s` voiced multi-pulse chuckles in `zh`/`en`), and `PlayVoice=false` (`0` static WEMs) across all 4 dubs on `flow#/8416` (`Main_Linaxita_2_9_530_4`). | `597/605` Augusta lines remain uninspected by human ear; `draft_noncurrent` (`do_not_use_as_current_authority: true`) preserved. |
+| `AUG-C33`–`C36` / `AUG-DUB-01..08, WUWA-OQ-013` (four-dub register, `8797/4` acoustic shift & `8416` static-index check) | **STRENGTHEN** | Direct 4-dub calibration (`32` isolated WEM renders; [four-dub voice ledger](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md)) verifies wet-hall vs. dry close-mic staging in `8797/4` (`ko` `+51.5 Hz` honorific-drop warmth vs. `en` `-12.6 Hz` wry drop), dub-scoped chuckle realization in `2_8_9_51` (`ja` `0.32 s` `'ふっ'` and `ko` breathy aspiration vs. `~1.4 s` voiced multi-pulse chuckles in `zh`/`en`), and `PlayVoice=false` (`0` static WEMs) across all 4 dubs on `flow#/8416` (`Main_Linaxita_2_9_530_4`). | `597/605` Augusta lines remain uninspected by human ear; current `canonical` (`do_not_use_as_current_authority: false`) bounds apply. |

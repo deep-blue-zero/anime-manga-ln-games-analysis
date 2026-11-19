@@ -4,8 +4,8 @@ character: Zani
 artifact_type: speech_and_machine_voice_profile
 scope: ZANI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: ZANI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,10 +14,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Zani — textual speech and measured audio, pre-AV
+
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `active_provisional` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_ZANI_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 This separates two different claims. The pinned text can support *what she says and how her wording changes by situation*. The official-client FLACs and Sigrika-derived signal pass can support *exact render identity and reproducible acoustic measurements*. No one had yet listened across four dubs in the pre-AV machine baseline preserved below (see the appended **Stratified four-dub direct-listening calibration** section for the bounded `5/912`-line / `20`-render direct-ear pass while `907/912` semantic lines remain unreviewed); no emotion, actor intention, dialect or relationship conclusion is inferred from pitch or loudness alone.
 
@@ -87,7 +89,7 @@ Listen to each chosen four-dub case at matched playback level without normalizin
 
 ### Cohort separation and coverage boundary
 
-This section appends bounded direct four-dub listening from [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) and [WUWA_ZANI_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_ZANI_AV_HUMAN_RETRIEVAL_CROSSWALK.md) while keeping all historical pre-AV machine sections intact and preserving `draft_noncurrent` authority (`do_not_use_as_current_authority: true`):
+This section appends bounded direct four-dub listening from [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) and [WUWA_ZANI_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_ZANI_AV_HUMAN_RETRIEVAL_CROSSWALK.md) while keeping all historical pre-AV machine sections intact (originally recorded under `draft_noncurrent`; packet now owner-adopted `active_provisional` with `do_not_use_as_current_authority: false`):
 
 - **Cohort 1 — Full selected signal pass (unreviewed by ear as a whole)**: `912` semantic voice lines (`840` story + `72` archive), `3,653` render associations, and `3,517` distinct verified PCM/FLAC objects.
 - **Cohort 2 — Source-defined eight-cohort machine audit**: `142/912` semantic lines (`571` distinct PCM objects) across front-desk, sweets, minor-offender, Nightwalker, routine-error, safer-city, Talos, and paid-leave actions.

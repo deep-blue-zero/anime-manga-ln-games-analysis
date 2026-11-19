@@ -3,9 +3,9 @@ series: WUWA
 artifact_type: character_model_fidelity_check
 scope: CARTETHYIA_SOURCE_3_6_0
 generation: V0.2
-status: active_provisional
-release_state: mutable_active
-source_boundary: "Current active-provisional Cartethyia monograph, claim ledger, specialist analysis, and compiled model over pinned source commit 353f2eaed119bc9f680eab92807d20ac75a79b40"
+status: canonical
+release_state: owner_adopted_current_canonical
+source_boundary: "Current canonical Cartethyia monograph, claim ledger, specialist analysis, and compiled model over pinned source commit 353f2eaed119bc9f680eab92807d20ac75a79b40"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

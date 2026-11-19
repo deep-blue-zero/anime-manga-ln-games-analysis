@@ -4,8 +4,8 @@ character: Luuk Herssen
 artifact_type: model_fidelity_and_stress_test
 scope: LUUK_HERSSEN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: LUUK_HERSSEN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,12 +14,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Luuk Herssen — model fidelity and adversarial probes, pre-AV
 
-These are **non-blind specification probes**, not a held-out score or a claim that a generated model has passed. A future evaluator should record exact prompt, generated response, matched/contradicted evidence IDs, and the source branch/era. Passing requires the positive behavior **and** the stated abstention; fluent pastiche without state discipline fails. The [model JSON](../02%20Reconstruction/WUWA_LUUK_HERSSEN_CHARACTER_MODEL_PACKAGE.json) is draft/noncurrent.
+These are **non-blind specification probes**, not a held-out score or a claim that a generated model has passed. A future evaluator should record exact prompt, generated response, matched/contradicted evidence IDs, and the source branch/era. Passing requires the positive behavior **and** the stated abstention; fluent pastiche without state discipline fails. The [model JSON](../02%20Reconstruction/WUWA_LUUK_HERSSEN_CHARACTER_MODEL_PACKAGE.json) holds `active_provisional` conditional-model authority subordinate to the source matrix.
 
 | Probe | Scenario and required evidence-sensitive response | Failure signature |
 |---|---|---|

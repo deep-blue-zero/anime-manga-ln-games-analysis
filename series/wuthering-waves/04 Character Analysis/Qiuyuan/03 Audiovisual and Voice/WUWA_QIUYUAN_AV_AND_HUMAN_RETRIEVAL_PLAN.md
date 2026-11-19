@@ -5,17 +5,19 @@ artifact_type: av_human_retrieval_plan
 analytical_responsibility: "Claim-driven listening and audiovisual nominations with exact script routes and acquisition status"
 scope: QIUYUAN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: QIUYUAN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation_frozen: true
 source_freeze_metadata: conflicting_collection_and_embedded_lock_fields
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Qiuyuan — claim-driven AV and human retrieval plan
+
+**Current-status correction:** This is a retained nomination plan, not a completion certificate. Following the owner-adopted Chapter II AV reconciliation, 5/27 scene crosswalk targets and 5/255 stratified solo voice lines have been directly reviewed. Statements below about no listening or no runtime viewing describe the original pre-AV nomination baseline, not the current packet status. See [the current packet router](../WUWA_QIUYUAN_ANALYSIS_PACKET_README.md) and the [Chapter II AV audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md).
 
 The fourteen [matched audio cases](AUDIO_MATCHED_SEMANTIC_CASES.json) are **acquired and machine-measured** in four languages, but not yet listened to by a human. The visual design profile uses three official-client UI images, but no runtime video was reviewed for this packet. This plan does not imply acquisition of a cutscene or proof that the script row has a dedicated cinematic file. Quest/branch retrieval should begin with the retained raw flow row and source action, not a guess from a friendly scene title. Local copyrighted media belongs in the private evidence plane, not Git.
 
