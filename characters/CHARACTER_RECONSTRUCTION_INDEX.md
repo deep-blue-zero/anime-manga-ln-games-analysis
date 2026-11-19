@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 190; `STALE` 2; `SUPERSEDED` 35
+- Recorded totals: `CANDIDATE` 192; `STALE` 1; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -44,9 +44,9 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 2 | 2 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
 | [`project-sekai`](reconstruction_index/project-sekai.md) | 6 | 7 |
-| [`re-zero`](reconstruction_index/re-zero.md) | 21 | 24 |
+| [`re-zero`](reconstruction_index/re-zero.md) | 21 | 25 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
-| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 10 | 10 |
+| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 11 | 11 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
 | [`silent-witch`](reconstruction_index/silent-witch.md) | 4 | 4 |
 | [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
@@ -215,8 +215,9 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `re-zero:reala-thompson@light-novel` | [`re-zero-reala-thompson-ln-v01-v21-model-20261102-01`](reconstruction_index/re-zero.md#re-zero-reala-thompson-ln-v01-v21-model-20261102-01) | `CANDIDATE` | `C` | `1e97b80e68c064c65263e1f3322b4544ee499500` |
 | `re-zero:regulus-corneas@light-novel` | [`re-zero-regulus-corneas-ln-v01-v19-model-20261027-01`](reconstruction_index/re-zero.md#re-zero-regulus-corneas-ln-v01-v19-model-20261027-01) | `CANDIDATE` | `C` | `70efdcaf6ace3fd53fd94fb9c082c4abe9808fd1` |
 | `re-zero:reid-astrea@light-novel` | [`re-zero-reid-astrea-ln-v22-v24-manifested-model-20261107-01`](reconstruction_index/re-zero.md#re-zero-reid-astrea-ln-v22-v24-manifested-model-20261107-01) | `CANDIDATE` | `C` | `141711495d1fc86a86c6db882e6e734ad9efc91e` |
-| `re-zero:shaula@light-novel` | [`re-zero-shaula-ln-v21-v24-models-20261107-01`](reconstruction_index/re-zero.md#re-zero-shaula-ln-v21-v24-models-20261107-01) | `STALE` | `C` | `83ee41aafa45a46e630ca6bb64c7a170c8b42c44` |
+| `re-zero:shaula@light-novel` | [`re-zero-shaula-ln-v21-v25-model-20261119-01`](reconstruction_index/re-zero.md#re-zero-shaula-ln-v21-v25-model-20261119-01) | `CANDIDATE` | `B` | `aa9c2916aef0012c7456781bd68cc15b738e5e6d` |
 | `re-zero:shaula@light-novel` | [`re-zero-shaula-ln-v21-v23-model-20261107-01`](reconstruction_index/re-zero.md#re-zero-shaula-ln-v21-v23-model-20261107-01) | `SUPERSEDED` | `C` | `2ccd93a9781634afa64285d01b7c204cbf589d08` |
+| `re-zero:shaula@light-novel` | [`re-zero-shaula-ln-v21-v24-models-20261107-01`](reconstruction_index/re-zero.md#re-zero-shaula-ln-v21-v24-models-20261107-01) | `SUPERSEDED` | `C` | `83ee41aafa45a46e630ca6bb64c7a170c8b42c44` |
 | `re-zero:subaru@light-novel` | [`re-zero-subaru-ln-v01-v25-model-20261118-01`](reconstruction_index/re-zero.md#re-zero-subaru-ln-v01-v25-model-20261118-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `re-zero:theresia-van-astrea@light-novel` | [`re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01`](reconstruction_index/re-zero.md#re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01) | `CANDIDATE` | `C` | `6e50c633339b9e2b2d569d0f0eea53a7290cdc16` |
 | `re-zero:wilhelm-van-astrea@light-novel` | [`re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01) | `CANDIDATE` | `C` | `38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357` |
@@ -228,6 +229,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `shokugeki-no-soma:nakiri-azami@manga` | [`shokugeki-no-soma-nakiri-azami-manga-v2-monograph-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-azami-manga-v2-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `shokugeki-no-soma:nakiri-erina@manga` | [`shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01) | `CANDIDATE` | `B` | `f4b3164218ddeacb5b94fbe9678d315beed44972` |
 | `shokugeki-no-soma:saiba-asahi@manga` | [`shokugeki-no-soma-saiba-asahi-manga-v2-monograph-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-saiba-asahi-manga-v2-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
+| `shokugeki-no-soma:shinomiya-kojiro@manga` | [`shokugeki-no-soma-shinomiya-kojiro-manga-v2-model-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-shinomiya-kojiro-manga-v2-model-20261119-01) | `CANDIDATE` | `C` | `aa9c2916aef0012c7456781bd68cc15b738e5e6d` |
 | `shokugeki-no-soma:tadokoro-megumi@manga` | [`shokugeki-no-soma-tadokoro-megumi-manga-v2-monograph-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-tadokoro-megumi-manga-v2-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `shokugeki-no-soma:yukihira-joichiro@manga` | [`shokugeki-no-soma-yukihira-joichiro-manga-v2-monograph-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-yukihira-joichiro-manga-v2-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `shokugeki-no-soma:yukihira-soma@manga` | [`shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01) | `CANDIDATE` | `B` | `4d83b32a8ef03b3e109e261b32151b737f58fdf3` |

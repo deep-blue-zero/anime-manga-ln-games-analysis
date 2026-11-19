@@ -313,6 +313,48 @@ Recorded assessments of subjects in the `shokugeki-no-soma` namespace of the [Ch
 - Evidence at basis commit:
   - [`shokugeki-no-soma:saiba-asahi@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/92f1c00e429f2da8672403dd3afd8187d375381a/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_ASAHI_CHARACTER_MONOGRAPH.md)
 
+### Subject `shokugeki-no-soma:shinomiya-kojiro@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/shinomiya-kojiro@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/shinomiya-kojiro@manga.jsonl)
+
+<a id="shokugeki-no-soma-shinomiya-kojiro-manga-v2-model-20261119-01"></a>
+
+#### Assessment `shokugeki-no-soma-shinomiya-kojiro-manga-v2-model-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shokugeki-no-soma:shinomiya-kojiro`
+- Scope: continuity `shokugeki-no-soma-manga`
+- Source boundary: Only shokugeki-no-soma:shinomiya-kojiro@manga\#reviewed-dedicated-analysis, the active\_provisional V2 bounded character model SHOKUGEKI\_SHINOMIYA\_CHARACTER\_MODEL.md \(about 15 KB\) at basis\_commit, read in full as reviewed repository analysis of the original Japanese manga V01-V36 including Le dessert. Its linked deep readings \(D03, D04, D14, D27, D28\), state, voice, relationship and readiness ledgers, evidence matrix, router and validation audits are not curated on this subject and were not used as evidence. The model's readiness label substantial and its authority\_state are inputs, not conclusions. No anime adaptation or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Five states as the model orders them: defensive camp authority \(D03\); the mock Food War with Megumi \(D04\); the SHINO'S opening \(D14\); Megumi's transfer training \(D27, D28\); and the terminal professional, a continuing chef trajectory with no new ordinary or accountability arc in the adult montage. The France discrimination, staff resistance and his mother's delight are retrospective origin and belong to his knowledge in every state. Evidence is located by volume reading key, not by chapter or page-level state change; the serialized ending, Présent, Passé and Futur are kept distinct by the model.
+- Basis commit: `aa9c2916aef0012c7456781bd68cc15b738e5e6d`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `fae3ad640de63e81eedd568558eb746616165872defc4ec4649a38ba50f0c17d`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Translated illustrative lines only, never presented as quotation, in professional exchanges in a selected state: camp evaluation, service, menu discussion or training.
+  - `DIALOGUE` condition: Register follows the model: short rejection, specific technical correction, command, dismissal of casual familiarity; later explanation is direct and useful without becoming gentle.
+  - `DIALOGUE` condition: No Japanese first-person, honorific or address forms and no invented catchphrase; Soma's 師匠 is the learner's address and the table-tennis framing stays local to Megumi's training.
+  - `DIALOGUE` condition: No lines in leisure, intimate or private settings.
+  - `CROSS_SCENARIO` condition: A novel kitchen, service, menu-development or training situation governed by the rules for task and consequence: an unsafe live-service error is covered and the role restricted; a developing proposal receives rejection and specific revision; returned competence earns more exact participation.
+  - `CROSS_SCENARIO` condition: The interlocutor is a learner or brigade member comparable to the sampled novice, Soma, Megumi or Abel; an unknown subordinate inherits neither Abel's trust nor Soma's history.
+  - `CROSS_SCENARIO` condition: In the later or terminal state, abstain on how he treats an unauthorized change to his own recipe, or present both the camp-era defense and the later openness as unresolved.
+  - `CROSS_SCENARIO` condition: No humiliation unrelated to the work, and no prediction that his teaching produces victory.
+  - `CROSS_SCENARIO` bounds: chronology A named state from the model: defensive camp authority, or the later mentor from the SHINO'S opening through Megumi's training and the terminal professional.; interlocutor A culinary learner or subordinate in his brigade or training; Soma, Megumi or Abel as sampled; an unknown adult peer only as a separate M/U case.; settings A professional kitchen, restaurant service, menu development or culinary training.; No leisure, family or private setting beyond the located visits, and no anime adaptation material.; Culinary mechanism, judging and institutions follow their specialist routes, which are outside this evidence set.
+  - `PROFESSIONAL_CONTEXT` condition: Elite French technique, vegetables, course timing, restaurant opening and teaching transferable principles.
+  - `PROFESSIONAL_CONTEXT` condition: He names the defect, protects timing and demands correction; correction does not absorb the learner's authorship.
+  - `PROFESSIONAL_CONTEXT` condition: His own unsolved search for a decisive specialty stays open; harsh pedagogy is not treated as universally effective.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `later-deviation-response-undetermined` (evidence-backed limitation): The camp condemnation and the later revision of Soma's proposal test opposite sides of his blind spot about deviation; no located later scene shows his response to an unauthorized change to his own recipe, and the terminal default keeps abrasive authority and incomplete correction visible.
+  - `ordinary-life-thin` (evidence-backed limitation): Later personal failure, ordinary reciprocity outside brigade and family visits, sustained accountability for harsh pedagogy and detailed adult private life are named material gaps; the model abstains from them.
+  - `pedagogy-not-vindicated` (evidence-backed limitation): Megumi's later 1-2 loss to Momo is a real technical limit; the model makes no claim that harsh pedagogy works or that later usefulness justifies the earlier expulsion.
+  - `single-compact-synthesis` (evidence gap): The model is one compact synthesis of a 36-volume reading; its three probes are noncanonical examples with stated confidence, not test outcomes.
+  - `uncurated-readings-and-audits` (evidence gap): The deep readings, voice, state, relationship and readiness ledgers, the evidence matrix and the validation and fidelity audits are not curated on this subject, so no locator was rechecked and no probe result is in this evidence set.
+  - `unknown-peer-criticism` (evidence-backed limitation): His response to an unknown adult peer's criticism outside his kitchen, and to an unfamiliar person repeatedly offering emotional support, is M/U.
+  - `voice-inventory-unspecified` (evidence-backed limitation): Exact pronoun or honorific inventories are left unspecified and no actor delivery, accent or pitch is inferred.
+- Evidence at basis commit:
+  - [`shokugeki-no-soma:shinomiya-kojiro@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/aa9c2916aef0012c7456781bd68cc15b738e5e6d/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_SHINOMIYA_CHARACTER_MODEL.md)
+
 ### Subject `shokugeki-no-soma:tadokoro-megumi@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/tadokoro-megumi@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/tadokoro-megumi@manga.jsonl)
