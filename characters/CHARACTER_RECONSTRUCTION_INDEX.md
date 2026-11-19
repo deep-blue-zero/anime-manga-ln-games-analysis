@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 183; `STALE` 2; `SUPERSEDED` 35
+- Recorded totals: `CANDIDATE` 185; `STALE` 2; `SUPERSEDED` 35
 
 ## Namespaces
 
@@ -52,7 +52,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
 | [`sound-euphonium`](reconstruction_index/sound-euphonium.md) | 1 | 1 |
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
-| [`three-days-of-happiness`](reconstruction_index/three-days-of-happiness.md) | 2 | 2 |
+| [`three-days-of-happiness`](reconstruction_index/three-days-of-happiness.md) | 4 | 4 |
 | [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 1 | 1 |
 | [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 17 |
 | [`tomozaki`](reconstruction_index/tomozaki.md) | 18 | 22 |
@@ -240,6 +240,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `the-idolmaster:yonai-p@u149-anime` | [`the-idolmaster-yonai-p-u149-anime-20261023-01`](reconstruction_index/the-idolmaster.md#the-idolmaster-yonai-p-u149-anime-20261023-01) | `CANDIDATE` | `D` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |
 | `three-days-of-happiness:kusunoki@original-novel` | [`three-days-of-happiness-kusunoki-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-kusunoki-original-novel-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `three-days-of-happiness:miyagi@original-novel` | [`three-days-of-happiness-miyagi-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-miyagi-original-novel-monograph-20261119-01) | `CANDIDATE` | `C` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
+| `three-days-of-happiness:shinbashi@original-novel` | [`three-days-of-happiness-shinbashi-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-shinbashi-original-novel-monograph-20261119-01) | `CANDIDATE` | `E` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
+| `three-days-of-happiness:substitute-watcher@original-novel` | [`three-days-of-happiness-substitute-watcher-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-substitute-watcher-original-novel-monograph-20261119-01) | `CANDIDATE` | `E` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `to-be-hero-x:x@animated-series` | [`to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01`](reconstruction_index/to-be-hero-x.md#to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01) | `CANDIDATE` | `E` | `f79e49071be39667e2fc5d5be5a5f3e9ae503589` |
 | `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01) | `CANDIDATE` | `E` | `2127e8fa66a1fed340e733fdca0f8b39d131bdc0` |
 | `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01) | `SUPERSEDED` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |

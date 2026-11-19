@@ -103,3 +103,63 @@ Recorded assessments of subjects in the `three-days-of-happiness` namespace of t
   - `testimony-standing` (evidence-backed limitation): Almost every load-bearing fact about Miyagi's past, motives and the system rests on her word. At Ch12 P0193 she says she has told many lies, naming two by way of example; earlier testimony is uncertain item by item and later testimony cannot rest on her word alone.
 - Evidence at basis commit:
   - [`three-days-of-happiness:miyagi@original-novel#novel-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/92f1c00e429f2da8672403dd3afd8187d375381a/series/three-days-of-happiness/studies/TDH_MIYAGI_NOVEL_MONOGRAPH.md)
+
+### Subject `three-days-of-happiness:shinbashi@original-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/three-days-of-happiness/shinbashi@original-novel.jsonl`](../reconstruction_capabilities/three-days-of-happiness/shinbashi@original-novel.jsonl)
+
+<a id="three-days-of-happiness-shinbashi-original-novel-monograph-20261119-01"></a>
+
+#### Assessment `three-days-of-happiness-shinbashi-original-novel-monograph-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `three-days-of-happiness:shinbashi`
+- Scope: continuity `three-days-of-happiness-original-novel`
+- Source boundary: Only three-days-of-happiness:shinbashi@original-novel\#novel-monograph \(the canonical v1.0 Shinbashi novel monograph, qualified COMPLETE\_AT\_BOUNDARY \(bounded\) with standalone self-containment PASS and sampled primary-source fidelity PASS and no material correction, according to the discovery row\) at basis\_commit, read in full as reviewed repository analysis of the single Japanese witness TDH-JP-01; its close evidence is Ch14 P0010-P0077, with the Ch15 reunion used only as a comparison from which Shinbashi is absent. The monograph's marker do\_not\_use\_as\_literary\_evidence and its statement that it is a literary portrait, not a behavioral reconstruction, were read as method inputs, as were the completion audit's original gate-2 row \(minor figures, one to three scenes, no differentiated portrait\), its later bounded qualification and its statement that no reconstruction operation is authorized. The readings, the longitudinal notebook, the synthesis, the audit and the Kusunoki, Miyagi, Himeno and substitute-watcher monographs are not cited, and nothing is borrowed from them. No translation, adaptation or other edition is assessed, and the evaluator inspected no primary source.
+- Temporal boundary: Ch14 P0010-P0077 of TDH-JP-01: the pub intervention \(P0010-P0043\), the same-night gathering \(P0046-P0065\) and the car loan a few days later with his revised explanation \(P0069-P0077\). His earlier disturbed look when he saw Kusunoki talking to Miyagi is Kusunoki's recollection, without a locator in the monograph. Ch15 P0075-P0094 is used only as a limit: Shinbashi is not shown there. States are split at the pub, the gathering and the loan; nothing about Shinbashi after Ch14 P0077 is established.
+- Basis commit: `92f1c00e429f2da8672403dd3afd8187d375381a`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `abb0837f53687b2ccd64b9ea52b368af95e11c94e541343f3249c98863290b39`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `CROSS_SCENARIO` bounds: chronology Ch14 P0010-P0077 only: the pub intervention, the same-night gathering and the car loan a few days later; nothing after Ch14 P0077.; interlocutor Kusunoki as his neighbor, Miyagi only through Kusunoki's mediation, the pub harasser once, and his friends Suzumi, Asakura and Riko as the gathering's company.; settings The novel's world before the Ch15 reunion, with Miyagi imperceptible to Shinbashi; The pub, his gathering and his door as located; no home life, work or other setting; No primary-source reading beyond the cited monograph
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `absent-from-reunion` (evidence-backed limitation): Shinbashi is not shown at the Ch15 reunion, where others describe seeing Miyagi, so it cannot confirm what he perceived earlier or tell his eventual judgment.
+  - `mediated-perception` (evidence-backed limitation): Shinbashi never claims to see Miyagi; his greeting, handshake and exchange of thanks with her are mediated by Kusunoki, and his reports of matching and anticipating her are his reports, not observations.
+  - `no-model-or-evaluation` (evidence gap): The cited evidence contains no reconstruction model, probe or evaluation of Shinbashi; the monograph describes itself as a literary portrait, not a behavioral reconstruction.
+  - `no-stable-register-rule` (evidence-backed limitation): Shinbashi's pronoun choice shifts between boku and ore within the sample, and the monograph states it cannot establish a stable rule or his speech outside this circle.
+  - `pub-motive-open` (evidence-backed limitation): The exact mix of curiosity, experiment and generosity behind Shinbashi's pub intervention is unknown; he denies a helping motive, and his friends' enjoyment supports a spectacle reading that the later car loan counts against.
+  - `single-chapter` (evidence-backed limitation): Shinbashi acts only in Ch14 P0010-P0077 \(three scenes over a few days\); his life elsewhere, his family history and his response to either final sale are not given.
+- Evidence at basis commit:
+  - [`three-days-of-happiness:shinbashi@original-novel#novel-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/92f1c00e429f2da8672403dd3afd8187d375381a/series/three-days-of-happiness/studies/TDH_SHINBASHI_NOVEL_MONOGRAPH.md)
+
+### Subject `three-days-of-happiness:substitute-watcher@original-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/three-days-of-happiness/substitute-watcher@original-novel.jsonl`](../reconstruction_capabilities/three-days-of-happiness/substitute-watcher@original-novel.jsonl)
+
+<a id="three-days-of-happiness-substitute-watcher-original-novel-monograph-20261119-01"></a>
+
+#### Assessment `three-days-of-happiness-substitute-watcher-original-novel-monograph-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `three-days-of-happiness:substitute-watcher`
+- Scope: continuity `three-days-of-happiness-original-novel`
+- Source boundary: Only three-days-of-happiness:substitute-watcher@original-novel\#novel-monograph \(the canonical v1.0 substitute-watcher novel monograph, qualified COMPLETE\_AT\_BOUNDARY \(bounded\) with standalone self-containment PASS and sampled primary-source fidelity PASS and no material correction, according to the discovery row\) at basis\_commit, read in full as reviewed repository analysis of the single Japanese witness TDH-JP-01; its close evidence is Ch12 P0004-P0173, Ch14 P0155-P0168 and Miyagi's report at Ch15 P0089-P0105. The subject is the unnamed man who substitutes for Miyagi, distinct from the woman who appraises Kusunoki's second sale. The monograph's marker do\_not\_use\_as\_literary\_evidence and its statement that it is a literary portrait, not a behavioral reconstruction, were read as method inputs, as were the completion audit's original gate-2 row \(minor figures, one to three scenes, no differentiated portrait\), its later bounded qualification and its statement that no reconstruction operation is authorized. The readings, the longitudinal notebook, the synthesis, the audit and the Kusunoki, Miyagi, Himeno and Shinbashi monographs are not cited, and nothing is borrowed from them. No translation, adaptation or other edition is assessed, and the evaluator inspected no primary source.
+- Temporal boundary: The two days of substitution in Ch12 \(arrival and antagonism P0004-P0023; questions about Miyagi and her records P0025-P0041; Kusunoki's confession and the notebook P0042-P0049; the night walk and stated motive P0061-P0070; the spending question and withheld price P0080-P0103, with Kusunoki's later recollections at P0147-P0157 and P0163-P0173\), the accompaniment to Kusunoki's second sale \(Ch14 P0155-P0168\), and Miyagi's report of his relay and procedure \(Ch15 P0089-P0105\) as her testimony. His handling of the purchase of Miyagi's time when she was ten is his own statement \(Ch12 P0025-P0041\). States are split at the softening after he skims the notebook \(Ch12 P0042-P0049, P0080-P0083\). Nothing about him after Ch15 P0105 is established.
+- Basis commit: `92f1c00e429f2da8672403dd3afd8187d375381a`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `313b7bb857c95157791865ce7499189fd0274cd3d7677b88d62aef2cc9108fd4`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The two days of substitution in Ch12 \(split at the softening after the notebook\), the shop in Ch14 P0155-P0168, and Miyagi's report at Ch15 P0089-P0105 as her testimony; nothing after Ch15 P0105.; interlocutor Kusunoki as the subject he watches in Miyagi's absence; Miyagi only as a remote colleague known through records, his statements and her report; the woman appraiser only as present at the second sale.; settings The novel's world, with him on duty as a watcher; Kusunoki's apartment, the walks and the shop as located; no off-duty life, other subjects or institutional offices; No primary-source reading beyond the cited monograph
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `no-model-or-evaluation` (evidence gap): The cited evidence contains no reconstruction model, probe or evaluation of the substitute watcher; the monograph describes itself as a literary portrait, not a behavioral reconstruction.
+  - `procedure-by-report` (evidence-backed limitation): The substitute watcher's relay to Miyagi and his handling of her sale are her report, not a witnessed scene; his knowledge of her plan before she decided is not exposed.
+  - `sale-approval-unknown` (evidence-backed limitation): Whether the substitute watcher approved either final sale is not shown; he judges Miyagi's first sale harshly yet is reported to handle her last, and the text gives no conversion, sanction or private endorsement.
+  - `single-addressee-register` (evidence-backed limitation): The substitute watcher's speech is sampled only toward Kusunoki; his register to Miyagi and toward other subjects is not evidenced.
+  - `softening-cause-open` (evidence-backed limitation): Why the substitute watcher softens toward Kusunoki is open: the notebook's contents are never revealed, and he says he did not read it in detail.
+  - `unnamed-few-scenes` (evidence-backed limitation): The substitute watcher is unnamed and appears in two days of Ch12, briefly in Ch14 and in Miyagi's report in Ch15; the novel gives no employment history or independent view of the deaths he says he wants to encounter.
+- Evidence at basis commit:
+  - [`three-days-of-happiness:substitute-watcher@original-novel#novel-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/92f1c00e429f2da8672403dd3afd8187d375381a/series/three-days-of-happiness/studies/TDH_SUBSTITUTE_WATCHER_NOVEL_MONOGRAPH.md)
