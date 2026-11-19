@@ -52,7 +52,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`solo-leveling`](characters/index/solo-leveling.md) | 5 |
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
-| [`three-days-of-happiness`](characters/index/three-days-of-happiness.md) | 1 |
+| [`three-days-of-happiness`](characters/index/three-days-of-happiness.md) | 5 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
 | [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 52 |
 | [`tomozaki`](characters/index/tomozaki.md) | 18 |
@@ -246,6 +246,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Helmeted noble](characters/index/konosuba.md#helmeted-noble) | Original light-novel continuity, bounded character study | `konosuba:helmeted-noble@original-light-novel` | — |
 | [Hifumi](characters/index/blue-archive.md#hifumi) | Blue Archive game | `blue-archive:hifumi@game` | — |
 | [Himari](characters/index/blue-archive.md#himari) | Blue Archive game | `blue-archive:himari@game` | 明星ヒマリ |
+| [Himeno](characters/index/three-days-of-happiness.md#himeno) | Three Days of Happiness original novel | `three-days-of-happiness:himeno@original-novel` | ヒメノ |
 | [Himesaki Rinami](characters/index/the-idolmaster.md#himesaki-rinami) | Gakuen Idolmaster mobile-game Phase-3 core | `the-idolmaster:himesaki-rinami@mobile-game-phase-3-core` | 姫崎莉波 |
 | [Himiko Toga](characters/index/my-hero-academia.md#himiko-toga) | My Hero Academia manga | `my-hero-academia:himiko-toga@manga` | — |
 | [Hina](characters/index/blue-archive.md#hina) | Blue Archive game | `blue-archive:hina@game` | — |
@@ -407,6 +408,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Misaki Nagisa](characters/index/chiramune.md#misaki-nagisa) | Chiramune light novel | `chiramune:misaki-nagisa@light-novel` | — |
 | [Misao](characters/index/peach-girl.md#aki-misao) | Japanese manga | `peach-girl:aki-misao@manga` | 安芸操; 操ちゃん; Aki Misao |
 | [Mitsurugi Kyouya](characters/index/konosuba.md#mitsurugi-kyouya) | Original light-novel continuity, scoped current monograph | `konosuba:mitsurugi-kyouya@original-light-novel` | ミツルギ・キョウヤ; 御剣響夜 |
+| [Miyagi](characters/index/three-days-of-happiness.md#miyagi) | Three Days of Happiness original novel | `three-days-of-happiness:miyagi@original-novel` | ミヤギ |
 | [Miyako](characters/index/blue-archive.md#miyako) | Blue Archive game | `blue-archive:miyako@game` | — |
 | [Miyu](characters/index/blue-archive.md#miyu) | Blue Archive game | `blue-archive:miyu@game` | — |
 | [Mizuki](characters/index/project-sekai.md#mizuki) | Project SEKAI game — Nightcord at 25:00 | `project-sekai:mizuki@game` | — |
@@ -535,6 +537,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Shigaraki Tomura](characters/index/my-hero-academia.md#shigaraki-tomura) | My Hero Academia manga | `my-hero-academia:shigaraki-tomura@manga` | — |
 | [Shiho](characters/index/project-sekai.md#shiho) | Project SEKAI game — Leo/need | `project-sekai:shiho@game` | — |
 | [Shima Rin](characters/index/yuru-camp.md#shima-rin) | Japanese manga | `yuru-camp:shima-rin@manga` | 志摩リン |
+| [Shinbashi](characters/index/three-days-of-happiness.md#shinbashi) | Three Days of Happiness original novel | `three-days-of-happiness:shinbashi@original-novel` | シンバシ |
 | [Shinei Nouzen](characters/index/86-eighty-six.md#shinei-nouzen) | 86 - Eighty-Six original light novels | `86-eighty-six:shinei-nouzen@original-light-novels` | シンエイ・ノウゼン |
 | [Shinobu Oshino](characters/index/monogatari-series.md#shinobu-oshino) | Monogatari Series original light novels | `monogatari-series:shinobu-oshino@original-light-novels` | Kiss-Shot Acerola-Orion Heart-Under-Blade |
 | [Shinomiya Kōjirō](characters/index/shokugeki-no-soma.md#shinomiya-kojiro) | Shokugeki no Soma manga | `shokugeki-no-soma:shinomiya-kojiro@manga` | — |
@@ -586,6 +589,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Temiren](characters/index/konosuba.md#temiren) | Edited TRPG replay continuity, bounded character study | `konosuba:temiren@trpg-edited-replay` | てみれん |
 | [Tendo Rui](characters/index/idoly-pride.md#tendo-rui) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:tendo-rui@v2-cross-media` | — |
 | [Tendoji Musubi](characters/index/tokyo-7th-sisters.md#tendoji-musubi) | Tokyo 7th Sisters game | `tokyo-7th-sisters:tendoji-musubi@game` | — |
+| [The substitute watcher](characters/index/three-days-of-happiness.md#substitute-watcher) | Three Days of Happiness original novel | `three-days-of-happiness:substitute-watcher@original-novel` | — |
 | [Theoto Rikka](characters/index/86-eighty-six.md#theoto-rikka) | 86 - Eighty-Six original light novels | `86-eighty-six:theoto-rikka@original-light-novels` | セオト・リッカ |
 | [Theresia van Astrea](characters/index/re-zero.md#theresia-van-astrea) | Re:Zero main light novel | `re-zero:theresia-van-astrea@light-novel` | — |
 | [Tia](characters/index/konosuba.md#tia) | Original light-novel continuity, scoped cohort monograph | `konosuba:tia@original-light-novel` | ティア |
