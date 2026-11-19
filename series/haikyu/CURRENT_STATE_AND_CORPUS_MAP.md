@@ -2,7 +2,7 @@
 title: "Haikyu!! — Current State and Corpus Map"
 artifact_id: HQ_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: HQ-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no narrative findings"
 source_boundary: "Metadata only: Japanese colour-edition main V01–45 plus separate 10th Chronicle and Final Guidebook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
@@ -65,10 +65,12 @@ Read the [analytical method](HQ_ANALYTICAL_METHOD.md) and [synthesis architectur
 
 No future reading, monograph, specialist, synthesis or archive is represented as existing. Independent foundation audit and owner acceptance remain unclaimed.
 
+The [standing source-reading configuration](HQ_SYNTHESIS_ARCHITECTURE.md#independent-source-reading) applies at the first separately authorized unit. The `HQ-TX` transaction retains the contribution evidence and its disposition.
+
 ## Next permitted bootstrap work and resumption
 
 Review all sixteen architectural duties, source/colour boundaries and the sufficiency of the six justified registers. Before a future run, bind selected witness bytes, verify spine/page occurrence order and readable STILL_IMAGE inspection, establish chapter/frontier/spread mapping, confirm numbered source order and record bounded authorization under the [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md). Companion publications require a separately stated scope and spoiler boundary.
 
-Architecture and full-series integration use PREMIUM_QUALITY_FIRST to reduce high-cost propagation of false action order, ensemble-state loss and edition conflation. Sequential interpretation uses SUBSTANTIVE_ANALYSIS; checkpoints, monographs, specialists and reconstruction use DEEP_SYNTHESIS; stable indexing uses BOUNDED_STANDARD; hashes use ROUTINE_FAST. Actual model settings are not invented.
+Architecture and full-series integration use PREMIUM_QUALITY_FIRST to reduce high-cost propagation of false action order, ensemble-state loss and edition conflation. Sequential interpretation uses SUBSTANTIVE_ANALYSIS; checkpoints, monographs, retrospective specialist studies and reconstruction use DEEP_SYNTHESIS; stable indexing uses BOUNDED_STANDARD; hashes use ROUTINE_FAST. Actual model settings are not invented.
 
 The preferred execution is source-capable local readings/ledgers, fresh fully supplied synthesis sessions, independent assessment and designated integration. Current capability is metadata/local-document access only. Manga requires STILL_IMAGE inspection; TEXT/OCR is a retrieval aid. No animation, sound or performed-voice inference is licensed. Resume from the full linked corpus and last actual accepted register state, not a compressed handoff. Git holds analysis; primary pages, private receipts and source identifiers stay outside it. [Local descriptor](.repository/series-registry.json) routes this root; housekeeping owns global registry updates.

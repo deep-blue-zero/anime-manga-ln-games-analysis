@@ -4,7 +4,7 @@ series: astra-lost-in-space
 artifact_id: ALS_STATE_AND_EVIDENCE_LEDGER
 artifact_type: longitudinal_state_ledger
 generation: ALS-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "Typed unit/state/evidence schemas and controls; zero narrative findings"
 source_boundary: "One Japanese 彼方のアストラ 全巻合本版 omnibus EPUB; internal units unverified; no narrative admission or inspection"
@@ -43,6 +43,10 @@ All analytical records require a verified unit key from the source map. An omnib
 **Contextual sample:** `sample_id | subject | interlocutor/audience | unit/state/horizon | situation/stakes(ORDINARY/CRISIS/MIXED) | diagnostic_opportunity | behavior/inaction | text_layer/attribution_confidence | brief_Japanese_form/labeled_gloss_if_needed | register/pragmatic_feature | baseline/exception_links | claims/reading/locators`. Private thought is not speaking style; missing opportunity is GAP.
 
 No analytical records exist.
+
+### Character qualification
+
+At specialist readiness, append a decision for each assessed `ALS-Pnnnn` identity. Record `subject_key | assessment frontier (witness, verified internal unit, disclosure horizon) | outcome | source grounds and largest gaps | reassessment trigger | prior decision at its frontier | actual monograph path when present | separate self-containment and source-fidelity review references when available`. Use `QUALIFIED_PENDING`, `COMPLETE_AT_BOUNDARY`, `DEFERRED_EVIDENCE` or `REASSESS_AFTER_REVISION`. Link material changes to the previous decision and retain its evidence and horizon. Record `COMPLETE_AT_BOUNDARY` only after both review results exist. The current bootstrap has no assessed subjects.
 
 ## Update/history contract
 

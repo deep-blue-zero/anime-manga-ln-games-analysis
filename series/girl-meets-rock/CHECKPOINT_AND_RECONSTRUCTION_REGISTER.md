@@ -2,7 +2,7 @@
 title: "Girl meets Rock! — Checkpoint and Reconstruction Register"
 artifact_id: GMR_CHECKPOINT_REGISTER
 artifact_type: checkpoint_reconstruction_register
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: GMR-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary or musical-performance findings"
 source_boundary: "Metadata only: Japanese manga V01–12; no narrative admitted and no audio witness supplied"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 ---
 
 # Checkpoint and reconstruction register
@@ -25,7 +25,7 @@ No run, accepted frontier, checkpoint, character model or readiness grade exists
 | Transaction `GMR-TX-nnnn` | Actual authorization; exact source/unit; entering/exit frontier; full reading; five-register deltas or scoped no-change; page/retrieval/debt; name/reference sample/findings; channel limits; reviewer/disposition; next permitted operation |
 | Checkpoint `GMR-CP-nn` | Authorized tranche; complete files/digests/authority; frozen subject/group/tie/knowledge/form states and forecasts; full reconciliation; conflicts; role gaps and limits |
 | Dependency `GMR-DEP-nnnn` | Upstream source/evidence/claim/state; downstream argument/study/model; trigger; owner/review; OPEN/RESOLVED_WITH_ROUTE/ACCEPTED_LIMITATION and evidence |
-| Role gap `GMR-RG-nnnn` | Required responsibility; actual ordinary/context/relationship/Japanese/graphic coverage; absent channels; synthesis effect; targeted return/specialist; justified no-specialist route; acceptance criterion |
+| Role gap `GMR-RG-nnnn` | Required responsibility; actual ordinary/context/relationship/Japanese/graphic coverage; absent channels; synthesis effect; targeted return/specialist; justified no-specialist route; acceptance criterion. A character-qualification record also gives stable subject identity; assessment frontier; outcome; source grounds and largest gaps; reassessment trigger; monograph path once a real document exists; separate self-containment and fidelity review references |
 | Model coverage `GMR-MC-nnnn` | Source-established subject@witness/frontier/state; twelve dimensions/six scenarios; evidence channels; excluded acoustic/motor-performance scope; missing/contrary evidence; confidence/distance/abstention; holdout/exposure and independent evaluator |
 | Handoff `GMR-HO-nnnn` | Base snapshot; full inputs/outputs/digests; authority/source/channel/admission/knowledge boundary; owners; transfer receipt; returned changes/evidence; base-candidate-current drift; acceptance/remaining work |
 | Gate `GMR-GR-nnnn` | G0–G12; actual inputs; evidence/reviewer/independence; defects; pass/hold/bounded acceptance; next allowed action |
@@ -37,6 +37,8 @@ Future models contain trigger/stakes/state → response-family rules with inhibi
 Manga-only models cannot certify singing, instrumental execution or vocal imitation. Independent held-out predictions freeze before exposure; exposed tests are RETROSPECTIVE_CONSISTENCY_TEST. Evaluators compare actual diagnostic outcomes with meaningful baselines/controls, recording opportunities/confounds. Synthetic output never becomes canonical or primary evidence. Global discovery/readiness registries remain with designated agents.
 
 ## Closeout and transfer
+
+`GMR-TX` carries the [independent reading receipt](GMR_SYNTHESIS_ARCHITECTURE.md#independent-source-reading). Record each person's assignment, independent context, actual exposure, inspected material and precise locators. Preserve the material observations, rival explanations, counterexamples, challenges and remaining debts, with the principal's grounds for adopting, qualifying, rejecting or leaving each finding open. Link the full argument and any affected claim revisions. Record observed settings only when known.
 
 Accept complete reading and synchronized registers atomically. Verify actual page coverage/retrieval, actor/group knowledge, ordinary controls, directed ties, Japanese/form reasoning and bounded name/reference review. Audit depicted-versus-heard warrants. The absence of audio is a source-scope limit, not a false completed AV inspection.
 
