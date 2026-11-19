@@ -2,7 +2,7 @@
 title: "Wandering Witch — Current State and Corpus Map"
 artifact_id: WW_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: WW-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese main volumes 01–25 plus separate 2014 Upper and Lower editions; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
@@ -62,6 +62,8 @@ The same manifest retains stale `audit_notes` describing **nineteen** EPUBs, mis
 The 2014 Upper/Lower parts are separate edition witnesses. In particular, original Lower is not main GA Novel V01. They are neither substitute main volumes nor extra V26/V27, and no prose equivalence, narrative ordering relation or shared continuity has been established.
 
 `source_reconnaissance_complete: true` means the metadata is sufficient to design a scoped foundation. Live-byte identity, exact chapter/spine mapping, source lock, narrative/illustration inspection and publication completeness remain unverified. No primary narrative was read for this bootstrap. Japanese metadata and a historical quick scan are not full language/content certification by this project.
+
+For a future authorized main-lane reading, [architecture section 5.1](WW_SYNTHESIS_ARCHITECTURE.md#51-reading-the-local-story-before-comparing-it) assigns independent Japanese source work on local narrative and review of candidate recurrence claims. The reading boundary register carries the principal’s reconciliation.
 
 ## Required next work
 

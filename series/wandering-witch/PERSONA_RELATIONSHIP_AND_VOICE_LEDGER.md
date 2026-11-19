@@ -11,7 +11,7 @@ authority_generation: WW-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese main volumes 01–25 plus separate 2014 Upper and Lower editions; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-18
 ---
 
 # Persona, relationship and voice ledger
@@ -32,6 +32,7 @@ Distinguish what a subject says about themself, what another reports, narrated i
 | Japanese voice `WW-V-nnnn` | Narrating/speaking/thinking position; recipient/audience; exact witness/locator; short verified Japanese wording; base/ruby and consequential forms; speech act; objective; politeness/address/ellipsis/irony cues; gloss alternatives; contextual comparison; uncertainty and full analysis |
 | Ordinary opportunity `WW-OP-nnnn` | Subject/tie; low-stakes context or actual opportunity for a proposed tendency; options and inhibitors; observed action/non-action; whether absence is diagnostic; comparable cases; evidence/counterexample; denominator/limits |
 | Model coverage `WW-MC-nnnn` | Source-established subject; intended lane/frontier/state; represented time/context/relationship/evidence channels; missing scenarios; contradictions; excluded editions; latent exposure; held-out plan; evaluator disposition only if actually provided |
+| Monograph qualification, keyed by `WW-SUB-nnn` and assessment boundary | Subject; lane/witness and assessment boundary; outcome `QUALIFIED_PENDING / COMPLETE_AT_BOUNDARY / DEFERRED_EVIDENCE / REASSESS_AFTER_REVISION` ([initiation section 5.5.1](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)); brief source-grounded rationale naming the largest gaps; next review trigger; monograph path once a real document exists; separate self-containment and fidelity acceptance references for `COMPLETE_AT_BOUNDARY`. A reassessment appends a row; the latest row is current and earlier rows remain. An unassessed subject has no row and is neither qualified nor rejected |
 
 Identity evidence must distinguish a recurring name from a recurring person. A local subject can remain a locally bounded subject rather than being forced into a long-series development chart. A one-encounter relationship is not automatically durable; repeated encounters are not automatically mutual intimacy.
 
@@ -64,3 +65,4 @@ Checkpoint review asks whether coverage overrepresents one narrator mode, dramat
 | History ID | Date | Operation | Result |
 |---|---|---|---|
 | WW-PH-001 | 2026-11-07 | Initialized subject/persona/tie/voice/opportunity schemas | No literary characterization or reconstruction readiness asserted |
+| WW-PH-002 | 2026-11-18 | Added the monograph qualification register schema | No subject assessed; no qualification outcome recorded |

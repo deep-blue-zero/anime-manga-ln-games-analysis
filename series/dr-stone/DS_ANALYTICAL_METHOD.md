@@ -2,7 +2,7 @@
 title: "Dr. STONE — Analytical Method"
 artifact_id: DS_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: DS-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary or technical findings"
 source_boundary: "Metadata only: Japanese main manga V01–27 plus separate 科学王国事典 fanbook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -97,6 +97,8 @@ Distinguish depiction, explanation, evaluation and endorsement, including where 
 Classify apparent conflict by witness/page map, chronology, knowledge/report reliability, role/group constraints, schematic omission, fanbook layer, external-reference disagreement, interpretation, missing evidence or possible textual inconsistency. Preserve open alternatives. Revision uses PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT and OPEN, retaining old/new formulations, boundary, evidence, rival disposition and dependencies.
 
 ## 9. Complete future output and acceptance
+
+Use the [independent source-reading team](DS_SYNTHESIS_ARCHITECTURE.md#independent-source-reading) for every future authorized unit. Close `DS-TX` with the participant evidence and principal's reconciliation before advancing the accepted frontier.
 
 Each accepted volume needs receipt/coverage; entering state and frozen expectations; developed thesis/rival; movement-level causal/page analysis; explanation-versus-demonstration checks where earned; subject/group/directed relationship changes; ordinary-life controls; Japanese/graphic language; page/diagram form; recurrence/counterexamples; claim transitions; synchronized five-register manifest; exit freeze; limits and completion decision.
 

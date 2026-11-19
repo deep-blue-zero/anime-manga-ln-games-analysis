@@ -2,7 +2,7 @@
 title: "Wandering Witch — Analytical Method"
 artifact_id: WW_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: WW-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese main volumes 01–25 plus separate 2014 Upper and Lower editions; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -107,6 +107,7 @@ Each accepted volume reading must include detailed source-established local-unit
 | Cross-unit reasoning | Evidenced recurrence/variation, alternative groupings, counterinstances and limits of generalization |
 | Subject and voice state | Ordinary versus exceptional behavior, knowledge/disclosure, directed ties, written register and change causes |
 | Form and modality | Ordering, pacing, repetition, illustrations/paratext actually inspected and remaining debt |
+| Independent reading and challenge | Preserve the local specialist’s account and the reviewer’s source tests, including open endpoints and disputed recurrence, in the full reading and linked `WW-TX` under architecture section 5.1. |
 | Revision/integration | Evidence routes; claim transitions; atlas and persona updates; implications and full argument destinations |
 | Exit freeze | Source frontier, known and unresolved states, prospective predictions, owner-authorized next operation or NONE |
 
