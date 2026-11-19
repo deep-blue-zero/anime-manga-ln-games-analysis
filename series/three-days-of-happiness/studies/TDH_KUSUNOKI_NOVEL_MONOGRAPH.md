@@ -82,7 +82,8 @@ Depicted time is given as the text gives it; day counts in the story present are
 | 17 (winter) | Stops painting, to become the "great" person he promised Himeno he would be | Ch14 P0182–P0184; Ch10 P0119 |
 | 19 (summer) | Lets himself paint, and loses the ability (the narration's account) | Ch14 P0186–P0188 |
 | 20 (spring) | Wakana, a first-year, befriends him; he keeps her at a distance | Ch04 P0014–P0028 |
-| 20 (summer), sale day | Collapse; three days of listening to his CDs; the referrals; the appraisal; sells thirty years, keeping three months | Ch02 |
+| 20 (summer), preceding the sale | Collapse; his manager tells him to stay off work for a while; three days of listening to his CDs | Ch02 P0004–P0022 |
+| 20 (summer), sale day | Referrals; appraisal; sells thirty years, keeping three months | Ch02 |
 | Days 1–3 | Miyagi arrives as watcher; the list; Wakana; Naruse and the glass; the home-town trip and the time capsule | Ch03–Ch07 |
 | Day 4, before dawn | The aborted assault at the station; Miyagi's history; the shared light | Ch08 |
 | About days 4–13 | Cranes; the capsule letter; Himeno's house; the festival encounter; the rehearsal; the dinner; Himeno's letter; the money given away | Ch09–Ch10 |
@@ -135,7 +136,7 @@ The table collects the main places where his statements about himself are qualif
 |---|---|---|
 | His childhood sense of greatness was a 勘違い (Ch01 P0035) | The same sentence calls the neighbourhood children 「どうしようもなく冴えない」. At twenty he "still could not escape" feeling special (Ch02 P0120) | Self-assessment revised more than contempt (`TDH-C004` v2) |
 | After Himeno he could not feel even slight goodwill for anyone (Ch03 P0026) | Three years of 好意 for Naruse, which ends "in less than ten seconds" (Ch06 P0077) | Contradicted locally (U06 §9). He then doubts the Naruse goodwill was ever for Naruse (Ch06 P0100) |
-| He had never envied revellers before (Ch04 P0065) | Three paragraphs earlier he admits a long-standing secret envy of couples shopping in loungewear (Ch04 P0062). Late in the novel he says he always envied the class clown (Ch14 P0119) | Contradicted. Ch14's 「最近になって、わかってきた」 presents it as new understanding of an old feeling |
+| Kusunoki envies the neighbors partying and contrasts this with his prior reaction to groups having fun (Ch04 P0064–P0067) | He has wished to shop with a partner (Ch04 P0061–P0062); he later recalls envying the class clown’s ability to make himself liked (Ch14 P0119) | Different objects of desire, not contradictory reports. 「最近になって、わかってきた」 marks a new understanding of an old feeling |
 | Neither regret nor satisfaction at never initiating contact (Ch04 P0008) | Within the hour, loneliness and regret (Ch04 P0013, P0028–P0029) | Local |
 | Resolves on shameless honesty (Ch06 P0018) | His first clear want is a performance: to have Naruse misread his relation with Miyagi (Ch06 P0046–P0047). He is honest only with Miyagi (Ch06 P0114) | Pattern of performance persists |
 | Says he has always found Miyagi's existence a nuisance (Ch04 P0062) | Finds her exactly his type from the first meeting and censors himself before her (Ch06 P0007–P0010) | Attraction disclosed late; the "nuisance" claim is undercut |

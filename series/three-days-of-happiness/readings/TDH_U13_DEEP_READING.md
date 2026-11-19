@@ -318,7 +318,7 @@ When the two have gone, Miyagi says she had meant to do all sorts of things, sin
 - (i) A response to both their losses, a claim on the present. INFERENCE, moderate.
 - (ii) His own desire, as he frames it, 「自分勝手」, licensed by invisibility (P0161). OBSERVATION of his frame.
 - (iii) Her logic turned: her renounced てやる toward one who cannot see her becomes his toward one who can (P0153–P0161; B, C). INFERENCE, moderate.
-- (iv) An unasked act on impulse that repeats, in a gentler key, his Ch08 indifference to consequence: his 自分勝手; her 身を固く (P0159) against 身体を強張らせた (Ch08 P0024); Ch08 P0009 (B, C, D1). INFERENCE, moderate. Whether the act was welcome is a VALUE_JUDGMENT, the analyst's, by contemporary norms. The in-text licence (her response, as he narrates it; her Ch12 offer, Ch12 P0195) stands against the unasked initiative he himself calls 自分勝手.
+- (iv) An unasked act on impulse that repeats, in a gentler key, his Ch08 indifference to consequence: his 自分勝手; her 身を固く (P0159) against 身体を強張らせた (Ch08 P0024); Ch08 P0009 (B, C, D1). INFERENCE, moderate. Kusunoki narrates surprise followed by response; neither that sequence nor Miyagi’s conditional offer before a separate embrace (Ch12 P0193–P0199) establishes her wishes or permission before this kiss. He calls his initiative 自分勝手.
 
   Her downcast answer (P0162–P0163) leaves her feeling unstated. Her response is his narration (P0159).
 

@@ -98,7 +98,7 @@ This layer reconsiders claims in the light of the whole novel. It adds a retrosp
 | C015, C016, C042, C048, C054 (Himeno strand) | U03–U11 | Himeno's letter (U10) is her own testimony; Kusunoki's conclusion that her letter at seventeen was an SOS and that she will soon die (U11) stays his unconfirmed inference. Miyagi's admitted lie about "Himeno" is unspecified. Himeno's fate is never narrated |
 | C023 (selling down to three days) | U05 | Realized in U14: thirty of thirty-three days sold |
 | C024 (watcher invisibility) | U06 | Ends with the role, by inference (U15): Miyagi, having sold all but three days, is seen by everyone |
-| C010 (the narrating instance) | U02 | Developed through five versions: the record is his notebook, begun about day thirty (U12), written within his remaining life (U13), finished to the day after the second sale (U14–U15); Ch15 is narrated from after the reunion. Identity with the printed text remains an inference |
+| C010 (the narrating instance) | U02 | Developed through five versions: the record is his notebook, begun about day thirty (U12), written within his remaining life (U13), on the morning after the second sale, finished through the preceding day and then supplemented before going out (Ch15 P0007, P0010); Ch15 is narrated from after the reunion. Identity with the printed text remains an inference |
 | C025, C047, C067 (painting) | U06, U10, U14 | Three accounts conflict (§3.2) |
 | C036 (the aborted assault) | U08 | Recast, not erased, by later touches: the U12 embrace, the U13 kiss (narrated as returned), her pushing him down in U14 (押し倒した reversed) |
 | C043 (her three wishes) | U09 | Lake fulfilled (U11); childhood friend watched (U13); grave never taken up |
@@ -115,7 +115,7 @@ These are classified under [method §6](../TDH_ANALYTICAL_METHOD.md#6-evidence-r
 2. **His two reports of the substitute's words** (unreliable report). 「もう一回確認してみろっていわれただけ」 (Ch12 P0147) against 「ミヤギが嘘をついていると聞いたとき」 (Ch12 P0150).
 3. **Miyagi's horizon** (testimony shaped by purpose). Decades of remembering (Ch13 P0085); death at any time (Ch13 P0123); death before repayment (Ch12 P0163); thirty years alone (Ch14 P0142).
 4. **Her own valuation** (unreliable report). ¥10,000 a year, "the same as yours" (Ch08 P0082), doubtful since U12 (C038).
-5. **Never envied before** (interpretation). Ch04 P0065 against Ch14 P0119.
+5. **Envy across different situations** (no categorical contradiction). Ch04 P0064–P0067 concerns the neighbors’ party and group enjoyment; the long-standing wish to shop with a partner (P0061–P0062) and the specific childhood envy named in Ch14 P0119 can coexist with it. What changes retrospectively is Kusunoki’s understanding of why he wanted to get along with others.
 6. **The appraiser's thirty-three days with the watcher beside him** (Ch14 P0165) against the three-day withdrawal (unresolved textual inconsistency or the appraiser's simplification).
 7. **Composition chronology against prolepses** (information-state). The Ch11 "betrayal" and Ch13 "wisest decision" passages were written, by the record's own account, before the reunion (Ch15 P0007, P0010); their identification with the ending would require an unnarrated revision.
 8. **「何も残さずに死ぬ」** (Ch15 P0111) against the record that presupposes a reader (Ch13 P0090).
@@ -176,13 +176,13 @@ No question accumulated evidence beyond what one integrated argument for a fifte
 
 **Decision: PASSED.**
 
-- **Frozen input inventory.** Readings U01–U15 at `374cbb4f`; the notebook, register and entrypoint at the same commit; this audit's §3. The three monographs were drafted in parallel in separate contexts; the synthesis carries its own character account and links to them for person-level portraits, and the synthesis review checked the two for conflict (§7).
+- **Historical drafting inventory.** Readings U01–U15, the notebook, register and entrypoint at `374cbb4f9a802d52e31e1ced2e5cbabdf308c165`; this audit’s §3. The reviewed candidate at `eba9b621ae5c83e7549fb888759b5afc38471275` additionally includes the U03/U15 and longitudinal changes at `0d350be5` and the U09, TDH-C044 and TDH-S052 correction in `eba9b621`. The final release inventory is pending revalidation; neither snapshot certifies revised artifacts. The three monographs were drafted in parallel in separate contexts; the synthesis carries its own character account and links to them for person-level portraits, and the synthesis review checked the two for conflict (§7).
 - **Disagreements exposed.** The contradictions of §3.2; the open identifications (C056, C064); the sketchbook's identity; the visibility rule; the composition chronology.
 - **Destinations.** Every recurring dimension of [architecture §3](../TDH_SYNTHESIS_ARCHITECTURE.md#3-responsibility-matrix) has a destination in the synthesis or a monograph, and each routes to readings and claim IDs.
 
 ## 7. Gate 5 — Final validation
 
-**Decision: PASSED after corrections.**
+**Historical disposition at the original candidate: PASSED after corrections.** Independent validation of the repaired candidate has not yet occurred; see §12.
 
 An independent reviewer in a fresh context returned to the decisive passages of every hinge chapter, tested the counterreadings, name and reference clarity, coverage and claim-to-source retrieval, and checked the synthesis against the three monographs. Automated checks found every locator resolving, 288 of 291 quoted fragments matching their cited paragraphs (the other three being normalizations), and all 79 claim, state and form IDs present in the notebook.
 
@@ -236,7 +236,7 @@ The synthesis's final validation found one further error shared by accepted reco
 
 ## 11. Gate 6 — Release and freeze
 
-**Decision: READY FOR RELEASE.** The freeze takes effect when the owner or the CI agent integrates PR #623 into `main`; this run does not merge it.
+**Current disposition: HELD FOR CORRECTION AND INDEPENDENT REVALIDATION.** The original decision, `READY FOR RELEASE`, is retained in the reviewed snapshot at `eba9b621ae5c83e7549fb888759b5afc38471275` and is not operative. U15 remains the accepted sequential frontier; no release freeze has taken effect. See the [outstanding review and continuation](#12-outstanding-release-review).
 
 | Item | Record |
 |---|---|
@@ -244,6 +244,12 @@ The synthesis's final validation found one further error shared by accepted reco
 | Analytical boundary | Run `TDH-RUN-20261116-U01-U15`, completed at U15 |
 | Validated artifacts | Readings U01–U15; [notebook](../TDH_LONGITUDINAL_NOTEBOOK.md); [source register](../TDH_SOURCE_REGISTER.md); [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md); this audit; the [Kusunoki](../studies/TDH_KUSUNOKI_NOVEL_MONOGRAPH.md), [Miyagi](../studies/TDH_MIYAGI_NOVEL_MONOGRAPH.md) and [Himeno](../studies/TDH_HIMENO_NOVEL_MONOGRAPH.md) monographs; the [novel synthesis](../synthesis/TDH_NOVEL_SYNTHESIS.md) |
 | Authority metadata | Each artifact carries `status: canonical`, `do_not_use_as_current_authority: false` and empty `supersedes`/`superseded_by`; the audit, monographs and synthesis carry `do_not_use_as_literary_evidence: true` |
-| Retained limitations | The three days and any death unnarrated; Miyagi's interior known only through testimony from a self-declared liar and his readings; Himeno's fate unnarrated; the record's composition chronology fixed only at its last narrated revision; the open identifications (`TDH-C056`, `TDH-C064`); the contradictions of §3.2; every participant's possible prior exposure, quarantined |
+| Retained limitations | Ch15 P0004–P0127 depicts the first morning, the reunion and present happiness, then projects the remaining shared time; exact deadlines, later events in that span and the deaths are not narrated; Miyagi's interior known only through testimony from a self-declared liar and his readings; Himeno's fate unnarrated; the record's composition chronology fixed only at its last narrated revision; the open identifications (`TDH-C056`, `TDH-C064`); the contradictions of §3.2; every participant's possible prior exposure, quarantined |
 | Errata | After the freeze, corrections are appended as errata or a superseding generation, preserving original bytes, as [architecture §4](../TDH_SYNTHESIS_ARCHITECTURE.md#4-state-history-and-contradiction) requires |
 | Next allowed operation | None within this run. Reconstruction, other witnesses and a reader-facing guide each require a new owner authorization |
+
+## 12. Outstanding release review
+
+The [November 17 independent source review](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/623#pullrequestreview-5947633711) is the finding register for this hold. Its source observations are attributable to that reviewer. This correction pass compared the repository records and did not rehash or reread the admitted EPUB. The routing, drafting-snapshot inventory, scope of the narrated ending, intended-audience wording, absence-of-emphasis inference, the notebook calendar, debt-payment sequence, Himeno’s continuing influence on the art account, Miyagi’s testimony about visibility, the distinction between response and prior permission, the different objects of Kusunoki’s envy, his later choices, and the pre-sale timeline corrected here are not a new Gate 5 receipt.
+
+The remaining work is to verify and reconcile the review’s chapter and ledger corrections without reopening the sequential frontier or editing frozen forecasts; reassess each supporting character individually; produce and independently review any newly qualified portraits; and reconcile the synthesis against the corrected records before any release decision. In particular, the review recommends qualifying Shinbashi and the substitute watcher; this recommendation is not yet an accepted qualification or a completed portrait. Retain the original decisions and consulted snapshots, and record both self-containment and primary-source fidelity separately for newly written or substantively revised portraits. Use the same `TDH-JP-01` edition and the private witness and locator receipts from the source register; no alternative witness can close the source check. The owner controls the hold.

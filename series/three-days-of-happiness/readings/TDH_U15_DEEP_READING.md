@@ -192,7 +192,7 @@ When he looks up, a crowd has gathered: more people knew him than he had imagine
 - **贈り物.** The word never appears in the body; the title supplies 賢 against the body's 愚か and 馬鹿 (P0100, P0102–P0103, P0112) (B).
 - **ろくでもない.** The runner's 「ろくでもない女」 (P0048), taken up by her (P0063) and again in 「ろくでもないミヤギです」 (P0079).
 - **裏切り / 愚かさ / 愛おしい.** P0098–P0100. 愚か and 賢い: Ch13 P0090's paradox ("the most foolish life, the wisest decision") meets the chapter title, 賢者の贈り物.
-- **Title.** 「賢者の贈り物」 is O. Henry's "The Gift of the Magi," which the two read together in Ch09 (Ch09 P0111). INFERENCE: the allusion frames the crossed sacrifices: he sold his days to free her; she sold hers, by inference to be with him, answering his gift. The parallel is not a mutual cancellation: his payment funded hers, and money is left over (D1). The content of O. Henry's story is public literary knowledge, not this source's.
+- **Title.** 「賢者の贈り物」 is O. Henry's "The Gift of the Magi," which the two read together in Ch09 (Ch09 P0111). INFERENCE: the allusion frames the crossed sacrifices: he sold his days to free her; she sold hers, by inference to be with him, answering his gift. The parallel is not a mutual cancellation: Miyagi reports that his payment covered most of her debt and that her own sale covered the balance with money left over (P0094–P0096, P0105). The content of O. Henry's story is public literary knowledge, not this source's.
 - **Closing cadence.** P0124–P0127: four short lines, two parallel よりも clauses, ending in the hedged のだろう.
 - **Registers.** Miyagi's 「ただいま」 (P0067), domestic; the tracksuit man's rough 「羨ましいぞ、おい」 (P0079); Asakura's polite 「どうか、お幸せに」 (P0087).
 
@@ -263,7 +263,7 @@ When he looks up, a crowd has gathered: more people knew him than he had imagine
 
 **Interpretation A: the crossed gifts.** He sold his last days to free her (P0098). She sold hers, by inference to be with him (P0094–P0096). Each gift defeats the other's purpose and answers it: her freedom is spent on his last days; his days are given back as hers. The title's allusion frames this. INFERENCE, strong.
 - Two relays carry the account (C). Rival: her act is not a gift for him but a choice for herself, 「たったの三日でさえ」 being his words, not hers; her stated reason is not given beyond apology (P0102). INFERENCE, low to moderate.
-- Limit: it is not a mutual cancellation as in O. Henry; his payment funded hers, and money is left over (D1).
+- Limit: it is not a mutual cancellation as in O. Henry; Miyagi reports that his payment covered most of her debt and that her own sale covered the balance with money left over (P0094–P0096, P0105).
 
 **Interpretation B: the betrayal fulfilled as love.** The Ch11 prolepsis promised a betrayal by 優しい優しい女の子 (Ch11 P0157–P0158). It arrives, by inference, as her defeat of his sacrifice, which he finds dearest (P0100). INFERENCE, moderate to strong.
 - Rivals: the price lie (weakened); her love as a defeated expectation (low to moderate); her absence (very low). Composition caveat: the identification requires an unnarrated revision of Ch11 after the reunion (§5).

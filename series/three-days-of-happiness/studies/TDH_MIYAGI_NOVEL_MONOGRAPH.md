@@ -469,7 +469,7 @@ Her condition is laid out by testimony and then tested.
 - Her lament in Ch14 still includes not being able to show others their joined hands (Ch14 P0142).
 - In Ch15 everyone sees her (P0076). Strangers find she looks as they had imagined (P0083, P0087).
 
-**Why she is visible in Ch15 is not stated.** INFERENCE, moderate to strong: with the debt cleared and her life sold down to three days, she is no longer a watcher. Her own testimony ties invisibility to selling time, through her mother (Ch08 P0069) (`TDH-C024` v3). Kusunoki's guess at the lake, that her wish was to stop being invisible (Ch11 P0196), is carried out in effect, though the text draws no link.
+**Miyagi’s explanation and its limit.** Miyagi says that doing what Kusunoki did explains both her presence and why others could see her (Ch15 P0089–P0094). The institutional mechanism is unstated. It is an inference that, with the debt cleared and her life sold down to three days, she is no longer a watcher. Her own testimony ties invisibility to selling time, through her mother (Ch08 P0069) (`TDH-C024` v3). Kusunoki's guess at the lake, that her wish was to stop being invisible (Ch11 P0196), is carried out in effect, though the text draws no link.
 
 ---
 

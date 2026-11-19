@@ -8,7 +8,7 @@ version: "1.0"
 created: 2026-11-17
 status: canonical
 scope: "Continuous argument about the whole admitted novel: causality, perspective, form, character and counterreadings, with a retrospective layer"
-source_boundary: "TDH-JP-01 native chapters 1–15 with accepted readings U01–U15 and the notebook at commit 374cbb4f; afterword cited only as labelled authorial paratext"
+source_boundary: "TDH-JP-01 native chapters 1–15 with accepted readings U01–U15 and the notebook at original drafting commit 374cbb4f; subsequent corrections and release-input status are in the completion audit §6; afterword cited only as labelled authorial paratext"
 spoiler_boundary: "Whole novel, including the ending of chapter 15"
 canonical_home: series/three-days-of-happiness/synthesis/TDH_NOVEL_SYNTHESIS.md
 supersedes: []
@@ -203,7 +203,8 @@ The table orders events by depicted time. Day numbers count from the first sale 
 | Age 17, winter | He stops painting | His account; conflicts with Ch06 P0074 | Ch10 P0119; Ch14 P0182–P0185 |
 | Age 19, summer | Paints again; loses the ability | His account | Ch14 P0186–P0187 |
 | Spring at 20 | Wakana, a first-year student at his university who sought him out | His account | Ch04 P0014–P0028 |
-| Summer at 20, day 0 | Collapse, referrals, appraisal, first sale | Narrated | Ch02 |
+| Summer at 20, before day 0 | Collapse at work, manager tells him to take time off, three days listening to CDs | Narrated | Ch02 P0004–P0022 |
+| Summer at 20, day 0 | Referrals, appraisal, first sale | Narrated | Ch02 P0040, P0090, P0181 |
 | Day 1 | Miyagi arrives as watcher; the list; the Himeno report; Wakana; the answer check | Narrated | Ch03–Ch04 |
 | Night of day 1 | Drunk vow; the forfeited future; fireworks | Narrated | Ch05 |
 | Day 2 | Naruse, his high-school friend; invisibility; the glass | Narrated | Ch06 |
@@ -245,7 +246,7 @@ The novel's main causal movements, each with initiating conditions, the choice a
 
 1. **The first sale** (`TDH-C009`). The conditions are poverty, collapse and a day of selling his possessions (Ch02 P0004–P0011). The stated causes are habituation and a wish to exit (Ch02 P0181, P0184). Rivals: despair produced by the verdict (Ch02 P0172); the quasi-logic that worthless years are no loss (HYPOTHESIS); face-saving (HYPOTHESIS). The narrator's "salutary" frame (Ch02 P0123–P0125) is hindsight. By Miyagi's later testimony, the figure he acted on was false (Ch12 P0166), so his choice was made inside her lie. Whether it was caused by it cannot be decided: his counterfactual and hers are opposite (§2.4).
 
-2. **Keeping three months, not three days.** The hope that 「それでも、いつかいいことがあるかもしれない」, "even so, something good might happen someday" (Ch05 P0059, P0070–P0073), restrains him from selling down. In Miyagi's account of the forfeited life, the same hope, 「ある種の悪魔の証明に過ぎません」, "no more than a kind of devil's proof," kept him living on to a lonely death at fifty (Ch05 P0059; `TDH-C017` v2). The hope is passive, and later events rather than his choices bear it out: Miyagi's love (Ch12 P0188), the town (Ch14 P0048), the painting (Ch14 P0190). Whether it was "salvation or trap" (Ch03 P0034) is answered by the narrator's judgment, 「生きててよかった」, "I'm glad I lived" (Ch14 P0201). That is a self-report.
+2. **Keeping three months, not three days.** The hope that 「それでも、いつかいいことがあるかもしれない」, "even so, something good might happen someday" (Ch05 P0059, P0070–P0073), restrains him from selling down. In Miyagi's account of the forfeited life, the same hope, 「ある種の悪魔の証明に過ぎません」, "no more than a kind of devil's proof," kept him living on to a lonely death at fifty (Ch05 P0059; `TDH-C017` v2). At this stage the hope is passive. Later, decisions help create some of the outcomes he had hoped for: Miyagi credits his listening and acknowledgment of her in public (Ch12 P0183–P0188); Kusunoki keeps taking her out and speaking her name (Ch13 P0090–P0102), while Shinbashi and the town choose how to respond (Ch14 P0046–P0048). The sketchbook offers an unexpected opportunity, but Kusunoki chooses to pursue the unfamiliar feeling and draw through the night (Ch14 P0085–P0097, P0189–P0191). Whether it was "salvation or trap" (Ch03 P0034) is answered by the narrator's judgment, 「生きててよかった」, "I'm glad I lived" (Ch14 P0201). That is a self-report.
 
 3. **The Himeno strand's collapse.** His capsule letter sends him to Himeno (Ch09 P0033–P0039). A coincidence the narrator calls 「できすぎた話」, "too good a story," and defends as hidden connection, brings her to the shrine (Ch09 P0138–P0139). His confession of the sale at dinner precipitates her flight and her letter (Ch10 P0137–P0200). By that letter, her revenge plan was dropped because he seemed "stranger" than she (Ch10 P0196). By the narrator's account the "mistake" saved him (Ch10 P0115). Miyagi's testimony supplies the counterfactual: in the original course Himeno would have died before his eyes (Ch10 P0183–P0186). The counterfactual is a liar's testimony, and Himeno's fate in the altered course is never given (`TDH-C015` v2; `TDH-C048`).
 
@@ -316,9 +317,9 @@ Writing is a site where the narrator's feelings both appear and fail ([U07 §11]
 
 - **The farewell letter.** It cannot be begun without a reader (Ch07 P0004). Its one summarized draft, a declaration of lifelong love, is disowned as containing 「致命的な間違い」, "a fatal mistake," somewhere (Ch07 P0010–P0012). He considers a blank letter, or 「手紙が出したかった」, "I wanted to send a letter," truer (Ch07 P0013). Nothing is sent.
 - **The capsule letter and Himeno's letter.** Both are embedded verbatim, and each redirects his life: the first sends him to Himeno (Ch09 P0031–P0035), the second ends that pursuit (Ch10 P0190–P0200).
-- **The record.** It is begun with no intended reader. Asked 「誰かに読ませるのか？」, "will you show it to someone?", he says 「さあな」, "who knows," and calls it 「デフラグみたいなもの」, "something like defragging" (Ch12 P0058–P0059). By Ch13 it presupposes a reader who 「この記録を最後まで読めば」, "reads this record to the end" (Ch13 P0090), possibly rhetorically (`TDH-C010` v3).
+- **The record.** Kusunoki gives a purpose for writing but leaves his audience open. Asked 「誰かに読ませるのか？」, "will you show it to someone?", he says 「さあな」, "who knows," and calls it 「デフラグみたいなもの」, "something like defragging" (Ch12 P0058–P0059). By Ch13 it presupposes a reader who 「この記録を最後まで読めば」, "reads this record to the end" (Ch13 P0090), possibly rhetorically (`TDH-C010` v3).
 
-Against the record stands the summation 「俺は、何も残さずに死ぬ」, "I will die leaving nothing" (Ch15 P0111). That is contradiction 8 in audit [§3.2](../audits/TDH_U15_AUDIT.md#32-contradictions-retained). The rival sense is "no works and no fame." The record is private by his Ch12 answer, and the summation comes just after his refusal of posthumous fame (Ch14 P0168) ([U15 §4.15](../readings/TDH_U15_DEEP_READING.md#4-factual-and-causal-reconstruction)). His conduct cuts against the strong sense: that morning he was finishing a record that addresses a reader. HYPOTHESIS, conditional on the identity of record and printed text: the book is the trace its narrator says he will not leave.
+Against the record stands the summation 「俺は、何も残さずに死ぬ」, "I will die leaving nothing" (Ch15 P0111). That is contradiction 8 in audit [§3.2](../audits/TDH_U15_AUDIT.md#32-contradictions-retained). The rival sense is "no works and no fame." The Ch12 answer does not settle who might read the record, and the summation follows his refusal of posthumous fame (Ch14 P0168) ([U15 §4.15](../readings/TDH_U15_DEEP_READING.md#4-factual-and-causal-reconstruction)). His conduct cuts against the strong sense: that morning he was finishing a record that addresses a reader. HYPOTHESIS, conditional on the identity of record and printed text: the book is the trace its narrator says he will not leave.
 
 The record also declares what it does to memory. 「記憶を再解釈した上で文字に置き換えることによって」, "by reinterpreting memories and putting them into words," good memories became easier to savour and bad ones easier to accept (Ch12 P0075). OBSERVATION: by its own account, the narration is a reinterpreting rewrite. That bears directly on reliability (§4.6) and on the self-forgiveness of the close, 「すべてを許せた」, "I could forgive everything" (Ch15 P0118). HYPOTHESIS: the record is the instrument of the forgiveness it reports.
 
@@ -492,7 +493,7 @@ Four changes are attested in both states, by conduct as well as words:
 
 1. **From eternity to presence.** The dream of a name everyone knows (Ch02 P0122) gives way to the refusal of posthumous fame (Ch14 P0168) and the renunciation of memory: 「もう、誰にも覚えていてもらえなくたっていい」, "it's fine now if no one remembers me" (Ch15 P0115).
 2. **From non-initiation to initiative for another.** The man who never invited anyone (Ch04 P0008) forms a goal for Miyagi's debt (Ch12 P0210). He asserts her presence day after day (Ch13 P0101), and sells his last month for her (Ch14 P0157; Ch15 P0098).
-3. **From contempt for clowning to pride in it.** He despised the clever class clown (Ch01 P0031). By strong inference that boy is the one he now says he envied (Ch14 P0119), and is proud that half the town's smiles are goodwill (Ch14 P0117). His Ch04 statement that he had never felt envy before (Ch04 P0065) stands against the boyhood envy he now admits. That is contradiction 5 in audit §3.2, classified as interpretation.
+3. **From contempt for clowning to pride in it.** He despised the clever class clown (Ch01 P0031). By strong inference that boy is the one he now says he envied (Ch14 P0119), and is proud that half the town's smiles are goodwill (Ch14 P0117). Ch04 P0064–P0067 concerns envy of the neighbors partying and how he previously reacted to groups enjoying themselves. His wish to shop with a partner (P0061–P0062) and childhood envy of a particular boy’s ability to make himself liked (Ch14 P0119) do not contradict that narrower statement. Ch14 does reinterpret his former contempt and loneliness.
 4. **From "the world is kind only to the dead" to "peace with the world."** Compare Ch06 P0123 with Ch14 P0119 and Ch15 P0118.
 
 The limits are equally attested:
@@ -693,7 +694,7 @@ Himeno's fate is never narrated.
 - **Miyagi's testimony.** In the original course Himeno 「飛び降り自殺することになっています」, "is set to jump to her death," in two years (Ch03 P0101). Later, Miyagi says, she would have done it before his eyes (Ch10 P0183–P0186). Both statements come from a witness shown concealing, and both describe a course that, by the same witness, no longer applies (Ch03 P0108).
 - **Kusunoki's belief.** He asserts that she will soon kill herself (Ch11 P0148). That is his inference, unsupported (`TDH-C015` 2a).
 
-After Ch11 Himeno enters the narration only as a measure: her lifetime-earnings figure for Miyagi's debt (Ch13 P0006), the Enishi counterfactual (Ch13 P0150–P0151), and the prophecy (Ch14 P0197–P0201). The romance is resolved. The life of the woman whose plan of revenge suicide set its turn in motion is left suspended (§11.6).
+After Ch11 Himeno continues to shape how Kusunoki accounts for his choices: he invokes what he understood as their promise when he starts writing (Ch12 P0054) and retrospectively gives it as his reason for putting down the brush at seventeen (Ch14 P0182–P0184). His return to drawing begins in the pleasure of drawing Miyagi (Ch14 P0189–P0191). Keep Himeno’s childhood prediction of greatness (Ch01 P0070–P0076) distinct from her conditional proposal about marrying (P0087–P0089). Himeno also enters later comparisons: her lifetime-earnings figure for Miyagi's debt (Ch13 P0006), the Enishi counterfactual (Ch13 P0150–P0151), and the prophecy (Ch14 P0197–P0201). The romance is resolved. The life of the woman whose plan of revenge suicide set its turn in motion is left suspended (§11.6).
 
 ## 9. The ending and the title allusion
 
@@ -730,7 +731,7 @@ On the first morning Kusunoki finds ¥187 in his wallet, 「そのうち六十�
 
 **The crossed gifts.** He sold his last days to free her (Ch15 P0098). She sold hers, lifespan by strong inference, by inference to be with him (Ch15 P0094–P0096, P0121). Her act defeats his purpose, that she be freed and live on. His act had defeated hers, stated in her Ch14 plea, that he not throw away their time (Ch14 P0142). INFERENCE, strong ([U15 §11](../readings/TDH_U15_DEEP_READING.md#11-competing-interpretations-claims-and-forecasts), Interpretation A).
 
-The novel's version is not a mutual cancellation. His payment funded hers. Her debt is paid, by her testimony, with money left over (Ch15 P0096, P0105). What is cancelled is each one's intention for the other, not the gifts' use ([U15 §6](../readings/TDH_U15_DEEP_READING.md#6-japanese-language-and-form)).
+The novel's version is not a mutual cancellation. Miyagi reports hearing from the substitute that Kusunoki had paid most of her debt; that news prompted her own sale. Her proceeds covered the balance and left money over (Ch15 P0094–P0096, P0102–P0105). What is cancelled is each one's intention for the other, not the gifts' use ([U15 §6](../readings/TDH_U15_DEEP_READING.md#6-japanese-language-and-form)).
 
 The word 贈り物 never appears in the body of Ch15. In the body of the novel it occurs only as the title of the story he reads (Ch09 P0111). In Ch15 the title supplies 賢, "wise," against the chapter's 愚か and 馬鹿, "foolish" and "idiot" (Ch15 P0100, P0102–P0103, P0112). 賢 does occur in the body, as 賢者 in the story's title (Ch09 P0111) and 賢い in the "wisest decision" (Ch13 P0090), and in passing elsewhere (Ch05 P0025; Ch11 P0039). That meets the paradox of Ch13 P0090: the most foolish life as the wisest decision (§9.4).
 
@@ -810,7 +811,7 @@ Sesame-dot emphasis (傍点) occurs in twenty-six spans, twenty-four on the alte
 | The price-lie hinge | そこ; ここでは…捨ててほしいんです; あんたが | Ch12 P0091, P0154, P0157 |
 | Last instances | 〔傍点〕また〔/傍点〕; 〔傍点〕こうなること〔/傍点〕; 〔傍点〕自分のために〔/傍点〕 | Ch13 P0047; Ch14 P0160, P0190 |
 
-In Ch15, 「同じこと」, "the same thing" (Ch15 P0090), the kind of withheld referent earlier chapters dotted, is left plain. HYPOTHESIS: emphasis marks verdicts and withheld knowledge, and it disappears in the one chapter where nothing is withheld and no verdict is issued except a hedged prospect. The counts are approximate where span boundaries are disputed, so the argument rests on distribution, not on exact numbers.
+In Ch15, 「同じこと」, "the same thing" (Ch15 P0090), the kind of withheld referent earlier chapters dotted, is left plain. HYPOTHESIS: the final chapter discloses material without the typographic cue used earlier for some verdicts and withheld referents. Miyagi’s name follows the familiar voice (Ch15 P0053–P0064), and her explanation follows later (P0089–P0096); absence of the cue does not eliminate disclosure delay. The counts are approximate where span boundaries are disputed, so the argument rests on distribution, not on exact numbers.
 
 ### 10.2 The grammar of exchange and favour
 
@@ -936,7 +937,7 @@ No apology to her for Ch08 is narrated. He acknowledged the act to her that nigh
 
 **The reading.** The romance absorbs the near-assault rather than confronting it. The repeated contacts turn an act of attempted domination into reciprocal touch, and consent is supplied only through his narration. INFERENCE, moderate.
 
-**Against it.** The text keeps the act in view. He calls himself scum (Ch08 P0033) and confesses to a third party (Ch12 P0042). By her testimony, her change turned on his listening, not on the act. The stop is narrated as his own recoil from imagined harm (Ch08 P0025–P0030). The recastings can be read as repair rather than absolution. Whether the kiss was welcome is a VALUE_JUDGMENT, the analyst's, by contemporary norms of consent. The in-text licence is her response as he narrates it, and her Ch12 offer, and it stands against the unasked initiative he himself calls 自分勝手, "selfish" ([U13 §11](../readings/TDH_U13_DEEP_READING.md#11-competing-interpretations-claims-and-forecasts), reading (iv)).
+**Against it.** The text keeps the act in view. He calls himself scum (Ch08 P0033) and confesses to a third party (Ch12 P0042). By her testimony, her change turned on his listening, not on the act. The stop is narrated as his own recoil from imagined harm (Ch08 P0025–P0030). The recastings can be read as repair rather than absolution. Miyagi’s conditional Ch12 offer precedes an embrace (P0193–P0199), not permission for the later kiss. Kusunoki narrates her surprise and subsequent response, but her wishes before his unasked initiative are not established; he calls that initiative 自分勝手, "selfish" ([U13 §11](../readings/TDH_U13_DEEP_READING.md#11-competing-interpretations-claims-and-forecasts), reading (iv)).
 
 ### 11.3 Gifts that override stated wishes
 
