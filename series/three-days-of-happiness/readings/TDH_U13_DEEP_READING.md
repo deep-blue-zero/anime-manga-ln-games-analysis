@@ -248,7 +248,7 @@ When the two have gone, Miyagi says she had meant to do all sorts of things, sin
 
 **Miyagi.**
 - **The objection.** She guesses his aim, worries, objects, and asks for attention (P0022–P0027).
-- **Testimony.** On valuation (P0016–P0018); that she is already saved, and would live decades remembering (P0085); that she does not know when she will die (P0123).
+- **Testimony.** On valuation (P0016–P0018); that she is already saved and would keep remembering however many decades passed (concessive, not a longevity forecast; P0085); that she does not know when she will die (P0123).
 - **Requests.** Memories (P0087); to give (P0113); to see Enishi (P0123).
 - **At the station.** Expressionless (P0150). She says she stopped what she had meant to do (P0153). By his narration she responds to the kiss (P0159). 「誰も、咎めません」 (P0162).
 

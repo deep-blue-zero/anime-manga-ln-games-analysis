@@ -94,7 +94,7 @@ At the station he finds that the last train has long gone. When he lived here he
 - Kusunoki has drafted a letter to Himeno declaring lifelong love, and judged that it commits a "fatal mistake" somewhere and is "not what I want to say." He wishes instead that the boy he was might live on in her.
 - He has found a 相合傘 with their two names in their secret base, which he attributes to Himeno.
 - He has read every time-capsule letter and found that no classmate named him "best friend." Himeno's letter is missing, and he imagines it would have named him.
-- He has pocketed his own letter. The trip's stated aim was to read it, yet the narration reports neither its content nor whether he read it.
+- He has pocketed his own letter. The trip's stated aim was to read it, and the narration reports reading all letters present. It withholds his letter’s wording.
 - Miyagi has told him he neglected his past relationships and should not cling to them now. He makes no reply, allows that she may be right, and asks what he can cling to.
 - Miyagi has told him, as her testimony, of the off-duty exception to her imperceptibility.
 - No report, consequence or rule enforcement follows the night's trespass in what is narrated; he is alive at the end.
@@ -115,7 +115,7 @@ At the station he finds that the last train has long gone. When he lived here he
    - trivial everyday talk without his death.
 
    None is written in this unit. List item 6 is attempted and not completed. INFERENCE: it merges with item 8 (Himeno) in a letter without confession.
-2. **The letter at seventeen.** 「十七歳のときの〔傍点〕あれ〔/傍点〕を除くと」 (P0015) withholds something written at seventeen, emphasized. In context it is letter-like, since he is counting letters, and the age is most naturally his own. Its recipient, its content and whether it was sent are not stated. The text separates writing a letter from sending it (投函, P0012). Miyagi's question is whether he ever *sent* (出しましたか) Himeno a letter on his own initiative (あなたの方から, P0083). If "that one" was a letter sent to Himeno, her question would be false or loaded. If not, P0014–P0015 confirm her charge from the fourth-grade summer to the present. The text does not decide (`OPEN`; `TDH-C030`). Seventeen is also Miyagi's age for Himeno's childbirth (Ch03 P0101). That is a coincidence of numbers only; nothing in the text links them.
+2. **The letter at seventeen.** 「十七歳のときの〔傍点〕あれ〔/傍点〕を除くと」 (P0015) withholds something written at seventeen, emphasized. In context it is letter-like, since he is counting letters, and the age is most naturally his own. Its recipient, its content and whether it was sent are not stated. The text separates writing a letter from sending it (投函, P0012). Miyagi's question is whether he ever *sent* (出しましたか) Himeno a letter on his own initiative (あなたの方から, P0083). If "that one" was a letter sent to Himeno, a reply remains compatible with her question; only an independently initiated letter would challenge its premise. If not, P0014–P0015 confirm her charge from the fourth-grade summer to the present. The text does not decide (`OPEN`; `TDH-C030`). Seventeen is also Miyagi's age for Himeno's childbirth (Ch03 P0101). That is a coincidence of numbers only; nothing in the text links them.
 3. **The capsule and the teacher.** The capsule was buried in "the summer when I was ten" (P0016), at the moral-lesson teacher's proposal. P0016 names that teacher explicitly: 「例の、道徳の授業を通じて…学級担任の提案だった」. P0016 states the burial place as "behind the gym." P0071 corrects it to behind the backstop, so P0016 is not evidence of the place.
 
    **Teacher identity.** P0015 dates his last letter, apart from the one at seventeen, to the summer of fourth grade. The sequence with P0016 makes that letter the capsule letter (strong INFERENCE), so the capsule summer is the fourth-grade summer. P0016 calls its proposer the 学級担任, the homeroom teacher. Barring a change of homeroom within fourth grade, the homeroom teacher then is the woman who taught him from grades four to six (Ch01 P0051). P0016 thus makes the lesson teacher's identity with the grades four to six teacher strong (`TDH-C013` → annotated; conditions in §11). B-U01-31 remains as a stylistic counterweight: Ch01 P0051 introduces her as if she were new.
@@ -152,7 +152,7 @@ At the station he finds that the last train has long gone. When he lived here he
    - Himeno drew it, as a secret wish (his reading) or as a joke the text does not name.
 
    When it was drawn is unknown. He smiles (P0062); Miyagi says nothing sarcastic, in his reading (P0063). This is the first physical trace bearing on Himeno in the present narrative. If hers, it is evidence of the child Himeno's pairing of herself with him, not of her present memory, which Miyagi testifies is faint (Ch03 P0101). INFERENCE: the scene partly revises Ch01's account of bored, reluctant visits to each other's homes (Ch01 P0048), since the wood was a place "the two of us often played" (P0054). The rival is that the wood was neutral ground, distinct from the homes.
-8. **Reading all the letters.** He reads every pupil's private "best friend" entry and charts them, against the teacher's promise of confidentiality (P0022). That breach is OBSERVATION; any moral verdict on it must name its standard. He folds his own letter so that Miyagi cannot read it (P0014), then reads everyone else's.
+8. **Reading all the letters.** He reads every pupil's private "best friend" entry and charts them, against the teacher's promise of confidentiality (P0022). That breach is OBSERVATION; any moral verdict on it must name its standard. He folds the earlier trial farewell letter so that Miyagi cannot read it (P0014), then reads everyone else's.
 
    **The license.** He licenses the reading by sunk effort (苦労させられた) and by his impending death: 「あと数か月で死ぬ人間には、それくらいのことは許されるはずだ」 (P0073). That reasserts a dying man's license the day after he concluded that the world does not grow kind to the dying (Ch06 P0123). Rivals:
    - P0073 may be wry;
@@ -301,7 +301,7 @@ At the station he finds that the last train has long gone. When he lived here he
 - **Declaration and disavowal.** The strongest statement of love so far (P0010) is immediately judged to contain a "fatal mistake" somewhere (P0012). Affection is named, then withdrawn into a smaller wish, with the failure placed at least partly in words.
 - **Relish and concern toward Miyagi.** After a careless remark he relishes having hurt her, in his reading (P0053), yet later notes her harsh sleeplessness (P0090). The concern is hedged by disavowal (P0091).
 - **Isolation confirmed.** No classmate nominated him best friend at ten (P0076), which matches Ch01. The 相合傘 (P0061) is the possible counterexample: if his attribution holds, someone once paired herself with him.
-- **Privacy.** He hides his own letter from Miyagi (P0014), then reads everyone's confidential best-friend entries (P0073–P0075), the teacher's promise notwithstanding, on the license of sunk effort and impending death.
+- **Privacy.** He hides the earlier trial farewell letter from Miyagi (P0014), then reads everyone's confidential best-friend entries (P0073–P0075), the teacher's promise notwithstanding, on the license of sunk effort and impending death.
 - **No outburst.** Angry at Miyagi's verdict, he stays silent (P0084), against the glass of U06.
 
 ## 10. Epistemic and temporal state
@@ -315,8 +315,8 @@ At the station he finds that the last train has long gone. When he lived here he
 | Himeno drew the 相合傘 | Kusunoki | Infers it by elimination; premises weakened by his memory lapses | P0061 |
 | He wrote Himeno's name as best friend | Reader | Strong inference ("no need to recall") | P0024 |
 | Something letter-like he wrote at seventeen | Reader | Withheld; recipient and sending unknown | P0015 |
-| He never sent Himeno a letter after her transfer, never contacted Naruse after high school, never attended a reunion; Wakana gave up on him | Kusunoki; reader | Miyagi's rhetorical presuppositions, source unstated; he makes no reply; partly countered (Naruse call, Ch06 P0020; Wakana's redial, Ch04 P0048) | P0083–P0084 |
-| His own capsule letter's content | Kusunoki (presumably); reader | Withheld; whether he read it is not narrated | P0023, P0026, P0080 |
+| He never initiated a letter to Himeno after her transfer (a reply is not excluded), never contacted Naruse after high school, never attended a reunion; Wakana gave up on him | Kusunoki; reader | Miyagi's rhetorical presuppositions, source unstated; he makes no reply; partly countered (Naruse call, Ch06 P0020; Wakana's redial, Ch04 P0048) | P0083–P0084 |
+| His own capsule letter's content | Kusunoki (presumably); reader | Wording withheld; he reports reading all letters present | P0023, P0026, P0080 |
 | Lesson teacher = grades four to six teacher | Reader | Strong INFERENCE (homeroom continuity; B-U01-31 counterweight) | P0015–P0016; Ch01 P0004, P0051 |
 | No official dig of the capsule has yet happened | Reader | INFERENCE from the intact capsule; his "not called" fear likely unfounded; he does not conclude it | P0025, P0072 |
 
@@ -357,7 +357,7 @@ At the station he finds that the last train has long gone. When he lived here he
 
   His certainty rises across successive propositions (P0060 → P0061 → P0078). If hers, it is evidence of the child Himeno's pairing of herself with him, not of her present memory.
 - **`TDH-C032` (new; OBSERVATION + INFERENCE).** He reads every capsule letter against the teacher's promise of confidentiality, licensed by sunk effort and impending death (P0073). That stands against Ch06 P0123, with rivals: P0073 may be wry; P0123 concerns the world, not his permissions; P0123 itself confesses his 甘えた考え. His chart of single best-friend nominations at ten shows no one named him, as he expected (P0074–P0076). Himeno's letter is missing. Rivals to his "absent that day": prior transfer (same summer; 「もし彼女がいたら」 is ambiguous), non-submission, removal (unlocked capsule). He fills the gap with a certain counterfactual (必ずや, P0078) built on C031.
-- **`TDH-C033` (new; OBSERVATION).** The trip's stated aim, to read "that letter" before dying, alone (P0026–P0027), is not reported as fulfilled. His letter is found "a little earlier" and pocketed (P0080). Its content, and whether he read it, are withheld. The name he wrote is Himeno's only by strong inference (P0024).
+- **`TDH-C033` (new; OBSERVATION).** Kusunoki reports reading all letters present (P0073–P0076), including his, which he found and pocketed (P0080). Its wording is withheld. The name he wrote is Himeno's only by strong inference (P0024).
 - **`TDH-C034` (new; OBSERVATION of report).** Miyagi's verdict on his past, unsolicited (P0083). Four rhetorical questions, two with 一度でも, presuppose: no letter sent to Himeno on his initiative after her transfer, no contact with Naruse after high school, Wakana's giving up, no reunions. Clinging now is 虫がよすぎる.
   - **Support:** Ch04 P0008, P0053; P0014–P0015, P0027.
   - **Against:** the Naruse call (Ch06 P0020–P0021); Wakana's redial (Ch04 P0048); the letter at seventeen.
@@ -410,7 +410,7 @@ It is the night of day three. Kusunoki is on a bench at his home-town station af
 **The time capsule.**
 - He dug up the class capsule behind the backstop, after an hour's mistaken digging behind the gym.
 - He read every letter's private "best friend" entry, against the teacher's promise, and charted them. No one nominated him. Himeno's letter is missing, and he guesses she was absent; prior transfer, non-submission and removal remain open. He imagines, with certainty, that her letter would have named him with hearts.
-- He pocketed his own letter and reburied the capsule. The narration reports neither the letter's content nor whether he read it, though reading it was the trip's stated aim.
+- He pocketed his own letter and reburied the capsule. Kusunoki reports reading all letters present (P0076); the wording of his own remains withheld.
 - The capsule's proposer was the moral-lesson homeroom teacher, by strong inference the grades four to six teacher.
 
 **Miyagi.**

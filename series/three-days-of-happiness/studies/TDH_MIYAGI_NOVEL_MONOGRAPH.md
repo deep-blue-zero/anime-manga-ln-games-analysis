@@ -34,7 +34,7 @@ Miyagi is the young woman who appraises Kusunoki's lifespan at the shop in chapt
 - **Arc in brief.** She delivers bad news, polices him and keeps her distance (Ch03–Ch07). After he nearly assaults her she tells her history, and their relations change (Ch08). She softens and goes along with him (Ch09–Ch11). She admits the price lie, confesses love, and says several of the rules were lies (Ch12). She objects to his sacrificing his remaining time for her and asks for memories instead (Ch13). She begs him to stay and says goodbye (Ch14). Then, by her account, she undoes his sacrifice with one of her own, and she returns (Ch15). The narrator accepts her account (Ch15 P0098–P0100), and her visibility is consistent with it (`TDH-C024` v3).
 - **Evidence condition.** The text never shows her interior directly. Everything about it comes from what she does and says as Kusunoki records it, from his readings of her face and tone, and from her testimony. At Ch12 P0193 she says she has told him "a lot of lies," names some, and leaves the rest open. No statement of hers can be taken at her word alone after that, and statements made before it are thrown into doubt as well.
 
-**Boundary.** Native chapters 1–15 of TDH-JP-01, read through the accepted readings U01–U15 and the notebook. The afterword and end matter are excluded. Miyagi does not appear in chapter 1. The novel's ending does not narrate the three days or anyone's death.
+**Boundary.** Native chapters 1–15 of TDH-JP-01, read through the accepted readings U01–U15 and the notebook. The afterword and end matter are excluded. Miyagi does not appear in chapter 1. The ending narrates the first morning and reunion, then projects the rest; no death is narrated.
 
 ---
 
@@ -106,7 +106,7 @@ Grades used below:
 | 23 | Value is fluid to a degree; subjective happiness "doesn't affect it that much"; social contribution and fame were, she thinks, heavily favoured (past tense, hedged) | Ch13 P0016–P0018 | T?, partly T+ | The Ch14 appraiser prices a future of fame (hearsay); `TDH-C012` v1c–1d; U13 D2-U13-06 |
 | 24 | She is "already saved" and would remember him for decades | Ch13 P0085 | T? | `TDH-C058` v1a |
 | 25 | A one-day day off; she will be back the day after tomorrow | Ch14 P0114 | T?, T+ (moderate) | By the day count, her return in Ch15 matches |
-| 26 | Her list of what she endures, including thirty years alone after his death | Ch14 P0142 | T? | Conflicts with Ch12 P0163; `TDH-C058` v1b |
+| 26 | Her list of what she endures, including thirty years alone after his death | Ch14 P0142 | T? | Spoken in a plea; Ch12 P0163 allows a conditional alternative after repayment; `TDH-C058` v1b |
 | 27 | She sold all but three days; the substitute called her and handled the paperwork; her value had risen; the debt is paid with money left | Ch15 P0090–P0105 | T? | Her being visible to all is the only observed sign that her status changed. His sale fell just short of her debt (narrated, Ch14 P0193), which bears out in part her report that he had paid "most" of it; `TDH-C024` v3, `TDH-C061` v4, `TDH-C071` |
 
 ---
@@ -231,7 +231,7 @@ Kusunoki also reads in her "a weakness she occasionally shows," because she alwa
 - She advises small, certain happiness (Ch05 P0025), and in the end, by her account, sells her remaining decades for three days (Ch15 P0094).
 - She begs him not to throw away the time they have (Ch14 P0142), then, by her account, does the same thing to the life he had bought back for her (Ch15 P0102).
 - She says she does not remember whether earlier subjects were lonely (Ch06 P0119), then tells their stories (Ch11). That is a tension, not a strict contradiction, since the stories concern other things (§1.3 row 17).
-- Her view of her own future changes: hopeful (Ch08 P0074), fatalistic (Ch12 P0163), then decades of remembering (Ch13 P0085), then thirty years alone (Ch14 P0142).
+- She speaks under uncertainty: survival qualifies the prospect of eventual freedom (Ch08 P0059); she expects death before repayment but considers the alternative (Ch12 P0163); however many decades pass introduces remembrance (Ch13 P0085), and thirty years alone belongs to a plea (Ch14 P0142). These shifts need not amount to revised survival estimates.
 
 **Coping strategies:**
 
@@ -610,7 +610,7 @@ His wish, revealed at the fireworks, is that she forget him completely (Ch14 P01
 - **The first sign (Ch11).** In a park she sketches a cat in pencil in her notebook. He says it isn't very good. She answers proudly that this is why she practises, and dodges his request to see more (Ch11 P0106–P0114; `TDH-C053`). He wonders whether her "observation record" was really her hobby all along (P0107). She had earlier been heard running a pencil over the notebook beside him at the shrine (Ch09 P0135).
 - **The sketchbook (Ch14).** A sketchbook, introduced as 「例のスケッチブック」, "*the* sketchbook" (Ch14 P0081), though no sketchbook has been mentioned before, holds drawings of their places. By the list these run from day 2 to Ch13: the station waiting room, the restaurant where they met Naruse, the time-capsule school, the secret base, the room of cranes, the library, the festival, the riverbank, the observation deck, the community hall, the motorbike, the sweet shop, vending machines, the phone booth, the star lake, the bookshop, the swan boat, the Ferris wheel. Then: 「そして、俺の寝顔」, "and my sleeping face" (Ch14 P0083–P0084).
 - **What is not established.** That the sketchbook is hers is strong inference. Whether it is the notebook of Ch11–Ch12, which Kusunoki handed to the substitute, or another book is open. When the drawings were made, at the time or from memory, is unknown. So is the quality of her work ([U14 §4](../readings/TDH_U14_DEEP_READING.md#4-factual-and-causal-reconstruction); `TDH-C067`).
-- **What it did for him.** "In return," he draws her sleeping face on a new page. It is his first finished drawing in years, and that night he recovers his technique (Ch14 P0085–P0097). The narrator credits her: drawing "*for myself*," for pure pleasure, was what he needed, and 「その機会をくれたのが、ミヤギだったというわけだ」, "and it was Miyagi, then, who gave me the chance" (Ch14 P0190). INFERENCE (moderate): her drawing leads, through his, to the second sale's high price. The narrator's own chosen theory credits her presence with the flowering of his talent (Ch14 P0175–P0176). The price rests on the appraisal's painting future (Ch14 P0172, P0193; hearsay). The sale's purpose is stated only in Ch15 (P0098; `TDH-C061` v3–v4). The text's accounts of when he stopped painting conflict (Ch06 P0074; Ch10 P0119–P0121; Ch14 P0182–P0188; `TDH-C067`), but the conflict does not affect her part.
+- **What it did for him.** "In return," he draws her sleeping face on a new page. It is his first finished drawing in years, and that night he recovers his technique (Ch14 P0085–P0097). The narrator credits her: drawing "*for myself*," for pure pleasure, was what he needed, and 「その機会をくれたのが、ミヤギだったというわけだ」, "and it was Miyagi, then, who gave me the chance" (Ch14 P0190). INFERENCE (moderate): her drawing leads, through his, to the second sale's high price. The narrator's own chosen theory credits her presence with the flowering of his talent (Ch14 P0175–P0176). The price rests on the appraisal's painting future (Ch14 P0172, P0193; hearsay). The sale's purpose is stated only in Ch15 (P0098; `TDH-C061` v3–v4). His account to Himeno of not having held a brush since seventeen clashes with the attempted return at nineteen (Ch10 P0119; Ch14 P0182–P0188); the statement to Naruse concerns inactivity since university entry (Ch06 P0074). This does not change Miyagi’s part.
 - **What she draws.** She drew what she watched: his days and his sleep. Her watching and her drawing turn out, at least in part, to be one activity (INFERENCE). Her reaction to his drawing of her is never narrated.
 
 ---
@@ -655,7 +655,7 @@ His wish, revealed at the fireworks, is that she forget him completely (Ch14 P01
 - **Register and manner.** The change from procedural keigo to cool polite speech, to loosened, playful, sulking and pleading polite speech, is shown across contexts and is not only a later revelation (§7.1).
 - **Distance.** She moves from the corner and five steps behind to the pillion, the shared page, the bed and the embrace. Kusunoki's narration, with a hedge, dates her softening to after the station night (Ch09 P0016–P0017). Her own testimony puts the change in her view of him at the same point (Ch12 P0183). The two sources agree, but both are interested.
 - **Stance toward visibility,** from "think of me as not here" to joy at being "there" (§8).
-- **Outlook on her future,** from the hope of a proper life after repayment (Ch08 P0074), to dying before repayment (Ch12 P0163), to decades of memory (Ch13 P0085), to thirty years alone (Ch14 P0142), to selling it all, by her account (Ch15 P0094). The changes track her relationship with him. They are not one development.
+- **Outlook on her future,** from the hope of a proper life after repayment (Ch08 P0074), to dying before repayment (Ch12 P0163), to decades of memory (Ch13 P0085), to thirty years alone (Ch14 P0142), to selling it all, by her account (Ch15 P0094). These statements serve different purposes, and some are conditional or concessive; they are not an established sequence of changing survival forecasts.
 - **Role in the giving.** At first the one who withholds and corrects. Then, secretly, a giver (the ¥300,000, by her testimony). Then the one who feels she only receives (Ch13 P0113). Finally the one whose act gives the ending its value (Ch15).
 
 ### 14.2 What is revealed rather than developed
@@ -694,7 +694,7 @@ These recast earlier scenes without showing that she changed. Kusunoki's revisio
 - Then the change of view, the joy of being present, and the avowal (P0183–P0189), followed by the disclosure of the rule lies (P0193).
 - The exchange ends in mirrored promises: he will do this for her "until I die," and she will grieve him "until I die" (P0186, P0205–P0206; `TDH-F032`).
 
-**Objection and requests (Ch13).** She says she understands he is trying to pay her debt. She is glad, but asks him not to spend his remaining time that way, and calls the idea off the mark (P0025). She asks to be paid attention (P0027). She says she is already saved and will live on remembering (P0085), and asks instead for memories (P0087). This request is what the narrator credits with his decision to live foolishly (P0090). That "wisest decision" prolepsis is never explicitly resolved (`TDH-C064`).
+**Objection and requests (Ch13).** She says she understands he is trying to pay her debt. She is glad, but asks him not to spend his remaining time that way, and calls the idea off the mark (P0025). She asks to be paid attention (P0027). She says she is already saved and can recall their days however many decades pass (P0085), and asks instead for memories (P0087). This request is what the narrator credits with his decision to live foolishly (P0090). The decision is explicit; which outcome makes it wise remains open (`TDH-C064`).
 
 **Plea (Ch14 P0108–P0145).**
 
@@ -735,7 +735,7 @@ His reply and her reaction to his sale are not narrated.
 - In mock grandeur they agree that she is now 「お金持ち」, "rich" (P0106–P0107). By lexical inference that answers Himeno's old prophecy of wealth (Ch01 P0070–P0072; `TDH-C071`).
 - She asks how they will spend the three days (P0121).
 
-What she does not say: her motive; when she sold; whether her three days line up with his; whether the substitute's help was proper. Buying back lifespan with time, which her own Ch08 testimony allowed, is never raised. The narrator calls her act 「彼女の裏切り」, "her betrayal," and 「彼女の愚かさ」, "her foolishness," both "dearer than anything" (P0100). That ties back, moderately to strongly, to the Ch11 prolepsis of her "betraying" him (`TDH-C056` v2). The three days themselves, and any death, are not narrated (`TDH-C072`).
+What she does not say: her motive; when she sold; whether her three days line up with his; whether the substitute's help was proper. Buying back lifespan with time, which her own Ch08 testimony allowed, is never raised. The narrator calls her act 「彼女の裏切り」, "her betrayal," and 「彼女の愚かさ」, "her foolishness," both "dearer than anything" (P0100). That ties back, moderately to strongly, to the Ch11 prolepsis of her "betraying" him (`TDH-C056` v2). The first morning and reunion are narrated; the remaining shared span and any death are not (`TDH-C072`).
 
 ---
 
@@ -763,7 +763,7 @@ What she does not say: her motive; when she sold; whether her three days line up
 
 **Abstention zones.** The profile should not be used for:
 
-- her behaviour during the three days or at death (unnarrated);
+- her behaviour beyond the first morning and reunion, or at death (unnarrated);
 - her life off duty, on days off, or with other watchers;
 - her conduct toward anyone at length other than Kusunoki;
 - her inner response to Enishi;

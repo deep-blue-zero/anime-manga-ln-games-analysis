@@ -97,7 +97,7 @@ Late in the evening, beside him, Miyagi's pencil moves on her notebook. He gathe
    - **Two explanations.** He offers two, both かもしれない: she opened up at the station, or watchers are instructed to be gentler as death approaches (P0017). The second is his speculation about a rule, not testimony. He warns himself that she is beside him only as her job, and that forgetting it invites betrayal (P0018).
    - **Relation to U08.** INFERENCE: the restraint answers his U08 resolve (Ch08 P0091) and his self-reproach (Ch08 P0033) with distance, not intimacy.
 3. **The capsule letter** (`TDH-C033` → v2).
-   - **Already read.** He had already read it once (一度は目を通した手紙, P0028). That resolves U07's open question whether he read it: he did, off the page.
+   - **Already read.** He had already read it once (一度は目を通した手紙, P0028). This confirms the reading already covered by U07’s completion of the capsule letters; U09 first prints the wording.
    - **Content.** It is given verbatim; whether in full is not stated (P0031–P0035). Its 「あなたにしか、頼めないことがあります」 means "there is something I can ask only of you." He asks his future self, if still 売れ残っている, to go to see Himeno: "Himeno seems to need me, and I seem to need Himeno" (だめみたい ×2). 売れ残り is Himeno's word from the promise (Ch01 P0089, P0095).
    - **The best friend's name.** The excerpt shows no best-friend name at its end. Ch07 P0024's inference that he named Himeno is neither confirmed nor refuted, though Himeno is plainly the letter's subject.
    - **Showing Miyagi.** He shows it to Miyagi deliberately (あえて, P0037), unlike the farewell letter he hid from her (Ch07 P0014).
@@ -327,7 +327,7 @@ The chapter gathers these wishes to leave a trace. HYPOTHESIS.
 - F-U03-C3 (the "machine-like" verdict revised): further counterevidence, her first narrated eating, but **no retraction**.
 - F-U07-e, F-U07-C1 (his capsule letter read or disclosed on the page): **CONFIRMED** (P0028–P0035).
 - F-U07-c, F-U07-C2 (the letter at seventeen disclosed, bearing on Himeno): **CONFIRMED by strong inference** (P0054–P0066).
-- F-U01-f, F-U02-g (Himeno pursued; returns in person): **CONFIRMED**. He seeks her house (P0102–P0117), and she appears (P0136–P0148).
+- F-U02-g: **CONFIRMED**. He seeks her house (P0102–P0117), and she appears (P0136–P0148). F-U01-f is **PARTLY ENGAGED**: this confirms the pursuit or return clause, not the comparison of their understandings of the childhood promise.
 - F-U03-d (he pursues Himeno despite Miyagi's warning): **CONFIRMED, qualified**. He pursues her, but Miyagi withdraws the warning (P0040).
 - F-U06-d ("further public scenes in which Kusunoki appears to be alone or mad"; no window) and F-U06-C2 ("at least one further public scene… with a social cost"; no window): **CONFIRMED** (P0084). The U07–U08 "not met" entries meant "not yet." Predictive weight is low, since Ch06 P0062 had already shown the pattern.
 - F-U07-b (a U07 entering forecast): **remains NOT MET (closed at U07)**.

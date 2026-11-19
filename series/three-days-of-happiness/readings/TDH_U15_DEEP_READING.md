@@ -122,7 +122,7 @@ When he looks up, a crowd has gathered: more people knew him than he had imagine
     - **The answer.** 「私も、あなたと同じことをしたんです」 (P0090). 「全部売っちゃいました。あと三日しか、残ってません」 (P0094). What she sold is unexpressed in P0094; 寿命 is used only of his sale (P0096). P0093's 「どれくらい……売ったんだ？」 and 「あなたと同じ」 make it lifespan, by strong inference (B).
     - **Why she is visible.** She says the same answer explains both her presence and her visibility (P0090). INFERENCE, moderate to strong (C moderate, B moderate, D1 strong): having sold down to three days, with her debt cleared, she is no longer a watcher, and the invisibility of time-sellers no longer applies (`TDH-C024`). Her own testimony links time-selling to invisibility through her mother: 「母の姿は透明になって誰からも見えなくなってしまう」 (Ch08 P0069). Ch08 P0060's 「今後数十年間、透明人間であり続ける」 is Kusunoki's inference. The rule is not stated. INFERENCE: it carries out his Ch11 guess that her wish was to stop being a watcher (Ch11 P0196); the text draws no link. Her 「ここにいられる」 (P0090) presupposes the withdrawal (D1).
     - **The substitute's role.** 「クスノキさんが寿命を売った直後、あの代理監視員の人が連絡をくれたんです…手続きも、彼がしてくれました」 (P0096). By her testimony, he told her the sale and its effect: two relays, substitute to Miyagi to Kusunoki (C). By his own account in Ch12, the substitute had bought her time (Ch12 P0033), which bears on his handling her procedures (C). That he handled the procedures is her testimony. Whether this was within his duties is not stated.
-    - **Her decision.** 「話を聞き終える頃には、私はもう、決めていました」 (P0096). Her motive is not stated. She sold all, more than the debt needed (P0105), and plans the three days with him (P0121): "to share his end" is an inference (D1). By her hedged account (P0105), the condition she gave in Ch08 is met: 「私の寿命に、人並の価値があったら、そうしていたでしょうね」 (Ch08 P0078). Her Ch08 valuation is itself doubtful (`TDH-C038`). When she sold, and whether her three days coincide with his, are unstated.
+    - **Her decision.** 「話を聞き終える頃には、私はもう、決めていました」 (P0096). Her motive is not stated. She sold all, more than the debt needed (P0105), and plans the three days with him (P0121): "to share his end" is an inference (D1). Her hedged increase in value (P0105) and ability to pay a reduced debt do not establish an ordinary person’s market valuation of the kind she named in Ch08 P0078. Her Ch08 valuation is itself doubtful (`TDH-C038`). When she sold, and whether her three days coincide with his, are unstated.
     - **Her return day.** By day count it matches her promised 「明後日には戻ってきますよ」 (Ch14 P0114), moderate (D1).
 13. **The betrayal** (P0097–P0100).
     - **His purpose, now stated.** 「すべてを犠牲にして守ろうとした相手」 (P0098) is the narrator's first statement of the second sale's purpose: to protect her. The debt goal itself was narrated at Ch13 P0006. U14 had the sale's purpose as a strong inference (`TDH-C061`) (D1). P0098 does not settle U14's two readings (revived or never renounced) (D1).
@@ -140,14 +140,14 @@ When he looks up, a crowd has gathered: more people knew him than he had imagine
     - **Her valuation, testimony.** 「あなたのおかげで、私の人生の価値も、ちょっとは上がっていたみたいなんです」 (P0105). Hedged (みたい); the payment of the debt that follows is unhedged testimony. INFERENCE: it mirrors U14, where his talent bloomed sooner through her presence (Ch14 P0175), here her value raised by him.
     - **"Rich."** 「お金持ちか」 / 「ええ。お金持ちです」 (P0106–P0107). INFERENCE, lexical: it answers Himeno's prophecy of becoming 「お金持ち」 (Ch01 P0070), which Ch14, written before the reunion, judged unfulfilled 「最後まで」 (Ch14 P0199) (B, C).
 15. **His summation** (P0111–P0118).
-    - **Being forgotten.** Rival sense: 何も残さず may mean no works and no fame, the record being private (Ch12 P0058–P0059) (B, C). His conduct cuts against it: that morning he was finishing a record that addresses a reader (Ch13 P0090) (C, D1). 「俺は、何も残さずに死ぬ」; 「忘れられる可能性の方が大きい」; 「かつて夢見た永遠に、今なら期待しなくて済む」 (P0111–P0115). It completes the Ch02 → Ch14 永遠 chain (Ch02 P0122; Ch14 P0168, P0196).
+    - **Being forgotten.** Rival sense: 何も残さず may mean no works and no fame, the record having no established circulation (Ch12 P0058–P0059) (B, C). His conduct cuts against it: that morning he was finishing a record that addresses a reader (Ch13 P0090) (C, D1). 「俺は、何も残さずに死ぬ」; 「忘れられる可能性の方が大きい」; 「かつて夢見た永遠に、今なら期待しなくて済む」 (P0111–P0115). It completes the Ch02 → Ch14 永遠 chain (Ch02 P0122; Ch14 P0168, P0196).
     - **The reason.** 「隣にこの子が、いてくれるから」 / 「隣でこの子が、笑っていてくれるから」 (P0116–P0117).
     - **Forgiveness.** 「たったそれだけのことで、俺は今、すべてを許せた」 (P0118). The object of 許す is 「すべて」: unspecified.
 16. **The last lines** (P0119–P0127).
     - **Her question.** 「これから三日間、どんな風に過ごしましょう？」 (P0121), echoing her Ch12 morning question, 「今日は、どんな風に過ごすんですか？」 (Ch12 P0109) (D1).
     - **His prospect.** 「多分、その三日間は、…もっともっと、価値のあるものになるのだろう」 (P0124–P0127). Its scale is his own counterfactual futures only (俺が送るはずだった ×2); Miyagi's forfeited decades are not in it (B). Hedged (多分, のだろう): a prospect, not a report. The thirty years are Miyagi's Ch05 account of his lost future (Ch05 P0052–P0059); the thirty days the appraiser's (Ch14 P0165).
     - **The book's title.** The closing 「その三日間」 and 価値 sit beside the book's title, 三日間の幸福. The title is paratext and is not evidence of what the days held (D1).
-    - **Nothing beyond the forecast.** The three days, any death and any shared death are not narrated (D1).
+    - **Nothing beyond the forecast.** The rest of the three days and any death, shared or otherwise, are not narrated (D1).
 
 **Absences with real opportunity.**
 - The three days themselves are not narrated beyond the first afternoon.
@@ -314,12 +314,12 @@ When he looks up, a crowd has gathered: more people knew him than he had imagine
 - **F-U02-f, F-U02-C4** ("Reason for the short remaining-life assessment disclosed and consequential"; C4: "Reason for the short pre-sale remaining life disclosed"): **NOT ANSWERED**. The cause of death at about fifty is never given. Miyagi's Ch05 accident (Ch05 P0056), which Ch14 adopts as fate (Ch14 P0174), maims rather than kills.
 - **F-U03-C3** ("His 'machine-like' verdict on Miyagi is revised"): **CONFIRMED in part**, as adjudicated at U08 (the origin of her coldness revised, not its existence; 機械 never retracted); closed. The later counterevidence is overwhelming, but no explicit revision follows.
 - **F-U04-C5** ("Drinking recurs, with at least one more episode of excess"): **NOT MET** beyond U06's partial.
-- **F-U05-C2** ("The distance rule becomes operative in an outing"): **NOT MET**; the rule was a lie by her testimony (Ch12 P0193).
+- **F-U05-C2** ("The distance rule becomes operative in an outing"): **MET AS A BEHAVIORAL EFFECT** (Ch09 P0069–P0075): the stated distance limit prompted tandem travel. Its status as an actual rule was separately retracted by Miyagi (Ch12 P0193).
 - **F-U05-C5** (Himeno's forecast suicide in light of "can never happen" raised): **NOT MET**.
 - **F-U08-d** ("His resolve changes his conduct toward Miyagi in the next unit"): **CONFIRMED in part** (U09; causal link not narrated).
 - **F-U08-e** ("The knee scar's origin will be disclosed"): **NOT MET**. (F-U08-C2's window closed in U13; restated.)
 - **F-U09-e** ("He tries to give her the ¥300,000"): **NOT MET** (given to strangers, U10).
-- **F-U09-C3** (the true meaning of 「わからなくはない」 concerns her own past attachment): **CONFIRMED** (U11, provisionally; nothing in U12–U15 contradicts it).
+- **F-U09-C3** (the true meaning of 「わからなくはない」 concerns her own past attachment): **PARTLY CONFIRMED**: U10 withholds the meaning. Miyagi’s own childhood attachment is strongly inferred (Ch09 P0097; Ch11 P0199–P0207), with a qualified rival in her Ch12 P0170 account of a shared emotional root for giving money away. Ch09 concerns a planned gift to Himeno, Ch12 his later distribution to strangers. The promised moment of recognition is not identified.
 - **F-U11-f** (the photograph developed): **NOT MET**.
 - **F-U11-C1** ("Within U12, he opens the notebook, and part of its contents is narrated, bearing on her view of him or on a concealment"): NOT MET, closed in U12; restated.
 

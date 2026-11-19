@@ -30,7 +30,7 @@ The novel turns on his worth: what a life is worth in money, what his is worth t
 **At a glance**
 
 - **Ages shown.** Ten (Ch01, and recollections); seventeen and nineteen (recounted); twenty throughout the story present (Ch02–Ch15).
-- **Situation.** A university student of about a year's standing, living alone in a four-and-a-half-mat apartment (Ch02 P0025; Ch09 P0004). He is desperately poor, cannot rely on his parents (Ch02 P0007), and has been estranged from his talent for painting since seventeen or nineteen (the accounts conflict; §11).
+- **Situation.** A university student of about a year's standing, living alone in a four-and-a-half-mat apartment (Ch02 P0025; Ch09 P0004). He is desperately poor, cannot rely on his parents (Ch02 P0007), and says he stopped painting at seventeen and made a failed attempt to return at nineteen (§11).
 - **Principal relationships.** Miyagi, the shop clerk who becomes his watcher, companion and beloved (Ch02–Ch15). Himeno, the childhood rival whose retracted proposal he kept as a "promise" (Ch01–Ch11, Ch14). His family, whom he avoids (Ch04, Ch07, Ch10–Ch11). Two shopkeepers who refer him to the shop and later advise him (Ch02, Ch13). His neighbour Shinbashi and the town that comes to treat his invisible companion as a shared convention (Ch13–Ch15).
 - **Arc in one line.** From pricing himself above others, through accepting that he is worth almost nothing, to valuing three days with one person above both the thirty years he forfeited and the thirty days he sold (Ch15 P0124–P0127).
 - **Evidence condition.** Everything about Kusunoki comes through Kusunoki. His interior is richly self-reported; his self-reports are frequently contradicted or qualified by what his own narration shows. Every other character's feelings reach us as his readings or as their testimony.
@@ -63,7 +63,7 @@ His home town is a green, sloping place a train ride away. It has his family hom
 
 - **Source.** Chapters 1–15 of the Japanese electronic edition (witness `TDH-JP-01`), read through the accepted readings U01–U15 and the normalized text. The afterword and end matter are excluded as character evidence. No translation, adaptation or outside summary is used. Any training-derived familiarity with the novel is quarantined and supplies nothing here.
 - **Continuity.** One continuity. Miyagi's accounts of his "original course" (the forfeited thirty years, Ch05 P0052–P0059; Naruse and Wakana in that course, Ch04 P0044–P0046, Ch06 P0089) are testimony about a counterfactual, not a second continuity.
-- **Time.** Childhood from about age four (first meeting with Himeno, Ch09 P0141) to the first of his last three days (Ch15). The novel narrates neither those three days nor his death; nothing after Ch15 P0127 is known.
+- **Time.** Childhood from about age four (first meeting with Himeno, Ch09 P0141) to the first of his last three days (Ch15). The novel narrates the first morning and reunion; it projects the rest of that span and does not narrate his death.
 - **Spoilers.** Whole novel, including the ending.
 
 ### 1.4 Chronology
@@ -114,7 +114,7 @@ The identity of the printed text with this notebook is an inference, strong but 
 Three consequences follow for the portrait:
 
 - **Most of chapters 1–11 were first written about day 30.** The man who writes the scathing self-portrait of chapter 2, and calls his childhood greatness a 勘違い, "a misapprehension" (Ch01 P0035), has already met Himeno, read her letter and lived a month with Miyagi. He has not yet learned of the price lie. The substitute's hint comes that night, and Miyagi's admission the next (Ch12 P0079–P0170). The text does not fix which earlier passages were revised later.
-- **The prolepses are the writer's.** The possibility he says he overlooked, 「ミヤギが、俺を裏切るという可能性」 (Ch11 P0154–P0158), and "the wisest decision" (Ch13 P0090) are evaluations from a later vantage. Their content is withheld, and by the record's own chronology they were written before the reunion. Identifying them with the ending would require an unnarrated revision (`TDH-C056` v2, `TDH-C064` v2; §14).
+- **The prolepses are the writer's.** The possibility he says he overlooked, 「ミヤギが、俺を裏切るという可能性」 (Ch11 P0154–P0158), and "the wisest decision" (Ch13 P0090) are evaluations from a later vantage. The betrayal’s referent and the reason that the stated resolve is wise are withheld, and by the record's own chronology they were written before the reunion. Identifying them with the ending would require an unnarrated revision (`TDH-C056` v2, `TDH-C064` v2; §14).
 - **The record is an act of his character.** He began it because he wanted, "in a wholesome sense," to do something he would not want Miyagi to see (Ch12 P0053). When the substitute asks whether he will let someone read it, he says he does not care: he writes to sort his head (Ch12 P0058–P0059). Chapter 13 nonetheless presupposes a reader who reads "to the end" (Ch13 P0090), and the closing section of chapter 15 opens with 「俺は、何も残さずに死ぬ」, "I will die leaving nothing" (Ch15 P0111). That tension is unresolved.
 
 ### 2.3 Habits of the narrating voice
@@ -141,8 +141,8 @@ The table collects the main places where his statements about himself are qualif
 | Resolves on shameless honesty (Ch06 P0018) | His first clear want is a performance: to have Naruse misread his relation with Miyagi (Ch06 P0046–P0047). He is honest only with Miyagi (Ch06 P0114) | Pattern of performance persists |
 | Says he has always found Miyagi's existence a nuisance (Ch04 P0062) | Finds her exactly his type from the first meeting and censors himself before her (Ch06 P0007–P0010) | Attraction disclosed late; the "nuisance" claim is undercut |
 | Calls Miyagi machine-like, lacking human warmth (Ch03 P0077; Ch04 P0060) | She leans out to watch fireworks, bathes, smokes, eats, whistles and sketches (Ch05 P0041, P0078; Ch08 P0087; Ch09 P0080; Ch10 P0260; Ch11 P0106) | Never explicitly retracted; overtaken by conduct |
-| "Done everything on my list" (Ch11 P0030) | Item 6, the farewell letter, was never sent (Ch07 P0013–P0014) | Overstatement (`TDH-S060`) |
-| Has not drawn since entering university (to Naruse, Ch06 P0074); has not held a brush since the winter at seventeen (to Himeno, Ch10 P0119) | The narration says he painted again at nineteen and lost the ability (Ch14 P0186–P0188) | Three accounts conflict; unresolved. Rivals, unranked: concealment of the failure, simplification, a brief attempt he discounted, the narrator's later framing (§11) |
+| "Done everything on my list" (Ch11 P0030) | The farewell-letter item required writing, and he wrote a trial version (Ch03 P0091; Ch07 P0008–P0014). The separate item of stating his feelings for Himeno is not shown fulfilled (Ch11 P0107) | Non-delivery alone does not show overstatement (`TDH-S060`) |
+| Has not drawn since entering university (to Naruse, Ch06 P0074); has not held a brush since the winter at seventeen (to Himeno, Ch10 P0119) | The narration says he painted again at nineteen and lost the ability (Ch14 P0186–P0188) | The categorical statement to Himeno conflicts directly with the failed attempt. The Naruse answer describes only inactivity since entry. Motive remains open (§11) |
 | He is a fool (Ch10 P0202), scum (Ch08 P0033), a failure (失敗作, Ch04 P0071) | His capsule letter, his kindness to the old woman, his care in the futon offer, his thanks | Self-contempt is a stance, not a full description |
 
 ### 2.5 His readings of others
@@ -204,7 +204,7 @@ The narrator calls it 「その約束」, "that promise," and says that through 
 
 **Painting.** He had, he says, an exceptional talent: 「当時の俺を知る者なら誰もが認める」 (Ch14 P0181). Himeno's testimony supports it; she took his pictures home and envied them (Ch10 P0121–P0125).
 
-In the winter at seventeen he stopped. He would not become the great person he had promised Himeno to become by painting as before, so he forbade himself to paint until 「すべてが噛みあったとき」, "when everything meshed" (Ch14 P0182–P0184). In the summer at nineteen, from impatience, he let himself paint and lost the ability. He could not draw even an apple (Ch14 P0186–P0188). He told Naruse he stopped on entering university (Ch06 P0074), and Himeno that he had not held a brush since seventeen (Ch10 P0119).
+In the winter at seventeen he stopped. He would not become the great person he had promised Himeno to become by painting as before, so he forbade himself to paint until 「すべてが噛みあったとき」, "when everything meshed" (Ch14 P0182–P0184). In the summer at nineteen, from impatience, he let himself paint and lost the ability. He could not draw even an apple (Ch14 P0186–P0188). He told Naruse he had not drawn since entering university (Ch06 P0074), and Himeno that he had not held a brush since seventeen (Ch10 P0119).
 
 *Bearing.* This is the 「かつての夢」, "former dream" (Ch06 P0090), whose mockery ends the Naruse friendship. Its recovery in Ch14 is the novel's clearest case of regained capacity. The conflict between the accounts is unresolved (§11).
 
@@ -554,13 +554,13 @@ Much of what matters is never spoken to its object.
 - **No apology in words.** After the station touch (Ch08).
 - **No reply narrated.** To Miyagi's request to forget the debt (Ch13 P0085–P0090), and to her plea to stay; he only strokes her head, and acts against it next morning (Ch14 P0143).
 - **No word of his own death to the town.** He invents instead a story that Miyagi left him (Ch15 P0040).
-- **No declaration to Miyagi.** He never tells her in words that he loves her. His quoted speech never applies 好き or 愛 to his feeling for her (OBSERVATION, full search). In his speech 好き occurs only for vending machines (Ch11 P0052–P0061; Ch12 P0017), for Himeno's hoped liking (Ch10 P0028), in a question about what Miyagi likes (Ch13 P0060) and for her feeling for him (Ch14 P0058); 愛 does not occur in his speech. He says she likes *him*, to others (Ch14 P0058). Asked to prove how much he loves her, he kisses her (Ch14 P0060–P0063). His feeling is named only in narration: her sleeping face 「愛おしかった」 (Ch14 P0080); her betrayal and foolishness 「何よりも愛おしかった」 (Ch15 P0100).
+- **No declaration to Miyagi.** He never tells her in words that he loves her. His quoted speech never applies 好き or 愛 to his feeling for her in the narrated exchanges. This is a claim about his direct avowals to Miyagi, not a census of all spoken uses of either term. He says she likes *him*, to others (Ch14 P0058). Asked to prove how much he loves her, he kisses her (Ch14 P0060–P0063). His feeling is named only in narration: her sleeping face 「愛おしかった」 (Ch14 P0080); her betrayal and foolishness 「何よりも愛おしかった」 (Ch15 P0100).
 
 The direction of disclosure changes late. In Ch13–Ch14 he speaks openly to strangers about Miyagi's presence and her love, while still keeping his plans from her.
 
 ### 7.7 Written voice: letters and the record
 
-**The trial farewell letter.** Given only in the narrator's summary, it addresses Himeno as お前 and pairs defiance (「今更お前が俺のことをどう思おうと知ったことじゃないが」, "I don't care what you think of me now") with the only declaration of love in his words in the novel: 「俺は十歳のあの日からずっと、お前のことを愛し続けてきた」 (Ch07 P0010). He disowns it at once: it 「どこかで致命的な間違いを犯している」, "commits a fatal mistake somewhere." What he wants to say would die if put into words (Ch07 P0012). His wish shrinks to "that the ten-year-old me live on a little longer in her," and to a letter that might say only 「手紙が出したかった」, "I wanted to send a letter" (Ch07 P0013).
+**The trial farewell letter.** Given only in the narrator's summary, it addresses Himeno as お前 and pairs defiance (「今更お前が俺のことをどう思おうと知ったことじゃないが」, "I don't care what you think of me now") with an explicit written declaration of love: 「俺は十歳のあの日からずっと、お前のことを愛し続けてきた」 (Ch07 P0010). He disowns it at once: it 「どこかで致命的な間違いを犯している」, "commits a fatal mistake somewhere." What he wants to say would die if put into words (Ch07 P0012). His wish shrinks to "that the ten-year-old me live on a little longer in her," and to a letter that might say only 「手紙が出したかった」, "I wanted to send a letter" (Ch07 P0013).
 
 **The reply at seventeen.** Given only in summary: trivial news, and that he would be glad if she visited. He meant to write honestly, with great effort, that he wanted to see her (Ch09 P0061–P0064).
 
@@ -808,9 +808,9 @@ His characteristic intimate stance is to want to be remembered, then to want to 
 
 **Intellect and learning.** Perfect test scores at ten (Ch01 P0037). A memory he calls once perfect, declining from middle school (Ch10 P0119). Wide reading, quotation, and fluent writing: 「言葉は淀みなく溢れてきた」, "the words flowed" (Ch12 P0055). His reasoning is sharp when deducing the price lie (Ch12 P0150–P0157) and over-confident in his Himeno answer check (Ch11 P0142–P0148).
 
-**Painting.** A talent he claims and Himeno corroborates (Ch14 P0179–P0181; Ch10 P0121–P0125). Three accounts of its loss conflict:
+**Painting.** A talent he claims and Himeno corroborates (Ch14 P0179–P0181; Ch10 P0121–P0125). Three accounts locate different points; the direct conflict is between the account to Himeno and the failed return:
 
-- to Naruse, he stopped "after entering university" (Ch06 P0074);
+- to Naruse, he has not drawn since entering university (Ch06 P0074);
 - to Himeno, he had not held a brush since the winter at seventeen (Ch10 P0119);
 - the narration says he stopped at seventeen by resolve, let himself paint at nineteen, and lost the ability completely (Ch14 P0182–P0188).
 
@@ -942,7 +942,7 @@ This section separates what changes in Kusunoki from what is revealed late about
 
 **Abstention zones.**
 
-- The three last days themselves, his death, and anything after Ch15 P0127.
+- The time after the narrated first morning and reunion, his death, and anything after Ch15 P0127.
 - Life before ten beyond the few recounted incidents. Adolescence beyond the letter and the painting.
 - Any sexual conduct beyond what is narrated.
 - His conduct toward his parents or brother in person (never shown).
@@ -963,7 +963,7 @@ This section separates what changes in Kusunoki from what is revealed late about
 
 **Unresolved contradictions.**
 
-- *The painting history.* The accounts at Ch06 P0074, Ch10 P0119 and Ch14 P0182–P0188 conflict. Rivals, held open and unranked (U14 §4.14): concealment of the failure, simplification, a brief attempt he discounted, and the narrator's later framing. Not resolved.
+- *The painting history.* Ch10 P0119’s categorical statement contrasts with the failed return in Ch14 P0182–P0188; Ch06 P0074 speaks only to inactivity since university entry. Rivals, held open and unranked (U14 §4.14): concealment of the failure, simplification, a brief attempt he discounted, and the narrator's later framing. Not resolved.
 - *Never envied before* (Ch04 P0065) against Ch04 P0062 and Ch14 P0119.
 - *No goodwill for anyone after Himeno* (Ch03 P0026) against three years of goodwill for Naruse (Ch06 P0077).
 - *His two reports of the substitute's hint.* "Only told to check again" (Ch12 P0147) against "when I heard Miyagi was lying" (Ch12 P0150) (`TDH-C057`).
@@ -974,10 +974,10 @@ This section separates what changes in Kusunoki from what is revealed late about
 
 - *The narrating record and its chronology* (`TDH-C010` v5). The record is his notebook by strong inference. Its identity with the printed text is itself an inference; a later redaction is a recorded rival. Which earlier passages were revised, and when Ch15 was written, are unknown.
 - *The Ch11 "betrayal"* (`TDH-C056` v2). Given content by inference, moderate to strong, as her sale, which he names 裏切り with the same roles (Ch15 P0098–P0100). It is not explicitly linked. Rivals: the price lie (weakened), her love as a defeated expectation, her absence. By the record's chronology, the identification requires an unnarrated revision after the reunion.
-- *The Ch13 "wisest decision"* (`TDH-C064` v2). Not resolved. Candidates at the record's end (the title's 賢 against the body's 愚か; her foolishness answering his; the three days valued) are HYPOTHESES, moderate for the lexical bridge and low to moderate for the chains. No sentence links them.
+- *The Ch13 "wisest decision"* (`TDH-C064` v2). The resolve to live foolishly is explicit in Ch13 P0090; the reason for calling it wise is unresolved. Candidates at the record’s end (the title's 賢 against the body's 愚か; her foolishness answering his; the three days valued) are HYPOTHESES, moderate for the lexical bridge and low to moderate for the chains. No sentence links them.
 - *Miyagi's statements after Ch12 P0193.* Her love, reasons, being "already saved," her horizon and her account of her own sale all come from a self-declared liar. Kusunoki accepts them; the text does not verify them.
 - *What Miyagi sold in Ch15.* Unexpressed in her words; lifespan by strong inference (Ch15 P0092–P0096).
-- *The ending.* The novel does not narrate the three days or any death. His closing valuation is a prospect, hedged.
+- *The ending.* The novel narrates the first morning and reunion, not the remaining span or any death. His closing valuation is a prospect, hedged.
 
 **Evidence gaps.**
 
@@ -991,7 +991,7 @@ This section separates what changes in Kusunoki from what is revealed late about
 - Whether the head-stroking in the community hall happened (Ch10 P0245–P0247; he himself cannot say).
 - What "everything" he forgives (Ch15 P0118).
 
-**Limits of extrapolation.** His late openness, gratitude and public foolishness are bound to a man with weeks to live and to one companion. The text gives no basis for projecting them onto a Kusunoki with a future, or into the unnarrated three days. His readings of others are not evidence of their feelings. Training-derived familiarity with the novel is quarantined and contributes nothing here.
+**Limits of extrapolation.** His late openness, gratitude and public foolishness are bound to a man with weeks to live and to one companion. The text gives no basis for projecting them onto a Kusunoki with a future, or past the narrated first morning and reunion into the remaining shared time, which the novel only projects. His readings of others are not evidence of their feelings. Training-derived familiarity with the novel is quarantined and contributes nothing here.
 
 ## 15. Source traceability
 
@@ -1024,7 +1024,7 @@ Major interpretations, with claim and state IDs, principal locators and the read
 **Observations made directly from the normalized text for this monograph**, beyond the readings:
 
 - His use of あんた to Miyagi ends at Ch12 P0177. From Ch13 he addresses her only by name (search of his quoted speech, Ch03–Ch15).
-- His quoted speech never applies 好き or 愛 to his feeling for her (OBSERVATION, full search). In his speech 好き occurs only for vending machines (Ch11 P0052–P0061; Ch12 P0017), for Himeno's hoped liking (Ch10 P0028), in a question about what Miyagi likes (Ch13 P0060) and for her feeling for him (Ch14 P0058); 愛 does not occur in his speech. The only declaration of love in his words is the disowned trial letter to Himeno (Ch07 P0010). His feeling for Miyagi is named only in narration (Ch14 P0080; Ch15 P0100).
+- His quoted speech never applies 好き or 愛 to his feeling for her in the narrated exchanges. This is a claim about his direct avowals to Miyagi, not a census of all spoken uses of either term. The disowned trial letter to Himeno contains an explicit written declaration (Ch07 P0010), not a spoken avowal. His feeling for Miyagi is named only in narration (Ch14 P0080; Ch15 P0100).
 - His polite register to elders and service figures is consistent: the old bookseller (Ch02, Ch13), the old woman (Ch11), the photo-shop owner (Ch11), the appraiser (Ch14).
 
 The full claim history is in the notebook: [Claims and questions](../TDH_LONGITUDINAL_NOTEBOOK.md#claims-and-questions) and [State](../TDH_LONGITUDINAL_NOTEBOOK.md#state).
