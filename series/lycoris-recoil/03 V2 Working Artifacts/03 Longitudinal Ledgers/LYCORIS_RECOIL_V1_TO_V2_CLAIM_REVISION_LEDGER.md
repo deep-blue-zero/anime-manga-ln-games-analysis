@@ -14,6 +14,17 @@ current_sequential_boundary: SHORT01
 
 # Lycoris Recoil V1 → V2 Claim Revision Ledger
 
+## Retrospective qualifications to existing TV transitions
+
+These attributable corrections govern current retrieval of the identified records. Their historical V1→V2 formulations, original IDs and checkpoint counts remain recoverable in the register below. Supporting V2 and Gemini references appear in the [TV audiovisual matrix](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/CLAIM_MATRIX.md).
+
+| Earlier transition | Current formulation |
+|---|---|
+| `REV-E01-003` | REVISE its two-example comparison. E01-CLM-002/008 support confidence in tactical judgment. Erika requests intervention at 02:39.93–02:42.81. Saori has no opportunity to consent to the later exposure. |
+| `REV-E12-002` | PRESERVE Yoshimatsu’s self-sacrificial coercion. DOWNGRADE the claim of physically verified implantation. His scar and words stage an offer of his life. E13 reports the heart and case arriving together and withholds the intervening mechanics. |
+| `REV-E13-006` | STRENGTHEN the formal account of the ellipsis. An exterior brightening over a very low soundtrack intervenes between the confrontation and the later account of Yoshimatsu’s death. Its precise cause stays open. |
+| `REV-E13-015` | REVISE. E12 strongly attributes the shot to Chisato in response to Takina’s peril. The edit does not establish a deliberately calibrated wound. REJECT the E13 ammunition gloss. Majima’s `黒いほう` is the person he also addresses at E10 C0221. E12 C0170 further interrupts any assumption of ammunition continuity. Retain the ethical distinction on the strength of Chisato’s decisions. |
+
 ## 1. Responsibility
 
 This ledger preserves the transition from prior-generation V1 interpretations to current V2 authority.

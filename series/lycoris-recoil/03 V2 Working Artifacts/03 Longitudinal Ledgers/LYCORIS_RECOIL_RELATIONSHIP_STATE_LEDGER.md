@@ -27,6 +27,10 @@ e13_acoustic_performance_pass: complete
 
 # Lycoris Recoil Relationship State Ledger
 
+## Retrospective TV evidence qualification
+
+The TV endpoint for `REL-CHI-TAK` retains mutual rescue and independent ethical judgment. E07’s separated statements of principle, E12’s confrontation over Yoshimatsu, and E13’s local choice on the island bound any reading of complete ethical convergence. For `REL-MIK-YOS`, Mika’s armed confrontation and later concealment support protective severance. The exterior window highlight does not show the act inside. Takina’s account of the delivered case is explicitly secondhand. Use the [TV comparison and source routes](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/CLAIM_MATRIX.md) with the frozen rows below. These qualifications make no prediction about the shorts.
+
 ## 1. Responsibility
 
 This ledger tracks how recurring relationships change the behavior available to each participant.
