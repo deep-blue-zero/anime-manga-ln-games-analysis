@@ -8,7 +8,7 @@ generation: V2
 version: "1.1"
 status: canonical
 authority_scope: "Witness and derivative identity, admission state, candidate provenance and intake routing"
-source_boundary: "Japanese television anime E01–E12 technical inventory; E01 admitted for bundle-mediated reading; no accepted V2 narrative units"
+source_boundary: "Japanese television anime E01–E01 independently accepted under the owner’s bundle-and-measurement scope. Technical inventory E01–E12."
 canonical_home: series/shine-post/V2 Analysis/01 Source and Intake/SHINEPOST_V2_SOURCE_AND_INTAKE_REGISTER.md
 created: 2026-11-19
 supersedes: []
@@ -74,7 +74,7 @@ Required unresolved items block the dependent completion claim. Missing primary-
 
 ## 5. Actual records and next intake action
 
-**Technical witness set, 2026-11-20.** The owner authorized the twelve Japanese TV episodes for a sequential independent run. All twelve release objects and their derivatives are identified for technical reconnaissance. The entrypoint admits E01 for bundle-mediated reading with the owner-authorized measurement route. E02–E12 remain technical inventory. The narrative high-water mark is NONE. The owner identified a separate Gemini generation. Candidate intake awaits the independent E12 freeze.
+**Technical witness set, 2026-11-20.** The owner authorized the twelve Japanese TV episodes for a sequential independent run. All twelve release objects and their derivatives are identified for technical reconnaissance. Narrative admission proceeds one unit at a time under the entrypoint. The transaction rows below record actual unit coverage. The owner identified a separate Gemini generation. Candidate intake awaits the independent E12 freeze.
 
 The release filenames identify Nekomoe kissaten and VCB-Studio, `Ma10p_1080p`. Retail mastering and broadcast equivalence were not independently established. Each E-number maps the release MKV to the episode entry in the outer batch summary. The inner batch summary describes only the E12 invocation. The pipeline produced a Japanese-only ASS sidecar from the supplied bilingual JPSC witness, a soft-sub remux, a picture derivative with Japanese text burned in and a sampling bundle from that derivative. Open the release video for an unobscured composition check when the burn-in covers significant detail. The ZIP and unpacked directory have the same members. Complete audio is the separately supplied FLAC. Neither the heuristic scenes nor the shot-labelled rows in the manifest supply an editorial shot list.
 
@@ -190,8 +190,14 @@ All release pictures are 1920×1080 at 24000/1001 fps. Retained stills are event
 
 All twelve release containers identify default stream 1 as Japanese main audio. Each companion FLAC's decoded 24-bit stereo PCM at 48 kHz matched the original main stream’s declared PCM digest and sample count. E01 and E12 also contain nondefault Japanese AAC commentary at stream 2. The extraction preserved a playable main-programme witness. The principal’s audio payload was omitted by the model interface.
 
-The three stored copies of each episode’s Japanese-only ASS matched by SHA-256. Speaker and paired-translation fields were empty throughout the cue index. E01 has 439 raw ASS Dialogue events and 439 indexed cues. E02–E12 have more raw ASS Dialogue events than indexed cues. Row counts cannot establish the number of utterances, identify speakers or verify transcription. Japanese wording, translation accuracy, cues, staging and musical events await episode inspection.
+The three stored copies of each episode’s Japanese-only ASS matched by SHA-256. Speaker and paired-translation fields were empty throughout the cue index. E01 has 439 raw ASS Dialogue events and 439 indexed cues. E02–E12 have more raw ASS Dialogue events than indexed cues. Row counts cannot establish the number of utterances, identify speakers or verify transcription. Cue transcription, staging and musical events are checked per episode and qualified in the unit records.
 
 See the [independent run-entry checkpoint](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_INDEPENDENT_RUN_ENTRY_20261120.md) for clock testing, actual channel availability, limitations and the next permitted technical operation.
 
 When accepted work later advances, update this register's inventory/coverage and the root entrypoint's boundary in the same transaction. Preserve earlier receipt and witness identities. The [evidence ledger](../03%20Longitudinal%20Ledgers/SHINEPOST_V2_EVIDENCE_AND_CLAIM_LEDGER.md) owns claims and dispositions, while this register owns what objects and channels were actually available and inspected.
+
+### 5.3 Independent episode inspection
+
+| Unit | Accepted channels and limits | Checkpoint |
+| --- | --- | --- |
+| E01 | JP transcription with source-screen checks, static/targeted original frames and measured main audio. Unheard and unseen claims remain open. | [Independent review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E01_INDEPENDENT_CHECKPOINT.md) |
