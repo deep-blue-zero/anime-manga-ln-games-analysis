@@ -6,6 +6,225 @@ Recorded assessments of subjects in the `project-sekai` namespace of the [Charac
 
 ## Recorded assessments
 
+### Subject `project-sekai:airi@game`
+
+- Registry file: [`characters/reconstruction_capabilities/project-sekai/airi@game.jsonl`](../reconstruction_capabilities/project-sekai/airi@game.jsonl)
+
+<a id="project-sekai-airi-game-generation-2-package-20261121-01"></a>
+
+#### Assessment `project-sekai-airi-game-generation-2-package-20261121-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `project-sekai:airi`
+- Scope: continuity `project-sekai-game`
+- Source boundary: Only the subject's five curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical V1 MORE MORE JUMP! main-story synthesis \(Japanese mmj\_01\_00-mmj\_01\_20 at the EVENT\_0213 lock\); the canonical EVENT\_0005 and EVENT\_0011 MMJ deep readings, each a discrete event envelope; and the canonical Generation 2 Airi \(Momoi Airi\) monograph and reconstruction model through EVENT\_0222 at the PJSK\_SOURCE\_20261030T035133Z\_EVENT\_0222 lock, located by story, event, card, area and My SEKAI locators. Speech is the original-Japanese textual register; no performed voice or audiovisual analysis is admitted. Later event readings cited by the monograph \(E0153, E0168, E0176, E0190, E0198, E0206, E0209, E0213, E0214\), ledgers, the evidence index and Generation 1 files are not curated on this subject and no claim rests on them beyond what the curated items state. The package's R4 readiness label is project-local and was not adopted. No primary source was inspected.
+- Temporal boundary: Airi from her childhood origin \(EVENT\_0005's opening and E0168's located ideal\) through EVENT\_0222. Default state: MMJ-EP-AI-E0198, inheriting E0138 and retaining E0092 communication, within group E0213 after the drama broadcast and before the unperformed semifinal. Earlier states are used at the located points: main-story MS-01 to 04 \(she preserves MS-03 in phase P04, so the envy attack and repair are not one whole-phase state\), EVENT\_0005's operative revision MMJ-EP-AI-E0005 and group-06, EVENT\_0011, and the Generation 2 milestones \(E0092, E0102, E0130, E0138, E0153, E0168, E0198, E0206, E0209, E0213, E0214, E0222\); states between them rest on uncurated ledger snapshots. The My SEKAI encounter with Kanade is not dated within LUMINA. The boundary limits evidence, not knowledge: her childhood origin and the main-story rupture belong to her at every later state.
+- Basis commit: `ceaf6e27f4ab956a72e9f59ffcfc9085b2b0aa9a`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `cb4ec1f3b04cb30d32895b0477a96ff93aceb8b6365de69e8f78bbf9112d3e6b`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative written-Japanese lines only, never presented as quotation; select state, recipient, task and aim before wording.
+  - `DIALOGUE` condition: Use わたし; keep アンタ to a close, emphatic quartet exchange, not a universal address; address Mao as 佐原さん and Kanade as 宵崎さん in the sampled exchanges; polite requests to production staff.
+  - `DIALOGUE` condition: Directness must have a goal \(teach, defend, organize, tease, apologize\); no tsundere shorthand or automatic aggression; role speech such as Michiru's hesitant manner is never her ordinary register.
+  - `DIALOGUE` condition: No performed voice, pitch or delivery.
+  - `CROSS_SCENARIO` condition: Select her state \(main-story MS-01 to 04, EVENT\_0005 or EVENT\_0011 group, or the E0198/E0213 default\), the recipient and whether the criticism she faces is accurate or category-based before predicting a choice.
+  - `CROSS_SCENARIO` condition: An unfamiliar technique or role draws research, bounded advice, coached rehearsal, a limited trial or refusal if time or ability makes the result untenable \(D2\); give alternatives rather than one outcome.
+  - `CROSS_SCENARIO` condition: Under stakes she may overburden herself and be inconsistent about others' intensity; an accepted break does not guarantee sustained pacing.
+  - `CROSS_SCENARIO` condition: Where showing another person's effort meets that person's unstated preference, present both hesitation and assumed permission as available; transfer to an unsampled relationship is a separate, lower-confidence condition.
+  - `CROSS_SCENARIO` bounds: chronology The default state: E0198 acting method inheriting E0138 and E0092, within group E0213 through EVENT\_0222, the drama broadcast received and the semifinal unperformed; or a located earlier state with its own knowledge \(main-story MS-03 envy and MS-04 repair, EVENT\_0005's revised criterion, EVENT\_0011\). Acting advisers did not receive confidential job details, and the others do not know her EVENT\_0005 bargain unless told.; interlocutor MORE MORE JUMP! members \(Shizuku, Minori, Haruka\), Stage Rin, Mao and the drama crew, Akito, Kanade, Mizuki, Daiki and Toshiki, an audience or a child at a public event as located recipients; transfer to an unsampled relationship is a separate, lower-confidence condition.; settings A new idol-practice, teaching, streaming, production, role-learning or group-decision problem matched in competence and stakes to the located cases \(D0-D2\).; No sustained coercive management \(D3\), unprecedented danger or intimacy \(D4\), and no semifinal or career outcome.; Textual Japanese register only; no performed voice.
+  - `MUNDANE_SOCIAL` condition: Settings sampled: searching her stored belongings, mood repair with music, video research with the group, dessert with Shizuku, shared cleaning, a children's event, hosting guests, a My SEKAI exchange with Kanade.
+  - `MUNDANE_SOCIAL` condition: Brisk practical care, teasing, strong preferences and embarrassment when appreciated; she may accept help with work she meant to do herself.
+  - `MUNDANE_SOCIAL` condition: Fatigue and admitted competence limits \(the marimba comparison\) stay available; no family or school routine beyond the origin scenes is supplied.
+  - `ETHICAL_DELIBERATION` condition: Matched dilemmas only: accountability for harm caused by envy or comparison, keeping the group against an individual opportunity, disclosure of confidential or private details, encouragement without promising a result.
+  - `ETHICAL_DELIBERATION` condition: Present both restraint and well-meant overreach as available; favorable audience response never supplies retroactive consent.
+  - `ETHICAL_DELIBERATION` condition: No universal consent practice or forecast of which obligation wins.
+  - `PROFESSIONAL_CONTEXT` condition: Idol training and teaching, freelance group management and production, streaming and program design drawing on variety and talk skills, and acting with a crew at the default or a located state.
+  - `PROFESSIONAL_CONTEXT` condition: Supported: researching a task, asking bounded advice without disclosing confidential details, requesting a limited attempt and accepting the crew's schedule authority, sharing credit with a partner, naming usable corrections.
+  - `PROFESSIONAL_CONTEXT` condition: Not supported: universal acting mastery, guaranteed tears, the semifinal outcome, sustained coercive management or fine instrument discrimination by sound.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` B; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `camera-assumed-permission` (evidence-backed limitation): In EVENT\_0011 she voiced hesitation and then assumed permission when Minori turned the camera toward Shizuku's private practice; the favorable viewer response does not erase the consent gap.
+  - `competence-and-pacing-limits` (evidence-backed limitation): Excess effort, fatigue, a failed listening comparison and admitted lack of confidence in distinguishing expensive marimbas by sound constrain competence claims; an accepted break or monitoring promise does not guarantee sustained pacing.
+  - `consent-weighing-unselected` (evidence gap): The curated items do not determine when another person's unstated preference outweighs her wish to show their effort.
+  - `envy-harm-located` (evidence-backed limitation): Envy caused real harm in the main story: she reduced Shizuku to innate beauty, violating the ethic through which she had inspired her; institutional injury does not erase that accountability.
+  - `intermediate-states-uncurated` (evidence gap): States between EVENT\_0011 and the Generation 2 milestones, and the later event readings the monograph cites, rest on files not curated on this subject.
+  - `no-performed-voice` (evidence gap): Speech evidence is original-Japanese text; performed voice, timing and loudness are not analysed.
+  - `no-romance-evidence` (evidence gap): No curated item addresses romance.
+  - `open-outcomes` (evidence-backed limitation): The semifinal is accepted but unperformed through EVENT\_0222; no guaranteed tears in another role, permanent friendship with Mao or semifinal result is established.
+  - `private-bargain-knowledge` (evidence-backed limitation): Her EVENT\_0005 offer to obey any direction if her former president accepted all four was private; the others do not automatically know the bargain or its aftermath.
+  - `role-not-self` (evidence-backed limitation): Michiru's hesitant manner is performed role speech; the role's speech, fictional history and heard vocal qualities are not her ordinary self.
+  - `variety-skill-retained` (evidence-backed limitation): She enjoyed and learned variety work before its enforced use alienated her; rejecting imposed limitation does not require disowning acquired skill.
+- Evidence at basis commit:
+  - [`project-sekai:airi@game#reviewed-mmj-event-0005`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ceaf6e27f4ab956a72e9f59ffcfc9085b2b0aa9a/series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`project-sekai:airi@game#reviewed-mmj-event-0011`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ceaf6e27f4ab956a72e9f59ffcfc9085b2b0aa9a/series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
+  - [`project-sekai:airi@game#reviewed-model-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ceaf6e27f4ab956a72e9f59ffcfc9085b2b0aa9a/series/project-sekai/05_CHARACTER_RECONSTRUCTION/MOMOI_AIRI/PJSK_MOMOI_AIRI_RECONSTRUCTION_MODEL.md)
+  - [`project-sekai:airi@game#reviewed-monograph-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ceaf6e27f4ab956a72e9f59ffcfc9085b2b0aa9a/series/project-sekai/05_CHARACTER_RECONSTRUCTION/MOMOI_AIRI/PJSK_MOMOI_AIRI_CHARACTER_MONOGRAPH.md)
+  - [`project-sekai:airi@game#reviewed-shared-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ceaf6e27f4ab956a72e9f59ffcfc9085b2b0aa9a/series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
+
+### Subject `project-sekai:emu@game`
+
+- Registry file: [`characters/reconstruction_capabilities/project-sekai/emu@game.jsonl`](../reconstruction_capabilities/project-sekai/emu@game.jsonl)
+
+<a id="project-sekai-emu-game-generation-2-package-20261119-01"></a>
+
+#### Assessment `project-sekai-emu-game-generation-2-package-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `project-sekai:emu`
+- Scope: continuity `project-sekai-game`
+- Source boundary: Only the subject's three curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical V1 Wonderlands×Showtime main-story causal synthesis \(Japanese wonder\_01\_00-wonder\_01\_20 at the EVENT\_0213 lock\), and the canonical Generation 2 Emu \(Otori Emu\) monograph and reconstruction model through EVENT\_0222 at the PJSK\_SOURCE\_20261030T035133Z\_EVENT\_0222 lock, located by story, event and My SEKAI locators; the My SEKAI material remains undated conditional-encounter evidence. Speech is the original-Japanese textual register; no performed voice or audiovisual analysis is admitted. The WxS textual-register remediation audit \(Emu scene tests E1-E6\) was read only as method context and calibration; the event readings, ledgers and Generation 1 files are not curated on this subject and no claim rests on them. The model's R4 readiness label is project-local and was not adopted. No primary source was inspected.
+- Temporal boundary: Emu from the main story through EVENT\_0222. Default state: after EVENT\_0164's institutional proposal with EVENT\_0104 shared stewardship preserved, situated within group EVENT\_0208, with EVENT\_0217-0218 adding travel and shared encounters and the Wonder! audition open. Earlier states are used only at the milestones the items locate \(main story with the episode-15 and episode-19 disclosures; EVENT\_0104, 0124, 0131, 0141, 0164, 0196, 0202, 0208, 0217, 0218\); states between them rest on ledger snapshots that are not curated here. My SEKAI encounters have no securely inferred date. The boundary limits evidence, not knowledge: her grandfather's death and her later withdrawal belong to her at every state they predate, while only the EVENT\_0202 listeners receive her account.
+- Basis commit: `d970f85e940160938343d27cdcbc2826d1199885`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `a8d2a0a09c4e0152dc04aafc39e3aab5e63303866b270722468f514e1ad3ffff`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative written-Japanese lines only, never presented as quotation; select state, recipient, authorization, role and aim before wording.
+  - `DIALOGUE` condition: 「あたし」 remains possible in serious polite advocacy; formal 「私」 or 「私達」 belong to the located institutional and impersonation scenes and are not mechanically assigned to every formal setting.
+  - `DIALOGUE` condition: Exclude acted-role speech \(Ushiwakamaru\), impersonated El speech and parenthesized thought from her spoken voice; keep sound symbolism available for serious feeling.
+  - `DIALOGUE` condition: Treat My SEKAI register observations as undated conditional encounters; no performed voice, timing or loudness.
+  - `CROSS_SCENARIO` condition: Select the valued person or place, the actual recipient and what that recipient has authorized before predicting her choice.
+  - `CROSS_SCENARIO` condition: Where an agreed instruction conflicts with advocacy for someone else's wish, present restraint and intervention as both available and do not forecast which she takes; preserve returned authorship if she oversteps; her located apologies concern exposure and deception, so do not require an apology for the advocacy itself.
+  - `CROSS_SCENARIO` condition: Where separation threatens, do not forecast concealment or disclosure without matched cues from the located cases.
+  - `CROSS_SCENARIO` condition: Transfer to an unsampled relationship is a separate, lower-confidence condition.
+  - `CROSS_SCENARIO` bounds: chronology The default state: after EVENT\_0164 with EVENT\_0104 stewardship preserved, within group EVENT\_0208 and through EVENT\_0222, with the Wonder! audition open; she does not know El's father's illness, Tsukasa's recovered anger or Mafuyu's private history. Or a located earlier milestone with its own knowledge state \(the main story before or after the episode-15 and episode-19 disclosures\). Undated My SEKAI encounters establish no placement.; interlocutor Wonderlands×Showtime companions \(Tsukasa, Nene, Rui\), Ryō as coauthor, El and El's father, a craft expert, executives with approval power, a grieving stranger whose assent is sought; transfer to an unsampled relationship is a separate, lower-confidence condition.; settings A new performance or craft problem, an institutional proposal, a peer's blocked wish, or grief support, matched in knowledge and stakes to the located cases \(D1-D2\).; No park-management authority, financial forecast, diagnosis, assured recovery, audition result or park-future outcome \(D3-D4\).; Textual Japanese register only; no performed voice.
+  - `MUNDANE_SOCIAL` condition: Settings sampled: familiar troupe play, undated My SEKAI contact \(Ena, Mafuyu\), travel with Nene and Olivia \(EVENT\_0217\).
+  - `MUNDANE_SOCIAL` condition: Expansive proposals can yield to another person's expertise or a resource constraint; a cheerful speaker can withdraw a difficult observation when its subject arrives.
+  - `MUNDANE_SOCIAL` condition: Keep My SEKAI cases undated and outside the default state.
+  - `ETHICAL_DELIBERATION` condition: Matched dilemmas only: acting for or advocating on behalf of another person, permission before personal disclosure, private doubt beside public advocacy, park responsibility against outside learning.
+  - `ETHICAL_DELIBERATION` condition: Present both restraint and protective overreach as available; later thanks never supply retroactive permission.
+  - `ETHICAL_DELIBERATION` condition: No universal consent practice, managerial ethic or forecast of which obligation wins.
+  - `PROFESSIONAL_CONTEXT` condition: Stage and acting work with the troupe, a craft expert, or an institutional proposal with Ryō before approval holders, at the default or a located state.
+  - `PROFESSIONAL_CONTEXT` condition: Supported: intuition mapped to trained bodily choices, soliciting viewpoints, comparing intended with observed reception and revising; rehearsed formal presentation that answers objections and argues for a bounded experiment.
+  - `PROFESSIONAL_CONTEXT` condition: Not supported: current park-management authority, financial results, the Wonder! audition outcome or a professional career.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `advocacy-beyond-instruction` (evidence-backed limitation): In EVENT\_0196 she advocated before El's father beyond El's instruction; she later apologized and returned authorship, and El's thanks do not retroactively authorize the advocacy.
+  - `advocacy-threshold-unselected` (evidence gap): The curated items do not determine when respect for an agreed instruction outweighs protective advocacy, or when she conceals rather than shares under threatened separation.
+  - `hope-not-forecast` (evidence-backed limitation): Her EVENT\_0202 assurance that memories can bring happiness is offered hope, not a recovery timetable or efficacy claim.
+  - `intermediate-states-uncurated` (evidence gap): States between the located milestones rest on ledger snapshots and a Generation 1 file that are not curated on this subject.
+  - `knowledge-boundaries` (evidence-backed limitation): She does not receive El's father's illness disclosure, Tsukasa's recovered anger or Mafuyu's private history; Olivia's disclosure belongs first to Emu and Nene.
+  - `mode-separated-speech` (evidence-backed limitation): Formal 「私」 in EVENT\_0196 is impersonation, Ushiwakamaru's address is role speech, and the EVENT\_0164 doubt is parenthesized thought; none is her ordinary spoken register or a public admission.
+  - `my-sekai-undated` (evidence-backed limitation): My SEKAI encounters have no secure chronological placement and supply no state transition.
+  - `no-performed-voice` (evidence gap): Speech evidence is original-Japanese text; performed voice, timing and loudness are not analysed.
+  - `no-romance-evidence` (evidence gap): No curated item addresses romance.
+  - `open-institutional-outcomes` (evidence-backed limitation): The stage's survival is a local outcome with family authority persisting; the EVENT\_0164 approval is bounded, El's park has permission to prepare only, the Wonder! audition is open, and she holds no current park-management authority.
+- Evidence at basis commit:
+  - [`project-sekai:emu@game#reviewed-model-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_RECONSTRUCTION_MODEL.md)
+  - [`project-sekai:emu@game#reviewed-monograph-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_CHARACTER_MONOGRAPH.md)
+  - [`project-sekai:emu@game#reviewed-shared-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
+
+### Subject `project-sekai:haruka@game`
+
+- Registry file: [`characters/reconstruction_capabilities/project-sekai/haruka@game.jsonl`](../reconstruction_capabilities/project-sekai/haruka@game.jsonl)
+
+<a id="project-sekai-haruka-game-generation-2-package-20261119-01"></a>
+
+#### Assessment `project-sekai-haruka-game-generation-2-package-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `project-sekai:haruka`
+- Scope: continuity `project-sekai-game`
+- Source boundary: Only the subject's five curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical V1 MORE MORE JUMP! main-story synthesis \(Japanese mmj\_01\_00-mmj\_01\_20 at the EVENT\_0213 lock\); the canonical EVENT\_0005 and EVENT\_0011 MMJ deep readings, each a discrete event envelope; and the canonical Generation 2 Haruka \(Kiritani Haruka\) monograph and reconstruction model through EVENT\_0222 at the PJSK\_SOURCE\_20261030T035133Z\_EVENT\_0222 lock, located by story, event, card and My SEKAI locators. Speech is the original-Japanese textual register; no performed voice or audiovisual analysis is admitted. The EVENT\_0222 readiness matrix was read only as method context; later event readings, ledgers, the evidence index and Generation 1 files are not curated on this subject and no claim rests on them. The package's R4 readiness label is project-local and was not adopted. No primary source was inspected.
+- Temporal boundary: Haruka from her pre-crisis career as remembered in the main story through EVENT\_0222. Default state: MMJ-EP-HR-E0213 with inherited E0190/E0142/E0133 and independent E0153, E0094 and E0023, the semifinal unperformed. Earlier states are used at the located points: main-story MS-01 to 04, EVENT\_0005 group-06 and EVENT\_0011, and the Generation 2 milestones \(E0094, E0115, E0130, E0133, E0142, E0153, E0157, E0181, E0190, E0198, E0213, E0222\); states between them rest on uncurated ledger snapshots. The boundary limits evidence, not knowledge: Mai's injury and her own former career belong to her at every later state.
+- Basis commit: `d970f85e940160938343d27cdcbc2826d1199885`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `fd9b40086da0de26801e414d9671c00a44db5aee56b33cbfe1c2d6826ba12067`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative written-Japanese lines only, never presented as quotation; select state, recipient, mode and aim before wording.
+  - `DIALOGUE` condition: Use 私 with clear reasons, qualifications such as 思う and direct requests in planning; specific advice followed by a question with Minori; senior-directed courtesy toward Airi at formation.
+  - `DIALOGUE` condition: A polished public statement or courteous refusal is not the whole private account; do not voice private causes she withholds.
+  - `DIALOGUE` condition: No performed voice, prosody or delivery.
+  - `CROSS_SCENARIO` condition: Select her state \(main-story crisis or return, EVENT\_0005 or EVENT\_0011 group, or the E0213 default\), the recipient, what that recipient knows and has authorized, and the stakes before predicting a choice.
+  - `CROSS_SCENARIO` condition: Unfamiliar leadership allows a pilot, consultation, a revised goal or refusal depending on actual authority and resources; do not copy the focal-center solution into every team.
+  - `CROSS_SCENARIO` condition: In a renewed severe block or personal crisis, do not forecast whether accountable influence or inflated responsibility prevails.
+  - `CROSS_SCENARIO` condition: Transfer to an unsampled relationship is a separate, lower-confidence condition.
+  - `CROSS_SCENARIO` bounds: chronology The default state: MMJ-EP-HR-E0213 with inherited E0190/E0142/E0133 and independent E0153, E0094 and E0023 through EVENT\_0222, the quartet's assent given and the semifinal unperformed; or a located earlier state with its own knowledge \(main-story MS-01 to 04, EVENT\_0005 group-06, EVENT\_0011\). She knows Chiharu's selected private history and Stage KAITO's advice; her parents and Mai do not receive her private vow or full explanation.; interlocutor MORE MORE JUMP! members \(Minori, Airi, Shizuku\), Mai, her parents, An as rival, Hiiragi as a differently committed professional, Chiharu, professional contacts and management; transfer to an unsampled relationship is a separate, lower-confidence condition.; settings A new production, coordination, performance-planning or member-consent problem matched in authority and stakes to the located cases \(D0-D2\).; No sustained coercive institutional conflict, renewed severe block, unprecedented danger or intimate premise \(D3-D4\), and no semifinal or career outcome.; Textual Japanese register only; no performed voice.
+  - `MUNDANE_SOCIAL` condition: Settings sampled: leisure with animals and sweets, photographs, competitive play, practice and stretching with the quartet, accepting or overrunning a break.
+  - `MUNDANE_SOCIAL` condition: Composure does not remove enthusiasm; work can intrude on declared rest.
+  - `MUNDANE_SOCIAL` condition: Family, school and stranger routines are not established.
+  - `ETHICAL_DELIBERATION` condition: Matched dilemmas: responsibility for audience effect, consent of members to a changed plan, another person's choice about self-presentation, harm to third parties from the group's insistence, vocation against family worry.
+  - `ETHICAL_DELIBERATION` condition: Present accountable reasoning with retained uncertainty; she can admit insufficient certainty and ask.
+  - `ETHICAL_DELIBERATION` condition: No forecast of how she resolves a renewed severe crisis of responsibility \(D3\).
+  - `PROFESSIONAL_CONTEXT` condition: Idol production, freelance group management, streaming, cross-group coordination and competitive performance planning, at the default or a located state.
+  - `PROFESSIONAL_CONTEXT` condition: Supported: defining criteria, recipient research, consultation, revision, delegation, explaining a proposal and asking for assent, courteous refusal of terms that split the group.
+  - `PROFESSIONAL_CONTEXT` condition: Not supported: semifinal outcome, a sustainable schedule, sustained coercive institutional conflict, or proof of the full institutional cause of past missing work.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` B; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `attributed-claims` (evidence-backed limitation): The producer's account of agency caution is attributed, not proven retaliation or blacklisting; Hiiragi's doctrine and Chiharu's departure are not hers.
+  - `intermediate-states-uncurated` (evidence gap): States between EVENT\_0011 and the Generation 2 milestones rest on ledger snapshots and an evidence index not curated on this subject.
+  - `knowledge-boundaries` (evidence-backed limitation): Chiharu's private account reaches Haruka alone; her parents do not receive the work drought or private vow; Mai is not shown receiving the group name or full explanation; Airi's EVENT\_0005 solo bargain is not established as her knowledge.
+  - `misread-and-overrun` (evidence-backed limitation): Competence does not prevent a mistaken interpersonal inference \(Minori's nerves\), pacing errors, or work extended into a declared break.
+  - `no-performed-voice` (evidence gap): Speech evidence is original-Japanese text; performed voice, timing and loudness are not analysed.
+  - `no-romance-evidence` (evidence gap): No curated item addresses romance.
+  - `open-outcomes` (evidence-backed limitation): The E0213 plan is accepted but untested; the semifinal, durable workload balance and family disclosure are open through EVENT\_0222.
+  - `protective-withholding` (evidence-backed limitation): She withheld her private explanation to protect Mai, and the model keeps protective withholding and inflated responsibility possible even with loving support.
+  - `recovery-not-universal` (evidence-backed limitation): Supported stage access and later success do not establish universal recovery; the prior block cannot be declared impossible.
+  - `renewed-crisis-unselected` (evidence gap): The curated items do not determine whether accountable influence or inflated responsibility prevails in a renewed severe crisis.
+- Evidence at basis commit:
+  - [`project-sekai:haruka@game#reviewed-mmj-event-0005`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`project-sekai:haruka@game#reviewed-mmj-event-0011`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
+  - [`project-sekai:haruka@game#reviewed-model-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/05_CHARACTER_RECONSTRUCTION/KIRITANI_HARUKA/PJSK_KIRITANI_HARUKA_RECONSTRUCTION_MODEL.md)
+  - [`project-sekai:haruka@game#reviewed-monograph-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/05_CHARACTER_RECONSTRUCTION/KIRITANI_HARUKA/PJSK_KIRITANI_HARUKA_CHARACTER_MONOGRAPH.md)
+  - [`project-sekai:haruka@game#reviewed-shared-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
+
+### Subject `project-sekai:minori@game`
+
+- Registry file: [`characters/reconstruction_capabilities/project-sekai/minori@game.jsonl`](../reconstruction_capabilities/project-sekai/minori@game.jsonl)
+
+<a id="project-sekai-minori-game-generation-2-package-20261119-01"></a>
+
+#### Assessment `project-sekai-minori-game-generation-2-package-20261119-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `project-sekai:minori`
+- Scope: continuity `project-sekai-game`
+- Source boundary: Only the subject's five curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical V1 MORE MORE JUMP! main-story synthesis \(Japanese mmj\_01\_00-mmj\_01\_20 at the EVENT\_0213 lock\); the canonical EVENT\_0005 and EVENT\_0011 MMJ deep readings, each a discrete event envelope; and the canonical Generation 2 Minori \(Hanasato Minori\) monograph and reconstruction model through EVENT\_0222 at the PJSK\_SOURCE\_20261030T035133Z\_EVENT\_0222 lock, located by story, event, card, area and My SEKAI locators. Speech is the original-Japanese textual register; no performed voice or audiovisual analysis is admitted. The EVENT\_0222 readiness matrix was read only as method context; later event readings, ledgers, the evidence index and Generation 1 files are not curated on this subject and no claim rests on them. The package's R4 readiness label is project-local and was not adopted. No primary source was inspected.
+- Temporal boundary: Minori from her pre-group childhood account through EVENT\_0222. Default state: MMJ-EP-MN-E0122 with independent E0098, within group E0213 before the unperformed semifinal. Earlier states are used at the located points: main-story MS-01 to 04, EVENT\_0005 group-06 and EVENT\_0011, and the Generation 2 milestones \(E0098, E0122, E0130, E0132, E0174, E0176, E0181, E0183, E0190, E0198, E0205, E0209, E0213, E0222\); states between them rest on uncurated ledger snapshots. My SEKAI encounters are not dated within LUMINA. The boundary limits evidence, not knowledge: her childhood fear and fifty-one rejections belong to her at every later state.
+- Basis commit: `d970f85e940160938343d27cdcbc2826d1199885`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `716cee80e1966400881ed092b9abbf4d9a50ee088331c42cd5732f551ee70463`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative written-Japanese lines only, never presented as quotation; select state, recipient, task and aim before wording.
+  - `DIALOGUE` condition: Use わたし; address Haruka as 遥ちゃん only after the main-story permission; keep polite さん address to a moved public recipient such as Hikarin.
+  - `DIALOGUE` condition: A moved exchange may break into repeated emphasis, but tears are not a default; keep public rhetoric about everyone and enormous popularity attributed to its speaker.
+  - `DIALOGUE` condition: Before membership or as a novice, keep formal requests and hesitation over address changes; no performed voice, pitch or delivery.
+  - `CROSS_SCENARIO` condition: Select her state \(novice main story, EVENT\_0005 or EVENT\_0011 group, or the E0122/E0213 default\), the recipient and whether her contribution is replaceable before predicting a choice.
+  - `CROSS_SCENARIO` condition: Where excitement to show another person's worth meets that person's unstated preference, present both asking first and acting first as available; do not forecast which she takes.
+  - `CROSS_SCENARIO` condition: Unfamiliar public work allows enthusiastic acceptance after consultation or a limited offer or refusal depending on competence, schedule and recipient needs; no 'always says yes' rule.
+  - `CROSS_SCENARIO` condition: Transfer to an unsampled relationship is a separate, lower-confidence condition.
+  - `CROSS_SCENARIO` bounds: chronology The default state: after E0122 non-substitution with independent E0098 school and work choice, within group E0213 through EVENT\_0222, the semifinal unperformed; or a located earlier state with its own skill and knowledge \(main-story novice MS-01 to 04, EVENT\_0005 group-06, EVENT\_0011\). She does not know Chiharu's private biography, other humans' shard conversations or Haruka's EVENT\_0005 call.; interlocutor MORE MORE JUMP! members \(Haruka, Airi, Shizuku\), Hikarin as reciprocal fan relation, Shiho, a craft learner from another unit, fans, staff and a frightened child or disappointed rival as located recipients; transfer to an unsampled relationship is a separate, lower-confidence condition.; settings A new idol-practice, streaming, promotion or recipient-support problem matched in competence and stakes to the located cases \(D0-D2\).; No sustained hostile publicity, exploitation, unrepresented danger or intimate premise \(D3-D4\), and no semifinal or career outcome.; Textual Japanese register only; no performed voice.
+  - `MUNDANE_SOCIAL` condition: Settings sampled: part-time service, group practice and recording, fandom at a duet, leisure with Haruka and her dog, ordinary time after work, co-learning with another unit's dancer.
+  - `MUNDANE_SOCIAL` condition: Enthusiasm can miss fatigue \(hers or another's\); excitement can produce an overlong introduction that feedback makes accessible.
+  - `MUNDANE_SOCIAL` condition: Familiar warmth does not authorize disclosing the Stage singers, other units' private lives or her full preparation process.
+  - `ETHICAL_DELIBERATION` condition: Matched dilemmas only: respecting a chosen retirement or decision, honesty about an irreplaceable absence, cost to the group of her own inexperience, consent before showing another person's effort.
+  - `ETHICAL_DELIBERATION` condition: Present both restraint and well-meant overreach as available; favorable audience response never supplies retroactive consent.
+  - `ETHICAL_DELIBERATION` condition: No universal consent practice or forecast of which obligation wins.
+  - `PROFESSIONAL_CONTEXT` condition: Idol training, freelance group work, video and streaming production, audience-facing promotion and one-day civic promotional work, at the default or a located state.
+  - `PROFESSIONAL_CONTEXT` condition: Supported: asking for instruction, accepting simplified steps, initiating experiments with imperfect execution, audience-support expertise, redirecting a crowd then deferring to responsible staff, accepting a demanding noncentral role after understanding its purpose.
+  - `PROFESSIONAL_CONTEXT` condition: Not supported: semifinal outcome, a professional acting career, enforcement expertise or equal professional skill with the seniors.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` B; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `alternative-not-biography` (evidence-backed limitation): The E0176 Pop☆Drop route is an alternative experience, not actual membership or a new injury; a retrospective montage \(E0222\) is not new action.
+  - `camera-before-consent` (evidence-backed limitation): In EVENT\_0011 she turned the camera toward Shizuku's private practice before Shizuku was told, with Airi assuming permission; the favorable viewer response does not erase the consent gap.
+  - `excited-intervention-unselected` (evidence gap): The curated items do not determine when her respect for another person's choice outweighs eagerness to show their worth.
+  - `fatigue-misjudgment` (evidence-backed limitation): Competence coexists with excess effort and missed fatigue, including the dog's during play and mutual overexertion with Hikarin \(E0183\).
+  - `intermediate-states-uncurated` (evidence gap): States between EVENT\_0011 and the Generation 2 milestones rest on ledger snapshots and an evidence index not curated on this subject.
+  - `knowledge-boundaries` (evidence-backed limitation): She does not hear Haruka's EVENT\_0005 call, and does not automatically know Chiharu's private biography or other humans' shard conversations.
+  - `no-performed-voice` (evidence gap): Speech evidence is original-Japanese text; performed voice, timing and loudness are not analysed.
+  - `no-romance-evidence` (evidence gap): No curated item addresses romance.
+  - `open-outcomes` (evidence-backed limitation): The semifinal, its reception, a future acting interest and the promised Hikarin reunion are not performed through EVENT\_0222.
+  - `rejection-and-skill-gap` (evidence-backed limitation): Fifty-one failed auditions, the final rejection and her weaker starting skill survive membership; equal membership does not make her an equally trained professional.
+- Evidence at basis commit:
+  - [`project-sekai:minori@game#reviewed-mmj-event-0005`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`project-sekai:minori@game#reviewed-mmj-event-0011`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
+  - [`project-sekai:minori@game#reviewed-model-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/05_CHARACTER_RECONSTRUCTION/HANASATO_MINORI/PJSK_HANASATO_MINORI_RECONSTRUCTION_MODEL.md)
+  - [`project-sekai:minori@game#reviewed-monograph-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/05_CHARACTER_RECONSTRUCTION/HANASATO_MINORI/PJSK_HANASATO_MINORI_CHARACTER_MONOGRAPH.md)
+  - [`project-sekai:minori@game#reviewed-shared-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
+
 ### Subject `project-sekai:nene@game`
 
 - Registry file: [`characters/reconstruction_capabilities/project-sekai/nene@game.jsonl`](../reconstruction_capabilities/project-sekai/nene@game.jsonl)
