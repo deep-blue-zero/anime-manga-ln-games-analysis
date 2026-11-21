@@ -99,3 +99,35 @@ Counts: main narrative 160, apparatus 7, extras 3, advertising 1. There is no ne
 | FXK-SO-004 legibility of dense screens and small numerals | Completed for V01, with one value unreadable by design (i0141) recorded in the reading |
 
 FXK-SO-001 and FXK-SO-005 are unchanged by V01.
+
+## V02 coverage
+
+Recorded by the V02 principal for run FXK-RUN-20261119-V01-V10 and accepted with the V02 transaction by the run coordinator on 2026-11-21. The [V02 deep reading](readings/FX_KURUMI_V02_DEEP_READING.md) holds the full receipt; the [V02 checkpoint](checkpoints/FX_KURUMI_V02_CHECKPOINT.md) records each role's coverage and every disposition.
+
+- **Witness.** FXK-JP-V02-W01, the second collected volume of 「FX戦士くるみちゃん」 (原作 でむにゃん, 作画 炭酸だいすき): 171 image occurrences at 1441×2048, right-to-left, publisher-package lineage. The colophon (i0170) gives e-book ver.001, published 2022-01-21 by KADOKAWA (MFコミックス フラッパーシリーズ), first serialized in 月刊コミックフラッパー 2021年8月号・9月号、11月号・12月号、2022年1月号: five issues for the five chapters. Colour occurrences: i0001, i0003–i0006, i0166–i0169.
+- **Occurrences reviewed.** The principal opened every occurrence i0001–i0171: the main narrative in spine order first, and the covers, flap, wraparound and under-jacket images only after the main-narrative exit freeze. Each of the two independent specialists also opened all 171 occurrences, in spine order. The reviewer triaged every occurrence on contact sheets and opened the decisive pages at reading resolution or in crops.
+- **Page order, folios and spreads.** The printed folio equals the occurrence number minus 2 through the p-NNN run (p.1 = i0003 to p.163 = i0165; printed folios checked, for example "4" on i0006 and "159" on i0161). Even occurrences are right-hand pages and odd ones left-hand pages, so openings are (even | odd); the spine properties and art across the gutter confirm this. Spreads: i0004+i0005 (the title spread), i0128+i0129 (one sentence across the pair) and i0158+i0159 (the designed four-balance spread). No missing, duplicated or out-of-order page was found.
+
+| Component | Occurrences | Notes |
+| --- | --- | --- |
+| Apparatus: front cover and flap | i0001, i0002 | Read after the main-narrative freeze; promotional, not diegetic |
+| Main narrative | i0003–i0102, i0105–i0134, i0137–i0162 (156) | 第6話 i0003–i0040 (a colour opening i0003, "一週間後——", with the 第6話 box on i0005); 第7話 i0041–i0072; 第8話 i0073–i0102; 第9話 i0105–i0134; 第10話 i0137–i0162, ending "TO BE CONTINUED…". V02 has no "第N集" strip |
+| Apparatus: separators | i0103–i0104, i0135–i0136, i0163 | Black grid pages with the series logo |
+| Extra: author's afterword strip | i0164 | 「巻末のごあいさつ」; classified only; real-world paratext, not narrative evidence |
+| Extra: candlestick tutorial | i0165 | 「巻末特典! 原作者によるローソク足講座!」; classified only |
+| Apparatus: wraparound jacket | i0166–i0167 | Publisher blurb and a collage of V02 panels; paratext |
+| Extras: under-jacket bonuses | i0168–i0169 | Mebuki design notes; the author's 2021 crypto strip; classified only; not narrative evidence |
+| Apparatus: colophon | i0170 | Bibliographic |
+| Advertising: vendor page | i0171 | Excluded |
+
+Counts: main narrative 156, apparatus 10, extras 4, advertising 1. There is no next-volume preview and no blank occurrence.
+
+- **Legibility and unresolved numerals.** All reading copies are legible. Every balance, trade and result box, chart axis and phone screen relied on was checked in enlarged crops; the reading's receipt lists them. Unreadable by design: the glitched recalled P/L digits of the 第9話 memory collage (i0105–i0106), of which i0106 shows only 「−3,[?][?]1,[?]90円」; they are not reconstructed. The i0073 wall lettering is unreadable and the i0162 abyss numerals are partial (「103.00」). Kept as printed, not repaired: the comma-for-decimal lettering of Mebuki's GBP/JPY rates (「170,897円」, 「170,702円」; i0070, i0087), which the box's own pips and yen settle as 170.897 → 170.702; the recalled tiles 「2,126,400」 and 「-1,265,300」 (i0133), which match no accepted V01 figure; and the unlabelled closing chart (axis 100.00–105.50, i0161), whose pair is not assigned.
+
+| Obligation | V02 state |
+| --- | --- |
+| FXK-SO-002 ordered image map and duplicate check | Visual order confirmed for V02: every occurrence viewed in spine order, folio sequence continuous, no duplicates or gaps |
+| FXK-SO-003 component classification | Completed for V02 as tabled above; extras and advertising classified by glance and not used as narrative evidence |
+| FXK-SO-004 legibility of dense screens and small numerals | Completed for V02, with the glitched memory digits (i0105–i0106) unreadable by design and recorded in the reading |
+
+FXK-SO-001 and FXK-SO-005 are unchanged by V02.
