@@ -30,6 +30,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`kimishinu`](characters/index/kimishinu.md) | 3 |
 | [`konosuba`](characters/index/konosuba.md) | 137 |
 | [`legend-of-the-galactic-heroes`](characters/index/legend-of-the-galactic-heroes.md) | 2 |
+| [`lycoris-recoil`](characters/index/lycoris-recoil.md) | 2 |
 | [`maebashi-witches`](characters/index/maebashi-witches.md) | 7 |
 | [`mass-effect`](characters/index/mass-effect.md) | 2 |
 | [`medalist`](characters/index/medalist.md) | 2 |
@@ -280,6 +281,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Ikumi Mito](characters/index/shokugeki-no-soma.md#ikumi-mito) | Shokugeki no Soma manga | `shokugeki-no-soma:ikumi-mito@manga` | — |
 | [Imagase](characters/index/cornered-mouse.md#imagase) | Japanese manga continuity | `cornered-mouse:imagase@manga` | 今ヶ瀬渉 |
 | [Inori Yuitsuka](characters/index/medalist.md#inori-yuitsuka) | Japanese manga | `medalist:inori-yuitsuka@manga` | 結束いのり; Yuitsuka Inori |
+| [Inoue Takina](characters/index/lycoris-recoil.md#inoue-takina) | Lycoris Recoil television anime | `lycoris-recoil:inoue-takina@television-anime` | — |
 | [Inuyama Aoi](characters/index/yuru-camp.md#inuyama-aoi) | Japanese manga | `yuru-camp:inuyama-aoi@manga` | 犬山あおい |
 | [Iris](characters/index/konosuba.md#iris) | Original light-novel continuity, accepted Iris cohort 01 | `konosuba:iris@original-light-novel` | アイリス; イリス |
 | [Isaac Walker](characters/index/silent-witch.md#isaac-walker) | Silent Witch Japanese light novels | `silent-witch:isaac-walker@light-novel` | アイザック・ウォーカー; Felix Arc Ridill; Ike; フェリクス・アーク・リディル |
@@ -451,6 +453,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Nene](characters/index/watayuri.md#nene) | Japanese manga continuity | `watayuri:nene@manga` | Saionji; Nishidera Nene; Saionji Nene; 西園寺; 西園寺寧々; 西寺寧々 |
 | [Nene](characters/index/project-sekai.md#nene) | Project SEKAI game — Wonderlands×Showtime | `project-sekai:nene@game` | — |
 | [Ninomiya Asuka](characters/index/the-idolmaster.md#ninomiya-asuka) | Cinderella Girls mobile games | `the-idolmaster:ninomiya-asuka@cinderella-girls-mobile-games` | — |
+| [Nishikigi Chisato](characters/index/lycoris-recoil.md#nishikigi-chisato) | Lycoris Recoil television anime | `lycoris-recoil:nishikigi-chisato@television-anime` | — |
 | [Nitta Minami](characters/index/the-idolmaster.md#nitta-minami) | Cinderella Girls mobile games | `the-idolmaster:nitta-minami@cinderella-girls-mobile-games` | — |
 | [Nomasa Rei](characters/index/blue-archive.md#nomasa-rei) | Blue Archive game | `blue-archive:nomasa-rei@game` | 野正レイ |
 | [Nonohara Hime](characters/index/tokyo-7th-sisters.md#nonohara-hime) | Tokyo 7th Sisters game | `tokyo-7th-sisters:nonohara-hime@game` | — |
