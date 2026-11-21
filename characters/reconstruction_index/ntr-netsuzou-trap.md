@@ -6,6 +6,60 @@ Recorded assessments of subjects in the `ntr-netsuzou-trap` namespace of the [Ch
 
 ## Recorded assessments
 
+### Subject `ntr-netsuzou-trap:hotaru-mizushina@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/ntr-netsuzou-trap/hotaru-mizushina@manga.jsonl`](../reconstruction_capabilities/ntr-netsuzou-trap/hotaru-mizushina@manga.jsonl)
+
+<a id="ntr-netsuzou-trap-hotaru-mizushina-manga-monograph-20261121-01"></a>
+
+#### Assessment `ntr-netsuzou-trap-hotaru-mizushina-manga-monograph-20261121-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `ntr-netsuzou-trap:hotaru-mizushina`
+- Scope: continuity `ntr-netsuzou-trap-manga`
+- Source boundary: Only the subject's two curated REVIEWED items at basis\_commit, each read in full with its front matter: the active\_provisional mainline literary monograph on Hotaru Mizushina \(exact Japanese manga V01-V06 and explicitly routed embedded extras, located by VNN SNNNN image order\), and the canonical LateWinter character addendum, relied on for its table row and its Hotaru section \(the complete NTR-JP-LW afterstory, principally S0005-S0020\). Speech is written Japanese as the monograph quotes and characterizes it; no acoustic voice or anime performance is admitted. The project's Hotaru evidence ledger, reconstruction model, speech and relationship ledgers, sequential readings and validation audits are cited inside the items but are not curated on this subject, and no claim rests on them beyond what the two items state. The adult parallel continuity, adaptations, translations and other external supplements are excluded, as the items exclude them. No primary source was inspected.
+- Temporal boundary: Hotaru from the opening portrayal \(V01\) through the LateWinter afterstory, two or three months before graduation. Default state: LateWinter, after the V06 return to school, with direct Yuma-selective interest, refusal of manufactured friendship, a current account of her father and childhood loneliness, and fear and incomplete trust not shown resolved. Earlier states are used at their located volume and image: V01-V02 bright initiative with a withheld face and claim-reducing frames \(practice, special friend, girls' contact that does not count\); V03 apologies, the private nine-truths thought and the work conflict; V04 adult-togetherness wishes, newlywed play and the aquarium charade under the arrangement's request term; V05 the no-count reply after Yuma names her \(S0142-0143\) and the pregnancy report; V06 the public denial after the photograph \(S0017-0021\), the confession disbelief \(S0077-0081\), departure after the shared morning, the anti-burden call \(S0098-0099\), the reunion objections \(S0133-0145\), the trust-fear disclosure, the coat-grip and the return \(S0166-0167\). The boundary limits evidence, not knowledge: her childhood household and loneliness belong to her at every state, though the reader learns them only in V06 and LateWinter.
+- Basis commit: `2b23daa702fdcf41a4fc63df10ea2f8a389464d2`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `4aa5eb5db975d2ca2d2963730ae0904b390ac6b2984a47d4f11b4a350c302e67`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative written-Japanese lines only, never presented as quotation; choose the state and audience first.
+  - `DIALOGUE` condition: Address Yuma as 由真ちゃん in every state; use 私; polite forms only in the service setting.
+  - `DIALOGUE` condition: Before acknowledgment, closeness comes through claim-reducing frames and evasions; at the LateWinter default, private statements of interest in Yuma can be short and direct.
+  - `DIALOGUE` condition: Fear or need is stated briefly and plainly when it is stated at all; do not make her always coy or always articulate.
+  - `DIALOGUE` condition: No acoustic voice or anime performance.
+  - `CROSS_SCENARIO` condition: Select the state first: the LateWinter default, or a located volume state with its own frames.
+  - `CROSS_SCENARIO` condition: When closeness is offered, present both local acceptance and later self-removal as available; do not forecast which wins.
+  - `CROSS_SCENARIO` condition: Objections to control of her work, money or privacy are current claims, not disguised requests for rescue.
+  - `CROSS_SCENARIO` condition: At the default, she refuses manufactured social investment and names Yuma as her exception; a wider-friendship plan is unestablished.
+  - `CROSS_SCENARIO` condition: No sexual or intimate content, and no determination of consent from later attachment.
+  - `CROSS_SCENARIO` bounds: chronology LateWinter, after the V06 return and before graduation; or a located volume state with its own knowledge and frames. Nothing after LateWinter is known.; interlocutor Yuma as the central relationship; Fujiwara, her father and clients at their located states; Takeda and peers only as thinly sampled relations; any other relationship is a separate, lower-confidence transfer.; settings School, her room or home with Yuma, her service job, or a family call matched to the located cases.; No sexual content, no cohabitation, graduation or career outcome.; Written Japanese only.
+  - `MUNDANE_SOCIAL` condition: Settings sampled: service work, school, her room with Yuma, simple food, roomshare and newlywed play, receiving a visitor, a family call.
+  - `MUNDANE_SOCIAL` condition: Practical help and small hospitality alongside uneven domestic and school competence.
+  - `MUNDANE_SOCIAL` condition: She declines social investment she does not want, even when it is urged as good for her.
+  - `ROMANCE_RELATIONSHIP` condition: Non-explicit relational conduct only: claim-reducing frames before acknowledgment, disbelief of a late confession, small staying gestures, and direct selective interest after acknowledgment.
+  - `ROMANCE_RELATIONSHIP` condition: No sexual content; earlier protested contact is never treated as wanted, and later attachment gives no retroactive benevolence to earlier harms.
+  - `ROMANCE_RELATIONSHIP` condition: No negotiated exclusivity, completed trust or repair is assumed.
+  - `PROFESSIONAL_CONTEXT` condition: Service politeness, practical tasks and earning and saving money as located in V03 and V06.
+  - `PROFESSIONAL_CONTEXT` condition: She values income and privacy and objects to others restricting her work; she may also control another person's options at work, as with Yuma.
+  - `PROFESSIONAL_CONTEXT` condition: No paid sexual-service fact and no safety certification are established.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `forecast-results` (evidence-backed limitation): The monograph reports that H-R03 failed its first later test, H-R04 remains NDO and H-R06 retains safety uncertainty; the addendum reports H-LW-R01 as learned from the scene and untested and the H-PC-05 care response as partial.
+  - `future-unwritten` (evidence gap): Nothing after LateWinter is admitted: graduation, cohabitation, work and any negotiated boundaries are unknown.
+  - `medical-and-permission-uncertain` (evidence-backed limitation): The V05 pregnancy is reported possible and then negative with no clinical result, and no source establishes V01 room permission.
+  - `monograph-provisional` (evidence-backed limitation): The mainline monograph's authority status is active\_provisional, so claims resting on it are provisional.
+  - `no-diagnosis-or-onset` (evidence-backed limitation): No diagnosis is made, the onset of her attachment is undated, and the family history is context rather than a universal causal verdict.
+  - `no-retroactive-benevolence` (evidence-backed limitation): Later vulnerability and attachment do not turn her early boundary crossings, categorical ridicule or public humiliation into benevolent acts, and do not turn her work, money and privacy objections into disguises for needing rescue.
+  - `operational-instruments-uncurated` (evidence gap): The Hotaru evidence ledger, reconstruction model, speech and relationship ledgers and validation audits are not curated on this subject; no decision policy or validation result is cited.
+  - `stay-or-withdraw-open` (evidence-backed limitation): Both items leave open whether accepted closeness draws staying or self-removal: the V06 departure follows the shared morning and is explained retrospectively by convergent hurt, anti-burden and fear, with practical independence also compatible, and LateWinter shows fear and incomplete trust not resolved.
+  - `withheld-interior` (evidence-backed limitation): The private nine-truths thought does not identify the false clause, the S0100 aside has an open referent, and the departure decision is not shown inwardly.
+  - `written-voice-only` (evidence-backed limitation): Her voice is written Japanese only; no acoustic delivery or imported anime performance may be inferred.
+- Evidence at basis commit:
+  - [`ntr-netsuzou-trap:hotaru-mizushina@manga#reviewed-latewinter-addendum`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2b23daa702fdcf41a4fc63df10ea2f8a389464d2/series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_LATEWINTER_CHARACTER_ADDENDA.md)
+  - [`ntr-netsuzou-trap:hotaru-mizushina@manga#reviewed-mainline-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2b23daa702fdcf41a4fc63df10ea2f8a389464d2/series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_HOTARU_MONOGRAPH.md)
+
 ### Subject `ntr-netsuzou-trap:yuma-okazaki@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/ntr-netsuzou-trap/yuma-okazaki@manga.jsonl`](../reconstruction_capabilities/ntr-netsuzou-trap/yuma-okazaki@manga.jsonl)
