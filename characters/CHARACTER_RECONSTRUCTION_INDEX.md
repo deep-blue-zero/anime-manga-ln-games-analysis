@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 198; `STALE` 1; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 200; `STALE` 1; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -43,10 +43,10 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 42 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 2 | 2 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
-| [`project-sekai`](reconstruction_index/project-sekai.md) | 6 | 7 |
+| [`project-sekai`](reconstruction_index/project-sekai.md) | 7 | 8 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 21 | 25 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
-| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 15 | 15 |
+| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 16 | 16 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
 | [`silent-witch`](reconstruction_index/silent-witch.md) | 4 | 4 |
 | [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
@@ -190,6 +190,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `peach-girl:okayasu-kairi@manga` | [`peach-girl-okayasu-kairi-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-okayasu-kairi-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `peach-girl:okayasu-ryo@manga` | [`peach-girl-okayasu-ryo-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-okayasu-ryo-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `peach-girl:tojigamori-kazuya@manga` | [`peach-girl-tojigamori-kazuya-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-tojigamori-kazuya-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
+| `project-sekai:airi@game` | [`project-sekai-airi-game-generation-2-package-20261121-01`](reconstruction_index/project-sekai.md#project-sekai-airi-game-generation-2-package-20261121-01) | `CANDIDATE` | `B` | `ceaf6e27f4ab956a72e9f59ffcfc9085b2b0aa9a` |
 | `project-sekai:emu@game` | [`project-sekai-emu-game-generation-2-package-20261119-01`](reconstruction_index/project-sekai.md#project-sekai-emu-game-generation-2-package-20261119-01) | `CANDIDATE` | `B` | `d970f85e940160938343d27cdcbc2826d1199885` |
 | `project-sekai:haruka@game` | [`project-sekai-haruka-game-generation-2-package-20261119-01`](reconstruction_index/project-sekai.md#project-sekai-haruka-game-generation-2-package-20261119-01) | `CANDIDATE` | `B` | `d970f85e940160938343d27cdcbc2826d1199885` |
 | `project-sekai:minori@game` | [`project-sekai-minori-game-generation-2-package-20261119-01`](reconstruction_index/project-sekai.md#project-sekai-minori-game-generation-2-package-20261119-01) | `CANDIDATE` | `B` | `d970f85e940160938343d27cdcbc2826d1199885` |
@@ -232,6 +233,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `shokugeki-no-soma:nakiri-alice@manga` | [`shokugeki-no-soma-nakiri-alice-manga-v2-model-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-alice-manga-v2-model-20261119-01) | `CANDIDATE` | `B` | `75f290763feaa7bfef41770ed3991e4245358905` |
 | `shokugeki-no-soma:nakiri-azami@manga` | [`shokugeki-no-soma-nakiri-azami-manga-v2-monograph-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-azami-manga-v2-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `shokugeki-no-soma:nakiri-erina@manga` | [`shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01) | `CANDIDATE` | `B` | `f4b3164218ddeacb5b94fbe9678d315beed44972` |
+| `shokugeki-no-soma:nakiri-senzaemon@manga` | [`shokugeki-no-soma-nakiri-senzaemon-manga-v2-model-20261121-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-senzaemon-manga-v2-model-20261121-01) | `CANDIDATE` | `C` | `ceaf6e27f4ab956a72e9f59ffcfc9085b2b0aa9a` |
 | `shokugeki-no-soma:saiba-asahi@manga` | [`shokugeki-no-soma-saiba-asahi-manga-v2-monograph-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-saiba-asahi-manga-v2-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `shokugeki-no-soma:shinomiya-kojiro@manga` | [`shokugeki-no-soma-shinomiya-kojiro-manga-v2-model-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-shinomiya-kojiro-manga-v2-model-20261119-01) | `CANDIDATE` | `C` | `aa9c2916aef0012c7456781bd68cc15b738e5e6d` |
 | `shokugeki-no-soma:tadokoro-megumi@manga` | [`shokugeki-no-soma-tadokoro-megumi-manga-v2-monograph-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-tadokoro-megumi-manga-v2-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
