@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan — Current State and Corpus Map"
 artifact_id: FX_KURUMI_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
 series: fx-fighter-kurumi-chan
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Canonical foundation navigation, source admission and execution state"
-source_boundary: "Run FXK-RUN-20261119-V01-V10 authorizes the Japanese collected-manga main narrative V01–V10; no volume accepted yet"
+source_boundary: "Run FXK-RUN-20261119-V01-V10 authorizes the Japanese collected-manga main narrative V01–V10; accepted through V01"
 created: 2026-11-15
-last_updated: 2026-11-19
+last_updated: 2026-11-21
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -27,18 +27,18 @@ project_initialization:
     - FX_KURUMI_SOURCE_REGISTER.md
     - FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: V01
+  next_permitted_operation: V02
 sequential_execution:
   run_id: FXK-RUN-20261119-V01-V10
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V10
-  committed_high_water_mark: NONE
-  next_candidate_operation: V01
+  committed_high_water_mark: V01
+  next_candidate_operation: V02
   confirmation_between_units: false
   run_state: active
-source_admission: "V01–V10 main narrative authorized; each volume admitted at its own frontier; accepted through NONE"
+source_admission: "V01–V10 main narrative authorized; each volume admitted at its own frontier; accepted through V01"
 run_authorization: FXK-RUN-20261119-V01-V10
 supplemental_execution:
   current_state: CLOSED_AWAITING_COMPONENT_ADMISSION
@@ -50,7 +50,7 @@ recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 
 The canonical destination is `series/fx-fighter-kurumi-chan/`. The subject is the Japanese collected manga **FX戦士くるみちゃん**, written by Demunyan and drawn by Tansan Daisuki.
 
-**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner's November 19, 2026 instruction authorizes run **FXK-RUN-20261119-V01-V10**: one `continuous_sequential` run over the Japanese collected manga, authorized start V01, terminal boundary V10, one collected volume per atomic unit and no confirmation between successfully completed volumes. The run is **active**. No volume has been accepted, so the committed high-water mark is **NONE** and the next permitted and candidate operation is **V01**. Each volume is admitted only at its own frontier after the previous volume's transaction closes. The [source register](FX_KURUMI_SOURCE_REGISTER.md#run-activation-verification) records witness verification and the component scope below.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner's November 19, 2026 instruction authorizes run **FXK-RUN-20261119-V01-V10**: one `continuous_sequential` run over the Japanese collected manga, authorized start V01, terminal boundary V10, one collected volume per atomic unit and no confirmation between successfully completed volumes. The run is **active**. V01 has been accepted, so the committed high-water mark is **V01** and the next permitted and candidate operation is **V02**. Each volume is admitted only at its own frontier after the previous volume's transaction closes. The [source register](FX_KURUMI_SOURCE_REGISTER.md#run-activation-verification) records witness verification and the component scope below.
 
 ## Start here
 
@@ -63,6 +63,14 @@ The canonical destination is `series/fx-fighter-kurumi-chan/`. The subject is th
 
 The available range is ten Japanese manga EPUB witnesses, V01–V10. The register records the verified witness identities, package and image inventory, decode results and the actual inspection-lane probe. Reading order, page classification and legibility are confirmed for each volume inside its own transaction, at its own frontier, so that no later volume is exposed early.
 
+## Accepted units
+
+Each accepted volume has a canonical deep reading, a frozen checkpoint that records its multi-agent participation and dispositions, and a frozen entering state. Its rows are in the [decision and evidence ledger](FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER.md) and its coverage is in the [source register](FX_KURUMI_SOURCE_REGISTER.md).
+
+| Volume | Deep reading | Checkpoint | Entering state | Accepted |
+| --- | --- | --- | --- | --- |
+| V01 | [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md) | [V01 checkpoint](checkpoints/FX_KURUMI_V01_CHECKPOINT.md) | [V01 entering state](checkpoints/FX_KURUMI_V01_ENTERING_STATE.md) | 2026-11-21 |
+
 ## Authorized run
 
 | Field | State |
@@ -70,8 +78,8 @@ The available range is ten Japanese manga EPUB witnesses, V01–V10. The registe
 | Run | FXK-RUN-20261119-V01-V10, owner instruction of 2026-11-19; the private instruction receipt is recoverable through the run ID |
 | Mode and unit | `continuous_sequential`; one collected volume |
 | Bounds | Start V01, terminal V10 |
-| Committed high-water mark | NONE |
-| Next candidate | V01 |
+| Committed high-water mark | V01 |
+| Next candidate | V02 |
 | Authorized primary narrative | The Japanese commercial collected manga by Demunyan and Tansan Daisuki, in the supplied witnesses |
 | Not authorized as evidence | The original Web manga, the anime adaptation, translations, external summaries and other separately published narrative |
 | Historical-market concordance | A separate responsibility, not a condition of accepting any reading. Real exchange-rate history never enters a prospective reading |
@@ -99,8 +107,8 @@ Every volume's principal role runs in a fresh context initialized from this entr
 
 | Field | Observed value |
 | --- | --- |
-| Product surface | Antigravity agent application; owner-controlled Windows tool runtime |
-| Model setting | Owner-selected Claude Opus 5.5 (High) for the coordinator. Every role context was launched with the inherit setting; no other model setting was observed |
+| Product surface | Antigravity agent application until 2026-11-21 13:50 (UTC−05:00), when the owner handed the run over; from then, the Claude Code desktop application. Owner-controlled Windows tool runtime throughout |
+| Model setting | Under Antigravity: owner-selected Claude Opus 5.5 (High) for the coordinator, and every role context launched with the inherit setting. Under Claude Code: the coordinator session runs Claude Opus 5.5, and every role context is a separate Claude Code subagent that inherits the coordinator's model; no reasoning-effort setting is recorded for those subagents. No other model setting was observed |
 | Source transport | Local EPUB files read in place; images extracted to a working directory outside Git |
 | Filesystem read and write | VERIFIED |
 | Image inspection (`STILL_IMAGE`) | VERIFIED on 2026-11-19 against a full-resolution V01 page with Japanese lettering and furigana and a 2.5× enlarged crop of small type. Each role context repeats a probe and records it |
