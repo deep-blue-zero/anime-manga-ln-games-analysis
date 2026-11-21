@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 210; `STALE` 1; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 212; `STALE` 1; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -44,6 +44,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 42 |
 | [`ntr-netsuzou-trap`](reconstruction_index/ntr-netsuzou-trap.md) | 2 | 2 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 2 | 2 |
+| [`oreimo`](reconstruction_index/oreimo.md) | 2 | 2 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
 | [`project-sekai`](reconstruction_index/project-sekai.md) | 7 | 8 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 21 | 25 |
@@ -194,6 +195,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `ntr-netsuzou-trap:yuma-okazaki@manga` | [`ntr-netsuzou-trap-yuma-okazaki-manga-monograph-20261121-01`](reconstruction_index/ntr-netsuzou-trap.md#ntr-netsuzou-trap-yuma-okazaki-manga-monograph-20261121-01) | `CANDIDATE` | `C` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `one-punch-man:bang@manga` | [`one-punch-man-bang-manga-v04-v37-distributed-20261029-01`](reconstruction_index/one-punch-man.md#one-punch-man-bang-manga-v04-v37-distributed-20261029-01) | `CANDIDATE` | `D` | `6cab13c6799a7f6488fabbdef96804643979de08` |
 | `one-punch-man:saitama@manga` | [`one-punch-man-saitama-manga-v01-v37-dedicated-ledger-20261116-01`](reconstruction_index/one-punch-man.md#one-punch-man-saitama-manga-v01-v37-dedicated-ledger-20261116-01) | `CANDIDATE` | `B` | `b4f5d3d63d5a3212791be8635579c22bbc5e3569` |
+| `oreimo:kosaka-kirino@original-light-novels` | [`oreimo-kosaka-kirino-original-light-novels-v1-core-deep-dive-20261121-01`](reconstruction_index/oreimo.md#oreimo-kosaka-kirino-original-light-novels-v1-core-deep-dive-20261121-01) | `CANDIDATE` | `C` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
+| `oreimo:kosaka-kyousuke@original-light-novels` | [`oreimo-kosaka-kyousuke-original-light-novels-v1-core-deep-dive-20261121-01`](reconstruction_index/oreimo.md#oreimo-kosaka-kyousuke-original-light-novels-v1-core-deep-dive-20261121-01) | `CANDIDATE` | `C` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
 | `peach-girl:adachi-momo@manga` | [`peach-girl-adachi-momo-manga-v01-v18-dossier-20261025-01`](reconstruction_index/peach-girl.md#peach-girl-adachi-momo-manga-v01-v18-dossier-20261025-01) | `CANDIDATE` | `D` | `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8` |
 | `peach-girl:aki-misao@manga` | [`peach-girl-aki-misao-manga-v01-v18-dossier-20261113-01`](reconstruction_index/peach-girl.md#peach-girl-aki-misao-manga-v01-v18-dossier-20261113-01) | `CANDIDATE` | `D` | `0bae19f328c3fdef82047e5753568fbb8478daed` |
 | `peach-girl:aki-misao@manga` | [`peach-girl-aki-misao-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-aki-misao-manga-v01-v18-dossier-20261110-01) | `SUPERSEDED` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
