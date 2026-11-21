@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 206; `STALE` 1; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 210; `STALE` 1; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -34,12 +34,12 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`idoly-pride`](reconstruction_index/idoly-pride.md) | 1 | 1 |
 | [`kamakura-sho`](reconstruction_index/kamakura-sho.md) | 2 | 5 |
 | [`kimishinu`](reconstruction_index/kimishinu.md) | 1 | 1 |
-| [`konosuba`](reconstruction_index/konosuba.md) | 16 | 16 |
+| [`konosuba`](reconstruction_index/konosuba.md) | 19 | 19 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 2 | 2 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`medalist`](reconstruction_index/medalist.md) | 2 | 2 |
-| [`monogatari-series`](reconstruction_index/monogatari-series.md) | 1 | 1 |
+| [`monogatari-series`](reconstruction_index/monogatari-series.md) | 2 | 2 |
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
 | [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 42 |
 | [`ntr-netsuzou-trap`](reconstruction_index/ntr-netsuzou-trap.md) | 2 | 2 |
@@ -112,7 +112,10 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `konosuba:chris-eris@original-light-novel` | [`konosuba-chris-eris-original-light-novel-expanded-model-20261121-01`](reconstruction_index/konosuba.md#konosuba-chris-eris-original-light-novel-expanded-model-20261121-01) | `CANDIDATE` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `konosuba:darkness@original-light-novel` | [`konosuba-darkness-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-darkness-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `B` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:demon-king@original-light-novel` | [`konosuba-demon-king-ln-main17-u013-u014-monograph-20261026-01`](reconstruction_index/konosuba.md#konosuba-demon-king-ln-main17-u013-u014-monograph-20261026-01) | `CANDIDATE` | `E` | `c1ce63553e42527cebd7e6e4a665429c69619c88` |
+| `konosuba:duke@original-light-novel` | [`konosuba-duke-original-light-novel-expanded-model-20261121-01`](reconstruction_index/konosuba.md#konosuba-duke-original-light-novel-expanded-model-20261121-01) | `CANDIDATE` | `C` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
+| `konosuba:dust@original-light-novel` | [`konosuba-dust-original-light-novel-expanded-model-20261121-01`](reconstruction_index/konosuba.md#konosuba-dust-original-light-novel-expanded-model-20261121-01) | `CANDIDATE` | `C` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
 | `konosuba:heidel@original-light-novel` | [`konosuba-heidel-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-heidel-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
+| `konosuba:iris@original-light-novel` | [`konosuba-iris-original-light-novel-expanded-model-20261121-01`](reconstruction_index/konosuba.md#konosuba-iris-original-light-novel-expanded-model-20261121-01) | `CANDIDATE` | `B` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
 | `konosuba:karen-donnelly@original-light-novel` | [`konosuba-karen-donnelly-original-light-novel-calibration-20261116-01`](reconstruction_index/konosuba.md#konosuba-karen-donnelly-original-light-novel-calibration-20261116-01) | `CANDIDATE` | `C` | `f979bbe513c5013ec494c6268aca5168ff39296b` |
 | `konosuba:mammon@original-light-novel` | [`konosuba-mammon-ln-main17-u012-monograph-20261026-01`](reconstruction_index/konosuba.md#konosuba-mammon-ln-main17-u012-monograph-20261026-01) | `CANDIDATE` | `E` | `c1ce63553e42527cebd7e6e4a665429c69619c88` |
 | `konosuba:megumin@original-light-novel` | [`konosuba-megumin-ln-main17-expanded-staged-20261027-01`](reconstruction_index/konosuba.md#konosuba-megumin-ln-main17-expanded-staged-20261027-01) | `CANDIDATE` | `C` | `e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da` |
@@ -129,6 +132,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `mass-effect:commander-shepard@renegade-player-archetype` | [`mass-effect-renegade-shepard-archetype-20261109-01`](reconstruction_index/mass-effect.md#mass-effect-renegade-shepard-archetype-20261109-01) | `CANDIDATE` | `D` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `medalist:inori-yuitsuka@manga` | [`medalist-inori-yuitsuka-manga-v01-v15-monograph-20261118-01`](reconstruction_index/medalist.md#medalist-inori-yuitsuka-manga-v01-v15-monograph-20261118-01) | `CANDIDATE` | `C` | `3fe7c1f414e92b3555444bd1342cc3bb13fe0b26` |
 | `medalist:tsukasa-akeuraji@manga` | [`medalist-tsukasa-akeuraji-manga-v01-v15-monograph-20261118-01`](reconstruction_index/medalist.md#medalist-tsukasa-akeuraji-manga-v01-v15-monograph-20261118-01) | `CANDIDATE` | `B` | `2737dd7629ad709ad10b117715984f84b2cc0aa7` |
+| `monogatari-series:hanekawa-tsubasa@original-light-novels` | [`monogatari-series-hanekawa-tsubasa-original-light-novels-v2-monograph-20261121-01`](reconstruction_index/monogatari-series.md#monogatari-series-hanekawa-tsubasa-original-light-novels-v2-monograph-20261121-01) | `CANDIDATE` | `C` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
 | `monogatari-series:senjogahara-hitagi@original-light-novels` | [`monogatari-series-senjogahara-hitagi-original-light-novels-d05-monograph-20261115-01`](reconstruction_index/monogatari-series.md#monogatari-series-senjogahara-hitagi-original-light-novels-d05-monograph-20261115-01) | `CANDIDATE` | `B` | `7d8ece76cbefeea3eb1d7cd02d4ca99e41966d4a` |
 | `mushoku-tensei:aisha@light-novel` | [`mushoku-tensei-aisha-ln-v10-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-aisha-ln-v10-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:cliff@light-novel` | [`mushoku-tensei-cliff-ln-v09-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-cliff-ln-v09-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
