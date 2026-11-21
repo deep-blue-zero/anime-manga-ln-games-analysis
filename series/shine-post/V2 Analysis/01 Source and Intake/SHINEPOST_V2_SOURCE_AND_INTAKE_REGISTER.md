@@ -8,7 +8,7 @@ generation: V2
 version: "1.1"
 status: canonical
 authority_scope: "Witness and derivative identity, admission state, candidate provenance and intake routing"
-source_boundary: "Japanese television anime E01–E01 independently accepted under the owner’s bundle-and-measurement scope. Technical inventory E01–E12."
+source_boundary: "Japanese television anime E01–E02 independently accepted under the owner’s bundle-and-measurement scope. Technical inventory E01–E12."
 canonical_home: series/shine-post/V2 Analysis/01 Source and Intake/SHINEPOST_V2_SOURCE_AND_INTAKE_REGISTER.md
 created: 2026-11-19
 supersedes: []
@@ -201,3 +201,4 @@ When accepted work later advances, update this register's inventory/coverage and
 | Unit | Accepted channels and limits | Checkpoint |
 | --- | --- | --- |
 | E01 | JP transcription with source-screen checks, static/targeted original frames and measured main audio. Unheard and unseen claims remain open. | [Independent review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E01_INDEPENDENT_CHECKPOINT.md) |
+| E02 | JP transcription with source-screen checks, static/targeted original frames and measured main audio. Unheard and unseen claims remain open. | [Independent review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E02_INDEPENDENT_CHECKPOINT.md) |
