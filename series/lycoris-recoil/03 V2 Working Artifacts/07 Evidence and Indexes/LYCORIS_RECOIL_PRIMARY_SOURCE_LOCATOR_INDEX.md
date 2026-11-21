@@ -14,6 +14,12 @@ current_sequential_boundary: SHORT01
 
 # Lycoris Recoil Primary Source Locator Index
 
+## Retrospective TV audiovisual routes
+
+Start at the [E01–E13 comparison](TV%20Audiovisual%20Reconciliation/README.md) for claims tested against the independent Gemini run. The [matrix](TV%20Audiovisual%20Reconciliation/CLAIM_MATRIX.md) maps original IDs to MKV intervals and existing bundle frame filenames. The [coverage record](TV%20Audiovisual%20Reconciliation/COVERAGE.md) identifies each TV master, subtitle clock and source digest. In E01 bundle dialogue row 9 retains the news text and omits the simultaneous ringtone and response at ASS C0010. After that overlap, ASS event numbers exceed the bundle dialogue row by one.
+
+For E03-CLM-013, retrieve the reported blow near 19:30.917 and the spoken settlement at 20:48.94–20:50.53 separately. For E11-VIS-010, inspect the satchel at 19:06.20 and 19:06.84. For E12-VIS-003, inspect the exterior report at 08:10.036, Chisato aiming at 08:11.4 and Yoshimatsu’s wound from 08:14.5. For E13-CLM-006 and E13-VIS-002, compare E13 C0082–84 (03:55.01–04:01.31) with E10 C0221 (11:37.26–11:39.51). For E13-VIS-008, compare the exterior interval at 08:09.572–08:09.906 with subsequent testimony in C0404–06 and C0417–25. The [dispute register](TV%20Audiovisual%20Reconciliation/DISPUTES.md) distinguishes directly checked evidence from perceptual return requests.
+
 ## 1. Responsibility
 
 This index provides the shortest deterministic route from a V2 analytical claim back to the source evidence needed to verify it.
