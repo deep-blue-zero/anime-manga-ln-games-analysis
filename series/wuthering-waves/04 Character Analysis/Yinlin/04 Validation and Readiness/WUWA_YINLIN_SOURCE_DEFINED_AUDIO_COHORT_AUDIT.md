@@ -4,8 +4,8 @@ character: Yinlin
 artifact_type: source_defined_audio_cohort_audit
 scope: YINLIN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: YINLIN_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation_frozen: true
 source_freeze_metadata: conflicting_collection_and_embedded_lock_fields
@@ -13,7 +13,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Yinlin — source-defined voice cohorts, route variants and unvoiced festival controls
@@ -61,4 +61,4 @@ Four earlier festival/free-show actions are important **negative controls**: `39
 
 The private artifact `_research/character_packets/Yinlin/audio_work/YINLIN_SOURCE_COHORT_AUDIT.json` has SHA-256 `b1dd590084042d3e29036067ca60f12bf6bcc6ad0eb626cdbd84aea5525743d1`. It binds pinned line-analysis and object-measurement hashes and lists every member's semantic occurrence, text key, exact source locator, dub, render-analysis ID, PCM/FLAC hashes and flags. Re-run `scripts/audit_character_audio_cohorts.py Yinlin` with the sixteen literal `--cohort NAME=selector` values above and that private `--output`; a second run was byte-identical. A selector for unvoiced `3992/7` and an overlapping within-cohort `1006/7` selector both failed nonzero without writing their intended files. The utility allows overlaps *between* named cohorts; the reported 181 unique semantic IDs and 728 unique render IDs were therefore checked separately.
 
-**PRESERVE** cover-, audience-, choice- and time-indexed text readings. **DOWNGRADE** any acoustic “true self” or seduction-to-sincerity curve derived solely from active level/F0. **REVISE** any selected-audio claim about the earlier festival/free-show lines, and distinguish their absence from the voiced later party. **OPEN** variant-aware four-dub listening, runtime branch/staging observation, full JA/KO semantic adjudication and independent gain/segmentation checks. No audio was copied into Git, no human performed-voice review is asserted, and this packet remains noncurrent.
+**PRESERVE** cover-, audience-, choice- and time-indexed text readings. **DOWNGRADE** any acoustic “true self” or seduction-to-sincerity curve derived solely from active level/F0. **REVISE** any selected-audio claim about the earlier festival/free-show lines, and distinguish their absence from the voiced later party. **OPEN** variant-aware four-dub listening, runtime branch/staging observation, full JA/KO semantic adjudication and independent gain/segmentation checks. No audio was copied into Git, no human performed-voice review is asserted, and this packet remains `active_provisional` pending Companion Story AV and four-dub listening.

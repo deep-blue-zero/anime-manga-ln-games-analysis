@@ -4,8 +4,8 @@ character: Jinhsi
 artifact_type: av_and_human_retrieval_plan
 scope: JINHSI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: JINHSI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,7 +14,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Jinhsi — AV retrieval and human-review plan
@@ -28,7 +28,7 @@ This is a plan, **not an observation log**. No four-dub listening, clip/contact-
 5. Visually inspect authored scenes at `1191/3`, `2515/3`, `2516/3`, `3153/4`, `3157/2`, `3209/3`, `3223/3`, `3160/5–3163/2`, Moonlit Fair routes, the `7456/2` first-meeting reprise and both later Xuanfang actions `17181/2` and `17636/6`. Capture source time, scene/branch identity, staging, camera, expression and apparent state/form. Keep `1191/3`'s opening choice graph distinct from the recap's linear ordering. The UI art cannot certify runtime silhouette, gestures or costume material. If creating review clips, keep resolution at or below the owner-approved 1080p, include sound only when requested, and retain them restricted.
 6. Compare direct viewing/listening against text-bound claims: Is public composure visibly strained? Does Jué confrontation read as grief, resolve, fear or some combination? Are optional fair choices mutually exclusive? Does a text-labelled Jinhsi line actually play as another voice? Preserve disconfirming observations and revise the matrix claim ID, not merely append praise.
 
-Completion of this plan would require a denominator report for lines/renders/scenes examined, independent reviewer notes or explicit human observations, contradiction handling and owner adoption. None is claimed here. Current source pin and draft status remain separate from the existing `active_provisional` visual artifact authority.
+Completion of this plan would require a denominator report for lines/renders/scenes examined, independent reviewer notes or explicit human observations, contradiction handling and owner adoption. None is claimed here. Current source pin and `active_provisional` text/machine-audio status remain distinct from the separately bounded `active_provisional` visual artifact authority.
 
 ## Exact initial sound cohort
 

@@ -2,11 +2,11 @@
 series: WUWA
 character: Cantarella
 artifact_type: claim_revision_ledger
-analytical_responsibility: "Record Cheri/headship, postquest-branch and source-defined audio corrections to the local noncurrent draft"
+analytical_responsibility: "Record Cheri/headship, postquest-branch and source-defined audio corrections in the Cantarella packet"
 scope: CANTARELLA_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: CANTARELLA_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,12 +15,14 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Cantarella — local draft claim-revision ledger
 
-This ledger records corrections **within the unpublished, noncurrent draft**. It is not a claim that a published or owner-adopted Cantarella interpretation was superseded. The source generation remains pinned. The readings use the full `flow#/6607/6` farewell, four official text witnesses to `Character_Cantarella_124_6`, the raw `TalkSequence`/`JumpTalk` graph at `flow#/6620/3`, the five ascension records, and a private source-defined audit of existing four-dub measurements. The [evidence matrix](../01%20Evidence%20and%20Source-Facing/WUWA_CANTARELLA_EVIDENCE_AND_FALSIFICATION_MATRIX.md) remains the current local claim-ID map; the [Cheri/headship specialist](../01%20Evidence%20and%20Source-Facing/WUWA_CANTARELLA_CHERI_HEADSHIP_AND_CONTESTABLE_PROTECTION_PROFILE.md), [sea/sanctuary specialist](../01%20Evidence%20and%20Source-Facing/WUWA_CANTARELLA_ASCENSION_SEA_SANCTUARY_AND_DISCLOSURE_PROFILE.md) and [speech profile](../03%20Audiovisual%20and%20Voice/WUWA_CANTARELLA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md) give the sustained arguments.
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `active_provisional` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_CANTARELLA_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
+
+This ledger records claim-level corrections originally established during pre-adoption drafting and retained under `active_provisional` authority. The source generation remains pinned. The readings use the full `flow#/6607/6` farewell, four official text witnesses to `Character_Cantarella_124_6`, the raw `TalkSequence`/`JumpTalk` graph at `flow#/6620/3`, the five ascension records, and a private source-defined audit of existing four-dub measurements. The [evidence matrix](../01%20Evidence%20and%20Source-Facing/WUWA_CANTARELLA_EVIDENCE_AND_FALSIFICATION_MATRIX.md) remains the current local claim-ID map; the [Cheri/headship specialist](../01%20Evidence%20and%20Source-Facing/WUWA_CANTARELLA_CHERI_HEADSHIP_AND_CONTESTABLE_PROTECTION_PROFILE.md), [sea/sanctuary specialist](../01%20Evidence%20and%20Source-Facing/WUWA_CANTARELLA_ASCENSION_SEA_SANCTUARY_AND_DISCLOSURE_PROFILE.md) and [speech profile](../03%20Audiovisual%20and%20Voice/WUWA_CANTARELLA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md) give the sustained arguments.
 
 | Claim or responsibility | Earlier local-draft tendency | Transition | Corrected or retained position | Exact basis and remaining counterevidence |
 |---|---|---|---|---|
@@ -66,7 +68,7 @@ No listening or audiovisual observation was added. The selected sound cases acro
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Companion Story `880000033` visual staging and full-census four-dub human listening beyond `CAN-DUB-01`..`06` remain open.
+> **Historical authority at initial Chapter II reconciliation (`draft_noncurrent`; subsequently promoted to `active_provisional` / `do_not_use_as_current_authority: false` on 2026-11-19).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Companion Story `880000033` visual staging and full-census four-dub human listening beyond `CAN-DUB-01`..`06` remain open.
 
 | Claim / item | Transition | Runtime AV & English signal revision | Remaining boundary |
 |---|---|---|---|
@@ -74,4 +76,4 @@ No listening or audiovisual observation was added. The selected sound cases acro
 | `CAN-C24, C42` / `CAN-R12` (`6799/4` & `6800/9` first audience tea) | **STRENGTHEN** | Executed drink route (`Option 1`) confirms real Jinzhou tea (linked to her Mingting contact in `SCN-0085` `flow#/5513 [9]`) paired with political mediation and non-lethal hallucinatory incapacitation of armed Gilberto, without separate material redress. | Push-aside branch in `6800/9` and post-quest city tea `CAN-R06` remain unplayed in this witness. |
 | `CAN-C40` / `CAN-R10` (`5775/5` Female-Rover consort tease & freedom timing) | **STRENGTHEN** | Executed Option 1 (`'I want your position.'`) on Female Rover (`Faz`) dispatches the `'Fisalia Head's consort'` tease and confirms Rover had already relayed Imperator's freedom decree before Cantarella elected to delay family-wide announcement. | Options 2–3 in `5775/5` remain unplayed in this recording. |
 | `CAN-C16, C29` / `CAN-R08` (`8876/6` & `8877/4` suppressive vial & coalition) | **STRENGTHEN** | Voiced `SCN-0314` verifies personal side-effect ownership, full vial intake (`91137`–`91141 s`), and empathy for corrupted kin (`431_34`); unvoiced `SCN-0315` (`8877/4`) confirms Vault relocation and Harbinger confidentiality before `OPT[1]` (`44_6`) exits the 27-record submenu (`[4..30]`). | The bypassed 27-item ancient-records submenu in `8877/4` remains text-only. |
-| `CAN-C18, C24`–`C27` / `CAN-DUB-01..06` (combat siren-sigh isolation vs. narrative contralto steadiness) | **STRENGTHEN** | Direct 4-dub calibration (`24` isolated WEM renders; [four-dub voice ledger](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md)) proves stylized breathy siren sighing is restricted to combat trigger `FavorWord_160746_Content` (`204.3`–`263.5 Hz`), while `CAN-DUB-01`..`05` (`164.6`–`248.9 Hz`) hold steady, grave composure. | Stratified 6-moment cohort (`839/845` Cantarella lines remain uninspected by ear); Companion Story `880000033` visual scenes remain open; `draft_noncurrent` preserved. |
+| `CAN-C18, C24`–`C27` / `CAN-DUB-01..06` (combat siren-sigh isolation vs. narrative contralto steadiness) | **STRENGTHEN** | Direct 4-dub calibration (`24` isolated WEM renders; [four-dub voice ledger](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md)) proves stylized breathy siren sighing is restricted to combat trigger `FavorWord_160746_Content` (`204.3`–`263.5 Hz`), while `CAN-DUB-01`..`05` (`164.6`–`248.9 Hz`) hold steady, grave composure. | Stratified 6-moment cohort (`839/845` Cantarella lines remain uninspected by ear); Companion Story `880000033` visual scenes remain open; current `active_provisional` bounds apply. |

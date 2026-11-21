@@ -5,8 +5,8 @@ artifact_type: speech_and_machine_voice_profile
 analytical_responsibility: "Textual registers, four-language source/render joins, signal observations, and listening limits"
 scope: PHOEBE_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: PHOEBE_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -15,10 +15,12 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Phoebe — textual speech and machine-measured four-dub voice
+
+> **Publication and authority note (2026-11-19).** This document is owner-adopted current `active_provisional` authority (`do_not_use_as_current_authority: false`) within its declared pinned-source, machine-audio, and bounded audiovisual scope. Historical preparation or initial-reconciliation notes below record earlier snapshot provenance rather than present draft status; see the [current-state router](../WUWA_PHOEBE_CURRENT_STATE.md) and [adoption and tiering record](../../../08%20Audits%20and%20Manifests/WUWA_CH2_AV_CHARACTER_PACKET_ADOPTION_2026_11_18.md). Open AV, branch, dispatch, and full-census listening limits remain strictly in force.
 
 This document preserves the pre-listening machine profile first and appends a bounded `6/476`-line (`24`-render) direct four-dub calibration section below (`470/476` semantic lines remain unreviewed). The voice corpus proves matched semantic occurrences, localized text witnesses, client source-media routes, and decoded PCM/FLAC objects; explicit Wwise event/bank/media IDs are available for some, not all, selected renders. The [retrieval crosswalk](WUWA_PHOEBE_AV_HUMAN_RETRIEVAL_CROSSWALK.md) records 28/48 selected render rows with null event and numeric-media IDs. The corpus does **not** establish the actor's emotional delivery, breath intention, accent, timbral image, or scene-specific audio mix. The twelve selected chains in [AUDIO_MATCHED_SEMANTIC_CASES.json](AUDIO_MATCHED_SEMANTIC_CASES.json) retain exact source locator, text hashes, event and numeric-media fields including nulls, source virtual path, WEM hash, FLAC hash, PCM hash, render variant, language, signal values, and QC flags without committing audio.
 
@@ -110,7 +112,7 @@ No ear-level labels for warmth, trembling, pace, prayer tone, singing, laughter,
 
 ### Cohort separation and coverage boundary
 
-This section appends bounded direct four-dub listening from [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) and [WUWA_PHOEBE_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_PHOEBE_AV_HUMAN_RETRIEVAL_CROSSWALK.md) without altering the historical machine-measurement sections above and while keeping this packet strictly `draft_noncurrent` (`do_not_use_as_current_authority: true`):
+This section appends bounded direct four-dub listening from [WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md) and [WUWA_PHOEBE_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_PHOEBE_AV_HUMAN_RETRIEVAL_CROSSWALK.md) without altering the historical machine-measurement sections above (originally recorded under `draft_noncurrent`; packet now owner-adopted `active_provisional` with `do_not_use_as_current_authority: false`):
 
 - **Cohort 1 — Complete selected machine corpus (unreviewed by ear as a whole)**: `476` semantic voice lines (`416` voiced story + `60` archive), `1,904` render associations, and `1,818` unique measured PCM/FLAC objects (`24` four-label shared objects excluded from dub-specific outlier baselines).
 - **Cohort 2 — Source-defined composite/action machine cohorts & MAD outlier screen**: `86/476` story lines (`344` renders) across eight pinned story actions, plus the within-dub `story_dialogue` MAD screen (`387` `en`/`ja`, `386` `ko`/`zh` objects).

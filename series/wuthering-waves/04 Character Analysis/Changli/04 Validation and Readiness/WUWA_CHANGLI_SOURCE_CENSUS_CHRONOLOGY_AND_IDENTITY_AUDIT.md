@@ -4,8 +4,8 @@ character: Changli
 artifact_type: source_census_chronology_identity_audit
 scope: CHANGLI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: CHANGLI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,7 +14,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Changli — source census, chronology and identity audit
@@ -42,6 +42,6 @@ Playable role 1205 is presented under source-named speaker 999; message 701098 a
 
 She tells Rover after the Sonoro sphere that Forte use now does not hurt her (`3323/6/31–32`), whereas the assessment leaves possible long-term irreversible damage (`FavorRoleInfo_1205_TalentCertification`). The two claims concern different authority/time scales; preserve the contrast, do not silently select one as absolute. Likewise her early certainty about Rover is a hypothesis that grows, not retroactive omniscience. Test-labeled `12745/1` has blank English witnesses; do not quote them as spoken dialogue. Full graph transitions and localized wording must be revisited before treating adjacent alternatives as a single performance.
 
-Chinese normalized text is the current semantic anchor, not official-client raw art/media authority. The source generation is frozen, while this packet is a noncurrent analytical draft and the three-image visual profile remains separately `active_provisional`. Human four-dub listening and runtime screen observation have not been performed for this packet.
+Chinese normalized text is the current semantic anchor, not official-client raw art/media authority. The source generation is frozen, while this packet holds owner-adopted `active_provisional` text/machine-audio authority alongside the separately bounded `active_provisional` three-image visual profile. Human four-dub listening and runtime screen observation have not been performed for this packet.
 
 The additional `3147/10` and `4682/6` actions contain nine and ten accepted/source-voiced Changli turns, respectively. Their complete-voice records join four **distinct** roundtrip-validated PCM/FLAC objects per semantic line (36 and 40 objects). These are already inside the fixed 610 selected voice-line and 2,230 distinct-object denominators. Neither exact object availability nor source-quest references authenticate a played option, a specific event embodiment, numeric Wwise event/media ID, or a human-heard delivery [CHL-E37–E38].

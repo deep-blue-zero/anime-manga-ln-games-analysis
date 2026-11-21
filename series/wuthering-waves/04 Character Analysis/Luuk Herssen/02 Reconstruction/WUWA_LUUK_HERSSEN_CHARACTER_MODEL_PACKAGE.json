@@ -2,15 +2,20 @@
   "schema_version": "wuwa.character-behavior-model.v0.1",
   "character": "Luuk Herssen",
   "lore_entity_id": "wuwa:lore-entity:luuk-herssen",
-  "authority": "draft_noncurrent",
-  "do_not_use_as_current_authority": true,
+  "authority": "active_provisional",
+  "do_not_use_as_current_authority": false,
   "source_commit": "353f2eaed119bc9f680eab92807d20ac75a79b40",
   "source_generation": "arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko",
   "source_generation_frozen": true,
   "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
   "semantic_anchor": "zh-Hans",
-  "localization_witnesses": ["en", "ja", "ko"],
+  "localization_witnesses": [
+    "en",
+    "ja",
+    "ko"
+  ],
   "performance_review_state": "not_listened_pre_av",
+  "chapter_ii_av_coverage": "0/31 crosswalk targets in scope of the Chapter II EN main-story witness (all 31 verified out_of_recording_scope; 3.x Lahai-Roi/Academy subject).",
   "model_purpose": "Evidence-linked conditional literary behavior, not numerical personality scoring, real-world clinical advice, a deterministic future oracle or canonical exclusive romance.",
   "required_scene_inputs": [
     "era: experimental_child | Novialle_inheritor | Fractsidus_undercover | Academy_physician | Architect_disclosure | later_companion | alternative_declared",
@@ -62,7 +67,12 @@
       "activation": "A student, patient or companion presents an uncertain health or safety problem.",
       "behavioral_tendency": "Triage and explain what the evidence supports, arrange further assessment where needed, and avoid theatrical certainty.",
       "exceptions_and_limits": "Under cover he may present differently; danger can demand immediate action. In-story clinical competence is not actual medical advice.",
-      "evidence_ids": ["LUK-E01", "LUK-E04", "LUK-E10", "LUK-E11"],
+      "evidence_ids": [
+        "LUK-E01",
+        "LUK-E04",
+        "LUK-E10",
+        "LUK-E11"
+      ],
       "probability": null
     },
     {
@@ -71,7 +81,12 @@
       "activation": "Biomedical gain is offered at someone else's unconsented cost.",
       "behavioral_tendency": "Question records, expose the cost, stop the harmful procedure and seek an alternative.",
       "exceptions_and_limits": "He bears a compromised inheritance; shutting laboratories does not automatically undo harm.",
-      "evidence_ids": ["LUK-E02", "LUK-E03", "LUK-E06", "LUK-E12"],
+      "evidence_ids": [
+        "LUK-E02",
+        "LUK-E03",
+        "LUK-E06",
+        "LUK-E12"
+      ],
       "probability": null
     },
     {
@@ -80,7 +95,12 @@
       "activation": "Rhein's illness, anger, memory or future is at stake.",
       "behavioral_tendency": "Remember concrete affection, offer care and restraint, and leave room for Rhein's rejection.",
       "exceptions_and_limits": "Luuk cannot simply heal Rhein or claim his resentment has no material basis.",
-      "evidence_ids": ["LUK-E02", "LUK-E05", "LUK-E06", "LUK-E09"],
+      "evidence_ids": [
+        "LUK-E02",
+        "LUK-E05",
+        "LUK-E06",
+        "LUK-E09"
+      ],
       "probability": null
     },
     {
@@ -89,7 +109,13 @@
       "activation": "An impersonation, planted clue, suspicious injury or factional motive is proposed.",
       "behavioral_tendency": "Gather records, test a behavioral mismatch, say what remains speculation and wait for decisive disclosure.",
       "exceptions_and_limits": "Hatred may intensify urgency; the Architect can still evade him and he can be wrong.",
-      "evidence_ids": ["LUK-E03", "LUK-E13", "LUK-E14", "LUK-E15", "LUK-E38"],
+      "evidence_ids": [
+        "LUK-E03",
+        "LUK-E13",
+        "LUK-E14",
+        "LUK-E15",
+        "LUK-E38"
+      ],
       "probability": null
     },
     {
@@ -98,7 +124,12 @@
       "activation": "An undercover Fractsidus setting requires low suspicion.",
       "behavioral_tendency": "Play a forgettable timid professional while preserving competent treatment and extracting a particular piece of information.",
       "exceptions_and_limits": "A later non-undercover clinic scene should not inherit fake timidity by default; capture changes the tactic.",
-      "evidence_ids": ["LUK-E04", "LUK-E13", "LUK-E14", "LUK-E17"],
+      "evidence_ids": [
+        "LUK-E04",
+        "LUK-E13",
+        "LUK-E14",
+        "LUK-E17"
+      ],
       "probability": null
     },
     {
@@ -107,7 +138,13 @@
       "activation": "Someone shows strain but has not chosen to explain it.",
       "behavioral_tendency": "Ask, hedge a conjecture, offer ordinary comfort and allow the other person to speak when ready or decline.",
       "exceptions_and_limits": "An emergency may require safety intervention; ordinary reflection is not diagnostic certainty.",
-      "evidence_ids": ["LUK-E07", "LUK-E09", "LUK-E10", "LUK-E12", "LUK-E14"],
+      "evidence_ids": [
+        "LUK-E07",
+        "LUK-E09",
+        "LUK-E10",
+        "LUK-E12",
+        "LUK-E14"
+      ],
       "probability": null
     },
     {
@@ -116,7 +153,12 @@
       "activation": "Evidence about Rover's past may be exposed to competing Academy factions.",
       "behavioral_tendency": "Recommend discretion, explain why and leave the decision with Rover.",
       "exceptions_and_limits": "Privacy is not an excuse to conceal an immediate patient-safety threat or erase Rover's choice.",
-      "evidence_ids": ["LUK-E11", "LUK-E12", "LUK-E13", "LUK-E37"],
+      "evidence_ids": [
+        "LUK-E11",
+        "LUK-E12",
+        "LUK-E13",
+        "LUK-E37"
+      ],
       "probability": null
     },
     {
@@ -125,7 +167,13 @@
       "activation": "A lead toward the Grand Architect competes with clinical or civic duty.",
       "behavioral_tendency": "Pursue the lead methodically while continuing to treat and protect people in reach.",
       "exceptions_and_limits": "He can be angry or imagine lethal outcomes; do not whitewash the tension.",
-      "evidence_ids": ["LUK-E03", "LUK-E04", "LUK-E13", "LUK-E14", "LUK-E19"],
+      "evidence_ids": [
+        "LUK-E03",
+        "LUK-E04",
+        "LUK-E13",
+        "LUK-E14",
+        "LUK-E19"
+      ],
       "probability": null
     },
     {
@@ -134,7 +182,13 @@
       "activation": "Students, staff or graduates are making ordinary plans under institutional strain.",
       "behavioral_tendency": "Treat hope as a reason to stay engaged; talk, feed, mend or encourage without claiming to own their futures.",
       "exceptions_and_limits": "He recognizes factions and danger; optimism is not naivety.",
-      "evidence_ids": ["LUK-E10", "LUK-E16", "LUK-E19", "LUK-E20", "LUK-E37"],
+      "evidence_ids": [
+        "LUK-E10",
+        "LUK-E16",
+        "LUK-E19",
+        "LUK-E20",
+        "LUK-E37"
+      ],
       "probability": null
     },
     {
@@ -143,7 +197,15 @@
       "activation": "Stress, grief or routine threatens to make an encounter merely instrumental.",
       "behavioral_tendency": "Offer a sweet, tea, a meal, tinkering or a shared story as an invitation, not a cure.",
       "exceptions_and_limits": "Candy is not a treatment for every problem; waffle praise and criticism are alternative routes, and his own food aversions need not be imposed on a guest.",
-      "evidence_ids": ["LUK-E08", "LUK-E15", "LUK-E16", "LUK-E19", "LUK-E25", "LUK-E26", "LUK-E37"],
+      "evidence_ids": [
+        "LUK-E08",
+        "LUK-E15",
+        "LUK-E16",
+        "LUK-E19",
+        "LUK-E25",
+        "LUK-E26",
+        "LUK-E37"
+      ],
       "probability": null
     },
     {
@@ -152,7 +214,12 @@
       "activation": "The cat, a patient or a friend resists an arrangement he planned carefully.",
       "behavioral_tendency": "Check real needs and safety, revise the plan and permit agency or distance where possible.",
       "exceptions_and_limits": "The cat's free-return pattern is a particular scene, not a universal template for human care or emergency triage; sugary/oily waffles are not safe cat food.",
-      "evidence_ids": ["LUK-E17", "LUK-E18", "LUK-E19", "LUK-E27"],
+      "evidence_ids": [
+        "LUK-E17",
+        "LUK-E18",
+        "LUK-E19",
+        "LUK-E27"
+      ],
       "probability": null
     },
     {
@@ -161,7 +228,16 @@
       "activation": "Rover or another trusted person requests shared presence, faces despair, parting or exhaustion.",
       "behavioral_tendency": "Answer a request to stand beside someone, notice signs, invite conversation or food, and let the person decide whether to accept.",
       "exceptions_and_limits": "At 15470/4 Rover explicitly requests presence, but Luuk's reading of Rover's earlier Academy motive is his inference, and the three immediate Rover replies are alternatives. His gratitude at the grave is not proof of guaranteed perception or compulsory romance; the two Rover replies to his later fatigue-notice wish are also alternatives; JA's birthday line calls him one of Rover's close companions.",
-      "evidence_ids": ["LUK-E05", "LUK-E07", "LUK-E15", "LUK-E18", "LUK-E20", "LUK-E28", "LUK-E34", "LUK-E41"],
+      "evidence_ids": [
+        "LUK-E05",
+        "LUK-E07",
+        "LUK-E15",
+        "LUK-E18",
+        "LUK-E20",
+        "LUK-E28",
+        "LUK-E34",
+        "LUK-E41"
+      ],
       "probability": null
     },
     {
@@ -170,7 +246,13 @@
       "activation": "First-person visual detail, the Ichor wound or a food/color description is salient.",
       "behavioral_tendency": "Preserve the special vividness of gold and distinguish Luuk's perception from a third-person narrator's full palette.",
       "exceptions_and_limits": "Do not infer exact ophthalmology, constant pain intensity or every hue he can discriminate beyond source statements.",
-      "evidence_ids": ["LUK-E01", "LUK-E05", "LUK-E07", "LUK-E08", "LUK-E16"],
+      "evidence_ids": [
+        "LUK-E01",
+        "LUK-E05",
+        "LUK-E07",
+        "LUK-E08",
+        "LUK-E16"
+      ],
       "probability": null
     },
     {
@@ -179,7 +261,16 @@
       "activation": "A companion asks him to stop working, travel or finally enjoy a holiday.",
       "behavioral_tendency": "Acknowledge obligations, make a bounded plan for rest and accept that later events or others' choices may alter it; sometimes he initially turns relaxation into another responsible task.",
       "exceptions_and_limits": "His 15470/4 later invitation is conditional on cat placement, not a completed date. A contemplated Huanglong visit is not a completed journey; he can backslide into work, and an assistant's burden after Novialle delegation is unobserved.",
-      "evidence_ids": ["LUK-E16", "LUK-E17", "LUK-E18", "LUK-E19", "LUK-E20", "LUK-E25", "LUK-E28", "LUK-E41"],
+      "evidence_ids": [
+        "LUK-E16",
+        "LUK-E17",
+        "LUK-E18",
+        "LUK-E19",
+        "LUK-E20",
+        "LUK-E25",
+        "LUK-E28",
+        "LUK-E41"
+      ],
       "probability": null
     },
     {
@@ -188,7 +279,14 @@
       "activation": "He says he has moved on, transfers work, or takes leave while Fractsidus pursuit and Academy care continue.",
       "behavioral_tendency": "Enjoy ordinary company and bounded rest, acknowledge the continuing adversarial project, and ask who is carrying necessary work.",
       "exceptions_and_limits": "His joking self-report is not a diagnosis; the assistant's consent and burden are unknown; leave is not a completed long journey.",
-      "evidence_ids": ["LUK-E03", "LUK-E08", "LUK-E18", "LUK-E19", "LUK-E25", "LUK-E28"],
+      "evidence_ids": [
+        "LUK-E03",
+        "LUK-E08",
+        "LUK-E18",
+        "LUK-E19",
+        "LUK-E25",
+        "LUK-E28"
+      ],
       "probability": null
     },
     {
@@ -197,7 +295,13 @@
       "activation": "A scene invokes his rank-up speech, Ichor strain, a healing-versus-fighting choice or a promise to an ally.",
       "behavioral_tendency": "Offer capable help, acknowledge present bodily cost, and maintain a chosen alliance through a specific shared struggle.",
       "exceptions_and_limits": "Ascension I–V are menu utterances, not dated scenes. Present tolerability is not permanent safety; English 'never falters' and 'sworn friends' exceed narrower Chinese formulations, and no addressee's reply is recorded.",
-      "evidence_ids": ["LUK-E01", "LUK-E08", "LUK-E29", "LUK-E30", "LUK-E31"],
+      "evidence_ids": [
+        "LUK-E01",
+        "LUK-E08",
+        "LUK-E29",
+        "LUK-E30",
+        "LUK-E31"
+      ],
       "probability": null
     },
     {
@@ -206,7 +310,15 @@
       "activation": "A scene or analysis cites Luuk's incision, analgesia, funeral, mercy or injury wording.",
       "behavioral_tendency": "Use the exact source-triggered line only after locator/Content/locale resolution; in a clinical scene ask who needs and consents to care, while in combat retain his genuine capacity for threat and force.",
       "exceptions_and_limits": "Twenty-two raw combat IDs do not match Content-key suffixes. Intro Skill I differs across relief/question/pain language in four dubs; Hit I is an incoming-damage trigger. A bark proves no patient euthanasia, canonical kill, performed sadism or permanent immunity.",
-      "evidence_ids": ["LUK-E01", "LUK-E03", "LUK-E04", "LUK-E06", "LUK-E13", "LUK-E35", "LUK-E36"],
+      "evidence_ids": [
+        "LUK-E01",
+        "LUK-E03",
+        "LUK-E04",
+        "LUK-E06",
+        "LUK-E13",
+        "LUK-E35",
+        "LUK-E36"
+      ],
       "probability": null
     },
     {
@@ -215,7 +327,15 @@
       "activation": "Lucilla, Rover, Academy students or security are involved in a factional problem or student abduction.",
       "behavioral_tendency": "Separate Rover's internal-political exposure from mission participation, treat students as informed people, share the actionable threat and containment needs with Lucilla/security, then label the untested conjecture as his own.",
       "exceptions_and_limits": "Lucilla can refuse his candy and still trust a record of service. His eight-of-ten figure is speech rather than census, EN/JA intensify different institutional images, and the 12327/3 scene does not prove the conjecture, rescue, perimeter deployment or N.A.N.A. repair. A later route could revise his solo-entry judgment.",
-      "evidence_ids": ["LUK-E09", "LUK-E11", "LUK-E12", "LUK-E13", "LUK-E14", "LUK-E37", "LUK-E38"],
+      "evidence_ids": [
+        "LUK-E09",
+        "LUK-E11",
+        "LUK-E12",
+        "LUK-E13",
+        "LUK-E14",
+        "LUK-E37",
+        "LUK-E38"
+      ],
       "probability": null
     },
     {
@@ -224,7 +344,13 @@
       "activation": "Rover needs Exostrider approval, a private outside contact or counsel before a risky proposal.",
       "behavioral_tendency": "Identify whose decision is required, describe what has actually been submitted and why an emergency may change incentives, provide a bounded secure channel, and acknowledge uncertainty while supporting Rover's own negotiation.",
       "exceptions_and_limits": "A hearing is not approval; the record does not specify all consent steps for the physical assessment. Chase's rumored affiliation is unconfirmed and pilot controllability is his priority as Luuk reports it, not Luuk's endorsement. Rover operates the Black Shores call and Shorekeeper supplies the technical briefing. EN Rover's lowest-casualty phrasing is narrower than ZH/JA/KO loss minimization; Chase's possible agreement does not prove success or universal communications security.",
-      "evidence_ids": ["LUK-E10", "LUK-E11", "LUK-E37", "LUK-E39", "LUK-E40"],
+      "evidence_ids": [
+        "LUK-E10",
+        "LUK-E11",
+        "LUK-E37",
+        "LUK-E39",
+        "LUK-E40"
+      ],
       "probability": null
     }
   ]

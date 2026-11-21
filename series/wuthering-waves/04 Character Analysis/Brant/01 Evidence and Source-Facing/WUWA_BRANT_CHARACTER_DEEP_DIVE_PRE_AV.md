@@ -4,8 +4,8 @@ character: Brant
 artifact_type: character_deep_dive_pre_av
 scope: BRANT_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: BRANT_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,7 +14,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Brant: the captain who makes room to leave
@@ -143,4 +143,4 @@ The spotless-hero reading uses Aldric to excuse every Brant gamble; the cynical-
 
 Finally, the free-home reading and the restored-home reading both overstate the ending. The crew gains passage through Ragunna and can make separate choices; Brant himself returns for pizza and memory, does not reclaim the sold house, and starts learning a different instrument (`FavorStory_120605_Content`). He loves a city that rejected him without thereby acquitting its Order. A future continuation may show new civic repair or renewed persecution, but the current text establishes neither total reconciliation nor permanent exile. For a relationship or crossover, the strongest supported behavior is conditional: he may invite, improvise, care, command during danger and then let another person's answer alter the route. The source does not certify that he always lives up to that ideal, which is exactly why it remains an interesting test [BRA-E07–E08, C01–C02, C08, C22–C25].
 
-The visual and audio record sets another limit on these readings. Three official-client UI rasters support a theatrical naval design—plumed tricorn, blue hair, open coat, magenta accents, blade and practiced grin—but not neutral runtime body language. The 606 source-linked semantic voice lines have four-dub render associations and 2,324 measured local FLAC/PCM objects, yet no human listening has annotated how any dub performs a change from public hail to private recollection. The strongest present claim is textual and structural: Brant tries to make freedom inhabitable by building a harbor, creating a stage and leading a crew whose members are still allowed to leave. Whether a future scene exposes the ideal's failure is a question the model should be prepared to answer rather than explain away [BRA-E24–E25, C20–C22].
+The visual and audio record sets another limit on these readings. Three official-client UI rasters support a theatrical naval design—plumed tricorn, blue hair, open coat, magenta accents, blade and practiced grin—but not neutral runtime body language. The 606 source-linked semantic voice lines have four-dub render associations and 2,324 measured local FLAC/PCM objects, in the pre-AV baseline. The later six-line four-dub cohort is bounded; it does not establish a general delivery pattern across public hails and private recollection. The strongest present claim is textual and structural: Brant tries to make freedom inhabitable by building a harbor, creating a stage and leading a crew whose members are still allowed to leave. Whether a future scene exposes the ideal's failure is a question the model should be prepared to answer rather than explain away [BRA-E24–E25, C20–C22].

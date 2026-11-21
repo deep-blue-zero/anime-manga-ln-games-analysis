@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate Iuno's draft packet and optionally crosscheck private evidence.
+"""Validate Iuno's current canonical packet and optionally crosscheck private evidence.
 
 Structural, identity, text-quality and media joins only: not literary truth,
 exhaustive branch coverage, generative fidelity or human listening.
@@ -51,9 +51,9 @@ def validate(source_root: Path | None) -> dict:
             "no raw media in Git packet", checks)
     for path in HERE.rglob("WUWA_IUNO_*.md"):
         body = path.read_text(encoding="utf-8")
-        require(body.startswith("---\n") and "\nstatus: draft_noncurrent\n" in body,
-                f"draft authority: {path.name}", checks)
-        require("\ndo_not_use_as_current_authority: true\n" in body,
+        require(body.startswith("---\n") and "\nstatus: canonical\n" in body,
+                f"canonical authority: {path.name}", checks)
+        require("\ndo_not_use_as_current_authority: false\n" in body,
                 f"noncurrent flag: {path.name}", checks)
         require(f"\nsource_commit: {COMMIT}\n" in body,
                 f"source pin: {path.name}", checks)
@@ -64,7 +64,7 @@ def validate(source_root: Path | None) -> dict:
             "196 distinct" in archive_profile,
             "archive offset and combat/system scope documented", checks)
     model = json.loads((packet_artifact(HERE, "WUWA_IUNO_CHARACTER_MODEL_PACKAGE.json")).read_text(encoding="utf-8"))
-    require(model["authority"] == "draft_noncurrent" and model["source_commit"] == COMMIT,
+    require(model["authority"] == "canonical" and model["source_commit"] == COMMIT,
             "model authority and source pin", checks)
     rules = model["rules"]
     require(len(rules) == 24 and len({rule["id"] for rule in rules}) == 24,

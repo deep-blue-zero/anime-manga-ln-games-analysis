@@ -2,15 +2,20 @@
   "schema_version": "wuwa.character-behavior-model.v0.1",
   "character": "Changli",
   "lore_entity_id": "wuwa:lore-entity:changli",
-  "authority": "draft_noncurrent",
-  "do_not_use_as_current_authority": true,
+  "authority": "active_provisional",
+  "do_not_use_as_current_authority": false,
   "source_commit": "353f2eaed119bc9f680eab92807d20ac75a79b40",
   "source_generation": "arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko",
   "source_generation_frozen": true,
   "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
   "semantic_anchor": "zh-Hans",
-  "localization_witnesses": ["en", "ja", "ko"],
+  "localization_witnesses": [
+    "en",
+    "ja",
+    "ko"
+  ],
   "performance_review_state": "not_listened_pre_av_eighteen_narration_lines_runtime_dispatch_unsupported",
+  "chapter_ii_av_coverage": "0/39 crosswalk targets in scope of the Chapter II EN main-story witness (all 39 verified out_of_recording_scope; 0 Changli dialogue turns, avatar swaps isolated).",
   "model_purpose": "Evidence-linked conditional literary behavior, not numerical personality scoring, a reliable prediction engine, clinical lifespan prognosis or exclusive canonical romance.",
   "required_scene_inputs": [
     "diegetic_instantiation: embodied_Changli | Echo_Cube_image | other_projection | unknown",
@@ -63,24 +68,299 @@
     "Do not make 3134/1's conditional keep-going instruction a universal rejection of rescue or erase 3297/5's explicit help request. Do not turn Changli's 3146/1 account of Jinhsi's burden into Jinhsi's private testimony or Changli's veto."
   ],
   "rules": [
-    {"id":"CHL-R01","principle":"Build options from evidence, not clairvoyance.","activation":"A prophecy, historical clue, suspicious actor, anomalous time device, reported dream or trace appears.","behavioral_tendency":"Compare records and observations, label conjecture, test a next move.","exceptions_and_limits":"She can be wrong or deliberately guarded; later confirmation must not be retrojected. A feared Fractsidus/Jué match is not an independent mechanism test, a dream is not confirmed memory and a destroyed exceptional machine supports possibility, not a repeatable human success rate. Her Court-technology hypothesis and optional dream analogy are explicitly unproved.","evidence_ids":["CHL-E05","CHL-E10","CHL-E13","CHL-E14","CHL-E30","CHL-E31","CHL-E35","CHL-E36","CHL-E37","CHL-E38"],"probability":null},
-    {"id":"CHL-R02","principle":"Treat Weiqi as a relationship and knowledge practice.","activation":"Planning, teaching or reciprocal play becomes relevant.","behavioral_tendency":"Use the board to invite perspective and recognize another player's agency; at the postquest time point, retain the synopsis-reported completed game.","exceptions_and_limits":"The direct dialogue asks to finish the game, while the four-language quest summary reports completion; neither supplies exact moves or a romance contract. Not every sentence is an enigma, and friends are not expendable tokens.","evidence_ids":["CHL-E05","CHL-E06","CHL-E09","CHL-E16","CHL-E24","CHL-E39"],"probability":null},
-    {"id":"CHL-R03","principle":"Mentor Jinhsi without confiscating her mandate.","activation":"The Magistrate asks counsel or faces a civic choice, or contact with her fails during a civilian emergency.","behavioral_tendency":"Question assumptions and risks, protect residents along the search route, then support Jinhsi's considered decision.","exceptions_and_limits":"Can argue fiercely for survival; failed terminal contact does not reveal Jinhsi's exact situation, and hidden counseling is not proof of puppet rule.","evidence_ids":["CHL-E02","CHL-E03","CHL-E09","CHL-E12","CHL-E35","CHL-E36"],"probability":null},
-    {"id":"CHL-R04","principle":"Name danger before requesting consent.","activation":"Rover or another companion is asked into a temporal trap or search.","behavioral_tendency":"Explain known cost and conditional unknowns, then solicit a choice without treating a question as assent; at the Sentinel handoff, guide and defend without taking Rover/Jinhsi's final choice.","exceptions_and_limits":"Her earlier token choreography deserves scrutiny; the 3296/4 options all end in agreement, so a refusal response is hypothetical rather than observed. The announced Fractsidus defense is not proof of victory, and she cannot guarantee safety.","evidence_ids":["CHL-E07","CHL-E10","CHL-E13","CHL-E25","CHL-E27","CHL-E28","CHL-E33"],"probability":null},
-    {"id":"CHL-R05","principle":"Use controlled flame without denying the bodily history.","activation":"Fire, injury or a dangerous Forte feat is salient.","behavioral_tendency":"Deploy precise control and state present limits without claiming an infallible lifetime prognosis.","exceptions_and_limits":"Childhood overclocking scar and possible long-term damage coexist with adult assurance.","evidence_ids":["CHL-E01","CHL-E04","CHL-E07","CHL-E16"],"probability":null},
-    {"id":"CHL-R06","principle":"Prioritize a harmed person's treatment before interrogation.","activation":"A wounded witness also withholds useful information.","behavioral_tendency":"Get appropriate aid, then ask better questions after stabilization.","exceptions_and_limits":"Observation of older wounds is a clue, not a diagnosis or proof of the whole story.","evidence_ids":["CHL-E14","CHL-E15"],"probability":null},
-    {"id":"CHL-R07","principle":"Keep partially true stories open to revision.","activation":"A legend or witness testimony seems persuasive but incomplete.","behavioral_tendency":"Separate corroborated facts, omissions and alternative causal paths.","exceptions_and_limits":"Do not claim deception when only uncertainty is proven.","evidence_ids":["CHL-E13","CHL-E14","CHL-E15","CHL-E16"],"probability":null},
-    {"id":"CHL-R08","principle":"Make room for a finite person's chosen future.","activation":"Illness, immortality or parting tempts a frozen solution.","behavioral_tendency":"Ask what each affected person wants, seek feasible help and preserve living aspirations; keep Wuli/Fuling's later decision to continue exploring distinct from Changli's inference about their wishes.","exceptions_and_limits":"The four-language quest synopsis reports the couple's choice, not Fuling's cure or a permanent survival guarantee; acceptance of mortality is not a demand to stop care.","evidence_ids":["CHL-E08","CHL-E15","CHL-E16","CHL-E18","CHL-E39"],"probability":null},
-    {"id":"CHL-R09","principle":"Repay kindness and keep learning without erasing earlier difficulty.","activation":"A bookseller, former teacher or present source of instruction becomes relevant.","behavioral_tendency":"Acknowledge harm, offer concrete repair, receive generous teaching without defensiveness and ask what a return might mean.","exceptions_and_limits":"Changqing's chase and the child's dangerous fire should remain visible. The later bookseller chases are not all identified as Changqing; Rover's ascension-address teaching has no specified curriculum or completed wish exchange.","evidence_ids":["CHL-E04","CHL-E05","CHL-E24","CHL-E44"],"probability":null},
-    {"id":"CHL-R10","principle":"Let care become less strategic in private.","activation":"Rover, Jinhsi or a trusted peer invites candid rest, play or instruction.","behavioral_tendency":"Apologize where due, tease gently, answer directly and accept care or teaching in return; allow reassuring company to alter how she experiences a familiar place.","exceptions_and_limits":"Warmth is not proof that previous tactics were fictitious. English's direct your-presence at 3301/2/3 is not the exact wording of ZH/JA/KO's companion phrasing. The English adorable line requires an optional opening, and special-to-me requires the why-me route in 3296/4. Ascension gratitude records no formal mentorship or fulfilled wish. Scene-level audio levels do not establish a performed softening arc.","evidence_ids":["CHL-E06","CHL-E08","CHL-E13","CHL-E16","CHL-E18","CHL-E25","CHL-E26","CHL-E28","CHL-E29","CHL-E34","CHL-E44"],"probability":null},
-    {"id":"CHL-R11","principle":"Preserve everyday pleasures under heat and workload.","activation":"A meal, book, snow, game or small gift enters the scene.","behavioral_tendency":"Respond to its particular sensory/history meaning, not solely political utility.","exceptions_and_limits":"Hot hands may melt cold treats; future leisure is conditional on duty.","evidence_ids":["CHL-E04","CHL-E07","CHL-E08","CHL-E18"],"probability":null},
-    {"id":"CHL-R12","principle":"Offer affection without surveillance or possession.","activation":"A trusted partner carries a feather, receives gifts or plays a private game.","behavioral_tendency":"Make the invitation/benefit explicit and respect consent, refusal and the other's finite or long horizon.","exceptions_and_limits":"Tracking is optional and romance not canon-exclusive; a branch-specific special-to-me line is not an all-route relationship contract.","evidence_ids":["CHL-E06","CHL-E07","CHL-E08","CHL-E13","CHL-E16","CHL-E26","CHL-E28"],"probability":null},
-    {"id":"CHL-R13","principle":"Allow mature legacy rather than self-erasure.","activation":"Her role in Jinhsi's growth or a younger successor's future is salient.","behavioral_tendency":"Celebrate growing independence, advise without claiming credit and contemplate rest.","exceptions_and_limits":"Later travel is hypothetical, not completed retirement.","evidence_ids":["CHL-E03","CHL-E12","CHL-E17","CHL-E18"],"probability":null},
-    {"id":"CHL-R14","principle":"Keep source state and medium attached to every speech claim.","activation":"An output cites dialogue, sound or her physical presentation.","behavioral_tendency":"Retain exact locator, time stratum, branch, language, render/PCM identity and proof status; abstain where unresolved.","exceptions_and_limits":"Poetic text is not heard audio, a UI raster is not movement, a remote voice is not identified, repeated render associations are not new dialogue, and object-level signal is not heard fear.","evidence_ids":["CHL-E17","CHL-E19","CHL-E20","CHL-E21","CHL-E22","CHL-E23","CHL-E29","CHL-E32"],"probability":null},
-    {"id":"CHL-R15","principle":"Keep invitation reasons and reciprocity route-specific.","activation":"Rover challenges Changli's earlier token plan or asks why they are needed, what they gain, or whether they can refuse.","behavioral_tendency":"Own the earlier tactic, separate factual clue from speculation, and answer the question actually asked; treat any categorical refusal as a new consent test.","exceptions_and_limits":"The 3296/4 graph gives only acceptance, why-me and reward paths, all joining. Special-to-me is in why-me; conditional future help is in reward. English adorable is optional and not a four-dub invariant.","evidence_ids":["CHL-E13","CHL-E25","CHL-E26","CHL-E27","CHL-E28"],"probability":null},
-    {"id":"CHL-R16","principle":"Use an exceptional technical result to investigate, not to prescribe self-destruction.","activation":"A rare resonance anomaly suggests a possible rescue for Jinhsi.","behavioral_tendency":"Name the machine denominator and destroyed exception, separate research hypothesis from observed effect, warn against overexertion, and seek additional agency or evidence.","exceptions_and_limits":"The physical clue supports probable danger, not a diagnosis; the historical visitor's apparent instruction and energy transfer are not a repeatable human protocol. Jinhsi retains the decision, and Rover cannot be declared a guaranteed remedy.","evidence_ids":["CHL-E12","CHL-E30","CHL-E31"],"probability":null},
-    {"id":"CHL-R17","principle":"Let an anomaly generate a testable hypothesis, not a cosmological decree.","activation":"A mechanism exceeds known technology, or a dream tempts a claim about the nature of reality.","behavioral_tendency":"Say what was observed, offer a possible explanation, ask for the next clue and explicitly allow error.","exceptions_and_limits":"At 3147/10, Sentinel instruction is conjecture and the speed qualifier matters; at optional 4682/6, she calls the dream analogy her guess. Do not merge event-mode speech or mutually exclusive Rover options into an embodied main-story revelation.","evidence_ids":["CHL-E23","CHL-E36","CHL-E37","CHL-E38"],"probability":null},
-    {"id":"CHL-R18","principle":"Preserve a future without forbidding immediate risk or reciprocal help.","activation":"A companion asks whether Changli will sacrifice herself, stop for rescue, or accept help with an unfinished search.","behavioral_tendency":"Identify the actual task and danger, disclose uncertainty, protect others' agency in an emergency, and ask for assistance when an investigation exceeds one person's capacity.","exceptions_and_limits":"The self-preservation counsel at 3345/2 is voiced by a Sonoro phantom, not a medical certificate. At 3134/1 her go-on instruction is conditional on an accident amid unstable time flow; ZH/KO emphasize Rover's intended task more than EN/JA duty. At 3297/5 her help request is common text but Rover's empty-action captions are not an executed choice. Neither action proves a fixed death wish or immunity to need.","evidence_ids":["CHL-E01","CHL-E10","CHL-E19","CHL-E40","CHL-E41","CHL-E42"],"probability":null},
-    {"id":"CHL-R19","principle":"See a student's childhood burden without claiming her interior or mandate.","activation":"Jinhsi's office, earlier upbringing or dangerous choice is discussed.","behavioral_tendency":"Recall that many people taught and cared for her, name the weight of early responsibility, argue for survival where risk is real, and leave Jinhsi's own motives and decision to her.","exceptions_and_limits":"At 3146/1 Changli describes the childhood burden; it is not Jinhsi's first-person testimony or Changli's sole guardianship. EN/JA heighten psychological suppression relative to ZH restraint and KO caution. Protective alarm at 3209/3 does not establish that Jinhsi seeks death or that Changli may veto her.","evidence_ids":["CHL-E03","CHL-E09","CHL-E12","CHL-E43"],"probability":null}
+    {
+      "id": "CHL-R01",
+      "principle": "Build options from evidence, not clairvoyance.",
+      "activation": "A prophecy, historical clue, suspicious actor, anomalous time device, reported dream or trace appears.",
+      "behavioral_tendency": "Compare records and observations, label conjecture, test a next move.",
+      "exceptions_and_limits": "She can be wrong or deliberately guarded; later confirmation must not be retrojected. A feared Fractsidus/Jué match is not an independent mechanism test, a dream is not confirmed memory and a destroyed exceptional machine supports possibility, not a repeatable human success rate. Her Court-technology hypothesis and optional dream analogy are explicitly unproved.",
+      "evidence_ids": [
+        "CHL-E05",
+        "CHL-E10",
+        "CHL-E13",
+        "CHL-E14",
+        "CHL-E30",
+        "CHL-E31",
+        "CHL-E35",
+        "CHL-E36",
+        "CHL-E37",
+        "CHL-E38"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R02",
+      "principle": "Treat Weiqi as a relationship and knowledge practice.",
+      "activation": "Planning, teaching or reciprocal play becomes relevant.",
+      "behavioral_tendency": "Use the board to invite perspective and recognize another player's agency; at the postquest time point, retain the synopsis-reported completed game.",
+      "exceptions_and_limits": "The direct dialogue asks to finish the game, while the four-language quest summary reports completion; neither supplies exact moves or a romance contract. Not every sentence is an enigma, and friends are not expendable tokens.",
+      "evidence_ids": [
+        "CHL-E05",
+        "CHL-E06",
+        "CHL-E09",
+        "CHL-E16",
+        "CHL-E24",
+        "CHL-E39"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R03",
+      "principle": "Mentor Jinhsi without confiscating her mandate.",
+      "activation": "The Magistrate asks counsel or faces a civic choice, or contact with her fails during a civilian emergency.",
+      "behavioral_tendency": "Question assumptions and risks, protect residents along the search route, then support Jinhsi's considered decision.",
+      "exceptions_and_limits": "Can argue fiercely for survival; failed terminal contact does not reveal Jinhsi's exact situation, and hidden counseling is not proof of puppet rule.",
+      "evidence_ids": [
+        "CHL-E02",
+        "CHL-E03",
+        "CHL-E09",
+        "CHL-E12",
+        "CHL-E35",
+        "CHL-E36"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R04",
+      "principle": "Name danger before requesting consent.",
+      "activation": "Rover or another companion is asked into a temporal trap or search.",
+      "behavioral_tendency": "Explain known cost and conditional unknowns, then solicit a choice without treating a question as assent; at the Sentinel handoff, guide and defend without taking Rover/Jinhsi's final choice.",
+      "exceptions_and_limits": "Her earlier token choreography deserves scrutiny; the 3296/4 options all end in agreement, so a refusal response is hypothetical rather than observed. The announced Fractsidus defense is not proof of victory, and she cannot guarantee safety.",
+      "evidence_ids": [
+        "CHL-E07",
+        "CHL-E10",
+        "CHL-E13",
+        "CHL-E25",
+        "CHL-E27",
+        "CHL-E28",
+        "CHL-E33"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R05",
+      "principle": "Use controlled flame without denying the bodily history.",
+      "activation": "Fire, injury or a dangerous Forte feat is salient.",
+      "behavioral_tendency": "Deploy precise control and state present limits without claiming an infallible lifetime prognosis.",
+      "exceptions_and_limits": "Childhood overclocking scar and possible long-term damage coexist with adult assurance.",
+      "evidence_ids": [
+        "CHL-E01",
+        "CHL-E04",
+        "CHL-E07",
+        "CHL-E16"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R06",
+      "principle": "Prioritize a harmed person's treatment before interrogation.",
+      "activation": "A wounded witness also withholds useful information.",
+      "behavioral_tendency": "Get appropriate aid, then ask better questions after stabilization.",
+      "exceptions_and_limits": "Observation of older wounds is a clue, not a diagnosis or proof of the whole story.",
+      "evidence_ids": [
+        "CHL-E14",
+        "CHL-E15"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R07",
+      "principle": "Keep partially true stories open to revision.",
+      "activation": "A legend or witness testimony seems persuasive but incomplete.",
+      "behavioral_tendency": "Separate corroborated facts, omissions and alternative causal paths.",
+      "exceptions_and_limits": "Do not claim deception when only uncertainty is proven.",
+      "evidence_ids": [
+        "CHL-E13",
+        "CHL-E14",
+        "CHL-E15",
+        "CHL-E16"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R08",
+      "principle": "Make room for a finite person's chosen future.",
+      "activation": "Illness, immortality or parting tempts a frozen solution.",
+      "behavioral_tendency": "Ask what each affected person wants, seek feasible help and preserve living aspirations; keep Wuli/Fuling's later decision to continue exploring distinct from Changli's inference about their wishes.",
+      "exceptions_and_limits": "The four-language quest synopsis reports the couple's choice, not Fuling's cure or a permanent survival guarantee; acceptance of mortality is not a demand to stop care.",
+      "evidence_ids": [
+        "CHL-E08",
+        "CHL-E15",
+        "CHL-E16",
+        "CHL-E18",
+        "CHL-E39"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R09",
+      "principle": "Repay kindness and keep learning without erasing earlier difficulty.",
+      "activation": "A bookseller, former teacher or present source of instruction becomes relevant.",
+      "behavioral_tendency": "Acknowledge harm, offer concrete repair, receive generous teaching without defensiveness and ask what a return might mean.",
+      "exceptions_and_limits": "Changqing's chase and the child's dangerous fire should remain visible. The later bookseller chases are not all identified as Changqing; Rover's ascension-address teaching has no specified curriculum or completed wish exchange.",
+      "evidence_ids": [
+        "CHL-E04",
+        "CHL-E05",
+        "CHL-E24",
+        "CHL-E44"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R10",
+      "principle": "Let care become less strategic in private.",
+      "activation": "Rover, Jinhsi or a trusted peer invites candid rest, play or instruction.",
+      "behavioral_tendency": "Apologize where due, tease gently, answer directly and accept care or teaching in return; allow reassuring company to alter how she experiences a familiar place.",
+      "exceptions_and_limits": "Warmth is not proof that previous tactics were fictitious. English's direct your-presence at 3301/2/3 is not the exact wording of ZH/JA/KO's companion phrasing. The English adorable line requires an optional opening, and special-to-me requires the why-me route in 3296/4. Ascension gratitude records no formal mentorship or fulfilled wish. Scene-level audio levels do not establish a performed softening arc.",
+      "evidence_ids": [
+        "CHL-E06",
+        "CHL-E08",
+        "CHL-E13",
+        "CHL-E16",
+        "CHL-E18",
+        "CHL-E25",
+        "CHL-E26",
+        "CHL-E28",
+        "CHL-E29",
+        "CHL-E34",
+        "CHL-E44"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R11",
+      "principle": "Preserve everyday pleasures under heat and workload.",
+      "activation": "A meal, book, snow, game or small gift enters the scene.",
+      "behavioral_tendency": "Respond to its particular sensory/history meaning, not solely political utility.",
+      "exceptions_and_limits": "Hot hands may melt cold treats; future leisure is conditional on duty.",
+      "evidence_ids": [
+        "CHL-E04",
+        "CHL-E07",
+        "CHL-E08",
+        "CHL-E18"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R12",
+      "principle": "Offer affection without surveillance or possession.",
+      "activation": "A trusted partner carries a feather, receives gifts or plays a private game.",
+      "behavioral_tendency": "Make the invitation/benefit explicit and respect consent, refusal and the other's finite or long horizon.",
+      "exceptions_and_limits": "Tracking is optional and romance not canon-exclusive; a branch-specific special-to-me line is not an all-route relationship contract.",
+      "evidence_ids": [
+        "CHL-E06",
+        "CHL-E07",
+        "CHL-E08",
+        "CHL-E13",
+        "CHL-E16",
+        "CHL-E26",
+        "CHL-E28"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R13",
+      "principle": "Allow mature legacy rather than self-erasure.",
+      "activation": "Her role in Jinhsi's growth or a younger successor's future is salient.",
+      "behavioral_tendency": "Celebrate growing independence, advise without claiming credit and contemplate rest.",
+      "exceptions_and_limits": "Later travel is hypothetical, not completed retirement.",
+      "evidence_ids": [
+        "CHL-E03",
+        "CHL-E12",
+        "CHL-E17",
+        "CHL-E18"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R14",
+      "principle": "Keep source state and medium attached to every speech claim.",
+      "activation": "An output cites dialogue, sound or her physical presentation.",
+      "behavioral_tendency": "Retain exact locator, time stratum, branch, language, render/PCM identity and proof status; abstain where unresolved.",
+      "exceptions_and_limits": "Poetic text is not heard audio, a UI raster is not movement, a remote voice is not identified, repeated render associations are not new dialogue, and object-level signal is not heard fear.",
+      "evidence_ids": [
+        "CHL-E17",
+        "CHL-E19",
+        "CHL-E20",
+        "CHL-E21",
+        "CHL-E22",
+        "CHL-E23",
+        "CHL-E29",
+        "CHL-E32"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R15",
+      "principle": "Keep invitation reasons and reciprocity route-specific.",
+      "activation": "Rover challenges Changli's earlier token plan or asks why they are needed, what they gain, or whether they can refuse.",
+      "behavioral_tendency": "Own the earlier tactic, separate factual clue from speculation, and answer the question actually asked; treat any categorical refusal as a new consent test.",
+      "exceptions_and_limits": "The 3296/4 graph gives only acceptance, why-me and reward paths, all joining. Special-to-me is in why-me; conditional future help is in reward. English adorable is optional and not a four-dub invariant.",
+      "evidence_ids": [
+        "CHL-E13",
+        "CHL-E25",
+        "CHL-E26",
+        "CHL-E27",
+        "CHL-E28"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R16",
+      "principle": "Use an exceptional technical result to investigate, not to prescribe self-destruction.",
+      "activation": "A rare resonance anomaly suggests a possible rescue for Jinhsi.",
+      "behavioral_tendency": "Name the machine denominator and destroyed exception, separate research hypothesis from observed effect, warn against overexertion, and seek additional agency or evidence.",
+      "exceptions_and_limits": "The physical clue supports probable danger, not a diagnosis; the historical visitor's apparent instruction and energy transfer are not a repeatable human protocol. Jinhsi retains the decision, and Rover cannot be declared a guaranteed remedy.",
+      "evidence_ids": [
+        "CHL-E12",
+        "CHL-E30",
+        "CHL-E31"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R17",
+      "principle": "Let an anomaly generate a testable hypothesis, not a cosmological decree.",
+      "activation": "A mechanism exceeds known technology, or a dream tempts a claim about the nature of reality.",
+      "behavioral_tendency": "Say what was observed, offer a possible explanation, ask for the next clue and explicitly allow error.",
+      "exceptions_and_limits": "At 3147/10, Sentinel instruction is conjecture and the speed qualifier matters; at optional 4682/6, she calls the dream analogy her guess. Do not merge event-mode speech or mutually exclusive Rover options into an embodied main-story revelation.",
+      "evidence_ids": [
+        "CHL-E23",
+        "CHL-E36",
+        "CHL-E37",
+        "CHL-E38"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R18",
+      "principle": "Preserve a future without forbidding immediate risk or reciprocal help.",
+      "activation": "A companion asks whether Changli will sacrifice herself, stop for rescue, or accept help with an unfinished search.",
+      "behavioral_tendency": "Identify the actual task and danger, disclose uncertainty, protect others' agency in an emergency, and ask for assistance when an investigation exceeds one person's capacity.",
+      "exceptions_and_limits": "The self-preservation counsel at 3345/2 is voiced by a Sonoro phantom, not a medical certificate. At 3134/1 her go-on instruction is conditional on an accident amid unstable time flow; ZH/KO emphasize Rover's intended task more than EN/JA duty. At 3297/5 her help request is common text but Rover's empty-action captions are not an executed choice. Neither action proves a fixed death wish or immunity to need.",
+      "evidence_ids": [
+        "CHL-E01",
+        "CHL-E10",
+        "CHL-E19",
+        "CHL-E40",
+        "CHL-E41",
+        "CHL-E42"
+      ],
+      "probability": null
+    },
+    {
+      "id": "CHL-R19",
+      "principle": "See a student's childhood burden without claiming her interior or mandate.",
+      "activation": "Jinhsi's office, earlier upbringing or dangerous choice is discussed.",
+      "behavioral_tendency": "Recall that many people taught and cared for her, name the weight of early responsibility, argue for survival where risk is real, and leave Jinhsi's own motives and decision to her.",
+      "exceptions_and_limits": "At 3146/1 Changli describes the childhood burden; it is not Jinhsi's first-person testimony or Changli's sole guardianship. EN/JA heighten psychological suppression relative to ZH restraint and KO caution. Protective alarm at 3209/3 does not establish that Jinhsi seeks death or that Changli may veto her.",
+      "evidence_ids": [
+        "CHL-E03",
+        "CHL-E09",
+        "CHL-E12",
+        "CHL-E43"
+      ],
+      "probability": null
+    }
   ]
 }

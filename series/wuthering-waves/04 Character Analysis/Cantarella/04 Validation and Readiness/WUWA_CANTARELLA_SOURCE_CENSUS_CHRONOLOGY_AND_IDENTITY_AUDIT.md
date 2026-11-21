@@ -4,8 +4,8 @@ character: Cantarella
 artifact_type: source_census_chronology_identity_audit
 scope: CANTARELLA_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: CANTARELLA_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,14 +14,14 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Cantarella — source census, chronology and identity
 
 ## Pinned source and denominator
 
-The local character package is selected from Arikatsu normalized client-derived semantic generation `arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko`, commit `353f2eaed119bc9f680eab92807d20ac75a79b40`. Chinese (`zh-Hans`) is the semantic anchor and EN/JA/KO are witnesses. Official-client raw voice FLAC/WEM objects have separate primary-media authority for their bytes, not for the normalized story graph or speaker assignment. The source generation is frozen independently of this draft's **noncurrent** authority state.
+The local character package is selected from Arikatsu normalized client-derived semantic generation `arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko`, commit `353f2eaed119bc9f680eab92807d20ac75a79b40`. Chinese (`zh-Hans`) is the semantic anchor and EN/JA/KO are witnesses. Official-client raw voice FLAC/WEM objects have separate primary-media authority for their bytes, not for the normalized story graph or speaker assignment. The source generation is frozen independently of this packet's owner-adopted `active_provisional` authority state.
 
 The valid `COLLECTION_AUDIT.json` retains 200 full relevant flow-state rows, 2,649 contextual text keys, 65 quest references across 16 quest IDs and one WavesLine **metadata-only shell**. That shell is not evidence of five extracted message texts. The selected direct-character identity crosswalk has 901 candidates: 885 `accepted_solo`, nine rejected and seven unresolved. Of the accepted direct occurrences, 780 are source-voiced and 105 source-unvoiced. Five favor stories and 65 archive voice lines are retained separately from scene dialogue. The complete selected audio view has 845 semantic voice lines, 3,389 render associations, 3,240 runtime object rows and 3,237 distinct FLAC/PCM objects, 923,712,482 distinct FLAC bytes. All selected native objects passed local integrity and measurement; no human performance annotation was made.
 

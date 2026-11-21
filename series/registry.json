@@ -1074,11 +1074,13 @@
         "ANIME"
       ],
       "repository_path": "series/shine-post/",
-      "canonical_entrypoint": "series/shine-post/V1 Analysis/00_README_AND_CORPUS_MAP.md",
+      "canonical_entrypoint": "series/shine-post/CURRENT_STATE_AND_CORPUS_MAP.md",
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "GIT_PRIMARY"
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese-anime analysis with character, directed-relationship, music and performance responsibilities; preserves the earlier V1 corpus."
     },
     {
       "series_id": "shokugeki-no-soma",

@@ -4,8 +4,8 @@ character: Augusta
 artifact_type: continuous_character_deep_dive
 scope: AUGUSTA_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: AUGUSTA_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: canonical
+release_state: owner_adopted_current_canonical
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,7 +14,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Augusta: what a hero owes after victory
@@ -149,4 +149,4 @@ Finally, a romance-by-title reading has little support. Augusta's respect for Ro
 
 ## Interpretive boundary
 
-The selected source has 605 semantic voice lines with complete four-language render links and 2,399 distinct locally verified/measured FLAC/PCM objects, but no human listening. It also has 106 accepted source-unvoiced direct lines, including crucial quiet material, and five unresolved anonymous relic-donor candidates. Three decoded client UI rasters support solar/warrior visual presentation, not runtime posture, alternative forms or exact weapon mechanics. Magno's death, Angel's fate, and Iuno's disturbed-memory chronology remain explicit open questions. The strongest supported model is therefore conditional: Augusta pursues strength as a means of refusing helplessness, repeatedly tests whether heroic power protects other people's agency, and discovers that after defeating a visible foe, the harder victories are over systems, fatalism and the expectation that a person's story ends at its highest title.
+The selected source has 605 semantic voice lines with complete four-language render links and 2,399 distinct locally verified/measured FLAC/PCM objects in the pre-AV baseline. Subsequent direct listening is limited to the eight solo lines named in the current-state router. It also has 106 accepted source-unvoiced direct lines, including crucial quiet material, and five unresolved anonymous relic-donor candidates. Three decoded client UI rasters support solar/warrior visual presentation, not runtime posture, alternative forms or exact weapon mechanics. Magno's death, Angel's fate, and Iuno's disturbed-memory chronology remain explicit open questions. The strongest supported model is therefore conditional: Augusta pursues strength as a means of refusing helplessness, repeatedly tests whether heroic power protects other people's agency, and discovers that after defeating a visible foe, the harder victories are over systems, fatalism and the expectation that a person's story ends at its highest title.

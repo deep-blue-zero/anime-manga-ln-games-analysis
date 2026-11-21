@@ -4,8 +4,8 @@ character: Jinhsi
 artifact_type: source_census_chronology_identity_audit
 scope: JINHSI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
 analysis_generation: JINHSI_PRE_AV_V0_1
-status: draft_noncurrent
-release_state: author_working_draft_pending_owner_review
+status: active_provisional
+release_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_generation_frozen: true
@@ -14,7 +14,7 @@ text_authority: zh-Hans
 localization_witnesses: [en, ja, ko]
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 ---
 
 # Jinhsi — source census, chronology and identity audit
@@ -60,4 +60,4 @@ At `584/5`, this distinction is unusually visible: the raw item list starts with
 
 ## Localization and authority
 
-Chinese normalized dialogue is the semantic anchor; EN/JA/KO are witnesses whose phrasing can shift self-reference, office vocabulary, certainty and intimacy. Particularly review the later EN “Hsi” self-reference (`flow#/20167/7`) against Chinese before asserting a birth name or second character. The game client supplies stronger raw authority for its own art and decoded media objects, but decoded WEM membership does not validate normalized speaker identity or reachable story branch. The frozen generation and `draft_noncurrent` analytical status are orthogonal. A fuller 3.6+ or live-client comparison could change coverage without retroactively making this packet current.
+Chinese normalized dialogue is the semantic anchor; EN/JA/KO are witnesses whose phrasing can shift self-reference, office vocabulary, certainty and intimacy. Particularly review the later EN “Hsi” self-reference (`flow#/20167/7`) against Chinese before asserting a birth name or second character. The game client supplies stronger raw authority for its own art and decoded media objects, but decoded WEM membership does not validate normalized speaker identity or reachable story branch. The frozen generation and `active_provisional` analytical status are orthogonal. A fuller 3.6+ or live-client comparison could change coverage only through explicit revision.
