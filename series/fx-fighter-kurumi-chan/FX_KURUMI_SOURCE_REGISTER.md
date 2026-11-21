@@ -70,7 +70,7 @@ Every package passed a ZIP CRC test and resolved its container to one OPF. Each 
 
 ## V01 coverage
 
-Recorded by the V01 principal for run FXK-RUN-20261119-V01-V10, subject to the run coordinator's acceptance of the V01 transaction. The [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md) holds the full receipt; the [V01 checkpoint](checkpoints/FX_KURUMI_V01_CHECKPOINT.md) records each role's coverage and every disposition.
+Recorded by the V01 principal for run FXK-RUN-20261119-V01-V10 and accepted with the V01 transaction by the run coordinator on 2026-11-21. The [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md) holds the full receipt; the [V01 checkpoint](checkpoints/FX_KURUMI_V01_CHECKPOINT.md) records each role's coverage and every disposition.
 
 - **Witness.** FXK-JP-V01-W01, package title 「FX戦士くるみちゃん　1」: 171 image occurrences at 1350×1920, right-to-left, Kindle-unpack lineage. The colophon (i0170) gives e-book ver.001, published 2021-07-21 by KADOKAWA, first serialized in 月刊コミックフラッパー 2021年3月号〜7月号. Colour occurrences: i0001, i0003–i0006, i0166, i0167, i0169.
 - **Occurrences reviewed.** The principal opened every occurrence i0001–i0171 in spine order: the main narrative first, and the covers and apparatus only after the main-narrative exit freeze. Each of the two independent specialists also opened all 171 occurrences. The reviewer triaged every occurrence on contact sheets and opened the decisive pages at reading resolution or in crops.

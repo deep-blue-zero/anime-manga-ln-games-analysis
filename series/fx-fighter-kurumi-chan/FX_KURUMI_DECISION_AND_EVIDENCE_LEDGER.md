@@ -7,7 +7,7 @@ version: "1.1"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Ordered fictional decisions, state and interpretation history for the collected manga"
-source_boundary: "FXK-JP-V01-W01 main narrative and classified apparatus (V01), subject to coordinator acceptance; no later volume"
+source_boundary: "FXK-JP-V01-W01 main narrative and classified apparatus (V01), accepted by the run coordinator on 2026-11-21; no later volume"
 created: 2026-11-15
 last_updated: 2026-11-21
 supersedes: []
@@ -18,7 +18,7 @@ do_not_use_as_literary_evidence: true
 
 # FX Fighter Kurumi-chan — Decision and Evidence Ledger
 
-Source admission is **V01** (FXK-JP-V01-W01: main narrative i0003–i0162 and classified apparatus i0001–i0002 and i0163–i0171), subject to the run coordinator's acceptance of the V01 transaction; the rows below record V01 only and cite observation IDs from the [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md). Use stable observation IDs from the accepted reading and link to the actual page and panel or screen region before advancing any row.
+Source admission is **V01** (FXK-JP-V01-W01: main narrative i0003–i0162 and classified apparatus i0001–i0002 and i0163–i0171), accepted with the V01 transaction by the run coordinator on 2026-11-21; the rows below record V01 only and cite observation IDs from the [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md). Use stable observation IDs from the accepted reading and link to the actual page and panel or screen region before advancing any row.
 
 | Episode ID | Witness and unit/disclosure point | Figure, language or action shown and locator | Holder, time and modality of information | Entering alternatives and observed action | Exit change and affected person | Rival, uncertainty and claim pointer |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -153,7 +153,7 @@ For prospects preserve predictions, confidence, disconfirming signals and actual
 
 ## Person-level qualification
 
-Subjects assessed through V01 (FXK-JP-V01-W01, subject to the coordinator's acceptance) are listed after this paragraph. Record each eligible person, source and horizon, distinct habits, ordinary choices, Japanese speech, cognition under differing conditions, directional ties, counterexamples, evidence sufficiency and reassessment threshold. Link a completed monograph and its separate self-containment and fidelity decisions once accepted.
+Subjects assessed through V01 (FXK-JP-V01-W01, accepted by the run coordinator on 2026-11-21) are listed after this paragraph. Record each eligible person, source and horizon, distinct habits, ordinary choices, Japanese speech, cognition under differing conditions, directional ties, counterexamples, evidence sufficiency and reassessment threshold. Link a completed monograph and its separate self-containment and fidelity decisions once accepted.
 
 - **福賀くるみ (Fukuga Kurumi)**: source W01 V01; horizon ages 15 (2008–09) and 20 (Feb–May 2014). Evidence
   sufficiency: HIGH; she is on nearly every main page.
