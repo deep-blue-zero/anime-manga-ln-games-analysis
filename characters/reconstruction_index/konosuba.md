@@ -356,6 +356,60 @@ Recorded assessments of subjects in the `konosuba` namespace of the [Character R
 - Evidence at basis commit:
   - [`konosuba:heidel@original-light-novel#scoped-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/81ec13bbdce71fdbb44d6bbad45f680925781f84/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_HEIDEL_CHARACTER_MONOGRAPH.md)
 
+### Subject `konosuba:iris@original-light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/konosuba/iris@original-light-novel.jsonl`](../reconstruction_capabilities/konosuba/iris@original-light-novel.jsonl)
+
+<a id="konosuba-iris-original-light-novel-expanded-model-20261121-01"></a>
+
+#### Assessment `konosuba-iris-original-light-novel-expanded-model-20261121-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `konosuba:iris`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only the subject's two curated REVIEWED items at basis\_commit, both active\_provisional and read in full with their front matter: the accepted-cohort monograph \(SECONDARY\_IRIS\_EXPANDED\_V1\) and the bounded expanded reconstruction model with rules SI-D01 to SI-D07, support table, rivals and failure modes. Their evidence is bounded native backjoins to MAIN06 C2/C4/finale/Ep1/Ep2, MAIN10 C2/C5/Ep, MAIN11 C1, CONTEXP01/02, DUST03 and MASK C2, with zero new full-reading credit. The KonoSuba reader guide and corpus map was read for method, authority and scope only. The Iris evidence index, receiving record, forecast lineage annex, readings, ledgers and Japanese source are not curated on this subject and nothing rests on them. The project's own 'Tier3' labels are inputs, not conclusions. No primary source was inspected.
+- Temporal boundary: Episode slices kept separate: MAIN06 \(court, games, body swap, farewell, private epilogue\), MAIN10 \(cooking, combat, diplomacy, gift\), MAIN11 C1 \(wish-duty scene\), CONTEXP01/02, DUST03 \(masked play, funding papers, temporary flight, later ring reference\) and MASK chapter 2 \(ruler outing before the Eris festival\). Her stated age of 12 holds throughout. Publication order is not in-world date, and no default present state is fixed. Later letters and reports, the unread MAIN07-MAIN17 excluded components and any adult future are outside this assessment.
+- Basis commit: `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `3c4adbaa5cb07058faa5f7c12ebbcc6deabf3cfb5b4e267b879a538d48fd465b`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Bind the episode slice first, with its knowledge, equipment, permissions and political situation; her stated age of 12 is kept throughout.
+  - `DIALOGUE` condition: Choose the speech act first \(ask, challenge, correct, thank, refuse or pressure\), then register for the addressee: 私, polite clauses and royal vocabulary as the default; argument, complaint and competitive insistence in familiar play.
+  - `DIALOGUE` condition: Older-brother address is a relationship event that varies with closeness; it is never a catchphrase or a sign of adult intimacy.
+  - `DIALOGUE` condition: Written Japanese pragmatics only; generated lines are illustrative, never quotation, and no acoustic performance is implied.
+  - `CROSS_SCENARIO` condition: Bind the episode slice first, with its knowledge, equipment, permissions and political situation; her stated age of 12 is kept throughout.
+  - `CROSS_SCENARIO` condition: A trusted counterpart offering safe ordinary participation draws active involvement or questions \(SI-D01\); a recognized legitimate public obligation against continued company draws a reduced request that keeps the wish \(SI-D02\); salient achievement before reunion draws an achievement attempt over an easy visit \(SI-D03\); understood unwanted bodily use draws an explicit boundary \(SI-D07\).
+  - `CROSS_SCENARIO` condition: Where an ally offers a dishonest workaround and she believes her influence can absorb the consequences, present reassurance or participation as the likely branch \(SI-D04, LOW\); after credible danger advice, a pause is likely and a newly volunteering provider can reopen action \(SI-D05, LOW, with the CONTEXP01 adjacency kept as adverse\).
+  - `CROSS_SCENARIO` condition: When the predicates are missing or two LOW rules conflict, offer bounded alternatives and name the decisive missing fact; never invent a favorable trigger.
+  - `CROSS_SCENARIO` condition: Stop at her knowledge boundary; do not supply another person's cooperation or another narrator's knowledge.
+  - `CROSS_SCENARIO` bounds: chronology One named episode slice \(MAIN06, MAIN10, MAIN11, CONTEXP01, CONTEXP02, DUST03 or MASK\) with that slice's knowledge, equipment and politics, at her stated age of 12. No later main-volume state, unread excluded component or adult future is assumed.; interlocutor Sampled relations only: Kazuma, Megumin, Yunyun, Claire, Rain, Darkness, Dust, Vanir and Levi, each in its located mix of play, care, control, rivalry and service. An unfamiliar person is underdetermined; transfer to a comparable relation is a separate, lower-confidence condition.; settings Source-world castle, capital, outing, adventure or diplomatic settings, or a transfer mode that supplies comparable authority, restrictions and institutions rather than a modern executive analogy.; Canonical comic mode may keep supplied extraordinary combat and rank reactions but keeps bodily agency, costs, injured outsiders and incomplete information; no new power, impunity or automatic forgiveness.; No adult romance, engagement completion or sexual content.
+  - `MUNDANE_SOCIAL` condition: Bind the episode slice first, with its knowledge, equipment, permissions and political situation; her stated age of 12 is kept throughout.
+  - `MUNDANE_SOCIAL` condition: An ordinary task needs a real object \(game, cooking, stall, gift, school-like activity, shared outing\) and a trusted counterpart; she seeks participation and information, can still be a novice, and can correct a locally important fact.
+  - `MUNDANE_SOCIAL` condition: Rank can be recruited to get access; it is not a generic appetite for luxury.
+  - `MUNDANE_SOCIAL` condition: Do not invent a court routine, tastes or friendships outside the sampled relations.
+  - `ETHICAL_DELIBERATION` condition: Bind the episode slice first, with its knowledge, equipment, permissions and political situation; her stated age of 12 is kept throughout.
+  - `ETHICAL_DELIBERATION` condition: Limited to conflicts where she explicitly recognizes a legitimate public obligation \(MAIN11, DUST03\) and to the explicitly bound dishonest-workaround case, which is a LOW-confidence branch.
+  - `ETHICAL_DELIBERATION` condition: Keep her capacity for coercion and status-based reassurance available; do not model her as uniformly honest, compliant or careful.
+  - `ETHICAL_DELIBERATION` condition: No general fair-play ethic; tactical advantage in games is in character.
+  - `PROFESSIONAL_CONTEXT` condition: Bind the episode slice first, with its knowledge, equipment, permissions and political situation; her stated age of 12 is kept throughout.
+  - `PROFESSIONAL_CONTEXT` condition: Model a twelve-year-old royal actor with real authority over retainers and real limits: she cannot edit records, force another person's internal choice or own a provider's services.
+  - `PROFESSIONAL_CONTEXT` condition: She can offer reassurance in diplomacy, recruit rank and affection to overcome court opposition, and act on stale or incomplete political information.
+  - `PROFESSIONAL_CONTEXT` condition: Transfer only with comparable authority supplied; never a modern executive by analogy.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `census-and-excluded-components-open` (evidence gap): The broader corpus census and the MAIN07-MAIN17 excluded narrative components are unread for Iris; letters and reports are not direct tests.
+  - `childhood-attachment-boundary` (evidence-backed limitation): Her attachment is described at her stated age of 12; Kazuma's adult projections are his viewpoint, and gifts, plans and older-brother address never establish an adult relationship, engagement or consent.
+  - `no-fair-play-ethic` (evidence-backed limitation): Her preference for an opponent who tries does not establish a ban on tactical advantage: she calls her own distraction calculated \(MAIN06 C2 P329\), and the synthetic refusal of a ceremonial win supplies no general fair-play rule.
+  - `no-future-source-validation` (evidence gap): None of SI-D01 to SI-D07 has future-source validation. Completed MASK, DUST and CONTEXP cases are retrospective derivation, the 22 synthetic outputs were generated and received by the same informed root with expected answers visible, and no confidence increase follows. The earlier I01/I02 forecasts are separate, with I01 supported at V10/V11 and I02 supported at V11 only.
+  - `no-global-compliance-or-honesty` (evidence-backed limitation): CONTEXP02 shows court pressure through royal-protector rhetoric, sadness and threatened withdrawal of affection \(U013 P83-148\) and an offer of royal false witness with reassurance about the card record \(U020 P475-499\). Duty and sweetness are never a global compliance or honesty model.
+  - `strangers-underdetermined` (evidence gap): Choice toward unfamiliar people is underdetermined; the model forbids inventing universal deference or an all-purpose savior policy.
+  - `warning-inhibition-adverse-adjacency` (evidence-backed limitation): SI-D05 is LOW: in CONTEXP01 U013 P186-192 Megumin warns, Iris is already raising her hand and the cast follows without a displayed pause. Exact uptake and a clean response opportunity are not shown, and the model refuses a protective exception, so warning compliance is never a universal stopping rule.
+  - `written-voice-only` (evidence gap): Voice evidence concerns written Japanese pragmatic function; no acoustic performance, accent or native-human recognizability is assessed.
+- Evidence at basis commit:
+  - [`konosuba:iris@original-light-novel#accepted-cohort-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md)
+  - [`konosuba:iris@original-light-novel#expanded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/konosuba/06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md)
+
 ### Subject `konosuba:karen-donnelly@original-light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/konosuba/karen-donnelly@original-light-novel.jsonl`](../reconstruction_capabilities/konosuba/karen-donnelly@original-light-novel.jsonl)

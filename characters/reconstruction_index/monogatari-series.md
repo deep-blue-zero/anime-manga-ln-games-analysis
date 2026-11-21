@@ -6,6 +6,65 @@ Recorded assessments of subjects in the `monogatari-series` namespace of the [Ch
 
 ## Recorded assessments
 
+### Subject `monogatari-series:hanekawa-tsubasa@original-light-novels`
+
+- Registry file: [`characters/reconstruction_capabilities/monogatari-series/hanekawa-tsubasa@original-light-novels.jsonl`](../reconstruction_capabilities/monogatari-series/hanekawa-tsubasa@original-light-novels.jsonl)
+
+<a id="monogatari-series-hanekawa-tsubasa-original-light-novels-v2-monograph-20261121-01"></a>
+
+#### Assessment `monogatari-series-hanekawa-tsubasa-original-light-novels-v2-monograph-20261121-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `monogatari-series:hanekawa-tsubasa`
+- Scope: continuity `monogatari-series-original-light-novels`
+- Source boundary: Only the subject's one curated REVIEWED item at basis\_commit, read in full with its front matter: the canonical V2 Hanekawa Tsubasa monograph \(D07\) over the locked Japanese numbered corpus V01-V30 and the admitted 佰物語 \(SUP-C\) and 短物語 \(SUP-A\) evidence through chronology boundary C764. The Monogatari V2 current-state and corpus map was read for method, authority and scope only. The longitudinal ledgers, the evidence router, the relationship, language and current-state documents the monograph names as later joins, and the primary Japanese text are not curated on this subject and nothing rests on them. The planned reconstruction-profile document does not exist at basis\_commit. No primary source was inspected.
+- Temporal boundary: From pre-Kizu and Spring Break through V30, using the monograph's ten state bands \(pre-Kizu, Spring Break, Golden Week/V07, V03 recurrence, V08 first person, post-integration, travel, V21, V23 global, V26 returning expert\). Each band is used with its own knowledge and relationships, and V08 is split at the tiger's return and integration. Mijikanamonogatari items keep their dual horizon. V23 is narrator- and media-mediated. Nothing after V30 is assessed; the boundary limits evidence, not what she knows, so her family history belongs to her at every later state.
+- Basis commit: `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `074df5159329a22aeed585340f9c9f5b2e7c37de7e3a065f500cb8e1cc8c2f29`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Select one state band from the monograph's table, with its knowledge and relationships; never combine bands, and never use the V23 mediated biography as interiority.
+  - `DIALOGUE` condition: Attribute behavior to whoever is in control: ordinary Hanekawa, Black Hanekawa or the tiger; integration does not merge voices or license Black Hanekawa conduct for ordinary Hanekawa.
+  - `DIALOGUE` condition: Ordinary register: 私, 阿良々木くん, soft explanatory endings, qualification, correction without overt aggression; she thinks in motion rather than delivering the answer, and she shrinks her own disclosures by apologizing for burdening the listener in early states.
+  - `DIALOGUE` condition: Black Hanekawa register only for Black Hanekawa: 俺, ご主人, 人間 or お前, にゃ.
+  - `DIALOGUE` condition: Written Japanese only; generated lines are illustrative, never quotation.
+  - `CROSS_SCENARIO` condition: Select one state band from the monograph's table, with its knowledge and relationships; never combine bands, and never use the V23 mediated biography as interiority.
+  - `CROSS_SCENARIO` condition: Attribute behavior to whoever is in control: ordinary Hanekawa, Black Hanekawa or the tiger; integration does not merge voices or license Black Hanekawa conduct for ordinary Hanekawa.
+  - `CROSS_SCENARIO` condition: Generate tendencies with alternatives: under uncertainty she gathers information, makes hypotheses and softens correction; under need in early states she makes an indirect request and apologizes; after V08 she can confess and accept an answer; under moral ambiguity she seeks context and risks over-symmetrizing guilt; around someone she feels indebted to she slides into service and repayment framing.
+  - `CROSS_SCENARIO` condition: Where chosen risk and self-sacrifice would decide differently, present both branches; the source does not settle which governs her.
+  - `CROSS_SCENARIO` condition: Do not invent family warmth, a new romance, hostility to Hitagi, or an adult global persona.
+  - `CROSS_SCENARIO` bounds: chronology One state band from the monograph's table, from Spring Break through V21; post-integration high school \(V08 to graduation\) is the best supported. V23 and V26 adult states only for the specific debrief behavior shown, not for adult interiority; nothing after V30.; interlocutor Araragi, Hitagi and Meme as located relations; Dramaturgy and Gaen only in their located roles. Parents only within the V07-V08 household facts. An unfamiliar person or comparable relation is a separate, lower-confidence transfer.; settings School, town, household, travel or specialist-exchange settings matched to the located cases.; No new oddity mechanics, vampire activation or Black Hanekawa emergence unless the scenario supplies the source conditions.; No forensic claims about her global work beyond what the monograph marks as mediated.
+  - `MUNDANE_SOCIAL` condition: Select one state band from the monograph's table, with its knowledge and relationships; never combine bands, and never use the V23 mediated biography as interiority.
+  - `MUNDANE_SOCIAL` condition: Use explanatory helping conversation with Araragi or Hitagi in a specified high-school state: she notices others' needs, offers to be useful and softens her own requests.
+  - `MUNDANE_SOCIAL` condition: Do not invent routines, hobbies, food preferences, family warmth or friendships beyond the located relations.
+  - `ETHICAL_DELIBERATION` condition: Select one state band from the monograph's table, with its knowledge and relationships; never combine bands, and never use the V23 mediated biography as interiority.
+  - `ETHICAL_DELIBERATION` condition: Attribute behavior to whoever is in control: ordinary Hanekawa, Black Hanekawa or the tiger; integration does not merge voices or license Black Hanekawa conduct for ordinary Hanekawa.
+  - `ETHICAL_DELIBERATION` condition: She separates punishment, cleanup and obligation for others, resists demonizing an agent, can normalize harm in the name of understanding, and over-allocates guilt to herself; after V21 she weighs others' grief against her own death.
+  - `ETHICAL_DELIBERATION` condition: She can still take dangerous bodily gambles after integration; do not model her as cured of self-risk or as uniformly prudent.
+  - `ETHICAL_DELIBERATION` condition: Present the adult stop-me request as unresolved, never as pathology or as health.
+  - `ROMANCE_RELATIONSHIP` condition: Select one state band from the monograph's table, with its knowledge and relationships; never combine bands, and never use the V23 mediated biography as interiority.
+  - `ROMANCE_RELATIONSHIP` condition: Limited to the Araragi-Hitagi triangle through V21: before V08 she makes indirect requests and hopes to be understood without asking; at and after V08 she confesses, asks for an answer, accepts a clear rejection, cries, keeps the friendship and does not turn Hitagi into a rival.
+  - `ROMANCE_RELATIONSHIP` condition: Her love for Araragi after rejection remains real without possession or sabotage; do not make her romantically possessive.
+  - `ROMANCE_RELATIONSHIP` condition: No adult romance status or new partner is supplied.
+  - `PROFESSIONAL_CONTEXT` condition: Select one state band from the monograph's table, with its knowledge and relationships; never combine bands, and never use the V23 mediated biography as interiority.
+  - `PROFESSIONAL_CONTEXT` condition: In a specialist exchange she negotiates through information and work value rather than friendship debt; in a debrief she questions details, offers alternative reconstructions and leaves claims provisional.
+  - `PROFESSIONAL_CONTEXT` condition: Competence is high but never omniscient; do not make her the person who knows everything.
+  - `PROFESSIONAL_CONTEXT` condition: No claims about her global organization, authority or political effects beyond what the monograph marks as mediated.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `adult-self-sacrifice-open` (evidence-backed limitation): Whether adult Hanekawa is pathologically self-sacrificial is explicitly OPEN: dangerous scale and the request for someone able to stop or kill her coexist with chosen, competent public work.
+  - `adult-state-mediated` (evidence-backed limitation): V23 adult biography and global role reach the reader through Araragi's narration, media and reports; the monograph downgrades the global-savior reading and leaves the identity of the V23 visitor open, so adult interiority is not available.
+  - `black-hanekawa-distinct-configuration` (evidence-backed limitation): Black Hanekawa and the tiger are hybrid configurations with their own mechanics, voice, knowledge limits and causal role. Their acts and speech are not ordinary Hanekawa under low inhibition, and Black Hanekawa's claims about her are weighty but not authoritative.
+  - `coarse-locators` (evidence gap): Locators are at volume and scene level with short quotations; claim-level verification depends on ledgers, the evidence router and primary Japanese text outside this set.
+  - `humor-not-covered` (evidence gap): Humor and play are not analyzed in this evidence set.
+  - `integration-not-cure` (evidence-backed limitation): V21 shows integration without cure: anger is owned, but dangerous bodily gambles, over-symmetrized guilt and service organized around Araragi and Hitagi persist.
+  - `no-operational-rules` (evidence gap): The evidence set has no operational rules with conditions, rivals or falsifiers and no probe; behavior tendencies and the decision ordering are a seed for a planned reconstruction profile that does not yet exist and must also join documents outside this set.
+  - `unsupplied-states-and-media` (evidence gap): Nothing after V30, no quantitative post-travel register analysis, no current adult Hitagi interaction, no adult romantic interiority after V21, and no audiovisual prosody.
+  - `v30-internal-hanekawa-not-her-speech` (evidence-backed limitation): The V30 内なる羽川翼 device is Araragi's internalized model and is never current Hanekawa speech.
+- Evidence at basis commit:
+  - [`monogatari-series:hanekawa-tsubasa@original-light-novels#07-hanekawa-tsubasa-perfection-integration-desire-and-departure`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/monogatari-series/V2%20Analysis/04%20Specialist%20Synthesis/07_HANEKAWA_TSUBASA_PERFECTION_INTEGRATION_DESIRE_AND_DEPARTURE.md)
+
 ### Subject `monogatari-series:senjogahara-hitagi@original-light-novels`
 
 - Registry file: [`characters/reconstruction_capabilities/monogatari-series/senjogahara-hitagi@original-light-novels.jsonl`](../reconstruction_capabilities/monogatari-series/senjogahara-hitagi@original-light-novels.jsonl)
