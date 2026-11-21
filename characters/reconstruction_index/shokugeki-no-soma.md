@@ -404,6 +404,51 @@ Recorded assessments of subjects in the `shokugeki-no-soma` namespace of the [Ch
 - Evidence at basis commit:
   - [`shokugeki-no-soma:nakiri-erina@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f4b3164218ddeacb5b94fbe9678d315beed44972/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_ERINA_CHARACTER_MONOGRAPH.md)
 
+### Subject `shokugeki-no-soma:nakiri-mana@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/nakiri-mana@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/nakiri-mana@manga.jsonl)
+
+<a id="shokugeki-no-soma-nakiri-mana-manga-v2-model-20261121-01"></a>
+
+#### Assessment `shokugeki-no-soma-nakiri-mana-manga-v2-model-20261121-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shokugeki-no-soma:nakiri-mana`
+- Scope: continuity `shokugeki-no-soma-manga`
+- Source boundary: Only shokugeki-no-soma:nakiri-mana@manga\#reviewed-dedicated-analysis, the active\_provisional V2 bounded character model SHOKUGEKI\_MANA\_CHARACTER\_MODEL.md \(12,414 bytes\) at basis\_commit, read in full as reviewed repository analysis of the original Japanese manga V01-V36 including Le dessert. Every rule in it is keyed to only two volume readings, D35 and D36, and the model itself names her evidence as late and role-concentrated. Its linked deep readings, state, voice, relationship and readiness ledgers, evidence matrix, router and validation and fidelity audits are not curated on this subject and were not used as evidence. The model's readiness label 'substantial, provisional' and its authority\_state are inputs, not conclusions. No anime adaptation or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Five states as the model orders them: the retrospective family history of appetite decline; the concealed BLUE organizer; the revealed mother and evaluator; the V36 semifinal judgment and renewed relation with Erina; and the terminal family table, which the model makes its default when time is unspecified. The record covers every state, but the first is retrospective and supports only the recoil-and-withdrawal rule, not a diagnosis or a full account of why she withdrew. Evidence is located by volume reading key \(D35, D36\) and VV-NNN archive image, not by chapter-level state change; the serialized ending, Présent, Passé and Futur are kept distinct, and her continued physical difficulty in Présent bars treating any later meal as recovery. The endpoint's renewed relation does not establish that she recognized or corrected the BLUE procedure.
+- Basis commit: `2b23daa702fdcf41a4fc63df10ea2f8a389464d2`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `a5f3019723d58cc167c3c21043cc54793d44ace96b1502319fb937bf7b9d51fb`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Translated illustrative lines only, never presented as quotation, in a located occasion: an institutional evaluation of a plate, a BLUE or WGO pronouncement, sponsorship of Asahi's route, or, at the endpoint, future-facing criticism of Erina's cooking.
+  - `DIALOGUE` condition: Register follows the model: command and evaluative force in institutional speech; maternal withholding and expert description can coexist; cold precision does not mean absence of suffering.
+  - `DIALOGUE` condition: No pronoun or address inventory, no invented tics, no copying of Erina's register, no reuse of the late 不味い outside its chosen-recipient context, and no audiovisual performance claims.
+  - `DIALOGUE` condition: No line that announces a cure, apologizes in detail for BLUE, describes a private routine or jokes.
+  - `CROSS_SCENARIO` condition: A novel dish or cook judged by her: she can recognize technical excellence while finding a familiar dish insufficient for her horizon \(probe 1, M scene, H distinction\).
+  - `CROSS_SCENARIO` condition: Erina proposing a future meal rather than a final cure, at the endpoint: a future-facing culinary relation is consistent \(probe 2, M\); exact warmth, health and freedom from renewed pressure are unshown.
+  - `CROSS_SCENARIO` condition: The interlocutor is Erina, Asahi, Soma or an unknown cook in a professional role; any other recipient, including Azami, is a separate, lower-confidence case.
+  - `CROSS_SCENARIO` condition: Abstain on her response to refused help, mild criticism or a trivial domestic mistake \(probe 3, U\), diagnosis, cure, daily nutrition, favorite foods, her own cooking, recusal and apology for BLUE.
+  - `CROSS_SCENARIO` bounds: chronology A named state: the concealed BLUE organizer, the revealed mother and evaluator, the V36 judgment, or the terminal family table; in the terminal state, renewed access to eating without a certified cure and without completed accountability.; interlocutor Erina as the daughter who carried her assigned cure burden, Asahi as the cook she sponsored, Soma as a cook she evaluates, or an unknown cook in a professional role only; no maternal meaning transfers to anyone else.; settings Culinary evaluation, the BLUE tournament and WGO authority, and the family table at the endpoint.; No domestic routine, leisure or comic setting and no anime adaptation material.; Culinary mechanism, judging and institutions follow their specialist routes, which are outside this evidence set.
+  - `PROFESSIONAL_CONTEXT` condition: Discriminating evaluation of serious cuisine, WGO authority and tournament direction.
+  - `PROFESSIONAL_CONTEXT` condition: Authority over a bracket is never shown as fair administration; Bookmaster or maternal permission never supplies a contestant's or Erina's consent.
+  - `PROFESSIONAL_CONTEXT` condition: No authored cooking, no medical competence and no infallible knowledge of a child's wishes.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `accountability-unshown` (evidence-backed limitation): Renewed relation does not establish that she recognized or corrected the use of authority that made her need govern unequal competition; recusal, restitution and a detailed apology for BLUE are abstentions.
+  - `context-bound-form` (evidence-backed limitation): The late 不味い is context-specific to Erina cooking toward her as a chosen recipient and is not universal hidden praise or banter; no stable pronoun or address inventory is established.
+  - `help-refusal-and-criticism-unknown` (evidence-backed limitation): Her response to routine help or mild criticism after the ending is U; the model forbids a gracious or punitive domestic default.
+  - `late-concentrated-evidence` (evidence-backed limitation): Every rule is keyed to two late volume readings \(D35, D36\); the earliest state is retrospective.
+  - `no-cure` (evidence-backed limitation): Pleasure and renewed appetite are not a cure; continued physical difficulty in Présent bars a full-recovery model, and diagnosis and the long-term illness course are abstentions.
+  - `ordinary-life-sparse` (evidence-backed limitation): Her ordinary facts concern interrupted and renewed eating; a favorite-food catalogue, leisure routine, equitable household care or kindness to all mistakes are unsupported.
+  - `own-cooking-unshown` (evidence-backed limitation): Her own culinary production is not comparably evidenced; evaluative and institutional authority do not establish chef mastery.
+  - `priority-after-endpoint-unshown` (evidence-backed limitation): Whether relief or Erina's agency governs a new demand after the endpoint is not established: the model shows over-demand in BLUE and a future-facing relation at the end, and says exact warmth, health and freedom from renewed pressure are unshown \(probe 2\).
+  - `single-compact-synthesis` (evidence gap): The model is one compact synthesis; its three probes are noncanonical examples with stated confidence, not test outcomes.
+  - `uncurated-readings-and-audits` (evidence gap): The deep readings, voice, state, relationship and readiness ledgers, the evidence matrix and the validation and fidelity audits are not curated on this subject, so no locator was rechecked and no probe result is in this evidence set.
+- Evidence at basis commit:
+  - [`shokugeki-no-soma:nakiri-mana@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2b23daa702fdcf41a4fc63df10ea2f8a389464d2/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_MANA_CHARACTER_MODEL.md)
+
 ### Subject `shokugeki-no-soma:nakiri-senzaemon@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/nakiri-senzaemon@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/nakiri-senzaemon@manga.jsonl)

@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 204; `STALE` 1; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 206; `STALE` 1; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -34,7 +34,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`idoly-pride`](reconstruction_index/idoly-pride.md) | 1 | 1 |
 | [`kamakura-sho`](reconstruction_index/kamakura-sho.md) | 2 | 5 |
 | [`kimishinu`](reconstruction_index/kimishinu.md) | 1 | 1 |
-| [`konosuba`](reconstruction_index/konosuba.md) | 15 | 15 |
+| [`konosuba`](reconstruction_index/konosuba.md) | 16 | 16 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 2 | 2 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
@@ -48,7 +48,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`project-sekai`](reconstruction_index/project-sekai.md) | 7 | 8 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 21 | 25 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
-| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 16 | 16 |
+| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 17 | 17 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
 | [`silent-witch`](reconstruction_index/silent-witch.md) | 4 | 4 |
 | [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
@@ -109,6 +109,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `konosuba:amaryllis@original-light-novel` | [`konosuba-amaryllis-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-amaryllis-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:angie@original-light-novel` | [`konosuba-angie-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-angie-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:aqua@original-light-novel` | [`konosuba-aqua-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-aqua-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `B` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
+| `konosuba:chris-eris@original-light-novel` | [`konosuba-chris-eris-original-light-novel-expanded-model-20261121-01`](reconstruction_index/konosuba.md#konosuba-chris-eris-original-light-novel-expanded-model-20261121-01) | `CANDIDATE` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `konosuba:darkness@original-light-novel` | [`konosuba-darkness-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-darkness-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `B` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:demon-king@original-light-novel` | [`konosuba-demon-king-ln-main17-u013-u014-monograph-20261026-01`](reconstruction_index/konosuba.md#konosuba-demon-king-ln-main17-u013-u014-monograph-20261026-01) | `CANDIDATE` | `E` | `c1ce63553e42527cebd7e6e4a665429c69619c88` |
 | `konosuba:heidel@original-light-novel` | [`konosuba-heidel-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-heidel-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
@@ -239,6 +240,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `shokugeki-no-soma:nakiri-alice@manga` | [`shokugeki-no-soma-nakiri-alice-manga-v2-model-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-alice-manga-v2-model-20261119-01) | `CANDIDATE` | `B` | `75f290763feaa7bfef41770ed3991e4245358905` |
 | `shokugeki-no-soma:nakiri-azami@manga` | [`shokugeki-no-soma-nakiri-azami-manga-v2-monograph-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-azami-manga-v2-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `shokugeki-no-soma:nakiri-erina@manga` | [`shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01) | `CANDIDATE` | `B` | `f4b3164218ddeacb5b94fbe9678d315beed44972` |
+| `shokugeki-no-soma:nakiri-mana@manga` | [`shokugeki-no-soma-nakiri-mana-manga-v2-model-20261121-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-mana-manga-v2-model-20261121-01) | `CANDIDATE` | `C` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `shokugeki-no-soma:nakiri-senzaemon@manga` | [`shokugeki-no-soma-nakiri-senzaemon-manga-v2-model-20261121-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-senzaemon-manga-v2-model-20261121-01) | `CANDIDATE` | `C` | `ceaf6e27f4ab956a72e9f59ffcfc9085b2b0aa9a` |
 | `shokugeki-no-soma:saiba-asahi@manga` | [`shokugeki-no-soma-saiba-asahi-manga-v2-monograph-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-saiba-asahi-manga-v2-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `shokugeki-no-soma:shinomiya-kojiro@manga` | [`shokugeki-no-soma-shinomiya-kojiro-manga-v2-model-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-shinomiya-kojiro-manga-v2-model-20261119-01) | `CANDIDATE` | `C` | `aa9c2916aef0012c7456781bd68cc15b738e5e6d` |
