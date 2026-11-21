@@ -9,7 +9,7 @@ authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Bibliographic identity, witnessed reconnaissance and candidate corpus admission"
 source_boundary: "Witnesses FXK-JP-V01-W01 to FXK-JP-V10-W01 verified for run FXK-RUN-20261119-V01-V10; each admitted only at its own frontier"
 created: 2026-11-15
-last_updated: 2026-11-19
+last_updated: 2026-11-21
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -67,3 +67,35 @@ Every package passed a ZIP CRC test and resolved its container to one OPF. Each 
 | FXK-SO-003 component classification (main, apparatus, extras, previews) | Per volume, at admission, under the entrypoint's component scope |
 | FXK-SO-004 legibility of dense screens and small numerals | Per volume; each unresolved value is recorded in that reading |
 | FXK-SO-005 edition bibliography beyond package metadata (printing, revision state) | Open. Package metadata only; the V02 and V06–V10 packages carry no publication date |
+
+## V01 coverage
+
+Recorded by the V01 principal for run FXK-RUN-20261119-V01-V10, subject to the run coordinator's acceptance of the V01 transaction. The [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md) holds the full receipt; the [V01 checkpoint](checkpoints/FX_KURUMI_V01_CHECKPOINT.md) records each role's coverage and every disposition.
+
+- **Witness.** FXK-JP-V01-W01, package title 「FX戦士くるみちゃん　1」: 171 image occurrences at 1350×1920, right-to-left, Kindle-unpack lineage. The colophon (i0170) gives e-book ver.001, published 2021-07-21 by KADOKAWA, first serialized in 月刊コミックフラッパー 2021年3月号〜7月号. Colour occurrences: i0001, i0003–i0006, i0166, i0167, i0169.
+- **Occurrences reviewed.** The principal opened every occurrence i0001–i0171 in spine order: the main narrative first, and the covers and apparatus only after the main-narrative exit freeze. Each of the two independent specialists also opened all 171 occurrences. The reviewer triaged every occurrence on contact sheets and opened the decisive pages at reading resolution or in crops.
+- **Page order, folios and spreads.** The printed folio equals the occurrence number minus 2 throughout the p-NNN run (p.1 = i0003 to p.160 = i0162). Even occurrences are right-hand pages and odd ones left-hand pages, so openings are (even | odd); folio parity confirms this (p.8 = i0010 faces p.9 = i0011). Spreads with art across the gutter: i0004+i0005, i0012+i0013, i0076+i0077, i0160+i0161. No missing, duplicated or out-of-order page was found.
+
+| Component | Occurrences | Notes |
+| --- | --- | --- |
+| Apparatus: front cover and flap | i0001, i0002 | Read after the main-narrative freeze; promotional, not diegetic |
+| Main narrative | i0003–i0162 (160) | 第1話 i0003–i0050; 第2話 i0051–i0082; 第3話 i0083–i0110; 第4話 i0111–i0136; 第5話 i0137–i0162, ending "TO BE CONTINUED…". i0003 is a colour prologue page with the strip 「第1集 お祈り」; the 第1話 tab first appears on i0005, so whether i0003 belongs to 第1話 is unresolved |
+| Apparatus: divider | i0163 | Logo page |
+| Extra: artist's afterword strip | i0164 | Classified only; not narrative evidence |
+| Apparatus: author's afterword | i0165 | Paratext |
+| Apparatus: wraparound covers | i0166–i0167 | Publisher blurb; paratext |
+| Extras: cover-underside strip and design notes | i0168–i0169 | Classified only; not narrative evidence |
+| Apparatus: colophon | i0170 | Bibliographic |
+| Advertising: vendor page | i0171 | Excluded |
+
+Counts: main narrative 160, apparatus 7, extras 3, advertising 1. There is no next-volume preview and no blank occurrence.
+
+- **Legibility and unresolved numerals.** All reading copies are legible. Dense screens and small numerals were checked in enlarged crops; the reading's receipt lists them. One value is unreadable by design: the glitched P/L tile at i0141, 「−3,[?]4[?],[4?]90」, which is not reconstructed. Lettering-level uncertainties (balloon attributions, wall-clock readings) are recorded in the reading. Discrepancies are kept as printed, not repaired: +24,000 vs +24,200 (i0049, i0050); a 95.410 diagram against a −105,000 box (i0084, i0083); a constant +10円 residual in every 300-lot P/L figure; 43.8 pips against +1,311,510 (rounded vs exact average); 330.4% against a computed 330.6% (i0098); an inverted phone-chart axis (i0062); and a flat account's ratio printed as 0% (i0067) but as *** (i0157).
+
+| Obligation | V01 state |
+| --- | --- |
+| FXK-SO-002 ordered image map and duplicate check | Visual order confirmed for V01: every occurrence viewed in spine order, folio sequence continuous, no duplicates or gaps |
+| FXK-SO-003 component classification | Completed for V01 as tabled above; extras and advertising classified by glance and not used as narrative evidence |
+| FXK-SO-004 legibility of dense screens and small numerals | Completed for V01, with one value unreadable by design (i0141) recorded in the reading |
+
+FXK-SO-001 and FXK-SO-005 are unchanged by V01.
