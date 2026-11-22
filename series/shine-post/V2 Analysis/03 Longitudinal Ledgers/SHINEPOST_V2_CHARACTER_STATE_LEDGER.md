@@ -389,7 +389,7 @@ Credits the growth in Rio's following and shares the wish to keep pace. Self-bla
 
 ## E08 · Becoming capable of helping somebody
 
-**Revision through E08, 2026-11-22.** Bracketed numbers route to E08 OBS and CLM. The earlier five, their separation and the duo's training are a retrospective account centered on Yukine. The return to E07's courtyard, Haru's refusal and withdrawal, then Yuki's statement about her previous group are present events. The office briefing had three participants. Hearing some of its consequences does not put the other girls in that room. The same distinction applies to the two intimate conversations on the bench.
+**Revision through E08, 2026-11-22.** Bracketed numbers route to E08 OBS and CLM. The earlier five, their separation and the duo's training are a retrospective account centered on Yukine. The return to E07's rooftop confrontation, Haru's refusal and withdrawal, then Yuki's statement about Haru's previous group are present events. The office briefing had three participants. Hearing some of its consequences does not put the other girls in that room. The same distinction applies to the two intimate conversations on the bench.
 
 ### SPV2-CH-DOOR-COMPANION · Yukine Gionji, 祇園寺雪音
 
