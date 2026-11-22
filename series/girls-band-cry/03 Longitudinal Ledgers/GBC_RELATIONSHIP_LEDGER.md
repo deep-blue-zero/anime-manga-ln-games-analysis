@@ -6,12 +6,15 @@ status: active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E13
+source_boundary: "GBC-V2-SOURCE-LOCK-1.0, TV E01–E13, frozen CP1–CP4 and admitted first-pass AV comparisons"
 materialization_authorized_at: checkpoint 2, E08 boundary
 physically_materialized_at: after checkpoint 3, E11 boundary
 bootstrap_evidence: canonical V2 E01-E11 readings and frozen E01-E04, E05-E08, and E09-E11 checkpoints
-mutable_state: E13 bundle-lane close
+mutable_state: "CP4 frozen, first-pass AV reconciliation active"
 update_pattern: append or revise after E12, E13, and the final checkpoint, retaining material revisions
+latest_frozen_checkpoint: CP4 / E13
+active_av_reconciliation: first-pass claim-level comparison
+av_report: "08 Audits and Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md"
 ---
 
 # Relationship ledger
@@ -62,3 +65,15 @@ The binding earlier relationship formulations remain in checkpoint 1 §8, checkp
 | Five ↔ Miura and Nakata | They explicitly appreciate help, decline altered terms, submit their request and tell the engineer they will try freelance work (13:33–15:24). Miura offers practical protection and Nakata offers a conditional return. | Ending representation leaves mutual regard intelligible. Neither goodwill nor a ten-year invitation supplies a future contract or reunion. |
 
 **Checkpoint 4.** P05, P07, P15, P17 and P22 retain asymmetric evidence and the distinction between affinity and endorsement. [E12–E13 checkpoint](../02%20Sequential%20Readings/GBC_E12-E13_CHECKPOINT.md)
+
+## CP4 · First-pass audiovisual reconciliation
+
+These updates apply to the earlier entries wherever they identify the same scene or proposition. The report records the supporting observations, limits and open return questions. [First-pass audiovisual reconciliation](../08%20Audits%20and%20Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md)
+
+| Relationship | Current evidence and qualification |
+|---|---|
+| Nina ↔ band: signal and correction | E01’s invited gesture, E02’s paired little fingers, E05’s stage exchange, and E12’s two-person contact followed by additional hands are separate acts under different circumstances. E12 contact is visible by 19:30.500. More hands enter by 19:30.875. At E07’s mic the correction that the group can absorb is clear, but assigning both lines to Tomo alone is not secure. GBC-AV-E01-01, GBC-AV-E02-01, GBC-AV-E05-03, GBC-AV-E07-02, GBC-AV-E12-04. |
+| Nina ↔ Momoka | E08 distinguishes the threatened food-court blow from the loading-area slap and the later contact over the steering wheel. The volume rises after a hand reaches for the dashboard following 告白です. Shared listening and visible tears accompany the confession. The song supplies no reciprocal verbal declaration. GBC-AV-E08-01, GBC-AV-E08-03, GBC-AV-E08-04, GBC-AV-E08-05. |
+| Nina’s family ↔ band | Yasue is the parent who visits Tomo and Rupa at the restaurant in E10. Nina sights her father on a Kawasaki street at 06:06.3–06:11.7. His later listening belongs to a different encounter. Each family member must retain that episode’s own route to Nina. GBC-AV-E10-06, GBC-AV-E10-08. |
+| Subaru ↔ Tendo | At 06:13.5 the audition message comes from Tendo. At 11:33.680 Subaru reports sending mail herself. The late Tendo and Miura audience insert establishes presence. The grandmother’s approval remains open. GBC-AV-E11-03. |
+| Nina ↔ Hina and her father in the E13 credit design | Two uniformed friends share earphones. Hina and her band attend the show. The epilogue’s handset reprises the old song before displaying TogeToge’s player. In a separate, matched local check at 23:05.000–23:05.780 the illustrated father raises a lighter, turns, and a cigarette and pack are set down. E10’s request to smoke less makes a connection possible. Permanent abstinence, motivation and a postconcert date are OPEN. GBC-AV-E13-03, GBC-AV-E13-05. GBC-LOCAL-13-01 / C082. |

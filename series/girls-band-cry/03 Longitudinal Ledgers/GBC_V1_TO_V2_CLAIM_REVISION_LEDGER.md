@@ -4,7 +4,7 @@ artifact_type: longitudinal_ledger
 scope: E01-E13
 analysis_generation: V2
 status: active_provisional
-source_boundary: GBC-V2-SOURCE-LOCK-1.0 through E13, including the E11 checkpoint
+source_boundary: "GBC-V2-SOURCE-LOCK-1.0, TV E01–E13, frozen CP1–CP4 and admitted first-pass AV comparisons"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,6 +13,9 @@ updated: 2026-11-22
 materialization_authorized_at: checkpoint 2, E08 boundary
 physically_materialized_at: after checkpoint 3, E11 boundary
 materialization_base_commit: e3571eb717f06a2fbe17b02c4a3f508a79573ede
+latest_frozen_checkpoint: CP4 / E13
+active_av_reconciliation: first-pass claim-level comparison
+av_report: "08 Audits and Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md"
 ---
 
 # V1 to V2 claim revision ledger
@@ -191,3 +194,16 @@ The final thanks at Club Città is LITERAL. The intention to keep going is STRON
 At E13 C043 STRENGTHEN for the distinction between strategic judgment, affection and voice. C072–074 retain documented financial exposures and one audition; causal, group-wide and settled-debt claims require narrower formulations. C075 REVISE to a mixed ontology. C076 OPEN for enrollment; C077 PRESERVE for distributed activities; C078–080 REVISE for implied collaboration and formal links, with the specific pact and seating hierarchy unconfirmed. C081–083 OPEN on lasting care, cessation and financial consequences. C084 STRENGTHEN for the two player titles, with the second confirmed in a separately matched derivative. The EP13 adjudication table identifies the witnesses.
 
 **Checkpoint 4.** The final checkpoint preserves the earlier E09 falsification and all original CP3 formulations. C075–084 remain individually bounded at the source close. [E12–E13 checkpoint](../02%20Sequential%20Readings/GBC_E12-E13_CHECKPOINT.md)
+
+## CP4 · First-pass audiovisual reconciliation
+
+These updates apply to the earlier entries wherever they identify the same scene or proposition. The report records the supporting observations, limits and open return questions. [First-pass audiovisual reconciliation](../08%20Audits%20and%20Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md)
+
+| Finding or claim route | Active transition and reason |
+|---|---|
+| E04 performance. E07 correction | STRENGTHEN the timing of Subaru’s visible reveal preceding her line (GBC-AV-E04-03). DOWNGRADE the Tomo-only attribution at E07 cues 445–446. The group’s ability to correct Nina survives. Distinct visible responses and the empty speaker fields keep the individual return question open (GBC-AV-E07-02). |
+| E06 ensemble. C059–061 in E08 | REVISE the audible-part characterization to visible ensemble roles and a measured mixed track (GBC-AV-E06-03). PRESERVE the explicit confession and open reciprocal status. REVISE the song framing to include the dashboard playback source and level rise (GBC-AV-E08-04). Its school recurrence moves from exposed voice to a wider band presentation (GBC-AV-E08-09). |
+| E08 source text | REVISE exact quotations where ASS reads カールズ or ダイヤモンドバスト and the independent listener reports the standard names. The positive chord-name report falls in a real caption gap. Precise notes, voicing and speaker claims have different evidence (GBC-AV-E08-06, GBC-AV-E08-08, GBC-AV-E08-11). GBC-AV-E08-02 is UNREVIEWED for workplace vocal delivery because the compared late observation concerns another scene. |
+| E10 family and authorship | REJECT the father as restaurant visitor: Yasue is at the counter with Tomo and Rupa. The father appears separately outside at 06:06.3–06:11.7 (GBC-AV-E10-08). REVISE any assertion that E10 offers no lyric text. Several lines and the title 空白とカタルシス are legible on the train at 20:30.2–20:33. Timing of composition and a complete final version remain OPEN (GBC-AV-E10-03). STRENGTHEN the distinction between the school apology and the reflection sheet (GBC-AV-E10-02). |
+| E11 communication and credits | REVISE identification of the displayed message: Tendo → Subaru is directly visible. Subaru → Tendo is reported separately. Approval remains OPEN (GBC-AV-E11-03). Fictional and real production music credits keep their distinct scopes (GBC-AV-E11-08). |
+| E12–E13 ending, C082–C083 | REVISE the E13 boundary to a white title already overlapping the stage before the red-on-white card. STRENGTHEN the final player graphic and the distinction between the two song titles (GBC-AV-E13-04, GBC-AV-E13-05). A privately matched encode supports the illustrated cigarette deferral and the small smoking van. C082/C083 remain OPEN on family motivation, persistent smoking cessation, dated travel, breakdown costs and commercial outcome. These are separately identified local findings GBC-LOCAL-13-01 and GBC-LOCAL-13-02, outside the independent-comparator transition count. |

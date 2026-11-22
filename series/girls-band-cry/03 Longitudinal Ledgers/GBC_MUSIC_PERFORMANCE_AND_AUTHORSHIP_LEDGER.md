@@ -4,7 +4,7 @@ artifact_type: longitudinal_ledger
 scope: "Music, performance and authorship; E01–E13"
 analysis_generation: V2
 status: canonical
-source_boundary: "GBC-V2-SOURCE-LOCK-1.0; episode-local V2 readings and three frozen checkpoints"
+source_boundary: "GBC-V2-SOURCE-LOCK-1.0, TV E01–E13, frozen CP1–CP4 and admitted first-pass AV comparisons"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -12,6 +12,9 @@ materialization_authorized_at: CP2 / E08
 first_materialized_at: CP3 / E11
 created: 2026-11-22
 updated: 2026-11-22
+latest_frozen_checkpoint: CP4 / E13
+active_av_reconciliation: first-pass claim-level comparison
+av_report: "08 Audits and Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md"
 ---
 
 # Music, performance and authorship
@@ -45,3 +48,15 @@ At 17:25–17:39 the band praises Nina’s improvement, names the park practice 
 Nina says Momoka’s earlier song reached her and Hina (19:49–20:09). The live song’s retrospective inserts place additional players’ histories inside the show; their images do not imply that all five wrote the text. Japanese styles distinguish the insertion IN_01_JP (20:37–21:45) from ED_JP (22:15–23:35). The stills and complete mixed-track measurements establish a continuing soundtrack after the last live lyric. Two E13/E12 ED waveform windows, lasting about 45 and 38 seconds, agree at r=.969 and .962 after time alignment. This supports a repeated closing track. Isolated parts, an exact take, vocal technique and the modulation considered in E12 are unverified. [Episode 13](../02%20Sequential%20Readings/GBC_E13_DEEP_READING.md)
 
 **Checkpoint 4.** P03, P10–11 and P26 separate continued practice and differentiated authorship from unverified parameter causality. [E12–E13 checkpoint](../02%20Sequential%20Readings/GBC_E12-E13_CHECKPOINT.md)
+
+## CP4 · First-pass audiovisual reconciliation
+
+These updates apply to the earlier entries wherever they identify the same scene or proposition. The report records the supporting observations, limits and open return questions. [First-pass audiovisual reconciliation](../08%20Audits%20and%20Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md)
+
+| Evidence route | Current reading |
+|---|---|
+| E03 rehearsal and E06/E07 ensemble work | The multi-loop pedal and lit indicator accompany an explicit plan to cover missing bass. A later close view shows a drum beater. E06’s count-in and five players are directly supported, while mixed-track bass energy cannot establish an independent bass line or exact keyboard function. In E07 a bass-heavy rehearsal excerpt and the members’ opposed evaluations leave the precise technical deficiency open. GBC-AV-E03-01, GBC-AV-E06-03, GBC-AV-E07-01. |
+| E08, two uses of 空の箱 | In the school flashback the source mix widens from exposed voice to broad instrumentation (16:53–17:15). During Nina’s confession the dashboard establishes playback in the cab. Immediate locked-MP3 windows change from −24.88 to −18.72 dBFS after the reach, agreeing with the independent +6.15 dB change. Music can frame the scene without speaking on Momoka’s behalf. The placement of every instrument in the school space and the exact balance of score/playback through later cuts remain open. GBC-AV-E08-04, GBC-AV-E08-09. |
+| E08 and E09, learning an instrument | The E08 listener reports three chord names absent from the selected cue index. E09’s final tuning plucks measure about 245.91–246.28 Hz against B3 at 246.94 Hz. Only sampled moments have been tested. Exact fingerings, the full tuning trajectory and a broad judgment of skill remain open. GBC-AV-E08-08, GBC-AV-E09-06. |
+| E10–E12, who wrote what | At 20:30.2–20:33 in E10 the train writing app visibly contains 空白とカタルシス and multiple lines. The phone’s 12:55 is an interface clock. This licenses comparison with E11, without authenticating a whole final draft or dating each line. The E11 broadcast credit separates credited performing act, lyricist, composer and arranger from the story’s attribution to Nina. E12’s similarly legible 運命の華 studio draft belongs to Momoka’s distinct process. GBC-AV-E10-03, GBC-AV-E11-08, GBC-AV-E12-02. E10 separately credits household and plaza renditions of 空の箱 to Diamond Dust and Nina. GBC-AV-E10-06. |
+| E13, final concert and credit music | Shared earphones become part of Nina’s account of what Momoka’s song did for more than one person. In the credit design an earlier 空の箱 / ダイヤモンドダスト player gives way to the five-person portrait playing 誰にもなれない私だから / トゲナシトゲアリ. Neither credits a new sale nor dates a future release. GBC-AV-E13-03, GBC-AV-E13-05. |

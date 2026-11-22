@@ -6,12 +6,15 @@ status: active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E13
+source_boundary: "GBC-V2-SOURCE-LOCK-1.0, TV E01–E13, frozen CP1–CP4 and admitted first-pass AV comparisons"
 materialization_authorized_at: checkpoint 2, E08 boundary
 physically_materialized_at: after checkpoint 3, E11 boundary
 bootstrap_evidence: canonical V2 E01-E11 readings and frozen E01-E04, E05-E08, and E09-E11 checkpoints
-mutable_state: E13 bundle-lane close
+mutable_state: "CP4 frozen, first-pass AV reconciliation active"
 update_pattern: append or revise after E12, E13, and the final checkpoint, retaining material revisions
+latest_frozen_checkpoint: CP4 / E13
+active_av_reconciliation: first-pass claim-level comparison
+av_report: "08 Audits and Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md"
 ---
 
 # Behavioral reconstruction ledger
@@ -92,3 +95,16 @@ The earlier state of each rule family is in checkpoint 1 §13 and checkpoint 2 �
 | Material continuity | The five bow, turn down the combined bill, say they plan to work freelance and perform for the people who arrived (13:33–15:08, 18:43–22:11). | The costs of their choice become specific. Neither long-term stability, exact liabilities nor financial recovery can yet test the rule. |
 
 **Checkpoint 4.** P04 adds the significance of the concession and P16 retains distinct judgment and affection. Neither episode supplies a new contradiction under the original tests. [E12–E13 checkpoint](../02%20Sequential%20Readings/GBC_E12-E13_CHECKPOINT.md)
+
+## CP4 · First-pass audiovisual reconciliation
+
+These updates apply to the earlier entries wherever they identify the same scene or proposition. The report records the supporting observations, limits and open return questions. [First-pass audiovisual reconciliation](../08%20Audits%20and%20Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md)
+
+| Working rule or trigger | Accepted change | Boundary for future use |
+|---|---|---|
+| Nina’s exposure and shared gestures, E01–E05 | E01 at 21:35.5 connects the requested signal to a raised hand. E02 pictures the little finger from each participant. E05 at 21:24–21:28 pictures Nina and then Momoka/Subaru raising their hands. The printed 不登校 makes Nina’s personal exposure publicly legible. GBC-AV-E01-01, GBC-AV-E02-01, GBC-AV-E05-03. | Distinguish agreement to a signal from identical private meanings and the audience’s response. |
+| Subaru’s change of presentation, E04 | Subaru’s broad smile appears by 21:51.000, about 2.5 seconds before the reveal line’s indexed start. The behavioral switch is already visible. GBC-AV-E04-03. | This cannot establish that all earlier anger was performed. |
+| Nina corrected in public, E07 | Nina breaks off and accepts a limit without abandoning the group or the performance. Rupa leans across, Tomo is visible at the keyboard during the first line, and Rupa is shown open-mouthed during the second. GBC-AV-E07-02. | DOWNGRADE the use of that whole turn as evidence for Tomo alone. Ensemble correction survives. GBC-AV-Q07-02 carries actor attribution. |
+| Nina’s response to bodily confrontation, E08 | The food-court collar grab, raised fist, flinch and withdrawal form a different action from the later loading-area slap. At the roadway Nina spreads her arms before the vehicle turns. An eight-second horn occurs later at the steering wheel. GBC-AV-E08-01, GBC-AV-E08-03, GBC-AV-E08-05. | Judge the threat, actual contact and later intervention separately. Speed, exact motivation and general willingness to take similar risks remain open. |
+| Family encounter and chosen disclosure, E10–E11 | Yasue visits the restaurant while Tomo and Rupa are there. Nina’s father appears outside separately at 06:06.3–06:11.7. Subaru reports writing to Tendo. The visible incoming E11 message is Tendo’s audition communication. GBC-AV-E10-08, GBC-AV-E11-03. | Revise the circumstance for Nina’s father-directed fear. Subaru’s chosen timing survives. Approval by Tendo does not follow from the inbox or her presence. |
+| Nina and Hina in E13 | Two schoolgirls share earphones. The four current rivals later watch the show. The images strengthen the claim that Nina recognizes another listener’s history with the song. GBC-AV-E13-03. | Recognition and attendance do not establish Hina’s private intention. |

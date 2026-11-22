@@ -4,7 +4,7 @@ artifact_type: longitudinal_ledger
 scope: "Visual form and direction; E01–E13"
 analysis_generation: V2
 status: canonical
-source_boundary: "GBC-V2-SOURCE-LOCK-1.0; episode-local V2 readings and three frozen checkpoints"
+source_boundary: "GBC-V2-SOURCE-LOCK-1.0, TV E01–E13, frozen CP1–CP4 and admitted first-pass AV comparisons"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -12,6 +12,9 @@ materialization_authorized_at: CP2 / E08
 first_materialized_at: CP3 / E11
 created: 2026-11-22
 updated: 2026-11-22
+latest_frozen_checkpoint: CP4 / E13
+active_av_reconciliation: first-pass claim-level comparison
+av_report: "08 Audits and Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md"
 ---
 
 # Visual form and direction
@@ -45,3 +48,14 @@ The opening classroom closes on Nina waking (01:07–01:14). The same school dec
 At 20:45–21:20 uniforms, an auditorium and trophy, an instrument shop, joined hands, domestic objects and a spiral of pictures interrupt views of the live players. A blossom-like figure and a white-out answer the last lyric before cuts return to the venue and spectators (21:37–21:56). The literal stage thanks at 22:05–22:11 precedes the red credit logo (frame 1346, 22:15.084). Paired stills from E12 and E13 reproduce specific drawings: 1144/1347, 1150/1350, 1157/1357, 1165/1365, 1169/1369 and 1176/1376. The credits change while the group’s equipment, van, snapshot strip and red cable recur. The evening’s actual performance, the live song’s associative inserts and the ending’s illustrated panels therefore support different temporal claims. [Episode 13](../02%20Sequential%20Readings/GBC_E13_DEEP_READING.md)
 
 **Checkpoint 4.** P27 is fulfilled with separate literal, implied, symbolic and open rulings. Recurring credits limit chronological conclusions. [E12–E13 checkpoint](../02%20Sequential%20Readings/GBC_E12-E13_CHECKPOINT.md)
+
+## CP4 · First-pass audiovisual reconciliation
+
+These updates apply to the earlier entries wherever they identify the same scene or proposition. The report records the supporting observations, limits and open return questions. [First-pass audiovisual reconciliation](../08%20Audits%20and%20Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md)
+
+| Formal evidence | First-pass correction |
+|---|---|
+| E04, E05 and E07 | Subaru rises from a bow and smiles about 2.5 seconds before her indexed acting reveal. E05 matches Nina’s centered face from the concert through red texture to a school setting. The E07 cut places Tomo in the wide and Rupa in close-up under two consecutive corrective captions. The direction establishes reaction and intervention more firmly than the speaking voice of each fragment. GBC-AV-E04-03, GBC-AV-E05-01, GBC-AV-E07-02. |
+| E08, bodily and sonic transitions | The bystanders witness a collar grab, flinch and withdrawal in the food court. The slap occurs later in a loading area. The road confrontation and sustained horn have separate timings. An apparent continuous hand movement on a dashboard is followed by the louder cabin mix. Each of these sequences has a different relation to an utterance. Q7’s manual cuts also exclude lighting flares that a detector labels as candidates. GBC-AV-E08-01, GBC-AV-E08-03, GBC-AV-E08-04, GBC-AV-E08-05, GBC-AV-E08-10. |
+| E10–E11, text inside shots | A stamped school apology and handwritten reflection format are different objects. The visible E10 lyric page is a multistanza working text. In E11 a certificate is visibly burning. The student category and gold prize are legible, while the pictured flame covers parts of the name. The festival cuts into a stage orbit at about 22:40.526. Later changes of angle and flashing lights do not each require a new cut. GBC-AV-E10-02, GBC-AV-E10-03, GBC-AV-E11-04, GBC-AV-E11-09. |
+| E13, title and two graphic resolutions | A **white title first overlays the performing stage** around 22:10.250–22:10.500, visible by 22:11.250. The red logo on the white graphic field arrives between 22:15.000 and 22:15.250, consistent with frame 1346. Stage action and credit typography therefore overlap before the field changes. The late illustrated cigarette sequence (23:05.000–23:05.780) supports a deferral inside a panel. The smoking van inset (23:09.900–23:10.150) supports an illustrated incident while the main vehicle continues. A shared phone yields to a portrait/player at the end. Neither the credit imagery nor its repetition in E12 supplies a dated chronological postscript. GBC-AV-E13-04, GBC-AV-E13-05. GBC-LOCAL-13-01, GBC-LOCAL-13-02. |

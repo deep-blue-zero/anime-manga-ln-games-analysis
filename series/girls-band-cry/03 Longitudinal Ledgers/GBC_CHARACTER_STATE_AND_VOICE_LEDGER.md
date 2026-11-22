@@ -6,12 +6,15 @@ status: active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E13
+source_boundary: "GBC-V2-SOURCE-LOCK-1.0, TV E01–E13, frozen CP1–CP4 and admitted first-pass AV comparisons"
 materialization_authorized_at: checkpoint 2, E08 boundary
 physically_materialized_at: after checkpoint 3, E11 boundary
 bootstrap_evidence: canonical V2 E01-E11 readings and frozen E01-E04, E05-E08, and E09-E11 checkpoints
-mutable_state: E13 bundle-lane close
+mutable_state: "CP4 frozen, first-pass AV reconciliation active"
 update_pattern: append or revise after E12, E13, and the final checkpoint, retaining material revisions
+latest_frozen_checkpoint: CP4 / E13
+active_av_reconciliation: first-pass claim-level comparison
+av_report: "08 Audits and Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md"
 ---
 
 # Character state and voice ledger
@@ -69,3 +72,16 @@ Each row combines relevant dimensions from architecture §6.1. An unreported pro
 | Miura, Momoka and Subaru in the process | Miura first asks for time to improve promotion and later promises to handle finances and the contract (03:22–03:44, 14:36–14:55). Momoka entertains a practical rescue, then accepts the group’s responsibility. The friends can mock Nina’s stubbornness and endorse playing together (13:14–13:30, 17:25–17:39). | Collective agreement is visible. The tracks’ speaker fields are blank. Fine attribution of some fast interjections remains provisional. |
 
 **Checkpoint 4.** P01–07 and P13–23 preserve speaker-specific warrant and mark missing family/private tests. [E12–E13 checkpoint](../02%20Sequential%20Readings/GBC_E12-E13_CHECKPOINT.md)
+
+## CP4 · First-pass audiovisual reconciliation
+
+These updates apply to the earlier entries wherever they identify the same scene or proposition. The report records the supporting observations, limits and open return questions. [First-pass audiovisual reconciliation](../08%20Audits%20and%20Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md)
+
+| Episode and witness | Current attribution or state |
+|---|---|
+| E04, 21:50.667–21:53.480 | Subaru’s change from bowed posture to visible smile precedes the indexed reveal. This is evidence about the timing of presentation. The sincerity of the earlier outburst remains open. GBC-AV-E04-03. |
+| E07, cues 445–447 / frames 1065, 1067, 1069 | The established part is Nina’s interrupted public address and brief assent. The reading’s assignment of both うざいですよ and 自分語りは to Tomo is provisional: the cut shows an open-mouthed Tomo at her keys, then Rupa with mouth open as the second fragment appears. Rupa’s lean is independently visible. Keep the identity question open until a Japanese listener can align the turn with lip movement. GBC-AV-E07-02. |
+| E08, 09:37.5–09:46 and 12:10.970 / 16:15.960 | The selected ASS has no chord-name cues during the riverside practice and writes カールズバンドクライ and ダイヤモンドバスト at the other two locations. The observer hears A-minor/F/G during practice and the expected voiced names ガールズバンドクライ and ダイヤモンドダスト. At 08:37.800 the caption 私ら is compatible with the reported わたしら. The mouth/ear distinction remains relevant to exact quotation. The two proposed eyecatch speakers are singly attested. GBC-AV-E08-06, GBC-AV-E08-08, GBC-AV-E08-11. |
+| E08, 21:01.920–21:37 | Nina names her confession. After a reach to the dashboard the mix rises and Momoka visibly cries. This adds an action and a sound transition to the response. No reciprocal verbal confession is observed. For Rupa’s differently placed workplace line, the permitted late coda listening report supplies no matched delivery observation. GBC-AV-E08-02, GBC-AV-E08-04. |
+| E09–E11 | Nina’s last measured tuning plucks sit just below B3. E10 household and plaza uses of 空の箱 belong to differently credited renditions. A father is visibly listening in the house. In E11 Rupa’s plain ありがとう is supported across report and Japanese text. The question of an audible は earlier in the exchange remains open. GBC-AV-E09-06, GBC-AV-E10-06, GBC-AV-E11-06. |
+| E13, 19:53–20:02 / 22:05–22:12 | The comparatively quiet recollection and louder collective thanks are supported by two waveform analyses. Mixed energy does not establish a breath, the number of voices or an individual’s emotion. GBC-AV-E13-06. |

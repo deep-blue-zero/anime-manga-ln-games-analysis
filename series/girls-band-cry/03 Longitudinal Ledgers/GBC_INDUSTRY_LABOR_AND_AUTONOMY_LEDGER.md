@@ -4,7 +4,7 @@ artifact_type: longitudinal_ledger
 scope: "Industry, labor and autonomy; E01–E13"
 analysis_generation: V2
 status: canonical
-source_boundary: "GBC-V2-SOURCE-LOCK-1.0; episode-local V2 readings and three frozen checkpoints"
+source_boundary: "GBC-V2-SOURCE-LOCK-1.0, TV E01–E13, frozen CP1–CP4 and admitted first-pass AV comparisons"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -12,6 +12,9 @@ materialization_authorized_at: CP2 / E08
 first_materialized_at: CP3 / E11
 created: 2026-11-22
 updated: 2026-11-22
+latest_frozen_checkpoint: CP4 / E13
+active_av_reconciliation: first-pass claim-level comparison
+av_report: "08 Audits and Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md"
 ---
 
 # Industry, labor and autonomy
@@ -45,3 +48,15 @@ Miura accepts responsibility for promotion (03:22–03:44). Hina reports that To
 At 15:01 the group says it plans to work freelance. At 15:17 Nakata conditions a free session on survival in ten years. The subsequent restaurant visit and oath (15:27–16:14) locate professional independence in existing relationships. The venue, merchandise table and paying public become visible forms of continuing labor. The earlier ratio is reported advance sales; later stage views cannot supply the final number. [Episode 13](../02%20Sequential%20Readings/GBC_E13_DEEP_READING.md)
 
 **Checkpoint 4.** P08, P09 and P23–25 retain metrics, uneven exposure and explicitly limited contract evidence. [E12–E13 checkpoint](../02%20Sequential%20Readings/GBC_E12-E13_CHECKPOINT.md)
+
+## CP4 · First-pass audiovisual reconciliation
+
+These updates apply to the earlier entries wherever they identify the same scene or proposition. The report records the supporting observations, limits and open return questions. [First-pass audiovisual reconciliation](../08%20Audits%20and%20Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md)
+
+| Issue | Corrected evidence and limits |
+|---|---|
+| E07–E09, institutions made visible | Nina announces leaving preparatory school from the stage at 23:29.270. In E08 the band profile reads 383 following and 27,851 followers, a different measure from event attendance. In E09 the housing paper is a guarantor consent form, 保証, at 17:24.5–17:25.3. The dialogue’s homophone 保障 cannot establish who signed or whether a lease was completed. GBC-AV-E07-03, GBC-AV-E08-07, GBC-AV-E09-05. |
+| E10, family and workplace | Yasue visits Tomo and Rupa at work around 05:45–05:57. Nina spots her father separately on a Kawasaki street at 06:06.3–06:11.7. Tomo is still at work for Rupa’s later bereavement disclosure. The school’s stamped 謝罪文 and a ruled 反省文 bearing a writing hand are distinct documents (13:16 and 15:14.3). These corrections change both who crossed the workplace threshold and which institution authored an apology. GBC-AV-E10-02, GBC-AV-E10-08. |
+| E11, audition | Tendo sends Subaru an audition-related message. Subaru later says she has written to her grandmother. The two directions of communication can coexist, and the audience cut supplies no explicit verdict about her working choices. GBC-AV-E11-03. |
+| E12–E13, money and what images can establish | ¥79,200 is the visible guitar price, 1,300 is the proposal’s attendance figure, and 103 is the release display’s play count. E13’s weak presale and actual appearance before an audience do not settle the gate or final account. GBC-AV-E12-01, GBC-AV-E12-03, GBC-AV-E12-05, GBC-AV-E13-03. |
+| E13, C083 | In a separately matched local encode at 23:09.900–23:10.150, an illustrated smaller van has a white plume at its nose beside a crossed-arm figure. The van below the panels continues. Vehicle trouble is STRONGLY_IMPLIED inside the inset. Actual touring costs, repair bills and a dated post-agency journey remain OPEN. GBC-LOCAL-13-02. |
