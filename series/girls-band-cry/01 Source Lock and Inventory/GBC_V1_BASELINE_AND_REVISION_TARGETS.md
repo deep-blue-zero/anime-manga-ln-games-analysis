@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-11-22
 baseline_generation: V1
 adjudication_generation: V2
 ---
@@ -32,7 +32,7 @@ The point is to prevent the mature V1 synthesis from silently becoming the premi
 
 ## 2. Baseline sources
 
-Primary historical analytical sources:
+Historical analytical sources, listed by their original export names. The Git copies are in [the V1 archive](../90%20Legacy%20and%20Superseded/V1/).
 
 - root-level verbatim V1 episode deep readings for E01-E12;
 - root-level E13 archival-gap record plus later ED/epilogue analysis;
@@ -314,4 +314,4 @@ No target is granted V2 authority by inclusion here.
 
 Phase 1 must earn each transition from `OPEN` through primary-source rereading.
 
-This document should feed directly into the future `GBC_V1_TO_V2_CLAIM_REVISION_LEDGER.md`.
+The [claim revision ledger](../03%20Longitudinal%20Ledgers/GBC_V1_TO_V2_CLAIM_REVISION_LEDGER.md) records decisions against these original targets.

@@ -4,13 +4,29 @@ artifact_type: corpus_map
 scope: project_current_state
 analysis_generation: V2
 status: canonical
-source_boundary: Girls Band Cry TV anime E01-E13 under GBC-V2-SOURCE-LOCK-1.0; Phase 0 closed; Phase 1 active with E01-E11 canonical and three checkpoints frozen/canonical; CP3 E12-E13 prospective register frozen; E12 sequentially unlocked; seven longitudinal ledgers due for E11-current materialization
+source_boundary: Girls Band Cry TV anime E01-E13 under GBC-V2-SOURCE-LOCK-1.0; Phase 0 closed; Phase 1 active with E01-E13 sequential readings accepted; CP1-4 frozen; first-pass observation reconciliation complete with required AV obligations open; seven ledgers current through that pass
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
-updated: 2026-08-27
-phase: Phase 1 active - E01-E11 canonical plus checkpoints 1-3 frozen / CP3 frozen / ledger materialization next infrastructure priority / E12 unlocked
+updated: 2026-11-22
+phase: Final episode accepted / checkpoints 1-4 frozen / seven ledgers through the provisional AV reconciliation / unsent return packet ready
+project_initialization:
+  sequential_analysis_lock: OPEN
+  next_permitted_operation: NONE
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: episode
+  authorized_start: E12
+  terminal_boundary: E13
+  committed_high_water_mark: E13
+  next_candidate_operation: NONE
+  confirmation_between_units: false
+  run_state: completed
+execution_profile:
+  inspection_lanes: [BUNDLE_MEDIATED]
+  audio_content_inspection: UNAVAILABLE
+  continuous_av_inspection: UNAVAILABLE
 ---
 
 # Girls Band Cry - Current State and Corpus Map
@@ -19,9 +35,19 @@ phase: Phase 1 active - E01-E11 canonical plus checkpoints 1-3 frozen / CP3 froz
 
 This is the canonical current entrypoint for the *Girls Band Cry* analytical project.
 
-**Phase 0 is closed. Phase 1 is active. `GBC_E01_DEEP_READING.md` through `GBC_E11_DEEP_READING.md` V2 are canonical; `GBC_E01-E04_CHECKPOINT.md`, `GBC_E05-E08_CHECKPOINT.md`, and `GBC_E09-E11_CHECKPOINT.md` are canonical/frozen; CP2 is closed at the unique-rule level; the 27-item CP3 E12-E13 prospective register is frozen; Episode 12 is sequentially UNLOCKED. The highest-priority infrastructure operation before E12 is materialization of the seven overdue E11-current longitudinal ledgers.**
+## Current handoff and governing corrections
 
-The V2 framework, source inventory, Source Lock 1.0, V1 revision-target baseline, E01-E11 deep readings, and three frozen checkpoints are current authority within their declared scopes. `GBC_E09-E11_CHECKPOINT.md` is the preferred E11-boundary cross-episode reconstruction and frozen CP3 source. It closes CP2 at **16 STRENGTHEN / 2 REVISE / 2 PRESERVE-FULFILLED / 7 OPEN / 0 DOWNGRADE / 0 REJECT**, preserves E09 P20 as a genuine falsification requiring a branching Tomo model, and freezes `GBC-CP3-P01` through `P27` for E12-E13.
+The [first-pass AV reconciliation](08%20Audits%20and%20Manifests/GBC_INDEPENDENT_AV_RECONCILIATION.md) governs later use of the corrected passages in the frozen readings and checkpoints. Its status is **active_provisional**. The [49-question observation packet](08%20Audits%20and%20Manifests/GBC_GEMINI_REINSPECTION_QUEUE.md) is ready for a separate Gemini session. It has 35 required and 14 optional items.
+
+The report adjudicates 53 existing claim components (18 PRESERVE, 26 STRENGTHEN, 5 REVISE, 1 DOWNGRADE, 1 REJECT, 2 OPEN), accepts 10 new observations and holds one new grouped attribution disputed. Three unsuccessful matches received no transition. All 13 episodes had meaningful, bounded evidence comparisons. E08–E11 also had separable blind diagnostic notes. The other nine lacked equivalent verbal observation logs.
+
+Use the E10 erratum wherever earlier text or checkpoints place Nina’s father at work. Her mother visits the restaurant; Nina sees her father separately outside. The E10 phone shows a titled draft. E07’s individual corrective speaker, E08’s distinction between cabin playback and spoken assent, E11’s two email directions, and the E13 two-stage title transition have distinct rulings in the report and applicable ledgers.
+
+### Independent sequential freeze
+
+**Phase 0 is closed. Phase 1 sequential reading is complete. `GBC_E01_DEEP_READING.md` through `GBC_E13_DEEP_READING.md` V2 are canonical; `GBC_E01-E04_CHECKPOINT.md`, `GBC_E05-E08_CHECKPOINT.md`, and `GBC_E09-E11_CHECKPOINT.md` are canonical/frozen; CP2 is closed at the unique-rule level; the 27-item CP3 E12-E13 prospective register is frozen; E12 and E13 are complete in the owner-authorized bundle lane. Checkpoint 4 is frozen.**
+
+The V2 framework, source inventory, Source Lock 1.0, V1 revision-target baseline, E01-E13 deep readings, and four frozen checkpoints are current authority within their declared scopes. `GBC_E09-E11_CHECKPOINT.md` is the preferred E11-boundary cross-episode reconstruction and frozen CP3 source. It closes CP2 at **16 STRENGTHEN / 2 REVISE / 2 PRESERVE-FULFILLED / 7 OPEN / 0 DOWNGRADE / 0 REJECT**, preserves E09 P20 as a genuine falsification requiring a branching Tomo model, and freezes `GBC-CP3-P01` through `P27` for E12-E13.
 
 ---
 
@@ -190,13 +216,21 @@ Current sequential files:
   - reasoning routing: `DEEP_SYNTHESIS` -> `5.6 Sol Extra High` under `MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md` v1.0
   - E12 status: **SEQUENTIALLY UNLOCKED under frozen CP3**
 
-The V2 E01-E11 episode files supersede their root-level V1 counterparts **for current interpretive authority only**. The three frozen V2 checkpoints are preferred for cross-episode reconciliation within their declared boundaries. The V1 archive remains immutable provenance.
+The V2 E01-E13 episode files supersede their archived V1 counterparts **for current interpretive authority only**. The four frozen V2 checkpoints are preferred for cross-episode reconciliation within their declared boundaries. The V1 archive remains immutable provenance.
 
 ---
 
+## E12 transaction
+
+[Episode 12](02%20Sequential%20Readings/GBC_E12_DEEP_READING.md) records the 2–3 vote on the two-night event, attribution of the new song draft to Momoka, the studio revision process and 103 plays at Nina’s first depicted check. The seven ledgers carry the episode deltas. Unheard delivery and motion remain routed to reconciliation.
+
+## E13 transaction
+
+[Episode 13](02%20Sequential%20Readings/GBC_E13_DEEP_READING.md) closes the authorized source run. The stage result, the decision to go freelance and the illustrated credits have separately identified witnesses. E13 yields 16 CONFIRM, 4 PARTIAL, 0 CONTRADICT and 7 NON-DIAGNOSTIC CP3 events. The seven ledgers include the finale. [Checkpoint 4](02%20Sequential%20Readings/GBC_E12-E13_CHECKPOINT.md) is frozen. Its 27 unique dispositions are 14 STRENGTHEN, 4 REVISE, 1 PRESERVE-FULFILLED and 8 OPEN. The retrospective comparison is now recorded in the report above.
+
 ## Historical V1 analytical layer
 
-The root-level V1 files remain `historical_legacy` and revision-target provenance.
+The V1 files under `90 Legacy and Superseded/V1/` remain `historical_legacy` and revision-target provenance.
 
 They include:
 
@@ -206,6 +240,31 @@ They include:
 - `00_README_AND_EXPORT_MANIFEST.md` and `SHA256SUMS.txt` - V1 archival controls.
 
 Do not mutate the V1 episode files merely to add V2 supersession metadata because their archival checksums are part of the historical package. Current authority is routed from this corpus map and V2 front matter instead.
+
+---
+
+### Verified archival relocation
+
+On 2026-11-22 the 16 Git objects below moved intact. Paths are relative to the series root. Every destination matched its source Git blob ID and SHA-256 at `e3571eb717f06a2fbe17b02c4a3f508a79573ede`. The retained checksum file covers the manifest and 13 episode files. Its 14 SHA-256 entries verify against the original export import at `9957068cc942bdfbfb4f3fbd39c0c6aca13ed2ea`. All 14 differ from the later Git package after repository changes in `518f14ae`. Front matter changed in those 14 objects, and two body lines changed in E11 before this relocation. The synthesis and checksum file were outside the historical checksum list. All 16 current Git digests are recorded below.
+
+| Former Git path | Archived Git path | Pre- and post-move SHA-256 of Git content |
+|---|---|---|
+| `00_README_AND_EXPORT_MANIFEST.md` | [00_README_AND_EXPORT_MANIFEST.md](90%20Legacy%20and%20Superseded/V1/00_README_AND_EXPORT_MANIFEST.md) | `cd565cf335bb6b8092aa4e731a12ee7c353131a62f32576b3e41495515b4dd6a` |
+| `GBC_E01_DEEP_READING.md` | [GBC_E01_DEEP_READING.md](90%20Legacy%20and%20Superseded/V1/GBC_E01_DEEP_READING.md) | `e2206cc05319892b82408d5854034567abcc718b474063d593de0b396f5cec6d` |
+| `GBC_E02_DEEP_READING.md` | [GBC_E02_DEEP_READING.md](90%20Legacy%20and%20Superseded/V1/GBC_E02_DEEP_READING.md) | `a0f563776a9daeef4fa223bcde782f2a6f9392d3d5d5e4f47de6ece8381f75e0` |
+| `GBC_E03_DEEP_READING.md` | [GBC_E03_DEEP_READING.md](90%20Legacy%20and%20Superseded/V1/GBC_E03_DEEP_READING.md) | `16cbf279e09abc8f70b29c8b1cd9232e2c293ccfc9ea645f2a5dffe220ce5ebd` |
+| `GBC_E04_DEEP_READING.md` | [GBC_E04_DEEP_READING.md](90%20Legacy%20and%20Superseded/V1/GBC_E04_DEEP_READING.md) | `01bbe2b71a8869360be997906ef8f272daba24ae83470a3c47657bff3b1bb792` |
+| `GBC_E05_DEEP_READING.md` | [GBC_E05_DEEP_READING.md](90%20Legacy%20and%20Superseded/V1/GBC_E05_DEEP_READING.md) | `8099548338d6ee99fe80460d16af58b850a076240dfd49e667d4e0373242dbd4` |
+| `GBC_E06_DEEP_READING.md` | [GBC_E06_DEEP_READING.md](90%20Legacy%20and%20Superseded/V1/GBC_E06_DEEP_READING.md) | `d1790fb71fd2685fc5450e8217052df15f3496c3134f931b30ece621ac0ffd7e` |
+| `GBC_E07_DEEP_READING.md` | [GBC_E07_DEEP_READING.md](90%20Legacy%20and%20Superseded/V1/GBC_E07_DEEP_READING.md) | `e23b18ac160bc5e3f233377f466f5a6cfb8f1fac6559327eb77df749ec3572e6` |
+| `GBC_E08_DEEP_READING.md` | [GBC_E08_DEEP_READING.md](90%20Legacy%20and%20Superseded/V1/GBC_E08_DEEP_READING.md) | `1be240f05762223c1e84701209a7e4499bc5a662886656125ba87e8a41469080` |
+| `GBC_E09_DEEP_READING.md` | [GBC_E09_DEEP_READING.md](90%20Legacy%20and%20Superseded/V1/GBC_E09_DEEP_READING.md) | `1f15a4ff677a07d07d31b820e735e6956cd865e6ef850c931a02adaf382a65f4` |
+| `GBC_E10_DEEP_READING.md` | [GBC_E10_DEEP_READING.md](90%20Legacy%20and%20Superseded/V1/GBC_E10_DEEP_READING.md) | `7443315ff192d5bac9b9842d563a11fed1594365230482d7bc34fd4f83fe5386` |
+| `GBC_E11_DEEP_READING.md` | [GBC_E11_DEEP_READING.md](90%20Legacy%20and%20Superseded/V1/GBC_E11_DEEP_READING.md) | `c1ae28d93e012266817ac819dce63e878da14d15216699e6bc9a5c263b3cdf98` |
+| `GBC_E12_DEEP_READING.md` | [GBC_E12_DEEP_READING.md](90%20Legacy%20and%20Superseded/V1/GBC_E12_DEEP_READING.md) | `4bf93302207a50df23dbf05b133819ad0dabf7854350c0343cc65c34b7867311` |
+| `GBC_E13_DEEP_READING.md` | [GBC_E13_DEEP_READING.md](90%20Legacy%20and%20Superseded/V1/GBC_E13_DEEP_READING.md) | `e5b355cfc7ca756d1fd298d361ed103c6c009c594b14944515cf856e948d4098` |
+| `GIRLS BAND CRY Full Series.md` | [GIRLS BAND CRY Full Series.md](90%20Legacy%20and%20Superseded/V1/GIRLS%20BAND%20CRY%20Full%20Series.md) | `6e1996e5a11635030913eebb2669a73d2121659e38285eae3958d7c0e03e6c43` |
+| `SHA256SUMS.txt` | [SHA256SUMS.txt](90%20Legacy%20and%20Superseded/V1/SHA256SUMS.txt) | `a4e3a6892d252587cfc6769cfc2c0c9fab8e1b8b1f7f809087441b5d95845c06` |
 
 ---
 
@@ -517,7 +576,7 @@ Still open after E04:
 
 ### First-tranche boundary
 
-E04 closes the planned E01-E04 sequential tranche and `GBC_E01-E04_CHECKPOINT.md` freezes that boundary. E05-E08 complete the first held-out tranche, and `GBC_E05-E08_CHECKPOINT.md` freezes its E08-boundary state. E09-E11 complete the second held-out CP2 tranche, and `GBC_E09-E11_CHECKPOINT.md` now freezes its E11-boundary reconciliation and CP3. E12 is sequentially unlocked; the seven E11-current longitudinal ledgers are the next infrastructure priority.
+E04 closes the planned E01-E04 sequential tranche and `GBC_E01-E04_CHECKPOINT.md` freezes that boundary. E05-E08 complete the first held-out tranche, and `GBC_E05-E08_CHECKPOINT.md` freezes its E08-boundary state. E09-E11 complete the second held-out CP2 tranche, and `GBC_E09-E11_CHECKPOINT.md` now freezes its E11-boundary reconciliation and CP3. Both final readings are now accepted. The seven ledgers retain the E11 checkpoint baseline and both final episode deltas.
 
 ## E01-E04 checkpoint - complete / canonical / frozen
 
@@ -771,7 +830,7 @@ E08 scores the frozen register:
 
 Cumulative E05-E08 event-level scoring is **36 CONFIRM / 10 PARTIAL / 0 CONTRADICT / 34 NON-DIAGNOSTIC** across 80 prediction-by-episode opportunities. This is not a count of unique predictions proven. `GBC_E05-E08_CHECKPOINT.md` has now reconciled the twenty frozen predictions at the unique-prediction level and frozen CP2 for E09-E11.
 
-**E09-E11 are complete and checkpoint 3 is canonical/frozen. CP3 is frozen for E12-E13; E12 is sequentially unlocked.**
+**E09-E11 are complete and checkpoint 3 is canonical/frozen. CP3 was frozen for E12-E13, releasing E12 at this historical boundary.**
 
 ---
 
@@ -821,7 +880,7 @@ Checkpoint 2 froze **27 predictions (`GBC-CP2-P01` through `GBC-CP2-P27`)** for 
 
 The sole event-level contradiction remains `GBC-CP2-P20`, first falsified in E09. E11 simultaneously confirms the bounded time-scarcity/task-criticism branch, so the unique P20 rule must be REVISED at checkpoint rather than repaired retroactively. P26's strict release condition is now met in the lyric/performance domain; P27 is strongly activated by direct Nina/Hina history.
 
-**E09-E11 and their checkpoint are complete. `GBC-CP3-P01` through `P27` are frozen; E12 is UNLOCKED.**
+**E09-E11 and their checkpoint are complete. `GBC-CP3-P01` through `P27` were frozen and E12 was released at this historical boundary.**
 
 ---
 
@@ -927,7 +986,7 @@ Cumulative E09-E11 event-level CP2 tally: **33 CONFIRM / 8 PARTIAL / 1 CONTRADIC
 
 These are prediction-by-episode events, not unique claims proven. `GBC_E09-E11_CHECKPOINT.md` has now reconciled all 27 frozen predictions once: **16 STRENGTHEN / 2 REVISE / 2 PRESERVE-FULFILLED / 7 OPEN / 0 DOWNGRADE / 0 REJECT**. It freezes 27 CP3 predictions for E12-E13.
 
-**E12 is sequentially unlocked under frozen CP3.**
+**At the E11 checkpoint, CP3 released E12. Both final source units have since closed.**
 
 
 # Character-reconstruction objective
@@ -972,12 +1031,12 @@ Current status:
 12. `GBC_E10_DEEP_READING.md` - **CANONICAL / COMPLETE / CP2 HELD-OUT VALIDATION**
 13. `GBC_E11_DEEP_READING.md` - **CANONICAL / COMPLETE / CP2 HELD-OUT VALIDATION**
 14. `GBC_E09-E11_CHECKPOINT.md` - **CANONICAL / FROZEN / COMPLETE**
-15. seven standalone longitudinal ledgers - **MATERIALIZE NOW from E11-reconciled state / infrastructure priority**
-16. `GBC_E12_DEEP_READING.md` - **SEQUENTIALLY UNLOCKED under frozen CP3**
-17. `GBC_E13_DEEP_READING.md` - **after E12 under same frozen CP3**
-18. `GBC_E12-E13_CHECKPOINT.md` - **mandatory final sequential checkpoint**
+15. seven standalone longitudinal ledgers - **MATERIALIZED from E11-reconciled state**
+16. `GBC_E12_DEEP_READING.md` - **COMPLETE under frozen CP3**
+17. `GBC_E13_DEEP_READING.md` - **COMPLETE under the same frozen CP3**
+18. `GBC_E12-E13_CHECKPOINT.md` - **COMPLETE and frozen**
 
-V2 files remain under `02 Sequential Readings/`; root-level V1 episode files are not overwritten.
+V2 files remain under `02 Sequential Readings/`. Historical V1 episode files are under `90 Legacy and Superseded/V1/`.
 
 ---
 
@@ -985,16 +1044,16 @@ V2 files remain under `02 Sequential Readings/`; root-level V1 episode files are
 
 | Layer | State |
 |---|---|
-| V1 archival recovery | Complete for available export; E13 main-response gap recorded |
+| V1 archival recovery | Available export archived and verified in the V1 legacy directory. E13 main-response gap recorded |
 | V2 architecture | Canonical |
 | V2 analytical method | Canonical |
 | V2 source inventory | Complete |
 | V2 source lock | **PASS - Source Lock 1.0** |
 | V1 -> V2 baseline claim set | **Complete - 84 revision targets** |
 | Phase 0 | **CLOSED** |
-| V2 sequential readings | **11/13 canonical - E01-E11 complete; E12 sequentially unlocked under frozen CP3** |
-| V2 checkpoints | **Checkpoints 1-3 canonical/frozen. CP1 E05-E08 event tally: 36 / 10 / 0 / 34; CP1 unique transitions: 11 STRENGTHEN / 3 REVISE / 1 PRESERVE-FULFILLED / 5 OPEN. CP2 E09-E11 event tally: 33 / 8 / 1 / 39; CP2 unique transitions: 16 STRENGTHEN / 2 REVISE / 2 PRESERVE-FULFILLED / 7 OPEN. Checkpoint 3 freezes 27 CP3 predictions for E12-E13.** |
-| V2 longitudinal ledgers | **Materialization re-authorized/reset by checkpoint 3 from the E01-E11 reconciled state; standalone artifacts not yet created.** They are the next infrastructure priority before E12, but remain mutable infrastructure rather than a new evidentiary gate. |
+| V2 sequential readings | **13/13 complete, with qualitative delivery in E12–E13 deferred to reconciliation** |
+| V2 checkpoints | **Checkpoints 1-4 canonical/frozen. CP1 E05-E08 event tally: 36 / 10 / 0 / 34; CP1 unique transitions: 11 STRENGTHEN / 3 REVISE / 1 PRESERVE-FULFILLED / 5 OPEN. CP2 E09-E11 event tally: 33 / 8 / 1 / 39; CP2 unique transitions: 16 STRENGTHEN / 2 REVISE / 2 PRESERVE-FULFILLED / 7 OPEN. Checkpoint 3 froze 27 CP3 predictions for E12-E13. Checkpoint 4 closed them at 14 STRENGTHEN / 4 REVISE / 1 PRESERVE-FULFILLED / 8 OPEN.** |
+| V2 longitudinal ledgers | **Seven materialized at the E11 boundary**, following the E08 authorization and E11 reset. All seven carry the E12, E13, checkpoint 4 and accepted first-pass AV deltas. |
 | V2 character monographs | Not yet started |
 | V2 specialist synthesis | Not yet started |
 | V2 full-series synthesis | Not yet started |
@@ -1002,19 +1061,26 @@ V2 files remain under `02 Sequential Readings/`; root-level V1 episode files are
 
 ---
 
-# Immediate next step
+# Sequential history and current handoff
 
 Checkpoint 3 is canonical/frozen and the E12-E13 prospective boundary is fixed by `GBC-CP3-P01` through `GBC-CP3-P27`.
 
-The highest-priority infrastructure operation is now:
+### E11 ledger materialization
 
-**materialize the seven standalone longitudinal ledgers from the checkpoint-reconciled E01-E11 state.**
+Checkpoint 2 authorized materialization at the E08 boundary. All seven ledgers were physically created after checkpoint 3 from checkpoint-reconciled E01–E11. Their source routes and counterexamples remain available in the individual ledgers.
 
-Their front matter should state that checkpoint 2 authorized materialization at the E08 boundary but physical creation occurred after checkpoint 3 at the E11 boundary. They remain mutable and may be updated after E12, E13, and the final checkpoint.
+- [Behavioral Reconstruction Ledger](03%20Longitudinal%20Ledgers/GBC_BEHAVIORAL_RECONSTRUCTION_LEDGER.md)
+- [Character State And Voice Ledger](03%20Longitudinal%20Ledgers/GBC_CHARACTER_STATE_AND_VOICE_LEDGER.md)
+- [Industry Labor And Autonomy Ledger](03%20Longitudinal%20Ledgers/GBC_INDUSTRY_LABOR_AND_AUTONOMY_LEDGER.md)
+- [Music Performance And Authorship Ledger](03%20Longitudinal%20Ledgers/GBC_MUSIC_PERFORMANCE_AND_AUTHORSHIP_LEDGER.md)
+- [Relationship Ledger](03%20Longitudinal%20Ledgers/GBC_RELATIONSHIP_LEDGER.md)
+- [V1 To V2 Claim Revision Ledger](03%20Longitudinal%20Ledgers/GBC_V1_TO_V2_CLAIM_REVISION_LEDGER.md)
+- [Visual Form And Direction Ledger](03%20Longitudinal%20Ledgers/GBC_VISUAL_FORM_AND_DIRECTION_LEDGER.md)
 
-The next sequential source operation is:
+### E12–E13 execution configuration
 
-**`GBC_E12_DEEP_READING.md` - UNLOCKED under frozen CP3.**
+The 2026-11-22 owner instruction authorizes two consecutive atomic bundle-mediated readings, E12 followed by E13. Each transaction requires independent source inspection by a principal analyst, character/Japanese and audiovisual/music specialists, and a separate critical reviewer. Retain each participant's actual source coverage, counterexamples, disagreements and the integrator's decisions in the episode transaction. Freeze source-first findings before V1 adjudication. E13 stays outside the prospective E12 scope until E12 closes.
 
-Ledger creation is operationally preferred before E12 to clear infrastructure debt, but it is not a new evidentiary gate and does not change the frozen prospective register.
+The owner authorized closure of the bundle lane using text, frames and acoustic measurements, with unverified delivery explicitly deferred to reconciliation. Japanese cues establish indexed wording and approximate locations. Sampled frames support visible states at their timestamps. Mixed-track measurements support reported signal properties within the measured windows. Subjective hearing, speaker-specific voice quality, motion between samples, and audiovisual synchronization require channel-appropriate evidence. Record each outstanding obligation with its interval and the affected claim.
 
+E12 is complete in the authorized bundle lane. Its 27 CP3 tests yield 10 CONFIRM / 9 PARTIAL / 0 CONTRADICT / 8 NON-DIAGNOSTIC. E13 subsequently closed with 16 CONFIRM / 4 PARTIAL / 0 CONTRADICT / 7 NON-DIAGNOSTIC. The final checkpoint was committed before any Gemini inventory. The retrospective pass used the documented observation-only allowlist. Its exposure register, adjudications and unsent return packet are linked at the top of this map. Synthesis requires separate authorization.
