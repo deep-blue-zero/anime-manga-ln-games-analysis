@@ -47,7 +47,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shiboyugi`](characters/index/shiboyugi.md) | 13 |
-| [`shine-post`](characters/index/shine-post.md) | 7 |
+| [`shine-post`](characters/index/shine-post.md) | 8 |
 | [`shokugeki-no-soma`](characters/index/shokugeki-no-soma.md) | 17 |
 | [`shuukura`](characters/index/shuukura.md) | 5 |
 | [`silent-witch`](characters/index/silent-witch.md) | 4 |
@@ -263,6 +263,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Hinami Nagisa](characters/index/tomozaki.md#hinami-nagisa) | Bottom-Tier Character Tomozaki light novel | `tomozaki:hinami-nagisa@light-novel` | 日南渚 |
 | [Hinami Yoko](characters/index/tomozaki.md#hinami-yoko) | Bottom-Tier Character Tomozaki light novel | `tomozaki:hinami-yoko@light-novel` | 日南陽子 |
 | [Hinase Naoki](characters/index/shine-post.md#hinase-naoki) | SHINE POST television anime | `shine-post:hinase-naoki@television-anime` | — |
+| [Hinase Yuki](characters/index/shine-post.md#hinase-yuki) | SHINE POST television anime | `shine-post:hinase-yuki@television-anime` | — |
 | [Hisakawa Hayate](characters/index/the-idolmaster.md#hisakawa-hayate) | Cinderella Girls mobile games | `the-idolmaster:hisakawa-hayate@cinderella-girls-mobile-games` | — |
 | [Hisakawa Nagi](characters/index/the-idolmaster.md#hisakawa-nagi) | Cinderella Girls mobile games | `the-idolmaster:hisakawa-nagi@cinderella-girls-mobile-games` | — |
 | [Historia Reiss](characters/index/attack-on-titan.md#historia-reiss) | Attack on Titan manga | `attack-on-titan:historia-reiss@manga` | — |
