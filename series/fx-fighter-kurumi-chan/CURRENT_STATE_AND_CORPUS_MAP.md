@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan — Current State and Corpus Map"
 artifact_id: FX_KURUMI_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
 series: fx-fighter-kurumi-chan
-version: "1.5"
+version: "1.6"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Canonical foundation navigation, source admission and execution state"
-source_boundary: "Run FXK-RUN-20261119-V01-V10 authorizes the Japanese collected-manga main narrative V01–V10; accepted through V04"
+source_boundary: "Run FXK-RUN-20261119-V01-V10 authorizes the Japanese collected-manga main narrative V01–V10; accepted through V05"
 created: 2026-11-15
-last_updated: 2026-11-21
+last_updated: 2026-11-22
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -27,18 +27,18 @@ project_initialization:
     - FX_KURUMI_SOURCE_REGISTER.md
     - FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: V05
+  next_permitted_operation: V06
 sequential_execution:
   run_id: FXK-RUN-20261119-V01-V10
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V10
-  committed_high_water_mark: V04
-  next_candidate_operation: V05
+  committed_high_water_mark: V05
+  next_candidate_operation: V06
   confirmation_between_units: false
   run_state: active
-source_admission: "V01–V10 main narrative authorized; each volume admitted at its own frontier; accepted through V04"
+source_admission: "V01–V10 main narrative authorized; each volume admitted at its own frontier; accepted through V05"
 run_authorization: FXK-RUN-20261119-V01-V10
 supplemental_execution:
   current_state: CLOSED_AWAITING_COMPONENT_ADMISSION
@@ -50,7 +50,7 @@ recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 
 The canonical destination is `series/fx-fighter-kurumi-chan/`. The subject is the Japanese collected manga **FX戦士くるみちゃん**, written by Demunyan and drawn by Tansan Daisuki.
 
-**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner's November 19, 2026 instruction authorizes run **FXK-RUN-20261119-V01-V10**: one `continuous_sequential` run over the Japanese collected manga, authorized start V01, terminal boundary V10, one collected volume per atomic unit and no confirmation between successfully completed volumes. The run is **active**. Volumes V01–V04 have been accepted, so the committed high-water mark is **V04** and the next permitted and candidate operation is **V05**. Each volume is admitted only at its own frontier after the previous volume's transaction closes. The [source register](FX_KURUMI_SOURCE_REGISTER.md#run-activation-verification) records witness verification and the component scope below.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner's November 19, 2026 instruction authorizes run **FXK-RUN-20261119-V01-V10**: one `continuous_sequential` run over the Japanese collected manga, authorized start V01, terminal boundary V10, one collected volume per atomic unit and no confirmation between successfully completed volumes. The run is **active**. Volumes V01–V05 have been accepted, so the committed high-water mark is **V05** and the next permitted and candidate operation is **V06**. Each volume is admitted only at its own frontier after the previous volume's transaction closes. The [source register](FX_KURUMI_SOURCE_REGISTER.md#run-activation-verification) records witness verification and the component scope below.
 
 ## Start here
 
@@ -73,6 +73,7 @@ Each accepted volume has a canonical deep reading, a frozen checkpoint that reco
 | V02 | [V02 deep reading](readings/FX_KURUMI_V02_DEEP_READING.md) | [V02 checkpoint](checkpoints/FX_KURUMI_V02_CHECKPOINT.md) | [V02 entering state](checkpoints/FX_KURUMI_V02_ENTERING_STATE.md) | 2026-11-21 |
 | V03 | [V03 deep reading](readings/FX_KURUMI_V03_DEEP_READING.md) | [V03 checkpoint](checkpoints/FX_KURUMI_V03_CHECKPOINT.md) | [V03 entering state](checkpoints/FX_KURUMI_V03_ENTERING_STATE.md) | 2026-11-21 |
 | V04 | [V04 deep reading](readings/FX_KURUMI_V04_DEEP_READING.md) | [V04 checkpoint](checkpoints/FX_KURUMI_V04_CHECKPOINT.md) | [V04 entering state](checkpoints/FX_KURUMI_V04_ENTERING_STATE.md) | 2026-11-21 |
+| V05 | [V05 deep reading](readings/FX_KURUMI_V05_DEEP_READING.md) | [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md) | [V05 entering state](checkpoints/FX_KURUMI_V05_ENTERING_STATE.md) | 2026-11-22 |
 
 ## Authorized run
 
@@ -81,8 +82,8 @@ Each accepted volume has a canonical deep reading, a frozen checkpoint that reco
 | Run | FXK-RUN-20261119-V01-V10, owner instruction of 2026-11-19; the private instruction receipt is recoverable through the run ID |
 | Mode and unit | `continuous_sequential`; one collected volume |
 | Bounds | Start V01, terminal V10 |
-| Committed high-water mark | V04 |
-| Next candidate | V05 |
+| Committed high-water mark | V05 |
+| Next candidate | V06 |
 | Authorized primary narrative | The Japanese commercial collected manga by Demunyan and Tansan Daisuki, in the supplied witnesses |
 | Not authorized as evidence | The original Web manga, the anime adaptation, translations, external summaries and other separately published narrative |
 | Historical-market concordance | A separate responsibility, not a condition of accepting any reading. Real exchange-rate history never enters a prospective reading |

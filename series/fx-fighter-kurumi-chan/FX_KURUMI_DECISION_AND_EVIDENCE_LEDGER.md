@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan — Decision and Evidence Ledger"
 artifact_id: FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER
 artifact_type: evidence_ledger
 series: fx-fighter-kurumi-chan
-version: "1.4"
+version: "1.5"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Ordered fictional decisions, state and interpretation history for the collected manga"
-source_boundary: "FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01 and FXK-JP-V04-W01 main narratives and classified apparatus (V01–V04); no later volume"
+source_boundary: "FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, FXK-JP-V04-W01 and FXK-JP-V05-W01 main narratives and classified apparatus (V01–V05); no later volume"
 created: 2026-11-15
-last_updated: 2026-11-21
+last_updated: 2026-11-22
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -18,7 +18,7 @@ do_not_use_as_literary_evidence: true
 
 # FX Fighter Kurumi-chan — Decision and Evidence Ledger
 
-Source admission is **V01–V04** (FXK-JP-V01-W01: main narrative i0003–i0162 and classified apparatus i0001–i0002 and i0163–i0171; FXK-JP-V02-W01: main narrative i0003–i0102, i0105–i0134 and i0137–i0162 and classified apparatus and extras i0001–i0002, i0103–i0104, i0135–i0136 and i0163–i0171; FXK-JP-V03-W01: main narrative i0003–i0162 and classified apparatus, extras and vendor page i0001–i0002 and i0163–i0171; FXK-JP-V04-W01: main narrative i0003–i0032, i0035–i0062, i0065–i0088, i0091–i0122 and i0125–i0150 and classified apparatus, extras and vendor page i0001–i0002, i0033–i0034, i0063–i0064, i0089–i0090, i0123–i0124 and i0151–i0163); the rows below record V01, V02, V03 and V04 and cite observation IDs from the [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md), the [V02 deep reading](readings/FX_KURUMI_V02_DEEP_READING.md), the [V03 deep reading](readings/FX_KURUMI_V03_DEEP_READING.md) and the [V04 deep reading](readings/FX_KURUMI_V04_DEEP_READING.md). Use stable observation IDs from the accepted reading and link to the actual page and panel or screen region before advancing any row.
+Source admission is **V01–V05** (FXK-JP-V01-W01: main narrative i0003–i0162 and classified apparatus i0001–i0002 and i0163–i0171; FXK-JP-V02-W01: main narrative i0003–i0102, i0105–i0134 and i0137–i0162 and classified apparatus and extras i0001–i0002, i0103–i0104, i0135–i0136 and i0163–i0171; FXK-JP-V03-W01: main narrative i0003–i0162 and classified apparatus, extras and vendor page i0001–i0002 and i0163–i0171; FXK-JP-V04-W01: main narrative i0003–i0032, i0035–i0062, i0065–i0088, i0091–i0122 and i0125–i0150 and classified apparatus, extras and vendor page i0001–i0002, i0033–i0034, i0063–i0064, i0089–i0090, i0123–i0124 and i0151–i0163; FXK-JP-V05-W01: main narrative i0003–i0054 and i0057–i0162 and classified apparatus, extras and vendor page i0001–i0002, i0055–i0056 and i0163–i0171); the rows below record V01, V02, V03, V04 and V05 and cite observation IDs from the [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md), the [V02 deep reading](readings/FX_KURUMI_V02_DEEP_READING.md), the [V03 deep reading](readings/FX_KURUMI_V03_DEEP_READING.md), the [V04 deep reading](readings/FX_KURUMI_V04_DEEP_READING.md) and the [V05 deep reading](readings/FX_KURUMI_V05_DEEP_READING.md). Use stable observation IDs from the accepted reading and link to the actual page and panel or screen region before advancing any row.
 
 | Episode ID | Witness and unit/disclosure point | Figure, language or action shown and locator | Holder, time and modality of information | Entering alternatives and observed action | Exit change and affected person | Rival, uncertainty and claim pointer |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -142,6 +142,38 @@ Source admission is **V01–V04** (FXK-JP-V01-W01: main narrative i0003–i0162 
 | FXK-V04-D020 | 第20話 / i0144–i0146 | CAP "数日後——"; BOX "USD/JPY 現在値 115.840円", "萌智子 FX口座残高 13,302,630円 / 評価損益 +4,729,000円"; "これは予想できなかったな…" (i0144 crop [135,710,1255,1843]); "まったくわからない…!"; DOC "借用証書 小金萌智子 殿 金2,000,000円也", "2014年11[…]"; "ま、入金が間に合ってしまったのは ある意味運が悪かったのかもね…" (i0145 crop [769,940,1242,1219]); profile "若葉(20)", "新人", "業界未経験"; BOX "芽吹 FX口座残高(海外口座) 2,600,000円 (+2,000,000円入金)" (i0146 crop [0,1382,1350,1920]) | Mochiko, a few days later; screens and document | — (outcome) | Loan executed (IOU with a thumbprint, crop [760,920,1240,1230]; no rate on the visible part) and deposited; Mebuki working as "若葉"; the short not closed before the deposit (INF HIGH), open at the end by inference (INF MOD-HIGH) | Mochiko's P/L exact at 106.382 (F.7). E080–E082; C012, C013, C020 |
 | FXK-V04-D021 | 第20話 / i0147–i0150 | "ま… 私も就職斡旋してる場合じゃないんだけど…"; "萌智子お前ヒマだろ?", "今度のコミチア売り子で手伝ってほしいんだけど いけるよな?" (i0147); imagined elf panel; "きっと社会勉強になるぞ!", "コミチア限定アクセサリーとかすげーぞ!" (i0148); "直接会って話したいこともあるし"; thought "こっちが本命か…"; "いいよ その日は空いてるから" (i0149); "面倒だよね… 人間関係って…" (i0150) | Mochiko and Yasuko by phone | Mochiko: accept or refuse the meeting → accepts | Confrontation scheduled for the コミチア day | i0148 panel imagined (INF MOD). E083–E085; C014 |
 | FXK-V04-D022 | W01 / V04 / i0006, i0020, i0056–i0057, i0068, i0100, i0105, i0112, i0139, i0144, i0146 (analyst arithmetic) | Printed operands: Kurumi 60枚 at 106.789 + 120枚 at 112.012; Kurumi +7,812,000 at 114.611; Mebuki 20枚 at 112.102, −523,400 at 114.719, −543,600; balances 300,000 / 600,000 / 2,600,000; Mochiko 109.5% ("3,000円(日利)", "月18万円くらい"); Mochiko +3,209,000 and +4,729,000 at 115.840; graph "累計−1,000,000円", "600,000円 追加入金" | Analyst arithmetic of printed figures | — (outcome record) | Kurumi average 110.2710 and P/L exact; Mebuki P/L exact; zero-equity 113.602 → 115.102 → 125.102; interest 3,000/day per 1,000,000 and 180,000/month on 2,000,000; Mochiko's i0144 P/L exact at avg 106.382 (4,504,000 at 106.832), i0037 fits 106.832 with "113円台" (i0048) | ANALYST CALCULATION. E001, E011, E033, E038, E054, E058, E063, E077, E080; C016, C020 |
+| FXK-V05-D001 | W01 / V05 / cold open + 第21話 / i0003–i0021 | SIGN "平成18年度 市立第二中学校 入学式" (i0003 crop [870,780,1230,1360]); "お母さん 今日くらい 来たらいいのにねぇ…" (i0003); "娘さん帰ってきたよ?", "今日の売り上げがよかったらね" (i0007–i0008); "大っ嫌い…" (i0008); "平均(まわり)が低すぎる" (i0010); flowers and note, "学校来るな" (i0012–i0013); "先生にチクったら あの親に連絡 行くだろうし" (i0015); "学校はもう行きたくないし 家はもっと帰りたくないし" (i0018); "私明日から学校行かない…!", "18歳になったら出ていくから" (i0020); "「損」しか生まないから… 切り捨ててやる…!" (i0021) | Mochiko (12), spring 2006; thought and speech; the bespectacled man's speech overheard ("the mother's partner" in the V05 reading: the man on whose sales-based business her work depends; role unprinted) | Retaliate, tell a teacher, conform, or leave → leaves school and home for her grandmother's house with the kitten | Independence by 18 set as a goal; school refusal executed | The partner's role at the mother's workplace INF MOD; object of "大っ嫌い" unstated. E001–E003; C003, C004 |
+| FXK-V05-D002 | 第21話 / i0022–i0025 | CAP "2008年9月——"; radio "金融安定化法案が アメリカ下院で 否決", "NYダウは 史上最大の 下げ幅" (page text); "私はこの社会で 勝ち組になる…!" (i0022); "高校は 行かなくて いい", "頭を使って コスパよく お金を稼ぐ…!", "おばーちゃんに これ以上負担は かけられない…!" (i0023); CAP "2009年9月——", "「大検」合格 おめでとう〜" — "今は「高認」だよ" (i0024) | Mochiko (14–15), self-study at the grandmother's | High school or 高認; ordinary work or "efficient" money → 高認, a 特待生 aim, money-making | 高認 passed (2009) | Real events recorded as page text only (EXTERNAL_REFERENCE excluded). E004; C003 |
+| FXK-V05-D003 | 第21話 / i0026–i0029 | Café "すわっぷぽいんと"; "私は稼げる 仕事 紹介してほしい だけです" (i0026); "人生なめすぎ〜!", "うちの系列で 働きたいって ことだよね?", "お母さん 以下だよ 君は", "面白いもの 見せてもらったよ…", "お礼にここは 払っといてあげるね" (i0027); "確かに 甘い考えを してたんだ…" (i0028); "そういう ことは ありえない から…" (i0029) | Mochiko and the bespectacled man, autumn 2009 | Ordinary work or ask him → asks him | Humiliation; anger turned to self-correction | Structural echo of Mochiko's V04 handling of Mebuki INF MOD-HIGH. E005; C005 |
+| FXK-V05-D004 | 第21話 / i0030–i0031 | CAP "2010年2月——"; EAON; "中卒かぁ〜!" (i0030); "うん そうだね", "そっちも 勉強がんばってね" — "ばーか" (i0031) | Mochiko at work; former bullies | Retort or mask → mask | Origin of the public assent formula | Learned strategy, not a diagnosis. E006; C004 |
+| FXK-V05-D005 | 第21話 / i0032–i0033 | CAP "2010年6月——"; "D<LE" laptop; "誰でも簡単" pages; "すでに情報が 出回ってるって ことは 競争激しいんだろ?" (i0032); "これが 一番フェアな 気がする…", "強い奴が勝って 弱い奴が負ける 単純明快な世界——", "貯金… 少ないうちに 冒険 してみるか…!" (i0033) | Mochiko, alone | Schemes or investment → investment | The fair-arena belief | Root of her 自己責任 INF HIGH. E007; C004 |
+| FXK-V05-D006 | 第21話 / i0034–i0038 | SCR "(前日終値375円:2010/10/4)"; board 357 highlighted (i0034 crop [140,640,1350,960]); "買い増しする…?", "私の都合で 期待するべき ではない…!", "損切り…!", BOX "現物売り 500株 約定しまし[た]" (i0035); "入金力" (i0036); "ヒトの意識… 欲望…絶望… 本能…" (i0037); "そういう… ことか…?" (i0038) | Mochiko, October 2010, morning | Average down, hope, or cut → cuts (executed) | A small realized loss (entry, exit and P/L unprinted); the turn to reading people | Exit price unprinted (352 at the moment, INF MOD); the realization withheld. E008–E009; C004 |
+| FXK-V05-D007 | 第21話 / i0039–i0041 | SIGN "平成24年度 新都大学受験会場" (i0039); funeral; "義母さんの 年金にタカって", "今日から 働いて家に お金くらい 入れなさいよ?", "どうせ…私のとこに 帰ってくるんだから" (i0040); "んなわけ ねーだろ"; DOC "新都大学 特待生認定通知書… 授業料を免除しま[す]"; "勝手に したら!?" (i0041) | Mochiko and her mother at the grandmother's funeral (date unprinted) | Return home or not → not | 特待生 admission; break with the mother | "義母さん" fixes the paternal grandmother; father never mentioned. E010; C003 |
+| FXK-V05-D008 | 第21話 / i0042–i0049 | CAP "2012年4月——", SIGN "平成24年度 新都大学経済学部 新入生オリエンテーシ[ョン]" (i0042); "中学での失敗は もうしない…" (i0043); "私 福賀くるみ!" (i0044); creed "舐められたらダメ", "主導権を 取り続け", "自分の情報は できるだけ隠し", "決して弱みを 見せては いけない…" (i0045); "お金が 好きだから" (i0046); "FX—— 外国為替 証拠金取引…!", "…2000万円 かな…", "簡単に言う…" (i0047); "いいサンプル", "どう失敗するのか 真横で見るのが 望ましい" (i0048); "安値更新したら 損切りする" — "そのあと 上がるかも しれないよ?"; "これから 一緒に 頑張ろうね!" (i0049) | Mochiko's thought (visible to the reader); Kurumi's speech, April 2012 | Mochiko: keep distance or engage → engages as an observer | The Kurumi friendship begins; Kurumi and Mochiko in the 2012 intake | The 2012 intake agrees with the V01 captions (Kurumi 大学二年生 on 14 Feb 2014; Mochiko 大学三年生 in May 2014): V04-U03 resolved at reconciliation. E011–E013; C004, C006, C064 |
+| FXK-V05-D009 | 第21話 / i0050–i0052 | CAP "2014年4月 萌智子20歳"; "年末の選挙後に スルスルと 上がって", "去年 始めたFXは ちょうど円安の 流れに乗って", "まとまった 資金", "たまたま タイミングが 合っただけ" (i0050 crop [120,660,1060,1300]); "にゃぱ〜♪ 山師芽吹 です!"; "うん とても そう思う" / "私こういう子 大っ嫌いだわ" (i0051); "教えてくれ ませんか…"; "いいよ 一緒に 頑張ろっか 芽吹ちゃん" (i0052) | Mochiko's thought; Mebuki's speech | Refuse or teach → teaches | The teacher relation of V03–V04 begins | Capital amount unprinted. E014–E015; C007, C008 |
+| FXK-V05-D010 | 第21話 / i0053–i0054 | CAP "現在——"; "自分の力で 生きている 人間だ" (Yasuko); "芽吹ちゃんは 全部持ってるのに", "仕送り BOX", "これ以上 他人からの 施しを与えて どうするんだ?", "自分の人生くらい 自分でなんとか するべきだろう?" (i0053); "90分が ひとりに… 120分が 3人か…", "なんで この店… 男の人しか お客さん こんのやろ…" (i0054) | Mochiko's thought, November 2014 (INF HIGH); Mebuki's thought | — | 自己責任 stated in thought before the confrontation | The "仕送りBOX" man HYP Mebuki's father. E016–E017; C009 |
+| FXK-V05-D011 | 第22話 / i0057–i0059 | "若葉ちゃん 未経験なのに 上手だねぇ〜", "もっと 質のいい サービス あると 思うんだけど なぁ…?" (i0057); plate "エステート ゼロサムマンショ[ン]"; "つもりじゃ 困るんだけど?" (i0058); "仕事 辞めたい…" (i0059) | Mebuki at work, night | Comply or refuse → the customer leaves | Humiliation and distress | Sexual intent INF HIGH; coercion not shown. E018; C010 |
+| FXK-V05-D012 | 第22話 / i0060–i0061 | TILES "USD/JPY 現在値 116.630円"; "芽吹 FX口座残高 2,600,000円 平均売値 112.102円 20枚 評価損益 −905,600円"; "借入200万円 年利109.5% 1日利息6000円" (i0060 crop [100,1080,1100,1860]); "この含み損を消して プラマイゼロで FX引退する…!", "借りた 200万円は 呪いの刀…!" (i0061) | Mebuki, train at night (before the 17 Nov caption, INF MOD); screen | Hold, cut, or deploy the borrowed margin → deploy | Goal: break-even and quit | CALC −905,600 and 6,000/day exact; resolves V04-U05 in part. E019–E020; C011 |
+| FXK-V05-D013 | 第22話 / i0062–i0068 | CAP "11月17日 月曜日——"; "実はギザギザ!" (i0062); "救い玉作戦!", "11月17日 8:50" (i0063); "第3四半期GDP (一次速報)"; TILE "USD/JPY 117.023円 10枚売り(救い玉)" (i0064 crop [370,1100,1350,1870]); "でもこれ以上 欲張らん!" (i0065); TILES "116.489円利益確定 +53,400円", "112.102円売り1枚 116.475円損切り −43,730円" (i0066 crops); "実質勝ちや…!", "112,102円" (i0067 crop); TILE "2,609,670円(+9670円)", "112.102円(19枚売り)"; "117円… 天井の 可能性も…?" (i0068) | Mebuki, 17 Nov, alone | Wait, cut, or sell the spike → sells 10枚 (executed), banks it, cuts 1 old lot | Net +9,670; 19枚 left; 117 read as a ceiling | All tiles exact (CALC); comma printed. E021–E022; C012 |
+| FXK-V05-D014 | 第22話 / i0069–i0076 | CAP "同日 夜——"; "年明けからな", "そう…だな…" (i0069); "冷静になる必要なんて なかったじゃん" (i0070 crop [435,1357,900,1920]); "2000万円さえ 奪い返せば" (i0071); TILE "くるみ 評価損益 +10,695,600円", "1400万円", button "建玉全決算", face, "違う!" (i0073 crops); "全然…足りてない…" (i0074–i0075); "こんな はした金 いらない", "欲張って なにが悪い" (i0076) | Kurumi, 17 Nov night; screen; thought | Take profit, add all-in, or hold → holds (cursor withdrawn) | Greed embraced; father's transfer known | Implied rate 116.213 (CALC); the face INF MOD-HIGH her mother. E023–E026; C016 |
+| FXK-V05-D015 | 第22話 / i0077–i0080 | "115.4円に 逆指値決済 注文…!" (i0077); Patterns A/B, "2007年7月以来" (i0077–i0078); "パターン C!", "待て…!" (i0079); "120.05円 指値決済 注文… 完了…!"; DIAG "120.05円指値 利益確定(大)", "117円天井疑惑アリ", "115.4円逆指値 利益確定(小)" (i0080) | Kurumi, same night | Open-ended hold or bracket → bracket (submitted) | Both exits defined, both gains | CALC +9,232,200 / +17,602,200. E027; C017 |
+| FXK-V05-D016 | 第22話 / i0081–i0082 | CAP "11月18日 火曜日——"; "愚かな…"; TILE "USD/JPY 116.988円 10枚売り(救い玉)" (i0081 crops [410,140,530,330], [320,1680,890,1840]); "117円が 限界やろが"; "落ちろ" ×10, desk-stabbing (i0082) | Mebuki, 18 Nov | Wait or add → adds 10枚 | 29枚 short (CALC avg 113.787); agitation | Stabbing implement UNRESOLVED. E028; C012 |
+| FXK-V05-D017 | 第23話 / i0083–i0084 | CAP "11月18日 夜——"; "就活って 言ったじゃない ですか"; "1回だけ やりましたけど 私的には 微妙でした…"; "ギャンブル ハマらない人 初めて見たよ〜!" (i0083); "私みたいな ドハマり人生に なるなよ〜", "来年の夏には もう就職先 決まってるの かなぁ…" (i0084) | Kurumi and a co-worker | Keep the job or quit → quits | Income from work ends | Real reason beyond 就活 unstated. E029; C016, C031 |
+| FXK-V05-D018 | 第23話 / i0085–i0087 | CAP "同時刻——"; "救い玉1枚 利益確定!"; TILE "Before 2,609,670円 (19枚売り)" → "After 2,621,530円 (18枚売り)", "+11,860円"; "あと たった18回…" (i0085 crops [780,50,960,330], [640,1250,980,1860]); "いや 多くない?", "117円天井説が 濃厚に なった" (i0086); "全力 救い玉! 25枚 売り発射…!", TILE "USD/JPY 116.365円 救い玉25枚売り" (i0087 crop [435,757,795,900]) | Mebuki, 18 Nov night | One lot per cycle, stop, or enlarge → enlarges (executed) | 43枚 short, CALC avg 114.5805 | "1枚" vs tile (CALC R ≈116.436). E030–E031; C012 |
+| FXK-V05-D019 | 第23話 / i0088–i0093 | "私が売ってから 一回も下がって へんやん!", "この イカサマ通貨!" (i0089); NP "彼女は 理解していたで あろうか?" → "とどのつまり ただのポジション" (i0089–i0090); TILES "評価損益 −934,180円" → "−1,002,120円" (i0091 crop [255,1387,1005,1815]); "この 救い玉は 失敗や…!", "こんな膨らみきった 損失で確定するのは アホや!", "一瞬でも大きく 下がったときに 損切りする!" (i0091); "このお金 返さな あかん", "キモいおっさん 触って稼がな あかん", "私も萌智子先輩も 困るんです" (i0092); 117.0 broken (i0093) | Mebuki; narrator | Cut now or on a dip → defers (conditional) | Loss passes 1,000,000 | Tiles exact at 116.753 / 116.911 (CALC); still believes Mochiko short. E032–E034; C013, C014 |
+| FXK-V05-D020 | 第23話 / i0094–i0102 | NP "長い夜が 始まった", "やめることは できない" (i0094); NP "比較的 安定していた", "重要な局面の 攻防" (i0095); "無慈悲な上昇" (i0096); "すべての 売り方(ショーター)に 祝福を…!" (i0097); "年初来高値更新" (i0098); "ぷちッ…" (i0099); "もう どうでもええわァ… どうせ私は 養分で〜す" (i0100–i0101); "入金しても どうせ全部 溶かす", "動けば動くほど 損するだけや", "FXって やつは——" (i0102) | Mebuki, 18→19 Nov night to morning | Deposit wages, cut, or do nothing → does nothing (withholds deposit) | Resignation; no close shown | Short status after this UNRESOLVED (V05-U01). E035–E037; C013, C014, C015 |
+| FXK-V05-D021 | 第23/24話 / i0103–i0111 | CAP "11月23日 日曜日——"; "コミチア111を 開会いたします"; "エルフ衣装" (i0103–i0104); "…1000部" (i0105); "30部売れたら いいほう", "爆死しても FXと違って モノが残る", "これが あたしの 全力投資——" (i0106); "100部超えた" (i0108); "「FX堕天使 あふぃちゃん」 ですよね!!", "冷やかしなら 帰って いただけます?" (i0110); "グッズ 完売しました" (i0111) | Yasuko and Mochiko (drawn openly; first called 萌智子 in speech at i0134); a fan | Yasuko: a cautious print run or 1000 → 1000 (already printed) | Sales; outing in public | Chapter attribution of i0103–i0104 UNRESOLVED. E038–E039; C023, C025 |
+| FXK-V05-D022 | 第24話 / i0112–i0124 | "今日の やす子は 過去一番 プロに近い…!" (i0112); カラーズ "面白い!" / "全っ然載せられ ません" (i0114–i0115); "下げんなら 上げんなや", "次は 4コマ系を 攻めるぞ!" (i0116); おんたま editor's self-talk (i0117–i0119); "プロ志望" (i0119); コミックプラッパー: "全然プロから 遠いです", "一番の問題は ネーム力です", "どうして まだ1作品しか 描いてないんです?" (i0122); "本当は デザイナー志望", "2カ月前から", "3日くらい" (i0123); "本気で漫画家 目指しては どうです?", "一番の武器は 筆の早さ", card "コミックプラッパー編集部 毒島☆寿美" (i0124 crop [0,1056,1350,1920]) | Yasuko and three editors | Go home or consult editors → consults all three | Honest critique and a path | Card later revealed as a cabaret card (i0140). E040–E042; C026 |
+| FXK-V05-D023 | 第24話 / i0125–i0128 | PA "コミチア111 閉会"; "合計 372冊", "まさか爆益", "投資大成功じゃん" (i0126); memory "萌智子先輩から 200万円 借りることに した… これが 最後の勝負 だよ…", "ところでさ" (i0127); "私を呼んだ 目的は 別にあるんでしょう?", "今日は あたしの 奢りだ" (i0128) | Yasuko and Mochiko, evening | Raise Mebuki or not → raises it over dinner (she pays) | The confrontation begins | Price and costs unprinted. E043; C023 |
+| FXK-V05-D024 | 第24話 / i0129–i0131 | "スシヨー", "1皿50円〜"; "私が 芽吹ちゃんに 200万円 融資した" (i0129); "私に メリットが あったからだよ", "ドル円買い(ロング)", "ドル円売り(ショート)の 芽吹ちゃん", "間接的に 両建てっぽく なる" (i0130); "多少ドル円が 下がっても 貸付の 利息は 受けとれる", "ほぼ 負けることは なくなる", "いい リスクヘッジ でしょう?" — "友達から利息 取ってんのか!?" (i0131) | Mochiko to Yasuko; speech | Conceal or explain → explains self-interest | Yasuko learns of the long and of interest (rate not stated) | Hedge coherent but transfers losses into credit risk (§F.3 of the reading). E044; C027 |
+| FXK-V05-D025 | 第24話 / i0132–i0133 | Thought "十中八九 私への批判", "借りたのも 続けたのも 全部 自分の 責任だろうが!" (i0132); "もっと 芽吹ちゃんに 優しくしろって 話ならお断りだよ", "甘えたけりゃ ご実家の ママにでも 泣きつけば"; "この件は 芽吹の 自己責任だって"; "これは私と 芽吹ちゃんの 問題"; "勘違い すんなよ" (i0133) | Mochiko (thought visible; speech); Yasuko | Mochiko: concede, apologize, or refuse → refuses; Yasuko: contest the loan or not → concedes 自己責任 | The loan's legitimacy not contested | Mochiko recognizes Mebuki's ruin (imagined "ボロボロ"). E045; C027, C028 |
+| FXK-V05-D026 | 第24話 / i0134–i0137 | "お前と仲よく なりたかった からだ…!", "個人的な 意見", "芽吹は 大切な 友達" (i0134); "自分のことは いっさい 話さないよな" (i0135); "萌智子って 友達 いなかったん じゃねーの?", "萌智子も 飲めよ" (i0136); "いらないんだよ… 友達とか なれあいとか そういう の…!" (i0137) | Yasuko and Mochiko; beer | Mochiko: deflect or answer → unmasks | First open drop of her soft register to a peer | Name "萌智子(もちこ)" spoken (i0134). E046; C028 |
+| FXK-V05-D027 | 第24話 / i0138–i0140 | "くるみの 話を聞いてから"; "FXで 自殺した… くるみのお母さんと 同じ道を 辿るとでも? あの子に そんな勇気は——"; "芽吹は この世に ひとりしか いねーんだよ" (i0138); "絶対許さねぇ からな"; "ライン超え させないよう 注意するつもり", "元金回収 無理だし"; thought "全然 よくないわ" (i0139); "なんでくるみは あんなことが あったのに FXなんて やってるんだ…?"; cabaret card; "続く…" (i0140) | Mochiko and Yasuko | Mochiko: take the risk seriously or dismiss → dismisses, promises restraint for principal | Yasuko's warning on record | Concern under calculation UNRESOLVED. E047–E048; C029 |
+| FXK-V05-D028 | 第25話 / i0141–i0146 | NP "2014年 10月下旬", "118円台に突入", "12月2日 火曜日", "119円を 明確に突破" (i0141 crops); "まだ ドル円買い 持ってるの?" — "うん!" (i0143); envelope "萌智子先パイへ", "返済の お金…", "くるみ先輩が おると 渡しにくいな…" (i0143–i0144 crop [240,280,520,680]); "ドル円売りで むしろ マイナス"; "嘘は よくないよ! やす子ちゃんに 聞いたよ?" (i0144); "なんだ バレてんの?", thought "やす子の 野郎…", "含み損を 持ち続ける ことなんて 絶対しない", "この相場で ドル円売り 続けてるの アホしか いないでしょ"; Mebuki "え?"; "なにそれ" (tail toward the counter; speaker UNRESOLVED, INF MOD Mochiko) (i0145); envelope dropped; Mebuki on the floor (i0146) | University café, on/after 2 Dec; Mebuki overhears | Mochiko: lie or tell → lies, then shrugs when exposed | The shared-short lie exposed to Mebuki; repayment undelivered | "10月下旬" vs chronology UNRESOLVED; Kurumi shows no knowledge of the loan. E049–E051; C030, C031 |
+| FXK-V05-D029 | 第25話 / i0147–i0153 | Chart rising toward but staying below 120円 in the bath panels (i0148 crop [120,1300,1335,1870]); axis to 120.1 (i0150); SCR "評価損益 0円", "USD/JPY 119.954 ASK" (i0151); "くるみ 1760万円 利益確定!", "現在お持ちの建玉は ありません", TILE "FX口座残高(国内口座) 21,213,915円 (+17,602,200円)" (i0152 crop [830,1270,1320,1460]); "税金分考えて あと300万円だけ 稼げば目標達成…!?" (crop [860,0,1350,460]), "運がよかった だけなんだろうな", "お母さんだって やる時期が よかったら…", "悔しいな" (i0153) | Kurumi at night, away from the screen when the limit filled (fill time unprinted); screen | — (the pre-set limit decided) | +17,602,200 realized; 21,213,915 | CALC exact for 180枚 at 120.05; target not met by her after-tax reckoning; the gap reconciles with accepted V03 figures (2,786,085; INF MOD-HIGH). E052–E054; C018, C019, C063 |
+| FXK-V05-D030 | 第25話 / i0154–i0162 | "2000万円 ぽっちで 済ませて いいの…?", "全然割に 合わない…!", "億の世界にだって——!"; memory inset of her father's slap (i0154 crops [0,1113,1350,1920], [499,1286,1012,1785]; INF HIGH the V02 slap); "目標達成したら ちゃんと FX引退しなきゃ!", "灰色の人生…" (i0155); "ここが… 天井に なると… 予想してた", "即ドテン売り!" (i0156–i0157); BOX "くるみ USD/JPY 119.631円 300枚売り", "目標は 118.6円", "今の 私なら 普通に 張れる…!" (i0158 crop [0,0,756,806]); "これで 私の戦いは おしまい", "私 やったよ" (i0159); beach "ぜんぶ", "もうちょっとだけ" (i0160–i0161); chart low ≈119.45, white candle ≈119.52 → ≈119.74, bucket spilled, "TO BE CONTINUED..." (i0162 crop [0,0,1350,1190]) | Kurumi, the same night; thought; screen | Stop trading, or trade to the target → 300枚 short executed; limit 118.6 submitted, sized to the remaining gap (+3,093,000, CALC); no stop shown; PC off | Open short against a closing up-candle | Chart schematic (bonus i0165); stop UNRESOLVED (V05-U05); the 億 temptation checked on the page. E055–E060; C020–C022, C062, C063 |
+| FXK-V05-D031 | W01 / V05 / i0060, i0066, i0068, i0073, i0085, i0087, i0091, i0152, i0158 (analyst arithmetic) | Printed operands: Mebuki 20枚 @112.102, −905,600 at 116.630; rescues 117.023 / 116.489 / 116.475, 116.988, 116.365; balances 2,609,670, 2,621,530; −934,180, −1,002,120; loan 2,000,000 at 109.5%, 6,000/day. Kurumi 180枚 @110.271, 3,611,715, +10,695,600; +17,602,200, 21,213,915; 300枚 @119.631, target 118.6 | Analyst arithmetic of printed figures | — (outcome record) | All Mebuki tiles exact under 1枚 = 10,000 units; i0085 implies a common close ≈116.436 (the "1枚" balloon contradicts); i0091 exact at 116.753 / 116.911 for 43枚; Kurumi +10,695,600 ↔ 116.213; +17,602,200 and 21,213,915 exact for 120.05; 300枚 = 3,000,000 per yen; +3,093,000 at 118.6; Mebuki's zero equity ≈120.677 if unchanged | ANALYST CALCULATION. E019, E021–E022, E025, E030–E032, E053, E057; C011, C012, C018, C021 |
+| FXK-V05-D032 | 第21話, 第24話 / i0007, i0026–i0027, i0053, i0136–i0137 (repeated lines; added at reconciliation) | "友達は できそうかい?", "ワクドの ハンバーガー" (i0007); a hamburger as "ご褒美" (i0026); "学校で友達も 作れなかった 君", "他人の施しに 期待しちゃってさ" (i0027); "これ以上 他人からの 施しを与えて どうするんだ?" (i0053); "萌智子って 友達 いなかったん じゃねーの?" (i0136); "いらないんだよ… 友達とか なれあいとか" (i0137) | The bespectacled man's speech to Mochiko (2006, 2009); Mochiko's thought (2014); Yasuko's speech and Mochiko's reply (23 Nov) | — (pattern record) | The charges once levelled at her become hers against Mebuki and return in Yasuko's challenge | Designed echo INF MOD-HIGH; Mochiko's awareness UNRESOLVED. E061, E005, E016, E046; C061 |
 
 When it matters, carry amount, sign, denomination, unit and state as printed, retaining how each value was derived. Record action status only where evidenced. A speaker’s intention, chart on a page and later resulting balance have different authority. Give directed changes their own rows if reciprocity or disagreement matters. Keep comparisons across distinct episodes and significant form choices directly retrievable.
 
@@ -754,12 +786,198 @@ When it matters, carry amount, sign, denomination, unit and state as printed, re
 | FXK-V04-F161 | B4-K12 Mebuki shown working a shift (Agent B; 0.45) | Agent B FREEZE_04 (21:13:03, after the separator i0123, before i0124) | Profile only (i0146) | DISCONFIRMED; independent prospect |
 | FXK-V04-F162 | B4-K13 Mochiko's position shown with a printed P/L (Agent B; 0.45) | Agent B FREEZE_04 (21:13:03, after the separator i0123, before i0124) | +4,729,000 (i0144) | CONFIRMED; independent prospect |
 | FXK-V04-F163 | B4-K14 A printed USD/JPY rate after i0123 (Agent B; 0.85) | Agent B FREEZE_04 (21:13:03, after the separator i0123, before i0124) | 115.840 (i0144) | CONFIRMED; independent prospect |
+| FXK-V05-C001 | V05's governing thesis: threads of money, concealed information and learned habit bind the four; Mochiko's creed (concealment, dominance, the fair arena, loss-cutting) is given a biography of neglect and humiliation, bound to it by repeated lines ("施し", friends; E061), and meets three tests — Yasuko's claim to reciprocity, the leak of her position through Yasuko to Kurumi, the exposure of her lie in Mebuki's hearing; Mebuki escalates "rescue" shorts the narrator calls "ただのポジション", admits error, cannot realize the loss, resigns; Kurumi brackets a greed-framed long, is paid at 120.05 while away from the screen, finds herself by her own after-tax reckoning still "あと300万円" short, is tempted by "億の世界" and checked by the memory of her father's slap, then opens a 300-lot short sized to the gap, with a take-profit and no stop shown; responsibility refined (Yasuko concedes 自己責任 and claims friendship) (principal, EVALUATION) | Principal's running notes; MAIN_EXIT | i0006–i0053, i0060–i0102, i0129–i0146, i0151–i0162; narrator i0090, i0095; closing image i0162. Against: §D.2 | NEW; EVAL on OBS HIGH and form; revised at reconciliation (reviewer C-01, C-07); V05 reading §D.1 |
+| FXK-V05-C002 | Competing thesis: V05 is chiefly a sympathetic origin story; Mochiko's coldness is self-protection; the loan a disclosed hedge Mebuki chose and Yasuko accepts as 自己責任; the café injury accidental; the real danger is Kurumi's grief and restitution drive, which turns a nearly reached target into a larger bet (principal; wording revised at reconciliation, C-19) | Principal's running notes | For: i0018–i0039, i0110–i0126, i0133, i0139. Against: i0048, i0130–i0131, i0138, i0144; her doctrine exempts her own family support (i0028) | NEW; OPEN (live); §D.2, §L |
+| FXK-V05-C003 | Mochiko's 2006–2012 biography: night-working mother; the bespectacled man on whose business the mother's work depends (role unprinted); bullying; the paternal grandmother ("義母さん"); 高認; 特待生 (principal) | F01–F03 basis | i0003–i0041 (i0003 crop; i0040 ruby) | NEW; OBSERVATION HIGH; causal weight INF MOD-HIGH |
+| FXK-V05-C004 | Origin scenes of her creed: "「損」…切り捨ててやる" (i0021), the mask "うん そうだね"/"ばーか" (i0031), the fair arena (i0033), the first cut (i0035), concealment and dominance (i0045) (principal) | F01, F02 notes | As listed; adult continuity (V03 C008, V04 §K, V04 E020) | NEW; OBS/SR HIGH; continuity INF HIGH |
+| FXK-V05-C005 | The café humiliation partly mirrors Mochiko's V04 handling of Mebuki: an older party lectures a supplicant on naivety and steers her toward night work (here a work request; in V04 a loan request, with Mochiko proposing the night work) (principal; mapping corrected at reconciliation, reviewer C-14) | F01 interpretive note | i0026–i0027 vs accepted V04 E050–E058 | NEW; INF MOD (structural echo; weaker than C061) |
+| FXK-V05-C006 | Mochiko's 2012 purpose toward Kurumi: a "sample" whose failure she would watch "真横で" as fuel for her own winning (principal) | F02 | i0048 | NEW; SELF_REPORT HIGH; persistence to 2014 OPEN (no present-day private thought about Kurumi) |
+| FXK-V05-C007 | Capital origin (stocks after "年末の選挙"; FX from 2013 on 円安) and a private admission of luck ("たまたまタイミング") (principal) | F02 | i0050 (crop) | NEW; SR HIGH; amount unprinted |
+| FXK-V05-C008 | First meeting with Mebuki (April 2014): contempt behind assent; acceptance with Kurumi's 2012 words and a downward ちゃん (principal) | F02 | i0051–i0052 | NEW; OBS/SR HIGH |
+| FXK-V05-C009 | Mochiko's present private evaluation: respect for Yasuko, resentment of Mebuki ("全部持ってるのに"), 自己責任 (principal) | F03 | i0053 | NEW; SR HIGH |
+| FXK-V05-C010 | The salon: sexualized pressure, humiliation, tears; no coercion shown; "キモいおっさん触って稼がなあかん" (principal) | F03-2, F03-7 | i0057–i0059, i0092 | NEW; OBS HIGH; sexual intent INF HIGH |
+| FXK-V05-C011 | Mebuki's account in mid-November: 2,600,000; 20枚 @112.102; −905,600 at 116.630; loan 6,000円/day (principal) | V04-U05; EN-7 | i0060 (crop); CALC exact | NEW; OBS HIGH + CALC; resolves V04-U05 in part |
+| FXK-V05-C012 | The 救い玉 scheme: rescues of 10, 10 and 25 lots; two banked with one old lot cut each; the third never in profit; tiles exact (principal) | F04 | i0064–i0068, i0081, i0085–i0087, i0091 (crops) | NEW; OBS HIGH + CALC; "救い玉1枚" vs tile recorded |
+| FXK-V05-C013 | The narrator's verdicts: "とどのつまりただのポジション"; "やめることはできない"; objective calm (116.9–117.0) vs subjective war (principal) | F05 | i0089–i0090, i0094–i0096 | NEW; NARRATOR_PRESENTATION HIGH |
+| FXK-V05-C014 | Mebuki admits error, names the remedy, makes the cut conditional on a dip, resigns ("どうせ私は養分で〜す") and withholds her wages from the account (principal) | F05, F06 | i0091, i0100–i0102 | NEW; SR HIGH; EVAL (inability to realize, not refusal to reconsider) |
+| FXK-V05-C015 | Mebuki's 43-lot short after 19 November is not shown; CALC equity ≈269,640 at 120.05 and zero at ≈120.677 if unchanged; no margin rule printed (principal) | F05–F08 | no figure after i0091 | NEW; UNRESOLVED (V05-U01) |
+| FXK-V05-C016 | Kurumi's 17 November: regret of restraint, near-close at +10,695,600, "全然足りてない", "はした金", "欲張ってなにが悪い" (principal) | F04 basis | i0070–i0076 (crops i0070, i0073) | NEW; SR HIGH |
+| FXK-V05-C017 | Kurumi's bracket: stop 115.4, limit 120.05, both gains (principal) | F04-5–F04-7 | i0077–i0080 | NEW; OBS HIGH (speech + diagram) |
+| FXK-V05-C018 | Kurumi realizes +17,602,200 at 120.05 while away from the screen; balance 21,213,915 (principal) | F04-5, F05-6, V04-MX-5 | i0151–i0152 (crop); CALC exact | NEW; OBS HIGH + CALC |
+| FXK-V05-C019 | Kurumi calls the win luck and extends timing to her mother's ruin ("お母さんだってやる時期がよかったら…", "悔しいな") (principal) | MAIN_EXIT | i0153 | NEW; SR HIGH; mechanism a labelled candidate |
+| FXK-V05-C020 | The "億の世界" temptation ("2000万円ぽっちで", "億の世界にだって——!") checked by the memory of her father's slap and "ダメダメ!"; retirement conditional on the target; "灰色の人生" (principal; revised at reconciliation, C-01) | MAIN_EXIT | i0154–i0155 (crops of i0154) | NEW; SR HIGH; inset INF HIGH |
+| FXK-V05-C021 | The reversal: 300枚 short @119.631; limit 118.6 sized to the remaining target; no stop shown; PC off; "これで私の戦いはおしまい"; "私やったよ" (principal) | MAIN_EXIT | i0156–i0159 (i0158 crop [0,0,756,806]) | NEW; OBS HIGH + SR; sizing CALC, INF MOD-HIGH |
+| FXK-V05-C022 | The ending: the shells memory ("ぜんぶ", "もうちょっとだけ"), the reversal candle (≈119.45 → ≈119.74), the spilled bucket (principal) | MAIN_EXIT | i0160–i0162 (i0162 crop) | NEW; OBS HIGH; chart values LOW (schematic; i0165 paratext) |
+| FXK-V05-C023 | Yasuko's コミチア: 1000 printed, 372 sold, goods sold out; a bounded "全力投資" as a counter-model to leveraged trading (principal) | F06-4 (exposure-sensitive) | i0105–i0111, i0126 | NEW; OBS/SR HIGH; profit unknown |
+| FXK-V05-C024 | Knowledge map at V05's end (reading §I): Mebuki knows Mochiko is long and calls shorts "アホ"; Kurumi knows the long and the lie, not the loan or the salon; Yasuko knows the long and that interest exists, not the rate or the family security; Mochiko does not know Mebuki overheard; no one knows Kurumi's 300-lot short (principal) | — | i0130–i0131, i0144–i0146, i0158 | NEW; OBS HIGH |
+| FXK-V05-C025 | Yasuko's あふぃちゃん past outed by a fan in front of Mochiko and a queue; Mochiko's protection (principal) | EN-12 | i0110 | NEW; OBS HIGH |
+| FXK-V05-C026 | The editors: flattery without content (カラーズ), vanity (おんたま); 毒島☆寿美's harsh, specific, constructive critique and encouragement; the cabaret card (principal) | — | i0114–i0124 (i0124 crop), i0140 | NEW; OBS HIGH |
+| FXK-V05-C027 | The loan described as a hedge of Mochiko's long; interest disclosed; the long disclosed to Yasuko; 自己責任 rehearsed in thought and spoken; kindness refused; Mebuki's family pointed to (principal) | V04-MX-2; F03-4, F04-9, F06-3, F07-4 | i0129–i0133 | NEW; SR/OBS HIGH |
+| FXK-V05-C028 | Yasuko concedes 自己責任 and moves her claim to friendship and disclosure; "友達いなかったんじゃねーの?" lands; Mochiko unmasks ("いらないんだよ… 友達とかなれあいとか") (principal) | F07-3, F07-9 | i0133–i0137 | NEW; OBS HIGH |
+| FXK-V05-C029 | The suicide scenario named and dismissed ("あの子にそんな勇気は——"); restraint promised for principal recovery; "全然よくないわ" (principal) | EN-11 | i0138–i0139 | NEW; OBS HIGH; EVAL (recognition plus dismissal; no enjoyment shown) |
+| FXK-V05-C030 | The shared-short lie collapses in Mebuki's hearing via Yasuko → Kurumi; Mochiko's "アホしかいない" said knowingly of the position, unknowingly of the listener; Mebuki's collapse; repayment undelivered (principal) | V04-MX-7 | i0144–i0146 | NEW; OBS HIGH |
+| FXK-V05-C031 | Chronology and printed anomalies ("2014年10月下旬", "救い玉1枚", "112,102円", "建玉全決算", "Seitch", "ちょくっと"); "第5集 糸" (U-05 advanced) (principal) | U-05 | i0003, i0067, i0073, i0085, i0136, i0141, i0156 | NEW; OBS HIGH (inconsistencies kept as printed; the university-year item removed at reconciliation, reviewer C-02) |
+| FXK-V05-C032 | Apparatus: the bonus strip's method statements (charts altered short-term; P/L excludes swap) used for method only; the blurb's "いじわる(?)" not adopted; the under-jacket "BL課長" note excluded from story evidence (principal) | Post-MAIN_EXIT | i0165, i0166, i0168 | NEW; OBS (paratext) |
+| FXK-V05-C033 | Parallel structure: the same-day 117 slogans ("これ以上欲張らん" / "欲張ってなにが悪い"); luck attributions (Mochiko i0050, Kurumi i0153); "引退" (Mebuki i0061, Kurumi i0155); Kurumi ends short on Mebuki's side (principal) | — | i0065, i0076, i0050, i0153, i0061, i0155, i0158 | NEW; EVAL HIGH on OBS |
+| FXK-V05-C034 | Transition of FXK-V04-C001 (V04 governing thesis) | Accepted V04 reading §D.1 | Labour and debt service (i0057–i0059, i0060, i0092, i0144); the lender's motive stated as a hedge (i0130–i0131); Kurumi's bracketed exit rewarded (i0152) | STRENGTHEN, with refinement; V05 reading §M.6, C001 |
+| FXK-V05-C035 | Transition of FXK-V04-C008 (Kurumi's disclosure shapes Yasuko's fear and Mochiko's label) | Accepted V04 reading | Yasuko cites it (i0138); Mochiko uses it to dismiss Mebuki's risk (i0138) | STRENGTHEN |
+| FXK-V05-C036 | Transition of FXK-V04-C009 (concealment while long; 自己責任) | Accepted V04 reading | 自己責任 in thought and speech (i0053, i0132–i0133); the loan disclosed only when confronted (i0129) | STRENGTHEN |
+| FXK-V05-C037 | Transition of FXK-V04-C010 (the 109.5% loan; motive unstated) | Accepted V04 reading | Motive self-reported: a hedge of her long (i0130–i0131); restraint for principal recovery (i0139) | REVISE (extend) |
+| FXK-V05-C038 | Transition of FXK-V04-C012 (the short open at V04's end, INF MOD-HIGH) | Accepted V04 reading | "平均売値 112.102円 20枚" at 2,600,000 (i0060 crop) | STRENGTHEN → OBSERVATION HIGH |
+| FXK-V05-C039 | Transition of FXK-V04-C013 ("ある意味運が悪かったのかもね…" as foresight) | Accepted V04 reading | The rescued short reaches −1,002,120 (i0091) | STRENGTHEN |
+| FXK-V05-C040 | Transition of FXK-V04-C014 (Yasuko's search; meeting arranged) | Accepted V04 reading | The meeting held (i0103–i0140) | STRENGTHEN (resolved) |
+| FXK-V05-C041 | Transition of FXK-V04-C015 (two meanings of responsibility) | Accepted V04 reading | Yasuko also accepts Mebuki's 自己責任 (i0133); the contrast moves to whether responsibility ends care (Mochiko) or coexists with it (Yasuko, i0134–i0139) | REVISE |
+| FXK-V05-C042 | Transition of FXK-V04-C016 (Kurumi's 180枚; +7,812,000 open) | Accepted V04 reading | All realized at 120.05, +17,602,200 (i0152) | STRENGTHEN (resolved) |
+| FXK-V05-C043 | Transition of FXK-V04-C018 (あふぃちゃん unspoken among the characters) | Accepted V04 reading | Spoken by a fan in front of Mochiko (i0110) | REVISE |
+| FXK-V05-C044 | Transition of FXK-V04-C023 (Mebuki's reconsideration voiced and overridden) | Accepted V04 reading | Error admitted; remedy named and made conditional (i0091); resignation (i0101–i0102) | STRENGTHEN, with refinement |
+| FXK-V05-C045 | Transition of FXK-V04-C024 (knowledge map at V04's end) | Accepted V04 reading | Superseded for V05 by FXK-V05-C024 | REVISE (superseded) |
+| FXK-V05-C046 | Transition of FXK-V04-C025 (Kurumi's ordinary life; year UNRESOLVED) | Accepted V04 reading | Quits her job (i0083); the 2012 intake (i0042–i0044) agrees with the V01 captions (second-year in February 2014, third-year from April 2014) | REVISE (year RESOLVED; V04-U03) |
+| FXK-V05-C047 | Transition of FXK-V04-C026 (Mochiko's ordinary preferences and small kindnesses) | Accepted V04 reading | Cat, sweets, costume, bento; help and protection for Yasuko (i0104–i0126) | STRENGTHEN |
+| FXK-V05-C048 | Transition of FXK-V04-C027 (Mebuki's code-switching) | Accepted V04 reading | Kansai inner throughout, polite outward (i0054–i0102, i0143–i0144) | STRENGTHEN |
+| FXK-V05-C049 | Transition of FXK-V03-C001 (Mebuki's harm self-authored, socially aggravated) | Accepted V03 reading | Self-authored escalation alone (i0062–i0102); aggravation by the hidden long and the overheard contempt (i0145) | STRENGTHEN |
+| FXK-V05-C050 | Transition of FXK-V03-C005 (inability to realize a loss) | Accepted V03 reading | The conditional cut (i0091) | STRENGTHEN |
+| FXK-V05-C051 | Transition of FXK-V03-C007 (the position lie; the canary; exploitation of a known vulnerability) | Accepted V03 reading | The lie repeated to Kurumi and exposed (i0144–i0145); the canary logic stated as a hedge (i0130–i0131) | STRENGTHEN |
+| FXK-V05-C052 | Transition of FXK-V03-C008 (Mochiko's private relish and contempt) | Accepted V03 reading | V05's private register is contempt, resentment and self-justification; relish absent; its origin in the partner's "面白いもの" (i0027) | REVISE |
+| FXK-V05-C053 | Transition of FXK-V03-C011 (Kurumi opposite Mebuki in position) | Accepted V03 reading (revised in V04) | At V05's end Kurumi is short, on Mebuki's side, unknowing (i0158) | REVISE |
+| FXK-V05-C054 | Transition of FXK-V03-C012 (Kurumi escalates in words and size; curse unpaid) | Accepted V03 reading | "はした金" (i0076); 300 lots, her V01 stake (i0158); "億の世界" a temptation checked on the page (i0154–i0155); the new trade sized to the original target | STRENGTHEN in size; QUALIFIED in words (revised at reconciliation, C-01) |
+| FXK-V05-C055 | Transition of FXK-V02-C001 (the lucky win as "呪い") | Accepted V02 reading | The win realized and called luck (i0152–i0153), then a V01-sized bet within hours (i0158) | STRENGTHEN, with refinement |
+| FXK-V05-C056 | Transition of FXK-V02-C002 (chosen return vindicated by outcomes) | Accepted V02 reading | Realized for the 180枚 (i0152); the new short ends against her on the page (i0162) | STRENGTHEN for the 180枚; OPEN for the short |
+| FXK-V05-C057 | Transition of FXK-V02-C009 (あふぃちゃん = Yasuko) | Accepted V02 reading | A fan's photo match; no denial (i0110) | STRENGTHEN |
+| FXK-V05-C058 | Transition of FXK-V01-C005 (Mochiko's motive) | Accepted V01 reading | Stated motives: failure-observation toward Kurumi (i0048); hedge and principal recovery toward Mebuki (i0130–i0131, i0139) | REVISE (extend) |
+| FXK-V05-C059 | Transition of FXK-V01-C006 (no conflict of interest shown) | Accepted V01 reading (extended in V04) | Counterparty, creditor and adviser at once, self-described to Yasuko (i0130–i0131) | REVISE (extend) |
+| FXK-V05-C060 | Transition of FXK-V01-C011 (the outcome rewards the worst process) | Accepted V01 reading | V05 rewards a bracketed exit (i0152) and punishes escalation (i0091); the ending sets a new test (i0158–i0162) | REVISE |
+| FXK-V05-C061 | Verbal bridges between 第21話 and the present: "施し" (i0027 → i0053); friends (i0007 → i0027 → i0136 → i0137); the hamburger reward (i0007, i0026) (principal, from reviewer C-07 and Agents B and D) | Reconciliation; principal's page record | E061 | NEW; OBS HIGH for the words; INF MOD-HIGH as designed echoes; Mochiko's awareness UNRESOLVED |
+| FXK-V05-C062 | The i0154 memory inset is Kurumi's father slapping her (the V02 slap); it checks the "億の世界" temptation (principal, from reviewer C-03 and Agent D) | Reconciliation; crop i0154 [499,1286,1012,1785]; accepted V02 E008 (V02 i0030) | E055; the draft's "holding hands" reading withdrawn | NEW; INF HIGH |
+| FXK-V05-C063 | Kurumi's target is not reached at 21,213,915 by her own after-tax reckoning ("あと300万円だけ"); the gap reconciles with accepted V03 figures, 25,000,000 − (21,213,915 + 1,000,000) = 2,786,085; the 118.6 take-profit (+3,093,000) would close it (principal, from reviewer C-01 and C-06 and Agent B) | Reconciliation; crop i0153 [860,0,1350,460]; V03 i0054, i0124; V04 i0006 | E054, E057; the draft's 4.2M calculation withdrawn | NEW; SR HIGH + CALC; INF MOD-HIGH (tax rate unprinted) |
+| FXK-V05-C064 | University year: the 2012 intake agrees with the V01 captions for Kurumi (大学二年生, 14 February 2014) and Mochiko (大学三年生, May 2014); Kurumi 21 by November 2014 (principal, from reviewer C-02) | Reconciliation; V05 i0042; V01 i0008, i0040, i0058 | E011; resolves V04-U03 and the year offset V01 left open | NEW; CALC on accepted captions; INF HIGH |
+| FXK-V05-F001 | V05-EN-1 First chapter label 第21話 (principal; HIGH) | Entering state, 22:54 | i0005 | CONFIRMED |
+| FXK-V05-F002 | V05-EN-2 Five chapters 第21–25話; colophon five issues (principal; MOD) | Entering state | Labels i0005, i0057, i0083, i0105, i0141; "2023年3月号〜5月号、7月号・8月号" (i0170) | CONFIRMED |
+| FXK-V05-F003 | V05-EN-3 A "第5集" strip in the colour opening (principal; MOD) | Entering state | "第5集 糸" (i0003) | CONFIRMED |
+| FXK-V05-F004 | V05-EN-4 Separator pages between chapters in the main run (principal; LOW-MOD) | Entering state | i0055–i0056 only (between 第21話 and 第22話) | CONFIRMED, qualified (once) |
+| FXK-V05-F005 | V05-EN-5 First dated present-time caption 6–30 Nov 2014 (principal; MOD) | Entering state | "11月17日 月曜日——" (i0062); "現在——" undated (i0053) | CONFIRMED |
+| FXK-V05-F006 | V05-EN-6 Depicted time reaches December 2014 (principal; LOW-MOD) | Entering state | "12月2日 火曜日" (i0141) | CONFIRMED |
+| FXK-V05-F007 | V05-EN-7 A new printed Mebuki account figure (principal; MOD-HIGH) | Entering state | i0060, i0068, i0085, i0091 | CONFIRMED |
+| FXK-V05-F008 | V05-EN-8 Mebuki shown at work in the salon (principal; MOD) | Entering state | i0057–i0059 | CONFIRMED |
+| FXK-V05-F009 | V05-EN-9 A payment to Mochiko shown, or a paid/owed amount printed as an event beyond V04's projections (principal; LOW-MOD) | Entering state | Undelivered repayment envelope, amount unprinted (i0144–i0146); daily 6,000円 restates V04 terms (i0060) | DISCONFIRMED as worded; qualified |
+| FXK-V05-F010 | V05-EN-10 Kurumi and Mebuki speak directly (principal; MOD) | Entering state | Mebuki hides from Kurumi (i0143) | DISCONFIRMED |
+| FXK-V05-F011 | V05-EN-11 Mochiko's private concern, regret or discomfort about Mebuki (principal; LOW; counter-direction test) | Entering state | Resentment (i0053), self-justification (i0132), displeasure at her own disclosure (i0139) | DISCONFIRMED (MOD) |
+| FXK-V05-F012 | V05-EN-12 Yasuko's あふぃちゃん past disclosed to another on the page (principal; LOW) | Entering state | A fan, in Mochiko's presence and before the queue (i0110); Mochiko's uptake not shown | CONFIRMED (MOD) |
+| FXK-V05-F013 | V05-EN-13 Kurumi's mother in a flashback panel or memory image (principal; MOD) | Entering state | Beach memory (i0160–i0161); photograph (i0154, i0159) | CONFIRMED |
+| FXK-V05-F014 | V05-EN-14 A new character introduced with a name caption (principal; LOW-MOD) | Entering state | 毒島☆寿美 named on a diegetic card (i0124), not a caption | DISCONFIRMED as worded; qualified |
+| FXK-V05-F015 | V05-EN-15 The contest mentioned again (principal; LOW-MOD) | Entering state | No reference | DISCONFIRMED |
+| FXK-V05-F016 | V04-MX-1 (linked FXK-V04-F082) Yasuko confronts Mochiko about the loan within V05's first two chapters (V04 principal; HIGH) | V04 MAIN_EXIT | The confrontation comes in 第24話 (i0127–i0139) | DISCONFIRMED on timing (substance occurred) |
+| FXK-V05-F017 | V04-MX-2 (linked FXK-V04-F083) Mochiko defends the loan in self-responsibility terms, not apology (V04 principal; MOD-HIGH) | V04 MAIN_EXIT | "全部自分の責任だろうが!" (thought), "甘えたけりゃ…", "私と芽吹ちゃんの問題" (i0132–i0133) | CONFIRMED |
+| FXK-V05-F018 | V04-MX-3 (linked FXK-V04-F084) Kurumi learns of the loan or the salon (V04 principal; MOD) | V04 MAIN_EXIT | She learns only that Mochiko is long (i0144–i0145) | DISCONFIRMED |
+| FXK-V05-F019 | V04-MX-4 (linked FXK-V04-F085) Mebuki liquidated, or a printed loss >1,000,000 on the short (V04 principal; MOD; EXPOSURE-SENSITIVE) | V04 MAIN_EXIT | Printed open loss −1,002,120 (i0091); no liquidation shown | CONFIRMED on the printed open loss; excluded from calibration |
+| FXK-V05-F020 | V04-MX-5 (linked FXK-V04-F086) Kurumi realizes part of the 180枚 at a printed gain (V04 principal; MOD) | V04 MAIN_EXIT | All 180枚, +17,602,200, 21,213,915 (i0152) | CONFIRMED |
+| FXK-V05-F021 | V04-MX-6 (linked FXK-V04-F087) Mebuki's family learns (V04 principal; LOW-MOD) | V04 MAIN_EXIT | No family member learns | DISCONFIRMED |
+| FXK-V05-F022 | V04-MX-7 (linked FXK-V04-F088) The shared-short lie exposed to Mebuki (V04 principal; LOW-MOD) | V04 MAIN_EXIT | Mebuki overhears: "え?" (i0145 P2); the envelope falls; she sits on the floor (i0146) | CONFIRMED |
+| FXK-V05-F023 | V04-MX-8 (linked FXK-V04-F089) Kurumi's father's lateness developed (explanation or a scene with him) (V04 principal; LOW-MOD) | V04 MAIN_EXIT | A present-time scene with him: the transfer (i0069); the lateness is never mentioned again in V05 | DISCONFIRMED (literal; V05 amendment): the forecast's own disconfirming condition, "no further mention of the father's lateness", is met. Relaxed: CONFIRMED (event-only), a scene with him. Predictive credit unchanged (frozen in V04) |
+| FXK-V05-F024 | V04-MX-9 (linked FXK-V04-F090) The コミチア event day shown (V04 principal; MOD-HIGH) | V04 MAIN_EXIT | i0103 | CONFIRMED |
+| FXK-V05-F025 | F01-1 Mochiko's first contact with FX shown in the flashback before the return to 2014 (principal; MOD-HIGH) | F01, 23:04 (precautionary, after i0040) | "FX—— 外国為替 証拠金取引…!" (i0047); "去年始めたFX" with an FX chart (i0050); no first-trade screen | CONFIRMED, qualified |
+| FXK-V05-F026 | F01-2 She does not move back to her mother's flat after the funeral (principal; MOD-HIGH) | F01 | Rebuttal (i0041); never shown with her mother again | CONFIRMED (MOD) |
+| FXK-V05-F027 | F01-3 Money from the grandmother funds her (principal; LOW-MOD) | F01 | Not mentioned | DISCONFIRMED |
+| FXK-V05-F028 | F01-4 Capital origin explained by a printed flashback balance or deposit (principal; MOD) | F01 | Self-report without a figure (i0050) | DISCONFIRMED |
+| FXK-V05-F029 | F01-5 The bespectacled man reappears in the flashback (principal; LOW-MOD) | F01 | No reappearance in the main narrative (paratext i0168 excluded) | DISCONFIRMED |
+| FXK-V05-F030 | F01-6 Mochiko's first meeting with Kurumi shown (principal; MOD) | F01 | i0044 | CONFIRMED |
+| FXK-V05-F031 | F01-7 Return to the November 2014 present before the end of 第21話 (principal; LOW-MOD) | F01 | "現在——" (i0053) | CONFIRMED |
+| FXK-V05-F032 | F01-8 The 2006 kitten explicitly identified with the adult's white cat (principal; LOW-MOD) | F01 | No explicit link (i0053) | DISCONFIRMED |
+| FXK-V05-F033 | F01-9 Mochiko's father mentioned or shown (principal; LOW) | F01 | Never | DISCONFIRMED |
+| FXK-V05-F034 | F02-1 第22話 begins on i0053 (principal; MOD) | F02, 23:10 (precautionary, after i0052) | i0053 continues 第21話; label i0057 | DISCONFIRMED |
+| FXK-V05-F035 | F02-2 The chapter after the flashback opens in November 2014 (principal; MOD) | F02 | 第22話 opens in the present (i0057); "11月17日" (i0062) | CONFIRMED |
+| FXK-V05-F036 | F02-3 Mochiko's private thought calls Mebuki a sample or her failure useful/entertaining (principal; MOD) | F02 | No such private thought; aloud, lending to the losing short is "メリット" (i0130–i0131) | DISCONFIRMED as worded; qualified |
+| FXK-V05-F037 | F02-4 Mochiko's 2014 private thought shows attachment or concern for Kurumi (principal; LOW-MOD) | F02 | No present-day private thought about Kurumi | DISCONFIRMED |
+| FXK-V05-F038 | F02-5 Kurumi's target linked to her mother's loss in Mochiko's hearing (principal; LOW-MOD) | F02 | Linked only in Kurumi's private thought (i0153–i0154) | DISCONFIRMED |
+| FXK-V05-F039 | F02-6 Mochiko and Yasuko's first meeting shown (principal; LOW-MOD) | F02 | Not shown | DISCONFIRMED |
+| FXK-V05-F040 | F02-7 Mochiko's starting FX capital or a pre-V03 balance printed (principal; LOW-MOD) | F02 | Not printed | DISCONFIRMED |
+| FXK-V05-F041 | F02-8 V04-MX-1 disconfirmed (principal; MOD) | F02 | No confrontation in 第21–22話 | CONFIRMED |
+| FXK-V05-F042 | F03-1 "第22話" on i0056 or the next chapter's title page (principal; HIGH) | F03, 23:11 (chapter boundary, before i0056) | Label on the chapter's first page i0057 | CONFIRMED |
+| FXK-V05-F043 | F03-2 Mebuki in the salon with a customer in the next chapter (principal; MOD-HIGH) | F03 | i0057 | CONFIRMED |
+| FXK-V05-F044 | F03-3 Yasuko and Mochiko face to face about Mebuki in the next chapter (principal; MOD) | F03 | Not in 第22話 | DISCONFIRMED |
+| FXK-V05-F045 | F03-4 Mochiko defends herself in 自己責任 terms (whenever in V05) (principal; MOD-HIGH) | F03 | i0132–i0133, i0139 | CONFIRMED |
+| FXK-V05-F046 | F03-5 A printed rate or P/L for Mebuki's short in the next chapter (principal; MOD) | F03 | i0060 | CONFIRMED |
+| FXK-V05-F047 | F03-6 Kurumi absent from the next chapter (principal; LOW-MOD) | F03 | i0069 | DISCONFIRMED |
+| FXK-V05-F048 | F03-7 The salon framed as sexualized or coercive harm, not gag (principal; MOD) | F03 | Sexualized pressure, humiliation, tears; grotesque-comic customer; no coercion (i0057–i0059, i0092) | CONFIRMED, qualified |
+| FXK-V05-F049 | F03-8 A dated present caption in the next chapter (principal; LOW-MOD) | F03 | i0062 | CONFIRMED |
+| FXK-V05-F050 | F04-1 A printed USD/JPY rate above 117.5 in V05 (principal; MOD) | F04, 23:23 (written after i0083; slip disclosed) | "118円台", "119.0" (i0141); axis to 120.1 and "119.954 ASK" (i0150–i0151) | CONFIRMED |
+| FXK-V05-F051 | F04-2 A Mebuki P/L worse than −1,000,000 (principal; MOD) | F04 | The first figures printed for her after the freeze, the i0085 result tile (+11,860) and −934,180 (i0091), are better than −1,000,000; −1,002,120 follows on the same page (i0091) | DISCONFIRMED (literal; V05 amendment): the freeze's own disconfirming condition, "her next printed figure is better than −1,000,000", occurred first. Relaxed: CONFIRMED. Predictive credit unchanged (no deferred image preceded the freeze) |
+| FXK-V05-F052 | F04-3 A third rescue short (principal; MOD) | F04 | 25枚 @116.365 (i0087) | CONFIRMED |
+| FXK-V05-F053 | F04-4 Mebuki liquidated in V05 (principal; LOW-MOD; EXPOSURE-SENSITIVE) | F04 | Not shown | DISCONFIRMED; excluded from calibration |
+| FXK-V05-F054 | F04-5 Kurumi's 120.05 limit shown filled (principal; LOW-MOD) | F04 | 0円 tile and exact balance (i0151–i0152) | CONFIRMED |
+| FXK-V05-F055 | F04-6 Kurumi's 115.4 stop filled (principal; LOW-MOD) | F04 | Not filled | DISCONFIRMED |
+| FXK-V05-F056 | F04-7 Kurumi modifies or cancels a bracket order (principal; MOD) | F04 | No change shown before the fill | DISCONFIRMED |
+| FXK-V05-F057 | F04-8 A Yasuko–Mochiko face-to-face scene in V05 (principal; MOD) | F04 | i0104–i0140 | CONFIRMED |
+| FXK-V05-F058 | F04-9 Mochiko defends the loan in 自己責任 terms (principal; MOD-HIGH) | F04 | i0132–i0133 | CONFIRMED |
+| FXK-V05-F059 | F04-10 Kurumi learns of the loan or the salon (principal; LOW-MOD) | F04 | No | DISCONFIRMED |
+| FXK-V05-F060 | F04-11 Mochiko's present balance or position printed (principal; MOD) | F04 | Self-report only (i0130) | DISCONFIRMED |
+| FXK-V05-F061 | F04-12 The salon recurs with explicit demand or coercion; Mebuki leaves or is pushed further (principal; MOD) | F04 | Only a recalled inset (i0092) | DISCONFIRMED |
+| FXK-V05-F062 | F04-13 Kurumi's mother identified by caption or speech as the i0073 face, or captioned elsewhere (principal; LOW) | F04 | Identified by Kurumi's "お母さん" beside the photograph; memory scene; no caption; i0073 not explicitly identified (i0154, i0159–i0161) | DISCONFIRMED (literal; V05 amendment): neither a caption nor a line identifies the i0073 face, and no caption names her elsewhere. Relaxed: PARTIAL. Predictive credit unchanged |
+| FXK-V05-F063 | F04-14 第24話 begins by i0120 (principal; MOD) | F04 | Label i0105 | CONFIRMED |
+| FXK-V05-F064 | F04-15 Kurumi's job-hunting shown as an activity (principal; LOW; EXPOSURE-SENSITIVE) | F04 | Not shown | DISCONFIRMED; excluded from calibration |
+| FXK-V05-F065 | F05-1 i0102 begins a new chapter (principal; LOW-MOD) | F05, 23:28 (precautionary, after i0101) | i0102 continues 第23話 | DISCONFIRMED |
+| FXK-V05-F066 | F05-2 Mebuki's short closed at a printed realized loss >1,000,000 (principal; MOD) | F05 | No close shown | DISCONFIRMED |
+| FXK-V05-F067 | F05-3 A forced liquidation shown or named for Mebuki (principal; LOW-MOD) | F05 | None | DISCONFIRMED |
+| FXK-V05-F068 | F05-4 Mebuki contacts someone about her loss within the next chapter (principal; MOD) | F05 | Absent from 第24話 except in memory (i0127) | DISCONFIRMED |
+| FXK-V05-F069 | F05-5 Kurumi appears reacting to the year-high break with a printed figure (principal; MOD-HIGH) | F05 | Not shown reacting to the 19 November break (i0098); next printed figures at the 120.05 fill, about two weeks later (i0151–i0152) | DISCONFIRMED (literal; V05 amendment): the occasion it names is not met. Relaxed: CONFIRMED (event-only), a printed Kurumi figure after the break. Predictive credit unchanged |
+| FXK-V05-F070 | F05-6 Kurumi's 120.05 limit fills (principal; LOW-MOD) | F05 | i0152 | CONFIRMED |
+| FXK-V05-F071 | F05-7 Mebuki's next appearance is at the salon (principal; MOD) | F05 | The university café (i0143) | DISCONFIRMED |
+| FXK-V05-F072 | F05-8 Mochiko, when she learns of Mebuki's loss (if shown), expresses no regret (principal; MOD-HIGH) | F05 | Her learning of the loss is not shown; her awareness of Mebuki's losing course is ("FXでボロボロになってるのに", imagined Yasuko; "借りたのも 続けたのも", i0132; i0139); no regret, relief or change of terms | NOT TRIGGERED (literal; V05 amendment): its condition is not shown, so it is left out of the counts. Relaxed: CONFIRMED (MOD) on her shown awareness. Predictive credit unchanged |
+| FXK-V05-F073 | F05-9 "引退" recurs from Mebuki (principal; MOD) | F05 | No (Kurumi uses it, i0155) | DISCONFIRMED |
+| FXK-V05-F074 | F06-1 The companion named 萌智子 within 第24話 (principal; MOD-HIGH; EXPOSURE-SENSITIVE) | F06, 23:30 (written after i0105; slip disclosed) | i0134 | CONFIRMED; excluded from calibration |
+| FXK-V05-F075 | F06-2 Yasuko raises Mebuki or the loan with Mochiko in 第24話 (principal; MOD; EXPOSURE-SENSITIVE) | F06 | i0127–i0133 | CONFIRMED; excluded from calibration |
+| FXK-V05-F076 | F06-3 Mochiko answers in 自己責任 terms and does not alter the loan (principal; MOD-HIGH) | F06 | i0132–i0139 | CONFIRMED |
+| FXK-V05-F077 | F06-4 Fewer than half of 1000 copies sold (principal; MOD; EXPOSURE-SENSITIVE) | F06 | "合計372冊" (i0126) | CONFIRMED; excluded from calibration |
+| FXK-V05-F078 | F06-5 Mebuki in 第24話 with a new printed figure (principal; MOD) | F06 | None | DISCONFIRMED |
+| FXK-V05-F079 | F06-6 Kurumi's position status after the year-high shown (principal; MOD-HIGH) | F06 | i0143, i0151–i0152 | CONFIRMED |
+| FXK-V05-F080 | F06-7 Mebuki's short ends at a printed realized loss >1,000,000 (principal; MOD) | F06 | Not shown | DISCONFIRMED |
+| FXK-V05-F081 | F06-8 Kurumi visits or is mentioned at コミチア111 (principal; LOW) | F06 | Mentioned at the dinner after the event (i0138, i0140), not at it | DISCONFIRMED as worded; qualified |
+| FXK-V05-F082 | F07-1 i0129 opens a new chapter (principal; LOW-MOD) | F07, 23:39 (precautionary, after i0128) | i0129–i0140 continue 第24話 | DISCONFIRMED |
+| FXK-V05-F083 | F07-2 The dinner shown and the companion named 萌智子 during it (principal; MOD-HIGH) | F07 | i0129, i0134 | CONFIRMED |
+| FXK-V05-F084 | F07-3 Yasuko asks Mochiko to stop, relax or forgive the loan or stop lending (principal; MOD) | F07 | She concedes 自己責任; views as personal opinion (i0133–i0134) | DISCONFIRMED |
+| FXK-V05-F085 | F07-4 Mochiko answers in 自己責任 terms and does not change the loan (principal; MOD-HIGH) | F07 | i0132–i0133, i0139 | CONFIRMED |
+| FXK-V05-F086 | F07-5 Yasuko learns a concealed fact (rate, salon, or Mochiko's long) (principal; LOW-MOD) | F07 | The long and that interest exists (i0130–i0131); rate not stated | CONFIRMED |
+| FXK-V05-F087 | F07-6 The relationship visibly strained by the end (anger, walk-out, cold parting) (principal; MOD) | F07 | Agreement on 自己責任 (i0133); anger and a warning, then Yasuko ends amicably ("まぁ萌智子のこと少しは知れてよかったよ"); Mochiko displeased only in thought (i0139), later resentful (i0145) | DISCONFIRMED (literal; V05 amendment): the freeze's own disconfirming condition, "amicable ending with agreement", is met. Relaxed: PARTIAL. Predictive credit unchanged |
+| FXK-V05-F088 | F07-7 Mebuki reappears after i0128 with a new printed account figure (principal; MOD) | F07 | No figure | DISCONFIRMED |
+| FXK-V05-F089 | F07-8 Kurumi's position status after the year-high shown (principal; MOD) | F07 | i0143, i0151–i0152 | CONFIRMED |
+| FXK-V05-F090 | F07-9 Yasuko blunt and plain; the companion soft and polite at least at the start (principal; MOD-HIGH) | F07 | i0128–i0137 | CONFIRMED |
+| FXK-V05-F091 | F08-1 "第25話" on i0141 or within two pages (principal; HIGH) | F08, 23:43 (chapter boundary, before i0141) | i0141 | CONFIRMED |
+| FXK-V05-F092 | F08-2 第25話 foregrounds Kurumi (principal; MOD) | F08 | i0143–i0162 | CONFIRMED |
+| FXK-V05-F093 | F08-3 Kurumi's position status after 18 November shown (principal; MOD) | F08 | i0143, i0151–i0152 | CONFIRMED |
+| FXK-V05-F094 | F08-4 Kurumi still holds part of the 180枚 at V05's end (principal; LOW-MOD) | F08 | All closed (i0152); a new short (i0158) | DISCONFIRMED |
+| FXK-V05-F095 | F08-5 Mebuki after i0140 with a new printed figure (principal; MOD) | F08 | None | DISCONFIRMED |
+| FXK-V05-F096 | F08-6 Mebuki's short closed or liquidated at a realized loss >1,000,000 (principal; LOW-MOD) | F08 | Not shown | DISCONFIRMED |
+| FXK-V05-F097 | F08-7 Mochiko states Kurumi's "2000万円" motive to Yasuko (principal; LOW-MOD) | F08 | The question goes unanswered (i0140) | DISCONFIRMED |
+| FXK-V05-F098 | F08-8 The 毒島 / コミックプラッパー thread referenced after i0140 (principal; LOW) | F08 | None | DISCONFIRMED |
+| FXK-V05-F099 | F08-9 V05 ends on an unresolved financial cliffhanger (principal; MOD) | F08 | i0158–i0162 | CONFIRMED |
+| FXK-V05-F100 | F08-10 A dated caption later than 23 November (principal; MOD) | F08 | "12月2日 火曜日" (i0141) | CONFIRMED |
+| FXK-V05-F101 | V05-MX-1 V06's first chapter shows Kurumi's 300-lot short with a printed unrealized loss (principal; MOD-HIGH; EXPOSURE-SENSITIVE) | MAIN_EXIT, 23:51:45 | — | OPEN (V06) |
+| FXK-V05-F102 | V05-MX-2 The 118.6 take-profit not filled before Kurumi's next decision on the short (principal; MOD; EXPOSURE-SENSITIVE) | MAIN_EXIT | — | OPEN (V06) |
+| FXK-V05-F103 | V05-MX-3 Kurumi's printed balance or equity below 20,000,000 at some point in V06 (principal; MOD; EXPOSURE-SENSITIVE) | MAIN_EXIT | — | OPEN (V06) |
+| FXK-V05-F104 | V05-MX-4 Kurumi adds to the short or holds through a printed loss >1,000,000 rather than cutting early (principal; LOW-MOD; EXPOSURE-SENSITIVE) | MAIN_EXIT | — | OPEN (V06) |
+| FXK-V05-F105 | V05-MX-5 Mebuki speaks to Mochiko or Yasuko about the exposed lie or the "アホ" remark (principal; MOD) | MAIN_EXIT | — | OPEN (V06) |
+| FXK-V05-F106 | V05-MX-6 Mebuki's 43-lot short shown closed or liquidated with a printed realized loss (principal; MOD; EXPOSURE-SENSITIVE) | MAIN_EXIT | — | OPEN (V06) |
+| FXK-V05-F107 | V05-MX-7 Kurumi learns of the Mochiko–Mebuki loan (principal; LOW-MOD) | MAIN_EXIT | — | OPEN (V06) |
+| FXK-V05-F108 | V05-MX-8 Kurumi's father's transfer (年明け) takes effect on the page, Kurumi living alone (principal; MOD) | MAIN_EXIT | — | OPEN (V06) |
+| FXK-V05-F109 | V05-MX-9 A Mochiko account figure (balance or P/L) printed (principal; MOD) | MAIN_EXIT | — | OPEN (V06) |
+| FXK-V05-F110 | V05-MX-10 Yasuko contacts コミックプラッパー / 毒島 again (principal; LOW-MOD) | MAIN_EXIT | — | OPEN (V06) |
+| FXK-V05-F111 | B-F01-1 第22話 returns to the present early; a principal's position or balance shown on a screen in 第22話 (Agent B; MOD) | Agent B F01 (23:04:17, after the separator i0055, before i0056) | i0057; i0060 tile | CONFIRMED; independent prospect |
+| FXK-V05-F112 | B-F01-2 Mochiko's present decisions framed by self-responsibility, concealment and cut-loss; the loan defended in those terms to Yasuko (Agent B; MOD) | Agent B F01 (23:04:17, after the separator i0055, before i0056) | i0130–i0133, i0139, i0145 | CONFIRMED; independent prospect |
+| FXK-V05-F113 | B-F01-3 Mochiko's 2012 "watch her fail" motive becomes known to another character in V05 (Agent B; LOW-MOD) | Agent B F01 (23:04:17, after the separator i0055, before i0056) | not disclosed through i0171 | DISCONFIRMED; independent prospect |
+| FXK-V05-F114 | B-F01-4 Mebuki's salon work continues as her income (MOD); her family or Kurumi learn of it (LOW) (Agent B) | Agent B F01 (23:04:17, after the separator i0055, before i0056) | i0054–i0059, i0092, i0102; no one learns | First part CONFIRMED; second part DISCONFIRMED; independent prospect |
+| FXK-V05-F115 | B-F01-5 No total of Mochiko's capital printed in V05 (Agent B; MOD) | Agent B F01 (23:04:17, after the separator i0055, before i0056) | no Mochiko balance in V05 | CONFIRMED; independent prospect |
+| FXK-V05-F116 | B-F01-6 "日銀砲" foreshadows a depicted intervention affecting a position (Agent B; LOW; EXPOSURE-SENSITIVE) | Agent B F01 (23:04:17, after the separator i0055, before i0056) | none depicted | DISCONFIRMED; independent prospect; excluded from calibration |
+| FXK-V05-F117 | B-F02-1 Mochiko's answer to "なんでくるみは…FXなんてやってるんだ?" partial; no disclosure of her 2012 motive to Yasuko (Agent B; MOD) | Agent B F02 (23:27:15, stated after i0140 and before i0141; timing caveat in the V05 checkpoint) | no answer shown (i0140–i0141); non-disclosure holds | UNTESTED as to the answer; non-disclosure CONFIRMED; independent prospect |
+| FXK-V05-F118 | B-F02-2 Mebuki learns in V05 that Mochiko is long (Agent B; LOW-MOD) | Agent B F02 (23:27:15, stated after i0140 and before i0141; timing caveat in the V05 checkpoint) | overheard (i0144–i0146) | CONFIRMED; independent prospect |
+| FXK-V05-F119 | B-F02-3 Mebuki's account shown again, below 2,600,000 or force-closed (Agent B; MOD; EXPOSURE-SENSITIVE) | Agent B F02 (23:27:15, stated after i0140 and before i0141; timing caveat in the V05 checkpoint) | no display after 19 November | DISCONFIRMED; independent prospect; excluded from calibration |
+| FXK-V05-F120 | B-F02-4 Kurumi's bracket referred to again; which leg fills not forecast (Agent B; MOD; EXPOSURE-SENSITIVE) | Agent B F02 (23:27:15, stated after i0140 and before i0141; timing caveat in the V05 checkpoint) | the take-profit leg filled (i0150–i0152) | CONFIRMED; independent prospect; excluded from calibration (the record cannot exclude that i0141 was seen before the freeze was saved) |
+| FXK-V05-F121 | B-F02-5 Yasuko's manga route followed up after i0140 (Agent B; LOW-MOD) | Agent B F02 (23:27:15, stated after i0140 and before i0141; timing caveat in the V05 checkpoint) | no Yasuko scene after i0140 | DISCONFIRMED; independent prospect |
+| FXK-V05-F122 | B-F02-6 No figure for the コミチア revenue or profit printed in V05 (Agent B; MOD) | Agent B F02 (23:27:15, stated after i0140 and before i0141; timing caveat in the V05 checkpoint) | none printed | CONFIRMED; independent prospect |
 
 For prospects preserve predictions, confidence, disconfirming signals and actual exposure before resolution. Attribute independent tests separately. For revisions use `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT` or `OPEN`. Keep the historical argument and use a new linked entry for a material change.
 
 ## Person-level qualification
 
-Subjects assessed through V04 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01 and FXK-JP-V04-W01) are listed after this paragraph. Record each eligible person, source and horizon, distinct habits, ordinary choices, Japanese speech, cognition under differing conditions, directional ties, counterexamples, evidence sufficiency and reassessment threshold. Link a completed monograph and its separate self-containment and fidelity decisions once accepted.
+Subjects assessed through V05 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, FXK-JP-V04-W01 and FXK-JP-V05-W01) are listed after this paragraph. Record each eligible person, source and horizon, distinct habits, ordinary choices, Japanese speech, cognition under differing conditions, directional ties, counterexamples, evidence sufficiency and reassessment threshold. Link a completed monograph and its separate self-containment and fidelity decisions once accepted.
 
 - **福賀くるみ (Fukuga Kurumi)**: source W01 V01; horizon ages 15 (2008–09) and 20 (Feb–May 2014). Evidence
   sufficiency: HIGH; she is on nearly every main page.
@@ -855,6 +1073,35 @@ Subjects assessed through V04 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01 an
       her own.
     - Reassessment threshold: her first loss or her first realization of the 180枚; learning of Mochiko's loan or lies; her university
       year; any scene with her father.
+  - **V05 update** (FXK-JP-V05-W01; horizon April 2012 (flashback) and 17 November – a night on or after 2 December 2014; 21 by the accepted V01 captions).
+    Evidence sufficiency: HIGH (about 35 pages; decisive acts, thought and figures).
+    - Distinct habits: battle commands for orders ("300枚発射…!", i0158); scenario diagrams to herself (Patterns A/B/C, i0078–i0079);
+      spinning in her chair while deciding (i0079); sings while drying her hair (i0149); talks to her mother's photograph (i0159).
+    - Ordinary choices: in the 2012 新都大学 経済学部 intake (orientation, i0042–i0044); the "Y・H・V・H" tote (i0044); dries dishes
+      in an apron for her father (i0069); soaks dishes before her bath (i0147); strawberry-print pyjamas; the "くるみのへや" door sign
+      (i0070, i0149); quits her part-time job citing 就活 (i0083); pachinko once, "微妙" (i0083, consistent with V02); a duffle coat
+      and university-café coffee (i0143).
+    - Speech: 私; "私 福賀くるみ!", "一緒に頑張ろうね!" (2012); "子供じゃないんだよ〜?", "私のことは気にせず行ってきて♪" to her father;
+      polite to a co-worker ("就活って言ったじゃないですか", "すいません…"); "日和ってなんかいられない…!", "はした金"; "嘘はよくないよ!"
+      to Mochiko; "やす子ちゃん"; "ママ" as a child (memory), "お母さん" now.
+    - Cognition under differing conditions: a large open gain → regret of past prudence (i0070), a near-close stopped by her mother's
+      face, "全然足りてない", greed embraced, then a protective bracket (i0072–i0080); the realized win → euphoria, then luck, then
+      grief and counterfactual ("お母さんだってやる時期がよかったら…", i0153), the "億の世界" temptation checked by the memory of her father's slap (i0154), a
+      retirement vow conditional on the target and emptiness ("灰色の人生", i0155), then a top call and a 300-lot short at her V01 size
+      sized to the remaining target (i0157–i0158); "これで私の戦いは
+      おしまい" with the PC off (i0159).
+    - Directional ties: father (supportive of his transfer; he hesitates, i0069; his remembered slap a brake, i0154); mother (photograph, memory, "私やったよ",
+      i0154–i0161); Mochiko (warm since 2012; calls out her lie, i0144); Yasuko (her information source, i0144); Mebuki (no exchange;
+      Mebuki hides from her, i0143).
+    - Counterexamples: the bracket and the self-check "ダメダメ! …FX引退しなきゃ!" (i0155) against the greed creed and the reversal.
+    - Money: 180枚 long closed at 120.05, +17,602,200, balance 21,213,915 (i0152; CALC exact); new 300枚 short at 119.631, limit
+      118.6 (+3,093,000 if filled, CALC), no stop shown (i0158); "あと300万円だけ" after tax (i0153): the target not yet met;
+      the gap reconciles with accepted V03 figures (INF MOD-HIGH).
+    - Disclosure: none new to others; she learns from Yasuko that Mochiko is long (i0144).
+    - Year: the 2012 intake makes her a second-year at V01's 14 February 2014 caption and a third-year from April 2014 (V04-U03
+      resolved at reconciliation).
+    - Reassessment threshold: the 300-lot short's first figure and any stop; retirement or not; learning of the loan; the father's
+      transfer and his lateness.
 - **小金萌智子 (Kogane Mochiko)**: source W01 V01; horizon May 2014 (i0058–i0162). Evidence sufficiency:
   MODERATE-HIGH (about 30 pages; rich private thought).
   - Distinct habits: watching markets instead of attending class; a cat-ear/flower phone case; coffee from a "珈琲"
@@ -947,6 +1194,40 @@ Subjects assessed through V04 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01 an
       unchanged; stop unmentioned; creditor for 2,000,000 (rate from speech; not on the visible IOU).
     - Reassessment threshold: the meeting with Yasuko and what she says of the loan; any exposure of her lies; Mebuki's liquidation and
       how she responds to it; any stated motive for lending.
+  - **V05 update** (FXK-JP-V05-W01; horizon spring 2006 – April 2014 (flashback) and November – early December 2014). Evidence
+    sufficiency: HIGH (about 70 pages; the first biography in the corpus, private thought and decisive speech).
+    - History and upbringing (new): 12 in spring 2006 (i0005); a night-working mother and a bespectacled man on whose business her work depended
+      (i0006–i0008, i0026–i0027); bullied after rebuffing classmates (i0010–i0015); left school and home at twelve for her paternal
+      grandmother ("義母さん", i0040) with a white kitten (i0017–i0021); 高卒認定 by self-study (2009, i0024); supermarket job (2010,
+      i0030); first stock trade and first cut (October 2010, i0034–i0035); the grandmother's death and the mother's demand for
+      money (i0040); 新都大学 経済学部 tuition-exempt 特待生 (April 2012, i0041–i0042). Father never mentioned.
+    - Distinct habits: loss-cutting at a new low as a rule (i0035, i0049, i0145); speaking candidly to a cat (i0018); reading crowd
+      psychology (i0037); concealment and dominance as rules of contact (i0045).
+    - Ordinary choices: a cat keychain at twelve (i0014); sushi and mochi with her grandmother (i0024, i0038); a laptop bought with
+      wages (i0032); sugar sticks in café coffee (i0045); an elf costume bought for コミチア (i0104); a character bento (i0112); many
+      plates at a 50円 sushi chain while Yasuko pays (i0130–i0132); a glass of beer drained in one go (i0137).
+    - Speech: polite to adults as a child; coarse inner voice from twelve ("猿ども", "アホ猿"); the public assent formula "うん
+      そうだね" born at EAON with "ばーか" under it (i0031); refuses peer ちゃん, gives it downward; soft question forms to Yasuko
+      ("どんなお話かな?") until "いらないんだよ… 友達とかなれあいとか" (i0137); "してねぇよ!", "もう帰れ…" to a fan (i0118);
+      "やす子の野郎…" in thought (i0145).
+    - Cognition under differing conditions: humiliation → self-correction (i0028); bullying → a mask (i0031); a falling stock →
+      a cut without hope (i0035); success → private doubt ("たまたまタイミング", i0050); anticipated criticism → a rehearsed
+      自己責任 (i0132); provocation and alcohol → an outburst (i0137); exposure of her lie → a shrug and private anger (i0145).
+    - Directional ties: Kurumi (a 2012 "sample", i0048; a lie and banter in 2014, i0143–i0145); Mebuki (contempt behind assent,
+      i0051–i0052; resentment, i0053; creditor and self-described hedge, i0130–i0131; the suicide scenario dismissed, i0138;
+      restraint for principal recovery, i0139); Yasuko (private respect, i0053; a day of help and protection, i0108–i0112; resents
+      being known, i0139, i0145); her mother ("あの親", "んなわけねーだろ"); her grandmother (care returned).
+    - Counterexamples: care for her grandmother and the cat; protection and real help for Yasuko (i0110, i0112, i0126); "ライン超え
+      させないよう注意する" (i0139).
+    - Verbal bridges (added at reconciliation): the man's "他人の施し" (i0027) becomes her charge against Mebuki (i0053); "友達" runs
+      from i0007 and i0027 to Yasuko's question (i0136) and her "いらないんだよ…" (i0137) (E061). Counterexample to her doctrine:
+      "おばーちゃんがいる時点で恵まれている" (i0028).
+    - Owner objective C: understands Mebuki's vulnerability (HIGH: names her ruin and the suicide scenario, i0132, i0138); exploits
+      her losing position as a hedge (her own account, i0130–i0131; INF MOD-HIGH as a label); enjoyment not shown in V05; deceives (i0144).
+    - Money: long USD/JPY (self-report, i0130; admitted, i0145); no V05 figure; creditor for 2,000,000 (6,000円/day on Mebuki's tile,
+      i0060).
+    - Reassessment threshold: any private concern for Mebuki; her response once she learns Mebuki overheard; any motive beyond
+      profit; her father; her figures.
 - **あふぃちゃん** (handle; possessions lettered "Yasuko"; that Yasuko is her given name is INFERENCE MODERATE-HIGH,
   capped for owner-brief exposure; no reading given): source W01 V01; horizon one night (i0144–i0152). Evidence
   sufficiency: LOW-MODERATE (9 pages, no contact with others).
@@ -1011,6 +1292,24 @@ Subjects assessed through V04 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01 an
     - Past: the i0046 collage includes あふぃちゃん's V01 trades among her own memories (consistent with V02-C009, OBSERVATION HIGH since
       V02), unspoken among the characters; "そもそも本当に前からFXやっていたし" (i0136).
     - Reassessment threshold: the confrontation with Mochiko; the コミチア sales; her withdrawal; any disclosure of the あふぃちゃん past.
+  - **V05 update** (FXK-JP-V05-W01; horizon 23 November 2014). Evidence sufficiency: HIGH for V05 (about 40 pages).
+    - Distinct habits: SNS promotion (i0105); handmade rabbit goods (i0109); nerves before opening (i0104); immediate re-targeting
+      after rejection (i0116); thanks before confronting (i0127).
+    - Ordinary choices: 1000 copies of 「地球の重力に勝てないウサギ」 against "30部売れたらいいほう" ("全力投資", i0106); 372 sold, goods
+      sold out (i0111, i0126); a character bento (i0112); pays for dinner at a cheap chain (i0128–i0129); beer (i0133–i0136).
+    - Aims: a designer at heart; manga begun two months ago for visibility; 20 pages in about three days; wants to earn money
+      (i0121, i0123).
+    - Speech: あたし; masculine-blunt plain style; desu/masu under evaluation; FX slang for art ("全力投資", "爆死", "爆益"); "萌智子",
+      "お前", "芽吹".
+    - Cognition under differing conditions: success → disbelief and gratitude (i0109, i0127); flattery-then-rejection → anger and a new
+      target (i0116); vanity → a private retort (i0118); harsh critique → honest confession (i0123); confrontation → concedes
+      自己責任, demands reciprocity, presses with drink, warns (i0133–i0139).
+    - Directional ties: Mebuki ("大切な友達", "この世にひとりしかいねー", i0134, i0138); Mochiko (wants friendship, names her
+      concealment, warns, i0134–i0139); Kurumi (puzzled concern, i0140; passed her Mochiko's long, INF HIGH from i0144); 毒島
+      (encouragement, card).
+    - あふぃちゃん: outed by a fan in Mochiko's presence and before the queue; she does not deny it (i0110); Mochiko's uptake is not shown.
+    - Money: 71,052 and no position (V04); withdrawal still not shown; book price and costs unprinted.
+    - Reassessment threshold: contact with コミックプラッパー; consequences of the outing; whether she tells Mebuki or Kurumi more.
 - **Mother (unnamed)**: source W01 V01 (2008–09 and memory). Evidence sufficiency: MODERATE.
   - Ordinary life: homemaker; long work hours to repay; covered meals; drinking during the crisis.
   - Speech: feminine standard; くるみちゃん; しときなさい.
@@ -1024,6 +1323,9 @@ Subjects assessed through V04 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01 an
   - **V04 update** (Kurumi's mother): in the framed photograph in Kurumi's room (i0072); her suicide disclosed by Kurumi to Mochiko
     and Yasuko, with Kurumi's own causal attribution "FXが原因で" (i0054); doubted by Mochiko ("ドラマじゃあるまいし…", i0080). No
     material change to the evidence about her life.
+  - **V05 update**: the face at Kurumi's near-close (i0073; INF MOD-HIGH, uncaptioned); the photograph identified by Kurumi's
+    "お母さん" (i0154); a hatted silhouette against the waves at the photograph's edge (i0159; INF HIGH the mother of the beach memory); a beach memory — playful, patient, "パパに言いつけるよ〜", "まったく
+    この子は…" (i0160–i0161). Kurumi now frames her loss as timing (i0153) and her 2000万 as only "お母さんの負け額" (i0154).
 - **Father (unnamed)**: source W01 V01. Evidence sufficiency: LOW-MODERATE.
   - Habits: glasses and sweater; monthly タンス預金; a gentle warning against FX; a commuting job.
   - Speech: plain masculine (言わん, だからな); calls her くるみ.
@@ -1044,11 +1346,15 @@ Subjects assessed through V04 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01 an
   - **V04 update** (Kurumi's father): no present-time scene; his V02 line recalled and adopted by Kurumi after Mebuki's call (i0074);
     in the framed photograph (i0072); "お父さん最近遅いな…" (i0115) — a new, unexplained thread; not shown knowing of the 180枚. No
     material change in sufficiency (MODERATE).
+  - **V05 update**: first present-time scene since V02: a transfer "年明けから", "スマン…", "ひとり暮らしになるけど大丈夫か?", a
+    hesitant "そう…だな…" (i0069); in the photograph (i0154, i0159); the remembered slap (i0154; INF HIGH the V02 slap) checks her
+    "億の世界" temptation. Evidence sufficiency: LOW-MODERATE.
 - **優子 (Yūko)**: source W01 V01 (i0021; named at i0143). Evidence sufficiency: LOW. A sincere warning; a current
   friend (identity across 2008/2014 INFERENCE MODERATE-HIGH). Not eligible for a profile yet.
   - V02: does not appear.
   - V03: does not appear.
   - V04: does not appear.
+  - V05: does not appear.
 - **芽吹 (Mebuki)**: named offstage once (i0066). Evidence sufficiency: NONE. Not eligible; reassess at first on-page
   appearance.
   - **V02 update: now eligible.** 山師芽吹 (Yamashi Mebuki), caption "(20)【大学三年生】" (i0004); horizon late May – 15
@@ -1120,6 +1426,24 @@ Subjects assessed through V04 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01 an
       180,000), card terms unknown.
     - Reassessment threshold: the fate of the short; repayment and the salon's cost to her; whether her family learns; whether she
       learns Mochiko was long.
+  - **V05 update** (FXK-JP-V05-W01; horizon April 2014 (flashback) and 17 November – a day on or after 2 December 2014, age 20).
+    Evidence sufficiency: HIGH (about 45 pages).
+    - Distinct habits: names her plans as heroic fantasy ("救い玉作戦", mage, samurai); prays to and scolds the market (i0092–i0097);
+      stabs her desk under stress (i0082, i0089); leg-jiggling (i0088).
+    - Ordinary choices: met Mochiko in a language class in April 2014 ("にゃぱ〜♪", i0051); a loft room, "ASAS" laptop, bear-ear phone
+      case (i0060–i0081); gacha as her value scale (i0060); the salon night shift as "若葉" (i0057–i0059); wages kept in cash (i0102).
+    - Speech: Kansai inner voice throughout; polite to customers and seniors; devotional formulas; "どうせ私は養分で〜す" (first
+      "養分" in the corpus by search).
+    - Cognition under differing conditions: borrowed margin → a "rescue" plan (i0061–i0063); two small wins → "あとたった18回" and a
+      25-lot rescue (i0085–i0087); adverse moves → external blame and prayer (i0089, i0092–i0097); failure → admission and a
+      conditional cut (i0091); the year-high → resignation and refusal to deposit (i0101–i0102); overhearing the truth → collapse
+      (i0146).
+    - Directional ties: Mochiko (trust; repayment; believes her short until i0145); Kurumi (hides the loan from her, i0143);
+      customers and the senior worker (humiliation, i0057–i0059).
+    - Counterexamples: modest exits on rescues 1–2 ("これ以上欲張らん", i0065); gets through the customer's pressure and he leaves (i0057–i0058; what passed between them is not shown).
+    - Money: 2,600,000 and 20枚 @112.102 at mid-November (i0060); 2,609,670 (i0068); 2,621,530 (i0085); 43枚 short, −1,002,120 (i0091);
+      status after 19 November not shown; 6,000円/day interest to Mochiko; repayment envelope undelivered (i0146).
+    - Reassessment threshold: the fate of the short; her response to the lie; the salon; her family.
 - **Mebuki's mother (unnamed)**: source W01 V03 (i0027–i0029, i0063–i0064, i0096, i0159). Evidence sufficiency:
   LOW-MODERATE.
   - Habits: loud (a pot and ladle to call dinner, i0027); home cooking; care parcels with food and money (a 10,000-yen
@@ -1133,15 +1457,19 @@ Subjects assessed through V04 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01 an
   - **V04 update**: the parcel and note "学費の貯金大変やろ? ご飯は送ったるから 根性入れて頑張るように! 母より" (i0010); in Mebuki's
     vision with the father and 健斗 beside "祝大学合格" and "芽吹えらい" (i0107; a photograph or an image, UNRESOLVED). Knows nothing;
     Mochiko holds the family's address and telephone (i0118). Sufficiency unchanged (LOW-MODERATE).
+  - V05: not shown. No material change.
 - **Mebuki's father (unnamed)**: source W01 V03 (i0028–i0029; mentioned i0074). Evidence sufficiency: LOW. Lenient
   ("学費くらい出したったらえぇがな…"); by Mebuki's estimate would not shield her now. Not eligible for a profile.
   - V04: in Mebuki's vision only (i0107). Not eligible for a profile.
+  - V05: possibly the winking man packing a "仕送りBOX" in Mochiko's imagination (i0053; HYP MOD, unnamed, not established). Not eligible.
 - **健斗 (Kento), Mebuki's younger brother**: named i0074 (ruby けんと); teasing (i0029); "そろそろ進学" (i0074).
   Evidence sufficiency: LOW. Not eligible.
   - V04: in Mebuki's vision ("健斗(けんと)…", i0107). Not eligible.
+  - V05: does not appear.
 - **山口さん**: a co-worker named in comparison only (i0049). Not eligible.
   - V03: does not appear.
   - V04: does not appear.
+  - V05: does not appear.
 - **Minor figures (V02)**: a store co-worker (i0012), a security guard (i0138), students (i0139), pachinko players
   (i0098), a bookshop clerk (i0095); imagined tax and FSA officials (gag). Not eligible.
 - **Minor figures (V03)**: 千佳ちゃん (neighbour's daughter, named once, i0029); anonymous board posters (i0041); a TV horoscope
@@ -1154,4 +1482,22 @@ Subjects assessed through V04 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01 an
 - Under-jacket design notes on Mebuki's family (i0168) are paratext and are not used in these notes.
 - Extra and under-jacket paratext in V04 (i0152–i0157, i0160–i0161 — including the artist's label "HN:あふぃちゃん(20)", the author's
   "芽吹ちゃんの隣人" note and "萌智子アート") is apparatus and is not used in these notes.
+- **Mochiko's family and the bespectacled man (new in V05, flashback)**: notes below.
+  - **Mochiko's mother (unnamed)**: source W01 V05 (i0003, i0006–i0008, i0040–i0041). Night work with drinking; absent from the
+    2006 ceremony; at the grandmother's funeral concerned with her own shame, accuses Mochiko of living off the pension, demands
+    money, "勝手にしたら!?". Evidence sufficiency: LOW-MODERATE. Reassessment threshold: any present-time appearance.
+  - **The bespectacled man of Mochiko's flashback (unnamed in the story; the man on whose business her mother's work depends,
+    romantic or business role unprinted)**: source W01 V05 (i0006–i0008, i0026–i0027). Glasses, open shirt; polite address ("娘さん");
+    with the mother in the flat (no line says he lives there); his job depends on her "売り上げ"; a "系列" of businesses; humiliates Mochiko at the café and calls it "面白いもの"; his "他人の施し" and "友達" lines return in 2014 (E061).
+    Evidence sufficiency: LOW. Under-jacket paratext names a bespectacled character "BL課長" and a "金貸し" (i0168): apparatus,
+    not story evidence. Reassessment threshold: any reappearance.
+  - **Mochiko's paternal grandmother (unnamed)**: source W01 V05 (i0003, i0020–i0040). Takes her in at twelve; sushi, mochi,
+    "無理しちゃダメだよ?"; coughs; dies after the 平成24年度 exam. Evidence sufficiency: LOW-MODERATE.
+- **Minor figures (V05)**: 毒島☆寿美 (Busujima Hiromi), editor at コミックプラッパー (card, i0124; cabaret card, i0140) — harsh,
+  specific critique and encouragement; evidence LOW-MODERATE, not yet eligible; the 月刊コミックカラーズ and 月刊まんが おんたま
+  editors (unnamed, i0114–i0119); the otaku fan who outs Yasuko (i0110, i0118); Kurumi's co-worker (i0083–i0084); the salon
+  customer and senior worker (i0057–i0059); two former bullies (i0011, i0030–i0031); 増尾先生 (named once, i0011); a long-haired
+  visitor in a cat-emblem jacket (i0111).
+- Apparatus and extras in V05 (i0164–i0169: the afterword, the bonus explainer, the back-cover blurb's "いじわる(?)" and the
+  under-jacket "BL課長について" note) are paratext and are not used in these notes.
 - Monographs: none completed or linked.

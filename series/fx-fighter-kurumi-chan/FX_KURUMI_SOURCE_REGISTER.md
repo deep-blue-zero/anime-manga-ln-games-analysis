@@ -9,7 +9,7 @@ authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Bibliographic identity, witnessed reconnaissance and candidate corpus admission"
 source_boundary: "Witnesses FXK-JP-V01-W01 to FXK-JP-V10-W01 verified for run FXK-RUN-20261119-V01-V10; each admitted only at its own frontier"
 created: 2026-11-15
-last_updated: 2026-11-21
+last_updated: 2026-11-22
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -195,3 +195,36 @@ Counts: main narrative 140, apparatus 16 (nine separators, the cover, flap, wrap
 | FXK-SO-004 legibility of dense screens and small numerals | Completed for V04, with the IOU's day and the ad digit recorded as partly legible in the reading |
 
 FXK-SO-001 and FXK-SO-005 are unchanged by V04; the V04 package metadata gives 2023-02-21 and the colophon 2023-02-22.
+
+## V05 coverage
+
+Recorded by the V05 principal for run FXK-RUN-20261119-V01-V10 and accepted with the V05 transaction by the run coordinator on 2026-11-22. The [V05 deep reading](readings/FX_KURUMI_V05_DEEP_READING.md) holds the full receipt; the [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md) records each role's coverage and every disposition.
+
+- **Witness.** FXK-JP-V05-W01, package title 「FX戦士くるみちゃん　5」: 171 image occurrences at 1350×1920, right-to-left; every occurrence was viewed once and logged once, with no gap or duplicate. The colophon (i0170) gives e-book ver.001, published 2023-07-22 by KADOKAWA, first serialized in 月刊コミックフラッパー 2023年3月号〜5月号、7月号・8月号: five issues for the five chapters. Colour occurrences: i0001, i0003–i0006, i0166–i0169.
+- **Occurrences reviewed.** The principal opened every occurrence i0001–i0171: the main narrative in spine order first, and the back-matter separator, afterword, bonus explainer, colophon, covers, flap, wraparound, under-jacket images and vendor page only after the main-narrative exit freeze. Each of the two independent specialists also opened all 171 occurrences, in spine order. The reviewer triaged every occurrence on contact sheets and opened the decisive pages at reading resolution or in crops. The specialists opened the cover and flap first and the jacket images at the end; the reviewer saw all of them on its Stage 1 contact sheets. The [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md#7-exposure-and-contamination-record) records each role's first sight of them against its freezes and judgments.
+- **Page order, folios and spreads.** The printed folio equals the occurrence number minus 2 through the p-NNN run (p.1 = i0003 to p.160 = i0162; printed folios checked, for example "9" on i0011, "57" on i0059, "61" on i0063, "107" on i0109, "138" on i0140 and "151" on i0153); separator pages carry no folio but are counted. Even occurrences are right-hand pages and odd ones left-hand pages, so openings are (even | odd), as the package's spine-spread properties state; the separator logos (bottom-left on i0055 and i0163, bottom-right on i0056) agree. No drawn double-page spread was relied on; whether the colour pages i0004+i0005 form a title spread is left unresolved. No missing, duplicated or out-of-order page was found.
+
+| Component | Occurrences | Notes |
+| --- | --- | --- |
+| Apparatus: front cover and flap | i0001, i0002 | Read by the principal after the main-narrative freeze, by the specialists and the reviewer first ([V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md#7-exposure-and-contamination-record)); promotional, not diegetic |
+| Main narrative | i0003–i0054, i0057–i0162 (158) | A colour cold open i0003 with the strip 「第5集 糸」, grouped with 第21話; 第21話 i0004–i0054 (label on the colour title page i0005; Mochiko's past 2006–2014, then the present); 第22話 i0057–i0082; 第23話 i0083–i0102; i0103–i0104 (the dated コミチア scene opens before the 第24話 label, which stands on i0105) attributed to 第23話 or to a cold open of 第24話, unresolved; 第24話 i0105–i0140; 第25話 i0141–i0162, ending "TO BE CONTINUED..." |
+| Apparatus: separators inside the main run | i0055–i0056 | Black grid pages with the series logo, the only pair, between 第21話 and 第22話 |
+| Apparatus: separator | i0163 | Logo page before the back matter |
+| Extra: afterword strip | i0164 | 「5巻 あとがき」; classified only; not narrative evidence |
+| Extra: bonus explainer | i0165 | 「巻末特典! FX戦士くるみちゃんの嘘!」: short-term charts altered for drama; printed P/L excludes swap; used only as method paratext, not as narrative evidence |
+| Apparatus: wraparound jacket | i0166–i0167 | Publisher blurb and a collage of V05 panels; repeats the cover and flap; paratext |
+| Apparatus and extra: under-jacket boards | i0168–i0169 | The authors' note 「BL課長について」 and an investing gag; paratext, not used as story evidence |
+| Apparatus: colophon | i0170 | Bibliographic |
+| Advertising: vendor page | i0171 | Excluded |
+
+Counts: main narrative 158, apparatus 9 (three separators, the cover, flap, wraparound pair, the under-jacket back board and the colophon), extras 3 (i0164, i0165, i0169), advertising 1. There is no next-volume preview and no blank occurrence.
+
+- **Legibility and unresolved numerals.** All reading copies are legible. Every balance, trade and result box, P/L tile, chart axis, order box and document relied on was checked in enlarged crops or recorded as read at reading size; the reading's receipt lists them. Partly legible, not reconstructed: small memory-collage fragments at i0074–i0075 and i0153; small background asides at i0124 and i0126; the SNS post text and hashtag digit at i0105; the shaggy sound glyphs at i0162; the first word of a memory-inset line at i0070. Kept as printed, not repaired: the balloon 「救い玉1枚 利益確定!」 against a Before/After tile that reconciles only with all ten rescue lots closed (i0085); the comma in 「112,102円」 (i0067); the button 「建玉全決算」 (i0073); 「ちょくっと」 (i0136); the boot text 「Press Tab to Seitch Screen」 (i0156); the caption 「2014年 10月下旬」 for the FOMC move into the 118s, which the volume's own 17–19 November rates and 「その後10日ほど」 before 「12月2日 火曜日」 contradict (i0141); two different definitions of 「パターンA」 (i0077, i0078). No broker stop-out level or margin-maintenance threshold is printed. No Mebuki position or P/L is printed after i0091; no Mochiko balance or position figure is printed in V05; Kurumi's 300-lot short has no figure after its entry (i0158).
+
+| Obligation | V05 state |
+| --- | --- |
+| FXK-SO-002 ordered image map and duplicate check | Visual order confirmed for V05: every occurrence viewed in spine order, folio sequence continuous, no duplicates or gaps |
+| FXK-SO-003 component classification | Completed for V05 as tabled above, with the chapter attribution of i0103–i0104 left unresolved; extras and advertising classified by glance and not used as narrative evidence |
+| FXK-SO-004 legibility of dense screens and small numerals | Completed for V05; the partly legible items above are recorded in the reading and none is reconstructed |
+
+FXK-SO-001 and FXK-SO-005 are unchanged by V05; the V05 package metadata and the colophon both give 2023-07-22.
