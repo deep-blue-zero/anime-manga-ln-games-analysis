@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT02
+current_sequential_boundary: SHORT03
 ---
 
 # Lycoris Recoil Primary Source Locator Index
@@ -517,11 +517,17 @@ For anthology evidence always preserve contributor/story identity.
 
 **LOC-SHORT02**. C035–36/041, #000051/084 for the call. C054–59, #000112/123/124 for work and excitement. C066–080, #000147/169/179/187 for the captive and closing staging. Bundle `LR_s00e02_screenshots.zip`, `dialogue_index.json`, `contact_sheets/` and `s00e02.complete-audio.flac`. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md).
 
+
+## Source locators · Short 03
+
+**LOC-SHORT03**. C002–16, glass and three arrivals. C020–35, the loanword and film guess. C040–56, notebook and receipt. C062–90, judging, coughing and Kurumi’s verdict. Bundle `LR_s00e03_screenshots.zip`, `dialogue_index.json`, `contact_sheets/` and `s00e03.complete-audio.flac`. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md).
+
 # 9. Current authority statement
 
-Current release-order boundary: **SHORT02**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT03**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 The index now routes load-bearing V2 claims through `SHORT01_OUTBOUND_FREEZE`, including `SHORT01-CLM-001`-`019`, `SHORT01-VIS-001`-`002`, and `SHORT01-AUD-001`-`013`. Short 01 closed as `VIDEO_NOT_REQUIRED`; `s00e01.complete-audio.flac` (Drive `12ihCMW8IkdFjlz1TVEH4SuliSPjgiLGb`) is the registered lossless Layer-B master and is natively 44.1 kHz stereo 16-bit. `CP4_POST_E13` remains the governing full checkpoint and `SHORT01_OUTBOUND_FREEZE` is the current source-unit boundary for Short 02. Perceptual voice evidence remains separately typed and unverified. Supplementary EPUBs remain locked until all six shorts close and the anime-native baseline freezes.

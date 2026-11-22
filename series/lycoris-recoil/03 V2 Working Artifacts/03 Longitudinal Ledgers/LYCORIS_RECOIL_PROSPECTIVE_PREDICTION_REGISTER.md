@@ -4,12 +4,12 @@ artifact_type: ledger
 scope: V2 prospective predictions, checkpoint freezes, and later adjudication
 generation: V2
 status: canonical
-source_boundary: TV E01-E13 and Friends Shorts 01–02; A1 only
+source_boundary: TV E01-E13 and Friends Shorts 01–03; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_checkpoint: SHORT02_OUTBOUND_FREEZE
+current_checkpoint: SHORT03_OUTBOUND_FREEZE
 ---
 
 # Lycoris Recoil Prospective Prediction Register
@@ -957,6 +957,26 @@ CP4 tranche: 01 SUPPORTED · 02 SUPPORTED · 03 SUPPORTED · 04 NOT_TESTED · 05
 | PRED-SHORT02-003 | If a plan attracts incompatible preferences, a partner may resist or redirect it without ending cooperation. High, R2. |
 | PRED-SHORT02-004 | If another café member has the floor, their ordinary tastes or social knowledge may contribute independently of their security work. Moderate, R3. |
 
+
+## SHORT03_OUTBOUND_FREEZE · Short 03
+
+[Source-native reading and incoming adjudications](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md). Frozen SHA-256 of the reading: 0a91cb4ea07cb288f4eefaf9a94bc2739b48ceb8b682d92678c3837a11ba7f80. The TV-only CP4 wording and the Short 02 incoming wording remain as originally issued.
+
+CP4 tranche: 01 SUPPORTED · 02 SUPPORTED · 03 SUPPORTED · 04 NOT_TESTED · 05 SUPPORTED · 06 PARTIALLY_SUPPORTED · 07 PARTIALLY_SUPPORTED · 08 NOT_TESTED · 09 PARTIALLY_SUPPORTED · 10 SUPPORTED · 11 PARTIALLY_SUPPORTED · 12 PARTIALLY_SUPPORTED.
+
+| Incoming | Append-only result |
+|---|---|
+| PRED-SHORT02-001 | PARTIALLY_SUPPORTED. Takina supplies the original activity as well as its cost constraint. A partner’s leisure invitation is not its starting condition. |
+| PRED-SHORT02-002 | PARTIALLY_SUPPORTED. Distinct uses of イノベーション have nearly identical mixed levels. The episode does not rank private emotion. |
+| PRED-SHORT02-003 | SUPPORTED for continued contact. The partners try distinct prototypes and the price disagreement survives. Cooperation does not produce agreement on selling the dish. |
+| PRED-SHORT02-004 | SUPPORTED. Mizuki remembers a cost-based rejection and Kurumi recognizes the visual joke, neither in an operational role. |
+
+| Frozen ID | Prediction for Short 04 |
+|---|---|
+| PRED-SHORT03-001 | If others enjoy an outcome Takina is evaluating, she may maintain a practical or literal objection despite the group’s pleasure. Moderate, R2. |
+| PRED-SHORT03-002 | If a familiar cultural reference becomes available, Chisato may turn it into shared play, with uneven uptake. Moderate, R3. |
+| PRED-SHORT03-003 | If ordinary work puts a supporting member in a position to judge, their social memory or taste may alter what the principals do. Moderate, R3. |
+
 # 7. What to predict
 
 Prefer behavior classes:
@@ -1006,9 +1026,10 @@ If premise-only separation is impossible, skip the prospective test rather than 
 
 # 10. Current authority statement
 
-Current release-order boundary: **SHORT02**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT03**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 All earlier freezes remain immutable in prediction wording. `CP2_POST_E06` and `CP3_POST_E10` are closed; CP3 finished the TV run at twelve supported, zero partially supported, zero not tested, and zero disconfirmed. `CP4_POST_E13` remains the governing major checkpoint and is open through Short 06; after Short 01 its cumulative state is six supported, three partially supported, and three not tested. `SHORT01_OUTBOUND_FREEZE` is the current episode-level freeze and was created before Short 02 evidence and before Short 01 V1 retrospective comparison.

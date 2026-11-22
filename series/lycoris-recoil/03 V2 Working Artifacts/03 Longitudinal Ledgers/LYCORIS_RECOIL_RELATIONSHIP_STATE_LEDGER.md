@@ -4,12 +4,12 @@ artifact_type: ledger
 scope: V2 longitudinal relationship state, permissions, conflict, repair, intimacy, and role conditioning
 generation: V2
 status: canonical
-source_boundary: TV E01-E13 and Friends Shorts 01–02; A1 only
+source_boundary: TV E01-E13 and Friends Shorts 01–03; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT02
+current_sequential_boundary: SHORT03
 e01_acoustic_performance_backfill: complete
 e02_acoustic_performance_pass: complete
 e03_acoustic_performance_pass: complete
@@ -249,6 +249,11 @@ Descriptions state anticipated analytical questions from architecture, not prosp
 
 **REL-SHORT02**. Chisato proposes attractions and Takina makes time for them by directing the job. Their mismatch in attention becomes an explanation of shared desire. C018–22 and C050–59 support teasing, correction and separate initiative. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md).
 
+
+## Relationship state · Short 03
+
+**REL-SHORT03**. C020–35 lets the pair play with an unfamiliar word, while C077–90 lets Takina refuse both sale and the group’s account of her creation. Shared amusement does not require identical perception or a consensus on price. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md).
+
 # 6. Longitudinal snapshots
 
 | Snapshot | Relationship | Source horizon | Current permissions / distance | Conflict/repair state | Major unknowns |
@@ -416,9 +421,10 @@ Derivative-source intimacy cannot silently rewrite the anime-native dyad.
 
 # 10. Current authority statement
 
-Current release-order boundary: **SHORT02**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT03**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 At `SHORT01_OUTBOUND_FREEZE`, this ledger is the canonical A1 relationship-state authority through TV E01-E13 plus Friends Short 01. Short 01 preserves the TV dyad endpoint while validating its mundane form: Takina can author civilian work and business expansion, Chisato can challenge context-specific armed overreach, Takina can resist that correction, and the disagreement remains relationally safe. The evidence strengthens yuri-compatible ordinary familiarity and reciprocal physical/play permission without supplying an explicit romance, exclusivity, or fused-agency declaration. LycoReco's chosen-family/service network is shown operating through seasonal labor and leisure rather than security utility alone. Short 02-06 and supplementary relationship evidence are not yet admitted.

@@ -83,9 +83,9 @@ For current use of E01–E13 claims, consult the [TV audiovisual reconciliation]
   - `LYCORIS_RECOIL_E13_DEEP_READING.md` — Drive ID `12m2vr9c6oJkqDxuEkhFo6xxpiDf1PCNz`
   - `LYCORIS_RECOIL_SHORT01_DEEP_READING.md` — Drive ID `1a5-Sst3AE7vx-EzW4PlQAp9xzn56BY7A`
   - completed/frozen TV source horizon: E13 / TV 13 of 13 complete
-  - frozen short readings through Short 02: [Short 02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md)
-  - current boundary: SHORT02_OUTBOUND_FREEZE under CP4_POST_E13.
-- Next operation: Read Short 03 under CP4_POST_E13 from SHORT02_OUTBOUND_FREEZE before any subsequent narrative intake.
+  - frozen short readings through Short 03: [Short 02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md) · [Short 03](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md)
+  - current boundary: SHORT03_OUTBOUND_FREEZE under CP4_POST_E13.
+- Next operation: Read Short 04 under CP4_POST_E13 from SHORT03_OUTBOUND_FREEZE before any subsequent narrative intake.
 - Corpus-wide project initiation policy:
   - `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`
   - Drive ID: `1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC`
@@ -128,20 +128,20 @@ V1 remains historically authoritative for what the project previously concluded,
 # 2. Project state
 
 
-- Status: **V2 / SHORT02 SOURCE-NATIVE CLOSEOUT**
+- Status: **V2 / SHORT03 SOURCE-NATIVE CLOSEOUT**
 - Active analytical generation: **V2**
 - V2 architecture: **CANONICAL**
 - V2 analytical method: **CANONICAL**
 - Source audit: **COMPLETE / PASS FOR INITIALIZATION**
-- Sequential deep readings completed: **15 / 19**
+- Sequential deep readings completed: **16 / 19**
 - TV completed sequential boundary: **E13 / FROZEN / CP3 CLOSED / CP4 FROZEN**
-- Current admitted A1 horizon: TV E01–E13 and Shorts 01–02.
-- Shorts sequential boundary: **SHORT02_OUTBOUND_FREEZE**.
+- Current admitted A1 horizon: TV E01–E13 and Shorts 01–03.
+- Shorts sequential boundary: **SHORT03_OUTBOUND_FREEZE**.
 - Anime-native reconstruction baseline: **NOT YET BUILT**
 - Supplementary prose integration: **LOCKED**
 - Recollect integration: **LOCKED**
 - Anthology integration: **LOCKED**
-- V1→V2 claim audit: **146 attributable transitions through Short 02**.
+- V1→V2 claim audit: **150 attributable transitions through Short 03**.
 - Current full-series V2 synthesis gate: **CLOSED**
 - Sequential-analysis lock: **OPEN**
 - E01 objective acoustic-performance backfill: **COMPLETE**
@@ -378,7 +378,7 @@ Lycoris Recoil/
 ```
 
 
-`02 Sequential Readings/Anime` contains frozen canonical TV E01-E13 readings. The frozen short readings now extend through Short 02. Other V2 semantic layers remain absent until they acquire a real analytical responsibility.
+`02 Sequential Readings/Anime` contains frozen canonical TV E01-E13 readings. The frozen short readings now extend through Short 03. Other V2 semantic layers remain absent until they acquire a real analytical responsibility.
 
 
 Do not create empty categories for visual symmetry.
@@ -442,12 +442,12 @@ Each episode produces:
 ## Phase C — Shorts
 
 
-**Shorts 01–02 have completed their source-native passes.**
+**Shorts 01–03 have completed their source-native passes.**
 
 Sequence:
 
 
-Release-order high-water mark: SHORT02_OUTBOUND_FREEZE. Read Short 03 under CP4_POST_E13 from SHORT02_OUTBOUND_FREEZE before any subsequent narrative intake.
+Release-order high-water mark: SHORT03_OUTBOUND_FREEZE. Read Short 04 under CP4_POST_E13 from SHORT03_OUTBOUND_FREEZE before any subsequent narrative intake.
 
 
 The shorts are especially important for settled mundane behavior, humor, play, domestic/café routine, and anime-native counterfactual validation.
@@ -544,14 +544,14 @@ Voice/performance, humor/play, ordinary life, visual/action, or institutional ev
 Current state:
 
 - V2 completed prospective TV boundary: **E13 / FROZEN / CP3 CLOSED**;
-- active V2 source-reading horizon: TV plus Shorts 01–02;
-- completed sequential source units: TV E01–E13 and Shorts 01–02;
+- active V2 source-reading horizon: TV plus Shorts 01–03;
+- completed sequential source units: TV E01–E13 and Shorts 01–03;
 - incoming CP0 remains frozen and prediction-free;
 - `E01_OUTBOUND_FREEZE` through `E12_OUTBOUND_FREEZE`: adjudicated append-only with original wording preserved;
 - `CP1_POST_E03`: closed at 6 supported / 6 not tested;
 - `CP2_POST_E06`: closed at 8 supported / 1 partially supported / 3 not tested;
 - `CP3_POST_E10`: **CLOSED at 12 supported / 0 partially supported / 0 not tested / 0 disconfirmed**;
-- governing TV-only predictions: CP4_POST_E13, adjudicated through Short 02;
+- governing TV-only predictions: CP4_POST_E13, adjudicated through Short 03;
 - no supplementary narrative sources are admitted;
 - V1: comparison/revision input only after each source-native reading and prospective freeze are fixed;
 - novels: quarantined;
@@ -618,7 +618,7 @@ Routine mechanical source/inventory operations may use lighter reasoning where p
 
 The following are intentionally unresolved rather than corpus deficiencies:
 
-- source-native short readings are frozen through Short 02;
+- source-native short readings are frozen through Short 03;
 - full anime-native reconstruction baseline remains unfrozen until all six shorts close and `CP5_ANIME_NATIVE_FINAL` is established;
 - no continuous-video escalation was required for TV E01-E13; all thirteen TV episodes closed as `VIDEO_NOT_REQUIRED`;
 - E01 objective acoustic backfill and E02-E13 FLAC Layer-B analyses are admitted; subjective/perceptual Layer-C voice labels remain `UNVERIFIED`;
@@ -648,9 +648,9 @@ project_initialization:
   character_reconstruction_method_initialized: true
   required_day_one_ledgers_initialized: true
   sequential_analysis_lock: open
-  completed_sequential_units: 15
-  current_sequential_boundary: SHORT02
-  current_outbound_freeze: SHORT02_OUTBOUND_FREEZE
+  completed_sequential_units: 16
+  current_sequential_boundary: SHORT03
+  current_outbound_freeze: SHORT03_OUTBOUND_FREEZE
   current_video_escalation_state: VIDEO_TARGETED_ESCALATION
   e01_acoustic_performance_backfill: complete
   e02_acoustic_performance_pass: complete
@@ -688,7 +688,7 @@ project_initialization:
 
 # 13. Current canonical operation
 
-Read Short 03 under CP4_POST_E13 from SHORT02_OUTBOUND_FREEZE before any subsequent narrative intake. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The sequential run is authorized through Short 06 and the subsequent short-only comparison.
+Read Short 04 under CP4_POST_E13 from SHORT03_OUTBOUND_FREEZE before any subsequent narrative intake. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The sequential run is authorized through Short 06 and the subsequent short-only comparison.
 
 # 14. Retrieval route
 
@@ -711,4 +711,4 @@ When resuming:
 
 # 15. Governing current-state statement
 
-The admitted source horizon is TV E01–E13 plus Shorts 01–02. Read Short 03 under CP4_POST_E13 from SHORT02_OUTBOUND_FREEZE before any subsequent narrative intake. No supplementary source has entered the A1 account.
+The admitted source horizon is TV E01–E13 plus Shorts 01–03. Read Short 04 under CP4_POST_E13 from SHORT03_OUTBOUND_FREEZE before any subsequent narrative intake. No supplementary source has entered the A1 account.

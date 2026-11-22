@@ -4,12 +4,12 @@ artifact_type: claim_revision_ledger
 scope: V1 claims routed to current V2 formulations and evidence
 generation: V2
 status: canonical
-source_boundary: TV E01-E13 and Friends Shorts 01–02; A1 only
+source_boundary: TV E01-E13 and Friends Shorts 01–03; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT02
+current_sequential_boundary: SHORT03
 ---
 
 # Lycoris Recoil V1 → V2 Claim Revision Ledger
@@ -255,6 +255,17 @@ The following records were added only after `LYCORIS_RECOIL_E01_DEEP_READING.md`
 
 **Independent review and evidence boundary.** The critic reproduced the seven mixed RMS values and checked #000003/048/051/112/123/124/147/169. In C043 the subject of 浮かれていまして is unstated. After C046–47 Takina makes the private first person explicit at C058–59. This strengthens the contrast between audiences without assigning a hidden intention. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
 
+## Short 03 · post-freeze V1 review
+
+| Record | V1 locator and disposition against the frozen reading |
+|---|---|
+| REV-SHORT03-001 | STRENGTHEN. V1 02 §Shorts Takina, lines 322–324, and §12, lines 616/620. The price inquiry and refusal (C055–56/077–81) make budgeting a constraint on the proposal. No sale is shown. |
+| REV-SHORT03-002 | REVISE. V1 03 §2 Food, lines 421–423. The apparently obscene item is a prototype with disputed reception. The judges read a resemblance. Takina’s repeated denials leave her private intent unknown. |
+| REV-SHORT03-003 | STRENGTHEN. V1 03 §4 Movies, line 443. Chisato correctly identifies a film Takina has seen. C029/032–33 support recognition. The origin of the loanword in that particular film remains an inference. |
+| REV-SHORT03-004 | STRENGTHEN. V1 07 §4 Food and drink, line 563. C062–66/084–88 distribute invention, cost memory and visual judgment among café members. |
+
+**Independent review and evidence boundary.** The critic qualified Kurumi’s response: explicitly elicited, independently worded, with no answer supplied by Chisato. The picture shows the fruit before anyone names the resemblance. Reported cost history and public interpretation carry different authority from recorded sales and intention. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
+
 # 5. Document-level intake queue
 
 The following V1 responsibilities are expected to produce claim-level records as V2 reaches relevant evidence.
@@ -318,9 +329,10 @@ Do not:
 
 # 8. Current authority statement
 
-Current release-order boundary: **SHORT02**. See the per-unit Short records above. The V1 register contains 146 transitions. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT03**. See the per-unit Short records above. The V1 register contains 150 transitions. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 This ledger contains **143** V1→V2 transitions through `SHORT01`: 137 through the TV E13 closeout plus 6 Short 01 `STRENGTHEN` records added only after the Short 01 source-native reading and `SHORT01_OUTBOUND_FREEZE` were frozen. Short 01 requires no `REVISE`, `DOWNGRADE`, or `REJECT` transition. Layer-C perceptual voice claims remain separately bounded and are not inferred from objective Short 01 Layer-B measures. Short 02-06 and supplementary evidence remain outside the current revision horizon.
