@@ -163,3 +163,35 @@ Counts: main narrative 160, apparatus 6, extras 4, advertising 1. There is no ne
 | FXK-SO-004 legibility of dense screens and small numerals | Completed for V03, with the glitched i0104 figure unreadable by design and the partial i0037 and i0162 figures recorded in the reading |
 
 FXK-SO-001 and FXK-SO-005 are unchanged by V03; the V03 package metadata and colophon both give the date 2022-08-23.
+
+## V04 coverage
+
+Recorded by the V04 principal for run FXK-RUN-20261119-V01-V10 and accepted with the V04 transaction by the run coordinator on 2026-11-21. The [V04 deep reading](readings/FX_KURUMI_V04_DEEP_READING.md) holds the full receipt; the [V04 checkpoint](checkpoints/FX_KURUMI_V04_CHECKPOINT.md) records each role's coverage and every disposition.
+
+- **Witness.** FXK-JP-V04-W01, package title 「FX戦士くるみちゃん　4」: 163 image occurrences at 1350×1920, right-to-left, Kindle-unpack lineage; every image is referenced from the spine and no image is duplicated. The colophon (i0162) gives e-book ver.001, published 2023-02-22 by KADOKAWA, first serialized in 月刊コミックフラッパー 2022年9月号〜12月号、2023年1月号: five issues for the five chapters. Colour occurrences: i0001, i0003–i0006, i0158–i0161.
+- **Occurrences reviewed.** The principal opened every occurrence i0001–i0163: the main narrative in spine order first, and the separator after it, the extra, the covers, flap, wraparound, under-jacket images, colophon and vendor page only after the main-narrative exit freeze. Each of the two independent specialists also opened all 163 occurrences, in spine order. The reviewer triaged every occurrence on contact sheets and opened the decisive pages at reading resolution or in crops.
+- **Page order, folios and spreads.** The printed folio equals the occurrence number minus 2 through the p-NNN run (p.1 = i0003 to p.155 = i0157; printed folios checked, for example "4" on i0006, "29" on i0031, "60" on i0062, "85" on i0087, "124" on i0126 and "136" on i0138); separator pages carry no folio but are counted. Even occurrences are right-hand pages and odd ones left-hand pages, so openings are (even | odd); the separator logos (bottom-left on odd pages, bottom-right on even ones) and the folio positions confirm this. The only spread with art across the gutter is the colour title spread i0004+i0005. No missing, duplicated or out-of-order page was found.
+
+| Component | Occurrences | Notes |
+| --- | --- | --- |
+| Apparatus: front cover and flap | i0001, i0002 | Read by the principal after the main-narrative freeze; promotional, not diegetic |
+| Main narrative | i0003–i0032, i0035–i0062, i0065–i0088, i0091–i0122, i0125–i0150 (140) | A colour cold open i0003 with the strip 「第4集 博打」, grouped with 第16話; 第16話 i0004–i0032 (label on the title spread); 第17話 i0035–i0062; 第18話 i0065–i0088; 第19話 i0091–i0122; 第20話 i0125–i0150, ending "TO BE CONTINUED…" |
+| Apparatus: separators inside the main run | i0033–i0034, i0063–i0064, i0089–i0090, i0123–i0124 | Black grid pages with the series logo, one pair between each two chapters |
+| Apparatus: separator | i0151 | A single separator page before the extra |
+| Extra: bonus strips | i0152–i0157 | 「巻末特典! やす子ちゃん誕生裏話!」: the writer's and the artist's production diaries and a cosplay gag page (i0155); classified only; not narrative evidence |
+| Apparatus: wraparound jacket | i0158–i0159 | Publisher blurb and a collage of V04 panels; repeats the cover and flap; paratext |
+| Apparatus: under-jacket boards | i0160–i0161 | Creators' notes and the writer's investing gag; paratext |
+| Apparatus: colophon | i0162 | Bibliographic |
+| Advertising: vendor page | i0163 | Excluded |
+
+Counts: main narrative 140, apparatus 16 (nine separators, the cover, flap, wraparound, under-jacket boards and colophon), extras 6, advertising 1. There is no next-volume preview and no blank occurrence.
+
+- **Legibility and unresolved numerals.** All reading copies are legible. Every balance, trade and result box, P/L tile, chart axis, phone screen and document relied on was checked in enlarged crops; the reading's receipt lists them. Partly legible: the day of the IOU dated 「2014年11[…]」 (i0145), cut by the panel edge, not reconstructed; the third digit of the carriage-ad quip 「たぶん152円までいくね、これは」 (i0137), read as 2 at MODERATE-HIGH (an authorial in-joke, not a story price); a few occluded glyphs in the cold-open newspaper (i0003). Kept as printed, not repaired: Mochiko's open P/L 「+4,729,000円」 at 「115.840円」 (i0144), exact for an average of 106.382 although 「+3,209,000」 (i0037) fits 106.832, against the accepted V03 average; the comma in the axis label 「112,2」 (i0022); the elided 「÷365」 in the interest diagram (i0100); the name field 「YAMASHO I」 against the card's 「YAMASHI MEBUKI」 (i0019). No broker stop-out level or margin-maintenance threshold is printed; a forced liquidation is printed as an event (「強制ロスカット」, i0012). No Mebuki position or P/L is printed after i0068.
+
+| Obligation | V04 state |
+| --- | --- |
+| FXK-SO-002 ordered image map and duplicate check | Visual order confirmed for V04: every occurrence viewed in spine order, folio sequence continuous, no duplicates or gaps |
+| FXK-SO-003 component classification | Completed for V04 as tabled above; extras and advertising classified by glance and not used as narrative evidence |
+| FXK-SO-004 legibility of dense screens and small numerals | Completed for V04, with the IOU's day and the ad digit recorded as partly legible in the reading |
+
+FXK-SO-001 and FXK-SO-005 are unchanged by V04; the V04 package metadata gives 2023-02-21 and the colophon 2023-02-22.
