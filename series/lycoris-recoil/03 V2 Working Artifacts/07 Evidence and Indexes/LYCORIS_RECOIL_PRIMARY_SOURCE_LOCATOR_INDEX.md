@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT05
+current_sequential_boundary: SHORT06
 ---
 
 # Lycoris Recoil Primary Source Locator Index
@@ -536,11 +536,17 @@ For anthology evidence always preserve contributor/story identity.
 
 **Short 05 frame-order qualification.** C032 places the simultaneous verbal objections at 01:06.88. #000059/061 at 01:15.325 and 01:16.550 show Takina holding Sakura across Chisato’s later permission, C035–36. They establish continued physical restraint, not its precise onset at the objection. #000118 shows Takina posing with an empty hand; the small rectangle behind it belongs to the locker. At 02:37.2 she points in a dark uniform.
 
+
+## Source locators · Short 06
+
+**LOC-SHORT06**. C002–20 tailoring and cover; C025–47 fan politics; C052–61 designs and veto; C070–81 travel, board games and departure; C082–93 Fuki/Mika, outfit and credits. Bundle `LR_s00e06_screenshots.zip`, `dialogue_index.json`, `contact_sheets/` and `s00e06.complete-audio.flac`. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md).
+
 # 9. Current authority statement
 
-Current release-order boundary: **SHORT05**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT06**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 

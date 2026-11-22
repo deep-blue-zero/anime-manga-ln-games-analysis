@@ -4,12 +4,12 @@ artifact_type: ledger
 scope: V2 prospective predictions, checkpoint freezes, and later adjudication
 generation: V2
 status: canonical
-source_boundary: TV E01-E13 and Friends Shorts 01–05; A1 only
+source_boundary: TV E01-E13 and Friends Shorts 01–06; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_checkpoint: SHORT05_OUTBOUND_FREEZE
+current_checkpoint: SHORT06_SOURCE_NATIVE_FREEZE
 ---
 
 # Lycoris Recoil Prospective Prediction Register
@@ -1017,6 +1017,45 @@ CP4 tranche: 01 SUPPORTED · 02 SUPPORTED · 03 PARTIALLY_SUPPORTED · 04 NOT_TE
 | PRED-SHORT05-002 | If supporting members gather around ordinary work or recreation, more than one member may supply a consequential observation or intervention. Moderate, R2. |
 | PRED-SHORT05-003 | If play evokes the language of duty or rank, its private or social purpose may differ from its institutional meaning. Moderate, R3. |
 
+
+## SHORT06_SOURCE_NATIVE_FREEZE · Short 06
+
+[Source-native reading and incoming adjudications](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md). Frozen SHA-256 of the reading: fbbc8e98bc26e6e4e7b29afe50c29202239a6f3384267a07ab3d3d3c6b035190. The TV-only CP4 wording and the Short 05 incoming wording remain as originally issued.
+
+CP4 tranche: 01 SUPPORTED · 02 SUPPORTED · 03 PARTIALLY_SUPPORTED · 04 NOT_TESTED · 05 PARTIALLY_SUPPORTED · 06 PARTIALLY_SUPPORTED · 07 SUPPORTED · 08 PARTIALLY_SUPPORTED · 09 PARTIALLY_SUPPORTED · 10 SUPPORTED · 11 NOT_TESTED · 12 PARTIALLY_SUPPORTED.
+
+| Incoming | Append-only result |
+|---|---|
+| PRED-SHORT05-001 | SUPPORTED. Fuki ends the visit and Erika presses to stay. Chisato herself drops Kurumi’s themed-café idea almost as soon as she takes it up. |
+| PRED-SHORT05-002 | SUPPORTED. Kurumi proposes a commercial solution and a night’s game, Fuki exercises a veto and Mika’s vacation attire reframes Fuki’s judgment. |
+| PRED-SHORT05-003 | SUPPORTED. The uniform can signal rank to its wearers, apparent costume quality to the fans, and unwelcome recognizability to Chisato. |
+
+| Frozen ID | Final boundary question |
+|---|---|
+| PRED-SHORT06-001 | How far the low-stakes permissions of these shorts constrain behavior under lethal or institutional pressure remains a reconstruction question, not a prediction about another admitted anime unit. |
+| PRED-SHORT06-002 | Where the camera cuts away or overlays credits, leave private intention, offscreen outcomes and exact sound-image timing at their warranted evidence levels. |
+
+## CP4_POST_E13 · terminal source-native adjudication
+
+The twelve TV-only wordings above are immutable. This summary was fixed after the six shorts’ native readings and before opening Gemini’s shorts reports. Each decision concerns the stated condition across the six shorts. Shorts test ordinary conduct much more directly than crisis conduct.
+
+| Original ID suffix | Decision | Source test and boundary |
+|---|---|---|
+| 001 | SUPPORTED | Short 02 C001–09 builds travel through concrete invitations. Short 05 adds an overnight party and the uniform loan. Severe vulnerability receives no equivalent new trial. |
+| 002 | SUPPORTED | Short 01 ordering and profits, Short 02 C041/054–59 and Short 03 C013–22/077–81 place Takina’s corrections within activity she wants. |
+| 003 | SUPPORTED with limits | Short 03 permits Takina to refuse a sale and contest a joke. Short 04’s unannounced scare limits generalization from enduring contact to prior consent. Short 05’s constrained Sakura tests another dyad. |
+| 004 | PARTIALLY_SUPPORTED | Takina maintains shared preparations and work across Shorts 01–02. An individual’s health or safety is less clearly the object than in the TV care scenes. Timing a flight in Short 06 does not itself strengthen person-specific care. |
+| 005 | SUPPORTED | Short 01 proposes the next service and Short 03 begins with Takina’s own menu problem. Short 05 adds private exploration without a partner’s prompting. |
+| 006 | PARTIALLY_SUPPORTED | The invitation to stay and uniform loan (Short 05 C027–36) respect a separate room search and Sakura’s choice. Pressure to sell in Short 03 and unannounced play in Short 04 qualify an unlimited invitation model. |
+| 007 | SUPPORTED with limits | Short 03 C083–90 gives Kurumi a social judgment and Short 06 C053/072 gives her a commercial suggestion and an evening’s play. Short 04 depicts her using surveillance, then contests her presence. The technical baseline has independent TV evidence. |
+| 008 | PARTIALLY_SUPPORTED | The milkshake in Short 05 C016–19 and hosting and holiday attire in Short 06 test care and Mika’s own pleasures. They give little leverage on serious protective withholding. |
+| 009 | PARTIALLY_SUPPORTED | Mizuki drinks and participates in seasonal leisure, recalls a cost ruling in Short 03 and joins the prank in Short 04. Her operational loyalty and adult romantic choices have limited new testing. |
+| 010 | SUPPORTED | Running a stall, planning travel, setting a menu and policing expenses change what the characters do and say. The café’s institutional use in Short 05 and its fan visitors in Short 06 complicate its function. |
+| 011 | PARTIALLY_SUPPORTED across the complete battery | Short 01’s strong within-unit contrast stands. Short 02’s quiet admission and Short 03’s similar levels for different speech acts resist a monotonic model. The strongest prank alarm in Short 04 is perceived danger. Full-mix levels do not rank private importance. |
+| 012 | SUPPORTED with limits | Short 04’s hair care and Short 05 C027–29 show familiarity alongside agency and separate housing options. Neither scene establishes blanket permission or an exclusive declaration. |
+
+Seven supported, five partially supported, none assigned blanket confirmation by lack of contradiction. The intermediate Short 01–06 results remain visible. Completion of this prediction test closes CP4’s *target horizon*. CP5’s separate A1 reconstruction and synthesis responsibilities are not discharged by the prediction tally.
+
 # 7. What to predict
 
 Prefer behavior classes:
@@ -1066,9 +1105,10 @@ If premise-only separation is impossible, skip the prospective test rather than 
 
 # 10. Current authority statement
 
-Current release-order boundary: **SHORT05**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT06**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 

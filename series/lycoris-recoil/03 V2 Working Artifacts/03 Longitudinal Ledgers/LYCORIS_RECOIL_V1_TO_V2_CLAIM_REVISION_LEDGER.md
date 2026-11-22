@@ -4,12 +4,12 @@ artifact_type: claim_revision_ledger
 scope: V1 claims routed to current V2 formulations and evidence
 generation: V2
 status: canonical
-source_boundary: TV E01-E13 and Friends Shorts 01–05; A1 only
+source_boundary: TV E01-E13 and Friends Shorts 01–06; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT05
+current_sequential_boundary: SHORT06
 ---
 
 # Lycoris Recoil V1 → V2 Claim Revision Ledger
@@ -290,6 +290,17 @@ The following records were added only after `LYCORIS_RECOIL_E01_DEEP_READING.md`
 
 **Independent review and evidence boundary.** The specialists checked the empty hanger, red outfit and mirror (#000096/114/121/126), the change back and the constrained witness (#000134–143). The critic distinguished Fuki’s C003 practical reason from Chisato’s insinuation, and Chisato’s permission from Fuki’s authority over her own garment. On PRED-SHORT04-001 there is positive evidence for Fuki’s freedom to refuse, but the case of Sakura resists generalization. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
 
+## Short 06 · post-freeze V1 review
+
+| Record | V1 locator and disposition against the frozen reading |
+|---|---|
+| REV-SHORT06-001 | STRENGTHEN. V1 04 §VIII, lines 584–601, and 07 §5 Exposure and fictionalization, lines 399–415. C011–20 shows a literally accurate disclosure and an improvised cover both received as costume play. |
+| REV-SHORT06-002 | REVISE. V1 01 §III, line 403, and 08 §9 Effective cover-up, lines 332–338. C025–41 supplies specific fans’ beliefs and a movie plot. A population-wide claim about the public or the movie’s production lineage exceeds the case. |
+| REV-SHORT06-003 | STRENGTHEN. V1 03 §Erika, lines 534–542, and §Fuki, lines 512–522. C074–79 preserves Erika’s separate wish to stay and Fuki’s supervisory veto. The vacation-clothes sequence shows Fuki’s reaction without declaring a romance. |
+| REV-SHORT06-004 | PRESERVE. V1 03 §3 Travel, lines 425–435, and 01 §III, line 401. Trip preparations are collective and Mika’s leisure has weight. The narrative gives no new journey, arrival or passport mechanics. |
+
+**Independent review and evidence boundary.** Japanese and picture review distinguished the café group, outsiders, the poster and projected alternative designs. The critic restricted the cover finding to the represented fans. The audio specialist checked full-stream equivalence and the extended credit mix. #000204 at 03:29.084 already shows Mika by the car; #000211–217 isolates details. #000269 at 04:44.868 credits 花の塔 / さユり. This is a printed attribution; precise audible onset and synchronization remain separate questions. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
+
 # 5. Document-level intake queue
 
 The following V1 responsibilities are expected to produce claim-level records as V2 reaches relevant evidence.
@@ -353,9 +364,10 @@ Do not:
 
 # 8. Current authority statement
 
-Current release-order boundary: **SHORT05**. See the per-unit Short records above. The V1 register contains 158 transitions. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT06**. See the per-unit Short records above. The V1 register contains 162 transitions. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 
