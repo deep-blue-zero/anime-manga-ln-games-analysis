@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 214; `STALE` 1; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 216; `STALE` 1; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -43,7 +43,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
 | [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 42 |
 | [`ntr-netsuzou-trap`](reconstruction_index/ntr-netsuzou-trap.md) | 2 | 2 |
-| [`one-punch-man`](reconstruction_index/one-punch-man.md) | 2 | 2 |
+| [`one-punch-man`](reconstruction_index/one-punch-man.md) | 4 | 4 |
 | [`oreimo`](reconstruction_index/oreimo.md) | 2 | 2 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
 | [`project-sekai`](reconstruction_index/project-sekai.md) | 7 | 8 |
@@ -196,6 +196,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `ntr-netsuzou-trap:hotaru-mizushina@manga` | [`ntr-netsuzou-trap-hotaru-mizushina-manga-monograph-20261121-01`](reconstruction_index/ntr-netsuzou-trap.md#ntr-netsuzou-trap-hotaru-mizushina-manga-monograph-20261121-01) | `CANDIDATE` | `C` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `ntr-netsuzou-trap:yuma-okazaki@manga` | [`ntr-netsuzou-trap-yuma-okazaki-manga-monograph-20261121-01`](reconstruction_index/ntr-netsuzou-trap.md#ntr-netsuzou-trap-yuma-okazaki-manga-monograph-20261121-01) | `CANDIDATE` | `C` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `one-punch-man:bang@manga` | [`one-punch-man-bang-manga-v04-v37-distributed-20261029-01`](reconstruction_index/one-punch-man.md#one-punch-man-bang-manga-v04-v37-distributed-20261029-01) | `CANDIDATE` | `D` | `6cab13c6799a7f6488fabbdef96804643979de08` |
+| `one-punch-man:garou@manga` | [`one-punch-man-garou-manga-v06-v37-distributed-ledgers-20261122-01`](reconstruction_index/one-punch-man.md#one-punch-man-garou-manga-v06-v37-distributed-ledgers-20261122-01) | `CANDIDATE` | `C` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
+| `one-punch-man:genos@manga` | [`one-punch-man-genos-manga-v01-v37-distributed-ledgers-20261122-01`](reconstruction_index/one-punch-man.md#one-punch-man-genos-manga-v01-v37-distributed-ledgers-20261122-01) | `CANDIDATE` | `B` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
 | `one-punch-man:saitama@manga` | [`one-punch-man-saitama-manga-v01-v37-dedicated-ledger-20261116-01`](reconstruction_index/one-punch-man.md#one-punch-man-saitama-manga-v01-v37-dedicated-ledger-20261116-01) | `CANDIDATE` | `B` | `b4f5d3d63d5a3212791be8635579c22bbc5e3569` |
 | `oreimo:kosaka-kirino@original-light-novels` | [`oreimo-kosaka-kirino-original-light-novels-v1-core-deep-dive-20261121-01`](reconstruction_index/oreimo.md#oreimo-kosaka-kirino-original-light-novels-v1-core-deep-dive-20261121-01) | `CANDIDATE` | `C` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
 | `oreimo:kosaka-kyousuke@original-light-novels` | [`oreimo-kosaka-kyousuke-original-light-novels-v1-core-deep-dive-20261121-01`](reconstruction_index/oreimo.md#oreimo-kosaka-kyousuke-original-light-novels-v1-core-deep-dive-20261121-01) | `CANDIDATE` | `C` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
