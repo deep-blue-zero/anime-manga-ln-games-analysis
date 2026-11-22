@@ -25,6 +25,14 @@ This ledger is the canonical cumulative home for observation routes, claims, com
 
 Preserve source fact, inference, interpretation, speculative hypothesis and value judgment as distinct statement kinds. `TXT/FRM/CAV/AO/HL/AM` identify evidence routes; `INF/INT` identify analytical reasoning. Confidence, artifact authority and claim transition are separate dimensions. A high-confidence report is not a primary source.
 
+## Correction to the E01 closing lyric
+
+**SPV2-REV-E01-01 · REVISE the gloss in SPV2-PF-E01-05.** The original performance record describes “wanting to lie.” In the E01 Japanese subtitle witness, cue 397 (1260.910–1265.370 s) denies that there is any lie the lyric speaker wants to tell. The negative existential `あるわけないよ` scopes over `つきたい嘘`, a lie one wants to tell. Cue 400 (1265.370–1270.830 s) gives the speaker's resolve to keep believing and turn something into truth. The two lyric cues share a boundary. The intervening numbered cues 398 and 399 are spoken dialogue in a separate subtitle style.
+
+**PRESERVE SPV2-CLM-E01-14.** The frozen E01 reading's “wish not to tell a lie” is a compatible loose paraphrase. The narrower grammatical claim is the denial of a desire to tell a lie. The qualified claim that the closing lyric can illuminate the cousins' conversation survives the correction. The caption gives neither cousin a private wish to deceive. Its connection to their conversation remains an interpretation of the edit. This revision changes the lyric gloss in the performance record. It supplies no new character motive or directed relationship. The words as sung, vocal allocation and musical synchronization remain open.
+
+The evidence is TXT from the admitted SPV2-W-E01-JP witness in SPV2-W-E01-ZIP. The selected ASS SHA-256 is `ce93a24660eea14d9a4b31b10e33652dbf2d14520ceedf41e48ea45bd7f80b00`. The dialogue-index SHA-256 is `1a7c3f275f34a1de455644bca0c208432d8e605c2835d895e7983e3e52579094`. The two rows have style `ED-JP_EP01`. The responsible musical event remains in the [performance ledger](SHINEPOST_V2_PERFORMANCE_AND_FORM_LEDGER.md#correction-to-the-e01-closing-lyric).
+
 ## Stable records
 
 Assign IDs only to real records. IDs remain stable when formulations change; revisions have their own IDs.

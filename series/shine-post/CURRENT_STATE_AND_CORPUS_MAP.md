@@ -93,6 +93,8 @@ Continue from the accepted frontier in the structured state above. Keep material
 
 After the independent E12 freeze, intake and reconciliation proceed under the project protocol. Consequential residual disagreements go to Gemini for fresh source inspection, then to a human reviewer where required. The run authorizes episode-level reconciliation and propagation of supported changes. Final series synthesis and character monographs remain future work.
 
+The [E01–E03 entering-boundary audit](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_E01_E03_ENTERING_BOUNDARY_AUDIT.md) qualifies which prior states and open questions can be recovered for the three accepted units. Consult it before attributing a forecast to an entering reader. The [E01 closing lyric revision](V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_EVIDENCE_AND_CLAIM_LEDGER.md#correction-to-the-e01-closing-lyric) gives the current caption gloss and its hearing limit.
+
 ## Independent episode transactions
 
 [E01 reading](V2%20Analysis/02%20Sequential%20Episode%20Readings/SHINEPOST_V2_E01_DEEP_READING.md) · [E01 checkpoint](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_E01_INDEPENDENT_CHECKPOINT.md)

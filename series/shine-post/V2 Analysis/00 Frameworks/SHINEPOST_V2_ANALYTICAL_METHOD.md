@@ -5,7 +5,7 @@ artifact_type: analytical_method
 series: SHINE POST
 series_id: shine-post
 generation: V2
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "V2 episode method, AV companion responsibilities and evidence discipline; design only"
 source_boundary: "Japanese television anime E01–E12 intended; no V2 source admission or inspection at bootstrap"
@@ -69,7 +69,7 @@ Continuous visual sampling may be sparse. Native file frame rate is not model sa
 
 ## 5. Episode procedure
 
-1. **Bind the unit.** Read the entrypoint, method family, admitted witness, prior accepted exit state and relevant open claims. Record role assignments, inspection routes, prior exposure and required/optional channels. Preserve the actual prospective boundary, if any.
+1. **Bind the unit.** Read the entrypoint, method family, admitted witness, prior accepted exit state and relevant open claims. Record role assignments, inspection routes, prior exposure and required/optional channels. Before the crew inspects the unit's narrative evidence, freeze its entering state with the prior accepted frontier, relevant open questions, any expectations actually held and known exposure. Identify the recoverable receipt in the episode checkpoint. The reviewer also records a blind response after source inspection and before seeing colleagues' drafts. If entry evidence is missing after exposure, identify what predates exposure and qualify any prospective claim that it cannot establish.
 2. **Inspect the complete authorized unit.** Include relevant titles, credits, opening/ending variations and preview material within the witness. Identify scenes and event boundaries from the source. Log gaps, interruptions and sampling. A synopsis or selected clips cannot substitute for claimed full-episode inspection.
 3. **Write a concise story synopsis near the front.** State who does what, under which conditions, and what changes by the episode's end. The synopsis contains spoilers only through the declared source boundary and remains a causal account, not a list of themes.
 4. **Reconstruct causal and epistemic structure.** Trace triggers, options, decisions and consequences; chronology; what each person can know; concealment, misrecognition and delayed disclosure. Distinguish explanation from excuse, and capacity from willingness.

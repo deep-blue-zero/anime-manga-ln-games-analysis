@@ -25,6 +25,10 @@ This ledger owns cumulative musical-event and audiovisual-form records under [me
 
 Use stable `SPV2-PF-…` identities for real events/patterns. Separate the descriptive evidence from its psychological, relational or thematic interpretation. Required details depend on the claim; unavailable channels remain disclosed rather than filled by inference.
 
+## Correction to the E01 closing lyric
+
+**Current gloss for SPV2-PF-E01-05.** At 21:00.910–21:05.370, the Japanese closing lyric caption denies that there is any lie the speaker wants to tell. From 21:05.370–21:10.830, the next caption expresses the resolve to keep believing and turn something into truth. This supersedes the “wanting to lie” gloss in the preserved E01 event below. The reading's “wish not to tell a lie” captures the polarity loosely. The written Japanese directly denies wanting to tell one. The performed words, singer assignment and exact synchronization still require listening. [Claim revision and cue evidence](SHINEPOST_V2_EVIDENCE_AND_CLAIM_LEDGER.md#correction-to-the-e01-closing-lyric)
+
 ## Complete musical-event contract
 
 | Field group | Required content |
