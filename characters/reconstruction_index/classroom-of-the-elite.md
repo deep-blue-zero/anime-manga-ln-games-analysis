@@ -6,6 +6,63 @@ Recorded assessments of subjects in the `classroom-of-the-elite` namespace of th
 
 ## Recorded assessments
 
+### Subject `classroom-of-the-elite:ayanokoji-kiyotaka@original-light-novels-through-year-2`
+
+- Registry file: [`characters/reconstruction_capabilities/classroom-of-the-elite/ayanokoji-kiyotaka@original-light-novels-through-year-2.jsonl`](../reconstruction_capabilities/classroom-of-the-elite/ayanokoji-kiyotaka@original-light-novels-through-year-2.jsonl)
+
+<a id="classroom-of-the-elite-ayanokoji-kiyotaka-y2-specialist-20261122-01"></a>
+
+#### Assessment `classroom-of-the-elite-ayanokoji-kiyotaka-y2-specialist-20261122-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `classroom-of-the-elite:ayanokoji-kiyotaka`
+- Scope: continuity `classroom-of-the-elite-original-light-novels`
+- Source boundary: Only the subject's one curated REVIEWED item at basis\_commit: COTE\_Y2\_02\_AYANOKOJI\_CHARACTER\_PSYCHOLOGY\_ETHICS\_AND\_VOICE.md \(125,907 bytes, status canonical, veto false\), a specialist synthesis over the frozen Year 1 V2 conclusion, Japanese Y2V01-Y2V12.5, Volume 0 at its mandated position after Y2V08 and the Year 2 guidebook Second List, with Year-3 narrative evidence excluded. Read in full by the evaluator. The Ayanokoji character, ethics, relationship, voice and ordinary-life ledgers, the Y2 deep readings and the active\_provisional behavioral reconstruction protocol it routes to are not curated on this subject and were not used. The item's own statement that its evidence supports bounded voice realization is an input, not a conclusion; the evaluator performed no primary-source inspection.
+- Temporal boundary: Year-2 states Y2V01 through the Second List boundary \(Y2SL\), at the item's volume resolution: V01 visibility change and school-life priority; V05 culling; V06 training-wheels succession; V08 voluntary non-optimization and timing jurisdiction over Ichinose; V09.5 inefficient desire, Hiyori invitation, manipulation pleasure and the Kei romance audit; V10 involuntary smile and all-class project; V11 stopping rule; V12 relational sovereignty; V12.5 breakup and class transfer. Year 1 enters only as the item's frozen baseline and claim-transition ledger. His White Room formation and Atsuomi's preference engineering are his own history at every state; only the reader's access to them dates from Volume 0. No Year-3 state.
+- Basis commit: `e3571eb717f06a2fbe17b02c4a3f508a79573ede`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `932c5237e6333b4515dc5ba7be8c8a482db40dd54488bb02a7436d6c315fcac4`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative lines only, at a declared Year-2 state, never presented as quotation or as imitation of Japanese wording beyond the quoted anchors.
+  - `DIALOGUE` condition: Spoken lines are short, understated and unremarkable; interior analysis is never moved into speech, and he does not narrate his own manipulation \(12.5, 12.8\).
+  - `DIALOGUE` condition: Participant-mode wants \(an invitation, a stated desire to talk\) only where the relationship and state support them \(Hiyori V09.5, Horikita V11\).
+  - `DIALOGUE` condition: No dyad-specific address terms, sentence-final forms or acoustic delivery beyond what the item states.
+  - `CROSS_SCENARIO` condition: Chronology is one named Year-2 state between Y2V01 and Y2SL, defaulting to Y2SL; pre-V12.5 states assume he is still in Horikita's class and dating Kei; post-V12.5 states assume transfer and breakup.
+  - `CROSS_SCENARIO` condition: The interlocutor is a sampled relation in its recorded state \(Kei, Horikita, Ichinose, Sakayanagi, Hiyori, Ryuen\). Transfer to an unsampled classmate is a separate, lower-confidence condition that uses the stakes rule \(ordinary versus authored\) without invented history or attachment.
+  - `CROSS_SCENARIO` condition: Resolve in the item's order \(19.1\): what he knows, scene type, current want, how the other's answer matters, formal authority, epistemic advantage, reason to intervene, a lower-control route, whether the V11 stopping rule is supported, then speech.
+  - `CROSS_SCENARIO` condition: Early decisive disclosure \(Y1H-004\), protective or corrective vulnerability \(Y1H-035\), generalization of the stopping rule to a new high-stakes relation, acceptance of a project-destroying answer, irreplaceability of a new person and response to his own genuine failure are output as open forks.
+  - `CROSS_SCENARIO` condition: His model of another person is output as his model, not as that person's true state \(19.4\).
+  - `CROSS_SCENARIO` bounds: chronology One named Year-2 state from Y2V01 to Y2SL, defaulting to Y2SL; Year 1 only at the summarized baseline; no Year-3 events. His White Room history is his knowledge at every state.; interlocutor Sampled relations in their recorded state: Kei as partner then ex-partner, Horikita as trusted independent leader kept outside the transfer timetable, Ichinose as cared-for person then counter-author, Sakayanagi as recognizing rival, Hiyori as low-control friend, Ryuen as rival; an unsampled classmate only at lower confidence.; settings Advanced Nurturing High School: classes, special examinations, inter-class competition and ordinary school life; No adult, occupational or post-graduation setting; No White Room recapture or post-transfer outcome beyond Y2SL; Named abstention zones end in an open fork
+  - `MUNDANE_SOCIAL` condition: Low-stakes ordinary scenes with sampled relations \(Hiyori books and invitations, Horikita purposeless talk, Kei domestic routine, group outings\), at a declared state.
+  - `MUNDANE_SOCIAL` condition: Prefer ordinary response families; do not invent a secret test without evidence that he has framed the encounter developmentally.
+  - `MUNDANE_SOCIAL` condition: Exact topic, joke, purchase and emotional phrasing stay open \(19.7\).
+  - `MUNDANE_SOCIAL` condition: Transfer to an unsampled classmate is a separate, lower-confidence condition.
+  - `ETHICAL_DELIBERATION` condition: Questions of intervention, information, timing, culling, protection and succession inside the school system, using the located V03-V12.5 cases.
+  - `ETHICAL_DELIBERATION` condition: Under high stakes, expect environmental authorship with formally voluntary final acts; output authored conditions as authored \(19.3\).
+  - `ETHICAL_DELIBERATION` condition: The V11 stopping rule is available only where its favorable conditions hold; its generalization stays an open fork.
+  - `ETHICAL_DELIBERATION` condition: Early decisive disclosure and protective vulnerability stay open \(Y1H-004, Y1H-035\).
+  - `ROMANCE_RELATIONSHIP` condition: Kei only, at a declared state up to the V12.5 breakup, or the post-breakup residue the item records \(second rice bowl, V12.5\).
+  - `ROMANCE_RELATIONSHIP` condition: Real attraction, routine and attentiveness coexist with curriculum framing and decisive non-disclosure; neither cold ex-partner nor conventional lover \(19.6\).
+  - `ROMANCE_RELATIONSHIP` condition: Irreplaceability is not established \(V09.5, Y1H-011\); any new partner is outside scope.
+  - `PROFESSIONAL_CONTEXT` condition: School-institutional strategy only: special examinations, class competition, hidden support, succession design and the all-class project \(V04-V12.5\).
+  - `PROFESSIONAL_CONTEXT` condition: He prefers no visible office and hidden accountability \(section 4 table, Leadership row\); do not give him formal command.
+  - `PROFESSIONAL_CONTEXT` condition: No adult occupational setting.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` B; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` B; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `companion-ledgers-uncurated` (evidence gap): The Ayanokoji character, ethics, relationship, voice and ordinary-life ledgers and the Y2 deep readings are not curated on this subject.
+  - `motive-weights-underdetermined` (evidence-backed limitation): Several motives \(class ecology, care, curiosity, threat dislike, manipulation pleasure, exit preservation\) can drive one act, and their relative weight may be underdetermined.
+  - `post-failure-response-unknown` (evidence-backed limitation): His response to a genuine personal failure of control, and Horikita's response to witnessing one \(Y1H-016\), are beyond the corpus.
+  - `selective-narration-and-focalization` (evidence-backed limitation): His narration is selective about motive and scale of authorship, and V12.5 temporarily misaligns focal ownership toward Kei.
+  - `stopping-rule-not-generalized` (evidence-backed limitation): The V11 jurisdictional stopping rule is in his repertoire but not a governing norm; V12 shows it failing under high stakes.
+  - `voice-crosswalk-open` (evidence-backed limitation): Per-dyad address terms, sentence-final and pronoun frequencies and a narration-mode classifier are recorded as open voice work.
+  - `volume-level-locators` (evidence gap): Claims are located by volume with few quotations and no page locators.
+  - `y1h-004-disclosure-open` (evidence-backed limitation): Whether he will voluntarily disclose decisive information early enough for informed relational choice is a strict abstention zone; V12 supplies adverse evidence.
+  - `y1h-035-vulnerability-open` (evidence-backed limitation): Ordinary imperfection, embarrassment and the V10 smile do not establish that he grants anyone protective or corrective authority over him.
+  - `year1-summary-only` (evidence gap): Year-1 states enter only through the frozen baseline and claim-transition ledger; no Year-1 state is reconstructed in detail here.
+- Evidence at basis commit:
+  - [`classroom-of-the-elite:ayanokoji-kiyotaka@original-light-novels-through-year-2#cote-y2-02-ayanokoji-character-psychology-ethics-and-voice`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e3571eb717f06a2fbe17b02c4a3f508a79573ede/series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/05%20Year-Level%20Synthesis/COTE_Y2_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md)
+
 ### Subject `classroom-of-the-elite:horikita-suzune@original-light-novels-through-year-2`
 
 - Registry file: [`characters/reconstruction_capabilities/classroom-of-the-elite/horikita-suzune@original-light-novels-through-year-2.jsonl`](../reconstruction_capabilities/classroom-of-the-elite/horikita-suzune@original-light-novels-through-year-2.jsonl)

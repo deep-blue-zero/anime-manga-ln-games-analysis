@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 216; `STALE` 1; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 216; `STALE` 3; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -26,14 +26,14 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`azur-lane`](reconstruction_index/azur-lane.md) | 5 | 5 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
 | [`chiramune`](reconstruction_index/chiramune.md) | 3 | 3 |
-| [`classroom-of-the-elite`](reconstruction_index/classroom-of-the-elite.md) | 1 | 1 |
+| [`classroom-of-the-elite`](reconstruction_index/classroom-of-the-elite.md) | 2 | 2 |
 | [`cornered-mouse`](reconstruction_index/cornered-mouse.md) | 4 | 4 |
 | [`cosmic-princess-kaguya`](reconstruction_index/cosmic-princess-kaguya.md) | 1 | 1 |
 | [`genshin-impact`](reconstruction_index/genshin-impact.md) | 1 | 1 |
 | [`harmony`](reconstruction_index/harmony.md) | 1 | 1 |
 | [`idoly-pride`](reconstruction_index/idoly-pride.md) | 1 | 1 |
 | [`kamakura-sho`](reconstruction_index/kamakura-sho.md) | 2 | 5 |
-| [`kimishinu`](reconstruction_index/kimishinu.md) | 1 | 1 |
+| [`kimishinu`](reconstruction_index/kimishinu.md) | 2 | 2 |
 | [`konosuba`](reconstruction_index/konosuba.md) | 19 | 19 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 2 | 2 |
@@ -94,6 +94,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `chiramune:asuka-nishino@light-novel` | [`chiramune-asuka-nishino-light-novel-asuka-monograph-20261117-01`](reconstruction_index/chiramune.md#chiramune-asuka-nishino-light-novel-asuka-monograph-20261117-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
 | `chiramune:haru-aomi@light-novel` | [`chiramune-haru-aomi-light-novel-haru-monograph-20261117-01`](reconstruction_index/chiramune.md#chiramune-haru-aomi-light-novel-haru-monograph-20261117-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
 | `chiramune:yua-uchida@light-novel` | [`chiramune-yua-uchida-light-novel-yua-monograph-20261115-01`](reconstruction_index/chiramune.md#chiramune-yua-uchida-light-novel-yua-monograph-20261115-01) | `CANDIDATE` | `C` | `7d8ece76cbefeea3eb1d7cd02d4ca99e41966d4a` |
+| `classroom-of-the-elite:ayanokoji-kiyotaka@original-light-novels-through-year-2` | [`classroom-of-the-elite-ayanokoji-kiyotaka-y2-specialist-20261122-01`](reconstruction_index/classroom-of-the-elite.md#classroom-of-the-elite-ayanokoji-kiyotaka-y2-specialist-20261122-01) | `CANDIDATE` | `B` | `e3571eb717f06a2fbe17b02c4a3f508a79573ede` |
 | `classroom-of-the-elite:horikita-suzune@original-light-novels-through-year-2` | [`classroom-of-the-elite-horikita-suzune-y2-specialist-20261115-01`](reconstruction_index/classroom-of-the-elite.md#classroom-of-the-elite-horikita-suzune-y2-specialist-20261115-01) | `CANDIDATE` | `B` | `77ce4cedf3a09bd7ad0c134dfb1be830d7f683d6` |
 | `cornered-mouse:imagase@manga` | [`cornered-mouse-imagase-manga-complete-witness-readings-20261122-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-imagase-manga-complete-witness-readings-20261122-01) | `CANDIDATE` | `C` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
 | `cornered-mouse:kyoichi-otomo@manga` | [`cornered-mouse-kyoichi-otomo-manga-complete-witness-readings-20261122-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-kyoichi-otomo-manga-complete-witness-readings-20261122-01) | `CANDIDATE` | `C` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
@@ -109,6 +110,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `kamakura-sho:motoya-kitsukawa@original-novel` | [`kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-v2-monograph-20261116-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-v2-monograph-20261116-01) | `CANDIDATE` | `B` | `f979bbe513c5013ec494c6268aca5168ff39296b` |
 | `kamakura-sho:motoya-kitsukawa@original-novel` | [`kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01) | `SUPERSEDED` | `C` | `6238b9e49be575ab682092ce353940d194b9c6c3` |
 | `kimishinu:haru@manga-v09-side-stories` | [`kimishinu-haru-manga-v09-side-stories-monograph-20261116-01`](reconstruction_index/kimishinu.md#kimishinu-haru-manga-v09-side-stories-monograph-20261116-01) | `CANDIDATE` | `B` | `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27` |
+| `kimishinu:totsuki-sheena@manga-v09-side-stories` | [`kimishinu-totsuki-sheena-manga-v09-side-stories-monograph-20261122-01`](reconstruction_index/kimishinu.md#kimishinu-totsuki-sheena-manga-v09-side-stories-monograph-20261122-01) | `CANDIDATE` | `B` | `e3571eb717f06a2fbe17b02c4a3f508a79573ede` |
 | `konosuba:amaryllis@original-light-novel` | [`konosuba-amaryllis-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-amaryllis-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:angie@original-light-novel` | [`konosuba-angie-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-angie-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:aqua@original-light-novel` | [`konosuba-aqua-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-aqua-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `B` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
@@ -129,8 +131,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `konosuba:vanir@original-light-novel` | [`konosuba-vanir-ln-mask-main17-monograph-20261027-01`](reconstruction_index/konosuba.md#konosuba-vanir-ln-mask-main17-monograph-20261027-01) | `CANDIDATE` | `D` | `e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da` |
 | `konosuba:yorimichi04-retired-dark-stalker@original-light-novel` | [`konosuba-yorimichi04-retired-dark-stalker-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-yorimichi04-retired-dark-stalker-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `legend-of-the-galactic-heroes:yang-wen-li@original-novels` | [`legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01`](reconstruction_index/legend-of-the-galactic-heroes.md#legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01) | `CANDIDATE` | `C` | `589435c3ebada7c66aac6b44ed014876d9050423` |
-| `lycoris-recoil:inoue-takina@television-anime` | [`lycoris-recoil-inoue-takina-tv-v2-ledgers-20261121-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-inoue-takina-tv-v2-ledgers-20261121-01) | `CANDIDATE` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
-| `lycoris-recoil:nishikigi-chisato@television-anime` | [`lycoris-recoil-nishikigi-chisato-tv-v2-ledgers-20261121-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-nishikigi-chisato-tv-v2-ledgers-20261121-01) | `CANDIDATE` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
+| `lycoris-recoil:inoue-takina@television-anime` | [`lycoris-recoil-inoue-takina-tv-v2-ledgers-20261121-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-inoue-takina-tv-v2-ledgers-20261121-01) | `STALE` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
+| `lycoris-recoil:nishikigi-chisato@television-anime` | [`lycoris-recoil-nishikigi-chisato-tv-v2-ledgers-20261121-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-nishikigi-chisato-tv-v2-ledgers-20261121-01) | `STALE` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `mass-effect:commander-shepard@paragon-player-archetype` | [`mass-effect-paragon-shepard-archetype-20261023-01`](reconstruction_index/mass-effect.md#mass-effect-paragon-shepard-archetype-20261023-01) | `CANDIDATE` | `D` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
 | `mass-effect:commander-shepard@renegade-player-archetype` | [`mass-effect-renegade-shepard-archetype-20261109-01`](reconstruction_index/mass-effect.md#mass-effect-renegade-shepard-archetype-20261109-01) | `CANDIDATE` | `D` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `medalist:inori-yuitsuka@manga` | [`medalist-inori-yuitsuka-manga-v01-v15-monograph-20261118-01`](reconstruction_index/medalist.md#medalist-inori-yuitsuka-manga-v01-v15-monograph-20261118-01) | `CANDIDATE` | `C` | `3fe7c1f414e92b3555444bd1342cc3bb13fe0b26` |
