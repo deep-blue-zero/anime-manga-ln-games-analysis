@@ -1,7 +1,7 @@
 ---
 series: GBC
 artifact_type: longitudinal_ledger
-scope: "Music, performance and authorship; checkpoint-reconciled E01–E11"
+scope: "Music, performance and authorship; E01–E12"
 analysis_generation: V2
 status: canonical
 source_boundary: "GBC-V2-SOURCE-LOCK-1.0; episode-local V2 readings and three frozen checkpoints"
@@ -33,3 +33,7 @@ The entries below were first assembled at the E11 boundary from all eleven episo
 | MUSIC-11 | [E11 §§4,13](../02%20Sequential%20Readings/GBC_E11_DEEP_READING.md) | Arrangement subtraction, soundcheck, MC and 空白とカタルシス | Momoka can remove her own guitar line for clarity. Nina writes the lyrics, sings and explicitly names the claims she means to answer. The ensemble accepts the song as theirs. CP3 §14 admits conflict into lyric and performance form while preserving the open question of specific chord, rhythm or instrumental causality. |
 
 Checkpoint routes by evidence boundary: [E04](../02%20Sequential%20Readings/GBC_E01-E04_CHECKPOINT.md), [E08](../02%20Sequential%20Readings/GBC_E05-E08_CHECKPOINT.md), [E11](../02%20Sequential%20Readings/GBC_E09-E11_CHECKPOINT.md).
+
+## E12 · Studio, concert proposal and release
+
+At the hot pot Momoka records an idea, then supplies tentative lyrics for 運命の華. Other members suggest reordering the music. At 15:41–16:18 a trendy modulation is considered and Nina asks if the result still expresses all five. C015 remains open for the precise change retained. Nakata’s later judgement reflects weeks of work. [Episode 12](../02%20Sequential%20Readings/GBC_E12_DEEP_READING.md)

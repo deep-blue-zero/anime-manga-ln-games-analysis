@@ -6,11 +6,11 @@ status: active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E11
+source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E12
 materialization_authorized_at: checkpoint 2, E08 boundary
 physically_materialized_at: after checkpoint 3, E11 boundary
 bootstrap_evidence: canonical V2 E01-E11 readings and frozen E01-E04, E05-E08, and E09-E11 checkpoints
-mutable_state: E11-reconciled
+mutable_state: E12 bundle-lane close
 update_pattern: append or revise after E12, E13, and the final checkpoint, retaining material revisions
 ---
 
@@ -69,3 +69,14 @@ The individual rules retain the identifiers and current formulations in frozen c
 The frozen CP2 P20 restriction on Tomo making permanent judgments was contradicted in E09 §4.10 by Tomo's lifetime prediction to Nina. Record that universal restriction as **rejected**, even though Tomo's immediate technical assessment remains independently supportable. E11's bounded criticism preserves the other branch. Checkpoint 3 §4.2 and §20 retain the original test and its consequence. CP2 P20 and the replacement Tomo rule must remain separately retrievable.
 
 The earlier state of each rule family is in checkpoint 1 §13 and checkpoint 2 §16. Checkpoint 3 §§5–13 and 20 preserve the arguments and counterexamples behind the current entries. Music-specific, formal and institutional checkpoint rules continue in their respective topical ledgers. The E12–E13 prospective register remains in frozen checkpoint 3 §23.
+
+## E12 · Tests and exceptions carried forward
+
+| Working rule | Trigger, response and partner | E12 disposition and limit |
+|---|---|---|
+| NINA-CP3-R01, R04, R05, R09 | At 06:28–06:42 Nina leaves her guitar ability unresolved while insisting on making the chosen life feel worthwhile together. She works on the release and, at 16:30–16:57, argues for singing despite structural disadvantages. | Strengthen stake-sensitive calibration and positive musical commitment. First sight of 103 and `なんだこれ` at 22:01–22:10 supply a new adverse condition. The subsequent effect on self-liking and demand for correctness remains open. |
+| NINA-CP3-R07 and HINA-CP3-R02 | 13:34–13:44, Nina qualifies her account as the Hina she knows but speaks for Hina's relationship to self-advantage. At 18:16–18:46 she confronts Momoka's first answer before Momoka states her own fear. | Preserve the distinction between recognizing another's limits and always respecting them. Momoka testifies for herself. Hina supplies no corresponding interview, appearance or intention. |
+| MOMOKA-CP3-R02, R05 | Momoka works, drafts words about the group, tries revisions and worries about sounding dated. At 18:32–18:45 she explains how seriously writing revives the fear of a repeat loss. | Strengthen coexistence of professional action and fear. This is anticipatory pressure. Her response to the 103 displayed to Nina remains untested in this unit. The lyric draft is Momoka's, unlike the E11 lyric. |
+| SUBARU-CP3-R02, TOMO-CP3-R01 and ENSEMBLE-CP3-R03 | A majority vote at 13:58–14:10 follows the argument over comparable audiences. Tomo and Rupa have already questioned a different inference, from hard work to actual uptake, at 10:42–11:07. Rupa later reframes who has standing to make the next decision. | Strengthen distributed correction. The new bounded warnings coexist with the E09 lifetime verdict. The return to work tests continuation after disagreement, before the release figure arrives. |
+| E12-RUPA-01 · provisional local extension | At 17:08–17:21 Rupa proposes that the person with the closest history with the rival, Momoka, should decide, even though Rupa herself earlier voted differently. | Strong for the offered procedure in this case. The apparent aim is to give relevant history weight within a collective choice. It supplies no standing veto, general hierarchy, or result for Rupa's family-specific rules. |
+| ENSEMBLE-CP3-R02 and MATERIAL-CP3-R01 | In a proposed two-day booking two separate audiences would decide the competition by sales and attendance. On hearing Miura's exposure/reputational tradeoff, Nina still argues that an opportunity to play matters (12:19–13:26, 14:25–15:01, 16:30–16:57). | Strengthen distinct aims inside shared work and the institutional costs of choice. Agency opponents' private motives, a final contract signature and the show's attendance are open at E12. |

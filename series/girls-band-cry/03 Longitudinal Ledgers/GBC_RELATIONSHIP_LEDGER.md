@@ -6,11 +6,11 @@ status: active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E11
+source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E12
 materialization_authorized_at: checkpoint 2, E08 boundary
 physically_materialized_at: after checkpoint 3, E11 boundary
 bootstrap_evidence: canonical V2 E01-E11 readings and frozen E01-E04, E05-E08, and E09-E11 checkpoints
-mutable_state: E11-reconciled
+mutable_state: E12 bundle-lane close
 update_pattern: append or revise after E12, E13, and the final checkpoint, retaining material revisions
 ---
 
@@ -41,3 +41,13 @@ The routes name each partner because a change in one direction may have no recip
 | Five-person band ↔ one another | Trio disagreement survives the first live (E03 §§4.9–4.12, E04 §4.11). The five first play together before agreeing on a destination (E06 §§4.14–4.16). Ordinary shared space, injury and continued work test participation (E09 §§4.4–4.6, 4.20–4.21). | Contrary judgments can lead to a second evaluator or an arrangement revision. The group allows absence for family contact and holds different reasons for music (E10 §§4.17, 4.26; E11 §§4.2, 4.8). | High for repeated return, distributed correction and shared work. One surviving conflict and a strong performance cannot prove permanent agreement or a response to future failure. |
 
 The binding earlier relationship formulations remain in checkpoint 1 §8, checkpoint 2 §11 and checkpoint 3 §11. The behavioral ledger preserves the E11 rules `RELATION-CP3-R01` through `R03`; this ledger supplies the partner-specific trajectories and limits needed to retrieve those rules.
+
+## E12 · New decisions inside established ties
+
+| Pair or group | Episode evidence | Change and limit |
+|---|---|---|
+| Nina ↔ Momoka ↔ ensemble | 15:58–16:16, Nina asks whether successive revisions still express their song and Momoka's draft. At 18:16–19:22 she presses for disclosure; Momoka voices fear of loss. Nina asks for an enduring shared future and explicitly names the five. | Recognition and reliance persist inside differentiated authorship. Nina's ability to notice distress coexists with pressure to disclose it. The shrine's group pledge and little-finger imagery add no conventional reciprocal couple designation. |
+| Nina ↔ Hina; Subaru ↔ Nina | 13:27–13:47. Subaru asks what the rival band thinks. Following Momoka's brief admission of ignorance, the shot shifts to Nina for the words about the Hina she knows. | The inference is Nina's historically situated report. Neither Subaru's question nor Miura's later uncertainty supplies Hina's current account or proves the band's financial motives. |
+| Tomo ↔ Rupa ↔ former coworkers | 01:58–02:10 and 04:37–05:32. Both prioritize their restaurant's final shift, receive copies of the contract and accept thanks in the workplace. At 10:42–11:07 they separately qualify Nina's hopes of reaching listeners. | Shared wage work and musical collaboration overlap without making them one voice. The episode supplies no evidence of change in the two family relationships. |
+| Five ↔ Miura | 11:56–15:01. A split vote produces a refusal which Miura agrees to convey. In answer to Nina she gives the case for exposure and the case against an unfavorable public comparison. At 16:30–17:21 the band reopens the decision; Rupa's own favorable vote does not prevent her from proposing Momoka as decision maker. | Distinguish an agent's duty to communicate, her own ambivalent advice, and the band's discretion. Neither rival intention nor the exact offscreen receipt of the revised decision is established. |
+| Band ↔ Nakata and Miura | 19:58–21:26. Nakata praises what he recognizes in the arrangement after weeks working alongside them. Miura likes it and believes it will sell. They have different roles and grounds for their judgments. | Professional recognition can be genuine regardless of how many people press play. The 103 displayed to Nina is one count at one check and supplies neither coworker's later response. |

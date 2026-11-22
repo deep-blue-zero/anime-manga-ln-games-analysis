@@ -1,7 +1,7 @@
 ---
 series: GBC
 artifact_type: longitudinal_ledger
-scope: "Visual form and direction; checkpoint-reconciled E01–E11"
+scope: "Visual form and direction; E01–E12"
 analysis_generation: V2
 status: canonical
 source_boundary: "GBC-V2-SOURCE-LOCK-1.0; episode-local V2 readings and three frozen checkpoints"
@@ -33,3 +33,7 @@ The entries below were first assembled at the E11 boundary from all eleven episo
 | VISUAL-11 | [E11 §14](../02%20Sequential%20Readings/GBC_E11_DEEP_READING.md) | Unequal stages, returned guitar and montage during performance | Stage geography allocates visibility. Returning the guitar makes Nina's local assessment of skill observable. The histories adjacent to the song belong to the direction of the scene. No evidence gives Nina first-person access to everyone’s memories. |
 
 Checkpoint routes by evidence boundary: [E04](../02%20Sequential%20Readings/GBC_E01-E04_CHECKPOINT.md), [E08](../02%20Sequential%20Readings/GBC_E05-E08_CHECKPOINT.md), [E11](../02%20Sequential%20Readings/GBC_E09-E11_CHECKPOINT.md).
+
+## E12 · Studio, concert proposal and release
+
+Two group photographs carry different purposes (frames 22 and 568). The distinct raised hands at frames 797–804 establish the 2–3 vote. Shrine frames 1004, 1013 and 1014 expand a two-person address to five participants. Frames 1132/1136 repeat the same reading of 103; no second commercial result is implied. [Episode 12](../02%20Sequential%20Readings/GBC_E12_DEEP_READING.md)

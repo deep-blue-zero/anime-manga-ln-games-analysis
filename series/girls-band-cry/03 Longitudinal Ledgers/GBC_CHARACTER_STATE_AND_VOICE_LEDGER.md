@@ -6,11 +6,11 @@ status: active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E11
+source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E12
 materialization_authorized_at: checkpoint 2, E08 boundary
 physically_materialized_at: after checkpoint 3, E11 boundary
 bootstrap_evidence: canonical V2 E01-E11 readings and frozen E01-E04, E05-E08, and E09-E11 checkpoints
-mutable_state: E11-reconciled
+mutable_state: E12 bundle-lane close
 update_pattern: append or revise after E12, E13, and the final checkpoint, retaining material revisions
 ---
 
@@ -47,3 +47,14 @@ The episode and section numbers below refer to the canonical V2 readings in [02 
 | E11 §§4.17–4.22, 18:21–23:34 | Momoka ↔ Nina, then Nina → audience and Momoka | Recognize lyric authorship, adapt the set, stake a claim publicly and ask for private reassurance | Momoka changes possessive scope from `仁菜の歌` to `私たちの歌`. Nina's `ギター 弾けません` is bounded, while `私 間違ってないですよね` seeks assent | Nina gives the guitar back, sings and later asks Momoka privately. High for order and language. Isolated breath or synchronization remains untested here | A performer can make a forceful public claim and still need private validation. One technical failure can stay local. |
 
 Each row combines relevant dimensions from architecture §6.1. An unreported pronoun, dialect cue, hesitation, overlap or delivery quality stays unassigned. The episode's own audio qualification governs each recital. Compare Nina's repetition across E01, E06 and E07, partner-specific politeness across E03, E05 and E09, and the difference between Rupa's uncertainty markers and Tomo's temporal absolutes in E09–E11.
+
+## E12 · Professional work changes the audience for an utterance
+
+| Scene and interlocutor | State, Japanese construction and action | Significance and confidence |
+|---|---|---|
+| Nina ↔ Momoka, 05:55–06:42 | The failed attempt to cut a pumpkin reopens the old sheltered-girl joke. Nina acknowledges ignorance, insists she has learned and adds `ギターはまだですけど`. Asked whether choosing this life was right, she uses future-oriented `そう思えるようにするんです` and includes everyone. | High for self-assessment and wording. A skill gap remains local, and the justification for a career is still being made. |
+| Nina → band, 13:34–13:44, 15:58–16:16 and 16:30–16:57 | `少なくとも私の知ってるヒナ` limits the perspective Nina claims, while still imputing a position to Hina. Polite `気がするんです` and `と思うんです` invite reconsideration of a musical decision. Later she presses a categorical norm about where the band ought to sing. | High for the wording and strong for Nina attribution from frames 768–775 and E11's history. Politeness can soften epistemic scope within one turn and press a collective demand in another. Hina's own position remains unknown. |
+| Momoka ↔ Nina and the others, 08:23–08:40, 18:16–18:46 | Momoka invokes a working adult's responsibility to remember names, then mistakes Nakata for Tanaka. At the shrine she first cites difficulty composing and then says `怖いんだよ`, tying greater investment to fear of renewed loss. | High for the two spoken accounts. Nina's challenge draws out more of the answer. Difficulty with the song and recalled loss can coexist. Vocal quality remains unverified. |
+| Tomo and Rupa → Nina, 10:42–11:07; Rupa → band, 17:08–17:21 | Tomo's short warning that circulation is difficult and Rupa's polite acknowledgment that nobody may take up a release contest Nina's inference from hard work. Rupa later proposes giving Momoka the decision about the rival bill and opens space for assent. | Strong for the distinct intervention, provisional for the final short turn's exact speaker. No reference here to Rupa's family loss is warranted. |
+| Subaru → peers and agency, 13:27–14:28 and 15:04–15:23 | Subaru's question about what Diamond Dust's members think precedes a different speaker's account of Hina. She helps move the five toward a vote, then asks Nina whether the refusal still bothers her. | Strong for organizing and following up. Decisive source distinctions are the changes at frames 763, 768 and 775. Family disclosure has no new test. |
+| Miura → five, 14:25–15:01 and 21:08–21:26; Nina alone, 21:47–22:10 | `正直わかりません` closes Miura's account of mixed institutional incentives. She later voices faith in the song's prospects. Nina's repeated prayer reduces the desired number from a billion to ten thousand; the handset shows 103 and she asks `なんだこれ`. | High for addressee, stated values and on-screen figure. Miura's forecast does not settle market response. No later behavior after the first shock can be inferred from this unit. |

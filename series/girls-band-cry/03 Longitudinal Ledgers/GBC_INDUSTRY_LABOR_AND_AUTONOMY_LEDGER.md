@@ -1,7 +1,7 @@
 ---
 series: GBC
 artifact_type: longitudinal_ledger
-scope: "Industry, labor and autonomy; checkpoint-reconciled E01–E11"
+scope: "Industry, labor and autonomy; E01–E12"
 analysis_generation: V2
 status: canonical
 source_boundary: "GBC-V2-SOURCE-LOCK-1.0; episode-local V2 readings and three frozen checkpoints"
@@ -33,3 +33,7 @@ The entries below were first assembled at the E11 boundary from all eleven episo
 | INDUSTRY-11 | [E11 §15](../02%20Sequential%20Readings/GBC_E11_DEEP_READING.md) | Paid rehearsal, festival substitution, stage hierarchy and soundcheck | The slot depends on another act's withdrawal. Stage size and audience flow affect the comparison with Diamond Dust. Coordination with engineers and staff makes a set possible. Artistic value, market viability and negotiating strength require different evidence. |
 
 Checkpoint routes by evidence boundary: [E04](../02%20Sequential%20Readings/GBC_E01-E04_CHECKPOINT.md), [E08](../02%20Sequential%20Readings/GBC_E05-E08_CHECKPOINT.md), [E11](../02%20Sequential%20Readings/GBC_E09-E11_CHECKPOINT.md).
+
+## E12 · Studio, concert proposal and release
+
+¥200,000 salary, unquantified revenue share, last shift and ¥79,200 guitar place professional work against household spending. The two-night Club Citta proposal offers a drama theme according to sales and attendance. Separate audiences favor existing draw. 1,300 on the proposal and 103 on the release app measure different things. [Episode 12](../02%20Sequential%20Readings/GBC_E12_DEEP_READING.md)

@@ -1,10 +1,10 @@
 ---
 series: GBC
 artifact_type: longitudinal_ledger
-scope: E01-E11
+scope: E01-E12
 analysis_generation: V2
 status: active_provisional
-source_boundary: GBC-V2-SOURCE-LOCK-1.0 through E11, checkpoint-reconciled
+source_boundary: GBC-V2-SOURCE-LOCK-1.0 through E12, including the E11 checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -177,3 +177,7 @@ The status column uses the first decision verb in the latest recorded assessment
 | GBC-V1-C082 | Nina's father apparently refraining from lighting a cigarette may imply reciprocal family influence. | OPEN | Awaiting a diagnostic adjudication. Verify shot sequence and avoid overclaiming intention. | [Revision baseline](../01%20Source%20Lock%20and%20Inventory/GBC_V1_BASELINE_AND_REVISION_TARGETS.md) | Baseline OPEN. No ID-specific transition through CP3. |
 | GBC-V1-C083 | The van breakdown materializes the logistical cost of independence. | OPEN | Awaiting a diagnostic adjudication. Verify literal status and narrative placement. | [Revision baseline](../01%20Source%20Lock%20and%20Inventory/GBC_V1_BASELINE_AND_REVISION_TARGETS.md) | Baseline OPEN. No ID-specific transition through CP3. |
 | GBC-V1-C084 | The phone transition from Momoka's `Kara no Hako` to Togenashi Togeari's `Dare ni mo Narenai Watashi Dakara` may symbolize movement from salvific attachment to collective present. | OPEN | Awaiting a diagnostic adjudication. Audit exact audiovisual sequence and lyric relationship. | [Revision baseline](../01%20Source%20Lock%20and%20Inventory/GBC_V1_BASELINE_AND_REVISION_TARGETS.md) | Baseline OPEN. No ID-specific transition through CP3. |
+
+## E12 · Studio, concert proposal and release
+
+C006/C014/C070 STRENGTHEN (paid work, revenue share and Miura’s candor); C008/C033 STRENGTHEN (Momoka’s draft and five-person revision). REJECT V1’s Nina hot-pot attribution and Subaru Hina-impression attribution (frames 447–449 and 763–771). C015 REVISE to demonstrated discussion, audible retained parameter OPEN. C021/C023/C028/C048/C051 STRENGTHEN in the reading’s bounded scope. C052–056 OPEN for individual motives behind the offer. C059/C060/C062 PRESERVE. C066 STRENGTHEN for visible states, C069 OPEN for timing. C005/C071 REVISE to 103 plays at one check. [Episode 12](../02%20Sequential%20Readings/GBC_E12_DEEP_READING.md)
