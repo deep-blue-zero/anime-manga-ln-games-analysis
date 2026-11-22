@@ -107,6 +107,11 @@ by the [checkpoint errata](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#v04).
   reviewer saw them on its first contact sheet, while the principal's entering state, freezes and MAIN_EXIT came before
   it opened either. The cover and flap carry no V04 narrative content, and no forecast item or review judgment is
   affected (errata FXK-ERR-V04-01, -02).
+- *Agent B's B4-J01 scored as frozen.* §M.8 keeps Agent B's reported result and labels it the relaxed, event-only
+  result, and adds the literal score: B4-J01 named a 1,000,000 loan and the page executes 2,000,000, so its literal
+  outcome is NO. Agent B's literal V04 tally is 27 confirmed and 46 disconfirmed of 73, Brier 0.20849 (relaxed: 28 and
+  45, 0.20164). The conclusion against the 0.250 baseline and the plot finding are unchanged. Ledger FXK-V04-F136;
+  errata FXK-ERR-V04-03.
 
 No other text changed.
 
@@ -1624,10 +1629,20 @@ status of the i0148 コミチア panel; V04-U05 Mebuki's short after i0068 (no o
 
 The financial specialist froze five sets of subjective-probability prospects in its own lane, the first before any V04
 image and each later one after a separator page and before the next chapter's first page (verbatim in the checkpoint). It
-made no market-direction prospect. Its own scores are kept; the principal checked them against the page and the
-forecasts' wording and notes two: B4-J01 (the loan was executed at 2,000,000, not 1,000,000) and B4-J10 (only projected
-interest amounts were printed, not accrued or repaid ones). Agent B's calibration over the 73 items: Brier 0.202 against
-0.250 for a constant 0.5; it over-predicted closures (0 of 17 occurred) and under-predicted the funding chain.
+made no market-direction prospect. Its own scores are kept as its reported result, which is a relaxed, event-only
+score; the principal checked them against the page and the forecasts' wording and notes two: B4-J01 (the loan was
+executed at 2,000,000, not 1,000,000) and B4-J10 (only projected interest amounts were printed, not accrued or repaid
+ones). Agent B's relaxed, event-only calibration over the 73 items: Brier 0.202 against 0.250 for a constant 0.5; it
+over-predicted closures (0 of 17 occurred) and under-predicted the funding chain.
+
+**Literal score (version 1.1).** The method calls for materially testable forecasts frozen before the resolving pages,
+so the calibration that counts scores each forecast as frozen. B4-J01 names "Mochiko's 1,000,000 loan"; the loan the
+page executes is 2,000,000 (the IOU "金 2,000,000 円也", i0145; "+2,000,000円入金", i0146), so its literal outcome is NO.
+B4-J10 stays YES as written, because its frozen parenthesis admits "any yen figure beyond the rate". With every other
+disposition held fixed, the literal result is 27 confirmed and 46 disconfirmed of 73, Brier 0.208 (0.20849), against
+0.202 (0.20164) for Agent B's relaxed result (ANALYST CALCULATION from ledger FXK-V04-F091–F163: the B4-J01 term moves
+from 0.0625 to 0.5625, which adds 0.5/73). The conclusion against the 0.250 baseline is unchanged. So is the plot
+finding: Mochiko did lend Mebuki the money. The literal score concerns how precisely the forecast anticipated it.
 
 | ID | Prospect (short; Agent B's probability) | Disposition | Locator |
 |---|---|---|---|
@@ -1671,7 +1686,7 @@ interest amounts were printed, not accrued or repaid ones). Agent B's calibratio
 | B4-H11 | Mochiko's long closed (0.45) | DISCONFIRMED | i0144 |
 | B4-H12 | Mebuki's family learns (0.25) | DISCONFIRMED | — |
 | B4-H13 | Kurumi reveals her V01 money was her father's (0.35) | DISCONFIRMED ("運がよかっただけ") | i0073 |
-| B4-J01 | Mochiko's 1,000,000 loan executed (0.75) | CONFIRMED in substance (executed at 2,000,000; a strict amount reading would score NO, as Agent B notes) | i0145–i0146 |
+| B4-J01 | Mochiko's 1,000,000 loan executed (0.75) | Literal: DISCONFIRMED (the loan executed is 2,000,000, not the 1,000,000 named). Agent B's relaxed, event-only result, kept: CONFIRMED in substance (executed at 2,000,000; a strict amount reading would score NO, as Agent B notes) | i0145–i0146 |
 | B4-J01b | …within the next chapter (0.60) | DISCONFIRMED (executed after "数日後" in 第20話) | i0144–i0146 |
 | B4-J02 | Mochiko's second condition stated (0.80) | CONFIRMED (employment) | i0098 |
 | B4-J03 | That condition concerns secrecy (0.35) | DISCONFIRMED | i0098, i0118 |
@@ -1700,8 +1715,9 @@ interest amounts were printed, not accrued or repaid ones). Agent B's calibratio
 | B4-K13 | Mochiko's position with a printed P/L (0.45) | CONFIRMED | i0144 |
 | B4-K14 | A printed USD/JPY rate after i0123 (0.85) | CONFIRMED (115.840) | i0144 |
 
-Tally (Agent B's own, kept): 28 confirmed and 45 disconfirmed of 73. Agent D froze no prospects; the reviewer is not a
-forecasting role.
+Tally, literal: 27 confirmed and 46 disconfirmed of 73 (Brier 0.20849). Agent B's own tally, kept as its relaxed,
+event-only result: 28 confirmed and 45 disconfirmed of 73 (Brier 0.20164). Agent D froze no prospects; the reviewer is
+not a forecasting role.
 
 ---
 

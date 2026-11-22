@@ -49,7 +49,7 @@ The frozen checkpoints and entering states of V01–V04 remain byte-unchanged. T
 - **What the images carry** (OBSERVATION, §V01–§V04). V01: a portrait of three girls and two creator comments. V02: Kurumi alone at a desk at night, and the artist's comment that the FX warriors have gathered ("集まってきたFX戦士達") and that their aims cross ("それぞれの思いが交錯する"). V03: Mebuki and Yasuko in an armchair, and the artist's comment "楽しくFXしてた芽吹ちゃんだけど・・・?" ending "現実が突き刺さる!". V04: a figure with a white cat at a keyboard, and creator comments with no narrative content. None of V01–V04 has a next-volume preview, so no role was exposed to a later volume.
 - **Dispositions.** V01: no prospective item is qualified ([FXK-ERR-V01-02](#fxk-err-v01-02)). V02: two confirmed Agent B rows lose predictive credit while their observed outcomes stand ([FXK-ERR-V02-02](#fxk-err-v02-02)). V03: the flap's hint about Mebuki had been realized on the page before Agent B's first V03 freeze, so no forecast item and no review judgment is affected ([FXK-ERR-V03-02](#fxk-err-v03-02)). V04: no item is affected ([FXK-ERR-V04-02](#fxk-err-v04-02)). Agent D froze no prospects in any volume. No review judgment in V01–V04 rests on a cover or flap.
 - **Not changed.** Every observed outcome on the page; every principal forecast and its disposition; and V01's finding that the cover and afterword trio grouping is promotional and is not evidence of an on-page meeting.
-- **One further correction** in this carrier does not concern exposure: V01 i0165 is reclassified as an authorial extra ([FXK-ERR-V01-03](#fxk-err-v01-03)).
+- **Two further corrections** in this carrier do not concern exposure. V01 i0165 is reclassified as an authorial extra ([FXK-ERR-V01-03](#fxk-err-v01-03)). Agent B's V04 forecast B4-J01 is scored as frozen, which gives its V04 tally a literal result beside its relaxed one ([FXK-ERR-V04-03](#fxk-err-v04-03)).
 
 | Erratum | Frozen record and section | Transition | Subject |
 | --- | --- | --- | --- |
@@ -63,6 +63,7 @@ The frozen checkpoints and entering states of V01–V04 remain byte-unchanged. T
 | [FXK-ERR-V03-02](#fxk-err-v03-02) | V03 checkpoint §4, §6.2; ledger FXK-V03-F099–F125 | `PRESERVE` | Item-by-item dispositions |
 | [FXK-ERR-V04-01](#fxk-err-v04-01) | V04 checkpoint §7 "Apparatus and paratext" | `STRENGTHEN` | Timing against freezes |
 | [FXK-ERR-V04-02](#fxk-err-v04-02) | V04 checkpoint §4, §6.2; ledger FXK-V04-F091–F163 | `PRESERVE` | Item dispositions |
+| [FXK-ERR-V04-03](#fxk-err-v04-03) | V04 checkpoint §3 B-22; ledger FXK-V04-F136 | `REVISE` | Literal score of B4-J01 and Agent B's V04 tally |
 
 <a id="v01"></a>
 ## V01
@@ -206,6 +207,13 @@ Frozen checkpoint: [V04 checkpoint](FX_KURUMI_V04_CHECKPOINT.md). Images concern
 - *The principal's forecasts* (the entering state, F01–F10, the V03 MAIN_EXIT forecasts disposed of in V04, and the V05-facing MAIN_EXIT forecasts) are clean.
 - *Agent D* froze no prospects. It read the cover figure as Mochiko (INFERENCE MODERATE-HIGH), labelled as apparatus. None of its paratext items was adopted as story evidence.
 - *Reviewer.* No review judgment rests on i0001–i0002. In Stage 1 the reviewer warned against importing the back-cover blurb (i0158) as a verdict on Mochiko's lending.
+
+<a id="fxk-err-v04-03"></a>
+**FXK-ERR-V04-03 — B-22: the literal score of B4-J01 (`REVISE`).** The frozen B-22 disposition adopts Agent B's scoring of its 73 prospects "with two notes", one of them that B4-J01's loan was executed at 2,000,000 and not at the 1,000,000 named. Owner comment 7073839467 asks for the literal score. Agent B froze B4-J01 at 21:00:24 as "Mochiko's 1,000,000 loan is shown executed (cash/transfer handed over, or a deposit attributed to it) in V04" (0.75). The page shows an IOU for "金 2,000,000 円也" (i0145) and a deposit of "+2,000,000円" (i0146) (OBSERVATION). Scored as frozen, B4-J01 is NO.
+
+The correction narrows B-22's adoption. Agent B's scores stand as its reported result, which is a relaxed, event-only score: 28 confirmed and 45 disconfirmed of 73, Brier 0.20164 (published as 0.202). The literal result, with every other disposition held fixed, is 27 confirmed and 46 disconfirmed, Brier 0.20849. The delegate recomputed both independently from ledger rows FXK-V04-F091–F163 (ANALYST CALCULATION: Brier is the mean of (p − o)² over the 73 rows; the B4-J01 term moves from 0.0625 to 0.5625, which adds 0.5/73 ≈ 0.00685). Both results match the owner's figures. The conclusion against the 0.250 of a constant 0.5 is unchanged, and so is the plot finding: Mochiko lent Mebuki the money.
+
+B4-J10 is YES as written, because its frozen parenthesis admits "any yen figure beyond the rate", and the projections "3,000円(日利)", "9万円" (i0100) and "月18万円" (i0105) are such figures. Scored on its head clause alone (an accrued or repayment amount), it would be NO, giving 26 confirmed and 47 disconfirmed, Brier 0.20575. That reading is recorded for transparency and is not adopted. No cumulative tally of Agent B's forecasts across volumes exists in the repository; the figures carried forward are those in V04 reading §M.8 and ledger FXK-V04-F136, both revised.
 
 ## Name-and-reference check (handoff contract §15.6)
 
