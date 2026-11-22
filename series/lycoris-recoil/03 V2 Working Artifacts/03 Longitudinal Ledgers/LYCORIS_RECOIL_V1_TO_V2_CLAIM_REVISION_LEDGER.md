@@ -4,12 +4,12 @@ artifact_type: claim_revision_ledger
 scope: V1 claims routed to current V2 formulations and evidence
 generation: V2
 status: canonical
-source_boundary: SHORT01 V2; V1 claims adjudicated only after each source-native source-unit reading and prospective freeze are frozen
+source_boundary: TV E01-E13 and Friends Shorts 01–02; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT01
+current_sequential_boundary: SHORT02
 ---
 
 # Lycoris Recoil V1 → V2 Claim Revision Ledger
@@ -245,6 +245,16 @@ The following records were added only after `LYCORIS_RECOIL_E01_DEEP_READING.md`
 | `REV-SHORT01-005` | `03_Mika_Cafe_LycoReco_and_Ordinary_Life.md` / chosen family ordinary roles | V1: Mika/Mizuki/Kurumi hold everyday family/social roles beyond operational usefulness | SHORT01 | `STRENGTHEN` | Mika regulates food/drinking, Mizuki occupies drunken karaoke space, and Kurumi participates as comic heckler with no technical task required | `SHORT01-CLM-015/017`, `MIK-MB-SHORT01-001`, `MIZ-MB-SHORT01-001`, `KUR-MB-SHORT01-001` | current-bounded |
 | `REV-SHORT01-006` | `06_Japanese_Character_Voice_and_Performance.md` / shorts baseline confirmation | V1: settled post-development Takina handles festival business calculations and ordinary emotional range while remaining recognizably Takina; development is bandwidth expansion, not convergence | SHORT01 | `STRENGTHEN` | Layer B independently shows controlled planning/profit speech beside much larger safe/civilian activation for the yakitori proposal; high activation is not threat-exclusive or synonymous with semantic importance | `SHORT01-AUD-001/003/004/005/006/008/009/011`, `SHORT01-CLM-018/019` | current-bounded; Layer C unverified |
 
+## Short 02 · post-freeze V1 review
+
+| Record | V1 locator and disposition against the frozen reading |
+|---|---|
+| REV-SHORT02-001 | STRENGTHEN. V1 03 §3 Travel, line 435, and 02 §4 Learning preference, lines 334–344. C054–59 make finishing a job a means to jointly wanted travel. Preference and procedural competence can coexist. |
+| REV-SHORT02-002 | PRESERVE. V1 04 §1 What the ethic is, lines 406–422. Chisato conditions participation on nonkilling at C035–36. She still intervenes. The short supplies no general DA exemption. |
+| REV-SHORT02-003 | PRESERVE. V1 02 §12, lines 610–622, and §4 Formal future, lines 880–890. Joint travel planning carries personal investment without resolving civic or formal relationship status. |
+
+**Independent review and evidence boundary.** The critic reproduced the seven mixed RMS values and checked #000003/048/051/112/123/124/147/169. In C043 the subject of 浮かれていまして is unstated. After C046–47 Takina makes the private first person explicit at C058–59. This strengthens the contrast between audiences without assigning a hidden intention. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
+
 # 5. Document-level intake queue
 
 The following V1 responsibilities are expected to produce claim-level records as V2 reaches relevant evidence.
@@ -307,5 +317,10 @@ Do not:
 ---
 
 # 8. Current authority statement
+
+Current release-order boundary: **SHORT02**. See the per-unit Short records above. The V1 register contains 146 transitions. Supplementary narrative evidence is outside the current A1 boundary.
+
+### Short 01 historical closeout
+
 
 This ledger contains **143** V1→V2 transitions through `SHORT01`: 137 through the TV E13 closeout plus 6 Short 01 `STRENGTHEN` records added only after the Short 01 source-native reading and `SHORT01_OUTBOUND_FREEZE` were frozen. Short 01 requires no `REVISE`, `DOWNGRADE`, or `REJECT` transition. Layer-C perceptual voice claims remain separately bounded and are not inferred from objective Short 01 Layer-B measures. Short 02-06 and supplementary evidence remain outside the current revision horizon.

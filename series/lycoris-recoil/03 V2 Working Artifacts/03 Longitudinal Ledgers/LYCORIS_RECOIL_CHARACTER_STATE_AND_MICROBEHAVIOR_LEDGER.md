@@ -4,12 +4,12 @@ artifact_type: ledger
 scope: V2 cumulative anime-native character state and microbehavior; later supplementary evidence added only with source-class provenance
 generation: V2
 status: canonical
-source_boundary: SHORT01; A1 anime-native evidence through TV E01-E13 + Friends Short 01 only
+source_boundary: TV E01-E13 and Friends Shorts 01–02; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT01
+current_sequential_boundary: SHORT02
 e01_acoustic_performance_backfill: complete
 e02_acoustic_performance_pass: complete
 e03_acoustic_performance_pass: complete
@@ -489,6 +489,11 @@ Representative Layer-B routes: `E13-AUD-001`-`025`. Takina shows extreme Chisato
 
 Representative Layer-B routes: `SHORT01-AUD-001`-`013`. Takina's business/profit statements can remain controlled while the safe `来年焼き鳥やりますか！` proposal expands strongly; Chisato's chase and Kurumi's heckling are also highly activated. Safe commerce/play therefore supplies another independent counterexample to threat-exclusive or semantically monotonic acoustic activation. Layer C remains `UNVERIFIED`.
 
+
+## Character state · Short 02
+
+**MB-SHORT02**. Takina’s formal telephone self-identification and private admission of excitement (C041–59) belong to the same planning situation. Chisato articulates her no-kill condition inside routine institutional contact (C035–36). Kusunoki’s insistence on attention exposes the limits of remote authority. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md).
+
 # 6. Character-state snapshots
 
 | Snapshot | Character | Source horizon | Stable observations at this boundary | Active state/development notes | Major unknowns |
@@ -818,5 +823,10 @@ After every episode/short:
 ---
 
 # 12. Current authority statement
+
+Current release-order boundary: **SHORT02**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+
+### Short 01 historical closeout
+
 
 At `SHORT01_OUTBOUND_FREEZE`, this ledger is the canonical cumulative A1 character-state authority through TV E01-E13 plus Friends Short 01. Short 01 independently validates settled mundane Takina: financial/logistical precision now generates civilian initiative and business planning while high armament readiness and concise baseline speech persist. Chisato's ordinary correction targets context/role overreach rather than competence itself. Mika, Mizuki and Kurumi retain ordinary social/caregiving functions beyond operational utility. `SHORT01-AUD-001`-`013` further strengthen state-conditioned, semantically non-monotonic performance bandwidth; Layer C remains `UNVERIFIED`. Short 02-06 and all supplementary narrative evidence remain inadmissible until opened prospectively.

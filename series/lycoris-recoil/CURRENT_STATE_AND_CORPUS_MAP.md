@@ -9,7 +9,7 @@ source_boundary: TV E01-E13 + Friends Shorts 01-06; three Asaura novels; Recolle
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-28'
+last_updated: '2026-11-22'
 ---
 
 
@@ -33,7 +33,7 @@ Open this file first when resuming the project in a new chat or tool session. It
 
 ## Retrospective TV audiovisual reconciliation
 
-For current use of E01–E13 claims, consult the [TV audiovisual reconciliation](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/README.md) alongside the frozen episode readings. Its matrix distinguishes corrections to V2 from limits on the independent Gemini account. Material refinements concern Erika’s request and Saori’s exposure, Chisato’s protection of Yoshimatsu, the E12 wound and heart evidence, and Majima’s E13 comparison with Takina. The [original dispatch register](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/DISPUTES.md) identifies the voice, motion and synchronization claims sent for review. The [22 November verifier return](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/VERIFIER_RETURN_20261122.md) gives the current dispositions of the twenty disputed questions, including Takina’s first visible island shot, the ending-song measurements and narrower Japanese-text referrals. This retrospective assessment adds no prospective source unit. Short 02 remains next under `SHORT01_OUTBOUND_FREEZE` and `CP4_POST_E13`. Final anime-native synthesis and character reconstruction await Shorts 02–06.
+For current use of E01–E13 claims, consult the [TV audiovisual reconciliation](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/README.md) alongside the frozen episode readings. Its matrix distinguishes corrections to V2 from limits on the independent Gemini account. Material refinements concern Erika’s request and Saori’s exposure, Chisato’s protection of Yoshimatsu, the E12 wound and heart evidence, and Majima’s E13 comparison with Takina. The [original dispatch register](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/DISPUTES.md) identifies the voice, motion and synchronization claims sent for review. The [22 November verifier return](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/VERIFIER_RETURN_20261122.md) gives the current dispositions of the twenty disputed questions, including Takina’s first visible island shot, the ending-song measurements and narrower Japanese-text referrals. This retrospective assessment adds no prospective source unit. At the time of the TV return, Short 02 was next. See the current sequential boundary below.
 
 ## Canonical analytical root
 
@@ -83,12 +83,9 @@ For current use of E01–E13 claims, consult the [TV audiovisual reconciliation]
   - `LYCORIS_RECOIL_E13_DEEP_READING.md` — Drive ID `12m2vr9c6oJkqDxuEkhFo6xxpiDf1PCNz`
   - `LYCORIS_RECOIL_SHORT01_DEEP_READING.md` — Drive ID `1a5-Sst3AE7vx-EzW4PlQAp9xzn56BY7A`
   - completed/frozen TV source horizon: E13 / TV 13 of 13 complete
-  - completed/frozen shorts horizon: Short 01 / 1 of 6 complete
-  - current outbound checkpoint: `SHORT01_OUTBOUND_FREEZE`
-  - current major checkpoint: `CP4_POST_E13`
-- Next sequential reading:
-  - `LYCORIS_RECOIL_SHORT02_DEEP_READING.md`
-  - not yet opened; admissible evidence remains frozen at TV E01-E13 + Short 01 until Short 02 begins under `SHORT01_OUTBOUND_FREEZE`
+  - frozen short readings through Short 02: [Short 02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md)
+  - current boundary: SHORT02_OUTBOUND_FREEZE under CP4_POST_E13.
+- Next operation: Read Short 03 under CP4_POST_E13 from SHORT02_OUTBOUND_FREEZE before any subsequent narrative intake.
 - Corpus-wide project initiation policy:
   - `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`
   - Drive ID: `1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC`
@@ -131,20 +128,20 @@ V1 remains historically authoritative for what the project previously concluded,
 # 2. Project state
 
 
-- Status: **ACTIVE / V2-SHORT01-COMPLETE / TV ARC FROZEN / SHORTS IN PROGRESS**
+- Status: **V2 / SHORT02 SOURCE-NATIVE CLOSEOUT**
 - Active analytical generation: **V2**
 - V2 architecture: **CANONICAL**
 - V2 analytical method: **CANONICAL**
 - Source audit: **COMPLETE / PASS FOR INITIALIZATION**
-- Sequential deep readings completed: **14 / 19**
+- Sequential deep readings completed: **15 / 19**
 - TV completed sequential boundary: **E13 / FROZEN / CP3 CLOSED / CP4 FROZEN**
-- Active prospective source horizon: **NONE / SHORT02 NOT YET OPENED**
-- Shorts sequential boundary: **SHORT01 / FROZEN / CP4_POST_E13 ACTIVE / SHORT01_OUTBOUND_FREEZE FROZEN**
+- Current admitted A1 horizon: TV E01–E13 and Shorts 01–02.
+- Shorts sequential boundary: **SHORT02_OUTBOUND_FREEZE**.
 - Anime-native reconstruction baseline: **NOT YET BUILT**
 - Supplementary prose integration: **LOCKED**
 - Recollect integration: **LOCKED**
 - Anthology integration: **LOCKED**
-- V1→V2 claim audit: **ACTIVE / 143 CLAIM TRANSITIONS ADJUDICATED THROUGH SHORT01**
+- V1→V2 claim audit: **146 attributable transitions through Short 02**.
 - Current full-series V2 synthesis gate: **CLOSED**
 - Sequential-analysis lock: **OPEN**
 - E01 objective acoustic-performance backfill: **COMPLETE**
@@ -164,7 +161,7 @@ V1 remains historically authoritative for what the project previously concluded,
 - Short 01 deep reading: **COMPLETE / CANONICAL / BUNDLE VISUAL + FLAC LAYER-B PASSES COMPLETE / VIDEO_NOT_REQUIRED / SHORT01_OUTBOUND_FREEZE FROZEN**
 
 
-All initialization gates required by the V2 architecture remain satisfied. The TV E01-E13 prospective reread is frozen at `CP4_POST_E13`, and `LYCORIS_RECOIL_SHORT01_DEEP_READING.md` is now complete and canonical as the first short-form validation unit. Short 01 closed with bundle visual/action and FLAC Layer-B passes complete and `VIDEO_NOT_REQUIRED`; its CP4 tranche is 6 supported / 3 partially supported / 3 not tested / 0 disconfirmed. Eight E01-E13+Short01-only predictions are frozen at `SHORT01_OUTBOUND_FREEZE` before V1 comparison and before any Short 02 evidence. Six Short 01 V1→V2 `STRENGTHEN` records bring the cumulative revision ledger to 143. The full anime-native baseline is **not yet frozen** because Shorts 02-06 remain unread in V2. Supplementary prose, Recollect and anthologies remain locked. The next canonical operation is `LYCORIS_RECOIL_SHORT02_DEEP_READING.md` from `SHORT01_OUTBOUND_FREEZE` under governing `CP4_POST_E13`.
+The twelve CP4 predictions have append-only results for each admitted short. Short 01 contributed six V1 comparisons to the original 143. Each subsequent reading is sealed before the corresponding V1 comparison. Supplementary sources remain quarantined.
 
 ---
 
@@ -381,7 +378,7 @@ Lycoris Recoil/
 ```
 
 
-`02 Sequential Readings/Anime` contains frozen canonical TV E01-E13 readings. Short 01 is canonical/frozen; Shorts 02-06 remain the active sequential layer under `CP4_POST_E13`. Other V2 semantic layers remain absent until they acquire a real analytical responsibility.
+`02 Sequential Readings/Anime` contains frozen canonical TV E01-E13 readings. The frozen short readings now extend through Short 02. Other V2 semantic layers remain absent until they acquire a real analytical responsibility.
 
 
 Do not create empty categories for visual symmetry.
@@ -445,12 +442,12 @@ Each episode produces:
 ## Phase C — Shorts
 
 
-**ACTIVE / SHORT01 COMPLETE. `CP4_POST_E13` governs prospective Short 01-06 validation; `SHORT01_OUTBOUND_FREEZE` governs Short 02 next.**
+**Shorts 01–02 have completed their source-native passes.**
 
 Sequence:
 
 
-`SHORT01 [COMPLETE / FROZEN] → SHORT02 [NEXT] → SHORT03 → SHORT04 → SHORT05 → SHORT06`
+Release-order high-water mark: SHORT02_OUTBOUND_FREEZE. Read Short 03 under CP4_POST_E13 from SHORT02_OUTBOUND_FREEZE before any subsequent narrative intake.
 
 
 The shorts are especially important for settled mundane behavior, humor, play, domestic/café routine, and anime-native counterfactual validation.
@@ -547,15 +544,15 @@ Voice/performance, humor/play, ordinary life, visual/action, or institutional ev
 Current state:
 
 - V2 completed prospective TV boundary: **E13 / FROZEN / CP3 CLOSED**;
-- active V2 source-reading horizon: **NONE / SHORT02 NOT YET OPENED**;
-- current canonical completed source-unit readings: `LYCORIS_RECOIL_E01_DEEP_READING.md` through `LYCORIS_RECOIL_E13_DEEP_READING.md`;
+- active V2 source-reading horizon: TV plus Shorts 01–02;
+- completed sequential source units: TV E01–E13 and Shorts 01–02;
 - incoming CP0 remains frozen and prediction-free;
 - `E01_OUTBOUND_FREEZE` through `E12_OUTBOUND_FREEZE`: adjudicated append-only with original wording preserved;
 - `CP1_POST_E03`: closed at 6 supported / 6 not tested;
 - `CP2_POST_E06`: closed at 8 supported / 1 partially supported / 3 not tested;
 - `CP3_POST_E10`: **CLOSED at 12 supported / 0 partially supported / 0 not tested / 0 disconfirmed**;
-- governing major checkpoint: `CP4_POST_E13`; the first Short 01 tranche is adjudicated and eight Short01-outbound predictions are frozen for Short 02;
-- admissible narrative evidence until Short 02 opens: **TV E01-E13 + Short 01 only**, plus source/bundle metadata;
+- governing TV-only predictions: CP4_POST_E13, adjudicated through Short 02;
+- no supplementary narrative sources are admitted;
 - V1: comparison/revision input only after each source-native reading and prospective freeze are fixed;
 - novels: quarantined;
 - Recollect: quarantined;
@@ -621,7 +618,7 @@ Routine mechanical source/inventory operations may use lighter reasoning where p
 
 The following are intentionally unresolved rather than corpus deficiencies:
 
-- Short 01 has been prospectively read and frozen; Shorts 02-06 remain unread under `CP4_POST_E13`;
+- source-native short readings are frozen through Short 02;
 - full anime-native reconstruction baseline remains unfrozen until all six shorts close and `CP5_ANIME_NATIVE_FINAL` is established;
 - no continuous-video escalation was required for TV E01-E13; all thirteen TV episodes closed as `VIDEO_NOT_REQUIRED`;
 - E01 objective acoustic backfill and E02-E13 FLAC Layer-B analyses are admitted; subjective/perceptual Layer-C voice labels remain `UNVERIFIED`;
@@ -651,10 +648,10 @@ project_initialization:
   character_reconstruction_method_initialized: true
   required_day_one_ledgers_initialized: true
   sequential_analysis_lock: open
-  completed_sequential_units: 13
-  current_sequential_boundary: SHORT01
-  current_outbound_freeze: SHORT01_OUTBOUND_FREEZE
-  current_video_escalation_state: VIDEO_NOT_REQUIRED
+  completed_sequential_units: 15
+  current_sequential_boundary: SHORT02
+  current_outbound_freeze: SHORT02_OUTBOUND_FREEZE
+  current_video_escalation_state: VIDEO_TARGETED_ESCALATION
   e01_acoustic_performance_backfill: complete
   e02_acoustic_performance_pass: complete
   e02_bundle_visual_pass: complete
@@ -691,22 +688,7 @@ project_initialization:
 
 # 13. Current canonical operation
 
-TV E01-E13 are complete and fully routed through the cumulative V2 infrastructure. `CP3_POST_E10` is closed at 12/12 supported. `CP4_POST_E13` is the governing full checkpoint: twelve TV-only predictions were frozen before any Short 01 evidence and before the E13 V1 retrospective comparison.
-
-The current canonical operation is:
-
-> **`LYCORIS_RECOIL_SHORT02_DEEP_READING.md`**
-
-Short 02 must begin from frozen `SHORT01_OUTBOUND_FREEZE` under governing `CP4_POST_E13`:
-
-- admissible narrative horizon when opened: TV E01-E13 + Short 01 + Short 02 only;
-- all twelve `CP4_POST_E13` predictions and all eight `SHORT01_OUTBOUND_FREEZE` predictions are immutable and may receive only append-only adjudication;
-- TV character/relationship policies are frozen inputs, not facts about short behavior;
-- V1 may be consulted only after the Short 02 source-native pass and any Short 02 outbound freeze are fixed;
-- do not admit Asaura prose, Recollect or anthology evidence before the complete E01-E13 + Shorts 01-06 anime-native boundary freezes;
-- use the Short 02 lossless FLAC from the outset and keep `LINGUISTIC`, `ACOUSTIC_PERFORMANCE`, and `PERCEPTUAL_PERFORMED_VOICE` evidence separate;
-- use targeted/full video escalation only if the Short 02 bundle cannot settle a load-bearing temporal/action claim.
-
+Read Short 03 under CP4_POST_E13 from SHORT02_OUTBOUND_FREEZE before any subsequent narrative intake. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The sequential run is authorized through Short 06 and the subsequent short-only comparison.
 
 # 14. Retrieval route
 
@@ -729,4 +711,4 @@ When resuming:
 
 # 15. Governing current-state statement
 
-> **Lycoris Recoil V2 has frozen the full TV E01-E13 reread at `CP4_POST_E13` and completed Friends Short 01 as the first mundane/relational validation unit. Short 01 independently strengthens the TV model that Takina's competence expands into civilian logistics and self-authored business planning without losing operational habit; Chisato/Takina low-stakes correction remains reciprocal and noncaptive; LycoReco ordinary labor/leisure remains substantive social infrastructure. The Short 01 CP4 tranche is 6 supported / 3 partially supported / 3 not tested / 0 disconfirmed. `SHORT01_OUTBOUND_FREEZE` contains eight immutable predictions for Short 02. One hundred forty-three V1→V2 transitions are routed through Short 01. The full anime-native baseline remains open until Shorts 02-06 close; all supplementary/derivative characterization stays locked. The next canonical operation is `LYCORIS_RECOIL_SHORT02_DEEP_READING.md`.**
+The admitted source horizon is TV E01–E13 plus Shorts 01–02. Read Short 03 under CP4_POST_E13 from SHORT02_OUTBOUND_FREEZE before any subsequent narrative intake. No supplementary source has entered the A1 account.

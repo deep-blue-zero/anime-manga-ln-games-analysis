@@ -4,12 +4,12 @@ artifact_type: ledger
 scope: V2 prospective predictions, checkpoint freezes, and later adjudication
 generation: V2
 status: canonical
-source_boundary: TV E01-E13 + Short 01; CP4_POST_E13 adjudicated through Short 01; SHORT01_OUTBOUND_FREEZE frozen before Short 02
+source_boundary: TV E01-E13 and Friends Shorts 01–02; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_checkpoint: SHORT01_OUTBOUND_FREEZE
+current_checkpoint: SHORT02_OUTBOUND_FREEZE
 ---
 
 # Lycoris Recoil Prospective Prediction Register
@@ -932,6 +932,31 @@ source_native_predictions_frozen_before_v1_comparison: true
 
 `SHORT01_OUTBOUND_FREEZE` is frozen from TV E01-E13 + Short 01 evidence only. No Short 02-06, V1 retrospective synthesis, or supplementary narrative evidence was admitted when these predictions were formulated.
 
+
+## SHORT02_OUTBOUND_FREEZE · Short 02
+
+[Source-native reading and incoming adjudications](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md). Source-native seal: 09e40b4c3fc15fa8876039dae3b1db29a49c9c0bd1dac91e09dc17664b53609e. Published SHA-256: 23b2cba8885dfc616326ec3196d49f3785e49b93ac7e1bb79583fe0c5fe5dea7. The sole transport normalization changes the twelve CP4 lines to Markdown bullets. To recover sealed bytes, remove their leading dash-space and add two trailing spaces to CP4-001 through CP4-011. The reconstructed hash was verified. The TV-only CP4 wording and the Short 01 incoming wording remain as originally issued.
+
+CP4 tranche: 01 SUPPORTED · 02 SUPPORTED · 03 SUPPORTED · 04 NOT_TESTED · 05 PARTIALLY_SUPPORTED · 06 PARTIALLY_SUPPORTED · 07 NOT_TESTED · 08 NOT_TESTED · 09 NOT_TESTED · 10 SUPPORTED · 11 PARTIALLY_SUPPORTED · 12 PARTIALLY_SUPPORTED.
+
+| Incoming | Append-only result |
+|---|---|
+| PRED-SHORT01-001 | PARTIALLY_SUPPORTED. C054–55 reorder the work around leisure. The destinations come from Chisato. |
+| PRED-SHORT01-002 | SUPPORTED for the logistics clause. Takina checks identification and the shared schedule. The robbery is real, so overpreparation is untested. |
+| PRED-SHORT01-003 | SUPPORTED. Takina teases, denies and redirects without abandoning the joint plan. |
+| PRED-SHORT01-004 | NOT_TESTED. The direction of correction is reversed. |
+| PRED-SHORT01-005 | NOT_TESTED for activated play. The admission sits close to procedural levels. |
+| PRED-SHORT01-006 | SUPPORTED. Concrete travel, food and a film organize the whole exchange. |
+| PRED-SHORT01-007 | NOT_TESTED. Kusunoki is the superior on the telephone. The other café members lack such a scene. |
+| PRED-SHORT01-008 | SUPPORTED. Practical sequencing and shared pleasure are compatible in C054–59. |
+
+| Frozen ID | Prediction for Short 03 |
+|---|---|
+| PRED-SHORT02-001 | If a partner proposes leisure, Takina may shape its conditions or timing while retaining a concise practical register. Moderate, R2. |
+| PRED-SHORT02-002 | If care or enthusiasm becomes explicit, a high mixed-signal level need not accompany the most personal words. Moderate, R3. |
+| PRED-SHORT02-003 | If a plan attracts incompatible preferences, a partner may resist or redirect it without ending cooperation. High, R2. |
+| PRED-SHORT02-004 | If another café member has the floor, their ordinary tastes or social knowledge may contribute independently of their security work. Moderate, R3. |
+
 # 7. What to predict
 
 Prefer behavior classes:
@@ -980,5 +1005,10 @@ If premise-only separation is impossible, skip the prospective test rather than 
 ---
 
 # 10. Current authority statement
+
+Current release-order boundary: **SHORT02**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+
+### Short 01 historical closeout
+
 
 All earlier freezes remain immutable in prediction wording. `CP2_POST_E06` and `CP3_POST_E10` are closed; CP3 finished the TV run at twelve supported, zero partially supported, zero not tested, and zero disconfirmed. `CP4_POST_E13` remains the governing major checkpoint and is open through Short 06; after Short 01 its cumulative state is six supported, three partially supported, and three not tested. `SHORT01_OUTBOUND_FREEZE` is the current episode-level freeze and was created before Short 02 evidence and before Short 01 V1 retrospective comparison.
