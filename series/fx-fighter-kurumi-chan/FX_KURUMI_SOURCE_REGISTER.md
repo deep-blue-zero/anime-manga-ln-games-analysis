@@ -328,3 +328,36 @@ Counts: main narrative 148, apparatus 16 (nine separator pages, the cover, flap,
 | FXK-SO-004 legibility of dense screens and small numerals | Completed for V08; the unreadable strip at i0130 and the partly legible items above are recorded in the reading and none is reconstructed |
 
 FXK-SO-001 and FXK-SO-005 are unchanged by V08; the V08 package modification date and the colophon both give 2025-05-22.
+
+## V09 coverage
+
+Recorded by the V09 principal for run FXK-RUN-20261119-V01-V10 and accepted with the V09 transaction by the run coordinator on 2026-11-22. The [V09 deep reading](readings/FX_KURUMI_V09_DEEP_READING.md) holds the full receipt; the [V09 checkpoint](checkpoints/FX_KURUMI_V09_CHECKPOINT.md) records each role's coverage and every disposition.
+
+- **Witness.** FXK-JP-V09-W01, package title 「FX戦士くるみちゃん　9」: 171 image occurrences at 1441×2048, right-to-left; every occurrence was logged once by the principal, with no gap or duplicate (verified by script). The colophon (i0170) gives e-book ver.001, published 2026-01-22 by KADOKAWA, first serialized in 月刊コミックフラッパー 「2025年3月号〜2025年5月号、2025年7月号・8月号」: five issue designations for the five chapters (ANALYST COUNT). Colour occurrences: i0001, i0003–i0006, i0166–i0169.
+- **Occurrences reviewed.** The principal opened every main-narrative occurrence (i0003–i0158) once at reading resolution, in spine order; after the main-exit freeze it classified the post-main pages (i0159–i0165, i0170, i0171) and then the deferred cover, flap, wraparound and under-jacket images (i0001, i0002, i0166–i0169) on contact sheets, re-reading the colophon on its reading copy and, in reconciliation, the reading copies of i0001 and i0166. The entrypoint's component scope deferred those six occurrences for every role: each specialist opened all 171 occurrences at reading resolution in spine order and the deferred six only at its own release point; the reviewer triaged every occurrence on contact sheets, opened the decisive pages at reading resolution or in crops, and opened the deferred sheets only after its Stage 1 write-up. The [V09 checkpoint](checkpoints/FX_KURUMI_V09_CHECKPOINT.md) records each role's first sight of them against its freezes and judgments.
+- **Page order, folios and spreads.** The printed folio equals the occurrence number minus 2 through the p-NNN run (p.1 = i0003 to p.163 = i0165; printed folios checked at i0066 「64」, i0098 「96」, i0101 「99」, i0130 「128」 and, by the reviewer, i0152 「150」); separator pages carry no folio but are counted. Even occurrences are right-hand pages and odd ones left-hand pages, so openings are (even | odd), as the package's spine-spread properties state; no drawn double-page spread occurs. The label 「第41話」 is on i0005, after the colour opening (i0003) and the colour title page (i0004); 「第42話」 is on i0047, 「第43話」 on i0067 (no separator between 第42話 and 第43話), 「第44話」 on i0101 and 「第45話」 on i0133. No missing, duplicated or out-of-order page was found.
+
+| Component | Occurrences | Notes |
+| --- | --- | --- |
+| Apparatus: front cover and flap | i0001, i0002 | Deferred for every role; opened by the principal after the main-exit freeze; promotional, not diegetic |
+| Main narrative | i0003–i0044, i0047–i0098, i0101–i0130, i0133–i0158 (150) | A colour opening with the strip 「第9集 共生」 (i0003) and a colour title page (i0004), grouped with 第41話 (label on i0005); 第41話 i0003–i0044 (42 pages); 第42話 i0047–i0066 (20); 第43話 i0067–i0098 (32; coda 「2015年2月上旬」, i0098); 第44話 i0101–i0130 (30; 「2015年秋」); 第45話 i0133–i0158 (26; flashback 「2014年3月」, present 「2017年4月3日 月曜日」), ending 「TO BE CONTINUED...」 |
+| Apparatus: separators inside the main run | i0045–i0046, i0099–i0100, i0131–i0132 | Black grid pages with the series logo between chapters |
+| Apparatus: separator after the main run | i0159 | A single logo page |
+| Extra: character-design roughs | i0160–i0163 | 「いなごちゃんラフ」, 「ばななラフ」, 「きずなラフ」, 「その他ラフ」; classified only; not narrative evidence |
+| Extra: writer's afterword manga | i0164–i0165 | Real-world production remarks and statements about the series' future; classified only; not narrative evidence; its content is deliberately not summarized (V09 checkpoint) |
+| Apparatus: wraparound jacket | i0166–i0167 | Deferred; the publisher blurb and a collage of V09 panels (i0166); cover, spine and flap (i0167); paratext |
+| Extras: under-jacket boards | i0168–i0169 | Deferred; the artist's school-life bonus comic 「ゆるエモ」 (「〜おまけの番外編〜」) and the writer's essay strip on a real market year; paratext, not used as story evidence |
+| Apparatus: colophon | i0170 | Bibliographic |
+| Advertising: vendor page | i0171 | Excluded |
+
+Counts: main narrative 150, apparatus 12 (seven separator pages, the cover, flap, the wraparound pair and the colophon), extras 8 (i0160–i0165, i0168–i0169), advertising 1. There is no next-volume preview and no blank occurrence.
+
+- **Legibility and unresolved numerals.** All reading copies are legible. Every figure and label relied on was checked in enlarged crops or recorded as read at reading size because it is lettered large: the settlement figures (i0018), the missed-call badge 「99」 (i0048), the imagined bankbook (i0029), the gate plaque 「大都大学」 (i0101), the thesis reference book (i0103), the gazette notice (i0104), the company's place card (i0136) and the chart axis (i0154); a reconciliation crop examined the 「……」 / 「は?」 balloons of i0146. Partly legible, not reconstructed: the imagined bankbook's partly hidden lines (i0029; an illustration, not an account); the decorative quote tiles of i0130 (label–figure pairings uncertain); the chart's upper axis label, cut after 「111.」 (i0154); the souvenir brand (i0069, i0073; 「全回復」 legible); small gag signage (i0038, i0055). Printed masks kept as printed: 「平成27年(フ)×××号」, 「平成27年11月×日」 and 「○○裁判所」 (i0104); 「大都町○○○」 (i0136). Kept as printed, not repaired: the campus plaque 「大都大学」 against the accepted 新都大学; the building 「新都ビルヂング」, room 201 (i0140); a trustee distribution recorded for a debtor said to own no assets (i0019, i0104). No trade, account screen, balance or exact debt figure is printed for any named character; the debt appears only as the round "1億". Present-time dates printed: 「2015年2月上旬」 (i0098), 「2015年秋」 (i0101), 平成27年11月×日 (i0104, a document) and 「2017年4月3日 月曜日」 (i0134), with a flashback 「2014年3月」 (i0133).
+
+| Obligation | V09 state |
+| --- | --- |
+| FXK-SO-002 ordered image map and duplicate check | Visual order confirmed for V09: every occurrence logged in spine order, folio sequence continuous, no duplicates or gaps |
+| FXK-SO-003 component classification | Completed for V09 as tabled above; the six cover and jacket occurrences were deferred for every role and classified after the main narrative; extras and advertising classified by glance and not used as narrative evidence |
+| FXK-SO-004 legibility of dense screens and small numerals | Completed for V09; the partly legible items above are recorded in the reading and none is reconstructed |
+
+FXK-SO-001 and FXK-SO-005 are unchanged by V09; the V09 package modification date and the colophon both give 2026-01-22.

@@ -3,11 +3,11 @@ title: "FX Fighter Kurumi-chan — Decision and Evidence Ledger"
 artifact_id: FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER
 artifact_type: evidence_ledger
 series: fx-fighter-kurumi-chan
-version: "1.9"
+version: "1.10"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Ordered fictional decisions, state and interpretation history for the collected manga"
-source_boundary: "FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, FXK-JP-V04-W01, FXK-JP-V05-W01, FXK-JP-V06-W01, FXK-JP-V07-W01 and FXK-JP-V08-W01 main narratives and classified apparatus (V01–V08); no later volume"
+source_boundary: "FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, FXK-JP-V04-W01, FXK-JP-V05-W01, FXK-JP-V06-W01, FXK-JP-V07-W01, FXK-JP-V08-W01 and FXK-JP-V09-W01 main narratives and classified apparatus (V01–V09); no later volume"
 created: 2026-11-15
 last_updated: 2026-11-22
 supersedes: []
@@ -18,7 +18,7 @@ do_not_use_as_literary_evidence: true
 
 # FX Fighter Kurumi-chan — Decision and Evidence Ledger
 
-Source admission is **V01–V08** (FXK-JP-V01-W01: main narrative i0003–i0162 and classified apparatus and extras i0001–i0002 and i0163–i0171; FXK-JP-V02-W01: main narrative i0003–i0102, i0105–i0134 and i0137–i0162 and classified apparatus and extras i0001–i0002, i0103–i0104, i0135–i0136 and i0163–i0171; FXK-JP-V03-W01: main narrative i0003–i0162 and classified apparatus, extras and vendor page i0001–i0002 and i0163–i0171; FXK-JP-V04-W01: main narrative i0003–i0032, i0035–i0062, i0065–i0088, i0091–i0122 and i0125–i0150 and classified apparatus, extras and vendor page i0001–i0002, i0033–i0034, i0063–i0064, i0089–i0090, i0123–i0124 and i0151–i0163; FXK-JP-V05-W01: main narrative i0003–i0054 and i0057–i0162 and classified apparatus, extras and vendor page i0001–i0002, i0055–i0056 and i0163–i0171; FXK-JP-V06-W01: main narrative i0003–i0028, i0031–i0055, i0057–i0090, i0093–i0118 and i0121–i0154 and classified apparatus, extras and vendor page i0001–i0002, i0029–i0030, i0056, i0091–i0092, i0119–i0120 and i0155–i0163; FXK-JP-V07-W01: main narrative i0003–i0032, i0035–i0066, i0069–i0095, i0097–i0122 and i0125–i0150 and classified apparatus, extras and vendor page i0001–i0002, i0033–i0034, i0067–i0068, i0096, i0123–i0124 and i0151–i0163; FXK-JP-V08-W01: main narrative i0003–i0026, i0029–i0060, i0063–i0092, i0095–i0126 and i0129–i0158 and classified apparatus, extras and vendor page i0001–i0002, i0027–i0028, i0061–i0062, i0093–i0094, i0127–i0128 and i0159–i0171); the rows below record V01, V02, V03, V04, V05, V06, V07 and V08 and cite observation IDs from the [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md), the [V02 deep reading](readings/FX_KURUMI_V02_DEEP_READING.md), the [V03 deep reading](readings/FX_KURUMI_V03_DEEP_READING.md), the [V04 deep reading](readings/FX_KURUMI_V04_DEEP_READING.md), the [V05 deep reading](readings/FX_KURUMI_V05_DEEP_READING.md), the [V06 deep reading](readings/FX_KURUMI_V06_DEEP_READING.md), the [V07 deep reading](readings/FX_KURUMI_V07_DEEP_READING.md) and the [V08 deep reading](readings/FX_KURUMI_V08_DEEP_READING.md). Use stable observation IDs from the accepted reading and link to the actual page and panel or screen region before advancing any row.
+Source admission is **V01–V09** (FXK-JP-V01-W01: main narrative i0003–i0162 and classified apparatus and extras i0001–i0002 and i0163–i0171; FXK-JP-V02-W01: main narrative i0003–i0102, i0105–i0134 and i0137–i0162 and classified apparatus and extras i0001–i0002, i0103–i0104, i0135–i0136 and i0163–i0171; FXK-JP-V03-W01: main narrative i0003–i0162 and classified apparatus, extras and vendor page i0001–i0002 and i0163–i0171; FXK-JP-V04-W01: main narrative i0003–i0032, i0035–i0062, i0065–i0088, i0091–i0122 and i0125–i0150 and classified apparatus, extras and vendor page i0001–i0002, i0033–i0034, i0063–i0064, i0089–i0090, i0123–i0124 and i0151–i0163; FXK-JP-V05-W01: main narrative i0003–i0054 and i0057–i0162 and classified apparatus, extras and vendor page i0001–i0002, i0055–i0056 and i0163–i0171; FXK-JP-V06-W01: main narrative i0003–i0028, i0031–i0055, i0057–i0090, i0093–i0118 and i0121–i0154 and classified apparatus, extras and vendor page i0001–i0002, i0029–i0030, i0056, i0091–i0092, i0119–i0120 and i0155–i0163; FXK-JP-V07-W01: main narrative i0003–i0032, i0035–i0066, i0069–i0095, i0097–i0122 and i0125–i0150 and classified apparatus, extras and vendor page i0001–i0002, i0033–i0034, i0067–i0068, i0096, i0123–i0124 and i0151–i0163; FXK-JP-V08-W01: main narrative i0003–i0026, i0029–i0060, i0063–i0092, i0095–i0126 and i0129–i0158 and classified apparatus, extras and vendor page i0001–i0002, i0027–i0028, i0061–i0062, i0093–i0094, i0127–i0128 and i0159–i0171; FXK-JP-V09-W01: main narrative i0003–i0044, i0047–i0098, i0101–i0130 and i0133–i0158 and classified apparatus, extras and vendor page i0001–i0002, i0045–i0046, i0099–i0100, i0131–i0132 and i0159–i0171); the rows below record V01, V02, V03, V04, V05, V06, V07, V08 and V09 and cite observation IDs from the [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md), the [V02 deep reading](readings/FX_KURUMI_V02_DEEP_READING.md), the [V03 deep reading](readings/FX_KURUMI_V03_DEEP_READING.md), the [V04 deep reading](readings/FX_KURUMI_V04_DEEP_READING.md), the [V05 deep reading](readings/FX_KURUMI_V05_DEEP_READING.md), the [V06 deep reading](readings/FX_KURUMI_V06_DEEP_READING.md), the [V07 deep reading](readings/FX_KURUMI_V07_DEEP_READING.md), the [V08 deep reading](readings/FX_KURUMI_V08_DEEP_READING.md) and the [V09 deep reading](readings/FX_KURUMI_V09_DEEP_READING.md). Use stable observation IDs from the accepted reading and link to the actual page and panel or screen region before advancing any row.
 
 | Episode ID | Witness and unit/disclosure point | Figure, language or action shown and locator | Holder, time and modality of information | Entering alternatives and observed action | Exit change and affected person | Rival, uncertainty and claim pointer |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -272,6 +272,40 @@ Source admission is **V01–V08** (FXK-JP-V01-W01: main narrative i0003–i0162 
 | FXK-V08-D030 | 第40話 / i0148–i0158 | Shared bed; "見捨ててた?" — "まさか" (i0149); "ぶん殴ってでも 病院に 連行してたよ" (gag clinic 「心の病 治します」), "たられば話は やめなよ / 不健全" (i0150); "ありがとね" — "べ… 別に…" (i0151); "真剣に 2000万円 稼ぐつもり だった", "こんなに負けるなんて 考えもして なかった" (i0152); "スイスのあれは 事故でしょ / そうそう起こる 値動きじゃない", "稼げてたんじゃない? わからない けどさ / あーでも" (i0153); "次は1億円 目指す… 限界を超えても 戦いそう… 結局 死にそう" (i0154); "また たられば話 しちゃった…", "これから どうしよう…" (i0155; Mochiko's word taken up); "どうにか させるために 私が来てるんだ / 早く 寝かせてよ" (i0156); Mochiko awake (i0157); "秒で 寝るじゃん", 「TO BE CONTINUED...」 (i0158) | Mochiko and Kurumi, night 3 | — → talk, thanks, a forward question; Mochiko commits without content | Kurumi sleeps holding Mochiko's hand; nothing financial changes | "事故" (V07-C002 strand in a character's voice) vs "結局死にそう" (the V01 verdict's binary). F06-4 disconfirmed; F06-9 confirmed. E055–E059; C031–C033 |
 | FXK-V08-D031 | W01 / V08 / i0003, i0009, i0012, i0016–i0020, i0030–i0031, i0034 (analyst arithmetic) | Printed operands: deposit 1,000,000; +1,545,501; 2,545,501; +1,973,674; 4,519,175; open losses −1,133,052 … −2,460,296; 0円 (−4,519,175); 300/600/1000 lots; 4500万 + 1000万 = 5500万; 4万 × 365; 3,807,983; V07 −101,534,644 and 14.6% | Analyst arithmetic of printed figures | — (outcome record) | 1,000,000 + 1,545,501 = 2,545,501 ✓; + 1,973,674 = 4,519,175 ✓ (×4.52); 4,519,175 − 4,519,175 = 0; per lot +5,152 / +3,289 / −2,460 (last open box); per euro (lot convention) 0.515 / 0.329 / 0.246; equity 3,386,123 → 2,058,879 during trade 3; prior overseas balance 0; 14,600,000 ✓ vs 14,824,058; "×0.45%" ✗ (45% intended); progressive alternative on the printed table 4,020.4万 + 1,000万 = 5,020.4万 | ANALYST CALCULATION; no leverage, fill or liquidation rate computed (CHF/JPY and EUR/JPY unprinted). E001, E003–E007, E010–E011, E013; C003, C004, C006, C037 |
 | FXK-V08-D032 | 第36–40話 / i0024–i0025, i0038–i0047, i0065, i0067, i0071, i0086, i0111–i0112, i0126, i0146, i0154 (pattern record) | The father's V01–V02 voices (i0025, i0071); the cordon at a tall building (i0038–i0039); "お母さんも同じ気持ち" (i0041); Kozue's V01 note's words on a sheet (i0042; recalled or rewritten); "お母さんが家事しなくなった気持ち" (i0044); 「母(故人)」 (i0047); "待っててね… お母さん…" (i0065); 「これから先にお母さんのところへ」 (i0067); the V01 outburst re-read (i0086); the unsent 「大丈夫?」 repeated (i0111–i0112; V07 i0099–i0100) and Kurumi's "…大丈夫" (i0146); the V07 bath recalled with its roles reversed (i0147; V07 i0058); Mochiko's V01 epithet spoken (i0126) and her V01 binary as "結局死にそう" (i0154) | Pages across the volume and accepted V01, V02, V05, V07 | — (pattern record) | The daughter walks the mother's road to its edge; the friend's private verdict becomes open speech; the withheld word becomes presence | Designed echoes EVAL MOD-HIGH on form; Whether the i0042 sheet is a memory or a new note is UNRESOLVED. E009, E016–E019, E026–E028, E033, E040, E047, E053, E057; C035 |
+| FXK-V09-D001 | W01 / V09 / 第41話 / i0003–i0009 | A winged, unclothed girl with Kurumi's face (stylized): "今どんな気持ち?", "でも 楽しかったでしょ?" (i0005–i0006); Kurumi: "この悪魔!", "早く 私から 出てってよ", "聞きたくない" (i0006–i0008); the girl: "…簡単に 私を 否定しないで ほしいな" (i0009) | Kurumi, a dream (waking caption i0010); the morning after V08's night 3 | Listen, argue or expel → expels, covers her ears | The figure fades, unrefuted | INF HIGH the figure is part of Kurumi ("私から"); echo of V08 "もう死ぬから 出ていって?"; INF MOD-HIGH it continues the accepted V02 winged tempter (design; "楽しかったでしょ?" against "気持ちよかったでしょ…♥"; FXK-V02-C012). E001; C003, C074 |
+| FXK-V09-D002 | 第41話 / i0010–i0016 | Lock screen 「10:58」 (i0010); "…10時間も 寝ちゃったな" (i0011); "空って こんなに 明るかったっけ…" (i0012); Mochiko's okayu, "ひと口だけでいいから"; the pot emptied (i0013–i0015); "ごちそうさま〜" (i0016) | Kurumi and Mochiko in the flat, late morning, undated | Eat or refuse (she had vomited a bento, SR) → eats ravenously | Sleep and appetite return | First present-time page shows Kurumi alone (MX08-2). E002–E003; C004 |
+| FXK-V09-D003 | 第41話 / i0016–i0019 | "くるみの人生会議"; "それは 自己破産一択だと思うけどね" (i0017); 任意整理: "年間1400万円以上 遅延損害金", "3年〜5年", "1億円を5年で完済するとして 月々の返済金額は166万円以上" (i0018 crop); 個人再生: "最大10%まで圧縮", "5000万円以下の借金じゃないと… できない" (i0019); Kurumi: "…やっぱり 自己破産しかないと" (i0019) | Mochiko's account (hedged "確か", "らしい"), gag explainer; Kurumi | 任意整理 / 個人再生 / 自己破産 → bankruptcy by elimination | Kurumi concludes for bankruptcy | CALC 100,000,000/60 = 1,666,667 ✓; 14.6% × 101,534,644 = 14,824,058 ≥ 1400万 ✓. Real procedure EXTERNAL_REFERENCE, excluded. E004; C005 |
+| FXK-V09-D004 | 第41話 / i0020–i0027 | "借金自体はどうにでもなる… これからくるみがどうやって生きていくのかでしょ" (i0020); "心が 枯れちゃった", "頭おかしい人だしね" (i0021); "勝てばいいのでは?", "自分のために投資に再挑戦するのは 全然おかしくない", "話相手が欲しいという意味では そう…かも? / 一般的には止めるべきなんだろうけど" (i0022); "相場の世界に戻ってくるんだろうね" (i0025); "本当に母親のためだけだったの?" (i0027) | Mochiko (speech) to Kurumi; Kurumi's SR | Stop her, or encourage → Mochiko encourages a return "for your own sake", naming her interest and the norm | Kurumi's premise questioned | Encouragement vs care (labelled). E005–E008; C006–C008 |
+| FXK-V09-D005 | 第41話 / i0028–i0033 | "なんで私は FXで取り返すことしか考えられなかったんだろう" (i0028); imagined saving to 「*20,010,100」 (i0029 crop); "ずっと小さな姿で現れてたのは / 私がFXを始めるずっと前から / 根っからの欲張りだったからなんだ" (i0031); "強欲の雌豚… 本当その通りの人間だった", "お母さんの失敗を大義名分にしてたんだよ" (i0032); Mochiko: "母親の影響も…", "私は否定しないよ" (i0033) | Kurumi, captions and speech; Mochiko | Deny, or own the greed → owns it; Mochiko does not deny her | The figure named as innate greed; V08's epithet accepted | Self-indictment possibly a new simplification (counterreading 3). The "small" appearances: INF MOD-HIGH the accepted V02 tempter; which ones she means stays open (V09-U11, narrowed). E009–E011; C009, C074 |
+| FXK-V09-D006 | 第41話 / i0034–i0035 | "身につけた知識と経験は本物じゃん / 私がこうやって手を貸してる理由でもある" (i0034); "私の会社に来ない?" (i0035) | Mochiko to Kurumi | Pay the debt (refused V08), leave, or invite → invites | An offer stands; no answer | INF MOD completes V07-U04 "私と一緒に…"; V08-U07 advanced. E012; C010 |
+| FXK-V09-D007 | 第41話 / i0035–i0037 | Box labelled 「返品する!!」 (i0035); the return at 「ホームセンター コナーン」 (i0036); "言われた通りやったらできたよ" (i0037) | Kurumi, coached by Mochiko; undated | Keep or return → returned | The means leave the flat | Mochiko's blunt word (not transcribed). E013; C011 |
+| FXK-V09-D008 | 第41話 / i0038–i0040 | Sign 「きしかいせい 法律事務所」 (i0038); "弁護士費用分割して払うとか", "一番簡単なのは 親に相談して費用を負担してもらうこと" (i0039); "…怖いからやだ", "軽蔑される", "ビンタされちゃう", "…それで1億チャラになるなら安いでしょ", "お父さんにバレずにチャラにしたい" (i0040) | Mochiko and Kurumi, city centre | Instalments / parental funding / concealment → Kurumi wants concealment | Concealment stated | V08's "幼稚な保身" persists. E014; C012 |
+| FXK-V09-D009 | 第41話 / i0041–i0044 | "子供に戻ってるんじゃないよ" (i0041); "大人だよ / だからこそ お父さんは頼りたくない" (i0042); Mochiko's inner "爆弾しか生まれない気がしてきた", "ずっと子供のまま 時が止まっていたんだな" (i0042–i0043); "大人って言われたいなら ちゃんとお父さんに話しなよ / あんな遺書書くより よっぽど簡単でしょ" (i0043); "ごめん つい出来心で… お父さんがかわいそうすぎて泣けた" (i0044) | Mochiko's thought (reader only); speech to Kurumi | Withdraw the offer silently, or press for disclosure → presses | Kurumi learns Mochiko read the letter | Privacy breach admitted. E015–E016; C012 |
+| FXK-V09-D010 | 第42話 / i0047–i0049 | 「大都南駅」 (i0047); badge 「99」 (i0048 crop); "FX会社からも連絡きてるんだろうけどさ / …ガン無視していこうよ", "着信件数の上限" (i0048); "みんなから連絡来てる", "萌智子からは…… 来てない…", "返信しとこ…" (i0049) | Kurumi's phone; Mochiko's supposition | Look or not → looks; replies to friends | Friends answered (Mebuki confirms, i0088) | No broker communication shown (MX08-8, B8-F05-13). E017; C013 |
+| FXK-V09-D011 | 第42話 / i0050–i0052 | "お父さんに電話 / 明日確認するからね? / もし連絡してなかったら 会社の話もなかったことにしてもらうから" (i0050); "学校の試験中だったのに"; "しんどいときは電話してよね / ひとりにしたあと死なれたら後味最悪なんだから" (i0051); the letter's lines as backdrop; "人生をなかったことになんて 寂しすぎるから", "勝手に読んで悪かった… ごめん" (i0052) | Mochiko to Kurumi, station; both in exams | Condition the offer or not → conditions it on calling the father | A test of honesty set; the "明日" check never shown | Care in a deflecting register. E018–E019; C014 |
+| FXK-V09-D012 | 第42話 / i0053–i0054 | "萌智子は 強欲な私を 肯定してくれた" (i0053); "嬉しかったけど… / 私自身が認めていいのかな…", "大金を稼ごうとする気持ちなんて 絶対に消し去った方がいい", "お父さんもお母さんもきっと それを望んでいるはずだけど…" (i0054) | Kurumi, inner captions; the winged figure beside her | Accept or erase the desire → unresolved ("けど…") | — | E020; C015 |
+| FXK-V09-D013 | 第42話 / i0055–i0061 | 「福賀家之墓」; "…ちょっと早いけど 今年も来たよ" (i0055); "もう6年だね" (i0056); "私なら取り返すことができるって豪語して / その結果1億の借金" (i0057); "楽しかった 自分が いるんだ" (i0058); "相場の世界で みんなと出会えて ガチンコ勝負をして… 楽しかった" (i0060); "私とお母さん 似てるけど違うんだ" (i0061) | Kurumi to her dead mother; undated, before 13 Feb (INF MOD) | Silence or confession → confesses to the grave first | The mother-identification broken in her words | CALC 13 Feb 2009 + 6 = Feb 2015 ✓. E021–E023; C016 |
+| FXK-V09-D014 | 第42話 / i0062–i0066 | Father: "たまの出張くらいが一番楽しいかな" (i0063); Kurumi (phone): "私! FXで負けて / 自己破産しないと いけなくなっちゃったの!" (i0063); "緊急事態なので / ちょっと帰ってきてください!" (i0064); dial tone; "お前じゃ扱いきれん…!", "駅へ行ってくれ" (i0065–i0066) | Kurumi by phone to the father (on transfer, with a colleague) | Conceal / letter after death / call → calls (EXECUTED), hangs up | The father knows of the loss and the bankruptcy; heads home | His reaction withheld behind a gag. MX08-5, -6; F02-3, -5. E024–E026; C017 |
+| FXK-V09-D015 | 第43話 / i0067–i0073 | Chat 「今駅降りた」 / 「わかった 鍵開けとくね」; "…ただいま" (i0067); dogeza, "ごめんなさい" (i0068); "怒らないから 顔を上げろ", manjū (i0069); "黙ってFX続けて その挙げ句大負け 1億の借金背負ったと…" (i0070); "くるみが生きていてくれて よかった / 母さんのときは 相談もなかったからな…" + memory (i0072); "父さんが相談しづらくしてたんだろう / 情けない話だ", "やったことは滅茶苦茶だが 本当によく言ってくれた…" (i0073) | Father and Kurumi, the flat, night (i0067 opened before F03: slip) | Anger, contempt, a slap (feared, i0040) / calm → calm, relief, self-blame | Kurumi relieved of the feared response | V08's narrator verdict borne out. E027–E030; C018 |
+| FXK-V09-D016 | 第43話 / i0074–i0075 | Bankbook 「総合口座通帳」; "300万円入ってる / 破産にかかる費用はこれで捻出できるはずだ", "もともとくるみのために貯めてたお金だったからな" (i0074); V01 caption "きっとこの「300万円」は 福賀家再興の証し——" re-lettered; "まさか こんな使い道になるとはな" (i0075) | Father's statement (balance not displayed); Kurumi: "いいの…?" (i0074), "お父さん ありがと——", cut off (i0075) | Offer / lend / refuse → offers; acceptance expressed in thanks | Costs offered; the money's use, a fee or a court deposit never shown (INF MOD-HIGH that the costs came from it; V09-U14) | V01's secret use answered by an open offer; the cash returned to him in V02 (accepted), its deposit into the bankbook undated (V09-U13). Reviewer C-01, C-08. E031; C019 |
+| FXK-V09-D017 | 第43話 / i0076–i0082 | "もう二度と FXしないと誓えるか?" (i0076); "それは誓えない…!", "もちろん今はやるつもりはないよ / でもこれから何十年と生きていく中で 絶対にしないとは言い切れない" (i0078); "FXなのか株なのか… 次に投資をやりたくなったそのときは 堂々とやりたいんだ"; "…よく平気でそんなこと言えるな" (i0079); "本当にギリギリだったんだよ" (i0080); "この家の娘に生まれてきたすべてを! 人生を! … なかったことに したくないんだ" (i0081–i0082) | Father's demand; Kurumi's refusal and disclosure | Vow (keep or break) / refuse → refuses, at what may have seemed the cost of the money (the vow interrupts her thanks; not stated as a condition, and nothing is withdrawn: INF MOD; Agent B reads no condition shown) | An intention to live stated; the letter's request retracted in its words | The father not shown told of the letter (F03-5). "ギリギリ" is SR; its meaning (close to death) INF HIGH from the memorial-portrait cut. E032–E034; C019 |
+| FXK-V09-D018 | 第43話 / i0083–i0084 | "くるみももう大人なんだ / やりたいことをやる自由はある / 親に人生を決められたくはないだろう" (i0083); "それでも 俺はやめろと言うぞ / 親・と・し・て・な"; "…ありがとう 心配してくれて"; "可愛い子供だからな" (i0084) | Father to Kurumi | Insist on the vow / withdraw → withdraws, keeps his opposition | Her adulthood recognized | 俺 / 父さん split. E035; C019 |
+| FXK-V09-D019 | 第43話 / i0085–i0097 | 「21:30」 over a wallpaper of a young couple (INF LOW-MOD himself and Kozue); "もう夜ご飯作ったのか?" — "まだ作ってない" — "…いや いいんだ" — "たまには外でハンバーグでも食べるか" (i0085); Yasuko: "すげー借金なんだろ?"; Mebuki: "萌智子先輩はたぶん大丈夫って言ってたけど" (i0089); Yasuko's imagined video list 「簡単に稼げる特集」「○今日から始める闇バイト TOP10」「ゆっくり苦瑠実だぜ。」 (i0090); "パパ活…" (i0091); "好きなの頼みなさい" (i0092); messages 「パパ活はやめろ」 / 「パパ活ってなに?」 (i0093); "私たちの先輩を傷つけるなら 絶対許さないんですけど!"; "父ですが… なにか?" (i0095); "いい子たちなのか?", "友達は大切にな" — "うん!!!" (i0096–i0097) | Mebuki (debt known via Mochiko), Yasuko (source unstated, INF MOD via Mebuki); father and Kurumi; same night | — (gag) | The friends meet the father | MX08-12 not met (Kurumi does not tell them). E036–E038; C020 |
+| FXK-V09-D020 | 第43話 / i0098 | CAP 「2015年 2月上旬——」「くるみは 父の紹介の 弁護士と面談」「破産手続きに関わる 委任契約を締結」「再生に向けて 動き始めていた」; "よろしく お願いします…" | Narrator caption; Kurumi and an unnamed lawyer | — → retainer concluded (EXECUTED by caption) | The legal route begun | First printed present-time date; deadline's passing never shown. E039; C021 |
+| FXK-V09-D021 | 第44話 / i0101–i0103 | CAP 「2015年 秋——」; plaque 「大都大学」 (i0101 crop); "卒論のテーマ決まった?" — "「爆益を狙った場合における投資行動の一考察」 / これ参考書!" (book 「ケリー基準及び」…, i0103 crop) | Kurumi and Mochiko on a campus | — | The market drive turned to study | Campus name vs accepted 新都大学 UNRESOLVED (V09-U01). E040; C022 |
+| FXK-V09-D022 | 第44話 / i0103–i0105 | DOC 官報 (verbatim, drafting crop): 「破産手続き終結及び免責許可決定 / 平成27年(フ)×××号 / 破産者 福賀 くるみ / 1 決定年月日 平成27年11月×日 / 2 主文 本件破産手続きを終結する。 / 3 理由の要旨 配当が終了し、破産管財人の任務終了による計算の報告を目的とした債権者集会は終結した。 / 4 主文 破産者について免責を許可する。 / ○○裁判所」 (i0104); "破産おめでと" — "時間かかったけどね" (i0105) | Mochiko's gift; diegetic document | — (outcome record) | Bankruptcy concluded, discharge granted | CALC 平成27年 = 2015; what was distributed, and from what, unshown (V09-U14). F06-3 literal: document, not caption/balloon. Mochiko's amusement at the list of recent bankrupts ("読んでみたら面白かったよ") is a weak counterexample to "no enjoyment of misfortune" (reviewer C-15). E041; C023 |
+| FXK-V09-D023 | 第44話 / i0106 | "破産しても 去年の税金は残ってるんだっけ?" — "うん 一括じゃ払えないから 役所と相談中"; "いっそ生活保護受けたら? / 3年くらい続けたら 税金の支払い義務なくなるでしょ" — "さすがに受給できないよ… / 体は健康だし! / 私は地道に払っていくよ!" | Mochiko and Kurumi, autumn 2015 | Lump sum / instalments / welfare → instalments | Responsibility accepted for the tax | Tax figure not reprinted; Mochiko's welfare claim recorded as printed only. EN-9 (tax ≠ FX debt). E042; C024 |
+| FXK-V09-D024 | 第44話 / i0107–i0108 | "バイトも復活して コツコツ稼いでるんだから / 山口さん喜んでたし!!" (vignette co-worker, spiky tied-up hair: "戻ってくるの待ってたよ〜"); "もっと稼げる仕事あると思うけど" — "お父さんと相談して決めたんだ / 給料も税金払い終わるまでは お父さんに管理してもらう感じ" (i0107); "ふーん…" (i0108) | Kurumi to Mochiko | Better-paid work / the convenience store → the store, with the father controlling her wages | Paid non-trading work (MX08-4); external control of her money | Gender of 山口さん not asserted from this page; INF MOD-HIGH V07's worker (V08-C073). E043; C025 |
+| FXK-V09-D025 | 第44話 / i0108–i0113 | "なんでウチがタコパ会場になってんだよっ!!" — "だってここが大学から一番近いんだもん" (i0109); "ちょっと会社の人員探しててさ" (i0109); "うん ひとりで仕事するの厳しくなりそうなんだよねぇ / くるみの卒業まで待てないし" (i0110); Yasuko: assistant work, no debut (i0111); "FX再開しようとか 思ったりしないの?" — "まったく思わんけど?" / "まったく投資をしないのも 違う気がしてるんだよなぁ… / FXはやらんけど!" (i0112–i0113) | Mochiko, Yasuko, Kurumi at Yasuko's flat | — | Recruiting; an expectation that Kurumi joins after graduation (INF MOD-HIGH) | Kurumi not shown accepting (F01-2, F05-3). F01-8 literal DISCONFIRMED (workload and wait stated, no benefit from Kurumi joining; reviewer C-04). Yasuko's NEET acquaintance: a silhouette with round glasses (i0110), INF MOD Nana (V09-U15). E044–E045; C026–C027 |
+| FXK-V09-D026 | 第44話 / i0113–i0118 | "私の借金 今どんな感じです?" (Mebuki asks her creditor) — "このペースなら来月には完済だね" (i0114); "もうやってるよ? / 国内口座開設したし", "ちょっとお金に余裕出てきたから"; Kurumi: "い…今なにかポジってるの?" — "はい!" (i0115); "南アフリカランドです!", "金利差調整額(スワップポイント)狙い" (i0116); "放置してるだけで いっぱい金利がもらえる!"; Yasuko: "ランドの価値そのものが下がったら 金利の利益なんて吹っ飛ばねぇか?"; "下がったときの作戦も考えてるから大丈夫!"; diagram 「金利の利益」 vs 「下落の損失」; Mochiko (TH): "私は一生手を出さない通貨だな" (i0117); Kurumi stares at her phone; Mochiko (TH): "ランドのチャート見てるんじゃ…" (i0118) | Mebuki (SR); Yasuko; Mochiko (TH); Kurumi | Mebuki: hold for swap vs not trade → holds (size, entry, direction unprinted) | — (no outcome in V09) | INF MOD long ZAR; a yen cross INF MOD (the diagram's 「日本」 / 「南アフリカ」 bars, i0116). Candidate models: overconfidence, house money (labelled); re-entry before repayment is a reliability flag (Agent B). Kurumi's screen not shown. E046–E047; C028–C029 |
+| FXK-V09-D027 | 第44話 / i0119–i0121 | "くるみ先輩は もうFXしないんですか?"; "くるみは今それどころじゃないだろ"; "今すぐ再開はできないけど…" (i0119 P2); "いつかは / 戻ってきたいと思ってるんだ…" (i0119, bottom right); "だって私" (i0119, bottom left) → "相場が" (i0120) → "大好きだから" (i0121) (panel order restored at reconciliation, reviewer C-02) | Kurumi to Mebuki, Yasuko, Mochiko | Disown or declare → declares | The friends accept it (smiles) | No order (F04-5). E048; C030 |
+| FXK-V09-D028 | 第44話 / i0122–i0123 | "ただいまー" — "おかえり"; "デスソースのたこ焼きを 5回連続で当てた"; father: "そ…そうか…", "運がいいのか悪いのかわからないが… 辛そうだな… 大丈夫か?" (i0122); "…ごめんね 転勤中なのに しょっちゅう帰ってきてもらって" — "気にするな"; "自己破産 無事に済んでよかったな" (i0123) | Father and Kurumi at home, autumn 2015 | — | Bankruptcy completion stated in a balloon | F06-3 (completion ≠ discharge as written). E049; C031 |
+| FXK-V09-D029 | 第44話 / i0124–i0130 | The winged girl on her bed (i0124); "おかえり!" (i0125); "この私は きっと / 私が死ぬまで / 消えることはないのだろう", "ただいま" (i0125–i0126); "ならば いっそのこと / 支配して コントロールしてみせる…!" (i0127–i0128); "いつか" "必ず", "じゃあ 行こっか" (i0129); the flight into a vortex of quote tiles and candlesticks (i0130) | Kurumi's inner text and speech; vision in present time | Expel (i0008) or embrace → embraces, resolves to control | The desire taken along; a return "いつか 必ず" | Candidate model: illusion of control (labelled); untested in V09. E050–E052; C032 |
+| FXK-V09-D030 | 第45話 / i0133–i0141 | CAP 「2014年 3月——」, 「それから 3年——」 (i0133); 「2017年 4月3日 月曜日」; NB 「酒田いなご(21)【短大卒 新社会人】」 (i0134); "履歴書は不要だったし / 面接もテレビ電話でちょっとだけ…" (i0136); phone card 「(株)もちもち企画 / 住所 大都市大都区大都町○○○」 (i0136 crop); "ブラックなのかなぁ…", "最低3年は頑張ろう…!" (i0137); "こんなポンコツな私でも採用してもらえたんだから" (i0139); 「新都ビルヂング」, 「201」「(株)もちもち企画」 (i0140) | Inago's viewpoint; captions, name box, phone screen | Doubt or commit → commits | A new employee arrives | Hiring irregularities framed as dread; room 201 (UNRESOLVED motif). E053–E054; C033 |
+| FXK-V09-D031 | 第45話 / i0142–i0151 | NB 「高根やす子(23)【漫画家】」 (i0142); NB 「小金萌智子(23)【代表取締役 社長】」, "…どうも / よろしく" (i0143); 「入社書類」 (i0144); "なんで私 採用されたんでしょう…?" (i0146); ohagi, "兼業農家" (i0147); "ほかの社員と過度な馴れ合いはやめてね", "やす子は部外者だから" (i0148); NB 「善波なな(23)【クリエイター】」, "A店から軽めのリテイク来てるから" (i0149); "また会社に泊まったんですか!?"; "誰でもよかったわけじゃないからね" (i0151) | Mochiko, Yasuko, Nana, Inago; the office, 3 April 2017 | — | Inago reassured | The company's business not stated (F07-6; MX09-3). E055–E056; C034 |
+| FXK-V09-D032 | 第45話 / i0151–i0158 | "ようこそ いなごちゃん! / 福賀くるみです!", NB 「福賀くるみ(23)【事務員】」, sleeping bag (i0152); a falling candlestick chart, clicks, gridlines 「111.」「111.10」 (i0154 crop); a leer 「にたぁ」 (i0156); "栄養補給ぅ〜" (i0157); "きずなさん" (Kurumi, i0157); NB 「月森きずな(27)【営業】」; CAP 「酒田いなご もちもち企画に入社」; 「TO BE CONTINUED...」 (i0158) | Kurumi (clerk), Kizuna (sales), Inago | — | Kurumi re-enters as a clerk; the market on a colleague's screen | Whether Kurumi trades in 2017 not shown; Kizuna's chart is a price display, no pair inferred (reviewer C-05); her motive UNRESOLVED (V09-U03, U05). Kurumi holds a broom (i0157). E057–E059; C035–C036 |
+| FXK-V09-D033 | W01 / V09 / i0018, i0056, i0098, i0104, i0133–i0134 (analyst arithmetic) | Printed or spoken operands: "1億円", "5年", "166万円以上", "年間1400万円以上"; V07 −101,534,644 and 14.6%; accepted death date 13 Feb 2009 and "もう6年"; 平成27年; 「2014年3月」 + 「3年」; 「2015年秋」 → 「2017年4月3日」 | Analyst arithmetic of printed figures | — (outcome record) | 100,000,000/60 = 1,666,667 ✓; 14,824,058 ≥ 1400万 ✓; 2009 + 6 = 2015 ✓ (before the anniversary); 平成27年 = 2015; ≈ March 2017; ≈ 18 months | ANALYST CALCULATION; no debt, tax or wage figure computed (none printed). §F.7; C039 |
+| FXK-V09-D034 | 第41–45話 / i0006–i0009, i0033, i0040–i0043, i0052, i0061, i0072–i0073, i0081–i0084, i0122–i0128 (pattern record) | "私から出てってよ" (i0008) / V08 "出ていって?"; "否定しないでほしいな" (i0009) / "私は否定しないよ" (i0033); the letter's "無かったことにして" (i0052) / "寂しすぎる" (i0052) / "なかったことにしたくない" (i0082); "大人" (i0042–i0043, i0083); "似てるけど違うんだ" (i0061) and the father's "母さんのときは相談もなかった" (i0072); "おかえり"/"ただいま" twice (i0122, i0125–i0126); "地道" / "コツコツ" (i0029, i0106–i0107); V01's 300万 (i0075) | Pages across the volume and accepted V01, V07, V08 | — (pattern record) | The expelled figure is welcomed; the letter's words reversed; the mother's road left | Designed echoes EVAL MOD-HIGH on form. E001, E011, E019, E023, E029, E034–E035, E050; C038 |
 
 When it matters, carry amount, sign, denomination, unit and state as printed, retaining how each value was derived. Record action status only where evidenced. A speaker’s intention, chart on a page and later resulting balance have different authority. Give directed changes their own rows if reciprocity or disagreement matters. Keep comparisons across distinct episodes and significant form choices directly retrievable.
 
@@ -1867,12 +1901,267 @@ A row marked "independent prospect" was frozen in the specialist's own lane. In 
 | FXK-V08-F210 | B8-F05-18 Kurumi submits a new FX order within V09 (Agent B; MOD) | Agent B F05 CLOSING (07:58:14, after i0158; before i0159 and every deferred input) | — | OPEN (next admitted volume); independent prospect |
 | FXK-V08-F211 | B8-F05-19 Mochiko's 打算 stated aloud to Kurumi within V09 (Agent B; MOD) | Agent B F05 CLOSING (07:58:14, after i0158; before i0159 and every deferred input) | — | OPEN (next admitted volume); independent prospect |
 | FXK-V08-F212 | B8-F05-20 The fate of the purchased plan items shown within V09 (Agent B; LOW-MOD) | Agent B F05 CLOSING (07:58:14, after i0158; before i0159 and every deferred input) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-C001 | V09's governing thesis: the debt is separated from the desire that produced it — the debt closed through institutions and family (bankruptcy "一択", the confession, the father's 300万 offered for the costs, a lawyer, a discharge under her name; the 2014 tax paid "地道に" with wages the father manages), the desire owned rather than cured (innate greed named, the mother's failure admitted as a pretext, "楽しかった自分がいる", "似てるけど違う", the vow refused, "相場が大好きだから", "ただいま", "支配して コントロールしてみせる"); 共生 as coexistence conducted openly ("堂々と"), made possible by Mochiko's non-denial and the father's refusal of anger with his opposition kept; 2017 tests it only by displacement (principal) | Principal's page record and STATE; F01–F10; MAIN_EXIT | i0017, i0031–i0033, i0058, i0061, i0063, i0069–i0084, i0098, i0104–i0107, i0119–i0130, i0152, i0154 | NEW; EVAL on OBS HIGH; design EVAL MOD-HIGH (a live alternative reading of 共生: FXK-V09-C075); V09 reading §D.1 |
+| FXK-V09-C002 | Competing thesis: a restoration comedy that dissolves V08's crisis faster than its premises allow — the debt vanishes off-page between two captions with no creditor or figure; a parent's money is offered; every feared consequence becomes relief; the friends' concern becomes a gag; Kurumi, the protagonist, is decentred by a new cast; "共生" as a licence to keep the market engine without showing the cost, the risk moved onto Kizuna and Mebuki (principal) | Principal's page record | For: i0048, i0098, i0104–i0105, i0091–i0097, i0122, i0133–i0158. Against: i0084, i0106–i0107, i0152 | NEW; OPEN (live); V09 reading §D.2 |
+| FXK-V09-C003 | The dream: the winged girl's "楽しかったでしょ?", Kurumi's "私から出てってよ", the plea "否定しないでほしいな" (principal) | Page record | i0003–i0009 | NEW; OBS/SP HIGH; V09 reading E001 |
+| FXK-V09-C004 | Morning recovery: ten hours' sleep, the bright sky, okayu eaten ravenously (principal) | Page record | i0010–i0016 | NEW; OBS/SR HIGH; E002–E003 |
+| FXK-V09-C005 | The "life meeting": 自己破産一択; 任意整理 and 個人再生 ruled out with Mochiko's figures (年間1400万円以上; 166万円以上/月; 5000万円以下; 最大10%); "やっぱり自己破産しかないと" (principal) | Page record; crop i0018 | i0016–i0019; CALC ✓ | NEW; SP HIGH + CALC; E004 |
+| FXK-V09-C006 | "借金自体はどうにでもなる / これからくるみがどうやって生きていくのか" (principal) | Page record | i0020 | NEW; SP HIGH; E005 |
+| FXK-V09-C007 | "心が枯れちゃった"; Mochiko's encouragement to invest again "for your own sake", her interest named ("話相手") and the norm acknowledged ("一般的には止めるべき") (principal) | Page record | i0021–i0024 | NEW; SP HIGH; E006–E007 |
+| FXK-V09-C008 | Mochiko's prediction ("相場の世界に戻ってくるんだろうね") and diagnosis ("本当に母親のためだけだったの?") (principal) | Page record; crop i0027 | i0024–i0027 | NEW; SP HIGH; E008 |
+| FXK-V09-C009 | Self-recognition: the FX-only premise questioned; the winged figure named as innate greed ("根っからの欲張り"); "お母さんの失敗を大義名分にしてた"; Mochiko's "私は否定しないよ" answering the figure's plea (principal) | Page record; crop i0029 | i0028–i0033 | NEW; SR/SP HIGH; echo EVAL MOD-HIGH; E009–E011 |
+| FXK-V09-C010 | The invitation "私の会社に来ない?" with its stated reason ("知識と経験は本物… 手を貸してる理由") (principal) | Page record; F01 | i0034–i0035 | NEW; SP HIGH; E012 |
+| FXK-V09-C011 | The purchases returned at the store, coached by Mochiko (principal) | Page record | i0035–i0037 | NEW; OBS HIGH (items generic); E013 |
+| FXK-V09-C012 | Concealment from the father ("バレずにチャラにしたい"); Mochiko's private "爆弾" and "ずっと子供のまま"; "大人って言われたいなら… あんな遺書書くより"; the letter read and apologized for (principal) | Page record; F02 | i0038–i0044 | NEW; SP/TH HIGH; E014–E016 |
+| FXK-V09-C013 | 99 missed calls (display limit); the broker's contact only supposed by Mochiko; replies to friends (principal) | Page record; crop i0048 | i0047–i0049 | NEW; SCR/SP HIGH; E017 |
+| FXK-V09-C014 | The condition on the offer ("会社の話もなかったことに"); the farewell ("死なれたら後味最悪"); the letter's request rejected ("寂しすぎる"); the apology (principal) | Page record | i0050–i0052 | NEW; SP HIGH; E018–E019 |
+| FXK-V09-C015 | The conflict between affirming and erasing the desire for big money (principal) | Page record | i0053–i0054 | NEW; TH HIGH; E020 |
+| FXK-V09-C016 | The grave: "もう6年", "1億の借金", "楽しかった自分がいるんだ", "似てるけど違うんだ" (principal) | Page record | i0055–i0061 | NEW; SP HIGH; E021–E023 |
+| FXK-V09-C017 | The confession by phone ("FXで負けて 自己破産しないといけなくなっちゃったの!"); "駅へ行ってくれ" (principal) | Page record; F03 | i0062–i0066 | NEW; SP/OBS HIGH; E024–E026 |
+| FXK-V09-C018 | The father's response: "怒らないから顔を上げろ"; relief that she lives; the remembered silence of his wife; self-blame; "本当によく言ってくれた" (principal) | Page record (i0067 slip disclosed); F03 | i0067–i0073 | NEW; SP HIGH; E027–E030 |
+| FXK-V09-C019 | The 300万 offered ("くるみのために貯めてた") and accepted in thanks, its use not shown; the vow demanded and refused; "堂々と"; "ギリギリ"; "なかったことにしたくない"; "もう大人" / "それでも俺はやめろと言うぞ 親としてな" (principal) | Page record; F03–F04 | i0074–i0084 | NEW; SP HIGH; E031–E035 |
+| FXK-V09-C020 | The restaurant: Mebuki knows of the debt via Mochiko, Yasuko's source unstated; Yasuko's imagined video list; the パパ活 gag; "好きなの頼みなさい"; "父ですが… なにか?"; "友達は大切にな" (principal; reviewer C-11, C-14) | Page record; F04–F05 | i0085–i0097 | NEW; SP/OBS HIGH; E036–E038 |
+| FXK-V09-C021 | The lawyer retained, 「2015年2月上旬」 (principal) | Page record; F05–F06 | i0098 | NEW; CAP HIGH; E039 |
+| FXK-V09-C022 | Autumn 2015: the thesis on 爆益 investing (Kelly-criterion reference); the campus plaque 「大都大学」 against the accepted 新都大学 (UNRESOLVED) (principal) | Page record; crops i0101, i0103 | i0101–i0103 | NEW; SP/OBS HIGH; campus UNRESOLVED; E040 |
+| FXK-V09-C023 | The gazette: bankruptcy concluded and discharge granted, decision dated 平成27年11月×日 (principal) | Page record; drafting crop i0104 | i0104–i0105 | NEW; DOC HIGH; E041 |
+| FXK-V09-C024 | The 2014 tax survives; instalments; welfare refused; "地道に払っていく" (principal) | Page record | i0106 | NEW; SP HIGH; E042 |
+| FXK-V09-C025 | The convenience-store job resumed (山口さん); wages managed by the father until the tax is paid (principal) | Page record; drafting re-check i0107 | i0107–i0108 | NEW; SP HIGH; E043 |
+| FXK-V09-C026 | Mochiko recruiting; "ひとりで仕事するの厳しくなりそう / くるみの卒業まで待てないし" (principal) | Page record; drafting re-check i0110 | i0109–i0111 | NEW; SP HIGH; expectation INF MOD-HIGH; E044 |
+| FXK-V09-C027 | Yasuko: no FX, but "まったく投資をしないのも違う気がしてる" (principal) | Page record | i0112–i0113 | NEW; SP HIGH; E045 |
+| FXK-V09-C028 | Mebuki: loan near repaid; FX restarted in a domestic account; a rand swap position; the page's gain/loss diagram; Mochiko's private rejection (principal) | Page record | i0114–i0117 | NEW; SP/OBS HIGH; direction INF MOD; E046 |
+| FXK-V09-C029 | Kurumi's phone and Mochiko's suspicion of a rand chart (screen not shown) (principal) | Page record | i0118 | NEW; OBS HIGH; E047 |
+| FXK-V09-C030 | "いつかは戻ってきたいと思ってるんだ… 相場が大好きだから" (principal) | Page record | i0119–i0121 | NEW; SP HIGH; E048 |
+| FXK-V09-C031 | The father at home ("転勤中なのに しょっちゅう帰ってきてもらって"); "自己破産 無事に済んでよかったな"; the death-sauce luck joke (principal) | Page record; drafting re-check i0122 | i0122–i0123 | NEW; SP HIGH; E049 |
+| FXK-V09-C032 | The winged girl's return: "おかえり" / "ただいま"; "私が死ぬまで消えることはないのだろう"; "支配して コントロールしてみせる…!"; "いつか 必ず"; "じゃあ 行こっか"; the vortex (principal) | Page record; F07–F10 | i0124–i0130 | NEW; OBS/TH HIGH; EVAL MOD-HIGH; E050–E052 |
+| FXK-V09-C033 | 第45話: 酒田いなご; 「2017年4月3日 月曜日」; (株)もちもち企画, room 201, 新都ビルヂング; the hiring irregularities seen through her dread (principal) | Page record; crop i0136 | i0133–i0141 | NEW; CAP/NB/SCR HIGH; E053–E054 |
+| FXK-V09-C034 | The office: Yasuko (部外者, 【漫画家】); Mochiko (社長); Nana (【クリエイター】, a client retake); "誰でもよかったわけじゃない" (principal) | Page record; drafting re-check i0146 | i0142–i0151 | NEW; NB/SP HIGH; E055–E056 |
+| FXK-V09-C035 | Kurumi 【事務員】 at もちもち企画, sleeping at the office (principal) | Page record; drafting re-check i0152 | i0151–i0152 | NEW; NB/OBS HIGH; E057 |
+| FXK-V09-C036 | Kizuna's falling chart (a price display, no pair) and leer; the same flush and panting at her hug of Inago (INF MOD); 【営業】; "入社"; 「TO BE CONTINUED...」 (principal; Agent D; reviewer C-05) | Page record; crop i0154; reconciliation re-check i0157 | i0153–i0158 | NEW; OBS/NB HIGH; motive UNRESOLVED; E058–E059 |
+| FXK-V09-C037 | Knowledge map at V09's end (principal) | V09 reading §I | — | NEW; OBS HIGH; supersedes FXK-V08-C034 |
+| FXK-V09-C038 | Page form: turns that convert dread to relief; paper and food over screens; splashes aligning the reader with Kurumi's self-acceptance; designed echoes; a diagram that questions a character; the viewpoint shift that undercuts Inago's readings (principal) | V09 reading §J | — | NEW; EVAL on OBS |
+| FXK-V09-C039 | Printed anomalies and unresolved values kept (campus and building names; no debt figure; the distribution; the tax figure; the 300万's route; truncated labels) (principal) | V09 reading §F.8 | — | NEW; OBS HIGH |
+| FXK-V09-C040 | Apparatus classified; paratext excluded; colophon five issues for five chapters; the afterword's series-planning statements flagged for V10 (principal) | V09 reading §A, apparatus note | i0159–i0171, i0001–i0002, i0166–i0169 | NEW; OBS (paratext) |
+| FXK-V09-C041 | Ordinary-life evidence for Kurumi, Mochiko, the father, Yasuko, Mebuki, Inago, Nana and Kizuna (principal) | V09 reading §H | — | NEW; OBS HIGH |
+| FXK-V09-C042 | Time-line: the first days undated (before 13 February by inference); 「2015年2月上旬」; 「2015年秋」; 平成27年11月×日; 「2014年3月」 + 「それから3年」; 「2017年4月3日 月曜日」 (principal) | V09 reading §N | i0055–i0056, i0098, i0101, i0104, i0133–i0134 | NEW; CAP/DOC HIGH; first days INF MOD; supersedes FXK-V08-C040 |
+| FXK-V09-C043 | Transition of FXK-V08-C001 (V08 governing thesis) (principal) | V08 reading §D.1 | Life over debt (i0020); the re-enactment closed by Kurumi (i0061) and the father (i0072–i0073) | STRENGTHEN (first strand); REVISE (re-enactment strand); V09 reading §M.8, C001 |
+| FXK-V09-C044 | Transition of FXK-V08-C002 (competing: rescue melodrama; facts and "investment" unmoved; crisis interrupted) (principal) | V08 reading §D.2 | The father's 300万 offered for the costs (i0074–i0075; use not shown) and the bankruptcy discharged (i0104); tax in instalments (i0106); the offer (i0035); an intention to live (i0078) | DOWNGRADE; melodrama strand carried in FXK-V09-C002 |
+| FXK-V09-C045 | Transition of FXK-V08-C006 (the reckoning: bankruptcy unaffordable; 2014 tax undischargeable) (principal) | V08 reading E010–E013 | The father's 300万 offered for the costs (i0074–i0075; use not shown) and the procedure completed (i0098, i0104); the tax survives (i0106) | REVISE (bankruptcy); STRENGTHEN (tax) |
+| FXK-V09-C046 | Transition of FXK-V08-C007 (the narrator's verdict: tell the father; "幼稚な保身") (principal) | V08 reading E014 | The father's response (i0069–i0074); Mochiko's "ずっと子供のまま" (i0043) | STRENGTHEN |
+| FXK-V09-C047 | Transition of FXK-V08-C009 (the 相続放棄 plan) (principal) | V08 reading E018–E019 | "なかったことにしたくないんだ" (i0081–i0082) | REVISE (retracted) |
+| FXK-V09-C048 | Transition of FXK-V08-C013 (the 遺書) (principal) | V08 reading E026–E028 | Read by Mochiko (i0044); lines drawn (i0052); request rejected (i0052) and retracted (i0082); the father not shown told | STRENGTHEN (extend) |
+| FXK-V09-C049 | Transition of FXK-V08-C015 (the purchases) (principal) | V08 reading E030–E031 | Returned (i0035–i0037) | REVISE (resolved) |
+| FXK-V09-C050 | Transition of FXK-V08-C017 (Mochiko's denials of care) (principal) | V08 reading E035–E036, E055 | "いちいち送るの私の主義じゃないし" (i0049); "死なれたら後味最悪なんだから" (i0051) | STRENGTHEN |
+| FXK-V09-C051 | Transition of FXK-V08-C020 ("投資することならできる"; "打算付き") (principal) | V08 reading E040–E041 | The invitation and reason (i0034–i0035); condition (i0050); "くるみの卒業まで待てないし" (i0110); clerk in 2017 (i0152) | REVISE (content supplied) |
+| FXK-V09-C052 | Transition of FXK-V08-C022 (refusal to 立て替え; bankruptcy; "いや言いなよ") (principal) | V08 reading E044 | "自己破産一択" (i0017); "親に相談して費用を負担してもらう" (i0039); the condition (i0050); no payment by Mochiko | STRENGTHEN |
+| FXK-V09-C053 | Transition of FXK-V08-C025 ("強欲の雌豚" spoken) (principal) | V08 reading E047 | Accepted by Kurumi (i0032); "私は否定しないよ" (i0033); "おい豚" (i0041) | STRENGTHEN |
+| FXK-V09-C054 | Transition of FXK-V08-C028 (want vs must; no intention to live) (principal) | V08 reading E050–E051 | "これから何十年と生きていく中で" (i0078); "でも私はここにいる…!" (i0081) | REVISE |
+| FXK-V09-C055 | Transition of FXK-V08-C029 (the embrace; 友達) (principal) | V08 reading E052 | "友達は大切にな" (i0097); the four together (i0114) | STRENGTHEN |
+| FXK-V09-C056 | Transition of FXK-V08-C030 (ordinary care; the letter found, fate unshown) (principal) | V08 reading E053–E054 | Okayu (i0013–i0016); the letter read (i0044) | STRENGTHEN (advanced) |
+| FXK-V09-C057 | Transition of FXK-V08-C032 ("真剣に2000万円…", "事故", "結局死にそう") (principal) | V08 reading E056–E057 | "さすがにないよ…" (i0021); Mochiko's prediction and non-denial (i0025, i0033) | REVISE |
+| FXK-V09-C058 | Transition of FXK-V08-C033 ("これからどうしよう…" / "どうにかさせるために私が来てるんだ") (principal) | V08 reading E058–E059 | The "life meeting" (i0016–i0035) | REVISE (answered) |
+| FXK-V09-C059 | Transition of FXK-V08-C034 (knowledge map at V08's end) (principal) | V08 reading §I | Superseded | REVISE (superseded by FXK-V09-C037) |
+| FXK-V09-C060 | Transition of FXK-V08-C035, FXK-V07-C030 and FXK-V06-C029 (parallel structure Kurumi ↔ Kozue) (principal) | V06–V08 readings | Named and broken by Kurumi (i0061); the father distinguishes the two silences (i0072–i0073); the mother drawn (i0072, i0080) | REVISE |
+| FXK-V09-C061 | Transition of FXK-V08-C040 (time-line: no present-time date) (principal) | V08 reading §N | Dates printed in V09 | REVISE (superseded by FXK-V09-C042) |
+| FXK-V09-C062 | Transition of FXK-V08-C011 (身辺整理 and childhood: the marbles) (principal) | V08 reading E021–E023 | The shells memory, "ぜんぶ ひろってないもん" (i0031) | STRENGTHEN |
+| FXK-V09-C063 | Transition of FXK-V08-C073 (山口さん = the V07 convenience-store worker) (principal) | V08 reconciliation (reviewer C-10) | Convenience-store job resumed, 山口さん named (i0107); the vignette's spiky tied-up hair matches V07's worker | STRENGTHEN (INF MOD-HIGH) |
+| FXK-V09-C064 | Transition of FXK-V07-C022 (Mochiko's "解決策…はないわけではない") (principal) | V07 reading | Bankruptcy and the company offer (i0017, i0035) | REVISE (content) |
+| FXK-V09-C065 | Transition of FXK-V07-C023 and FXK-V04-C015 (acceptance "自己責任だもん"; two meanings of responsibility) (principal) | V04, V07 readings | Responsibility as disclosure (i0063, i0080), payment "地道に" (i0106), accepted external control (i0107); 「自己責任」 absent from V09 | REVISE |
+| FXK-V09-C066 | Transition of FXK-V07-C075 (no exploitation or gain shown) (principal) | V07 reading | Mochiko's interests stated as reasons (i0022, i0034, i0110); no exploitation shown; her amusement at the gazette's list of recent bankrupts (i0104–i0105) is a weak counterexample to "no enjoyment of misfortune" (reviewer C-15) | PRESERVE (qualified) |
+| FXK-V09-C067 | Transition of FXK-V05-C029 (as revised in V08: ideation, planning and means shown; no act) (principal) | V05, V08 readings | No act; means returned (i0036–i0037); "ギリギリだった" disclosed (i0080) | STRENGTHEN |
+| FXK-V09-C068 | Transition of FXK-V05-C002 (grief and restitution drive as the real danger) (principal) | V05 reading | Drive re-read as a pretext for innate greed (i0031–i0032); 2000万 set aside (i0021) | REVISE |
+| FXK-V09-C069 | Transition of FXK-V02-C001 (the lucky win as "呪い") (principal) | V02 reading | The pull located in childhood greed (i0031), compatible with the curse reading | PRESERVE (qualified) |
+| FXK-V09-C070 | Transition of FXK-V01-C005 (Mochiko's motive; "強欲の雌豚", "肥やし") (principal) | V01 reading | Stated reasons, conditional offer, private "爆弾" (i0022, i0034, i0042, i0050); no enjoyment of misfortune | REVISE (extend) |
+| FXK-V09-C071 | Transition of FXK-V01-C012 (the daughter repeats the mother's use of household money) (principal) | V01 reading | The 300万, returned to him in V02, offered openly and explained as saved for her (i0074–i0075) | REVISE |
+| FXK-V09-C072 | Transition of the accepted symmetry belief (FXK-V01-D003) (principal) | V01 reading | "なんで私はFXで取り返すことしか考えられなかったんだろう" (i0028) | REVISE |
+| FXK-V09-C073 | Transition of FXK-V01-C010, FXK-V01-C011 and FXK-V03-C012 (stop rule; rewards; escalation after success) (principal) | V01, V03 readings | No trading in V09 | PRESERVE (no material change) |
+| FXK-V09-C074 | Transition of FXK-V02-C012 (the winged tempter as an aspect of Kurumi) (principal at reconciliation; reviewer C-03; Agent D) | V02 reading E009, E022 | A small winged girl with Kurumi's face and low twin tails taunts "でも楽しかったでしょ?" (i0005–i0006), echoing "気持ちよかったでしょ…♥"; Kurumi names the figure her own greed, "small" all along (i0031), and greets it at home (i0125–i0126) | STRENGTHEN; continuity INF MOD-HIGH (design and line), identity not asserted beyond inference; V09 reading E001, E010, H.10 |
+| FXK-V09-C075 | A live alternative reading of 共生: the symbiosis of Kurumi and Mochiko that ends in a shared workplace (Agent D, adopted at reconciliation as an alternative) | Agent D findings (g); reviewer C-16 | i0034–i0035, i0110, i0152; against it, the volume's explicit statements of the theme are Kurumi's own, about her desire (i0031, i0121, i0126–i0128) | NEW; OPEN (live); V09 reading §D.1, §L.7 |
+| FXK-V09-F001 | V09-EN-1 Exactly five printed labels, consecutive 第41–45話 (principal; MOD-HIGH) | Entering state, 10:02:29 (file time; before any V09 page) | i0005, i0047, i0067, i0101, i0133 | CONFIRMED |
+| FXK-V09-F002 | V09-EN-2 A titled 「第9集」 strip in the colour opening (principal; MOD-HIGH) | Entering state, 10:02:29 (file time; before any V09 page) | 「第9集 共生」 (i0003) | CONFIRMED |
+| FXK-V09-F003 | V09-EN-3 Last main page carries 「TO BE CONTINUED」 (principal; HIGH) | Entering state, 10:02:29 (file time; before any V09 page) | 「TO BE CONTINUED...」 (i0158) | CONFIRMED |
+| FXK-V09-F004 | V09-EN-4 A black logo separator between two chapters (principal; MOD-HIGH) | Entering state, 10:02:29 (file time; before any V09 page) | i0045–i0046, i0099–i0100, i0131–i0132 | CONFIRMED |
+| FXK-V09-F005 | V09-EN-5 A panel draws Kurumi's mother (principal; MOD-HIGH) | Entering state, 10:02:29 (file time; before any V09 page) | memory (i0072–i0073); memorial photograph (i0080) | CONFIRMED |
+| FXK-V09-F006 | V09-EN-6 「自己責任」 printed in the main narrative (principal; MOD) | Entering state, 10:02:29 (file time; before any V09 page) | not found in the page record (every balloon and caption transcribed) | DISCONFIRMED |
+| FXK-V09-F007 | V09-EN-7 Kurumi inside Mochiko's home or company premises in present time (principal; LOW-MOD) | Entering state, 10:02:29 (file time; before any V09 page) | the もちもち企画 office, 3 April 2017 (i0152–i0158) | CONFIRMED |
+| FXK-V09-F008 | V09-EN-8 All four friends in person in one present-time scene (principal; LOW-MOD) | Entering state, 10:02:29 (file time; before any V09 page) | takoyaki party (i0114) | CONFIRMED |
+| FXK-V09-F009 | V09-EN-9 Kurumi states an intention to repay her FX debt (principal; MOD; EXPOSURE-SENSITIVE) | Entering state, 10:02:29 (file time; before any V09 page) | "私は地道に払っていくよ!" concerns the 2014 tax (i0106); "借りたら返す!" is inside an imagined explainer (i0018) | DISCONFIRMED; RELAXED (tax on FX gains counted) CONFIRMED |
+| FXK-V09-F010 | V09-EN-10 The father in person in the same present-time scene as Kurumi (principal; LOW-MOD) | Entering state, 10:02:29 (file time; before any V09 page) | i0068–i0097, i0122–i0123 | CONFIRMED |
+| FXK-V09-F011 | V09-EN-11 Mochiko tells Kurumi of her childhood, mother or grandmother in a balloon (principal; LOW-MOD) | Entering state, 10:02:29 (file time; before any V09 page) | — | DISCONFIRMED |
+| FXK-V09-F012 | V09-EN-12 A newly named fictional character in a present-time scene or document (principal; MOD) | Entering state, 10:02:29 (file time; before any V09 page) | 酒田いなご (i0134); 善波なな (i0149); 月森きずな (i0158) | CONFIRMED |
+| FXK-V09-F013 | V09-EN-13 A present-time date in February 2015 or later (principal; LOW-MOD; EXPOSURE-SENSITIVE) | Entering state, 10:02:29 (file time; before any V09 page) | 「2015年2月上旬」 (i0098) | CONFIRMED |
+| FXK-V09-F014 | V09-EN-14 Kurumi shown at her university (principal; LOW-MOD) | Entering state, 10:02:29 (file time; before any V09 page) | campus, reading, thesis talk (i0101–i0103); plaque 「大都大学」 vs accepted 新都大学 | CONFIRMED (INF MOD-HIGH her campus); ALT DISCONFIRMED |
+| FXK-V09-F015 | V09-EN-15 Mochiko gives, lends or pays money to or for Kurumi (principal; MOD) | Entering state, 10:02:29 (file time; before any V09 page) | a gazette page as a gift (i0104); no money; no wage shown (i0152) | DISCONFIRMED; RELAXED (employment implies a wage) CONFIRMED |
+| FXK-V09-F016 | V09-EN-16 A currency-pair chart or price display on a screen, phone or TV in present time (principal; MOD; EXPOSURE-SENSITIVE) | Entering state, 10:02:29 (file time; before any V09 page) | a candlestick chart with a price axis on Kizuna's screen (i0154 crop): a price display; whether it is a currency pair is UNRESOLVED (no label; the axis level not used; reviewer C-05) | CONFIRMED (price display); STRICT (currency pair identified) DISCONFIRMED |
+| FXK-V09-F017 | Disposition of MX08-1 First chapter label 「第41話」 (V08 principal; HIGH) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F101 | i0005 | CONFIRMED |
+| FXK-V09-F018 | Disposition of MX08-2 First present-time story page shows Kurumi and Mochiko together (V08 principal; MOD) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F102 | dream pages first; Kurumi alone at i0010; Mochiko from i0013 | DISCONFIRMED |
+| FXK-V09-F019 | Disposition of MX08-3 Mochiko proposes a concrete course by which Kurumi earns or obtains money (V08 principal; MOD-HIGH) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F103 | "私の会社に来ない?" (i0035) | CONFIRMED |
+| FXK-V09-F020 | Disposition of MX08-4 Kurumi seeks, agrees to or begins paid non-trading work (V08 principal; MOD; ES) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F104 | バイト resumed (i0107); 事務員 (i0152) | CONFIRMED |
+| FXK-V09-F021 | Disposition of MX08-5 The father learns of the loss or debt (V08 principal; MOD) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F105 | i0063, i0070 | CONFIRMED |
+| FXK-V09-F022 | Disposition of MX08-6 Kurumi and her father communicate in present time (V08 principal; MOD) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F106 | the call (i0063) | CONFIRMED |
+| FXK-V09-F023 | Disposition of MX08-7 破産 with reference to Kurumi (V08 principal; MOD-HIGH; ES) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F107 | "自己破産一択" (i0017) | CONFIRMED |
+| FXK-V09-F024 | Disposition of MX08-8 A new communication between Kurumi and たのしいFX (V08 principal; MOD; ES) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F108 | Mochiko's supposition only; 99 unattributed missed calls (i0048–i0049) | DISCONFIRMED; ALT (supposition as fact) CONFIRMED |
+| FXK-V09-F025 | Disposition of MX08-9 A present-time calendar date printed (V08 principal; MOD; ES) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F109 | 「2015年2月上旬」 (i0098) | CONFIRMED |
+| FXK-V09-F026 | Disposition of MX08-10 Mebuki speaks in a present-time scene (V08 principal; MOD) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F110 | i0086–i0088 (named i0088) | CONFIRMED |
+| FXK-V09-F027 | Disposition of MX08-11 Yasuko in person speaks in a present-time scene (V08 principal; MOD) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F111 | i0086 | CONFIRMED |
+| FXK-V09-F028 | Disposition of MX08-12 Kurumi tells Mebuki or Yasuko of her debt (V08 principal; MOD) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F112 | they know via Mochiko (i0089); no balloon or message of Kurumi's | DISCONFIRMED |
+| FXK-V09-F029 | Disposition of MX08-13 Kurumi places an FX order in present time (V08 principal; LOW-MOD; ES) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F113 | — | DISCONFIRMED |
+| FXK-V09-F030 | Disposition of MX08-14 The 遺書 appears again or its fate is stated (V08 principal; MOD) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F114 | read by Mochiko (i0044); lines drawn (i0052) | CONFIRMED |
+| FXK-V09-F031 | Disposition of MX08-15 SENSITIVE. No page shows Kurumi beginning a self-harm act (V08 principal; HIGH) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F115 | — | CONFIRMED |
+| FXK-V09-F032 | Disposition of MX08-16 A lawyer, law office or legal consultation in connection with her debt (V08 principal; LOW-MOD; ES) | V08 MAIN_EXIT, 08:09:02; links FXK-V08-F116 | i0038–i0039; i0098 | CONFIRMED |
+| FXK-V09-F033 | Disposition of B8-F05-4 V09's first label 第41話 (V08 Agent B; HIGH) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F196 | i0005 | CONFIRMED; independent prospect (attributed) |
+| FXK-V09-F034 | Disposition of B8-F05-5 V09 opens in continuity in Kurumi's flat with Mochiko within its first chapter (V08 Agent B; MOD) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F197 | next morning, the flat, Mochiko cooking (i0010–i0016) | CONFIRMED; STRICT (dream as other setting first) DISCONFIRMED; independent prospect (attributed) |
+| FXK-V09-F035 | Disposition of B8-F05-6 Mochiko states a concrete mechanism for "どうにかさせる" (V08 Agent B; MOD-HIGH) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F198 | bankruptcy (i0017); the invitation (i0035) | CONFIRMED; independent prospect (attributed) |
+| FXK-V09-F036 | Disposition of B8-F05-7 That mechanism involves Kurumi trading FX again (V08 Agent B; MOD) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F199 | Kurumi a clerk (i0152); no trading shown | DISCONFIRMED; independent prospect (attributed) |
+| FXK-V09-F037 | Disposition of B8-F05-8 Mochiko does not pay Kurumi's broker debt directly (V08 Agent B; MOD-HIGH) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F200 | no payment by Mochiko shown | CONFIRMED; independent prospect (attributed) |
+| FXK-V09-F038 | Disposition of B8-F05-9 A specific debt figure (not just "1億") (V08 Agent B; MOD) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F201 | only "1億" and derived settlement figures (i0018) | DISCONFIRMED; independent prospect (attributed) |
+| FXK-V09-F039 | Disposition of B8-F05-10 A present-time date of 19 Jan 2015 or later (V08 Agent B; MOD) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F202 | 「2015年2月上旬」 (i0098) | CONFIRMED; independent prospect (attributed) |
+| FXK-V09-F040 | Disposition of B8-F05-11 The father learns of the debt, the letter or the plan (V08 Agent B; MOD) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F203 | the debt (i0063, i0070) | CONFIRMED; independent prospect (attributed) |
+| FXK-V09-F041 | Disposition of B8-F05-12 The letter 「お父さんへ」 shown again (V08 Agent B; MOD) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F204 | pages drawn as backdrop (i0052); read by Mochiko (i0044) | CONFIRMED; STRICT (physical letter in the scene) DISCONFIRMED; independent prospect (attributed) |
+| FXK-V09-F042 | Disposition of B8-F05-13 A confirmed contact from たのしいFX (V08 Agent B; MOD; EXPOSURE-SENSITIVE) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F205 | — | DISCONFIRMED; independent prospect (attributed) |
+| FXK-V09-F043 | Disposition of B8-F05-14 A professional or legal route begun (V08 Agent B; LOW-MOD; EXPOSURE-SENSITIVE) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F206 | retainer (i0098) | CONFIRMED; independent prospect (attributed) |
+| FXK-V09-F044 | Disposition of B8-F05-15 Mochiko's own 15 Jan 2015 result stated (V08 Agent B; LOW-MOD) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F207 | — | DISCONFIRMED; independent prospect (attributed) |
+| FXK-V09-F045 | Disposition of B8-F05-16 Mebuki and/or Yasuko meet Kurumi in present time (V08 Agent B; MOD-HIGH) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F208 | in person i0091–i0097, i0109–i0121 (the messages at i0049 are from unnamed "みんな"; reviewer C-13) | CONFIRMED; independent prospect (attributed) |
+| FXK-V09-F046 | Disposition of B8-F05-17 Kurumi alive at the end of V09's main narrative (V08 Agent B; HIGH) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F209 | i0152–i0158 | CONFIRMED; independent prospect (attributed) |
+| FXK-V09-F047 | Disposition of B8-F05-18 Kurumi submits a new FX order (V08 Agent B; MOD) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F210 | — | DISCONFIRMED; independent prospect (attributed) |
+| FXK-V09-F048 | Disposition of B8-F05-19 Mochiko's 打算 stated aloud to Kurumi (V08 Agent B; MOD) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F211 | "知識と経験は本物… 手を貸してる理由" (i0034); "話相手" (i0022) | CONFIRMED; STRICT (a gain named as such) DISCONFIRMED; independent prospect (attributed) |
+| FXK-V09-F049 | Disposition of B8-F05-20 The fate of the purchased items shown (V08 Agent B; LOW-MOD) | Agent B V08 F05 CLOSING, 07:58:14; links FXK-V08-F212 | returned (i0035–i0037) | CONFIRMED; independent prospect (attributed) |
+| FXK-V09-F050 | F01-1 第41話 ends at i0035 (principal; MOD) | F01, 10:12:59 (precautionary; after i0035, before i0036) | i0036 continues | DISCONFIRMED |
+| FXK-V09-F051 | F01-2 Kurumi states acceptance of joining Mochiko's company (principal; MOD-HIGH) | F01, 10:12:59 (precautionary; after i0035, before i0036) | no balloon; 事務員 in 2017 (i0152) | DISCONFIRMED; RELAXED CONFIRMED |
+| FXK-V09-F052 | F01-3 The offered or performed work involves trading or investing (principal; MOD-HIGH) | F01, 10:12:59 (precautionary; after i0035, before i0036) | 事務員 (i0152); reason "知識と経験" (i0034) | DISCONFIRMED |
+| FXK-V09-F053 | F01-4 Kurumi places an order with money not her own (principal; LOW-MOD; EXPOSURE-SENSITIVE) | F01, 10:12:59 (precautionary; after i0035, before i0036) | — | DISCONFIRMED |
+| FXK-V09-F054 | F01-5 Kurumi decides on or begins 自己破産 (principal; MOD; EXPOSURE-SENSITIVE) | F01, 10:12:59 (precautionary; after i0035, before i0036) | i0063; retainer i0098 (i0019 preceded F01) | CONFIRMED |
+| FXK-V09-F055 | F01-6 The winged figure appears again after i0035 (principal; MOD) | F01, 10:12:59 (precautionary; after i0035, before i0036) | i0054 | CONFIRMED |
+| FXK-V09-F056 | F01-7 A name for Mochiko's company printed or spoken (principal; MOD) | F01, 10:12:59 (precautionary; after i0035, before i0036) | 「(株)もちもち企画」 (i0136, i0140, i0158) | CONFIRMED |
+| FXK-V09-F057 | F01-8 Mochiko states aloud to Kurumi a further benefit she expects from Kurumi joining (principal; LOW-MOD) | F01, 10:12:59 (precautionary; after i0035, before i0036) | "ひとりで仕事するの厳しくなりそう… くるみの卒業まで待てないし" (i0110): workload and wait stated; no benefit from Kurumi joining stated | DISCONFIRMED (re-scored at reconciliation, reviewer C-04); RELAXED (implied relief of a one-person workload) CONFIRMED |
+| FXK-V09-F058 | F01-9 The father mentioned in present time in the next chapter (principal; MOD) | F01, 10:12:59 (precautionary; after i0035, before i0036) | i0050 | CONFIRMED |
+| FXK-V09-F059 | F01-10 Kurumi outside her flat in other clothes (principal; HIGH) | F01, 10:12:59 (precautionary; after i0035, before i0036) | i0036 | CONFIRMED |
+| FXK-V09-F060 | F02-1 Next label after 第41話 is 「第42話」 (principal; HIGH) | F02, 10:17:42 (after separator i0045, before i0046) | i0047 | CONFIRMED |
+| FXK-V09-F061 | F02-2 The first story page after the separators continues the alley conversation (principal; MOD) | F02, 10:17:42 (after separator i0045, before i0046) | the 大都南駅 plaza (i0047) | DISCONFIRMED |
+| FXK-V09-F062 | F02-3 Kurumi herself tells her father of the loss or debt (principal; MOD) | F02, 10:17:42 (after separator i0045, before i0046) | i0063 | CONFIRMED |
+| FXK-V09-F063 | F02-4 The father speaks in a present-time scene (principal; MOD) | F02, 10:17:42 (after separator i0045, before i0046) | i0062–i0063 | CONFIRMED |
+| FXK-V09-F064 | F02-5 Within 第42話 Kurumi says she will call her father, or does (principal; MOD) | F02, 10:17:42 (after separator i0045, before i0046) | i0063 | CONFIRMED |
+| FXK-V09-F065 | F02-6 The 遺書 drawn in a present-time panel after i0044 (principal; LOW-MOD) | F02, 10:17:42 (after separator i0045, before i0046) | its pages as backdrop (i0052) | CONFIRMED; STRICT DISCONFIRMED |
+| FXK-V09-F066 | F02-7 Mochiko conditions, withdraws or postpones the invitation (principal; MOD) | F02, 10:17:42 (after separator i0045, before i0046) | i0050 | CONFIRMED |
+| FXK-V09-F067 | F02-8 Kurumi states she will file for or wants 自己破産 (principal; MOD; EXPOSURE-SENSITIVE) | F02, 10:17:42 (after separator i0045, before i0046) | "自己破産しないといけなくなっちゃったの!" (i0063) | CONFIRMED; STRICT (necessity) DISCONFIRMED |
+| FXK-V09-F068 | F03-1 Next label after 第43話 is 「第44話」 (principal; HIGH) | F03, 10:23:32 (after i0067, a disclosed slip; before i0068) | i0101 | CONFIRMED |
+| FXK-V09-F069 | F03-2 POST-SLIP. Within 第43話 the father asks the amount or Kurumi states a figure to him (principal; MOD) | F03, 10:23:32 (after i0067, a disclosed slip; before i0068) | his recap only (i0070) | DISCONFIRMED; slip-touched (excluded from primary calibration) |
+| FXK-V09-F070 | F03-3 POST-SLIP. The father strikes Kurumi (principal; LOW-MOD) | F03, 10:23:32 (after i0067, a disclosed slip; before i0068) | "怒らないから顔を上げろ" (i0069) | DISCONFIRMED; slip-touched |
+| FXK-V09-F071 | F03-4 POST-SLIP. The father offers money for her costs or debt (principal; MOD; EXPOSURE-SENSITIVE) | F03, 10:23:32 (after i0067, a disclosed slip; before i0068) | 300万 (i0074) | CONFIRMED; slip-touched |
+| FXK-V09-F072 | F03-5 POST-SLIP. The father learns of the 遺書 (principal; LOW-MOD) | F03, 10:23:32 (after i0067, a disclosed slip; before i0068) | not shown (i0081–i0082 echo only) | DISCONFIRMED; slip-touched |
+| FXK-V09-F073 | F03-6 POST-SLIP. The father refers to the mother to Kurumi (principal; MOD) | F03, 10:23:32 (after i0067, a disclosed slip; before i0068) | "母さん" (i0072) | CONFIRMED; slip-touched |
+| FXK-V09-F074 | F03-7 Mochiko learns that Kurumi contacted her father (principal; MOD-HIGH) | F03, 10:23:32 (after i0067, a disclosed slip; before i0068) | "お父さんと相談して決めたんだ" (i0107) | CONFIRMED; STRICT (the call or the "明日" check) DISCONFIRMED |
+| FXK-V09-F075 | F03-8 POST-SLIP. Tears on Kurumi with her father present (principal; MOD) | F03, 10:23:32 (after i0067, a disclosed slip; before i0068) | i0082 | CONFIRMED; slip-touched |
+| FXK-V09-F076 | F03-9 POST-SLIP. Within 第43話 the father reproaches her conduct (principal; MOD) | F03, 10:23:32 (after i0067, a disclosed slip; before i0068) | "やったことは滅茶苦茶だが" (i0073); "よく平気でそんなこと言えるな" (i0079) | CONFIRMED (mild); slip-touched |
+| FXK-V09-F077 | F04-1 第43話 ends at i0085 or i0086 (principal; MOD-HIGH) | F04, 10:28:06 (precautionary; after i0085, before i0086) | i0086–i0087 continue | DISCONFIRMED |
+| FXK-V09-F078 | F04-2 Kurumi and her father at an eating place outside the flat (principal; MOD) | F04, 10:28:06 (precautionary; after i0085, before i0086) | i0091–i0097 | CONFIRMED |
+| FXK-V09-F079 | F04-3 Kurumi meets or consults a lawyer, or is inside a law office (principal; MOD; EXPOSURE-SENSITIVE) | F04, 10:28:06 (precautionary; after i0085, before i0086) | i0098 | CONFIRMED |
+| FXK-V09-F080 | F04-4 Mochiko and the father together in person (principal; LOW-MOD) | F04, 10:28:06 (precautionary; after i0085, before i0086) | — | DISCONFIRMED |
+| FXK-V09-F081 | F04-5 Kurumi places no trading order in present time (principal; MOD-HIGH; EXPOSURE-SENSITIVE) | F04, 10:28:06 (precautionary; after i0085, before i0086) | — | CONFIRMED |
+| FXK-V09-F082 | F04-6 Kurumi tells Mochiko of her father's response (principal; MOD) | F04, 10:28:06 (precautionary; after i0085, before i0086) | consultation and wage management (i0107) | CONFIRMED; STRICT (300万, blessing or opposition) DISCONFIRMED |
+| FXK-V09-F083 | F05-1 The first 「第44話」 label lies within i0098–i0101 (principal; MOD) | F05, 10:35:02 (precautionary; after i0097, before i0098) | i0101 | CONFIRMED |
+| FXK-V09-F084 | F05-2 Mochiko in present time in the chapter after 第43話 (principal; MOD-HIGH) | F05, 10:35:02 (precautionary; after i0097, before i0098) | i0101–i0121 (named i0114) | CONFIRMED |
+| FXK-V09-F085 | F05-3 Kurumi states she will work at or accepts the company (principal; MOD) | F05, 10:35:02 (precautionary; after i0097, before i0098) | — | DISCONFIRMED |
+| FXK-V09-F086 | F05-4 Kurumi inside premises identified as Mochiko's company (principal; LOW-MOD) | F05, 10:35:02 (precautionary; after i0097, before i0098) | i0152–i0158 | CONFIRMED |
+| FXK-V09-F087 | F05-5 Kurumi tells Mebuki or Yasuko of bankruptcy using 破産 (principal; MOD) | F05, 10:35:02 (precautionary; after i0097, before i0098) | — | DISCONFIRMED |
+| FXK-V09-F088 | F05-6 「破産手続」「免責」 or 「裁判所」 in relation to Kurumi (principal; LOW-MOD; EXPOSURE-SENSITIVE) | F05, 10:35:02 (precautionary; after i0097, before i0098) | i0098; i0104 | CONFIRMED |
+| FXK-V09-F089 | F05-7 The winged girl appears again after i0097 (principal; MOD) | F05, 10:35:02 (precautionary; after i0097, before i0098) | i0124 | CONFIRMED |
+| FXK-V09-F090 | F05-8 Kurumi parting from her father after i0097 (principal; LOW-MOD) | F05, 10:35:02 (precautionary; after i0097, before i0098) | — | DISCONFIRMED |
+| FXK-V09-F091 | F06-1 i0100 is a second separator (principal; MOD) | F06, 10:36:07 (after separator i0099, before i0100) | i0100 | CONFIRMED |
+| FXK-V09-F092 | F06-2 A present-time date later than early February 2015 after i0098 (principal; MOD; EXPOSURE-SENSITIVE) | F06, 10:36:07 (after separator i0099, before i0100) | 「2015年秋」 (i0101) | CONFIRMED |
+| FXK-V09-F093 | F06-3 A caption or balloon states discharge, a court decision or that the debt was cleared (principal; LOW-MOD; EXPOSURE-SENSITIVE) | F06, 10:36:07 (after separator i0099, before i0100) | discharge only in the gazette DOC (i0104); balloons state completion (i0105, i0123) | DISCONFIRMED; RELAXED CONFIRMED |
+| FXK-V09-F094 | F06-4 Mebuki or Yasuko in present time in the chapter after 第43話 (principal; LOW-MOD) | F06, 10:36:07 (after separator i0099, before i0100) | i0108–i0121 | CONFIRMED |
+| FXK-V09-F095 | F07-1 第44話 ends at i0124 (principal; MOD) | F07, 10:43:36 (precautionary; after i0124, before i0125) | i0125 continues | DISCONFIRMED |
+| FXK-V09-F096 | F07-2 After i0124 the winged girl and Kurumi each speak a balloon in a shared scene (principal; MOD) | F07, 10:43:36 (precautionary; after i0124, before i0125) | i0125–i0126 | CONFIRMED |
+| FXK-V09-F097 | F07-3 After i0124 a chart or rate on a device Kurumi holds or uses (principal; LOW-MOD; EXPOSURE-SENSITIVE) | F07, 10:43:36 (precautionary; after i0124, before i0125) | — | DISCONFIRMED |
+| FXK-V09-F098 | F07-4 After i0124 a stated outcome of a trade of Mebuki's (principal; LOW-MOD; EXPOSURE-SENSITIVE) | F07, 10:43:36 (precautionary; after i0124, before i0125) | — | DISCONFIRMED |
+| FXK-V09-F099 | F07-5 The father in person after i0124 (principal; MOD) | F07, 10:43:36 (precautionary; after i0124, before i0125) | — | DISCONFIRMED |
+| FXK-V09-F100 | F07-6 After i0124 a balloon or caption states the company's business (principal; LOW-MOD) | F07, 10:43:36 (precautionary; after i0124, before i0125) | job titles; "A店から軽めのリテイク" (i0149) | DISCONFIRMED; RELAXED CONFIRMED |
+| FXK-V09-F101 | F08-1 第44話 ends at i0126 (principal; MOD-HIGH) | F08, 10:47:04 (precautionary; after i0126, before i0127) | i0127 continues | DISCONFIRMED |
+| FXK-V09-F102 | F08-2 「第45話」 printed and no 「第46話」 (principal; MOD) | F08, 10:47:04 (precautionary; after i0126, before i0127) | i0133 | CONFIRMED |
+| FXK-V09-F103 | F08-3 A date in 2016 or later after i0126 (principal; LOW-MOD; EXPOSURE-SENSITIVE) | F08, 10:47:04 (precautionary; after i0126, before i0127) | 「2017年4月3日 月曜日」 (i0134) | CONFIRMED |
+| FXK-V09-F104 | F08-4 Kurumi working at Mochiko's company after i0126 (principal; LOW-MOD; EXPOSURE-SENSITIVE) | F08, 10:47:04 (precautionary; after i0126, before i0127) | i0152 | CONFIRMED |
+| FXK-V09-F105 | F08-5 A new order by Kurumi after i0126 (principal; LOW; EXPOSURE-SENSITIVE) | F08, 10:47:04 (precautionary; after i0126, before i0127) | — | DISCONFIRMED |
+| FXK-V09-F106 | F08-6 The winged girl in a scene after the i0124–i0126 room scene (principal; LOW-MOD) | F08, 10:47:04 (precautionary; after i0126, before i0127) | only the continuous i0127–i0130 sequence | DISCONFIRMED; ALT (vortex as a different place) CONFIRMED |
+| FXK-V09-F107 | F09-1 第44話 ends at i0128 (principal; HIGH) | F09, 10:47:55 (precautionary; after i0128, before i0129) | i0129 continues | DISCONFIRMED |
+| FXK-V09-F108 | F09-2 The next chapter's first story page shows a different scene or time (principal; MOD) | F09, 10:47:55 (precautionary; after i0128, before i0129) | i0133 | CONFIRMED |
+| FXK-V09-F109 | F09-3 Kurumi opens, funds or logs in to a trading account after i0128 (principal; LOW; EXPOSURE-SENSITIVE) | F09, 10:47:55 (precautionary; after i0128, before i0129) | — | DISCONFIRMED |
+| FXK-V09-F110 | F09-4 「コントロール」 or 「支配」 recurs after i0128 about her desire (principal; LOW-MOD) | F09, 10:47:55 (precautionary; after i0128, before i0129) | — | DISCONFIRMED |
+| FXK-V09-F111 | F10-1 第44話 ends at i0130 (principal; HIGH) | F10, 10:48:41 (after i0130, before i0131) | i0131 | CONFIRMED |
+| FXK-V09-F112 | F10-2 The next chapter's first story page carries a caption stating a time later than autumn 2015 (principal; LOW-MOD) | F10, 10:48:41 (after i0130, before i0131) | 「それから3年——」 after 「2014年3月——」 (i0133); CALC ≈ March 2017 | CONFIRMED; STRICT (2016+ year on that page) DISCONFIRMED |
+| FXK-V09-F113 | F10-3 Mochiko in present time in the next chapter (principal; MOD-HIGH) | F10, 10:48:41 (after i0130, before i0131) | i0143 | CONFIRMED |
+| FXK-V09-F114 | F10-4 After i0130 Kurumi states she has resumed trading, or holds a position (principal; LOW; EXPOSURE-SENSITIVE) | F10, 10:48:41 (after i0130, before i0131) | — | DISCONFIRMED |
+| FXK-V09-F115 | MX09-1 The first label of the next admitted volume is 「第46話」 (principal; HIGH) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F116 | MX09-2 Its first present-time story page shows 酒田いなご, 善波なな or 月森きずな, or the もちもち企画 office (principal; MOD) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F117 | MX09-3 A balloon or caption states (株)もちもち企画's business in words (principal; MOD) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F118 | MX09-4 The company or a staff member trades or invests as part of the company's work (principal; MOD; EXPOSURE-SENSITIVE) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F119 | MX09-5 Kurumi shown or stated to place an investment order (principal; MOD; EXPOSURE-SENSITIVE) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F120 | MX09-6 月森きずな shown with a stated position, order or P/L (principal; LOW-MOD; EXPOSURE-SENSITIVE) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F121 | MX09-7 酒田いなご shown or stated to trade, hold a position or open a trading account (principal; LOW-MOD; EXPOSURE-SENSITIVE) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F122 | MX09-8 A reason for hiring Inago beyond "誰でもよかったわけじゃない" (principal; MOD) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F123 | MX09-9 Mebuki in a present-time scene (2017 or later) (principal; MOD) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F124 | MX09-10 The father in person in a present-time scene (principal; LOW-MOD) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F125 | MX09-11 The winged girl appears (principal; MOD) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F126 | MX09-12 A date in 2017 or later printed (principal; MOD-HIGH; EXPOSURE-SENSITIVE) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F127 | MX09-13 The word 破産 appears (principal; MOD; EXPOSURE-SENSITIVE) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F128 | MX09-14 Kurumi's graduation shown or stated (principal; LOW) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F129 | MX09-15 A published or serialized manga work of Yasuko's named, or her debut stated (principal; LOW-MOD) | MAIN_EXIT, 10:56:59 (after i0158; before every post-main and deferred image) | — | OPEN (next admitted volume) |
+| FXK-V09-F130 | B9-F00-1 V09's main narrative carries exactly five chapter labels, 第41話–第45話 (Agent B; MOD) | Agent B F00 ENTERING (09:59:47, before any V09 page) | i0005, i0047, i0067, i0101, i0133 | CONFIRMED; independent prospect |
+| FXK-V09-F131 | B9-F00-2 Mochiko offers Kurumi paid work or a role in her own company within V09 (Agent B; MOD) | Agent B F00 ENTERING (09:59:47, before any V09 page) | "私の会社に来ない?" (i0035) | CONFIRMED; independent prospect |
+| FXK-V09-F132 | B9-F00-3 Kurumi shown working for wages in a present-time scene (Agent B; LOW-MOD) | Agent B F00 ENTERING (09:59:47, before any V09 page) | at work as 【事務員】 of (株)もちもち企画 (i0152, i0157); wages not printed | CONFIRMED; STRICT (wage stated) DISCONFIRMED; independent prospect |
+| FXK-V09-F133 | B9-F00-4 Kurumi submits a new FX order in present time (Agent B; LOW-MOD; EXPOSURE-SENSITIVE) | Agent B F00 ENTERING (09:59:47, before any V09 page) | — | DISCONFIRMED; independent prospect |
+| FXK-V09-F134 | B9-F00-5 A yen figure for Kurumi's broker shortfall more specific than "1億" (Agent B; MOD) | Agent B F00 ENTERING (09:59:47, before any V09 page) | only "1億"; "年間1400万円以上" is a damages figure (i0018) | DISCONFIRMED; independent prospect |
+| FXK-V09-F135 | B9-F00-6 The father learns of the loss or the debt (Agent B; MOD) | Agent B F00 ENTERING (09:59:47, before any V09 page) | i0063, i0070 | CONFIRMED; independent prospect |
+| FXK-V09-F136 | B9-F00-7 Kurumi and her father speak in present time (Agent B; MOD) | Agent B F00 ENTERING (09:59:47, before any V09 page) | the call (i0063) | CONFIRMED; independent prospect |
+| FXK-V09-F137 | B9-F00-8 自己破産, 債務整理, 任意整理, 個人再生 or 弁護士 in connection with Kurumi's debt (Agent B; MOD; EXPOSURE-SENSITIVE) | Agent B F00 ENTERING (09:59:47, before any V09 page) | i0017–i0019 | CONFIRMED; independent prospect |
+| FXK-V09-F138 | B9-F00-9 Kurumi's broker debt shown or stated as cleared by the end of V09 (Agent B; LOW; EXPOSURE-SENSITIVE) | Agent B F00 ENTERING (09:59:47, before any V09 page) | 「破産者について免責を許可する」 (i0104); bankruptcy as the way to clear the 1億 ("それで1億チャラになるなら", i0040); the broker is not named in the notice | CONFIRMED; independent prospect |
+| FXK-V09-F139 | B9-F00-10 A present-time calendar date with day and month printed or spoken (Agent B; MOD) | Agent B F00 ENTERING (09:59:47, before any V09 page) | 「2017年4月3日 月曜日」 (i0134) | CONFIRMED; independent prospect |
+| FXK-V09-F140 | B9-F00-11 Mebuki speaks in a present-time scene (Agent B; MOD-HIGH) | Agent B F00 ENTERING (09:59:47, before any V09 page) | i0088 | CONFIRMED; independent prospect |
+| FXK-V09-F141 | B9-F00-12 Kurumi alive at the end of V09's main narrative (Agent B; HIGH) | Agent B F00 ENTERING (09:59:47, before any V09 page) | i0152–i0158 | CONFIRMED; independent prospect |
+| FXK-V09-F142 | B9-F00-13 A bank balance or cash total of Kurumi's own printed as a number (Agent B; LOW-MOD) | Agent B F00 ENTERING (09:59:47, before any V09 page) | the i0029 bankbook is imagined; the 300万 is the father's | DISCONFIRMED; independent prospect |
+| FXK-V09-F143 | B9-F00-14 Mochiko's own trading result, position or wealth figure printed or spoken (Agent B; LOW-MOD) | Agent B F00 ENTERING (09:59:47, before any V09 page) | — | DISCONFIRMED; independent prospect |
+| FXK-V09-F144 | B9-F00-15 The 遺書 envelope or letter shown or its fate stated (Agent B; MOD) | Agent B F00 ENTERING (09:59:47, before any V09 page) | its lines drawn as a backdrop (i0052); read by Mochiko (i0044); fate not stated | CONFIRMED; STRICT (the physical letter in the scene) DISCONFIRMED; independent prospect |
+| FXK-V09-F145 | B9-F00-16 たのしいFX appears in a present-time scene (Agent B; MOD; EXPOSURE-SENSITIVE) | Agent B F00 ENTERING (09:59:47, before any V09 page) | — | DISCONFIRMED; independent prospect |
+| FXK-V09-F146 | B9-F00-17 V09's last main-narrative page carries 「TO BE CONTINUED」 (Agent B; HIGH) | Agent B F00 ENTERING (09:59:47, before any V09 page) | i0158 | CONFIRMED; independent prospect |
+| FXK-V09-F147 | B9-F00-18 Kurumi uses the word 自己責任 (Agent B; MOD) | Agent B F00 ENTERING (09:59:47, before any V09 page) | — | DISCONFIRMED; independent prospect |
+| FXK-V09-F148 | B9-F01-1 Kurumi does not give a plain, unqualified vow never to trade FX again (Agent B; MOD) | Agent B F01 (10:17:11, after i0077, before i0078) | "それは誓えない…!" (i0078) | CONFIRMED; independent prospect |
+| FXK-V09-F149 | B9-F01-2 The 300万 accepted by Kurumi or stated as the source of her bankruptcy costs by the end of V09 (Agent B; MOD) | Agent B F01 (10:17:11, after i0077, before i0078) | never mentioned after i0077 (the item's own disconfirmer); the cut-off thanks at i0075 preceded the freeze | DISCONFIRMED; RELAXED (the thanks counted) CONFIRMED but pre-satisfied, no calibration credit; independent prospect |
+| FXK-V09-F150 | B9-F01-3 Mochiko's next-day check on the father call shown or reported (Agent B; MOD-HIGH) | Agent B F01 (10:17:11, after i0077, before i0078) | — | DISCONFIRMED; independent prospect |
+| FXK-V09-F151 | B9-F01-4 Kurumi accepts Mochiko's company offer or is shown working at her company (Agent B; MOD) | Agent B F01 (10:17:11, after i0077, before i0078) | 【事務員】 (i0152) | CONFIRMED; independent prospect |
+| FXK-V09-F152 | B9-F01-5 A lawyer consultation or a bankruptcy filing shown or stated (Agent B; LOW-MOD; EXPOSURE-SENSITIVE) | Agent B F01 (10:17:11, after i0077, before i0078) | 「父の紹介の弁護士と面談」「委任契約を締結」 (i0098) | CONFIRMED; independent prospect |
+| FXK-V09-F153 | B9-F01-6 The father learns of the 遺書 or the suicide plan (Agent B; LOW-MOD) | Agent B F01 (10:17:11, after i0077, before i0078) | "ギリギリ" only (i0080) | DISCONFIRMED; independent prospect |
+| FXK-V09-F154 | B9-F01-7 A yen amount for bankruptcy or lawyer costs printed or spoken after i0077 (Agent B; LOW-MOD; EXPOSURE-SENSITIVE) | Agent B F01 (10:17:11, after i0077, before i0078) | — | DISCONFIRMED; independent prospect |
+| FXK-V09-F155 | B9-F01-8 The father shown or stated to return to his transfer posting (Agent B; MOD) | Agent B F01 (10:17:11, after i0077, before i0078) | "転勤中なのに しょっちゅう帰ってきてもらって" (i0123) | CONFIRMED; independent prospect |
+| FXK-V09-F156 | B9-F01-9 A contact from the FX company shown after i0077 (Agent B; LOW-MOD; EXPOSURE-SENSITIVE) | Agent B F01 (10:17:11, after i0077, before i0078) | — | DISCONFIRMED; independent prospect |
+| FXK-V09-F157 | B9-F02-1 V10's main narrative carries exactly five chapter labels, 第46話–第50話 (Agent B; MOD) | Agent B F02 CLOSING (10:46:11, after i0158 and after the afterword i0164–i0165; before every deferred input) | — | OPEN (next admitted volume); EXPOSURE-SENSITIVE (paratext: frozen after the afterword); independent prospect |
+| FXK-V09-F158 | B9-F02-2 月森きずな holds, opens or closes a position of her own with an instrument, size, rate or P/L stated (Agent B; MOD; EXPOSURE-SENSITIVE) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F159 | B9-F02-3 A currency pair or other instrument named on a screen or in speech at もちもち企画's office (Agent B; MOD) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F160 | B9-F02-4 Kurumi submits a new trading order in present time (Agent B; LOW-MOD; EXPOSURE-SENSITIVE) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F161 | B9-F02-5 Kurumi still 事務員 (clerical only) at the last present-time scene showing her job (Agent B; LOW-MOD) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); QUALIFIED (possibly touched by the afterword); independent prospect |
+| FXK-V09-F162 | B9-F02-6 酒田いなご opens a brokerage or FX account or makes her first trade (Agent B; LOW-MOD; EXPOSURE-SENSITIVE) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F163 | B9-F02-7 いなご learns that Kurumi went bankrupt or lost about 1億 trading FX (Agent B; MOD) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F164 | B9-F02-8 Mochiko states the positive reason for hiring いなご (Agent B; LOW-MOD) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F165 | B9-F02-9 Kurumi's 2014-tax liability mentioned (Agent B; LOW-MOD; EXPOSURE-SENSITIVE) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F166 | B9-F02-10 A yen figure for Kurumi's pay printed or spoken (Agent B; LOW) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F167 | B9-F02-11 A yen figure of any trading-account balance, P/L, deposit or withdrawal of any character printed (Agent B; MOD) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F168 | B9-F02-12 Mebuki appears in a present-time scene (Agent B; MOD) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); QUALIFIED (possibly touched by the afterword); independent prospect |
+| FXK-V09-F169 | B9-F02-13 The outcome of Mebuki's rand position shown or stated (Agent B; LOW; EXPOSURE-SENSITIVE) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F170 | B9-F02-14 The winged figure appears (Agent B; MOD) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F171 | B9-F02-15 Kurumi's father appears or speaks in a present-time scene (Agent B; LOW-MOD) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F172 | B9-F02-16 A present-time date later than 3 April 2017 (day and month) printed (Agent B; MOD) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); EXPOSURE-SENSITIVE (paratext); independent prospect |
+| FXK-V09-F173 | B9-F02-17 V10's last main-narrative page carries 「TO BE CONTINUED」 (Agent B; HIGH) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); EXPOSURE-SENSITIVE (paratext); independent prospect |
+| FXK-V09-F174 | B9-F02-18 いなご appears in every chapter of V10's main narrative (Agent B; MOD) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); EXPOSURE-SENSITIVE (paratext); independent prospect |
+| FXK-V09-F175 | B9-F02-19 Kurumi speaks of the "control" project or a rule-set for trading (Agent B; LOW-MOD) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F176 | B9-F02-20 Someone at もちもち企画 incurs a trading loss shown or stated (Agent B; LOW-MOD; EXPOSURE-SENSITIVE) | Agent B F02 CLOSING (10:46:11) | — | OPEN (next admitted volume); independent prospect |
+| FXK-V09-F177 | B9-F02-D1 The front cover (i0001) depicts Kurumi (Agent B; MOD-HIGH) | Agent B F02 CLOSING (10:46:11, before the deferred inputs were opened) | the centre figure of i0001, INF MOD-HIGH Kurumi by design (reconciliation reading copy) | CONFIRMED; independent prospect (apparatus) |
+| FXK-V09-F178 | B9-F02-D2 One of i0166–i0169 carries 「共生」 or the volume number 9 (Agent B; MOD) | Agent B F02 CLOSING (10:46:11, before the deferred inputs were opened) | 「9」 on the i0166 spine; 「9巻」 on i0168; 「共生」 not seen | CONFIRMED; independent prospect (apparatus) |
+| FXK-V09-F179 | B9-F02-D3 None of the deferred inputs contains main-narrative story pages (Agent B; MOD-HIGH) | Agent B F02 CLOSING (10:46:11, before the deferred inputs were opened) | covers, flap, jacket, an explicit 番外編 bonus comic and an essay strip | CONFIRMED; independent prospect (apparatus) |
+| FXK-V09-F180 | B9-F02-D4 A deferred input depicts 酒田いなご or 月森きずな (Agent B; LOW-MOD) | Agent B F02 CLOSING (10:46:11, before the deferred inputs were opened) | the i0166 collage reprints Inago's black-company panel and Kizuna's grin (reconciliation reading copy) | CONFIRMED; independent prospect (apparatus) |
 
 For prospects preserve predictions, confidence, disconfirming signals and actual exposure before resolution. Attribute independent tests separately. For revisions use `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT` or `OPEN`. Keep the historical argument and use a new linked entry for a material change.
 
 ## Person-level qualification
 
-Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, FXK-JP-V04-W01, FXK-JP-V05-W01, FXK-JP-V06-W01, FXK-JP-V07-W01 and FXK-JP-V08-W01) are listed after this paragraph. Record each eligible person, source and horizon, distinct habits, ordinary choices, Japanese speech, cognition under differing conditions, directional ties, counterexamples, evidence sufficiency and reassessment threshold. Link a completed monograph and its separate self-containment and fidelity decisions once accepted.
+Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, FXK-JP-V04-W01, FXK-JP-V05-W01, FXK-JP-V06-W01, FXK-JP-V07-W01, FXK-JP-V08-W01 and FXK-JP-V09-W01) are listed after this paragraph. Record each eligible person, source and horizon, distinct habits, ordinary choices, Japanese speech, cognition under differing conditions, directional ties, counterexamples, evidence sufficiency and reassessment threshold. Link a completed monograph and its separate self-containment and fidelity decisions once accepted.
 
 - **福賀くるみ (Fukuga Kurumi)**: source W01 V01; horizon ages 15 (2008–09) and 20 (Feb–May 2014). Evidence
   sufficiency: HIGH; she is on nearly every main page.
@@ -2075,6 +2364,29 @@ Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
       −101,534,644 (V07; unprinted in V08; "1億円を超える借金", i0047); 2014 tax ≈3,807,983 (i0034); bank balance after the deposit unprinted.
     - Reassessment threshold: whether the crisis has ended or only paused; what she accepts from Mochiko; telling her father; the debt path
       and the tax; any return to trading.
+  - **V09 update** (FXK-JP-V09-W01; horizon from the day after V08's night 3 (undated, early 2015) through early February 2015 and
+    autumn 2015 to Monday 3 April 2017; 23 in April 2017, i0152). Evidence sufficiency: HIGH (most main pages of 第41–44話; i0151–i0158).
+    - Distinct habits: names her own greed and tests it against others (i0031, i0112); "爆益" as a signature word (i0023, i0103); trader
+      slang under excitement ("い…今なにかポジってるの?", i0115); refuses a promise she might break rather than give it (i0078); clumsy
+      warmth (spilled tea, bedhead, i0152).
+    - Ordinary choices: strawberry pyjamas, then cardigan or sweater and the 「YHVH」 tote (i0003–i0016, i0036–i0039); is expected to
+      have made dinner (i0085, INF MOD); walks arm-in-arm with her father, straightens his tie (i0091); prank takoyaki, the death-sauce ball hit
+      five times (i0109, i0122); 「くるみのへや」 (i0123); graduation thesis "爆益を狙った場合における投資行動の一考察" (i0103); convenience-store
+      job (i0107); in 2017 an office clerk who sleeps at the office and sweeps it (i0151–i0152, i0157).
+    - Speech: 私; "萌智子", "お父さん", "お母さん", "やす子ちゃん"; panic-polite "ちょっと帰ってきてください!" (i0064); childlike "やだ",
+      "ビンタされちゃう" (i0040); 2017 "いなごちゃん", "きずなさん" (i0152, i0157).
+    - Cognition under differing conditions: re-examines her founding premise and the mother-pretext (i0028–i0032); owns enjoyment of the
+      market (i0058, i0060) and separates herself from her mother (i0061); refuses the vow, commits to openness ("堂々と", i0078–i0079);
+      states a future in decades (i0078); "相場が大好きだから" (i0121); resolves to "支配して コントロールしてみせる" (i0128).
+    - Directional ties: father (concealment → confession, i0040 → i0063; affection, accepted control of her wages, i0107; apology for his
+      journeys, i0123); Kozue (apology, separation, i0061); Mochiko (accepts her help and offer by outcome; clerk in 2017); Yasuko and
+      Mebuki (reunion, i0094–i0121); Inago (welcome, i0152).
+    - Counterexamples: the pull persists (i0115, i0118); the control resolution is untested; she does not tell her friends of the
+      bankruptcy herself (MX08-12, F05-5).
+    - The winged figure of her greed (i0003–i0009, i0031, i0124–i0130) continues the accepted V02 tempter (INF MOD-HIGH; FXK-V09-C074).
+    - Money: bankrupt and discharged (平成27年11月, i0104); the father's 300万 offered for the costs and accepted in thanks, its use not shown (i0074–i0075); 2014 tax in instalments (i0106);
+      wages managed by the father (i0107); no trade, account or position shown in V09.
+    - Reassessment threshold: whether she trades after autumn 2015 and on what terms; her role at the company; the tax; graduation.
 - **小金萌智子 (Kogane Mochiko)**: source W01 V01; horizon May 2014 (i0058–i0162). Evidence sufficiency:
   MODERATE-HIGH (about 30 pages; rich private thought).
   - Distinct habits: watching markets instead of attending class; a cat-ear/flower phone case; coffee from a "珈琲"
@@ -2251,6 +2563,27 @@ Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
       jokes about the means and hospital care (i0150); rough handling (i0132–i0136).
     - Money: no figure in V08; hypothetical "10億円" in a refusal (i0119); an unstated "investment" (i0113).
     - Reassessment threshold: the content of the investment; any disclosure of interest; her answer to the V02 charge; the letter (she holds the envelope).
+  - **V09 update** (horizon as Kurumi's; 23 in April 2017, i0143). Evidence sufficiency: HIGH (i0013–i0052, i0101–i0121, i0143–i0151).
+    - Distinct habits: care in action under denial ("いちいち送るの私の主義じゃないし", i0049; "死なれたら後味最悪なんだから", i0051); blunt
+      pricing of hard choices ("それで1億チャラになるなら安いでしょ", i0040); dry congratulations ("破産おめでと", i0105); private judgment
+      kept from speech ("爆弾", "ずっと子供のまま", i0042–i0043, TH).
+    - Ordinary choices: cooks okayu (i0013–i0016); many sugar sticks and creamers in her coffee (i0022, i0024); buys a gazette page as a
+      gift (i0104); runs (株)もちもち企画 as 代表取締役社長 (i0143); interviews and hires personally (i0144); leaves on business (i0151).
+    - Speech: 私; "〜じゃん", "〜でしょ", "〜なよ"; emerging tics "〜では?" (i0022, i0040) and "〜てみ" (i0014, i0104); "おい豚" (i0041); "いや本当に!" (i0050); business さん to staff (i0149, i0151); curt "…どうも
+      / よろしく" (i0143).
+    - Cognition: debt as manageable, bankruptcy as the plain route, a life over a debt (i0017, i0020); predicts Kurumi's return to the
+      market (i0025) and locates its motive beyond the mother (i0027); accepts Kurumi's greed (i0033); conditions the job on honesty
+      (i0050); rejects the rand for life (i0117, TH).
+    - Directional ties: Kurumi (non-denial, offer, condition, a watcher's suspicion; employer in 2017); Mebuki (loan near repaid, i0114);
+      Yasuko (banter; "部外者" allowed to work in the office, i0148); Inago ("誰でもよかったわけじゃないからね", i0151).
+    - Counterexamples: reads the letter "つい出来心で" (i0044); encourages a return to investing (i0022); suggests welfare to escape the tax
+      (i0106); cool rules against "過度な馴れ合い" (i0148).
+    - Interests stated: a conversation partner (i0022); Kurumi's knowledge and experience (i0034); a workload too heavy for one (i0110).
+      No exploitation shown; her amusement at the gazette's list of recent bankrupts (i0104–i0105) is a weak counterexample to "no
+      enjoyment of misfortune". Her childhood and family are not mentioned in V09 (EN-11). The 「は?」 at i0146 is not attributed to her
+      (UNRESOLVED).
+    - Money: no figure; does not pay Kurumi's debt (B8-F05-8).
+    - Reassessment threshold: the company's business; Kurumi's role in it; the reason for hiring Inago.
 - **あふぃちゃん** (handle; possessions lettered "Yasuko"; that Yasuko is her given name is INFERENCE MODERATE-HIGH,
   capped for owner-brief exposure; no reading given): source W01 V01; horizon one night (i0144–i0152). Evidence
   sufficiency: LOW-MODERATE (9 pages, no contact with others).
@@ -2355,6 +2688,22 @@ Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
     - Reassessment threshold: learning of Kurumi's debt; her professional debut.
   - **V08 update**: flashback chat only — 「くるみにつながったか?」, 「もうちょっと連絡してみる」 in Mebuki's thread 「やす子ちゃん」 (i0107); a
     memory face (i0087). Persistent concern. Evidence sufficiency for V08: LOW.
+  - **V09 update** (高根やす子; 23 and 【漫画家】 in April 2017, i0142). Evidence sufficiency for V09: MODERATE-HIGH (i0086–i0097,
+    i0108–i0122, i0142–i0151).
+    - Ordinary choices: 「重力ウサギ」 serial storyboards rejected (early 2015, i0086); studies general relativity on 「ミーチューブ」
+      (i0087); occasional treats with Mebuki (i0088); a rabbit-themed room and heart armchair (i0109–i0113); assistant work valued for speed,
+      no debut by autumn 2015 (i0111); a 専門学校 graduate, Nana's schoolmate (i0109, i0150); in 2017 works in Mochiko's office as a
+      "部外者" because of construction at home (i0148).
+    - Speech: あたし / ウチ; "すげー", "〜だろ", "絶対やらねー!"; stammered polite register to an adult ("し…しししし失礼ですが", i0095);
+      "社長〜!!" (i0143); "ばなな" (i0150).
+    - Cognition: rejects FX, not investing as such (i0112–i0113); warns Mebuki about the rand (i0117); fears illicit earning for Kurumi
+      (an imagined video list with 「闇バイト TOP10」 and a chibi presenter 「ゆっくり苦瑠実だぜ。」, i0090). Her knowledge of the debt: source
+      unstated (INF MOD via Mebuki, i0089).
+    - 2017: twin tails with rabbit clips, a fingerless glove (i0142); "冷たいこと言わないでくれよ" (i0148); "無理してなきゃいいけどな〜" and a
+      cowed "お…おう…" with Nana (i0150).
+    - Directional ties: Kurumi (worry, protective confrontation, "それどころじゃない", fond acceptance; i0089, i0095, i0119–i0120);
+      Mebuki (warning); Nana (teasing).
+    - Reassessment threshold: whether 【漫画家】 means a debut or serial (not stated).
 - **Mother (unnamed)**: source W01 V01 (2008–09 and memory). Evidence sufficiency: MODERATE.
   - Ordinary life: homemaker; long work hours to repay; covered meals; drinking during the crisis.
   - Speech: feminine standard; くるみちゃん; しときなさい.
@@ -2391,6 +2740,10 @@ Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
   - **V08 update**: not named in V08's text ("お母さん"; 「母(故人)」). Present as the family photograph (i0065), her face in Kurumi's
     imagined family tree, crossed out (i0047), and in Kurumi's thought and letter (i0041, i0044, i0067, i0085); her last note's words 「すみませんでした」 (V01 i0030) appear on a sheet at the start of Kurumi's putting in order (i0042; recalled or rewritten, UNRESOLVED), where Kurumi's "私も 責任 取らなきゃ…" echoes her "これは私の責任なんだから" (V01 i0016); the cordon at a tall building evokes her death (i0038–i0039, INF MOD-HIGH);
     Kurumi's V01 outburst to her recalled (i0086; she is not drawn). Evidence sufficiency MODERATE-HIGH (unchanged).
+  - **V09 update**: not named in V09's text ("お母さん", "母さん"). Drawn in the father's memory objecting to his transfers (i0072–i0073)
+    and in her memorial portrait (i0080); addressed at the 福賀家之墓 (i0055–i0061: "ごめんね お母さん", "似てるけど違うんだ"). New: the
+    father says she did not consult him ("相談もなかった", i0072) and blames himself for making consultation hard (i0073). Evidence
+    sufficiency MODERATE-HIGH (unchanged).
 - **Father (unnamed)**: source W01 V01. Evidence sufficiency: LOW-MODERATE.
   - Habits: glasses and sweater; monthly タンス預金; a gentle warning against FX; a commuting job.
   - Speech: plain masculine (言わん, だからな); calls her くるみ.
@@ -2425,6 +2778,19 @@ Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
     slap recalled (i0025, i0071); a remembered dinner, laughing with her (i0072); the young father in the family photograph (i0065);
     imagined at her funeral and refusing 「借金の相続」 (i0047). The narrator: "協力は 惜しまない はずである" (i0035). Knows of her 2014
     trading (accepted V02); not shown learning of the loss; the 遺書 is addressed to him. Evidence sufficiency LOW-MODERATE (unchanged).
+  - **V09 update** (郁夫, INF HIGH from accepted V06; addressed 「福賀さん」, i0062). Evidence sufficiency: MODERATE-HIGH (up from
+    LOW-MODERATE; i0062–i0098, i0122–i0123).
+    - Ordinary choices: on a transfer, driven by a colleague (i0062); souvenir manjū from a gag brand, 「全回復」 legible (i0069, i0073); kotatsu and newspaper (i0070, i0122);
+      "メール" for chat (i0094); after "…いや いいんだ", takes his daughter out for hamburg steak (i0085) and says "好きなの頼みなさい" (i0092); a
+      phone wallpaper of a young couple (i0085; INF LOW-MOD himself and Kozue); a contrarian literary youth (gag, i0083).
+    - Speech: plain masculine; 父さん as parent, 俺 for his stance ("それでも俺はやめろと言うぞ 親としてな", i0084); "顔を上げろ",
+      "気にするな".
+    - Cognition and responses: "怒らないから" (i0069); relief that she lives (i0072); self-blame for both silences (i0073); the 300万
+      saved for her, offered for the costs (i0074; its use not shown); demands a vow, withdraws it, keeps his opposition (i0076, i0083–i0084); judges her friends by character
+      (i0096); introduces the lawyer (i0098); returns often though on transfer (i0123); manages her wages until the tax is paid (i0107).
+    - Counterexamples: his remembered "お金のことは全部俺に任せて / お前は家のことだけやってたらいいんだ" (i0072).
+    - Knowledge: the loss, the "1億" debt, the bankruptcy, "ギリギリ"; not shown learning of the letter.
+    - Reassessment threshold: his response if Kurumi returns to the market.
 - **優子 (Yūko)**: source W01 V01 (i0021; named at i0143). Evidence sufficiency: LOW. A sincere warning; a current
   friend (identity across 2008/2014 INFERENCE MODERATE-HIGH). Not eligible for a profile yet.
   - V02: does not appear.
@@ -2435,6 +2801,7 @@ Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
   - V07: does not appear.
   - V08: memory only (i0052–i0053; also in the V01 collage, i0086): the hero to Kurumi's world-conquering alien; "はめつ がんぼう ある?";
     Kurumi: "優子ちゃん 元気に してるかな…". Not eligible for a profile.
+  - V09: does not appear.
 - **芽吹 (Mebuki)**: named offstage once (i0066). Evidence sufficiency: NONE. Not eligible; reassess at first on-page
   appearance.
   - **V02 update: now eligible.** 山師芽吹 (Yamashi Mebuki), caption "(20)【大学三年生】" (i0004); horizon late May – 15
@@ -2561,6 +2928,16 @@ Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
     - Directional ties: Kurumi (tried to reach her; a support message stated, i0107, i0110); Mochiko (warm, teasing; the loan as a joke;
       moral prompt, i0108–i0110); Yasuko (shared attempts, i0107).
     - Reassessment threshold: a present-time meeting with Kurumi; whether Kurumi read her message; repayment.
+  - **V09 update** (present time early February 2015 and autumn 2015; absent in 2017). Evidence sufficiency for V09: MODERATE
+    (i0086–i0097, i0114–i0121).
+    - Ordinary choices: occasional treats with Yasuko, a hearty appetite (i0088); repaying Mochiko on schedule, after asking her where she
+      stands ("来月には完済", i0114); restarted FX in a domestic account "ちょっとお金に余裕出てきたから", before the loan is repaid (i0115); a South African rand position for swap points (i0116–i0117).
+    - Speech: 私; です/ます with "くるみ先輩", "萌智子先輩"; "やす子ちゃん"; protective "絶対許さないんですけど!" (i0095).
+    - Cognition: a vague grasp of the carry mechanism ("金利の差額? が いい感じで…", i0116); an unspecified "作戦" for a fall (i0117); a
+      reliability flag on her self-report (re-entry before repayment, balance unknown; Agent B), not a shown error.
+    - Directional ties: Kurumi (relief at her reply, protective confrontation; i0088, i0095); Yasuko (treats, invitation to "ランド", i0117);
+      Mochiko (debtor nearly clear).
+    - Reassessment threshold: the outcome of the rand position; her whereabouts in 2017.
 - **Mebuki's mother (unnamed)**: source W01 V03 (i0027–i0029, i0063–i0064, i0096, i0159). Evidence sufficiency:
   LOW-MODERATE.
   - Habits: loud (a pot and ladle to call dinner, i0027); home cooking; care parcels with food and money (a 10,000-yen
@@ -2579,6 +2956,7 @@ Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
     (i0044). No material change in sufficiency.
   - V07: not shown; Mebuki reports that her parents opposed her leaving university ("親に反対されちゃいました", "とりあえず大学は卒業しとけって", i0008; INF MOD the content of V06's call home). No material change in sufficiency.
   - V08: not shown. No material change.
+  - V09: not shown. No material change.
 - **Mebuki's father (unnamed)**: source W01 V03 (i0028–i0029; mentioned i0074). Evidence sufficiency: LOW. Lenient
   ("学費くらい出したったらえぇがな…"); by Mebuki's estimate would not shield her now. Not eligible for a profile.
   - V04: in Mebuki's vision only (i0107). Not eligible for a profile.
@@ -2586,6 +2964,7 @@ Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
   - V06: asked for by Mebuki ("お父さん 起きとる? 話したいことが あんねんけど", i0044); not shown. No material change.
   - V07: not shown; included in Mebuki's report of her parents' opposition to her leaving university (i0008). No material change.
   - V08: not shown. No material change.
+  - V09: not shown. No material change.
 - **健斗 (Kento), Mebuki's younger brother**: named i0074 (ruby けんと); teasing (i0029); "そろそろ進学" (i0074).
   Evidence sufficiency: LOW. Not eligible.
   - V04: in Mebuki's vision ("健斗(けんと)…", i0107). Not eligible.
@@ -2593,6 +2972,7 @@ Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
   - V06: does not appear.
   - V07: does not appear.
   - V08: does not appear.
+  - V09: does not appear.
 - **山口さん**: a co-worker named in comparison only (i0049). Not eligible.
   - V03: does not appear.
   - V04: does not appear.
@@ -2600,6 +2980,9 @@ Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
   - V06: does not appear.
   - V07: does not appear.
   - V08: a memory/vision (i0079) — she taught Kurumi recipes (「豚角煮」); "できなくてごめんね". INF MOD-HIGH the V07 convenience-store worker who recommended 「豚角煮」 (V07 i0076–i0077), Kurumi's former co-worker; INF MOD the V01 co-worker of that name. Not eligible.
+  - V09: named in Kurumi's speech as glad of her return to the convenience-store job (i0107); the vignette co-worker (spiky tied-up hair,
+    jacket, shorts; "戻ってくるの待ってたよ〜 さっそくパチンコ行こうぜ!") is INF MOD-HIGH the V07 worker named 山口さん in V08 (V08 C073);
+    gender not asserted from this page. Not eligible.
 - **Minor figures (V02)**: a store co-worker (i0012), a security guard (i0138), students (i0139), pachinko players
   (i0098), a bookshop clerk (i0095); imagined tax and FSA officials (gag). Not eligible.
 - **Minor figures (V03)**: 千佳ちゃん (neighbour's daughter, named once, i0029); anonymous board posters (i0041); a TV horoscope
@@ -2626,6 +3009,7 @@ Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
   - V06: none of the three appears. No material change.
   - V07: none of the three appears in person. Mochiko says she will "probably never" go home ("たぶん一生帰らないよ", i0028, retracted); a frilled woman clings to her in her inner image of two daughters "cursed by their mothers" (i0053, INF MOD her mother); a light-haired woman passes her at dusk (i0138, unidentified). No material change.
   - V08: none of the three appears. No material change.
+  - V09: none of the three appears or is mentioned. No material change.
 - **Minor figures (V05)**: 毒島☆寿美 (Busujima Hiromi), editor at コミックプラッパー (card, i0124; cabaret card, i0140) — harsh,
   specific critique and encouragement; evidence LOW-MODERATE, not yet eligible; the 月刊コミックカラーズ and 月刊まんが おんたま
   editors (unnamed, i0114–i0119); the otaku fan who outs Yasuko (i0110, i0118); Kurumi's co-worker (i0083–i0084); the salon
@@ -2655,4 +3039,36 @@ Subjects assessed through V08 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
   毒島☆寿美 does not appear in V08.
 - Apparatus and extras in V08 (i0001–i0002 and i0159–i0171: covers, flap comments, the jacket blurb and collage, the cover-board comics, the
   afterword, the writer's bonus comic, the storyboard excerpt, colophon, vendor page) are paratext and are not used in these notes.
+- **酒田いなご (Sakata Inago)** (new in V09): source W01 V09 (i0133–i0158; named in a caption name box, i0134); horizon March 2014
+  (flashback frame) and Monday 3 April 2017; 21, 【短大卒 新社会人】. Evidence sufficiency: MODERATE (one chapter; viewpoint character).
+  - History: a rural girl seen off by children and villagers to a city junior college on a mountain (i0133, i0135); younger siblings
+    (i0134, i0139); a part-time-farming family (i0147); repeated job-hunting rejections and a humiliating interview (i0138–i0139).
+  - Ordinary choices: a white backpack with mascot charms (i0138); a teddy bear in a small room (i0139); homemade ohagi from the family's
+    glutinous rice (i0147).
+  - Speech: "お前たち" to siblings (i0133); humble "〜と申します" (i0149); rustic "トカイ" (i0133, i0150); self-deprecating "ポンコツ" (i0139).
+  - Cognition: black-company dread (i0137, i0145); resolves to last "最低3年" (i0137); "なんで私採用されたんでしょう…?" (i0146); charitable,
+    naive readings of others (Nana, i0150; Kizuna, i0155–i0156).
+  - Directional ties: siblings (affection); Mochiko (awe, fear, reassured, i0144–i0151); Kurumi (welcomed); Kizuna (hugged).
+  - Reassessment threshold: why she was hired; her role; any contact with trading.
+- **善波なな (Zenba Nana)** (new in V09): source W01 V09 (i0148–i0152; name box i0149); 23, 【クリエイター】. Evidence sufficiency: LOW.
+  Name forms: 「善波なな」 (name box), "善波さん" (Mochiko, i0149), 「ばなな」 (Yasuko, i0150); the corpus calls her Nana.
+  Round glasses, short bob, platform shoes; handles a client's retake ("A店から軽めのリテイク", i0149); formal ("了解です"); guards her past
+  ("余計なこと言わないでくださいね", i0150); nickname 「ばなな」; Yasuko's 専門学校 schoolmate; scolds the office sleeper and Kurumi (i0151–i0152).
+  INF MOD she is the NEET acquaintance Yasuko mentions in autumn 2015 (a silhouette with round glasses, i0110; the shared 専門学校,
+  i0150); not stated. Reassessment threshold: any further appearance.
+- **月森きずな (Tsukimori Kizuna)** (new in V09): source W01 V09 (i0152–i0158; named "きずなさん" by Kurumi i0157, name box i0158); 27,
+  【営業】. Evidence sufficiency: LOW-MODERATE. Bun, beauty mark, raccoon mug (i0153); watches a sharply falling chart with a leer and
+  panting, two clicks (i0154–i0156; a price display; instrument and position not shown); the same flush and panting when she hugs
+  Inago (i0157; INF MOD a visual signature); gushing physical affection toward the newcomer (i0157);
+  elongated, sing-song speech ("営業のきずなです〜 / 仲良くしてね〜", i0158). Market behaviour UNRESOLVED (short position or thrill in
+  volatility; candidate models only). Reassessment threshold: any position, order or P/L; her work in "sales".
+- **Minor figures (V09)** (new entry): the father's young colleague (unnamed; drives, envies transfers, clumsy matchmaking, i0062–i0066);
+  the home centre's staff (i0036); the queue of men in a slap gag (i0041); the restaurant waitress (i0087, i0097); the lawyer (grey-haired,
+  suit; unnamed; introduced by the father, i0098); Yasuko's NEET acquaintance (a silhouette with round glasses, i0110; INF MOD 善波なな); gag figures (imagined bosses,
+  i0029, i0137; a leopard-coat man, i0111); Inago's past interviewers (i0138); villagers and children (i0133). The winged girl
+  (Kurumi's personified greed; i0003–i0009, i0030–i0031, i0054, i0124–i0130) is a figure of Kurumi's (INF MOD-HIGH the accepted V02 tempter, FXK-V09-C074), recorded under her entry, not a
+  person. None named; none eligible. 毒島☆寿美 does not appear in V09.
+- Apparatus and extras in V09 (i0001–i0002, i0045–i0046, i0099–i0100, i0131–i0132, i0159–i0171: covers, flap, jacket blurb and collage,
+  separators, design roughs, the writer's afterword, the AU bonus comic, the writer's essay, colophon, vendor page) are paratext and are
+  not used in these notes.
 - Monographs: none completed or linked.
