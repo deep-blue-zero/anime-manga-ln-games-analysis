@@ -4,12 +4,12 @@ artifact_type: ledger
 scope: V2 longitudinal relationship state, permissions, conflict, repair, intimacy, and role conditioning
 generation: V2
 status: canonical
-source_boundary: TV E01-E13 and Friends Shorts 01–04; A1 only
+source_boundary: TV E01-E13 and Friends Shorts 01–05; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT04
+current_sequential_boundary: SHORT05
 e01_acoustic_performance_backfill: complete
 e02_acoustic_performance_pass: complete
 e03_acoustic_performance_pass: complete
@@ -259,6 +259,11 @@ Descriptions state anticipated analytical questions from architecture, not prosp
 
 **REL-SHORT04**. C033–37 supports accepted hair care, C073–86 an unannounced and risky scare, C087 a surviving monetary demand. One form of bodily or comic familiarity does not confer blanket permission for another. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md).
 
+
+## Relationship state · Short 05
+
+**REL-SHORT05**. Chisato offers indefinite hospitality and Takina keeps looking for a room (C027–29). Fuki reserves her own garment even though Chisato lends hers. Permission depends on the person and object. Takina’s management of a subordinate witness complicates the safe-play model. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md).
+
 # 6. Longitudinal snapshots
 
 | Snapshot | Relationship | Source horizon | Current permissions / distance | Conflict/repair state | Major unknowns |
@@ -426,9 +431,10 @@ Derivative-source intimacy cannot silently rewrite the anime-native dyad.
 
 # 10. Current authority statement
 
-Current release-order boundary: **SHORT04**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT05**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 

@@ -4,12 +4,12 @@ artifact_type: ledger
 scope: V2 prospective predictions, checkpoint freezes, and later adjudication
 generation: V2
 status: canonical
-source_boundary: TV E01-E13 and Friends Shorts 01–04; A1 only
+source_boundary: TV E01-E13 and Friends Shorts 01–05; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_checkpoint: SHORT04_OUTBOUND_FREEZE
+current_checkpoint: SHORT05_OUTBOUND_FREEZE
 ---
 
 # Lycoris Recoil Prospective Prediction Register
@@ -998,6 +998,25 @@ CP4 tranche: 01 PARTIALLY_SUPPORTED · 02 SUPPORTED · 03 PARTIALLY_SUPPORTED ·
 | PRED-SHORT04-002 | If a café member acts on incomplete information, a second participant may correct the practical judgment without settling every uncertainty. Moderate, R3. |
 | PRED-SHORT04-003 | If Chisato and Takina respond differently to playful provocation, the difference may be observable in words or poses without requiring a general personality change. Moderate, R2. |
 
+
+## SHORT05_OUTBOUND_FREEZE · Short 05
+
+[Source-native reading and incoming adjudications](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md). Frozen SHA-256 of the reading: 8fee12fce5d7a3479aa7592e1cc495e8e7d1f8f3f371fc405726aab0e36f91ac. The TV-only CP4 wording and the Short 04 incoming wording remain as originally issued.
+
+CP4 tranche: 01 SUPPORTED · 02 SUPPORTED · 03 PARTIALLY_SUPPORTED · 04 NOT_TESTED · 05 SUPPORTED · 06 SUPPORTED · 07 PARTIALLY_SUPPORTED · 08 PARTIALLY_SUPPORTED · 09 NOT_TESTED · 10 SUPPORTED · 11 NOT_TESTED · 12 PARTIALLY_SUPPORTED.
+
+| Incoming | Append-only result |
+|---|---|
+| PRED-SHORT04-001 | SUPPORTED with a limit. Fuki can decline Chisato’s game while staying with the others. Sakura’s ability to refuse once restrained is much less clear. |
+| PRED-SHORT04-002 | PARTIALLY_SUPPORTED. The apparent alarm is pursued under incomplete information. The audience knows about the witnessed fitting; Fuki and Chisato do not get a verified explanation. |
+| PRED-SHORT04-003 | SUPPORTED. Takina first objects to public dress-up, then tries red herself. Chisato permits Sakura’s experiment. The acts vary by audience and circumstance. |
+
+| Frozen ID | Prediction for Short 06 |
+|---|---|
+| PRED-SHORT05-001 | If an activity brings different preferences into view, participation may include setting limits or taking a role the others did not select. Moderate, R2. |
+| PRED-SHORT05-002 | If supporting members gather around ordinary work or recreation, more than one member may supply a consequential observation or intervention. Moderate, R2. |
+| PRED-SHORT05-003 | If play evokes the language of duty or rank, its private or social purpose may differ from its institutional meaning. Moderate, R3. |
+
 # 7. What to predict
 
 Prefer behavior classes:
@@ -1047,9 +1066,10 @@ If premise-only separation is impossible, skip the prospective test rather than 
 
 # 10. Current authority statement
 
-Current release-order boundary: **SHORT04**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT05**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 

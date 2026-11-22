@@ -4,12 +4,12 @@ artifact_type: claim_revision_ledger
 scope: V1 claims routed to current V2 formulations and evidence
 generation: V2
 status: canonical
-source_boundary: TV E01-E13 and Friends Shorts 01–04; A1 only
+source_boundary: TV E01-E13 and Friends Shorts 01–05; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT04
+current_sequential_boundary: SHORT05
 ---
 
 # Lycoris Recoil V1 → V2 Claim Revision Ledger
@@ -279,6 +279,17 @@ The following records were added only after `LYCORIS_RECOIL_E01_DEEP_READING.md`
 
 **Independent review and evidence boundary.** The two specialists and critic distinguish the removed costume head from the additional pale figure at #000187–188, which strengthens the spectator’s sighting without identifying it. The reader should use #000034 for the first desktop replay. Two independently reproduced stereo-zero runs precede parts of C104 and C105. A caption timestamp cannot establish the first heard sound. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
 
+## Short 05 · post-freeze V1 review
+
+| Record | V1 locator and disposition against the frozen reading |
+|---|---|
+| REV-SHORT05-001 | STRENGTHEN. V1 03 §Fuki, lines 512–522, and 06 §2 Roughness as affective shell, lines 695–701. Fuki’s agreement about the milkshake and bedtime depends on the addressee. C003 also gives a practical reason for lodging locally. |
+| REV-SHORT05-002 | STRENGTHEN. V1 07 §4 Red First uniform, lines 389–397, and 02 §12, line 618. Private try-on is visible. Curiosity and prestige are plausible. Promotion intent and a return to DA are unestablished. |
+| REV-SHORT05-003 | REVISE. V1 03 §Sakura, lines 524–528. C040–42 reports an attempt to put on Fuki’s clothes. Sakura witnesses Takina and laughs. Disclosure to Fuki or Chisato is unshown, and her subsequent response is constrained. |
+| REV-SHORT05-004 | DOWNGRADE. V1 02 §12, line 614, §VII.1, lines 799–802, and §4 Formal future, lines 880–890. C027–29 supports an open-ended offer alongside Takina’s current room search. The short gives no permanent acceptance. |
+
+**Independent review and evidence boundary.** The specialists checked the empty hanger, red outfit and mirror (#000096/114/121/126), the change back and the constrained witness (#000134–143). The critic distinguished Fuki’s C003 practical reason from Chisato’s insinuation, and Chisato’s permission from Fuki’s authority over her own garment. On PRED-SHORT04-001 there is positive evidence for Fuki’s freedom to refuse, but the case of Sakura resists generalization. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
+
 # 5. Document-level intake queue
 
 The following V1 responsibilities are expected to produce claim-level records as V2 reaches relevant evidence.
@@ -342,9 +353,10 @@ Do not:
 
 # 8. Current authority statement
 
-Current release-order boundary: **SHORT04**. See the per-unit Short records above. The V1 register contains 154 transitions. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT05**. See the per-unit Short records above. The V1 register contains 158 transitions. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 

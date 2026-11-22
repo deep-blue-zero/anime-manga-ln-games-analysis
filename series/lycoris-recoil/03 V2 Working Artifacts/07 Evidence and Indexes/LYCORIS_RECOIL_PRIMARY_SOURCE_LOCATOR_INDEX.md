@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT04
+current_sequential_boundary: SHORT05
 ---
 
 # Lycoris Recoil Primary Source Locator Index
@@ -529,11 +529,19 @@ For anthology evidence always preserve contributor/story identity.
 
 **Short 04 additional source checks.** The actual desktop replay begins at #000034 (00:27.236). Compare #000185 (03:19.635) with #000187/188 (03:24.020/03:25.565): a pale bow-topped figure distinct from the large foreground mascot head occupies successively different positions behind the café group. C087 is the bill discussion; C091 is the later absence report. The final FLAC contains two stereo signed-16 exact-zero runs at 03:51.459592–51.900159 and 03:53.004399–53.672857. C104 and C105 begin within those intervals.
 
+
+## Source locators · Short 05
+
+**LOC-SHORT05**. C006–19 facility and milkshake; C027–43 lodging and uniform; #000114/118/123/126/C052–58 private fitting; #000132/134/143 and C063–71 concealed witness; C079–84 ending. Bundle `LR_s00e05_screenshots.zip`, `dialogue_index.json`, `contact_sheets/` and `s00e05.complete-audio.flac`. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md).
+
+**Short 05 frame-order qualification.** C032 places the simultaneous verbal objections at 01:06.88. #000059/061 at 01:15.325 and 01:16.550 show Takina holding Sakura across Chisato’s later permission, C035–36. They establish continued physical restraint, not its precise onset at the objection. #000118 shows Takina posing with an empty hand; the small rectangle behind it belongs to the locker. At 02:37.2 she points in a dark uniform.
+
 # 9. Current authority statement
 
-Current release-order boundary: **SHORT04**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT05**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 

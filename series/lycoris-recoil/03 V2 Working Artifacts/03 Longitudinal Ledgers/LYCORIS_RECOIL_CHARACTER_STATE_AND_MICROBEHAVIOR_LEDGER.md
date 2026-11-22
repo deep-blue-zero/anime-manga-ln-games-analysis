@@ -4,12 +4,12 @@ artifact_type: ledger
 scope: V2 cumulative anime-native character state and microbehavior; later supplementary evidence added only with source-class provenance
 generation: V2
 status: canonical
-source_boundary: TV E01-E13 and Friends Shorts 01–04; A1 only
+source_boundary: TV E01-E13 and Friends Shorts 01–05; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT04
+current_sequential_boundary: SHORT05
 e01_acoustic_performance_backfill: complete
 e02_acoustic_performance_pass: complete
 e03_acoustic_performance_pass: complete
@@ -504,6 +504,11 @@ Representative Layer-B routes: `SHORT01-AUD-001`-`013`. Takina's business/profit
 
 **MB-SHORT04**. Takina revises a visual judgment about Mizuki and retains her demand for compensation even under a successful scare. Kurumi’s role as monitor is represented in the experience, then disputed by the others. Mika can perform for a camera as well as impose a noise limit. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md).
 
+
+## Character state · Short 05
+
+**MB-SHORT05**. Fuki’s institutional claim and deference to Mika appear minutes apart. Takina can both defend uniform boundaries and privately try red. Sakura’s aspiration and information advantage put her under pressure when she witnesses Takina. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md).
+
 # 6. Character-state snapshots
 
 | Snapshot | Character | Source horizon | Stable observations at this boundary | Active state/development notes | Major unknowns |
@@ -834,9 +839,10 @@ After every episode/short:
 
 # 12. Current authority statement
 
-Current release-order boundary: **SHORT04**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT05**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 
