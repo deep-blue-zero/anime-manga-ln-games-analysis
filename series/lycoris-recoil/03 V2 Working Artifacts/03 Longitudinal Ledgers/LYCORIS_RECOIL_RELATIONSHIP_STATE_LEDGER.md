@@ -265,6 +265,10 @@ Descriptions state anticipated analytical questions from architecture, not prosp
 **REL-SHORT05**. Chisato offers indefinite hospitality and Takina keeps looking for a room (C027–29). Fuki reserves her own garment even though Chisato lends hers. Permission depends on the person and object. Takina’s management of a subordinate witness complicates the safe-play model. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md).
 
 
+## Retrospective qualification after all six shorts
+
+Fuki addresses Mika differently in Short 05 and reacts to his holiday appearance in Short 06. The title and staging support an affectionate or romantic reading while leaving her precise motive open. Erika’s spoken 残念です, laugh and movement toward the van can coexist with several private motives. When fans accept Takina’s near-disclosure as performance, their enthusiastic response shows how a specific audience maintains the cover story. A broader public consensus remains unmeasured. [Source intervals and counterexamples](../07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/COVERAGE_AND_OPEN_ITEMS.md).
+
 ## Relationship state · Short 06
 
 **REL-SHORT06**. The Chisato–Takina cover exchange and Fuki–Erika disagreement distribute permission and authority differently. Fuki’s expectation that Mika alone will remain sensible meets the visible counterexample of his holiday clothes. Her response is attributable without declaring a romance. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md).

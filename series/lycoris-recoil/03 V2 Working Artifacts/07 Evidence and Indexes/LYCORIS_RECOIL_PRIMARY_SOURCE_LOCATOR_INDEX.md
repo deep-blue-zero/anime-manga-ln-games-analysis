@@ -14,6 +14,10 @@ current_sequential_boundary: SHORT06
 
 # Lycoris Recoil Primary Source Locator Index
 
+## Retrospective shorts audiovisual routes
+
+The [six-short comparison](Shorts%20Audiovisual%20Reconciliation/README.md) maps 53 independent claims to the corresponding shorts, source intervals and frozen readings. The [correction register](Shorts%20Audiovisual%20Reconciliation/COVERAGE_AND_OPEN_ITEMS.md) locates the Short 02 title, Short 03 milk and receipt, the Short 04 music already present by 02:36.397, the Short 05 hanger and Short 06’s paper fan, subsequent saucer, van and credits. Its last section routes remaining spoken-Japanese and sound-source questions to synchronized listening.
+
 ## Retrospective TV audiovisual routes
 
 Start at the [E01–E13 comparison](TV%20Audiovisual%20Reconciliation/README.md) for claims tested against the independent Gemini run. The [matrix](TV%20Audiovisual%20Reconciliation/CLAIM_MATRIX.md) maps original IDs to MKV intervals and existing bundle frame filenames. The [coverage record](TV%20Audiovisual%20Reconciliation/COVERAGE.md) identifies each TV master, subtitle clock and source digest. In E01 bundle dialogue row 9 retains the news text and omits the simultaneous ringtone and response at ASS C0010. After that overlap, ASS event numbers exceed the bundle dialogue row by one.

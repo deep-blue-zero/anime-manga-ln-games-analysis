@@ -510,6 +510,10 @@ Representative Layer-B routes: `SHORT01-AUD-001`-`013`. Takina's business/profit
 **MB-SHORT05**. Fuki’s institutional claim and deference to Mika appear minutes apart. Takina can both defend uniform boundaries and privately try red. Sakura’s aspiration and information advantage put her under pressure when she witnesses Takina. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md).
 
 
+## Retrospective qualification after all six shorts
+
+Takina initiates a café menu problem and vetoes a costly recipe in Short 03. Her friends’ milk spit-take occurs at the sight of the fruit. Short 05’s matched hanger strengthens the inference that Takina privately tries the red garment associated with Chisato. The transfer stays offscreen. Fuki’s change of register in front of Mika is well located, while equally high estimates during irritation elsewhere prevent reading pitch alone as romantic proof. In Short 06 Mika’s paper fan punctuates the encounter before the later saucer gag. His holiday costume shows a choice about this outing. His feelings about prior TV events remain unresolved. [Evidence and intervals](../07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/COVERAGE_AND_OPEN_ITEMS.md).
+
 ## Character state · Short 06
 
 **MB-SHORT06**. Chisato rapidly repairs a disclosure and sees a genuine public-image problem. Takina’s literal register can function as unusually persuasive cover in an audience already expecting role-play. Erika expresses a wish to stay, Fuki decides to leave, and Mika participates in the holiday on his own terms. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md).

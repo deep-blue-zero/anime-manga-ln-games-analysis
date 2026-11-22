@@ -35,6 +35,10 @@ Open this file first when resuming the project in a new chat or tool session. It
 
 For current use of E01–E13 claims, consult the [TV audiovisual reconciliation](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/README.md) alongside the frozen episode readings. Its matrix distinguishes corrections to V2 from limits on the independent Gemini account. Material refinements concern Erika’s request and Saori’s exposure, Chisato’s protection of Yoshimatsu, the E12 wound and heart evidence, and Majima’s E13 comparison with Takina. The [original dispatch register](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/DISPUTES.md) identifies the voice, motion and synchronization claims sent for review. The [22 November verifier return](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/VERIFIER_RETURN_20261122.md) gives the current dispositions of the twenty disputed questions, including Takina’s first visible island shot, the ending-song measurements and narrower Japanese-text referrals. This retrospective assessment adds no prospective source unit. At the time of the TV return, Short 02 was next. See the current sequential boundary below.
 
+## Retrospective shorts audiovisual reconciliation
+
+All six shorts have frozen source readings. The [Friends shorts reconciliation](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/README.md) records dispositions for all 53 independent propositions, the six-part ending-song comparison, amendments to current use of the frozen readings and the remaining Japanese listening questions. CP4 closed at seven supported and five partially supported predictions. The next governing operation is Phase D, the 19-unit anime-native consolidation and CP5 decision.
+
 ## Canonical analytical root
 
 
@@ -84,8 +88,8 @@ For current use of E01–E13 claims, consult the [TV audiovisual reconciliation]
   - `LYCORIS_RECOIL_SHORT01_DEEP_READING.md` — Drive ID `1a5-Sst3AE7vx-EzW4PlQAp9xzn56BY7A`
   - completed/frozen TV source horizon: E13 / TV 13 of 13 complete
   - frozen short readings through Short 06: [Short 02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md) · [Short 03](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md) · [Short 04](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md) · [Short 05](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md) · [Short 06](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md)
-  - current boundary: SHORT06_SOURCE_NATIVE_FREEZE under CP4_POST_E13.
-- Next operation: Review the independent shorts audiovisual return against the frozen readings, adjudicate CP4 and assess the separate CP5 gate.
+  - current source boundary: SHORT06_SOURCE_NATIVE_FREEZE. CP4_POST_E13 is adjudicated and closed.
+- Next operation: Consolidate all 19 A1 units under Phase D, audit major V1 claims and establish the CP5 anime-native reconstruction baseline.
 - Corpus-wide project initiation policy:
   - `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`
   - Drive ID: `1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC`
@@ -442,12 +446,12 @@ Each episode produces:
 ## Phase C — Shorts
 
 
-**Shorts 01–06 have completed their source-native passes.**
+**Complete. Shorts 01–06 have frozen source-native readings and a separate retrospective audiovisual comparison.**
 
 Sequence:
 
 
-Release-order high-water mark: SHORT06_SOURCE_NATIVE_FREEZE. Review the independent shorts audiovisual return against the frozen readings, adjudicate CP4 and assess the separate CP5 gate.
+Release-order high-water mark: SHORT06_SOURCE_NATIVE_FREEZE. Consolidate all 19 A1 units under Phase D, audit major V1 claims and establish the CP5 anime-native reconstruction baseline.
 
 
 The shorts are especially important for settled mundane behavior, humor, play, domestic/café routine, and anime-native counterfactual validation.
@@ -551,7 +555,7 @@ Current state:
 - `CP1_POST_E03`: closed at 6 supported / 6 not tested;
 - `CP2_POST_E06`: closed at 8 supported / 1 partially supported / 3 not tested;
 - `CP3_POST_E10`: **CLOSED at 12 supported / 0 partially supported / 0 not tested / 0 disconfirmed**;
-- governing TV-only predictions: CP4_POST_E13, adjudicated through Short 06;
+- governing TV-only predictions: CP4_POST_E13, closed across all six shorts (7 supported, 5 partially supported);
 - no supplementary narrative sources are admitted;
 - V1: comparison/revision input only after each source-native reading and prospective freeze are fixed;
 - novels: quarantined;
@@ -574,7 +578,7 @@ TV E01 through E13 are each preserved in two simultaneous senses:
 
 V2 reconstruction status:
 
-**TV-FROZEN / SHORTS VALIDATION PENDING**
+**TV model frozen. Shorts validation complete. The 19-unit reconstruction baseline is pending Phase D.**
 
 Through E13, Chisato's TV model combines enemy-inclusive life preservation, self-authorship, finite-time/legacy valuation, selective institutional cooperation, and mature particularist relational humanism. Her final values inventory names concrete people, places, experiences and service rather than world-historical purpose; mortality directly shapes her desire to remain in others' memories without becoming the sole causal origin of nonlethality. She accepts the replacement heart once survival no longer requires constitutive self-betrayal, discards the recovered Alan token while retaining gratitude, and resumes an open future. E13 also adds a negative modifier: when anticipating death she may use autonomy to withdraw unilaterally and manage others' grief.
 
@@ -582,7 +586,7 @@ Through E13, Chisato's TV model combines enemy-inclusive life preservation, self
 
 V2 reconstruction status:
 
-**TV-FROZEN / SHORTS VALIDATION PENDING**
+**TV model frozen. Shorts validation complete. The 19-unit reconstruction baseline is pending Phase D.**
 
 Takina's TV endpoint preserves operational rationalism, precise/corrective language, procedural care and independent lethal-force judgment while profoundly changing what those capacities serve. E13 gives the mature governance correction to E01's unilateral competence logic: `私たちで決めましょう` uses causal fit to negotiate distributed agency with Fuki. Takina rescues Chisato without DA, locates her through person-centered civilian evidence, offers quiet survival reassurance, challenges avoidant withdrawal, and proposes reopening possibilities Chisato had abandoned. Crisis activation and safe-play activation coexist with controlled high-importance care/future speech, confirming state-conditioned but semantically non-monotonic performance bandwidth.
 
@@ -619,7 +623,7 @@ Routine mechanical source/inventory operations may use lighter reasoning where p
 The following are intentionally unresolved rather than corpus deficiencies:
 
 - source-native short readings are frozen through Short 06;
-- full anime-native reconstruction baseline remains unfrozen until all six shorts close and `CP5_ANIME_NATIVE_FINAL` is established;
+- all six shorts have closed. The full anime-native reconstruction baseline awaits Phase D consolidation and `CP5_ANIME_NATIVE_FINAL`;
 - no continuous-video escalation was required for TV E01-E13; all thirteen TV episodes closed as `VIDEO_NOT_REQUIRED`;
 - E01 objective acoustic backfill and E02-E13 FLAC Layer-B analyses are admitted; subjective/perceptual Layer-C voice labels remain `UNVERIFIED`;
 - exact Mika→Yoshimatsu lethal mechanics remain intentionally off-screen; current authority is direct armed protective confrontation + later Yoshimatsu death/heart retrieval, not an invented visible trigger pull;
@@ -652,6 +656,9 @@ project_initialization:
   current_sequential_boundary: SHORT06
   current_outbound_freeze: SHORT06_SOURCE_NATIVE_FREEZE
   current_video_escalation_state: VIDEO_TARGETED_ESCALATION
+  short_av_comparison: complete_with_typed_residuals
+  cp4_prediction_outcome: 7_supported_5_partially_supported
+  cp5_anime_native_final: pending_phase_d
   e01_acoustic_performance_backfill: complete
   e02_acoustic_performance_pass: complete
   e02_bundle_visual_pass: complete
@@ -688,7 +695,7 @@ project_initialization:
 
 # 13. Current canonical operation
 
-Review the independent shorts audiovisual return against the frozen readings, adjudicate CP4 and assess the separate CP5 gate. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The sequential run is authorized through Short 06 and the subsequent short-only comparison.
+Consolidate all 19 A1 units under Phase D, audit major V1 claims and establish the CP5 anime-native reconstruction baseline. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The completed short-only comparison supplies the attributable corrections. Open listener referrals and chronology limits travel with the Phase D evidence.
 
 # 14. Retrieval route
 
@@ -711,4 +718,4 @@ When resuming:
 
 # 15. Governing current-state statement
 
-The admitted source horizon is TV E01–E13 plus Shorts 01–06. Review the independent shorts audiovisual return against the frozen readings, adjudicate CP4 and assess the separate CP5 gate. No supplementary source has entered the A1 account.
+The admitted source horizon is TV E01–E13 plus Shorts 01–06. Consolidate all 19 A1 units under Phase D, audit major V1 claims and establish the CP5 anime-native reconstruction baseline. No supplementary source has entered the A1 account.
