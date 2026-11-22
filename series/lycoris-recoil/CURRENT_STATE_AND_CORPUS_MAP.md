@@ -31,6 +31,10 @@ Open this file first when resuming the project in a new chat or tool session. It
 # 1. Current authority
 
 
+## Retrospective TV audiovisual reconciliation
+
+For current use of E01–E13 claims, consult the [TV audiovisual reconciliation](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/README.md) alongside the frozen episode readings. Its matrix distinguishes corrections to V2 from limits on the independent Gemini account. Material refinements concern Erika’s request and Saori’s exposure, Chisato’s protection of Yoshimatsu, the E12 wound and heart evidence, and Majima’s E13 comparison with Takina. The [open evidence register](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/DISPUTES.md) identifies unresolved voice, motion and synchronization claims. This retrospective assessment adds no prospective source unit. Short 02 remains next under `SHORT01_OUTBOUND_FREEZE` and `CP4_POST_E13`. Final anime-native synthesis and character reconstruction await Shorts 02–06.
+
 ## Canonical analytical root
 
 

@@ -252,6 +252,38 @@ class RegistryToolTests(unittest.TestCase):
         self.git("add", "--", ALICE)
         self.assertEqual(unstaged_registry_paths(self.root), [CAROL])
 
+    def test_generator_retry_reports_outputs_until_the_index_is_staged(self) -> None:
+        root_index = "characters/CHARACTER_RECONSTRUCTION_INDEX.md"
+        new_page = "characters/reconstruction_index/example.md"
+        stale_page = "characters/reconstruction_index/retired.md"
+        other_owner = "characters/index/example.md"
+        self.write(root_index, b"# Old index\n")
+        self.write(stale_page, b"# Retired\n")
+        self.write(other_owner, b"# Other owner\n")
+        self.git("add", "--", root_index, stale_page, other_owner)
+        before = self.git("write-tree")
+        staged = GitSnapshot.from_index(self.root)
+        rendered = {root_index: "# Index\n", new_page: "# Example\n"}
+        expected = [root_index, new_page, stale_page]
+
+        self.assertEqual(write_outputs(self.root, staged, rendered), expected)
+        self.assertEqual(write_outputs(self.root, staged, rendered), expected)
+        self.assertEqual(self.git("write-tree"), before)
+        self.assertEqual((self.root / other_owner).read_bytes(), b"# Other owner\n")
+        self.assertFalse((self.root / stale_page).exists())
+        for path, content in rendered.items():
+            self.assertEqual((self.root / path).read_bytes(), content.encode())
+
+        self.git("add", "--", root_index)
+        self.assertEqual(
+            write_outputs(self.root, GitSnapshot.from_index(self.root), rendered),
+            [new_page, stale_page],
+        )
+        # Reporting follows the supplied snapshot, not a silently reacquired index.
+        self.assertEqual(write_outputs(self.root, staged, rendered), expected)
+        self.git("add", "--", new_page, stale_page)
+        self.assertEqual(write_outputs(self.root, GitSnapshot.from_index(self.root), rendered), [])
+
     def test_writers_refuse_symlinked_managed_directories(self) -> None:
         outside = Path(tempfile.mkdtemp(prefix="reconstruction-outside-", dir=self.root.parent))
         self.addCleanup(shutil.rmtree, outside)
@@ -311,7 +343,14 @@ class RegistryToolTests(unittest.TestCase):
             ],
         )
         self.assertFalse((self.root / "characters/reconstruction_index/retired.md").exists())
-        self.assertEqual(write_outputs(self.root, tracked, rendered), ["characters/reconstruction_index/retired.md"])
+        self.assertEqual(
+            write_outputs(self.root, tracked, rendered),
+            [
+                "characters/CHARACTER_RECONSTRUCTION_INDEX.md",
+                "characters/reconstruction_index/example.md",
+                "characters/reconstruction_index/retired.md",
+            ],
+        )
         errors = generated_output_errors(tracked, rendered)
         self.assertIn("generated reconstruction index output is missing: characters/CHARACTER_RECONSTRUCTION_INDEX.md", errors)
         self.assertTrue(any("retired.md is not a generated namespace page" in item for item in errors))
