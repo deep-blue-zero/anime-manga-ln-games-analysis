@@ -3,7 +3,7 @@ title: "FX Fighter Kurumi-chan — Current State and Corpus Map"
 artifact_id: FX_KURUMI_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
 series: fx-fighter-kurumi-chan
-version: "1.6"
+version: "1.7"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Canonical foundation navigation, source admission and execution state"
@@ -75,6 +75,8 @@ Each accepted volume has a canonical deep reading, a frozen checkpoint that reco
 | V04 | [V04 deep reading](readings/FX_KURUMI_V04_DEEP_READING.md) | [V04 checkpoint](checkpoints/FX_KURUMI_V04_CHECKPOINT.md) | [V04 entering state](checkpoints/FX_KURUMI_V04_ENTERING_STATE.md) | 2026-11-21 |
 | V05 | [V05 deep reading](readings/FX_KURUMI_V05_DEEP_READING.md) | [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md) | [V05 entering state](checkpoints/FX_KURUMI_V05_ENTERING_STATE.md) | 2026-11-22 |
 
+The [checkpoint errata](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md) correct the frozen V01–V04 checkpoints without changing them. In V01–V05 only the principal deferred each volume's cover, flap and jacket images until after its main-narrative freeze; the specialists and the reviewer saw them first. The errata record each role's first exposure in V01–V04 against its freezes, with a disposition for every forecast item, and the [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md#7-exposure-and-contamination-record) records the same for V05. The errata also reclassify V01 i0165 as an authorial extra, qualify the predictive credit of two V02 Agent B forecast rows (FXK-V02-F095, F111), and give Agent B's V04 forecasts a literal score (27 of 73 confirmed, Brier 0.20849) beside its relaxed one. From V05 every forecast is scored literally as frozen, with any relaxed or event-only result labelled alongside.
+
 ## Authorized run
 
 | Field | State |
@@ -97,7 +99,7 @@ Each volume's principal classifies every image occurrence before analysis relies
 | Component | Scope in this run |
 | --- | --- |
 | Main narrative chapters | Admitted at the volume's frontier and analyzed |
-| Covers, flaps, title and chapter-title pages, contents, colophon | Admitted as apparatus. Cited with an apparatus label and never as a diegetic fact. A cover image can carry information from later in the volume, so it is read after the main-narrative freeze |
+| Covers, flaps, title and chapter-title pages, contents, colophon | Admitted as apparatus. Cited with an apparatus label and never as a diegetic fact. A cover image can carry information from later in the volume, so from V06 every role reads the covers, flap and jacket images only after its own main-narrative work: the principal after MAIN_EXIT, the specialists after their last prospective freeze, and the reviewer from a separate deferred contact sheet after its Stage 1 inspection. In V01–V05 only the principal deferred them ([checkpoint errata](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md); [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md#7-exposure-and-contamination-record)) |
 | Authorial extras inside a volume (bonus strips, profiles, afterwords and similar) | Inventoried with locators and classified. The supplemental lane stays closed, so they are not narrative evidence in this run. Any exposure from classifying them is recorded in the checkpoint |
 | Advertisements, previews of other works, next-volume previews | Excluded. A next-volume preview is not opened before that volume's admission |
 

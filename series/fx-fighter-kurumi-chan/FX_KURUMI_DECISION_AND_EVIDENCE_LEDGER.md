@@ -3,7 +3,7 @@ title: "FX Fighter Kurumi-chan — Decision and Evidence Ledger"
 artifact_id: FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER
 artifact_type: evidence_ledger
 series: fx-fighter-kurumi-chan
-version: "1.5"
+version: "1.6"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Ordered fictional decisions, state and interpretation history for the collected manga"
@@ -18,7 +18,7 @@ do_not_use_as_literary_evidence: true
 
 # FX Fighter Kurumi-chan — Decision and Evidence Ledger
 
-Source admission is **V01–V05** (FXK-JP-V01-W01: main narrative i0003–i0162 and classified apparatus i0001–i0002 and i0163–i0171; FXK-JP-V02-W01: main narrative i0003–i0102, i0105–i0134 and i0137–i0162 and classified apparatus and extras i0001–i0002, i0103–i0104, i0135–i0136 and i0163–i0171; FXK-JP-V03-W01: main narrative i0003–i0162 and classified apparatus, extras and vendor page i0001–i0002 and i0163–i0171; FXK-JP-V04-W01: main narrative i0003–i0032, i0035–i0062, i0065–i0088, i0091–i0122 and i0125–i0150 and classified apparatus, extras and vendor page i0001–i0002, i0033–i0034, i0063–i0064, i0089–i0090, i0123–i0124 and i0151–i0163; FXK-JP-V05-W01: main narrative i0003–i0054 and i0057–i0162 and classified apparatus, extras and vendor page i0001–i0002, i0055–i0056 and i0163–i0171); the rows below record V01, V02, V03, V04 and V05 and cite observation IDs from the [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md), the [V02 deep reading](readings/FX_KURUMI_V02_DEEP_READING.md), the [V03 deep reading](readings/FX_KURUMI_V03_DEEP_READING.md), the [V04 deep reading](readings/FX_KURUMI_V04_DEEP_READING.md) and the [V05 deep reading](readings/FX_KURUMI_V05_DEEP_READING.md). Use stable observation IDs from the accepted reading and link to the actual page and panel or screen region before advancing any row.
+Source admission is **V01–V05** (FXK-JP-V01-W01: main narrative i0003–i0162 and classified apparatus and extras i0001–i0002 and i0163–i0171; FXK-JP-V02-W01: main narrative i0003–i0102, i0105–i0134 and i0137–i0162 and classified apparatus and extras i0001–i0002, i0103–i0104, i0135–i0136 and i0163–i0171; FXK-JP-V03-W01: main narrative i0003–i0162 and classified apparatus, extras and vendor page i0001–i0002 and i0163–i0171; FXK-JP-V04-W01: main narrative i0003–i0032, i0035–i0062, i0065–i0088, i0091–i0122 and i0125–i0150 and classified apparatus, extras and vendor page i0001–i0002, i0033–i0034, i0063–i0064, i0089–i0090, i0123–i0124 and i0151–i0163; FXK-JP-V05-W01: main narrative i0003–i0054 and i0057–i0162 and classified apparatus, extras and vendor page i0001–i0002, i0055–i0056 and i0163–i0171); the rows below record V01, V02, V03, V04 and V05 and cite observation IDs from the [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md), the [V02 deep reading](readings/FX_KURUMI_V02_DEEP_READING.md), the [V03 deep reading](readings/FX_KURUMI_V03_DEEP_READING.md), the [V04 deep reading](readings/FX_KURUMI_V04_DEEP_READING.md) and the [V05 deep reading](readings/FX_KURUMI_V05_DEEP_READING.md). Use stable observation IDs from the accepted reading and link to the actual page and panel or screen region before advancing any row.
 
 | Episode ID | Witness and unit/disclosure point | Figure, language or action shown and locator | Holder, time and modality of information | Entering alternatives and observed action | Exit change and affected person | Rival, uncertainty and claim pointer |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -179,7 +179,7 @@ When it matters, carry amount, sign, denomination, unit and state as printed, re
 
 ## Claim and forecast history
 
-A row marked "independent prospect" was frozen in the specialist's own lane. In V01–V04 the specialists saw each volume's front cover and flap before their first freeze, and the reviewer saw them on its first contact sheet; the principals did not see them until after MAIN_EXIT. The [checkpoint errata](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md) give every such row's exposure disposition. A row whose predictive credit changes records the credit separately from the observed outcome (2026-11-22).
+A row marked "independent prospect" was frozen in the specialist's own lane. In V01–V05 the specialists saw each volume's front cover and flap before their first freeze, and the reviewer saw them on its first contact sheet; the principals did not see them until after MAIN_EXIT. The [checkpoint errata](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md) give every such row's exposure disposition for V01–V04, and the [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md#7-exposure-and-contamination-record) for V05. A row whose predictive credit changes records the credit separately from the observed outcome (2026-11-22).
 
 | Record ID | Claim or prospect and author | Original scope, freeze and locator | New observation, contrary case or outcome | Disposition and current authority |
 | --- | --- | --- | --- | --- |
