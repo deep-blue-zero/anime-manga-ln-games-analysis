@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 219; `STALE` 3; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 220; `STALE` 3; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -49,6 +49,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
 | [`project-sekai`](reconstruction_index/project-sekai.md) | 7 | 8 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 21 | 25 |
+| [`rent-a-girlfriend`](reconstruction_index/rent-a-girlfriend.md) | 1 | 1 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 17 | 17 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
@@ -246,6 +247,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `re-zero:subaru@light-novel` | [`re-zero-subaru-ln-v01-v25-model-20261118-01`](reconstruction_index/re-zero.md#re-zero-subaru-ln-v01-v25-model-20261118-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `re-zero:theresia-van-astrea@light-novel` | [`re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01`](reconstruction_index/re-zero.md#re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01) | `CANDIDATE` | `C` | `6e50c633339b9e2b2d569d0f0eea53a7290cdc16` |
 | `re-zero:wilhelm-van-astrea@light-novel` | [`re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01) | `CANDIDATE` | `C` | `38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357` |
+| `rent-a-girlfriend:kazuya-kinoshita@manga` | [`rent-a-girlfriend-kazuya-kinoshita-manga-v001-v040-ledger-20261122-01`](reconstruction_index/rent-a-girlfriend.md#rent-a-girlfriend-kazuya-kinoshita-manga-v001-v040-ledger-20261122-01) | `CANDIDATE` | `B` | `1de2076a382ed3e41e8c1965ec2a2172e449c57a` |
 | `shiboyugi:yuuki@light-novel` | [`shiboyugi-yuuki-light-novel-sby-p001-monograph-20261115-01`](reconstruction_index/shiboyugi.md#shiboyugi-yuuki-light-novel-sby-p001-monograph-20261115-01) | `CANDIDATE` | `C` | `57a2a2026b88f3c9d09fbe0b4f90b62c4d768690` |
 | `shokugeki-no-soma:aldini-takumi@manga` | [`shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01) | `CANDIDATE` | `C` | `ed16d08d72d08c45e8647d8daac749a8b6f7c6c5` |
 | `shokugeki-no-soma:arato-hisako@manga` | [`shokugeki-no-soma-arato-hisako-manga-v2-model-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-arato-hisako-manga-v2-model-20261119-01) | `CANDIDATE` | `C` | `510efb922655cc94f14d6d2e431e4c38b932a099` |
