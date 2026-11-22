@@ -294,3 +294,37 @@ Counts: main narrative 141, apparatus 16 (nine separator pages, the cover, flap,
 | FXK-SO-004 legibility of dense screens and small numerals | Completed for V07; the partly legible items above are recorded in the reading and none is reconstructed |
 
 FXK-SO-001 and FXK-SO-005 are unchanged by V07; the V07 package modification date and the colophon both give 2024-09-21.
+
+## V08 coverage
+
+Recorded by the V08 principal for run FXK-RUN-20261119-V01-V10 and accepted with the V08 transaction by the run coordinator on 2026-11-22. The [V08 deep reading](readings/FX_KURUMI_V08_DEEP_READING.md) holds the full receipt; the [V08 checkpoint](checkpoints/FX_KURUMI_V08_CHECKPOINT.md) records each role's coverage and every disposition.
+
+- **Witness.** FXK-JP-V08-W01, package title 「FX戦士くるみちゃん　８」: 171 image occurrences at 1441×2048, right-to-left; every occurrence was viewed once and logged once by the principal, with no gap or duplicate (verified by script). The colophon (i0170) gives e-book ver.001, published 2025-05-22 by KADOKAWA (the print first edition bears the same date), first serialized in 月刊コミックフラッパー 「2024年8月号〜2024年12月号」, with 「2025年1月号」 on a second line: six issue designations for the five chapters (ANALYST COUNT; the page does not say whether every issue carried a chapter, and the mismatch is unresolved). Colour occurrences: i0001, i0003–i0006, i0166–i0169.
+- **Occurrences reviewed.** The principal opened every occurrence i0001–i0171: the main narrative in spine order first; after the main-exit freeze the post-main separator i0159, the afterword i0160–i0161, the writer's bonus comic i0162–i0164 and the storyboard excerpt i0165; then the deferred cover, flap, wraparound and under-jacket images (i0166, i0167, i0168, i0169, i0001, i0002); then the colophon and the vendor page. The entrypoint's component scope deferred those six occurrences for every role: each specialist opened all 171 occurrences in spine order and the deferred six only at its own release point; the reviewer triaged every occurrence on contact sheets, opened the decisive pages at reading resolution or in crops, and opened the deferred sheets only after its Stage 1 write-up. The [V08 checkpoint](checkpoints/FX_KURUMI_V08_CHECKPOINT.md) records each role's first sight of them against its freezes and judgments.
+- **Page order, folios and spreads.** The printed folio equals the occurrence number minus 2 through the p-NNN run (p.1 = i0003 to p.163 = i0165; printed folios checked at i0026 「24」, i0029 「27」, i0060 「58」, i0063 「61」, i0092 「90」, i0095 「93」, i0112 「110」, i0113 「111」, i0126 「124」, i0129 「127」, i0156 「154」 and i0158 「156」); separator pages carry no folio but are counted. Even occurrences are right-hand pages and odd ones left-hand pages, so openings are (even | odd), as the package's spine-spread properties state. Art crosses the gutter in i0004+i0005, i0014+i0015, i0020+i0021, i0038+i0039, i0074+i0075 and i0142+i0143. The label 「第36話」 is on i0005, after the colour opening (i0003) and the colour title page (i0004); 第37話–第40話 are labelled on odd pages (i0029, i0063, i0095, i0129) facing a separator. No missing, duplicated or out-of-order page was found.
+
+| Component | Occurrences | Notes |
+| --- | --- | --- |
+| Apparatus: front cover and flap | i0001, i0002 | Deferred for every role; opened by the principal after the main-exit freeze; promotional, not diegetic |
+| Main narrative | i0003–i0026, i0029–i0060, i0063–i0092, i0095–i0126, i0129–i0158 (148) | A colour opening with the strip 「第8集 友達」 (i0003) and a colour title page (i0004), grouped with 第36話 (label on i0005); 第36話 i0003–i0026 (24 pages); 第37話 i0029–i0060 (32); 第38話 i0063–i0092 (30); 第39話 i0095–i0126 (32; flashback 「数日前——」 i0096–i0114); 第40話 i0129–i0158 (30), ending 「TO BE CONTINUED...」 |
+| Apparatus: separators inside the main run | i0027–i0028, i0061–i0062, i0093–i0094, i0127–i0128 | Black grid pages with the series logo between the chapters |
+| Apparatus: separator after the main run | i0159 | A single logo page |
+| Extra: afterword | i0160–i0161 | 「8巻あとがき」 (the artist); classified only; not narrative evidence |
+| Extra: writer's bonus comic | i0162–i0164 | 「でむにゃんの「遅筆」が深刻なようです。〜単に描けない編〜」; classified only |
+| Extra: storyboard excerpt | i0165 | Rough ネーム of the 第36話 trade sequence; its figures match the published boxes; draft material, not narrative evidence |
+| Apparatus: wraparound jacket | i0166–i0167 | Deferred; the publisher blurb and a collage of V08 panels (i0166); colour cover, spine and flap (i0167); paratext |
+| Apparatus: under-jacket boards | i0168–i0169 | Deferred; the artist's gag comic 「漫画の為に借金してみる」 and the writer's 「でむにゃんはポーカー戦士のようです」; paratext, not used as story evidence |
+| Apparatus: colophon | i0170 | Bibliographic |
+| Advertising: vendor page | i0171 | Excluded |
+
+Counts: main narrative 148, apparatus 16 (nine separator pages, the cover, flap, the wraparound pair, the two under-jacket boards and the colophon), extras 6 (i0160–i0165), advertising 1. There is no next-volume preview and no blank occurrence.
+
+- **Legibility and unresolved numerals.** All reading copies are legible. Every balance box, P/L tile, chart label, order dialog, calculator and legal citation relied on was checked in enlarged crops or recorded as read at reading size because it is lettered large (the nine 評価損益 tiles i0016–i0019, the 0円 box i0020, the error dialogs i0023, the notices i0056); the reading's receipt lists the crops, and reconciliation crops settled 「出ていって?」 (i0123), the bath inset of i0147, the stacked 「1460万」 blocks (i0031), the store poster (i0082) and the memory tile (i0089). Unreadable by design, not reconstructed: the glitched numeral strip ending in 円 at i0130 (enlarged ×1 and ×2). Partly legible, not reconstructed: the memory tile 「WIN」 「USD/JPY」 「101.889円 (+24.[…]」 (i0089); the fourth notice card 「…間30分前」 (i0056); a collage fragment 「2月 280…」 and axis labels 「1.20…」 (i0152) and a gag board (i0154), read only in the financial specialist's enlargements. Kept as printed, not repaired: 「利益1億円×0.45%=4500万」 (i0030; 45% intended by the result); Kurumi's "毎日4万円" and 「1460万/年」 against 14.6% of the V07 shortfall (her rounding, i0031); the overseas account's prior balance of 0 by calculation against V07's 100,000 and +90,000 (i0003); banded cash drawn beside an account-deposit box (i0003). No fill, entry or liquidation rate, leverage figure or margin rule is printed for any V08 trade; the three EUR/CHF orders, the close by 「強制ロスカット」 at 0円 and the rejected 100-lot order are printed (i0008–i0023). No present-time calendar date is printed anywhere in the main narrative.
+
+| Obligation | V08 state |
+| --- | --- |
+| FXK-SO-002 ordered image map and duplicate check | Visual order confirmed for V08: every occurrence viewed in spine order, folio sequence continuous, no duplicates or gaps |
+| FXK-SO-003 component classification | Completed for V08 as tabled above; the six cover and jacket occurrences were deferred for every role and classified after the main narrative; extras and advertising classified by glance and not used as narrative evidence |
+| FXK-SO-004 legibility of dense screens and small numerals | Completed for V08; the unreadable strip at i0130 and the partly legible items above are recorded in the reading and none is reconstructed |
+
+FXK-SO-001 and FXK-SO-005 are unchanged by V08; the V08 package modification date and the colophon both give 2025-05-22.
