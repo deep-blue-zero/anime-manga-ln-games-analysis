@@ -4,12 +4,12 @@ artifact_type: ledger
 scope: V2 prospective predictions, checkpoint freezes, and later adjudication
 generation: V2
 status: canonical
-source_boundary: TV E01-E13 and Friends Shorts 01–03; A1 only
+source_boundary: TV E01-E13 and Friends Shorts 01–04; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_checkpoint: SHORT03_OUTBOUND_FREEZE
+current_checkpoint: SHORT04_OUTBOUND_FREEZE
 ---
 
 # Lycoris Recoil Prospective Prediction Register
@@ -977,6 +977,27 @@ CP4 tranche: 01 SUPPORTED · 02 SUPPORTED · 03 SUPPORTED · 04 NOT_TESTED · 05
 | PRED-SHORT03-002 | If a familiar cultural reference becomes available, Chisato may turn it into shared play, with uneven uptake. Moderate, R3. |
 | PRED-SHORT03-003 | If ordinary work puts a supporting member in a position to judge, their social memory or taste may alter what the principals do. Moderate, R3. |
 
+**Short 03 post-freeze adjudication correction.** PRED-SHORT02-002 is NOT_TESTED for its actual condition of explicit care or enthusiasm. Similar levels for a word and its repetition validate a measurement caution only. Preserve the source-native PARTIALLY_SUPPORTED entry as originally issued.
+
+
+## SHORT04_OUTBOUND_FREEZE · Short 04
+
+[Source-native reading and incoming adjudications](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md). Frozen SHA-256 of the reading: a66b88b9b8dba2aaeeb571b4b2ae124ea86b4ad287c5d3ef72152ab371b85992. The TV-only CP4 wording and the Short 03 incoming wording remain as originally issued.
+
+CP4 tranche: 01 PARTIALLY_SUPPORTED · 02 SUPPORTED · 03 PARTIALLY_SUPPORTED · 04 NOT_TESTED · 05 SUPPORTED · 06 PARTIALLY_SUPPORTED · 07 PARTIALLY_SUPPORTED · 08 PARTIALLY_SUPPORTED · 09 PARTIALLY_SUPPORTED · 10 SUPPORTED · 11 NOT_TESTED · 12 PARTIALLY_SUPPORTED.
+
+| Incoming | Append-only result |
+|---|---|
+| PRED-SHORT03-001 | SUPPORTED. The group celebrates the scare. Takina still demands reimbursement. |
+| PRED-SHORT03-002 | NOT_TESTED. Impression and prank are present. An identifiable shared cultural reference initiating the activity is not established. |
+| PRED-SHORT03-003 | SUPPORTED with a limit. Kurumi’s apparent technical assistance changes the inquiry and Mika’s last report changes its stakes; the identity of the first witness stays unresolved. |
+
+| Frozen ID | Prediction for Short 05 |
+|---|---|
+| PRED-SHORT04-001 | If a low-stakes experiment surprises someone, verbal protest may coexist with continued affiliation while the local disagreement remains real. Moderate, R2. |
+| PRED-SHORT04-002 | If a café member acts on incomplete information, a second participant may correct the practical judgment without settling every uncertainty. Moderate, R3. |
+| PRED-SHORT04-003 | If Chisato and Takina respond differently to playful provocation, the difference may be observable in words or poses without requiring a general personality change. Moderate, R2. |
+
 # 7. What to predict
 
 Prefer behavior classes:
@@ -1026,9 +1047,10 @@ If premise-only separation is impossible, skip the prospective test rather than 
 
 # 10. Current authority statement
 
-Current release-order boundary: **SHORT03**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT04**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 

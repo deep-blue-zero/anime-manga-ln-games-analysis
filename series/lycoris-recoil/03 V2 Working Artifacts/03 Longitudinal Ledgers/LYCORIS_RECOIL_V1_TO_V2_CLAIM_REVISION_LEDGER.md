@@ -4,12 +4,12 @@ artifact_type: claim_revision_ledger
 scope: V1 claims routed to current V2 formulations and evidence
 generation: V2
 status: canonical
-source_boundary: TV E01-E13 and Friends Shorts 01–03; A1 only
+source_boundary: TV E01-E13 and Friends Shorts 01–04; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT03
+current_sequential_boundary: SHORT04
 ---
 
 # Lycoris Recoil V1 → V2 Claim Revision Ledger
@@ -266,6 +266,19 @@ The following records were added only after `LYCORIS_RECOIL_E01_DEEP_READING.md`
 
 **Independent review and evidence boundary.** The critic qualified Kurumi’s response: explicitly elicited, independently worded, with no answer supplied by Chisato. The picture shows the fruit before anyone names the resemblance. Reported cost history and public interpretation carry different authority from recorded sales and intention. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
 
+**Short 03 receiver correction, CLM-004. REVISE.** The drink in C067–69 comes from a separate carton (#000159/161–163). Takina presents her intact peach dessert at #000167–169. C070–72 register a visual response. The friends do not taste or reject that dessert on grounds of flavor. Read “after the tasting” in the frozen text with this qualification.
+
+## Short 04 · post-freeze V1 review
+
+| Record | V1 locator and disposition against the frozen reading |
+|---|---|
+| REV-SHORT04-001 | REVISE. V1 03 §6 Festivals, board games, sleepovers, and wasted time, line 467. The prank explains fear and the costumed bodies in C067–81. It does not resolve the pale figure at 03:24–25 or the conflict over Kurumi’s whereabouts. |
+| REV-SHORT04-002 | STRENGTHEN. V1 02 §VI Embodied intimacy, lines 764/777–785, and §2 Care versus control, lines 655–671. C033–37 directly supports accepted hair care. C078–89 supplies a different test of permission, danger and resistance. |
+| REV-SHORT04-003 | STRENGTHEN. V1 06 §X Mizuki, lines 775–779. C015–25/075/082 makes her participation in petty concealment and the later scare concrete. C087 is a request for money, with no payment shown. |
+| REV-SHORT04-004 | STRENGTHEN. V1 07 §6 Eyes and sight, lines 591/595–600. C009/044–50 juxtaposes camera truth, awareness of being recorded and corrected misclassification. No recording settles the last question by itself. |
+
+**Independent review and evidence boundary.** The two specialists and critic distinguish the removed costume head from the additional pale figure at #000187–188, which strengthens the spectator’s sighting without identifying it. The reader should use #000034 for the first desktop replay. Two independently reproduced stereo-zero runs precede parts of C104 and C105. A caption timestamp cannot establish the first heard sound. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
+
 # 5. Document-level intake queue
 
 The following V1 responsibilities are expected to produce claim-level records as V2 reaches relevant evidence.
@@ -329,9 +342,10 @@ Do not:
 
 # 8. Current authority statement
 
-Current release-order boundary: **SHORT03**. See the per-unit Short records above. The V1 register contains 150 transitions. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT04**. See the per-unit Short records above. The V1 register contains 154 transitions. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 

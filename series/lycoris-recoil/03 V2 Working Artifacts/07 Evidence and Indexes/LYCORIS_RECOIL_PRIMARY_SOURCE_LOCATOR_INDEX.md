@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT03
+current_sequential_boundary: SHORT04
 ---
 
 # Lycoris Recoil Primary Source Locator Index
@@ -522,11 +522,19 @@ For anthology evidence always preserve contributor/story identity.
 
 **LOC-SHORT03**. C002–16, glass and three arrivals. C020–35, the loanword and film guess. C040–56, notebook and receipt. C062–90, judging, coughing and Kurumi’s verdict. Bundle `LR_s00e03_screenshots.zip`, `dialogue_index.json`, `contact_sheets/` and `s00e03.complete-audio.flac`. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md).
 
+
+## Source locators · Short 04
+
+**LOC-SHORT04**. C011–29 plate/secrecy, C033–45 hair and the camera, C047–61 reassessment, C067–82 scare and placard, C087–105 money and disputed presence. Bundle `LR_s00e04_screenshots.zip`, `dialogue_index.json`, `contact_sheets/` and `s00e04.complete-audio.flac`. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md).
+
+**Short 04 additional source checks.** The actual desktop replay begins at #000034 (00:27.236). Compare #000185 (03:19.635) with #000187/188 (03:24.020/03:25.565): a pale bow-topped figure distinct from the large foreground mascot head occupies successively different positions behind the café group. C087 is the bill discussion; C091 is the later absence report. The final FLAC contains two stereo signed-16 exact-zero runs at 03:51.459592–51.900159 and 03:53.004399–53.672857. C104 and C105 begin within those intervals.
+
 # 9. Current authority statement
 
-Current release-order boundary: **SHORT03**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+Current release-order boundary: **SHORT04**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
 
 ### Short 01 historical closeout
+
 
 
 
