@@ -261,3 +261,36 @@ Counts: main narrative 145, apparatus 13 (eight separator pages, the cover, flap
 | FXK-SO-004 legibility of dense screens and small numerals | Completed for V06; the partly legible items above are recorded in the reading and none is reconstructed |
 
 FXK-SO-001 and FXK-SO-005 are unchanged by V06; the V06 package metadata and the colophon both give 2024-03-23.
+
+## V07 coverage
+
+Recorded by the V07 principal for run FXK-RUN-20261119-V01-V10 and accepted with the V07 transaction by the run coordinator on 2026-11-22. The [V07 deep reading](readings/FX_KURUMI_V07_DEEP_READING.md) holds the full receipt; the [V07 checkpoint](checkpoints/FX_KURUMI_V07_CHECKPOINT.md) records each role's coverage and every disposition.
+
+- **Witness.** FXK-JP-V07-W01, package title 「FX戦士くるみちゃん　7」: 163 image occurrences at 1441×2048, right-to-left (publisher-package lineage, like V02 and V06); every occurrence was viewed once and logged once by the principal, with no gap or duplicate (verified by script). The colophon (i0162) gives e-book ver.001, published 2024-09-21 by KADOKAWA, first serialized in 月刊コミックフラッパー 2024年3月号〜2024年7月号: five issues for the five chapters. Colour occurrences: i0001, i0003–i0006, i0158–i0161.
+- **Occurrences reviewed.** The principal opened every occurrence i0001–i0163: the main narrative in spine order first; after the main-exit freeze the separators i0151–i0152, the afterword i0153, the author's bonus essay i0154–i0157, the colophon and the vendor page; and the deferred cover, flap, wraparound and under-jacket images (i0001, i0002, i0158–i0161) last. The entrypoint's component scope deferred those six occurrences for every role: each specialist opened all 163 occurrences in spine order and the deferred six only at its own release point; the reviewer triaged every occurrence on contact sheets, opened the decisive pages at reading resolution or in crops, and opened the deferred sheets only after its Stage 1 write-up. The [V07 checkpoint](checkpoints/FX_KURUMI_V07_CHECKPOINT.md) records each role's first sight of them against its freezes and judgments.
+- **Page order, folios and spreads.** The printed folio equals the occurrence number minus 2 through the p-NNN run (p.1 = i0003 to p.155 = i0157; printed folios checked at i0032 「30」, i0066 「64」, i0069 「67」, i0122 「120」 and i0125 「123」); separator pages carry no folio but are counted. Even occurrences are right-hand pages and odd ones left-hand pages, so openings are (even | odd), as the package's spine-spread properties state. One drawn spread crosses the gutter: the chart of i0102+i0103, whose printed time axis runs 「:45」 「18:00」 on i0103 and 「18:15」 「18:30」 on i0102; the falling candle of i0084 continues on the facing i0085. The label 「第31話」 is on an even page (i0004, the second colour page); 第32話–第35話 are labelled on odd pages facing a separator. No missing, duplicated or out-of-order page was found.
+
+| Component | Occurrences | Notes |
+| --- | --- | --- |
+| Apparatus: front cover and flap | i0001, i0002 | Deferred for every role; opened by the principal after the main-exit freeze; promotional, not diegetic |
+| Main narrative | i0003–i0032, i0035–i0066, i0069–i0095, i0097–i0122, i0125–i0150 (141) | A colour opening with the strip 「第7集 1月15日」 (i0003), grouped with 第31話 (label on i0004); 第31話 i0003–i0032 (30 pages); 第32話 i0035–i0066 (32); 第33話 i0069–i0095 (27); 第34話 i0097–i0122 (26); 第35話 i0125–i0150 (26), ending 「TO BE CONTINUED...」 |
+| Apparatus: separators inside the main run | i0033–i0034, i0067–i0068, i0096, i0123–i0124 | Black grid pages with the series logo between the chapters (a single page after 第33話) |
+| Apparatus: separators after the main run | i0151–i0152 | Logo pages before the back matter |
+| Extra: afterword | i0153 | 「7巻あとがき」; classified only; not narrative evidence; its "20分…41%" and 150円 → 90円 analogy differ from the narrative's "わずか数分で約30%" (i0114) and are kept as paratext variance |
+| Extra: author's bonus essay | i0154–i0157 | 「巻末特典!「スイスのアレ」裏話…!」 (the writer on planning the 第33話 chart pages); classified only |
+| Apparatus: wraparound jacket | i0158–i0159 | Deferred; publisher blurb and a collage of V07 panels (i0158); colour cover, spine and flap (i0159); paratext, the blurb's ironic "ぜったい負けないに決まってるんだ!" not used as Kurumi's speech |
+| Apparatus: under-jacket boards | i0160–i0161 | Deferred; the artist's three-extra-pages essay and the writer's IPO strip; paratext, not used as story evidence |
+| Apparatus: colophon | i0162 | Bibliographic |
+| Advertising: vendor page | i0163 | Excluded |
+
+Counts: main narrative 141, apparatus 16 (nine separator pages, the cover, flap, the wraparound pair, the two under-jacket boards and the colophon), extras 5 (i0153–i0157), advertising 1. There is no next-volume preview and no blank occurrence.
+
+- **Legibility and unresolved numerals.** All reading copies are legible. Every contest box, balance box, chart label, account and bank screen, e-mail and dated caption relied on was checked in enlarged crops or recorded as read at reading size because it is lettered large (the eight pages of fall labels i0087–i0094, Mochiko's estimate boxes i0115, the e-mail i0130, the bank screen i0144, the doubling ladder i0148); the reading's receipt lists them, and a reconciliation crop settled 「経済至上主義」 on i0138. Partly legible, not reconstructed: the contest sheet's reward line (「ごほうび!: 負けた[…]」, i0022; 「[…]けた人がご飯を[…]ごる」, i0021); the upper chart label 1.2[..]90 (i0081); one overdrawn digit of 「口座残高 -101,534,6[4]4円」 and the second digit of 「1.1[6?]880」 (i0125); the middle kana of 「まあ い[っ?]か…」, measured on an enlargement and still undecided (i0066); the field 「201」 on Mochiko's message screen (i0099); the taskbar clock when Kurumi closes the trading window (i0106, unreadable in the financial specialist's enlargement); the month digit of a recalled chart tag (i0073). Kept as printed, not repaired: the i0095 axis, stepping 0.00270 from 1.20000 to 1.17570 and then to 1.16880, a value that also breaks the glitched axis of i0125; 「政策金利を0.75%に引き下げ」 with no sign (i0098); the tile 「EUR/CHF」 「BID」 「ASE」 (i0098); 「証拠金維持率(%) 0円」 on Kurumi's overseas-account screen (i0060); the box parenthetical 「(-1億2028万4479円)」, whose reference is not stated (i0118); the remembered 「敢えてしてない!」 against V06's "あえてしてない!" (i0116). No broker stop-out rule, margin-maintenance level, entry date, entry rate, fill or liquidation rate is printed for Kurumi's EUR/CHF position; its close by 「強制ロスカット」 and the resulting balance of −101,534,644円 are printed (i0118, i0130).
+
+| Obligation | V07 state |
+| --- | --- |
+| FXK-SO-002 ordered image map and duplicate check | Visual order confirmed for V07: every occurrence viewed in spine order, folio sequence continuous, no duplicates or gaps |
+| FXK-SO-003 component classification | Completed for V07 as tabled above; the six cover and jacket occurrences were deferred for every role and classified after the main narrative; extras and advertising classified by glance and not used as narrative evidence |
+| FXK-SO-004 legibility of dense screens and small numerals | Completed for V07; the partly legible items above are recorded in the reading and none is reconstructed |
+
+FXK-SO-001 and FXK-SO-005 are unchanged by V07; the V07 package modification date and the colophon both give 2024-09-21.

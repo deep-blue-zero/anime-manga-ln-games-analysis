@@ -3,11 +3,11 @@ title: "FX Fighter Kurumi-chan — Current State and Corpus Map"
 artifact_id: FX_KURUMI_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
 series: fx-fighter-kurumi-chan
-version: "1.8"
+version: "1.9"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Canonical foundation navigation, source admission and execution state"
-source_boundary: "Run FXK-RUN-20261119-V01-V10 authorizes the Japanese collected-manga main narrative V01–V10; accepted through V06"
+source_boundary: "Run FXK-RUN-20261119-V01-V10 authorizes the Japanese collected-manga main narrative V01–V10; accepted through V07"
 created: 2026-11-15
 last_updated: 2026-11-22
 supersedes: []
@@ -27,18 +27,18 @@ project_initialization:
     - FX_KURUMI_SOURCE_REGISTER.md
     - FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: V07
+  next_permitted_operation: V08
 sequential_execution:
   run_id: FXK-RUN-20261119-V01-V10
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V10
-  committed_high_water_mark: V06
-  next_candidate_operation: V07
+  committed_high_water_mark: V07
+  next_candidate_operation: V08
   confirmation_between_units: false
   run_state: active
-source_admission: "V01–V10 main narrative authorized; each volume admitted at its own frontier; accepted through V06"
+source_admission: "V01–V10 main narrative authorized; each volume admitted at its own frontier; accepted through V07"
 run_authorization: FXK-RUN-20261119-V01-V10
 supplemental_execution:
   current_state: CLOSED_AWAITING_COMPONENT_ADMISSION
@@ -50,7 +50,7 @@ recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 
 The canonical destination is `series/fx-fighter-kurumi-chan/`. The subject is the Japanese collected manga **FX戦士くるみちゃん**, written by Demunyan and drawn by Tansan Daisuki.
 
-**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner's November 19, 2026 instruction authorizes run **FXK-RUN-20261119-V01-V10**: one `continuous_sequential` run over the Japanese collected manga, authorized start V01, terminal boundary V10, one collected volume per atomic unit and no confirmation between successfully completed volumes. The run is **active**. Volumes V01–V06 have been accepted, so the committed high-water mark is **V06** and the next permitted and candidate operation is **V07**. Each volume is admitted only at its own frontier after the previous volume's transaction closes. The [source register](FX_KURUMI_SOURCE_REGISTER.md#run-activation-verification) records witness verification and the component scope below.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner's November 19, 2026 instruction authorizes run **FXK-RUN-20261119-V01-V10**: one `continuous_sequential` run over the Japanese collected manga, authorized start V01, terminal boundary V10, one collected volume per atomic unit and no confirmation between successfully completed volumes. The run is **active**. Volumes V01–V07 have been accepted, so the committed high-water mark is **V07** and the next permitted and candidate operation is **V08**. Each volume is admitted only at its own frontier after the previous volume's transaction closes. The [source register](FX_KURUMI_SOURCE_REGISTER.md#run-activation-verification) records witness verification and the component scope below.
 
 ## Start here
 
@@ -75,6 +75,7 @@ Each accepted volume has a canonical deep reading, a frozen checkpoint that reco
 | V04 | [V04 deep reading](readings/FX_KURUMI_V04_DEEP_READING.md) | [V04 checkpoint](checkpoints/FX_KURUMI_V04_CHECKPOINT.md) | [V04 entering state](checkpoints/FX_KURUMI_V04_ENTERING_STATE.md) | 2026-11-21 |
 | V05 | [V05 deep reading](readings/FX_KURUMI_V05_DEEP_READING.md) | [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md) | [V05 entering state](checkpoints/FX_KURUMI_V05_ENTERING_STATE.md) | 2026-11-22 |
 | V06 | [V06 deep reading](readings/FX_KURUMI_V06_DEEP_READING.md) | [V06 checkpoint](checkpoints/FX_KURUMI_V06_CHECKPOINT.md) | [V06 entering state](checkpoints/FX_KURUMI_V06_ENTERING_STATE.md) | 2026-11-22 |
+| V07 | [V07 deep reading](readings/FX_KURUMI_V07_DEEP_READING.md) | [V07 checkpoint](checkpoints/FX_KURUMI_V07_CHECKPOINT.md) | [V07 entering state](checkpoints/FX_KURUMI_V07_ENTERING_STATE.md) | 2026-11-22 |
 
 The [checkpoint errata](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md) correct the frozen V01–V04 checkpoints without changing them. In V01–V05 only the principal deferred each volume's cover, flap and jacket images until after its main-narrative freeze; the specialists and the reviewer saw them first. The errata record each role's first exposure in V01–V04 against its freezes, with a disposition for every forecast item, and the [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md#7-exposure-and-contamination-record) records the same for V05. The errata also reclassify V01 i0165 as an authorial extra, qualify the predictive credit of two V02 Agent B forecast rows (FXK-V02-F095, F111), and give Agent B's V04 forecasts a literal score (27 of 73 confirmed, Brier 0.20849) beside its relaxed one. From V05 every forecast is scored literally as frozen, with any relaxed or event-only result labelled alongside.
 
@@ -85,8 +86,8 @@ The [checkpoint errata](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md) correct the 
 | Run | FXK-RUN-20261119-V01-V10, owner instruction of 2026-11-19; the private instruction receipt is recoverable through the run ID |
 | Mode and unit | `continuous_sequential`; one collected volume |
 | Bounds | Start V01, terminal V10 |
-| Committed high-water mark | V06 |
-| Next candidate | V07 |
+| Committed high-water mark | V07 |
+| Next candidate | V08 |
 | Authorized primary narrative | The Japanese commercial collected manga by Demunyan and Tansan Daisuki, in the supplied witnesses |
 | Not authorized as evidence | The original Web manga, the anime adaptation, translations, external summaries and other separately published narrative |
 | Historical-market concordance | A separate responsibility, not a condition of accepting any reading. Real exchange-rate history never enters a prospective reading |
