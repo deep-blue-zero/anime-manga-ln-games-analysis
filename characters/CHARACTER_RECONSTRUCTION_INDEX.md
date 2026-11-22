@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 216; `STALE` 3; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 218; `STALE` 3; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -33,7 +33,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`harmony`](reconstruction_index/harmony.md) | 1 | 1 |
 | [`idoly-pride`](reconstruction_index/idoly-pride.md) | 1 | 1 |
 | [`kamakura-sho`](reconstruction_index/kamakura-sho.md) | 2 | 5 |
-| [`kimishinu`](reconstruction_index/kimishinu.md) | 2 | 2 |
+| [`kimishinu`](reconstruction_index/kimishinu.md) | 3 | 3 |
 | [`konosuba`](reconstruction_index/konosuba.md) | 19 | 19 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 2 | 2 |
@@ -56,7 +56,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`sound-euphonium`](reconstruction_index/sound-euphonium.md) | 1 | 1 |
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
 | [`three-days-of-happiness`](reconstruction_index/three-days-of-happiness.md) | 5 | 5 |
-| [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 1 | 1 |
+| [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 2 | 2 |
 | [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 17 |
 | [`tomozaki`](reconstruction_index/tomozaki.md) | 18 | 22 |
 | [`wuthering-waves`](reconstruction_index/wuthering-waves.md) | 2 | 2 |
@@ -109,6 +109,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `kamakura-sho:asumi-ogasawara@original-novel` | [`kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-v2-monograph-20261116-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-v2-monograph-20261116-01) | `SUPERSEDED` | `B` | `6fca4fab304d77d2c3d448e67b995fea480c37b0` |
 | `kamakura-sho:motoya-kitsukawa@original-novel` | [`kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-v2-monograph-20261116-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-v2-monograph-20261116-01) | `CANDIDATE` | `B` | `f979bbe513c5013ec494c6268aca5168ff39296b` |
 | `kamakura-sho:motoya-kitsukawa@original-novel` | [`kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01) | `SUPERSEDED` | `C` | `6238b9e49be575ab682092ce353940d194b9c6c3` |
+| `kimishinu:gagari-mimi@manga-v09-side-stories` | [`kimishinu-gagari-mimi-manga-v09-side-stories-monograph-20261122-01`](reconstruction_index/kimishinu.md#kimishinu-gagari-mimi-manga-v09-side-stories-monograph-20261122-01) | `CANDIDATE` | `B` | `38adfd7641eb51ac75f475b3e81edd1f65ab11b8` |
 | `kimishinu:haru@manga-v09-side-stories` | [`kimishinu-haru-manga-v09-side-stories-monograph-20261116-01`](reconstruction_index/kimishinu.md#kimishinu-haru-manga-v09-side-stories-monograph-20261116-01) | `CANDIDATE` | `B` | `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27` |
 | `kimishinu:totsuki-sheena@manga-v09-side-stories` | [`kimishinu-totsuki-sheena-manga-v09-side-stories-monograph-20261122-01`](reconstruction_index/kimishinu.md#kimishinu-totsuki-sheena-manga-v09-side-stories-monograph-20261122-01) | `CANDIDATE` | `B` | `e3571eb717f06a2fbe17b02c4a3f508a79573ede` |
 | `konosuba:amaryllis@original-light-novel` | [`konosuba-amaryllis-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-amaryllis-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
@@ -277,6 +278,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `three-days-of-happiness:miyagi@original-novel` | [`three-days-of-happiness-miyagi-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-miyagi-original-novel-monograph-20261119-01) | `CANDIDATE` | `C` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `three-days-of-happiness:shinbashi@original-novel` | [`three-days-of-happiness-shinbashi-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-shinbashi-original-novel-monograph-20261119-01) | `CANDIDATE` | `E` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `three-days-of-happiness:substitute-watcher@original-novel` | [`three-days-of-happiness-substitute-watcher-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-substitute-watcher-original-novel-monograph-20261119-01) | `CANDIDATE` | `E` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
+| `to-be-hero-x:queen@animated-series` | [`to-be-hero-x-queen-animated-series-specialist-09-20261122-01`](reconstruction_index/to-be-hero-x.md#to-be-hero-x-queen-animated-series-specialist-09-20261122-01) | `CANDIDATE` | `C` | `38adfd7641eb51ac75f475b3e81edd1f65ab11b8` |
 | `to-be-hero-x:x@animated-series` | [`to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01`](reconstruction_index/to-be-hero-x.md#to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01) | `CANDIDATE` | `E` | `f79e49071be39667e2fc5d5be5a5f3e9ae503589` |
 | `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01) | `CANDIDATE` | `E` | `2127e8fa66a1fed340e733fdca0f8b39d131bdc0` |
 | `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01) | `SUPERSEDED` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |

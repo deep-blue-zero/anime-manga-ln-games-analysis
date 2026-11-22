@@ -6,6 +6,54 @@ Recorded assessments of subjects in the `to-be-hero-x` namespace of the [Charact
 
 ## Recorded assessments
 
+### Subject `to-be-hero-x:queen@animated-series`
+
+- Registry file: [`characters/reconstruction_capabilities/to-be-hero-x/queen@animated-series.jsonl`](../reconstruction_capabilities/to-be-hero-x/queen@animated-series.jsonl)
+
+<a id="to-be-hero-x-queen-animated-series-specialist-09-20261122-01"></a>
+
+#### Assessment `to-be-hero-x-queen-animated-series-specialist-09-20261122-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `to-be-hero-x:queen`
+- Scope: continuity `to-be-hero-x-animated-series`
+- Source boundary: Only the subject's one curated REVIEWED item at basis\_commit: 09\_QUEEN\_ORDER\_GOVERNANCE\_SOLITUDE\_AND\_REFORM.md \(74,423 bytes, status canonical, veto false\), Phase-3 specialist synthesis 9 of the To Be Hero X V2 corpus, centered on Liu Yuwei / Queen with Bowa, Lucky Cyan \(Qīng\), the Johnnies, DOS and X as relational context. Its source is the frozen Mandarin-primary Season 1 E01-E24 readings, the Phase-2 ledgers and claim register, the E20 motion audit and targeted clip TBHX-AV-E11-001; Queen's evidence is drawn from E11-E13, E19, E20 and E24. Read in full by the evaluator. The episode readings, ledgers and the project's pending Document 20 character model are not curated on this subject and were not used. The evaluator performed no audiovisual inspection.
+- Temporal boundary: Season 1 E01-E24, with the item's four stages split at located changes: Stage 1-2, E11 \(entrance examination about 00:01:00-00:03:30; rejection of the genius label at 00:04:17.750; manifesto from about 00:05:15\); the post-X crisis at the E11 tournament \(TBHX-AV-E11-001, nominal 00:19:48.644-00:21:40.297\); Stage 3, E12 \(Little Johnny at the closed door 00:06:06.500; the song line 00:07:47.500; rescue 00:09:54.500; loopholes 00:13:59.500; \`不破不立\` 00:18:52.620; hospital 00:20:48.880; self-reliance 00:22:06.000\); E13 broadcast as remembered precedent \(00:02:50.750\); E19 vacation call \(CN 9-28\); Stage 4, E20 emergency domain \(00:17:34.654-00:20:44.489\); E24 tournament field \(about 00:20:31-00:23:08\). Her childhood lesson of self-reliance is her memory at every state; only its statement dates from E12.
+- Basis commit: `38adfd7641eb51ac75f475b3e81edd1f65ab11b8`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `1b7146c50e53b2456d3e43d71fd168d915c7db1e9305e62b5298d02e0763d7b7`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative lines only, at a named stage, never presented as quotation.
+  - `DIALOGUE` condition: Manifesto and political statements in the juridical lexicon \(rules, order, overthrow\) at Stage 2; refusal of false harmony with rivals; after E12, gratitude framed as what another person's expression made possible, never as luck or service.
+  - `DIALOGUE` condition: No register claims by recipient beyond these modes, and no acoustic, vocal or silence claims \(Q17\).
+  - `CROSS_SCENARIO` condition: Chronology is one named stage: E11 before the tournament, the E11 aftermath, E12 after recovery, or E19-E24; the post-E12 states may not be projected back.
+  - `CROSS_SCENARIO` condition: The interlocutor is Bowa, Qīng / Lucky Cyan, Little or Big Johnny, Liu Zhen or Micky / DOS. Any other interlocutor is a separate, lower-confidence condition.
+  - `CROSS_SCENARIO` condition: Predictions are limited to the item's located patterns: refusing causal-credit capture, naming competition over false harmony, choosing immediate rescue over advancement on the E12 template, accepting care without ceding authorship after E12, and local cooperative containment on the E20 template.
+  - `CROSS_SCENARIO` condition: Her reform program, correction by people she does not trust, governance of non-heroes, the limits of her power and the Queen-Qīng relationship are output as open forks.
+  - `CROSS_SCENARIO` bounds: chronology One named stage within Season 1 E11-E24; no events after E24. Her childhood self-reliance lesson is her memory at every stage.; interlocutor Bowa as rival, Qīng / Lucky Cyan as friend and partner in crisis, Little and Big Johnny as neighbors and recovery circle, Liu Zhen as father, Micky / DOS as sponsor; others only at lower confidence.; settings Season 1 hero society: Commission, DOS, Hero Tower ranking and public media; Hero work, tournament competition or an emergency where her bounded rule-space is used; No peacetime governance, constitutional design or post-Season-1 politics; Named open questions end in an open fork
+  - `ETHICAL_DELIBERATION` condition: Questions of explanatory credit, influence versus ownership, named competition versus false harmony, and immediate rescue versus advancement.
+  - `ETHICAL_DELIBERATION` condition: Emergency questions where bounded containment can make room for another person's care \(E20\).
+  - `ETHICAL_DELIBERATION` condition: No answers on her replacement institutions, consent, appeal, rights limits or governance of non-heroes \(Q4-Q6, Q16\).
+  - `PROFESSIONAL_CONTEXT` condition: Hero work as observed: public rescue \(E12\), tournament competition \(E11, E24\), emergency containment in cooperation with a restorative hero \(E20\), and an aligned but asymmetric relationship with DOS \(sections 7 and 26\).
+  - `PROFESSIONAL_CONTEXT` condition: Rule-space behavior is limited to observed uses: constraining a rival, self-strengthening and emergency containment; its syntax, cost and limits stay open \(Q7-Q8\).
+  - `PROFESSIONAL_CONTEXT` condition: No institutional leadership, policy design or command beyond the observed emergency.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `aftermath-no-diagnosis` (evidence-backed limitation): The E11 aftermath strongly codes solitary drinking, but exact contents, dependence and any diagnosis are unsupported.
+  - `correction-acceptance-open` (evidence-backed limitation): Whether she accepts correction from institutions or people she does not already trust is open.
+  - `no-operational-model-curated` (evidence gap): No operational character model is curated on this subject; the item is a literary and political synthesis without response policies.
+  - `ordinary-life-unsampled` (evidence gap): Ordinary and domestic behavior is barely sampled.
+  - `other-voice-content-open` (evidence-backed limitation): The content of the inner voice she hears through Qīng's song is open.
+  - `qing-relationship-unlabeled` (evidence-backed limitation): The long-term Queen-Qīng relationship is open and not canonically romantic in Season 1.
+  - `recovery-circle-durability-open` (evidence-backed limitation): Whether the recovery circle lasts outside crisis, or can challenge her political decisions, is open.
+  - `reform-program-open` (evidence-backed limitation): Whether she revises or abandons overthrowing the Trust Value system, and what institutions she would build, is open.
+  - `rule-power-limits-open` (evidence-backed limitation): The syntax, cost, duration and resistance limits of her rule power, and how self-strengthening relates to outward constraint, are not established.
+  - `sparse-episode-presence` (evidence-backed limitation): Her evidence comes from E11-E13, E19, E20 and E24; E19 and E24 are thin.
+  - `voice-performance-open` (evidence-backed limitation): Vocal, musical and silence patterns across manifesto, collapse, recovery and command are a protected question.
+- Evidence at basis commit:
+  - [`to-be-hero-x:queen@animated-series#09-queen-order-governance-solitude-and-reform`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/38adfd7641eb51ac75f475b3e81edd1f65ab11b8/series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/09_QUEEN_ORDER_GOVERNANCE_SOLITUDE_AND_REFORM.md)
+
 ### Subject `to-be-hero-x:x@animated-series`
 
 - Registry file: [`characters/reconstruction_capabilities/to-be-hero-x/x@animated-series.jsonl`](../reconstruction_capabilities/to-be-hero-x/x@animated-series.jsonl)
