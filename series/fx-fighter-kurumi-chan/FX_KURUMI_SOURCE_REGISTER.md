@@ -228,3 +228,36 @@ Counts: main narrative 158, apparatus 9 (three separators, the cover, flap, wrap
 | FXK-SO-004 legibility of dense screens and small numerals | Completed for V05; the partly legible items above are recorded in the reading and none is reconstructed |
 
 FXK-SO-001 and FXK-SO-005 are unchanged by V05; the V05 package metadata and the colophon both give 2023-07-22.
+
+## V06 coverage
+
+Recorded by the V06 principal for run FXK-RUN-20261119-V01-V10 and accepted with the V06 transaction by the run coordinator on 2026-11-22. The [V06 deep reading](readings/FX_KURUMI_V06_DEEP_READING.md) holds the full receipt; the [V06 checkpoint](checkpoints/FX_KURUMI_V06_CHECKPOINT.md) records each role's coverage and every disposition.
+
+- **Witness.** FXK-JP-V06-W01, package title 「FX戦士くるみちゃん　6」: 163 image occurrences at 1441×2048, right-to-left; every occurrence was viewed once and logged once by the principal, with no gap or duplicate (verified by script). The colophon (i0162) gives e-book ver.001, published 2024-03-23 by KADOKAWA, first serialized in 月刊コミックフラッパー 2023年9月号〜12月号、2024年1月号: five issues for the five chapters. Colour occurrences: i0001, i0003–i0006, i0159 (the reviewer and the character specialist both report that a full-resolution crop of i0158 shows pink accents although the colour list omits it; not checked by the principal).
+- **Occurrences reviewed.** The principal opened every occurrence i0001–i0163: the main narrative in spine order first, then the separator i0155 and the afterword i0156 (opened before the main-exit freeze to establish the end, disclosed), the author's strip, colophon and vendor page, and the deferred cover, flap, wraparound and under-jacket images (i0001, i0002, i0158–i0161) only after the main-exit freeze. From V06 the entrypoint's component scope deferred those six occurrences for every role: each specialist opened all 163 occurrences in spine order and the deferred six only at its own release point; the reviewer triaged every occurrence on contact sheets, opened the decisive pages at reading resolution or in crops, and opened the deferred sheets only after its Stage 1 write-up. The [V06 checkpoint](checkpoints/FX_KURUMI_V06_CHECKPOINT.md) records each role's first sight of them against its freezes and judgments.
+- **Page order, folios and spreads.** The printed folio equals the occurrence number minus 2 through the p-NNN run (p.1 = i0003 to p.155 = i0157; printed folios checked, for example "13" on i0015, "25" on i0027 and "31" on i0033); separator pages carry no folio but are counted. Even occurrences are right-hand pages and odd ones left-hand pages, so openings are (even | odd), as the package's spine-spread properties state. No V06 story image crosses the gutter; several openings are composed as pairs (i0022|i0023, i0088|i0089, i0108|i0109) and none was relied on as a drawn spread. No missing, duplicated or out-of-order page was found.
+
+| Component | Occurrences | Notes |
+| --- | --- | --- |
+| Apparatus: front cover and flap | i0001, i0002 | Deferred for every role; opened by the principal after the main-exit freeze; promotional, not diegetic |
+| Main narrative | i0003–i0028, i0031–i0055, i0057–i0090, i0093–i0118, i0121–i0154 (145) | A colour opening with the strip 「第6集 必勝」 (i0003) and the colour title page (i0004), grouped with 第26話 (label on i0005); 第26話 i0003–i0028; 第27話 i0031–i0055; 第28話 i0057–i0090 (flashback 1998–2008, present-time close i0090); 第29話 i0093–i0118; 第30話 i0121–i0154, ending 「TO BE CONTINUED...」 |
+| Apparatus: separators inside the main run | i0029–i0030, i0056, i0091–i0092, i0119–i0120 | Black grid pages with the series logo between the chapters |
+| Apparatus: separator | i0155 | Logo page before the back matter |
+| Extra: afterword gag page | i0156 | 「6巻あとがき」; classified only; not narrative evidence |
+| Extra: author's strip | i0157 | 「でむにゃんの「遅筆」が深刻なようです。〜サボリ編〜」; classified only |
+| Apparatus: wraparound jacket | i0158–i0159 | Deferred; publisher blurb and a collage of V06 panels (i0158); colour cover, spine and flap (i0159); paratext; the blurb's framing of Mebuki's work is not adopted |
+| Extra: under-jacket boards | i0160–i0161 | Deferred; the creators' note 「負け演出こぼれ話」 and an author strip dated 「2020年 某月某日」; paratext, not used as story evidence |
+| Apparatus: colophon | i0162 | Bibliographic |
+| Advertising: vendor page | i0163 | Excluded |
+
+Counts: main narrative 145, apparatus 13 (eight separator pages, the cover, flap, the wraparound pair and the colophon), extras 4 (i0156, i0157, i0160, i0161), advertising 1. There is no next-volume preview and no blank occurrence.
+
+- **Legibility and unresolved numerals.** All reading copies are legible. Every balance, trade and result box, P/L tile, rate board, phone screen, passbook column and dated caption relied on was checked in enlarged crops or recorded as read at reading size; the reading's receipt lists them, and a reconciliation crop settled the mark before the new contest rule on i0143 as a double circle ◎, not a numeral. Partly legible, not reconstructed: the final digit(s) of Kozue's 「当日決済損益 −18,790,50[…]」, hidden by the panel edge (i0079); the hidden text after 「ごほうび!: 負」 (i0143); the ruby read as ウィッチングアワー [?] (i0129); digits under balloons on the rate board (i0049); the leading digits of the top passbook rows (i0075); the phone digits on the front cover (i0001). Kept as printed, not repaired: Mebuki's liquidation box, whose printed loss −2,610,530 leaves 11,000 of her prior 2,621,530 unexplained against a 0円 balance (i0039); the chart axis label 「115.5」 in a 0.5 sequence (i0046); the text 「1ユーロ 1・12ドル」 against the graphic 「€1.22」 and the board's EUR/USD 1.22867 (i0105, i0049); 「1ユーロ=1.20フランを上限とする」 (i0113); the knight's 「スイス政府」 against the narrator's 「スイス国立銀行」 (i0127); the rule example 「180万」 where 80% would be expected (i0144); Kurumi's year curve starting at 「30万」 in 「5月」 (i0048); Kozue's "ここ1年 100円と90円の間" against her own journal's "103円突破" (i0070, i0068); irregular schematic chart axes in the flashback (i0070, i0072, i0084, i0086). No broker stop-out level or margin-maintenance threshold is printed. No entry date, rate, fill, margin or P/L is printed for Kurumi's EUR/CHF position, which is attested only by her own words on 25 December (i0148).
+
+| Obligation | V06 state |
+| --- | --- |
+| FXK-SO-002 ordered image map and duplicate check | Visual order confirmed for V06: every occurrence viewed in spine order, folio sequence continuous, no duplicates or gaps |
+| FXK-SO-003 component classification | Completed for V06 as tabled above; the six cover and jacket occurrences were deferred for every role and classified after the main narrative; extras and advertising classified by glance and not used as narrative evidence |
+| FXK-SO-004 legibility of dense screens and small numerals | Completed for V06; the partly legible items above are recorded in the reading and none is reconstructed |
+
+FXK-SO-001 and FXK-SO-005 are unchanged by V06; the V06 package metadata and the colophon both give 2024-03-23.
