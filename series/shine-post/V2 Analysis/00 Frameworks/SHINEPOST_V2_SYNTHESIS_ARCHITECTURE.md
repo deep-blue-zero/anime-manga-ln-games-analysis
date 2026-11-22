@@ -5,7 +5,7 @@ artifact_type: synthesis_architecture
 series: SHINE POST
 series_id: shine-post
 generation: V2
-version: "1.0"
+version: "1.1"
 status: canonical
 architecture_lifecycle: INITIAL
 authority_scope: "V2 document responsibilities, cumulative integration, qualification and convergence gates; design only"
@@ -27,7 +27,7 @@ The architecture carries episode evidence into cumulative character, relationshi
 
 The [analytical method](SHINEPOST_V2_ANALYTICAL_METHOD.md) governs how evidence is inspected and judged. This document owns where each responsibility lives and what must be complete before an output can claim readiness. The [root entrypoint](../../CURRENT_STATE_AND_CORPUS_MAP.md) is the single current route and operational state. The bootstrap initializes this design; it supplies no new literary evidence.
 
-The intended source is the Japanese TV anime E01–E12. Exact witnesses, streams, derivatives and candidate source correspondence remain unverified in the [source register](../01%20Source%20and%20Intake/SHINEPOST_V2_SOURCE_AND_INTAKE_REGISTER.md). The unit of sequential reading is one complete admitted episode. Songs, scenes, shots and performance passages are evidence units within episodes; they are not extra episodes or independent canon. Later admissions must specify medium, edition and continuity rather than blending the franchise.
+The intended source is the Japanese TV anime E01–E12. The [source register](../01%20Source%20and%20Intake/SHINEPOST_V2_SOURCE_AND_INTAKE_REGISTER.md) records which episode witnesses, streams and derivatives have been verified. Correspondence with a candidate edition is checked during candidate intake. The unit of sequential reading is one complete admitted episode. Songs, scenes, shots and performance passages are evidence units within episodes; they are not extra episodes or independent canon. Later admissions must specify medium, edition and continuity rather than blending the franchise.
 
 V1 remains byte-preserved in its established home. Its existing current findings retain their recorded scope until specific evidence-supported revisions exist. V2 framework authority does not claim a higher literary authority merely because of its generation label. Incoming Antigravity artifacts retain their original producer/version identity; V2 means the integrated project generation, not a retroactive rename of someone else's pass.
 
@@ -68,7 +68,7 @@ All new analytical work belongs under `V2 Analysis/`. The following paths are an
 
 Name durable artifacts with stable identity, `artifact_type`, source boundary, generation/version, authority scope, `canonical_home` and the complete authority quartet. Use exact lowercase machine authority states. A future substantive episode artifact must declare a correct sequential type such as `anime_episode_deep_reading`; hiding it under an administrative type does not authorize publication.
 
-The initialized ledgers currently carry a no-literary-evidence flag because they contain schemas only. When admitted findings are first written, update each affected ledger's authority scope, actual source boundary and evidence-use flag in that same transaction. Design protocols, source/administrative receipts and routing documents retain their own non-literary responsibility. Do not let bootstrap metadata misrepresent later analytical content.
+The bootstrap ledgers carried a no-literary-evidence flag while they contained schemas only. Each ledger's first admitted findings require its authority scope, source boundary and evidence-use flag to be updated in the same transaction. Design protocols, source/administrative receipts and routing documents retain their own non-literary responsibility. Do not let bootstrap metadata misrepresent later analytical content.
 
 Do not create empty monographs, speculative specialist essays, duplicate indexes, a second current-state page or per-agent permanent ledgers. When a formal model or validation program is actually commissioned, assign its one canonical home and evidence dependencies here before substantive work. The reconstruction protocol governs its content. It need not be built merely to finish a literary synthesis.
 
@@ -76,7 +76,7 @@ Use `04 Character and Relationship Syntheses/SHINEPOST_V2_<PERSON_ID>_<BOUNDARY>
 
 ## 4. Intake and sequential transaction
 
-The immediate dependency is candidate/source verification, not writing E01 from memory. Recover the complete original candidate and its provenance, identify discrepancies against the current repository, choose its legitimate publication route and define the audit scope under the intake protocol. A completed candidate cannot be made into an active run by metadata. A noncurrent label alone is no exception to publication or initiation controls.
+Verify each admitted episode's primary witnesses through the source register. For the owner's independent E01–E12 run, the crew reads those witnesses in order and preserves the accepted episode transactions. The producer's analytical corpus and the V1 literary conclusions remain sealed throughout that work. After the twelve independent readings, their evidence and the first-pass review have been durably frozen, recover the candidate and its provenance, compare the editions and choose its publication route under the intake protocol. Candidate recovery belongs to retrospective reconciliation. Its prior completion grants no new sequential admission.
 
 After the correct admission and run state exist, each episode transaction proceeds from prior accepted state to source inspection, independent specialist findings, independent critical review, claim reconciliation and cumulative integration. The episode output contract is in method §§5–8. The principal/integrator is accountable for the whole unit and is the sole shared-state writer. Independent participants retain source, exposure, coverage and objection records; they do not silently edit the principal's analysis.
 

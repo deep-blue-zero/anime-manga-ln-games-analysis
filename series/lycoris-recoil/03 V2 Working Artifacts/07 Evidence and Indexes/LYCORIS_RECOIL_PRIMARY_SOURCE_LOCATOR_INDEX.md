@@ -20,6 +20,8 @@ Start at the [E01–E13 comparison](TV%20Audiovisual%20Reconciliation/README.md)
 
 For E03-CLM-013, retrieve the reported blow near 19:30.917 and the spoken settlement at 20:48.94–20:50.53 separately. For E11-VIS-010, inspect the satchel at 19:06.20 and 19:06.84. For E12-VIS-003, inspect the exterior report at 08:10.036, Chisato aiming at 08:11.4 and Yoshimatsu’s wound from 08:14.5. For E13-CLM-006 and E13-VIS-002, compare E13 C0082–84 (03:55.01–04:01.31) with E10 C0221 (11:37.26–11:39.51). For E13-VIS-008, compare the exterior interval at 08:09.572–08:09.906 with subsequent testimony in C0404–06 and C0417–25. The [dispute register](TV%20Audiovisual%20Reconciliation/DISPUTES.md) distinguishes directly checked evidence from perceptual return requests.
 
+The [dated return for Q01–Q20](TV%20Audiovisual%20Reconciliation/VERIFIER_RETURN_20261122.md) maps the verifier’s reports to corrected master-picture timestamps, measured audio boundaries and by-ear evidence. For Takina’s first depicted island discharge use E13 16:07.675/.717. For the opening-theme comparison use the E02 opening as the reference. The return also identifies the exact Japanese cues still requiring a human ear.
+
 ## 1. Responsibility
 
 This index provides the shortest deterministic route from a V2 analytical claim back to the source evidence needed to verify it.

@@ -5,13 +5,13 @@ artifact_type: execution_and_reconciliation_protocol
 series: SHINE POST
 series_id: shine-post
 generation: V2
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "Design-only candidate intake, independent audiovisual audit and analytical integration procedure"
 source_boundary: "TV anime E01–E12 intended V2 scope; no new source inspection or admission in this bootstrap"
 canonical_home: series/shine-post/V2 Analysis/00 Frameworks/SHINEPOST_V2_AV_RECONCILIATION_AND_INTAKE_PROTOCOL.md
 created: 2026-11-19
-last_updated: 2026-11-19
+last_updated: 2026-11-22
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -24,9 +24,9 @@ do_not_use_as_literary_evidence: true
 
 The owner reports that Antigravity has finished a SHINE POST analysis. Its complete export has not been provided or inspected in this bootstrap. The source manifestation, exact episode coverage, method, model identity, effective sampling, independence, prior exposure and completion receipts remain unverified. This report establishes an intake need; it establishes no V2 literary finding or accepted source boundary.
 
-The V2 sequential gate remains **CLOSED**. This document authorizes no source reading, rewatch, audit run, external upload or candidate publication. It defines a procedure for later work within the owner's recovered authorization and the applicable gates. Framework adoption, candidate receipt, source admission, semantic acceptance and repository integration are separate events.
+The [current entrypoint](../../CURRENT_STATE_AND_CORPUS_MAP.md) records the live sequential lock, admitted episode and accepted frontier. This protocol itself grants no authority to read or rewatch a source, run an audit, upload material or publish a candidate. For the owner-authorized independent pass, first freeze the twelve accepted episode readings, their ledgers and their review evidence. Candidate intake under this protocol begins after that freeze.
 
-The [current entrypoint](../../CURRENT_STATE_AND_CORPUS_MAP.md) owns operational state. The [source and intake register](../01%20Source%20and%20Intake/SHINEPOST_V2_SOURCE_AND_INTAKE_REGISTER.md) owns actual candidate identities, source bindings, coverage and intake status. This protocol owns procedure, not a second status ledger.
+The [source and intake register](../01%20Source%20and%20Intake/SHINEPOST_V2_SOURCE_AND_INTAKE_REGISTER.md) owns actual candidate identities, source bindings, coverage and intake status. This protocol owns procedure, not a second status ledger.
 
 The [analytical method](SHINEPOST_V2_ANALYTICAL_METHOD.md) governs interpretation; the [synthesis architecture](SHINEPOST_V2_SYNTHESIS_ARCHITECTURE.md) assigns cumulative homes. The [character reconstruction protocol](SHINEPOST_V2_CHARACTER_RECONSTRUCTION_PROTOCOL.md) separately governs modeling and validation. V1 retains its declared scope; neither a new framework nor an incoming candidate silently supersedes it.
 

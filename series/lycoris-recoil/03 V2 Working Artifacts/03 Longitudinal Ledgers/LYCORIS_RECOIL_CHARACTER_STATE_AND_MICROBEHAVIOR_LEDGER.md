@@ -39,6 +39,7 @@ Apply these retrospective qualifications when using the historical observations 
 | `CHI-MB-E11-002`, `E11-VIS-010` | REVISE. Chisato interposes her satchel to cover Yoshimatsu. Visible impacts at 19:06.20/.84 land on the bag. Her protective choice is well supported. A bodily strike or wound is unestablished. |
 | `YOS-MB-E12-001`, `NEG-E12-CHI-001` | DOWNGRADE the claim of certain physical custody inside Yoshimatsu's body. Takina locates the heart in the case on her information, then Yoshimatsu shows a scar and says it is in his chest (C0104–10). Chisato refuses survival on the terms he presents. E13 confirms delivery of the heart without depicting extraction. |
 | `CHI-MB-E13-001`, `CHI-LIFE-01` | REVISE. E12’s exterior cut, Chisato aiming and Yoshimatsu’s wound strongly support her intervention for Takina. The intended wound severity remains open. In E13 C0082, Majima compares Chisato with Takina as a shooter. His line cannot identify ammunition. Chisato retains ethical discrimination under pressure. |
+| `TAK-MB-E13-003`, `E13-VIS-007` | REVISE the island reunion’s action order. Takina turns toward the rustle and makes the first visible discharge at 16:07.675. The later obscured shots do not establish her ammunition or a general change in her ethics. See the [dated Q14 decision](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/VERIFIER_RETURN_20261122.md). |
 
 ## 1. Responsibility
 
