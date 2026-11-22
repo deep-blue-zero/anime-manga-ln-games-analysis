@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 220; `STALE` 3; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 221; `STALE` 3; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -43,7 +43,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`monogatari-series`](reconstruction_index/monogatari-series.md) | 2 | 2 |
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
 | [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 42 |
-| [`ntr-netsuzou-trap`](reconstruction_index/ntr-netsuzou-trap.md) | 2 | 2 |
+| [`ntr-netsuzou-trap`](reconstruction_index/ntr-netsuzou-trap.md) | 3 | 3 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 4 | 4 |
 | [`oreimo`](reconstruction_index/oreimo.md) | 2 | 2 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
@@ -199,6 +199,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `my-hero-academia:uraraka-ochako@manga` | [`my-hero-academia-uraraka-ochako-manga-v2-model-ledgers-20261114-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-uraraka-ochako-manga-v2-model-ledgers-20261114-01) | `CANDIDATE` | `B` | `f4b3164218ddeacb5b94fbe9678d315beed44972` |
 | `my-hero-academia:uraraka-ochako@manga` | [`my-hero-academia-uraraka-ochako-manga-v2-model-ledgers-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-uraraka-ochako-manga-v2-model-ledgers-20261110-01) | `SUPERSEDED` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:yaoyorozu-momo@manga` | [`my-hero-academia-yaoyorozu-momo-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-yaoyorozu-momo-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
+| `ntr-netsuzou-trap:fujiwara@manga` | [`ntr-netsuzou-trap-fujiwara-manga-monograph-20261122-01`](reconstruction_index/ntr-netsuzou-trap.md#ntr-netsuzou-trap-fujiwara-manga-monograph-20261122-01) | `CANDIDATE` | `C` | `998f0fc84030f819dd022014cec095840e47f918` |
 | `ntr-netsuzou-trap:hotaru-mizushina@manga` | [`ntr-netsuzou-trap-hotaru-mizushina-manga-monograph-20261121-01`](reconstruction_index/ntr-netsuzou-trap.md#ntr-netsuzou-trap-hotaru-mizushina-manga-monograph-20261121-01) | `CANDIDATE` | `C` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `ntr-netsuzou-trap:yuma-okazaki@manga` | [`ntr-netsuzou-trap-yuma-okazaki-manga-monograph-20261121-01`](reconstruction_index/ntr-netsuzou-trap.md#ntr-netsuzou-trap-yuma-okazaki-manga-monograph-20261121-01) | `CANDIDATE` | `C` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `one-punch-man:bang@manga` | [`one-punch-man-bang-manga-v04-v37-distributed-20261029-01`](reconstruction_index/one-punch-man.md#one-punch-man-bang-manga-v04-v37-distributed-20261029-01) | `CANDIDATE` | `D` | `6cab13c6799a7f6488fabbdef96804643979de08` |
