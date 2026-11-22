@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan V02 — The Curse of the Lucky Win: confession, r
 artifact_id: FX_KURUMI_V02_DEEP_READING
 artifact_type: deep_reading
 series: fx-fighter-kurumi-chan
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Complete sequential reading of the V02 Japanese main narrative and classified apparatus"
 source_boundary: "FXK-JP-V02-W01 main narrative; V02 unit-end spoilers; no later volume"
 created: 2026-11-21
-last_updated: 2026-11-21
+last_updated: 2026-11-22
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -76,6 +76,17 @@ crops for this purpose. The changes of substance are these.
 
 Disagreements left open: who recommended the pound; when the domestic deposit was made; whether the i0131 woman is
 the mother; whether Yasuko was trading at the time of her denials. None of them changes the governing thesis.
+
+## Revision note (2026-11-22)
+
+Version 1.1 answers the review of PR #695 after the V02 transaction was accepted. The run coordinator's correction
+delegate made it; the frozen [V02 checkpoint](../checkpoints/FX_KURUMI_V02_CHECKPOINT.md) is unchanged and is corrected
+by the [checkpoint errata](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#v02). §Q now records that both specialists opened the cover and flap at the start of the
+volume and that the reviewer saw them on its first contact sheet. The flap tells the reader that the volume's traders
+come together ("集まってきたFX戦士達"). Two of Agent B's confirmed forecasts were written after it: Mebuki meets Kurumi
+(ledger FXK-V02-F095) now carries qualified predictive credit, and Yasuko meets Kurumi (F111) carries none. Their
+observed outcomes (i0048, i0147) stand, and so does every principal forecast and disposition in this reading. No other
+text changed.
 
 ---
 
@@ -1711,6 +1722,11 @@ table grows by 127 rows in V02; it remains navigable by ID prefix. No architectu
   - Structural metadata: before F05, F06 and MAIN_EXIT the principal noted reading-copy byte sizes that matched the
     separator pages (i0135–i0136, i0163) to judge where a chapter might end; no image was opened for this, and no forecast
     used it beyond boundary timing. This is recorded as metadata exposure.
+  - Cover and flap (version 1.1): the principal opened them only after MAIN_EXIT, but both specialists opened them at the
+    start of the volume (11-21, about 15:25) and the reviewer saw them on its first contact sheet. The flap's
+    "集まってきたFX戦士達" qualifies Agent B's credit for Mebuki meeting Kurumi (ledger FXK-V02-F095) and leaves none for
+    Yasuko meeting Kurumi (F111); outcomes and every other item stand
+    ([checkpoint errata](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#v02)).
   - EXTERNAL_REFERENCE: real events named on the page (リーマンショック; the pound as a reserve currency before 1944), the
     Japanese regulatory statements in footnotes, and brand parodies (ASAS, CASIKO, ジャンク堂書店, "ポップ○") were recognized
     and not used as evidence. The author's real-world paratext (i0002, i0164, i0169) is excluded. No prior knowledge of

@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan V03 — Pillar of Fire: the tuition trade, Mochik
 artifact_id: FX_KURUMI_V03_DEEP_READING
 artifact_type: deep_reading
 series: fx-fighter-kurumi-chan
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Complete sequential reading of the V03 Japanese main narrative and classified apparatus"
 source_boundary: "FXK-JP-V03-W01 main narrative; V03 unit-end spoilers; no later volume"
 created: 2026-11-21
-last_updated: 2026-11-21
+last_updated: 2026-11-22
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -93,6 +93,16 @@ display); "tile" = an on-page P/L display; "CALC" = ANALYST CALCULATION from pri
 10,000 currency units (accepted V01 convention; consistent with every V03 calculation). Names follow the accepted
 readings: 福賀くるみ Kurumi, 小金萌智子 Mochiko, 山師芽吹 Mebuki, 高根やす子 Yasuko. Mebuki's brother 健斗 is named on the
 page (i0074); her mother and father, and Kurumi's father, are unnamed.
+
+## Revision note (2026-11-22)
+
+Version 1.1 answers the review of PR #695 after the V03 transaction was accepted. The run coordinator's correction
+delegate made it; the frozen [V03 checkpoint](../checkpoints/FX_KURUMI_V03_CHECKPOINT.md) is unchanged and is corrected
+by the [checkpoint errata](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#v03). §Q and §M.9 now record that Agents B, C and D saw the cover and flap at the start of
+the volume, while the principal's entering state (17:52) and freezes were written before it opened either. The flap's
+hint that Mebuki's fun meets "現実" had been realized on the page (i0045, i0051) before Agent B's first V03 freeze, so
+the errata dispose of every forecast item and every review judgment on Mebuki's course as not affected. No other text
+changed.
 
 ---
 
@@ -1706,7 +1716,9 @@ appears (MX-11); contest standings or the 12/25 result shown (MX-12); a Kurumi l
 
 The financial specialist froze three sets of subjective-probability prospects in its own lane (verbatim in the
 checkpoint). Its own scores are kept except where the reviewer showed a score contradicts the forecast's own wording
-(C-06), which the principal checked against the page.
+(C-06), which the principal checked against the page. Agent B had read the cover and flap first; the flap's hint about
+Mebuki was already realized on the page (i0045, i0051) before FREEZE_01, and the
+[checkpoint errata](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-v03-02) dispose of each item below as not affected (version 1.1).
 
 | ID | Prospect (short; Agent B's probability) | Disposition | Locator |
 |---|---|---|---|
@@ -1871,7 +1883,10 @@ transaction, without altering existing rows, table headers or explanatory paragr
   counterexamples, and withholds any claim of a final loss for Mebuki. Structural metadata (spine identifiers, colour list,
   raster, date) and incidental file-size printouts, never used for boundaries. Procedural slip: F02 written after i0039
   (disclosed; F02 items about i0039 unscorable). Deferred paratext (flap, jacket blurb "奨学金に手を付けちゃえば大丈夫(?)",
-  under-jacket boards) opened only after MAIN_EXIT; consistent with the main narrative and not used as evidence. The i0165
+  under-jacket boards) opened only after MAIN_EXIT; consistent with the main narrative and not used as evidence. That
+  deferral was the principal's: Agents B, C and D saw the cover and flap first; the flap's hint about Mebuki was realized
+  on the page (i0045, i0051) before Agent B's first freeze, and no forecast item or review judgment is affected (version
+  1.1; [checkpoint errata](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#v03)). The i0165
   extra's gloss of Mochiko's stop ("15話で萌智子がこれ使ってたね!") was seen after the main-text reading of i0152 and is not
   used. EXTERNAL_REFERENCE: real events on depicted dates (notably 2014-10-31), real institutions and the identity behind
   "カーニー" were recognized and not used; no prior knowledge of this title's plot surfaced; no real exchange-rate history was

@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan V04 — Gamble: credit cards, a student loan and 
 artifact_id: FX_KURUMI_V04_DEEP_READING
 artifact_type: deep_reading
 series: fx-fighter-kurumi-chan
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Complete sequential reading of the V04 Japanese main narrative and classified apparatus"
 source_boundary: "FXK-JP-V04-W01 main narrative; V04 unit-end spoilers; no later volume"
 created: 2026-11-21
-last_updated: 2026-11-21
+last_updated: 2026-11-22
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -97,6 +97,18 @@ Disagreements left open: none material between the roles after reconciliation. K
 open at the volume's end (Agent B grades it INFERENCE HIGH; the principal and the reviewer MODERATE-HIGH); Mochiko's average
 (106.832 or 106.382); Mochiko's motive; whether "親を悲しませちゃだめだよ?" is a veiled threat (Agent D, INFERENCE HIGH) or a
 lever without a spoken threat (principal, reviewer); the status of the i0148 panel (all roles read it as imagined).
+
+## Revision note (2026-11-22)
+
+Version 1.1 answers the review of PR #695 after the V04 transaction was accepted. The run coordinator's correction
+delegate made it; the frozen [V04 checkpoint](../checkpoints/FX_KURUMI_V04_CHECKPOINT.md) is unchanged and is corrected
+by the [checkpoint errata](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#v04).
+- *First exposure to the cover and flap.* §Q now records that Agents B and D opened the cover and flap first and that the
+  reviewer saw them on its first contact sheet, while the principal's entering state, freezes and MAIN_EXIT came before
+  it opened either. The cover and flap carry no V04 narrative content, and no forecast item or review judgment is
+  affected (errata FXK-ERR-V04-01, -02).
+
+No other text changed.
 
 ---
 
@@ -1809,7 +1821,9 @@ transaction, without altering existing rows, table headers or explanatory paragr
   45 cap (tally slips, disclosed in the principal's working record; no harm observed); F06 was written after the non-narrative separator i0089 (disclosed;
   no narrative slip). Deferred paratext (covers, flap, under-jacket boards, the extra's production diaries — including the artist's
   label "HN:あふぃちゃん(20)" (i0156) and the author's note that Yasuko is "芽吹ちゃんの隣人" (i0154)) was opened only after MAIN_EXIT and is
-  not used as story evidence. EXTERNAL_REFERENCE: real events on 31 October 2014, the real figure behind the board's "黒田", and the
+  not used as story evidence. That deferral was the principal's: Agents B and D opened the cover and flap first (Agent B after
+  its FREEZE_00) and the reviewer saw them on its first contact sheet; neither image carries V04 narrative content, and no
+  forecast item or review judgment is affected (version 1.1; [checkpoint errata](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#v04)). EXTERNAL_REFERENCE: real events on 31 October 2014, the real figure behind the board's "黒田", and the
   real legal significance of 109.5%, 29.2% and 15–20% were recognized and not used; no prior knowledge of this title's plot surfaced;
   no real exchange-rate history was used to anticipate or judge any depicted outcome. In-world brand parodies (ASAS, MiNE, VIZA,
   Rakuen, Hibrid, twiter, AsoBow, STARBACKS COFFEE, Gogglle, Low Son) were treated only as page facts. The reconciliation session
