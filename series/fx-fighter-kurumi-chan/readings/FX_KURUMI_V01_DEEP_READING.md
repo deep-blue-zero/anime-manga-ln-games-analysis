@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan V01 — The Mother's Currency: proof, household m
 artifact_id: FX_KURUMI_V01_DEEP_READING
 artifact_type: deep_reading
 series: fx-fighter-kurumi-chan
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Complete sequential reading of the V01 Japanese main narrative and classified apparatus"
 source_boundary: "FXK-JP-V01-W01 main narrative; V01 unit-end spoilers; no later volume"
 created: 2026-11-21
-last_updated: 2026-11-21
+last_updated: 2026-11-22
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -60,6 +60,22 @@ uncertain, the text says so. Crops are cited with their full-resolution box.
 EXTERNAL_REFERENCE (excluded), with HIGH / MODERATE / LOW confidence where it matters. "ANALYST CALCULATION" marks
 arithmetic whose operands are both printed on the page.
 
+## Revision note (2026-11-22)
+
+Version 1.1 answers the review of PR #695 after the V01 transaction was accepted. The run coordinator's correction
+delegate made it; the frozen [V01 checkpoint](../checkpoints/FX_KURUMI_V01_CHECKPOINT.md) is unchanged and is corrected
+by the [checkpoint errata](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#v01).
+- *The story author's afterword (i0165) is an authorial extra, not apparatus.* The entrypoint's component scope classes
+  afterwords as authorial extras, which are classified only and are not narrative evidence while the supplemental lane
+  is closed. §A.2 and its counts now say so; §D and §K no longer cite the afterword; L.7 now rests on the page (i0086)
+  and notes the light blurb (i0166) as apparatus that carries no weight, as §D says. The competing thesis keeps its
+  label (HYPOTHESIS, MODERATE). Errata FXK-ERR-V01-03; ledger FXK-V01-C017.
+- *Who saw the cover first.* §Q now records that both specialists opened the front cover and flap at the start of their
+  first sessions and that the reviewer saw them on its first contact sheet. No specialist prospect is qualified by them,
+  and FX-4 is the principal's own forecast, frozen before any apparatus was opened. Errata FXK-ERR-V01-01 and -02.
+
+No other text changed.
+
 ---
 
 ## A. Receipt
@@ -95,14 +111,14 @@ arithmetic whose operands are both printed on the page.
 | i0137–i0162 | MAIN | 第5話 (label box) | p.135–160 | Explainer pages i0146–i0147 sit inside the main narrative. Spread i0160+i0161. Ends "TO BE CONTINUED…". |
 | i0163 | Apparatus: divider | — | (p.161) | Logo on grid. |
 | i0164 | Extra: artist afterword strip | 巻末のごあいさつ | (p.162) | |
-| i0165 | Apparatus: story author afterword | 原作者あとがき | (p.163) | "ただのエンタメ作品として楽しんで頂けたら幸いです". |
+| i0165 | Extra: story author afterword | 原作者あとがき | (p.163) | Authorial extra under the component scope; classified only, not evidence (reclassified from apparatus in version 1.1). |
 | i0166–i0167 | Apparatus: wraparound covers | — | — | Blurb: "ちょっとキケン(!?)なお金稼ぎ". |
 | i0168 | Extra: cover-underside strip | でむにゃんの仮想通貨ビットコインの思い出(2017) | — | Author gag strip. Not narrative. |
 | i0169 | Extra: design notes | 生まれて初めて描いたくるみちゃん♪ | — | |
 | i0170 | Apparatus: colophon | — | — | |
 | i0171 | Advertising: BOOK☆WALKER | — | — | |
 
-Counts: MAIN 160 (第1話 48, 第2話 32, 第3話 28, 第4話 26, 第5話 26); apparatus 7; extras 3; advertising 1. There
+Counts: MAIN 160 (第1話 48, 第2話 32, 第3話 28, 第4話 26, 第5話 26); apparatus 6; extras 4; advertising 1. There
 is no next-volume preview and no blank occurrence. Five chapters correspond to the five magazine issues (INFERENCE
 HIGH). The label "第1集 お祈り" on i0003 is read as an instalment title "お祈り" (prayer) (MODERATE). It anticipates
 the prayer of i0135–i0136 and i0156. The "第1話" tab first appears on i0005, and both specialists treat i0003 as a
@@ -336,9 +352,9 @@ prescribes, realizes a 大損, and is then caught on the short she re-risked. Ku
 unreliable or ironic as a moralist: it calls her aversion "in a sense courageous" (i0143) just before the rescue, and
 it jokes about the manga's own cancellation (i0086). On this reading the market is an indifferent trickster
 ("あざ笑うかのように", i0150). The volume's subject is spectatorship: the reader's and Mochiko's pleasure in watching
-someone stand on the edge. It is not a lesson about process. The author's flap note and afterword frame the work as
-"ただのエンタメ" born of his own defeats (i0002, i0165), and the publisher's blurb is light (i0166). That framing is
-paratext. It is noted here but carries no weight in choosing between the theses.
+someone stand on the edge. It is not a lesson about process. The author's flap note says the work was born of his own
+defeats (i0002), and the publisher's blurb is light (i0166). That framing is apparatus. It is noted here but carries no
+weight in choosing between the theses. The story author's afterword (i0165) is an authorial extra and is not cited.
 
 **Why the governing thesis is preferred, provisionally.** The page repeatedly ties the trades to the mother (i0050,
 i0062, i0103, i0139–i0140) and the father (i0109–i0113, i0124, i0138). It frames the win with unresolved debt and a
@@ -1251,8 +1267,8 @@ flat "よかったね…" (i0162) keep the reader's knowledge in play.
   "絶対死んだ"; Mochiko thinks "これは死んだか?", "戦死した", "死んどけや"; あふぃちゃん "逃げないと死ぬ". After the mother's
   suicide, the figure of speech is never only a figure.
 - **"ただの〜"** is the narrator's verdict formula: "ただの博打(ギャンブル)なのだ" (i0077), "ただの衝動買いである"
-  (i0128), "ただ神に祈ることだけであった" (i0136). The author's afterword happens to share the formula: "ただのエンタメ作品として"
-  (i0165; a deliberate echo is INFERENCE LOW, and the afterword is paratext).
+  (i0128), "ただ神に祈ることだけであった" (i0136). (Version 1.1 drops an echo noted here in the story author's
+  afterword, i0165, which is an authorial extra and is not cited.)
 - **Editorial narrator style**: "〜である", "〜のだ", rhetorical "〜ではないだろうか?" / "〜のだろうか?" (i0101, i0129);
   explainer captions with emphasis dots ("損失を確定させる行為", i0086).
 - **Kurumi**: see §H.1. Note the katakana coarsening "なってンだっけ" (i0027) and the polite-form "いりません" (i0118).
@@ -1301,10 +1317,11 @@ flat "よかったね…" (i0162) keep the reader's knowledge in play.
    errand, note, death) and gives Kurumi's guilt, but never states causation. Yūko's warning (i0021) and the
    mother's prior deterioration (i0022–i0023) show a pre-existing trajectory. The reading treats Kurumi's
    responsibility as her belief, not as a narrative finding.
-7. **"The volume is pure entertainment; the didactics are parody."** The author asks for "ただのエンタメ" (i0165). The
-   publisher blurb is light ("ちょっとキケン(!?)", i0166). Explainer gags undercut the narrator (i0086). This supports
-   the competing thesis (§D). The suicide plot, the body horror and the father's savings weigh against a purely
-   comic reading.
+7. **"The volume is pure entertainment; the didactics are parody."** Explainer gags undercut the narrator (i0086). This
+   supports the competing thesis (§D). The light publisher blurb ("ちょっとキケン(!?)", i0166) points the same way, but
+   it is apparatus and, as §D says, carries no weight between the theses. The suicide plot, the body horror and the
+   father's savings weigh against a purely comic reading. (Version 1.1 removes the story author's afterword, i0165, as
+   support: it is an authorial extra and is not cited.)
 8. **"The foil teaches that cutting is futile."** あふぃちゃん cut, realized a 大損, and was then caught by the reversal.
    But the reversal hit her "全力" doten, not the cut as such (i0149–i0151), and the result of the short is not shown.
    The page does not show the cut alone as harmful. The governing thesis (§D) now says the same.
@@ -1497,6 +1514,11 @@ and forecast table and one person section retrieve every material recurrence (se
     name inference (§H.3).
   - Procedural slips: i0051, i0083–i0084 and i0111 were seen before their freezes. Each slip is disclosed in its
     freeze, and the affected forecasts carry exposure caveats.
+  - Cover and flap (version 1.1). The principal deferred them until after MAIN_EXIT, but both specialists opened i0001
+    and i0002 at the start of their first sessions (11-19, about 21:29) and the reviewer saw them on its first contact
+    sheet. Neither carries V01 plot information. No specialist prospect is qualified by them, and FX-4 is the
+    principal's own forecast, frozen before any apparatus was opened
+    ([checkpoint errata](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#v01)).
   - EXTERNAL_REFERENCE items were recognized but not used: real events named on the page (サブプライム, パリバ,
     リーマン), the Japanese leverage cap, John Monash on the AUD note footnote (i0074), prospect theory (used only as
     the page states it), the 風林火山 motto, and brand parodies (WcDon, LIME, CASIKO). The cover and afterword trio
