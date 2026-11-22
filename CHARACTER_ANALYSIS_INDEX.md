@@ -24,6 +24,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`cosmic-princess-kaguya`](characters/index/cosmic-princess-kaguya.md) | 1 |
 | [`genocidal-organ`](characters/index/genocidal-organ.md) | 2 |
 | [`genshin-impact`](characters/index/genshin-impact.md) | 1 |
+| [`girls-band-cry`](characters/index/girls-band-cry.md) | 5 |
 | [`harmony`](characters/index/harmony.md) | 6 |
 | [`idoly-pride`](characters/index/idoly-pride.md) | 22 |
 | [`kamakura-sho`](characters/index/kamakura-sho.md) | 2 |
@@ -112,6 +113,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Atsuko](characters/index/blue-archive.md#atsuko) | Blue Archive game | `blue-archive:atsuko@game` | — |
 | [Augusta](characters/index/wuthering-waves.md#augusta) | Wuthering Waves game | `wuthering-waves:augusta@game` | — |
 | [Aulip](characters/index/konosuba.md#aulip) | Original light-novel continuity, scoped current monograph | `konosuba:aulip@original-light-novel` | アウリープ |
+| [Awa Subaru](characters/index/girls-band-cry.md#awa-subaru) | Girls Band Cry television anime | `girls-band-cry:awa-subaru@television-anime` | — |
 | [Ayame](characters/index/blue-archive.md#ayame) | Blue Archive game | `blue-archive:ayame@game` | — |
 | [Ayane](characters/index/blue-archive.md#ayane) | Blue Archive game | `blue-archive:ayane@game` | — |
 | [Ayanokōji Kiyotaka](characters/index/classroom-of-the-elite.md#ayanokoji-kiyotaka) | Classroom of the Elite original light novels through Year 2 | `classroom-of-the-elite:ayanokoji-kiyotaka@original-light-novels-through-year-2` | — |
@@ -178,6 +180,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Dust](characters/index/konosuba.md#dust) | Original light-novel continuity, bounded expanded cohort | `konosuba:dust@original-light-novel` | — |
 | [Dust 2 diary inventor](characters/index/konosuba.md#dust02-diary-inventor) | Original light-novel continuity, bounded character study | `konosuba:dust02-diary-inventor@original-light-novel` | — |
 | [Dust 7 Dullahan commander](characters/index/konosuba.md#dust07-dullahan-commander) | Original light-novel continuity, scoped current monograph | `konosuba:dust07-dullahan-commander@original-light-novel` | — |
+| [Ebizuka Tomo](characters/index/girls-band-cry.md#ebizuka-tomo) | Girls Band Cry television anime | `girls-band-cry:ebizuka-tomo@television-anime` | — |
 | [Effa](characters/index/ascendance-of-a-bookworm.md#effa) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:effa@light-novel` | — |
 | [Eibram](characters/index/konosuba.md#eibram) | Original light-novel continuity, bounded expanded cohort | `konosuba:eibram@original-light-novel` | トランザム・ルッソ・エイブラム |
 | [Eiko](characters/index/maebashi-witches.md#eiko) | Maebashi Witches anime | `maebashi-witches:eiko@anime` | — |
@@ -285,6 +288,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Inuyama Aoi](characters/index/yuru-camp.md#inuyama-aoi) | Japanese manga | `yuru-camp:inuyama-aoi@manga` | 犬山あおい |
 | [Iris](characters/index/konosuba.md#iris) | Original light-novel continuity, accepted Iris cohort 01 | `konosuba:iris@original-light-novel` | アイリス; イリス |
 | [Isaac Walker](characters/index/silent-witch.md#isaac-walker) | Silent Witch Japanese light novels | `silent-witch:isaac-walker@light-novel` | アイザック・ウォーカー; Felix Arc Ridill; Ike; フェリクス・アーク・リディル |
+| [Iseri Nina](characters/index/girls-band-cry.md#iseri-nina) | Girls Band Cry television anime | `girls-band-cry:iseri-nina@television-anime` | — |
 | [Ito Momiji](characters/index/shine-post.md#ito-momiji) | SHINE POST television anime | `shine-post:ito-momiji@television-anime` | — |
 | [Itsuki Hashima](characters/index/a-sisters-all-you-need.md#itsuki-hashima) | A Sister's All You Need original light novels through Volume 14 | `a-sisters-all-you-need:itsuki-hashima@original-light-novels` | 羽島伊月 |
 | [Iuno](characters/index/wuthering-waves.md#iuno) | Wuthering Waves game | `wuthering-waves:iuno@game` | — |
@@ -316,6 +320,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Kasukabe Haru](characters/index/tokyo-7th-sisters.md#kasukabe-haru) | Tokyo 7th Sisters game | `tokyo-7th-sisters:kasukabe-haru@game` | — |
 | [Katsuhito Ichinose](characters/index/rent-a-girlfriend.md#katsuhito-ichinose) | Main manga continuity | `rent-a-girlfriend:katsuhito-ichinose@manga` | — |
 | [Katsuragi Lilja](characters/index/the-idolmaster.md#katsuragi-lilja) | Gakuen Idolmaster mobile-game Phase-3 core | `the-idolmaster:katsuragi-lilja@mobile-game-phase-3-core` | 葛城リーリヤ |
+| [Kawaragi Momoka](characters/index/girls-band-cry.md#kawaragi-momoka) | Girls Band Cry television anime | `girls-band-cry:kawaragi-momoka@television-anime` | — |
 | [Kawasaki Sakura](characters/index/idoly-pride.md#kawasaki-sakura) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:kawasaki-sakura@v2-cross-media` | — |
 | [Kawasumi Shisara](characters/index/tokyo-7th-sisters.md#kawasumi-shisara) | Tokyo 7th Sisters game | `tokyo-7th-sisters:kawasumi-shisara@game` | — |
 | [Kaya](characters/index/blue-archive.md#kaya) | Blue Archive game | `blue-archive:kaya@game` | — |
@@ -515,6 +520,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Rui](characters/index/project-sekai.md#rui) | Project SEKAI game — Wonderlands×Showtime | `project-sekai:rui@game` | — |
 | [Ruijerd](characters/index/mushoku-tensei.md#ruijerd) | Japanese light-novel continuity | `mushoku-tensei:ruijerd@light-novel` | — |
 | [Ruka Sarashina](characters/index/rent-a-girlfriend.md#ruka-sarashina) | Main manga continuity | `rent-a-girlfriend:ruka-sarashina@manga` | — |
+| [Rupa](characters/index/girls-band-cry.md#rupa) | Girls Band Cry television anime | `girls-band-cry:rupa@television-anime` | — |
 | [Ryō](characters/index/peach-girl.md#okayasu-ryo) | Japanese manga | `peach-girl:okayasu-ryo@manga` | 岡安涼; Okayasu Ryō |
 | [Ryūen Kakeru](characters/index/classroom-of-the-elite.md#ryuen-kakeru) | Classroom of the Elite original light novels through Year 2 | `classroom-of-the-elite:ryuen-kakeru@original-light-novels-through-year-2` | — |
 | [Sae Kashiwagi](characters/index/peach-girl.md#kashiwagi-sae) | Japanese manga | `peach-girl:kashiwagi-sae@manga` | 柏木沙絵; Kashiwagi Sae |
