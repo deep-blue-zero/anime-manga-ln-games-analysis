@@ -3,11 +3,11 @@ title: "FX Fighter Kurumi-chan — Decision and Evidence Ledger"
 artifact_id: FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER
 artifact_type: evidence_ledger
 series: fx-fighter-kurumi-chan
-version: "1.10"
+version: "1.11"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Ordered fictional decisions, state and interpretation history for the collected manga"
-source_boundary: "FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, FXK-JP-V04-W01, FXK-JP-V05-W01, FXK-JP-V06-W01, FXK-JP-V07-W01, FXK-JP-V08-W01 and FXK-JP-V09-W01 main narratives and classified apparatus (V01–V09); no later volume"
+source_boundary: "FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, FXK-JP-V04-W01, FXK-JP-V05-W01, FXK-JP-V06-W01, FXK-JP-V07-W01, FXK-JP-V08-W01, FXK-JP-V09-W01 and FXK-JP-V10-W01 main narratives and classified apparatus (V01–V10); no later volume"
 created: 2026-11-15
 last_updated: 2026-11-22
 supersedes: []
@@ -18,7 +18,7 @@ do_not_use_as_literary_evidence: true
 
 # FX Fighter Kurumi-chan — Decision and Evidence Ledger
 
-Source admission is **V01–V09** (FXK-JP-V01-W01: main narrative i0003–i0162 and classified apparatus and extras i0001–i0002 and i0163–i0171; FXK-JP-V02-W01: main narrative i0003–i0102, i0105–i0134 and i0137–i0162 and classified apparatus and extras i0001–i0002, i0103–i0104, i0135–i0136 and i0163–i0171; FXK-JP-V03-W01: main narrative i0003–i0162 and classified apparatus, extras and vendor page i0001–i0002 and i0163–i0171; FXK-JP-V04-W01: main narrative i0003–i0032, i0035–i0062, i0065–i0088, i0091–i0122 and i0125–i0150 and classified apparatus, extras and vendor page i0001–i0002, i0033–i0034, i0063–i0064, i0089–i0090, i0123–i0124 and i0151–i0163; FXK-JP-V05-W01: main narrative i0003–i0054 and i0057–i0162 and classified apparatus, extras and vendor page i0001–i0002, i0055–i0056 and i0163–i0171; FXK-JP-V06-W01: main narrative i0003–i0028, i0031–i0055, i0057–i0090, i0093–i0118 and i0121–i0154 and classified apparatus, extras and vendor page i0001–i0002, i0029–i0030, i0056, i0091–i0092, i0119–i0120 and i0155–i0163; FXK-JP-V07-W01: main narrative i0003–i0032, i0035–i0066, i0069–i0095, i0097–i0122 and i0125–i0150 and classified apparatus, extras and vendor page i0001–i0002, i0033–i0034, i0067–i0068, i0096, i0123–i0124 and i0151–i0163; FXK-JP-V08-W01: main narrative i0003–i0026, i0029–i0060, i0063–i0092, i0095–i0126 and i0129–i0158 and classified apparatus, extras and vendor page i0001–i0002, i0027–i0028, i0061–i0062, i0093–i0094, i0127–i0128 and i0159–i0171; FXK-JP-V09-W01: main narrative i0003–i0044, i0047–i0098, i0101–i0130 and i0133–i0158 and classified apparatus, extras and vendor page i0001–i0002, i0045–i0046, i0099–i0100, i0131–i0132 and i0159–i0171); the rows below record V01, V02, V03, V04, V05, V06, V07, V08 and V09 and cite observation IDs from the [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md), the [V02 deep reading](readings/FX_KURUMI_V02_DEEP_READING.md), the [V03 deep reading](readings/FX_KURUMI_V03_DEEP_READING.md), the [V04 deep reading](readings/FX_KURUMI_V04_DEEP_READING.md), the [V05 deep reading](readings/FX_KURUMI_V05_DEEP_READING.md), the [V06 deep reading](readings/FX_KURUMI_V06_DEEP_READING.md), the [V07 deep reading](readings/FX_KURUMI_V07_DEEP_READING.md), the [V08 deep reading](readings/FX_KURUMI_V08_DEEP_READING.md) and the [V09 deep reading](readings/FX_KURUMI_V09_DEEP_READING.md). Use stable observation IDs from the accepted reading and link to the actual page and panel or screen region before advancing any row.
+Source admission is **V01–V10** (FXK-JP-V01-W01: main narrative i0003–i0162 and classified apparatus and extras i0001–i0002 and i0163–i0171; FXK-JP-V02-W01: main narrative i0003–i0102, i0105–i0134 and i0137–i0162 and classified apparatus and extras i0001–i0002, i0103–i0104, i0135–i0136 and i0163–i0171; FXK-JP-V03-W01: main narrative i0003–i0162 and classified apparatus, extras and vendor page i0001–i0002 and i0163–i0171; FXK-JP-V04-W01: main narrative i0003–i0032, i0035–i0062, i0065–i0088, i0091–i0122 and i0125–i0150 and classified apparatus, extras and vendor page i0001–i0002, i0033–i0034, i0063–i0064, i0089–i0090, i0123–i0124 and i0151–i0163; FXK-JP-V05-W01: main narrative i0003–i0054 and i0057–i0162 and classified apparatus, extras and vendor page i0001–i0002, i0055–i0056 and i0163–i0171; FXK-JP-V06-W01: main narrative i0003–i0028, i0031–i0055, i0057–i0090, i0093–i0118 and i0121–i0154 and classified apparatus, extras and vendor page i0001–i0002, i0029–i0030, i0056, i0091–i0092, i0119–i0120 and i0155–i0163; FXK-JP-V07-W01: main narrative i0003–i0032, i0035–i0066, i0069–i0095, i0097–i0122 and i0125–i0150 and classified apparatus, extras and vendor page i0001–i0002, i0033–i0034, i0067–i0068, i0096, i0123–i0124 and i0151–i0163; FXK-JP-V08-W01: main narrative i0003–i0026, i0029–i0060, i0063–i0092, i0095–i0126 and i0129–i0158 and classified apparatus, extras and vendor page i0001–i0002, i0027–i0028, i0061–i0062, i0093–i0094, i0127–i0128 and i0159–i0171; FXK-JP-V09-W01: main narrative i0003–i0044, i0047–i0098, i0101–i0130 and i0133–i0158 and classified apparatus, extras and vendor page i0001–i0002, i0045–i0046, i0099–i0100, i0131–i0132 and i0159–i0171; FXK-JP-V10-W01: main narrative i0003–i0156 and classified apparatus, extras and vendor page i0001–i0002 and i0157–i0171); the rows below record V01, V02, V03, V04, V05, V06, V07, V08, V09 and V10 and cite observation IDs from the [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md), the [V02 deep reading](readings/FX_KURUMI_V02_DEEP_READING.md), the [V03 deep reading](readings/FX_KURUMI_V03_DEEP_READING.md), the [V04 deep reading](readings/FX_KURUMI_V04_DEEP_READING.md), the [V05 deep reading](readings/FX_KURUMI_V05_DEEP_READING.md), the [V06 deep reading](readings/FX_KURUMI_V06_DEEP_READING.md), the [V07 deep reading](readings/FX_KURUMI_V07_DEEP_READING.md), the [V08 deep reading](readings/FX_KURUMI_V08_DEEP_READING.md), the [V09 deep reading](readings/FX_KURUMI_V09_DEEP_READING.md) and the [V10 deep reading](readings/FX_KURUMI_V10_DEEP_READING.md). Use stable observation IDs from the accepted reading and link to the actual page and panel or screen region before advancing any row.
 
 | Episode ID | Witness and unit/disclosure point | Figure, language or action shown and locator | Holder, time and modality of information | Entering alternatives and observed action | Exit change and affected person | Rival, uncertainty and claim pointer |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -306,6 +306,42 @@ Source admission is **V01–V09** (FXK-JP-V01-W01: main narrative i0003–i0162 
 | FXK-V09-D032 | 第45話 / i0151–i0158 | "ようこそ いなごちゃん! / 福賀くるみです!", NB 「福賀くるみ(23)【事務員】」, sleeping bag (i0152); a falling candlestick chart, clicks, gridlines 「111.」「111.10」 (i0154 crop); a leer 「にたぁ」 (i0156); "栄養補給ぅ〜" (i0157); "きずなさん" (Kurumi, i0157); NB 「月森きずな(27)【営業】」; CAP 「酒田いなご もちもち企画に入社」; 「TO BE CONTINUED...」 (i0158) | Kurumi (clerk), Kizuna (sales), Inago | — | Kurumi re-enters as a clerk; the market on a colleague's screen | Whether Kurumi trades in 2017 not shown; Kizuna's chart is a price display, no pair inferred (reviewer C-05); her motive UNRESOLVED (V09-U03, U05). Kurumi holds a broom (i0157). E057–E059; C035–C036 |
 | FXK-V09-D033 | W01 / V09 / i0018, i0056, i0098, i0104, i0133–i0134 (analyst arithmetic) | Printed or spoken operands: "1億円", "5年", "166万円以上", "年間1400万円以上"; V07 −101,534,644 and 14.6%; accepted death date 13 Feb 2009 and "もう6年"; 平成27年; 「2014年3月」 + 「3年」; 「2015年秋」 → 「2017年4月3日」 | Analyst arithmetic of printed figures | — (outcome record) | 100,000,000/60 = 1,666,667 ✓; 14,824,058 ≥ 1400万 ✓; 2009 + 6 = 2015 ✓ (before the anniversary); 平成27年 = 2015; ≈ March 2017; ≈ 18 months | ANALYST CALCULATION; no debt, tax or wage figure computed (none printed). §F.7; C039 |
 | FXK-V09-D034 | 第41–45話 / i0006–i0009, i0033, i0040–i0043, i0052, i0061, i0072–i0073, i0081–i0084, i0122–i0128 (pattern record) | "私から出てってよ" (i0008) / V08 "出ていって?"; "否定しないでほしいな" (i0009) / "私は否定しないよ" (i0033); the letter's "無かったことにして" (i0052) / "寂しすぎる" (i0052) / "なかったことにしたくない" (i0082); "大人" (i0042–i0043, i0083); "似てるけど違うんだ" (i0061) and the father's "母さんのときは相談もなかった" (i0072); "おかえり"/"ただいま" twice (i0122, i0125–i0126); "地道" / "コツコツ" (i0029, i0106–i0107); V01's 300万 (i0075) | Pages across the volume and accepted V01, V07, V08 | — (pattern record) | The expelled figure is welcomed; the letter's words reversed; the mother's road left | Designed echoes EVAL MOD-HIGH on form. E001, E011, E019, E023, E029, E034–E035, E050; C038 |
+| FXK-V10-D001 | W01 / V10 / 第46話 / i0003–i0007 | SCR 「18:40」 (crop i0003); "納期には 間に合いそう だし" (i0003); strip 「第10集 株式取引」 (i0003); "私たちは 基本ないよ" (i0006); "寝袋は 私の私物! / 会社に 泊まるのが 趣味なんだ!" (i0007); "自由度を 間違えた 働き方改革の 敗北です" (Nana, i0007) | Kurumi, Nana, Kizuna, the newcomer; Monday evening (INF MOD 3 April 2017) | Explain the sleeping bag or not → Kurumi calls office-sleeping a hobby | The newcomer reassured; Kurumi's habit framed as play | Whether "趣味" is the reason UNRESOLVED (V09-U05; Kizuna believes she lives with family, i0045). E001–E002; C003 |
+| FXK-V10-D002 | 第46話 / i0008–i0011 | "今から いなごちゃんの 歓迎会しよ〜よ〜" (i0008); "萌智子〜… じゃなかった / 社長〜 / 急だけど 飲み会行ける〜?" (i0009); "ごめん 無理! / 行くなら 領収書だけ お願い" (i0010); Yasuko by phone: "1ミクロンも 面白くない…", "すみません 明日までに 直します" (i0011) | Kurumi, Mochiko (in a crunch), Yasuko (outsider), Nana, Inago | Mochiko joins or not → declines, the company pays; leave Yasuko → they slip away | Party without the president; Yasuko alone with her editor's verdict | Caller INF MOD an editor. E003–E004; C004–C005 |
+| FXK-V10-D003 | 第46話 / i0012–i0016 | "会社の お金なんだから もっとお高い店に すればいいのに〜" / "また社長に 怒られちゃい ますよ〜" / "30万は やばかったね〜" (i0012); seating diagram "下っ端は 下座!" (i0013); introductions: Inago クリエイター; Kurumi "入社1年目", "事務と雑用"; Nana クリエイター 社員歴1年半; Kizuna 営業 社員歴3カ月 (i0016) | The five at the restaurant; self-reports | Inago follows the manners book or her seniors → her seats are taken; she sits by Kizuna | The staff's roles and tenure stated | The "30万" outing's payer not shown. E005–E007; C006 |
+| FXK-V10-D004 | 第46話 / i0017–i0020 | "ぶっちゃけ お金もらえたら どこでも いいよねぇ〜" (Kizuna, i0017); "実家の家族を 安心させて あげたかった" (i0018); "人生 つまんなそ〜" (i0019); "何者かに なりたくて… 結局何者にも なれなかった" (i0019); "私も 20歳まで 勉強しかして なくて / ちょっと 残念な人生 だったし!" (Kurumi, i0020) | Inago, Kizuna, Kurumi, Nana; speech | Console or judge → Kizuna judges, Kurumi and Nana console | Inago ashamed then cheered ("くるみ 先輩…!") | Kurumi conceals the content of her "残念な人生". E008; C007 |
+| FXK-V10-D005 | 第46話 / i0021–i0025 | "具体的には / 金融資産 10億円の 保有" (i0021); "自・由・億!" (i0022); "「経済的自由を 手に入れたい」" (i0024); "一旦 お金持ちを 目指してみたら?" (i0024); "みんなも一緒に お金持ち 目指そうよ〜" (i0025) | Kizuna (goal, SR); Inago, Nana, Kurumi | Inago adopts a goal or not → imagines a 「大地主」 gate, no commitment | Wealth offered as identity to a newcomer | Goal, not holding. E009; C008 |
+| FXK-V10-D006 | 第46話 / i0026–i0028 | "私も 欲しいです / お金" (Kurumi, i0026); "萌智子社長 みたいに 起業とかしないと" (Nana); "宝くじ 買いましょう!" (Inago) (i0026); "わかります" — "投資 / ですよね?" (i0027–i0028); "…今 私が 言おうと したのにぃ〜" (i0028) | Kurumi, speech; the table | Name the "realistic method" or wait → Kurumi names 投資 | Kurumi's competence visible; Kizuna pre-empted | "わかります" INF HIGH Kurumi (i0028). E010; C009 |
+| FXK-V10-D007 | 第47話 / i0029–i0032 | Title 「——資産運用——」 and vehicle circles, 「株式」 centre (i0029); "とりあえず 目指すなら 1億円かな?" (i0031); 「富裕層 (約121万世帯)」 / 「庶民 (約5,168万世帯)」, "2%以上" (i0031); "学校のクラスで 1番になる程度の 努力で届く" (i0032) | Narrator (didactic); Kizuna citing a survey | — (presentation) | 1億 framed as realistic by rank and effort | Survey recorded as printed, not compared. CALC 1/50 = 2%. E011–E012; C010 |
+| FXK-V10-D008 | 第47話 / i0033–i0034 | "1億円 稼げるなら / その逆も あるって / …思ったり" (Kurumi, i0033) over a winged Kurumi in a debris vortex and a blood-vomiting gag (crop i0033); Inago's mother: "儲け話には 絶対乗っちゃ いけないよ? … 騙された いなごは 喰われて おしまいさ…!" (i0034) | Kurumi, speech from experience; Inago, memory of her mother (flashback) | Warn or keep quiet → Kurumi warns once; Inago recalls the rule | A caution enters the table | The winged figure ≠ V09's small twin-tailed girl by design (V10-U06). E013–E014; C011–C012 |
+| FXK-V10-D009 | 第47話 / i0035–i0038 | "投資で1億円 負けなんて ありえない", "どういう 取引したら そんな借金に なるの" (Kizuna) beside Kurumi's shadowed eye (i0035); "私と一緒に 投資でお金持ち 目指そう?" (i0035); CAP 「いなご 保有金融資産 42,175円」 (crop i0036); "全く投資 やらないのも リスクあるから" (i0037); "素人が投資に 手を出しても 失敗する 気がします" (Nana, i0038) | Kizuna (ignorant of Kurumi's 1億); Kurumi silent; Nana; Inago | Kurumi corrects Kizuna or stays silent → silent; Inago accepts or declines → "お金も全然 持ってないんです!" | Dramatic irony; Inago's poverty captioned | Kizuna cannot know (not negligence). E015–E016; C013–C014 |
+| FXK-V10-D010 | 第47話 / i0039–i0040 | "投資始めてから 5年連続で 収支プラス" (Kizuna, i0039); Kurumi (TH): "きずなさんは 5年前に デビューか…", 2012 timeline, "日経平均は 9000円から 1万5000円まで / ドル円は 80円から 100円まで" , "萌智子は この時期に 一気に資産 増やしたん だっけ…", "羨ましいな…" (i0039–i0040); "アプリだけ 入れよ?" (Kizuna to Inago, i0040) | Kizuna SR; Kurumi thought | — | Kurumi's envy of timing (and of Mochiko) | Market levels as her recollection only. E017; C001, C017 |
+| FXK-V10-D011 | 第47話 / i0041–i0042 | "そこまで お金に困って ないので", blush at "欲しいものとか ないの?" (Nana); CAP 「なな 保有金融資産 834,877円」 (crop i0041); "私はちゃんと 生活費入れて ますっ!" (i0042); "…学生時代は / がっつりFX やってたん だけどね…" (Kurumi, i0042) | Nana SR; Kurumi speech | Kurumi answers Nana's question or deflects → discloses FX | Kurumi's FX past known to her colleagues | Nana's household claim contradicted at i0057 (V10-U08). E018–E019; C014–C015, C019 |
+| FXK-V10-D012 | 第47話 / i0043–i0045 | "今はやってないの?" — "…はい" (i0043); "それはもう コテンパンに やられて / 退場した ので…"; CAP 「くるみ 保有金融資産 22,963円」 (crop i0043); "え〜っ!? いくら 負けたの〜!? / 気になる〜!!" (Kizuna); "最高機密! トップシークレットです!", "みんなが思ってるより 爆損してて… / 再挑戦できないくらいの 損失で…" (i0044); "国税の支払いが まだ残ってるん です…!", "2014年の やつが…!" (SP; the latter INF MOD); an inset reprising accepted V08 i0034: 「3,807,983」, "およそ380万円", "自己破産 出来たと しても / これだけは 絶対に 逃げられないのか…" (crop i0045); "だめだよ〜 あんまり 欲張ったら〜", fist 「ギュ…」 (i0045) | Kurumi: speech (fact of loss, exit, unpaid 2014 tax) and an inset reprising her V08 reckoning (figure, bankruptcy); Kizuna, Nana, Inago | Disclose the amount and the bankruptcy or conceal → conceals; accepts Kizuna's lecture | Inago imagines about 10万 (TH, i0044); colleagues know she still owes 2014 tax; Kurumi keeps the 1億 and the bankruptcy | Fist INF MOD Kurumi's; the 2017 tax balance is not printed. E019–E021; C015 |
+| FXK-V10-D013 | 第47話 / i0046–i0047 | "ちなみに きずなさんは / 資産いくら 持ってるん ですか?" (Kurumi); "…やっぱり くるみちゃんは 変わってるよね〜" (i0046); SCR 「現在の総資産 / 目標達成率100% / ¥10,011,927 / 達成!」; "ちょうど今日 / 純資産 1000万 超えました〜♡"; CAP 「きずな 保有金融資産 10,011,927円」 (crop i0047) | Kizuna's asset app; the table | Show or refuse → shows ("別に減るもんじゃ ないし〜") | Kizuna's wealth public | Three terms kept (総資産 / 純資産 / 保有金融資産). E022; C016 |
+| FXK-V10-D014 | 第47話 / i0048–i0051 | Kurumi (TH): "私も一度は 作ったことは あるんだけど / それが大金 だったと / 失ってから 気づいた", memory "こんな 端金[?] いらない" (crop i0048); board 10万×5% = 5,000 / 1,000万×5% = 50万; "億の世界にだって—— 意識した こともある"; "たまたま ハイレバFXで 上手くいったから"; "もう一度 資産を作る ことはできる だろうか…?" (i0049); "もう一度 相場の世界で 戦える だろうか?" (i0050); "1000万円 なんてそんな 珍しくも ないよ〜♡" (Kizuna, i0050); Inago (TH): "今は仕事 がんばらなきゃ!" (i0051) | Kurumi, thought; Kizuna, Inago, speech | Return to the market or not → a question only | Self-assessment revised; no action | Memory = accepted V05 i0076 ("はした金", FXK-V05-C016); the hugged figure of i0049 UNRESOLVED (V10-U07). E023–E024; C016–C017 |
+| FXK-V10-D015 | 第47話 / i0052–i0056 | NP: 「定義だけを 見れば / 単なる金銭の 操作に すぎない」, 「ただし / 人が その行為に 踏み出すとき / その 根底には / 必ず / 欲望が 存在する」 (i0052–i0053); 「新たな生活の始まりを告げたこの日 彼女たちにまかれた欲望の種は それぞれ違う形で 静かに発芽のときを待っていた」 (i0053–i0056); "萌智子〜? 飲み会終わったよ〜" (i0054); taxi, train, walk (i0054–i0055) | Narrator; four departures | — (presentation) | The volume's design named | EVAL HIGH. E025; C018 |
+| FXK-V10-D016 | 第47話 / i0056–i0060 | Mother: "社会人面 するなら 家にお金入れる くらいしたら?", "おもちゃばっか 買ってるくせに" — Nana: "おもちゃ じゃない!" (i0057); 「NaNa's Room」; self-voiced "ななちゃんには 俺がいるだろ?" (i0059); wall scroll 「綺羅 メイ」 (crop i0060); "投資なんて 怖いこと / しなくて いいよね?" (i0060) | Nana at home; her mother (INF MOD-HIGH) | Invest or not (privately) → not, soothed by the idol | Nana's spending object and private fear revealed | Contradiction with i0042 (V10-U08). E026; C019 |
+| FXK-V10-D017 | 第48話 / i0061–i0063 | CAP 「2017年 4月7日 金曜日——」 (i0061); homemade bento (i0061); "もう投資 始めた〜?" — "毎日 聞かれても 困ります" (i0062); 「講報堂」 「日本一の 広告 代理店」 (i0062); "いや 零細だけど?", "くるみ 留守番 お願いね" — "了解〜 いってらっしゃ〜い" (i0063) | Kizuna (daily recruiting, SR); Nana; Mochiko; Kurumi | Nana yields or refuses → refuses; Mochiko and Kizuna leave on business | Kurumi left in charge | Kizuna's motive stated as companionship; no gain to her shown. E027–E028; C020, C004 |
+| FXK-V10-D018 | 第48話 / i0064–i0065 | "きずなさんは 善意で 勧めてると 思うよ? / 飲み会で 話してたことも 間違っては ない… と思うし…" (Kurumi, i0064); "宗教の 勧誘ですよ あれは", "福賀さんも 敵なんですか?" (i0064); "FXが 地獄のコンテンツ ってこと…!" — "そういう ことではないの ですが…" (i0065) | Kurumi, Nana; speech | Kurumi sides with Nana or Kizuna → Kizuna, hedged | Nana's source of knowledge set up | E029; C021 |
+| FXK-V10-D019 | 第48話 / i0066–i0073 (flashback) | CAP 「2013年 11月5日——」 (crop i0066); "あたし / 今日から FX始めるわ!", "一生フリーターで 貧乏人に なるかも" (i0068); Nana declines "難しそう だし…" (i0069); CAP 「2013年 11月14日——」, "1週間で / 3万円 稼げた…!" (i0070); axis 159.8–160.1 (crop i0071), "天井タッチ!" (i0071); "3枚売り 発射!", "158円で 利確すりゃ 6万円" (i0072); "羨ましいなぁ" (Nana, i0072) | Yasuko and Nana, 2013; Yasuko's SR; screen | Join or not (Nana) → declines; take the early profit or escalate (Yasuko) → a short at the "ceiling" | Nana envies; Yasuko's stake grows | 1枚 units not printed; CALC conditional. E030–E032; C022 |
+| FXK-V10-D020 | 第48話 / i0074–i0080 (flashback → present) | Axis 156.000–166.000, rise to ~164 (crop i0074); CAP 「2013年 12月3日——」; "あたしの / 全財産…", ladder 169.0–169.2 (i0075); 「強制ロスカットのお知らせ」「証拠金維持率が100%…」; "これが 強制ロスカット ってやつか…"; a black candle below 169.0, "あたしを… / 殺すためだけに 上げたのか…!?" (i0076); "殺人通貨!!", no job-hunting (i0077); "FXネタで ブログ書けば…" (i0078); 「FX堕天使 あふぃちゃん」 (i0079); "あんな やす子ちゃん 見たくなかったな…" (i0080) | Yasuko (broker's notice; SR); Nana witness | Cut the loss or hold → held until forced liquidation | Yasuko's 2013 ruin; the affiliate persona born; Nana's aversion explained | Loss unprinted; the 2014 blogger of V01–V02 given an origin. E033–E035; C022 |
+| FXK-V10-D021 | 第48話 / i0080–i0084 | "連載決まったんだって!" (Kurumi, i0080); "先生って呼んだら 怒られちゃって…" (i0081); Nana (TH): "やす子ちゃんは特別…!", "それに引きかえ / 私は——" (i0081); SCR 「ばなな🍌 @nana_mei_luv」, bio "同担◎他担も大歓迎です" (crop i0082); "これってマウントですよね?", "ニワカめ…" (i0083); 「同担監視リスト」 「617件のアカウント」, "きっしょ…!", "クッソどうでもいい" (i0084) | Kurumi (reported fact); Nana thought; screens | — | Yasuko's success; Nana's self-devaluation and covert contempt | E036–E037; C023–C024 |
+| FXK-V10-D022 | 第48話 / i0085–i0088 | CAP 「2017年 4月8日 土曜日——」 (i0085); "ずっと出版社に缶詰めされてたんだよ…" (i0086); "確認作業とか10回以上してるよ", "ダメ人間ってこともバレちゃいそうで…" (i0087); "萌智子の影響だっけ" — "うん…" (i0087); "やす子ちゃんにもちもち企画を紹介されて / 脱ニートしたんだから" (i0088); "萌智子は… ちゃっかりだと思うけどな", "ズル賢いっつーか" (i0088) | Nana, Yasuko; SR | — | V09-U15 RESOLVED (Nana the NEET acquaintance) | Editor unnamed (V10-U15). E038; C025 |
+| FXK-V10-D023 | 第48話 / i0089–i0096 | "最近毎日投資しようって誘ってきて…" (i0089); "FXはやめとけよ / あれこそただのストレス発生装置だから!" (i0090); "株とかならアリ / あたしもやってるし", "去年の秋からだよ" (i0091); 「プラッパー新連載!!」 「重力ウサギ!」 (crop i0092); "「カドサワ」の株買ったんだ", "応援の気持ちでな!", "株主なら打ち切りされないかも", "現物取引だから強制ロスカもないし" (i0092); "ダンぷり関連の株", "「カリフラワー」だよな?" (i0093); puzzle montage (i0094–i0095); "株のこと / 詳しく教えて" (i0096) | Yasuko SR; Nana | Nana keeps refusing or learns → asks to learn | Nana moves toward stocks | Yasuko recommends by affinity. E039–E040; C026–C027 |
+| FXK-V10-D024 | 第49話 / i0097–i0103 | 「ダンぷり」 2010 / 2011 / 2012 (i0097–i0098); "異例の経済圏", "メイ君に出会って 7年" (i0099); e-mail "口座が開設されました" (crop i0100); "高次元の推し活", "キャラを超越し母体そのものを応援!" (i0101); news 「シャイニーダンシング 2017年配信決定!」, "開発:KaniGames" (i0102); "3000%成功する!" (i0103); SCR 「四菱商事銀行」 「100,000円」 「手数料 0円」; CAP 「なな 証券口座残高 100,000円 (+100,000円入金)」 (crop i0103) | Nana (narration; screens) | Invest for return or for rank → rank ("格") and support | Account opened (executed); 100,000円 deposited (executed) | Broker unnamed (F01-9, F03-5). E041–E043; C028 |
+| FXK-V10-D025 | 第49話 / i0104–i0107 | "カリフラワーの株価は現在705円"; box 「705円×100株(1単元)=70,500円」; 前場 「午後9時〜11時30分」 (sic) (crop i0104); "推し買い発射…!" → 「エラー」 「売買単位:1000株」 (現物買 100株 成行 当日中) (i0105); NP unit history 2001–2017 (i0106), "100株統一が実現するのは / 2018年10月のことである" (i0107); "1単元買うのに約70万円" , "貯金全部突っ込めば / 買えなくはないけど…" (i0107) | Nana (hearsay from Yasuko; screens); narrator | Buy 100 → rejected; buy 1,000 (~70万) all-in or not → undecided | Information error exposed; dilemma | CALC 705 × 1,000 = 705,000. E044; C029 |
+| FXK-V10-D026 | 第49話 / i0108–i0110 | CAP 「4月21日 金曜日——」; SCR 「現在の総資産 / ¥10,178,597 / 前回+¥166,670」 (i0108); "自分の存在を / 確かめるための / ルーティン——" (i0109); table 「20代 金融資産保有額」 (i0109); "上位1%には / 届いていない——", "こんな成績じゃ / ただの凡人止まりだわ" (i0110) | Kizuna (narration; app) | — | Gain experienced as insufficiency | CALC +166,670 ✓; table sums 98.4%. E045; C030 |
+| FXK-V10-D027 | 第49話 / i0111–i0114 | 「(株)もちもち企画 Mochi Mochi Planning Inc.」 (i0111); soy latte "イソフラボン入りのアンチエイジング" (i0111); "ちょっと / いじめたくなっちゃう♡" (Kizuna, TH, i0112); "きずなさんソイラテでよかったですよね?", raccoon mug (i0113); "為替見てますか?" (crop i0113, axis unreadable); "今ってなにかアツい相場あります?" (i0114); Kizuna (TH): "よっぽど下手クソなんだろうな…" (i0114) | Kurumi (speech); Kizuna (thought) | Kurumi probes the market or not → probes | Kurumi's curiosity met by private contempt | E046; C031 |
+| FXK-V10-D028 | 第49話 / i0115–i0121 | NP: 「2016年6月」, Brexit, EU history (i0115–i0116); 「投票率…72% 離脱支持…51.9% 残留支持…48.1%」 (i0117); chart 160.0 → 135.0; 「講報堂」; Kizuna 「にやぁ…」 (i0118); "あのときは大儲けさせてもらったなぁ〜" — "ポンド売り…!?" — "まぁねぇ〜" (i0119); "ユーロ圏荒れると思う", "フレグジットにならなくても / 世論がちょっとそっちに傾くだけで" (i0119–i0120); "ユーロは / 大暴落する" (i0121); Kurumi: "チャート的には上昇モードに入ってるような…"; "くるみちゃん浅いな〜 / だからこそ売りなのにぃ〜" (i0121) | Narrator; Kizuna SR; Kurumi's chart reading | Heed the uptrend or sell on the story → sell (next row) | Kizuna's instrument identified as FX | Election outcome never stated (V10-U02); EXTERNAL excluded. E047–E048; C032 |
+| FXK-V10-D029 | 第49話 / i0122–i0124 | "ユーロドル30枚売り / 発射ぁ〜♪"; CAP 「EUR/USD 1.07230 30枚売り」, 「きずな FX口座残高 3,972,290円」 (crop i0122); "いや仕事をしろよっ…!!!" (Nana, TH); "今回の売り全然怖くないもん", "100万円くらいは利益", "織り込み済み", "事実売り" (i0123); "こんな割のいい勝負 / やらないほうがおかしい", "さっさと行動しなきゃ" — Kurumi: "そ…そうかもですね〜…" (i0124) | Kizuna, Fri 21 April, office; Kurumi, Nana, Inago present | No trade, small, or 30枚 short over the weekend vote → 30枚 short (executed) | An open EUR/USD short held over an event weekend | Units per 枚 unprinted; no stop mentioned. E049–E050; C033–C034 |
+| FXK-V10-D030 | 第49話 / i0124–i0128 | "失敗して / 大損すればいいのに…!", 「貯蓄残高:0円(生活苦)」 (fantasy), "当日は大損するのを「監視」するのも悪くないかな…" (i0125); passbook 「734,877円」 (crop i0126); "投資でそういうことをするのは / たぶんあまり… / よくない…" (i0126); imagined メイ "賢い選択をしようぜ" (i0127); 「開発:Kani Games」, "いったんカニで稼げばいいんだね…?" (i0128) | Nana, thought; passbook | Go all-in on カリフラワー or not → a proxy (the developer) | Schadenfreude planned; concentration avoided | CALC 834,877 − 100,000 = 734,877 ✓. E051–E052; C035–C036 |
+| FXK-V10-D031 | 第50話 / i0129–i0135 | CAP 「4月22日 土曜日——」; 「Kani」 736, ">2000円 何度か" (i0129); "株価3倍は狙えるはず", "本命の銘柄 / カリフラワー" (i0130); boxes 「銀行口座 残高434,877円 (300,000円出金)」 → 「証券口座 残高400,000円 (追加入金300,000円)」 → 「Kani購入予定金額 736円×500株 =368,000円」 (crop i0132); "貯金は半分くらい残しておけば" (i0132); 「732,000」 (i0133); "カニ / 500株 / 現物…!!" (i0134); 「注文受付(現物買) / 翌営業日発注分としてご注文を受け付けいたします。」 (i0135) | Nana at home; boxes; screens | 500 shares cash with half kept, or more → 500 cash | Order submitted and accepted | Transfer execution MOD (INF MOD-HIGH from the fill); order type not shown. E053–E054; C036–C037 |
+| FXK-V10-D032 | 第50話 / i0136–i0143 | CAP 「4月24日 月曜日——」; board ask 741 / bid 740, deltas (crops i0136, i0137); 「8:50」; "ドキドキしてきた…"; "フランス大統領選挙の結果を / 監視するの忘れてた…" (i0138); 「ユーロドル リアルタイムチャート」 (i0139); gap ~1.07 → ~1.086–1.091 (crop i0140), "バチが当たったんだ!", "いくら負けたんだろう…?" (i0140); Kizuna calm, "なんか悔しい…" (i0141); 「Kani 500株@741 現物買い 約定しました」 9:01 (i0142); CAP 「なな Kani 741円 500株現物買い」, "これで投資家デビュー…", Kurumi watching (i0143) | Nana at her desk; Kizuna; Kurumi behind | — | Nana's buy executed (370,500, CALC); Kizuna's outcome withheld | No result of the short or the election (V10-U01, U02). E055–E057; C037–C038 |
+| FXK-V10-D033 | 第50話 / i0144–i0146 | Kani ~744 → ~722 → ~725 (i0144); CAP 「評価損益 −8,000円」 「Kani 現在値725円」 (i0145); "ばななちゃん投資始めてたんだね! / 今日ずっとチャート見てたでしょ?" — 「ギクッ」 — "休憩中にちょっと見ただけですよっ!" (i0145); "仲間が増えて / 嬉しいよ〜"; "私も / 聞きたいなっ!" / "株はまだまだ / 勉強中だし!" (INF MOD-HIGH Kurumi); "…ダンぷりの / アプリ作ってる / 会社ですけど / なにか?" (i0146) | Nana; Kurumi (observation of Nana); Kizuna | Nana discloses the name or not → company type only | Nana's investing known at the office | CALC −8,000 ✓; the denial is undercut by Kurumi's "今日ずっと" and the flinch, working hours not printed; attribution re-opened in drafting and reconciliation. E058–E059; C037, C039 |
+| FXK-V10-D034 | 第50話 / i0147–i0156 | 「キャラクター一覧」 (i0148); "決してオタクなどではありませんので" (i0148); "投資家として / アンテナ広いのは偉い" (i0149); "お父さんみたいでカッコいい…" / "お父さんみたいってのはわかるかも!" (i0151); "絶対この中で一番お金持ってるでしょ〜" (i0152); "浅すギる理解デ / メイくんヲ語るナ…!", 「綺羅財閥」 (i0153); "私もカリフラワー買ってみようかな〜", "アリな気がしますね" (Kurumi), "ファンにしかわからない爆上げネタ" (i0154; Kizuna clicking at her PC after "あ そうだ", i0153; Nana's inner "私はまだカリフラワー株買えてないんですけど…?"); "買うなら5000株くらいかな〜" — "それっていくらくらいです?" (unanswered); "お金の暴力で / 私のメイくんを取らないで…!" (i0155); "それだけは / やめてください…!" — "え… / なんで?"; 「TO BE CONTINUED...」 (i0156) | Kizuna, Nana, Kurumi, Inago; Mon 24 April evening | Kizuna buys or not (unresolved); Nana objects aloud or not → objects | Volume ends on the plea; Kizuna apparently believes Nana holds カリフラワー (INF MOD) | Cost unprinted; Nana named only "the company that makes the ダンぷり app" (i0146); Kizuna's route to the name unshown (V10-U03). E060–E062; C040–C042, C070 |
+| FXK-V10-D035 | W01 / V10 / i0041, i0047, i0103–i0109, i0122, i0126, i0132–i0145 (analyst arithmetic) | Printed operands: 834,877; 100,000; 734,877; 300,000; 434,877; 400,000; 705; 736; 741; 725; 2,200; 500; 1,000; 10,011,927; 10,178,597; 166,670; 3,972,290; board quotes; 51.9 / 48.1 | Analyst arithmetic | — (outcome record) | 834,877 − 100,000 = 734,877 ✓; −300,000 = 434,877 ✓; 100,000 + 300,000 = 400,000 ✓; 736 × 500 = 368,000 ✓; 741 × 500 = 370,500; (2,200 − 736) × 500 = 732,000 ✓; (725 − 741) × 500 = −8,000 ✓; 705 × 1,000 = 705,000 ≈ "約70万円" ✓; 10,178,597 − 10,011,927 = 166,670 ✓ | ANALYST CALCULATION; not computed: Yasuko's loss, Kizuna's yen exposure or P/L, the cost of 5,000 カリフラワー shares on 24 April. §F.9; C045 |
+| FXK-V10-D036 | 第46–50話 / i0033, i0040, i0050, i0072, i0076, i0084, i0105, i0122, i0125, i0135, i0140 (pattern record) | "発射" (Yasuko i0072; Nana i0105, i0135; Kizuna i0122); "羨ましいなぁ" (Nana 2013, i0072) / "羨ましいな…" (Kurumi 2017, i0040); "天井タッチ!" and liquidation at the top (i0071–i0076) / Kizuna's sell against "上昇モード" (i0121–i0122) and the gap (i0140); "監視" (「同担監視リスト」, i0084; Kizuna's loss, i0125, i0138); the candlestick vortex (V09 i0130; V10 i0050); chapter joins sharing an opening (i0028|i0029, i0060|i0061, i0096|i0097, i0128|i0129) | Pages across the volume and accepted V09 | — (pattern record) | The founding mechanisms re-staged on others; Kurumi as witness | Designed echoes EVAL MOD-HIGH on form. E013, E017, E023, E032–E033, E037, E049, E051, E056; C001, C044 |
 
 When it matters, carry amount, sign, denomination, unit and state as printed, retaining how each value was derived. Record action status only where evidenced. A speaker’s intention, chart on a page and later resulting balance have different authority. Give directed changes their own rows if reciprocity or disagreement matters. Keep comparisons across distinct episodes and significant form choices directly retrievable.
 
@@ -2156,12 +2192,230 @@ A row marked "independent prospect" was frozen in the specialist's own lane. In 
 | FXK-V09-F178 | B9-F02-D2 One of i0166–i0169 carries 「共生」 or the volume number 9 (Agent B; MOD) | Agent B F02 CLOSING (10:46:11, before the deferred inputs were opened) | 「9」 on the i0166 spine; 「9巻」 on i0168; 「共生」 not seen | CONFIRMED; independent prospect (apparatus) |
 | FXK-V09-F179 | B9-F02-D3 None of the deferred inputs contains main-narrative story pages (Agent B; MOD-HIGH) | Agent B F02 CLOSING (10:46:11, before the deferred inputs were opened) | covers, flap, jacket, an explicit 番外編 bonus comic and an essay strip | CONFIRMED; independent prospect (apparatus) |
 | FXK-V09-F180 | B9-F02-D4 A deferred input depicts 酒田いなご or 月森きずな (Agent B; LOW-MOD) | Agent B F02 CLOSING (10:46:11, before the deferred inputs were opened) | the i0166 collage reprints Inago's black-company panel and Kizuna's grin (reconciliation reading copy) | CONFIRMED; independent prospect (apparatus) |
+| FXK-V10-C001 | V10's governing thesis: the market moves from Kurumi's body to her workplace; the narrator sows "欲望の種" in four women and the volume watches three uses of money for selfhood — Kizuna's net worth as existence ("自分の存在を確かめる", "凡人止まり"), Nana's shares as fandom rank ("高次元の推し活", "私のメイくん"), Inago's inherited suspicion ("騙された いなごは 喰われて おしまいさ") — while Kurumi, the only one at that table who has lived the outcome, conceals its scale, rehearses the return as a question and is left asking the price of another's bet; the founding mechanisms (early win, ceiling call, liquidation at the top; a contrarian short against the trend) are re-staged on others (principal) | Principal's page record and STATE; F01–F05; MAIN_EXIT | i0033–i0035, i0040, i0042–i0050, i0052–i0056, i0068–i0076, i0100–i0101, i0109–i0110, i0121–i0124, i0140–i0143, i0146, i0152–i0156 | NEW; EVAL on OBS HIGH; design EVAL MOD-HIGH; V10 reading §D.1 |
+| FXK-V10-C002 | Competing thesis: a workplace-and-fandom comedy that uses the market for gags and lessons, keeps consequences small or offstage (−8,000円; an unresolved short), domesticates investing as cash stocks, pauses Kurumi's arc and defers outcomes (principal) | As C001 | i0092, i0106–i0107, i0115–i0118, i0141, i0144–i0145, i0155 | NEW; OPEN (live); V10 reading §D.2 |
+| FXK-V10-C003 | The opening at 18:40 ("納期"); the strip 「第10集 株式取引」; office sleeping as a "趣味" (principal) | Page record | i0003, i0006–i0007 | NEW; SCR/SP HIGH; reason UNRESOLVED; E001–E002 |
+| FXK-V10-C004 | Kurumi and Mochiko at work: "萌智子〜… じゃなかった / 社長〜"; the crunch and "領収書だけ"; "いや 零細だけど?"; "くるみ 留守番 お願いね" (principal) | Page record | i0009–i0010, i0054, i0063 | NEW; SP HIGH; E003, E028 |
+| FXK-V10-C005 | Yasuko's harsh editorial call ("1ミクロンも 面白くない", "明日までに 直します") (principal) | Page record | i0010–i0011 | NEW; SP HIGH; caller INF MOD; E004 |
+| FXK-V10-C006 | The party: company money, a past "30万" outing, the seating gag, introductions and tenure (principal) | Page record | i0012–i0016 | NEW; SP HIGH; E005–E007 |
+| FXK-V10-C007 | Inago's self-account ("何者にも なれなかった"); Kizuna's "人生 つまんなそ〜"; Kurumi's "ちょっと 残念な人生" (principal) | Page record | i0017–i0020 | NEW; SR HIGH; E008 |
+| FXK-V10-C008 | Kizuna's 10億 goal, "自・由・億!", "経済的自由", recruiting Inago (principal) | Page record | i0021–i0025 | NEW; SR HIGH; E009 |
+| FXK-V10-C009 | Kurumi: "私も 欲しいです / お金"; "投資 / ですよね?" (principal) | Page record | i0026–i0028 | NEW; SP HIGH; E010 |
+| FXK-V10-C010 | 1億 framed as realistic: the survey pyramid (約121万世帯; "2%以上"), "クラスで1番" (principal) | Page record | i0029–i0032 | NEW; SP/NP HIGH; survey as printed; E011–E012 |
+| FXK-V10-C011 | Kurumi's warning "その逆も あるって" and the vision of a winged Kurumi soaring into a debris vortex (principal) | Page record; crop i0033 (re-viewed in drafting) | i0033 | NEW; SP/OBS HIGH; the figure ≠ V09's small winged girl by design (INF MOD); E013 |
+| FXK-V10-C012 | Inago's mother's warning against "儲け話" (principal) | Page record | i0033–i0034 | NEW; SP HIGH; E014 |
+| FXK-V10-C013 | The dramatic irony of "投資で1億円 負けなんて ありえない" beside the silent Kurumi (principal) | Page record | i0035 | NEW; SP HIGH; EVAL HIGH; E015 |
+| FXK-V10-C014 | The 「保有金融資産」 captions (42,175; 834,877; 22,963; 10,011,927) as a narrator's device of comparison (principal) | Page record; crops i0036, i0041, i0043, i0047 | i0036, i0041, i0043, i0047 | NEW; CAP HIGH; EVAL MOD-HIGH; E016, E018, E019, E022 |
+| FXK-V10-C015 | Kurumi's partial disclosure: FX as a student, "…はい" (not trading), "退場", "最高機密", "爆損"; the unpaid 2014 tax said aloud ("2014年の やつが…!", INF MOD spoken); the V08 figure (3,807,983) and "自己破産" only in an inset reprising V08 i0034; assent to "欲張ったら" (principal) | Page record; crops i0043, i0045; reading copies i0044, i0045 re-opened in reconciliation | i0042–i0045 | NEW; SP/TH HIGH; revised in reconciliation (reviewer C-02); E019–E021 |
+| FXK-V10-C016 | Kizuna's ¥10,011,927 ("純資産 1000万 超えました〜♡") and public modesty ("珍しくも ないよ〜♡") (principal) | Page record; crop i0047 | i0046–i0047, i0050–i0051 | NEW; SCR/CAP/SP HIGH; E022, E024 |
+| FXK-V10-C017 | Kurumi's inner retrospect: "それが大金 だったと / 失ってから 気づいた"; "たまたま ハイレバFXで"; no-leverage reflection; "もう一度 相場の世界で 戦える だろうか?" (principal) | Page record; crop i0048 | i0048–i0050 | NEW; TH HIGH; E023 |
+| FXK-V10-C018 | The narrator's sentence: at the root of asset management "必ず / 欲望が 存在する"; the seeds sown "この日" (principal) | Page record | i0052–i0056 | NEW; NP HIGH; E025 |
+| FXK-V10-C019 | Nana at home: household-money contradiction (i0042 vs i0057); merchandise of 綺羅メイ; self-voiced role-play; "投資なんて 怖いこと" (principal) | Page record; crop i0060 | i0056–i0060 | NEW; SP/OBS HIGH; contradiction INF MOD; E026 |
+| FXK-V10-C020 | Kizuna's daily recruiting ("もう投資 始めた〜?"); ex-「講報堂」; companionship as stated motive (principal) | Page record | i0061–i0062 | NEW; SR HIGH; no gain to her shown; E027 |
+| FXK-V10-C021 | Kurumi defends Kizuna ("善意"); Nana: "宗教の 勧誘", "FXが 地獄のコンテンツ" (principal) | Page record | i0064–i0065 | NEW; SP HIGH; E029 |
+| FXK-V10-C022 | Yasuko 2013: FX from fear of poverty; +3万 in a week; "天井タッチ!"; 3枚 short at ~160; rise to ~169; forced liquidation; the fall after; "殺人通貨!!"; 「FX堕天使 あふぃちゃん」 (principal) | Page record; crops i0066, i0071, i0074 | i0066–i0080 | NEW; CAP/SCR/SP HIGH; loss unprinted; E030–E035 |
+| FXK-V10-C023 | Yasuko's serialization decided; dislike of 先生; Nana's "それに引きかえ 私は——" (principal) | Page record | i0080–i0081 | NEW; SP/TH HIGH; E036 |
+| FXK-V10-C024 | Nana's fan persona (「ばなな🍌 @nana_mei_luv」, "同担◎") against a locked 「同担監視リスト」 of 617 accounts (principal) | Page record; crop i0082 | i0082–i0084 | NEW; SCR/TH HIGH; E037 |
+| FXK-V10-C025 | Nana an ex-NEET who joined through Yasuko; an office persona modelled on Mochiko; Yasuko's "ちゃっかり", "ズル賢い" (principal) | Page record | i0085–i0088 | NEW; SR HIGH; E038 |
+| FXK-V10-C026 | Yasuko's doctrine: "FXは やめとけよ"; stocks since autumn 2016; 「カドサワ」 shares as support and superstition; "現物取引だから 強制ロスカも ないし" (principal) | Page record; crop i0092 | i0089–i0092 | NEW; SR HIGH; no figures; E039 |
+| FXK-V10-C027 | Nana's decision as social assembly (the puzzle of cues); "株のこと / 詳しく教えて" (principal) | Page record | i0093–i0096 | NEW; OBS/SP HIGH; E040 |
+| FXK-V10-C028 | The Dan-puri economy; the account opened; "高次元の推し活"; the app news; "3000%"; the 100,000円 deposit (principal) | Page record; crops i0100, i0103 | i0097–i0103 | NEW; SCR/SR HIGH; E041–E043 |
+| FXK-V10-C029 | The 100-share order rejected (unit 1,000); the narrator's unit history and "2018年10月" prolepsis; "約70万円" (principal) | Page record; crop i0104 | i0104–i0107 | NEW; SCR/NP HIGH; E044 |
+| FXK-V10-C030 | Kizuna's net-worth ritual (¥10,178,597; +¥166,670); "上位1%には / 届いていない"; "凡人止まり" (principal) | Page record | i0108–i0110 | NEW; SCR/SR HIGH; E045 |
+| FXK-V10-C031 | The office morning: Inago's soy latte; Kizuna's "いじめたくなっちゃう♡"; Kurumi serves and asks "為替 見てますか?", "アツい相場"; Kizuna's "よっぽど 下手クソ" (principal) | Page record; crop i0113 | i0111–i0114 | NEW; SP/TH HIGH; E046 |
+| FXK-V10-C032 | The Brexit exposition; Kizuna's 2016 "大儲け" ("ポンド売り" — "まぁねぇ〜"); the Frexit thesis; "ユーロは 大暴落する"; Kurumi's uptrend warning (principal) | Page record | i0115–i0121 | NEW; NP/SP HIGH; instrument by Kurumi's inference; E047–E048 |
+| FXK-V10-C033 | Kizuna's EUR/USD 30枚 short at 1.07230 and FX balance 3,972,290円 (principal) | Page record; crop i0122 | i0122 | NEW; CAP HIGH; units per 枚 unprinted; E049 |
+| FXK-V10-C034 | Kizuna's scenario logic ("100万円くらい"; "織り込み済み"; "事実売り"), "さっさと行動"; Kurumi's "そ…そうかもですね〜…" (principal) | Page record | i0123–i0124 | NEW; SP HIGH; E050 |
+| FXK-V10-C035 | Nana's Schadenfreude and planned surveillance of Kizuna; frustration at her calm (principal) | Page record; reading copy i0125 (re-opened) | i0124–i0125, i0138–i0141 | NEW; TH HIGH; E051, E056 |
+| FXK-V10-C036 | Nana's concentration doubt (passbook 734,877円); the imagined メイ; the pivot to Kani Games; "×3" and the two-stage plan (principal) | Page record; crop i0126 | i0126–i0131 | NEW; TH/DOC HIGH; E052–E053 |
+| FXK-V10-C037 | The Kani plan (boxes 434,877 / 400,000 / 368,000), the order (next business day), the fill (500@741, 9:01) and −8,000円 at 725 (principal) | Page record; crops i0132, i0136, i0137 | i0132–i0145 | NEW; SCR/CAP HIGH + CALC; transfer execution MOD; E054–E058 |
+| FXK-V10-C038 | Monday's withheld outcomes: a gap up on Nana's screen, Kizuna's calm, no result of the short, no worded election result (principal) | Page record; crop i0140 | i0138–i0141 | NEW; SCR/OBS HIGH; EVAL HIGH; E056 |
+| FXK-V10-C039 | Kurumi as witness: watches Nana's screen; "株はまだまだ 勉強中だし!" (INF MOD-HIGH hers); "アリな気がしますね"; "それって いくらくらい です?" (principal) | Page record; reading copy i0146 (re-opened) | i0141, i0143, i0145–i0146, i0154–i0155 | NEW; SP HIGH; attribution INF MOD-HIGH; E057–E059, E062 |
+| FXK-V10-C040 | The fandom exposure at work; Kizuna's "投資家として / アンテナ広いのは偉い"; Inago's and Kurumi's father-figure preference (principal) | Page record | i0147–i0151 | NEW; SP/SCR HIGH; E060 |
+| FXK-V10-C041 | Kizuna reads persons by wealth ("一番お金持ってる"); Nana's gatekeeping ("記号的解釈") (principal) | Page record | i0152–i0153 | NEW; SP/TH HIGH; E061 |
+| FXK-V10-C042 | Kizuna's カリフラワー intention ("5000株くらい"; cost unanswered); Nana's plea "それだけは / やめてください…!"; "え… なんで?"; 「TO BE CONTINUED...」 (principal) | Page record | i0154–i0156 | NEW; SP HIGH; E062 |
+| FXK-V10-C043 | Knowledge map at V10's end (§I), including that Nana told her colleagues only the company type and that Kizuna apparently believes she holds カリフラワー (principal; revised in reconciliation, reviewer C-03) | Page record | §I | NEW; OBS HIGH |
+| FXK-V10-C044 | Page form: chapter joins sharing an opening; turns as reveals; screens for money, faces for weight; captions as a ledger; withholding (principal) | Page record; package page sides | §J | NEW; EVAL on OBS |
+| FXK-V10-C045 | Printed anomalies and unresolved values kept (前場 「午後9時」; swapped board labels; comma axis; 98.4%; "開ぐ"; platform text; three wealth terms) (principal) | Page record | §F.8 | NEW; OBS HIGH |
+| FXK-V10-C046 | Apparatus classified; paratext excluded; colophon five issues for five chapters; no inter-chapter separator; one back-matter separator (principal) | Page record; COMPONENT_MAP | §A.2 | NEW; OBS (paratext) |
+| FXK-V10-C047 | Ordinary-life evidence (§H) and time-line: Monday (INF 3 April 2017); 4/7; 4/8; 4/21; 4/22; 4/24 8:50–9:01 and evening; flashbacks 2013-11-05 / 11-14 / 12-03; retrospectives 2010–2017, 2012, 2016-06 (principal) | Page record | i0003, i0008, i0061, i0066, i0070, i0074, i0085, i0097, i0108, i0115, i0129, i0136 | NEW; CAP/SCR HIGH; first day INF MOD |
+| FXK-V10-C048 | Transition of FXK-V09-C001 (V09 governing thesis) (principal) | V09 reading §D.1 | Tax still owed (i0045); no trading (i0043); desire as envy and questions (i0040, i0050, i0114, i0155); control untested | STRENGTHEN (displacement strand); PRESERVE (debt/desire); V10 reading §M.8, C001 |
+| FXK-V10-C049 | Transition of FXK-V09-C002 (competing: restoration comedy displacing risk onto new characters) (principal) | V09 reading §D.2 | Risk borne by Yasuko (2013), Kizuna, Nana; Kurumi's arc paused (i0068–i0076, i0122, i0142–i0145) | STRENGTHEN; V10 reading §M.8, C002 |
+| FXK-V10-C050 | Transition of FXK-V09-C030 ("いつかは戻ってきたい… 相場が大好きだから") (principal) | V09 reading §M.9 | "もう一度 相場の世界で 戦える だろうか?" (i0050); "アツい相場" (i0114); INF "株はまだまだ 勉強中" (i0146); "再挑戦できないくらいの 損失" (i0044) | PRESERVE (qualified); V10 reading §M.8 |
+| FXK-V10-C051 | Transition of FXK-V09-C032 (the winged girl; "支配して コントロールしてみせる"; "いつか 必ず") (principal) | V09 reading §M.9 | No winged girl; no 支配/コントロール; the vortex with Kurumi alone (i0050); a winged Kurumi vision (i0033) | OPEN (untested); V10 reading §M.8 |
+| FXK-V10-C052 | Transition of FXK-V09-C074 and FXK-V02-C012 (the winged tempter as an aspect of Kurumi) (principal) | V09 reading §M.8 | Not drawn in V10; the i0033 figure is Kurumi herself winged, a different design | PRESERVE; V10 reading §M.8 |
+| FXK-V10-C053 | Transition of FXK-V09-C035 (Kurumi 【事務員】, sleeping at the office) (principal) | V09 reading §M.9 | "会社に 泊まるのが 趣味" (i0007); "事務と雑用", "入社1年目" (i0016); tea (i0113); "留守番" (i0063) | STRENGTHEN; V10 reading §M.8 |
+| FXK-V10-C054 | Transition of FXK-V09-C036 (Kizuna's falling chart and leer; motive UNRESOLVED) (principal) | V09 reading §M.9 | FX trader who sells short (i0119, i0122); flushed smirk at the Brexit crash (i0118); V09 chart's instrument still unknown | REVISE (INF MOD-HIGH a fall pleases her as a short-seller and as a thrill); V10 reading §M.8 |
+| FXK-V10-C055 | Transition of FXK-V09-C034 (the office; "誰でもよかったわけじゃない") (principal) | V09 reading §M.9 | No hiring reason given | PRESERVE; V10 reading §M.8 |
+| FXK-V10-C056 | Transition of FXK-V09-C027 (Yasuko: no FX; investing not ruled out) (principal) | V09 reading §M.9 | "FXは やめとけよ"; "株とかなら アリ / あたしもやってるし"; 「カドサワ」 (i0090–i0092) | STRENGTHEN; V10 reading §M.8 |
+| FXK-V10-C057 | Transition of FXK-V09-C024 (the tax survives; instalments) (principal) | V09 reading §M.9 | Still partly owed in April 2017 (SP, i0045); the amount outstanding is not printed; the inset reprises the V08 reckoning (3,807,983) | STRENGTHEN; V10 reading §M.8 |
+| FXK-V10-C058 | Transition of FXK-V09-C037 (knowledge map at V09's end) (principal) | V09 reading §I | V10 §I | REVISE (superseded by FXK-V10-C043) |
+| FXK-V10-C059 | Transition of FXK-V09-C042 (time-line) (principal) | V09 reading §M.9 | V10 dates (C047) | REVISE (extended by FXK-V10-C047) |
+| FXK-V10-C060 | Transition of FXK-V09-C075 (共生 as workplace symbiosis) (principal) | V09 reading §D.1, §L.7 | Two brief exchanges and a private call (i0009–i0010, i0054, i0063); Mochiko absent after i0063 | OPEN (no material test); V10 reading §M.8 |
+| FXK-V10-C061 | Transition of the V09 inference that Nana is Yasuko's 2015 NEET acquaintance (V09-U15; Nana's person entry) (principal) | V09 reading §M.7; ledger 善波なな entry | "やす子ちゃんに もちもち企画を紹介されて / 脱ニートした" (i0088) | STRENGTHEN (INF MOD → SR HIGH); V10 reading §M.7–§M.8 |
+| FXK-V10-C062 | Transition of FXK-V01-C009 (あふぃちゃん's given name is Yasuko; superseded by print in V02) (principal) | V01 reading; V02 update | 「FX堕天使 あふぃちゃん」 as Yasuko's own 2013 self-name (i0079); her 2013 "全財産" (i0075) stands beside the accepted V02 domestic FX account of 76,573円 (continuity) | STRENGTHEN (origin supplied); V10 reading §M.8 |
+| FXK-V10-C063 | Transition of FXK-V05-C016 (17 November: "はした金", "欲張ってなにが悪い") (principal) | V05 reading E025–E026 | The memory recalled and reversed: "それが大金 だったと / 失ってから 気づいた" (i0048) | REVISE (retrospect by the character); V10 reading §M.8 |
+| FXK-V10-C064 | Transition of FXK-V02-C001 (the lucky win as "呪い") (principal) | V02 reading | "たまたま ハイレバFXで 上手くいったから" (i0049) | STRENGTHEN; V10 reading §M.8 |
+| FXK-V10-C065 | Transition of FXK-V01-C010, FXK-V01-C011 and FXK-V03-C012 (stop rule; rewards; escalation after success) (principal) | V01, V03 readings | No trading by Kurumi; the pattern re-staged on Yasuko 2013 (i0070–i0076) | PRESERVE for Kurumi; the displaced test STRENGTHENS the pattern (EVAL); V10 reading §M.8 |
+| FXK-V10-C066 | Transition of the accepted V05 thread of Yasuko's manga (コミックプラッパー; 毒島☆寿美; FXK-V05-D022) (principal) | V05 reading and ledger | Serialization in 「プラッパー」 decided (i0080, i0092); the editor unnamed (i0086) | STRENGTHEN (advanced); V10 reading §M.8 |
+| FXK-V10-C067 | Transition of FXK-V09-C033 (第45話: Inago; 2017-04-03) (principal) | V09 reading §M.9 | "今日 月曜日" and her welcome party that evening (i0008, i0053) | STRENGTHEN; V10 reading §M.8 |
+| FXK-V10-C068 | Transition of FXK-V09-C008 (Mochiko's prediction that Kurumi returns to the market) (principal) | V09 reading §M.9 | Not fulfilled in V10; "もう一度…" (i0050) keeps it live | OPEN; V10 reading §M.8 |
+| FXK-V10-C069 | Transition of FXK-V07-C075 (no exploitation or gain shown by Mochiko) (principal) | V07 reading; V09 §M.8 | Mochiko barely present; Yasuko's "ちゃっかり / ズル賢い" (i0088) a peer's view, not an act | PRESERVE; V10 reading §M.8 |
+| FXK-V10-C070 | The last scene's information state: Kizuna, told only "the company that makes the ダンぷり app" (i0146), says "私もカリフラワー買ってみようかな〜" after "あ そうだ" while clicking at her PC (i0153–i0154), which Nana's inner "私はまだカリフラワー株買えてないんですけど…?" answers — Kizuna apparently believes Nana holds カリフラワー; her route to the name is unshown (principal, from reviewer C-03 and Agent B §e) | Reconciliation; reading copies i0146, i0148, i0154 re-opened | i0146, i0148, i0153–i0154 | NEW; SP/TH HIGH; belief INF MOD (alternative: "私も" = I too will buy a stock); route UNRESOLVED; V10 reading E062, §I, §L.9 |
+| FXK-V10-C071 | Kurumi's one trend call ("チャート的には上昇モードに入ってるような…", i0121) is borne out by the drawn Monday gap up (i0140); one instance, a chart reading rather than an election call; she says nothing of it (principal, from reviewer C-04 and Agent B B10-E04) | Reconciliation; own record i0121, own crop i0140 | i0121, i0140 | NEW; OBS HIGH; EVAL MOD; V10 reading G.1, §J |
+| FXK-V10-C072 | The four "発射" launches (Yasuko i0072; Nana i0105, i0135; Kizuna i0122) are each followed, within V10, by an adverse development: Yasuko's liquidation after a first favourable move (i0073–i0076), Nana's rejection (i0105), the gap against Kizuna's short with its outcome unshown (i0140), Nana's −8,000円 (i0145) (principal, qualifying Agent B f.11) | Reconciliation; own record | i0072–i0076, i0105, i0122, i0135, i0140, i0145 | NEW; OBS HIGH; design INF MOD; not "immediately" adverse in Yasuko's case; V10 reading §K |
+| FXK-V10-F001 | V10-EN-1 A 「第10集」 strip in the main narrative (principal; MOD-HIGH) | Entering state, 12:35:59 (file time; before any V10 page) | 「第10集 株式取引」 (i0003) | CONFIRMED |
+| FXK-V10-F002 | V10-EN-2 A separator page between two V10 chapters (principal; MOD-HIGH) | Entering state, 12:35:59 | Chapters begin on odd occurrences with a label box only (i0029, i0061, i0097, i0129); the one separator (i0157) follows the main narrative | DISCONFIRMED |
+| FXK-V10-F003 | V10-EN-3 Kurumi and Mochiko in person, each speaking a balloon to the other, present time (principal; MOD-HIGH) | Entering state, 12:35:59 | i0009–i0010; i0063 | CONFIRMED |
+| FXK-V10-F004 | V10-EN-4 Kurumi calls or names Mochiko 「社長」 (principal; LOW-MOD) | Entering state, 12:35:59 | i0009 (self-correction from "萌智子"), i0012 | CONFIRMED |
+| FXK-V10-F005 | V10-EN-5 Kurumi looks at a chart or trading screen on a device she holds or operates, present time (principal; MOD; ES) | Entering state, 12:35:59 | Only others' screens (Kizuna's phone i0047–i0048, monitor i0113; Nana's screen i0141, i0143) | DISCONFIRMED; RELAXED (another's screen): CONFIRMED; ES (out of calibration) |
+| FXK-V10-F006 | V10-EN-6 「爆益」 printed (principal; MOD) | Entering state, 12:35:59 | Only 「爆損」 (i0044) and 「爆上げ」 (i0154) in the page record | DISCONFIRMED (absence on the page record; residual uncertainty noted) |
+| FXK-V10-F007 | V10-EN-7 「自己責任」 printed (principal; LOW-MOD) | Entering state, 12:35:59 | Not in the page record | DISCONFIRMED (absence on the page record) |
+| FXK-V10-F008 | V10-EN-8 A panel draws Kurumi's mother (principal; MOD) | Entering state, 12:35:59 | No panel identifies her; the i0049 memory's long-haired figure (face hidden; a memory of trading success) UNRESOLVED (reading copy re-opened in drafting) | DISCONFIRMED |
+| FXK-V10-F009 | V10-EN-9 The father referred to in words or drawn, present time (principal; MOD) | Entering state, 12:35:59 | Kurumi's "お父さんみたいってのは わかるかも!" (i0151) concerns a father-like character | DISCONFIRMED; ALT (an allusion to her own father): CONFIRMED |
+| FXK-V10-F010 | V10-EN-10 A current yen amount ≥1,000,000 of a named character, present time (principal; MOD; ES) | Entering state, 12:35:59 | ¥10,011,927 "今日" (i0047); ¥10,178,597 (i0108); 3,972,290円 (i0122); the 3,807,983 inset (i0045) is a retrospective reprise of V08 and does not count (reconciliation) | CONFIRMED; ES (out of calibration) |
+| FXK-V10-F011 | V10-EN-11 A newly named fictional character in a present-time scene or document (principal; MOD; ES-P) | Entering state, 12:35:59 | Fans' screen-names (i0083–i0084); the in-world character 「綺羅 メイ」 (i0060, i0148) | CONFIRMED; STRICT (a new in-story person with a personal name): DISCONFIRMED; ES-P (out of calibration) |
+| FXK-V10-F012 | V10-EN-12 Kurumi doing clerical or caretaking work at the office, present time (principal; MOD-HIGH; ES-P) | Entering state, 12:35:59 | Serving soy latte (i0113), tray (i0119), minding the office (i0063) | CONFIRMED; ES-P (out of calibration) |
+| FXK-V10-F013 | V10-EN-13 Nana drawn working on drawing, design, animation or video, present time (principal; MOD) | Entering state, 12:35:59 | Typing and chart-watching only (i0007, i0119, i0125, i0136–i0142); i0125 re-opened in drafting | DISCONFIRMED |
+| FXK-V10-F014 | V10-EN-14 Yasuko drawing manga at the office (principal; LOW-MOD) | Entering state, 12:35:59 | At the office only on the phone (i0011) | DISCONFIRMED |
+| FXK-V10-F015 | V10-EN-15 A living cat with Mochiko present, present time (principal; LOW) | Entering state, 12:35:59 | A cat only in Kurumi's memory image (i0040) | DISCONFIRMED |
+| FXK-V10-F016 | V10-EN-16 A present-time scene dated 2018 or later (principal; LOW; ES, ES-P) | Entering state, 12:35:59 | Latest scene 「4月24日 月曜日」 (i0136); "2018年10月" a narrator's prolepsis (i0107) | DISCONFIRMED; ES/ES-P (out of calibration) |
+| FXK-V10-F017 | V10-EN-17 Kurumi shown or stated to sleep at the office, present time (principal; MOD) | Entering state, 12:35:59 | "会社に 泊まるのが 趣味なんだ!" (i0007) | CONFIRMED |
+| FXK-V10-F018 | Disposition of MX09-1 First chapter label 「第46話」 (V09 principal; HIGH) | V09 MAIN_EXIT, 10:56:59; links FXK-V09-F115 | i0005 | CONFIRMED |
+| FXK-V10-F019 | Disposition of MX09-2 First present-time page shows Inago, Nana, Kizuna or the office (V09 principal; MOD) | V09 MAIN_EXIT; links FXK-V09-F116 | i0003 | CONFIRMED |
+| FXK-V10-F020 | Disposition of MX09-3 The company's business stated in words (V09 principal; MOD) | V09 MAIN_EXIT; links FXK-V09-F117 | Deadlines, job titles, "零細", the English plate only (i0003, i0016, i0063, i0111) | DISCONFIRMED |
+| FXK-V10-F021 | Disposition of MX09-4 Trading or investing as part of the company's work (V09 principal; MOD; ES) | V09 MAIN_EXIT; links FXK-V09-F118 | Kizuna's FX on company time is personal ("仕事をしろよ", i0122) | DISCONFIRMED; ES |
+| FXK-V10-F022 | Disposition of MX09-5 Kurumi places an investment order (V09 principal; MOD; ES) | V09 MAIN_EXIT; links FXK-V09-F119 | None | DISCONFIRMED; ES |
+| FXK-V10-F023 | Disposition of MX09-6 Kizuna with a stated position, order or P/L (V09 principal; LOW-MOD; ES) | V09 MAIN_EXIT; links FXK-V09-F120 | 「EUR/USD 1.07230 30枚売り」 (i0122) | CONFIRMED; ES |
+| FXK-V10-F024 | Disposition of MX09-7 Inago trades, holds or opens an account (V09 principal; LOW-MOD; ES) | V09 MAIN_EXIT; links FXK-V09-F121 | None | DISCONFIRMED; ES |
+| FXK-V10-F025 | Disposition of MX09-8 A reason for hiring Inago (V09 principal; MOD) | V09 MAIN_EXIT; links FXK-V09-F122 | None | DISCONFIRMED |
+| FXK-V10-F026 | Disposition of MX09-9 Mebuki in present time, 2017+ (V09 principal; MOD) | V09 MAIN_EXIT; links FXK-V09-F123 | None | DISCONFIRMED |
+| FXK-V10-F027 | Disposition of MX09-10 The father in person, present time (V09 principal; LOW-MOD) | V09 MAIN_EXIT; links FXK-V09-F124 | None | DISCONFIRMED |
+| FXK-V10-F028 | Disposition of MX09-11 The winged girl appears (V09 principal; MOD) | V09 MAIN_EXIT; links FXK-V09-F125 | The i0033 figure is a winged Kurumi of different design (enlargement re-viewed); i0079 is Yasuko's self-image | DISCONFIRMED; ALT (any winged Kurumi-like figure): CONFIRMED |
+| FXK-V10-F029 | Disposition of MX09-12 A calendar date in 2017+ printed (V09 principal; MOD-HIGH; ES) | V09 MAIN_EXIT; links FXK-V09-F126 | 「2017年 4月7日 金曜日——」 (i0061) | CONFIRMED; ES |
+| FXK-V10-F030 | Disposition of MX09-13 破産 appears (V09 principal; MOD; ES) | V09 MAIN_EXIT; links FXK-V09-F127 | "自己破産 出来たと しても" (inner, i0045) | CONFIRMED; ES |
+| FXK-V10-F031 | Disposition of MX09-14 Kurumi's graduation shown or stated (V09 principal; LOW) | V09 MAIN_EXIT; links FXK-V09-F128 | Implied only ("入社1年目", i0016; "学生時代は", i0042) | DISCONFIRMED; RELAXED: CONFIRMED |
+| FXK-V10-F032 | Disposition of MX09-15 Yasuko's serialized work named or debut stated (V09 principal; LOW-MOD) | V09 MAIN_EXIT; links FXK-V09-F129 | 「重力ウサギ」 in 「プラッパー」 (i0080, i0092) | CONFIRMED |
+| FXK-V10-F033 | Disposition of B9-F02-1 Exactly five labels 第46–50話 (V09 Agent B; MOD) | V09 Agent B F02 CLOSING (10:46:11); links FXK-V09-F157 | i0005, i0029, i0061, i0097, i0129 | CONFIRMED; EXPOSURE-SENSITIVE (paratext); independent prospect (attributed) |
+| FXK-V10-F034 | Disposition of B9-F02-2 Kizuna's position with pair, size, rate or P/L (V09 Agent B; MOD; ES) | Agent B F02; links FXK-V09-F158 | i0122 | CONFIRMED; ES; independent prospect |
+| FXK-V10-F035 | Disposition of B9-F02-3 An instrument named at the office, present time (V09 Agent B; MOD) | Agent B F02; links FXK-V09-F159 | "ユーロドル", 「EUR/USD」 (i0122); 「Kani」 (i0142) | CONFIRMED; independent prospect |
+| FXK-V10-F036 | Disposition of B9-F02-4 Kurumi submits an order (V09 Agent B; LOW-MOD; ES) | Agent B F02; links FXK-V09-F160 | None | DISCONFIRMED; ES; independent prospect |
+| FXK-V10-F037 | Disposition of B9-F02-5 Kurumi still clerical; no trading role (V09 Agent B; LOW-MOD; QUALIFIED) | Agent B F02; links FXK-V09-F161 | i0016, i0113, i0119 | CONFIRMED; QUALIFIED (out of calibration); independent prospect |
+| FXK-V10-F038 | Disposition of B9-F02-6 Inago opens an account or trades (V09 Agent B; LOW-MOD; ES) | Agent B F02; links FXK-V09-F162 | None | DISCONFIRMED; ES; independent prospect |
+| FXK-V10-F039 | Disposition of B9-F02-7 Inago learns of the bankruptcy or the 1億 (V09 Agent B; MOD) | Agent B F02; links FXK-V09-F163 | Only FX, "退場", "爆損", unpaid tax (i0042–i0045) | DISCONFIRMED; independent prospect |
+| FXK-V10-F040 | Disposition of B9-F02-8 Mochiko's positive reason for hiring Inago (V09 Agent B; LOW-MOD) | Agent B F02; links FXK-V09-F164 | None | DISCONFIRMED; independent prospect |
+| FXK-V10-F041 | Disposition of B9-F02-9 Kurumi's 2014 tax mentioned (V09 Agent B; LOW-MOD; ES) | Agent B F02; links FXK-V09-F165 | i0045 | CONFIRMED; ES; independent prospect |
+| FXK-V10-F042 | Disposition of B9-F02-10 A yen figure for Kurumi's pay (V09 Agent B; LOW) | Agent B F02; links FXK-V09-F166 | None | DISCONFIRMED; independent prospect |
+| FXK-V10-F043 | Disposition of B9-F02-11 A trading-account balance, P/L, deposit or withdrawal in yen (V09 Agent B; MOD) | Agent B F02; links FXK-V09-F167 | i0103, i0122, i0145 | CONFIRMED; independent prospect |
+| FXK-V10-F044 | Disposition of B9-F02-12 Mebuki in present time (V09 Agent B; MOD; QUALIFIED) | Agent B F02; links FXK-V09-F168 | None | DISCONFIRMED; QUALIFIED; independent prospect |
+| FXK-V10-F045 | Disposition of B9-F02-13 The rand position's outcome (V09 Agent B; LOW; ES) | Agent B F02; links FXK-V09-F169 | None | DISCONFIRMED; ES; independent prospect |
+| FXK-V10-F046 | Disposition of B9-F02-14 The winged figure in Kurumi's likeness (V09 locators) appears (V09 Agent B; MOD) | Agent B F02; links FXK-V09-F170 | i0033: a winged Kurumi of different design | DISCONFIRMED; ALT (any winged figure in Kurumi's likeness): CONFIRMED; independent prospect |
+| FXK-V10-F047 | Disposition of B9-F02-15 The father in present time (V09 Agent B; LOW-MOD) | Agent B F02; links FXK-V09-F171 | None | DISCONFIRMED; independent prospect |
+| FXK-V10-F048 | Disposition of B9-F02-16 A present-time date after 3 April 2017 (V09 Agent B; MOD) | Agent B F02; links FXK-V09-F172 | i0061 | CONFIRMED; EXPOSURE-SENSITIVE (paratext); independent prospect |
+| FXK-V10-F049 | Disposition of B9-F02-17 「TO BE CONTINUED」 on the last main page (V09 Agent B; HIGH) | Agent B F02; links FXK-V09-F173 | i0156 | CONFIRMED; EXPOSURE-SENSITIVE (paratext); independent prospect |
+| FXK-V10-F050 | Disposition of B9-F02-18 Inago in every chapter (V09 Agent B; MOD) | Agent B F02; links FXK-V09-F174 | 第46–50話 (i0003; i0033; i0061; i0111; i0138) | CONFIRMED; EXPOSURE-SENSITIVE (paratext); independent prospect |
+| FXK-V10-F051 | Disposition of B9-F02-19 Kurumi speaks of the control project or a rule-set (V09 Agent B; LOW-MOD) | Agent B F02; links FXK-V09-F175 | No 支配/コントロール; the i0049 no-leverage thought is not an adopted rule | DISCONFIRMED; ALT: CONFIRMED; independent prospect |
+| FXK-V10-F052 | Disposition of B9-F02-20 A trading loss at the company shown or stated (V09 Agent B; LOW-MOD; ES) | Agent B F02; links FXK-V09-F176 | Nana 「評価損益 −8,000円」 (i0145; unrealized) | CONFIRMED; STRICT (realized): DISCONFIRMED; ES; independent prospect |
+| FXK-V10-F053 | F01-1 Next label after 第47話 is 「第48話」 (principal; HIGH; ES-P) | F01, 12:42:26 (after the slip of i0029) | i0061 | CONFIRMED; ES-P |
+| FXK-V10-F054 | F01-2 Within 第47話 a balloon says Inago should or will invest in stocks (株/株式) (principal; MOD-HIGH; POST-SLIP) | F01 | Investing and an app urged, never 株 (i0035, i0037, i0040) | DISCONFIRMED; RELAXED (investing): CONFIRMED; POST-SLIP |
+| FXK-V10-F055 | F01-3 Within 第47話 Inago opens or applies for an account (principal; LOW-MOD; ES, ES-P, POST-SLIP) | F01 | None | DISCONFIRMED |
+| FXK-V10-F056 | F01-4 Kurumi says aloud she traded FX in the past (principal; MOD) | F01 | i0042 | CONFIRMED |
+| FXK-V10-F057 | F01-5 Kizuna says she invests or trades (principal; MOD-HIGH) | F01 | i0039 | CONFIRMED |
+| FXK-V10-F058 | F01-6 Mochiko in person in a present-time panel of 第47話 (principal; MOD) | F01 | Memory image only (i0040); phone call (i0054) | DISCONFIRMED |
+| FXK-V10-F059 | F01-7 Within 第47話 Kurumi looks at a chart or trading screen on her own device (principal; LOW-MOD; ES) | F01 | Kizuna's phone (i0047–i0048) | DISCONFIRMED; ES |
+| FXK-V10-F060 | F01-8 Kurumi states she is not trading now (principal; LOW-MOD) | F01 | "…はい"; "退場した ので…" (i0043) | CONFIRMED |
+| FXK-V10-F061 | F01-9 A named securities or brokerage company in V10 (principal; MOD; POST-SLIP) | F01 | None (account e-mail unnamed, i0100; a bank, i0103) | DISCONFIRMED; POST-SLIP |
+| FXK-V10-F062 | F01-10 A stock price, share count or stock P/L in V10 (principal; MOD; ES, POST-SLIP) | F01 | i0104 | CONFIRMED; ES; POST-SLIP |
+| FXK-V10-F063 | F01-11 Within 第47話 Nana or Kurumi cautions about investing (principal; MOD) | F01 | i0033, i0038 | CONFIRMED |
+| FXK-V10-F064 | F01-12 Yasuko speaks in present time in 第47話 (principal; LOW-MOD) | F01 | None | DISCONFIRMED |
+| FXK-V10-F065 | F02-1 i0061 carries 「第48話」 (principal; MOD; ES-P) | F02, 12:53 (shell; file time 12:53:31; precautionary; binding for 第47話) | i0061 | CONFIRMED; ES-P |
+| FXK-V10-F066 | F02-2 After i0060 Inago installs an app or opens an account (principal; MOD; ES) | F02 | None | DISCONFIRMED; ES |
+| FXK-V10-F067 | F02-3 After i0060 Kizuna's assets below 10,011,927 or a stated loss (principal; MOD; ES) | F02 | ¥10,178,597 (i0108); Nana's "いくら負けたんだろう…?" a question (i0140) | DISCONFIRMED; ALT (Nana's presumption): CONFIRMED; ES |
+| FXK-V10-F068 | F02-4 After i0060 a named character buys or holds shares (principal; MOD-HIGH; ES, POST-SLIP) | F02 | i0092 (Yasuko), i0105 (Nana's order) | CONFIRMED; ES; POST-SLIP |
+| FXK-V10-F069 | F02-5 After i0060 Kurumi places an order (principal; LOW-MOD; ES) | F02 | None | DISCONFIRMED; ES |
+| FXK-V10-F070 | F02-6 After i0060 Kurumi tells a colleague her loss size or bankruptcy (principal; LOW) | F02 | None | DISCONFIRMED |
+| FXK-V10-F071 | F02-7 After i0060 a 「保有金融資産」 caption again (principal; MOD) | F02 | Other caption types (i0103, i0122, i0145) | DISCONFIRMED |
+| FXK-V10-F072 | F02-8 After i0060 Mochiko speaks about investing or the market, present time (principal; LOW-MOD) | F02 | i0063 (size of the firm; the outing only) | DISCONFIRMED |
+| FXK-V10-F073 | F02-9 After i0060 Yasuko speaks in present time (principal; MOD) | F02 | i0085 | CONFIRMED |
+| FXK-V10-F074 | F02-10 After i0060 Nana starts investing (principal; LOW) | F02 | i0100 | CONFIRMED |
+| FXK-V10-F075 | F02-11 After i0060 a winged figure associated with Kurumi (principal; LOW-MOD) | F02 | Only Yasuko's self-image (i0079) | DISCONFIRMED |
+| FXK-V10-F076 | F03-1 i0097 carries 「第49話」 (principal; MOD; ES-P) | F03, 13:04:46 (precautionary; binding for 第48話) | i0097 | CONFIRMED; ES-P |
+| FXK-V10-F077 | F03-2 After i0096 Nana opens an account, installs an app or orders (principal; MOD-HIGH; ES, POST-SLIP) | F03 | i0100, i0105 | CONFIRMED; ES; POST-SLIP |
+| FXK-V10-F078 | F03-3 After i0096 a stock price, share count or stock P/L (principal; MOD-HIGH; ES, POST-SLIP) | F03 | i0104 | CONFIRMED; ES; POST-SLIP |
+| FXK-V10-F079 | F03-4 「カリフラワー」 again after i0096 (principal; MOD) | F03 | i0097 | CONFIRMED |
+| FXK-V10-F080 | F03-5 After i0096 a named brokerage (principal; LOW-MOD; ES) | F03 | None | DISCONFIRMED; ES |
+| FXK-V10-F081 | F03-6 Kizuna refers to Nana's starting stocks (principal; MOD) | F03 | i0146 | CONFIRMED |
+| FXK-V10-F082 | F03-7 After i0096 Kurumi opens an account, installs an app or orders (principal; LOW; ES) | F03 | None | DISCONFIRMED; ES |
+| FXK-V10-F083 | F03-8 After i0096 Inago installs an app or opens an account (principal; LOW-MOD; ES) | F03 | None | DISCONFIRMED; ES |
+| FXK-V10-F084 | F03-9 After i0096 Mochiko speaks in present time (principal; MOD-HIGH) | F03 | Last speaks i0063 | DISCONFIRMED |
+| FXK-V10-F085 | F03-10 After i0096 Nana's SNS account shown again (principal; MOD) | F03 | Other fans' posts only (i0100) | DISCONFIRMED |
+| FXK-V10-F086 | F03-11 After i0096 a figure for Yasuko's カドサワ holding (principal; LOW-MOD; ES) | F03 | None | DISCONFIRMED; ES |
+| FXK-V10-F087 | F04-1 After i0129 the result of Kizuna's short (principal; MOD-HIGH; ES) | F04, 13:16:34 (after the slip of i0129) | Gap seen; no P/L, exit or balance (i0140–i0141) | DISCONFIRMED; ES |
+| FXK-V10-F088 | F04-2 After i0129 a loss on the short shown or stated (principal; MOD; ES) | F04 | None (Nana's question only, i0140) | DISCONFIRMED; ES |
+| FXK-V10-F089 | F04-3 After i0129 the French election's outcome stated (principal; MOD-HIGH; ES) | F04 | "いや誰が大統領になったとかはどうでもいい!" (i0139) | DISCONFIRMED; ES; the frozen words "including a first-round result" reflect the principal's declared real-world knowledge (reviewer C-10) |
+| FXK-V10-F090 | F04-4 After i0129 Nana submits a Kani buy order (principal; MOD-HIGH; POST-SLIP) | F04 | i0135 | CONFIRMED; POST-SLIP |
+| FXK-V10-F091 | F04-5 After i0129 Nana holds Kani shares (principal; MOD; POST-SLIP) | F04 | i0142–i0143 | CONFIRMED; POST-SLIP |
+| FXK-V10-F092 | F04-6 After i0129 a Kani price above 736円 (principal; MOD; POST-SLIP, ES) | F04 | 「Kani 500株@741」 (i0142); the 8:50 board quotes asks 741–750 (i0136) (reviewer C-06) | CONFIRMED; POST-SLIP; ES |
+| FXK-V10-F093 | F04-7 After i0129 Nana's securities balance other than 100,000円 (principal; MOD; ES) | F04 | Box 「証券口座 残高400,000円」 (i0132) | CONFIRMED; STRICT (narrator's caption series or a broker screen only): DISCONFIRMED; ES |
+| FXK-V10-F094 | F04-8 After i0129 Kurumi states a wish or intention to trade or invest again (principal; MOD) | F04 | "株はまだまだ 勉強中だし!" (INF MOD-HIGH hers; study, not intention) (i0146) | DISCONFIRMED; RELAXED: CONFIRMED |
+| FXK-V10-F095 | F04-9 A 「第51話」 label after i0129 (principal; LOW; ES-P) | F04 | None | DISCONFIRMED; ES-P |
+| FXK-V10-F096 | F04-10 The last main page carries a continuation marker (principal; MOD; ES-P) | F04 | 「TO BE CONTINUED...」 (i0156) | CONFIRMED; ES-P |
+| FXK-V10-F097 | F04-11 After i0129 Yasuko speaks in present time (principal; MOD) | F04 | None | DISCONFIRMED |
+| FXK-V10-F098 | F05-1 i0157 is not a story page (principal; HIGH; ES-P) | F05, 13:27:32 (after i0156; before i0157) | Separator (i0157) | CONFIRMED; ES-P |
+| FXK-V10-F099 | F05-2 No 「第51話」 in i0157–i0165 (principal; HIGH; ES-P) | F05 | — | CONFIRMED; ES-P |
+| FXK-V10-F100 | F05-3 The colophon gives first-publication data for exactly five chapters/instalments (principal; MOD; ES-P) | F05 | Five issues (i0170) | CONFIRMED; STRICT (per-chapter data): DISCONFIRMED; ES-P |
+| FXK-V10-F101 | F05-4 The next chapter opens in the same scene (principal; MOD; ES) | F05 | — | NOT SCOREABLE IN THIS RUN (beyond V10) |
+| FXK-V10-F102 | F05-5 The short's outcome in the next chapter (principal; MOD; ES) | F05 | — | NOT SCOREABLE IN THIS RUN |
+| FXK-V10-F103 | F05-6 Kurumi orders in the next volume (principal; LOW; ES) | F05 | — | NOT SCOREABLE IN THIS RUN |
+| FXK-V10-F104 | MX10-1 No post-main occurrence continues 第50話's story (principal; HIGH) | MAIN_EXIT, 13:28:54 (after i0157; before every post-main and deferred image) | i0158–i0171, i0001–i0002 | CONFIRMED |
+| FXK-V10-F105 | MX10-2 An authorial afterword among i0158–i0165 (principal; MOD-HIGH; ES-P) | MAIN_EXIT | i0165; i0158–i0160, i0164 | CONFIRMED; ES-P |
+| FXK-V10-F106 | MX10-3 The euro short ends with a gain in the continuation (principal; LOW-MOD; ES) | MAIN_EXIT | — | NOT SCOREABLE IN THIS RUN; exposure-tainted (a directional forecast frozen after the 13:13 declaration of real-world outcome knowledge): excluded from any future calibration (reviewer C-10) |
+| FXK-V10-F107 | MX10-4 Kizuna buys カリフラワー in the continuation (principal; MOD) | MAIN_EXIT | — | NOT SCOREABLE IN THIS RUN |
+| FXK-V10-F108 | B10-F00-1 A chart or rate quote on a screen in a present-time scene (V10 Agent B; MOD-HIGH; ES) | Agent B F00 entering (before any V10 page; exposure record 12:31:49) | Kizuna's monitor and chart; the Kani chart; the board; the gap chart (i0113, i0123, i0129, i0136, i0140) | CONFIRMED; ES; independent prospect |
+| FXK-V10-F109 | B10-F00-2 Kizuna with a stated direction, size, pair or P/L (V10 Agent B; MOD; ES) | Agent B F00 entering (before any V10 page; exposure record 12:31:49) | 「EUR/USD 1.07230 30枚売り」 (i0122) | CONFIRMED; ES; independent prospect |
+| FXK-V10-F110 | B10-F00-3 Kurumi orders, or holds a position or an own-account balance, in present time (V10 Agent B; LOW-MOD; ES) | Agent B F00 entering (before any V10 page; exposure record 12:31:49) | None; the 22,963円 caption (i0043) is a total of financial assets, not an account balance | DISCONFIRMED; ES; independent prospect |
+| FXK-V10-F111 | B10-F00-4 A yen figure tied to a named character's own money in present time (V10 Agent B; MOD-HIGH) | Agent B F00 entering (before any V10 page; exposure record 12:31:49) | i0036, i0041, i0043, i0047, i0103 | CONFIRMED; independent prospect |
+| FXK-V10-F112 | B10-F00-5 Trading stated or shown as company work or a job duty (V10 Agent B; LOW-MOD; ES) | Agent B F00 entering (before any V10 page; exposure record 12:31:49) | Personal trading on company time ("いや仕事をしろよっ…!!!", i0122; i0124) | DISCONFIRMED; ES; independent prospect |
+| FXK-V10-F113 | B10-F00-6 破産 in the main narrative, any time frame (V10 Agent B; MOD) | Agent B F00 entering (before any V10 page; exposure record 12:31:49) | "自己破産 出来たと しても" (inset, i0045) | CONFIRMED; independent prospect |
+| FXK-V10-F114 | B10-F00-7 A present-time date after 3 April 2017 (V10 Agent B; MOD-HIGH; ES) | Agent B F00 entering (before any V10 page; exposure record 12:31:49) | 「2017年 4月7日 金曜日——」 (i0061) | CONFIRMED; ES; independent prospect |
+| FXK-V10-F115 | B10-F00-8 Mebuki's rand mentioned (V10 Agent B; LOW-MOD; ES) | Agent B F00 entering (before any V10 page; exposure record 12:31:49) | None | DISCONFIRMED; ES; independent prospect |
+| FXK-V10-F116 | B10-F00-9 Kurumi's 2014 tax mentioned (V10 Agent B; LOW-MOD) | Agent B F00 entering (before any V10 page; exposure record 12:31:49) | "国税の支払いが まだ残ってるん です…!", "2014年の やつが…!" (i0045) | CONFIRMED; independent prospect |
+| FXK-V10-F117 | B10-F00-10 ロスカット or 証拠金 in a present-time scene (V10 Agent B; LOW-MOD; ES) | Agent B F00 entering (before any V10 page; exposure record 12:31:49) | Both only in the 2013 flashback (i0076); in present time only the clipped 「強制ロスカ」 (i0092) | DISCONFIRMED; RELAXED (clipped form counted): CONFIRMED; ES; independent prospect |
+| FXK-V10-F118 | B10-F00-11 Inago trades, holds or opens an account (V10 Agent B; LOW; ES) | Agent B F00 entering (before any V10 page; exposure record 12:31:49) | None | DISCONFIRMED; ES; independent prospect |
+| FXK-V10-F119 | B10-F00-12 Kurumi's pay stated or discussed (V10 Agent B; LOW) | Agent B F00 entering (before any V10 page; exposure record 12:31:49) | None | DISCONFIRMED; independent prospect |
+| FXK-V10-F120 | B10-F01-1 Nana opens an account or orders within 第49話 (V10 Agent B; MOD) | Agent B F01 (12:59:26; after the 第49話 label page i0097, before i0098) | i0100, i0105 | CONFIRMED; independent prospect |
+| FXK-V10-F121 | B10-F01-2 カリフラワー shown listed within 第49話 (V10 Agent B; MOD; ES) | Agent B F01 (12:59:26; after the 第49話 label page i0097, before i0098) | Price 705円 (i0104) | CONFIRMED; ES; independent prospect |
+| FXK-V10-F122 | B10-F01-3 A share price, count, unit or yen order amount tied to Nana within 第49話 (V10 Agent B; LOW-MOD; ES) | Agent B F01 (12:59:26; after the 第49話 label page i0097, before i0098) | i0104–i0105 | CONFIRMED; ES; independent prospect |
+| FXK-V10-F123 | B10-F01-4 Kizuna appears in 第49話 and learns of Nana's intention (V10 Agent B; LOW-MOD) | Agent B F01 (12:59:26; after the 第49話 label page i0097, before i0098) | She learns at i0146, in 第50話 | DISCONFIRMED; independent prospect |
+| FXK-V10-F124 | B10-F01-5 Kurumi orders or holds within 第49話 (V10 Agent B; LOW) | Agent B F01 (12:59:26; after the 第49話 label page i0097, before i0098) | None | DISCONFIRMED; independent prospect |
+| FXK-V10-F125 | B10-F02-1 Nana orders Kani within 第50話 (V10 Agent B; MOD-HIGH; ES) | Agent B F02 (13:10:45; after the 第50話 label page i0129, before i0130; outcome-neutral on Kizuna) | i0135, i0142 | CONFIRMED; ES; independent prospect |
+| FXK-V10-F126 | B10-F02-2 A later printed figure for Kizuna's 30枚 position within 第50話, outcome-neutral (V10 Agent B; MOD; ES) | Agent B F02 (13:10:45; after the 第50話 label page i0129, before i0130; outcome-neutral on Kizuna) | The i0140 chart's gridline labels only; no quoted rate, P/L or balance | DISCONFIRMED; RELAXED (gridlines counted): CONFIRMED; ES; independent prospect |
+| FXK-V10-F127 | B10-F02-3 Kani's unit or Nana's share count printed within 第50話 (V10 Agent B; MOD; ES) | Agent B F02 (13:10:45; after the 第50話 label page i0129, before i0130; outcome-neutral on Kizuna) | i0132 | CONFIRMED; ES; independent prospect |
+| FXK-V10-F128 | B10-F02-4 A Nana money box other than 100,000円 within 第50話 (V10 Agent B; MOD) | Agent B F02 (13:10:45; after the 第50話 label page i0129, before i0130; outcome-neutral on Kizuna) | i0132, i0143, i0145 | CONFIRMED; independent prospect |
+| FXK-V10-F129 | B10-F02-5 Kizuna learns of Nana's investing within 第50話 (V10 Agent B; LOW-MOD) | Agent B F02 (13:10:45; after the 第50話 label page i0129, before i0130; outcome-neutral on Kizuna) | i0146 | CONFIRMED; independent prospect |
+| FXK-V10-F130 | B10-F02-6 Kurumi orders or holds within 第50話 (V10 Agent B; LOW) | Agent B F02 (13:10:45; after the 第50話 label page i0129, before i0130; outcome-neutral on Kizuna) | None | DISCONFIRMED; independent prospect |
+| FXK-V10-F131 | B10-F02-7 The app 「シャイニーダンシング」 shown released within 第50話 (V10 Agent B; LOW; ES) | Agent B F02 (13:10:45; after the 第50話 label page i0129, before i0130; outcome-neutral on Kizuna) | None | DISCONFIRMED; ES; independent prospect |
+| FXK-V10-F132 | B10-FC-1 Kizuna submits or executes a buy order for カリフラワー shares in V11 (V10 Agent B; LOW-MOD; ES) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); ES; independent prospect |
+| FXK-V10-F133 | B10-FC-2 A printed figure for the result of Kizuna's EUR/USD 30枚 short (close rate, P/L or new FX口座残高) in V11, outcome-neutral (V10 Agent B; LOW-MOD; ES) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); ES; independent prospect |
+| FXK-V10-F134 | B10-FC-3 A later Kani price or 評価損益 for Nana's 500 shares in V11 (V10 Agent B; MOD-HIGH; ES) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); ES; independent prospect |
+| FXK-V10-F135 | B10-FC-4 The app 「シャイニーダンシング」 shown released in V11 (V10 Agent B; MOD; ES) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); ES; independent prospect |
+| FXK-V10-F136 | B10-FC-5 Nana submits or executes a buy order for カリフラワー shares in V11 (V10 Agent B; LOW-MOD; ES) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); ES; independent prospect |
+| FXK-V10-F137 | B10-FC-6 Nana sells some or all of her Kani shares in V11 (V10 Agent B; LOW-MOD; ES) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); ES; independent prospect |
+| FXK-V10-F138 | B10-FC-7 Nana tells Kizuna or Kurumi the size, price or P/L of her Kani position in V11 (V10 Agent B; LOW-MOD) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); independent prospect |
+| FXK-V10-F139 | B10-FC-8 Kurumi opens or uses an account, places an order or holds a position in V11 present time (V10 Agent B; LOW; ES) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); ES; independent prospect |
+| FXK-V10-F140 | B10-FC-9 Kurumi's outstanding 2014 tax mentioned in V11 (V10 Agent B; LOW-MOD) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); independent prospect |
+| FXK-V10-F141 | B10-FC-10 Kizuna's asset app or another printed total of her assets appears with a figure in V11 (V10 Agent B; MOD) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); independent prospect |
+| FXK-V10-F142 | B10-FC-11 Inago opens an account, places an order or holds a position in V11 (V10 Agent B; LOW; ES) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); ES; independent prospect |
+| FXK-V10-F143 | B10-FC-12 A present-time date later than 24 April 2017 printed or stated in V11 (V10 Agent B; HIGH; ES) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); ES; independent prospect |
+| FXK-V10-F144 | B10-FC-13 ロスカット or 証拠金 in a V11 present-time scene (V10 Agent B; LOW-MOD; ES) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); ES; independent prospect |
+| FXK-V10-F145 | B10-FC-14 A size, price or P/L figure for Yasuko's カドサワ holding in V11 (V10 Agent B; LOW) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); independent prospect |
+| FXK-V10-F146 | B10-FC-15 Mochiko's own financial assets or trading in V11 present time (V10 Agent B; LOW) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); independent prospect |
 
 For prospects preserve predictions, confidence, disconfirming signals and actual exposure before resolution. Attribute independent tests separately. For revisions use `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT` or `OPEN`. Keep the historical argument and use a new linked entry for a material change.
 
 ## Person-level qualification
 
-Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, FXK-JP-V04-W01, FXK-JP-V05-W01, FXK-JP-V06-W01, FXK-JP-V07-W01, FXK-JP-V08-W01 and FXK-JP-V09-W01) are listed after this paragraph. Record each eligible person, source and horizon, distinct habits, ordinary choices, Japanese speech, cognition under differing conditions, directional ties, counterexamples, evidence sufficiency and reassessment threshold. Link a completed monograph and its separate self-containment and fidelity decisions once accepted.
+Subjects assessed through V10 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, FXK-JP-V04-W01, FXK-JP-V05-W01, FXK-JP-V06-W01, FXK-JP-V07-W01, FXK-JP-V08-W01, FXK-JP-V09-W01 and FXK-JP-V10-W01) are listed after this paragraph. Record each eligible person, source and horizon, distinct habits, ordinary choices, Japanese speech, cognition under differing conditions, directional ties, counterexamples, evidence sufficiency and reassessment threshold. Link a completed monograph and its separate self-containment and fidelity decisions once accepted.
 
 - **福賀くるみ (Fukuga Kurumi)**: source W01 V01; horizon ages 15 (2008–09) and 20 (Feb–May 2014). Evidence
   sufficiency: HIGH; she is on nearly every main page.
@@ -2387,6 +2641,25 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
     - Money: bankrupt and discharged (平成27年11月, i0104); the father's 300万 offered for the costs and accepted in thanks, its use not shown (i0074–i0075); 2014 tax in instalments (i0106);
       wages managed by the father (i0107); no trade, account or position shown in V09.
     - Reassessment threshold: whether she trades after autumn 2015 and on what terms; her role at the company; the tax; graduation.
+  - **V10 update** (FXK-JP-V10-W01; horizon Monday (INF 3 April 2017) to Monday 24 April 2017; 23 per the V09 name box). Evidence sufficiency: HIGH
+    (most office and party pages of 第46–50話).
+    - Distinct habits: sleeps at the office by choice, "会社に泊まるのが趣味なんだ!" (i0007); comic armour under exposure ("最高機密! トップシークレット
+      です!", i0044); asks others' figures (Kizuna's assets, i0046; the cost of 5,000 shares, i0155); trader vocabulary ("退場", "爆損", "為替", "上昇モード",
+      i0043–i0044, i0113, i0121); 「爆益」 not printed in V10.
+    - Ordinary choices: clerk, "事務と雑用", "入社1年目" (i0016); serves Kizuna's soy latte in the raccoon mug, knows her order (i0113); minds the office
+      (i0063); picks the restaurant, leads the toast, eats and drinks heartily (i0012, i0015, i0052–i0053); phones Mochiko after the party (i0054).
+    - Speech: 私; です/ます and "きずなさん" to Kizuna; "ばななちゃん", "いなごちゃん"; "萌智子〜… じゃなかった / 社長〜" at work (i0009), bare
+      "萌智子〜?" in private (i0054).
+    - Cognition under differing conditions: tells colleagues she traded FX hard as a student, was wiped out and still owes 2014 national tax; conceals the
+      amount and the bankruptcy (i0042–i0045; an inset reprises her V08 reckoning, 「3,807,983」, "自己破産出来たとしても"); revalues her past ten million ("失ってから気づいた", i0048) and her
+      success ("たまたまハイレバFXで", i0049); asks whether she can fight in the market again (i0050); envies timing (i0040); warns of the reverse (i0033)
+      and of an uptrend (i0121; borne out by the Monday chart, i0140, one instance) but assents to Kizuna (i0124, i0154).
+    - Directional ties: Kizuna (deference, defence of her good faith, a warning not pressed); Nana (cheerful notice of her investing, no warning, i0145);
+      Inago (welcome, consolation); Mochiko (社長 at work, friend in private); Yasuko (protects her from 先生-treatment, i0080–i0081).
+    - Counterexamples: lets Kizuna's "1億円負けなんてありえない" (i0035) and "欲張ったら" (i0045) stand; endorses Kizuna's カリフラワー idea (i0154).
+    - Money: 22,963円 (CAP, i0043); 2014 national tax still partly unpaid (amount not printed; the V08 figure reprised in an inset, i0045); no account, order, position or screen of hers in V10; pay not stated.
+      INF MOD-HIGH "株はまだまだ勉強中だし!" (i0146).
+    - Reassessment threshold: whether she opens an account or trades; disclosure of the 1億 or the bankruptcy to colleagues; the tax; residence and pay.
 - **小金萌智子 (Kogane Mochiko)**: source W01 V01; horizon May 2014 (i0058–i0162). Evidence sufficiency:
   MODERATE-HIGH (about 30 pages; rich private thought).
   - Distinct habits: watching markets instead of attending class; a cat-ear/flower phone case; coffee from a "珈琲"
@@ -2584,6 +2857,13 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
       (UNRESOLVED).
     - Money: no figure; does not pay Kurumi's debt (B8-F05-8).
     - Reassessment threshold: the company's business; Kurumi's role in it; the reason for hiring Inago.
+  - **V10 update** (two present-time scenes, i0009–i0010 and i0063; memory image i0040). Evidence sufficiency for V10: LOW.
+    - In a crunch, typing furiously: "ごめん 無理! / 行くなら 領収書だけ お願い" (i0010); "いや 零細だけど?"; "月森さん そろそろ出発 しましょうか?";
+      "くるみ 留守番 お願いね" (i0063); leaves on business with Kizuna (i0063).
+    - Seen by others: Nana's model of a "しっかりした社会人" (i0087–i0088); Yasuko: "ちゃっかり", "ズル賢い" (i0088); Kurumi recalls her growing her assets
+      at end 2012 – early 2013, with a white cat (i0040).
+    - Not shown: her view of her staff's investing or of Kizuna's trading on company time; the company's business; why Inago was hired.
+    - Reassessment threshold: unchanged (the company's business; Inago's hiring; her response to the office's market activity).
 - **あふぃちゃん** (handle; possessions lettered "Yasuko"; that Yasuko is her given name is INFERENCE MODERATE-HIGH,
   capped for owner-brief exposure; no reading given): source W01 V01; horizon one night (i0144–i0152). Evidence
   sufficiency: LOW-MODERATE (9 pages, no contact with others).
@@ -2704,6 +2984,17 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
     - Directional ties: Kurumi (worry, protective confrontation, "それどころじゃない", fond acceptance; i0089, i0095, i0119–i0120);
       Mebuki (warning); Nana (teasing).
     - Reassessment threshold: whether 【漫画家】 means a debut or serial (not stated).
+  - **V10 update** (2013 flashback i0066–i0079; present 3 April (i0010–i0011) and 8 April 2017 (i0085–i0096)). Evidence sufficiency for V10: MODERATE-HIGH.
+    - History supplied: 新都デザイン専門学校 with Nana; rejected at document screening (2013-11-05); started FX "今日から" out of fear of being "一生フリーター
+      で貧乏人"; +3万 in a week; a 3枚 pound short at ~160 called "天井タッチ!"; forced liquidation near 169 on 2013-12-03, then the fall; "殺人通貨!!"; no
+      job-hunting; the affiliate-blog idea and the self-name 「FX堕天使 あふぃちゃん」 (i0079) — the origin of the V01–V02 blogger.
+    - 2017: an editor's harsh call (i0011); confined at the publisher over storyboards (i0086); serialization of 「重力ウサギ」 in 「プラッパー」 decided (i0080,
+      i0092); dislikes "先生" (i0081); stocks since autumn 2016, 「カドサワ」 shares for support and superstition, profit "ラッキー程度", 現物 (i0091–i0092);
+      "FXはやめとけよ… ストレス発生装置" (i0090); recommends ダンぷり-related stock by affinity (i0093). Treats Nana to fries before any take-profit (2013, i0073);
+      her accepted V02 domestic FX account (76,573円, 2014) shows she funded an account again after the 2013 liquidation.
+    - Speech: あたし, "〜だろ", "〜ねー", "ばなな"; "強制ロスカ"; "ポチポチ革命だ!!".
+    - Directional ties: Nana (old friend; introduced her to もちもち企画, i0088; her stock teacher, i0090–i0096); Mochiko ("ちゃっかり"); Kizuna (barely known).
+    - Reassessment threshold: her serial's fate; any figure for her カドサワ holding; whether her editor is the V05 毒島☆寿美.
 - **Mother (unnamed)**: source W01 V01 (2008–09 and memory). Evidence sufficiency: MODERATE.
   - Ordinary life: homemaker; long work hours to repay; covered meals; drinking during the crisis.
   - Speech: feminine standard; くるみちゃん; しときなさい.
@@ -2744,6 +3035,8 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
     and in her memorial portrait (i0080); addressed at the 福賀家之墓 (i0055–i0061: "ごめんね お母さん", "似てるけど違うんだ"). New: the
     father says she did not consult him ("相談もなかった", i0072) and blames himself for making consultation hard (i0073). Evidence
     sufficiency MODERATE-HIGH (unchanged).
+  - V10: not drawn and not referred to in present time (EN-8, EN-9 disconfirmed; Kurumi's "お父さんみたいってのはわかるかも!", i0151, concerns a
+    father-like character). No material change.
 - **Father (unnamed)**: source W01 V01. Evidence sufficiency: LOW-MODERATE.
   - Habits: glasses and sweater; monthly タンス預金; a gentle warning against FX; a commuting job.
   - Speech: plain masculine (言わん, だからな); calls her くるみ.
@@ -2791,6 +3084,8 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
     - Counterexamples: his remembered "お金のことは全部俺に任せて / お前は家のことだけやってたらいいんだ" (i0072).
     - Knowledge: the loss, the "1億" debt, the bankruptcy, "ギリギリ"; not shown learning of the letter.
     - Reassessment threshold: his response if Kurumi returns to the market.
+  - V10: not drawn and not referred to in present time (EN-8, EN-9 disconfirmed; Kurumi's "お父さんみたいってのはわかるかも!", i0151, concerns a
+    father-like character). No material change.
 - **優子 (Yūko)**: source W01 V01 (i0021; named at i0143). Evidence sufficiency: LOW. A sincere warning; a current
   friend (identity across 2008/2014 INFERENCE MODERATE-HIGH). Not eligible for a profile yet.
   - V02: does not appear.
@@ -2802,6 +3097,7 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
   - V08: memory only (i0052–i0053; also in the V01 collage, i0086): the hero to Kurumi's world-conquering alien; "はめつ がんぼう ある?";
     Kurumi: "優子ちゃん 元気に してるかな…". Not eligible for a profile.
   - V09: does not appear.
+  - V10: does not appear.
 - **芽吹 (Mebuki)**: named offstage once (i0066). Evidence sufficiency: NONE. Not eligible; reassess at first on-page
   appearance.
   - **V02 update: now eligible.** 山師芽吹 (Yamashi Mebuki), caption "(20)【大学三年生】" (i0004); horizon late May – 15
@@ -2938,6 +3234,7 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
     - Directional ties: Kurumi (relief at her reply, protective confrontation; i0088, i0095); Yasuko (treats, invitation to "ランド", i0117);
       Mochiko (debtor nearly clear).
     - Reassessment threshold: the outcome of the rand position; her whereabouts in 2017.
+  - **V10 update**: does not appear (absent from V10's main narrative; her South African rand position is not mentioned). No material change.
 - **Mebuki's mother (unnamed)**: source W01 V03 (i0027–i0029, i0063–i0064, i0096, i0159). Evidence sufficiency:
   LOW-MODERATE.
   - Habits: loud (a pot and ladle to call dinner, i0027); home cooking; care parcels with food and money (a 10,000-yen
@@ -2957,6 +3254,7 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
   - V07: not shown; Mebuki reports that her parents opposed her leaving university ("親に反対されちゃいました", "とりあえず大学は卒業しとけって", i0008; INF MOD the content of V06's call home). No material change in sufficiency.
   - V08: not shown. No material change.
   - V09: not shown. No material change.
+  - V10: not shown. No material change.
 - **Mebuki's father (unnamed)**: source W01 V03 (i0028–i0029; mentioned i0074). Evidence sufficiency: LOW. Lenient
   ("学費くらい出したったらえぇがな…"); by Mebuki's estimate would not shield her now. Not eligible for a profile.
   - V04: in Mebuki's vision only (i0107). Not eligible for a profile.
@@ -2965,6 +3263,7 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
   - V07: not shown; included in Mebuki's report of her parents' opposition to her leaving university (i0008). No material change.
   - V08: not shown. No material change.
   - V09: not shown. No material change.
+  - V10: not shown. No material change.
 - **健斗 (Kento), Mebuki's younger brother**: named i0074 (ruby けんと); teasing (i0029); "そろそろ進学" (i0074).
   Evidence sufficiency: LOW. Not eligible.
   - V04: in Mebuki's vision ("健斗(けんと)…", i0107). Not eligible.
@@ -2973,6 +3272,7 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
   - V07: does not appear.
   - V08: does not appear.
   - V09: does not appear.
+  - V10: does not appear.
 - **山口さん**: a co-worker named in comparison only (i0049). Not eligible.
   - V03: does not appear.
   - V04: does not appear.
@@ -2983,6 +3283,7 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
   - V09: named in Kurumi's speech as glad of her return to the convenience-store job (i0107); the vignette co-worker (spiky tied-up hair,
     jacket, shorts; "戻ってくるの待ってたよ〜 さっそくパチンコ行こうぜ!") is INF MOD-HIGH the V07 worker named 山口さん in V08 (V08 C073);
     gender not asserted from this page. Not eligible.
+  - V10: does not appear.
 - **Minor figures (V02)**: a store co-worker (i0012), a security guard (i0138), students (i0139), pachinko players
   (i0098), a bookshop clerk (i0095); imagined tax and FSA officials (gag). Not eligible.
 - **Minor figures (V03)**: 千佳ちゃん (neighbour's daughter, named once, i0029); anonymous board posters (i0041); a TV horoscope
@@ -3010,6 +3311,7 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
   - V07: none of the three appears in person. Mochiko says she will "probably never" go home ("たぶん一生帰らないよ", i0028, retracted); a frilled woman clings to her in her inner image of two daughters "cursed by their mothers" (i0053, INF MOD her mother); a light-haired woman passes her at dusk (i0138, unidentified). No material change.
   - V08: none of the three appears. No material change.
   - V09: none of the three appears or is mentioned. No material change.
+  - V10: none of the three appears or is mentioned. No material change.
 - **Minor figures (V05)**: 毒島☆寿美 (Busujima Hiromi), editor at コミックプラッパー (card, i0124; cabaret card, i0140) — harsh,
   specific critique and encouragement; evidence LOW-MODERATE, not yet eligible; the 月刊コミックカラーズ and 月刊まんが おんたま
   editors (unnamed, i0114–i0119); the otaku fan who outs Yasuko (i0110, i0118); Kurumi's co-worker (i0083–i0084); the salon
@@ -3050,18 +3352,70 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
     naive readings of others (Nana, i0150; Kizuna, i0155–i0156).
   - Directional ties: siblings (affection); Mochiko (awe, fear, reassured, i0144–i0151); Kurumi (welcomed); Kizuna (hugged).
   - Reassessment threshold: why she was hired; her role; any contact with trading.
+  - **V10 update** (第46–50話; horizon Monday (INF 3 April 2017) to 24 April 2017). Evidence sufficiency: MODERATE (level unchanged; present in every chapter, focal only in 第46話).
+    - Role: クリエイター (SR, i0016).
+    - Ordinary choices: a homemade bento daily since school, "冷食でごまかしてます" (i0061); a manners book and a seating diagram (i0012–i0013); a crowded
+      train home (i0054); soy latte in imitation of Kizuna (i0111); checks her work "10回以上", counts digit places (i0087).
+    - History: took the job to reassure her family (i0018); "何者かに なりたくて / 無理言って 都会に出て みたけど / 結局何者にも なれなかった" (i0019); a
+      village year-end lottery (i0027); a farming mother with a sickle who warned "儲け話には 絶対乗っちゃ いけないよ? … 騙された いなごは 喰われて
+      おしまいさ…!" (i0034).
+    - Speech: "わたくしは… 御社の…" (i0017); "くるみ先輩", "ばなな先輩" (aloud from i0020), "きずな先輩"; "いっせん まんえん…" (i0050).
+    - Cognition: imagines Kurumi's loss at her own scale, about 10万, and herself losing passbook and seal (i0044, TH); tempted but
+      cautious ("勉強してから…", i0040); work first (i0051); 42,175円 (CAP, i0036); admires wealth and Kizuna; a father-figure preference
+      ("お父さんみたいでカッコいい…", i0151); a blushing wish for Yasuko's autograph (i0080).
+    - Directional ties: Kizuna (admiration; doted on and teased, i0112, i0144); Kurumi and Nana (seniors; protection from Kizuna's pressure, i0037).
+    - Reassessment threshold: why she was hired; any account or trade; her creative work.
 - **善波なな (Zenba Nana)** (new in V09): source W01 V09 (i0148–i0152; name box i0149); 23, 【クリエイター】. Evidence sufficiency: LOW.
   Name forms: 「善波なな」 (name box), "善波さん" (Mochiko, i0149), 「ばなな」 (Yasuko, i0150); the corpus calls her Nana.
   Round glasses, short bob, platform shoes; handles a client's retake ("A店から軽めのリテイク", i0149); formal ("了解です"); guards her past
   ("余計なこと言わないでくださいね", i0150); nickname 「ばなな」; Yasuko's 専門学校 schoolmate; scolds the office sleeper and Kurumi (i0151–i0152).
   INF MOD she is the NEET acquaintance Yasuko mentions in autumn 2015 (a silhouette with round glasses, i0110; the shared 専門学校,
   i0150); not stated. Reassessment threshold: any further appearance.
+  - **V10 update** (第46–50話; flashback 2013). Evidence sufficiency: HIGH (up from LOW; the focal character of 第48–50話).
+    - History: 新都デザイン専門学校 with Yasuko; not job-hunting in 2013, unsure of her work (i0067); declined FX (i0069); witnessed Yasuko's liquidation
+      (i0074–i0079); a NEET until Yasuko introduced her to もちもち企画 ("脱ニート", i0088; V09-U15 resolved); fan of 綺羅メイ (「ダンスのぷりんすさまっ!」)
+      since summer 2010 (i0097–i0099).
+    - Ordinary choices: lives with her parents in a detached house (i0056–i0058); room 「NaNa's Room」 full of メイ merchandise (i0058–i0060); voices メイ
+      herself (i0059); fan account 「ばなな🍌 @nana_mei_luv」 and a locked 「同担監視リスト」 of 617 accounts (i0082–i0084); games (INF, i0018).
+    - Speech: office 敬語 and surnames ("月森さん", "酒田さん", "福賀さん"); home "じゃん", "〜もん"; online and inner "ニワカめ", "きっしょ", "クッソどうでも
+      いい", katakana-menace "浅すギる理解デ メイくんヲ語るナ" (i0153); "やす子ちゃん"; her narration spells 「メイ君」 (i0099),
+      her speech "メイくん"; one casual break before her seniors, "だめっ…!" (i0147).
+    - Cognition: public caution ("素人が投資に手を出しても失敗する気がします", i0038) and private fear ("投資なんて怖いこと", i0060); then status-framed
+      investing ("高次元の推し活", "〝格〟が違う", i0101), certainty ("3000%成功する!", i0103), a concentration doubt (i0126), a proxy plan via Kani Games
+      authorized by an imagined メイ (i0127–i0131), a half-savings rule (i0132).
+    - Money: 834,877円 (CAP, i0041; bank savings, CALC); account opened (i0100); 100,000円 deposited (i0103); 100-share カリフラワー order rejected (unit 1,000,
+      i0105); passbook 734,877円 (i0126); boxes bank 434,877 / securities 400,000 (i0132); Kani 500株@741 bought 9:01, 24 April (i0142–i0143); 評価損益
+      −8,000円 at 725円 (i0145). Household contribution disputed (i0042 vs i0057).
+    - Directional ties: Kizuna (resentment, Schadenfreude, rivalry over メイ, an open plea, i0124–i0125, i0140, i0155–i0156); Yasuko (friendship, debt of
+      gratitude, pupil); Inago (protective; respects her taste, i0151); Kurumi (surnames; denies watching charts to her, undercut by Kurumi's "今日ずっと"
+      and her own flinch, i0145).
+    - Counterexamples: researches before buying, keeps half her savings, buys cash shares; no talk of selling or averaging down at
+      −8,000円 (i0144–i0145); resolves to respect others' fandom (i0151).
+    - Reassessment threshold: the Kani position; the カリフラワー plan; Kizuna's purchase; her household contribution.
 - **月森きずな (Tsukimori Kizuna)** (new in V09): source W01 V09 (i0152–i0158; named "きずなさん" by Kurumi i0157, name box i0158); 27,
   【営業】. Evidence sufficiency: LOW-MODERATE. Bun, beauty mark, raccoon mug (i0153); watches a sharply falling chart with a leer and
   panting, two clicks (i0154–i0156; a price display; instrument and position not shown); the same flush and panting when she hugs
   Inago (i0157; INF MOD a visual signature); gushing physical affection toward the newcomer (i0157);
   elongated, sing-song speech ("営業のきずなです〜 / 仲良くしてね〜", i0158). Market behaviour UNRESOLVED (short position or thrill in
   volatility; candidate models only). Reassessment threshold: any position, order or P/L; her work in "sales".
+  - **V10 update** (第46–50話; flashback 2016-06-24 at 講報堂). Evidence sufficiency: HIGH (up from LOW-MODERATE).
+    - History: formerly at 「講報堂」 (「日本一の広告代理店」), where no one played the market (i0062); at her desk there on Brexit day, smirking at her phone
+      (i0118); "大儲け" then, by Kurumi's inference a pound short ("まぁねぇ〜", i0119); investing for five profitable years since 2012 by her account (i0039).
+    - Ordinary choices: soy latte for "アンチエイジング" (i0111); raccoon mug, sticker and plush (i0047, i0108, i0113); a tidy flat where she is shown alone
+      (i0108; her living arrangement is not stated); "はぁ〜♡" at her asset app (i0108); taxi home (i0055); arrives
+      early on Monday (i0138); out on business with Mochiko (i0063); trades FX and browses at her office desk during work (i0122, i0147).
+    - Speech: elongated vowels and "〜♡"; slogans ("自・由・億!", i0022); "発射ぁ〜♪" (i0122); "敏感のビンビン" (i0120); certainty ("全然怖くない",
+      "これ絶対当たってる"); cool first-person narration at home (i0109–i0110).
+    - Cognition: goal 金融資産10億円, interim 1億 (i0021, i0031); rank as effort (i0032); a 1億 loss "ありえない" (i0035); net worth as the daily face she
+      checks ("自分の存在を確かめるためのルーティン", i0109); "上位1%" or "凡人止まり" (i0110); a sentiment bet on the French vote against an uptrend,
+      both branches framed as profitable (i0119–i0124); reads people by wealth (i0152); fan passion as an edge (i0154); apparently believes Nana already
+      holds カリフラワー (i0154; INF MOD; Nana named only the company type, i0146).
+    - Money: ¥10,011,927 (3 April, i0047) → ¥10,178,597 (+¥166,670, 21 April, i0108); FX口座残高 3,972,290円 and EUR/USD 30枚 short at 1.07230 (21 April,
+      i0122), outcome unshown (i0140–i0141); intention to buy about 5,000 カリフラワー shares (i0155).
+    - Directional ties: Inago (affection, "いじめたくなっちゃう♡", cheek-squeezing, i0112, i0144); Nana (daily recruiting, welcome, unaware of resentment,
+      i0062, i0146, i0156); Kurumi (polite; delight at her loss story, i0043; private "よっぽど下手クソ", i0114); Mochiko (さん; business outings).
+    - Counterexamples: no gain from recruiting shown; disclaims mocking Nana (i0149); concedes Frexit is unlikely (i0119).
+    - Reassessment threshold: the outcome of the euro short; whether she buys カリフラワー; her response to Nana.
 - **Minor figures (V09)** (new entry): the father's young colleague (unnamed; drives, envies transfers, clumsy matchmaking, i0062–i0066);
   the home centre's staff (i0036); the queue of men in a slap gag (i0041); the restaurant waitress (i0087, i0097); the lawyer (grey-haired,
   suit; unnamed; introduced by the father, i0098); Yasuko's NEET acquaintance (a silhouette with round glasses, i0110; INF MOD 善波なな); gag figures (imagined bosses,
@@ -3071,4 +3425,14 @@ Subjects assessed through V09 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
 - Apparatus and extras in V09 (i0001–i0002, i0045–i0046, i0099–i0100, i0131–i0132, i0159–i0171: covers, flap, jacket blurb and collage,
   separators, design roughs, the writer's afterword, the AU bonus comic, the writer's essay, colophon, vendor page) are paratext and are
   not used in these notes.
+- **Minor figures (V10)** (new entry): Inago's mother (unnamed; flashback, i0034; a farming mother with a sickle; "儲け話には絶対乗っちゃいけないよ?");
+  Nana's mother (unnamed; INF MOD-HIGH; glasses, apron; "社会人面するなら家にお金入れるくらいしたら?", "おもちゃばっか買ってるくせに", i0056–i0057);
+  Yasuko's editor (unnamed; a man in a leopard-print suit in a gag inset, i0086; whether he is the V05 毒島☆寿美 is not stated); fellow fans named by
+  screen-name only on Nana's screen (「♪みーん@綺羅メイ推し♪」, 「ゆり」, 「ぽんぽこ」, 「ゆた」, 「ゆひゃら」, 「ゆんちゃ」; i0083–i0084, i0100); the
+  restaurant waiter (i0052); students at the 2013 job fair (i0066); staff at 講報堂 (i0118); caricatured politicians in the Brexit exposition (i0115–i0116;
+  not identified). 綺羅メイ and the other characters of 「ダンスのぷりんすさまっ!」 (i0148) are in-world media characters, not persons; recorded because
+  Nana's decisions are framed through メイ. The winged Kurumi of the i0033 vision is a figure of Kurumi's (recorded under her entry), not a person. None
+  eligible.
+- Apparatus and extras in V10 (i0001–i0002, i0157–i0171: covers, flap, jacket blurb and collage, separator, artist-side bonus manga, a pre-serialization
+  drawing sample, the writer's afterword, the under-jacket essay and manga, colophon, vendor page) are paratext and are not used in these notes.
 - Monographs: none completed or linked.
