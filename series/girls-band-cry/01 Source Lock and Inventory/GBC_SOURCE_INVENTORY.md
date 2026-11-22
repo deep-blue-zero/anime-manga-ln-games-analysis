@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-11-22
 ---
 
 # Girls Band Cry - V2 Source Inventory
@@ -171,7 +171,7 @@ The analytical Drive root contains a recovered V1 corpus:
 - `GIRLS BAND CRY Full Series.md` as the mature V1 full-series synthesis;
 - `00_README_AND_EXPORT_MANIFEST.md` and `SHA256SUMS.txt` as V1 archive controls.
 
-These are not primary sources and are not current V2 authority. They are revision-target provenance.
+The original Drive inventory above describes the export layout. In Git all 16 objects reside in [the V1 archive](../90%20Legacy%20and%20Superseded/V1/). The [corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md#verified-archival-relocation) records each path and digest. The archive supplies historical revision targets.
 
 ## 11. Known gaps and cautions
 
