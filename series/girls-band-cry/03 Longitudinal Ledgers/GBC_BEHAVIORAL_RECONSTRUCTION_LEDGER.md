@@ -6,11 +6,11 @@ status: active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E12
+source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E13
 materialization_authorized_at: checkpoint 2, E08 boundary
 physically_materialized_at: after checkpoint 3, E11 boundary
 bootstrap_evidence: canonical V2 E01-E11 readings and frozen E01-E04, E05-E08, and E09-E11 checkpoints
-mutable_state: E12 bundle-lane close
+mutable_state: E13 bundle-lane close
 update_pattern: append or revise after E12, E13, and the final checkpoint, retaining material revisions
 ---
 
@@ -80,3 +80,13 @@ The earlier state of each rule family is in checkpoint 1 §13 and checkpoint 2 �
 | SUBARU-CP3-R02, TOMO-CP3-R01 and ENSEMBLE-CP3-R03 | A majority vote at 13:58–14:10 follows the argument over comparable audiences. Tomo and Rupa have already questioned a different inference, from hard work to actual uptake, at 10:42–11:07. Rupa later reframes who has standing to make the next decision. | Strengthen distributed correction. The new bounded warnings coexist with the E09 lifetime verdict. The return to work tests continuation after disagreement, before the release figure arrives. |
 | E12-RUPA-01 · provisional local extension | At 17:08–17:21 Rupa proposes that the person with the closest history with the rival, Momoka, should decide, even though Rupa herself earlier voted differently. | Strong for the offered procedure in this case. The apparent aim is to give relevant history weight within a collective choice. It supplies no standing veto, general hierarchy, or result for Rupa's family-specific rules. |
 | ENSEMBLE-CP3-R02 and MATERIAL-CP3-R01 | In a proposed two-day booking two separate audiences would decide the competition by sales and attendance. On hearing Miura's exposure/reputational tradeoff, Nina still argues that an opportunity to play matters (12:19–13:26, 14:25–15:01, 16:30–16:57). | Strengthen distinct aims inside shared work and the institutional costs of choice. Agency opponents' private motives, a final contract signature and the show's attendance are open at E12. |
+
+## E13 · What happens to the rules after the low count
+
+| Working rule | E13 test and observed response | Disposition and boundary |
+|---|---|---|
+| NINA-CP3-R01, R04, R05, R09 | Hina links help to an admission that Nina was wrong (08:02–08:22). Nina declines. At the shrine she admits the protected child joined the bullying and feared the other children (12:10–12:43). On stage she calls the pride she felt on the way to intervene part of what she liked in herself (19:16–19:49). | Strengthen the link between self-liking and acting despite foreseeable cost. She can recognize danger and mixed motives. Under this trigger she still refuses to disown the past act. No inference about an unconditional ability to take correction follows. |
+| NINA-CP3-R07, HINA-CP3-R02 | The popcorn meeting gives Hina her own prediction, offer and demand. During the MC Nina breaks off at Hina’s name, then recasts Momoka’s song as available to both listeners (19:49–20:09, frames 1173–1186). Hina watches. | Strengthen recognition that the other person has her own relation to the song. Hina’s relief, regret and intention in making the offer remain open. The backstage claim that she wants Nina to resist is explicitly speculative. |
+| MOMOKA-CP3-R02, R05; ENSEMBLE-CP3-R02, R03 | Momoka is willing to lower her head on behalf of the group at home (10:08–10:57). Nina objects. The members later lower their heads together while taking responsibility to Miura (13:50–14:11). | Professional responsibility changes the meaning of the same gesture. The disagreement survives in their shared choice. It supplies no universal veto or rule against apologizing. |
+| TOMO-CP3-R01; ensemble correction | Tomo calls Nina wrong and Hina right about the practical situation, pauses, then says she loves Nina’s singing (12:43–13:05). Rupa joins the embrace and the members discuss responsibility (13:06–13:18). | Strengthen correction and attachment as compatible actions. Tomo hedges the other three members’ feelings with 多分. Her rejection of the hug’s form and her musical preference are both relevant. |
+| Material continuity | The five bow, turn down the combined bill, say they plan to work freelance and perform for the people who arrived (13:33–15:08, 18:43–22:11). | The costs of their choice become specific. Neither long-term stability, exact liabilities nor financial recovery can yet test the rule. |

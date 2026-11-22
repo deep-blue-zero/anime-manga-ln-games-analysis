@@ -6,11 +6,11 @@ status: active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E12
+source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E13
 materialization_authorized_at: checkpoint 2, E08 boundary
 physically_materialized_at: after checkpoint 3, E11 boundary
 bootstrap_evidence: canonical V2 E01-E11 readings and frozen E01-E04, E05-E08, and E09-E11 checkpoints
-mutable_state: E12 bundle-lane close
+mutable_state: E13 bundle-lane close
 update_pattern: append or revise after E12, E13, and the final checkpoint, retaining material revisions
 ---
 
@@ -58,3 +58,12 @@ Each row combines relevant dimensions from architecture §6.1. An unreported pro
 | Tomo and Rupa → Nina, 10:42–11:07; Rupa → band, 17:08–17:21 | Tomo's short warning that circulation is difficult and Rupa's polite acknowledgment that nobody may take up a release contest Nina's inference from hard work. Rupa later proposes giving Momoka the decision about the rival bill and opens space for assent. | Strong for the distinct intervention, provisional for the final short turn's exact speaker. No reference here to Rupa's family loss is warranted. |
 | Subaru → peers and agency, 13:27–14:28 and 15:04–15:23 | Subaru's question about what Diamond Dust's members think precedes a different speaker's account of Hina. She helps move the five toward a vote, then asks Nina whether the refusal still bothers her. | Strong for organizing and following up. Decisive source distinctions are the changes at frames 763, 768 and 775. Family disclosure has no new test. |
 | Miura → five, 14:25–15:01 and 21:08–21:26; Nina alone, 21:47–22:10 | `正直わかりません` closes Miura's account of mixed institutional incentives. She later voices faith in the song's prospects. Nina's repeated prayer reduces the desired number from a billion to ten thousand; the handset shows 103 and she asks `なんだこれ`. | High for addressee, stated values and on-screen figure. Miura's forecast does not settle market response. No later behavior after the first shock can be inferred from this unit. |
+
+## E13 · The addressee changes what an admission costs
+
+| Speaker and listener | Construction and situated action | Reach of the evidence |
+|---|---|---|
+| Nina ↔ Hina | The school-memory dialogue puts ばってん and 黙っとられん beside acknowledgment that Nina understands Hina (00:52–01:03). Present Hina offers help on the condition 間違ってたって言えば (08:16). At home Nina answers 私 言いたくありません / 間違ってないから (10:46–10:53). | The wording and subsequent retelling establish Nina’s refusal to renounce the intervention. The cold open ends in 夢か, placing it within Nina’s perspective. The imagined exchange has a different status from the observable present meeting. |
+| Tomo → Nina and peers | 間違ってるわよ gives way to でもね / でも… and あんたの歌声が好き (12:43–13:01). Nina embraces Tomo, and Rupa joins. Tomo uses 多分 to extend her account to the others. | The musical preference is Tomo’s own statement. The subtitle and repetition establish the turn’s construction. Breath, timbre and exact force need a listening pass. |
+| Nina → Miura and audience | Nina asks Momoka not to bow at 10:57, then thanks Miura and says ごめんなさい わがままで (14:21–14:36). The MC moves from 好きでした about the intervening self to 私だけの歌じゃない about music she shared with Hina (19:16–20:08). | She can apologize for imposing costs and acknowledge shared ownership of a listening experience while defending the school decision. At 20:28 she asks the audience to witness a beginning. A microphone and public witness have changed the stakes of the same vocabulary. |
+| Miura, Momoka and Subaru in the process | Miura first asks for time to improve promotion and later promises to handle finances and the contract (03:22–03:44, 14:36–14:55). Momoka entertains a practical rescue, then accepts the group’s responsibility. The friends can mock Nina’s stubbornness and endorse playing together (13:14–13:30, 17:25–17:39). | Collective agreement is visible. The tracks’ speaker fields are blank. Fine attribution of some fast interjections remains provisional. |

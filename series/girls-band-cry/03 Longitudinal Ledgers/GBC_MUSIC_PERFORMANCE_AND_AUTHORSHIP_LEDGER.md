@@ -1,7 +1,7 @@
 ---
 series: GBC
 artifact_type: longitudinal_ledger
-scope: "Music, performance and authorship; E01–E12"
+scope: "Music, performance and authorship; E01–E13"
 analysis_generation: V2
 status: canonical
 source_boundary: "GBC-V2-SOURCE-LOCK-1.0; episode-local V2 readings and three frozen checkpoints"
@@ -37,3 +37,9 @@ Checkpoint routes by evidence boundary: [E04](../02%20Sequential%20Readings/GBC_
 ## E12 · Studio, concert proposal and release
 
 At the hot pot Momoka records an idea, then supplies tentative lyrics for 運命の華. Other members suggest reordering the music. At 15:41–16:18 a trendy modulation is considered and Nina asks if the result still expresses all five. C015 remains open for the precise change retained. Nakata’s later judgement reflects weeks of work. [Episode 12](../02%20Sequential%20Readings/GBC_E12_DEEP_READING.md)
+
+## E13 · An authored single becomes a collective live address
+
+At 17:25–17:39 the band praises Nina’s improvement, names the park practice and agrees to her playing. Her hands work the honey-colored guitar beside the vocal microphone (frames 1211 and 1312–1314). E12’s unmastered instrument and shop encounter gain an observable performance outcome. Purchase, exact model and execution quality remain open. Momoka’s E12 lyric draft belongs beside the live refrain 運命の華 (21:37–21:45). Nina’s change from speaker to playing singer, and the separately visible guitar, bass, drums and keyboard, document a distributed performance. These images do not assign all composition, arrangement, backing voices or recording parts to a single member.
+
+Nina says Momoka’s earlier song reached her and Hina (19:49–20:09). The live song’s retrospective inserts place additional players’ histories inside the show; their images do not imply that all five wrote the text. Japanese styles distinguish the insertion IN_01_JP (20:37–21:45) from ED_JP (22:15–23:35). The stills and complete mixed-track measurements establish a continuing soundtrack after the last live lyric. Two E13/E12 ED waveform windows, lasting about 45 and 38 seconds, agree at r=.969 and .962 after time alignment. This supports a repeated closing track. Isolated parts, an exact take, vocal technique and the modulation considered in E12 are unverified. [Episode 13](../02%20Sequential%20Readings/GBC_E13_DEEP_READING.md)

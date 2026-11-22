@@ -1,7 +1,7 @@
 ---
 series: GBC
 artifact_type: longitudinal_ledger
-scope: "Visual form and direction; E01–E12"
+scope: "Visual form and direction; E01–E13"
 analysis_generation: V2
 status: canonical
 source_boundary: "GBC-V2-SOURCE-LOCK-1.0; episode-local V2 readings and three frozen checkpoints"
@@ -37,3 +37,9 @@ Checkpoint routes by evidence boundary: [E04](../02%20Sequential%20Readings/GBC_
 ## E12 · Studio, concert proposal and release
 
 Two group photographs carry different purposes (frames 22 and 568). The distinct raised hands at frames 797–804 establish the 2–3 vote. Shrine frames 1004, 1013 and 1014 expand a two-person address to five participants. Frames 1132/1136 repeat the same reading of 103; no second commercial result is implied. [Episode 12](../02%20Sequential%20Readings/GBC_E12_DEEP_READING.md)
+
+## E13 · Three kinds of images in the finale
+
+The opening classroom closes on Nina waking (01:07–01:14). The same school decision acquires a different perspective when she tells the others, then the audience, why she liked her decision to act (12:10–12:43, 19:16–19:49). Framing recurs with changed stakes when Miura bows in the conference room (03:26), Momoka lowers her head at the kotatsu (10:08) and the five bow to Miura beneath the window (13:50–14:11). The envelope is legible as 退所願. The same physical act can request aid, acknowledge costs or show respect.
+
+At 20:45–21:20 uniforms, an auditorium and trophy, an instrument shop, joined hands, domestic objects and a spiral of pictures interrupt views of the live players. A blossom-like figure and a white-out answer the last lyric before cuts return to the venue and spectators (21:37–21:56). The literal stage thanks at 22:05–22:11 precedes the red credit logo (frame 1346, 22:15.084). Paired stills from E12 and E13 reproduce specific drawings: 1144/1347, 1150/1350, 1157/1357, 1165/1365, 1169/1369 and 1176/1376. The credits change while the group’s equipment, van, snapshot strip and red cable recur. The evening’s actual performance, the live song’s associative inserts and the ending’s illustrated panels therefore support different temporal claims. [Episode 13](../02%20Sequential%20Readings/GBC_E13_DEEP_READING.md)

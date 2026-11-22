@@ -1,10 +1,10 @@
 ---
 series: GBC
 artifact_type: longitudinal_ledger
-scope: E01-E12
+scope: E01-E13
 analysis_generation: V2
 status: active_provisional
-source_boundary: GBC-V2-SOURCE-LOCK-1.0 through E12, including the E11 checkpoint
+source_boundary: GBC-V2-SOURCE-LOCK-1.0 through E13, including the E11 checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -181,3 +181,11 @@ The status column uses the first decision verb in the latest recorded assessment
 ## E12 · Studio, concert proposal and release
 
 C006/C014/C070 STRENGTHEN (paid work, revenue share and Miura’s candor); C008/C033 STRENGTHEN (Momoka’s draft and five-person revision). REJECT V1’s Nina hot-pot attribution and Subaru Hina-impression attribution (frames 447–449 and 763–771). C015 REVISE to demonstrated discussion, audible retained parameter OPEN. C021/C023/C028/C048/C051 STRENGTHEN in the reading’s bounded scope. C052–056 OPEN for individual motives behind the offer. C059/C060/C062 PRESERVE. C066 STRENGTHEN for visible states, C069 OPEN for timing. C005/C071 REVISE to 103 plays at one check. [Episode 12](../02%20Sequential%20Readings/GBC_E12_DEEP_READING.md)
+
+## E13 · Closing decisions and evidence for an epilogue
+
+C005/C071 REVISE across E12–E13. The counter of 103 is the E12 release check. The finale separately reports slower-than-forecast uptake and advance sales under three tenths of capacity. Neither measure gives final attendance. C015 remains OPEN for the retained modulation. C052–056 distinguish the joint-bill proposal from Hina’s face-to-face condition and the friends’ speculative reading of her motive (07:22–08:22, 17:58–18:20). C070 STRENGTHEN for the manager’s candor and her explicit undertaking to address the costs and contract (14:36–14:55); completed settlement remains OPEN.
+
+The final thanks at Club Città is LITERAL. The intention to keep going is STRONGLY_IMPLIED by the oath and already acted upon at the concert. The credits make a SYMBOLIC assembly of plausible activities, snapshots and repeated graphic devices. Matching E12/E13 illustrations and the closely aligned ED recording constrain the proposed chronology. Whether a given panel records a dated subsequent action or specific change of circumstances is OPEN unless independently attested. [Episode 13](../02%20Sequential%20Readings/GBC_E13_DEEP_READING.md)
+
+At E13 C043 STRENGTHEN for the distinction between strategic judgment, affection and voice. C072–074 retain documented financial exposures and one audition; causal, group-wide and settled-debt claims require narrower formulations. C075 REVISE to a mixed ontology. C076 OPEN for enrollment; C077 PRESERVE for distributed activities; C078–080 REVISE for implied collaboration and formal links, with the specific pact and seating hierarchy unconfirmed. C081–083 OPEN on lasting care, cessation and financial consequences. C084 STRENGTHEN for the two player titles, with the second confirmed in a separately matched derivative. The EP13 adjudication table identifies the witnesses.

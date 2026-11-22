@@ -1,7 +1,7 @@
 ---
 series: GBC
 artifact_type: longitudinal_ledger
-scope: "Industry, labor and autonomy; E01–E12"
+scope: "Industry, labor and autonomy; E01–E13"
 analysis_generation: V2
 status: canonical
 source_boundary: "GBC-V2-SOURCE-LOCK-1.0; episode-local V2 readings and three frozen checkpoints"
@@ -37,3 +37,9 @@ Checkpoint routes by evidence boundary: [E04](../02%20Sequential%20Readings/GBC_
 ## E12 · Studio, concert proposal and release
 
 ¥200,000 salary, unquantified revenue share, last shift and ¥79,200 guitar place professional work against household spending. The two-night Club Citta proposal offers a drama theme according to sales and attendance. Separate audiences favor existing draw. 1,300 on the proposal and 103 on the release app measure different things. [Episode 12](../02%20Sequential%20Readings/GBC_E12_DEEP_READING.md)
+
+## E13 · Who bears the cost of declining the rescue
+
+Miura accepts responsibility for promotion (03:22–03:44). Hina reports that TogeToge’s night has sold under three tenths of capacity and that a two-night joint bill could lift ticket sales (07:22–07:38). Her conditional offer to Nina and the manager’s commercial proposal carry different terms. Nina learns that the agency helped solicit the rescue. At 13:33–14:11 the five decline, submit an envelope marked 退所願, ask for event costs and promise repayment at an unspecified date. At 14:46 Miura says she and the agency will handle money and the contract. These are distinct undertakings. Final settlement, legal liability, actual gate, the drama-theme award and a new agency agreement remain open.
+
+At 15:01 the group says it plans to work freelance. At 15:17 Nakata conditions a free session on survival in ten years. The subsequent restaurant visit and oath (15:27–16:14) locate professional independence in existing relationships. The venue, merchandise table and paying public become visible forms of continuing labor. The earlier ratio is reported advance sales; later stage views cannot supply the final number. [Episode 13](../02%20Sequential%20Readings/GBC_E13_DEEP_READING.md)

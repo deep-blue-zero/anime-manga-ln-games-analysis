@@ -6,11 +6,11 @@ status: active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E12
+source_boundary: GBC-V2-SOURCE-LOCK-1.0, TV E01-E13
 materialization_authorized_at: checkpoint 2, E08 boundary
 physically_materialized_at: after checkpoint 3, E11 boundary
 bootstrap_evidence: canonical V2 E01-E11 readings and frozen E01-E04, E05-E08, and E09-E11 checkpoints
-mutable_state: E12 bundle-lane close
+mutable_state: E13 bundle-lane close
 update_pattern: append or revise after E12, E13, and the final checkpoint, retaining material revisions
 ---
 
@@ -51,3 +51,12 @@ The binding earlier relationship formulations remain in checkpoint 1 §8, checkp
 | Tomo ↔ Rupa ↔ former coworkers | 01:58–02:10 and 04:37–05:32. Both prioritize their restaurant's final shift, receive copies of the contract and accept thanks in the workplace. At 10:42–11:07 they separately qualify Nina's hopes of reaching listeners. | Shared wage work and musical collaboration overlap without making them one voice. The episode supplies no evidence of change in the two family relationships. |
 | Five ↔ Miura | 11:56–15:01. A split vote produces a refusal which Miura agrees to convey. In answer to Nina she gives the case for exposure and the case against an unfavorable public comparison. At 16:30–17:21 the band reopens the decision; Rupa's own favorable vote does not prevent her from proposing Momoka as decision maker. | Distinguish an agent's duty to communicate, her own ambivalent advice, and the band's discretion. Neither rival intention nor the exact offscreen receipt of the revised decision is established. |
 | Band ↔ Nakata and Miura | 19:58–21:26. Nakata praises what he recognizes in the arrangement after weeks working alongside them. Miura likes it and believes it will sell. They have different roles and grounds for their judgments. | Professional recognition can be genuine regardless of how many people press play. The 103 displayed to Nina is one count at one check and supplies neither coworker's later response. |
+
+## E13 · Agreement on what to do leaves room for disagreement
+
+| Pair or group | Episode action | Change and limit |
+|---|---|---|
+| Nina ↔ Hina | Present teasing, a commercial rescue and an explicit demand for an admission occupy the same meeting (05:54–08:27). The backstage arrow prank is followed by speculation about Hina’s motive (17:49–18:20). During the MC Nina remembers sharing Momoka’s music with Hina, who watches from the venue (19:49–20:09, 21:49–21:56). | Physical attendance, continuing knowledge of each other and a once-shared musical attachment are supported. Intentional encouragement behind the demand, private forgiveness and achieved reconciliation remain open. |
+| Nina ↔ Tomo ↔ Rupa | Tomo rejects Nina’s practical judgment, says she loves her singing, protests the ensuing hug and is gathered into it by Rupa (12:43–13:13). | Affection gives disagreement somewhere to go. Tomo’s 多分 marks the point where she starts speaking about the others. Rupa’s action contributes independent evidence of affiliation. |
+| Nina ↔ Momoka ↔ five | Nina objects to Momoka bowing for a favor (10:08–11:09). In the agency scene all five bow over expenses (13:50–14:11). The restaurant oath and the park-practice discussion (15:42–15:56, 17:25–17:40) give the ensemble shared places and practical work beyond a single reassuring pair. | The relation can sustain refusal, material obligation and a public musical commitment. No extra conventional couple status or settled private hierarchy follows. |
+| Five ↔ Miura and Nakata | They explicitly appreciate help, decline altered terms, submit their request and tell the engineer they will try freelance work (13:33–15:24). Miura offers practical protection and Nakata offers a conditional return. | Ending representation leaves mutual regard intelligible. Neither goodwill nor a ten-year invitation supplies a future contract or reunion. |
