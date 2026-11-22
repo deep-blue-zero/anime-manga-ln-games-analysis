@@ -131,3 +131,35 @@ Counts: main narrative 156, apparatus 10, extras 4, advertising 1. There is no n
 | FXK-SO-004 legibility of dense screens and small numerals | Completed for V02, with the glitched memory digits (i0105–i0106) unreadable by design and recorded in the reading |
 
 FXK-SO-001 and FXK-SO-005 are unchanged by V02.
+
+## V03 coverage
+
+Recorded by the V03 principal for run FXK-RUN-20261119-V01-V10 and accepted with the V03 transaction by the run coordinator on 2026-11-21. The [V03 deep reading](readings/FX_KURUMI_V03_DEEP_READING.md) holds the full receipt; the [V03 checkpoint](checkpoints/FX_KURUMI_V03_CHECKPOINT.md) records each role's coverage and every disposition.
+
+- **Witness.** FXK-JP-V03-W01, package title 「FX戦士くるみちゃん　3」: 171 image occurrences at 1350×1920, right-to-left, Kindle-unpack lineage. The colophon (i0170) gives e-book ver.001, published 2022-08-23 by KADOKAWA, first serialized in 月刊コミックフラッパー 2022年3月号〜2022年7月号: five issues for the five chapters. Colour occurrences: i0001, i0003–i0006, i0166–i0169 (i0168–i0169 two-colour).
+- **Occurrences reviewed.** The principal opened every occurrence i0001–i0171: the main narrative in spine order first, the back apparatus after the main-narrative exit freeze, and the covers, flap, wraparound and under-jacket images only after that freeze. Each of the two independent specialists also opened all 171 occurrences, in spine order. The reviewer triaged every occurrence on contact sheets and opened the decisive pages at reading resolution or in crops.
+- **Page order, folios and spreads.** The printed folio equals the occurrence number minus 2 through the p-NNN run (p.1 = i0003 to p.163 = i0165; printed folios checked, for example "23" on i0025, "81" on i0083, "145" on i0147 and "158" on i0160). Even occurrences are right-hand pages and odd ones left-hand pages, so openings are (even | odd); the spine properties and art across the gutter confirm this. Spreads: i0004+i0005 (the title spread) and i0154+i0155 (one chart running across the gutter, read left page to right page in time). No missing, duplicated or out-of-order page was found.
+
+| Component | Occurrences | Notes |
+| --- | --- | --- |
+| Apparatus: front cover and flap | i0001, i0002 | Read by the principal after the main-narrative freeze; promotional, not diegetic |
+| Main narrative | i0003–i0162 (160) | A colour cold open i0003 with the strip 「第3集 火柱」, grouped with 第11話; 第11話 i0004–i0038 (label on the title spread); 第12話 i0039–i0070; 第13話 i0071–i0102; 第14話 i0103–i0136; 第15話 i0137–i0162, ending "TO BE CONTINUED…". No separator page inside the main run |
+| Apparatus: separator | i0163 | Black grid page with the series logo |
+| Extra: bonus strip | i0164 | 「3巻記念! やす子ちゃん初めてのコミチア」; classified only; not narrative evidence |
+| Extra: order-types tutorial | i0165 | 「巻末特典! FXの注文方法」; classified only; its remark on 第15話 is not used as evidence |
+| Apparatus: wraparound jacket | i0166–i0167 | Publisher blurb and a collage of V03 panels; repeats the cover and flap; paratext |
+| Extras: under-jacket bonuses | i0168–i0169 | Design notes on Mebuki's family; the author's 2008 stock anecdote; classified only; not narrative evidence |
+| Apparatus: colophon | i0170 | Bibliographic |
+| Advertising: vendor page | i0171 | Excluded |
+
+Counts: main narrative 160, apparatus 6, extras 4, advertising 1. There is no next-volume preview and no blank occurrence.
+
+- **Legibility and unresolved numerals.** All reading copies are legible. Every balance, trade and result box, P/L tile, chart axis and phone screen relied on was checked in enlarged crops; the reading's receipt lists them. Unreadable by design: the glitched negative figure on Mochiko's i0104 diagram (only 「−3,」 and 「…49」 visible), not reconstructed. Partly legible: the 18:30:09 and 18:30:11 figures of the i0037 second-by-second sequence (occluded or cut by the panel edge), not reconstructed; the leading digit of the top axis labels at i0162, hidden by a caption box (110.4–110.2 by the ladder); the dripping digits at i0038, read as 「−9,897円」 at MODERATE-HIGH. Kept as printed, not repaired: 「73.5%増」 against a computed 73.59% (i0092); the axis label 「169.6」 (i0123) and the spacing of 「105.05」 (i0130); the 100-yen residuals at i0137 and i0158, consistent with an unprinted average of 106.6325; Mochiko's average 「106.832円」 (i0148) against 「106.382円」 (i0154), the two late-October tiles favouring 106.832; 「平均買値」 printed on Mebuki's short (i0155); both 「¥」 and 「円」 on one tile (i0144); 「約17倍」 against a computed 17.9 (i0007). No broker stop-out level or margin-maintenance threshold is printed; a domestic maximum of 25× is printed once (i0007).
+
+| Obligation | V03 state |
+| --- | --- |
+| FXK-SO-002 ordered image map and duplicate check | Visual order confirmed for V03: every occurrence viewed in spine order, folio sequence continuous, no duplicates or gaps |
+| FXK-SO-003 component classification | Completed for V03 as tabled above; extras and advertising classified by glance and not used as narrative evidence |
+| FXK-SO-004 legibility of dense screens and small numerals | Completed for V03, with the glitched i0104 figure unreadable by design and the partial i0037 and i0162 figures recorded in the reading |
+
+FXK-SO-001 and FXK-SO-005 are unchanged by V03; the V03 package metadata and colophon both give the date 2022-08-23.
