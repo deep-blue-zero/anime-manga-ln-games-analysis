@@ -170,6 +170,61 @@ Recorded assessments of subjects in the `project-sekai` namespace of the [Charac
   - [`project-sekai:haruka@game#reviewed-monograph-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/05_CHARACTER_RECONSTRUCTION/KIRITANI_HARUKA/PJSK_KIRITANI_HARUKA_CHARACTER_MONOGRAPH.md)
   - [`project-sekai:haruka@game#reviewed-shared-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d970f85e940160938343d27cdcbc2826d1199885/series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
+### Subject `project-sekai:ichika@game`
+
+- Registry file: [`characters/reconstruction_capabilities/project-sekai/ichika@game.jsonl`](../reconstruction_capabilities/project-sekai/ichika@game.jsonl)
+
+<a id="project-sekai-ichika-game-generation-2-package-20261122-01"></a>
+
+#### Assessment `project-sekai-ichika-game-generation-2-package-20261122-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `project-sekai:ichika`
+- Scope: continuity `project-sekai-game`
+- Source boundary: Only the subject's three curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical V1 Leo/need main-story causal synthesis \(Japanese leo\_01\_00-leo\_01\_20, 1,746 records, at the EVENT\_0213 lock\), and the canonical Generation 2 Ichika \(Hoshino Ichika\) monograph and reconstruction model through EVENT\_0222 at the PJSK\_SOURCE\_20261030T035133Z\_EVENT\_0222 lock, located by story, event, card and area locators. Speech is the original-Japanese textual register; no performed voice or audiovisual analysis is admitted. The uncurated Ichika evidence index and its six-lane retrospective fit audit were read only as method context and calibration; the event readings, ledgers and Generation 1 files are not curated on this subject and no claim rests on them. The package's R4 readiness label is project-local and was not adopted. No primary source was inspected.
+- Temporal boundary: Ichika from the main story through EVENT\_0222. Default state: personal LN-EP-ICHIKA-E0212 within group LN-REL-G-E0220, after declining the second agency and the confrontation with Shiho, with her answer and the band's decision open. Earlier states are used only at the milestones the items locate \(main-story LN-ICHIKA-MS-P01 to P04; EVENT\_0101, 0128, 0137, 0143, 0147, 0182, 0202, 0212, 0220\); states between them rest on ledger snapshots that are not curated here. The boundary limits evidence, not knowledge; what she has not received is recorded separately in the items' knowledge tables.
+- Basis commit: `2c737335c530e592df242ed5a376a57c59efd45d`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `c0ded1548624f4a2f610683c6c998c76350fe4f6571a41069421a61ba47113f9`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative written-Japanese lines only, never presented as quotation; select state, recipient and mode before wording.
+  - `DIALOGUE` condition: Use 「私」 and given names without honorifics for Saki, Honami and Shiho; 「アオイさん」 and polite, specific appreciation for Aoi; polite narration for the public band account.
+  - `DIALOGUE` condition: Let a meaningful interest lengthen replies and let acute relational conflict interrupt them \(ellipsis, apology, short acknowledgment\); do not make her permanently terse.
+  - `DIALOGUE` condition: No sentence-final or particle inventory is given beyond these rows; no performed voice, pitch, prosody or timing.
+  - `CROSS_SCENARIO` condition: Supply temporal state, recipient relationship, known information, context and stakes before predicting a choice, as the model requires.
+  - `CROSS_SCENARIO` condition: Where a recipient or technical problem is concrete, predict initiative, requests for feedback and revision; where a close friend's hurt makes her own preference uncertain, predict hesitation, company and a modest acknowledgment, and do not force a clear answer.
+  - `CROSS_SCENARIO` condition: For a new second obligation, present refusal, a smaller commitment or further inquiry as available according to the supplied obligations; do not inherit the EVENT\_0212 answer automatically.
+  - `CROSS_SCENARIO` condition: Where others respond to her work differently from her intent, distinguish a welcomed creative response from an unconsented use and do not forecast which she finds in an unlocated case.
+  - `CROSS_SCENARIO` condition: Transfer to an unsampled relationship is a separate, lower-confidence condition.
+  - `CROSS_SCENARIO` bounds: chronology The default state through EVENT\_0222: personal LN-EP-ICHIKA-E0212 within group LN-REL-G-E0220, after declining the second agency and the confrontation with Shiho, with the band's decision and her answer open; she lacks the EVENT\_0140 singers' origin knowledge, Saki's shard dialogue and the canceled singer surprise. Or a located earlier state with its own knowledge \(LN-ICHIKA-MS-P04 at the main-story end, or the EVENT\_0128, 0143 or 0182 milestones\) without later disclosures.; interlocutor Leo/need bandmates \(Saki, Honami, Shiho\), School Miku, Aoi as an admired creator, Shindo and agency staff, listeners and new collaborators; transfer to an unsampled relationship is a separate, lower-confidence condition.; settings A new band, arranging, production or performance task, or a peer conflict matched in partners and stakes to the located cases \(D1, or D2 when another creative institution's obligations and relationships are supplied\).; No opaque institution without supplied structure, family conflict, danger or romance \(D3-D4\), and no major-label outcome or band decision.; Textual Japanese register only; no performed voice.
+  - `MUNDANE_SOCIAL` condition: Settings sampled: trusted friends \(Miku, bread, craft talk\), new collaborators, ordinary coordination, informal performance.
+  - `MUNDANE_SOCIAL` condition: Interest-led enthusiasm may run long and be followed by an apology until welcomed; embarrassment when praise or affection centers her.
+  - `MUNDANE_SOCIAL` condition: No routine, household or frequency claims.
+  - `ETHICAL_DELIBERATION` condition: Matched dilemmas only: risk to a friendship against others' disparagement, consent and permission around her own work, allocation of effort among valued obligations.
+  - `ETHICAL_DELIBERATION` condition: Reconstruct her located reasons \(choosing the friendship, permission-based exchange, full effort to the quartet and listeners\); do not supply a weighing rule for unlocated cases.
+  - `ETHICAL_DELIBERATION` condition: No family, legal or high-danger ethics.
+  - `PROFESSIONAL_CONTEXT` condition: Band, arranging, production, commission and agency work with Leo/need, School Miku, Aoi, Shindo and Opus at the default or a located state.
+  - `PROFESSIONAL_CONTEXT` condition: Supported: song-specific authorship decisions, coauthorship that contributes structure without overwriting a partner's distinctions, asking about rules and revising a mistaken assumption after explanation, accepting present limits as a collective obligation, declining an added obligation for quality reasons.
+  - `PROFESSIONAL_CONTEXT` condition: Not supported: the major-label outcome, the band's decision, a future career allocation or rest management.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `e0220-silence-not-reversal` (evidence-backed limitation): Her inability to answer Shiho in EVENT\_0220 is not a reversed contract choice and does not reveal a solo-career preference; the band's decision is open.
+  - `hypothetical-and-alternative-experience` (evidence-backed limitation): The EVENT\_0202 vow to continue music is hypothetical, not demonstrated bereavement behavior, and the EVENT\_0171 alternative life is a remembered experience, not her biography.
+  - `intermediate-states-uncurated` (evidence gap): States between the located milestones rest on ledger snapshots and a Generation 1 file that are not curated on this subject.
+  - `knowledge-boundaries-e0220` (evidence-backed limitation): She does not automatically know Saki's shard dialogue, the canceled singer surprise live, private producer conversations or other units' crises, and the start of her overhearing in EVENT\_0220 is unknown.
+  - `main-story-witness-boundaries` (evidence-backed limitation): In the main story Honami misses Shiho's first disclosure and Saki and Shiho do not demonstrably hear the whole rooftop exchange; the friends do not share every private scene.
+  - `no-performed-voice` (evidence gap): Speech evidence is original-Japanese text; pitch, prosody and timing are not analysed.
+  - `no-singer-origin-knowledge` (evidence-backed limitation): She does not receive the EVENT\_0140 singers' origin memories; human characters must not be given them.
+  - `open-answer-and-allocation` (evidence gap): The curated items do not determine what she will answer Shiho after EVENT\_0220 or how she would allocate a new second obligation, and do not decide every case of welcomed response versus unconsented use.
+  - `refusal-is-precedent-not-rule` (evidence-backed limitation): Declining the second agency in EVENT\_0212 is a D0 precedent, not a rule that she rejects every future opportunity.
+  - `weak-distant-domains` (evidence gap): Family conflict, opaque institutions, danger and romance \(D3-D4\) are weakly constrained by the curated items.
+  - `welcomed-transformation-not-consent` (evidence-backed limitation): Welcoming others' interpretations of WITH \(EVENT\_0182\) is not blanket consent to every use of her work.
+- Evidence at basis commit:
+  - [`project-sekai:ichika@game#reviewed-model-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2c737335c530e592df242ed5a376a57c59efd45d/series/project-sekai/05_CHARACTER_RECONSTRUCTION/HOSHINO_ICHIKA/PJSK_HOSHINO_ICHIKA_RECONSTRUCTION_MODEL.md)
+  - [`project-sekai:ichika@game#reviewed-monograph-through-event-0222`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2c737335c530e592df242ed5a376a57c59efd45d/series/project-sekai/05_CHARACTER_RECONSTRUCTION/HOSHINO_ICHIKA/PJSK_HOSHINO_ICHIKA_CHARACTER_MONOGRAPH.md)
+  - [`project-sekai:ichika@game#reviewed-shared-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2c737335c530e592df242ed5a376a57c59efd45d/series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
+
 ### Subject `project-sekai:minori@game`
 
 - Registry file: [`characters/reconstruction_capabilities/project-sekai/minori@game.jsonl`](../reconstruction_capabilities/project-sekai/minori@game.jsonl)

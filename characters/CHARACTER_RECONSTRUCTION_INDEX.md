@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 222; `STALE` 3; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 223; `STALE` 3; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -47,7 +47,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 4 | 4 |
 | [`oreimo`](reconstruction_index/oreimo.md) | 2 | 2 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
-| [`project-sekai`](reconstruction_index/project-sekai.md) | 8 | 9 |
+| [`project-sekai`](reconstruction_index/project-sekai.md) | 9 | 10 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 21 | 25 |
 | [`rent-a-girlfriend`](reconstruction_index/rent-a-girlfriend.md) | 1 | 1 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
@@ -218,6 +218,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `project-sekai:airi@game` | [`project-sekai-airi-game-generation-2-package-20261121-01`](reconstruction_index/project-sekai.md#project-sekai-airi-game-generation-2-package-20261121-01) | `CANDIDATE` | `B` | `ceaf6e27f4ab956a72e9f59ffcfc9085b2b0aa9a` |
 | `project-sekai:emu@game` | [`project-sekai-emu-game-generation-2-package-20261119-01`](reconstruction_index/project-sekai.md#project-sekai-emu-game-generation-2-package-20261119-01) | `CANDIDATE` | `B` | `d970f85e940160938343d27cdcbc2826d1199885` |
 | `project-sekai:haruka@game` | [`project-sekai-haruka-game-generation-2-package-20261119-01`](reconstruction_index/project-sekai.md#project-sekai-haruka-game-generation-2-package-20261119-01) | `CANDIDATE` | `B` | `d970f85e940160938343d27cdcbc2826d1199885` |
+| `project-sekai:ichika@game` | [`project-sekai-ichika-game-generation-2-package-20261122-01`](reconstruction_index/project-sekai.md#project-sekai-ichika-game-generation-2-package-20261122-01) | `CANDIDATE` | `B` | `2c737335c530e592df242ed5a376a57c59efd45d` |
 | `project-sekai:minori@game` | [`project-sekai-minori-game-generation-2-package-20261119-01`](reconstruction_index/project-sekai.md#project-sekai-minori-game-generation-2-package-20261119-01) | `CANDIDATE` | `B` | `d970f85e940160938343d27cdcbc2826d1199885` |
 | `project-sekai:nene@game` | [`project-sekai-nene-game-generation-2-package-20261116-01`](reconstruction_index/project-sekai.md#project-sekai-nene-game-generation-2-package-20261116-01) | `CANDIDATE` | `B` | `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27` |
 | `project-sekai:rui@game` | [`project-sekai-rui-game-generation-2-package-20261116-01`](reconstruction_index/project-sekai.md#project-sekai-rui-game-generation-2-package-20261116-01) | `CANDIDATE` | `B` | `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27` |
