@@ -93,7 +93,8 @@ The principal integrator owns canonical rulings and shared-file writes. Separate
   - completed/frozen TV source horizon: E13 / TV 13 of 13 complete
   - frozen short readings through Short 06: [Short 02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md) · [Short 03](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md) · [Short 04](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md) · [Short 05](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md) · [Short 06](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md)
   - current source boundary: SHORT06_SOURCE_NATIVE_FREEZE. CP4_POST_E13 is adjudicated and closed.
-- Next operation: Integrate the 12 accepted supplementary readings against frozen CP5 using the cross-source method. Phases E and F link the individually accepted A2, B1 and C1 evidence.
+- Current integrated evidence: [cross-source comparisons](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) and [character reconstruction evidence matrix](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md).
+- Next operation: Complete the literary character monographs and relationship study, then test the distinct operational reconstruction models. Phases E and F link to the twelve source-native readings.
 - Corpus-wide project initiation policy:
   - `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`
   - Drive ID: `1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC`
@@ -136,7 +137,7 @@ V1 remains historically authoritative for what the project previously concluded,
 # 2. Project state
 
 
-- Status: **V2 / CP5 FROZEN / CROSS-SOURCE INTEGRATION OPEN**
+- Status: **V2 / CP5 FROZEN / CROSS-SOURCE COMPARISONS ACCEPTED / SPECIALIST SYNTHESIS IN PROGRESS**
 - Active analytical generation: **V2**
 - V2 architecture: **CANONICAL**
 - V2 analytical method: **CANONICAL**
@@ -382,7 +383,11 @@ Lycoris Recoil/
 |   |   |-- LYCORIS_RECOIL_V1_TO_V2_CLAIM_REVISION_LEDGER.md
 |   |   `-- LYCORIS_RECOIL_PROSPECTIVE_PREDICTION_REGISTER.md
 |   |
+|   |-- 06 Cross-Media Analysis/
+|   |   `-- LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md
+|   |
 |   `-- 07 Evidence and Indexes/
+|       |-- LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md
 |       `-- LYCORIS_RECOIL_PRIMARY_SOURCE_LOCATOR_INDEX.md
 |
 `-- 04 Final Release/
@@ -390,7 +395,7 @@ Lycoris Recoil/
 ```
 
 
-`02 Sequential Readings/Anime` contains frozen canonical TV E01-E13 readings. The frozen short readings now extend through Short 06. Other V2 semantic layers remain absent until they acquire a real analytical responsibility.
+`02 Sequential Readings/Anime` contains frozen canonical TV E01-E13 readings. The frozen short readings now extend through Short 06. The crosswalk and evidence matrix carry the source comparisons and conditional reconstruction evidence.
 
 
 Do not create empty categories for visual symmetry.
@@ -491,7 +496,7 @@ Read source-natively:
 2. [*Recovery days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_RECOVERY_DAYS_DEEP_READING.md) — source-native reading accepted.
 3. [*Gluttony days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_GLUTTONY_DAYS_DEEP_READING.md) — source-native reading accepted.
 
-The [supplementary participation record](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) distinguishes principal inspection from independent coverage for each unit. The [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) records proposed comparisons against CP5.
+The [supplementary participation record](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) distinguishes principal inspection from independent coverage for each unit. The [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) records the accepted comparisons against CP5.
 
 
 Each work is interpreted as prose before its character evidence is integrated.
@@ -510,16 +515,9 @@ Read:
 ## Phase G — Cross-source synthesis and reconstruction
 
 
-Build:
+The [crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) records A2 focalization and conduct, B1 comparisons from both *Recollect* volumes, and all 89 C1 contributor entries. The [evidence matrix](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md) pairs those comparisons with the anime development state, current knowledge, interlocutor and stakes. [The integration transaction](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_COMPLETION_REGISTER.md#cross-source-integration-against-cp5) records the independent checks and their limits.
 
-
-- source-local character realizations;
-- anime ↔ prose crosswalks;
-- Recollect variance;
-- anthology variance;
-- characterization invariants;
-- mature character behavioral reconstructions;
-- specialist syntheses.
+The literary monographs, relationship study, integrated operational models, validation and specialist syntheses are in progress.
 
 
 ## Phase H — Full V2 integration and release
@@ -639,7 +637,7 @@ The following are intentionally unresolved rather than corpus deficiencies:
 - exact Mika→Yoshimatsu lethal mechanics remain intentionally off-screen; current authority is direct armed protective confrontation + later Yoshimatsu death/heart retrieval, not an invented visible trigger pull;
 - Hawaii travel/passport mechanics and any ordinary civic-status normalization remain unexplained; E02 civic exclusion is pressured but not erased;
 - Majima, loose firearms, DA secrecy/accountability, and broader political legitimacy remain unresolved at the TV endpoint;
-- no supplementary source has been admitted into integrated V2 characterization;
+- the source comparisons are accepted. The operational limits for each character, some source-specific contradictions and the prospective validation of integrated predictions remain open;
 - main Bizen adaptation remains optional/outside the mandatory source boundary.
 
 ---
@@ -700,7 +698,7 @@ project_initialization:
   supplementary_source_access: open_after_cp5
   supplementary_narrative_volumes_provisional: 0
   supplementary_narrative_volumes_accepted: 12
-  supplementary_integration_lock: pending_cross_source_integration
+  supplementary_integration_lock: cross_source_integration_accepted
 ```
 
 
@@ -711,7 +709,7 @@ project_initialization:
 
 The [V2 completion register](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_COMPLETION_REGISTER.md) records the starting authority, per-volume responsibilities and evidence required for final release.
 
-All 12 supplementary narrative readings have passed their source-native transactions. Reconcile their material comparisons in the [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) before promoting any integrated characterization. Preserve the CP5 anime-native account, distinguish A2 focalization from authored B1 and contributor-local C1 realizations, and route accepted changes through the established ledgers. Open listener referrals and chronology limits travel with CP5.
+The [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) and [evidence matrix](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md) now govern comparative attribution. Use them to develop the literary character and relationship studies and the later operational models. Open listener referrals and chronology limits remain part of the CP5 evidence record.
 
 # 14. Retrieval route
 
@@ -734,4 +732,4 @@ When resuming:
 
 # 15. Governing current-state statement
 
-The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The three novels, both *Recollect* volumes and seven anthologies have 12 accepted source-native readings. The *Heroine Archive* has a separately attributed production-reference record. The integrated characterization comparisons remain provisional pending the full pass against CP5. CP5 governs the anime-native evidence boundary.
+The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The three novels, both *Recollect* volumes and seven anthologies have 12 accepted source-native readings. The *Heroine Archive* has a separately attributed production-reference record. The accepted cross-source comparisons distinguish the A2, B1 and C1 layers and preserve CP5 as the anime-native evidence boundary. The full-series synthesis and integrated reconstruction release remain in progress.
