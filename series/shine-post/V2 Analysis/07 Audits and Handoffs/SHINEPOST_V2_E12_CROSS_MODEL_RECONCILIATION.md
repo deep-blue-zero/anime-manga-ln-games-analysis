@@ -158,7 +158,7 @@ Ren attends beside the others. Homare has her own place across the stairs. The c
 Evidence — candidate L6. SPV2-OBS-E12-05, SPV2-OBS-E12-23, SPV2-OBS-E12-55, SPV2-CLM-E12-55.
 
 **SPV2-X-E12-033 · ATTRIBUTION_CONFLICT**
-The frozen E12 manuscript places the speaking woman in Nanami’s row. The front three turn back, and the native reverse at 266.5 s directs Nanami’s reply to the row behind. Revise that precise seat attribution. The individual voice remains for a separate hearing.
+The frozen E12 manuscript places the speaking woman in Nanami’s row. The front three turn back, and the native reverse at 266.5 s places the reply to Nanami in the row behind. Revise that precise seat attribution. The individual voice remains for a separate hearing.
 Evidence — candidate L6. SPV2-OBS-E12-05, SPV2-OBS-E12-32, SPV2-CLM-E12-05, SPV2-CLM-E12-22.
 
 **SPV2-X-E12-034 · INSUFFICIENT_EVIDENCE**

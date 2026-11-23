@@ -2382,7 +2382,7 @@ Frozen episode reading dated 2026-11-20 · 9553db36c459e0297dbabf8a269c90a73e69b
 | SPV2-CLM-E01-05 | STRENGTHEN | E01-X013 | Her different presentations to the girls and to Naoki and the later formal bow strengthen the account of asymmetric knowledge. | CH-YUKI, REL-YUKI-NAOKI, REL-YUKI-TRIO |
 | SPV2-CLM-E01-06 | PRESERVE | E01-X015 | The phone display verifies familiarity and ordinary teasing · its absence of an image keeps literal remote perception open. | CH-KEI, CH-NAOKI, REL-KEI-NAOKI, REL-NAOKI-KEI |
 | SPV2-CLM-E01-07 | PRESERVE | E01-X019 | The chart and apology reinforce professional hurt, without a disciplinary order, definite fault or units for the numbers. | CH-NAOKI, REL-NAOKI-TRIO, REL-COLLEAGUE-NAOKI |
-| SPV2-CLM-E01-08 | STRENGTHEN | E01-X021 | The repeated maxim and smaller request are audible/textual and sequential · the management offer itself comes later. | CH-HARU, CH-NAOKI, REL-HARU-NAOKI, PF-E01-04 |
+| SPV2-CLM-E01-08 | STRENGTHEN | E01-X021 | The repeated maxim and smaller request are caption-attested and sequential · the management offer itself comes later. | CH-HARU, CH-NAOKI, REL-HARU-NAOKI, PF-E01-04 |
 | SPV2-CLM-E01-09 | STRENGTHEN | E01-X022 | Rio’s formal bow and recoverable offered pudding support two ways of addressing the same man. | CH-KYOKA, CH-RIO, REL-KYOKA-HARU, REL-RIO-NAOKI |
 | SPV2-CLM-E01-13 | PRESERVE | E01-X024 | The sampled stagger refines an observation without identifying intent, choreography error, performance quality or a single reason for the prognosis. | CH-HARU, CH-KYOKA, CH-RIO, PF-E01-04 |
 | SPV2-CLM-E01-10 | PRESERVE | E01-X025 | Agreement on both glows does not identify what each girl withheld. | CH-RIO, CH-KYOKA, CH-NAOKI, PF-E01-06 |
