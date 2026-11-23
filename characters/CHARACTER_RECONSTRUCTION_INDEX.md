@@ -15,13 +15,14 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 226; `STALE` 3; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 227; `STALE` 3; `SUPERSEDED` 36
 
 ## Namespaces
 
 | Namespace | Subjects | Assessments |
 | --- | ---: | ---: |
 | [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 16 | 16 |
+| [`ascendance-of-a-bookworm`](reconstruction_index/ascendance-of-a-bookworm.md) | 1 | 1 |
 | [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
 | [`azur-lane`](reconstruction_index/azur-lane.md) | 5 | 5 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
@@ -85,6 +86,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `86-eighty-six:theoto-rikka@original-light-novels` | [`86-eighty-six-theoto-rikka-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-theoto-rikka-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `d68f3465126a2a95fd36138af773ccaea10d8e9a` |
 | `86-eighty-six:viktor-idinarohk@original-light-novels` | [`86-eighty-six-viktor-idinarohk-ln-cmr-profile-20261118-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-viktor-idinarohk-ln-cmr-profile-20261118-01) | `CANDIDATE` | `C` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `86-eighty-six:vladilena-milize@original-light-novels` | [`86-eighty-six-vladilena-milize-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-vladilena-milize-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `d68f3465126a2a95fd36138af773ccaea10d8e9a` |
+| `ascendance-of-a-bookworm:benno@light-novel` | [`ascendance-of-a-bookworm-benno-light-novel-v02-v03-distributed-20261123-01`](reconstruction_index/ascendance-of-a-bookworm.md#ascendance-of-a-bookworm-benno-light-novel-v02-v03-distributed-20261123-01) | `CANDIDATE` | `C` | `85301d53c984037162f87145ae571879a0ce8794` |
 | `attack-on-titan:erwin-smith@manga` | [`attack-on-titan-erwin-smith-manga-v2-shared-ledgers-20261115-01`](reconstruction_index/attack-on-titan.md#attack-on-titan-erwin-smith-manga-v2-shared-ledgers-20261115-01) | `CANDIDATE` | `C` | `e9f6fda08bd880fbfdc248355bae75d167519627` |
 | `azur-lane:baltimore@mobile-game` | [`azur-lane-baltimore-mobile-game-character-monograph-20261115-01`](reconstruction_index/azur-lane.md#azur-lane-baltimore-mobile-game-character-monograph-20261115-01) | `CANDIDATE` | `B` | `2fb9e0d724982f17dadd3071d97fe332920caaf7` |
 | `azur-lane:bremerton@mobile-game` | [`azur-lane-bremerton-mobile-game-character-monograph-20261115-01`](reconstruction_index/azur-lane.md#azur-lane-bremerton-mobile-game-character-monograph-20261115-01) | `CANDIDATE` | `C` | `2fb9e0d724982f17dadd3071d97fe332920caaf7` |
