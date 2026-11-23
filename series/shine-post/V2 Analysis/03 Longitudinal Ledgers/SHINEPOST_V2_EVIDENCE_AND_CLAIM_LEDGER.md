@@ -2885,7 +2885,7 @@ The disposition applies to the named component at its episode horizon. OPEN reta
 
 **E01-rehearsal** · PRESERVE SPV2-CLM-E01-13, OPEN SPV2-OPEN-E01-04. Retain Rio’s observable delay and the reproduced music. Individual competence cannot be ranked from this passage.
 
-**E01-motive** · PRESERVE SPV2-CLM-E01-03, STRENGTHEN SPV2-CLM-E01-10, STRENGTHEN SPV2-CLM-E01-15. Haru can deliberately rally her cheerfulness and mean what she says. Rio and Kyoka can have different reasons for withholding their wishes.
+**E01-motive** · PRESERVE SPV2-CLM-E01-03, STRENGTHEN SPV2-CLM-E01-10, STRENGTHEN SPV2-CLM-E01-15. Haru can deliberately rally her cheerfulness and mean what she says. Rio and Kyoka need not withhold their wishes for the same reason.
 
 **E01-ultimatum** · PRESERVE SPV2-CLM-E01-04, STRENGTHEN SPV2-CLM-E01-05, PRESERVE SPV2-CLM-E01-12. Retain practical pressure on the trio, the separate test for Naoki and Yuuki’s personal investment in recruitment.
 
