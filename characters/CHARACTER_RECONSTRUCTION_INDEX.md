@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 229; `STALE` 3; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 230; `STALE` 3; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -25,7 +25,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`ascendance-of-a-bookworm`](reconstruction_index/ascendance-of-a-bookworm.md) | 1 | 1 |
 | [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
 | [`azur-lane`](reconstruction_index/azur-lane.md) | 5 | 5 |
-| [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
+| [`blue-archive`](reconstruction_index/blue-archive.md) | 4 | 4 |
 | [`chiramune`](reconstruction_index/chiramune.md) | 4 | 4 |
 | [`classroom-of-the-elite`](reconstruction_index/classroom-of-the-elite.md) | 2 | 2 |
 | [`cornered-mouse`](reconstruction_index/cornered-mouse.md) | 4 | 4 |
@@ -95,6 +95,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `azur-lane:takao@mobile-game` | [`azur-lane-takao-mobile-game-character-monograph-20261119-01`](reconstruction_index/azur-lane.md#azur-lane-takao-mobile-game-character-monograph-20261119-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `blue-archive:aru@game` | [`blue-archive-aru-game-c001-distributed-20261024-01`](reconstruction_index/blue-archive.md#blue-archive-aru-game-c001-distributed-20261024-01) | `CANDIDATE` | `E` | `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` |
 | `blue-archive:kokuriko@game` | [`blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01`](reconstruction_index/blue-archive.md#blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01) | `CANDIDATE` | `E` | `0f3b661d66455030cb663d9486a11879f0911cf9` |
+| `blue-archive:midori@game` | [`blue-archive-midori-game-pavane-monograph-20261123-01`](reconstruction_index/blue-archive.md#blue-archive-midori-game-pavane-monograph-20261123-01) | `CANDIDATE` | `C` | `85301d53c984037162f87145ae571879a0ce8794` |
 | `blue-archive:prenapates@game` | [`blue-archive-prenapates-game-character-monograph-20261106-01`](reconstruction_index/blue-archive.md#blue-archive-prenapates-game-character-monograph-20261106-01) | `CANDIDATE` | `E` | `1ec6a88d6120d2e28a07c5e99a809ab985f67302` |
 | `chiramune:asuka-nishino@light-novel` | [`chiramune-asuka-nishino-light-novel-asuka-monograph-20261117-01`](reconstruction_index/chiramune.md#chiramune-asuka-nishino-light-novel-asuka-monograph-20261117-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
 | `chiramune:haru-aomi@light-novel` | [`chiramune-haru-aomi-light-novel-haru-monograph-20261117-01`](reconstruction_index/chiramune.md#chiramune-haru-aomi-light-novel-haru-monograph-20261117-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
