@@ -777,3 +777,43 @@ Earlier evidence and claims · SPV2-CLM-E09-01, SPV2-CLM-E09-02, SPV2-CLM-E09-03
 **E11.** The old changing-room scenes let Haru and Ren see the distress from different sides. Each describes her own interpretation. Neither supplies the knowledge the other acquired through the slit. The audience image at E11 598.8 s repeats the E01 composition. Compared with the named trainees at 718.5 and 720.5 s, the unusual white rabbit clip, pink braid, red ties and eye support young Itoha to Momiji’s right. The cropped blond figure at left has traits consistent with Aoba and remains probable. The cameo does not establish whether these girls knew Momiji. Kyoka’s effective rescue of the two friends in town and her fear of offering nothing onstage belong in the same character record. SPV2-CLM-E11-25, -57, -68 and -69. [E11 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E11_CROSS_MODEL_RECONCILIATION.md)
 
 **E12.** Kyoka’s declaration that she intends to exceed instructions makes her an active participant in the plan. Specific choreographic decisions remain unassigned. She gives the formal thanks, five bow, and Rio subsequently addresses the house. This is strong evidence of shared public responsibility over the evening. Hotaru’s identity as Kei is secure through multiple interactions. Naoki’s exact name pronunciation and wording about Kyoka are narrower acoustic questions. Ren recognizes Haru as TINGS’ Haru. The text leaves her colleagues’ private verdicts and authorship of the new joint-bill proposal open. SPV2-CLM-E12-14, -17, -19, -26 and -31. [E12 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E12_CROSS_MODEL_RECONCILIATION.md)
+
+## Source adjudication · 2026-11-23
+
+[Case findings, source intervals and full receipts](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+**E01-club / E01-motive** · Haru’s close, private-sounding question and her worked closing smile support self-encouragement under pressure. Neither establishes hypocrisy.
+
+**E02-confidence / E02-jp** · Rio’s earnest effort coexists with her theatrical register. Momiji changes her address from さん to たん in the exchange.
+
+**E03-belief / E03-authority** · Kyoka’s broader wish and present refusal have different objects. The appointment gives her no retrospective consent.
+
+**E04-D04** · Kyoka leads the exposed entrance. Tokka’s possible participation from the audience is the owner’s tentative hearing.
+
+**E06-D05 / E06-D06** · Rio is the strongly indicated offscreen voice resisting tears and the featured vocal lead of Yellow Rose. Keep the lines of evidence separate.
+
+**SPV2-XREV-E07-01 / SPV2-XREV-E08-01** · Momiji denies first and Yukine gives the rival explanation. Yuuki later explicitly attributes Haru’s restraint to consideration for them.
+
+**SPV2-ADJ-E12-026** · Naoki’s “no doubt” conveys confidence in Kyoka’s potential. Kyoka has yet to realize the conditional future he describes.
+
+## 2026-11-23 · Completed episode source adjudications
+
+[All 84 source adjudications and their receipts](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md).
+
+### E10
+
+| Existing character | Dated evidentiary addition | Case |
+| --- | --- | --- |
+| SPV2-CH-RIO | Rio says that 759 tickets still remain and later articulates both the indignant exclamation about the departing visitor and the question to Naoki. In the office she remarks on the size of the Budokan crowd. The earlier sales and reception states stand. | 015, 020, 021 |
+| SPV2-CH-HARU, SPV2-CH-DOOR-COMPANION, SPV2-CH-MOMIJI | Haru gives the full group name at the radio microphone. Yukine’s TV boast and ensuing shout belong to the foot-massage challenge. Momiji voices the short–short–long gesture in her dance demonstration. | 011, 012, 014 |
+| SPV2-CH-KEI, SPV2-CH-NAOKI | Naoki asks about the new song. Kei’s brief answer and wish for stimulus allow a deadline barely met or still approaching. Her professional concern and wish to see the group survive either reading. | 016, 027 |
+| SPV2-CH-REN, SPV2-CH-KYOKA, SPV2-CH-HARU | Ren and Kyoka speak together when they tell Haru to keep quiet. Haru’s objection remains an objection; the audible unison strengthens the momentary alignment of the two speakers. | 064 |
+| SPV2-CH-AOBA, SPV2-CH-ITOHA, SPV2-CH-YAWARA, SPV2-CH-NANOKA | Yawara greets a prior acquaintance. Nanoka introduces herself. Aoba apologizes, and she and Itoha give distinct final remarks after Ren’s leave-taking. The individual turns differentiate the visitors’ roles. | 046 |
+
+### E11 | Haru’s aspiration and Kyoka’s limits
+
+Haru’s speech uses 世界中のみんなに and twice the potential 叶えられる, the second time explicitly joined to 信じてる. The spoken repetitions add specificity to her expectation for TINGS. Kyoka’s contrastive 覚えたことは sets off the precision she can name against what she cannot yet offer. Naoki takes up the same topic before questioning whether that precision can satisfy the audience. See SPV2-OBS-E11-38, SPV2-OBS-E11-39 and SPV2-CLM-E11-20.
+
+### E12 | What Naoki affirms and how the five take the offer
+
+Naoki’s spoken 間違いない expresses confidence in what Kyoka may see. Her ability to reproduce learned movement has separate evidence. His broken け and completed ほたる in the earlier encounter, alongside later けい, add support to the separately grounded Hotaru and Kei identity comparison. In the office, Kyoka is favored on the initial surprised response. Rio’s 私様 and Haru’s quiet call to Ren are securely distinguished from that first turn. The eventual commitment is a visible collective action even though the loud group reply does not expose every spoken ending. See SPV2-OBS-E12-16, SPV2-OBS-E12-37, SPV2-OBS-E12-39 and SPV2-OBS-E12-69.

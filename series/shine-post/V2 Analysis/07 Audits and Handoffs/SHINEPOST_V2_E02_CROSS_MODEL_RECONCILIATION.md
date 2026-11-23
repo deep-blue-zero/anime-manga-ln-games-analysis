@@ -359,3 +359,12 @@ The selection maps every registered passage, physical line, declared part and fr
 | Selected coverage validation | 67150ff60c0296c382e5b40233a95dfe9b54d5dececa8d54c14efb78b66a9e99 |
 | Selected public findings | 4f664635332b259e4ae4841cbec2f399e31a7d6ee2d916279fe4358c0be940a9 |
 | Independent definition index | d73f3ffdf5ee54b953bdfe7beb844ee7f1ca6668009752bf83cc26961a1ac38f |
+
+## Source adjudication · 2026-11-23
+
+[First source-adjudication register](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+- **E02-jp** · Momiji’s shift in address belongs to the changing repartee. Naoki’s reaction can be reported with qualified attribution.
+- **E02-confidence** · Read the change as a commitment she acts on. Retain the limits of Naoki’s visual cue.
+- **E02-reply** · The two pictured spectators answer Kyoka. The remainder of the room is unassigned. Keep other spectators’ bafflement separate from proof of being first-timers.
+- **E02-master** · Strengthen the source relationship between the E01 rehearsal and E02 concert. Keep the settings and theatrical presentations distinct.

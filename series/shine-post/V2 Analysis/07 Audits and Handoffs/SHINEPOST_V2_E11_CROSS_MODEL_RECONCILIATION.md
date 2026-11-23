@@ -382,3 +382,127 @@ Each identifier binds a separately specified question, competing original formul
 ## Verification
 
 Private authored comparison SHA-256 `ed8b92db554f9c4e952ff3ecf003a86d88b9b8c5ed258b8a179107cad3465bb5`. Mechanical coverage SHA-256 `77aef0c786568c9ab3c0ce1ba0865740b7e9c2c247d29db5e52ccfeee81e87ca`. The audit found no unbound original records, unexplained independent references or missing expected episode documents. Native times take precedence over the sampled viewing proxy.
+
+## 2026-11-23 · Source reinspection, episode 11
+
+[Cumulative case index and evidence receipts](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md).
+
+14 scoped Gemini response files were authenticated against the separate pre-position records and evaluated by Codex. A dedicated native listener heard the admitted Japanese excerpts. The comparison shards separately inspected timed Japanese text, native frames and lossless measurements. This combination supports the case-specific observations below. The independent episode readings remain recoverable at their published freeze.
+
+### SPV2-ADJ-E11-002 | STRENGTHEN
+
+E11 provides no detected instance of the calibrated recurring rim/chime. White-silver dance sparkles and pitched notes in the flashback are useful negative controls. Naoki’s epistemic position remains bounded.
+
+Independent two-template and two-band lossless sweep peaks at |r| .1898 over E11 versus .765–.913 on shared positive holdouts. The reviewing shard reports no coupled candidate across its sampled pictures and full audio sweep. Direct listening covered selected excerpts. The sweep has limited sensitivity to faint, short or differently mixed events.
+
+Comparison SPV2-X-E11-002. Affected evidence SPV2-CLM-E11-20.
+
+### SPV2-ADJ-E11-009 | STRENGTHEN
+
+After Ren leaves, the first three turns favor Yawara, Itoha and Nanoka in that order. Aoba is the best-supported voice for both halves of the fourth turn across the cut.
+
+Native mouth intervals favor Yawara at 192.98–195.03, Itoha at 195.46–197.57 and Nanoka at 197.74–198.54. Ear-only listening weakly favors Aoba for the isolated また？, but only Nanoka articulates at that point. Aoba’s matched voice and eye insert support the split fourth turn without synchronous lip evidence. The preceding sigh stays unassigned.
+
+Comparison SPV2-X-E11-009. Affected evidence SPV2-OBS-E11-32.
+
+### SPV2-ADJ-E11-015 | STRENGTHEN
+
+An existing pop-song tail cuts out near 261.5 s. Street, crowd and park sounds carry roughly 137.2 seconds before quiet piano enters at about 398.7 s after Ren’s objection. The piano persists past 406 s.
+
+Native listening specifically hears vocal pop in 259–261.5 s and birds in the park. Narrowband stereo score energy changes at 398.7–398.8 s. No intervening score is separately audible or detected. Very low mixed material or the exact placement of the opening song source remains indeterminate.
+
+Comparison SPV2-X-E11-015. Affected evidence SPV2-OBS-E11-07.
+
+### SPV2-ADJ-E11-018 | REVISE
+
+The released E01 and E11 mixes share a gain-scaled performance core, with different crowd layers at its edges. Hotaru’s sustained final pitch acquires vibrato late. The band gives way to Ren’s orchestral reflection, which carries across the eyecatch.
+
+At 48 kHz the lead-in aligns at +546.6292708 s. An independently verified conservative 9.7 s core from E11 578.529–588.229 has −1.55 dB gain and an absolute residual below −110 dBFS in 97 contiguous 100 ms blocks. Shard tolerance extends its scalar match to 573.82–588.285 and fade-adjusted near-match to 589.275 s. Remaining band likeness to at least 591.63 s is band-specific evidence. Shard harmonic tracking places C5 at 583.11–586.45 s, late vibrato about 5.7 Hz. Exact reuse depends on window and null tolerance. The supplied mix cannot establish separate stem identity.
+
+Comparison SPV2-X-E11-018. Affected evidence SPV2-OBS-E11-45.
+
+### SPV2-ADJ-E11-032 | STRENGTHEN
+
+Ren’s opening exit and Haru’s and Kyoka’s closing reactions have visible speaking movement. Between them the pursuit runs off-screen. The seven spoken turns favor Itoha, Yawara, Nanoka, Aoba, Ren, Yawara and Ren, with Yawara and Nanoka identified by carried-over voice references.
+
+Native pictures show no speaker during the eight pursuit captions at 1002.92–1011.85 s, while the earlier named visible speakers, recurring reference voices and call-and-response independently constrain the sequence. The two unnamed audio voices inherit names from visual roster matching. Individual initial sounds remain indistinct under the chase music.
+
+Comparison SPV2-X-E11-032. Affected evidence SPV2-OBS-E11-16, SPV2-CLM-E11-16, SPV2-CLM-E11-64.
+
+### SPV2-ADJ-E11-039 | STRENGTHEN
+
+Momiji says こびりペーパー and repeats こびり with a drawn-out ending. At least two voices appear to overlap on 杏夏 after Kyoka’s admission. Yukine visibly articulates. A deeper second voice remains unassigned.
+
+Selected text and ear-only hearing agree on the wordplay. The listener reports staggered lower and upper entrances about 1222–1223.5 s. Native sampled mouth movement supports Yukine alone visually. Rio is plausible by range, but her mouth is still and pitch alone cannot separate the second caller.
+
+Comparison SPV2-X-E11-039. Affected evidence SPV2-OBS-E11-39, SPV2-OBS-E11-73.
+
+### SPV2-ADJ-E11-041 | STRENGTHEN
+
+Naoki’s long exhale and the girls’ brief shared surprise break an unscored stretch with room tone. Later protests are sequential. Score returns at the transition around 1262 s.
+
+Lossless measurement distinguishes the quiet floor at about −66 dBFS Mid from the centered exhale at 1232.60–1233.65 s. A distinct uncued group outburst follows around 1239.5–1240.3 s. Prior score tails off near 1228.74 s. Score return is measurable near 1262.0 and heard near 1262.3, a difference compatible with detection/audibility and MP3 mapping. Exact voices and headcount within the group sound remain open.
+
+Comparison SPV2-X-E11-041. Affected evidence SPV2-OBS-E11-68, SPV2-OBS-E11-69.
+
+### SPV2-ADJ-E11-044 | STRENGTHEN
+
+Haru says 世界中のみんなに in her wish that people worldwide come to love idols. The written witness has 世界中の人に.
+
+The listener’s independent MP3 readback preserves みんなに near 1081–1086 s. Selected ASS and burned comparator agree on 人に. The shared aspiration remains the same, with a difference in spoken address.
+
+Comparison SPV2-X-E11-044. Affected evidence SPV2-OBS-E11-17, SPV2-OBS-E11-38.
+
+### SPV2-ADJ-E11-045 | STRENGTHEN
+
+In Haru’s first potential phrase, the heard form is きっと叶えられる. The written witness prints 叶えなれる.
+
+The first verb straddles the nominal slice end near 1098 s. The sealed listener heard the full form using the overlapping mapped audio and heard the /ra/ before the final flaps. Measure and capture the two phrases independently. Rapid adjacent flaps over strings leave a minor possibility of ら抜き.
+
+Comparison SPV2-X-E11-045. Affected evidence SPV2-OBS-E11-38.
+
+### SPV2-ADJ-E11-046 | STRENGTHEN
+
+After a pause, Haru separately says 叶えられるって信じてる. The written witness repeats 叶えなれる.
+
+Second utterance inspected on its own around 1099–1102 s, with a different pitch than the first and a clearly voiced quotative. Independent listening hears full potential and contracted 信じてる. The repeat and the pause matter to her declaration of faith.
+
+Comparison SPV2-X-E11-046. Affected evidence SPV2-OBS-E11-38.
+
+### SPV2-ADJ-E11-048 | REVISE
+
+The omitted よ belongs to the preceding question about Kyoka, voiced by Yukine at 1184.12–1185.84 s. Rio voices the immediately following challenge about losing heart before taking the stage.
+
+The frozen dispatch mistakenly asked about Rio. First-view audio heard のよ in the question and was clipped before Rio’s actual ending. The next caption prints どうする without よ. The first audio window did not reach the end of Rio’s turn.
+
+The same listener subsequently heard the complete lossless excerpt. Rio ends どうする with no added よ. Yukine supplies the nearby よ in the preceding question.
+
+Comparison SPV2-X-E11-048. Affected evidence SPV2-OBS-E11-39.
+
+### SPV2-ADJ-E11-049 | REVISE
+
+Kyoka says 私は、覚えたことは間違えません. The written witness displays 覚えたことが.
+
+The isolated ear observer hears the /wa/ following こと, supported by the corresponding native window near 1215.4–1217.7 s. Her topic marks knowledge she can reproduce accurately before she limits how far that ability reaches.
+
+Comparison SPV2-X-E11-049. Affected evidence SPV2-OBS-E11-39.
+
+### SPV2-ADJ-E11-050 | REVISE
+
+Naoki echoes 覚えたことは間違えないだけでは, then questions whether precision alone would satisfy the audience. The written witness has 覚えたとこが.
+
+Separate native listening on 1246.4–1248.5 s supports both こと word order and は. The later clause identifies an audience challenge, so his response directly takes up Kyoka’s formulation about learned material.
+
+Comparison SPV2-X-E11-050. Affected evidence SPV2-OBS-E11-20, SPV2-OBS-E11-39.
+
+### SPV2-ADJ-E11-051 | STRENGTHEN
+
+The assigned 1013–1023 s excerpt supports a distinct uncued startle vocal near 1014.5 s. Momiji’s separate こびり forms are audible around 1210–1212 s and 1229–1230 s.
+
+The short first reaction sounds like a rising [e] catch and has its own amplitude, pitch and visible startle. It is separate from the written はう？ cue at 1034.79–1035.49 s, which the original audio window missed. The short こびり repeats after score fades and receives no discrete reply in its immediate gap.
+
+On the later lossless excerpt the same listener distinguished a brief catch near 1034 s from a rising はう-like [ha.ɯ], possibly clipped or slightly nasal, at the printed 1034.79–1035.49 s cue. The earlier 1014.5 s startle is a third event.
+
+Comparison SPV2-X-E11-051. Affected evidence SPV2-OBS-E11-39.
+
+Follow-up 48 kHz listener and evaluator record `54781b32cb35af338957bb5382c3c26963bcb4a3b2efd1bad920274fc11424d9`.

@@ -378,3 +378,9 @@ Within each finding, an S-number and a line range identify a side-specific sourc
 | Selected coverage validation | 3086a10fcbde5790737f679c1a42321509025190543ecee0886d4ca52971f41d |
 | Selected public findings | fc9082f85c80a0a5617946a3ae1b9797d41d92912904dbea5881e4d1e5372842 |
 | Independent definition index | a51ed42f6aabf1028f0413c04caa0c9cda81facbcd6a9916a0674dc57eb055bb |
+
+## Source adjudication · 2026-11-23
+
+[First source-adjudication register](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+- **SPV2-XREV-E09-01** · Preserve the bodily and audience evidence of change, the integrated soundscape and uncertainty about how individual vocal contributions were recorded.
