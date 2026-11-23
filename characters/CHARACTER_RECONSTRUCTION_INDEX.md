@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 223; `STALE` 3; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 224; `STALE` 3; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -25,7 +25,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
 | [`azur-lane`](reconstruction_index/azur-lane.md) | 5 | 5 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
-| [`chiramune`](reconstruction_index/chiramune.md) | 3 | 3 |
+| [`chiramune`](reconstruction_index/chiramune.md) | 4 | 4 |
 | [`classroom-of-the-elite`](reconstruction_index/classroom-of-the-elite.md) | 2 | 2 |
 | [`cornered-mouse`](reconstruction_index/cornered-mouse.md) | 4 | 4 |
 | [`cosmic-princess-kaguya`](reconstruction_index/cosmic-princess-kaguya.md) | 1 | 1 |
@@ -96,6 +96,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `chiramune:asuka-nishino@light-novel` | [`chiramune-asuka-nishino-light-novel-asuka-monograph-20261117-01`](reconstruction_index/chiramune.md#chiramune-asuka-nishino-light-novel-asuka-monograph-20261117-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
 | `chiramune:haru-aomi@light-novel` | [`chiramune-haru-aomi-light-novel-haru-monograph-20261117-01`](reconstruction_index/chiramune.md#chiramune-haru-aomi-light-novel-haru-monograph-20261117-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
 | `chiramune:yua-uchida@light-novel` | [`chiramune-yua-uchida-light-novel-yua-monograph-20261115-01`](reconstruction_index/chiramune.md#chiramune-yua-uchida-light-novel-yua-monograph-20261115-01) | `CANDIDATE` | `C` | `7d8ece76cbefeea3eb1d7cd02d4ca99e41966d4a` |
+| `chiramune:yuzuki-nanase@light-novel` | [`chiramune-yuzuki-nanase-light-novel-yuzuki-monograph-20261123-01`](reconstruction_index/chiramune.md#chiramune-yuzuki-nanase-light-novel-yuzuki-monograph-20261123-01) | `CANDIDATE` | `B` | `2c737335c530e592df242ed5a376a57c59efd45d` |
 | `classroom-of-the-elite:ayanokoji-kiyotaka@original-light-novels-through-year-2` | [`classroom-of-the-elite-ayanokoji-kiyotaka-y2-specialist-20261122-01`](reconstruction_index/classroom-of-the-elite.md#classroom-of-the-elite-ayanokoji-kiyotaka-y2-specialist-20261122-01) | `CANDIDATE` | `B` | `e3571eb717f06a2fbe17b02c4a3f508a79573ede` |
 | `classroom-of-the-elite:horikita-suzune@original-light-novels-through-year-2` | [`classroom-of-the-elite-horikita-suzune-y2-specialist-20261115-01`](reconstruction_index/classroom-of-the-elite.md#classroom-of-the-elite-horikita-suzune-y2-specialist-20261115-01) | `CANDIDATE` | `B` | `77ce4cedf3a09bd7ad0c134dfb1be830d7f683d6` |
 | `cornered-mouse:imagase@manga` | [`cornered-mouse-imagase-manga-complete-witness-readings-20261122-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-imagase-manga-complete-witness-readings-20261122-01) | `CANDIDATE` | `C` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
