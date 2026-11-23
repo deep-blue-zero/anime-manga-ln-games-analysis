@@ -4,12 +4,12 @@ artifact_type: claim_revision_ledger
 scope: V1 claims routed to current V2 formulations and evidence
 generation: V2
 status: canonical
-source_boundary: SHORT01 V2; V1 claims adjudicated only after each source-native source-unit reading and prospective freeze are frozen
+source_boundary: TV E01-E13 and Friends Shorts 01–06; A1 only
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT01
+current_sequential_boundary: SHORT06
 ---
 
 # Lycoris Recoil V1 → V2 Claim Revision Ledger
@@ -245,6 +245,62 @@ The following records were added only after `LYCORIS_RECOIL_E01_DEEP_READING.md`
 | `REV-SHORT01-005` | `03_Mika_Cafe_LycoReco_and_Ordinary_Life.md` / chosen family ordinary roles | V1: Mika/Mizuki/Kurumi hold everyday family/social roles beyond operational usefulness | SHORT01 | `STRENGTHEN` | Mika regulates food/drinking, Mizuki occupies drunken karaoke space, and Kurumi participates as comic heckler with no technical task required | `SHORT01-CLM-015/017`, `MIK-MB-SHORT01-001`, `MIZ-MB-SHORT01-001`, `KUR-MB-SHORT01-001` | current-bounded |
 | `REV-SHORT01-006` | `06_Japanese_Character_Voice_and_Performance.md` / shorts baseline confirmation | V1: settled post-development Takina handles festival business calculations and ordinary emotional range while remaining recognizably Takina; development is bandwidth expansion, not convergence | SHORT01 | `STRENGTHEN` | Layer B independently shows controlled planning/profit speech beside much larger safe/civilian activation for the yakitori proposal; high activation is not threat-exclusive or synonymous with semantic importance | `SHORT01-AUD-001/003/004/005/006/008/009/011`, `SHORT01-CLM-018/019` | current-bounded; Layer C unverified |
 
+## Short 02 · post-freeze V1 review
+
+| Record | V1 locator and disposition against the frozen reading |
+|---|---|
+| REV-SHORT02-001 | STRENGTHEN. V1 03 §3 Travel, line 435, and 02 §4 Learning preference, lines 334–344. C054–59 make finishing a job a means to jointly wanted travel. Preference and procedural competence can coexist. |
+| REV-SHORT02-002 | PRESERVE. V1 04 §1 What the ethic is, lines 406–422. Chisato conditions participation on nonkilling at C035–36. She still intervenes. The short supplies no general DA exemption. |
+| REV-SHORT02-003 | PRESERVE. V1 02 §12, lines 610–622, and §4 Formal future, lines 880–890. Joint travel planning carries personal investment without resolving civic or formal relationship status. |
+
+**Independent review and evidence boundary.** The critic reproduced the seven mixed RMS values and checked #000003/048/051/112/123/124/147/169. In C043 the subject of 浮かれていまして is unstated. After C046–47 Takina makes the private first person explicit at C058–59. This strengthens the contrast between audiences without assigning a hidden intention. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
+
+## Short 03 · post-freeze V1 review
+
+| Record | V1 locator and disposition against the frozen reading |
+|---|---|
+| REV-SHORT03-001 | STRENGTHEN. V1 02 §Shorts Takina, lines 322–324, and §12, lines 616/620. The price inquiry and refusal (C055–56/077–81) make budgeting a constraint on the proposal. No sale is shown. |
+| REV-SHORT03-002 | REVISE. V1 03 §2 Food, lines 421–423. The apparently obscene item is a prototype with disputed reception. The judges read a resemblance. Takina’s repeated denials leave her private intent unknown. |
+| REV-SHORT03-003 | STRENGTHEN. V1 03 §4 Movies, line 443. Chisato correctly identifies a film Takina has seen. C029/032–33 support recognition. The origin of the loanword in that particular film remains an inference. |
+| REV-SHORT03-004 | STRENGTHEN. V1 07 §4 Food and drink, line 563. C062–66/084–88 distribute invention, cost memory and visual judgment among café members. |
+
+**Independent review and evidence boundary.** The critic qualified Kurumi’s response: explicitly elicited, independently worded, with no answer supplied by Chisato. The picture shows the fruit before anyone names the resemblance. Reported cost history and public interpretation carry different authority from recorded sales and intention. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
+
+**Short 03 receiver correction, CLM-004. REVISE.** The drink in C067–69 comes from a separate carton (#000159/161–163). Takina presents her intact peach dessert at #000167–169. C070–72 register a visual response. The friends do not taste or reject that dessert on grounds of flavor. Read “after the tasting” in the frozen text with this qualification.
+
+## Short 04 · post-freeze V1 review
+
+| Record | V1 locator and disposition against the frozen reading |
+|---|---|
+| REV-SHORT04-001 | REVISE. V1 03 §6 Festivals, board games, sleepovers, and wasted time, line 467. The prank explains fear and the costumed bodies in C067–81. It does not resolve the pale figure at 03:24–25 or the conflict over Kurumi’s whereabouts. |
+| REV-SHORT04-002 | STRENGTHEN. V1 02 §VI Embodied intimacy, lines 764/777–785, and §2 Care versus control, lines 655–671. C033–37 directly supports accepted hair care. C078–89 supplies a different test of permission, danger and resistance. |
+| REV-SHORT04-003 | STRENGTHEN. V1 06 §X Mizuki, lines 775–779. C015–25/075/082 makes her participation in petty concealment and the later scare concrete. C087 is a request for money, with no payment shown. |
+| REV-SHORT04-004 | STRENGTHEN. V1 07 §6 Eyes and sight, lines 591/595–600. C009/044–50 juxtaposes camera truth, awareness of being recorded and corrected misclassification. No recording settles the last question by itself. |
+
+**Independent review and evidence boundary.** The two specialists and critic distinguish the removed costume head from the additional pale figure at #000187–188, which strengthens the spectator’s sighting without identifying it. The reader should use #000034 for the first desktop replay. Two independently reproduced stereo-zero runs precede parts of C104 and C105. A caption timestamp cannot establish the first heard sound. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
+
+## Short 05 · post-freeze V1 review
+
+| Record | V1 locator and disposition against the frozen reading |
+|---|---|
+| REV-SHORT05-001 | STRENGTHEN. V1 03 §Fuki, lines 512–522, and 06 §2 Roughness as affective shell, lines 695–701. Fuki’s agreement about the milkshake and bedtime depends on the addressee. C003 also gives a practical reason for lodging locally. |
+| REV-SHORT05-002 | STRENGTHEN. V1 07 §4 Red First uniform, lines 389–397, and 02 §12, line 618. Private try-on is visible. Curiosity and prestige are plausible. Promotion intent and a return to DA are unestablished. |
+| REV-SHORT05-003 | REVISE. V1 03 §Sakura, lines 524–528. C040–42 reports an attempt to put on Fuki’s clothes. Sakura witnesses Takina and laughs. Disclosure to Fuki or Chisato is unshown, and her subsequent response is constrained. |
+| REV-SHORT05-004 | DOWNGRADE. V1 02 §12, line 614, §VII.1, lines 799–802, and §4 Formal future, lines 880–890. C027–29 supports an open-ended offer alongside Takina’s current room search. The short gives no permanent acceptance. |
+
+**Independent review and evidence boundary.** The specialists checked the empty hanger, red outfit and mirror (#000096/114/121/126), the change back and the constrained witness (#000134–143). The critic distinguished Fuki’s C003 practical reason from Chisato’s insinuation, and Chisato’s permission from Fuki’s authority over her own garment. On PRED-SHORT04-001 there is positive evidence for Fuki’s freedom to refuse, but the case of Sakura resists generalization. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
+
+## Short 06 · post-freeze V1 review
+
+| Record | V1 locator and disposition against the frozen reading |
+|---|---|
+| REV-SHORT06-001 | STRENGTHEN. V1 04 §VIII, lines 584–601, and 07 §5 Exposure and fictionalization, lines 399–415. C011–20 shows a literally accurate disclosure and an improvised cover both received as costume play. |
+| REV-SHORT06-002 | REVISE. V1 01 §III, line 403, and 08 §9 Effective cover-up, lines 332–338. C025–41 supplies specific fans’ beliefs and a movie plot. A population-wide claim about the public or the movie’s production lineage exceeds the case. |
+| REV-SHORT06-003 | STRENGTHEN. V1 03 §Erika, lines 534–542, and §Fuki, lines 512–522. C074–79 preserves Erika’s separate wish to stay and Fuki’s supervisory veto. The vacation-clothes sequence shows Fuki’s reaction without declaring a romance. |
+| REV-SHORT06-004 | PRESERVE. V1 03 §3 Travel, lines 425–435, and 01 §III, line 401. Trip preparations are collective and Mika’s leisure has weight. The narrative gives no new journey, arrival or passport mechanics. |
+
+**Independent review and evidence boundary.** Japanese and picture review distinguished the café group, outsiders, the poster and projected alternative designs. The critic restricted the cover finding to the represented fans. The audio specialist checked full-stream equivalence and the extended credit mix. #000204 at 03:29.084 already shows Mika by the car; #000211–217 isolates details. #000269 at 04:44.868 credits 花の塔 / さユり. This is a printed attribution; precise audible onset and synchronization remain separate questions. The Japanese/picture specialist examined the current bundle. The acoustic specialist checked the source clock and mixed audio. The independent critic compared the sealed reading with bounded V1 passages. The principal integrated the decisions. No later primary unit or Gemini shorts analysis informed the source-native freeze.
+
 # 5. Document-level intake queue
 
 The following V1 responsibilities are expected to produce claim-level records as V2 reaches relevant evidence.
@@ -307,5 +363,14 @@ Do not:
 ---
 
 # 8. Current authority statement
+
+Current release-order boundary: **SHORT06**. See the per-unit Short records above. The V1 register contains 162 transitions. Supplementary narrative evidence is outside the current A1 boundary.
+
+### Short 01 historical closeout
+
+
+
+
+
 
 This ledger contains **143** V1→V2 transitions through `SHORT01`: 137 through the TV E13 closeout plus 6 Short 01 `STRENGTHEN` records added only after the Short 01 source-native reading and `SHORT01_OUTBOUND_FREEZE` were frozen. Short 01 requires no `REVISE`, `DOWNGRADE`, or `REJECT` transition. Layer-C perceptual voice claims remain separately bounded and are not inferred from objective Short 01 Layer-B measures. Short 02-06 and supplementary evidence remain outside the current revision horizon.
