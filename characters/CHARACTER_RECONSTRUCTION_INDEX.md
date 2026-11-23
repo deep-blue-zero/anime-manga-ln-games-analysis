@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 234; `STALE` 2; `SUPERSEDED` 37
+- Recorded totals: `CANDIDATE` 235; `STALE` 2; `SUPERSEDED` 37
 
 ## Namespaces
 
@@ -53,6 +53,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`rent-a-girlfriend`](reconstruction_index/rent-a-girlfriend.md) | 1 | 1 |
 | [`sayonara-lara`](reconstruction_index/sayonara-lara.md) | 1 | 1 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 3 | 3 |
+| [`shine-post`](reconstruction_index/shine-post.md) | 1 | 1 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 17 | 17 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
 | [`silent-witch`](reconstruction_index/silent-witch.md) | 4 | 4 |
@@ -262,6 +263,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `shiboyugi:hakushi@light-novel` | [`shiboyugi-hakushi-light-novel-sby-p007-monograph-20261123-01`](reconstruction_index/shiboyugi.md#shiboyugi-hakushi-light-novel-sby-p007-monograph-20261123-01) | `CANDIDATE` | `C` | `85301d53c984037162f87145ae571879a0ce8794` |
 | `shiboyugi:shiro@light-novel` | [`shiboyugi-shiro-light-novel-sby-p054-monograph-20261123-01`](reconstruction_index/shiboyugi.md#shiboyugi-shiro-light-novel-sby-p054-monograph-20261123-01) | `CANDIDATE` | `C` | `85301d53c984037162f87145ae571879a0ce8794` |
 | `shiboyugi:yuuki@light-novel` | [`shiboyugi-yuuki-light-novel-sby-p001-monograph-20261115-01`](reconstruction_index/shiboyugi.md#shiboyugi-yuuki-light-novel-sby-p001-monograph-20261115-01) | `CANDIDATE` | `C` | `57a2a2026b88f3c9d09fbe0b4f90b62c4d768690` |
+| `shine-post:hotaru@television-anime` | [`shine-post-hotaru-television-anime-v2-monograph-20261123-01`](reconstruction_index/shine-post.md#shine-post-hotaru-television-anime-v2-monograph-20261123-01) | `CANDIDATE` | `C` | `0714a2ec3b5ab57ef119380931d20bfc02941fd7` |
 | `shokugeki-no-soma:aldini-takumi@manga` | [`shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01) | `CANDIDATE` | `C` | `ed16d08d72d08c45e8647d8daac749a8b6f7c6c5` |
 | `shokugeki-no-soma:arato-hisako@manga` | [`shokugeki-no-soma-arato-hisako-manga-v2-model-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-arato-hisako-manga-v2-model-20261119-01) | `CANDIDATE` | `C` | `510efb922655cc94f14d6d2e431e4c38b932a099` |
 | `shokugeki-no-soma:hayama-akira@manga` | [`shokugeki-no-soma-hayama-akira-manga-bounded-model-20261115-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-hayama-akira-manga-bounded-model-20261115-01) | `CANDIDATE` | `C` | `d0019f2f149d57a9f817238a899dff9248a2ca9f` |
