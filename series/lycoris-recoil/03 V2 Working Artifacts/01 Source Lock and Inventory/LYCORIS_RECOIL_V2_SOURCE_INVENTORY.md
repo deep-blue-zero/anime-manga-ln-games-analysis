@@ -223,7 +223,9 @@ Current V2 source classes:
 
 CP5 freezes the anime-native baseline. A2, B1 and C1 work can now contribute through the cross-source method and source-native readings.
 
-## 9. Remaining audit actions
+## 9. Supplementary coverage and remaining audit actions
+
+All 13 unique local EPUBs in the admitted narrative and reference inventory have been checked against their internal structure and analyzed. They contain three novels, two *Recollect* volumes, seven contributor-level anthologies and the *Heroine Archive*. The 1,099 anthology image leaves include 89 credited comic entries, grouped and individually bounded in the volume records. The second *Repeat 02* file is an exact duplicate. No additional local narrative ebook or standalone chapter was found outside these files. Edition side matter, story frames, bonuses, insets and the production interviews are accounted for in their source-local records.
 
 The primary-source corpus is sufficiently audited to proceed with V2 method/infrastructure initialization. Remaining non-blocking or downstream audit work:
 

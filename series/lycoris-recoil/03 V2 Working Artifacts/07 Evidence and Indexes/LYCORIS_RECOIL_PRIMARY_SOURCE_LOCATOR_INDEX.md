@@ -26,6 +26,10 @@ For E03-CLM-013, retrieve the reported blow near 19:30.917 and the spoken settle
 
 The [dated return for Q01–Q20](TV%20Audiovisual%20Reconciliation/VERIFIER_RETURN_20261122.md) maps the verifier’s reports to corrected master-picture timestamps, measured audio boundaries and by-ear evidence. For Takina’s first depicted island discharge use E13 16:07.675/.717. For the opening-theme comparison use the E02 opening as the reference. The return also identifies the exact Japanese cues still requiring a human ear.
 
+## Supplementary text and page routes
+
+The [cross-source crosswalk](../06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) gives typed A2, B1 and C1 comparisons and links to all source-native readings. In a Japanese prose EPUB cite OPF spine and nonempty paragraph after removal of ruby annotation. In image-only EPUBs, locate the contributor and 1-based OPF page range first, then distinguish title plate, enacted panels and the signed creator note. Printed folios and spine ordinals can differ. The [supplementary participation record](LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) describes independent source inspection and review. The [Heroine Archive reference reading](LYCORIS_RECOIL_HEROINE_ARCHIVE_REFERENCE_READING.md) supplies credited speaker and printed-page locators under P_PARATEXT.
+
 ## 1. Responsibility
 
 This index provides the shortest deterministic route from a V2 analytical claim back to the source evidence needed to verify it.

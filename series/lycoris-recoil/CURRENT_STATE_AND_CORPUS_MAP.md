@@ -93,7 +93,7 @@ The principal integrator owns canonical rulings and shared-file writes. Separate
   - completed/frozen TV source horizon: E13 / TV 13 of 13 complete
   - frozen short readings through Short 06: [Short 02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md) · [Short 03](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md) · [Short 04](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md) · [Short 05](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md) · [Short 06](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md)
   - current source boundary: SHORT06_SOURCE_NATIVE_FREEZE. CP4_POST_E13 is adjudicated and closed.
-- Next operation: Read the official anthology stories with contributor attribution.
+- Next operation: The supplementary source readings are complete. The cross-source crosswalk carries the integrated findings within their source-class limits. Full V2 synthesis remains a separate editorial phase.
 - Corpus-wide project initiation policy:
   - `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`
   - Drive ID: `1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC`
@@ -148,7 +148,7 @@ V1 remains historically authoritative for what the project previously concluded,
 - Anime-native reconstruction baseline: **FROZEN AT CP5**
 - Supplementary prose: **3 of 3 volumes complete**.
 - Recollect: **both B1 volumes complete**.
-- Anthologies: **four of seven C1 volumes complete**.
+- Anthologies: **all seven C1 volumes complete** with 89 credited comic entries.
 - V1→V2 claim audit: **162 attributable transitions through Short 06**.
 - Current full-series V2 synthesis gate: **CLOSED**
 - Sequential-analysis lock: **OPEN**
@@ -459,7 +459,7 @@ Each episode produces:
 Sequence:
 
 
-Release-order high-water mark: SHORT06_SOURCE_NATIVE_FREEZE. Read the official anthology stories with contributor attribution.
+Release-order high-water mark: SHORT06_SOURCE_NATIVE_FREEZE. The supplementary source readings are complete. The cross-source crosswalk carries the integrated findings within their source-class limits. Full V2 synthesis remains a separate editorial phase.
 
 
 The shorts are especially important for settled mundane behavior, humor, play, domestic/café routine, and anime-native counterfactual validation.
@@ -504,7 +504,7 @@ Read:
 
 
 - [*Recollect* V01](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V01_DEEP_READING.md) and [V02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V02_DEEP_READING.md), complete;
-- contributor readings complete for [*Reload*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD_CONTRIBUTOR_READINGS.md), [*Reload 02*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD02_CONTRIBUTOR_READINGS.md), [*Reload 03*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD03_CONTRIBUTOR_READINGS.md) and [*Repeat*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT_CONTRIBUTOR_READINGS.md). *Repeat 02*, *Repeat 03* and *React* follow.
+- contributor readings complete for [*Reload*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD_CONTRIBUTOR_READINGS.md), [*Reload 02*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD02_CONTRIBUTOR_READINGS.md), [*Reload 03*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD03_CONTRIBUTOR_READINGS.md) and [*Repeat*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT_CONTRIBUTOR_READINGS.md). The remaining contributor readings are complete for [*Repeat 02*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT02_CONTRIBUTOR_READINGS.md), [*Repeat 03*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT03_CONTRIBUTOR_READINGS.md) and [*React*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REACT_CONTRIBUTOR_READINGS.md).
 
 
 ## Phase G — Cross-source synthesis and reconstruction
@@ -706,7 +706,7 @@ project_initialization:
 
 # 13. Current canonical operation
 
-Read the official anthology stories with contributor attribution. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The completed short-only comparison supplies the attributable corrections. Open listener referrals and chronology limits travel with the CP5 baseline.
+The supplementary source readings are complete. The cross-source crosswalk carries the integrated findings within their source-class limits. Full V2 synthesis remains a separate editorial phase. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The completed short-only comparison supplies the attributable corrections. Open listener referrals and chronology limits travel with the CP5 baseline.
 
 # 14. Retrieval route
 
@@ -729,4 +729,4 @@ When resuming:
 
 # 15. Governing current-state statement
 
-The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The supplementary A2 reading horizon covers all three admitted novels. Read the official anthology stories with contributor attribution. No supplementary source has entered the A1 account.
+The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The supplementary reading horizon covers all three admitted novels, both Recollect volumes and seven anthologies. The Heroine Archive has a separately attributed production-reference record. The supplementary source readings are complete. The cross-source crosswalk carries the integrated findings within their source-class limits. Full V2 synthesis remains a separate editorial phase. No supplementary source has entered the A1 account.
