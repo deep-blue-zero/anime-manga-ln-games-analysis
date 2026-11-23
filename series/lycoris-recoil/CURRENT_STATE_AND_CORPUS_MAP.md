@@ -89,7 +89,7 @@ All six shorts have frozen source readings. The [Friends shorts reconciliation](
   - completed/frozen TV source horizon: E13 / TV 13 of 13 complete
   - frozen short readings through Short 06: [Short 02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md) · [Short 03](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md) · [Short 04](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md) · [Short 05](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md) · [Short 06](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md)
   - current source boundary: SHORT06_SOURCE_NATIVE_FREEZE. CP4_POST_E13 is adjudicated and closed.
-- Next operation: Read the three Asaura volumes source-natively in order, then compare the official comics contributor by contributor. Keep the fanbook’s credited voices distinct.
+- Next operation: Continue with *Gluttony days* before the official comics.
 - Corpus-wide project initiation policy:
   - `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`
   - Drive ID: `1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC`
@@ -142,7 +142,7 @@ V1 remains historically authoritative for what the project previously concluded,
 - Current admitted A1 horizon: TV E01–E13 and Shorts 01–06.
 - Shorts sequential boundary: **SHORT06_SOURCE_NATIVE_FREEZE**.
 - Anime-native reconstruction baseline: **FROZEN AT CP5**
-- Supplementary prose: **A2 reading enabled** after CP5.
+- Supplementary prose: **2 of 3 volumes complete**.
 - Recollect: **B1 reading follows the three A2 volumes**.
 - Anthologies: **C1 contributor-local reading follows the A2 volumes**.
 - V1→V2 claim audit: **162 attributable transitions through Short 06**.
@@ -451,7 +451,7 @@ Each episode produces:
 Sequence:
 
 
-Release-order high-water mark: SHORT06_SOURCE_NATIVE_FREEZE. Read the three Asaura volumes source-natively in order, then compare the official comics contributor by contributor. Keep the fanbook’s credited voices distinct.
+Release-order high-water mark: SHORT06_SOURCE_NATIVE_FREEZE. Continue with *Gluttony days* before the official comics.
 
 
 The shorts are especially important for settled mundane behavior, humor, play, domestic/café routine, and anime-native counterfactual validation.
@@ -479,9 +479,11 @@ No supplementary work may retroactively alter what the frozen anime-only model i
 Read source-natively:
 
 
-1. `Ordinary days`
-2. `Recovery days`
-3. `Gluttony days`
+1. [*Ordinary days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_ORDINARY_DAYS_DEEP_READING.md) — source-native reading complete.
+2. [*Recovery days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_RECOVERY_DAYS_DEEP_READING.md) — source-native reading complete.
+3. *Gluttony days* — next.
+
+The [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) records comparisons against CP5.
 
 
 Each work is interpreted as prose before its character evidence is integrated.
@@ -696,7 +698,7 @@ project_initialization:
 
 # 13. Current canonical operation
 
-Read the three Asaura volumes source-natively in order, then compare the official comics contributor by contributor. Keep the fanbook’s credited voices distinct. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The completed short-only comparison supplies the attributable corrections. Open listener referrals and chronology limits travel with the CP5 baseline.
+Continue with *Gluttony days* before the official comics. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The completed short-only comparison supplies the attributable corrections. Open listener referrals and chronology limits travel with the CP5 baseline.
 
 # 14. Retrieval route
 
@@ -719,4 +721,4 @@ When resuming:
 
 # 15. Governing current-state statement
 
-The admitted source horizon is TV E01–E13 plus Shorts 01–06. Read the three Asaura volumes source-natively in order, then compare the official comics contributor by contributor. Keep the fanbook’s credited voices distinct. No supplementary source has entered the A1 account.
+The admitted source horizon is TV E01–E13 plus Shorts 01–06. Continue with *Gluttony days* before the official comics. No supplementary source has entered the A1 account.

@@ -169,6 +169,10 @@ Current official KADOKAWA product listings support the following seven-volume an
 
 No official `Reload 4` or `Repeat 4` was located in the 2026-08-27 KADOKAWA search. Anthology contributor attribution must still be preserved story-by-story during sequential reading because some electronic OPF metadata exposes only Spider Lily rather than the complete contributor list.
 
+## 4.1 Later official reference acquisition
+
+The Japanese fanbook *Lycoris Recoil Heroine Archive: Chisato & Takina* is retained under `04_books/fanbooks/`. The acquisition manifest records Febri編集部, publisher 一迅社, 150 image spine entries, 52,274,427 bytes and SHA-256 `cf4cb1346a9b0a86f8bac6cef4c72aaba9ae1f70fa6c22829933050a9c9c6d83`. Treat credited interviews, editorial copy and production materials as separately attributed reference evidence. The book’s presence does not change CP5 or establish another narrative sequence. Substantive use awaits inspection and attribution.
+
 ## 5. Duplicate cleanup
 
 The following redundant Drive uploads were permanently deleted with user authorization:
@@ -217,7 +221,7 @@ Current V2 source classes:
 | `C1_MULTI_AUTHOR_LICENSED_INTERPRETATION` | seven official anthology volumes | contributor-level variance, characterization envelope, recurring attractors |
 | `B2_OFFICIAL_ADAPTATION` | Bizen manga | optional; not currently acquired/admitted |
 
-The anime-native baseline must be frozen before A2/B1/C1 material is allowed to revise the integrated character models.
+CP5 freezes the anime-native baseline. A2, B1 and C1 work can now contribute through the cross-source method and source-native readings.
 
 ## 9. Remaining audit actions
 
