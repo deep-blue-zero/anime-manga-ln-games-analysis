@@ -2872,3 +2872,159 @@ Each reference below is an administrative comparison finding. The original SPV2 
 ### E12 audience row and claim scope
 
 **2026-11-23 · REVISE the seat attribution attached to SPV2-OBS-E12-05 and SPV2-OBS-E12-22 in the original chapter. PRESERVE SPV2-CLM-E12-05.** In the front row Nanami voices her worries about Yukine and Momiji. The three turn back, and the native reverse at 266.5 s locates the reassurance in the row behind FFF, where Kikuchi and the Yura Yura Sisters sit. The earlier chapter placed the replying woman in Nanami’s own row. Individual voice identification still requires a Japanese main-stream hearing. Professional familiarity and childhood observation remain the independently supported grounds for the two spectators’ anticipation. [E12 chapter erratum](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E12_AUDIENCE_ATTRIBUTION_ERRATUM.md) · [E12 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E12_CROSS_MODEL_RECONCILIATION.md)
+
+## Source adjudication · 2026-11-23
+
+[Case findings, source intervals and full receipts](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+The disposition applies to the named component at its episode horizon. OPEN retains the residual in the linked case after the local hearing. STRENGTHEN adds support to the specified proposition.
+
+**E01-club** · STRENGTHEN SPV2-CLM-E01-02. The room’s affection and Haru’s private doubt coexist. No audience knowledge of that doubt is shown.
+
+**E01-phone** · OPEN SPV2-OPEN-E01-02. Naoki and Kei can invoke his private idiom through their existing familiarity.
+
+**E01-rehearsal** · PRESERVE SPV2-CLM-E01-13, OPEN SPV2-OPEN-E01-04. Retain Rio’s observable delay and the reproduced music. Individual competence cannot be ranked from this passage.
+
+**E01-motive** · PRESERVE SPV2-CLM-E01-03, STRENGTHEN SPV2-CLM-E01-10, STRENGTHEN SPV2-CLM-E01-15. Haru can deliberately rally her cheerfulness and mean what she says. Rio and Kyoka need not withhold their wishes for the same reason.
+
+**E01-ultimatum** · PRESERVE SPV2-CLM-E01-04, STRENGTHEN SPV2-CLM-E01-05, PRESERVE SPV2-CLM-E01-12. Retain practical pressure on the trio, the separate test for Naoki and Yuuki’s personal investment in recruitment.
+
+**E01-jp** · OPEN SPV2-OPEN-E01-06. Keep the fan transcription as a written witness. Use source-attributed lexical readings where the listener could hear the passage.
+
+**E02-jp** · OPEN SPV2-OPEN-E02-05. Momiji’s shift in address belongs to the changing repartee. Naoki’s reaction can be reported with qualified attribution.
+
+**E02-confidence** · STRENGTHEN SPV2-CLM-E02-22, OPEN SPV2-OPEN-E02-03. Read the change as a commitment she acts on. Retain the limits of Naoki’s visual cue.
+
+**E02-reply** · STRENGTHEN SPV2-CLM-E02-32, STRENGTHEN SPV2-CLM-E02-44, OPEN SPV2-OPEN-E02-05. The two pictured spectators answer Kyoka. The remainder of the room is unassigned. Keep other spectators’ bafflement separate from proof of being first-timers.
+
+**E02-master** · STRENGTHEN SPV2-CLM-E02-46, OPEN SPV2-OPEN-E02-01. Strengthen the source relationship between the E01 rehearsal and E02 concert. Keep the settings and theatrical presentations distinct.
+
+**E03-pickup** · OPEN SPV2-OPEN-E03-01. Identify the interruption as a spoken あれ?; retain the distinction between dream and historical witness.
+
+**E03-belief** · OPEN SPV2-OPEN-E03-02, PRESERVE SPV2-CLM-E03-35. Preserve duties, loyalties and boundaries as separate assertions. Do not infer consent from the earlier wish.
+
+**E03-mute** · OPEN SPV2-OPEN-E03-01, STRENGTHEN SPV2-PF-E03-01, STRENGTHEN SPV2-PF-E03-06. Distinguish the dream’s audible entrance from the historical montage’s score and narrated testimony.
+
+**E03-fan** · OPEN SPV2-OPEN-E03-03, STRENGTHEN SPV2-CLM-E03-23. Keep dream, recalled show and present support distinct when describing Kyoka’s relationship with Tokka.
+
+**E03-authority** · OPEN SPV2-OPEN-E03-04, PRESERVE SPV2-CLM-E03-06. Preserve both catalytic and coercive readings at the scope of the actual encounter.
+
+**E04-D04** · OPEN SPV2-OPEN-E04-01, STRENGTHEN SPV2-CLM-E04-04, PRESERVE SPV2-CLM-E04-46, PRESERVE SPV2-CLM-E04-38. Keep Kyoka’s first lead, subsequent audible ensemble and possible fan participation distinct. Neither individual stems nor the later stage handoff are certified.
+
+**E05-D03** · OPEN SPV2-OPEN-E05-03, PRESERVE SPV2-CLM-E05-10. Retain the effect of an exposed voice within a continuing soft bed. Rio’s concern for the others and the episode’s separate comedy remain independent claims.
+
+**E06-D05** · STRENGTHEN SPV2-CLM-E06-11, PRESERVE SPV2-CLM-E06-12, OPEN SPV2-OPEN-E06-01. Separate Naoki’s attention to the balcony from this stage line. Use “probably Rio” for the latter at the current evidence cutoff.
+
+**E06-D06** · OPEN SPV2-OPEN-E06-01, STRENGTHEN SPV2-CLM-E06-38, PRESERVE SPV2-CLM-E06-49. Distinguish the insert credit, the reproduced musical passage, the ballad’s featured lead and the unassigned supporting texture.
+
+**SPV2-XREV-E07-01** · PRESERVE SPV2-CLM-E07-37, PRESERVE SPV2-CLM-E07-28. Attribute the denial and rival-research explanation to different speakers. Retain the precise written witness alongside the performed phrase.
+
+**SPV2-XREV-E08-01** · REVISE SPV2-CLM-E08-36, STRENGTHEN SPV2-CLM-E08-13, PRESERVE SPV2-CLM-E08-27. Revise the spoken quotation in CLM-36 and strengthen the protective explanation in CLM-13; retain the separate claims about pride and the manager’s strategy in CLM-27.
+
+**SPV2-XREV-E09-01** · STRENGTHEN SPV2-CLM-E09-47, PRESERVE SPV2-CLM-E09-16, OPEN SPV2-OPEN-E09-03. Preserve the bodily and audience evidence of change, the integrated soundscape and uncertainty about how individual vocal contributions were recorded.
+
+**SPV2-ADJ-E12-026** · REVISE SPV2-OBS-E12-16, STRENGTHEN SPV2-OBS-E12-37 · Revise C1017 to distinguish the printed 間違えない from the heard 間違いない. The latter expresses confidence about a conditional future for Kyoka. Her earlier technical accuracy rests on separate scene evidence.
+
+## 2026-11-23 · Completed episode source adjudications
+
+[All 84 source adjudications and their receipts](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md).
+
+### E10
+
+| Existing evidence or claim | Dated scope | Case |
+| --- | --- | --- |
+| SPV2-OBS-E10-07, SPV2-OBS-E10-23, SPV2-OBS-E10-46 and SPV2-OPEN-E10-06 | Add Rio’s sounded 「まだ」 to the documented 759 remaining. Naoki’s sounded 「書けたの？」 includes the rising particle; Kei’s 「ギリギリ」 leaves completion, destination and delivery open. Preserve the independently documented roll dispatch and later evidence of fan circulation. | 015, 016, 027 |
+| SPV2-OBS-E10-31, SPV2-OBS-E10-32, SPV2-OBS-E10-33, SPV2-OBS-E10-35 | Preserve the caption record. The scoped auditory additions identify the ticket buyer as addressee, the sounded を and の, 「中野のチケット」 in the boast, and the spoken group name in Haru’s radio plug. A single sung /sa/ does not choose between the two refrain spellings. | 007–009, 011–014, 017 |
+| SPV2-CLM-E10-13 and SPV2-OBS-E10-36 | Programme-wide searches found no matched instance of the known chime. Their sensitivity varies with the mix. Ren’s source of information remains uncertain. Her words and Kyoka’s later memory of the “no mistakes” assessment can be documented independently. | 002, 018, 019, 048 |
+| SPV2-OBS-E10-15, SPV2-OBS-E10-37, SPV2-OBS-E10-38, SPV2-CLM-E10-15 and SPV2-CLM-E10-27 | Add the distinct visiting speakers, Rio’s own post-visit questions, and the shared vocal timing of Ren and Kyoka telling Haru to keep quiet. Preserve Haru’s objection and the limits on what Aoba’s apology can establish. | 020, 046, 064 |
+| SPV2-OBS-E10-39, SPV2-OBS-E10-60 | Rio says 「すごいよ、お客さんの数」 while watching the recording. At the earlier sale, Rio visibly leads a cheer and Haru echoes it as Ren interrupts. The start of the cheer is off-camera, and the later hood reveal remains a separate observation. | 021, 044 |
+| SPV2-OBS-E10-43, SPV2-OBS-E10-47, SPV2-OBS-E10-49, SPV2-OBS-E10-67 and SPV2-OBS-E10-71 | Add the two *Wonder Starter* reuse spans, the recorded repetition of Ren’s two clauses and the bounded *GYB!!* form/texture findings. The sales count and audience reception are independent of the disputed master, shot count and singer identities. | 040, 041, 048, 051–054, 069 |
+| SPV2-CLM-E10-19 and SPV2-CLM-E10-48 | Preserve the single existing proposition that Ren’s wish offers one reading of a professional ensemble work. Episode order, anonymous vocal textures and the foreground spotlight do not establish a personal dedication, an isolated episode stem or original addressee. The commercial part sheet assigns the pre-chorus to Ren. | 022, 052, 053 |
+
+### E11 | Comparison of voiced forms and the recurring effect
+
+The calibrated recurring chime was undetected in the lossless episode sweep. Negative images and direct audition of the selected controls limit confusion with pale dance sparkles and a celesta-like sound. A non-detection carries the sensitivity of its search and leaves the broader epistemic reading intact. The source reinspection supports the voiced 人に/みんなに divergence, two separate 叶えられる forms and the shared 覚えたことは wording. Yukine’s question carries よ. A complete lossless hearing confirms that Rio’s following どうする has no added よ. See SPV2-CLM-E11-20, SPV2-OBS-E11-38, SPV2-OBS-E11-39 and SPV2-OBS-E11-69.
+
+### E12 | Measured signal, caption divergences and open names
+
+The lossless signal and native pictures converge on the recurring effect in Yuki’s sanction speech. A visual E01 reprise is distinguishable from the newly placed event. Use the cue as evidence of presentation without inferring a particular hidden plan. Keep the reported spoken わけ, を and が paired with their separate written witnesses. Retain the voiced 間違いない correction with the independent lossless pilot and ordinary listening receipt. Later group speech and a precisely timed breath-like catch are admissible at the scope of their source. The rear-row name and exact group endings remain unresolved. See SPV2-OBS-E12-32, SPV2-OBS-E12-33, SPV2-OBS-E12-34, SPV2-OBS-E12-37, SPV2-OBS-E12-62 and SPV2-OBS-E12-69.
+
+The E12 booklet and native hearing support 不揃いな against the selected episode subtitle’s 不揃いの. Commercial part labels corroborate the verse and ensemble-chorus assignments separately from what individual voices can be distinguished in the episode. [Published E10 parts](https://www.joysound.com/web/search/song/957587) · [Published E12 parts](https://www.joysound.com/web/search/song/957586).
+
+### E10 decisions by existing target
+
+The disposition applies only to the component specified in its row. Later source editions qualify the evidence for the named pre-chorus assignment.
+
+| Case | Disposition | Record | Component |
+| --- | --- | --- | --- |
+| SPV2-ADJ-E10-002 | PRESERVE | SPV2-CLM-E10-13 | Ren’s source of information remains unknown. |
+| SPV2-ADJ-E10-007 | PRESERVE | SPV2-OBS-E10-31 | The historical fan reactions and handoff observation remain intact. |
+| SPV2-ADJ-E10-008 | PRESERVE | SPV2-OBS-E10-32 | Preserve the difference between filling a venue and a numerical sales result. |
+| SPV2-ADJ-E10-009 | PRESERVE | SPV2-OBS-E10-32 | Keep the historical condition and the actual counters distinct from the boast. |
+| SPV2-ADJ-E10-011 | STRENGTHEN | SPV2-PF-E10-04 | Add the spoken self-introduction to the endurance-TV account. |
+| SPV2-ADJ-E10-012 | STRENGTHEN | SPV2-PF-E10-05 | Introduce the three-beat delivery and keep the delayed dental sound qualified. |
+| SPV2-ADJ-E10-013 | STRENGTHEN | SPV2-PF-E10-04 | Qualify the mascot’s invitation in the game-stream appearance. |
+| SPV2-ADJ-E10-014 | STRENGTHEN | SPV2-OBS-E10-33 | Retain the original TING observation and attach the audible full name and correctly pictured broadcaster. |
+| SPV2-ADJ-E10-014 | STRENGTHEN | SPV2-PF-E10-04 | Keep the three successive media appearances distinguishable. |
+| SPV2-ADJ-E10-015 | STRENGTHEN | SPV2-OBS-E10-07 | Add Rio’s sounded reaction to the existing 759 inventory observation. |
+| SPV2-ADJ-E10-016 | STRENGTHEN | SPV2-OBS-E10-23 | Scoped heard/printed contrast for this question alone. |
+| SPV2-ADJ-E10-017 | STRENGTHEN | SPV2-OBS-E10-35 | Bound the heard syllable; retain the printed difference and grammatical ambiguity. |
+| SPV2-ADJ-E10-018 | STRENGTHEN | SPV2-OBS-E10-36 | Add the scoped は／が distinction without promoting her appraisal to fact. |
+| SPV2-ADJ-E10-019 | STRENGTHEN | SPV2-OBS-E10-36 | Retain Ren as the speaker who asks Haru to come back. |
+| SPV2-ADJ-E10-019 | PRESERVE | SPV2-OBS-E10-37 | The next group’s arrival and departure are distinct from this invitation. |
+| SPV2-ADJ-E10-020 | PRESERVE | SPV2-OBS-E10-38 | The older wager-and-objection observation continues independently. |
+| SPV2-ADJ-E10-021 | PRESERVE | SPV2-OBS-E10-39 | TINGS watches the Budokan recording at Brightest. |
+| SPV2-ADJ-E10-022 | STRENGTHEN | SPV2-OBS-E10-71 | Retain the listener’s masked seven-unit approximation as a prior report. The printed booklet, published parts sheet and CD-to-episode match support 抱きあってたいのに. The episode subtitle writes 抱けあってたいのに. |
+| SPV2-ADJ-E10-027 | STRENGTHEN | SPV2-OBS-E10-46 | The phone clause states the elliptical completion limit. Preserve its independent tablet and video-sharing evidence. |
+| SPV2-ADJ-E10-027 | PRESERVE | SPV2-CLM-E10-07 | Kei’s reassurance to Naoki and the dispatched gift stand; the call supplies no finished score. |
+| SPV2-ADJ-E10-027 | PRESERVE | SPV2-CLM-E10-23 | Kei’s wish for inclusion and stimulation survives the completion ambiguity. |
+| SPV2-ADJ-E10-027 | PRESERVE | SPV2-OPEN-E10-06 | Keep the piece’s completion, performer, and any commissioning relation open. |
+| SPV2-ADJ-E10-040 | STRENGTHEN | SPV2-OBS-E10-43 | Add an independently verified late return of matching audio to the earlier front-body correlation. |
+| SPV2-ADJ-E10-040 | STRENGTHEN | SPV2-PF-E10-03 | Relate the opening’s early body and its final tag to the campaign edit. |
+| SPV2-ADJ-E10-040 | STRENGTHEN | SPV2-PF-E10-07 | Document the two programme lags and the insert-only middle music. |
+| SPV2-ADJ-E10-040 | PRESERVE | SPV2-OBS-E10-47 | The historical crosswalk names this row for the montage and its ticket figures; recording provenance does not revise that proposition. |
+| SPV2-ADJ-E10-041 | STRENGTHEN | SPV2-PF-E10-07 | Add the guitar-like break, sparse bridge, rebuild and qualified return to G. |
+| SPV2-ADJ-E10-041 | PRESERVE | SPV2-OBS-E10-47 | The older observation concerns actions and ticket figures during this music. The instrumental analysis attaches to the performance annotation. |
+| SPV2-ADJ-E10-044 | PRESERVE | SPV2-OBS-E10-60 | Its observation of the group, customer and later hood reveal does not itself attribute the unseen cheer. |
+| SPV2-ADJ-E10-046 | STRENGTHEN | SPV2-OBS-E10-37 | Name the distinct greeting, introduction, apology, call and farewell turns. |
+| SPV2-ADJ-E10-046 | PRESERVE | SPV2-CLM-E10-27 | Their differing acquaintance and authority stand; an apology alone does not establish unanimity or hiring authority. |
+| SPV2-ADJ-E10-048 | STRENGTHEN | SPV2-OBS-E10-36 | Specify the two repeated phrases and the limits of stem attribution. |
+| SPV2-ADJ-E10-048 | STRENGTHEN | SPV2-OBS-E10-49 | Add the measured recurrence and the audible spatial change without converting participant appraisal to fact. |
+| SPV2-ADJ-E10-051 | STRENGTHEN | SPV2-PF-E10-10 | The native recount gives 36 hard changes in [1158.50,1242), 35 in [1158.60,1242), and 41 in [1147.8,1255). The earlier 57-cut wider-stage test gave p=.0014; its separate 52-cut active-song test gave p=.0698. |
+| SPV2-ADJ-E10-051 | PRESERVE | SPV2-OBS-E10-67 | Moving camera geometry remains evidence about staging, independent of a pipeline claim. |
+| SPV2-ADJ-E10-052 | STRENGTHEN | SPV2-PF-E10-10 | Add the measured E09/E10 reuse and separate the episode mixes. |
+| SPV2-ADJ-E10-052 | PRESERVE | SPV2-CLM-E10-48 | Keep the song’s dramatic framing distinct from a personal dedication or source-master identity. |
+| SPV2-ADJ-E10-053 | STRENGTHEN | SPV2-PF-E10-10 | A prominent lead and a broader chorus are audible. The published edition names Ren at the pre-chorus and the track-matched episode recording supports that local assignment. Exact doubles and stems remain unassigned. |
+| SPV2-ADJ-E10-053 | PRESERVE | SPV2-CLM-E10-19 | Ren’s wish remains one reading of the ensemble work. Her supported local pre-chorus part does not establish that the song was written for or addressed to Haru. |
+| SPV2-ADJ-E10-054 | STRENGTHEN | SPV2-PF-E10-10 | Separate local brightening, the repeating chorus progression and the return. |
+| SPV2-ADJ-E10-064 | STRENGTHEN | SPV2-OBS-E10-15 | Record the overlapping voices consistently with the visible double response. |
+| SPV2-ADJ-E10-064 | STRENGTHEN | SPV2-CLM-E10-15 | Reinforce shared dismissal, preserve the distinction between their intervention and Haru’s consent. |
+| SPV2-ADJ-E10-064 | PRESERVE | SPV2-OBS-E10-38 | The conditional wager remains Ren’s and Kyoka’s agreement. |
+| SPV2-ADJ-E10-069 | STRENGTHEN | SPV2-PF-E10-07 | Add the qualified G-centered comparison. |
+| SPV2-ADJ-E10-069 | STRENGTHEN | SPV2-PF-E10-10 | Frame-dependent relation; consult the E10-054 tonic alternatives. |
+| SPV2-ADJ-E10-069 | PRESERVE | SPV2-OBS-E10-43 | Historical opening music credit and shared samples remain distinct from the tonal interpretation. |
+
+### E11 and E12 claim decisions
+
+Case headings in the episode comparisons identify the observation-level action, the evidence and the remaining alternative. The following rows give the affected claim and OPEN components.
+
+| Case | Disposition | Record | Component |
+| --- | --- | --- | --- |
+| SPV2-ADJ-E11-002 | PRESERVE | SPV2-CLM-E11-20 | Naoki poses an open practical question about Kyoka’s art. The chime search found no detected recurrence. It neither demonstrates the method’s efficacy nor enlarges Naoki’s knowledge. |
+| SPV2-ADJ-E11-032 | PRESERVE | SPV2-CLM-E11-16 | The off-screen pursuit adds evidence of the visitors’ knowledge of Ren’s habits. It leaves the content they overheard at the earlier meeting unestablished. |
+| SPV2-ADJ-E11-032 | PRESERVE | SPV2-CLM-E11-64 | Pursuit voices and the typed messages have different evidence. Named turns in the pursuit leave the number of message senders unchanged. |
+| SPV2-ADJ-E12-013 | STRENGTHEN | SPV2-CLM-E12-63 | Support probable Rio and Kyoka verse leads in the episode and their named published parts. The mix-to-disc match adds support at these intervals. |
+| SPV2-ADJ-E12-013 | OPEN | SPV2-OPEN-E12-01 | Keep exact episode performers within the tightened blend and the number of doubles open. Published verse and chorus assignments are documented. |
+| SPV2-ADJ-E12-015 | OPEN | SPV2-OPEN-E12-01 | Keep exact episode performers within the tightened blend and the number of doubles open. Published verse and chorus assignments are documented. |
+| SPV2-ADJ-E12-018 | OPEN | SPV2-OPEN-E12-02 | The heard addresses are ほたる and けい. Spelling of the performed name and the completion of the first false start remain open. |
+| SPV2-ADJ-E12-034 | OPEN | SPV2-OPEN-E12-02 | A woman in the row behind Nanami reassures her. Natalya is the leading candidate. The available listening and pictures leave the individual voice open. |
+
+### E12 owner follow-up · 2026-11-23
+
+| Case | Disposition | Record | Supported scope |
+| --- | --- | --- | --- |
+| SPV2-ADJ-E12-013 | STRENGTHEN | SPV2-OBS-E12-63, SPV2-CLM-E12-63 | The owner-supplied color guide agrees with the published Rio, Kyoka, Rio–Kyoka, Momiji and Yukine phrase assignments. Its matched audio supports the assignment in the episode. The picture can foreground a single face over a shared vocal phrase. |
+| SPV2-ADJ-E12-015 | STRENGTHEN | SPV2-OBS-E12-64 | The owner hears full ensemble at 887.7–889.7 s. The guide highlights all five and its audio matches the episode there. Preserve Haru and Kyoka’s visual duet and the measured tightening in the group blend. |
+| SPV2-ADJ-E12-013, SPV2-ADJ-E12-015 | OPEN | SPV2-OPEN-E12-01 | Exact independent vocal takes, backing layers and doubles remain unassigned. |
+
+[Source comparison and owner receipt](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md#e12-owner-follow-up-and-source-binding).

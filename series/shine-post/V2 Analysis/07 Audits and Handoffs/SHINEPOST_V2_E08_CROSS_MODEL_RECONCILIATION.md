@@ -377,3 +377,9 @@ Within each finding, an S-number and a line range identify a side-specific sourc
 | Selected coverage validation | dc03d64b5d27433f62b75325777c04dc8e4ebd93856d3dcfcbfb284390430bbb |
 | Selected public findings | 03a2a67a0f414877aeb4444cdad6ce292af94cb59df3ae0de4d9049cd0e4868c |
 | Independent definition index | 7edf18b283248c16dc61b4752b5120ba0eaca7b017853e25cdb1093426bfb326 |
+
+## Source adjudication · 2026-11-23
+
+[First source-adjudication register](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+- **SPV2-XREV-E08-01** · Revise the spoken quotation in CLM-36 and strengthen the protective explanation in CLM-13; retain the separate claims about pride and the manager’s strategy in CLM-27.

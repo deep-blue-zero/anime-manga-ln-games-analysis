@@ -384,3 +384,9 @@ Within each finding, an S-number and a line range identify a side-specific sourc
 | Selected coverage validation | 3c4cf9e2677e003df440ce32f1fab5f6d4b1bbe0bf5cd23129430dcfeada026b |
 | Selected public findings | 1dbdb0915f2e4b0e395383753c3b7b4db094696f4c507d45b3c37866b93b3187 |
 | Independent definition index | b86aff84887f1a22efb52abfa2e1a161d5a89eff82c12b1043b8b221748d696e |
+
+## Source adjudication · 2026-11-23
+
+[First source-adjudication register](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+- **SPV2-XREV-E07-01** · Attribute the denial and rival-research explanation to different speakers. Retain the precise written witness alongside the performed phrase.
