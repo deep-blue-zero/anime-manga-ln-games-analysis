@@ -427,6 +427,41 @@ Recorded assessments of subjects in the `tokyo-7th-sisters` namespace of the [Ch
 - Superseded by: `tokyo-7th-sisters-futagawa-mimi-game-b0189-b0232-b0237-b0246-b0249-portfolio-20261105-01`
 - Stale reason: reconstruction\_status.py currentness at main 85bba9461b4a3c55746e0b9664bb4c98e14a91b6 reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED: discovery PR \#422 added reviewed evidence tokyo-7th-sisters:futagawa-mimi@game\#b0232-deep-reading \(T7S\_B0232 Short message\) and a second coverage entry, so this assessment no longer covers the subject's reviewed evidence set.
 
+### Subject `tokyo-7th-sisters:kumomaki-monaka@game`
+
+- Registry file: [`characters/reconstruction_capabilities/tokyo-7th-sisters/kumomaki-monaka@game.jsonl`](../reconstruction_capabilities/tokyo-7th-sisters/kumomaki-monaka@game.jsonl)
+
+<a id="tokyo-7th-sisters-kumomaki-monaka-game-b0213-b0232-b0235-portfolio-20261123-01"></a>
+
+#### Assessment `tokyo-7th-sisters-kumomaki-monaka-game-b0213-b0232-b0235-portfolio-20261123-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:kumomaki-monaka`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only the three reviewed readings curated on tokyo-7th-sisters:kumomaki-monaka@game at basis\_commit, as each reports the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\): b0213-deep-reading \(T7S\_B0213, read in full: the complete Sub Intimacy family 200680, seven short addresses A-G, episodes 401000238, 401000586, 401000814, 401000962, 401001118, 401001350 and 401001490\); b0232-deep-reading \(T7S\_B0232 case 29, Short message 402003201, P0-P2, read with its entering-boundary, identity/audience/time, synthesis and exit sections\); and b0235-deep-reading \(T7S\_B0235 case 404000003, the complete Birthday portfolio P0-P18, read with its scope, cohort synthesis, retrospective adjudication and performed-evidence and continuation limits\). The earlier Monaka readings the items compare with \(B0090, B0128, B0166 and later accounts\) are not curated and no claim rests on them. The project's readiness labels were not adopted; it records no Monaka READY decision. No primary source, voice, music or movie was inspected.
+- Temporal boundary: Nine independent conditional occurrences \(seven Intimacy addresses, one Short message and one Birthday portfolio\) with no inferred unlock level, calendar year or chronology among them and no placement relative to Main. The only time markers are local and asserted by Monaka: five in the morning and today in B0232, the new year in her B0235 pledge, and her sense of having spent a long time at Nanasta, which gives no duration. The boundary limits evidence, not knowledge: earlier experiences she reports, such as the teacher exchange and her work at different part-time workplaces, belong to her in every occurrence.
+- Basis commit: `d03fc8c26bdd73ad626350effaf2133feee9b454`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `41ea4bb073e0adbfec938e7093826daf1cdfc941a1b205f30be5d6f2632aed11`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any one of the nine unordered occurrences; nothing before, after or between them, and no placement relative to Main.; interlocutor The manager as addressed listener without a reply of his own; the refusal applies equally to Sawara, Matsuri, Honoka, Tomoe, Coney or any other counterpart, none of whom has a turn in the evidence.; settings Crossover, counterfactual or materially novel contexts beyond the nine located occurrences; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `earlier-states-not-curated` (evidence gap): The earlier Monaka readings \(B0090, B0128, B0166 and the later admitted accounts\) are not curated on this subject, so the readings' comparisons with her lateness costs, school path, privacy misses and search for fit were not checked. Missing support is not evidence of absence.
+  - `intention-versus-reception` (evidence-backed limitation): Her intended praise of Matsuri and her conversational opener with Tomoe are kept apart from what each recipient felt: Matsuri's response is not voiced, and Tomoe's lowered head permits only a bounded reading of discouragement, not a diagnosis or later reconciliation.
+  - `japanese-wording-mostly-paraphrased` (evidence gap): Apart from titles, two names and a written marker, the readings paraphrase Monaka's Japanese, so self-reference, sentence endings and register are not in the curated evidence.
+  - `lateness-not-reformed` (evidence-backed limitation): She still admits occasional lateness beside the early-bed plan \(B0213 A:P2\), and B0232 and B0235 both decline to read the remembered promise or the birthday pledge as punctuality reform or repair of B0090's costs.
+  - `performance-unheard` (evidence-backed limitation): No voice cue, music, sound effect or loop movie was heard, viewed or resolved in any reading, and the fixed sprites do not render waking, shop work or a swimsuit pose.
+  - `plans-not-outcomes` (evidence-backed limitation): The early bedtime, the wake-up arrangement, the Fukuoka-4th trip and its airfare, Honoka's guidance, the swimsuit shoot, the early-rising habit and the idol-work pledge are decisions, proposals or intentions; none is shown completed.
+  - `silent-manager-reported-partners` (evidence-backed limitation): Only Monaka has authored turns. The manager's answers are absent or inferred from her uptake, and Sawara, Matsuri, Honoka, Tomoe and Coney enter only through her report, quotation or plan.
+  - `swimsuit-offer-bounded` (evidence-backed limitation): The offer to work at sexier shots \(B0213 G:P4\) is a non-graphic proposed work offer, not an actual shoot, accepted terms or consent to any future assignment.
+  - `unordered-occurrences` (evidence-backed limitation): The nine sources are independent conditional occurrences with no chronology, unlock level, year or placement relative to Main; B0213's A-G key, B0232's catalog order and B0235's source order route reading only, so no occurrence is a step in her development.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:kumomaki-monaka@game#b0213-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d03fc8c26bdd73ad626350effaf2133feee9b454/series/tokyo-7th-sisters/02%20Readings/T7S_B0213_DEEP_READING.md)
+  - [`tokyo-7th-sisters:kumomaki-monaka@game#b0232-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d03fc8c26bdd73ad626350effaf2133feee9b454/series/tokyo-7th-sisters/02%20Readings/T7S_B0232_DEEP_READING.md)
+  - [`tokyo-7th-sisters:kumomaki-monaka@game#b0235-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/d03fc8c26bdd73ad626350effaf2133feee9b454/series/tokyo-7th-sisters/02%20Readings/T7S_B0235_DEEP_READING.md)
+
 ### Subject `tokyo-7th-sisters:maezono-rishuri@game`
 
 - Registry file: [`characters/reconstruction_capabilities/tokyo-7th-sisters/maezono-rishuri@game.jsonl`](../reconstruction_capabilities/tokyo-7th-sisters/maezono-rishuri@game.jsonl)
