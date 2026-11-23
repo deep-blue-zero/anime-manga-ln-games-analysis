@@ -40,6 +40,7 @@ sequential_execution:
   run_state: completed
 source_admission: "V01–V10 main narrative authorized; each volume admitted at its own frontier; accepted through V10"
 run_authorization: FXK-RUN-20261119-V01-V10
+synthesis_authorization: FXK-SYN-20261123-V01-V10
 supplemental_execution:
   current_state: CLOSED_AWAITING_COMPONENT_ADMISSION
   other_narrative_admission: NOT_AUTHORIZED
@@ -129,3 +130,16 @@ Every volume's principal role runs in a fresh context initialized from this entr
 The run proceeded one volume at a time in publication order. The project studies the fiction’s depictions of position, exposure, uncertainty, responsibility and harm. Its numerals and market language serve those literary questions. Consult the [initiation gate](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) and [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) before changing execution state. After an interruption, recover the high-water mark from this file and the accepted checkpoints, never from a draft or a filename.
 
 Resume from this map and its governing documents. The project-local [series descriptor](.repository/series-registry.json) supplies routing metadata for repository housekeeping. Admitted source files and evidence derivatives stay in the source or working plane.
+
+## Authorized retrospective synthesis
+
+The owner's November 23, 2026 instruction authorizes **FXK-SYN-20261123-V01-V10**. It covers the post-run work of the [synthesis architecture](FX_KURUMI_SYNTHESIS_ARCHITECTURE.md#from-volumes-to-synthesis) over the accepted V01–V10 boundary, carried out by the run's crew of role contexts, and the resolution of the open review of PR #695. The private instruction receipt is recoverable through the ID. This authorization admits no source. The sequential run above stays completed, its state fields are unchanged, and the lock stays OPEN. Character reconstruction, the historical-market concordance, supplemental components and any later volume are not authorized. Release or freeze is the owner's decision.
+
+| Field | State |
+| --- | --- |
+| Synthesis | FXK-SYN-20261123-V01-V10, owner instruction of 2026-11-23 |
+| Evidence boundary | The accepted V01–V10 readings, checkpoints, errata, ledger and source register. Pages of the admitted V01–V10 witnesses are re-opened only to verify load-bearing claims |
+| Gates | G1 state reconciliation; G2 role-gap review and person qualification; G3 specialist synthesis, convergence, integrated synthesis and qualified character monographs; G4 semantic validation; G5 the owner's release |
+| Current gate | G1 |
+| Crew | Principal integrator, financial specialist, character specialist and critical reviewer. Each runs as a fresh Claude Code subagent context launched by the run coordinator and inherits the coordinator's Claude Opus 5.5 model; no other setting is recorded. The work runs locally rather than in fresh cloud sessions because the admitted witnesses and the working plane are local |
+| Writers | The principal alone writes the synthesis audits, the shared ledger and the published synthesis. Specialists and reviewers draft in the working plane. The coordinator edits this map, validates, commits and publishes |
