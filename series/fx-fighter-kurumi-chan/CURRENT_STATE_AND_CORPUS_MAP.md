@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan — Current State and Corpus Map"
 artifact_id: FX_KURUMI_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
 series: fx-fighter-kurumi-chan
-version: "1.12"
+version: "1.13"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Canonical foundation navigation, source admission and execution state"
 source_boundary: "Run FXK-RUN-20261119-V01-V10 authorizes the Japanese collected-manga main narrative V01–V10; accepted through V10"
 created: 2026-11-15
-last_updated: 2026-11-22
+last_updated: 2026-11-23
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -80,7 +80,7 @@ Each accepted volume has a canonical deep reading, a frozen checkpoint that reco
 | V09 | [V09 deep reading](readings/FX_KURUMI_V09_DEEP_READING.md) | [V09 checkpoint](checkpoints/FX_KURUMI_V09_CHECKPOINT.md) | [V09 entering state](checkpoints/FX_KURUMI_V09_ENTERING_STATE.md) | 2026-11-22 |
 | V10 | [V10 deep reading](readings/FX_KURUMI_V10_DEEP_READING.md) | [V10 checkpoint](checkpoints/FX_KURUMI_V10_CHECKPOINT.md) | [V10 entering state](checkpoints/FX_KURUMI_V10_ENTERING_STATE.md) | 2026-11-22 |
 
-The [checkpoint errata](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md) correct the frozen V01–V04 checkpoints without changing them. In V01–V05 only the principal deferred each volume's cover, flap and jacket images until after its main-narrative freeze; the specialists and the reviewer saw them first. The errata record each role's first exposure in V01–V04 against its freezes, with a disposition for every forecast item, and the [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md#7-exposure-and-contamination-record) records the same for V05. The errata also reclassify V01 i0165 as an authorial extra, qualify the predictive credit of two V02 Agent B forecast rows (FXK-V02-F095, F111), and give Agent B's V04 forecasts a literal score (27 of 73 confirmed, Brier 0.20849) beside its relaxed one. From V05 every forecast is scored literally as frozen, with any relaxed or event-only result labelled alongside.
+The [checkpoint errata](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md) correct the frozen V01–V04 checkpoints, and one label in the V07 checkpoint, without changing them. In V01–V05 only the principal deferred each volume's cover, flap and jacket images until after its main-narrative freeze; the specialists and the reviewer saw them first. The errata record each role's first exposure in V01–V04 against its freezes, with a disposition for every forecast item, and the [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md#7-exposure-and-contamination-record) records the same for V05. The errata also reclassify V01 i0165 as an authorial extra, qualify the predictive credit of two V02 Agent B forecast rows (FXK-V02-F095, F111), and give Agent B's V04 forecasts a literal score (27 of 73 confirmed, Brier 0.20849) beside its relaxed one. A [later correction](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-sum-01) narrows the errata's own summary for V04: Agent B froze FREEZE_00 (18 items, FXK-V04-F091–F108) before opening any V04 image, and only its 55 later items (FXK-V04-F109–F163) followed the cover and flap. [FXK-ERR-V07-01](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-v07-01) reads the V07 afterword as an authorial extra, as the source register classes it. From V05 every forecast is scored literally as frozen, with any relaxed or event-only result labelled alongside.
 
 ## Authorized run
 

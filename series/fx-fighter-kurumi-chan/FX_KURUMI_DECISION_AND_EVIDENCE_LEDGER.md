@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan — Decision and Evidence Ledger"
 artifact_id: FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER
 artifact_type: evidence_ledger
 series: fx-fighter-kurumi-chan
-version: "1.11"
+version: "1.12"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Ordered fictional decisions, state and interpretation history for the collected manga"
 source_boundary: "FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, FXK-JP-V04-W01, FXK-JP-V05-W01, FXK-JP-V06-W01, FXK-JP-V07-W01, FXK-JP-V08-W01, FXK-JP-V09-W01 and FXK-JP-V10-W01 main narratives and classified apparatus (V01–V10); no later volume"
 created: 2026-11-15
-last_updated: 2026-11-22
+last_updated: 2026-11-23
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1434,7 +1434,7 @@ A row marked "independent prospect" was frozen in the specialist's own lane. In 
 | FXK-V07-C029 | Knowledge map at V07's end: only the reader holds the figures and Mochiko's reasoning together; Mochiko holds an estimate, the no-stop fact, the empty seat and the chat; Yasuko knows of the franc and "お金ない"; Mebuki's knowledge unshown; the father knows nothing; Kurumi has told no one more than "お金ない" (principal) | MAIN_EXIT | §I | NEW; OBS HIGH |
 | FXK-V07-C030 | Parallel structure: Kurumi ↔ Kozue (the book, the photograph, the "取り返さなきゃ" face, 1,005,144, 400×, "取り返すなんて一瞬", "お母さんとおんなじ"); Kurumi ↔ Mochiko (schoolgirl selves, mothers, goals without an "after") (principal) | MAIN_EXIT | D034 | NEW; OBS HIGH for elements; EVAL MOD-HIGH as design |
 | FXK-V07-C031 | Printed anomalies kept (reading §F.10): i0095 and i0125 label steps (1.16880 on both); unsigned 0.75%; the parenthetical's reference; 証拠金維持率(%) "0円"; "敢えて"; 「201」; the hidden reward line; paratext 20分/41% (principal) | Reading §F.10 | as listed | NEW; OBS HIGH; at reconciliation the "300万円" discrepancy was withdrawn and "1300%" and Mebuki's composition resolved (C070, C071) |
-| FXK-V07-C032 | Apparatus classified: afterword (paratext variance "20分… 41%" against "数分で約30%"); the writer's bonus essay (blow-up planned from the start; 第33話's fall lengthened); under-jacket essays; jacket blurb; no preview; creators' intent not adopted as evidence (principal) | COMPONENT_MAP | i0001–i0002, i0151–i0163 | NEW; OBS (paratext) |
+| FXK-V07-C032 | Apparatus and extras classified as in the source register: the afterword i0153 and the author's bonus essay i0154–i0157 are authorial extras, classified only (the afterword's "20分… 41%" against the narrative's "数分で約30%" kept as paratext variance); the jacket, the under-jacket boards and the colophon are apparatus; no preview; the creators' statements are inventoried in the V07 reading's E057 and support no narrative claim (principal; classes aligned with the register on 2026-11-23 for the PR #695 review, V07 reading 1.1, [errata FXK-ERR-V07-01](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-v07-01)) | COMPONENT_MAP; source register V07 coverage | i0001–i0002, i0151–i0163 | NEW; OBS (paratext) |
 | FXK-V07-C033 | Ordinary-life evidence (reading §H): Kurumi's room, cooking, frozen pasta, hobby books, pyjamas, the octopus speaker, the photograph ritual; Mochiko's hōjicha, cooking, health routine, company, game, cat; Mebuki's beer, job, shop dream; Yasuko's comic income; the co-worker's food hacks (principal) | Reading §H | as listed | NEW; OBS HIGH |
 | FXK-V07-C034 | Page form (reading §J): the reveals on turns (i0086, i0102, i0104, i0118, i0122, i0130, i0142, i0146); the box before her sight; screens without faces; the narrator's explicit judgments of cognition (i0149–i0150) (principal) | Reading §J | as listed | NEW; EVAL on OBS |
 | FXK-V07-C035 | Transition of FXK-V06-C001 (V06 governing thesis; the outcome withheld) | Accepted V06 reading §D.1 | Forced liquidation; −101,534,644 shortfall (i0118, i0130); the form's dread borne out (i0084–i0118) | STRENGTHEN (resolved); V07 reading §M.7, C001 |

@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan — Checkpoint errata"
 artifact_id: FX_KURUMI_CHECKPOINT_ERRATA
 artifact_type: checkpoint_errata
 series: fx-fighter-kurumi-chan
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
-authority_scope: "Attributable errata and dispositions governing the frozen V01–V04 checkpoints: each role's exposure to covers, flaps and jackets, the class of V01 i0165, and the forecast credit and scoring that depend on them"
-source_boundary: "FXK-JP-V01-W01 to FXK-JP-V04-W01 main narratives and classified apparatus (V01–V04); V04 unit-end knowledge; no later volume"
+authority_scope: "Attributable errata and dispositions governing the frozen V01–V04 checkpoints: each role's exposure to covers, flaps and jackets, the class of V01 i0165, and the forecast credit and scoring that depend on them; later corrections to this carrier's own summary and to the frozen V07 checkpoint's class label for the V07 afterword"
+source_boundary: "FXK-JP-V01-W01 to FXK-JP-V07-W01 main narratives and classified apparatus (V01–V07); V07 unit-end knowledge; no later volume"
 created: 2026-11-22
-last_updated: 2026-11-22
+last_updated: 2026-11-23
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,7 +20,7 @@ recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 
 # FX Fighter Kurumi-chan — Checkpoint errata
 
-**Spoilers for V01–V04.**
+**Spoilers for V01–V04; the [later corrections](#later-corrections) also concern V07.**
 
 The frozen checkpoints and entering states of V01–V04 remain byte-unchanged. This carrier governs their correction. Where an erratum and a frozen checkpoint differ, the erratum gives the current account, and the frozen text remains the record of what was written at its time. Read each erratum beside the checkpoint section it names. The consequences for current authority are carried in the mutable documents: the [source register](../FX_KURUMI_SOURCE_REGISTER.md), the [decision and evidence ledger](../FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER.md) and the revision notes of the [V01](../readings/FX_KURUMI_V01_DEEP_READING.md), [V02](../readings/FX_KURUMI_V02_DEEP_READING.md), [V03](../readings/FX_KURUMI_V03_DEEP_READING.md) and [V04](../readings/FX_KURUMI_V04_DEEP_READING.md) deep readings.
 
@@ -218,3 +218,21 @@ B4-J10 is YES as written, because its frozen parenthesis admits "any yen figure 
 ## Name-and-reference check (handoff contract §15.6)
 
 Scope: this whole carrier. People are named where the page names them: Kurumi, Mochiko, Mebuki, and あふぃちゃん in V01, who becomes Yasuko from the V02 caption at i0074. The cover figures are identified only as INFERENCE where the cover itself gives no name. Agent A–D and "the coordinator" are process roles. The creators are named as credited (でむにゃん, 炭酸だいすき). No knowledge boundary is crossed: nothing here draws on a volume later than V04.
+
+<a id="later-corrections"></a>
+## Later corrections (2026-11-23)
+
+**Attribution.** Written on 2026-11-23 (UTC−05:00) by the run coordinator of run FXK-RUN-20261119-V01-V10: Claude Code, Claude Opus 5.5. It took no part in any reading. It answers the owner's comments 7075541760 (this carrier's §1) and 7079195859 (V07 source roles) on PR #695. The published errata above are unchanged; under the append-only rule each correction below names the text it corrects. Evidence: the published errata cited, the frozen V04 and V07 checkpoints, and the source register's V07 coverage.
+
+| Erratum | Record and section | Transition | Subject |
+| --- | --- | --- | --- |
+| [FXK-ERR-SUM-01](#fxk-err-sum-01) | This carrier, [§1](#summary) "Specialists" bullet | `REVISE` | Agent B's V04 FREEZE_00 preceded every V04 image |
+| [FXK-ERR-V07-01](#fxk-err-v07-01) | V07 checkpoint §7 "Freeze timing (Agent B)" | `REVISE` | The V07 afterword is an authorial extra, not apparatus |
+
+<a id="fxk-err-sum-01"></a>
+**FXK-ERR-SUM-01 — §1 "Specialists" bullet (`REVISE`).** The bullet says that each specialist opened the front cover (i0001) and the flap (i0002) "before any freeze or finding of its own". That holds for both specialists in V01–V03 and for Agent D in V04, which froze no prospects. It does not hold for Agent B in V04. As the V04 table of [FXK-ERR-V04-01](#fxk-err-v04-01) and the first item of [FXK-ERR-V04-02](#fxk-err-v04-02) record, Agent B wrote FREEZE_00 (saved 20:30, stated 20:29:58) before opening any V04 image. Its 18 items (B4-F01 to B4-F16, with F07b and F11b; ledger FXK-V04-F091–F108) are free of the cover and flap. Only FREEZE_01–04, with 55 items (B4-G01 to B4-K14; ledger FXK-V04-F109–F163), were written after Agent B opened i0001–i0002. Read §1's bullet with this exception. The frozen records, the item dispositions of FXK-ERR-V04-02 (`PRESERVE` for every item) and every score are unchanged; FREEZE_00 needs no rescore.
+
+<a id="fxk-err-v07-01"></a>
+**FXK-ERR-V07-01 — V07 checkpoint §7, "Freeze timing (Agent B)" (`REVISE`).** Frozen checkpoint: [V07 checkpoint](FX_KURUMI_V07_CHECKPOINT.md). The bullet says that Agent B's F05 CLOSING was written after the afterword i0153 had been opened "(05:06; apparatus, not a deferred input, declared in the freeze)". The source register's V07 coverage classes the afterword 「7巻あとがき」 (i0153) and the author's bonus essay (i0154–i0157) as authorial extras, admitted for classification only and not narrative evidence; apparatus there is the cover and flap, the jacket, the under-jacket boards, the separators and the colophon. Read the label as "an authorial extra, not a deferred input". The rest of the bullet stands: F05 CLOSING followed i0153 and preceded i0154–i0157 and every deferred input, and §7's item-by-item assessment of the afterword before F05 (`PRESERVE`) is unchanged. Agent B's own freeze, reproduced verbatim in §6.2, also calls i0153 "apparatus"; that is the role's record at the time and is not corrected. The same review moved the V07 reading's evidentiary uses of the bonus essay to the page (V07 reading 1.1, revision note) and aligned ledger FXK-V07-C032 with the register.
+
+**Name-and-reference check (handoff contract §15.6) for these corrections.** Agent B is a process role. No character or creator is named or described here, and nothing draws on a volume later than V07.

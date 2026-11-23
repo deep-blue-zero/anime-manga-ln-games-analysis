@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan V07 — Swiss Franc Shock: the contest settled, a
 artifact_id: FX_KURUMI_V07_DEEP_READING
 artifact_type: deep_reading
 series: fx-fighter-kurumi-chan
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Complete sequential reading of the V07 Japanese main narrative and classified apparatus"
 source_boundary: "FXK-JP-V07-W01 main narrative; V07 unit-end spoilers; no later volume"
 created: 2026-11-22
-last_updated: 2026-11-22
+last_updated: 2026-11-23
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -83,6 +83,23 @@ cited in the checkpoint. The changes of substance are these.
   long-haired face of i0080); "影響ないと思うけど" as Mochiko's (Agent D; Kurumi's, i0064); Mebuki's public Kansai as a shift (Agent D;
   accepted V03 records it aloud).
 
+## Revision note (2026-11-23)
+
+Version 1.1 answers the owner's review of PR #695 (comment 7079195859) after the V07 transaction was accepted. The run
+coordinator made it; the frozen [V07 checkpoint](../checkpoints/FX_KURUMI_V07_CHECKPOINT.md) and every quoted freeze are
+unchanged, and the checkpoint is corrected by the [checkpoint errata](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-v07-01).
+- *Source roles kept separate.* The source register admits the author's bonus essay (i0154–i0157) for classification only.
+  E032, the page-form section (§J, "The fall as duration") and competing reading 9 (§L) no longer cite it: the twelve-page pacing
+  now rests on the pages themselves (the spread i0084 | i0085, the page turn before the break at i0086, the repeated
+  falling labels of i0087–i0094 and the change of register at i0095). The creators' statements stay in the paratext
+  inventory of E057 and support nothing in the reading. The component row for i0154–i0157 (§A), the dated-figure index (§N)
+  and the claim row C032 (§M.8; ledger FXK-V07-C032) now use the register's classes: the afterword and the bonus essay are
+  authorial extras, the jacket, under-jacket boards and colophon apparatus.
+- *Literal hit rate reported.* §M.4's pattern paragraph said the exposure-sensitive forecasts came true "almost without
+  exception". Literally they came true 15 times in 21 in the volume's freezes, or 17 in 23 with the entering forecasts.
+  F03-4 is exposure-sensitive and is no longer listed among the non-exposure misses. Rows, outcome labels, exclusions
+  and Brier scores are unchanged.
+
 ---
 
 ## A. Receipt
@@ -124,7 +141,7 @@ re-opened i0009, i0049, i0050, i0065, i0066, i0080, i0098, i0099 and i0128 (read
 | i0125–i0150 | MAIN 第35話 (26 pp) | label on i0125 (odd); denial; the e-mail demand; the exam, forum and chat; Mochiko's self-questioning; the plan; 「TO BE CONTINUED...」 |
 | i0151 \| i0152 | APPARATUS: separator pair | |
 | i0153 | EXTRA: afterword 「7巻あとがき」 | chibi "くるみ先生" explains the shock ("20分で…41%"; 150円→90円 analogy) |
-| i0154–i0157 | EXTRA: author bonus essay | 「巻末特典!「スイスのアレ」裏話…!」: the blow-up planned from the start (2017, web original); 第33話's fall lengthened at the artist's urging |
+| i0154–i0157 | EXTRA: author bonus essay | 「巻末特典!「スイスのアレ」裏話…!」 (the writer on planning the 第33話 chart pages); classified only, not narrative evidence; inventoried in E057 |
 | i0158–i0159 | APPARATUS: jacket (colour; deferred) | back: collage of V07 panels and blurb; front and flap duplicate i0001–i0002 |
 | i0160–i0161 | APPARATUS: under-jacket boards (deferred) | artist's three-extra-pages essay; writer's IPO loss-chasing strip |
 | i0162 | APPARATUS: colophon | 2024-09-21; 初出 月刊コミックフラッパー2024年3月号〜2024年7月号 |
@@ -651,7 +668,9 @@ pages of 0.001-step labels (three to a page), 1.19700 … 1.17400, read at readi
 i0094); a dark screen whose single vertical line drops from 1.20000 to the bottom label, comic 「ピョーン」 at its foot, and the caption
 「2015年 1月15日 18時30分 スイスフランショック」 (i0095). Inconsistency kept: i0095's labels step by 0.00270 from 1.20000 to 1.17570, then the last
 reads 1.16880 (a step of 0.00690). Neither axis prints a low, a time series or a rate for Kurumi's account. EVAL HIGH: page count as
-measure; the creators' bonus essay confirms the length was deliberate (paratext, i0155–i0157, not evidence).
+measure. The pages build the duration themselves: the fall opens across the facing pages i0084 | i0085, the page turn delays the break
+at 「1.20000」 (i0086), eight pages repeat the falling labels (i0087–i0094), and the comic 「ピョーン」 under the dated caption changes the
+register at the end (i0095).
 
 ### Movement XII — Mochiko's night (第34話, i0097–i0100)
 
@@ -1238,8 +1257,9 @@ Glasses, short dark hair; moves out on a transfer at the end of December 2014 wi
   "織り込み済み——" over an empty room (i0073) and the "衝撃" maxim (i0074); the date in huge type (i0075); the equal-death maxim over an
   ordinary meal (i0080); the roar over four friends (i0081); Switzerland lit on a map, the Earth cracking, lightning on the SNB (i0082–i0083).
   The volume's strip announces 「1月15日」 on its first page (i0003).
-- **The fall as duration.** Twelve pages of falling labels (i0084–i0095), a device the creators' paratext calls deliberate ("メガ盛りチャート
-  演出"; i0155–i0157; not evidence) — the page count is the measure. The comic 「ピョーン」 at the foot (i0095) is the first register clash.
+- **The fall as duration.** Twelve pages of falling labels (i0084–i0095): the candle runs across the facing pages i0084 | i0085, the
+  page turn delays the break at 「1.20000」 (i0086), and the 0.001-step labels repeat for eight pages (i0087–i0094) — the page count is
+  the measure. The comic 「ピョーン」 at the foot (i0095) is the first register clash.
 - **Screens and faces.** The reveal is a full page of chart with no face or word (i0102); then a single eye (i0103); then the body without
   the screen (i0104–i0105). The black box (i0118) gives the reader the figure Kurumi will not look at; when she does read the e-mail, the page
   is the document itself (i0130) and then its terms printed over her blank face (i0131).
@@ -1300,7 +1320,9 @@ Glasses, short dark hair; moves out on a transfer at the end of December 2014 wi
 8. **Mochiko's motive as superseded.** "利用できると…思ったから付き合っただけだ" (i0045) describes how it began; cooking, staying, the near-
    invitation and the post-shock agitation show attachment since. Response: both are on the page in the same chapter; the volume does not
    say which governs her silence.
-9. **The fall pages as spectacle.** The twelve-page fall (i0084–i0095) can be read as formal play (the creators' paratext calls it "演出"), not dread.
+9. **The fall pages as spectacle.** The twelve-page fall (i0084–i0095) can be read as formal play, not dread: the spread across i0084 | i0085,
+   the page turn before the break (i0086), the repeated falling labels (i0087–i0094) and the comic 「ピョーン」 under the dated caption
+   (i0095) display the device as a device.
    Response: the register clash ("ピョーン") is real; the caption's naming and the following chapters make the spectacle a prelude to a human
    consequence.
 
@@ -1449,11 +1471,12 @@ Tallies (literal; 43 items, none OPEN or NOT TRIGGERED): 27 confirmed, 16 discon
 STRICT (F02-4 disconfirmed): 26 and 17; Brier 0.2100. TEXT-ONLY F06-10: 28 and 15; Brier 0.2053. All V07-made principal forecasts (entering state and freezes): 40 confirmed, 20
 disconfirmed of 60; Brier 0.2008 (calibration 23 and 14 of 37; Brier 0.2192).
 
-Pattern. The exposure-sensitive items — position closed, figures printed, the date reached, the shortfall unpaid — came true almost without
-exception; the declared exposure means they carry no calibration weight. Among non-exposure items, the freezes forecast structure well
+Pattern. The exposure-sensitive items — position closed, figures printed, the date reached, the shortfall unpaid — mostly came true:
+literally 15 of the 21 in the volume's freezes (27 confirmations less the 12 in the calibration set), or 17 of 23 with the entering
+forecasts (40 less 23). The declared exposure means they carry no calibration weight. Among non-exposure items, the freezes forecast structure well
 (labels, separators, openings) and failed on contact and disclosure: Mochiko never speaks to or messages Kurumi after the shock (F05-6), never
-voices the warning (F03-4) or the invitation (F03-5), is never in a panel with her again (F06-7); Mebuki and Yasuko vanish from present time
-after 15 January (F06-11); the father does not return (F06-9). F05-1 missed by one page. The calibration Brier (0.2402) is close to the
+voices the invitation (F03-5), is never in a panel with her again (F06-7); Mebuki and Yasuko vanish from present time
+after 15 January (F06-11); the father does not return (F06-9). F05-1 missed by one page. The unvoiced warning (F03-4) is exposure-sensitive and is counted with the exposure items, not here. The calibration Brier (0.2402) is close to the
 0.25 baseline.
 
 ### M.5 MAIN_EXIT forecasts for the next admitted volume (MX07-1 to MX07-11; ledger FXK-V07-F084–F094)
@@ -1577,7 +1600,7 @@ adopted).
 | C029 | Knowledge map at V07's end (§I) | NEW; OBS HIGH |
 | C030 | Parallel structure: Kurumi ↔ Kozue (1,005,144; 400×; 取り返す; the photograph; 2008); Kurumi ↔ Mochiko (schoolgirl selves; mothers; goals without an "after") | NEW; OBS HIGH for the elements; EVAL MOD-HIGH as design |
 | C031 | Printed anomalies kept (§F.10; the "300万円" discrepancy, "1300%" slip and Mebuki's composition withdrawn or resolved at reconciliation) | NEW; OBS HIGH |
-| C032 | Apparatus classified; paratext variance (20分/41% vs 数分/約30%); the creators' statements of intent not adopted; no preview | NEW; OBS (paratext) |
+| C032 | Apparatus and extras classified as in the source register (afterword and bonus essay extras; jacket, under-jacket boards and colophon apparatus); paratext variance (20分/41% vs 数分/約30%); the creators' statements kept in the E057 inventory, not used as evidence; no preview | NEW; OBS (paratext); classes aligned in 1.1 |
 | C033 | Ordinary-life evidence for the four, the father and the co-worker (§H) | NEW; OBS HIGH |
 | C034 | Page form: reveals on turns; the box before her sight; the narrator's explicit judgments of cognition (§J) | NEW; EVAL on OBS |
 | C070 | Mebuki's −3,400,000 is her 0円 balance less 3,400,000 of post-base deposits (accepted V03–V04 boxes); the contest result subtracts deposits, settling the rule left open in V06; the percentage boxes truncate (reviewer C-03; Agent B F-1, D-1, F-7) | NEW at reconciliation; CALC on accepted operands; INF HIGH (rule), INF MOD (truncation) |
@@ -1625,7 +1648,8 @@ anticipate or judge a depicted one. The principal's declared EXTERNAL_REFERENCE 
 
 Pairs shown in V07: EUR/CHF, EUR/USD, USD/JPY (2015 and 2008). Institutions named: スイス国立銀行 / SCHWEIZERISCHE NATIONALBANK, 欧州中央銀行
 (ECB), 日銀 (V03 memory), リーマン・ブラザーズ, the parody broadcaster 「STR」, the parody portal 「YAPOO!! JAPAN」, the in-world broker
-「たのしいFX」 and bank 「UFO銀行」. Paratext figures (afterword "20分… 41%", 150円 → 90円; bibliographic dates 2024) are apparatus.
+「たのしいFX」 and bank 「UFO銀行」. Paratext figures are not narrative evidence: the afterword's "20分… 41%" and 150円 → 90円 belong to an authorial extra (i0153),
+and the bibliographic dates (2024) to the colophon, which is apparatus (i0162).
 
 ---
 
