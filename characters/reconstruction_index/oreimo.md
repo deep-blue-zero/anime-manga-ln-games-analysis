@@ -23,7 +23,7 @@ Recorded assessments of subjects in the `oreimo` namespace of the [Character Rec
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `87de609c0e6535b12559b8a440225837714abc0b9863eea3749f7573ca061439`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
 - Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
-- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
   - `DIALOGUE` condition: Output is illustrative register, never quotation.
   - `DIALOGUE` condition: Register follows the interlocutor rule in III.9: public-peer, otaku-peer, toward Kyousuke, or vulnerable.
   - `DIALOGUE` condition: Address-term choice \(あんた, ねえ, 兄貴, お兄ちゃん, 京介\) follows the relational stage, and 京介 is not used before the relationship reaches the individual-man stage the monograph describes.
@@ -65,7 +65,7 @@ Recorded assessments of subjects in the `oreimo` namespace of the [Character Rec
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `cfdf9ae42aae4d62cb736678708fcbdaf2296973406c021ed1c48da6cb6df224`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
 - Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
-- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
   - `DIALOGUE` condition: Output is illustrative register, never quotation.
   - `DIALOGUE` condition: Narration follows the denial, observation, intervention, recognition, denial cycle and the conversion map.
   - `DIALOGUE` condition: Spoken lines to a specific interlocutor are a separate, lower-confidence condition, since the evidence describes narration rather than dialogue.
