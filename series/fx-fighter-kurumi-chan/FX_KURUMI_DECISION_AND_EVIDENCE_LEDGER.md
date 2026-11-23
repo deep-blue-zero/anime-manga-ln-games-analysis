@@ -3,7 +3,7 @@ title: "FX Fighter Kurumi-chan — Decision and Evidence Ledger"
 artifact_id: FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER
 artifact_type: evidence_ledger
 series: fx-fighter-kurumi-chan
-version: "1.12"
+version: "1.13"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Ordered fictional decisions, state and interpretation history for the collected manga"
@@ -2410,6 +2410,12 @@ A row marked "independent prospect" was frozen in the specialist's own lane. In 
 | FXK-V10-F144 | B10-FC-13 ロスカット or 証拠金 in a V11 present-time scene (V10 Agent B; LOW-MOD; ES) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); ES; independent prospect |
 | FXK-V10-F145 | B10-FC-14 A size, price or P/L figure for Yasuko's カドサワ holding in V11 (V10 Agent B; LOW) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); independent prospect |
 | FXK-V10-F146 | B10-FC-15 Mochiko's own financial assets or trading in V11 present time (V10 Agent B; LOW) | Agent B F_CLOSE (13:21:48; after every main-narrative page and after i0157–i0158, before any deferred input) | — | NOT SCOREABLE IN THIS RUN (beyond V10); independent prospect |
+| FXK-SYN-C001 | Transition of FXK-V01-C007 (the 「FXトレード日誌」 is the mother's) (FXK-SYN-20261123-V01-V10; principal) | Accepted V01 reading; last explicit transition: V01 reconciliation, PRESERVE as INFERENCE MODERATE-HIGH (V02 PRESERVE, not tested) | V06 i0065: Kozue writes 「FXトレード日誌」 on the notebook (V06 reading §C); i0079; Kurumi reads it (i0090, i0093–i0095); no second journal or author shown | STRENGTHEN → OBSERVATION HIGH; [reconciliation audit](audits/FX_KURUMI_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md) §5.6 |
+| FXK-SYN-C002 | Transition of FXK-V05-C063 as revised by FXK-V06-C051 (Kurumi's after-tax reckoning; basis graded INFERENCE MODERATE-HIGH) (FXK-SYN-20261123-V01-V10; principal) | Accepted V05 reading; last explicit transition: FXK-V06-C051 REVISE (i0096) | Target (V03 i0054) and withdrawal (V03 i0124) printed; her own counts at V05 i0153 (2,786,085) and V06 i0096 (5,660,085) fit one rule to the yen (ANALYST CALCULATION); only her counting the withdrawal toward the gross target is inferred | STRENGTHEN (basis → INFERENCE HIGH); [reconciliation audit](audits/FX_KURUMI_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md) §5.6 |
+| FXK-SYN-C003 | Transition of FXK-V05-C032 (the V05 bonus strip's method statements used for method) (FXK-SYN-20261123-V01-V10; principal) | Accepted V05 reading; FXK-V05-C032 NEW (paratext); V05 §F preamble, §F.1 row 12, E059, L.5 | Paratext is classified only; the chart convention rests on internal evidence (V03 §F.7; V06 §F; V07 §F, i0125); no accepted reconstruction depends on the strip; the +10円 residual is not explained by it | REVISE: method use withdrawn; the blurb and under-jacket parts of C032 stand; [reconciliation audit](audits/FX_KURUMI_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md) §5.6, §9 item 3 |
+| FXK-SYN-C004 | Transition of FXK-V02-C002 (a chosen return under pressure, partly vindicated by depicted outcomes) (FXK-SYN-20261123-V01-V10; principal) | Accepted V02 reading; last explicit transition: FXK-V05-C056 (STRENGTHEN for the 180枚; OPEN for the short) | Outcome strand: the V05 short cut by hand at −1,743,000 and a new short at −1,131,000 (V06 i0013, i0046); −101,534,644 (V07 i0118); 0円 (V08 i0020); it holds for V02–V05 only. The agency strand (V09 i0078–i0079, i0119–i0121) needs a study's argument | DOWNGRADE (outcome strand); agency strand OPEN pending G3 (Study C); [reconciliation audit](audits/FX_KURUMI_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md) §5.6 |
+| FXK-SYN-C005 | Transition of FXK-V01-C006 as extended by FXK-V05-C059 (conflict of interest) (FXK-SYN-20261123-V01-V10; principal) | Accepted V01 reading; last explicit transition: FXK-V05-C059 REVISE (extend) | V07 i0017: Mochiko to Mebuki, "私は芽吹を利用して勝ちに行った", "悪いことしたとは思ってない" (what 利用 covers is unspecified, V07 reading §M); none toward Kurumi recorded (FXK-V03-C032; FXK-V07-C075) | STRENGTHEN (toward Mebuki); the V01 withdrawal stands for V01; [reconciliation audit](audits/FX_KURUMI_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md) §5.6 |
+| FXK-SYN-C006 | Registration of V01's competing thesis: a black comedy of chance in which competence is not what the market rewards (V01 reading §D; HYPOTHESIS MODERATE) (FXK-SYN-20261123-V01-V10; principal) | Accepted V01 reading §D (revision 1.1; FXK-V01-C017); no earlier row | Successor strands, recorded and not argued: the exogenous strand of FXK-V07-C002 (DOWNGRADED in part, FXK-V08-C042); FXK-V09-C002 (STRENGTHENED, FXK-V10-C049); FXK-V10-C002 (NEW) | OPEN (registered; standing argued in the integrated synthesis); [reconciliation audit](audits/FX_KURUMI_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md) §5.4 a, §5.6 |
 
 For prospects preserve predictions, confidence, disconfirming signals and actual exposure before resolution. Attribute independent tests separately. For revisions use `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT` or `OPEN`. Keep the historical argument and use a new linked entry for a material change.
 
@@ -3436,3 +3442,31 @@ Subjects assessed through V10 (FXK-JP-V01-W01, FXK-JP-V02-W01, FXK-JP-V03-W01, F
 - Apparatus and extras in V10 (i0001–i0002, i0157–i0171: covers, flap, jacket blurb and collage, separator, artist-side bonus manga, a pre-serialization
   drawing sample, the writer's afterword, the under-jacket essay and manga, colophon, vendor page) are paratext and are not used in these notes.
 - Monographs: none completed or linked.
+
+### V01–V10 qualification (FXK-SYN-20261123-V01-V10)
+
+Current subject IDs, names and outcomes at the V01–V10 boundary (gate G2, 2026-11-23); the arguments, name forms, gaps and review triggers are in the [character qualification audit](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md). The entries above remain the dated evidence; this table states the current outcome. Intended monograph paths are plain text until an accepted monograph exists; gate G4 records the self-containment and fidelity results separately. Anonymous one-volume figures are assessed in that audit's group lines.
+
+| Subject ID | Person | Outcome | Qualification record | Intended monograph path (no document yet) | Self-containment | Fidelity |
+| --- | --- | --- | --- | --- | --- | --- |
+| FXK-P001 | 福賀くるみ (Fukuga Kurumi) | QUALIFIED_PENDING | [FXK-P001](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p001-fukuga-kurumi) | characters/fukuga-kurumi-manga.md | pending G4 | pending G4 |
+| FXK-P002 | Kurumi's father (福賀; 郁夫 by INFERENCE HIGH) | QUALIFIED_PENDING | [FXK-P002](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p002-father-of-fukuga-kurumi) | characters/fukuga-ikuo-manga.md | pending G4 | pending G4 |
+| FXK-P003 | 福賀梢 (Fukuga Kozue), Kurumi's mother (named from V06 i0065) | QUALIFIED_PENDING | [FXK-P003](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p003-fukuga-kozue) | characters/fukuga-kozue-manga.md | pending G4 | pending G4 |
+| FXK-P004 | 山口さん (V07 worker and V05 co-worker by INFERENCE MODERATE-HIGH) | DEFERRED_EVIDENCE | [FXK-P004](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p004-yamaguchi) | none | not applicable | not applicable |
+| FXK-P005 | 小金萌智子 (Kogane Mochiko) | QUALIFIED_PENDING | [FXK-P005](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p005-kogane-mochiko) | characters/kogane-mochiko-manga.md | pending G4 | pending G4 |
+| FXK-P006 | 山師芽吹 (Yamashi Mebuki) | QUALIFIED_PENDING | [FXK-P006](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p006-yamashi-mebuki) | characters/yamashi-mebuki-manga.md | pending G4 | pending G4 |
+| FXK-P007 | 優子 (Yūko) | DEFERRED_EVIDENCE | [FXK-P007](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p007-yuko) | none | not applicable | not applicable |
+| FXK-P008 | 高根やす子 (Takane Yasuko), handle あふぃちゃん (named from V02 i0074) | QUALIFIED_PENDING | [FXK-P008](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p008-takane-yasuko) | characters/takane-yasuko-manga.md | pending G4 | pending G4 |
+| FXK-P009 | Mebuki's mother (unnamed) | DEFERRED_EVIDENCE | [FXK-P009](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p009-mother-of-yamashi-mebuki) | none | not applicable | not applicable |
+| FXK-P010 | Mebuki's father (unnamed) | DEFERRED_EVIDENCE | [FXK-P010](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p010-father-of-yamashi-mebuki) | none | not applicable | not applicable |
+| FXK-P011 | 健斗 (Kento), Mebuki's brother | DEFERRED_EVIDENCE | [FXK-P011](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p011-kento) | none | not applicable | not applicable |
+| FXK-P012 | 千佳ちゃん (Chika) | DEFERRED_EVIDENCE | [FXK-P012](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p012-chika) | none | not applicable | not applicable |
+| FXK-P013 | "よしあき@漫画評論家" (screen name) | DEFERRED_EVIDENCE | [FXK-P013](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p013-yoshiaki-screen-name) | none | not applicable | not applicable |
+| FXK-P014 | Mochiko's paternal grandmother (unnamed) | DEFERRED_EVIDENCE | [FXK-P014](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p014-grandmother-of-kogane-mochiko) | none | not applicable | not applicable |
+| FXK-P015 | Mochiko's mother (unnamed) | DEFERRED_EVIDENCE | [FXK-P015](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p015-mother-of-kogane-mochiko) | none | not applicable | not applicable |
+| FXK-P016 | The bespectacled man of Mochiko's V05 flashback (unnamed) | DEFERRED_EVIDENCE | [FXK-P016](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p016-the-bespectacled-man-of-the-v05-flashback) | none | not applicable | not applicable |
+| FXK-P017 | 増尾先生 (Masuo) | DEFERRED_EVIDENCE | [FXK-P017](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p017-masuo-teacher) | none | not applicable | not applicable |
+| FXK-P018 | 毒島☆寿美 (Busujima Hiromi) | DEFERRED_EVIDENCE | [FXK-P018](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p018-busujima-hiromi) | none | not applicable | not applicable |
+| FXK-P019 | 酒田いなご (Sakata Inago) | DEFERRED_EVIDENCE | [FXK-P019](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p019-sakata-inago) | none | not applicable | not applicable |
+| FXK-P020 | 善波なな (Zenba Nana) | QUALIFIED_PENDING | [FXK-P020](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p020-zenba-nana) | characters/zenba-nana-manga.md | pending G4 | pending G4 |
+| FXK-P021 | 月森きずな (Tsukimori Kizuna) | QUALIFIED_PENDING | [FXK-P021](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md#fxk-p021-tsukimori-kizuna) | characters/tsukimori-kizuna-manga.md | pending G4 | pending G4 |

@@ -3,7 +3,7 @@ title: "FX Fighter Kurumi-chan — Current State and Corpus Map"
 artifact_id: FX_KURUMI_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
 series: fx-fighter-kurumi-chan
-version: "1.13"
+version: "1.14"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Canonical foundation navigation, source admission and execution state"
@@ -16,7 +16,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 project_initialization:
   status: canonical
-  architecture_lifecycle: INITIAL
+  architecture_lifecycle: EVOLVING
   governing_method: FX_KURUMI_ANALYTICAL_METHOD.md
   synthesis_architecture: FX_KURUMI_SYNTHESIS_ARCHITECTURE.md
   method_status: canonical
@@ -140,6 +140,6 @@ The owner's November 23, 2026 instruction authorizes **FXK-SYN-20261123-V01-V10*
 | Synthesis | FXK-SYN-20261123-V01-V10, owner instruction of 2026-11-23 |
 | Evidence boundary | The accepted V01–V10 readings, checkpoints, errata, ledger and source register. Pages of the admitted V01–V10 witnesses are re-opened only to verify load-bearing claims |
 | Gates | G1 state reconciliation; G2 role-gap review and person qualification; G3 specialist synthesis, convergence, integrated synthesis and qualified character monographs; G4 semantic validation; G5 the owner's release |
-| Current gate | G1 |
+| Current gate | G3. G1 and G2 are recorded: the [reconciliation audit](audits/FX_KURUMI_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md), the [role-gap audit](audits/FX_KURUMI_ARCHITECTURE_ROLE_GAP_AUDIT.md), the [qualification audit](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md), ledger rows FXK-SYN-C001–C006 with the qualification table, and the architecture's [retrospective amendment](FX_KURUMI_SYNTHESIS_ARCHITECTURE.md#retrospective-amendment-2026-11-23), which moves the architecture to `EVOLVING`. Eight subjects are QUALIFIED_PENDING; no monograph exists yet |
 | Crew | Principal integrator, financial specialist, character specialist and critical reviewer. Each runs as a fresh Claude Code subagent context launched by the run coordinator and inherits the coordinator's Claude Opus 5.5 model; no other setting is recorded. The work runs locally rather than in fresh cloud sessions because the admitted witnesses and the working plane are local |
 | Writers | The principal alone writes the synthesis audits, the shared ledger and the published synthesis. Specialists and reviewers draft in the working plane. The coordinator edits this map, validates, commits and publishes |

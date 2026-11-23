@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan V05 — Thread: Mochiko's past, Mebuki's rescue s
 artifact_id: FX_KURUMI_V05_DEEP_READING
 artifact_type: deep_reading
 series: fx-fighter-kurumi-chan
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Complete sequential reading of the V05 Japanese main narrative and classified apparatus"
 source_boundary: "FXK-JP-V05-W01 main narrative; V05 unit-end spoilers; no later volume"
 created: 2026-11-22
-last_updated: 2026-11-22
+last_updated: 2026-11-23
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -99,6 +99,18 @@ cited in the checkpoint. The changes of substance are these.
   "萌智子先輩へ♪" and the Mebuki attribution of "なにそれ" are not adopted. Agent D's "dark double" over the 300-lot order is qualified
   (a dark aura and a sidelong grin; no distinct second figure on the reading copy).
 
+## Revision note (2026-11-23)
+
+Version 1.1 is made by the run coordinator for the retrospective synthesis FXK-SYN-20261123-V01-V10. Its state
+reconciliation (reconciliation audit, section 9, item 3) found that this reading used the bonus strip (i0165), an
+authorial extra admitted for classification only, as a basis for method: that printed P/L excludes swap and that
+short-term charts are altered for drama. That use is withdrawn (ledger FXK-SYN-C003). The §F preamble, row 12 of §F.1,
+E060 and counterreading L.5 now rest the chart convention on the pages (the schematic final chart, i0162) and on the
+accepted V03 finding, and leave swap unmodelled rather than explained. The component row and §Q say the strip is
+classified only. No figure, outcome, score or thesis changes. The frozen [V05 checkpoint](../checkpoints/FX_KURUMI_V05_CHECKPOINT.md)
+is unchanged; the V06 entering state's repetition of the remark is corrected by
+[erratum FXK-ERR-V06-01](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-v06-01).
+
 ---
 
 ## A. Receipt
@@ -133,7 +145,7 @@ cited in the checkpoint. The changes of substance are these.
 | i0141–i0162 | MAIN 第25話 | 2 Dec+: 119→120; café exposure; Kurumi's +17,602,200; 300-lot short; reversal; "TO BE CONTINUED..." | label on first page i0141 |
 | i0163 | APPARATUS (separator) | Logo page | back-matter divider |
 | i0164 | EXTRA | "5巻 あとがき" (drawing Mochiko from 12 to 18) | glance |
-| i0165 | EXTRA | "巻末特典! FX戦士くるみちゃんの嘘!" (short-term charts altered; P/L excludes swap) | glance; method-relevant |
+| i0165 | EXTRA | "巻末特典! FX戦士くるみちゃんの嘘!" (short-term charts altered; P/L excludes swap) | glance; classified only (not used for method since revision 1.1) |
 | i0166–i0167 | APPARATUS (wraparound jacket) | Blurb; collage; duplicate of cover and flap | after MAIN_EXIT |
 | i0168 | APPARATUS / EXTRA (under-jacket back) | Authorial note "BL課長について" | after MAIN_EXIT; exposure (§Q) |
 | i0169 | EXTRA (under-jacket front) | Authorial gag "ドヤ天井" | after MAIN_EXIT |
@@ -986,7 +998,7 @@ fond voice; "ママ" (child) against "お母さん" (adult).
 white candle from ≈119.52 to ≈119.74 (estimated from the axis 119.5–119.8); shaggy black sound glyphs (kana UNRESOLVED); the
 bucket overturned in the surf, shells scattered; "TO BE CONTINUED...". CALC (illustrative only; the chart is not a price record): at the low the short is
 ≈+543,000; at ≈119.744 ≈−339,000. EVAL HIGH: the volume ends on a move against her new position while she is away from the screen (sleep is not drawn), with the image
-of everything gathered being taken by the tide. The bonus strip (i0165) says short-term charts are altered for drama: the candle
+of everything gathered being taken by the tide. The chart is schematic and drawn charts are not price records (§F preamble): the candle
 is staging, not a recorded outcome.
 
 ### Cross-movement observation (added at reconciliation)
@@ -1007,8 +1019,10 @@ stronger than the cross-volume structural echo with V04 (E005, C005, INF MOD).
 
 Provenance codes: TILE/BOX (screen tile or result box), SCR (other screen text), SP (speech), TH (thought), NP (caption), DIAG
 (explanatory diagram), CHART (drawn chart, reading-size or crop estimate), CALC (analyst calculation). Pair USD/JPY throughout
-unless stated. 1枚 = 10,000 units. The bonus strip (i0165, paratext) states that printed P/L excludes swap and that short-term
-charts are altered for drama; reconstruction is therefore rate × size only, and chart shapes are not price records.
+unless stated. 1枚 = 10,000 units. Reconstruction is rate × size only: swap and fees are never printed and are not modelled,
+so a small residual stays a residual (U-04). Chart shapes are not price records: this volume's final chart is schematic
+(i0162, read from a crop against its axis labels), and the accepted V03 reading found a daily chart whose low disagrees
+with the rate a printed tile implies (V03 §F.7).
 
 ### F.1 Mebuki (山師芽吹) — overseas account (label "海外口座" in V04; not printed in V05)
 
@@ -1049,7 +1063,7 @@ Accepted V02 printed a 500× overseas account for Mebuki; no V05 margin level is
 | 9 | same | Her tax reckoning | "税金分考えて あと300万円だけ 稼げば目標達成…!?" | TH i0153 (crop) | target not met by her reckoning; INF MOD-HIGH reconciliation with accepted V03 figures: 25,000,000 − (21,213,915 + 1,000,000 withdrawn) = 2,786,085 (CALC); tax rate unprinted |
 | 10 | same night | New short | "くるみ USD/JPY 119.631円 300枚売り" | BOX i0158 (crop) | 3,000,000 units; ≈16.9× effective on 21.21M; zero equity ≈126.70 (CALC, illustrative; stop-out rule unprinted) |
 | 11 | same | Target | "目標は 118.6円で 指値注文セット"; "1円で約300万円" | TH i0158 | at 118.6: +3,093,000 (CALC), closing the row-9 gap (balance 24,306,915; with the V03 withdrawal 25,306,915); stop: none shown |
-| 12 | volume end | Move against the short | low ≈119.45; white candle ≈119.52 → ≈119.74 | CHART i0162 (crop estimate) | illustrative only (i0165: short-term charts altered): ≈+543,000 at the low; ≈−339,000 at 119.744 (LOW) |
+| 12 | volume end | Move against the short | low ≈119.45; white candle ≈119.52 → ≈119.74 | CHART i0162 (crop estimate) | illustrative only (schematic chart; §F preamble): ≈+543,000 at the low; ≈−339,000 at 119.744 (LOW) |
 
 ### F.3 Mochiko (小金萌智子) — domestic (per V03)
 
@@ -1427,8 +1441,8 @@ holds a 300-lot short. No character knows Mochiko's past except as Yasuko guesse
   conditional on a favourable move (i0091).
 - **L.4 Kurumi as disciplined.** For: the bracket (i0077–i0080) and a correct top call (i0157); the win came from a pre-set order.
   Against: the greed creed (i0076), the 億 temptation (i0154, checked), 300 lots with no stop shown and the PC off (i0158–i0159).
-- **L.5 The ending as staging.** The final candle is schematic, and the bonus strip says short-term charts are altered for drama
-  (i0165): the spike may be a wick; the short may profit. The reading claims only that the page ends on a move against her and on
+- **L.5 The ending as staging.** The final candle is schematic, and drawn charts are not price records (§F
+  preamble): the spike may be a wick; the short may profit. The reading claims only that the page ends on a move against her and on
   the spilled-bucket image, not an outcome.
 - **L.6 Yasuko's concession as complicity or as respect.** Her "芽吹の自己責任" (i0133) could license Mochiko; it can also be read as
   refusing to treat Mebuki as incapable, while insisting on care. Her threat (i0139) and fear (i0138) weigh toward the second.
@@ -1842,8 +1856,8 @@ existing rows, table headers or explanatory paragraphs:
   (i0166) — a softer label than the pages show, not adopted; the under-jacket note "BL課長について" (i0168) names a bespectacled
   character "BL課長", says he was conceived as a "金貸し" and may return — by design he resembles the bespectacled man of Mochiko's
   flashback (i0007, i0026; not verified against those pages), but nothing in the main narrative calls him 課長 or a moneylender, and
-  none of it is used as story evidence or for forecasts; the bonus strip (i0165) is used only for method (charts altered short-term;
-  P/L excludes swap), and its sentence about 2014 is not used. EXTERNAL_REFERENCE: general awareness that the 2008 US House vote and
+  none of it is used as story evidence or for forecasts; the bonus strip (i0165) is classified only: revision 1.1
+  withdrew its earlier use for method (charts, swap), and its sentence about 2014 is not used. EXTERNAL_REFERENCE: general awareness that the 2008 US House vote and
   Dow fall, a Q3 GDP release, FOMC minutes and a late-2014 USD/JPY rise toward 120 are real events — the pages print them, and they
   are recorded as page text only; general knowledge of real late-2014 exchange-rate history (declared in the entering state) was
   never used to anticipate or judge a depicted outcome, and the V06-facing market forecasts are flagged for it; in-world parodies

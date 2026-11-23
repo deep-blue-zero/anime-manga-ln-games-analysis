@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan V01 — The Mother's Currency: proof, household m
 artifact_id: FX_KURUMI_V01_DEEP_READING
 artifact_type: deep_reading
 series: fx-fighter-kurumi-chan
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Complete sequential reading of the V01 Japanese main narrative and classified apparatus"
 source_boundary: "FXK-JP-V01-W01 main narrative; V01 unit-end spoilers; no later volume"
 created: 2026-11-21
-last_updated: 2026-11-22
+last_updated: 2026-11-23
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -75,6 +75,14 @@ by the [checkpoint errata](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#v01).
   and FX-4 is the principal's own forecast, frozen before any apparatus was opened. Errata FXK-ERR-V01-01 and -02.
 
 No other text changed.
+
+## Revision note (2026-11-23)
+
+Version 1.2 is made by the run coordinator for the retrospective synthesis FXK-SYN-20261123-V01-V10, whose state
+reconciliation found a named-subject defect here (reconciliation audit, section 9, item 15). §D no longer summarizes
+the flap's creator comment or refers to the writer with a gendered pronoun: the flap and the blurb are named as
+apparatus, classified only, as the rest of the paragraph already treated them. No observation, claim, score or
+thesis changes. The frozen [V01 checkpoint](../checkpoints/FX_KURUMI_V01_CHECKPOINT.md) is unchanged.
 
 ---
 
@@ -352,9 +360,8 @@ prescribes, realizes a 大損, and is then caught on the short she re-risked. Ku
 unreliable or ironic as a moralist: it calls her aversion "in a sense courageous" (i0143) just before the rescue, and
 it jokes about the manga's own cancellation (i0086). On this reading the market is an indifferent trickster
 ("あざ笑うかのように", i0150). The volume's subject is spectatorship: the reader's and Mochiko's pleasure in watching
-someone stand on the edge. It is not a lesson about process. The author's flap note says the work was born of his own
-defeats (i0002), and the publisher's blurb is light (i0166). That framing is apparatus. It is noted here but carries no
-weight in choosing between the theses. The story author's afterword (i0165) is an authorial extra and is not cited.
+someone stand on the edge. It is not a lesson about process. The flap (i0002) and the publisher's blurb (i0166) are apparatus,
+classified only. They carry no weight in choosing between the theses. The story author's afterword (i0165) is an authorial extra and is not cited.
 
 **Why the governing thesis is preferred, provisionally.** The page repeatedly ties the trades to the mother (i0050,
 i0062, i0103, i0139–i0140) and the father (i0109–i0113, i0124, i0138). It frames the win with unresolved debt and a

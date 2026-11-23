@@ -211,7 +211,7 @@ Recorded by the V05 principal for run FXK-RUN-20261119-V01-V10 and accepted with
 | Apparatus: separators inside the main run | i0055–i0056 | Black grid pages with the series logo, the only pair, between 第21話 and 第22話 |
 | Apparatus: separator | i0163 | Logo page before the back matter |
 | Extra: afterword strip | i0164 | 「5巻 あとがき」; classified only; not narrative evidence |
-| Extra: bonus explainer | i0165 | 「巻末特典! FX戦士くるみちゃんの嘘!」: short-term charts altered for drama; printed P/L excludes swap; used only as method paratext, not as narrative evidence |
+| Extra: bonus explainer | i0165 | 「巻末特典! FX戦士くるみちゃんの嘘!」: short-term charts altered for drama; printed P/L excludes swap; classified only, not narrative evidence. Its earlier use as method paratext was withdrawn on 2026-11-23 (ledger FXK-SYN-C003; V05 reading 1.1) |
 | Apparatus: wraparound jacket | i0166–i0167 | Publisher blurb and a collage of V05 panels; repeats the cover and flap; paratext |
 | Apparatus and extra: under-jacket boards | i0168–i0169 | The authors' note 「BL課長について」 and an investing gag; paratext, not used as story evidence |
 | Apparatus: colophon | i0170 | Bibliographic |

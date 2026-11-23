@@ -6,7 +6,7 @@ series: fx-fighter-kurumi-chan
 version: "1.1"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
-authority_scope: "Attributable errata and dispositions governing the frozen V01–V04 checkpoints: each role's exposure to covers, flaps and jackets, the class of V01 i0165, and the forecast credit and scoring that depend on them; later corrections to this carrier's own summary and to the frozen V07 checkpoint's class label for the V07 afterword"
+authority_scope: "Attributable errata and dispositions governing the frozen V01–V04 checkpoints: each role's exposure to covers, flaps and jackets, the class of V01 i0165, and the forecast credit and scoring that depend on them; later corrections to this carrier's own summary, to the frozen V07 checkpoint's class label for the V07 afterword, and to a basis remark in the frozen V06 entering state"
 source_boundary: "FXK-JP-V01-W01 to FXK-JP-V07-W01 main narratives and classified apparatus (V01–V07); V07 unit-end knowledge; no later volume"
 created: 2026-11-22
 last_updated: 2026-11-23
@@ -20,7 +20,7 @@ recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 
 # FX Fighter Kurumi-chan — Checkpoint errata
 
-**Spoilers for V01–V04; the [later corrections](#later-corrections) also concern V07.**
+**Spoilers for V01–V04; the [later corrections](#later-corrections) also concern V05–V07.**
 
 The frozen checkpoints and entering states of V01–V04 remain byte-unchanged. This carrier governs their correction. Where an erratum and a frozen checkpoint differ, the erratum gives the current account, and the frozen text remains the record of what was written at its time. Read each erratum beside the checkpoint section it names. The consequences for current authority are carried in the mutable documents: the [source register](../FX_KURUMI_SOURCE_REGISTER.md), the [decision and evidence ledger](../FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER.md) and the revision notes of the [V01](../readings/FX_KURUMI_V01_DEEP_READING.md), [V02](../readings/FX_KURUMI_V02_DEEP_READING.md), [V03](../readings/FX_KURUMI_V03_DEEP_READING.md) and [V04](../readings/FX_KURUMI_V04_DEEP_READING.md) deep readings.
 
@@ -236,3 +236,6 @@ Scope: this whole carrier. People are named where the page names them: Kurumi, M
 **FXK-ERR-V07-01 — V07 checkpoint §7, "Freeze timing (Agent B)" (`REVISE`).** Frozen checkpoint: [V07 checkpoint](FX_KURUMI_V07_CHECKPOINT.md). The bullet says that Agent B's F05 CLOSING was written after the afterword i0153 had been opened "(05:06; apparatus, not a deferred input, declared in the freeze)". The source register's V07 coverage classes the afterword 「7巻あとがき」 (i0153) and the author's bonus essay (i0154–i0157) as authorial extras, admitted for classification only and not narrative evidence; apparatus there is the cover and flap, the jacket, the under-jacket boards, the separators and the colophon. Read the label as "an authorial extra, not a deferred input". The rest of the bullet stands: F05 CLOSING followed i0153 and preceded i0154–i0157 and every deferred input, and §7's item-by-item assessment of the afterword before F05 (`PRESERVE`) is unchanged. Agent B's own freeze, reproduced verbatim in §6.2, also calls i0153 "apparatus"; that is the role's record at the time and is not corrected. The same review moved the V07 reading's evidentiary uses of the bonus essay to the page (V07 reading 1.1, revision note) and aligned ledger FXK-V07-C032 with the register.
 
 **Name-and-reference check (handoff contract §15.6) for these corrections.** Agent B is a process role. No character or creator is named or described here, and nothing draws on a volume later than V07.
+
+<a id="fxk-err-v06-01"></a>
+**FXK-ERR-V06-01 — V06 entering state, "Date and frame" (`REVISE`).** Frozen record: [V06 entering state](FX_KURUMI_V06_ENTERING_STATE.md). Written on 2026-11-23 by the run coordinator for the retrospective synthesis FXK-SYN-20261123-V01-V10, whose state reconciliation found the defect. The bullet says that V05's last chart "is schematic (the V05 bonus strip says short-term charts are altered for drama)". The bonus strip (V05 i0165) is an authorial extra admitted for classification only, and its use as a basis for method is withdrawn (ledger FXK-SYN-C003; V05 reading 1.1). Read the parenthesis as "drawn charts are not price records, on the pages' own evidence". The chart's schematic reading stands. The remark reached the V06 principal through the accepted V05 reading, which was admitted prior knowledge, and it carries no later-volume information, so no V06 entering forecast's outcome or credit changes.
