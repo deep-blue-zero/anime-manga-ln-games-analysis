@@ -6,6 +6,52 @@ Recorded assessments of subjects in the `yuru-camp` namespace of the [Character 
 
 ## Recorded assessments
 
+### Subject `yuru-camp:inuyama-aoi@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/yuru-camp/inuyama-aoi@manga.jsonl`](../reconstruction_capabilities/yuru-camp/inuyama-aoi@manga.jsonl)
+
+<a id="yuru-camp-inuyama-aoi-manga-document04-20261123-01"></a>
+
+#### Assessment `yuru-camp-inuyama-aoi-manga-document04-20261123-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `yuru-camp:inuyama-aoi`
+- Scope: continuity `yuru-camp-manga`
+- Source boundary: Only yuru-camp:inuyama-aoi@manga\#reviewed-synthesis-document04-aoi, the active\_provisional Document04 shared synthesis of Ōgaki Chiaki, Inuyama Aoi and Saitō Ena \(Japanese main manga V01-V19\) at basis\_commit, read in full as reviewed repository analysis. Claims about Aoi \(Inuyama Aoi\) are drawn from §3 and from the passages of §§1-2 and 4-7 that name her; §§2 and 4 are not otherwise used. The project's corpus map and character reconstruction specification were read for method, authority and scope only; the specification's statement that no subject has a readiness determination is an input, not a conclusion. The volume readings, the five longitudinal ledgers, Documents02-03, 05-06, 10 and 12, the checkpoints and the Japanese source images are not curated evidence on this subject, and nothing is borrowed from them. No anime, anthology or post-V19 material is included, and the evaluator inspected no primary source.
+- Temporal boundary: Japanese main manga V01-V19 as read through the six accepted checkpoints and the V19 transaction, with the dated post-V19 complements placed in their story epochs. States are split at the located transitions: the thin, partly extracted early baseline; the V04 Christmas meal; the V06 shared cold failure; the V13 gifted bicycle, first extended ride, puncture and pickup; the V14 private repair doubt; the V15 explicit beginner status with Mei \(Nakatsugawa Mei\); and V19 continued practice around supermarket shifts. V16-V18 give her no main-story cycling, which is read as neither plateau nor improvement. The V19 Golden Week scenes have parallel or retrospective framing, and bonus-strip \(Heya\) scenes are kept as their own mode. No default state is set, and no state after V19 is established.
+- Basis commit: `7784263021a705eb404494d08711dfc22a6f8d89`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `516c92ce58e0c45e8eb42028e987663482977a8ece3bf494bcb63c768283e279`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `DIALOGUE` condition: Illustrative Japanese only, never quotation, in short turns whose purpose and recipient are fixed before wording: a peer task request, a reply to thanks, a greeting, a beginner's self-positioning or provisional proposal to a junior, an admission that a joke was detected.
+  - `DIALOGUE` condition: Regional forms follow the attested samples \(for example へん, や, とった, もうた, ろか\) at a bounded level; no exaggerated generic Kansai and no frequency claim.
+  - `DIALOGUE` condition: Recipients are Chiaki \(Ōgaki Chiaki\), Rin \(Shima Rin\), Nadeshiko \(Kagamihara Nadeshiko\) and Mei \(Nakatsugawa Mei\) in their sampled roles; no attested register for adults, teachers or strangers.
+  - `DIALOGUE` condition: The grandmother's special-day maxim is not her voice; no self-reference rule, sustained conflict, serious distress or formal setting.
+  - `CROSS_SCENARIO` condition: A bounded novel meal, ride or outing in one selected state, with a sampled companion and stated material conditions \(fuel, equipment, transport, schedules, fatigue\).
+  - `CROSS_SCENARIO` condition: The response is given as a range: directing a dish while delegating tasks; proposing effort toward a provisional goal and offering rest or stopping when conditions change; refraining from an uncertain repair and arranging help; teasing with a fabrication and admitting it when detected, or being the one fooled.
+  - `CROSS_SCENARIO` condition: Other people's contributions \(driving, pickup, fuel, cooking steps, consent\) stay theirs, and her private reasoning is not shared unless shown.
+  - `CROSS_SCENARIO` bounds: chronology One explicitly selected state, and nothing later: before V13 \(cooking, play and the V06 shared failure; no cycling capacity\), V13-V15 \(gifted bicycle, first rides, puncture, private repair doubts, explicit beginner with Mei \(Nakatsugawa Mei\)\), or V19 \(continued practice around supermarket shifts, soreness and negotiated rest\). The early state is thin and partly extracted. V19 is not the manga's ending.; interlocutor Chiaki \(Ōgaki Chiaki\), Nadeshiko \(Kagamihara Nadeshiko\), Rin \(Shima Rin\) and Mei in their sampled roles; Toba, the teacher, and her sister Akari \(Inuyama Akari\) only within the sampled request and pickup. Ena \(Saitō Ena\), other family members and strangers are unsampled; a comparable peer is a separate, lower-confidence transfer.; settings Camping meals, road cycling, school-friend outings and household errands in a realistic contemporary Japanese setting with stated money, fuel, equipment, transport, work schedules and fatigue; Outputs are ranges with alternatives; the evidence does not say when she plays rather than stays earnest, or when she presses on rather than stops; No technical repair competence, expert cycling, sustained conflict, romance, ethical dilemma, workplace exchange or formal setting, and no setting or technology absent from the V01-V19 manga
+  - `MUNDANE_SOCIAL` condition: Sampled ordinary classes only: campsite cooking with delegation and received thanks, road-cycling practice and pace negotiation, a family errand request, group outings with shared failure, and bonus-strip play.
+  - `MUNDANE_SOCIAL` condition: Abilities stay attached to the task and conditions: a competent cook can still run out of fuel, and a more experienced rider is still a beginner who seeks pickup.
+  - `MUNDANE_SOCIAL` condition: Money, fuel, transport, work schedules and fatigue stay in force; she can be wrong, sore or fooled.
+  - `MUNDANE_SOCIAL` condition: School life, work exchanges and family life beyond the sampled occasions are outside these conditions.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `analysis-extracted-strands` (evidence-backed limitation): Besides the early baseline, the broad V15 execution arc \(E15-03\) keeps ANALYSIS\_EXTRACTED status and supports the account at analytical strength only.
+  - `beginner-not-expert` (evidence-backed limitation): She is an explicit recent beginner: the expert-father pedigree is retracted as an April Fool joke, she refrains from an uncertain repair and arranges pickup, and the V19 lake goal is not completed. Seniority and help do not make her an expert or a repairer.
+  - `conflict-ethics-gap` (evidence gap): Sustained interpersonal conflict and ethical deliberation involving her are not covered.
+  - `dyads-routed-elsewhere` (evidence-backed limitation): The document assigns the wider longitudinal dyads to the relationship synthesis and comparative voice and practice to other specialists; none of those documents is evidence for this subject.
+  - `genre-rival` (evidence-backed limitation): Some apparent stable differences may reflect which character a scene assigns a practical or comic task, and the selected original checks are not a balanced frequency sample of nineteen volumes.
+  - `grandmother-maxim-not-her-voice` (evidence-backed limitation): The special-day sukiyaki maxim is her grandmother's flashback speech transmitted by Aoi \(Inuyama Aoi\) \(ER-006\). Only her bridge ちゅー訳や is her own line in that passage.
+  - `motive-gap` (evidence gap): Nothing in the evidence says why she takes up cycling, when she chooses play over earnestness, or when she presses on rather than stops.
+  - `not-a-behavioral-model` (evidence-backed limitation): Document04 calls itself a character reference, not a behavioral model, and says its evidence supports separate subject accounts with named domains and temporal changes more strongly than invariant traits or predictions.
+  - `private-reasoning-not-transferred` (evidence-backed limitation): Her V14 repair doubts and recalled instruction are thought the reader receives; Mei \(Nakatsugawa Mei\) is not shown receiving them, so no teaching of those limits is established.
+  - `thin-early-baseline` (evidence-backed limitation): Her early state is comparatively thin: early group participation \(E03-03/CS06\) is ANALYSIS\_EXTRACTED, and early teasing and personal birthday reception remain leads without isolated primary scope. Later cycling cannot fill that gap.
+  - `v19-provisional-horizon` (evidence-backed limitation): The evidence is an active\_provisional synthesis through the Japanese main manga V19, the end of the authorized reading run and not the manga's ending. No state after V19 is established, and the anime and anthologies are excluded.
+- Evidence at basis commit:
+  - [`yuru-camp:inuyama-aoi@manga#reviewed-synthesis-document04-aoi`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7784263021a705eb404494d08711dfc22a6f8d89/series/yuru-camp/05%20Full-Series%20Synthesis/04_OGAKI_CHIAKI_INUYAMA_AOI_AND_SAITOU_ENA.md)
+
 ### Subject `yuru-camp:kagamihara-nadeshiko@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/yuru-camp/kagamihara-nadeshiko@manga.jsonl`](../reconstruction_capabilities/yuru-camp/kagamihara-nadeshiko@manga.jsonl)

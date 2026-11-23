@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 225; `STALE` 3; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 226; `STALE` 3; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -63,7 +63,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 17 |
 | [`tomozaki`](reconstruction_index/tomozaki.md) | 18 | 22 |
 | [`wuthering-waves`](reconstruction_index/wuthering-waves.md) | 2 | 2 |
-| [`yuru-camp`](reconstruction_index/yuru-camp.md) | 2 | 2 |
+| [`yuru-camp`](reconstruction_index/yuru-camp.md) | 3 | 3 |
 
 ## Recorded assessments
 
@@ -331,5 +331,6 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `tomozaki:umayahara-mitsu@light-novel` | [`tomozaki-umayahara-mitsu-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-umayahara-mitsu-ln-v12-model-20261109-01) | `CANDIDATE` | `D` | `f582dbbb2a5c31c60868c7e39898268f54e8a6bb` |
 | `wuthering-waves:augusta@game` | [`wuthering-waves-augusta-game-pre-av-deep-dive-20261119-01`](reconstruction_index/wuthering-waves.md#wuthering-waves-augusta-game-pre-av-deep-dive-20261119-01) | `CANDIDATE` | `C` | `cc0e909015692aa29cc1629031e516a4824ddc74` |
 | `wuthering-waves:iuno@game` | [`wuthering-waves-iuno-game-pre-av-deep-dive-20261119-01`](reconstruction_index/wuthering-waves.md#wuthering-waves-iuno-game-pre-av-deep-dive-20261119-01) | `CANDIDATE` | `C` | `75f290763feaa7bfef41770ed3991e4245358905` |
+| `yuru-camp:inuyama-aoi@manga` | [`yuru-camp-inuyama-aoi-manga-document04-20261123-01`](reconstruction_index/yuru-camp.md#yuru-camp-inuyama-aoi-manga-document04-20261123-01) | `CANDIDATE` | `C` | `7784263021a705eb404494d08711dfc22a6f8d89` |
 | `yuru-camp:kagamihara-nadeshiko@manga` | [`yuru-camp-kagamihara-nadeshiko-manga-document03-20261116-01`](reconstruction_index/yuru-camp.md#yuru-camp-kagamihara-nadeshiko-manga-document03-20261116-01) | `CANDIDATE` | `C` | `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27` |
 | `yuru-camp:shima-rin@manga` | [`yuru-camp-shima-rin-manga-v01-v19-synthesis-20261025-01`](reconstruction_index/yuru-camp.md#yuru-camp-shima-rin-manga-v01-v19-synthesis-20261025-01) | `CANDIDATE` | `D` | `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8` |
