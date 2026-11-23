@@ -1,0 +1,1187 @@
+{
+  "schema": "uma-musume/rttt-source-manifest/v1",
+  "artifact_id": "UM_RTTT_SOURCE_MANIFEST",
+  "artifact_type": "source_manifest",
+  "series": "uma-musume",
+  "installment": "road-to-the-top",
+  "generation": "V1",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_literary_evidence": true,
+  "source_boundary": "pre-analysis/technical; title-card production identity only; no narrative observations",
+  "recorded_date": "2026-11-22",
+  "last_updated": "2026-11-22",
+  "target_edition": "2023-ONA",
+  "narrative_admission": "UNADMITTED",
+  "expected_episode_ids": [
+    "E01",
+    "E02",
+    "E03",
+    "E04"
+  ],
+  "counts": {
+    "located_witnesses": 8,
+    "content_confirmed_episodic_witnesses": 4,
+    "preferred_full_decode_pass": 4,
+    "bounded_decode_pass": 8,
+    "narrative_admitted": 0,
+    "substantive_readings": 0
+  },
+  "private_receipts": [
+    {
+      "name": "PRIVATE_SOURCE_RECEIPT.json",
+      "sha256": "d5ef2b2bd464f78bebc5bef72f284c52b2fa100a4b3d330b92f3fdb460a0f41d"
+    },
+    {
+      "name": "PRIVATE_SOURCE_SUPPLEMENT.json",
+      "sha256": "8a95a529a24817c9ed39101f7efe960c03d9287c982dd7b73204d89d58b9a725"
+    }
+  ],
+  "source_sets": [
+    {
+      "witness": "W01",
+      "supplier_label": "AMZN WEB-DL 1080p AVC E-AC3",
+      "role": "preferred technical candidate; content-confirmed episodic witness",
+      "authentication": "supplier label and container creation tags; exact distributor master and acquisition history unverified"
+    },
+    {
+      "witness": "W02",
+      "supplier_label": "1080p H264-AAC release",
+      "role": "alternate candidate; content match unreviewed",
+      "authentication": "supplier filename only; audio language tag is zho, actual speech unverified"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "UM-RTTT-2023-ONA-E01-W01",
+      "episode": "E01",
+      "edition_target": "2023-ONA",
+      "bytes": 1065946485,
+      "sha256": "270ae37dcb332fe998b2993b0a3aa45badf45da6316a4fd70f562c33837d92d9",
+      "container": "matroska",
+      "container_duration_seconds": 1462.496,
+      "container_creation_time_tag": "2023-04-23T12:53:01.000000Z",
+      "chapter_count": 0,
+      "streams": [
+        {
+          "index": 0,
+          "type": "video",
+          "codec": "h264",
+          "language_tag": null,
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "width": 1920,
+          "height": 1080,
+          "frame_rate": "24000/1001",
+          "pixel_format": "yuv420p"
+        },
+        {
+          "index": 1,
+          "type": "audio",
+          "codec": "eac3",
+          "language_tag": "jpn",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "sample_rate_hz": 48000,
+          "channels": 2,
+          "bit_rate": "224000"
+        },
+        {
+          "index": 2,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "eng",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 22469,
+          "decoded_sha256": "5652f4b941586ab87547b6350d7c261dd05d54b1b466cfd466bfa3ca03d97fbf",
+          "cue_count": 288,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 3,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "chi",
+          "title_tag": "Chinese (Simplified)",
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 21326,
+          "decoded_sha256": "421d142a63a1c952157a5f41538aeda6e0a0969711482ee804894f0b2185addf",
+          "cue_count": 329,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 4,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "chi",
+          "title_tag": "Chinese (Traditional)",
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 23123,
+          "decoded_sha256": "22b440e118c0aa12c876260446899dc57f002ab1e9a717bf8881c694d4dfe386",
+          "cue_count": 335,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 5,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "kor",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 23723,
+          "decoded_sha256": "12da4ad7c47dc98c88bc537df0237a95aba63abf07bf3f739269b0f325b12d7e",
+          "cue_count": 332,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        }
+      ],
+      "checks": [
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 10.0,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 731.248,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 1456.496,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "one_frame_extraction",
+          "status": "PASS",
+          "source_seconds": 10
+        },
+        {
+          "kind": "one_second_pcm_extraction",
+          "status": "PASS",
+          "duration_seconds": 1,
+          "source_seconds": 10
+        },
+        {
+          "kind": "full_video_audio_decode",
+          "status": "PASS"
+        }
+      ],
+      "episode_identity": "CONTENT_CONFIRMED",
+      "exact_master_authentication": "UNVERIFIED",
+      "narrative_admission": "UNADMITTED",
+      "external_subtitle_sidecars_located": false,
+      "japanese_dialogue_reliability": "UNVERIFIED_LISTENING_NOT_PERFORMED",
+      "identity_observation": {
+        "episode_title": "夢のはじまり",
+        "title_frame_seek_seconds": 215,
+        "exact_frame_pts": "NOT_MEASURED",
+        "scope": "production identity, not narrative evidence"
+      }
+    },
+    {
+      "source_id": "UM-RTTT-2023-ONA-E01-W02",
+      "episode": "E01",
+      "edition_target": "2023-ONA",
+      "bytes": 246224263,
+      "sha256": "87ba7673d9efbc709e81f231d103f1fe465bec0ea801be740f1b88ebe1daecbd",
+      "container": "matroska",
+      "container_duration_seconds": 1462.509,
+      "container_creation_time_tag": null,
+      "chapter_count": 0,
+      "streams": [
+        {
+          "index": 0,
+          "type": "video",
+          "codec": "h264",
+          "language_tag": null,
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "width": 1920,
+          "height": 1080,
+          "frame_rate": "24000/1001",
+          "pixel_format": "yuv420p"
+        },
+        {
+          "index": 1,
+          "type": "audio",
+          "codec": "aac",
+          "language_tag": "zho",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "sample_rate_hz": 44100,
+          "channels": 2,
+          "bit_rate": null
+        },
+        {
+          "index": 2,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "zho",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 21326,
+          "decoded_sha256": "ac2fe48d8cdf6987e527cd81e2d2218eeb3a4428533f40b3cc79702a112f7752",
+          "cue_count": 329,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 3,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "zho",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 23123,
+          "decoded_sha256": "082d5257d3e7bff493340dae89e7f5a5e46ee4ea45c3480e16644f7c7495ab56",
+          "cue_count": 335,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 4,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "eng",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 22469,
+          "decoded_sha256": "6aa84522e140d0b80dd33a6ebf1706c656de95fb9e2abf6f92fbf870f6f9e57a",
+          "cue_count": 288,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 5,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "kor",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 23723,
+          "decoded_sha256": "c4ff9d8b67eac8dc5682c3d05e7c2575dcc2256a8623f7297bff47755abc165b",
+          "cue_count": 332,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        }
+      ],
+      "checks": [
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 10.0,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 731.255,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 1456.509,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "one_frame_extraction",
+          "status": "PASS",
+          "source_seconds": 10
+        },
+        {
+          "kind": "one_second_pcm_extraction",
+          "status": "PASS",
+          "duration_seconds": 1,
+          "source_seconds": 10
+        },
+        {
+          "kind": "full_video_audio_decode",
+          "status": "NOT_RUN_ALTERNATE_WITNESS"
+        }
+      ],
+      "episode_identity": "FILENAME_CANDIDATE_ONLY",
+      "exact_master_authentication": "UNVERIFIED",
+      "narrative_admission": "UNADMITTED",
+      "external_subtitle_sidecars_located": false,
+      "japanese_dialogue_reliability": "UNVERIFIED_LISTENING_NOT_PERFORMED"
+    },
+    {
+      "source_id": "UM-RTTT-2023-ONA-E02-W01",
+      "episode": "E02",
+      "edition_target": "2023-ONA",
+      "bytes": 1170939665,
+      "sha256": "dbcad37a2a47ecce7dae4784927e4aaef71d7f00a0735d0a629d294f2ce3117d",
+      "container": "matroska",
+      "container_duration_seconds": 1552.448,
+      "container_creation_time_tag": "2023-04-23T12:48:55.000000Z",
+      "chapter_count": 0,
+      "streams": [
+        {
+          "index": 0,
+          "type": "video",
+          "codec": "h264",
+          "language_tag": null,
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "width": 1920,
+          "height": 1080,
+          "frame_rate": "24000/1001",
+          "pixel_format": "yuv420p"
+        },
+        {
+          "index": 1,
+          "type": "audio",
+          "codec": "eac3",
+          "language_tag": "jpn",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "sample_rate_hz": 48000,
+          "channels": 2,
+          "bit_rate": "224000"
+        },
+        {
+          "index": 2,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "eng",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 20015,
+          "decoded_sha256": "bb9a94422ffd6350a30d268b1533ef63ec53da35831bd2db5b52b5013d228d52",
+          "cue_count": 245,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 3,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "chi",
+          "title_tag": "Chinese (Simplified)",
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 18429,
+          "decoded_sha256": "5eab7961fff42d01f18cba55b8080d8642919acf650ac7a7f4a9801824008561",
+          "cue_count": 278,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 4,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "chi",
+          "title_tag": "Chinese (Traditional)",
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 20624,
+          "decoded_sha256": "9e8bcd8b90fcbef43183ec516daf686f191b3a581ef74f9fd40653de6b001e0d",
+          "cue_count": 293,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 5,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "kor",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 20957,
+          "decoded_sha256": "f07c3e794c3df7e3ab3f0519b4c34ecb45b7994e3ec239464a08ee1148f59bc6",
+          "cue_count": 282,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        }
+      ],
+      "checks": [
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 10.0,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 776.224,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 1546.448,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "one_frame_extraction",
+          "status": "PASS",
+          "source_seconds": 10
+        },
+        {
+          "kind": "one_second_pcm_extraction",
+          "status": "PASS",
+          "duration_seconds": 1,
+          "source_seconds": 10
+        },
+        {
+          "kind": "full_video_audio_decode",
+          "status": "PASS"
+        }
+      ],
+      "episode_identity": "CONTENT_CONFIRMED",
+      "exact_master_authentication": "UNVERIFIED",
+      "narrative_admission": "UNADMITTED",
+      "external_subtitle_sidecars_located": false,
+      "japanese_dialogue_reliability": "UNVERIFIED_LISTENING_NOT_PERFORMED",
+      "identity_observation": {
+        "episode_title": "栄光の舞台",
+        "title_frame_seek_seconds": 182,
+        "exact_frame_pts": "NOT_MEASURED",
+        "scope": "production identity, not narrative evidence"
+      }
+    },
+    {
+      "source_id": "UM-RTTT-2023-ONA-E02-W02",
+      "episode": "E02",
+      "edition_target": "2023-ONA",
+      "bytes": 288213971,
+      "sha256": "e841257595861a1d304239ebeea9ff646a86bbdb645dbbb803d2c07b82eb050d",
+      "container": "matroska",
+      "container_duration_seconds": 1552.486,
+      "container_creation_time_tag": null,
+      "chapter_count": 0,
+      "streams": [
+        {
+          "index": 0,
+          "type": "video",
+          "codec": "h264",
+          "language_tag": null,
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "width": 1920,
+          "height": 1080,
+          "frame_rate": "24000/1001",
+          "pixel_format": "yuv420p"
+        },
+        {
+          "index": 1,
+          "type": "audio",
+          "codec": "aac",
+          "language_tag": "zho",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "sample_rate_hz": 44100,
+          "channels": 2,
+          "bit_rate": null
+        },
+        {
+          "index": 2,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "zho",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 18429,
+          "decoded_sha256": "ab5c9fda463fecfcf2c5a6249fe19b6f142603908bacbd2307fcc364884f69cc",
+          "cue_count": 278,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 3,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "zho",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 20624,
+          "decoded_sha256": "96943e4d4a76e2e0b11aa336ef31579e417d928b9eeacbb5f13fc4dc88329c3b",
+          "cue_count": 293,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 4,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "eng",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 20015,
+          "decoded_sha256": "3c1a33bf9e3f6bae0cf9633e94765ee55530ee488a9e00d46209939692f7d35a",
+          "cue_count": 245,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 5,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "kor",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 20957,
+          "decoded_sha256": "f9aa4bdd7921f00e88691ee6dc640851642256cb74e98066d2a2c1f352ef23dd",
+          "cue_count": 282,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        }
+      ],
+      "checks": [
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 10.0,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 776.243,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 1546.486,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "one_frame_extraction",
+          "status": "PASS",
+          "source_seconds": 10
+        },
+        {
+          "kind": "one_second_pcm_extraction",
+          "status": "PASS",
+          "duration_seconds": 1,
+          "source_seconds": 10
+        },
+        {
+          "kind": "full_video_audio_decode",
+          "status": "NOT_RUN_ALTERNATE_WITNESS"
+        }
+      ],
+      "episode_identity": "FILENAME_CANDIDATE_ONLY",
+      "exact_master_authentication": "UNVERIFIED",
+      "narrative_admission": "UNADMITTED",
+      "external_subtitle_sidecars_located": false,
+      "japanese_dialogue_reliability": "UNVERIFIED_LISTENING_NOT_PERFORMED"
+    },
+    {
+      "source_id": "UM-RTTT-2023-ONA-E03-W01",
+      "episode": "E03",
+      "edition_target": "2023-ONA",
+      "bytes": 962068395,
+      "sha256": "e74b86dbacba9995a7251366464a31994fb26ed6d24937736d7eab915d9abf78",
+      "container": "matroska",
+      "container_duration_seconds": 1462.496,
+      "container_creation_time_tag": "2023-04-30T12:36:13.000000Z",
+      "chapter_count": 0,
+      "streams": [
+        {
+          "index": 0,
+          "type": "video",
+          "codec": "h264",
+          "language_tag": null,
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "width": 1920,
+          "height": 1080,
+          "frame_rate": "24000/1001",
+          "pixel_format": "yuv420p"
+        },
+        {
+          "index": 1,
+          "type": "audio",
+          "codec": "eac3",
+          "language_tag": "jpn",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "sample_rate_hz": 48000,
+          "channels": 2,
+          "bit_rate": "224000"
+        },
+        {
+          "index": 2,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "eng",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 18677,
+          "decoded_sha256": "f1c6256d33caff69495207121e8cd378002db0bd502a614ccb124c8b35f5b438",
+          "cue_count": 245,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 3,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "chi",
+          "title_tag": "Chinese (Simplified)",
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 17197,
+          "decoded_sha256": "329756c33ea5718f0e22a8fee537b92d6b8adfc16f6306bac71e9ee340d23366",
+          "cue_count": 269,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 4,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "chi",
+          "title_tag": "Chinese (Traditional)",
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 20429,
+          "decoded_sha256": "4f41f01783c86379ff8627ca86745771ac9104324ed99b9d17d27c35ceb76030",
+          "cue_count": 302,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 5,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "kor",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 20364,
+          "decoded_sha256": "2829b1ca2fcd67bda967b4915d240d6b02f64fb9992a67c38b3790f251c8198e",
+          "cue_count": 312,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        }
+      ],
+      "checks": [
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 10.0,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 731.248,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 1456.496,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "one_frame_extraction",
+          "status": "PASS",
+          "source_seconds": 10
+        },
+        {
+          "kind": "one_second_pcm_extraction",
+          "status": "PASS",
+          "duration_seconds": 1,
+          "source_seconds": 10
+        },
+        {
+          "kind": "full_video_audio_decode",
+          "status": "PASS"
+        }
+      ],
+      "episode_identity": "CONTENT_CONFIRMED",
+      "exact_master_authentication": "UNVERIFIED",
+      "narrative_admission": "UNADMITTED",
+      "external_subtitle_sidecars_located": false,
+      "japanese_dialogue_reliability": "UNVERIFIED_LISTENING_NOT_PERFORMED",
+      "identity_observation": {
+        "episode_title": "走る理由",
+        "title_frame_seek_seconds": 182,
+        "exact_frame_pts": "NOT_MEASURED",
+        "scope": "production identity, not narrative evidence"
+      }
+    },
+    {
+      "source_id": "UM-RTTT-2023-ONA-E03-W02",
+      "episode": "E03",
+      "edition_target": "2023-ONA",
+      "bytes": 209587483,
+      "sha256": "9ce57eb5bc18f05463bfbfbed9c50d45947f863b6f321755ec23efc671a45a18",
+      "container": "matroska",
+      "container_duration_seconds": 1462.509,
+      "container_creation_time_tag": null,
+      "chapter_count": 0,
+      "streams": [
+        {
+          "index": 0,
+          "type": "video",
+          "codec": "h264",
+          "language_tag": null,
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "width": 1920,
+          "height": 1080,
+          "frame_rate": "24000/1001",
+          "pixel_format": "yuv420p"
+        },
+        {
+          "index": 1,
+          "type": "audio",
+          "codec": "aac",
+          "language_tag": "zho",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "sample_rate_hz": 44100,
+          "channels": 2,
+          "bit_rate": null
+        },
+        {
+          "index": 2,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "zho",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 17197,
+          "decoded_sha256": "1b8b33d4dcbe0c368203bc5e7263d0fe210d05cdfe424608fa473df7c8d91b92",
+          "cue_count": 269,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 3,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "zho",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 20429,
+          "decoded_sha256": "1954ebc3c5ac25ccaca493f17f5c2b5cb270a0f3ac81ce18e0aad037ab316ab9",
+          "cue_count": 302,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 4,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "eng",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 18677,
+          "decoded_sha256": "9e1b9fb36baa41b1f236fe85eaeda87d0ba08dbb490c5366b8b10cb6cb00c581",
+          "cue_count": 245,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 5,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "kor",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 20364,
+          "decoded_sha256": "b3098b4228f84b38f332acc372a413a6c9676736ff2482abe56f4fe838a8deeb",
+          "cue_count": 312,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        }
+      ],
+      "checks": [
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 10.0,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 731.255,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 1456.509,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "one_frame_extraction",
+          "status": "PASS",
+          "source_seconds": 10
+        },
+        {
+          "kind": "one_second_pcm_extraction",
+          "status": "PASS",
+          "duration_seconds": 1,
+          "source_seconds": 10
+        },
+        {
+          "kind": "full_video_audio_decode",
+          "status": "NOT_RUN_ALTERNATE_WITNESS"
+        }
+      ],
+      "episode_identity": "FILENAME_CANDIDATE_ONLY",
+      "exact_master_authentication": "UNVERIFIED",
+      "narrative_admission": "UNADMITTED",
+      "external_subtitle_sidecars_located": false,
+      "japanese_dialogue_reliability": "UNVERIFIED_LISTENING_NOT_PERFORMED"
+    },
+    {
+      "source_id": "UM-RTTT-2023-ONA-E04-W01",
+      "episode": "E04",
+      "edition_target": "2023-ONA",
+      "bytes": 1309161536,
+      "sha256": "db2927197e20feaf621fc5f1a3a31bb883ff88daf92f44c5726dc9cbbda5fcf6",
+      "container": "matroska",
+      "container_duration_seconds": 1638.464,
+      "container_creation_time_tag": "2023-05-07T12:35:42.000000Z",
+      "chapter_count": 0,
+      "streams": [
+        {
+          "index": 0,
+          "type": "video",
+          "codec": "h264",
+          "language_tag": null,
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "width": 1920,
+          "height": 1080,
+          "frame_rate": "24000/1001",
+          "pixel_format": "yuv420p"
+        },
+        {
+          "index": 1,
+          "type": "audio",
+          "codec": "eac3",
+          "language_tag": "jpn",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "sample_rate_hz": 48000,
+          "channels": 2,
+          "bit_rate": "224000"
+        },
+        {
+          "index": 2,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "eng",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 18022,
+          "decoded_sha256": "f112ab03dcc026678e7066084d3616fb90c3d4d4b41e25c73e84a53beaa33861",
+          "cue_count": 212,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 3,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "chi",
+          "title_tag": "Chinese (Simplified)",
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 17286,
+          "decoded_sha256": "fec8149dbb6c45c116ddf241af9f40dc4887f90cebe91642b54254cdd4cd4456",
+          "cue_count": 268,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 4,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "chi",
+          "title_tag": "Chinese (Traditional)",
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 18701,
+          "decoded_sha256": "e6ec3afca78c1034cdbcd332cfb41f55fa47e0e0b3693b843b312d9a565fdea8",
+          "cue_count": 268,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 5,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "kor",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 20935,
+          "decoded_sha256": "9e9d2e7a6bf73ad4c76074024ff686c93f481a49d48e4771735cdd2ad6a12226",
+          "cue_count": 291,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        }
+      ],
+      "checks": [
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 10.0,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 819.232,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 1632.464,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "one_frame_extraction",
+          "status": "PASS",
+          "source_seconds": 10
+        },
+        {
+          "kind": "one_second_pcm_extraction",
+          "status": "PASS",
+          "duration_seconds": 1,
+          "source_seconds": 10
+        },
+        {
+          "kind": "full_video_audio_decode",
+          "status": "PASS"
+        }
+      ],
+      "episode_identity": "CONTENT_CONFIRMED",
+      "exact_master_authentication": "UNVERIFIED",
+      "narrative_admission": "UNADMITTED",
+      "external_subtitle_sidecars_located": false,
+      "japanese_dialogue_reliability": "UNVERIFIED_LISTENING_NOT_PERFORMED",
+      "identity_observation": {
+        "episode_title": "想いはひとつ",
+        "title_frame_seek_seconds": 195,
+        "exact_frame_pts": "NOT_MEASURED",
+        "scope": "production identity, not narrative evidence"
+      }
+    },
+    {
+      "source_id": "UM-RTTT-2023-ONA-E04-W02",
+      "episode": "E04",
+      "edition_target": "2023-ONA",
+      "bytes": 343252749,
+      "sha256": "2861b7687f7a9c941f9ef81c934bf06b909c99ee23befbcc0ce7e21eaa5365ba",
+      "container": "matroska",
+      "container_duration_seconds": 1638.493,
+      "container_creation_time_tag": null,
+      "chapter_count": 0,
+      "streams": [
+        {
+          "index": 0,
+          "type": "video",
+          "codec": "h264",
+          "language_tag": null,
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "width": 1920,
+          "height": 1080,
+          "frame_rate": "24000/1001",
+          "pixel_format": "yuv420p"
+        },
+        {
+          "index": 1,
+          "type": "audio",
+          "codec": "aac",
+          "language_tag": "zho",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "sample_rate_hz": 44100,
+          "channels": 2,
+          "bit_rate": null
+        },
+        {
+          "index": 2,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "zho",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 17286,
+          "decoded_sha256": "11d853881a9e1b494f57017e4d0efa1c1e51d8cf7d0891ffb0291e62a1e0d687",
+          "cue_count": 268,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 3,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "zho",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 18701,
+          "decoded_sha256": "7a1a8da06fd1ac3eadd9309a11dd4d059bf79b1572ac142e742d2dfe19ce9f5f",
+          "cue_count": 268,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 4,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "eng",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 18022,
+          "decoded_sha256": "6ded5db4b12a3ff7fa471c9d820240c65b340e66c781c7581ac61e0b516e047d",
+          "cue_count": 212,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        },
+        {
+          "index": 5,
+          "type": "subtitle",
+          "codec": "subrip",
+          "language_tag": "kor",
+          "title_tag": null,
+          "start_seconds": 0.0,
+          "exit_code": 0,
+          "stderr": "",
+          "decoded_bytes": 20935,
+          "decoded_sha256": "84efcfb64797e639d8d948f09b63e5f38cc7b5353c6de4a4a7e7038e3ee6c46a",
+          "cue_count": 291,
+          "wording_reviewed": false,
+          "full_text_retained": false
+        }
+      ],
+      "checks": [
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 10.0,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 819.246,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "bounded_video_audio_decode",
+          "status": "PASS",
+          "start_seconds": 1632.493,
+          "duration_seconds": 5
+        },
+        {
+          "kind": "one_frame_extraction",
+          "status": "PASS",
+          "source_seconds": 10
+        },
+        {
+          "kind": "one_second_pcm_extraction",
+          "status": "PASS",
+          "duration_seconds": 1,
+          "source_seconds": 10
+        },
+        {
+          "kind": "full_video_audio_decode",
+          "status": "NOT_RUN_ALTERNATE_WITNESS"
+        }
+      ],
+      "episode_identity": "FILENAME_CANDIDATE_ONLY",
+      "exact_master_authentication": "UNVERIFIED",
+      "narrative_admission": "UNADMITTED",
+      "external_subtitle_sidecars_located": false,
+      "japanese_dialogue_reliability": "UNVERIFIED_LISTENING_NOT_PERFORMED"
+    }
+  ],
+  "missing_or_pending": [
+    "No Japanese subtitle track or external Japanese sidecar located in the inspected source sets.",
+    "Reliable Japanese wording must be verified through a capable exact-interval source-language route; complete ASR is optional and not an admission prerequisite.",
+    "Subtitle/audio synchronization and actual AV inspection route not yet verified for an analytical run.",
+    "No theatrical re-edit video located by the bounded filename search; comparison remains deferred.",
+    "Exact distributor/master authentication unknown; not an automatic blocker to analysis of the disclosed episodic witness."
+  ],
+  "technical_capabilities": {
+    "ffmpeg": "8.1.1",
+    "ffprobe": "8.1.1",
+    "av_evidence_toolkit": "1.6.0a3 doctor prerequisites pass",
+    "local_asr": "dedicated pre-existing faster-whisper runtime imports and cached large-v3 model present; no RTTT inference executed",
+    "continuous_av_perception": "UNVERIFIED",
+    "audio_content_inspection": "UNVERIFIED",
+    "full_transcript_required": false,
+    "hosted_uploads_or_paid_calls_performed": false
+  }
+}
