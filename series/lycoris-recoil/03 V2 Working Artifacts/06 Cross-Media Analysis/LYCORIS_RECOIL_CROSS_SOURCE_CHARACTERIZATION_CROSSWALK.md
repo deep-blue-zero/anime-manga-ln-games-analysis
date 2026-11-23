@@ -12,6 +12,17 @@ mutable: true
 
 The [CP5 anime-native baseline](../04%20Character%20Reconstruction/LYCORIS_RECOIL_CP5_ANIME_NATIVE_BASELINE.md) supplies the frozen comparison. This ledger adds source-local behavior and records its strongest warranted effect on the integrated model. A character’s testimony can establish how the character explains an action, and a focalizer’s opinion can explain the structure of a scene. Neither automatically establishes the action’s actual causes. Repeated licensed portrayals can increase a trait’s salience without making it more frequent in the anime.
 
+## Recollect · Abe Kanari’s single-author derivative realization
+
+The [first volume](../02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V01_DEEP_READING.md) and [second volume](../02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V02_DEEP_READING.md) use page turns and repeated games to reveal a changed interpretation. Evidence from two volumes is recurrence under one creator.
+
+| Pattern | B1 evidence and current consequence |
+|---|---|
+| Mistaken work criteria | R1-01 and R2-01. Chisato’s wish for a smile and view of movie credits meet Takina’s questions about training and reciprocal obligations. SPECIFY a source-local mismatch. Takina still asserts DA as a goal in Volume 02. |
+| Participation in play | R1-02/04/05 and R2-04/06. Kurumi volunteers games and virtual samples. Takina questions a wager and later exploits a spoken-rule loophole. EXTEND the derivative characterization envelope to playful agency without counting games as equivalent tests of combat or romantic confidence. |
+| Distinct partner ties | R1-03 and R2-03. Erika wants to apologize and waits to speak directly. Fuki carries warnings across institutional and café contacts. SPECIFY how barriers and indirect actions shape care. Teasing and a flush do not establish romantic commitments. |
+| Misclassification and rules | R2-02/05. A submitted story is embellished, and a camera shaped like a pest provokes a hypothetical ethical exception. SOURCE_SPECIFIC for the devices and their gags. The pages leave no demonstrated extermination, public disclosure or exception for human life. |
+
 ## Gluttony days · creator-proximate prose
 
 The [source-native volume reading](../02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_GLUTTONY_DAYS_DEEP_READING.md) fixes GD-01–05.

@@ -93,7 +93,7 @@ The principal integrator owns canonical rulings and shared-file writes. Separate
   - completed/frozen TV source horizon: E13 / TV 13 of 13 complete
   - frozen short readings through Short 06: [Short 02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md) · [Short 03](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md) · [Short 04](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md) · [Short 05](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md) · [Short 06](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md)
   - current source boundary: SHORT06_SOURCE_NATIVE_FREEZE. CP4_POST_E13 is adjudicated and closed.
-- Next operation: Read Abe Kanari’s *Recollect* V01–02, then the contributor-attributed anthology stories.
+- Next operation: Read the official anthology stories with contributor attribution.
 - Corpus-wide project initiation policy:
   - `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`
   - Drive ID: `1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC`
@@ -147,7 +147,7 @@ V1 remains historically authoritative for what the project previously concluded,
 - Shorts sequential boundary: **SHORT06_SOURCE_NATIVE_FREEZE**.
 - Anime-native reconstruction baseline: **FROZEN AT CP5**
 - Supplementary prose: **3 of 3 volumes complete**.
-- Recollect: **B1 reading follows the three A2 volumes**.
+- Recollect: **both B1 volumes complete**.
 - Anthologies: **C1 contributor-local reading follows the A2 volumes**.
 - V1→V2 claim audit: **162 attributable transitions through Short 06**.
 - Current full-series V2 synthesis gate: **CLOSED**
@@ -274,6 +274,10 @@ Current architecture class:
 
 Anthology evidence will be analyzed contributor-by-contributor and cannot by itself revise a high-confidence anime-native behavioral rule.
 
+
+## Official production reference
+
+The [*Heroine Archive* reference reading](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_HEROINE_ARCHIVE_REFERENCE_READING.md) routes the 150-page Japanese edition by credited speaker and object type. It is `P_PARATEXT` and remains a separate witness to production choices and interpretation.
 
 ## 3.5 Main manga adaptation
 
@@ -455,7 +459,7 @@ Each episode produces:
 Sequence:
 
 
-Release-order high-water mark: SHORT06_SOURCE_NATIVE_FREEZE. Read Abe Kanari’s *Recollect* V01–02, then the contributor-attributed anthology stories.
+Release-order high-water mark: SHORT06_SOURCE_NATIVE_FREEZE. Read the official anthology stories with contributor attribution.
 
 
 The shorts are especially important for settled mundane behavior, humor, play, domestic/café routine, and anime-native counterfactual validation.
@@ -487,7 +491,7 @@ Read source-natively:
 2. [*Recovery days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_RECOVERY_DAYS_DEEP_READING.md) — source-native reading complete.
 3. [*Gluttony days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_GLUTTONY_DAYS_DEEP_READING.md) — source-native reading complete.
 
-The [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) records comparisons against CP5.
+The [supplementary participation record](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) records source and independent review of each phase. The [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) records comparisons against CP5.
 
 
 Each work is interpreted as prose before its character evidence is integrated.
@@ -499,7 +503,7 @@ Each work is interpreted as prose before its character evidence is integrated.
 Read:
 
 
-- `Recollect` V01-V02;
+- [*Recollect* V01](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V01_DEEP_READING.md) and [V02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V02_DEEP_READING.md), complete;
 - official anthologies story-by-story / contributor-by-contributor.
 
 
@@ -702,7 +706,7 @@ project_initialization:
 
 # 13. Current canonical operation
 
-Read Abe Kanari’s *Recollect* V01–02, then the contributor-attributed anthology stories. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The completed short-only comparison supplies the attributable corrections. Open listener referrals and chronology limits travel with the CP5 baseline.
+Read the official anthology stories with contributor attribution. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The completed short-only comparison supplies the attributable corrections. Open listener referrals and chronology limits travel with the CP5 baseline.
 
 # 14. Retrieval route
 
@@ -725,4 +729,4 @@ When resuming:
 
 # 15. Governing current-state statement
 
-The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The supplementary A2 reading horizon covers all three admitted novels. Read Abe Kanari’s *Recollect* V01–02, then the contributor-attributed anthology stories. No supplementary source has entered the A1 account.
+The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The supplementary A2 reading horizon covers all three admitted novels. Read the official anthology stories with contributor attribution. No supplementary source has entered the A1 account.

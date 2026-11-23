@@ -171,7 +171,7 @@ No official `Reload 4` or `Repeat 4` was located in the 2026-08-27 KADOKAWA sear
 
 ## 4.1 Later official reference acquisition
 
-The Japanese fanbook *Lycoris Recoil Heroine Archive: Chisato & Takina* is retained under `04_books/fanbooks/`. The acquisition manifest records Febri編集部, publisher 一迅社, 150 image spine entries, 52,274,427 bytes and SHA-256 `cf4cb1346a9b0a86f8bac6cef4c72aaba9ae1f70fa6c22829933050a9c9c6d83`. The volume is `P_PARATEXT`. Treat credited interviews, editorial copy and production materials as separately attributed reference evidence. The book’s presence does not change CP5 or establish another narrative sequence. Substantive use awaits inspection and attribution.
+The Japanese fanbook *Lycoris Recoil Heroine Archive: Chisato & Takina* is retained under `04_books/fanbooks/`. The acquisition manifest records Febri編集部, publisher 一迅社, 150 image spine entries, 52,274,427 bytes and SHA-256 `cf4cb1346a9b0a86f8bac6cef4c72aaba9ae1f70fa6c22829933050a9c9c6d83`. The volume is `P_PARATEXT`. Treat credited interviews, editorial copy and production materials as separately attributed reference evidence. The book’s presence does not change CP5 or establish another narrative sequence. The [attributed reference reading](../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_HEROINE_ARCHIVE_REFERENCE_READING.md) covers the volume’s six acts and ending matter.
 
 ## 5. Duplicate cleanup
 
