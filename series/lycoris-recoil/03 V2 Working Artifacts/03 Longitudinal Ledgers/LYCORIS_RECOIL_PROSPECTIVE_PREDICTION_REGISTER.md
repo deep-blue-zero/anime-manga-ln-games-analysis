@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_checkpoint: SHORT06_SOURCE_NATIVE_FREEZE
+current_checkpoint: CP5_ANIME_NATIVE_FINAL
 ---
 
 # Lycoris Recoil Prospective Prediction Register
@@ -1055,6 +1055,10 @@ The twelve TV-only wordings above are immutable. This summary was fixed after th
 | 012 | SUPPORTED with limits | Short 04’s hair care and Short 05 C027–29 show familiarity alongside agency and separate housing options. Neither scene establishes blanket permission or an exclusive declaration. |
 
 Seven supported, five partially supported, none assigned blanket confirmation by lack of contradiction. The intermediate Short 01–06 results remain visible. Completion of this prediction test closes CP4’s *target horizon*. CP5’s separate A1 reconstruction and synthesis responsibilities are not discharged by the prediction tally.
+
+## CP5_ANIME_NATIVE_FINAL · 2026-11-23
+
+The [frozen A1 baseline](../04%20Character%20Reconstruction/LYCORIS_RECOIL_CP5_ANIME_NATIVE_BASELINE.md) closes the nineteen-unit source horizon. The two terminal Short 06 boundary questions carry forward as limits and earn no additional prediction successes. The baseline records comparative questions before any textual story resolution was opened. The historical forecasts above retain their original wording.
 
 # 7. What to predict
 
