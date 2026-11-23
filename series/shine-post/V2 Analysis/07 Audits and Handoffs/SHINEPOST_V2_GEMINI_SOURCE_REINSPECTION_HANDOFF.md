@@ -127,4 +127,4 @@ The original dispatch and its 01:11 UTC status remain the historical handoff. Th
 
 ## 2026-11-23 · All 84 ordinary cases evaluated
 
-All 84 distinct cases now have ordinary comparative responses and source evaluations. The original questions, their initial status and the first 23-case milestone remain dated above. The owner supplied a tentative E04 hearing. Two subsequent owner cards covering four case IDs were delivered. Their substantive residuals remain open. [Cumulative findings, case receipts and human review](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md).
+All 84 distinct cases now have ordinary comparative responses and source evaluations. The original questions, their initial status and the first 23-case milestone remain dated above. The owner supplied a tentative E04 hearing. Two subsequent owner cards covered four case IDs. The E12 owner follow-up supports the verse assignments and ensemble hearing while leaving exact overdub layers open. Further E10 listening is optional. [Cumulative findings, case receipts and human review](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md).

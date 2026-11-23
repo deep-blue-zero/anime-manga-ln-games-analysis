@@ -3018,3 +3018,13 @@ Case headings in the episode comparisons identify the observation-level action, 
 | SPV2-ADJ-E12-015 | OPEN | SPV2-OPEN-E12-01 | Keep exact episode performers within the tightened blend and the number of doubles open. Published verse and chorus assignments are documented. |
 | SPV2-ADJ-E12-018 | OPEN | SPV2-OPEN-E12-02 | The heard addresses are ほたる and けい. Spelling of the performed name and the completion of the first false start remain open. |
 | SPV2-ADJ-E12-034 | OPEN | SPV2-OPEN-E12-02 | A woman in the row behind Nanami reassures her. Natalya is the leading candidate. The available listening and pictures leave the individual voice open. |
+
+### E12 owner follow-up · 2026-11-23
+
+| Case | Disposition | Record | Supported scope |
+| --- | --- | --- | --- |
+| SPV2-ADJ-E12-013 | STRENGTHEN | SPV2-OBS-E12-63, SPV2-CLM-E12-63 | The owner-supplied color guide agrees with the published Rio, Kyoka, Rio–Kyoka, Momiji and Yukine phrase assignments. Its matched audio supports the assignment in the episode. The picture can foreground a single face over a shared vocal phrase. |
+| SPV2-ADJ-E12-015 | STRENGTHEN | SPV2-OBS-E12-64 | The owner hears full ensemble at 887.7–889.7 s. The guide highlights all five and its audio matches the episode there. Preserve Haru and Kyoka’s visual duet and the measured tightening in the group blend. |
+| SPV2-ADJ-E12-013, SPV2-ADJ-E12-015 | OPEN | SPV2-OPEN-E12-01 | Exact independent vocal takes, backing layers and doubles remain unassigned. |
+
+[Source comparison and owner receipt](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md#e12-owner-follow-up-and-source-binding).

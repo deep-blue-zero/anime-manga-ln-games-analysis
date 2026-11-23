@@ -63,7 +63,7 @@ cross_model_reconciliation:
   published_distinct_cases: 84
   ordinary_source_responses_evaluated: 84
   outside_first_publication: 61
-  human_adjudication: E04_D04_OWNER_RESPONSE_RECORDED
+  human_adjudication: E04_D04_AND_E12_013_015_OWNER_FOLLOWUP_RECORDED
   further_owner_listening_cards_delivered: 2
   case_ids_in_further_cards: 4
 ---
@@ -113,7 +113,7 @@ V1 remains at its original paths, with its original metadata and bytes. Its non-
 | Antigravity delivery | Registered as SPV2-IN-GEMINI-20261122-01 after the independent freeze. Twelve episodes compared. |
 | V2 source admission / sequential execution | OPEN; accepted E12; no next narrative unit |
 | New Gemini source inspection | At the initial 01:11 UTC handoff, none of the 84 cases had an evaluated episode return. All 84 ordinary comparative returns are now evaluated. The earlier 23-case publication includes the additional E12-026 pilot. Its ordinary return addresses the same ID. |
-| Human adjudication | E04-D04 received a qualified owner response about possible fan participation around 20:26. A later solo-line assignment remains open. The owner also received one E10 and one E12 listening card covering four further case IDs. |
+| Human adjudication | E04-D04 records qualified owner hearing around 20:26, with a later solo assignment open. For E12 the owner supplied a source-aligned color guide for the first verse and heard full ensemble in the feather phrase. The exact E12 overdub layers remain open. The E10 listening card is optional. |
 | Existing V1 analyses | Preserved; available through the V1 map |
 
 The [first adjudication register](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md) links direct hearing to exact source intervals and records the E04 owner response. The [cumulative register](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md) indexes all 84 ordinary evaluations and the later E10–E12 source checks. The dated episode comparisons below cite the frozen independent propositions, the Gemini evidence and the applicable primary-source routes. The case handoff preserves a neutral question for the unresolved perceptual disputes.

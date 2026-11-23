@@ -441,13 +441,23 @@ Comparison SPV2-X-E12-010. Affected evidence SPV2-OBS-E12-49, SPV2-OBS-E12-65.
 
 ### SPV2-ADJ-E12-013 | STRENGTHEN
 
-E12’s first verse shifts among solo-like leads and builds toward layered unison. Rio is the best-supported lead on the opening verse phrase. Kyoka is a strong candidate on 光届かない場所で. Camera foregrounding rotates independently from named vocal assignment.
+The first-verse assignments are Rio, Kyoka, Rio and Kyoka together, Momiji, then Yukine. Haru enters at the pre-chorus. The owner-supplied reference and the published parts support the named sequence in the closely matched episode recording. Camera foregrounding rotates independently from vocal assignment.
 
-Blind listener hears different timbres at several entrances and unmistakable broadening by 君がくれた勇気で. Native pictures place Rio in sustained view on phrase 1, Kyoka at the later entrance, and show shoes, backs and groups within adjacent lyric units. Layered phrases and opening chorus close-ups defeat a single visual-to-vocal rule. Exact handoffs and possible overdubs remain open.
+The blind listener heard different timbres at several entrances and a fuller blend by 君がくれた勇気で, where Yukine is assigned the lead. Native pictures place Rio in sustained view on phrase 1 and foreground Kyoka during the Rio–Kyoka line. Other lyric units cut to shoes, backs and groups. The fuller blend can include backing or doubling, and the mixed sources leave the exact number of layers open.
 
-The published karaoke edition assigns the first verse in order to Rio, Kyoka, Rio and Kyoka together, Momiji, then Yukine. Haru opens the following pre-chorus. This corroborates the first two probable leads in the episode. The commercial line assignments and the number of sound layers audible in the television mix have separate evidentiary bases. [JOYSOUND’s performer-labeled edition of *On Your Mark!!*](https://www.joysound.com/web/search/song/957586).
+The published karaoke edition assigns the first verse in order to Rio, Kyoka, Rio and Kyoka together, Momiji, then Yukine. Haru opens the following pre-chorus. Those are the published phrase assignments used for the aligned comparison. The commercial line assignments and the number of sound layers audible in the television mix have separate evidentiary bases. [JOYSOUND’s performer-labeled edition of *On Your Mark!!*](https://www.joysound.com/web/search/song/957586).
 
-Across the opening hook, the five verse units and the tightened feather phrase, native episode stereo and track 08 of the 2022 character-song album align at a common episode-minus-disc offset of 823.010875 s. The five verse comparisons yield signed Mid correlations of .935–.955 and Side correlations of .856–.928. At the feather phrase the values are .934 and .838. Spoken controls stay at or below .078 in absolute correlation and prefer different offsets. The cadence matches a later disc passage. The source tests support use of the same recorded performance in the measured passages, with a different edit and mix. The physical booklet credits the five together and prints 不揃いな, agreeing with the heard vowel where the selected episode ASS prints 不揃いの. The booklet assigns no individual lines. [Original album catalogue](https://anime.shinepost.jp/music/csc/). One owner listening packet for cases 013 and 015 was delivered. Its open questions concern the actual episode blend.
+Across the opening hook, the five verse units and the tightened feather phrase, native episode stereo and track 08 of the 2022 character-song album align at a common episode-minus-disc offset of 823.010875 s. The five verse comparisons yield signed Mid correlations of .935–.955 and Side correlations of .856–.928. At the feather phrase the values are .934 and .838. Spoken controls stay at or below .078 in absolute correlation and prefer different offsets. The cadence matches a later disc passage. The source tests support use of the same recorded performance in the measured passages, with a different edit and mix. The physical booklet credits the five together and prints 不揃いな, agreeing with the heard vowel where the selected episode ASS prints 不揃いの. The booklet assigns no individual lines. [Original album catalogue](https://anime.shinepost.jp/music/csc/). The later owner follow-up addresses the verse and ensemble questions below.
+
+The owner supplied Yuri Kurogami’s color-coded lyric video. Its highlighted portraits agree with the published assignment on all five verse units, including the shared third line. The guide’s stereo audio tracks the episode at a constant episode-minus-guide offset of 823.21775 s. Across five separate search windows, signed correlations are .984–.988 Mid and .974–.986 Side. A dialogue control gives |r| below .078 and different lags. These measurements connect the assignments to the recording used in E12. The time ranges below map the guide’s highlight changes to the 849.0 s-origin review clip.
+
+| Focused E12 clip, approximate | Assignment |
+| --- | --- |
+| 00:02.3–00:06.7 | Rio |
+| 00:06.7–00:09.8 | Kyoka |
+| 00:09.8–00:13.1 | Rio and Kyoka |
+| 00:13.1–00:17.3 | Momiji |
+| 00:17.3–00:23.0 | Yukine |
 
 Comparison SPV2-X-E12-013. Affected evidence SPV2-OBS-E12-63, SPV2-CLM-E12-63, SPV2-OPEN-E12-01.
 
@@ -458,6 +468,8 @@ Haru and Kyoka share the feather-and-hand duet visually. The surrounding chorus 
 Independent hearing finds a modest change around 887.7–889.7 s, with group breadth restored by the next phrase. Native pictures localize the initial visible contacts and the main clasp around 897.48 s. The strongest nearby onset supports an edit-to-pulse relationship, with exact offset sensitive to grid definition. The medium cannot uniquely assign the brief tightened vocal blend.
 
 The same commercial edition assigns the chorus containing the feather-and-hand sequence to all five, with no internal handoff marked. The episode juxtaposes a visual duet and an audible ensemble. The brief narrowing around 887.7–889.7 s does not isolate two named recorded voices. [JOYSOUND’s performer-labeled edition of *On Your Mark!!*](https://www.joysound.com/web/search/song/957586).
+
+In the owner follow-up, the answer to the focused 00:38.7–00:40.7 excerpt was “Full ensemble” (HL). The guide highlights all five throughout the phrase. Its stereo aligns to E12 887.7–889.7 s at the same offset with r=.984 Mid and .969 Side. The owner’s hearing, the guide, and the published all-five assignment support the full-ensemble reading through the momentary tightening. Keep the exact overdub count open.
 
 Comparison SPV2-X-E12-015. Affected evidence SPV2-OBS-E12-64, SPV2-OPEN-E12-01.
 
