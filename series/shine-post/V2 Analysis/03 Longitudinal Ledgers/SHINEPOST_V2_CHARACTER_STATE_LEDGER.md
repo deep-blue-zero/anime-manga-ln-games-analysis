@@ -7,8 +7,8 @@ series_id: shine-post
 generation: V2
 version: "1.0"
 status: canonical
-authority_scope: "Character identity/state, ordinary-life evidence and monograph qualification; independent episode records"
-source_boundary: "Japanese television anime E01–E12 independently accepted under the owner’s bundle-and-measurement scope."
+authority_scope: "Character identity/state, ordinary-life evidence and monograph qualification; independent and dated post-freeze comparison records"
+source_boundary: "Japanese television anime E01–E12. Independent bundle-and-measurement acceptance followed by direct comparison with the registered Gemini generation."
 canonical_home: series/shine-post/V2 Analysis/03 Longitudinal Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md
 created: 2026-11-19
 supersedes: []
@@ -20,6 +20,8 @@ do_not_use_as_literary_evidence: false
 # SHINE POST V2 — Character State Ledger
 
 ## Responsibility and present state
+
+The independent ledger runs through E12. Dated appendices give the changes supported by the direct E01–E12 comparison, including the cases reserved for fresh source inspection. [Comparison and adjudication audit](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_CROSS_MODEL_RECONCILIATION_AUDIT.md)
 
 This ledger owns cumulative individual state and monograph qualification under the [architecture](../00%20Frameworks/SHINEPOST_V2_SYNTHESIS_ARCHITECTURE.md) and [reconstruction protocol](../00%20Frameworks/SHINEPOST_V2_CHARACTER_RECONSTRUCTION_PROTOCOL.md). The record contract below governs the episode updates following it. Monograph qualification remains subject to its own review.
 
@@ -647,3 +649,131 @@ The remaining people have source-bearing acts below. A row records an observable
 | E12 staff member giving the fifteen-minute call | DEFERRED_EVIDENCE. At 330.45–331.4 a man in a purple anniversary shirt stands in the doorway carrying the call to the group. Another call comes at five minutes, C983. | The source gives no individual history and does not securely establish the same caller at both times. Reopen on other individually attributable work. |
 
 Closely grouped restaurant customers at E04/24–25 discuss favorite HY:RAIN members, then leave for karaoke. Their choices matter to Kyoka, but no source here gives each speaker a persistent identity. Their individually unresolved dispositions are DEFERRED_EVIDENCE; return to the actual counterfactual recognition scene before assigning any of them an encounter with Kyoka. The restaurant red-shirt contact at E10 is similarly unresolved relative to the E05 leaflet recipient. Additional unnamed faces and performance crews receive no invented biography.
+
+## 2026-11-22 · Cross-model reconciliation, E01–E09
+
+This dated addition preserves the accepted episode-history entries. Each locator below identifies an individual comparison finding and its side-specific evidence. The original analytical freeze precedes the comparative reading.
+
+### E01 · Who gets to shine
+
+Frozen episode reading dated 2026-11-20 · 9553db36c459e0297dbabf8a269c90a73e69b0a5.
+
+**Haru and Naoki.** Haru turns small strokes of luck into preparation for work and actively makes her public smile. Naoki recognizes an ambition without an apparent mark and agrees to test his own fitness for management. The workplace chart and recollection support divided feelings, not a diagnosis or a recorded dismissal.
+
+Comparison findings · E01-X008, E01-X018, E01-X019, E01-X025, E01-X031.
+
+Earlier evidence and claims · SPV2-CLM-E01-03, SPV2-CLM-E01-07, SPV2-CLM-E01-10, SPV2-CLM-E01-11, SPV2-CLM-E01-15, SPV2-OBS-E01-03, SPV2-OBS-E01-10, SPV2-OBS-E01-11, SPV2-OBS-E01-17, SPV2-OBS-E01-18, SPV2-OBS-E01-22, SPV2-OPEN-E01-01, SPV2-OPEN-E01-03.
+
+Related pending handoffs · E01-motive.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E01_CROSS_MODEL_RECONCILIATION.md)
+
+### E02 · Who recognizes the group’s work
+
+Frozen episode reading dated 2026-11-20 · 650b5ff95243aab3c42b7ef905f2a8e9c7138913.
+
+**Rio, Homare and Haru.** Rio leaves an unequal sales queue, returns, is chosen by new customers and initiates the embrace. Homare’s matching design and single cyan light establish attendance. Haru already faces front before the featured number, so the later account of her gaze cannot describe an observed onstage conversion.
+
+Comparison findings · E02-X005, E02-X010, E02-X017, E02-X018, E02-X024.
+
+Earlier evidence and claims · SPV2-CLM-E02-02, SPV2-CLM-E02-03, SPV2-CLM-E02-22, SPV2-CLM-E02-24, SPV2-CLM-E02-26, SPV2-CLM-E02-29, SPV2-CLM-E02-31, SPV2-CLM-E02-34, SPV2-CLM-E02-43, SPV2-CLM-E02-51, SPV2-CLM-E02-52, SPV2-CLM-E02-56, SPV2-CLM-E02-57, SPV2-OBS-E02-07, SPV2-OBS-E02-12, SPV2-OBS-E02-22, SPV2-OBS-E02-26, SPV2-OBS-E02-29, SPV2-OBS-E02-31, SPV2-OBS-E02-35, SPV2-OBS-E02-51, SPV2-OBS-E02-53, SPV2-OBS-E02-58, SPV2-OBS-E02-61, SPV2-OBS-E02-63, SPV2-OBS-E02-64, SPV2-OPEN-E02-03.
+
+Related pending handoffs · E02-confidence.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E02_CROSS_MODEL_RECONCILIATION.md)
+
+### E03 · Who gets to choose the center
+
+Frozen episode reading dated 2026-11-20 · 26353152fee13e1e785494b1a6b9a5b897d38b81.
+
+**Kyoka and Tokka.** Add the brief present-time mark over knowing why she was summoned. Preserve the first two current displays, E01 quotation and later unmarked refusal. Tokka values the effort she saw on the street. Her earlier expression leaves its cause open and supplies no consent from Kyoka.
+
+Comparison findings · E03-X006, E03-X012, E03-X013, E03-X014, E03-X018, E03-X023, E03-X024.
+
+Earlier evidence and claims · SPV2-CLM-E03-05, SPV2-CLM-E03-23, SPV2-CLM-E03-35, SPV2-CLM-E03-37, SPV2-CLM-E03-46, SPV2-CLM-E03-54, SPV2-CLM-E03-56, SPV2-OBS-E03-09, SPV2-OBS-E03-10, SPV2-OBS-E03-23, SPV2-OBS-E03-27, SPV2-OBS-E03-35, SPV2-OBS-E03-37, SPV2-OBS-E03-46, SPV2-OBS-E03-48, SPV2-OBS-E03-54, SPV2-OBS-E03-59, SPV2-OBS-E03-60, SPV2-OBS-E03-61, SPV2-OBS-E03-63, SPV2-OBS-E03-64, SPV2-OPEN-E03-02, SPV2-OPEN-E03-03.
+
+Related pending handoffs · E03-belief, E03-fan.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E03_CROSS_MODEL_RECONCILIATION.md)
+
+### E04 · What Kyoka can see from the center
+
+Frozen episode reading dated 2026-11-22 · e1ddbe9a3f14ba05e5a4d7d8b1a8db376efe91f0.
+
+**Kyoka, Yukine and Tokka.** At Budokan Kyoka lifts a bare fist before the exterior image puts the light in her hand. Her stated wish for a larger stage precedes the marked assertion of sufficiency. Yukine’s accurate tip and Tokka’s drop supply neither an unseen tracking mechanism nor a diagnosis.
+
+Comparison findings · E04-CMP-012, E04-CMP-021, E04-CMP-025, E04-CMP-042, E04-CMP-045, E04-CMP-054.
+
+Earlier evidence and claims · SPV2-CLM-E04-03, SPV2-CLM-E04-26, SPV2-CLM-E04-27, SPV2-CLM-E04-35, SPV2-CLM-E04-43, SPV2-CLM-E04-52, SPV2-CLM-E04-56, SPV2-CLM-E04-59, SPV2-OBS-E04-03, SPV2-OBS-E04-07, SPV2-OBS-E04-11, SPV2-OBS-E04-13, SPV2-OBS-E04-26, SPV2-OBS-E04-27, SPV2-OBS-E04-35, SPV2-OBS-E04-55, SPV2-OBS-E04-60, SPV2-OBS-E04-61, SPV2-OBS-E04-68, SPV2-OBS-E04-72, SPV2-OPEN-E04-03, SPV2-OPEN-E04-04.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E04_CROSS_MODEL_RECONCILIATION.md)
+
+### E05 · The person who asks for a flyer
+
+Frozen episode reading dated 2026-11-22 · 80be7f979794b3b0c9ddfed284cf61b7de38679e.
+
+**Rio, Momiji and Nanami.** Rio reads praise, performs farm work, gives an honest unfavorable impression and apologizes. The director cuts the tasting segment. Momiji worries, speaks for her and later watches the handoff. These separate actions support an account of care and self-assessment without establishing Rio’s earlier private motives.
+
+Comparison findings · E05-CMP-001, E05-CMP-013, E05-CMP-014, E05-CMP-017, E05-CMP-020, E05-CMP-022, E05-CMP-035, E05-CMP-041.
+
+Earlier evidence and claims · SPV2-CLM-E05-01, SPV2-CLM-E05-06, SPV2-CLM-E05-07, SPV2-CLM-E05-10, SPV2-CLM-E05-21, SPV2-CLM-E05-24, SPV2-CLM-E05-25, SPV2-CLM-E05-31, SPV2-CLM-E05-35, SPV2-CLM-E05-41, SPV2-CLM-E05-45, SPV2-CLM-E05-47, SPV2-CLM-E05-48, SPV2-CLM-E05-51, SPV2-CLM-E05-54, SPV2-CLM-E05-56, SPV2-CLM-E05-57, SPV2-OBS-E05-01, SPV2-OBS-E05-03, SPV2-OBS-E05-05, SPV2-OBS-E05-21, SPV2-OBS-E05-24, SPV2-OBS-E05-25, SPV2-OBS-E05-26, SPV2-OBS-E05-31, SPV2-OBS-E05-36, SPV2-OBS-E05-41, SPV2-OBS-E05-45, SPV2-OBS-E05-46, SPV2-OBS-E05-51, SPV2-OBS-E05-56, SPV2-OBS-E05-57, SPV2-OBS-E05-60, SPV2-OBS-E05-61, SPV2-OBS-E05-62, SPV2-OBS-E05-63, SPV2-OBS-E05-68, SPV2-OBS-E05-69, SPV2-OPEN-E05-04.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E05_CROSS_MODEL_RECONCILIATION.md)
+
+### E06 · Who reaches out, who gets an answer
+
+Frozen episode reading dated 2026-11-22 · 644f543103bec711791e9d351d67698dd896d30f.
+
+**Rio and Aoi.** Aoi suggests the forgotten textbook solution and a different pupil supplies the copy. At the remembered concert Rio reaches toward the taller girl’s resting hand. Her later choice to sing can matter deeply without demonstrating a permanent end to doubt.
+
+Comparison findings · E06-CMP-007, E06-CMP-009, E06-CMP-013, E06-CMP-016, E06-CMP-018, E06-CMP-019, E06-CMP-046.
+
+Earlier evidence and claims · SPV2-CLM-E06-03, SPV2-CLM-E06-06, SPV2-CLM-E06-07, SPV2-CLM-E06-11, SPV2-CLM-E06-23, SPV2-CLM-E06-26, SPV2-CLM-E06-33, SPV2-CLM-E06-35, SPV2-CLM-E06-44, SPV2-CLM-E06-45, SPV2-CLM-E06-46, SPV2-CLM-E06-55, SPV2-CLM-E06-56, SPV2-CLM-E06-58, SPV2-CLM-E06-60, SPV2-CLM-E06-61, SPV2-CLM-E06-69, SPV2-OBS-E06-03, SPV2-OBS-E06-05, SPV2-OBS-E06-06, SPV2-OBS-E06-07, SPV2-OBS-E06-23, SPV2-OBS-E06-26, SPV2-OBS-E06-35, SPV2-OBS-E06-55, SPV2-OBS-E06-56, SPV2-OBS-E06-59, SPV2-OBS-E06-60, SPV2-OBS-E06-61, SPV2-OPEN-E06-02.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E06_CROSS_MODEL_RECONCILIATION.md)
+
+### E07 · What the recording can prove
+
+Frozen episode reading dated 2026-11-22 · 72cabeef1faba58155faad3adf2483e201e61cfc.
+
+**Yukine, Momiji and Haru.** Yukine thanks Momiji and helps three members in materially different ways while continuing to refuse reunion. A facial smile and marked full-effort statement warrant a question about Haru’s account. They leave the reason and extent undetermined.
+
+Comparison findings · E07-X01, E07-X10, E07-X16, E07-X17, E07-X18, E07-X22, E07-X25, E07-X30.
+
+Earlier evidence and claims · SPV2-CLM-E07-01, SPV2-CLM-E07-05, SPV2-CLM-E07-08, SPV2-CLM-E07-09, SPV2-CLM-E07-12, SPV2-CLM-E07-14, SPV2-CLM-E07-15, SPV2-CLM-E07-18, SPV2-CLM-E07-24, SPV2-CLM-E07-25, SPV2-CLM-E07-26, SPV2-CLM-E07-28, SPV2-CLM-E07-29, SPV2-CLM-E07-34, SPV2-CLM-E07-35, SPV2-CLM-E07-37, SPV2-CLM-E07-38, SPV2-CLM-E07-47, SPV2-CLM-E07-49, SPV2-CLM-E07-51, SPV2-CLM-E07-54, SPV2-CLM-E07-57, SPV2-CLM-E07-58, SPV2-CLM-E07-59, SPV2-CLM-E07-60, SPV2-CLM-E07-64, SPV2-CLM-E07-65, SPV2-CLM-E07-66, SPV2-CLM-E07-69, SPV2-OBS-E07-01, SPV2-OBS-E07-05, SPV2-OBS-E07-08, SPV2-OBS-E07-09, SPV2-OBS-E07-12, SPV2-OBS-E07-14, SPV2-OBS-E07-15, SPV2-OBS-E07-18, SPV2-OBS-E07-24, SPV2-OBS-E07-25, SPV2-OBS-E07-26, SPV2-OBS-E07-28, SPV2-OBS-E07-29, SPV2-OBS-E07-34, SPV2-OBS-E07-35, SPV2-OBS-E07-37, SPV2-OBS-E07-38, SPV2-OBS-E07-47, SPV2-OBS-E07-49, SPV2-OBS-E07-51, SPV2-OBS-E07-54, SPV2-OBS-E07-57, SPV2-OBS-E07-58, SPV2-OBS-E07-59, SPV2-OBS-E07-60, SPV2-OBS-E07-64, SPV2-OBS-E07-65, SPV2-OBS-E07-66, SPV2-OBS-E07-69, SPV2-OPEN-E07-02, SPV2-REV-E07-05.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E07_CROSS_MODEL_RECONCILIATION.md)
+
+### E08 · Who learns what on the rooftop
+
+Frozen episode reading dated 2026-11-22 · 399d81338ae465b89541a9d7dfe860ab7fac9131.
+
+**Yukine, Momiji and Haru.** Yukine learns to look for genuine smiles, accepts leadership and gives teaching work to Momiji. Momiji observes discrepancies before stating a suspicion. The pair see Haru dance on the rooftop, but do not see the reason for her restraint; the gold attaches to a distinct claim about full effort.
+
+Comparison findings · E08-X01, E08-X04, E08-X07, E08-X11, E08-X12, E08-X17, E08-X26.
+
+Earlier evidence and claims · SPV2-CLM-E08-01, SPV2-CLM-E08-03, SPV2-CLM-E08-04, SPV2-CLM-E08-06, SPV2-CLM-E08-10, SPV2-CLM-E08-11, SPV2-CLM-E08-16, SPV2-CLM-E08-18, SPV2-CLM-E08-21, SPV2-CLM-E08-22, SPV2-CLM-E08-24, SPV2-CLM-E08-26, SPV2-CLM-E08-28, SPV2-CLM-E08-31, SPV2-CLM-E08-33, SPV2-CLM-E08-35, SPV2-CLM-E08-38, SPV2-CLM-E08-41, SPV2-CLM-E08-43, SPV2-CLM-E08-44, SPV2-CLM-E08-48, SPV2-CLM-E08-51, SPV2-CLM-E08-53, SPV2-CLM-E08-54, SPV2-CLM-E08-56, SPV2-CLM-E08-61, SPV2-CLM-E08-62, SPV2-CLM-E08-63, SPV2-CLM-E08-67, SPV2-CLM-E08-70, SPV2-CLM-E08-72, SPV2-OBS-E08-01, SPV2-OBS-E08-03, SPV2-OBS-E08-04, SPV2-OBS-E08-06, SPV2-OBS-E08-10, SPV2-OBS-E08-11, SPV2-OBS-E08-16, SPV2-OBS-E08-18, SPV2-OBS-E08-21, SPV2-OBS-E08-22, SPV2-OBS-E08-24, SPV2-OBS-E08-26, SPV2-OBS-E08-28, SPV2-OBS-E08-31, SPV2-OBS-E08-33, SPV2-OBS-E08-35, SPV2-OBS-E08-38, SPV2-OBS-E08-41, SPV2-OBS-E08-43, SPV2-OBS-E08-44, SPV2-OBS-E08-48, SPV2-OBS-E08-51, SPV2-OBS-E08-53, SPV2-OBS-E08-54, SPV2-OBS-E08-56, SPV2-OBS-E08-61, SPV2-OBS-E08-62, SPV2-OBS-E08-63, SPV2-OBS-E08-67, SPV2-OBS-E08-70, SPV2-OBS-E08-72, SPV2-OPEN-E08-02, SPV2-OPEN-E08-05, SPV2-REV-E08-02, SPV2-REV-E08-03, SPV2-REV-E08-04.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E08_CROSS_MODEL_RECONCILIATION.md)
+
+### E09 · The people behind the comparison
+
+Frozen episode reading dated 2026-11-22 · 9cc344cb74ade1edcc111661b8453628c8f6089c.
+
+**Haru, Ren and Yuki.** The broadcast shows a fifth figure behind lettering but does not name her. Ren’s phone confirms an earlier admission; the center trial is another event. Haru hears Ren’s pain and generalizes it to later groups. Her recollection of Hotaru belongs to her, not to the scout who speaks beside her.
+
+Comparison findings · E09-X02, E09-X03, E09-X04, E09-X05, E09-X06, E09-X07, E09-X09, E09-X10, E09-X25.
+
+Earlier evidence and claims · SPV2-CLM-E09-01, SPV2-CLM-E09-02, SPV2-CLM-E09-03, SPV2-CLM-E09-04, SPV2-CLM-E09-05, SPV2-CLM-E09-06, SPV2-CLM-E09-19, SPV2-CLM-E09-21, SPV2-CLM-E09-22, SPV2-CLM-E09-23, SPV2-CLM-E09-28, SPV2-CLM-E09-29, SPV2-CLM-E09-31, SPV2-CLM-E09-32, SPV2-CLM-E09-33, SPV2-CLM-E09-34, SPV2-CLM-E09-39, SPV2-CLM-E09-41, SPV2-CLM-E09-42, SPV2-CLM-E09-43, SPV2-CLM-E09-51, SPV2-CLM-E09-52, SPV2-CLM-E09-54, SPV2-CLM-E09-55, SPV2-CLM-E09-56, SPV2-CLM-E09-57, SPV2-CLM-E09-69, SPV2-OBS-E09-01, SPV2-OBS-E09-02, SPV2-OBS-E09-03, SPV2-OBS-E09-04, SPV2-OBS-E09-05, SPV2-OBS-E09-06, SPV2-OBS-E09-19, SPV2-OBS-E09-21, SPV2-OBS-E09-22, SPV2-OBS-E09-23, SPV2-OBS-E09-28, SPV2-OBS-E09-29, SPV2-OBS-E09-31, SPV2-OBS-E09-32, SPV2-OBS-E09-33, SPV2-OBS-E09-34, SPV2-OBS-E09-39, SPV2-OBS-E09-41, SPV2-OBS-E09-42, SPV2-OBS-E09-43, SPV2-OBS-E09-51, SPV2-OBS-E09-52, SPV2-OBS-E09-54, SPV2-OBS-E09-55, SPV2-OBS-E09-56, SPV2-OBS-E09-57, SPV2-OBS-E09-69, SPV2-OPEN-E09-01, SPV2-OPEN-E09-05, SPV2-REV-E09-01, SPV2-REV-E09-02.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E09_CROSS_MODEL_RECONCILIATION.md)
+
+## 2026-11-23 · Cross-model reconciliation, E10–E12
+
+### E10–E12 character consequences
+
+**E10.** Keep Kei's new song pending. Her response to Naoki is compatible with a deadline barely met or narrowly approaching. An explicit invitation to Nakano changes their relationship before it establishes attendance. Haru’s protest over the wager survives its interruption. Ren and Kyoka speak for a future in which Haru has an independent interest. Neither guilt nor lack of agency uniquely accounts for Haru’s hesitation. Kyoka receives Yukine’s praise with Ren’s judgment still in mind. SPV2-CLM-E10-23, -28 and -17. [E10 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E10_CROSS_MODEL_RECONCILIATION.md)
+
+**E11.** The old changing-room scenes let Haru and Ren see the distress from different sides. Each describes her own interpretation. Neither supplies the knowledge the other acquired through the slit. The audience image at E11 598.8 s repeats the E01 composition. Compared with the named trainees at 718.5 and 720.5 s, the unusual white rabbit clip, pink braid, red ties and eye support young Itoha to Momiji’s right. The cropped blond figure at left has traits consistent with Aoba and remains probable. The cameo does not establish whether these girls knew Momiji. Kyoka’s effective rescue of the two friends in town and her fear of offering nothing onstage belong in the same character record. SPV2-CLM-E11-25, -57, -68 and -69. [E11 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E11_CROSS_MODEL_RECONCILIATION.md)
+
+**E12.** Kyoka’s declaration that she intends to exceed instructions makes her an active participant in the plan. Specific choreographic decisions remain unassigned. She gives the formal thanks, five bow, and Rio subsequently addresses the house. This is strong evidence of shared public responsibility over the evening. Hotaru’s identity as Kei is secure through multiple interactions. Naoki’s exact name pronunciation and wording about Kyoka are narrower acoustic questions. Ren recognizes Haru as TINGS’ Haru. The text leaves her colleagues’ private verdicts and authorship of the new joint-bill proposal open. SPV2-CLM-E12-14, -17, -19, -26 and -31. [E12 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E12_CROSS_MODEL_RECONCILIATION.md)
