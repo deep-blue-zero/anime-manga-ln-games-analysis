@@ -93,7 +93,7 @@ The principal integrator owns canonical rulings and shared-file writes. Separate
   - completed/frozen TV source horizon: E13 / TV 13 of 13 complete
   - frozen short readings through Short 06: [Short 02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md) · [Short 03](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md) · [Short 04](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md) · [Short 05](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md) · [Short 06](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md)
   - current source boundary: SHORT06_SOURCE_NATIVE_FREEZE. CP4_POST_E13 is adjudicated and closed.
-- Next operation: Resume the principal’s whole-volume inspection at *Ordinary days*. The 12 narrative readings and their dependent comparisons are provisional.
+- Next operation: Continue the designated principal’s whole-volume inspection at *Recovery days*. The individual source-native acceptance and outstanding volumes are listed under Phases E and F.
 - Corpus-wide project initiation policy:
   - `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`
   - Drive ID: `1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC`
@@ -146,9 +146,9 @@ V1 remains historically authoritative for what the project previously concluded,
 - Current admitted A1 horizon: TV E01–E13 and Shorts 01–06.
 - Shorts sequential boundary: **SHORT06_SOURCE_NATIVE_FREEZE**.
 - Anime-native reconstruction baseline: **FROZEN AT CP5**
-- Supplementary prose: **3 A2 readings provisional**.
-- Recollect: **2 B1 readings provisional**.
-- Anthologies: **7 C1 readings provisional**, covering 89 credited comic entries.
+- Supplementary prose: **Ordinary days accepted. Two A2 readings provisional**.
+- Recollect: **Both B1 source-native readings accepted**.
+- Anthologies: **React accepted. Six C1 readings provisional**, among 89 credited comic entries in the full anthology set.
 - V1→V2 claim audit: **162 attributable transitions through Short 06**.
 - Current full-series V2 synthesis gate: **CLOSED**
 - Sequential-analysis lock: **OPEN**
@@ -487,7 +487,7 @@ No supplementary work may retroactively alter what the frozen anime-only model i
 Read source-natively:
 
 
-1. [*Ordinary days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_ORDINARY_DAYS_DEEP_READING.md) — provisional.
+1. [*Ordinary days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_ORDINARY_DAYS_DEEP_READING.md) — source-native reading accepted.
 2. [*Recovery days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_RECOVERY_DAYS_DEEP_READING.md) — provisional.
 3. [*Gluttony days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_GLUTTONY_DAYS_DEEP_READING.md) — provisional.
 
@@ -503,8 +503,8 @@ Each work is interpreted as prose before its character evidence is integrated.
 Read:
 
 
-- [*Recollect* V01](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V01_DEEP_READING.md) and [V02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V02_DEEP_READING.md), both provisional.
-- Provisional contributor readings for [*Reload*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD_CONTRIBUTOR_READINGS.md), [*Reload 02*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD02_CONTRIBUTOR_READINGS.md), [*Reload 03*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD03_CONTRIBUTOR_READINGS.md) and [*Repeat*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT_CONTRIBUTOR_READINGS.md). Further provisional readings cover [*Repeat 02*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT02_CONTRIBUTOR_READINGS.md), [*Repeat 03*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT03_CONTRIBUTOR_READINGS.md) and [*React*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REACT_CONTRIBUTOR_READINGS.md).
+- [*Recollect* V01](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V01_DEEP_READING.md) and [V02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V02_DEEP_READING.md), both source-native readings accepted.
+- Provisional contributor readings for [*Reload*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD_CONTRIBUTOR_READINGS.md), [*Reload 02*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD02_CONTRIBUTOR_READINGS.md), [*Reload 03*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD03_CONTRIBUTOR_READINGS.md) and [*Repeat*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT_CONTRIBUTOR_READINGS.md). Further provisional readings cover [*Repeat 02*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT02_CONTRIBUTOR_READINGS.md), [*Repeat 03*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT03_CONTRIBUTOR_READINGS.md). [*React*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REACT_CONTRIBUTOR_READINGS.md) has an accepted source-native reading.
 
 
 ## Phase G — Cross-source synthesis and reconstruction
@@ -698,8 +698,8 @@ project_initialization:
   receiver_perceptual_audio_audition: unverified
   attributed_retrospective_av_reviews: admitted_with_provenance
   supplementary_source_access: open_after_cp5
-  supplementary_narrative_volumes_provisional: 12
-  supplementary_narrative_volumes_accepted: 0
+  supplementary_narrative_volumes_provisional: 8
+  supplementary_narrative_volumes_accepted: 4
   supplementary_integration_lock: pending_principal_whole_unit_inspection
 ```
 
@@ -709,7 +709,9 @@ project_initialization:
 
 # 13. Current canonical operation
 
-The principal’s next source is the retained Japanese edition of *Ordinary days*, including its unlisted Bonus Track. Record actual coverage by spine or page range and reconcile any changed findings with the independent readings before accepting the volume. Review dependent crosswalk rows when their cited volumes are accepted. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The completed short-only comparison supplies the attributable corrections. Open listener referrals and chronology limits travel with the CP5 baseline.
+The [V2 completion register](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_COMPLETION_REGISTER.md) records the starting authority, per-volume responsibilities and evidence required for final release.
+
+The prose principal’s next source is the retained Japanese edition of *Recovery days*, including both endings. Record actual coverage by spine or page range and reconcile any changed findings with the independent readings before accepting the volume. Review dependent crosswalk rows when their cited volumes are accepted. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The completed short-only comparison supplies the attributable corrections. Open listener referrals and chronology limits travel with the CP5 baseline.
 
 # 14. Retrieval route
 
@@ -732,4 +734,4 @@ When resuming:
 
 # 15. Governing current-state statement
 
-The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The supplementary reading horizon covers all three admitted novels, both Recollect volumes and seven anthologies. The Heroine Archive has a separately attributed production-reference record. The 12 narrative readings are provisional pending full principal inspection. Their cross-source comparisons are proposals. CP5 remains the accepted frontier. No supplementary source has entered the A1 account.
+The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The supplementary reading horizon covers all three admitted novels, both Recollect volumes and seven anthologies. The Heroine Archive has a separately attributed production-reference record. Four supplementary readings have passed source-native acceptance. Eight await their own acceptance transactions. The cross-source comparisons are proposals pending the full integration pass against CP5. No supplementary source has entered the A1 account.

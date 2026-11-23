@@ -28,7 +28,7 @@ The [dated return for Q01–Q20](TV%20Audiovisual%20Reconciliation/VERIFIER_RETU
 
 ## Supplementary text and page routes
 
-The [cross-source crosswalk](../06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) links to the 12 provisional readings and their proposed A2, B1 and C1 comparisons. In a Japanese prose EPUB cite OPF spine and nonempty paragraph after removal of ruby annotation. In image-only EPUBs, locate the contributor and 1-based OPF page range first, then distinguish title plate, enacted panels and the signed creator note. Printed folios and spine ordinals can differ. The [supplementary participation record](LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) distinguishes principal inspection from independent coverage. The [Heroine Archive reference reading](LYCORIS_RECOIL_HEROINE_ARCHIVE_REFERENCE_READING.md) supplies credited speaker and printed-page locators under P_PARATEXT.
+The [cross-source crosswalk](../06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) links to the 12 narrative readings and their proposed A2, B1 and C1 comparisons. The table in section 6 records individual source acceptance. In a Japanese prose EPUB cite OPF spine and nonempty paragraph after removal of ruby annotation. In image-only EPUBs, locate the contributor and 1-based OPF page range first, then distinguish title plate, enacted panels and the signed creator note. Printed folios and spine ordinals can differ. The [supplementary participation record](LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) distinguishes principal inspection from independent coverage. The [Heroine Archive reference reading](LYCORIS_RECOIL_HEROINE_ARCHIVE_REFERENCE_READING.md) supplies credited speaker and printed-page locators under P_PARATEXT.
 
 ## 1. Responsibility
 
@@ -165,18 +165,18 @@ A supplied clip should be registered here with Drive ID/hash if it becomes part 
 
 | Source | Class | Drive ID | Current integration access |
 |---|---|---|---|
-| `Ordinary days` | A2 | `1RlbZEqj3xaeGMu-Po26GwltJ45jYHnEu` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Ordinary days` | A2 | `1RlbZEqj3xaeGMu-Po26GwltJ45jYHnEu` | `SOURCE_NATIVE_ACCEPTED` |
 | `Recovery days` | A2 | `1deAImiwPdORptTtsxdqliFlHPM4wAbav` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
 | `Gluttony days` | A2 | `1dVgGlPdZBlBEILdoqyPdHeAkdH7xfKdR` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Recollect V01` | B1 | `1a5RZc2N4Lq9mjweXjbl1lhOBSJJ2iQ1J` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Recollect V02` | B1 | `1EtC-4C9e19aq_y4gCOTURxz7COj0s2kc` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Recollect V01` | B1 | `1a5RZc2N4Lq9mjweXjbl1lhOBSJJ2iQ1J` | `SOURCE_NATIVE_ACCEPTED` |
+| `Recollect V02` | B1 | `1EtC-4C9e19aq_y4gCOTURxz7COj0s2kc` | `SOURCE_NATIVE_ACCEPTED` |
 | `Reload` | C1 | `1iz1TLjqBuNLGleyeYgLdSDxzdfa07shi` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
 | `Reload 02` | C1 | `1RXo71dZANCFqQeDRVh2clJy7kQL8-Ei8` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
 | `Reload 03` | C1 | `1CmKsnv7fgpuJOrHJUTDLJh4qUKbvRC1N` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
 | `Repeat` | C1 | `1c5fzbhWdtt87yoXnEM88nKl56WVm7Mnv` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
 | `Repeat 02` | C1 | `1VrPMT-ysH6Hoe4ODXhw6b263WFkbI1j7` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
 | `Repeat 03` | C1 | `1uozt-it-6OqgX8ZnHSLCCRuI3eRZZwDg` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `React` | C1 | `1ynVbUqVGgs_NtGdWzFduy7U6vsWQQG2f` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `React` | C1 | `1ynVbUqVGgs_NtGdWzFduy7U6vsWQQG2f` | `SOURCE_NATIVE_ACCEPTED` |
 
 Exact SHA-256 and EPUB metadata remain canonical in `LYCORIS_RECOIL_V2_SOURCE_INVENTORY.md` and `04_books/audit_manifest.json`.
 
