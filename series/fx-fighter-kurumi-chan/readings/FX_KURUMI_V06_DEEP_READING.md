@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan V06 — Sure Win: two cuts, Mebuki's zero, Kozue'
 artifact_id: FX_KURUMI_V06_DEEP_READING
 artifact_type: deep_reading
 series: fx-fighter-kurumi-chan
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Complete sequential reading of the V06 Japanese main narrative and classified apparatus"
 source_boundary: "FXK-JP-V06-W01 main narrative; V06 unit-end spoilers; no later volume"
 created: 2026-11-22
-last_updated: 2026-11-22
+last_updated: 2026-11-23
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -83,6 +83,16 @@ of substance are these.
   (see C-18). Agent D's secure attribution of "忘却の彼方で吊るされてる記憶だね" to Mochiko stays qualified (INF MOD). Agent B's inference
   that Mochiko's +7,691,000 shows the loan never left her domestic account is left OPEN (not re-examined). Mochiko's last two lines
   (i0154) stay thought (re-opened: fuzzy bursts, then tail-less ovals with no listener reaction; inner voice MOD-HIGH).
+
+## Revision note (2026-11-23)
+
+Version 1.1 is made by the run coordinator for the retrospective synthesis FXK-SYN-20261123-V01-V10. The V01 reading
+had transcribed the 2008 door sign as 「ぱぱとままのへや♡」; enlarged at the synthesis's gate G4, V01 i0010 reads
+「ぱぱ・ままのへや♡」, as V06 does (V01 reading 1.3; [semantic validation audit](../audits/FX_KURUMI_V01_V10_SEMANTIC_VALIDATION.md),
+section 9, item 10). The account of the 1998–2008 flashback (Movement V) no longer reports the earlier
+transcription, and §M.5 notes that V06-U12 is resolved by [erratum FXK-ERR-V06-02](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-v06-02). The identification
+of the sign as the same door stands. No observation, claim, score or thesis changes. The frozen
+[V06 checkpoint](../checkpoints/FX_KURUMI_V06_CHECKPOINT.md) is unchanged.
 
 ---
 
@@ -622,7 +632,7 @@ i0071, i0082); the husband in her fantasy calls her 「梢(こずえ)」 (i0065)
 「福賀 梢 様 大都銀行 総合口座通帳」 (i0075). INF HIGH: 郁夫 is Kurumi's father (the bespectacled husband of the fantasy and the family
 dream, i0065, i0069, i0075; Kozue's "郁夫さん、くるみちゃん"). These are the first names given to Kurumi's parents in the corpus
 (V06-EN-16). Household: an apartment with a child-drawn sign 「ぱぱ・ままのへや♡」 (i0061, i0081, i0085; read at reading size — the
-V01 reading records 「ぱぱとままのへや♡」 for the 2008 door; same sign INF HIGH, the middle character not re-checked) and 「くるみへや」
+same sign as the 2008 door in V01, INF HIGH; the V01 sign, enlarged in the retrospective synthesis, reads the same, V01 i0010) and 「くるみへや」
 (i0085); a 1998 「Windowda 95」 PC the child must not touch (i0058).
 
 **E022 — Motives and the first trade (i0060–i0066).** Situation: the 2005 boom (TV "主婦がFXで3000万", i0059; poster "寝てるだけで、
@@ -1659,7 +1669,7 @@ Mebuki's liquidation box (i0039); V06-U06 the senior worker's aborted "あんた
 "忘却の彼方で吊るされてる記憶だね" / "吊るした木と一緒に持ってきて!" (i0143); V06-U09 whether Kozue's parents or 郁夫 learned of the
 losses before her death; V06-U10 Mochiko's withdrawals for the contest (i0144); V06-U11 the hidden text after 「ごほうび!: 負」 on
 Kurumi's sheet (i0143; the mark before the new rule, read in the draft as a numeral, is RESOLVED at reconciliation as a double-circle
-bullet ◎); V06-U12 the door-sign middle character (「ぱぱ・まま」 vs V01's 「ぱぱとまま」, i0061, i0081); V06-U13 how Kurumi learned that
+bullet ◎); V06-U12 the door-sign middle character (「ぱぱ・まま」 vs V01's 「ぱぱとまま」, i0061, i0081; resolved later, FXK-ERR-V06-02: the V01 sign also reads 「ぱぱ・まま」); V06-U13 how Kurumi learned that
 Mebuki has a job (i0140; an unshown information transfer after i0100, added at reconciliation); V06-U14 the speaker of "うわー "4桁万円"
 も儲かったんだー" / "FXって "簡単" なんだねー" (i0147; Yasuko MOD, Mochiko LOW-MOD; added at reconciliation); V06-U15 whether
 Mochiko's +7,691,000 shows that the 2,000,000 loan never left her domestic account (Agent B; not re-examined; added at

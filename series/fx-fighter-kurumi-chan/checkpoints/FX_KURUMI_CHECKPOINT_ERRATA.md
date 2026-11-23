@@ -3,10 +3,10 @@ title: "FX Fighter Kurumi-chan — Checkpoint errata"
 artifact_id: FX_KURUMI_CHECKPOINT_ERRATA
 artifact_type: checkpoint_errata
 series: fx-fighter-kurumi-chan
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
-authority_scope: "Attributable errata and dispositions governing the frozen V01–V04 checkpoints: each role's exposure to covers, flaps and jackets, the class of V01 i0165, and the forecast credit and scoring that depend on them; later corrections to this carrier's own summary, to the frozen V07 checkpoint's class label for the V07 afterword, and to a basis remark in the frozen V06 entering state"
+authority_scope: "Attributable errata and dispositions governing the frozen V01–V04 checkpoints: each role's exposure to covers, flaps and jackets, the class of V01 i0165, and the forecast credit and scoring that depend on them; later corrections to this carrier's own summary, to the frozen V07 checkpoint's class label for the V07 afterword, to a basis remark in the frozen V06 entering state, to a locator in the frozen V05 checkpoint, and to an open item of the frozen V06 checkpoint"
 source_boundary: "FXK-JP-V01-W01 to FXK-JP-V07-W01 main narratives and classified apparatus (V01–V07); V07 unit-end knowledge; no later volume"
 created: 2026-11-22
 last_updated: 2026-11-23
@@ -228,6 +228,9 @@ Scope: this whole carrier. People are named where the page names them: Kurumi, M
 | --- | --- | --- | --- |
 | [FXK-ERR-SUM-01](#fxk-err-sum-01) | This carrier, [§1](#summary) "Specialists" bullet | `REVISE` | Agent B's V04 FREEZE_00 preceded every V04 image |
 | [FXK-ERR-V07-01](#fxk-err-v07-01) | V07 checkpoint §7 "Freeze timing (Agent B)" | `REVISE` | The V07 afterword is an authorial extra, not apparatus |
+| [FXK-ERR-V06-01](#fxk-err-v06-01) | V06 entering state, "Date and frame" | `REVISE` | The V05 bonus strip is not a basis for reading charts |
+| [FXK-ERR-V05-01](#fxk-err-v05-01) | V05 checkpoint, open-item row V04-U02 | `REVISE` | The domestic cap is printed at V01 i0075 |
+| [FXK-ERR-V06-02](#fxk-err-v06-02) | V06 checkpoint, open-item row V06-U12 | `REVISE` | The V01 and V06 door signs read alike |
 
 <a id="fxk-err-sum-01"></a>
 **FXK-ERR-SUM-01 — §1 "Specialists" bullet (`REVISE`).** The bullet says that each specialist opened the front cover (i0001) and the flap (i0002) "before any freeze or finding of its own". That holds for both specialists in V01–V03 and for Agent D in V04, which froze no prospects. It does not hold for Agent B in V04. As the V04 table of [FXK-ERR-V04-01](#fxk-err-v04-01) and the first item of [FXK-ERR-V04-02](#fxk-err-v04-02) record, Agent B wrote FREEZE_00 (saved 20:30, stated 20:29:58) before opening any V04 image. Its 18 items (B4-F01 to B4-F16, with F07b and F11b; ledger FXK-V04-F091–F108) are free of the cover and flap. Only FREEZE_01–04, with 55 items (B4-G01 to B4-K14; ledger FXK-V04-F109–F163), were written after Agent B opened i0001–i0002. Read §1's bullet with this exception. The frozen records, the item dispositions of FXK-ERR-V04-02 (`PRESERVE` for every item) and every score are unchanged; FREEZE_00 needs no rescore.
@@ -239,3 +242,11 @@ Scope: this whole carrier. People are named where the page names them: Kurumi, M
 
 <a id="fxk-err-v06-01"></a>
 **FXK-ERR-V06-01 — V06 entering state, "Date and frame" (`REVISE`).** Frozen record: [V06 entering state](FX_KURUMI_V06_ENTERING_STATE.md). Written on 2026-11-23 by the run coordinator for the retrospective synthesis FXK-SYN-20261123-V01-V10, whose state reconciliation found the defect. The bullet says that V05's last chart "is schematic (the V05 bonus strip says short-term charts are altered for drama)". The bonus strip (V05 i0165) is an authorial extra admitted for classification only, and its use as a basis for method is withdrawn (ledger FXK-SYN-C003; V05 reading 1.1). Read the parenthesis as "drawn charts are not price records, on the pages' own evidence". The chart's schematic reading stands. The remark reached the V06 principal through the accepted V05 reading, which was admitted prior knowledge, and it carries no later-volume information, so no V06 entering forecast's outcome or credit changes.
+
+<a id="fxk-err-v05-01"></a>
+**FXK-ERR-V05-01 — V05 checkpoint, open-item row V04-U02 (`REVISE`).** Frozen record: [V05 checkpoint](FX_KURUMI_V05_CHECKPOINT.md). Written on 2026-11-23 by the run coordinator for the retrospective synthesis FXK-SYN-20261123-V01-V10, whose convergence review found the locator error (challenge K-22; [reconciliation audit](../audits/FX_KURUMI_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md) 1.1). The row places the depicted domestic cap "証拠金25倍まで" at "V01 i0074". The narrator's box that states it is on V01 i0075, re-opened at the synthesis's G4 close-out. Read the locator as V01 i0075. The row's finding, its status and every forecast outcome are unchanged.
+
+<a id="fxk-err-v06-02"></a>
+**FXK-ERR-V06-02 — V06 checkpoint, open-item row V06-U12 (`REVISE`).** Frozen record: [V06 checkpoint](FX_KURUMI_V06_CHECKPOINT.md). Written on 2026-11-23 by the run coordinator for the same synthesis. The row keeps open "the door-sign middle character (「ぱぱ・まま」 vs V01's 「ぱぱとまま」, i0061, i0081)". The V01 side of that difference was a transcription in the V01 reading: enlarged at the synthesis's gate G4, V01 i0010 reads 「ぱぱ・ままのへや♡」, with the same middle dot as the V06 sign ([semantic validation audit](../audits/FX_KURUMI_V01_V10_SEMANTIC_VALIDATION.md), section 9, item 10; V01 reading 1.3; V06 reading 1.1). Read V06-U12 as resolved: there is no difference on the pages, and the identification of the sign as the same door stands. No forecast, claim or score depends on it.
+
+**Name-and-reference check (handoff contract §15.6) for FXK-ERR-V06-01, FXK-ERR-V05-01 and FXK-ERR-V06-02.** No character is named or described beyond the door sign's own lettering; Kurumi's broker is referred to only through the cap's locator; no creator is named or described; nothing draws on a volume later than V07.

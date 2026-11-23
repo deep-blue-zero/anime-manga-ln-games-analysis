@@ -3,7 +3,7 @@ title: "FX Fighter Kurumi-chan V01 — The Mother's Currency: proof, household m
 artifact_id: FX_KURUMI_V01_DEEP_READING
 artifact_type: deep_reading
 series: fx-fighter-kurumi-chan
-version: "1.2"
+version: "1.3"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Complete sequential reading of the V01 Japanese main narrative and classified apparatus"
@@ -83,6 +83,12 @@ reconciliation found a named-subject defect here (reconciliation audit, section 
 the flap's creator comment or refers to the writer with a gendered pronoun: the flap and the blurb are named as
 apparatus, classified only, as the rest of the paragraph already treated them. No observation, claim, score or
 thesis changes. The frozen [V01 checkpoint](../checkpoints/FX_KURUMI_V01_CHECKPOINT.md) is unchanged.
+
+Version 1.3, also by the run coordinator for the same synthesis, corrects one transcription in §C: the door sign at
+i0010 reads 「ぱぱ・ままのへや♡」, with a middle dot, not 「ぱぱとままのへや♡」. The sign was enlarged at the synthesis's
+gate G4 ([semantic validation audit](../audits/FX_KURUMI_V01_V10_SEMANTIC_VALIDATION.md), section 9, item 10). The
+earlier transcription had made the V06 records note a difference between the V01 and V06 signs; that open item is
+resolved by [erratum FXK-ERR-V06-02](../checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-v06-02). Nothing else changes.
 
 ---
 
@@ -174,7 +180,7 @@ she got here.
 
 **2008–2009: the mother's loss.** Over 2008 news headlines (サブプライムローン問題, パリバショック, リーマンショック;
 i0006), **福賀くるみ (Fukuga Kurumi), 15, 中学三年生**, comes home in the rain on Friday 24 October 2008 (i0008). The
-house is dark and neglected. Behind a door marked "ぱぱとままのへや♡", her mother screams at a chart: "最後に一回
+house is dark and neglected. Behind a door marked "ぱぱ・ままのへや♡", her mother screams at a chart: "最後に一回
 くらい 勝たせなさいよ!", "誰よ上がるって 言った人!!", "2000万円 返せぇぇぇ!!" (i0010–i0011). The parents' room is
 strewn with beer cans (i0012+i0013). Kurumi's retrospective narration explains that her mother had been doing "FX"
 and had used about 2000万円 of household money without permission. The mother begged her to keep it from the father,

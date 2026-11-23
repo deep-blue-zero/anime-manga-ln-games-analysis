@@ -3,13 +3,13 @@ title: "FX Fighter Kurumi-chan V09 — Coexistence"
 artifact_id: FX_KURUMI_V09_DEEP_READING
 artifact_type: deep_reading
 series: fx-fighter-kurumi-chan
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Complete sequential reading of the V09 Japanese main narrative and classified apparatus"
 source_boundary: "FXK-JP-V09-W01 main narrative; V09 unit-end spoilers; no later volume"
 created: 2026-11-22
-last_updated: 2026-11-22
+last_updated: 2026-11-23
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -98,6 +98,16 @@ targeted searches of the accepted readings, cited in the checkpoint. The changes
 The disagreements left open are recorded in the checkpoint: whether the vow functioned as a condition of the 300万 (Agent B: no condition
 shown; the principal: INF MOD by placement, not stated); whether the first days fall on one day (Agent B: INF MOD by clothing; the principal:
 one or more days); and the speaker of 「は?」 at i0146.
+
+## Revision note (2026-11-23)
+
+Version 1.1 is made by the run coordinator for the retrospective synthesis FXK-SYN-20261123-V01-V10, whose review of
+the monograph on Yasuko found the defect (semantic validation audit, section 9, item 8). §H.4 and the register lines
+of §K had counted ウチ at i0109 as one of her first-person forms. On the page it stands in "なんでウチがタコパ会場に
+なってんだよっ!!", answered by "だってここが大学から一番近いんだもん": it names her home, the party's venue; the same
+page's "まぁうちは 別に いいけどよぉ" reads either way. Her self-reference in V09 is あたし (i0089, i0118). The ledger
+records the same correction in a dated note in her person entry. No other text changes, and the frozen
+[V09 checkpoint](../checkpoints/FX_KURUMI_V09_CHECKPOINT.md) is unchanged.
 
 ---
 
@@ -1115,7 +1125,7 @@ counterevidence; none is a diagnosis.
   chibi presenter captioned 「ゆっくり苦瑠実だぜ。」 (i0090), shows what she fears for Kurumi. In 2017: twin tails with rabbit clips and a
   fingerless glove (i0142); "冷たいこと言わないでくれよ" when Mochiko asks how long she will use the office (i0148); fond worry for Nana, "無理して
   なきゃいいけどな〜", and a cowed "お…おう…" when Nana asks her to keep their school days to herself (i0150).
-- **Speech.** あたし (i0089, i0118) and ウチ (i0109); rough plain ("すげー", "〜だろ", "絶対やらねー!"); polite and stammering to an adult
+- **Speech.** あたし (i0089, i0118); ウチ at i0109 names her home, the party's venue, not herself; rough plain ("すげー", "〜だろ", "絶対やらねー!"); polite and stammering to an adult
   stranger ("失礼ですが… ご関係ですか?", i0095); "社長〜!!" (i0143); "ばなな" for Nana (i0150).
 - **Care.** Fears for Kurumi ("本当に大丈夫なのか?", i0089); confronts the supposed パパ活 partner (i0095); shields her ("くるみは今それどころ
   じゃないだろ", i0119); warns Mebuki about the rand (i0117).
@@ -1280,7 +1290,7 @@ nothing of the past. The broker's position after the discharge is not shown.
   "金利差調整額(スワップポイント)" — the technical term glossed (i0116); 2017 business register with さん.
 - **The father.** 父さん / 俺 split (i0071–i0084); "親・と・し・て・な" with emphasis dots (i0084); "メール" for chat messages (i0094); the
   parental "〜なさい" ("好きなの頼みなさい", i0092).
-- **Yasuko.** あたし / ウチ; "すげー", "〜ねぇ", "〜だろ"; stammered polite register to an adult ("し…しししし失礼ですが", i0095).
+- **Yasuko.** あたし; "すげー", "〜ねぇ", "〜だろ"; stammered polite register to an adult ("し…しししし失礼ですが", i0095).
 - **Mebuki.** です/ます to seniors; "くるみ先輩", "萌智子先輩"; protective "〜なんですけど!" (i0095).
 - **Inago.** "お前たち" (siblings), "トカイ" (rustic katakana for 都会, i0133, i0150), humble "〜と申します" (i0149), "ポンコツ" (i0139).
 - **Nana.** "了解です", "高根さん", "福賀さん" — formal.

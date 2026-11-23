@@ -3,7 +3,7 @@ title: "FX Fighter Kurumi-chan — Current State and Corpus Map"
 artifact_id: FX_KURUMI_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
 series: fx-fighter-kurumi-chan
-version: "1.14"
+version: "1.15"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Canonical foundation navigation, source admission and execution state"
@@ -81,7 +81,7 @@ Each accepted volume has a canonical deep reading, a frozen checkpoint that reco
 | V09 | [V09 deep reading](readings/FX_KURUMI_V09_DEEP_READING.md) | [V09 checkpoint](checkpoints/FX_KURUMI_V09_CHECKPOINT.md) | [V09 entering state](checkpoints/FX_KURUMI_V09_ENTERING_STATE.md) | 2026-11-22 |
 | V10 | [V10 deep reading](readings/FX_KURUMI_V10_DEEP_READING.md) | [V10 checkpoint](checkpoints/FX_KURUMI_V10_CHECKPOINT.md) | [V10 entering state](checkpoints/FX_KURUMI_V10_ENTERING_STATE.md) | 2026-11-22 |
 
-The [checkpoint errata](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md) correct the frozen V01–V04 checkpoints, and one label in the V07 checkpoint, without changing them. In V01–V05 only the principal deferred each volume's cover, flap and jacket images until after its main-narrative freeze; the specialists and the reviewer saw them first. The errata record each role's first exposure in V01–V04 against its freezes, with a disposition for every forecast item, and the [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md#7-exposure-and-contamination-record) records the same for V05. The errata also reclassify V01 i0165 as an authorial extra, qualify the predictive credit of two V02 Agent B forecast rows (FXK-V02-F095, F111), and give Agent B's V04 forecasts a literal score (27 of 73 confirmed, Brier 0.20849) beside its relaxed one. A [later correction](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-sum-01) narrows the errata's own summary for V04: Agent B froze FREEZE_00 (18 items, FXK-V04-F091–F108) before opening any V04 image, and only its 55 later items (FXK-V04-F109–F163) followed the cover and flap. [FXK-ERR-V07-01](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-v07-01) reads the V07 afterword as an authorial extra, as the source register classes it. From V05 every forecast is scored literally as frozen, with any relaxed or event-only result labelled alongside.
+The [checkpoint errata](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md) correct the frozen V01–V04 checkpoints and, in their later corrections, one label in the V07 checkpoint, a locator in the V05 checkpoint, an open item in the V06 checkpoint and a remark in the V06 entering state, without changing them. In V01–V05 only the principal deferred each volume's cover, flap and jacket images until after its main-narrative freeze; the specialists and the reviewer saw them first. The errata record each role's first exposure in V01–V04 against its freezes, with a disposition for every forecast item, and the [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md#7-exposure-and-contamination-record) records the same for V05. The errata also reclassify V01 i0165 as an authorial extra, qualify the predictive credit of two V02 Agent B forecast rows (FXK-V02-F095, F111), and give Agent B's V04 forecasts a literal score (27 of 73 confirmed, Brier 0.20849) beside its relaxed one. A [later correction](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-sum-01) narrows the errata's own summary for V04: Agent B froze FREEZE_00 (18 items, FXK-V04-F091–F108) before opening any V04 image, and only its 55 later items (FXK-V04-F109–F163) followed the cover and flap. [FXK-ERR-V07-01](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-v07-01) reads the V07 afterword as an authorial extra, as the source register classes it. From V05 every forecast is scored literally as frozen, with any relaxed or event-only result labelled alongside.
 
 ## Authorized run
 
@@ -140,6 +140,30 @@ The owner's November 23, 2026 instruction authorizes **FXK-SYN-20261123-V01-V10*
 | Synthesis | FXK-SYN-20261123-V01-V10, owner instruction of 2026-11-23 |
 | Evidence boundary | The accepted V01–V10 readings, checkpoints, errata, ledger and source register. Pages of the admitted V01–V10 witnesses are re-opened only to verify load-bearing claims |
 | Gates | G1 state reconciliation; G2 role-gap review and person qualification; G3 specialist synthesis, convergence, integrated synthesis and qualified character monographs; G4 semantic validation; G5 the owner's release |
-| Current gate | G3. G1 and G2 are recorded: the [reconciliation audit](audits/FX_KURUMI_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md), the [role-gap audit](audits/FX_KURUMI_ARCHITECTURE_ROLE_GAP_AUDIT.md), the [qualification audit](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md), ledger rows FXK-SYN-C001–C006 with the qualification table, and the architecture's [retrospective amendment](FX_KURUMI_SYNTHESIS_ARCHITECTURE.md#retrospective-amendment-2026-11-23), which moves the architecture to `EVOLVING`. Eight subjects are QUALIFIED_PENDING; no monograph exists yet |
-| Crew | Principal integrator, financial specialist, character specialist and critical reviewer. Each runs as a fresh Claude Code subagent context launched by the run coordinator and inherits the coordinator's Claude Opus 5.5 model; no other setting is recorded. The work runs locally rather than in fresh cloud sessions because the admitted witnesses and the working plane are local |
+| Current gate | G5, the owner's release or freeze. G1 and G2 are recorded in the [reconciliation audit](audits/FX_KURUMI_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md), the [role-gap audit](audits/FX_KURUMI_ARCHITECTURE_ROLE_GAP_AUDIT.md), the [qualification audit](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md) and the architecture's [retrospective amendment](FX_KURUMI_SYNTHESIS_ARCHITECTURE.md#retrospective-amendment-2026-11-23), which moves the architecture to `EVOLVING`. G3 and G4 are recorded in the artifacts listed below and in ledger rows FXK-SYN-C007–C034. All eight qualified subjects passed both monograph checks and are COMPLETE_AT_BOUNDARY; the thirteen deferred subjects have no monograph. No BLOCKING finding is open |
+| Crew | Principal integrator, financial specialist, character specialist and critical reviewer. Study C was written in a context that read neither Study A nor Study B; each monograph was reviewed by a role context that did not write it, and the portraits of Kurumi and Mochiko were also probed by a context that read nothing but the portrait. Each runs as a fresh Claude Code subagent context launched by the run coordinator and inherits the coordinator's Claude Opus 5.5 model; no other setting is recorded. The work runs locally rather than in fresh cloud sessions because the admitted witnesses and the working plane are local |
 | Writers | The principal alone writes the synthesis audits, the shared ledger and the published synthesis. Specialists and reviewers draft in the working plane. The coordinator edits this map, validates, commits and publishes |
+
+### Synthesis artifacts
+
+| Artifact | Responsibility |
+| --- | --- |
+| [Integrated synthesis](FX_KURUMI_V01_V10_INTEGRATED_SYNTHESIS.md) | What V01–V10 argues about agency, uncertainty, responsibility and the cost of choices, with each volume's governing thesis tested against the whole boundary |
+| [Screens, institutions and responsibility](studies/FX_KURUMI_SCREENS_INSTITUTIONS_AND_RESPONSIBILITY.md) | Study A: what the screens, brokers and other institutions show, and who appears to act |
+| [Obligations, relationships and cost](studies/FX_KURUMI_OBLIGATIONS_RELATIONSHIPS_AND_COST.md) | Study B: obligations, knowledge boundaries and who pays |
+| [Risk, loss and financial self-destruction](studies/FX_KURUMI_RISK_LOSS_AND_FINANCIAL_SELF_DESTRUCTION.md) | Study C: why the persons chose as the page shows |
+| [Convergence audit](audits/FX_KURUMI_V01_V10_CONVERGENCE.md) | Receipt of the studies, their agreements and conflicts, and the claim transitions written from them |
+| [Semantic validation](audits/FX_KURUMI_V01_V10_SEMANTIC_VALIDATION.md) | Gate G4: findings on the studies and the synthesis, monograph self-containment and fidelity, boundary checks, and the closure of obligations |
+
+Character monographs, each self-contained within the V01–V10 boundary:
+
+| Subject | Monograph |
+| --- | --- |
+| FXK-P001 | [Fukuga Kurumi](characters/fukuga-kurumi-manga.md) |
+| FXK-P002 | [Kurumi's father](characters/fukuga-ikuo-manga.md) (given name by inference, stated in the monograph) |
+| FXK-P003 | [Fukuga Kozue](characters/fukuga-kozue-manga.md) |
+| FXK-P005 | [Kogane Mochiko](characters/kogane-mochiko-manga.md) |
+| FXK-P006 | [Yamashi Mebuki](characters/yamashi-mebuki-manga.md) |
+| FXK-P008 | [Takane Yasuko](characters/takane-yasuko-manga.md) (あふぃちゃん) |
+| FXK-P020 | [Zenba Nana](characters/zenba-nana-manga.md) |
+| FXK-P021 | [Tsukimori Kizuna](characters/tsukimori-kizuna-manga.md) |
