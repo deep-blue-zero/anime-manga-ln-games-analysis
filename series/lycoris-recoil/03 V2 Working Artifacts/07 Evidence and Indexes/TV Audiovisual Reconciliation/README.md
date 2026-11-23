@@ -22,6 +22,8 @@ This is an attributable V2 retrospective addendum against main `b84f1da3812dadf6
 
 The [22 November verifier return](VERIFIER_RETURN_20261122.md) gives the current decisions on all twenty questions, the checked master timestamps and the remaining human listening queue. Takina makes the first visible discharge in the E13 island exchange. Five checked ending cues lead the first illustrated credits by 24.84–24.85 seconds. The original dispatch register and packet retain their exact issued bytes.
 
+The [23 November source recheck](SOURCE_RECHECK_20261123.md) governs the E04 appraisal, E12 command sequence and E13 farewell. It distinguishes captions, independently selected pictures and the attributed continuous-viewer account.
+
 ## What the TV evidence changes
 
 **Chisato’s nonlethality.** E11’s gift-shop sequence makes Yoshimatsu’s position behind Chisato relevant to her response. At 19:06.20 and 19:06.84 the sampled flashes fall on her satchel. Protecting him costs her the freedom to step aside. A bodily wound is unnecessary to that reading. E12 puts greater pressure on her position. At 08:10 the cut holds on the tower as a report sounds. Chisato then appears aiming upward and Yoshimatsu appears with a new wound. This sequence, Takina’s immediate danger and Chisato's subsequent response support a strong causal inference. They leave open how precisely Chisato intended the injury. E13 C0082 compares her shooting with “the one in black.” Majima greets Takina with that epithet in E10 C0221. Chisato also asks for Mika’s rounds back at E12 C0170. The old E13 gloss can no longer establish which rounds she is using. See E11-X02, E12-C04/C05 and E13-X01.

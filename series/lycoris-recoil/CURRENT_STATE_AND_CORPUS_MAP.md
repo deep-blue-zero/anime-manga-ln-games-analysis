@@ -35,6 +35,8 @@ Open this file first when resuming the project in a new chat or tool session. It
 
 For current use of E01–E13 claims, consult the [TV audiovisual reconciliation](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/README.md) alongside the frozen episode readings. Its matrix distinguishes corrections to V2 from limits on the independent Gemini account. Material refinements concern Erika’s request and Saori’s exposure, Chisato’s protection of Yoshimatsu, the E12 wound and heart evidence, and Majima’s E13 comparison with Takina. The [original dispatch register](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/DISPUTES.md) identifies the voice, motion and synchronization claims sent for review. The [22 November verifier return](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/VERIFIER_RETURN_20261122.md) gives the current dispositions of the twenty disputed questions, including Takina’s first visible island shot, the ending-song measurements and narrower Japanese-text referrals. This retrospective assessment adds no prospective source unit. At the time of the TV return, Short 02 was next. See the current sequential boundary below.
 
+The [23 November source recheck](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/SOURCE_RECHECK_20261123.md) governs the E04 appraisal, the E12 withdrawal and resumption of command, and the two recipients in E13’s farewell sequence. The specific findings qualify the current ledgers without changing the frozen source boundary.
+
 ## Retrospective shorts audiovisual reconciliation
 
 All six shorts have frozen source readings. The [Friends shorts reconciliation](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/README.md) records dispositions for all 53 independent propositions, the six-part ending-song comparison, amendments to current use of the frozen readings and the remaining Japanese listening questions. The corrected CP4 outcome is seven supported, four partially supported and one not tested. Apply the [CP4 and CP5 correction](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/SOURCE_READING_PARTICIPATION_AND_CP4_CORRECTION.md#current-ruling-on-pred-cp4-004-and-the-cp5-baseline) when consulting the pre-supplement freeze. The [CP5 anime-native baseline](03%20V2%20Working%20Artifacts/04%20Character%20Reconstruction/LYCORIS_RECOIL_CP5_ANIME_NATIVE_BASELINE.md) now freezes the 19-unit reconstruction before supplementary reading.
@@ -94,7 +96,8 @@ The principal integrator owns canonical rulings and shared-file writes. Separate
   - frozen short readings through Short 06: [Short 02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md) · [Short 03](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md) · [Short 04](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md) · [Short 05](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md) · [Short 06](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md)
   - current source boundary: SHORT06_SOURCE_NATIVE_FREEZE. CP4_POST_E13 is adjudicated and closed.
 - Current integrated evidence: [cross-source comparisons](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) and [character reconstruction evidence matrix](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md).
-- Next operation: Complete the literary character monographs and relationship study, then test the distinct operational reconstruction models. Phases E and F link to the twelve source-native readings.
+- Current literary syntheses: [Chisato](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_CHARACTER_SYNTHESIS.md), [Takina](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_TAKINA_CHARACTER_SYNTHESIS.md) and the [Chisato–Takina relationship study](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_TAKINA_RELATIONSHIP_SYNTHESIS.md).
+- Next operation: Complete the distinct operational models, independent validation, additional portraits and specialist syntheses. Phases E and F link to the twelve source-native readings.
 - Corpus-wide project initiation policy:
   - `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`
   - Drive ID: `1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC`
@@ -383,6 +386,11 @@ Lycoris Recoil/
 |   |   |-- LYCORIS_RECOIL_V1_TO_V2_CLAIM_REVISION_LEDGER.md
 |   |   `-- LYCORIS_RECOIL_PROSPECTIVE_PREDICTION_REGISTER.md
 |   |
+|   |-- 05 Specialist Synthesis/
+|   |   |-- LYCORIS_RECOIL_CHISATO_CHARACTER_SYNTHESIS.md
+|   |   |-- LYCORIS_RECOIL_TAKINA_CHARACTER_SYNTHESIS.md
+|   |   `-- LYCORIS_RECOIL_CHISATO_TAKINA_RELATIONSHIP_SYNTHESIS.md
+|   |
 |   |-- 06 Cross-Media Analysis/
 |   |   `-- LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md
 |   |
@@ -517,7 +525,7 @@ Read:
 
 The [crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) records A2 focalization and conduct, B1 comparisons from both *Recollect* volumes, and all 89 C1 contributor entries. The [evidence matrix](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md) pairs those comparisons with the anime development state, current knowledge, interlocutor and stakes. [The integration transaction](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_COMPLETION_REGISTER.md#cross-source-integration-against-cp5) records the independent checks and their limits.
 
-The literary monographs, relationship study, integrated operational models, validation and specialist syntheses are in progress.
+The monographs of [Chisato](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_CHARACTER_SYNTHESIS.md) and [Takina](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_TAKINA_CHARACTER_SYNTHESIS.md) and the [Chisato–Takina relationship study](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_TAKINA_RELATIONSHIP_SYNTHESIS.md) are accepted. The integrated operational models, independent validation, qualifying secondary portraits and other specialist syntheses are in progress.
 
 
 ## Phase H — Full V2 integration and release
@@ -709,7 +717,7 @@ project_initialization:
 
 The [V2 completion register](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_COMPLETION_REGISTER.md) records the starting authority, per-volume responsibilities and evidence required for final release.
 
-The [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) and [evidence matrix](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md) now govern comparative attribution. Use them to develop the literary character and relationship studies and the later operational models. Open listener referrals and chronology limits remain part of the CP5 evidence record.
+The [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) and [evidence matrix](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md) now govern comparative attribution. They route the evidence for the current literary studies and the operational models in progress. Open listener referrals and chronology limits remain part of the CP5 evidence record.
 
 # 14. Retrieval route
 

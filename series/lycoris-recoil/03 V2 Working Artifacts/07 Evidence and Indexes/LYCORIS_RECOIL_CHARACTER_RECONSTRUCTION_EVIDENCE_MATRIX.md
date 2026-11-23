@@ -4,6 +4,9 @@ artifact_type: evidence_index
 generation: V2
 scope: reconstruction evidence and conditional comparisons
 status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
 source_boundary: CP5 TV E01–E13 and Friends Shorts 01–06 with accepted A2, B1 and C1 comparisons
 ---
 

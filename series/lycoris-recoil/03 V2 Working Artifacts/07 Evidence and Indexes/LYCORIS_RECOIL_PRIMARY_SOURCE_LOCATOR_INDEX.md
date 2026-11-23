@@ -16,7 +16,7 @@ current_sequential_boundary: SHORT06
 
 ## Retrospective shorts audiovisual routes
 
-The [six-short comparison](Shorts%20Audiovisual%20Reconciliation/README.md) maps 53 independent claims to the corresponding shorts, source intervals and frozen readings. The [correction register](Shorts%20Audiovisual%20Reconciliation/COVERAGE_AND_OPEN_ITEMS.md) locates the Short 02 title, Short 03 milk and receipt, the Short 04 music already present by 02:36.397, the Short 05 hanger and Short 06’s paper fan, subsequent saucer, van and credits. Its last section routes remaining spoken-Japanese and sound-source questions to synchronized listening.
+The [six-short comparison](Shorts%20Audiovisual%20Reconciliation/README.md) maps 53 independent claims to the corresponding shorts, source intervals and frozen readings. The [correction register](Shorts%20Audiovisual%20Reconciliation/COVERAGE_AND_OPEN_ITEMS.md) locates the Short 02 title, Short 03 milk, receipt and instrumental cutoff, the Short 04 music already present by 02:36.397, the Short 05 hanger and Short 06’s paper fan, subsequent saucer, van and credits. Its last section routes remaining spoken-Japanese and sound-source questions to synchronized listening.
 
 ## Retrospective TV audiovisual routes
 
@@ -25,6 +25,8 @@ Start at the [E01–E13 comparison](TV%20Audiovisual%20Reconciliation/README.md)
 For E03-CLM-013, retrieve the reported blow near 19:30.917 and the spoken settlement at 20:48.94–20:50.53 separately. For E11-VIS-010, inspect the satchel at 19:06.20 and 19:06.84. For E12-VIS-003, inspect the exterior report at 08:10.036, Chisato aiming at 08:11.4 and Yoshimatsu’s wound from 08:14.5. For E13-CLM-006 and E13-VIS-002, compare E13 C0082–84 (03:55.01–04:01.31) with E10 C0221 (11:37.26–11:39.51). For E13-VIS-008, compare the exterior interval at 08:09.572–08:09.906 with subsequent testimony in C0404–06 and C0417–25. The [dispute register](TV%20Audiovisual%20Reconciliation/DISPUTES.md) distinguishes directly checked evidence from perceptual return requests.
 
 The [dated return for Q01–Q20](TV%20Audiovisual%20Reconciliation/VERIFIER_RETURN_20261122.md) maps the verifier’s reports to corrected master-picture timestamps, measured audio boundaries and by-ear evidence. For Takina’s first depicted island discharge use E13 16:07.675/.717. For the opening-theme comparison use the E02 opening as the reference. The return also identifies the exact Japanese cues still requiring a human ear.
+
+The [23 November source recheck](TV%20Audiovisual%20Reconciliation/SOURCE_RECHECK_20261123.md) locates the pendant exchange in E04 C0297–0300, #000815/818 and master seeks 14:49.250–14:51.250, with the callback at E13 C0430–0439. E12 C0419–0426 and #001207/1209/1210/1212–1215 distinguish the report, withdrawal, field relay and resumed command. E13 C0404–0405 and C0422–0425 and #001049/1051/1055 versus #001087/1089/1093 distinguish the items and their recipients.
 
 ## Supplementary text and page routes
 
