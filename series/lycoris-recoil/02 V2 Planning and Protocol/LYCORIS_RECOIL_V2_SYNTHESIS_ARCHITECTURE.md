@@ -245,6 +245,10 @@ The second is an integrated model claim and requires promotion through compatibi
 
 # 4. Anime sequential reread architecture
 
+## Standing configuration for substantive source readings
+
+A principal completes the medium-specific inspection and writes the accepted source-native reading. At least one independent source-aware specialist submits evidence from the admitted unit, and a distinct critical reviewer tests the consequential passages, images and limits on inference. The principal assigns picture, text, audio, narration or character work to suit the unit, checks disagreements against the sources and records the participation with the unit or its linked transaction receipt. In prospective work each participant receives only the allowed source horizon. Retrospective evidence and comparisons enter after the native freeze. This configuration also governs the prose, manga and anthology work in section 8. Keep discovery and inventory work distinct from a completed reading.
+
 ## 4.1 Fresh prospective pass
 
 V2 re-reads the anime sequentially from E01.

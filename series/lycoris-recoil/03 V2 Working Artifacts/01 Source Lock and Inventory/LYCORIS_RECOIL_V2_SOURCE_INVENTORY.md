@@ -169,6 +169,10 @@ Current official KADOKAWA product listings support the following seven-volume an
 
 No official `Reload 4` or `Repeat 4` was located in the 2026-08-27 KADOKAWA search. Anthology contributor attribution must still be preserved story-by-story during sequential reading because some electronic OPF metadata exposes only Spider Lily rather than the complete contributor list.
 
+## 4.1 Later official reference acquisition
+
+The Japanese fanbook *Lycoris Recoil Heroine Archive: Chisato & Takina* is retained under `04_books/fanbooks/`. The acquisition manifest records Febri編集部, publisher 一迅社, 150 image spine entries, 52,274,427 bytes and SHA-256 `cf4cb1346a9b0a86f8bac6cef4c72aaba9ae1f70fa6c22829933050a9c9c6d83`. The volume is `P_PARATEXT`. Treat credited interviews, editorial copy and production materials as separately attributed reference evidence. The book’s presence does not change CP5 or establish another narrative sequence. The [attributed reference reading](../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_HEROINE_ARCHIVE_REFERENCE_READING.md) covers the volume’s six acts and ending matter.
+
 ## 5. Duplicate cleanup
 
 The following redundant Drive uploads were permanently deleted with user authorization:
@@ -217,9 +221,11 @@ Current V2 source classes:
 | `C1_MULTI_AUTHOR_LICENSED_INTERPRETATION` | seven official anthology volumes | contributor-level variance, characterization envelope, recurring attractors |
 | `B2_OFFICIAL_ADAPTATION` | Bizen manga | optional; not currently acquired/admitted |
 
-The anime-native baseline must be frozen before A2/B1/C1 material is allowed to revise the integrated character models.
+CP5 freezes the anime-native baseline. A2, B1 and C1 work can now contribute through the cross-source method and source-native readings.
 
-## 9. Remaining audit actions
+## 9. Supplementary coverage and remaining audit actions
+
+The 13 inventoried EPUBs comprise three novels, two *Recollect* volumes, seven contributor-level anthologies and the *Heroine Archive*. The three A2, two B1 and seven C1 records are provisional. The [coverage receipt](../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) identifies which pages or components the principal and independent readers inspected. The 1,099 anthology image leaves include 89 credited comic entries, grouped and individually bounded in the volume records. The second *Repeat 02* file is an exact duplicate. No additional local narrative ebook or standalone chapter was found outside these files. Edition side matter, story frames, bonuses, insets and the production interviews are accounted for in their source-local records.
 
 The primary-source corpus is sufficiently audited to proceed with V2 method/infrastructure initialization. Remaining non-blocking or downstream audit work:
 
@@ -230,6 +236,8 @@ The primary-source corpus is sufficiently audited to proceed with V2 method/infr
 5. record any supplied continuous-video escalation clips/episodes in the evidence index rather than publishing the 20 GB media tree wholesale.
 
 ## 10. Initialization consequence
+
+The following flags record holdings and the gate at initialization. The current corpus map governs analytical acceptance.
 
 **SOURCE_RECONNAISSANCE_COMPLETE = true**  
 **SOURCE_INVENTORY_INITIALIZED = true**  

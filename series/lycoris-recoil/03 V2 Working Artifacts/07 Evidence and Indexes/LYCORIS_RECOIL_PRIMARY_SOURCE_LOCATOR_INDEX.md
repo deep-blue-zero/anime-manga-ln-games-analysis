@@ -9,10 +9,14 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
-current_sequential_boundary: SHORT01
+current_sequential_boundary: SHORT06
 ---
 
 # Lycoris Recoil Primary Source Locator Index
+
+## Retrospective shorts audiovisual routes
+
+The [six-short comparison](Shorts%20Audiovisual%20Reconciliation/README.md) maps 53 independent claims to the corresponding shorts, source intervals and frozen readings. The [correction register](Shorts%20Audiovisual%20Reconciliation/COVERAGE_AND_OPEN_ITEMS.md) locates the Short 02 title, Short 03 milk and receipt, the Short 04 music already present by 02:36.397, the Short 05 hanger and Short 06’s paper fan, subsequent saucer, van and credits. Its last section routes remaining spoken-Japanese and sound-source questions to synchronized listening.
 
 ## Retrospective TV audiovisual routes
 
@@ -21,6 +25,10 @@ Start at the [E01–E13 comparison](TV%20Audiovisual%20Reconciliation/README.md)
 For E03-CLM-013, retrieve the reported blow near 19:30.917 and the spoken settlement at 20:48.94–20:50.53 separately. For E11-VIS-010, inspect the satchel at 19:06.20 and 19:06.84. For E12-VIS-003, inspect the exterior report at 08:10.036, Chisato aiming at 08:11.4 and Yoshimatsu’s wound from 08:14.5. For E13-CLM-006 and E13-VIS-002, compare E13 C0082–84 (03:55.01–04:01.31) with E10 C0221 (11:37.26–11:39.51). For E13-VIS-008, compare the exterior interval at 08:09.572–08:09.906 with subsequent testimony in C0404–06 and C0417–25. The [dispute register](TV%20Audiovisual%20Reconciliation/DISPUTES.md) distinguishes directly checked evidence from perceptual return requests.
 
 The [dated return for Q01–Q20](TV%20Audiovisual%20Reconciliation/VERIFIER_RETURN_20261122.md) maps the verifier’s reports to corrected master-picture timestamps, measured audio boundaries and by-ear evidence. For Takina’s first depicted island discharge use E13 16:07.675/.717. For the opening-theme comparison use the E02 opening as the reference. The return also identifies the exact Japanese cues still requiring a human ear.
+
+## Supplementary text and page routes
+
+The [cross-source crosswalk](../06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) links to the 12 provisional readings and their proposed A2, B1 and C1 comparisons. In a Japanese prose EPUB cite OPF spine and nonempty paragraph after removal of ruby annotation. In image-only EPUBs, locate the contributor and 1-based OPF page range first, then distinguish title plate, enacted panels and the signed creator note. Printed folios and spine ordinals can differ. The [supplementary participation record](LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) distinguishes principal inspection from independent coverage. The [Heroine Archive reference reading](LYCORIS_RECOIL_HEROINE_ARCHIVE_REFERENCE_READING.md) supplies credited speaker and printed-page locators under P_PARATEXT.
 
 ## 1. Responsibility
 
@@ -157,18 +165,18 @@ A supplied clip should be registered here with Drive ID/hash if it becomes part 
 
 | Source | Class | Drive ID | Current integration access |
 |---|---|---|---|
-| `Ordinary days` | A2 | `1RlbZEqj3xaeGMu-Po26GwltJ45jYHnEu` | `LOCKED_UNTIL_ANIME_NATIVE_FREEZE` |
-| `Recovery days` | A2 | `1deAImiwPdORptTtsxdqliFlHPM4wAbav` | `LOCKED_UNTIL_ANIME_NATIVE_FREEZE` |
-| `Gluttony days` | A2 | `1dVgGlPdZBlBEILdoqyPdHeAkdH7xfKdR` | `LOCKED_UNTIL_ANIME_NATIVE_FREEZE` |
-| `Recollect V01` | B1 | `1a5RZc2N4Lq9mjweXjbl1lhOBSJJ2iQ1J` | `LOCKED_UNTIL_ANIME_NATIVE_FREEZE` |
-| `Recollect V02` | B1 | `1EtC-4C9e19aq_y4gCOTURxz7COj0s2kc` | `LOCKED_UNTIL_ANIME_NATIVE_FREEZE` |
-| `Reload` | C1 | `1iz1TLjqBuNLGleyeYgLdSDxzdfa07shi` | `LOCKED_UNTIL_ANIME_NATIVE_FREEZE` |
-| `Reload 02` | C1 | `1RXo71dZANCFqQeDRVh2clJy7kQL8-Ei8` | `LOCKED_UNTIL_ANIME_NATIVE_FREEZE` |
-| `Reload 03` | C1 | `1CmKsnv7fgpuJOrHJUTDLJh4qUKbvRC1N` | `LOCKED_UNTIL_ANIME_NATIVE_FREEZE` |
-| `Repeat` | C1 | `1c5fzbhWdtt87yoXnEM88nKl56WVm7Mnv` | `LOCKED_UNTIL_ANIME_NATIVE_FREEZE` |
-| `Repeat 02` | C1 | `1VrPMT-ysH6Hoe4ODXhw6b263WFkbI1j7` | `LOCKED_UNTIL_ANIME_NATIVE_FREEZE` |
-| `Repeat 03` | C1 | `1uozt-it-6OqgX8ZnHSLCCRuI3eRZZwDg` | `LOCKED_UNTIL_ANIME_NATIVE_FREEZE` |
-| `React` | C1 | `1ynVbUqVGgs_NtGdWzFduy7U6vsWQQG2f` | `LOCKED_UNTIL_ANIME_NATIVE_FREEZE` |
+| `Ordinary days` | A2 | `1RlbZEqj3xaeGMu-Po26GwltJ45jYHnEu` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Recovery days` | A2 | `1deAImiwPdORptTtsxdqliFlHPM4wAbav` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Gluttony days` | A2 | `1dVgGlPdZBlBEILdoqyPdHeAkdH7xfKdR` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Recollect V01` | B1 | `1a5RZc2N4Lq9mjweXjbl1lhOBSJJ2iQ1J` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Recollect V02` | B1 | `1EtC-4C9e19aq_y4gCOTURxz7COj0s2kc` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Reload` | C1 | `1iz1TLjqBuNLGleyeYgLdSDxzdfa07shi` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Reload 02` | C1 | `1RXo71dZANCFqQeDRVh2clJy7kQL8-Ei8` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Reload 03` | C1 | `1CmKsnv7fgpuJOrHJUTDLJh4qUKbvRC1N` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Repeat` | C1 | `1c5fzbhWdtt87yoXnEM88nKl56WVm7Mnv` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Repeat 02` | C1 | `1VrPMT-ysH6Hoe4ODXhw6b263WFkbI1j7` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Repeat 03` | C1 | `1uozt-it-6OqgX8ZnHSLCCRuI3eRZZwDg` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `React` | C1 | `1ynVbUqVGgs_NtGdWzFduy7U6vsWQQG2f` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
 
 Exact SHA-256 and EPUB metadata remain canonical in `LYCORIS_RECOIL_V2_SOURCE_INVENTORY.md` and `04_books/audit_manifest.json`.
 
@@ -512,6 +520,44 @@ For anthology evidence always preserve contributor/story identity.
 | `TAK-MB-SHORT01-*` / `CHI-MB-SHORT01-*` / `MIK-MB-SHORT01-*` / `MIZ-MB-SHORT01-*` / `KUR-MB-SHORT01-*` | character-state ledger | mundane settled-character observations through Short 01 | JP, VIS, ORDINARY, CAFE, AGENCY, AUD-ACOUSTIC |
 | `REL-CHI-TAK-SHORT01-*` / `REL-CAFE-SHORT01-*` | relationship-state ledger | mundane dyad correction/reciprocity and seasonal chosen-family/service infrastructure | JP, VIS, REL, ORDINARY, CAFE |
 
+
+## Source locators · Short 02
+
+**LOC-SHORT02**. C035–36/041, #000051/084 for the call. C054–59, #000112/123/124 for work and excitement. C066–080, #000147/169/179/187 for the captive and closing staging. Bundle `LR_s00e02_screenshots.zip`, `dialogue_index.json`, `contact_sheets/` and `s00e02.complete-audio.flac`. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md).
+
+
+## Source locators · Short 03
+
+**LOC-SHORT03**. C002–16, glass and three arrivals. C020–35, the loanword and film guess. C040–56, notebook and receipt. C062–90, judging, coughing and Kurumi’s verdict. Bundle `LR_s00e03_screenshots.zip`, `dialogue_index.json`, `contact_sheets/` and `s00e03.complete-audio.flac`. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md).
+
+
+## Source locators · Short 04
+
+**LOC-SHORT04**. C011–29 plate/secrecy, C033–45 hair and the camera, C047–61 reassessment, C067–82 scare and placard, C087–105 money and disputed presence. Bundle `LR_s00e04_screenshots.zip`, `dialogue_index.json`, `contact_sheets/` and `s00e04.complete-audio.flac`. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md).
+
+**Short 04 additional source checks.** The actual desktop replay begins at #000034 (00:27.236). Compare #000185 (03:19.635) with #000187/188 (03:24.020/03:25.565): a pale bow-topped figure distinct from the large foreground mascot head occupies successively different positions behind the café group. C087 is the bill discussion; C091 is the later absence report. The final FLAC contains two stereo signed-16 exact-zero runs at 03:51.459592–51.900159 and 03:53.004399–53.672857. C104 and C105 begin within those intervals.
+
+
+## Source locators · Short 05
+
+**LOC-SHORT05**. C006–19 facility and milkshake; C027–43 lodging and uniform; #000114/118/123/126/C052–58 private fitting; #000132/134/143 and C063–71 concealed witness; C079–84 ending. Bundle `LR_s00e05_screenshots.zip`, `dialogue_index.json`, `contact_sheets/` and `s00e05.complete-audio.flac`. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md).
+
+**Short 05 frame-order qualification.** C032 places the simultaneous verbal objections at 01:06.88. #000059/061 at 01:15.325 and 01:16.550 show Takina holding Sakura across Chisato’s later permission, C035–36. They establish continued physical restraint, not its precise onset at the objection. #000118 shows Takina posing with an empty hand; the small rectangle behind it belongs to the locker. At 02:37.2 she points in a dark uniform.
+
+
+## Source locators · Short 06
+
+**LOC-SHORT06**. C002–20 tailoring and cover; C025–47 fan politics; C052–61 designs and veto; C070–81 travel, board games and departure; C082–93 Fuki/Mika, outfit and credits. Bundle `LR_s00e06_screenshots.zip`, `dialogue_index.json`, `contact_sheets/` and `s00e06.complete-audio.flac`. [Source and intervals](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md).
+
 # 9. Current authority statement
+
+Current release-order boundary: **SHORT06**. See the per-unit Short records above. The source-native forecasts and tests are recorded in the prospective register. Supplementary narrative evidence is outside the current A1 boundary.
+
+### Short 01 historical closeout
+
+
+
+
+
 
 The index now routes load-bearing V2 claims through `SHORT01_OUTBOUND_FREEZE`, including `SHORT01-CLM-001`-`019`, `SHORT01-VIS-001`-`002`, and `SHORT01-AUD-001`-`013`. Short 01 closed as `VIDEO_NOT_REQUIRED`; `s00e01.complete-audio.flac` (Drive `12ihCMW8IkdFjlz1TVEH4SuliSPjgiLGb`) is the registered lossless Layer-B master and is natively 44.1 kHz stereo 16-bit. `CP4_POST_E13` remains the governing full checkpoint and `SHORT01_OUTBOUND_FREEZE` is the current source-unit boundary for Short 02. Perceptual voice evidence remains separately typed and unverified. Supplementary EPUBs remain locked until all six shorts close and the anime-native baseline freezes.
