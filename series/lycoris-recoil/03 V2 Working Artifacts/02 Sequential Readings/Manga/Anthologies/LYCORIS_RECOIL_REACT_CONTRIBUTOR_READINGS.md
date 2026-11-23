@@ -4,11 +4,13 @@ artifact_type: deep_reading
 generation: V2
 scope: REACT
 source_class: C1_MULTI_AUTHOR_LICENSED_INTERPRETATION
-status: canonical
+status: provisional
 source_boundary: React only for new narrative evidence
 ---
 
 # React · contributor readings
+
+**Provisional reading.** The [coverage receipt](../../../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) records the principal’s inspection and the independent readers’ work. Volume acceptance is pending.
 
 These seven contributors give the café’s surrounding people unusually different kinds of space. Kusunoki sorts the institution’s common needs and unusual personnel. An anonymous visitor tries to thank Takina. Fuki retrieves an early memory. A collection whose opening pages are comic exaggerations closes on the ordinary administration of casualties. The contrast enriches the authority question without making any contributor an alternate witness to a TV event.
 

@@ -4,12 +4,14 @@ artifact_type: deep_reading
 generation: V2
 scope: GLUTTONY_DAYS
 source_class: A2_CREATOR_PROXIMATE_SUPPLEMENTARY
-status: canonical
+status: provisional
 incoming_checkpoint: RECOVERY_DAYS_SOURCE_NATIVE
 source_boundary: Gluttony days only for new narrative evidence
 ---
 
 # Gluttony days · prose reading
+
+**Provisional reading.** The [coverage receipt](../../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) records the principal’s inspection and the independent readers’ work. Volume acceptance is pending.
 
 Each course starts with a practical definition that proves too narrow. A guard job turns into a test of who has accepted whose story. A thank-you meal becomes an apology and then asks whether enjoyment can take the place of words. An inelegant night after work gradually acquires a reason to continue. The After Meals preserve objections after the main action is over. In the last course, refreshments go beyond anyone’s stated need and Chisato imagines why a parent might do that.
 

@@ -4,11 +4,13 @@ artifact_type: deep_reading
 generation: V2
 scope: RELOAD
 source_class: C1_MULTI_AUTHOR_LICENSED_INTERPRETATION
-status: canonical
+status: provisional
 source_boundary: Reload only for new narrative evidence
 ---
 
 # Reload · contributor readings
+
+**Provisional reading.** The [coverage receipt](../../../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) records the principal’s inspection and the independent readers’ work. Volume acceptance is pending.
 
 The first *Reload* volume makes the same pair legible through incompatible premises. They are an effective team that can fail to agree about a leisure plan, a pair that can share a photograph without sharing a taste, and the object of a comic dream whose premise the waking Takina rejects. These are fifteen different realizations. The page turns do not add up to a single history.
 

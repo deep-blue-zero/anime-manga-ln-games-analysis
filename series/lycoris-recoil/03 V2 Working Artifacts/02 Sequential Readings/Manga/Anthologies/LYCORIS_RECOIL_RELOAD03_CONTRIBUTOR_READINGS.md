@@ -4,11 +4,13 @@ artifact_type: deep_reading
 generation: V2
 scope: RELOAD03
 source_class: C1_MULTI_AUTHOR_LICENSED_INTERPRETATION
-status: canonical
+status: provisional
 source_boundary: Reload 03 only for new narrative evidence
 ---
 
 # Reload 03 · contributor readings
+
+**Provisional reading.** The [coverage receipt](../../../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) records the principal’s inspection and the independent readers’ work. Volume acceptance is pending.
 
 The period between a familiar call and a response is especially variable in this volume. Some contributors let the response arrive with almost no explanation. Others prolong an inadequate guess, or give the reader a page that the other person never sees. The collection has thirteen TOC contributions. Imigimuru’s opening contribution is four separately headed vignettes, giving sixteen narrative segments with all four counted.
 
@@ -28,7 +30,7 @@ Japanese image EPUB, `04_books/manga/official_anthologies/Lycoris Recoil - Offic
 | 犬裸 · *とある日の出来事* | S103–112 | Takina distinguishes a rescued object from the missing leader. After jointly depicted action she changes priorities to tend Chisato’s hand. A kitchen cleanup later resets the practical problem (S108–112). | EXTEND care during work. The group action does not yield every individual contribution from the single shared panel. |
 | ほげらむ · *いつもの２人* | S115–124 | A question about Takina’s possible death makes Chisato worry about a present problem. A remembered bench helps Takina think about a person leaving others behind. They resume play and Fuki judges them all right (S119–124). | SPECIFY the direction of mortality and concern. 想像 and memory establish neither a new diagnosis nor a complete future grief response. |
 | タチ · *やるなら徹底的に* | S125–134 | Takina reverses a clothing-selection role and uses her own notes. Takina’s plan invokes the earlier travel to Miyakojima. The dog-tag analogy yields an actual tracking device made by Kurumi and a protest from Chisato (S127–134). | PRESSURE unqualified autonomy from a caring intention. This locally drawn device gives no new fact about any TV accessory or travel date. |
-| kyoh · *大好きなもの自慢大会 in ハワイ* | S137–145 | At the repeated Hawaii gathering Chisato announces the 196th meeting and Takina says it is the 17th. A private admission of liking a view Chisato loves follows. An overly sweet drink and a rejected dress test challenge the generalization. Pause panels return to making more favourites together (S141–145). | SPECIFY relational participation with separate taste. No statement of relationship status or fully identical preferences. |
+| kyoh · *大好きなもの自慢大会 in ハワイ* | S137–145 | At the repeated Hawaii gathering Chisato announces the 196th meeting and Takina says it is the 17th. At the shore, Takina says a coconut drink they enjoyed together tasted too sweet when she tried it alone. She tells Chisato that hearing what Chisato likes can make her feel as though she herself liked those things all along (S141–142). Chisato points to the sunset when Takina notices her blush. Takina sees through Chisato’s claim to like cat-ear maid costumes. She agrees to keep finding favourites together (S143–145). | SPECIFY relational participation with separate taste. No statement of relationship status or fully identical preferences. |
 
 Creator notes appear in pairs at S29, S49, S71, S91, S113 and S135, with kyoh’s note at S146. S29 attributes the first four vignettes to their single credited artist. The KADOKAWA colophon at S152 identifies the 2023-12-27 edition, version 002. The logo pairs and S147 advertisement are kept outside the story count. Printed folio generally equals S minus 2.
 

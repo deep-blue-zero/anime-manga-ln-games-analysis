@@ -4,12 +4,14 @@ artifact_type: deep_reading
 generation: V2
 scope: RECOVERY_DAYS
 source_class: A2_CREATOR_PROXIMATE_SUPPLEMENTARY
-status: canonical
+status: provisional
 incoming_checkpoint: ORDINARY_DAYS_SOURCE_NATIVE
 source_boundary: Recovery days only for new narrative evidence
 ---
 
 # Recovery days · prose reading
+
+**Provisional reading.** The [coverage receipt](../../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) records the principal’s inspection and the independent readers’ work. Volume acceptance is pending.
 
 A late cinema ticket organizes the beginning and ending of the book. In between, a script, a professional duty, a revenge story, an illness and the conventions of a horror film each promise to tell a person what should happen next. The prose repeatedly grants a focalizer confidence in the rule and then puts some desired person or activity outside it. Recovery includes manuscript files, rest, a literal return to the café and the ability to entertain another plan. Each takes work from someone who might have preferred to leave it alone.
 
@@ -68,4 +70,4 @@ The author’s afterword identifies a mixture of official-note serialization and
 | RD-05 | 13.4–32, 13.519–636, 13.711–829 · EXTEND | Fuki’s interior conflict adds a source-local model of assigned duty and different attachments. Care for Mika, Takina, Chisato and Sakura has distinct contexts. |
 | RD-06 | 14.233–359 · SOURCE_SPECIFIC | Waking closeness and lexical ambiguity remain separable from a dream’s dating convention. |
 
-The book supplies local links between the artist’s work and the illness, the two cases and Takina’s later deployment while ill. The frame at 9→16→18 does not assign every intervening chapter to the same day or screening. Placement relative to a TV cut remains open. This pass covered all 3,559 narrative paragraphs, including both ending scenes, across principal sampling and independent full-component readings. Exact page metadata, testimony, rival focalized explanations and the unlisted continuation were checked by an independent reviewer. No prospective score is assigned where the shape of a story would reveal the resolution.
+The book supplies local links between the artist’s work and the illness, the two cases and Takina’s later deployment while ill. The frame at 9→16→18 does not assign every intervening chapter to the same day or screening. Placement relative to a TV cut remains open. Independent readers covered the 3,559 narrative paragraphs, including both ending scenes. The principal sampled the Japanese text. The original record gives no paragraph ranges for that sample. Exact page metadata, testimony, rival focalized explanations and the unlisted continuation were checked by an independent reviewer. No prospective score is assigned where the shape of a story would reveal the resolution.

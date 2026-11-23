@@ -4,11 +4,13 @@ artifact_type: deep_reading
 generation: V2
 scope: RELOAD02
 source_class: C1_MULTI_AUTHOR_LICENSED_INTERPRETATION
-status: canonical
+status: provisional
 source_boundary: Reload 02 only for new narrative evidence
 ---
 
 # Reload 02 · contributor readings
+
+**Provisional reading.** The [coverage receipt](../../../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) records the principal’s inspection and the independent readers’ work. Volume acceptance is pending.
 
 These fourteen comics give the idea of being looked after to people with different stakes. A cat can settle by withholding performance. An errand can reveal who already does work. An earlier colleague can be thanked without being reinstated. A visitor can misrecognize an agent online. Resolutions of one kind do not authorize the next contributor’s premise.
 

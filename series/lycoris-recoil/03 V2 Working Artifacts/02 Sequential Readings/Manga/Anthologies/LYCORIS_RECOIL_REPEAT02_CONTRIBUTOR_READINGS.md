@@ -4,11 +4,13 @@ artifact_type: deep_reading
 generation: V2
 scope: REPEAT02
 source_class: C1_MULTI_AUTHOR_LICENSED_INTERPRETATION
-status: canonical
+status: provisional
 source_boundary: Repeat 02 only for new narrative evidence
 ---
 
 # Repeat 02 · contributor readings
+
+**Provisional reading.** The [coverage receipt](../../../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) records the principal’s inspection and the independent readers’ work. Volume acceptance is pending.
 
 Making a picture enters the plot repeatedly in this volume. A documentary becomes a home movie, a group assesses portraits of one colleague, and a spontaneous selfie stays private. The question is often who will see an object and what they can reasonably infer from it. A successful work, meal or likeness does not settle everyone’s preferred public version of the café.
 
@@ -23,7 +25,7 @@ Japanese image EPUB, `04_books/manga/official_anthologies/Lycoris Recoil - Offic
 | 栗かのこ · *ティータイム・ミッション* | S51–58 | Takina invites Chisato out, says she is researching desserts and laughs when asked why she enjoyed herself. A mostly silent visit ends with calling the shop their place to return (S54–58). | SPECIFY attachment alongside work and teasing. The shots do not fix a single motive or publicity permission. |
 | ゆいち · *ワンカップ* | S61–72 | Takina wants a mascot to keep customers, and the team finds a usable design. Projected equipment, printing and distribution costs defeat the plan (S65–72). | EXTEND Takina’s taste and financial veto. Proposed campaign, measured demand and payback remain unshown. |
 | 森永ミキ · *たきな自撮りチャレンジ* | S75–82 | Three poses come out nearly identical. Mizuki explains her noticing Takina smile with Chisato, a spontaneous image is formed and Takina declines to post it (S76–82). | SPECIFY ownership of an image and a stated limit on publication. Mizuki gives an observation rather than an exclusive cause. |
-| 奈々鎌土 · *playing tag* | S85–90 | Takina intends to turn the tables with dessert. Chisato accepts the anticipated provocation and identifies the present moment as affecting her (S87–90). | EXTEND the different causes that can move play. A smile can preserve the difference between sincerity and another tease. |
+| 奈々鎌土 · *playing tag* | S85–90 | Takina hopes to fluster Chisato with a forkful of dessert. Chisato takes the bite immediately. When Takina asks what does fluster her, Chisato offers “now?” as a possible answer (S89–90). Takina takes her answer as another defeat and resolves to try again (S85–90). | EXTEND the different causes that can move play. A smile can preserve the difference between sincerity and another tease. |
 | しろううらやま · *締め切リコリス* | S93–102 | Pressure to finish a strip produces a bleak generated ending, Takina’s proposal for a mermaid’s new world, and a short verbal joke Mika selects. The deadline is met (S98–102). | SPECIFY competing frames for the commission. The short work selected and the longer story merely proposed deserve separate entries. |
 | 凡竜 · *夢の共同生活？* | S105–114 | Takina returns to an emergency plan with authorized overnight supplies. She explicitly calls the result a longer pajama party and leaves matching mugs as a proposal (S109–114). | PRESSURE an established cohabitation reading. There is genuine practical permission for this stay, with no proof of a permanent household. |
 | うたしま · *リコリコ・ゴクラク* | S117–121 | A little bath ritual with a toy duck leaves Kurumi overheated. Takina attends and Chisato helps. Singing and a drink supply the end image (S118–121). | SOURCE_SPECIFIC mixture of changing looked-at ages and sensory enjoyment. A presentation does not diagnose either health or age. |

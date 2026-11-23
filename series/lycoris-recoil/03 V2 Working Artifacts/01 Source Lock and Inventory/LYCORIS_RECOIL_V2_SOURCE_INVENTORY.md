@@ -225,7 +225,7 @@ CP5 freezes the anime-native baseline. A2, B1 and C1 work can now contribute thr
 
 ## 9. Supplementary coverage and remaining audit actions
 
-All 13 unique local EPUBs in the admitted narrative and reference inventory have been checked against their internal structure and analyzed. They contain three novels, two *Recollect* volumes, seven contributor-level anthologies and the *Heroine Archive*. The 1,099 anthology image leaves include 89 credited comic entries, grouped and individually bounded in the volume records. The second *Repeat 02* file is an exact duplicate. No additional local narrative ebook or standalone chapter was found outside these files. Edition side matter, story frames, bonuses, insets and the production interviews are accounted for in their source-local records.
+The 13 inventoried EPUBs comprise three novels, two *Recollect* volumes, seven contributor-level anthologies and the *Heroine Archive*. The three A2, two B1 and seven C1 records are provisional. The [coverage receipt](../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) identifies which pages or components the principal and independent readers inspected. The 1,099 anthology image leaves include 89 credited comic entries, grouped and individually bounded in the volume records. The second *Repeat 02* file is an exact duplicate. No additional local narrative ebook or standalone chapter was found outside these files. Edition side matter, story frames, bonuses, insets and the production interviews are accounted for in their source-local records.
 
 The primary-source corpus is sufficiently audited to proceed with V2 method/infrastructure initialization. Remaining non-blocking or downstream audit work:
 
@@ -236,6 +236,8 @@ The primary-source corpus is sufficiently audited to proceed with V2 method/infr
 5. record any supplied continuous-video escalation clips/episodes in the evidence index rather than publishing the 20 GB media tree wholesale.
 
 ## 10. Initialization consequence
+
+The following flags record holdings and the gate at initialization. The current corpus map governs analytical acceptance.
 
 **SOURCE_RECONNAISSANCE_COMPLETE = true**  
 **SOURCE_INVENTORY_INITIALIZED = true**  

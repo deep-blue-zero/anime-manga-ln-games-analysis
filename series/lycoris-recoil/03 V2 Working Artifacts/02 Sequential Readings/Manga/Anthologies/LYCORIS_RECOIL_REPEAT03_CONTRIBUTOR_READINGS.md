@@ -4,11 +4,13 @@ artifact_type: deep_reading
 generation: V2
 scope: REPEAT03
 source_class: C1_MULTI_AUTHOR_LICENSED_INTERPRETATION
-status: canonical
+status: provisional
 source_boundary: Repeat 03 only for new narrative evidence
 ---
 
 # Repeat 03 · contributor readings
+
+**Provisional reading.** The [coverage receipt](../../../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) records the principal’s inspection and the independent readers’ work. Volume acceptance is pending.
 
 How one is seen becomes a material problem. A stiff photograph improves once its maker stops trying to look perfect. A virtual room conceals the person behind it. A shop trains attention on the wrong clues to age, while a person actually wearing a costume can still refuse the question. The softer night scenes let participants renegotiate how much reassurance they want.
 

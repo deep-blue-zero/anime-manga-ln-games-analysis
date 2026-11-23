@@ -4,11 +4,13 @@ artifact_type: deep_reading
 generation: V2
 scope: RECOLLECT_V02
 source_class: B1_OFFICIAL_SINGLE_AUTHOR_DERIVATIVE
-status: canonical
+status: provisional
 source_boundary: Recollect volume 02 only for new narrative evidence
 ---
 
 # Recollect V02 · manga reading
+
+**Provisional reading.** The [coverage receipt](../../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) records the principal’s inspection and the independent readers’ work. Volume acceptance is pending.
 
 Abe Kanari’s second collection repeatedly lets someone set the terms of cooperation before someone else asks what those terms cover. Chisato calls it partnership when two people fill each other’s gaps. Takina reminds her that she may leave. A host treats a security arrangement as a sleepover. A loophole resolves a game about excitement and reopens disputes about fairness. Such disputes give the characters things they can still do together. The book also asks who can see the difference between a staged image, a club anecdote and an actual danger.
 

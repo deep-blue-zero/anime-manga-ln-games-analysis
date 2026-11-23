@@ -4,11 +4,13 @@ artifact_type: deep_reading
 generation: V2
 scope: REPEAT
 source_class: C1_MULTI_AUTHOR_LICENSED_INTERPRETATION
-status: canonical
+status: provisional
 source_boundary: Repeat only for new narrative evidence
 ---
 
 # Repeat · contributor readings
+
+**Provisional reading.** The [coverage receipt](../../../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) records the principal’s inspection and the independent readers’ work. Volume acceptance is pending.
 
 The first *Repeat* contains fourteen comics and five credited opening illustration pages. Its premise shifts from serving a guest to changing appearance, trying a date and making another person feel safe enough to sleep. Short bursts of highly elastic drawing sit beside a small face or object that controls who knows what. The same physical gesture can carry embarrassment, comfort, fatigue or the effects of being directed, depending on each contributor’s premise.
 
@@ -27,7 +29,7 @@ Japanese image EPUB, `04_books/manga/official_anthologies/Lycoris Recoil - Offic
 | 森永ミキ · *ふたりで一緒に* | S111–120 | A discounted fruit and remembered mockery precede a dessert devised jointly. Takina likes a resemblance to Chisato. Public opinion attaches a monster-parfait name (S117–120). | EXTEND co-creation. Two readings of the product can be real simultaneously. The comic does not revise TV or Short 03 finances. |
 | 桜木蓮 · *甘いものは別腹！* | S121–136 | Mirrored faces and a mishap distinguish teasing from painless competence. When a favourite crêpe shop closes, Takina proposes finding another. She declines doubling the next order (S124–136). | EXTEND shared appetite, future initiative and specific refusal. The second outing remains prospective. |
 | 如意自在 · *節約戦士たきなさん* | S139–150 | A balance with little left prompts Takina’s drastic economies. Chisato spends more than the savings on a fragrance she thinks suits Takina. Takina recognizes the gift and calculates the overrun (S141–150). | CARICATURE of economy with real source-local valuing. No lasting salary or household inference. |
-| GUNP · *ハグとリコイル* | S151–158 | Takina sees through a proposed therapeutic pretext, offers an embrace and confirms it twice. She recognizes her own comfort. Both agree to a further hug (S153–158). | EXTEND explicitly negotiated closeness in this comic. The writer’s friendship comment and the characters’ assent answer different questions. |
+| GUNP · *ハグとリコイル* | S151–158 | Chisato asks for a hug and cites its soothing effect. Takina opens her arms and confirms the offer when Chisato asks again (S151–154). Afterward Takina says the hug soothed her too. Chisato asks directly for another, Takina agrees, and the last panel shows the second hug (S155–158). | EXTEND explicitly negotiated closeness in this comic. The writer’s friendship comment and the characters’ assent answer different questions. |
 | そめちめ · *Live the Life you Love* | S161–164 | Chisato values what people give her beyond medals. Takina makes a paper medal using what local children showed her. Chisato asks to wear it (S163–164). | EXTEND practical gratitude. A joking first prize does not alter formal rank. |
 | めきめき · *某日某潜伏場所にて…* | S165–176 | The opening clock and unexpected sleeping cook assign the scene to a task. Chisato reads fatigue. Takina’s narration gives feeling safe as her reason for sleeping so deeply, while her spoken blame leaves Chisato guessing (S173–176). | SOURCE_SPECIFIC direct cognition. Her private account does not become Chisato’s knowledge, or confirm future cohabitation. |
 

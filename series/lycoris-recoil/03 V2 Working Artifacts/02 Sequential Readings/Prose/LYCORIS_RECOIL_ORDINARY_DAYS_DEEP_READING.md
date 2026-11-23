@@ -4,12 +4,14 @@ artifact_type: deep_reading
 generation: V2
 scope: ORDINARY_DAYS
 source_class: A2_CREATOR_PROXIMATE_SUPPLEMENTARY
-status: canonical
+status: provisional
 incoming_checkpoint: CP5_ANIME_NATIVE_FINAL
 source_boundary: Ordinary days only for new narrative evidence
 ---
 
 # Ordinary days · prose reading
+
+**Provisional reading.** The [coverage receipt](../../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) records the principal’s inspection and the independent readers’ work. Volume acceptance is pending.
 
 Asaura gives the café two kinds of publicity. A magazine can identify a shop, categorize it and bring strangers to its door. A visit can give a stranger a regular order, a seat at a game or someone to ask for help. Tokuda initially wants credit for making the place visible. After Mika declines the interview, Tokuda keeps the relationship and writes a different article. The book has enough room for his professional motives because it continually leaves him. A café patron, a fugitive, Takina and a girl under pressure from adults each have a different reason to misread the same institution.
 

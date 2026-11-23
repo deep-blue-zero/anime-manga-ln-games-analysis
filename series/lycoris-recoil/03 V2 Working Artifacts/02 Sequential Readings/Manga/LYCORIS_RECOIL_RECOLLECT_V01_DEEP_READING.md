@@ -4,11 +4,13 @@ artifact_type: deep_reading
 generation: V2
 scope: RECOLLECT_V01
 source_class: B1_OFFICIAL_SINGLE_AUTHOR_DERIVATIVE
-status: canonical
+status: provisional
 source_boundary: Recollect volume 01 only for new narrative evidence
 ---
 
 # Recollect V01 · manga reading
+
+**Provisional reading.** The [coverage receipt](../../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) records the principal’s inspection and the independent readers’ work. Volume acceptance is pending.
 
 Abe Kanari repeatedly puts a person’s wrong definition of a task on one side of a page turn and its consequence on the other. A mission briefing becomes a lesson about smiling. Film homework becomes an argument over whether the credits count. A wager supplies a theory of customer service and ends before anyone can collect. The captioned institutional opening makes work at the café look like a departure from the Lycoris role. The chapters then find work, interpretation and disagreement waiting there too.
 
