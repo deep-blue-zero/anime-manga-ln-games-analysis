@@ -47,7 +47,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shiboyugi`](characters/index/shiboyugi.md) | 13 |
-| [`shine-post`](characters/index/shine-post.md) | 8 |
+| [`shine-post`](characters/index/shine-post.md) | 13 |
 | [`shokugeki-no-soma`](characters/index/shokugeki-no-soma.md) | 17 |
 | [`shuukura`](characters/index/shuukura.md) | 5 |
 | [`silent-witch`](characters/index/silent-witch.md) | 4 |
@@ -268,10 +268,12 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Hisakawa Nagi](characters/index/the-idolmaster.md#hisakawa-nagi) | Cinderella Girls mobile games | `the-idolmaster:hisakawa-nagi@cinderella-girls-mobile-games` | — |
 | [Historia Reiss](characters/index/attack-on-titan.md#historia-reiss) | Attack on Titan manga | `attack-on-titan:historia-reiss@manga` | — |
 | [Hojo Karen](characters/index/the-idolmaster.md#hojo-karen) | Cinderella Girls mobile games | `the-idolmaster:hojo-karen@cinderella-girls-mobile-games` | — |
+| [Homare](characters/index/shine-post.md#homare) | SHINE POST television anime | `shine-post:homare@television-anime` | 虎渡誉 |
 | [Honami](characters/index/project-sekai.md#honami) | Project SEKAI game — Leo/need | `project-sekai:honami@game` | — |
 | [Hoost](characters/index/konosuba.md#hoost) | Original light-novel continuity, bounded character study | `konosuba:hoost@original-light-novel` | Horst; ホースト |
 | [Horikita Suzune](characters/index/classroom-of-the-elite.md#horikita-suzune) | Classroom of the Elite original light novels through Year 2 | `classroom-of-the-elite:horikita-suzune@original-light-novels-through-year-2` | — |
 | [Hoshino](characters/index/blue-archive.md#hoshino) | Blue Archive game | `blue-archive:hoshino@game` | — |
+| [Hotaru](characters/index/shine-post.md#hotaru) | SHINE POST television anime | `shine-post:hotaru@television-anime` | ケイ; 松口螢; Kei |
 | [Hotaru Mizushina](characters/index/ntr-netsuzou-trap.md#hotaru-mizushina) | Japanese manga continuity | `ntr-netsuzou-trap:hotaru-mizushina@manga` | — |
 | [Hyodo Shizuku](characters/index/idoly-pride.md#hyodo-shizuku) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:hyodo-shizuku@v2-cross-media` | — |
 | [Hyoizaburoo](characters/index/konosuba.md#hyoizaburoo) | Original light-novel continuity, scoped current monograph | `konosuba:hyoizaburoo@original-light-novel` | ひょいざぶろー |
@@ -451,6 +453,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Nakiri Mana](characters/index/shokugeki-no-soma.md#nakiri-mana) | Shokugeki no Soma manga | `shokugeki-no-soma:nakiri-mana@manga` | — |
 | [Nakiri Senzaemon](characters/index/shokugeki-no-soma.md#nakiri-senzaemon) | Shokugeki no Soma manga | `shokugeki-no-soma:nakiri-senzaemon@manga` | — |
 | [Nanahoshi Shizuka](characters/index/mushoku-tensei.md#nanahoshi) | Japanese light-novel continuity | `mushoku-tensei:nanahoshi@light-novel` | — |
+| [Nanami](characters/index/shine-post.md#nanami) | SHINE POST television anime | `shine-post:nanami@television-anime` | 兎塚七海 |
 | [Narita Tsugumi](characters/index/tomozaki.md#narita-tsugumi) | Bottom-Tier Character Tomozaki light novel | `tomozaki:narita-tsugumi@light-novel` | 成田つぐみ; Gumi |
 | [Narumiya Suzu](characters/index/idoly-pride.md#narumiya-suzu) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:narumiya-suzu@v2-cross-media` | — |
 | [Natsubayashi Hanabi](characters/index/tomozaki.md#natsubayashi-hanabi) | Bottom-Tier Character Tomozaki light novel | `tomozaki:natsubayashi-hanabi@light-novel` | — |
@@ -537,6 +540,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Sakura](characters/index/tokyo-7th-sisters.md#sakura-child) | Tokyo 7th Sisters game | `tokyo-7th-sisters:sakura-child@game` | — |
 | [Saori](characters/index/blue-archive.md#saori) | Blue Archive game | `blue-archive:saori@game` | — |
 | [Sara](characters/index/mushoku-tensei.md#sara) | Japanese light-novel continuity | `mushoku-tensei:sara@light-novel` | — |
+| [Sato](characters/index/shine-post.md#sato) | SHINE POST television anime | `shine-post:sato@television-anime` | サトウ; 佐藤慎子 |
 | [Satou Kazuma](characters/index/konosuba.md#satou-kazuma) | Original light-novel continuity, main-principal and expanded analysis | `konosuba:satou-kazuma@original-light-novel` | — |
 | [Sayuri Ichinose](characters/index/rent-a-girlfriend.md#sayuri-ichinose) | Main manga continuity | `rent-a-girlfriend:sayuri-ichinose@manga` | — |
 | [Scarf Echidna](characters/index/re-zero.md#scarf-echidna) | Re:Zero main light novel | `re-zero:scarf-echidna@light-novel` | Echidna; 襟ドナ |
@@ -615,6 +619,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Tia](characters/index/konosuba.md#tia) | Original light-novel continuity, scoped cohort monograph | `konosuba:tia@original-light-novel` | ティア |
 | [Todoroki Shoto](characters/index/my-hero-academia.md#todoroki-shoto) | My Hero Academia manga | `my-hero-academia:todoroki-shoto@manga` | — |
 | [Togata Mirio](characters/index/my-hero-academia.md#togata-mirio) | My Hero Academia manga | `my-hero-academia:togata-mirio@manga` | — |
+| [Tokka](characters/index/shine-post.md#tokka) | SHINE POST television anime | `shine-post:tokka@television-anime` | トッカ |
 | [Tokoyami Fumikage](characters/index/my-hero-academia.md#tokoyami-fumikage) | My Hero Academia manga | `my-hero-academia:tokoyami-fumikage@manga` | — |
 | [Tomozaki](characters/index/tomozaki.md#tomozaki) | Bottom-Tier Character Tomozaki light novel | `tomozaki:tomozaki@light-novel` | — |
 | [Totsuki Sheena](characters/index/kimishinu.md#totsuki-sheena) | KimiShinu manga through Volume 9 and side stories | `kimishinu:totsuki-sheena@manga-v09-side-stories` | トツキ・シーナ |

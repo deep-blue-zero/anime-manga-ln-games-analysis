@@ -25,10 +25,12 @@ Reviewed analysis subjects in the `shine-post` namespace of the [Character Analy
   - _None._
 - Analytical coverage:
   - `gionji-yukine-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12; the shared YukiMoji artifact contains separately substantial sections for both Momiji and Yukine.; continuity `shine-post-television-anime`
-  - `v2-tv-e02-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 2-12 (from Gionji Yukine's first dedicated SPV2-CH-DOOR-COMPANION record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation; disputed perceptual cases still await fresh source reinspection and human adjudication, and no V2 monograph exists.; continuity `shine-post-television-anime`
+  - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Gionji Yukine at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+  - `v2-tv-e02-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 2-12 (from Gionji Yukine's first dedicated SPV2-CH-DOOR-COMPANION record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation, the completed source adjudications and the E12 monograph acceptance.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-momiji-yukine-character-deep-dive` — SHINEPOST MOMIJI YUKINE CHARACTER DEEP DIVE](../../series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_MOMIJI_YUKINE_CHARACTER_DEEP_DIVE.md)
-  - [`v2-character-state-ledger` — Yukine records SPV2-CH-DOOR-COMPANION E02-E12 and the E12 first-pass qualification in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
+  - [`v2-character-monograph` — V2 E01-E12 character monograph of Gionji Yukine](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_YUKINE_E01_E12_CHARACTER_MONOGRAPH.md)
+  - [`v2-character-state-ledger` — Yukine records SPV2-CH-DOOR-COMPANION E02-E12 and the E12 monograph acceptance in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
   - [`v2-relationship-ledger` — Yukine routes with Momiji, Haru, Kyoka, Rio, Ren, Naoki, Yuki and her mother in the V2 relationship ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_RELATIONSHIP_LEDGER.md)
 
 <a id="hinase-naoki"></a>
@@ -49,11 +51,13 @@ Reviewed analysis subjects in the `shine-post` namespace of the [Character Analy
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `hinase-naoki-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12; the shared YukiMoji artifact contains separately substantial sections for both Momiji and Yukine.; continuity `shine-post-television-anime`
-  - `v2-tv-e01-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-12 (from Hinase Naoki's first dedicated SPV2-CH-NAOKI record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation; disputed perceptual cases still await fresh source reinspection and human adjudication, and no V2 monograph exists.; continuity `shine-post-television-anime`
+  - `hinase-naoki-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12.; continuity `shine-post-television-anime`
+  - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Hinase Naoki at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+  - `v2-tv-e01-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-12 (from Hinase Naoki's first dedicated SPV2-CH-NAOKI record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation, the completed source adjudications and the E12 monograph acceptance.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-naoki-hinase-character-deep-dive` — SHINEPOST NAOKI HINASE CHARACTER DEEP DIVE](../../series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_NAOKI_HINASE_CHARACTER_DEEP_DIVE.md)
-  - [`v2-character-state-ledger` — Naoki records SPV2-CH-NAOKI E01-E12 and the E12 first-pass qualification in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
+  - [`v2-character-monograph` — V2 E01-E12 character monograph of Hinase Naoki](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_NAOKI_E01_E12_CHARACTER_MONOGRAPH.md)
+  - [`v2-character-state-ledger` — Naoki records SPV2-CH-NAOKI E01-E12 and the E12 monograph acceptance in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
   - [`v2-relationship-ledger` — Naoki routes with the trio and the five, Yuki, Kei, Kikuchi, Nanami and Sato in the V2 relationship ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_RELATIONSHIP_LEDGER.md)
 
 <a id="hinase-yuki"></a>
@@ -69,15 +73,63 @@ Reviewed analysis subjects in the `shine-post` namespace of the [Character Analy
 - Analysis subject ID: `shine-post:hinase-yuki@television-anime`
 - Series: `shine-post`
 - Continuity: `shine-post-television-anime`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `v2-tv-e01-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-12 (from Hinase Yuki's first dedicated SPV2-CH-YUKI record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation; disputed perceptual cases still await fresh source reinspection and human adjudication, and no V2 monograph exists.; continuity `shine-post-television-anime`
+  - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Hinase Yuki at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+  - `v2-tv-e01-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-12 (from Hinase Yuki's first dedicated SPV2-CH-YUKI record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation, the completed source adjudications and the E12 monograph acceptance.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
-  - [`v2-character-state-ledger` — Yuki records SPV2-CH-YUKI E01-E12 and the E12 first-pass qualification in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
+  - [`v2-character-monograph` — V2 E01-E12 character monograph of Hinase Yuki](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_YUKI_E01_E12_CHARACTER_MONOGRAPH.md)
+  - [`v2-character-state-ledger` — Yuki records SPV2-CH-YUKI E01-E12 and the E12 monograph acceptance in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
   - [`v2-relationship-ledger` — Yuki routes with Naoki, the trio, Haru, Kyoka, Rio, Yukine, Momiji and Nanami in the V2 relationship ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_RELATIONSHIP_LEDGER.md)
+
+<a id="homare"></a>
+
+### Homare
+
+- Entity ID: `shine-post:homare`
+- Entity aliases:
+  - 虎渡誉 (ja, ORIGINAL_SCRIPT) — Credited name; the analysis gives no verified Latin reading of the family name.
+
+#### Subject: SHINE POST television anime
+
+- Analysis subject ID: `shine-post:homare@television-anime`
+- Series: `shine-post`
+- Continuity: `shine-post-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Homare at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+- Reviewed current evidence:
+  - [`v2-character-monograph` — V2 E01-E12 character monograph of Homare](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_HOMARE_E01_E12_CHARACTER_MONOGRAPH.md)
+
+<a id="hotaru"></a>
+
+### Hotaru
+
+- Entity ID: `shine-post:hotaru`
+- Entity aliases:
+  - ケイ (ja, ALTERNATIVE) — Display name on Naoki's phone; E12 binds Kei and Hotaru as one person (SPV2-CH-KEI routes the earlier encounters).
+  - 松口螢 (ja, ORIGINAL_SCRIPT) — Billed name; the analysis leaves the precise reading of every form open.
+  - Kei (ja-latn, TRANSLITERATION)
+
+#### Subject: SHINE POST television anime
+
+- Analysis subject ID: `shine-post:hotaru@television-anime`
+- Series: `shine-post`
+- Continuity: `shine-post-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Hotaru at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+- Reviewed current evidence:
+  - [`v2-character-monograph` — V2 E01-E12 character monograph of Hotaru](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_HOTARU_E01_E12_CHARACTER_MONOGRAPH.md)
 
 <a id="ito-momiji"></a>
 
@@ -98,10 +150,12 @@ Reviewed analysis subjects in the `shine-post` namespace of the [Character Analy
   - _None._
 - Analytical coverage:
   - `ito-momiji-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12; the shared YukiMoji artifact contains separately substantial sections for both Momiji and Yukine.; continuity `shine-post-television-anime`
-  - `v2-tv-e02-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 2-12 (from Ito Momiji's first dedicated SPV2-CH-MOMIJI record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation; disputed perceptual cases still await fresh source reinspection and human adjudication, and no V2 monograph exists.; continuity `shine-post-television-anime`
+  - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Ito Momiji at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+  - `v2-tv-e02-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 2-12 (from Ito Momiji's first dedicated SPV2-CH-MOMIJI record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation, the completed source adjudications and the E12 monograph acceptance.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-momiji-yukine-character-deep-dive` — SHINEPOST MOMIJI YUKINE CHARACTER DEEP DIVE](../../series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_MOMIJI_YUKINE_CHARACTER_DEEP_DIVE.md)
-  - [`v2-character-state-ledger` — Momiji records SPV2-CH-MOMIJI E02-E12 and the E12 first-pass qualification in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
+  - [`v2-character-monograph` — V2 E01-E12 character monograph of Ito Momiji](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_MOMIJI_E01_E12_CHARACTER_MONOGRAPH.md)
+  - [`v2-character-state-ledger` — Momiji records SPV2-CH-MOMIJI E02-E12 and the E12 monograph acceptance in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
   - [`v2-relationship-ledger` — Momiji routes with Yukine, Rio, Haru, Kyoka, Ren, Naoki, Yuki and her fan in the V2 relationship ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_RELATIONSHIP_LEDGER.md)
 
 <a id="kurogane-ren"></a>
@@ -122,11 +176,13 @@ Reviewed analysis subjects in the `shine-post` namespace of the [Character Analy
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `kurogane-ren-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12; the shared YukiMoji artifact contains separately substantial sections for both Momiji and Yukine.; continuity `shine-post-television-anime`
-  - `v2-tv-e09-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 9-12 (from Kurogane Ren's first dedicated SPV2-CH-REN record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation; disputed perceptual cases still await fresh source reinspection and human adjudication, and no V2 monograph exists.; continuity `shine-post-television-anime`
+  - `kurogane-ren-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12.; continuity `shine-post-television-anime`
+  - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Kurogane Ren at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+  - `v2-tv-e09-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 9-12 (from Kurogane Ren's first dedicated SPV2-CH-REN record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation, the completed source adjudications and the E12 monograph acceptance.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-kurogane-ren-character-deep-dive` — SHINEPOST KUROGANE REN CHARACTER DEEP DIVE](../../series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_KUROGANE_REN_CHARACTER_DEEP_DIVE.md)
-  - [`v2-character-state-ledger` — Ren records SPV2-CH-REN E09-E12 and the E12 first-pass qualification in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
+  - [`v2-character-monograph` — V2 E01-E12 character monograph of Kurogane Ren](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_REN_E01_E12_CHARACTER_MONOGRAPH.md)
+  - [`v2-character-state-ledger` — Ren records SPV2-CH-REN E09-E12 and the E12 monograph acceptance in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
   - [`v2-relationship-ledger` — Ren routes with Haru, Homare, her four colleagues, the TINGS members and Naoki in the V2 relationship ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_RELATIONSHIP_LEDGER.md)
 
 <a id="nabatame-haru"></a>
@@ -143,16 +199,63 @@ Reviewed analysis subjects in the `shine-post` namespace of the [Character Analy
 - Series: `shine-post`
 - Continuity: `shine-post-television-anime`
 - Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `nabatame-haru-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12; the shared YukiMoji artifact contains separately substantial sections for both Momiji and Yukine.; continuity `shine-post-television-anime`
-  - `v2-tv-e01-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-12 (from Nabatame Haru's first dedicated SPV2-CH-HARU record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation; disputed perceptual cases still await fresh source reinspection and human adjudication, and no V2 monograph exists.; continuity `shine-post-television-anime`
+  - `nabatame-haru-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12.; continuity `shine-post-television-anime`
+  - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Nabatame Haru at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+  - `v2-tv-e01-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-12 (from Nabatame Haru's first dedicated SPV2-CH-HARU record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation, the completed source adjudications and the E12 monograph acceptance.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-nabatame-haru-character-deep-dive` — SHINEPOST NABATAME HARU CHARACTER DEEP DIVE](../../series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_NABATAME_HARU_CHARACTER_DEEP_DIVE.md)
-  - [`v2-character-state-ledger` — Haru records SPV2-CH-HARU E01-E12 and the E12 first-pass qualification in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
+  - [`v2-character-monograph` — V2 E01-E12 character monograph of Nabatame Haru](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_HARU_E01_E12_CHARACTER_MONOGRAPH.md)
+  - [`v2-character-state-ledger` — Haru records SPV2-CH-HARU E01-E12 and the E12 monograph acceptance in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
   - [`v2-relationship-ledger` — Haru routes with Ren, Kyoka, Rio, Yukine, Momiji, Naoki, Yuki, Homare, Hotaru and fans in the V2 relationship ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_RELATIONSHIP_LEDGER.md)
+
+<a id="nanami"></a>
+
+### Nanami
+
+- Entity ID: `shine-post:nanami`
+- Entity aliases:
+  - 兎塚七海 (ja, ORIGINAL_SCRIPT) — Written form kept by the acceptance review, which removed an unverified Latin spelling.
+
+#### Subject: SHINE POST television anime
+
+- Analysis subject ID: `shine-post:nanami@television-anime`
+- Series: `shine-post`
+- Continuity: `shine-post-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Nanami at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+- Reviewed current evidence:
+  - [`v2-character-monograph` — V2 E01-E12 character monograph of Nanami](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_NANAMI_E01_E12_CHARACTER_MONOGRAPH.md)
+
+<a id="sato"></a>
+
+### Sato
+
+- Entity ID: `shine-post:sato`
+- Entity aliases:
+  - サトウ (ja, ALTERNATIVE) — Self-introduction on the E05 shoot.
+  - 佐藤慎子 (ja, ORIGINAL_SCRIPT) — E09 credit.
+
+#### Subject: SHINE POST television anime
+
+- Analysis subject ID: `shine-post:sato@television-anime`
+- Series: `shine-post`
+- Continuity: `shine-post-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Sato at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+- Reviewed current evidence:
+  - [`v2-character-monograph` — V2 E01-E12 character monograph of Sato](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_SATO_E01_E12_CHARACTER_MONOGRAPH.md)
 
 <a id="seibu-rio"></a>
 
@@ -172,11 +275,13 @@ Reviewed analysis subjects in the `shine-post` namespace of the [Character Analy
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `seibu-rio-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12; the shared YukiMoji artifact contains separately substantial sections for both Momiji and Yukine.; continuity `shine-post-television-anime`
-  - `v2-tv-e01-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-12 (from Seibu Rio's first dedicated SPV2-CH-RIO record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation; disputed perceptual cases still await fresh source reinspection and human adjudication, and no V2 monograph exists.; continuity `shine-post-television-anime`
+  - `seibu-rio-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12.; continuity `shine-post-television-anime`
+  - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Seibu Rio at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+  - `v2-tv-e01-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-12 (from Seibu Rio's first dedicated SPV2-CH-RIO record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation, the completed source adjudications and the E12 monograph acceptance.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-seibu-rio-character-deep-dive` — SHINEPOST SEIBU RIO CHARACTER DEEP DIVE](../../series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_SEIBU_RIO_CHARACTER_DEEP_DIVE.md)
-  - [`v2-character-state-ledger` — Rio records SPV2-CH-RIO E01-E12 and the E12 first-pass qualification in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
+  - [`v2-character-monograph` — V2 E01-E12 character monograph of Seibu Rio](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_RIO_E01_E12_CHARACTER_MONOGRAPH.md)
+  - [`v2-character-state-ledger` — Rio records SPV2-CH-RIO E01-E12 and the E12 monograph acceptance in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
   - [`v2-relationship-ledger` — Rio routes with Haru, Kyoka, Momiji, Yukine, Naoki, Nanami, Aoi, Yuki and fans in the V2 relationship ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_RELATIONSHIP_LEDGER.md)
 
 <a id="tamaki-kyoka"></a>
@@ -193,13 +298,37 @@ Reviewed analysis subjects in the `shine-post` namespace of the [Character Analy
 - Series: `shine-post`
 - Continuity: `shine-post-television-anime`
 - Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `tamaki-kyoka-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12; the shared YukiMoji artifact contains separately substantial sections for both Momiji and Yukine.; continuity `shine-post-television-anime`
-  - `v2-tv-e01-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-12 (from Tamaki Kyoka's first dedicated SPV2-CH-KYOKA record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation; disputed perceptual cases still await fresh source reinspection and human adjudication, and no V2 monograph exists.; continuity `shine-post-television-anime`
+  - `tamaki-kyoka-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12.; continuity `shine-post-television-anime`
+  - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Tamaki Kyoka at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+  - `v2-tv-e01-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-12 (from Tamaki Kyoka's first dedicated SPV2-CH-KYOKA record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation, the completed source adjudications and the E12 monograph acceptance.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-tamaki-kyoka-character-deep-dive` — SHINEPOST TAMAKI KYOKA CHARACTER DEEP DIVE](../../series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_TAMAKI_KYOKA_CHARACTER_DEEP_DIVE.md)
-  - [`v2-character-state-ledger` — Kyoka records SPV2-CH-KYOKA E01-E12 and the E12 first-pass qualification in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
+  - [`v2-character-monograph` — V2 E01-E12 character monograph of Tamaki Kyoka](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_KYOKA_E01_E12_CHARACTER_MONOGRAPH.md)
+  - [`v2-character-state-ledger` — Kyoka records SPV2-CH-KYOKA E01-E12 and the E12 monograph acceptance in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
   - [`v2-relationship-ledger` — Kyoka routes with Haru, Rio, Yukine, Momiji, Ren, Naoki, Yuki, Tokka, her schoolfriend and fans in the V2 relationship ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_RELATIONSHIP_LEDGER.md)
+
+<a id="tokka"></a>
+
+### Tokka
+
+- Entity ID: `shine-post:tokka`
+- Entity aliases:
+  - トッカ (ja, ORIGINAL_SCRIPT) — Kyoka addresses her as トッカさん; no surname is given.
+
+#### Subject: SHINE POST television anime
+
+- Analysis subject ID: `shine-post:tokka@television-anime`
+- Series: `shine-post`
+- Continuity: `shine-post-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Tokka at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+- Reviewed current evidence:
+  - [`v2-character-monograph` — V2 E01-E12 character monograph of Tokka](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_TOKKA_E01_E12_CHARACTER_MONOGRAPH.md)
