@@ -7,8 +7,8 @@ series_id: shine-post
 generation: V2
 version: "1.0"
 status: canonical
-authority_scope: "Musical events, performed voice, sound and visual form; independent episode records"
-source_boundary: "Japanese television anime E01–E12 independently accepted under the owner’s bundle-and-measurement scope."
+authority_scope: "Musical events, performed voice, sound and visual form; independent and dated post-freeze comparison records"
+source_boundary: "Japanese television anime E01–E12. Independent bundle-and-measurement acceptance followed by direct comparison with the registered Gemini generation."
 canonical_home: series/shine-post/V2 Analysis/03 Longitudinal Ledgers/SHINEPOST_V2_PERFORMANCE_AND_FORM_LEDGER.md
 created: 2026-11-19
 supersedes: []
@@ -20,6 +20,8 @@ do_not_use_as_literary_evidence: false
 # SHINE POST V2 — Performance and Form Ledger
 
 ## Responsibility and present state
+
+The independent ledger runs through E12. Dated appendices give the changes supported by the direct E01–E12 comparison, including the cases reserved for fresh source inspection. [Comparison and adjudication audit](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_CROSS_MODEL_RECONCILIATION_AUDIT.md)
 
 This ledger owns cumulative musical-event and audiovisual-form records under [method §6](../00%20Frameworks/SHINEPOST_V2_ANALYTICAL_METHOD.md#6-music-performance-and-visual-form) and the [AV protocol](../00%20Frameworks/SHINEPOST_V2_AV_RECONCILIATION_AND_INTAKE_PROTOCOL.md). The independent episode sections record musical events and performance questions. V1's Yellow Rose analysis remains a V1 route, not a preaccepted V2 event record.
 
@@ -807,3 +809,139 @@ School life and a Brightest summons precede Yuki’s alarming declaration that T
 The office exterior extends through original 1285.7. White transition by original 1287.4, early club imagery by 1290.2. A colored inset plays on white beside handwritten-style credits, replacing the usual closing visual sequence. Early club trio and manager, Nataliya with Haru, a small audience including Tokka, training and Rio at her fixed microphone lead toward fireworks, Haru and Ren, HY:RAIN onstage, Haru in the club, and the present large Nakano performance. The sequence then moves back through five at their small club, Hotaru’s Budokan, earlier spectators and the white-lit anniversary house. Naoki and the distant concert close the sequence, followed by the production committee card at original 1367.5–1369.5 and black by f1276/1369.952. Fresh samples 1369.97, 1370.45 and 1370.94 are black to the final video PTS 1370.995. The Budokan invitation occurs before the credits. There is no separate dramatic postcredit scene.
 
 The television viewer sees this sequence across venues and historical occasions. The people in the anniversary house have no access to the televised montage. A fan seen at one show can be recognized as a performer at another. JP 1102–1111/raw 323–332 (1305.00–1363.17) moves through walking before meeting, people constituting one picture, differences, a shared palette, a possible future and affection. Its native ED card f1267/1345.261 credits パレットガールズ, words ヤマダヒロシ, music and arrangement コモリタミノル, sung by the same five TINGS. Nine two-second windows across 1288–1367.5 align with E11 at a consistent +.084 s, r .973–.996, supporting reuse of the recording across a changed visual edit. AM 1305–1363.17 −20.45, tail to 1371.035 −23.05. The inset does not add fresh anniversary songs or performances, even where it draws on SPV2-PF-E09-09 or SPV2-PF-E11-08. The ending recording connects the pictures of these past rooms, with the cross-episode reuse supported by waveform similarity. Individual voice, continuous choreography and the identity of any unrelated incidental underscoring remain OPEN. SPV2-OBS-E12-73, SPV2-OBS-E12-74, SPV2-CLM-E12-72, SPV2-CLM-E12-73.
+
+## 2026-11-22 · Cross-model reconciliation, E01–E09
+
+This dated addition preserves the accepted episode-history entries. Each locator below identifies an individual comparison finding and its side-specific evidence. The original analytical freeze precedes the comparative reading.
+
+### E01 · Who gets to shine
+
+Frozen episode reading dated 2026-11-20 · 9553db36c459e0297dbabf8a269c90a73e69b0a5.
+
+**Budokan, Bright Station and the rehearsal.** The large stage, eight distinguishable club spectators and later studio practice have separate audiences and jobs. Reported playback, individual layers and whether the club hears Haru’s private question remain bounded. The rehearsal makes movement available for judgment; the subsequent answers alter the managerial trial.
+
+Comparison findings · E01-X001, E01-X003, E01-X004, E01-X005, E01-X006, E01-X023, E01-X024, E01-X026, E01-X029.
+
+Earlier evidence and claims · SPV2-CLM-E01-01, SPV2-CLM-E01-02, SPV2-CLM-E01-13, SPV2-CLM-E01-14, SPV2-CLM-E01-16, SPV2-OBS-E01-01, SPV2-OBS-E01-02, SPV2-OBS-E01-16, SPV2-OBS-E01-20, SPV2-OBS-E01-23, SPV2-OBS-E01-24, SPV2-OBS-E01-25, SPV2-OPEN-E01-04, SPV2-OPEN-E01-05, SPV2-OPEN-E01-06.
+
+Related pending handoffs · E01-club, E01-rehearsal.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E01_CROSS_MODEL_RECONCILIATION.md)
+
+### E02 · Who recognizes the group’s work
+
+Frozen episode reading dated 2026-11-20 · 650b5ff95243aab3c42b7ef905f2a8e9c7138913.
+
+**The regular live and its partial presentation.** The audience judges an earlier elided performance, hears the featured song and reacts after its lyrics end. Edit counts for the larger visual span do not measure sung duration. Claims about the number of audible voices require separate evidence from the three- and five-name production cards; exact vocal stems stay open.
+
+Comparison findings · E02-X020, E02-X023, E02-X024, E02-X025, E02-X026, E02-X027, E02-X028.
+
+Earlier evidence and claims · SPV2-CLM-E02-03, SPV2-CLM-E02-29, SPV2-CLM-E02-31, SPV2-CLM-E02-38, SPV2-CLM-E02-39, SPV2-CLM-E02-41, SPV2-CLM-E02-43, SPV2-CLM-E02-46, SPV2-CLM-E02-47, SPV2-CLM-E02-57, SPV2-CLM-E02-58, SPV2-OBS-E02-12, SPV2-OBS-E02-29, SPV2-OBS-E02-39, SPV2-OBS-E02-45, SPV2-OBS-E02-46, SPV2-OBS-E02-47, SPV2-OBS-E02-48, SPV2-OBS-E02-49, SPV2-OBS-E02-63, SPV2-OBS-E02-64, SPV2-OBS-E02-65, SPV2-OBS-E02-66, SPV2-OPEN-E02-01, SPV2-OPEN-E02-03.
+
+Related pending handoffs · E02-master.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E02_CROSS_MODEL_RECONCILIATION.md)
+
+### E03 · Who gets to choose the center
+
+Frozen episode reading dated 2026-11-20 · 26353152fee13e1e785494b1a6b9a5b897d38b81.
+
+**The missed solo, recalled cover and planned closer.** Separate the dream from the earlier live, where Haru crosses in front and Kyoka resumes the figure. The current concert has elapsed by the handshake. Its future closer remains unperformed here. Four aligned native theme windows have nonzero PCM residuals, qualifying literal bit identity.
+
+Comparison findings · E03-X001, E03-X002, E03-X017, E03-X019, E03-X027, E03-X029, E03-X030, E03-X032, E03-X034.
+
+Earlier evidence and claims · SPV2-CLM-E03-01, SPV2-CLM-E03-06, SPV2-CLM-E03-21, SPV2-CLM-E03-29, SPV2-CLM-E03-31, SPV2-CLM-E03-38, SPV2-CLM-E03-39, SPV2-CLM-E03-41, SPV2-CLM-E03-42, SPV2-CLM-E03-45, SPV2-CLM-E03-47, SPV2-CLM-E03-51, SPV2-CLM-E03-55, SPV2-CLM-E03-58, SPV2-OBS-E03-01, SPV2-OBS-E03-08, SPV2-OBS-E03-11, SPV2-OBS-E03-12, SPV2-OBS-E03-21, SPV2-OBS-E03-26, SPV2-OBS-E03-29, SPV2-OBS-E03-31, SPV2-OBS-E03-39, SPV2-OBS-E03-41, SPV2-OBS-E03-42, SPV2-OBS-E03-45, SPV2-OBS-E03-46, SPV2-OBS-E03-49, SPV2-OBS-E03-50, SPV2-OBS-E03-51, SPV2-OBS-E03-52, SPV2-OBS-E03-60, SPV2-OBS-E03-61, SPV2-OBS-E03-65, SPV2-OBS-E03-66, SPV2-OPEN-E03-01, SPV2-OPEN-E03-04.
+
+Related pending handoffs · E03-mute, E03-pickup.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E03_CROSS_MODEL_RECONCILIATION.md)
+
+### E04 · What Kyoka can see from the center
+
+Frozen episode reading dated 2026-11-22 · e1ddbe9a3f14ba05e5a4d7d8b1a8db376efe91f0.
+
+**The returning entrance and late transition.** Rio handles the MC and yields the closing introduction to Kyoka. The E03 entrance matches four seconds of E04 very closely in Mid and Side, then diverges; the native result does not identify the current singer alone. The stage number enters the ending illustrations. Retain the audition request and the separately measured transient.
+
+Comparison findings · E04-CMP-011, E04-CMP-015, E04-CMP-016, E04-CMP-031, E04-CMP-035, E04-CMP-038, E04-CMP-039, E04-CMP-040, E04-CMP-041, E04-CMP-043.
+
+Earlier evidence and claims · SPV2-CLM-E04-04, SPV2-CLM-E04-24, SPV2-CLM-E04-29, SPV2-CLM-E04-45, SPV2-CLM-E04-46, SPV2-CLM-E04-48, SPV2-CLM-E04-49, SPV2-CLM-E04-50, SPV2-CLM-E04-54, SPV2-CLM-E04-57, SPV2-CLM-E04-58, SPV2-OBS-E04-05, SPV2-OBS-E04-09, SPV2-OBS-E04-10, SPV2-OBS-E04-11, SPV2-OBS-E04-12, SPV2-OBS-E04-24, SPV2-OBS-E04-29, SPV2-OBS-E04-45, SPV2-OBS-E04-46, SPV2-OBS-E04-48, SPV2-OBS-E04-49, SPV2-OBS-E04-50, SPV2-OBS-E04-57, SPV2-OBS-E04-58, SPV2-OBS-E04-63, SPV2-OBS-E04-66, SPV2-OBS-E04-67, SPV2-OBS-E04-71, SPV2-OPEN-E04-01, SPV2-OPEN-E04-04.
+
+Related pending handoffs · E04-D04.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E04_CROSS_MODEL_RECONCILIATION.md)
+
+### E05 · The person who asks for a flyer
+
+Frozen episode reading dated 2026-11-22 · 80be7f979794b3b0c9ddfed284cf61b7de38679e.
+
+**Two commissions and the closing street address.** The shop produces a visible later connection to customers. The farm shoot produces usable harvest material and a dropped food report; no complete broadcast is shown. The street leaflet is distinct from a Nakano sale. The first ending picture precedes the large measured rise in music; accompaniment under the last words stays open.
+
+Comparison findings · E05-CMP-010, E05-CMP-013, E05-CMP-015, E05-CMP-018, E05-CMP-020, E05-CMP-027, E05-CMP-028, E05-CMP-031, E05-CMP-039, E05-CMP-040.
+
+Earlier evidence and claims · SPV2-CLM-E05-04, SPV2-CLM-E05-05, SPV2-CLM-E05-06, SPV2-CLM-E05-11, SPV2-CLM-E05-23, SPV2-CLM-E05-24, SPV2-CLM-E05-33, SPV2-CLM-E05-34, SPV2-CLM-E05-35, SPV2-CLM-E05-38, SPV2-CLM-E05-39, SPV2-CLM-E05-44, SPV2-CLM-E05-45, SPV2-CLM-E05-46, SPV2-CLM-E05-47, SPV2-CLM-E05-53, SPV2-CLM-E05-54, SPV2-CLM-E05-55, SPV2-CLM-E05-56, SPV2-CLM-E05-58, SPV2-CLM-E05-59, SPV2-OBS-E05-04, SPV2-OBS-E05-05, SPV2-OBS-E05-06, SPV2-OBS-E05-07, SPV2-OBS-E05-15, SPV2-OBS-E05-23, SPV2-OBS-E05-24, SPV2-OBS-E05-34, SPV2-OBS-E05-35, SPV2-OBS-E05-38, SPV2-OBS-E05-44, SPV2-OBS-E05-45, SPV2-OBS-E05-46, SPV2-OBS-E05-47, SPV2-OBS-E05-48, SPV2-OBS-E05-55, SPV2-OBS-E05-56, SPV2-OBS-E05-57, SPV2-OBS-E05-58, SPV2-OBS-E05-59, SPV2-OBS-E05-60, SPV2-OBS-E05-61, SPV2-OBS-E05-62, SPV2-OBS-E05-63, SPV2-OBS-E05-67, SPV2-OBS-E05-69, SPV2-OBS-E05-70, SPV2-OPEN-E05-03, SPV2-OPEN-E05-04.
+
+Related pending handoffs · E05-D03.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E05_CROSS_MODEL_RECONCILIATION.md)
+
+### E06 · Who reaches out, who gets an answer
+
+Frozen episode reading dated 2026-11-22 · 644f543103bec711791e9d351d67698dd896d30f.
+
+**Yellow Rose and the mall environment.** The shown east-exit sign reads Ikezawa, while the older booking invokes Ikebukuro. Keep the two routes. A nonzero full-mix interval after the number includes Rio’s hesitant words. The final look points toward the planned duo without naming Naoki’s next task; the Hotaru excerpt and concluding speaker need separate audition.
+
+Comparison findings · E06-CMP-022, E06-CMP-034, E06-CMP-037, E06-CMP-043, E06-CMP-046, E06-CMP-049, E06-CMP-053, E06-DOC-058.
+
+Earlier evidence and claims · SPV2-CLM-E06-08, SPV2-CLM-E06-09, SPV2-CLM-E06-11, SPV2-CLM-E06-12, SPV2-CLM-E06-27, SPV2-CLM-E06-28, SPV2-CLM-E06-29, SPV2-CLM-E06-36, SPV2-CLM-E06-38, SPV2-CLM-E06-48, SPV2-CLM-E06-69, SPV2-CLM-E06-70, SPV2-CLM-E06-71, SPV2-OBS-E06-09, SPV2-OBS-E06-12, SPV2-OBS-E06-29, SPV2-OBS-E06-69, SPV2-OBS-E06-70, SPV2-OPEN-E06-01, SPV2-OPEN-E06-02, SPV2-OPEN-E06-05, SPV2-REV-E06-02.
+
+Related pending handoffs · E06-D05, E06-D06.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E06_CROSS_MODEL_RECONCILIATION.md)
+
+### E07 · What the recording can prove
+
+Frozen episode reading dated 2026-11-22 · 72cabeef1faba58155faad3adf2483e201e61cfc.
+
+**Rhythm teaching, recollection and rooftop sound.** Momiji teaches rhythm while reserving her own practice time. Rehearsal memories support Naoki’s comparison of Haru’s focus. Native nonzero stereo distinguishes score withdrawal from digital silence. The opening and ending reuse the earlier themes with measurable residuals.
+
+Comparison findings · E07-X05, E07-X06, E07-X24, E07-X26, E07-X27, E07-X29, E07-X31.
+
+Earlier evidence and claims · SPV2-CLM-E07-03, SPV2-CLM-E07-05, SPV2-CLM-E07-13, SPV2-CLM-E07-15, SPV2-CLM-E07-17, SPV2-CLM-E07-18, SPV2-CLM-E07-21, SPV2-CLM-E07-29, SPV2-CLM-E07-37, SPV2-CLM-E07-38, SPV2-CLM-E07-39, SPV2-CLM-E07-43, SPV2-CLM-E07-44, SPV2-CLM-E07-50, SPV2-CLM-E07-53, SPV2-CLM-E07-54, SPV2-CLM-E07-66, SPV2-CLM-E07-67, SPV2-CLM-E07-68, SPV2-CLM-E07-69, SPV2-CLM-E07-70, SPV2-CLM-E07-71, SPV2-CLM-E07-72, SPV2-OBS-E07-03, SPV2-OBS-E07-05, SPV2-OBS-E07-13, SPV2-OBS-E07-15, SPV2-OBS-E07-17, SPV2-OBS-E07-18, SPV2-OBS-E07-21, SPV2-OBS-E07-29, SPV2-OBS-E07-37, SPV2-OBS-E07-38, SPV2-OBS-E07-39, SPV2-OBS-E07-43, SPV2-OBS-E07-44, SPV2-OBS-E07-50, SPV2-OBS-E07-53, SPV2-OBS-E07-54, SPV2-OBS-E07-66, SPV2-OBS-E07-67, SPV2-OBS-E07-68, SPV2-OBS-E07-69, SPV2-OBS-E07-70, SPV2-OBS-E07-71, SPV2-OBS-E07-72, SPV2-OPEN-E07-04, SPV2-REV-E07-02, SPV2-REV-E07-06.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E07_CROSS_MODEL_RECONCILIATION.md)
+
+### E08 · Who learns what on the rooftop
+
+Frozen episode reading dated 2026-11-22 · 399d81338ae465b89541a9d7dfe860ab7fac9131.
+
+**The player rehearsal and private solo.** The tablet identifies Be Your Light!! as working material and the candidate isolates three reported excerpts. Separate what the device labels, what the programme carries and what dancers hear. The private solo, prior departure, present rooftop scene and final street image have different witnesses.
+
+Comparison findings · E08-X02, E08-X10, E08-X13, E08-X22, E08-X24, E08-X27, E08-X30.
+
+Earlier evidence and claims · SPV2-CLM-E08-04, SPV2-CLM-E08-08, SPV2-CLM-E08-11, SPV2-CLM-E08-12, SPV2-CLM-E08-16, SPV2-CLM-E08-19, SPV2-CLM-E08-25, SPV2-CLM-E08-39, SPV2-CLM-E08-42, SPV2-CLM-E08-43, SPV2-CLM-E08-44, SPV2-CLM-E08-46, SPV2-CLM-E08-48, SPV2-CLM-E08-58, SPV2-CLM-E08-59, SPV2-CLM-E08-67, SPV2-CLM-E08-73, SPV2-OBS-E08-04, SPV2-OBS-E08-08, SPV2-OBS-E08-11, SPV2-OBS-E08-12, SPV2-OBS-E08-16, SPV2-OBS-E08-19, SPV2-OBS-E08-25, SPV2-OBS-E08-39, SPV2-OBS-E08-42, SPV2-OBS-E08-43, SPV2-OBS-E08-44, SPV2-OBS-E08-46, SPV2-OBS-E08-48, SPV2-OBS-E08-58, SPV2-OBS-E08-59, SPV2-OBS-E08-67, SPV2-OBS-E08-73, SPV2-OPEN-E08-04, SPV2-REV-E08-05.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E08_CROSS_MODEL_RECONCILIATION.md)
+
+### E09 · The people behind the comparison
+
+Frozen episode reading dated 2026-11-22 · 9cc344cb74ade1edcc111661b8453628c8f6089c.
+
+**Be Your Light!! and the following number.** Four can prepare the previously practiced five-member song before the fifth returns. The held picture, very low native signal and later stronger response are separate boundaries. Kyoka names TOKYO WATASHI COLLECTION next, then the show cuts away. The exact allocation of audible lead and backing remains separate from visible positions.
+
+Comparison findings · E09-X13, E09-X20, E09-X21, E09-X22, E09-X23, E09-X26, E09-X30, E09-X32.
+
+Earlier evidence and claims · SPV2-CLM-E09-09, SPV2-CLM-E09-11, SPV2-CLM-E09-12, SPV2-CLM-E09-16, SPV2-CLM-E09-17, SPV2-CLM-E09-20, SPV2-CLM-E09-24, SPV2-CLM-E09-25, SPV2-CLM-E09-27, SPV2-CLM-E09-35, SPV2-CLM-E09-44, SPV2-CLM-E09-47, SPV2-CLM-E09-48, SPV2-CLM-E09-49, SPV2-CLM-E09-50, SPV2-CLM-E09-58, SPV2-CLM-E09-64, SPV2-CLM-E09-65, SPV2-CLM-E09-66, SPV2-CLM-E09-67, SPV2-CLM-E09-70, SPV2-OBS-E09-09, SPV2-OBS-E09-11, SPV2-OBS-E09-12, SPV2-OBS-E09-16, SPV2-OBS-E09-17, SPV2-OBS-E09-20, SPV2-OBS-E09-24, SPV2-OBS-E09-25, SPV2-OBS-E09-27, SPV2-OBS-E09-35, SPV2-OBS-E09-44, SPV2-OBS-E09-45, SPV2-OBS-E09-47, SPV2-OBS-E09-48, SPV2-OBS-E09-49, SPV2-OBS-E09-50, SPV2-OBS-E09-58, SPV2-OBS-E09-64, SPV2-OBS-E09-65, SPV2-OBS-E09-66, SPV2-OBS-E09-67, SPV2-OBS-E09-70, SPV2-OBS-E09-71, SPV2-OBS-E09-73, SPV2-OPEN-E09-03, SPV2-REV-E09-05.
+
+Related pending handoffs · SPV2-XREV-E09-01.
+
+[Episode reconciliation](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E09_CROSS_MODEL_RECONCILIATION.md)
+
+## 2026-11-23 · Cross-model reconciliation, E10–E12
+
+### E10–E12 original-programme checks
+
+**E10.** Two independent interval screens give approximately 185.9 BPM in the extended Wonder Starter and 161.9 BPM in the Budokan GYB!! performance. These are local periodicities with a 5 ms analysis hop. The proposed keys, instrumentation, isolated voices, animation pipeline and beat-lock statistics each need the procedure appropriate to them. Pictured focus in the concert cannot assign every sung phrase. The shift back to TINGS’ small monitor supplies a demonstrable change of scale. SPV2-CLM-E10-19, -44, -48 and -49. [E10 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E10_CROSS_MODEL_RECONCILIATION.md)
+
+**E11.** Native 48 kHz stereo comparison puts the E01 Sweet Surrender excerpt at 34 s in E11 near 580.628 s, gain −1.550002 dB and fitted mid/side residual approximately −133 dBFS. The E10 GYB!! excerpt at 1165 s matches E11 near 864.909 s, gain −0.05632 dB with residual below −132 dBFS after fitting. Only 46 of 384,064 decoded channel values match before scaling in that test. Two nonadjacent centered E10 speech excerpts near 940.5 and 959.1 s match distinct café recollections at E11 229.247 and 233.166 s, with correlations .900 and .909. Two café PA music controls thirty seconds apart retain Side correlations .763 and .653 despite an altered mix. Across 463,200 native stereo frames at 878.30–887.95 s, E11 retains Mid RMS −28.779 dBFS and Side RMS −108.957 dBFS. The small finite Side signal rules out a strictly mono interval. A stereo-field collapse and score withdrawal carry different claims from digital silence across the programme. SPV2-CLM-E11-05, -43, -45, -48 and -68. [E11 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E11_CROSS_MODEL_RECONCILIATION.md)
+
+**E12.** Yukine begins in the middle, Haru and Kyoka take the shared front, Rio finishes in the middle, and Kyoka occupies the middle for the subsequent MC. At 897.56 s the two dancers make reciprocal hand contact. Neither a contact image nor the lyrics identifies all supporting voices. The new song is credited to TINGS with composer 山崎燿. A measured pulse near 179.95 BPM fits the 180 BPM report. Across 29,760 native stereo frames at 914.24–914.86 s, full-stereo RMS is −132.274 dBFS and 1,105 frames have simultaneous digital zeros, followed by −18.569 dBFS across 914.86–915.60 s. In the finale ED, a native Side comparison with E11 around E12 1281.917 s fits −4.500009 dB, r=.99999996, under different centered sound. Late E02/E11–E12 controls match at unity gain to residuals near −132.5 dBFS, with a minority of original integer sample values exactly equal. Recurring recorded material, fitted gain and literal byte identity are separate findings. SPV2-CLM-E12-14, -15, -47, -64 and -72. [E12 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E12_CROSS_MODEL_RECONCILIATION.md)
