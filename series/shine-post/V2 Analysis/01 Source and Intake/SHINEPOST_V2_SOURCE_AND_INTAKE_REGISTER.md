@@ -8,7 +8,7 @@ generation: V2
 version: "1.1"
 status: canonical
 authority_scope: "Witness and derivative identity, admission state, candidate provenance and intake routing"
-source_boundary: "Japanese television anime E01–E05 independently accepted under the owner’s bundle-and-measurement scope. Technical inventory E01–E12."
+source_boundary: "Japanese television anime E01–E12, independent technical inventory and post-freeze Gemini delivery and calibration."
 canonical_home: series/shine-post/V2 Analysis/01 Source and Intake/SHINEPOST_V2_SOURCE_AND_INTAKE_REGISTER.md
 created: 2026-11-19
 supersedes: []
@@ -27,8 +27,8 @@ This register records the source/intake state, not analytical findings. The [ent
 | --- | --- | --- |
 | Existing V1 corpus | Repository contains E01–E12 readings, six character documents covering seven indexed people, two specialists, final synthesis and historical material | Inventory establishes artifact existence, not fresh source verification or V2 qualification |
 | V2 TV target | Twelve release objects bound to exact derivative sets | Retail and broadcast edition equivalence unverified |
-| Antigravity candidate | Owner reports a frozen E01–E12 Gemini candidate | Contents sealed until independent freeze; no intake receipt |
-| V2 bundles / source-language text / AV objects | Twelve ZIPs, extracted trees, FLACs and Japanese subtitle derivatives verified | Subtitle accuracy and narrative coverage await source inspection |
+| Antigravity / Gemini candidate | Frozen E01–E12 candidate received under SPV2-IN-GEMINI-20261122-01 after the independent freeze | Source and proxy identities are calibrated below. Episode comparison and subsequent perceptual reinspection have separate receipts. |
+| V2 bundles / source-language text / AV objects | Twelve ZIPs, extracted trees, FLACs and Japanese subtitle derivatives verified | Consult the twelve independent checkpoints for actual episode coverage and residual subtitle and sensory limits |
 | V2 inspection capability | Text and still images available; decoded programme sample omitted by model interface | Hearing and synchronized audiovisual perception require a verified route |
 
 V1 routes through [its original corpus map](../../V1%20Analysis/00_README_AND_CORPUS_MAP.md). Historical transcripts are provenance, not primary audiovisual witnesses. The existing registry's `LIGHT_NOVEL` / `ANIME` labels describe the catalog identity; they do not admit light-novel or other franchise evidence to this V2 anime boundary.
@@ -48,7 +48,7 @@ Keep primary media, frame/audio packages, raw acquisition evidence and private r
 
 ## 3. Candidate receipt contract
 
-The current candidate has no invented delivery ID or manifest. On actual receipt assign `SPV2-IN-…`, retain the producer's original title/version/generation, and record the receiving date and complete file inventory. Compare original and publication derivative bytes explicitly if a transformation is required; do not overwrite the original identity with V2.
+The registered Gemini delivery is SPV2-IN-GEMINI-20261122-01. For further deliveries, assign a new receipt ID and retain the producer's original title, version and generation, receiving date and complete inventory. Compare original and publication derivative bytes explicitly if a transformation is required; do not overwrite the original identity with V2.
 
 The receipt must recover the complete output, not just a synopsis: all analyses, evidence routes, cumulative state, reviews, unresolved items and execution/source records that actually exist. Record hashes/byte counts where accessible, acquisition channel, authoring environment/model/effort if observed, actual scope, interruptions, source/edition match and all disclosed prior exposure. Missing producer information remains unknown.
 
@@ -74,7 +74,7 @@ Required unresolved items block the dependent completion claim. Missing primary-
 
 ## 5. Actual records and next intake action
 
-**Technical witness set, 2026-11-20.** The owner authorized the twelve Japanese TV episodes for a sequential independent run. All twelve release objects and their derivatives are identified for technical reconnaissance. Narrative admission proceeds one unit at a time under the entrypoint. The transaction rows below record actual unit coverage. The owner identified a separate Gemini generation. Candidate intake awaits the independent E12 freeze.
+**Technical witness set, 2026-11-20.** The owner authorized the twelve Japanese TV episodes for a sequential independent run. All twelve release objects and their derivatives are identified for technical reconnaissance. Narrative admission proceeds one unit at a time under the entrypoint. The transaction rows below record actual unit coverage. On that date the owner identified a separate Gemini generation and deferred access until the independent E12 freeze. The post-freeze receipt below records its subsequent admission.
 
 The release filenames identify Nekomoe kissaten and VCB-Studio, `Ma10p_1080p`. Retail mastering and broadcast equivalence were not independently established. Each E-number maps the release MKV to the episode entry in the outer batch summary. The inner batch summary describes only the E12 invocation. The pipeline produced a Japanese-only ASS sidecar from the supplied bilingual JPSC witness, a soft-sub remux, a picture derivative with Japanese text burned in and a sampling bundle from that derivative. Open the release video for an unobscured composition check when the burn-in covers significant detail. The ZIP and unpacked directory have the same members. Complete audio is the separately supplied FLAC. Neither the heuristic scenes nor the shot-labelled rows in the manifest supply an editorial shot list.
 
@@ -205,3 +205,39 @@ When accepted work later advances, update this register's inventory/coverage and
 | E03 | JP transcription with source-screen checks, static/targeted original frames and measured main audio. Unheard and unseen claims remain open. | [Independent review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E03_INDEPENDENT_CHECKPOINT.md) |
 | E04 | JP transcription with source-screen checks, static/targeted original frames and measured main audio. Unheard and unseen claims remain open. | [Independent review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E04_INDEPENDENT_CHECKPOINT.md) |
 | E05 | JP transcription with source-screen checks, static/targeted original frames and measured main audio. Unheard and unseen claims remain open. | [Independent review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E05_INDEPENDENT_CHECKPOINT.md) |
+| E06 | JP transcription with source-screen checks, static/targeted original frames and measured main audio. Unheard and unseen claims remain open. | [Independent review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E06_INDEPENDENT_CHECKPOINT.md) |
+| E07 | JP transcription with source-screen checks, static/targeted original frames and measured main audio. Unheard and unseen claims remain open. | [Independent review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E07_INDEPENDENT_CHECKPOINT.md) |
+| E08 | JP transcription with source-screen checks, static/targeted original frames and measured main audio. Unheard and unseen claims remain open. | [Independent review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E08_INDEPENDENT_CHECKPOINT.md) |
+| E09 | JP transcription with source-screen checks, static/targeted original frames and measured main audio. Unheard and unseen claims remain open. | [Independent review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E09_INDEPENDENT_CHECKPOINT.md) |
+| E10 | JP transcription with source-screen checks, static/targeted original frames and measured main audio. Unheard and unseen claims remain open. | [Independent review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E10_INDEPENDENT_CHECKPOINT.md) |
+| E11 | JP transcription with source-screen checks, static/targeted original frames and measured main audio. Unheard and unseen claims remain open. | [Independent review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E11_INDEPENDENT_CHECKPOINT.md) |
+| E12 | JP transcription with source-screen checks, static/targeted original frames and measured main audio. Unheard and unseen claims remain open. | [Independent review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E12_INDEPENDENT_CHECKPOINT.md) |
+
+## Frozen Gemini candidate and source calibration, 2026-11-23 UTC
+
+Intake record `SPV2-IN-GEMINI-20261122-01` covers the producer’s *Shine Post Independent Multi-Agent Continuous-AV Run Index*, generation `SHINE_POST_GEMINI_INDEPENDENT_CONTINUOUS_AV_V1_INDEX`. The index identifies its authority as DRAFT_NONCURRENT, reports FROZEN_COMPLETE through E12, and records its final update at 19:36 UTC on 2026-11-19. The producer generated the candidate outside the repository and reports no shared Git authoring base. Publication derivatives below are the accountable V2 comparisons, each with its own file identity. The twelve frozen Gemini readings and their source media remain private.
+
+The complete private independent receipt preceded the first candidate read. Independent historical Git commit `37fb96360ee96ec6bcff34150ca7bd8fc297da3a` is bound by receipt SHA-256 `2b03d69769d58be9ab2fd1b55dc86260fe63045a1ad6417c6911823bc69fdd0a` and detailed evidence SHA-256 `e1b9f6c512f08ffa4e205331c578f14d04e656afd2c5f60a5ee40abd37854f5a`. The pre-exposure binding additionally hashes to `e66a1acef587ef0d275a0f1de24f053ea05f63d6ba6264639d6d1dc52ba389e0`. The public review was merged through PR 705 at `998f0fc84030f819dd022014cec095840e47f918`. Its separate publication receipt is `1fd8faef132076ca3a96b1efc0b7fb677593b665e92669108946fdb80997c8fe`.
+
+At 12:44:08 UTC on 2026-11-22, the coordinator opened the candidate run index, followed by its five technical and execution manifests. The index SHA-256 is `9757380ffbde52a49aa096f3d317e0644dd2cae61e2f5b5f29a85b06fa069704`. Inventory SHA-256 is `5328abf7423512eab585d4ce6aa36698bcb77db5636a78c6bdf13960b3a05ce5`. The normalization retaining original physical lines, byte offsets, record hashes and producer field names is `dd04e49033167d807a574f6a16dac96ddf08d62356ca2ec5a9f91ff3acaf46d8`. It recovers 123 OBS and 80 CLM across twelve episodes. The inventory contains 1,729 files, including 167 hashed nonmedia documents and 1,562 media objects inventoried at intake. Each episode has an integrated reading, log, checkpoint, coordinator’s blind draft and six specialist/critic papers. The E04 linguistic paper is under reports and the E05 linguistic paper under specialists. The candidate also has five cumulative ledgers and seven retrospective or freeze documents. The producer describes Gemini 4 Neon at XHigh with isolated specialist contexts, a principal, and a blind then critical reviewer. This records historical participation as reported in the archive.
+
+All twelve original Japanese hardsubs and source ASS sidecars match the independently admitted witness family. Their native video rate is 24000/1001. The Japanese programme is stereo FLAC at 48 kHz. E01 and E12 have an additional AAC commentary stream. Source inspection selects stream index 1, the first audio stream. The candidate's 1 fps long-form viewing clips have continuous audio and supplement their sparse pictures with separately reported targeted images at higher rates. Direct sensory claims by the candidate retain that provenance.
+
+The frozen derived ledger contains 97 declarations at 96 separate proxy paths. E01 segment 1 was exported twice. The smaller version matches the object present when received. We freshly hashed all 96 retained MP4s against the declarations and kept both historical hashes. Three independently linked release/hardsub/FLAC anchors per episode give identical release and hardsub timestamps and separate FLAC packet differences of about 0–2 ms. Japanese cue controls at six positions per episode supply a separate text check. A distinct replay of the proxy audio used three-second mono windows downsampled to 12 kHz and normalized cross-correlation within ±0.75 seconds. There are 36 distributed cross-edition controls and 96 controls at 37.5 seconds into the individual segments. All 96 segment probes returned the matching audio approximately 39.8–84.5 ms later in the proxy than its nominal source time, with minimum correlation 0.952. Resampling, AAC and seeking limit millisecond precision. The lag varies by segment. Take lip movement, beat alignment and subsecond onsets from the native source. These controls measure audio and do not upgrade a one-frame-per-second picture into continuous motion.
+
+| Episode | Original programme hardsub SHA-256 | Candidate log lines | Proxy lag in ms, early / middle / late | Eight-segment range in ms |
+|---|---|---:|---|---|
+| E01 | `57419dcf8e8a61e3beb3cbfa04f225150e3da1fcae99c34d0dcdaa4cd3f94e2e` | 16 | 83.3 / 41.3 / 42.3 | 41.0–83.7 |
+| E02 | `5f069e778ef43e70c944d18e32a33ad4fa341f0c68097bbdacbcb0ced9cd4a43` | 17 | 83.0 / 41.7 / 41.0 | 41.2–84.5 |
+| E03 | `c9d3dbfcff1f4b7d28bf04828e4e0766074eb0d20edf7160da51431e58356839` | 17 | 83.0 / 42.7 / 41.0 | 39.8–83.3 |
+| E04 | `272ad2fe77cdbbdd28aa56fd68e0cb11391376bf63fb3a752356acc5c9786172` | 18 | 81.8 / 41.3 / 41.3 | 39.8–83.3 |
+| E05 | `459e4e7dac296da076a413d0610ca2c01aa52b01b21ad4deb9e0315ff29d1a8a` | 18 | 83.3 / 42.2 / 41.0 | 41.0–83.5 |
+| E06 | `fb30205168e61a6148ab9e0f42c699dc96269e2c375cc40d2291d797515fc0a8` | 18 | 83.2 / 41.0 / 40.7 | 39.8–84.3 |
+| E07 | `47090e392188e950357ba0d147f5175866268ab92626d29f122e333cc0e43b25` | 17 | 83.3 / 41.3 / 41.7 | 40.5–84.5 |
+| E08 | `59388060e84b3a060ba20e6e40a71329abe771797c2cc5ac6166dc96e2e434c3` | 14 | 83.2 / 42.0 / 42.5 | 40.2–84.2 |
+| E09 | `ad4ac4b8511b25492775370ad20f9dfbba6bcbae49b62d5fb550625441df428d` | 16 | 83.5 / 41.0 / 41.0 | 40.2–84.5 |
+| E10 | `41a25298e8472985a23aa8facd716ff17cbc5a8ea8aa94f43cfab2203889f422` | 18 | 83.3 / 41.3 / 41.3 | 40.8–84.2 |
+| E11 | `992cfa390af853702fb57f7fa05ef4405c2cf5e273d16a1f939a61ab51c9029a` | 18 | 83.3 / 41.7 / 41.3 | 41.0–84.0 |
+| E12 | `c7177c3ac492229fb5500e4006bb911c6bc4b013eeda5cee8693ce4a618ecc3b` | 16 | 82.8 / 41.3 / 41.3 | 40.3–84.0 |
+
+The verification receipts for the 36 distributed matches and 96 segment matches have SHA-256 `ad2e39ae0e39c237f7e91007abcdb1a56160ab3b70584ab43210b2785ae6a98f` and `a272d8b2a1be39a813cbee0a15858acad1a0e46f07a1040953c4e4d022eafd9d`. The candidate's final retrospective manifest has one erroneous digit in the E06 parent hash. All 76 listed byte sizes and 75 of the 76 digests match the objects received, including all 52 listed documents and all twelve sidecars. The E06 parent hash in the table above matches the independently rehashed file. The original candidate manifest remains as received. See the [episode comparison and adjudication audit](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_CROSS_MODEL_RECONCILIATION_AUDIT.md) for subsequent decisions.
