@@ -1360,6 +1360,22 @@
       "catalog_note": "post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane."
     },
     {
+      "series_id": "uma-musume",
+      "stable_slug": "uma-musume",
+      "canonical_title": "Uma Musume: Pretty Derby",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/uma-musume/",
+      "canonical_entrypoint": "series/uma-musume/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261122",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Edition-aware Uma Musume anime franchise project, with Road to the Top as its initial four-episode corpus; character, rivalry, racing and audiovisual construction remain installment-bounded."
+    },
+    {
       "series_id": "wandering-witch",
       "stable_slug": "wandering-witch",
       "canonical_title": "Wandering Witch: The Journey of Elaina",
