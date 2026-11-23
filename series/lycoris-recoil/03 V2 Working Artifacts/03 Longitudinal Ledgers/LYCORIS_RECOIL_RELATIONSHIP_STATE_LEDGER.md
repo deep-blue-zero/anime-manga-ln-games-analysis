@@ -53,32 +53,33 @@ A relationship can simultaneously change in:
 
 # 2. Current boundary
 
-`SHORT01_OUTBOUND_FREEZE`
+`SHORT06_SOURCE_NATIVE_FREEZE`
 
-TV E01-E13 plus Friends Short 01 are admitted. Short 02-06 and supplementary narrative evidence remain outside the current relationship horizon.
+TV E01–E13 and Friends Shorts 01–06 supply the A1 relationship evidence. The registry distinguishes newly tested relationships from those carried forward on TV evidence. See REL-SHORT02 through REL-SHORT06 in section 5 and the Short 06 snapshot in section 6. Supplementary narrative evidence remains outside this A1 boundary.
 
 ---
 
 # 3. Relationship registry
 
-| Relationship ID | Dyad / system | Analytical responsibility | Current V2 state |
-|---|---|---|---|
-| REL-CHI-TAK | Chisato ↔ Takina | central longitudinal dyad | `PERSONALLY_AFFIRMED_PARTNERSHIP / TAKINA_SURVIVAL_PRIORITY_EXPLICIT / CHISATO_IDENTITY_CONTINUITY_BOUNDARY_EXPLICIT / MAXIMUM_STAKES_ETHICAL_COLLISION_WITHOUT_RELATIONAL_RUPTURE / MUTUAL_RESCUE_AND_COMPLEMENTARY_ACTION_PRESERVED / DA_EXIT_RATIFIED / EXPLICIT_ATTACHMENT_LANGUAGE_DEEPENED / ROMANTIC_STATUS_NOT_EXPLICITLY_REDEFINED` |
-| REL-CHI-MIK | Chisato ↔ Mika | care/authority/history | `FATHER_DAUGHTER_TRUST / INDIRECT_COVERT_RESCUE_SUPPORT / DIRECT_YOSHIMATSU_THRESHOLD_UNRESOLVED` |
-| REL-CHI-YOS | Chisato ↔ Yoshimatsu | assigned purpose/gratitude/control | `GRATITUDE_WITHOUT_OWNERSHIP / PERSONHOOD_PRESERVED / ASSIGNED_PURPOSE_EXPLICITLY_REJECTED / SYMBOLIC_ALAN_TIE_RETURNED` |
-| REL-CHI-FUK | Chisato ↔ Fuki | peer history/rivalry/affection | `FORMER_PARTNER_FAMILIARITY / COMBATIVE_BANTER / INSTITUTIONAL_VALUE_DIVERGENCE` |
-| REL-TAK-DA | Takina ↔ DA/Kusunoki | institutional belonging/discipline | `DA_EXIT_RATIFIED / INSTITUTION_NO_LONGER_SOVEREIGN_BELONGING / CHISATO_RESCUE_PRIORITIZED / PEER_RELATIONS_SURVIVE` |
-| REL-TAK-FUK | Takina ↔ Fuki | peer/professional comparison | `COSTLY_MUTUAL_RECOGNITION / INSTITUTIONAL_PATHS_DIVERGED / PEER_CONTINUITY_ACTIVE` |
-| REL-TAK-ERI | Takina ↔ Erika | rescue aftermath/guilt/repair | `EXPLICIT_REPAIR / FORWARD_RESPONSIBILITY / RECIPROCAL_ACKNOWLEDGMENT` |
-| REL-TAK-SAK | Takina ↔ Sakura | peer comparison/role succession | `SUCCESSOR_DISPLACEMENT / RUMOR-BASED HOSTILITY` |
-| REL-CAFE | Café LycoReco ensemble | chosen-work / ordinary-life system | `PHYSICAL_CAFE_CLOSED / PORTABLE_NONCAPTIVE_INSTITUTION_ACTIVE / CRISIS_SOLIDARITY_AND_TECHNICAL_RESCUE_INTEGRATED` |
-| REL-MIK-YOS | Mika ↔ Yoshimatsu | shared Chisato history / promise / purpose conflict | `PAST_PRIVATE_PROMISE_AND_SHARED_DAUGHTER_FRAME / ETHICALLY_COMPROMISED_ORIGIN / CURRENT_PURPOSE_CONFLICT / MIKA_ATTACHMENT_AND_GUILT_PERSIST / DIRECT_RECKONING_INCREASING` |
-| REL-CHI-MAJ | Chisato ↔ Majima | adversarial counterpart / autonomy / ethics | `ADVERSARIAL_COUNTERPART / SHARED_ANTI_COERCION_PREMISE / MORAL_EQUIVALENCE_EXPLICITLY_REJECTED` |
-| REL-MAJ-DA | Majima ↔ DA | legitimacy / exposure / counterforce | `IDEOLOGICAL_ANTAGONISM_EXPLICIT / EMBODIED_EXPOSURE_ACTIVE / EPISTEMIC_SECURITY_OPERATIONALLY_CONSTRAINED` |
+| Relationship ID | Dyad / system | Analytical responsibility | Earlier registry entry | Current A1 state through Short 06 |
+|---|---|---|---|---|
+| REL-CHI-TAK | Chisato ↔ Takina | central longitudinal dyad | `PERSONALLY_AFFIRMED_PARTNERSHIP / TAKINA_SURVIVAL_PRIORITY_EXPLICIT / CHISATO_IDENTITY_CONTINUITY_BOUNDARY_EXPLICIT / MAXIMUM_STAKES_ETHICAL_COLLISION_WITHOUT_RELATIONAL_RUPTURE / MUTUAL_RESCUE_AND_COMPLEMENTARY_ACTION_PRESERVED / DA_EXIT_RATIFIED / EXPLICIT_ATTACHMENT_LANGUAGE_DEEPENED / ROMANTIC_STATUS_NOT_EXPLICITLY_REDEFINED` | S02–06. They share travel interest, disagree about cost, accept hair care and dispute an unannounced scare. The lodging offer coexists with Takina’s separate room search. |
+| REL-CHI-MIK | Chisato ↔ Mika | care/authority/history | `FATHER_DAUGHTER_TRUST / INDIRECT_COVERT_RESCUE_SUPPORT / DIRECT_YOSHIMATSU_THRESHOLD_UNRESOLVED` | E13. Mika protects Chisato’s future while withholding the circumstances of Yoshimatsu’s death. S06 adds shared holiday preparation. |
+| REL-CHI-YOS | Chisato ↔ Yoshimatsu | assigned purpose/gratitude/control | `GRATITUDE_WITHOUT_OWNERSHIP / PERSONHOOD_PRESERVED / ASSIGNED_PURPOSE_EXPLICITLY_REJECTED / SYMBOLIC_ALAN_TIE_RETURNED` | E13. Gratitude and refusal of his assigned vocation survive his death; the shorts do not retest this relationship. |
+| REL-CHI-FUK | Chisato ↔ Fuki | peer history/rivalry/affection | `FORMER_PARTNER_FAMILIARITY / COMBATIVE_BANTER / INSTITUTIONAL_VALUE_DIVERGENCE` | S05/06. Chisato’s hospitality, teasing and proposed publicity coexist with Fuki’s refusal and separate authority. |
+| REL-TAK-DA | Takina ↔ DA/Kusunoki | institutional belonging/discipline | `DA_EXIT_RATIFIED / INSTITUTION_NO_LONGER_SOVEREIGN_BELONGING / CHISATO_RESCUE_PRIORITIZED / PEER_RELATIONS_SURVIVE` | E12/13 and S05. Takina leaves for Chisato, retains peer ties and privately tries the red uniform. That try-on does not establish an intention to return. |
+| REL-TAK-FUK | Takina ↔ Fuki | peer/professional comparison | `COSTLY_MUTUAL_RECOGNITION / INSTITUTIONAL_PATHS_DIVERGED / PEER_CONTINUITY_ACTIVE` | E12/13. Separate institutional paths permit mutual recognition and shared work. S05 leaves Fuki’s knowledge of the private fitting open. |
+| REL-TAK-ERI | Takina ↔ Erika | rescue aftermath/guilt/repair | `EXPLICIT_REPAIR / FORWARD_RESPONSIBILITY / RECIPROCAL_ACKNOWLEDGMENT` | E11/12. Apology and role-taking supply the repair evidence. S06 chiefly tests Erika’s preference against Fuki’s direction. |
+| REL-TAK-SAK | Takina ↔ Sakura | peer comparison/role succession | `SUCCESSOR_DISPLACEMENT / RUMOR-BASED HOSTILITY` | S05. Sakura witnesses the fitting and Takina pressures her. Sakura’s constrained response limits any claim of consensual play. |
+| REL-CAFE | Café LycoReco ensemble | chosen-work / ordinary-life system | `PHYSICAL_CAFE_CLOSED / PORTABLE_NONCAPTIVE_INSTITUTION_ACTIVE / CRISIS_SOLIDARITY_AND_TECHNICAL_RESCUE_INTEGRATED` | S01–06. The café supports work, budget decisions, hosting, disputed play and visitors’ interpretation of uniforms. A single chronology linking the shorts to the TV island operation remains open. |
+| REL-MIK-YOS | Mika ↔ Yoshimatsu | shared Chisato history / promise / purpose conflict | `PAST_PRIVATE_PROMISE_AND_SHARED_DAUGHTER_FRAME / ETHICALLY_COMPROMISED_ORIGIN / CURRENT_PURPOSE_CONFLICT / MIKA_ATTACHMENT_AND_GUILT_PERSIST / DIRECT_RECKONING_INCREASING` | E13. Mika directly confronts Yoshimatsu, whose death and the heart are later reported. Exact lethal mechanics remain offscreen. No new trial occurs in the shorts. |
+| REL-CHI-MAJ | Chisato ↔ Majima | adversarial counterpart / autonomy / ethics | `ADVERSARIAL_COUNTERPART / SHARED_ANTI_COERCION_PREMISE / MORAL_EQUIVALENCE_EXPLICITLY_REJECTED` | E13. Recognition and shared language coexist with opposing uses of force. The shorts add no encounter between them. |
+| REL-MAJ-DA | Majima ↔ DA | legitimacy / exposure / counterforce | `IDEOLOGICAL_ANTAGONISM_EXPLICIT / EMBODIED_EXPOSURE_ACTIVE / EPISTEMIC_SECURITY_OPERATIONALLY_CONSTRAINED` | E13 and S06. A civilian cover absorbs disclosure for the represented fans. This bounds the public-reception claim without establishing population-wide belief or a new Majima–DA decision. |
 
-Descriptions state anticipated analytical questions from architecture, not prospective findings.
+The responsibility column identifies the original research question. REL-SHORT05/06 also test Fuki with Mika and with Erika: her change of manner around Mika is visible, and her supervisory decision overrides Erika’s stated preference to stay. Neither private motive follows directly.
 
 ---
+
 
 # 4. Relationship observation schema
 
@@ -366,6 +367,9 @@ Fuki addresses Mika differently in Short 05 and reacts to his holiday appearance
 
 | SHORT01 | REL-CHI-TAK | TV E01-E13 + Short01 | Takina authors civilian logistics/expansion; Chisato recognizes the work but contests concealed armed readiness in a mundane setting; Takina resists and the interaction remains safely playful rather than rupturing | `TV_CHOSEN_PARTNERSHIP_PRESERVED / CIVILIAN_WORK_RECIPROCITY / TAKINA_INITIATIVE_EXPANDED / LOW_STAKES_CORRECTION_AND_RESISTANCE_SAFE / OPERATIONAL_STYLE_DIFFERENCE_VISIBLE / ROMANTIC_STATUS_NOT_EXPLICITLY_REDEFINED` | later shorts test broader mundane care, invitation/refusal, and physical/play permissions |
 | SHORT01 | REL-CAFE | TV E01-E13 + Short01 | hanami service combines labor, inventory, food, drinking, karaoke, heckling and business planning | `PORTABLE_NONCAPTIVE_INSTITUTION / ORDINARY_LABOR_AND_LEISURE_INTEGRATED / MEMBERSHIP_EXCEEDS_UTILITY` | later shorts test additional ordinary/technical dual-role combinations |
+| SHORT06 | REL-CHI-TAK | TV E01–E13 and Shorts 01–06 | Joint planning, independent menu decisions, accepted hair care and an open-ended offer to stay. | REL-SHORT02–06 retain a cost veto, a contested prank and a separate housing search. | Exclusive status, blanket permission and unobserved travel remain open. |
+| SHORT06 | REL-TAK-SAK / Fuki and Erika / Fuki and Mika | Same A1 horizon | The witness’s constrained answer, Erika’s request to stay versus Fuki’s veto, and Fuki’s altered response to Mika concern different relations. | REL-SHORT05/06 distinguish ownership, authority and preference. | Private attraction and third-party knowledge are unestablished. |
+| SHORT06 | REL-CAFE | Same A1 horizon | Service and planning coexist with contested play, institutional use and visitors who read the uniforms as costumes. | REL-CAFE-SHORT01-001 and REL-SHORT02–06. Three fans supply a local observation of cover. | Total short chronology and population-wide reception stay open. |
 
 # 7. Chisato–Takina specific tracking dimensions
 

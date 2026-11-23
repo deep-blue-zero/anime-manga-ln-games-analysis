@@ -12,6 +12,21 @@ mutable: true
 
 The [CP5 anime-native baseline](../04%20Character%20Reconstruction/LYCORIS_RECOIL_CP5_ANIME_NATIVE_BASELINE.md) supplies the frozen comparison. This ledger adds source-local behavior and records its strongest warranted effect on the integrated model. A character’s testimony can establish how the character explains an action, and a focalizer’s opinion can explain the structure of a scene. Neither automatically establishes the action’s actual causes. Repeated licensed portrayals can increase a trait’s salience without making it more frequent in the anime.
 
+## Gluttony days · creator-proximate prose
+
+The [source-native volume reading](../02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_GLUTTONY_DAYS_DEEP_READING.md) fixes GD-01–05.
+
+| Subject | Source-local result | Integrated consequence |
+|---|---|---|
+| Chisato and Takina helping Clarisse | GD-01/02. Relief and kindness are observable or testified to. Takina infers shared food’s part and acknowledges her part in the earlier escalation. Chisato acknowledges her own initial misclassification. | SPECIFY local help as reciprocal and fallible. PRESSURE infallible empathy and a general rule that humane repair excludes deliberate deception. |
+| Takina’s affiliation and private choice | GD-03/05. She identifies herself with the café off-hours, becomes a player, objects to losing sleep and participates in the meal anyway. She later accepts responsibility for the choice. | EXTEND self-authored leisure beyond maximizing cost or reputation. Initial objection, permission and a changed decision belong to different moments. |
+| Fuki and Sakura | GD-04. Fuki cooks to answer rescue, accepts Sakura’s expressed preference and thinks through the limits of partners’ mind-reading. Hot food interrupts the apology for the original incident. | EXTEND an A2 Fuki→Sakura repair rule, with independent emotional and practical work from Sakura. No assumption that any later derivative meal has the same motive. |
+| Café ensemble | GD-05. Mika supplies individualized treats. Chisato interprets this as parental giving, and Kurumi questions adults’ own appetite for indulgence. | SOURCE_SPECIFIC for Chisato’s inference about Mika. EXTEND the recurring space for voluntary shared pleasures. |
+
+## Prose comparison at the end of Phase E
+
+Ordinary days gives access to an outsider’s learned discretion and a vulnerable guest’s request. Recovery days locates whose story about a duty is being followed. Gluttony days shows how taste, risk and a desire to be understood can alter the same transaction. Parties can attend the same meal and want different things from it. The shared A2 result is a broader repertoire and a sharper account of perspective. Chronology and frequency stay source-specific. No A2 finding changes a frozen A1 observation.
+
 ## Recovery days · creator-proximate prose
 
 The [source-native volume reading](../02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_RECOVERY_DAYS_DEEP_READING.md) fixes RD-01–06. Its strongest additions concern who may interpret a duty and who thinks they deserve care.

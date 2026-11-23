@@ -37,7 +37,11 @@ For current use of E01–E13 claims, consult the [TV audiovisual reconciliation]
 
 ## Retrospective shorts audiovisual reconciliation
 
-All six shorts have frozen source readings. The [Friends shorts reconciliation](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/README.md) records dispositions for all 53 independent propositions, the six-part ending-song comparison, amendments to current use of the frozen readings and the remaining Japanese listening questions. CP4 closed at seven supported and five partially supported predictions. The [CP5 anime-native baseline](03%20V2%20Working%20Artifacts/04%20Character%20Reconstruction/LYCORIS_RECOIL_CP5_ANIME_NATIVE_BASELINE.md) now freezes the 19-unit reconstruction before supplementary reading.
+All six shorts have frozen source readings. The [Friends shorts reconciliation](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/README.md) records dispositions for all 53 independent propositions, the six-part ending-song comparison, amendments to current use of the frozen readings and the remaining Japanese listening questions. The corrected CP4 outcome is seven supported, four partially supported and one not tested. Apply the [CP4 and CP5 correction](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/SOURCE_READING_PARTICIPATION_AND_CP4_CORRECTION.md#current-ruling-on-pred-cp4-004-and-the-cp5-baseline) when consulting the pre-supplement freeze. The [CP5 anime-native baseline](03%20V2%20Working%20Artifacts/04%20Character%20Reconstruction/LYCORIS_RECOIL_CP5_ANIME_NATIVE_BASELINE.md) now freezes the 19-unit reconstruction before supplementary reading.
+
+## Standing source-reading configuration
+
+The principal integrator owns canonical rulings and shared-file writes. Separate execution contexts independently inspect the authorized unit’s language and pictures, and its primary audiovisual evidence. An independent critic tests the sealed reading and its bounded V1 comparisons. Each source transaction records participants, inspected materials, differing explanations, dispositions and remaining obligations. Later retrospective sources enter only after the applicable native seal. The [Shorts 02–06 receipt](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/SOURCE_READING_PARTICIPATION_AND_CP4_CORRECTION.md) identifies the four actual contexts and five separate transactions for this audiovisual configuration. Route specialists for other media according to their source and the project’s multi-source method.
 
 ## Canonical analytical root
 
@@ -89,7 +93,7 @@ All six shorts have frozen source readings. The [Friends shorts reconciliation](
   - completed/frozen TV source horizon: E13 / TV 13 of 13 complete
   - frozen short readings through Short 06: [Short 02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md) · [Short 03](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md) · [Short 04](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md) · [Short 05](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md) · [Short 06](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md)
   - current source boundary: SHORT06_SOURCE_NATIVE_FREEZE. CP4_POST_E13 is adjudicated and closed.
-- Next operation: Continue with *Gluttony days* before the official comics.
+- Next operation: Read Abe Kanari’s *Recollect* V01–02, then the contributor-attributed anthology stories.
 - Corpus-wide project initiation policy:
   - `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`
   - Drive ID: `1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC`
@@ -142,7 +146,7 @@ V1 remains historically authoritative for what the project previously concluded,
 - Current admitted A1 horizon: TV E01–E13 and Shorts 01–06.
 - Shorts sequential boundary: **SHORT06_SOURCE_NATIVE_FREEZE**.
 - Anime-native reconstruction baseline: **FROZEN AT CP5**
-- Supplementary prose: **2 of 3 volumes complete**.
+- Supplementary prose: **3 of 3 volumes complete**.
 - Recollect: **B1 reading follows the three A2 volumes**.
 - Anthologies: **C1 contributor-local reading follows the A2 volumes**.
 - V1→V2 claim audit: **162 attributable transitions through Short 06**.
@@ -451,7 +455,7 @@ Each episode produces:
 Sequence:
 
 
-Release-order high-water mark: SHORT06_SOURCE_NATIVE_FREEZE. Continue with *Gluttony days* before the official comics.
+Release-order high-water mark: SHORT06_SOURCE_NATIVE_FREEZE. Read Abe Kanari’s *Recollect* V01–02, then the contributor-attributed anthology stories.
 
 
 The shorts are especially important for settled mundane behavior, humor, play, domestic/café routine, and anime-native counterfactual validation.
@@ -481,7 +485,7 @@ Read source-natively:
 
 1. [*Ordinary days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_ORDINARY_DAYS_DEEP_READING.md) — source-native reading complete.
 2. [*Recovery days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_RECOVERY_DAYS_DEEP_READING.md) — source-native reading complete.
-3. *Gluttony days* — next.
+3. [*Gluttony days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_GLUTTONY_DAYS_DEEP_READING.md) — source-native reading complete.
 
 The [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) records comparisons against CP5.
 
@@ -557,7 +561,7 @@ Current state:
 - `CP1_POST_E03`: closed at 6 supported / 6 not tested;
 - `CP2_POST_E06`: closed at 8 supported / 1 partially supported / 3 not tested;
 - `CP3_POST_E10`: **CLOSED at 12 supported / 0 partially supported / 0 not tested / 0 disconfirmed**;
-- governing TV-only predictions: CP4_POST_E13, closed across all six shorts (7 supported, 5 partially supported);
+- governing TV-only predictions: CP4_POST_E13, closed across all six shorts (7 supported, 4 partially supported, 1 not tested);
 - CP5 marks the permanently recoverable A1-only boundary;
 - V1: comparison/revision input only after each source-native reading and prospective freeze are fixed;
 - novels: eligible for A2 source-local analysis;
@@ -659,7 +663,7 @@ project_initialization:
   current_outbound_freeze: SHORT06_SOURCE_NATIVE_FREEZE
   current_video_escalation_state: VIDEO_TARGETED_ESCALATION
   short_av_comparison: complete_with_typed_residuals
-  cp4_prediction_outcome: 7_supported_5_partially_supported
+  cp4_prediction_outcome: 7_supported_4_partially_supported_1_not_tested
   cp5_anime_native_final: frozen
   e01_acoustic_performance_backfill: complete
   e02_acoustic_performance_pass: complete
@@ -698,7 +702,7 @@ project_initialization:
 
 # 13. Current canonical operation
 
-Continue with *Gluttony days* before the official comics. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The completed short-only comparison supplies the attributable corrections. Open listener referrals and chronology limits travel with the CP5 baseline.
+Read Abe Kanari’s *Recollect* V01–02, then the contributor-attributed anthology stories. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The completed short-only comparison supplies the attributable corrections. Open listener referrals and chronology limits travel with the CP5 baseline.
 
 # 14. Retrieval route
 
@@ -721,4 +725,4 @@ When resuming:
 
 # 15. Governing current-state statement
 
-The admitted source horizon is TV E01–E13 plus Shorts 01–06. Continue with *Gluttony days* before the official comics. No supplementary source has entered the A1 account.
+The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The supplementary A2 reading horizon covers all three admitted novels. Read Abe Kanari’s *Recollect* V01–02, then the contributor-attributed anthology stories. No supplementary source has entered the A1 account.

@@ -933,6 +933,8 @@ source_native_predictions_frozen_before_v1_comparison: true
 `SHORT01_OUTBOUND_FREEZE` is frozen from TV E01-E13 + Short 01 evidence only. No Short 02-06, V1 retrospective synthesis, or supplementary narrative evidence was admitted when these predictions were formulated.
 
 
+For the five following transactions, the [unit participation and reconciliation receipt](../07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/SOURCE_READING_PARTICIPATION_AND_CP4_CORRECTION.md) records the independent source-readers, post-freeze critic, unit-specific dispositions and terminal CP4 correction.
+
 ## SHORT02_OUTBOUND_FREEZE · Short 02
 
 [Source-native reading and incoming adjudications](../02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md). Source-native seal: 09e40b4c3fc15fa8876039dae3b1db29a49c9c0bd1dac91e09dc17664b53609e. Published SHA-256: 23b2cba8885dfc616326ec3196d49f3785e49b93ac7e1bb79583fe0c5fe5dea7. The sole transport normalization changes the twelve CP4 lines to Markdown bullets. To recover sealed bytes, remove their leading dash-space and add two trailing spaces to CP4-001 through CP4-011. The reconstructed hash was verified. The TV-only CP4 wording and the Short 01 incoming wording remain as originally issued.
@@ -1035,7 +1037,9 @@ CP4 tranche: 01 SUPPORTED · 02 SUPPORTED · 03 PARTIALLY_SUPPORTED · 04 NOT_TE
 | PRED-SHORT06-001 | How far the low-stakes permissions of these shorts constrain behavior under lethal or institutional pressure remains a reconstruction question, not a prediction about another admitted anime unit. |
 | PRED-SHORT06-002 | Where the camera cuts away or overlays credits, leave private intention, offscreen outcomes and exact sound-image timing at their warranted evidence levels. |
 
-## CP4_POST_E13 · terminal source-native adjudication
+## CP4_POST_E13 · terminal source-native adjudication as originally recorded
+
+Use the [attributable correction](../07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/SOURCE_READING_PARTICIPATION_AND_CP4_CORRECTION.md#current-ruling-on-pred-cp4-004-and-the-cp5-baseline) for the current disposition of 004 and the terminal total. The following table preserves the original adjudication.
 
 The twelve TV-only wordings above are immutable. This summary was fixed after the six shorts’ native readings and before opening Gemini’s shorts reports. Each decision concerns the stated condition across the six shorts. Shorts test ordinary conduct much more directly than crisis conduct.
 
@@ -1055,6 +1059,10 @@ The twelve TV-only wordings above are immutable. This summary was fixed after th
 | 012 | SUPPORTED with limits | Short 04’s hair care and Short 05 C027–29 show familiarity alongside agency and separate housing options. Neither scene establishes blanket permission or an exclusive declaration. |
 
 Seven supported, five partially supported, none assigned blanket confirmation by lack of contradiction. The intermediate Short 01–06 results remain visible. Completion of this prediction test closes CP4’s *target horizon*. CP5’s separate A1 reconstruction and synthesis responsibilities are not discharged by the prediction tally.
+
+## Current CP4 terminal adjudication
+
+**PRED-CP4-004 · NOT_TESTED.** Each of the six releases recorded practical action without the required strong care directed at a specific beneficiary. The original partial outcome above credited group planning. The terminal twelve now comprise **7 supported, 4 partially supported and 1 not tested**. The eleven other terminal outcomes stand. See the [per-unit evidence and CP5 consequence](../07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/SOURCE_READING_PARTICIPATION_AND_CP4_CORRECTION.md#current-ruling-on-pred-cp4-004-and-the-cp5-baseline).
 
 ## CP5_ANIME_NATIVE_FINAL · 2026-11-23
 

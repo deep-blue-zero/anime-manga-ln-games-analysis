@@ -59,32 +59,33 @@ This ledger answers:
 
 # 2. Current boundary
 
-`SHORT01`
+`SHORT06_SOURCE_NATIVE_FREEZE`
 
-The ledger is now prospectively bounded through TV E01-E13 plus Friends Short 01. No Short 02-06 or supplementary narrative evidence is admitted. V1 conclusions remain revision/comparison input only, not observational evidence.
+TV E01–E13 and Friends Shorts 01–06 supply the A1 evidence. The registry below identifies the latest applicable unit or TV carry-forward for each character. See MB-SHORT02 through MB-SHORT06 in section 5 and the Short 06 snapshot in section 6. V1 is a retrospective comparison; supplementary narratives belong outside this ledger’s A1 state.
 
 ---
 
 # 3. Character registry
 
-| ID | Character | V2 reconstruction tier at initialization | Current V2 state |
-|---|---|---|---|
-| CHI | Nishikigi Chisato | Full target | `SHORT01_CONTEXTUAL_ROLE_CORRECTION_EXTENDED` |
-| TAK | Inoue Takina | Full target | `SHORT01_CIVILIAN_OPTIMIZATION_EXTENDED` |
-| FUK | Harukawa Fuki | Strong bounded target | `E12_INDEPENDENT_JUDGMENT_EXTENDED` |
-| ERI | Janome Erika | Domain-limited unless evidence expands | `E12_ROLE_REPAIR_EXTENDED` |
-| KUR | Kurumi | Strong bounded target | `SHORT01_SOCIAL_MEMBERSHIP_EXTENDED` |
-| MIK | Mika | Strong bounded target | `SHORT01_CAFE_CAREGIVER_EXTENDED` |
-| MIZ | Nakahara Mizuki | Strong bounded target | `SHORT01_ORDINARY_SOCIAL_EXTENDED` |
-| KUS | Kusunoki | Domain-limited unless evidence expands | `E12_SELECTIVE_SUBVERSION_EXTENDED` |
-| SAK | Otome Sakura | Domain-limited unless evidence expands | `E07_BOUNDED_EXTENDED` |
-| MAJ | Majima | Adversarial/ideological target; mundane scope unknown | `E12_CLIFFHANGER_REENTRY_EXTENDED` |
-| YOS | Shinji Yoshimatsu | Relationship/ideological target; general scope unknown | `E12_SELF_SACRIFICIAL_TELEOLOGY_EXTENDED` |
-| HIG | Himegama | Domain-limited Alan/proxy target | `E09_PROXY_BODILY_COERCION_EXTENDED` |
+| ID | Character | V2 reconstruction tier at initialization | Earlier registry entry | Current A1 state through Short 06 |
+|---|---|---|---|---|
+| CHI | Nishikigi Chisato | Full target | `SHORT01_CONTEXTUAL_ROLE_CORRECTION_EXTENDED` | S02/03/04/06. Takes work on a no-kill condition, presses a menu idea, joins unannounced play and repairs Takina’s cover. |
+| TAK | Inoue Takina | Full target | `SHORT01_CIVILIAN_OPTIMIZATION_EXTENDED` | S02/03/04/05/06. Claims her own travel interest, vetoes a recipe, demands compensation, privately tries red and speaks literally to the fans. CP4-004 remains untested by the shorts. |
+| FUK | Harukawa Fuki | Strong bounded target | `E12_INDEPENDENT_JUDGMENT_EXTENDED` | S05/06. Claims institutional lodging rights, reserves her own uniform, changes manner with Mika and tells Erika they are leaving. |
+| ERI | Janome Erika | Domain-limited unless evidence expands | `E12_ROLE_REPAIR_EXTENDED` | S06 C074–79. Voices a preference to stay despite Fuki’s veto. Earlier repair with Takina remains grounded in E11–12. |
+| KUR | Kurumi | Strong bounded target | `SHORT01_SOCIAL_MEMBERSHIP_EXTENDED` | S03/04/06. Gives her own response to the dessert, appears as a monitor whose whereabouts become disputed, and proposes themed business and a game. |
+| MIK | Mika | Strong bounded target | `SHORT01_CAFE_CAREGIVER_EXTENDED` | S04/05/06. Plays to the camera, serves Fuki and dresses for the trip. His E13 withholding remains the crisis evidence. |
+| MIZ | Nakahara Mizuki | Strong bounded target | `SHORT01_ORDINARY_SOCIAL_EXTENDED` | S03/04/06. Remembers a price ruling, participates in the prank and dresses for vacation. These observations give little leverage on private romantic choices. |
+| KUS | Kusunoki | Domain-limited unless evidence expands | `E12_SELECTIVE_SUBVERSION_EXTENDED` | S02. Presses for attention by phone. E12–13 still supply the evidence about selective institutional cooperation. |
+| SAK | Otome Sakura | Domain-limited unless evidence expands | `E07_BOUNDED_EXTENDED` | S05. Pursues access to the uniform and witnesses the fitting; her later response occurs under constraint. In S06 her absence is discussed. |
+| MAJ | Majima | Adversarial/ideological target; mundane scope unknown | `E12_CLIFFHANGER_REENTRY_EXTENDED` | E13 snapshot. Survives the confrontation and remains an independent counterforce. The shorts supply no new decision by him. |
+| YOS | Shinji Yoshimatsu | Relationship/ideological target; general scope unknown | `E12_SELF_SACRIFICIAL_TELEOLOGY_EXTENDED` | E13 reports his death after armed confrontation. E12 scar, testimony and later receipt of the heart do not establish its intervening location or transfer mechanics. |
+| HIG | Himegama | Domain-limited Alan/proxy target | `E09_PROXY_BODILY_COERCION_EXTENDED` | TV E09–13 observations cover her role in coercion and protection of Yoshimatsu. The shorts add no independent test of her motives. |
 
 Tier labels are analytical workload expectations, not personality claims.
 
 ---
+
 
 # 4. Atomic observation schema
 
@@ -615,6 +616,9 @@ Takina initiates a café menu problem and vetoes a costly recipe in Short 03. He
 | SHORT01 | TAK | TV E01-E13 + Short01 | independently runs supply logistics, proposes repeated profitable civilian events and yakitori expansion, while carrying substantial concealed armament in the same ordinary setting | TV endpoint is validated in mundane form: competence acquires civilian/commercial objects without operational identity disappearing | later shorts must test breadth beyond commerce and weapon-readiness context |
 | SHORT01 | CHI | TV E01-E13 + Short01 | works seasonal service, recognizes Takina's initiative, and challenges armed over-read of mundane context through playful physical correction rather than devaluing competence | role/context boundary remains active in ordinary life | broader low-stakes invitation/refusal tests remain open |
 | SHORT01 | MIK/MIZ/KUR | TV E01-E13 + Short01 | food/cafe regulation, drinking/karaoke and heckling respectively operate as ordinary social roles | ensemble membership continues to exceed security/technical utility | technical/operational dual-role recurrence remains for later shorts |
+| SHORT06 | CHI / TAK | TV E01–E13 and Shorts 01–06 | Shared travel plans coexist with separate appetite for the trip, a menu veto and disputed permission for play. | MB-SHORT02–06. Ordinary work and leisure expand the tested states. | Strong person-specific care by Takina through practical acts remains untested in these six shorts. |
+| SHORT06 | FUK / SAK / ERI | Same A1 horizon | Fuki reserves her clothing; Sakura’s witness response is constrained; Erika asks to stay. | MB-SHORT05/06. Peer, host and supervisory authority differ by scene. | Romance, career intent and free assent where pressure is present remain unestablished. |
+| SHORT06 | MIK / MIZ / KUR / KUS | Same A1 horizon | Service, play, clothing, judgment and remote orders are separately observable. | MB-SHORT02–06. E13 still governs crisis conduct. | The final S04 figure and private reactions to Mika remain bounded. |
 
 # 7. Candidate-policy staging
 
