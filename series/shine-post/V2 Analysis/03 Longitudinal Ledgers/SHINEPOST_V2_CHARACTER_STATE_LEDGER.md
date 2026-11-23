@@ -817,3 +817,23 @@ Haru’s speech uses 世界中のみんなに and twice the potential 叶えら�
 ### E12 | What Naoki affirms and how the five take the offer
 
 Naoki’s spoken 間違いない expresses confidence in what Kyoka may see. Her ability to reproduce learned movement has separate evidence. His broken け and completed ほたる in the earlier encounter, alongside later けい, add support to the separately grounded Hotaru and Kei identity comparison. In the office, Kyoka is favored on the initial surprised response. Rio’s 私様 and Haru’s quiet call to Ren are securely distinguished from that first turn. The eventual commitment is a visible collective action even though the loud group reply does not expose every spoken ending. See SPV2-OBS-E12-16, SPV2-OBS-E12-37, SPV2-OBS-E12-39 and SPV2-OBS-E12-69.
+
+### Monograph acceptance at the E12 boundary
+
+All 13 obligations in the first-pass qualified slate are complete at the admitted E12 boundary. The earlier dispositions above are retained as the first-pass record. Each monograph has a [recorded standalone and fidelity pass](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SYNTHESIS_COMPARISON_WITH_GEMINI.md#acceptance-record).
+
+| Stable subject | Current qualification | Monograph |
+| --- | --- | --- |
+| SPV2-CH-HARU | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_HARU_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_HARU_E01_E12_CHARACTER_MONOGRAPH.md) |
+| SPV2-CH-KYOKA | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_KYOKA_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_KYOKA_E01_E12_CHARACTER_MONOGRAPH.md) |
+| SPV2-CH-RIO | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_RIO_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_RIO_E01_E12_CHARACTER_MONOGRAPH.md) |
+| SPV2-CH-DOOR-COMPANION | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_YUKINE_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_YUKINE_E01_E12_CHARACTER_MONOGRAPH.md) |
+| SPV2-CH-MOMIJI | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_MOMIJI_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_MOMIJI_E01_E12_CHARACTER_MONOGRAPH.md) |
+| SPV2-CH-REN | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_REN_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_REN_E01_E12_CHARACTER_MONOGRAPH.md) |
+| SPV2-CH-NAOKI | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_NAOKI_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_NAOKI_E01_E12_CHARACTER_MONOGRAPH.md) |
+| SPV2-CH-YUKI | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_YUKI_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_YUKI_E01_E12_CHARACTER_MONOGRAPH.md) |
+| SPV2-CH-HOMARE | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_HOMARE_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_HOMARE_E01_E12_CHARACTER_MONOGRAPH.md) |
+| SPV2-CH-HOTARU | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_HOTARU_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_HOTARU_E01_E12_CHARACTER_MONOGRAPH.md) |
+| SPV2-CH-NANAMI | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_NANAMI_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_NANAMI_E01_E12_CHARACTER_MONOGRAPH.md) |
+| SPV2-CH-SATO | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_SATO_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_SATO_E01_E12_CHARACTER_MONOGRAPH.md) |
+| SPV2-CH-TOKKA | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_TOKKA_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_TOKKA_E01_E12_CHARACTER_MONOGRAPH.md) |
