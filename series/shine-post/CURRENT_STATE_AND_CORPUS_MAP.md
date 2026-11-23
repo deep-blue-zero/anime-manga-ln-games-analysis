@@ -59,9 +59,13 @@ cross_model_reconciliation:
   accepted_episode_returns_at_checkpoint: 0
   initial_human_adjudication: awaits_evaluated_gemini_returns
   first_adjudication_publication: 2026-11-23
-  published_distinct_cases: 23
+  first_publication_distinct_cases: 23
+  published_distinct_cases: 84
+  ordinary_source_responses_evaluated: 84
   outside_first_publication: 61
   human_adjudication: E04_D04_OWNER_RESPONSE_RECORDED
+  further_owner_listening_cards_delivered: 2
+  case_ids_in_further_cards: 4
 ---
 
 # SHINE POST — Current State and Corpus Map
@@ -86,7 +90,8 @@ For this independent pass through E12 the owner expressly authorized bundle-and-
 | Direct comparison, totals and publication decisions | [Twelve-episode reconciliation audit](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_CROSS_MODEL_RECONCILIATION_AUDIT.md) |
 | Comparison of retrospective claims | [Retrospective comparison](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_RETROSPECTIVE_COMPARISON.md) |
 | External source review and escalation | [Initial case manifest and handoff](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_GEMINI_SOURCE_REINSPECTION_HANDOFF.md) |
-| Evaluated source returns and owner response | [First source-adjudication register · 23 distinct cases](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md) |
+| First adjudication checkpoint | [First source-adjudication register · 23 distinct cases](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md) |
+| Current source-return decisions and further owner listening | [Complete register · 84 distinct cases](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md) |
 | What this bootstrap established | [Bootstrap manifest](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_BOOTSTRAP_MANIFEST.md) |
 | Existing analytical findings and historical provenance | [V1 corpus map](V1%20Analysis/00_README_AND_CORPUS_MAP.md) |
 
@@ -107,11 +112,11 @@ V1 remains at its original paths, with its original metadata and bytes. Its non-
 | Source reconnaissance | Twelve release containers and their locally verified derivatives inventoried in the source register |
 | Antigravity delivery | Registered as SPV2-IN-GEMINI-20261122-01 after the independent freeze. Twelve episodes compared. |
 | V2 source admission / sequential execution | OPEN; accepted E12; no next narrative unit |
-| New Gemini source inspection | At the initial 01:11 UTC handoff, none of the 84 cases had an evaluated episode return. The first published checkpoint now covers 23 distinct cases, including E12-026. The other 61, some already returned or evaluated, are outside this checkpoint. |
-| Human adjudication | E04-D04 received a qualified owner response about possible fan participation around 20:26. A later solo-line assignment remains open. |
+| New Gemini source inspection | At the initial 01:11 UTC handoff, none of the 84 cases had an evaluated episode return. All 84 ordinary comparative returns are now evaluated. The earlier 23-case publication includes the additional E12-026 pilot. Its ordinary return addresses the same ID. |
+| Human adjudication | E04-D04 received a qualified owner response about possible fan participation around 20:26. A later solo-line assignment remains open. The owner also received one E10 and one E12 listening card covering four further case IDs. |
 | Existing V1 analyses | Preserved; available through the V1 map |
 
-The [first adjudication register](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md) links direct hearing to exact source intervals and records the E04 owner response. The dated episode comparisons below cite the frozen independent propositions, the Gemini evidence and the applicable primary-source routes. The case handoff preserves a neutral question for the unresolved perceptual disputes.
+The [first adjudication register](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md) links direct hearing to exact source intervals and records the E04 owner response. The [cumulative register](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md) indexes all 84 ordinary evaluations and the later E10–E12 source checks. The dated episode comparisons below cite the frozen independent propositions, the Gemini evidence and the applicable primary-source routes. The case handoff preserves a neutral question for the unresolved perceptual disputes.
 
 The season audit distinguishes source-resolved changes, pending cases, external submissions and evaluated returns. Human review follows an adequate external return where the evidence still supports competing conclusions. Final series synthesis and character monographs remain future work.
 

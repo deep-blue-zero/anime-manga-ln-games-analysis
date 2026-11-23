@@ -673,3 +673,24 @@ Earlier evidence and claims · SPV2-CLM-E09-06, SPV2-CLM-E09-07, SPV2-CLM-E09-08
 **SPV2-XREV-E07-01 / SPV2-XREV-E08-01** · Separate the pair’s two replies to Haru and Yuuki’s later protective explanation to them. A subsequent statement about insufficient ability is a distinct intervention.
 
 **SPV2-ADJ-E12-026** · Naoki’s confidence concerns what Kyoka might see if she wishes for it. The line supplies his judgment without attributing a reciprocal commitment to her.
+
+## 2026-11-23 · Completed episode source adjudications
+
+[All 84 source adjudications and their receipts](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md).
+
+### E10
+
+| Existing direction | Dated scope | Case |
+| --- | --- | --- |
+| SPV2-REL-REN-HARU and SPV2-REL-KYOKA-HARU | Both address Haru in audible unison. Ren’s invitation to come back and Kyoka’s offer to prove TINGS at Nakano remain different acts with different ends. | 019, 064 |
+| SPV2-REL-HARU-REN and SPV2-REL-HARU-KYOKA | Haru asks the two to calm down and objects when they speak for her. Their shared response cannot establish her consent to either person’s decision. | 064 |
+| SPV2-REL-YAWARA-HARU, SPV2-REL-NANOKA-HARU, SPV2-REL-AOBA-HARU and SPV2-REL-ITOHA-HARU | Yawara’s familiar greeting and Nanoka’s self-introduction point in different directions of acquaintance. Aoba and Itoha close with distinct remarks; Haru addresses the sisters after they speak. | 046 |
+| SPV2-REL-NAOKI-KEI and SPV2-REL-KEI-NAOKI | The question and invitation run from Naoki to Kei. The elliptical deadline answer, reassurance and desire for stimulus run from Kei to Naoki. The exchange establishes no commission for TINGS. | 016, 027 |
+
+### E11 | The chorus of friends and Naoki’s response to Kyoka
+
+After Ren leaves the television take, the first three turns favor Yawara, Itoha and Nanoka and the last split remark favors Aoba. The subsequent pursuit has distinct off-screen voices and Ren’s direct replies. In the later TINGS discussion, Yukine visibly responds to Kyoka and another caller is audible without secure individual attribution. Naoki echoes Kyoka’s 覚えたことは and asks what that can achieve for actual listeners, an exchange whose meaning survives uncertainty about incidental voices. See SPV2-OBS-E11-32, SPV2-OBS-E11-16, SPV2-OBS-E11-39 and SPV2-OBS-E11-69.
+
+### E12 | Reassurance to Nanami and support for Kyoka
+
+Nanami receives an off-screen reassurance from behind her about whose stage appearance is at stake. Natalya is the leading candidate, while direct personal attribution remains open. Retain the direction of the exchange when recording Nanami’s response. At Nakano, Naoki speaks of Kyoka’s prospective vision with certainty. That wording substantiates his confidence in her. The proposed Budokan bill and Yuki’s threatened sanction remain distinct from the audience’s response to the current performance. See SPV2-OBS-E12-32, SPV2-OBS-E12-16, SPV2-OBS-E12-37 and SPV2-OBS-E12-69.

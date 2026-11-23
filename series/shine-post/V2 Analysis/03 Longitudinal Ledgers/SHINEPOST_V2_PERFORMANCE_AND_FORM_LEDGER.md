@@ -952,7 +952,7 @@ Related pending handoffs · SPV2-XREV-E09-01.
 
 **E01-club / E01-rehearsal / E02-master** · Club acoustics fall away around Haru’s question. Loudspeaker playback in rehearsal and the public concert share strongly matched recording passages under different processing.
 
-**E02-reply / E03-pickup / E03-mute** · The house answers Kyoka’s goodbye. The dreamed opening contains her あれ?; the historical montage depicts a cover while the programme carries a separate underscore.
+**E02-reply / E03-pickup / E03-mute** · The two pictured spectators answer Kyoka’s goodbye. Other voices remain unassigned. The dreamed opening contains her あれ?; the historical montage depicts a cover while the programme carries a separate underscore.
 
 **E04-D04** · The fuller sound near 20:26 precedes Tokka’s audience close-up at 20:29.478. Ensemble texture is clear by 20:34.8 in the complete-song hearing. No isolated stem follows from either observation.
 
@@ -961,3 +961,28 @@ Related pending handoffs · SPV2-XREV-E09-01.
 **SPV2-XREV-E09-01** · The five-person song decays into a gap, central panting and later wide audience return. These distinct elements do not settle where the singing was recorded.
 
 **SPV2-ADJ-E12-026** · In the Japanese main mix the listener distinguishes the /i/ of 間違いない under slight crowd masking. The printed subtitle has /e/. The difference informs Naoki’s assessment of the performer.
+
+## 2026-11-23 · Completed episode source adjudications
+
+[All 84 source adjudications and their receipts](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md).
+
+### E10
+
+| Existing event | Dated evidence and limit | Case |
+| --- | --- | --- |
+| SPV2-PF-E10-03 and SPV2-PF-E10-07 | Two independent offsets align *Wonder Starter* programme audio, +478.561396 seconds across the front stretch and +528.897396 at the ending. The insert adds an extended middle. The break foregrounds a guitar-like lead, the bridge thins to a piano-like part and voice and the band returns around a G center. The single sung /sa/ on the returning refrain leaves two printed grammatical possibilities. | 017, 040, 041 |
+| SPV2-PF-E10-04 and SPV2-PF-E10-05 | The promotion cuts distinguish Rio’s stream, Haru’s voiced group plug and Yukine’s challenge. Momiji’s danced figure has two short syllabic accents, then a longer one and a later breathy landing sound. | 011–014 |
+| SPV2-PF-E10-06 | Naoki and Kei talk about a new song. Her bare 「ギリギリ」 leaves its completion uncertain. The call presents no completed work, performer or delivery. | 016, 027 |
+| SPV2-PF-E10-09 | Ren’s specific criticism later returns in two closely matched recorded passages. The later mix sounds wider and reverberant. A small following vocal reaction remains unspecified. | 048 |
+| SPV2-PF-E10-10 | Shared E09/E10 audio at +1054.9707 seconds supports recorded reuse through changes in narration and filtering. *GYB!!* moves between ensemble calls, more exposed leads, a prominent belt and a fuller chorus. The foreground camera relay does not identify individual soloists. E-flat minor frames the number, while the chorus’s C minor–F–B-flat–E-flat cycle admits more than one functional hearing. | 022, 052–054, 069 |
+| SPV2-PF-E10-10 | Confirmed cuts show stronger two- and four-beat grouping than single-beat grouping; the exact total depends on declared boundaries and how spotlight changes and flashes are classified. Haru’s office reaction recurs on either side of the concert footage. | 051 |
+
+For the E10 pre-chorus, the booklet confirms the Japanese text and the performer-labeled edition assigns the part to Ren. The native recount gives 36 hard changes in [1158.50,1242), 35 in [1158.60,1242), and 41 in [1147.8,1255). The earlier 57-cut wider-stage test gave p=.0014; its separate 52-cut active-song test gave p=.0698. [Published E10 parts](https://www.joysound.com/web/search/song/957587) · [Published E12 parts](https://www.joysound.com/web/search/song/957586).
+
+### E11 | Unscored public space and the reused performance
+
+The street–park sequence separates recognition and public bustle from the exposed argument using roughly 137 seconds of audible dialogue and environment after the cut from pop. A quiet piano cue enters near 398.7 s. Hotaru’s Sweet Surrender reprise shares a gain-scaled core with the E01 released mix. The released mixes match within the measured absolute residual tolerance across a conservative source window and becomes more mix-dependent at its edges. Crowd layers diverge, the sustained C5 develops late vibrato, and orchestral music takes over the act of remembering and extends across the eyecatch. Naoki’s exhale and the group's surprise later occupy room tone before score returns around 1262 s. See SPV2-OBS-E11-07, SPV2-OBS-E11-45, SPV2-OBS-E11-68 and SPV2-OBS-E11-69.
+
+### E12 | The finale’s pulse, vocal texture and audience change
+
+On Your Mark!! sustains an E-major center with local G-sharp-minor color. The edit rhythm clusters around levels of the pulse. Exact cut counts and their relation to bars depend on the agreed list and grid. The first verse moves from solo-like foregrounding to audible layering, with Rio favored at the first phrase and Kyoka a strong candidate at a later entrance. During the visual feather-and-hand duet the chorus stays ensemble-led around a brief tighter phrase. The culminating clasp reaches a strong musical accent. The commercial edition identifies the first verse handoffs in order and credits all five on the chorus. The opening hook, verse and tightened feather phrase align to album track 08 at +823.010875 s. Exact television doubling remains open. After the final cadence the programme reaches a low audio floor and then brings up a crowd roar, cheering and applause, with closer emotional sounds. The reaction shot of Ren plausibly accompanies a breath-like catch over the chorus. Its individual acoustic provenance remains qualified. See SPV2-OBS-E12-47, SPV2-OBS-E12-48, SPV2-OBS-E12-49, SPV2-OBS-E12-62, SPV2-OBS-E12-63, SPV2-OBS-E12-64 and SPV2-OPEN-E12-01.

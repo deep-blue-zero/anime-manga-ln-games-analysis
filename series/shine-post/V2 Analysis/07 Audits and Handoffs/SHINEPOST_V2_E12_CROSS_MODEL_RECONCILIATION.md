@@ -400,3 +400,181 @@ Private authored comparison SHA-256 `707fe69d26c04a445e63f5fd338b54ea963de35f4af
 [First source-adjudication register](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
 
 - **SPV2-ADJ-E12-026** · Naoki says 間違いない, “no doubt,” where C1017 prints 間違えない. This changes the use of the line in SPV2-OBS-E12-16 and strengthens SPV2-OBS-E12-37, limited to candidate OBS-E12-05 component six.
+
+## 2026-11-23 · Source reinspection, episode 12
+
+[Cumulative case index and evidence receipts](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md).
+
+20 scoped Gemini response files were authenticated against the separate pre-position records and evaluated by Codex. A dedicated native listener heard the admitted Japanese excerpts. The comparison shards separately inspected timed Japanese text, native frames and lossless measurements. This combination supports the case-specific observations below. The independent episode readings remain recoverable at their published freeze.
+
+### SPV2-ADJ-E12-003 | STRENGTHEN
+
+The audit found one live-scene candidate for the recurring signal, around Yuki’s threatened dissolution condition. It found one visual reprise in the closing credits, which plays under the ending song. The effect alone cannot adjudicate her intent.
+
+Lossless two-template/two-band confirmations co-localize 1216.3715–1216.3720 s, |r| .727–.861. These are alignment references within the event. The shard’s different signal onset is about 1215.42 s. Its 2 fps visual review and independently inspected positive frames support Yuki between about 1215.6 and 1218.0 s. Archive frame match at 1301.51–1302.47 s supports the E01 Rio–Kyoka reprise. Independent ear-only listener heard no isolated shimmer here through the speech/music. A negative sampling result has explicit threshold and coverage limits.
+
+Comparison SPV2-X-E12-003. Affected evidence SPV2-OBS-E12-69.
+
+### SPV2-ADJ-E12-007 | STRENGTHEN
+
+The finale performance sustains an E-major tonal center. G-sharp-minor harmonies color parts of that center. The master exposes solo-like lines, layered chorus vocals and audience speech over the music at different times.
+
+Independent profiles favor E major overall. That margin is small on the Side channel. Repeated G-sharp-minor triad intervals survive in both Mid and Side, including about 826, 837, 885 and 895 s. The independent listener hears a stable overarching major center. Dense mixed sections and alternative bass/chord readings limit exact inner parts or independent key diagnoses.
+
+Comparison SPV2-X-E12-007. Affected evidence SPV2-OBS-E12-47.
+
+### SPV2-ADJ-E12-008 | STRENGTHEN
+
+Native pictures show changes from the opening line through changing spotlights and an orbit into the Haru–Kyoka pair. Cuts cluster around subdivisions of the pulse. Counts and bar alignment depend on the cut list and grid.
+
+Independent inspection confirms 70 hard edits after onset, with 71 including one angle transition under flare. This is a lower bound. Gemini's comparison finds 72 under its boundaries and 73 including a possible feather wipe. The older 75 is not reproduced. Independent pulse clustering survives three block-null controls at p≈.002–.009; bar results change with inclusion and phase. Rendered imagery establishes design and motion, while the animation pipeline remains undetermined.
+
+Comparison SPV2-X-E12-008. Affected evidence SPV2-OBS-E12-48, SPV2-OBS-E12-49.
+
+### SPV2-ADJ-E12-010 | STRENGTHEN
+
+The band’s final chord and decay give way to a very low audio floor. A wide crowd roar, cheers and applause then surge, with closer emotional vocalizations layered in the following seconds.
+
+A 620 ms native lossless window around 914.25–914.88 s averages −132.274 dBFS. The perceptual gap covers some decaying and rising shoulders. The listener recognized the chord/cymbal decay and unmistakable cheering/applause around 915 s. Neither complete electronic zero nor a causal claim about every audience member is supported.
+
+Comparison SPV2-X-E12-010. Affected evidence SPV2-OBS-E12-49, SPV2-OBS-E12-65.
+
+### SPV2-ADJ-E12-013 | STRENGTHEN
+
+E12’s first verse shifts among solo-like leads and builds toward layered unison. Rio is the best-supported lead on the opening verse phrase. Kyoka is a strong candidate on 光届かない場所で. Camera foregrounding rotates independently from named vocal assignment.
+
+Blind listener hears different timbres at several entrances and unmistakable broadening by 君がくれた勇気で. Native pictures place Rio in sustained view on phrase 1, Kyoka at the later entrance, and show shoes, backs and groups within adjacent lyric units. Layered phrases and opening chorus close-ups defeat a single visual-to-vocal rule. Exact handoffs and possible overdubs remain open.
+
+The published karaoke edition assigns the first verse in order to Rio, Kyoka, Rio and Kyoka together, Momiji, then Yukine. Haru opens the following pre-chorus. This corroborates the first two probable leads in the episode. The commercial line assignments and the number of sound layers audible in the television mix have separate evidentiary bases. [JOYSOUND’s performer-labeled edition of *On Your Mark!!*](https://www.joysound.com/web/search/song/957586).
+
+Across the opening hook, the five verse units and the tightened feather phrase, native episode stereo and track 08 of the 2022 character-song album align at a common episode-minus-disc offset of 823.010875 s. The five verse comparisons yield signed Mid correlations of .935–.955 and Side correlations of .856–.928. At the feather phrase the values are .934 and .838. Spoken controls stay at or below .078 in absolute correlation and prefer different offsets. The cadence matches a later disc passage. The source tests support use of the same recorded performance in the measured passages, with a different edit and mix. The physical booklet credits the five together and prints 不揃いな, agreeing with the heard vowel where the selected episode ASS prints 不揃いの. The booklet assigns no individual lines. [Original album catalogue](https://anime.shinepost.jp/music/csc/). One owner listening packet for cases 013 and 015 was delivered. Its open questions concern the actual episode blend.
+
+Comparison SPV2-X-E12-013. Affected evidence SPV2-OBS-E12-63, SPV2-CLM-E12-63, SPV2-OPEN-E12-01.
+
+### SPV2-ADJ-E12-015 | REVISE
+
+Haru and Kyoka share the feather-and-hand duet visually. The surrounding chorus stays ensemble-led with backing layers. The phrase 涙も 笑顔も briefly tightens. The final two-hand clasp lands near a strong musical accent within 手を繋いで.
+
+Independent hearing finds a modest change around 887.7–889.7 s, with group breadth restored by the next phrase. Native pictures localize the initial visible contacts and the main clasp around 897.48 s. The strongest nearby onset supports an edit-to-pulse relationship, with exact offset sensitive to grid definition. The medium cannot uniquely assign the brief tightened vocal blend.
+
+The same commercial edition assigns the chorus containing the feather-and-hand sequence to all five, with no internal handoff marked. The episode juxtaposes a visual duet and an audible ensemble. The brief narrowing around 887.7–889.7 s does not isolate two named recorded voices. [JOYSOUND’s performer-labeled edition of *On Your Mark!!*](https://www.joysound.com/web/search/song/957586).
+
+Comparison SPV2-X-E12-015. Affected evidence SPV2-OBS-E12-64, SPV2-OPEN-E12-01.
+
+### SPV2-ADJ-E12-018 | STRENGTHEN
+
+Naoki starts with a cut-off け, then says ほたる around 11:09–11:10. Later near 16:04 he says けい in an uninterrupted address. The written witness uses 螢 for the completed addresses.
+
+Sealed ear-only Japanese distinguishes the onset, pause and second two-mora address. The sample-resolved burst is near 669.46 s, with the completed form around 670.1–670.6; second address around 964.46–964.78. Its spelling and the unspoken completion of the false start remain underdetermined. Identity relies on the surrounding encounter and other independent witnesses.
+
+Comparison SPV2-X-E12-018. Affected evidence SPV2-OBS-E12-11, SPV2-OBS-E12-35, SPV2-OBS-E12-37, SPV2-OPEN-E12-02.
+
+### SPV2-ADJ-E12-021 | STRENGTHEN
+
+Momiji expands 武者震い into a seven-mora comic coinage. むしゃぶるぷるい is favored, with むしゃぶるぶるい still possible. The caption writes 武者ぶる震い.
+
+The ear observer heard a crisp fifth mora. Source measurements find a longer unvoiced closure and stronger release than mora three, with short positive VOT. The comic expansion is firm, the consonant is qualified and formal written orthography is unverified.
+
+Comparison SPV2-X-E12-021. Affected evidence SPV2-OBS-E12-31.
+
+### SPV2-ADJ-E12-022 | STRENGTHEN
+
+Rio speaks 究極の in the start of her performance boast. The written witness displays 究極な.
+
+The ear-only record preserves the /no/ link before パフォ, with overlap affecting later syllables.
+
+Comparison SPV2-X-E12-022. Affected evidence SPV2-OBS-E12-31.
+
+### SPV2-ADJ-E12-023 | REVISE
+
+A voice behind Nanami reassures Nanami that she herself is not the one taking the stage, using 立つわけではない. The caption writes 立つだけではない.
+
+The sealed listener independently distinguishes /wake/ and the full /dewa nai/. The next line gives Nanami’s response. The reassurance addresses Nanami, with the individual speaker considered separately in E12-034.
+
+Comparison SPV2-X-E12-023. Affected evidence SPV2-OBS-E12-05, SPV2-OBS-E12-32.
+
+### SPV2-ADJ-E12-024 | REVISE
+
+The heard line is 全力の輝きを放とう. The Japanese written witness shows 輝きの放とう.
+
+The initial noun modifier の remains secure and the heard object particle between 輝き and 放とう is を. Listener and selected raw #81 align around 376–378 s.
+
+Comparison SPV2-X-E12-024. Affected evidence SPV2-OBS-E12-33.
+
+### SPV2-ADJ-E12-025 | STRENGTHEN
+
+Haru sounds みんながどこからでも見つけられる in her description of Hotaru as a shining signpost. The written witness omits the が.
+
+Independent hearing anchors が after みんな near 648 s. The semantic scope remains inclusive through the later clause identifying Hotaru.
+
+Comparison SPV2-X-E12-025. Affected evidence SPV2-OBS-E12-10, SPV2-OBS-E12-34.
+
+### SPV2-ADJ-E12-026 | REVISE
+
+Naoki says 間違いない, expressing confidence that Kyoka can see beyond the limit if she wishes. 間違えない is the written form. Kyoka’s technical accuracy has separate evidence.
+
+The earlier unassisted native lossless pilot and the ordinary initially blind MP3 listener give the same Japanese form independently. Native window around 977.4–978.3 s aligns. The source verification copied 384,000 original stereo frames and confirmed the visible 間違えない. One case and two authenticated reports.
+
+Comparison SPV2-X-E12-026. Affected evidence SPV2-OBS-E12-16, SPV2-OBS-E12-37.
+
+### SPV2-ADJ-E12-027 | STRENGTHEN
+
+Hotaru’s voiced phrase reads 輝くしるべ, with three morae in しるべ. The sign is printed 道標 without a phonetic gloss.
+
+Independent ear-only segment near 1110–1112 s hears しるべ clearly. Burned and ASS witnesses establish characters only. The voiceover is separated from the smiling still image.
+
+Comparison SPV2-X-E12-027. Affected evidence SPV2-OBS-E12-37.
+
+### SPV2-ADJ-E12-029 | STRENGTHEN
+
+A short uncaptioned male reaction sounds over the Hotaru eyecatch. Naoki is the best-supported attribution, based on the voice and scene continuity.
+
+Native energy localizes the active centered burst at 510.18–510.56 s. The ear observer hears a rising startled male sound and compares it to Naoki. Naoki is the speaking focus immediately before and after. The illustration depicts Hotaru and supplies no speaker lip movement.
+
+Comparison SPV2-X-E12-029. Affected evidence SPV2-OBS-E12-58, SPV2-OBS-E12-62, SPV2-OBS-E12-68, SPV2-OBS-E12-69.
+
+### SPV2-ADJ-E12-034 | OPEN
+
+A woman in the row behind Nanami delivers the reassurance. Natalya is the leading individual candidate, and the identity remains open.
+
+Spatial continuity and preserved adjacent turns establish direction and addressee. No candidate is visibly articulating at the time of the voice. E02 named-reference comparison weakens Miina and favors Natalya’s voice register, but Kikuchi and Natalya overlap on coarse acoustic features and the blind listener could not name this speaker. The later deeper voice is separate.
+
+This incidental speaker identification remains open at low consequence. Revisit if used for a substantive relationship claim.
+
+Comparison SPV2-X-E12-034. Affected evidence SPV2-OBS-E12-32, SPV2-OPEN-E12-02.
+
+### SPV2-ADJ-E12-035 | REVISE
+
+The office response order favors Kyoka on HY:RAINが…, with Rio on 私様たちをライバルだと？ and Haru on 蓮ちゃん….
+
+During the first cue, Kyoka’s articulation is bounded to the response and the listener hears a softer voice distinct from the second. Rio also changes mouth state at the opening, so the first attribution remains qualified. Rio alone articulates for the second, with her characteristic 私様. Haru alone articulates for the third. Momiji and Yukine hold static reaction mouths.
+
+Comparison SPV2-X-E12-035. Affected evidence SPV2-OBS-E12-19, SPV2-OBS-E12-39.
+
+### SPV2-ADJ-E12-061 | STRENGTHEN
+
+A short breath-like catch is audible in the chorus gap over Ren’s reaction insert. The edit strongly associates it with Ren, whose mouth parts during the shot.
+
+The listener independently hears a roughly 0.25–0.35 s catch around 829.4–829.9 s amid the song. Ren dominates native frames 829.203–830.204 and startles around 829.7. A singer’s inhale or overlap with a music transient remains plausible. Multiple mentions from the same listener are one hearing witness.
+
+Comparison SPV2-X-E12-061. Affected evidence SPV2-OBS-E12-62.
+
+### SPV2-ADJ-E12-062 | REVISE
+
+Haru skips to a rhythmic sing-song chant in the corridor. She repeats なんだろな in a higher, louder delivery and returns to a spoken greeting at the door.
+
+E12 1169.3–1174.5 s includes two distinct performance phases. An F0 plateau around 1172.44–1172.74 and a subsequent steeper, higher contour support the contrasting delivery. The polite preceding speaker and the door transition bound the clip. This is expressive in-between delivery, with strict song categorization optional.
+
+Comparison SPV2-X-E12-062. Affected evidence SPV2-OBS-E12-68.
+
+### SPV2-ADJ-E12-063 | OPEN
+
+All five visibly take part in the response. The mixed shout is clearly polyphonic and だ is dominant to the listener. The subtitles print だ・です. The audible count and assignable secondary ending remain open.
+
+Mouth movement across all five and the blend against solo controls support a group response. Dense orchestra, multiple similar formants and MP3 compression limit speaker count and phoneme segregation. Source mapping agrees on the visible collective decision independently of exact audible readings.
+
+Keep these low-consequence acoustic particulars open. No individual motivation or assent is inferred from the particles.
+
+Comparison SPV2-X-E12-063. Affected evidence SPV2-OBS-E12-69.
+
+E12 album source comparison `b6be1928c40564e1d925760163a9161310d42d4eb331bacf0447358d1f4d8607` · published-part verification `7a6317473360cd276abc6266fc0f88c669f316ab887de41c06351cac8f2e4e1b`.

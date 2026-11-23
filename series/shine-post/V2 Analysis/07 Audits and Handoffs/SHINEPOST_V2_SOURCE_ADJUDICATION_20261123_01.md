@@ -305,6 +305,8 @@ First view `bfd93d03d573c417eeb4ed17bb219fc7c722a47e4d767ee3d6b28b7a722beba1` ·
 
 Naoki voices confidence that, if Kyoka wishes for it, she should be able to see beyond her limit. Her earlier technical accuracy has its own scene evidence. The correction applies to the use of C1017 in SPV2-OBS-E12-16 and strengthens the distinction made in SPV2-OBS-E12-37. Only component six of the earlier candidate’s composite OBS-E12-05 is adjudicated here. The cause of the spelling difference is undocumented. No human referral was needed.
 
+Programme release `4c7c3dbddd28c081ee51af52607146258d0c57262639a73042fa4f5ea8ad985e` · complete Japanese stereo FLAC `c9ce5e732d1885849cc9bd7285b860ef166884cd5f96ff489274fac556641374` · Japanese hard-subtitled picture `c7177c3ac492229fb5500e4006bb911c6bc4b013eeda5cee8693ce4a618ecc3b` · selected Japanese ASS `9b3e5773b9e0e68bccd559c39488de23c62f6313a494e33366f75297afdc29e3`. Programme samples 46,752,000–47,135,999 match the corresponding separate FLAC and 974–982 s pilot. Signed stereo PCM24 `3388faa85c88ff4b7febc872fb4d080868650fa74f595c416e4c1a067260fd0a`.
+
 First blind response `1fa2d5000b40d78695baf2b6225f79773a54a55f86ead1ada021622679ab2c3b` · formulated return `5830daaa4ef6387d1ef932bbbbf9790eaffbc5af531124912b5d108dc3c8c75b` · source evaluation `3e9d6557268120065954c3238165e29c3d5661ef8b3f4c0df70f4ff6b2bbbd48`.
 
 ## Pass 2 · The E04 owner response

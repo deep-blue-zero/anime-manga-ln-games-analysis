@@ -98,3 +98,7 @@ The comparison leaves the existing reconstruction qualifications and V1 literary
 ## Source adjudication · 2026-11-23
 
 The first publication after the initial 84-case handoff contains the 22 E01–E09 cases and one E12 lexical case. An independently heard E08 line has two listener pathways and counts once. E04 has one delivered, answered human referral. The remaining 61 case IDs extend beyond this publication, including cases already returned or evaluated elsewhere in the continuing review. [First source-adjudication register](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+## 2026-11-23 · All 84 ordinary cases evaluated
+
+The complete return join links 84 original IDs to 84 ordinary formal responses and their independent scope decisions. Subsequent hearings and source editions change specified evidence in E10–E12. Reconstruction grades and the separate season synthesis retain their existing publication conditions. The six independent roles used the verified Astra 6.2 Ultra configuration for the frozen E01–E12 reading. Following the usage reset, the principal used GPT-6.2 Sol for post-freeze receipt joins, late evidence evaluations, human intake and publication coordination. Its reasoning level was not attested. The freeze predates that change. Antigravity’s ordinary observer receipts record the UI model as Gemini 4 Neon (XHigh). The original blind observations, later comparative answers and Codex evaluations remain separately identifiable. [Cumulative findings, case receipts and human review](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md).

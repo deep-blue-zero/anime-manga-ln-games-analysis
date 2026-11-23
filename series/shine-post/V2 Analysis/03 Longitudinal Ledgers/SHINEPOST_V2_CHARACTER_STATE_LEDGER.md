@@ -795,3 +795,25 @@ Earlier evidence and claims · SPV2-CLM-E09-01, SPV2-CLM-E09-02, SPV2-CLM-E09-03
 **SPV2-XREV-E07-01 / SPV2-XREV-E08-01** · Momiji denies first and Yukine gives the rival explanation. Yuuki later explicitly attributes Haru’s restraint to consideration for them.
 
 **SPV2-ADJ-E12-026** · Naoki’s “no doubt” conveys confidence in Kyoka’s potential. Kyoka has yet to realize the conditional future he describes.
+
+## 2026-11-23 · Completed episode source adjudications
+
+[All 84 source adjudications and their receipts](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md).
+
+### E10
+
+| Existing character | Dated evidentiary addition | Case |
+| --- | --- | --- |
+| SPV2-CH-RIO | Rio says that 759 tickets still remain and later articulates both the indignant exclamation about the departing visitor and the question to Naoki. In the office she remarks on the size of the Budokan crowd. The earlier sales and reception states stand. | 015, 020, 021 |
+| SPV2-CH-HARU, SPV2-CH-DOOR-COMPANION, SPV2-CH-MOMIJI | Haru gives the full group name at the radio microphone. Yukine’s TV boast and ensuing shout belong to the foot-massage challenge. Momiji voices the short–short–long gesture in her dance demonstration. | 011, 012, 014 |
+| SPV2-CH-KEI, SPV2-CH-NAOKI | Naoki asks about the new song. Kei’s brief answer and wish for stimulus allow a deadline barely met or still approaching. Her professional concern and wish to see the group survive either reading. | 016, 027 |
+| SPV2-CH-REN, SPV2-CH-KYOKA, SPV2-CH-HARU | Ren and Kyoka speak together when they tell Haru to keep quiet. Haru’s objection remains an objection; the audible unison strengthens the momentary alignment of the two speakers. | 064 |
+| SPV2-CH-AOBA, SPV2-CH-ITOHA, SPV2-CH-YAWARA, SPV2-CH-NANOKA | Yawara greets a prior acquaintance. Nanoka introduces herself. Aoba apologizes, and she and Itoha give distinct final remarks after Ren’s leave-taking. The individual turns differentiate the visitors’ roles. | 046 |
+
+### E11 | Haru’s aspiration and Kyoka’s limits
+
+Haru’s speech uses 世界中のみんなに and twice the potential 叶えられる, the second time explicitly joined to 信じてる. The spoken repetitions add specificity to her expectation for TINGS. Kyoka’s contrastive 覚えたことは sets off the precision she can name against what she cannot yet offer. Naoki takes up the same topic before questioning whether that precision can satisfy the audience. See SPV2-OBS-E11-38, SPV2-OBS-E11-39 and SPV2-CLM-E11-20.
+
+### E12 | What Naoki affirms and how the five take the offer
+
+Naoki’s spoken 間違いない expresses confidence in what Kyoka may see. Her ability to reproduce learned movement has separate evidence. His broken け and completed ほたる in the earlier encounter, alongside later けい, add support to the separately grounded Hotaru and Kei identity comparison. In the office, Kyoka is favored on the initial surprised response. Rio’s 私様 and Haru’s quiet call to Ren are securely distinguished from that first turn. The eventual commitment is a visible collective action even though the loud group reply does not expose every spoken ending. See SPV2-OBS-E12-16, SPV2-OBS-E12-37, SPV2-OBS-E12-39 and SPV2-OBS-E12-69.

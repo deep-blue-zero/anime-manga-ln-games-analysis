@@ -366,5 +366,5 @@ The selection maps every registered passage, physical line, declared part and fr
 
 - **E02-jp** · Momiji’s shift in address belongs to the changing repartee. Naoki’s reaction can be reported with qualified attribution.
 - **E02-confidence** · Read the change as a commitment she acts on. Retain the limits of Naoki’s visual cue.
-- **E02-reply** · Assign the reply to the house, led by the pictured pair. Keep other spectators’ bafflement separate from proof of being first-timers.
+- **E02-reply** · The two pictured spectators answer Kyoka. The remainder of the room is unassigned. Keep other spectators’ bafflement separate from proof of being first-timers.
 - **E02-master** · Strengthen the source relationship between the E01 rehearsal and E02 concert. Keep the settings and theatrical presentations distinct.

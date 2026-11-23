@@ -323,6 +323,6 @@ The selection maps every registered passage, physical line, declared part and fr
 - **E01-club** · The room’s affection and Haru’s private doubt coexist. No audience knowledge of that doubt is shown.
 - **E01-phone** · Naoki and Kei can invoke his private idiom through their existing familiarity.
 - **E01-rehearsal** · Retain Rio’s observable delay and the reproduced music. Individual competence cannot be ranked from this passage.
-- **E01-motive** · Haru can deliberately rally her cheerfulness and mean what she says. The other two need not withhold their wishes for the same reason.
+- **E01-motive** · Haru can deliberately rally her cheerfulness and mean what she says. Rio and Kyoka can have different reasons for withholding their wishes.
 - **E01-ultimatum** · Retain practical pressure on the trio, the separate test for Naoki and Yuuki’s personal investment in recruitment.
 - **E01-jp** · Keep the fan transcription as a written witness. Use source-attributed lexical readings where the listener could hear the passage.

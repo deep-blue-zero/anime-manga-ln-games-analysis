@@ -245,3 +245,7 @@ The verification receipts for the 36 distributed matches and 96 segment matches 
 ## Source adjudication · 2026-11-23
 
 The first evaluated publication covers 23 distinct cases from the original 84. The source checks distinguish the file-based picture and measurement route from native attached audio. Spoken and musical findings below are credited to actual listeners on the registered intervals. E04 also records a qualified owner response checked against the original picture. The other 61 cases fall outside this checkpoint. [Receipt register and transport controls](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+## 2026-11-23 · All 84 ordinary cases evaluated
+
+The completed ordinary pass contains 84 first views, 84 native-audio first views and 84 formal responses. The separate early native pilots for E08 and E12-026, and later post-position hearings, are additional witnesses to existing cases. The cited programme, album recording, physical lyric text and published commercial part assignments are separately identified. An episode mix can support a recurring recorded performance without revealing its stems. [Published E10 parts](https://www.joysound.com/web/search/song/957587) · [Published E12 parts](https://www.joysound.com/web/search/song/957586). [Cumulative findings, case receipts and human review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md).
