@@ -12,6 +12,14 @@ mutable: true
 
 The [CP5 anime-native baseline](../04%20Character%20Reconstruction/LYCORIS_RECOIL_CP5_ANIME_NATIVE_BASELINE.md) supplies the frozen comparison. This ledger adds source-local behavior and records its strongest warranted effect on the integrated model. A character’s testimony can establish how the character explains an action, and a focalizer’s opinion can explain the structure of a scene. Neither automatically establishes the action’s actual causes. Repeated licensed portrayals can increase a trait’s salience without making it more frequent in the anime.
 
+## Contributor-level anthology comparison
+
+These early comparisons use the [first Reload](../02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD_CONTRIBUTOR_READINGS.md), [Reload 02](../02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD02_CONTRIBUTOR_READINGS.md), [Reload 03](../02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD03_CONTRIBUTOR_READINGS.md) and [first Repeat](../02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT_CONTRIBUTOR_READINGS.md). These four books contain 56 credited comic entries, with Imigimuru’s third-volume entry counting four short segments. Contributors who appear twice supply two realizations under one creator and do not increase the independent-convergence count twice.
+
+- Different authors give Takina ways to take responsibility for pleasure. Ikra’s games, もけお’s itinerary and GUNP’s negotiated embrace each contain her affirmative action. 花田ももせ’s refusal of co-sleep, もけお’s quiet train image and めきめき’s private account of safe sleep put limits on generalizing any single permission. **EXTEND** the envelope.
+- しーめ gives Takina shortcuts with Chisato and with Kurumi. 大倉ナタ and 幌田 separately give Fuki different peer-directed forms of support after a crisis. In both cases proximity to one person is only part of a broader set of situated capacities. **SPECIFY** the local directions before pooling evidence.
+- Match gives an opponent a manuscript route back to useful work without cancelling accountability. 若鶏にこみ and タチ draw unwanted containment and covert monitoring as disputed forms of concern. Refusals matter even where a caring motive is legible. **PRESSURE** a universal equation of concern and autonomy across authors. B1 and A2 can supply different supporting cases without becoming evidence that an A1 refusal happened twice.
+
 ## Recollect · Abe Kanari’s single-author derivative realization
 
 The [first volume](../02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V01_DEEP_READING.md) and [second volume](../02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V02_DEEP_READING.md) use page turns and repeated games to reveal a changed interpretation. Evidence from two volumes is recurrence under one creator.

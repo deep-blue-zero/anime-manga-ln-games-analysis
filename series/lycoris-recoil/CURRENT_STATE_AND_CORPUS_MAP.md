@@ -148,7 +148,7 @@ V1 remains historically authoritative for what the project previously concluded,
 - Anime-native reconstruction baseline: **FROZEN AT CP5**
 - Supplementary prose: **3 of 3 volumes complete**.
 - Recollect: **both B1 volumes complete**.
-- Anthologies: **C1 contributor-local reading follows the A2 volumes**.
+- Anthologies: **four of seven C1 volumes complete**.
 - V1→V2 claim audit: **162 attributable transitions through Short 06**.
 - Current full-series V2 synthesis gate: **CLOSED**
 - Sequential-analysis lock: **OPEN**
@@ -504,7 +504,7 @@ Read:
 
 
 - [*Recollect* V01](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V01_DEEP_READING.md) and [V02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V02_DEEP_READING.md), complete;
-- official anthologies story-by-story / contributor-by-contributor.
+- contributor readings complete for [*Reload*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD_CONTRIBUTOR_READINGS.md), [*Reload 02*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD02_CONTRIBUTOR_READINGS.md), [*Reload 03*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD03_CONTRIBUTOR_READINGS.md) and [*Repeat*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT_CONTRIBUTOR_READINGS.md). *Repeat 02*, *Repeat 03* and *React* follow.
 
 
 ## Phase G — Cross-source synthesis and reconstruction
