@@ -225,15 +225,9 @@ CP5 freezes the anime-native baseline. A2, B1 and C1 work can now contribute thr
 
 ## 9. Supplementary coverage and remaining audit actions
 
-The 13 inventoried EPUBs comprise three novels, two *Recollect* volumes, seven contributor-level anthologies and the *Heroine Archive*. The corpus map and coverage receipt identify the acceptance status of each A2, B1 and C1 reading. The [coverage receipt](../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) identifies which pages or components the principal and independent readers inspected. The 1,099 anthology image leaves include 89 credited comic entries, grouped and individually bounded in the volume records. The second *Repeat 02* file is an exact duplicate. No additional local narrative ebook or standalone chapter was found outside these files. Edition side matter, story frames, bonuses, insets and the production interviews are accounted for in their source-local records.
+The 13 inventoried EPUBs comprise three novels, two *Recollect* volumes, seven contributor-level anthologies and the *Heroine Archive*. All 12 narrative readings have documented source-native acceptance. The *Heroine Archive* retains its separate P_PARATEXT reference status. The [coverage receipt](../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) identifies which pages or components the principal and independent readers inspected. The 1,099 anthology image leaves include 89 credited comic entries, grouped and individually bounded in the volume records. The second *Repeat 02* file is an exact duplicate. No additional local narrative ebook or standalone chapter was found outside these files. Edition side matter, story frames, bonuses, insets and the production interviews are accounted for in their source-local records.
 
-The primary-source corpus is sufficiently audited to proceed with V2 method/infrastructure initialization. Remaining non-blocking or downstream audit work:
-
-1. during anthology reading, recover full contributor/story attribution from contents/colophons where OPF metadata is incomplete;
-2. preserve exact source-local story/chapter locators during prose and manga deep readings;
-3. if the Bizen adaptation is later acquired, run a separate B2 admission audit rather than silently adding it;
-4. update this inventory if any new official Lycoris narrative source is acquired;
-5. record any supplied continuous-video escalation clips/episodes in the evidence index rather than publishing the 20 GB media tree wholesale.
+The source-native records now preserve the contributor and story attribution recovered from printed contents and colophons, including cases where the OPF lists fewer names. Stable source-local prose and manga locators govern the pending cross-source integration. Future official sources require the inventory and admission process. The Bizen adaptation retains its separate B2 admission route. The evidence index records any supplied continuous-video escalation while the media tree stays in external storage.
 
 ## 10. Initialization consequence
 

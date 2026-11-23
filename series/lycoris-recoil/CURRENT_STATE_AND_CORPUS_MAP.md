@@ -93,7 +93,7 @@ The principal integrator owns canonical rulings and shared-file writes. Separate
   - completed/frozen TV source horizon: E13 / TV 13 of 13 complete
   - frozen short readings through Short 06: [Short 02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT02_DEEP_READING.md) · [Short 03](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT03_DEEP_READING.md) · [Short 04](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT04_DEEP_READING.md) · [Short 05](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT05_DEEP_READING.md) · [Short 06](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Anime/LYCORIS_RECOIL_SHORT06_DEEP_READING.md)
   - current source boundary: SHORT06_SOURCE_NATIVE_FREEZE. CP4_POST_E13 is adjudicated and closed.
-- Next operation: Continue the designated principal’s whole-volume inspection at *Recovery days*. The individual source-native acceptance and outstanding volumes are listed under Phases E and F.
+- Next operation: Integrate the 12 accepted supplementary readings against frozen CP5 using the cross-source method. Phases E and F link the individually accepted A2, B1 and C1 evidence.
 - Corpus-wide project initiation policy:
   - `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`
   - Drive ID: `1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC`
@@ -136,7 +136,7 @@ V1 remains historically authoritative for what the project previously concluded,
 # 2. Project state
 
 
-- Status: **V2 / CP5 FROZEN / SUPPLEMENTARY READING OPEN**
+- Status: **V2 / CP5 FROZEN / CROSS-SOURCE INTEGRATION OPEN**
 - Active analytical generation: **V2**
 - V2 architecture: **CANONICAL**
 - V2 analytical method: **CANONICAL**
@@ -146,9 +146,9 @@ V1 remains historically authoritative for what the project previously concluded,
 - Current admitted A1 horizon: TV E01–E13 and Shorts 01–06.
 - Shorts sequential boundary: **SHORT06_SOURCE_NATIVE_FREEZE**.
 - Anime-native reconstruction baseline: **FROZEN AT CP5**
-- Supplementary prose: **Ordinary days accepted. Two A2 readings provisional**.
+- Supplementary prose: **All three A2 source-native readings accepted**.
 - Recollect: **Both B1 source-native readings accepted**.
-- Anthologies: **React accepted. Six C1 readings provisional**, among 89 credited comic entries in the full anthology set.
+- Anthologies: **All seven C1 source-native readings accepted**, with 89 individually credited comic entries.
 - V1→V2 claim audit: **162 attributable transitions through Short 06**.
 - Current full-series V2 synthesis gate: **CLOSED**
 - Sequential-analysis lock: **OPEN**
@@ -488,8 +488,8 @@ Read source-natively:
 
 
 1. [*Ordinary days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_ORDINARY_DAYS_DEEP_READING.md) — source-native reading accepted.
-2. [*Recovery days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_RECOVERY_DAYS_DEEP_READING.md) — provisional.
-3. [*Gluttony days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_GLUTTONY_DAYS_DEEP_READING.md) — provisional.
+2. [*Recovery days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_RECOVERY_DAYS_DEEP_READING.md) — source-native reading accepted.
+3. [*Gluttony days*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_GLUTTONY_DAYS_DEEP_READING.md) — source-native reading accepted.
 
 The [supplementary participation record](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) distinguishes principal inspection from independent coverage for each unit. The [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) records proposed comparisons against CP5.
 
@@ -504,7 +504,7 @@ Read:
 
 
 - [*Recollect* V01](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V01_DEEP_READING.md) and [V02](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V02_DEEP_READING.md), both source-native readings accepted.
-- Provisional contributor readings for [*Reload*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD_CONTRIBUTOR_READINGS.md), [*Reload 02*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD02_CONTRIBUTOR_READINGS.md), [*Reload 03*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD03_CONTRIBUTOR_READINGS.md) and [*Repeat*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT_CONTRIBUTOR_READINGS.md). Further provisional readings cover [*Repeat 02*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT02_CONTRIBUTOR_READINGS.md), [*Repeat 03*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT03_CONTRIBUTOR_READINGS.md). [*React*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REACT_CONTRIBUTOR_READINGS.md) has an accepted source-native reading.
+- Accepted contributor readings cover [*Reload*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD_CONTRIBUTOR_READINGS.md), [*Reload 02*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD02_CONTRIBUTOR_READINGS.md), [*Reload 03*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD03_CONTRIBUTOR_READINGS.md), [*Repeat*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT_CONTRIBUTOR_READINGS.md), [*Repeat 02*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT02_CONTRIBUTOR_READINGS.md), [*Repeat 03*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT03_CONTRIBUTOR_READINGS.md), and [*React*](03%20V2%20Working%20Artifacts/02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REACT_CONTRIBUTOR_READINGS.md).
 
 
 ## Phase G — Cross-source synthesis and reconstruction
@@ -698,9 +698,9 @@ project_initialization:
   receiver_perceptual_audio_audition: unverified
   attributed_retrospective_av_reviews: admitted_with_provenance
   supplementary_source_access: open_after_cp5
-  supplementary_narrative_volumes_provisional: 8
-  supplementary_narrative_volumes_accepted: 4
-  supplementary_integration_lock: pending_principal_whole_unit_inspection
+  supplementary_narrative_volumes_provisional: 0
+  supplementary_narrative_volumes_accepted: 12
+  supplementary_integration_lock: pending_cross_source_integration
 ```
 
 
@@ -711,7 +711,7 @@ project_initialization:
 
 The [V2 completion register](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_COMPLETION_REGISTER.md) records the starting authority, per-volume responsibilities and evidence required for final release.
 
-The prose principal’s next source is the retained Japanese edition of *Recovery days*, including both endings. Record actual coverage by spine or page range and reconcile any changed findings with the independent readings before accepting the volume. Review dependent crosswalk rows when their cited volumes are accepted. The character, relationship, prediction, revision and locator ledgers retain the stage-specific evidence. The completed short-only comparison supplies the attributable corrections. Open listener referrals and chronology limits travel with the CP5 baseline.
+All 12 supplementary narrative readings have passed their source-native transactions. Reconcile their material comparisons in the [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) before promoting any integrated characterization. Preserve the CP5 anime-native account, distinguish A2 focalization from authored B1 and contributor-local C1 realizations, and route accepted changes through the established ledgers. Open listener referrals and chronology limits travel with CP5.
 
 # 14. Retrieval route
 
@@ -734,4 +734,4 @@ When resuming:
 
 # 15. Governing current-state statement
 
-The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The supplementary reading horizon covers all three admitted novels, both Recollect volumes and seven anthologies. The Heroine Archive has a separately attributed production-reference record. Four supplementary readings have passed source-native acceptance. Eight await their own acceptance transactions. The cross-source comparisons are proposals pending the full integration pass against CP5. No supplementary source has entered the A1 account.
+The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The three novels, both *Recollect* volumes and seven anthologies have 12 accepted source-native readings. The *Heroine Archive* has a separately attributed production-reference record. The integrated characterization comparisons remain provisional pending the full pass against CP5. CP5 governs the anime-native evidence boundary.

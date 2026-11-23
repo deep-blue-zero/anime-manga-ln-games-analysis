@@ -166,16 +166,16 @@ A supplied clip should be registered here with Drive ID/hash if it becomes part 
 | Source | Class | Drive ID | Current integration access |
 |---|---|---|---|
 | `Ordinary days` | A2 | `1RlbZEqj3xaeGMu-Po26GwltJ45jYHnEu` | `SOURCE_NATIVE_ACCEPTED` |
-| `Recovery days` | A2 | `1deAImiwPdORptTtsxdqliFlHPM4wAbav` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Gluttony days` | A2 | `1dVgGlPdZBlBEILdoqyPdHeAkdH7xfKdR` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Recovery days` | A2 | `1deAImiwPdORptTtsxdqliFlHPM4wAbav` | `SOURCE_NATIVE_ACCEPTED` |
+| `Gluttony days` | A2 | `1dVgGlPdZBlBEILdoqyPdHeAkdH7xfKdR` | `SOURCE_NATIVE_ACCEPTED` |
 | `Recollect V01` | B1 | `1a5RZc2N4Lq9mjweXjbl1lhOBSJJ2iQ1J` | `SOURCE_NATIVE_ACCEPTED` |
 | `Recollect V02` | B1 | `1EtC-4C9e19aq_y4gCOTURxz7COj0s2kc` | `SOURCE_NATIVE_ACCEPTED` |
-| `Reload` | C1 | `1iz1TLjqBuNLGleyeYgLdSDxzdfa07shi` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Reload 02` | C1 | `1RXo71dZANCFqQeDRVh2clJy7kQL8-Ei8` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Reload 03` | C1 | `1CmKsnv7fgpuJOrHJUTDLJh4qUKbvRC1N` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Repeat` | C1 | `1c5fzbhWdtt87yoXnEM88nKl56WVm7Mnv` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Repeat 02` | C1 | `1VrPMT-ysH6Hoe4ODXhw6b263WFkbI1j7` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Repeat 03` | C1 | `1uozt-it-6OqgX8ZnHSLCCRuI3eRZZwDg` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Reload` | C1 | `1iz1TLjqBuNLGleyeYgLdSDxzdfa07shi` | `SOURCE_NATIVE_ACCEPTED` |
+| `Reload 02` | C1 | `1RXo71dZANCFqQeDRVh2clJy7kQL8-Ei8` | `SOURCE_NATIVE_ACCEPTED` |
+| `Reload 03` | C1 | `1CmKsnv7fgpuJOrHJUTDLJh4qUKbvRC1N` | `SOURCE_NATIVE_ACCEPTED` |
+| `Repeat` | C1 | `1c5fzbhWdtt87yoXnEM88nKl56WVm7Mnv` | `SOURCE_NATIVE_ACCEPTED` |
+| `Repeat 02` | C1 | `1VrPMT-ysH6Hoe4ODXhw6b263WFkbI1j7` | `SOURCE_NATIVE_ACCEPTED` |
+| `Repeat 03` | C1 | `1uozt-it-6OqgX8ZnHSLCCRuI3eRZZwDg` | `SOURCE_NATIVE_ACCEPTED` |
 | `React` | C1 | `1ynVbUqVGgs_NtGdWzFduy7U6vsWQQG2f` | `SOURCE_NATIVE_ACCEPTED` |
 
 Exact SHA-256 and EPUB metadata remain canonical in `LYCORIS_RECOIL_V2_SOURCE_INVENTORY.md` and `04_books/audit_manifest.json`.
