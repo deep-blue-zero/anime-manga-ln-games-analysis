@@ -24,7 +24,8 @@ Reviewed analysis subjects in the `lycoris-recoil` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `v2-tv-e01-e13`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-13 (frozen at CP4_POST_E13), with the ledgers' Friends Short 01 validation entries. No Shorts 02-06, novels, Recollect, anthology or other supplementary coverage is claimed; perceptual voice audition remains unverified.; continuity `lycoris-recoil-television-anime`
+  - `v2-friends-shorts-01-06`: ANIME EPISODE: Distributed analysis in the canonical V2 ledgers' per-unit Friends Shorts 01-06 records (MB-SHORT01 through MB-SHORT06 and the REL-CHI-TAK Short entries), frozen at SHORT06_SOURCE_NATIVE_FREEZE and included in the CP5_ANIME_NATIVE_FINAL baseline. The shorts test ordinary work and leisure rather than crisis conduct. No novel, Recollect, anthology or other supplementary coverage is claimed; those readings are provisional.; continuity `lycoris-recoil-television-anime`
+  - `v2-tv-e01-e13`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-13 (CP4_POST_E13 adjudicated and closed). Perceptual voice audition remains unverified.; continuity `lycoris-recoil-television-anime`
 - Reviewed current evidence:
   - [`v2-character-state-ledger` — Inoue Takina (TAK) observations and state snapshots in the V2 character state and microbehavior ledger](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/03%20Longitudinal%20Ledgers/LYCORIS_RECOIL_CHARACTER_STATE_AND_MICROBEHAVIOR_LEDGER.md)
   - [`v2-relationship-state-ledger` — Inoue Takina in the REL-CHI-TAK dyad and related entries of the V2 relationship state ledger](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/03%20Longitudinal%20Ledgers/LYCORIS_RECOIL_RELATIONSHIP_STATE_LEDGER.md)
@@ -47,7 +48,8 @@ Reviewed analysis subjects in the `lycoris-recoil` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `v2-tv-e01-e13`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-13 (frozen at CP4_POST_E13), with the ledgers' Friends Short 01 validation entries. No Shorts 02-06, novels, Recollect, anthology or other supplementary coverage is claimed; perceptual voice audition remains unverified.; continuity `lycoris-recoil-television-anime`
+  - `v2-friends-shorts-01-06`: ANIME EPISODE: Distributed analysis in the canonical V2 ledgers' per-unit Friends Shorts 01-06 records (MB-SHORT01 through MB-SHORT06 and the REL-CHI-TAK Short entries), frozen at SHORT06_SOURCE_NATIVE_FREEZE and included in the CP5_ANIME_NATIVE_FINAL baseline. The shorts test ordinary work and leisure rather than crisis conduct. No novel, Recollect, anthology or other supplementary coverage is claimed; those readings are provisional.; continuity `lycoris-recoil-television-anime`
+  - `v2-tv-e01-e13`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-13 (CP4_POST_E13 adjudicated and closed). Perceptual voice audition remains unverified.; continuity `lycoris-recoil-television-anime`
 - Reviewed current evidence:
   - [`v2-character-state-ledger` — Nishikigi Chisato (CHI) observations and state snapshots in the V2 character state and microbehavior ledger](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/03%20Longitudinal%20Ledgers/LYCORIS_RECOIL_CHARACTER_STATE_AND_MICROBEHAVIOR_LEDGER.md)
   - [`v2-relationship-state-ledger` — Nishikigi Chisato in the REL-CHI-TAK dyad and related entries of the V2 relationship state ledger](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/03%20Longitudinal%20Ledgers/LYCORIS_RECOIL_RELATIONSHIP_STATE_LEDGER.md)
