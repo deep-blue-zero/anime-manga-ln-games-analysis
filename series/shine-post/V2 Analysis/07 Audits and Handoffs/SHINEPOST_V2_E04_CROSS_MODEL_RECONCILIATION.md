@@ -430,3 +430,9 @@ The selection maps every registered passage, physical line, declared part and fr
 | Selected coverage validation | 962ca8516f7b993acc686addce8dda48ba47d36eb4294bbbf2fa48b92ada72f9 |
 | Selected public findings | 6231b4d81cc2b5ab214267a4fb7373418803b78aab9f21fe4f86f4656f3eb48c |
 | Independent definition index | 54c7eefe6ccbe95291bc43f407dbf7bcae67b06b7b1252308b3b5bd83488195f |
+
+## Source adjudication · 2026-11-23
+
+[First source-adjudication register](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+- **E04-D04** · Kyoka leads the exposed opening. The sound grows fuller around 20:26. The owner tentatively hears Tokka singing along there, before the audience cut at 20:29.478. The stage lineup for the later table lyric remains open.

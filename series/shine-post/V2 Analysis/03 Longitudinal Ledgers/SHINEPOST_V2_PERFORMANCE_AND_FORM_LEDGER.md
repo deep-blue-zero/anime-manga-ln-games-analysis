@@ -945,3 +945,19 @@ Related pending handoffs · SPV2-XREV-E09-01.
 **E11.** Native 48 kHz stereo comparison puts the E01 Sweet Surrender excerpt at 34 s in E11 near 580.628 s, gain −1.550002 dB and fitted mid/side residual approximately −133 dBFS. The E10 GYB!! excerpt at 1165 s matches E11 near 864.909 s, gain −0.05632 dB with residual below −132 dBFS after fitting. Only 46 of 384,064 decoded channel values match before scaling in that test. Two nonadjacent centered E10 speech excerpts near 940.5 and 959.1 s match distinct café recollections at E11 229.247 and 233.166 s, with correlations .900 and .909. Two café PA music controls thirty seconds apart retain Side correlations .763 and .653 despite an altered mix. Across 463,200 native stereo frames at 878.30–887.95 s, E11 retains Mid RMS −28.779 dBFS and Side RMS −108.957 dBFS. The small finite Side signal rules out a strictly mono interval. A stereo-field collapse and score withdrawal carry different claims from digital silence across the programme. SPV2-CLM-E11-05, -43, -45, -48 and -68. [E11 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E11_CROSS_MODEL_RECONCILIATION.md)
 
 **E12.** Yukine begins in the middle, Haru and Kyoka take the shared front, Rio finishes in the middle, and Kyoka occupies the middle for the subsequent MC. At 897.56 s the two dancers make reciprocal hand contact. Neither a contact image nor the lyrics identifies all supporting voices. The new song is credited to TINGS with composer 山崎燿. A measured pulse near 179.95 BPM fits the 180 BPM report. Across 29,760 native stereo frames at 914.24–914.86 s, full-stereo RMS is −132.274 dBFS and 1,105 frames have simultaneous digital zeros, followed by −18.569 dBFS across 914.86–915.60 s. In the finale ED, a native Side comparison with E11 around E12 1281.917 s fits −4.500009 dB, r=.99999996, under different centered sound. Late E02/E11–E12 controls match at unity gain to residuals near −132.5 dBFS, with a minority of original integer sample values exactly equal. Recurring recorded material, fitted gain and literal byte identity are separate findings. SPV2-CLM-E12-14, -15, -47, -64 and -72. [E12 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E12_CROSS_MODEL_RECONCILIATION.md)
+
+## Source adjudication · 2026-11-23
+
+[Case findings, source intervals and full receipts](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+**E01-club / E01-rehearsal / E02-master** · Club acoustics fall away around Haru’s question. Loudspeaker playback in rehearsal and the public concert share strongly matched recording passages under different processing.
+
+**E02-reply / E03-pickup / E03-mute** · The house answers Kyoka’s goodbye. The dreamed opening contains her あれ?; the historical montage depicts a cover while the programme carries a separate underscore.
+
+**E04-D04** · The fuller sound near 20:26 precedes Tokka’s audience close-up at 20:29.478. Ensemble texture is clear by 20:34.8 in the complete-song hearing. No isolated stem follows from either observation.
+
+**E05-D03 / E06-D06** · Rio’s appeal remains accompanied at low level before the ED. E06’s Hotaru excerpt has an identifiable spoken call and instrumental figure; Yellow Rose gives Rio the lead and leaves soft supporting voices unassigned.
+
+**SPV2-XREV-E09-01** · The five-person song decays into a gap, central panting and later wide audience return. These distinct elements do not settle where the singing was recorded.
+
+**SPV2-ADJ-E12-026** · In the Japanese main mix the listener distinguishes the /i/ of 間違いない under slight crowd masking. The printed subtitle has /e/. The difference informs Naoki’s assessment of the performer.

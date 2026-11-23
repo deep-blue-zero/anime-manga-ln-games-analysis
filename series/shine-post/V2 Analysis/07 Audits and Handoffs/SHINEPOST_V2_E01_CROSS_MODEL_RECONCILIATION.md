@@ -315,3 +315,14 @@ The selection maps every registered passage, physical line, declared part and fr
 | Selected coverage validation | bac69bbd0b59f682a0ee2b3b2c3626afc1b8716b08a6986eca993b1b9c292bf4 |
 | Selected public findings | 5adb7a0c4f77136d879dd61b66dfe3a88d29bbe6a198340aa4608ae9ea48d49f |
 | Independent definition index | c70f569e8aa5360ea6abecd6b43201e457cd307661d15d98b296ec6cb5363666 |
+
+## Source adjudication · 2026-11-23
+
+[First source-adjudication register](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+- **E01-club** · The room’s affection and Haru’s private doubt coexist. No audience knowledge of that doubt is shown.
+- **E01-phone** · Naoki and Kei can invoke his private idiom through their existing familiarity.
+- **E01-rehearsal** · Retain Rio’s observable delay and the reproduced music. Individual competence cannot be ranked from this passage.
+- **E01-motive** · Haru can deliberately rally her cheerfulness and mean what she says. The other two need not withhold their wishes for the same reason.
+- **E01-ultimatum** · Retain practical pressure on the trio, the separate test for Naoki and Yuuki’s personal investment in recruitment.
+- **E01-jp** · Keep the fan transcription as a written witness. Use source-attributed lexical readings where the listener could hear the passage.

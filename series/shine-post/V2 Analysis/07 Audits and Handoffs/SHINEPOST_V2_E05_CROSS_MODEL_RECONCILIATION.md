@@ -402,3 +402,9 @@ The selection maps every registered passage, physical line, declared part and fr
 | Selected coverage validation | 0c185ce1f45ba4ca59a35e20cc2913876b41242c30f4052e7598402cff13018d |
 | Selected public findings | 724c0fd21e2ec67eac3c20c34535cbbb925a8a94dc7153c9eaf703162d03a9ad |
 | Independent definition index | bb0baf86acedc2a713dfe571dfb4f48890fe516edbf486631f0b1999a383ecee |
+
+## Source adjudication · 2026-11-23
+
+[First source-adjudication register](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+- **E05-D03** · Retain the effect of an exposed voice within a continuing soft bed. Rio’s concern for the others and the episode’s separate comedy remain independent claims.

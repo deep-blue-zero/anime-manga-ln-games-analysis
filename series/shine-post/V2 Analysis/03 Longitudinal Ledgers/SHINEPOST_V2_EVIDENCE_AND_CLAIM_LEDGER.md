@@ -2872,3 +2872,55 @@ Each reference below is an administrative comparison finding. The original SPV2 
 ### E12 audience row and claim scope
 
 **2026-11-23 · REVISE the seat attribution attached to SPV2-OBS-E12-05 and SPV2-OBS-E12-22 in the original chapter. PRESERVE SPV2-CLM-E12-05.** In the front row Nanami voices her worries about Yukine and Momiji. The three turn back, and the native reverse at 266.5 s locates the reassurance in the row behind FFF, where Kikuchi and the Yura Yura Sisters sit. The earlier chapter placed the replying woman in Nanami’s own row. Individual voice identification still requires a Japanese main-stream hearing. Professional familiarity and childhood observation remain the independently supported grounds for the two spectators’ anticipation. [E12 chapter erratum](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E12_AUDIENCE_ATTRIBUTION_ERRATUM.md) · [E12 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E12_CROSS_MODEL_RECONCILIATION.md)
+
+## Source adjudication · 2026-11-23
+
+[Case findings, source intervals and full receipts](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+The changes below apply to the named claim or component at its episode horizon.
+
+**E01-club** · SPV2-CLM-E01-02. The room’s affection and Haru’s private doubt coexist. No audience knowledge of that doubt is shown.
+
+**E01-phone** · SPV2-OPEN-E01-02. Naoki and Kei can invoke his private idiom through their existing familiarity.
+
+**E01-rehearsal** · SPV2-CLM-E01-13, SPV2-OPEN-E01-04. Retain Rio’s observable delay and the reproduced music. Individual competence cannot be ranked from this passage.
+
+**E01-motive** · SPV2-CLM-E01-03, SPV2-CLM-E01-10, SPV2-CLM-E01-15. Haru can deliberately rally her cheerfulness and mean what she says. The other two need not withhold their wishes for the same reason.
+
+**E01-ultimatum** · SPV2-CLM-E01-04, SPV2-CLM-E01-05, SPV2-CLM-E01-12. Retain practical pressure on the trio, the separate test for Naoki and Yuuki’s personal investment in recruitment.
+
+**E01-jp** · SPV2-OPEN-E01-06. Keep the fan transcription as a written witness. Use source-attributed lexical readings where the listener could hear the passage.
+
+**E02-jp** · SPV2-OPEN-E02-05. Momiji’s shift in address belongs to the changing repartee. Naoki’s reaction can be reported with qualified attribution.
+
+**E02-confidence** · SPV2-CLM-E02-22, SPV2-OPEN-E02-03. Read the change as a commitment she acts on. Retain the limits of Naoki’s visual cue.
+
+**E02-reply** · SPV2-CLM-E02-32, SPV2-CLM-E02-44, SPV2-OPEN-E02-05. Assign the reply to the house, led by the pictured pair. Keep other spectators’ bafflement separate from proof of being first-timers.
+
+**E02-master** · SPV2-CLM-E02-46, SPV2-OPEN-E02-01. Strengthen the source relationship between the E01 rehearsal and E02 concert. Keep the settings and theatrical presentations distinct.
+
+**E03-pickup** · SPV2-OPEN-E03-01. Identify the interruption as a spoken あれ?; retain the distinction between dream and historical witness.
+
+**E03-belief** · SPV2-OPEN-E03-02, SPV2-CLM-E03-35. Preserve duties, loyalties and boundaries as separate assertions. Do not infer consent from the earlier wish.
+
+**E03-mute** · SPV2-OPEN-E03-01, SPV2-PF-E03-01, SPV2-PF-E03-06. Distinguish the dream’s audible entrance from the historical montage’s score and narrated testimony.
+
+**E03-fan** · SPV2-OPEN-E03-03, SPV2-CLM-E03-23. Keep dream, recalled show and present support distinct when describing Kyoka’s relationship with Tokka.
+
+**E03-authority** · SPV2-OPEN-E03-04, SPV2-CLM-E03-06. Preserve both catalytic and coercive readings at the scope of the actual encounter.
+
+**E04-D04** · SPV2-OPEN-E04-01, SPV2-CLM-E04-04, SPV2-CLM-E04-46, SPV2-CLM-E04-38. Keep Kyoka’s first lead, subsequent audible ensemble and possible fan participation distinct. Neither individual stems nor the later stage handoff are certified.
+
+**E05-D03** · SPV2-OPEN-E05-03, SPV2-CLM-E05-10. Retain the effect of an exposed voice within a continuing soft bed. Rio’s concern for the others and the episode’s separate comedy remain independent claims.
+
+**E06-D05** · SPV2-CLM-E06-11, SPV2-CLM-E06-12, SPV2-OPEN-E06-01. Separate Naoki’s attention to the balcony from this stage line. Use “probably Rio” for the latter at the current evidence cutoff.
+
+**E06-D06** · SPV2-OPEN-E06-01, SPV2-CLM-E06-38, SPV2-CLM-E06-49. Distinguish the insert credit, the reproduced musical passage, the ballad’s featured lead and the unassigned supporting texture.
+
+**SPV2-XREV-E07-01** · SPV2-CLM-E07-37, SPV2-CLM-E07-28. Attribute the denial and rival-research explanation to different speakers. Retain the precise written witness alongside the performed phrase.
+
+**SPV2-XREV-E08-01** · SPV2-CLM-E08-36, SPV2-CLM-E08-13, SPV2-CLM-E08-27. Revise the spoken quotation in CLM-36 and strengthen the protective explanation in CLM-13; retain the separate claims about pride and the manager’s strategy in CLM-27.
+
+**SPV2-XREV-E09-01** · SPV2-CLM-E09-47, SPV2-CLM-E09-16, SPV2-OPEN-E09-03. Preserve the bodily and audience evidence of change, the integrated soundscape and uncertainty about how individual vocal contributions were recorded.
+
+**SPV2-ADJ-E12-026** · SPV2-OBS-E12-16, SPV2-OBS-E12-37 · Revise C1017 to distinguish the printed 間違えない from the heard 間違いない. The latter expresses confidence about a conditional future for Kyoka. Her earlier technical accuracy rests on separate scene evidence.

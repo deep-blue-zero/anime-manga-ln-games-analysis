@@ -382,3 +382,13 @@ The selection maps every registered passage, physical line, declared part and fr
 | Selected coverage validation | f7090cdd539a4e580b5b4c3ca0e6eda3a062163eece6beb90dd03ec5430c1b74 |
 | Selected public findings | 91890394e503eb4180c22139b347bc447db045d44caf415e19326ba7b83e51d9 |
 | Independent definition index | 338299521bda79a0de79ea3b2296a20358a8b7840abc541b5cd8812a56c0ab1c |
+
+## Source adjudication · 2026-11-23
+
+[First source-adjudication register](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+- **E03-pickup** · Identify the interruption as a spoken あれ?; retain the distinction between dream and historical witness.
+- **E03-belief** · Preserve duties, loyalties and boundaries as separate assertions. Do not infer consent from the earlier wish.
+- **E03-mute** · Distinguish the dream’s audible entrance from the historical montage’s score and narrated testimony.
+- **E03-fan** · Keep dream, recalled show and present support distinct when describing Kyoka’s relationship with Tokka.
+- **E03-authority** · Preserve both catalytic and coercive readings at the scope of the actual encounter.

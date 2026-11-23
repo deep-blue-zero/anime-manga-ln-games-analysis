@@ -94,3 +94,7 @@ Astra 6.2 Ultra supplied the accountable principal, character, Japanese-language
 The original records comprise 753 OBS, 668 CLM, 67 OPEN and 46 REV definitions. Four dated cumulative ledgers retain the dependent changes. The independent freeze, candidate intake, per-episode source identities, native versus proxy calibration and E06 hash correction are documented in the [source and intake register](../01%20Source%20and%20Intake/SHINEPOST_V2_SOURCE_AND_INTAKE_REGISTER.md). The twelve selected private comparison outputs and mechanical coverage reports are bound together by the independently recomputed season tally, SHA-256 `51025216796f587f798c26f9796d7f16d658d1b569a3d0df62acfd8d51faee37`.
 
 The comparison leaves the existing reconstruction qualifications and V1 literary generation in their recorded state. No character grade or final series monograph was assigned by this run.
+
+## Source adjudication · 2026-11-23
+
+The first publication after the initial 84-case handoff contains the 22 E01–E09 cases and one E12 lexical case. An independently heard E08 line has two listener pathways and counts once. E04 has one delivered, answered human referral. The remaining 61 case IDs extend beyond this publication, including cases already returned or evaluated elsewhere in the continuing review. [First source-adjudication register](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).

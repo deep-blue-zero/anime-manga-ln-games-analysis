@@ -394,3 +394,9 @@ Each identifier binds a separately specified question, competing original formul
 ## Verification
 
 Private authored comparison SHA-256 `707fe69d26c04a445e63f5fd338b54ea963de35f4af1ea85dcf6e16eb8627d75`. Mechanical coverage SHA-256 `2814651e4bf8a3c95bc5388a0dd32aaeece7820c6a48d04491c474f7ada36b20`. The audit found no unbound original records, unexplained independent references or missing expected episode documents. Native times take precedence over the sampled viewing proxy.
+
+## Source adjudication · 2026-11-23
+
+[First source-adjudication register](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+- **SPV2-ADJ-E12-026** · Naoki says 間違いない, “no doubt,” where C1017 prints 間違えない. This changes the use of the line in SPV2-OBS-E12-16 and strengthens SPV2-OBS-E12-37, limited to candidate OBS-E12-05 component six.

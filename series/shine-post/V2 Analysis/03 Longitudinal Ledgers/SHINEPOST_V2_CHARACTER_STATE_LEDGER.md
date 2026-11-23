@@ -777,3 +777,21 @@ Earlier evidence and claims · SPV2-CLM-E09-01, SPV2-CLM-E09-02, SPV2-CLM-E09-03
 **E11.** The old changing-room scenes let Haru and Ren see the distress from different sides. Each describes her own interpretation. Neither supplies the knowledge the other acquired through the slit. The audience image at E11 598.8 s repeats the E01 composition. Compared with the named trainees at 718.5 and 720.5 s, the unusual white rabbit clip, pink braid, red ties and eye support young Itoha to Momiji’s right. The cropped blond figure at left has traits consistent with Aoba and remains probable. The cameo does not establish whether these girls knew Momiji. Kyoka’s effective rescue of the two friends in town and her fear of offering nothing onstage belong in the same character record. SPV2-CLM-E11-25, -57, -68 and -69. [E11 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E11_CROSS_MODEL_RECONCILIATION.md)
 
 **E12.** Kyoka’s declaration that she intends to exceed instructions makes her an active participant in the plan. Specific choreographic decisions remain unassigned. She gives the formal thanks, five bow, and Rio subsequently addresses the house. This is strong evidence of shared public responsibility over the evening. Hotaru’s identity as Kei is secure through multiple interactions. Naoki’s exact name pronunciation and wording about Kyoka are narrower acoustic questions. Ren recognizes Haru as TINGS’ Haru. The text leaves her colleagues’ private verdicts and authorship of the new joint-bill proposal open. SPV2-CLM-E12-14, -17, -19, -26 and -31. [E12 comparison](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_E12_CROSS_MODEL_RECONCILIATION.md)
+
+## Source adjudication · 2026-11-23
+
+[Case findings, source intervals and full receipts](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+**E01-club / E01-motive** · Haru’s close, private-sounding question and her worked closing smile support self-encouragement under pressure. Neither establishes hypocrisy.
+
+**E02-confidence / E02-jp** · Rio’s earnest effort coexists with her theatrical register. Momiji changes her address from さん to たん in the exchange.
+
+**E03-belief / E03-authority** · Kyoka’s broader wish and present refusal have different objects. The appointment gives her no retrospective consent.
+
+**E04-D04** · Kyoka leads the exposed entrance. Tokka’s possible participation from the audience is the owner’s tentative hearing.
+
+**E06-D05 / E06-D06** · Rio is the strongly indicated offscreen voice resisting tears and the featured vocal lead of Yellow Rose. Keep the lines of evidence separate.
+
+**SPV2-XREV-E07-01 / SPV2-XREV-E08-01** · Momiji denies first and Yukine gives the rival explanation. Yuuki later explicitly attributes Haru’s restraint to consideration for them.
+
+**SPV2-ADJ-E12-026** · Naoki’s “no doubt” conveys confidence in Kyoka’s potential. Kyoka has yet to realize the conditional future he describes.
