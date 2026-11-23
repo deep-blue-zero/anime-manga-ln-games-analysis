@@ -1,0 +1,69 @@
+---
+title: "SHINE POST V2 — Retrospective comparison"
+artifact_id: SHINEPOST_V2_RETROSPECTIVE_COMPARISON
+artifact_type: retrospective_reconciliation
+series: SHINE POST
+series_id: shine-post
+generation: V2
+version: '1.0'
+status: canonical
+authority_scope: "Comparative findings about the two frozen readings and their retrospective claims"
+source_boundary: "Japanese television anime E01–E12 and admitted retrospective documents"
+canonical_home: series/shine-post/V2 Analysis/07 Audits and Handoffs/SHINEPOST_V2_RETROSPECTIVE_COMPARISON.md
+created: 2026-11-23
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: false
+---
+
+# SHINE POST · What changes when twelve episode readings become one story
+
+The series repeatedly asks who gets to say what a performance means. A spectator can request a song. A manager can assign a singer. A singer can want the center and still refuse that song today. The final concert draws these roles together without making them interchangeable. The same distinction matters when combining analyses. The viewer sees more of Haru and Ren’s history than either girl tells the other. A billing card says who recorded a song, while the mixed soundtrack may leave its backing voices indistinguishable.
+
+The comparison below follows five cumulative ledgers and seven retrospective papers from a second reading of the same Japanese television series. Each was compared with episode decisions completed before those papers were opened. The cited lines identify passages in the received documents. Japanese fan captions, lettering in the picture, measured main-program sound, another observer’s reported hearing and interpretation retain their separate evidentiary roles.
+
+## What the five ledgers preserve
+
+| Candidate ledger | What survives review and what changes |
+| --- | --- |
+| Agent participation and adjudication, lines 12–233 | The disagreements document real changes to the analysis. A short shot of two smiling women in E04, disputed ownership of a burger in E07 and the retrospective inset in E12 are examples with checkable picture evidence. The archive records who reported a hearing or a full pass. Receiving a report does not independently establish what its author perceived throughout every segment. |
+| Character state, lines 14–401 | The serial entries track when a character acquires information. Rio can enjoy her grand manner with a fan and use it defensively elsewhere. Yukine can decline to return while attending to her friends’ needs. The E09 heading at line 298 should read **Nabatame Haru**. The E01 chart’s 24% has no established career-ranking unit. |
+| Musical events and motifs, lines 14–281 | Performance, rehearsal playback, quotation, an in-world announcement and a closing theme can use the same music for different purposes. A very high correlation and measurable nonzero residual support reuse of material. Descriptions of identical samples exceed those results. E05’s closing plea is spoken. A claim about whether accompaniment has dropped away requires its own evidence. |
+| Narrative causality and claim revision, lines 14–369 | Keep the changes in what a group member could reasonably believe after a conversation, return or rehearsal. Preserve the omitted object in Kei’s E05 writing request. Yukine knows where Kyoka is in E04 and tells Naoki; a secret pursuit is an additional inference. A late revelation can reinterpret this history without supplying missing actions. |
+| Relationships and group dynamics, lines 14–263 | The ledger follows solidarity across an apparent split and helps explain why Rio and Kyoka matter to Haru’s choices. Its language about permanent repair and complete parity is stronger than the pictured encounters. Homare, the three girls’ individual fans and the two managers have their own relations to what happens. |
+
+## What the seven retrospective papers establish
+
+**Character monographs and self-containment audit, lines 19–89.** The nine portraits work best when they keep the dramatic resolution of a problem alongside remaining gaps. Rio’s companion can matter without acquiring a family relationship. Momiji’s refusal to leave someone alone can be a durable commitment without an invented childhood cause. The monograph’s heading gives six present markings for Kyoka; its stated counts add to seven, with an additional quotation from an earlier episode. Count each person, each new event and each replay separately. Eiko manages the two-member YuraYura Sisters. Seeing the three together does not make Eiko the third performing member. A designation such as “complete” remains the critic’s judgment of an arc. [Character monographs, lines 28, 67, 72–89; Character state, line 92.]
+
+**Individual and collective artistic development, lines 16–51.** The movement from monitoring partners in rehearsal to facing a room, taking a solo, reducing the dance to foreground a singer and sharing the front is visible across venues. The participants acquire different tasks. A short featured number cannot predict endurance at a larger venue. Nor can an edit away from a performer establish what she sang offscreen. The paper’s final section is worth retaining beside its skill ladder because ordinary rehearsal mistakes and the forgotten stage hat persist after professional progress. [Artistic development, lines 20–26, 32–45, 47–51.]
+
+**Musical dramaturgy, lines 16–70.** Its catalog numbers **ten songs**, although its heading and lyricist sentence say eight. The last two entries, *GYB!!* and *On Your Mark!!*, support a consequential distinction between a rival’s public sound and the anniversary number. Register the number of entries separately from a judgment about a shared lyricist’s intention. Keep the survey of gold outlines and recurring sound as an observer’s annotated series map. A negative template result has a detection scope. It cannot reveal whether a particular belief is true. The three waits after *Yellow Rose*, *Be Your Light!!* and *On Your Mark!!* have strikingly different measured levels. [Musical dramaturgy, lines 16–31, 39–56, 61–69.]
+
+**Stage direction and embodied authorship, lines 16–62.** The same visual setting can invite a different interpretation when a reverse shot discloses a companion or an earlier gesture reappears. Image correspondences, a figure obscuring another and a visible handoff of prominence support this account. A nonzero image difference cannot justify the phrase “pixel-exact.” Crew billing and the look of a finished scene do not allocate every cut or settle a universal claim about drawing methods. The E11 images strongly support Itoha on Momiji’s right. The identification of Aoba at left is probable. [Stage direction, lines 18–31, 36–50, 56–62.]
+
+**Interpersonal and thematic synthesis, lines 16–61.** Naoki’s early ambiguous remark about shining gains a new meaning when he addresses the five in their dressing room. The private eye effect and the public wish to inspire people can share a word without being identical measures of anyone’s worth. The paper gives charitable and critical readings of Yuki’s executive methods and Naoki’s undisclosed advantage. Both deserve to survive the ending. A new outline on Yuki’s last threat leaves the stakes of her earlier ultimatum open. Nor does Ren’s approving look prove that her whole group agreed to every implication of the proposed joint bill. [Interpersonal synthesis, lines 18–32, 43–49, 54–61.]
+
+**Analytical limits and unresolved evidence, lines 16–59.** The series resolves Kei’s identity as Hotaru. It leaves open the exact performed name in the reunion, the future song, the proposed concert, the reasons for Yuki’s cane and how much Haru elects to tell Ren. The paper’s flags on blurred lettering, ensemble voices and overlapping speech remain useful. The E08 question about ため needs a native-language hearing aligned to the original cue near 987.4 seconds. Attractive readings of a captioned homophone or an actor’s pronunciation should stay attributable to the person who heard them. [Limits register, lines 19–39, 43–59.]
+
+**Independent generation audit and handoff manifest, lines 16–225.** Its roster distinguishes 60 completed specialist assignments from three startup retries and a separate probe. It discloses an early E04 identification that the accepted episode paper corrected. The twelve original claim logs contain 203 records. The retrospective audit checked 76 size-and-digest declarations against received files. All sizes and 75 digests matched. One hexadecimal character in the E06 Japanese-hardsub digest differs. All 52 declared export documents and all twelve declared Japanese sidecars matched. The manifest itself and the run index have separate intake hashes. The observed parent digest also appears in the independently measured segment chain. The discrepancy concerns one printed manifest value. [Generation audit, lines 22, 55–83, 89–114, 119, 134–139, 145–218.]
+
+## Consequences in episode order
+
+| Episode | Reading retained or revised against the programme |
+| --- | --- |
+| E01 | Eight visible spectators, a usual audience of about thirty and a reported peak of thirty-seven describe different things. The immediate 100-seat goal and later 2,000-seat condition give scale to Naoki’s provisional appointment. Later appearances at the same arena do not establish that those people met here. |
+| E02 | Selling to a public looking for idols changes the possibilities. A ticket on a school desk does not show payment or transfer. Keep Rio’s separate return, Fumu’s single critical assessment, the recurring patron and the professional scouts distinct. The mirror transfers the rim from Rio to Kyoka across separate pictures. |
+| E03 | The third new outline is visible around 1085.50 seconds, separate from the earlier quotation. The long subsequent refusal still permits several explanations. Tokka asks for the song after the manager has called time. The manager later announces a rehearsal assignment. Neither moment supplies Kyoka’s consent or the eventual performance. |
+| E04 | The friend is still waving the penlight at 416.5–418.0 seconds. Kyoka closes her bare hand before the later outdoor contact. The supposed moment of transfer disappears on inspection. Yukine gives Naoki the restaurant information. The old basement passage averages −25.09 dBFS over 540.5–549.5 seconds, which rules out full-program digital silence there. |
+| E05 | Satō cuts the food-report segment. Naoki owns his failure to account for Rio’s dislike. Her late flyer appeal demonstrates present work for her partners; the inference about her earlier walkout is qualified with きっと. The last narrative picture at 1279.987 seconds, first ED picture at 1280.029 and acoustic landmark at 1280.491 are three boundaries. |
+| E06 | Aoi arranges help and another pupil supplies the book. At the concert, Rio reaches toward her companion’s resting hand. The mall exterior reads 池沢駅 東口. Rio’s polite request for lessons is conditional. The full stereo mix after *Yellow Rose* averages −28.72 dBFS over 11.5 seconds; the delay affects Rio differently from each listener who finally responds. |
+| E07 | Momiji’s phone captures her words. Her subsequent condition supplies what the recording omits. Rio eats her burger and Yukine wipes away her sauce, ties Kyoka’s shoe and pays for Haru’s sweet. A marked assurance of full effort gives Naoki reason to ask more. It supplies neither the missing motive nor a measure of Haru’s ability. |
+| E08 | Momiji notices the discrepancy before showing the other girls the solo. Yuki offers a plan for the pair. Keep the past discovery and departure separate from the present disclosure and final walk. A former membership becomes known; the viewer and each participant are still entitled to different accounts of how it ended. |
+| E09 | A fifth public performer appears behind lettering at 110.444–110.902 seconds. The billing and news pictures give no recruitment date. Three very brief inserts belong to Haru’s recollection. Four rehearse before she returns. Five perform *Be Your Light!!*; the following *TOKYO WATASHI COLLECTION* is announced. The roughly eleven-second response interval contains substantial changes of level. |
+| E10 | A declining inventory and Ren’s final visible purchase support the sellout. They cannot count who later entered the hall, identify two similar-looking customers as twins, or assign every ticket in a fan-shaped spread to a separate filmed purchase and gift. Kei’s songwriting exchange leaves the work’s completion unsettled. |
+| E11 | Two repeated speech windows correlate .900 and .909 in the centered signal. Native music comparisons support window-specific gain changes of −1.550002 dB for *Sweet Surrender* and −0.05632 dB for *GYB!!*. A collapse in stereo difference is compatible with center sound. The long cheek gesture spans cuts away from contact. Haru’s present commitment leaves the earlier hurt partly unspoken. |
+| E12 | Yukine opens in the middle, Haru and Kyoka share the front, Rio occupies the closing middle, and Kyoka speaks to the public. The soundtrack falls to −132.274 dBFS from 914.24 to 914.86 seconds. The ending reprise first matches with a smaller gain, later near unity with a finite residual. Gold marks Yuki’s threat, and the rival agency offers a joint bill. The anime ends before that shared stage. |
+
+The strongest longitudinal change is visible in those final assignments. The girl who feared one particular opening can address the crowd. The girl whose strength emerged when a dance was removed can occupy the closing center. The girl who monitored everyone else can share the front, and the former rivals can lead without making either pair disappear. An account of these changing responsibilities needs neither a unanimous audience nor a perfect hierarchy of talent. The last invitation gives all five another problem to solve.
