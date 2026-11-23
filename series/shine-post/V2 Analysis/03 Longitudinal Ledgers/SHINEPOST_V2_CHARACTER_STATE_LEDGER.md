@@ -820,7 +820,7 @@ Naoki’s spoken 間違いない expresses confidence in what Kyoka may see. Her
 
 ### Monograph acceptance at the E12 boundary
 
-All 13 obligations in the first-pass qualified slate are complete at the admitted E12 boundary. The earlier dispositions above are retained as the first-pass record. Each monograph has a [recorded standalone and fidelity pass](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SYNTHESIS_COMPARISON_WITH_GEMINI.md#acceptance-record).
+All 13 obligations in the first-pass qualified slate are complete at the admitted E12 boundary. The earlier dispositions above are retained as the first-pass record. Each monograph has [documented standalone and fidelity findings](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_MONOGRAPH_ACCEPTANCE_REVIEW.md).
 
 | Stable subject | Current qualification | Monograph |
 | --- | --- | --- |

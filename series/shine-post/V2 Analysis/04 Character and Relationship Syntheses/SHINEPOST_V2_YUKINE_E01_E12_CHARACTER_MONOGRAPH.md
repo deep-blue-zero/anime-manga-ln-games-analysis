@@ -64,7 +64,7 @@ The bench conversation supports a specific intimacy with Momiji, including the c
 
 ## Evidence boundary
 
-This retrospective draft uses the accepted records for Japanese TV witnesses SPV2-W-E01 through SPV2-W-E12. The episode teams inspected matched Japanese subtitle text, sampled and targeted native pictures and audio measurements. The named source adjudications supply the limited listening judgments cited here. This author read those records with the whole season available and performed no new viewing or listening. Scene times are seconds into each episode. OBS identifies an observation, CLM an interpretation and ADJ a later adjudication. The first adjudication series also uses plain case names. Independent usability and fidelity decisions are pending.
+This retrospective portrait uses the accepted records for Japanese TV witnesses SPV2-W-E01 through SPV2-W-E12. The episode teams inspected matched Japanese subtitle text, sampled and targeted native pictures and audio measurements. The named source adjudications supply the limited listening judgments cited here. This author read those records with the whole season available and performed no new viewing or listening. Scene times are seconds into each episode. OBS identifies an observation, CLM an interpretation and ADJ a later adjudication. The first adjudication series also uses plain case names. This portrait passed separate standalone usability and source-fidelity reviews through E12.
 
 [Episode readings][readings] · [Witness register][intake] · [Character states][states] · [Directed relationships][relations] · [Performance and form][performance] · [Observations and claims][claims] · [First source adjudications][first] · [Cumulative source adjudications][cumulative].
 
