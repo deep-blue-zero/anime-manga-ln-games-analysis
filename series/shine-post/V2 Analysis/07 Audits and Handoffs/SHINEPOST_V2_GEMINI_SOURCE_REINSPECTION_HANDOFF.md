@@ -120,3 +120,11 @@ Choose an exact case ID and its native programme interval from the table. An aut
 Keep the original neutral manifest, workers’ blind receipts, comparative replies, source evaluation and any human decision in the controlled handoff. The public case IDs below connect the [season audit](SHINEPOST_V2_CROSS_MODEL_RECONCILIATION_AUDIT.md) to those receipts.
 
 For a structured return, supply `episode`, `dispute_id`, `worker_conversation_id`, `actual_model`, `actual_method_and_input_tool`, `true_exposure`, `source_witness_hashes`, `native_intervals`, `clock_calibration`, `actual_modalities`, `blind_file_sha256`, `outcome`, `evidence_newly_inspected`, `method`, `calibration`, `limits`, `confidence`, `remaining_uncertainty`, `proposed_corrected_wording`, `evidence_against_own_conclusion`, `human_review_reason_if_any` and `affected_claims`. Keep worker and technical identifiers in the private return.
+
+## Subsequent receipt register · 2026-11-23
+
+The original dispatch and its 01:11 UTC status remain the historical handoff. The first adjudication publication covers 23 of its 84 case IDs, including one answered E04 human referral. The other 61 are outside that publication. [Evaluated cases and human response](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+## 2026-11-23 · All 84 ordinary cases evaluated
+
+All 84 distinct cases now have ordinary comparative responses and source evaluations. The original questions, their initial status and the first 23-case milestone remain dated above. The owner supplied a tentative E04 hearing. Two subsequent owner cards covered four case IDs. The E12 owner follow-up supports the verse assignments and ensemble hearing while leaving exact overdub layers open. Further E10 listening is optional. [Cumulative findings, case receipts and human review](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md).

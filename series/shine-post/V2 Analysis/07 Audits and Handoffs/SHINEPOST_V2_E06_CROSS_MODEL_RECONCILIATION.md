@@ -497,3 +497,10 @@ The selection maps every registered passage, physical line, declared part and fr
 | Selected coverage validation | 870ea107fb92fc478f39f585a94e6488076dfb962807e030f5859e7cfeb93733 |
 | Selected public findings | 4d81c510315918fcca7ed446caf76995737addd299a5fdf95522e8bd4c80bd8a |
 | Independent definition index | 5f9fbad6b2b8e1636539157f288d08f83a711a1f1d76c26f0df3c0127ba7d9bc |
+
+## Source adjudication · 2026-11-23
+
+[First source-adjudication register](SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+- **E06-D05** · Separate Naoki’s attention to the balcony from this stage line. Use “probably Rio” for the latter at the current evidence cutoff.
+- **E06-D06** · Distinguish the insert credit, the reproduced musical passage, the ballad’s featured lead and the unassigned supporting texture.

@@ -241,3 +241,11 @@ The frozen derived ledger contains 97 declarations at 96 separate proxy paths. E
 | E12 | `c7177c3ac492229fb5500e4006bb911c6bc4b013eeda5cee8693ce4a618ecc3b` | 16 | 82.8 / 41.3 / 41.3 | 40.3–84.0 |
 
 The verification receipts for the 36 distributed matches and 96 segment matches have SHA-256 `ad2e39ae0e39c237f7e91007abcdb1a56160ab3b70584ab43210b2785ae6a98f` and `a272d8b2a1be39a813cbee0a15858acad1a0e46f07a1040953c4e4d022eafd9d`. The candidate's final retrospective manifest has one erroneous digit in the E06 parent hash. All 76 listed byte sizes and 75 of the 76 digests match the objects received, including all 52 listed documents and all twelve sidecars. The E06 parent hash in the table above matches the independently rehashed file. The original candidate manifest remains as received. See the [episode comparison and adjudication audit](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_CROSS_MODEL_RECONCILIATION_AUDIT.md) for subsequent decisions.
+
+## Source adjudication · 2026-11-23
+
+The first evaluated publication covers 23 distinct cases from the original 84. The source checks distinguish the file-based picture and measurement route from native attached audio. Spoken and musical findings below are credited to actual listeners on the registered intervals. E04 also records a qualified owner response checked against the original picture. The other 61 cases fall outside this checkpoint. [Receipt register and transport controls](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md).
+
+## 2026-11-23 · All 84 ordinary cases evaluated
+
+The completed ordinary pass contains 84 first views, 84 native-audio first views and 84 formal responses. The separate early native pilots for E08 and E12-026, and later post-position hearings, are additional witnesses to existing cases. The cited programme, album recording, physical lyric text and published commercial part assignments are separately identified. An episode mix can support a recurring recorded performance without revealing its stems. [Published E10 parts](https://www.joysound.com/web/search/song/957587) · [Published E12 parts](https://www.joysound.com/web/search/song/957586). [Cumulative findings, case receipts and human review](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md).
