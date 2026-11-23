@@ -2885,7 +2885,7 @@ The changes below apply to the named claim or component at its episode horizon.
 
 **E01-rehearsal** · SPV2-CLM-E01-13, SPV2-OPEN-E01-04. Retain Rio’s observable delay and the reproduced music. Individual competence cannot be ranked from this passage.
 
-**E01-motive** · SPV2-CLM-E01-03, SPV2-CLM-E01-10, SPV2-CLM-E01-15. Haru can deliberately rally her cheerfulness and mean what she says. The other two need not withhold their wishes for the same reason.
+**E01-motive** · SPV2-CLM-E01-03, SPV2-CLM-E01-10, SPV2-CLM-E01-15. Haru can deliberately rally her cheerfulness and mean what she says. Rio and Kyoka need not withhold their wishes for the same reason.
 
 **E01-ultimatum** · SPV2-CLM-E01-04, SPV2-CLM-E01-05, SPV2-CLM-E01-12. Retain practical pressure on the trio, the separate test for Naoki and Yuuki’s personal investment in recruitment.
 
