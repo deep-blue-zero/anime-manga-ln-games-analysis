@@ -694,3 +694,9 @@ After Ren leaves the television take, the first three turns favor Yawara, Itoha 
 ### E12 | Reassurance to Nanami and support for Kyoka
 
 Nanami receives an off-screen reassurance from behind her about whose stage appearance is at stake. Natalya is the leading candidate, while direct personal attribution remains open. Retain the direction of the exchange when recording Nanami’s response. At Nakano, Naoki speaks of Kyoka’s prospective vision with certainty. That wording substantiates his confidence in her. The proposed Budokan bill and Yuki’s threatened sanction remain distinct from the audience’s response to the current performance. See SPV2-OBS-E12-32, SPV2-OBS-E12-16, SPV2-OBS-E12-37 and SPV2-OBS-E12-69.
+
+### Owner listening follow-up · E04 and E12
+
+**SPV2-REL-TOKKA-KYOKA.** The owner confirms that Tokka sings along from the audience after Kyoka’s opening in E04, around 20:26–20:27. This is audience participation during the number Tokka had asked to hear. [E04-D04 follow-up](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_OWNER_LISTENING_FOLLOWUP_20261123.md#e04-d04)
+
+**SPV2-ADJ-E12-034.** The owner considers Natalya of the Yura Yura Sisters the most likely source of the reassurance addressed to Nanami. The source supports the direction from the row behind Nanami, with the individual attribution qualified. [E12-034 follow-up](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_OWNER_LISTENING_FOLLOWUP_20261123.md#e12-034)
