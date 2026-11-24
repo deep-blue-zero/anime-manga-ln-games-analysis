@@ -3,23 +3,23 @@ title: "Psycho-Pass — Source register and admission boundary"
 artifact_id: PP_SOURCE_REGISTER
 artifact_type: source_register
 series: psycho-pass
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 authority_generation: PP-INITIAL
-source_boundary: "NONE; metadata-only foundation, no admitted narrative"
+source_boundary: "PP-S01NE-E01 admitted and verified; E02–E11 metadata-only candidates"
 canonical_home: series/psycho-pass/source-inventory/PP_SOURCE_REGISTER.md
 created: 2026-11-18
-last_updated: 2026-11-18
-source_admission: NONE
+last_updated: 2026-11-23
+source_admission: "PP-S01NE-E01–E11 Season 1 New Edit authorized; admitted through PP-S01NE-E01"
 ---
 
 # Source register and admission boundary
 
-This register distinguishes official edition/catalogue metadata, verified local file availability and narrative admission. **Narrative admission is NONE.** On 2026-11-18 a bounded inventory found eleven numbered New Edit/Extended-labelled MKVs, one menu MKV, two BD-labelled ASS files and ten TV-labelled SRT files. All twenty-four files were byte-hashed. Container/stream metadata and subtitle timing/script metadata were inspected. No audiovisual playback, frame interpretation, narrative reading, dialogue interpretation or model capability test occurred.
+This register distinguishes official edition/catalogue metadata, verified local file availability and narrative admission. **As of 2026-11-23 under run `PP-S01NE-RUN-20261123-E01-E11`, `PP-S01NE-E01` is content-authenticated, bundle-verified, alignment-calibrated, and admitted; `PP-S01NE-E02`–`E11` remain metadata-only candidates pending sequential admission at their own frontiers.** On 2026-11-18 a bounded inventory found eleven numbered New Edit/Extended-labelled MKVs, one menu MKV, two BD-labelled ASS files and ten TV-labelled SRT files. All twenty-four files were byte-hashed. Container/stream metadata and subtitle timing/script metadata were inspected. Subsequent verification on 2026-11-23 confirmed all 24 original hashes unchanged, verified eleven complete episode bundles (`PP-S01NE-E01-BUNDLE-V1`..`E11-BUNDLE-V1`) and eleven standalone canonical FLAC streams bit-exact with embedded MKV audio, and performed full audiovisual/Japanese-text inspection on `PP-S01NE-E01` only.
 
 Private acquisition paths and supplier filenames remain outside Git. Stable witness IDs below bind public-safe technical metadata to the exact private bytes. An authorized operator retrieves the private source inventory through the owner's source environment and matches by SHA-256; filename resemblance is insufficient. Copy/move without byte change preserves witness identity; new bytes require a new witness/version record. A hash proves identity of the inspected file, not authenticity, completeness or successful decoding.
 
@@ -110,4 +110,12 @@ Before the first run, recover owner authorization, verify the selected edition/w
 
 The integrator owns attributed additions and corrections. Preserve original hashes and labels, record changed bytes as new witnesses, distinguish unavailable from not searched, and never infer later corpus completeness from this bounded directory. Metadata evidence can refine candidate identity without changing narrative coverage. Subsequent edition/content verification records exactly what was inspected and by whom, with any remaining uncertainty.
 
-Current summary: 11 available numbered media candidates; 1 excluded menu; 12 external text candidates; 0 verified complete bundles; 0 admitted sources; 0 substantive readings; 0 narrative high-water marks.
+Current summary: 11 available numbered media candidates (1 admitted: `PP-S01NE-E01`; 10 metadata-only pending sequential frontier: `E02–E11`); 1 excluded menu; 12 external text candidates; 11 structurally validated episode bundles (1 content-authenticated: `PP-S01NE-E01-BUNDLE-V1`); 1 accepted canonical deep reading (`PP-S01NE-E01`).
+
+### 2026-11-23 Attributed Inventory & Admission Update (`PP-S01NE-E01`)
+
+| Admitted Unit | Primary AV Witness | Canonical Lossless Audio | Primary Japanese Text & Calibration | Bundle & Runtime Verification |
+| --- | --- | --- | --- | --- |
+| `PP-S01NE-E01` | `PP-S01NE-E01-AV01` (`1603b8b0...`, `2753.194s`, `audio_start=0.000s`, content-authenticated Season 1 New Edit Episode 01, 100% watched) | `PP-S01NE-E01-AUD-FLAC01` (`225,075,213` B, `4005a1e3e83f46f8a48656845edd779c90f472b1f16538532692259b3b604f2f`, decoded 16-bit PCM `fdaaf145...` bit-exact with MKV FLAC) | `PP-S01NE-E01-TXT-BD01` (`e940679b...`, `624` cues): calibrated linearly across opening, Block 3 (`00:13:34–00:16:45`), and closing (`0.000s` global offset, `|error| ≤ ±0.4–0.5s`); `TXT-TV01` (`ca77a4ea...`) wording diffed (1 omitted breathing cue `ハァ…ハァ…！`). | `PP-S01NE-E01-BUNDLE-V1`: 9/9 semantic layers (`1,350` kept 1080p frames, `68` contact sheets, `541` shots, `0` broken links; `paired_subtitle_file: null` metadata caveat disclosed). Runtime: overlapping 720p MP4 segments + 11 zero-recompression lossless MKV clips + 25+ 1080p `FRM` stills + 50 ms `AM` RMS checks (`1.0 fps` model video sampling disclosed). |
+
+- **Unadmitted Corpus Metadata Watchpoints (`E02–E11`, no narrative inspection):** All eleven episode bundles pass structural validation (`0` errors) and standalone FLACs match bundle copies bit-exact; preserve non-zero MKV audio stream start offsets for `E02` (`0.111s`), `E04` (`0.067s`), `E06` (`0.056s`), `E08` (`0.111s`), and `E10` (`0.070s`), E04's missing archival external subtitle witness (`45` `ASR_UNVERIFIED` bundle cues flagged in metadata), E10 Block 1 anchor sparsity note, and E11's untagged audio language field for verification when each unit reaches its authorized frontier.

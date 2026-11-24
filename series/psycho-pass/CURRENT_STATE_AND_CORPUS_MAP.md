@@ -3,17 +3,17 @@ title: "Psycho-Pass — Current state and corpus map"
 artifact_id: PP_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: psycho-pass
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 authority_generation: PP-INITIAL
-source_boundary: "NONE; metadata-only foundation, no admitted narrative"
+source_boundary: "Run PP-S01NE-RUN-20261123-E01-E11 authorizes PP-S01NE-E01–E11 sequentially; accepted through PP-S01NE-E01"
 canonical_home: series/psycho-pass/CURRENT_STATE_AND_CORPUS_MAP.md
 created: 2026-11-18
-last_updated: 2026-11-18
+last_updated: 2026-11-23
 recommended_reasoning_class: BOUNDED_STANDARD
 project_initialization:
   status: canonical
@@ -32,18 +32,28 @@ project_initialization:
     - franchise/ledgers/PP_FRANCHISE_STATE_LEDGER.md
     - franchise/ledgers/PP_CONTINUITY_AND_CLAIM_LEDGER.md
     - integration/PP_RECONCILIATION_PROTOCOL.md
-  sequential_analysis_lock: CLOSED
-  next_permitted_operation: NONE_AWAITING_RUN_AUTHORIZATION
-source_admission: NONE
-run_authorization: NONE_AWAITING_RUN_AUTHORIZATION
+  sequential_analysis_lock: OPEN
+  next_permitted_operation: PP-S01NE-E02
+sequential_execution:
+  run_id: PP-S01NE-RUN-20261123-E01-E11
+  mode: continuous_sequential
+  unit_type: episode
+  authorized_start: PP-S01NE-E01
+  terminal_boundary: PP-S01NE-E11
+  committed_high_water_mark: PP-S01NE-E01
+  next_candidate_operation: PP-S01NE-E02
+  confirmation_between_units: false
+  run_state: active
+source_admission: "PP-S01NE-E01–E11 Season 1 New Edit authorized; each episode admitted at its own frontier; accepted through PP-S01NE-E01"
+run_authorization: PP-S01NE-RUN-20261123-E01-E11
 execution_profile:
-  role_configuration_status: ADOPTED_CAPABILITIES_UNVERIFIED
+  role_configuration_status: VERIFIED_ACTIVE_MULTIAGENT_NATIVE
   method_family: ANIME_WITH_CONTINUOUS_AV_COMPANION
   project_reconciliation_profile: PP_AV_PRIMARY_CHARACTER_AND_FORM
-  continuous_video: UNVERIFIED
-  direct_listening: UNVERIFIED
-  source_language_inspection: UNVERIFIED
-  complete_episode_bundles: UNAVAILABLE
+  continuous_video: VERIFIED_1FPS_WITH_LOSSLESS_CLIPS_AND_1080P_STILLS
+  direct_listening: VERIFIED_48KHZ_JAPANESE_AND_50MS_AM
+  source_language_inspection: VERIFIED_JAPANESE_ASS_SRT_AND_AUDIO
+  complete_episode_bundles: VERIFIED_AVAILABLE_E01_TO_E11
   source_filesystem_metadata: VERIFIED_BOUNDED_INVENTORY
 ---
 
@@ -51,9 +61,15 @@ execution_profile:
 
 The canonical root and sole continuing analytical branch are `series/psycho-pass`. This is one franchise project with installment-local source work and a distinct franchise reconciliation layer. The first intended installment is **Season 1 New Edit / Extended Edition, eleven episodes**. The original twenty-two-episode version is a separate possible comparison witness of the same underlying continuity, with its own identifiers, disclosure order and clocks.
 
-**SEQUENTIAL_ANALYSIS_LOCK = CLOSED. Source admission = NONE. Next permitted sequential operation = NONE_AWAITING_RUN_AUTHORIZATION.** No active run, completed reading, inspected narrative boundary or narrative high-water mark exists. There is no `sequential_execution` block. The initial gate remains closed while the first-start prerequisites below are unresolved.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** Owner authorization (`PP-S01NE-RUN-20261123-E01-E11`, 2026-11-23) authorizes one `continuous_sequential` run across Season 1 New Edit (`PP-S01NE-E01` through `PP-S01NE-E11`), pushing each completed episode transaction to `series/psycho-pass` without raising a PR until all eleven episodes are complete. **`PP-S01NE-E01` has been accepted**, advancing `committed_high_water_mark` to **`PP-S01NE-E01`** and `next_permitted_operation` / `next_candidate_operation` to **`PP-S01NE-E02`**. Each subsequent episode is admitted strictly at its own frontier after its fresh prospective freeze (`PP-S01NE-PRE-####`). No narrative material from `E02–E11` has been inspected.
 
-Metadata reconnaissance is sufficient for this foundation: eleven numbered video candidates, one excluded menu, two BD-labelled ASS witnesses and ten TV-labelled SRT witnesses were enumerated, hashed and inspected for technical metadata. That administrative completion does not authenticate an edition by content, admit a source or verify playback. No episode, dialogue, frame or continuous sound was interpreted. Official catalogue pages were used only for edition relationships and installment identity.
+Metadata reconnaissance verified eleven numbered New Edit MKVs, one excluded menu, two BD-labelled ASS witnesses, ten TV-labelled SRT witnesses, eleven standalone lossless FLAC tracks, and eleven structurally validated episode bundles. All 24 archival source hashes remain unchanged. Full audiovisual playback, direct Japanese listening, lossless stream-copy reinspection, 1080p still inspection, and 50 ms `AM` calibration have been verified empirically on `PP-S01NE-E01`.
+
+## Accepted units (`PP-S01NE`)
+
+| Unit | Status | Deep Reading | Transaction Checkpoint |
+| --- | --- | --- | --- |
+| `PP-S01NE-E01` | `ACCEPTED` (`14/14` QC PASS) | [`PP_S01NE_E01_DEEP_READING.md`](installments/s01-new-edit/readings/PP_S01NE_E01_DEEP_READING.md) | [`PP_S01NE_E01_CHECKPOINT.md`](installments/s01-new-edit/checkpoints/PP_S01NE_E01_CHECKPOINT.md) |
 
 | Need | Canonical home |
 | --- | --- |
