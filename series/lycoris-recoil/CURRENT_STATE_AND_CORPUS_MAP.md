@@ -41,6 +41,23 @@ The [23 November source recheck](03%20V2%20Working%20Artifacts/07%20Evidence%20a
 
 All six shorts have frozen source readings. The [Friends shorts reconciliation](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/README.md) records dispositions for all 53 independent propositions, the six-part ending-song comparison, amendments to current use of the frozen readings and the remaining Japanese listening questions. The corrected CP4 outcome is seven supported, four partially supported and one not tested. Apply the [CP4 and CP5 correction](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/SOURCE_READING_PARTICIPATION_AND_CP4_CORRECTION.md#current-ruling-on-pred-cp4-004-and-the-cp5-baseline) when consulting the pre-supplement freeze. The [CP5 anime-native baseline](03%20V2%20Working%20Artifacts/04%20Character%20Reconstruction/LYCORIS_RECOIL_CP5_ANIME_NATIVE_BASELINE.md) now freezes the 19-unit reconstruction before supplementary reading.
 
+## Proportionality expansion and source audit
+
+On 23 November 2026 the owner authorized three pieces of work:
+- a multi-agent expansion reread of the three Asaura novels and both *Recollect* volumes;
+- an audit of every admitted source family;
+- expansion of the two lead monographs and the relationship synthesis.
+
+The five accepted readings now cover their substrate at scene and page level: *Ordinary days* 11,906 words, *Recovery days* 12,778, *Gluttony days* 13,925, *Recollect* V01 7,351 and V02 7,994. Each corrects statements in its earlier version.
+
+All seven anthology readings and the *Heroine Archive* reference reading carry audited, critic-checked row revisions. The *Heroine Archive* reading also has a 40-row attributed testimony index.
+
+The [TV audit recheck](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/AUDIT_RECHECK_20261123.md) corrects speakers in E02–E06, E08 and E10–E12, and separates Chisato's E12 bag from Takina's E08 charm.
+
+The crosswalk and evidence matrix carry the verified corrections. The Chisato, Takina and relationship syntheses were expanded and passed independent self-containment and fidelity review after one revision round.
+
+The [completion register](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_COMPLETION_REGISTER.md#proportionality-expansion-and-source-audit) records each transaction, its participants and the remaining obligations. CP5 and the 19 frozen A1 readings are unchanged.
+
 ## Standing source-reading configuration
 
 The principal integrator owns canonical rulings and shared-file writes. Separate execution contexts independently inspect the authorized unit’s language and pictures, and its primary audiovisual evidence. An independent critic tests the sealed reading and its bounded V1 comparisons. Each source transaction records participants, inspected materials, differing explanations, dispositions and remaining obligations. Later retrospective sources enter only after the applicable native seal. The [Shorts 02–06 receipt](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/Shorts%20Audiovisual%20Reconciliation/SOURCE_READING_PARTICIPATION_AND_CP4_CORRECTION.md) identifies the four actual contexts and five separate transactions for this audiovisual configuration. Route specialists for other media according to their source and the project’s multi-source method.
@@ -720,6 +737,8 @@ The [V2 completion register](03%20V2%20Working%20Artifacts/08%20Audits%20and%20M
 
 The [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) and [evidence matrix](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md) now govern comparative attribution. They route the evidence for the current literary studies and the operational models in progress. Open listener referrals and chronology limits remain part of the CP5 evidence record.
 
+The 23 November proportionality expansion and source audit is integrated on this branch; the [completion register](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_COMPLETION_REGISTER.md#proportionality-expansion-and-source-audit) lists what it leaves open.
+
 # 14. Retrieval route
 
 
@@ -741,4 +760,4 @@ When resuming:
 
 # 15. Governing current-state statement
 
-The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The three novels, both *Recollect* volumes and seven anthologies have 12 accepted source-native readings. The *Heroine Archive* has a separately attributed production-reference record. The accepted cross-source comparisons distinguish the A2, B1 and C1 layers and preserve CP5 as the anime-native evidence boundary. The full-series synthesis and integrated reconstruction release remain in progress.
+The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The three novels, both *Recollect* volumes and seven anthologies have 12 accepted source-native readings. The *Heroine Archive* has a separately attributed production-reference record. The accepted cross-source comparisons distinguish the A2, B1 and C1 layers and preserve CP5 as the anime-native evidence boundary. On 23 November the five novel and *Recollect* readings were expanded by multi-agent reread, every admitted source family was audited, and the lead syntheses were expanded and re-accepted. The full-series synthesis and integrated reconstruction release remain in progress.

@@ -33,6 +33,8 @@ The TV endpoint for `REL-CHI-TAK` retains mutual rescue and independent ethical 
 
 The [23 November source recheck](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/SOURCE_RECHECK_20261123.md) bounds three earlier relationship observations. In REL-CHI-TAK-E04-004 the volunteered appraisal and its recipient are secure. Chisato’s pendant is the strongest referent, with aquarium play retaining its staging function. In REL-CHI-KUS-E12-001 distinguish Chisato’s visible participation, Mika and Kusunoki’s earlier negotiation, Itadori’s later withdrawal order and Kusunoki’s resumption of command. The later farewell in REL-MIK-YOS belongs to what Mika and viewers receive. Chisato sees the separate birthday greeting and charm. Her own knowledge of the earlier confrontation remains bounded.
 
+The [23 November audit recheck](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/AUDIT_RECHECK_20261123.md) qualifies four relationship routes. In E10, C0440–0441 are Mika's words to Chisato. They cannot stand as Chisato's trust in Takina and Fuki at a distance; that reading needs other support. In E12 Chisato turns back for her own bag, and the reason she names is the pug charm Takina gave her privately in E08 (C0419–0424). The gift answers Chisato's public request at E08 C0190, which Takina had rebuffed. Takina's last 千束さん is E03 C0272 and her first bare 千束 is E03 C0462; no later 千束さん from Takina occurs in the anime. In E09 C0075–0077 Chisato tells Mizuki that Takina has become self-conscious about it, giving her only stated reason for withholding her condition from Takina.
+
 ## 1. Responsibility
 
 This ledger tracks how recurring relationships change the behavior available to each participant.

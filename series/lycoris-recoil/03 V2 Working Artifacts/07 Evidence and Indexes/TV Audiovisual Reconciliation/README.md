@@ -24,6 +24,8 @@ The [22 November verifier return](VERIFIER_RETURN_20261122.md) gives the current
 
 The [23 November source recheck](SOURCE_RECHECK_20261123.md) governs the E04 appraisal, E12 command sequence and E13 farewell. It distinguishes captions, independently selected pictures and the attributed continuous-viewer account.
 
+The [23 November audit recheck](AUDIT_RECHECK_20261123.md) comes from a complete dialogue audit of E01–E13. It corrects speakers and addressees in E02–E06, E08 and E10–E12, including Kurumi in E05, Mizuki in E06, Mika in E10 and Majima in E11. It distinguishes Chisato’s E12 bag from the charm Takina gave her in E08, and leaves E01 C0237 and E12 C0115 open for a listener.
+
 ## What the TV evidence changes
 
 **Chisato’s nonlethality.** E11’s gift-shop sequence makes Yoshimatsu’s position behind Chisato relevant to her response. At 19:06.20 and 19:06.84 the sampled flashes fall on her satchel. Protecting him costs her the freedom to step aside. A bodily wound is unnecessary to that reading. E12 puts greater pressure on her position. At 08:10 the cut holds on the tower as a report sounds. Chisato then appears aiming upward and Yoshimatsu appears with a new wound. This sequence, Takina’s immediate danger and Chisato's subsequent response support a strong causal inference. They leave open how precisely Chisato intended the injury. E13 C0082 compares her shooting with “the one in black.” Majima greets Takina with that epithet in E10 C0221. Chisato also asks for Mika’s rounds back at E12 C0170. The old E13 gloss can no longer establish which rounds she is using. See E11-X02, E12-C04/C05 and E13-X01.
