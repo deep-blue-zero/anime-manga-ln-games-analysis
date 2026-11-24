@@ -3,22 +3,22 @@ title: "Psycho-Pass — Franchise chronology and claim reconciliation"
 artifact_id: PP_CONTINUITY_AND_CLAIM_LEDGER
 artifact_type: franchise_continuity_and_claim_ledger
 series: psycho-pass
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 authority_generation: PP-INITIAL
-source_boundary: "PP-S01NE-E01–E02 admitted and reconciled"
+source_boundary: "PP-S01NE-E01–E03 admitted and reconciled"
 canonical_home: series/psycho-pass/franchise/ledgers/PP_CONTINUITY_AND_CLAIM_LEDGER.md
 created: 2026-11-18
-last_updated: 2026-11-23
+last_updated: 2026-11-24
 ---
 
 # Franchise chronology and claim reconciliation
 
-This is the current canonical home for cross-installment chronology/disclosure reconciliation, philosophical/thematic claims, recurring audiovisual patterns and unresolved continuity disagreements. **Current reconciled records through `PP-S01NE-E02`: 6 chronology/edition records (`PP-CHR-0001`–`0006`), 7 franchise claims (`PP-FCLM-0001`–`0007`), 9 accepted reconciliation deltas (`PP-DELTA-0001`–`0009`).** Official release/edition metadata remains in the [source register](../../source-inventory/PP_SOURCE_REGISTER.md); inventory entries are not narrative records.
+This is the current canonical home for cross-installment chronology/disclosure reconciliation, philosophical/thematic claims, recurring audiovisual patterns and unresolved continuity disagreements. **Current reconciled records through `PP-S01NE-E03`: 8 chronology/edition records (`PP-CHR-0001`–`0008`), 10 franchise claims (`PP-FCLM-0001`–`0010`), 15 accepted reconciliation deltas (`PP-DELTA-0001`–`0015`).** Official release/edition metadata remains in the [source register](../../source-inventory/PP_SOURCE_REGISTER.md); inventory entries are not narrative records.
 
 ## Three separate temporal dimensions
 
@@ -89,3 +89,24 @@ Historical local readings and prediction freezes remain source-horizon artifacts
 | `PP-DELTA-0007` → `PP-FCLM-0003` (`STRENGTHEN`, Quarantine Maintained) | `ACCEPTED` (`PP-S01NE-E02`) | **Kōgami's Carnivore/Detective Duality & Unspoken Division 1 Wounds:** E02 deepens Kōgami's split (humane anti-bullying solidarity + physical-world deduction vs. consent-breaching cruelty + feral combat grin + candid `正論だ`) and adds Masaoka's Nietzschean abyss warning (`コウのときもそうだった`) plus the Ginoza–Masaoka `"landmine"` (`伸元`, `社会のくず`, `地雷`). Both Kōgami's past case/wall photo (`f05`) and the Ginoza–Masaoka rift origin remain strictly `OPEN` (`PP-S01NE-CLM-0016`, `0017`, `0020`). |
 | `PP-DELTA-0008` → `PP-FCLM-0004` (`STRENGTHEN`) & `PP-FCLM-0006` (NEW) | `ACCEPTED` (`PP-S01NE-E02`) | **Dual-Edge Orwellian Erasure & Holographic-vs.-Material Motif:** E01's holographic-surface-vs.-coercion motif broadens in E02 into `Home Holography` / `CommuField` / voice-synthesized avatars (`子安武人` vs. `水島大宙`) masking sordid physical murder (`ホログラフの椅子には座れない`). Orwell's *1984* (`00:44:01`) operates symmetrically across both sides of the divide: Midō's private unpersoning of Shōko Sugawara (`すがわら しょうこ`) inside "anarchic" cyberspace mirrors Gōda's state-bureaucratic cover-up (`PP-S01NE-CLM-0021`, `0022`, `0023`). *Open trigger:* Track Midō's fate and `CommuField` `Biometrics` bypass in E03. |
 | `PP-DELTA-0009` → `PP-FCLM-0007` (NEW) | `ACCEPTED` (`PP-S01NE-E02`) | **Verified Production Artifacts vs. Diegetic Clues Discipline:** Establishes durable separation between intentional storytelling seeds (`LSM LIBRARY` / `ハイパーオーツ` / `ウイルス`, `NO DATA`) and verified production/prop artifacts (Ginoza's master-audio slip at `00:34:35.93`, Satoshi Iba's `2082/23` typo, recycled `ID_ST//00547_AS65026_`, `left arm`/`ANTERCTIC DOROPS`/`LIVERTY`, Windows DirectX/MSI logs) (`PP-S01NE-CLM-0024`). |
+
+
+---
+
+## Reconciled Records Added Through `PP-S01NE-E03`
+
+### Three-Clock Chronology & Disclosure Updates (`PP-CHR-0007` – `PP-CHR-0008`)
+
+- **`PP-CHR-0007` (Decisive December 2112 Calendar Lock & Case 102 Timeline — E03):** Seven independent E03 documentary witnesses supersede E02's `2113–2114` DOB drift and lock the series' dominant baseline year to **mid-December 2112**, obeying exact Gregorian non-leap-2100 weekday math (`DSP-20`): `2108-11-02 (Fri)` (`橋田良二` `DIED AT 63` murder, Case 102 `ST01/2108~`) `<` `2109-01-13 (est.)` (Enforcer `佐々山光留` `2081.3.26` plastinated murder crying `槙島！`/`藤間`) `<` `2109-03-31` (Case 102 HQ dissolved under `青柳美芽生`) `<` `2110-02` / `2110-04` (Inspector Kōgami `2084.8.16` refuses therapy & demoted to Enforcer) `<` `2112-06-07` (`時任雄一` hit-and-run, `"6 mo ago"`) `<` `2112-10-05` (`葉山公彦` murder, `"2 mo ago"`) `<` `E03 Act I` (Midō capture & execution, early Dec 2112) `<` `2112-12-14 (Wed)` (`E03 Act II`: Ōsō Academy, `CFT-4 2112.12`, Central Park fountain unveil, Rikako sketching Yoshika under `槙島先生`) `<` `t_FF` (`E01 SC-01–SC-03` tower standoff).
+- **`PP-CHR-0008` (Three-Tier Disclosure Separation — E03):** Tracks `PP-S01NE-DISC-0016`–`0025`: (1) CID collectively knows Midō's 3-victim pattern, empty-room outburst, and shared Kanehara–Midō cracking code; (2) Kōgami alone links Case 102 to a separate broker (`周旋人`), holds the blurred pale-haired photo (`f05`) beside `島` in his Case 102 binder (`00:42:04`), and remembers Sasayama shouting `槙島！` without sharing that name with Ginoza or Akane; (3) Audience alone knows the short-bobbed fountain corpse (`INF`: missing Satsuki Kuzuhara), Yoshika Ōkubo's throat-slash sketch (`00:43:19`), and Makishima's physical role as `槙島先生` at Ōsō Academy.
+
+### Reconciled Franchise Propositions (`PP-FCLM-0008` – `PP-FCLM-0010`) & Accepted Deltas (`PP-DELTA-0010` – `0015`)
+
+| Delta / Claim ID | Disposition & Boundary | Reconciled Proposition, Local Lineage & Counterevidence / Open Trigger |
+| --- | --- | --- |
+| `PP-DELTA-0010` → `PP-FCLM-0005` (`STRENGTHEN`) | `ACCEPTED` (`PP-S01NE-E03`) | **Makishima's Broker Model & Dual Pedagogy (`周旋人` / `新たに犯罪を創造する`):** E03 expands Makishima/Gu-sung from unseen facilitators to a two-tier broker-technician network spanning Case 102 (`2109`), Kanehara, Midō (cruelly discarded via Terayama three-avatar relay as a faceless `のっぺらぼう`), and physical tutelage of Rikako Ōryō (`槙島先生`) — earning CID's first indirect forensic scent (`PP-S01NE-CLM-0027`, `0030`). |
+| `PP-DELTA-0011` → `PP-FCLM-0003` (`REVISE` — Backstory Unlocked, Quarantine Held) | `ACCEPTED` (`PP-S01NE-E03`) | **Case 102 Origin of Kōgami's Fall & Ginoza's Hereditary Dread:** Resolves E01's `PP-ENT-0015` to **Mitsuru Sasayama (`佐々山光留`, `2109.1.13`)**, grounds Kōgami's fall in voluntary therapy refusal (`721`, `2110.4`) + Case 102 binder photo `f05` beside `島`, and reveals Ginoza's `父親` fell into Latent Criminality via Kasei's `遺伝的資質` warning — while keeping `Masaoka = Ginoza's father` strictly `INF` (`DSP-21`) (`PP-S01NE-CLM-0028`, `0029`). |
+| `PP-DELTA-0012` → `PP-FCLM-0008` (NEW) | `ACCEPTED` (`PP-S01NE-E03`) | **Falsified Aesthetic Mercy-Killing & Specimen Case Resurrection:** Rikako Ōryō resurrects Case 102 plastination inside Ōsō Academy (short-bobbed fountain corpse `00:42:49` [`INF`: Satsuki Kuzuhara]; twin-tailed Yoshika Ōkubo sketched `00:43:19`, `DSP-18`), weaponizing *Titus Andronicus* (ironically quoting corrupt Emperor Saturninus) until Makishima's Act 3 Scene 1 tears-blindness probe exposes pure serial aestheticism (`PP-S01NE-CLM-0031`, `0035`). |
+| `PP-DELTA-0013` → `PP-FCLM-0001` (`STRENGTHEN` → `H2c`) | `ACCEPTED` (`PP-S01NE-E03`) | **Sharpened Institutional Ambivalence (`H2c`):** E03 pairs 4-yr scanner blind spots, `+4` blackouts, Ōsō `"greenhouse"` victim penalization, and unproven genetic stigma directly against **`任意執行対象`** preserving Inspector discretion at `CC 282`, Shion's legal *mens rea* restraint, Ginoza's evidentiary rigor & praise of Akane, dual crisis-containment logic of `報道管制`, and ordinary urban comfort (`PP-S01NE-CLM-0026`, `0032`). |
+| `PP-DELTA-0014` → `PP-FCLM-0009` (NEW) | `ACCEPTED` (`PP-S01NE-E03`) | **Virtual Identity Symposium & Reflection-Gaze Grammar:** Four-cornered debate (Akane's neutral tool, Masaoka's Rousseau Stag Hunt with two-equilibrium defect tension, Midō's inverted cyber-Platonism `イデア`, Kōgami's `偶像` & Makishima's Terayama `代理人`) paired with E03's reflection-gaze visual grammar (vanity mirror → Sasayama dead eyes → Kasei-in-Ginoza → Kanehara-in-Ginoza → fountain corpse eye) and anti-symbolism guardrails (`PP-S01NE-CLM-0030`, `0033`, `0034`). |
+| `PP-DELTA-0015` → `PP-FCLM-0007` (`STRENGTHEN`) & `PP-FCLM-0010` (NEW) | `ACCEPTED` (`PP-S01NE-E03`) | **Non-Archival-BD Alignment Discipline & 6-Tier Name Provenance:** Establishes verification standard for piecewise-aligned TV subtitles (logging `-0.98s`/`+1.46s` boundary offsets & 5 TV-CC speaker/medium fixes) and 6-tier kanji/reading provenance (`Yoshika Ōkubo` lossless lock; `禾生壌宗` diegetic+ED unspoken reading; `遠藤` TV-CC-only) alongside exact 22nd-century Gregorian calendar verification (`PP-S01NE-CLM-0025`, `0036`, `0037`). |

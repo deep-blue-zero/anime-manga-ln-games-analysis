@@ -3,22 +3,22 @@ title: "Psycho-Pass S1 New Edit — Claims and disclosure"
 artifact_id: PP_S01NE_CLAIM_AND_DISCLOSURE_LEDGER
 artifact_type: claim_and_disclosure_ledger
 series: psycho-pass
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 authority_generation: PP-INITIAL
-source_boundary: "PP-S01NE-E01–E02 admitted and accepted"
+source_boundary: "PP-S01NE-E01–E03 admitted and accepted"
 canonical_home: series/psycho-pass/installments/s01-new-edit/PP_S01NE_CLAIM_AND_DISCLOSURE_LEDGER.md
 created: 2026-11-18
-last_updated: 2026-11-23
+last_updated: 2026-11-24
 ---
 
 # S1 New Edit — Claims and disclosure
 
-**Accepted records through `PP-S01NE-E02`: 24 local claims (`CLM-0001`–`0024`), 2 frozen prospective records (`PP-S01NE-PRE-0001`–`0002`), 15 disclosure events (`DISC-0001`–`0015`), 17 adjudicated multi-agent disputes (`DSP-01`–`17`), 9 retained `OPEN` horizon questions.** This ledger preserves the installment's changing explanations and legitimate knowledge, complementing [source observations](PP_S01NE_EVIDENCE_AND_STATE_LEDGER.md). It is not a prewritten philosophical reading.
+**Accepted records through `PP-S01NE-E03`: 37 local claims (`CLM-0001`–`0037`), 3 frozen prospective records (`PP-S01NE-PRE-0001`–`0003`), 25 disclosure events (`DISC-0001`–`0025`), 26 adjudicated multi-agent disputes (`DSP-01`–`26`), 9 retained `OPEN` horizon questions.** This ledger preserves the installment's changing explanations and legitimate knowledge, complementing [source observations](PP_S01NE_EVIDENCE_AND_STATE_LEDGER.md). It is not a prewritten philosophical reading.
 
 ## Prospective and disclosure records
 
@@ -127,3 +127,49 @@ A new independent finding is separately identified before assessing whether it c
 
 - **Retained `OPEN` Horizon Questions (Carried Into `PP-S01NE-E03` Freeze):** (1) Midō's fate, CID's response to the blown Club Exocet sting, and Shōko Sugawara's undiscovered murder; (2) how Midō bypassed `CommuField`'s `Biometrics` login UI (`00:31:59`); (3) how CID will eventually uncover Makishima/Gu-sung and the `Johnny Mnemonic` supplier; (4) verbal identity of Kōgami's creased pale-haired wall photo (`f05`) and exact past incident behind `"コウのときもそうだった"` & `"abnormal"` death; (5) exact origin/kinship of the Ginoza–Masaoka `"landmine"` (`伸元`); (6) unexplained significance of Makishima's `LSM LIBRARY` / `ハイパーオーツ` / `ウイルス` tablet seed; (7) Yayoi↔Shion (`00:30:31` E01; `00:32:23` E02 wink); (8) Kagari's uncorroborated age-5 Latent Criminal self-report; (9) Sibyl's material constitution and the E01 (`2112`) vs. E02 (`2113–14`) DOB-card shift.
 - **Master Deltas Sent & Accepted:** `PP-DELTA-0005`–`0009` reconciled into [`PP_CONTINUITY_AND_CLAIM_LEDGER.md`](../../franchise/ledgers/PP_CONTINUITY_AND_CLAIM_LEDGER.md) and [`PP_FRANCHISE_STATE_LEDGER.md`](../../franchise/ledgers/PP_FRANCHISE_STATE_LEDGER.md).
+
+
+---
+
+## Accepted Unit Records — `PP-S01NE-E03`
+
+### Frozen Prospective Record (`PP-S01NE-PRE-0003`)
+
+- **ID & Hash:** `PP-S01NE-PRE-0003` (`6,525` bytes, `SHA-256: bef5447f68e4e48846d5f8ca71972f03ff3c7eb257c9a5ac6cd56a296519f37c`, preserved byte-unaltered; locked prior to any E03 narrative inspection; entering viewer boundary strictly `PP-S01NE-E01`–`E02`).
+- **Outcome:** `Q1` (first non-archival-BD witness) **`PASS WITH SYNC & SPEAKER-TAG CAVEATS`** (`0` text diffs, PCM bit-exact, `-0.98s` & `+1.46s` boundary offsets + 5 TV-CC speaker fixes); `Q2` **`H2a CONFIRMED`** (Akane grief steadied with `00:17:26` human fragility; `Biometrics` login bypass still `OPEN`); `Q3` **`CONFIRMED` (staged CID breakthrough with strict `DISC` limits)**; `Q4` **`MAJOR DISCLOSURES + BOUNDARIES`** (Kōgami Inspector past, Sasayama `2109.1.13`, `f05` binder photo beside `島`; Kasei `父親` warning while `Masaoka = father` remains `INF`); `Q5` **`H2c` SHARPENED**; `Q6` **`DECISIVE REVERSION TO DECEMBER 2112`** (exact Gregorian calendar math).
+
+### Disclosure Events (`PP-S01NE-DISC-0016` – `DISC-0025`)
+
+| Disclosure ID | Proposition / Event | Audience vs. Character Access | Unit / Locator |
+| --- | --- | --- | --- |
+| `PP-S01NE-DISC-0016` | Shōko Sugawara was murdered & dismembered down drains; Midō impersonated Spooky Boogie (`警察` slip) and Yūichi Tokitō (`2112.6.7`) | CID & Audience establish murder (`00:09:42–00:10:37`) and Midō's 3-victim pattern (`00:14:52`). | `PP-S01NE-E03` (`00:07:55–00:15:10`) |
+| `PP-S01NE-DISC-0017` | Makishima & Gu-sung hijack Midō's home avatars (`のっぺらぼう` three-avatar relay) before Kagari kills Midō (`CC 335.1`) | Audience sees Makishima/Gu-sung; Ginoza hears Midō yelling in an empty room (`いったい、誰と話してたんだ？`). | `PP-S01NE-E03` (`00:19:10–00:20:55`) |
+| `PP-S01NE-DISC-0018` | Kōgami (`2084.8.16`, #1 `721`, Ginoza's `同期生`) was Div 1 Inspector demoted `2110.4` after refusing therapy during Case 102 | Akane & Audience learn via Ginoza's dossier transfer (`00:22:30–00:22:55`); Ginoza already knew. | `PP-S01NE-E03` (`00:22:30–00:22:55`) |
+| `PP-S01NE-DISC-0019` | Enforcer Mitsuru Sasayama (`Hound 4`, `CC 282` `任意執行対象`) shouted **`"槙島！"`** & **`"藤間"`** before being plastinated (`2109.1.13`) | Audience witnesses Kōgami's nightmare (`00:22:58–00:25:00`); Akane & Kagari learn Sasayama's death (`00:29:45–00:32:30`) WITHOUT hearing `槙島`. | `PP-S01NE-E03` (`00:22:58–00:25:00`, `00:30:44`) |
+| `PP-S01NE-DISC-0020` | Bureau Chief Kasei (`禾生壌宗` on report/ED, unspoken reading) warns Ginoza of unproven `遺伝的資質` & his father (`父親と同じ轍`) | Ginoza & Audience hear Kasei (`00:26:05–00:26:19`); Kasei reflects in Ginoza's lenses (`DSP-21`, NOT Masaoka); Akane knows nothing of Ginoza's father. | `PP-S01NE-E03` (`00:25:15–00:26:23`) |
+| `PP-S01NE-DISC-0021` | Specimen Case (`ST01/2108~`, Ryōji Hashida `DIED AT 63`, Tōma prime suspect, `+4` Area Stress blackout) had an unknown plastination resin source | Akane & Audience learn from Shion (`00:30:25–00:32:35`); Shion withholds `共犯` label absent intent proof. | `PP-S01NE-E03` (`00:30:25–00:32:35`) |
+| `PP-S01NE-DISC-0022` | Kanehara's Safety Canceller & Midō's holo-cracking tool share one programmer; Kōgami deduces a separate broker (`周旋人`) uniting Case 102 | CID learns code match (`00:39:42`); Kōgami states `周旋人` to Ginoza (`00:41:50`) & holds `f05` photo beside `島` in Case 102 binder (`00:42:04`), while Ginoza calls it `"ghost"` and Kōgami does NOT share `槙島`. | `PP-S01NE-E03` (`00:39:40–00:42:22`) |
+| `PP-S01NE-DISC-0023` | Ōsō Academy covers up missing Satsuki Kuzuhara (`温室栽培`/`かん口令`); Yoshika Ōkubo suffers stepfather predation & clouded Hue | Audience sees school/studio scenes (`00:33:50–00:38:48`); CID Division 1 knows **nothing** of Ōsō Academy, Satsuki, Yoshika, or Rikako. | `PP-S01NE-E03` (`00:33:50–00:38:48`) |
+| `PP-S01NE-DISC-0024` | Short-bobbed plastinated corpse (matching `00:36:01` sketch; bounded `INF`: Satsuki Kuzuhara, NOT Yoshika) unveiled in Central Park fountain | Audience & oblivious sanitation workers (Takahashi / TV-CC `遠藤`) see sculpture (`00:42:49`); CID not yet notified at `00:45:53`. | `PP-S01NE-E03` (`00:42:22–00:43:18`) |
+| `PP-S01NE-DISC-0025` | Rikako Ōryō sketches twin-tailed **Yoshika Ōkubo** with throat slash (`00:43:19`) under **`槙島先生`**'s *Titus Andronicus* tutelage | Audience ONLY (`00:43:18–00:44:22`); zero CID awareness at `00:45:53`. | `PP-S01NE-E03` (`00:43:18–00:44:22`) |
+
+### Local Claims & Dispositions (`PP-S01NE-CLM-0025` – `CLM-0037`)
+
+| Claim ID | Kind & Disposition | Reconciled Proposition, Supporting Observations & Rival / Uncertainty |
+| --- | --- | --- |
+| `PP-S01NE-CLM-0025` | Source / Sync (`REVISE` — `DSP-23`, High) | First non-archival-BD witness `TXT-ALIGNED01` is textually exact (`0` diffs vs. `TXT-TV01`, PCM bit-exact) yet exhibits two `> ±0.5s` boundary offsets (`-0.98s` `L15`, `+1.46s` `L562`) and 5 verified TV-CC speaker/medium errors (`L293–294`, `L317`, `L340–346`, untagged shifts, HR TTS `ひとまるに` & silent window AR chat) requiring direct `AO`/`AV` verification (`E03-OBS-0001`, `0008`, `0010`, `0013`, `0017`). |
+| `PP-S01NE-CLM-0026` | Character / Causal (`STRENGTHEN` → `H2a`, High) | Akane's response to classmate Shōko's murder confirms **`H2a`** grounded in genuine fragility: collapsing to her knees in the bloody corridor (`00:17:26`) and weeping in Shōko's room, yet steadying under Kōgami's mirror audit (`俺たち全員の落ち度だ`) without Hue breakdown or retreat to Ginoza's detachment (`E03-OBS-0005`, `0007`, `0010`, `0014`). |
+| `PP-S01NE-CLM-0027` | Narrative / Epistemic (`STRENGTHEN`, High) | E03 delivers CID's **first staged detection** of an unseen orchestrator (`いったい誰と話してたんだ？` → shared cracking code → Kōgami's `技術屋`/`周旋人` deduction of `"新たに犯罪を創造する"`), strictly preserving `DISC` limits: CID collectively remains blind to Makishima, Gu-sung, Ōsō Academy, and the fountain corpse (`E03-OBS-0009`, `0020–0023`). |
+| `PP-S01NE-CLM-0028` | Character / Backstory (`STRENGTHEN` — `DSP-19`, High) | Kōgami's E01–E02 duality resolves into Case `102`: former #1 Inspector (`721`, `2084.8.16`, `古語検定1級`, `同期生`), voluntarily refusing therapy after Enforcer **Mitsuru Sasayama** (`2081.3.26`, `CC 282`) was plastinated (`2109.1.13`) crying `槙島！`/`藤間`; `d_f18` proves E02's blurred pale-haired photo (`f05`) sits in Kōgami's Case 102 binder beside `島` (`E03-OBS-0010`, `0011`, `0015`, `0021`). |
+| `PP-S01NE-CLM-0029` | Relational / Quarantine (`REVISE` — `DSP-21`, High) | Director Kasei (`禾生壌宗`, unspoken reading) reveals Ginoza's **father** (`父親`) became a Latent Criminal while exploiting unproven `遺伝的資質` — yet `00:26:12` reflects Kasei (NOT Masaoka) in Ginoza's lenses, keeping `Masaoka = Ginoza's father` strictly a bounded inference (`INF`) at E03 (`E03-OBS-0012`). |
+| `PP-S01NE-CLM-0030` | Philosophical / Literary (`STRENGTHEN`, High) | E03 stages a four-cornered virtual-identity debate (Akane's neutral tool vs. Masaoka's Rousseau Stag Hunt with two-equilibrium defect tension vs. Midō's inverted cyber-Platonism `イデア` vs. Kōgami's `偶像` & Makishima's Terayama *Farewell to Cinema* `代理人`/`のっぺらぼう` verdict), while exposing Makishima's self-contradictory Ring-of-Gyges scorn for `"cheap"` power he himself supplies (`E03-OBS-0001`, `0003`, `0006`, `0008`). |
+| `PP-S01NE-CLM-0031` | Philosophical / Character (`STRENGTHEN` — `DSP-25`, High) | Rikako Ōryō's *Titus Andronicus* Lavinia rhetoric (quoting corrupt Emperor **Saturninus**'s V.3 lines) is **falsified** as compassionate mercy-killing by Makishima's Act 3 Scene 1 tears-blindness probe (`00:44:05`), exposing serial aesthetic predation (`新しい絵`) (`E03-OBS-0013`, `0018`, `0023`). |
+| `PP-S01NE-CLM-0032` | Institutional / Interpretive (`STRENGTHEN` → `H2c`, High) | E03 sharpens **`H2c`** without collapsing into flat dystopia: 4-yr scanner evasion, `+4` blackout, Ōsō `"greenhouse"` gag orders + victim Hue clouding, and Kasei's eugenic pressure (echoed by Sasayama's confined father `佐々山綱紀`) are counterweighted by **`任意執行対象`** preserving human Inspector discretion at `CC 282`, Shion's *mens rea* refusal (`共犯`), Ginoza's evidentiary rigor & sincere defense of Akane, dual crisis-containment logic of `報道管制`, and habitable civilian life (`E03-OBS-0006`, `0011–0012`, `0015–0020`). |
+| `PP-S01NE-CLM-0033` | Relational / Ordinary Life (`STRENGTHEN` — `DSP-25`, High) | Directed asymmetries (`Akane↔Kōgami` explicitly non-romantic via `00:27:55` laugh; `Kōgami↔Ginoza` bruised peer friction; `Rikako↔Yoshika` predatory grooming; `Yayoi↔Shion` strictly bounded banter) and grounded ordinary life (Spirytus setup-payoff, Kagari's culinary loft & lightweight drinking, Akane's alcohol tolerance, Yayoi's cup udon, Kaori/Yuki café) anchor E03's realism (`E03-OBS-0003`, `0007`, `0014–0018`). |
+| `PP-S01NE-CLM-0034` | Formal / Audiovisual (`STRENGTHEN` — `DSP-24`, High) | E03's reflection rhyme (highway glass → vanity mirror → Sasayama dead eyes [`CAV`] → Kasei-in-Ginoza → Kanehara-in-Ginoza → fountain corpse eye), Kagari's `SHUSEI KAGARI` Eliminator kill (`00:20:40`), 71s static rain-car shot (minimalism + production economy), and radiant strings over carnage sustain rigorous formal craft alongside anti-symbolism guardrails (`E03-OBS-0001`, `0005`, `0009`, `0011–0012`, `0019`, `0022`). |
+| `PP-S01NE-CLM-0035` | Factual / Visual (`REVISE` — `DSP-18`, High) | Native 1080p verification proves the Central Park fountain sculpture (`00:42:49`) is a **short chin-length brown-bobbed girl** matching `00:36:01` sketch (verbally unidentified; bounded `INF` → missing Satsuki Kuzuhara, NOT Yoshika), while Rikako's `00:43:19` sketch unmistakably targets **twin-tailed Yoshika Ōkubo** (`おおくぼ よしか`, lossless `d02` + `d_f11`), NOT Mika Shimotsuki (`E03-OBS-0018`, `0022–0023`). |
+| `PP-S01NE-CLM-0036` | Chronology / Source (`REVISE` — `DSP-19/20`, High) | Seven E03 documentary witnesses lock the baseline calendar cleanly to **mid-December 2112**, with exact Gregorian leap-year math (`2112-12-14` = true Wednesday; `2108-11-02` = true Friday), Ryōji Hashida `DIED AT 63` (`26 OCT 2044`), Sasayama `2081.3.26` → `2109.1.13`, and Case 102 HQ dissolved `2109.3.31` (`E03-OBS-0006`, `0010`, `0013`, `0015`, `0019`). |
+| `PP-S01NE-CLM-0037` | Language / Provenance (`STRENGTHEN` — `DSP-22`, High) | Enforces 6-tier name provenance separating spoken names, HUD/report-only names (`橋田良二`, `狡噛とも代`, `佐々山綱紀`, `青柳美芽生`, `石原望`, `中道杏奈`), diegetic+ED unspoken kanji (`禾生壌宗`, reading unspoken), ED-only (`聖護`, `チェ・グソン`), and TV-CC speaker-tag-only (`遠藤`) (`E03-OBS-0010`, `0012`, `0015`, `0022`, `0024`). |
+
+- **Retained `OPEN` Horizon Questions (Carried Into `PP-S01NE-E04` Freeze):** (1) CID's discovery & identification of the short-bobbed Central Park fountain corpse (`INF` → Satsuki Kuzuhara) and link to Case 102 / Ōsō Academy; (2) fate of endangered **Yoshika Ōkubo** (sketched `00:43:19`) and sharp-eyed **Mika Shimotsuki**; (3) identity of the rumored former Ōsō Academy teacher (`INF` → Kōzaburō Tōma) and Rikako's connection to Case 102; (4) when Kōgami will share `槙島` / `f05` with Ginoza/Akane and whether Ginoza accepts the `周旋人` theory; (5) explicit verbal confirmation (or refutation) of `Masaoka = Ginoza's father` (`INF`); (6) `CommuField Biometrics` bypass mechanism; (7) Makishima's `LSM LIBRARY` / `ハイパーオーツ` / `ウイルス` tablet seed (`E02`); (8) Yayoi↔Shion & Kagari age-5 status; (9) Sibyl's material constitution and **Tranche 1 (`E03–E04`) monograph qualification review** upon E04 arc completion.
+- **Master Deltas Sent & Accepted:** `PP-DELTA-0010`–`0015` reconciled into [`PP_CONTINUITY_AND_CLAIM_LEDGER.md`](../../franchise/ledgers/PP_CONTINUITY_AND_CLAIM_LEDGER.md) and [`PP_FRANCHISE_STATE_LEDGER.md`](../../franchise/ledgers/PP_FRANCHISE_STATE_LEDGER.md).
