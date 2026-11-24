@@ -51,9 +51,13 @@ References in this section use the Gemini run’s `03_cumulative_ledgers/` or `0
 | SX04 | FULL_SERIES_RETROSPECTIVE_SYNTHESIS §§1–4, especially L46–60/86; TV_TO_SHORTS_RECONCILIATION §4; SPEECH_AND_MOTIF_LEDGER L295 | **STRENGTHEN** the six-part musical form, **REJECT** the short S04 duration, exact millisecond equality across mixes, 100.55 s of *singing*, and an echo model explaining 100% of S02’s tail. R²=.806–.932 leaves residual variance. The lead-in at S06 176–209.25 s contains mixed signal. Dialogue alone could account for signal in an unscored scene, so that observation cannot decide when music enters. A specific siren has no independent support. Scares and trip order remain open even in the source’s own final section. |
 | SX05 | CHARACTER_STATE_HISTORY L338; RELATIONSHIP_STATE_HISTORY L234; Short 04 C06–07 | **OPEN** ontology and testimony. A staged prank is revealed in one sequence and a second Kurumi-like image crosses another. A locked camera and conspicuous figure visible to the audience do not determine who saw it, who screamed, or whether anyone supernatural was present. |
 
+## Owner listening closeout
+
+The [owner listening return](OWNER_LISTENING_RETURN_20261123.md) records the outcome of the requested playback pass, including the Short 05 wording, the Short 04 group scream and the limits on exact Short 06 sound attribution. The residuals do not require another general listening pass. The dispatched questions below retain their original scope.
+
 ## Independent verifier referrals
 
-Dispatch these questions to a Japanese-speaking verifier able to play the synchronized local masters, replay with headphones and inspect frames at native rate. The register records referrals. No fresh human or third-provider audition is claimed. Use the matching `02_media/hardsub_mkv/s00eNN.analysis-hardsub.mkv` or the prepared Japanese counterpart; use audio-first, subtitle-hidden playback for phonetics. Freeze a time-stamped description, speaker and confidence before exposing the alternatives below. Record masking or inability to discriminate as an outcome. No subtitle files were edited.
+These questions were prepared for a Japanese-speaking verifier able to play the synchronized local masters, replay with headphones and inspect frames at native rate. The dated closeout above carries the subsequent nonblind owner return. Use the matching `02_media/hardsub_mkv/s00eNN.analysis-hardsub.mkv` or the prepared Japanese counterpart; use audio-first, subtitle-hidden playback for phonetics. Freeze a time-stamped description, speaker and confidence before exposing the alternatives below. Record masking or inability to discriminate as an outcome. No subtitle files were edited.
 
 | Question | Blind playback target | Consequence of independent discrimination |
 |---|---|---|
