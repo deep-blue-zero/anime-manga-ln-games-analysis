@@ -118,6 +118,7 @@ See the machine-readable [`series/registry.json`](../series/registry.json) for c
 - [Doujinshi/Fanwork Comparative Taxonomy](../studies/doujinshi-fanwork-comparative-taxonomy/) — `studies/doujinshi-fanwork-comparative-taxonomy/` — approved text and machine-readable projections for the comparative taxonomy project; the native XLSX remains REFERENCE_DRIVE.
 - [PACTRIH Ethical Topology](../studies/pactrih-ethical-topology/) — `studies/pactrih-ethical-topology/` — Seven-axis comparative ethical topology for fictional characters/entities, factions and historical agents, with canonical numerical data and a verified interactive atlas.
 - [Project Itoh — Genocidal Organ and Harmony: From Genocidal Grammar to the Maelstrom](../studies/project-itoh-genocidal-organ-harmony/) — `studies/project-itoh-genocidal-organ-harmony/` — Source-verified comparative chronology, causal continuity and ethical-literary synthesis connecting Genocidal Organ and Harmony without altering either novel's frozen reading.
+- [THE IDOLM@STER CINDERELLA GIRLS Cross-Property Study](../studies/cinderella-girls-cross-property/) — `studies/cinderella-girls-cross-property/` — Retrospective comparison of characterization, continuity and idol production in the 2015 and U149 television anime and the Mobage and Starlight Stage mobile games.
 
 <!-- END GENERATED CORPUS STUDY CATALOG -->
 
