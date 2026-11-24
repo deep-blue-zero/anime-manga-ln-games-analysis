@@ -3028,3 +3028,15 @@ Case headings in the episode comparisons identify the observation-level action, 
 | SPV2-ADJ-E12-013, SPV2-ADJ-E12-015 | OPEN | SPV2-OPEN-E12-01 | Exact independent vocal takes, backing layers and doubles remain unassigned. |
 
 [Source comparison and owner receipt](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md#e12-owner-follow-up-and-source-binding).
+
+## Owner listening follow-up · E04 and E12
+
+These entries follow the earlier E04 owner hearing and the E12 color-guide and feather-phrase replies recorded above. [Owner listening follow-up and dependency dispositions](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_OWNER_LISTENING_FOLLOWUP_20261123.md)
+
+| Case | Disposition | Record | Supported scope |
+| --- | --- | --- | --- |
+| E04-D04 | STRENGTHEN | SPV2-OPEN-E04-01, SPV2-CLM-E04-04/38/46 | The owner confirms Tokka joins in from the audience around 20:26–20:27. Kyoka leads the exposed opening. Further stage parts and the isolated crowd layer remain open. |
+| SPV2-ADJ-E12-013 | STRENGTHEN | SPV2-OBS-E12-63, SPV2-CLM-E12-63 | The owner hears Rio, Kyoka, Kyoka with Rio, Momiji and Yukine in the guide’s order. Yukine sings her phrase solo at 14:26.3–14:32.0. Haru enters at the pre-chorus. |
+| SPV2-ADJ-E12-015 | STRENGTHEN | SPV2-OBS-E12-64 | The owner hears all five throughout the chorus, including at 14:47.7–14:49.7. |
+| SPV2-ADJ-E12-013, SPV2-ADJ-E12-015 | OPEN | SPV2-OPEN-E12-01 | Production evidence for exact takes, doubles and processing remains open. The owner has supplied the audible cast judgment. |
+| SPV2-ADJ-E12-034 | STRENGTHEN, OPEN | SPV2-OBS-E12-32, SPV2-OPEN-E12-02 | Natalya of the Yura Yura Sisters is the owner’s most likely speaker. The source-level identification remains qualified. |
