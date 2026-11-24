@@ -3,14 +3,14 @@ title: "Psycho-Pass — Franchise chronology and claim reconciliation"
 artifact_id: PP_CONTINUITY_AND_CLAIM_LEDGER
 artifact_type: franchise_continuity_and_claim_ledger
 series: psycho-pass
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 authority_generation: PP-INITIAL
-source_boundary: "PP-S01NE-E01–E06 admitted and reconciled"
+source_boundary: "PP-S01NE-E01–E07 admitted and reconciled"
 canonical_home: series/psycho-pass/franchise/ledgers/PP_CONTINUITY_AND_CLAIM_LEDGER.md
 created: 2026-11-18
 last_updated: 2026-11-24
@@ -18,7 +18,7 @@ last_updated: 2026-11-24
 
 # Franchise chronology and claim reconciliation
 
-This is the current canonical home for cross-installment chronology/disclosure reconciliation, philosophical/thematic claims, recurring audiovisual patterns and unresolved continuity disagreements. **Current reconciled records through `PP-S01NE-E06`: 14 chronology/edition records (`PP-CHR-0001`–`0014`), 20 franchise claims (`PP-FCLM-0001`–`0020`), 33 accepted reconciliation deltas (`PP-DELTA-0001`–`0033`).** Official release/edition metadata remains in the [source register](../../source-inventory/PP_SOURCE_REGISTER.md); inventory entries are not narrative records.
+This is the current canonical home for cross-installment chronology/disclosure reconciliation, philosophical/thematic claims, recurring audiovisual patterns and unresolved continuity disagreements. **Current reconciled records through `PP-S01NE-E07`: 16 chronology/edition records (`PP-CHR-0001`–`0016`), 24 franchise claims (`PP-FCLM-0001`–`0024`), 39 accepted reconciliation deltas (`PP-DELTA-0001`–`0039`).** Official release/edition metadata remains in the [source register](../../source-inventory/PP_SOURCE_REGISTER.md); inventory entries are not narrative records.
 
 ## Three separate temporal dimensions
 
@@ -173,3 +173,24 @@ Historical local readings and prediction freezes remain source-horizon artifacts
 | `PP-DELTA-0031` → `PP-FCLM-0003` (`STRENGTHEN` — Dual-Era Kōgami & `STRONG_INF` Held) | `ACCEPTED` (`PP-S01NE-E06`) | **Pre-Tragedy Division 1 Baseline (`2109`), Calculating Inspector Kōgami & `STRONG_INF` Continuity:** Act II deepens Division 1's pre-trauma history (humane hostage-protecting YET clinically manipulative Inspector Kōgami verifying `5×` `ERROR` rows `シビュラの目に狂いはなかった`; lighter pre-trauma Ginoza bantering with live Enforcer Sasayama `ギノ先生`; Shion's unsubtitled `"ふーん…"` gaze at Yayoi `d03`), while keeping **`Masaoka = Ginoza's father` strictly non-factive `STRONG_INF`** (`PP-S01NE-CLM-0066`, `0068`). |
 | `PP-DELTA-0032` → `PP-FCLM-0007` (`STRENGTHEN`) & `PP-FCLM-0019` (NEW) | `ACCEPTED` (`PP-S01NE-E06`) | **Unresolved Internal Chronology Contradiction (`E03/E04` vs. `E06`), Recycled HUD Asset Guard & `d_f12`/`d_f17` Ground Truth:** Registers the unresolved E03/E04 (`2109-01-13`/`03-31`) vs. E06 (`2109-03-28..04-14`) production-art contradiction honestly (`REQ-01`); locks `d_f17` (`5×` pulls `04:09:02, 03, 41, 42, 43`, `[ ERROR ] :: INVAILID USER`), un-mirrored `d_f12` (`CC 118`, `00475-AEDF-52510-2`), Dominator IDs (`d_f02`/`06`/`16`), `00:23:26 (-1.27s)` RMS music false positive, 29-line Kōgami speaker handoff, and recycled `[03:00:19:429]` / `AREA SD478` template across 2109 & 2112 (`PP-S01NE-CLM-0061`, `0067`, `0070`, `0071`). |
 | `PP-DELTA-0033` → `PP-FCLM-0010` (`REVISE` — E06 Tier Promotions) & `PP-FCLM-0013` (`STRENGTHEN` — Tranche 2 Gate Discipline) | `ACCEPTED` (`PP-S01NE-E06`) | **Tier-1 `槙島聖護` Promotion, Tier-2 UI Harmonization & Tranche 2 `E08`-Close Gate Governance:** Promotes **`槙島聖護`** & **`リナ`** to Tier-1 spoken and **`TOMOMI MASAOKA`** (`d_f04`) / **`MITSURU SASAYAMA`** (`d_f15`/`d_f16`) to Tier-2 diegetic UI (`智己`/`光留` unspoken ED kanji); enforces spotless Tier-4 quarantine on **`滝崎`**, **`禾生壌宗`**, **`霜月美佳`**; and holds formal monograph qualification cleanly at **`DEFERRED_EVIDENCE`** across `E06–E07` for formal **Tranche 2 close adjudication at `E08`** (`CANDIDATE_TRACKED`: Yayoi, Akane, Kōgami, Makishima, Ginoza; `COMPLETE_SECONDARY_ARC`: Sengūji) (`PP-S01NE-CLM-0069`, `0072`). |
+
+
+---
+
+## Reconciled Records Added Through `PP-S01NE-E07`
+
+### Three-Clock Chronology & Disclosure Updates (`PP-CHR-0015` – `PP-CHR-0016`)
+
+- **`PP-CHR-0015` (Five-Way `2113-01` Rollover, Tōma `AGE : 29` +1 Slip & Deepened `2109` Conflict — E07):** Advances cleanly past Christmas `2112-12` into **`January 2113` (`2113-01`)**, verified across five independent witnesses under non-leap-2100 Gregorian math: Ginoza tablet (`d_f01`: `2112 Dec | 2113 Jan`), pharmacy CCTV (`2113.01.4565-015`), Itō dossier (`03 DEC 2084` → `AGE 28`), Akane HUD (`d_f14`: `2092-04-01` → `20歳`), and Kōgami HUD (`d_f15`: `2084-08-16` → `28歳`). Confirms Tōma's **`AGE : 29`** (`d_f02`, `25 DEC 2084`) is an isolated `+1` slip, strikes phantom dates on `d_f06`/`d_f09`, fixes `COLD CASE` folders (`06/2108–03/2109`), and keeps the unresolved E03/E04 (`2109-01-13` Sasayama death) vs. E06 (`2109-04-14`) contradiction honestly **`OPEN`** (`PP-S01NE-CLM-0083`).
+- **`PP-CHR-0016` (Asymmetric Cover-Up, Paternity Confirmation & Kasei `"聖護君"` Disclosure Map — E07):** Tracks `PP-S01NE-DISC-0056`–`0065`: Division 1 unifies Makishima's clear face (`PHOTOMONTAGE-00014`), `柴田幸盛` alias, and 4-case web (`d_f08`) and solves Itō's ~30m Hue-cloning helmet — **yet Ginoza conceals `免罪体質者`, Division 2's erasure of Tōma, and the Chief's gag order from his entire squad (`00:27:53`)**; **Masaoka = Ginoza's father** is confirmed between Ginoza, Masaoka, and Audience (`d02`) outside Akane's hearing; and **Audience alone** witnesses Kasei's cybernetic twitch/`「後がないよ、聖護君」` (`d03`/`d_f09`) and Makishima's trunk packed with dozens of helmets (`PP-S01NE-CLM-0074`, `0076`, `0081`).
+
+### Reconciled Franchise Propositions (`PP-FCLM-0021` – `PP-FCLM-0024`) & Accepted Deltas (`PP-DELTA-0034` – `0039`)
+
+| Delta / Claim ID | Disposition & Boundary | Reconciled Proposition, Local Lineage & Counterevidence / Open Trigger |
+| --- | --- | --- |
+| `PP-DELTA-0034` → `PP-FCLM-0001` (`STRENGTHEN` → Cracked `H2c` Tilting Toward `H2a`) & `PP-FCLM-0021` (NEW) | `ACCEPTED` (`PP-S01NE-E07`) | **Official Credibility-Over-Perfection Doctrine & `免罪体質者` Suppression:** Confirms `Q2` **`H2a`** — Bureau Chief invokes Benthamite utilitarianism (`最大多数の最大幸福`) to prioritize perceived infallibility (`完璧だと信頼され続けること`), reveals Division 2's secret gag-ordered arrest/erasure of **`免罪体質者`** **Kōzaburō Tōma**, and coerces Ginoza into report falsification & squad deception (`00:27:53`) — while preserving concrete counterweights (ban on human summary execution, Dominator HQ logging `d04`, Ginoza's sincere defense of stabilization, Akane's empathy, & Division 1's lawful non-lethal warehouse arrest) (`PP-S01NE-CLM-0074`, `0078`). |
+| `PP-DELTA-0035` → `PP-FCLM-0003` (`REVISE` — **`STRONG_INF` PROMOTED TO CANON FACT!**) & `PP-FCLM-0022` (NEW) | `ACCEPTED` (`PP-S01NE-E07`) | **Confirmed `Masaoka = Ginoza's Father` Paternity & Dual-Generation Sibyl Wounds:** Upgrades `Masaoka = Ginoza's father` from `STRONG_INF` to **lossless-certified Tier-1 spoken canon fact (`d02`, `00:21:18–22:25`)**, anchoring `SC-01`'s flesh-left-handed revolver flashback (`f01`), Ginoza's rising `86.3 (+7)` counseling strain (`d_f01`), and Akane's resilient post-Memory-Scoop recovery (`79 /pt → 34.7`, `"もういっぱしのデカだ"`) (`PP-S01NE-CLM-0076`, `0079`). |
+| `PP-DELTA-0036` → `PP-FCLM-0005` (`STRENGTHEN`) & `PP-FCLM-0023` (NEW) | `ACCEPTED` (`PP-S01NE-E07`) | **Cymatic-Scan-Cloning Helmets, Bystander Paralysis & Normative Inversion of Russell / Iwakami:** Makishima & Choi escalate from lone protégés to ~30m Hue-cloning helmets (Itō's `LIGHTPINK 23.9` pharmacy massacre & daylight bludgeoning of Hiroko Fujii before paralyzed phone-filming crowds & chirpy Komissa-chan; copycat `G-Tac SECURITY` armored-van heist), twisting **Bertrand Russell's *Conquest of Happiness*** into accelerationism while **Yasumi Iwakami's *The Revolution Betrayed in Advance* (`d_f12`)** ironically exposes Makishima's brutal garage murder beside a trunk packed with dozens of helmets (`PP-S01NE-CLM-0075`, `0077`). |
+| `PP-DELTA-0037` → `PP-FCLM-0024` (NEW — Strictly Quarantined `OPEN`) | `ACCEPTED` (`PP-S01NE-E07`) | **Bureau Chief's Unexplained Cybernetic Telemetry Reset & Intimate `"聖護君"` Register Rupture:** Documents the Chief's `SC-08` physical twitch, mechanical switch-click (`d03`), brain-scan HUD (`d_f09` `BN-00475//SE1`, repurposed After Effects studio logs), and abrupt drop from archaic bureaucratic prose to sly intimate **`「とうとう面が割れちゃったね。後がないよ、聖護君。」`** — holding all explanations strictly **`OPEN`** within E01–E07 bounds with zero E08+ Sibyl lore (`PP-S01NE-CLM-0081`). |
+| `PP-DELTA-0038` → `PP-FCLM-0007` (`STRENGTHEN`) & `PP-FCLM-0019` (`STRENGTHEN`) | `ACCEPTED` (`PP-S01NE-E07`) | **Native 1080p Documentary Rigor, After Effects HUD Catch & Lossless Overlap Honesty:** Locks **`282.6 / 120`** (`d_f15`, `00475-AEDF-52510-2`, `SHINYA KOGAMI`, `28歳`), `32.5 / 60` (`d_f14`), `d_f08` Case-Link Board (`大久保葦歌` under `104`, `金原祐治` on Hachiōji, Midō caption, `CR-0471-9`), `d_f18` **`赤と黒（下巻）`**, `d_f09` After Effects render-log identification, isolated Tōma `AGE : 29` `+1` slip (`d_f02`), and honest acoustic bracketing on masked `d04` Dominator HQ-warning tail (`PP-S01NE-CLM-0073`, `0080`, `0083`). |
+| `PP-DELTA-0039` → `PP-FCLM-0010` (`REVISE` — E07 Tier-1 Promotions) & `PP-FCLM-0013` (`STRENGTHEN` — Gate Ready for `E08` Close) | `ACCEPTED` (`PP-S01NE-E07`) | **Tier-1 `免罪体質者` Promotion, `チェ・グソン` Restoration & Tranche 2 Gate Discipline:** Promotes **`免罪体質者`**, **`藤間幸三郎`**, **`柴田幸盛`**, **`伊藤純銘`**, **`藤井博子`**, **`メモリースクープ`**, and **`ラッセルの『幸福論』`** to Tier-1 spoken; restores **`チェ・グソン`** to E04 Tier-1; keeps **`禾生壌宗`**, **`智己`**, **`光留`**, **`滝崎`**, **`霜月美佳`**, and **`赤と黒（下巻）`** strictly quarantined; and holds formal monograph qualification cleanly at **`DEFERRED_EVIDENCE`** for **Tranche 2 close adjudication at `E08` next** (`PP-S01NE-CLM-0082`, `0084`). |

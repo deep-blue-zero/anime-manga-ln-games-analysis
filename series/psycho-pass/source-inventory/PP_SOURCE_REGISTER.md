@@ -3,18 +3,18 @@ title: "Psycho-Pass — Source register and admission boundary"
 artifact_id: PP_SOURCE_REGISTER
 artifact_type: source_register
 series: psycho-pass
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 authority_generation: PP-INITIAL
-source_boundary: "PP-S01NE-E01–E06 admitted and verified; E07–E11 metadata-only candidates"
+source_boundary: "PP-S01NE-E01–E07 admitted and verified; E08–E11 metadata-only candidates"
 canonical_home: series/psycho-pass/source-inventory/PP_SOURCE_REGISTER.md
 created: 2026-11-18
 last_updated: 2026-11-24
-source_admission: "PP-S01NE-E01–E11 Season 1 New Edit authorized; admitted through PP-S01NE-E06"
+source_admission: "PP-S01NE-E01–E11 Season 1 New Edit authorized; admitted through PP-S01NE-E07"
 ---
 
 # Source register and admission boundary
@@ -110,9 +110,9 @@ Before the first run, recover owner authorization, verify the selected edition/w
 
 The integrator owns attributed additions and corrections. Preserve original hashes and labels, record changed bytes as new witnesses, distinguish unavailable from not searched, and never infer later corpus completeness from this bounded directory. Metadata evidence can refine candidate identity without changing narrative coverage. Subsequent edition/content verification records exactly what was inspected and by whom, with any remaining uncertainty.
 
-Current summary: 11 available numbered media candidates (6 admitted: `PP-S01NE-E01`–`E06`; 5 metadata-only pending sequential frontier: `E07–E11`); 1 excluded menu; 12 external text candidates; 11 structurally validated episode bundles (6 content-authenticated: `E01–E06`); 6 accepted canonical deep readings (`PP-S01NE-E01`–`E06`).
+Current summary: 11 available numbered media candidates (7 admitted: `PP-S01NE-E01`–`E07`; 4 metadata-only pending sequential frontier: `E08–E11`); 1 excluded menu; 12 external text candidates; 11 structurally validated episode bundles (7 content-authenticated: `E01–E07`); 7 accepted canonical deep readings (`PP-S01NE-E01`–`E07`).
 
-### 2026-11-23 / 2026-11-24 Attributed Inventory & Admission Updates (`PP-S01NE-E01` – `E06`)
+### 2026-11-23 / 2026-11-24 Attributed Inventory & Admission Updates (`PP-S01NE-E01` – `E07`)
 
 | Admitted Unit | Primary AV Witness | Canonical Lossless Audio | Primary Japanese Text & Calibration | Bundle & Runtime Verification |
 | --- | --- | --- | --- | --- |
@@ -122,5 +122,6 @@ Current summary: 11 available numbered media candidates (6 admitted: `PP-S01NE-E
 | `PP-S01NE-E04` | `PP-S01NE-E04-AV01` (`ee38a468...`, `2752.048s`, `audio_start=0.067s`, content-authenticated Season 1 New Edit Episode 04, 100% watched) | `PP-S01NE-E04-AUD-FLAC01` (`219,871,293` B, `69e7d614ab629e5d1a6185346e0cdfaf9681654b2134be6facdfc1b5359493e1`, decoded 16-bit PCM `03e3c944...` bit-exact with MKV FLAC) | `PP-S01NE-E04-TXT-ALIGNED01` (`62,323` B, `bd639ec4...`, `601` cues `00:00:02.83–00:44:17.60`; no archival external subtitle in inventory): `556` archived BD07/08 cues + `45` `ASR_UNVERIFIED` cues; 8 `AM` anchors `0.11s–0.60s`; **100% of all `45` `ASR_UNVERIFIED` cues directly audited on lossless 48 kHz WAVs (`AO`)**, catching `9` text defects + `1` non-lexical chuckle = `10` verified `AO` corrections. | `PP-S01NE-E04-BUNDLE-V1`: validated (`1,257` kept clean 1080p frames, `63` contact sheets, `545` shots, `16` scenes). Runtime: budget-safe `≤ 28 MiB` derivative pipeline — 18 overlapping 720p MP4 segments (`≤ 24.52 MiB`) + 21 lossless MKV clips (`≤ 27.69 MiB`) + 5 lossless WAVs (`≤ 23.44 MiB`) + 39 native 1080p `FRM` stills (`1.0 fps` sampling disclosed). |
 | `PP-S01NE-E05` | `PP-S01NE-E05-AV01` (`9403b95c...`, `2752.597s`, `audio_start=0.000s`, content-authenticated Season 1 New Edit Episode 05, 100% watched) | `PP-S01NE-E05-AUD-FLAC01` (`219,896,425` B, `5741a47228cb5bfccef6b4af1da8da3f6e856ba9593de0f53a7f7299e15a9a1b`, decoded 16-bit PCM `dc3f9f6f...` bit-exact with MKV FLAC) | `PP-S01NE-E05-TXT-ALIGNED01` (`69,531` B, `b797504c...`, `686` cues `0:00:03.35–0:44:47.74`, `0` normalized text diffs vs archival `TXT-TV01` [`8f79859c...`], `0` `ASR_UNVERIFIED`): 4 `AM` anchors `> ±0.5s` cleared as early TV-CC cue placement; **7 TV-CC speaker/`[無線]` errors corrected on lossless `AO`/`AV`** (incl. Cue 436 `カーナビ音声` mislabeled as `（ドミネーター）`). | `PP-S01NE-E05-BUNDLE-V1`: validated (`1,259` kept clean 1080p frames, `63` contact sheets, `492` shots, `11` scenes). Runtime: budget-safe `≤ 28 MiB` derivative pipeline — 17 overlapping 720p MP4 segments (`≤ 26.53 MiB`) + 30 lossless MKV / 1080p HQ + WAV clips (`≤ 27.30 MiB`) + 4 Stage 2 lossless WAVs + 38 native 1080p `FRM` stills (`1.0 fps` sampling disclosed). |
 | `PP-S01NE-E06` | `PP-S01NE-E06-AV01` (`a1544c22...`, `2739.409s`, **`audio_start=+0.056s`**, content-authenticated Season 1 New Edit Episode 06, 100% watched) | `PP-S01NE-E06-AUD-FLAC01` (`226,857,243` B, `63c3390b4044c22597f59fd3b0533164d0d09a89e761b2fad3abb251946cf53b`, decoded 16-bit PCM `efb2737e...` [`525,955,712` B] bit-exact with MKV FLAC) | `PP-S01NE-E06-TXT-ALIGNED01` (`64,037` B, `a9ea9bf2...`, `659` cues `0:00:06.64–0:44:37.79`, `0` normalized text diffs vs archival `TXT-TV01` [`92bdaa74...`], `0` `ASR_UNVERIFIED`): `+0.056s` offset verified clean; `00:23:26.42 (-1.27s)` cleared as orchestral RMS false positive; **29-line untagged Ginoza→Kōgami speaker handoff (`00:34:30`) & unsubtitled Shion `"ふーん…"` (`00:33:50`, `d03`) certified on `AV`/`AO`**. | `PP-S01NE-E06-BUNDLE-V1`: validated (`1,288` kept clean 1080p frames, `65` contact sheets, `409` shots, `17` scenes). Runtime: budget-safe `≤ 28 MiB` derivative pipeline — 16 overlapping 720p MP4 segments (`≤ 23.89 MiB`) + 34 lossless MKV / 1080p HQ + WAV clips (`≤ 27.61 MiB`) + 3 Stage 2 lossless WAVs (`d01`–`d03`) + 38 native 1080p `FRM` stills (incl. horizontally un-mirrored `d_f12`, `1.0 fps` sampling disclosed). |
+| `PP-S01NE-E07` | `PP-S01NE-E07-AV01` (`e035170d...`, `2753.194s`, `audio_start=0.000s`, content-authenticated Season 1 New Edit Episode 07, 100% watched) | `PP-S01NE-E07-AUD-FLAC01` (`217,017,805` B, `a1bfc8816eb21b58fa7604d8c80af0c97379f6869e19658cc612e4b9a9259c24`, decoded 16-bit PCM `6656f908...` [`528,613,376` B] bit-exact with MKV FLAC) | `PP-S01NE-E07-TXT-ALIGNED01` (`69,643` B, `e8a29db5...`, `680` cues `0:00:03.14–0:44:31.67`, `0` normalized text diffs vs archival `TXT-TV01` [`ee3e5bfb...`], `0` `ASR_UNVERIFIED`): all `AM` anchors cleared (lossless `d01` `+0.79s`); audited `00:09:21` typo (`適性に→適正に`), untagged Kagari/Akane turns, `d02` paternity canon, `d03` Kasei click+register drop, & masked `d04` Dominator warning tail. | `PP-S01NE-E07-BUNDLE-V1`: validated (`1,236` kept clean 1080p frames, `62` contact sheets, `494` shots, `9` scenes). Runtime: budget-safe `≤ 28 MiB` derivative pipeline — 14 overlapping 720p MP4 segments (`≤ 21.25 MiB`) + 39 lossless MKV / 1080p HQ + WAV clips (`≤ 26.27 MiB`) + 4 Stage 2 lossless WAVs (`d01`–`d04`) + 38 native 1080p `FRM` stills (`1.0 fps` sampling disclosed). |
 
-- **Unadmitted Corpus Metadata Watchpoints (`E07–E11`, no narrative inspection):** All remaining episode bundles pass structural validation (`0` errors) and standalone FLACs match bundle copies bit-exact; preserve non-zero MKV audio stream start offsets for `E08` (`0.111s`) and `E10` (`0.070s`), E10 Block 1 anchor sparsity note, and E11's untagged audio language field for verification when each unit reaches its authorized frontier.
+- **Unadmitted Corpus Metadata Watchpoints (`E08–E11`, no narrative inspection):** All remaining episode bundles pass structural validation (`0` errors) and standalone FLACs match bundle copies bit-exact; preserve non-zero MKV audio stream start offsets for `E08` (`0.111s`) and `E10` (`0.070s`), E10 Block 1 anchor sparsity note, and E11's untagged audio language field for verification when each unit reaches its authorized frontier.
