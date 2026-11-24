@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 237; `STALE` 3; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 238; `STALE` 2; `SUPERSEDED` 37
 
 ## Namespaces
 
@@ -39,7 +39,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`kimishinu`](reconstruction_index/kimishinu.md) | 3 | 3 |
 | [`konosuba`](reconstruction_index/konosuba.md) | 19 | 19 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
-| [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 2 | 2 |
+| [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 2 | 3 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`medalist`](reconstruction_index/medalist.md) | 2 | 2 |
 | [`monogatari-series`](reconstruction_index/monogatari-series.md) | 2 | 2 |
@@ -145,7 +145,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `konosuba:vanir@original-light-novel` | [`konosuba-vanir-ln-mask-main17-monograph-20261027-01`](reconstruction_index/konosuba.md#konosuba-vanir-ln-mask-main17-monograph-20261027-01) | `CANDIDATE` | `D` | `e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da` |
 | `konosuba:yorimichi04-retired-dark-stalker@original-light-novel` | [`konosuba-yorimichi04-retired-dark-stalker-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-yorimichi04-retired-dark-stalker-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `legend-of-the-galactic-heroes:yang-wen-li@original-novels` | [`legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01`](reconstruction_index/legend-of-the-galactic-heroes.md#legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01) | `CANDIDATE` | `C` | `589435c3ebada7c66aac6b44ed014876d9050423` |
-| `lycoris-recoil:inoue-takina@television-anime` | [`lycoris-recoil-inoue-takina-tv-v2-ledgers-20261121-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-inoue-takina-tv-v2-ledgers-20261121-01) | `STALE` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
+| `lycoris-recoil:inoue-takina@television-anime` | [`lycoris-recoil-inoue-takina-tv-v2-monograph-ledgers-20261124-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-inoue-takina-tv-v2-monograph-ledgers-20261124-01) | `CANDIDATE` | `B` | `d62c10a8f7dc216a0cb1ad1576e5cced9af81074` |
+| `lycoris-recoil:inoue-takina@television-anime` | [`lycoris-recoil-inoue-takina-tv-v2-ledgers-20261121-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-inoue-takina-tv-v2-ledgers-20261121-01) | `SUPERSEDED` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `lycoris-recoil:nishikigi-chisato@television-anime` | [`lycoris-recoil-nishikigi-chisato-tv-v2-ledgers-20261121-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-nishikigi-chisato-tv-v2-ledgers-20261121-01) | `STALE` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `mass-effect:commander-shepard@paragon-player-archetype` | [`mass-effect-paragon-shepard-archetype-20261023-01`](reconstruction_index/mass-effect.md#mass-effect-paragon-shepard-archetype-20261023-01) | `CANDIDATE` | `D` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
 | `mass-effect:commander-shepard@renegade-player-archetype` | [`mass-effect-renegade-shepard-archetype-20261109-01`](reconstruction_index/mass-effect.md#mass-effect-renegade-shepard-archetype-20261109-01) | `CANDIDATE` | `D` | `5aa25a60a918015bb973776732340cf205f9d39e` |
