@@ -223,3 +223,142 @@ The first Takina file reviewed was `4f20e69d6353b8a73b945f9a0f9f5970b6e257ac6add
 | Takina | **PASS** on the independently inspected author successor `8f8584d58d2d0f651a09ea1cbe3899737eb421869b644ee2f0b3a2355e7b25cc` and the two clarified source attributions in the exact transferred file. `/root/critical` reopened representative anime action, actual interlocutors and Japanese print attributions, including the E02 deception, E06 advice, E07 human and technical roles, E13 reception and the distinction between Itō’s immediate action and the partners’ omissions. The fidelity receipt is `24339a8f2f24f90d51db62307704e8ffbc413de9032f0b179bb31d5ade678a34`. The two later clarifications are supported by the Japanese source at *Recovery days* S18.6 and *Gluttony days* 10.727–743. The accepted transfer SHA-256 `5cd5248cc55ea78e09752433ce00ddffa1166384d4e8096fc557716a5be78cf4` adds those exact references to the text independently read back above. The two reference-list additions account for the difference. Keep Clarisse’s spoken explanation and Takina’s inference separate. |
 
 The individual assessments and exact retrieval artifacts address the specialist-synthesis readiness requirement. The current assessment qualifies 19 other subjects for still-outstanding portraits and records 10 evidence-deferred subjects, with their reasons and review triggers. The character layer and the final synthesis gate remain open.
+
+## Proportionality expansion and source audit
+
+23 November 2026. A proportionality review of [PR #712](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/712) found the analysis precise but short relative to its substrate in three places: the three Asaura novels, both *Recollect* volumes and the two lead monographs. The repository owner then authorized three things:
+- a targeted expansion reread of those five units;
+- an audit of every admitted source family against its current analyses;
+- expansion of the Chisato, Takina and relationship syntheses.
+
+The integrator `claude/integrator` assigned every role against base `016904e42d49db1f5d5877c5daf89bd0c9f0aeff`. All participants were separately initialized Claude Code subagent contexts.
+
+The run's packets and working reports remain outside Git in the extraction workspace:
+- the source packets, with hashes and paragraph totals matching this register's earlier records;
+- the specialist, critic and auditor reports;
+- the change records.
+
+This section records the transactions and their dispositions. No unit earns prospective credit, and CP5 and the 19 frozen A1 readings are unchanged.
+
+### Source-native expansion rereads
+
+Each unit had four roles:
+- a principal who inspected the whole unit;
+- an independent source-first specialist;
+- an independent critic, who formed its observations of the decisive passages before reading the candidate;
+- the principal's reconciliation, recorded in the reading's own `Expansion reread · 2026-11-23` section with a disposition table and a [§15.6](../../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md#156-editorial-verification-before-semantic-acceptance-authority-promotion-or-integration) name-and-reference record.
+
+The [supplementary reading receipt](../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md#expansion-rereads--2026-11-23) gives each participant's coverage. The earlier transaction stays recorded in each reading's first adjudication.
+
+| Work and accepted SHA-256 | Participants | Outcome |
+|---|---|---|
+| [Ordinary days](../02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_ORDINARY_DAYS_DEEP_READING.md) · `ed382747507649d5c623903d16e0e69262db5eed90592ea9fad1513fca5e7b15` | `claude/od-principal`, `claude/od-specialist`, `claude/od-critic` | 4,070 → 11,906 words. Corrections C1–C9 to earlier text. OD-07–OD-20 added. Dream ownership OPEN, with dream content framed as focalized through Takina. OD-11 is restated as dream-framed SOURCE_SPECIFIC, with CP5 unchanged. Timeline links are graded stated, near-explicit or inferred. |
+| [Recovery days](../02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_RECOVERY_DAYS_DEEP_READING.md) · `10b6cb1cde6b360c135d82700135ecbd9931642ac9b968c24d21c45fc35d2d26` | `claude/rd-principal`, `claude/rd-specialist`, `claude/rd-critic` | 3,809 → 12,778 words. Eleven corrections to earlier text. RD-07–RD-17 added. The *Safety work*–*Dog* rifle chain is recorded as the reader's identification. No passage is focalized through Chisato. |
+| [Gluttony days](../02%20Sequential%20Readings/Prose/LYCORIS_RECOIL_GLUTTONY_DAYS_DEEP_READING.md) · `1f654a9d13b255b7783a7550083d694b232581cf87dbff57a562c6303dc073d5` | `claude/gd-principal`, `claude/gd-specialist`, `claude/gd-critic` | 3,953 → 13,925 words. Ten corrections to earlier text. GD-06–GD-14 added. Clarisse's confession precedes the staged threat, and her assent to the staging stays OPEN. |
+| [Recollect V01](../02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V01_DEEP_READING.md) · `63a0691ca048764b49051d92839767aaad4fcdaf4775365ec1605849954dc12d` | `claude/r1-principal`, `claude/r1-specialist`, `claude/r1-critic` | 1,813 → 7,351 words. Chapter-table rows 2, 3, 4, 7 and 8 corrected. Chapter subsections and R1-06–R1-11 added. Dating against TV cuts removed. |
+| [Recollect V02](../02%20Sequential%20Readings/Manga/LYCORIS_RECOIL_RECOLLECT_V02_DEEP_READING.md) · `fc5149319ab328a0f6f14559916972ed7e22f6c35b2e11302080c8be724b7f3d` | `claude/r2-principal`, `claude/r2-specialist`, `claude/r2-critic` | 1,933 → 7,994 words. Ten in-place corrections and five errata to the unchanged earlier adjudication. R2-07–R2-14 added. The heart is lettered at S116–117. The bonus is placed B1-locally only. |
+
+**Execution facts.** Read-only Git use is permitted to participants; Git writes are reserved to the integrator.
+- The harness's permission check blocked read-only status or config reads by the *Gluttony days* principal, the *Recollect* V02 principal and the *Reload* auditor, so they did not run.
+- The Takina monograph author ran one read-only `git status`.
+- No participant made a Git write.
+
+### Anthology and production-reference audit revisions
+
+Four independent auditors inspected every credited comic in all seven official anthologies, comic by comic, against its row in the reading and the crosswalk. They classified each comic as ADEQUATE, GAP, ERROR or OVERREACH.
+
+All judged the row length proportionate to C1. They found two kinds of problem:
+- attribution reversals that had survived the earlier passes;
+- omitted self-reports that answer motive questions the rows left OPEN.
+
+Each auditor drafted targeted row revisions. A separate critic first inspected the cited pages, then accepted, qualified or rejected each change. The auditor applied the critic's wording. Each revised reading ends with an `Audit revision · 2026-11-23` section, and the auditors' change records, with old and new wording and page evidence, are kept with the run's working reports.
+
+| Revised reading and SHA-256 | Auditor and critic | Disposition |
+|---|---|---|
+| [Reload](../02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD_CONTRIBUTOR_READINGS.md) · `de0c267c06b0290fd9b67c3d54df9d79989459ae88a10b3aaf9fd7025b07baa9` | `claude/anthology-auditor-a`, `claude/c1-critic-a` | 15 changes: 7 accepted, 8 qualified. 竹本蒼太郎 is a substantive attribution correction: the narration is focalized on Mika and is not his own lettered voice. |
+| [Reload 02](../02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD02_CONTRIBUTOR_READINGS.md) · `2b9340fed2386022a2ad53eced0b3d4c74bc2e6ef2020ccace16e662ffc5cba8` | `claude/anthology-auditor-a`, `claude/c1-critic-a` | 9 changes: 5 accepted, 4 qualified. すのはら風香 is a substantive ruling correction: SPECIFY for the terms of Kurumi's shelter, with her unseen work OPEN. |
+| [Reload 03](../02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_RELOAD03_CONTRIBUTOR_READINGS.md) · `8f06b344118b11a7bb167360b525f2473238a4ede94eca561bd1d92607ae4123` | `claude/anthology-auditor-b`, `claude/c1-critic-b` | 16 changes: 11 accepted, 5 qualified, plus two page-checked precisions. 安房さとる S59: the 居場所 line is Chisato inviting Takina. |
+| [React](../02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REACT_CONTRIBUTOR_READINGS.md) · `2695d8d484a510c8581e3d5c2621a8488f052c5e42004e17a426c6b899465e90` | `claude/anthology-auditor-b`, `claude/c1-critic-b` | 12 changes: 8 accepted, 4 qualified, plus two precisions. The figures at S100 are identified at the confidence their designs and speech support. |
+| [Repeat](../02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT_CONTRIBUTOR_READINGS.md) · `287647f428efae868ead5ceeefbf55fecb889609c7dee3cc3c3400cc823c0e3f` | `claude/anthology-auditor-c`, `claude/c1-critic-c` | 12 changes: 6 accepted, 6 qualified. 若鶏にこみ S105 and 涼海来夏 S45 are corrected. |
+| [Repeat 02](../02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT02_CONTRIBUTOR_READINGS.md) · `6795da54e4f8ed6ea441a8b888b0664a823ef0689c6b31498f58ebaac935ed24` | `claude/anthology-auditor-c`, `claude/c1-critic-c` | 16 changes: 13 accepted, 3 qualified. One undeclared change at S34 was rejected and replaced. |
+| [Repeat 03](../02%20Sequential%20Readings/Manga/Anthologies/LYCORIS_RECOIL_REPEAT03_CONTRIBUTOR_READINGS.md) · `3e3cfbc8eb01c4aacfc831b27ecf5e2cb98be6fb133ef95f4bdcbd42e0864dad` | `claude/anthology-auditor-d`, `claude/c1-critic-d` | 10 changes: 7 accepted, 3 qualified. S128 corrected: it is Takina's parfait and Mizuki refuses it. The contributor credit くぅ is restored by name-only editorial repair under §15.5, including in one adjudication row. |
+| [Heroine Archive reference reading](../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_HEROINE_ARCHIVE_REFERENCE_READING.md) · `704ed52667acf647e6b915df4464dbecfe86bd92e7f29cb5209b33fcac49343a` | `claude/anthology-auditor-d`, `claude/c1-critic-d` | S106 retake description corrected. A 40-row attributed testimony index added (28 accepted, 16 qualified, including text changes). The S70/S96 island inconsistency is recorded. Testimony supplies no fictional event or A1 fact. |
+
+### TV and shorts dialogue audit
+
+Two independent auditors read the complete Japanese dialogue of all nineteen anime units against the frozen readings, the ledgers and the syntheses, and judged every reading proportionate. A separate verifier formed its own view of thirteen findings before reading them. The integrator directly checked five decisive items against the cues and frames.
+
+The [audit recheck](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/AUDIT_RECHECK_20261123.md) (`0d472757a355a1657455dfb100caeb9a16de430a944f7985e452a7dd1884727d`) records the corrected speakers and addressees and the owner-raised E12 bag-and-charm ruling. E01 C0237 and E12 C0115 stay OPEN.
+
+The corrections are routed by current-use notes in the character, relationship and revision ledgers and the locator index. The frozen readings, the 143 historical transitions and the prediction counts are unchanged.
+
+### Bounded name and reference verification
+
+Under §15.6, each reread's principal recorded a sampled check and its classified findings in the reading. Each C1 critic checked the changed rows and recorded the findings in its report. Those findings were repaired before integration. They include INCORRECT_IDENTITY_OR_ATTRIBUTION at *Recollect* V01 S57 and S89, *Recollect* V02 S60, *Repeat* S45 and S99, *Repeat 02* S107 and S137, and *Reload* RL-15.
+
+The integrator checked each published file's diff against the earlier accepted text and confirmed that the changes fall only in declared rows or sections. It read back:
+- the expansion sections of *Ordinary days* and *Recollect* V02 in full;
+- the participation records of the other three rereads;
+- every anthology and *Heroine Archive* revision section;
+- the audit recheck and its routed ledger notes.
+
+### Cross-source comparisons and evidence matrix
+
+A single reviser, `claude/crosswalk-reviser`, applied every verified correction to the [crosswalk](../06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) and the [evidence matrix](../07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md) as targeted replacements. The corrections came from four sources:
+- the reread principals' proposals;
+- the critic-accepted or critic-qualified C1 corrections;
+- the audit recheck;
+- the restored credit くぅ.
+
+Before replacing, the reviser confirmed that each current string occurred exactly once. It recorded every change, and every declined or adapted proposal, in a change record kept with the run's working reports.
+
+**Corrections removed:**
+- Doi as a high spender;
+- Clarisse's confession placed after the staged threat;
+- a newly arrived customer at *Reload 03* S100;
+- a sighting by Mika in *Recollect* V02;
+- the reversed watermelon joke;
+- the "cuts the process short" drying;
+- the use of E10 C0440–0441 as Chisato entrusting Enkūboku.
+
+**Additions:**
+- a retrieval table, `Expansion rulings · 2026-11-23`, covering the new A2 and B1 rulings;
+- four critic-qualified cross-contributor C1 comparisons, framed as comparisons only.
+
+The integrator adopted the four comparisons, which the reviser had left for its decision, and spot-checked the removed errors.
+
+Final SHA-256: crosswalk `95d936176d3ac4304bed5e65f40fb10817621ad45e921f730c8f9fc860bbc5bb`, matrix `21a840776547c5f34db4f617f8ca65843091d5a24faf82c0d8c7c94434f65ee7`.
+
+### Monograph revision and re-acceptance
+
+Three authors revised the two individual monographs and the relationship synthesis in place. Each author owned one file, worked from a shared brief, and kept a change log of corrected citations, adopted and declined proposals, and a fourteen-responsibility self-check.
+
+They drew on:
+- the five accepted rereads;
+- the A1 audit recheck;
+- the critic-accepted C1 and *Heroine Archive* material;
+- the principals' synthesis proposals.
+
+Every synthesis line that the audits classed as wrong or imprecise was corrected.
+
+Each work then went to a separate reviewer who had not seen its drafts. The reviewer answered [§5.5.1](../../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#551-self-contained-character-monograph-standard)'s question families from the document alone before opening any other material. It then checked load-bearing claims against the cues, frames, packets and pages, and classified the findings under §15.6. After the author's revision, the same reviewer read back every required item. The review records are kept with the run's working reports.
+
+| Work and final SHA-256 | Author and reviewer | Round 0 | Readback | Final record |
+|---|---|---|---|---|
+| [Chisato](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_CHARACTER_SYNTHESIS.md) · `b803e7bc4e02c30733d2a42a53be3c3b5b5df0919b4ab796a6cc2035c074d935` | `claude/chisato-monograph-author`, `claude/chisato-monograph-reviewer` | Self-containment **PASS**. Fidelity **FAIL**: 56 claims checked, 42 accurate, 13 imprecise, 1 wrong. The wrong item was the E13 C0184 jab, which is Chisato's to Majima. | Both **PASS**. One imprecise repair, RB-1, was required at the TV Q13 sentence. | 8,489 → 19,056 words. The integrator applied RB-1 in the reviewer's exact wording to the read-back file `3b8c2f23066eed8a7a288a13106652253c98bdae0cf5947c426b24b4f4fd68de`. That is the only difference between the two files. |
+| [Takina](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_TAKINA_CHARACTER_SYNTHESIS.md) · `148905fb95140c2311f2c44da7720b1d134bcbd87ad41b7cc5af0108bf8bdbbc` | `claude/takina-monograph-author`, `claude/takina-monograph-reviewer` | Self-containment **PASS**. Fidelity **FAIL**: 74 claims checked, 58 accurate, 14 imprecise, 2 wrong. The wrong items were her stated age (E01 C0159–0160) and the recipient of her smile in *Ordinary days* 10.343–344. | Both **PASS**. The reviewer accepted the author's source-based correction of its own E09 wording (C0087–0088 and C0111–0112) and the A1 Kyoto transfer (E01 C0157). | 6,829 → 17,950 words. The integrator repaired one garbled sentence about *Heroine Archive* locators, an optional readback item, on the read-back file `18bc3e2b8a61e62f504d3b2bba858efd20d5feaa2cd5cc1f804c49f77aee6ae3`. |
+| [Chisato–Takina relationship](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_TAKINA_RELATIONSHIP_SYNTHESIS.md) · `185e65c7e1ada156545b7bfca28375728c7d8df2c7e9391255ad121b87b176d8` | `claude/relationship-synthesis-author`, `claude/relationship-synthesis-reviewer` | Self-containment **FAIL**: missing comparative rulings, undefined titles and codes. Fidelity **FAIL**: 52 claims checked, 40 accurate, 8 imprecise, 4 wrong. The wrong items were Chisato's residence, the first 相棒, the E03 "this" objection, and an E06 cue taken from a file-line number. | Both **PASS**. The reviewer spot-checked 10 further cues against the dialogue index, and all matched. | 7,370 → 14,221 words. |
+
+The integrator also ran a mechanical check across the three works. On the final files it tested 179 quoted-Japanese and cue pairs against the dialogue index, and found no misnumbered cue after manual review of seven parser false positives.
+
+Both individual monographs keep `COMPLETE_AT_BOUNDARY` in the [readiness record](LYCORIS_RECOIL_V2_CHARACTER_MONOGRAPH_READINESS.md), now on the revised portraits. The earlier acceptance above remains the record for the earlier text. None of these results establishes reconstruction readiness or a capability grade.
+
+### Remaining obligations
+
+The 19 qualified subjects in the readiness record still lack portraits. Several A2-local subjects now have fuller readings, including Kana, Doi, Tokuda, Itō, Mizukawa, Clarisse, Hikaru Akutsu and Madame.
+
+The operational reconstruction models and their independent validation remain open.
+
+Two A1 speaker attributions await a synchronized listener: E01 C0237 and E12 C0115.
+
+The character layer and the final synthesis gate remain open.

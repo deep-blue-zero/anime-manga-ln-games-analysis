@@ -35,6 +35,17 @@ The [23 November source recheck](../07%20Evidence%20and%20Indexes/TV%20Audiovisu
 | `REV-E12-011` | **PRESERVE** Kusunoki’s institutional agency through her covert request to Mika and later direct command. **REVISE** the sequence’s ownership. Itadori gives the withdrawal order and the field lead relays it. Earlier readings also overstate the direct evidence that Chisato addresses command in C0420. |
 | `REV-E13-006` and the V1 voice study’s “recorded message” | **PRESERVE** the offscreen lethal mechanics and the narrative connection to Yoshimatsu’s death and the transferred heart. **REVISE** the medium and knowledge scope of the farewell. Mika holds the written insert. The voice-over attributed to Yoshimatsu presents the text to viewers. Chisato’s birthday greeting and charm are depicted separately. |
 
+### Audit attributions in E05, E06, E10 and E11
+
+The [23 November audit recheck](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/AUDIT_RECHECK_20261123.md) supplies the evidence for the following current uses. Keep the transition IDs, historical wording and counts below.
+
+| Earlier transition | Retrospective qualification |
+|---|---|
+| `REV-E05-002` | **PRESERVE** the coercive reading of rescue as a claim over purpose. **REVISE** the speaker of the cited Japanese. Kurumi infers that a mission was given in exchange for a life and asks what Chisato’s mission is (C0169–0170). Mika answers only that Chisato decides (C0171). |
+| `REV-E06-002` | **PRESERVE** Takina’s partition of responsibility and her refusal to transfer authorship of her decision. **REVISE** the evidence. The high-activation outburst at C0318–0320 is Mizuki’s, and E06-AUD-003 measures her voice. Takina’s first response is 映像は それで全部ですか？ (C0322). |
+| `REV-E10-003`, `REV-E10-010` | **PRESERVE** Chisato’s preservation of Takina’s options and her naming of their meeting among life’s goods. **REVISE** the entrusting clause. Mika speaks C0440–0441 to Chisato. Neither transition can use those lines as Chisato entrusting Enkuboku to Takina and Fuki. |
+| `E11-AUD-014` as cited in `REV-E11-003` | **PRESERVE** Takina’s live-force willingness in the closing fight on its other locators. **REVISE** the line at C0430. It is Majima’s dismissal of Takina. |
+
 ## 1. Responsibility
 
 This ledger preserves the transition from prior-generation V1 interpretations to current V2 authority.
