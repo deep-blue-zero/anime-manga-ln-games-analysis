@@ -25,6 +25,27 @@ These attributable corrections govern current retrieval of the identified record
 | `REV-E13-006` | STRENGTHEN the formal account of the ellipsis. An exterior brightening over a very low soundtrack intervenes between the confrontation and the later account of Yoshimatsu’s death. Its precise cause stays open. |
 | `REV-E13-015` | REVISE. E12 strongly attributes the shot to Chisato in response to Takina’s peril. The edit does not establish a deliberately calibrated wound. REJECT the E13 ammunition gloss. Majima’s `黒いほう` is the person he also addresses at E10 C0221. E12 C0170 further interrupts any assumption of ammunition continuity. Retain the ethical distinction on the strength of Chisato’s decisions. |
 
+### Later attributions in E04, E12 and E13
+
+The [23 November source recheck](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/SOURCE_RECHECK_20261123.md) supplies the evidence for the following current uses. Keep the transition IDs, historical wording and counts below.
+
+| Earlier transition or V1 evidence | Retrospective qualification |
+|---|---|
+| `REV-E04-002` | **PRESERVE** the strength of reciprocal attention. **REVISE** the support furnished by the “cute” appraisal. Chisato’s pendant is strongly supported as its referent through the hand position and E13 callback. Sustained curiosity and shared play retain their independent locators. |
+| `REV-E12-011` | **PRESERVE** Kusunoki’s institutional agency through her covert request to Mika and later direct command. **REVISE** the sequence’s ownership. Itadori gives the withdrawal order and the field lead relays it. Earlier readings also overstate the direct evidence that Chisato addresses command in C0420. |
+| `REV-E13-006` and the V1 voice study’s “recorded message” | **PRESERVE** the offscreen lethal mechanics and the narrative connection to Yoshimatsu’s death and the transferred heart. **REVISE** the medium and knowledge scope of the farewell. Mika holds the written insert. The voice-over attributed to Yoshimatsu presents the text to viewers. Chisato’s birthday greeting and charm are depicted separately. |
+
+### Audit attributions in E05, E06, E10 and E11
+
+The [23 November audit recheck](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/AUDIT_RECHECK_20261123.md) supplies the evidence for the following current uses. Keep the transition IDs, historical wording and counts below.
+
+| Earlier transition | Retrospective qualification |
+|---|---|
+| `REV-E05-002` | **PRESERVE** the coercive reading of rescue as a claim over purpose. **REVISE** the speaker of the cited Japanese. Kurumi infers that a mission was given in exchange for a life and asks what Chisato’s mission is (C0169–0170). Mika answers only that Chisato decides (C0171). |
+| `REV-E06-002` | **PRESERVE** Takina’s distinction between authorship and repair. **REVISE** the speaker assignments. Mizuki names the dismissal in C0318–0320. Takina asks whether the footage is complete in C0322. Kurumi apologizes in C0450. Takina’s C0451 and C0453–0455 supply responsibility and continued cooperation. E06-AUD-003 measures the mixed cue. The [additional attribution recheck](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/SOURCE_RECHECK_E05_E06_E08.md) gives the measurement and evidence limits. |
+| `REV-E10-003`, `REV-E10-010` | **PRESERVE** Chisato’s preservation of Takina’s options and her naming of their meeting among life’s goods. **REVISE** the entrusting clause. Mika speaks C0440–0441 to Chisato. Neither transition can use those lines as Chisato entrusting Enkuboku to Takina and Fuki. |
+| `E11-AUD-014` as cited in `REV-E11-003` | **PRESERVE** Takina’s live-force willingness in the closing fight on its other locators. **REVISE** the line at C0430. It is Majima’s dismissal of Takina. |
+
 ## 1. Responsibility
 
 This ledger preserves the transition from prior-generation V1 interpretations to current V2 authority.
