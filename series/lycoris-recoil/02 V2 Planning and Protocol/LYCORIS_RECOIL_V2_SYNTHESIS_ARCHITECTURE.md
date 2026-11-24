@@ -761,6 +761,10 @@ Likely candidates include:
 - Kurumi;
 - Mizuki.
 
+The [V2 character monograph readiness record](../03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_CHARACTER_MONOGRAPH_READINESS.md) carries the title’s mutable qualification decisions and links to each completed portrait. Native unit readings, the state and relationship ledgers, and the accepted cross-source comparisons supply source-specific variation and counterexamples. Assess every character whose admitted evidence could sustain a differentiated portrait, including concentrated source-local cases. Revisit qualification after a material change in history, choices, relationships or speech evidence.
+
+Reader-facing portraits live in `05 Specialist Synthesis/` and use `LYCORIS_RECOIL_<SUBJECT>_CHARACTER_SYNTHESIS.md` or a comparably explicit source-local name. Before accepting a portrait, record self-containment and fidelity separately under [project-initiation policy §5.5.1](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#551-self-contained-character-monograph-standard). Record each pending obligation in the readiness and final release reviews.
+
 ## 12.2 Behavioral reconstruction artifacts
 
 Chisato and Takina require dedicated reconstruction artifacts distinct from their literary monographs.
