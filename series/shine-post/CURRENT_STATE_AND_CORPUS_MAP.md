@@ -5,7 +5,7 @@ artifact_type: current_state_and_corpus_map
 series: SHINE POST
 series_id: shine-post
 generation: V2
-version: "1.3"
+version: "1.4"
 last_updated: 2026-11-23
 status: canonical
 authority_scope: "Project routing and V2 framework state; preserves existing V1 analytical authority within its recorded scope"
@@ -63,7 +63,7 @@ cross_model_reconciliation:
   published_distinct_cases: 84
   ordinary_source_responses_evaluated: 84
   outside_first_publication: 61
-  human_adjudication: E04_D04_AND_E12_013_015_OWNER_FOLLOWUP_RECORDED
+  human_adjudication: E04_D04_AND_E12_013_015_034_OWNER_FOLLOWUP_RECORDED
   further_owner_listening_cards_delivered: 2
   case_ids_in_further_cards: 4
 ---
@@ -92,6 +92,12 @@ For this independent pass through E12 the owner expressly authorized bundle-and-
 | External source review and escalation | [Initial case manifest and handoff](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_GEMINI_SOURCE_REINSPECTION_HANDOFF.md) |
 | First adjudication checkpoint | [First source-adjudication register · 23 distinct cases](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md) |
 | Current source-return decisions and further owner listening | [Complete register · 84 distinct cases](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md) |
+| E04 and E12 owner listening decisions | [Owner listening follow-up](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_OWNER_LISTENING_FOLLOWUP_20261123.md) |
+| Musical and audiovisual dramaturgy | [What happens on the next phrase](V2%20Analysis/05%20Specialist%20Syntheses/SHINEPOST_V2_MUSICAL_AND_AUDIOVISUAL_DRAMATURGY_SYNTHESIS.md) |
+| Talent, authority and idol labor | [Who pays for a wrong call?](V2%20Analysis/05%20Specialist%20Syntheses/SHINEPOST_V2_TALENT_AUTHORITY_AND_IDOL_LABOR_SYNTHESIS.md) |
+| Audience recognition and fandom | [What the people in the seats can see](V2%20Analysis/05%20Specialist%20Syntheses/SHINEPOST_V2_AUDIENCE_RECOGNITION_AND_FANDOM_SYNTHESIS.md) |
+| Relationships across the TINGS split and reunion | [What the five can ask of one another](V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_TINGS_NETWORK_RELATIONSHIP_SYNTHESIS.md) |
+| Independent review of the four studies | [Specialist synthesis acceptance review](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_SPECIALIST_SYNTHESIS_ACCEPTANCE_REVIEW.md) |
 | What this bootstrap established | [Bootstrap manifest](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_BOOTSTRAP_MANIFEST.md) |
 | Existing analytical findings and historical provenance | [V1 corpus map](V1%20Analysis/00_README_AND_CORPUS_MAP.md) |
 
@@ -113,7 +119,7 @@ V1 remains at its original paths, with its original metadata and bytes. Its non-
 | Antigravity delivery | Registered as SPV2-IN-GEMINI-20261122-01 after the independent freeze. Twelve episodes compared. |
 | V2 source admission / sequential execution | OPEN; accepted E12; no next narrative unit |
 | New Gemini source inspection | At the initial 01:11 UTC handoff, none of the 84 cases had an evaluated episode return. All 84 ordinary comparative returns are now evaluated. The earlier 23-case publication includes the additional E12-026 pilot. Its ordinary return addresses the same ID. |
-| Human adjudication | E04-D04 records qualified owner hearing around 20:26, with a later solo assignment open. For E12 the owner supplied a source-aligned color guide for the first verse and heard full ensemble in the feather phrase. The exact E12 overdub layers remain open. The E10 listening card is optional. |
+| Human adjudication | The [owner listening follow-up](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_OWNER_LISTENING_FOLLOWUP_20261123.md) confirms Tokka’s E04 singalong, E12’s first-verse singers and five-person chorus, and identifies Natalya as the most likely voice behind Nanami. The exact E12 production layers remain undetermined. The E10 listening card is optional. |
 | Existing V1 analyses | Preserved; available through the V1 map |
 
 The [first adjudication register](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_01.md) links direct hearing to exact source intervals and records the E04 owner response. The [cumulative register](V2%20Analysis/07%20Audits%20and%20Handoffs/SHINEPOST_V2_SOURCE_ADJUDICATION_20261123_02.md) indexes all 84 ordinary evaluations and the later E10–E12 source checks. The dated episode comparisons below cite the frozen independent propositions, the Gemini evidence and the applicable primary-source routes. The case handoff preserves a neutral question for the unresolved perceptual disputes.

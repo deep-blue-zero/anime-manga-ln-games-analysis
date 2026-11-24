@@ -26,12 +26,14 @@ Reviewed analysis subjects in the `shine-post` namespace of the [Character Analy
 - Analytical coverage:
   - `gionji-yukine-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12; the shared YukiMoji artifact contains separately substantial sections for both Momiji and Yukine.; continuity `shine-post-television-anime`
   - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Gionji Yukine at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+  - `v2-tings-network-tv-e01-e12`: ANIME EPISODE: Reviewed V2 relationship synthesis of the five TINGS members across the split and reunion, television E01-E12 through the proposed Budokan joint engagement; it treats Gionji Yukine's relationships within that network rather than every episode.; continuity `shine-post-television-anime`
   - `v2-tv-e02-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 2-12 (from Gionji Yukine's first dedicated SPV2-CH-DOOR-COMPANION record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation, the completed source adjudications and the E12 monograph acceptance.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-momiji-yukine-character-deep-dive` — SHINEPOST MOMIJI YUKINE CHARACTER DEEP DIVE](../../series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_MOMIJI_YUKINE_CHARACTER_DEEP_DIVE.md)
   - [`v2-character-monograph` — V2 E01-E12 character monograph of Gionji Yukine](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_YUKINE_E01_E12_CHARACTER_MONOGRAPH.md)
   - [`v2-character-state-ledger` — Yukine records SPV2-CH-DOOR-COMPANION E02-E12 and the E12 monograph acceptance in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
   - [`v2-relationship-ledger` — Yukine routes with Momiji, Haru, Kyoka, Rio, Ren, Naoki, Yuki and her mother in the V2 relationship ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_RELATIONSHIP_LEDGER.md)
+  - [`v2-tings-network-relationship-synthesis` — Gionji Yukine's relationships across the TINGS split and reunion in the V2 E01-E12 TINGS network relationship synthesis](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_TINGS_NETWORK_RELATIONSHIP_SYNTHESIS.md)
 
 <a id="hinase-naoki"></a>
 
@@ -151,12 +153,14 @@ Reviewed analysis subjects in the `shine-post` namespace of the [Character Analy
 - Analytical coverage:
   - `ito-momiji-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12; the shared YukiMoji artifact contains separately substantial sections for both Momiji and Yukine.; continuity `shine-post-television-anime`
   - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Ito Momiji at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+  - `v2-tings-network-tv-e01-e12`: ANIME EPISODE: Reviewed V2 relationship synthesis of the five TINGS members across the split and reunion, television E01-E12 through the proposed Budokan joint engagement; it treats Ito Momiji's relationships within that network rather than every episode.; continuity `shine-post-television-anime`
   - `v2-tv-e02-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 2-12 (from Ito Momiji's first dedicated SPV2-CH-MOMIJI record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation, the completed source adjudications and the E12 monograph acceptance.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-momiji-yukine-character-deep-dive` — SHINEPOST MOMIJI YUKINE CHARACTER DEEP DIVE](../../series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_MOMIJI_YUKINE_CHARACTER_DEEP_DIVE.md)
   - [`v2-character-monograph` — V2 E01-E12 character monograph of Ito Momiji](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_MOMIJI_E01_E12_CHARACTER_MONOGRAPH.md)
   - [`v2-character-state-ledger` — Momiji records SPV2-CH-MOMIJI E02-E12 and the E12 monograph acceptance in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
   - [`v2-relationship-ledger` — Momiji routes with Yukine, Rio, Haru, Kyoka, Ren, Naoki, Yuki and her fan in the V2 relationship ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_RELATIONSHIP_LEDGER.md)
+  - [`v2-tings-network-relationship-synthesis` — Ito Momiji's relationships across the TINGS split and reunion in the V2 E01-E12 TINGS network relationship synthesis](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_TINGS_NETWORK_RELATIONSHIP_SYNTHESIS.md)
 
 <a id="kurogane-ren"></a>
 
@@ -205,12 +209,14 @@ Reviewed analysis subjects in the `shine-post` namespace of the [Character Analy
 - Analytical coverage:
   - `nabatame-haru-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12.; continuity `shine-post-television-anime`
   - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Nabatame Haru at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+  - `v2-tings-network-tv-e01-e12`: ANIME EPISODE: Reviewed V2 relationship synthesis of the five TINGS members across the split and reunion, television E01-E12 through the proposed Budokan joint engagement; it treats Nabatame Haru's relationships within that network rather than every episode.; continuity `shine-post-television-anime`
   - `v2-tv-e01-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-12 (from Nabatame Haru's first dedicated SPV2-CH-HARU record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation, the completed source adjudications and the E12 monograph acceptance.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-nabatame-haru-character-deep-dive` — SHINEPOST NABATAME HARU CHARACTER DEEP DIVE](../../series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_NABATAME_HARU_CHARACTER_DEEP_DIVE.md)
   - [`v2-character-monograph` — V2 E01-E12 character monograph of Nabatame Haru](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_HARU_E01_E12_CHARACTER_MONOGRAPH.md)
   - [`v2-character-state-ledger` — Haru records SPV2-CH-HARU E01-E12 and the E12 monograph acceptance in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
   - [`v2-relationship-ledger` — Haru routes with Ren, Kyoka, Rio, Yukine, Momiji, Naoki, Yuki, Homare, Hotaru and fans in the V2 relationship ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_RELATIONSHIP_LEDGER.md)
+  - [`v2-tings-network-relationship-synthesis` — Nabatame Haru's relationships across the TINGS split and reunion in the V2 E01-E12 TINGS network relationship synthesis](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_TINGS_NETWORK_RELATIONSHIP_SYNTHESIS.md)
 
 <a id="nanami"></a>
 
@@ -277,12 +283,14 @@ Reviewed analysis subjects in the `shine-post` namespace of the [Character Analy
 - Analytical coverage:
   - `seibu-rio-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12.; continuity `shine-post-television-anime`
   - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Seibu Rio at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+  - `v2-tings-network-tv-e01-e12`: ANIME EPISODE: Reviewed V2 relationship synthesis of the five TINGS members across the split and reunion, television E01-E12 through the proposed Budokan joint engagement; it treats Seibu Rio's relationships within that network rather than every episode.; continuity `shine-post-television-anime`
   - `v2-tv-e01-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-12 (from Seibu Rio's first dedicated SPV2-CH-RIO record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation, the completed source adjudications and the E12 monograph acceptance.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-seibu-rio-character-deep-dive` — SHINEPOST SEIBU RIO CHARACTER DEEP DIVE](../../series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_SEIBU_RIO_CHARACTER_DEEP_DIVE.md)
   - [`v2-character-monograph` — V2 E01-E12 character monograph of Seibu Rio](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_RIO_E01_E12_CHARACTER_MONOGRAPH.md)
   - [`v2-character-state-ledger` — Rio records SPV2-CH-RIO E01-E12 and the E12 monograph acceptance in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
   - [`v2-relationship-ledger` — Rio routes with Haru, Kyoka, Momiji, Yukine, Naoki, Nanami, Aoi, Yuki and fans in the V2 relationship ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_RELATIONSHIP_LEDGER.md)
+  - [`v2-tings-network-relationship-synthesis` — Seibu Rio's relationships across the TINGS split and reunion in the V2 E01-E12 TINGS network relationship synthesis](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_TINGS_NETWORK_RELATIONSHIP_SYNTHESIS.md)
 
 <a id="tamaki-kyoka"></a>
 
@@ -304,12 +312,14 @@ Reviewed analysis subjects in the `shine-post` namespace of the [Character Analy
 - Analytical coverage:
   - `tamaki-kyoka-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12.; continuity `shine-post-television-anime`
   - `v2-monograph-tv-e01-e12`: ANIME EPISODE: Dedicated reviewed V2 portrait of Tamaki Kyoka at the admitted television E12 boundary, drawn from the accepted Japanese television E01-E12 episode readings, longitudinal ledgers and source adjudications; it covers the episodes where the subject is present rather than claiming analysis of every episode.; continuity `shine-post-television-anime`
+  - `v2-tings-network-tv-e01-e12`: ANIME EPISODE: Reviewed V2 relationship synthesis of the five TINGS members across the split and reunion, television E01-E12 through the proposed Budokan joint engagement; it treats Tamaki Kyoka's relationships within that network rather than every episode.; continuity `shine-post-television-anime`
   - `v2-tv-e01-e12`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-12 (from Tamaki Kyoka's first dedicated SPV2-CH-KYOKA record through the E12 first-pass qualification), routed from the accepted V2 episode readings and independent checkpoints. Dated ledger appendices add the direct E01-E12 comparison with the Gemini generation, the completed source adjudications and the E12 monograph acceptance.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-tamaki-kyoka-character-deep-dive` — SHINEPOST TAMAKI KYOKA CHARACTER DEEP DIVE](../../series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_TAMAKI_KYOKA_CHARACTER_DEEP_DIVE.md)
   - [`v2-character-monograph` — V2 E01-E12 character monograph of Tamaki Kyoka](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_KYOKA_E01_E12_CHARACTER_MONOGRAPH.md)
   - [`v2-character-state-ledger` — Kyoka records SPV2-CH-KYOKA E01-E12 and the E12 monograph acceptance in the V2 character state ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_CHARACTER_STATE_LEDGER.md)
   - [`v2-relationship-ledger` — Kyoka routes with Haru, Rio, Yukine, Momiji, Ren, Naoki, Yuki, Tokka, her schoolfriend and fans in the V2 relationship ledger](../../series/shine-post/V2%20Analysis/03%20Longitudinal%20Ledgers/SHINEPOST_V2_RELATIONSHIP_LEDGER.md)
+  - [`v2-tings-network-relationship-synthesis` — Tamaki Kyoka's relationships across the TINGS split and reunion in the V2 E01-E12 TINGS network relationship synthesis](../../series/shine-post/V2%20Analysis/04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_TINGS_NETWORK_RELATIONSHIP_SYNTHESIS.md)
 
 <a id="tokka"></a>
 

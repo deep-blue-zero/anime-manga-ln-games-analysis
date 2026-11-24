@@ -6,29 +6,367 @@ Reviewed analysis subjects in the `lycoris-recoil` namespace of the [Character A
 
 ## Reviewed entries
 
+<a id="abe"></a>
+
+### Abe
+
+- Entity ID: `lycoris-recoil:abe`
+- Entity aliases:
+  - _None._
+
+#### Subject: Lycoris Recoil television anime
+
+- Analysis subject ID: `lycoris-recoil:abe@television-anime`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv`: ANIME EPISODE: Bounded dedicated portrait of his TV conduct in Episodes 1, 3-5, 7-8 and 12-13. Print (A2 novels, B1 Recollect, C1 anthologies) and production comparisons are attributed separately in the monograph and are not claimed as television-anime coverage.; continuity `lycoris-recoil-television-anime`
+- Reviewed current evidence:
+  - [`character-monograph` — Abe: V2 individual character monograph (TV and Friends Shorts, with attributed print comparisons)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_DETECTIVE_ABE_CHARACTER_SYNTHESIS.md)
+
+<a id="akutsu-hikaru"></a>
+
+### Akutsu Hikaru
+
+- Entity ID: `lycoris-recoil:akutsu-hikaru`
+- Entity aliases:
+  - Hikaru Akutsu (en, SPELLING) — Given-name-first form used in the monograph.
+  - 阿久津ヒカル (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Lycoris Recoil novels (Asaura)
+
+- Analysis subject ID: `lycoris-recoil:akutsu-hikaru@novels`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-novels`: LIGHT_NOVEL VOLUME: Gluttony days, first story only (S9-S10); speech is written register only.; continuity `lycoris-recoil-novels`
+- Reviewed current evidence:
+  - [`character-monograph` — Akutsu Hikaru: V2 individual character monograph (novels)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_HIKARU_AKUTSU_CHARACTER_SYNTHESIS.md)
+
+<a id="clarisse-akutsu"></a>
+
+### Clarisse Akutsu
+
+- Entity ID: `lycoris-recoil:clarisse-akutsu`
+- Entity aliases:
+  - クラリス・アクツ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Lycoris Recoil novels (Asaura)
+
+- Analysis subject ID: `lycoris-recoil:clarisse-akutsu@novels`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-novels`: LIGHT_NOVEL VOLUME: Gluttony days, chiefly the two-part first story and its immediate After Meal (S9-S10); speech is written register only.; continuity `lycoris-recoil-novels`
+- Reviewed current evidence:
+  - [`character-monograph` — Clarisse Akutsu: V2 individual character monograph (novels)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CLARISSE_CHARACTER_SYNTHESIS.md)
+
+<a id="doi-yoshiharu"></a>
+
+### Doi Yoshiharu
+
+- Entity ID: `lycoris-recoil:doi-yoshiharu`
+- Entity aliases:
+  - Yoshiharu Doi (en, SPELLING) — Given-name-first form used in the monograph.
+  - 土井善晴 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Lycoris Recoil novels (Asaura)
+
+- Analysis subject ID: `lycoris-recoil:doi-yoshiharu@novels`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-novels`: LIGHT_NOVEL VOLUME: Ordinary days only, chiefly S10 with the S19 aftermath.; continuity `lycoris-recoil-novels`
+- Reviewed current evidence:
+  - [`character-monograph` — Doi Yoshiharu: V2 individual character monograph (novels)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_DOI_CHARACTER_SYNTHESIS.md)
+
+<a id="harukawa-fuki"></a>
+
+### Harukawa Fuki
+
+- Entity ID: `lycoris-recoil:harukawa-fuki`
+- Entity aliases:
+  - _None._
+
+#### Subject: Lycoris Recoil television anime
+
+- Analysis subject ID: `lycoris-recoil:harukawa-fuki@television-anime`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv`: ANIME EPISODE: Dedicated A1 portrait across TV Episodes 1-13 and Friends Shorts 01-06 at the frozen CP5 boundary. Print (A2 novels, B1 Recollect, C1 anthologies) and production comparisons are attributed separately in the monograph and are not claimed as television-anime coverage.; continuity `lycoris-recoil-television-anime`
+- Reviewed current evidence:
+  - [`character-monograph` — Harukawa Fuki: V2 individual character monograph (TV and Friends Shorts, with attributed print comparisons)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_FUKI_CHARACTER_SYNTHESIS.md)
+
 <a id="inoue-takina"></a>
 
 ### Inoue Takina
 
 - Entity ID: `lycoris-recoil:inoue-takina`
 - Entity aliases:
-  - _None._
+  - 井ノ上たきな (ja, ORIGINAL_SCRIPT)
 
 #### Subject: Lycoris Recoil television anime
 
 - Analysis subject ID: `lycoris-recoil:inoue-takina@television-anime`
 - Series: `lycoris-recoil`
 - Continuity: `lycoris-recoil-television-anime`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-friends-shorts-01-06`: ANIME EPISODE: Distributed analysis in the canonical V2 ledgers' per-unit Friends Shorts 01-06 records (MB-SHORT01 through MB-SHORT06 and the REL-CHI-TAK Short entries), frozen at SHORT06_SOURCE_NATIVE_FREEZE and included in the CP5_ANIME_NATIVE_FINAL baseline. The shorts test ordinary work and leisure rather than crisis conduct. No novel, Recollect, anthology or other supplementary coverage is claimed in this item.; continuity `lycoris-recoil-television-anime`
+  - `v2-monograph-tv`: ANIME EPISODE: Dedicated V2 monograph and dyad synthesis across TV Episodes 1-13 and Friends Shorts 01-06 at the frozen CP5 boundary with attributed A1 rechecks. Print (A2 novels, B1 Recollect, C1 anthologies) and production comparisons are attributed separately in the monograph and are not claimed as television-anime coverage.; continuity `lycoris-recoil-television-anime`
+  - `v2-tv-e01-e13`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-13 (CP4_POST_E13 adjudicated and closed). Perceptual voice audition remains unverified.; continuity `lycoris-recoil-television-anime`
+- Reviewed current evidence:
+  - [`character-monograph` — Inoue Takina: V2 individual character monograph (TV and Friends Shorts, with attributed print comparisons)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_TAKINA_CHARACTER_SYNTHESIS.md)
+  - [`v2-character-state-ledger` — Inoue Takina (TAK) observations and state snapshots in the V2 character state and microbehavior ledger](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/03%20Longitudinal%20Ledgers/LYCORIS_RECOIL_CHARACTER_STATE_AND_MICROBEHAVIOR_LEDGER.md)
+  - [`v2-chisato-takina-relationship-synthesis` — Inoue Takina in the V2 Chisato–Takina relationship synthesis](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_TAKINA_RELATIONSHIP_SYNTHESIS.md)
+  - [`v2-relationship-state-ledger` — Inoue Takina in the REL-CHI-TAK dyad and related entries of the V2 relationship state ledger](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/03%20Longitudinal%20Ledgers/LYCORIS_RECOIL_RELATIONSHIP_STATE_LEDGER.md)
+
+<a id="ito"></a>
+
+### Itō
+
+- Entity ID: `lycoris-recoil:ito`
+- Entity aliases:
+  - 伊藤 (ja, ORIGINAL_SCRIPT) — Family name only.
+
+#### Subject: Lycoris Recoil novels (Asaura)
+
+- Analysis subject ID: `lycoris-recoil:ito@novels`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-novels`: LIGHT_NOVEL VOLUME: Ordinary days (S15, S17) and Recovery days (S10); Gluttony days only for a saying Chisato quotes.; continuity `lycoris-recoil-novels`
+- Reviewed current evidence:
+  - [`character-monograph` — Itō: V2 individual character monograph (novels)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_ITO_CHARACTER_SYNTHESIS.md)
+
+<a id="janome-erika"></a>
+
+### Janome Erika
+
+- Entity ID: `lycoris-recoil:janome-erika`
+- Entity aliases:
+  - _None._
+
+#### Subject: Lycoris Recoil television anime
+
+- Analysis subject ID: `lycoris-recoil:janome-erika@television-anime`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv`: ANIME EPISODE: Bounded dedicated A1 portrait whose load-bearing scenes are TV Episodes 1, 3 and 11-13 and Friends Short 06, within the TV E01-E13 and Shorts 01-06 boundary. Print (A2 novels, B1 Recollect, C1 anthologies) and production comparisons are attributed separately in the monograph and are not claimed as television-anime coverage.; continuity `lycoris-recoil-television-anime`
+- Reviewed current evidence:
+  - [`character-monograph` — Janome Erika: V2 individual character monograph (TV and Friends Shorts, with attributed print comparisons)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_ERIKA_CHARACTER_SYNTHESIS.md)
+
+<a id="kana"></a>
+
+### Kana
+
+- Entity ID: `lycoris-recoil:kana`
+- Entity aliases:
+  - 堅 香子 (ja, ORIGINAL_SCRIPT) — Family name 堅 and given name 香子, as printed in the monograph.
+
+#### Subject: Lycoris Recoil novels (Asaura)
+
+- Analysis subject ID: `lycoris-recoil:kana@novels`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - カナ (ja, ALTERNATIVE) — Self-chosen name at the café.
+- Analytical coverage:
+  - `v2-monograph-novels`: LIGHT_NOVEL VOLUME: Ordinary days only, chiefly S17 and the fifth story (S18); Asaura's Japanese prose. Recovery days and Gluttony days are not claimed.; continuity `lycoris-recoil-novels`
+- Reviewed current evidence:
+  - [`character-monograph` — Kana: V2 individual character monograph (novels)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_KANA_CHARACTER_SYNTHESIS.md)
+
+<a id="kurumi"></a>
+
+### Kurumi
+
+- Entity ID: `lycoris-recoil:kurumi`
+- Entity aliases:
+  - Walnut (en, ALTERNATIVE) — Hacker handle; the monograph treats Kurumi and Walnut as names of one person.
+  - ウォールナット (ja, ALTERNATIVE) — Hacker handle in Japanese.
+  - クルミ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Lycoris Recoil television anime
+
+- Analysis subject ID: `lycoris-recoil:kurumi@television-anime`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv`: ANIME EPISODE: Dedicated A1 portrait across TV Episodes 1-13 and Friends Shorts 01-06 at the frozen CP5 boundary. Print (A2 novels, B1 Recollect, C1 anthologies) and production comparisons are attributed separately in the monograph and are not claimed as television-anime coverage.; continuity `lycoris-recoil-television-anime`
+- Reviewed current evidence:
+  - [`character-monograph` — Kurumi: V2 individual character monograph (TV and Friends Shorts, with attributed print comparisons)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_KURUMI_CHARACTER_SYNTHESIS.md)
+
+<a id="kusunoki"></a>
+
+### Kusunoki
+
+- Entity ID: `lycoris-recoil:kusunoki`
+- Entity aliases:
+  - 楠木 (ja, ORIGINAL_SCRIPT) — Family name only; her given name is not given.
+
+#### Subject: Lycoris Recoil television anime
+
+- Analysis subject ID: `lycoris-recoil:kusunoki@television-anime`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv`: ANIME EPISODE: Dedicated A1 portrait across TV Episodes 1-13 with Friends Short 02, within the TV E01-E13 and Shorts 01-06 boundary. Print (A2 novels, B1 Recollect, C1 anthologies) and production comparisons are attributed separately in the monograph and are not claimed as television-anime coverage.; continuity `lycoris-recoil-television-anime`
+- Reviewed current evidence:
+  - [`character-monograph` — Kusunoki: V2 individual character monograph (TV and Friends Shorts, with attributed print comparisons)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_KUSUNOKI_CHARACTER_SYNTHESIS.md)
+
+<a id="madame"></a>
+
+### Madame
+
+- Entity ID: `lycoris-recoil:madame`
+- Entity aliases:
+  - _None._
+
+#### Subject: Lycoris Recoil novels (Asaura)
+
+- Analysis subject ID: `lycoris-recoil:madame@novels`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-novels`: LIGHT_NOVEL VOLUME: Gluttony days, first story only, through 10.977.; continuity `lycoris-recoil-novels`
+- Reviewed current evidence:
+  - [`character-monograph` — Madame: V2 individual character monograph (novels)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_MADAME_CHARACTER_SYNTHESIS.md)
+
+<a id="majima"></a>
+
+### Majima
+
+- Entity ID: `lycoris-recoil:majima`
+- Entity aliases:
+  - _None._
+
+#### Subject: Lycoris Recoil television anime
+
+- Analysis subject ID: `lycoris-recoil:majima@television-anime`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv`: ANIME EPISODE: Dedicated A1 portrait across TV Episodes 4-13; no Friends Shorts evidence. Print (A2 novels, B1 Recollect, C1 anthologies) and production comparisons are attributed separately in the monograph and are not claimed as television-anime coverage.; continuity `lycoris-recoil-television-anime`
+- Reviewed current evidence:
+  - [`character-monograph` — Majima: V2 individual character monograph (TV and Friends Shorts, with attributed print comparisons)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_MAJIMA_CHARACTER_SYNTHESIS.md)
+
+<a id="mika"></a>
+
+### Mika
+
+- Entity ID: `lycoris-recoil:mika`
+- Entity aliases:
+  - _None._
+
+#### Subject: Lycoris Recoil television anime
+
+- Analysis subject ID: `lycoris-recoil:mika@television-anime`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv`: ANIME EPISODE: Dedicated A1 portrait across TV Episodes 1-13 and Friends Shorts 01-06 at the frozen CP5 boundary with attributed rechecks. Print (A2 novels, B1 Recollect, C1 anthologies) and production comparisons are attributed separately in the monograph and are not claimed as television-anime coverage.; continuity `lycoris-recoil-television-anime`
+- Reviewed current evidence:
+  - [`character-monograph` — Mika: V2 individual character monograph (TV and Friends Shorts, with attributed print comparisons)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_MIKA_CHARACTER_SYNTHESIS.md)
+
+<a id="mizukawa-kosuke"></a>
+
+### Mizukawa Kōsuke
+
+- Entity ID: `lycoris-recoil:mizukawa-kosuke`
+- Entity aliases:
+  - Kōsuke Mizukawa (en, SPELLING) — Given-name-first form used in the monograph.
+  - 水川コウスケ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Lycoris Recoil novels (Asaura)
+
+- Analysis subject ID: `lycoris-recoil:mizukawa-kosuke@novels`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-novels`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `v2-friends-shorts-01-06`: ANIME EPISODE: Distributed analysis in the canonical V2 ledgers' per-unit Friends Shorts 01-06 records (MB-SHORT01 through MB-SHORT06 and the REL-CHI-TAK Short entries), frozen at SHORT06_SOURCE_NATIVE_FREEZE and included in the CP5_ANIME_NATIVE_FINAL baseline. The shorts test ordinary work and leisure rather than crisis conduct. No novel, Recollect, anthology or other supplementary coverage is claimed; those readings are provisional.; continuity `lycoris-recoil-television-anime`
-  - `v2-tv-e01-e13`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-13 (CP4_POST_E13 adjudicated and closed). Perceptual voice audition remains unverified.; continuity `lycoris-recoil-television-anime`
+  - `v2-monograph-novels`: LIGHT_NOVEL VOLUME: Recovery days, the story “Dog” (S11) only.; continuity `lycoris-recoil-novels`
 - Reviewed current evidence:
-  - [`v2-character-state-ledger` — Inoue Takina (TAK) observations and state snapshots in the V2 character state and microbehavior ledger](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/03%20Longitudinal%20Ledgers/LYCORIS_RECOIL_CHARACTER_STATE_AND_MICROBEHAVIOR_LEDGER.md)
-  - [`v2-relationship-state-ledger` — Inoue Takina in the REL-CHI-TAK dyad and related entries of the V2 relationship state ledger](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/03%20Longitudinal%20Ledgers/LYCORIS_RECOIL_RELATIONSHIP_STATE_LEDGER.md)
+  - [`character-monograph` — Mizukawa Kōsuke: V2 individual character monograph (novels)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_MIZUKAWA_CHARACTER_SYNTHESIS.md)
+
+<a id="nakahara-mizuki"></a>
+
+### Nakahara Mizuki
+
+- Entity ID: `lycoris-recoil:nakahara-mizuki`
+- Entity aliases:
+  - _None._
+
+#### Subject: Lycoris Recoil television anime
+
+- Analysis subject ID: `lycoris-recoil:nakahara-mizuki@television-anime`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv`: ANIME EPISODE: Dedicated A1 portrait across TV Episodes 1-13 and Friends Shorts 01-06 at the frozen CP5 boundary. Print (A2 novels, B1 Recollect, C1 anthologies) and production comparisons are attributed separately in the monograph and are not claimed as television-anime coverage.; continuity `lycoris-recoil-television-anime`
+- Reviewed current evidence:
+  - [`character-monograph` — Nakahara Mizuki: V2 individual character monograph (TV and Friends Shorts, with attributed print comparisons)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_MIZUKI_CHARACTER_SYNTHESIS.md)
 
 <a id="nishikigi-chisato"></a>
 
@@ -36,20 +374,112 @@ Reviewed analysis subjects in the `lycoris-recoil` namespace of the [Character A
 
 - Entity ID: `lycoris-recoil:nishikigi-chisato`
 - Entity aliases:
-  - _None._
+  - 錦木千束 (ja, ORIGINAL_SCRIPT)
 
 #### Subject: Lycoris Recoil television anime
 
 - Analysis subject ID: `lycoris-recoil:nishikigi-chisato@television-anime`
 - Series: `lycoris-recoil`
 - Continuity: `lycoris-recoil-television-anime`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `v2-friends-shorts-01-06`: ANIME EPISODE: Distributed analysis in the canonical V2 ledgers' per-unit Friends Shorts 01-06 records (MB-SHORT01 through MB-SHORT06 and the REL-CHI-TAK Short entries), frozen at SHORT06_SOURCE_NATIVE_FREEZE and included in the CP5_ANIME_NATIVE_FINAL baseline. The shorts test ordinary work and leisure rather than crisis conduct. No novel, Recollect, anthology or other supplementary coverage is claimed; those readings are provisional.; continuity `lycoris-recoil-television-anime`
+  - `v2-friends-shorts-01-06`: ANIME EPISODE: Distributed analysis in the canonical V2 ledgers' per-unit Friends Shorts 01-06 records (MB-SHORT01 through MB-SHORT06 and the REL-CHI-TAK Short entries), frozen at SHORT06_SOURCE_NATIVE_FREEZE and included in the CP5_ANIME_NATIVE_FINAL baseline. The shorts test ordinary work and leisure rather than crisis conduct. No novel, Recollect, anthology or other supplementary coverage is claimed in this item.; continuity `lycoris-recoil-television-anime`
+  - `v2-monograph-tv`: ANIME EPISODE: Dedicated V2 monograph and dyad synthesis across TV Episodes 1-13 and Friends Shorts 01-06 at the frozen CP5 boundary with attributed A1 rechecks. Print (A2 novels, B1 Recollect, C1 anthologies) and production comparisons are attributed separately in the monograph and are not claimed as television-anime coverage.; continuity `lycoris-recoil-television-anime`
   - `v2-tv-e01-e13`: ANIME EPISODE: Substantial distributed analysis in the canonical V2 ledgers across TV Episodes 1-13 (CP4_POST_E13 adjudicated and closed). Perceptual voice audition remains unverified.; continuity `lycoris-recoil-television-anime`
 - Reviewed current evidence:
+  - [`character-monograph` — Nishikigi Chisato: V2 individual character monograph (TV and Friends Shorts, with attributed print comparisons)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_CHARACTER_SYNTHESIS.md)
   - [`v2-character-state-ledger` — Nishikigi Chisato (CHI) observations and state snapshots in the V2 character state and microbehavior ledger](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/03%20Longitudinal%20Ledgers/LYCORIS_RECOIL_CHARACTER_STATE_AND_MICROBEHAVIOR_LEDGER.md)
+  - [`v2-chisato-takina-relationship-synthesis` — Nishikigi Chisato in the V2 Chisato–Takina relationship synthesis](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_TAKINA_RELATIONSHIP_SYNTHESIS.md)
   - [`v2-relationship-state-ledger` — Nishikigi Chisato in the REL-CHI-TAK dyad and related entries of the V2 relationship state ledger](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/03%20Longitudinal%20Ledgers/LYCORIS_RECOIL_RELATIONSHIP_STATE_LEDGER.md)
+
+<a id="otome-sakura"></a>
+
+### Otome Sakura
+
+- Entity ID: `lycoris-recoil:otome-sakura`
+- Entity aliases:
+  - _None._
+
+#### Subject: Lycoris Recoil television anime
+
+- Analysis subject ID: `lycoris-recoil:otome-sakura@television-anime`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv`: ANIME EPISODE: Bounded dedicated A1 portrait across TV Episodes 1-13 and Friends Shorts 01-06 at the frozen CP5 boundary. Print (A2 novels, B1 Recollect, C1 anthologies) and production comparisons are attributed separately in the monograph and are not claimed as television-anime coverage.; continuity `lycoris-recoil-television-anime`
+- Reviewed current evidence:
+  - [`character-monograph` — Otome Sakura: V2 individual character monograph (TV and Friends Shorts, with attributed print comparisons)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_SAKURA_CHARACTER_SYNTHESIS.md)
+
+<a id="robota"></a>
+
+### Robota
+
+- Entity ID: `lycoris-recoil:robota`
+- Entity aliases:
+  - ロボ太 (ja, ORIGINAL_SCRIPT) — Japanese handle.
+
+#### Subject: Lycoris Recoil television anime
+
+- Analysis subject ID: `lycoris-recoil:robota@television-anime`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v2-monograph-tv`: ANIME EPISODE: Bounded dedicated A1 portrait across TV Episodes 2-13. Print (A2 novels, B1 Recollect, C1 anthologies) and production comparisons are attributed separately in the monograph and are not claimed as television-anime coverage.; continuity `lycoris-recoil-television-anime`
+- Reviewed current evidence:
+  - [`character-monograph` — Robota: V2 individual character monograph (TV and Friends Shorts, with attributed print comparisons)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_ROBOTA_CHARACTER_SYNTHESIS.md)
+
+<a id="tokuda-kazuhiko"></a>
+
+### Tokuda Kazuhiko
+
+- Entity ID: `lycoris-recoil:tokuda-kazuhiko`
+- Entity aliases:
+  - Kazuhiko Tokuda (en, SPELLING) — Given-name-first form used in the monograph.
+
+#### Subject: Lycoris Recoil novels (Asaura)
+
+- Analysis subject ID: `lycoris-recoil:tokuda-kazuhiko@novels`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - Toku-san (ja-latn, ALTERNATIVE) — How Chisato addresses him.
+- Analytical coverage:
+  - `v2-monograph-novels`: LIGHT_NOVEL VOLUME: Ordinary days frame only (S9, S15, S17, S19); not in Recovery days.; continuity `lycoris-recoil-novels`
+- Reviewed current evidence:
+  - [`character-monograph` — Tokuda Kazuhiko: V2 individual character monograph (novels)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_TOKUDA_CHARACTER_SYNTHESIS.md)
+
+<a id="yoshimatsu-shinji"></a>
+
+### Yoshimatsu Shinji
+
+- Entity ID: `lycoris-recoil:yoshimatsu-shinji`
+- Entity aliases:
+  - Shinji Yoshimatsu (en, SPELLING) — Given-name-first form used in the monograph title.
+  - 吉松シンジ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Lycoris Recoil television anime
+
+- Analysis subject ID: `lycoris-recoil:yoshimatsu-shinji@television-anime`
+- Series: `lycoris-recoil`
+- Continuity: `lycoris-recoil-television-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - ヨシさん (ja, ALTERNATIVE) — The name by which Chisato knows him.
+- Analytical coverage:
+  - `v2-monograph-tv`: ANIME EPISODE: Dedicated A1 portrait across TV Episodes 1-13; the Friends Shorts were used with no new trial of his conduct. Print (A2 novels, B1 Recollect, C1 anthologies) and production comparisons are attributed separately in the monograph and are not claimed as television-anime coverage.; continuity `lycoris-recoil-television-anime`
+- Reviewed current evidence:
+  - [`character-monograph` — Yoshimatsu Shinji: V2 individual character monograph (TV and Friends Shorts, with attributed print comparisons)](../../series/lycoris-recoil/03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_YOSHIMATSU_CHARACTER_SYNTHESIS.md)
