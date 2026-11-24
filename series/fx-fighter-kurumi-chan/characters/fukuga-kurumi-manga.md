@@ -4,13 +4,13 @@ artifact_id: FX_KURUMI_CHAR_FXK_P001
 artifact_type: character_monograph
 series: fx-fighter-kurumi-chan
 subject_id: FXK-P001
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Self-contained character portrait within the accepted V01–V10 manga boundary"
 source_boundary: "Accepted V01–V10 main narrative; V10 unit-end spoilers; no later volume"
 created: 2026-11-23
-last_updated: 2026-11-23
+last_updated: 2026-11-24
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -24,6 +24,8 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 **Publication note.** Written by the character specialist in a fresh G3 context (transfer FXK-SYN-T-G3-MONO-FXK-P001) at snapshot commit bab0c32bd718f5c278cb8ebb40e3ccd94e7499b7; checked by an independent reviewer who is not its author (a self-containment check, reading this document alone, and a fidelity review against the accepted readings, the ledger and re-opened pages), and by a monograph-only retrieval probe in a fresh context that read nothing but this portrait; revised by its author on every finding; and published by the principal integrator at gate G4 (transfer FXK-SYN-T-G4-ACCEPT) after verifying the revision on the records and on a sample of pages. The two results are recorded separately in the [V01–V10 semantic validation audit](../audits/FX_KURUMI_V01_V10_SEMANTIC_VALIDATION.md) (section 5) and in the [character qualification audit](../audits/FX_KURUMI_CHARACTER_QUALIFICATION.md): self-containment PASS; fidelity PASS after revision; outcome COMPLETE_AT_BOUNDARY. No correction beyond these publication edits was needed. Claim rows written after the snapshot (FXK-SYN-C007 to FXK-SYN-C028) are cited where they settle a point; the evidence boundary is unchanged.
 
 **Revision 1.1 (2026-11-23).** A correction by the run coordinator after publication, routed by the principal integrator's G4 close-out ([semantic validation audit](../audits/FX_KURUMI_V01_V10_SEMANTIC_VALIDATION.md), section 11). The design-or-psychology entry of section 13 now gives the current state of FXK-SYN-C006, which ledger row FXK-SYN-C029 restricted at the close-out. Nothing else changes.
+
+**Revision 1.2 (2026-11-24).** A precision correction by the CI steward at integration, answering the [monograph readback at `a0e643c8`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/695#issuecomment-7116499363). In section 12, the row "Within reach of a numerical goal" now matches section 4.3 and ledger row FXK-SYN-C033: she quantifies the remaining target, round at V05 i0153 and to the yen only at V06 i0096; and her departures from safeguards are given as specific decisions in context rather than a general trigger, with the V04 and V05 counterexamples of section 4.3. The support grade, the citations and the rest of the portrait are unchanged.
 
 ## Orientation
 
@@ -439,7 +441,7 @@ A compact, conditional account of how she is likely to perceive, choose, speak a
 | --- | --- | --- | --- | --- |
 | Flat, calm, no recent large gain or loss | analytic; draws scenarios; checks procedures; can refuse a trade without grounds or guarantee | cheerful casual; open about plans with friends | HIGH (V01 i0042–i0048; V04 i0112–i0115; V05 i0078–i0079; V06 i0106) | the calm can be brief: within minutes of resolving to retire once the goal was reached she sized a 300-lot short to reach it (V05 i0155–i0158) |
 | After a realized or large open gain | raises size and target; frames the next trade as the last; minimizes risk in words | "○○枚発射", hearts, euphoria; luck credited aloud, skill felt inside | HIGH (V03 i0053–i0055; V04 i0006; V05 i0157–i0159; V08 i0008–i0015) | unease can halt an add (V04 i0115); a structural reserve can be set aside (V03 i0124) |
-| Within reach of a numerical goal | sizes the next position to close the remaining gap; drops protective rules if the goal is "a few wins" away | exact counts to the yen | HIGH (V05 i0153–i0158; V06 i0096–i0099; V07 i0143–i0148; V08 i0006) | a remembered parent's anger can check a goal from rising (V05 i0154) |
+| Within reach of a numerical goal | tends to size a position toward the remaining gap; sets safeguards aside in specific decisions, each in its own context: the V06 stop rule dropped because the goal is "a few wins" away (V06 i0099), and the all-or-nothing V08 recovery with no stop (V08 i0006) | quantifies the remaining target: round ("あと300万円", V05 i0153) or to the yen ("あと566万…とんで85円", V06 i0096) | HIGH (V05 i0153–i0158; V06 i0096–i0099; V07 i0143–i0148; V08 i0006) | a remembered parent's anger can check a goal from rising (V05 i0154); she declines a second add with the gap still open (V04 i0113–i0115) and brackets her V05 long with a protective stop (V05 i0077) |
 | Moderate open loss on her own money | rationalizes ("そんな気がする"), delays or refuses a stop; may cut by argument from a norm | self-commands; hindsight afterward | HIGH for delay (V01 i0088–i0097; V06 i0009); MODERATE for a cut (V06 i0011–i0013, i0046) | a scheduled event she has noted can trigger a cut (V06 i0011) |
 | Loss mounting on money labelled as protected (family, reserve) | deadline thinking; seeks risk to survive or recover; felt incapacity to cut | prayer, not watching, "やだやだ" | MODERATE-HIGH (V01 i0104–i0141) | none shown once the protected money is in the account |
 | Catastrophic realized loss | avoidance, bodily collapse, denial, then exact self-condemning reasoning and a solitary plan | "全然平気!" typed to friends; politeness as a wall; childlike fragments inward | HIGH (V07 i0106–i0150; V08 i0022–i0047) | a friend who comes in person and asks about wanting, not money (V08 i0131–i0139) |
