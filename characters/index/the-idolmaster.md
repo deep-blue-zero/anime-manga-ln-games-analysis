@@ -538,8 +538,10 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `takagaki-kaede-mobile-game-audiovisual-addendum`: GAME OTHER: Targeted audiovisual validation of the mobile-game model: the 等身大の距離で, 夜風の誘い, Pretty Liar and Story Commu 4 scenes, the Mobage 聖夜の祝宴 card and an all-card compilation; revises the speech, relationship and longitudinal models and states a generative behavioral model. Not a corpus-wide phonetic audit; the 2015 television anime is excluded.; continuity `the-idolmaster-cinderella-girls-mobile-games`
   - `takagaki-kaede-mobile-game-corpus`: GAME OTHER: Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is representative only, and the 2015 television anime is excluded.; continuity `the-idolmaster-cinderella-girls-mobile-games`
 - Reviewed current evidence:
+  - [`takagaki-kaede-mobile-game-audiovisual-addendum` — Takagaki Kaede mobile-game audiovisual addendum](../../series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_TAKAGAKI_KAEDE_AUDIOVISUAL_ADDENDUM.md) — **active provisional authority**
   - [`takagaki-kaede-mobile-game-monograph` — Takagaki Kaede mobile-game character monograph](../../series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_TAKAGAKI_KAEDE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
   - [`takagaki-kaede-mobile-game-monograph-audit` — Takagaki Kaede mobile-game monograph audit](../../series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_TAKAGAKI_KAEDE_MONOGRAPH_AUDIT.md)
 
