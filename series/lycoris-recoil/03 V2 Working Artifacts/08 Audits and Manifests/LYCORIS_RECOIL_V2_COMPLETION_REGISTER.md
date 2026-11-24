@@ -4,6 +4,9 @@ generation: V2
 artifact_type: audit
 scope: completion transactions and release evidence
 status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
 ---
 
 # V2 completion register
@@ -222,7 +225,7 @@ The first Takina file reviewed was `4f20e69d6353b8a73b945f9a0f9f5970b6e257ac6add
 | Chisato | **PASS** on the transferred substantive text at `cdcc51eefa87208f7ab2c6de5f6aae749e53c60b749e7bf22004c6b0cfd34a0e`. `/root/critical` checked the independent initial and corrected exact manuscript against the anime source, all three prose books as relevant, Abe’s manga and credited contributor evidence. The final controlled cases include Chisato’s relationship with Mika and Yoshimatsu, E03 and E05 partner conduct, the E12 protective intervention and DA negotiation, separate written and received objects in E13, and the short evidence for speech and play. The receipt `03da0b212cdc6a8767fbd4536a2dfa5c111070cb622996156bda1ec3a80133a4` certifies the detailed findings and bounded source inspection. Integrator transfer preserved the body and added authority and evidence links. |
 | Takina | **PASS** on the independently inspected author successor `8f8584d58d2d0f651a09ea1cbe3899737eb421869b644ee2f0b3a2355e7b25cc` and the two clarified source attributions in the exact transferred file. `/root/critical` reopened representative anime action, actual interlocutors and Japanese print attributions, including the E02 deception, E06 advice, E07 human and technical roles, E13 reception and the distinction between Itō’s immediate action and the partners’ omissions. The fidelity receipt is `24339a8f2f24f90d51db62307704e8ffbc413de9032f0b179bb31d5ade678a34`. The two later clarifications are supported by the Japanese source at *Recovery days* S18.6 and *Gluttony days* 10.727–743. The accepted transfer SHA-256 `5cd5248cc55ea78e09752433ce00ddffa1166384d4e8096fc557716a5be78cf4` adds those exact references to the text independently read back above. The two reference-list additions account for the difference. Keep Clarisse’s spoken explanation and Takina’s inference separate. |
 
-The individual assessments and exact retrieval artifacts address the specialist-synthesis readiness requirement. The current assessment qualifies 19 other subjects for still-outstanding portraits and records 10 evidence-deferred subjects, with their reasons and review triggers. The character layer and the final synthesis gate remain open.
+At this checkpoint, the individual assessments and exact retrieval artifacts established lead readiness. The assessment qualified 19 other subjects for portraits and recorded 10 evidence-deferred subjects with review triggers. The later adoption below records the 19 completions.
 
 ## Proportionality expansion and source audit
 
@@ -353,12 +356,42 @@ The integrator also ran a mechanical check across the three works. On the final 
 
 Both individual monographs keep `COMPLETE_AT_BOUNDARY` in the [readiness record](LYCORIS_RECOIL_V2_CHARACTER_MONOGRAPH_READINESS.md), now on the revised portraits. The earlier acceptance above remains the record for the earlier text. None of these results establishes reconstruction readiness or a capability grade.
 
-### Remaining obligations
+### Obligations at the proportionality checkpoint
 
-The 19 qualified subjects in the readiness record still lack portraits. Several A2-local subjects now have fuller readings, including Kana, Doi, Tokuda, Itō, Mizukawa, Clarisse, Hikaru Akutsu and Madame.
+At this checkpoint the 19 qualified subjects still needed portraits. Several A2-local subjects now have fuller readings, including Kana, Doi, Tokuda, Itō, Mizukawa, Clarisse, Hikaru Akutsu and Madame.
 
 The operational reconstruction models and their independent validation remain open.
 
 Two A1 speaker attributions await a synchronized listener: E01 C0237 and E12 C0115.
 
 The character layer and the final synthesis gate remain open.
+
+## Reviewed portraits and V2 release
+
+The planned responsibilities above were recorded at intake. INT-01 was accepted against CP5. SYN-01 through SYN-05 and REC-01 through REC-02 now have separately retrievable deliverables. REL-01 carries the substantive closeout and manifest. The repository audit and integration status follow the exact head of [PR #712](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/712).
+
+The 19 new portraits passed independent source fidelity and a separate manuscript-only readback. The [current readiness record](LYCORIS_RECOIL_V2_CHARACTER_MONOGRAPH_READINESS.md) links all 21 completed portraits and preserves the deferred evidence conditions. The retained review receipts below can be requested from the project custodian for SHA-256 verification. Doi’s manuscript-only receipt is paired with the exact manuscript by the recorded handoff and the corrected details in the answers. The receipt body omits the manuscript checksum. The [manifest](LYCORIS_RECOIL_V2_CORPUS_MANIFEST.md) identifies the submitted bodies and the actual publication files.
+
+| Subject | Reviewed manuscript SHA-256 | Source-fidelity receipt SHA-256 | Manuscript-only receipt SHA-256 |
+|---|---|---|---|
+| [Mika](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_MIKA_CHARACTER_SYNTHESIS.md) | `838b233e2401b310c3d65d8df8fc835273777460574802e8f544ea98cb810a32` | `4b0db2f3f0050b086144b96e6d317604314cc092c3fe4cc37a0e8a34c3a28df4` | `5641894b7b26a091487fd0bb3f7286adf468ea11fa02e5d7be425a920386de6f` |
+| [Harukawa Fuki](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_FUKI_CHARACTER_SYNTHESIS.md) | `ce831648e88c8cc1aaa3e86a4c22bc600029091ff85cd0503a28074d8859e326` | `3fdc0d673102407509def4fe95aa25f538d4d3556a9ce26bd90e84a657165e26` | `db935ed9272b7a7410abf5b09d703580d484a4e9077590c1aa9e331f6aa044bf` |
+| [Nakahara Mizuki](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_MIZUKI_CHARACTER_SYNTHESIS.md) | `e834790471a112eb1cebc62a19bb7351b960621c111ff90d1e4f302cd54253af` | `7a0820020850ef4f308b4f5dcd0c9f5da3f02001ede90f4b103d3cee3ef84876` | `feabae99f6c1716e941c15e083d79fd18894fdb7a7a8ca768d5a5711ed3f0e97` |
+| [Kurumi / Walnut](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_KURUMI_CHARACTER_SYNTHESIS.md) | `3149d57857de37f206bd228a3be7cf6f22d89fae07fa8576a38307894d3e57fa` | `1b414b191fe3d81f19dc9e1a8e91880a25ea72f09b8d68743ba2aef094bbbbce` | `40ee50d12671e4f5c1c02737be95c67e9298bb16ae16f9db1436314ddbc09663` |
+| [Janome Erika](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_ERIKA_CHARACTER_SYNTHESIS.md) | `c907d930cbd1271fef9ff24939ed30c0d8dedd250bf0ccc2ea9ed03073dbebb3` | `f9abaa79b5eb9be056ab48cf2e6a82d8ce49091221662f62558056a9181eead8` | `b5d7fa0f20d285de4947ac7b6fe38af3e4916ab9069200bd661283c95f0d382b` |
+| [Otome Sakura](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_SAKURA_CHARACTER_SYNTHESIS.md) | `baf818b3eb647e036520c9e3db0fe40bfa42b290184c149a56673915a4120331` | `8204068fbbd624eb0dcdf643c9825b5aaf618560fb2bf99697979c384baab382` | `cad8e45cd2a991b326eb2b753644deefd6388aff541b548b056ef6033a367375` |
+| [Commander Kusunoki](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_KUSUNOKI_CHARACTER_SYNTHESIS.md) | `52b9ce2d7e0e695900afda578fe3389d068f479ad95c5b79cd440f84bb724f7e` | `038790b7452f187d103154ad2b3626743a95306f5635e58ff1c841c50efc3894` | `7943df19bd96369d5793ca7bfd5bed774639faa67dbd9f3ad4830de39819d7fa` |
+| [Majima](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_MAJIMA_CHARACTER_SYNTHESIS.md) | `84eb1bf0fbb48165b6e4b56fc2d515f8deb98bc24acf82aa5e77d44908bb29c7` | `507e0e44654c1f616b34643802d924e39a066eac479a8cb672b0249233532c37` | `7968ab3b083dca559b51e91aa862d283adc10a5dfb60c773682fa79c2d8a0d05` |
+| [Shinji Yoshimatsu](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_YOSHIMATSU_CHARACTER_SYNTHESIS.md) | `689b7f4f7570e9303d788f6b7d19f6306d2ef050694653adc6ddbda2183e4942` | `8dfea5113510f605ff540bfad2a49e3c869c609bd3ceffa2cc9114db8fa5279e` | `568f1d068814ef4859fbd7d38fa01424552aec8f410c9f524300c43160afd7cf` |
+| [Robota](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_ROBOTA_CHARACTER_SYNTHESIS.md) | `380f8a1437646c38d75e38bb354a55df497925dff255ddf143c175a9d653e554` | `b0628dfbcd82eba1b8c3c1208630737202ac6a98657b79fc1e1f43f9f66d98bd` | `eac7ad34602145da96152dd1e353966315786c25c9b7cd8941c6bd0ce26594f0` |
+| [Detective Abe](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_DETECTIVE_ABE_CHARACTER_SYNTHESIS.md) | `8d5720da0415e77b0b30636e5dae802acda16ff87cb72a33262e4f79182c4254` | `4e5fb98205f4dc2763711c4c9d9ebc5ecd44b619c5edcc84ae2e033b51f78faa` | `d88f4d46d76fa146f49e533b649321accc249dbe362b7af2f194fbcad4d8ac96` |
+| [Kana](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_KANA_CHARACTER_SYNTHESIS.md) | `f8bf86ff5c5e92aeebd4d55d455ff5e9b0fa8d4b7f025190b24e41d7b0415102` | `34369c45319ae0217dd9f03a03171aae61e6c221b449c23796d4a906c801432a` | `449e6373f2f2366c86ee7bf0e99af706a30ff28876edf33eae3cb198ef7a7402` |
+| [Yoshiharu Doi](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_DOI_CHARACTER_SYNTHESIS.md) | `76000d147b510fa570727e3acd2f9752b0f3f65379d3ffd5776f2a5d80ac0f17` | `10f63ccd6ab80f66cdf8fdefe4d5bf337bd8229d3c2ed9a254ae04eb00cff752` | `16f25758897344d413a2bb09a9c5134b267ce2b26345b8eb20b4fe3d65939f1a` |
+| [Kazuhiko Tokuda](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_TOKUDA_CHARACTER_SYNTHESIS.md) | `e25eaffe823b433918f187462316a579eb41be3251ff74f6a27df42b32782645` | `71b01121ecf15eb39223330d09dc9ac20986ed85635dbc813d866257243e9ce5` | `497ae4be75e083fac29dee20be4e139d3f8e605738ed1d64ed17e6a0dae39858` |
+| [Itō](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_ITO_CHARACTER_SYNTHESIS.md) | `16b6cea1d5b205eb13bd1a373931cd4062416786f9890043703c261814a0259c` | `fe2ca59820390a9fbd6a45d985074db2b9839f6c16a6825520d49736576f8e0e` | `47942cf7a89fc0b6987b1e79b77130e109936214f2279fdf95218edd0beefb44` |
+| [Kōsuke Mizukawa](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_MIZUKAWA_CHARACTER_SYNTHESIS.md) | `f6c0fa8e6a0c8fdec2f85eea28ce973c4e983650a4589be87681d689920e389d` | `b814932f94b98c571114ebbdd84c60e7ff28ab71307b65d32021513e54949cb4` | `7e061cae1ea66192692b879c48bf57c363019d8b31a453f95814f188949b352f` |
+| [Clarisse Akutsu](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_CLARISSE_CHARACTER_SYNTHESIS.md) | `0cb02b469419a8457c02892ec69c014b1ae37f81c64ad78c9b25eeff2a84cfb5` | `51212da0dfff8ae3ac39fefa9ec6710bff448b4dc9d4240f4ec1df5a2e126a2b` | `a85bc787796d6d5cf0a1ebebc86b1ed652b79558bc4882a9cbcf835c57a15e27` |
+| [Hikaru Akutsu](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_HIKARU_AKUTSU_CHARACTER_SYNTHESIS.md) | `60fd2da2208aad9773063d904d2c643624bc3eb1bb3cb8edb0ecde365ec98595` | `133caa0f4ac69256a0273d27b7698b687d6aa46999a93caae3739b6fe927a03a` | `20ad6ca6e45c3429daa0850e592dace288485db17db209d3619ed9d6823dc503` |
+| [Madame](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_MADAME_CHARACTER_SYNTHESIS.md) | `20ef88b1473ff54867e0264f339727dee91d3f574f164ceb8f3e173c6102fcd4` | `2ee0532cedae8176901018e6acdbc86bfd2843575e9ad237bfc4c9d329ba43a2` | `f0a2c53d376dcd63d5bd9cf759ea50848a3180f99c32a862bb65431b89c110db` |
+
+The [integrated study](../05%20Specialist%20Synthesis/LYCORIS_RECOIL_V2_INTEGRATED_SYNTHESIS.md) links the six specialist studies, two operational reconstructions and [frozen evaluation summary](LYCORIS_RECOIL_WITHHELD_RECONSTRUCTION_EVALUATION.md). The adopted models are later than the tested versions. The first scores and native checkpoints are preserved. Precise source ownership for E05, E06 and E08 follows [the attributed TV recheck](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/SOURCE_RECHECK_E05_E06_E08.md). The [final QC report](LYCORIS_RECOIL_V2_FINAL_QC_AND_INTEGRITY_REPORT.md) records all fourteen gates and the remaining evidence limits. Future animated intake requires an owner-authorized run and source classification.

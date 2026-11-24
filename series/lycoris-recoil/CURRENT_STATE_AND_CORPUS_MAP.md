@@ -19,7 +19,7 @@ last_updated: '2026-11-23'
 ## First-read instruction
 
 
-This is the canonical first-read entrypoint for the active *Lycoris Recoil* analytical corpus.
+This is the canonical first-read entrypoint for the *Lycoris Recoil* V2 analytical corpus.
 
 
 Open this file first when resuming the project in a new chat or tool session. It determines current authority, active generation, source boundary, initialization state, completed work, and the next canonical operation.
@@ -36,6 +36,8 @@ Open this file first when resuming the project in a new chat or tool session. It
 For current use of E01–E13 claims, consult the [TV audiovisual reconciliation](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/README.md) alongside the frozen episode readings. Its matrix distinguishes corrections to V2 from limits on the independent Gemini account. Material refinements concern Erika’s request and Saori’s exposure, Chisato’s protection of Yoshimatsu, the E12 wound and heart evidence, and Majima’s E13 comparison with Takina. The [original dispatch register](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/DISPUTES.md) identifies the voice, motion and synchronization claims sent for review. The [22 November verifier return](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/VERIFIER_RETURN_20261122.md) gives the current dispositions of the twenty disputed questions, including Takina’s first visible island shot, the ending-song measurements and narrower Japanese-text referrals. This retrospective assessment adds no prospective source unit. At the time of the TV return, Short 02 was next. See the current sequential boundary below.
 
 The [23 November source recheck](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/SOURCE_RECHECK_20261123.md) governs the E04 appraisal, the E12 withdrawal and resumption of command, and the two recipients in E13’s farewell sequence. The specific findings qualify the current ledgers without changing the frozen source boundary.
+
+The later [E05/E06/E08 attribution recheck](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/SOURCE_RECHECK_E05_E06_E08.md) qualifies the alibi, accountability, and café assignments. Its named speakers and cue limits control current use alongside the earlier TV rulings.
 
 ## Retrospective shorts audiovisual reconciliation
 
@@ -79,6 +81,23 @@ The principal integrator owns canonical rulings and shared-file writes. Separate
 ## Current V2 authorities
 
 
+Use the following V2 routes after checking the evidence horizon and source class.
+
+- [Integrated V2 study](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_V2_INTEGRATED_SYNTHESIS.md)
+- [21 character monographs and evidence limits](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_CHARACTER_MONOGRAPH_READINESS.md)
+- [Chisato operational reconstruction](03%20V2%20Working%20Artifacts/04%20Character%20Reconstruction/LYCORIS_RECOIL_CHISATO_OPERATIONAL_RECONSTRUCTION.md)
+- [Takina operational reconstruction](03%20V2%20Working%20Artifacts/04%20Character%20Reconstruction/LYCORIS_RECOIL_TAKINA_OPERATIONAL_RECONSTRUCTION.md)
+- [Withheld evaluation](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_WITHHELD_RECONSTRUCTION_EVALUATION.md)
+- [DA, Lycoris and LilyBell](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_DA_LYCORIS_LILYBELL_INSTITUTIONAL_LEGITIMACY.md)
+- [Alan and assigned purpose](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_ALAN_YOSHIMATSU_AND_ASSIGNED_PURPOSE.md)
+- [Café labor and ordinary life](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CAFE_LYCORECO_ORDINARY_LIFE.md)
+- [Violence and action ethics](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_VIOLENCE_NONLETHALITY_AND_ACTION_ETHICS.md)
+- [Japanese voice, performance and music](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_JAPANESE_VOICE_PERFORMANCE_AND_MUSIC_DRAMATURGY.md)
+- [Visual action and cinematography](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_VISUAL_ACTION_CINEMATOGRAPHY.md)
+- [Corpus manifest](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_CORPUS_MANIFEST.md)
+- [Final QC report](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_FINAL_QC_AND_INTEGRITY_REPORT.md)
+
+
 - Synthesis/corpus architecture:
   - `LYCORIS_RECOIL_V2_SYNTHESIS_ARCHITECTURE.md`
   - Drive ID: `1Y1rXv7vr5JgaVmWedJck3KjEsxrdBYJx`
@@ -115,7 +134,7 @@ The principal integrator owns canonical rulings and shared-file writes. Separate
 - Current integrated evidence: [cross-source comparisons](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) and [character reconstruction evidence matrix](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md).
 - Current literary syntheses: [Chisato](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_CHARACTER_SYNTHESIS.md), [Takina](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_TAKINA_CHARACTER_SYNTHESIS.md) and the [Chisato–Takina relationship study](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_TAKINA_RELATIONSHIP_SYNTHESIS.md).
 - Current [monograph readiness](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_CHARACTER_MONOGRAPH_READINESS.md) records both acceptance checks for the central portraits and the additional qualified and deferred subjects.
-- Next operation: Complete the distinct operational models, independent validation, additional portraits and specialist syntheses. Phases E and F link to the twelve source-native readings.
+- Next source operation: none. The completed V2 run awaits an official animated source and a separately authorized intake. Phases E and F link to the twelve source-native readings.
 - Corpus-wide project initiation policy:
   - `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`
   - Drive ID: `1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC`
@@ -158,7 +177,7 @@ V1 remains historically authoritative for what the project previously concluded,
 # 2. Project state
 
 
-- Status: **V2 / CP5 FROZEN / CROSS-SOURCE COMPARISONS ACCEPTED / SPECIALIST SYNTHESIS IN PROGRESS**
+- Status: **V2 ANALYSIS COMPLETED / CP5 FROZEN / AWAITING THE NEXT AUTHORIZED ANIMATED SOURCE**
 - Active analytical generation: **V2**
 - V2 architecture: **CANONICAL**
 - V2 analytical method: **CANONICAL**
@@ -172,7 +191,7 @@ V1 remains historically authoritative for what the project previously concluded,
 - Recollect: **Both B1 source-native readings accepted**.
 - Anthologies: **All seven C1 source-native readings accepted**, with 89 individually credited comic entries.
 - V1→V2 claim audit: **162 attributable transitions through Short 06**.
-- Current full-series V2 synthesis gate: **CLOSED**
+- Current full-series V2 synthesis gate: **ANALYSIS COMPLETE / RELEASE THROUGH EXACT-HEAD INTEGRATION**
 - Sequential-analysis lock: **OPEN**
 - E01 objective acoustic-performance backfill: **COMPLETE**
 - Direct perceptual voice-audition capability: **UNVERIFIED / NOT REQUIRED FOR CURRENT E01 LOAD-BEARING CLAIMS**
@@ -294,7 +313,7 @@ Current architecture class:
 `C1_MULTI_AUTHOR_LICENSED_INTERPRETATION`
 
 
-Anthology evidence will be analyzed contributor-by-contributor and cannot by itself revise a high-confidence anime-native behavioral rule.
+The accepted anthologies are analyzed contributor by contributor. Those comparisons preserve the evidence threshold for revising a high-confidence anime-native behavioral rule.
 
 
 ## Official production reference
@@ -543,13 +562,13 @@ Read:
 
 The [crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) records A2 focalization and conduct, B1 comparisons from both *Recollect* volumes, and all 89 C1 contributor entries. The [evidence matrix](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md) pairs those comparisons with the anime development state, current knowledge, interlocutor and stakes. [The integration transaction](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_COMPLETION_REGISTER.md#cross-source-integration-against-cp5) records the independent checks and their limits.
 
-The monographs of [Chisato](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_CHARACTER_SYNTHESIS.md) and [Takina](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_TAKINA_CHARACTER_SYNTHESIS.md) and the [Chisato–Takina relationship study](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_TAKINA_RELATIONSHIP_SYNTHESIS.md) are accepted. The [monograph readiness record](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_CHARACTER_MONOGRAPH_READINESS.md) lists every pending portrait obligation under the current assessment. The integrated operational models, independent validation and other specialist syntheses are in progress.
+The monographs of [Chisato](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_CHARACTER_SYNTHESIS.md) and [Takina](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_TAKINA_CHARACTER_SYNTHESIS.md) and the [Chisato–Takina relationship study](03%20V2%20Working%20Artifacts/05%20Specialist%20Synthesis/LYCORIS_RECOIL_CHISATO_TAKINA_RELATIONSHIP_SYNTHESIS.md) are accepted. The [monograph readiness record](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_CHARACTER_MONOGRAPH_READINESS.md) links all 21 completed portraits and identifies what evidence could reopen the deferred cases. The distinct models and specialist studies are linked in the current authorities above.
 
 
 ## Phase H — Full V2 integration and release
 
 
-Only after architecture release gates are satisfied.
+The [final quality-control report](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_FINAL_QC_AND_INTEGRITY_REPORT.md) records all fourteen gates. The [corpus manifest](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_CORPUS_MANIFEST.md) identifies the accepted sources and adopted analytical files. The release authority is the integrated result of [PR #712](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/712), after its exact-head repository audit.
 
 
 ---
@@ -654,7 +673,7 @@ Routine mechanical source/inventory operations may use lighter reasoning where p
 
 # 11. Current unresolved items
 
-The following are intentionally unresolved rather than corpus deficiencies:
+The following source limits remain in the completed analysis.
 
 - source-native short readings are frozen through Short 06;
 - all six shorts have closed. `CP5_ANIME_NATIVE_FINAL` preserves the pre-supplement A1 reconstruction;
@@ -663,7 +682,7 @@ The following are intentionally unresolved rather than corpus deficiencies:
 - exact Mika→Yoshimatsu lethal mechanics remain intentionally off-screen; current authority is direct armed protective confrontation + later Yoshimatsu death/heart retrieval, not an invented visible trigger pull;
 - Hawaii travel/passport mechanics and any ordinary civic-status normalization remain unexplained; E02 civic exclusion is pressured but not erased;
 - Majima, loose firearms, DA secrecy/accountability, and broader political legitimacy remain unresolved at the TV endpoint;
-- the source comparisons are accepted. The operational limits for each character, some source-specific contradictions and the prospective validation of integrated predictions remain open;
+- the source comparisons are accepted. The model limits, source-specific contradictions and bound on transfer are recorded in the operational studies and the withheld evaluation;
 - main Bizen adaptation remains optional/outside the mandatory source boundary.
 
 ---
@@ -733,9 +752,11 @@ project_initialization:
 
 # 13. Current canonical operation
 
+No current-corpus analysis or new source admission is pending. The branch uses the existing legacy admission route for the print readings in the same publication transaction. Record structured run completion only after those readings are integrated on main. When a new animated project has been officially released, verify the edition and access, obtain owner authorization, classify its continuity and authority, and record whether it extends V2 or requires a new generation. Start no sequential intake before recording the authorized source scope and new run boundary.
+
 The [V2 completion register](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_COMPLETION_REGISTER.md) records the starting authority, per-volume responsibilities and evidence required for final release.
 
-The [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) and [evidence matrix](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md) now govern comparative attribution. They route the evidence for the current literary studies and the operational models in progress. Open listener referrals and chronology limits remain part of the CP5 evidence record.
+The [cross-source crosswalk](03%20V2%20Working%20Artifacts/06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) and [evidence matrix](03%20V2%20Working%20Artifacts/07%20Evidence%20and%20Indexes/LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md) now govern comparative attribution. They route the evidence for the current literary studies and operational models. Open listener referrals and chronology limits remain part of the CP5 evidence record.
 
 The 23 November proportionality expansion and source audit is integrated on this branch; the [completion register](03%20V2%20Working%20Artifacts/08%20Audits%20and%20Manifests/LYCORIS_RECOIL_V2_COMPLETION_REGISTER.md#proportionality-expansion-and-source-audit) lists what it leaves open.
 
@@ -760,4 +781,4 @@ When resuming:
 
 # 15. Governing current-state statement
 
-The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The three novels, both *Recollect* volumes and seven anthologies have 12 accepted source-native readings. The *Heroine Archive* has a separately attributed production-reference record. The accepted cross-source comparisons distinguish the A2, B1 and C1 layers and preserve CP5 as the anime-native evidence boundary. On 23 November the five novel and *Recollect* readings were expanded by multi-agent reread, every admitted source family was audited, and the lead syntheses were expanded and re-accepted. The full-series synthesis and integrated reconstruction release remain in progress.
+The frozen A1 source horizon is TV E01–E13 plus Shorts 01–06. The three novels, both *Recollect* volumes and seven anthologies have 12 accepted source-native readings. The *Heroine Archive* has a separately attributed production-reference record. The accepted cross-source comparisons distinguish the A2, B1 and C1 layers and preserve CP5 as the anime-native evidence boundary. On 23 November the five novel and *Recollect* readings were expanded by multi-agent reread, every admitted source family was audited, and the lead syntheses were expanded and re-accepted. The full-series study and the distinct operational reconstructions complete the analytical work for these sources. The governance lock remains available for a later authorized run.
