@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 240; `STALE` 1; `SUPERSEDED` 38
+- Recorded totals: `CANDIDATE` 240; `STALE` 1; `SUPERSEDED` 42
 
 ## Namespaces
 
@@ -25,7 +25,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`ascendance-of-a-bookworm`](reconstruction_index/ascendance-of-a-bookworm.md) | 1 | 1 |
 | [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
 | [`azur-lane`](reconstruction_index/azur-lane.md) | 5 | 5 |
-| [`blue-archive`](reconstruction_index/blue-archive.md) | 4 | 4 |
+| [`blue-archive`](reconstruction_index/blue-archive.md) | 4 | 5 |
 | [`chiramune`](reconstruction_index/chiramune.md) | 4 | 4 |
 | [`classroom-of-the-elite`](reconstruction_index/classroom-of-the-elite.md) | 3 | 3 |
 | [`cornered-mouse`](reconstruction_index/cornered-mouse.md) | 4 | 4 |
@@ -50,20 +50,20 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`oreimo`](reconstruction_index/oreimo.md) | 2 | 2 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
 | [`project-sekai`](reconstruction_index/project-sekai.md) | 9 | 10 |
-| [`re-zero`](reconstruction_index/re-zero.md) | 21 | 25 |
+| [`re-zero`](reconstruction_index/re-zero.md) | 21 | 26 |
 | [`rent-a-girlfriend`](reconstruction_index/rent-a-girlfriend.md) | 1 | 1 |
 | [`sayonara-lara`](reconstruction_index/sayonara-lara.md) | 1 | 1 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 3 | 3 |
 | [`shine-post`](reconstruction_index/shine-post.md) | 3 | 3 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 17 | 17 |
-| [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
+| [`shuukura`](reconstruction_index/shuukura.md) | 1 | 3 |
 | [`silent-witch`](reconstruction_index/silent-witch.md) | 4 | 4 |
 | [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
 | [`sound-euphonium`](reconstruction_index/sound-euphonium.md) | 1 | 1 |
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 2 | 2 |
 | [`three-days-of-happiness`](reconstruction_index/three-days-of-happiness.md) | 5 | 5 |
 | [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 2 | 2 |
-| [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 9 | 18 |
+| [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 9 | 19 |
 | [`tomozaki`](reconstruction_index/tomozaki.md) | 18 | 22 |
 | [`wuthering-waves`](reconstruction_index/wuthering-waves.md) | 2 | 2 |
 | [`yuru-camp`](reconstruction_index/yuru-camp.md) | 3 | 3 |
@@ -98,7 +98,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `blue-archive:aru@game` | [`blue-archive-aru-game-c001-distributed-20261024-01`](reconstruction_index/blue-archive.md#blue-archive-aru-game-c001-distributed-20261024-01) | `CANDIDATE` | `E` | `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` |
 | `blue-archive:kokuriko@game` | [`blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01`](reconstruction_index/blue-archive.md#blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01) | `CANDIDATE` | `E` | `0f3b661d66455030cb663d9486a11879f0911cf9` |
 | `blue-archive:midori@game` | [`blue-archive-midori-game-pavane-monograph-20261123-01`](reconstruction_index/blue-archive.md#blue-archive-midori-game-pavane-monograph-20261123-01) | `CANDIDATE` | `C` | `85301d53c984037162f87145ae571879a0ce8794` |
-| `blue-archive:prenapates@game` | [`blue-archive-prenapates-game-character-monograph-20261106-01`](reconstruction_index/blue-archive.md#blue-archive-prenapates-game-character-monograph-20261106-01) | `CANDIDATE` | `E` | `1ec6a88d6120d2e28a07c5e99a809ab985f67302` |
+| `blue-archive:prenapates@game` | [`blue-archive-prenapates-game-character-monograph-20261124-01`](reconstruction_index/blue-archive.md#blue-archive-prenapates-game-character-monograph-20261124-01) | `CANDIDATE` | `E` | `4e7e052152666f2e967e2b9049331905a7fb4c12` |
+| `blue-archive:prenapates@game` | [`blue-archive-prenapates-game-character-monograph-20261106-01`](reconstruction_index/blue-archive.md#blue-archive-prenapates-game-character-monograph-20261106-01) | `SUPERSEDED` | `E` | `1ec6a88d6120d2e28a07c5e99a809ab985f67302` |
 | `chiramune:asuka-nishino@light-novel` | [`chiramune-asuka-nishino-light-novel-asuka-monograph-20261117-01`](reconstruction_index/chiramune.md#chiramune-asuka-nishino-light-novel-asuka-monograph-20261117-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
 | `chiramune:haru-aomi@light-novel` | [`chiramune-haru-aomi-light-novel-haru-monograph-20261117-01`](reconstruction_index/chiramune.md#chiramune-haru-aomi-light-novel-haru-monograph-20261117-01) | `CANDIDATE` | `B` | `1659818b852648bdfa7718154049877130c981eb` |
 | `chiramune:yua-uchida@light-novel` | [`chiramune-yua-uchida-light-novel-yua-monograph-20261115-01`](reconstruction_index/chiramune.md#chiramune-yua-uchida-light-novel-yua-monograph-20261115-01) | `CANDIDATE` | `C` | `7d8ece76cbefeea3eb1d7cd02d4ca99e41966d4a` |
@@ -253,7 +254,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `re-zero:priscilla-barielle@light-novel` | [`re-zero-priscilla-barielle-ln-v01-v18-model-20261028-01`](reconstruction_index/re-zero.md#re-zero-priscilla-barielle-ln-v01-v18-model-20261028-01) | `CANDIDATE` | `C` | `2c4dee68a5be9dd7a4f14ec83028b9a9c4a6f83e` |
 | `re-zero:ram@light-novel` | [`re-zero-ram-ln-v01-v25-model-20261118-01`](reconstruction_index/re-zero.md#re-zero-ram-ln-v01-v25-model-20261118-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `re-zero:ram@light-novel` | [`re-zero-ram-ln-v01-v15-model-20261029-01`](reconstruction_index/re-zero.md#re-zero-ram-ln-v01-v15-model-20261029-01) | `SUPERSEDED` | `C` | `057a9b65f94da293f9eda5a5cefd11568839a094` |
-| `re-zero:reala-thompson@light-novel` | [`re-zero-reala-thompson-ln-v01-v21-model-20261102-01`](reconstruction_index/re-zero.md#re-zero-reala-thompson-ln-v01-v21-model-20261102-01) | `CANDIDATE` | `C` | `1e97b80e68c064c65263e1f3322b4544ee499500` |
+| `re-zero:reala-thompson@light-novel` | [`re-zero-reala-thompson-ln-v01-v21-model-20261124-01`](reconstruction_index/re-zero.md#re-zero-reala-thompson-ln-v01-v21-model-20261124-01) | `CANDIDATE` | `C` | `4e7e052152666f2e967e2b9049331905a7fb4c12` |
+| `re-zero:reala-thompson@light-novel` | [`re-zero-reala-thompson-ln-v01-v21-model-20261102-01`](reconstruction_index/re-zero.md#re-zero-reala-thompson-ln-v01-v21-model-20261102-01) | `SUPERSEDED` | `C` | `1e97b80e68c064c65263e1f3322b4544ee499500` |
 | `re-zero:regulus-corneas@light-novel` | [`re-zero-regulus-corneas-ln-v01-v19-model-20261027-01`](reconstruction_index/re-zero.md#re-zero-regulus-corneas-ln-v01-v19-model-20261027-01) | `CANDIDATE` | `C` | `70efdcaf6ace3fd53fd94fb9c082c4abe9808fd1` |
 | `re-zero:reid-astrea@light-novel` | [`re-zero-reid-astrea-ln-v22-v24-manifested-model-20261107-01`](reconstruction_index/re-zero.md#re-zero-reid-astrea-ln-v22-v24-manifested-model-20261107-01) | `CANDIDATE` | `C` | `141711495d1fc86a86c6db882e6e734ad9efc91e` |
 | `re-zero:shaula@light-novel` | [`re-zero-shaula-ln-v21-v25-model-20261119-01`](reconstruction_index/re-zero.md#re-zero-shaula-ln-v21-v25-model-20261119-01) | `CANDIDATE` | `B` | `aa9c2916aef0012c7456781bd68cc15b738e5e6d` |
@@ -287,8 +289,9 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `shokugeki-no-soma:tsukasa-eishi@manga` | [`shokugeki-no-soma-tsukasa-eishi-manga-v2-model-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-tsukasa-eishi-manga-v2-model-20261119-01) | `CANDIDATE` | `B` | `510efb922655cc94f14d6d2e431e4c38b932a099` |
 | `shokugeki-no-soma:yukihira-joichiro@manga` | [`shokugeki-no-soma-yukihira-joichiro-manga-v2-monograph-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-yukihira-joichiro-manga-v2-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `shokugeki-no-soma:yukihira-soma@manga` | [`shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01) | `CANDIDATE` | `B` | `4d83b32a8ef03b3e109e261b32151b737f58fdf3` |
-| `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-ln10-20261031-01) | `CANDIDATE` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
+| `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-ln10-20261124-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-ln10-20261124-01) | `CANDIDATE` | `E` | `4e7e052152666f2e967e2b9049331905a7fb4c12` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-20261021-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-20261021-01) | `SUPERSEDED` | `E` | `036ed43f1d2a974b5351429792bae2c733e577db` |
+| `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-ln10-20261031-01) | `SUPERSEDED` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
 | `silent-witch:cyril-ashley@light-novel` | [`silent-witch-cyril-ashley-ln-v01-v12-monograph-20261118-01`](reconstruction_index/silent-witch.md#silent-witch-cyril-ashley-ln-v01-v12-monograph-20261118-01) | `CANDIDATE` | `B` | `e6f79b7ae8e86c2b0c04ebda19f756486a13e87e` |
 | `silent-witch:isaac-walker@light-novel` | [`silent-witch-isaac-walker-ln-v01-v12-monograph-20261118-01`](reconstruction_index/silent-witch.md#silent-witch-isaac-walker-ln-v01-v12-monograph-20261118-01) | `CANDIDATE` | `B` | `e6f79b7ae8e86c2b0c04ebda19f756486a13e87e` |
 | `silent-witch:louis-miller@light-novel` | [`silent-witch-louis-miller-ln-v01-v12-monograph-20261118-01`](reconstruction_index/silent-witch.md#silent-witch-louis-miller-ln-v01-v12-monograph-20261118-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
@@ -306,7 +309,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `three-days-of-happiness:substitute-watcher@original-novel` | [`three-days-of-happiness-substitute-watcher-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-substitute-watcher-original-novel-monograph-20261119-01) | `CANDIDATE` | `E` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `to-be-hero-x:queen@animated-series` | [`to-be-hero-x-queen-animated-series-specialist-09-20261122-01`](reconstruction_index/to-be-hero-x.md#to-be-hero-x-queen-animated-series-specialist-09-20261122-01) | `CANDIDATE` | `C` | `38adfd7641eb51ac75f475b3e81edd1f65ab11b8` |
 | `to-be-hero-x:x@animated-series` | [`to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01`](reconstruction_index/to-be-hero-x.md#to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01) | `CANDIDATE` | `E` | `f79e49071be39667e2fc5d5be5a5f3e9ae503589` |
-| `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01) | `CANDIDATE` | `E` | `2127e8fa66a1fed340e733fdca0f8b39d131bdc0` |
+| `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261124-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261124-01) | `CANDIDATE` | `E` | `4e7e052152666f2e967e2b9049331905a7fb4c12` |
+| `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01) | `SUPERSEDED` | `E` | `2127e8fa66a1fed340e733fdca0f8b39d131bdc0` |
 | `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01) | `SUPERSEDED` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
 | `tokyo-7th-sisters:araki-rena@game` | [`tokyo-7th-sisters-araki-rena-game-b0199-b0232-b0239-b0248-b0250-b0251-b0255-portfolio-20261107-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-araki-rena-game-b0199-b0232-b0239-b0248-b0250-b0251-b0255-portfolio-20261107-01) | `CANDIDATE` | `E` | `324f59ddda9d0e63580561945794502da259d0ea` |
 | `tokyo-7th-sisters:araki-rena@game` | [`tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01) | `SUPERSEDED` | `E` | `6cab13c6799a7f6488fabbdef96804643979de08` |
