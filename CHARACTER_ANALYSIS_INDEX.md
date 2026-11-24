@@ -32,7 +32,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`kimishinu`](characters/index/kimishinu.md) | 3 |
 | [`konosuba`](characters/index/konosuba.md) | 137 |
 | [`legend-of-the-galactic-heroes`](characters/index/legend-of-the-galactic-heroes.md) | 2 |
-| [`lycoris-recoil`](characters/index/lycoris-recoil.md) | 2 |
+| [`lycoris-recoil`](characters/index/lycoris-recoil.md) | 21 |
 | [`maebashi-witches`](characters/index/maebashi-witches.md) | 7 |
 | [`mass-effect`](characters/index/mass-effect.md) | 2 |
 | [`medalist`](characters/index/medalist.md) | 2 |
@@ -68,6 +68,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | Character | Subject | Analysis subject ID | Aliases |
 | --- | --- | --- | --- |
 | [A-Hu](characters/index/to-be-hero-x.md#a-hu) | To Be Hero X animated series | `to-be-hero-x:a-hu@animated-series` | — |
+| [Abe](characters/index/lycoris-recoil.md#abe) | Lycoris Recoil television anime | `lycoris-recoil:abe@television-anime` | — |
 | [Aemeath](characters/index/wuthering-waves.md#aemeath) | Wuthering Waves game | `wuthering-waves:aemeath@game` | — |
 | [Aigis](characters/index/konosuba.md#aigis) | Original light-novel continuity, scoped current monograph | `konosuba:aigis@original-light-novel` | アイギス |
 | [Airi](characters/index/shiboyugi.md#airi) | Japanese light-novel continuity | `shiboyugi:airi@light-novel` | 一瀬藍里; 藍里; Hitose Airi |
@@ -78,6 +79,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Akimi Sakura](characters/index/oreimo.md#akimi-sakura) | Oreimo original light novels | `oreimo:akimi-sakura@original-light-novels` | — |
 | [Akito](characters/index/project-sekai.md#akito) | Project SEKAI game — Vivid BAD SQUAD | `project-sekai:akito@game` | — |
 | [Ako](characters/index/blue-archive.md#ako) | Blue Archive game | `blue-archive:ako@game` | — |
+| [Akutsu Hikaru](characters/index/lycoris-recoil.md#akutsu-hikaru) | Lycoris Recoil novels (Asaura) | `lycoris-recoil:akutsu-hikaru@novels` | Hikaru Akutsu; 阿久津ヒカル |
 | [Alderp](characters/index/konosuba.md#alderp) | Original light-novel continuity, scoped current monograph | `konosuba:alderp@original-light-novel` | アレクセイ・バーネス・アルダープ |
 | [Aldini Takumi](characters/index/shokugeki-no-soma.md#aldini-takumi) | Shokugeki no Soma manga | `shokugeki-no-soma:aldini-takumi@manga` | — |
 | [Alessandra Susu](characters/index/tokyo-7th-sisters.md#alessandra-susu) | Tokyo 7th Sisters game | `tokyo-7th-sisters:alessandra-susu@game` | — |
@@ -156,6 +158,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Cian](characters/index/harmony.md#kian) | Original Japanese novel continuity | `harmony:kian@original-novel` | Kian |
 | [Cielo](characters/index/konosuba.md#cielo) | Fantastic Days novelization, bounded character study | `konosuba:cielo@fantastic-days-novelization` | シエロ |
 | [Claire](characters/index/konosuba.md#claire) | Original light-novel continuity, bounded character study | `konosuba:claire@original-light-novel` | クレア |
+| [Clarisse Akutsu](characters/index/lycoris-recoil.md#clarisse-akutsu) | Lycoris Recoil novels (Asaura) | `lycoris-recoil:clarisse-akutsu@novels` | クラリス・アクツ |
 | [Clavis Shepherd](characters/index/genocidal-organ.md#clavis-shepherd) | Original novel, bounded comparative ethics | `genocidal-organ:clavis-shepherd@original-novel` | — |
 | [Cliff Grimoire](characters/index/mushoku-tensei.md#cliff) | Japanese light-novel continuity | `mushoku-tensei:cliff@light-novel` | — |
 | [Commander Shepard](characters/index/mass-effect.md#commander-shepard) | Paragon Shepard player archetype | `mass-effect:commander-shepard@paragon-player-archetype` | Paragon Shepard |
@@ -175,6 +178,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Denia](characters/index/wuthering-waves.md#denia) | Wuthering Waves game | `wuthering-waves:denia@game` | — |
 | [Destroyer scientist](characters/index/konosuba.md#destroyer-scientist) | Original light-novel continuity, bounded character study | `konosuba:destroyer-scientist@original-light-novel` | — |
 | [Dodonko](characters/index/konosuba.md#dodonko) | Original light-novel continuity, scoped current monograph | `konosuba:dodonko@original-light-novel` | どどんこ |
+| [Doi Yoshiharu](characters/index/lycoris-recoil.md#doi-yoshiharu) | Lycoris Recoil novels (Asaura) | `lycoris-recoil:doi-yoshiharu@novels` | Yoshiharu Doi; 土井善晴 |
 | [Doreck](characters/index/konosuba.md#doreck) | Original light-novel continuity, bounded expanded cohort | `konosuba:doreck@original-light-novel` | ドレック |
 | [Dragon Boy](characters/index/to-be-hero-x.md#dragon-boy) | To Be Hero X animated series | `to-be-hero-x:dragon-boy@animated-series` | — |
 | [Duke](characters/index/konosuba.md#duke) | Original light-novel continuity, bounded expanded cohort | `konosuba:duke@original-light-novel` | デューク |
@@ -246,6 +250,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Haru Aomi](characters/index/chiramune.md#haru-aomi) | Chiramune light novel | `chiramune:haru-aomi@light-novel` | — |
 | [Haruka](characters/index/blue-archive.md#haruka) | Blue Archive game | `blue-archive:haruka@game` | — |
 | [Haruka](characters/index/project-sekai.md#haruka) | Project SEKAI game — MORE MORE JUMP! | `project-sekai:haruka@game` | — |
+| [Harukawa Fuki](characters/index/lycoris-recoil.md#harukawa-fuki) | Lycoris Recoil television anime | `lycoris-recoil:harukawa-fuki@television-anime` | — |
 | [Harumi Kajika](characters/index/tokyo-7th-sisters.md#harumi-kajika) | Tokyo 7th Sisters game | `tokyo-7th-sisters:harumi-kajika@game` | — |
 | [Harumi Sawara](characters/index/tokyo-7th-sisters.md#harumi-sawara) | Tokyo 7th Sisters game | `tokyo-7th-sisters:harumi-sawara@game` | — |
 | [Harumi Shinju](characters/index/tokyo-7th-sisters.md#harumi-shinju) | Tokyo 7th Sisters game | `tokyo-7th-sisters:harumi-shinju@game` | — |
@@ -291,15 +296,17 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Ikumi Mito](characters/index/shokugeki-no-soma.md#ikumi-mito) | Shokugeki no Soma manga | `shokugeki-no-soma:ikumi-mito@manga` | — |
 | [Imagase](characters/index/cornered-mouse.md#imagase) | Japanese manga continuity | `cornered-mouse:imagase@manga` | 今ヶ瀬渉 |
 | [Inori Yuitsuka](characters/index/medalist.md#inori-yuitsuka) | Japanese manga | `medalist:inori-yuitsuka@manga` | 結束いのり; Yuitsuka Inori |
-| [Inoue Takina](characters/index/lycoris-recoil.md#inoue-takina) | Lycoris Recoil television anime | `lycoris-recoil:inoue-takina@television-anime` | — |
+| [Inoue Takina](characters/index/lycoris-recoil.md#inoue-takina) | Lycoris Recoil television anime | `lycoris-recoil:inoue-takina@television-anime` | 井ノ上たきな |
 | [Inuyama Aoi](characters/index/yuru-camp.md#inuyama-aoi) | Japanese manga | `yuru-camp:inuyama-aoi@manga` | 犬山あおい |
 | [Iris](characters/index/konosuba.md#iris) | Original light-novel continuity, accepted Iris cohort 01 | `konosuba:iris@original-light-novel` | アイリス; イリス |
 | [Isaac Walker](characters/index/silent-witch.md#isaac-walker) | Silent Witch Japanese light novels | `silent-witch:isaac-walker@light-novel` | アイザック・ウォーカー; Felix Arc Ridill; Ike; フェリクス・アーク・リディル |
 | [Iseri Nina](characters/index/girls-band-cry.md#iseri-nina) | Girls Band Cry television anime | `girls-band-cry:iseri-nina@television-anime` | — |
 | [Ito Momiji](characters/index/shine-post.md#ito-momiji) | SHINE POST television anime | `shine-post:ito-momiji@television-anime` | — |
 | [Itsuki Hashima](characters/index/a-sisters-all-you-need.md#itsuki-hashima) | A Sister's All You Need original light novels through Volume 14 | `a-sisters-all-you-need:itsuki-hashima@original-light-novels` | 羽島伊月 |
+| [Itō](characters/index/lycoris-recoil.md#ito) | Lycoris Recoil novels (Asaura) | `lycoris-recoil:ito@novels` | 伊藤 |
 | [Iuno](characters/index/wuthering-waves.md#iuno) | Wuthering Waves game | `wuthering-waves:iuno@game` | — |
 | [Izumi Yuzu](characters/index/tomozaki.md#izumi-yuzu) | Bottom-Tier Character Tomozaki light novel | `tomozaki:izumi-yuzu@light-novel` | — |
+| [Janome Erika](characters/index/lycoris-recoil.md#janome-erika) | Lycoris Recoil television anime | `lycoris-recoil:janome-erika@television-anime` | — |
 | [Jean Kirstein](characters/index/attack-on-titan.md#jean-kirstein) | Attack on Titan manga | `attack-on-titan:jean-kirstein@manga` | — |
 | [Jeda Diamond](characters/index/tokyo-7th-sisters.md#jeda-diamond) | Tokyo 7th Sisters game | `tokyo-7th-sisters:jeda-diamond@game` | — |
 | [Jinhsi](characters/index/wuthering-waves.md#jinhsi) | Wuthering Waves game | `wuthering-waves:jinhsi@game` | — |
@@ -313,6 +320,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Kairi Okayasu](characters/index/peach-girl.md#okayasu-kairi) | Japanese manga | `peach-girl:okayasu-kairi@manga` | 岡安浬; Okayasu Kairi |
 | [Kaiser director](characters/index/blue-archive.md#kaiser-director) | Blue Archive game | `blue-archive:kaiser-director@game` | — |
 | [Kamishiro Sui](characters/index/tokyo-7th-sisters.md#kamishiro-sui) | Tokyo 7th Sisters game | `tokyo-7th-sisters:kamishiro-sui@game` | — |
+| [Kana](characters/index/lycoris-recoil.md#kana) | Lycoris Recoil novels (Asaura) | `lycoris-recoil:kana@novels` | 堅 香子; カナ |
 | [kana](characters/index/idoly-pride.md#kana) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:kana@v2-cross-media` | — |
 | [Kanade](characters/index/project-sekai.md#kanade) | Project SEKAI game — Nightcord at 25:00 | `project-sekai:kanade@game` | — |
 | [Kani Nayuta](characters/index/a-sisters-all-you-need.md#kani-nayuta) | A Sister's All You Need original light novels through Volume 6 | `a-sisters-all-you-need:kani-nayuta@original-light-novels-v01-v06` | 可児那由多 |
@@ -361,7 +369,9 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Kuribayashi](characters/index/rent-a-girlfriend.md#kuribayashi) | Main manga continuity | `rent-a-girlfriend:kuribayashi@manga` | — |
 | [Kurogane Ren](characters/index/shine-post.md#kurogane-ren) | SHINE POST television anime | `shine-post:kurogane-ren@television-anime` | — |
 | [Kurokiba Ryō](characters/index/shokugeki-no-soma.md#kurokiba-ryo) | Shokugeki no Soma manga | `shokugeki-no-soma:kurokiba-ryo@manga` | — |
+| [Kurumi](characters/index/lycoris-recoil.md#kurumi) | Lycoris Recoil television anime | `lycoris-recoil:kurumi@television-anime` | Walnut; ウォールナット; クルミ |
 | [Kurusu Kanako](characters/index/oreimo.md#kurusu-kanako) | Oreimo original light novels | `oreimo:kurusu-kanako@original-light-novels` | — |
+| [Kusunoki](characters/index/lycoris-recoil.md#kusunoki) | Lycoris Recoil television anime | `lycoris-recoil:kusunoki@television-anime` | 楠木 |
 | [Kusunoki](characters/index/three-days-of-happiness.md#kusunoki) | Three Days of Happiness original novel | `three-days-of-happiness:kusunoki@original-novel` | クスノキ |
 | [Kyara](characters/index/shiboyugi.md#kyara) | Japanese light-novel continuity | `shiboyugi:kyara@light-novel` | 伽羅 |
 | [Kyoichi Otomo](characters/index/cornered-mouse.md#kyoichi-otomo) | Japanese manga continuity | `cornered-mouse:kyoichi-otomo@manga` | 大伴恭一 |
@@ -394,6 +404,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Lutz](characters/index/ascendance-of-a-bookworm.md#lutz) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:lutz@light-novel` | — |
 | [Luuk Herssen](characters/index/wuthering-waves.md#luuk-herssen) | Wuthering Waves game | `wuthering-waves:luuk-herssen@game` | — |
 | [Lynae](characters/index/wuthering-waves.md#lynae) | Wuthering Waves game — playable Lynae | `wuthering-waves:lynae@game` | — |
+| [Madame](characters/index/lycoris-recoil.md#madame) | Lycoris Recoil novels (Asaura) | `lycoris-recoil:madame@novels` | — |
 | [Mafuyu](characters/index/project-sekai.md#mafuyu) | Project SEKAI game — Nightcord at 25:00 | `project-sekai:mafuyu@game` | — |
 | [Maguma](characters/index/shiboyugi.md#maguma) | Japanese light-novel continuity | `shiboyugi:maguma@light-novel` | 赭熊早百合; 真熊; Shaguma Sayuri |
 | [Mai](characters/index/maebashi-witches.md#mai) | Maebashi Witches anime | `maebashi-witches:mai@anime` | — |
@@ -402,6 +413,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Main 10 Elroad prosecutor](characters/index/konosuba.md#main10-elroad-prosecutor) | Original light-novel continuity, scoped current monograph | `konosuba:main10-elroad-prosecutor@original-light-novel` | — |
 | [Main 16 dungeon vampire owner](characters/index/konosuba.md#main16-dungeon-vampire-owner) | Original light-novel continuity, bounded source-specific study | `konosuba:main16-dungeon-vampire-owner@original-light-novel` | — |
 | [Main 7 Dustiness wedding guard](characters/index/konosuba.md#main07-dustiness-wedding-guard) | Original light-novel continuity, scoped current monograph | `konosuba:main07-dustiness-wedding-guard@original-light-novel` | — |
+| [Majima](characters/index/lycoris-recoil.md#majima) | Lycoris Recoil television anime | `lycoris-recoil:majima@television-anime` | — |
 | [Makino Kouhei](characters/index/idoly-pride.md#makino-kouhei) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:makino-kouhei@v2-cross-media` | — |
 | [Makishima Saori](characters/index/oreimo.md#makishima-saori) | Oreimo original light novels | `oreimo:makishima-saori@original-light-novels` | Saori Bajeena |
 | [Mami Nanami](characters/index/rent-a-girlfriend.md#mami-nanami) | Main manga continuity | `rent-a-girlfriend:mami-nanami@manga` | — |
@@ -420,6 +432,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Midori](characters/index/blue-archive.md#midori) | Blue Archive game | `blue-archive:midori@game` | — |
 | [Midoriya Izuku](characters/index/my-hero-academia.md#midoriya-izuku) | My Hero Academia manga | `my-hero-academia:midoriya-izuku@manga` | — |
 | [Mika](characters/index/blue-archive.md#mika) | Blue Archive game | `blue-archive:mika@game` | — |
+| [Mika](characters/index/lycoris-recoil.md#mika) | Lycoris Recoil television anime | `lycoris-recoil:mika@television-anime` | — |
 | [Mikasa Ackerman](characters/index/attack-on-titan.md#mikasa-ackerman) | Attack on Titan manga | `attack-on-titan:mikasa-ackerman@manga` | — |
 | [Mikoshiba Mai](characters/index/watayuri.md#mikoshiba-mai) | Japanese manga | `watayuri:mikoshiba-mai@manga` | Koshiba Mai; 小柴舞 |
 | [Mimi](characters/index/re-zero.md#mimi) | Re:Zero main light novel | `re-zero:mimi@light-novel` | ミミ |
@@ -433,6 +446,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Miyagi](characters/index/three-days-of-happiness.md#miyagi) | Three Days of Happiness original novel | `three-days-of-happiness:miyagi@original-novel` | ミヤギ |
 | [Miyako](characters/index/blue-archive.md#miyako) | Blue Archive game | `blue-archive:miyako@game` | — |
 | [Miyu](characters/index/blue-archive.md#miyu) | Blue Archive game | `blue-archive:miyu@game` | — |
+| [Mizukawa Kōsuke](characters/index/lycoris-recoil.md#mizukawa-kosuke) | Lycoris Recoil novels (Asaura) | `lycoris-recoil:mizukawa-kosuke@novels` | Kōsuke Mizukawa; 水川コウスケ |
 | [Mizuki](characters/index/project-sekai.md#mizuki) | Project SEKAI game — Nightcord at 25:00 | `project-sekai:mizuki@game` | — |
 | [Mizusawa Takahiro](characters/index/tomozaki.md#mizusawa-takahiro) | Bottom-Tier Character Tomozaki light novel | `tomozaki:mizusawa-takahiro@light-novel` | — |
 | [Moe](characters/index/blue-archive.md#moe) | Blue Archive game | `blue-archive:moe@game` | — |
@@ -451,6 +465,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Nagisa](characters/index/blue-archive.md#nagisa) | Blue Archive game | `blue-archive:nagisa@game` | — |
 | [Nagomi Kinoshita](characters/index/rent-a-girlfriend.md#nagomi-kinoshita) | Main manga continuity | `rent-a-girlfriend:nagomi-kinoshita@manga` | — |
 | [Nagumo Miyabi](characters/index/classroom-of-the-elite.md#nagumo-miyabi) | Classroom of the Elite original light novels through Year 2 | `classroom-of-the-elite:nagumo-miyabi@original-light-novels-through-year-2` | — |
+| [Nakahara Mizuki](characters/index/lycoris-recoil.md#nakahara-mizuki) | Lycoris Recoil television anime | `lycoris-recoil:nakahara-mizuki@television-anime` | — |
 | [Nakamura Shuji](characters/index/tomozaki.md#nakamura-shuji) | Bottom-Tier Character Tomozaki light novel | `tomozaki:nakamura-shuji@light-novel` | 中村修二 |
 | [Nakiri Alice](characters/index/shokugeki-no-soma.md#nakiri-alice) | Shokugeki no Soma manga | `shokugeki-no-soma:nakiri-alice@manga` | — |
 | [Nakiri Azami](characters/index/shokugeki-no-soma.md#nakiri-azami) | Shokugeki no Soma manga | `shokugeki-no-soma:nakiri-azami@manga` | — |
@@ -467,7 +482,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Nene](characters/index/watayuri.md#nene) | Japanese manga continuity | `watayuri:nene@manga` | Saionji; Nishidera Nene; Saionji Nene; 西園寺; 西園寺寧々; 西寺寧々 |
 | [Nene](characters/index/project-sekai.md#nene) | Project SEKAI game — Wonderlands×Showtime | `project-sekai:nene@game` | — |
 | [Ninomiya Asuka](characters/index/the-idolmaster.md#ninomiya-asuka) | Cinderella Girls mobile games | `the-idolmaster:ninomiya-asuka@cinderella-girls-mobile-games` | — |
-| [Nishikigi Chisato](characters/index/lycoris-recoil.md#nishikigi-chisato) | Lycoris Recoil television anime | `lycoris-recoil:nishikigi-chisato@television-anime` | — |
+| [Nishikigi Chisato](characters/index/lycoris-recoil.md#nishikigi-chisato) | Lycoris Recoil television anime | `lycoris-recoil:nishikigi-chisato@television-anime` | 錦木千束 |
 | [Nitta Minami](characters/index/the-idolmaster.md#nitta-minami) | Cinderella Girls mobile games | `the-idolmaster:nitta-minami@cinderella-girls-mobile-games` | — |
 | [Nomasa Rei](characters/index/blue-archive.md#nomasa-rei) | Blue Archive game | `blue-archive:nomasa-rei@game` | 野正レイ |
 | [Nonohara Hime](characters/index/tokyo-7th-sisters.md#nonohara-hime) | Tokyo 7th Sisters game | `tokyo-7th-sisters:nonohara-hime@game` | — |
@@ -483,6 +498,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Original Nice](characters/index/to-be-hero-x.md#original-nice) | To Be Hero X animated series | `to-be-hero-x:original-nice@animated-series` | — |
 | [Oscar Stauffenberg](characters/index/harmony.md#oscar-stauffenberg) | Original Japanese novel continuity | `harmony:oscar-stauffenberg@original-novel` | — |
 | [Otohime](characters/index/konosuba.md#otohime) | Edited TRPG replay continuity, bounded character study | `konosuba:otohime@trpg-edited-replay` | みたらいおとひめ; 御手洗音姫 |
+| [Otome Sakura](characters/index/lycoris-recoil.md#otome-sakura) | Lycoris Recoil television anime | `lycoris-recoil:otome-sakura@television-anime` | — |
 | [Otto](characters/index/ascendance-of-a-bookworm.md#otto) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:otto@light-novel` | — |
 | [Otto Suwen](characters/index/re-zero.md#otto-suwen) | Re:Zero main light novel | `re-zero:otto-suwen@light-novel` | オットー・スーウェン |
 | [Ozuma](characters/index/konosuba.md#ozuma) | Original light-novel continuity, bounded expanded cohort | `konosuba:ozuma@original-light-novel` | ザトゥ・オズマ |
@@ -519,6 +535,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Rionor](characters/index/konosuba.md#rionor) | Original light-novel continuity, bounded character study | `konosuba:rionor@original-light-novel` | リオノール |
 | [Rito Oriya](characters/index/86-eighty-six.md#rito-oriya) | 86 - Eighty-Six original light novels | `86-eighty-six:rito-oriya@original-light-novels` | リト・オリヤ |
 | [Roadside Tranquility Girl (Main 5)](characters/index/konosuba.md#main05-roadside-tranquility-girl) | Original light-novel continuity, bounded character study | `konosuba:main05-roadside-tranquility-girl@original-light-novel` | — |
+| [Robota](characters/index/lycoris-recoil.md#robota) | Lycoris Recoil television anime | `lycoris-recoil:robota@television-anime` | ロボ太 |
 | [Rom](characters/index/re-zero.md#rom) | Re:Zero main light novel | `re-zero:rom@light-novel` | — |
 | [Rosary](characters/index/konosuba.md#rosary) | Original light-novel continuity, bounded expanded cohort | `konosuba:rosary@original-light-novel` | ロザリー |
 | [Roswaal](characters/index/re-zero.md#roswaal) | Re:Zero main light novel | `re-zero:roswaal@light-novel` | — |
@@ -627,6 +644,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Togata Mirio](characters/index/my-hero-academia.md#togata-mirio) | My Hero Academia manga | `my-hero-academia:togata-mirio@manga` | — |
 | [Tokka](characters/index/shine-post.md#tokka) | SHINE POST television anime | `shine-post:tokka@television-anime` | トッカ |
 | [Tokoyami Fumikage](characters/index/my-hero-academia.md#tokoyami-fumikage) | My Hero Academia manga | `my-hero-academia:tokoyami-fumikage@manga` | — |
+| [Tokuda Kazuhiko](characters/index/lycoris-recoil.md#tokuda-kazuhiko) | Lycoris Recoil novels (Asaura) | `lycoris-recoil:tokuda-kazuhiko@novels` | Kazuhiko Tokuda; Toku-san |
 | [Tomozaki](characters/index/tomozaki.md#tomozaki) | Bottom-Tier Character Tomozaki light novel | `tomozaki:tomozaki@light-novel` | — |
 | [Totsuki Sheena](characters/index/kimishinu.md#totsuki-sheena) | KimiShinu manga through Volume 9 and side stories | `kimishinu:totsuki-sheena@manga-v09-side-stories` | トツキ・シーナ |
 | [Toya](characters/index/project-sekai.md#toya) | Project SEKAI game — Vivid BAD SQUAD | `project-sekai:toya@game` | — |
@@ -676,6 +694,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Yorimichi 3 succubus dungeon owner](characters/index/konosuba.md#yorimichi03-succubus-dungeon-owner) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi03-succubus-dungeon-owner@original-light-novel` | — |
 | [Yorimichi 3 succubus messenger](characters/index/konosuba.md#yorimichi03-succubus-messenger) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi03-succubus-messenger@original-light-novel` | — |
 | [Yorimichi 4 succubus worker](characters/index/konosuba.md#yorimichi04-succubus-worker) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi04-succubus-worker@original-light-novel` | — |
+| [Yoshimatsu Shinji](characters/index/lycoris-recoil.md#yoshimatsu-shinji) | Lycoris Recoil television anime | `lycoris-recoil:yoshimatsu-shinji@television-anime` | Shinji Yoshimatsu; 吉松シンジ; ヨシさん |
 | [Yua Uchida](characters/index/chiramune.md#yua-uchida) | Chiramune light novel | `chiramune:yua-uchida@light-novel` | — |
 | [Yuina](characters/index/maebashi-witches.md#yuina) | Maebashi Witches anime | `maebashi-witches:yuina@anime` | — |
 | [Yuiyui](characters/index/konosuba.md#yuiyui) | Original light-novel continuity, scoped current monograph | `konosuba:yuiyui@original-light-novel` | ゆいゆい |
