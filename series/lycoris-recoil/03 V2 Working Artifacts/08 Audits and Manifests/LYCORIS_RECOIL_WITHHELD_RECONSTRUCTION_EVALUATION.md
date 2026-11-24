@@ -15,7 +15,9 @@ The project-local exercise evaluated separate forecasts for Chisato and Takina i
 
 The evaluator froze the prompts and rubric before the blinded response existed. The runner received the prompts and the submitted models through a separate handoff. Before scoring, the evaluator verified the three frozen input digests. The evaluator checked the emitted forecasts and citations against title readings, scene and cue IDs, ledgers and corrections, and did not inspect the models or their examples. Each pair was assessed for psychology, action order, Japanese, relationship, chronological knowledge, competing motives, uncertainty, individuation and distance from evidence. The Japanese was written dialogue with illustrative delivery. Independent audition was outside the test.
 
-| Character | Robust | Bounded | Mixed |
+**Scope of the tallies.** These ratings score only the predecessor models that were submitted to the exercise. The Chisato model has SHA-256 `aea20c8e…`, and the Takina successor manuscript has `d39958c3…`; both are listed under *Authorized verification* below. They do not describe the operational reconstructions now published in this repository. Those were revised after scoring and have not been evaluated: Chisato `0ca90ef2d40ca5b1c40955c7abf8fe287f12f9938054063b487267b2016bbb52`, Takina `761f8a0d0ec1f5102c44b9de7d2a000f08fe59d0ee2ccf30b433068d97a9cf51`.
+
+| Character (evaluated predecessor model) | Robust | Bounded | Mixed |
 |---|---:|---:|---:|
 | Chisato | 7 | 3 | 0 |
 | Takina | 6 | 3 | 1 |
