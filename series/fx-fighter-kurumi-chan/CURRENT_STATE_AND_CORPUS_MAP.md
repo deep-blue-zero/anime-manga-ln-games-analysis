@@ -3,20 +3,20 @@ title: "FX Fighter Kurumi-chan — Current State and Corpus Map"
 artifact_id: FX_KURUMI_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
 series: fx-fighter-kurumi-chan
-version: "1.1"
+version: "1.15"
 status: canonical
 authority_generation: FX_KURUMI-INITIAL
 authority_scope: "Canonical foundation navigation, source admission and execution state"
-source_boundary: "Run FXK-RUN-20261119-V01-V10 authorizes the Japanese collected-manga main narrative V01–V10; no volume accepted yet"
+source_boundary: "Run FXK-RUN-20261119-V01-V10 authorizes the Japanese collected-manga main narrative V01–V10; accepted through V10"
 created: 2026-11-15
-last_updated: 2026-11-19
+last_updated: 2026-11-23
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 project_initialization:
   status: canonical
-  architecture_lifecycle: INITIAL
+  architecture_lifecycle: EVOLVING
   governing_method: FX_KURUMI_ANALYTICAL_METHOD.md
   synthesis_architecture: FX_KURUMI_SYNTHESIS_ARCHITECTURE.md
   method_status: canonical
@@ -27,19 +27,20 @@ project_initialization:
     - FX_KURUMI_SOURCE_REGISTER.md
     - FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: V01
+  next_permitted_operation: NONE
 sequential_execution:
   run_id: FXK-RUN-20261119-V01-V10
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V10
-  committed_high_water_mark: NONE
-  next_candidate_operation: V01
+  committed_high_water_mark: V10
+  next_candidate_operation: NONE
   confirmation_between_units: false
-  run_state: active
-source_admission: "V01–V10 main narrative authorized; each volume admitted at its own frontier; accepted through NONE"
+  run_state: completed
+source_admission: "V01–V10 main narrative authorized; each volume admitted at its own frontier; accepted through V10"
 run_authorization: FXK-RUN-20261119-V01-V10
+synthesis_authorization: FXK-SYN-20261123-V01-V10
 supplemental_execution:
   current_state: CLOSED_AWAITING_COMPONENT_ADMISSION
   other_narrative_admission: NOT_AUTHORIZED
@@ -50,7 +51,7 @@ recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 
 The canonical destination is `series/fx-fighter-kurumi-chan/`. The subject is the Japanese collected manga **FX戦士くるみちゃん**, written by Demunyan and drawn by Tansan Daisuki.
 
-**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner's November 19, 2026 instruction authorizes run **FXK-RUN-20261119-V01-V10**: one `continuous_sequential` run over the Japanese collected manga, authorized start V01, terminal boundary V10, one collected volume per atomic unit and no confirmation between successfully completed volumes. The run is **active**. No volume has been accepted, so the committed high-water mark is **NONE** and the next permitted and candidate operation is **V01**. Each volume is admitted only at its own frontier after the previous volume's transaction closes. The [source register](FX_KURUMI_SOURCE_REGISTER.md#run-activation-verification) records witness verification and the component scope below.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner's November 19, 2026 instruction authorizes run **FXK-RUN-20261119-V01-V10**: one `continuous_sequential` run over the Japanese collected manga, authorized start V01, terminal boundary V10, one collected volume per atomic unit and no confirmation between successfully completed volumes. The run is **completed**. Volumes V01–V10 have been accepted, so the committed high-water mark is **V10**, the terminal boundary, and the next permitted and candidate operation is **NONE**. Each volume was admitted only at its own frontier after the previous volume's transaction closed. The [source register](FX_KURUMI_SOURCE_REGISTER.md#run-activation-verification) records witness verification and the component scope below.
 
 ## Start here
 
@@ -63,6 +64,25 @@ The canonical destination is `series/fx-fighter-kurumi-chan/`. The subject is th
 
 The available range is ten Japanese manga EPUB witnesses, V01–V10. The register records the verified witness identities, package and image inventory, decode results and the actual inspection-lane probe. Reading order, page classification and legibility are confirmed for each volume inside its own transaction, at its own frontier, so that no later volume is exposed early.
 
+## Accepted units
+
+Each accepted volume has a canonical deep reading, a frozen checkpoint that records its multi-agent participation and dispositions, and a frozen entering state. Its rows are in the [decision and evidence ledger](FX_KURUMI_DECISION_AND_EVIDENCE_LEDGER.md) and its coverage is in the [source register](FX_KURUMI_SOURCE_REGISTER.md).
+
+| Volume | Deep reading | Checkpoint | Entering state | Accepted |
+| --- | --- | --- | --- | --- |
+| V01 | [V01 deep reading](readings/FX_KURUMI_V01_DEEP_READING.md) | [V01 checkpoint](checkpoints/FX_KURUMI_V01_CHECKPOINT.md) | [V01 entering state](checkpoints/FX_KURUMI_V01_ENTERING_STATE.md) | 2026-11-21 |
+| V02 | [V02 deep reading](readings/FX_KURUMI_V02_DEEP_READING.md) | [V02 checkpoint](checkpoints/FX_KURUMI_V02_CHECKPOINT.md) | [V02 entering state](checkpoints/FX_KURUMI_V02_ENTERING_STATE.md) | 2026-11-21 |
+| V03 | [V03 deep reading](readings/FX_KURUMI_V03_DEEP_READING.md) | [V03 checkpoint](checkpoints/FX_KURUMI_V03_CHECKPOINT.md) | [V03 entering state](checkpoints/FX_KURUMI_V03_ENTERING_STATE.md) | 2026-11-21 |
+| V04 | [V04 deep reading](readings/FX_KURUMI_V04_DEEP_READING.md) | [V04 checkpoint](checkpoints/FX_KURUMI_V04_CHECKPOINT.md) | [V04 entering state](checkpoints/FX_KURUMI_V04_ENTERING_STATE.md) | 2026-11-21 |
+| V05 | [V05 deep reading](readings/FX_KURUMI_V05_DEEP_READING.md) | [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md) | [V05 entering state](checkpoints/FX_KURUMI_V05_ENTERING_STATE.md) | 2026-11-22 |
+| V06 | [V06 deep reading](readings/FX_KURUMI_V06_DEEP_READING.md) | [V06 checkpoint](checkpoints/FX_KURUMI_V06_CHECKPOINT.md) | [V06 entering state](checkpoints/FX_KURUMI_V06_ENTERING_STATE.md) | 2026-11-22 |
+| V07 | [V07 deep reading](readings/FX_KURUMI_V07_DEEP_READING.md) | [V07 checkpoint](checkpoints/FX_KURUMI_V07_CHECKPOINT.md) | [V07 entering state](checkpoints/FX_KURUMI_V07_ENTERING_STATE.md) | 2026-11-22 |
+| V08 | [V08 deep reading](readings/FX_KURUMI_V08_DEEP_READING.md) | [V08 checkpoint](checkpoints/FX_KURUMI_V08_CHECKPOINT.md) | [V08 entering state](checkpoints/FX_KURUMI_V08_ENTERING_STATE.md) | 2026-11-22 |
+| V09 | [V09 deep reading](readings/FX_KURUMI_V09_DEEP_READING.md) | [V09 checkpoint](checkpoints/FX_KURUMI_V09_CHECKPOINT.md) | [V09 entering state](checkpoints/FX_KURUMI_V09_ENTERING_STATE.md) | 2026-11-22 |
+| V10 | [V10 deep reading](readings/FX_KURUMI_V10_DEEP_READING.md) | [V10 checkpoint](checkpoints/FX_KURUMI_V10_CHECKPOINT.md) | [V10 entering state](checkpoints/FX_KURUMI_V10_ENTERING_STATE.md) | 2026-11-22 |
+
+The [checkpoint errata](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md) correct the frozen V01–V04 checkpoints and, in their later corrections, one label in the V07 checkpoint, a locator in the V05 checkpoint, an open item in the V06 checkpoint and a remark in the V06 entering state, without changing them. In V01–V05 only the principal deferred each volume's cover, flap and jacket images until after its main-narrative freeze; the specialists and the reviewer saw them first. The errata record each role's first exposure in V01–V04 against its freezes, with a disposition for every forecast item, and the [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md#7-exposure-and-contamination-record) records the same for V05. The errata also reclassify V01 i0165 as an authorial extra, qualify the predictive credit of two V02 Agent B forecast rows (FXK-V02-F095, F111), and give Agent B's V04 forecasts a literal score (27 of 73 confirmed, Brier 0.20849) beside its relaxed one. A [later correction](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-sum-01) narrows the errata's own summary for V04: Agent B froze FREEZE_00 (18 items, FXK-V04-F091–F108) before opening any V04 image, and only its 55 later items (FXK-V04-F109–F163) followed the cover and flap. [FXK-ERR-V07-01](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md#fxk-err-v07-01) reads the V07 afterword as an authorial extra, as the source register classes it. From V05 every forecast is scored literally as frozen, with any relaxed or event-only result labelled alongside.
+
 ## Authorized run
 
 | Field | State |
@@ -70,8 +90,8 @@ The available range is ten Japanese manga EPUB witnesses, V01–V10. The registe
 | Run | FXK-RUN-20261119-V01-V10, owner instruction of 2026-11-19; the private instruction receipt is recoverable through the run ID |
 | Mode and unit | `continuous_sequential`; one collected volume |
 | Bounds | Start V01, terminal V10 |
-| Committed high-water mark | NONE |
-| Next candidate | V01 |
+| Committed high-water mark | V10 |
+| Next candidate | NONE (run completed at the terminal boundary V10) |
 | Authorized primary narrative | The Japanese commercial collected manga by Demunyan and Tansan Daisuki, in the supplied witnesses |
 | Not authorized as evidence | The original Web manga, the anime adaptation, translations, external summaries and other separately published narrative |
 | Historical-market concordance | A separate responsibility, not a condition of accepting any reading. Real exchange-rate history never enters a prospective reading |
@@ -85,7 +105,7 @@ Each volume's principal classifies every image occurrence before analysis relies
 | Component | Scope in this run |
 | --- | --- |
 | Main narrative chapters | Admitted at the volume's frontier and analyzed |
-| Covers, flaps, title and chapter-title pages, contents, colophon | Admitted as apparatus. Cited with an apparatus label and never as a diegetic fact. A cover image can carry information from later in the volume, so it is read after the main-narrative freeze |
+| Covers, flaps, title and chapter-title pages, contents, colophon | Admitted as apparatus. Cited with an apparatus label and never as a diegetic fact. A cover image can carry information from later in the volume, so from V06 every role reads the covers, flap and jacket images only after its own main-narrative work: the principal after MAIN_EXIT, the specialists after their last prospective freeze, and the reviewer from a separate deferred contact sheet after its Stage 1 inspection. In V01–V05 only the principal deferred them ([checkpoint errata](checkpoints/FX_KURUMI_CHECKPOINT_ERRATA.md); [V05 checkpoint](checkpoints/FX_KURUMI_V05_CHECKPOINT.md#7-exposure-and-contamination-record)) |
 | Authorial extras inside a volume (bonus strips, profiles, afterwords and similar) | Inventoried with locators and classified. The supplemental lane stays closed, so they are not narrative evidence in this run. Any exposure from classifying them is recorded in the checkpoint |
 | Advertisements, previews of other works, next-volume previews | Excluded. A next-volume preview is not opened before that volume's admission |
 
@@ -99,14 +119,51 @@ Every volume's principal role runs in a fresh context initialized from this entr
 
 | Field | Observed value |
 | --- | --- |
-| Product surface | Antigravity agent application; owner-controlled Windows tool runtime |
-| Model setting | Owner-selected Claude Opus 5.5 (High) for the coordinator. Every role context was launched with the inherit setting; no other model setting was observed |
+| Product surface | Antigravity agent application until 2026-11-21 13:50 (UTC−05:00), when the owner handed the run over; from then, the Claude Code desktop application. Owner-controlled Windows tool runtime throughout |
+| Model setting | Under Antigravity: owner-selected Claude Opus 5.5 (High) for the coordinator, and every role context launched with the inherit setting. Under Claude Code: the coordinator session runs Claude Opus 5.5, and every role context is a separate Claude Code subagent that inherits the coordinator's model; no reasoning-effort setting is recorded for those subagents. No other model setting was observed |
 | Source transport | Local EPUB files read in place; images extracted to a working directory outside Git |
 | Filesystem read and write | VERIFIED |
 | Image inspection (`STILL_IMAGE`) | VERIFIED on 2026-11-19 against a full-resolution V01 page with Japanese lettering and furigana and a 2.5× enlarged crop of small type. Each role context repeats a probe and records it |
 | Text lane | No publisher text layer: the pages are images. Transcriptions are made from the page images |
 | Git write | VERIFIED for the coordinator only |
 
-The run proceeds one volume at a time in publication order. The project studies the fiction’s depictions of position, exposure, uncertainty, responsibility and harm. Its numerals and market language serve those literary questions. Consult the [initiation gate](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) and [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) before changing execution state. After an interruption, recover the high-water mark from this file and the accepted checkpoints, never from a draft or a filename.
+The run proceeded one volume at a time in publication order. The project studies the fiction’s depictions of position, exposure, uncertainty, responsibility and harm. Its numerals and market language serve those literary questions. Consult the [initiation gate](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) and [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) before changing execution state. After an interruption, recover the high-water mark from this file and the accepted checkpoints, never from a draft or a filename.
 
 Resume from this map and its governing documents. The project-local [series descriptor](.repository/series-registry.json) supplies routing metadata for repository housekeeping. Admitted source files and evidence derivatives stay in the source or working plane.
+
+## Authorized retrospective synthesis
+
+The owner's November 23, 2026 instruction authorizes **FXK-SYN-20261123-V01-V10**. It covers the post-run work of the [synthesis architecture](FX_KURUMI_SYNTHESIS_ARCHITECTURE.md#from-volumes-to-synthesis) over the accepted V01–V10 boundary, carried out by the run's crew of role contexts, and the resolution of the open review of PR #695. The private instruction receipt is recoverable through the ID. This authorization admits no source. The sequential run above stays completed, its state fields are unchanged, and the lock stays OPEN. Character reconstruction, the historical-market concordance, supplemental components and any later volume are not authorized. Release or freeze is the owner's decision.
+
+| Field | State |
+| --- | --- |
+| Synthesis | FXK-SYN-20261123-V01-V10, owner instruction of 2026-11-23 |
+| Evidence boundary | The accepted V01–V10 readings, checkpoints, errata, ledger and source register. Pages of the admitted V01–V10 witnesses are re-opened only to verify load-bearing claims |
+| Gates | G1 state reconciliation; G2 role-gap review and person qualification; G3 specialist synthesis, convergence, integrated synthesis and qualified character monographs; G4 semantic validation; G5 the owner's release |
+| Current gate | G5, the owner's release or freeze. G1 and G2 are recorded in the [reconciliation audit](audits/FX_KURUMI_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md), the [role-gap audit](audits/FX_KURUMI_ARCHITECTURE_ROLE_GAP_AUDIT.md), the [qualification audit](audits/FX_KURUMI_CHARACTER_QUALIFICATION.md) and the architecture's [retrospective amendment](FX_KURUMI_SYNTHESIS_ARCHITECTURE.md#retrospective-amendment-2026-11-23), which moves the architecture to `EVOLVING`. G3 and G4 are recorded in the artifacts listed below and in ledger rows FXK-SYN-C007–C034. All eight qualified subjects passed both monograph checks and are COMPLETE_AT_BOUNDARY; the thirteen deferred subjects have no monograph. No BLOCKING finding is open |
+| Crew | Principal integrator, financial specialist, character specialist and critical reviewer. Study C was written in a context that read neither Study A nor Study B; each monograph was reviewed by a role context that did not write it, and the portraits of Kurumi and Mochiko were also probed by a context that read nothing but the portrait. Each runs as a fresh Claude Code subagent context launched by the run coordinator and inherits the coordinator's Claude Opus 5.5 model; no other setting is recorded. The work runs locally rather than in fresh cloud sessions because the admitted witnesses and the working plane are local |
+| Writers | The principal alone writes the synthesis audits, the shared ledger and the published synthesis. Specialists and reviewers draft in the working plane. The coordinator edits this map, validates, commits and publishes |
+
+### Synthesis artifacts
+
+| Artifact | Responsibility |
+| --- | --- |
+| [Integrated synthesis](FX_KURUMI_V01_V10_INTEGRATED_SYNTHESIS.md) | What V01–V10 argues about agency, uncertainty, responsibility and the cost of choices, with each volume's governing thesis tested against the whole boundary |
+| [Screens, institutions and responsibility](studies/FX_KURUMI_SCREENS_INSTITUTIONS_AND_RESPONSIBILITY.md) | Study A: what the screens, brokers and other institutions show, and who appears to act |
+| [Obligations, relationships and cost](studies/FX_KURUMI_OBLIGATIONS_RELATIONSHIPS_AND_COST.md) | Study B: obligations, knowledge boundaries and who pays |
+| [Risk, loss and financial self-destruction](studies/FX_KURUMI_RISK_LOSS_AND_FINANCIAL_SELF_DESTRUCTION.md) | Study C: why the persons chose as the page shows |
+| [Convergence audit](audits/FX_KURUMI_V01_V10_CONVERGENCE.md) | Receipt of the studies, their agreements and conflicts, and the claim transitions written from them |
+| [Semantic validation](audits/FX_KURUMI_V01_V10_SEMANTIC_VALIDATION.md) | Gate G4: findings on the studies and the synthesis, monograph self-containment and fidelity, boundary checks, and the closure of obligations |
+
+Character monographs, each self-contained within the V01–V10 boundary:
+
+| Subject | Monograph |
+| --- | --- |
+| FXK-P001 | [Fukuga Kurumi](characters/fukuga-kurumi-manga.md) |
+| FXK-P002 | [Kurumi's father](characters/fukuga-ikuo-manga.md) (given name by inference, stated in the monograph) |
+| FXK-P003 | [Fukuga Kozue](characters/fukuga-kozue-manga.md) |
+| FXK-P005 | [Kogane Mochiko](characters/kogane-mochiko-manga.md) |
+| FXK-P006 | [Yamashi Mebuki](characters/yamashi-mebuki-manga.md) |
+| FXK-P008 | [Takane Yasuko](characters/takane-yasuko-manga.md) (あふぃちゃん) |
+| FXK-P020 | [Zenba Nana](characters/zenba-nana-manga.md) |
+| FXK-P021 | [Tsukimori Kizuna](characters/tsukimori-kizuna-manga.md) |
