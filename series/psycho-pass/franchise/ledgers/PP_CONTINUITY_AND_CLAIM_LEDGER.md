@@ -3,14 +3,14 @@ title: "Psycho-Pass — Franchise chronology and claim reconciliation"
 artifact_id: PP_CONTINUITY_AND_CLAIM_LEDGER
 artifact_type: franchise_continuity_and_claim_ledger
 series: psycho-pass
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 authority_generation: PP-INITIAL
-source_boundary: "PP-S01NE-E01–E03 admitted and reconciled"
+source_boundary: "PP-S01NE-E01–E04 admitted and reconciled"
 canonical_home: series/psycho-pass/franchise/ledgers/PP_CONTINUITY_AND_CLAIM_LEDGER.md
 created: 2026-11-18
 last_updated: 2026-11-24
@@ -18,7 +18,7 @@ last_updated: 2026-11-24
 
 # Franchise chronology and claim reconciliation
 
-This is the current canonical home for cross-installment chronology/disclosure reconciliation, philosophical/thematic claims, recurring audiovisual patterns and unresolved continuity disagreements. **Current reconciled records through `PP-S01NE-E03`: 8 chronology/edition records (`PP-CHR-0001`–`0008`), 10 franchise claims (`PP-FCLM-0001`–`0010`), 15 accepted reconciliation deltas (`PP-DELTA-0001`–`0015`).** Official release/edition metadata remains in the [source register](../../source-inventory/PP_SOURCE_REGISTER.md); inventory entries are not narrative records.
+This is the current canonical home for cross-installment chronology/disclosure reconciliation, philosophical/thematic claims, recurring audiovisual patterns and unresolved continuity disagreements. **Current reconciled records through `PP-S01NE-E04`: 10 chronology/edition records (`PP-CHR-0001`–`0010`), 13 franchise claims (`PP-FCLM-0001`–`0013`), 21 accepted reconciliation deltas (`PP-DELTA-0001`–`0021`).** Official release/edition metadata remains in the [source register](../../source-inventory/PP_SOURCE_REGISTER.md); inventory entries are not narrative records.
 
 ## Three separate temporal dimensions
 
@@ -110,3 +110,24 @@ Historical local readings and prediction freezes remain source-horizon artifacts
 | `PP-DELTA-0013` → `PP-FCLM-0001` (`STRENGTHEN` → `H2c`) | `ACCEPTED` (`PP-S01NE-E03`) | **Sharpened Institutional Ambivalence (`H2c`):** E03 pairs 4-yr scanner blind spots, `+4` blackouts, Ōsō `"greenhouse"` victim penalization, and unproven genetic stigma directly against **`任意執行対象`** preserving Inspector discretion at `CC 282`, Shion's legal *mens rea* restraint, Ginoza's evidentiary rigor & praise of Akane, dual crisis-containment logic of `報道管制`, and ordinary urban comfort (`PP-S01NE-CLM-0026`, `0032`). |
 | `PP-DELTA-0014` → `PP-FCLM-0009` (NEW) | `ACCEPTED` (`PP-S01NE-E03`) | **Virtual Identity Symposium & Reflection-Gaze Grammar:** Four-cornered debate (Akane's neutral tool, Masaoka's Rousseau Stag Hunt with two-equilibrium defect tension, Midō's inverted cyber-Platonism `イデア`, Kōgami's `偶像` & Makishima's Terayama `代理人`) paired with E03's reflection-gaze visual grammar (vanity mirror → Sasayama dead eyes → Kasei-in-Ginoza → Kanehara-in-Ginoza → fountain corpse eye) and anti-symbolism guardrails (`PP-S01NE-CLM-0030`, `0033`, `0034`). |
 | `PP-DELTA-0015` → `PP-FCLM-0007` (`STRENGTHEN`) & `PP-FCLM-0010` (NEW) | `ACCEPTED` (`PP-S01NE-E03`) | **Non-Archival-BD Alignment Discipline & 6-Tier Name Provenance:** Establishes verification standard for piecewise-aligned TV subtitles (logging `-0.98s`/`+1.46s` boundary offsets & 5 TV-CC speaker/medium fixes) and 6-tier kanji/reading provenance (`Yoshika Ōkubo` lossless lock; `禾生壌宗` diegetic+ED unspoken reading; `遠藤` TV-CC-only) alongside exact 22nd-century Gregorian calendar verification (`PP-S01NE-CLM-0025`, `0036`, `0037`). |
+
+
+---
+
+## Reconciled Records Added Through `PP-S01NE-E04`
+
+### Three-Clock Chronology & Disclosure Updates (`PP-CHR-0009` – `PP-CHR-0010`)
+
+- **`PP-CHR-0009` (Proleptic Gregorian Lock Extended to `2112-12-20` & Tōma Hire Puzzle — E04):** Extends E03's `2112-12-14 (Wed)` anchor seamlessly by `+6` days to **`2112-12-20 17:23 (Tue)`** (`f15` phone screen, corroborated by `f11` `2112年度生徒名簿` Rikako `DOB 2094.10.07` age `18` and `d_f14` `21日15:00` deadline), while `d_f08` verifies **`2108-11-06 (Tue)`** (`橋田良二` discovery, true Gregorian Tuesday). Flags transparently three documentary anomalies without speculation: (1) Hashida (`26 OCT 2044` vs `63`) & Satsuki (`10 JUNE 2097` vs `16`) off-by-1 age cards; (2) Sasayama's native-1080p `職種: 監視官` internal typo (`d_f19` beside `2081.3.26`); and (3) Tōma's `2109年4月` Ōsō hire date (`d_f09`), postdating Hashida (`2108-11`) & Sasayama (`2109-01`) murders (`PP-S01NE-CLM-0047`).
+- **`PP-CHR-0010` (Mutual Name-Lock Under Asymmetric `DISC` Walls — E04):** Tracks `PP-S01NE-DISC-0026`–`0035`: Akane learns `"マキシマ"` + Sasayama's blurred photo (`00:12:08`); **Kōgami & Ginoza** jointly hear Rikako's recovered `"槙島先生"` Art Room audio (`00:40:22`, strictly Kōgami & Ginoza on-screen); yet epistemic advantage favors **Makishima**, who observes Kōgami's clear face/voice/deduction via `st-camera-0047` and dispatches **Choi Gu-sung** to investigate **`"コウガミ"`**, while CID still lacks Makishima's face, faculty alias `柴田先生`, Choi, the older hunter (`泉宮寺豊久`, ED-only), or knowledge of Rikako's death (`PP-S01NE-CLM-0039`).
+
+### Reconciled Franchise Propositions (`PP-FCLM-0011` – `PP-FCLM-0013`) & Accepted Deltas (`PP-DELTA-0016` – `0021`)
+
+| Delta / Claim ID | Disposition & Boundary | Reconciled Proposition, Local Lineage & Counterevidence / Open Trigger |
+| --- | --- | --- |
+| `PP-DELTA-0016` → `PP-FCLM-0005` (`STRENGTHEN`) | `ACCEPTED` (`PP-S01NE-E04`) | **Makishima's Cross-Case Continuity, Peer Collaborator & Mutual Target Lock:** Confirms Makishima supplied leftover Case 102 resin (`昔仕込んだ祭りの残り`) via newly spoken **Choi Gu-sung**, infiltrated Ōsō as `柴田先生`, wiped CCTV (`KILLM.EXE RUN`/`ZHUANGZI`), discarded Rikako to aristocratic peer collaborator **`泉宮寺豊久`** (Tier-4 ED-only), and locked onto **`コウガミ`** as CID jointly recovers `"槙島先生"` audio (`PP-S01NE-CLM-0039`, `0040`, `0049`). |
+| `PP-DELTA-0017` → `PP-FCLM-0008` (`REVISE` — Arc Closed) | `ACCEPTED` (`PP-S01NE-E04`) | **Closure of Ōsō Academy / Rikako Ōryō Arc & Unoriginality Proof:** Satsuki's `Clear Color 29.4` empirically destroys Rikako's mercy-killing alibi; Kōgami's forensic diagnosis of zero `オリジナリティー` mirrors Makishima's abandonment; and Rikako's dying `f15` dial to dead father `王陵牢一` (both hands intact per `d_f17`, reversing amputation claims) unmasks her philosophical pose before Lucius's *Titus* V.iii Tamora epitaph (`PP-S01NE-CLM-0040`, `0042`, `0046`). |
+| `PP-DELTA-0018` → `PP-FCLM-0011` (NEW) | `ACCEPTED` (`PP-S01NE-E04`) | **Embodied Responsibility Ethics vs. Performative Aesthetic Hypocrisy:** Sets Kōgami's clenched-fist anti-delegation Dominator ethic (`相手を殺すのはドミネーターじゃなく、この俺だと`) directly against Makishima's self-refuting expressive anthropology (arguing painting animals deserve mercy while facilitating human butchery and feeding Rikako to hounds for entertainment) and Rikako's inverted Kierkegaard/anti-commodification contradiction (`PP-S01NE-CLM-0041`, `0042`). |
+| `PP-DELTA-0019` → `PP-FCLM-0001` (`STRENGTHEN` → `H2c`) | `ACCEPTED` (`PP-S01NE-E04`) | **Actuarial Cliff & Concrete Counterweights (`H2c` Held at Tranche 1):** Pairs Eustress Deficiency (`ユーストレス欠乏性脳梗塞` in Rōichi; Makishima's lifespan statistic strictly quarantined as unverified testimony), `有害指定` censorship, abolished Juvenile Law (`今少年法とかないんですわ`), Tokorozawa gas chambers, and `文科省` blind spots against Commissa minor-Hue safeguards, Ginoza's procedural restraint & empirical concession, Yayoi's natural grief care (`d03`), teacher intervention, and CID forensic competence (`PP-S01NE-CLM-0043`, `0044`). |
+| `PP-DELTA-0020` → `PP-FCLM-0007` (`STRENGTHEN`) & `PP-FCLM-0012` (NEW) | `ACCEPTED` (`PP-S01NE-E04`) | **Documentary Precision & `ASR_UNVERIFIED` Lossless Audit Standard:** Establishes mandatory 100% lossless `AO` verification whenever derived subtitles contain `ASR_UNVERIFIED` segments (`9/45` [`20.0%`] text defects + `1` Masaoka chuckle caught in E04), expands Case 102 documentary fidelity (`中道杏奈`, `アベーレ・アコマージ`, `女児`, `長崎出島`, `小南洋子`), retracts Inspector-only `- 1` ID generalization (`d_f09`), and logs Hashida/Satsuki off-by-1 ages, Sasayama `職種: 監視官` typo (`d_f19`), and Tōma `2109年4月` hire anomaly (`PP-S01NE-CLM-0038`, `0047`). |
+| `PP-DELTA-0021` → `PP-FCLM-0010` (`STRENGTHEN`) & `PP-FCLM-0013` (NEW) | `ACCEPTED` (`PP-S01NE-E04`) | **Tier-4 Unspoken Kanji Quarantine & Honest Tranche 1 Gate Discipline:** Enforces strict quarantine of unspoken ED-only romaji readings (`泉宮寺豊久`, `足利紘一`, `聖護`, `霜月美佳`) while promoting `チェ・グソン` & `柴田先生` to Tier-1 spoken; closes Tranche 1 (`E03–E04`) honestly by keeping **all recurring cast `DEFERRED_EVIDENCE`** (`0` mandatory franchise monographs at 4/11 = 36%) pending Tranche 2 (`E06–E08`) (`PP-S01NE-CLM-0044`, `0048`). |
