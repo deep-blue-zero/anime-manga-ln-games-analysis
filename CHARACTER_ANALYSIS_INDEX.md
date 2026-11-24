@@ -22,6 +22,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`classroom-of-the-elite`](characters/index/classroom-of-the-elite.md) | 8 |
 | [`cornered-mouse`](characters/index/cornered-mouse.md) | 4 |
 | [`cosmic-princess-kaguya`](characters/index/cosmic-princess-kaguya.md) | 1 |
+| [`fx-fighter-kurumi-chan`](characters/index/fx-fighter-kurumi-chan.md) | 8 |
 | [`genocidal-organ`](characters/index/genocidal-organ.md) | 2 |
 | [`genshin-impact`](characters/index/genshin-impact.md) | 1 |
 | [`girls-band-cry`](characters/index/girls-band-cry.md) | 5 |
@@ -210,6 +211,9 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Froger](characters/index/konosuba.md#froger) | Edited TRPG replay continuity, bounded character study | `konosuba:froger@trpg-edited-replay` | フロガー |
 | [Fujita Kotone](characters/index/the-idolmaster.md#fujita-kotone) | Gakuen Idolmaster mobile-game audiovisual baseline | `the-idolmaster:fujita-kotone@mobile-game-audiovisual-baseline` | — |
 | [Fujiwara](characters/index/ntr-netsuzou-trap.md#fujiwara) | Japanese manga mainline | `ntr-netsuzou-trap:fujiwara@manga` | — |
+| [Fukuga Ikuo](characters/index/fx-fighter-kurumi-chan.md#fukuga-ikuo) | Japanese manga | `fx-fighter-kurumi-chan:fukuga-ikuo@manga` | 福賀郁夫; Fukuga Ikuo |
+| [Fukuga Kozue](characters/index/fx-fighter-kurumi-chan.md#fukuga-kozue) | Japanese manga | `fx-fighter-kurumi-chan:fukuga-kozue@manga` | 福賀梢; Fukuga Kozue |
+| [Fukuga Kurumi](characters/index/fx-fighter-kurumi-chan.md#fukuga-kurumi) | Japanese manga | `fx-fighter-kurumi-chan:fukuga-kurumi@manga` | 福賀くるみ; Fukuga Kurumi |
 | [Funifura](characters/index/konosuba.md#funifura) | Original light-novel continuity, scoped current monograph | `konosuba:funifura@original-light-novel` | ふにふら |
 | [Furina](characters/index/genshin-impact.md#furina) | Genshin Impact game | `genshin-impact:furina@game` | — |
 | [Futaba Anzu](characters/index/the-idolmaster.md#futaba-anzu) | Cinderella Girls mobile games | `the-idolmaster:futaba-anzu@cinderella-girls-mobile-games` | — |
@@ -341,6 +345,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Kirishima Eijiro](characters/index/my-hero-academia.md#kirishima-eijiro) | My Hero Academia manga | `my-hero-academia:kirishima-eijiro@manga` | — |
 | [Kobayakawa Sae](characters/index/the-idolmaster.md#kobayakawa-sae) | Cinderella Girls mobile games | `the-idolmaster:kobayakawa-sae@cinderella-girls-mobile-games` | — |
 | [Kobayashi Rindō](characters/index/shokugeki-no-soma.md#kobayashi-rindo) | Shokugeki no Soma manga | `shokugeki-no-soma:kobayashi-rindo@manga` | — |
+| [Kogane Mochiko](characters/index/fx-fighter-kurumi-chan.md#kogane-mochiko) | Japanese manga | `fx-fighter-kurumi-chan:kogane-mochiko@manga` | 小金萌智子; Kogane Mochiko; ともこ |
 | [Kohane](characters/index/project-sekai.md#kohane) | Project SEKAI game — Vivid BAD SQUAD | `project-sekai:kohane@game` | — |
 | [Koharu](characters/index/blue-archive.md#koharu) | Blue Archive game | `blue-archive:koharu@game` | — |
 | [Kokuriko](characters/index/blue-archive.md#kokuriko) | Blue Archive game | `blue-archive:kokuriko@game` | — |
@@ -602,6 +607,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Tadokoro Megumi](characters/index/shokugeki-no-soma.md#tadokoro-megumi) | Shokugeki no Soma manga | `shokugeki-no-soma:tadokoro-megumi@manga` | — |
 | [Taihou](characters/index/azur-lane.md#taihou) | Azur Lane mobile game | `azur-lane:taihou@mobile-game` | — |
 | [Takagaki Kaede](characters/index/the-idolmaster.md#takagaki-kaede) | Cinderella Girls mobile games | `the-idolmaster:takagaki-kaede@cinderella-girls-mobile-games` | — |
+| [Takane Yasuko](characters/index/fx-fighter-kurumi-chan.md#takane-yasuko) | Japanese manga | `fx-fighter-kurumi-chan:takane-yasuko@manga` | 高根やす子; Takane Yasuko; FX堕天使あふぃちゃん; あふぃちゃん |
 | [Takao](characters/index/azur-lane.md#takao) | Azur Lane mobile game | `azur-lane:takao@mobile-game` | — |
 | [Takeda](characters/index/ntr-netsuzou-trap.md#takeda) | Japanese manga mainline | `ntr-netsuzou-trap:takeda@manga` | — |
 | [Takeda Miho](characters/index/idoly-pride.md#takeda-miho) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:takeda-miho@v2-cross-media` | — |
@@ -627,6 +633,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Tsukasa](characters/index/project-sekai.md#tsukasa) | Project SEKAI game — Wonderlands×Showtime | `project-sekai:tsukasa@game` | — |
 | [Tsukasa Akeuraji](characters/index/medalist.md#tsukasa-akeuraji) | Japanese manga | `medalist:tsukasa-akeuraji@manga` | 明浦路司; Akeuraji Tsukasa |
 | [Tsukasa Eishi](characters/index/shokugeki-no-soma.md#tsukasa-eishi) | Shokugeki no Soma manga | `shokugeki-no-soma:tsukasa-eishi@manga` | — |
+| [Tsukimori Kizuna](characters/index/fx-fighter-kurumi-chan.md#tsukimori-kizuna) | Japanese manga | `fx-fighter-kurumi-chan:tsukimori-kizuna@manga` | 月森きずな; Tsukimori Kizuna |
 | [Tsunomori Rona](characters/index/tokyo-7th-sisters.md#tsunomori-rona) | Tokyo 7th Sisters game | `tokyo-7th-sisters:tsunomori-rona@game` | — |
 | [Tuan Kirie](characters/index/harmony.md#tuan-kirie) | Original novel, bounded comparative ethics | `harmony:tuan-kirie@original-novel` | — |
 | [Tuuli](characters/index/ascendance-of-a-bookworm.md#tuuli) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:tuuli@light-novel` | — |
@@ -653,6 +660,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [X](characters/index/to-be-hero-x.md#x) | To Be Hero X first season | `to-be-hero-x:x@animated-series` | — |
 | [Xiao Yueqing](characters/index/to-be-hero-x.md#xiao-yueqing-moon) | To Be Hero X animated series | `to-be-hero-x:xiao-yueqing-moon@animated-series` | Moon |
 | [Yamai Saori](characters/index/tokyo-7th-sisters.md#yamai-saori) | Tokyo 7th Sisters game | `tokyo-7th-sisters:yamai-saori@game` | — |
+| [Yamashi Mebuki](characters/index/fx-fighter-kurumi-chan.md#yamashi-mebuki) | Japanese manga | `fx-fighter-kurumi-chan:yamashi-mebuki@manga` | 山師芽吹; Yamashi Mebuki; 若葉 |
 | [Yang Cheng](characters/index/to-be-hero-x.md#yang-cheng-e-soul) | To Be Hero X animated series | `to-be-hero-x:yang-cheng-e-soul@animated-series` | E-Soul |
 | [Yang Wen-li](characters/index/legend-of-the-galactic-heroes.md#yang-wen-li) | Legend of the Galactic Heroes original novels | `legend-of-the-galactic-heroes:yang-wen-li@original-novels` | ヤン・ウェンリー |
 | [Yano Mitsuki](characters/index/watayuri.md#yano-mitsuki) | Japanese manga | `watayuri:yano-mitsuki@manga` | — |
@@ -683,6 +691,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Yūki](characters/index/shiboyugi.md#yuuki) | Japanese light-novel continuity | `shiboyugi:yuuki@light-novel` | 反町友樹; 幽鬼; Sorimachi Yūki |
 | [Zani](characters/index/wuthering-waves.md#zani) | Wuthering Waves game | `wuthering-waves:zani@game` | — |
 | [Zanoba](characters/index/mushoku-tensei.md#zanoba) | Japanese light-novel continuity | `mushoku-tensei:zanoba@light-novel` | — |
+| [Zenba Nana](characters/index/fx-fighter-kurumi-chan.md#zenba-nana) | Japanese manga | `fx-fighter-kurumi-chan:zenba-nana@manga` | 善波なな; Zenba Nana; ばなな |
 | [Zereschilt](characters/index/konosuba.md#zereschilt) | Original light-novel continuity, scoped current monograph | `konosuba:zereschilt@original-light-novel` | 残虐公; ゼーレシルト |
 | [Zesta](characters/index/konosuba.md#zesta) | Original light-novel continuity, bounded character study | `konosuba:zesta@original-light-novel` | ゼスタ |
 | [Ōgaki Chiaki](characters/index/yuru-camp.md#ogaki-chiaki) | Japanese manga | `yuru-camp:ogaki-chiaki@manga` | 大垣千明 |
