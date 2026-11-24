@@ -13,6 +13,8 @@ The six shorts repeatedly set up a familiar musical ending and then find a diffe
 
 Read the [53-proposition claim matrix](CLAIM_MATRIX.md) for the decisions and [corrections, disputes and verifier referrals](COVERAGE_AND_OPEN_ITEMS.md) for their effects on the earlier readings and Gemini’s retrospective. The separate [TV record](../TV%20Audiovisual%20Reconciliation/README.md) remains the authority for TV returns. This comparison supplies an attributable overlay. The six source readings retain their original language and release-order horizon.
 
+The [owner listening return and closeout](OWNER_LISTENING_RETURN_20261123.md) records the later human playback observations, the accepted Short 05 wording and restraint-device inference, and the remaining phonetic and sound-source limits. The listening pass is complete for the current synthesis.
+
 The [source-reading participation and CP4 correction](SOURCE_READING_PARTICIPATION_AND_CP4_CORRECTION.md) identifies each independent execution context and its unit-specific contribution before and after the source seals. It also governs the terminal prediction count used at CP5.
 
 ## What was compared
@@ -53,7 +55,7 @@ Shorts 02–06 were opened one at a time. The source reader used Japanese cues, 
 
 For the retrospective pass, two range specialists independently compared S01–03 and S04–06 with the earlier readings. A third reviewer audited provenance, cross-short assertions, primary controls and negative evidence. The principal tested music alignments and adjudicated competing readings. The review included all six unit reports, all 36 specialist/adjudication files, the short contributions in seven cumulative ledgers and the four full-corpus retrospective documents. These records share the same underlying pictures and audio. Agreement between their authors is weaker than an independently reproduced source check.
 
-The producer’s capability report describes an initial multimodal pass with audio and approximately one visual sample per second, followed by targeted native-frame inspection, short-sequence and PCM tests. Here the receiver could inspect individual decoded pictures, frame sequences, crop detail, sample peaks, channel width, exact-zero intervals and TV reference correlations. It did not perform a native continuous perceptual AV audition. Relative vocal color, masked words, intentionally mixed simultaneity and what characters perceived retain the provenance stated in each row. The [open-item register](COVERAGE_AND_OPEN_ITEMS.md) routes consequential auditory questions to an independent Japanese-speaking listener with synchronized playback.
+The producer’s capability report describes an initial multimodal pass with audio and approximately one visual sample per second, followed by targeted native-frame inspection, short-sequence and PCM tests. Here the receiver could inspect individual decoded pictures, frame sequences, crop detail, sample peaks, channel width, exact-zero intervals and TV reference correlations. It did not perform a native continuous perceptual AV audition. Relative vocal color, masked words, intentionally mixed simultaneity and what characters perceived retain the provenance stated in each row. The [open-item register](COVERAGE_AND_OPEN_ITEMS.md) preserves the questions dispatched for synchronized listening.
 
 ## Outcome and authority
 
