@@ -3,14 +3,14 @@ title: "Psycho-Pass S1 New Edit — Claims and disclosure"
 artifact_id: PP_S01NE_CLAIM_AND_DISCLOSURE_LEDGER
 artifact_type: claim_and_disclosure_ledger
 series: psycho-pass
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 authority_generation: PP-INITIAL
-source_boundary: "PP-S01NE-E01 admitted and accepted"
+source_boundary: "PP-S01NE-E01–E02 admitted and accepted"
 canonical_home: series/psycho-pass/installments/s01-new-edit/PP_S01NE_CLAIM_AND_DISCLOSURE_LEDGER.md
 created: 2026-11-18
 last_updated: 2026-11-23
@@ -18,7 +18,7 @@ last_updated: 2026-11-23
 
 # S1 New Edit — Claims and disclosure
 
-**Accepted records through `PP-S01NE-E01`: 12 local claims (`CLM-0001`–`0012`), 1 frozen prospective record (`PP-S01NE-PRE-0001`), 7 disclosure events (`DISC-0001`–`0007`), 8 adjudicated multi-agent disputes (`DSP-01`–`08`), 6 retained `OPEN` horizon questions.** This ledger preserves the installment's changing explanations and legitimate knowledge, complementing [source observations](PP_S01NE_EVIDENCE_AND_STATE_LEDGER.md). It is not a prewritten philosophical reading.
+**Accepted records through `PP-S01NE-E02`: 24 local claims (`CLM-0001`–`0024`), 2 frozen prospective records (`PP-S01NE-PRE-0001`–`0002`), 15 disclosure events (`DISC-0001`–`0015`), 17 adjudicated multi-agent disputes (`DSP-01`–`17`), 9 retained `OPEN` horizon questions.** This ledger preserves the installment's changing explanations and legitimate knowledge, complementing [source observations](PP_S01NE_EVIDENCE_AND_STATE_LEDGER.md). It is not a prewritten philosophical reading.
 
 ## Prospective and disclosure records
 
@@ -84,3 +84,46 @@ A new independent finding is separately identified before assessing whether it c
 
 - **Retained `OPEN` Horizon Questions (Carried Into `PP-S01NE-E02` Freeze):** (1) Makishima's prologue↔tower/Kōgami relation; (2) identity & circumstances of Kōgami's unnamed smoking colleague and `"abnormal"` death; (3) trajectory of Akane's post-report institutional agency under Ginoza; (4) history behind Masaoka's prosthetic left hand and Masaoka/Ginoza/Kōgami ties; (5) Yayoi↔Shion private/professional relation (`00:30:31`); (6) Sibyl's material constitution and exact threshold rules (`110` vs. `127.4` vs. `162.9` vs. `>300`).
 - **Master Deltas Sent & Accepted:** `PP-DELTA-0001`–`0004` reconciled into [`PP_CONTINUITY_AND_CLAIM_LEDGER.md`](../../franchise/ledgers/PP_CONTINUITY_AND_CLAIM_LEDGER.md) and [`PP_FRANCHISE_STATE_LEDGER.md`](../../franchise/ledgers/PP_FRANCHISE_STATE_LEDGER.md).
+
+
+---
+
+## Accepted Unit Records — `PP-S01NE-E02`
+
+### Frozen Prospective Record (`PP-S01NE-PRE-0002`)
+
+- **ID & Hash:** `PP-S01NE-PRE-0002` (`5,605` bytes, `SHA-256: f578edc17aaeb7dbdb1295bb4ecaa566492ae1504a853e122d397bf6f54bd196`, preserved byte-unaltered; locked prior to any E02 narrative inspection; entering viewer boundary strictly `PP-S01NE-E01`).
+- **Outcome:** `Q1` (BD sync with `+0.111s` audio start, `0` TV diffs) `CONFIRMED`; `Q2` adjudicated cleanly to **`H2c CONFIRMED`** (deepened institutional contradiction sharpening `H3c` without collapsing into flat dystopia); `Q3` (Akane post-report friction) `CONFIRMED` (sharply complicated by Kōgami's brutality & Shōko's unintended exposure); `Q4` (Kōgami's past) `PARTIALLY CONFIRMED` / core `STILL UNRESOLVED`; `Q5` (squad breadth) `PARTIALLY CONFIRMED` (Masaoka/Ginoza depth; Yayoi↔Shion & Kagari age-5 untouched); `Q6` (Makishima main-timeline entry) `CONFIRMED`.
+
+### Disclosure Events (`PP-S01NE-DISC-0008` – `DISC-0015`)
+
+| Disclosure ID | Proposition / Event | Audience vs. Character Access | Unit / Locator |
+| --- | --- | --- | --- |
+| `PP-S01NE-DISC-0008` | Makishima Shōgo & Choi Gu-sung supply `Johnny Mnemonic` disk (analeptic prelude) & hold `LSM LIBRARY` / `ハイパーオーツ` / `ウイルス` tablet | Audience sees (`00:00:00–00:01:33`, `00:19:23`); CID Division 1 knows **nothing** of Makishima, Gu-sung, or the disk's supplier. | `PP-S01NE-E02` (`00:00:00–00:01:33`, `00:19:23`) |
+| `PP-S01NE-DISC-0009` | Kōgami's solitary wall archive holds a creased crowd photo of a pale-haired figure (`f05`, verbally unconfirmed) | Audience sees (`00:02:21–00:02:25`); no other CID member sees the cell wall in E02. | `PP-S01NE-E02` (`00:02:21–00:02:25`) |
+| `PP-S01NE-DISC-0010` | Offline `電波暗室` disables Dominator (`通信エラー`/`文鎮`) while local scanners read only surface Hue; Dominator uses `割り込み処理` & `Destroy Decomposer` | Akane & Audience learn architecture from Masaoka (`00:10:33–00:11:44`) and witness `Destroy Decomposer` (`00:22:13`). | `PP-S01NE-E02` (`00:10:33–00:11:44`, `00:22:13`) |
+| `PP-S01NE-DISC-0011` | Kanehara's local Hue improved after Shioyama's murder, yet scanned **`CC 265`** (Paralyzer) under live provocation | CID & Audience learn Hue shift (`00:14:55`) and `CC 265` non-lethal arrest (`00:21:51`). | `PP-S01NE-E02` (`00:14:55`, `00:21:51`) |
+| `PP-S01NE-DISC-0012` | Masaoka calls Ginoza `伸元`, triggers Ginoza's `"landmine"` (`地雷`), and tells Akane `"コウのときもそうだった"` | Akane & Audience hear `伸元` (`00:09:52`), witness eruption/landmine (`00:15:33–00:17:21`), and hear `"コウ"` confession (`00:28:24`); origin remains undisclosed to Akane & Audience. | `PP-S01NE-E02` (`00:09:52`, `00:15:33–00:17:21`, `00:28:24`) |
+| `PP-S01NE-DISC-0013` | Kimihiko Hayama (real Talisman) was murdered & flushed down drains 2 months ago; voice-synthesized impostor runs his avatar | CID & Audience establish murder (`00:30:04–00:32:30`); Audience alone learns impostor's identity (`御堂将剛`) at `00:40:30` & `00:43:33`. | `PP-S01NE-E02` (`00:30:04–00:32:30`, `00:40:30`, `00:43:33`) |
+| `PP-S01NE-DISC-0014` | Spooky Boogie is Akane's former school classmate (`菅原昭子` / `すがわら しょうこ` in ED/epilogue) | Akane learns classmate tie (`00:35:45`) without yet knowing her name/face; Audience learns `菅原昭子` (`しょうこ`) at `00:44:10` / ED. | `PP-S01NE-E02` (`00:35:45`, `00:44:10`) |
+| `PP-S01NE-DISC-0015` | Choi Gu-sung hacks Club Exocet holos via Dominator RF detection; Midō strangles Shōko Sugawara with Makishima & Gu-sung present | Audience sees (`00:40:23–00:44:25`); CID Division 1 knows **none** of Gu-sung's hack, Midō's identity, Makishima's presence, or Shōko's murder at `00:45:52`. | `PP-S01NE-E02` (`00:40:23–00:44:25`) |
+
+### Local Claims & Dispositions (`PP-S01NE-CLM-0013` – `CLM-0024`)
+
+| Claim ID | Kind & Disposition | Reconciled Proposition, Supporting Observations & Rival / Uncertainty |
+| --- | --- | --- |
+| `PP-S01NE-CLM-0013` | Narrative / Causal (`STRENGTHEN`, High) | Makishima Shōgo and Choi Gu-sung actively facilitate both E02 crimes (`Johnny Mnemonic` disk; Club Exocet RF counter-surveillance & holo-hack; physical attendance at Shōko's murder) while remaining completely invisible to CID at `00:45:52` (`E02-OBS-0001`, `0011`, `0020`, `0023`). |
+| `PP-S01NE-CLM-0014` | Chronology / Boundary (`REVISE` — `DSP-10/13`, High) | `SC-01` (`ドミノの最初の1枚` / `準備は整った`) is chronologically analeptic relative to Act I's 1-year 3-victim span and Act II's 2-month disappearance; Makishima's `LSM LIBRARY` tablet (`ハイパーオーツ` / `ウイルス`, conservative `...巻宣昭`) is a verified unspoken diegetic seed whose downstream significance stays strictly `OPEN` (`E02-OBS-0001`, `0003`, `0015`). |
+| `PP-S01NE-CLM-0015` | Character / Causal (`REVISE`, High) | Akane's E02 trajectory pairs expanding Inspector courage (defying Ginoza's passivity, leading Exocet infiltration) with severe moral friction — confronting her `内在化したシビュラシステムの思想`, recoiling from Kōgami's brutality, and inadvertently placing classmate Shōko Sugawara in Midō's fatal crosshairs (`E02-OBS-0003`, `0009–0013`, `0018–0022`). |
+| `PP-S01NE-CLM-0016` | Character / Ethical (`REVISE` — `DSP-09/12/16`, High) | Kōgami embodies an unresolved duality: genuine humane solidarity (`シビュラシステムさまさまだな`, cafeteria hand) and physical-world deductive genius (`ホログラフの椅子には座れない`) coexist with calculated cruelty breaching Akane's informed consent (`話をするだけなんですよね？`), feral combat exhilaration, and candid self-awareness (`まったくの正論だ`). Prior insider status is a bounded inference (`INF`: `00:23:41` + `00:28:24`), while the creased pale-haired wall photo (`f05`) remains visually suggestive but verbally unconfirmed (`E02-OBS-0002`, `0007`, `0010–0012`, `0014–0015`, `0019`). |
+| `PP-S01NE-CLM-0017` | Relational / Psychological (`REVISE` — `DSP-15/16`, High) | Ginoza and Masaoka share an unspoken `"landmine"` rupture (`伸元`, `貴様`/`社会のくず`, `地雷踏んだわよ`) whose exact origin/kinship remains undisclosed at E02; Ginoza's Bismarckian rhetoric equates private trauma with `"History"`, yet he honors concrete physical proof (`分かった`, `00:31:35`), while Masaoka endorses `犬は犬、飼い主は飼い主` out of protective realism and/or survivor's guilt over `"コウ"` (`E02-OBS-0003`, `0006`, `0008–0009`, `0014–0015`). |
+| `PP-S01NE-CLM-0018` | Institutional / Interpretive (`REVISE` → `H2c CONFIRMED`, High) | E02 sharpens `H3c` into **`H2c`**: severe systemic blind spots (`電波暗室`, `経済省` turf, scapegoat bullying rationalized via Sibyl `役回り`, murder clearing local Hue, 2-month `NO DATA` avatar theft) coexist directly with genuine counterweights (non-lethal **`CC 265`** capture of a triple killer, Ginoza's physical-evidence compliance, functional affiliate/smart-home detection, and structured off-duty Enforcer life `非番`) (`E02-OBS-0004–0008`, `0012`, `0014–0015`, `0020`). |
+| `PP-S01NE-CLM-0019` | Institutional / Lexical (`STRENGTHEN` — `DSP-09`, High) | The Kōgami↔Akane Club Exocet exchange (`00:39:30–00:39:53`, verified Kōgami on lossless `clip10a`) crystallizes Sibyl's civic-sanity paradox: whether maintaining a Clear Color structurally requires disabling realistic threat perception (`そんな考え方してるからサイコパスが濁るんですよ` → `まったくの正論だ`) (`E02-OBS-0019`). |
+| `PP-S01NE-CLM-0020` | Philosophical / Intertextual (`STRENGTHEN`, High) | Nietzsche's abyss (`深淵をのぞくとき…`, spoken by Masaoka alongside his cobalt-over-crimson palette-knife stroke) is operationalized as literal psychometric contagion under Sibyl (`E02-OBS-0014`). |
+| `PP-S01NE-CLM-0021` | Philosophical / Structural (`STRENGTHEN`, High) | Orwell's *Nineteen Eighty-Four* (`00:44:01`) operates dual-edged rather than as flat "Sibyl = Big Brother": Midō's private unpersoning of Shōko (`この女だけを消す。跡形もなく、完全に`) inside the "anarchic" virtual sphere mirrors Gōda's state-corporate erasure of murder behind `Clear Color` charts (`E02-OBS-0007–0008`, `0021–0023`). |
+| `PP-S01NE-CLM-0022` | Audio / Socio-Technical (`STRENGTHEN` — `DSP-17`, High) | Voice-actor architecture reinforces the plot: Talisman (`子安武人`) ≠ Midō (`水島大宙`) proves avatar voice synthesis conceals usurpation, while shared VA `竹達彩奈` for Spooky Boogie / `菅原昭子` (`すがわら しょうこ`, verified lossless FLAC) turns her spoken pronoun collapse (`わたくし`→`あたし`→`超キモい`) into an auditory unmasking of `建前` vs. `本音` (`E02-OBS-0018`, `0021–0024`). |
+| `PP-S01NE-CLM-0023` | Formal / Audiovisual (`STRENGTHEN`, High) | E02 sustains a disciplined formal vocabulary (sunlit liturgy vs. Pencak Silat/jazz; lens/glass shields; cafeteria birch paintings; Decomposer silence → solo piano → crimson `+` bars; tomato-blender match cut into ED) while clearly separating deliberate form from ordinary-life texture and production greeking (`E02-OBS-0001–0002`, `0004`, `0007`, `0012`, `0014`, `0023–0024`). |
+| `PP-S01NE-CLM-0024` | Source / Anomaly (`REVISE` — `DSP-11/14`, High) | E02 contains both deliberate chronological convergence (`Akashi/Kanehara/Hayama` DOBs → `2113-09-13`–`2114-06-05`, ~1 yr ahead of E01 `2112` props) and verified production artifacts: Ginoza's master-audio script slip at `00:34:35.93` (`葉山はタリスマンとは`), Satoshi Iba's 8-yr DOB typo (`2082/23`), recycled `ID_ST//00547_AS65026_`, `left arm` for `左足部欠損`, `ANTERCTIC DOROPS`, `LIVERTY`, and Windows DirectX/MSI greeking (`E02-OBS-0002`, `0004–0005`, `0015–0017`, `0024`). |
+
+- **Retained `OPEN` Horizon Questions (Carried Into `PP-S01NE-E03` Freeze):** (1) Midō's fate, CID's response to the blown Club Exocet sting, and Shōko Sugawara's undiscovered murder; (2) how Midō bypassed `CommuField`'s `Biometrics` login UI (`00:31:59`); (3) how CID will eventually uncover Makishima/Gu-sung and the `Johnny Mnemonic` supplier; (4) verbal identity of Kōgami's creased pale-haired wall photo (`f05`) and exact past incident behind `"コウのときもそうだった"` & `"abnormal"` death; (5) exact origin/kinship of the Ginoza–Masaoka `"landmine"` (`伸元`); (6) unexplained significance of Makishima's `LSM LIBRARY` / `ハイパーオーツ` / `ウイルス` tablet seed; (7) Yayoi↔Shion (`00:30:31` E01; `00:32:23` E02 wink); (8) Kagari's uncorroborated age-5 Latent Criminal self-report; (9) Sibyl's material constitution and the E01 (`2112`) vs. E02 (`2113–14`) DOB-card shift.
+- **Master Deltas Sent & Accepted:** `PP-DELTA-0005`–`0009` reconciled into [`PP_CONTINUITY_AND_CLAIM_LEDGER.md`](../../franchise/ledgers/PP_CONTINUITY_AND_CLAIM_LEDGER.md) and [`PP_FRANCHISE_STATE_LEDGER.md`](../../franchise/ledgers/PP_FRANCHISE_STATE_LEDGER.md).
