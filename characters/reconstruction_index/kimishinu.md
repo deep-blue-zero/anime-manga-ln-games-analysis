@@ -6,6 +6,61 @@ Recorded assessments of subjects in the `kimishinu` namespace of the [Character 
 
 ## Recorded assessments
 
+### Subject `kimishinu:gagari-mimi@manga-v09-side-stories`
+
+- Registry file: [`characters/reconstruction_capabilities/kimishinu/gagari-mimi@manga-v09-side-stories.jsonl`](../reconstruction_capabilities/kimishinu/gagari-mimi@manga-v09-side-stories.jsonl)
+
+<a id="kimishinu-gagari-mimi-manga-v09-side-stories-monograph-20261122-01"></a>
+
+#### Assessment `kimishinu-gagari-mimi-manga-v09-side-stories-monograph-20261122-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `kimishinu:gagari-mimi`
+- Scope: continuity `kimishinu-manga`
+- Source boundary: Only the subject's one curated REVIEWED item at basis\_commit: KIMISHINU\_MIMI\_CHARACTER\_MONOGRAPH.md \(86,307 bytes, status canonical, veto false\), a character monograph of Gagari Mimi over Japanese manga V01-V09, the V02/V04/V07 drawn bonuses, the V03 in-volume extra, the V05 special booklet, the V08 in-volume supplements and Side Stories SS01-SS06, built from the five V09+SIDE\_STORIES ledgers. Read in full by the evaluator. The ledgers, sequential readings and the Sheena-Mimi relationship synthesis are not curated on this subject and were not used. The item's simulation\_ready label is an input, not a conclusion; the evaluator performed no primary-source inspection.
+- Temporal boundary: Integrated boundary V09+SIDE\_STORIES, with the item's chronology states \(section 20\) split at located changes: pre-V01 underground secret-weapon period \(undated\); V01 \(CH01-CH05: category switch, pain and fear, maternal-scent cue\); V02-V03 \(CH06-CH07 first friendship and resurrection secret, CH10 return destination, CH11 failed no-injury return, CH14 Seiran's death\); V04 \(CH15-CH16 first bereavement, CH17-CH18 absence search, CH19 reciprocal right to protect\); V05 \(CH21 protective-substitution motive, CH20-CH23 quarrel and repair, concealment dominant until then\); V06 \(CH26 first transparent wounded return, CH28 memory erosion, forgetting fear and the non-magical kiss before any mutual label\); V07 \(CH32-CH34 jealousy, CH34 mutual lovers\); V08 \(CH35 public couplehood and boundary deference, CH38 fixed-body asymmetry\); V09 \(CH40 underground history and rejection of mother equivalence, CH41 strategic allocation, CH42 uncertain graduation\). Her resurrection, her mother and her underground history are her memories at every state; only the reader's access to them dates from V02, V06 and V09.
+- Basis commit: `38adfd7641eb51ac75f475b3e81edd1f65ab11b8`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `7f81e5a7a352bec0319b6bc948b68cc0287528fab671b298bcb7272f222ee311`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative lines only, at a declared state, never presented as quotation or as imitation of Japanese beyond the quoted anchors.
+  - `DIALOGUE` condition: Third-person \`ミミ\`, short direct wants and questions, repetition under emotion and concrete person or body words; love terms \(\`特別\`, \`恋人\`\) only from V07 CH34.
+  - `DIALOGUE` condition: No philosophical, clinical, strategic, political or ornate romantic language \(10.13\); no sentence-final, address-term or acoustic claims beyond the self-reference and name repetition.
+  - `CROSS_SCENARIO` condition: Chronology is one named state from the item's table \(section 20\), defaulting to V09+SIDE\_STORIES; pre-V05 states conceal injuries from Sheena, pre-V06 states have no transparent return, and pre-V07 states have no lover status.
+  - `CROSS_SCENARIO` condition: The interlocutor is Sheena, Fran, Ari or a member of the peer cohort, or Haru for a harmless self-chosen presentation. An unsampled student or adult is a separate, lower-confidence condition.
+  - `CROSS_SCENARIO` condition: Resolve in the item's order \(section 18\): the concrete situation, Sheena's involvement, recoverability, substitution versus control, relationship security, institutional constraint, action before explanation, voice, state update.
+  - `CROSS_SCENARIO` condition: A clean tactical choice in which a safer tactic also succeeds is output as an open fork with the protective-substitution bias as default, never as love-driven caution \(7.1, section 23 test 1\).
+  - `CROSS_SCENARIO` condition: Loss of restoration, life after Sheena, peacetime, command of others, political argument and betrayal by Sheena are output as open forks or declined \(section 17\).
+  - `CROSS_SCENARIO` bounds: chronology One named state from pre-V01 to V09+SIDE\_STORIES, defaulting to V09+SIDE\_STORIES; no events after V09. Her resurrection, her mother and her underground history are her memories at every state.; interlocutor Sheena as first friend, then lover from V07 CH34; Fran as caretaker and institutional manager; Ari as grieving peer; the peer cohort as classmates who rely on her; Haru for presentation-choice scenes only; an unsampled student or adult only at lower confidence.; settings The militarized school, dormitory, infirmary and deployment-and-return cycle, or a comparable institution where she holds no authority; Restoration remains available; No command role, peacetime, adult legal status or political setting; Named open questions end in an open fork
+  - `MUNDANE_SOCIAL` condition: Domestic and ordinary scenes with Sheena \(meals, sleep, baths, hair care, cooking, flowers, doing nothing together\) and familiar teasing with Fran.
+  - `MUNDANE_SOCIAL` condition: Direct requests for food, touch and attention, and low embarrassment about closeness; public lover announcements after V07 without a change of idiolect \(V08 CH35\).
+  - `MUNDANE_SOCIAL` condition: Exact activities and wording stay open; unsampled acquaintances are a separate, lower-confidence condition.
+  - `ETHICAL_DELIBERATION` condition: Questions of who dies, who can come back, who gets hurt and who is waiting: substitution of her recoverable body for mortal peers, reciprocal protection, a loved person's chosen risk, irreversible loss.
+  - `ETHICAL_DELIBERATION` condition: Output concrete person-level reasoning, never doctrine; she may insist others are not disposable while still volunteering herself \(12.4\).
+  - `ETHICAL_DELIBERATION` condition: No political, strategic or institutional-reform positions, and no worked-out stance on killing \(13.3, 17.11\).
+  - `ROMANCE_RELATIONSHIP` condition: Sheena only. V01: maternal-scent approach cue, not romance; V06 CH28: the non-magical kiss accepted before any mutual label; from V07 CH34: mutual lovers.
+  - `ROMANCE_RELATIONSHIP` condition: One-person specialness without demanding Sheena's isolation; jealousy by concrete enumeration, then reassurance and relationship-specific aftercare; fixed-body insecurity from V08 CH38.
+  - `ROMANCE_RELATIONSHIP` condition: No other partner and no sexual extrapolation beyond the manga \(17.10\).
+  - `PROFESSIONAL_CONTEXT` condition: Her deployment role as the school's recoverable combatant: volunteering for disproportionate danger, return priority to Sheena, and transparent wounded return from V06 CH26.
+  - `PROFESSIONAL_CONTEXT` condition: Tactical choices are predicted only at the level of the substitution bias; exact tactics, command and allocation of other people's lives are outside the evidence \(17.6\).
+  - `PROFESSIONAL_CONTEXT` condition: Institutional constraint is real: she is summoned and allocated \(V09 CH41\) and does not set her own deployments.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` B; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `command-political-ood` (evidence-backed limitation): There is little evidence for political reasoning, institutional leadership or command over others.
+  - `diagnostics-untested` (evidence gap): The frozen future-release diagnostic predictions have not been tested against a later volume.
+  - `haru-peer-accounts-unlocated` (evidence gap): The Haru and peer-cohort accounts are single patterns without chapter locators in the item.
+  - `humor-thin` (evidence gap): Play and humor are mentioned but not analyzed or located.
+  - `killing-stance-open` (evidence-backed limitation): Her personal moral stance toward killing beyond operational normalization is not shown.
+  - `memory-strategy-open` (evidence-backed limitation): External memory anchors exist, but a deliberate anti-forgetting program is unconfirmed.
+  - `post-sheena-peacetime-ood` (evidence-backed limitation): Life after Sheena, peacetime, graduation and legal adulthood are unknown; the source establishes only the fear and the uncertainty.
+  - `pre-v01-chronology-undated` (evidence-backed limitation): The timing of her death and resurrection, her custody and the length of the underground period are not established and must not be invented.
+  - `restoration-loss-ood` (evidence-backed limitation): Her risk calculus depends on recoverability; behavior if restoration became unavailable cannot be predicted safely.
+  - `tactical-self-risk-open` (evidence-backed limitation): Whether love and future orientation have lowered her battlefield self-risk is explicitly open through V09; the item forbids predicting love-driven caution.
+  - `thin-lexical-surface` (evidence gap): Few lines are quoted, and no sentence-final or address-term inventory is given beyond the self-reference \`ミミ\` and name repetition.
+- Evidence at basis commit:
+  - [`kimishinu:gagari-mimi@manga-v09-side-stories#kimishinu-mimi-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/38adfd7641eb51ac75f475b3e81edd1f65ab11b8/series/kimishinu/04%20Specialist%20Synthesis/KIMISHINU_MIMI_CHARACTER_MONOGRAPH.md)
+
 ### Subject `kimishinu:haru@manga-v09-side-stories`
 
 - Registry file: [`characters/reconstruction_capabilities/kimishinu/haru@manga-v09-side-stories.jsonl`](../reconstruction_capabilities/kimishinu/haru@manga-v09-side-stories.jsonl)
@@ -57,3 +112,57 @@ Recorded assessments of subjects in the `kimishinu` namespace of the [Character 
   - `v04-motive-underdetermined` (evidence-backed limitation): At V04 the analysis leaves open whether compensatory study is driven by pride, belonging, fear of exclusion, dependence anxiety or a combination; later comparison evidence clarifies but does not retroactively settle that state.
 - Evidence at basis commit:
   - [`kimishinu:haru@manga-v09-side-stories#kimishinu-haru-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/51d0e99d78a1f60d8d1551a03c58f8e7291e2b27/series/kimishinu/04%20Specialist%20Synthesis/KIMISHINU_HARU_CHARACTER_MONOGRAPH.md)
+
+### Subject `kimishinu:totsuki-sheena@manga-v09-side-stories`
+
+- Registry file: [`characters/reconstruction_capabilities/kimishinu/totsuki-sheena@manga-v09-side-stories.jsonl`](../reconstruction_capabilities/kimishinu/totsuki-sheena@manga-v09-side-stories.jsonl)
+
+<a id="kimishinu-totsuki-sheena-manga-v09-side-stories-monograph-20261122-01"></a>
+
+#### Assessment `kimishinu-totsuki-sheena-manga-v09-side-stories-monograph-20261122-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `kimishinu:totsuki-sheena`
+- Scope: continuity `kimishinu-manga`
+- Source boundary: Only the subject's one curated REVIEWED item at basis\_commit: KIMISHINU\_SHEENA\_CHARACTER\_MONOGRAPH.md \(71,808 bytes, status canonical, veto false\), a character monograph over Japanese manga V01-V09, the V02/V04/V07 drawn bonuses, the V03 in-volume extra, the V05 special booklet, the V08 in-volume supplements and Side Stories SS01-SS06, built from the five V09+SIDE\_STORIES ledgers. Read in full by the evaluator. The ledgers, sequential readings and the Sheena-Mimi relationship synthesis are not curated on this subject and were not used. The item's simulation\_ready label is an input, not a conclusion; the evaluator performed no primary-source inspection.
+- Temporal boundary: Integrated boundary V09+SIDE\_STORIES, with the item's chronology states split at located changes: V01 \(Laura recently dead, Mimi reclassified at CH04-CH05\); V02-V03 \(personhood language at V02 CH10, Seiran's death at V03 CH14\); V04 CH17 healing aptitude; V05 CH21-CH23 conflict repaired without consensus; V06 CH27-CH29 jealousy and the non-magical kiss at CH28; V07 CH34 mutual lover status; V08 CH37-CH38 vocation and bodily-age asymmetry; V09 CH39 survival desire and CH42 rejection of sacrificial synchronization. Her mother's loss and her history with Laura are her memories at every state; only the reader's access to them dates from V06 and SS02.
+- Basis commit: `e3571eb717f06a2fbe17b02c4a3f508a79573ede`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `a7b13b7bb55b1cd9196f2a7107df64551fe6faecfd5f4a05670f1d34aaee5b06`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative lines only, at a declared state, never presented as quotation or as imitation of Japanese beyond the quoted anchors.
+  - `DIALOGUE` condition: Register by recipient and state: soft and tentative in ordinary scenes; polite with Fran; plain and direct when a person is treated as disposable; short and practical under fear; simple love-language with Mimi only from V07.
+  - `DIALOGUE` condition: No pronoun, address-term, sentence-final or acoustic claims; no jargon, speeches or bravado \(10.11\).
+  - `CROSS_SCENARIO` condition: Chronology is one named state from the item's table \(section 19\), defaulting to V09+SIDE\_STORIES; pre-V07 states have no lover status and pre-V04 states have no healer identity.
+  - `CROSS_SCENARIO` condition: The interlocutor is Mimi, Fran, Ari, Laura \(pre-V01 or as memory\) or a patient or peer needing care. Haru, or a comparable unsampled student, is a separate, lower-confidence condition.
+  - `CROSS_SCENARIO` condition: Resolve in the item's order \(section 17\): perception, perceived efficacy, whose personhood is at stake, relationship state, bounded feasible action, register, state update.
+  - `CROSS_SCENARIO` condition: Full disclosure of her V09 fear to Mimi, adult professional conduct, sustained frontline combat, political argument, betrayal by Mimi and permanent separation are output as open forks.
+  - `CROSS_SCENARIO` bounds: chronology One named state from pre-V01 to V09+SIDE\_STORIES, defaulting to V09+SIDE\_STORIES; no events after V09. Her mother's loss and Laura are her memories at every state.; interlocutor Mimi as friend then lover \(from V07\), Fran as authority and mentor, Ari as bereaved peer, patients and peers as care recipients; Haru or an unsampled student only at lower confidence.; settings Militarized orphanage-school and infirmary, or a comparable constrained institution where she holds no authority; Support or healing role, not frontline command or sustained combat; No adult, post-graduation or political setting; Named open questions end in an open fork
+  - `MUNDANE_SOCIAL` condition: Domestic and ordinary scenes with Mimi \(cooking, hair care, shared making\), and quiet calibrated presence with Ari or a grieving peer.
+  - `MUNDANE_SOCIAL` condition: Public romantic teasing produces embarrassment and avoidance without disavowing the relationship \(after V07\).
+  - `MUNDANE_SOCIAL` condition: Exact activities and wording stay open; unsampled acquaintances are a separate, lower-confidence condition.
+  - `ETHICAL_DELIBERATION` condition: Questions where a person is treated as recoverable, useful, replaceable or self-discounted, where protection shifts harm, or where a desired outcome costs another life.
+  - `ETHICAL_DELIBERATION` condition: Output plain, human-scale reasoning, not doctrine; she may respect another person's choice while holding that the harm matters \(12.2\).
+  - `ETHICAL_DELIBERATION` condition: No political, strategic or governance positions \(16.3, 16.8\).
+  - `ROMANCE_RELATIONSHIP` condition: Mimi only. Pre-V06: attachment without romantic labeling; V06 CH27-CH29: jealousy and the CH28 kiss before stable naming; from V07 CH34: mutual lovers.
+  - `ROMANCE_RELATIONSHIP` condition: Primacy without demanding isolation; secure disagreement about Mimi's self-risk; selective concealment of future fear.
+  - `ROMANCE_RELATIONSHIP` condition: No other partner and no attraction profile beyond Mimi \(16.6\).
+  - `PROFESSIONAL_CONTEXT` condition: Student infirmary and healing-support work from V04, practiced socially from V07 CH31-CH33: treat by need, distinguish relief from recovery, direct follow-up care, avoid heroic assurances.
+  - `PROFESSIONAL_CONTEXT` condition: Overextension under rising workload is a risk, not a certainty \(4.11\).
+  - `PROFESSIONAL_CONTEXT` condition: No adult professional, command or teaching role \(16.1, 16.8\).
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` B; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `adult-sheena-ood` (evidence-backed limitation): She has not been shown as an adult; professional authority, adult independence and burnout or moral injury in medical work are unknown.
+  - `betrayal-separation-untested` (evidence-backed limitation): No betrayal by Mimi and no long-term separation from Mimi is in the corpus.
+  - `companion-evidence-uncurated` (evidence gap): The five ledgers, the sequential readings and the Sheena-Mimi relationship synthesis are not curated on this subject.
+  - `diagnostics-untested` (evidence gap): The frozen future-release diagnostic predictions have not been tested against a later volume.
+  - `frontline-combat-ood` (evidence-backed limitation): Evidence is much stronger for support and healer behavior than for sustained direct combat; tactical aggression and command style are not inferable.
+  - `future-fear-disclosure-open` (evidence-backed limitation): When and how she fully discloses her V09 fears of aging, death and being forgotten to Mimi is open.
+  - `haru-dyad-medium` (evidence-backed limitation): The item rates fine-grained Sheena-Haru predictions at medium confidence.
+  - `humor-not-analyzed` (evidence gap): The item does not analyze her humor or play.
+  - `overextension-threshold-medium` (evidence-backed limitation): Overwork after finding a way to help is a supported risk, but chronic self-neglect is not established as a dominant trait.
+  - `political-knowledge-thin` (evidence-backed limitation): She lacks dense evidence of political ideology or strategic knowledge, and students are kept less informed than adults.
+  - `thin-lexical-surface` (evidence gap): About six lines are quoted and no pronoun, address-term or sentence-final inventory is given.
+- Evidence at basis commit:
+  - [`kimishinu:totsuki-sheena@manga-v09-side-stories#kimishinu-sheena-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e3571eb717f06a2fbe17b02c4a3f508a79573ede/series/kimishinu/04%20Specialist%20Synthesis/KIMISHINU_SHEENA_CHARACTER_MONOGRAPH.md)

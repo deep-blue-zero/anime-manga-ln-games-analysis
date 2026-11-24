@@ -38,6 +38,99 @@ Recorded assessments of subjects in the `one-punch-man` namespace of the [Charac
   - [`one-punch-man:bang@manga#opm-hero-character-state-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6cab13c6799a7f6488fabbdef96804643979de08/series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_HERO_CHARACTER_STATE_LEDGER.md)
   - [`one-punch-man:bang@manga#opm-relationship-state-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6cab13c6799a7f6488fabbdef96804643979de08/series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md)
 
+### Subject `one-punch-man:garou@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/one-punch-man/garou@manga.jsonl`](../reconstruction_capabilities/one-punch-man/garou@manga.jsonl)
+
+<a id="one-punch-man-garou-manga-v06-v37-distributed-ledgers-20261122-01"></a>
+
+#### Assessment `one-punch-man-garou-manga-v06-v37-distributed-ledgers-20261122-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `one-punch-man:garou`
+- Scope: continuity `one-punch-man-manga`
+- Source boundary: Only the subject's three curated REVIEWED items at basis\_commit, each status canonical with a false veto and each declaring Japanese tankobon V01-V37 plus an official web235-287 active\_provisional overlay: OPM\_CHARACTER\_MODEL\_READINESS\_INDEX.md \(100,271 bytes\), OPM\_MONSTER\_ANTAGONIST\_CHARACTER\_STATE\_LEDGER.md \(85,522 bytes\) and OPM\_RELATIONSHIP\_STATE\_LEDGER.md \(96,631 bytes\). Read: each item's front matter and framing sections and every section, row and line that names Garou, including the historical V08 matrix; sections about other characters were read only where they name him. The hero ledger, sequential readings, register audits and the legacy V1 Garou monograph are not curated on this subject and were not used. The project's 'strong' label is an input, not a conclusion; the evaluator performed no primary-source inspection.
+- Temporal boundary: Bang's mediated report \(V06-V07\) and direct evidence from V08 through V37 \(tankobon\_canonical\), with the web279-283 overlay as a separately labeled provisional state. States are split at V08 entry, the V17-V19 Monster Association custody and test, the V25 altered body, the V31 memory gap, the V33 grant, V34 ch.173 \(Tareo's harm and the loss of power\) and the post-V34 survivor. His childhood grievance \(revealed V09, deepened V17\) belongs to every state.
+- Basis commit: `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `970f75b3477f75f2303f5d2b05a9074c80ba4e98365df4535f2b7a32f7ccebca`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `DIALOGUE` condition: Illustrative written lines only, at a declared state, never presented as quotation or as imitation of Japanese lines.
+  - `DIALOGUE` condition: Rough plain register in every sampled relationship, verbal denial of care toward Tareo, and ideological statements kept to the located formulations.
+  - `DIALOGUE` condition: No extended speeches beyond the located formulations, and no post-V34 voice beyond the sampled apology, sparring and awkward talk.
+  - `CROSS_SCENARIO` condition: Use an autonomous human state from V08-V19, or the post-V34 survivor as a separate, lower-confidence case. Never transfer conduct from the V25-V34 altered states, where control is shared with external alteration.
+  - `CROSS_SCENARIO` condition: Supported response families: attacks on people he reads as heroes; study of opponents and adaptation, including the sample-exhaustion error; refusal of recruitment and ownership; rough verbal denial alongside costly protection of Tareo.
+  - `CROSS_SCENARIO` condition: Abstain on whether he would deliberately kill a defeated hero, on which regime governs after V34 under provocation, and on encounters at Saitama's level.
+  - `CROSS_SCENARIO` bounds: chronology One declared autonomous state inside V08-V19, or the post-V34 survivor from V34-V35 with only what that survivor knows; his childhood grievance belongs to every state. The web279-283 overlay is used only as a labeled provisional state.; interlocutor Tareo, Bang or Bomb, heroes he targets or fights, or Monster Association recruiters; Suiryu, Saitama or another hero after V34 only as a separate, lower-confidence case.; settings The hero society of the collected manga as depicted.; No transfer of altered-state powers, divine framing or donor contact.; No transfer of his care for Tareo to children in general.
+  - `MUNDANE_SOCIAL` condition: Only with Tareo, in the sampled hunter-period exchanges, or with Bang after V34 \(apology, sparring, awkward talk\).
+  - `MUNDANE_SOCIAL` condition: Rough register, practical help and denial of care.
+  - `MUNDANE_SOCIAL` condition: Abstain on strangers and on any wider ordinary routine.
+  - `ETHICAL_DELIBERATION` condition: Use only the position located at the declared state \(scripted-loser grievance, hunting regardless of rank, bully exclusion, equal-terror ideal, the V34 responsibility\).
+  - `ETHICAL_DELIBERATION` condition: Abstain on resolving the contradiction between doctrine and attachment beyond the located Tareo cases.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `altered-state-attribution` (evidence-backed limitation): From V25 to V34 his body is altered, his consciousness at V31 is uncertain, and the donor's grant arrives through refusal-contact \(V33\); the items keep his agency claims beside external alteration without settling attribution.
+  - `hero-side-evidence-uncurated` (evidence gap): Hero-ledger entries, the sequential readings and the register audits are not curated on this subject and were not used.
+  - `lethal-threshold-unsettled` (evidence-backed limitation): Before the alteration he adopts a hero-hunting threshold yet says he lacks decisive resolve \(V18\); whether he would deliberately kill a defeated hero in that state is not settled.
+  - `post-v34-continuation-open` (evidence-backed limitation): Whether ordinary continuation persists after V34 is the items' own open question; future harmful choices remain possible, and restitution, legal status and identity are unsettled.
+  - `survivor-knowledge-asymmetry` (evidence-backed limitation): The post-V34 survivor lacks the attained technique and the future knowledge of the self who instructed Saitama; the two must not be merged.
+  - `v20-v24-unrecorded` (evidence gap): The curated items record no direct Garou state for V20 or V22-V24.
+  - `voice-unanalyzed` (evidence gap): No register analysis by recipient or state is curated; voice rests on located quotations only.
+  - `web-overlay-provisional` (evidence-backed limitation): The web279-283 overlay \(ordinary labor, the Suiryu exchange\) is active\_provisional and completes no reform.
+- Evidence at basis commit:
+  - [`one-punch-man:garou@manga#opm-character-model-readiness-index`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_CHARACTER_MODEL_READINESS_INDEX.md)
+  - [`one-punch-man:garou@manga#opm-monster-antagonist-character-state-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_MONSTER_ANTAGONIST_CHARACTER_STATE_LEDGER.md)
+  - [`one-punch-man:garou@manga#opm-relationship-state-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md)
+
+### Subject `one-punch-man:genos@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/one-punch-man/genos@manga.jsonl`](../reconstruction_capabilities/one-punch-man/genos@manga.jsonl)
+
+<a id="one-punch-man-genos-manga-v01-v37-distributed-ledgers-20261122-01"></a>
+
+#### Assessment `one-punch-man-genos-manga-v01-v37-distributed-ledgers-20261122-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `one-punch-man:genos`
+- Scope: continuity `one-punch-man-manga`
+- Source boundary: Only the subject's three curated REVIEWED items at basis\_commit, each status canonical with a false veto and each declaring Japanese tankobon V01-V37 plus an official web235-287 active\_provisional overlay: OPM\_CHARACTER\_MODEL\_READINESS\_INDEX.md \(100,271 bytes\), OPM\_HERO\_CHARACTER\_STATE\_LEDGER.md \(146,735 bytes\) and OPM\_RELATIONSHIP\_STATE\_LEDGER.md \(96,631 bytes\). Read: each item's front matter and framing sections and every section, row and line that names Genos, including the historical V08 matrix and the Checkpoint-A results the items report; sections about other characters were read only where they name him. The Checkpoint-A ledger, sequential readings, register audits and the legacy V1 Genos monograph are not curated on this subject and were not used. The project's 'strong' label is an input, not a conclusion; the evaluator performed no primary-source inspection.
+- Temporal boundary: Collected V01-V37 \(tankobon\_canonical\) and, as a separately labeled provisional state, the web265-278 overlay. States are split at located changes: V02 accepted discipleship; V06 categorical trust in Saitama; V18 Kuseno's survival instruction; V20 attack configuration with the ten-second ceiling; V30 \(ch.154-155\) refusal of collateral self-destruction; V33-V34 core extraction and second core; V37 雷光核 and the neighboring room. His pre-V01 loss and revenge vow belong to every state.
+- Basis commit: `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `0fea4d8007757b5241b695d0e741f12c3fb986fb0dde8dfbd98a41df071c889b`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative written lines only, at a declared state, never presented as quotation or as imitation of Japanese lines.
+  - `DIALOGUE` condition: Register by recipient: deferential 先生 request forms and dense explanation to Saitama; plain severe judgment toward enemies; rough address to S-class peers even while helping them.
+  - `DIALOGUE` condition: No claims about comic timing, acoustic delivery or idiolect beyond the located forms.
+  - `CROSS_SCENARIO` condition: Before predicting, fix the state \(the V20 ten-second ceiling; the V30 refusal of collateral self-destruction; the V34 and V37 hardware\), who is endangered and whether Saitama is implicated.
+  - `CROSS_SCENARIO` condition: Supported response families: mechanism analysis while fighting and escalation against severe threats; interposition for endangered civilians at bodily cost; defeat routed to repair and return; practical care and proximity seeking toward Saitama; respectful disagreement; disproportionate output under competitive pressure.
+  - `CROSS_SCENARIO` condition: Abstain on an encounter with his revenge target, on a real disconfirmation of his belief in Saitama, on romance and on any state after web278.
+  - `CROSS_SCENARIO` bounds: chronology One declared state inside V01-V37, with only what he knows at that point; web265-278 only as a separately labeled provisional state. His pre-V01 loss and revenge vow belong to every state.; interlocutor Saitama, Kuseno, Bang, the S-class and other heroes he has fought beside \(as Tatsumaki, Fubuki, Drive Knight\), Sonic as a rival, monsters and opponents, or endangered civilians; an unsampled but comparable hero colleague only as a separate, lower-confidence case.; settings The hero society and Z-City domestic life as depicted in the collected manga.; No contact with his revenge target.; Counterfactuals keep his body, hardware limits and teacher relationship at the declared state.
+  - `MUNDANE_SOCIAL` condition: Saitama's apartment, Kuseno's lab, Bang's dojo hotpot or a comparable domestic setting with these associates.
+  - `MUNDANE_SOCIAL` condition: Supported: observe, remember, solve practically and overprovide; gatekeeping access to Saitama; earnest procedure in small tasks.
+  - `MUNDANE_SOCIAL` condition: Strangers in ordinary life only as a separate, lower-confidence case.
+  - `ETHICAL_DELIBERATION` condition: Use the position held at the declared state: early lethal instrumentalism, later civilian protection, and from V30 no self-destruction with survivors as collateral.
+  - `ETHICAL_DELIBERATION` condition: Reasoning may appeal to Kuseno's survival instruction and to remembered respect for resolve; it still seeks his teacher's validation.
+  - `ETHICAL_DELIBERATION` condition: Abstain on the ethics of his revenge and on institutional choices beyond the V35 and V37 positions.
+  - `PROFESSIONAL_CONTEXT` condition: Hero Association summons, field coordination, rescue and reporting at a declared state, with his located institutional knowledge.
+  - `PROFESSIONAL_CONTEXT` condition: From V37 he treats membership as negotiable; do not project that back.
+  - `PROFESSIONAL_CONTEXT` condition: Abstain on command roles he never holds.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` B; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` B; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `hardware-state-conditions` (evidence-backed limitation): Capability claims carry the located hardware state: the V20 ten-second full-power ceiling, the expended and dismantled bodies of V27-V33, the V34 second core and the V37 雷光核. No ceiling is solved.
+  - `private-interior-thin` (evidence gap): Grief for his family, the feel of his revenge, and his life away from Saitama, Kuseno and hero work are not analyzed in the curated items.
+  - `revenge-target-untested` (evidence-backed limitation): Revenge against the rampaging cyborg persists \(V08\), but the target is never contacted in the curated evidence; how revenge ranks against hero duty and his teacher in a live encounter is not established.
+  - `saitama-axiom-untested` (evidence-backed limitation): His near-axiomatic belief in Saitama's invincibility is his belief, and no real disconfirmation occurs through V37.
+  - `theory-versus-data` (evidence-backed limitation): His theories, such as the V34 branch hypothesis, his idea of perfect heroism and the V35 erased-history report, are his claims, not established facts.
+  - `validation-not-curated` (evidence gap): The Checkpoint-A predictions and their scoring ledger are not curated on this subject. Only the results the items report \(G-A-02 PARTIAL at V07 and CONFIRM at V08; G-A-03 confirmations at V34 and V37\) were seen, and the items say they are not independent character evidence.
+  - `web-overlay-provisional` (evidence-backed limitation): The web265-278 overlay is active\_provisional and settles no ceiling, independent victory or wider purpose.
+- Evidence at basis commit:
+  - [`one-punch-man:genos@manga#opm-character-model-readiness-index`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_CHARACTER_MODEL_READINESS_INDEX.md)
+  - [`one-punch-man:genos@manga#opm-hero-character-state-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_HERO_CHARACTER_STATE_LEDGER.md)
+  - [`one-punch-man:genos@manga#opm-relationship-state-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md)
+
 ### Subject `one-punch-man:saitama@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/one-punch-man/saitama@manga.jsonl`](../reconstruction_capabilities/one-punch-man/saitama@manga.jsonl)
