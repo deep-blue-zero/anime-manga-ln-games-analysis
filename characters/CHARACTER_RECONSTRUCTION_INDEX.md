@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 235; `STALE` 3; `SUPERSEDED` 36
+- Recorded totals: `CANDIDATE` 236; `STALE` 3; `SUPERSEDED` 36
 
 ## Namespaces
 
@@ -30,6 +30,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`classroom-of-the-elite`](reconstruction_index/classroom-of-the-elite.md) | 3 | 3 |
 | [`cornered-mouse`](reconstruction_index/cornered-mouse.md) | 4 | 4 |
 | [`cosmic-princess-kaguya`](reconstruction_index/cosmic-princess-kaguya.md) | 1 | 1 |
+| [`fx-fighter-kurumi-chan`](reconstruction_index/fx-fighter-kurumi-chan.md) | 1 | 1 |
 | [`genshin-impact`](reconstruction_index/genshin-impact.md) | 1 | 1 |
 | [`girls-band-cry`](reconstruction_index/girls-band-cry.md) | 1 | 1 |
 | [`harmony`](reconstruction_index/harmony.md) | 1 | 1 |
@@ -110,6 +111,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `cornered-mouse:natsuki@manga` | [`cornered-mouse-natsuki-manga-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-natsuki-manga-monograph-20261031-01) | `CANDIDATE` | `E` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
 | `cornered-mouse:okamura-tamaki@manga` | [`cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01) | `CANDIDATE` | `D` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
 | `cosmic-princess-kaguya:sakayori-iroha@film` | [`cosmic-princess-kaguya-sakayori-iroha-film-cpk-int-distributed-20261115-01`](reconstruction_index/cosmic-princess-kaguya.md#cosmic-princess-kaguya-sakayori-iroha-film-cpk-int-distributed-20261115-01) | `CANDIDATE` | `C` | `37420811a01fed356ae09d34a57531c8a19292d4` |
+| `fx-fighter-kurumi-chan:fukuga-kurumi@manga` | [`fx-fighter-kurumi-chan-fukuga-kurumi-manga-v01-v10-monograph-20261124-01`](reconstruction_index/fx-fighter-kurumi-chan.md#fx-fighter-kurumi-chan-fukuga-kurumi-manga-v01-v10-monograph-20261124-01) | `CANDIDATE` | `B` | `3c0ad39a204028c5ec402952fa16c203a788ddd7` |
 | `genshin-impact:furina@game` | [`genshin-impact-furina-game-furina-monograph-20261114-01`](reconstruction_index/genshin-impact.md#genshin-impact-furina-game-furina-monograph-20261114-01) | `CANDIDATE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
 | `girls-band-cry:iseri-nina@television-anime` | [`girls-band-cry-iseri-nina-television-anime-v2-ledgers-20261122-01`](reconstruction_index/girls-band-cry.md#girls-band-cry-iseri-nina-television-anime-v2-ledgers-20261122-01) | `CANDIDATE` | `B` | `3923b6cd184b114ee42d15a2dce158a9d8c57e78` |
 | `harmony:tuan-kirie@original-novel` | [`harmony-tuan-kirie-comparative-20261022-01`](reconstruction_index/harmony.md#harmony-tuan-kirie-comparative-20261022-01) | `CANDIDATE` | `E` | `1ac5215d216de2451fd3cf0ed667d90ad9df7cde` |
