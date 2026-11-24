@@ -837,3 +837,7 @@ All 13 obligations in the first-pass qualified slate are complete at the admitte
 | SPV2-CH-NANAMI | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_NANAMI_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_NANAMI_E01_E12_CHARACTER_MONOGRAPH.md) |
 | SPV2-CH-SATO | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_SATO_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_SATO_E01_E12_CHARACTER_MONOGRAPH.md) |
 | SPV2-CH-TOKKA | COMPLETE_AT_BOUNDARY | [SHINEPOST_V2_TOKKA_E01_E12_CHARACTER_MONOGRAPH.md](../04%20Character%20and%20Relationship%20Syntheses/SHINEPOST_V2_TOKKA_E01_E12_CHARACTER_MONOGRAPH.md) |
+
+### Owner listening follow-up · E04 and E12
+
+The owner confirms Tokka’s E04 singalong and hears Yukine’s E12 first-verse phrase as a solo before the full-group chorus. The owner considers Natalya the most likely person to reassure Nanami. The linked source record gives the exact scope of each attribution and its implications for the reviewed portraits. [Owner listening follow-up](../07%20Audits%20and%20Handoffs/SHINEPOST_V2_OWNER_LISTENING_FOLLOWUP_20261123.md)
