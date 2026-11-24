@@ -16,7 +16,7 @@ current_sequential_boundary: SHORT06
 
 ## Retrospective shorts audiovisual routes
 
-The [six-short comparison](Shorts%20Audiovisual%20Reconciliation/README.md) maps 53 independent claims to the corresponding shorts, source intervals and frozen readings. The [correction register](Shorts%20Audiovisual%20Reconciliation/COVERAGE_AND_OPEN_ITEMS.md) locates the Short 02 title, Short 03 milk and receipt, the Short 04 music already present by 02:36.397, the Short 05 hanger and Short 06’s paper fan, subsequent saucer, van and credits. Its last section routes remaining spoken-Japanese and sound-source questions to synchronized listening.
+The [six-short comparison](Shorts%20Audiovisual%20Reconciliation/README.md) maps 53 independent claims to the corresponding shorts, source intervals and frozen readings. The [correction register](Shorts%20Audiovisual%20Reconciliation/COVERAGE_AND_OPEN_ITEMS.md) locates the Short 02 title, Short 03 milk, receipt and instrumental cutoff, the Short 04 music already present by 02:36.397, the Short 05 hanger and Short 06’s paper fan, subsequent saucer, van and credits. Its last section routes remaining spoken-Japanese and sound-source questions to synchronized listening.
 
 ## Retrospective TV audiovisual routes
 
@@ -26,9 +26,15 @@ For E03-CLM-013, retrieve the reported blow near 19:30.917 and the spoken settle
 
 The [dated return for Q01–Q20](TV%20Audiovisual%20Reconciliation/VERIFIER_RETURN_20261122.md) maps the verifier’s reports to corrected master-picture timestamps, measured audio boundaries and by-ear evidence. For Takina’s first depicted island discharge use E13 16:07.675/.717. For the opening-theme comparison use the E02 opening as the reference. The return also identifies the exact Japanese cues still requiring a human ear.
 
+The [23 November source recheck](TV%20Audiovisual%20Reconciliation/SOURCE_RECHECK_20261123.md) locates the pendant exchange in E04 C0297–0300, #000815/818 and master seeks 14:49.250–14:51.250, with the callback at E13 C0430–0439. E12 C0419–0426 and #001207/1209/1210/1212–1215 distinguish the report, withdrawal, field relay and resumed command. E13 C0404–0405 and C0422–0425 and #001049/1051/1055 versus #001087/1089/1093 distinguish the items and their recipients.
+
+The [23 November audit recheck](TV%20Audiovisual%20Reconciliation/AUDIT_RECHECK_20261123.md) gives cue and frame locators for corrected speakers. Retrieve E06-CLM-014/015 and E06-AUD-003 with E06 C0318–0322 and #000789: Mizuki speaks C0318–0320, and Takina's first line is C0322. E05 C0169–0171 and #000508 separate Kurumi's inference from Mika's answer. E10 C0440–0442 and #001036 give Mika's words to Chisato. E11 C0430 and #001185 give Majima's line. E12 C0471–0473 and #001291/#001296–#001298 give the bag and charm, with the E08 gift at C0419–0424 and #001098.
+
+The [E05/E06/E08 attribution recheck](TV%20Audiovisual%20Reconciliation/SOURCE_RECHECK_E05_E06_E08.md) gives C0365 and the separate C0394–0396 alibi exchange in E05, the E06 C0098–0102 and C0319–0322/C0450–0455 speaker assignments, and the E08 C0129/C0141 floor and telephone assignments. Selected cue and frame clocks have distinct evidentiary roles.
+
 ## Supplementary text and page routes
 
-The [cross-source crosswalk](../06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) links to the 12 provisional readings and their proposed A2, B1 and C1 comparisons. In a Japanese prose EPUB cite OPF spine and nonempty paragraph after removal of ruby annotation. In image-only EPUBs, locate the contributor and 1-based OPF page range first, then distinguish title plate, enacted panels and the signed creator note. Printed folios and spine ordinals can differ. The [supplementary participation record](LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) distinguishes principal inspection from independent coverage. The [Heroine Archive reference reading](LYCORIS_RECOIL_HEROINE_ARCHIVE_REFERENCE_READING.md) supplies credited speaker and printed-page locators under P_PARATEXT.
+The [cross-source crosswalk](../06%20Cross-Media%20Analysis/LYCORIS_RECOIL_CROSS_SOURCE_CHARACTERIZATION_CROSSWALK.md) links to the 12 narrative readings and records their accepted A2, B1 and C1 comparisons. The [character reconstruction evidence matrix](LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_EVIDENCE_MATRIX.md) connects those comparisons to specific anime states and claim identifiers. The table in section 6 records individual source acceptance. In a Japanese prose EPUB cite OPF spine and nonempty paragraph after removal of ruby annotation. In image-only EPUBs, locate the contributor and 1-based OPF page range first, then distinguish title plate, enacted panels and the signed creator note. Printed folios and spine ordinals can differ. The [supplementary participation record](LYCORIS_RECOIL_SUPPLEMENTARY_READING_RECEIPT.md) distinguishes principal inspection from independent coverage. The [Heroine Archive reference reading](LYCORIS_RECOIL_HEROINE_ARCHIVE_REFERENCE_READING.md) supplies credited speaker and printed-page locators under P_PARATEXT.
 
 ## 1. Responsibility
 
@@ -165,18 +171,18 @@ A supplied clip should be registered here with Drive ID/hash if it becomes part 
 
 | Source | Class | Drive ID | Current integration access |
 |---|---|---|---|
-| `Ordinary days` | A2 | `1RlbZEqj3xaeGMu-Po26GwltJ45jYHnEu` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Recovery days` | A2 | `1deAImiwPdORptTtsxdqliFlHPM4wAbav` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Gluttony days` | A2 | `1dVgGlPdZBlBEILdoqyPdHeAkdH7xfKdR` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Recollect V01` | B1 | `1a5RZc2N4Lq9mjweXjbl1lhOBSJJ2iQ1J` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Recollect V02` | B1 | `1EtC-4C9e19aq_y4gCOTURxz7COj0s2kc` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Reload` | C1 | `1iz1TLjqBuNLGleyeYgLdSDxzdfa07shi` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Reload 02` | C1 | `1RXo71dZANCFqQeDRVh2clJy7kQL8-Ei8` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Reload 03` | C1 | `1CmKsnv7fgpuJOrHJUTDLJh4qUKbvRC1N` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Repeat` | C1 | `1c5fzbhWdtt87yoXnEM88nKl56WVm7Mnv` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Repeat 02` | C1 | `1VrPMT-ysH6Hoe4ODXhw6b263WFkbI1j7` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `Repeat 03` | C1 | `1uozt-it-6OqgX8ZnHSLCCRuI3eRZZwDg` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
-| `React` | C1 | `1ynVbUqVGgs_NtGdWzFduy7U6vsWQQG2f` | `PROVISIONAL_PENDING_PRINCIPAL_COVERAGE` |
+| `Ordinary days` | A2 | `1RlbZEqj3xaeGMu-Po26GwltJ45jYHnEu` | `SOURCE_NATIVE_ACCEPTED` |
+| `Recovery days` | A2 | `1deAImiwPdORptTtsxdqliFlHPM4wAbav` | `SOURCE_NATIVE_ACCEPTED` |
+| `Gluttony days` | A2 | `1dVgGlPdZBlBEILdoqyPdHeAkdH7xfKdR` | `SOURCE_NATIVE_ACCEPTED` |
+| `Recollect V01` | B1 | `1a5RZc2N4Lq9mjweXjbl1lhOBSJJ2iQ1J` | `SOURCE_NATIVE_ACCEPTED` |
+| `Recollect V02` | B1 | `1EtC-4C9e19aq_y4gCOTURxz7COj0s2kc` | `SOURCE_NATIVE_ACCEPTED` |
+| `Reload` | C1 | `1iz1TLjqBuNLGleyeYgLdSDxzdfa07shi` | `SOURCE_NATIVE_ACCEPTED` |
+| `Reload 02` | C1 | `1RXo71dZANCFqQeDRVh2clJy7kQL8-Ei8` | `SOURCE_NATIVE_ACCEPTED` |
+| `Reload 03` | C1 | `1CmKsnv7fgpuJOrHJUTDLJh4qUKbvRC1N` | `SOURCE_NATIVE_ACCEPTED` |
+| `Repeat` | C1 | `1c5fzbhWdtt87yoXnEM88nKl56WVm7Mnv` | `SOURCE_NATIVE_ACCEPTED` |
+| `Repeat 02` | C1 | `1VrPMT-ysH6Hoe4ODXhw6b263WFkbI1j7` | `SOURCE_NATIVE_ACCEPTED` |
+| `Repeat 03` | C1 | `1uozt-it-6OqgX8ZnHSLCCRuI3eRZZwDg` | `SOURCE_NATIVE_ACCEPTED` |
+| `React` | C1 | `1ynVbUqVGgs_NtGdWzFduy7U6vsWQQG2f` | `SOURCE_NATIVE_ACCEPTED` |
 
 Exact SHA-256 and EPUB metadata remain canonical in `LYCORIS_RECOIL_V2_SOURCE_INVENTORY.md` and `04_books/audit_manifest.json`.
 
@@ -326,7 +332,7 @@ For anthology evidence always preserve contributor/story identity.
 | `E05-CLM-012` | E05 deep reading / character + relationship ledgers | 13:22-16:52; Takina volunteers against Jin, identifies armor, draws threat, `逃げて！`, directs client evacuation; `E05-AUD-005/006` | JP, VIS, ACTION, AUD-ACOUSTIC |
 | `E05-CLM-013` | E05 deep reading / character + revision ledgers | 16:22-16:59; `私には時間がない`, Chisato recommends evacuation before revenge request | JP, ETHICS, CAUSAL |
 | `E05-CLM-014`, `E05-CLM-015`, `E05-CLM-016` | E05 deep reading / character + revision ledgers | 18:41-19:09; Alan-purpose demand, `人の命は奪いたくない`, `誰かを助ける仕事をしたい`, hand-at-chest `これをくれた人みたいにね`; `E05-AUD-007/008` | JP, VIS, SELF-AUTH, ETHICS, AUD-ACOUSTIC |
-| `E05-CLM-017` | E05 deep reading / revision ledger | 18:18-20:42 causal sequence; Chisato refusal precedes full remote-client/fraud proof | JP, CAUSAL, ETHICS |
+| `E05-CLM-017` | E05 deep reading / revision ledger / TV attribution recheck | 18:18-20:42 causal sequence; C0365 at 18:36.39–18:39.10 strongly favors Mika’s first alibi; C0394–0396 contains Jin’s distinct later confirmation. Chisato’s refusal precedes confirmed fraud. Her audibility of C0365 remains open. | JP, CAUSAL, ETHICS |
 | `E05-CLM-018` | E05 deep reading / character + revision ledgers | 20:58-21:05; remote-control tour monitor, Yoshimatsu `あの男を使う計画`, Himegama response, Alan owl emblem | VIS, JP, ALAN, STRONG_INFERENCE |
 | `E05-CLM-019` | E05 deep reading / character + revision ledgers | 21:45; Majima `まずは１人目だ リコリス`; explicit Lycoris-killing frame | JP, VIS, ANTAGONIST |
 | `E05-CLM-020` | E05 deep reading / character + relationship ledgers | 21:58-22:10; Chisato `ぜ～んぶ ウソか`, Takina `いいガイドだったのは ウソじゃないと思います`, Chisato `ありがとう`; `E05-AUD-009/010` | JP, REL, EPISTEMIC, AUD-ACOUSTIC |
@@ -350,10 +356,10 @@ For anthology evidence always preserve contributor/story identity.
 | `E06-CLM-004`, `E06-CLM-005`, `E06-CLM-006`, `E06-CLM-023` | E06 deep reading / character + relationship ledgers | 03:48-04:55 household schedule/janken + 22:19-22:36 final `同棲` wager; frames `001182_subtitle-start+auto-visual-interval_00-22-19.900.jpg`, `001194_shot-change+subtitle-start_00-22-34.520.jpg`; `E06-AUD-009/010` | JP, VIS, REL, PLAY, AUD-ACOUSTIC |
 | `E06-CLM-007` | E06 deep reading / character ledger | Kurumi café play + DA intrusion/investigation sequences | JP, VIS, KURUMI, TECH |
 | `E06-CLM-008`, `E06-CLM-009` | E06 deep reading / character + revision ledgers | DA `極秘` refusal / Kurumi circumvention + later `リコリスを おとりにした`; secrecy/bait causal route | JP, INST, EPISTEMIC |
-| `E06-CLM-010`, `E06-CLM-011` | E06 deep reading / character + revision ledgers | Majima/Robota sequence; `そのＤＡとやらを ぶっ潰す`, 26 dead / balance; frame `000350_shot-change+subtitle-start_00-05-42.092.jpg` | JP, VIS, MAJIMA, IDEOLOGY |
+| `E06-CLM-010`, `E06-CLM-011` | E06 deep reading / character + revision ledgers / TV attribution recheck | Majima asks Robota C0098; Robota answers C0099–0100. Majima names DA C0101–0102 and supplies his count of 26 dead C0111; frame `000350_shot-change+subtitle-start_00-05-42.092.jpg`. | JP, VIS, MAJIMA, IDEOLOGY |
 | `E06-CLM-012` | E06 deep reading / character + revision ledgers | Robota/Himegama additional boss request, `頑張れ`, later Chisato footage shown to Majima | JP, VIS, ALAN, PROXY |
 | `E06-CLM-013` | E06 deep reading / character + revision ledgers | Kurumi identifies leaked DA drone footage as source of four Lycoris identities | JP, INST, EPISTEMIC, CAUSAL |
-| `E06-CLM-014`, `E06-CLM-015` | E06 deep reading / character + relationship + revision ledgers | 15:02-15:27 Kurumi confession and high-activation consequence statement; 21:08+ `私の行動の結果で クルミのせいじゃありません` / repair obligation; frames `000780_subtitle-start_00-15-02.550.jpg`, `000789_subtitle-start_00-15-21.650.jpg`, `001110_auto-visual-interval+shot-change_00-21-08.000.jpg`; `E06-AUD-003/007/008` | JP, VIS, CAUSAL, REL, AUD-ACOUSTIC |
+| `E06-CLM-014`, `E06-CLM-015` | E06 deep reading / character + relationship + revision ledgers / TV attribution recheck | 15:02–15:27 Kurumi’s confession and Mizuki’s statement of the consequences at C0319–0320; #000789 at 15:21.650 supports the latter. Kurumi apologizes at C0450; Takina owns the action and requests continued cooperation in C0451/C0453–0455. See `E06-AUD-003/007/008` and E06-C07. | JP, VIS, CAUSAL, REL, AUD-ACOUSTIC |
 | `E06-CLM-016` | E06 deep reading / character + relationship ledgers | post-fight Majima `見直したよ`, `あれじゃなきゃ 俺とはバランスが取れねえ`, request for more Chisato info | JP, MAJIMA, REL |
 | `E06-CLM-017` | E06 deep reading / character + revision ledgers | Majima fight visually degrades Chisato sight/readability; 22:11 `千束の弱点は目ですね`; frame `001177_shot-change+subtitle-start_00-22-11.705.jpg` | VIS, JP, ACTION |
 | `E06-CLM-018` | E06 deep reading / character + revision ledgers | Majima fight `ゴム弾じゃなく 実弾にしておけば よかったな！`; Chisato retains nonlethal fire | JP, VIS, ACTION, ETHICS |
@@ -362,7 +368,7 @@ For anthology evidence always preserve contributor/story identity.
 | `E06-CLM-022` | E06 deep reading / relationship ledger | full safehouse/domestic arc + final Chisato `しばらく同棲 続けないと～` / Takina conditional wager/win | JP, VIS, REL, YURI-CODING |
 | `E06-AUD-001` | E06 deep reading / character + relationship ledgers | A1:E06@01:20 `#AUDIO_ACOUSTIC`; Takina 24-hour co-presence line (~-26.4 dBFS, ~259 Hz median) | AUD-ACOUSTIC, JP, REL |
 | `E06-AUD-002` | E06 deep reading / character ledger | A1:E06 early risk-assessment `#AUDIO_ACOUSTIC`; `可能性はゼロじゃありません` (~-28.1 dBFS, ~238 Hz median) | AUD-ACOUSTIC, JP |
-| `E06-AUD-003` | E06 deep reading / character + revision ledgers | A1:E06@15:21 `#AUDIO_ACOUSTIC`; `たきなはクビになりました` (~-22.1 dBFS, ~535 Hz median) | AUD-ACOUSTIC, JP, CAUSAL |
+| `E06-AUD-003` | E06 deep reading / character + revision ledgers / TV attribution recheck | A1:E06@15:21 `#AUDIO_ACOUSTIC`; Mizuki’s dismissal line `たきなはクビになりました` (mixed cue ~-22.1 dBFS, estimated median F0 ~535 Hz). | AUD-ACOUSTIC, JP, CAUSAL |
 | `E06-AUD-004` | E06 deep reading / character ledger | A1:E06 Chisato-threat mobilization `#AUDIO_ACOUSTIC`; `組事務所へ向かいます！` (~-23.3 dBFS, ~375 Hz median) | AUD-ACOUSTIC, JP |
 | `E06-AUD-005` | E06 deep reading / character ledger | A1:E06 urgent `千束のポンチョとスマホが！` (~-21.0 dBFS, ~410 Hz median) | AUD-ACOUSTIC, JP |
 | `E06-AUD-006` | E06 deep reading / character ledger | A1:E06@20:04 `#AUDIO_ACOUSTIC`; `弾切れです！` (~-17.1 dBFS; rough ~458 Hz median; short/mixed) | AUD-ACOUSTIC, JP |
@@ -412,7 +418,7 @@ For anthology evidence always preserve contributor/story identity.
 | `REL-CHI-TAK-E07-*` | relationship-state ledger | E07 05:24-21:48; subroutes `E07-CLM-004/005/013/014/022/023/024` | JP, VIS, REL, ETHICS, QUEER-CODING, AUD-ACOUSTIC |
 
 | `E08-CLM-001`–`004` | `LYCORIS_RECOIL_E08_DEEP_READING.md` / revision ledger | opening Yoshimatsu–Himegama doctrine; JP `選ぶ？`, `選ぶことなどできない`, birth-indicated `役割`, `ままごと`; `E08-AUD-001` | JP, IDEOLOGY, INST, AUD-ACOUSTIC |
-| `E08-CLM-005`–`012` | E08 deep reading / character + relationship ledgers | café deficit/accounting, ammunition-cleanup cost, parfait, Japanese school/Halloween, automation/investment, Yamagishi scheduling | JP, ORD, ECON, REL, VIS, AUD-ACOUSTIC |
+| `E08-CLM-005`–`012` | E08 deep reading / character + relationship ledgers | café deficit/accounting, ammunition-cleanup cost, parfait, Japanese school/Halloween, automation/investment, Yamagishi scheduling; C0129 has Kurumi attribute the floor request to Chisato, and C0141/C0146 distinguish Mika’s coverage request and incoming call | JP, ORD, ECON, REL, VIS, AUD-ACOUSTIC |
 | `E08-CLM-013`–`018` | E08 deep reading / character + relationship + revision ledgers | Chisato apartment; movies/drinks; Majima old-tower narration and Alan pin; `私は やりたいようにやります`, `俺とお前は同じだ`; benefactor defense | JP, REL, IDEOLOGY, VIS, AUD-ACOUSTIC |
 | `E08-CLM-019`–`022` | E08 deep reading / character + relationship ledgers | Takina armed arrival/fire; post-threat three-ring/one-ring and safehouse protocol; `どこにいても来てくれる`, `同棲` return play | JP, ACT, REL, SECURITY, AUD-ACOUSTIC |
 | `E08-CLM-023`–`026` | E08 deep reading / relationship + revision ledgers | Yoshimatsu-linked gun/pendant, cherry-blossom arrival memory, gift, `大切な場所なんでしょ？`, Chisato `ありがと` | JP, REL, OBJ, ORD, VIS, AUD-ACOUSTIC |
