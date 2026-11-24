@@ -3,14 +3,14 @@ title: "Psycho-Pass — Current state and corpus map"
 artifact_id: PP_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: psycho-pass
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 authority_generation: PP-INITIAL
-source_boundary: "Run PP-S01NE-RUN-20261123-E01-E11 authorizes PP-S01NE-E01–E11 sequentially; accepted through PP-S01NE-E04"
+source_boundary: "Run PP-S01NE-RUN-20261123-E01-E11 authorizes PP-S01NE-E01–E11 sequentially; accepted through PP-S01NE-E05"
 canonical_home: series/psycho-pass/CURRENT_STATE_AND_CORPUS_MAP.md
 created: 2026-11-18
 last_updated: 2026-11-24
@@ -33,18 +33,18 @@ project_initialization:
     - franchise/ledgers/PP_CONTINUITY_AND_CLAIM_LEDGER.md
     - integration/PP_RECONCILIATION_PROTOCOL.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: PP-S01NE-E05
+  next_permitted_operation: PP-S01NE-E06
 sequential_execution:
   run_id: PP-S01NE-RUN-20261123-E01-E11
   mode: continuous_sequential
   unit_type: episode
   authorized_start: PP-S01NE-E01
   terminal_boundary: PP-S01NE-E11
-  committed_high_water_mark: PP-S01NE-E04
-  next_candidate_operation: PP-S01NE-E05
+  committed_high_water_mark: PP-S01NE-E05
+  next_candidate_operation: PP-S01NE-E06
   confirmation_between_units: false
   run_state: active
-source_admission: "PP-S01NE-E01–E11 Season 1 New Edit authorized; each episode admitted at its own frontier; accepted through PP-S01NE-E04"
+source_admission: "PP-S01NE-E01–E11 Season 1 New Edit authorized; each episode admitted at its own frontier; accepted through PP-S01NE-E05"
 run_authorization: PP-S01NE-RUN-20261123-E01-E11
 execution_profile:
   role_configuration_status: VERIFIED_ACTIVE_MULTIAGENT_NATIVE
@@ -61,9 +61,9 @@ execution_profile:
 
 The canonical root and sole continuing analytical branch are `series/psycho-pass`. This is one franchise project with installment-local source work and a distinct franchise reconciliation layer. The first intended installment is **Season 1 New Edit / Extended Edition, eleven episodes**. The original twenty-two-episode version is a separate possible comparison witness of the same underlying continuity, with its own identifiers, disclosure order and clocks.
 
-**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** Owner authorization (`PP-S01NE-RUN-20261123-E01-E11`, 2026-11-23; reaffirmed 2026-11-24 post-recovery) authorizes one `continuous_sequential` run across Season 1 New Edit (`PP-S01NE-E01` through `PP-S01NE-E11`), pushing each completed episode transaction to `series/psycho-pass` without raising a PR until all eleven episodes are complete. **`PP-S01NE-E01`, `PP-S01NE-E02`, `PP-S01NE-E03`, and `PP-S01NE-E04` have been accepted** (completing Tranche 1 `E03–E04` assessment with all recurring cast honestly held `DEFERRED_EVIDENCE` pending Tranche 2), advancing `committed_high_water_mark` to **`PP-S01NE-E04`** and `next_permitted_operation` / `next_candidate_operation` to **`PP-S01NE-E05`**. Each subsequent episode is admitted strictly at its own frontier after its fresh prospective freeze (`PP-S01NE-PRE-####`). No narrative material from `E05–E11` has been inspected.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** Owner authorization (`PP-S01NE-RUN-20261123-E01-E11`, 2026-11-23; reaffirmed 2026-11-24 post-recovery) authorizes one `continuous_sequential` run across Season 1 New Edit (`PP-S01NE-E01` through `PP-S01NE-E11`), pushing each completed episode transaction to `series/psycho-pass` without raising a PR until all eleven episodes are complete. **`PP-S01NE-E01` through `PP-S01NE-E05` have been accepted** (Tranche 1 `E03–E04` closed honestly with all recurring cast `DEFERRED_EVIDENCE`; Tranche 2 reassessment opens in `E06–E08`), advancing `committed_high_water_mark` to **`PP-S01NE-E05`** and `next_permitted_operation` / `next_candidate_operation` to **`PP-S01NE-E06`**. Each subsequent episode is admitted strictly at its own frontier after its fresh prospective freeze (`PP-S01NE-PRE-####`). No narrative material from `E06–E11` has been inspected.
 
-Metadata reconnaissance verified eleven numbered New Edit MKVs, one excluded menu, two BD-labelled ASS witnesses, ten TV-labelled SRT witnesses, eleven standalone lossless FLAC tracks, and eleven structurally validated episode bundles. All 24 archival source hashes remain unchanged. Full audiovisual playback, direct Japanese listening, lossless stream-copy/WAV reinspection, 1080p still inspection, and 50 ms `AM` calibration have been verified empirically through `PP-S01NE-E04` (enforcing bounded `≤ 28 MiB` single-clip and per-episode isolated subagent payload budgets from `E03` onward, plus 100% direct lossless `AO` auditing of E04's `45` `ASR_UNVERIFIED` cues).
+Metadata reconnaissance verified eleven numbered New Edit MKVs, one excluded menu, two BD-labelled ASS witnesses, ten TV-labelled SRT witnesses, eleven standalone lossless FLAC tracks, and eleven structurally validated episode bundles. All 24 archival source hashes remain unchanged. Full audiovisual playback, direct Japanese listening, lossless stream-copy/WAV reinspection, 1080p still inspection, and 50 ms `AM` calibration have been verified empirically through `PP-S01NE-E05` (enforcing bounded `≤ 28 MiB` single-clip and per-episode isolated subagent payload budgets from `E03` onward).
 
 ## Accepted units (`PP-S01NE`)
 
@@ -73,6 +73,7 @@ Metadata reconnaissance verified eleven numbered New Edit MKVs, one excluded men
 | `PP-S01NE-E02` | `ACCEPTED` (`14/14` QC PASS) | [`PP_S01NE_E02_DEEP_READING.md`](installments/s01-new-edit/readings/PP_S01NE_E02_DEEP_READING.md) | [`PP_S01NE_E02_CHECKPOINT.md`](installments/s01-new-edit/checkpoints/PP_S01NE_E02_CHECKPOINT.md) |
 | `PP-S01NE-E03` | `ACCEPTED` (`14/14` QC PASS) | [`PP_S01NE_E03_DEEP_READING.md`](installments/s01-new-edit/readings/PP_S01NE_E03_DEEP_READING.md) | [`PP_S01NE_E03_CHECKPOINT.md`](installments/s01-new-edit/checkpoints/PP_S01NE_E03_CHECKPOINT.md) |
 | `PP-S01NE-E04` | `ACCEPTED` (`14/14` QC PASS) | [`PP_S01NE_E04_DEEP_READING.md`](installments/s01-new-edit/readings/PP_S01NE_E04_DEEP_READING.md) | [`PP_S01NE_E04_CHECKPOINT.md`](installments/s01-new-edit/checkpoints/PP_S01NE_E04_CHECKPOINT.md) |
+| `PP-S01NE-E05` | `ACCEPTED` (`14/14` QC PASS) | [`PP_S01NE_E05_DEEP_READING.md`](installments/s01-new-edit/readings/PP_S01NE_E05_DEEP_READING.md) | [`PP_S01NE_E05_CHECKPOINT.md`](installments/s01-new-edit/checkpoints/PP_S01NE_E05_CHECKPOINT.md) |
 
 | Need | Canonical home |
 | --- | --- |
