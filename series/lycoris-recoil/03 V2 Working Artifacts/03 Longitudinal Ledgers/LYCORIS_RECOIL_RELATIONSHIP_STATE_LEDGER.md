@@ -37,6 +37,8 @@ The [23 November audit recheck](../07%20Evidence%20and%20Indexes/TV%20Audiovisua
 
 For REL-TAK-KUR-E06-001, the [E05/E06/E08 attribution recheck](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/SOURCE_RECHECK_E05_E06_E08.md) separates Mizuki naming the harm at C0319–0320, Kurumi apologizing at C0450, and Takina claiming responsibility for her own act and requiring cooperation at C0451/C0453–0455. The repair obligation survives the changed attribution.
 
+The [owner listening return](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/OWNER_LISTENING_RETURN_20261123.md#speaker-and-wording-dispositions) strengthens REL-CHI-TAK-E04-004 with Chisato’s earlier display of the owl pendant (C0278–0281, #000750). Takina supplies the E09 C0374 fist-bump exclamation (REL-CHI-TAK-E09-004) and the E12 C0115 objection after Yoshimatsu’s offer (REL-CHI-TAK-E12-002). In REL-CHI-KUS-E12-001 the owner hears a single LilyBell operative report across C0419–0420 to Itadori. Chisato is the subject of the report. The different speakers retain their separate roles in the decision and relay.
+
 ## 1. Responsibility
 
 This ledger tracks how recurring relationships change the behavior available to each participant.

@@ -47,6 +47,8 @@ The [23 November audit recheck](../07%20Evidence%20and%20Indexes/TV%20Audiovisua
 
 For E06, the [E05/E06/E08 attribution recheck](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/SOURCE_RECHECK_E05_E06_E08.md) corrects the current speaker assignments. Majima asks Robota whether he understands the objective at C0098. In C0319–0320 Mizuki names Takina’s dismissal. Takina asks whether the footage is complete and, after Kurumi’s separate C0450 apology, owns the firing decision and requests continued cooperation. E06-AUD-003 preserves its original mixed-cue measurement. The revised speaker assignment removes that cue as evidence of Takina’s delivery.
 
+The [owner listening return](../07%20Evidence%20and%20Indexes/TV%20Audiovisual%20Reconciliation/OWNER_LISTENING_RETURN_20261123.md#speaker-and-wording-dispositions) supplies the later attribution for CHI-SOC-INIT-01. Chisato introduces Takina to the children at E01 C0237. E06 C0448 is Chisato’s interjection after Mizuki’s urging, distinct from the earlier Mizuki mixed-audio window and from Kurumi’s apology. Takina’s E12 C0115 reaction to Yoshimatsu’s offer is attributable to her on the same listening return.
+
 ## 1. Responsibility
 
 This is the canonical cumulative home for V2 character-state snapshots and atomic behavioral observations that support reusable reconstruction.

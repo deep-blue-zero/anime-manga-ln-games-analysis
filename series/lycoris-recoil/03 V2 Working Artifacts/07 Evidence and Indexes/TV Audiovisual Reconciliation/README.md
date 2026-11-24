@@ -24,7 +24,9 @@ The [22 November verifier return](VERIFIER_RETURN_20261122.md) gives the current
 
 The [23 November source recheck](SOURCE_RECHECK_20261123.md) governs the E04 appraisal, E12 command sequence and E13 farewell. It distinguishes captions, independently selected pictures and the attributed continuous-viewer account.
 
-The [23 November audit recheck](AUDIT_RECHECK_20261123.md) comes from a complete dialogue audit of E01–E13. It corrects speakers and addressees in E02–E06, E08 and E10–E12, including Kurumi in E05, Mizuki in E06, Mika in E10 and Majima in E11. It distinguishes Chisato’s E12 bag from the charm Takina gave her in E08, and leaves E01 C0237 and E12 C0115 open for a listener.
+The [owner listening return and source rechecks](OWNER_LISTENING_RETURN_20261123.md) give current dispositions for the later speaker identifications, the E04 pendant antecedent, the E12 radio call, and the E13 music, exterior flash and tether rescue. Earlier observation records retain their issued states.
+
+The [23 November audit recheck](AUDIT_RECHECK_20261123.md) comes from a complete dialogue audit of E01–E13. It corrects speakers and addressees in E02–E06, E08 and E10–E12, including Kurumi in E05, Mizuki in E06, Mika in E10 and Majima in E11. It distinguishes Chisato’s E12 bag from the charm Takina gave her in E08, and leaves E01 C0237 and E12 C0115 for a listener at that stage. The owner later identifies Chisato and Takina, respectively.
 
 The [E05/E06/E08 attribution recheck](SOURCE_RECHECK_E05_E06_E08.md) distinguishes Mika’s first alibi from Jin’s later testimony, the speakers in the E06 dismissal and apology/repair exchanges, and responsibility for the E08 café floor request. The dated correction gives cue, picture and measurement limits.
 
