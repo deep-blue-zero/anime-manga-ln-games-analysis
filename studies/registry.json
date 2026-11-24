@@ -3,6 +3,19 @@
   "status": "GIT_PRIMARY_AUTHORITY_EPOCH_1_STABILIZING",
   "studies": [
     {
+      "study_id": "cinderella-girls-cross-property",
+      "stable_slug": "cinderella-girls-cross-property",
+      "canonical_title": "THE IDOLM@STER CINDERELLA GIRLS Cross-Property Study",
+      "repository_path": "studies/cinderella-girls-cross-property/",
+      "canonical_entrypoint": "studies/cinderella-girls-cross-property/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_CINDERELLA_GIRLS_CROSS_PROPERTY",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Retrospective comparison of characterization, continuity and idol production in the 2015 and U149 television anime and the Mobage and Starlight Stage mobile games."
+    },
+    {
       "study_id": "comparative-media",
       "stable_slug": "comparative-media",
       "canonical_title": "Comparative Media",
