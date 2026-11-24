@@ -8,6 +8,7 @@ Comparative, taxonomy, methodology, and other non-series analytical projects bel
 - [`doujinshi-fanwork-comparative-taxonomy/`](doujinshi-fanwork-comparative-taxonomy/) — Doujinshi/Fanwork Comparative Taxonomy — approved text and machine-readable projections for the comparative taxonomy project; the native XLSX remains REFERENCE_DRIVE.
 - [`pactrih-ethical-topology/`](pactrih-ethical-topology/) — PACTRIH Ethical Topology — Seven-axis comparative ethical topology for fictional characters/entities, factions and historical agents, with canonical numerical data and a verified interactive atlas.
 - [`project-itoh-genocidal-organ-harmony/`](project-itoh-genocidal-organ-harmony/) — Project Itoh — Genocidal Organ and Harmony: From Genocidal Grammar to the Maelstrom — Source-verified comparative chronology, causal continuity and ethical-literary synthesis connecting Genocidal Organ and Harmony without altering either novel's frozen reading.
+- [`cinderella-girls-cross-property/`](cinderella-girls-cross-property/) — THE IDOLM@STER CINDERELLA GIRLS Cross-Property Study — Retrospective comparison of characterization, continuity and idol production in the 2015 and U149 television anime and the Mobage and Starlight Stage mobile games.
 
 <!-- END GENERATED STUDY CATALOG -->
 
