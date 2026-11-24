@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 238; `STALE` 2; `SUPERSEDED` 37
+- Recorded totals: `CANDIDATE` 240; `STALE` 1; `SUPERSEDED` 38
 
 ## Namespaces
 
@@ -39,7 +39,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`kimishinu`](reconstruction_index/kimishinu.md) | 3 | 3 |
 | [`konosuba`](reconstruction_index/konosuba.md) | 19 | 19 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
-| [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 2 | 3 |
+| [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 2 | 4 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`medalist`](reconstruction_index/medalist.md) | 2 | 2 |
 | [`monogatari-series`](reconstruction_index/monogatari-series.md) | 2 | 2 |
@@ -54,7 +54,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`rent-a-girlfriend`](reconstruction_index/rent-a-girlfriend.md) | 1 | 1 |
 | [`sayonara-lara`](reconstruction_index/sayonara-lara.md) | 1 | 1 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 3 | 3 |
-| [`shine-post`](reconstruction_index/shine-post.md) | 2 | 2 |
+| [`shine-post`](reconstruction_index/shine-post.md) | 3 | 3 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 17 | 17 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
 | [`silent-witch`](reconstruction_index/silent-witch.md) | 4 | 4 |
@@ -147,7 +147,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `legend-of-the-galactic-heroes:yang-wen-li@original-novels` | [`legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01`](reconstruction_index/legend-of-the-galactic-heroes.md#legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01) | `CANDIDATE` | `C` | `589435c3ebada7c66aac6b44ed014876d9050423` |
 | `lycoris-recoil:inoue-takina@television-anime` | [`lycoris-recoil-inoue-takina-tv-v2-monograph-ledgers-20261124-04`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-inoue-takina-tv-v2-monograph-ledgers-20261124-04) | `CANDIDATE` | `A` | `d62c10a8f7dc216a0cb1ad1576e5cced9af81074` |
 | `lycoris-recoil:inoue-takina@television-anime` | [`lycoris-recoil-inoue-takina-tv-v2-ledgers-20261121-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-inoue-takina-tv-v2-ledgers-20261121-01) | `SUPERSEDED` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
-| `lycoris-recoil:nishikigi-chisato@television-anime` | [`lycoris-recoil-nishikigi-chisato-tv-v2-ledgers-20261121-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-nishikigi-chisato-tv-v2-ledgers-20261121-01) | `STALE` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
+| `lycoris-recoil:nishikigi-chisato@television-anime` | [`lycoris-recoil-nishikigi-chisato-tv-v2-monograph-ledgers-20261124-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-nishikigi-chisato-tv-v2-monograph-ledgers-20261124-01) | `CANDIDATE` | `A` | `4e7e052152666f2e967e2b9049331905a7fb4c12` |
+| `lycoris-recoil:nishikigi-chisato@television-anime` | [`lycoris-recoil-nishikigi-chisato-tv-v2-ledgers-20261121-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-nishikigi-chisato-tv-v2-ledgers-20261121-01) | `SUPERSEDED` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `mass-effect:commander-shepard@paragon-player-archetype` | [`mass-effect-paragon-shepard-archetype-20261023-01`](reconstruction_index/mass-effect.md#mass-effect-paragon-shepard-archetype-20261023-01) | `CANDIDATE` | `D` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
 | `mass-effect:commander-shepard@renegade-player-archetype` | [`mass-effect-renegade-shepard-archetype-20261109-01`](reconstruction_index/mass-effect.md#mass-effect-renegade-shepard-archetype-20261109-01) | `CANDIDATE` | `D` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `medalist:inori-yuitsuka@manga` | [`medalist-inori-yuitsuka-manga-v01-v15-monograph-20261118-01`](reconstruction_index/medalist.md#medalist-inori-yuitsuka-manga-v01-v15-monograph-20261118-01) | `CANDIDATE` | `C` | `3fe7c1f414e92b3555444bd1342cc3bb13fe0b26` |
@@ -268,6 +269,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `shiboyugi:yuuki@light-novel` | [`shiboyugi-yuuki-light-novel-sby-p001-monograph-20261115-01`](reconstruction_index/shiboyugi.md#shiboyugi-yuuki-light-novel-sby-p001-monograph-20261115-01) | `CANDIDATE` | `C` | `57a2a2026b88f3c9d09fbe0b4f90b62c4d768690` |
 | `shine-post:homare@television-anime` | [`shine-post-homare-television-anime-v2-monograph-20261124-01`](reconstruction_index/shine-post.md#shine-post-homare-television-anime-v2-monograph-20261124-01) | `CANDIDATE` | `C` | `7d20d2aaa6412717da53d6470d87ad3edcb98741` |
 | `shine-post:hotaru@television-anime` | [`shine-post-hotaru-television-anime-v2-monograph-20261123-01`](reconstruction_index/shine-post.md#shine-post-hotaru-television-anime-v2-monograph-20261123-01) | `CANDIDATE` | `C` | `0714a2ec3b5ab57ef119380931d20bfc02941fd7` |
+| `shine-post:nanami@television-anime` | [`shine-post-nanami-television-anime-v2-monograph-20261124-01`](reconstruction_index/shine-post.md#shine-post-nanami-television-anime-v2-monograph-20261124-01) | `CANDIDATE` | `C` | `4e7e052152666f2e967e2b9049331905a7fb4c12` |
 | `shokugeki-no-soma:aldini-takumi@manga` | [`shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01) | `CANDIDATE` | `C` | `ed16d08d72d08c45e8647d8daac749a8b6f7c6c5` |
 | `shokugeki-no-soma:arato-hisako@manga` | [`shokugeki-no-soma-arato-hisako-manga-v2-model-20261119-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-arato-hisako-manga-v2-model-20261119-01) | `CANDIDATE` | `C` | `510efb922655cc94f14d6d2e431e4c38b932a099` |
 | `shokugeki-no-soma:hayama-akira@manga` | [`shokugeki-no-soma-hayama-akira-manga-bounded-model-20261115-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-hayama-akira-manga-bounded-model-20261115-01) | `CANDIDATE` | `C` | `d0019f2f149d57a9f817238a899dff9248a2ca9f` |
