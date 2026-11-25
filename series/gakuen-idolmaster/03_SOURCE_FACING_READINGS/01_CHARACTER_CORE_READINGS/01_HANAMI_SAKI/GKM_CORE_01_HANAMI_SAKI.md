@@ -862,6 +862,8 @@ The mature form is not fusion or the end of rivalry. It is a stable shared field
 - **Support 2-0041 (C4).** Saki calls it a good thing that Ume relies on people other than her since entering the school, while groaning at it (`adv_csprt-2-0041_01.txt` L18–L29).
 - **Support 3-0035 (C4; HSCA-129).** Saki asks Ume what she will do after beating her. Ume says she will think about it after winning, and Saki calls the answer `最高に嬉しくて――……悩ましい` (`adv_csprt-3-0035_02.txt` L123–L156). Saki herself registers the risk named in §8.2, an Ume whose only goal is Saki; in part 03 she also asks whether Ume has made friends in class (`adv_csprt-3-0035_03.txt` L52).
 
+**Recorded E016 comparison, 2026-11-25.** The score recedes through Kotone's quieter appeal to friendship. Saki answers gradually and firmer speech accompanies her stated decision to withhold signs of weakness from Ume. The late exchange between the sisters gives Saki a chance to encourage a different friend outing even after they compete in how they tell their stories. [Paired part 2 and 5 evidence](../../../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md).
+
 These are modular scenes; they qualify the renegotiation without dating it. Ume's own account of copying Saki's routine in order to beat her (`adv_csprt-3-0035_03.txt` L65–L90) belongs to the Ume core. The older-sister role still restricts reciprocal vulnerability (OPEN).
 
 ## 8.4 Saki can celebrate Ume without pretending not to hurt

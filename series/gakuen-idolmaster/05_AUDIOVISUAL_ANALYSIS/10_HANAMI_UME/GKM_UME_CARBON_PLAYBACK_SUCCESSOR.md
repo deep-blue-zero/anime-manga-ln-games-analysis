@@ -53,3 +53,7 @@ Relevant Carbon propositions are `PROP-0227`, `PROP-0230`, `PROP-0260`.
 ## Completion boundary
 
 Individual Gate E remains open. The dog support scene, adv_csprt-2-0067_02, has an external source lead. Its source identity, cut and accepted independent hearing require their own record. The song commu answers the named dialogue question only. The Phase 3 report records the earlier delivery. The present successor changes the claims in the sections above and supplies no additional viewing or listening credit. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
+
+## Recorded Event 016 parts 2 and 5 — 2026-11-25
+
+The [new targeted Event 016 receipt](../01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md) binds the spoken outing and the change in emotional register to the actual part 5 recording. It leaves the exact motive and the separate dog support P0 open.

@@ -422,6 +422,8 @@ Events and support stories repeatedly test whether the sister bond can tolerate 
 
 Saki experiences real jealousy as Ume becomes close to Lilja, student-council peers, and others. Yet the dominant behavior is not enclosure. She often supports the new relation, obtains information about Ume's independent life, or converts loneliness into rivalry, teasing, or renewed contact.
 
+The [paired Event 016 windows](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md) identify Saki's gradual admission of loneliness to Kotone and her refusal to show that vulnerability to Ume. The later exchange contains reciprocal exaggeration and an explicit invitation to enjoy independent friendships. Saki's attachment is clear and Ume's motives are less determinate. Her own statement of a planned outing makes her an active participant in the separation.
+
 Ume likewise acquires friends and models who do not route through Saki. Rinha becomes a non-family rival/teacher. China and Hiro become ordinary friends and later technical/philosophical equals. Misuzu and Sena provide alternative idol logics.
 
 The correct mature rule is:

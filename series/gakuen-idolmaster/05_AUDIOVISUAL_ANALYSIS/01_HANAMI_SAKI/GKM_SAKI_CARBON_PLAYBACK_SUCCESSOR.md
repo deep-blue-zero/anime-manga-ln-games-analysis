@@ -59,3 +59,7 @@ Relevant Carbon propositions are `PROP-0029`, `PROP-0227`, `PROP-0300`.
 ## Completion boundary
 
 Individual Gate E remains open. The ankle-taping support scene, adv_csprt-2-0018_02, remains a separate material P0. The Phase 3 report records the earlier delivery. The present successor changes the claims in the sections above and supplies no additional viewing or listening credit. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
+
+## Recorded Event 016 parts 2 and 5 — 2026-11-25
+
+The [new targeted Event 016 receipt](GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md) strengthens the audience-specific withholding finding and qualifies what reciprocal boasting establishes. Saki's separate ankle care P0 still governs person-level readiness.

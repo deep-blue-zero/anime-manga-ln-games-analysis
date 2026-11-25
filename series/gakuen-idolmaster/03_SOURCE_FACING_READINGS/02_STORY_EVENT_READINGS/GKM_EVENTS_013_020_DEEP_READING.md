@@ -584,9 +584,9 @@ This is unusually clean reciprocity because neither peer is present to perform f
 
 It revises high-friction banter from “they tolerate one another” toward **mutual professional respect that both are embarrassed to state directly**.
 
-## 5.6 Saki and Ume convert separation anxiety into rivalry play
+## 5.6 Saki and Ume compare their separate lives
 
-At the end Saki tells Ume how much fun she had with Kotone's sister. Ume responds by emphasizing how much fun she had with her own friends. They become jealous of each other's independent day and immediately convert that jealousy into playful competitive boasting.
+At the end Saki tells Ume how much fun she had with Kotone's sister. Ume responds by emphasizing how much fun she had with her own friends. The later paired recorded evidence supports reciprocal exaggeration during the comparison. Part 2 explicitly gives Saki loneliness as she speaks to Kotone. The performance in part 5 does not establish the same motive for Ume. Its end shows Saki encouraging Ume to have further fun with her friends. [Recorded part 2 and 5 limits](../../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md).
 
 Saki ultimately tells Ume to go have even more fun with her friends.
 

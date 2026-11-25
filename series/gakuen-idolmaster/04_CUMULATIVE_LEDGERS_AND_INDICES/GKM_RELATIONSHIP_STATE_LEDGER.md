@@ -920,3 +920,7 @@ Rows above that carried a demonstrated error, or a question the audit closed, no
 ## Sena and Tsubame — layered affection in a separate support state
 
 `adv_csprt-3-0086_03` L110–182 gives Tsubame’s question, Sena’s definition and disclaimer, her stand-in joke, Tsubame’s objection, and then Sena’s explicit liking. In `SRC-0093` circa 208–259.413 s the contrast between the reveal, the quieter qualification and the warm last address is audible. Tsubame’s final recoil and warm underscoring establish weight and performative asymmetry. **STRENGTHEN** the instance of childhood-friend affection alongside teasing, **PRESERVE** the explicit qualification and **OPEN** the romantic category. This support exchange is a specific relationship state. Distinct title and professional outcomes stay in their own routes. [Playback and counterreadings](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Recorded Event 016 parts 2 and 5 — 2026-11-25
+
+E016 parts 2 and 5 specify what the sisters permit each other to know. Saki gradually admits loneliness to Kotone and expressly says she is unwilling to appear weak to Ume. The separate conversation preserves competitive boasting, Saki's support for Ume's friendships, and Ume's assertion that she will use the tickets with her peers. The causal source of Ume's affect and its relation to Saki's admitted feeling remain OPEN. [Recorded limits](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md).
