@@ -632,6 +632,28 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
   - [`nitta-minami-mobile-game-monograph` — Nitta Minami mobile-game character monograph](../../series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_NITTA_MINAMI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
   - [`nitta-minami-mobile-game-monograph-audit` — Nitta Minami mobile-game monograph audit](../../series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_NITTA_MINAMI_MONOGRAPH_AUDIT.md)
 
+<a id="owl"></a>
+
+### owl
+
+- Entity ID: `the-idolmaster:owl`
+- Entity aliases:
+  - _None._
+
+#### Subject: Gakuen Idolmaster mobile-game V2 character monograph
+
+- Analysis subject ID: `the-idolmaster:owl@mobile-game`
+- Series: `gakuen-idolmaster`
+- Continuity: `gakuen-idolmaster-mobile-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `owl-v2-monograph`: GAME OTHER: Gakuen Idolmaster China and Hiro song communications and the Hiro and Misuzu Dear Idol stories at Source Lock 1.2 revision 88, each kept in its own track, with one recorded unvoiced greeting. Her civil identity, performed voice and singing, future role at Hatsuboshi and private life are outside the evidence.; continuity `gakuen-idolmaster-mobile-game`
+- Reviewed current evidence:
+  - [`gkm-v2-monograph-owl` — owl V2 supplementary character monograph](../../series/gakuen-idolmaster/07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_OWL.md)
+
 <a id="shinosawa-hiro"></a>
 
 ### Shinosawa Hiro
@@ -653,6 +675,28 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
   - `shinosawa-hiro-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-07-shinosawa-hiro` — GKM CORE 07 SHINOSAWA HIRO](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/07_SHINOSAWA_HIRO/GKM_CORE_07_SHINOSAWA_HIRO.md)
+
+<a id="shirakusa-gekka"></a>
+
+### Shirakusa Gekka
+
+- Entity ID: `the-idolmaster:shirakusa-gekka`
+- Entity aliases:
+  - 白草月花 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Gakuen Idolmaster mobile-game V2 character monograph
+
+- Analysis subject ID: `the-idolmaster:shirakusa-gekka@mobile-game`
+- Series: `gakuen-idolmaster`
+- Continuity: `gakuen-idolmaster-mobile-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `shirakusa-gekka-v2-monograph`: GAME OTHER: Gakuen Idolmaster Mao, Rinami and Tsubame Dear Idol routes and the H.I.F. scouting support story at Source Lock 1.2 revision 88, each kept in its own track, with the paired Japanese recordings of Tsubame Dear 018 and 019. Her usual delivery in other rival encounters, identifiable singing and personal repertoire, Shion's acceptance and her private life are outside the evidence.; continuity `gakuen-idolmaster-mobile-game`
+- Reviewed current evidence:
+  - [`gkm-v2-monograph-shirakusa-gekka` — Shirakusa Gekka V2 supplementary character monograph](../../series/gakuen-idolmaster/07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIRAKUSA_GEKKA.md)
 
 <a id="shiun-sumika"></a>
 

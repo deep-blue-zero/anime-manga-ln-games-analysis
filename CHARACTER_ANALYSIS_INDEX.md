@@ -54,7 +54,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`silent-witch`](characters/index/silent-witch.md) | 4 |
 | [`solo-leveling`](characters/index/solo-leveling.md) | 5 |
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
-| [`the-idolmaster`](characters/index/the-idolmaster.md) | 32 |
+| [`the-idolmaster`](characters/index/the-idolmaster.md) | 34 |
 | [`three-days-of-happiness`](characters/index/three-days-of-happiness.md) | 5 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
 | [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 52 |
@@ -508,6 +508,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Otome Sakura](characters/index/lycoris-recoil.md#otome-sakura) | Lycoris Recoil television anime | `lycoris-recoil:otome-sakura@television-anime` | — |
 | [Otto](characters/index/ascendance-of-a-bookworm.md#otto) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:otto@light-novel` | — |
 | [Otto Suwen](characters/index/re-zero.md#otto-suwen) | Re:Zero main light novel | `re-zero:otto-suwen@light-novel` | オットー・スーウェン |
+| [owl](characters/index/the-idolmaster.md#owl) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:owl@mobile-game` | — |
 | [Ozuma](characters/index/konosuba.md#ozuma) | Original light-novel continuity, bounded expanded cohort | `konosuba:ozuma@original-light-novel` | ザトゥ・オズマ |
 | [Pain](characters/index/konosuba.md#pain) | Original light-novel continuity, scoped Tier 2 cohort monograph | `konosuba:pain@original-light-novel` | ペイン |
 | [Patrasche](characters/index/re-zero.md#patrasche) | Re:Zero main light novel | `re-zero:patrasche@light-novel` | パトラッシュ |
@@ -598,6 +599,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Shiraishi Chisa](characters/index/idoly-pride.md#shiraishi-chisa) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:shiraishi-chisa@v2-cross-media` | — |
 | [Shiraishi Saki](characters/index/idoly-pride.md#shiraishi-saki) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:shiraishi-saki@v2-cross-media` | — |
 | [Shiraki Hime](characters/index/watayuri.md#shiraki-hime) | Japanese manga | `watayuri:shiraki-hime@manga` | — |
+| [Shirakusa Gekka](characters/index/the-idolmaster.md#shirakusa-gekka) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:shirakusa-gekka@mobile-game` | 白草月花 |
 | [Shiratori Tomoe](characters/index/tokyo-7th-sisters.md#shiratori-tomoe) | Tokyo 7th Sisters game | `tokyo-7th-sisters:shiratori-tomoe@game` | — |
 | [Shiro](characters/index/shiboyugi.md#shiro) | Japanese light-novel continuity | `shiboyugi:shiro@light-novel` | 蔵里士郎; 尸狼; Kurari Shirō |
 | [Shiroko](characters/index/blue-archive.md#shiroko) | Blue Archive game | `blue-archive:shiroko@game` | — |
