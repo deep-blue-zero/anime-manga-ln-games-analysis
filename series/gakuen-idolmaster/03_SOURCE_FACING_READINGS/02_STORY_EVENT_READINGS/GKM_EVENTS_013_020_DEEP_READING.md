@@ -12,9 +12,9 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-23'
-version: "1.2"
+version: "1.3"
 revised: "2026-11-25"
-revision_note: "Corrects Event 014 subject, audience, and sequence in the written source. The 2026-11-15 v1.1 source-to-analysis audit changes remain recorded below."
+revision_note: "Corrects the division of work, speech and observation in the written Hiroshima escort-program event, with a narrower Event 014 paraphrase. Earlier revisions remain recorded below."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -25,6 +25,8 @@ do_not_use_as_current_authority: false
 > **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** First versioned revision; the text before this date counts as v1.0. Dated notes mark each change: §1.2 continuity notes on the escort-program order (GKM-SAA-269; STRENGTHEN for Events 015 and 018 running in parallel, OPEN for Event 019) and on the Mao–Sena order across Events 013, 017 and 022 (GKM-SAA-157, OPEN), cross-referenced in §6.5, §12, §13.1 and §17 Q8; §2.4, its relationship-promotion row and §12 bound Tsubame's reading of Sena (GKM-SAA-030, STRENGTHEN); §3.5 Misuzu's twice-stated nostalgia (HSCA-118, STRENGTHEN); §9.4 Sumika's first-person gyaru origin (GKM-SAA-078, HSCA-091, STRENGTHEN); §11 and §18 owner-policy note on core integration (GKM-SAA-104). Earlier formulations stay in place beside each note.
 
 > **Revision record — v1.2, 2026-11-25 (Event 014 written-source correction).** **REVISE** the object of Hiro's choice, the speaker of Ume's reported advice, and the audience of China's resolution. **REJECT** the direction and timing of the earlier MVP paraphrase. **REVISE** the account of the post-loss smile and the attribution of the closing words. **PRESERVE** the reciprocal-friendship finding and original replay priorities. The pinned Japanese files for parts 03–05 match byte for byte between Source Locks 1.0 and 1.2. The locators in §3 refer to those written files. Performance coverage follows the [current verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
+
+> **Revision record — v1.3, 2026-11-25 (Events 014 and 015 written source).** **REVISE** Misuzu's post-race question, the speakers in the two castle conversations, the jump across the audience song, and the scope of Rinami's eventual recognition. **PRESERVE** the reciprocal-support finding. All five Event 015 files are byte-identical between Source Locks 1.0 and 1.2. §4 cites the written scenes. The recording review follows the linked verification queue.
 
 ## 0. Scope, method, and principal finding
 
@@ -336,7 +338,7 @@ When Hiro asks Misuzu to try, Misuzu accepts a bounded commitment. At the final 
 
 The point is not that Misuzu's “true self” is a hidden athlete waiting for friendship to unlock it. The event preserves her chosen economy of effort. What changes is **jurisdiction**: friendship gives this particular situation enough value that extraordinary exertion becomes worth choosing.
 
-Before the start, Misuzu calls Hiro Class 1-2's MVP because Hiro made Misuzu want to try (`adv_event_014_main-05` L116–158). After Class 1-1 wins, Misuzu asks whether Hiro will fault her for holding back at the start. Hiro declines, thanks her, and says she had fun (L591–651). After they discuss Hiro's smile, Hiro says a Misuzu who went all out from the start would seem unlike herself and would seem weak. Misuzu says she has been thinking something similar (L677–733).
+Before the start, Misuzu calls Hiro Class 1-2's MVP because Hiro made Misuzu want to try (`adv_event_014_main-05` L116–158). After Class 1-1 wins, Misuzu asks whether Hiro will say she wishes Misuzu had given her all from the start of the day. Hiro says she won't, thanks her, and says she had fun (L591–651). After they discuss Hiro's smile, Hiro says a Misuzu who went all out from the start would seem unlike herself and would seem weak. Misuzu says she has been thinking something similar (L677–733).
 
 This is mature differentiation: capability does not create an obligation to live permanently at maximum output.
 
@@ -428,9 +430,9 @@ China then suggests researching Hiroshima itself so the MC can be locally respon
 
 At the venue, Lilja notices that the stage is wider than expected and proposes changing gesture and fanservice scale so people in the back can see clearly.
 
-This is a strong Phase-4 confirmation of Lilja's transition from execution-absorbed beginner to audience-directed performer. Her concern is not “can I perform the prepared movement correctly?” but “how does this movement reach a spectator located elsewhere in the room?”
+Lilja's proposal extends her attention from executing the movement to what a person at the back can see. China endorses the idea and Rinami suggests trying it in rehearsal (`adv_event_015_main-03` L42–113).
 
-The same pattern appears during Hiroshima sightseeing. Lilja's historical mistakes and cultural curiosity are not treated as embarrassing evidence that she does not belong. Rinami immediately reframes a mistaken “Ieyasu lived in Hiroshima Castle” assumption as potentially useful MC material because mutual cultural ignorance can be funny and humanizing.
+At Hiroshima Castle, Rinami corrects Lilja's assumption about Ieyasu and suggests telling the story during the MC. Lilja says she would be embarrassed. China answers that they know little about Swedish castles (`adv_event_015_main-03` L197–268). Onstage, Lilja tells the audience she had assumed Ieyasu lived in every Japanese castle. Rinami takes up the Swedish comparison and China says the ignorance goes both ways (`adv_event_015_main-04` L331–378). Lilja chooses how to retell the mistake herself, and the other two share the joke.
 
 ### Claim transitions
 
@@ -439,17 +441,17 @@ The same pattern appears during Hiroshima sightseeing. Lilja's historical mistak
 
 ## 4.4 China takes over the crisis that Rinami thought she had to solve
 
-The strongest scene occurs when the audio fails mid-live.
+Rinami privately registers that the next track has failed to start. She asks the audience to wait and privately reminds herself that, as the third-year, she has to keep the show going (`adv_event_015_main-04` L389–485).
 
-Rinami's internal reaction is immediate responsibility: she is the third-year leader and must keep talking. Before she can find the solution, China steps in. She announces that the group has prepared a local song and begins an a cappella Hiroshima baseball-team support song, bringing the audience into the gap until the equipment is restored.
+China announces that the trio learned a local song. Lilja recognizes what she means, and Rinami identifies the Hiroshima baseball cheer. China invites the audience to sing it with the trio a cappella (L495–596). A time transition takes the scene from the invitation to China's thanks. Lilja says the equipment seems fixed, and Rinami says she enjoyed singing together with the audience before introducing `キミとセミブルー` (L611–646). The story establishes participation through their words. The script skips the cheer itself.
 
-Rinami is surprised specifically because **China is improvising**.
+Rinami privately wonders whether China is ad-libbing (L548). How far China had prepared for this contingency remains open.
 
 The incident matters for both characters.
 
-China does not wait for senior permission because the situation requires an answer. Her earlier local-research idea becomes actionable public judgment. She is not merely “cute junior with ideas”; she can organize a room under uncertainty.
+China takes the initiative while Rinami is trying to steady herself. China's earlier proposal to gather local material gives her intervention a precedent (`adv_event_015_main-02` L307–358).
 
-Rinami does not react defensively to the loss of control. After the live she acknowledges that the juniors carried her too.
+After the live, Rinami says her mind went blank and thanks the two juniors aloud (`adv_event_015_main-05` L129–140). Later she privately recognizes that they had led her too (L194–198).
 
 > `3年生だから、ふたりを引っぱらなきゃ` becomes `私も、ふたりに、引っぱってもらってた`.
 
@@ -457,7 +459,7 @@ That is almost a textual gloss on **reversible hospitality**.
 
 ## 4.5 Seniority becomes a reversible relation
 
-China and Lilja still credit Rinami. Lilja says they could act freely because Rinami remained steady. China says the fans smiling is enough to define the live as a success. The correction is therefore not that senior mentorship was unnecessary. It is that successful mentorship creates juniors capable of returning support.
+China praises Rinami's work as MC. She says the show counts as a success if the fans are smiling. Lilja says Rinami's apparent composure gave them room to act freely (`adv_event_015_main-05` L149–171). Their accounts can stand alongside Rinami's own experience of going blank. The tour puts capacities to work that the girls already brought to it. For example, Rinami had already credited China's student-council ideas when explaining the program (`adv_event_015_main-01` L73–90).
 
 The relation evolves:
 
@@ -465,15 +467,15 @@ The relation evolves:
 
 ### Event 015 thesis
 
-> **Good mentorship is successful when it produces people who can carry the mentor without first ceasing to be juniors.**
+> **Rinami's role as senior leaves room for the juniors to exercise judgment and for Rinami to receive their help.**
 
-Rinami's authority is not diminished when China saves the transition or Lilja modifies staging. The event treats receiving competence from below as evidence that the senior structure worked.
+Rinami's senior role still matters to the others. Each girl can contribute to the show without adopting the same account of who led at every moment.
 
 ### Relationship promotions
 
 - **Rinami ↔ China — STRENGTHEN:** prior adviser relation becomes reciprocal production; China can act independently inside a frame Rinami helped create.
 - **Rinami ↔ Lilja — PROMOTE:** direct senior/junior bridge rooted in Rinami's remembered first-year hesitation and Lilja's choice to step outside habitual Sumika dependence.
-- **China ↔ Lilja — PROMOTE:** regional-live peers who plan, sightsee, perform, and improvise together; relation is not mediated by their usual closest friends.
+- **China ↔ Lilja — PROMOTE (preserved).** They collaborate on planning, travel and stage adaptation. During the disruption, China invites the audience, and Lilja recognizes the cue and later reports the apparent recovery. They develop this working relationship outside their usual partnerships.
 
 ### Japanese-register evidence
 
@@ -1255,7 +1257,7 @@ The following transitions are tranche-level routing instructions, not replacemen
 | Fujita Kotone | **STRENGTHEN** | E016 sibling reciprocates pride; E019 family accepts work priority and Kotone operates comfortably inside peer unit | provider identity is increasingly reciprocal; family and friendship can authorize idol self-investment |
 | Arimura Mao | **STRENGTHEN** | E013 old regret toward Sena; E017 role-integration advice to Sena; E018 adaptive senior leadership and joyful prince acting | princehood is genuine vocation when chosen and audience/recipient-sensitive, not merely a defensive shell |
 | Katsuragi Lilja | **STRENGTHEN / REVISE** | E015 independently accepts senior opportunity and adjusts stagecraft for distant spectators; E020 publicly integrates fandom and defends dream+hobby dual commitment | courage is increasingly self-authored and audience-directed; borrowed media language can be an authentic expressive resource |
-| Kuramoto China | **STRENGTHEN** | E014 consciously performs morale; E015 rescues live through improvised local audience leadership | receptive authority now includes crisis command and chosen morale labor |
+| Kuramoto China | **STRENGTHEN** | E014 consciously performs morale. In E015 China offers a familiar local cheer and invites the audience to sing with the trio during a playback failure. | receptive authority includes crisis leadership and chosen morale work |
 | Shinosawa Hiro | **STRENGTHEN / REJECT** | E014 explicitly dislikes a form of suffering whose cost falls on friends; E018 seeks socially collaborative mismatch and reciprocal disclosure | “loves failure/hardship” is decisively inadequate; resistance-seeking is consequence-sensitive and relationally governable |
 | Himesaki Rinami | **STRENGTHEN** | E013 first-year class regulation and Sena's recruitment logic; E015 mentorship reverses; E017 observer becomes observed | reversible hospitality and receptive authority are deeply historical; mature care preserves others' authorship and accepts return support |
 | Shiun Sumika | **STRENGTHEN** | E018 names fear of Hiro seeing through avoidance; E020 reclaims Sweden through Lilja and shows hobby/fashion competence as world-opening care | chosen brightness remains genuine while protecting vulnerability; relational safety can reduce the need for concealment |
@@ -1277,9 +1279,9 @@ The following edges are strong enough to enter the cumulative relationship ledge
 | Sena ↔ Mao | E013/E017 | Mao's old failure to promise pursuit becomes present challenge and role-expansion advice; *order OPEN (2026-11-15, GKM-SAA-157): do not read the E013 vow → E017 advice as a progression; see the §1.2 continuity notes* |
 | senior quartet | E013/E017 | long-duration peer system with differentiated functions: regulation, challenge, performance interpretation, institutional leadership |
 | Hiro ↔ Misuzu | E014 | **PROMOTE** preserved. Hiro says `大切な友達` and `大好き`. Misuzu affirms with `わたしもです`. Shared loss and Misuzu's chosen effort give the friendship reciprocal expression. |
-| Rinami ↔ China | E015 | senior/junior relation becomes explicitly reversible during live crisis |
+| Rinami ↔ China | E015 | China steps forward during the playback failure. Rinami thanks both juniors aloud and later recognizes the returned support privately. |
 | Rinami ↔ Lilja | E015 | Rinami supplies opportunity she once lacked; Lilja accepts without relying on Sumika |
-| China ↔ Lilja | E015 | direct peer collaboration in planning, travel, stage adaptation, and crisis performance |
+| China ↔ Lilja | E015 | Direct peer collaboration in planning, travel and stage adaptation. Lilja recognizes China's cue during the crisis and later reports the apparent equipment recovery. |
 | Saki ↔ Ume | E016 | Saki actively supports separate social plans and acknowledges loneliness privately to Kotone |
 | Temari ↔ Kotone | E016 | third-party testimony confirms reciprocal professional admiration beneath antagonistic banter |
 | Temari ↔ Rinha | E016 historical | Rinha's coaching language persists as Temari's later teaching repertoire |

@@ -388,9 +388,9 @@ The following edges are strong enough to enter the cumulative relationship ledge
 | Sena ↔ Mao | E013/E017 | Mao's old failure to promise pursuit becomes present challenge and role-expansion advice; not a progression: E017-04 (L433–L472) and E022-05 (L277–L289) are pre-summer and the E013 vow `今度こそ` (L462–L469) is undated, so the order stays OPEN (GKM-SAA-157) |
 | senior quartet | E013/E017 | long-duration peer system with differentiated functions: regulation, challenge, performance interpretation, institutional leadership |
 | Hiro ↔ Misuzu | E014 | **PROMOTE** preserved. In part 05 Misuzu calls Hiro the class MVP for motivating her (L134–146). After their loss Hiro says `大切な友達` and `大好き`, and Misuzu answers `わたしもです` (L786–807). Their shared loss and Misuzu's chosen exertion remain part of the [Event 014 relationship reading](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_013_020_DEEP_READING.md#36-hiro-learns-shared-disappointment). |
-| Rinami ↔ China | E015 | senior/junior relation becomes explicitly reversible during live crisis |
+| Rinami ↔ China | E015 | China steps forward during the playback failure. Rinami thanks both juniors aloud and later recognizes privately that they had also led her (`adv_event_015_main-04` L449–638, `main-05` L129–171, L194–198). |
 | Rinami ↔ Lilja | E015 | Rinami supplies opportunity she once lacked; Lilja accepts without relying on Sumika |
-| China ↔ Lilja | E015 | direct peer collaboration in planning, travel, stage adaptation, and crisis performance |
+| China ↔ Lilja | E015 | Direct collaboration in planning, travel and stage adaptation. Lilja recognizes China's cue during the crisis and later reports that the equipment appears fixed (`adv_event_015_main-03` L42–113, `main-04` L495–629). |
 | Saki ↔ Ume | E016 | autonomous friend worlds are actively supported; separation anxiety persists without enclosure |
 | Temari ↔ Kotone | E016 | third-party testimony confirms reciprocal professional admiration beneath antagonistic banter |
 | Temari ↔ Rinha | E016 historical | Rinha's coaching language persists as Temari's later teaching repertoire |
