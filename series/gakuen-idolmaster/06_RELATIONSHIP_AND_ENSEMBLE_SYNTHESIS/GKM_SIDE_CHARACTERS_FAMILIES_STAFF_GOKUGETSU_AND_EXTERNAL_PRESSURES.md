@@ -566,6 +566,8 @@ The visual trainer's domain extends beyond cosmetics. She links:
 
 She can also recognize unexpected aptitude, such as Saki's trainer-like ability, without treating that aptitude as incompatible with idolhood.
 
+Her responses to a student’s hesitation vary with the task. She cushions her critique and offers a new way to approach the handkerchief scene with Rinami, while in Mao’s posing lesson she persists when Mao worries about showing an unfinished side of her image. Off duty she admits to colleagues that Saki’s unfamiliarity with her slang discouraged her. The [individual portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_VISUAL_TRAINER.md) follows these differences and the [reviewed evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_VISUAL_TRAINER_SOURCE_AND_SCOPE.md#recording-limits) identifies the sealed handkerchief performance and the other written contrasts.
+
 ## 3.3 Staff self-audit: successful students can make old pedagogy obsolete
 
 `story_0100` is one of the most important institutional side-character scenes in the support corpus.
