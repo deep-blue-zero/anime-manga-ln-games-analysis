@@ -54,7 +54,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`silent-witch`](characters/index/silent-witch.md) | 4 |
 | [`solo-leveling`](characters/index/solo-leveling.md) | 5 |
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
-| [`the-idolmaster`](characters/index/the-idolmaster.md) | 31 |
+| [`the-idolmaster`](characters/index/the-idolmaster.md) | 32 |
 | [`three-days-of-happiness`](characters/index/three-days-of-happiness.md) | 5 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
 | [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 52 |
@@ -372,6 +372,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Kurena Kukumila](characters/index/86-eighty-six.md#kurena-kukumila) | 86 - Eighty-Six original light novels | `86-eighty-six:kurena-kukumila@original-light-novels` | クレナ・ククミラ |
 | [Kuribayashi](characters/index/rent-a-girlfriend.md#kuribayashi) | Main manga continuity | `rent-a-girlfriend:kuribayashi@manga` | — |
 | [Kurogane Ren](characters/index/shine-post.md#kurogane-ren) | SHINE POST television anime | `shine-post:kurogane-ren@television-anime` | — |
+| [Kuroi](characters/index/the-idolmaster.md#kuroi) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:kuroi@mobile-game` | 黒井崇男 |
 | [Kurokiba Ryō](characters/index/shokugeki-no-soma.md#kurokiba-ryo) | Shokugeki no Soma manga | `shokugeki-no-soma:kurokiba-ryo@manga` | — |
 | [Kurumi](characters/index/lycoris-recoil.md#kurumi) | Lycoris Recoil television anime | `lycoris-recoil:kurumi@television-anime` | Walnut; ウォールナット; クルミ |
 | [Kurusu Kanako](characters/index/oreimo.md#kurusu-kanako) | Oreimo original light novels | `oreimo:kurusu-kanako@original-light-novels` | — |

@@ -520,6 +520,28 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Reviewed current evidence:
   - [`gkm-core-06-kuramoto-china` — GKM CORE 06 KURAMOTO CHINA](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/06_KURAMOTO_CHINA/GKM_CORE_06_KURAMOTO_CHINA.md)
 
+<a id="kuroi"></a>
+
+### Kuroi
+
+- Entity ID: `the-idolmaster:kuroi`
+- Entity aliases:
+  - 黒井崇男 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Gakuen Idolmaster mobile-game V2 character monograph
+
+- Analysis subject ID: `the-idolmaster:kuroi@mobile-game`
+- Series: `gakuen-idolmaster`
+- Continuity: `gakuen-idolmaster-mobile-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kuroi-v2-monograph`: GAME OTHER: Gakuen Idolmaster Dear Idol continuities and support stories at Source Lock 1.2 revision 88, each kept in its own track, with one separately published recording of the Ume Dear 016 compliance reply. Incarnations from other Idolmaster games, the other two Dear 016 replies' delivery, the identities behind his two epithets and his private biography are outside the evidence.; continuity `gakuen-idolmaster-mobile-game`
+- Reviewed current evidence:
+  - [`gkm-v2-monograph-kuroi` — Kuroi V2 supplementary character monograph](../../series/gakuen-idolmaster/07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KUROI.md)
+
 <a id="mashiro-yu"></a>
 
 ### Mashiro Yu
