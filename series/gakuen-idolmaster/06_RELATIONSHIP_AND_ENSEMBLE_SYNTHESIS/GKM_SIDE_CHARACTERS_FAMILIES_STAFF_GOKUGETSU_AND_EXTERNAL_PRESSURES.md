@@ -344,6 +344,8 @@ Removing either side would distort Sena.
 
 The double coding above stands, now with one actor who is both Sena's father and the president of 100 Pro.
 
+**Later individual portraits, 2026-11-25.** [Ryuusei's profile](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_JUO_RYUUSEI.md) follows the agency offer to Mao, Sena's refusal and his written retraction. [Kunio's profile](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_JUO_KUNIO.md) follows the headmaster's admissions discretion, family encounters, distinct contest authority and specified musical credit. Keep the two relationships and organizations distinct.
+
 ## 2.5 Rinami's family: a good alternative life makes choice more meaningful
 
 Rinami's family is analytically unusual because it offers a plausible alternative good life rather than an obvious oppressive past.
