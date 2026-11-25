@@ -484,3 +484,15 @@ The Japanese support scripts join to four exact recorded editions. Original scop
 ## Narrow delivery reviews — 2026-11-25
 
 The registered support ranges of SRC-0088 at 127–222 s and 234–322.65 s join `adv_csprt-3-0082_02` and `adv_csprt-3-0082_03`. SRC-0039 at 1174–1225 s joins `adv_event_001_main-05`. The [paired adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md) identifies the measured child-to-parent offsets, written cue roles and observed delivery limits.
+
+## Exact playback editions for five support cards — 2026-11-25
+
+These newly reviewed editions witness already admitted Source Lock 1.2 support scripts. Original time is in seconds on the complete titled parent recording. Review occurred within the registered portions, through packet-matched derivatives. The [adjudications](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md) record full parent digests, exact source-to-child clocks, capabilities and unresolved scope.
+
+| Locked script | Retained recording edition | Inspected original interval |
+| --- | --- | --- |
+| `adv_csprt-2-0018_02` | [6olQr2D94ZA](https://www.youtube.com/watch?v=6olQr2D94ZA), stream selection 137+251 | 80–174.5 s |
+| `adv_csprt-2-0011_02` | [fMBRGgIgj1c](https://www.youtube.com/watch?v=fMBRGgIgj1c), stream selection 137+251-1 | 68–136.95 s |
+| `adv_csprt-1-0004_01` | [8FpuXBIAx_4](https://www.youtube.com/watch?v=8FpuXBIAx_4), Japanese native episode | 0.15–89 s |
+| `adv_csprt-3-0071_03` | [r41O7nY6FvI](https://www.youtube.com/watch?v=r41O7nY6FvI), Japanese native episode | 172–270.5 s |
+| `adv_csprt-2-0067_02` | [x6mcJ4AOFDw](https://www.youtube.com/watch?v=x6mcJ4AOFDw), stream selection 299+140 | 113–211.95 s |

@@ -941,3 +941,7 @@ The four observations refine the Phase 5 relationship rows at their own support 
 ## Tsubame and Lilja’s shared fandom — recorded scope, 2026-11-25
 
 **STRENGTHEN the two reciprocal recommendations and REVISE the scope of the historical Phase 5 trust claim.** Both offer anime recommendations. Tsubame reconsiders Lilja’s choice and calls them fellow enthusiasts. Tsubame starts the cinema excuse and Lilja supports it. Broad trust, exclusivity and relationship category remain open. [Support 3-0082 readback](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Scoped support playback and relationship consequences — 2026-11-25
+
+In support `2-0018_02` Saki’s care and apology precede Temari reclaiming responsibility and answering renewed challenge. In `2-0067_02`, Temari tells Ume what made touching the dog feel safe. Ume builds on the outward explanation and recognizes excessive teasing after Temari's denial. In `2-0011_02`, Kotone refuses Sena’s money explicitly while maintaining polite address. In `3-0071_03`, the two student approaches distinguish general celebrity recognition of Sena and one specific appreciation of Tsubame’s dancing with her. These encounters support role-specific behavior, without settling private motives or a whole relationship trajectory. [Five support-card adjudications](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

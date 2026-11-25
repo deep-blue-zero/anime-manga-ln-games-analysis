@@ -30,7 +30,7 @@ _Trace._ PROP-0065 and PROP-0225, especially affected clause PROP-0225-AV-01. M2
 
 In E021-01 the committee's work is overwhelming both senior officers. Rinami offers to make things run and formally forbids Sena and Tsubame from council work for a while. On original SRC-0407 the pair LP-RPL-0182/0290 covers 97–104, 133–158 and 190–205 s. The last window supports a smiling but firm refusal to accept the senior officers' arrangements. The old interval ending before 162 s lacks it. The scene consequently strengthens her ability to exercise practical authority over familiar colleagues while showing no lasting transfer of their formal jobs.
 
-Her D027 desire to win and spoken professional resolution, D037 statement of liking and final hidden single assent retain separate speech, thought and choice labels (GKM-SAA-128 and GKM-SAA-071). The first-year flashback command, E017 camera address, specific support 1-0004 part 01 change from little-sister role, and E015 reversal retain distinct P0/P1 questions. The four recovered stages do not answer those cues. [Live verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md)
+Her D027 desire to win and spoken professional resolution, D037 statement of liking and final hidden single assent retain separate speech, thought and choice labels (GKM-SAA-128 and GKM-SAA-071). The first-year flashback command, E017 camera address and E015 reversal retain distinct questions. The specific change of acting delivery in support 1-0004 part 01 has a separate scene review below. [Live verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md)
 
 ## RippleSign and the two accounts of rehearsal
 
@@ -46,5 +46,11 @@ The source manifests identify distinct story recordings and two shared performan
 | Mao’s story communication | — | `C08_SUGAR_FLAVOR_COMMU` | 550.684444 s |
 | Official music video | `RINAMI-P11` | `M07_SUGAR_FLAVOR_OFFICIAL_MV` | 188.104853 s |
 | Rendered duet 3DMV | `RINAMI-P10` | `M08_SUGAR_FLAVOR_3DMV` | 138.646349 s |
+
+## A change of acting delivery in support 1-0004 — 2026-11-25
+
+**STRENGTHEN.** In 頼れる先輩お姉さん (support 1-0004 part 01), the visual trainer describes Rinami’s first handkerchief rehearsal as slightly stiff. She suggests setting aside the pressure to sound like a younger sister and imagining someone close to her (L25–81). On 8FpuXBIAx_4, the first attempt is audible around 3–15 s. After the prompt the reprise at about 63–75 s is smoother and softer. The second attempt changes punctuation and splits the later dialogue boxes, with a different score, framing and expression. The trainer’s approval applies to this specific take (L107–113).
+
+**DOWNGRADE** an inference that the take reveals an innate register. The assigned clip durations provide a separate check on claims of global slowing. The evidence leaves the imagined person, the circumstances the trainer alludes to and any measured pitch difference **OPEN**. This strengthens Rinami’s capacity to vary performed address under guidance. The phone scene in part 02, the separate event requests and individual Gate E retain their own scopes. [Recorded support adjudication](../GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md) · [Source Lock](../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_LOCK.md)

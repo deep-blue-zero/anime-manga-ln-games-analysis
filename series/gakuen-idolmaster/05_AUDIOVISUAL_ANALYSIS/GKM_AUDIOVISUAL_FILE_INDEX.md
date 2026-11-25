@@ -21,6 +21,8 @@ A link establishes where an artifact is stored. It does not independently certif
 
 The [recovery audit](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records the restored evidence and remaining collection status. Its [integration manifest](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_MANIFEST_20260909.json) preserves the recovery-time paths and hashes at commit `a38e6aa313324b399adc8e7681a21106f730c15d`. The [AV path migration](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AV_PATH_MIGRATION_20260909.tsv) maps those former Git locations to the consolidated homes. Hiro and Misuzu's [AVE-FULL-20260910 rebuilds](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) are adopted. Their [Hiro document map](07_SHINOSAWA_HIRO/00_README_AND_REBUILD_STATUS.md) and [Misuzu document map](11_HATAYA_MISUZU/00_README_AND_REBUILD_STATUS.md) route all rebuilt supporting documents. Source-wide calculations and sampled still review are documented separately from unperformed fresh listening and continuous-motion review. This Git import itself adds no source inspection.
 
+The [five support-card audiovisual adjudications](GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md) route the current direct comparisons for Saki and Temari, Kotone and Sena, Rinami, Tsubame, and Ume and Temari. Character-local current files carry the results and their limits.
+
 ## Character routes
 
 The controls column links the claim/evidence matrix, source manifest, completion report, delivery audit, and original internal artifact-checksum manifest. Historical checksums identify their release bytes; they are not blanket assertions that subsequently maintained repository files remain byte-identical.

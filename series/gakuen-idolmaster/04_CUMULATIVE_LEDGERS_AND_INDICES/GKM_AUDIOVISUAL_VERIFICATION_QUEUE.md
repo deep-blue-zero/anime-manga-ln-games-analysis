@@ -617,7 +617,7 @@ No support-card AV target blocks textual Phase-5 progression.
 | `adv_csprt-2-0001_01` | Temari pivots from criticizing Misuzu to angrily defending her when Kotone agrees too strongly — locate attachment leakage and anger target |
 | `adv_csprt-2-0011_02` | Kotone rejects Sena's money — distinguish comedy/evasion from hard debt/autonomy boundary |
 | `adv_csprt-2-0015_02` | Temari/Kotone katsudon sharing — quantify protest versus comfortable familiarity |
-| `adv_csprt-2-0018_02` | Saki tapes Temari's ankle while preserving challenge language — care/rivalry simultaneity |
+| `adv_csprt-2-0018_02` | Original question about care and rivalry. The 2026-11-25 paired review verifies the offer of taping and the renewed challenge. The location of the injury and actual application of tape remain open. See the dispositions below. |
 | `adv_csprt-2-0021_01` | Hiro `友達` / Temari `違うから` — critical for modeling label denial versus enacted friendship |
 | `adv_csprt-2-0025_02` | Sena realizes Kotone watched her — public composure→transparent recruitment excitement transition |
 
@@ -1036,3 +1036,15 @@ The historical entries preserve their commissioning questions. These four later 
 | `adv_event_001_main-05`, P1 | **STRENGTHEN. Resolved within the specific nickname request.** SRC-0039 at 1174–1225 s separates the flat coinage, puzzled vocative and warmer reply to Kotone. The earlier apology keeps its separate source interval. Lilja’s reason for hesitating and the private motive for the proposal remain open. |
 
 [Source, edition and cue adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md). Other priority items retain individual scope.
+
+## Paired dispositions for five support-card requests — 2026-11-25
+
+At Source Lock 1.2, Japanese ADV revision 88, the retained originals support three separately frozen media-first returns for each named interval. The [chapter-bound adjudications](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md) hold evidence, role, recording identity and remaining questions. These rows update the named audition and delivery issues without closing any numbered Gate E.
+
+| P0 support | Receiving disposition within exact recording scope |
+| --- | --- |
+| `adv_csprt-2-0018_02` | **REVISE.** Saki warns against neglecting the sprain, offers taping and apologizes. Temari answers for her own skill. Challenge resumes. The exact physical application and Saki’s unstated motive remain **OPEN**. |
+| `adv_csprt-2-0011_02` | **REVISE.** A comic delivery and definite monetary boundary coexist. Kotone identifies the debt risk. Sena’s terms and Kotone’s deeper feelings remain **OPEN**. |
+| `adv_csprt-1-0004_01` | **STRENGTHEN.** The guided retry changes phrasing, scoring and expression. The recalled person, circumstances and exact acoustic parameters remain **OPEN**. |
+| `adv_csprt-3-0071_03` | **STRENGTHEN.** Tsubame receives a specific later recognition for the dance. The game result is her report. Point totals, Sena holding back and broader visibility remain **OPEN**. |
+| `adv_csprt-2-0067_02` | **REVISE.** Ume’s outward exchange builds on Temari’s spoken account and ends in an explicit admission of excessive teasing. Its initial intention and wider interpersonal scope remain **OPEN**. |
