@@ -758,6 +758,8 @@ This is a valuable Phase-6 correction:
 
 A broker must have an accurate model of the blocked edge and permission to intervene.
 
+The [Aoi Nadeshiko portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_AOI_NADESHIKO.md) follows those two patterns alongside her hospitality to a visitor and her private reactions when rivals offer care. In China’s Dear route she says herself that she uses Aoi resources to discourage rivals’ fans. In Kanae’s Dear route she invokes loyalty to an unnamed elder while China welcomes the attention paid to Kanae. The Shirakusa support leaves her interpretation of Shion’s discomfort and Shion’s actual refusal distinct. The [reviewed evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_AOI_NADESHIKO_SOURCE_AND_SCOPE.md#hospitality-and-performed-voice) binds the voiced corridor and Sumika exchanges to separate recording editions.
+
 ## 4.5 Kuroi: institutional rivalry includes acquisition, not just comparison
 
 Kuroi's late support appearance makes the external-school relation more concrete.
