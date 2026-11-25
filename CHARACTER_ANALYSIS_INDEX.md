@@ -54,7 +54,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`silent-witch`](characters/index/silent-witch.md) | 4 |
 | [`solo-leveling`](characters/index/solo-leveling.md) | 5 |
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
-| [`the-idolmaster`](characters/index/the-idolmaster.md) | 29 |
+| [`the-idolmaster`](characters/index/the-idolmaster.md) | 32 |
 | [`three-days-of-happiness`](characters/index/three-days-of-happiness.md) | 5 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
 | [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 52 |
@@ -97,6 +97,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Anju Emma](characters/index/86-eighty-six.md#anju-emma) | 86 - Eighty-Six original light novels | `86-eighty-six:anju-emma@original-light-novels` | アンジュ・エマ |
 | [Anna Filante Esteroid](characters/index/konosuba.md#anna-filante-esteroid) | Original light-novel continuity, scoped cohort monograph | `konosuba:anna-filante-esteroid@original-light-novel` | アンナ゠フィランテ゠エステロイド; アンナ＝フィランテ＝エステロイド |
 | [Annette Penrose](characters/index/86-eighty-six.md#annette-penrose) | 86 - Eighty-Six original light novels | `86-eighty-six:annette-penrose@original-light-novels` | アンリエッタ・ペンローズ |
+| [Aoi Nadeshiko](characters/index/the-idolmaster.md#aoi-nadeshiko) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:aoi-nadeshiko@mobile-game` | 藍井撫子 |
 | [Aoyama Yuga](characters/index/my-hero-academia.md#aoyama-yuga) | My Hero Academia manga | `my-hero-academia:aoyama-yuga@manga` | — |
 | [Aqua](characters/index/konosuba.md#aqua) | Original light-novel continuity, main-principal and expanded analysis | `konosuba:aqua@original-light-novel` | — |
 | [Aragaki Ayase](characters/index/oreimo.md#aragaki-ayase) | Oreimo original light novels | `oreimo:aragaki-ayase@original-light-novels` | — |
@@ -371,6 +372,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Kurena Kukumila](characters/index/86-eighty-six.md#kurena-kukumila) | 86 - Eighty-Six original light novels | `86-eighty-six:kurena-kukumila@original-light-novels` | クレナ・ククミラ |
 | [Kuribayashi](characters/index/rent-a-girlfriend.md#kuribayashi) | Main manga continuity | `rent-a-girlfriend:kuribayashi@manga` | — |
 | [Kurogane Ren](characters/index/shine-post.md#kurogane-ren) | SHINE POST television anime | `shine-post:kurogane-ren@television-anime` | — |
+| [Kuroi](characters/index/the-idolmaster.md#kuroi) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:kuroi@mobile-game` | 黒井崇男 |
 | [Kurokiba Ryō](characters/index/shokugeki-no-soma.md#kurokiba-ryo) | Shokugeki no Soma manga | `shokugeki-no-soma:kurokiba-ryo@manga` | — |
 | [Kurumi](characters/index/lycoris-recoil.md#kurumi) | Lycoris Recoil television anime | `lycoris-recoil:kurumi@television-anime` | Walnut; ウォールナット; クルミ |
 | [Kurusu Kanako](characters/index/oreimo.md#kurusu-kanako) | Oreimo original light novels | `oreimo:kurusu-kanako@original-light-novels` | — |
@@ -423,6 +425,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Mamiya Kanoko](characters/index/watayuri.md#mamiya-kanoko) | Japanese manga | `watayuri:mamiya-kanoko@manga` | — |
 | [Mammon](characters/index/konosuba.md#mammon) | Original light-novel continuity, scoped Tier 2 cohort monograph | `konosuba:mammon@original-light-novel` | マモン |
 | [Mari Otsu](characters/index/sayonara-lara.md#mari-otsu) | Television anime continuity | `sayonara-lara:mari-otsu@anime` | — |
+| [Mashiro Yu](characters/index/the-idolmaster.md#mashiro-yu) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:mashiro-yu@mobile-game` | 真城優 |
 | [Masked gatekeeper (Main 17)](characters/index/konosuba.md#main17-masked-gatekeeper) | Original light-novel continuity, bounded character study | `konosuba:main17-masked-gatekeeper@original-light-novel` | — |
 | [Maxwell](characters/index/konosuba.md#maxwell) | Original light-novel continuity, scoped current monograph | `konosuba:maxwell@original-light-novel` | マクス; マクスウェル |
 | [Megumi](characters/index/konosuba.md#megumi) | Original light-novel continuity, bounded expanded cohort | `konosuba:megumi@original-light-novel` | メグミ |
