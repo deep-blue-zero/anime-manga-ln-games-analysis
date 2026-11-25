@@ -59,6 +59,8 @@ Original release manifests and checksum files describe the historical packages. 
 
 The unnumbered [current Kaya Rinha AV reading](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) routes the later paired recordings by target. All eighteen targeted scenes meet the dossier's bounded perceptual requirement. The [reviewed dossier](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) closes Phase 6 at the declared boundary. The exact whole-container C073 promotion, a Rinha sung profile and the separately qualified motive claims remain OPEN. The [September document map](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) preserves its source/measurement record of 538 sampled frame points, eighteen selected-mix measurements and zero direct listening or continuous-motion review during that pass.
 
+GitHub displays the archived [September README](KAYA_RINHA/README.md) when opening the Rinha directory. Its checksum-bound status describes the September handoff. Use the current reading above for the later perceptual review and dossier status.
+
 - [Integrated baseline and 18 scene records](KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md)
 - [Evidence and metrics matrix](KAYA_RINHA/GKM_KAYA_RINHA_AV_EVIDENCE_AND_METRICS_MATRIX.md)
 - [All-claim change report](KAYA_RINHA/GKM_KAYA_RINHA_CLAIM_CHANGE_REPORT.md)

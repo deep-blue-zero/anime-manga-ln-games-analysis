@@ -466,7 +466,7 @@ Current integrated thesis: **material security becoming self-authorship, refined
 
 ## Historical planning checkpoint after Phase 3
 
-The following instructions record the earlier Phase-3 handoff. Phases 4 and 5 and the Rinha crosswalk/matrix have since been completed; the current next analytical operation remains the targeted Rinha AV baseline, subject to the governing initiation controls.
+The following instructions record the earlier Phase-3 handoff. At that point the Rinha baseline was still planned. The project has since completed Phases 4 and 5 and closed Phase 6 at Source Lock 1.2. The [current Rinha audiovisual reading](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) links the later perceptual coverage, accepted dossier and remaining claim-specific questions.
 
 At this historical checkpoint, the mainline and parallel branches were:
 
