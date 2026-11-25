@@ -216,6 +216,8 @@ Backfill note — 2026-08-17: the logical Dear 028–037 source remains Drive `1
 
 Canonical AV authority: `GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md`. The old request packet is superseded provenance.
 
+**Dear 011–020 recording locator, 2026-11-25.** 学マスコミュ保管委員会 published the Sumika compilation used for both editions. The Phase 3 manifest registers `SRC-0332` as a 720p30 file (288,540,028 bytes, SHA-256 `2cb5662547df16aa4fb02b89367c81ee21836dbfb0858fb767a9773f9fe9096f`). The paired local review used `LP-MEDIA-036`, the complete 360p30 rendition with Japanese audio (YouTube formats `134+139`, SHA-256 `f54f76b5129f9abb9f55ac34c755fbc6d043ae806ad94bce468b20b8370558ed`). Its cues use that rendition’s clock. PEND-016 still requires the historical file and a match to its registered checksum. [Public upload](https://www.youtube.com/watch?v=RDhJDf7sO9o) · [Phase 3 source manifest](../05_AUDIOVISUAL_ANALYSIS/09_SHIUN_SUMIKA/GKM_PHASE3_SUMIKA_AUDIOVISUAL_SOURCE_MANIFEST.json) · [Recording identities](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_RECORDING_IDENTITY_CROSSWALK.tsv) · [Historical-edition requirement](GKM_CARBON_RESIDUAL_EVIDENCE_REGISTER.md#historical-edition-and-acquisition)
+
 ## Phase 3 Kotone source crosswalk — 2026-08-15
 
 | layer | canonical source/home | scope/use |
