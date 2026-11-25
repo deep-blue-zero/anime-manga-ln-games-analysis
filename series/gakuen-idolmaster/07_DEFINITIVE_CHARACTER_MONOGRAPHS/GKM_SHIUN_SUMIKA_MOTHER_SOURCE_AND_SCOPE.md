@@ -1,0 +1,24 @@
+# Source and scope for Shiun Sumika’s mother
+
+The supplementary portrait concerns the woman identified as 清夏の母 in the entrance-exam support and 母 in Sumika’s later phone call. The game supplies no personal name in these appearances. Citations follow the [admitted Japanese revision 88](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261115.md) at `f8ff5ef7b243f2f7e3b2723def31072874539ca9`. Each scene retains its own narrative track. [Reviewed portrait](GKM_SHIUN_SUMIKA_MOTHER.md) · [Character qualification](GKM_CHARACTER_QUALIFICATION_AND_READINESS.md)
+
+## Before enrollment
+
+- **M1.** adv_csprt-3-0093_01 L4–34, 51–124 and 136–169. Lilja greets Sumika and her mother before the entrance examination. L151–155 are the students’ own comparison of the maths and practical examinations. The mother addresses Lilja alone at L164. Sumika objects at L169. This support establishes attendance and one direct intervention. It does not establish what conditions the mother set for admission, who paid for either girl’s trip or which parent prepared their applications.
+
+## What Sumika reports
+
+- **M3.** adv_event_020_main-03 L186–211. In answer to Lilja’s question about her knowledge, Sumika recalls what prompted her gyaru styling and how she learned it. Her mother neither narrates this memory nor states what she thought of a particular outfit.
+- **M4.** adv_cidol-ssmk-3-014_02 L73–96 and 141–154. Sumika tells the Producer about training in Hokkaido, occasional Tokyo competition trips with her mother and greater freedom living with her uncle in Sweden. Her silence follows the Producer’s suggestion that home felt constricting.
+- **M5–6.** adv_dear_ssmk_010 L157–178 and adv_dear_ssmk_032 L323–418. Sumika says she began ballet after being told to by 親. The wording does not say whether one parent or both made that request. She describes her own pleasure in it, her injury, separation from Lilja and reluctance to announce her wish to be an idol. These recollections supply no account of the mother’s interior life.
+
+## The call after the win
+
+- **M7–8.** adv_cidol-ssmk-3-018_01 L47–60, 94–105 establishes Sumika as the current Prima Stella. In _02 L24–58 and 121–129 Sumika explains to Temari that REVERSI is pausing after the pair fulfilled their promise. This setup belongs to the Sumika-winning communication. Lilja’s alternate title outcome and Sumika’s other endings have their own authority.
+- **M2.** adv_cidol-ssmk-3-018_03 L22–105 gives the dorm-room call and Lilja’s encouragement. At L114–173 the mother congratulates Sumika, acknowledges her own opposition and says the father’s support led her to give permission reluctantly. L181 is Sumika’s marked inner recognition of which live her mother means. L190–211 are the mother’s own account of her change and her apology. L214–237 are Sumika’s reply and her choice of idol work. L244–281 separate the mother asking if she may support her daughter from the daughter inviting her to keep watching. L283–296 give the Hokkaido invitation, the prospective visit and the mother’s report about the father. L302–335 recall the earlier chat and Sumika’s forgotten follow-up. The text does not establish that the mother attended in person, knew everything privately disclosed, or made an award a condition of accepting Sumika.
+
+## Individual Gate E at this scope
+
+The text contains nineteen directly attributed mother turns, eighteen in the phone call and one addressed to Lilja in the support. The two scripts have sixty voice commands in total. They assign 47 to Sumika and 13 to Lilja, with none assigned to the mother. Authored phone effects, Sumika’s reactions and the printed dialogue establish a call. None provides a measured or heard maternal vocal delivery. The portrait uses addressee, word choice and the sequence of replies. It makes no claim about maternal timbre, pause length, physical expression, music or singing.
+
+The current [audiovisual priority queue](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md) has no personal P0 or central P1 for either of these two exchanges. The 224-part event/support inventory has no entry for support 3-0093-01. No personal performance is identified in the dated music master or the character AV package. Sumika’s own performances, voice and outstanding requests remain assigned to her. Independent review passed self-containment and source fidelity, and found individual Gate E satisfied for the written family portrait at this boundary. A newly attributed mother performance, a material cue-dependent interpretation, or a specific request for her own performed delivery would require reassessment. The source checks do not establish how an uninspected capture presents the two exchanges.

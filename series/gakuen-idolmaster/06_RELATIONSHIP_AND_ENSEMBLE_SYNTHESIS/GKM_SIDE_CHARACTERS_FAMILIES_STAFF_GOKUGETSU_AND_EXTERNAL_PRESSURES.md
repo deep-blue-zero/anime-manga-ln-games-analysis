@@ -418,6 +418,8 @@ The family function is thus not simply pressure or support. It is **provenance**
 
 **Family strain and authorship conflict (GKM-SAA-022) — 2026-11-15.** The judgment above that the family evidence is "less individually interior" is too strong for the current record. Under SL1.0, ballet began at the parents' instruction (`adv_dear_ssmk_010` L169); Sumika falls silent when asked whether home was cramped (`adv_cidol-ssmk-3-014_02` L141–L154); she describes her gyaru style as rebellion against her mother (`adv_event_020_main-03` L194–L211); she finds it hard to tell her parents that she wants idolhood (`adv_dear_ssmk_032` L414); and her mother warns that Sumika skips practice, which Sumika rebuffs (`adv_csprt-3-0093_01` L164–L169). SL1.1 M-SUMIKA 018_03 (`adv_cidol-ssmk-3-018_03` L62–L335), in the state where Sumika wins, confirms conflict since she quit ballet, the mother's opposition, the father's support as the mother reports it, and a repair. Linking that repair to her Dear 032 confession is a cross-track identification. The family function is therefore provenance together with a conflict over who authors her assigned future.
 
+**Sumika’s mother as an interlocutor (REVISE) — 2026-11-25.** Dear 010 L169 records Sumika saying that 親 told her to start ballet. The line leaves open which parent spoke or whether both did. At the entrance examination the mother addresses Lilja directly with a warning about Sumika (`adv_csprt-3-0093_01` L136–169). In the separate Sumika-winning communication she acknowledges her opposition and later asks Sumika whether she may support her. Her account of the father’s support is reported speech. The [reviewed portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIUN_SUMIKA_MOTHER.md) distinguishes the mother’s decisions, Sumika’s interpretation and the outcomes still open after the call.
+
 ## 2.10 Misuzu's family: relation can be inherited before it is chosen
 
 Misuzu and Temari grew up close enough to resemble sisters partly because their families were already connected. That is a useful reminder that some major peer relationships begin inside adult-created social structure.
@@ -1009,6 +1011,8 @@ Current use:
 > **old unit relations can survive through differentiated professional futures.**
 
 Cross-link (GKM-SAA-074; 2026-11-15): the supporter path is one that Rinami herself considered. Before meeting the Producer she found student-council work for idols enjoyable and fulfilling, and thought that supporting idols might be enough if she never turned professional (M-RINAMI, `adv_cidol-hrnm-3-013_03` L54–L74). In 017_02 her inner speech wonders whether support work suits her better than idolhood, while her body kept training (`adv_cidol-hrnm-3-017_02` L134–L209). Kana's differentiated future is therefore also Rinami's road not taken. The valuation of support stays two-sided: a real vocation and a temptation to self-erasure.
+
+**Kana’s separate choice of work (REVISE) — 2026-11-25.** Kana reports enjoying support for idols and wanting to study stage direction. The evidence for aptitude comes from her account. Her attendance at the festival shows one way to support Rinami now (`adv_dear_hrnm_022` L40–73 and `adv_dear_hrnm_033` L172–218). Rinami’s separate Event 028 report describes similar plans for an unnamed leader; the identification and later professional work are open. The [reviewed portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_FORMER_LOVE_SISTERS_KANA.md) establishes Kana’s own conduct and its written scope.
 
 ## 7.3 `owl`
 
