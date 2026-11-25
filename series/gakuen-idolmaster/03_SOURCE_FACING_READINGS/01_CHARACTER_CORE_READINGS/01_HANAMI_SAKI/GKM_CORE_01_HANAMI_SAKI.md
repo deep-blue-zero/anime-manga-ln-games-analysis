@@ -1135,6 +1135,8 @@ Tsubame’s severity is useful because she does not accept charisma or breadth a
 
 *(2026-11-15, GKM-SAA-039, GKM-SAA-108; STRENGTHEN.)* Tsubame's answer in Dear 030 is affirmative (§3.2.13), and the exchange is reciprocal in the support layer. In support 3-0085 (C4), when Tsubame wants to learn from Saki's equipment-based training, Saki proposes combining the good parts of both programmes (`それぞれのメニューの良いところを取り入れていくのはどうでしょう？`, `adv_csprt-3-0085_03.txt` L52), and Tsubame reports the combined result (L76). Alternative teacher authority is received rather than treated as a threat (§22 target 7, in part).
 
+In the same support scene, Saki says she feels herself growing and Tsubame says Saki encourages her. Saki’s audible laugh before the reminder that they are audition rivals lets her affirm the value of a shared practice and still challenge her senior (part 03 L92–143, SRC-0092, 204.5–306.25 s). [Saki and Tsubame in the training room](../../../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 ---
 
 # 13. Songs and performance as self-disclosure technology

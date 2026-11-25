@@ -296,7 +296,9 @@ Tsubame teaches Saki and Ume seated Zen practice as a means of mental stability 
 
 Part 2 moves to calligraphy. Saki chooses `不撓不屈`, a phrase that aligns cleanly with her established self-concept, and asks for precise technical correction. Ume accidentally writes `七転八倒` when she means `七転八起`; the scene is a bounded comic language error, not evidence for broad intellectual incapacity.
 
-Part 3 reverses the teaching direction. Tsubame evaluates Saki's equipment-heavy, scientific training as rational and says she wants to learn from it because she tends to cling to old methods. Saki refuses the false binary: Zen helped her, so the right solution is to combine useful elements from each system. Their joint session becomes overpacked, but both report real growth and mutual motivational benefit.
+Part 3 reverses the teaching direction. Tsubame evaluates Saki's equipment-heavy, scientific training as rational and says she wants to learn from it because she tends to cling to old methods. Saki says the seated meditation she learned from Tsubame was valuable and proposes combining useful elements from both routines. After the workout Tsubame says they may have packed too much into it. Saki says she feels herself growing when they practise together. Tsubame says Saki gives her encouragement.
+
+In SRC-0092 (204.5–306.25 s), the clock wipe passes over the exercise. Both speakers sound winded afterward. Later Saki gives a short laugh before reminding Tsubame that they are audition rivals. Her proposal to learn together leaves her free to challenge her senior. The competition’s result and any measurable training gain lie outside the window. [Part 03 recording and spoken exchange](../../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 ### Claim transitions
 

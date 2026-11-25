@@ -450,7 +450,7 @@ R2 source note: the high-resolution Dear 021–027 and 028–037 files replace o
 
 All 18 planned targets reference one of 12 retained physical compilations in the [source manifest](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md). The [target map](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/SUPPORTING_DATA/target_map.json) binds unchanged RINHA-AV/RINHA-XW IDs to exact A1 paths and source SHA-256s through the manifest. Caption points confirm scene identity; conservative envelopes are not exact frame cuts or complete word alignments.
 
-Ume11–20 is a new 1080p materialization distinct from historical 720p AV-UME-013; no byte-equivalence or independent-story credit is claimed. EVENT016 is 996×1920 portrait and its embedded chapter labels are shifted; actual main-03 captions govern its locator. Support0097-02 has nine Rinha messages and an independent fan utterance at 174.000s. All media are present; audible performance and continuous movement remain unreviewed.
+Ume11–20 is a new 1080p materialization distinct from historical 720p AV-UME-013; no byte-equivalence or independent-story credit is claimed. EVENT016 is 996×1920 portrait and its embedded chapter labels are shifted; actual main-03 captions govern its locator. Support0097-02 has nine Rinha messages and an independent fan utterance at 174.000s. All listed media were present in the September inventory. Listening and continuous-motion review remained open in that pass. The [later paired Rinha reading](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) records the perceptual scopes and separate whole-container hold.
 
 
 ## Source Lock 1.1 — transcript refresh, 2026-11-12
@@ -459,7 +459,7 @@ The [Carbon register](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKE
 
 ## Source Lock 1.2 — transcript refresh, 2026-11-15
 
-The following Kanae A1 matches have **AV-C** script authority. ADV timeline positions are from commands. Matching them to a recording and measuring its offsets are separate work.
+The following Kanae A1 matches have **AV-C** script authority. ADV timeline positions are from commands. Matching them to a recording and measuring its offsets are separate work. The pending cells preserve the November 15 matching state. For later recorded outcomes and residual questions, see the [current Kanae evidence table](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_EVIDENCE_AND_INSPECTION.md).
 
 | Target | A1 original and physical line | Script identity | Media match |
 | --- | --- | --- | --- |
@@ -474,3 +474,7 @@ Dear 007 L418 names a China H.I.F. monitor asset in a retrospective scene. The o
 ## Recorded Event 016 parts 2 and 5 — 2026-11-25
 
 SRC-0041 binds the registered five-part Event 016 source. A preserves encoded historical picture and audio packets in the attended parent interval 487.5–610.5 s for part 2, and B in 1315.5–1414.5 s for part 5. The same parent serves the already accepted part 3 comparison. Children have separate clocks and payload SHA-256, and no whole-parent listening or full-motion inspection is credited for this follow-up. [Binding and acceptance](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Tsubame support-scene scopes — 2026-11-25
+
+The Japanese support scripts join to four exact recorded editions. Original scope is `SRC-0085` 0.200–105.700 s, `SRC-0087` 190.000–311.500 s, `SRC-0090` 260.000–380.550 s and `SRC-0092` 204.500–306.250 s. Ordered encoded audio and picture packet matches support the attended windows. Exact parent frame checks and approximate heard onsets have different precision. The whole-parent hashes establish identity. [Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)

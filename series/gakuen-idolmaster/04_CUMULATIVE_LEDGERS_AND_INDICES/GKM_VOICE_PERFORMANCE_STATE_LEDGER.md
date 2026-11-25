@@ -439,3 +439,14 @@ In exact `SRC-0093` Sena’s date reveal is bright, set up by a spoken passage w
 ## Recorded Event 016 parts 2 and 5 — 2026-11-25
 
 Kotone addresses Saki more quietly after music recedes, and moves from bare name to Saki-chan before asking about loneliness. Saki's subsequent refusal to show weakness to Ume is firmer. In the other window, Saki's reverberant reflection precedes the drier exchange with Ume. Both sisters' deliberately assertive delivery and Saki's soft closing encouragement have scene-bounded support. No inferred reciprocal jealousy follows from the delivery. [Intervals and identities](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Tsubame’s support-scene shifts — 2026-11-25
+
+| Exact witness | Bounded performed change |
+| --- | --- |
+| `SRC-0085`, support 2-0056 part 01 | Strong running corrections sharpen into urgent intervention. Tsubame calls for rest, checks responsiveness and offers water. Hiro’s later fragmented speech asks for greater severity. The physical outcome remains open. |
+| `SRC-0087`, support 3-0070 part 03 | Tsubame downplays her appearance and later becomes rapid and breathy while identifying the collectible before resuming a formal instruction. Tsubame’s private reason for being there remains open. |
+| `SRC-0090`, support 3-0062 part 03 | Stammered interruption contrasts with academic direction. Rinami’s closing assessment is performed inner speech. China’s description of the support speaks for her own experience. |
+| `SRC-0092`, support 3-0085 part 03 | Post-wipe exertion gives way to shared encouragement and a renewed audition challenge. The shift concerns these interlocutors in this support episode. |
+
+[Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)

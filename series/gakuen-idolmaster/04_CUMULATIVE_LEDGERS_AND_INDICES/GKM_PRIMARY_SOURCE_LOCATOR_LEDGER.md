@@ -1475,3 +1475,14 @@ Physical A1 line numbers are for the Source Lock snapshot named in the scope col
 ## Recorded Event 016 parts 2 and 5 — 2026-11-25
 
 SAKI-L072 now has a recorded part 2 scope. A1 `adv_event_016_main-02.txt` L439–576 joins SRC-0041 parent 526.7–609.6 s for Saki's initial shift and stated refusal to disclose vulnerability to Ume. Part 5 L362–557 joins 1315.5–1414.5 s, with private reverberant lead-in, separate peer outings and assertive exchanges. The score and listener times use the historical media clock. [Accepted comparison](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Tsubame support scenes — locked text and recorded locations
+
+| Locator | Exact script and lines | Original recording scope |
+| --- | --- | --- |
+| `LOC-AV-TSB-HIRO-0056-01` | `Resource/adv_csprt-2-0056_01.txt` L13–206, rest/water L91–140 and Hiro’s request L149–196 | `SRC-0085` 0.200–105.700 s. |
+| `LOC-AV-TSB-KOT-0070-03` | `Resource/adv_csprt-3-0070_03.txt` L9–193, with the two gift title spellings scoped to the selected source | `SRC-0087` 190.000–311.500 s. Historical printed title at 287.550 s differs from pinned L165. |
+| `LOC-AV-TSB-CHINA-0062-03` | `Resource/adv_csprt-3-0062_03.txt` L12–161, with Sena’s report and Rinami’s thought separately attributed | `SRC-0090` 260.000–380.550 s. Picture change at 351.416667 s is separate from heard timing. |
+| `LOC-AV-TSB-SAKI-0085-03` | `Resource/adv_csprt-3-0085_03.txt` L8–143, joint method decision L28–56 and later rivalry L122–143 | `SRC-0092` 204.500–306.250 s. The clock wipe skips the workout. |
+
+[Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)

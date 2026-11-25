@@ -764,7 +764,7 @@ Textual Phase-5 progression is not blocked by these targets.
 5. `S3-0065-03` — Temari reverse jealousy / Misuzu cooking recognition / Kotone brokerage.
 6. `S3-0066-03` — Sena's technically marginal but emotionally compelling Hiro evaluation.
 7. `S3-0067-01` — Hiro/Misuzu closeness + Temari jealousy/delegated trust.
-8. `S3-0070-03` — Tsubame waits for Kotone, academic concern, `シルヴェスタ` gift reveal.
+8. `S3-0070-03` — Tsubame waits for Kotone, academic concern, `シルヴェスタ` gift reveal. [Current finding](#tsubame-support-scene-playback--2026-11-25).
 9. `S3-0071-03` — Tsubame No.2 visibility anxiety + student recognition.
 10. `S3-0074-03` — Lilja homesickness + Rinami sister-coded response.
 
@@ -774,7 +774,7 @@ Textual Phase-5 progression is not blocked by these targets.
 13. `S3-0054-03` — Lilja elite fighting-game rank reveal.
 14. `S3-0056-01` — Sena explicit childhood-friend / council-support gratitude to Tsubame.
 15. `S3-0057-02` — trio disagreement over reciprocal utility as friendship.
-16. `S3-0062-03` — Tsubame custom China worksheets + embarrassment.
+16. `S3-0062-03` — Tsubame custom China worksheets + embarrassment. [Current finding](#tsubame-support-scene-playback--2026-11-25).
 17. `S3-0063-03` — China cosplay identification / Lilja panic.
 18. `S3-0075-02` — China childhood social restriction under wealth + present belonging.
 
@@ -1014,3 +1014,16 @@ Historical questions above retain their commissioning statuses. These are the la
 | --- | --- |
 | `adv_event_016_main-02` P1 | **RESOLVED within the recorded question. STRENGTHEN.** SRC-0041 487.5–610.5 s. Saki's evasion, Kotone's quieter appeal to friendship and the explicit refusal to show Ume a weak older sister have separate cues. Broader motive remains OPEN. [Receipt](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md) |
 | `adv_event_016_main-05` P1 | **RESOLVED WITH QUALIFICATION. REVISE.** SRC-0041 1315.5–1414.5 s. The paired returns support reciprocal competitive delivery and Saki encouraging an independent friendship outing. Mutual jealousy and any required causal change into play remain OPEN. [Receipt](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md) |
+
+## Tsubame support-scene playback — 2026-11-25
+
+The historical entries preserve their commissioning questions. These four later paired dispositions apply only to the recorded scenes.
+
+| Target | Current disposition |
+| --- | --- |
+| `adv_csprt-2-0056_01` P0 | **RESOLVED within the recorded question. STRENGTHEN.** `SRC-0085` 0.200–105.700 s. Tsubame’s severe commands turn to an urgent rest instruction and an offer of water. Hiro later asks to be pushed harder. Actual recovery remains open. |
+| `adv_csprt-3-0070_03` P0 | **RESOLVED WITH QUALIFICATION. STRENGTHEN** Tsubame’s guarded answer, consultation offer and shift at the gift in `SRC-0087` 190.000–311.500 s. **REVISE** the earlier claim of waiting. Her intent and the gift’s effect on the later appointment remain open. |
+| `adv_csprt-3-0062_03` P1 | **RESOLVED WITH QUALIFICATION. STRENGTHEN** the shift when Tsubame hears the other officers in `SRC-0090` 260.000–380.550 s. **REVISE** earlier attribution. Sena’s prior worksheet account, China’s stated experience and Rinami’s embarrassment reading retain their speakers. |
+| `adv_csprt-3-0085_03` P1 | **RESOLVED within the recorded question. STRENGTHEN.** `SRC-0092` 204.500–306.250 s. The two respect each other’s method and reassert audition rivalry. The workout itself is skipped. |
+
+[Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)

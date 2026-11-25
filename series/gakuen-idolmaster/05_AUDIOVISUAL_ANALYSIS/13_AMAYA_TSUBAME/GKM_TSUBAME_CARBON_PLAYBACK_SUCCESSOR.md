@@ -59,3 +59,7 @@ Relevant Carbon propositions are `PROP-0246`.
 ## Completion boundary
 
 Individual Gate E remains open. The recorded date experiment resolves the 3-0086-03 performance question. Tsubame’s 3-0071-03 arcade recognition and other applicable requests require their own named evidence. The Phase 3 report records the earlier delivery. The present successor changes the claims in the sections above and supplies no additional viewing or listening credit. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
+
+## Later support scenes
+
+The later review records Tsubame urging Hiro to rest, her encounter with Kotone at the end of a shift, China’s own description of individualized instruction and the reciprocal training contrast with Saki. Each finding is limited to its registered support window. The playback leaves deliberate waiting, independently demonstrated improvement and unspoken motives separately open. [Four support-scene adjudications](GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)

@@ -15,7 +15,7 @@ last_updated: "2026-11-25"
 
 # Amaya Tsubame — audiovisual analysis
 
-Current claim wording and item-level completion are recorded in the [Carbon playback successor](GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md). The baseline and Phase 3 completion report retain their original inspection boundary.
+Current claim wording and item-level completion are recorded in the [Carbon playback successor](GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md). The baseline and Phase 3 completion report retain their original inspection boundary. The later review records Tsubame urging Hiro to rest, her encounter with Kotone at the end of a shift, China’s own description of individualized instruction and the reciprocal training contrast with Saki. Each finding is limited to its registered support window. [Four support-scene adjudications](GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 

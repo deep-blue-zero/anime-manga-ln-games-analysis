@@ -31,7 +31,7 @@ Dialogue delivery, voice/register, scene acting and relation-specific performanc
 | Hanami Ume | [Specialist](10_HANAMI_UME/GKM_UME_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](10_HANAMI_UME/README.md) |
 | Hataya Misuzu | [Specialist](11_HATAYA_MISUZU/GKM_MISUZU_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](11_HATAYA_MISUZU/README.md) |
 | Juo Sena | [Specialist](12_JUO_SENA/GKM_SENA_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](12_JUO_SENA/README.md) |
-| Amaya Tsubame | [Specialist](13_AMAYA_TSUBAME/GKM_TSUBAME_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](13_AMAYA_TSUBAME/README.md) |
+| Amaya Tsubame | [Specialist](13_AMAYA_TSUBAME/GKM_TSUBAME_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) · [Four support-scene adjudications](13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md) | [README](13_AMAYA_TSUBAME/README.md) |
 | Hiwatari Kanae (supplementary) | [Current reading](14_HIWATARI_KANAE/GKM_KANAE_INTEGRATED_AUDIOVISUAL_READING.md#who-gets-to-hear-her-choose) | [README](14_HIWATARI_KANAE/README.md) |
 
 [All AV files](GKM_AUDIOVISUAL_FILE_INDEX.md) · [AV home](README.md) · [Project state](../CURRENT_STATE_AND_CORPUS_MAP.md). The fourteen numbered rows contain thirteen original Phase 3 packages plus the later Kanae addition. The character READMEs give the current evidence and named corrections. The [September Hiro/Misuzu import](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) preserves its documentary methods, and the [November Carbon reconciliation](GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) records what was actually heard or seen later.

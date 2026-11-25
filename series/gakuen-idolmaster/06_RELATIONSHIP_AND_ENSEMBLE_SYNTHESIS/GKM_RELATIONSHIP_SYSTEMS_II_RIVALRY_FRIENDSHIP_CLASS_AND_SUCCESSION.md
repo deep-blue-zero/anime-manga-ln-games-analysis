@@ -673,7 +673,7 @@ This is important: Sena/Tsubame are not a complete governing dyad.
 
 Support evidence significantly revises any "always push harder" model.
 
-With Hiro, Tsubame begins severe running supervision, observes actual physical danger, and immediately shifts to rest, hydration, and safety. With Kotone, she checks sleep/health and ends training early based on observed fatigue even when Kotone says she is fine.
+During Hiro’s run, Tsubame first encourages persistence. After noticing a change in Hiro’s color, she calls for rest, checks whether Hiro can hear and offers water. Hiro later asks for greater severity and maintains that she can continue. Changed evidence redirects Tsubame’s actions while Hiro still wants more. In a separate rehearsal Tsubame asks Kotone about her sleep and health, then ends the lesson on her own assessment while Kotone says she is energetic.
 
 Her care can be directive and unwelcome while still being recipient-sensitive.
 
@@ -889,19 +889,19 @@ Later monographs should preserve distinct senior grammars rather than collapsing
 - Mao tends to protect through practical service, dorm monitoring, craft, and role-sensitive encouragement.
 - Sena tends to create developmental environments, opportunities, and rival structures, with a recurring risk of deciding before consent catches up.
 
-The same junior can respond differently to each style.
+The same junior can respond differently to each style. After a shift Kotone requests tutoring and offers a gift she has saved for Tsubame. In a separate support episode China calls Tsubame’s worksheet-based teaching kind even as Tsubame invokes council standards. Each junior gives her own account of the help. [Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 ## 7.4 Good seniority includes being teachable
 
 The strongest senior/junior scenes are reciprocal.
 
-Tsubame studies Ume's movement because Ume exceeds her in one physical domain. Sena lets Ume teach her an ordinary summer ritual. Mao and Sumika can solve outreach problems by provoking authentic rather than formally correct behavior. Senior status survives because the senior can learn without experiencing learning as status collapse.
+Tsubame studies Ume's movement because Ume exceeds her in one physical domain. In support 3-0085 part 03 Tsubame asks to learn Saki’s machine-based training method. Saki proposes combining their approaches. Tsubame later wonders if they packed in too much. Saki values their work together and still reminds Tsubame that they will be rivals in auditions. Sena lets Ume teach her an ordinary summer ritual. Mao and Sumika can solve outreach problems by provoking authentic rather than formally correct behavior. Senior status survives because the senior can learn without experiencing learning as status collapse.
 
 **Tsubame as the senior who loses and blesses (2026-11-15; GKM-SAA-097).** In other idols' Dear tracks Tsubame is repeatedly the senior obstacle at the Selection who loses and then publicly acknowledges the winner. In `D-SUMIKA` she concedes to Sumika and acknowledges Lilja and REVERSI (`adv_dear_ssmk_032.txt` L113–L177); in `D-SAKI` she tells Saki that she has found a weapon of her own (`adv_dear_hski_032.txt` L31–L68); in `D-RINAMI` she says she has watched Rinami's effort since their first year (`adv_dear_hrnm_032.txt` L20–L55); in SL1.1 `D-KOTONE` she tells Kotone to be proud that she beat her (`adv_dear_fktn_032.txt` L22–L84). In `D-SUMIKA` the reflex 'この私が、星南以外に負けるだと！？' (L31) persists late in the year, so the individuation of `D-TSUBAME` is route-specific. In `D-MAO` Tsubame is relieved when Mao enters 100 Pro (`adv_dear_amao_022.txt` L203–L226). This answers the Tsubame core's falsifier about blocking juniors from surpassing her; the core owns that claim.
 
 ## 7.5 Stopping can be legitimate care
 
-Tsubame stopping Hiro or Kotone is important because Gakumas often celebrates determination.
+Tsubame calling for a rest during Hiro’s run and ending Kotone’s separate rehearsal early are important because Gakumas often celebrates determination.
 
 The corpus nevertheless repeatedly distinguishes admirable effort from preventable collapse.
 
@@ -1727,7 +1727,7 @@ Current evidence strongly supports school ecology but cannot safely project ever
 | their competence asymmetry is reciprocal rather than hierarchical | SYNTHESIZED / PROMOTE | very high | core readings + support teaching reversals |
 | internalized friend-models influence action in absence | DIRECT | very high | support `story_0088` |
 | Sena/Tsubame combine fandom, rivalry, childhood intimacy, governance, and future commitment | SYNTHESIZED / PROMOTE | very high | both core readings + E005/E013/E021 + supports |
-| Tsubame's strictness is condition-sensitive rather than always escalation | DIRECT + SYNTHESIZED | very high | support Hiro/Kotone stopping scenes |
+| Tsubame's strictness is condition-sensitive rather than always escalation | DIRECT + SYNTHESIZED | very high | support `2-0056_01` rest instruction and `2-0079_02` ended rehearsal |
 | class networks are developmental-production infrastructure | SYNTHESIZED / STRENGTHEN | high | Phase 2 institution + E001/E014 + joint lessons |
 | seniority assigns responsibility more reliably than truth | SYNTHESIZED / PROMOTE | high | reciprocal senior/junior teaching across support pass |
 | successful succession transfers function rather than identity | SYNTHESIZED / PROMOTE | very high | E024-E026 + support council/dorm/song evidence |
