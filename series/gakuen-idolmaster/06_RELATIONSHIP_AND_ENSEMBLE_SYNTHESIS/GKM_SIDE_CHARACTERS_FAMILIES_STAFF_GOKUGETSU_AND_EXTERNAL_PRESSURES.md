@@ -548,7 +548,7 @@ The dance trainer treats bodies as evidence. She is unusually concerned with:
 - movement fundamentals;
 - and whether effort remains productive.
 
-Her severity is real. Late support material adds an important correction: she notices that students experience her as harsh and asks whether she has gone too far. The other trainers distinguish demanding standards from arbitrary punishment, and students themselves request another repetition.
+She asks her colleagues if she is too strict after hearing students talk about her. The visual trainer connects her demands to a purpose, and the vocal trainer offers reassurance and later voices doubt. In the ensuing lesson the students ask to try again. The visual trainer calls that possible evidence of enthusiasm. Across Kotone’s two lessons, she values the instructor's care and privately resents an instruction she cannot readily carry out. Ume takes a comparison meant to anger her as encouragement. A student's response gives a teacher evidence about the intervention, and that response can differ sharply from the one she hoped to elicit. [Dance trainer portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_DANCE_TRAINER.md) · [Source and scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_DANCE_TRAINER_SOURCE_AND_SCOPE.md)
 
 The result is not 'harsh teacher secretly nice.' It is more useful:
 
