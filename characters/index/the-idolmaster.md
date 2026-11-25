@@ -229,6 +229,28 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
   - [`hisakawa-nagi-mobile-game-monograph` — Hisakawa Nagi mobile-game character monograph](../../series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_HISAKAWA_NAGI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
   - [`hisakawa-nagi-mobile-game-monograph-audit` — Hisakawa Nagi mobile-game monograph audit](../../series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_HISAKAWA_NAGI_MONOGRAPH_AUDIT.md)
 
+<a id="hiwatari-kanae"></a>
+
+### Hiwatari Kanae
+
+- Entity ID: `the-idolmaster:hiwatari-kanae`
+- Entity aliases:
+  - 氷渡香名江 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Gakuen Idolmaster mobile-game V2 character monograph
+
+- Analysis subject ID: `the-idolmaster:hiwatari-kanae@mobile-game`
+- Series: `gakuen-idolmaster`
+- Continuity: `gakuen-idolmaster-mobile-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `hiwatari-kanae-v2-monograph`: GAME OTHER: Japanese Dear 000–010, the admitted Produce Series 001 variants and endings, the first solo song communication, and contemporary support stories at Source Lock 1.2 revision 88, with China-track scenes kept to their own source states. Scene-specific audiovisual observations (SRC-0023, SRC-0059, SRC-0125, SRC-0131) are bounded; no stable vocal profile, later story state or fixed calendar placement after Dear 010 is asserted.; continuity `gakuen-idolmaster-mobile-game`
+- Reviewed current evidence:
+  - [`gkm-v2-monograph-hiwatari-kanae` — Hiwatari Kanae V2 character monograph](../../series/gakuen-idolmaster/07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HIWATARI_KANAE.md)
+
 <a id="hojo-karen"></a>
 
 ### Hojo Karen
@@ -295,6 +317,50 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
   - `jougasaki-rika-reviewed-corpus`: GAME OTHER: Dedicated active-provisional monograph integrating the admitted Mobage and Starlight Stage character corpus while excluding adaptation continuities.; continuity `the-idolmaster-cinderella-girls-mobile-games`
 - Reviewed current evidence:
   - [`cinderella-girls-jougasaki-rika-character-monograph` — CINDERELLA GIRLS JOUGASAKI RIKA CHARACTER MONOGRAPH](../../series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_JOUGASAKI_RIKA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+<a id="juo-kunio"></a>
+
+### Juo Kunio
+
+- Entity ID: `the-idolmaster:juo-kunio`
+- Entity aliases:
+  - 十王邦夫 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Gakuen Idolmaster mobile-game V2 character monograph
+
+- Analysis subject ID: `the-idolmaster:juo-kunio@mobile-game`
+- Series: `gakuen-idolmaster`
+- Continuity: `gakuen-idolmaster-mobile-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `juo-kunio-v2-monograph`: GAME OTHER: The admitted tutorial, selected Dear routes, song communications, support and event stories, Produce branches and Unit Story at Source Lock 1.2 revision 88, each outcome kept in its own story, plus the separately evidenced school-song lyric credit. Prior biography, private life and his own recorded delivery or singing are outside the evidence.; continuity `gakuen-idolmaster-mobile-game`
+- Reviewed current evidence:
+  - [`gkm-v2-monograph-juo-kunio` — Juo Kunio V2 supplementary character monograph](../../series/gakuen-idolmaster/07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_JUO_KUNIO.md)
+
+<a id="juo-ryuusei"></a>
+
+### Juo Ryuusei
+
+- Entity ID: `the-idolmaster:juo-ryuusei`
+- Entity aliases:
+  - 十王龍正 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Gakuen Idolmaster mobile-game V2 character monograph
+
+- Analysis subject ID: `the-idolmaster:juo-ryuusei@mobile-game`
+- Series: `gakuen-idolmaster`
+- Continuity: `gakuen-idolmaster-mobile-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `juo-ryuusei-v2-monograph`: GAME OTHER: Named Dear and communication tracks (including Mao Dear 021, Sena communications 3-002 and 3-017, Rinami Dear 037 and Sena Dear 034), Event 028, and the separately scoped SRC-0026 remembered-voice observation at Source Lock 1.2 revision 88. His role in devising N.I.A. is graded as highly plausible, not established; no solo singing or continuous-motion evidence is asserted.; continuity `gakuen-idolmaster-mobile-game`
+- Reviewed current evidence:
+  - [`gkm-v2-monograph-juo-ryuusei` — Juo Ryuusei V2 supplementary character monograph](../../series/gakuen-idolmaster/07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_JUO_RYUUSEI.md)
 
 <a id="juo-sena"></a>
 
@@ -377,12 +443,14 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Series: `gakuen-idolmaster`
 - Continuity: `gakuen-idolmaster-mobile-game`
 - Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `phase-6-dossier-sl12`: GAME OTHER: Spoiler-complete distributed portrait across Temari, Misuzu, Saki, Ume and other host continuities within historical Source Lock 1.0 readings and admitted Source Locks 1.1 and 1.2 through Japanese ADV revision 88, with claim-scoped local audiovisual evidence. Host continuities stay separate; no merged route chronology, objective sister-history causation or settled next-career purpose is asserted.; continuity `gakuen-idolmaster-mobile-game`
   - `reviewed-targeted-scenes`: GAME OTHER: Bounded interpretation of RINHA-AV-20260911 targets P0-001 through P0-011 and P1-001 through P1-007: selected Temari, Misuzu, Saki and Ume Dear scenes, Support 0097 parts 01-03, and EVENT_016 main-03 under Source Lock 1.0. Textual action and attributed interiority support behavior, psychology and recipient-specific relationships, with limited sampled-still support. Modular Dear/support contexts and childhood recollections remain separate; no single merged chronology, exhaustive appearance coverage, heard delivery or continuous-motion coverage is asserted.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
+  - [`phase-6-character-dossier` — Kaya Rinha Phase 6 distributed-character dossier](../../series/gakuen-idolmaster/06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) — **active provisional authority**
   - [`targeted-scene-baseline` — Kaya Rinha targeted scene baseline: textual and sampled-still character analysis](../../series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md)
 
 <a id="kobayakawa-sae"></a>
@@ -429,6 +497,28 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
   - `kuramoto-china-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-06-kuramoto-china` — GKM CORE 06 KURAMOTO CHINA](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/06_KURAMOTO_CHINA/GKM_CORE_06_KURAMOTO_CHINA.md)
+
+<a id="neo-asari"></a>
+
+### Neo Asari
+
+- Entity ID: `the-idolmaster:neo-asari`
+- Entity aliases:
+  - 根緒亜紗里 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Gakuen Idolmaster mobile-game V2 character monograph
+
+- Analysis subject ID: `the-idolmaster:neo-asari@mobile-game`
+- Series: `gakuen-idolmaster`
+- Continuity: `gakuen-idolmaster-mobile-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `neo-asari-v2-monograph`: GAME OTHER: Text-grounded teacher portrait over direct school and support scenes, named Dear appearances (including Mao Dear 024 and Kanae's school episode) and the separately bounded Event 029 and seasonal scenes at Source Lock 1.2 revision 88. Four recorded-performance P1 questions and sung or whole-show observations remain open; dated dream scenes do not establish biography.; continuity `gakuen-idolmaster-mobile-game`
+- Reviewed current evidence:
+  - [`gkm-v2-monograph-neo-asari` — Neo Asari V2 character monograph](../../series/gakuen-idolmaster/07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_NEO_ASARI.md)
 
 <a id="ninomiya-asuka"></a>
 
