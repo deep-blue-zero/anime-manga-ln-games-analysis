@@ -120,15 +120,22 @@ macrp_run:
 **Uncited-source search:** the source drawn independently of baseline citations, who searched it, and its scope.
 
 ```yaml
+# Topology Section 5 profile fields, plus the pass's independent-context check.
 execution_profile:
   product_surface: null
   tool_runtime_location: null
   observation_date: null
-  independent_contexts: "VERIFIED | UNVERIFIED | UNAVAILABLE"
-  inspection_lanes: []
-  continuous_av_inspection: "VERIFIED | UNVERIFIED | UNAVAILABLE"
+  capability_scope: null
+  source_transport: null
+  filesystem_read: "VERIFIED | UNVERIFIED | UNAVAILABLE"
+  filesystem_write: "VERIFIED | UNVERIFIED | UNAVAILABLE"
+  image_inspection: "VERIFIED | UNVERIFIED | UNAVAILABLE"
   audio_content_inspection: "VERIFIED | UNVERIFIED | UNAVAILABLE"
+  continuous_av_inspection: "VERIFIED | UNVERIFIED | UNAVAILABLE"
+  git_write: "NOT_ASSIGNED | VERIFIED | UNVERIFIED | UNAVAILABLE"
   inspection_method: null
+  inspection_lanes: []
+  independent_contexts: "VERIFIED | UNVERIFIED | UNAVAILABLE"
 ```
 
 ## 5. Configuration, roster and workstream ownership
@@ -199,7 +206,7 @@ Link to the project ledger rows, targeted records or unit records that hold obse
 
 **Strategy:** the battery per subject (Protocol Section 10.2), the control arms, any stratified sample for a large cast, and each omission with its reason.
 
-**Probe set:** designer <role>; sealed digest <SHA-256> recorded at <commit> before revision; full set committed at <commit> after the revised artifacts were frozen; digest check <passed | failed>.
+**Probe set:** designer <role>; custodian <who holds the sealed set>; sealed digest <SHA-256> recorded at <commit> before revision; full set committed at <commit> after the revised artifacts were frozen; digest check <passed | failed>; probe exposure <SEALED_FROM_REVISERS | REVISERS_EXPOSED, with reason>.
 
 | Probe ID | Test (A-G) | Subject and state | Varied variable or conditions | Untargeted? | Outcome exposure | Latent knowledge | Probe exposure | Condition (baseline / revised / control / monograph-only) | Respondent | Judge | Result | Calibration | Limitations |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
