@@ -2,13 +2,13 @@
 title: "Gakuen Idolmaster V2 - Audiovisual Verification Queue"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.8"
+version: "2.9"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit AV routing (Carbon handoff version 3); RINHA-AV-20260911 state unchanged"
-revised: "2026-11-15"
-revision_note: "v2.8 routing addition (source-to-analysis audit 2026-11-15; every routed question enters as OPEN, no claim changed, no closed queue reopened): cross-references the 36 audit candidates of Carbon supplement GKM-AV-CARBON-20261115-SAA, narrows the E001 main-02 request to delivery, timing and Temari's reaction (GKM-SAA-272) and records already-queued audit items"
-status: "active; Rinha source/text, selected-mix and sampled-still pass delivered; listening, motion and dossier gate open"
+last_updated: "2026-11-25 — paired playback routed into event and support requests; Phase 6 perceptual completion recorded"
+revised: "2026-11-25"
+revision_note: "v2.9 adds bounded paired dispositions for nine numbered-event or support requests and preserves the residual portions of two more. The dated Phase 6 note records Rinha closure at Source Lock 1.2 with narrower claims still held."
+status: "active; Phase 6 complete at Source Lock 1.2; Phase 7 dialogue and performance requests individually adjudicated"
 ---
 
 # AUDIOVISUAL VERIFICATION QUEUE
@@ -967,3 +967,25 @@ The 2026-11-15 source-to-analysis audit (findings `GKM-SAA-nnn`, change-plan Bat
 | AV-HKNE-R88-05 (GKM-SAA-265) | Also identify the backgrounds of `adv_pstep_001_cmmn_before-rest-01-hkne` and `adv_pstep_001_cmmn_after-odekake-01-d-02`. | AV-C asset identity; deferred with the parent row |
 
 Listening and continuous-motion inspection for this routing both total zero seconds.
+
+## Paired playback dispositions for event and support requests — 2026-11-25
+
+The prior entries preserve the requests as they were made. This dated record adds current evidence dispositions without replacing their original text or changing priority. The 219-key Phase 4/5 census includes 224 distinct script parts. Six P0 and three P1 requests have paired answers for the stated questions. Two additional requests have partial evidence and retain open portions. A no-match result in the sealed inventory identifies a retrieval task. It does not establish that a recording is unavailable elsewhere.
+
+| Request | Source and recording clock, seconds | Decision and observation scope |
+| --- | --- | --- |
+| P0 `adv_event_001_main-02`, `AV-CARBON-E001-001` | `SRC-0039` 443.8–451.1, paired full-file returns `LP-RPL-0322` and `LP-RPL-0388` | **RESOLVED, STRENGTHEN.** Sumika voices the raised mock-Lilja line. The score recedes and Temari arrests before the 16-dash display. Sixteen is the checked on-screen count. The pair supports a staged ventriloquism joke without establishing Temari's private thought or technically silent audio. |
+| P1 `adv_event_001_main-05` | Same `SRC-0039` returns, 1147–1185 for apology and nickname proposal, later exchange beyond 1185 | **REVISE; PARTIAL.** An interrupted, quiet apology leads to a more solemn nickname proposal. The specific delivery of the ensuing `りーぴゃん` remains **OPEN**. |
+| P0 `adv_event_016_main-03` | `SRC-0041` 614.5–675.8 and 676.1–714.8, `LP-RPL-0331` and `LP-RPL-0397`; native interval pair `M2-RPL-043/044` | **RESOLVED, STRENGTHEN.** Temari's present batting instruction is distinguishable from Rinha's remembered voice and the bat strike. There is no rendered Rinha in that recalled window. Source establishes the transmission of practical coaching, with the memories' motives outside its scope. |
+| P1 `adv_event_021_main-01` | Exact historical 720p `SRC-0407` 97–104, 133–158 and 190–205, `LP-RPL-0182` and `LP-RPL-0290` | **RESOLVED, STRENGTHEN.** Rinami's concern about rest becomes a smiling but firm prohibition. The narrower Carbon proposition ending at 162 seconds does not reach the prohibition. The full original observations do. |
+| P1 `adv_event_021_main-02` | Same `SRC-0407` pair, 430–434 and 474–501 | **RESOLVED, STRENGTHEN.** Tsubame's childhood teasing is turned back on her, with an audible change from assertive to stammering. The current café exchange and childhood recollection retain their separate positions. |
+| P0 `adv_event_021_main-03` | Same `SRC-0407` pair, 765–776 | **RESOLVED, STRENGTHEN.** Tsubame says that knowing Sena's work and shortcomings informs her esteem for Sena as an idol. Attribute this judgment to Tsubame. |
+| P0 `adv_event_021_main-04` | Same `SRC-0407` pair, 893–1010, 1012–1020 and 1063–1070 | **RESOLVED, REVISE.** After the second-place result, Tsubame refuses consolation, says Sena had become complete at that H.I.F. and sobs away from Mao. Her evaluation is indexed to that result. |
+| P0 `adv_event_021_main-05` | Same `SRC-0407` pair, 1261–1265 and 1285–1299 | **RESOLVED, REVISE.** Tsubame renews her challenge. Sena's wings comparison is enacted as an audible inner thought. These words are not spoken to Tsubame. |
+| P1 `adv_csprt-3-0079_02` | Exact historical `SRC-0408` 129–198 and 201–208, `LP-RPL-0183` and `LP-RPL-0291` | **RESOLVED, STRENGTHEN.** The coaching dispute distinguishes fundamental preparation from pace and dynamism. Misuzu leaves before giving an opinion when asked. |
+| P0 `adv_csprt-3-0082_01/02/03` | Original `SRC-0088` 27–100, 101–221 and 281–322.711, `OBS-CL-A2-002` and `RPL-CL-C2-002` | **REVISE; PARTIAL.** The hobby-shop discovery and both characters' fluster are heard, with the later cinema interruption confirmed. The detailed café recommendations and every specific post-interruption vocal change do not have cue-level pairing and stay **OPEN**. Part 1 does not include Mao or Rinami. |
+| P0 `adv_csprt-3-0097_01/02` | Original `SRC-0083` 0–97.3 and 97.3–195.8, `OBS-CL-A1-006` and `RPL-CL-C1-006` | **RESOLVED, STRENGTHEN.** Rinha's private reflection, public greeting, reassurance, reunion and planning are distinguished. The farewell concert is planned within this scope. |
+
+The E021 answers also have a separately tracked same-upload compact of `SRC-0057` with retained historical audio and clocks, `LP-RPL-0343` and `LP-RPL-0409`. The rendition gives a second route for checking the scenes. Its timings cannot be used to certify unrelated edits or ports. The admitted evidence does not imply further audio measurements or scene coverage.
+
+Phase 6 completed at Source Lock 1.2. The earlier Rinha target execution note above applies to its dated acquisition snapshot. The separate C073 whole-container claim still requires its own evidence. An answered event or support request clears only that request's verified scope. The [character qualification and readiness record](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_CHARACTER_QUALIFICATION_AND_READINESS.md) controls individual monograph decisions. [Reconciliation and edition rules](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) · [Rinha perceptual completion and scope](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md).
