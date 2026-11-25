@@ -354,6 +354,8 @@ Rinami's family is analytically unusual because it offers a plausible alternativ
 
 Rinami reports that her father hoped she would take over work at the family brewery. In the separate Event 028 family scene he asks whether she has considered her choice and tells her she can return home if things become difficult. He later asks the Producer whether becoming a top idol will make Rinami happy. The [reviewed individual portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HIMESAKI_FATHER.md) distinguishes these scenes, Rinami’s report of his change of mind and Shiori’s account of his everyday fandom.
 
+Rinami’s mother first tries to put off giving her difficult news before a performance. When Rinami presses, her mother tells her what the doctor said and that she is at the hospital with Rinami’s father. At a later family call, she says she does not know much about idols and tells Rinami she is rooting for her. The [portrait of Rinami’s mother](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HIMESAKI_MOTHER.md) follows how she makes these decisions and distinguishes her words from what Shiori and Rinami remember.
+
 This matters because Rinami's route cannot define agency as escape from a bad home.
 
 > **Choice is strongest when the alternative was livable.**
