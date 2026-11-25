@@ -327,6 +327,8 @@ Shion is not Lilja's only external interpreter. Hanami Saki supplies a generous 
 
 Unlike Shion, Saki and Mao affirm persistence as a capacity, while Saki still corrects its method. This qualifies the Producer's near-monopoly on interpreting Lilja (§12.1 note). Counterevidence: in Lilja's own late speech the Producer remains the decisive validator (`adv_dear_kllj_037` L185–L198), and Saki's Event 012 correction is harsh in delivery; the counter-pole is generous in motive, not soft in method. Event home: Events 006–012 reading §8.4 and §10.15; the side-character synthesis receives the matching update separately.
 
+The festival ball-toss game adds a test outside these Dear and training scenes. Lilja tells Kotone she is happy Saki keeps teaching her despite repeated failures. She voices frustration after Saki declares the first-round win, asks to try again and persists when Kotone suggests stopping. Saki explicitly changes from teacher to opponent. Lilja’s excited declaration that she won and willingness to face Saki again support an immediate desire to compete. This episode leaves open how Lilja feels about other training situations. [Festival game](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-coach-becomes-an-opponent)
+
 ---
 
 # 8. `魔性`, `葛城結界`, and the coauthorship of “natural” charisma

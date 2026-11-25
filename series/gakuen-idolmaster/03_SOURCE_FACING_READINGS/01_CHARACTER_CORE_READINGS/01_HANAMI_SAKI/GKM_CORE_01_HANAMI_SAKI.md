@@ -939,6 +939,8 @@ For Saki, care that removes competition can feel less loving than care that make
 *(2026-11-15, GKM-SAA-104, GKM-SAA-105; STRENGTHEN; numbered events, C1 within each event.)* The numbered events show competitive care as peer pedagogy:
 
 - **Event 004.** After crushing Lilja at festival games, Saki is rebuked by Kotone (`初心者に全力で勝って、嬉しいってワケぇ？`, `adv_event_004_main-02.txt` L379). She does not stop competing; she starts teaching (`全部教えてあげる！ついてきなさい！`, `adv_event_004_main-03.txt` L327), and Lilja experiences the persistence as care (`でも花海さん……。できるまで教えてくれて……。`, `adv_event_004_main-04.txt` L107).
+
+At the ball-toss stall in part 04, Saki checks whether Lilja needs rest or water and gives her practical instructions. After Lilja asks to continue despite Kotone’s suggestion to stop, Saki declares the lesson over and competes at full effort. Lilja declares she won this round. Saki asks for another and Lilja accepts in polite Japanese. The declared result belongs to ball toss, after the earlier shooting game. [Festival game](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-coach-becomes-an-opponent)
 - **Event 008.** Saki's eccentric stamina drink becomes the trio's shared pre-live ritual, and she offers Kotone a massage afterwards (`adv_event_008_main-03.txt` L141; `adv_event_008_main-05.txt` L458).
 - **Event 012.** Saki tells Lilja to become her disciple so that she can teach optimal lessons (`あなた、わたしに弟子入りしなさい！`, `adv_event_012_main-02.txt` L639–L652), refuses to help if Lilja only wants the absolution of having tried (`『頑張った』っていう免罪符が欲しいだけなら、今の提案はなしにするわ。`, L689), and Lilja asks her to be her `師匠` (L721). Lilja's inner narration names running as her absolution for standing beside Sumika (L255, isInner). In the event's present frame Saki separates a temporary-unit leader's responsibility for Lilja's collapse from a friend's worry (`adv_event_012_main-01.txt` L174–L184) and orders full rest (L439). Saki also reads Sumika's concealment (`嘘つきの目だわ。`, `adv_event_012_main-03.txt` L561), so in event continuity a third party breaks the concealment structure that Relationship Systems I §4.3 builds from the Dear routes.
 - **Event 030 (SL1.1).** Saki names her responsibilities `お姉ちゃんとして、リーリヤの師匠として` (`adv_event_030_main-05.txt` L650–L655; SAKI-R86-C03 in the Source Lock 1.1 supplement).
@@ -1059,6 +1061,8 @@ N.I.A. makes fan support numerically and institutionally consequential. Saki exp
 ## 11.3 Instrumentality is later complicated by participation
 
 The Animate episode and other fan-facing jobs make Saki experience collective enthusiasm from inside. She learns that serving an audience requires understanding what its joy feels like, not merely counting it.
+
+At the Animate counter Saki responds to the customer’s recognition of Temari and announces their afternoon stage. In between, she lowers her voice to tell Temari to read the room. Later she allows for an idol ideal of Temari’s own, while insisting she ask for help before a customer gets hurt. Temari’s unspoken answer leaves Saki’s interpretation of her manner in doubt. [Animate fan encounter](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)
 
 ## 11.4 Fans expand older-sister obligation
 

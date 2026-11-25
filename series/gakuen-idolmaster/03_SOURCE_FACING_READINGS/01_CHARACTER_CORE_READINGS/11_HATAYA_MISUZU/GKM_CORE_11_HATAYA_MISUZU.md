@@ -1192,3 +1192,7 @@ This table keeps recoverable every v2.0 formulation that the 2026-11-15 revision
 | §30 D-MISUZU | GKM-SAA-086 | STRENGTHEN (summary extended) | "It includes SyngUp! reconstruction, N.I.A., summer H.I.F. defeat, wrong-path effort, Producer mutuality, winter H.I.F. and Dear 036 Prima Stella." |
 
 Severity record for GKM-SAA-004: the audit adopted the reciprocal-origin, Kayo-ranking and disclosure additions at P1 in the reviewer's narrowed form, which does not claim that the concealment-to-disclosure arc was absent from every home. The specialist's post-review view, borderline P2 because Misuzu already cries before Temari in Dear 009 (L302), is preserved as dissent, as the owner decided on 2026-11-15.
+
+### Recorded Event 002 class gathering discussion — 2026-11-25
+
+On the Event 002 corridor recording, Misuzu quietly says what has hurt her, then answers with a more pouty vow to make friends. When Hiro asks why she was consulted, Misuzu says they have burdened the class. Her soft delivery allows both grievance and concern for the classmates to stand. Hiro supplies the reason about friendship. [Scoped recording evidence](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-unnamed-friend).

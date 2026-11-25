@@ -34,3 +34,7 @@ Start with the [current audiovisual findings](GKM_RINAMI_CARBON_CHARACTER_RECONC
 The current package is R2. The [R1 supersession note](90_SUPERSEDED_RELEASES/R1_SUPERSESSION_NOTE.md) and [R1 archive checksum](90_SUPERSEDED_RELEASES/GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1.zip.sha256) preserve the earlier release. The separately named high-resolution reinspection audit is a likely stale, unverified filename reference with no further collection action requested; the R2 README, delivery audit and technical appendix record the available work. See the [reference correction](../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_TARGETED_REBUILD_CANDIDATES.md#rinami-routing-responsibility).
 
 Retained release checksums describe historical ZIP member bytes and package paths. The [recovery audit](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records recovered originals and repository derivatives.
+
+## Later story-event recording
+
+[Scoped story-event review](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-warning-at-the-beach-restaurant). Rinami first calls Mao by name and later closes the exchange when Mao tries again. Her distinct later sunset conversation keeps separate evidence.

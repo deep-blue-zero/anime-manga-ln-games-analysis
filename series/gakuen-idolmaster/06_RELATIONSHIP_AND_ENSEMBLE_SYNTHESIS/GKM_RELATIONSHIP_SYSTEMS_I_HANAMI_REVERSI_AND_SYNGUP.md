@@ -1683,7 +1683,7 @@ This is not a replacement for `GKM_PRIMARY_SOURCE_LOCATOR_LEDGER.md`; it is a co
 - Event 002 / 005 / 010 / 014 — Misuzu's estrangement-era jealousy; SyngUp's three-member break; the Valentine ritual; mutual knowledge (§5.8; GKM-SAA-106).
 - U1 `01_11`, `01_13`, `04_17` — Temari's U1 self-account and reputation (§5.2.1; GKM-SAA-032); `02_07`, `04_01` — Kotone's U1 brokerage and Misuzu's hostility (GKM-SAA-277); `04_04`–`04_15` — belief, wound, role reversal, lobbying, pact (§5.9.1; GKM-SAA-110).
 - Temari Dear 009, 025, 034 — handover to the Producer and Misuzu–Producer coordination (§5.3; GKM-SAA-045); Temari Dear 024, 029 — Rinha's language reused (§5.5; GKM-SAA-180).
-- Event 008 — SyngUp fan forces Temari to accept that public memory can survive the unit.
+- Event 008 — A customer identifies as Temari’s fan and recalls attending SyngUp! stages. Temari first deflects, then offers her own invitation after Kotone prompts her. She later claims the fan in response to Kotone’s teasing. The encounter tests Temari’s position as the recipient of attention. Her defense of plural fandom in Dear 016 remains a distinct track. [Animate fan encounter](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)
 - Event 016 — Rinha coaching language persists inside Temari pedagogy.
 - Event 019 — Temari asserts independent competence to Misuzu.
 - Event 023 — post-repair birthday ritual re-authored through one-copy song/lullaby CD.

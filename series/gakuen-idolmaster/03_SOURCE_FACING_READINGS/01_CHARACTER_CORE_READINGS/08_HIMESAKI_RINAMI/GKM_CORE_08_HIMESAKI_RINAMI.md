@@ -1284,3 +1284,7 @@ The revision makes this job an appearance on an interviewer's program. Rinami's 
 **Claim disposition.** `RINAMI-R86-C03` — NARROW the occupational attribution for this source. CONFIRM the existing `RINAMI-C28` basis.
 
 **Pointer (2026-11-15, GKM-SAA-224).** For Rinami's SL1.1 backstage epilogue (`adv_dear_hrnm_037-01.txt`), see the [Dear epilogues reading](../GKM_DEAR_EPILOGUES_AND_COMMON_ADV_REV86.md) and the endpoint addition in §24.
+
+### Recorded Event 003 first beach-restaurant encounter — 2026-11-25
+
+At the shop Rinami does more than register Mao’s discomfort. She calls Mao’s name during the warning and again when Mao begins an unfinished appeal. Calling attention to Sumika’s work, she proposes leaving. This practical exit precedes Rinami’s separate later discussion of the festival. [Scoped recording evidence](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-warning-at-the-beach-restaurant).

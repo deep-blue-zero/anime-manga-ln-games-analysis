@@ -1160,3 +1160,7 @@ Dear 037-01 is an SL1.1 interstitial set just after the H.I.F. victory live; Hir
 **Scope.** C1 within D-HIRO's post-victory state. The note is institution-scoped: it records how 100 Pro performers observe the D-HIRO title and does not bear on Hiro's interiority.
 
 **Claim disposition.** `HIRO-R86-C03` — ADD institution-scoped context to `HIRO-C25`.
+
+### Recorded Event 002 class gathering discussion — 2026-11-25
+
+In Event 002 part 05 Hiro first presses Misuzu for the reason behind her alarm. Her dry response gives way to a warmer explanation of her own concern for China and the others as friends. After Misuzu describes Class 1’s gathering, it is Hiro who begins suggesting they do the same. The later involvement of the rest of the class belongs to the later action in this same chapter, outside the attended interval. [Scoped recording evidence](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-unnamed-friend).

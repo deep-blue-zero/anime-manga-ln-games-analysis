@@ -1263,6 +1263,8 @@ A useful preliminary map is:
 
 Event 001 offers a heard example of Kotone teasing a peer to challenge the pace of getting familiar in class. When Temari wants the whole class to use nicknames, Kotone objects to getting close so quickly (part 05 L211–219). She proposes ordinary names and playfully threatens to call Temari `てまりん` (L258). Temari laughs. Kotone tells her to stop looking so pleased, and Temari admits she does not dislike having a nickname (L267–278). Kotone can test a proposal in the other direction and find her own joke received differently than its warning suggests. [Paired nickname scene, SRC-0039, 1174–1225 s](../../../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md#c-proposing-a-nickname-and-actually-using-it)
 
+At the Animate counter Kotone can reassure the customer in public, quietly prompt Temari, and return to customer-facing politeness within the same exchange. She offers the opportunity to hear Temari sing and gets the customer’s assent. Temari herself voices the invitation. Kotone’s later joke about winning the fan for herself comes after this assistance. [Animate fan encounter](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)
+
 ## 13.2 `おカネ`
 
 The katakana-marked money vocabulary is one of her strongest written identity markers. It helps keep financial thinking present even when the scene is comic or affectionate.
