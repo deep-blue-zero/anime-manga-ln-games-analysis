@@ -17,6 +17,8 @@ status: "active; Phase-3 character audiovisual crosswalk complete at 13/13"
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
 
+The [Carbon recorded-edition crosswalk](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_RECORDING_IDENTITY_CROSSWALK.tsv) resolves the November SRC and playback IDs to registered recordings, individual review objects, source-clock coordinates and edition limits. The stage and dialogue routes below retain their existing project IDs.
+
 ## Schema
 
 | field | meaning |

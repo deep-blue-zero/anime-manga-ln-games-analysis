@@ -500,10 +500,12 @@ The revised opaque `musics.txt` has exact hashes in the [source delta](../01_COR
 
 ## Source Lock 1.2 — transcript refresh, 2026-11-15
 
+The A1 columns retain the November 15 textual accounting. The perceptual column points to the subsequent [Kanae recorded-edition findings](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_EVIDENCE_AND_INSPECTION.md#dear-and-performance-editions).
+
 | Character / song | A1 source | Text or command status | Perceptual status |
 | --- | --- | --- | --- |
-| Hiwatari Kanae / `初` | `adv_dear_hkne_002.txt` L345–370, `adv_dear_hkne_009.txt` L217–219 | Assigned assessment piece. Dear 009 specifies a Kanae `all-001` live command. | AV-HKNE-R88-01, playback pending |
-| Hiwatari Kanae / `メタモルフォーゼ` | `adv_cidol-hkne-3-000_01.txt` L116–172 and `_03` L120–196 | Named solo demo, pop characterization in Kanae's speech, and repeats of the instrumental cue. The staged communication ends before her announced performance. | AV-HKNE-R88-02, solo rendition and demo comparison pending |
+| Hiwatari Kanae / `初` | `adv_dear_hkne_002.txt` L345–370, `adv_dear_hkne_009.txt` L217–219 | Assigned assessment piece. Dear 009 specifies a Kanae `all-001` live command. | AV-HKNE-R88-01. Two reviewers matched the embedded assessment at SRC-0023 3503.4–3551.3 s using a same-upload compact rendition with re-encoded audio. SRC-0127 is a separate full-stage performance. |
+| Hiwatari Kanae / `メタモルフォーゼ` | `adv_cidol-hkne-3-000_01.txt` L116–172 and `_03` L120–196 | Named solo demo, pop characterization in Kanae's speech, and repeats of the instrumental cue. The staged communication ends before her announced performance. | AV-HKNE-R88-02. The audio-matched compact renditions supply the demo and preparations on SRC-0059 and the separate released performance on SRC-0125. The complete diegetic live after the announcement remains open. |
 | Kuramoto China / `Wonder Scale` | `adv_dear_hkne_003.txt` L192–235 and `adv_dear_hkne_004.txt` L49–85, L99–152 | Kanae's fan commentary and referenced MV. She agrees to think of the song during a mock shoot. | Same song under China's evidence route, no new performance of it in the mock shoot |
 
 ## Carbon character and claim write-through — 2026-11-25

@@ -69,4 +69,4 @@ GitHub displays the archived [September README](KAYA_RINHA/README.md) when openi
 
 The current perceptual and historical baselines cover the distributed voice-analysis responsibility alongside the dossier.
 
-[Carbon propagation](GKM_CARBON_PROPAGATION.md) links the current reading for all fifteen character packages. The [proposition register](GKM_CARBON_PROPAGATION_REGISTER.tsv) gives the exact claim routes.
+[Carbon propagation](GKM_CARBON_PROPAGATION.md) links the current reading for all fifteen character packages. The [proposition register](GKM_CARBON_PROPAGATION_REGISTER.tsv) gives the exact claim routes. Follow the [claim transitions](GKM_CARBON_CLAIM_TRANSITIONS.tsv) to the scoped decisions and the [recording crosswalk](GKM_CARBON_RECORDING_IDENTITY_CROSSWALK.tsv) to editions, hashes and clocks.

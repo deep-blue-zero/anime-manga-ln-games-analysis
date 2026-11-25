@@ -1861,18 +1861,14 @@ Together they establish two complementary principles:
 
 > **A mature social ecology distributes developmental authority by domain, preserving enough independent relationships that no single person must own every route to care, correction, expertise, opportunity, or future.**
 
-These are now strong enough to correct Phase-3 character models during Phase 7, but Phase 6 is not yet complete.
+These principles inform the Phase 7 revisions of the Phase 3 character models. The original handoff scheduled four additional Phase 6 artifacts under architecture v2.4. Each is now available:
 
-Architecture v2.4 still requires:
+1. [Side characters, families, staff, Gokugetsu and external pressures](GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md)
+2. [Kaya Rinha source crosswalk](GKM_KAYA_RINHA_SOURCE_CROSSWALK.md)
+3. [Kaya Rinha evidence matrix](GKM_KAYA_RINHA_EVIDENCE_MATRIX.md)
+4. [Independently reviewed Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md)
 
-1. `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`;
-2. `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`;
-3. `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`;
-4. `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`.
-
-The Rinha branch remains a hard precondition for final Temari/Misuzu monographs. The side-character synthesis is the next architecture-defined principal operation because family, staff, Gokugetsu, external institutions, and non-playable observers can still correct the apparent center of the social network.
-
-**Next canonical operation:** `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`.
+Phase 6 closed at Source Lock 1.2 on November 25. The dossier satisfies the Rinha dependency for the Temari and Misuzu monographs at that boundary. Both monographs still require their individual Gate E decisions. Rinha's separate exact whole-container C073 question remains open. [Phase 6 closeout](../CURRENT_STATE_AND_CORPUS_MAP.md#phase-6-completion-at-source-lock-12--2026-11-25) · [Individual readiness](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_CHARACTER_QUALIFICATION_AND_READINESS.md)
 
 
 
