@@ -3,14 +3,14 @@ title: Generic Character Reconstruction Method
 artifact_id: GENERIC_CHARACTER_RECONSTRUCTION_METHOD
 artifact_type: generic_character_reconstruction_method_reference
 artifact_role: reusable_corpus_level_analytical_reference_method
-version: "1.1"
+version: "1.2"
 status: canonical
 scope: source-bounded, time-indexed character modeling and validation in any medium, and new-project reconstruction bootstrap
 authority_scope: this_reusable_reference_only
 adoption: opt_in
 project_local_authority: false
 created: 2026-10-24
-last_updated: 2026-11-14
+last_updated: 2026-11-24
 maintainer: Claude + user
 source_boundary: "Methodological reference only; no series findings or primary-source evidence"
 do_not_use_as_current_authority: false
@@ -369,11 +369,13 @@ To test reconstruction itself:
 - [Character reconstruction capability specification](../../characters/RECONSTRUCTION_CAPABILITY_SPEC.md): dimensions, scenario readiness, known limits, evidence eligibility, and artifact authority.
 - [Character reconstruction maintenance policy](../policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md): the evaluator's role and process.
 - [Character discovery maintenance policy](../policies/CHARACTER_DISCOVERY_MAINTENANCE.md): how artifacts become curated evidence items.
+- [Multi-Agent Character Reconstruction Pass protocol](../source-policies/MANGA_ANIME_MULTI_AGENT_CHARACTER_RECONSTRUCTION_PASS_PROTOCOL.md): the post-analysis operation that applies this method to deepen a mature project's character evidence and models.
 - [Generic multi-document synthesis architecture template](GENERIC_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_TEMPLATE.md): reconstruction placement, timing, and artifact split in a project's architecture.
 - [Medium and inspection-lane routing policy](../source-policies/MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md): which inspection routes can support performance claims.
 - [Project initiation and architecture policy](../source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md): Section 5.5, character and reconstruction responsibilities, and Section 5.5.1, the self-contained character monograph standard.
 
 # Revision history
 
+- **1.2 — 2026-11-24:** Repository context links the Multi-Agent Character Reconstruction Pass protocol, which applies this method in post-analysis passes. The method itself is unchanged.
 - **1.1 — 2026-11-14:** Section 3 distinguishes a monograph's optionality for reconstruction from the literary obligations of the self-contained character monograph standard (initiation Section 5.5.1). The separation of literary interpretation, operational models and independent evaluation is unchanged.
 - **1.0 — 2026-10-24:** Initial reference method.
