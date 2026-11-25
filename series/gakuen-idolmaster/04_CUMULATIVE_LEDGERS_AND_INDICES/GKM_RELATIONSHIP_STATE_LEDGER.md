@@ -937,3 +937,7 @@ The four observations refine the Phase 5 relationship rows at their own support 
 | Tsubame ↔ Saki | In `3-0085_03` Saki proposes combining their training methods. Tsubame later says they may have packed in too much. Each describes a different benefit from training together. Their audition rivalry remains explicit. |
 
 [Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Tsubame and Lilja’s shared fandom — recorded scope, 2026-11-25
+
+**STRENGTHEN the two reciprocal recommendations and REVISE the scope of the historical Phase 5 trust claim.** Both offer anime recommendations. Tsubame reconsiders Lilja’s choice and calls them fellow enthusiasts. Tsubame starts the cinema excuse and Lilja supports it. Broad trust, exclusivity and relationship category remain open. [Support 3-0082 readback](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).

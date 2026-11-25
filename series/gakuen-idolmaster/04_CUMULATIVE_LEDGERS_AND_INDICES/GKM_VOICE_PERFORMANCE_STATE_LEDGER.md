@@ -450,3 +450,7 @@ Kotone addresses Saki more quietly after music recedes, and moves from bare name
 | `SRC-0092`, support 3-0085 part 03 | Post-wipe exertion gives way to shared encouragement and a renewed audition challenge. The shift concerns these interlocutors in this support episode. |
 
 [Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Café recommendations, cinema cover and nickname exchange — 2026-11-25
+
+On SRC-0088 at 127–222 s Lilja’s address stays polite as her recommendation speeds up and grows more emphatic. Tsubame pauses and reconsiders the intended audience of the show. At 234–322.65 s Tsubame stammers first in the excuse and Lilja rushes to corroborate. Their speech remains differentiated. On SRC-0039 at 1174–1225 s Temari moves from a flat example to a falling, puzzled direct address, while Sumika’s comment is lighter. Temari’s laugh and warmer reply follow Kotone’s joking nickname proposal. These are approximate paired listening spans. The sampled picture leaves interframe movements and private motives open. [Perceptual readback](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).

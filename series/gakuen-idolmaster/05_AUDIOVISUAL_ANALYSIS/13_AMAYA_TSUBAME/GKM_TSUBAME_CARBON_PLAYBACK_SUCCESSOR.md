@@ -63,3 +63,5 @@ Individual Gate E remains open. The recorded date experiment resolves the 3-0086
 ## Later support scenes
 
 The later review records Tsubame urging Hiro to rest, her encounter with Kotone at the end of a shift, China’s own description of individualized instruction and the reciprocal training contrast with Saki. Each finding is limited to its registered support window. The playback leaves deliberate waiting, independently demonstrated improvement and unspoken motives separately open. [Four support-scene adjudications](GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+A separate paired review records Tsubame’s stated reassessment of Lilja’s recommendation and her first and revised explanations when Mao recognizes them after a film. It qualifies the local picture and delivery. [Café and cinema scopes](../GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).

@@ -25,6 +25,8 @@ Event 030 parts 4 and 5 are a better register comparison. `SRC-0054` on the comp
 
 Lilja's Dear 027 proposal goes to Sumika, with the Producer absent from that address. `adv_dear_kllj_027.txt` L300–345 supports the wish to stand beside her within the unit exchange. Dear 037 L321 selects an answer, the shared section at L367–375 follows the choice branches, and L380 uses a separate condition for the still choice. Do not change the direction of address or assign the two stills directly to the answer options. The script resolves topology. The recovered historical SRC-0256 selected pictures at 2233, 2241, 2248 and 2253 s match L300, L315, L332 and L343. They are discrete scene anchors. The SRC-0257 identity and the locked branches leave paired delivery and a comparative native still-selection test OPEN. Attachment and the partnership proposal remain bounded, with a romance label OPEN.
 
+The later native excerpts record Lilja’s animated recommendation to Tsubame with polite endings intact, her rushed agreement with Tsubame’s cinema account, and the faint answer she gives after Temari’s nickname proposal. These are separate settings with named source intervals. [Scoped paired readback](../GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).
+
 ## Claim and completion disposition
 
 - **REVISE** `PROP-0020-AV-01/02`, `PROP-0021-AV-01`, `PROP-0223` and `PROP-0226` for speaker role, displayed marks, paraphrase and compact scope. `PROP-0223-AV-01/06` limits the eyes and line attribution in Event 030.

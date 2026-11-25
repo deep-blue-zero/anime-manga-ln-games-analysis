@@ -212,7 +212,9 @@ At the classroom party Temari apologizes for the earlier way she spoke. Her prop
 
 The important reading is not “Temari is secretly cute.” It is that **Temari has poor calibration of interpersonal distance**. She can move from defensive hostility to an unexpectedly high-intimacy proposal without possessing the ordinary social gradations that would make the move feel natural.
 
-Kotone and Sumika normalize the situation toward first-name address instead.
+Kotone proposes that they use their ordinary names. Lilja suggests that fans could give them nicknames. Sumika endorses that distinction and Temari agrees to the ordinary name use. The complete fan-naming reply and later acceptance are written evidence outside the new attended scope (L258, L282, L288, L292).
+
+**Recorded readback, 2026-11-25.** On SRC-0039 at 1174–1225 s, Temari’s first example `りーぴゃん` is relatively flat. Her direct repetition and question about Lilja’s expression sound puzzled, with a possible hurt edge (L231 and L244). Sumika comments more lightly on the sudden address delivered with a straight face (L249). Kotone jokingly threatens to use `てまりん` (L258). Temari breathes, laughs and says she does not dislike nicknames (L267–278). The contrast favors an earnest but awkward attempt to become closer. Lilja’s brief hesitation and Temari’s private intent remain open. [Paired delivery and limits](../../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).
 
 This gives Phase 6 a concrete mechanism for Temari's social difficulty: not lack of desire for relation, but an unstable translation between desire and acceptable social form.
 

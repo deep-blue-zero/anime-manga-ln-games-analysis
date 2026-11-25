@@ -756,6 +756,8 @@ Recurring features include:
 - increasingly declarative future forms as confidence grows (`なります`, `勝ちます`, `行きます`);
 - ability to use direct intimate speech with Sumika without losing the softer baseline.
 
+In support 3-0082 part 2, Lilja asks Tsubame what she likes and then makes her own case for a show Tsubame might overlook. Lilja’s delivery grows more animated while her polite endings and senior address persist. In part 3, Mao’s recognition and Rinami’s question precede Lilja’s rushed corroboration of Tsubame’s excuse. In Event 001 part 5, her faint reply to Temari’s proposed nickname has a separate source and leaves her private reason open. [Source-matched contrasts](../../../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).
+
 A useful longitudinal marker is the transformation of repeated self-declaration.
 
 Early:

@@ -245,11 +245,13 @@ Part 3 keeps the Hanami household linked to school life. The sisters prepare gif
 
 # 8. `story_0082` — Lilja and Tsubame: public image does not exhaust private fandom
 
-Lilja and Tsubame unexpectedly discover one another in an anime-merchandise space. Both initially attempt face-saving explanations. Tsubame is disguised; Lilja is holding a large number of capsules from repeated gacha attempts. The embarrassment disappears as soon as they identify shared knowledge.
+Lilja and Tsubame unexpectedly discover one another in an anime-merchandise space. Both initially attempt face-saving explanations. Tsubame is disguised; Lilja is holding a large number of capsules from repeated gacha attempts. Finding shared knowledge gives them something to talk about. Their later reaction when Mao and Rinami discover them shows that the exposure question returns in a different setting.
 
 Part 2 clarifies that Tsubame's public profile is curated rather than false. Her listed interests—calligraphy, Japanese history, reading—are real. Anime is simply omitted because it conflicts with her image strategy. She can discuss favorite titles, adaptation style, character deaths, and genre expectations with specificity. Lilja's anime knowledge partly comes through her Japanese father, adding another route by which Japanese cultural material entered her pre-Hatsuboshi life.
 
-The two exchange recommendations and explicitly call themselves `同士`. Part 3 then shows them deliberately meeting for a film release, analyzing adaptation choices together, and buying merchandise. When Mao and Rinami see them, both lie badly about having met intentionally or watched the film.
+Lilja asks Tsubame what she likes. Tsubame names `ステルス・ブラッド` as her favorite and asks for Lilja’s recommendation. Lilja suggests `ふわっとブレザーつむじちゃん`, and Tsubame reconsiders her assumption about its intended audience and calls them `同士`. In part 3 they discuss the adaptation after seeing `シルヴェスタ`. Tsubame proposes buying a program before Mao spots them. Rinami asks if they also came for a film. Tsubame claims coincidence and cues Lilja, who denies both a planned meeting and a screening. When Mao asks why they are there, Tsubame gives a halting excuse and Lilja echoes part of it. Mao remarks that they seem close.
+
+**Recorded readback, 2026-11-25.** SRC-0088 at 127–222 s and 234–322.65 s supports the reciprocal recommendations and the local order of the cover story. Lilja retains polite forms during advocacy and in the later rush to answer. The sampled picture and sound leave both private motives open. [Paired evidence and exact source scope](../../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).
 
 ### Claim transitions
 
@@ -1038,7 +1040,7 @@ Ordinary peer intimacy with Mao uses soft interpretation and emotionally direct 
 
 1. `story_0076/part_01` — Temari's awkward post-reconciliation lunch invitation and Sena's silent encouragement to Misuzu.
 2. `story_0076/part_02` — Sena/Temari duet; contrast between Temari's public challenge and inner delight.
-3. `story_0082/part_01-03` — Tsubame/Lilja fandom embarrassment and the degree of register collapse when discovered by Mao/Rinami.
+3. `story_0082/part_01-03` — Tsubame/Lilja fandom embarrassment and the degree of register collapse when discovered by Mao/Rinami. The [later recorded comparison](../../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md) answers the café and cinema delivery questions at the named intervals.
 4. `story_0086/part_03` — Sena's “date / I don't know romantic love / I like you” sequence with Tsubame; essential for affect calibration without over-romanticizing.
 5. `story_0088/part_03` — Hiro/China internalized-other exchange; vocal warmth and comic/serious balance.
 6. `story_0089/part_03` — Saki's `期待していた` / Sena's recognition of prior disappointment and thanks.

@@ -1261,6 +1261,8 @@ A useful preliminary map is:
 4. **family/close-peer mode** — teasing, older-sister authority, quick practical commands;
 5. **emotional overload** — cute overlay can fall away, but this does not retroactively make the cute register false.
 
+Event 001 offers a heard example of Kotone teasing a peer to challenge the pace of getting familiar in class. When Temari wants the whole class to use nicknames, Kotone objects to getting close so quickly (part 05 L211–219). She proposes ordinary names and playfully threatens to call Temari `てまりん` (L258). Temari laughs. Kotone tells her to stop looking so pleased, and Temari admits she does not dislike having a nickname (L267–278). Kotone can test a proposal in the other direction and find her own joke received differently than its warning suggests. [Paired nickname scene, SRC-0039, 1174–1225 s](../../../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md#c-proposing-a-nickname-and-actually-using-it)
+
 ## 13.2 `おカネ`
 
 The katakana-marked money vocabulary is one of her strongest written identity markers. It helps keep financial thinking present even when the scene is comic or affectionate.

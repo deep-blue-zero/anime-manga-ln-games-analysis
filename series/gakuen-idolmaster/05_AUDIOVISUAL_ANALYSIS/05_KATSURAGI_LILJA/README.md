@@ -34,3 +34,5 @@ Start with the integrated baseline. Use the textual core and AV addendum togethe
 | Textual authority | [Character core](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/05_KATSURAGI_LILJA/GKM_CORE_05_KATSURAGI_LILJA.md) · [Core evidence](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/05_KATSURAGI_LILJA/GKM_CORE_05_KATSURAGI_LILJA_EVIDENCE_MATRIX.md) · [AV revision addendum](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/05_KATSURAGI_LILJA/GKM_CORE_05_KATSURAGI_LILJA_AV_REVISION_ADDENDUM.md) |
 
 Retained release checksums describe historical ZIP member bytes and package paths. The [recovery audit](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records recovered originals and repository derivatives.
+
+[Café, cinema and nickname readback](../GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md) locates Lilja’s recorded exchanges in support 3-0082 and Event 001 part 5.

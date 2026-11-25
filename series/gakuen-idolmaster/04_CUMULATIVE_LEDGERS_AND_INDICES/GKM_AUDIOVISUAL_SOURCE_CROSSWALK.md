@@ -480,3 +480,7 @@ SRC-0041 binds the registered five-part Event 016 source. A preserves encoded hi
 ## Tsubame support-scene scopes — 2026-11-25
 
 The Japanese support scripts join to four exact recorded editions. Original scope is `SRC-0085` 0.200–105.700 s, `SRC-0087` 190.000–311.500 s, `SRC-0090` 260.000–380.550 s and `SRC-0092` 204.500–306.250 s. Ordered encoded audio and picture packet matches support the attended windows. Exact parent frame checks and approximate heard onsets have different precision. The whole-parent hashes establish identity. [Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Narrow delivery reviews — 2026-11-25
+
+The registered support ranges of SRC-0088 at 127–222 s and 234–322.65 s join `adv_csprt-3-0082_02` and `adv_csprt-3-0082_03`. SRC-0039 at 1174–1225 s joins `adv_event_001_main-05`. The [paired adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md) identifies the measured child-to-parent offsets, written cue roles and observed delivery limits.
