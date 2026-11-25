@@ -646,7 +646,7 @@ They make internal success answerable to someone who is not obligated to recogni
 
 ## 4.1 Shion: hostile mirror, technician, recruiter, and wounded comparator
 
-Shirakusa Shion appears across several core routes, and her function changes by recipient.
+Shirakusa Shion appears across several core routes, and her conduct changes with the person and the purpose of the encounter. The [current Shion portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIRAKUSA_SHION.md) distinguishes what she teaches Lilja, what she tries to secure from rival idols, and what she rejects from Tsubame and Gekka. Its [evidence appendix](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIRAKUSA_SHION_SOURCE_AND_SCOPE.md#the-two-recorded-speaking-contrasts) preserves the two narrow spoken comparisons.
 
 ### Against Mao
 
@@ -670,7 +670,7 @@ Cruelty and pedagogical usefulness coexist; one does not excuse the other.
 
 ### Against Rinami
 
-Shion weaponizes old `Love☆しすたぁず` footage to argue that earlier performance proves current identity is fake.
+Shion weaponizes old `Love☆しすたぁず` footage to argue that earlier performance proves current identity is fake. The Producer reports gathering evidence on the earlier footage himself (`adv_dear_hrnm_013`). Shion separately threatens to circulate a misleading clip (Dear 015). The Producer later calls his own counterthreat a bluff (Dear 016). The first presentation and the threatened release are distinct events.
 
 Rinami's answer is archival rather than purifying: the old work can have been sincere and still be a poor fit for the mature self.
 
@@ -684,7 +684,7 @@ Shion engineers social isolation and offers another institution as sanctuary. Sh
 
 Here Shion is not merely critic; she is recruiter and alternative-institution pressure.
 
-Sumika's answer is not only refusal (GKM-SAA-230; C1 @ D-SUMIKA; 2026-11-15). After declaring that she and Shion can never agree (`adv_dear_ssmk_018` L100–L111), Sumika later thanks the defeated Shion for exposing her complacency, says she was glad to be invited even if the invitation was false, and parts with 「またね」 (`adv_dear_ssmk_019` L57–L89). The incompatibility concerns their idol philosophies, not a severed relation.
+Sumika's answer is not only refusal (GKM-SAA-230; C1 @ D-SUMIKA; 2026-11-15). After declaring that she and Shion can never agree (`adv_dear_ssmk_018` L100–L111), Sumika later thanks the defeated Shion for exposing her complacency, says she was glad to be invited even if the invitation was false, and parts with 「またね」 (`adv_dear_ssmk_019` L57–L89). The incompatibility concerns their idol philosophies. The farewell is Sumika’s initiative and leaves Shion’s response and later terms of contact open.
 
 ### Through Tsubame
 
