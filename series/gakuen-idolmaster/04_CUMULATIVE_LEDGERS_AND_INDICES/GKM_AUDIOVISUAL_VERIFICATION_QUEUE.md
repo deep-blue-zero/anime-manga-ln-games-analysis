@@ -1062,3 +1062,7 @@ At Source Lock 1.2, Japanese ADV revision 88, the retained originals support thr
 | P0 `adv_event_003_main-03` | **STRENGTHEN** the performed repair and revised service account. Exact kinship, apparent action and the audibility of frying remain **OPEN**. Earlier Mao–Rinami turns are outside attendance. |
 | P0 `adv_event_004_main-04` | **REVISE** the Saki–Lilja shift from coach to rival. Keep the effects’ written assignment distinct from physical plays. Sumika’s person-specific observation remains **OPEN**. |
 | P0 `adv_event_008_main-02` | **REVISE** the former inner-delight discriminator. A publicly voiced invitation precedes a separately voiced inner objection to the suggested idol image. Earshot, deeper motive, lasting change and later event order remain **OPEN**. |
+
+## Event 014 written-source clarification — 2026-11-25
+
+Part 05's P0 shorthand “mutual `大好き`” refers to Hiro's `大好き` and Misuzu's reply `わたしもです` (L793–807). Part 04's P1 distinguishes China's personal resolution to Hiro, her appeal to the class and Saki's later recognition (L130–169, L314–322). See the [written-source revision](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_013_020_DEEP_READING.md#34-china-performs-morale-as-chosen-professional-labor). The recorded queue keys and priorities remain in force.

@@ -1020,7 +1020,7 @@ Added under owner decision 1 as amended (GKM-SAA-104, GKM-SAA-108). The table in
 | Event 002 main-04 | `adv_event_002_main-04` L297–L303 | struggling alone is a pleasure; dragging friends down is not | E001–005 §4.4 | Phase 4 — Events 001–005 | §7.1 |
 | Event 006 main-04 | `adv_event_006_main-04` L169–L208 | low energy as user-perspective design information | E006–012 §2.5 | Phase 4 — Events 006–012 | §22 |
 | Event 010 main-04 | `adv_event_010_main-04` L312–L319, L426–L444, L494–L509 | recipients outrank solitary difficulty; completion is not empty | E006–012 §6.4–§6.6 | Phase 4 — Events 006–012 | §2.1, §9.1 |
-| Event 014 main-03, main-05 | `adv_event_014_main-03` L300–L344, L456–L463; `adv_event_014_main-05` L786–L807 | suffering refused when friends bear the cost; mutual `大切な友達`; event-track unfamiliarity with `悔しい` | E013–020 §3.2, §3.6 | Phase 4 — Events 013–020 | §7.1, §5.1 |
+| Event 014 main-03, main-05 | `adv_event_014_main-03` L300–L344, L456–L463; `adv_event_014_main-05` L786–L807 | suffering refused when friends bear the cost; Hiro says `大切な友達` and `大好き`, Misuzu answers `わたしもです`; event-track unfamiliarity with `悔しい` | E013–020 §3.2, §3.6 | Phase 4 — Events 013–020 | §7.1, §5.1 |
 | Event 018 main-05 | `adv_event_018_main-05` L490–L584 | reciprocal disclosure with Sumika; gyaru as chosen mismatch | E013–020 §7.2–§7.4 | Phase 4 — Events 013–020 | §22 |
 | Event 023 main-01, main-03 | `adv_event_023_main-01` L197; `adv_event_023_main-03` L270–L294 | mediation between Temari and Misuzu without appropriation | E021+ §4.2–§4.5 | Phase 4 — Events 021+ | §22 |
 | Event 025 main-02 | `adv_event_025_main-02` L236–L259 | next-council candidate; accepts China's refusal of help | E021+ §6 | Phase 4 — Events 021+ | §22 |

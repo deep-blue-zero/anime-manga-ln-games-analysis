@@ -387,7 +387,7 @@ The following edges are strong enough to enter the cumulative relationship ledge
 | Sena ↔ Tsubame | E013 | rivalry includes mood recognition and refusal to let Sena substitute mentoring for self-development |
 | Sena ↔ Mao | E013/E017 | Mao's old failure to promise pursuit becomes present challenge and role-expansion advice; not a progression: E017-04 (L433–L472) and E022-05 (L277–L289) are pre-summer and the E013 vow `今度こそ` (L462–L469) is undated, so the order stays OPEN (GKM-SAA-157) |
 | senior quartet | E013/E017 | long-duration peer system with differentiated functions: regulation, challenge, performance interpretation, institutional leadership |
-| Hiro ↔ Misuzu | E014 | **PROMOTE:** mutual `大切な友達` / `大好き`; shared loss and chosen exceptional effort |
+| Hiro ↔ Misuzu | E014 | **PROMOTE** preserved. In part 05 Misuzu calls Hiro the class MVP for motivating her (L134–146). After their loss Hiro says `大切な友達` and `大好き`, and Misuzu answers `わたしもです` (L786–807). Their shared loss and Misuzu's chosen exertion remain part of the [Event 014 relationship reading](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_013_020_DEEP_READING.md#36-hiro-learns-shared-disappointment). |
 | Rinami ↔ China | E015 | senior/junior relation becomes explicitly reversible during live crisis |
 | Rinami ↔ Lilja | E015 | Rinami supplies opportunity she once lacked; Lilja accepts without relying on Sumika |
 | China ↔ Lilja | E015 | direct peer collaboration in planning, travel, stage adaptation, and crisis performance |
