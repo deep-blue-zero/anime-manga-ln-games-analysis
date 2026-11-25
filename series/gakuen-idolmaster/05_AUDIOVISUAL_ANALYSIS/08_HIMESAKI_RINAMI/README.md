@@ -22,7 +22,7 @@ Start with the [current audiovisual findings](GKM_RINAMI_CARBON_CHARACTER_RECONC
 | Purpose | Files |
 | --- | --- |
 | Integrated analysis | [Baseline](GKM_RINAMI_COMPLETE_AUDIOVISUAL_BASELINE.md) |
-| Specialist readings | [Dialogue and acting](GKM_RINAMI_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) · [Music and performance](GKM_RINAMI_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) |
+| Specialist readings | [Dialogue and acting](GKM_RINAMI_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) · [Music and performance](GKM_RINAMI_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) · [RippleSign rehearsal correction](GKM_RINAMI_CARBON_CHARACTER_RECONCILIATION_20261125.md#ripplesign-and-the-two-accounts-of-rehearsal) |
 | Evidence and measurements | [Evidence matrix](GKM_RINAMI_AV_EVIDENCE_AND_METRICS_MATRIX.md) · [Technical appendix](GKM_PHASE3_RINAMI_AV_TECHNICAL_METRICS_APPENDIX.md) |
 | Source records | [Source manifest](GKM_PHASE3_RINAMI_AUDIOVISUAL_SOURCE_MANIFEST.json) · [Requests and acquisition history](GKM_RINAMI_AUDIOVISUAL_BASELINE_AND_REQUESTS.md) |
 | Completion records | [Completion report](GKM_PHASE3_RINAMI_AUDIOVISUAL_COMPLETION_REPORT.md) · [Delivery audit](GKM_PHASE3_RINAMI_AV_DELIVERY_AUDIT.md) |

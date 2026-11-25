@@ -249,6 +249,8 @@ This yields a side-character/family principle with broad applicability:
 
 Later, debt repayment does not erase Kotone's family identity. Her siblings become fans, artists, conversational partners, school visitors, and possible sources of comparison anxiety. They are not simply dependents waiting for her earnings.
 
+The [portrait of Kotone’s eldest younger sister](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KOTONE_ELDEST_YOUNGER_SISTER.md) follows the child Kotone identifies in Event 016. Her reported responsibility for the smaller children helps explain the outing. Her decisions to take instruction, propose a plan and ask about Kotone’s school life show how she takes part in it. The [evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KOTONE_ELDEST_YOUNGER_SISTER_SOURCE_AND_SCOPE.md) identifies which other appearances still lack a birth-order match.
+
 The mature Fujita family model is therefore **redistribution of care**, not escape from family.
 
 ## 2.3 The Kuramoto household: loving capital needs constitutional restraint
@@ -417,6 +419,8 @@ This archive can threaten her when public rediscovery turns old ability into exp
 The family function is thus not simply pressure or support. It is **provenance**.
 
 **Family strain and authorship conflict (GKM-SAA-022) — 2026-11-15.** The judgment above that the family evidence is "less individually interior" is too strong for the current record. Under SL1.0, ballet began at the parents' instruction (`adv_dear_ssmk_010` L169); Sumika falls silent when asked whether home was cramped (`adv_cidol-ssmk-3-014_02` L141–L154); she describes her gyaru style as rebellion against her mother (`adv_event_020_main-03` L194–L211); she finds it hard to tell her parents that she wants idolhood (`adv_dear_ssmk_032` L414); and her mother warns that Sumika skips practice, which Sumika rebuffs (`adv_csprt-3-0093_01` L164–L169). SL1.1 M-SUMIKA 018_03 (`adv_cidol-ssmk-3-018_03` L62–L335), in the state where Sumika wins, confirms conflict since she quit ballet, the mother's opposition, the father's support as the mother reports it, and a repair. Linking that repair to her Dear 032 confession is a cross-track identification. The family function is therefore provenance together with a conflict over who authors her assigned future.
+
+**Sumika’s mother as an interlocutor (REVISE) — 2026-11-25.** Dear 010 L169 records Sumika saying that 親 told her to start ballet. The line leaves open which parent spoke or whether both did. At the entrance examination the mother addresses Lilja directly with a warning about Sumika (`adv_csprt-3-0093_01` L136–169). In the separate Sumika-winning communication she acknowledges her opposition and later asks Sumika whether she may support her. Her account of the father’s support is reported speech. The [reviewed portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIUN_SUMIKA_MOTHER.md) distinguishes the mother’s decisions, Sumika’s interpretation and the outcomes still open after the call.
 
 ## 2.10 Misuzu's family: relation can be inherited before it is chosen
 
@@ -906,6 +910,8 @@ Second, Tsubame explicitly preserves her refusal right. Broadcasting meaning bec
 
 Yu therefore models a useful form of **institutional permeability without identity capture**.
 
+**Yu’s choice of work (2026-11-25).** Before the formal interview, Tsubame asks if Sena has put Yu up to the assignment. Yu says she was asked and is glad to help (`adv_csprt-3-0104_02` L10–34). Afterward Tsubame explicitly says she can decline further work. Yu explains that bringing idols’ appeal to an audience is rewarding and credits Sena with helping her discover that. Only when Sena proposes additional jobs does Yu ask her to go easy. Tsubame adds her encouragement afterward (`adv_csprt-3-0104_03` L56–85,101–128). The [reviewed portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_MASHIRO_YU.md) relates that exchange to the way Yu asks about injuries, hesitates to interrupt a meal and approaches Saki and China when she hears her name. The [evidence appendix](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_MASHIRO_YU_SOURCE_AND_SCOPE.md#speech-music-and-limits) records the separate question of how she sounds in the broadcast.
+
 ## 5.6 Fans, students, and ordinary-course clubs as weak-tie evidence
 
 Unnamed fans and student groups should generally remain collective actors unless individual evidence becomes durable.
@@ -1009,6 +1015,8 @@ Current use:
 > **old unit relations can survive through differentiated professional futures.**
 
 Cross-link (GKM-SAA-074; 2026-11-15): the supporter path is one that Rinami herself considered. Before meeting the Producer she found student-council work for idols enjoyable and fulfilling, and thought that supporting idols might be enough if she never turned professional (M-RINAMI, `adv_cidol-hrnm-3-013_03` L54–L74). In 017_02 her inner speech wonders whether support work suits her better than idolhood, while her body kept training (`adv_cidol-hrnm-3-017_02` L134–L209). Kana's differentiated future is therefore also Rinami's road not taken. The valuation of support stays two-sided: a real vocation and a temptation to self-erasure.
+
+**Kana’s separate choice of work (REVISE) — 2026-11-25.** Kana reports enjoying support for idols and wanting to study stage direction. The evidence for aptitude comes from her account. Her attendance at the festival shows one way to support Rinami now (`adv_dear_hrnm_022` L40–73 and `adv_dear_hrnm_033` L172–218). Rinami’s separate Event 028 report describes similar plans for an unnamed leader; the identification and later professional work are open. The [reviewed portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_FORMER_LOVE_SISTERS_KANA.md) establishes Kana’s own conduct and its written scope. The “later stage-direction path”, “adjacent professional competence” and “differentiated professional futures” earlier in this section therefore describe a stated plan and self-assessed aptitude, not an established career.
 
 ## 7.3 `owl`
 

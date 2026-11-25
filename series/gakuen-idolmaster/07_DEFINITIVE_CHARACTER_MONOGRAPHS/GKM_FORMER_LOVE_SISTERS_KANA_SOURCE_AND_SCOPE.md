@@ -1,0 +1,51 @@
+# Kana’s primary sources and individual audiovisual scope
+
+Companion to [Kana of Love☆しすたぁず](GKM_FORMER_LOVE_SISTERS_KANA.md). The [admitted Source Lock 1.2](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261115.md) pins the Japanese ADV archive to revision 88 at `f8ff5ef7b243f2f7e3b2723def31072874539ca9`. Independent source review checked the nine initial original texts and the Event 028 comparison against the pinned revision. The locators below identify original script lines. [Character qualification](GKM_CHARACTER_QUALIFICATION_AND_READINESS.md)
+
+## The former unit
+
+| Original under `Resource/` | Lines | What the evidence supports |
+|---|---|---|
+| `adv_cidol-hrnm-3-017_02.txt` | 15–32, 39–59, 67–93 | In the song communication for Rinami’s *Garakuta Road*, Rinami explicitly remembers the time before working with the Producer. Kana notices the audience’s poor response at 39. Rinami supplies the explanation, suggests practising the calls with the crowd during the MC, and volunteers to consider it. The student who later invites Rinami to karaoke has a different, generic speaker credit. |
+| `adv_csprt-3-0101_02.txt` | 65–109, 118–135, 143–155 | Mao prompts the former-unit comparison. Rinami describes the matching accessories and differentiates the four fictional sister roles. Her own difficulty playing the energetic one coexisted with affection and poor communication in the group. The later hypothetical pairing is Rinami and Mao. |
+| `adv_dear_hrnm_002.txt` | 52–89 | Rinami says she debuted in her first year, received less popularity than the others and was removed. Her explanation of what made her stand out is her own. |
+| `adv_dear_hrnm_013.txt` | 51–86 | The Producer shows Rinami uploads of old concerts with hostile captions. Rinami recognizes her old hairstyle, nickname and styling. She describes the members’ effort and her own pain at the use of this footage. No individual Kana singing credit is available from that description. |
+| `adv_csprt-3-0064_03.txt` | 83–130 | Rinami tells Sumika about removal, fear of returning to the stage and the earlier sister persona. This is a separate support continuity. It supplies no account by Kana of her exit. |
+| `adv_dear_hrnm_032.txt` | 275–303 | Rinami mentions the old unit’s dissolution while discussing her limited experience on stage since then. The Producer calls the upcoming festival preparation for H.I.F. The chapter gives no order of individual departures or decision-maker for Kana’s transfer. |
+
+## Recognition and a change of direction
+
+| Original | Lines | Speakers and conditions |
+|---|---|---|
+| `adv_dear_hrnm_021.txt` | 294–302 | Two boxes labelled “???” lead into Rinami’s “Kanapoyo?” at 301. The opening of 022 makes identification strong. The two boxes remain anonymous in 021’s speaker field. |
+| `adv_dear_hrnm_022.txt` | 10–38 | Kana’s old nickname for Rinami, account of watching the N.I.A. final in real time and cheering with friends, question about lessons, then ordinary personal name. Rinami identifies it as a vocal lesson. |
+| Same | 40–54 | Kana reports already transferring to General Education. She wants to continue to university **or** vocational school to study 演出. She gives her own estimate of her aptitude for devising stage presentations. Direction, production or staging is a better gloss here than designing scenery. Attending such a school, a production job or past sole directing credit remains unestablished. |
+| `adv_event_028_main-02.txt` | 229–253 | In a separate event Rinami tells Tsubame about the unnamed leader of the unit she belonged to in her first year. That girl transferred to General Education and plans vocational study to become a member of a stage-production staff. The account closely resembles Kana’s direct statement. The speaker does not name the leader or the unit. Leadership and the vocational plan cannot be entered as confirmed facts about Kana. This is Rinami’s reported comparison, not a second Kana utterance. |
+| `adv_dear_hrnm_022.txt` | 62–77, 87–109, 144–182 | Rinami recognizes a new dream. Kana respects her persistence, starts to ask her to keep going for Kana too, retracts that formulation and encourages her at H.I.F. Later Rinami compares herself with Miho and Yuka and asks about her own prospect of becoming a professional. Her discussion of a changing ideal with Mao belongs to that later conversation. |
+
+## Showing up
+
+| Original | Lines | Speakers and conditions |
+|---|---|---|
+| `adv_dear_hrnm_033.txt` | 163–180, 190–219, 225, 267–274 | Kana uses Rinami’s nickname. Rinami notices the banner. Kana says former members came together after hearing of Rinami’s entry. Rinami supplies Miho and Yuka’s names, Kana confirms their attendance, speaks of having quit as idols and reassures her of their continuing support. The emcee names the Hatsuboshi Older-Sister Idol Festival. Individual planning, payment and banner-making are uncredited. |
+| Same | 496–501, 599–602 | Rinami thanks staff, participants and spectators. A later player choice concerns the Producer’s words after the show. Neither is a second personal declaration by Kana. Her exchange precedes the choice. |
+
+The Dear meetings provide the clearest chronology. The song-card memory and two support disclosures are separately situated evidence about the former unit. They support comparison with Kana’s own account. They give no firm sequence for the members’ respective departures, or release-to-story ordering for the cards.
+
+## Individual audiovisual sufficiency
+
+**Individual Gate E at the written boundary.** The independently reviewed portrait satisfies the requirement for Kana’s past membership, present support and stated future plans within this text-led scope. Her own speaking register is recoverable in writing. Her former work as a performing idol makes an individual musical baseline a real question. The admitted corpus identifies neither a Kana solo nor an individually assigned former-unit singing passage. The attributed music in the song-card pathway is Rinami’s. Kana’s voice quality, acting tempi, dance execution, a distinctive sung identity and any professional stage direction remain unadjudicated. A later identifiable and timed Kana performance would materially enlarge this portrait. The published qualification decision, the other characters’ ongoing work and project Gate F are separate decisions.
+
+The project’s source and queue check yields three distinct results.
+
+- **Speaker evidence.** Across all 4,052 pinned `Resource/*.txt` objects, a search for her exact speaker credit, the group name and the former members’ nicknames returned seven files. Only three give her a named box. There are 14 in Dear 022, six in Dear 033 and one in the card. No `[voice]` event starts in any of those 21 message intervals, or in the two anonymous lead-in intervals. Nearby authored voice events are for Rinami. This is a check on the scripts’ commands, not a listening test. It cannot establish that the full scene mix falls silent, that all possible editions omit recorded voice or that a stage audience contains no sound from Kana.
+- **Existing AV.** Rinami’s Phase 3 R2 manifest identifies complete source editions for the song communication (`RINAMI-C05`), the story about old footage (`RINAMI-D02`), and her later Dear compilations (`RINAMI-D03` and `RINAMI-D04`, exact registered `SRC-0307` and `SRC-0308`). The speaker-specific scopes in the published Rinami close readings concern Rinami. Her historic stage image, the sound of her songs, the later solo *Garakuta Road* and the festival audience response supply no separable voice or sung part for Kana. The card’s written cue coordinates and Dear script times have not been equated to compilation timecodes. No additional playback was performed for this portrait.
+- **Issue-specific requests.** The AV verification queue at lines 211–234 asks for Rinami’s complete Dear, songs and song communications. The 224-key Phase 4/5 crosswalk has a genuine P0 at queue line 763, support 3-0064 part 03, *いつも頑張ってるね。*. The requested performance is Sumika’s dance fear and Rinami’s disclosure of the former unit. Neither the pinned scene nor the request credits Kana with speech there. The crosswalk found no paired cue match for that issue. Screening the named issues and the Rinami baseline located no personal P0 or central P1 requiring Kana’s own voice or performance to settle this portrait. A claim about how she sounds or how her group performed would require a new, attributable source and an issue-specific check.
+
+**Falsification tests.** Loss of interest in idols conflicts with her reported choices and her later attendance. Continued longing to perform is possible, but she does not say that she wants to resume or that she secretly resents Rinami. She did begin an appeal that could have burdened her friend. Its withdrawal gives stronger evidence about this particular friendship than a general rule about selflessness. Another director credited on an old show would be entirely compatible with the original account of her interest. A future school enrollment, production credit or named performance would resolve different outstanding questions.
+
+The primary-source review and authored-event test support the distinction between a capable observer, a prospective student and a professional director. No reviewer should substitute one for another. For the governance basis, consult [Multi-Document Synthesis Architecture V2, Gate E](../00_ANALYSIS_FRAMEWORKS/GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md#gate-e--audiovisual-sufficiency), the [character qualification record](GKM_CHARACTER_QUALIFICATION_AND_READINESS.md), and [repository policy §5.5.1](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#551-self-contained-character-monograph-standard).
+
+## Acceptance at this boundary
+
+Independent review passed self-containment and source fidelity for the written portrait and found individual Gate E satisfied within that scope. The nine initial pinned objects and the Event 028 comparison were checked. The latter report leaves the leader’s identity open. The [AV verification queue](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md) retains Rinami’s separate performance assignments.
