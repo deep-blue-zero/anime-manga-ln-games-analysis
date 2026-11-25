@@ -10,13 +10,17 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 title: Gakuen Idolmaster V2 — Fujita Kotone Phase-3 Audiovisual Revision Addendum
-version: '2.1'
+version: '2.2'
 created: '2026-08-15'
-revised: '2026-11-15'
+revised: '2026-11-25'
 revision_note: 'v2.1, source-to-analysis audit 2026-11-15: STRENGTHEN §5 with a textual naming of performed reciprocity (GKM-SAA-186) and REVISE §6.1 by narrowing the refusal/autonomy OPEN with Source Lock 1.1 text (GKM-SAA-052); textual routing only, no new audiovisual inspection'
 ---
 
 # GKM CORE 03 — FUJITA KOTONE AUDIOVISUAL REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+Dear 035–037 and the song-communication controls qualify the older voice and financial-deflection claims. The late D036 money turn lies beyond the earlier comparison window. The *Yellow Big Bang!* story includes both deflection after sincerity and a countercase of gratitude that closes without deflection. Producer scoring in the Re;IRIS communication is his own estimate. The playful *Kiramekirari* demonstration has backing and supplies no proof of off-key singing. Apply these revisions to KOTO-C13/C22/C23 and the vocal-development evidence. The statement that Kotone regulates the terms of the Dear 037 reply survives at the script layer. The current paired first-choice print and masked voice cannot establish matching branch performance or romance. See [current recordings and dispositions](../../../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md).
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Two dated notes route later textual evidence into this addendum. §5 gains a STRENGTHEN note (GKM-SAA-186), and §6.1 gains a REVISE note that narrows the OPEN (GKM-SAA-052). The v2.0 transitions, the voice model and the counterpressures are unchanged. No audiovisual evidence was inspected for this revision; the optional AV checks are routed to the Carbon observation queue.
 

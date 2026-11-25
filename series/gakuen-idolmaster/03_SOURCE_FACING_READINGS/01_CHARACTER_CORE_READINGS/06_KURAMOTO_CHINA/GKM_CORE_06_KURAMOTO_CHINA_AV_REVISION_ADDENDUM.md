@@ -4,7 +4,7 @@ artifact_type: claim_revision_ledger
 scope: CHARACTER_KURAMOTO_CHINA_TEXTUAL_CORE_AV_REVISION
 character: Kuramoto China / 倉本千奈
 generation: V2
-version: "2.1"
+version: '2.2'
 release: R1
 status: canonical
 source_boundary: AV revision of GKM_CORE_06_KURAMOTO_CHINA.md based on the complete Phase-3 audiovisual packet
@@ -12,12 +12,16 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: '2026-08-21'
-revised: "2026-11-15"
+revised: '2026-11-25'
 revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (REVISE, narrowing two open items with textual A1 evidence; no AV claim changed): the Producer row and the open items on family resistance and Producer refusal carry dated narrowing notes (GKM-SAA-015, GKM-SAA-063)"
 title: GKM Core 06 — Kuramoto China AV Revision Addendum
 ---
 
 # GKM CORE 06 — KURAMOTO CHINA AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+CHINA-C34 still rests on China's own scripted result behavior. In the Produce 003 selection failure the actor is masked before three narrator messages. The complete recording matches those three to Kanae-coded voice assets. The script role stays narration and the in-world identity and “whisper” remain OPEN. The fan Short SRC-0168 is outside the canonical acting baseline. Preserve CHINA-C09 and CHINA-R88-C01 as role- and track-specific when comparing the Episode 0 household exchanges with later reciprocal support. See [the current Carbon scope](../../../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_CHINA_CARBON_AV_UPDATE_20261125.md).
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** The unversioned addendum of 2026-08-21 is treated as v2.0. Version 2.1 appends dated narrowing notes to the Producer row and to two items under *Claims not closed by the AV packet*, using textual A1 evidence integrated into the parent core v2.1 §18 and §19 (GKM-SAA-015, GKM-SAA-063). The original wording of each row and item is retained before its note. No audiovisual evidence was inspected and no AV formulation is changed.
 

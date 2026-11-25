@@ -509,7 +509,7 @@ This matters because Saki's identity was historically built around being the unb
 
 Kotone identifies the feeling before Saki does.
 
-Saki's reaction is not possessive sabotage. It is shame at vulnerability. She says she cannot tell Ume that she is lonely because she cannot show Ume a “weak older sister”; in Saki's logic, if anyone is going to miss the other, Ume should miss Saki.
+Saki admits her loneliness to Kotone and says she cannot tell Ume, who must never see a “weak older sister.” She would prefer to be the sister who is missed. Her selective disclosure is clear in the exchange. Shame, pride and other possible motives remain interpretations. [Paired review](../../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 The event therefore reveals a residual constraint inside Saki's mature care:
 
@@ -584,9 +584,9 @@ This is unusually clean reciprocity because neither peer is present to perform f
 
 It revises high-friction banter from “they tolerate one another” toward **mutual professional respect that both are embarrassed to state directly**.
 
-## 5.6 Saki and Ume convert separation anxiety into rivalry play
+## 5.6 Saki and Ume compare their separate lives
 
-At the end Saki tells Ume how much fun she had with Kotone's sister. Ume responds by emphasizing how much fun she had with her own friends. They become jealous of each other's independent day and immediately convert that jealousy into playful competitive boasting.
+At the end Saki tells Ume how much fun she had with Kotone's sister. Ume responds by emphasizing how much fun she had with her own friends. The later paired recorded evidence supports reciprocal exaggeration during the comparison. Part 2 explicitly gives Saki loneliness as she speaks to Kotone. The performance in part 5 does not establish the same motive for Ume. Its end shows Saki encouraging Ume to have further fun with her friends. [Recorded part 2 and 5 limits](../../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md).
 
 Saki ultimately tells Ume to go have even more fun with her friends.
 
@@ -596,11 +596,11 @@ The result is not emotional detachment. It is a new form of sibling bond in whic
 
 > **Healthy separation does not require pretending that separation feels good.**
 
-Saki, Kotone, Temari, and Ume all encounter the discomfort of another person becoming less dependent. The event's mature answer is neither enclosure nor indifference: preserve connection while allowing the other person to acquire skills, friends, memories, and pleasures elsewhere.
+Saki voices the discomfort of separation. Kotone and Temari see the youngest participant exercise preferences and acquire a new skill with someone else's help. Ume describes her own social plans and joins in the comparison with Saki. The event explores how family and friends can remain close while making room for skills, friends, memories and pleasures elsewhere.
 
 ### Relationship promotions
 
-- **Saki ↔ Ume — STRENGTHEN:** active support for Ume's independent peer world plus acknowledged-but-hidden separation anxiety.
+- **Saki ↔ Ume — STRENGTHEN:** active support for Ume's independent peer world and selective disclosure of loneliness by Saki.
 - **Temari ↔ Kotone — STRENGTHEN:** third-party disclosures establish reciprocal professional admiration beneath blunt peer friction.
 - **Temari ↔ Kotone's younger sister — PROMOTE:** short but substantive teacher/child relation; Temari successfully adapts a remembered pedagogy despite believing she is bad with children.
 - **Kotone ↔ younger sister — STRENGTHEN:** family provision is reciprocated through pride in Kotone's idol identity, not only gratitude for material care.
@@ -612,13 +612,13 @@ Saki, Kotone, Temari, and Ume all encounter the discomfort of another person bec
 - Temari's remembered `りんはぁ……` sharply lowers age/register and is valuable evidence for the embodied intimacy of the earlier Rinha relation.
 - Saki's repeated self-reference through `お姉ちゃん` shows role identity operating even when Ume is not physically present.
 
-### AV requests
+### Event 016 audiovisual requests and results
 
-**P0:** `adv_event_016_main-03` — Temari's Rinha memory and immediate repetition of the same instruction to Kotone's sister.
+**P0, part 03.** Temari remembers Rinha teaching her and applies the instruction to Kotone's sister. The listening coverage of the recalled voice and distinct present-day teaching is recorded with the matching scene. [Current Rinha AV reading](../../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md)
 
-**P1:** `adv_event_016_main-02` — Saki realizing she is lonely but refusing to show a “weak older sister.”
+**P1, part 02.** The paired recording supports Saki's direct admission to Kotone and her stated limit with Ume. What drives her need to keep that limit remains open. [Paired review](../../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md)
 
-**P1:** `adv_event_016_main-05` — Saki/Ume competitive jealousy over separate friend outings; test whether the scene plays as insecurity, affection, rivalry, or all three.
+**P1, part 05.** The paired recording supports a playful contest over whose outing was more fun and Saki's encouragement of Ume's separate plans. Ume's motive for protesting and whether the next outing takes place remain open. [Verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md)
 
 ---
 
@@ -1278,7 +1278,7 @@ The following edges are strong enough to enter the cumulative relationship ledge
 | Rinami ↔ China | E015 | senior/junior relation becomes explicitly reversible during live crisis |
 | Rinami ↔ Lilja | E015 | Rinami supplies opportunity she once lacked; Lilja accepts without relying on Sumika |
 | China ↔ Lilja | E015 | direct peer collaboration in planning, travel, stage adaptation, and crisis performance |
-| Saki ↔ Ume | E016 | autonomous friend worlds are actively supported; separation anxiety persists without enclosure |
+| Saki ↔ Ume | E016 | Saki actively supports separate social plans and acknowledges loneliness privately to Kotone |
 | Temari ↔ Kotone | E016 | third-party testimony confirms reciprocal professional admiration beneath antagonistic banter |
 | Temari ↔ Rinha | E016 historical | Rinha's coaching language persists as Temari's later teaching repertoire |
 | Hiro ↔ Sumika | E018 | fear of being seen through becomes reciprocal disclosure and planned shared play |
@@ -1419,7 +1419,7 @@ Phase 6 should preserve her agency rather than using “Kotone's family” as a 
 
 # 16. Audiovisual verification queue additions
 
-Priority reflects interpretive leverage, not presumed visual spectacle.
+These are original commissioning priorities and discriminators. See the [current Event 016 findings](#event-016-audiovisual-requests-and-results) for the later paired results.
 
 | priority | source | discrimination target |
 | --- | --- | --- |

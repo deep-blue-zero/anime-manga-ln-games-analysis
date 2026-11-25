@@ -54,7 +54,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`silent-witch`](characters/index/silent-witch.md) | 4 |
 | [`solo-leveling`](characters/index/solo-leveling.md) | 5 |
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
-| [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
+| [`the-idolmaster`](characters/index/the-idolmaster.md) | 29 |
 | [`three-days-of-happiness`](characters/index/three-days-of-happiness.md) | 5 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
 | [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 52 |
@@ -276,6 +276,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Hisakawa Hayate](characters/index/the-idolmaster.md#hisakawa-hayate) | Cinderella Girls mobile games | `the-idolmaster:hisakawa-hayate@cinderella-girls-mobile-games` | — |
 | [Hisakawa Nagi](characters/index/the-idolmaster.md#hisakawa-nagi) | Cinderella Girls mobile games | `the-idolmaster:hisakawa-nagi@cinderella-girls-mobile-games` | — |
 | [Historia Reiss](characters/index/attack-on-titan.md#historia-reiss) | Attack on Titan manga | `attack-on-titan:historia-reiss@manga` | — |
+| [Hiwatari Kanae](characters/index/the-idolmaster.md#hiwatari-kanae) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:hiwatari-kanae@mobile-game` | 氷渡香名江 |
 | [Hojo Karen](characters/index/the-idolmaster.md#hojo-karen) | Cinderella Girls mobile games | `the-idolmaster:hojo-karen@cinderella-girls-mobile-games` | — |
 | [Homare](characters/index/shine-post.md#homare) | SHINE POST television anime | `shine-post:homare@television-anime` | 虎渡誉 |
 | [Honami](characters/index/project-sekai.md#honami) | Project SEKAI game — Leo/need | `project-sekai:honami@game` | — |
@@ -315,6 +316,8 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Jougasaki Mika](characters/index/the-idolmaster.md#jougasaki-mika) | Cinderella Girls mobile games | `the-idolmaster:jougasaki-mika@cinderella-girls-mobile-games` | — |
 | [Jougasaki Rika](characters/index/the-idolmaster.md#jougasaki-rika) | Cinderella Girls mobile games | `the-idolmaster:jougasaki-rika@cinderella-girls-mobile-games` | — |
 | [Julius Juukulius](characters/index/re-zero.md#julius-juukulius) | Re:Zero main light novel | `re-zero:julius-juukulius@light-novel` | ユリウス・ユークリウス |
+| [Juo Kunio](characters/index/the-idolmaster.md#juo-kunio) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:juo-kunio@mobile-game` | 十王邦夫 |
+| [Juo Ryuusei](characters/index/the-idolmaster.md#juo-ryuusei) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:juo-ryuusei@mobile-game` | 十王龍正 |
 | [Jūō Sena](characters/index/the-idolmaster.md#juo-sena) | Gakuen Idolmaster mobile-game Phase-3 core | `the-idolmaster:juo-sena@mobile-game-phase-3-core` | 十王星南 |
 | [Kagamihara Nadeshiko](characters/index/yuru-camp.md#kagamihara-nadeshiko) | Japanese manga | `yuru-camp:kagamihara-nadeshiko@manga` | 各務原なでしこ |
 | [Kairi Okayasu](characters/index/peach-girl.md#okayasu-kairi) | Japanese manga | `peach-girl:okayasu-kairi@manga` | 岡安浬; Okayasu Kairi |
@@ -481,6 +484,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Nazuna Ayase](characters/index/chiramune.md#nazuna-ayase) | Chiramune light novel | `chiramune:nazuna-ayase@light-novel` | — |
 | [Nene](characters/index/watayuri.md#nene) | Japanese manga continuity | `watayuri:nene@manga` | Saionji; Nishidera Nene; Saionji Nene; 西園寺; 西園寺寧々; 西寺寧々 |
 | [Nene](characters/index/project-sekai.md#nene) | Project SEKAI game — Wonderlands×Showtime | `project-sekai:nene@game` | — |
+| [Neo Asari](characters/index/the-idolmaster.md#neo-asari) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:neo-asari@mobile-game` | 根緒亜紗里 |
 | [Ninomiya Asuka](characters/index/the-idolmaster.md#ninomiya-asuka) | Cinderella Girls mobile games | `the-idolmaster:ninomiya-asuka@cinderella-girls-mobile-games` | — |
 | [Nishikigi Chisato](characters/index/lycoris-recoil.md#nishikigi-chisato) | Lycoris Recoil television anime | `lycoris-recoil:nishikigi-chisato@television-anime` | 錦木千束 |
 | [Nitta Minami](characters/index/the-idolmaster.md#nitta-minami) | Cinderella Girls mobile games | `the-idolmaster:nitta-minami@cinderella-girls-mobile-games` | — |

@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Relationship State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.16"
+version: "2.17"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit corrections; RINHA-AV-20260911 remains open"
+last_updated: "2026-11-25 — SRC-0093 priority support scene adjudication; Phase 6 Rinha completion at the admitted boundary"
 status: "active; cumulative through Phase 6 Systems I + II and Kaya Rinha evidence matrix"
 ---
 
@@ -515,7 +515,7 @@ Phase-4 relationship hypothesis promoted for Phase 6 testing: relation produces 
 | Sena ↔ Tsubame | **STRENGTHEN HISTORICAL** | `0077` Sena remembers planting watermelon seed in Tsubame's home garden; `0079` Tsubame openly admires Sena as fan while preserving rivalry | childhood ordinary access and mature rivalry/fandom belong in one longitudinal dyad model |
 | Hiro ↔ China | **PROMOTE** | `0068` both explicitly name friendship and Hiro says she wants them to become closer; staged-fight experiment fails because genuine grievance is absent | social curiosity and affectionate experimentation are core to this friendship; do not force romance from playful `痴話げんか` wording |
 | Hiro ↔ Lilja | **PROMOTE** | `0053` joint training differentiates motives; private-room access; Lilja researches progging calibrated to both bodies | shared weakness becomes reciprocal pacing, not a generic “weak girls” category |
-| Tsubame ↔ Hiro | **PROMOTE** | `0056` Tsubame constrains Hiro's desired severity, gives exact body assessment, accepts mutual non-stereotypical-idol comparison | strict mentorship and identity recognition coexist |
+| Tsubame ↔ Hiro | **PROMOTE** | `0056` Tsubame constrains Hiro's desired severity, gives exact body assessment, accepts mutual non-stereotypical-idol comparison | strict mentorship and identity recognition coexist. [Later attribution and evidence limits](#tsubame-support-scene-qualifications--2026-11-25). |
 | Tsubame ↔ Kotone | **PROMOTE** | `0079` technical dance correction + sleep/health inspection + early lesson termination; Kotone complains but thanks her | relationship can carry intrusion because Kotone reads the professional-care motive as legitimate |
 | Rinami ↔ Kotone | **PROMOTE** | `0058` shared older-sister fatigue; Rinami temporarily lets Kotone be cared for; Kotone returns handmade gift and accepts room hospitality | care is debt-free role reversibility rather than takeover |
 | China ↔ Misuzu | **PROMOTE** | `0051/0074` tea posture, afternoon-tea etiquette, processing knowledge, relaxed council tea plans | reciprocal cultural expertise replaces one-way mentor coding |
@@ -578,8 +578,8 @@ Phase-4 relationship hypothesis promoted for Phase 6 testing: relation produces 
 | Kotone ↔ Misuzu | **PROMOTE** | Kotone rejects deceptive paid-lunch proxy, then cooks jointly with Misuzu and preserves provenance | brokerage / ethical collaboration dossier |
 | Kotone ↔ Temari ↔ Misuzu | **MAJOR PROMOTE** | Kotone carries inaccessible care across a blocked dyad; reverse jealousy shows both historical partners track Kotone's proximity | intermediary architecture becomes first-class Phase-6 variable |
 | Saki ↔ Temari ↔ Kotone | **MAJOR STRENGTHEN** | explicit gratitude + reciprocal voice/dance/fanservice/conditioning expertise; stable friendship-label disagreement; explicit unit-incompatibility | model as friendship through reciprocal specialization, not latent unit |
-| Tsubame ↔ China | **MAJOR PROMOTE** | custom paperwork correction, idol repetition, academic worksheets, hidden late-night preparation | severe/high-effort mentorship dossier |
-| Tsubame ↔ Kotone | **PROMOTE** | observes workplace strain, waits after shift, gives recovery drink, offers tutoring, recognizes/accepts tailored hobby gift | work/school boundary-care dossier |
+| Tsubame ↔ China | **MAJOR PROMOTE** | custom paperwork correction, idol repetition, academic worksheets, hidden late-night preparation | severe/high-effort mentorship dossier. [Later attribution and evidence limits](#tsubame-support-scene-qualifications--2026-11-25). |
+| Tsubame ↔ Kotone | **PROMOTE** | observes workplace strain, waits after shift, gives recovery drink, offers tutoring, recognizes/accepts tailored hobby gift | work/school boundary-care dossier. [Later attribution and evidence limits](#tsubame-support-scene-qualifications--2026-11-25). |
 | Sena ↔ Hiro | **MAJOR PROMOTE** | Sena cannot classify conventional talent yet is moved by Hiro's live; proposes institutional support as popularity outpaces readiness | producer-model anomaly dossier |
 | Sumika ↔ Lilja | **MAJOR STRENGTHEN** | Lilja reproduces Sumika's old rescue strategy during injury-related distress; gaming/fandom domesticity continues | care-direction reversal / trauma-support dossier |
 | Rinami ↔ Sumika | **PROMOTE** | Sumika discloses fear of dance; Rinami discloses her own first-year post-unit stage fear without claiming equivalence | vulnerable-support / analogous-wound dossier |
@@ -916,3 +916,28 @@ Rows above that carried a demonstrated error, or a question the audit closed, no
 | Rinami ↔ Sena | C1 @ D-RINAMI 029, 036; E025 | bears on the Phase-3 row's later test: the Dear 029 attempt at `星南ちゃん` is completed at the summit, after `ありがとう、ございます` (Dear 036 L434), at L445; in E025 Rinami stops Sena and Tsubame in plain register (`ふたりとも、喧嘩はダメだよ？`) | `adv_dear_hrnm_036` L434, L445; `adv_event_025_main-01` L77 | GKM-SAA-223; CORE-Rinami §22, OQ-RINAMI-08; register details belong to the voice ledger |
 
 **Naming (GKM-SAA-261).** `Tsukika` in the 2026-08-16 and 2026-08-18 Tsubame sections above is 白草月花, romanized `Gekka` on actor code `sgka` (`adv_dear_atbm_004` L186, L200), the form now used in CORE-Tsubame and already used for her elsewhere in this ledger. The two headings are kept unchanged so that their anchors stay stable.
+
+## Sena and Tsubame — layered affection in a separate support state
+
+`adv_csprt-3-0086_03` L110–182 gives Tsubame’s question, Sena’s definition and disclaimer, her stand-in joke, Tsubame’s objection, and then Sena’s explicit liking. In `SRC-0093` circa 208–259.413 s the contrast between the reveal, the quieter qualification and the warm last address is audible. Tsubame’s final recoil and warm underscoring establish weight and performative asymmetry. **STRENGTHEN** the instance of childhood-friend affection alongside teasing, **PRESERVE** the explicit qualification and **OPEN** the romantic category. This support exchange is a specific relationship state. Distinct title and professional outcomes stay in their own routes. [Playback and counterreadings](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Recorded Event 016 parts 2 and 5 — 2026-11-25
+
+E016 parts 2 and 5 specify what the sisters permit each other to know. Saki gradually admits loneliness to Kotone and expressly says she is unwilling to appear weak to Ume. The separate conversation preserves competitive boasting, Saki's support for Ume's friendships, and Ume's assertion that she will use the tickets with her peers. The causal source of Ume's affect and its relation to Saki's admitted feeling remain OPEN. [Recorded limits](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Tsubame support-scene qualifications — 2026-11-25
+
+The four observations refine the Phase 5 relationship rows at their own support scopes. The original promotion labels retain their historical roles.
+
+| Relationship | Current evidence and limit |
+| --- | --- |
+| Tsubame ↔ Hiro | In `2-0056_01` Tsubame orders rest after noticing Hiro’s changed color and offers water. Hiro’s later fragmented request asks for stricter treatment. Whether she drinks or recovers is open. Tsubame’s assessment of Hiro’s physical condition and suitability and their subsequent agreement about coaching belong to part 02. |
+| Tsubame ↔ Kotone | In `3-0070_03` Tsubame says their meeting at the end of the shift was by chance and offers a drink and general consultation. Kotone requests tutoring and offers her a gift she had saved. Tsubame recognizes it, verbally accepts and sets a library meeting for the next day. Deliberate waiting and the gift’s influence on that appointment remain open. |
+| Tsubame ↔ China | In `3-0062_03` Tsubame brings a dedicated worksheet and invokes council responsibility. China calls her teaching kind. Sena says it appears that Tsubame made the sheet herself until late. Rinami privately takes her later reaction as embarrassment. Each account has its own speaker. |
+| Tsubame ↔ Saki | In `3-0085_03` Saki proposes combining their training methods. Tsubame later says they may have packed in too much. Each describes a different benefit from training together. Their audition rivalry remains explicit. |
+
+[Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Tsubame and Lilja’s shared fandom — recorded scope, 2026-11-25
+
+**STRENGTHEN the two reciprocal recommendations and REVISE the scope of the historical Phase 5 trust claim.** Both offer anime recommendations. Tsubame reconsiders Lilja’s choice and calls them fellow enthusiasts. Tsubame starts the cinema excuse and Lilja supports it. Broad trust, exclusivity and relationship category remain open. [Support 3-0082 readback](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).

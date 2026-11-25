@@ -10,14 +10,14 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-10"
+last_updated: "2026-11-25"
 ---
 
 # Hataya Misuzu — audiovisual analysis
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
-Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.
+Start with the [current audiovisual findings](GKM_MISUZU_CARBON_CHARACTER_RECONCILIATION_20261125.md). Read the later scene-qualified observations and corrections alongside the September rebuild. Start with the newer receipt for Rinha-related voice, edition and timing disputes. Use the textual core and AV addendum together for the character reading.
 
 | Purpose | Files |
 | --- | --- |

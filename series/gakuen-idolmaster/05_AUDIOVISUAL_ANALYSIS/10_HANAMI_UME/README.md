@@ -15,6 +15,8 @@ last_updated: "2026-11-12"
 
 # Hanami Ume — audiovisual analysis
 
+Current claim wording and item-level completion are recorded in the [Carbon playback successor](GKM_UME_CARBON_PLAYBACK_SUCCESSOR.md). The baseline and Phase 3 completion report retain their original inspection boundary.
+
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
 Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.

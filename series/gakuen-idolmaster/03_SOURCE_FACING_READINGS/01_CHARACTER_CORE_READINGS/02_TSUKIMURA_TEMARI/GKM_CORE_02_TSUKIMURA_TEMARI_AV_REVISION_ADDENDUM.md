@@ -7,13 +7,17 @@ version: "2.1"
 phase: "3 — Character-Core Readings / Audiovisual Baseline"
 character: "Tsukimura Temari / 月村手毬"
 created: "2026-08-15"
-revised: "2026-11-15"
+revised: '2026-11-25 — Carbon write-through'
 revision_note: "Source-to-analysis audit 2026-11-15 corrections: REVISE of the Dear 035–037 address attribution in §6 and REVISE (qualification) of the self-love evidence in §10; no new AV observation."
 status: "canonical revision layer; original textual core remains preserved"
 revises: "GKM_CORE_02_TSUKIMURA_TEMARI.md"
 ---
 
 # TSUKIMURA TEMARI — AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+E001-02 uses Sumika's higher, breathier imitation, beginning after the score has receded. Temari's 16 horizontal bars are an actual displayed reaction. Her later reformulation and proposed class nicknames have distinct intervals and do not prove what she thought at the earlier beat. In E016-03 Rinha's remembered voice and Temari's present lesson provide different speakers and roles. Dear 037's written bars, faint visual rendering and audible reply likewise remain separate. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/02_TSUKIMURA_TEMARI/GKM_TEMARI_CARBON_CHARACTER_RECONCILIATION_20261125.md). Earlier accounting and source locks below describe their own revisions.
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Two textual corrections from the source-to-analysis audit; no audiovisual material was re-inspected. §6: the given-name step in Dear 037 is the Producer's, not Temari's request (REVISE; GKM-SAA-006). §10: the self-love evidence is qualified by mediated belief, a pre-verdict U1 line and a rank-independent P1 anchor; unconditionality stays unresolved (REVISE; GKM-SAA-046). Earlier wording is quoted in each dated note.
 

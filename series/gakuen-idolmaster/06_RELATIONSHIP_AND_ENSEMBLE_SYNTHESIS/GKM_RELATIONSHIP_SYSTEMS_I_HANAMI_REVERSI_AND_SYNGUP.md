@@ -5,23 +5,33 @@ analytical_role: relationship_systems_synthesis
 scope: RELATIONSHIP_SYSTEMS_I_HANAMI_REVERSI_AND_SYNGUP
 generation: V2
 status: canonical
-source_boundary: 'GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5: six governing character-core readings (Saki, Ume, Lilja, Sumika, Temari, Misuzu), four canonical numbered-event readings, eight canonical support-card readings covering 498/498 support scripts / 9,777/9,777 support messages, cumulative relationship/continuity/character/source-locator infrastructure, and already-integrated audiovisual findings. Kaya Rinha is treated only through distributed direct/mediated evidence available before her mandatory Phase-6 dedicated crosswalk/evidence/dossier branch. The 2026-11-07 correction (§3.5.1) additionally re-reads Unit Story 01 Episode 01 Part 03 and Episode 04 Parts 04–25 and Saki Dear 009/022 from the A1 raw scripts; these sources were already inside the Saki core''s Phase-3 scope, so no new source object is admitted.'
+source_boundary: 'GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5: six governing character-core readings (Saki, Ume, Lilja, Sumika, Temari, Misuzu), four canonical numbered-event readings, eight canonical support-card readings covering 498/498 support scripts / 9,777/9,777 support messages, cumulative relationship/continuity/character/source-locator infrastructure, and already-integrated audiovisual findings. The original generation treats Kaya Rinha through the pre-dossier distributed direct/mediated evidence. The dated 2026-11-25 revision draws on the Phase 6 dossier at Source Lock 1.2, as specified in the body. The 2026-11-07 correction (§3.5.1) additionally re-reads Unit Story 01 Episode 01 Part 03 and Episode 04 Parts 04–25 and Saki Dear 009/022 from the A1 raw scripts; these sources were already inside the Saki core''s Phase-3 scope, so no new source object is admitted.'
 source_lock: GAKUMAS V2 Source Lock 1.0
 source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
 source_revision: 32
 governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
-version: '2.1'
+version: '2.2'
 created: '2026-08-24'
-revised: '2026-11-15'
-revision_note: 'Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): track-scoped and evidence-routed additions to the Hanami (§3), REVERSI (§4) and SyngUp (§5, one coordinated pass incl. new §5.2.1 and §5.9.2) systems, romance-coded material recorded as bounded and OPEN, and corrected §12 routing; earlier formulations kept recoverable'
+revised: '2026-11-25 — Carbon write-through'
+revision_note: '2026-11-25. Admits the distributed Rinha dossier for the post-unit relationship, distinguishing the café disagreement, the return promise and the prospective dissolution live. Earlier revision: Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): track-scoped and evidence-routed additions to the Hanami (§3), REVERSI (§4) and SyngUp (§5, one coordinated pass incl. new §5.2.1 and §5.9.2) systems, romance-coded material recorded as bounded and OPEN, and corrected §12 routing; earlier formulations kept recoverable'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM RELATIONSHIP SYSTEMS I — HANAMI, REVERSI, AND SYNGUP
+
+## Recorded comparison note — 2026-11-25
+
+The matched episode 7 and episode 21 witnesses keep Saki's private bluff and direct concession to Ume at their separate scenes. The latter does not undo the earlier fear and the contest resumes on terms the sisters can both own. [Saki recording update](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_SAKI_CARBON_PLAYBACK_SUCCESSOR.md).
+
+REVERSI's Dear 027 proposal is addressed by Lilja to Sumika. Treat the merged Dear 037 decision and later still condition separately. Neither proves a native performance variation or a romantic label. [Lilja branch evidence](../05_AUDIOVISUAL_ANALYSIS/05_KATSURAGI_LILJA/GKM_LILJA_CARBON_AV_UPDATE_20261125.md).
+
+The accepted Rinha scene record retains a distinction between paid-forward coaching, present refusal and ordinary access. Later voice and scene limits are directly accessible in the [Rinha character AV home](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md).
+
+> **Revision v2.2, 2026-11-25.** Admits the distributed Rinha dossier for the post-unit relationship, distinguishing the café disagreement, the return promise and the prospective dissolution live. Source Lock 1.0 governs the original analysis. The dated additions use separately admitted revision 86 witnesses where named and the [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) at the revision 88 boundary. Earlier statements deferring the branch record the state of work at their original dates.
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Applies the source-to-analysis audit's post-review change plan to this synthesis; each addition is dated and carries its audit ID (`GKM-SAA-nnn`, or `HSCA-nnn` for historical-audit residuals). Hanami: §3.1, §3.2, §3.3 routing note, §3.5 (formula revised; earlier wording quoted in place), §3.5.1 (speaker of `1勝1敗` corrected; U1 Ume home), §3.7, §3.8, §3.10 rows, §3.11 rule 9. REVERSI: §4.1, §4.3, §4.7, §4.8, §4.10, §4.11, §4.12 rows, §4.13 rules 1–2. SyngUp, edited in one pass: scope tags in §5.2, new §5.2.1, notes in §5.3, §5.5, §5.6, §5.8, §5.9.1 (including the Rinha-crosswalk routing note), new §5.9.2 (GKM-SAA-004, with its severity dissent), §5.12, §5.13, §5.16 rows. Also §1.3 (owner policy on romance-coded material: record, bounded, OPEN), §2, §6.1, §6.6, §6.8, OPEN-RS1-08/09 and §12 (two support-series locators corrected; routes added). Sources are Source Lock 1.0 unless marked SL1.1 or SL1.2; the front-matter `source_boundary` is unchanged. The principal thesis stands. This is the file's first explicit `version` key; the 2026-11-07 and 2026-11-12 states carried none.
 >
@@ -411,6 +421,8 @@ But mature modeling must not confuse **broad permission with unlimited permissio
 Events and support stories repeatedly test whether the sister bond can tolerate external friendship.
 
 Saki experiences real jealousy as Ume becomes close to Lilja, student-council peers, and others. Yet the dominant behavior is not enclosure. She often supports the new relation, obtains information about Ume's independent life, or converts loneliness into rivalry, teasing, or renewed contact.
+
+The [paired Event 016 windows](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md) identify Saki's gradual admission of loneliness to Kotone and her refusal to show that vulnerability to Ume. The later exchange contains reciprocal exaggeration and an explicit invitation to enjoy independent friendships. Saki's attachment is clear and Ume's motives are less determinate. Her own statement of a planned outing makes her an active participant in the separation.
 
 Ume likewise acquires friends and models who do not route through Saki. Rinha becomes a non-family rival/teacher. China and Hiro become ordinary friends and later technical/philosophical equals. Misuzu and Sena provide alternative idol logics.
 
@@ -1107,6 +1119,8 @@ This is the mature SyngUp form currently supported by V2.
 
 Across these tracks the live is chosen once all three have reconciled, and it is chosen over a title attempt. This strengthens §5.13's claim that the trio can collaborate around an ending. The live's emotional and public outcome remains OPEN (OPEN-RS1-08). Temari's partial answers to her own core's open questions belong to `GKM_CORE_02_TSUKIMURA_TEMARI.md`.
 
+**Whose account of repair? (2026-11-25, SL1.1).** In Misuzu’s café communication, Rinha guesses that Temari and Misuzu made up after watching each other perform. Misuzu confirms the guess. When Temari extends it to Rinha, Rinha recalls someone coming to Gokugetsu and someone crying in public, insists on what happened before and after the performances, and finally jokes that they never reconciled. Misuzu privately marvels at having these ordinary days back. All three can meet at one table and still disagree about what brought them there. Rinha’s protest is direct evidence of that disagreement. The warmth of the conversation cannot settle which description of her history she privately accepts. (`adv_cidol-hmsz-3-018_01.txt` L135–180, L195–279; recorded café, SRC-0060, part 1 0–208.9 s.)
+
 ## 5.14 SyngUp becomes transferable expertise
 
 The old unit's value also survives outside itself.
@@ -1581,7 +1595,7 @@ The repaired state is well supported in ordinary life. The strongest stress test
 
 ## OPEN-RS1-07 — What does Rinha actually want from the post-SyngUp future?
 
-This remains the largest required gap and is delegated to the Phase-6 distributed Rinha branch.
+At the original checkpoint this question was delegated to the Phase 6 distributed Rinha branch. **Partly resolved, 2026-11-25.** At H.I.F. Rinha privately revises her expectation about attending, asks the student journalist for discretion, and asks her to wait until she returns. When the former unitmates appear together, Misuzu calls on them to make the dissolution concert a success. The first exchange supplies Rinha’s own intention to return. The second supplies a shared undertaking whose outcome remains open. Neither specifies what Rinha ultimately wants to achieve as an idol. (`adv_csprt-3-0097_01.txt` L27–34, L79–89, L95–134; `adv_csprt-3-0097_02.txt` L133–172.) [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md)
 
 ## OPEN-RS1-08 — What is the final function of the dissolution live?
 
@@ -1616,7 +1630,7 @@ The corpus supports strong intimacy and attraction/possessive coding in several 
 | RS1-SYNGUP-03 | Temari's mature issue is authorship within dependence, not elimination of dependence | **CANONICAL / REVISE** | Temari core + post-SyngUp relational evidence | this synthesis |
 | RS1-SYNGUP-04 | post-rupture care can persist after direct access is revoked | **CANONICAL / PROMOTE** | Support Series 1 S0010 + later estrangement material | this synthesis |
 | RS1-SYNGUP-05 | Temari/Misuzu reconciliation is non-restorative and creates new operating rules/memories | **CANONICAL / MAJOR REVISE** | Series-3 support + Event 023 | this synthesis |
-| RS1-SYNGUP-06 | Rinha remains formative, relationally active, and future-facing after rupture | **CANONICAL BOUNDED / PROMOTE** | distributed direct/memory evidence incl. Event 016, Support S0097 | this synthesis; person-level meaning pending Rinha dossier |
+| RS1-SYNGUP-06 | Rinha remains formative, relationally active, and future-facing after rupture | **CANONICAL BOUNDED / PROMOTE** | distributed direct/memory evidence incl. Event 016, Support S0097 | this synthesis and the [Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md); protective motive and her eventual goal remain OPEN |
 | RS1-SYNGUP-07 | a meaningful dissolution live is compatible with rejecting permanent unit restoration | **CANONICAL BOUNDED / PROMOTE** | Support `story_0097` | this synthesis; exact outcome OPEN |
 
 ---

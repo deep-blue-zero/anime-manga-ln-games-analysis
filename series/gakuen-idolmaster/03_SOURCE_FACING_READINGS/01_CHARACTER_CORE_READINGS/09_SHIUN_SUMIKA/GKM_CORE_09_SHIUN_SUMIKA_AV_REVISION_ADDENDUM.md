@@ -12,12 +12,16 @@ do_not_use_as_current_authority: false
 last_updated: '2026-08-17'
 title: Gakuen Idolmaster V2 — Shiun Sumika Phase-3 AV Revision Addendum
 parent_authority: GKM_CORE_09_SHIUN_SUMIKA.md
-version: "2.1"
-revised: "2026-11-15"
+version: '2.2'
+revised: '2026-11-25'
 revision_note: "v2.1 source-to-analysis audit 2026-11-15 correction (REVISE, textual scope only): the Love & Joy coauthorship row now records domain-split authorship (GKM-SAA-131); AV results unchanged and no new AV review"
 ---
 
 # SHIUN SUMIKA — PHASE-3 AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+The E001 label リーリヤ？ does not authorize a Lilja performance or a collective actor inference. Sumika's single `ssmk-018` cue is played as a raised, breathier imitation in the paired edition. Temari's P5 sharper recollection is her own wording. This adds a local instance of strategic unseriousness to the distinct ordinary brightness model. The direct Lilja-to-Sumika partnership proposal remains scoped to Lilja Dear 027, and the separate Dear 037 still condition and romance ceiling control the downstream claim. See [the current scene and scope revision](../../../05_AUDIOVISUAL_ANALYSIS/09_SHIUN_SUMIKA/GKM_SUMIKA_CARBON_AV_UPDATE_20261125.md).
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** The front matter carried no version key; the 2026-08-17 addendum is treated as v2.0. **REVISE (textual scope):** the `Love & Joy` coauthorship row gains a dated scope note from GKM-SAA-131; the earlier cell wording is kept verbatim at the start of the cell. No AV result was changed and no audiovisual evidence was inspected for this revision.
 
