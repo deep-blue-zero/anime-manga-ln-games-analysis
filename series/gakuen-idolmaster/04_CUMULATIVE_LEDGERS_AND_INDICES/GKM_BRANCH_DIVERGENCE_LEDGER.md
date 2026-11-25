@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Branch Divergence Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.2"
+version: "2.3"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit corrections"
+last_updated: "2026-11-25 — Carbon character and claim write-through"
 status: "active; cumulative through Phase 3 Shiun Sumika textual core pass"
 ---
 
@@ -235,3 +235,14 @@ Source authority: the owner-authorized change plan of the source-to-analysis aud
 | BR-R88-HKNE-RESULT (annotation) | Kanae Produce 001 | `adv_pstory_001_hkne_after-audition-final-failure-01` L18; `before-audition-final-normal-01` L114–L119; `after-audition-mid-normal-03` L29–L46; `ending-normal-04` L80–L83; `ending-normal-02` L56–L65, L87–L95 | shared stake: losing her place beside China (final-failure-01); option-bound: the `近侍` position (option 3), topping the hierarchy (option 1), failure barring her return to China (option 2), `欲` / `エゴ` unfit for a servant but admissible for an idol (`ending-normal-02`, both options) | the stake of her place beside China | keep option-bound stakes with their options | high | GKM-SAA-100; KANAE Produce Series 001, "Recurring stakes across states" |
 | BR-MAO-COMMU (annotation) | C-MAO and D-MAO | `adv_cidol-amao-3-018_03` L17, L174; `adv_dear_amao_023` L574; `adv_dear_amao_024` L255–L269; `adv_dear_amao_026` L95 | not invariant-only: CIDOL 018_03 L17 presupposes D-MAO 023 L574 and 024 L255–L269, and L174 recalls D-MAO 026 L95, anchoring CIDOL 018 after D-MAO 026 where both tracks apply | — | relative order only | high | GKM-SAA-195; `GKM_COMMU_REVISION_86_DEEP_READING.md` |
 | `P3[SENA]` (annotation) | P3-C[SENA] presupposed | `adv_pevent_003_cmmn_school_1-006-02` L5, L13; `adv_pevent_003_cmmn_school_3-005-02` L5, L13 | Source Lock 1.0 lesson variants ending `-02` presuppose a P3-C[SENA] run (the Producer as Sena's `担当`; a `4連覇` defence) | none beyond the lesson exchanges | C3 conditional states; the Sena Series-3 Produce Story family is still absent from Source Lock 1.0, so no biography follows | high | GKM-SAA-116; continuity map §3.3, §8 |
+
+## Carbon character and claim write-through — 2026-11-25
+
+| Branch or state | Accepted evidence at its scope | Remaining boundary |
+| --- | --- | --- |
+| `BR-R86-KOTONE-037` · D-KOTONE | Native bounded SRC-0024 Sept 12 choice 1 gives the printed stem and L512–523 continuation. The streamer masks the first turn around 7944.7–7948.5 s. The turn reaches about 7970.5 s. SRC-0025 Sept 21 gives choice 2 timing and an edition-specific compact comparison. | The same choice in both versions and identical performance across versions remain OPEN. The locked script's two verbal-reply limitations remain common. [Current recording control](../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) |
+| Lilja Dear 037 | `adv_dear_kllj_037.txt` L321 selects the answer, and L367–375 is shared after the branches. L380 later tests a still condition. | The drawing shown does not identify the earlier choice by itself. Loaded voice and native picture comparisons retain their own edition limits. [Current Lilja AV](../05_AUDIOVISUAL_ANALYSIS/05_KATSURAGI_LILJA/GKM_LILJA_CARBON_AV_UPDATE_20261125.md) |
+| `LOC-SAA-291C` · P3 China selection failure | `adv_pstory_003_kcna_selection-failure-01.txt` L91–99 uses a blackout and narrator role. Three Kanae-coded takes align in the captured mix at 43.77, 50.77 and 55.02 s, flanked by China-coded takes near 36.64 and 62.40 s. | Texture and role do not collapse this result fragment into D-CHINA or name an in-world narrator. [Current China AV](../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_CHINA_CARBON_AV_UPDATE_20261125.md) |
+| `BR-R88-HKNE-RESULT` · Kanae Produce 001 | Native A, C and True results are attested in the specified captures. The B/D compilation presents associated ending dialogue with uploader letter graphics. Seven transition scripts and sixteen wrapper takes have matched sound evidence. | Native B/D HUD, exact rendered conditions, lesson/supply2 Run B tails and dispatch from overlapping thresholds remain OPEN. [Current Kanae evidence and inspection](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_EVIDENCE_AND_INSPECTION.md) |
+| `BR-HIRO-STRUCTURE` and AV-CARBON-SAA-221 | Indexed Hiro asset onsets at about 134.62, 139.42 and 184.53 s, along with the song comparison, bind the D `光景` dance rehearsal wrapper. The same recording moves on to a separate E narrative ending. Native grade badge, exact spoken rendering and how two written closing lines align to the single ending voice still need their specific evidence. | [Documentary and perceived state](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/GKM_HIRO_CARBON_CHARACTER_RECONCILIATION_20261125.md) |
+| Misuzu C performance · AV-CARBON-SAA-241 | The recorded Misuzu-coded opening assets match the C-stage capture at about 3.08 and 5.18 s. The written messaging labels the character Ume, while the actor and voice assets identify Misuzu. The runtime speaker label remains OPEN. | [Current Misuzu scope](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_MISUZU_CARBON_CHARACTER_RECONCILIATION_20261125.md) |

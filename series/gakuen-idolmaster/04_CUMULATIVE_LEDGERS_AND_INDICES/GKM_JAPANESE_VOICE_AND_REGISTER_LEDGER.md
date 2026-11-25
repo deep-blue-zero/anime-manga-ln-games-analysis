@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Japanese Voice and Register Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.7"
+version: "2.8"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-25 — SRC-0093 priority support scene adjudication"
+last_updated: "2026-11-25 — Carbon character and claim write-through"
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
@@ -674,3 +674,11 @@ Textual register only; prosody stays AV-gated (Carbon queue). These rows mirror 
 ## Sena and Tsubame — support 3-0086 written address and performed contrast
 
 `adv_csprt-3-0086_03` L53–182 distinguishes Sena’s given-name address, the explicit relational term `幼馴染`, the different lexical work of `恋` and `好き`, and the move to `あなた` at L173. Tsubame uses `貴様` amid shock, challenge and fluster. That register can coexist with attachment in a high-trust exchange and has to be read in context. Exact `SRC-0093` around 249–255 s carries the warm final statement from Sena to Tsubame. The latter speaks the last reply. **STRENGTHEN** the addressee-specific distinction. The Producer has no line in this two-person interval. [Separate script, returned audio and picture checks](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Carbon character and claim write-through — 2026-11-25
+
+| Name or register | Later recorded support and limit |
+| --- | --- |
+| Temari Dear 037 | GKM-SAA-006 survives for lexical address. The written 18-bar cue, the faint displayed line and matched audible response after about 3048 s are distinct. The cited reports do not certify the split into fractional seconds. [Current Temari update](../05_AUDIOVISUAL_ANALYSIS/02_TSUKIMURA_TEMARI/GKM_TEMARI_CARBON_CHARACTER_RECONCILIATION_20261125.md) |
+| Saki, Sena and Tsubame · `100プロ` | Use individual cue and speaker assignments; the recorded `じゅうおうプロ` token at SRC-0029 around 1913 s is Saki's speech, not an inner line. On SRC-0028 2878–2881 s it is Sena. These variants defeat a uniform rule assigning distinct forms to different people. [Saki](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_SAKI_CARBON_PLAYBACK_SUCCESSOR.md) · [Sena](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_CARBON_PLAYBACK_SUCCESSOR.md) |
+| Tsubame · address | Forceful `貴様`, the informal `お前` choosing people in context, and `プロデューサー` occur on different named routes. `SRC-0028` places some Producer vocatives before the Dear 037 epilogue. Avoid making the passage at 3441.2 s a spoken Producer vocative. [Current Tsubame voice route](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md) |

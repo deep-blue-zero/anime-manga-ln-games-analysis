@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Audiovisual Verification Queue"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.10"
+version: "2.11"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-25 — SRC-0093 priority support scene adjudication; prior paired event and support dispositions retained"
+last_updated: "2026-11-25 — Carbon character and claim write-through"
 revised: "2026-11-25"
 revision_note: "v2.10 resolves one recorded support P0 at its observed scope. v2.9 event and support outcomes remain separately dated."
 status: "active; Phase 6 complete at Source Lock 1.2; Phase 7 dialogue and performance requests individually adjudicated"
@@ -993,3 +993,17 @@ Phase 6 completed at Source Lock 1.2. The earlier Rinha target execution note ab
 ## Native support 3-0086 playback — 2026-11-25
 
 P0 `adv_csprt-3-0086_03`, 貸せ、手本を見せてやる！ / 幼馴染デートに挑戦！ is **RESOLVED at the recorded-scene scope**. In exact local `SRC-0093` 175.0–259.413 s, two candidate-independent observers and a separate challenger distinguish the deliberate reveal, the quieter disclaimer about romantic love, the stand-in joke and Sena's warm liking addressed to Tsubame. The final flustered reply belongs to Tsubame. The source does not determine either person's enduring romantic status. Audio, video samples, native picture-only checks and A1 staging have separate limits. [Scoped playback adjudication](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Carbon character and claim write-through — 2026-11-25
+
+Historical questions above retain their commissioning statuses. These are the later results at the specified scope.
+
+| Target | Current disposition |
+| --- | --- |
+| AV-CARBON-SAA-213 | **RESOLVED for recorded voice-take identity.** Three Kanae-coded narrator takes in the China selection failure align at 43.77/50.77/55.02 s. The actual screen role is narration; the world-internal speaker's identity remains OPEN. [China update](../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_CHINA_CARBON_AV_UPDATE_20261125.md) |
+| AV-CARBON-KOT-001 and -002, SDIV-03, GKM-SAA-052/054 | **PARTIAL.** Repair the stage score, gratitude and two upload clocks. The Sept 12 first-choice record shows a near 7912.5–7943.0 s score gap, the L512 display near 7944.7 s and speech overlap through about 7948.5 s. Clip end must allow the final next-line speech at about 7970.5 s. The clean Sept 21 alternate choice carries separate visual authority. [Kotone update](../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) |
+| AV-CARBON-SAA-001/194 | **PARTIAL.** Proper Mao Dear 022 clip binds the written Kansai transition and renders it at two matched clocks. Independent delivery comparison remains OPEN. In SRC-0236 *Face Me*, the Producer's formulation and Mao's request have an exact source. Interpretive alternatives survive. [Mao update](../05_AUDIOVISUAL_ANALYSIS/04_ARIMURA_MAO/GKM_MAO_CARBON_AV_UPDATE_20261125.md) |
+| AV-HKNE-R88-01/02/04 | **RESOLVED for early-character sonic scope.** Three paired R88 priority routes support the accepted early portrait. [Kanae sufficiency](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/README.md#gate-e-at-the-current-boundary) |
+| AV-HKNE-R88-03/05 | **BOUNDED / OPEN.** R88-03’s ending address supplies supporting coverage. R88-05 retains separate voices and matched outcomes alongside open native B/D visual confirmation and exact dispatch. [Kanae evidence](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_EVIDENCE_AND_INSPECTION.md) |
+| AV-CARBON-SAA-241 and RES-03 | **PARTIAL.** The recorded Misuzu-coded opening assets match the C-stage capture at about 3.08 and 5.18 s. The written messaging labels the character Ume, while the actor and voice assets identify Misuzu. The runtime speaker label remains OPEN. [Current Misuzu scope](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_MISUZU_CARBON_CHARACTER_RECONCILIATION_20261125.md) |
+| AV-CARBON-SAA-221 and RES-04 | **PARTIAL.** Indexed Hiro asset onsets at about 134.62, 139.42 and 184.53 s, along with the song comparison, bind the D `光景` dance rehearsal wrapper. The same recording moves on to a separate E narrative ending. Native grade badge, exact spoken rendering and how two written closing lines align to the single ending voice still need their specific evidence. [Current Hiro scope](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/GKM_HIRO_CARBON_CHARACTER_RECONCILIATION_20261125.md) |

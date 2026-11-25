@@ -10,14 +10,14 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-09"
+last_updated: "2026-11-25"
 ---
 
 # Himesaki Rinami — audiovisual analysis
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
-Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.
+Start with the [current audiovisual findings](GKM_RINAMI_CARBON_CHARACTER_RECONCILIATION_20261125.md). Read the four paired stage recoveries and the independently confirmed council intervention alongside this baseline. The historical file map retains its release scope. Use the textual core and AV addendum together for the character reading.
 
 | Purpose | Files |
 | --- | --- |

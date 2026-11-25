@@ -10,7 +10,7 @@ source_boundary: Routes GKM_CORE_08_HIMESAKI_RINAMI.md through the complete Phas
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-22'
+last_updated: '2026-11-25 — Carbon write-through'
 parent_authority: GKM_CORE_08_HIMESAKI_RINAMI.md
 title: Himesaki Rinami Character-Core AV Revision Addendum
 legacy_supersession_notes:
@@ -18,6 +18,10 @@ legacy_supersession_notes:
 ---
 
 # GKM CORE 08 — HIMESAKI RINAMI AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+Four stage performances have paired existing reports across eight overlapping native parts, supplementing earlier exact-audio compact witnesses. Comparison permits work on delivery, arrangements and audience ties. It does not isolate the lead or establish vocal maturation across dissimilar productions. The exact E021-01 Rinami prohibition bounds practical care and authority without relying on the earlier truncated segment or exporting it as a standing rule. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/GKM_RINAMI_CARBON_CHARACTER_RECONCILIATION_20261125.md). Earlier accounting and source locks below describe their own revisions.
 
 ## 0. Purpose
 

@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Primary Source Locator Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.16"
+version: "2.17"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-25 — SRC-0093 priority support scene adjudication"
+last_updated: "2026-11-25 — Carbon character and claim write-through"
 status: "active; cumulative through Phase 6 Kaya Rinha source-crosswalk routing"
 ---
 
@@ -1461,3 +1461,13 @@ Physical A1 line numbers are for the Source Lock snapshot named in the scope col
 | Locator | Locked object and retrieval anchor | Recorded source |
 | --- | --- | --- |
 | `LOC-AV-SENA-TSB-0086-03` | `Resource/adv_csprt-3-0086_03.txt`, archive `transcripts_raw/04_support_card_stories/support_series_3/story_0086/part_03.txt`, L71–182. 貸せ、手本を見せてやる！ / 幼馴染デートに挑戦！ | `SRC-0093` 175.0–259.413 s whole-parent scope. Reveal ~208–213 s, definition and disclaimer ~220–240 s, last address and reply ~249–259.413 s. [Edition, exact hashes and clock distinctions](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md). |
+
+## Carbon character and claim write-through — 2026-11-25
+
+| Stable route | Exact source and working boundary |
+| --- | --- |
+| `LOC-SAA-291C` · China failure | Keep the A1 script row above. In the complete matched P3 selection-failure rendering the iris retains a lit spot at the 43.30 s sample and goes fully dark by the 43.37 s sample. The three Kanae-coded voice onsets are around 43.77, 50.77 and 55.02 s. China’s surrounding voiced controls are about 36.64 and 62.40 s. Printed role remains `ナレーション`. [China AV evidence](../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_CHINA_CARBON_AV_UPDATE_20261125.md) |
+| GKM-SAA-052 / SDIV-03 · Kotone Dear 037 | Relevant A1 L411/L419 for choice 1 and L465/L472 for choice 2 plus L512/L523 after convergence. SRC-0024 display near 7944.7 s and masked audio through about 7948.5 s. Use about 7971 s for the end. Preserve different SRC-0025 clocks; its ending movie is excluded as dialogue evidence. [Kotone AV history](../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) |
+| REG E001 · Sumika mock-Lilja | `adv_event_001_main-02.txt` L341–345 with `ssmk-018` and the 16-dash Temari box. SRC-0039 paired 443.8–451.1 s. Part 5 L95 is a reformulated address at its own time. [Sumika AV scope](../05_AUDIOVISUAL_ANALYSIS/09_SHIUN_SUMIKA/GKM_SUMIKA_CARBON_AV_UPDATE_20261125.md) |
+| GKM-SAA-194 · Mao *Face Me* | SRC-0236 around 575.1, 601.5, 604.7 and from 611.5 s holds the filmed dialogue. The source is neither a Sena solo nor a witness for Mao's uninferred vocal mechanism. [Mao AV scope](../05_AUDIOVISUAL_ANALYSIS/04_ARIMURA_MAO/GKM_MAO_CARBON_AV_UPDATE_20261125.md) |
+| AV-HKNE-R88 / RES-01 · Kanae | The [character package evidence table](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_EVIDENCE_AND_INSPECTION.md) supplies source IDs, paired claims, matched song clocks, alternate performers' roles and the native vs uploader-labeled outcome split. The versioned R88 A1 inventory remains unchanged. |

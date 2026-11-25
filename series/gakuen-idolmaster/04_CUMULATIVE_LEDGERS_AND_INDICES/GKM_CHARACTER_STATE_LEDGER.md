@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Character State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.14"
+version: "2.15"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit corrections"
+last_updated: "2026-11-25 — Carbon character and claim write-through"
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
@@ -832,3 +832,12 @@ Each core now carries a section headed `Phase-4/5 integration pointers — 2026-
 | Amaya Tsubame | `GKM_CORE_13_AMAYA_TSUBAME.md` | §44 | GKM-SAA-104 |
 
 Integration status where the core states it (delta sweep after verification): the Sumika and Ume cores now integrate every CSL Phase-4 and Phase-5 row for their character into the body, and nothing remains indexed only; Events 021–030 carry no Sumika delta, matching the Sumika PRESERVE rows above. The Rinami core integrates its Phase-5 rows except items whose A1 lines were not re-read (China treating Rinami as an idol ideal, the Kotone hardship-aid scene, the Ume/Saki relay, the Hiro and Valentine stories, the laundry story with Mao); those stay ledger-only. The CSL rows themselves are unchanged.
+
+## Carbon character and claim write-through — 2026-11-25
+
+| Person and state | Transition | Evidence and current usable boundary |
+| --- | --- | --- |
+| Kotone · audience, professional assessment and thanks | REVISE | Dear 036 has earnest gratitude before the late money turn; *Yellow Big Bang!* commu part 3 gives a countercase of no deflection at the end. In the Re;IRIS commu the estimates are the Producer's. The hallway musical play occurs over accompaniment. [Recorded and textual limits](../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) |
+| Mao · frightened speech and future-oriented appeal | REVISE / OPEN | Dear 022 written register follows shock. The new recording clock binds the written screen lines; delivered seriousness remains open at this exact cue. *Face Me* shows a professional forward ask alongside romantic-coded language. [Voice and staging limits](../05_AUDIOVISUAL_ANALYSIS/04_ARIMURA_MAO/GKM_MAO_CARBON_AV_UPDATE_20261125.md) |
+| Sumika, Lilja and Temari · E001 class voice | REVISE | Sumika performs Lilja under a question-mark nameplate; Temari's visible response is 16 dashes and her later reformulation is phrased more harshly. Lilja is a separate speaker in E030 peer advice and on her Dear 027 partnership address. [Sumika evidence](../05_AUDIOVISUAL_ANALYSIS/09_SHIUN_SUMIKA/GKM_SUMIKA_CARBON_AV_UPDATE_20261125.md) |
+| China · selection failure | REVISE | While China is masked, the three messages identify a narration role and match Kanae-coded sound. The narrator's fictional identity remains OPEN. Other personal accountability claims retain China's own authored results. [Scene evidence](../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_CHINA_CARBON_AV_UPDATE_20261125.md) |

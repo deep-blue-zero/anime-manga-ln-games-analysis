@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Song and Musical Identity Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.15"
+version: "2.16"
 source_lock: "GAKUMAS V2 Source Locks 1.0–1.2"
 initialized: "2026-08-13"
-last_updated: "2026-11-25"
+last_updated: "2026-11-25 — Carbon character and claim write-through"
 revised: "2026-11-25"
 revision_note: "Recorded-scene adjudication at the revision-88 source boundary. The dated baselines and previous revisions follow."
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
@@ -505,3 +505,10 @@ The revised opaque `musics.txt` has exact hashes in the [source delta](../01_COR
 | Hiwatari Kanae / `初` | `adv_dear_hkne_002.txt` L345–370, `adv_dear_hkne_009.txt` L217–219 | Assigned assessment piece. Dear 009 specifies a Kanae `all-001` live command. | AV-HKNE-R88-01, playback pending |
 | Hiwatari Kanae / `メタモルフォーゼ` | `adv_cidol-hkne-3-000_01.txt` L116–172 and `_03` L120–196 | Named solo demo, pop characterization in Kanae's speech, and repeats of the instrumental cue. The staged communication ends before her announced performance. | AV-HKNE-R88-02, solo rendition and demo comparison pending |
 | Kuramoto China / `Wonder Scale` | `adv_dear_hkne_003.txt` L192–235 and `adv_dear_hkne_004.txt` L49–85, L99–152 | Kanae's fan commentary and referenced MV. She agrees to think of the song during a mock shoot. | Same song under China's evidence route, no new performance of it in the mock shoot |
+
+## Carbon character and claim write-through — 2026-11-25
+
+| Work or performance state | Updated recorded consequence |
+| --- | --- |
+| Kanae · `初`, `Wonder Scale` and `メタモルフォーゼ` | R88-01 and -04 distinguish the `初` assessment, an earlier `初` sound-check fragment and refusal to use China's `Wonder Scale` for the walking shoot. R88-02 separates the demo and pre-stage closure from the standalone 3D stage, ranked gameplay and official illustrated MV. [Current musical reading](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_INTEGRATED_AUDIOVISUAL_READING.md#a-song-chosen-with-her-and-claimed-by-her) |
+| Kotone · `Yellow Big Bang!`, `Campus mode!!` and Dear 035–036 | A named complete `Yellow Big Bang!` gameplay capture shows the 944.50→944.75 s lyric toggle. The produced `Campus mode!!` mix and opening call are separate from the effort represented in Kotone's dialogue. Dear 036 ceremonial accompaniment before 3923 s refutes the long silence claim. Its late money turn falls after 4085 s. [Current dialogue and musical controls](../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) |

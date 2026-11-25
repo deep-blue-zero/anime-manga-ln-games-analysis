@@ -10,11 +10,15 @@ source_boundary: AV revision of GKM_CORE_10_HANAMI_UME.md based on the complete 
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-19'
+last_updated: '2026-11-25 — Carbon write-through'
 title: GKM Core 10 — Hanami Ume AV Revision Addendum
 ---
 
 # GKM CORE 10 — HANAMI UME AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+Keep Saki's dream counterpart distinct from Ume's own later decision and words. The actual Finals return articulates her ambition and welcomes repeat rivalry after the reconciliation. Ume's earlier Dear 028 protest and the two-stem sister exchange are separately staged. In Dear 029 she refuses Rinha's intervention with Saki and independently requests rehearsal judgment. The alternate proof supplied by Goose-P is limited to its jealous comic exchange. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/10_HANAMI_UME/GKM_UME_CARBON_PLAYBACK_SUCCESSOR.md). Earlier accounting and source locks below describe their own revisions.
 
 This addendum routes the Phase-3 textual claims through the complete audiovisual pass. It does not mutate the frozen textual core.
 

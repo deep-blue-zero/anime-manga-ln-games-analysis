@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-11 — Rinha distributed AV packet added; perceptual gate open"
+last_updated: "2026-11-25 — later Carbon perceptual material, Kanae package and current Rinha routing"
 ---
 
 # Voice acting and dialogue
@@ -32,13 +32,14 @@ Dialogue delivery, voice/register, scene acting and relation-specific performanc
 | Hataya Misuzu | [Specialist](11_HATAYA_MISUZU/GKM_MISUZU_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](11_HATAYA_MISUZU/README.md) |
 | Juo Sena | [Specialist](12_JUO_SENA/GKM_SENA_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](12_JUO_SENA/README.md) |
 | Amaya Tsubame | [Specialist](13_AMAYA_TSUBAME/GKM_TSUBAME_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](13_AMAYA_TSUBAME/README.md) |
+| Hiwatari Kanae (supplementary) | [Current reading](14_HIWATARI_KANAE/GKM_KANAE_INTEGRATED_AUDIOVISUAL_READING.md#who-gets-to-hear-her-choose) | [README](14_HIWATARI_KANAE/README.md) |
 
-[All AV files](GKM_AUDIOVISUAL_FILE_INDEX.md) · [AV home](README.md) · [Project state](../CURRENT_STATE_AND_CORPUS_MAP.md). Hiro and Misuzu's [adopted toolkit rebuilds](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) resolve the documentary rebuild tasks while retaining explicit direct-listening and continuous-motion review gaps.
+[All AV files](GKM_AUDIOVISUAL_FILE_INDEX.md) · [AV home](README.md) · [Project state](../CURRENT_STATE_AND_CORPUS_MAP.md). The fourteen numbered rows contain thirteen original Phase 3 packages plus the later Kanae addition. The character READMEs give the current evidence and named corrections. The [September Hiro/Misuzu import](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) preserves its documentary methods, and the [November Carbon reconciliation](GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) records what was actually heard or seen later.
 
 <!-- RINHA_AV_20260911 -->
 ## Kaya Rinha — distributed-character AV responsibility
 
-The unnumbered [KAYA_RINHA packet](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) adds the 18-target source/text, selected-mix and sampled-still pass across 12 retained recordings. It documents 538 distinct inspected frame points, 18 verified selected-mix measurements and 73 claim dispositions. Direct listening and continuous-motion review are both 0 seconds; the perceptual baseline gate and Rinha dossier remain open.
+The unnumbered [current Kaya Rinha AV reading](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) routes the later paired recordings by target. All eighteen targeted scenes meet the dossier's bounded perceptual requirement. The [reviewed dossier](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) closes Phase 6 at the declared boundary. The exact whole-container C073 promotion, a Rinha sung profile and the separately qualified motive claims remain OPEN. The [September document map](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) preserves its source/measurement record of 538 sampled frame points, eighteen selected-mix measurements and zero direct listening or continuous-motion review during that pass.
 
 - [Integrated baseline and 18 scene records](KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md)
 - [Evidence and metrics matrix](KAYA_RINHA/GKM_KAYA_RINHA_AV_EVIDENCE_AND_METRICS_MATRIX.md)
@@ -46,4 +47,6 @@ The unnumbered [KAYA_RINHA packet](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) add
 - [Source identities and 620-message recount](KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md)
 - [Actual review accounting and methods](KAYA_RINHA/GKM_KAYA_RINHA_REVIEW_ACCOUNTING_AND_METHODS.md)
 
-The baseline owns the bounded voice-analysis responsibility; no separate unheard-voice specialist or numbered fourteenth playable-character core is created.
+The current perceptual and historical baselines cover the distributed voice-analysis responsibility alongside the dossier.
+
+[Carbon propagation and claim routes](GKM_CARBON_PROPAGATION.md) links the current reading for all fifteen character packages.

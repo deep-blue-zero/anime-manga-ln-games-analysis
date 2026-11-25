@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Voice Performance State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.8"
+version: "2.9"
 source_lock: "GAKUMAS V2 Source Locks 1.0–1.2"
 initialized: "2026-08-13"
-last_updated: "2026-11-25"
+last_updated: "2026-11-25 — Carbon character and claim write-through"
 revised: "2026-11-25"
 revision_note: "Adds the independently adjudicated support 3-0086 spoken register with its separate audio, picture and script clocks."
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
@@ -426,3 +426,12 @@ Keep separate: Temari’s 3D crying, Rinha’s bust expression and Temari’s re
 ## Sena and Tsubame — support scene performed register, 2026-11-25
 
 In exact `SRC-0093` Sena’s date reveal is bright, set up by a spoken passage with the score withheld around 203–213 s. Her declaration of unfamiliarity with romantic love is quieter and slower around 232–238 s. The closing liking at approximately 249–255 s uses the move from given name to `あなた` in one warm address. Tsubame stammers near 228–232 s, protests more loudly in the next exchange and gives a breath-caught, flustered reply near the ending. These are relation-specific performances in `adv_csprt-3-0086_03`, not isolated voices. Cue boundaries are approximate to the ear. The original also gives a verified native speaker nameplate at 254.867 s, a separate picture clock. **STRENGTHEN** the contextual affect range. Relationship category remains **OPEN**. [Original recording and cue scope](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Carbon character and claim write-through — 2026-11-25
+
+| Role | Paired/reconciled delivered state | Ceiling |
+| --- | --- | --- |
+| Sumika imitates Lilja, E001 part 2 | `ssmk-018` is higher and breathier under the display's question-mark role. The score has already receded before she speaks. Temari's response is accompanied by the 16-bar display. [Current source](../05_AUDIOVISUAL_ANALYSIS/09_SHIUN_SUMIKA/GKM_SUMIKA_CARBON_AV_UPDATE_20261125.md) | Owns one staged imitation. The box, script act, intentional effect and Temari's thought are distinct layers. |
+| China Produce 003 selection failure | Blind and challenger accounts hear clear, steady narration in the whole recovered scene. Three Kanae-coded assets match recorded sound near 43.77, 50.77 and 55.02 s. [Current source](../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_CHINA_CARBON_AV_UPDATE_20261125.md) | Generic recorded narrator role. Do not credit it as China dialogue or named in-world Kanae narration. No separate underlying whisper identified. |
+| Kotone Dear 037 | Masked phrase near 7944.7 s in first-choice watchalong. The audible continuation extends beyond 7967 s. Post-merge display and a different clean choice establish different scopes. [Current source](../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) | Performance comparison across identical choices/editions remains OPEN. |
+| Kanae Dear 004 | The requested `Wonder Scale` reference is declined. In the later open sound check, the paired hearing identifies the tentative opening words of `初`. [Integrated reading](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_INTEGRATED_AUDIOVISUAL_READING.md#what-kanae-agrees-to-perform) | Preserve the difference between actual song fragment and requested music for an earlier use. |

@@ -5,17 +5,17 @@ artifact_type: index
 scope: SERIES_AUDIOVISUAL_ARTIFACT_RETRIEVAL
 generation: V2
 status: canonical
-source_boundary: "Repository paths for the 13 existing Phase-3 integrated character AV packages; retrieval index only, with source and recovery qualifications retained in their governing records"
+source_boundary: "Repository routes for 13 Phase 3 packages, supplementary Kanae and distributed Kaya Rinha, with historical scopes and later revision links"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-11 — Rinha distributed AV packet added; perceptual gate open"
+last_updated: "2026-11-25 — later Carbon perceptual material, Kanae package and current Rinha routing"
 ---
 
 # Audiovisual file index
 
-Each character now has one home directly under `05_AUDIOVISUAL_ANALYSIS/`, containing the integrated baseline, dialogue and music specialists, evidence, source manifests and AV release controls. Start with the [character folders](README.md), or browse the [voice index](GKM_VOICE_ACTING_INDEX.md) and [music/performance index](GKM_MUSIC_AND_PERFORMANCE_INDEX.md). The [current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md) governs project state; the [organization audit](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_FILE_ORGANIZATION_AUDIT_20260909.md) records the consolidation.
+The thirteen original Phase 3 rows preserve the release paths and their source/measurement controls. Open a [character home](README.md) for the current recording and claim revisions, or use the [voice index](GKM_VOICE_ACTING_INDEX.md) and [music and performance index](GKM_MUSIC_AND_PERFORMANCE_INDEX.md). Kanae's supplementary package and Rinha's distributed work appear separately. The [current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md) governs phase progress.
 
 A link establishes where an artifact is stored. It does not independently certify every acquisition or measurement claim in that artifact. Retain source-manifest limitations, release-generation boundaries, and the separate recovery/rebuild dispositions when using these records.
 
@@ -57,14 +57,18 @@ Rinami's [named source inventory](08_HIMESAKI_RINAMI/SUPPORTING_DATA/GKM_PHASE3_
 
 ## Distributed-character continuation
 
-Rinha remains a distributed, non-playable character responsibility. The completed [source crosswalk](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_SOURCE_CROSSWALK.md) and [evidence matrix](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_EVIDENCE_MATRIX.md) govern target selection and source reuse. Her targeted AV request and bounded source/text, selected-mix and sampled-still baseline are now available in the unnumbered [KAYA_RINHA home](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md). Direct listening, continuous-motion discrimination and the subsequent dossier remain open; the thirteen playable-character packages retain their existing scope.
+Rinha's [current AV route](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) brings together the historical accounting, the later paired recorded-scene findings and the Phase 6 dossier. Her original program is separate from the thirteen Phase 3 packages.
 
 Consult the [AV verification queue](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md) for scoped acquisition decisions and the [AV source crosswalk](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_SOURCE_CROSSWALK.md) for cumulative source routing. Source media remain outside the analytical Git corpus.
+
+## Hiwatari Kanae — supplementary at Source Lock 1.2
+
+[Character map](14_HIWATARI_KANAE/README.md) · [Integrated dialogue, song and performance reading](14_HIWATARI_KANAE/GKM_KANAE_INTEGRATED_AUDIOVISUAL_READING.md) · [Evidence and inspection](14_HIWATARI_KANAE/GKM_KANAE_EVIDENCE_AND_INSPECTION.md) · [Gate E sufficiency](14_HIWATARI_KANAE/README.md#gate-e-at-the-current-boundary).
 
 <!-- RINHA_AV_20260911 -->
 ## Kaya Rinha — distributed-character AV responsibility
 
-The unnumbered [KAYA_RINHA packet](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) adds the 18-target source/text, selected-mix and sampled-still pass across 12 retained recordings. It documents 538 distinct inspected frame points, 18 verified selected-mix measurements and 73 claim dispositions. Direct listening and continuous-motion review are both 0 seconds; the perceptual baseline gate and Rinha dossier remain open.
+The unnumbered [current Kaya Rinha AV reading](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) routes the later paired recordings by target. All eighteen targeted scenes meet the dossier's bounded perceptual requirement. The [reviewed dossier](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) closes Phase 6 at the declared boundary. The exact whole-container C073 promotion, a Rinha sung profile and the separately qualified motive claims remain OPEN. The [September document map](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) preserves its source/measurement record of 538 sampled frame points, eighteen selected-mix measurements and zero direct listening or continuous-motion review during that pass.
 
 - [Integrated baseline and 18 scene records](KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md)
 - [Evidence and metrics matrix](KAYA_RINHA/GKM_KAYA_RINHA_AV_EVIDENCE_AND_METRICS_MATRIX.md)
@@ -72,4 +76,6 @@ The unnumbered [KAYA_RINHA packet](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) add
 - [Source identities and 620-message recount](KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md)
 - [Actual review accounting and methods](KAYA_RINHA/GKM_KAYA_RINHA_REVIEW_ACCOUNTING_AND_METHODS.md)
 
-The baseline owns the bounded voice-analysis responsibility; no separate unheard-voice specialist or numbered fourteenth playable-character core is created.
+The current perceptual and historical baselines cover the distributed voice-analysis responsibility alongside the dossier.
+
+[Carbon propagation and claim routes](GKM_CARBON_PROPAGATION.md) links the current reading for all fifteen character packages.

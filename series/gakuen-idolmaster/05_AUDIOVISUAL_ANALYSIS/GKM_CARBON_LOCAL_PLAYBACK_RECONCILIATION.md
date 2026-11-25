@@ -43,7 +43,7 @@ The 794 historical queue keys reconcile as 785 compact-recording clause keys and
 | Remains open, with a scoped refinement | 4 |
 | Remains open | 14 |
 
-The handoff carries overlays for 220 of the 314 existing propositions, and the 24 Milestone 2 proposition rows are a subset of those 220. Ninety-four propositions inherit the preceding receiver state. Two older clock keys on SRC-0172, PROP-0158-AV-04 and PROP-0160-AV-02, point near the 2805 s trophy handoff. The applicable checks are 2765.0–2770.8 s for the speech and 2765.0–2768.2 s for the furigana. A claim can remain open when both observers heard the same line. The available observation may identify the line or delivery while leaving a stronger account of origin, intention, general character or edition continuity underdetermined.
+**Denominator correction, 2026-11-25.** The signed M1 overlay has 220 rows. An exact key join to the 314-proposition D5 register identifies 219 existing propositions and one additional synthesis row, `SYN-10.2B-MUSICAL-IDENTITY`. The 24 Milestone 2 rows all overlap the 219 existing propositions. Ninety-five existing propositions inherit the preceding receiver state. The 794 replay keys are unchanged. Two keys belong to the standalone synthesis row, leaving 792 keyed rows on original D5 propositions. The earlier wording treated the synthesis row as a D5 parent. Two older clock keys on SRC-0172, PROP-0158-AV-04 and PROP-0160-AV-02, point near the 2805 s trophy handoff. The applicable checks are 2765.0–2770.8 s for the speech and 2765.0–2768.2 s for the furigana. A claim can remain open when both observers heard the same line. The available observation may identify the line or delivery while leaving a stronger account of origin, intention, general character or edition continuity underdetermined.
 
 ## Accepted and bounded changes
 
@@ -64,3 +64,5 @@ The W4 S02 and S27 reviews each changed a one-line tally after their original fr
 ## What remains open
 
 The enumerated local follow-up assignment has no unreviewed staged targets at this settlement. The [residual evidence register](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_CARBON_RESIDUAL_EVIDENCE_REGISTER.md) tracks unavailable original renderings and judgments still open. Antigravity's 794-clause completion does not close unrelated high-priority event and support requests elsewhere in the [project queue](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md). This reconciliation permits scoped synthesis from the observations above. Definitive acceptance of any character still depends on that character's coverage assessment and the governance of the relevant phase.
+
+The [propagation record](GKM_CARBON_PROPAGATION.md) identifies the current character-local dispositions and downstream holdings.

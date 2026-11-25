@@ -3,7 +3,7 @@ series: GKM
 generation: V2
 status: canonical
 do_not_use_as_current_authority: false
-last_updated: '2026-09-10'
+last_updated: '2026-11-25 — Carbon write-through'
 artifact_type: claim_revision_ledger
 scope: CHARACTER_HATAYA_MISUZU_PHASE3_AV_ADDENDUM
 character: Hataya Misuzu / 秦谷美鈴
@@ -16,6 +16,10 @@ source_boundary: "AVE-FULL-20260910: 27 source recordings computationally proces
 
 
 # Misuzu — current AV integration addendum
+
+## Carbon carry-forward — 2026-11-25
+
+The café maintains ordinary co-presence after an actual disagreement about whether repair applies to Rinha. The voice identity in a remembered or masked scene stays distinct from a literally shown body or attribution of the remembered speaker's intention. The September 45-claim rebuild and latest perceptual corrections have different authority. The named singing and ending witnesses cannot close a person-wide romance or ending-dispatch claim. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_MISUZU_CARBON_CHARACTER_RECONCILIATION_20261125.md). Earlier accounting and source locks below describe their own revisions.
 
 This is the adopted audiovisual companion for the unchanged canonical textual core. It preserves all 18 original MZ-R identifiers and the complete repository addendum below. These 18 integration rows are separate from the 45 MZ-AV evidence-matrix claims; their inherited transition labels are not automatically current AV confidence categories.
 

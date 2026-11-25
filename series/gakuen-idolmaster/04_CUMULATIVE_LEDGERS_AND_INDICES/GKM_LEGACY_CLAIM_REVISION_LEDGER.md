@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Legacy Claim Revision Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.8"
+version: "2.9"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit claim revisions"
+last_updated: "2026-11-25 — Carbon character and claim write-through"
 status: "active; cumulative through Phase 3 Amaya Tsubame integrated audiovisual baseline"
 ---
 
@@ -717,3 +717,15 @@ Resolved gates: the SAA-009 side-claim (E001 / D-SENA 016) and the SAA-151 `scho
 | Phase 3 — Temari / SyngUp legacy reconciliation: "Rinha is the unresolved third point" (public blame absorber) | read with the GKM-SAA-042 DOWNGRADE above: the shift of hostility onto Rinha is an effect, and her protective motive is contested by Rinha herself; the frozen Temari pass report's finding 15 carries an erratum in the dispositions crosswalk | GKM-SAA-042 |
 | Misuzu V1 → V2: "Misuzu is emotionally unshaken by defeat — REJECT — Dear 022 and Dear 032 establish hot resentment and private crying" | Dear 022's resentment stands; Dear 032's crying is earliest-SyngUp! frustration at being outclassed, not a reaction to defeat (GKM-SAA-085); the frozen Misuzu pass report carries an erratum in the dispositions crosswalk | GKM-SAA-085 |
 | Hiro V1 → V2: "Producer harshness is unusually matched to Hiro" (separation-wager ethics) | read with HIRO-C18/C19 above: the career and dream stakes are the Producer's; the relationship stake is Hiro's inference | GKM-SAA-017 |
+
+## Carbon character and claim write-through — 2026-11-25
+
+The earlier audit rows retain their historical question and dispositions. Apply the later recorder- and scene-specific qualification where indicated.
+
+| Prior claim route | Transition and current effects |
+| --- | --- |
+| GKM-SAA-001/057/194 | REVISE source and evidence limits for Mao’s Dear 022 and *Face Me*. Preserve the text-driven relational contract and the locally supported coding. Held tonal and reciprocity claims remain OPEN. [Mao pack](../05_AUDIOVISUAL_ANALYSIS/04_ARIMURA_MAO/GKM_MAO_CARBON_AV_UPDATE_20261125.md) |
+| GKM-SAA-009/052/053/054/187/189 | REVISE selected Kotone windows for the two Dear 037 branches, Dear 036 score and end, fan sincerity, running estimates, flashback and displayed address. Keep native eye/voice and build-related questions tied to matched material. [Kotone pack](../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) |
+| GKM-SAA-014/272 | PRESERVE the official dialogue address, script conditional and open romance status; REVISE E001 speaker and printed count route. [Lilja pack](../05_AUDIOVISUAL_ANALYSIS/05_KATSURAGI_LILJA/GKM_LILJA_CARBON_AV_UPDATE_20261125.md) |
+| GKM-SAA-213/291(c) | REVISE to a matched Kanae-coded take sequence with a narrator display and unknown in-world identity. [China pack](../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_CHINA_CARBON_AV_UPDATE_20261125.md) |
+| `PROP-0229-AV-01`, `PROP-0233-AV-01`, `PROP-0259` and `PROP-0314` | The [receiver receipt](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md#accepted-and-bounded-changes) records the failed Tsubame results-span dialogue attribution, the Kotone overlay/clock split and the bounded Hiro stereo listening control. No whole-proposition state changes follow merely from local review. |

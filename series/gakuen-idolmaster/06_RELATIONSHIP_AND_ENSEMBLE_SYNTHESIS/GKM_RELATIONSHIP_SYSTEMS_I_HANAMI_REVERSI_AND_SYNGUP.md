@@ -5,7 +5,7 @@ analytical_role: relationship_systems_synthesis
 scope: RELATIONSHIP_SYSTEMS_I_HANAMI_REVERSI_AND_SYNGUP
 generation: V2
 status: canonical
-source_boundary: 'GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5: six governing character-core readings (Saki, Ume, Lilja, Sumika, Temari, Misuzu), four canonical numbered-event readings, eight canonical support-card readings covering 498/498 support scripts / 9,777/9,777 support messages, cumulative relationship/continuity/character/source-locator infrastructure, and already-integrated audiovisual findings. Kaya Rinha is treated only through distributed direct/mediated evidence available before her mandatory Phase-6 dedicated crosswalk/evidence/dossier branch. The 2026-11-07 correction (§3.5.1) additionally re-reads Unit Story 01 Episode 01 Part 03 and Episode 04 Parts 04–25 and Saki Dear 009/022 from the A1 raw scripts; these sources were already inside the Saki core''s Phase-3 scope, so no new source object is admitted.'
+source_boundary: 'GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5: six governing character-core readings (Saki, Ume, Lilja, Sumika, Temari, Misuzu), four canonical numbered-event readings, eight canonical support-card readings covering 498/498 support scripts / 9,777/9,777 support messages, cumulative relationship/continuity/character/source-locator infrastructure, and already-integrated audiovisual findings. The original generation treats Kaya Rinha through the pre-dossier distributed direct/mediated evidence. The dated 2026-11-25 revision draws on the Phase 6 dossier at Source Lock 1.2, as specified in the body. The 2026-11-07 correction (§3.5.1) additionally re-reads Unit Story 01 Episode 01 Part 03 and Episode 04 Parts 04–25 and Saki Dear 009/022 from the A1 raw scripts; these sources were already inside the Saki core''s Phase-3 scope, so no new source object is admitted.'
 source_lock: GAKUMAS V2 Source Lock 1.0
 source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
 source_revision: 32
@@ -14,7 +14,7 @@ governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 version: '2.2'
 created: '2026-08-24'
-revised: '2026-11-25'
+revised: '2026-11-25 — Carbon write-through'
 revision_note: '2026-11-25. Admits the distributed Rinha dossier for the post-unit relationship, distinguishing the café disagreement, the return promise and the prospective dissolution live. Earlier revision: Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): track-scoped and evidence-routed additions to the Hanami (§3), REVERSI (§4) and SyngUp (§5, one coordinated pass incl. new §5.2.1 and §5.9.2) systems, romance-coded material recorded as bounded and OPEN, and corrected §12 routing; earlier formulations kept recoverable'
 supersedes: []
 superseded_by: []
@@ -22,6 +22,14 @@ do_not_use_as_current_authority: false
 ---
 
 # GKM RELATIONSHIP SYSTEMS I — HANAMI, REVERSI, AND SYNGUP
+
+## Recorded comparison note — 2026-11-25
+
+The matched episode 7 and episode 21 witnesses keep Saki's private bluff and direct concession to Ume at their separate scenes. The latter does not undo the earlier fear and the contest resumes on terms the sisters can both own. [Saki recording update](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_SAKI_CARBON_PLAYBACK_SUCCESSOR.md).
+
+REVERSI's Dear 027 proposal is addressed by Lilja to Sumika. Treat the merged Dear 037 decision and later still condition separately. Neither proves a native performance variation or a romantic label. [Lilja branch evidence](../05_AUDIOVISUAL_ANALYSIS/05_KATSURAGI_LILJA/GKM_LILJA_CARBON_AV_UPDATE_20261125.md).
+
+The accepted Rinha scene record retains a distinction between paid-forward coaching, present refusal and ordinary access. Later voice and scene limits are directly accessible in the [Rinha character AV home](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md).
 
 > **Revision v2.2, 2026-11-25.** Admits the distributed Rinha dossier for the post-unit relationship, distinguishing the café disagreement, the return promise and the prospective dissolution live. Source Lock 1.0 governs the original analysis. The dated additions use separately admitted revision 86 witnesses where named and the [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) at the revision 88 boundary. Earlier statements deferring the branch record the state of work at their original dates.
 

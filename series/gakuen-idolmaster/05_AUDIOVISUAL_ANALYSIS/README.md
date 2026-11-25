@@ -5,17 +5,17 @@ artifact_type: corpus_map
 scope: SERIES_AUDIOVISUAL_NAVIGATION
 generation: V2
 status: canonical
-source_boundary: "Navigation of Phase-3 audiovisual analyses and imported AVE-FULL-20260910 Hiro/Misuzu documentation; sampled stills and computational measurements remain distinct from direct listening or motion review"
+source_boundary: "Navigation of 13 historical Phase 3 packages, supplementary Kanae, distributed Rinha and later scope-qualified perceptual evidence through 2026-11-25"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-11 — Rinha distributed AV packet added; perceptual gate open"
+last_updated: "2026-11-25 — later Carbon perceptual material, Kanae package and current Rinha routing"
 ---
 
 # Audiovisual analysis
 
-Each character has one folder containing their integrated baseline, dialogue and music specialists, evidence, technical documentation and AV release records. Start with the character's README, or browse by subject:
+Start with the character's home for current findings and the original analytical deliveries. The numbered historical Phase 3 cohort has thirteen packages. Hiwatari Kanae is a later supplementary addition at Source Lock 1.2. Kaya Rinha has a distributed-character package.
 
 - [Voice acting and dialogue](GKM_VOICE_ACTING_INDEX.md)
 - [Music, MVs and visual performance](GKM_MUSIC_AND_PERFORMANCE_INDEX.md)
@@ -36,17 +36,19 @@ Each character has one folder containing their integrated baseline, dialogue and
 | Hataya Misuzu | [11_HATAYA_MISUZU](11_HATAYA_MISUZU/README.md) |
 | Juo Sena | [12_JUO_SENA](12_JUO_SENA/README.md) |
 | Amaya Tsubame | [13_AMAYA_TSUBAME](13_AMAYA_TSUBAME/README.md) |
+| Hiwatari Kanae | [14_HIWATARI_KANAE](14_HIWATARI_KANAE/README.md) · supplementary |
+| Kaya Rinha | [Current distributed AV reading](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) |
 
 Supporting measurements live in `SUPPORTING_DATA/` where data exist. Textual-core AV revision addenda remain beside the [textual analyses](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/). The [current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md) governs project progress; the [rebuild register](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_TARGETED_REBUILD_CANDIDATES.md) records the closed Hiro/Misuzu documentary and measurement scope alongside their remaining perceptual dependencies.
 
-## Current Hiro and Misuzu rebuild — AVE-FULL-20260910
+## Historical Hiro and Misuzu rebuild — AVE-FULL-20260910
 
-The imported complete packets are the current AV document generation for these two characters. Hiro accounts for **33 verified source identities, 636 distinct inspected still points and 20 claim dispositions**; Misuzu accounts for **27 verified source identities, 565 distinct inspected still points and 45 claim dispositions**. Their baselines, specialists, evidence matrices and textual-core addenda incorporate the resulting qualifications.
+The imported complete packets retain their source accounting and measurements. The current [Hiro](07_SHINOSAWA_HIRO/README.md) and [Misuzu](11_HATAYA_MISUZU/README.md) entrypoints route subsequent perceptual revisions. Hiro accounts for **33 verified source identities, 636 distinct inspected still points and 20 claim dispositions**; Misuzu accounts for **27 verified source identities, 565 distinct inspected still points and 45 claim dispositions**. Their baselines, specialists, evidence matrices and textual-core addenda incorporate the resulting qualifications.
 
 - Hiro: [rebuild manifest](07_SHINOSAWA_HIRO/GKM_PHASE3_HIRO_AUDIOVISUAL_SOURCE_MANIFEST_REBUILD.md), [source verification](07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_SOURCE_VERIFICATION.md), [all-claim review](07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md), [review accounting](07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_REVIEW_ACCOUNTING.md).
 - Misuzu: [rebuild manifest](11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AUDIOVISUAL_SOURCE_MANIFEST_REBUILD.md), [source verification](11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_SOURCE_VERIFICATION.md), [all-claim review](11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md), [review accounting](11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_REVIEW_ACCOUNTING.md).
 
-**This generation adds zero direct listening and zero continuous-motion review.** It supplies source-bound computational measurements and actual sampled-still observations; inherited AV analysis remains distinguished from that new evidence. Open performance and interpretive dependencies remain explicit in the claim reviews.
+The September rebuild itself added zero direct listening and zero continuous-motion review. It supplied source-bound computational and sampled-still observations. The [November reconciliation](GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) documents later perceptual work at its actual edition, interval and modality.
 
 The original Hiro/Misuzu `*_AUDIOVISUAL_SOURCE_MANIFEST.json` files are historical release records. Use the linked `*_SOURCE_MANIFEST_REBUILD.md` and `FULL_REBUILD_SOURCE_VERIFICATION.md` for current source accounting. The preserved old null fields do not reopen acquisitions verified by the rebuild.
 
@@ -55,7 +57,7 @@ Original release manifests and checksum files describe the historical packages. 
 <!-- RINHA_AV_20260911 -->
 ## Kaya Rinha — distributed-character AV responsibility
 
-The unnumbered [KAYA_RINHA packet](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) adds the 18-target source/text, selected-mix and sampled-still pass across 12 retained recordings. It documents 538 distinct inspected frame points, 18 verified selected-mix measurements and 73 claim dispositions. Direct listening and continuous-motion review are both 0 seconds; the perceptual baseline gate and Rinha dossier remain open.
+The unnumbered [current Kaya Rinha AV reading](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) routes the later paired recordings by target. All eighteen targeted scenes meet the dossier's bounded perceptual requirement. The [reviewed dossier](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) closes Phase 6 at the declared boundary. The exact whole-container C073 promotion, a Rinha sung profile and the separately qualified motive claims remain OPEN. The [September document map](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) preserves its source/measurement record of 538 sampled frame points, eighteen selected-mix measurements and zero direct listening or continuous-motion review during that pass.
 
 - [Integrated baseline and 18 scene records](KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md)
 - [Evidence and metrics matrix](KAYA_RINHA/GKM_KAYA_RINHA_AV_EVIDENCE_AND_METRICS_MATRIX.md)
@@ -63,4 +65,6 @@ The unnumbered [KAYA_RINHA packet](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) add
 - [Source identities and 620-message recount](KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md)
 - [Actual review accounting and methods](KAYA_RINHA/GKM_KAYA_RINHA_REVIEW_ACCOUNTING_AND_METHODS.md)
 
-The baseline owns the bounded voice-analysis responsibility; no separate unheard-voice specialist or numbered fourteenth playable-character core is created.
+The current perceptual and historical baselines cover the distributed voice-analysis responsibility alongside the dossier.
+
+[Carbon propagation](GKM_CARBON_PROPAGATION.md) links the current reading for all fifteen character packages. The [proposition register](GKM_CARBON_PROPAGATION_REGISTER.tsv) gives the exact claim routes.

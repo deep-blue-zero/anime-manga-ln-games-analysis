@@ -14,7 +14,7 @@ governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 version: '2.3'
 created: '2026-08-24'
-revised: '2026-11-25'
+revised: '2026-11-25 — Carbon write-through'
 revision_note: '2026-11-25. Adds the Rinha witness to the boundaries of brokerage, rehearsal access and consent to coaching. Corrects the scope of shared Producer states after the Kanae tranche. Earlier revision: Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): one coordinated §9 edit modelling the Producer branch by branch (new §9.2.1, §9.2.2, §9.13), Sena–Tsubame bounds and stages (§5), U1 trio and Worst Three corrections (§3, §4), China–Kanae succession (new §8.7.2, SL1.2), and narrowed open questions; earlier formulations kept recoverable'
 supersedes: []
 superseded_by: []
@@ -22,6 +22,12 @@ do_not_use_as_current_authority: false
 ---
 
 # GKM RELATIONSHIP SYSTEMS II - RIVALRY, FRIENDSHIP, CLASS, AND SUCCESSION
+
+## Recorded comparison note — 2026-11-25
+
+The exact 3-0086 support recording preserves Sena’s teasing frame, direct spoken liking and Tsubame's delivered response and boundary. Apply this scene to the variety of their dyad. Their relationship category remains OPEN. [Paired adjudication](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+China's household interactions on the Episode 0 recordings give another relationship context for her careful decision to leave Kanae a choice. China's later shared Producer assignment with Kanae still belongs to its own authored state. At a separate failed China selection, a Kanae-coded narrator sound match leaves the displayed generic narration role and the in-world speaker question intact. [China recording update](../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_CHINA_CARBON_AV_UPDATE_20261125.md).
 
 > **Revision v2.3, 2026-11-25.** The source-specific protection against merging Producer routes still governs. Under Source Lock 1.2, Kanae’s Produce 001 school event establishes another explicit shared assignment, distinct from Re;IRIS in Unit Story. See §9.2.3.
 
