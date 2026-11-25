@@ -275,6 +275,8 @@ That same love can produce:
 
 The route's mature answer is not rejection of family support. China increasingly builds **internal constitutional restraints** around inherited power.
 
+The [portrait of China’s grandfather](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KURAMOTO_GRANDFATHER.md) distinguishes China’s account of the childhood appeal from his own three turns in the Kanae transfer conversation. The independent exam condition comes from the Producer. The grandfather agrees and asks what happens if the plan fails. The two song communications in which his request prompts different responses further bound what his authority means for any particular audition. The [reviewed evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KURAMOTO_GRANDFATHER_SOURCE_AND_SCOPE.md#speech-and-evidence-limits) records the written boundary.
+
 ### Kanae as a person, not a household function
 
 Hiwatari Kanae is crucial here.
@@ -755,6 +757,8 @@ This is a valuable Phase-6 correction:
 > **Brokerage is not good merely because the broker wants reconciliation.**
 
 A broker must have an accurate model of the blocked edge and permission to intervene.
+
+The [Aoi Nadeshiko portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_AOI_NADESHIKO.md) follows those two patterns alongside her hospitality to a visitor and her private reactions when rivals offer care. In China’s Dear route she says herself that she uses Aoi resources to discourage rivals’ fans. In Kanae’s Dear route she invokes loyalty to an unnamed elder while China welcomes the attention paid to Kanae. The Shirakusa support leaves her interpretation of Shion’s discomfort and Shion’s actual refusal distinct. The [reviewed evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_AOI_NADESHIKO_SOURCE_AND_SCOPE.md#hospitality-and-performed-voice) binds the voiced corridor and Sumika exchanges to separate recording editions.
 
 ## 4.5 Kuroi: institutional rivalry includes acquisition, not just comparison
 
