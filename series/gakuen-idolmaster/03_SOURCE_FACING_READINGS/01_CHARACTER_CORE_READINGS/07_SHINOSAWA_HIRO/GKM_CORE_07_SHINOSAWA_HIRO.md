@@ -16,14 +16,16 @@ continuity_tracks:
 - D-HIRO
 - M-HIRO
 reasoning_route: GPT-5.6 Sol — Extra High
-last_updated: '2026-08-15'
-version: "2.1"
-revised: "2026-11-15"
-revision_note: "v2.1 applies the source-to-analysis audit 2026-11-15 (STRENGTHEN / REVISE / PRESERVE / OPEN; no claim rejected): adds the GKM-SAA-002 origin and longing layer, revises the wager attribution, the 神格 genealogy, the Dear 020 branch labels and the Dear 035 speaker, integrates dated numbered-event and support-story evidence into the body, and adds the Phase-4/5 integration pointer section, with earlier wording kept in place"
+last_updated: '2026-11-25'
+version: "2.2"
+revised: "2026-11-25"
+revision_note: "v2.1 applies the source-to-analysis audit 2026-11-15 (STRENGTHEN / REVISE / PRESERVE / OPEN; no claim rejected): adds the GKM-SAA-002 origin and longing layer, revises the wager attribution, the 神格 genealogy, the Dear 020 branch labels and the Dear 035 speaker, integrates dated numbered-event and support-story evidence into the body, and adds the Phase-4/5 integration pointer section, with earlier wording kept in place. v2.2 records the 2026-11-25 written Event 023 revision."
 ---
 
 # GKM CORE 07 — SHINOSAWA HIRO / 篠澤広
 ## Phase 3 source-facing character deep reading
+
+> **REVISE — v2.2, 2026-11-25. Hiro’s two mission reports.** The earlier account condensed the aid and its outcome into one mission. Hiro first celebrates bringing Temari a useful clue in part 03. After Temari presents her gift in part 05, Hiro reports to Misuzu and says she enjoyed helping both friends. The previous wording is preserved in v2.1.
 
 > **Source-boundary exception — 2026-11-25 (guarded Events 014 and 015 integration).** The original source boundary governs the Phase 3 textual baseline. The separately dated recorded addition in this document draws on Japanese mixed audio and sampled stills in the linked [case 1](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it) · [case 2](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#exertion-relief-and-friendship-across-four-windows). Source-scheduled actions, seen stills and heard delivery retain their individual scopes.
 
@@ -867,7 +869,7 @@ The impossible idol project paradoxically gives the genius a more ordinary adole
 
 - *Low energy as design information.* Asked what she would want to do at a hot spring, Hiro says nothing at all, because hot water promotes circulation but tires her (`adv_event_006_main-04` L169–L208). Ume and China rebuild their event plan around that user's perspective.
 - *Structural curiosity and reciprocal disclosure.* In Event 018 Hiro asks Sumika whether she had been avoiding her. Sumika explains that Hiro seemed someone lies would not work on, which frightened her a little (`adv_event_018_main-05` L490–L520). Hiro then asks Sumika to make her a gyaru, because that too seems not to suit her (L562–L584). A support story carries the experiment out (`adv_csprt-3-0073_02.txt` L35–L174; `adv_csprt-3-0073_03.txt` L156–L180; §3.1).
-- *Mediation without appropriation.* In Event 023 Temari denies being close to Hiro while asking for her help (`別に仲良しじゃない。`, `adv_event_023_main-01` L197). Hiro runs a playful "agent" operation with Misuzu so that Temari can author her own gift, and treats the result as a completed mission (`adv_event_023_main-03` L270–L294).
+- *Mediation without appropriation.* Temari disputes Hiro’s claim that they are close, asks her advice and later asks her to come shopping (`adv_event_023_main-01` L187–L223, L344–L346). Hiro celebrates one completed mission when Temari says the information helped (`main-03` L270–L294). The final private mission report comes after Temari presents her own gift: Hiro calls herself a double agent and says she enjoyed solving both problems; Misuzu thanks her (`main-05` L345–L393).
 - *Boundary-respecting help.* In Event 025 Hiro offers help as a candidate for the next student council; when China declines, Hiro accepts and cheers from the side (`adv_event_025_main-02` L236–L259).
 - *Resistance relative to her own body and to other people.* She asks Temari for harsher criticism and asks to watch China's posture until China falls asleep (`adv_csprt-1-0005_01.txt` L55; `adv_csprt-1-0005_02.txt` L64–L88). She tells Misuzu that a light task was very hard for her and that being unable to do it is the fun (`adv_csprt-2-0012_01.txt` L43–L53). She invents a leaf-catching martial-arts trial, which Arimura Mao redirects toward basic forms (`adv_csprt-2-0059_01.txt` L113–L121; Series 2 part 051–074 reading §8). Tutoring Ume and China, she cannot understand why they do not understand (`adv_csprt-3-0025_03.txt` L40–L93).
 - *Fandom as ordinary preference (GKM-SAA-217).* Hiro collects China's merchandise and trades for it as an old fan's duty (Dear 017 L120–L149), and she stammers in keigo when she first meets owl (Dear 025 L63–L64).
@@ -1026,7 +1028,7 @@ Added under owner decision 1 as amended (GKM-SAA-104, GKM-SAA-108). The table in
 | Event 010 main-04 | `adv_event_010_main-04` L312–L319, L426–L444, L494–L509 | recipients outrank solitary difficulty; completion is not empty | E006–012 §6.4–§6.6 | Phase 4 — Events 006–012 | §2.1, §9.1 |
 | Event 014 main-03, main-05 | `adv_event_014_main-03` L300–L344, L456–L463; `adv_event_014_main-05` L786–L807 | suffering refused when friends bear the cost; Hiro says `大切な友達` and `大好き`, Misuzu answers `わたしもです`; event-track unfamiliarity with `悔しい` | E013–020 §3.2, §3.6 | Phase 4 — Events 013–020 | §7.1, §5.1 |
 | Event 018 main-05 | `adv_event_018_main-05` L490–L584 | reciprocal disclosure with Sumika; gyaru as chosen mismatch | E013–020 §7.2–§7.4 | Phase 4 — Events 013–020 | §22 |
-| Event 023 main-01, main-03 | `adv_event_023_main-01` L197; `adv_event_023_main-03` L270–L294 | mediation between Temari and Misuzu without appropriation | E021+ §4.2–§4.5 | Phase 4 — Events 021+ | §22 |
+| Event 023 main-01, main-03, main-05 | `adv_event_023_main-01` L187–L223, L344–L346; `adv_event_023_main-03` L270–L294; `adv_event_023_main-05` L345–L393 | Temari asks for help; Hiro distinguishes the useful clue from her final report about both girls | E021+ §4.2–§4.5 | Phase 4 — Events 021+ | §22 |
 | Event 025 main-02 | `adv_event_025_main-02` L236–L259 | next-council candidate; accepts China's refusal of help | E021+ §6 | Phase 4 — Events 021+ | §22 |
 | support 1-0005 | `adv_csprt-1-0005_01.txt` L55; `adv_csprt-1-0005_02.txt` L64–L88 | asks for harsher criticism; studies China's posture | S01 §7 | Phase 5 — Support Series 1 | §22 |
 | support 2-0010 | `adv_csprt-2-0010_02.txt` L43–L112 | accepts recovery care framed as a shared pleasure | S02a §12 | Phase 5 — Support Series 2 Part 001–025 | §3.1 |

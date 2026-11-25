@@ -2,14 +2,16 @@
 title: "Gakuen Idolmaster V2 - Character State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.16"
+version: "2.17"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-25 — Carbon write-through and written Event 024 attribution"
+last_updated: "2026-11-25 — Carbon write-through and written Event 024 attribution; written Event 023 revision"
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
 # CHARACTER STATE LEDGER
+
+> **REVISE — v2.17, 2026-11-25. Hiro’s written Event 023 outcome.** The earlier entry described Hiro as accurately reading her friends. The event establishes that Hiro brings Temari a clue, supports her choice and reports the outcome to Misuzu. Hiro marks her reading of Misuzu’s intention as conditional. The previous wording is preserved in v2.16.
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
 
@@ -484,7 +486,7 @@ The following transitions are tranche-level routing instructions, not replacemen
 | Arimura Mao | **STRENGTHEN / REVISE** | E022 final-chance overtraining reveals identity foreclosure; receiving Kotone's care enables her to face Sena rather than avoid her | refractive role authorship requires capacity to receive care and include vulnerable/private material, not protect a sealed prince role |
 | Katsuragi Lilja | **PRESERVE** | no major direct speaking role in the final tranche | retain Phase-3 and earlier Phase-4 formulation |
 | Kuramoto China | **PROMOTE / STRENGTHEN** | E025 explicitly names her next student-council president; she accepts accountability, refuses Hiro's help when ownership of repair matters, and organizes a collective answer | accountable inheritance now has a concrete future office: institutional receptive authority |
-| Shinosawa Hiro | **STRENGTHEN** | E023 accurately mediates Temari/Misuzu without taking over; E025 identifies herself as a next-council candidate and respects China's refusal | resistance-seeking coexists with sophisticated relational modeling and boundary-respecting help |
+| Shinosawa Hiro | **STRENGTHEN** | E023 brings Temari a useful clue, supports her choice and reports the outcome to Misuzu; E025 identifies herself as a next-council candidate and respects China's refusal | resistance-seeking coexists with sophisticated relational modeling and boundary-respecting help |
 | Himesaki Rinami | **STRENGTHEN** | E021 uses enough authority to prohibit Sena/Tsubame from council work and coordinate a training ban | reversible hospitality can become protective command when role obligation blocks self-care |
 | Shiun Sumika | **PRESERVE** | no major direct speaking role in the final tranche | retain Phase-3 and earlier Phase-4 formulation |
 | Hanami Ume | **STRENGTHEN** | E024 helps release ENDLESS DANCE from prestige monopoly; E025 proposes workflow tooling; E026 turns predecessor language into direct self-address | reciprocal propulsion includes cultural permission-giving, process design, and increasingly autonomous self-motivation |

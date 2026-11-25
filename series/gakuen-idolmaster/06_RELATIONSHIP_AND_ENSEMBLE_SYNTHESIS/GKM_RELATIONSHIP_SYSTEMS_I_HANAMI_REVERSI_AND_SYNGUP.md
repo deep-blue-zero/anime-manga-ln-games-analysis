@@ -12,16 +12,18 @@ source_revision: 32
 governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
-version: '2.2'
+version: '2.3'
 created: '2026-08-24'
-revised: '2026-11-25 — Carbon write-through'
-revision_note: '2026-11-25. Admits the distributed Rinha dossier for the post-unit relationship, distinguishing the café disagreement, the return promise and the prospective dissolution live. Earlier revision: Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): track-scoped and evidence-routed additions to the Hanami (§3), REVERSI (§4) and SyngUp (§5, one coordinated pass incl. new §5.2.1 and §5.9.2) systems, romance-coded material recorded as bounded and OPEN, and corrected §12 routing; earlier formulations kept recoverable'
+revised: '2026-11-25 — Carbon write-through and written Event 023 revision'
+revision_note: '2026-11-25. Admits the distributed Rinha dossier for the post-unit relationship, distinguishing the café disagreement, the return promise and the prospective dissolution live. Earlier revision: Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): track-scoped and evidence-routed additions to the Hanami (§3), REVERSI (§4) and SyngUp (§5, one coordinated pass incl. new §5.2.1 and §5.9.2) systems, romance-coded material recorded as bounded and OPEN, and corrected §12 routing; earlier formulations kept recoverable. v2.3 records the 2026-11-25 written Event 023 revision.'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM RELATIONSHIP SYSTEMS I — HANAMI, REVERSI, AND SYNGUP
+
+> **REVISE — v2.3, 2026-11-25. The birthday exchange in the SyngUp relationship.** The earlier account gave Misuzu a settled intention that Temari should spend time thinking about her. Misuzu says she delights in someone important to her being full of her. Hiro conditionally applies that image to the time Temari spends choosing the gift. Temari chooses what to make and later confirms what she sang. The previous wording is preserved in v2.2.
 
 ## Recorded comparison note — 2026-11-25
 
@@ -1065,9 +1067,9 @@ Hiro brokers the problem without replacing the dyad.
 
 The final gift—a one-copy birthday/lullaby CD—matters because it transforms a remembered old request into new authored labor.
 
-Misuzu wanted Temari to think about her.
+Misuzu says giving makes her happy when someone important to her is “full of me.” Hiro takes that image in a particular direction. If she has understood Misuzu, she says, then the very act of choosing this gift fills Temari’s head with thoughts of her friend (`adv_event_023_main-03` L223–L236, L334–L345).
 
-Temari remembers, works, records, and chooses.
+Temari remembers Misuzu’s request for a daily lullaby at naptime, proposes recording it and later says she sang both pieces on the CD. Hiro endorses a single copy for Misuzu. When Hiro gives her report afterwards, Misuzu thanks her (`main-04` L219–L230, L255–L264; `main-05` L229–L231, L364–L393).
 
 The old ritual is neither simply resumed nor abandoned.
 

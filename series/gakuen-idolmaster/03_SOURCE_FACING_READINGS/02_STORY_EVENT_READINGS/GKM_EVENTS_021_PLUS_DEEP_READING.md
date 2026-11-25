@@ -12,15 +12,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-23'
-version: "1.2"
+version: "1.3"
 revised: "2026-11-25"
-revision_note: "Corrects selected Event 022 and 024 speaker, reported-reception and repertoire claims against the same locked Japanese scripts. Retains the v1.1 revision record, source boundary and AV request history."
+revision_note: "Corrects selected Event 022 and 024 speaker, reported-reception and repertoire claims against the same locked Japanese scripts. Retains the v1.1 revision record, source boundary and AV request history. v1.3 records the 2026-11-25 written Event 023 revision."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM EVENTS 021+ DEEP READING
+
+> **REVISE — v1.3, 2026-11-25. Hiro’s inquiry and report, Temari’s choice and Misuzu’s account of giving.** The earlier reading treated Temari’s request for help as contradicting her description of the friendship and credited Hiro with knowing Misuzu’s intentions. Temari disputes the label and still chooses Hiro’s help. Misuzu describes giving in her own terms. Hiro reaches a conditional interpretation, brings Temari a clue and reports separately to Misuzu. Temari proposes making the CD and later says she sang both songs on it. The previous wording is preserved in v1.2.
 
 > **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** First versioned revision; the text before this date, including the 2026-11-12 Source Lock 1.1 pointer at the end, counts as v1.0. Dated notes mark each change: §1.3 and §8 "branch-gated" defined as continuity gating, with Event 029 main-01 choice-invariant (GKM-SAA-273, PRESERVE gating, REVISE terminology); §1.3 the Event 024 culture festival linked to Event 028, with the dating tension left OPEN (GKM-SAA-270); §2.1 boundary condition on Rinami's protective command (GKM-SAA-271, STRENGTHEN); §2.4 and §10 Tsubame's E021 transition relabelled from REVISE to STRENGTHEN (origin datum) (HSCA-108); §2.5 the observation-deck memory reattributed to Tsubame (GKM-SAA-030, REVISE); §3 Sena's unspecified help with Kotone's work load (GKM-SAA-156, STRENGTHEN); §5.4 the `ENDLESS DANCE` commons arises from competing possessive claims (HSCA-028, STRENGTHEN); §10 and §18 owner-policy note on core integration (GKM-SAA-104). Earlier formulations stay in place beside each note.
 
@@ -416,11 +418,11 @@ This is why ordinary consumer advice fails. The problem is not “what does Misu
 
 Temari considers asking Rinha but predicts she will be told to think for herself. She instead notices Hiro deliberately advertising that she knows Misuzu well and is also close to Temari.
 
-Temari verbally denies the friendship—`別に仲良しじゃない`—and immediately asks Hiro for intimate help.
+Hiro calls them close. Temari disputes the description (「別に仲良しじゃない」), and Hiro repeats it. Temari then asks for advice, rejects a video on grounds of embarrassment and invites Hiro to help her shop (part 01 L187–223, L310–346).
 
-The contradiction is useful modeling evidence: Temari's speech can understate relation even while behavior depends on it.
+Temari can disagree about what to call a relationship and still choose this person for a specific confidence. Her objections also change what the two do.
 
-## 4.2 Hiro's mediation style is playful, intrusive, and highly accurate
+## 4.2 Hiro uses play to draw out what Temari remembers
 
 Hiro accompanies Temari shopping, narrates their outing as a new story chapter, lures her into games and a photo booth, and gradually changes the problem from merchandise selection into relationship reconstruction.
 
@@ -433,21 +435,21 @@ Temari's memories all point toward relation:
 - happy Temari cleaned;
 - happy Temari ate a disliked vegetable.
 
-Hiro jokingly proposes that the present is therefore **Temari herself**. Temari rejects the literal version, but Hiro has identified the structure correctly.
+Hiro proposes **Temari herself** as the present. Temari objects, and Hiro calls the suggestion half a joke. The useful part is the change of question: Temari has begun recalling occasions when her own presence or actions made Misuzu happy (part 02 L348–465).
 
-Misuzu does not primarily want an expensive object. She wants evidence that the person she values is occupied by her presence.
+Hiro later wonders whether this very process of thinking about Misuzu could be part of the gift. She presents it as her reading of Misuzu’s intention (part 03 L334–345).
 
 ## 4.3 Misuzu articulates possessive care unusually plainly
 
-Hiro's hilariously poor “agent” interrogation is transparent enough that Misuzu quickly understands someone else is probably asking through her. Misuzu nonetheless gives the answer.
+Misuzu asks Hiro whether the answer is really for her and suggests that she might be helping someone in difficulty. Hiro denies it and Misuzu lets the answer stand. Temari’s successive inward questions, first whether they have been found out and then whether they have escaped notice, leave the limits of Misuzu’s knowledge open (part 03 L138–201).
 
-She says she prefers giving to receiving. She wants to fill important people with herself; happiness is seeing someone she loves become **full of Misuzu**.
+Misuzu first says that anything chosen for her would make her happy. She calls that the conventional answer and then explains why she prefers giving. She wants to fill someone with herself, and it makes her happy when someone important to her is “full of me” (part 03 L208–236).
 
 This is one of the cleanest non-crisis formulations of Misuzu's centripetal attachment.
 
-It should not be softened into generic generosity. The giving is possessive in structure: the gift's pleasure comes from occupying the recipient's attention and environment.
+Giving here has a possessive element even when Misuzu welcomes another person’s choice. Her image makes her place in the recipient’s life part of the pleasure of giving (part 03 L210–236).
 
-Yet it is also not reducible to coercion. Misuzu gives Hiro a usable clue and later cooperates as a “double spy” so Temari can create something authored rather than dictated.
+Hiro tells Temari in advance that she will ask Misuzu, and Temari later says the inquiry gave her a clue. After the birthday gift succeeds, Hiro gives Misuzu a private report. Whether Temari knows of that report or Misuzu and Hiro agreed on it beforehand remains open (part 02 L472–513, part 03 L270–294, part 05 L345–393).
 
 **STRENGTHEN — Misuzu:** care and possession remain structurally intertwined even in benign gift exchange.
 
@@ -455,13 +457,13 @@ Yet it is also not reducible to coercion. Misuzu gives Hiro a usable clue and la
 
 Hiro asks Temari to recount prior birthday gifts. Temari can do so at enormous length—Hiro jokes that it became a twelve-episode epic. The important finding is that Temari remembers the history in fine detail.
 
-Hiro notices that Temari has never simply asked Misuzu what she wants. Temari refuses to begin now because she wants **this gift to be something she and Hiro think through together**.
+Having heard the birthday stories, Hiro points out that Temari has never asked Misuzu directly what gift she would like for her birthday. Temari declines to ask directly this year because she wants to think through this gift with Hiro (part 04 L105–139).
 
-That answer itself marks relational growth. Temari is not trying to reproduce the childhood dyad exactly. She allows a newer friend to help author the repair.
+Temari makes a place for Hiro in a ritual that began in childhood. She chooses collaboration on this present while keeping the choice of gift her own.
 
-A remembered request finally supplies the form: Misuzu once asked Temari to sing her a lullaby every night so she could nap comfortably. Temari dismissed it at the time as another excuse not to train. Hiro believes Misuzu was serious.
+Temari remembers Misuzu asking her to sing a lullaby every day so she could nap comfortably. Temari says she brushed it off by telling Misuzu to practise. Hiro takes the request seriously. At a concert the two attended as spectators, Misuzu said she wanted its enthusiastic fans for herself (part 04 L169–202). The lullaby request belongs to a different memory (L219–248).
 
-Temari's solution is therefore a one-copy CD containing a birthday song and lullaby recorded specifically for Misuzu.
+Temari proposes singing and making a CD. Hiro calls it a single copy for Misuzu and endorses the idea. Temari says she needs to secure a studio and wants to consult her trainer. At the birthday she tells Misuzu she sang both the birthday song and the lullaby on this one copy (part 04 L255–296; part 05 L229–231).
 
 The gift works because it converts four layers into one artifact:
 
@@ -472,22 +474,22 @@ The gift works because it converts four layers into one artifact:
 
 ## 4.5 Hiro is a mediator, not a replacement intimacy
 
-The final reveal that Hiro and Misuzu were effectively running a double-agent operation is important. Hiro solved both people's problem:
+The final private conversation gives a second meaning to Hiro’s game of agents. She hands over her report, calls herself a double agent and says she enjoyed solving both girls’ problems. Misuzu agrees that it went well and thanks her (part 05 L345–393).
 
 - Temari needed enough information to author a meaningful gift;
-- Misuzu wanted Temari to spend time thinking about her rather than simply supplying a shopping list.
+- Misuzu says it makes her happy when someone important to her is full of her. Hiro wonders whether, in this particular case, Temari’s head filling with thoughts of Misuzu as she struggles over the gift would be part of its value (part 03 L223–236, L334–345).
 
-Hiro does not ask for credit in front of Temari. After the gift succeeds she privately reports to Misuzu and treats the result as a completed mission she enjoyed.
+Temari thanks Hiro for helping to the end before going in to present the gift herself. Hiro gives Misuzu her report afterwards. Earlier, Hiro had already celebrated the narrower mission of bringing Temari a useful clue (part 05 L139–167, L332–393; part 03 L270–294).
 
 This is a mature form of third-party relational intervention: **increase the dyad's capacity without becoming the center of the dyad.**
 
-**STRENGTHEN — Hiro:** her social intelligence includes mediation, playful indirection, and accurate interpretation of possessive/avoidant friends.
+**STRENGTHEN — Hiro.** She brings Temari a clue, helps her recall a neglected wish and lets her decide what to make. She reports the outcome to Misuzu separately. The success of the gift gives Hiro credit for helping both friends. Her interpretation of what Misuzu intended remains a conjecture (part 03 L270–294, L334–345, part 04 L128–162, L219–264, part 05 L345–393).
 
 ## 4.6 Song becomes private care rather than public performance
 
-Temari's decisive gift is singing, but not singing for an audience or ranking. It is a private, repeatable care object for one person.
+Misuzu is the intended listener for both songs. The single copy lets her hear Temari’s gift again in private.
 
-Misuzu calls the fulfilled lullaby request a dream coming true and says she will listen every night. Temari immediately converts romance of the gesture back into practical concern—she wants Misuzu to fall asleep, not replay it endlessly.
+Misuzu calls the gift a dream fulfilled and promises to listen before bed, again and again. Temari protests that she wants her to get to sleep. The old request was for a daytime nap; the promise describes how Misuzu intends to use this recording (part 04 L219–230; part 05 L241–302).
 
 This is valuable for Temari reconstruction because it shows professional skill entering intimacy without becoming performance vanity.
 
@@ -500,14 +502,14 @@ The CD matters less as music commodity than as evidence that Temari remembered, 
 ### Relationship promotions
 
 - **Temari ↔ Misuzu — STRENGTHEN:** post-SyngUp! repair includes resumption and transformation of childhood rituals, not merely verbal reconciliation.
-- **Temari ↔ Hiro — PROMOTE:** Temari trusts Hiro with highly personal relational history despite verbally denying friendship; Hiro can mediate without threatening Temari's authorship.
-- **Hiro ↔ Misuzu — STRENGTHEN:** high-trust conspiratorial friendship; Misuzu recognizes Hiro's method and cooperates with it.
+- **Temari ↔ Hiro — PROMOTE:** Temari disagrees with Hiro’s description of them as close, then chooses her as confidante and collaborator. Temari decides how to use the advice.
+- **Hiro ↔ Misuzu — STRENGTHEN:** Hiro calls herself a double agent when she gives Misuzu the report. Misuzu acknowledges the result and thanks her. The exchange leaves open whether there was an advance agreement (part 05 L345–393).
 
 ### Japanese-register evidence
 
-- Temari's `別に仲良しじゃない` should not be treated literally when immediately contradicted by reliance and disclosure.
-- Hiro's compressed declarative style can become genre-play (`えーじぇんと・広`) without losing her underlying deadpan identity.
-- Misuzu's formal softness carries explicitly possessive semantics with no syntactic need to become harsher.
+- Temari’s 「別に仲良しじゃない」 contests Hiro’s chosen label. Her later request for help shows trust in this activity; it does not retract the disagreement (part 01 L193–223, L344–346).
+- Hiro’s short declarations turn into agent and mission language. Part 03 L284–294 marks the information-gathering success; part 05 L364–393 marks her final report.
+- Misuzu’s polite phrasing carries an unusually direct image. She wants to fill someone with herself and says it makes her happy when a person important to her is “full of me” (part 03 L223–232). Hiro later imagines Temari’s head filling with thoughts of Misuzu and makes that reading conditional (L334–345).
 
 ### AV requests
 
@@ -1189,7 +1191,7 @@ This formulation should constrain later character-simulation work. “More matur
 | Mao | STRENGTHEN / REVISE | E022 overtraining reveals identity foreclosure; receiving Kotone's care enables direct confrontation with Sena; ordinary preferences do not negate princehood | refractive role authorship requires the capacity to receive care and include vulnerable/private material rather than defend a sealed role |
 | Lilja | PRESERVE | no major new central evidence in final tranche | Phase-3/earlier Phase-4 model remains current |
 | China | STRENGTHEN | E025 explicitly names her next student-council president; she accepts accountability, refuses help when ownership matters, organizes collective repair | accountable inheritance becomes institutional receptive authority |
-| Hiro | STRENGTHEN | E023 accurately mediates Temari/Misuzu without taking over; E025 identifies herself as next-council candidate and respects China's refusal | resistant form coexists with sophisticated relational interpretation and boundary-respecting help |
+| Hiro | STRENGTHEN | E023 brings Temari a useful clue, supports her choice of gift and later reports to Misuzu; E025 identifies herself as next-council candidate and respects China's refusal | resistant form coexists with sophisticated relational interpretation and boundary-respecting help |
 | Rinami | STRENGTHEN | E021 forcibly removes Sena/Tsubame from work/training when reciprocal duty blocks self-care | reversible hospitality includes protective command when recipients' role obligations make ordinary consent unreliable; *boundary (2026-11-15, GKM-SAA-271): she does not command Mao's rest in E022 because she shares the final-year ambition (`adv_event_022_main-03` L21–L32); see §2.1* |
 | Sumika | PRESERVE | no major new central evidence in final tranche | Phase-3/earlier Phase-4 model remains current |
 | Ume | STRENGTHEN | E024 helps return a monopolized song to circulation; E025 proposes process tooling; E026 internalizes predecessor language into direct self-address | reciprocal propulsion now includes institutional design, cultural permission-giving, and autonomous self-motivation |
@@ -1244,8 +1246,8 @@ Keep the Temari–Misuzu dyad primary, but preserve Hiro as an important **relat
 Event 023 demonstrates:
 
 - Temari trusts Hiro with childhood relational history;
-- Hiro accurately models Misuzu's needs;
-- Misuzu trusts Hiro to run a double-agent intervention;
+- Hiro offers an explicitly conditional reading of what might please Misuzu (part 03 L334–345);
+- Misuzu receives Hiro’s private report and thanks her after Hiro calls herself a double agent (part 05 L364–376);
 - Hiro helps without making herself the gift or the central relationship.
 
 ## 11.4 Sena ↔ Ume / Sena ↔ Misuzu
