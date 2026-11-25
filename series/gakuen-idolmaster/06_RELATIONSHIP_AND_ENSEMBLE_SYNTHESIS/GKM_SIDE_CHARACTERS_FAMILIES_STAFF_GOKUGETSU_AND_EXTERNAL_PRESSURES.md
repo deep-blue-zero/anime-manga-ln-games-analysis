@@ -275,6 +275,8 @@ That same love can produce:
 
 The route's mature answer is not rejection of family support. China increasingly builds **internal constitutional restraints** around inherited power.
 
+The [portrait of China’s grandfather](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KURAMOTO_GRANDFATHER.md) distinguishes China’s account of the childhood appeal from his own three turns in the Kanae transfer conversation. The independent exam condition comes from the Producer. The grandfather agrees and asks what happens if the plan fails. The two song communications in which his request prompts different responses further bound what his authority means for any particular audition. The [reviewed evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KURAMOTO_GRANDFATHER_SOURCE_AND_SCOPE.md#speech-and-evidence-limits) records the written boundary.
+
 ### Kanae as a person, not a household function
 
 Hiwatari Kanae is crucial here.
