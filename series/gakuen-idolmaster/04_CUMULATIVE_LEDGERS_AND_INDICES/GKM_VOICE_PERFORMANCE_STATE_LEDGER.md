@@ -454,3 +454,13 @@ Kotone addresses Saki more quietly after music recedes, and moves from bare name
 ## Café recommendations, cinema cover and nickname exchange — 2026-11-25
 
 On SRC-0088 at 127–222 s Lilja’s address stays polite as her recommendation speeds up and grows more emphatic. Tsubame pauses and reconsiders the intended audience of the show. At 234–322.65 s Tsubame stammers first in the excuse and Lilja rushes to corroborate. Their speech remains differentiated. On SRC-0039 at 1174–1225 s Temari moves from a flat example to a falling, puzzled direct address, while Sumika’s comment is lighter. Temari’s laugh and warmer reply follow Kotone’s joking nickname proposal. These are approximate paired listening spans. The sampled picture leaves interframe movements and private motives open. [Perceptual readback](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Five support-card performed comparisons — 2026-11-25
+
+The exact parent and line locators are in the [current receiving record](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md). These support-continuity observations compare continuous heard Japanese and sampled visuals in bounded native-return windows.
+
+- In `2-0018_02`, Saki’s practical instruction, apology and later teasing warmth have different turns. Audience-audible inward protest at 156–160 s belongs to Temari. Her separate spoken retort has a steadier delivery. The source leaves Saki’s motive and physical taping open.
+- In `2-0011_02`, Kotone punctuates her refusal around 107–111 s. Polite, extended phrasing surrounds an explicit objection to debt and uncertain income. The underscore continues. Sena’s later vow is her own response after Kotone departs.
+- In `1-0004_01`, Rinami’s retry at about 63–75 s is heard as smoother and less forceful than her first acting attempt. Punctuation, box structure, expression and score also change. The evidence supports guided variation within a role, with acoustic measurements, causes and generalized vocal identity open.
+- In `3-0071_03`, Tsubame’s response to Student C breaks and warms in a particular recognition scene (L172–173). The students’ earlier and later captions remain unvoiced in the inspected edition. The sound of approach provides no independent speaker personality.
+- In `2-0067_02`, Temari privately compares the expressions and later makes a separate spoken comparison. Ume’s teasing rise around 189–194 s and Temari’s subsequent nonlexical voice and denial have different cues. Ume names what she did in her last turn. Its onset as a planned joke remains open.

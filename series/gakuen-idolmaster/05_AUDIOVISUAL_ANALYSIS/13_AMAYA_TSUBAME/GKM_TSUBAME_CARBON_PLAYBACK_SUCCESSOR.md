@@ -5,7 +5,7 @@ artifact_type: audiovisual_reconciliation
 scope: 13_AMAYA_TSUBAME_CARBON_PLAYBACK
 generation: V2
 status: canonical
-source_boundary: "Carbon receiver dispositions, identified recording editions and intervals. Support 3-0086-03 has a separate item-level adjudication."
+source_boundary: "Carbon receiver dispositions, identified recording editions and intervals. The named support scenes have separate item-level adjudications."
 do_not_use_as_current_authority: false
 last_updated: "2026-11-25"
 ---
@@ -56,9 +56,15 @@ For SDIV-16 the pinned script prints ふむ…… in Tsubame’s rank 3 episode 
 
 Relevant Carbon propositions are `PROP-0246`.
 
+## A student who noticed the dance
+
+In *盛り上げてこー！* part 3 (r41O7nY6FvI, parent 172–270.5 s), Tsubame asks Sena to play an arcade dance game. At about 208 s she is breathless and surprised as she declares that she won. Her suspicion that Sena held back remains open. The time transition elides the match, and the returned picture samples show no independent points total.
+
+In their first encounter one student identifies Sena as the Prima Stella and another requests her autograph. Tsubame voices the gap she feels between first and second near 232 s. Student C later identifies Tsubame and praises her dance with Sena. The second box is visible at 258 and 260 s. The student boxes carry no assigned voice. Tsubame’s audible, hesitant thanks and her flushed cheeks in the sampled picture belong to her response. Mao points out that someone watched her. That one student gives Tsubame evidence against her own comparison without settling their relative celebrity. Source Lock 1.2, `adv_csprt-3-0071_03.txt` L22, L51–93, L100–143 and L161–182. [Five support-scene adjudications](../GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md).
+
 ## Completion boundary
 
-Individual Gate E remains open. The recorded date experiment resolves the 3-0086-03 performance question. Tsubame’s 3-0071-03 arcade recognition and other applicable requests require their own named evidence. The Phase 3 report records the earlier delivery. The present successor changes the claims in the sections above and supplies no additional viewing or listening credit. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
+Individual Gate E remains open. The recorded date experiment resolves the 3-0086-03 performance question. The arcade recognition now has a named source and interval. Other applicable requests keep their separate dispositions. The Phase 3 report records the earlier delivery. The separate reviews supply the hearing and sampled-picture evidence for the named support scenes. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
 
 ## Later support scenes
 

@@ -20,6 +20,8 @@ title: GKM Core 13 — Amaya Tsubame AV Revision Addendum
 
 Remove the unrelated SRC-0003 streamer/result display as Tsubame dialogue. In her Dear 033 it is Misuzu's H.I.F. stake that she receives, while Rinha is a direct voiced participant. Separate filmed performances, the publisher game master, named pronoun/address roles and the unavailable commercial track. The 3-0086 exchange adds specific rendered fluster and an act of setting the end of the outing without deciding durable romance. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md). Earlier accounting and source locks below describe their own revisions.
 
+At the arcade Tsubame uses the autograph request addressed to Sena to explain what second place feels like to her. Later a student names Tsubame and praises her part in the dance with Sena. Tsubame’s hesitant, warming thanks marks a change from the certainty with which she described first and second place. Mao then points out that someone really did watch her. The encounter qualifies Tsubame’s account of invisibility in this scene. It gives no independent measure of the two idols’ fame. [Support 3-0071 part 3, text and recording](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md).
+
 This addendum routes Phase-3 textual claims through the complete audiovisual pass. It does not mutate the frozen textual core.
 
 | Textual claim | Transition | AV formulation |

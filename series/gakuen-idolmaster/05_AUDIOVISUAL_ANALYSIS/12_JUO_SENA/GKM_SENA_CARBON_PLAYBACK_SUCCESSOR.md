@@ -5,7 +5,7 @@ artifact_type: audiovisual_reconciliation
 scope: 12_JUO_SENA_CARBON_PLAYBACK
 generation: V2
 status: canonical
-source_boundary: "Carbon receiver dispositions, identified recording editions and intervals. Support 3-0086-03 has a separate item-level adjudication."
+source_boundary: "Carbon receiver dispositions, identified recording editions and intervals. The named support scenes have separate item-level adjudications."
 do_not_use_as_current_authority: false
 last_updated: "2026-11-25"
 ---
@@ -44,6 +44,12 @@ In SRC-0030, the rooftop panel already prints 私はもうアイドルを諦め�
 
 Relevant Carbon propositions are `PROP-0228`, `PROP-0229`, `PROP-0235`, `PROP-0270`, `PROP-0271`.
 
+## What Sena offers Kotone and what the arcade shows
+
+In *思惑とガクガク* part 2 (fMBRGgIgj1c, parent 68–136.95 s), Sena calmly offers money for present needs and names what she believes Kotone could earn. Kotone rejects debt and uncertain income. Sena calls after her, then resolves to try again around 129–135 s. Her persistence and belief in Kotone are audible here. No repayment terms or accepted arrangement are stated. Source Lock 1.2, `adv_csprt-2-0011_02.txt` L53–90 and L99–106.
+
+The arcade provides a different test of how others read Sena’s confidence. After agreeing to play and asking where the coin goes, she hears Tsubame report her unexpected win and calmly praises her. Tsubame suspects Sena held back. The score display and Sena’s purpose remain unverified. In the first approach, one student identifies Sena as the Prima Stella and another requests her autograph. Sena agrees to the request. A later student praises Tsubame’s dance with Sena. The four student messages are printed without assigned voice clips. Their recognition is legible in the exchange without an inferred student vocal reaction. *盛り上げてこー！* part 3, r41O7nY6FvI, parent 172–270.5 s, `adv_csprt-3-0071_03.txt` L22–34, L77–107 and L161–172. [Five support-scene adjudications](../GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md).
+
 ## Completion boundary
 
-Individual Gate E remains open. The support 3-0086-03 performance question has a dedicated accepted adjudication. Other applicable source requests retain their individual dispositions. The Phase 3 report records the earlier delivery. The present successor changes the claims in the sections above and supplies no additional viewing or listening credit. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
+Individual Gate E remains open. The support 3-0086-03 performance question has a dedicated accepted adjudication. Other applicable source requests retain their individual dispositions. The Phase 3 report records the earlier delivery. The separate reviews supply the hearing and sampled-picture evidence for the named support scenes. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).

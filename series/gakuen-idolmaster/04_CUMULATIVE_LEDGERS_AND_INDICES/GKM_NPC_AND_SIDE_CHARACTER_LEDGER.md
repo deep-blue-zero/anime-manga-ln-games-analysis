@@ -259,7 +259,7 @@ E025 identifies the idol-oriented scheduling application proposed by Ume as comi
 **Authority:** `GKM_SUPPORT_SERIES_01_DEEP_READING.md` — Drive `1bIaJl--tZuINAqz_mhNfufWMLjnEibwz`.
 
 - **Vocal trainer:** actively solicits volunteers and explicitly frames high-school progression as intensified competition because external entrants arrive. Uses Temari as positive example while still wanting broader participation.
-- **Visual trainer:** treats performance width as trainable and diagnostically separates imposed archetype (`妹っぽさ`) from relationally grounded acting. Also pushes Mao toward safe imperfect experimentation rather than waiting for polished private mastery.
+- **Visual trainer:** asks whether Rinami is overplaying the younger-sister part (`妹っぽさ`), asks her to imagine someone close, and approves the changed retry. The scene leaves her exact imagined person open. Also pushes Mao toward safe imperfect experimentation rather than waiting for polished private mastery. [Rinami’s two takes](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md#the-handkerchief-rehearsal)
 - **Dance trainer:** body-specific evaluator who distinguishes effort from current result, respects lesson turn-taking, and gives concrete biomechanical/fitness feedback.
 - **Rinami's younger sister:** phone-only evidence; sick but attempts to prevent Rinami returning home, plausibly partly to preserve freedom while absent from school. Rinami describes her as someone who may try to go out despite fever. Do not reconstruct broader personality from this one call.
 - **Rinha:** no direct or reported appearance in Support Series 1; mandatory Phase-6 Rinha dossier receives no new Series-1 support object.

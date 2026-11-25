@@ -58,8 +58,14 @@ Relevant Carbon propositions are `PROP-0029`, `PROP-0227`, `PROP-0300`.
 
 ## Completion boundary
 
-Individual Gate E remains open. The ankle-taping support scene, adv_csprt-2-0018_02, remains a separate material P0. The Phase 3 report records the earlier delivery. The present successor changes the claims in the sections above and supplies no additional viewing or listening credit. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
+Individual Gate E remains open. The Phase 3 report records the earlier delivery. The later support receipt below answers the previously open 2-0018 part 02 question within the reviewed scene. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
 
 ## Recorded Event 016 parts 2 and 5 — 2026-11-25
 
-The [new targeted Event 016 receipt](GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md) strengthens the audience-specific withholding finding and qualifies what reciprocal boasting establishes. Saki's separate ankle care P0 still governs person-level readiness.
+The [new targeted Event 016 receipt](GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md) strengthens the audience-specific withholding finding and qualifies what reciprocal boasting establishes. The Event 016 review left the separate injury and rivalry exchange to its own source.
+
+## Practical care and renewed rivalry in support 2-0018 — 2026-11-25
+
+**REVISE.** In support 2-0018 part 02, かちこちストレッチ, Saki offers a break and Temari declines. After the stumble Saki warns that a sprain can worsen if ignored and says she will do the taping (L93–111). On 6olQr2D94ZA, the warning is around 134.5–138.8 s and the taping instruction around 140.8–144.8 s. The cut shifts to a desk-side view of the same dance room. The injury, tape and application remain outside the frame. L116 assigns a fumble effect that the listeners did not securely locate in the mix. Completion of the taping is **OPEN**.
+
+Saki apologizes for pushing Temari. She accepts Temari’s self-assessment, then renews the challenge. The light chuckle at about 170–173 s gives their competitive answer an audible warmth (L120–169). The turn establishes how Saki combines a safety response with accountability and rivalry. Whether her agreement was simple candor or deliberate provocation remains **OPEN**. Individual Gate E remains open. [Recorded support adjudication](../GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

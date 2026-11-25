@@ -163,6 +163,8 @@ The relationship is not one-way rescue. Kotone interprets the Producer’s work,
 
 Kotone can remain a fan while refusing succession and demanding equality.
 
+Sena’s offer to cover current expenses gives Kotone a specific financial reason to turn her down. In *思惑とガクガク* part 2, Kotone separates the beats of her refusal, stresses her aversion to debt and questions whether an idol income is certain. She keeps her polite, drawn-out endings as she leaves. Sena names no repayment terms. Kotone’s response establishes what she is willing to risk in this exchange. The Producer relationship in §6.1 has its own evidence. [Support 2-0011 part 2, recording and text](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md).
+
 ## 6.3 Saki and Temari
 
 `STRENGTHEN` peer ecology.

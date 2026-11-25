@@ -23,6 +23,10 @@ legacy_supersession_notes:
 
 Four stage performances have paired existing reports across eight overlapping native parts, supplementing earlier exact-audio compact witnesses. Comparison permits work on delivery, arrangements and audience ties. It does not isolate the lead or establish vocal maturation across dissimilar productions. The exact E021-01 Rinami prohibition bounds practical care and authority without relying on the earlier truncated segment or exporting it as a standing rule. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/GKM_RINAMI_CARBON_CHARACTER_RECONCILIATION_20261125.md). Earlier accounting and source locks below describe their own revisions.
 
+## Recorded support 1-0004 part 01 — 2026-11-25
+
+**STRENGTHEN.** Rinami changes her delivery once the trainer redirects her from presenting a younger-sister manner to imagining someone close. A softer, smoother second attempt and the trainer’s approval support flexible acting under guidance. Script punctuation, score and staging also change. The role’s earlier circumstances, the person Rinami imagined and whether this is her usual register remain **OPEN**. [Character audiovisual update](../../../05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/GKM_RINAMI_CARBON_CHARACTER_RECONCILIATION_20261125.md#a-change-of-acting-delivery-in-support-1-0004--2026-11-25)
+
 ## 0. Purpose
 
 This addendum does not replace the textual core. It records how the completed Phase-3 audiovisual packet changes the authority state of major textual claims.
