@@ -495,7 +495,7 @@ Rinami's senior role still matters to the others. Each girl can contribute to th
 
 ### AV requests
 
-**P0:** `adv_event_015_main-04` — equipment failure, Rinami's hesitation, and China's spontaneous audience-leading intervention.
+**P0:** `adv_event_015_main-04` — equipment failure, Rinami's hesitation, and China's audience-leading intervention; how far China had prepared it remains open.
 
 **P1:** `adv_event_015_main-05` — Rinami's post-live recognition that the juniors were also pulling her forward.
 
