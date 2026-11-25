@@ -249,6 +249,8 @@ This yields a side-character/family principle with broad applicability:
 
 Later, debt repayment does not erase Kotone's family identity. Her siblings become fans, artists, conversational partners, school visitors, and possible sources of comparison anxiety. They are not simply dependents waiting for her earnings.
 
+The [portrait of Kotone’s eldest younger sister](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KOTONE_ELDEST_YOUNGER_SISTER.md) follows the child Kotone identifies in Event 016. Her reported responsibility for the smaller children helps explain the outing. Her decisions to take instruction, propose a plan and ask about Kotone’s school life show how she takes part in it. The [evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KOTONE_ELDEST_YOUNGER_SISTER_SOURCE_AND_SCOPE.md) identifies which other appearances still lack a birth-order match.
+
 The mature Fujita family model is therefore **redistribution of care**, not escape from family.
 
 ## 2.3 The Kuramoto household: loving capital needs constitutional restraint
