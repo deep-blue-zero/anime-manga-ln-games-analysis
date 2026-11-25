@@ -17,6 +17,8 @@ last_updated: "2026-11-25"
 
 Current claim wording and item-level completion are recorded in the [Carbon playback successor](GKM_SAKI_CARBON_PLAYBACK_SUCCESSOR.md). The baseline and Phase 3 completion report retain their original inspection boundary.
 
+Two later event scenes distinguish Saki’s shift from coach to opponent and her work with a customer and two peers. [Festival game](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-coach-becomes-an-opponent) · [Animate fan encounter](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)
+
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
 Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.

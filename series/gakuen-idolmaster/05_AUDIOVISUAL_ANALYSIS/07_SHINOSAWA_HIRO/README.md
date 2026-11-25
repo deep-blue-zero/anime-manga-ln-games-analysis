@@ -32,3 +32,7 @@ Start with the [current audiovisual findings](GKM_HIRO_CARBON_CHARACTER_RECONCIL
 The **AVE-FULL-20260910 rebuild is adopted** here. Start with the [rebuild map](00_README_AND_REBUILD_STATUS.md) and [claim-by-claim review](SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md). Source materialization and technical documentation have been rebuilt; fresh perception remains sampled still review, with no direct listening or continuous-motion review. [Import provenance](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) records the bounded adoption.
 
 Retained release checksums, including CHECKSUMS.md, describe their original ZIP member bytes and package paths; repository-adoption metadata and relocated addendum links intentionally change some Git bytes. The [recovery audit](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records recovered originals and repository derivatives.
+
+## Later story-event recording
+
+[Scoped story-event review](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-unnamed-friend). Hiro uses dry commentary, then explains what she wants her friends to see. Her full gathering proposal and the later group agreement remain outside attendance.

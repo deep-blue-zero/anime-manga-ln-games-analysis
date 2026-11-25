@@ -333,14 +333,14 @@ Relational thesis: **Rinami's mature care is reversible rather than unilateral. 
 | Saki ↔ Temari | E001 | antagonistic comparison becomes competitive recognition; Saki names intimacy faster than Temari does | high |
 | Sumika ↔ Lilja | E001/E004 | secure attachment permits Lilja's independent social expansion; jealousy is felt but not enacted as enclosure | high |
 | Lilja ↔ Temari | E001/E004 | genuine conviction earns respect; Sumika's dub gives Lilja attributed leverage she disavows (HSCA-006) | high |
-| Saki ↔ Lilja | E004 | competitive curiosity becomes mentorship and reciprocal rivalry | very high |
+| Saki ↔ Lilja | E004 | Lilja reports valuing Saki’s instruction, asks to continue the ball-toss game, and declares she won after Saki explicitly switches from coaching to competing. [Festival game](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-coach-becomes-an-opponent) | very high |
 | Saki ↔ Kotone | E001/E004 | practical care plus teasing horizontal correction | high |
 | Class 1-1 collective | E001/E004 | negotiated competitive federation; cooperation does not require harmony or shared self-description as friends | very high |
 | China ↔ Hiro ↔ Ume | E002 | self-authored `ワーストスリー` identity converts low entry status into explicit friendship with differentiated adversity ethics | very high |
 | Misuzu ↔ Class 1-2 | E002 | feared former-SyngUp member becomes ordinary friend through curiosity, direct contact, and collective work | high |
-| Misuzu ↔ unnamed Class 1-1 friend | E002 | unresolved quarrel plus jealousy over the friend's new Class 1-1 relations; the friend is unnamed in E002, and cross-event evidence strongly supports Temari (`adv_event_005_main-03` L145–L176; `adv_event_008_main-02` L99; `adv_event_010_main-01` L164–L178; `adv_event_014_main-04` L463, L476; `adv_event_023_main-01` L250–L272) (GKM-SAA-106) | strongly supported for identity; high for relationship state |
+| Misuzu ↔ unnamed friend | E002 | unresolved quarrel plus expressed frustration at the friend's new close friendships; the friend is unnamed in E002, and earlier Class 1 discussion and cross-event evidence strongly support Temari (`adv_event_005_main-03` L145–L176; `adv_event_008_main-02` L99; `adv_event_010_main-01` L164–L178; `adv_event_014_main-04` L463, L476; `adv_event_023_main-01` L250–L272) (GKM-SAA-106) | strongly supported for identity; high for relationship state |
 | Mao ↔ Rinami | E003 | long-peer familiarity supports teasing, consultation, anxiety recognition, and reciprocal regulation | high |
-| Mao ↔ Sumika | E003 | senior overreach is repaired into conflict-capable junior/senior trust and practical collaboration | high |
+| Mao ↔ Sumika | E003 | Mao owns her earlier uninformed warning and apologizes. Sumika recognizes her concern, apologizes for snapping and resumes familiar address. Mao promises to help the stage and the shop. [Beach-restaurant repair](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#repair-at-the-beach-restaurant) | high |
 | Sena ↔ Tsubame | E005 | high-intimacy adversarial governance plus competitive peerhood | high |
 | Sena ↔ Rinami | E005 | warm peer governance; Rinami can criticize Sena's authority without relational rupture | high |
 | Sena ↔ China | E005 | high-asymmetry mentor/successor recruitment with inherited legitimacy questions latent | high |
@@ -361,7 +361,7 @@ Relational thesis: **Rinami's mature care is reversible rather than unilateral. 
 | Ume + China ↔ Rinami | E006 | adviser/scaffold relation: Rinami supplies recipient orientation and safety limits while leaving final authorship with juniors | high |
 | China ↔ Hiro | E006–E007 | explicit friendship combines concern, deadpan teasing, and useful intervention; Hiro enters the Halloween job partly because she worries about China | high |
 | China ↔ Temari | E007 → E011 | **PROMOTE: domain-sensitive reciprocal friendship**; China redirects Temari into song/social success and supports her fear, while Temari later promises to carry China when skill asymmetry reverses; China's verbal recognition is cut off in E007 (L468–L496) and explicitly received in E011 (`adv_event_011_main-01` L215), while behavioural recognition is received in E007 (GKM-SAA-268) | very high |
-| Saki ↔ Temari ↔ Kotone | E008 | adaptive high-friction work trio; service grammar, opportunity capture, and musical authority distribute by domain, and regulation reverses when Kotone overworks | high |
+| Saki ↔ Temari ↔ Kotone | E008 | at the Animate counter, Saki and Kotone distinguish customer-facing remarks from quiet peer correction. Kotone prompts and Temari delivers her own invitation. Their later response to Kotone’s overwork is a separate event passage. [Animate fan encounter](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image) | high |
 | Kotone ↔ Lilja | E009 | direct friendship edge; Kotone gives permission to rely on her and scaffolds, but Lilja chooses the job and later initiates relation herself | high |
 | Lilja ↔ Ume | E009 | acquaintance becomes direct friendship through collaborative baking and teaching | high |
 | Lilja ↔ Sumika | E009/E012 | **PROMOTE:** historical asymmetry is revised into explicit bilateral support—`support me, and I will support you`—without fusion | very high |
@@ -387,7 +387,7 @@ The following edges are strong enough to enter the cumulative relationship ledge
 | Sena ↔ Tsubame | E013 | rivalry includes mood recognition and refusal to let Sena substitute mentoring for self-development |
 | Sena ↔ Mao | E013/E017 | Mao's old failure to promise pursuit becomes present challenge and role-expansion advice; not a progression: E017-04 (L433–L472) and E022-05 (L277–L289) are pre-summer and the E013 vow `今度こそ` (L462–L469) is undated, so the order stays OPEN (GKM-SAA-157) |
 | senior quartet | E013/E017 | long-duration peer system with differentiated functions: regulation, challenge, performance interpretation, institutional leadership |
-| Hiro ↔ Misuzu | E014 | **PROMOTE:** mutual `大切な友達` / `大好き`; shared loss and chosen exceptional effort |
+| Hiro ↔ Misuzu | E014 | **PROMOTE** preserved. In part 05 Misuzu calls Hiro the class MVP for motivating her (L134–146). After their loss Hiro says `大切な友達` and `大好き`, and Misuzu answers `わたしもです` (L786–807). Their shared loss and Misuzu's chosen exertion remain part of the [Event 014 relationship reading](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_013_020_DEEP_READING.md#36-hiro-learns-shared-disappointment). |
 | Rinami ↔ China | E015 | senior/junior relation becomes explicitly reversible during live crisis |
 | Rinami ↔ Lilja | E015 | Rinami supplies opportunity she once lacked; Lilja accepts without relying on Sumika |
 | China ↔ Lilja | E015 | direct peer collaboration in planning, travel, stage adaptation, and crisis performance |

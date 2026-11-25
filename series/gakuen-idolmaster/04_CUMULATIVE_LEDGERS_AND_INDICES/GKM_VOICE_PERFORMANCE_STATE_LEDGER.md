@@ -464,3 +464,13 @@ The exact parent and line locators are in the [current receiving record](../05_A
 - In `1-0004_01`, Rinami’s retry at about 63–75 s is heard as smoother and less forceful than her first acting attempt. Punctuation, box structure, expression and score also change. The evidence supports guided variation within a role, with acoustic measurements, causes and generalized vocal identity open.
 - In `3-0071_03`, Tsubame’s response to Student C breaks and warms in a particular recognition scene (L172–173). The students’ earlier and later captions remain unvoiced in the inspected edition. The sound of approach provides no independent speaker personality.
 - In `2-0067_02`, Temari privately compares the expressions and later makes a separate spoken comparison. Ume’s teasing rise around 189–194 s and Temari’s subsequent nonlexical voice and denial have different cues. Ume names what she did in her last turn. Its onset as a planned joke remains open.
+
+## Guards on five story-event voice comparisons — 2026-11-25
+
+| Located performance | Observed variation and scope |
+| --- | --- |
+| [E002-05, 985–1046 s](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-unnamed-friend) | Misuzu’s quiet complaint and Hiro’s drier answer coexist with a warmer discussion of friends as the score changes. Hiro’s actual proposal crosses the upper bound. |
+| [E003-02, 585.4–669 s](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-warning-at-the-beach-restaurant) | Mao’s blunt-to-grave warning, Sumika’s hesitation, formal thanks and bright boundary, and Rinami’s peer interruption are distinct deliveries. L540 and L617 carry nonlexical voice. |
+| [E003-03, 920.5–1034 s](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#repair-at-the-beach-restaurant) | Mao’s subdued apology, Sumika’s qualified recognition and reciprocal apology, their change of score and the later nickname return belong to the shop meeting. |
+| [E004-04, 733.5–931 s](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-coach-becomes-an-opponent) | Lilja’s breathlessness, expressed insistence and later triumphant claim belong to separate rounds. Saki’s instructions explicitly end before competing fully. |
+| [E008-02, 246.2–404.6 s](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image) | Public enthusiasm, quiet peer corrections, Temari’s effortfully polite invitation, and her quieter inner objection have distinct addressees. The customer’s words are shown as text. |

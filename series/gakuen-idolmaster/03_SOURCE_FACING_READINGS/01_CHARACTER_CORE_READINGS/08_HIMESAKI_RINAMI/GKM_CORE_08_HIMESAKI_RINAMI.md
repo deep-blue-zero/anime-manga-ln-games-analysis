@@ -25,6 +25,8 @@ revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (STRENGTHEN
 # GKM CORE 08 — HIMESAKI RINAMI / 姫崎莉波
 ## Phase 3 source-facing character deep reading
 
+> **Source-boundary exception — 2026-11-25 (Phase 7 four-event audiovisual integration).** The front matter's `source_boundary`, including its carried-forward statement that audiovisual evidence is not yet inspected, remains this reading's textual baseline. The dated 2026-11-25 addition in the subsection *Recorded Event 003 first beach-restaurant encounter — 2026-11-25* (`adv_event_003_main-02`) also draws on Japanese mixed audio and sampled stills. Heard and seen claims there are limited to the windows reviewed in the four-event perceptual adjudication (section [the warning at the beach restaurant](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-warning-at-the-beach-restaurant)) and establish no wider audiovisual review of Himesaki Rinami. Earlier dated recorded-evidence passages keep the scope of their own linked records.
+
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Implements GKM-SAA-003, 019, 020, 071–076, 104, 108, 128–130 and 222–227, together with HSCA-040 and HSCA-044, after re-reading the cited A1 lines. Transitions: STRENGTHEN (new dated subsections in §2, §3, §5, §6, §8, §9, §22, §23 and §24, and the integrated event and support evidence), REVISE (wording, inner-speech, branch and sequence corrections in §5, §6, §7, §8, §11, §12, §21 and §27 item 7; the earlier wording is quoted at each change), and OPEN (OQ-RINAMI-11 on the Producer's side; the RippleSign origin narrative under OQ-RINAMI-07). Any romance conclusion remains OPEN. The Producer's romantic reciprocity is recorded as implied, never as fact. A new pointer section before §29 indexes where each event and support item now sits. The 2026-11-12 Source Lock 1.1 supplement is unchanged except for one dated pointer. No audiovisual evidence was used.
 
 ## 0. Status, purpose, and evidence boundary
@@ -1284,3 +1286,7 @@ The revision makes this job an appearance on an interviewer's program. Rinami's 
 **Claim disposition.** `RINAMI-R86-C03` — NARROW the occupational attribution for this source. CONFIRM the existing `RINAMI-C28` basis.
 
 **Pointer (2026-11-15, GKM-SAA-224).** For Rinami's SL1.1 backstage epilogue (`adv_dear_hrnm_037-01.txt`), see the [Dear epilogues reading](../GKM_DEAR_EPILOGUES_AND_COMMON_ADV_REV86.md) and the endpoint addition in §24.
+
+### Recorded Event 003 first beach-restaurant encounter — 2026-11-25
+
+At the shop Rinami does more than register Mao’s discomfort. She calls Mao’s name during the warning and again when Mao begins an unfinished appeal. Calling attention to Sumika’s work, she proposes leaving. This practical exit precedes Rinami’s separate later discussion of the festival. [Scoped recording evidence](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-warning-at-the-beach-restaurant).

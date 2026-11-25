@@ -775,7 +775,7 @@ It is **competitive legibility**: people know what others are good at, know who 
 
 Class 1-2's strongest early symbol is the Worst Three.
 
-Rather than organizing low status as shame, the class develops a more affiliative culture in which unusual weaknesses can become shared identity. The sports-festival event makes this class-wide: Class 1-2 loses but metabolizes the loss collectively, and China can become a moral center despite weak physical rank.
+The class develops a culture in which unusual weaknesses can become part of a shared identity. The sports festival gives Class 1-2 a loss to work through together. China reports losing her individual event and still insists the class can win. Saki praises China's fighting spirit and calls her the boss of Class 1-2 (`adv_event_014_main-04.txt` L245–251, L288–322). In the [Event 014 account](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_013_020_DEEP_READING.md#34-china-performs-morale-as-chosen-professional-labor), helping the class persist and winning an individual event are distinct contributions.
 
 This does not make Class 1-2 less ambitious.
 

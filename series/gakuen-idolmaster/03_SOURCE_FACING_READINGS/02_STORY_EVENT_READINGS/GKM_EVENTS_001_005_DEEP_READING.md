@@ -323,7 +323,7 @@ That maps closely onto the later `receive → register → organize → answer` 
 
 ## 4.6 Misuzu's jealousy and the unnamed friend
 
-The final scene contains a high-value relationship locator. Misuzu is upset that her friend in Class 1-1 has apparently made close friends while remaining in conflict with Misuzu. She responds childishly and honestly: if that person is going to make friends, Misuzu will make many friends in Class 1-2 too.
+Misuzu says she resents seeing an unnamed friend make close friends while their own quarrel continues. She answers Hiro softly, then declares she will make plenty of friends in Class 2 herself. Hiro frames the retaliation with dry comments even as Misuzu states her hurt. The preceding Class 1 discussion informs the cross-source inference about Temari. The friend’s name and the class of those new friends remain unstated. [Recorded Event 002 exchange](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-unnamed-friend).
 
 Given the established Phase-3 Misuzu/Temari history, Temari's Class 1-1 membership, and the active quarrel state, **Temari is the leading identification of this unnamed friend**. However, Event 002 itself withholds the name. The identification should therefore remain an explicit analytical inference rather than be laundered into textual fact until cross-source confirmation is cited.
 
@@ -337,7 +337,7 @@ Given the established Phase-3 Misuzu/Temari history, Temari's Class 1-1 membersh
 
 Limits: the identification remains a cross-event relational inference. Each event is C1 internally and C2 globally, and Event 002 could in principle mean another Class 1-1 member. The earlier formulation (v1.0) is the paragraph above.
 
-Misuzu and Hiro decide to organize a class party partly to prove useful to China and Ume after causing trouble. China and Ume overhear, refuse exclusion, and turn the plan into the class's first collective task.
+When Hiro asks why Misuzu confided in her alone, Misuzu says the pair have caused trouble for their class. With a new piano cue under the exchange, Hiro wants China and the others to see them do well because they are friends. Misuzu agrees and mentions Class 1’s gathering. Hiro starts suggesting the same as the attended interval ends. In the later script Ume and China ask to help, Misuzu proposes including everyone, and the four take on different jobs.
 
 ### Event 002 thesis
 
@@ -347,7 +347,7 @@ This is not simply “the nice class” opposite the “competitive class.” Um
 
 ### AV requests
 
-**P0:** `adv_event_002_main-05` — Misuzu's `悔しい` / “that girl made close friends” passage. Tone and pacing would help distinguish wounded possessiveness, comic sulking, and deeper abandonment anxiety.
+**P0:** `adv_event_002_main-05` — Misuzu's `悔しい` / “that girl made close friends” passage. Tone and pacing would help distinguish wounded possessiveness, comic sulking, and deeper abandonment anxiety. The [Recorded Event 002 exchange](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-unnamed-friend) supports hurt and comic texture coexisting. The precise private motive remains open. The final joint agreement falls beyond attendance.
 
 **P1:** `adv_event_002_main-01` — Worst Three naming sequence. Useful for modeling how China, Hiro, and Ume assign sharply different affects to the same low-rank information.
 
@@ -370,6 +370,8 @@ She first admonishes Kotone for working too much. The concern is substantively g
 The same pattern intensifies with Sumika. Seeing Sumika work at a beach restaurant while other first-years may be training, Mao warns that three years disappear quickly and that Sumika may fall far behind Saki, Temari, and Lilja.
 
 Sumika refuses the implied jurisdiction: summer vacation is hers to spend.
+
+Sumika greets her seniors, explains her summer work and says she will cheer for them. After Mao’s initial disapproval and grave warning, Sumika voices a short nonlexical reaction, stalls, gives marked formal thanks and claims her own summer in brighter casual speech. Rinami addresses Mao first by name and then proposes leaving the busy worker before Mao completes her reply. Departing footsteps and Sumika’s solitary voiced sigh close the scene. The sigh has multiple possible causes. [Recorded first encounter at the restaurant](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-warning-at-the-beach-restaurant).
 
 The scene is valuable because **both characters are partly right**.
 
@@ -409,7 +411,7 @@ Rinami is not maternally soothing Mao back into passivity. She redirects profess
 
 ## 5.4 Sumika's “unseriousness” contains real obligation
 
-When Mao returns to the beach restaurant, she learns that Sumika is spending the summer there because the shop belongs to a relative whose health has failed. The restaurant has long supported the school's summer live. Closing it would damage an event the family and community care about, so Sumika is filling the labor gap.
+Mao asks about a photograph at the beach restaurant. Sumika says an older woman in her family owns the shop and has watched over Hatsuboshi students since the first Summer Live. After the woman collapsed, they discussed closing for the summer. She wanted to keep the shop open for the people looking forward to it. Sumika says she would miss it too and decided to help for the season.
 
 This materially revises any simple equation of “not training” with “avoidance.”
 
@@ -421,11 +423,11 @@ She also says that she treats customer-facing speech and posture as practice: se
 
 **REVISE:** strategic unseriousness is a defense against judgment, not a reliable indicator of low investment or low responsibility.
 
-**STRENGTHEN:** Sumika can convert an externally imposed practical duty into an internally useful performance laboratory.
+**STRENGTHEN:** Having chosen to help at the shop for the summer, Sumika asks whether practising her voice and bearing with customers can also count as a lesson.
 
 ## 5.5 Repair becomes collaboration
 
-Mao apologizes once she knows the facts. Sumika immediately recognizes that the original criticism came from concern and admits that she pushed back too hard.
+Mao apologizes for speaking insensitively before she knew why Sumika was at the shop. Sumika says she understood that Mao was worried, then apologizes for snapping back.
 
 The repair is notable for its symmetry. Neither person is required to become wholly wrong.
 
@@ -433,7 +435,7 @@ Later, when the restaurant becomes dangerously understaffed, Mao and Rinami spen
 
 This makes the event a particularly strong Mao text. Princehood becomes **portable social conduct**: taking responsibility, stepping into disorder, preserving another person's room to work, and then returning the scene to collective pleasure.
 
-It also prevents a moralizing reading of “real idol work” versus ordinary labor. The restaurant and the live become one festival ecology. Customers at the restaurant become live spectators; the live drives food sales; the sick grandmother watches the live remotely and is emotionally restored; Sumika's service labor makes the festival possible.
+The restaurant and the live both benefit. Rinami says the shop’s customers cheered, and Sumika credits the show with brisk ice-pop sales. Sumika also reports that her older relative watched the livestream, said the show cheered her, and expected to be able to return to the shop after discharge. Mao and Rinami hear this news from Sumika.
 
 ## 5.6 Sena's absence and competitive mercy
 
@@ -457,11 +459,11 @@ Mao begins by interpreting limited time as a reason to optimize harder. Rinami a
 
 ### AV requests
 
-**P0:** `adv_event_003_main-03` — Mao's self-critique, Sumika's explanation, apology, and reconciliation. Delivery is important for distinguishing pride wound from reflective responsibility.
+**P0:** `adv_event_003_main-03` — Mao's self-critique, Sumika's explanation, apology, and reconciliation. Delivery is important for distinguishing pride wound from reflective responsibility. The [Recorded reconciliation at the restaurant](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#repair-at-the-beach-restaurant) addresses the shop disclosure and apologies. Mao's separate earlier discussion with Rinami remains outside the recorded result.
 
 **P0:** `adv_event_003_main-05` — Mao's internal “last summer” passage. This is a major low-action affective state relevant to reconstruction of Mao outside competitive dialogue.
 
-**P1:** `adv_event_003_main-02` — Mao's first confrontation with Sumika, to compare senior/prince register under stress against the repaired state.
+**P1:** `adv_event_003_main-02` — Mao's first confrontation with Sumika, to compare senior/prince register under stress against the repaired state. The [Recorded first encounter at the restaurant](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-warning-at-the-beach-restaurant) distinguishes Mao’s warning, Sumika’s changes of register and Rinami’s two later interventions. The apology has its own window.
 
 ---
 
@@ -509,11 +511,11 @@ The developmental mechanism is therefore:
 
 > **recognize another person's seriousness → transfer competence → remove excuses → demand a real contest.**
 
-This pattern closely resembles Saki's broader generative rivalry, but here it appears in the smallest possible setting: a festival shooting game.
+This pattern closely resembles Saki's broader generative rivalry, but here it appears in the smallest possible setting: the festival’s shooting and ball-toss games, with distinct rounds and outcomes.
 
-Her care is also embodied and procedural. She checks whether Lilja rested and hydrated. She keeps teaching until Lilja can beat her.
+Lilja is already out of breath when Saki gives her a passing mark. Saki later asks whether she has rested and had water, then shows her how to aim in the ball-toss game.
 
-That is why Lilja experiences the contest as care. She tells Kotone that she is happy because Saki keeps teaching her even though she repeatedly fails.
+Lilja tells Kotone she is glad Saki keeps teaching her through repeated failures. After Saki declares the first ball-toss round hers, Lilja asks to try again. Kotone suggests rejoining the others. Lilja wants to continue because she feels close to getting it. Saki ends the lesson and takes her on at full strength. Lilja declares she won that round and accepts another challenge from Saki.
 
 ### Claim transitions
 
@@ -573,7 +575,7 @@ Class 1-1's relational language remains combative even as its behavior becomes i
 
 ### AV requests
 
-**P0:** `adv_event_004_main-04` — Saki/Lilja repeated contest and teaching sequence, including Sumika/Temari observation. Facial and vocal transitions are central to distinguishing coercive pressure from mutually escalating play.
+**P0:** `adv_event_004_main-04` — Saki/Lilja repeated contest and teaching sequence, including Sumika/Temari observation. Facial and vocal transitions are central to distinguishing coercive pressure from mutually escalating play. The [Recorded festival rematch](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-coach-becomes-an-opponent) establishes Lilja’s decision to continue and Saki’s shift from teaching to opposing her. Sumika’s earlier turns remain outside the attendance window.
 
 **P1:** `adv_event_004_main-05` — Lilja's friendship wish, Saki's `仲間` answer, Sumika's jealousy admission, and Temari's reluctant participation.
 
@@ -847,9 +849,10 @@ The class initially fears her reputation. China/Ume/Hiro convert fear into curio
 
 **State:** reputational outsider becoming ordinary friend through low-stakes acceptance.
 
-### Misuzu ↔ unnamed Class 1-1 friend
+### Misuzu ↔ unnamed friend
 
-**Evidence:** Misuzu is in an unresolved quarrel with a close friend in another class; she is hurt when that person makes new friends in Class 1-1.  
+**Evidence:** Misuzu remains in an unresolved quarrel with an unnamed friend and resents seeing that friend make close friends. Class 1 came up earlier in the conversation.
+
 **Inference:** Temari is the leading identification given established source history and class membership.  
 **Status:** keep name inference explicit until cross-source locator is attached.
 

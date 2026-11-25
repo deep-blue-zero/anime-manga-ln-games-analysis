@@ -498,3 +498,15 @@ These newly reviewed editions witness already admitted Source Lock 1.2 support s
 | `adv_csprt-1-0004_01` | [8FpuXBIAx_4](https://www.youtube.com/watch?v=8FpuXBIAx_4), Japanese native episode | 0.15–89 s |
 | `adv_csprt-3-0071_03` | [r41O7nY6FvI](https://www.youtube.com/watch?v=r41O7nY6FvI), Japanese native episode | 172–270.5 s |
 | `adv_csprt-2-0067_02` | [x6mcJ4AOFDw](https://www.youtube.com/watch?v=x6mcJ4AOFDw), stream selection 299+140 | 113–211.95 s |
+
+## Exact playback editions for four events — 2026-11-25
+
+[Five guarded reviews across four events](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) join existing A1 event scripts to Japanese-audio rendered editions. Two windows share the same E003 parent. The media files and playback receipts stay in local custody. Parent hashes, child hashes, offsets and scene limits appear in the linked adjudication.
+
+| Locked script | Original edition | Attended original interval |
+| --- | --- | --- |
+| `adv_event_002_main-05` | [usIfiHFGTcE](https://www.youtube.com/watch?v=usIfiHFGTcE), 243+251 | 985–1046 s |
+| `adv_event_003_main-02` | [zEWk-pQjFOQ](https://www.youtube.com/watch?v=zEWk-pQjFOQ), 243+251 | 585.4–669 s |
+| `adv_event_003_main-03` | same E003 edition | 920.5–1034 s |
+| `adv_event_004_main-04` | [eOXV4EBQ5Cs](https://www.youtube.com/watch?v=eOXV4EBQ5Cs), 137+251-1 | 733.5–931 s |
+| `adv_event_008_main-02` | [Wv7SjawFhvc](https://www.youtube.com/watch?v=Wv7SjawFhvc), 399+251-1 | 246.2–404.6 s |
