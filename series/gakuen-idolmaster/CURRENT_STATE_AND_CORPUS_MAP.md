@@ -8,10 +8,16 @@ source_boundary: GAKUMAS V2 Source Lock 1.2 for the revision 88 tranche; Source 
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-11-15 — source-to-analysis audit GKM-SAA-20261115 published (non-authoritative) and owner-authorized corrections applied; living character cores (architecture v2.5); 2026-11-15 — Source Lock 1.2 and Hiwatari Kanae text tranche; 2026-11-12 — Source Lock 1.1 analysis, historical corrections and Carbon selection; 2026-11-09 — non-authoritative historical-source coverage audit routed (01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/); 2026-11-07 — Saki U1 Episode 04 nightmare/insomnia correction (Saki core v2.1, Relationship Systems I §3.5.1, ledgers); RINHA-AV-20260911 state unchanged: perceptual gate and dossier remain open; Phase 6 IN PROGRESS"
+last_updated: "2026-11-25 — Carbon local playback reconciliation and residual evidence register; 2026-11-15 — source-to-analysis audit GKM-SAA-20261115 published (non-authoritative) and owner-authorized corrections applied; living character cores (architecture v2.5); 2026-11-15 — Source Lock 1.2 and Hiwatari Kanae text tranche; 2026-11-12 — Source Lock 1.1 analysis, historical corrections and Carbon selection; 2026-11-09 — non-authoritative historical-source coverage audit routed (01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/); 2026-11-07 — Saki U1 Episode 04 nightmare/insomnia correction (Saki core v2.1, Relationship Systems I §3.5.1, ledgers); RINHA-AV-20260911 retains its original source, measurement and frame scope"
 ---
 
 # GAKUEN IDOLMASTER V2 — CURRENT STATE AND CORPUS MAP
+
+## Current audiovisual reconciliation — 2026-11-25
+
+The [Carbon local playback reconciliation](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) accounts for the three sealed handoffs, the 794-clause historical replay queue and the paired reviews of the 15 remaining Rinha scenes. All assignments in that local handoff are accounted for. The [residual evidence register](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_CARBON_RESIDUAL_EVIDENCE_REGISTER.md) retains 26 keys for historical containers, unavailable editions or gameplay and claim-specific open questions. The dated acquisition instructions below describe earlier states. The admitted narrative boundary is still Source Lock 1.2.
+
+Rinha has paired perceptual evidence for all 18 selected scenes, with three scenes reviewed on a paired historical whole recording and fifteen paired source-matched scene excerpts. Four formerly missing controls were reviewed. The revised dossier has passed a source-first critique. Final Phase 6 adjudication requires the associated matrix revision and write-through. Historical whole-container qualifications and the scope of the performance interpretation are recorded separately from scene coverage. The next operations are dossier adjudication and individual character readiness checks. Unrelated event/support requests remain in the active queue.
 
 ## Transcript refresh — 2026-11-15
 
@@ -27,7 +33,7 @@ The bounded refresh runs in **LOCAL_ONLY** topology and the A1 textual inspectio
 
 The [revision 88 scope and review receipt](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261115.md#source-reading-and-integration-receipt) records source coverage, responsibility and disposition. It uses a retrospective comparison within the updated lock and its previously admitted entering context.
 
-**Next operation:** recover or match the retained Rinha recordings and execute the source-first [Carbon observation packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md). The [Kanae supplement](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md#source-lock-12--kanae-candidates) adds acquisition and review targets from the new transcript boundary. Exact recording matches and playback offsets are pending. Freeze observations before opening the [adjudication packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_ADJUDICATION.md). This refresh logged zero new direct listening and zero continuous-motion inspection. The Rinha dossier and Phase 7 remain gated.
+**Next operation at the 2026-11-15 checkpoint:** recover or match the retained Rinha recordings and execute the source-first [Carbon observation packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md). The [Kanae supplement](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md#source-lock-12--kanae-candidates) adds acquisition and review targets from the new transcript boundary. Exact recording matches and playback offsets are pending. Freeze observations before opening the [adjudication packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_ADJUDICATION.md). This refresh logged zero new direct listening and zero continuous-motion inspection. The Rinha dossier and Phase 7 remain gated.
 
 ## Transcript refresh — 2026-11-12
 
@@ -37,9 +43,11 @@ The bounded 1.1 textual refresh covers **172 new objects / 6,923 extracted messa
 
 The [historical-audit dispositions](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_HISTORICAL_AUDIT_DISPOSITIONS_20261112.md) record the six P1 findings and HSCA-046. The other 173 findings remain open. The [Rinha source crosswalk](06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_SOURCE_CROSSWALK.md#source-lock-11--additional-rinha-witnesses) records 28 exact Rinha messages in three new 1.1 objects. Her 1.0 counts and perceptual gate retain their original scope. The source refresh record identifies the extraction omissions and the opaque revised music resource.
 
-**Next operation:** recover the retained Rinha recordings or verify matching editions, then execute the source-first [Gemini 4 Carbon observation packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md). The prioritized 35-row selection includes the inherited Rinha gate and the E001 request. New candidate recordings and exact offsets still need matching. Freeze the observations before opening the [adjudication packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_ADJUDICATION.md). This refresh logged zero new direct listening and zero continuous-motion inspection. The Rinha dossier and Phase 7 remain gated.
+**Next operation at the 2026-11-12 checkpoint:** recover the retained Rinha recordings or verify matching editions, then execute the source-first [Gemini 4 Carbon observation packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md). The prioritized 35-row selection includes the inherited Rinha gate and the E001 request. New candidate recordings and exact offsets still need matching. Freeze the observations before opening the [adjudication packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_ADJUDICATION.md). This refresh logged zero new direct listening and zero continuous-motion inspection. The Rinha dossier and Phase 7 remain gated.
 
 ## Current Rinha AV execution — RINHA-AV-20260911
+
+This section records the September source and measurement pass. Consult the [November perceptual addendum](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) for current scene coverage.
 
 The [Kaya Rinha AV packet](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) now contains the 18-target source/text, selected-mix measurement and sampled-still pass. All 12 required compilations are retained; 538 distinct source frame points were actually inspected, and 18 selected stereo mixes were computationally measured with decoded-sample preservation verified. **Direct listening: 0 seconds. Continuous-motion review: 0 seconds.** The full perceptual AV gate and final dossier remain open; Phase 6 stays **IN PROGRESS** and Phase 7 remains closed.
 
@@ -47,7 +55,7 @@ The [exact-speaker audit](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_SOUR
 
 *2026-11-15 note (source-to-analysis audit GKM-SAA-117).* The [Rinha source crosswalk](06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_SOURCE_CROSSWALK.md) now keeps two counts. **620** messages carry the displayed name 燐羽. **626** are single-speaker Rinha lines resolved by actor and voice stem: the 620, five lines under masked labels (XW-014: 1; XW-015: 1; XW-064: 3) and one under the variant label 「出会った頃の燐羽」 (XW-070). Group lines that carry a Rinha voice are listed in the crosswalk but not counted. The 620 figure above is the displayed-name count. The perceptual gate is unchanged.
 
-Current next operation: perform and account for direct listening/continuous-video discrimination of the retained scenes, reconcile the remaining performance claims, then finalize the Rinha dossier only when its gate is satisfied. No additional required download is identified for the declared 18-target set.
+Next operation at the September checkpoint: perform and account for direct listening/continuous-video discrimination of the retained scenes, reconcile the remaining performance claims, then finalize the Rinha dossier only when its gate is satisfied. No additional required download is identified for the declared 18-target set.
 
 ## First-read status
 
@@ -149,12 +157,12 @@ The AV consolidation places each character's baseline, specialists, evidence and
 | --- | --- | --- |
 | 0 — Corpus Audit and Source Lock | COMPLETE | `01_CORPUS_AUDIT_AND_SOURCE_LOCK/` |
 | 1 — Continuity and Story-State Reconstruction | COMPLETE | `02_CONTINUITY_AND_STORY_STATE/` |
-| 1A — AV baseline/discovery | 13/13 baselines delivered; Hiro/Misuzu AVE-FULL-20260910 documentary/measurement rebuild complete within declared scope; direct-listening and motion dependencies remain open | `05_AUDIOVISUAL_ANALYSIS/` |
+| 1A — AV baseline/discovery | 13/13 baselines delivered; Hiro/Misuzu AVE-FULL-20260910 documentary rebuild retained; subsequent scoped perceptual reviews are recorded in the [November reconciliation](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) | `05_AUDIOVISUAL_ANALYSIS/` |
 | 2 — Shared Narrative and Institutional Spine | COMPLETE; paratext-refined 2026-08-15 | `GKM_SHARED_AND_INSTITUTIONAL_SPINE_DEEP_READING.md` |
 | 3 — Character Core Readings | COMPLETE — Gate C satisfied | `03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/` |
 | 4 — Numbered Events | COMPLETE — 136/136 dedicated event scripts, 8,507/8,507 messages; four canonical tranche readings | `03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/` |
 | 5 — Support Cards | COMPLETE — 498/498 support scripts, 9,777/9,777 messages; eight canonical support readings | `03_SOURCE_FACING_READINGS/03_SUPPORT_CARD_READINGS/` |
-| 6 — Relationship/Ensemble Synthesis | IN PROGRESS - Relationship Systems I + II + side-character synthesis + corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md` + `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` COMPLETE; Rinha source/text, selected-mix and sampled-still pass delivered; perceptual AV gate and dossier remain required | ` 06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/` |
+| 6 — Relationship/Ensemble Synthesis | IN PROGRESS - Relationship Systems I + II + side-character synthesis + corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md` + `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` COMPLETE; Rinha retained-scene playback received; dossier review and final Phase 6 adjudication remain required | `06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/` |
 | 7 — Definitive Character Monographs | PENDING | `07_DEFINITIVE_CHARACTER_MONOGRAPHS/` |
 | 8 — Thematic/Institutional Synthesis | PENDING | `08_THEMATIC_AND_INSTITUTIONAL_SYNTHESIS/` |
 | 9 — Full-series/adversarial audit | PENDING | `09_FINAL_READER_FACING_SYNTHESIS/` |
@@ -176,7 +184,7 @@ The AV consolidation places each character's baseline, specialists, evidence and
 12. Juo Sena / 十王星南 — textual core COMPLETE; integrated AV baseline COMPLETE.
 13. Amaya Tsubame / 雨夜燕 — textual core COMPLETE; integrated AV baseline COMPLETE.
 
-**Current integrated AV coverage: 13/13 baseline analyses delivered.** No Phase-3 baseline document is missing. Hiro and Misuzu now have the imported AVE-FULL-20260910 source-accounting, measurement and all-claim review records; their remaining perceptual and interpretive dependencies are explicitly qualified above and in the character packets. Phase 4 is **COMPLETE** under Source Lock 1.0. Phase 5 is **COMPLETE**: all **498/498 support scripts / 9,777/9,777 support messages** are covered across eight canonical support readings. Phase 6 is **IN PROGRESS**: both architecture-defined major relationship syntheses, `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`, the corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`, and `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` are COMPLETE and canonical. The corrected crosswalk freezes **118 deduplicated Rinha-relevant source objects**, including **43 direct-speaking objects / 620 logical Rinha dialogue messages** after tagged-speaker and exact-name parser corrections. The matrix adjudicates **73 bounded person-level claims** and requires a targeted Rinha AV baseline before the dossier is finalized. The [RINHA-AV-20260911 packet](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) delivers the source/text, selected-mix and sampled-still pass. Direct listening and continuous-motion discrimination remain next; the character dossier remains required before Phase 6 can close.
+**Current integrated AV coverage: 13/13 baseline analyses delivered.** No Phase-3 baseline document is missing. Hiro and Misuzu now have the imported AVE-FULL-20260910 source-accounting, measurement and all-claim review records; their remaining perceptual and interpretive dependencies are explicitly qualified above and in the character packets. Phase 4 is **COMPLETE** under Source Lock 1.0. Phase 5 is **COMPLETE**: all **498/498 support scripts / 9,777/9,777 support messages** are covered across eight canonical support readings. Phase 6 is **IN PROGRESS**: both architecture-defined major relationship syntheses, `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`, the corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`, and `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` are COMPLETE and canonical. The corrected crosswalk freezes **118 deduplicated Rinha-relevant source objects**, including **43 direct-speaking objects / 620 logical Rinha dialogue messages** after tagged-speaker and exact-name parser corrections. The matrix adjudicates **73 historical person-level claims** plus later claim C074. Its perceptual findings require a dated revision before dossier acceptance. The [RINHA-AV-20260911 packet](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) delivers the source/text, selected-mix and sampled-still pass. The [November reconciliation](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) records subsequent paired perceptual coverage and its limitations. The independently reviewed character dossier remains required before Phase 6 can close.
 
 ## Canonical retrieval route
 
@@ -213,6 +221,7 @@ Do not use conversation transcripts or V1 analyses as current authority when a V
 - song/musical identity
 - AV verification queue
 - AV source crosswalk
+- [Carbon residual evidence register](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_CARBON_RESIDUAL_EVIDENCE_REGISTER.md)
 
 ### External evidence
 `GKM_OFFICIAL_PARATEXT_AND_CREATOR_COMMENTARY_REGISTER.md` uses `S1-S5` source classes and `A-F` claim types. Its governing rule is **primary-source priority does not mean primary-source exclusivity**.

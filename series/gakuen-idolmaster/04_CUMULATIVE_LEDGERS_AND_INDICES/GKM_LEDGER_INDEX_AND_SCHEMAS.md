@@ -5,7 +5,7 @@ document_type: "ledger index"
 version: "2.1"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 created: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit conventions and pronoun style note"
+last_updated: "2026-11-25 — Carbon residual evidence register; 2026-11-15 — source-to-analysis audit conventions and pronoun style note"
 ---
 
 # GKM LEDGER INDEX AND SCHEMAS
@@ -30,6 +30,7 @@ Phase 0 initializes the following cumulative ledgers. Each is a living analytica
 | GKM_SONG_AND_MUSICAL_IDENTITY_LEDGER.md | Song and Musical Identity Ledger |
 | GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md | Audiovisual Verification Queue |
 | GKM_AUDIOVISUAL_SOURCE_CROSSWALK.md | Audiovisual Source Crosswalk |
+| [GKM_CARBON_RESIDUAL_EVIDENCE_REGISTER.md](GKM_CARBON_RESIDUAL_EVIDENCE_REGISTER.md) | Unavailable recording editions and claim-level limitations after the local playback assignment |
 
 All ledgers begin under Source Lock 1.0. A later source-lock upgrade must record which entries were derived from which source version.
 
