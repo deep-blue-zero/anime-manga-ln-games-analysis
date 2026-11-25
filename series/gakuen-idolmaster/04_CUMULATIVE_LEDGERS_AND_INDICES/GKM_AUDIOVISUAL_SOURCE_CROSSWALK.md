@@ -510,3 +510,7 @@ These newly reviewed editions witness already admitted Source Lock 1.2 support s
 | `adv_event_003_main-03` | same E003 edition | 920.5–1034 s |
 | `adv_event_004_main-04` | [eOXV4EBQ5Cs](https://www.youtube.com/watch?v=eOXV4EBQ5Cs), 137+251-1 | 733.5–931 s |
 | `adv_event_008_main-02` | [Wv7SjawFhvc](https://www.youtube.com/watch?v=Wv7SjawFhvc), 399+251-1 | 246.2–404.6 s |
+
+## Exact playback editions for the sports day and Hiroshima — 2026-11-25
+
+The [ten-window edition table](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) binds the full `KRs6HqaQdkg` sports-day and `XEmmMRaYPdI` Hiroshima recordings to five Japanese ADV chapters and ten attended extracts. W08’s three reviewers used the original-tail MKV derivative with exact audio endpoint. Its picture/container endpoints are distinct. Same-show context in another part supplies no coverage extension.

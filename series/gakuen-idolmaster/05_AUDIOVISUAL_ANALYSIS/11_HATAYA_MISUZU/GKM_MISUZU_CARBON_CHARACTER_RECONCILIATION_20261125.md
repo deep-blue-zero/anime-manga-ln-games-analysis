@@ -42,3 +42,7 @@ The `name=佑芽` anomaly in the Misuzu live script conflicts with its own Misuz
 ## Subsequent Event 002 direct evidence
 
 [Subsequent Event 002 review](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-unnamed-friend) gives the unnamed-friend complaint and conversation with Hiro a performed comparison. Identity, single hidden motive and later agreement retain their own evidence.
+
+## Sports day recorded evidence — 2026-11-25
+
+Polite address persists beside a quieter nostalgic turn, effort at the finish and a warmly delivered reciprocation. The MVP and causal account occur before the race in the written source. The carrying motion, the end of the question about the day and several later responses have distinct evidentiary limits. [Event 14 finding 1](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it) · [Event 14 finding 2](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#exertion-relief-and-friendship-across-four-windows)

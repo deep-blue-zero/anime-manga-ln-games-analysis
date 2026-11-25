@@ -31,6 +31,8 @@ revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (REVISE / S
 
 ## Phase 3 source-facing character deep reading
 
+> **Source-boundary exception — 2026-11-25 (guarded Events 014 and 015 integration).** The original source boundary governs the Phase 3 textual baseline. The separately dated recorded addition in this document draws on Japanese mixed audio and sampled stills in the linked [case 1](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it). Source-scheduled actions, seen stills and heard delivery retain their individual scopes.
+
 ## 0. Status, purpose, and evidence boundary
 
 This is the canonical **Phase-3 source-facing textual core** for Hanami Ume. It is deliberately provisional in the architectural sense: it establishes a falsifiable model from Ume-owned core source families before the later event, support-card, relationship-synthesis, audiovisual, and definitive-monograph phases.
@@ -1096,3 +1098,7 @@ For Hanami Ume, the strongest idol is the one who can keep enough people running
 In Ume's fragrance campaign communication, Ume wants to borrow from her imagined future. Her Producer identifies composure already visible in competition. Ume then recasts `現実` with ruby `あたし` and `理想` with ruby `ライバル`, turning her actual self into a challenger to the Producer's ideal (`adv_cidol-hume-3-022_02.txt` L119–192; `_03.txt` L127–186). E030 separately gives a performance technique that depends on Ume imagining the familiar act of asking her sister for something (`adv_event_030_main-04.txt` M052–070; `main-05` M018–029).
 
 [Source reading 1](../GKM_COMMU_REVISION_86_DEEP_READING.md) · [Source reading 2](../../02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md)
+
+## Individual recorded addition, sports day recorded evidence — 2026-11-25
+
+**STRENGTHEN, with bounded delivery and staging.** Ume’s direct remembered explanation of shared loss and person-specific candor has a performed witness of its own. Hiro’s present report and decision remain respective turns. The final current request extends past the attended clip. [case 1](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it)

@@ -25,6 +25,8 @@ The [five support-card audiovisual adjudications](GKM_PHASE7_FIVE_SUPPORT_PERCEP
 
 [Subsequent story-event playback](GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) covers five guarded parts of Events 002, 003, 004 and 008. It records scoped corrections to performed dialogue, music placement and staging.
 
+The [guarded sports-day and Hiroshima reviews](GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) track performed dialogue, staging and game music separately across ten exact windows. They file limited answers for China, Hiro, Rinami, Ume and Misuzu. The baseball cheer melody itself falls across a scene ellipsis.
+
 ## Character routes
 
 The controls column links the claim/evidence matrix, source manifest, completion report, delivery audit, and original internal artifact-checksum manifest. Historical checksums identify their release bytes; they are not blanket assertions that subsequently maintained repository files remain byte-identical.

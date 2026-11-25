@@ -1,0 +1,25 @@
+# Hatsuboshi vocal trainer, evidence and scope
+
+Companion to the [Hatsuboshi vocal trainer portrait](GKM_HATSUBOSHI_VOCAL_TRAINER.md). All written locators below refer to pinned Japanese `Resource/` files at `f8ff5ef7b243f2f7e3b2723def31072874539ca9`, ADV revision 88. [Source Lock 1.2](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261115.md) · [Qualification and readiness](GKM_CHARACTER_QUALIFICATION_AND_READINESS.md)
+
+## Identity and source boundaries
+
+The pinned-screen universe contains 4,052 nominal Resource text objects. Thirty-seven hold a named ボーカルトレーナー box or a matching `trvo` cue and carry 192 standard named boxes and 197 matching authored voice commands. The screen includes two alternate ボイストレーナー boxes in `adv_pgrowth_001_hski_02.txt` at L5/L13, because the corresponding `trvo` commands at L6/L14 bind them to the same role. The inclusive written count is 194. Multiple commands can also serve collective outcomes, as in Ume Dear 034. Reused marks, short exclamations, music cue titles, and a source command's assigned actor slot provide distinct evidence from an attended voice or identity of the actual performer.
+
+| Analytical contrast | Pinned Japanese proof |
+| --- | --- |
+| Volunteering and turn allocation | `adv_csprt-1-0001_01.txt` L8–120. `adv_csprt-1-0001_02.txt` L8–59, L72–127. Middle-school repeated volunteer, high school request to yield, later direct allocation. |
+| Foundations, demonstration and self-praise | `adv_csprt-2-0040_01.txt` L11–34, L47–124, L132–148. `adv_csprt-2-0040_02.txt` L15–69, L80–132, L136–167. L37 and assigned L38 place the demonstration. The listener's positive reply at L46 is story evidence, not an independent music measurement. |
+| Rinami’s work and individuality | `adv_cidol-hrnm-3-002_01.txt` L14 and L40. `adv_pgrowth_001_hrnm_01.txt` L6–12. The Producer and trainer comment in different roles and the growth scene stays separate. |
+| Correctness, interpretation and rest | `adv_pstory_001_hkne_after-step-2-normal-03.txt` L24–49, choices L51–93, L98–141 and L142–177. The later `遊び` description is the Producer's at L106. The lozenge, interpretation and rest belong to three separate responses. |
+| Protection and the cost of incomplete feedback | `adv_pstory_001_kcna_after-step-2-normal-02.txt` L24–69; branches L70–122, L123–161, L162–185. `adv_pstory_001_shro_after-step-2-normal-02.txt` L13–44; branches L45–94, L95–132, L133–182. China and her Producer interpret the praise differently. Separate Hiro's account of how she is read from the trainer's actual words, and the school's authority from a particular pupil's trust. |
+| Expression, performance nerves, and a misunderstood joke | `adv_pstory_001_kllj_after-step-2-normal-02.txt` L21–81; branches L84–124, L125–171. Five hundred is a stated number in a joke and gives no routine or outcome. |
+| Producer as a student and as an intermediary | `adv_pevent_003_cmmn_school_1-003.txt` L5–64, alternative replies. `adv_dear_hmsz_008.txt` L7–127 and L257–291. The scene addressing the Producer and the later explanation from Misuzu remain separate. |
+| Self-check and institutional responsibility | `adv_csprt-3-0100_01.txt` L12–136 and `adv_csprt-3-0100_02.txt` L8–150. The vocal trainer responds twice, and the visual trainer interprets the classroom reply. |
+| Personal glimpses and team musical labor | `adv_csprt-3-0100_03.txt` L8–34, L81–113, L169–185. The trainer tells a holiday recollection of a different lesson. `adv_dear_hume_034.txt` L128–135, L244–273, L293–337 and L382–393. The colleagues contribute separate explanations. `adv_cidol-hume-3-005_03.txt` L186 supplies a second exchange outside the classroom. |
+
+## Individual Gate E
+
+Independent review passed self-containment, source fidelity and individual Gate E at the written boundary. The current verification queue has no active trainer-specific P0 or central P1 for the conclusions in this portrait. A technically matched recording gives no attendance finding. Neighboring reviews of Rinami's acting lesson concern the visual trainer. S1-0001 part 02 and S3-0012 part 03 contain assigned vocal trainer speech and have technical receivers for other question scopes. Their incidental scene presence supplies no verified lesson delivery here. The precise presentation of her demonstration and classroom register over time would require direct hearing if used in a later performance account. The Misuzu Dear 008 sequence in SRC-0015 (29:49–34:51 in the reviewed compact, LP-RPL-0314/0380) supplies contextual coverage. The returned adjudication assigns no trainer-specific delivery there.
+
+The minimum useful new original is S2-0040 part 02 with L15–69, the exact A1 cue join and enough surrounding sound to separate a sung example, a spoken inflection model or accompanying music. Part 01 L47–148 adds her separate approach to routine and criticism. No provider match is asserted for those statements. Further voice evidence would change the present boundary if it became a material thesis. The portrait's current analysis of pedagogy and conditional conduct uses only the written evidence listed above.

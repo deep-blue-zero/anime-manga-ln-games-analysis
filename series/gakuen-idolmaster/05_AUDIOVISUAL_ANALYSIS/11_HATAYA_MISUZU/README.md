@@ -17,6 +17,8 @@ last_updated: "2026-11-25"
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
+Polite address persists beside a quieter nostalgic turn, effort at the finish and a warmly delivered reciprocation. The MVP and causal account occur before the race in the written source. The carrying motion, the end of the question about the day and several later responses have distinct evidentiary limits. [Event 14 finding 1](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it) · [Event 14 finding 2](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#exertion-relief-and-friendship-across-four-windows)
+
 Start with the [current audiovisual findings](GKM_MISUZU_CARBON_CHARACTER_RECONCILIATION_20261125.md). Read the later scene-qualified observations and corrections alongside the September rebuild. Start with the newer receipt for Rinha-related voice, edition and timing disputes. Use the textual core and AV addendum together for the character reading.
 
 | Purpose | Files |

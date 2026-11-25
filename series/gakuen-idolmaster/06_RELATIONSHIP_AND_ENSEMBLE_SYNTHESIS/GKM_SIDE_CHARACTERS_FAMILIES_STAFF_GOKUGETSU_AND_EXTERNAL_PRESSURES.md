@@ -536,7 +536,7 @@ The vocal trainer emphasizes plural standards:
 - throat protection;
 - and strategy for evaluative settings.
 
-With an advanced student such as Temari, returning to fundamentals is not humiliation. It is a professional judgment that success can create blind spots.
+When Temari treats a basic exercise as beneath her stage of development, the vocal trainer explains what it can still do and explicitly credits her existing singing. Temari reports finding it easier to produce voice after a repeat. In a separate class, the trainer allocates limited turns between Temari and the newly arrived Saki. Her concern for the conditions of learning can protect a pupil or leave the limits of praise unclear. Lilja taking the sit-up joke literally is a concrete failure of calibration. [Vocal trainer portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_VOCAL_TRAINER.md) · [Source and scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_VOCAL_TRAINER_SOURCE_AND_SCOPE.md)
 
 ### Dance trainer
 
@@ -548,7 +548,7 @@ The dance trainer treats bodies as evidence. She is unusually concerned with:
 - movement fundamentals;
 - and whether effort remains productive.
 
-Her severity is real. Late support material adds an important correction: she notices that students experience her as harsh and asks whether she has gone too far. The other trainers distinguish demanding standards from arbitrary punishment, and students themselves request another repetition.
+She asks her colleagues if she is too strict after hearing students talk about her. The visual trainer connects her demands to a purpose, and the vocal trainer offers reassurance and later voices doubt. In the ensuing lesson the students ask to try again. The visual trainer calls that possible evidence of enthusiasm. Across Kotone’s two lessons, she values the instructor's care and privately resents an instruction she cannot readily carry out. Ume takes a comparison meant to anger her as encouragement. A student's response gives a teacher evidence about the intervention, and that response can differ sharply from the one she hoped to elicit. [Dance trainer portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_DANCE_TRAINER.md) · [Source and scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_DANCE_TRAINER_SOURCE_AND_SCOPE.md)
 
 The result is not 'harsh teacher secretly nice.' It is more useful:
 
@@ -692,7 +692,7 @@ Tsubame recognizes in Shion a comparison wound structurally similar to her own S
 
 This prevents Shion from remaining a one-note villain. Her damage becomes legible without turning harmful behavior into innocence.
 
-The D-TSUBAME outcome records both refusal and repair (GKM-SAA-096; 2026-11-15). Shion rejects Tsubame's pity (`adv_dear_atbm_016` L127–L170), and Tsubame concedes, in a muttered spoken line whose speaker label is hidden, that her present self cannot reach Shion's heart (L278). Tsubame then challenges Gekka, who agrees to reconsider her own idol model if Tsubame wins (`adv_dear_atbm_018` L113–L123). After Gekka concedes defeat, Shion insists that she will not be saved by Tsubame, and Gekka takes Shion home to straighten her out (`adv_dear_atbm_019` L54–L154). By Dear 023 Gekka trains Shion daily and credits Tsubame with having changed her (`adv_dear_atbm_023` L245–L264, L414–L420). Tsubame's hero principle works indirectly here, without coercing Shion.
+The D-TSUBAME outcome records refusal and changed involvement (GKM-SAA-096; 2026-11-15). Shion rejects Tsubame's pity (`adv_dear_atbm_016` L127–L170), and Tsubame concedes, in a muttered spoken line whose speaker label is hidden, that her present self cannot reach Shion's heart (L278). Tsubame then challenges Gekka, who agrees to reconsider her own idol model if Tsubame wins (`adv_dear_atbm_018` L113–L123). After Gekka concedes defeat, Shion insists that she will not be saved by Tsubame, and Gekka takes Shion home to straighten her out (`adv_dear_atbm_019` L54–L154). By Dear 023 Gekka trains Shion daily and credits Tsubame with having changed her (`adv_dear_atbm_023` L245–L264, L414–L420). Gekka crediting Tsubame makes the influence explicit in Gekka’s account. Shion later says she was avoiding Gekka and resents having to take daily lessons (Dear 034 L98–138). The record leaves reciprocal repair and Shion’s consent open.
 
 ### Shion synthesis
 
@@ -706,9 +706,9 @@ A core character who can answer Shion has usually developed enough self-authorsh
 
 ## 4.2 `白草月花`: external standard, world horizon, and scouting authority
 
-The Japanese-name identity `白草月花` is authoritative in this corpus; prior analytical artifacts vary in romanization between Gekka/Tsukika. Until transliteration is independently locked, this document preserves the Japanese identity and uses **Gekka** as the working English shorthand because it is already common in the V2 artifacts.
+The Japanese-name identity `白草月花` is authoritative in this corpus; prior analytical artifacts vary in romanization between Gekka/Tsukika. A recorded pronunciation in the corpus supports **Gekka** as the series romanization.
 
-Metadata basis (GKM-SAA-261; 2026-11-15): the A1 scripts give 月花 no ruby, and her actor and voice-asset code is `sgka` (for example `sud_vo_adv_dear_atbm_004_sgka-001`), which supports the reading Gekka; the form "Tsukika" is not attested in A1. The corpus therefore harmonises on 白草月花 with Gekka as its single working romanization. An official reading would still need a credited source.
+Metadata basis (GKM-SAA-261; 2026-11-15): the A1 scripts give 月花 no ruby, and her actor and voice-asset code is `sgka` (for example `sud_vo_adv_dear_atbm_004_sgka-001`), which supports the reading Gekka; the form "Tsukika" is not attested in A1. The corpus therefore harmonises on 白草月花 with Gekka as its single working romanization. A later [recorded name control](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIRAKUSA_GEKKA_SOURCE_AND_SCOPE.md#recorded-speech-and-name) identifies Sena’s `しらくさ げっか` at 28:03 in the exact alternative Kotone Dear compilation. A credited spelling remains separate.
 
 Gekka's repeated function is external legitimacy.
 
@@ -742,7 +742,7 @@ This provides a clean cross-system rule:
 
 > **Domain expertise does not transfer automatically into relationship expertise.**
 
-**Further witnesses (GKM-SAA-020, GKM-SAA-096) — 2026-11-15.** Two Dear routes add evidence beyond `story_0105`. In D-RINAMI, Gekka calls Shion 「愚妹」 ("foolish younger sister"; `adv_dear_hrnm_018` L97; `adv_dear_hrnm_031` L142, L180) and justifies the word by Shion's straying from the idol's proper path of pleasing fans and wasting her gifts and environment (031 L217–L224). Rinami tells Gekka not to use such a word for her own sister (L209), applying her relational idea of sisterhood to Gekka herself. In D-TSUBAME, Gekka takes Shion home and trains her daily after losing to Tsubame (§4.1, "Through Tsubame"). That is a second witness of sister repair, bound to D-TSUBAME and separate from `story_0105`; it does not erase the managerial contact pattern of the support story.
+**Further witnesses (GKM-SAA-020, GKM-SAA-096) — 2026-11-15.** Two Dear routes add evidence beyond `story_0105`. In D-RINAMI, Gekka calls Shion 「愚妹」 ("foolish younger sister"; `adv_dear_hrnm_018` L97; `adv_dear_hrnm_031` L142, L180) and justifies the word by Shion's straying from the idol's proper path of pleasing fans and wasting her gifts and environment (031 L217–L224). Rinami tells Gekka not to use such a word for her own sister (L209), applying her relational idea of sisterhood to Gekka herself. In D-TSUBAME, Gekka takes Shion home and trains her daily after losing to Tsubame (§4.1, "Through Tsubame"). That gives a separate D-TSUBAME account of increased involvement, with reciprocal repair still open. In Dear 034 L62–138 Shion disputes Gekka’s view of her relation to Tsubame and reports trying to avoid her sister. The [Gekka portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIRAKUSA_GEKKA.md) keeps these responses separate from the earlier support story’s managerial contact.
 
 ## 4.4 Nadeshiko: inherited power and miscalibrated brokerage
 
@@ -1032,7 +1032,7 @@ Cross-link (GKM-SAA-074; 2026-11-15): the supporter path is one that Rinami hers
 
 The former Hatsuboshi idol admired by Hiro functions as a historical model of constructed idol persona and collaborative/public artifact.
 
-The figure is less important as a fully reconstructable person than as evidence that Hiro's idol imagination has predecessors outside the immediate cast.
+The admitted record also supports owl’s own differentiated conduct. In her appointment with China she prescribes a particular amount of work, then recognizes that the pupil’s successful interpretation differs from her model. With Hiro she accounts for a public role built in collaboration and sets limits on how far the junior should generalize the advice. The [current owl portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_OWL.md) and [recorded limits](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_OWL_SOURCE_AND_SCOPE.md#recorded-and-authored-voice) retain the exact unvoiced greeting and distinguish it from other speakers’ heard accounts.
 
 This broadens Hiro's cultural genealogy beyond Producer + classmates + current summit.
 
@@ -1382,7 +1382,7 @@ Mashiro, fans, workers, vendors, ordinary-course clubs, and unnamed observers pr
 ## OPEN
 
 - exact independent motives of several Gokugetsu actors across all contexts;
-- transliteration lock for some Japanese-name side characters where prior artifacts differ (白草月花 harmonised on Gekka from `sgka` metadata, §4.2, GKM-SAA-261; an official reading remains open);
+- credited spelling for some Japanese-name side characters where prior artifacts differ (白草月花 has `sgka` metadata and a recorded Gekka name control, §4.2; a credits-page spelling remains open);
 - full internal mechanics of 100Pro and its relation to Hatsuboshi (narrowed 2026-11-15: 100 Pro's president is Sena's father and the headmaster's son, and the headmaster attributes N.I.A.'s planning to Kuroi and, by inference, that son, §2.4, GKM-SAA-033; contracts, recruitment terms and H.I.F. authority remain open);
 - consistent H.I.F. judging membership/rubric;
 - broader family interiority for several core idols;
@@ -1411,7 +1411,7 @@ are complete.
 
 - Neo Asari / 根緒亜紗里
 - Shirakusa Shion / 白草四音
-- 白草月花 / working shorthand Gekka
+- Shirakusa Gekka / 白草月花
 - Hiwatari Kanae / 氷渡香名江
 - Juo Kunio / 十王邦夫
 - Juo Ryuusei / 十王龍正 — 十王社長, 100 Pro president, Kunio's son and Sena's father (one entity, §2.4, GKM-SAA-033)
