@@ -50,3 +50,5 @@ The unnumbered [current Kaya Rinha AV reading](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_
 The current perceptual and historical baselines cover the distributed voice-analysis responsibility alongside the dossier.
 
 [Carbon propagation and claim routes](GKM_CARBON_PROPAGATION.md) links the current reading for all fifteen character packages.
+
+The later recordings cover Mao and Sumika repairing a disagreement, Lilja renewing a challenge and Temari answering a fan with two peers nearby. [Beach-restaurant repair](GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#repair-at-the-beach-restaurant) · [Festival game](GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-coach-becomes-an-opponent) · [Animate fan encounter](GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)

@@ -19,6 +19,8 @@ last_updated: "2026-11-25"
 
 Start with the [current audiovisual findings](GKM_TEMARI_CARBON_CHARACTER_RECONCILIATION_20261125.md). Read the recorded findings with the baseline for Sumika’s E001 interruption, Temari’s remembered and current coaching and the Dear 037 address cue. Use the textual core and AV addendum together for the character reading.
 
+The separately recorded [Animate fan encounter](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image) distinguishes Temari’s invitation, an audible private thought and her competitive reply to Kotone.
+
 | Purpose | Files |
 | --- | --- |
 | Integrated analysis | [Baseline](GKM_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.md) |

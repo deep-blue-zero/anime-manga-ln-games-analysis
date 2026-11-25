@@ -41,6 +41,8 @@ Start with the character's home for current findings and the original analytical
 
 Supporting measurements live in `SUPPORTING_DATA/` where data exist. Textual-core AV revision addenda remain beside the [textual analyses](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/). The [current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md) governs project progress; the [rebuild register](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_TARGETED_REBUILD_CANDIDATES.md) records the closed Hiro/Misuzu documentary and measurement scope alongside their remaining perceptual dependencies.
 
+[Subsequent story-event playback](GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) covers five guarded parts of Events 002, 003, 004 and 008. It records scoped corrections to performed dialogue, music placement and staging.
+
 ## Historical Hiro and Misuzu rebuild — AVE-FULL-20260910
 
 The imported complete packets retain their source accounting and measurements. The current [Hiro](07_SHINOSAWA_HIRO/README.md) and [Misuzu](11_HATAYA_MISUZU/README.md) entrypoints route subsequent perceptual revisions. Hiro accounts for **33 verified source identities, 636 distinct inspected still points and 20 claim dispositions**; Misuzu accounts for **27 verified source identities, 565 distinct inspected still points and 45 claim dispositions**. Their baselines, specialists, evidence matrices and textual-core addenda incorporate the resulting qualifications.

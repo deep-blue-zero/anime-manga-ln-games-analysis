@@ -369,15 +369,13 @@ None of these instincts is wholly wrong. The event's success comes from combinin
 
 ## 4.2 Temari meets a SyngUp! fan
 
-A customer recognizes Temari from SyngUp! and says she is glad Temari continued being an idol.
+A customer identifies as Temari’s fan, recalls attending SyngUp! shows and welcomes Temari’s continuation as an idol (adv_event_008_main-02 L14–38, L90–99). Temari begins to cut the conversation short. Kotone breaks in by drawing attention to her nerves, then covers the moment with a polite apology to the customer (L38–69). When Temari starts to say that Misuzu and Rinha are absent, Saki interrupts with a show of enthusiasm for Temari. Saki tells Temari to read the room, Kotone tells her she is driving away the fan, and Temari says she has no such intention (L99–136). How much of the peer exchange the customer hears remains open.
 
-Temari's internal and external states diverge sharply. She is pleased and affected, but her spoken response threatens to terminate the interaction. Kotone and Saki intervene, help invite the fan to the afternoon live, and push Temari to say she would be happy if the fan came.
+Saki announces that the three will perform together that afternoon. Kotone offers the customer the chance to hear Temari sing live and asks if the customer can come. The customer says yes before Kotone turns to Temari and prompts her to issue her own invitation (L143–194). Temari then tells the customer she would be happy if they came to listen, and offers to fetch a flyer with the time and place (L209–217). The stops and delayed です in her written invitation register hesitation alongside a statement spoken to the customer about how Temari would feel if they came. The scene establishes the promise to fetch the flyer.
 
-Temari then becomes possessive when Kotone jokes the fan might convert to Kotone.
+In the ensuing exchange among the three idols, Temari says she was a little flustered (L240). Saki grants that Temari might have her own idea of an idol and says she need not change it. Temari rejects this explanation in inner speech and wonders how to express herself (L258–268). Saki asks her to call for help and says she will not have a fan saddened. Temari agrees and apologizes (L271–288). Kotone then jokes that the customer might become her fan. Temari declares that the fan is hers and says she is over the hesitation (L297–318). That declaration follows a new peer provocation. Whether this episode brings lasting change remains open.
 
-This scene is a compact rehearsal of the later “gap” public image. The attractive contradiction is not fabricated from nothing: **the cool exterior, visible awkwardness, competitive possessiveness, and intense desire for recognition already coexist in ordinary interaction.**
-
-**STRENGTHEN:** constructed public persona can be an edited amplification of recurring social truth rather than a false mask.
+**REVISE — 2026-11-25.** Hesitation, a clipped attempted ending, assistance from peers, and an invitation Temari speaks to the fan belong to the same encounter. The earlier formulation described initial pleasure and foregrounded a later public-image “gap.” The exact inner line concerns Saki’s explanation and Temari’s uncertainty. Temari’s explicit pleasure here takes the outward, conditional form of inviting the fan. Event 011 supplies a separate comparison: Temari says she was happy the fan approached and asks China whether she came across as cold (adv_event_011_main-03 L320–329). The order of the two events remains unresolved. A link to deliberate branding is interpretive.
 
 ## 4.3 The public wants the mess they did not plan to show
 
@@ -429,14 +427,14 @@ The trio does not control why people arrive, but it can control what happens onc
 ### Claim transitions
 
 - **Kotone — STRENGTHEN / REVISE:** service-work history is transferable professional capital; social intelligence includes operational escalation to staff, crowd management, and risk awareness. The same competence can trigger overfunctioning.
-- **Temari — STRENGTHEN:** the cool/awkward “gap” exists before any deliberate branding; she wants fan connection but often cannot translate inner affect into social surface without scaffolding.
+- **Temari — REVISE / STRENGTHEN:** she can give the fan an invitation herself after a peer prompt, even while she privately struggles to explain the cold impression; her later possessiveness is separately prompted by Kotone.
 - **Saki — STRENGTHEN:** competition pushes her toward opportunity capture and public experimentation; care remains bodily and practical when a teammate's limit becomes visible.
 - **Class 1-1 trio — PROMOTE:** Saki, Temari, and Kotone can function as a high-friction but highly adaptive temporary work unit because their competencies are nonredundant.
 - **Public-image model — STRENGTHEN:** audience attachment can form around error, contradiction, humor, and personality leakage rather than only perfected performance.
 
 ### AV requests
 
-**P0:** `adv_event_008_main-02` — Temari's SyngUp! fan interaction, the internal/external affect gap, and Saki/Kotone's scaffolding.
+**P0:** `adv_event_008_main-02` — Temari’s attempted exit and spoken fan invitation; her doubt about Saki’s idol-image explanation; Saki and Kotone’s fan-facing and peer-directed speech. See §4.2 for the dated textual correction. The [Recorded customer encounter](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image) supports both the outward invitation and the later separately voiced inner uncertainty.
 
 **P1:** `adv_event_008_main-03` — viral-video reaction sequence; useful for distinguishing humiliation, comic anger, and competitive opportunity capture.
 
@@ -989,7 +987,7 @@ Lilja must stop using exhaustion as moral proof. Sumika must stop using withdraw
 | character | transition | events | Phase-4 delta from 006–012 |
 | --- | --- | --- | --- |
 | Hanami Saki | **PROMOTE / STRENGTHEN** | E008, E009, E012 | competition/optimization becomes transferable pedagogy; care includes enforced rest, role responsibility, and individualized training; sister attachment still permits mild jealousy |
-| Tsukimura Temari | **PROMOTE / STRENGTHEN** | E007, E008, E011 | professional severity becomes domain-sensitive support; genuine effort can earn active carrying; public awkwardness and inner enthusiasm remain sharply split; peer help becomes reciprocal |
+| Tsukimura Temari | **PROMOTE / STRENGTHEN** | E007, E008, E011 | professional severity becomes domain-sensitive support; genuine effort can earn active carrying; fan-facing awkwardness can coexist with wanting contact, and peer prompts can help Temari voice it; peer help becomes reciprocal |
 | Fujita Kotone | **STRENGTHEN / REVISE** | E008, E009 | service-work history is real idol-professional capital; she can broker relationships and operationally manage crowds, but competence tempts her into overfunctioning |
 | Arimura Mao | **PROMOTE / STRENGTHEN** | E011 | refractive role authorship is directly enacted in client work; acting inheritance and idol vocation coexist without replacement |
 | Katsuragi Lilja | **PROMOTE / REVISE** | E009, E012 | social expansion can be scaffolded and then self-authored; raw effort can become an absolution ritual and therefore needs method, rest, and reciprocity |
@@ -1372,7 +1370,7 @@ The Valentine recollection with Temari preserves Misuzu's gentle storytelling. T
 | P0 | `adv_event_007_main-03` | Temari social failure, humiliation, China advising her; pressure and shame calibration |
 | P0 | `adv_event_007_main-05` | Temari blackout fear, hand-holding, `引っぱっていい`, team live transition |
 | P1 | `adv_event_007_main-04` | China/Temari shared origin and Temari recognizing China's strengths |
-| P0 | `adv_event_008_main-02` | Temari meeting SyngUp! fan; inner joy vs outer coldness |
+| P0 | `adv_event_008_main-02` | Temari’s attempted exit and spoken fan invitation; her doubt about Saki’s idol-image explanation; Saki and Kotone’s fan-facing and peer-directed speech |
 | P1 | `adv_event_008_main-03` | viral-video reactions; humiliation/comedy/opportunity capture |
 | P1 | `adv_event_008_main-04/05` | Kotone fatigue, forced rest, trio solidarity |
 | P1 | `adv_event_009_main-04` | Lilja overload and Kotone's friendship scaffold |

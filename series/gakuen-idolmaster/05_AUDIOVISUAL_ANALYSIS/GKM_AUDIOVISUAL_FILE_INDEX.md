@@ -23,6 +23,8 @@ The [recovery audit](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION
 
 The [five support-card audiovisual adjudications](GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md) route the current direct comparisons for Saki and Temari, Kotone and Sena, Rinami, Tsubame, and Ume and Temari. Character-local current files carry the results and their limits.
 
+[Subsequent story-event playback](GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) covers five guarded parts of Events 002, 003, 004 and 008. It records scoped corrections to performed dialogue, music placement and staging.
+
 ## Character routes
 
 The controls column links the claim/evidence matrix, source manifest, completion report, delivery audit, and original internal artifact-checksum manifest. Historical checksums identify their release bytes; they are not blanket assertions that subsequently maintained repository files remain byte-identical.
