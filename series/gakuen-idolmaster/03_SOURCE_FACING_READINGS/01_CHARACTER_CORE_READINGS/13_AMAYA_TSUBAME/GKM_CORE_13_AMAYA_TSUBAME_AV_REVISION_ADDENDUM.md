@@ -10,11 +10,15 @@ source_boundary: AV revision of GKM_CORE_13_AMAYA_TSUBAME.md based on the comple
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-18'
+last_updated: '2026-11-25 — Carbon write-through'
 title: GKM Core 13 — Amaya Tsubame AV Revision Addendum
 ---
 
 # GKM CORE 13 — AMAYA TSUBAME AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+Remove the unrelated SRC-0003 streamer/result display as Tsubame dialogue. In her Dear 033 it is Misuzu's H.I.F. stake that she receives, while Rinha is a direct voiced participant. Separate filmed performances, the publisher game master, named pronoun/address roles and the unavailable commercial track. The 3-0086 exchange adds specific rendered fluster and an act of setting the end of the outing without deciding durable romance. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md). Earlier accounting and source locks below describe their own revisions.
 
 This addendum routes Phase-3 textual claims through the complete audiovisual pass. It does not mutate the frozen textual core.
 

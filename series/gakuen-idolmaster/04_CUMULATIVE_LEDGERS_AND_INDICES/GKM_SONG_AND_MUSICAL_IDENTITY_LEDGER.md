@@ -2,12 +2,12 @@
 title: "Gakuen Idolmaster V2 - Song and Musical Identity Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.14"
-source_lock: "GAKUMAS V2 Source Lock 1.0"
+version: "2.16"
+source_lock: "GAKUMAS V2 Source Locks 1.0–1.2"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit corrections (GKM-SAA-073, 076, 228)"
-revised: "2026-11-15"
-revision_note: "v2.14 correction (source-to-analysis audit 2026-11-15; transitions STRENGTHEN, REVISE and OPEN): Rinami R2 adds singing as root and self-assessed weak skill (GKM-SAA-073); SUGAR FLAVOR origin narrative scoped to two non-additive C4 versions and reopened while the performance close is preserved (GKM-SAA-076); Sumika CIDOL 007 placement anchors added (GKM-SAA-228); no sonic claim changed"
+last_updated: "2026-11-25 — Carbon character and claim write-through"
+revised: "2026-11-25"
+revision_note: "Recorded-scene adjudication at the revision-88 source boundary. The dated baselines and previous revisions follow."
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
@@ -16,6 +16,18 @@ status: "active; cumulative through complete Phase-3 character audiovisual integ
 > **Revision record — v2.14, 2026-11-15 (source-to-analysis audit corrections).** (1) GKM-SAA-076: the Rinami R2 `SUGAR FLAVOR` disposition "PHASE-3 BILATERAL CLOSE with Mao: synchronized peer difference" is kept for the performance (REVISE in scope) and the origin narrative is reopened (OPEN): Rinami's communication 018 and Mao's communication 017 tell the unit's origin with opposite initiators. (2) GKM-SAA-073, STRENGTHEN: a dated note in the Rinami R2 section. (3) GKM-SAA-228, STRENGTHEN: placement anchors in the Sumika `Campus mode!!` row. Earlier wording is kept in each row. The earlier `last_updated` value read "2026-08-22 — Rinami integrated musical identity R2 promoted; 13/13 character baselines complete".
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
+
+## Source-matched song and scene comparisons, 2026-11-25
+
+These findings qualify the relevant historical rows below. Absolute times refer to the named recording. The [receiver reconciliation](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) distinguishes the paired native parts, other complete editions and separately compared publisher audio.
+
+| Character, work and source | Musical action and evidence | Limit |
+| --- | --- | --- |
+| Himesaki Rinami, L.U.V, SRC-0311 and 36℃ U･B･U, SRC-0313 | In L.U.V the “secret” line coincides with a wink and shushing gesture near 91–92 s. It invites the audience into something she frames as difficult to say. In 36℃ U･B･U a phone message and chime lead into the arena around 19–21 s. Listeners describe staccato lead phrases and answering backing calls. The change of setting enlarges the audience for the address. | Paired reports on native picture and sound. The static full-length L.U.V release is another presentation. Camera, arrangement and mixed lead give the two works distinct forms of address. |
+| Himesaki Rinami, Campus mode!!, SRC-0315 and ガラクタロード, SRC-0316 | The anthem brings projected diction and audience address into a collective setting. The camera establishes Rinami on the float at 116 s and on the main stage at 120 s, with close views at 117–119 s. In ガラクタロード three question-and-answer pairs occupy six printed cues at 28.600–38.767 s. The mixed voices turn a song she uses for private encouragement into an invitation to answer. | The four programs across these two rows total 694.4 s including audio tails. Two reviewers received eight overlapping packet-verified parts. The float crossing itself and the identities of voices in the layered responses remain unresolved. These comparisons support differences of phrasing and audience address. Comparable independent vocal takes would be needed to measure growth in singing skill. SRC-0049 at 64.5–111.5 s contains spoken snack-delivery dialogue and supplies no corroborating duet. |
+| Kaya Rinha, formative speech in the Temari rank-3 communication 009 | In the separate RES-06 recording the invitations at 163.58 and 175.02 s reuse one recorded vocal rendition under different backing. A later introduction at 208.07 s names Rinha. The backing changes again near 273.49 s as she talks about wanting to sing like her older sister, at 273.58–280.27 s. The change in accompaniment gives the repeated speech and the personal wish different dramatic settings. | The childhood material carries an expressed aspiration. Ume Dear 015 at SRC-0013 975–1250 s contains three spoken impressions, followed by ordinary speech near 1230–1231 s. Neither scene supplies a sung Rinha solo or establishes her vocal fidelity to Kei. [Dossier source A](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_CHARACTER_DOSSIER.md#source-locators) and [target P1-007](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md). |
+| Hiwatari Kanae, 初 and メタモルフォーゼ | The actual Dear 009 assessment reaches 初 at SRC-0023 3503.4–3551.3 s. In the solo communication Kanae first assumes the song is China's, then questions the unexpectedly bright pop demo. On SRC-0059 it enters around 81.93 s. Listeners describe centering breaths over a building accompaniment at 446.7–451.4 s as she prepares to go onstage. The staged communication ends before the announced performance. SRC-0125 34–190 s supplies the separate released studio mix. | Her response to the demo and the performed preparation show why appearing as herself carries a cost. The studio recording contributes a produced sound without isolating her lead vocal or completing the missing diegetic live. The gameplay True witness has its own edit and result. [Source Lock 1.2 reading](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/14_HIWATARI_KANAE/GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md). |
+| Shinosawa Hiro, 初 | On SRC-0195 native frames 0–10 carry the opening title before the stage appears at 0.366667 s. A different complete rendition, sm43834849, exhibits 24 publisher-timed lyric starts and leaves the lyric strip blank in the two checked spoken intervals at 17.0–19.9 and 101.766–115.566 s. | Title card, printed lyrics and spoken audience calls have distinct functions in the viewed editions. The native Kotone switch demonstration belongs to a different title. The act of switching lyrics on a Hiro 初 run remains open. [RES-10 and PEND-022](GKM_CARBON_RESIDUAL_EVIDENCE_REGISTER.md). |
 
 ## Schema
 
@@ -488,8 +500,21 @@ The revised opaque `musics.txt` has exact hashes in the [source delta](../01_COR
 
 ## Source Lock 1.2 — transcript refresh, 2026-11-15
 
+The A1 columns retain the November 15 textual accounting. The perceptual column points to the subsequent [Kanae recorded-edition findings](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_EVIDENCE_AND_INSPECTION.md#dear-and-performance-editions).
+
 | Character / song | A1 source | Text or command status | Perceptual status |
 | --- | --- | --- | --- |
-| Hiwatari Kanae / `初` | `adv_dear_hkne_002.txt` L345–370, `adv_dear_hkne_009.txt` L217–219 | Assigned assessment piece. Dear 009 specifies a Kanae `all-001` live command. | AV-HKNE-R88-01, playback pending |
-| Hiwatari Kanae / `メタモルフォーゼ` | `adv_cidol-hkne-3-000_01.txt` L116–172 and `_03` L120–196 | Named solo demo, pop characterization in Kanae's speech, and repeats of the instrumental cue. The staged communication ends before her announced performance. | AV-HKNE-R88-02, solo rendition and demo comparison pending |
+| Hiwatari Kanae / `初` | `adv_dear_hkne_002.txt` L345–370, `adv_dear_hkne_009.txt` L217–219 | Assigned assessment piece. Dear 009 specifies a Kanae `all-001` live command. | AV-HKNE-R88-01. Two reviewers matched the embedded assessment at SRC-0023 3503.4–3551.3 s using a same-upload compact rendition with re-encoded audio. SRC-0127 is a separate full-stage performance. |
+| Hiwatari Kanae / `メタモルフォーゼ` | `adv_cidol-hkne-3-000_01.txt` L116–172 and `_03` L120–196 | Named solo demo, pop characterization in Kanae's speech, and repeats of the instrumental cue. The staged communication ends before her announced performance. | AV-HKNE-R88-02. The audio-matched compact renditions supply the demo and preparations on SRC-0059 and the separate released performance on SRC-0125. The complete diegetic live after the announcement remains open. |
 | Kuramoto China / `Wonder Scale` | `adv_dear_hkne_003.txt` L192–235 and `adv_dear_hkne_004.txt` L49–85, L99–152 | Kanae's fan commentary and referenced MV. She agrees to think of the song during a mock shoot. | Same song under China's evidence route, no new performance of it in the mock shoot |
+
+## Carbon character and claim write-through — 2026-11-25
+
+| Work or performance state | Updated recorded consequence |
+| --- | --- |
+| Kanae · `初`, `Wonder Scale` and `メタモルフォーゼ` | R88-01 and -04 distinguish the `初` assessment, an earlier `初` sound-check fragment and refusal to use China's `Wonder Scale` for the walking shoot. R88-02 separates the demo and pre-stage closure from the standalone 3D stage, ranked gameplay and official illustrated MV. [Current musical reading](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_INTEGRATED_AUDIOVISUAL_READING.md#a-song-chosen-with-her-and-claimed-by-her) |
+| Kotone · `Yellow Big Bang!`, `Campus mode!!` and Dear 035–036 | A named complete `Yellow Big Bang!` gameplay capture shows the 944.50→944.75 s lyric toggle. The produced `Campus mode!!` mix and opening call are separate from the effort represented in Kotone's dialogue. Dear 036 ceremonial accompaniment before 3923 s refutes the long silence claim. Its late money turn falls after 4085 s. [Current dialogue and musical controls](../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) |
+
+## Juo Kunio and the Hatsuboshi school song — 2026-11-25
+
+The official release of `標` credits lyrics to Juo Kunio, music to Takafumi Satō and performance to Hatsuboshi Academy. The dated game music registry repeats the lyric credit for three song entries. This supports Kunio's contribution as a lyricist to the school's institutional repertoire. It leaves character-vocal performance and stage-motion questions outside these credits. [Current Kunio monograph](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_JUO_KUNIO.md) · [Official release](https://gakuen-label.idolmaster-official.jp/discography/8jllus_bug4k).

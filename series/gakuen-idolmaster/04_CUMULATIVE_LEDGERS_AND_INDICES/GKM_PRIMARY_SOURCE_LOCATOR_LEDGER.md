@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Primary Source Locator Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.15"
+version: "2.17"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit corrections"
+last_updated: "2026-11-25 — Carbon character and claim write-through"
 status: "active; cumulative through Phase 6 Kaya Rinha source-crosswalk routing"
 ---
 
@@ -1455,3 +1455,34 @@ Physical A1 line numbers are for the Source Lock snapshot named in the scope col
 | `LOC-SAA-048A` | Temari and Misuzu have skipped the winter H.I.F. for the dissolution live (delta, verifier fix V1) | `adv_dear_atbm_033.txt` | `transcripts_raw/05_dear_idol/atbm=Tsubame_Amaya/dear_033.txt` | C1 @ D-TSUBAME, SL1.1 | 60–196; 104–112 | `まさか『H.I.F』に出場しないとは` / `解散ライブにわたしたちのすべてを注ぎ込む` |
 | `LOC-SAA-048B` | Temari's regret at missing the H.I.F. (delta, verifier fix V1) | `adv_dear_jsna_034.txt` | `transcripts_raw/05_dear_idol/jsna=Sena_Juo/dear_034.txt` | C1 @ D-SENA, SL1.1 | 79–493; 457 | `今回の『H.I.F』に出ていないことが悔しいな` |
 | `LOC-SAA-073A` | the handshake event: Rinami's first customer (choice 3 of 3) (delta, verifier fix V4) | `adv_pevent_002_hrnm_sales_4-003-01.txt` | `transcripts_raw/02_produce_events/event_002/hrnm=Rinami_Himesaki/sales_4-003-01.txt` | Produce Event, C3 | 57 | `きみが最初のお客さん？` |
+
+## Support 3-0086 — verified transcript and performance locator
+
+| Locator | Locked object and retrieval anchor | Recorded source |
+| --- | --- | --- |
+| `LOC-AV-SENA-TSB-0086-03` | `Resource/adv_csprt-3-0086_03.txt`, archive `transcripts_raw/04_support_card_stories/support_series_3/story_0086/part_03.txt`, L71–182. 貸せ、手本を見せてやる！ / 幼馴染デートに挑戦！ | `SRC-0093` 175.0–259.413 s whole-parent scope. Reveal ~208–213 s, definition and disclaimer ~220–240 s, last address and reply ~249–259.413 s. [Edition, exact hashes and clock distinctions](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md). |
+
+## Carbon character and claim write-through — 2026-11-25
+
+| Stable route | Exact source and working boundary |
+| --- | --- |
+| `LOC-SAA-291C` · China failure | Keep the A1 script row above. In the complete matched P3 selection-failure rendering the iris retains a lit spot at the 43.30 s sample and goes fully dark by the 43.37 s sample. The three Kanae-coded voice onsets are around 43.77, 50.77 and 55.02 s. China’s surrounding voiced controls are about 36.64 and 62.40 s. Printed role remains `ナレーション`. [China AV evidence](../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_CHINA_CARBON_AV_UPDATE_20261125.md) |
+| GKM-SAA-052 / SDIV-03 · Kotone Dear 037 | Relevant A1 L411/L419 for choice 1 and L465/L472 for choice 2 plus L512/L523 after convergence. SRC-0024 display near 7944.7 s and masked audio through about 7948.5 s. Use about 7971 s for the end. Preserve different SRC-0025 clocks; its ending movie is excluded as dialogue evidence. [Kotone AV history](../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) |
+| REG E001 · Sumika mock-Lilja | `adv_event_001_main-02.txt` L341–345 with `ssmk-018` and the 16-dash Temari box. SRC-0039 paired 443.8–451.1 s. Part 5 L95 is a reformulated address at its own time. [Sumika AV scope](../05_AUDIOVISUAL_ANALYSIS/09_SHIUN_SUMIKA/GKM_SUMIKA_CARBON_AV_UPDATE_20261125.md) |
+| GKM-SAA-194 · Mao *Face Me* | SRC-0236 around 575.1, 601.5, 604.7 and from 611.5 s holds the filmed dialogue. The source is neither a Sena solo nor a witness for Mao's uninferred vocal mechanism. [Mao AV scope](../05_AUDIOVISUAL_ANALYSIS/04_ARIMURA_MAO/GKM_MAO_CARBON_AV_UPDATE_20261125.md) |
+| AV-HKNE-R88 / RES-01 · Kanae | The [character package evidence table](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_EVIDENCE_AND_INSPECTION.md) supplies source IDs, paired claims, matched song clocks, alternate performers' roles and the native vs uploader-labeled outcome split. The versioned R88 A1 inventory remains unchanged. |
+
+## Recorded Event 016 parts 2 and 5 — 2026-11-25
+
+SAKI-L072 now has a recorded part 2 scope. A1 `adv_event_016_main-02.txt` L439–576 joins SRC-0041 parent 526.7–609.6 s for Saki's initial shift and stated refusal to disclose vulnerability to Ume. Part 5 L362–557 joins 1315.5–1414.5 s, with private reverberant lead-in, separate peer outings and assertive exchanges. The score and listener times use the historical media clock. [Accepted comparison](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Tsubame support scenes — locked text and recorded locations
+
+| Locator | Exact script and lines | Original recording scope |
+| --- | --- | --- |
+| `LOC-AV-TSB-HIRO-0056-01` | `Resource/adv_csprt-2-0056_01.txt` L13–206, rest/water L91–140 and Hiro’s request L149–196 | `SRC-0085` 0.200–105.700 s. |
+| `LOC-AV-TSB-KOT-0070-03` | `Resource/adv_csprt-3-0070_03.txt` L9–193, with the two gift title spellings scoped to the selected source | `SRC-0087` 190.000–311.500 s. Historical printed title at 287.550 s differs from pinned L165. |
+| `LOC-AV-TSB-CHINA-0062-03` | `Resource/adv_csprt-3-0062_03.txt` L12–161, with Sena’s report and Rinami’s thought separately attributed | `SRC-0090` 260.000–380.550 s. Picture change at 351.416667 s is separate from heard timing. |
+| `LOC-AV-TSB-SAKI-0085-03` | `Resource/adv_csprt-3-0085_03.txt` L8–143, joint method decision L28–56 and later rivalry L122–143 | `SRC-0092` 204.500–306.250 s. The clock wipe skips the workout. |
+
+[Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)

@@ -9,12 +9,16 @@ source_boundary: Claim-transition bridge from GKM_CORE_04_ARIMURA_MAO.md to the 
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-17'
+last_updated: '2026-11-25'
 parent_textual_authority: GKM_CORE_04_ARIMURA_MAO.md
 parent_av_authority: GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # ARIMURA MAO — PHASE-3 AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+For MAO-C24/C25/C27/C31, the revised `SRC-0241` clock binds Dear 022's shock and subsequent Kansai wording without new authority for prosody or the seriousness of the first cry. For attachment, the *Face Me* encounter is a displayed Producer formulation, Mao's question, his deflection, Mao's future-oriented request and her final promise to give him stronger reason to be taken with her. A professional reading coexists with romantic coding. Mutual romantic intent and any relationship inference from a separate sung track stay OPEN. See [the current scene and edition routes](../../../05_AUDIOVISUAL_ANALYSIS/04_ARIMURA_MAO/GKM_MAO_CARBON_AV_UPDATE_20261125.md).
 
 ## Current integrated capsule
 

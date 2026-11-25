@@ -2,12 +2,12 @@
 title: "Gakuen Idolmaster V2 - Voice Performance State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.6"
-source_lock: "GAKUMAS V2 Source Lock 1.0"
+version: "2.9"
+source_lock: "GAKUMAS V2 Source Locks 1.0–1.2"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit correction to T-DIA-04 (GKM-SAA-006); perceptual review open"
-revised: "2026-11-15"
-revision_note: "v2.6 correction (source-to-analysis audit 2026-11-15; transition REVISE): T-DIA-04 Dear 035 now tests the requested honorific drop answered by the bare surname, with the given name initiated by the Producer in Dear 037 (GKM-SAA-006); no acoustic claim promoted"
+last_updated: "2026-11-25 — Carbon character and claim write-through"
+revised: "2026-11-25"
+revision_note: "Adds the independently adjudicated support 3-0086 spoken register with its separate audio, picture and script clocks."
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
@@ -16,6 +16,17 @@ status: "active; cumulative through complete Phase-3 character audiovisual integ
 > **Revision record — v2.6, 2026-11-15 (source-to-analysis audit corrections).** GKM-SAA-006, REVISE: the Temari T-DIA-04 Dear 035 row read "surname-to-given-name distance shift". A1 shows Temari asking only to drop `さん` (`adv_dear_ttmr_035.txt` L632–643), the Producer answering with the bare surname `月村` (single option, L647) and a plain imperative (L650), and the given name `手毬` arriving in Dear 037 on the Producer's initiative (`adv_dear_ttmr_037.txt` L417, single option L428). Her request remains her agency. Residual ambiguity: `呼び捨て` could in principle cover the given name, but A1 shows her naming only the honorific. The Dear 037 row gains the reception test. The earlier `last_updated` value read "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open".
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
+
+## Recorded speech and performance at Source Lock 1.2, 2026-11-25
+
+The following entries use reported listening on the named recordings and separately verified source clocks and frames. The earlier Phase 3 and September entries record what was available to those passes. The [receiver reconciliation](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) identifies the reviewed editions, speaker corrections and limits of reviewer independence.
+
+| Character and recording | What the scene contributes | Scope for later use |
+| --- | --- | --- |
+| Kaya Rinha, 11 P0 and seven P1 targets | Three consecutive support scenes share SRC-0083. Fifteen further scenes have paired reports on sixteen packet-verified audiovisual windows. In Temari Dear 016, SRC-0032 1847–2223 s, listeners hear distress while Rinha appears through still or replaced 2D portraits. In Saki Dear 026, SRC-0035 1967–2305 s, sustained disclosure reaches quiet encouragement. In Ume Dear 029, SRC-0011 299–588 s, she accepts the refusal and offers a technical suggestion before Ume initiates rehearsal. In Misuzu Dear 024, SRC-0014 941–1394 s, enthusiasm over merchandise and a statement of professional standards share one scene. | These different relationships support comparison of particular deliveries. The earlier zero listening count belongs to September. Five of six C073 controls fall within the eighteen targets. Two controls have paired historical whole-source coverage and four have paired native windows. The claim about a general register across original whole editions remains open. [All targets, source hashes, intervals and corrections](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md). |
+| Hiwatari Kanae, SRC-0023 | At 1543–1610 s listeners describe hesitation in a sung fragment during a stand-in sound check. At 4125–4132 s they identify あなた様と共に where the player-specific display reads プロデューサー様と共に. Her restraint in the former scene and her formal address in the latter serve different recipients. | The sequence at 3274.5–3280.5 s shows the sprint back to the assessment. Her urgency in the Japanese inner wording and the accent of each delivered line require separate evidence. Seven transition-script and sixteen wrapper-take matches establish source correspondences. Run B's lesson and second supply endings and native B/D outcome and HUD displays remain open. [RES-01 and remaining gameplay questions](GKM_CARBON_RESIDUAL_EVIDENCE_REGISTER.md). |
+| Shinosawa Hiro, SRC-0173 and SRC-0172 | Two independent listeners of the anonymous finished stereo at SRC-0173 2513.000–2525.800 s heard the engagement phrase in the credits. Hiro voices the claim around 2518.058 s. In the original dialogue she makes it at Dear 021 L134, the Producer denies it at L142 and she reformulates at L143. In SRC-0172 Dear 036 the display near 2984.5 and 2988.0 s reads ままらない while listeners report ままならない. Dear 037 near 3231.5 s supplies a separate full-form control. | Listeners can hear a comic engagement assertion over the credits music. The denial belongs to the script scene outside that excerpt. The closing vowel remains uncertain. The printed difference identifies an edition and supplies no recording date or client patch date. [Receiver PROP-0259 and PROP-0314](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md). |
+| Hanami Saki, Unit Story 01 chapter 04 parts 7 and 21 | Part 7 brings broken delivery after Ume leaves. In part 21 paired soundtrack reports describe exertion moving toward steadier address. In context, the acknowledgment at L362 concerns Ume's physical ability. The score enters at SRC-0009 1877.451 s as the scene turns to Ume. | The change in backing belongs to the later scene. Each episode supplies its own interlocutors and cause for the change in delivery. [Receiver RES-05](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md). |
 
 ## Schema
 
@@ -388,6 +399,8 @@ Longitudinal textual corroboration remains comparative rather than psychometric:
 <!-- RINHA_AV_20260911 -->
 ## Kaya Rinha performance-state controls — not yet heard
 
+The zero counters in this dated entry cover the September 2026 pass. The November [recorded speech comparison](#recorded-speech-and-performance-at-source-lock-12-2026-11-25) and [18-target addendum](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md) carry the subsequent evidence.
+
 The [18-target baseline](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md) has source-bound text, still observations and selected stereo-mix measurements. Direct listening and continuous-motion counters both remain 0 seconds. No acoustic emotion state or final speech-simulation register is promoted.
 
 Keep separate: Temari’s 3D crying, Rinha’s bust expression and Temari’s report of Rinha crying (Dear016); Rinha’s internal/public framing change (Temari020); fan engagement versus self-disqualification poses (Misuzu024); recoded versus sustained versus accepted disclosure endings (Temari016/Saki026/support0097-03). Ume015’s imitation report and `krnh` voice-asset identifiers do not establish real performer identity or acoustic fidelity. Mixed-window LUFS/LRA values are recording controls, not Rinha-specific voice-state measurements.
@@ -409,3 +422,35 @@ Keep separate: Temari’s 3D crying, Rinha’s bust expression and Temari’s re
 | --- | --- | --- | --- | --- | --- |
 | Hiwatari Kanae | AV-HKNE-R88-04 | GKM-R88-01, Dear 004/005/008 | align technical performance instruction, courtesy with China, private speech and the explicit request to step on stage | Kanae Dear, multiple distinct scenes | AV-C script and register only |
 | Hiwatari Kanae | AV-HKNE-R88-05 | GKM-R88-06, live 001 and seven common steps | resolve `{voice_asset_id}` where applicable and align voice cues to messages or non-message slots | separate live wrappers and common steps | AV-C cues, zero direct listening |
+
+## Sena and Tsubame — support scene performed register, 2026-11-25
+
+In exact `SRC-0093` Sena’s date reveal is bright, set up by a spoken passage with the score withheld around 203–213 s. Her declaration of unfamiliarity with romantic love is quieter and slower around 232–238 s. The closing liking at approximately 249–255 s uses the move from given name to `あなた` in one warm address. Tsubame stammers near 228–232 s, protests more loudly in the next exchange and gives a breath-caught, flustered reply near the ending. These are relation-specific performances in `adv_csprt-3-0086_03`, not isolated voices. Cue boundaries are approximate to the ear. The original also gives a verified native speaker nameplate at 254.867 s, a separate picture clock. **STRENGTHEN** the contextual affect range. Relationship category remains **OPEN**. [Original recording and cue scope](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Carbon character and claim write-through — 2026-11-25
+
+| Role | Paired/reconciled delivered state | Ceiling |
+| --- | --- | --- |
+| Sumika imitates Lilja, E001 part 2 | `ssmk-018` is higher and breathier under the display's question-mark role. The score has already receded before she speaks. Temari's response is accompanied by the 16-bar display. [Current source](../05_AUDIOVISUAL_ANALYSIS/09_SHIUN_SUMIKA/GKM_SUMIKA_CARBON_AV_UPDATE_20261125.md) | Owns one staged imitation. The box, script act, intentional effect and Temari's thought are distinct layers. |
+| China Produce 003 selection failure | Blind and challenger accounts hear clear, steady narration in the whole recovered scene. Three Kanae-coded assets match recorded sound near 43.77, 50.77 and 55.02 s. [Current source](../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_CHINA_CARBON_AV_UPDATE_20261125.md) | Generic recorded narrator role. Do not credit it as China dialogue or named in-world Kanae narration. No separate underlying whisper identified. |
+| Kotone Dear 037 | Masked phrase near 7944.7 s in first-choice watchalong. The audible continuation extends beyond 7967 s. Post-merge display and a different clean choice establish different scopes. [Current source](../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) | Performance comparison across identical choices/editions remains OPEN. |
+| Kanae Dear 004 | The requested `Wonder Scale` reference is declined. In the later open sound check, the paired hearing identifies the tentative opening words of `初`. [Integrated reading](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_INTEGRATED_AUDIOVISUAL_READING.md#what-kanae-agrees-to-perform) | Preserve the difference between actual song fragment and requested music for an earlier use. |
+
+## Recorded Event 016 parts 2 and 5 — 2026-11-25
+
+Kotone addresses Saki more quietly after music recedes, and moves from bare name to Saki-chan before asking about loneliness. Saki's subsequent refusal to show weakness to Ume is firmer. In the other window, Saki's reverberant reflection precedes the drier exchange with Ume. Both sisters' deliberately assertive delivery and Saki's soft closing encouragement have scene-bounded support. No inferred reciprocal jealousy follows from the delivery. [Intervals and identities](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Tsubame’s support-scene shifts — 2026-11-25
+
+| Exact witness | Bounded performed change |
+| --- | --- |
+| `SRC-0085`, support 2-0056 part 01 | Strong running corrections sharpen into urgent intervention. Tsubame calls for rest, checks responsiveness and offers water. Hiro’s later fragmented speech asks for greater severity. The physical outcome remains open. |
+| `SRC-0087`, support 3-0070 part 03 | Tsubame downplays her appearance and later becomes rapid and breathy while identifying the collectible before resuming a formal instruction. Tsubame’s private reason for being there remains open. |
+| `SRC-0090`, support 3-0062 part 03 | Stammered interruption contrasts with academic direction. Rinami’s closing assessment is performed inner speech. China’s description of the support speaks for her own experience. |
+| `SRC-0092`, support 3-0085 part 03 | Post-wipe exertion gives way to shared encouragement and a renewed audition challenge. The shift concerns these interlocutors in this support episode. |
+
+[Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Café recommendations, cinema cover and nickname exchange — 2026-11-25
+
+On SRC-0088 at 127–222 s Lilja’s address stays polite as her recommendation speeds up and grows more emphatic. Tsubame pauses and reconsiders the intended audience of the show. At 234–322.65 s Tsubame stammers first in the excuse and Lilja rushes to corroborate. Their speech remains differentiated. On SRC-0039 at 1174–1225 s Temari moves from a flat example to a falling, puzzled direct address, while Sumika’s comment is lighter. Temari’s laugh and warmer reply follow Kotone’s joking nickname proposal. These are approximate paired listening spans. The sampled picture leaves interframe movements and private motives open. [Perceptual readback](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).

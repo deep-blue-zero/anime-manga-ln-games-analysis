@@ -278,9 +278,9 @@ Mao's attempt to sharpen `なんでやねん` and Sumika's eventual natural reto
 
 Tsubame is helping supervise first-year running. She begins in her normal severe register: straighten the arm, look forward, do not quit because it hurts. Hiro falls far behind. Tsubame initially interprets continued effort as admirable and pushes harder.
 
-Then she notices Hiro's actual physical state.
+Hiro coughs. Tsubame notices her poor colour, orders a break and asks whether she can hear her.
 
-The shift is immediate. Tsubame orders rest, water, and safety. Hiro, barely functional, asks her to be *more* severe. Tsubame reacts with genuine alarm.
+Tsubame offers water. Hiro struggles to get the words out, and Tsubame guesses that she wants more water. Hiro asks for stricter training and insists she can keep going. In SRC-0085 (0.2–105.7 s), the audible contrast is between Hiro’s fragmented breaths and words and Tsubame’s increasingly urgent calls. The opening score drops away around the collapse. Voices and effects continue during the musical gap. Whether Hiro drinks or recovers is left open. [Part 01 recording and voice cues](../../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 Part 2 makes the principle explicit. Tsubame describes Hiro's body without euphemism: poor base stamina, little muscle or fat, slight skeletal build, small appetite, and therefore a body not naturally suited to idol work. Hiro calls her kind.
 
@@ -1317,7 +1317,7 @@ The present tranche shows fluent, spontaneous, positive aesthetic engagement wit
 
 ## 33.3 “Tsubame's harshness means she always wants people pushed harder” — REJECT
 
-Hiro's physical state causes Tsubame to reverse immediately into rest, hydration, and limit-setting. Kotone's observed fatigue similarly causes Tsubame to end training.
+Hiro's physical state causes Tsubame to call a halt and offer water. In support 2-0079 part 02, Tsubame asks how Kotone is doing and whether she has been sleeping. Kotone says she feels energetic. Tsubame ends the lesson on her own assessment, and Kotone accepts her decision (L116–178).
 
 ## 33.4 “Kotone rejects being cared for” — REJECT
 
