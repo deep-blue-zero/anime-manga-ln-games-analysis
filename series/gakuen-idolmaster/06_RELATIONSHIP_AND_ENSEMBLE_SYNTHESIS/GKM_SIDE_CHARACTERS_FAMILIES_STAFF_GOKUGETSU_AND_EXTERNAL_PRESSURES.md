@@ -908,6 +908,8 @@ Second, Tsubame explicitly preserves her refusal right. Broadcasting meaning bec
 
 Yu therefore models a useful form of **institutional permeability without identity capture**.
 
+**Yu’s choice of work (2026-11-25).** Before the formal interview, Tsubame asks if Sena has put Yu up to the assignment. Yu says she was asked and is glad to help (`adv_csprt-3-0104_02` L10–34). Afterward Tsubame explicitly says she can decline further work. Yu explains that bringing idols’ appeal to an audience is rewarding and credits Sena with helping her discover that. Only when Sena proposes additional jobs does Yu ask her to go easy. Tsubame adds her encouragement afterward (`adv_csprt-3-0104_03` L56–85,101–128). The [reviewed portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_MASHIRO_YU.md) relates that exchange to the way Yu asks about injuries, hesitates to interrupt a meal and approaches Saki and China when she hears her name. The [evidence appendix](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_MASHIRO_YU_SOURCE_AND_SCOPE.md#speech-music-and-limits) records the separate question of how she sounds in the broadcast.
+
 ## 5.6 Fans, students, and ordinary-course clubs as weak-tie evidence
 
 Unnamed fans and student groups should generally remain collective actors unless individual evidence becomes durable.
