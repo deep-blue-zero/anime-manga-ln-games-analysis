@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 title: Gakuen Idolmaster V2 — Hataya Misuzu Phase-3 Character Core Deep Reading
-version: '2.1'
+version: "2.2"
 phase: 3 — Character-Core Readings
 source_lock: GAKUMAS V2 Source Lock 1.0
 continuity_tracks:
@@ -21,8 +21,8 @@ continuity_tracks:
 - M-MISUZU
 reasoning_route: GPT-5.6 Sol — Extra High
 last_updated: '2026-08-16'
-revised: "2026-11-15"
-revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (STRENGTHEN / REVISE; open questions kept OPEN; no v2.0 thesis rejected): adds the reciprocal founding triangle, the Kayo-ranking asymmetry and the concealment-to-disclosure arc (GKM-SAA-004, P1 in narrowed form, severity dissent recorded), corrects attribution, branch scope and locators, integrates event, support and family evidence into the body as dated additions, and adds a Phase-4/5 integration pointer section; replaced v2.0 wording is kept in the 2026-11-15 revision table"
+revised: "2026-11-25"
+revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (STRENGTHEN / REVISE; open questions kept OPEN; no v2.0 thesis rejected): adds the reciprocal founding triangle, the Kayo-ranking asymmetry and the concealment-to-disclosure arc (GKM-SAA-004, P1 in narrowed form, severity dissent recorded), corrects attribution, branch scope and locators, integrates event, support and family evidence into the body as dated additions, and adds a Phase-4/5 integration pointer section; replaced v2.0 wording is kept in the 2026-11-15 revision table; v2.2 records the dated written source correction, with the v2.1 wording recoverable from Git history."
 ---
 
 # GKM CORE 11 — HATAYA MISUZU / 秦谷美鈴
@@ -750,7 +750,7 @@ This is competitive megalomania, but also institutional literacy. Misuzu increas
 
 The route therefore turns comparison from interpersonal jealousy into a mechanism for absorbing institutional history.
 
-**Event evidence — contested ownership (2026-11-15, HSCA-028, STRENGTHEN).** Event 024 (Source Lock 1.0; C1 within the event, C2 globally) carries the same appetite into Sena's song. When Sena treats `ENDLESS DANCE` as a legacy to hand down, Misuzu apologizes and declares that she will make the legendary song hers alone (`adv_event_024_main-04.txt` L368); Hanami Ume at once counters that she will protect it (L372). After the performance Sena says that what she had meant as a ceremony of succession has left her unwilling to let the song go (`main-05` L410–L414), and Misuzu says she expected as much (L417). The song returns to circulation through competing possessive claims rather than as a shared commons (`GKM_EVENTS_021_PLUS_DEEP_READING.md` §5.4–§5.5).
+**Event evidence — contested ownership (2026-11-15, HSCA-028, STRENGTHEN).** Event 024 (Source Lock 1.0; C1 within the event, C2 globally) carries the same appetite into Sena's song. When Sena treats `ENDLESS DANCE` as a legacy to hand down, Misuzu apologizes and declares that she will make the legendary song hers alone (`adv_event_024_main-04.txt` L368); Hanami Ume at once counters that she will protect it (L372). After the performance Sena says that what she had meant as a ceremony of succession has left her unwilling to let the song go (`main-05` L410–L414), and Misuzu says she expected as much (L417). **REVISE**, 2026-11-25. Misuzu's exclusive phrasing stays consequential even as Sena reports other people singing the work (`adv_event_024_main-05` L275–L323, L359–L383). Misuzu's stated claim and the reported wider participation can coexist. The exchange leaves private intent and rights to the work **OPEN** (`GKM_EVENTS_021_PLUS_DEEP_READING.md` §5.4–§5.5).
 
 ---
 

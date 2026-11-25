@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Legacy Claim Revision Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.9"
+version: "2.10"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-25 — Carbon character and claim write-through"
+last_updated: "2026-11-25 — Carbon write-through and written Event 024 attribution"
 status: "active; cumulative through Phase 3 Amaya Tsubame integrated audiovisual baseline"
 ---
 
@@ -516,7 +516,7 @@ Evidence is Source Lock 1.0 unless a row names Source Lock 1.1 (SL1.1) or 1.2 (S
 | UME-C21 | — | STRENGTHEN (confirms / extends; support and E009/E010/E016) *(delta)* | Worst Three morale; explicit friendship and shared future; a multi-day stay as a new category; Lilja and Kotone; Saki permits a peer world; counterweight 3-0035_03 | `csprt-3-0010_01` L43–L135; `event_016_main-05` L393–L556 | GKM-SAA-104, GKM-SAA-108 | EVM-Ume; CORE-Ume §12 |
 | UME-C25 | — | STRENGTHEN (extends; support and E024) *(delta)* | teaching runs upward to Sena (swimming, watermelon, garden); in E024 Ume calls Sena `プロデューサーちゃん` and Misuzu calls her `プロデューサー`, and both keep her singing; Ume asks Sena to help as an alumna (3-0091_03) *(final pass: speaker corrected)* | `csprt-2-0077_01` L6–L141; `event_024_main-01` L79, L89; `event_024_main-04` L287, L334; `event_024_main-05` L111; `csprt-3-0091_03` L115 | GKM-SAA-104, GKM-SAA-108 | EVM-Ume; CORE-Ume §22.5 |
 | UME-C36 | — | STRENGTHEN (complicates; support and E009) *(delta)* | her error mode is force and pace (Temari, Lilja, massage, question barrage; *final pass, V8:* a risky cat rescue for which Tsubame scolds her), with stronger reception than intensity control (she reads Temari's wish). **REVISE (2026-11-25):** the earlier summary said she stops teasing. She names the excess after Temari's departure. [Bounded part 02 ruling](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md#temaris-answer-to-ume). | `csprt-2-0063_01` L103–L178; `csprt-2-0067_01` L61–L119 and `_02` L150–L203; `csprt-3-0094_01` L119–L150 | GKM-SAA-104, GKM-SAA-108 | EVM-Ume; CORE-Ume §5 |
-| UME-C37 | — | STRENGTHEN (extends; event) *(delta)* | E026 "our GO MY WAY!!" and self-address; in E024 Ume insists Sena sing ENDLESS DANCE and her joyful performance breaks the song's "curse" | `event_026_main-03` L266–L293; `event_024_main-05` L323 | GKM-SAA-104 | EVM-Ume; CORE-Ume §16.6 |
+| UME-C37 | — | STRENGTHEN (extends; event) *(delta)* | E026 "our GO MY WAY!!" and self-address; in E024 Ume asks Sena to sing ENDLESS DANCE with them, and Sena attributes renewed participation to Ume's joyful performance (2026-11-25, evidentiary wording **REVISED**) | `event_026_main-03` L266–L293; `event_024_main-04` L340–L356; `event_024_main-05` L319–L323 | GKM-SAA-104 | EVM-Ume; CORE-Ume §16.6 |
 | UME-C42 | — | STRENGTHEN (confirms; support) *(delta)* | Ume joined Sena's council by intuition (`直感ですッ！`); Sena chose by perceived numbers | `csprt-3-0011_03` L73–L128 | GKM-SAA-108 | EVM-Ume; CORE-Ume §22.5 |
 | UME-C07 | single P1 secret-box passage, VERY HIGH | STRENGTHEN (evidence route) | passage labelled choice 3 only; Dear 033 corroboration | `pstory_001_hume_after-audition-mid-normal-02` L91–L144; `dear_hume_033` L185 | GKM-SAA-235 | EVM-Ume |
 | CORE-Ume §12 | "Ume proposes the self-authored Worst Three identity" | REVISE (attribution) | the label is Hiro's in E002 and China's in U1; the weakness-as-story framing is the Producer's; Ume supplies the debut promise and the shared climb | `event_002_main-05` L300–L323; `unit_01-03_02` L338; `pevent_001_hume_activity_008` | GKM-SAA-136, GKM-SAA-127, GKM-SAA-280, HSCA-162 | CORE-Ume §12; RS-II §4.1 |
@@ -533,7 +533,7 @@ Evidence is Source Lock 1.0 unless a row names Source Lock 1.1 (SL1.1) or 1.2 (S
 | CORE-Misuzu §2.3, §4 | `のんびりするためには…` as a Produce Event line | REVISE (source label) | Produce Story, branch 3; school_004 rationales are alternatives | `pstory_001_hmsz_after-step-2-normal-01` L95; `pevent_001_hmsz_school_004` L26–L75 | GKM-SAA-240 | CORE-Misuzu |
 | CORE-Misuzu §21 | Ume–Rinha resemblance located in CIDOL 010 | REVISE (locator) | CIDOL 015_01; realization in Dear 014 inner speech | `cidol-hmsz-3-015_01` L101–L160; `dear_hmsz_014` L242–L254 | GKM-SAA-247 | CORE-Misuzu §21 |
 | MISUZU-C22 | — | STRENGTHEN | cross-track maxim in C-KOTONE 019_02 | `cidol-fktn-3-019_02` L359–L372 | GKM-SAA-188 | EVM-Misuzu |
-| CORE-Misuzu §23; CORE-Sena §30; SENA-C47 | `ENDLESS DANCE` as a shared archive | STRENGTHEN / REVISE (qualified) | contested ownership in E024: competing possessive claims, not a commons | `event_024_main-04` L368, L372; `event_024_main-05` L410–L414 | HSCA-028 | CORE-Misuzu §23; CORE-Sena §30 |
+| CORE-Misuzu §23; CORE-Sena §30; SENA-C47 | `ENDLESS DANCE` as a shared archive | STRENGTHEN / REVISE (qualified) | competitive attachment in E024: competing personal claims coexist with wider participation reported by Sena (2026-11-25, evidentiary wording **REVISED**) | `event_024_main-04` L368, L372; `event_024_main-05` L275–L383, L410–L414 | HSCA-028 | CORE-Misuzu §23; CORE-Sena §30 |
 | CORE-Misuzu §27.6, §27.8 | `まりちゃん` and `りんちゃん` "preserve childhood intimacy even when the relationships become competitive" | REVISE (narrowed) + STRENGTHEN | nicknames often persist but drop at confrontation peaks; address and register markers added | `dear_hmsz_012` L90, L140; `dear_hmsz_034` L702 | GKM-SAA-087 | CORE-Misuzu §27; JVR |
 | CORE-Misuzu §16 | the Producer reveals a history-making dream | REVISE (branch root) | player-selected root (three choices) with invariant shared continuation | `dear_hmsz_027` L329–L355, L376–L440 | GKM-SAA-141 | CORE-Misuzu §16 |
 | CORE-Misuzu §30 (P1) | post-SyngUp! depression → self-paced development → solo ambition | REVISE (branch caution) | several items are branch-only; trunk restated | P1 `mid-normal-04`; `step-1-normal-01` L68 | GKM-SAA-143 | CORE-Misuzu §30 |

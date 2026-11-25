@@ -12,9 +12,9 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-23'
-version: "1.1"
-revised: "2026-11-15"
-revision_note: "Source-to-analysis audit 2026-11-15 corrections (GKM-SAA-030, 104, 156, 270, 271, 273; HSCA-028, HSCA-108) applied by targeted edit with A1 locators, using the REVISE, STRENGTHEN, PRESERVE and OPEN transitions and keeping earlier wording recoverable."
+version: "1.2"
+revised: "2026-11-25"
+revision_note: "Corrects selected Event 022 and 024 speaker, reported-reception and repertoire claims against the same locked Japanese scripts. Retains the v1.1 revision record, source boundary and AV request history."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -23,6 +23,8 @@ do_not_use_as_current_authority: false
 # GKM EVENTS 021+ DEEP READING
 
 > **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** First versioned revision; the text before this date, including the 2026-11-12 Source Lock 1.1 pointer at the end, counts as v1.0. Dated notes mark each change: §1.3 and §8 "branch-gated" defined as continuity gating, with Event 029 main-01 choice-invariant (GKM-SAA-273, PRESERVE gating, REVISE terminology); §1.3 the Event 024 culture festival linked to Event 028, with the dating tension left OPEN (GKM-SAA-270); §2.1 boundary condition on Rinami's protective command (GKM-SAA-271, STRENGTHEN); §2.4 and §10 Tsubame's E021 transition relabelled from REVISE to STRENGTHEN (origin datum) (HSCA-108); §2.5 the observation-deck memory reattributed to Tsubame (GKM-SAA-030, REVISE); §3 Sena's unspecified help with Kotone's work load (GKM-SAA-156, STRENGTHEN); §5.4 the `ENDLESS DANCE` commons arises from competing possessive claims (HSCA-028, STRENGTHEN); §10 and §18 owner-policy note on core integration (GKM-SAA-104). Earlier formulations stay in place beside each note.
+
+> **Revision record — v1.2, 2026-11-25.** §3.3–§3.4 separate the two fever scenes, Kotone's echo, and the unknown person who returned her wallet. §3.6 identifies Kotone's tentative description and Mao's explicit welcome. §5.4–§5.6 and §12.5 distinguish the two Prima Stella songs, the juniors' separate decisions, Sena's interpretation of the post-live response, and the circulation of repertoire. These revisions use A1 scripts byte-identical at Source Locks 1.0 and 1.2. The older descriptions of succession as plural ownership and of audience response as directly observed are preserved in v1.1 history. This revision draws on written evidence.
 
 ## 0. Scope, method, and principal finding
 
@@ -57,7 +59,7 @@ Across the tranche:
 - Tsubame's childhood admiration of Sena becomes adult rivalry, but intimate knowledge of Sena's ordinary weakness does not cancel the public ideal. It makes the ideal more meaningful because Tsubame knows the work that produced it.
 - Kotone repays Mao's first-day kindness through competent care, then helps Mao imagine a fandom that can love the prince and the ordinary person together. Mao in turn uses Kotone's friendship to face Sena's stage rather than continue avoiding it.
 - Temari repairs a missed year of ritual with Misuzu by turning shared memory into a new artifact: a one-copy birthday/lullaby CD. Hiro does not replace either friend; she mediates until Temari can author the gift herself.
-- Sena tries to treat `ENDLESS DANCE` as a legacy object to be handed down. Ume and Misuzu reject the funeral logic, insist Sena sing with them, and thereby return the song to circulation without dispossessing Sena of it.
+- Sena proposes to hand down `ENDLESS DANCE` by staying out of its next performance. Ume and Misuzu refuse her arrangement and Ume asks her to sing with them. Sena later credits the juniors with renewing other performers' interest while choosing to keep the song in her own repertoire.
 - China, Ume, and Misuzu move from juniors managed by seniors into a next student-council generation that invents its own work systems and care rituals. Their legitimacy comes from doing the work differently while remaining answerable to the institution they inherit.
 - Saki, Ume, and Kotone approach a 765 Production cover not as reproduction but as lineage. Their stated problem is how to make **their** `GO MY WAY!!`, and success is defined partly by creating an opportunity for the next Hatsuboshi group to follow.
 - Event 029, within its gated premise, makes institutional pedagogy reversible: the teacher teaches the Producer, then becomes the Producer's idol; Saki and Temari can still challenge her as a rival while Kotone maintains ordinary role etiquette.
@@ -311,7 +313,7 @@ Kotone does not need to perform reverence while providing care, and Mao does not
 
 ## 3.3 Fever removes Mao's role control but does not reveal a “truer” Mao
 
-Half-asleep, Mao calls for her mother, says she wants to become an idol, requests specific foods, sings an old Kansai local commercial song, and becomes what Kotone later calls a `わがまま王子様`.
+As Kotone changes the towel, a half-asleep Mao says “Mama?” and says she wants to be an idol. Kotone echoes “Mama?” in a separate line. The script leaves Mao's sense of the moment unsettled (`adv_event_022_main-02` L64–L70). In Part 03, Mao asks for porridge and describes the akashiyaki her mother makes when she is sick. Kotone teases Mao about being a demanding prince. Mao then reprises a jingle from a Kansai commercial she says she appeared in (`adv_event_022_main-03` L143–L280).
 
 The scene is useful precisely because it should **not** be interpreted as “the prince was fake; childish Mao is real.”
 
@@ -329,7 +331,7 @@ Kotone remembers meeting Mao on entrance day after losing her wallet. Mao was st
 
 Mao's explanation is characteristic: she is a prince, and she does not want a new student's first day to become a bad memory.
 
-The wallet is eventually returned through the office, but Mao's effort matters relationally even though it did not directly solve the material problem.
+Kotone remembers Mao deciding to keep searching after asking her to go home. Kotone says someone brought the wallet to the office. The account leaves that person's identity and any connection to Mao's search open. Kotone remembers Mao's effort and her stated wish to spare a new student a bad first day (`adv_event_022_main-02` L275–L288, L332–L372).
 
 Event 022 therefore turns the illness episode into **reciprocity across time**. Kotone is not arbitrarily nursing a nice senior. She is returning a kind of care that helped define Mao for her on the first day of school.
 
@@ -349,9 +351,7 @@ This is especially important for Mao because her senior/prince identity predispo
 
 ## 3.6 Kotone names Mao as an older friend
 
-On their recovery outing, Kotone explains that she has long experience caring for younger siblings and peers but has never really had an **older friend**. Mao feels different from Sena, Tsubame, or Rinami: still respected as a senior, but accessible in a way that resembles friendship.
-
-Mao is pleased rather than correcting the category back to hierarchy.
+While their food cooks on the recovery outing, Kotone says she grew up caring for younger siblings and is used to looking after younger people or classmates. She tries out **older friend** for Mao, while saying she respects her as a senior and feels differently about the president, vice president, and Rinami. Mao repeats the description and tells Kotone she is glad to be thought of that way. Mao then invites her to eat (`adv_event_022_main-04` L491–L573).
 
 **Sena's help with Kotone's work load — 2026-11-15 (GKM-SAA-156, STRENGTHEN).** At the start of the outing Kotone tells Mao that she has been cutting her part-time shifts little by little because Sena has helped her in various ways (`星南会長に、いろいろ助けてもらって`, `adv_event_022_main-04` L61–L68). Mao notes that Kotone now keeps the dorm curfew (L76). §1.3 uses the line as a continuity basis; it also belongs in the Event 022 analysis. In event continuity Kotone accepts unspecified help from Sena that lets her reduce the job load that Events 001, 003, 005, 008, 009 and 010 make a recurrent Kotone motif. Tentatively, this is the first explicit easing of that load in the event corpus. The help is unspecified: do not infer money, debt or acceptance of Sena's production. Counterevidence: in D-KOTONE the material relief comes through the Producer, and other events still show Kotone at part-time work (for example the fast-food restaurant in Event 017).
 
@@ -577,7 +577,7 @@ Sena then says Ume, Misuzu, and China have each shown excellent growth in differ
 
 The most important scene is the Shibuya Sound Fest setlist discussion.
 
-Sena assigns `ENDLESS DANCE`—the song associated with her Prima Stella victory—to Ume and Misuzu and says she will not sing it herself.
+Ume identifies `ENDLESS DANCE` as the number Sena performed at the victory live on the day she became Prima Stella. Misuzu asks for the song from the main competition, Ume answers `Choo Choo Choo`, and Misuzu confirms the answer. Later in the discussion, Sena says she intends to have Ume and Misuzu sing `ENDLESS DANCE` without her (`adv_event_024_main-04` L99, L136–L158, L182–L212).
 
 Her reasoning is institutional:
 
@@ -590,34 +590,17 @@ She therefore wants Ume and Misuzu to **take it back from her**.
 
 This is generous, but the juniors immediately identify the hidden assumption: Sena believes inheritance requires her withdrawal.
 
-They refuse.
+Ume asks what Misuzu thinks. Misuzu expects agreement and proposes answering on a common cue. Ume calls the count and the two juniors refuse together. Misuzu then says the proposal to overwrite Sena underestimates the idols Sena produces. Ume asks Sena to sing alongside them and promises they will take back the song. Sena finally invites them to challenge her version (`adv_event_024_main-04` L280–L356, L390–L413). The refusal changes who can perform at this live and allows the juniors to answer a performer still present in the repertoire.
 
-Misuzu says asking the two of them to overwrite Sena underestimates her own idols. Ume says restraint is unlike Sena and insists she sing too. Their challenge is not to replace Sena's `ENDLESS DANCE` but to meet it while she is still present.
-
-The succession model becomes:
-
-`originator performs + juniors answer -> plural ownership`.
-
-That is more generative than:
-
-`originator withdraws -> juniors inherit empty slot`.
-
-**Contested possession — 2026-11-15 (HSCA-028, STRENGTHEN; narrows the "commons" mechanism).** The plural ownership arises from competing claims, not from relinquished sharing. Misuzu apologizes and vows to make the legendary song hers alone (`わたしだけのものにしてみせます`, `adv_event_024_main-04` L368). Ume vows to protect it from her (L372). After the live Sena says that she had thought of the performance as a succession ritual but no longer intends to let the song go (`adv_event_024_main-05` L410–L414). Misuzu's stated motive is the very monopoly Sena wanted to end. Inference: it fits the possessive gift logic Misuzu states in Event 023 (§4.3). The circulation thesis survives, but the commons is produced through rival possessive claims. Alternative: the possession language is playful banter, and the outcome is common either way.
+**Contested attachment — HSCA-028 (STRENGTHEN, 2026-11-15; wording REVISED, 2026-11-25).** Misuzu vows to make the song hers alone, Ume answers that she will protect it, and Sena later says she has lost the intention of letting it go (`adv_event_024_main-04` L368–L372, `adv_event_024_main-05` L410–L414). Those competing personal claims coexist with broader participation. The exchange fits Misuzu's possessive gift language in Event 023 (§4.3), and the teasing may serve the immediate challenge. The lines establish what each participant says about the song. They leave private motives and control of the rights unsettled.
 
 ## 5.5 Ume and Misuzu de-monopolize the song in different ways
 
-After the live, Sena finds many new performance videos of `ENDLESS DANCE`.
+The next day Sena reports finding videos of other people singing `ENDLESS DANCE`. Ume remarks on how many there are and that the performers include people outside Hatsuboshi. Sena credits Ume's enjoyment with breaking the inhibition around the piece and credits Misuzu's singing with opening an option for accomplished performers (`adv_event_024_main-05` L275–L323, L359).
 
-She attributes two different effects to her juniors:
+Sena says Tsukimura consulted her and Misuzu reads the request to include the song at a future live. The scene gives the surname and the reported request. Ume subsequently remarks that Sena's older video is also drawing attention (`adv_event_024_main-05` L340–L359, L392–L400).
 
-- Ume's visibly joyful performance broke the “curse” that made other people afraid to touch the song;
-- Misuzu's singing showed high-level performers a new legitimate way to approach it.
-
-The distinction matters. Cultural transmission needs both **permission** and **possibility**.
-
-Ume makes participation feel allowed. Misuzu expands the technical/aesthetic option space.
-
-Temari then contacts Sena wanting to include the song in a future set, demonstrating direct circulation beyond the event trio.
+On Sena's reading of the event, Ume makes trying the song feel possible and Misuzu shows experienced performers another way to approach it. The reporting scene establishes this as Sena's account of reception. The narrated responses and the circulation argument carry no direct observation of the other performances or independent audience figures.
 
 This is one of the strongest pieces of evidence in the corpus for a mature institutional understanding of idol tradition: a song becomes more valuable as more people can inhabit it without erasing prior versions.
 
@@ -640,9 +623,7 @@ This is not false modesty. Across Events 005, 013, 024, and 025, producer Sena r
 
 ### Event 024 thesis
 
-> **A legacy becomes common property when the originator remains available to be answered, not when the originator disappears.**
-
-`ENDLESS DANCE` returns to Hatsuboshi because Ume and Misuzu perform with Sena, against Sena, and beyond Sena at the same time.
+The event presents a way to reopen a song to other performers while its best-known performer continues to sing it. Ume and Misuzu insist on sharing the Shibuya performance with Sena, contest their relationship to the piece, and give Sena grounds to welcome the requests and recordings she subsequently reports.
 
 ### Relationship promotions
 
@@ -655,7 +636,7 @@ This is not false modesty. Across Events 005, 013, 024, and 025, producer Sena r
 
 - Sena's student-council producer project has a demonstrated approximately one-year developmental span.
 - Student-council juniors can be delegated real cultural-program design work.
-- `ENDLESS DANCE` is institutionally understood as a Hatsuboshi song that became socially monopolized through association with Sena, not private property in a literal rights sense.
+- Sena says `ENDLESS DANCE` was made for Hatsuboshi idols and interprets its disuse after her victory live as the effect of its association with her. Her account concerns the school's practical repertoire (`adv_event_024_main-04` L232–L260).
 - Public performance by juniors can alter what other students perceive as culturally available repertoire.
 
 ### AV requests
@@ -1103,7 +1084,7 @@ Sena's success as producer is not that Ume, Misuzu, or China become miniatures o
 
 ### `ENDLESS DANCE`
 
-Sena's original handoff plan treats succession as replacement: she stops singing; juniors inherit. The juniors reject it. The song returns to the institution when Sena remains one legitimate performer among an expanding set.
+Sena's initial plan has her step aside so the juniors can reclaim the song. They refuse. Sena's account the next day suggests that more performers will take up the song while her own association with it endures.
 
 ### Student council
 
@@ -1341,13 +1322,7 @@ The evidence does **not** by itself establish school-wide final adoption.
 
 Event 024 explicitly frames `ENDLESS DANCE` as a song made for Hatsuboshi idols that became socially monopolized by association with Sena.
 
-The live then produces observable recirculation:
-
-- other performers upload versions;
-- Temari asks to put it in a later set;
-- Sena chooses to continue singing it too.
-
-This is strong evidence for repertoire as a living institutional commons rather than merely character-branded property.
+The day after the live, Sena reports new versions, Sena and Misuzu relay Tsukimura's request for a later set, and Sena says she no longer plans to relinquish the song (`adv_event_024_main-05` L275–L310, L340–L359, L410–L414). The episode uses attributed reports and Sena's stated decision to dramatize renewed access to a repertoire still closely associated with her.
 
 ## 12.6 External representative selection
 
