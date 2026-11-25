@@ -28,6 +28,28 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Reviewed current evidence:
   - [`gkm-core-13-amaya-tsubame` — GKM CORE 13 AMAYA TSUBAME](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/13_AMAYA_TSUBAME/GKM_CORE_13_AMAYA_TSUBAME.md)
 
+<a id="aoi-nadeshiko"></a>
+
+### Aoi Nadeshiko
+
+- Entity ID: `the-idolmaster:aoi-nadeshiko`
+- Entity aliases:
+  - 藍井撫子 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Gakuen Idolmaster mobile-game V2 character monograph
+
+- Analysis subject ID: `the-idolmaster:aoi-nadeshiko@mobile-game`
+- Series: `gakuen-idolmaster`
+- Continuity: `gakuen-idolmaster-mobile-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `aoi-nadeshiko-v2-monograph`: GAME OTHER: The admitted Dear routes of Kuramoto China, Hiwatari Kanae, Hataya Misuzu, Tsukimura Temari and Shiun Sumika, the Shirakusa support story, and separate Arimura Mao and Himesaki Rinami Produce outcomes at Source Lock 1.2 revision 88, each kept in its own story, plus two bounded recording comparisons. Her singing, family circumstances and unobserved private life are outside the evidence.; continuity `gakuen-idolmaster-mobile-game`
+- Reviewed current evidence:
+  - [`gkm-v2-monograph-aoi-nadeshiko` — Aoi Nadeshiko V2 supplementary character monograph](../../series/gakuen-idolmaster/07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_AOI_NADESHIKO.md)
+
 <a id="arimura-mao"></a>
 
 ### Arimura Mao
@@ -497,6 +519,28 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
   - `kuramoto-china-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-06-kuramoto-china` — GKM CORE 06 KURAMOTO CHINA](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/06_KURAMOTO_CHINA/GKM_CORE_06_KURAMOTO_CHINA.md)
+
+<a id="mashiro-yu"></a>
+
+### Mashiro Yu
+
+- Entity ID: `the-idolmaster:mashiro-yu`
+- Entity aliases:
+  - 真城優 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Gakuen Idolmaster mobile-game V2 character monograph
+
+- Analysis subject ID: `the-idolmaster:mashiro-yu@mobile-game`
+- Series: `gakuen-idolmaster`
+- Continuity: `gakuen-idolmaster-mobile-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `mashiro-yu-v2-monograph`: GAME OTHER: Eleven admitted support-story scripts and Himesaki Rinami's RippleSign song communication at Source Lock 1.2 revision 88, each kept in its own setting. Her heard delivery, singing, family history and later career are outside the evidence.; continuity `gakuen-idolmaster-mobile-game`
+- Reviewed current evidence:
+  - [`gkm-v2-monograph-mashiro-yu` — Mashiro Yu V2 supplementary character monograph](../../series/gakuen-idolmaster/07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_MASHIRO_YU.md)
 
 <a id="neo-asari"></a>
 
