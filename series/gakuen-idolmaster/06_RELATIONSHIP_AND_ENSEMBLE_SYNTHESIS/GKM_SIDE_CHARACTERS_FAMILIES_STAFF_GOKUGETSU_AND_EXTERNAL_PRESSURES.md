@@ -536,7 +536,7 @@ The vocal trainer emphasizes plural standards:
 - throat protection;
 - and strategy for evaluative settings.
 
-With an advanced student such as Temari, returning to fundamentals is not humiliation. It is a professional judgment that success can create blind spots.
+When Temari treats a basic exercise as beneath her stage of development, the vocal trainer explains what it can still do and explicitly credits her existing singing. Temari reports finding it easier to produce voice after a repeat. In a separate class, the trainer allocates limited turns between Temari and the newly arrived Saki. Her concern for the conditions of learning can protect a pupil or leave the limits of praise unclear. Lilja taking the sit-up joke literally is a concrete failure of calibration. [Vocal trainer portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_VOCAL_TRAINER.md) · [Source and scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_VOCAL_TRAINER_SOURCE_AND_SCOPE.md)
 
 ### Dance trainer
 
