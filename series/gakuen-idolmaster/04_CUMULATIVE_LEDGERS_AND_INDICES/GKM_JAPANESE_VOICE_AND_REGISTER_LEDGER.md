@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Japanese Voice and Register Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.6"
+version: "2.7"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit corrections"
+last_updated: "2026-11-25 — SRC-0093 priority support scene adjudication"
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
@@ -670,3 +670,7 @@ Textual register only; prosody stays AV-gated (Carbon queue). These rows mirror 
 | Vocal trainer | `LOC-SAA-288B` | Producer | idiolect | drawn-out `～`; `わたし`; `あらあら～プロデューサーも アイドルを目指すのかしら～？`; `厳しくいくから、覚悟してくださいね♪` | teasing with an edge (GKM-SAA-288) | high for these lines |
 | Visual trainer | `LOC-SAA-288C` | Producer | idiolect | `わ`/`ね`/`かしら`; `私`; `あら、ビジュアルトレーナーに進路変更するの？`; `ふふっ、成長したわね♪` | teasing then praise (GKM-SAA-288) | high for these lines |
 | Headmaster Juo Kunio | `LOC-SAA-288D` | Producer | idiolect and staging | laugh `ふふふ……ははは……はーっはっは！！` before the self-introduction; `わし`, `おぬし`, `じゃ`; `おぬしの名前は、確か――` / `そうであったな！` | none of the three trainers or the headmaster uses the Producer's name in these files, unlike Asari's `{user}くん` (GKM-SAA-288) | high for these lines |
+
+## Sena and Tsubame — support 3-0086 written address and performed contrast
+
+`adv_csprt-3-0086_03` L53–182 distinguishes Sena’s given-name address, the explicit relational term `幼馴染`, the different lexical work of `恋` and `好き`, and the move to `あなた` at L173. Tsubame uses `貴様` amid shock, challenge and fluster. That register can coexist with attachment in a high-trust exchange and has to be read in context. Exact `SRC-0093` around 249–255 s carries the warm final statement from Sena to Tsubame. The latter speaks the last reply. **STRENGTHEN** the addressee-specific distinction. The Producer has no line in this two-person interval. [Separate script, returned audio and picture checks](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).

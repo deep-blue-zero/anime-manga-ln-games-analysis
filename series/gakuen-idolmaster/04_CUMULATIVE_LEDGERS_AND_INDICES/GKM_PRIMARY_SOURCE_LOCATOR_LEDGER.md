@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Primary Source Locator Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.15"
+version: "2.16"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit corrections"
+last_updated: "2026-11-25 — SRC-0093 priority support scene adjudication"
 status: "active; cumulative through Phase 6 Kaya Rinha source-crosswalk routing"
 ---
 
@@ -1455,3 +1455,9 @@ Physical A1 line numbers are for the Source Lock snapshot named in the scope col
 | `LOC-SAA-048A` | Temari and Misuzu have skipped the winter H.I.F. for the dissolution live (delta, verifier fix V1) | `adv_dear_atbm_033.txt` | `transcripts_raw/05_dear_idol/atbm=Tsubame_Amaya/dear_033.txt` | C1 @ D-TSUBAME, SL1.1 | 60–196; 104–112 | `まさか『H.I.F』に出場しないとは` / `解散ライブにわたしたちのすべてを注ぎ込む` |
 | `LOC-SAA-048B` | Temari's regret at missing the H.I.F. (delta, verifier fix V1) | `adv_dear_jsna_034.txt` | `transcripts_raw/05_dear_idol/jsna=Sena_Juo/dear_034.txt` | C1 @ D-SENA, SL1.1 | 79–493; 457 | `今回の『H.I.F』に出ていないことが悔しいな` |
 | `LOC-SAA-073A` | the handshake event: Rinami's first customer (choice 3 of 3) (delta, verifier fix V4) | `adv_pevent_002_hrnm_sales_4-003-01.txt` | `transcripts_raw/02_produce_events/event_002/hrnm=Rinami_Himesaki/sales_4-003-01.txt` | Produce Event, C3 | 57 | `きみが最初のお客さん？` |
+
+## Support 3-0086 — verified transcript and performance locator
+
+| Locator | Locked object and retrieval anchor | Recorded source |
+| --- | --- | --- |
+| `LOC-AV-SENA-TSB-0086-03` | `Resource/adv_csprt-3-0086_03.txt`, archive `transcripts_raw/04_support_card_stories/support_series_3/story_0086/part_03.txt`, L71–182. 貸せ、手本を見せてやる！ / 幼馴染デートに挑戦！ | `SRC-0093` 175.0–259.413 s whole-parent scope. Reveal ~208–213 s, definition and disclaimer ~220–240 s, last address and reply ~249–259.413 s. [Edition, exact hashes and clock distinctions](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md). |

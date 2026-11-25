@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Relationship State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.16"
+version: "2.17"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit corrections; RINHA-AV-20260911 remains open"
+last_updated: "2026-11-25 — SRC-0093 priority support scene adjudication; Phase 6 Rinha completion at the admitted boundary"
 status: "active; cumulative through Phase 6 Systems I + II and Kaya Rinha evidence matrix"
 ---
 
@@ -916,3 +916,7 @@ Rows above that carried a demonstrated error, or a question the audit closed, no
 | Rinami ↔ Sena | C1 @ D-RINAMI 029, 036; E025 | bears on the Phase-3 row's later test: the Dear 029 attempt at `星南ちゃん` is completed at the summit, after `ありがとう、ございます` (Dear 036 L434), at L445; in E025 Rinami stops Sena and Tsubame in plain register (`ふたりとも、喧嘩はダメだよ？`) | `adv_dear_hrnm_036` L434, L445; `adv_event_025_main-01` L77 | GKM-SAA-223; CORE-Rinami §22, OQ-RINAMI-08; register details belong to the voice ledger |
 
 **Naming (GKM-SAA-261).** `Tsukika` in the 2026-08-16 and 2026-08-18 Tsubame sections above is 白草月花, romanized `Gekka` on actor code `sgka` (`adv_dear_atbm_004` L186, L200), the form now used in CORE-Tsubame and already used for her elsewhere in this ledger. The two headings are kept unchanged so that their anchors stay stable.
+
+## Sena and Tsubame — layered affection in a separate support state
+
+`adv_csprt-3-0086_03` L110–182 gives Tsubame’s question, Sena’s definition and disclaimer, her stand-in joke, Tsubame’s objection, and then Sena’s explicit liking. In `SRC-0093` circa 208–259.413 s the contrast between the reveal, the quieter qualification and the warm last address is audible. Tsubame’s final recoil and warm underscoring establish weight and performative asymmetry. **STRENGTHEN** the instance of childhood-friend affection alongside teasing, **PRESERVE** the explicit qualification and **OPEN** the romantic category. This support exchange is a specific relationship state. Distinct title and professional outcomes stay in their own routes. [Playback and counterreadings](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).

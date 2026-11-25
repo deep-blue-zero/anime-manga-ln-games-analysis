@@ -2,12 +2,12 @@
 title: "Gakuen Idolmaster V2 - Voice Performance State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.7"
+version: "2.8"
 source_lock: "GAKUMAS V2 Source Locks 1.0–1.2"
 initialized: "2026-08-13"
 last_updated: "2026-11-25"
 revised: "2026-11-25"
-revision_note: "Recorded-scene adjudication at the revision-88 source boundary. The dated baselines and previous revisions follow."
+revision_note: "Adds the independently adjudicated support 3-0086 spoken register with its separate audio, picture and script clocks."
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
@@ -422,3 +422,7 @@ Keep separate: Temari’s 3D crying, Rinha’s bust expression and Temari’s re
 | --- | --- | --- | --- | --- | --- |
 | Hiwatari Kanae | AV-HKNE-R88-04 | GKM-R88-01, Dear 004/005/008 | align technical performance instruction, courtesy with China, private speech and the explicit request to step on stage | Kanae Dear, multiple distinct scenes | AV-C script and register only |
 | Hiwatari Kanae | AV-HKNE-R88-05 | GKM-R88-06, live 001 and seven common steps | resolve `{voice_asset_id}` where applicable and align voice cues to messages or non-message slots | separate live wrappers and common steps | AV-C cues, zero direct listening |
+
+## Sena and Tsubame — support scene performed register, 2026-11-25
+
+In exact `SRC-0093` Sena’s date reveal is bright, set up by a spoken passage with the score withheld around 203–213 s. Her declaration of unfamiliarity with romantic love is quieter and slower around 232–238 s. The closing liking at approximately 249–255 s uses the move from given name to `あなた` in one warm address. Tsubame stammers near 228–232 s, protests more loudly in the next exchange and gives a breath-caught, flustered reply near the ending. These are relation-specific performances in `adv_csprt-3-0086_03`, not isolated voices. Cue boundaries are approximate to the ear. The original also gives a verified native speaker nameplate at 254.867 s, a separate picture clock. **STRENGTHEN** the contextual affect range. Relationship category remains **OPEN**. [Original recording and cue scope](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).

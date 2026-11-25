@@ -2,12 +2,12 @@
 title: "Gakuen Idolmaster V2 - Audiovisual Verification Queue"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.9"
+version: "2.10"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-25 — paired playback routed into event and support requests; Phase 6 perceptual completion recorded"
+last_updated: "2026-11-25 — SRC-0093 priority support scene adjudication; prior paired event and support dispositions retained"
 revised: "2026-11-25"
-revision_note: "v2.9 adds bounded paired dispositions for nine numbered-event or support requests and preserves the residual portions of two more. The dated Phase 6 note records Rinha closure at Source Lock 1.2 with narrower claims still held."
+revision_note: "v2.10 resolves one recorded support P0 at its observed scope. v2.9 event and support outcomes remain separately dated."
 status: "active; Phase 6 complete at Source Lock 1.2; Phase 7 dialogue and performance requests individually adjudicated"
 ---
 
@@ -989,3 +989,7 @@ The prior entries preserve the requests as they were made. This dated record add
 The E021 answers also have a separately tracked same-upload compact of `SRC-0057` with retained historical audio and clocks, `LP-RPL-0343` and `LP-RPL-0409`. The rendition gives a second route for checking the scenes. Its timings cannot be used to certify unrelated edits or ports. The admitted evidence does not imply further audio measurements or scene coverage.
 
 Phase 6 completed at Source Lock 1.2. The earlier Rinha target execution note above applies to its dated acquisition snapshot. The separate C073 whole-container claim still requires its own evidence. An answered event or support request clears only that request's verified scope. The [character qualification and readiness record](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_CHARACTER_QUALIFICATION_AND_READINESS.md) controls individual monograph decisions. [Reconciliation and edition rules](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) · [Rinha perceptual completion and scope](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Native support 3-0086 playback — 2026-11-25
+
+P0 `adv_csprt-3-0086_03`, 貸せ、手本を見せてやる！ / 幼馴染デートに挑戦！ is **RESOLVED at the recorded-scene scope**. In exact local `SRC-0093` 175.0–259.413 s, two candidate-independent observers and a separate challenger distinguish the deliberate reveal, the quieter disclaimer about romantic love, the stand-in joke and Sena's warm liking addressed to Tsubame. The final flustered reply belongs to Tsubame. The source does not determine either person's enduring romantic status. Audio, video samples, native picture-only checks and A1 staging have separate limits. [Scoped playback adjudication](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).
