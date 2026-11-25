@@ -696,3 +696,7 @@ In the shop, Sumika moves from recognizing Mao’s concern to her own apology, t
 At the ball-toss stall Lilja continues to use polite Japanese while requesting another try and accepting Saki’s challenge. She voices strain after Saki declares the first-round win and sounds delighted at her own later declaration of victory. She chooses to continue. [Festival game](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-coach-becomes-an-opponent)
 
 At the Animate event Kotone and Saki switch from public customer-facing speech to quieter peer prompts. Temari’s polite invitation is addressed to the customer. The audience hears her private doubt in the later debrief, and her possessive reply to Kotone comes later still. [Animate fan encounter](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)
+
+## Sports day and Hiroshima addresses — 2026-11-25
+
+**STRENGTHEN.** Hiro commonly uses bare `美鈴` and plain endings, while Misuzu uses `篠澤さん` and politeness even in her warm affirmative reply. Hiro’s heard `大好き` and Misuzu’s `はい……わたしもです` retain different wording. China’s quiet reply to Hiro expands to a wider audience with the group’s response blended. In Hiroshima the juniors’ deferential address to Rinami coexists with their direct support. These are scoped voiced records. [Sports day and Hiroshima adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md)

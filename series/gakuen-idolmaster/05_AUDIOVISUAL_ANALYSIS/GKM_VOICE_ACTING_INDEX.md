@@ -36,6 +36,8 @@ Dialogue delivery, voice/register, scene acting and relation-specific performanc
 
 [All AV files](GKM_AUDIOVISUAL_FILE_INDEX.md) · [AV home](README.md) · [Project state](../CURRENT_STATE_AND_CORPUS_MAP.md). The fourteen numbered rows contain thirteen original Phase 3 packages plus the later Kanae addition. The character READMEs give the current evidence and named corrections. The [September Hiro/Misuzu import](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) preserves its documentary methods, and the [November Carbon reconciliation](GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) records what was actually heard or seen later.
 
+The [guarded sports-day and Hiroshima reviews](GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) track performed dialogue, staging and game music separately across ten exact windows. They file limited answers for China, Hiro, Rinami, Ume and Misuzu. The baseball cheer melody itself falls across a scene ellipsis.
+
 <!-- RINHA_AV_20260911 -->
 ## Kaya Rinha — distributed-character AV responsibility
 

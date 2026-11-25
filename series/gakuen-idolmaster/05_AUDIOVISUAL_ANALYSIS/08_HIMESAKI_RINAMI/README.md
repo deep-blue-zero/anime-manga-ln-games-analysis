@@ -17,6 +17,8 @@ last_updated: "2026-11-25"
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
+Rinami’s stage work and heard inward uncertainty coexist during the interruption. Backstage outward thanks and privately voiced recognition of the juniors’ help occupy different turns. The chronology keeps the omitted audience cheer, the closing announcement and the later backstage encounter distinct. [Event 15 finding 1](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#the-crowd-scene-reports-a-cheer-that-playback-elides) · [Event 15 finding 2](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#what-rinami-acknowledges-to-the-others-and-to-herself)
+
 Start with the [current audiovisual findings](GKM_RINAMI_CARBON_CHARACTER_RECONCILIATION_20261125.md). Read the four paired stage recoveries and the independently confirmed council intervention alongside this baseline. The historical file map retains its release scope. Use the textual core and AV addendum together for the character reading.
 
 | Purpose | Files |

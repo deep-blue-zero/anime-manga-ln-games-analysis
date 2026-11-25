@@ -845,3 +845,7 @@ Integration status where the core states it (delta sweep after verification): th
 ## Source-scoped support behavior and performance — 2026-11-25
 
 Like their earlier written support readings, these observations apply to the named social settings. Saki responds practically to a sprain and then takes Temari’s account of responsibility into a renewed challenge. Kotone explicitly limits what money she will accept while retaining polite address and comic deflection. Rinami changes a particular acted offer after direction. Tsubame receives a student response appreciating her participation and gives a hesitant thanks. Ume escalates a joke and later recognizes its excess. The source limits on internal motive, long-term change and unshown actions remain with the [individual dispositions](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Event 014 and 015 played state comparisons — 2026-11-25
+
+**STRENGTHEN.** These are event-track tests of Hiro’s choice despite discomfort, Misuzu’s purposeful effort, Ume’s tailored bluntness, China’s changes of audience, and Rinami’s private reappraisal. Their tempo, vocal shade, printed referents and sampled physical poses have distinct evidence. Do not synchronize with route states outside these events. [Sports day and Hiroshima adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md)

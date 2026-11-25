@@ -305,6 +305,8 @@ This is one of the strongest corrections to any “Hiro likes failure” model.
 
 ## 3.3 Ume's advice: shared defeat rather than rescue fantasy
 
+**Recorded evidence, 2026-11-25.** The recorded exchange separates Ume’s remembered speech from current Hiro and limits the tail to visible lexical words with the rest of the delivery outside attendance. [Sports day and Hiroshima adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it)
+
 Hiro tells Misuzu that she consulted Ume. Hiro reports Ume's view that limited ability narrows one's choices and can make pain and frustration unavoidable. Hiro then recalls asking what to do in that situation (`adv_event_014_main-03` L335–355).
 
 In the exchange Hiro remembers, Ume urges her to **suffer together and be frustrated together** (L362–372).
@@ -322,6 +324,8 @@ This is a strong example of Ume's relational intelligence being **recipient-spec
 
 ## 3.4 China performs morale as chosen professional labor
 
+**Recorded evidence, 2026-11-25.** China changes addressee and delivery inside the class appeal. Saki’s competitive recognition belongs after a gap and uses a different initiative. [Sports day and Hiroshima adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#china-shifts-from-addressing-a-teammate-to-calling-in-the-class)
+
 China is assigned endurance running and doubts her stamina. She tells Hiro that she has resolved to be a “fool” until the day's events are over. She thinks she would fail as an idol if she faced the contest without a smile. China then addresses the class, asking everyone to believe in victory and keep fighting until the result is decided (`adv_event_014_main-01` L180, `adv_event_014_main-04` L111–169).
 
 This is important for China's `ふにゃ／きり` governance. The bright public posture is neither spontaneous obliviousness nor pure falsification. It is a consciously chosen role performed for collective morale.
@@ -329,6 +333,8 @@ This is important for China's `ふにゃ／きり` governance. The bright public
 China reports losing her individual event. When Saki says her first place brought the classes level, China insists Class 1-2 has yet to lose. Saki praises China's fighting spirit and calls her the “boss” of Class 1-2 (`adv_event_014_main-04` L245–251, L288–322).
 
 ## 3.5 Misuzu: friendship can motivate effort without converting her into an effort absolutist
+
+**Recorded evidence, 2026-11-25.** The retained race segments separate a fearful pre-race conversation, staged exertion and three heard thoughts, the smile and its separate interpretation, and the final friendship exchange. The pre-race MVP explanation and several later responses fall in the gaps. [Sports day and Hiroshima adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#exertion-relief-and-friendship-across-four-windows)
 
 Misuzu does not suddenly discover that sports festivals are wonderful. She repeatedly says they are troublesome. She trains only “a little.” Even at the decisive relay-like paired event she does not rewrite herself as someone who should have gone all-out from the start.
 
@@ -441,6 +447,8 @@ At Hiroshima Castle, Rinami corrects Lilja's assumption about Ieyasu and suggest
 
 ## 4.4 China takes over the crisis that Rinami thought she had to solve
 
+**Recorded evidence, 2026-11-25.** The original Japanese recording carries the invitation and audience effects across a time cut, with the cheer itself elided. The companion score and the failed accompaniment have distinct roles. [Sports day and Hiroshima adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#the-crowd-scene-reports-a-cheer-that-playback-elides)
+
 Rinami privately registers that the next track has failed to start. She asks the audience to wait and privately reminds herself that, as the third-year, she has to keep the show going (`adv_event_015_main-04` L389–485).
 
 China announces that the trio learned a local song. Lilja recognizes what she means, and Rinami identifies the Hiroshima baseball cheer. China invites the audience to sing it with the trio a cappella (L495–596). A time transition takes the scene from the invitation to China's thanks. Lilja says the equipment seems fixed, and Rinami says she enjoyed singing together with the audience before introducing `キミとセミブルー` (L611–646). The story establishes participation through their words. The script skips the cheer itself.
@@ -458,6 +466,8 @@ After the live, Rinami says her mind went blank and thanks the two juniors aloud
 That is almost a textual gloss on **reversible hospitality**.
 
 ## 4.5 Seniority becomes a reversible relation
+
+**Recorded evidence, 2026-11-25.** Rinami’s response to the two others is first aloud. The recognition that they also led her comes in voiced inward thought. Their contribution and their continuing deference coexist. [Sports day and Hiroshima adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#what-rinami-acknowledges-to-the-others-and-to-herself)
 
 China praises Rinami's work as MC. She says the show counts as a success if the fans are smiling. Lilja says Rinami's apparent composure gave them room to act freely (`adv_event_015_main-05` L149–171). Their accounts can stand alongside Rinami's own experience of going blank. The tour puts capacities to work that the girls already brought to it. For example, Rinami had already credited China's student-council ideas when explaining the program (`adv_event_015_main-01` L73–90).
 

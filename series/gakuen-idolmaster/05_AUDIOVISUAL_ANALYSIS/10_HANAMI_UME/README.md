@@ -19,6 +19,8 @@ Current claim wording and item-level completion are recorded in the [Carbon play
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
+Ume’s direct remembered explanation of shared loss and person-specific candor has a performed witness of its own. Hiro’s present report and decision remain respective turns. The final current request extends past the attended clip. [Event 014 performed exchange](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it)
+
 Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.
 
 | Purpose | Files |

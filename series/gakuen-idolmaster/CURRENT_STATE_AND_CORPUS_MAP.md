@@ -39,6 +39,8 @@ The thirteen historical numbered monographs remain pending. The [Carbon propagat
 
 The [five support-card audiovisual adjudications](05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md) add original-edition evidence for Saki's return from injury care to rivalry, Kotone's financial refusal, Rinami's two acting takes, Tsubame's reception of recognition, and Ume's escalation and retrospective account of a joke. The source and evidence limits sit with each affected character. Seven individual character packages receive scoped updates. The receipt leaves the remaining material P0/P1 obligations and all thirteen numbered Gate E decisions separate.
 
+The [guarded sports-day and Hiroshima reviews](05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) track performed dialogue, staging and game music separately across ten exact windows. They file limited answers for China, Hiro, Rinami, Ume and Misuzu. The baseball cheer melody itself falls across a scene ellipsis.
+
 ## Phase 6 completion at Source Lock 1.2 — 2026-11-25
 
 [Five guarded reviews across four events](05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) add direct delivery evidence for Misuzu and Hiro, Mao and Sumika’s warning and repair, Lilja’s voluntary rematch with Saki, and the separate public and private turns in Temari’s fan encounter. Relevant living cores, character audiovisual homes and state ledgers record the scoped changes. Other event parts and individual numbered Gate E decisions retain their separate checks.
@@ -1028,6 +1030,8 @@ Rinha remains a distributed non-playable reconstruction and must not be promoted
 
 <!-- PHASE6_RELATIONSHIP_SYSTEMS_I_2026-08-24 -->
 ## Phase 6 checkpoint — Relationship Systems I complete
+
+The five Phase 6 checkpoints below record the state on 2026-08-24. See the [later Phase 6 closeout](#phase-6-completion-at-source-lock-12--2026-11-25) for the accepted Rinha dossier and the separately outstanding whole-container requirement.
 
 Canonical artifact: `GKM_RELATIONSHIP_SYSTEMS_I_HANAMI_REVERSI_AND_SYNGUP.md` — Drive `1x3R87wRvpZQWbmC_XsG52WTAa8vxu-OS`.
 

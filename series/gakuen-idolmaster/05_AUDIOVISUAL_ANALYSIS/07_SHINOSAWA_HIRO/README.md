@@ -17,6 +17,8 @@ last_updated: "2026-11-25"
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
+The sampled sports-day scenes support Hiro’s guarded decision to act, her audible pre-race dread, the contrast between discomfort and a smile, and two distinct voiced friendship statements. The words and responses in the interval gaps retain their separate written evidence. [Event 14 finding 1](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it) · [Event 14 finding 2](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#exertion-relief-and-friendship-across-four-windows)
+
 Start with the [current audiovisual findings](GKM_HIRO_CARBON_CHARACTER_RECONCILIATION_20261125.md). Read the paired dialogue and anonymous credits control alongside the September rebuild. The rebuild reports its own computations, visual observations and inspection limits. Use the textual core and AV addendum together for the character reading.
 
 | Purpose | Files |
