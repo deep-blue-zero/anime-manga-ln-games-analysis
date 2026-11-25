@@ -2,12 +2,12 @@
 title: "Gakuen Idolmaster V2 - Voice Performance State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.6"
-source_lock: "GAKUMAS V2 Source Lock 1.0"
+version: "2.7"
+source_lock: "GAKUMAS V2 Source Locks 1.0–1.2"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit correction to T-DIA-04 (GKM-SAA-006); perceptual review open"
-revised: "2026-11-15"
-revision_note: "v2.6 correction (source-to-analysis audit 2026-11-15; transition REVISE): T-DIA-04 Dear 035 now tests the requested honorific drop answered by the bare surname, with the given name initiated by the Producer in Dear 037 (GKM-SAA-006); no acoustic claim promoted"
+last_updated: "2026-11-25"
+revised: "2026-11-25"
+revision_note: "Recorded-scene adjudication at the revision-88 source boundary. The dated baselines and previous revisions follow."
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
@@ -16,6 +16,17 @@ status: "active; cumulative through complete Phase-3 character audiovisual integ
 > **Revision record — v2.6, 2026-11-15 (source-to-analysis audit corrections).** GKM-SAA-006, REVISE: the Temari T-DIA-04 Dear 035 row read "surname-to-given-name distance shift". A1 shows Temari asking only to drop `さん` (`adv_dear_ttmr_035.txt` L632–643), the Producer answering with the bare surname `月村` (single option, L647) and a plain imperative (L650), and the given name `手毬` arriving in Dear 037 on the Producer's initiative (`adv_dear_ttmr_037.txt` L417, single option L428). Her request remains her agency. Residual ambiguity: `呼び捨て` could in principle cover the given name, but A1 shows her naming only the honorific. The Dear 037 row gains the reception test. The earlier `last_updated` value read "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open".
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
+
+## Recorded speech and performance at Source Lock 1.2, 2026-11-25
+
+The following entries use reported listening on the named recordings and separately verified source clocks and frames. The earlier Phase 3 and September entries record what was available to those passes. The [receiver reconciliation](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) identifies the reviewed editions, speaker corrections and limits of reviewer independence.
+
+| Character and recording | What the scene contributes | Scope for later use |
+| --- | --- | --- |
+| Kaya Rinha, 11 P0 and seven P1 targets | Three consecutive support scenes share SRC-0083. Fifteen further scenes have paired reports on sixteen packet-verified audiovisual windows. In Temari Dear 016, SRC-0032 1847–2223 s, listeners hear distress while Rinha appears through still or replaced 2D portraits. In Saki Dear 026, SRC-0035 1967–2305 s, sustained disclosure reaches quiet encouragement. In Ume Dear 029, SRC-0011 299–588 s, she accepts the refusal and offers a technical suggestion before Ume initiates rehearsal. In Misuzu Dear 024, SRC-0014 941–1394 s, enthusiasm over merchandise and a statement of professional standards share one scene. | These different relationships support comparison of particular deliveries. The earlier zero listening count belongs to September. Five of six C073 controls fall within the eighteen targets. Two controls have paired historical whole-source coverage and four have paired native windows. The claim about a general register across original whole editions remains open. [All targets, source hashes, intervals and corrections](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md). |
+| Hiwatari Kanae, SRC-0023 | At 1543–1610 s listeners describe hesitation in a sung fragment during a stand-in sound check. At 4125–4132 s they identify あなた様と共に where the player-specific display reads プロデューサー様と共に. Her restraint in the former scene and her formal address in the latter serve different recipients. | The sequence at 3274.5–3280.5 s shows the sprint back to the assessment. Her urgency in the Japanese inner wording and the accent of each delivered line require separate evidence. Seven transition-script and sixteen wrapper-take matches establish source correspondences. Run B's lesson and second supply endings and native B/D outcome and HUD displays remain open. [RES-01 and remaining gameplay questions](GKM_CARBON_RESIDUAL_EVIDENCE_REGISTER.md). |
+| Shinosawa Hiro, SRC-0173 and SRC-0172 | Two independent listeners of the anonymous finished stereo at SRC-0173 2513.000–2525.800 s heard the engagement phrase in the credits. Hiro voices the claim around 2518.058 s. In the original dialogue she makes it at Dear 021 L134, the Producer denies it at L142 and she reformulates at L143. In SRC-0172 Dear 036 the display near 2984.5 and 2988.0 s reads ままらない while listeners report ままならない. Dear 037 near 3231.5 s supplies a separate full-form control. | Listeners can hear a comic engagement assertion over the credits music. The denial belongs to the script scene outside that excerpt. The closing vowel remains uncertain. The printed difference identifies an edition and supplies no recording date or client patch date. [Receiver PROP-0259 and PROP-0314](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md). |
+| Hanami Saki, Unit Story 01 chapter 04 parts 7 and 21 | Part 7 brings broken delivery after Ume leaves. In part 21 paired soundtrack reports describe exertion moving toward steadier address. In context, the acknowledgment at L362 concerns Ume's physical ability. The score enters at SRC-0009 1877.451 s as the scene turns to Ume. | The change in backing belongs to the later scene. Each episode supplies its own interlocutors and cause for the change in delivery. [Receiver RES-05](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md). |
 
 ## Schema
 
@@ -387,6 +398,8 @@ Longitudinal textual corroboration remains comparative rather than psychometric:
 
 <!-- RINHA_AV_20260911 -->
 ## Kaya Rinha performance-state controls — not yet heard
+
+The zero counters in this dated entry cover the September 2026 pass. The November [recorded speech comparison](#recorded-speech-and-performance-at-source-lock-12-2026-11-25) and [18-target addendum](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md) carry the subsequent evidence.
 
 The [18-target baseline](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md) has source-bound text, still observations and selected stereo-mix measurements. Direct listening and continuous-motion counters both remain 0 seconds. No acoustic emotion state or final speech-simulation register is promoted.
 

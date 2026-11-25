@@ -12,16 +12,18 @@ source_revision: 32
 governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
-version: '2.2'
+version: '2.3'
 created: '2026-08-24'
 revised: '2026-11-25'
-revision_note: '2026-11-25. Adds the Rinha witness to the boundaries of brokerage, rehearsal access and consent to coaching. Earlier revision: Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): one coordinated §9 edit modelling the Producer branch by branch (new §9.2.1, §9.2.2, §9.13), Sena–Tsubame bounds and stages (§5), U1 trio and Worst Three corrections (§3, §4), China–Kanae succession (new §8.7.2, SL1.2), and narrowed open questions; earlier formulations kept recoverable'
+revision_note: '2026-11-25. Adds the Rinha witness to the boundaries of brokerage, rehearsal access and consent to coaching. Corrects the scope of shared Producer states after the Kanae tranche. Earlier revision: Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): one coordinated §9 edit modelling the Producer branch by branch (new §9.2.1, §9.2.2, §9.13), Sena–Tsubame bounds and stages (§5), U1 trio and Worst Three corrections (§3, §4), China–Kanae succession (new §8.7.2, SL1.2), and narrowed open questions; earlier formulations kept recoverable'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM RELATIONSHIP SYSTEMS II - RIVALRY, FRIENDSHIP, CLASS, AND SUCCESSION
+
+> **Revision v2.3, 2026-11-25.** The source-specific protection against merging Producer routes still governs. Under Source Lock 1.2, Kanae’s Produce 001 school event establishes another explicit shared assignment, distinct from Re;IRIS in Unit Story. See §9.2.3.
 
 > **Revision v2.2, 2026-11-25.** Adds the Rinha witness to the boundaries of brokerage, rehearsal access and consent to coaching. Source Lock 1.0 governs the original analysis. The dated additions use separately admitted revision 86 witnesses where named and the [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) at the revision 88 boundary. Earlier statements deferring the branch record the state of work at their original dates.
 
@@ -1094,7 +1096,9 @@ The list above omits Mao, Lilja and Rinami, and models Saki, Temari and Ume from
 
 These rows refine, and do not replace, the bullets above. Saki's 'witness to collapse' gains a `U1` locus; Temari's 'containment-transfer point' gains its textual locus (`D-TEMARI` Dear 009); Ume's 'accelerator' becomes a two-way relation.
 
-### 9.2.2 U1 — the one track with a shared multi-idol Producer *(2026-11-15; GKM-SAA-111)*
+<a id="922-u1--the-one-track-with-a-shared-multi-idol-producer-2026-11-15-gkm-saa-111"></a>
+
+### 9.2.2 U1 — a shared three-idol assignment *(2026-11-15; GKM-SAA-111)*
 
 §1.2 says the Producer cannot be treated as one simultaneous multi-idol manager unless the source creates that shared state. `U1` creates it, so it tests §9.5 and §9.6 directly. All citations are `C1 @ U1`.
 
@@ -1104,6 +1108,12 @@ These rows refine, and do not replace, the bullets above. Saki's 'witness to col
 - **The Producer as a fourth member.** He frames the Re;IRIS–Begrazia contest as also a contest between producers over who raises the better idol, and Saki concludes it was four against three (`04_12` L464–L486).
 
 The shared-Producer state gives §9.5 its clearest concealment-based instance: strategy is withheld from the idols and disclosed after the fact. Counterevidence: each concealment is framed as benevolent and is disclosed (04_10–04_11), and the members ratify the strategy (03_08). OPEN: whether this counts as orchestration (§9.6) or as interpretive monopoly (§9.5).
+
+### 9.2.3 China and Kanae — a second explicit shared assignment *(2026-11-25, Source Lock 1.2)*
+
+Asari names the burden of simultaneously producing two idols and identifies Prima Stella Kuramoto China as one of them. The three answers in `adv_pevent_001_hkne_school_010.txt` L8–25 and L29–90 keep the assignment to China and Kanae fixed. Each gives a different reason for accepting the burden. The Producer describes excitement at two demanding prospects, commitment to a choice he made, or planning and expected mutual benefit. Asari privately doubts his timing in the last alternative. The assignment is invariant here. Their private reasons cannot be merged across answers.
+
+This is a different basis for simultaneous production from Re;IRIS joining its three apparent individual relationships into a unit. Kanae’s Dear 010 L199–234 separately gives a particular permission. Kanae requests help in supporting China so that she can do her own idol work, gives a specific fan-club case, and receives the Producer’s assent. Read the Dear negotiation and the Produce school event at their own state boundaries. Each licenses its particular shared arrangement. Neither draws the Producers assigned to other main routes into the same biography. [Source Lock 1.2 Kanae reading](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/14_HIWATARI_KANAE/GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md)
 
 ## 9.3 Producer value begins where self-management stops being enough
 
@@ -1168,7 +1178,7 @@ Examples differ by route:
 - Temari (`D-TEMARI`) may ratify decisions he has already taken: protest first, then trust (GKM-SAA-044).
 - Ume (`D-UME`) shows the converse risk, convergence: the Producer adopts her intuition and is taught by her to laugh at defeat (GKM-SAA-024).
 - Lilja (`D-LILJA`) and Rinami (`D-RINAMI`) show limits on monopoly: a deferral both keep, and fallibility disclosed to the idol (GKM-SAA-014; HSCA-038).
-- In `U1`, the one shared-Producer state, the risk takes the form of strategy withheld from all three idols and disclosed after the fact (GKM-SAA-111).
+- In `U1`, a shared-Producer state, the risk takes the form of strategy withheld from all three idols and disclosed after the fact (GKM-SAA-111).
 
 The common structural risk is:
 
@@ -1263,7 +1273,8 @@ This directly constrains romanticized readings of decisive producer action elsew
 - **PROMOTE:** mature production should enlarge, not replace, an idol's independent social graph.
 - **OPEN:** how each Phase-7 monograph should adjudicate romance/professional exclusivity in route-specific Producer relationships.
 - **STRENGTHEN (2026-11-15):** the Producer node is modelled branch by branch; Mao, Lilja and Rinami are added, and Saki, Temari and Ume are modelled from both sides (§9.2.1; GKM-SAA-001, 014, 024, 044, 045, 058, 114, 237; HSCA-038).
-- **STRENGTHEN (2026-11-15):** `U1` is the only track in which one Producer handles several idols at once; it supplies the clearest concealment-based instance of the §9.5 risk (§9.2.2; GKM-SAA-111).
+- **STRENGTHEN (2026-11-15):** `U1` establishes one Producer handling several idols at once and supplies the clearest concealment-based instance of the §9.5 risk (§9.2.2; GKM-SAA-111).
+- **REVISE (2026-11-25, SL1.2):** the earlier “only track” wording was too broad. Kanae’s Produce school event independently supplies the China–Kanae simultaneous assignment. Preserve the separate motivations possible among its three answer branches (§9.2.3).
 - **OPEN (2026-11-15):** whether U1's withheld strategy is orchestration or interpretive monopoly; the text frames it as benevolent and disclosed.
 - **PRESERVE + STRENGTHEN (2026-11-15):** route functions stay separate (§9.2), and a small layer of cross-route Producer invariants is recorded with its source families (§9.13; GKM-SAA-115).
 
