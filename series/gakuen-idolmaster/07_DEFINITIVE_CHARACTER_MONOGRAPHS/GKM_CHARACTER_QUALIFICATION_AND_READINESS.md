@@ -39,7 +39,7 @@ The numbered-event and support-card queue includes **219 priority requests** (11
 
 ## Supplementary individual decisions
 
-The architecture’s numbered list supplies thirteen historical assignments. Present governance also requires assessing differentiated people from all admitted source families. Of 36 supplementary persons assessed, seventeen are `QUALIFIED_PENDING`, eight are `COMPLETE_AT_BOUNDARY`, and eleven are `DEFERRED_EVIDENCE`. This is a dated assessment of the individuals examined. Newly differentiated persons remain eligible for reassessment. A role name is sufficient to identify a person where the sources consistently identify that person by role. The decision for each individual below concerns personal variation, the limits of its witnesses and the trigger for reconsideration.
+The architecture’s numbered list supplies thirteen historical assignments. Present governance also requires assessing differentiated people from all admitted source families. Of 36 supplementary persons assessed, sixteen are `QUALIFIED_PENDING`, nine are `COMPLETE_AT_BOUNDARY`, and eleven are `DEFERRED_EVIDENCE`. This is a dated assessment of the individuals examined. Newly differentiated persons remain eligible for reassessment. A role name is sufficient to identify a person where the sources consistently identify that person by role. The decision for each individual below concerns personal variation, the limits of its witnesses and the trigger for reconsideration.
 
 ### Qualified persons and person-level obligations
 
@@ -115,7 +115,7 @@ The architecture’s numbered list supplies thirteen historical assignments. Pre
 
 `adv_cidol-ssmk-3-018_03` L62-335, `adv_event_020_main-03` L194-211, `adv_cidol-ssmk-3-014_02` L141-154, `adv_csprt-3-0093_01` L164-169. [Existing reading](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_NPC_AND_SIDE_CHARACTER_LEDGER.md) L552.
 
-**Rinami’s younger sister Shiori / 汐莉.** `QUALIFIED_PENDING`. Shiori watches over Rinami’s health, proudly promotes her and also admits loneliness as her sister becomes everyone’s older sister. She can reject the visiting Producer’s assigned sibling role, test his understanding of Rinami, then invite him to stay because she wants news and knows her sister trusts him. Their game gives her an ordinary way to share affection. In another conversation she urges Rinami to rest and proposes ordering pizza so Rinami can stop working. These are distinct responses, sufficient for an individual bounded portrait.
+**Rinami’s younger sister Shiori / 汐莉.** `COMPLETE_AT_BOUNDARY`. Shiori actively promotes Rinami while admitting loneliness, gives practical care, rejects the proposed sibling role and later invites the Producer on her own terms. The independently reviewed portrait passes standalone and fidelity checks and individual Gate E at the declared textual boundary. Its six Dear scenes and separate support reference supply no independently heard Shiori delivery. [Current portrait](GKM_HIMESAKI_SHIORI.md) · [Evidence scope](GKM_HIMESAKI_SHIORI_SOURCE_AND_SCOPE.md)
 
 `adv_dear_hrnm_021` L186–245, `adv_dear_hrnm_024` L33–78 and `adv_dear_hrnm_025` L205–251, L369–414. Professional plans and much of Shiori’s life beyond the family remain open.
 

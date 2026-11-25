@@ -348,7 +348,7 @@ The double coding above stands, now with one actor who is both Sena's father and
 
 ## 2.5 Rinami's family: a good alternative life makes choice more meaningful
 
-Rinami's family is analytically unusual because it offers a plausible alternative good life rather than an obvious oppressive past.
+Rinami's family is analytically unusual because it offers a plausible alternative good life rather than an obvious oppressive past. The reviewed [Shiori portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HIMESAKI_SHIORI.md) follows the younger sister’s separate interests and decisions. She can object to a family role, protect a guest from a practical inconvenience and later welcome him in her own right. Her disclosure about Rinami’s public older-sister role does not erase her pride in her work.
 
 Her father once imagined her inheriting the family sake brewery. When Rinami expresses a major desire for idolhood, he supports it partly because large self-authored wishes are unusual for her. Later, during a family crisis, he asks the Producer whether becoming a top idol will actually make Rinami happy.
 
