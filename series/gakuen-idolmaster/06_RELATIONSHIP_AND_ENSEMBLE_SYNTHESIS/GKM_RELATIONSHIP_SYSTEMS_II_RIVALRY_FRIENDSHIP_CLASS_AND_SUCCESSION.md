@@ -12,16 +12,18 @@ source_revision: 32
 governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
-version: '2.1'
+version: '2.2'
 created: '2026-08-24'
-revised: '2026-11-15'
-revision_note: 'Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): one coordinated §9 edit modelling the Producer branch by branch (new §9.2.1, §9.2.2, §9.13), Sena–Tsubame bounds and stages (§5), U1 trio and Worst Three corrections (§3, §4), China–Kanae succession (new §8.7.2, SL1.2), and narrowed open questions; earlier formulations kept recoverable'
+revised: '2026-11-25'
+revision_note: '2026-11-25. Adds the Rinha witness to the boundaries of brokerage, rehearsal access and consent to coaching. Earlier revision: Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): one coordinated §9 edit modelling the Producer branch by branch (new §9.2.1, §9.2.2, §9.13), Sena–Tsubame bounds and stages (§5), U1 trio and Worst Three corrections (§3, §4), China–Kanae succession (new §8.7.2, SL1.2), and narrowed open questions; earlier formulations kept recoverable'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM RELATIONSHIP SYSTEMS II - RIVALRY, FRIENDSHIP, CLASS, AND SUCCESSION
+
+> **Revision v2.2, 2026-11-25.** Adds the Rinha witness to the boundaries of brokerage, rehearsal access and consent to coaching. Source Lock 1.0 governs the original analysis. The dated additions use separately admitted revision 86 witnesses where named and the [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) at the revision 88 boundary. Earlier statements deferring the branch record the state of work at their original dates.
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Applies the source-to-analysis audit's post-review change plan to this synthesis; each addition is dated and carries its audit ID (`GKM-SAA-nnn`, or `HSCA-nnn` for historical-audit items). §9 is edited once, so that the Producer node is modelled branch by branch: new §9.2.1 (Mao, Lilja, Rinami, Ume, Temari and the U1 witness function, track by track), new §9.2.2 (U1, the one shared-Producer state), additions to §9.5, §9.8, §9.9 and §9.11, and new §9.13 (Producer invariants). Also: §3.2, §3.3 and §3.9 (U1 trio; Kotone's profile); §4.1 and §4.11 (the Worst Three attribution REVISED; earlier wording quoted in place), §4.4, §4.5 and OPEN-RS2-05 (narrowed); §5.3, §5.4, §5.5, §5.9 and §5.11 (Sena–Tsubame stages, bounds and the wager); §7.4; §8.1, §8.6, new §8.7.2 (China–Kanae, SL1.2) and §8.8; §10.7; §13.7; §16.5; and the SL1.1 section (D-TSUBAME routing). Sources are Source Lock 1.0 unless marked SL1.1 or SL1.2; the front-matter `source_boundary` is unchanged. The principal thesis stands. This is the file's first `version` key.
 
@@ -904,6 +906,8 @@ A senior may have legitimate standing to stop someone when:
 
 This is not blanket authorization for paternalism. It is a bounded care function.
 
+**Ume chooses when Rinha may coach her (2026-11-25).** Seeing Saki burn so fiercely makes Rinha want to intervene. Ume refuses before Rinha asks about burning out, says her own performances will rekindle Saki, and tells Rinha to stay out. Later, when Rinha suggests a song, Ume asks her to join the rehearsal and welcomes strict criticism. Rinha can be refused as an intermediary and chosen as a teacher in the same conversation. Ume’s second answer grants permission for that particular correction. (`adv_dear_hume_029.txt` L357–399, L444–476, D-UME; SRC-0011, P1-004, 299–588 s.)
+
 ## 7.6 Mentorship becomes capture when succession or care erases first-person desire
 
 Sena's early successor model, Misuzu's old Temari body jurisdiction, and several Producer relations all demonstrate the same structural danger.
@@ -1398,6 +1402,8 @@ A broker may:
 - or connect a problem to the person with relevant expertise.
 
 Brokerage should therefore be modeled as competence, not secondhand intimacy.
+
+**Two different kinds of access (2026-11-25).** In Misuzu Dear 034, Rinha stops Temari and Misuzu for Shuka, then tells Shuka to speak for herself. Shuka asks them to beat Sena. In Tsubame’s separate Dear 033, Rinha asks what help Tsubame provided, and Tsubame explains that she handled the formalities for a Gokugetsu student to rehearse at Hatsuboshi. Shuka remains the author of her request. Tsubame can arrange cross-school access without that exchange establishing a close friendship with Rinha. (`adv_dear_hmsz_034.txt` L301–342, L382–395, D-MISUZU; `adv_dear_atbm_033.txt` L60–97, SL1.1 D-TSUBAME.) [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md)
 
 ## 10.8 Internalized others convert relationship into character change
 

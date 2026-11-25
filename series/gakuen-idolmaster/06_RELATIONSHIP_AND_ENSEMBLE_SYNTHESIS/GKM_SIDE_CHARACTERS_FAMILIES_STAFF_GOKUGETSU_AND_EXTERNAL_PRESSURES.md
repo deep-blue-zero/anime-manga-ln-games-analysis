@@ -13,15 +13,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-24'
-version: '2.1'
-revised: '2026-11-15'
-revision_note: 'Source-to-analysis audit 2026-11-15 targeted corrections (REVISE / STRENGTHEN / OPEN): merges the Juo father, 十王社長 and Ryuusei Juo into one entity, adds route-scoped family, staff, Gokugetsu/961 and secondary-figure evidence, and records China household gatekeeping as OPEN; all other content unchanged'
+version: '2.2'
+revised: '2026-11-25'
+revision_note: '2026-11-25. Routes Rinha’s independent purpose and her distinct roles as fan, mentor and participant to the distributed Phase 6 dossier. Earlier revision: Source-to-analysis audit 2026-11-15 targeted corrections (REVISE / STRENGTHEN / OPEN): merges the Juo father, 十王社長 and Ryuusei Juo into one entity, adds route-scoped family, staff, Gokugetsu/961 and secondary-figure evidence, and records China household gatekeeping as OPEN; all other content unchanged'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM SIDE CHARACTERS, FAMILIES, STAFF, GOKUGETSU, AND EXTERNAL PRESSURES
+
+> **Revision v2.2, 2026-11-25.** Routes Rinha’s independent purpose and her distinct roles as fan, mentor and participant to the distributed Phase 6 dossier. Source Lock 1.0 governs the original analysis. The dated additions use separately admitted revision 86 witnesses where named and the [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) at the revision 88 boundary. Earlier statements deferring the branch record the state of work at their original dates.
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** The file had no version key before this revision; its generation-V2 text is treated as v2.0. REVISE: Sena's father, 十王社長, President Juo and Ryuusei Juo / 十王龍正 are one person (§2.4, §5.1, §12, §13; GKM-SAA-033 with GKM-SAA-252); the Hanami parents are differentiated (§2.1, GKM-SAA-239); Lilja's mother kept opposing the plan (§2.6, GKM-SAA-124); the Juo evaluator's eye is reportedly shared rather than inherited (§2.4, GKM-SAA-250); the Gekka romanization gains its metadata basis (§4.2, GKM-SAA-261). STRENGTHEN: dated, track-labelled additions in §2.1–§2.10, §3.1, §4.1–§4.6, §5.1, §7.1–§7.5, §14.2 and §15 Q12 (GKM-SAA-001, 002, 009, 020, 022, 035, 047, 074, 086, 089, 090, 096, 126, 171, 192, 197, 218, 230, 236, 245, 287; HSCA-043, HSCA-145). OPEN: China's household gatekeeping of the Producer is recorded without a romance conclusion (§2.3, GKM-SAA-016). Each changed formulation names its v2.0 wording in place. The principal thesis and all other sections are unchanged.
 
@@ -974,6 +976,8 @@ The next operation must inventory every unique Rinha source, label viewpoint and
 
 ---
 
+**Rinha’s own uses for the stage (2026-11-25).** The distributed dossier supplies a direct comparison for this earlier structural account. In Misuzu Dear 024, after delighting in the merchandise she bought, Rinha speaks as a fan who will withhold the title of idol even from herself when resolve or heart is missing. Misuzu assigns that judgment to the fans and says she will wait for Rinha. In the third part of the festival support story, Rinha asks Ume to sing away a worry she has carried for a long time. Ume calls that an idol’s job. The sequence ends with Ume’s answer. Rinha can set a demanding standard for performers and place herself in the audience when she needs something a singer can give her. The content of the worry and the success of the requested performance remain open. (`adv_dear_hmsz_024.txt` L496–514, L522–586, L619–623; `adv_csprt-3-0097_03.txt` L124–154.) [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md)
+
 # 7. Secondary distributed figures: small line counts can still carry large counterfactual weight
 
 Not every important side character needs a long section. Several figures matter because they preserve an alternative life, technical standard, or history that the protagonist must answer.
@@ -1510,6 +1514,8 @@ How a character treats a vendor, journalist, child, stranger, worker, or ordinar
 21. Where do Temari, Misuzu, and Saki disagree about Rinha?
 22. What does Rinha do in contexts where none of those three is the primary relational center?
 23. Which direct scenes justify a dedicated AV baseline/request artifact?
+
+**Resolution at the November 2026 boundary.** The [Rinha crosswalk](GKM_KAYA_RINHA_SOURCE_CROSSWALK.md) and [claim matrix](GKM_KAYA_RINHA_EVIDENCE_MATRIX.md) distinguish named speech from memory, masked attribution and observer testimony. The [recorded-scene adjudication](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md) accounts for eleven priority and seven supplementary scenes. The [dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) answers the person-level questions at their respective route boundaries, while keeping undisclosed motives, a final post-unit goal and the outcome of the dissolution live open.
 
 ---
 
