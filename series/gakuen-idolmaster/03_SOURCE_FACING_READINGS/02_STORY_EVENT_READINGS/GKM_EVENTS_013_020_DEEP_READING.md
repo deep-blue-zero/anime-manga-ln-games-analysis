@@ -12,9 +12,9 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-23'
-version: "1.1"
-revised: "2026-11-15"
-revision_note: "Source-to-analysis audit 2026-11-15 corrections (GKM-SAA-030, 078, 104, 157, 269; HSCA-118) applied by targeted edit with A1 locators, using the STRENGTHEN and OPEN transitions and keeping earlier wording recoverable."
+version: "1.2"
+revised: "2026-11-25"
+revision_note: "Corrects Event 014 subject, audience, and sequence in the written source. The 2026-11-15 v1.1 source-to-analysis audit changes remain recorded below."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -23,6 +23,8 @@ do_not_use_as_current_authority: false
 # GKM EVENTS 013–020 DEEP READING
 
 > **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** First versioned revision; the text before this date counts as v1.0. Dated notes mark each change: §1.2 continuity notes on the escort-program order (GKM-SAA-269; STRENGTHEN for Events 015 and 018 running in parallel, OPEN for Event 019) and on the Mao–Sena order across Events 013, 017 and 022 (GKM-SAA-157, OPEN), cross-referenced in §6.5, §12, §13.1 and §17 Q8; §2.4, its relationship-promotion row and §12 bound Tsubame's reading of Sena (GKM-SAA-030, STRENGTHEN); §3.5 Misuzu's twice-stated nostalgia (HSCA-118, STRENGTHEN); §9.4 Sumika's first-person gyaru origin (GKM-SAA-078, HSCA-091, STRENGTHEN); §11 and §18 owner-policy note on core integration (GKM-SAA-104). Earlier formulations stay in place beside each note.
+
+> **Revision record — v1.2, 2026-11-25 (Event 014 written-source correction).** **REVISE** the object of Hiro's choice, the speaker of Ume's reported advice, and the audience of China's resolution. **REJECT** the direction and timing of the earlier MVP paraphrase. **REVISE** the account of the post-loss smile and the attribution of the closing words. **PRESERVE** the reciprocal-friendship finding and original replay priorities. The pinned Japanese files for parts 03–05 match byte for byte between Source Locks 1.0 and 1.2. The locators in §3 refer to those written files. Performance coverage follows the [current verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
 
 ## 0. Scope, method, and principal finding
 
@@ -287,7 +289,7 @@ Her solution is not self-punishment for its own sake. She separates what can and
 - rehearse the live;
 - search for strategic ways Class 1-2 can compete.
 
-The crucial admission comes to Misuzu. Hiro had always known that choosing an unusually weak body could someday impose costs on others. She thought she would simply accept that consequence when it came. Then she made friends.
+Hiro tells Misuzu that when she decided to enter Hatsuboshi, she knew her hobby might one day hold someone else back. She had planned to accept that possibility and give up when the time came. Making friends changed what she could bear (`adv_event_014_main-03` L300–331).
 
 > She can tolerate difficulty for herself. She cannot casually tolerate making friends lose because of her.
 
@@ -301,9 +303,9 @@ This is one of the strongest corrections to any “Hiro likes failure” model.
 
 ## 3.3 Ume's advice: shared defeat rather than rescue fantasy
 
-Hiro asks Ume what happens when one's ability is genuinely insufficient.
+Hiro tells Misuzu that she consulted Ume. Hiro reports Ume's view that limited ability narrows one's choices and can make pain and frustration unavoidable. Hiro then recalls asking what to do in that situation (`adv_event_014_main-03` L335–355).
 
-Ume gives a strikingly unsentimental answer: sometimes there are very few choices; sometimes the team will suffer and lose. In that situation, **suffer together and be frustrated together**.
+In the exchange Hiro remembers, Ume urges her to **suffer together and be frustrated together** (L362–372).
 
 She uses sport logic: a player who did not score still has the right to celebrate a win; a player who scored brilliantly still has the right to grieve a loss.
 
@@ -318,11 +320,11 @@ This is a strong example of Ume's relational intelligence being **recipient-spec
 
 ## 3.4 China performs morale as chosen professional labor
 
-China is assigned endurance running, a terrible fit. Her response on the day is not denial. She knows she is likely to struggle and says that until the result is decided she will become an “idiot” who believes in victory and smiles because they are idols.
+China is assigned endurance running and doubts her stamina. She tells Hiro that she has resolved to be a “fool” until the day's events are over. She thinks she would fail as an idol if she faced the contest without a smile. China then addresses the class, asking everyone to believe in victory and keep fighting until the result is decided (`adv_event_014_main-01` L180, `adv_event_014_main-04` L111–169).
 
 This is important for China's `ふにゃ／きり` governance. The bright public posture is neither spontaneous obliviousness nor pure falsification. It is a consciously chosen role performed for collective morale.
 
-Saki later calls China the “boss” of Class 1-2 with genuine competitive respect. The joke works because China has become a moral center despite low physical rank.
+China reports losing her individual event. When Saki says her first place brought the classes level, China insists Class 1-2 has yet to lose. Saki praises China's fighting spirit and calls her the “boss” of Class 1-2 (`adv_event_014_main-04` L245–251, L288–322).
 
 ## 3.5 Misuzu: friendship can motivate effort without converting her into an effort absolutist
 
@@ -334,7 +336,7 @@ When Hiro asks Misuzu to try, Misuzu accepts a bounded commitment. At the final 
 
 The point is not that Misuzu's “true self” is a hidden athlete waiting for friendship to unlock it. The event preserves her chosen economy of effort. What changes is **jurisdiction**: friendship gives this particular situation enough value that extraordinary exertion becomes worth choosing.
 
-After losing, Hiro explicitly refuses to complain that Misuzu should have worked harder earlier. Misuzu says getting Hiro motivated was already enough to make Hiro the class MVP. Hiro answers that a permanently full-power Misuzu would not even feel like Misuzu.
+Before the start, Misuzu calls Hiro Class 1-2's MVP because Hiro made Misuzu want to try (`adv_event_014_main-05` L116–158). After Class 1-1 wins, Misuzu asks whether Hiro will fault her for holding back at the start. Hiro declines, thanks her, and says she had fun (L591–651). After they discuss Hiro's smile, Hiro says a Misuzu who went all out from the start would seem unlike herself and would seem weak. Misuzu says she has been thinking something similar (L677–733).
 
 This is mature differentiation: capability does not create an obligation to live permanently at maximum output.
 
@@ -346,13 +348,13 @@ Before the final event Hiro says she has never been this afraid. The novelty sho
 
 Class 1-2 loses.
 
-The expected state exists: Hiro has failed in a public competition and still feels the uncomfortable consequences. But she is smiling. She cannot fully explain why. Misuzu gives the simplest relational answer: Hiro is smiling, so perhaps the loss can be borne.
+Hiro says the outcome she dreaded is right in front of her and the discomfort is still there. She wonders why she is smiling. Misuzu says she feels something similar. She expected to feel sorry about losing, but seeing Hiro smile makes her think she can let the loss go (`adv_event_014_main-05` L670–710).
 
 Hiro then tells Misuzu directly:
 
 > `あなたはわたしの……大切な友達。大好き。`
 
-Misuzu reciprocates.
+Misuzu answers `はい……わたしもです。` (“Yes … me too”), affirming what Hiro has said (L786–807).
 
 This is not merely friendship confirmation. It changes the structure of failure. Shared disappointment becomes emotionally different from isolated self-authored suffering.
 
@@ -362,13 +364,13 @@ This is not merely friendship confirmation. It changes the structure of failure.
 
 ### Relationship promotions
 
-- **Hiro ↔ Misuzu — PROMOTE:** direct mutual `大切な友達` / `大好き` confirmation; Misuzu's exceptional effort and Hiro's refusal to demand a different Misuzu make the relation strongly reciprocal.
+- **Hiro ↔ Misuzu — PROMOTE (preserved).** Hiro calls Misuzu a dear friend and says `大好き`. Misuzu answers `わたしもです`. Their exchange, Misuzu's choice to exert herself and Hiro's refusal to reproach her support reciprocal friendship (L427–515, L636–662, L786–807).
 - **Class 1-2 collective — STRENGTHEN:** the Worst Three/affiliative culture becomes a class-wide performance ethic capable of facing public loss together.
 - **Class 1-1 ↔ Class 1-2 — STRENGTHEN:** class rivalry is serious but bounded. Saki respects China; Temari recognizes Misuzu's threat; Lilja and Temari compete without dehumanization.
 
 ### Japanese-register evidence
 
-- Hiro's minimal, low-affect grammar makes `大切な友達。大好き。` unusually high-information because it is not surrounded by elaborate emotional language.
+- Hiro states `大切な友達。` and `大好き。` in two brief written turns. The words name the relationship and affection directly (L793, L797).
 - Misuzu retains polite `です／ます` even in intimate exchange; politeness is not evidence of emotional distance.
 - China's `ですわ` register carries both panic and morale leadership.
 - Ume's high-energy directness becomes unusually sober when giving Hiro sport-derived advice.
@@ -377,9 +379,9 @@ This is not merely friendship confirmation. It changes the structure of failure.
 
 **P0:** `adv_event_014_main-03` — Hiro's confession that friends make imposed failure intolerable; Ume's “suffer together” advice.
 
-**P0:** `adv_event_014_main-05` — Hiro's pre-race fear, Misuzu carrying Hiro, post-loss smile, and mutual `大好き`.
+**P0** — `adv_event_014_main-05` covers Hiro's pre-race fear, Misuzu carrying Hiro, Hiro's post-loss smile, and the exchange of Hiro's `大好き` with Misuzu's `わたしもです`.
 
-**P1:** `adv_event_014_main-04` — China's “be an idiot until the end” morale speech and Saki's “Class 1-2 boss” recognition.
+**P1** — `adv_event_014_main-04` covers China's personal resolution to Hiro, China's appeal to the class and Saki calling China the “boss” of Class 1-2.
 
 ---
 # 4. Event 015 — Hiroshima escort live: mentorship becomes reciprocal production
@@ -1274,7 +1276,7 @@ The following edges are strong enough to enter the cumulative relationship ledge
 | Sena ↔ Tsubame | E013 | rivalry includes mood recognition and refusal to let Sena substitute mentoring for self-development; *bounded (2026-11-15, GKM-SAA-030): Sena withholds her growth-limit belief from Tsubame (`adv_event_013_main-05` L305–L322, inner speech) and confided the Prima Stella pressure to Rinami (`adv_event_021_main-04` L47–L92); see §2.4* |
 | Sena ↔ Mao | E013/E017 | Mao's old failure to promise pursuit becomes present challenge and role-expansion advice; *order OPEN (2026-11-15, GKM-SAA-157): do not read the E013 vow → E017 advice as a progression; see the §1.2 continuity notes* |
 | senior quartet | E013/E017 | long-duration peer system with differentiated functions: regulation, challenge, performance interpretation, institutional leadership |
-| Hiro ↔ Misuzu | E014 | **PROMOTE:** mutual `大切な友達` / `大好き`; shared loss and chosen exceptional effort |
+| Hiro ↔ Misuzu | E014 | **PROMOTE** preserved. Hiro says `大切な友達` and `大好き`. Misuzu affirms with `わたしもです`. Shared loss and Misuzu's chosen effort give the friendship reciprocal expression. |
 | Rinami ↔ China | E015 | senior/junior relation becomes explicitly reversible during live crisis |
 | Rinami ↔ Lilja | E015 | Rinami supplies opportunity she once lacked; Lilja accepts without relying on Sumika |
 | China ↔ Lilja | E015 | direct peer collaboration in planning, travel, stage adaptation, and crisis performance |
@@ -1420,6 +1422,8 @@ Phase 6 should preserve her agency rather than using “Kotone's family” as a 
 # 16. Audiovisual verification queue additions
 
 These are original commissioning priorities and discriminators. See the [current Event 016 findings](#event-016-audiovisual-requests-and-results) for the later paired results.
+
+**Event 014 source clarification — 2026-11-25.** The original P0 shorthand “mutual `大好き`” refers to Hiro's `大好き` and Misuzu's reply `わたしもです` in part 05 L793–807. In part 04, the P1 distinguishes China's personal resolution to Hiro, her later appeal to the class and Saki's recognition (L130–169, L314–322). The original commissioning table follows.
 
 | priority | source | discrimination target |
 | --- | --- | --- |

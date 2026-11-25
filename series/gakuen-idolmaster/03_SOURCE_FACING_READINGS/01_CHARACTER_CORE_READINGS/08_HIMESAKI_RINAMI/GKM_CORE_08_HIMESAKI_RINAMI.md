@@ -25,6 +25,8 @@ revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (STRENGTHEN
 # GKM CORE 08 — HIMESAKI RINAMI / 姫崎莉波
 ## Phase 3 source-facing character deep reading
 
+> **Source-boundary exception — 2026-11-25 (Phase 7 four-event audiovisual integration).** The front matter's `source_boundary`, including its carried-forward statement that audiovisual evidence is not yet inspected, remains this reading's textual baseline. The dated 2026-11-25 addition in the subsection *Recorded Event 003 first beach-restaurant encounter — 2026-11-25* (`adv_event_003_main-02`) also draws on Japanese mixed audio and sampled stills. Heard and seen claims there are limited to the windows reviewed in the four-event perceptual adjudication (section [the warning at the beach restaurant](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-warning-at-the-beach-restaurant)) and establish no wider audiovisual review of Himesaki Rinami. Earlier dated recorded-evidence passages keep the scope of their own linked records.
+
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Implements GKM-SAA-003, 019, 020, 071–076, 104, 108, 128–130 and 222–227, together with HSCA-040 and HSCA-044, after re-reading the cited A1 lines. Transitions: STRENGTHEN (new dated subsections in §2, §3, §5, §6, §8, §9, §22, §23 and §24, and the integrated event and support evidence), REVISE (wording, inner-speech, branch and sequence corrections in §5, §6, §7, §8, §11, §12, §21 and §27 item 7; the earlier wording is quoted at each change), and OPEN (OQ-RINAMI-11 on the Producer's side; the RippleSign origin narrative under OQ-RINAMI-07). Any romance conclusion remains OPEN. The Producer's romantic reciprocity is recorded as implied, never as fact. A new pointer section before §29 indexes where each event and support item now sits. The 2026-11-12 Source Lock 1.1 supplement is unchanged except for one dated pointer. No audiovisual evidence was used.
 
 ## 0. Status, purpose, and evidence boundary
@@ -218,7 +220,7 @@ Even that should not be essentialized. Three years of fundamentals, targeted pro
 
 ### Support evidence: the acting improves when the template is removed (2026-11-15, GKM-SAA-108)
 
-STRENGTHEN (RINAMI-C05, C13). Support Series 1 stages the same paradox outside the Dear route (C4). A visual trainer finds Rinami's grateful-acting exercise stiff and names the problem as trying too hard to perform `妹っぽさ`. The trainer asks her to set aside her circumstances and imagine someone close to her, and the repeated lines then succeed (`adv_csprt-1-0004_01.txt` L51–L120). The most probable referent of those circumstances is her assigned Love☆しすたぁず persona, an inference recorded in the support reading. In the second part, Rinami's care for her actual younger sister, who has a fever, is affectionate but skeptical and directive (`adv_csprt-1-0004_02.txt` L19–L113). Two limits apply: relational imagination improves the performance, but the exercise does not show that the older-sister role is her essence, and the family scene is a single phone call.
+STRENGTHEN (RINAMI-C05, C13). Support Series 1 stages the same paradox outside the Dear route (C4). A visual trainer finds Rinami's grateful-acting exercise stiff and asks whether she is trying too hard to perform `妹っぽさ`. The trainer asks her to set aside her circumstances and imagine someone close to her. The second attempt repeats the same task with changes in wording and box structure. The trainer judges it better (`adv_csprt-1-0004_01.txt` L51–L120). The most probable referent of those circumstances is her assigned Love☆しすたぁず persona, an inference recorded in the support reading. In the second part, Rinami's care for her actual younger sister, who has a fever, is affectionate but skeptical and directive (`adv_csprt-1-0004_02.txt` L19–L113). The [2026-11-25 paired comparison](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md#the-handkerchief-rehearsal) hears a softer, smoother retry. Direction, wording, framing and score change together. The imagined person and the contribution of each change remain open. The family scene is a separate single phone call.
 
 ---
 
@@ -1158,7 +1160,7 @@ This index implements GKM-SAA-104 and GKM-SAA-108 for Rinami, together with her 
 | Event 022 | `adv_event_022_main-03.txt` L21–L32 | boundary: no command over Mao's shared ambition (GKM-SAA-271) | §5 | E021+ §2.1 | Phase 4 — Events 021+ |
 | Event 025 | `adv_event_025_main-01.txt` L77 | plain register toward Sena and Tsubame | §22 | E021+ | Phase 4 — Events 021+ |
 | Event 028 (SL1.1) | `adv_event_028_main-02.txt` L235–L250; `main-05` L17, L74 | former unit leader's support path; singing origin | §2, §3; SL1.1 supplement | E027/028/030 refresh | Source Lock 1.1 — 2026-11-12 |
-| Support 1-0004 | `adv_csprt-1-0004_01.txt` L51–L120; `_02` L19–L113 | acting improves without the little-sister template; firm care for her sister | §4 | S01 §6 | Phase 5 — Support Series 1 |
+| Support 1-0004 | `adv_csprt-1-0004_01.txt` L5–L120; `_02` L19–L113 | a trainer-directed retry earns approval after Rinami sets aside the little-sister template; separate firm care for her sister | §4 | S01 §6 | Phase 5 — Support Series 1 |
 | Support 2-0003 | `adv_csprt-2-0003_01.txt` L106; `_02` L64–L98 | historical drama; lesson routine carried into study | §5 | S02a §5 | Phase 5 — Series 2 Part 001–025 |
 | Support 2-0013 | `adv_csprt-2-0013_02.txt` L57–L89 | wants a long career growing with fans | §24 | S02a §15 | Phase 5 — Series 2 Part 001–025 |
 | Support 2-0020 | `adv_csprt-2-0020_01.txt` L128–L150 | turns Mao's protective logic back onto Mao | §23 | S02a §22 | Phase 5 — Series 2 Part 001–025 |
@@ -1284,3 +1286,7 @@ The revision makes this job an appearance on an interviewer's program. Rinami's 
 **Claim disposition.** `RINAMI-R86-C03` — NARROW the occupational attribution for this source. CONFIRM the existing `RINAMI-C28` basis.
 
 **Pointer (2026-11-15, GKM-SAA-224).** For Rinami's SL1.1 backstage epilogue (`adv_dear_hrnm_037-01.txt`), see the [Dear epilogues reading](../GKM_DEAR_EPILOGUES_AND_COMMON_ADV_REV86.md) and the endpoint addition in §24.
+
+### Recorded Event 003 first beach-restaurant encounter — 2026-11-25
+
+At the shop Rinami does more than register Mao’s discomfort. She calls Mao’s name during the warning and again when Mao begins an unfinished appeal. Calling attention to Sumika’s work, she proposes leaving. This practical exit precedes Rinami’s separate later discussion of the festival. [Scoped recording evidence](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-warning-at-the-beach-restaurant).

@@ -775,7 +775,7 @@ It is **competitive legibility**: people know what others are good at, know who 
 
 Class 1-2's strongest early symbol is the Worst Three.
 
-Rather than organizing low status as shame, the class develops a more affiliative culture in which unusual weaknesses can become shared identity. The sports-festival event makes this class-wide: Class 1-2 loses but metabolizes the loss collectively, and China can become a moral center despite weak physical rank.
+The class develops a culture in which unusual weaknesses can become part of a shared identity. The sports festival gives Class 1-2 a loss to work through together. China reports losing her individual event and still insists the class can win. Saki praises China's fighting spirit and calls her the boss of Class 1-2 (`adv_event_014_main-04.txt` L245–251, L288–322). In the [Event 014 account](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_013_020_DEEP_READING.md#34-china-performs-morale-as-chosen-professional-labor), helping the class persist and winning an individual event are distinct contributions.
 
 This does not make Class 1-2 less ambitious.
 
@@ -1879,3 +1879,7 @@ Phase 6 closed at Source Lock 1.2 on November 25. The dossier satisfies the Rinh
 **Senior peer facilitation.** In E028, Tsubame uses her access to open a stage opportunity for Rinami, affirms that the decision is Rinami's and later calls her a prospective rival. In D-TSUBAME 031 Rinami credits Tsubame’s festival backing. This is a separate retrospective witness. D-SENA 031 independently gives Rinami and Mao an explicit continuing challenge to Sena and Tsubame. These sources develop the distribution of agency within the cohort. See [E028](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md#e028--rinamis-career-choice-and-the-school-festival-as-a-bridge-to-professional-work).
 
 **D-TSUBAME routing (2026-11-15; GKM-SAA-262).** The Tsubame winter refresh's own routing is recorded here as pointers; the relation rows belong to the relationship-state ledger. In SL1.1 `D-TSUBAME`: Mao (Dear 031–032), who admits she looked away from Sena and Tsubame as 'special' and has now caught up, while Tsubame thanks her for three years of mutual growth and names her a rival (`adv_dear_atbm_031.txt` L189–L285); Kotone (Dear 033); Shion and 白草月花 (Dear 034); and the Producer (Dear 034–037). See `GKM_TSUBAME_WINTER_HIF_SOURCE_REFRESH.md` in the Tsubame core folder.
+
+## Offers, recognition and their recipients — 2026-11-25
+
+In `adv_csprt-2-0011_02`, Sena’s offer addresses an immediate material constraint, and Kotone switches from an evasive parting formula to direct insistence that she does not want debt. The performance supports both comic texture and a financial limit. Kotone’s interpretation supplies the debt concern. Sena’s actual terms stay unstated. In `adv_csprt-3-0071_03`, two students seek Sena’s attention, and a separate student recognizes Tsubame for the dance with Sena. Tsubame’s thanks gives the concern and counterevidence different registers. The contrast can inform the model of attention between rivals. It leaves relative recognition outside the arcade and the conditions behind the reported result unsettled. [Five support-card adjudications](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

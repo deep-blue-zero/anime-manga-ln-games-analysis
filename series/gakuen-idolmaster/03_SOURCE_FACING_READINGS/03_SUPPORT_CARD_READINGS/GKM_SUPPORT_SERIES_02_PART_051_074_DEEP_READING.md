@@ -54,7 +54,7 @@ The present tranche adds a fourth layer:
 
 The key development is not merely more care. It is **better reading**.
 
-- Ume correctly reads Temari's desire to approach a dog, then later recognizes exactly how far she can tease Temari about friendship before retreating.
+- Ume reads Temari's desire to approach a dog, later teases her about friendship, and calls the teasing excessive after Temari leaves.
 - Rinami reads Kotone's exhaustion as older-sister overload and temporarily offers her permission to stop performing that role.
 - Mao and Rinami can disagree about a dance, remember earlier disagreements, and treat friction as part of a durable relation rather than evidence that the relation has failed.
 - Tsubame recognizes that Hiro's request for greater severity is precisely when severity must be constrained by physical reality.
@@ -595,19 +595,17 @@ Temari wants to approach a friendly dog but hesitates. Ume reads the desire almo
 
 Temari's internal reaction is intensely soft. She is delighted by the animal and privately notices that the dog's openly happy expression resembles Ume's.
 
-Part 2 lets Ume convert the observation into teasing. She says both she and the dog want to play with Temari. After Temari thanks her, Ume parses Temari's earlier comment in the most embarrassing possible way: if the dog felt safe because it resembled Ume, then perhaps Temari thinks of Ume as a friend and wants physical closeness with her too.
+Ume says she and the dog want to play with Temari. Temari expressly says the dog's Ume-like manner helped her feel safe touching it. Ume starts a deduction, says Temari apparently thinks of her as a friend, then asks whether Temari wants to get close to her or touch her. This follows Temari's spoken explanation, which is separate from her earlier private thought about their expressions.
 
-Temari explodes.
-
-Ume immediately recognizes that she has teased enough and retreats with `からかいすぎちゃった`.
+Temari gives a voiced nonlexical reaction and then explicitly insists she wants to touch animals. After Temari leaves, Ume says `からかいすぎちゃった`. The scene shows retrospective recognition of excess. An initial plan to tease remains open.
 
 This is good counterevidence against an “energetic but socially blunt” caricature. Ume is not always subtle, but she can:
 
 1. read a hidden desire;
 2. lower the cost of acting on it;
 3. identify an embarrassment point;
-4. deliberately tease it;
-5. recognize when to stop.
+4. turn the spoken explanation into teasing;
+5. identify her own overreach afterward.
 
 ### Claim transitions
 
@@ -1115,8 +1113,8 @@ Ume's support-card model becomes more socially sophisticated:
 
 - she notices Temari's hidden desire;
 - provides recipient-specific access;
-- teases intentionally;
-- recognizes when the teasing is enough;
+- lets a spoken comparison develop into teasing;
+- names her own excess after Temari leaves;
 - teaches Sena an unfamiliar activity;
 - proposes new council culture rather than simply inheriting old routines.
 
@@ -1325,7 +1323,7 @@ She accepts Rinami's temporary dependency structure, Saki's sleep advice, and Ts
 
 ## 33.5 “Ume is socially oblivious” — DOWNGRADE
 
-She can recognize hidden desire, facilitate access, tease deliberately, and stop after recognizing overreach. Her most consistent problems are force and enthusiasm calibration.
+She can recognize hidden desire, facilitate access, and later recognize that she teased too much. In this case the recognition follows Temari's departure. Her ability to gauge the limit before overstepping remains open.
 
 ## 33.6 “Mao's actor self must be superseded by idol authenticity” — REJECT
 
@@ -1501,3 +1499,7 @@ Counterevidence to seek:
 - support-story branch material that should not be generalized across continuity.
 
 Do not close Phase 5 until all architecture-defined support bundles have been read and the cumulative ledger/locator/participant audit passes.
+
+## Later Source Lock 1.2 reading of Temari and Ume’s dog encounter — 2026-11-25
+
+The support `adv_csprt-2-0067_02` comparison confirms playful escalation and Ume’s own recognition of excessive teasing at the end. Bind her reaction to Temari’s spoken explanation in L150, keeping Temari’s earlier voiced private comparison separate. The cut skips the play. Dog sound and printed text supply different evidence from the static uploader image. Premeditation and Temari’s private acceptance of a relationship label remain open. [Five support-card adjudications](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

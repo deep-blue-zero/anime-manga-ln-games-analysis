@@ -52,8 +52,14 @@ Relevant Carbon propositions are `PROP-0227`, `PROP-0230`, `PROP-0260`.
 
 ## Completion boundary
 
-Individual Gate E remains open. The dog support scene, adv_csprt-2-0067_02, has an external source lead. Its source identity, cut and accepted independent hearing require their own record. The song commu answers the named dialogue question only. The Phase 3 report records the earlier delivery. The present successor changes the claims in the sections above and supplies no additional viewing or listening credit. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
+Individual Gate E remains open. The song commu answers the named dialogue question only. The Phase 3 report records its historical delivery. The later support receipt below answers the previously open dog scene within the reviewed part. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
 
 ## Recorded Event 016 parts 2 and 5 — 2026-11-25
 
-The [new targeted Event 016 receipt](../01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md) binds the spoken outing and the change in emotional register to the actual part 5 recording. It leaves the exact motive and the separate dog support P0 open.
+The [new targeted Event 016 receipt](../01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md) binds the spoken outing and the change in emotional register to the actual part 5 recording. It leaves the exact motive open. The separate dog scene has its own source scope below.
+
+## Ume turns Temari’s thanks into wordplay in support 2-0067 — 2026-11-25
+
+**REVISE** the claim about the start of Ume’s teasing in おひさま笑顔、満開ふたつ (2-0067 part 02). On x6mcJ4AOFDw, Temari’s earlier resemblance thought is voiced for the audience (L73–74). Ume has Temari’s later spoken explanation at about 174–179 s (L150–151). Ume uses it to propose that Temari thinks of her as a friend and asks whether that implies wanting to get close or touch her (L157–170). The curious sound around 179–180 s is followed by a more playful delivery at about 189–194 s. The earlier reference to becoming friends at L138 concerns the dog.
+
+Ume explicitly calls it excessive teasing at about 207–212 s (L203–204). **STRENGTHEN** the escalation and her retrospective recognition. The precise beginning of the joke and Temari’s feelings about the friendship premise are **OPEN**. The dog is heard off screen. The transition skips the girls’ play, and the static border does not establish rendered contact. The receipt answers this item at its own scene scope. Individual Gate E remains open. [Recorded support adjudication](../GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

@@ -127,7 +127,7 @@ The exact byte sizes, hashes, codecs, resolutions, and durations are preserved i
 | Hinamatsuri / `雪解けに` commu | `adv_cidol-amao-3-009_01..03` | `有村麻央 雪解けに 楽曲コミュ` | **STAGED/INSPECTED** — 1080p30 |
 | `ミラクルナナウ(ﾟ∀ﾟ)！` Mao commu / Osaka homecoming | `adv_cidol-amao-3-013_01..03` | exact uploader-facing title: `【楽曲コミュ】ミラクルナナウ(ﾟ∀ﾟ)！【有村麻央】【学マス】`; fallback `有村麻央 ミラクルナナウ 大阪編` | **STAGED/VERIFIED** — 1080p60, AAC-LC ~128 kbps, ~8:44; Osaka/child-actor/parents sequence confirmed |
 | `見て` / Ryuugetsu Maki commu | `adv_cidol-amao-3-015_01..03` | `有村麻央 見て 楽曲コミュ` | **STAGED/INSPECTED** — 1080p60 |
-| `SUGAR FLAVOR` commu | `adv_cidol-amao-3-017_01..03` | `有村麻央 姫崎莉波 SUGAR FLAVOR 楽曲コミュ` | **STAGED/INSPECTED** — 1080p60. *(2026-11-15, GKM-SAA-076)* Mao-side version; Rinami's `adv_cidol-hrnm-3-018_01..03` (CIDOL 018 in the Rinami rows) is a separate, non-additive C4 version of the unit's origin with the opposite initiator |
+| `SUGAR FLAVOR` commu | `adv_cidol-amao-3-017_01..03` | `有村麻央 姫崎莉波 SUGAR FLAVOR 楽曲コミュ` | **STAGED/INSPECTED** — 1080p60. *(2026-11-15, GKM-SAA-076)* Mao’s CIDOL 017 and Rinami’s `adv_cidol-hrnm-3-018_01..03` are separate C4 accounts. Both recall an earlier invitation from Rinami that Mao declined. Mao makes the successful proposal in 017 and Rinami makes it in 018. [Story and recording comparison](../05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/GKM_RINAMI_CARBON_CHARACTER_RECONCILIATION_20261125.md#ripplesign-and-the-two-accounts-of-rehearsal) |
 | Mao `ガラクタロード` | P3 prescribed-song context | `有村麻央 ガラクタロード H.I.F` | **STAGED** — 1080p60 rendered performance |
 
 **2026-08-17 Mao acquisition delta:** the expanded communication boundary is now **complete**: all eight Mao `cidol` sequences and the full Dear spine including 親愛度10.5 are staged. Song communications remain in the Dialogue/Commu source branch; authored MVs, rendered 3DMVs, and full-song objects remain in the separate Music/MV branch.
@@ -215,6 +215,8 @@ See canonical request packet: `GKM_RINAMI_AUDIOVISUAL_BASELINE_AND_REQUESTS.md`.
 Backfill note — 2026-08-17: the logical Dear 028–037 source remains Drive `1GDVAt5evYW4KoNAxLcZW5r3-u8qkW1Vn` (549,927,147-byte provenance object). Direct inspection used the equivalent 720p30/AAC-LC chat-upload materialization (195,093,333 bytes; SHA-256 `d95d80b4df9e104b4ed8a9c6f1c3c612f5907260f2e7b426eecafb537601a591`). This closes the former late acted-source gap without increasing the logical source count.
 
 Canonical AV authority: `GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md`. The old request packet is superseded provenance.
+
+**Dear 011–020 recording locator, 2026-11-25.** 学マスコミュ保管委員会 published the Sumika compilation used for both editions. The Phase 3 manifest registers `SRC-0332` as a 720p30 file (288,540,028 bytes, SHA-256 `2cb5662547df16aa4fb02b89367c81ee21836dbfb0858fb767a9773f9fe9096f`). The paired local review used `LP-MEDIA-036`, the complete 360p30 rendition with Japanese audio (YouTube formats `134+139`, SHA-256 `f54f76b5129f9abb9f55ac34c755fbc6d043ae806ad94bce468b20b8370558ed`). Its cues use that rendition’s clock. PEND-016 still requires the historical file and a match to its registered checksum. [Public upload](https://www.youtube.com/watch?v=RDhJDf7sO9o) · [Phase 3 source manifest](../05_AUDIOVISUAL_ANALYSIS/09_SHIUN_SUMIKA/GKM_PHASE3_SUMIKA_AUDIOVISUAL_SOURCE_MANIFEST.json) · [Recording identities](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_RECORDING_IDENTITY_CROSSWALK.tsv) · [Historical-edition requirement](GKM_CARBON_RESIDUAL_EVIDENCE_REGISTER.md#historical-edition-and-acquisition)
 
 ## Phase 3 Kotone source crosswalk — 2026-08-15
 
@@ -484,3 +486,27 @@ The Japanese support scripts join to four exact recorded editions. Original scop
 ## Narrow delivery reviews — 2026-11-25
 
 The registered support ranges of SRC-0088 at 127–222 s and 234–322.65 s join `adv_csprt-3-0082_02` and `adv_csprt-3-0082_03`. SRC-0039 at 1174–1225 s joins `adv_event_001_main-05`. The [paired adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md) identifies the measured child-to-parent offsets, written cue roles and observed delivery limits.
+
+## Exact playback editions for five support cards — 2026-11-25
+
+These newly reviewed editions witness already admitted Source Lock 1.2 support scripts. Original time is in seconds on the complete titled parent recording. Review occurred within the registered portions, through packet-matched derivatives. The [adjudications](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md) record full parent digests, exact source-to-child clocks, capabilities and unresolved scope.
+
+| Locked script | Retained recording edition | Inspected original interval |
+| --- | --- | --- |
+| `adv_csprt-2-0018_02` | [6olQr2D94ZA](https://www.youtube.com/watch?v=6olQr2D94ZA), stream selection 137+251 | 80–174.5 s |
+| `adv_csprt-2-0011_02` | [fMBRGgIgj1c](https://www.youtube.com/watch?v=fMBRGgIgj1c), stream selection 137+251-1 | 68–136.95 s |
+| `adv_csprt-1-0004_01` | [8FpuXBIAx_4](https://www.youtube.com/watch?v=8FpuXBIAx_4), Japanese native episode | 0.15–89 s |
+| `adv_csprt-3-0071_03` | [r41O7nY6FvI](https://www.youtube.com/watch?v=r41O7nY6FvI), Japanese native episode | 172–270.5 s |
+| `adv_csprt-2-0067_02` | [x6mcJ4AOFDw](https://www.youtube.com/watch?v=x6mcJ4AOFDw), stream selection 299+140 | 113–211.95 s |
+
+## Exact playback editions for four events — 2026-11-25
+
+[Five guarded reviews across four events](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) join existing A1 event scripts to Japanese-audio rendered editions. Two windows share the same E003 parent. The media files and playback receipts stay in local custody. Parent hashes, child hashes, offsets and scene limits appear in the linked adjudication.
+
+| Locked script | Original edition | Attended original interval |
+| --- | --- | --- |
+| `adv_event_002_main-05` | [usIfiHFGTcE](https://www.youtube.com/watch?v=usIfiHFGTcE), 243+251 | 985–1046 s |
+| `adv_event_003_main-02` | [zEWk-pQjFOQ](https://www.youtube.com/watch?v=zEWk-pQjFOQ), 243+251 | 585.4–669 s |
+| `adv_event_003_main-03` | same E003 edition | 920.5–1034 s |
+| `adv_event_004_main-04` | [eOXV4EBQ5Cs](https://www.youtube.com/watch?v=eOXV4EBQ5Cs), 137+251-1 | 733.5–931 s |
+| `adv_event_008_main-02` | [Wv7SjawFhvc](https://www.youtube.com/watch?v=Wv7SjawFhvc), 399+251-1 | 246.2–404.6 s |

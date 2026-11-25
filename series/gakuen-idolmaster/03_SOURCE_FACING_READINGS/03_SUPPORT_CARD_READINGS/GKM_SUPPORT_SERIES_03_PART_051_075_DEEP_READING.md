@@ -519,12 +519,12 @@ The quartet's karaoke trip reveals several mundane preference layers. Rinami reg
 
 Rinami's anime song creates a family-history anchor. Her parents were often away for work, so she and her younger sister watched anime together in the evenings. They even submitted illustrations to reader sections (this detail comes from `adv_csprt-3-0074_01` L133, not from `story_0071`, whose anime line is `adv_csprt-3-0071_02` L33; locator tagged 2026-11-15, HSCA-123; see §25). Mao has heard the song enough during repeated karaoke outings with Rinami to know it herself. This gives mature peer friendship a texture of repeated hobby exposure rather than only high-stakes mutual support.
 
-The arcade scene addresses public hierarchy. Tsubame beats Sena at a dance game but suspects Sena was not fully serious. Then strangers immediately recognize Sena and ask for an autograph, reinforcing the visibility gap between No.1 and No.2. Tsubame uses the familiar “second-highest mountain” analogy to describe the asymmetry. A different student then recognizes **Tsubame** specifically and praises the dance she just performed. Mao's response is the correct reconstruction cue: people are watching Tsubame too.
+The arcade scene tests Tsubame's sense of public hierarchy. Tsubame says she won the dance game and suspects Sena held back. The recording omits the live match and score. In the first encounter, one student identifies Sena and another asks her for an autograph. Tsubame uses the second-highest mountain analogy to express her sense of the difference. A third student recognizes Tsubame and praises her dance with Sena. The student turns appear as unvoiced captions in this edition. Tsubame's hesitant thanks and Mao's final response support recognition in this encounter.
 
 ### Claim transitions
 
 - **Sena — STRENGTHEN:** current idol fandom remains active; professional status does not displace fan pleasure.
-- **Tsubame — PROMOTE/STRENGTHEN:** No.2 insecurity includes public-recognition asymmetry, not only competitive score difference. Recognition from an individual observer matters.
+- **Tsubame — STRENGTHEN:** her second-place concern includes whether people see her contribution. A student's particular recognition matters to her; broader relative visibility remains open.
 - **Rinami — STRENGTHEN:** anime/fanart history is a real childhood hobby layer connected to younger-sister companionship.
 - **Third-year quartet — STRENGTHEN:** repeated private leisure has enough history that tastes and songs migrate between members.
 
@@ -1072,3 +1072,7 @@ For Phase 7 character modeling, the tranche also substantially improves **domain
 For Phase 8, the institutional implications are increasingly strong: student council, dorm life, family networks, local commerce, ordinary-course clubs, employment, and peer mentorship all function as connected support infrastructure. Hatsuboshi's social system works not because every relationship is harmonious, but because multiple routes remain available when one route is blocked.
 
 The next architecture-defined support boundary is `support_series_3_part_076-102.dialogue.txt` → `GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READING.md`.
+
+## Later Source Lock 1.2 reading of the arcade recognition — 2026-11-25
+
+In `adv_csprt-3-0071_03`, Tsubame reports winning and asks whether Sena held back. The native extent leaves the game and score display outside the shown evidence. After separate students identify Sena and request her autograph, another student recognizes Tsubame and praises their dance. The student recognitions are printed. Tsubame’s own thanks is audible. The result qualifies a categorical reading of invisibility while leaving general public recognition and Sena’s intent open. [Five support-card adjudications](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

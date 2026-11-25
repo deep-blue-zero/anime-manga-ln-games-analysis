@@ -249,6 +249,8 @@ This yields a side-character/family principle with broad applicability:
 
 Later, debt repayment does not erase Kotone's family identity. Her siblings become fans, artists, conversational partners, school visitors, and possible sources of comparison anxiety. They are not simply dependents waiting for her earnings.
 
+The [portrait of Kotone’s eldest younger sister](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KOTONE_ELDEST_YOUNGER_SISTER.md) follows the child Kotone identifies in Event 016. Her reported responsibility for the smaller children helps explain the outing. Her decisions to take instruction, propose a plan and ask about Kotone’s school life show how she takes part in it. The [evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KOTONE_ELDEST_YOUNGER_SISTER_SOURCE_AND_SCOPE.md) identifies which other appearances still lack a birth-order match.
+
 The mature Fujita family model is therefore **redistribution of care**, not escape from family.
 
 ## 2.3 The Kuramoto household: loving capital needs constitutional restraint
@@ -272,6 +274,8 @@ That same love can produce:
 - and a standing possibility that a school problem can become a corporate-power problem.
 
 The route's mature answer is not rejection of family support. China increasingly builds **internal constitutional restraints** around inherited power.
+
+The [portrait of China’s grandfather](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KURAMOTO_GRANDFATHER.md) distinguishes China’s account of the childhood appeal from his own three turns in the Kanae transfer conversation. The independent exam condition comes from the Producer. The grandfather agrees and asks what happens if the plan fails. The two song communications in which his request prompts different responses further bound what his authority means for any particular audition. The [reviewed evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KURAMOTO_GRANDFATHER_SOURCE_AND_SCOPE.md#speech-and-evidence-limits) records the written boundary.
 
 ### Kanae as a person, not a household function
 
@@ -352,6 +356,8 @@ Rinami's family is analytically unusual because it offers a plausible alternativ
 
 Rinami reports that her father hoped she would take over work at the family brewery. In the separate Event 028 family scene he asks whether she has considered her choice and tells her she can return home if things become difficult. He later asks the Producer whether becoming a top idol will make Rinami happy. The [reviewed individual portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HIMESAKI_FATHER.md) distinguishes these scenes, Rinami’s report of his change of mind and Shiori’s account of his everyday fandom.
 
+Rinami’s mother first tries to put off giving her difficult news before a performance. When Rinami presses, her mother tells her what the doctor said and that she is at the hospital with Rinami’s father. At a later family call, she says she does not know much about idols and tells Rinami she is rooting for her. The [portrait of Rinami’s mother](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HIMESAKI_MOTHER.md) follows how she makes these decisions and distinguishes her words from what Shiori and Rinami remember.
+
 This matters because Rinami's route cannot define agency as escape from a bad home.
 
 > **Choice is strongest when the alternative was livable.**
@@ -417,6 +423,8 @@ This archive can threaten her when public rediscovery turns old ability into exp
 The family function is thus not simply pressure or support. It is **provenance**.
 
 **Family strain and authorship conflict (GKM-SAA-022) — 2026-11-15.** The judgment above that the family evidence is "less individually interior" is too strong for the current record. Under SL1.0, ballet began at the parents' instruction (`adv_dear_ssmk_010` L169); Sumika falls silent when asked whether home was cramped (`adv_cidol-ssmk-3-014_02` L141–L154); she describes her gyaru style as rebellion against her mother (`adv_event_020_main-03` L194–L211); she finds it hard to tell her parents that she wants idolhood (`adv_dear_ssmk_032` L414); and her mother warns that Sumika skips practice, which Sumika rebuffs (`adv_csprt-3-0093_01` L164–L169). SL1.1 M-SUMIKA 018_03 (`adv_cidol-ssmk-3-018_03` L62–L335), in the state where Sumika wins, confirms conflict since she quit ballet, the mother's opposition, the father's support as the mother reports it, and a repair. Linking that repair to her Dear 032 confession is a cross-track identification. The family function is therefore provenance together with a conflict over who authors her assigned future.
+
+**Sumika’s mother as an interlocutor (REVISE) — 2026-11-25.** Dear 010 L169 records Sumika saying that 親 told her to start ballet. The line leaves open which parent spoke or whether both did. At the entrance examination the mother addresses Lilja directly with a warning about Sumika (`adv_csprt-3-0093_01` L136–169). In the separate Sumika-winning communication she acknowledges her opposition and later asks Sumika whether she may support her. Her account of the father’s support is reported speech. The [reviewed portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIUN_SUMIKA_MOTHER.md) distinguishes the mother’s decisions, Sumika’s interpretation and the outcomes still open after the call.
 
 ## 2.10 Misuzu's family: relation can be inherited before it is chosen
 
@@ -559,6 +567,8 @@ The visual trainer's domain extends beyond cosmetics. She links:
 - and the body's ability to present itself under venue pressure.
 
 She can also recognize unexpected aptitude, such as Saki's trainer-like ability, without treating that aptitude as incompatible with idolhood.
+
+Her responses to a student’s hesitation vary with the task. She cushions her critique and offers a new way to approach the handkerchief scene with Rinami, while in Mao’s posing lesson she persists when Mao worries about showing an unfinished side of her image. Off duty she admits to colleagues that Saki’s unfamiliarity with her slang discouraged her. The [individual portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_VISUAL_TRAINER.md) follows these differences and the [reviewed evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_VISUAL_TRAINER_SOURCE_AND_SCOPE.md#recording-limits) identifies the sealed handkerchief performance and the other written contrasts.
 
 ## 3.3 Staff self-audit: successful students can make old pedagogy obsolete
 
@@ -748,6 +758,8 @@ This is a valuable Phase-6 correction:
 
 A broker must have an accurate model of the blocked edge and permission to intervene.
 
+The [Aoi Nadeshiko portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_AOI_NADESHIKO.md) follows those two patterns alongside her hospitality to a visitor and her private reactions when rivals offer care. In China’s Dear route she says herself that she uses Aoi resources to discourage rivals’ fans. In Kanae’s Dear route she invokes loyalty to an unnamed elder while China welcomes the attention paid to Kanae. The Shirakusa support leaves her interpretation of Shion’s discomfort and Shion’s actual refusal distinct. The [reviewed evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_AOI_NADESHIKO_SOURCE_AND_SCOPE.md#hospitality-and-performed-voice) binds the voiced corridor and Sumika exchanges to separate recording editions.
+
 ## 4.5 Kuroi: institutional rivalry includes acquisition, not just comparison
 
 Kuroi's late support appearance makes the external-school relation more concrete.
@@ -768,11 +780,13 @@ SL1.0 Dear sources give the rival institution an identity that v2.0 built only f
 - **The school.** 極月学園 is a small elite school funded by 961 Pro in Sena's words (C1 @ D-TSUBAME, `adv_dear_atbm_012` L125) and founded by 961 Pro in Mao's words (C1 @ D-MAO, `adv_dear_amao_013` L180). The difference between 出資 (funding) and 設立 (founding) is kept as stated.
 - **Kuroi's office.** Kuroi is its 理事長 (board chairman). Shion addresses him so in the Dear 010-01 cutaway that recurs across routes (for example `adv_dear_kcna_010-01` L98–L112; `adv_dear_hume_010-01` L113–L127; `adv_dear_ttmr_010-01` L146–L160), and the Producer calls him 黒井理事長 (`adv_dear_jsna_011` L28).
 - **Direct recruitment.** In D-UME, Kuroi tells the Producer to bring Ume to 961 Pro; the Producer refuses before a three-way choice of reasons, so the refusal is invariant (`adv_dear_hume_016` L28–L35). In Dear 035 the Producer confirms repeated poaching offers for Ume, from 961 Pro and many other agencies; Ume names 100 Pro as her first choice while admitting that competing against Hatsuboshi from 961 had tempted her (`adv_dear_hume_035` L148–L263). 961 is therefore a live alternative that Ume weighs.
-- **Branch statements.** In one branch of the refusal the Producer says 961 Pro does not employ producers (L38); in another Kuroi complains about Hatsuboshi's "false lessons" on him and sends a message to 「あの老いぼれと冷血漢」 (L45–L49). Both are C3 choice-branch content and the speakers' own assertions. The text does not name the old man or the cold-blooded man, and this synthesis does not resolve them from other scenes. In D-CHINA, Hatsuboshi does teach a course on 961-style production: China reads its syllabus title (`adv_dear_kcna_010-01` L83).
+- **Branch statements.** In one branch of the refusal the Producer asks whether 961 Pro employs people under the title of Producer (L38); in another Kuroi complains about Hatsuboshi's "false lessons" on him and sends a message to 「あの老いぼれと冷血漢」 (L45–L49). The role question, compliance protest and separate compensation exchange (L52–L56) are each C3 choice content. The text does not name the old man or the cold-blooded man, and this synthesis does not resolve them from other scenes. In D-CHINA, Hatsuboshi does teach a course on 961-style production: China reads its syllabus title (`adv_dear_kcna_010-01` L83).
 - **N.I.A.** In D-MAO, Gekka says that the organiser, 961 Pro, approves her irregular challenge (`adv_dear_amao_018` L250), and the Producer speaks of N.I.A.'s organiser (L284). Route-scoped, 961 is an organiser of N.I.A.; compare the headmaster's account of its planning in §2.4 and in the spine reading §4.2.
 - **SyngUp.** In D-TEMARI, Misuzu reports that Rinha has left Hatsuboshi for 961 Pro (`adv_dear_ttmr_010-01` L122–L132), and the Producer reads 961's intent as fielding her in N.I.A. (`adv_dear_ttmr_011` L114–L118). Thanked by the Producer, Kuroi answers that SyngUp! will now come to him whole (`adv_dear_ttmr_026` L224–L225). Rinha's own "end-of-career" account is adjudicated in the Rinha evidence matrix (RINHA-C023, RINHA-C024).
 
 Kuroi is therefore a person with institutional authority, chairman of a 961-backed school linked to 961 Pro's recruitment and to N.I.A., and not only a support-story scout.
+
+The [Kuroi portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KUROI.md) follows his recruiting offers, work with scouts and scrutiny of Gekka’s unanswered messages. The Producer identifies him as Gokugetsu’s chairman and 961 Pro’s president in Saki Dear 013 L169. In Temari Dear 025 the Producer describes a conditional transfer of Temari and Misuzu if Temari loses her contest; Temari reports winning in Dear 026 L289. The [reviewed source scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KUROI_SOURCE_AND_SCOPE.md#k6-sound-credits-and-gate-e) confirms the played compliance reply in a separately published Ume Dear 016 recording. The other two choices remain written evidence.
 
 ## 4.6 Gokugetsu as a counterinstitution
 
@@ -906,6 +920,8 @@ Second, Tsubame explicitly preserves her refusal right. Broadcasting meaning bec
 
 Yu therefore models a useful form of **institutional permeability without identity capture**.
 
+**Yu’s choice of work (2026-11-25).** Before the formal interview, Tsubame asks if Sena has put Yu up to the assignment. Yu says she was asked and is glad to help (`adv_csprt-3-0104_02` L10–34). Afterward Tsubame explicitly says she can decline further work. Yu explains that bringing idols’ appeal to an audience is rewarding and credits Sena with helping her discover that. Only when Sena proposes additional jobs does Yu ask her to go easy. Tsubame adds her encouragement afterward (`adv_csprt-3-0104_03` L56–85,101–128). The [reviewed portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_MASHIRO_YU.md) relates that exchange to the way Yu asks about injuries, hesitates to interrupt a meal and approaches Saki and China when she hears her name. The [evidence appendix](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_MASHIRO_YU_SOURCE_AND_SCOPE.md#speech-music-and-limits) records the separate question of how she sounds in the broadcast.
+
 ## 5.6 Fans, students, and ordinary-course clubs as weak-tie evidence
 
 Unnamed fans and student groups should generally remain collective actors unless individual evidence becomes durable.
@@ -1009,6 +1025,8 @@ Current use:
 > **old unit relations can survive through differentiated professional futures.**
 
 Cross-link (GKM-SAA-074; 2026-11-15): the supporter path is one that Rinami herself considered. Before meeting the Producer she found student-council work for idols enjoyable and fulfilling, and thought that supporting idols might be enough if she never turned professional (M-RINAMI, `adv_cidol-hrnm-3-013_03` L54–L74). In 017_02 her inner speech wonders whether support work suits her better than idolhood, while her body kept training (`adv_cidol-hrnm-3-017_02` L134–L209). Kana's differentiated future is therefore also Rinami's road not taken. The valuation of support stays two-sided: a real vocation and a temptation to self-erasure.
+
+**Kana’s separate choice of work (REVISE) — 2026-11-25.** Kana reports enjoying support for idols and wanting to study stage direction. The evidence for aptitude comes from her account. Her attendance at the festival shows one way to support Rinami now (`adv_dear_hrnm_022` L40–73 and `adv_dear_hrnm_033` L172–218). Rinami’s separate Event 028 report describes similar plans for an unnamed leader; the identification and later professional work are open. The [reviewed portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_FORMER_LOVE_SISTERS_KANA.md) establishes Kana’s own conduct and its written scope. The “later stage-direction path”, “adjacent professional competence” and “differentiated professional futures” earlier in this section therefore describe a stated plan and self-assessed aptitude, not an established career.
 
 ## 7.3 `owl`
 
@@ -1498,7 +1516,7 @@ How a character treats a vendor, journalist, child, stranger, worker, or ordinar
 
 10. Which Shion traits survive outside adversarial contexts?
 11. How does Gekka behave when she is not evaluating, competing, or training?
-12. What exactly is Kuroi's institutional role and authority? (Partly answered 2026-11-15: he is 理事長 of the 961-funded or 961-founded 極月学園, recruits for 961 Pro, and is linked to N.I.A.'s organisation, §4.5, GKM-SAA-035, GKM-SAA-236. His formal position inside 961 Pro and his private motives remain open.)
+12. What exactly is Kuroi's institutional role and authority? (Partly answered 2026-11-15: he is 理事長 of the 961-funded or 961-founded 極月学園, recruits for 961 Pro, and is linked to N.I.A.'s organisation, §4.5, GKM-SAA-035, GKM-SAA-236. The later person-level review has identified him as 961 Pro’s president from Saki Dear 013 L169. The internal reach of that authority and his private motives remain open.)
 13. How much of Nadeshiko's coercive behavior is personal versus systemic?
 14. How does the Gekka/Shion sibling relation look from Shion's direct perspective across more than `story_0105`?
 

@@ -688,3 +688,11 @@ Textual register only; prosody stays AV-gated (Carbon queue). These rows mirror 
 **REVISE the register description for support 3-0082.** Expertise changes the length and intensity of Lilja’s recommendation while she retains `センパイ` and polite endings. The cinema interruption changes pace and urgency. Tsubame leads with a stammered explanation and summons Lilja’s reply. Lilja repeats the phrase about acting on impulse with polite syntax. The findings qualify the earlier fandom bullets in these encounters and supply no new test of separate gaming, romance or restraint claims.
 
 Temari’s `りーぴゃん` begins as a proposal for Lilja (L231) and becomes direct address (L244). Sumika’s `真顔` is her own description (L249). Kotone introduces `てまりん` as a threat to use it (L258). Those are different speech acts. [Matched delivery and source limits](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Recorded speech in three event scenes
+
+In the shop, Sumika moves from recognizing Mao’s concern to her own apology, then recovers her familiar “Mao-cchi senpai.” Mao’s quiet apology and warm reply accompany Sumika’s shift. [Beach-restaurant repair](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#repair-at-the-beach-restaurant)
+
+At the ball-toss stall Lilja continues to use polite Japanese while requesting another try and accepting Saki’s challenge. She voices strain after Saki declares the first-round win and sounds delighted at her own later declaration of victory. She chooses to continue. [Festival game](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-coach-becomes-an-opponent)
+
+At the Animate event Kotone and Saki switch from public customer-facing speech to quieter peer prompts. Temari’s polite invitation is addressed to the customer. The audience hears her private doubt in the later debrief, and her possessive reply to Kotone comes later still. [Animate fan encounter](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)

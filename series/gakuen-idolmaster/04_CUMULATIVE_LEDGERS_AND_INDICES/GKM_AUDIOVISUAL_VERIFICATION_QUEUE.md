@@ -485,7 +485,7 @@ R2 resolves the former late-Dear quality exception. The exact 720p files strengt
 | P0 | `adv_event_007_main-03` | Temari social failure/humiliation and China redirecting her into strength |
 | P1 | `adv_event_007_main-04` | China/Temari shared idol-origin talk and Temari strength recognition |
 | P0 | `adv_event_007_main-05` | blackout fear, hand-holding, `引っぱっていい`, team-live transition |
-| P0 | `adv_event_008_main-02` | Temari meeting a SyngUp! fan: inner delight vs outer coldness |
+| P0 | `adv_event_008_main-02` | Temari’s attempted exit and spoken fan invitation; her doubt about Saki’s idol-image explanation; Saki and Kotone’s fan-facing and peer-directed speech |
 | P1 | `adv_event_008_main-03` | viral-video humiliation/comedy/opportunity capture |
 | P1 | `adv_event_008_main-04/05` | Kotone fatigue, enforced rest, trio solidarity |
 | P1 | `adv_event_009_main-04` | Lilja overload and Kotone's friendship scaffold |
@@ -502,6 +502,8 @@ R2 resolves the former late-Dear quality exception. The exact 720p files strengt
 | P0 | `adv_event_012_main-05` | Lilja/Sumika reciprocal-support bargain and pre-live resolve |
 
 **Acquisition rule:** prefer a whole event commu or the smallest publicly retrievable complete segment, then timestamp internally. Do not ask the user to manually cut target lines when a complete event video exists.
+
+**E008 part 02 discriminator correction — 2026-11-25 (REVISE).** The historical label was “inner delight vs outer coldness.” Temari’s inner line at L262 rejects Saki’s explanation and asks how to express herself. L209 is addressed to the fan. This text-side correction does not change the P0 priority or assert a completed playback disposition. [Event 008 reading, §4.2](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_006_012_DEEP_READING.md#42-temari-meets-a-syngup-fan).
 
 <!-- PHASE4_EVENTS_013_020_2026-08-23 -->
 ## Phase 4 — Events 013–020 AV verification additions
@@ -617,7 +619,7 @@ No support-card AV target blocks textual Phase-5 progression.
 | `adv_csprt-2-0001_01` | Temari pivots from criticizing Misuzu to angrily defending her when Kotone agrees too strongly — locate attachment leakage and anger target |
 | `adv_csprt-2-0011_02` | Kotone rejects Sena's money — distinguish comedy/evasion from hard debt/autonomy boundary |
 | `adv_csprt-2-0015_02` | Temari/Kotone katsudon sharing — quantify protest versus comfortable familiarity |
-| `adv_csprt-2-0018_02` | Saki tapes Temari's ankle while preserving challenge language — care/rivalry simultaneity |
+| `adv_csprt-2-0018_02` | Original question about care and rivalry. The 2026-11-25 paired review verifies the offer of taping and the renewed challenge. The location of the injury and actual application of tape remain open. See the dispositions below. |
 | `adv_csprt-2-0021_01` | Hiro `友達` / Temari `違うから` — critical for modeling label denial versus enacted friendship |
 | `adv_csprt-2-0025_02` | Sena realizes Kotone watched her — public composure→transparent recruitment excitement transition |
 
@@ -1036,3 +1038,31 @@ The historical entries preserve their commissioning questions. These four later 
 | `adv_event_001_main-05`, P1 | **STRENGTHEN. Resolved within the specific nickname request.** SRC-0039 at 1174–1225 s separates the flat coinage, puzzled vocative and warmer reply to Kotone. The earlier apology keeps its separate source interval. Lilja’s reason for hesitating and the private motive for the proposal remain open. |
 
 [Source, edition and cue adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md). Other priority items retain individual scope.
+
+## Paired dispositions for five support-card requests — 2026-11-25
+
+At Source Lock 1.2, Japanese ADV revision 88, the retained originals support three separately frozen media-first returns for each named interval. The [chapter-bound adjudications](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md) hold evidence, role, recording identity and remaining questions. These rows update the named audition and delivery issues without closing any numbered Gate E.
+
+| P0 support | Receiving disposition within exact recording scope |
+| --- | --- |
+| `adv_csprt-2-0018_02` | **REVISE.** Saki warns against neglecting the sprain, offers taping and apologizes. Temari answers for her own skill. Challenge resumes. The exact physical application and Saki’s unstated motive remain **OPEN**. |
+| `adv_csprt-2-0011_02` | **REVISE.** A comic delivery and definite monetary boundary coexist. Kotone identifies the debt risk. Sena’s terms and Kotone’s deeper feelings remain **OPEN**. |
+| `adv_csprt-1-0004_01` | **STRENGTHEN.** The guided retry changes phrasing, scoring and expression. The recalled person, circumstances and exact acoustic parameters remain **OPEN**. |
+| `adv_csprt-3-0071_03` | **STRENGTHEN.** Tsubame receives a specific later recognition for the dance. The game result is her report. Point totals, Sena holding back and broader visibility remain **OPEN**. |
+| `adv_csprt-2-0067_02` | **REVISE.** Ume’s outward exchange builds on Temari’s spoken account and ends in an explicit admission of excessive teasing. Its initial intention and wider interpersonal scope remain **OPEN**. |
+
+## Five guarded story-event replies — 2026-11-25
+
+[Five guarded reviews across four events](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) give current dispositions for four P0 and one P1 event keys. The scope is per utterance and speaker. Original priorities remain visible in the discovery sections above.
+
+| Original key | Current scoped disposition |
+| --- | --- |
+| P0 `adv_event_002_main-05` | **STRENGTHEN** heard complaint and mixed comic/hurt response. **REVISE** ordering of Hiro’s and Misuzu’s reasons. Identity, underlying motive and later group agreement retain separate evidence. |
+| P1 `adv_event_003_main-02` | **REVISE** the warning and refusal sequence. Includes two voiced punctuation boxes and Rinami’s interventions. L556 cadence remains disputed. |
+| P0 `adv_event_003_main-03` | **STRENGTHEN** the performed repair and revised service account. Exact kinship, apparent action and the audibility of frying remain **OPEN**. Earlier Mao–Rinami turns are outside attendance. |
+| P0 `adv_event_004_main-04` | **REVISE** the Saki–Lilja shift from coach to rival. Keep the effects’ written assignment distinct from physical plays. Sumika’s person-specific observation remains **OPEN**. |
+| P0 `adv_event_008_main-02` | **REVISE** the former inner-delight discriminator. A publicly voiced invitation precedes a separately voiced inner objection to the suggested idol image. Earshot, deeper motive, lasting change and later event order remain **OPEN**. |
+
+## Event 014 written-source clarification — 2026-11-25
+
+Part 05's P0 shorthand “mutual `大好き`” refers to Hiro's `大好き` and Misuzu's reply `わたしもです` (L793–807). Part 04's P1 distinguishes China's personal resolution to Hiro, her appeal to the class and Saki's later recognition (L130–169, L314–322). See the [written-source revision](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_013_020_DEEP_READING.md#34-china-performs-morale-as-chosen-professional-labor). The recorded queue keys and priorities remain in force.
