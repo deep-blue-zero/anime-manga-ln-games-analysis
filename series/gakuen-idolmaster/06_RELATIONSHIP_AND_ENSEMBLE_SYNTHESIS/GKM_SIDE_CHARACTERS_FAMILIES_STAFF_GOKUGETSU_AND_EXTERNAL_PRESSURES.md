@@ -350,7 +350,7 @@ The double coding above stands, now with one actor who is both Sena's father and
 
 Rinami's family is analytically unusual because it offers a plausible alternative good life rather than an obvious oppressive past. The reviewed [Shiori portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HIMESAKI_SHIORI.md) follows the younger sister’s separate interests and decisions. She can object to a family role, protect a guest from a practical inconvenience and later welcome him in her own right. Her disclosure about Rinami’s public older-sister role does not erase her pride in her work.
 
-Her father once imagined her inheriting the family sake brewery. When Rinami expresses a major desire for idolhood, he supports it partly because large self-authored wishes are unusual for her. Later, during a family crisis, he asks the Producer whether becoming a top idol will actually make Rinami happy.
+Rinami reports that her father hoped she would take over work at the family brewery. In the separate Event 028 family scene he asks whether she has considered her choice and tells her she can return home if things become difficult. He later asks the Producer whether becoming a top idol will make Rinami happy. The [reviewed individual portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HIMESAKI_FATHER.md) distinguishes these scenes, Rinami’s report of his change of mind and Shiori’s account of his everyday fandom.
 
 This matters because Rinami's route cannot define agency as escape from a bad home.
 
