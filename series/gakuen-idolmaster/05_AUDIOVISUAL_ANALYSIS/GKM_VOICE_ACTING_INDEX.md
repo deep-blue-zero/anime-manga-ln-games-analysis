@@ -38,6 +38,10 @@ Dialogue delivery, voice/register, scene acting and relation-specific performanc
 
 The [guarded sports-day and Hiroshima reviews](GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) track performed dialogue, staging and game music separately across ten exact windows. They file limited answers for China, Hiro, Rinami, Ume and Misuzu. The baseball cheer melody itself falls across a scene ellipsis.
 
+The guarded Event 022 and 024 review adds partial recorded answers for Arimura Mao, Fujita Kotone, Hanami Ume, Hataya Misuzu and Juo Sena. It distinguishes fever and recollection, an older-friend exchange, a two-person refusal, a spoken three-person title, an instrumental quote and reported reception. It leaves the concert's sung performance, later uptake, and separate character requirements open. Two existing exact official trio MV reviews also support a shared studio-vocal and authored-picture comparison without adding attendance to those events. [Guarded Event 022 and 024 adjudication](GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+Four guarded Event 023 windows separate a remembered request, Temari's gift and Hiro's distinct mission reports. The recorded delivery establishes which register shifts belong to Misuzu, Temari and Hiro. The two pieces on the in-story disc are reported, with the disc's sound and later playback still open. [Guarded Event 023 adjudication](GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 <!-- RINHA_AV_20260911 -->
 ## Kaya Rinha — distributed-character AV responsibility
 

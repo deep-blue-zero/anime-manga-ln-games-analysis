@@ -114,3 +114,7 @@ Phase-4 event and Phase-5 support evidence was integrated into the parent core b
 ## Dated recorded evidence — 2026-11-25
 
 **STRENGTHEN, UME-C16, event evidence about tailoring a response to a recipient.** The guards preserve Ume’s direct remembered advice about sharing defeat and speaking candidly to Hiro. Hiro’s present relay precedes those turns and belongs to Hiro. The witness does not establish that Ume gives every peer this advice or that the later appeal is complete within playback. [Exact recording and cue scope](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it)
+
+## Recorded Event 022 and 024 evidence — 2026-11-25
+
+**STRENGTHEN** distinction among Ume's count, joint refusal, invitation, protection, title call and post-live comments. Keep the actual performance and reception comparison **OPEN**. Sena attributes a permissions effect to Ume. Ume's role remains distinct from the account Sena gives of Misuzu. The distinct official trio MV supports changing vocal foreground and authored focality. Ume's athletic preparation and shared hook remain separate from the event performance. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)

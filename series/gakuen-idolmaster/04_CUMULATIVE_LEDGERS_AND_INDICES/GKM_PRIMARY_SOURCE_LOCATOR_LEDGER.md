@@ -1486,3 +1486,25 @@ SAKI-L072 now has a recorded part 2 scope. A1 `adv_event_016_main-02.txt` L439�
 | `LOC-AV-TSB-SAKI-0085-03` | `Resource/adv_csprt-3-0085_03.txt` L8–143, joint method decision L28–56 and later rivalry L122–143 | `SRC-0092` 204.500–306.250 s. The clock wipe skips the workout. |
 
 [Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## 2026-11-25 guarded Event 022 and 024 locators
+
+| Pinned Japanese revision 88 part | Decisive written handles | Native parent cut |
+| --- | --- | --- |
+| `adv_event_022_main-02` | L64–70 speaker separation; L148/L275–352 remembered search; L372 report; L408/L445 present | `0GYf2Vyyr-Q` [300, 597) |
+| `adv_event_022_main-04` | L525–558 relationship naming; L564–573 Mao responds | `0GYf2Vyyr-Q` [1176, 1248) |
+| `adv_event_024_main-04` | L99/L136–158 two songs; L187–260 assignment; L280–312 joint refusal; L340/L368–372 independent aims; L390–413 challenge | `aS6q0UHUt_0` [778, 1044) |
+| `adv_event_024_main-05` | L132 instrumental; L155–160 title speaker assignments; L275–400 reported reception; L414 reversal; L484/485 Ume and excluded L496/499 | `aS6q0UHUt_0` [1045, 1324.1) |
+
+[Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded Event 023 — 2026-11-25
+
+| Locked Japanese script part | Decisive A1 turns | Attended parent interval `0Ir39nG7XgI` |
+| --- | --- | --- |
+| `adv_event_023_main-03` | L138–167 unnamed inquiry, L210–236 giving and its scope, L288/L294 clue and mission, L334–357 conditional reading | [442.5, 649) |
+| `adv_event_023_main-04` | L169/L187 concert attended, L219–230 remembered nap, L255–296 planned disc, L312–318 prediction with a clipped end | [653, 877) |
+| `adv_event_023_main-05` | L229–231 reported gift contents, L248–302 response and intention, L345–393 distinct report and degree of completion | [881.5, 1097) |
+| `adv_event_023_main-01` | L187–224 disputed closeness and request, L272 recalled reply, L310–319 refusal, L344–355 shopping and reply | [10, 180) |
+
+[Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

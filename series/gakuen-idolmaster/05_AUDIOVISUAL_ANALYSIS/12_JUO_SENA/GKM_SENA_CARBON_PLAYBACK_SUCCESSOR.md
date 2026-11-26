@@ -53,3 +53,7 @@ The arcade provides a different test of how others read Sena’s confidence. Aft
 ## Completion boundary
 
 Individual Gate E remains open. The support 3-0086-03 performance question has a dedicated accepted adjudication. Other applicable source requests retain their individual dispositions. The Phase 3 report records the earlier delivery. The separate reviews supply the hearing and sampled-picture evidence for the named support scenes. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
+
+## Recorded Event 022 and 024 evidence — 2026-11-25
+
+Q560 and Q561 cover Sena's guarded proposal, reported reception and L414 changed decision. The council scene distinguishes the contest song from the victory-live song. The backstage title has speech and instrumental quotation; the Shibuya sung concert is skipped. The recorded and reported song evidence has separate scopes. `SRC-0387` answers the shared studio vocal and authored-MV portions of `AV-SENA-G03`, with exact individual backing allocation, continuous trio 3DMV blocking and Shibuya's sung performance held open. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#shibuyas-title-call-and-the-reported-circulation)

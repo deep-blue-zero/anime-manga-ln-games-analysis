@@ -17,6 +17,8 @@ last_updated: "2026-11-25 — Carbon clip, edition and claim routing"
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
+Q572 tests Kotone in Event 022 part 04, parent [1176, 1248). The Japanese mixed-audio accounts separate her hesitant older-friend formulation from Mao's quiet response and overt welcome. The sampled reaction and measured pauses and score remain separate from inferred feelings. Digital-silence checks qualify the continuous-frying report. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#kotone-describes-an-older-friend)
+
 Begin with the [current Carbon update](GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) for later source bindings, dialogue and performance limits and current sufficiency. The original specialists and controls below preserve the Phase 3 delivery.
 
 Kotone asks the festival players to stop as a crowd gathers. In the separate Animate scene she moves from a customer-facing offer to a quiet peer prompt. [Festival game](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-coach-becomes-an-opponent) · [Animate fan encounter](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)
