@@ -47,6 +47,8 @@ The guarded Event 022 and 024 review adds partial recorded answers for Arimura M
 
 Four guarded Event 023 windows separate a remembered request, Temari's gift and Hiro's distinct mission reports. The recorded delivery establishes which register shifts belong to Misuzu, Temari and Hiro. The two pieces on the in-story disc are reported, with the disc's sound and later playback still open. [Guarded Event 023 adjudication](05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
+Six guarded windows extend Event 022’s contrasts in training, practical care and chosen company, and give Mao’s separate Event 003 last-summer reflection a recorded comparison. The source and recording distinguish spoken requests, inward thought, instrumental score and a reported photograph. [Guarded care and summer adjudication](05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 ## Phase 6 completion at Source Lock 1.2 — 2026-11-25
 
 [Five guarded reviews across four events](05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) add direct delivery evidence for Misuzu and Hiro, Mao and Sumika’s warning and repair, Lilja’s voluntary rematch with Saki, and the separate public and private turns in Temari’s fan encounter. Relevant living cores, character audiovisual homes and state ledgers record the scoped changes. Other event parts and individual numbered Gate E decisions retain their separate checks.
@@ -513,6 +515,8 @@ Recommended model routing:
 ## Legacy
 
 V1 material remains historical hypothesis/provenance only. It is not current authority where V2 source-facing artifacts exist. Full conversation transcripts belong under legacy/conversation-archive treatment once structured artifacts supersede them.
+
+The [ten original legacy hypotheses](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_LEGACY_CLAIM_REVISION_LEDGER.md#original-legacy-hypotheses-at-source-lock-12--2026-11-25) have dated dispositions at Source Lock 1.2. The corresponding scenario, continuity and recording limits travel with each disposition. The eventual series synthesis and release retain their own requirements.
 
 
 ## Phase 3 Ume canonical artifacts and integrated AV completion — 2026-08-19

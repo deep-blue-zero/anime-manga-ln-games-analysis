@@ -1110,3 +1110,13 @@ The Q-numbers in this table and the next Event 023 table repeat the historical q
 | Q573 · Event 023 part 01 | **STRENGTHEN**, Temari's disagreement, consultation and invitation. Hiro supplies contextual evidence. Misuzu's recalled phrase leaves a separate person-specific answer **OPEN**. |
 
 These scoped determinations preserve the original request text and individual Gate E requirements. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+| Stable part and historical request key | Scoped designation |
+| --- | --- |
+| `adv_event_022_main-01` · Q555 | **STRENGTHEN**, Mao’s spoken assurance and inward insistence that she cannot afford to rest; Kotone’s practical care and its named experience. Two person answers across three guards. Diagnosis and the last heard parts of nearby lines are bounded. |
+| `adv_event_022_main-05` · Q557 | **STRENGTHEN**, Mao’s inward account of earlier avoidance, her spoken admission that she lacked courage to go alone, and her stated aim to face Sena and herself. The concert performance and later actions stay separate. |
+| `adv_event_003_main-05` · Q468 | **STRENGTHEN**, Mao’s inward assessment of her last summer, with an outward response around the photo exchange. Sumika’s contextual role earns no additional numbered scope. |
+
+These four scoped answers preserve the earlier and continuing request boundaries. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

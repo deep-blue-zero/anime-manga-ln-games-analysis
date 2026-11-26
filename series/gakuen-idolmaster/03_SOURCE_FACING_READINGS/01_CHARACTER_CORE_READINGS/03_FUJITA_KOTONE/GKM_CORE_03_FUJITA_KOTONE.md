@@ -1647,3 +1647,7 @@ In D-KOTONE 028–037, Kotone reports clearing her family's debt and says that e
 ## Recorded Event 022 and 024 evidence — 2026-11-25
 
 Kotone gives Mao the category of older friend, drawing on years of care for younger siblings and classmates. Her Japanese delivery softens as she tries out the description. She promptly reaffirms respect for the senior. Mao welcomes the friendship and resumes the meal (Event 022 part 04, L525–573). The exchange supports Kotone's capacity to name and accept closeness across seniority. It supplies no established romantic status or fixed ranking between Mao and other seniors. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#kotone-describes-an-older-friend)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+Kotone’s E022-01 responses move from noticing how Mao feels to giving practical directions. She describes caring for her younger siblings, and the lullaby is a spoken offer. Her earlier room suggestion and her private speculation about fatigue have different roles. The scene leaves cause, bodily measurements and unbroken transport open. [Guarded care and summer adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md#training-accepting-help-and-asking-for-one-thing)

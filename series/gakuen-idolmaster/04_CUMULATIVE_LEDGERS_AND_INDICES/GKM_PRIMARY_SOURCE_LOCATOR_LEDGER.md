@@ -1508,3 +1508,7 @@ SAKI-L072 now has a recorded part 2 scope. A1 `adv_event_016_main-02.txt` L439�
 | `adv_event_023_main-01` | L187–224 disputed closeness and request, L272 recalled reply, L310–319 refusal, L344–355 shopping and reply | [10, 180) |
 
 [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+`adv_event_022_main-01` L20–92, L212–281 and L300–399 locate training, care and the requested light. `adv_event_022_main-05` L254–324 and L383–484 locate the separate inward and spoken reports. `adv_event_003_main-05` L369–465 locates Mao’s reflection, the first shutter and proposed group photograph. The report gives amended named boundaries. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

@@ -492,3 +492,7 @@ The retained support 2-0066 part 01 recording supplies a bounded transition from
 ## Guarded Event 023 — 2026-11-25
 
 **STRENGTHEN.** Misuzu's measured giving, gentle remembered request and brighter gift response distinguish present and remembered settings. Temari's quick disagreement precedes hesitant help-seeking. Hiro's support and dry report have separate delivery and audiences. The Temari and remembered Misuzu reverb disputes stay open. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+**STRENGTHEN.** The contexts distinguish Mao’s projected polite reply, weakened reassurance, inward recognition of avoidance and later outward admission. Kotone’s directions and sibling-care explanation have guarded witnesses. In the separate beach scene a shutter effect marks a change from voiced thought for the player to present conversation. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

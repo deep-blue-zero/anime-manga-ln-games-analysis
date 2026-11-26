@@ -712,3 +712,7 @@ Event 022 distinguishes Mao's half-sleep L66/L70, Kotone's L68 echo, Mao's remem
 ## Guarded Event 023 — 2026-11-25
 
 **STRENGTHEN.** Present Misuzu uses polite speech to 篠澤さん. The remembered request uses まりちゃん. Temari's shifted address to 広 accompanies asking for help. Hiro's ending in part 04 is an authored ordinary named turn delivered reflectively. Part 03 provides separate marked inner lines for Temari. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+**STRENGTHEN.** Mao’s polite answer to the trainer, inward last-chance formulation and spoken acceptance of company have separate audiences. Kotone addresses Mao as her senior and uses familiar practical direction. Kotone’s offers of a book and a lullaby are spoken. Mao’s answer and her later request for a light are separate. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

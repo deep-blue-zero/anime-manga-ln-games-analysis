@@ -49,6 +49,8 @@ The guarded Event 022 and 024 review adds partial recorded answers for Arimura M
 
 Four guarded Event 023 windows separate a remembered request, Temari's gift and Hiro's distinct mission reports. The recorded delivery establishes which register shifts belong to Misuzu, Temari and Hiro. The two pieces on the in-story disc are reported, with the disc's sound and later playback still open. [Guarded Event 023 adjudication](GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
+Six guarded windows extend Event 022’s contrasts in training, practical care and chosen company, and give Mao’s separate Event 003 last-summer reflection a recorded comparison. The source and recording distinguish spoken requests, inward thought, instrumental score and a reported photograph. [Guarded care and summer adjudication](GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 ## Historical Hiro and Misuzu rebuild — AVE-FULL-20260910
 
 The imported complete packets retain their source accounting and measurements. The current [Hiro](07_SHINOSAWA_HIRO/README.md) and [Misuzu](11_HATAYA_MISUZU/README.md) entrypoints route subsequent perceptual revisions. Hiro accounts for **33 verified source identities, 636 distinct inspected still points and 20 claim dispositions**; Misuzu accounts for **27 verified source identities, 565 distinct inspected still points and 45 claim dispositions**. Their baselines, specialists, evidence matrices and textual-core addenda incorporate the resulting qualifications.

@@ -524,3 +524,7 @@ The Event 022 parent edition is `0GYf2Vyyr-Q` and the Event 024 parent edition i
 ## Guarded Event 023 — 2026-11-25
 
 Retained Japanese parent video `0Ir39nG7XgI` supplies four exact scene witnesses at revision 88. Parent ranges are A part 03 [442.5, 649), B part 04 [653, 877), C part 05 [881.5, 1097), and D part 01 [10, 180). The native observers received distinct packet-bound children, with picture and audio clocks accounted separately. The report records the parent and child digests, attended intervals and separate control samples. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+The retained `0GYf2Vyyr-Q` parent provides five separately guarded windows in Event 022 parts 01 and 05. The `zEWk-pQjFOQ` parent supplies a distinct Event 003-05 guard. Both have named earlier nonoverlapping chapter reviews. The adjudication records exact parent-child digests, guarded clocks and actual modes of inspection. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

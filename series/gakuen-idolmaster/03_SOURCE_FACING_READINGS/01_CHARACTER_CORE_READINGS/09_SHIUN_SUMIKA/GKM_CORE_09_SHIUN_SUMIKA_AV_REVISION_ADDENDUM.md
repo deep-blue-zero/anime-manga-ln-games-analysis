@@ -47,3 +47,7 @@ This addendum routes the textual Phase-3 hypotheses into their post-AV state. It
 ## Current integrated capsule
 
 > **Shiun Sumika is the idol of self-authored expectation, realized audiovisually through kinetic self-authorship. Her development does not replace a false gyaru with a serious true self. It teaches her to use authentic brightness, protected stillness, ballet-derived craft, differentiated relationship, and **reversible register permeability** as chosen forms of address: vulnerability can stand, support can be received, and brightness can return without erasure.**
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+The Event 003 part 05 clip separately presents the shutter, Sumika’s account of photographing Mao’s expression, and her suggestion of a group photo. Mao’s response to the description and later swimsuit embarrassment are distinct. Permission and the pictured result remain open. The later group photo and sharing have separate written locators. This is contextual support for Sumika's conduct. [Guarded care and summer adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md#maos-summer-and-sumikas-camera)
