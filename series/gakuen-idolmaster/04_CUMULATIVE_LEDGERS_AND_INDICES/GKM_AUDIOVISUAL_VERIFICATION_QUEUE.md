@@ -858,7 +858,7 @@ No new acquisition is blocking the **evidence matrix** itself.
 | --- | --- | --- |
 | P0 | Temari Dear 015 | public-villain/blame language: triumph, armor, bitterness, or mixed affect |
 | P0 | Temari Dear 016 | intended retirement/fan handoff; destabilization when Temari asks her not to quit |
-| P0 | Temari Dear 020 | rare Rinha interiority plus SyngUp formation motive and restoration training |
+| P0 | Temari Dear 020 | Rinha’s founding recollection and present coaching of Shion and Nadeshiko. Temari’s later search is separate. [Received scene scope](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md#dear-020-memory-and-present-addressees). |
 | P0 | Misuzu Dear 016 | “already quit” self-definition, fan handoff, Misuzu challenge, wound defensiveness |
 | P0 | Misuzu Dear 024 | `私は、一アイドルファンとして` severe idol ontology versus fandom enthusiasm |
 | P0 | Saki Dear 026 | older-sister autobiography, shame/self-blame, uniqueness/non-substitution boundary |
