@@ -54,7 +54,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`silent-witch`](characters/index/silent-witch.md) | 4 |
 | [`solo-leveling`](characters/index/solo-leveling.md) | 5 |
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
-| [`the-idolmaster`](characters/index/the-idolmaster.md) | 34 |
+| [`the-idolmaster`](characters/index/the-idolmaster.md) | 35 |
 | [`three-days-of-happiness`](characters/index/three-days-of-happiness.md) | 5 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
 | [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 52 |
@@ -600,6 +600,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Shiraishi Saki](characters/index/idoly-pride.md#shiraishi-saki) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:shiraishi-saki@v2-cross-media` | — |
 | [Shiraki Hime](characters/index/watayuri.md#shiraki-hime) | Japanese manga | `watayuri:shiraki-hime@manga` | — |
 | [Shirakusa Gekka](characters/index/the-idolmaster.md#shirakusa-gekka) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:shirakusa-gekka@mobile-game` | 白草月花 |
+| [Shirakusa Shion](characters/index/the-idolmaster.md#shirakusa-shion) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:shirakusa-shion@mobile-game` | 白草四音 |
 | [Shiratori Tomoe](characters/index/tokyo-7th-sisters.md#shiratori-tomoe) | Tokyo 7th Sisters game | `tokyo-7th-sisters:shiratori-tomoe@game` | — |
 | [Shiro](characters/index/shiboyugi.md#shiro) | Japanese light-novel continuity | `shiboyugi:shiro@light-novel` | 蔵里士郎; 尸狼; Kurari Shirō |
 | [Shiroko](characters/index/blue-archive.md#shiroko) | Blue Archive game | `blue-archive:shiroko@game` | — |

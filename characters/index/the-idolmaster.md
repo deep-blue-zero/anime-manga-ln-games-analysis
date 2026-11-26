@@ -698,6 +698,28 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Reviewed current evidence:
   - [`gkm-v2-monograph-shirakusa-gekka` — Shirakusa Gekka V2 supplementary character monograph](../../series/gakuen-idolmaster/07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIRAKUSA_GEKKA.md)
 
+<a id="shirakusa-shion"></a>
+
+### Shirakusa Shion
+
+- Entity ID: `the-idolmaster:shirakusa-shion`
+- Entity aliases:
+  - 白草四音 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Gakuen Idolmaster mobile-game V2 character monograph
+
+- Analysis subject ID: `the-idolmaster:shirakusa-shion@mobile-game`
+- Series: `gakuen-idolmaster`
+- Continuity: `gakuen-idolmaster-mobile-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `shirakusa-shion-v2-monograph`: GAME OTHER: Gakuen Idolmaster Lilja, Mao, Rinami, Sumika and Tsubame Dear Idol routes, the H.I.F. scouting support story, an Event 028 witness and a Temari song communication at Source Lock 1.2 revision 88, each kept in its own track, with the paired Japanese recordings of Sumika Dear 011-020 and Tsubame Dear 011-020. Her own sung performance, the delivery of her coaching, her private motives and reciprocal repair with Gekka are outside the evidence.; continuity `gakuen-idolmaster-mobile-game`
+- Reviewed current evidence:
+  - [`gkm-v2-monograph-shirakusa-shion` — Shirakusa Shion V2 supplementary character monograph](../../series/gakuen-idolmaster/07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIRAKUSA_SHION.md)
+
 <a id="shiun-sumika"></a>
 
 ### Shiun Sumika
