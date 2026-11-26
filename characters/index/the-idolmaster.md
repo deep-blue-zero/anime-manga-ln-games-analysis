@@ -125,7 +125,7 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Entity aliases:
   - 花海佑芽 (ja, ORIGINAL_SCRIPT)
 
-#### Subject: Gakuen Idolmaster mobile-game Phase-3 core
+#### Subject: Gakuen Idolmaster mobile-game Phase-3 core and Phase-7 definitive monograph
 
 - Analysis subject ID: `the-idolmaster:hanami-ume@mobile-game-phase-3-core`
 - Series: `gakuen-idolmaster`
@@ -135,9 +135,11 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `hanami-ume-phase-7-monograph`: GAME OTHER: Definitive Phase-7 monograph through Dear 001-037 and the admitted Produce scenario series (P1-P3), first Unit Story, event, support, song-communication and performance states at Source Lock 1.2 revision 88. Recorded-delivery claims are limited to the identified editions and guarded windows it names; first-run direction, camera-hidden contact, motive and precise score continuity remain open.; continuity `gakuen-idolmaster-mobile-game`
   - `hanami-ume-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-10-hanami-ume` — GKM CORE 10 HANAMI UME](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/10_HANAMI_UME/GKM_CORE_10_HANAMI_UME.md)
+  - [`gkm-v2-monograph-hanami-ume` — GKM V2 definitive monograph: Hanami Ume](../../series/gakuen-idolmaster/07_DEFINITIVE_CHARACTER_MONOGRAPHS/22_HANAMI_UME.md)
 
 <a id="hataya-misuzu"></a>
 
