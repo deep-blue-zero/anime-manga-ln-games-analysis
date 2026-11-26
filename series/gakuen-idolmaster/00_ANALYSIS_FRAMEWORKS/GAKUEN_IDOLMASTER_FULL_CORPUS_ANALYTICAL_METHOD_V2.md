@@ -2,14 +2,14 @@
 title: "Gakuen Idolmaster Full-Corpus Analytical Method V2"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "governing analytical protocol"
-version: "2.2"
+version: "2.3"
 artifact_type: analytical_method
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-14"
-revision_note: "adds validated public-commu nomenclature, search-term construction, whole-video acquisition, and grouped AV retrieval packets"
+last_updated: "2026-11-26"
+revision_note: "v2.3: extends spoken and sung vocal characterization, nonlexical expression, comic prosody, affect acting and visual-vocal design comparison; preserves the selective sampling and acceptance requirements. v2.2 added validated public-commu nomenclature, search-term construction, whole-video acquisition, and grouped AV retrieval packets."
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 source_snapshot_date: "2026-08-02"
 source_commit: "00d150a069a3ffa723a1ff264752ba242024caad"
@@ -21,6 +21,8 @@ created: "2026-08-13"
 ---
 
 # GAKUEN IDOLMASTER FULL-CORPUS ANALYTICAL METHOD V2
+
+> **Revision record — v2.3, 2026-11-26.** Extends §§16 and 17.3 for vocal characterization in Phase 8 Documents 10 and 11. No new source admission, observation, claim acceptance or readiness decision is made by this method change. Historical Source Lock metadata remains the pin for the original method.
 
 ## 0. Purpose and governing principle
 
@@ -1140,6 +1142,28 @@ This packet is the user-facing acquisition interface. Machine identifiers remain
 
 ---
 
+## 16.5 Vocal characterization, nonlexical expression and comic prosody
+
+The spoken performance is a component of character design, not merely an illustration of the written line. Document 10 must synthesize the relevant evidence across voiced characters, with depth proportionate to the available recordings and analytical importance. Use the existing V0–V4 ontology; these are cross-cutting dimensions of observation, not new mutually exclusive voice states.
+
+- **Vocal morphology and identity:** characterize perceived register, timbre, resonance, weight, brightness, phonation quality, articulation, rhythm and habitual projection across ordinary baseline scenes and contrasting states. Examine how these cues reinforce, complicate or contradict visual design, age coding, demeanor, gendered presentation, social position and self-presentation. Separate perceived coding from established identity and avoid inferring personality from timbre or appearance alone.
+- **Nonlexical and paralinguistic vocal events:** record analytically useful laughter, sighs, gasps, growls, groans, squeals, cries, breath sounds, exertion sounds, filled pauses, scoffs, disfluencies and audible events absent from the printed line or represented by punctuation. Distinguish written elongation or repetition from the actual performed event; verify speaker and source of sound.
+- **Comic prosody and reaction timing:** compare vowel extension, repeated syllables, rhythmic fragmentation, abrupt changes of pitch, texture or projection, exaggerated reaction, pause and interruption, and the return to ordinary speech. Preserve the stimulus, addressee, preceding turn, response and aftermath. Distinguish comic exaggeration, sincere distress, playful performance and other supported functions rather than treating dramatic sounds as interchangeable tics.
+- **Affect acting and multimodal design:** distinguish the observed delivery from the character's reported or inferred emotional state, the emotion addressed to another character, role/persona performance, and the impression created for the audience by acting, staging, framing or editing. A mismatch may warrant competing interpretations, not automatic claims of concealment, involuntary leakage or directorial intent. Compare voice, expression, posture and movement in the same recorded scope.
+- **Operational reconstruction:** identify evidence-supported triggers, recipient and story-state conditions, the transition into and out of distinctive delivery, and counterexamples in quieter, neutral or differently performed scenes. Describe what an independent reconstruction should preserve and what it must not assume. Do not replace the character's ordinary voice with a compilation of conspicuous reactions.
+
+Use existing character-local dialogue and voice-acting close readings, audiovisual adjudications and the Voice Performance State Ledger as the canonical evidence routes. For selected vocal events, preserve character/speaker, A1 source and physical line or cue, story track and choice/result if relevant, exact recording edition and time guard, inspection modality and reviewer provenance, printed representation, audible observation, contextual function, V0–V4 tags, material counterevidence, confidence and unresolved alternatives. One event can have multiple state tags. Link repeated uses to the same source identity rather than inflating counts. A silent or unvoiced character receives an explicitly bounded written-register treatment; do not invent a performed profile.
+
+Retain the existing AV-A–D evidence classes and AV-P0–P3 request priorities. Use actual listening for perceived delivery; script annotations and sampled stills do not establish sound, and a mixed-scene envelope does not establish a speaker-specific acoustic measure. Quantitative pitch, intensity, duration, spectral or phonation claims need appropriate signal attribution, reproducible methods and limits; do not infer vocal anatomy, actor psychology or production technique from a finished mix. Record acting or design intent only when independently supported by an admitted source. A fan compilation can identify candidate scenes or inform a separately sourced reception question, but edited selection is not a representative corpus or a substitute for matched source context.
+
+### 16.5.1 Targeted implementation and receiving review
+
+First audit and reuse existing accepted observations, source manifests and independent reviews. Pilot the additional dimensions on Hanami Ume's extended and nonlexical reactions (including ordinary, playful, frustrated and vulnerable controls); the currently reviewed support 2-0047 part 02 is a starting locator, not a conclusion about motive. Use retained full-scene context or matched guarded excerpts. Separate media-first observation, source-aware adjudication and critical challenge as required by the existing inspection and receiving protocols. Then extend coverage where an unresolved question materially changes a character model or the comparative synthesis; include supporting characters where the evidence warrants it.
+
+Integrate new accepted evidence into the existing voice specialist, state ledger, and affected living core or claim-revision routes; use Document 10 for cross-character synthesis and Document 11 for the sung-performance counterpart. Record what remains open or deferred. This extension does not require exhaustive utterance annotation, uniform acoustic measurements, fresh review of every recording, or reopening accepted monographs solely because the method has expanded. Reassess an accepted claim or gate only through the ordinary route when material evidence warrants it. Existing interpretation-blocking and central high-priority audiovisual requirements remain in force.
+
+---
+
 # 17. Music, image-song, and MV analytical method
 
 Every major idol receives a **Musical Identity Core Corpus**.
@@ -1198,6 +1222,8 @@ Where evidence supports it, analyze:
 - vibrato;
 - rhythmic precision;
 - contrast between speaking and singing self.
+
+In Document 11, apply §16.5 where relevant to **sung and performance-persona characterization**: perceived timbre and register, phrasing, attack and release, articulation, breath, expressive vocalizations or ad-libs, affect and projection, and the relationship of the performed voice to visual design and narrative development. Compare spoken and sung personae using identified recordings and their respective states; identify individual versus ensemble voice and distinguish studio mix, authored MV, game performance and in-story performance. Composition, arrangement, direction, editing and mix may contribute to the effect. Do not assign their contributions to the character or actor, infer vocal technique from a processed mix, or treat a song lyric or delivery as a literal private confession without supporting evidence. Document 10 owns spoken-dialogue and comic-prosody synthesis; Document 11 owns musical and sung expression, with cross-references for shared comparisons rather than duplicate evidence records.
 
 ## 17.4 Lyric analysis
 
