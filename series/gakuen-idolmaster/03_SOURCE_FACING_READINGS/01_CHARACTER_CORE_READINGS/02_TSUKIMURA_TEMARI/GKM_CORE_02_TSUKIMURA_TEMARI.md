@@ -3,7 +3,7 @@ title: "Gakuen Idolmaster V2 — Tsukimura Temari Character-Core Reading"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "Phase-3 provisional character-core reading"
 artifact_type: source_facing_character_core
-version: "2.1"
+version: "2.2"
 phase: "3 — Character-Core Readings"
 character: "Tsukimura Temari / 月村手毬"
 character_code: "ttmr"
@@ -11,13 +11,15 @@ source_lock: "GAKUMAS V2 Source Lock 1.0"
 governing_method: "GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.1"
 governing_continuity: "GKM_CONTINUITY_AND_STORY_STATE_MAP.md"
 created: "2026-08-14"
-revised: "2026-11-15"
-revision_note: "Source-to-analysis audit 2026-11-15 corrections: REVISE, STRENGTHEN, DOWNGRADE and OPEN transitions with A1 locators, dated integration of numbered-event, support-story and host-track evidence into the body, and a Phase-4/5 integration pointer section."
+revised: "2026-11-25"
+revision_note: "Source-to-analysis audit 2026-11-15 corrections: REVISE, STRENGTHEN, DOWNGRADE and OPEN transitions with A1 locators, dated integration of numbered-event, support-story and host-track evidence into the body, and a Phase-4/5 integration pointer section. v2.2 records the 2026-11-25 written Event 023 revision."
 status: "canonical Phase-3 source-facing artifact; provisional, not a definitive monograph"
 audiovisual_status: "textual and scripted-dramaturgy analysis complete; music/MV and selected dialogue-performance evidence requested but not yet inspected"
 ---
 
 # GKM CORE 02 — TSUKIMURA TEMARI / 月村手毬
+
+> **REVISE — v2.2, 2026-11-25. Temari’s birthday gift for Misuzu.** The earlier birthday-gift account treated the studio booking as completed. Temari says she needs to secure a studio, proposes recording her singing, and later says she made the single copy for Misuzu. Hiro gives the one-copy formulation and supports the choice. The previous wording is preserved in v2.1.
 
 > **Source-boundary exception — 2026-11-25 (Phase 7 four-event audiovisual integration).** The `audiovisual_status` in the front matter remains this reading's textual baseline. The dated 2026-11-25 addition in §3.2.10 (the Event 008 Animate counter, `adv_event_008_main-02`) also draws on Japanese mixed audio and sampled stills. Heard and seen claims there are limited to the windows reviewed in the four-event perceptual adjudication (section [the fan and the idol image](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)) and establish no wider audiovisual review of Tsukimura Temari.
 
@@ -614,7 +616,7 @@ She is eager to sing for children, prepares seriously for fan-facing work, gives
 
 Her care is often more convincing when she can translate it into performance or concrete action than when she must state affection directly.
 
-**Audit integration (2026-11-15, GKM-SAA-104) — STRENGTHEN; Event 023.** Event 023 extends song-as-gift from the Producer to Misuzu and adds what the gift knows about its recipient. Choosing Misuzu's birthday present, Temari recounts every past gift; Shinosawa Hiro points out that Temari has never once asked Misuzu what she wanted for her birthday (`adv_event_023_main-04` L7–L107). Temari remembers Misuzu asking her to sing a lullaby every day so that she could nap well, a request she had brushed off as an excuse not to train (L219–L230). She turns it into a one-copy CD of a birthday song and a lullaby, books a studio and wants a trainer's help with a genre she has never practised (L255–L291). Misuzu receives it as "夢が……叶いました" and promises to listen every night; Temari answers that she wants Misuzu to fall asleep, not replay it (`adv_event_023_main-05` L229–L302). Hiro mediates without replacing either friend (`GKM_EVENTS_021_PLUS_DEEP_READING.md` §4.5–§4.6). Scope: C4 relative to D-TEMARI. The scene is evidence for H-TEMARI-07 at the level of a private relationship and for §9.3: the repaired bond makes a new artifact rather than restoring the old unit.
+**Audit integration (2026-11-15, GKM-SAA-104) — STRENGTHEN; Event 023.** Event 023 extends song-as-gift from the Producer to Misuzu and adds what the gift knows about its recipient. Choosing Misuzu's birthday present, Temari recounts every past gift; Shinosawa Hiro points out that Temari has never asked Misuzu directly what birthday gift she would like (`adv_event_023_main-04` L7–L107). Temari remembers Misuzu asking her to sing a lullaby every day so that she could nap well, a request she had brushed off by telling Misuzu to practise (L219–L230). Temari proposes singing and making a CD. Hiro endorses a single copy for Misuzu. Temari says she needs to secure a studio, considers the packaging and wants her trainer’s help because she has never practised lullabies (L255–L291). At the birthday she says she sang both the birthday song and the lullaby on the disc (main-05 L229–L231). Misuzu receives it as "夢が……叶いました" and promises to listen before bed, again and again; Temari answers that she wants Misuzu to fall asleep, not replay it (`adv_event_023_main-05` L229–L302). Hiro mediates without replacing either friend (`GKM_EVENTS_021_PLUS_DEEP_READING.md` §4.5–§4.6). Scope: C4 relative to D-TEMARI. The scene is evidence for H-TEMARI-07 at the level of a private relationship and for §9.3: the repaired bond makes a new artifact rather than restoring the old unit.
 
 ## 3.5 Live, growth, and startup material
 

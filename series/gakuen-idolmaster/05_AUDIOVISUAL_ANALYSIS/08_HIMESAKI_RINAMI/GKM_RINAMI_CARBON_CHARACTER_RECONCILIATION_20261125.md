@@ -54,3 +54,7 @@ The source manifests identify distinct story recordings and two shared performan
 **DOWNGRADE** an inference that the take reveals an innate register. The assigned clip durations provide a separate check on claims of global slowing. The evidence leaves the imagined person, the circumstances the trainer alludes to and any measured pitch difference **OPEN**. This strengthens Rinami’s capacity to vary performed address under guidance. The phone scene in part 02, the separate event requests and individual Gate E retain their own scopes. [Recorded support adjudication](../GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md) · [Source Lock](../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_LOCK.md)
+
+## Sports day and Hiroshima recorded evidence — 2026-11-25
+
+Rinami’s stage work and heard inward uncertainty coexist during the interruption. Backstage outward thanks and privately voiced recognition of the juniors’ help occupy different turns. The chronology keeps the omitted audience cheer, the closing announcement and the later backstage encounter distinct. [Event 15 finding 1](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#the-crowd-scene-reports-a-cheer-that-playback-elides) · [Event 15 finding 2](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#what-rinami-acknowledges-to-the-others-and-to-herself)

@@ -1066,3 +1066,17 @@ At Source Lock 1.2, Japanese ADV revision 88, the retained originals support thr
 ## Event 014 written-source clarification — 2026-11-25
 
 Part 05's P0 shorthand “mutual `大好き`” refers to Hiro's `大好き` and Misuzu's reply `わたしもです` (L793–807). Part 04's P1 distinguishes China's personal resolution to Hiro, her appeal to the class and Saki's later recognition (L130–169, L314–322). See the [written-source revision](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_013_020_DEEP_READING.md#34-china-performs-morale-as-chosen-professional-labor). The recorded queue keys and priorities remain in force.
+
+## Guarded Event 014 and 015 focal answers — 2026-11-25
+
+The [adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) adds seven positive person-specific answers under five original part keys. Original queue lines and historical priorities remain intact. Motion, exact upper-edge audio and unperformed music remain bounded.
+
+| Original request | Bounded disposition |
+| --- | --- |
+| P0 `adv_event_014_main-03` | **STRENGTHEN**, Hiro and Ume. Direct remembered advice and present-day decision are separate. The final imperative extends past the window. |
+| P0 `adv_event_014_main-05` | **REVISE**, Hiro and Misuzu. Fear, exertion, distinct explanations of the smile and the two friendship replies have attended witnesses. The pre-race MVP justification, full later question, answer and thanks retain written scope here. Continuous carry, exact cue edge and inferred causes remain outside. |
+| P1 `adv_event_014_main-04` | **STRENGTHEN**, China. Her quieter reply to Hiro, public class appeal, renewed insistence and Saki’s competitive recognition are located separately. Effects on the outcome and subsequent formal office remain open. |
+| P0 `adv_event_015_main-04` | **REVISE**, China. The intervention and responses are staged and heard around an elided cheer. The melody is unobserved. |
+| P1 `adv_event_015_main-05` | **STRENGTHEN**, Rinami. The thanks she speaks to her two juniors and her privately voiced recognition have different audiences. No new hearing of the finale. |
+
+Lilja’s separate `adv_event_015_main-03` request has no coverage in these windows. No individual numbered Gate E follows from these focal answers alone.

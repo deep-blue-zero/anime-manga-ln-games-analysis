@@ -2,14 +2,16 @@
 title: "Gakuen Idolmaster V2 - Relationship State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.17"
+version: "2.18"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-25 — SRC-0093 priority support scene adjudication; Phase 6 Rinha completion at the admitted boundary"
+last_updated: "2026-11-25 — SRC-0093 priority support scene adjudication; Phase 6 Rinha completion at the admitted boundary; written Event 023 revision"
 status: "active; cumulative through Phase 6 Systems I + II and Kaya Rinha evidence matrix"
 ---
 
 # RELATIONSHIP STATE LEDGER
+
+> **REVISE — v2.18, 2026-11-25. The two relationships in the birthday inquiry.** The earlier rows treated reliance as negating Temari’s description of her friendship with Hiro and described high-trust double-agent cooperation between Hiro and Misuzu as established. Temari can disagree and still ask for help. Hiro’s private report and Misuzu’s thanks establish their cooperation at the end. The previous wording is preserved in v2.17.
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
 
@@ -388,9 +390,9 @@ The following edges are strong enough to enter the cumulative relationship ledge
 | Sena ↔ Mao | E013/E017 | Mao's old failure to promise pursuit becomes present challenge and role-expansion advice; not a progression: E017-04 (L433–L472) and E022-05 (L277–L289) are pre-summer and the E013 vow `今度こそ` (L462–L469) is undated, so the order stays OPEN (GKM-SAA-157) |
 | senior quartet | E013/E017 | long-duration peer system with differentiated functions: regulation, challenge, performance interpretation, institutional leadership |
 | Hiro ↔ Misuzu | E014 | **PROMOTE** preserved. In part 05 Misuzu calls Hiro the class MVP for motivating her (L134–146). After their loss Hiro says `大切な友達` and `大好き`, and Misuzu answers `わたしもです` (L786–807). Their shared loss and Misuzu's chosen exertion remain part of the [Event 014 relationship reading](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_013_020_DEEP_READING.md#36-hiro-learns-shared-disappointment). |
-| Rinami ↔ China | E015 | senior/junior relation becomes explicitly reversible during live crisis |
+| Rinami ↔ China | E015 | China steps forward during the playback failure. Rinami thanks both juniors aloud and later recognizes privately that they had also led her (`adv_event_015_main-04` L449–638, `main-05` L129–171, L194–198). |
 | Rinami ↔ Lilja | E015 | Rinami supplies opportunity she once lacked; Lilja accepts without relying on Sumika |
-| China ↔ Lilja | E015 | direct peer collaboration in planning, travel, stage adaptation, and crisis performance |
+| China ↔ Lilja | E015 | Direct collaboration in planning, travel and stage adaptation. Lilja recognizes China's cue during the crisis and later reports that the equipment appears fixed (`adv_event_015_main-03` L42–113, `main-04` L495–629). |
 | Saki ↔ Ume | E016 | autonomous friend worlds are actively supported; separation anxiety persists without enclosure |
 | Temari ↔ Kotone | E016 | third-party testimony confirms reciprocal professional admiration beneath antagonistic banter |
 | Temari ↔ Rinha | E016 historical | Rinha's coaching language persists as Temari's later teaching repertoire |
@@ -414,8 +416,8 @@ The following edges are strong enough to enter the cumulative relationship ledge
 | Rinami ↔ Sena/Tsubame | **STRENGTHEN** | E021 Rinami can impose rest on both senior leaders when reciprocal duty becomes self-destructive |
 | Mao ↔ Kotone | **PROMOTE — cross-year friendship dossier** | entrance-day wallet care is later reciprocated through illness care; Kotone explicitly experiences Mao as an older friend and accompanies her to face Sena's live |
 | Temari ↔ Misuzu | **STRENGTHEN** | E023 resumes/transforms childhood birthday ritual after SyngUp! rupture through a one-copy song/lullaby CD |
-| Temari ↔ Hiro | **PROMOTE** | Temari entrusts Hiro with intimate Misuzu history despite verbal denial of friendship; Hiro mediates without appropriating authorship |
-| Hiro ↔ Misuzu | **STRENGTHEN** | E023 high-trust double-agent cooperation around Temari's gift problem |
+| Temari ↔ Hiro | **PROMOTE** | Temari disputes Hiro’s claim that they are close and then asks for advice and company. Later she wants to choose the gift with Hiro, and presents it herself (E023 parts 01 L193–223, L344–346; 04 L128–162; 05 L139–184). |
+| Hiro ↔ Misuzu | **STRENGTHEN** | Misuzu asks whether Hiro is helping someone else. Hiro later gives her report and calls herself a double agent; Misuzu agrees that it went well and thanks her (E023 parts 03 L138–190; 05 L345–393). |
 | Sena ↔ Ume | **STRENGTHEN** | E024 Ume can reject Sena's one-way legacy plan and correct the producer while preserving respect |
 | Sena ↔ Misuzu | **STRENGTHEN** | E024 Misuzu explicitly tells Sena she is underestimating her own idols; resistance becomes productive correction |
 | Ume ↔ Misuzu | **PROMOTE** | E024 stable co-production pair; different effort styles carry one project from archival research through public performance |
@@ -945,3 +947,7 @@ The four observations refine the Phase 5 relationship rows at their own support 
 ## Scoped support playback and relationship consequences — 2026-11-25
 
 In support `2-0018_02` Saki’s care and apology precede Temari reclaiming responsibility and answering renewed challenge. In `2-0067_02`, Temari tells Ume what made touching the dog feel safe. Ume builds on the outward explanation and recognizes excessive teasing after Temari's denial. In `2-0011_02`, Kotone refuses Sena’s money explicitly while maintaining polite address. In `3-0071_03`, the two student approaches distinguish general celebrity recognition of Sena and one specific appreciation of Tsubame’s dancing with her. These encounters support role-specific behavior, without settling private motives or a whole relationship trajectory. [Five support-card adjudications](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Sports day and Hiroshima reciprocity — 2026-11-25
+
+**STRENGTHEN.** Ume differentiates advice by its recipient. Hiro chooses shared struggle despite fearing its cost to friends. Misuzu’s effort for Hiro and her reciprocation of the friendship sit alongside her usual address. In the Hiroshima trio the juniors can reassure a senior whose composure helps them. Inward recognition belongs to Rinami and is not a separate public declaration. A shared effect on private feeling or erasure of seniority remains open. [Sports day and Hiroshima adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md)

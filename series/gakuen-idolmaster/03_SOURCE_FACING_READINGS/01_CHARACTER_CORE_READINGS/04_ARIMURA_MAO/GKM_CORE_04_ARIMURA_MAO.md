@@ -18,9 +18,9 @@ source_lock: 00d150a069a3ffa723a1ff264752ba242024caad
 source_lock_generated: 2026-08-02 22:21:04+00:00
 continuity_policy: track_scoped_non_additive
 av_status: requested_not_integrated
-version: "2.1"
-revised: "2026-11-15"
-revision_note: "v2.1 applies the source-to-analysis audit 2026-11-15 (STRENGTHEN / REVISE / OPEN / PRESERVE; no claim rejected): adds §2.3a, §8.4a, §8.6, §12.5, §14.5, dated event and support integrations and the Phase-4/5 integration pointer section, and revises §2.2 wording, §2.8, §2.9, §8.5, §9.1, the §9.3 heading and §12.4, with earlier wording kept in place"
+version: "2.2"
+revised: "2026-11-25"
+revision_note: "v2.1 applies the source-to-analysis audit 2026-11-15 (STRENGTHEN / REVISE / OPEN / PRESERVE; no claim rejected): adds §2.3a, §8.4a, §8.6, §12.5, §14.5, dated event and support integrations and the Phase-4/5 integration pointer section, and revises §2.2 wording, §2.8, §2.9, §8.5, §9.1, the §9.3 heading and §12.4, with earlier wording kept in place; v2.2 records the dated written source correction, with the v2.1 wording recoverable from Git history."
 ---
 
 # GKM CORE 04 — ARIMURA MAO / 有村麻央
@@ -540,7 +540,7 @@ The Produce Events reinforce that she does not primarily instrumentalize these a
 
 This is strong counterevidence to a cynical reading of “prince” as branding.
 
-**2026-11-15 addition (GKM-SAA-104): STRENGTHEN — conduct toward a stranger (E022).** Kotone's memory of her entrance day gives independent event evidence. A senior she does not know, in an ill-fitting, prince-style outfit, insists on helping her search for her lost wallet until dusk and explains `ボクは王子様、だからね。` — she does not want a new student's first day to become a bad memory (`adv_event_022_main-02` L197–L352). The wallet is eventually returned through the office, not found by the search (L372). The scene is Kotone's memory inside a numbered event (C2 relative to D-MAO). It corroborates, from a junior's position, the conduct the Producer saw in the umbrella scene (§2.4): there is no audience and no promotional gain.
+**2026-11-15 addition (GKM-SAA-104): STRENGTHEN — conduct toward a stranger (E022).** Kotone's memory of her entrance day gives independent event evidence. A senior she does not know, in an ill-fitting, prince-style outfit, insists on helping her search for her lost wallet until dusk and explains `ボクは王子様、だからね。` — she does not want a new student's first day to become a bad memory (`adv_event_022_main-02` L197–L352). Kotone remembers that someone brought the wallet to the office (L372). The person and any link to Mao's search remain **OPEN** (**REVISE**, 2026-11-25). Mao's help is part of the memory regardless of how the wallet was found. The scene is Kotone's memory inside a numbered event (C2 relative to D-MAO). It corroborates, from a junior's position, the conduct the Producer saw in the umbrella scene (§2.4): there is no audience and no promotional gain.
 
 ## 6.2 Yet helping also helps Mao like herself
 
