@@ -12,9 +12,9 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-24'
-version: "1.1"
-revised: "2026-11-15"
-revision_note: "Source-to-analysis audit 2026-11-15: REVISE (wording only) of every masculine pronoun for Mao to she/her with a pronoun method note (GKM-SAA-013/031), and REVISE (narrowing) of the story_0071 Sena–Kotone consent critique in §20, §28.12 and §33.7 (HSCA-067)."
+version: "1.2"
+revised: "2026-11-25"
+revision_note: "Source-to-analysis audit 2026-11-15: REVISE (wording only) of every masculine pronoun for Mao to she/her with a pronoun method note (GKM-SAA-013/031), and REVISE (narrowing) of the story_0071 Sena–Kotone consent critique in §20, §28.12 and §33.7 (HSCA-067). November 25: STRENGTHEN §15 with guarded, exact recorded delivery in the costume exchange."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -565,7 +565,7 @@ Tsubame asks Mao to repair a torn costume. Mao uses embroidery to disguise the d
 
 Then Mao explains why she chose it: Tsubame's stage looked to Mao like a golden ascending dragon, forcefully climbing into the sky.
 
-Tsubame changes her mind.
+Mao offers to change the embroidery. Tsubame chooses to keep it and allows that it might be good after all. One historical observer reports a pause. Sampled pictures show her gaze averted. [Costume exchange on the original recording](../../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md#the-gold-dragon-on-tsubames-costume).
 
 This scene is a compact statement of Mao's artistic process. Craft is not merely technical repair. She interprets another performer, materializes the interpretation, and then offers it back to the performer as an object.
 

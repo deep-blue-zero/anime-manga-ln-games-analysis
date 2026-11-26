@@ -1093,3 +1093,7 @@ Lilja’s separate `adv_event_015_main-03` request has no coverage in these wind
 These eight scoped person-rows answer four cut-bounded questions. Mao's separate Event 022 part 01/05 requests and the event's `ENDLESS DANCE` individual sung-arrangement request have no disposition in this guard. The shared studio voice and authored-picture portions of `AV-SENA-G03` are separately **STRENGTHENED** by both recovered `SRC-0387` reviews. The exact backing allocation, true trio 3DMV and in-story Shibuya stage remain **OPEN**.
 
 [Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Recovered Tsubame support focus — 2026-11-25
+
+**Tsubame, 2026-11-25.** In support 2-0066 part 01, SRC-0086 at 52–93 s answers the change from protest to acceptance. The score under the last line remains disputed. For support 3-0094 part 02 (SRC-0091), one direct account covers the cat exchange; the later critical challenge cites that account and does not independently reopen the scene. The acted comparison there remains pending. [Costume exchange on the original recording](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md#the-gold-dragon-on-tsubames-costume).
