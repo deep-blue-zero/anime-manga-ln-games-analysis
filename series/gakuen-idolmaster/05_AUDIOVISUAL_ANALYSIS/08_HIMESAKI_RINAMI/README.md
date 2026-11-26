@@ -40,3 +40,7 @@ Retained release checksums describe historical ZIP member bytes and package path
 ## Later story-event recording
 
 [Scoped story-event review](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-warning-at-the-beach-restaurant). Rinami first calls Mao by name and later closes the exchange when Mao tries again. Her distinct later sunset conversation keeps separate evidence.
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Rinami leaves help available while Hiro tries to make the chocolate on her own. She checks on her later and accepts Hiro’s request to make it together. Hiro judges the first result inadequate. Rinami appraises the finish of the shared attempt. Palms, texture and the full work process have distinct written, reported and sampled-picture limits. [Current Event 010 finding](../GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#rinami-keeps-help-available-and-responds-when-asked).

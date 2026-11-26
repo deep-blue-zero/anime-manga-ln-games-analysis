@@ -93,7 +93,7 @@ A second tranche-wide finding concerns **reciprocal expertise**. Seniority, rank
 | `story_0044` | 2 | 40 | China, Temari, Misuzu — teasing nickname, desired address, lingering Misuzu concern |
 | `story_0045` | 2 | 40 | Temari, Mao — bug fear, dorm safety, reciprocal bravery |
 | `story_0046` | 2 | 39 | Hiro, Ume, China — dangerous play, inherited games, social hosting |
-| `story_0047` | 2 | 40 | Saki, Lilja, Ume — rivalry pedagogy, explicit friendship, sibling-category jealousy |
+| `story_0047` | 2 | 40 | Saki, Lilja, Ume — rivalry pedagogy, explicit friendship, request for the same label |
 | `story_0048` | 2 | 40 | Kotone, Sumika — fashion, budget literacy, food, teasing network |
 | `story_0049` | 2 | 40 | Sena, Tsubame, Mao, Rinami, Ume, China — ranking rivalry, council succession |
 | `story_0050` | 2 | 40 | Kotone, Temari — groceries, calorie tracking, clothes, reciprocal taste |
@@ -639,20 +639,20 @@ Hiro watches their excitement and thinks that the effort was worth it.
 
 **Sources:** 20 + 20  
 **Participants:** Saki, Lilja; later Ume  
-**Functions:** training rivalry, encouragement, explicit friendship, sibling jealousy
+**Functions:** training rivalry, encouragement, explicit friendship, differing relationship labels
 
 Saki challenges Lilja to jump-rope endurance and then teaches more difficult techniques. Lilja repeatedly fails but asks to try again. Saki responds with specific praise and repeated permission to continue.
 
 Part 2 is even clearer. During dance practice Saki tells Lilja what to change, refuses Lilja's apology for repeated mistakes, and celebrates when she succeeds. Saki then says watching Lilja keep trying gives *her* energy.
 
-Ume arrives, sees the intimacy, and asks to become Saki's friend too. Saki says that is impossible because Ume is her sister. Ume immediately channels jealousy into a challenge against Lilja.
+Ume remarks on how close the two seem. Saki says Lilja is her friend, and Ume asks to be her friend too. Saki rejects that request, giving their sisterhood as the reason. Ume’s challenge to Lilja follows a lengthened written exclamation in the same line. Lilja exclaims in surprise. Ume’s exact motive and a resulting contest remain open. [Guarded Ume adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#asking-to-be-a-friend-and-proposing-a-contest).
 
 ### Claim transitions
 
 - **Saki ↔ Lilja — PROMOTE/STRENGTHEN:** explicit friendship and rivalry pedagogy coexist without ambiguity.
 - **Saki — STRENGTHEN:** peer teaching is genuinely reciprocal at the motivational level; the learner's effort feeds the teacher.
 - **Lilja — STRENGTHEN:** she is increasingly comfortable requesting repeated challenge rather than treating failure as proof she should withdraw.
-- **Ume — STRENGTHEN:** sibling category is experienced as special but can still generate comic jealousy when Saki grants peers access under the “friend” label.
+- **Ume — REVISE:** after an explicit request for the friendship label, she proposes a contest. Jealousy is a possible reading alongside teasing or a bid for attention. The written exchange leaves the motive open.
 
 ---
 
@@ -828,7 +828,7 @@ Temari's remembered shopping volume is not enough to infer a socioeconomic profi
 
 - Physical intensity and unusual resilience are longstanding, including childhood outdoor memories.
 - Her care can fail through excessive speed or failure to listen, as with Lilja on the sled.
-- She is comfortable with direct affection and low-stakes jealousy.
+- She voices affection directly and asks for particular relationship labels. In 0047 she next proposes a contest.
 - Childhood desire to make people happy offers a pre-idol continuity line for present aspiration.
 
 ## Hataya Misuzu
@@ -1059,7 +1059,7 @@ Administrative and rivalry speech share imperative force, but her readiness to t
 12. `story_0035/part_02` — Hiro reframes Santa/idol dream-giving.
 13. `story_0043/part_01` — Lilja openly angry with Ume after ignored pace.
 14. `story_0044/part_01` — `千奈ぴょん` teasing and desired address.
-15. `story_0047/part_02` — Saki calls Lilja a friend; Ume's sister-category jealousy.
+15. `story_0047/part_02` — Saki calls Lilja a friend. Ume asks for the same label, receives a different answer and proposes a contest.
 16. `story_0050/part_01` — Kotone sincerely praises Temari's discipline.
 
 Acquisition rule remains unchanged: prefer complete public support-commu segments; timestamp internally; do not require user-side clipping if a complete scene is retrievable.

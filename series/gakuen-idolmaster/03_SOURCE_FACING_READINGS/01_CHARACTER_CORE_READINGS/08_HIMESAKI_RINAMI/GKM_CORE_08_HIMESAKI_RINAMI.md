@@ -1296,3 +1296,7 @@ At the shop Rinami does more than register Mao’s discomfort. She calls Mao’s
 ## Individual recorded addition, sports day and hiroshima recorded evidence — 2026-11-25
 
 **STRENGTHEN, with bounded delivery and staging.** Rinami’s stage work and heard inward uncertainty coexist during the interruption. Backstage outward thanks and privately voiced recognition of the juniors’ help occupy different turns. The chronology keeps the omitted audience cheer, the closing announcement and the later backstage encounter distinct. [case 1](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#the-crowd-scene-reports-a-cheer-that-playback-elides) · [case 2](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#what-rinami-acknowledges-to-the-others-and-to-herself)
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Rinami leaves help available while Hiro tries to make the chocolate on her own. She checks on her later and accepts Hiro’s request to make it together. Hiro judges the first result inadequate. Rinami appraises the finish of the shared attempt. Palms, texture and the full work process have distinct written, reported and sampled-picture limits. [Rinami’s separate Q494 scope](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#rinami-keeps-help-available-and-responds-when-asked).

@@ -734,3 +734,15 @@ In Event 005 part 04, Sena’s L487 is printed `敵よ` and heard as `てきよ`
 ## Spoken and authored contrasts in Event 012 — 2026-11-26
 
 The spoken echo of 免罪符 connects Lilja’s inward account and Saki’s explicit condition in different guarded moments. Sumika’s written ぼきり and the listeners’ ぽきり retain distinct phonetic evidence. K06 marks 一同 as inward and assigns two named takes. Viewer-audible layering leaves the actual audible contributions, the spoken particle near the end of the line and the characters’ earshot open. [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Hiro’s part 04 renewed request and part 05 viewer-audible marked inward dedication occupy different relationships. Rinami’s assent belongs to the joint work, while Temari’s outward hesitation and marked inward alarm in 1-0005 part 01 surround a distinct request for advice. [Scoped register comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Recorded moon-viewing and its remembered quarrel
+
+Misuzu's polite form survives a change in force during the remembered argument. Temari's casual question, startled opening and quieter reservation occupy separate turns. The later long caption and deferral are separate evidence from reported nonlexical sound. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#the-remembered-argument-and-the-present-judgment).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Ume’s suggestion 全部考えてもらった方が早いかも in Event 006 qualifies a possible course. Her later わかりました and choice to think of more mark a distinct response. In support 2-0047 Ume asks for the named friend relationship, then challenges Lilja. Saki’s reply calls Ume her 妹. Its scope is the stated request. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).

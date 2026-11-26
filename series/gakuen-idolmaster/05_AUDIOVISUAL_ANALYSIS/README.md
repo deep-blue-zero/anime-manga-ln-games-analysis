@@ -59,6 +59,8 @@ Six guarded windows extend Event 022’s contrasts in training, practical care a
 
 Two Event 026 dialogue windows and one support window compare the sisters’ own goals, named self-address and retrospective trust. The excerpts keep quoted lyrics, spoken song titles and a past live performance in their respective evidence scopes. [Guarded Event 026 and support comparison](GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
 
+Three original recording windows resolve four named questions within their guards: Hiro P0 Q494 and Q495, Rinami P0 Q494, and Hiro P1 Q601. The cumulative receiving record reaches 55 windows and 64 person-specific answers from 189 submitted windows in 51 jobs. Hiro and Rinami still require separate Gate E decisions. [Guarded Hiro and Rinami adjudication](GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
 ## Historical Hiro and Misuzu rebuild — AVE-FULL-20260910
 
 The imported complete packets retain their source accounting and measurements. The current [Hiro](07_SHINOSAWA_HIRO/README.md) and [Misuzu](11_HATAYA_MISUZU/README.md) entrypoints route subsequent perceptual revisions. Hiro accounts for **33 verified source identities, 636 distinct inspected still points and 20 claim dispositions**; Misuzu accounts for **27 verified source identities, 565 distinct inspected still points and 45 claim dispositions**. Their baselines, specialists, evidence matrices and textual-core addenda incorporate the resulting qualifications.

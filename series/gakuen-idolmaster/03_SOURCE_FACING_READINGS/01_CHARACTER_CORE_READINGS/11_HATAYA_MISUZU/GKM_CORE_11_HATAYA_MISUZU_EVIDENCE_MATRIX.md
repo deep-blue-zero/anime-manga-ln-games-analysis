@@ -121,3 +121,7 @@ This matrix is subordinate to `GKM_CORE_11_HATAYA_MISUZU.md`. It keeps high-load
 ## Guarded readings associated with the current event evidence — 2026-11-26
 
 **STRENGTHEN within the named clips.** Misuzu gives her own reasons for volunteering, examines the proposals, and suggests turning Ume’s idea into practical work. She asks for the floor before proposing that they finish the work together. Her earlier formal apology is separately audible, with the ensuing self-description crossing the first guard. The plan leaves her private motives and the final result open. [Guarded Event 005 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md#ume-and-misuzu-agree-to-work-together)
+
+## Recorded moon-viewing and its remembered quarrel
+
+The two person-specific P0 answers strengthen the bounded contrast between Misuzu's offer, resolve, remembered anger and current self-criticism. Her proposed way to make Temari shine and the authority for it remain open. [Guarded moon-viewing adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#misuzu-gives-up-one-role-and-keeps-an-aim).

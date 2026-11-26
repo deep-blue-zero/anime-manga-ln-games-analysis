@@ -1554,3 +1554,15 @@ Event 026 parts 04 and 05 are distinct guards of the exact `8Nh2Uxg0XUI` edition
 [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
 
 Keep original Q499/Q500/Q502 selection rows and route only actual named advances. Q501 remains a separate part-04 request. No transfer of Lilja or Sumika’s K06 evidence to Saki.
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Event 010 part 04 L444 establishes Hiro’s aim to give good chocolate to important friends. Part 05 L397–402 names China, Ume and Misuzu in her inward dedication. Guarded original-upload locators, the physical printed joins and the separate support 1-0005 part 01 request are bound in the report. [Original recording and primary-script locators](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Recorded moon-viewing and its remembered quarrel
+
+Part 01 L101–114 assigns the reservation to Temari. Part 02 L137–162 keeps the unnamed remaining person, Temari's deferral and Misuzu's reply separate. The original picture at 198.750 s locates the eleven printed glyphs at L153. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#the-remembered-argument-and-the-present-judgment).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Event 006 part 03 L322–423 has original guard [684.000, 754.000) s. Support 2-0047 part 02 L93–164 has picture guard [144.400, 186.466) s and sound guard extending to 186.474 s. Support 2-0000 part 01 L30–118 has guard [0.100, 88.200) s. All three IDs, editions, child bounds and inspection limits are bound in the receipt. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).

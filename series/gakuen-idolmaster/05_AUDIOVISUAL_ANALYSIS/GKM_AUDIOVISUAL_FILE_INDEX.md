@@ -41,6 +41,10 @@ Six guarded windows extend Event 022’s contrasts in training, practical care a
 
 Two Event 026 dialogue windows and one support window compare the sisters’ own goals, named self-address and retrospective trust. The excerpts keep quoted lyrics, spoken song titles and a past live performance in their respective evidence scopes. [Guarded Event 026 and support comparison](GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
 
+[Hiro’s collaboration and inward dedication](GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#hiro-changes-the-criterion-for-finishing) · [Rinami’s separate follow-up](GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#rinami-keeps-help-available-and-responds-when-asked) · [Hiro’s support story question](GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#hiro-asks-temari-for-sharper-advice)
+
+Two guarded windows supply four individual P0 answers. Q733 concerns Temari and Misuzu in part 01. Q734 concerns each in part 02. The total reaches 57 accepted recording windows and 68 person-specific answers. Both characters still require individual Gate E decisions. [Guarded moon-viewing adjudication](GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md).
+
 ## Character routes
 
 The controls column links the claim/evidence matrix, source manifest, completion report, delivery audit, and original internal artifact-checksum manifest. Historical checksums identify their release bytes; they are not blanket assertions that subsequently maintained repository files remain byte-identical.
@@ -99,3 +103,7 @@ The unnumbered [current Kaya Rinha AV reading](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_
 The current perceptual and historical baselines cover the distributed voice-analysis responsibility alongside the dossier.
 
 [Carbon propagation and claim routes](GKM_CARBON_PROPAGATION.md) links the current reading for all fifteen character packages. Resolve Carbon recording and playback IDs in the [recording identity crosswalk](GKM_CARBON_RECORDING_IDENTITY_CROSSWALK.tsv). Match each recording to its [scoped claim disposition](GKM_CARBON_CLAIM_TRANSITIONS.tsv).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Three independently received original windows add 5 person-specific answers. Cumulative receiving reaches 60 recording windows and 73 person-specific answers. Ume’s Q483, Q660 and Q628 have guarded answers. Rinami’s own Q483 answer concerns her prospective checking role. Saki’s own Q660 answer concerns her two distinct responses. [Guarded Ume adjudication](GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).

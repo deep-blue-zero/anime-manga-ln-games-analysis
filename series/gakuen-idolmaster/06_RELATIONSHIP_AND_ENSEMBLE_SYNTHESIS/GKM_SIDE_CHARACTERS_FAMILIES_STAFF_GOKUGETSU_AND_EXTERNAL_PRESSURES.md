@@ -786,7 +786,7 @@ SL1.0 Dear sources give the rival institution an identity that v2.0 built only f
 
 Kuroi is therefore a person with institutional authority, chairman of a 961-backed school linked to 961 Pro's recruitment and to N.I.A., and not only a support-story scout.
 
-The [Kuroi portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KUROI.md) follows his recruiting offers, work with scouts and scrutiny of Gekka’s unanswered messages. The Producer identifies him as Gokugetsu’s chairman and 961 Pro’s president in Saki Dear 013 L169. In Temari Dear 025 the Producer describes a conditional transfer of Temari and Misuzu if Temari loses her contest; Temari reports winning in Dear 026 L289. The [reviewed source scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KUROI_SOURCE_AND_SCOPE.md#k6-sound-credits-and-gate-e) confirms the played compliance reply in a separately published Ume Dear 016 recording. The other two choices remain written evidence.
+The [Kuroi portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KUROI.md) follows his recruiting offers, work with scouts and scrutiny of Gekka’s unanswered messages. The Producer identifies him as Gokugetsu’s chairman and 961 Pro’s president in Saki Dear 013 L169. In Temari Dear 025 the Producer says he promised that Temari and Misuzu would transfer after graduation if their side lost against Rinha’s side. Temari objects to the promise and later declares her own win against Rinha in Dear 026 L289. The [reviewed source scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KUROI_SOURCE_AND_SCOPE.md#k6-sound-credits-and-gate-e) confirms the played compliance reply in a separately published Ume Dear 016 recording. The other two choices remain written evidence.
 
 ## 4.6 Gokugetsu as a counterinstitution
 
