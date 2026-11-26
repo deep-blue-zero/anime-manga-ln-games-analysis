@@ -2,21 +2,23 @@
 title: "Gakuen Idolmaster Multi-Document Synthesis Architecture V2"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "production architecture and phase plan"
-version: "2.5"
+version: "2.6"
 artifact_type: synthesis_architecture
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-11-15"
-revised: "2026-11-15"
-revision_note: "v2.5 (2026-11-15): adds §18.1, the owner's living-character-core policy (event, support and later material is integrated into core bodies as dated, attributed additions; source-to-analysis audit GKM-SAA-104/108). v2.4 (2026-08-17): adds mandatory Phase-6 distributed-character reconstruction for Kaya Rinha, with cross-character provenance, observer triangulation, and explicit dossier promotion rules; preserves the 13-character playable-core architecture"
+last_updated: "2026-11-26"
+revised: "2026-11-26"
+revision_note: "v2.6 (2026-11-26): expands Phase 8 Documents 10 and 11 for spoken and sung vocal characterization under method §§16.5 and 17.3, without changing the phase gates or source boundary. v2.5 (2026-11-15): adds §18.1, the owner's living-character-core policy (event, support and later material is integrated into core bodies as dated, attributed additions; source-to-analysis audit GKM-SAA-104/108). v2.4 (2026-08-17): adds mandatory Phase-6 distributed-character reconstruction for Kaya Rinha, with cross-character provenance, observer triangulation, and explicit dossier promotion rules; preserves the 13-character playable-core architecture"
 governing_method: "GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 created: "2026-08-13"
 ---
 
 # GAKUEN IDOLMASTER MULTI-DOCUMENT SYNTHESIS ARCHITECTURE V2
+
+> **Revision record — v2.6, 2026-11-26.** Expands the planned Phase 8 Documents 10 and 11 to synthesize vocal morphology, nonlexical expression, comic prosody, vocal affect, voice acting and visual-vocal design as specified in the governing method v2.3. The existing phase sequence and Gates E–G remain unchanged.
 
 > **Revision record — v2.5, 2026-11-15.** Adds §18.1, the owner's living-character-core policy: event, support and later evidence enters core bodies as dated, attributed additions, and each core keeps a Phase-4/5 integration-pointer index (source-to-analysis audit GKM-SAA-104 and GKM-SAA-108). No other section changes.
 
@@ -875,6 +877,12 @@ Questions:
 - How does written register become performed character?
 - Which relational shifts are linguistic, vocal, or both?
 - How do public and private voices diverge?
+- How do a character's perceived vocal timbre, register, resonance, weight and habitual delivery reinforce or complicate her visual design, social coding and identity?
+- Under what stimuli, interpersonal conditions and story states does the character use nonlexical vocalizations, laughter, disfluency, extended vowels, comic prosody or other heightened reactions, and how does she return to ordinary speech?
+- How do vocal affect, voice acting, persona, visual acting and audiovisual framing interact? Where do expressed feeling, observed delivery and audience inference diverge?
+- Which evidence-supported vocal patterns and counterexamples materially improve behavioral and dialogue reconstruction?
+
+Apply governing method §16.5. Reuse the character voice close readings, exact-edition adjudications and voice-performance state ledger, with a targeted Hanami Ume pilot before evidence-proportional extension. Include supporting characters with sufficient evidence. Preserve actual listening versus script/still/measurement boundaries and competing interpretations. Do not turn conspicuous vocalizations into universal character tics. This is a Phase 8 synthesis obligation, not an automatic retrospective Gate E blocker.
 
 ### `11_MUSIC_SONG_VOCAL_IDENTITY_AND_DRAMATURGY.md`
 
@@ -884,6 +892,11 @@ Questions:
 - How do songs change with story state?
 - What does the singing self express that dialogue cannot?
 - How do composition, arrangement, lyrics, vocals, choreography, and visual staging co-author character?
+- How do perceived sung timbre, register, phrasing, articulation, breath, nonlexical/ad-lib expression and affect communicate the idol's identity and performance persona?
+- Where do spoken and sung personae converge, contrast or change with story state, and how do vocal delivery, choreography and visual design interact?
+- Which features are attributable to an identified vocal performance, and which are contributions of arrangement, ensemble, recording, mix or authored staging?
+
+Apply governing method §17.3 and the relevant dimensions of §16.5. Distinguish sung and spoken evidence, individual and ensemble allocation, and recording editions. Cross-reference Document 10 for spoken comparisons rather than duplicate observations or infer an isolated vocal change from the finished mix. No universal repertoire expansion or new admission is authorized by this scope.
 
 ### `12_MAJOR_RELATIONSHIP_SYSTEMS_AND_ENSEMBLE_ECOLOGY.md`
 
