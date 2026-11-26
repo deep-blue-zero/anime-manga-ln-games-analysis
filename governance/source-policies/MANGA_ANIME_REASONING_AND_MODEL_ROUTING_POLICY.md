@@ -2,18 +2,24 @@
 title: Manga / Anime Reasoning and Model Routing Policy
 artifact_id: MANGA_ANIME_REASONING_MODEL_ROUTING_POLICY
 artifact_type: reasoning_model_routing_policy
-version: "2.2"
+version: "2.3"
 status: canonical
 scope: corpus-wide cognitive workload classification and model resolution
 created: 2026-08-27
-last_updated: 2026-11-15
+last_updated: 2026-11-26
 maintainer: ChatGPT + user
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-current_provider: OpenAI
-current_model_families: [GPT-5.6, GPT-6]
-current_chatgpt_mapping_verified: 2026-09-13
-current_pricing_verified: 2026-09-13
+provider_snapshots:
+  OpenAI:
+    model_families: [GPT-5.6, GPT-6]
+    product_mapping_verified: 2026-09-13
+    pricing_verified: 2026-09-13
+  Google:
+    product_surface: Antigravity
+    example_models: [Gemini 4 Neon, Gemini 4 Carbon]
+    product_mapping_verified: 2026-11-26
+    pricing_verified: null
 provider_verification_scope: public documentation; not the owner's live account settings
 project_mapping_status: PROPOSED_DEFAULTS_PENDING_PROJECT_CALIBRATION
 drafted_against_commit: b331a3b746622760db394ac1a79367263236336f
@@ -103,7 +109,7 @@ No amount of reasoning substitutes for a missing source, an inaccessible file, o
 
 ## 5. Current provider snapshot and proposed resolutions
 
-**Snapshot scope (2026-10-15).** This snapshot covers OpenAI products only and was last checked on 2026-09-13; its review prompt (Section 9) has passed, so recheck a product fact below before relying on it. Work run by another provider's agents resolves each reasoning class to a configuration documented for its own environment, records the model and effort at the operation or artifact level (Section 12), and assumes no equivalence to the configurations below. Another provider joins this snapshot only with dated official sources, like the OpenAI entries.
+**Snapshot scope.** Sections 5.1–5.2 retain the OpenAI snapshot last checked on 2026-09-13; its review prompt (Section 9) has passed, so recheck a product fact there before relying on it. Section 5.3 adds a Google Antigravity subset checked on 2026-11-26; that date does not refresh the OpenAI entries, verify pricing or establish the owner's live settings. Each provider resolves reasoning classes to configurations documented for its own environment and records actual model and effort at operation level (Section 12). No equivalence across providers is assumed. Further provider facts join only with dated official sources.
 
 ### 5.1 Officially documented product facts, checked 2026-09-13
 
@@ -128,6 +134,30 @@ These statements do not verify the owner's current account, chosen model, remain
 The default long-series arrangement selects a fresh cloud Pro session for substantial monographs, specialist syntheses, and continuous synthesis, and preferentially for architecture. It does not establish that Astra always outperforms Sol at literary analysis. Keep successful sequential configurations unless evidence supports change. Test Astra lower/medium effort against established configurations before assuming the highest setting is required.
 
 Exact exposed effort names must be verified on the chosen surface. No numeric conversion between Chat, Work, Codex, API, or third-party reasoning controls is asserted here.
+
+<a id="google-antigravity-snapshot"></a>
+
+### 5.3 Google Antigravity snapshot, checked 2026-11-26
+
+**Documented controls.** Google lists Gemini 4 Neon and Gemini 4 Carbon. Neon exposes Low, Medium, High and Extra; its App Extra setting maps to Antigravity CLI `xhigh`, including `gemini-4-neon-xhigh`. This is a product-specific mapping, not a cross-provider effort equivalence. Availability must be checked in the actual account. [G1]
+
+Custom subagent configuration documents `model: inherit` as the default, with `flash` and `pro` tiers. It does not document an arbitrary named-model override or a separate effort field; do not translate those tiers into Neon/Carbon settings by assumption. [G2]
+
+`/swarm` is documented as a preview for the App and CLI. Workers default to the conversation's model; requested overrides must be picker-available. The App Members roster displays model IDs, and the CLI board roster displays models. Workers have clean conversations but public briefs, a shared board and, by default, a shared workspace; the coordinator delegates technical work. A waiting worker can change model while keeping its context. [G3]
+
+The CLI `/effort` command and status line describe the active session's effort. These documents do not establish separate Swarm-worker effort control or its inheritance. A parent setting or successful model override therefore does not verify a worker's effort. [G4]
+
+**Dated routing example, not a benchmark result or permanent default:**
+
+| Responsibility | Requested model example | Requested effort |
+|---|---|---|
+| Principal audiovisual analyst | Gemini 4 Neon | Extra |
+| Independent critical reviewer | Gemini 4 Carbon | High |
+| Source-language and character/performance specialists | An available, adequate model resolved for each assignment; the principal's model may qualify | Resolve from the assignment and exposed controls |
+
+These are candidates for an owner-authorized AV run, conditional on each participant's verified source capabilities. They do not establish that Neon is a better literary analyst or Carbon a better critic. Use the [AV reconciliation protocol's Swarm route](MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md#21-antigravity-swarm-execution-route) for ownership, independent observations and integration.
+
+Resolve labels against the current picker and official documentation when a freshness trigger fires. Preserve analytical roles and stable reasoning classes when names change; record any replacement and its reason prospectively under Sections 8–10. If a requested configuration cannot be established, disclose the mismatch and use an adequate already-authorized route, including separate sessions when needed. Do not silently substitute a model or promote requested effort into observed provenance. Ordinary inherited subagents remain valid when they meet the same independence and capability requirements.
 
 ## 6. Provider guidance versus project judgment
 
@@ -190,13 +220,22 @@ At stage level, record actual choices only when observed:
 ```yaml
 execution_record:
   stage_id: "<stable stage ID>"
-  provider: OpenAI
+  participant_id: "<worker or session ID>"
+  analytical_role: "<assigned responsibility>"
+  provider: "<observed provider or UNKNOWN>"
   surface: "<observed product surface>"
+  model_label_requested: null
+  reasoning_control_requested: null
   model_label_observed: null
+  model_id_observed: null
   reasoning_control_observed: null
+  configuration_basis: "<observed inheritance, override, or UNKNOWN>"
   observation_basis: "not exposed in this session"
-  model_guidance_verified_date: "2026-09-13"
+  settings_observed_at: null
+  model_guidance_verified_date: "<date applicable to this provider and surface>"
 ```
+
+Requested settings and observed settings are separate. Record a worker's UI/roster or runtime evidence as the observation basis; a prompt, coordinator assertion or model self-description alone does not verify execution. Unexposed values remain null or `UNKNOWN`, with the reason. Reusing a project recommendation is not proof that a runtime inherited it. Record material configuration changes at their actual stage boundary; a model switch in a retained conversation does not create a fresh independent context. These are documentation fields in existing execution records, not a new executable schema or a requirement to backfill historical artifacts.
 
 The legacy `resolved_reasoning_option` remains readable as a historical combined label. Do not reinterpret it as evidence of unobserved settings. Retain `pro_justification`, `reasoning_override`, and `reasoning_override_reason` where already used; new profiles may use a more general `quality_first_rationale`.
 
@@ -277,7 +316,7 @@ Generation completes only the assigned responsibility. The handoff and integrati
 
 ## Official-source references
 
-These are dated product references, not literary evidence or permanent product guarantees. Accessed 2026-09-13.
+These are dated product references, not literary evidence or permanent product guarantees. OpenAI references were checked on 2026-09-13; Google references were checked on 2026-11-26. Neither set verifies a live account or run.
 
 - [O1] OpenAI Help Center, *GPT-5.6 and GPT-6 Pro in ChatGPT*: `https://help.openai.com/en/articles/20001354-gpt-56-in-chatgpt`
 - [O2] OpenAI Help Center, *Managing usage with GPT-6 Astra in Work and Codex*: `https://help.openai.com/en/articles/20001516-managing-usage-with-gpt-6-astra-in-work-and-codex`
@@ -285,7 +324,16 @@ These are dated product references, not literary evidence or permanent product g
 - [O4] OpenAI Help Center, *ChatGPT Rate Card (Enterprise token-based pricing)*: `https://help.openai.com/en/articles/20001415`
 - [O5] OpenAI, [ChatGPT Work admin FAQ - Usage and cost](https://learn.chatgpt.com/docs/enterprise/work-admin-faq#usage-and-cost), checked 2026-09-13. Distinguishes shared Work/Codex usage and the shared workspace credit allocation applicable to eligible credit-based agreements.
 
+- [G1] Google Antigravity, [Choose a model](https://antigravity.google/docs/models): current labels and product-specific effort controls.
+- [G2] Google Antigravity, [Custom subagents](https://antigravity.google/docs/subagents): documented model tiers and context behavior.
+- [G3] Google Antigravity, [Swarm](https://antigravity.google/docs/swarm): worker models, shared communications, ownership and roster inspection.
+- [G4] Google Antigravity, [Effort command](https://antigravity.google/docs/cli/commands/effort/): active-session effort inspection and controls.
+
 ## Changelog
+
+### v2.3 - 2026-11-26 - Google Antigravity snapshot and worker provenance
+
+Adds a dated Google snapshot with Neon/Carbon routing examples, distinguishes ordinary subagent tiers from Swarm worker model selection, and separates requested settings from observed per-participant model and effort. Replaces single-provider snapshot metadata with provider-scoped dates while preserving the older OpenAI verification boundary. Keeps model renames prospective, capability checks mandatory and historical execution records intact; no model ranking, new reasoning class or universal effort mapping is adopted.
 
 ### v2.2 - 2026-11-15 - Multi-agent source reading
 
