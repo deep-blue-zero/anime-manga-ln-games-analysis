@@ -40,3 +40,7 @@ Start with the integrated baseline. Use the textual core and AV addendum togethe
 [2026-11-12 textual claim erratum](GKM_UME_AV_TEXTUAL_CLAIM_ERRATUM_20261112.md) qualifies UME-AV09 and UME-AV25 without reopening perceptual inspection.
 
 Retained release checksums describe historical ZIP member bytes and package paths. The [recovery audit](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records recovered originals and repository derivatives.
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+Ume says an idol should answer her own expectations and addresses herself by her full name. The scenario has no inward flag. Who else heard the turn remains open. Ume describes her excitement, proposes new partners and says she aims to cover all 765 Pro songs. The spoken title exchange and the earlier stage performance have different scopes. Ume’s support part 01 recollection distinguishes following Saki from dreaming specifically of idolhood. Ume affirms her trust and says she wants to find her own answer. The onset of that aspiration remains undated. [Guarded Event 026 and support comparison](../GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

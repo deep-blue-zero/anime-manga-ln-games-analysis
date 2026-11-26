@@ -74,3 +74,7 @@ Formal shorthand:
 - support-card evidence about casual register and ordinary friendship;
 - cast-wide distributive comparison of wealth, access, production, and institutional legitimacy;
 - how habitual `ごきげんよう` is distributed across addressees beyond the Producer, for whom repeated use is already textually established.
+
+## Guarded council dialogue — 2026-11-26
+
+China accepts responsibility for the paperwork lapse and explains Ume’s assistance. She later asks the seniors for a chance for all three juniors to answer their concerns. The two guarded scenes distinguish her earlier apology from the later request. China promises to become a dependable president by spring and then asks Ume and Misuzu for continued help. The proposal to widen their group and invite Hiro is prospective. [Guarded Event 025 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md) Read the case report for caption, audition, stage and upper-edge limits.

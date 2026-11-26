@@ -1751,3 +1751,7 @@ No definitive Phase-7 character monograph should be promoted until Phase 6 is su
 ## Care, challenge and joking between different partners — 2026-11-25
 
 In `adv_csprt-2-0018_02`, Saki offers practical help and apologizes, and Temari treats the difficulties of the exercise as her own. That exchange leaves room for the rivals’ renewed challenge. Temari’s inward outburst is audience-audible. The later outward answer has a more even delivery. The rendered view leaves physical taping open. In `adv_csprt-2-0067_02`, Ume’s inference takes up the explanation Temari actually gives. Ume then recognizes that she has teased too much. The earlier voiced inner comparison is unavailable as an explicit communication to Ume. Treat these two links to Temari as particular responses to the present partner. They leave the reasons for each woman’s intervention and cross-interlocutor generalizations open. [Five support-card adjudications](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+Saki offers a practical goal and endorses a larger one Ume names. The support comparison brings out Ume’s expressed trust while she reserves the work of deciding what she wants. These are observable choices within particular encounters. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

@@ -43,6 +43,8 @@ Supporting measurements live in `SUPPORTING_DATA/` where data exist. Textual-cor
 
 [Subsequent story-event playback](GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) covers five guarded parts of Events 002, 003, 004 and 008. It records scoped corrections to performed dialogue, music placement and staging.
 
+China accepts responsibility for the paperwork lapse and explains Ume’s assistance. She later asks the seniors for a chance for all three juniors to answer their concerns. The two guarded scenes distinguish her earlier apology from the later request. Tsubame directs Ume to finish collecting the paperwork. Her recorded recollection of entrusting the school to the juniors differs from her present questions about their readiness. Her concern leaves the graduation decision outside this exchange. China promises to become a dependable president by spring and then asks Ume and Misuzu for continued help. The proposal to widen their group and invite Hiro is prospective. [Guarded Event 025 adjudication](GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 The [guarded sports-day and Hiroshima reviews](GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) track performed dialogue, staging and game music separately across ten exact windows. They file limited answers for China, Hiro, Rinami, Ume and Misuzu. The baseball cheer melody itself falls across a scene ellipsis.
 
 The guarded Event 022 and 024 review adds partial recorded answers for Arimura Mao, Fujita Kotone, Hanami Ume, Hataya Misuzu and Juo Sena. It distinguishes fever and recollection, an older-friend exchange, a two-person refusal, a spoken three-person title, an instrumental quote and reported reception. It leaves the concert's sung performance, later uptake, and separate character requirements open. Two existing exact official trio MV reviews also support a shared studio-vocal and authored-picture comparison without adding attendance to those events. [Guarded Event 022 and 024 adjudication](GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
@@ -50,6 +52,8 @@ The guarded Event 022 and 024 review adds partial recorded answers for Arimura M
 Four guarded Event 023 windows separate a remembered request, Temari's gift and Hiro's distinct mission reports. The recorded delivery establishes which register shifts belong to Misuzu, Temari and Hiro. The two pieces on the in-story disc are reported, with the disc's sound and later playback still open. [Guarded Event 023 adjudication](GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 Six guarded windows extend Event 022’s contrasts in training, practical care and chosen company, and give Mao’s separate Event 003 last-summer reflection a recorded comparison. The source and recording distinguish spoken requests, inward thought, instrumental score and a reported photograph. [Guarded care and summer adjudication](GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+Two Event 026 dialogue windows and one support window compare the sisters’ own goals, named self-address and retrospective trust. The excerpts keep quoted lyrics, spoken song titles and a past live performance in their respective evidence scopes. [Guarded Event 026 and support comparison](GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 ## Historical Hiro and Misuzu rebuild — AVE-FULL-20260910
 

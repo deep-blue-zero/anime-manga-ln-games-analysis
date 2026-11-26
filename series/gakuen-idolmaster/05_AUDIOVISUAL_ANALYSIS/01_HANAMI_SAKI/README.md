@@ -38,3 +38,7 @@ Start with the integrated baseline. Use the textual core and AV addendum togethe
 The recovered package guide is historical. This README follows the current repository layout.
 
 Retained release checksums describe historical ZIP member bytes and package paths. The [recovery audit](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records recovered originals and repository derivatives.
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+Saki speaks a lyric about an unseen future, then sets an audience goal and asks the group to rest. The listening scope includes the ending of her earlier conclusion. It leaves its opening outside the window. Saki says the performance felt shared with the audience. She encourages Ume’s wish to try more covers and answers her in spoken wordplay. The audience and performance reach this exchange through the participants’ accounts. [Guarded Event 026 and support comparison](../GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

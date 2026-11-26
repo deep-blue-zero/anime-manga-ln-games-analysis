@@ -473,6 +473,8 @@ R2 resolves the former late-Dear quality exception. The exact 720p files strengt
 | P0 | `adv_event_005_main-05` | Sena's inability to read Ume; surprise becoming excitement |
 | P1 | `adv_event_005_main-01` | pseudo-agency governance debate; Tsubame/Rinami criticism vs Sena confidence |
 
+**Event 005 written clarification (2026-11-26).** The part 04 P0 distinguishes Saki’s criticism, Tsubame’s recruitment suggestion and Sena’s refusal (L367–L416, L474–L487). The part 05 P0 asks how Sena delivers her unresolved assessment and her question about why she is excited (L401–L427). Whether the delivery distinguishes the two is an inspection question. The written source leaves the cause of the excitement open.
+
 <!-- PHASE4_EVENTS_006_012_2026-08-23 -->
 ## Phase 4 — Events 006–012 AV verification additions
 
@@ -1120,3 +1122,19 @@ These scoped determinations preserve the original request text and individual Ga
 | `adv_event_003_main-05` · Q468 | **STRENGTHEN**, Mao’s inward assessment of her last summer, with an outward response around the photo exchange. Sumika’s contextual role earns no additional numbered scope. |
 
 These four scoped answers preserve the earlier and continuing request boundaries. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+| Person and scope | Exact A1 part | Disposition |
+| --- | --- | --- |
+| Hanami Ume Q565 P0 | `adv_event_026_main-04` | **STRENGTHEN.** Named self-address. Earshot and physical movement remain open. |
+| Hanami Saki Q565 P0 | `adv_event_026_main-04` | **STRENGTHEN.** Spoken lyric quotation, practical goal and rest advice. The beginning of the older conclusion is outside the lower guard. |
+| Hanami Ume Q566 P0 | `adv_event_026_main-05` | **STRENGTHEN.** Spoken excitement and proposed cover repertory. |
+| Hanami Saki Q566 P0 | `adv_event_026_main-05` | **STRENGTHEN.** Her reported audience unity and encouragement. |
+| Hanami Ume Q760 P0 | `adv_csprt-3-0052_01` | **STRENGTHEN.** Expressed trust and wish to find her own answer. Exact sound of the next chapter stays bounded to the cut. |
+
+[Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded council succession — current disposition
+
+The accepted person scopes are China Q562, Tsubame Q562, China Q563. Q562 uses the complementary Q01 and Q02 clips for each named person. Q563 uses Q03. Q577 remains open for China and Misuzu in part 03, and Q578 remains open for China in part 04. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)

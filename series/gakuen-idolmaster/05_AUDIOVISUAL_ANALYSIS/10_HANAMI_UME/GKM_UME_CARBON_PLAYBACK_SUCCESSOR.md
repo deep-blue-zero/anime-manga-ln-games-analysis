@@ -71,3 +71,7 @@ Ume’s direct remembered explanation of shared loss and person-specific candor 
 ## Recorded Event 022 and 024 evidence — 2026-11-25
 
 Q560 and Q561 cover Ume's guarded Shibuya exchanges, including her own invitation, two-person refusal count and share in the three-voice title call. The backstage recording carries an instrumental quotation of the title. The concert's sung Ume sample and independent reception evidence remain open. The distinct official trio MV supports changing vocal foreground and authored focality. Ume's athletic preparation and shared hook remain separate from the event performance. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+Ume says an idol should answer her own expectations and addresses herself by her full name. The scenario has no inward flag. Who else heard the turn remains open. Ume describes her excitement, proposes new partners and says she aims to cover all 765 Pro songs. The spoken title exchange and the earlier stage performance have different scopes. Ume’s support part 01 recollection distinguishes following Saki from dreaming specifically of idolhood. Ume affirms her trust and says she wants to find her own answer. The onset of that aspiration remains undated. [Guarded Event 026 and support comparison](../GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

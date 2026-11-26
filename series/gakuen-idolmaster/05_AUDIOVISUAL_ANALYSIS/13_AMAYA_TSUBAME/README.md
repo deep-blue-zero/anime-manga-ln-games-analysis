@@ -17,6 +17,8 @@ last_updated: "2026-11-25"
 
 Current claim wording and item-level completion are recorded in the [Carbon playback successor](GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md). The baseline and Phase 3 completion report retain their original inspection boundary. The later review records Tsubame urging Hiro to rest, her encounter with Kotone at the end of a shift, China’s own description of individualized instruction and the reciprocal training contrast with Saki. Each finding is limited to its registered support window. [Four support-scene adjudications](GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
+Tsubame directs Ume to finish collecting the paperwork. Her recorded recollection of entrusting the school to the juniors differs from her present questions about their readiness. Her concern leaves the graduation decision outside this exchange. [Guarded Event 025 adjudication](../GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
 Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.

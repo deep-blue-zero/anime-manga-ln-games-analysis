@@ -21,6 +21,8 @@ A quiet reply to Hiro turns into a wider class appeal in Event 014. Saki’s lat
 
 Begin with the [current Carbon update](GKM_CHINA_CARBON_AV_UPDATE_20261125.md) for later source bindings, dialogue and performance limits and current sufficiency. The original specialists and controls below preserve the Phase 3 delivery.
 
+China accepts responsibility for the paperwork lapse and explains Ume’s assistance. She later asks the seniors for a chance for all three juniors to answer their concerns. The two guarded scenes distinguish her earlier apology from the later request. China promises to become a dependable president by spring and then asks Ume and Misuzu for continued help. The proposal to widen their group and invite Hiro is prospective. [Guarded Event 025 adjudication](../GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.
 
 | Purpose | Files |
