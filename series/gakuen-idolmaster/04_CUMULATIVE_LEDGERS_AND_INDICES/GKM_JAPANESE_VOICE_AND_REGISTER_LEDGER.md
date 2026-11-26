@@ -738,3 +738,7 @@ The spoken echo of 免罪符 connects Lilja’s inward account and Saki’s expl
 ## Hiro and Rinami’s recorded Event 010 and support evidence
 
 Hiro’s part 04 renewed request and part 05 viewer-audible marked inward dedication occupy different relationships. Rinami’s assent belongs to the joint work, while Temari’s outward hesitation and marked inward alarm in 1-0005 part 01 surround a distinct request for advice. [Scoped register comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Recorded moon-viewing and its remembered quarrel
+
+Misuzu's polite form survives a change in force during the remembered argument. Temari's casual question, startled opening and quieter reservation occupy separate turns. The later long caption and deferral are separate evidence from reported nonlexical sound. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#the-remembered-argument-and-the-present-judgment).

@@ -1177,3 +1177,7 @@ Keep original Q499/Q500/Q502 selection rows and route only actual named advances
 | Shinosawa Hiro P1 Q601 | Support 1-0005 part 01 L40–55, L70, L78, L98, L111–124 | C |
 
 A counts once as a recording window and twice as a person-specific answer. The existing selection rows and other participants retain their prior scope. [Guarded adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Recorded moon-viewing and its remembered quarrel
+
+Two guarded windows supply four individual P0 answers. Q733 concerns Temari and Misuzu in part 01. Q734 concerns each in part 02. The total reaches 57 accepted recording windows and 68 person-specific answers. Both characters still require individual Gate E decisions. The earlier queue rows record why these questions were asked. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md).

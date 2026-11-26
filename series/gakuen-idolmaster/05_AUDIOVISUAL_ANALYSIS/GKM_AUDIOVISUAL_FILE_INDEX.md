@@ -43,6 +43,8 @@ Two Event 026 dialogue windows and one support window compare the sisters’ own
 
 [Hiro’s collaboration and inward dedication](GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#hiro-changes-the-criterion-for-finishing) · [Rinami’s separate follow-up](GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#rinami-keeps-help-available-and-responds-when-asked) · [Hiro’s support story question](GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#hiro-asks-temari-for-sharper-advice)
 
+Two guarded windows supply four individual P0 answers. Q733 concerns Temari and Misuzu in part 01. Q734 concerns each in part 02. The total reaches 57 accepted recording windows and 68 person-specific answers. Both characters still require individual Gate E decisions. [Guarded moon-viewing adjudication](GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md).
+
 ## Character routes
 
 The controls column links the claim/evidence matrix, source manifest, completion report, delivery audit, and original internal artifact-checksum manifest. Historical checksums identify their release bytes; they are not blanket assertions that subsequently maintained repository files remain byte-identical.

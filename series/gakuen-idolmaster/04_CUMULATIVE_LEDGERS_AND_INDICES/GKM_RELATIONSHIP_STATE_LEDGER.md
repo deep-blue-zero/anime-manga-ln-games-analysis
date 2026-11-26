@@ -991,3 +991,7 @@ Saki projects her call and criticizes the inefficiency she has been watching as 
 ## Hiro and Rinami’s recorded Event 010 and support evidence
 
 In Event 010 part 04 Hiro says she wants to try making the chocolate alone when Rinami offers help. After judging her first result unsuitable for her friends, Hiro explicitly asks Rinami to make it with her. After they finish she contrasts this occasion with her usual emptiness and says it was enjoyable. The scene leaves the distinct contributions of purpose, companionship and success open. Rinami’s separate assent follows the changed request. The named dedication, friends’ live reactions, and subsequent return gifts are separate sides of the Event 010 exchange. [Event 010 relation evidence](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Recorded moon-viewing and its remembered quarrel
+
+A shared evening and ordinary care coexist with Temari's reservation and Misuzu's unexplained future method. Temari gives the first serious quarrel value. Misuzu applies the view to one remaining unnamed person and accepts postponement in this exchange. The words establish separate choices about companionship and the timing of further action. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#the-remembered-argument-and-the-present-judgment).

@@ -218,3 +218,7 @@ The received person scopes are Hanami Saki P0 Q499, Hanami Saki P0 Q500, Katsura
 ## Hiro and Rinami’s recorded Event 010 and support evidence
 
 Three original recording windows resolve four named questions within their guards: Hiro P0 Q494 and Q495, Rinami P0 Q494, and Hiro P1 Q601. The cumulative receiving record reaches 55 windows and 64 person-specific answers from 189 submitted windows in 51 jobs. Hiro and Rinami still require separate Gate E decisions. [Reviewed recording basis](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Recorded moon-viewing and its remembered quarrel
+
+Two guarded windows supply four individual P0 answers. Q733 concerns Temari and Misuzu in part 01. Q734 concerns each in part 02. The total reaches 57 accepted recording windows and 68 person-specific answers. Both characters still require individual Gate E decisions. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md).

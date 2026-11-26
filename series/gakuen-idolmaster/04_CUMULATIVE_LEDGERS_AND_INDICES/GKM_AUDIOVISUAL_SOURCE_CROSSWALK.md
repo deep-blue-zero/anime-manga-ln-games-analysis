@@ -548,3 +548,7 @@ The retained Japanese original Jzu7bW8VXvA supplies six distinct windows across 
 ## Hiro and Rinami’s recorded Event 010 and support evidence
 
 The retained Event 010 game capture XW1e6pWd_TU supplies distinct part 04 [805.00, 997.65) and part 05 [1204.55, 1331.15) parent bounds. The separate support upload k7YRmB0RNKU supplies [0.45, 63.20) for 1-0005 part 01. These clocks belong to their named recorded editions. [Edition and recorded guards](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Recorded moon-viewing and its remembered quarrel
+
+The Japanese recording T-OtHXvvl68 binds support story 3-0033 part 01 to [0.200, 97.900) and part 02 to [98.200, 202.983) in original seconds. The source and child clocks retain distinct audio and picture qualifications. Part 03 begins outside these guards. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md).

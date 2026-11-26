@@ -1759,3 +1759,7 @@ Saki offers a practical goal and endorses a larger one Ume names. The support co
 ## Coaching and reciprocally chosen help in Event 012
 
 Lilja’s agreement to follow a mentor differs from her requests to Sumika. She and Sumika specify different forms of support, agree to them locally and keep their larger-stage promise prospective. Saki’s recalled demand for disclosure is a different intervention from the wish to help that she later describes. The two juniors’ use of her help leaves the pressure of the demand visible. [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Recorded moon-viewing and its remembered quarrel
+
+A shared evening and ordinary care coexist with Temari's reservation and Misuzu's unexplained future method. Temari gives the first serious quarrel value. Misuzu applies the view to one remaining unnamed person and accepts postponement in this exchange. The words establish separate choices about companionship and the timing of further action. The cases leave the shared unit's restoration and the later interlocutor unresolved. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md).

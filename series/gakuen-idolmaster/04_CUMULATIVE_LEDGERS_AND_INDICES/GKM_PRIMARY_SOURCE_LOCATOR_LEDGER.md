@@ -1558,3 +1558,7 @@ Keep original Q499/Q500/Q502 selection rows and route only actual named advances
 ## Hiro and Rinami’s recorded Event 010 and support evidence
 
 Event 010 part 04 L444 establishes Hiro’s aim to give good chocolate to important friends. Part 05 L397–402 names China, Ume and Misuzu in her inward dedication. Guarded original-upload locators, the physical printed joins and the separate support 1-0005 part 01 request are bound in the report. [Original recording and primary-script locators](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Recorded moon-viewing and its remembered quarrel
+
+Part 01 L101–114 assigns the reservation to Temari. Part 02 L137–162 keeps the unnamed remaining person, Temari's deferral and Misuzu's reply separate. The original picture at 198.750 s locates the eleven printed glyphs at L153. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#the-remembered-argument-and-the-present-judgment).
