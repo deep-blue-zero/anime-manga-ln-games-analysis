@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 245; `STALE` 1; `SUPERSEDED` 43
+- Recorded totals: `CANDIDATE` 246; `STALE` 1; `SUPERSEDED` 43
 
 ## Namespaces
 
@@ -60,7 +60,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`silent-witch`](reconstruction_index/silent-witch.md) | 4 | 4 |
 | [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
 | [`sound-euphonium`](reconstruction_index/sound-euphonium.md) | 1 | 1 |
-| [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 3 | 3 |
+| [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 4 | 4 |
 | [`three-days-of-happiness`](reconstruction_index/three-days-of-happiness.md) | 5 | 5 |
 | [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 2 | 2 |
 | [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 9 | 19 |
@@ -306,6 +306,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `solo-leveling:yoo-jinho@original-korean-novel` | [`solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01`](reconstruction_index/solo-leveling.md#solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01) | `CANDIDATE` | `C` | `923ee527a9f594b30e751e697c62a0b549eb77dc` |
 | `sound-euphonium:kaori-nakaseko@original-novels` | [`sound-euphonium-kaori-nakaseko-original-novels-hibike-monograph-20261114-01`](reconstruction_index/sound-euphonium.md#sound-euphonium-kaori-nakaseko-original-novels-hibike-monograph-20261114-01) | `CANDIDATE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
 | `the-idolmaster:hiwatari-kanae@mobile-game` | [`the-idolmaster-hiwatari-kanae-mobile-game-v2-monograph-20261125-02`](reconstruction_index/the-idolmaster.md#the-idolmaster-hiwatari-kanae-mobile-game-v2-monograph-20261125-02) | `CANDIDATE` | `B` | `9ca41fa087692ae99d6120163c4200d789c65af8` |
+| `the-idolmaster:juo-kunio@mobile-game` | [`the-idolmaster-juo-kunio-mobile-game-v2-monograph-20261126-01`](reconstruction_index/the-idolmaster.md#the-idolmaster-juo-kunio-mobile-game-v2-monograph-20261126-01) | `CANDIDATE` | `C` | `2c80597a054882dc1e6b0e9453c8a3eb24374ad8` |
 | `the-idolmaster:kanzaki-ranko@cinderella-girls-mobile-games` | [`the-idolmaster-kanzaki-ranko-cinderella-girls-mobile-games-monograph-audit-20261123-01`](reconstruction_index/the-idolmaster.md#the-idolmaster-kanzaki-ranko-cinderella-girls-mobile-games-monograph-audit-20261123-01) | `CANDIDATE` | `B` | `85301d53c984037162f87145ae571879a0ce8794` |
 | `the-idolmaster:yonai-p@u149-anime` | [`the-idolmaster-yonai-p-u149-anime-20261023-01`](reconstruction_index/the-idolmaster.md#the-idolmaster-yonai-p-u149-anime-20261023-01) | `CANDIDATE` | `D` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |
 | `three-days-of-happiness:himeno@original-novel` | [`three-days-of-happiness-himeno-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-himeno-original-novel-monograph-20261119-01) | `CANDIDATE` | `D` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
