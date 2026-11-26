@@ -496,3 +496,7 @@ The retained support 2-0066 part 01 recording supplies a bounded transition from
 ## Guarded care, chosen company and a summer photograph — 2026-11-25
 
 **STRENGTHEN.** The contexts distinguish Mao’s projected polite reply, weakened reassurance, inward recognition of avoidance and later outward admission. Kotone’s directions and sibling-care explanation have guarded witnesses. In the separate beach scene a shutter effect marks a change from voiced thought for the player to present conversation. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+**STRENGTHEN.** Saki speaks a lyric about an unseen future, then sets an audience goal and asks the group to rest. The listening scope includes the ending of her earlier conclusion. It leaves its opening outside the window. Ume says an idol should answer her own expectations and addresses herself by her full name. The scenario has no inward flag. Who else heard the turn remains open. Ume’s support part 01 recollection distinguishes following Saki from dreaming specifically of idolhood. Ume affirms her trust and says she wants to find her own answer. The onset of that aspiration remains undated. The next scene’s opening Saki call belongs to support part 02. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

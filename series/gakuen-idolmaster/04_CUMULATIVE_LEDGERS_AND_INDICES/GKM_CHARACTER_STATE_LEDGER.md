@@ -865,3 +865,7 @@ Like their earlier written support readings, these observations apply to the nam
 ## Guarded care, chosen company and a summer photograph — 2026-11-25
 
 **REVISE.** Mao’s perceived last chance helps explain why she continues training. When Kotone offers help, Mao says she can manage and worries about causing trouble. She later judges herself against her role as a third-year. Kotone leads care, and Mao asks for the light to stay on. Mao attends Sena’s live with company and then states how she wants to face her and herself. Clinical cause, later action and permanence remain open. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+**STRENGTHEN.** Ume says an idol should answer her own expectations and addresses herself by her full name. The scenario has no inward flag. Who else heard the turn remains open. Ume’s support part 01 recollection distinguishes following Saki from dreaming specifically of idolhood. Ume affirms her trust and says she wants to find her own answer. The onset of that aspiration remains undated. The after-show cover plan is a proposed aim. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

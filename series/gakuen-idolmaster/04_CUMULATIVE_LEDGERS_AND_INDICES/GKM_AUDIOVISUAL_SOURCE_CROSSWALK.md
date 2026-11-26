@@ -528,3 +528,7 @@ Retained Japanese parent video `0Ir39nG7XgI` supplies four exact scene witnesses
 ## Guarded care, chosen company and a summer photograph — 2026-11-25
 
 The retained `0GYf2Vyyr-Q` parent provides five separately guarded windows in Event 022 parts 01 and 05. The `zEWk-pQjFOQ` parent supplies a distinct Event 003-05 guard. Both have named earlier nonoverlapping chapter reviews. The adjudication records exact parent-child digests, guarded clocks and actual modes of inspection. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+Event 026 parts 04 and 05 are distinct guards of the exact `8Nh2Uxg0XUI` edition. Support `adv_csprt-3-0052_01` is the substantive dialogue scope in the `LfFlLuVdqz4` guard. The opening of the following chapter retains a separate locator. The adjudication identifies half-open parent ranges and exact take hashes. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

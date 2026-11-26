@@ -965,3 +965,7 @@ In support `2-0018_02` Saki’s care and apology precede Temari reclaiming respo
 ## Guarded care, chosen company and a summer photograph — 2026-11-25
 
 **STRENGTHEN.** The care sequence permits a specific request from Mao once Kotone has taken the lead. Mao and Kotone take different actions in attending Sena’s live and describing it afterward. In Event 003, Sumika's candid photo report and later group invitation are distinct acts. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+**STRENGTHEN.** The sisters can propose distinct goals in front of their colleagues. Ume can accept Saki’s reassurance and keep her question open. Temari’s closing Event 026 line changes her earlier singular formulation to a plural one. The Japanese caption emphasizes the plural suffix. The exact people she has in mind and their future stage remain open. The collective dialogue elsewhere in the excerpt assigns Saki and Ume, while the mixed laughter leaves exact contributor separation open. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

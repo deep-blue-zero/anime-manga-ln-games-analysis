@@ -877,7 +877,7 @@ This makes the cover event structurally parallel to Event 024. In both cases, an
 
 ## 7.5 Ume turns external lineage into self-address
 
-After Saki's intervention, Ume privately tells herself:
+After Saki’s intervention, Ume addresses herself by name. She gives three thoughts about what she can do next.
 
 - her own future is still unseen;
 - an idol must answer even her own expectations;
@@ -898,6 +898,8 @@ The trio's success is not only that they performed the song well. It is that the
 This is the same circulatory legacy grammar seen in `ENDLESS DANCE`:
 
 `receive -> interpret -> perform -> widen access`.
+
+Saki speaks a lyric about an unseen future, then sets an audience goal and asks the group to rest. The listening scope includes the ending of her earlier conclusion. It leaves its opening outside the window. Ume says an idol should answer her own expectations and addresses herself by her full name. The scenario has no inward flag. Who else heard the turn remains open. Ume describes her excitement, proposes new partners and says she aims to cover all 765 Pro songs. The spoken title exchange and the earlier stage performance have different scopes. Temari’s closing Event 026 line changes her earlier singular formulation to a plural one. The Japanese caption emphasizes the plural suffix. The exact people she has in mind and their future stage remain open. The collective dialogue elsewhere in the excerpt assigns Saki and Ume, while the mixed laughter leaves exact contributor separation open. [Guarded Event 026 and support comparison](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 ### Event 026 thesis
 

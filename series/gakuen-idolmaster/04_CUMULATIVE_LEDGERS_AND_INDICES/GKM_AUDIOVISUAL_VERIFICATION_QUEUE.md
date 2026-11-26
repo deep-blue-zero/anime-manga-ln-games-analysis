@@ -1120,3 +1120,15 @@ These scoped determinations preserve the original request text and individual Ga
 | `adv_event_003_main-05` · Q468 | **STRENGTHEN**, Mao’s inward assessment of her last summer, with an outward response around the photo exchange. Sumika’s contextual role earns no additional numbered scope. |
 
 These four scoped answers preserve the earlier and continuing request boundaries. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+| Person and scope | Exact A1 part | Disposition |
+| --- | --- | --- |
+| Hanami Ume Q565 P0 | `adv_event_026_main-04` | **STRENGTHEN.** Named self-address. Earshot and physical movement remain open. |
+| Hanami Saki Q565 P0 | `adv_event_026_main-04` | **STRENGTHEN.** Spoken lyric quotation, practical goal and rest advice. The beginning of the older conclusion is outside the lower guard. |
+| Hanami Ume Q566 P0 | `adv_event_026_main-05` | **STRENGTHEN.** Spoken excitement and proposed cover repertory. |
+| Hanami Saki Q566 P0 | `adv_event_026_main-05` | **STRENGTHEN.** Her reported audience unity and encouragement. |
+| Hanami Ume Q760 P0 | `adv_csprt-3-0052_01` | **STRENGTHEN.** Expressed trust and wish to find her own answer. Exact sound of the next chapter stays bounded to the cut. |
+
+[Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

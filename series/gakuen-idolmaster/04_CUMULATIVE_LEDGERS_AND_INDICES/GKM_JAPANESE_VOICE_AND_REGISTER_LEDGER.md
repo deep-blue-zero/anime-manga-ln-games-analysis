@@ -716,3 +716,7 @@ Event 022 distinguishes Mao's half-sleep L66/L70, Kotone's L68 echo, Mao's remem
 ## Guarded care, chosen company and a summer photograph — 2026-11-25
 
 **STRENGTHEN.** Mao’s polite answer to the trainer, inward last-chance formulation and spoken acceptance of company have separate audiences. Kotone addresses Mao as her senior and uses familiar practical direction. Kotone’s offers of a book and a lullaby are spoken. Mao’s answer and her later request for a light are separate. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+**STRENGTHEN.** Saki speaks a lyric about an unseen future, then sets an audience goal and asks the group to rest. The listening scope includes the ending of her earlier conclusion. It leaves its opening outside the window. Ume says an idol should answer her own expectations and addresses herself by her full name. The scenario has no inward flag. Who else heard the turn remains open. Ume’s support part 01 recollection distinguishes following Saki from dreaming specifically of idolhood. Ume affirms her trust and says she wants to find her own answer. The onset of that aspiration remains undated. The next scene’s opening Saki call belongs to support part 02. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
