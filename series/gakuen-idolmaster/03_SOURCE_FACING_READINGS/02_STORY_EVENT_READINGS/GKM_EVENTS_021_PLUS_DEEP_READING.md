@@ -275,7 +275,7 @@ Tsubame can chase Sena again because she knows the crying child, the exhausted p
 **Sources:** `adv_event_022_main-01` through `main-05`  
 **Participants:** Mao, Kotone, Rinami; Sena through notes/live; dorm students through care messages  
 **Primary settings:** dormitory during Mao's illness; first-day flashback; recovery outing and Sena live  
-**Conflict:** Mao treats the final senior-year H.I.F. as existential proof of whether she can be an idol and drives herself into illness; receiving care requires relinquishing the senior/prince role long enough to become dependent  
+**Conflict:** Mao treats the final senior-year H.I.F. as a verdict on her future and continues training through the trainer's warning. When she becomes ill, she must let a junior take the lead in her care.\
 **Institutional function:** dormitory mutual aid, third-year endgame pressure, cross-year friendship
 
 ## 3.1 “If I cannot become an idol, I have nothing”: Mao's stakes become explicit
@@ -284,7 +284,7 @@ Mao overtrains for the summer H.I.F. despite the dance trainer ordering her to s
 
 This is stronger than ordinary competitive anxiety. It explains why Mao's old role problem carried existential force. Idolhood is not one possible career among interchangeable alternatives in this state; it is the remaining structure through which Mao can imagine a valuable future.
 
-The resulting illness is therefore not a generic “hard worker gets sick” story. It is a failure of self-preservation caused by identity foreclosure.
+Mao's inward words explain why she feels she cannot stop. Later she says she pushed herself too hard, and Kotone notices a fever and takes charge of her care. She later apologizes for ignoring the warning. The scene connects Mao's decision to keep training with the future she fears losing. The medical cause of the fever remains undetermined (part 01 L36–92, L196–248; part 03 L345–353).
 
 **STRENGTHEN — Mao:** late-stage aspiration includes catastrophic identity stakes. The risk is not only losing H.I.F.; it is interpreting loss as proof that no valuable self remains.
 
@@ -301,7 +301,7 @@ Her competence is mundane and highly specific:
 - food;
 - sleep;
 - checking whether Mao can walk;
-- refusing symbolic objections such as “a senior should not cause trouble.”
+- responding firmly when Mao says she can manage alone and should avoid causing trouble.
 
 Mao's seniority gives her no jurisdiction over the biological fact that she is ill. Kotone's ordinary family labor becomes the more relevant expertise.
 
@@ -363,7 +363,7 @@ While their food cooks on the recovery outing, Kotone says she grew up caring fo
 
 This should be promoted for Phase 6. Cross-year relation in Gakumas is not exhausted by mentor/junior language. Mao/Kotone is a clear case where asymmetrical age and institutional seniority coexist with horizontal friendship.
 
-## 3.7 Kotone argues for a wider princehood; Mao uses Kotone to face Sena
+## 3.7 Kotone argues for a wider princehood and accompanies Mao to Sena's live
 
 Mao admits that she likes sweets but hides the preference because she worries it conflicts with the cool prince image her fans expect.
 
@@ -371,9 +371,7 @@ Kotone's answer is not “stop being a prince.” She says a cool prince who lik
 
 This is an important outside confirmation of the Phase-3 Mao thesis. The person who first found Mao's prince presentation odd now sees no contradiction between that role and additional visible traits.
 
-Later Mao admits the deeper reason she brought Kotone to Sena's live: she was afraid to watch alone. She had repeatedly avoided Sena's third-year performances by claiming she needed to train. Watching Sena shine forced Mao to confront both the rival and the self she feared was inadequate.
-
-Kotone does not solve that fear. Her presence makes the confrontation tolerable enough for Mao to choose it.
+Mao says inwardly that she used excuses such as practice to turn down earlier invitations from Sena. This is the first time this school year that she has come to see Sena perform. Afterward Mao tells Kotone that she was afraid to watch alone and thanks her. The story gives Mao's account of avoidance and shows her choosing to attend with company (part 05 L277–289, L404–429).
 
 Mao's concluding resolution is precise: she will stop running and look directly at **Sena and herself** so that she can remain a cool version of Mao by choice rather than avoidance.
 
@@ -517,12 +515,12 @@ The CD matters less as music commodity than as evidence that Temari remembered, 
 - Hiro’s short declarations turn into agent and mission language. Part 03 L284–294 marks the information-gathering success; part 05 L364–393 marks her final report.
 - Misuzu’s polite phrasing carries an unusually direct image. She wants to fill someone with herself and says it makes her happy when a person important to her is “full of me” (part 03 L223–232). Hiro later imagines Temari’s head filling with thoughts of Misuzu and makes that reading conditional (L334–345).
 
-### AV requests
+### AV requests and scoped answers
 
-- **P0:** `adv_event_023_main-03` — Misuzu explaining that she wants important people filled with herself.
-- **P0:** `adv_event_023_main-05` — Temari presents the one-copy song/lullaby CD and Misuzu receives it.
-- **P1:** `adv_event_023_main-01` — Temari denies friendship with Hiro while asking for help.
-- **P1:** `adv_event_023_main-04` — Temari realizes the lullaby request can become the gift.
+- **P0:** `adv_event_023_main-03` — [Misuzu's giving formulation and the recipients it concerns](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md#giving-and-what-hiro-hears).
+- **P0:** `adv_event_023_main-05` — [Misuzu's response to the reported two-piece disc](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md#the-gift-and-the-separate-report).
+- **P1:** `adv_event_023_main-01` — [Temari disputes Hiro's label for their relationship and then asks for advice](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md#disputed-closeness-and-accepted-help).
+- **P1:** `adv_event_023_main-04` — [Misuzu's remembered request and the subsequent disc proposal](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md#the-remembered-request-and-present-proposal).
 
 ---
 # 5. Event 024 — Sena's producer year: legacy returns to circulation
@@ -1198,7 +1196,7 @@ This formulation should constrain later character-simulation work. “More matur
 | Saki | STRENGTHEN | E026 accepts representative pressure, studies predecessors, gives Ume/Kotone a non-final answer rather than pretending certainty | competitive optimization increasingly includes epistemic humility and lineage-conscious leadership |
 | Temari | STRENGTHEN | E023 authors a deeply personalized repair gift; E026 converts intense envy into professional support and future-oriented challenge | severe standards coexist with durable attachment, ritual memory, and respect for jurisdiction |
 | Kotone | STRENGTHEN | E022 domain-expert care, explicit “older friend” naming of Mao; E026 labor visibility turns support into responsibility | worker-idol competence includes care, social translation, and acute perception of hidden production labor |
-| Mao | STRENGTHEN / REVISE | E022 overtraining reveals identity foreclosure; receiving Kotone's care enables direct confrontation with Sena; ordinary preferences do not negate princehood | refractive role authorship requires the capacity to receive care and include vulnerable/private material rather than defend a sealed role |
+| Mao | STRENGTHEN / REVISE | E022 ties Mao's continued training to what she fears losing. She receives Kotone's care, attends Sena’s live with her and then states her intention to look more closely at Sena and herself. Kotone accepts Mao's ordinary preferences alongside her prince role. | refractive role authorship requires the capacity to receive care and include vulnerable/private material rather than defend a sealed role |
 | Lilja | PRESERVE | no major new central evidence in final tranche | Phase-3/earlier Phase-4 model remains current |
 | China | STRENGTHEN | E025 explicitly names her next student-council president; she accepts accountability, refuses help when ownership matters, organizes collective repair | accountable inheritance becomes institutional receptive authority |
 | Hiro | STRENGTHEN | E023 brings Temari a useful clue, supports her choice of gift and later reports to Misuzu; E025 identifies herself as next-council candidate and respects China's refusal | resistant form coexists with sophisticated relational interpretation and boundary-respecting help |
