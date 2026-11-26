@@ -973,3 +973,13 @@ In support `2-0018_02` Saki’s care and apology precede Temari reclaiming respo
 ## Guarded council succession — 2026-11-26
 
 China accepts responsibility for the paperwork lapse and explains Ume’s assistance. She later asks the seniors for a chance for all three juniors to answer their concerns. The two guarded scenes distinguish her earlier apology from the later request. Tsubame directs Ume to finish collecting the paperwork. Her recorded recollection of entrusting the school to the juniors differs from her present questions about their readiness. Her concern leaves the graduation decision outside this exchange. China promises to become a dependable president by spring and then asks Ume and Misuzu for continued help. The proposal to widen their group and invite Hiro is prospective. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Local authority and joint work in Events 005 and 024
+
+| Pair | Scene and bounded state | Transition |
+| --- | --- | --- |
+| Sena ↔ Saki | Event 005 part 04. Saki offers to become a model for Sena. Sena addresses Saki directly and subsequently refuses Tsubame’s proposal to recruit her. | **STRENGTHEN** the distinction between the rivalry and succession. |
+| Sena ↔ Ume | Event 005 part 05. Ume names her sister as a goal and later accepts a council invitation. Sena says she could not assess the talent, then praises the reported athletic display and offers guidance. | **STRENGTHEN** the separate roles in the recruitment. The cause of her earlier excitement stays **OPEN**. |
+| Ume ↔ Misuzu | Event 024 part 02. Ume supplies an audience criterion and one-day memory proposal. Misuzu proposes making the idea concrete and asks them to see it through together. Ume agrees. | **STRENGTHEN** this local agreement. Later collaboration and the event outcome retain separate evidence. |
+
+[Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)

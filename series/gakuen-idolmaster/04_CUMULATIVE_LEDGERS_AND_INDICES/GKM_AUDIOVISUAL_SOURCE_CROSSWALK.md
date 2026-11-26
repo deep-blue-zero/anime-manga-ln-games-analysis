@@ -536,3 +536,7 @@ Event 026 parts 04 and 05 are distinct guards of the exact `8Nh2Uxg0XUI` edition
 ## Guarded council succession recording — Event 025
 
 Retained Japanese parent 6OOnsdReyTM. The received answer scopes are China Q562, Tsubame Q562, China Q563. The case binds separate A1 cue, original parent and guarded child clocks. It reports independently observed mixed audio and sampled picture with explicit upper limits. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded Event 005 and 024 recording reuse — 2026-11-26
+
+The Japanese Event 005 parent is NqK-qO4WvSo. Event 024 parts 02, 04 and 05 use separate guards of the same retained aS6q0UHUt_0 edition. The scoped accepted answers are Hanami Saki P0 Q472, Juo Sena P0 Q472, Hanami Ume P0 Q473, Juo Sena P0 Q473, Hanami Ume P1 Q576, Hataya Misuzu P1 Q576. Other individual requests and readiness requirements retain their own dispositions. [Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)

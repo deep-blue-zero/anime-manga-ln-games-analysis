@@ -700,11 +700,11 @@ Sena observes that Saki has grown significantly since the entrance ceremony, the
 
 Saki does not accept the senior's authority. She says that Sena's older public words once embodied the pride and ambition she admired in Hatsuboshi. The present Sena is therefore a disappointment. Saki then announces that she will destroy the supposedly unbreakable wall and become an example **for Sena**, replacing the example supplied by Sena's earlier self.
 
-After Saki leaves, Sena insults her talent and calls her reckless—while visibly, according to Rinami's dialogue, becoming more animated. Tsubame and Rinami both say Saki resembles Sena. Sena refuses to recruit her.
+After Saki leaves, Sena calls her reckless and says she can only look ahead. Rinami describes Sena as in good spirits. Sena says anger is making her chest burn. Tsubame says Saki shows promise and suggests scouting her. Sena refuses and rejects the successor category (L442–487).
 
 Her reason is decisive:
 
-> Saki is not a successor. She is an enemy/rival.
+Sena rules out Saki as her successor and calls her an enemy.
 
 This scene directly exposes the difference between two relational categories in Sena's early production project:
 
@@ -721,6 +721,8 @@ Saki says the present Sena is no model for her. Sena declines Tsubame’s sugges
 - **Saki — STRENGTHEN:** she responds to deterministic ceiling claims by converting them into a challenge rather than requesting reassurance.
 - **Saki — STRENGTHEN:** her “false genius” self-understanding is compatible with elite observers seeing real limits. Her development claim is not “I secretly have infinite natural talent” but “a limit is not entitled to final jurisdiction.”
 - **Saki/Sena — PROMOTE:** mirror rivalry is a major Phase-6 relationship edge.
+
+**Guarded conversation.** Saki’s delivery gathers force as she moves from a judgment about the present Sena to her own promise to become an example. Her disappointment and the new challenge belong to the same address. Sena’s later decision about recruitment remains a separate exchange. Sena answers Saki directly, then gives Tsubame a crisp refusal and calls Saki an enemy in the officers’ exchange. Earlier Rinami observes that Sena looks pleased, while Sena gives anger as her account. The delivery supports a rivalry that can carry different affects in one encounter. Their balance remains open. [Guarded Event 005 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
 
 ## 7.8 Sena cannot assess Ume’s talent in their first encounter
 
@@ -750,6 +752,8 @@ This gives a useful low-stakes reconstruction rule for Rinami: **soft delivery c
 
 **STRENGTHEN:** hospitality is compatible with boundary judgment and criticism.
 
+**Guarded appraisal and invitation.** Ume’s short first yes confirms her sister as the target. In the later exchange she reports her reserve admission and prior athletic display, then accepts Sena’s conditional council invitation. Each affirmative answers its immediate question. The exact samples and captions leave the rendering of the full athletic display unsettled. Sena’s unusually emphatic admission that she could not tell Ume’s talent is followed by her question about her own excitement. She later praises the reported athletic display and moves to a conditional offer. She describes having received a push toward recruitment. The cause of the earlier excitement and the earlier reserve-admission criterion remain open. [Guarded Event 005 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
 ## 7.10 Event 005 thesis
 
 > **Sena tries to reproduce the future vertically and discovers the most interesting people are those who resist being legible as successors.**
@@ -766,7 +770,7 @@ The story therefore does more than introduce a student council roster. It dramat
 
 **P1:** `adv_event_005_main-01` — Tsubame/Rinami responses to Sena's pseudo-agency plan; useful for institutional-role voice modeling.
 
-**Current scope (2026-11-26).** Keep the original P0 request above as the record of the selection. The outstanding question concerns how Sena delivers the uncertainty and the excitement she reports. Her own question about its cause remains open. [Live audiovisual verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md)
+**Current scope (2026-11-26).** The requests above record the original selection. The scoped accepted answers are Hanami Saki P0 Q472, Juo Sena P0 Q472, Hanami Ume P0 Q473, Juo Sena P0 Q473. Other individual requests and readiness requirements retain their own dispositions. [Guarded Event 005 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
 
 ---
 

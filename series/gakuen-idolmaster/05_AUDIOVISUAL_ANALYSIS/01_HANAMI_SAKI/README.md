@@ -15,6 +15,8 @@ last_updated: "2026-11-25"
 
 # Hanami Saki — audiovisual analysis
 
+**Current recorded comparison.** Saki’s delivery gathers force as she moves from a judgment about the present Sena to her own promise to become an example. Her disappointment and the new challenge belong to the same address. Sena’s later decision about recruitment remains a separate exchange. [Guarded Event 005 and 024 adjudication](../GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md#saki-challenges-the-present-sena)
+
 Current claim wording and item-level completion are recorded in the [Carbon playback successor](GKM_SAKI_CARBON_PLAYBACK_SUCCESSOR.md). The baseline and Phase 3 completion report retain their original inspection boundary.
 
 Two later event scenes distinguish Saki’s shift from coach to opponent and her work with a customer and two peers. [Festival game](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-coach-becomes-an-opponent) · [Animate fan encounter](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)

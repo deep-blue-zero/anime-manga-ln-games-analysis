@@ -724,3 +724,9 @@ Event 022 distinguishes Mao's half-sleep L66/L70, Kotone's L68 echo, Mao's remem
 ## Council address convention — Event 025 part 05
 
 Ume addresses China as China-chan (L211), and Misuzu uses Ume-san (L250). Ume’s new proposal concerns reciprocal use across the council. Misuzu wants to wait for absent peers, and China still uses surnames with -san at L303. The script and original caption have no final ne in China’s invitation line. The listening accounts differ on that particle. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Recorded speech in appraisal and planning — 2026-11-26
+
+In Event 005 part 04, Sena’s L487 is printed `敵よ` and heard as `てきよ`. Part 04 L103 assigns the same written noun the ruby `ライバル` elsewhere in the chapter. The two readings belong to different turns. In Event 024 part 02, Ume asks Sena a polite question about the assignment. The Ume–Misuzu conversations use an asymmetric familiar and polite pair: Ume says `美鈴ちゃん` and Misuzu says `佑芽さん`. Ume’s `いいよ` in F gives Misuzu the next turn. Her later `うんっ！` accepts Misuzu’s proposal to work together. Misuzu’s formal apology in D is audible, while its succeeding self-description crosses the upper guard.
+
+[Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)

@@ -15,6 +15,8 @@ last_updated: "2026-11-12"
 
 # Hanami Ume — audiovisual analysis
 
+**Current recorded comparison.** Ume’s short first yes confirms her sister as the target. In the later exchange she reports her reserve admission and prior athletic display, then accepts Sena’s conditional council invitation. Each affirmative answers its immediate question. The exact samples and captions leave the rendering of the full athletic display unsettled. Ume asks whether the juniors may take the assignment, asks whether the proposals would work for everyone, and voices the idea of a memory unique to that day. In the final exchange she gives Misuzu the floor and then replies more brightly to her proposal to finish the work together. The result of the plan remains outside these windows. [Guarded Event 005 and 024 adjudication](../GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
 Current claim wording and item-level completion are recorded in the [Carbon playback successor](GKM_UME_CARBON_PLAYBACK_SUCCESSOR.md). The baseline and Phase 3 completion report retain their original inspection boundary.
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)

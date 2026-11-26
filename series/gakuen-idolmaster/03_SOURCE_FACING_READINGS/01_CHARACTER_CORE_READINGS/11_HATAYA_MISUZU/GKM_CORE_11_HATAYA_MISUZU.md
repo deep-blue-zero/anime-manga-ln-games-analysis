@@ -700,6 +700,8 @@ First, she no longer needs permanent SyngUp! restoration to make unit work emoti
 
 Second, she can admit that she entered student council partly through an absurdly strategic desire to turn it into a comfortable future gathering point for old friends. This is comic but consistent: Misuzu often modifies institutions by making them hospitable to her chosen relationships.
 
+**Recorded comparison (2026-11-26).** Misuzu gives her own reasons for volunteering, examines the proposals, and suggests turning Ume’s idea into practical work. She asks for the floor before proposing that they finish the work together. Her earlier formal apology is separately audible, with the ensuing self-description crossing the first guard. The plan leaves her private motives and the final result open. [Guarded Event 005 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md#ume-and-misuzu-agree-to-work-together)
+
 Third, she revises an earlier contempt for seniors. Living and working with the student council forces her to recognize that the older students are substantial performers and difficult opponents.
 
 Fourth, Ume becomes important because Misuzu spontaneously reads her as Rinha-like. That reading is not in CIDOL 010. It is stated in CIDOL 015_01 (`adv_cidol-hmsz-3-015_01.txt` L72–L160), and its D-MISUZU source is Misuzu's inner realization in Dear 014 that Ume resembles "someone" (L242–L254) (locator revised 2026-11-15, GKM-SAA-247):
