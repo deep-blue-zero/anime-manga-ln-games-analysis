@@ -1166,3 +1166,14 @@ The accepted person scopes are China Q562, Tsubame Q562, China Q563. Q562 uses t
 [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
 
 Keep original Q499/Q500/Q502 selection rows and route only actual named advances. Q501 remains a separate part-04 request. No transfer of Lilja or Sumika’s K06 evidence to Saki.
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+| Earned scope | Locked source | Guarded window |
+| --- | --- | --- |
+| Shinosawa Hiro P0 Q494 | Event 010 part 04 L193–219, L312–319, L426–509 | A |
+| Himesaki Rinami P0 Q494 | Event 010 part 04 L193–219, L353, L450–481 | A |
+| Shinosawa Hiro P0 Q495 | Event 010 part 05 L388–400, L439–509, L521–626 | B |
+| Shinosawa Hiro P1 Q601 | Support 1-0005 part 01 L40–55, L70, L78, L98, L111–124 | C |
+
+A counts once as a recording window and twice as a person-specific answer. The existing selection rows and other participants retain their prior scope. [Guarded adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).

@@ -544,3 +544,7 @@ The Japanese Event 005 parent is NqK-qO4WvSo. Event 024 parts 02, 04 and 05 use 
 ## Guarded Event 012 recording — 2026-11-26
 
 The retained Japanese original Jzu7bW8VXvA supplies six distinct windows across parts 02, 03 and 05. The frame and audio guard quantities stay separate. The received person scopes are Hanami Saki P0 Q499, Hanami Saki P0 Q500, Katsuragi Lilja P0 Q499, Katsuragi Lilja P0 Q502, Shiun Sumika P0 Q500, Shiun Sumika P0 Q502. Q501 remains a distinct part 04 request. [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+The retained Event 010 game capture XW1e6pWd_TU supplies distinct part 04 [805.00, 997.65) and part 05 [1204.55, 1331.15) parent bounds. The separate support upload k7YRmB0RNKU supplies [0.45, 63.20) for 1-0005 part 01. These clocks belong to their named recorded editions. [Edition and recorded guards](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).

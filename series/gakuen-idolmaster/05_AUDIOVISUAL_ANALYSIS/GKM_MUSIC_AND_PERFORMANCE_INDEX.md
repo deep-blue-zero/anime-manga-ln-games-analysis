@@ -51,3 +51,7 @@ Two Event 026 dialogue windows and one support window compare the sisters’ own
 The [current Rinha record](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) distinguishes performed dialogue, the placement of accompaniment, and open sung-identity evidence. The dedicated dossier uses the verified relationship scenes at their bounded scope.
 
 [Carbon propagation and claim routes](GKM_CARBON_PROPAGATION.md) links the current reading for all fifteen character packages.
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Timed openings in separate same-title editions corroborate common musical material under the Event 010 reactions. Exact mix identity and the song Hiro is reported to have sung remain open. In the separate support scene, two backed passages share distinct authored cue material and a short both-channel digital break occurs between them. Exact perceptual silence, instruments and venue or room access retain their own scope. [Contextual score comparison](GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#musical-material-and-cue-changes).

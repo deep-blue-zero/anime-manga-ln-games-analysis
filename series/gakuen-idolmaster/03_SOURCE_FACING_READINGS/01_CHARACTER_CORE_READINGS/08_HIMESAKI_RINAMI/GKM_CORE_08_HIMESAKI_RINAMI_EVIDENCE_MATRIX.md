@@ -111,3 +111,7 @@ These rows record the 2026-11-15 transitions. Each earlier claim text remains in
 ## Dated recorded evidence — 2026-11-25
 
 **STRENGTHEN, event scope.** Rinami maintains her public stage task while inwardly wondering about the interruption. In the separate dressing-room scene she thanks her juniors aloud and privately recognizes their contribution in a voiced thought. Their help and their continuing forms of deference coexist. The evidence leaves her unstated contingency plans and the unheard cheer’s actual singing open. [Exact recording and cue scope](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#what-rinami-acknowledges-to-the-others-and-to-herself)
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+The Event 010 Q494 disposition strengthens the scene-specific linkage between Rinami’s initial deference to Hiro’s choice, later availability, an accepted request and competent assessment of the shared result. RINAMI-C04 and the wider causes of her patterns of care retain separate evidence. [Performed Event 010 evidence](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#rinami-keeps-help-available-and-responds-when-asked).

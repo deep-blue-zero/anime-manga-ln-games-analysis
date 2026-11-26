@@ -58,3 +58,7 @@ The source manifests identify distinct story recordings and two shared performan
 ## Sports day and Hiroshima recorded evidence — 2026-11-25
 
 Rinami’s stage work and heard inward uncertainty coexist during the interruption. Backstage outward thanks and privately voiced recognition of the juniors’ help occupy different turns. The chronology keeps the omitted audience cheer, the closing announcement and the later backstage encounter distinct. [Event 15 finding 1](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#the-crowd-scene-reports-a-cheer-that-playback-elides) · [Event 15 finding 2](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#what-rinami-acknowledges-to-the-others-and-to-herself)
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Rinami leaves help available while Hiro tries to make the chocolate on her own. She checks on her later and accepts Hiro’s request to make it together. Hiro judges the first result inadequate. Rinami appraises the finish of the shared attempt. Palms, texture and the full work process have distinct written, reported and sampled-picture limits. [Event 010 analysis and exact attendance](../GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#rinami-keeps-help-available-and-responds-when-asked).

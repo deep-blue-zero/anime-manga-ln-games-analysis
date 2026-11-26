@@ -1132,3 +1132,7 @@ Use `support_series_2_part_001-025.dialogue.txt` as the complete next source bou
 ## Later Source Lock 1.2 reading of Rinami’s rehearsal — 2026-11-25
 
 The paired support `adv_csprt-1-0004_01` recording supports a difference between the two acted handkerchief offers. The trainer’s prompts and situational approval stand. The retry has smoother reported phrasing together with a change in scoring and presentation. The scene leaves the content of Rinami's circumstances and the person she pictures open. Do not use this exercise to infer an innate older-sister register or a measured change in speaking speed. [Five support-card adjudications](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Support 1-0005 part 01 recorded follow-up — 2026-11-26
+
+In support 1-0005 part 01 Hiro asks Temari for advice more severe than the feedback Temari gives China. Temari’s hesitant outward answer and her inward alarm have separate audience roles. Hiro says she would welcome criticism. This guard supplies no actual harsh criticism or outcome. The delivery of L55 and L98 differs from the player-audible inner lines L70, L78, L117 and L124. Part 02 and its separate participants retain their source scope. [Support 1-0005 part 01 recording](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#hiro-asks-temari-for-sharper-advice).
