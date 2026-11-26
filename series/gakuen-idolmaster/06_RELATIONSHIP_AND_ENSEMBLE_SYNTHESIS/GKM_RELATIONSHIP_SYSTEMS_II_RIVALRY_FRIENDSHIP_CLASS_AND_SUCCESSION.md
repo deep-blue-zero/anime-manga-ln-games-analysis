@@ -433,6 +433,8 @@ She can be:
 
 This horizontal social field makes Ume larger without making Saki smaller.
 
+**Different accounts of keeping up (HSCA-064, 2026-11-26, C1 @ D-HIRO).** In Hiro's Dear 030, Ume says she has finally caught up and reached the start line, after recalling her N.I.A. defeat and promising a rematch (L322–L362). Hiro says she and China had felt left behind. China agrees. Ume says she had been lonely when they seemed to go ahead together (L376–L405). China's account that all three followed different paths and Hiro's 'we met again' keep the comparison plural (L421–L435). Ume's account of catching up therefore also applies to friends in this route. Each describes how the others’ progress looked from a different position. Their actual ranking and any deliberate abandonment remain open. The exchange partly answers the Ume-side bilateral reading; durability under serious disagreement remains open.
+
 ## 4.4 Friendship gives Hiro shared stakes
 
 Early Hiro chooses difficulty largely for private stimulation.
