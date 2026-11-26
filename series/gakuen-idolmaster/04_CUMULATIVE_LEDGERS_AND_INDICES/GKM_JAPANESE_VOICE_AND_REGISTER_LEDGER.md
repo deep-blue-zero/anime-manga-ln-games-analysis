@@ -746,3 +746,7 @@ Misuzu's polite form survives a change in force during the remembered argument. 
 ## Ume’s proposals, relationship labels and terms of approach
 
 Ume’s suggestion 全部考えてもらった方が早いかも in Event 006 qualifies a possible course. Her later わかりました and choice to think of more mark a distinct response. In support 2-0047 Ume asks for the named friend relationship, then challenges Lilja. Saki’s reply calls Ume her 妹. Its scope is the stated request. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+A’s pinned printed ruby とうかい over 韜晦 survives the precise original check. The first two reports give a different hearing, which remains visible. In B Sena’s encouragement is explicitly inward. C distinguishes Temari’s hidden display cues from her separately marked inward L144. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

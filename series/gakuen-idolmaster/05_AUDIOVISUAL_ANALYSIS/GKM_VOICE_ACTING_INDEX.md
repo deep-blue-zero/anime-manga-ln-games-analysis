@@ -70,3 +70,7 @@ The later recordings cover Mao and Sumika repairing a disagreement, Lilja renewi
 ## Ume’s proposals, relationship labels and terms of approach
 
 Ume’s tentative proposal to let Rinami do all the thinking gives way to renewed participation. Rinami admires the ideas Ume and China produce and offers to check excess. She leaves the work of generating ideas to them. Actual use of that authority and any later effect on confidence are separate. Ume explicitly asks to be Saki’s friend after Saki calls Lilja one. Saki names sisterhood in answer. Ume proposes a contest and Lilja reacts with surprise. The delivered contrast adds performed evidence for the moves. Jealousy, teasing and a bid for attention remain possible readings. The scene records no agreement to a contest. Saki withdraws her first assent and asks Ume to approach from the front. Ume announces the change and reports satisfaction later. Sampled approach and the blackout leave contact, a catch and safety open. The revised invitation applies to this occasion. [Guarded Ume adjudication](GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+Five matched guards distinguish direct speech, heard inward language, telephone rendering and the voiced roles inside the dream. The scene that represents shared singing has its own limits and different reported score boundaries. [Guarded SyngUp adjudication](GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

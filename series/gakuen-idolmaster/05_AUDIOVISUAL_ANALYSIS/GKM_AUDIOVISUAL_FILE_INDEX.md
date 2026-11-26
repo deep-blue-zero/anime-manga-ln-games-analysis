@@ -107,3 +107,7 @@ The current perceptual and historical baselines cover the distributed voice-anal
 ## Ume’s proposals, relationship labels and terms of approach
 
 Three independently received original windows add 5 person-specific answers. Cumulative receiving reaches 60 recording windows and 73 person-specific answers. Ume’s Q483, Q660 and Q628 have guarded answers. Rinami’s own Q483 answer concerns her prospective checking role. Saki’s own Q660 answer concerns her two distinct responses. [Guarded Ume adjudication](GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+Five original recording windows add twelve separately scoped P0 answers for Temari, Misuzu, Hiro and Sena. This brings the accepted totals to 65 recording windows and 85 person-specific answers. Each person’s remaining requests and readiness retain their own dispositions. [Guarded SyngUp adjudication](GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

@@ -46,3 +46,7 @@ In part 03 Hiro names one successful mission after Temari says the clue helped. 
 ## Hiro and Rinami’s recorded Event 010 and support evidence
 
 In Event 010 part 04 Hiro says she wants to try making the chocolate alone when Rinami offers help. After judging her first result unsuitable for her friends, Hiro explicitly asks Rinami to make it with her. After they finish she contrasts this occasion with her usual emptiness and says it was enjoyable. The scene leaves the distinct contributions of purpose, companionship and success open. [Recorded collaboration](../GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#hiro-changes-the-criterion-for-finishing) · [Spoken dedication and the reported live](../GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#the-dedication-is-heard-and-the-live-is-reported) · [Asking for advice](../GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#hiro-asks-temari-for-sharper-advice)
+
+## Five guarded SyngUp support scenes
+
+The latest guarded support observations cover Q766/A. The comparison identifies the recorded turns, their written roles and the remaining interpretive limits. [Guarded SyngUp adjudication](../GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

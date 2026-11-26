@@ -217,3 +217,7 @@ The dated audit table preserves the earlier phrasing. Dear 025 L376–397 record
 ## Recorded moon-viewing and its remembered quarrel
 
 The two person-specific P0 answers add performed support for Temari's reserved response to the repair label, force in the remembered exchange and her separate current deferral. The results leave a later reunion, the unnamed target, and motive for postponement open. [Guarded moon-viewing adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#the-remembered-argument-and-the-present-judgment).
+
+## Five guarded SyngUp support scenes
+
+The received person scopes are Q766/A, Q788/B, Q789/C, Q713/D and Q714/E. The edition, lines, guard, supported observation and open alternative for each follow the paired report. [Guarded SyngUp adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#received-person-specific-scopes).

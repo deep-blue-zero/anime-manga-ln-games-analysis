@@ -71,3 +71,7 @@ This addendum routes the canonical textual core through the completed Phase-3 AV
 ## Recorded exchange and scope — 2026-11-26
 
 Sena answers Saki directly, then gives Tsubame a crisp refusal and calls Saki an enemy in the officers’ exchange. Earlier Rinami observes that Sena looks pleased, while Sena gives anger as her account. The delivery supports a rivalry that can carry different affects in one encounter. Their balance remains open. Sena’s unusually emphatic admission that she could not tell Ume’s talent is followed by her question about her own excitement. She later praises the reported athletic display and moves to a conditional offer. She describes having received a push toward recruitment. The cause of the earlier excitement and the earlier reserve-admission criterion remain open. [Guarded Event 005 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Five guarded SyngUp support scenes
+
+The recorded support distinguishes Sena’s inward encouragement from later spoken appraisal and invitation. Misuzu speaks the greeting at L23. The duet’s written report and the absence of identifiable sung voices in this guard each have their own evidentiary use. Person scopes are Q788/B and Q789/C. [Guarded SyngUp adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

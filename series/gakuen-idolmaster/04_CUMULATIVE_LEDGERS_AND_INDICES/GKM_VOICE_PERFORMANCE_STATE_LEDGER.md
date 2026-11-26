@@ -526,3 +526,7 @@ Temari thanks Misuzu for the blanket and tea offer, admits embarrassment and lat
 ## Ume’s proposals, relationship labels and terms of approach
 
 Ume is tentative in proposing delegation and more eager when renewing her work. She emphasizes the wish for the friend label and then projects the challenge. Support 2-0000 separates Saki’s withdrawn assent, more projected changed instruction and Ume’s ensuing response. Motive and unseen contact have their own evidence requirements. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+The guarded voice evidence includes Misuzu’s own statement of enjoyment, the hesitant invitation and answer, Sena’s heard inner encouragement, Temari’s distinct inward surprise, the telephone-rendered reply and the contrasted voices of the dream. In-story earshot remains a separate question where it is not established. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

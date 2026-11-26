@@ -5,12 +5,12 @@ artifact_type: corpus_map
 scope: SERIES_AUDIOVISUAL_NAVIGATION
 generation: V2
 status: canonical
-source_boundary: "Navigation of 13 historical Phase 3 packages, supplementary Kanae, distributed Rinha and later scope-qualified perceptual evidence through 2026-11-25"
+source_boundary: "Navigation of 13 historical Phase 3 packages, supplementary Kanae, distributed Rinha and later scope-qualified perceptual evidence at Source Lock 1.2 revision 88"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-11-25 — later Carbon perceptual material, Kanae package and current Rinha routing"
+last_updated: "2026-11-26 — added guarded SyngUp support comparisons"
 ---
 
 # Audiovisual analysis
@@ -40,6 +40,8 @@ Start with the character's home for current findings and the original analytical
 | Kaya Rinha | [Current distributed AV reading](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) |
 
 Supporting measurements live in `SUPPORTING_DATA/` where data exist. Textual-core AV revision addenda remain beside the [textual analyses](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/). The [current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md) governs project progress; the [rebuild register](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_TARGETED_REBUILD_CANDIDATES.md) records the closed Hiro/Misuzu documentary and measurement scope alongside their remaining perceptual dependencies.
+
+Five guarded SyngUp support scenes add twelve separately scoped P0 answers for Temari, Misuzu, Hiro and Sena. The comparison records Sena’s voiced inner encouragement, the score and represented duet, and the separate terms of the telephone truce. The dispute over Misuzu’s pronunciation, the continuity of the first backing and the audibility of the ringtone remain visible. [Guarded SyngUp comparison](GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
 
 [Subsequent story-event playback](GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) covers five guarded parts of Events 002, 003, 004 and 008. It records scoped corrections to performed dialogue, music placement and staging.
 

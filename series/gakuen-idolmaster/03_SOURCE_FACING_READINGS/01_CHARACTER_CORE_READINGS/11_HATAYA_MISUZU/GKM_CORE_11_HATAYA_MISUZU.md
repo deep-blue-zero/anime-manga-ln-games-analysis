@@ -1220,3 +1220,7 @@ Misuzu recognizes the two-person assignment, anticipates agreement with Ume, and
 ## Recorded moon-viewing and its remembered quarrel
 
 Misuzu points to their resumed shared life and agrees it has not returned to its old form. She says she will stop asking Temari to sing together and gives up the aim of being Temari’s wings. Misuzu still plans to make Temari shine in her own way. She keeps her polite address even when her remembered reply is forceful. In the present she includes her own inaction in the account of what went wrong. [Guarded moon-viewing adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#misuzu-gives-up-one-role-and-keeps-an-aim).
+
+## Five guarded SyngUp support scenes
+
+**STRENGTHEN within the named support guards.** Misuzu states her own pleasure, accepts an invitation in her own time and proposes a limited truce. In the separate dream she asks the represented Temari to provide the scolding she misses. None of these actions requires supplementing her stated aims with a fixed hidden motive. [Guarded SyngUp adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

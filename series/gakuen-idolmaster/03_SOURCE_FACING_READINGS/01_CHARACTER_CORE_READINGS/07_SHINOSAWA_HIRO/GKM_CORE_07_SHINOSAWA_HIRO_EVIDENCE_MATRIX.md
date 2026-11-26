@@ -122,3 +122,7 @@ These rows record the transitions applied with the parent core v2.1. The core pa
 ## Hiro and Rinami’s recorded Event 010 and support evidence
 
 HIRO-C09 stays moderate–strong with its route-specific counterexamples. Event 010 is one instance of enjoyable joint completion. In the support case Q601 addresses the feedback Hiro requests. Her professed response to actual severe criticism remains open. [Scoped observations](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#hiro-changes-the-criterion-for-finishing).
+
+## Five guarded SyngUp support scenes
+
+The received person scopes are Q766/A. The edition, lines, guard, supported observation and open alternative for each follow the paired report. [Guarded SyngUp adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#received-person-specific-scopes).

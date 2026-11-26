@@ -59,3 +59,7 @@ Timed openings in separate same-title editions corroborate common musical materi
 ## Ume’s proposals, relationship labels and terms of approach
 
 Five selected fragments of mixed backing match between the end of Event 006 part 03 and the aftermath in support 2-0000 part 01 at one measured offset. The locked scripts assign daily-001 to both passages. Exact onset and the full return remain open. The support 2-0047 part 02 original decodes to zero on both channels before its decoded endpoint. The child has 271 additional zero pairs beyond that endpoint. [Guarded Ume adjudication](GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#what-the-score-comparison-can-carry).
+
+## Five guarded SyngUp support scenes
+
+Temari declines being produced, then accepts an assessment and a shared song. Sena praises the represented unison. No independent listener identifies a sung voice inside the two guarded glyph passages. The authored audition cue and different reported score segments remain separate. The later invitation remains prospective. [Guarded SyngUp adjudication](GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#what-the-rehearsal-lets-them-agree-to).
