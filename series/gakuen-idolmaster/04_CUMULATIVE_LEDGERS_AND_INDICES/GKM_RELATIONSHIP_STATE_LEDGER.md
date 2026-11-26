@@ -2,14 +2,16 @@
 title: "Gakuen Idolmaster V2 - Relationship State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.17"
+version: "2.18"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-25 — SRC-0093 priority support scene adjudication; Phase 6 Rinha completion at the admitted boundary"
+last_updated: "2026-11-25 — SRC-0093 priority support scene adjudication; Phase 6 Rinha completion at the admitted boundary; written Event 023 revision"
 status: "active; cumulative through Phase 6 Systems I + II and Kaya Rinha evidence matrix"
 ---
 
 # RELATIONSHIP STATE LEDGER
+
+> **REVISE — v2.18, 2026-11-25. The two relationships in the birthday inquiry.** The earlier rows treated reliance as negating Temari’s description of her friendship with Hiro and described high-trust double-agent cooperation between Hiro and Misuzu as established. Temari can disagree and still ask for help. Hiro’s private report and Misuzu’s thanks establish their cooperation at the end. The previous wording is preserved in v2.17.
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
 
@@ -414,8 +416,8 @@ The following edges are strong enough to enter the cumulative relationship ledge
 | Rinami ↔ Sena/Tsubame | **STRENGTHEN** | E021 Rinami can impose rest on both senior leaders when reciprocal duty becomes self-destructive |
 | Mao ↔ Kotone | **PROMOTE — cross-year friendship dossier** | entrance-day wallet care is later reciprocated through illness care; Kotone explicitly experiences Mao as an older friend and accompanies her to face Sena's live |
 | Temari ↔ Misuzu | **STRENGTHEN** | E023 resumes/transforms childhood birthday ritual after SyngUp! rupture through a one-copy song/lullaby CD |
-| Temari ↔ Hiro | **PROMOTE** | Temari entrusts Hiro with intimate Misuzu history despite verbal denial of friendship; Hiro mediates without appropriating authorship |
-| Hiro ↔ Misuzu | **STRENGTHEN** | E023 high-trust double-agent cooperation around Temari's gift problem |
+| Temari ↔ Hiro | **PROMOTE** | Temari disputes Hiro’s claim that they are close and then asks for advice and company. Later she wants to choose the gift with Hiro, and presents it herself (E023 parts 01 L193–223, L344–346; 04 L128–162; 05 L139–184). |
+| Hiro ↔ Misuzu | **STRENGTHEN** | Misuzu asks whether Hiro is helping someone else. Hiro later gives her report and calls herself a double agent; Misuzu agrees that it went well and thanks her (E023 parts 03 L138–190; 05 L345–393). |
 | Sena ↔ Ume | **STRENGTHEN** | E024 Ume can reject Sena's one-way legacy plan and correct the producer while preserving respect |
 | Sena ↔ Misuzu | **STRENGTHEN** | E024 Misuzu explicitly tells Sena she is underestimating her own idols; resistance becomes productive correction |
 | Ume ↔ Misuzu | **PROMOTE** | E024 stable co-production pair; different effort styles carry one project from archival research through public performance |

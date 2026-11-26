@@ -2,14 +2,16 @@
 title: "Gakuen Idolmaster V2 - Japanese Voice and Register Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.8"
+version: "2.9"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-25 — Carbon character and claim write-through"
+last_updated: "2026-11-25 — Carbon character and claim write-through; written Event 023 revision"
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
 # JAPANESE VOICE AND REGISTER LEDGER
+
+> **REVISE — v2.9, 2026-11-25. The friends’ written register in Event 023.** The earlier register entries treated Temari’s request as contradicting her own words and compressed Hiro’s agent game. Temari contests a label and later requests help. Hiro marks the clue in part 03 and the final report in part 05 as distinct successes. The previous wording is preserved in v2.8.
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
 
@@ -435,9 +437,9 @@ The event tranche contains unusually useful reconstruction evidence because many
 
 - **Sena/Tsubame (E021):** private childhood-friend register moves rapidly between present senior composure, `貴様` rivalry/governance, excited `ねえねえ`, and teasing `泣き虫星南ちゃん`. Do not model `貴様` as literal hostility.
 - **Mao/Kotone (E022):** Kotone's rough/direct imperatives can carry respectful caregiving toward a senior; Mao's ill speech becomes simpler, food-specific, childlike, and regionally textured without deleting `ボク` or prince identity.
-- **Temari/Hiro (E023):** `別に仲良しじゃない` is pragmatically contradicted by immediate reliance/disclosure; verbal distance should not be mapped mechanically to relational distance.
-- **Hiro (E023):** clipped deadpan syntax supports genre-play (`えーじぇんと・広`) without requiring a wholesale voice change.
-- **Misuzu (E023–E025):** formal softness carries explicit possessiveness and committed institutional promises; semantic intensity need not produce harsh syntax.
+- **Temari/Hiro (E023).** Hiro calls them close; Temari disputes the label (「別に仲良しじゃない」). She then asks for advice and invites Hiro to shop. The disagreement and the request are both literal acts (part 01 L193–223, L344–346).
+- **Hiro (E023).** Short declarations and the written forms 「えーじぇんと・広」 and 「だぶる・すぱい」 make two kinds of success part of her agent game. She celebrates getting the clue in part 03 L284–294 and reports the outcome to Misuzu in part 05 L364–393.
+- **Misuzu (E023–E025):** polite written forms carry explicit possessiveness and committed institutional promises; semantic intensity need not produce harsh syntax.
 - **China (E025):** `ですわ` register remains stable through accountability, uncertainty, leadership, and requests for help; femininity/class register is compatible with strong office authority.
 - **Asari (E029, branch-gated):** teacher-polite register survives being produced as an idol; closing `わたしの――プロデューサーくん` adds a new relational address rather than erasing teacher identity.
 

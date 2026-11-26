@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Institution and Idol-System Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.6"
+version: "2.7"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit corrections"
+last_updated: "2026-11-25 — Event 024 reported repertoire reception"
 status: "active; cumulative through Phase 6 side-character synthesis"
 ---
 
@@ -348,7 +348,7 @@ This strengthens an institutional pattern seen elsewhere: Hatsuboshi's hierarchy
 - **China succession (E025):** Kuramoto China is explicitly named the **next student-council president**.
 - **Next-council cohort (E025):** Ume and Misuzu are established current junior council members; Hiro is explicitly a next-council officer candidate. Do not infer final titles beyond China's presidency.
 - **Workflow redesign (E025):** juniors propose an idol-specific scheduling application from Ume's parents' company to reduce coordination failures and enable shared progress visibility. Event does not prove final school-wide adoption.
-- **Living repertoire (E024):** `ENDLESS DANCE` is described as a Hatsuboshi song socially monopolized by association with Sena; Ume/Misuzu/Sena's live visibly reopens it to other performers, including Temari's later setlist request.
+- **Living repertoire (E024, wording REVISED 2026-11-25):** Sena describes `ENDLESS DANCE`, the victory-live number, as school repertoire that fell out of use after its association with her. Misuzu's quiz and Ume's answer put `Choo Choo Choo` in the main competition. After Shibuya, Sena reports other versions, Misuzu relays the request from Tsukimura to put the song in a future live, and Sena chooses to retain it in her own repertoire. The script supplies the characters' accounts of renewed participation (`adv_event_024_main-04` L99, L136–L158, L232–L260; `adv_event_024_main-05` L275–L323, L340–L359, L410–L414).
 - **Producer-project maturation (E024):** Sena's approximately year-long student-council production project ends with explicit recognition that she learned from her idols and that succession need not require her withdrawal.
 - **External representative selection (E026):** an outside cover-live operator can request Hatsuboshi idols; headmaster and Sena participate in recommending representatives based on respect, ability, and reliability.
 - **Event-029 branch possibility:** Producer Course student producing Asari-sensei as idol is internally coherent but continuity-gated; do not promote to baseline institutional history.

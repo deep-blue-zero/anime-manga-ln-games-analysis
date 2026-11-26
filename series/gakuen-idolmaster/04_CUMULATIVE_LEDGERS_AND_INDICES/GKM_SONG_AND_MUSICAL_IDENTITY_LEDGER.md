@@ -2,16 +2,18 @@
 title: "Gakuen Idolmaster V2 - Song and Musical Identity Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.16"
+version: "2.17"
 source_lock: "GAKUMAS V2 Source Locks 1.0–1.2"
 initialized: "2026-08-13"
-last_updated: "2026-11-25 — Carbon character and claim write-through"
+last_updated: "2026-11-25 — Carbon character and claim write-through; written Event 023 revision"
 revised: "2026-11-25"
-revision_note: "Recorded-scene adjudication at the revision-88 source boundary. The dated baselines and previous revisions follow."
+revision_note: "Recorded-scene adjudication at the revision-88 source boundary. The dated baselines and previous revisions follow. v2.17 records the 2026-11-25 written Event 023 revision."
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
 # SONG AND MUSICAL IDENTITY LEDGER
+
+> **REVISE — v2.17, 2026-11-25. The two songs on Temari’s single birthday CD for Misuzu.** This ledger adds the birthday song and lullaby as music made for one intended listener. Temari proposes making a CD and later says she sang both pieces. The source supplies her account of the recording and Misuzu’s intended listening. The previous wording is preserved in v2.16.
 
 > **Revision record — v2.14, 2026-11-15 (source-to-analysis audit corrections).** (1) GKM-SAA-076: the Rinami R2 `SUGAR FLAVOR` disposition "PHASE-3 BILATERAL CLOSE with Mao: synchronized peer difference" is kept for the performance (REVISE in scope) and the origin narrative is reopened (OPEN): Rinami's communication 018 and Mao's communication 017 tell the unit's origin with opposite initiators. (2) GKM-SAA-073, STRENGTHEN: a dated note in the Rinami R2 section. (3) GKM-SAA-228, STRENGTHEN: placement anchors in the Sumika `Campus mode!!` row. Earlier wording is kept in each row. The earlier `last_updated` value read "2026-08-22 — Rinami integrated musical identity R2 promoted; 13/13 character baselines complete".
 
@@ -526,3 +528,7 @@ Rinami identifies `初` as the trio's opening number and recalls how they discus
 ## Observed music and the elided baseball cheer — 2026-11-25
 
 **REVISE.** Playback W09 establishes the invited cheer’s narrative placement with crowd noise, applause and the clock wipe. The actual sung cheer is elided. Preserve the distinction between absent diegetic accompaniment and the background score. `daily-002` precedes the interruption’s later fade. After the wipe, `daily-001` accompanies China’s thanks. The W09 listeners hear Rinami announce `キミとセミブルー` at L646. The closing `初` announcement in part 05 L95 is before W10. These guards supply no sung samples of either number. In Event 014, the earlier failure-to-friendship cue change and backing continuity across the sampled Saki entrance are separate observations. [Sports day and Hiroshima adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#the-crowd-scene-reports-a-cheer-that-playback-elides)
+
+## Temari’s birthday recording for Misuzu
+
+Temari recalls that Misuzu once asked her to sing a lullaby every day so she could nap. Temari proposes making a CD, and Hiro endorses a single copy for Misuzu. At the birthday Temari says she sang the birthday song and the lullaby on the disc. Misuzu promises to listen before bed. The two pieces matter as a repeatable performance addressed to one recipient. The script supplies neither commercial titles nor an independent hearing of the CD (`adv_event_023_main-04` L219–L230, L255–L264; `adv_event_023_main-05` L229–L231, L281–L302).

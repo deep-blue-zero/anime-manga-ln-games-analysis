@@ -2,14 +2,16 @@
 title: "Gakuen Idolmaster V2 - Character State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.15"
+version: "2.17"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-25 — Carbon character and claim write-through"
+last_updated: "2026-11-25 — Carbon write-through and written Event 024 attribution; written Event 023 revision"
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
 # CHARACTER STATE LEDGER
+
+> **REVISE — v2.17, 2026-11-25. Hiro’s written Event 023 outcome.** The earlier entry described Hiro as accurately reading her friends. The event establishes that Hiro brings Temari a clue, supports her choice and reports the outcome to Misuzu. Hiro marks her reading of Misuzu’s intention as conditional. The previous wording is preserved in v2.16.
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
 
@@ -484,7 +486,7 @@ The following transitions are tranche-level routing instructions, not replacemen
 | Arimura Mao | **STRENGTHEN / REVISE** | E022 final-chance overtraining reveals identity foreclosure; receiving Kotone's care enables her to face Sena rather than avoid her | refractive role authorship requires capacity to receive care and include vulnerable/private material, not protect a sealed prince role |
 | Katsuragi Lilja | **PRESERVE** | no major direct speaking role in the final tranche | retain Phase-3 and earlier Phase-4 formulation |
 | Kuramoto China | **PROMOTE / STRENGTHEN** | E025 explicitly names her next student-council president; she accepts accountability, refuses Hiro's help when ownership of repair matters, and organizes a collective answer | accountable inheritance now has a concrete future office: institutional receptive authority |
-| Shinosawa Hiro | **STRENGTHEN** | E023 accurately mediates Temari/Misuzu without taking over; E025 identifies herself as a next-council candidate and respects China's refusal | resistance-seeking coexists with sophisticated relational modeling and boundary-respecting help |
+| Shinosawa Hiro | **STRENGTHEN** | E023 brings Temari a useful clue, supports her choice and reports the outcome to Misuzu; E025 identifies herself as a next-council candidate and respects China's refusal | resistance-seeking coexists with sophisticated relational modeling and boundary-respecting help |
 | Himesaki Rinami | **STRENGTHEN** | E021 uses enough authority to prohibit Sena/Tsubame from council work and coordinate a training ban | reversible hospitality can become protective command when role obligation blocks self-care |
 | Shiun Sumika | **PRESERVE** | no major direct speaking role in the final tranche | retain Phase-3 and earlier Phase-4 formulation |
 | Hanami Ume | **STRENGTHEN** | E024 helps release ENDLESS DANCE from prestige monopoly; E025 proposes workflow tooling; E026 turns predecessor language into direct self-address | reciprocal propulsion includes cultural permission-giving, process design, and increasingly autonomous self-motivation |
@@ -805,7 +807,7 @@ Rows above that carried a demonstrated error now carry the corrected wording and
 | Hataya Misuzu | support 2-0055 (SL1.1, C4) | recognises a rest method unlike her own (Saki's `完全休養日`) and arranges a shared nap; the methods are not merged | support continuity only | `adv_csprt-2-0055_01` L93–L121; `adv_csprt-2-0055_02` L71–L151 | GKM-SAA-108; CORE-Misuzu §2.4 |
 | Hataya Misuzu | M-MISUZU 020, 018 (C2/C4) | context-specific appearance doubt and an "only complex" about an unnamed closest idol, thinned by the Producer's conviction; in 018_02 laziness covers frustration | the referent stays open | `adv_cidol-hmsz-3-020_03` L161–L249; `adv_cidol-hmsz-3-018_02` L85–L204 | GKM-SAA-243; CORE-Misuzu §3.1 |
 | Hataya Misuzu | E014 | twice names the motivated state `懐かしい`; Temari predicts the comeback from acquaintance | the referent stays open | `adv_event_014_main-03` L514; `adv_event_014_main-05` L116 | HSCA-118; E013–020 §3.5 |
-| Hataya Misuzu | E024 | claims ENDLESS DANCE as `わたしだけのもの`; the shared song arises from rival possessive claims | event-scoped | `adv_event_024_main-04` L368 | HSCA-028; E021+ §5.4 |
+| Hataya Misuzu | E024 | claims ENDLESS DANCE as `わたしだけのもの`. Ume defends the song, and Sena later reports broader participation (**REVISE**, 2026-11-25) | event-scoped | `adv_event_024_main-04` L368–L372; `adv_event_024_main-05` L275–L323, L359–L383 | HSCA-028; E021+ §5.4 |
 | Juo Sena | cross-route defeat states (C1 in each owning route; mutually exclusive) | D-SAKI 024: producer success hollows the idol before the reform, then she reignites as a challenger; winter H.I.F. losses in other routes' Dear 036, including SL1.1 D-KOTONE and D-TSUBAME; P3-SENA final-failure crowns Kotone (C3) | not D-SENA biography; the scenes also characterize the winners | `adv_dear_hski_024` L336–L430; Dear 036 per route; `adv_pstory_003_jsna_final-failure-01` L6–L66 | GKM-SAA-026; CORE-Sena "Cross-route defeat counter-track", OPEN-SENA-12 |
 | Juo Sena | supports 3-0113, 2-0057, 3-0110 (SL1.1, C4) | 3-0113: Kotone's acceptance of her production is considered but not reached; 2-0057: a supervision ethic, with Misuzu's correction; 3-0110: succession without direct guidance | support continuity only | `adv_csprt-3-0113_01`–`_03`; `adv_csprt-2-0057_01`–`_02`; `adv_csprt-3-0110_03` L156–L181 | GKM-SAA-108; CORE-Sena §19–§21 |
 | Amaya Tsubame | ordinary life (C3 Produce material labelled) | spectator love of cuteness; academic first place as self-labelled escapism; a home commuter who refuses the dorm over dorm head Mao's orders (a Produce Event choice); archaic `父君` / `母君`; strict cooking training; a self-designed uniform worn with permission | pre-performance routines and other register items were not located and not landed | `adv_pstory_001_atbm_ending-normal-01` L117; `ending-normal-02` L41; `adv_pevent_001_atbm_activity_010` L33–L48 | GKM-SAA-258 (PARTIAL); CORE-Tsubame §17 |
