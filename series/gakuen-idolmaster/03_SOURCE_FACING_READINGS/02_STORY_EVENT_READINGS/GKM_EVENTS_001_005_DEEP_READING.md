@@ -916,7 +916,7 @@ Sena tests Saki with a deterministic wall. Saki turns the challenge back on Sena
 
 ### Sena ↔ Ume
 
-Sena says this is her first encounter in which she cannot assess a person’s talent. She also says she feels excited and asks why. After Ume’s athletic demonstration, Sena offers to guide her if she joins the student council (adv_event_005_main-05 L401–427, L440–574).
+Sena says this is her first encounter in which she cannot assess a person’s talent. She also says she feels excited and asks why. After Ume recounts the athletic demonstration from her reinterview, Sena praises her ability and offers to guide her if she joins the student council (adv_event_005_main-05 L401–427, L440–574).
 
 **State:** uncertain initial assessment and an explicit offer of mentorship.
 
