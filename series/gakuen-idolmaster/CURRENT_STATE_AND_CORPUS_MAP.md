@@ -210,7 +210,7 @@ The AV consolidation places each character's baseline, specialists, evidence and
 
 - Baseline textual source for completed historical readings: **GAKUMAS V2 Source Lock 1.0** — commit `00d150a069a3ffa723a1ff264752ba242024caad`, revision 32, frozen 2026-08-02, 3,777 raw scripts / 93,924 messages.
 - Current transcript extension: [GAKUMAS V2 Source Lock 1.2](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261115.md). The [1.1 declaration](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261112.md) remains the pin for its historical tranche.
-- Governing method: `GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md` **v2.3**. §§16.5 and 17.3 (2026-11-26) extend vocal characterization, nonlexical expression, comic prosody, affect acting and visual-vocal comparison.
+- Governing method: `GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md` **v2.3**. §§16.5 and 17.3 (2026-11-26) extend vocal characterization, nonlexical expression, comic prosody, vocal affect, voice acting and visual-vocal comparison.
 - Synthesis architecture: `GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md` **v2.6**. §18.1 (2026-11-15) makes the character cores living documents; §12 assigns the expanded spoken and sung synthesis to Documents 10 and 11. This methodology amendment changes no source boundary, monograph acceptance or phase gate.
 - Continuity authority: `GKM_CONTINUITY_AND_STORY_STATE_MAP.md` **v2.1**.
 - External evidence authority: `GKM_OFFICIAL_PARATEXT_AND_CREATOR_COMMENTARY_REGISTER.md`.

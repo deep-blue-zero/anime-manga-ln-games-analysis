@@ -18,7 +18,7 @@ created: "2026-08-13"
 
 # GAKUEN IDOLMASTER MULTI-DOCUMENT SYNTHESIS ARCHITECTURE V2
 
-> **Revision record — v2.6, 2026-11-26.** Expands the planned Phase 8 Documents 10 and 11 to synthesize vocal morphology, nonlexical expression, comic prosody, affect acting and visual-vocal design as specified in the governing method v2.3. The existing phase sequence and Gates E–G remain unchanged.
+> **Revision record — v2.6, 2026-11-26.** Expands the planned Phase 8 Documents 10 and 11 to synthesize vocal morphology, nonlexical expression, comic prosody, vocal affect, voice acting and visual-vocal design as specified in the governing method v2.3. The existing phase sequence and Gates E–G remain unchanged.
 
 > **Revision record — v2.5, 2026-11-15.** Adds §18.1, the owner's living-character-core policy: event, support and later evidence enters core bodies as dated, attributed additions, and each core keeps a Phase-4/5 integration-pointer index (source-to-analysis audit GKM-SAA-104 and GKM-SAA-108). No other section changes.
 
@@ -879,7 +879,7 @@ Questions:
 - How do public and private voices diverge?
 - How do a character's perceived vocal timbre, register, resonance, weight and habitual delivery reinforce or complicate her visual design, social coding and identity?
 - Under what stimuli, interpersonal conditions and story states does the character use nonlexical vocalizations, laughter, disfluency, extended vowels, comic prosody or other heightened reactions, and how does she return to ordinary speech?
-- How do affect acting, persona, visual acting and audiovisual framing interact? Where do expressed feeling, observed delivery and audience inference diverge?
+- How do vocal affect, voice acting, persona, visual acting and audiovisual framing interact? Where do expressed feeling, observed delivery and audience inference diverge?
 - Which evidence-supported vocal patterns and counterexamples materially improve behavioral and dialogue reconstruction?
 
 Apply governing method §16.5. Reuse the character voice close readings, exact-edition adjudications and voice-performance state ledger, with a targeted Hanami Ume pilot before evidence-proportional extension. Include supporting characters with sufficient evidence. Preserve actual listening versus script/still/measurement boundaries and competing interpretations. Do not turn conspicuous vocalizations into universal character tics. This is a Phase 8 synthesis obligation, not an automatic retrospective Gate E blocker.
