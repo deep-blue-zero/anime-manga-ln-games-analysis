@@ -461,7 +461,7 @@ Phase-4 relationship hypothesis promoted for Phase 6 testing: relation produces 
 
 | relationship | transition | evidence / implication |
 | --- | --- | --- |
-| Saki ↔ Ume | **STRENGTHEN** | ordinary explicit affection plus safe-channel negotiation: Saki redirects hazardous tackle-hugs rather than rejecting Ume's need for contact |
+| Saki ↔ Ume | **STRENGTHEN** | ordinary explicit affection plus safe-channel negotiation: Saki redirects hazardous tackle-hugs rather than rejecting Ume's need for contact *2026-11-26 qualification.* Ume describes affection. Saki names injury risk, withdraws her first assent and offers a front approach. Whether she catches Ume remains open. |
 | Temari ↔ Misuzu | **STRENGTHEN** | Temari's grievance reflexively becomes defense when Kotone flattens Misuzu; Misuzu independently names the same training incompatibility while preserving affection |
 | Kotone ↔ Mao | **STRENGTHEN** | Mao's dorm supervision repeatedly discovers competence beneath Kotone's evasive surface; health advice becomes negotiable rather than unilateral |
 | Mao ↔ Rinami | **STRENGTHEN** | study advice, career-philosophy disagreement, beach logistics, and reciprocal protection show normalized long-term peer access |
@@ -995,3 +995,7 @@ In Event 010 part 04 Hiro says she wants to try making the chocolate alone when 
 ## Recorded moon-viewing and its remembered quarrel
 
 A shared evening and ordinary care coexist with Temari's reservation and Misuzu's unexplained future method. Temari gives the first serious quarrel value. Misuzu applies the view to one remaining unnamed person and accepts postponement in this exchange. The words establish separate choices about companionship and the timing of further action. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#the-remembered-argument-and-the-present-judgment).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Ume explicitly asks to be Saki’s friend after Saki calls Lilja one. Saki names sisterhood in answer. Ume proposes a contest and Lilja reacts with surprise. The delivered contrast adds performed evidence for the moves. Jealousy, teasing and a bid for attention remain possible readings. The scene records no agreement to a contest. Saki withdraws her first assent and asks Ume to approach from the front. Ume announces the change and reports satisfaction later. Sampled approach and the blackout leave contact, a catch and safety open. The revised invitation applies to this occasion. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).

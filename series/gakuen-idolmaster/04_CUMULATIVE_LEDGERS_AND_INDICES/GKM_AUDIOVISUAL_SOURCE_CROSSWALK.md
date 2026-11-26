@@ -552,3 +552,7 @@ The retained Event 010 game capture XW1e6pWd_TU supplies distinct part 04 [805.0
 ## Recorded moon-viewing and its remembered quarrel
 
 The Japanese recording T-OtHXvvl68 binds support story 3-0033 part 01 to [0.200, 97.900) and part 02 to [98.200, 202.983) in original seconds. The source and child clocks retain distinct audio and picture qualifications. Part 03 begins outside these guards. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+The original Japanese IDs kxKzSCJs6wA, YreLQRvK_zU and o9FocPc2k_k respectively bind Event 006 part 03, support 2-0047 part 02 and support 2-0000 part 01. Each comparison has separate child and original guards. Where decoded audio ends before encoded duration, retain both clocks. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).

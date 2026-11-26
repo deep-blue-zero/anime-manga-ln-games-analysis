@@ -176,7 +176,7 @@ That is scaffolded authorship rather than maternal takeover.
 
 **STRENGTHEN:** Rinami's care includes process design, boundary setting, and epistemic humility.
 
-**STRENGTHEN:** soft delivery does not mean low authority; she can stop an entire project direction without appropriating ownership of the project.
+**STRENGTHEN** the prospective checking role. Rinami says she will stop them if they go too far. Ume then reaffirms her intention to think of more ideas. The scene gives the terms of the arrangement. The decision she might make on a future proposal remains separate. [Guarded Ume adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#ume-keeps-a-role-in-the-work).
 
 ## 2.5 Hiro supplies the missing user perspective
 

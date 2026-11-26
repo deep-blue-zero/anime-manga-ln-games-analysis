@@ -1562,3 +1562,7 @@ Event 010 part 04 L444 establishes Hiro’s aim to give good chocolate to import
 ## Recorded moon-viewing and its remembered quarrel
 
 Part 01 L101–114 assigns the reservation to Temari. Part 02 L137–162 keeps the unnamed remaining person, Temari's deferral and Misuzu's reply separate. The original picture at 198.750 s locates the eleven printed glyphs at L153. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#the-remembered-argument-and-the-present-judgment).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Event 006 part 03 L322–423 has original guard [684.000, 754.000) s. Support 2-0047 part 02 L93–164 has picture guard [144.400, 186.466) s and sound guard extending to 186.474 s. Support 2-0000 part 01 L30–118 has guard [0.100, 88.200) s. All three IDs, editions, child bounds and inspection limits are bound in the receipt. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).

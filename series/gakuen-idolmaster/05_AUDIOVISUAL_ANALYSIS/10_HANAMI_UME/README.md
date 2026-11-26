@@ -19,6 +19,8 @@ last_updated: "2026-11-12"
 
 Current claim wording and item-level completion are recorded in the [Carbon playback successor](GKM_UME_CARBON_PLAYBACK_SUCCESSOR.md). The baseline and Phase 3 completion report retain their original inspection boundary.
 
+[Guarded Ume adjudication](../GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md) adds three guarded comparisons of Ume’s initiative, requests and response to Saki’s changed terms. [Hanami Ume’s definitive monograph](../../07_DEFINITIVE_CHARACTER_MONOGRAPHS/22_HANAMI_UME.md) meets the individual review and audiovisual requirements at Source Lock 1.2 revision 88.
+
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
 Q560 and Q561 cover Ume's guarded Shibuya exchanges, including her own invitation, two-person refusal count and share in the three-voice title call. The backstage recording carries an instrumental quotation of the title. The concert's sung Ume sample and independent reception evidence remain open. The distinct official trio MV supports changing vocal foreground and authored focality. Ume's athletic preparation and shared hook remain separate from the event performance. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)

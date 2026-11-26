@@ -742,3 +742,7 @@ Hiro’s part 04 renewed request and part 05 viewer-audible marked inward dedica
 ## Recorded moon-viewing and its remembered quarrel
 
 Misuzu's polite form survives a change in force during the remembered argument. Temari's casual question, startled opening and quieter reservation occupy separate turns. The later long caption and deferral are separate evidence from reported nonlexical sound. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#the-remembered-argument-and-the-present-judgment).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Ume’s suggestion 全部考えてもらった方が早いかも in Event 006 qualifies a possible course. Her later わかりました and choice to think of more mark a distinct response. In support 2-0047 Ume asks for the named friend relationship, then challenges Lilja. Saki’s reply calls Ume her 妹. Its scope is the stated request. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).

@@ -661,7 +661,7 @@ Whole support-commu retrieval remains preferred over user-cut excerpts.
 12. `story_0035/part_02` — Hiro Santa/idol dream-giving reframe.
 13. `story_0043/part_01` — Lilja openly angry after Ume ignores pace.
 14. `story_0044/part_01` — `千奈ぴょん` teasing and desired form of address.
-15. `story_0047/part_02` — Saki explicitly calls Lilja a friend; Ume's sister-category jealousy.
+15. `story_0047/part_02` — Saki calls Lilja a friend, Ume asks for the same label, and Saki gives her a different answer. Test Ume’s delivery and the ensuing challenge, with motive open.
 16. `story_0050/part_01` — Kotone sincerely praises Temari's discipline.
 
 Prefer complete support-commu segments; timestamp internally; no user-side clipping requirement where whole scenes are retrievable.
@@ -1181,3 +1181,7 @@ A counts once as a recording window and twice as a person-specific answer. The e
 ## Recorded moon-viewing and its remembered quarrel
 
 Two guarded windows supply four individual P0 answers. Q733 concerns Temari and Misuzu in part 01. Q734 concerns each in part 02. The total reaches 57 accepted recording windows and 68 person-specific answers. Both characters still require individual Gate E decisions. The earlier queue rows record why these questions were asked. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Ume’s three central recorded questions
+
+Three independently received original windows add 5 person-specific answers. Cumulative receiving reaches 60 recording windows and 73 person-specific answers. Ume’s Q483, Q660 and Q628 have guarded answers. Rinami’s own Q483 answer concerns her prospective checking role. Saki’s own Q660 answer concerns her two distinct responses. Q628 uses Saki’s speech as context for Ume’s own answer. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#person-specific-dispositions).

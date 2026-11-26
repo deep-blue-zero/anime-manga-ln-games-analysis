@@ -397,7 +397,7 @@ Ume's care is more immediate and physical. It appears as:
 - insistence that Saki rest emotionally as well as physically;
 - and the willingness to become strong enough to threaten the person she loves.
 
-The tackle-hug support scene is especially useful. Saki does not reject Ume's affection; she redirects the delivery into a safer channel she can receive. Ume, for her part, accepts the boundary without needing the affection itself to be repudiated.
+In support 2-0000 part 01, Saki objects to the surprise tackle, takes back her first assent and asks Ume to approach from the front. Ume announces the revised approach and declares herself satisfied afterward. The sisters’ words show both the revised boundary and its uptake. Whether Saki actually catches Ume remains a separate question. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#a-sister-asks-for-a-different-approach).
 
 ### Ume receiving Saki's care *(2026-11-15; GKM-SAA-023, GKM-SAA-178)*
 

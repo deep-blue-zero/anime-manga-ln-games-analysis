@@ -81,3 +81,7 @@ Saki’s delivery gathers force as she moves from a judgment about the present S
 ## Guarded coaching and support dialogue — 2026-11-26
 
 Saki projects her call and criticizes the inefficiency she has been watching as a friend. She offers instruction as an order to become her pupil, and the listeners distinguish her firm condition for withdrawing the offer. Lilja’s explicit request for Saki to teach her supplies the response in this exchange. Saki’s use of 免罪符 echoes Lilja’s inward word for the player. No in-story access follows from the echo. Saki’s recalled demand that Sumika tell her everything is direct and weighted. Later she says she had noticed the change in a respected rival and could not see its trigger. She says she wanted to help if something kept Sumika from trying despite wanting to. The listeners hear a brighter shift on calling the others her friends. The earlier pressure, the later account, and Sumika’s response have their own evidence. [Guarded Event 012 adjudication](../GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Ume’s proposals, relationship labels and terms of approach
+
+**Saki P1 Q660.** Saki brightly affirms that Lilja is her friend, then answers Ume in a more matter-of-fact register by naming her as her sister. The content and delivery distinguish the two responses. A motive to exclude Ume remains open. [Guarded Ume adjudication](../GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#asking-to-be-a-friend-and-proposing-a-contest).

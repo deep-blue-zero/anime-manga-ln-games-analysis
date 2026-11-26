@@ -103,3 +103,7 @@ The unnumbered [current Kaya Rinha AV reading](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_
 The current perceptual and historical baselines cover the distributed voice-analysis responsibility alongside the dossier.
 
 [Carbon propagation and claim routes](GKM_CARBON_PROPAGATION.md) links the current reading for all fifteen character packages. Resolve Carbon recording and playback IDs in the [recording identity crosswalk](GKM_CARBON_RECORDING_IDENTITY_CROSSWALK.tsv). Match each recording to its [scoped claim disposition](GKM_CARBON_CLAIM_TRANSITIONS.tsv).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Three independently received original windows add 5 person-specific answers. Cumulative receiving reaches 60 recording windows and 73 person-specific answers. Ume’s Q483, Q660 and Q628 have guarded answers. Rinami’s own Q483 answer concerns her prospective checking role. Saki’s own Q660 answer concerns her two distinct responses. [Guarded Ume adjudication](GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).
