@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E07
 edition: PP-S01NE
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -17,7 +17,7 @@ source_boundary: "PP-S01NE-E01–E07 (Season 1 New Edit through Episode 07 only)
 canonical_home: series/psycho-pass/installments/s01-new-edit/checkpoints/PP_S01NE_E07_CHECKPOINT.md
 method_profile: PP_AV_PRIMARY_CHARACTER_AND_FORM
 created: 2026-11-24
-last_updated: 2026-11-24
+last_updated: 2026-11-26
 ---
 
 # Episode 07 Transaction Checkpoint — `PP-S01NE-E07`
@@ -25,6 +25,7 @@ last_updated: 2026-11-24
 - **Run ID:** `PP-S01NE-RUN-20261123-E01-E11`
 - **Unit & Edition:** `PP-S01NE-E07` (*PSYCHO-PASS* Season 1 New Edit / Extended Edition — middle episode of Tranche 2 `E06–E08`)
 - **Canonical Reading:** [`PP_S01NE_E07_DEEP_READING.md`](../readings/PP_S01NE_E07_DEEP_READING.md)
+- **Published Freeze & Companions:** [`PP_S01NE_PRE_0007.md`](../freezes/PP_S01NE_PRE_0007.md) | [Scene Reconstructions](../PP_S01NE_SCENE_RECONSTRUCTION_LEDGER.md#pp-s01ne-e07) | [Errata & Clarifications](../PP_S01NE_READING_ERRATA_AND_CLARIFICATIONS.md)
 - **Coverage Verdict:** `COMPLETE_FOR_DECLARED_SCOPE` (`00:00:00.000–00:45:53.194`, 100% runtime, zero narrative gaps, confirmed zero post-credit footage, zero E08–E11 narrative exposure).
 - **QC Verification:** `14/14` Quality-Control criteria PASS (all `9 REQUIRED` + `5 OPTIONAL` Stage 2 directives satisfied and first-hand verified).
 
@@ -32,7 +33,7 @@ last_updated: 2026-11-24
 
 ## 1. Frozen Prospective Entering Boundary (`PP-S01NE-PRE-0007`)
 
-- **Freeze ID:** `PP-S01NE-PRE-0007` (locked unaltered prior to any E07 narrative inspection; `8,939` bytes, SHA-256 `51d96ded02f816d037c11370ff1d783994d11d67d6d1caf4949aabcee8b34a51`).
+- **Freeze ID:** [`PP-S01NE-PRE-0007`](../freezes/PP_S01NE_PRE_0007.md) (locked unaltered prior to any E07 narrative inspection; `8,939` bytes, SHA-256 `51d96ded02f816d037c11370ff1d783994d11d67d6d1caf4949aabcee8b34a51`).
 - **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01`–`E06` (Sengūji dead at `CC 328`; Makishima revealed clear face, full name `槙島聖護`, dropped `79.2 -> 0`, and killed Yuki Funahara; Akane testified `槙島聖護はドミネーターで裁けません` to Kōgami; Ginoza/Masaoka/Yayoi/Kagari identified Sengūji without yet hearing Akane's full `CC 0` debriefing; `Masaoka = Ginoza's father` still `STRONG_INF`; `H2c` structurally cracked).
 - **Disclosure of Prior Familiarity:** All four independent Gemini Neon Extra contexts disclosed pretrained franchise familiarity (`blind_to_franchise: false`) and achieved **100% clean quarantine against `E08–E11` Sibyl/Tōma/helmet lore**; Agent D Stage 2 caught and corrected `9 REQUIRED` items (`282.5→282.6`, `チェ・グソン` Tier-1 restoration, Kasei After Effects `d_f09` render logs, Tōma/Akane `d_f02`/`d_f06` OCR, `00:33:56` Akane speaker fix, `d_f08` `大久保葦歌`/`金原祐治` board fix, `d_f18` `赤と黒（下巻）` + `d_f17` Cast Card 2, Agent C's prose `Tomomi` scrub, and honest `d04` masked-overlap bracketing).
 - **Frozen Questions (`Q1`–`Q6`) Adjudicated Honestly:**

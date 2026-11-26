@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E10
 edition: PP-S01NE
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -17,7 +17,7 @@ source_boundary: "PP-S01NE-E01–E10 (Season 1 New Edit through Episode 10 only;
 canonical_home: series/psycho-pass/installments/s01-new-edit/checkpoints/PP_S01NE_E10_CHECKPOINT.md
 method_profile: PP_AV_PRIMARY_CHARACTER_AND_FORM
 created: 2026-11-24
-last_updated: 2026-11-24
+last_updated: 2026-11-26
 ---
 
 # Episode 10 Transaction Checkpoint — `PP-S01NE-E10` (Penultimate Episode)
@@ -25,6 +25,7 @@ last_updated: 2026-11-24
 - **Run ID:** `PP-S01NE-RUN-20261123-E01-E11`
 - **Unit & Edition:** `PP-S01NE-E10` (*PSYCHO-PASS* Season 1 New Edit / Extended Edition — Penultimate Episode of Season 1 & Tranche 3 `E09–E11`, `10/11 = 91%`)
 - **Canonical Reading:** [`PP_S01NE_E10_DEEP_READING.md`](../readings/PP_S01NE_E10_DEEP_READING.md)
+- **Published Freeze & Companions:** [`PP_S01NE_PRE_0010.md`](../freezes/PP_S01NE_PRE_0010.md) | [Scene Reconstructions](../PP_S01NE_SCENE_RECONSTRUCTION_LEDGER.md#pp-s01ne-e10) | [Errata & Clarifications](../PP_S01NE_READING_ERRATA_AND_CLARIFICATIONS.md)
 - **Coverage Verdict:** `COMPLETE_FOR_DECLARED_SCOPE` (`00:00:00.000–00:45:52.005`, 100% runtime including live narrative `ED2` and post-credit coda `00:45:44.9–45:46.7` through endpoint guard `frame 65,982`, zero `E11` narrative exposure).
 - **QC Verification:** `14/14` Quality-Control criteria PASS (all `12 REQUIRED` + `6 OPTIONAL` Agent D Stage 2 directives satisfied and first-hand verified).
 
@@ -32,7 +33,7 @@ last_updated: 2026-11-24
 
 ## 1. Frozen Prospective Entering Boundary (`PP-S01NE-PRE-0010`)
 
-- **Freeze ID:** `PP-S01NE-PRE-0010` (locked unaltered prior to any E10 narrative inspection; `8,439` bytes, `SHA-256: ef991c7c77a9a2898722b5631a59cad95c6ccccde5cf2d6a093ff259fae39255`).
+- **Freeze ID:** [`PP-S01NE-PRE-0010`](../freezes/PP_S01NE_PRE_0010.md) (locked unaltered prior to any E10 narrative inspection; `8,439` bytes, `SHA-256: ef991c7c77a9a2898722b5631a59cad95c6ccccde5cf2d6a093ff259fae39255`).
 - **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01`–`E09` (Sibyl's 247-brain core unveiled to Makishima & Audience only; Makishima killed Tōma's brain & escaped; replacement Kasei forged Kōgami's live CC `265.8 → 329.4` until Akane checkmated her; Shion revealed `あと6日` from Monday `2113-02-06`; Kōgami defected with Masaoka's live revolver leaving `常守へ`).
 - **Disclosure of Prior Familiarity:** All four independent Gemini Neon Extra contexts disclosed pretrained franchise familiarity (`blind_to_franchise: false`) and achieved **100% clean `E11` finale quarantine** and **`0` unspoken Tier-4 romaji leaks**. Agent D Stage 2 issued `PASS_WITH_EDITS` (`12 REQUIRED` + `6 OPTIONAL`) — ALL integrated (`2065-11-23` Monday / `JPN Selection 2065` overturning all 4 Stage 1 guesses; Akane `d_f07` `CASE 01`–`CASE 04` exact dates & `2112-11-25(日)` weekday slip; `d_f05` `人口爆発` & criminal-brain prototype falsifying Agent B; `d03` genuine localized lag `-1.65s` onset at `0:25:12.57`; `d01` Block 1 clean RMS false alarm & `d06` endpoint guard `frame 65,982`; quadruple-locked `管巻宣昭` = `Nobuaki Kudama`; `水無瀬` Tier-4 ED-only lock; `d_f02` bike plate; `d_f04` BBS fixes; `d_f13`–`d_f14` Yuki `B+, B, B, B, B` / `C-178pt`; `SC-14` analeptic cafeteria flashback; `d_f15` route shields; `d_f17` `CAM [098]`; prop wording).
 - **Frozen Questions (`Q1`–`Q6`) Adjudicated Honestly:**

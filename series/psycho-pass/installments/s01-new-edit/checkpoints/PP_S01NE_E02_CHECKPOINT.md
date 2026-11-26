@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E02
 edition: PP-S01NE
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -17,7 +17,7 @@ source_boundary: "PP-S01NE-E01–E02 (Season 1 New Edit through Episode 02 only)
 canonical_home: series/psycho-pass/installments/s01-new-edit/checkpoints/PP_S01NE_E02_CHECKPOINT.md
 method_profile: PP_AV_PRIMARY_CHARACTER_AND_FORM
 created: 2026-11-23
-last_updated: 2026-11-23
+last_updated: 2026-11-26
 ---
 
 # Episode 02 Transaction Checkpoint — `PP-S01NE-E02`
@@ -25,6 +25,7 @@ last_updated: 2026-11-23
 - **Run ID:** `PP-S01NE-RUN-20261123-E01-E11`
 - **Unit & Edition:** `PP-S01NE-E02` (`PSYCHO-PASS` Season 1 New Edit / Extended Edition)
 - **Canonical Reading:** [`PP_S01NE_E02_DEEP_READING.md`](../readings/PP_S01NE_E02_DEEP_READING.md)
+- **Published Freeze & Companions:** [`PP_S01NE_PRE_0002.md`](../freezes/PP_S01NE_PRE_0002.md) | [Scene Reconstructions](../PP_S01NE_SCENE_RECONSTRUCTION_LEDGER.md#pp-s01ne-e02) | [Errata & Clarifications](../PP_S01NE_READING_ERRATA_AND_CLARIFICATIONS.md)
 - **Coverage Verdict:** `COMPLETE_FOR_DECLARED_SCOPE` (`00:00:00.000–00:45:52.171`, 100% of episode runtime, zero uninspected narrative gaps, zero post-credit scene confirmed, zero E03–E11 narrative exposure).
 - **QC Verification:** `14/14` Quality-Control criteria PASS (all `12 REQUIRED` + `3 OPTIONAL` Stage 2 directives satisfied).
 
@@ -32,7 +33,7 @@ last_updated: 2026-11-23
 
 ## 1. Frozen Prospective Entering Boundary (`PP-S01NE-PRE-0002`)
 
-- **Freeze ID:** `PP-S01NE-PRE-0002` (locked prior to any E02 narrative inspection; preserved unaltered, `5,605` bytes, SHA-256 `f578edc17aaeb7dbdb1295bb4ecaa566492ae1504a853e122d397bf6f54bd196`).
+- **Freeze ID:** [`PP-S01NE-PRE-0002`](../freezes/PP_S01NE_PRE_0002.md) (locked prior to any E02 narrative inspection; preserved unaltered, `5,605` bytes, SHA-256 `f578edc17aaeb7dbdb1295bb4ecaa566492ae1504a853e122d397bf6f54bd196`).
 - **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01` accepted records (`H3c` institutional ambivalence; Makishima flashforward-only; Kōgami's past `"abnormal"` death unlinked; Masaoka/Ginoza history undisclosed; Yayoi↔Shion non-certified; Kagari age-5 uncorroborated).
 - **Disclosure of Prior Familiarity:** All four independent agents disclosed pretrained franchise familiarity (`blind_to_franchise: false`) and quarantined outside E01–E02 knowledge; Agent D Stage 2 caught and tightened two subtle boundary phrasings (`f05` wall-photo confirmation alignment, `LSM LIBRARY` tablet scope) prior to acceptance (`REQ-01`, `REQ-12`).
 - **Frozen Pre-Inspection Questions & Hypotheses (`Q1`–`Q6`) Evaluated Honestly:**
@@ -41,7 +42,7 @@ last_updated: 2026-11-23
   - `Q3` (Akane post-report trajectory): **`CONFIRMED` (sharply complicated)** — exercises defiant Inspector agency yet confronts Kōgami's terrifying brutality and inadvertently exposes her classmate Shōko Sugawara to Midō.
   - `Q4` (Kōgami `役目` & past): **`PARTIALLY CONFIRMED` (core mystery `STILL UNRESOLVED`)** — adds blurred wall photo (`f05`), Akane's `シビュラシステムの一員` remark (`00:23:41`), and Masaoka's `コウのときもそうだった` (`00:28:24`); incident specifics remain undisclosed.
   - `Q5` (Squad depth & ordinary texture): **`PARTIALLY CONFIRMED`** — major depth for Masaoka and Ginoza; ordinary/tactical texture for Kagari, Yayoi, Shion; Yayoi↔Shion (`00:32:23` wink) and Kagari age-5 remain unresolved.
-  - `Q6` (Makishima main-timeline entry): **`CONFIRMED`** — active facilitation across both cases alongside Choi Gu-sung with zero CID awareness at `00:45:52`.
+  - `Q6` (Makishima main-timeline entry): **`CONFIRMED`** — active facilitation across both cases alongside Choi Gu-sung while CID Division 1 is not shown identifying them by `00:45:52` (offscreen/prior knowledge remains open; verifiable directly against published `PP_S01NE_PRE_0002.md`, `ERR-E02-01`/`02`).
 
 ---
 

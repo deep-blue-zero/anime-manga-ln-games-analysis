@@ -3,23 +3,23 @@ title: "Psycho-Pass — Source register and admission boundary"
 artifact_id: PP_SOURCE_REGISTER
 artifact_type: source_register
 series: psycho-pass
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 authority_generation: PP-INITIAL
-source_boundary: "PP-S01NE-E01–E11 admitted and verified (11/11 = 100% Season 1 New Edit complete)"
+source_boundary: "PP-S01NE-E01–E11 admitted and verified on series/psycho-pass (11/11 = 100% Season 1 New Edit complete; supplier disc provenance unauthenticated)"
 canonical_home: series/psycho-pass/source-inventory/PP_SOURCE_REGISTER.md
 created: 2026-11-18
-last_updated: 2026-11-24
-source_admission: "PP-S01NE-E01–E11 Season 1 New Edit complete (11/11 admitted and verified); no further narrative admission authorized"
+last_updated: 2026-11-26
+source_admission: "PP-S01NE-E01–E11 Season 1 New Edit complete on branch series/psycho-pass (11/11 admitted and verified); no further narrative admission authorized"
 ---
 
 # Source register and admission boundary
 
-This register distinguishes official edition/catalogue metadata, verified local file availability and narrative admission. **As of 2026-11-24 under completed run `PP-S01NE-RUN-20261123-E01-E11`, all eleven episodes of Season 1 New Edit (`PP-S01NE-E01` through `PP-S01NE-E11`, `11/11 = 100%`) are content-authenticated, bundle-verified, alignment-calibrated, and admitted (including direct lossless `AO` Japanese certification of `E11`'s untagged `audio_language=null/und` stream); `PP-S01NE-MENU-AV01` remains excluded and no later franchise installments are admitted.** On 2026-11-18 a bounded inventory found eleven numbered New Edit/Extended-labelled MKVs, one menu MKV, two BD-labelled ASS files and ten TV-labelled SRT files. All twenty-four files were byte-hashed. Container/stream metadata and subtitle timing/script metadata were inspected. Subsequent verification confirmed all 24 original hashes unchanged, verified eleven complete episode bundles (`PP-S01NE-E01-BUNDLE-V1`..`E11-BUNDLE-V1`) and eleven standalone canonical FLAC streams bit-exact with embedded MKV audio, and completed full audiovisual/Japanese-text inspection across all eleven Season 1 New Edit episodes (`PP-S01NE-E01`–`E11`).
+This register distinguishes official edition/catalogue metadata, verified local file availability, structural bundle inventory, and narrative admission. **As of 2026-11-26 under completed run `PP-S01NE-RUN-20261123-E01-E11` on branch `series/psycho-pass` (awaiting owner PR #717 publication review to `main`), all eleven episodes of Season 1 New Edit (`PP-S01NE-E01` through `PP-S01NE-E11`, `11/11 = 100%`) are content-authenticated as Season 1 New Edit, bundle-verified, alignment-calibrated, and admitted (including direct lossless `AO` Japanese certification of `E11`'s untagged `audio_language=null/und` stream and explicit BD07/08 input-witness lineage for `E04`); original supplier Blu-ray/disc derivation remains unauthenticated, `PP-S01NE-MENU-AV01` remains excluded, and no later franchise installments are admitted.** On 2026-11-18 a bounded bootstrap inventory found eleven numbered New Edit/Extended-labelled MKVs, one menu MKV, two BD-labelled ASS files and ten TV-labelled SRT files (all twenty-four byte-hashed, unchanged through 2026-11-26). Subsequent execution verified eleven complete episode bundles (`PP-S01NE-E01-BUNDLE-V1`..`E11-BUNDLE-V1`) and eleven standalone canonical FLAC streams bit-exact with embedded MKV audio, and completed full audiovisual/Japanese-text inspection across all eleven Season 1 New Edit episodes (`PP-S01NE-E01`–`E11`).
 
 Private acquisition paths and supplier filenames remain outside Git. Stable witness IDs below bind public-safe technical metadata to the exact private bytes. An authorized operator retrieves the private source inventory through the owner's source environment and matches by SHA-256; filename resemblance is insufficient. Copy/move without byte change preserves witness identity; new bytes require a new witness/version record. A hash proves identity of the inspected file, not authenticity, completeness or successful decoding.
 
@@ -27,12 +27,12 @@ Private acquisition paths and supplier filenames remain outside Git. Stable witn
 
 Fuji Television identifies Season 1 New Edit as the original twenty-two episodes reedited into eleven hour-slot episodes with added cuts. The hour-slot description includes broadcast scheduling and is compatible with the roughly forty-six-minute candidate files; it does not prove their edition or completeness. The page's 2014 back-number entries support the original New Edit broadcast year. Its displayed 2023 broadcast date is a later airing, not first release. [Official Fuji programme metadata](https://www.fujitv.co.jp/b_hp/psycho-pass_new/)
 
-The eleven local filename labels and counts are consistent with that official New Edit relationship. Their asserted BD/Extended provenance is **supplier-labelled, content match pending**. The original disc/edition, cuts, completeness, Japanese audio and subtitle fidelity have not been authenticated by direct inspection. These are eleven verified available media candidates, not eleven admitted episodes or eleven verified complete episode bundles.
+Direct full-runtime audiovisual and Japanese-text inspection across `PP-S01NE-E01`–`E11` has now **authenticated the content, continuity, runtime completeness, and spoken Japanese audio** of all eleven local files as *PSYCHO-PASS* Season 1 New Edit Episodes 01–11 (keeping structural bundle verification distinct from narrative admission, and keeping the **supplier-labelled Blu-ray / physical disc provenance explicitly unresolved/unauthenticated** because content authentication verifies New Edit episode content, not original commercial disc rip lineage).
 
 | Family / reserved analytical identity | Metadata basis | Available in inspected root | Admission and local-home state |
 | --- | --- | --- | --- |
-| Season 1 New Edit / Extended, `PP-S01NE` | Official eleven-unit reedit relationship; local numbered labels/probes | Eleven MKV candidates E01–E11; subtitle witnesses below | NONE; first intended installment, local contracts initialized |
-| Season 1 original broadcast, `PP-S01OB` | Official twenty-two-unit source edition for New Edit | No original-version witness located in this inventory | NONE; possible same-continuity comparison only, no local reading home |
+| Season 1 New Edit / Extended, `PP-S01NE` | Official eleven-unit reedit relationship; direct E01–E11 content/audio/bundle authentication | Eleven MKV witnesses E01–E11; aligned Japanese text & canonical FLAC; eleven validated bundles | **ADMITTED ON BRANCH `series/psycho-pass`: `PP-S01NE-E01`–`E11` (`11/11 = 100%`, awaiting owner PR #717 merge to `main`); `PP-S01NE-MENU-AV01` EXCLUDED; supplier physical BD provenance UNAUTHENTICATED** |
+| Season 1 original broadcast, `PP-S01OB` | Official twenty-two-unit source edition for New Edit | No original-version video witness located; auxiliary BD07/08 text inputs used only as mapped subtitle inputs for `E04` (see E04 lineage table below) | NONE; possible same-continuity comparison only, no local reading home |
 | Season 2, prospective `s02` | Official franchise archive | No source verified here | NONE; inventory candidate only |
 | The Movie | Official franchise archive names The Movie | No source verified here | NONE; exact release/edition and stable installment slug to verify at admission |
 | Sinners of the System | Official franchise archive identifies the collection | No source verified here | NONE; case boundaries, exact titles and source editions must be verified before creating case homes |
@@ -44,11 +44,11 @@ The [official franchise archive](https://psycho-pass.com/archive/) distinguishes
 
 New Edit is not a new fictional continuity merely because it edits the original. Reserve original broadcast IDs E01–E22 separately; no automatic E01↔E01/E02 pairing, duplicated coverage credit or common timestamp namespace. Added/reordered segments and disclosure differences require authorized comparison of both exact witnesses.
 
-## Exact media candidates
+## Exact media witnesses (`PP-S01NE-E01` – `E11`)
 
-All eleven candidate episode files are MKV containers with stream 0 H.264, 1920×1080, 10-bit `yuv420p10le`, declared frame rate `24000/1001`, time base `1/1000`; stream 1 is FLAC, 48 kHz stereo, time base `1/1000`. No embedded subtitle streams were found. Container and video origins report 0.000 seconds. The video language tag is `eng`; that tag does not identify spoken language. Audio is tagged `jpn` for E01–E10, while E11 has no audio language tag. Direct language/listening verification remains pending for every file.
+All eleven episode files are MKV containers with stream 0 H.264, 1920×1080, 10-bit `yuv420p10le`, declared frame rate `24000/1001`, time base `1/1000`; stream 1 is FLAC, 48 kHz stereo, time base `1/1000`. No embedded subtitle streams were found. Container and video origins report 0.000 seconds. The video language tag is `eng`; that tag does not identify spoken language. Audio is tagged `jpn` for E01–E10, while E11 carries no audio language tag (`null/und`). **Status update (`2026-11-24`, updated `2026-11-26`):** All eleven rows below have moved from bootstrap `VERIFIED_METADATA_ONLY / PENDING` to **`CONTENT_AUTHENTICATED_NEW_EDIT` & `ADMITTED_ON_BRANCH_SERIES_PSYCHO_PASS`** (direct spoken Japanese listening verified across all 11 episodes including untagged E11; **physical Blu-ray/disc rip provenance remains `SUPPLIER_LABELLED_UNAUTHENTICATED`**).
 
-Use source-relative `HH:MM:SS.mmm` with the registered origin, retaining stream-specific offsets below. Duration is a container report, not a perceptually verified ending. Frame rate is source metadata, not evidence of an inspecting model's sampling rate. All rows have availability `VERIFIED_METADATA_ONLY`, narrative admission `NONE` and content/edition verification `PENDING`.
+Use source-relative `HH:MM:SS.mmm` with the registered origin, retaining stream-specific offsets below. Duration is a container report verified against full playback; frame rate is source metadata, not an inspecting model's sampling rate (disclosed as `1.0 fps` viewing MP4s supplemented by lossless clips and native 1080p stills).
 
 | Unit / media witness | Bytes | Duration (s) | Audio start (s) | SHA-256 |
 | --- | ---: | ---: | ---: | --- |
@@ -85,26 +85,38 @@ All twelve text files decoded as UTF-8 with optional BOM and contain Japanese-sc
 | PP-S01NE-E10-TXT-TV01 | SRT / TV-labelled | 66437 | 719 | 00:01:03,059 → 00:57:22,966 | `a3fa53ce51a4369df15ac9e426e841b880c30d64a10d1c3171d05debd71ee524` |
 | PP-S01NE-E11-TXT-TV01 | SRT / TV-labelled | 48898 | 568 | 00:01:06,043 → 00:57:22,913 | `555d18875707f956697bf8ae7e5712bf4342b5550af806615de6473ab55fc61f` |
 
-**E04 has no external subtitle file in the inspected inventory.** E01 and E02 have both BD- and TV-labelled witnesses. E03 and E05–E11 have TV-labelled witnesses only.
+**E04 has no archival New Edit external subtitle file in the inspected inventory** (see the verified `E04` auxiliary BD07/08 + Whisper lineage & segment mapping table below). E01 and E02 have both BD- and TV-labelled witnesses. E03 and E05–E11 have TV-labelled witnesses only.
 
-Every TV-labelled SRT ends around 56–57 minutes, beyond the roughly 45–46-minute video duration. Those clocks are **UNALIGNED** and must not be used as direct video timestamps. Differences may involve commercial breaks, cuts, edition changes or incorrect labelling; no cause was established by metadata. Do not assume one constant offset. A verified piecewise segment crosswalk or another accurate source-language route is required. The BD ASS endpoints lie inside E01/E02 duration, which is necessary but insufficient for synchronization; content matching, opening/middle/end anchors, residual error and text fidelity remain pending.
+Every TV-labelled SRT ends around 56–57 minutes, beyond the roughly 45–46-minute video duration. Those raw TV clocks remain **UNALIGNED** and are never used as direct video timestamps. Across `PP-S01NE-E01`–`E11`, BD-labelled ASS witnesses (`E01`, `E02`) and piecewise-aligned derived ASS witnesses (`E03`, `E05`–`E11`, `0` normalized text diffs vs archival `TXT-TV01`) have now been empirically calibrated against lossless 48 kHz audio (`50 ms` `AM` anchors + direct `AO` listening), documenting all localized cue leads/lags and TV-CC speaker errors in the per-episode admission table below.
 
-## Evidence routes and bounded gaps
+### Verified Auxiliary Subtitle Lineage for `PP-S01NE-E04` (BD07/BD08 Input Witnesses & Segment Map)
 
-| Responsibility | Verified now | Missing before a required future claim can be accepted |
+Because `PP-S01NE-E04` lacks an archival New Edit subtitle witness in the inventory, `PP-S01NE-E04-TXT-ALIGNED01` (`62,323` B, `601` cues, SHA-256 `bd639ec457d3825f28667e91dfeb12ba566facbcc97a5175a4ee197b24a15b67`) was assembled from two supplier-labelled regular-edition (`PP-S01OB`) BD ASS inputs (`556` cues) plus `45` Whisper `ASR_UNVERIFIED` fill cues (`ep04.cue_provenance.json`, SHA-256 `f14b7c65b6fb8569...`):
+
+| Input Witness ID | Edition / Provenance Status | Bytes | Cues | Full SHA-256 | Role in `PP-S01NE-E04-TXT-ALIGNED01` |
+| --- | --- | ---: | ---: | --- | --- |
+| `PP-S01OB-E07-TXT-BD01` | Supplier-labelled regular-edition Ep 07 BD ASS (**auxiliary input only**; original disc provenance unauthenticated) | 32,812 | 338 | `2b9aadf39118bade0844a1c47980bf0b81b0e9d4e007d867598533a30f8a8139` | Supplies `282` piecewise-aligned cues across 3 clusters (`cl0` cues `22–35` → `00:02:09.76–00:02:57.50` [orig `0:00:01.78–0:00:47.32`]; `cl1` cues `36–41` → `00:04:32.47–00:04:57.72` [orig `0:02:29.35–0:02:49.87`]; `cl2` cues `42–303` → `00:04:58.02–00:23:25.53` [orig `0:02:49.98–0:21:15.17`]). |
+| `PP-S01OB-E08-TXT-BD01` | Supplier-labelled regular-edition Ep 08 BD ASS (**auxiliary input only**; original disc provenance unauthenticated) | 29,697 | 289 | `7a3962ef73bfbfac5f9a66cb872cae32e006def733eb49729625304daa7e157d` | Supplies `274` piecewise-aligned cues in 1 contiguous cluster (`cl0` cues `328–601` → `00:25:07.23–00:44:17.60` [orig `0:02:08.31–0:21:16.06`]). |
+| `PP-S01NE-E04-TXT-ASR-RAW01` | Machine-transcribed Whisper raw SRT (`machine_transcription_unreviewed`) | 53,916 | 649 | `9eac01743c3314a6db92bb776ee5955ad2de0f6ecbb86e4ba23301784ed32177` | Supplies `45` unmapped gap/New-Edit-extension cues (`cues 1–21` `00:00:02.83–00:02:02.76` & `cues 304–327` `00:23:30.32–00:24:56.79`), **100% (`45/45`) directly audited on lossless 48 kHz WAVs (`AO`)** catching `9` text defects + `1` Masaoka chuckle (`CLM-0038`). |
+
+> **Edition-Fidelity Boundary for `E04`:** The `556` BD07/08 cues remain explicitly **auxiliary cross-edition subtitle text** (not direct New Edit disc captions); decisive E04 lines, proper names, and all `45` gap cues were independently checked against lossless `PP-S01NE-E04-AUD-FLAC01` (`AO`) and `1080p` frames, without implying general `PP-S01OB` edition admission or automatic pairing elsewhere in the series.
+
+## Evidence routes and current verification status (Updated Through `PP-S01NE-E11`)
+
+| Responsibility | Current Status Through `PP-S01NE-E11` (`11/11`) | Residual Bounded Gaps / Limits |
 | --- | --- | --- |
-| Continuous video | Eleven file identities and technical probes | Actual access in chosen runtime, edition/completeness, successful playback, coverage and sampling disclosure; faithful derivatives if needed |
-| Direct audio/listening | FLAC stream metadata and language tags except E11 | Actual listening, language/content verification, stream/time calibration and adequate delivery to each required analyst |
-| Japanese dialogue/text | Twelve external candidates with script/timing metadata | Accuracy, speaker/line identity and edition alignment; an adequate E04 route; no official or production-script status established |
-| Visual frame evidence/index | Source video exists | No extracted frame set, scene index or reviewed visual witness prepared in this bootstrap |
-| Audio analysis assets | Embedded audio exists | No separate calibrated listening/clip set or analyzed waveform prepared |
-| Transcript and cross-modal linkage | External text candidates only | No verified continuous transcript, cue-to-scene map or full bundle linkage |
-| Complete episode bundle | None | All semantic responsibilities, coverage and QA under the live bundle specification |
-| Supplementary material | Menu candidate identified | Its content/relevance uninspected; no admitted scripts, commentary, interviews, novels, manga or later films/episodes |
+| Continuous video | **VERIFIED (`E01`–`E11`):** 100% watched via budget-safe `≤ 28 MiB` overlapping 720p viewing MP4s (`1.0 fps` sampling disclosed) + bounded 1080p lossless/HQ clips (`≤ 28 MiB`). | Physical Blu-ray/disc derivation remains supplier-labelled/unauthenticated; `1.0 fps` viewing sampling requires targeted lossless/1080p checks for sub-second motion. |
+| Direct audio/listening | **VERIFIED (`E01`–`E11`):** Standalone canonical 48 kHz FLAC verified bit-exact with embedded MKV PCM across all 11 episodes; direct Japanese spoken-language verification completed on all 11 (including untagged `E11`). | Audio listening transcriptions remain attributed `AO` observations distinct from official production scripts. |
+| Japanese dialogue/text | **VERIFIED (`E01`–`E11`):** `E01–E02` BD ASS calibrated; `E03`, `E05–E11` piecewise-aligned ASS (`0` diffs vs archival `TXT-TV01`) calibrated with TV-CC errors audited on `AO`; `E04` BD07/08 inputs + `45/45` `ASR_UNVERIFIED` cues mapped & `AO`-audited. | No official commercial production scripts admitted; `E04`'s `556` BD07/08 cues retain auxiliary cross-edition status where not individually re-audited on lossless `AO`. |
+| Visual frame evidence/index | **VERIFIED (`E01`–`E11`):** All 11 `PP_ep##_screenshots` bundles validated + hundreds of targeted native 1080p `FRM` stills and zoomed crops inspected directly. | Tiny/bloomed background glyphs remain honestly marked `[UNREADABLE]` where native 1080p pixels do not resolve them. |
+| Audio analysis assets | **VERIFIED (`E01`–`E11`):** Deterministic 50 ms `AM` RMS onset calibration + Stage 1/2 lossless 48 kHz PCM WAV windows audited across all 11 episodes. | None within `PP-S01NE-E01`–`E11`. |
+| Transcript and cross-modal linkage | **VERIFIED (`E01`–`E11`):** Cue-to-scene maps, `251` provenance-bound observations, and `222` materialized scene reconstructions recorded in local ledgers. | Restricted raw transcripts/ASS files remain strictly outside Git. |
+| Complete episode bundle | **VERIFIED (`E01`–`E11`):** All 11 bundles (`PP-S01NE-E01-BUNDLE-V1`..`E11-BUNDLE-V1`) structurally validated (`0` broken links) and content-authenticated. | `paired_subtitle_file: null` metadata field noted honestly on Japanese-only bundles. |
+| Supplementary material | **EXCLUDED / UNADMITTED:** `PP-S01NE-MENU-AV01` excluded; no scripts, commentaries, novels, manga, `PP-S01OB` video, or Season 2+ films/episodes admitted. | Requires separate future owner authorization. |
 
-The large MKVs require actual runtime transport verification and possibly faithful derivatives, not a presumption that a provider can inspect the original files. Any derivative must retain source hash/interval, stream mapping, time transform, encoding/sampling limits and quality assurance. Keep restricted source media, extracted frames, transcripts and full subtitles in authorized private environments. The repository stores analytical outputs and safe witness metadata only.
+The large MKVs require actual runtime transport verification and faithful `≤ 28 MiB` derivatives rather than wholesale submission. Every derivative retains source hash/interval, stream mapping, time transform, encoding/sampling limits and quality assurance in the private execution manifest. Keep restricted source media, extracted frames, transcripts and full subtitles in authorized private environments. The repository stores analytical outputs and safe witness metadata only.
 
-Before the first run, recover owner authorization, verify the selected edition/witness and complete required bundle/text/AV routes, record role/capability and independence receipts, fix the admitted boundary and run stop, then update the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) under the initiation contract. The admitted-source table remains empty until that actual transaction. Preparing a source, finding a folder or confirming a hash does not open admission.
+*Historical Bootstrap Note (2026-11-18):* Prior to `PP-S01NE-RUN-20261123-E01-E11`, all routes above were unverified and the admitted-source table below was empty pending owner authorization and first-start gates. That bootstrap state has been superseded by the completed `E01`–`E11` admission log below.
 
 ## Inventory changes
 

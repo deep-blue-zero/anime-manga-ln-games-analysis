@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E09
 edition: PP-S01NE
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -17,7 +17,7 @@ source_boundary: "PP-S01NE-E01–E09 (Season 1 New Edit through Episode 09 only;
 canonical_home: series/psycho-pass/installments/s01-new-edit/checkpoints/PP_S01NE_E09_CHECKPOINT.md
 method_profile: PP_AV_PRIMARY_CHARACTER_AND_FORM
 created: 2026-11-24
-last_updated: 2026-11-24
+last_updated: 2026-11-26
 ---
 
 # Episode 09 Transaction Checkpoint — `PP-S01NE-E09` (Tranche 3 Open)
@@ -25,6 +25,7 @@ last_updated: 2026-11-24
 - **Run ID:** `PP-S01NE-RUN-20261123-E01-E11`
 - **Unit & Edition:** `PP-S01NE-E09` (*PSYCHO-PASS* Season 1 New Edit / Extended Edition — Opening Episode of **Tranche 3 `E09–E11`**, `9/11 = 82%`)
 - **Canonical Reading:** [`PP_S01NE_E09_DEEP_READING.md`](../readings/PP_S01NE_E09_DEEP_READING.md)
+- **Published Freeze & Companions:** [`PP_S01NE_PRE_0009.md`](../freezes/PP_S01NE_PRE_0009.md) | [Scene Reconstructions](../PP_S01NE_SCENE_RECONSTRUCTION_LEDGER.md#pp-s01ne-e09) | [Errata & Clarifications](../PP_S01NE_READING_ERRATA_AND_CLARIFICATIONS.md)
 - **Coverage Verdict:** `COMPLETE_FOR_DECLARED_SCOPE` (`00:00:00.000–00:45:53.194`, 100% runtime, zero narrative gaps, confirmed zero post-credit footage, zero `E10–E11` narrative exposure).
 - **QC Verification:** `14/14` Quality-Control criteria PASS (all `9 REQUIRED` + `4 OPTIONAL` Agent D Stage 2 directives satisfied and first-hand verified).
 
@@ -32,7 +33,7 @@ last_updated: 2026-11-24
 
 ## 1. Frozen Prospective Entering Boundary (`PP-S01NE-PRE-0009`)
 
-- **Freeze ID:** `PP-S01NE-PRE-0009` (locked unaltered prior to any E09 narrative inspection; `9,121` bytes, `SHA-256: 8051f73e968b562e2d8ed7c2c1e1948e8e37562f6c8a042ba38c57852f6cf018`).
+- **Freeze ID:** [`PP-S01NE-PRE-0009`](../freezes/PP_S01NE_PRE_0009.md) (locked unaltered prior to any E09 narrative inspection; `9,121` bytes, `SHA-256: 8051f73e968b562e2d8ed7c2c1e1948e8e37562f6c8a042ba38c57852f6cf018`).
 - **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01`–`E08` (Akane lawfully arrested unconscious Makishima `CC 0` defying wounded Kōgami's `"殺せ…"`; Choi killed on-screen & Kagari blasted by cybernetic Kasei's forced `Destroy Decomposer` in `-20F` while the camera withheld what stood inside the blinding white core chamber; `RH-A1` vs. `RH-A2`, `"聖護君"`, & Tōma strictly `OPEN`).
 - **Disclosure of Prior Familiarity:** All four independent Gemini Neon Extra contexts disclosed pretrained franchise familiarity (`blind_to_franchise: false`) and achieved **100% clean `E10–E11` quarantine** (zero Episode 10–11 plot outcomes, unseen facilities, or hindsight character fates admitted). Agent D Stage 2 issued `APPROVE_WITH_REQUIRED_REVISIONS` (`9 REQUIRED` + `4 OPTIONAL`) — ALL integrated (Cold Open 2-speaker Yayoi/Aoyanagi split exposing TV-CC L20 error; Civic Arena Yayoi fix; Kōgami handwritten letter `俺が`/`あんたの生き方` 1080p lock; Tōma chalkboard `食糧自給率100%達成（鎖国政策の完成期とされる）` 1080p lock; purge of Agent B's fabricated Osaka subway console lines on `d_f12`; Kagari `Feb 6 . 2113 AM 3:00` Monday lock; garage `265.8 / 250 → 329.4 / 300` live forgery + lossless `d07` unsubtitled override; lossless `d02` Tier-1 promotion of `禾生 壌宗` + `青柳` and clean scrub of Agent D-S1's watchlist Tier-4 romaji breach).
 - **Frozen Questions (`Q1`–`Q6`) Adjudicated Honestly:**

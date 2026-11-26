@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E03
 edition: PP-S01NE
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -17,7 +17,7 @@ source_boundary: "PP-S01NE-E01–E03 (Season 1 New Edit through Episode 03 only)
 canonical_home: series/psycho-pass/installments/s01-new-edit/checkpoints/PP_S01NE_E03_CHECKPOINT.md
 method_profile: PP_AV_PRIMARY_CHARACTER_AND_FORM
 created: 2026-11-24
-last_updated: 2026-11-24
+last_updated: 2026-11-26
 ---
 
 # Episode 03 Transaction Checkpoint — `PP-S01NE-E03`
@@ -25,6 +25,7 @@ last_updated: 2026-11-24
 - **Run ID:** `PP-S01NE-RUN-20261123-E01-E11`
 - **Unit & Edition:** `PP-S01NE-E03` (*PSYCHO-PASS* Season 1 New Edit / Extended Edition)
 - **Canonical Reading:** [`PP_S01NE_E03_DEEP_READING.md`](../readings/PP_S01NE_E03_DEEP_READING.md)
+- **Published Freeze & Companions:** [`PP_S01NE_PRE_0003.md`](../freezes/PP_S01NE_PRE_0003.md) | [Scene Reconstructions](../PP_S01NE_SCENE_RECONSTRUCTION_LEDGER.md#pp-s01ne-e03) | [Errata & Clarifications](../PP_S01NE_READING_ERRATA_AND_CLARIFICATIONS.md)
 - **Coverage Verdict:** `COMPLETE_FOR_DECLARED_SCOPE` (`00:00:00.000–00:45:53.109`, 100% runtime, zero narrative gaps, confirmed zero post-credit footage, zero E04–E11 narrative exposure).
 - **QC Verification:** `14/14` Quality-Control criteria PASS (all `10 REQUIRED` + `3 OPTIONAL` Stage 2 directives satisfied and first-hand verified).
 
@@ -32,7 +33,7 @@ last_updated: 2026-11-24
 
 ## 1. Frozen Prospective Entering Boundary (`PP-S01NE-PRE-0003`)
 
-- **Freeze ID:** `PP-S01NE-PRE-0003` (locked unaltered prior to any E03 narrative inspection; `6,525` bytes, SHA-256 `bef5447f68e4e48846d5f8ca71972f03ff3c7eb257c9a5ac6cd56a296519f37c`).
+- **Freeze ID:** [`PP-S01NE-PRE-0003`](../freezes/PP_S01NE_PRE_0003.md) (locked unaltered prior to any E03 narrative inspection; `6,525` bytes, SHA-256 `bef5447f68e4e48846d5f8ca71972f03ff3c7eb257c9a5ac6cd56a296519f37c`).
 - **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01`–`E02` (`H2c`; Midō escaped Exocet & strangled Shōko Sugawara under Makishima; CID blind to Makishima, Gu-sung, Midō, and Shōko's murder; Kōgami's past & Ginoza–Masaoka `"landmine"` undisclosed).
 - **Disclosure of Prior Familiarity:** All four independent Gemini Neon Extra contexts disclosed pretrained franchise familiarity (`blind_to_franchise: false`) and quarantined E04–E11 knowledge; Agent D Stage 2 caught and corrected Agent A's fountain-corpse/sketch conflation (`REQ-01`), Agent B's hallucinated Masaoka lens reflection (`REQ-04`), and unspoken kanji provenance (`REQ-05`).
 - **Frozen Questions (`Q1`–`Q6`) Adjudicated Honestly:**

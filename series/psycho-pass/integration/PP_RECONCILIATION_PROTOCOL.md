@@ -3,22 +3,22 @@ title: "Psycho-Pass — Independent AV and franchise reconciliation"
 artifact_id: PP_RECONCILIATION_PROTOCOL
 artifact_type: project_reconciliation_protocol
 series: psycho-pass
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 authority_generation: PP-INITIAL
-source_boundary: "NONE; metadata-only foundation, no admitted narrative"
+source_boundary: "Operational reconciliation protocol (initialized 2026-11-18 bootstrap; live run and admission status owned by CURRENT_STATE_AND_CORPUS_MAP.md)"
 canonical_home: series/psycho-pass/integration/PP_RECONCILIATION_PROTOCOL.md
 created: 2026-11-18
-last_updated: 2026-11-18
+last_updated: 2026-11-26
 ---
 
 # Independent AV and franchise reconciliation
 
-This is the operational contract for the adopted `PP_AV_PRIMARY_CHARACTER_AND_FORM` method family and for local-to-franchise integration. It implements the [AV reconciliation protocol](../../../governance/source-policies/MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md), [topology §4.1](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading), [bundle specification](../../../governance/source-policies/MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION.md) and [handoff contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md). It introduces no global exception. **No role has performed narrative analysis or verified a model capability during bootstrap.**
+This is the operational contract for the adopted `PP_AV_PRIMARY_CHARACTER_AND_FORM` method family and for local-to-franchise integration. It implements the [AV reconciliation protocol](../../../governance/source-policies/MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md), [topology §4.1](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading), [bundle specification](../../../governance/source-policies/MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION.md) and [handoff contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md). It introduces no global exception. *(Historical 2026-11-18 bootstrap note: no role had performed narrative analysis or verified a model capability at bootstrap; live capability receipts and completed run state live in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) and episode checkpoints.)*
 
 ## First-start role and capability receipt
 
@@ -79,4 +79,4 @@ Fresh synthesis returns provenance-bearing proposed changes and new work. The lo
 
 Named-subject handoff verification follows the handoff contract's §15: preserve stable identity, source-language names, purposeful roles and knowledge-bounded aliases; verify that material named people remain retrievable in the transferred synopsis, evidence and analysis. Inspect introduction, middle and latest/exit material where present, major relationships and any consequential minority/secondary contribution. Record what was checked and repair unexplained generic-label substitution or loss of a person's causal role before accepting the affected handoff.
 
-At bootstrap all of these execution records are absent because no run is authorized. The sole next sequential operation remains `NONE_AWAITING_RUN_AUTHORIZATION`.
+*Historical 2026-11-18 bootstrap state:* At initial bootstrap all execution records were absent because no run was yet authorized and the sole next operation was `NONE_AWAITING_RUN_AUTHORIZATION`. For the live frontier, run authorization, and next permitted operation, always consult [`CURRENT_STATE_AND_CORPUS_MAP.md`](../CURRENT_STATE_AND_CORPUS_MAP.md).

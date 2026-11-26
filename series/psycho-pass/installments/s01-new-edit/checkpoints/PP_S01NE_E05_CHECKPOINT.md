@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E05
 edition: PP-S01NE
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -17,7 +17,7 @@ source_boundary: "PP-S01NE-E01–E05 (Season 1 New Edit through Episode 05 only)
 canonical_home: series/psycho-pass/installments/s01-new-edit/checkpoints/PP_S01NE_E05_CHECKPOINT.md
 method_profile: PP_AV_PRIMARY_CHARACTER_AND_FORM
 created: 2026-11-24
-last_updated: 2026-11-24
+last_updated: 2026-11-26
 ---
 
 # Episode 05 Transaction Checkpoint — `PP-S01NE-E05`
@@ -25,6 +25,7 @@ last_updated: 2026-11-24
 - **Run ID:** `PP-S01NE-RUN-20261123-E01-E11`
 - **Unit & Edition:** `PP-S01NE-E05` (*PSYCHO-PASS* Season 1 New Edit / Extended Edition)
 - **Canonical Reading:** [`PP_S01NE_E05_DEEP_READING.md`](../readings/PP_S01NE_E05_DEEP_READING.md)
+- **Published Freeze & Companions:** [`PP_S01NE_PRE_0005.md`](../freezes/PP_S01NE_PRE_0005.md) | [Scene Reconstructions](../PP_S01NE_SCENE_RECONSTRUCTION_LEDGER.md#pp-s01ne-e05) | [Errata & Clarifications](../PP_S01NE_READING_ERRATA_AND_CLARIFICATIONS.md)
 - **Coverage Verdict:** `COMPLETE_FOR_DECLARED_SCOPE` (`00:00:00.000–00:45:52.597`, 100% runtime, zero narrative gaps, confirmed zero post-credit footage, zero E06–E11 narrative exposure).
 - **QC Verification:** `14/14` Quality-Control criteria PASS (all `10 REQUIRED` + `4 OPTIONAL` Stage 2 directives satisfied and first-hand verified).
 
@@ -32,7 +33,7 @@ last_updated: 2026-11-24
 
 ## 1. Frozen Prospective Entering Boundary (`PP-S01NE-PRE-0005`)
 
-- **Freeze ID:** `PP-S01NE-PRE-0005` (locked unaltered prior to any E05 narrative inspection; `7,707` bytes, SHA-256 `06315a5fb5e00bdb5525a9b40d858a30b2d720a83c4547c9bfcabebd308a7910`).
+- **Freeze ID:** [`PP-S01NE-PRE-0005`](../freezes/PP_S01NE_PRE_0005.md) (locked unaltered prior to any E05 narrative inspection; `7,707` bytes, SHA-256 `06315a5fb5e00bdb5525a9b40d858a30b2d720a83c4547c9bfcabebd308a7910`).
 - **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01`–`E04` (Rikako dead `2112-12-20`; Kōgami & Ginoza heard `"槙島先生"` audio; Akane knows `"マキシマ"` + blurred photo; CID blind to Makishima's face, alias `柴田先生`, Choi, the hunter, and Rikako's death; Makishima targeted `コウガミ`; `Masaoka = Ginoza's father` strictly `INF`; Tranche 1 monograph gate closed).
 - **Disclosure of Prior Familiarity:** All four independent Gemini Neon Extra contexts disclosed pretrained franchise familiarity (`blind_to_franchise: false`) and quarantined `E06–E11` completely; Agent D Stage 2 caught and purged Agent A's Tier-4 romaji leak (`智己`, `REQ-04`), Agent B's audio-only punch hallucination (`REQ-01`), non-factive `INF` slips (`REQ-08`), and 10 blurry-720p OCR errors (`REQ-06`).
 - **Frozen Questions (`Q1`–`Q6`) Adjudicated Honestly:**

@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E06
 edition: PP-S01NE
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -17,7 +17,7 @@ source_boundary: "PP-S01NE-E01–E06 (Season 1 New Edit through Episode 06 only)
 canonical_home: series/psycho-pass/installments/s01-new-edit/checkpoints/PP_S01NE_E06_CHECKPOINT.md
 method_profile: PP_AV_PRIMARY_CHARACTER_AND_FORM
 created: 2026-11-24
-last_updated: 2026-11-24
+last_updated: 2026-11-26
 ---
 
 # Episode 06 Transaction Checkpoint — `PP-S01NE-E06`
@@ -25,6 +25,7 @@ last_updated: 2026-11-24
 - **Run ID:** `PP-S01NE-RUN-20261123-E01-E11`
 - **Unit & Edition:** `PP-S01NE-E06` (*PSYCHO-PASS* Season 1 New Edit / Extended Edition — Season Midpoint / Tranche 2 Opener)
 - **Canonical Reading:** [`PP_S01NE_E06_DEEP_READING.md`](../readings/PP_S01NE_E06_DEEP_READING.md)
+- **Published Freeze & Companions:** [`PP_S01NE_PRE_0006.md`](../freezes/PP_S01NE_PRE_0006.md) | [Scene Reconstructions](../PP_S01NE_SCENE_RECONSTRUCTION_LEDGER.md#pp-s01ne-e06) | [Errata & Clarifications](../PP_S01NE_READING_ERRATA_AND_CLARIFICATIONS.md)
 - **Coverage Verdict:** `COMPLETE_FOR_DECLARED_SCOPE` (`00:00:00.000–00:45:39.409`, 100% runtime, zero narrative gaps, confirmed zero post-credit footage, zero E07–E11 narrative exposure).
 - **QC Verification:** `14/14` Quality-Control criteria PASS (all `6 REQUIRED` + `4 OPTIONAL` Stage 2 directives satisfied and first-hand verified).
 
@@ -32,7 +33,7 @@ last_updated: 2026-11-24
 
 ## 1. Frozen Prospective Entering Boundary (`PP-S01NE-PRE-0006`)
 
-- **Freeze ID:** `PP-S01NE-PRE-0006` (locked unaltered prior to any E06 narrative inspection; `8,163` bytes, SHA-256 `654a435ff8bdaf72a9106123458c67698051cafa0ee49be5b3dfe0f996ae3743`).
+- **Freeze ID:** [`PP-S01NE-PRE-0006`](../freezes/PP_S01NE_PRE_0006.md) (locked unaltered prior to any E06 narrative inspection; `8,163` bytes, SHA-256 `654a435ff8bdaf72a9106123458c67698051cafa0ee49be5b3dfe0f996ae3743`).
 - **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01`–`E05` (Kōgami & abducted Yuki Funahara trapped inside Toyohisa Sengūji's abandoned Ginza Line silo on snowy weekend `2112-12-24 Sat`/`12-25 Sun`; Kōgami sent `Code 108`; Akane & Masaoka rushing in; CID blind to Makishima's clear face, given name `聖護`, Sengūji's role, Choi, Rikako's death, and Makishima's Sibyl-evasion mechanism; `Masaoka = Ginoza's father` strictly `STRONG_INF`).
 - **Disclosure of Prior Familiarity:** All four independent Gemini Neon Extra contexts disclosed pretrained franchise familiarity (`blind_to_franchise: false`) and achieved **100% clean quarantine** across `E07–E11` terminology and Tier-4 ED romaji (`滝崎`, `禾生壌宗`, `霜月美佳`); Agent D Stage 2 caught and corrected a critical cross-episode chronology contradiction (`REQ-01`), pixel-falsified HUD counts/numerals (`REQ-02`, `03`), blocking/prop slips (`REQ-04`), Tier-2 harmonization (`REQ-05`), and mid-tranche monograph gate overreach (`REQ-06`).
 - **Frozen Questions (`Q1`–`Q6`) Adjudicated Honestly:**

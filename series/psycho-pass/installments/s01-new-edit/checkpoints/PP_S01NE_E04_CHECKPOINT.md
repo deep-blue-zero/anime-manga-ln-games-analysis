@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E04
 edition: PP-S01NE
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -17,7 +17,7 @@ source_boundary: "PP-S01NE-E01–E04 (Season 1 New Edit through Episode 04 only)
 canonical_home: series/psycho-pass/installments/s01-new-edit/checkpoints/PP_S01NE_E04_CHECKPOINT.md
 method_profile: PP_AV_PRIMARY_CHARACTER_AND_FORM
 created: 2026-11-24
-last_updated: 2026-11-24
+last_updated: 2026-11-26
 ---
 
 # Episode 04 Transaction Checkpoint — `PP-S01NE-E04`
@@ -25,6 +25,7 @@ last_updated: 2026-11-24
 - **Run ID:** `PP-S01NE-RUN-20261123-E01-E11`
 - **Unit & Edition:** `PP-S01NE-E04` (*PSYCHO-PASS* Season 1 New Edit / Extended Edition)
 - **Canonical Reading:** [`PP_S01NE_E04_DEEP_READING.md`](../readings/PP_S01NE_E04_DEEP_READING.md)
+- **Published Freeze & Companions:** [`PP_S01NE_PRE_0004.md`](../freezes/PP_S01NE_PRE_0004.md) | [Scene Reconstructions](../PP_S01NE_SCENE_RECONSTRUCTION_LEDGER.md#pp-s01ne-e04) | [Errata & Clarifications](../PP_S01NE_READING_ERRATA_AND_CLARIFICATIONS.md)
 - **Coverage Verdict:** `COMPLETE_FOR_DECLARED_SCOPE` (`00:00:00.000–00:45:52.048`, 100% runtime, zero narrative gaps, confirmed zero post-credit footage, zero E05–E11 narrative exposure).
 - **QC Verification:** `14/14` Quality-Control criteria PASS (all `11 REQUIRED` + `3 OPTIONAL` Stage 2 directives satisfied and first-hand verified, including native 1080p `OPT-03` closure of Sasayama's card).
 
@@ -32,7 +33,7 @@ last_updated: 2026-11-24
 
 ## 1. Frozen Prospective Entering Boundary (`PP-S01NE-PRE-0004`)
 
-- **Freeze ID:** `PP-S01NE-PRE-0004` (locked unaltered prior to any E04 narrative inspection; `7,436` bytes, SHA-256 `33950b4cb8950b2029e792f6de21748b29de7b1d5c4db0ca193771da6aa891d9`).
+- **Freeze ID:** [`PP-S01NE-PRE-0004`](../freezes/PP_S01NE_PRE_0004.md) (locked unaltered prior to any E04 narrative inspection; `7,436` bytes, SHA-256 `33950b4cb8950b2029e792f6de21748b29de7b1d5c4db0ca193771da6aa891d9`).
 - **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01`–`E03` (Central Park fountain short-bobbed corpse [`INF` → Satsuki Kuzuhara]; Rikako sketching twin-tailed Yoshika under `"槙島先生"`; CID ignorant of Ōsō Academy, Rikako, and Makishima; Kōgami alone tying Case 102 via `f05` beside `島`; `Masaoka = Ginoza's father` strictly `INF`; Tranche 1 monograph gate `OPEN`).
 - **Disclosure of Prior Familiarity:** All four independent Gemini Neon Extra contexts disclosed pretrained franchise familiarity (`blind_to_franchise: false`), purged the mislabeled `"Saiga"` clip trap, and quarantined E05–E11 knowledge; Agent D Stage 2 caught and purged unspoken Tier-4 ED romaji leaks (`REQ-08`) plus 10 empirical/epistemic errors (`REQ-01`–`07`, `09`–`11`).
 - **Frozen Questions (`Q1`–`Q6`) Adjudicated Honestly:**
@@ -52,6 +53,9 @@ last_updated: 2026-11-24
 | Primary Video/Audio MKV | `PP-S01NE-E04-AV01` | 2,035,181,254 | `ee38a468dacfc260b4a17126c5591a6054bfa9284ceca53b8e59f135895b3cbd` | `video=0.000s`, **`audio_start=+0.067s`**, `2752.048s`; 100% watched via 18 overlapping budget-safe 720p MP4s (`≤ 24.52 MiB` each) + 21 lossless MKV clips (`≤ 27.69 MiB` each). |
 | Canonical Lossless Audio | `PP-S01NE-E04-AUD-FLAC01` | 219,871,293 | `69e7d614ab629e5d1a6185346e0cdfaf9681654b2134be6facdfc1b5359493e1` | Decoded 16-bit PCM (`03e3c944...`, `528,380,288` B) bit-exact with MKV FLAC; 50 ms `AM` RMS + 5 bounded lossless WAVs (`≤ 23.44 MiB` each) auditing 100% of all 45 `ASR_UNVERIFIED` cues + 3 disputes. |
 | Primary Aligned ASS | `PP-S01NE-E04-TXT-ALIGNED01` | 62,323 | `bd639ec457d3825f28667e91dfeb12ba566facbcc97a5175a4ee197b24a15b67` | `601` cues (`556` archived BD07/08 + `45` `ASR_UNVERIFIED`; no archival TV SRT in inventory); 8 `AM` anchors `0.11s–0.60s`; `9` text defects + `1` chuckle corrected strictly from `AO`. |
+| Auxiliary Regular-Ed BD07 SRT | `PP-S01OB-E07-TXT-BD01` | 32,812 | `2b9aadf39118bade0844a1c47980bf0b81b0e9d4e007d867598533a30f8a8139` | Auxiliary aligned input supplying `282` cues in 3 clusters (`cl0` cues `22–35` `129.76–177.50s` ← orig `1.78–47.32s`; `cl1` cues `36–41` `272.47–297.72s` ← orig `149.35–169.87s`; `cl2` cues `42–303` `298.02–1405.53s` ← orig `169.98–1275.17s`); distinct from direct lossless E04 `AO`-verified lines (`ERR-E04-01`). |
+| Auxiliary Regular-Ed BD08 SRT | `PP-S01OB-E08-TXT-BD01` | 29,697 | `7a3962ef73bfbfac5f9a66cb872cae32e006def733eb49729625304daa7e157d` | Auxiliary aligned input supplying `274` cues in 1 cluster (`cl0` cues `328–601` `1507.23–2657.60s` ← orig `128.31–1276.06s`); distinct from direct lossless E04 `AO`-verified lines (`ERR-E04-01`). |
+| Local ASR Gap SRT (Audited) | `PP-S01NE-E04-TXT-ASR-RAW01` | 53,916 | `9eac01743c3314a6db92bb776ee5955ad2de0f6ecbb86e4ba23301784ed32177` | Supplied `45` gap cues (`1–21` `2.83–122.76s` & `304–327` `1410.32–1496.79s`); `45/45` directly audited on lossless `AO` catching `9` Whisper defects + `1` chuckle (`ERR-E04-01`). |
 | Complete Episode Bundle | `PP-S01NE-E04-BUNDLE-V1` | — | Structurally validated | `1,257` kept clean 1080p frames, `63` contact sheets, `545` shot segments, `16` scenes; supplemented by 39 native 1080p stills (`f01`–`f18`, `d_f01`–`d_f21`). |
 
 ---

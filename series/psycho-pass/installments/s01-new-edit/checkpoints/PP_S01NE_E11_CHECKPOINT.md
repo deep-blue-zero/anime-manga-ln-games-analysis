@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E11
 edition: PP-S01NE
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -17,7 +17,7 @@ source_boundary: "PP-S01NE-E01–E11 (Season 1 New Edit complete through Episode
 canonical_home: series/psycho-pass/installments/s01-new-edit/checkpoints/PP_S01NE_E11_CHECKPOINT.md
 method_profile: PP_AV_PRIMARY_CHARACTER_AND_FORM
 created: 2026-11-24
-last_updated: 2026-11-24
+last_updated: 2026-11-26
 ---
 
 # Episode 11 Transaction Checkpoint — `PP-S01NE-E11` (Season Finale & Run Closure)
@@ -25,6 +25,7 @@ last_updated: 2026-11-24
 - **Run ID:** `PP-S01NE-RUN-20261123-E01-E11` (**COMPLETED — `11/11 = 100%`**)
 - **Unit & Edition:** `PP-S01NE-E11` (*PSYCHO-PASS* Season 1 New Edit / Extended Edition — Final Episode of Season 1 & Tranche 3 `E09–E11`)
 - **Canonical Reading:** [`PP_S01NE_E11_DEEP_READING.md`](../readings/PP_S01NE_E11_DEEP_READING.md)
+- **Published Freeze & Companions:** [`PP_S01NE_PRE_0011.md`](../freezes/PP_S01NE_PRE_0011.md) | [Scene Reconstructions](../PP_S01NE_SCENE_RECONSTRUCTION_LEDGER.md#pp-s01ne-e11) | [Errata & Clarifications](../PP_S01NE_READING_ERRATA_AND_CLARIFICATIONS.md)
 - **Coverage Verdict:** `COMPLETE_FOR_DECLARED_SCOPE` (`00:00:00.000–00:45:53.130`, 100% runtime including single-card `ED2`, post-ED ship cabin epilogue, and closing intertitle `SIByL still continues・・・`; zero post-Season 1 narrative exposure).
 - **QC Verification:** `14/14` Quality-Control criteria PASS (all `10 REQUIRED` + `3 OPTIONAL` Agent D Stage 2 directives + 1 Integrator canonical override on `DSP-110` verified and applied).
 
@@ -32,16 +33,16 @@ last_updated: 2026-11-24
 
 ## 1. Frozen Prospective Entering Boundary (`PP-S01NE-PRE-0011`)
 
-- **Freeze ID:** `PP-S01NE-PRE-0011` (locked unaltered prior to any E11 narrative inspection; `8,030` bytes, `SHA-256: 88a51495fe84737dc93194624ab8305f9689e3df60730dacd24c25817b952978`).
+- **Freeze ID:** [`PP-S01NE-PRE-0011`](../freezes/PP_S01NE_PRE_0011.md) (locked unaltered prior to any E11 narrative inspection; `8,030` bytes, `SHA-256: 88a51495fe84737dc93194624ab8305f9689e3df60730dacd24c25817b952978`).
 - **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01`–`E10` (Makishima killed Kudama & breached Izumo Univ. Kudama Lab via retinal scan; Kōgami arrived outside on foot; Akane learned Sibyl's 247-brain core & Kagari's execution alone and extracted Sibyl's loophole-laced expressway bargain; Division 1 raced to Hokuriku under Akane's command; Ginoza teetered at the Latent Criminal threshold).
 - **Disclosure of Prior Familiarity:** All four independent Gemini Neon Extra contexts disclosed pretrained franchise familiarity (`blind_to_franchise: false`) and achieved **0 post-Season 1 leaks** and **0 unspoken Tier-4 romaji leaks**. Agent D Stage 2 issued `PASS_WITH_EDITS` (`10 REQUIRED` + `3 OPTIONAL`, `DSP-99`–`DSP-110`) — ALL satisfied and first-hand verified on native 1080p stills & lossless WAVs, plus an Integrator canonical override on `DSP-110` restoring `PP-S01NE-E08` for Kagari & Choi's `-20F` deaths.
 - **Frozen Questions (`Q1`–`Q6`) Adjudicated Honestly:**
   - `Q1` (`audio_language=null/und`, PCM parity, `AM` sync): **`H1a` DECISIVELY CONFIRMED** (100% native spoken Japanese directly certified on lossless 48 kHz FLAC/PCM; `pcm_exact_match: true`; `0` diffs vs `TXT-TV01`; `AM` #1 `+1.46s` genuine localized TV-CC early lead `~00:07.20`; `AM` #8 `0:39:54.39` clean low-RMS Ginoza grave monologue `d01`; TV21→22 recap seam `d02`; Cue 231 `待て！` = Masaoka `d07`).
   - `Q2` (Hokuriku agro-bioterror): **`H2b` DECISIVELY CONFIRMED** (Yayoi cuts grid power `00:12:43–44`, halting `ウカノミタマ` dispersal; Japan's 99% Hyper-Oats `鎖国` autarky holds).
-  - `Q3` (Capture vs. execution & bargain loopholes): **`H3b` DECISIVELY CONFIRMED** (weapon swap + Akane Shot #5 into left front tire → dry-fire click #6 `00:32:02` → Kōgami reloads 5 rounds & executes Makishima `00:35:16.0` `d04` → `無事確保された場合に限り` loophole activated → Kōgami enters maritime exile).
-  - `Q4` (Ginoza & Masaoka reckoning): **`H4a` DECISIVELY CONFIRMED** (physical tripwire crushes Ginoza's left arm; Masaoka catches lit dynamite with prosthetic left hand `00:20:32` & dies `親父ーっ！！` `d03`; at `— 2ヶ月後 —`, Ginoza has irreversible `CC 140`, dark-brown gloved/sheathed prosthetic left hand `d_f12`, discards fake `ダテ` glasses, & serves as Akane's Enforcer).
+  - `Q3` (Capture vs. execution & bargain loopholes): **`H3b` DECISIVELY CONFIRMED** (weapon swap + Akane Shot #5 into left front tire → dry-fire click #6 `00:32:02` → Kōgami reloads 5 rounds & executes Makishima `00:35:16.0` `d04` → `無事確保された場合に限り` loophole activated; Kōgami is last seen alive aboard a ship at sea with duration, destination, terms, and causal link to Sibyl's loophole strictly `OPEN`, `ERR-E11-02`).
+  - `Q4` (Ginoza & Masaoka reckoning): **`H4a` DECISIVELY CONFIRMED** (physical tripwire crushes Ginoza's left arm; Masaoka catches lit dynamite with prosthetic left hand `00:20:32` & dies `親父ーっ！！` `d03`; at `— 2ヶ月後 —`, Ginoza reports `CC 140` alongside his spoken prognosis (`もう回復の見込みはない`, `ERR-E11-04`), dark-brown gloved/sheathed prosthetic left hand `d_f12`, discards fake `ダテ` glasses, & serves as Akane's Enforcer).
   - `Q5` (Institutional settlement): **`H5b` DECISIVELY CONFIRMED** (Sibyl stays `完全に秘匿`; spares Akane to study co-optation `理想型`; Akane adopts dialectical realpolitik stewardship closing on E01↔E11 symmetry & `SIByL still continues・・・`).
-  - `Q6` (Chronology, provenance & final `11/11` monograph gate): Hokuriku pre-`2113-04-01` → `— 2ヶ月後 —` Spring/sakura epilogue; **`霜月美佳` (`Mika Shimotsuki`) promoted Tier-1 Spoken (`00:43:20.3`)**; **`TOMOMI MASAOKA` (`00475-AECI-00247-2`)** Tier-2 HUD vs `智己` unspoken `AO`; 5 Tier-4 kanji quarantined; final `11/11` Monograph Readiness Gate adjudicated honestly (`pending_obligations: 0 / completed_portraits: 0`).
+  - `Q6` (Chronology, provenance & final `11/11` monograph gate): Hokuriku pre-`2113-04-01` → `— 2ヶ月後 —` Spring/sakura epilogue; **`霜月美佳` (`Mika Shimotsuki`) promoted Tier-1 Spoken (`00:43:20.3`)**; **`TOMOMI MASAOKA` (`00475-AECI-00247-2`)** Tier-2 HUD vs `智己` unspoken `AO`; 5 Tier-4 kanji quarantined; final `11/11` Qualification Gate adjudicated under governing contract vocabulary (`9` individual **`QUALIFIED_PENDING`**, `1` separate **`TRACKED_AS_INSTITUTIONAL_CANDIDATE`** [`Kasei/Sibyl`, no dossier authored yet], `0` completed portraits awaiting separate owner authorization).
 
 ---
 
@@ -78,9 +79,9 @@ last_updated: 2026-11-24
 - **`DSP-105` (`REQ-06`):** `-20F` pedestal **`23.7`** (`d_f10`) has `[UNREADABLE]` metric/ID headers — not over-claimed as OCR-proven Akane CC.
 - **`DSP-106` (`REQ-07`):** Tier-4 provenance glosses corrected (`光留` = `佐々山光留`; `璃彩` = `青柳璃彩`; zero unspoken Tier-4 romaji across `光留`, `滝崎`, `璃彩`, `神月凌吾`, `水無瀬`).
 - **`DSP-107` (`REQ-08` + `OPT-02`):** Verbatim Masaoka line **`ともかく槙島のバイオテロはこれで完全に失敗だ`**; John 12:24–25 deliberate omission of clause 24b; double cry **`「朱！ 朱ーーっ！！」`** + clipped `いや……もう二度とごめんだね` (`d04`).
-- **`DSP-108` (`REQ-09`):** `00:31:06` **left-handed shot into left front tire** flipping truck sideways onto left side; `00:26:51` **Makishima** drops/backflip-kicks flashbang; `00:19:28` dark strap has ornate grip & zero printed lettering; `00:32:12` falsifies audio-only gunshot misread; grave offerings lock **`Golden Whisky 17`** + returned **`genius`** blue keyfob + `道酒`/`地酒` + `One CAP OSAKE` + `Grappa` + `王将`; Ginoza `00:39:42.5` = dark-brown gloved/sheathed prosthetic left hand (`d_f12`).
+- **`DSP-108` (`REQ-09`):** `00:31:06` **left-handed shot into left front tire** flipping truck sideways onto left side; `00:26:51` **Makishima** drops/backflip-kicks flashbang; `00:19:28` dark strap has ornate grip & zero printed lettering; `00:32:12` falsifies audio-only gunshot misread; grave offerings lock **`Golden Whisky 17`** + unattributed **`genius`** blue keyfob (who left it is unshown, `ERR-E11-02`) + `道酒`/`地酒` + `One CAP OSAKE` + `Grappa` + `王将`; Ginoza `00:39:42.5` = dark-brown gloved/sheathed prosthetic left hand (`d_f12`).
 - **`DSP-109` (`REQ-10`):** `AM` #1 (`+1.46s`) = genuine localized TV-CC early lead (`~00:07.20`); `AM` #8 (`0:39:54.39`, `d01`) = clean low-RMS speech; `d02`–`d07` certified (incl. Cue 231 `待て！` = Masaoka).
-- **`DSP-110` (`OPT-03` + Integrator Override):** Restores **`PP-S01NE-E08`** directly from accepted canonical ledgers as the execution episode for **Choi Gu-sung** & **Shūsei Kagari** (`PP-S01NE-E09` = Tōma VTOL death); locks final Season 1 (`11/11 = 100%`) Monograph Readiness Matrix cleanly (`pending_obligations: 0 / completed_portraits: 0`).
+- **`DSP-110` (`OPT-03` + Integrator Override):** Restores **`PP-S01NE-E08`** directly from accepted canonical ledgers for **Choi Gu-sung** (`00:43:31`, `E08-OBS-0018`) & **Shūsei Kagari** (`00:44:06–00:44:11`, `E08-OBS-0020` — correcting erroneous `00:44:24`, with `PP-S01NE-E10` `00:27:45` as Sibyl's separate verbal admission, `ERR-E11-01`; `PP-S01NE-E09` = Tōma VTOL death); locks final Season 1 (`11/11 = 100%`) Qualification Matrix under governing contract statuses (`9` individual `QUALIFIED_PENDING`, `1` separate `TRACKED_AS_INSTITUTIONAL_CANDIDATE`, `0` completed portraits awaiting separate owner authorization).
 
 ---
 

@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E08
 edition: PP-S01NE
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -17,7 +17,7 @@ source_boundary: "PP-S01NE-E01–E08 (Season 1 New Edit through Episode 08 only;
 canonical_home: series/psycho-pass/installments/s01-new-edit/checkpoints/PP_S01NE_E08_CHECKPOINT.md
 method_profile: PP_AV_PRIMARY_CHARACTER_AND_FORM
 created: 2026-11-24
-last_updated: 2026-11-24
+last_updated: 2026-11-26
 ---
 
 # Episode 08 Transaction Checkpoint — `PP-S01NE-E08` (Tranche 2 Close)
@@ -25,6 +25,7 @@ last_updated: 2026-11-24
 - **Run ID:** `PP-S01NE-RUN-20261123-E01-E11`
 - **Unit & Edition:** `PP-S01NE-E08` (*PSYCHO-PASS* Season 1 New Edit / Extended Edition — Closing Episode of **Tranche 2 `E06–E08`**, `8/11 = 73%`)
 - **Canonical Reading:** [`PP_S01NE_E08_DEEP_READING.md`](../readings/PP_S01NE_E08_DEEP_READING.md)
+- **Published Freeze & Companions:** [`PP_S01NE_PRE_0008.md`](../freezes/PP_S01NE_PRE_0008.md) | [Scene Reconstructions](../PP_S01NE_SCENE_RECONSTRUCTION_LEDGER.md#pp-s01ne-e08) | [Errata & Clarifications](../PP_S01NE_READING_ERRATA_AND_CLARIFICATIONS.md)
 - **Coverage Verdict:** `COMPLETE_FOR_DECLARED_SCOPE` (`00:00:00.000–00:45:52.126`, 100% runtime, zero narrative gaps, confirmed zero post-credit footage, zero `E09–E11` narrative exposure).
 - **QC Verification:** `14/14` Quality-Control criteria PASS (all `8 REQUIRED` + `3 OPTIONAL` Agent D Stage 2 directives satisfied and first-hand verified).
 
@@ -32,14 +33,14 @@ last_updated: 2026-11-24
 
 ## 1. Frozen Prospective Entering Boundary (`PP-S01NE-PRE-0008`)
 
-- **Freeze ID:** `PP-S01NE-PRE-0008` (locked unaltered prior to any E08 narrative inspection; `8,738` bytes, `SHA-256: 7310b67e2539dc802891eb00b69433657e89e2969c2bffe8a4d824816389c28b`).
+- **Freeze ID:** [`PP-S01NE-PRE-0008`](../freezes/PP_S01NE_PRE_0008.md) (locked unaltered prior to any E08 narrative inspection; `8,738` bytes, `SHA-256: 7310b67e2539dc802891eb00b69433657e89e2969c2bffe8a4d824816389c28b`).
 - **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01`–`E07` (Makishima stocked dozens of Hue-cloning helmets after Itō's viral daylight murder of Hiroko Fujii; Division 1 unified Makishima's face `PHOTOMONTAGE-00014`, `柴田幸盛` alias, and 4-case web; Ginoza `86.3 +7` concealed `免罪体質者`, Division 2's erasure of Tōma, and the Chief's live-capture gag order from his squad; `Masaoka = Ginoza's father` certified Tier-1 canon `E07 d02`; Bureau Chief showed unexplained cybernetic twitch + `"聖護君"` register drop).
 - **Disclosure of Prior Familiarity:** All four independent Gemini Neon Extra contexts disclosed pretrained franchise familiarity (`blind_to_franchise: false`) and achieved **100% clean hard-fact quarantine against `E09–E11` Sibyl core anatomy, Tōma-as-core, and Kasei operator lore**. Agent D Stage 2 issued `PASS_WITH_EDITS` with `8 REQUIRED` + `3 OPTIONAL` revisions — ALL applied (patrol plate `新千代田 800 に 01-01` / unit `306`; visual `CRIME COEFFICIENT: 24.7` vs spoken `24` + unsubtitled `トリガーをロックします`; `- 7時間前 -` single-day cascade; Tier-4 `"Tomomi"` prose scrub; Kagari CQC throat/neck crush on Merc #1; unannounced cyan Dominator window blast on Merc #3 + Choi's bulky red-and-grey heavy handgun/launcher + lossless glitched `デストロイ・デコンポーザー`; neutralized E07/E08-bounded `RH-A1` wording; exact 1080p UI errata including `Construction work started on 2060`; and explicit `pending_obligations: 0 / completed_portraits: 0` alongside formal Tranche 2 Close readiness).
 - **Frozen Questions (`Q1`–`Q6`) Adjudicated Honestly:**
   - `Q1` (Source & `+0.111s` sync): **`PASS + 2 MAJOR TV-CC OMISSIONS CERTIFIED`** (`pcm_exact_match: true`, `0` diffs vs `TV01` across `652` cues, `+0.111s` cleanly absorbed, `d02` certifies `0:22:46.33 (+3.22s)` as quiet-VO RMS false positive; lossless `d03` & `d05` catch unsubtitled `トリガーをロックします` and distorted `デストロイ・デコンポーザー`).
   - `Q2` (Mass helmet riots & strategic target): **`H2a DECISIVELY CONFIRMED / H2b FALSIFIED`** (helmet riots + Choi disinformation AI served as a deliberate decoy ring `陽動` draining Chūō Ward of CID units so Makishima & Choi could breach **Nona Tower's `-20F` Sibyl core**).
   - `Q3` (Bureau Chief anomaly, Tōma & Sibyl constitution): **`PARTIALLY UNLOCKED; CORE ANATOMY STRICTLY OPEN`** (centralized `-20F` core, Kasei cybernetic/android chassis, and forced `Destroy Decomposer` override verified on-screen; what sits inside the white vault, who pilots Kasei, `"聖護君"`, and Tōma's fate remain strictly `OPEN`).
-  - `Q4` (Division 1 crisis & Tranche 2 Close Gate): **Akane lawfully arrests Makishima defying Kōgami's `"殺せ…"`**, Kōgami crosses psychologically into vengeance, **Kagari** unlocks his age-5 backstory and is blasted point-blank by Kasei's Decomposer override (presumed dead), **Choi** is killed on-screen, **Yayoi** is silent (`0` lines, absent from `d_f18`), and the formal 10-character Tranche 2 Close readiness gate is locked cleanly.
+  - `Q4` (Division 1 crisis & Tranche 2 Close Gate): **Akane lawfully arrests Makishima defying Kōgami's `"殺せ…"`**, Kōgami crosses psychologically into vengeance, **Kagari** unlocks his age-5 backstory and is blasted by Kasei's Decomposer override at `00:44:06–00:44:11` (presumed vaporized; fate unconfirmed by body at E08 horizon, `ERR-E08-04`/`ERR-E11-01`), **Choi** is killed on-screen, **Yayoi** is silent (`0` lines, absent from `d_f18`), and the formal 10-character Tranche 2 Close readiness gate is locked cleanly.
   - `Q5` (Institutional trajectory): **Systemic `H2a` collapse beneath Nona Tower split from Akane's individual lawful/procedural counterweight** (`SC-09`, `SC-14`, `SC-18`).
   - `Q6` (Calendar & 6-Tier provenance): **`2113-01` CCTV + new `Construction work started on 2060` anchor** (`d_f10`/`d_f11`), `2109` Sasayama conflict kept `OPEN`, **`禾生` (`Kasei`)** promoted Tier-1 Spoken (`d01`), **`秀君`** Tier-1 Spoken (`c08_a`), and **`壌宗`**, **`智己`**, **`光留`**, **`滝崎`**, **`霜月美佳`** kept strictly quarantined.
 
@@ -81,7 +82,7 @@ last_updated: 2026-11-24
 9. **`DSP-69` (`REQ-08`, `OPT-03` — 1080p Verbatim UI Errata):** Locked `Construction work started on 2060` (`d_f10`/`d_f11`, refuting A's `in 2060`), exact power percentages (`37.2%` / `1.7-3.5%` / `42.7%`), `AUTH-SERVER078//SO-02` / `R85-15-2S90` (`d_f13`), `CRIME COEFFICIENT: 0` / `00475-ATCJ-30157-1` (`d_f16`), `2113.01.8971-012` (`d_f01`), `GDF:MFD-2TF` & `EMR EQUIPMENT / GARD` + Win32 GDI greeble (`d_f06`), and Choi's **four** amber eye bars (`e08_s03`).
 10. **`DSP-70` (`REQ-07` — `Q3` Quarantine & `RH-A1` Hygiene):** Certified **0 hard `E09–E11` leaks** across all 4 agents; neutralized `RH-A1` wording to strictly E07/E08-bounded `"Organic / Neuro-Biological Computing Substrate Hypothesis"`.
 11. **`DSP-71` — `AM` Anchor & `+0.111s` Sync:** Lossless `d02` certifies `0:22:46.33 (+3.22s)` as a quiet solo-piano VO RMS false positive with zero drift.
-12. **`DSP-72` (`REQ-08`, `OPT-02` — Formal Tranche 2 Close Gate):** Adjudicated all 10 recurring subjects (`2` Closed-Arc Complete: **Kagari**, **Choi**; `4` Provisional Mature Pending `E09–E11`: **Akane**, **Kōgami**, **Makishima**, **Yayoi**; `4` `DEFERRED_EVIDENCE`: **Ginoza**, **Masaoka**, **Shion**, **Kasei**) while locking **`pending_obligations: 0`** and **`completed_portraits: 0`** transparently during the continuous `E01–E11` run; integrated `OPT-02` Kagari sentence symmetry (`00:24:15` → `00:35:47`).
+12. **`DSP-72` (`REQ-08`, `OPT-02` — Formal Tranche 2 Close Gate):** Adjudicated all 10 recurring subjects under governing contract statuses (`2` **`QUALIFIED_PENDING`**: **Kagari** on E01–E08 evidence without declaring fate/arc closed at E08 [`ERR-E08-04`] & **Choi** closed on-screen; `4` provisional mature pending `E09–E11`: **Akane**, **Kōgami**, **Makishima**, **Yayoi**; `4` `DEFERRED_EVIDENCE`: **Ginoza**, **Masaoka**, **Shion**, **Kasei**; `0` completed portraits during the continuous `E01–E11` run); integrated `OPT-02` Kagari sentence symmetry (`00:24:15` → `00:35:47`).
 
 ---
 
@@ -89,6 +90,6 @@ last_updated: 2026-11-24
 
 - **Sequential-Source Unit (`PP-S01NE-E08`):** `ACCEPTED` (`14/14` QC PASS).
 - **Longitudinal Reconciliation:** Current through `PP-S01NE-E08` (`PP-DELTA-0040`–`0046` integrated).
-- **Specialist / Monograph Readiness (Formal Tranche 2 `E06–E08` Close Adjudicated at `8/11 = 73%`):** `2` closed-arc ready (**Kagari**, **Choi**), `4` mature provisional ready awaiting `E09–E11` closure (**Akane**, **Kōgami**, **Makishima**, **Yayoi**), `4` `DEFERRED_EVIDENCE` (**Ginoza**, **Masaoka**, **Shion**, **Kasei**); **`pending_obligations: 0`**, **`completed_portraits: 0`** retained honestly during the owner-authorized continuous sequential episode run (`E01–E11`).
+- **Specialist / Monograph Readiness (Formal Tranche 2 `E06–E08` Close Adjudicated at `8/11 = 73%`):** `2` **`QUALIFIED_PENDING`** (**Kagari** on E01–E08 evidence with fate unconfirmed by body at E08; **Choi** closed on-screen), `4` provisional mature awaiting `E09–E11` closure (**Akane**, **Kōgami**, **Makishima**, **Yayoi**), `4` `DEFERRED_EVIDENCE` (**Ginoza**, **Masaoka**, **Shion**, **Kasei**); `0` completed portraits during the owner-authorized continuous sequential episode run (`E01–E11`).
 - **Full-Series Synthesis Readiness:** `NOT_REACHED` (`8/11` episodes accepted; Tranche 3 `E09–E11` next).
 - **Next Sequential Operation:** `PP-S01NE-E09` (under active `continuous_sequential` authorization `PP-S01NE-RUN-20261123-E01-E11`; requires fresh prospective freeze `PP-S01NE-PRE-0009` strictly prior to any E09 inspection).

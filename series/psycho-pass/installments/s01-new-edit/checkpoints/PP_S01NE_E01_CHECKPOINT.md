@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E01
 edition: PP-S01NE
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -17,7 +17,7 @@ source_boundary: "PP-S01NE-E01 (Season 1 New Edit Episode 01 only)"
 canonical_home: series/psycho-pass/installments/s01-new-edit/checkpoints/PP_S01NE_E01_CHECKPOINT.md
 method_profile: PP_AV_PRIMARY_CHARACTER_AND_FORM
 created: 2026-11-23
-last_updated: 2026-11-23
+last_updated: 2026-11-26
 ---
 
 # Episode 01 Transaction Checkpoint — `PP-S01NE-E01`
@@ -25,6 +25,7 @@ last_updated: 2026-11-23
 - **Run ID:** `PP-S01NE-RUN-20261123-E01-E11`
 - **Unit & Edition:** `PP-S01NE-E01` (`PSYCHO-PASS` Season 1 New Edit / Extended Edition)
 - **Canonical Reading:** [`PP_S01NE_E01_DEEP_READING.md`](../readings/PP_S01NE_E01_DEEP_READING.md)
+- **Published Freeze & Companions:** [`PP_S01NE_PRE_0001.md`](../freezes/PP_S01NE_PRE_0001.md) | [Scene Reconstructions](../PP_S01NE_SCENE_RECONSTRUCTION_LEDGER.md#pp-s01ne-e01) | [Errata & Clarifications](../PP_S01NE_READING_ERRATA_AND_CLARIFICATIONS.md)
 - **Coverage Verdict:** `COMPLETE_FOR_DECLARED_SCOPE` (`00:00:00.000–00:45:53.194`, 100% of episode runtime, zero uninspected narrative gaps, zero post-credit scene confirmed, zero E02–E11 narrative exposure).
 - **QC Verification:** `14/14` Quality-Control criteria PASS.
 
@@ -32,7 +33,7 @@ last_updated: 2026-11-23
 
 ## 1. Frozen Prospective Entering Boundary (`PP-S01NE-PRE-0001`)
 
-- **Freeze ID:** `PP-S01NE-PRE-0001` (locked prior to narrative inspection; preserved unaltered, SHA-256 `54ed7edfe54cf47990c99349d494d0bfcd01566e1944550c88d84ac1cfb59e12`).
+- **Freeze ID:** [`PP-S01NE-PRE-0001`](../freezes/PP_S01NE_PRE_0001.md) (locked prior to narrative inspection; preserved unaltered, SHA-256 `54ed7edfe54cf47990c99349d494d0bfcd01566e1944550c88d84ac1cfb59e12`).
 - **Entering Viewer Knowledge:** `NONE` (first unit of `PP-S01NE`).
 - **Disclosure of Prior Familiarity:** All participating agents disclosed pretrained familiarity with *Psycho-Pass* (`blind_to_franchise: false`) and quarantined outside-E01 knowledge; blind-first Agent D caught and purged two prospective-contamination leaks prior to acceptance (`DSP-05`).
 - **Frozen Pre-Inspection Questions & Hypotheses (`Q1`–`Q5`, `H3a`–`H3c`) Evaluated Honestly:**
