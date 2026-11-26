@@ -858,7 +858,7 @@ No new acquisition is blocking the **evidence matrix** itself.
 | --- | --- | --- |
 | P0 | Temari Dear 015 | public-villain/blame language: triumph, armor, bitterness, or mixed affect |
 | P0 | Temari Dear 016 | intended retirement/fan handoff; destabilization when Temari asks her not to quit |
-| P0 | Temari Dear 020 | rare Rinha interiority plus SyngUp formation motive and restoration training |
+| P0 | Temari Dear 020 | Rinha’s founding recollection and present coaching of Shion and Nadeshiko. Temari’s later search is separate. [Received scene scope](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md#dear-020-memory-and-present-addressees). |
 | P0 | Misuzu Dear 016 | “already quit” self-definition, fan handoff, Misuzu challenge, wound defensiveness |
 | P0 | Misuzu Dear 024 | `私は、一アイドルファンとして` severe idol ontology versus fandom enthusiasm |
 | P0 | Saki Dear 026 | older-sister autobiography, shame/self-blame, uniqueness/non-substitution boundary |
@@ -1151,3 +1151,18 @@ The accepted person scopes are China Q562, Tsubame Q562, China Q563. Q562 uses t
 | Hataya Misuzu P1 Q576 | adv_event_024_main-02 L68–90, L229–275, L291–302 and L412–438 | D, E and F |
 
 [Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Guarded Event 012 received scope — 2026-11-26
+
+| Received scope | Script locator | Guarded windows |
+| --- | --- | --- |
+| Hanami Saki P0 Q499 | adv_event_012_main-02 L592–596, L608–721 | K02 |
+| Hanami Saki P0 Q500 | adv_event_012_main-03 L555–575, L584–675 and L692–697 | K04 |
+| Katsuragi Lilja P0 Q499 | adv_event_012_main-02 L202–259, L586–596 and L632–734 | K01 and K02 |
+| Katsuragi Lilja P0 Q502 | adv_event_012_main-05 L88–143, L187–200, L469 and L495–496 | K05 and K06 |
+| Shiun Sumika P0 Q500 | adv_event_012_main-03 L326–354, L404–425, L450–501 and L655–662 | K03 and K04 |
+| Shiun Sumika P0 Q502 | adv_event_012_main-05 L151–176, L208–213, L447–458 and L497–498 | K05 and K06 |
+
+[Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+Keep original Q499/Q500/Q502 selection rows and route only actual named advances. Q501 remains a separate part-04 request. No transfer of Lilja or Sumika’s K06 evidence to Saki.
