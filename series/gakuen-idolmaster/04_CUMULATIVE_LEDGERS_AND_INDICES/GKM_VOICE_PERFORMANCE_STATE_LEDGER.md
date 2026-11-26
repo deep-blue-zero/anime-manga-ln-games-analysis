@@ -478,3 +478,9 @@ The exact parent and line locators are in the [current receiving record](../05_A
 ## Guarded sports-day and Hiroshima delivery — 2026-11-25
 
 **STRENGTHEN.** Misuzu’s pre-race nostalgic turn, Hiro’s worried and then determined voice, China’s address change, and Rinami’s spoken response followed by voiced inward recognition form separate comparisons. Lilja–Temari–Lilja at the sports-day finish are three individually authored, heard inner turns. The effort and race effects sit alongside mixed voices. An unresolved foreground effect and exact musical fade retain separate statuses. [Sports day and Hiroshima adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## 2026-11-25 recorded delivery in the fever, meal and Shibuya exchanges
+
+The guarded Japanese audio supplies performed contrasts. Mao in fever and Kotone's echo have separate voices. At the meal, Kotone's hesitating approach and Mao's audible L547 reaction prepare, but do not determine the meaning of, Mao's explicit welcome. Sena's concluding laughter and proud challenge follow two juniors' refusal. At Shibuya their later title call is spoken over a soundtrack quotation, distinct from any sung ensemble, and the subsequent reception reaches these characters as reported speech. Sampled facial observations remain qualified. Exact performances in the official trio MV supply a separate mixed studio singing comparison. Distinguish the observed distributions of sung emphasis in that MV from individual spoken title allocation and from the unresolved sung Shibuya event.
+
+[Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)

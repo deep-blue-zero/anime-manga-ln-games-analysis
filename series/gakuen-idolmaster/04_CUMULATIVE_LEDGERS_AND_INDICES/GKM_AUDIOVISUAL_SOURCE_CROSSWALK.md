@@ -514,3 +514,9 @@ These newly reviewed editions witness already admitted Source Lock 1.2 support s
 ## Exact playback editions for the sports day and Hiroshima — 2026-11-25
 
 The [ten-window edition table](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) binds the full `KRs6HqaQdkg` sports-day and `XEmmMRaYPdI` Hiroshima recordings to five Japanese ADV chapters and ten attended extracts. W08’s three reviewers used the original-tail MKV derivative with exact audio endpoint. Its picture/container endpoints are distinct. Same-show context in another part supplies no coverage extension.
+
+## 2026-11-25 guarded Event 022 and 024 receipt
+
+The Event 022 parent edition is `0GYf2Vyyr-Q` and the Event 024 parent edition is `aS6q0UHUt_0`. The exact four child hashes, guard and parent intervals are recorded in the cited review. The native parent files were unopened by the three listeners per cut. Parent frames and mixed numerical signal were checked within receiving scope. The vocal language was reported by the listeners, independently of parent tags. A separate publisher game-size Rinami mix serves as a backing reference for the `ENDLESS DANCE` instrumental quotation. It supplies no character appearance or singer attribution in the event. Retain `SRC-0387` as the distinct publisher trio audio and authored picture edition with an older paired exact receipt. Keep renderer-only and solo editions distinct.
+
+[Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)

@@ -315,6 +315,8 @@ Kotone does not need to perform reverence while providing care, and Mao does not
 
 ## 3.3 Fever removes Mao's role control but does not reveal a “truer” Mao
 
+The part 02 recording distinguishes Mao's fevered address and wish from Kotone's separate echo. The subsequent part 03 account of Mao's food and recorded commercial has its own written unit. Kotone's remembered search and the present exchange retain separate speakers, with the wallet deliverer open. [Guarded Event 022 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#mao-in-illness-and-memory)
+
 As Kotone changes the towel, a half-asleep Mao says “Mama?” and says she wants to be an idol. Kotone echoes “Mama?” in a separate line. The script leaves Mao's sense of the moment unsettled (`adv_event_022_main-02` L64–L70). In Part 03, Mao asks for porridge and describes the akashiyaki her mother makes when she is sick. Kotone teases Mao about being a demanding prince. Mao then reprises a jingle from a Kansai commercial she says she appeared in (`adv_event_022_main-03` L143–L280).
 
 The scene is useful precisely because it should **not** be interpreted as “the prince was fake; childish Mao is real.”
@@ -352,6 +354,8 @@ The point is not that Mao's overwork was harmless. It is that **care debt is not
 This is especially important for Mao because her senior/prince identity predisposes her to interpret usefulness as obligation.
 
 ## 3.6 Kotone names Mao as an older friend
+
+The guarded closing meal records Kotone's tentative formulation and Mao's explicit welcome. Four exact silent spans rule out continuous audible frying under L530. Intermittent sounds remain open. The observed pauses and subtle sampled color leave the characters’ private feelings unsettled. [Guarded Event 022 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#kotone-describes-an-older-friend)
 
 While their food cooks on the recovery outing, Kotone says she grew up caring for younger siblings and is used to looking after younger people or classmates. She tries out **older friend** for Mao, while saying she respects her as a senior and feels differently about the president, vice president, and Rinami. Mao repeats the description and tells Kotone she is glad to be thought of that way. Mao then invites her to eat (`adv_event_022_main-04` L491–L573).
 
@@ -577,6 +581,8 @@ Sena then says Ume, Misuzu, and China have each shown excellent growth in differ
 
 ## 5.4 `ENDLESS DANCE`: Sena initially imagines succession as relinquishment
 
+The guarded council-room recording distinguishes Ume's count, two-person refusal, Ume's invitation, Misuzu's competitive assertion and Sena's laughter before her challenge. The capture's exact picture boundaries and score recurrence distinguish staging from inferences about what was planned. [Guarded Event 022 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)
+
 The most important scene is the Shibuya Sound Fest setlist discussion.
 
 Ume identifies `ENDLESS DANCE` as the number Sena performed at the victory live on the day she became Prima Stella. Misuzu asks for the song from the main competition, Ume answers `Choo Choo Choo`, and Misuzu confirms the answer. Later in the discussion, Sena says she intends to have Ume and Misuzu sing `ENDLESS DANCE` without her (`adv_event_024_main-04` L99, L136–L158, L182–L212).
@@ -597,6 +603,8 @@ Ume asks what Misuzu thinks. Misuzu expects agreement and proposes answering on 
 **Contested attachment — HSCA-028 (STRENGTHEN, 2026-11-15; wording REVISED, 2026-11-25).** Misuzu vows to make the song hers alone, Ume answers that she will protect it, and Sena later says she has lost the intention of letting it go (`adv_event_024_main-04` L368–L372, `adv_event_024_main-05` L410–L414). Those competing personal claims coexist with broader participation. The exchange fits Misuzu's possessive gift language in Event 023 (§4.3), and the teasing may serve the immediate challenge. The lines establish what each participant says about the song. They leave private motives and control of the rights unsettled.
 
 ## 5.5 Ume and Misuzu de-monopolize the song in different ways
+
+The next part shows the backstage call and the subsequent account of reception. The soundtrack quotes the title's instrumental before the edit elides the actual concert singing. Distinguish Sena's account of Ume and Misuzu, Misuzu's mediated set-list request, and Ume's report of older-video attention. [Guarded Event 022 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#shibuyas-title-call-and-the-reported-circulation)
 
 The next day Sena reports finding videos of other people singing `ENDLESS DANCE`. Ume remarks on how many there are and that the performers include people outside Hatsuboshi. Sena credits Ume's enjoyment with breaking the inhibition around the piece and credits Misuzu's singing with opening an option for accomplished performers (`adv_event_024_main-05` L275–L323, L359).
 

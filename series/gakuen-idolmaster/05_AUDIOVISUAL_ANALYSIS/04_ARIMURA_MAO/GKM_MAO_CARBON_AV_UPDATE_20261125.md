@@ -30,3 +30,7 @@ These routes qualify the `Fluorite`/stage visibility and attachment interpretati
 ## Subsequent Event 003 direct evidence
 
 [First restaurant encounter](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-warning-at-the-beach-restaurant) and [Restaurant repair](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#repair-at-the-beach-restaurant) give the warning and later apology their own delivery. The intervening conversation with Rinami and E003-05’s last-summer monologue remain separate.
+
+## Recorded Event 022 and 024 evidence — 2026-11-25
+
+Q556 tests Mao in Event 022 part 02, parent [300, 597). Japanese mixed hearing distinguishes Mao's drowsy address and idol wish from Kotone's echo, and joins the remembered wallet search to a separate scene of care. Dense frames and a measured early return of backing bound the claim. The wallet deliverer and addressee Mao imagines remain open. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#mao-in-illness-and-memory)

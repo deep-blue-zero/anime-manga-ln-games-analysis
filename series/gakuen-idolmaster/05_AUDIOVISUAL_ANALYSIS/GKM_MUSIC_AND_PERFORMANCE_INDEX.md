@@ -38,6 +38,8 @@ Songs, authored MVs, rendered performances, choreography and visual presentation
 
 The [guarded sports-day and Hiroshima reviews](GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) track performed dialogue, staging and game music separately across ten exact windows. They file limited answers for China, Hiro, Rinami, Ume and Misuzu. The baseball cheer melody itself falls across a scene ellipsis.
 
+The guarded Event 022 and 024 review adds partial recorded answers for Arimura Mao, Fujita Kotone, Hanami Ume, Hataya Misuzu and Juo Sena. It distinguishes fever and recollection, an older-friend exchange, a two-person refusal, a spoken three-person title, an instrumental quote and reported reception. It leaves the concert's sung performance, later uptake, and separate character requirements open. Two existing exact official trio MV reviews also support a shared studio-vocal and authored-picture comparison without adding attendance to those events. [Guarded Event 022 and 024 adjudication](GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 ## Kaya Rinha
 
 The [current Rinha record](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) distinguishes performed dialogue, the placement of accompaniment, and open sung-identity evidence. The dedicated dossier uses the verified relationship scenes at their bounded scope.

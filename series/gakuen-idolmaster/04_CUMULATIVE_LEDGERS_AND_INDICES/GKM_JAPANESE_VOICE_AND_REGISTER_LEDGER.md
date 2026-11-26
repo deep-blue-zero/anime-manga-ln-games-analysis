@@ -702,3 +702,9 @@ At the Animate event Kotone and Saki switch from public customer-facing speech t
 ## Sports day and Hiroshima addresses — 2026-11-25
 
 **STRENGTHEN.** Hiro commonly uses bare `美鈴` and plain endings, while Misuzu uses `篠澤さん` and politeness even in her warm affirmative reply. Hiro’s heard `大好き` and Misuzu’s `はい……わたしもです` retain different wording. China’s quiet reply to Hiro expands to a wider audience with the group’s response blended. In Hiroshima the juniors’ deferential address to Rinami coexists with their direct support. These are scoped voiced records. [Sports day and Hiroshima adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## 2026-11-25 speaker and Japanese register corrections for Events 022 and 024
+
+Event 022 distinguishes Mao's half-sleep L66/L70, Kotone's L68 echo, Mao's remembered senior address and the L408 acknowledgement. In part 04 Kotone's tentative term `年上の友達` coexists with L554 respect, and Mao repeats and welcomes it. At Shibuya Ume gives the count, Ume and Misuzu refuse together, and Misuzu's polite exclusivity is a separate reply. Sena's laughter and challenge do not settle her concealed expectations. The three distinct voice assignments at the title call differ from two assignments at the refusal. L484 pairs only with Ume's `hume-017`.
+
+[Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)

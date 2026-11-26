@@ -31,6 +31,8 @@ revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (REVISE / S
 
 ## Phase 3 source-facing character deep reading
 
+> **Source-boundary exception — 2026-11-25 (guarded Event 022 or 024).** The earlier source boundary governs the original Phase 3 reading. The separate dated recorded paragraph uses the exact edition, source part and observed scope of this review. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)
+
 > **Source-boundary exception — 2026-11-25 (guarded Events 014 and 015 integration).** The original source boundary governs the Phase 3 textual baseline. The separately dated recorded addition in this document draws on Japanese mixed audio and sampled stills in the linked [case 1](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it). Source-scheduled actions, seen stills and heard delivery retain their individual scopes.
 
 ## 0. Status, purpose, and evidence boundary
@@ -1102,3 +1104,7 @@ In Ume's fragrance campaign communication, Ume wants to borrow from her imagined
 ## Individual recorded addition, sports day recorded evidence — 2026-11-25
 
 **STRENGTHEN, with bounded delivery and staging.** Ume’s direct remembered explanation of shared loss and person-specific candor has a performed witness of its own. Hiro’s present report and decision remain respective turns. The final current request extends past the attended clip. [case 1](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it)
+
+## Recorded Event 022 and 024 evidence — 2026-11-25
+
+Ume asks Misuzu what she thinks, gives the count for the shared refusal, invites Sena to sing, and later says she will protect the song from Misuzu (Event 024 part 04 L280–310, L340, L372). Ume's request to sing together and her teasing rivalry are different acts. Sena's later report credits Ume with breaking the inhibition around the song. That is evidence of the position Sena assigns her (part 05 L319–323), with the actual sung performance elided from the reviewed cut. The distinct official trio MV supports changing vocal foreground and authored focality. Ume's athletic preparation and shared hook remain separate from the event performance. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)

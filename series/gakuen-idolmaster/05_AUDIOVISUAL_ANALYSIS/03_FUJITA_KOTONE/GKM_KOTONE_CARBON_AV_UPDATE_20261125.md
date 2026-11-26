@@ -44,3 +44,7 @@ In *思惑とガクガク* part 2 (fMBRGgIgj1c, parent 68–136.95 s), Sena says
 ## Evidence routes
 
 Use `PROP-0027-AV-01–04`, `PROP-0036-AV-01–03/06/07`, `PROP-0055`, `PROP-0059-AV-01–03`, `PROP-0060-AV-01/02/04/05`, `PROP-0061-AV-01–04`, `PROP-0074-AV-01`, `PROP-0075-AV-02–04`, `PROP-0221`, `PROP-0233-AV-01/02`, `PROP-0236`, `PROP-0239-AV-01`, `PROP-0241`, `PROP-0257–0258`, `PROP-0268-AV-01/02` and the `RES-10` control. The accepted cut and visible clock belong to the native bounded September 12 scene. The other clocks above remain approximate to the documented edition. Unanswered picture differences, branch delivery and comparisons across takes stay OPEN. Compare [Carbon provenance and denominator correction](../GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md#scope-of-the-replay-disposition).
+
+## Recorded Event 022 and 024 evidence — 2026-11-25
+
+Q572 tests Kotone in Event 022 part 04, parent [1176, 1248). The Japanese mixed-audio accounts separate her hesitant older-friend formulation from Mao's quiet response and overt welcome. The sampled reaction and measured pauses and score remain separate from inferred feelings. Digital-silence checks qualify the continuous-frying report. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#kotone-describes-an-older-friend)

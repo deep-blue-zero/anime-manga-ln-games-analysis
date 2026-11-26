@@ -46,3 +46,7 @@ The `name=佑芽` anomaly in the Misuzu live script conflicts with its own Misuz
 ## Sports day recorded evidence — 2026-11-25
 
 Polite address persists beside a quieter nostalgic turn, effort at the finish and a warmly delivered reciprocation. The MVP and causal account occur before the race in the written source. The carrying motion, the end of the question about the day and several later responses have distinct evidentiary limits. [Event 14 finding 1](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it) · [Event 14 finding 2](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#exertion-relief-and-friendship-across-four-windows)
+
+## Recorded Event 022 and 024 evidence — 2026-11-25
+
+Q560 and Q561 separate Misuzu's quiet proposal of a joint refusal, her distinct claim to the song and her share in the spoken title call and reported circulation. The recording's instrumental is audible against dialogue. Misuzu's looked-for sung contribution at the concert and the wider reactions remain unmeasured. In the distinct official trio MV, Misuzu moves into audible and pictured foreground while the ensemble keeps a changing center. The video supplies no actual Shibuya performance. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)

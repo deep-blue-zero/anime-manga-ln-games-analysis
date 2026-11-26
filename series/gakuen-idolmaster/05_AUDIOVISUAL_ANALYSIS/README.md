@@ -45,6 +45,8 @@ Supporting measurements live in `SUPPORTING_DATA/` where data exist. Textual-cor
 
 The [guarded sports-day and Hiroshima reviews](GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) track performed dialogue, staging and game music separately across ten exact windows. They file limited answers for China, Hiro, Rinami, Ume and Misuzu. The baseball cheer melody itself falls across a scene ellipsis.
 
+The guarded Event 022 and 024 review adds partial recorded answers for Arimura Mao, Fujita Kotone, Hanami Ume, Hataya Misuzu and Juo Sena. It distinguishes fever and recollection, an older-friend exchange, a two-person refusal, a spoken three-person title, an instrumental quote and reported reception. It leaves the concert's sung performance, later uptake, and separate character requirements open. Two existing exact official trio MV reviews also support a shared studio-vocal and authored-picture comparison without adding attendance to those events. [Guarded Event 022 and 024 adjudication](GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 ## Historical Hiro and Misuzu rebuild — AVE-FULL-20260910
 
 The imported complete packets retain their source accounting and measurements. The current [Hiro](07_SHINOSAWA_HIRO/README.md) and [Misuzu](11_HATAYA_MISUZU/README.md) entrypoints route subsequent perceptual revisions. Hiro accounts for **33 verified source identities, 636 distinct inspected still points and 20 claim dispositions**; Misuzu accounts for **27 verified source identities, 565 distinct inspected still points and 45 claim dispositions**. Their baselines, specialists, evidence matrices and textual-core addenda incorporate the resulting qualifications.
