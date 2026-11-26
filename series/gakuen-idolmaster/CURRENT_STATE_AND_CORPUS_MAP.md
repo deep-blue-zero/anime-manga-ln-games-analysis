@@ -521,7 +521,7 @@ Recommended model routing:
 
 V1 material remains historical hypothesis/provenance only. It is not current authority where V2 source-facing artifacts exist. Full conversation transcripts belong under legacy/conversation-archive treatment once structured artifacts supersede them.
 
-The [ten original legacy hypotheses](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_LEGACY_CLAIM_REVISION_LEDGER.md#original-legacy-hypotheses-at-source-lock-12--2026-11-25) have dated dispositions at Source Lock 1.2. The corresponding scenario, continuity and recording limits travel with each disposition. The eventual series synthesis and release retain their own requirements.
+The [ten original legacy hypotheses](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_LEGACY_CLAIM_REVISION_LEDGER.md#original-legacy-hypotheses-at-source-lock-12--2026-11-25) have dated dispositions at Source Lock 1.2. The corresponding scenario, continuity and recording limits travel with each disposition. The [additional thematic dispositions](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_LEGACY_CLAIM_REVISION_LEDGER.md#additional-v1-thematic-dispositions--2026-11-26) record the source-bounded revisions to the archived claims about food and the rival institutions. The eventual series synthesis and release retain their own requirements.
 
 
 ## Phase 3 Ume canonical artifacts and integrated AV completion — 2026-08-19

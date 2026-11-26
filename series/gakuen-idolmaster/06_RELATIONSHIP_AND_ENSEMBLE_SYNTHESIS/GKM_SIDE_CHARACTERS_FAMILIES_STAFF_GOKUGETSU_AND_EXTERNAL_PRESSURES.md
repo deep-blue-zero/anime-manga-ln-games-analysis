@@ -5,7 +5,7 @@ analytical_role: side_character_synthesis
 scope: SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES
 generation: V2
 status: canonical
-source_boundary: 'GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5 and Phase-6 Relationship Systems I-II: cumulative NPC/side-character, relationship, institution, continuity, character, source-locator, theme, and AV infrastructure; thirteen character-core readings; four numbered-event readings; eight support-card readings; and targeted speaker/mention searches across raw corpus surfaces for distributed figures. Kaya Rinha is included only at the structural side-character level here and remains subject to the mandatory dedicated Phase-6 source-crosswalk/evidence-matrix/dossier reconstruction.'
+source_boundary: 'GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5 and Phase-6 Relationship Systems I-II: cumulative NPC/side-character, relationship, institution, continuity, character, source-locator, theme, and AV infrastructure; thirteen character-core readings; four numbered-event readings; eight support-card readings; and targeted speaker/mention searches across raw corpus surfaces for distributed figures. The original pass treated Kaya Rinha at the structural side-character level. Her subsequent Source Lock 1.2 reconstruction is routed in the body.'
 source_lock: GAKUMAS V2 Source Lock 1.0
 source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
 source_revision: 32
@@ -76,13 +76,13 @@ This document may state that Rinha:
 - is implicated in Gokugetsu/external-pressure history;
 - remains future-facing after SyngUp's rupture.
 
-It must not convert those statements into a definitive personality dossier. Architecture v2.4 requires:
+The original reading stopped short of a definitive personality dossier. Architecture v2.4 required:
 
 - `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`;
 - `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`;
 - `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`.
 
-Those artifacts must separate Rinha's own words/actions from Temari's Rinha, Misuzu's Rinha, Saki's Rinha, remembered Rinha, and later observer inference.
+The architecture required those artifacts to distinguish Rinha's own words and actions from other characters' views of her, their recollections and later observer inference. For the completed person-level reconstruction and its limits, begin with the [accepted dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md).
 
 ---
 
@@ -984,13 +984,13 @@ The current evidence is inconsistent with reducing Rinha to:
 
 Her later H.I.F. interiority alone establishes that the festival and past relationships still matter to her. Future dissolution-live coordination shows that she can participate in ending-work without requiring unit restoration.
 
-But Phase 6 must stop here.
+The original Phase 6 reading stopped at this structural account. It called for a source inventory that named viewpoint and continuity and distinguished Rinha's own conduct from other characters' accounts.
 
-The next operation must inventory every unique Rinha source, label viewpoint and continuity state, and distinguish direct evidence from observer construction before promoting a stable personality model.
-
-### Current structural formulation
+### Historical structural formulation
 
 > **Rinha is a distributed relational hinge whose actions and remembered presence alter Temari, Misuzu, Saki, Ume, SyngUp, H.I.F., and Gokugetsu-facing interpretation. Her importance is already canonical; her definitive person-level model is not.**
+
+**Current scope at Source Lock 1.2.** The independently accepted [Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) and its [recorded-scene adjudication](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md) supersede this provisional status. The targeted perceptual gate covers eighteen selected scenes and supports Phase 6 closure at this boundary. The separate whole-container C073 requirement remains open. The dossier distinguishes Rinha’s actions and speech from memories and judgments attributed to other characters.
 
 ---
 
@@ -1387,25 +1387,19 @@ Mashiro, fans, workers, vendors, ordinary-course clubs, and unnamed observers pr
 - consistent H.I.F. judging membership/rubric;
 - broader family interiority for several core idols;
 - long-term fate and current independent vocation of several former unitmates;
-- complete Rinha personality model pending mandatory Phase-6 branch.
+- Rinha's undisclosed motives, final post-unit goal and the outcome of the planned dissolution live at the [accepted dossier's source boundary](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md).
 
 ---
 
 # 13. Priority side-character authority map
 
-The following is the current recommended retrieval hierarchy.
+The tiers record the side-character pass's original priorities. Kaya Rinha's completed reconstruction is routed below.
 
-## Tier S - dedicated Phase-6 reconstruction required
+## Tier S - dedicated Phase 6 reconstruction
 
 ### Kaya Rinha / 賀陽燐羽
 
-Current authority for person-level use remains **distributed and provisional** until:
-
-1. `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`
-2. `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`
-3. `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`
-
-are complete.
+Begin person-level retrieval with the [accepted dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md). Use the [source crosswalk](GKM_KAYA_RINHA_SOURCE_CROSSWALK.md) for viewpoint and continuity and the [evidence matrix](GKM_KAYA_RINHA_EVIDENCE_MATRIX.md) for claim dispositions. The [audiovisual adjudication](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md) gives the guard for the recorded scenes.
 
 ## Tier A - high-value recurring side figures
 
@@ -1580,24 +1574,22 @@ That is the difference between a socially embedded character model and a protago
 
 # 17. Phase-6 routing and next operation
 
-With this artifact complete, the architecture-defined major relationship syntheses and the side-character synthesis are all complete.
+**Current status.** [Phase 6 is closed at Source Lock 1.2](../CURRENT_STATE_AND_CORPUS_MAP.md#phase-6-completion-at-source-lock-12--2026-11-25). The [Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) is the person-level input for the separate Temari and Misuzu monograph readiness decisions.
 
-Phase 6 must **not** close yet.
+**Historical planning checkpoint.** When this side-character synthesis was completed, the major relationship syntheses were also complete. Kaya Rinha's distributed-character reconstruction was the remaining Phase 6 branch.
 
-The mandatory remaining branch is Kaya Rinha distributed-character reconstruction.
-
-The next canonical operation is:
+The first required deliverable at that checkpoint was:
 
 `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`
 
-It must inventory unique canonical source objects, continuity/viewpoint state, direct-versus-mediated evidence type, relationship tags, and AV/public-retrieval routing before the evidence matrix or dossier is written.
+The plan called for an inventory of unique canonical sources, continuity and viewpoint, direct and mediated evidence, relationship tags, and audiovisual and public retrieval routes before the follow-on work.
 
-After the crosswalk:
+The next deliverables in that plan were:
 
 1. `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`
 2. `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`
 
-must be completed sufficiently to prevent the definitive Temari/Misuzu monographs from depending only on host-character perception.
+Their purpose was to give the eventual Temari and Misuzu monographs a source-grounded account of Rinha alongside their own perspectives.
 
 ---
 
