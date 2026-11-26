@@ -577,6 +577,8 @@ Part 3 is a dream. The represented Temari says they are middle-school third-year
 
 **Written-source precision (2026-11-26; Source Lock 1.2 revision 88).** The qualifications above use `adv_csprt-3-0021_02.txt` L91–137 and `_03.txt` L70–170. Earlier Phase-5 locator and transition labels remain as dated analytical provenance. Misuzu’s entry is by phone, the truce is limited, and the represented school year and uniform belong to a dream. These written distinctions supply no new hearing, Rinha action or phase/gate decision.
 
+Temari calls out Rinha’s name during the outage. Misuzu’s voice comes through the phone and asks if Temari is all right. Misuzu proposes a truce for tonight, and Temari agrees until thunder stops. Participation by Rinha remains unestablished. Misuzu asks the Temari she encounters in a dream to scold her. Dream-Temari also offers the infirmary earlier and later invites her to a lesson. Misuzu’s waking statement concerns readiness. The dream, actual past chronology and any later attendance keep their separate source requirements. [Guarded SyngUp adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).
+
 ---
 
 # 24. `story_0022` — Mao and Kotone: princehood becomes labor-sensitive care

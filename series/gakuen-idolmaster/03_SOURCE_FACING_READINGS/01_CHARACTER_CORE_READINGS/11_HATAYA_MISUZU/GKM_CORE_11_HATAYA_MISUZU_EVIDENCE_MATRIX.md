@@ -125,3 +125,7 @@ This matrix is subordinate to `GKM_CORE_11_HATAYA_MISUZU.md`. It keeps high-load
 ## Recorded moon-viewing and its remembered quarrel
 
 The two person-specific P0 answers strengthen the bounded contrast between Misuzu's offer, resolve, remembered anger and current self-criticism. Her proposed way to make Temari shine and the authority for it remain open. [Guarded moon-viewing adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#misuzu-gives-up-one-role-and-keeps-an-aim).
+
+## Five guarded SyngUp support scenes
+
+The received person scopes are Q766/A, Q788/B, Q713/D and Q714/E. The edition, lines, guard, supported observation and open alternative for each follow the paired report. [Guarded SyngUp adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#received-person-specific-scopes).

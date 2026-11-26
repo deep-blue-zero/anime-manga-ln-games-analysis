@@ -460,6 +460,8 @@ Part 3 gives Sumika athletic recognition from Ume. Sumika had built an insurmoun
 
 **Written-source precision (2026-11-26; Source Lock 1.2 revision 88).** In `adv_csprt-3-0067_01.txt`, L97 is Misuzu’s request for Hiro’s help, L123 is Hiro’s declaration of friendship, and L156–162 is Temari’s statement and address. Authored departure cues at L120–129 and the absence of Hiro’s reply leave receipt and subsequent compliance open. Earlier Phase-5 transition labels remain; jealousy is an interpretation to test, not an independently resolved written motive.
 
+Misuzu says she also had fun and Hiro describes the effort in her own terms. Hiro’s voiced claim of friendship is her own contribution. Temari later addresses a request to Hiro. The reply, acceptance of a continuing duty and precise motive remain open. [Guarded SyngUp adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#enjoyment-and-the-request-to-hiro).
+
 ---
 
 # 19. `story_0068` — Kotone's peers enter the family perimeter

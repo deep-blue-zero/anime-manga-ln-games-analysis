@@ -1185,3 +1185,7 @@ Two guarded windows supply four individual P0 answers. Q733 concerns Temari and 
 ## Ume’s three central recorded questions
 
 Three independently received original windows add 5 person-specific answers. Cumulative receiving reaches 60 recording windows and 73 person-specific answers. Ume’s Q483, Q660 and Q628 have guarded answers. Rinami’s own Q483 answer concerns her prospective checking role. Saki’s own Q660 answer concerns her two distinct responses. Q628 uses Saki’s speech as context for Ume’s own answer. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#person-specific-dispositions).
+
+## Five guarded SyngUp support scenes
+
+The guarded receiving answers Temari, Hiro and Misuzu Q766, Temari, Misuzu and Sena Q788, Temari and Sena Q789, and Temari and Misuzu separately in Q713 and Q714. The earlier cue and relationship wording in the queue remains source-specific. Five original recording windows add twelve separately scoped P0 answers for Temari, Misuzu, Hiro and Sena. This brings the accepted totals to 65 recording windows and 85 person-specific answers. Each person’s remaining requests and readiness retain their own dispositions. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#received-person-specific-scopes).

@@ -528,3 +528,7 @@ An exact scan of all 172 new A1 objects found 28 messages with the displayed Rin
 Other new exact name references appear in Misuzu 018 part 02 L187, Temari 021 part 03 L092 and support 2-0078 part 01 L155. They are reports or calls by other speakers.
 
 **Actor-resolved note — 2026-11-15 (GKM-SAA-117).** The scan above used the displayed speaker only. Resolving by voice stem finds two SL1.1 group lines that include a Rinha voice. In `adv_dear_fktn_035.txt` at L349 the label 「アンチ？の方々」 carries four voices, including `sud_vo_adv_dear_fktn_035_krnh-001` (L352), inside a scene that Kotone imagines. In `adv_dear_jsna_034.txt` at L332 the label 一同 carries `sud_vo_adv_dear_jsna_034_krnh-009` (L335). Neither is single-speaker Rinha speech, and neither is added to the 28 displayed-name messages.
+
+## Five guarded SyngUp support scenes
+
+RINHA-XW-109 gives Temari’s address in support 3-0021 part 02. The recording also gives Misuzu’s own telephone reply. The automatic-memory label remains a reading of Temari’s call. The evidence here concerns Temari and Misuzu, while Rinha’s already accepted action and speech have their own source entries. The original Event 016 watch retains its separate edition and clock. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#a-telephone-truce-through-thunder).

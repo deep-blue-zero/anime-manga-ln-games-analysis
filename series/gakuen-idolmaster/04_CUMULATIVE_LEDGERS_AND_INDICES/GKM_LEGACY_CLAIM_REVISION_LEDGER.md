@@ -775,3 +775,7 @@ Written locators are `adv_dear_kcna_010-01.txt` L78–112, `adv_dear_hume_016.tx
 ## Ume’s proposals, relationship labels and terms of approach
 
 **REVISE** the inherited definitive jealousy account for support 2-0047 part 02 and the supposed rendered direction or catch in support 2-0000 part 01. **STRENGTHEN** the recoverable contrast between voiced requests and delivered replies. The original readings’ historical evidence remains available. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+**REVISE** first-pass descriptions that put the adjacent images inside the five current scenes. **OPEN** jealousy as the motive, Hiro’s acknowledgement, in-scene receipt of Sena’s inner encouragement, and an identifiable vocal duet in the inspected recording. Preserve the specific invitations, replies, and documented narrative states. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

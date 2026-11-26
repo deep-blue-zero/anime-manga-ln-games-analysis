@@ -877,3 +877,7 @@ China accepts responsibility for the paperwork lapse and explains Ume’s assist
 ## Ume’s proposals, relationship labels and terms of approach
 
 Ume’s renewed initiative in Event 006, challenge in support 2-0047 and revised approach in support 2-0000 each have local recorded corroboration. They supply contrasts across separate circumstances and leave later consequences open. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+Temari’s request to Hiro, Misuzu’s own decision about lunch, Sena’s two distinct invitations and the separate dream and waking states display different permissions and consequences. Source boundaries keep a present action, a represented action, and a future proposal distinct. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

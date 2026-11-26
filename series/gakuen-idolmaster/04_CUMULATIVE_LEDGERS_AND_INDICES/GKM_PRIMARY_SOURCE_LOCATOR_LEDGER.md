@@ -1566,3 +1566,7 @@ Part 01 L101–114 assigns the reservation to Temari. Part 02 L137–162 keeps t
 ## Ume’s proposals, relationship labels and terms of approach
 
 Event 006 part 03 L322–423 has original guard [684.000, 754.000) s. Support 2-0047 part 02 L93–164 has picture guard [144.400, 186.466) s and sound guard extending to 186.474 s. Support 2-0000 part 01 L30–118 has guard [0.100, 88.200) s. All three IDs, editions, child bounds and inspection limits are bound in the receipt. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+The exact source identifiers and original/child clocks attach to each of the five named script parts. The 0021 part 02 recorded evidence belongs to Temari’s address and Misuzu’s telephone reply. The Event 016 recording and Rinha’s earlier verified work retain separate locators. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

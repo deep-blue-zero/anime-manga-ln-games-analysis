@@ -50,3 +50,7 @@ Part 03 L223–232 gives Misuzu's giving formula. Part 04 L219–221 is her reca
 ## Recorded moon-viewing and its remembered quarrel
 
 Misuzu points to their resumed shared life and agrees it has not returned to its old form. She says she will stop asking Temari to sing together and gives up the aim of being Temari’s wings. Misuzu still plans to make Temari shine in her own way. She keeps her polite address even when her remembered reply is forceful. In the present she includes her own inaction in the account of what went wrong. [Guarded moon-viewing adjudication](../GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#misuzu-gives-up-one-role-and-keeps-an-aim).
+
+## Five guarded SyngUp support scenes
+
+The latest guarded support observations cover Q766/A, Q788/B, Q713/D and Q714/E. The comparison identifies the recorded turns, their written roles and the remaining interpretive limits. [Guarded SyngUp adjudication](../GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).
