@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 250; `STALE` 1; `SUPERSEDED` 43
+- Recorded totals: `CANDIDATE` 252; `STALE` 1; `SUPERSEDED` 43
 
 ## Namespaces
 
@@ -39,7 +39,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`kimishinu`](reconstruction_index/kimishinu.md) | 3 | 3 |
 | [`konosuba`](reconstruction_index/konosuba.md) | 19 | 19 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
-| [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 2 | 5 |
+| [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 4 | 7 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`medalist`](reconstruction_index/medalist.md) | 2 | 2 |
 | [`monogatari-series`](reconstruction_index/monogatari-series.md) | 2 | 2 |
@@ -155,6 +155,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `lycoris-recoil:inoue-takina@television-anime` | [`lycoris-recoil-inoue-takina-tv-v2-monograph-ledgers-voice-20261125-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-inoue-takina-tv-v2-monograph-ledgers-voice-20261125-01) | `CANDIDATE` | `A` | `bf571a7d5d47cf845f6ead633eb41b568b6e9659` |
 | `lycoris-recoil:inoue-takina@television-anime` | [`lycoris-recoil-inoue-takina-tv-v2-ledgers-20261121-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-inoue-takina-tv-v2-ledgers-20261121-01) | `SUPERSEDED` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `lycoris-recoil:inoue-takina@television-anime` | [`lycoris-recoil-inoue-takina-tv-v2-monograph-ledgers-20261124-04`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-inoue-takina-tv-v2-monograph-ledgers-20261124-04) | `SUPERSEDED` | `A` | `d62c10a8f7dc216a0cb1ad1576e5cced9af81074` |
+| `lycoris-recoil:majima@television-anime` | [`lycoris-recoil-majima-tv-e04-e13-monograph-20261126-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-majima-tv-e04-e13-monograph-20261126-01) | `CANDIDATE` | `C` | `11b79bb6cf4bded643050ecd4e7fda18727316ea` |
+| `lycoris-recoil:mika@television-anime` | [`lycoris-recoil-mika-tv-shorts-monograph-20261126-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-mika-tv-shorts-monograph-20261126-01) | `CANDIDATE` | `B` | `11b79bb6cf4bded643050ecd4e7fda18727316ea` |
 | `lycoris-recoil:nishikigi-chisato@television-anime` | [`lycoris-recoil-nishikigi-chisato-tv-v2-monograph-ledgers-voice-20261125-02`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-nishikigi-chisato-tv-v2-monograph-ledgers-voice-20261125-02) | `CANDIDATE` | `A` | `bf571a7d5d47cf845f6ead633eb41b568b6e9659` |
 | `lycoris-recoil:nishikigi-chisato@television-anime` | [`lycoris-recoil-nishikigi-chisato-tv-v2-ledgers-20261121-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-nishikigi-chisato-tv-v2-ledgers-20261121-01) | `SUPERSEDED` | `B` | `2b23daa702fdcf41a4fc63df10ea2f8a389464d2` |
 | `mass-effect:commander-shepard@paragon-player-archetype` | [`mass-effect-paragon-shepard-archetype-20261023-01`](reconstruction_index/mass-effect.md#mass-effect-paragon-shepard-archetype-20261023-01) | `CANDIDATE` | `D` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
