@@ -857,3 +857,7 @@ Like their earlier written support readings, these observations apply to the nam
 **STRENGTHEN** Mao's separate giving and receiving of care, and Kotone's ability to name a friendship across seniority. **STRENGTHEN** Ume's active choice to keep Sena in the Shibuya performance, Misuzu's paired coordination alongside an exclusive ambition, and Sena's reported shift from planned withdrawal to continuing participation. Treat the subsequent reception as reported. **PRESERVE** the named characters' independent viewpoints and the separation between the two guarded events and other route states. Sena's spoken explanation in Event 024 part 05 attributes a distinct participation effect to Ume's enjoyment and a different possibility to Misuzu's performance. This evidence has Sena as a named witness (L319–323, L359).
 
 [Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded Event 023 — 2026-11-25
+
+**STRENGTHEN.** Temari asks for practical help while disputing a label of closeness. Hiro supports her choice and reports later to Misuzu. Misuzu's performed response supports a personally significant gift. Earlier knowledge, exact motivation and private group agreement remain open. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

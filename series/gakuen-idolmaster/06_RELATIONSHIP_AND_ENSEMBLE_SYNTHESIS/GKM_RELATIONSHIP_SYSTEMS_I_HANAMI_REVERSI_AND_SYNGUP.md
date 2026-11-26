@@ -1077,6 +1077,8 @@ It is **re-authored**.
 
 This is precisely the relationship system's mature logic.
 
+The performed exchanges give each friend room to shape the encounter. Temari pushes back on a label and still asks for practical help. Hiro plays the spy and later shifts into direct reassurance before she makes her separate report. Misuzu's measured giving formula, recalled politely phrased request and later bright pleasure serve distinct exchanges with Hiro and Temari. This supports an interpretation of changing reciprocity without fixing who knew how much of the plan or turning the reunion into proof of ownership. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 ## 5.12 Kotone and Hiro prove that repair can require brokers
 
 The old SyngUp triangle is not the only architecture through which its members can now reach one another.

@@ -229,6 +229,8 @@ The mature formulation is:
 
 **Event evidence (2026-11-15, GKM-SAA-104, STRENGTHEN).** Event 023 (Source Lock 1.0; C1 within the event, C2 globally) states the formula outside any crisis. When Shinosawa Hiro asks what gift would please her, Misuzu asks whether Hiro is seeking the answer for someone else. Hiro denies it, and Misuzu lets that answer stand (`adv_event_023_main-03.txt` L138–L201). Misuzu then says she prefers giving to receiving and wants to fill the people important to her with herself; her happiness is a loved person "full of Misuzu" (L223–L232). The counterweight is in the same event. Misuzu gives Hiro a clue that Temari calls helpful (`main-03` L270–L288). When Hiro later gives Misuzu her report, it is Hiro who calls herself a double agent. Misuzu agrees that it went well and thanks her (`main-05` L364–L393). Temari's one-copy lullaby CD, recorded for Misuzu alone, moves her to say that a dream has come true (`main-05` L241–L281). Possessive language and help that leaves the other person the author appear together here.
 
+**STRENGTHEN — recorded Event 023.** Misuzu speaks the giving formula in a measured and polite voice, expressly referring to people important to her. Her recalled address to まりちゃん and her brighter response to the CD serve different encounters. She quiets on the fulfilled-dream line and says she will listen before bed, repeating how often. Playfulness, desire to matter and affection remain plausible in the same exchange. [Guarded Event 023 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 That dual function begins in childhood.
 
 ---

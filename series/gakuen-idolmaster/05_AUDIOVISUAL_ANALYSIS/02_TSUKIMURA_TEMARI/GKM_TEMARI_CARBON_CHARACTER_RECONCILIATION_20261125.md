@@ -36,3 +36,7 @@ _Trace._ PROP-0054-AV-01/02, PROP-0220-AV-01, PROP-0234-AV-01 and PROP-0281-AV-0
 **STRENGTHEN** sincere appreciation and the limits of the reply to Ume in おひさま笑顔、満開ふたつ (2-0067 part 02). Temari compares Ume’s and the dog’s expressions in a private thought (L73). At about 174–179 s on x6mcJ4AOFDw she tells Ume that the dog’s manner made touching it seem safe (L150). Later the eruption turns into a spoken objection to wanting to touch Ume. The text gives Temari no answer to the friendship premise as such (L165–190). Whether Temari accepted that premise remains **OPEN**. The actual play remains across a time transition. These windows leave the separate E008 fan-notice P0 and individual Gate E open. [Recorded support adjudication](../GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md) · [Source Lock](../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_LOCK.md)
+
+## Recorded Event 023 evidence — 2026-11-25
+
+**STRENGTHEN**, exact scene scope. Temari disputes Hiro's label at L197, asks for advice at L219–223, declines the video at L310–319 and invites her to shop at L344. Hiro responds at L346 and L355. These are separate audible acts in part 01. Misuzu at L272 is recalled and Rinha is imagined. Their distinctly authored modes bound the comparison. [Guarded Event 023 adjudication](../GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md#disputed-closeness-and-accepted-help)

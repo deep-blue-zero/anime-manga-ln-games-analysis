@@ -488,3 +488,7 @@ The guarded Japanese audio supplies performed contrasts. Mao in fever and Kotone
 ## Tsubame receives Mao’s account of her stage — 2026-11-25
 
 The retained support 2-0066 part 01 recording supplies a bounded transition from Tsubame’s raised objection to qualified acceptance of the dragon. Mao offers to change it after explaining the stage image. The voice drop and throat-cleared onset come from separate reported accounts. Timing of the backing under Tsubame’s answer remains **OPEN**. [Costume exchange on the original recording](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md#the-gold-dragon-on-tsubames-costume).
+
+## Guarded Event 023 — 2026-11-25
+
+**STRENGTHEN.** Misuzu's measured giving, gentle remembered request and brighter gift response distinguish present and remembered settings. Temari's quick disagreement precedes hesitant help-seeking. Hiro's support and dry report have separate delivery and audiences. The Temari and remembered Misuzu reverb disputes stay open. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

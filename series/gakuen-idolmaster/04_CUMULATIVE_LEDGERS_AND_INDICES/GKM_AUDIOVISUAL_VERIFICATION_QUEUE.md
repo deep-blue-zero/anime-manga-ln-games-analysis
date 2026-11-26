@@ -1097,3 +1097,14 @@ These eight scoped person-rows answer four cut-bounded questions. Mao's separate
 ## Recovered Tsubame support focus — 2026-11-25
 
 **Tsubame, 2026-11-25.** In support 2-0066 part 01, SRC-0086 at 52–93 s answers the change from protest to acceptance. The score under the last line remains disputed. For support 3-0094 part 02 (SRC-0091), one direct account covers the cat exchange; the later critical challenge cites that account and does not independently reopen the scene. The acted comparison there remains pending. [Costume exchange on the original recording](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md#the-gold-dragon-on-tsubames-costume).
+
+## Guarded Event 023 — 2026-11-25
+
+| Historical question | Qualified person-specific scope |
+| --- | --- |
+| Q558 · Event 023 part 03 | **STRENGTHEN**, Misuzu's unhurried polite inquiry, giving formula and important-person condition. Interpretation of the coda stays **OPEN**. |
+| Q574 · Event 023 part 04 | **STRENGTHEN**, Misuzu's directed remembered request for a daily nap lullaby. Temari's prospective arrangements and Hiro's clipped prediction retain distinct scope. |
+| Q559 · Event 023 part 05 | **STRENGTHEN**, Misuzu's selective echo and performed gift reception. Specific later play and actually heard music of the disc stay **OPEN**. |
+| Q573 · Event 023 part 01 | **STRENGTHEN**, Temari's disagreement, consultation and invitation. Hiro supplies contextual evidence. Misuzu's recalled phrase leaves a separate person-specific answer **OPEN**. |
+
+These scoped determinations preserve the original request text and individual Gate E requirements. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

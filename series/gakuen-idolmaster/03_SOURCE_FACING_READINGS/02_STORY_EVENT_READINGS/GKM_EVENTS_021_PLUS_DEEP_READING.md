@@ -497,6 +497,8 @@ Misuzu calls the gift a dream fulfilled and promises to listen before bed, again
 
 This is valuable for Temari reconstruction because it shows professional skill entering intimacy without becoming performance vanity.
 
+The four guarded windows separate Misuzu's remembered spoken request and the gift's named contents from the instrumental score and performed reactions. Temari describes the songs. Misuzu's delight and her plan to listen are audible in the presentation. The CD's music and her later listening remain outside the observed scene. [Guarded Event 023 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 ### Event 023 thesis
 
 > **Repair becomes convincing when attention is authored into a form only this relationship could have produced.**

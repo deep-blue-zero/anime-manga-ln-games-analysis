@@ -40,3 +40,7 @@ Retained release checksums, including CHECKSUMS.md, describe their original ZIP 
 ## Later story-event recording
 
 [Scoped story-event review](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-unnamed-friend). Misuzu names frustration and says she will make friends in her own class. The friend remains unnamed in the recording.
+
+## Recorded Event 023 evidence — 2026-11-25
+
+Part 03 L223–232 gives Misuzu's giving formula. Part 04 L219–221 is her recalled daily nap request. In part 05 L268–281 her gift response moves from bright to quiet, and at L296 she voices her planned bedtime listening. Her delivery varies while retaining polite speech. The written emphasis on important people and the future bedtime plan remain separately attributable. [Guarded Event 023 adjudication](../GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

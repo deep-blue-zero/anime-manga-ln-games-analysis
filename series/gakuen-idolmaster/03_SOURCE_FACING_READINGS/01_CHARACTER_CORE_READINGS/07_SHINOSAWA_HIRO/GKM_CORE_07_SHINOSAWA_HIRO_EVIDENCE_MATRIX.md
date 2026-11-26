@@ -114,3 +114,7 @@ These rows record the transitions applied with the parent core v2.1. The core pa
 ## Dated recorded evidence — 2026-11-25
 
 **STRENGTHEN, HIRO-C04 and HIRO-C05, event scope.** Hiro identifies a case where hardship would burden friends, dislikes this kind of distress and still voices the decision to act. This coexists with her unfamiliarity with the common account of frustration. Later race discomfort, a sampled smile and Misuzu’s explanation of her own response remain distinct. The evidence gives no new conclusion about Hiro’s reactions along other tracks. [Exact recording and cue scope](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it)
+
+## Recorded Event 023 evidence — 2026-11-25
+
+**STRENGTHEN**, exact scene scope. In part 03 Hiro names one successful mission after Temari says the clue helped. In part 05 she speaks a separate report, names a double-spy role and says she resolved both worries and enjoyed herself. Part 05 L393's final word is post-roll. Part 04 L318's ending separately exceeds its guard. [Guarded Event 023 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

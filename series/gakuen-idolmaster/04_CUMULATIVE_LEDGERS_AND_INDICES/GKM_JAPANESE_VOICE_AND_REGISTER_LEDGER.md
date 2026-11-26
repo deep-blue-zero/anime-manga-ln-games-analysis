@@ -708,3 +708,7 @@ At the Animate event Kotone and Saki switch from public customer-facing speech t
 Event 022 distinguishes Mao's half-sleep L66/L70, Kotone's L68 echo, Mao's remembered senior address and the L408 acknowledgement. In part 04 Kotone's tentative term `年上の友達` coexists with L554 respect, and Mao repeats and welcomes it. At Shibuya Ume gives the count, Ume and Misuzu refuse together, and Misuzu's polite exclusivity is a separate reply. Sena's laughter and challenge do not settle her concealed expectations. The three distinct voice assignments at the title call differ from two assignments at the refusal. L484 pairs only with Ume's `hume-017`.
 
 [Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded Event 023 — 2026-11-25
+
+**STRENGTHEN.** Present Misuzu uses polite speech to 篠澤さん. The remembered request uses まりちゃん. Temari's shifted address to 広 accompanies asking for help. Hiro's ending in part 04 is an authored ordinary named turn delivered reflectively. Part 03 provides separate marked inner lines for Temari. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
