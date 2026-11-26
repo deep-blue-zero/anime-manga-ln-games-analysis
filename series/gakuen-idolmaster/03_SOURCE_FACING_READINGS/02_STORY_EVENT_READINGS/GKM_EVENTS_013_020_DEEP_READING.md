@@ -680,7 +680,7 @@ This is one of the clearest low-drama statements of Sena's institutional vocatio
 
 On the group day off, Sena becomes an exuberant idol fan, buys goods, knows her own licensed merchandise, wants to eat at the fast-food restaurant where Kotone works, and misunderstands a menu's “happy wink 0 yen” joke as an orderable item.
 
-She gets sauce on her mouth. Rinami catches the lapse. Sena is embarrassed.
+She gets sauce on her mouth. Tsubame points it out (main-03 L507). Sena reacts, and Rinami comments that this is the first time she has seen the president off guard (L517–525).
 
 The event refuses the obvious “real Sena versus perfect Sena” binary. Sena herself says she is proud that idolhood consumes her life and does not experience perfect conduct as imprisonment. Yet she also admits that casually eating fast food and talking with friends was a small dream.
 
@@ -714,17 +714,19 @@ The logic parallels Mao's own integrated model: authenticity comes through the f
 
 ## 6.6 Rinami's camera turns observation into self-revision
 
-Rinami begins the week worried that she may love idols less than the others because she feels stalled while Mao and Tsubame seem to move forward.
+After a week of following her friends, Rinami tells Tsubame that she had recently lost confidence. She felt stalled while Mao and Tsubame seemed to move forward and wondered whether her love for idols was weaker (main-05 L123–173).
 
 After filming them, her conclusion changes. She sees the senior quartet as idols not only on stage but in the way they pursue dreams, help juniors, work, play, and love other idols. Their ordinary lives remain luminous because vocation organizes what they do.
 
-Her final definition is explicit:
+In the closing sequence Mao says she will take over the camera because Rinami’s own daily life has not yet been filmed. Rinami protests, and Sena announces a further week of filming (main-05 L492–546). Rinami then completes her definition in the closing interview.
 
 > an idol is a star on stage, but also someone whose dream-pursuing daily life can shine and give other people energy.
 
-Then the others turn the camera back on Rinami. The observer is made observable.
+The opening interview stops at `私にとって、アイドルは――` (main-01 L88). In the closing sequence the question is labelled `ナレーション` (main-05 L559) and assigned Mao’s voice cue at L560; Rinami’s own answer and voice cue follow separately (L565–566).
 
 That reversal matters. Rinami cannot remain the invisible caretaker/editor who captures everyone else's charm. Her friends insist that **her ordinary self also belongs inside the record**.
+
+**Written-source precision (2026-11-26, Source Lock 1.2 revision 88).** The sauce reminder and following comments have different speakers (`adv_event_017_main-03.txt` L507–525). Rinami’s confidence account is retrospective, and the opening/closing interview frame separates the camera-role change and assigned question voice from her answer. See `adv_event_017_main-01.txt` L88 and `adv_event_017_main-05.txt` L123–190 and L492–591. The earlier Phase-4 labels and Rinami’s distinct documentary narration in other scenes remain. These written corrections grant no new audiovisual answer or gate decision.
 
 ### Event 017 thesis
 
