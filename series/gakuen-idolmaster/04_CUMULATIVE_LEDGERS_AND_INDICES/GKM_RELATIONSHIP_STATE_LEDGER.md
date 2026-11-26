@@ -398,7 +398,7 @@ The following edges are strong enough to enter the cumulative relationship ledge
 | Temari ↔ Rinha | E016 historical | Rinha's coaching language persists as Temari's later teaching repertoire |
 | Hiro ↔ Sumika | E018 | fear of being seen through becomes reciprocal disclosure and planned shared play |
 | Hiro ↔ Mao | E018 | structural recognition of prior-life discontinuity becomes direct mutual respect |
-| Mao ↔ Sumika | E018 | senior notices embodied fear and adapts production without infantilization |
+| Mao ↔ Sumika | E018 | after Hiro’s knee question and Sumika’s account, Mao calls for careful rehearsal and Sumika agrees; proposed terms and implementation remain separate *(written-source precision, 2026-11-26)* |
 | Saki ↔ Temari ↔ Kotone | E019 | **PROMOTE:** high-friction peers become travel-capable operational friends with stable domain roles |
 | Temari ↔ Misuzu | E019 | direct evidence that care can persist across physical separation and independent peer functioning |
 | Lilja ↔ Sumika | E020 | **PROMOTE:** shared Sweden history, mutual world-expansion, intimate trait knowledge, and complementary feared futures form a central Phase-6 relationship dossier |

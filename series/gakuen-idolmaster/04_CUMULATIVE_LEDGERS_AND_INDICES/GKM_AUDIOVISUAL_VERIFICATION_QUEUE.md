@@ -532,7 +532,7 @@ Priority reflects interpretive leverage, not presumed visual spectacle.
 | P0 | `adv_event_017_main-04` | Mao/Sena private dialogue; “unguarded smile” advice |
 | P0 | `adv_event_017_main-05` | Rinami insecurity → daily-life idol definition → camera reversal |
 | P1 | `adv_event_017_main-02` | Mao coffee pose versus spontaneous enacted prince behavior |
-| P1 | `adv_event_018_main-02` | Mao noticing Sumika's knee-related hesitation and adapting plan |
+| P1 | `adv_event_018_main-02` | Hiro’s knee question, Sumika’s account and Mao’s proposed rehearsal adjustment; implementation remains separate |
 | P0 | `adv_event_018_main-04` | Hiro observer → surprise participant in theatrical ending |
 | P0 | `adv_event_018_main-05` | Hiro disclosure and Sumika naming why Hiro felt frightening |
 | P1 | `adv_event_019_main-01` | friend-invitation consent correction and instant acceptance |
