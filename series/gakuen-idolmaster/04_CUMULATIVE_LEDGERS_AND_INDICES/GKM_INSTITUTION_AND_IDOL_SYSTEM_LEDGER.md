@@ -656,3 +656,9 @@ These rows mirror the corrected [side-character synthesis](../06_RELATIONSHIP_AN
 ## Accountability, designation and future office — Event 025
 
 China accepts responsibility for the paperwork lapse and explains Ume’s assistance. She later asks the seniors for a chance for all three juniors to answer their concerns. The two guarded scenes distinguish her earlier apology from the later request. Tsubame directs Ume to finish collecting the paperwork. Her recorded recollection of entrusting the school to the juniors differs from her present questions about their readiness. Her concern leaves the graduation decision outside this exchange. China promises to become a dependable president by spring and then asks Ume and Misuzu for continued help. The proposal to widen their group and invite Hiro is prospective. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md) The stated designation is in part 03. The pledge and proposed gathering do not establish a completed change of office or an enacted ritual.
+
+## Appraisal and delegated work — Events 005 and 024
+
+Two kinds of decision have separate evidence in Event 005. Tsubame recommends recruiting Saki and Sena refuses. Later, Sena acknowledges her difficulty assessing Ume, praises Ume’s reported athletic display and makes a conditional invitation to the council. Ume accepts. Neither the initial reserve admission criterion nor the cause of Sena’s earlier excitement has a settled answer. In Event 024 part 02 Sena voices how her earlier self would have taken charge, then delegates the actual planning to Ume and Misuzu. Both contribute to the plan and choose to work together. The episode gives one local test of delegation with further work still ahead.
+
+[Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)

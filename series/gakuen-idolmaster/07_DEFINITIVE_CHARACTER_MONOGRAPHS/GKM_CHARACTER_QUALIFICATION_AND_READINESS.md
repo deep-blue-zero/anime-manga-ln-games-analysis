@@ -206,3 +206,11 @@ The exact Event 025 disposition advances the named dialogue scopes. Remaining re
 ## Amaya Tsubame — bounded Event 025 evidence
 
 The exact Event 025 disposition advances the named dialogue scopes. Remaining requests and independent definitive acceptance are open. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Recorded-event readiness changes — 2026-11-26
+
+The scoped accepted answers are Hanami Saki P0 Q472, Juo Sena P0 Q472, Hanami Ume P0 Q473, Juo Sena P0 Q473, Hanami Ume P1 Q576, Hataya Misuzu P1 Q576. Other individual requests and readiness requirements retain their own dispositions. [Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md) The affected definitive manuscripts remain under individual Gate E.
+
+## Event 012 recorded-scene advancement — 2026-11-26
+
+The received person scopes are Hanami Saki P0 Q499, Hanami Saki P0 Q500, Katsuragi Lilja P0 Q499, Katsuragi Lilja P0 Q502, Shiun Sumika P0 Q500, Shiun Sumika P0 Q502. Q501 remains a distinct part 04 request. [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md) The affected numbered manuscripts retain individual Gate E decisions.

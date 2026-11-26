@@ -435,7 +435,7 @@ The corrected direct density (43 objects / 620 messages) is well above the thres
 | --- | --- | --- |
 | Temari Dear 015 | C034–C035, C067–C070 | whether denial of martyr framing is flat, angry, ashamed, or affect-leaking; public-blame discussion |
 | Temari Dear 016 | C009, C012–C014, C057, C070 | retirement/fan handoff + Temari tears + Rinha emotional disruption |
-| Temari Dear 020 | C030, C073 | rare Rinha interiority and transition back into coaching |
+| Temari Dear 020 | C030, C073 | Rinha’s memory of forming SyngUp! and a distinct current training direction to Shion and Nadeshiko. [Source and addressee check](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md#dear-020-memory-and-present-addressees). |
 | Misuzu Dear 016 | C009, C012, C033, C058 | “not an idol” self-state, dream-wound challenge, old-peer intimacy/conflict |
 | Misuzu Dear 024 | C011, C018, C054, C066–C073 | fandom versus self-disqualification; professional severity; ordinary banter |
 | Saki Dear 026 | C005–C008, C033, C059, C070 | longest autobiographical disclosure; grief/shame/self-blame versus analytical narration |
