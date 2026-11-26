@@ -767,7 +767,7 @@ Textual Phase-5 progression is not blocked by these targets.
 4. `S3-0064-03` — Sumika dance fear + Rinami `Love☆しすたぁず` disclosure.
 5. `S3-0065-03` — Temari reverse jealousy / Misuzu cooking recognition / Kotone brokerage.
 6. `S3-0066-03` — Sena's technically marginal but emotionally compelling Hiro evaluation.
-7. `S3-0067-01` — Hiro/Misuzu closeness + Temari jealousy/delegated trust.
+7. `S3-0067-01` — Hiro/Misuzu closeness and Temari’s closing address to Hiro; test the proposed jealousy/delegation reading with motive, receipt and later compliance open. *(Written-source precision, 2026-11-26; Q766 unchanged.)*
 8. `S3-0070-03` — Tsubame waits for Kotone, academic concern, `シルヴェスタ` gift reveal. [Current finding](#tsubame-support-scene-playback--2026-11-25).
 9. `S3-0071-03` — Tsubame No.2 visibility anxiety + student recognition.
 10. `S3-0074-03` — Lilja homesickness + Rinami sister-coded response.
@@ -789,8 +789,8 @@ Textual Phase-5 progression is not blocked by these targets.
 ## Phase 5 closure - Support Series 3 Part 076-102 AV queue additions
 
 ### P0 - interpretation-changing performance targets
-1. `S3-0076-01` - Temari's awkward post-reconciliation lunch invitation and Sena's silent encouragement to Misuzu.
-2. `S3-0076-02` - Sena/Temari duet; public challenge versus Temari inner delight.
+1. `S3-0076-01` - Temari’s awkward post-reconciliation lunch invitation, Sena’s explicitly inward encouragement (A1 L121), and Misuzu’s separate spoken reply (L141). Test any rendered cue and possible receipt without presuming a spoken permission or communicated signal. *(Written-source precision, 2026-11-26; Q788 unchanged.)*
+2. `S3-0076-02` - represented Sena/Temari duet and its audible scope. Compare Temari’s outward challenge and marked inward surprise.
 3. `S3-0082-01-03` - Tsubame/Lilja fandom embarrassment and register collapse when discovered by Mao/Rinami.
 4. `S3-0086-03` - Sena's date / not-knowing-romantic-love / liking-Tsubame sequence; essential anti-overclaim calibration.
 5. `S3-0088-03` - Hiro/China internalized-other exchange; comic/serious balance and warmth.

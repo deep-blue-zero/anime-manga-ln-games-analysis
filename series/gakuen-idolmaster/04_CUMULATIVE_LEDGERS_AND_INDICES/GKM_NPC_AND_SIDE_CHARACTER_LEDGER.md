@@ -330,7 +330,7 @@ These unnamed figures provide external-observer evidence that Sena is known and 
 
 ### Kaya Rinha — **PROMOTE / high-priority Phase-6 evidence**
 
-`support_series_3/story_0021/part_02`: during thunder and a power outage, Temari panics and calls `りんはぁ……雷とめてぇ……` before Misuzu appears. This is direct evidence that Rinha occupies an automatic **attachment/safety** position in Temari's fear response. Route to the mandatory Kaya Rinha distributed-character reconstruction; do not infer additional biography from this line alone.
+`support_series_3/story_0021/part_02`: during thunder and a power outage, Temari calls `りんはぁ……雷とめてぇ……` (A1 L91). A ringtone and phone-use commands precede Misuzu’s reply (L92, L98, L106, L109); the script does not place Misuzu in the room or give Rinha a reply. The call supports an attachment/safety interpretation of Temari. It supplies no Rinha behavior, received request or new biographical fact. The existing Rinha dossier and crosswalk retain this observer scope. **Written-source precision, 2026-11-26:** the earlier “before Misuzu appears” wording is qualified as entry into the phone exchange, not established physical presence.
 
 ### Asari-sensei — **STRENGTHEN**
 

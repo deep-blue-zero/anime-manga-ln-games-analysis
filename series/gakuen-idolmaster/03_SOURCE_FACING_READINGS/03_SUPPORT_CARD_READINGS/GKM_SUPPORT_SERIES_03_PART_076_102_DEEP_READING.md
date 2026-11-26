@@ -118,7 +118,7 @@ That makes Phase 5 an essential precursor to Phase 6 rather than decorative slic
 
 Particularly useful anchors include:
 
-- `story_0076` — Temari and Misuzu explicitly say they have reconciled; the relationship remains slightly awkward but mutually desired.
+- `story_0076` — Temari’s inward account says she and Misuzu have reconciled but remain awkward. Misuzu accepts the lunch invitation, and Sena later says Misuzu had long wanted reconciliation. These are distinct speakers and forms of evidence.
 - `story_0079` — third-year succession is active enough for Tsubame to tell Misuzu to support China and Ume after the seniors are gone.
 - `story_0081` — Christmas and ongoing Hanami family gift exchange; grandparents remain connected to dorm life through vegetables and messages.
 - `story_0086` — Sena frames the outing through “things to do while still a high-school student,” making graduation finitude salient.
@@ -137,24 +137,26 @@ The bundle's non-contiguous story numbering does not itself create continuity ga
 
 # 2. `story_0076` — Sena, Temari, and Misuzu: reconciliation creates new access, not restored simplicity
 
-The first part establishes a clean post-reconciliation Temari/Misuzu state. Temari explicitly wants to spend time with Misuzu *because* they have reconciled, but the bond is still awkward enough that she hesitates to ask for lunch. Misuzu immediately accepts and has prepared enough sandwiches to share. Sena, who had been waiting for Misuzu for student-council work, silently urges Misuzu to go and then says openly that Misuzu had wanted reconciliation for a long time.
+The first part presents a post-reconciliation state through Temari’s inward account. She wants to spend time with Misuzu and hesitates to invite her to lunch. Misuzu pauses, then accepts and offers sandwiches. Sena, who has been waiting over student-council business, has an explicitly inward encouragement at L121. Misuzu’s spoken choice follows at L141. After Misuzu proposes going and Temari thanks her, movement cues and Sena-only staging precede Sena’s remark that Misuzu had wanted reconciliation for a long time (L175–186). Sena says the council business will finish soon (L188); the script supplies no completed work, identified substitute worker or reply confirming that Misuzu hears those later remarks.
 
 That combination matters. Repair is neither instantaneous restoration nor merely declarative. Temari's new access has to be exercised again; Misuzu's long-standing desire to reconcile can coexist with the earlier control problems and conflict documented elsewhere.
 
-Part 2 creates a new Sena/Temari axis. Temari preemptively rejects being produced by Sena, but agrees to let the current `一番星` evaluate her singing. Sena recognizes Temari's middle-school `歌姫` reputation, then asks to sing together. Temari's outward challenge is competitive; her inner reaction is delighted and honored. Sena says she is glad that Temari was the person with whom she sang after a long interval and proposes a future live together.
+Part 2 creates a new Sena/Temari axis. Temari preemptively rejects being produced by Sena, who accepts that boundary, then agrees to let the current `一番星` evaluate her singing (L16–46). Sena asks her to sing together and Temari accepts the challenge (L73–99). Sena later calls the result an exhilarating unison and says she is glad Temari was the person with whom she sang after a long interval (L117–121). Temari says aloud that she is honored (L132); her inward line expresses surprise that Sena sang with her (L144). Sena proposes a future live and Temari answers competitively (L151–166). The written account does not itself establish the recorded song, audible vocal allocation or completed future live.
 
 Part 3 shows Misuzu entering this new relation without pretending indifference. She redirects Sena's desire to evaluate Temari into a dance-game contest and then adds a wager: if Misuzu wins against Temari, Temari joins the student council. The scene is comic, but it keeps possession, rivalry, and institutional recruitment in the same social field.
 
 ### Claim transitions
 
-- **Temari ↔ Misuzu — STRENGTHEN repaired-state access:** reconciliation permits lunch, invitation, shared food, and playful rivalry while residual awkwardness remains.
-- **Misuzu — STRENGTHEN:** Sena confirms that reconciliation was something Misuzu had wanted for a long time.
-- **Sena ↔ Temari — PROMOTE:** Sena evaluates Temari as a serious first-year talent; Temari accepts professional evaluation while refusing producer capture; duet pleasure and future-live interest are reciprocal.
-- **Temari — STRENGTHEN:** admiration for elite seniors can produce intense private delight without canceling her public competitive register.
+- **Temari ↔ Misuzu — STRENGTHEN repaired-state access:** renewed contact supports an awkward invitation, an agreement to have lunch together, an offer of sandwiches, and later playful rivalry.
+- **Misuzu — STRENGTHEN:** Sena describes reconciliation as something Misuzu long wanted. This is her account of Misuzu.
+- **Sena ↔ Temari — PROMOTE:** Sena treats Temari as a serious first-year talent while accepting her refusal of producing. Temari accepts evaluation and the joint-singing challenge. Her spoken honor and inward surprise are distinct; Sena’s future-live proposal and the competitive reply remain prospective.
+- **Temari — STRENGTHEN:** Temari explicitly registers inward surprise that Sena sang with her. She answers the later invitation competitively. The degree of delight remains open.
 
 ### Phase-6 rule
 
-Do not reconstruct post-reconciliation Temari/Misuzu as if the rupture never occurred. New warmth is evidence of successful repair; hesitation and rivalry are evidence of the new terms under which that repair operates.
+Do not reconstruct post-reconciliation Temari/Misuzu as if the rupture never occurred. Misuzu accepts the lunch invitation while the talk retains hesitation. Renewed access to ordinary company and continued rivalry can coexist in this story.
+
+**Written-source precision (2026-11-26; Source Lock 1.2 revision 88).** `adv_csprt-3-0076_01.txt` L38/L61/L121 explicitly mark Temari’s and Sena’s inward words; L175–188 separates the later Sena-only staging and remarks. Part 02 L16/L25, L46–99 and L117–166 distinguishes refusal of producing, assessment and joint-singing assent, Sena’s appraisal, Temari’s spoken honor and inward surprise, and the prospective live. Earlier Phase-5 transition labels remain. No communicated silent signal, heard song, completed council duty or future live is added.
 
 # 3. `story_0077` — Saki, China, and Mashiro Yu: recipient modeling becomes explicit product design
 
@@ -1038,8 +1040,8 @@ Ordinary peer intimacy with Mao uses soft interpretation and emotionally direct 
 
 ## P0 — interpretation-changing performance targets
 
-1. `story_0076/part_01` — Temari's awkward post-reconciliation lunch invitation and Sena's silent encouragement to Misuzu.
-2. `story_0076/part_02` — Sena/Temari duet; contrast between Temari's public challenge and inner delight.
+1. `story_0076/part_01` — Temari’s awkward post-reconciliation lunch invitation, Sena’s explicitly inward encouragement and Misuzu’s separate spoken reply; any communicated signal or receipt requires its own evidence.
+2. `story_0076/part_02` — the represented Sena/Temari duet, Sena’s appraisal and the contrast between Temari’s outward challenge and explicitly inward surprise.
 3. `story_0082/part_01-03` — Tsubame/Lilja fandom embarrassment and the degree of register collapse when discovered by Mao/Rinami. The [later recorded comparison](../../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md) answers the café and cinema delivery questions at the named intervals.
 4. `story_0086/part_03` — Sena's “date / I don't know romantic love / I like you” sequence with Tsubame; essential for affect calibration without over-romanticizing.
 5. `story_0088/part_03` — Hiro/China internalized-other exchange; vocal warmth and comic/serious balance.
