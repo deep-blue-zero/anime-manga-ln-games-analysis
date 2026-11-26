@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E04
 edition: PP-S01NE
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -34,7 +34,7 @@ last_updated: 2026-11-26
 ## 1. Frozen Prospective Entering Boundary (`PP-S01NE-PRE-0004`)
 
 - **Freeze ID:** [`PP-S01NE-PRE-0004`](../freezes/PP_S01NE_PRE_0004.md) (locked unaltered prior to any E04 narrative inspection; `7,436` bytes, SHA-256 `33950b4cb8950b2029e792f6de21748b29de7b1d5c4db0ca193771da6aa891d9`).
-- **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01`–`E03` (Central Park fountain short-bobbed corpse [`INF` → Satsuki Kuzuhara]; Rikako sketching twin-tailed Yoshika under `"槙島先生"`; CID ignorant of Ōsō Academy, Rikako, and Makishima; Kōgami alone tying Case 102 via `f05` beside `島`; `Masaoka = Ginoza's father` strictly `INF`; Tranche 1 monograph gate `OPEN`).
+- **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01`–`E03` (Central Park fountain short-bobbed corpse [`INF` → Satsuki Kuzuhara]; Rikako sketching twin-tailed Yoshika under `"槙島先生"`; Division 1 not shown identifying Ōsō Academy, Rikako, or Makishima — strictly distinct from Kōgami's unshared private Case 102 recollection [`"槙島！"` in E03 `SC-13` and blurred photo `f05` beside `島`, `ERR-E03-01/02`]; `Masaoka = Ginoza's father` strictly `INF`; Tranche 1 monograph gate `OPEN`).
 - **Disclosure of Prior Familiarity:** All four independent Gemini Neon Extra contexts disclosed pretrained franchise familiarity (`blind_to_franchise: false`), purged the mislabeled `"Saiga"` clip trap, and quarantined E05–E11 knowledge; Agent D Stage 2 caught and purged unspoken Tier-4 ED romaji leaks (`REQ-08`) plus 10 empirical/epistemic errors (`REQ-01`–`07`, `09`–`11`).
 - **Frozen Questions (`Q1`–`Q6`) Adjudicated Honestly:**
   - `Q1` (Source integrity — `45` `ASR_UNVERIFIED` cues & `+0.067s` audio offset): **`AUDITED & FALSIFIER TRIGGERED`** (PCM bit-exact; 8 `AM` anchors `0.11s–0.60s`; `9/45` [`20.0%`] Whisper text defects + `1` non-lexical chuckle = `10` `AO` annotations corrected directly from lossless WAVs).
@@ -66,7 +66,7 @@ last_updated: 2026-11-26
 | --- | --- | --- | --- |
 | **Agent A** | Principal AV & Narrative Analyst — Gemini Neon Extra (isolated subagent) | Principal (`false`) | `18/18` safe MP4s (`236.55 MiB`), `18` stills, full ASS, QA JSON. Authored full sequential AV log & working reading (corrected on `REQ-01`, `04`, `05`, `07`, `08`, `10`). |
 | **Agent B** | Japanese-Language, Philosophical & Institutional Specialist — Gemini Neon Extra (isolated subagent) | **`true`** (zero A/C/D exposure) | `12` lossless MKV clips + `2` ASR WAVs (`287.54 MiB`), `18` stills, full ASS. Authored 45-cue `AO` audit, 6-passage *Titus* speaker map (Demetrius II.iii, Lucius V.iii flip), Kierkegaard Part I Sec A distortion, `啓蒙` vs `啓発`, Makishima hypocrisy check, and register map (corrected on `REQ-02`, `03`, `04`, `08`, `11`). |
-| **Agent C** | Character, Relationships & AV Performance Specialist — Gemini Neon Extra (isolated subagent) | **`true`** (zero A/B/D exposure) | `18/18` safe MP4s + `3` lossless clips + `2` ASR WAVs (`322.54 MiB`), `18` stills, full ASS. Caught intact hands at `00:43:12`, Yayoi's `f02` cosmetics carousel, 3-plane acoustic design (`c10_b`), silence drop before ED, directed `A → B` table, and 5 anti-symbolism counterchecks (corrected on `REQ-04`, `08`). |
+| **Agent C** | Character, Relationships & AV Performance Specialist — Gemini Neon Extra (isolated subagent) | **`true`** (zero A/B/D exposure) | `18/18` safe MP4s + `4` lossless MKV clips (`322.54 MiB`), `18` stills, full ASS. Caught intact hands at `00:43:12`, Yayoi's `f02` cosmetics carousel, 3-plane acoustic design (`c10_b`), silence drop before ED, directed `A → B` table, and 5 anti-symbolism counterchecks (corrected on `REQ-04`, `08`). |
 | **Agent D** | Independent Adversarial Reviewer (Two-Stage) — Gemini Neon Extra (isolated subagent) | **`true`** (Stage 1 frozen blind) | **Stage 1:** `10` lossless MKVs + `2` ASR WAVs + `18` stills (`257.05 MiB`). **Stage 2:** `18` 1080p documentary stills (`d_f01`–`d_f18`), `3` lossless WAVs (`d01`–`d03`), `2` lossless MKV dispute clips (`c03_b`, `c09_b`; `71.41 MiB`). Caught all `11 REQUIRED` + `3 OPTIONAL` adjudications (`DSP-27`–`DSP-35`) and self-corrected Stage 1 on Yoshika (`c03_b`). |
 | **Integrator** | Analytical Integrator — Gemini Neon Extra (Coordinator) | Integrator | Audited full logs/outputs of A–D, extracted `d_f19`–`d_f21` (`OPT-03`), and verified `d_f17`, `d_f03`, `d_f08`, `d_f09`, `d_f14`, `d_f18`, `d_f19`–`d_f20` first-hand (`< 1.6 MiB` coordinator media) before publication. |
 

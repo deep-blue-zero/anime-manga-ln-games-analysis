@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E06
 edition: PP-S01NE
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -42,7 +42,7 @@ last_updated: 2026-11-26
   - `Q3` (Fallout vs. Backstory): **`EXPLICIT TWO-ACT DIPTYCH`** (Act I unlocks Makishima's face/name/`CC 0` immunity; Act II delivers Yayoi Kunizuka's `— ３年前 —` origin & pre-tragedy Division 1).
   - `Q4` (Mid-season character shifts & Tranche 2 gate): Akane shattered yet clear-eyed; Yayoi deepened massively; **`Masaoka = Ginoza's father` stays `STRONG_INF`**; formal monograph gate held at **`DEFERRED_EVIDENCE`** through `E06–E07` -> formal Tranche 2 adjudication at **`E08` close**.
   - `Q5` (Institutional trajectory): **`H2c` STRUCTURALLY CRACKS TOWARD `H2a`** (Dominator `CC 0` failure + Kōgami's insider rehab indictment + sedative gas + art licensing + sham democracy) **while retaining real human counterweights** (CID hostage defense, Fire Dept call, reckless Molotov resistance, Makishima's sadistic hypocrisy).
-  - `Q6` (Calendar & 6-tier provenance): **Unresolved E03/E04 (`2109-01-13`/`03-31`) vs. E06 (`2109-03-28..04-14`) internal chronology contradiction registered**; `槙島聖護` & `リナ` promoted to Tier-1; `TOMOMI MASAOKA` & `MITSURU SASAYAMA` promoted to Tier-2 diegetic UI; `滝崎`, `禾生壌宗`, `霜月美佳` strictly Tier-4 quarantined.
+  - `Q6` (Calendar & 6-tier provenance): **Unresolved E03/E04 (dossier-stamped `2109-01-13` estimated [`推定`] death date & `03-31` HQ dissolution 14 days pre-raid, not independent proof of death, `ERR-E06-01`) vs. E06 (`2109-03-28..04-14` live Sasayama) internal chronology contradiction registered**; `槙島聖護` & `リナ` promoted to Tier-1; `TOMOMI MASAOKA` & `MITSURU SASAYAMA` promoted to Tier-2 diegetic UI; `滝崎`, `禾生壌宗`, `霜月美佳` strictly Tier-4 quarantined.
 
 ---
 
@@ -71,7 +71,7 @@ last_updated: 2026-11-26
 
 ## 4. Material Dispute Dispositions (`DSP-44` – `DSP-51`)
 
-1. **`DSP-44` (`REQ-01` — Major E03/E04 vs. E06 Chronology Contradiction):** Deleted Agent A's `"died strictly after 2109-04-14"` claim; formally registered unresolved internal production-art contradiction between E03/E04 (`2109-01-13` Sasayama death & `2109-03-31` HQ dissolution) and pixel-verified E06 Act II (`2109.3.28..2109/04/14` living Sasayama & Inspector Kōgami).
+1. **`DSP-44` (`REQ-01` — Major E03/E04 vs. E06 Chronology Contradiction):** Deleted Agent A's `"died strictly after 2109-04-14"` claim; formally registered unresolved internal production-art contradiction between E03/E04 (dossier-stamped `2109-01-13` estimated [`推定`] death date — not settled fact — & `2109-03-31` HQ dissolution 14 days pre-raid, not independent proof of death, `ERR-E06-01`) and pixel-verified E06 Act II (`2109.3.28..2109/04/14` living Sasayama & Inspector Kōgami).
 2. **`DSP-45` (`REQ-02` — `>>SHOT HISTORY` Count & Timestamps):** `d_f17` locks **exact `5×`** `invalid user / ERROR` pulls (`2109/04/14 04:09:02`, `03`, `41`, `42`, `43` — NO `:47`!), falsifying C's `6×` and both A/C's `:47`; logs `[ ERROR ] :: INVAILID USER` & `@user_1 2109/04/08 14:05:12`.
 3. **`DSP-46` (`REQ-03` — Cell HUD `118` & Documentary IDs):** Un-mirrored `d_f12` proves **`CC 118`** & **`00475-AEDF-52510-2`** (falsifying A's `178` & C's `52570-2`); fixed Sengūji `00475-PBQW-05075-1` (`d_f05`), Sasayama `00475-AYKT-45870-2` (`d_f16`), removed false `DATE:` headers on `d_f04`/`d_f05`, and fixed B's `d_f04` comm log.
 4. **`DSP-47` (`REQ-04` — Certified 6-Scan Table & Blocking/Prop Fixes):** Locked Makishima scans (`79.2` [Makishima chest] -> `49.7` [shotgun across hip, NOT Yuki's head] -> `48.5` -> `32` [audio-only] -> `18.3` -> `0`) and audio-only Sengūji `328`; fixed kicked bottle (`c09_a`), bare cuffed hand (`f08`), abandoned polish & strings (`c10_b`), retained Masaoka headbutt (`c03_b`), and fixed `"ED1"` -> ED2.

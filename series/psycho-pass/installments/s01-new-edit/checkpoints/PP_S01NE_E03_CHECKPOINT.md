@@ -6,7 +6,7 @@ series: psycho-pass
 installment: s01-new-edit
 unit_id: PP-S01NE-E03
 edition: PP-S01NE
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -34,13 +34,13 @@ last_updated: 2026-11-26
 ## 1. Frozen Prospective Entering Boundary (`PP-S01NE-PRE-0003`)
 
 - **Freeze ID:** [`PP-S01NE-PRE-0003`](../freezes/PP_S01NE_PRE_0003.md) (locked unaltered prior to any E03 narrative inspection; `6,525` bytes, SHA-256 `bef5447f68e4e48846d5f8ca71972f03ff3c7eb257c9a5ac6cd56a296519f37c`).
-- **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01`–`E02` (`H2c`; Midō escaped Exocet & strangled Shōko Sugawara under Makishima; CID blind to Makishima, Gu-sung, Midō, and Shōko's murder; Kōgami's past & Ginoza–Masaoka `"landmine"` undisclosed).
+- **Entering Viewer Knowledge:** Strictly bounded to `PP-S01NE-E01`–`E02` (`H2c`; Midō escaped Exocet & strangled Shōko Sugawara under Makishima; CID Division 1 not shown identifying Makishima, Gu-sung, or Midō's name, or learning of Shōko's murder [`ERR-E02-01`]; Kōgami's past & Ginoza–Masaoka `"landmine"` undisclosed).
 - **Disclosure of Prior Familiarity:** All four independent Gemini Neon Extra contexts disclosed pretrained franchise familiarity (`blind_to_franchise: false`) and quarantined E04–E11 knowledge; Agent D Stage 2 caught and corrected Agent A's fountain-corpse/sketch conflation (`REQ-01`), Agent B's hallucinated Masaoka lens reflection (`REQ-04`), and unspoken kanji provenance (`REQ-05`).
 - **Frozen Questions (`Q1`–`Q6`) Adjudicated Honestly:**
   - `Q1` (First non-archival-BD witness integrity): **`PASS WITH SYNC & SPEAKER-TAG CAVEATS`** (PCM bit-exact, `0` normalized ASS-vs-TV diffs, two verified boundary offsets `-0.98s` & `+1.46s`, 5 TV-CC speaker/medium errors fixed on lossless audio/video).
   - `Q2` (Midō resolution & Akane's grief): **`H2a CONFIRMED`** (resilience sharpened with grounded `00:17:26` fragility beat; no Akane Hue HUD readout; `Biometrics` login bypass verbally unexplained / `OPEN`).
-  - `Q3` (First CID awareness of mastermind): **`CONFIRMED` with strict `DISC` separation** (Midō empty room → Shion code match → Kōgami `周旋人` deduction; Ginoza calls it `"ghost"`; `槙島` unshared with CID; Ōsō Academy & fountain corpse unknown to CID).
-  - `Q4` (Kōgami past, Ginoza–Masaoka, ensemble): **`MAJOR DISCLOSURES + BOUNDARIES`** (Kōgami #1 Inspector `721`, demoted `2110.4` after Sasayama's `2109.1.13` Case 102 plastination; `f05` blurred photo inside Case 102 binder beside `島`; Kasei reveals Ginoza's `父親` fell into Latent Criminality while `Masaoka = father` remains `INF`).
+  - `Q3` (First CID awareness of mastermind): **`CONFIRMED` with strict `DISC` separation** (Midō empty room → Shion code match → Kōgami `周旋人` deduction; Ginoza calls it `"ghost"`; Division 1 is not shown identifying Makishima, Ōsō Academy, or the fountain corpse — strictly distinct from Kōgami's unshared private Case 102 recollection [`"槙島！"` in `SC-13` and blurred photo `f05` beside `島`, `ERR-E03-01/02`]).
+  - `Q4` (Kōgami past, Ginoza–Masaoka, ensemble): **`MAJOR DISCLOSURES + BOUNDARIES`** (Kōgami #1 Inspector `721`, demoted `2110.4` after Sasayama's Case 102 plastination [dossier-stamped `2109.1.13` estimated (`推定`) death date — not settled fact; later contradicted at E06, `ERR-E06-01`]; `f05` blurred photo inside Case 102 binder beside `島`; Kasei reveals Ginoza's `父親` fell into Latent Criminality while `Masaoka = father` remains `INF`).
   - `Q5` (Institutional trajectory): **`H2c` SHARPENED** (Ōsō Academy `"greenhouse"` gag orders, domestic sexual predation clouding Yoshika's Hue, 4-yr scanner blind spot, `+4` blackout, Kasei eugenic pressure — balanced by `任意執行対象` on `CC 282`, Shion *mens rea* rigor, Ginoza evidentiary discipline & praise of Akane, dual `報道管制` logic, and ordinary urban life).
   - `Q6` (Diegetic calendar): **`DECISIVE REVERSION TO DECEMBER 2112`** (7 witnesses including exact Gregorian `Dec 14, 2112` = Wednesday and `Nov 2, 2108` = Friday).
 
@@ -72,7 +72,7 @@ last_updated: 2026-11-26
 ## 4. Material Dispute Dispositions (`DSP-18` – `DSP-26`)
 
 1. **`DSP-18` (Fountain Corpse & `00:43:19` Sketch — A REVERSED; C/D UPHELD):** `d_f19`–`d_f20` prove fountain corpse is a **short chin-length brown-bobbed girl** matching `00:36:01` sketch `d_f15` (bounded `INF` → missing Satsuki Kuzuhara, NOT Yoshika); `d_f21` proves `00:43:19` sketch is **twin-tailed Yoshika Ōkubo** with a throat slash, NOT Mika Shimotsuki.
-2. **`DSP-19` (Case 102 HUD Digits & `d_f18` Binder — A/B/C CORRECTED; D UPHELD):** `d_f12` prints **Ryōji Hashida `AGE: DIED AT 63`** (`26 OCT 2044`); `d_f13` prints **Mitsuru Sasayama** `DOB 2081.3.26`, `2109.1.13 (est.)` death, father `佐々山綱紀` (`所沢矯正保護センター A-326`); `d_f14` prints Case 102 HQ dissolution `2109.3.31` (`青柳美芽生`); `d_f18` proves blurred E02 wall photo (`f05`) is printed inside Kōgami's Case 102 binder next to `島`.
+2. **`DSP-19` (Case 102 HUD Digits & `d_f18` Binder — A/B/C CORRECTED; D UPHELD):** `d_f12` prints **Ryōji Hashida `AGE: DIED AT 63`** (`26 OCT 2044`); `d_f13` prints **Mitsuru Sasayama** `DOB 2081.3.26`, dossier-stamped `2109.1.13` estimated (`推定`) death date (not settled fact; later contradicted at E06 by pixel-verified `2109-04-14` live Sasayama, `ERR-E06-01`), father `佐々山綱紀` (`所沢矯正保護センター A-326`); `d_f14` prints Case 102 HQ dissolution `2109.3.31` (`青柳美芽生`, 14 days pre-raid and not independent proof of death); `d_f18` proves blurred E02 wall photo (`f05`) is printed inside Kōgami's Case 102 binder next to `島`.
 3. **`DSP-20` (Gregorian Calendar — A & C CORRECTED; D UPHELD):** `2100` is non-leap, so **`2112-12-14` IS Wednesday (`水`)** and **`2108-11-02` IS Friday (`金`)**; rejected C's `12月1日(木)`.
 4. **`DSP-21` (Ginoza Lens Reflection `00:26:12` — B FALSIFIED; D UPHELD):** `d_f08` proves **Director Kasei** (NOT Masaoka) reflects in both lenses; `Masaoka = Ginoza's father` remains strictly `INF`.
 5. **`DSP-22` (`Yoshika Ōkubo` & 6-Tier Kanji Provenance — A/D UPHELD; B/C `Ashika` REJECTED):** Lossless `d02` (`よしかさん` ×2) + `d_f11` (`OKUBO_YOSHIKA`) + `d_f24` lock `Yoshika Ōkubo`; `禾生壌宗` verified E03-attested (`d_f14` + `d_f22`) with reading unspoken; `遠藤` tagged TV-CC-only.
