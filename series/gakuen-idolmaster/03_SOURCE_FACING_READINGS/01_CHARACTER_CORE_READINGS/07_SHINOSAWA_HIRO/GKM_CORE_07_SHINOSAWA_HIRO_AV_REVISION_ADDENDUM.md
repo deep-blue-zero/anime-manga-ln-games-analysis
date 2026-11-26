@@ -142,3 +142,7 @@ At that prior stage, the 20 disposition categories stayed unchanged. Those added
 ## Hiro and Rinami’s recorded Event 010 and support evidence
 
 The game capture presents Hiro’s viewer-audible inward thanks to China, Ume and Misuzu and then the participants’ account of a live. A selected instrumental passage shares opening material with other editions of ハッピーミルフィーユ. The recorded extent gives no identified Hiro-sung phrase or complete stage. In support 1-0005 part 01 Hiro asks Temari for advice more severe than the feedback Temari gives China. Temari’s hesitant outward answer and her inward alarm have separate audience roles. Hiro says she would welcome criticism. This guard supplies no actual harsh criticism or outcome. [Hiro’s recorded and written roles](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+Hiro’s performed question and playful claim can be attributed to her. Temari’s closing request is separately addressed. The evidence gives later acknowledgment its own requirements. Person scopes are Q766/A. [Guarded SyngUp adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

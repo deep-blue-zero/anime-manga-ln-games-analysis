@@ -680,7 +680,7 @@ This is one of the clearest low-drama statements of Sena's institutional vocatio
 
 On the group day off, Sena becomes an exuberant idol fan, buys goods, knows her own licensed merchandise, wants to eat at the fast-food restaurant where Kotone works, and misunderstands a menu's “happy wink 0 yen” joke as an orderable item.
 
-She gets sauce on her mouth. Rinami catches the lapse. Sena is embarrassed.
+She gets sauce on her mouth. Tsubame points it out (main-03 L507). Sena reacts, and Rinami comments that this is the first time she has seen the president off guard (L517–525).
 
 The event refuses the obvious “real Sena versus perfect Sena” binary. Sena herself says she is proud that idolhood consumes her life and does not experience perfect conduct as imprisonment. Yet she also admits that casually eating fast food and talking with friends was a small dream.
 
@@ -714,17 +714,19 @@ The logic parallels Mao's own integrated model: authenticity comes through the f
 
 ## 6.6 Rinami's camera turns observation into self-revision
 
-Rinami begins the week worried that she may love idols less than the others because she feels stalled while Mao and Tsubame seem to move forward.
+After a week of following her friends, Rinami tells Tsubame that she had recently lost confidence. She felt stalled while Mao and Tsubame seemed to move forward and wondered whether her love for idols was weaker (main-05 L123–173).
 
 After filming them, her conclusion changes. She sees the senior quartet as idols not only on stage but in the way they pursue dreams, help juniors, work, play, and love other idols. Their ordinary lives remain luminous because vocation organizes what they do.
 
-Her final definition is explicit:
+In the closing sequence Mao says she will take over the camera because Rinami’s own daily life has not yet been filmed. Rinami protests, and Sena announces a further week of filming (main-05 L492–546). Rinami then completes her definition in the closing interview.
 
 > an idol is a star on stage, but also someone whose dream-pursuing daily life can shine and give other people energy.
 
-Then the others turn the camera back on Rinami. The observer is made observable.
+The opening interview stops at `私にとって、アイドルは――` (main-01 L88). In the closing sequence the question is labelled `ナレーション` (main-05 L559) and assigned Mao’s voice cue at L560; Rinami’s own answer and voice cue follow separately (L565–566).
 
 That reversal matters. Rinami cannot remain the invisible caretaker/editor who captures everyone else's charm. Her friends insist that **her ordinary self also belongs inside the record**.
+
+**Written-source precision (2026-11-26, Source Lock 1.2 revision 88).** The sauce reminder and following comments have different speakers (`adv_event_017_main-03.txt` L507–525). Rinami’s confidence account is retrospective, and the opening/closing interview frame separates the camera-role change and assigned question voice from her answer. See `adv_event_017_main-01.txt` L88 and `adv_event_017_main-05.txt` L123–190 and L492–591. The earlier Phase-4 labels and Rinami’s distinct documentary narration in other scenes remain. These written corrections grant no new audiovisual answer or gate decision.
 
 ### Event 017 thesis
 
@@ -764,13 +766,13 @@ That reversal matters. Rinami cannot remain the invisible caretaker/editor who c
 
 ## 7.1 Mao notices constraint before Sumika volunteers it
 
-Mao invites Sumika first. Sumika accepts quickly and treats the Osaka trip as both work and something she can enjoy. During rehearsal, however, Mao notices that Sumika keeps protecting her knee and proposes reducing choreography difficulty.
+Mao invites Sumika first. Sumika accepts quickly and treats the Osaka trip as both work and something she can enjoy. During rehearsal Mao proposes adjusting the choreography and lowering its difficulty (L53). Hiro asks whether the reason is that Sumika is minding her knee (L68).
 
-Sumika initially hears this as criticism of dance quality. Mao clarifies that the problem is injury risk, not lack of talent.
+Sumika asks whether her dancing was bad (L62). Mao says that if she is injured, she should not be participating in the unit (L93). Her words state a conditional concern, not a finding of injury.
 
-Sumika then explains the real state: the knee is physically recovered, but intense movement still triggers a psychological block. She has been working through it gradually with Saki and Lilja.
+Sumika says her knee is fine and attributes the remaining problem to her own mind (L100–109). She reports gradually working through it with Saki and Lilja and says intense choreography is still difficult for her (L125–140).
 
-Mao's response is strong senior practice:
+Mao’s proposed response sets out a senior’s responsibilities:
 
 - accept Sumika's account rather than override it;
 - lower risk without treating her as incapable;
@@ -778,13 +780,15 @@ Mao's response is strong senior practice:
 - prohibit further apology;
 - frame the unit as mutual assistance rather than Sumika owing the others compensation.
 
-This is a significant stress test for Mao because her senior/prince role could easily become paternalistic. Here she notices, asks, receives, and changes the plan.
+This is a significant stress test for Mao because her senior/prince role could easily become paternalistic. She proposes an adjustment, Hiro articulates the knee concern, and Sumika supplies her own account. Mao then calls for careful practice and Sumika agrees (L151–164). The exchange records the terms and assent; implementation of a revised routine remains a separate question.
+
+**Written-source precision (2026-11-26; Source Lock 1.2 revision 88).** `adv_event_018_main-02.txt` distinguishes Mao’s initial proposal (L53), Hiro’s knee question (L68), Mao’s conditional injury concern (L93), Sumika’s own account (L100–140), and the proposed practice terms and assent (L151–164). The earlier Phase-4 character and relationship transitions remain at those written scopes. This correction supplies no independent medical finding, observed implementation or new audiovisual disposition.
 
 ### Claim transitions
 
-- **Mao — STRENGTHEN:** prince/senior care can operate through adaptive design rather than rescue theater.
-- **Sumika — STRENGTHEN:** dance fear is not laziness or lack of technical inheritance; she can choose ambitious work while still requiring graded exposure.
-- **Mao ↔ Sumika — PROMOTE:** direct senior/junior trust around embodied vulnerability and production adjustment.
+- **Mao — STRENGTHEN:** Mao’s care as a senior begins here with a proposed change to the work and a discussion of careful rehearsal.
+- **Sumika — STRENGTHEN:** Sumika reports gradually getting used to dancing with Saki and Lilja and still finding intense choreography difficult. She agrees to practice carefully.
+- **Mao ↔ Sumika — PROMOTE:** Sumika describes her difficulty in her own terms. Mao takes it seriously and they agree to practice carefully. Implementation remains a separate question.
 
 ## 7.2 Hiro chooses the pair because their interrupted prior lives resemble her own
 
@@ -850,7 +854,7 @@ Hiro begins with informational advantage. Mao and Sumika become more comfortable
 
 - **Hiro ↔ Sumika — PROMOTE:** initial fear of Hiro's perceptiveness is explicitly named and answered through mutual disclosure and future play.
 - **Hiro ↔ Mao — PROMOTE:** Hiro's prior observation becomes direct respect; Mao receives Hiro's disclosure without treating her as aberrant.
-- **Mao ↔ Sumika — STRENGTHEN:** Mao accommodates embodied fear without reducing Sumika to injury; Sumika trusts the unit with information relevant to safe production.
+- **Mao ↔ Sumika — STRENGTHEN:** Sumika explains her difficulty to the unit and accepts a plan for careful practice. Mao responds to her account with proposed rehearsal terms rather than an independently demonstrated accommodation.
 - **Mao–Sumika–Hiro trio — PROMOTE:** each member contributes a different authorship function—senior staging, embodied performance, structural observation/scriptwriting—and each becomes object as well as author.
 
 ### Japanese-register evidence
@@ -861,7 +865,7 @@ Hiro begins with informational advantage. Mao and Sumika become more comfortable
 
 ### AV requests
 
-**P1:** `adv_event_018_main-02` — Mao noticing Sumika's knee protection and shifting from performance evaluation to care/plan revision.
+**P1:** `adv_event_018_main-02` — Hiro’s knee question, Sumika’s account and Mao’s proposed rehearsal adjustment. Test delivery and assent without assuming a diagnosis or implemented routine.
 
 **P0:** `adv_event_018_main-04` — Hiro's surprise when the other two rewrite her into the play; useful for observer-to-participant transition.
 
@@ -1297,7 +1301,7 @@ The following edges are strong enough to enter the cumulative relationship ledge
 | Temari ↔ Rinha | E016 historical | Rinha's coaching language persists as Temari's later teaching repertoire |
 | Hiro ↔ Sumika | E018 | fear of being seen through becomes reciprocal disclosure and planned shared play |
 | Hiro ↔ Mao | E018 | structural recognition of prior-life discontinuity becomes direct mutual respect |
-| Mao ↔ Sumika | E018 | senior notices embodied fear and adapts production without infantilization |
+| Mao ↔ Sumika | E018 | after Hiro’s knee question and Sumika’s account, Mao calls for careful rehearsal and Sumika agrees. Proposed terms and implementation remain separate. |
 | Saki ↔ Temari ↔ Kotone | E019 | **PROMOTE:** high-friction peers become travel-capable operational friends with stable domain roles |
 | Temari ↔ Misuzu | E019 | direct evidence that care can persist across physical separation and independent peer functioning |
 | Lilja ↔ Sumika | E020 | **PROMOTE:** shared Sweden history, mutual world-expansion, intimate trait knowledge, and complementary feared futures form a central Phase-6 relationship dossier |
@@ -1455,7 +1459,7 @@ These are original commissioning priorities and discriminators. See the [current
 | P0 | `adv_event_017_main-04` | Mao/Sena private dialogue; “unguarded smile” advice |
 | P0 | `adv_event_017_main-05` | Rinami insecurity → daily-life idol definition → camera reversal |
 | P1 | `adv_event_017_main-02` | Mao coffee pose versus spontaneous enacted prince behavior |
-| P1 | `adv_event_018_main-02` | Mao noticing Sumika's knee-related hesitation and adapting plan |
+| P1 | `adv_event_018_main-02` | Hiro’s knee question, Sumika’s account and Mao’s proposed rehearsal adjustment; implementation remains separate |
 | P0 | `adv_event_018_main-04` | Hiro observer → surprise participant in theatrical ending |
 | P0 | `adv_event_018_main-05` | Hiro disclosure and Sumika naming why Hiro felt frightening |
 | P1 | `adv_event_019_main-01` | friend-invitation consent correction and instant acceptance |

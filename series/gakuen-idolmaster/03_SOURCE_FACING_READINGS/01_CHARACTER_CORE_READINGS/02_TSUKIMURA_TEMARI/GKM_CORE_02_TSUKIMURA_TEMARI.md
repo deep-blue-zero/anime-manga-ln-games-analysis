@@ -1844,3 +1844,7 @@ Temari makes room for Misuzu's account of repair and can distinguish the support
 ## Recorded moon-viewing and its remembered quarrel
 
 Temari thanks Misuzu for the blanket and tea offer, admits embarrassment and later questions whether they have made up. Temari owns the reservation that their old relationship has not wholly returned. She reacts more forcefully in the remembered argument than in her later appraisal. Her final deferral leaves a further reconciliation open. [Guarded moon-viewing adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#temari-answers-the-offer-and-doubts-the-description-of-repair).
+
+## Five guarded SyngUp support scenes
+
+**STRENGTHEN within the named support guards.** Temari asks Hiro to keep going as she has been, leaving Hiro’s precise role open. She invites Misuzu to lunch while allowing that Misuzu may have other plans. She accepts Sena’s assessment and invitation to sing together after declining production. The evening truce and Misuzu’s dream give their relationship separate terms. [Guarded SyngUp adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

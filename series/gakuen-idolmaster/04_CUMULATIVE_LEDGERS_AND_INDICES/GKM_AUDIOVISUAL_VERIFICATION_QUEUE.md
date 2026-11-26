@@ -532,7 +532,7 @@ Priority reflects interpretive leverage, not presumed visual spectacle.
 | P0 | `adv_event_017_main-04` | Mao/Sena private dialogue; “unguarded smile” advice |
 | P0 | `adv_event_017_main-05` | Rinami insecurity → daily-life idol definition → camera reversal |
 | P1 | `adv_event_017_main-02` | Mao coffee pose versus spontaneous enacted prince behavior |
-| P1 | `adv_event_018_main-02` | Mao noticing Sumika's knee-related hesitation and adapting plan |
+| P1 | `adv_event_018_main-02` | Hiro’s knee question, Sumika’s account and Mao’s proposed rehearsal adjustment; implementation remains separate |
 | P0 | `adv_event_018_main-04` | Hiro observer → surprise participant in theatrical ending |
 | P0 | `adv_event_018_main-05` | Hiro disclosure and Sumika naming why Hiro felt frightening |
 | P1 | `adv_event_019_main-01` | friend-invitation consent correction and instant acceptance |
@@ -767,7 +767,7 @@ Textual Phase-5 progression is not blocked by these targets.
 4. `S3-0064-03` — Sumika dance fear + Rinami `Love☆しすたぁず` disclosure.
 5. `S3-0065-03` — Temari reverse jealousy / Misuzu cooking recognition / Kotone brokerage.
 6. `S3-0066-03` — Sena's technically marginal but emotionally compelling Hiro evaluation.
-7. `S3-0067-01` — Hiro/Misuzu closeness + Temari jealousy/delegated trust.
+7. `S3-0067-01` — Hiro/Misuzu closeness and Temari’s closing address to Hiro; test the proposed jealousy/delegation reading with motive, receipt and later compliance open. *(Written-source precision, 2026-11-26; Q766 unchanged.)*
 8. `S3-0070-03` — Tsubame waits for Kotone, academic concern, `シルヴェスタ` gift reveal. [Current finding](#tsubame-support-scene-playback--2026-11-25).
 9. `S3-0071-03` — Tsubame No.2 visibility anxiety + student recognition.
 10. `S3-0074-03` — Lilja homesickness + Rinami sister-coded response.
@@ -789,8 +789,8 @@ Textual Phase-5 progression is not blocked by these targets.
 ## Phase 5 closure - Support Series 3 Part 076-102 AV queue additions
 
 ### P0 - interpretation-changing performance targets
-1. `S3-0076-01` - Temari's awkward post-reconciliation lunch invitation and Sena's silent encouragement to Misuzu.
-2. `S3-0076-02` - Sena/Temari duet; public challenge versus Temari inner delight.
+1. `S3-0076-01` - Temari’s awkward post-reconciliation lunch invitation, Sena’s explicitly inward encouragement (A1 L121), and Misuzu’s separate spoken reply (L141). Test any rendered cue and possible receipt without presuming a spoken permission or communicated signal. *(Written-source precision, 2026-11-26; Q788 unchanged.)*
+2. `S3-0076-02` - represented Sena/Temari duet and its audible scope. Compare Temari’s outward challenge and marked inward surprise.
 3. `S3-0082-01-03` - Tsubame/Lilja fandom embarrassment and register collapse when discovered by Mao/Rinami.
 4. `S3-0086-03` - Sena's date / not-knowing-romantic-love / liking-Tsubame sequence; essential anti-overclaim calibration.
 5. `S3-0088-03` - Hiro/China internalized-other exchange; comic/serious balance and warmth.
@@ -1185,3 +1185,7 @@ Two guarded windows supply four individual P0 answers. Q733 concerns Temari and 
 ## Ume’s three central recorded questions
 
 Three independently received original windows add 5 person-specific answers. Cumulative receiving reaches 60 recording windows and 73 person-specific answers. Ume’s Q483, Q660 and Q628 have guarded answers. Rinami’s own Q483 answer concerns her prospective checking role. Saki’s own Q660 answer concerns her two distinct responses. Q628 uses Saki’s speech as context for Ume’s own answer. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#person-specific-dispositions).
+
+## Five guarded SyngUp support scenes
+
+The guarded receiving answers Temari, Hiro and Misuzu Q766, Temari, Misuzu and Sena Q788, Temari and Sena Q789, and Temari and Misuzu separately in Q713 and Q714. The earlier cue and relationship wording in the queue remains source-specific. Five original recording windows add twelve separately scoped P0 answers for Temari, Misuzu, Hiro and Sena. This brings the accepted totals to 65 recording windows and 85 person-specific answers. Each person’s remaining requests and readiness retain their own dispositions. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#received-person-specific-scopes).

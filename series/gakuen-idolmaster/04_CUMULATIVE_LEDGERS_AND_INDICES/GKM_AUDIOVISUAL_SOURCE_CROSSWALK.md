@@ -556,3 +556,7 @@ The Japanese recording T-OtHXvvl68 binds support story 3-0033 part 01 to [0.200,
 ## Ume’s proposals, relationship labels and terms of approach
 
 The original Japanese IDs kxKzSCJs6wA, YreLQRvK_zU and o9FocPc2k_k respectively bind Event 006 part 03, support 2-0047 part 02 and support 2-0000 part 01. Each comparison has separate child and original guards. Where decoded audio ends before encoded duration, retain both clocks. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+The five guards use their registered original Japanese uploads, with 0076 parts 01 and 02 and 0021 parts 02 and 03 each divided at their separate source and recording boundaries. The exact half-open original and child clocks, hashes and excluded scenes are preserved in the adjudication. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

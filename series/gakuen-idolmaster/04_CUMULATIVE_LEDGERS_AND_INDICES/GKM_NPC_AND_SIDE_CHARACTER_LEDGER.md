@@ -330,7 +330,7 @@ These unnamed figures provide external-observer evidence that Sena is known and 
 
 ### Kaya Rinha — **PROMOTE / high-priority Phase-6 evidence**
 
-`support_series_3/story_0021/part_02`: during thunder and a power outage, Temari panics and calls `りんはぁ……雷とめてぇ……` before Misuzu appears. This is direct evidence that Rinha occupies an automatic **attachment/safety** position in Temari's fear response. Route to the mandatory Kaya Rinha distributed-character reconstruction; do not infer additional biography from this line alone.
+`support_series_3/story_0021/part_02`: during thunder and a power outage, Temari calls `りんはぁ……雷とめてぇ……` (A1 L91). A ringtone and phone-use commands precede Misuzu’s reply (L92, L98, L106, L109); the script does not place Misuzu in the room or give Rinha a reply. The call supports an attachment/safety interpretation of Temari. It supplies no Rinha behavior, received request or new biographical fact. The existing Rinha dossier and crosswalk retain this observer scope. **Written-source precision, 2026-11-26:** the earlier “before Misuzu appears” wording is qualified as entry into the phone exchange, not established physical presence.
 
 ### Asari-sensei — **STRENGTHEN**
 
@@ -563,3 +563,7 @@ These rows mirror the corrected [side-character synthesis](../06_RELATIONSHIP_AN
 | Kaya Rinha (pedagogy note) | `dear_ttmr_024` L399; `dear_ttmr_029` L491 (= `dear_ttmr_015` L272); `dear_ttmr_030` L349–L372; `dear_hmsz_016` L90–L114 | retrospective teacher | SyngUp! alumni | Temari reproduces Rinha's language; Misuzu testifies that Temari copies Rinha | — | C1 by track | high | GKM-SAA-180; adds Dear witnesses to the Event 016 pedagogy note (§15.1 above). |
 | The Producer (cross-route invariants) | `presult_003_final-failure` L3; `startup_2024_user-bd-01_hmsz-01` L16–L22; `tower-001` L25–L32; `tutorial_first_cmmn-00` L163–L164 | protagonist | Producer Course | hides tears from the idol (C3); treats his own birthday lightly (C4); polite baseline to idols | route functions stay separate | C3/C4 by source family | high for located traits | GKM-SAA-115 (partial). Further proposed traits were withheld for lack of verified locators (RS-II §9.13). |
 | Dance, vocal and visual trainers (register) | `LOC-SAA-288A`–`288C` | specialist instructors | Hatsuboshi | in these lessons none addresses the Producer by name (dance: `おまえ`; vocal: `あなた`, `プロデューサー`; visual: `あなた`), unlike Asari's `{user}くん` | as Phase 2 rows | C3 lesson branches | high for these files | GKM-SAA-288; register detail in the Japanese voice ledger. Not tested corpus-wide. |
+
+## Five guarded SyngUp support scenes
+
+Temari calls out Rinha’s name during the outage. Misuzu’s voice comes through the phone and asks if Temari is all right. Misuzu proposes a truce for tonight, and Temari agrees until thunder stops. Participation by Rinha remains unestablished. This is Temari’s contextual address only for Rinha, whose accepted distributed dossier and recorded source limits have their own entries. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#a-telephone-truce-through-thunder).
