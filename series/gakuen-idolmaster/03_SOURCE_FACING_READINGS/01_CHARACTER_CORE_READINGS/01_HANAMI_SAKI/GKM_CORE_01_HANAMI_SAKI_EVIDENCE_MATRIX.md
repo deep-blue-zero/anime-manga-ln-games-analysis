@@ -112,3 +112,7 @@ These claim rows apply to revision 86 A1. The [core supplement](GKM_CORE_01_HANA
 ## Guarded comparisons of the Hanami sisters — 2026-11-25
 
 Saki speaks a lyric about an unseen future, then sets an audience goal and asks the group to rest. The listening scope includes the ending of her earlier conclusion. It leaves its opening outside the window. Saki says the performance felt shared with the audience. She encourages Ume’s wish to try more covers and answers her in spoken wordplay. The audience and performance reach this exchange through the participants’ accounts. [Guarded Event 026 and support comparison](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded readings associated with the current event evidence — 2026-11-26
+
+**STRENGTHEN within the named clips.** Saki’s delivery gathers force as she moves from a judgment about the present Sena to her own promise to become an example. Her disappointment and the new challenge belong to the same address. Sena’s later decision about recruitment remains a separate exchange. [Guarded Event 005 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md#saki-challenges-the-present-sena)

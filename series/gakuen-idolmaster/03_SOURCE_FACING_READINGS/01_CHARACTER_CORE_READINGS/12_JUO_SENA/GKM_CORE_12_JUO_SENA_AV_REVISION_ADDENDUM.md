@@ -67,3 +67,7 @@ This addendum routes the canonical textual core through the completed Phase-3 AV
 → relevant specialist document
 → `GKM_SENA_AV_EVIDENCE_AND_METRICS_MATRIX.md`
 → source manifest / exact AV source / Source Lock locator.
+
+## Recorded exchange and scope — 2026-11-26
+
+Sena answers Saki directly, then gives Tsubame a crisp refusal and calls Saki an enemy in the officers’ exchange. Earlier Rinami observes that Sena looks pleased, while Sena gives anger as her account. The delivery supports a rivalry that can carry different affects in one encounter. Their balance remains open. Sena’s unusually emphatic admission that she could not tell Ume’s talent is followed by her question about her own excitement. She later praises the reported athletic display and moves to a conditional offer. She describes having received a push toward recruitment. The cause of the earlier excitement and the earlier reserve-admission criterion remain open. [Guarded Event 005 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)

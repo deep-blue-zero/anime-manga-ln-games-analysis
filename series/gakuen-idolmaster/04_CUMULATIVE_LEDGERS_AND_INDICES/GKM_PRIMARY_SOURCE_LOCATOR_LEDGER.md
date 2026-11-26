@@ -1526,3 +1526,16 @@ Event 026 parts 04 and 05 are distinct guards of the exact `8Nh2Uxg0XUI` edition
 | China · Q563 | adv_event_025_main-05 L139–211 and L217–331 | Q03 |
 
 [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md). The clock locators and inspection limits apply to both the printed and spoken material.
+
+## Guarded Event 005 and 024 primary locators — 2026-11-26
+
+| Received scope | Primary-script locator | Window |
+| --- | --- | --- |
+| Hanami Saki P0 Q472 | adv_event_005_main-04 L367–416 | A |
+| Juo Sena P0 Q472 | adv_event_005_main-04 L419–425 and L453–487 | A |
+| Hanami Ume P0 Q473 | adv_event_005_main-05 L282–303, L353, L468–501 and L553–591 | B and C |
+| Juo Sena P0 Q473 | adv_event_005_main-05 L390–427, L498–539, L553–591 | B and C |
+| Hanami Ume P1 Q576 | adv_event_024_main-02 L48–62, L229–257, L278–291 and L412–438 | D, E and F |
+| Hataya Misuzu P1 Q576 | adv_event_024_main-02 L68–90, L229–275, L291–302 and L412–438 | D, E and F |
+
+[Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)

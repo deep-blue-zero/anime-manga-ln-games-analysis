@@ -553,15 +553,17 @@ Sena explicitly changes her usual behavior during culture-festival planning. Ear
 
 Misuzu's response is a notable state marker. She says the student-council members are now **important people** to her. Helping them is therefore something she wants to do, even while she apologizes for still lacking spontaneous initiative.
 
-Ume and Misuzu initially drown in collected suggestions because they have solicited too many incompatible preferences. Their solution is not to ask Sena to rescue them. They identify a higher-order criterion—an experience that produces a one-day-only special memory—then search old culture-festival records for reusable structure.
+Ume asks whether the collected proposals would appeal to everyone, then suggests giving attendees a memory unique to the day. Misuzu proposes doing the work needed to give that idea a concrete form (L229–302).
 
-They find an old immersive mystery-play concept and adapt it. When the possibility of recruiting someone more technically skilled arises, they explicitly choose to finish the project together.
+Misuzu suggests looking for clues in earlier festival records, and Ume proposes dividing the search. Ume finds a plan for an immersive puzzle play with a one-time experience. Misuzu recognizes the fit with their criterion and proposes adapting the puzzle content while reusing the framework (L326–401).
 
-This is a clean progression from Phase-4 scaffolded authorship toward **independent co-authorship**.
+Misuzu raises getting help from someone who is good at making puzzles. Later Ume gives her the next turn, Misuzu proposes they make the activity together through the end, and Ume agrees (L408–438). Responsibility for the work shifts to the two juniors. The discussion leaves the work itself and the result ahead of them.
 
-**STRENGTHEN — Ume:** energetic creativity is now paired with archival learning and concept selection; she does not require every problem to be solved through immediate action.
+**STRENGTHEN — Ume:** Her concern for the audience leads to a concrete criterion and a search, with her own suggestion to divide the work.
 
-**STRENGTHEN — Misuzu:** when relationally invested, she can perform tedious source review and design labor without ceasing to describe effort as effort.
+**STRENGTHEN — Misuzu:** She moves from reviewing the proposals to identifying a method and taking initiative in the joint commitment. She calls for steady practical work.
+
+**Guarded planning dialogue.** Ume asks whether the juniors may take the assignment, asks whether the proposals would work for everyone, and voices the idea of a memory unique to that day. In the final exchange she gives Misuzu the floor and then replies more brightly to her proposal to finish the work together. The result of the plan remains outside these windows. Misuzu gives her own reasons for volunteering, examines the proposals, and suggests turning Ume’s idea into practical work. She asks for the floor before proposing that they finish the work together. Her earlier formal apology is separately audible, with the ensuing self-description crossing the first guard. The plan leaves her private motives and the final result open. [Guarded Event 005 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
 
 ## 5.3 The interview assignment shows belonging through critique
 
@@ -657,6 +659,8 @@ The event presents a way to reopen a song to other performers while its best-kno
 - **P0:** `adv_event_024_main-05` — post-live circulation, Sena's changed mind, and her admission that producing taught her more than expected.
 - **P1:** `adv_event_024_main-01` — final producer address versus flashback to Misuzu's early noncompliance.
 - **P1:** `adv_event_024_main-02` — Ume/Misuzu decide to complete the culture-festival concept themselves.
+
+**Current scope (2026-11-26).** The scoped accepted answers are Hanami Ume P1 Q576, Hataya Misuzu P1 Q576. Other individual requests and readiness requirements retain their own dispositions. [Guarded Event 005 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
 
 ---
 
