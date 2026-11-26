@@ -318,7 +318,7 @@ Remaining Phase-3 character AV queue: **none**. All 13 character baselines are c
 | `AV-SENA-M04` | P0 | `Cosmetic` full audio + official Game Size lyric video | glamorous/sensual contemporary-pop diva counter-register; authority vs desirability/attention | REQUESTED |
 | `AV-SENA-G01` | P0 | `Campus mode!! [十王星南]` | academy inheritance | REQUESTED |
 | `AV-SENA-G02` | P1 | `初 [十王星南 Solo ver.]` | inherited repertoire / firstness | REQUESTED |
-| `AV-SENA-G03` | P0 shared | `ENDLESS DANCE` Sena/Ume/Misuzu | shared-stage focality | REQUESTED |
+| `AV-SENA-G03` | P0 shared | `ENDLESS DANCE` Sena/Ume/Misuzu | contrasts in shared vocal and visual focality | **SCOPED ANSWER** — `SRC-0387` studio mix and authored MV. Exact backing attribution, continuous trio 3DMV and the Shibuya concert remain **OPEN**. |
 | `AV-SENA-U01` | P0 | Begrazia `Star-mine` MV + 3DMV + commu if public | strongest-unit construction | REQUESTED |
 | `AV-SENA-U02` | P1 | `Choo Choo Choo` | playful/theatrical range; crosswalk confirmation | REQUESTED |
 | `AV-SENA-R01` | P1 | one or two maximally contrastive common-song performances | portability beyond crown repertoire | REQUESTED SELECTIVELY |
@@ -1080,3 +1080,33 @@ The [adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIM
 | P1 `adv_event_015_main-05` | **STRENGTHEN**, Rinami. The thanks she speaks to her two juniors and her privately voiced recognition have different audiences. No new hearing of the finale. |
 
 Lilja’s separate `adv_event_015_main-03` request has no coverage in these windows. No individual numbered Gate E follows from these focal answers alone.
+
+## 2026-11-25 guarded Event 022 and 024 person-specific dispositions
+
+| Part | Person-specific queue scope | Disposition |
+| --- | --- | --- |
+| Event 022 part 02 | Q556 · Mao, P0 | **STRENGTHEN**, bounded answer for fevered speech and distinct remembered care. Identity of wallet deliverer and imagined addressee stay **OPEN**. |
+| Event 022 part 04 | Q572 · Kotone, P1 | **STRENGTHEN**, bounded answer for the older-friend exchange. Earlier outing and later continuity remain elsewhere. |
+| Event 024 part 04 | Q560 · Ume, Misuzu, Sena, P0 | **STRENGTHEN / REVISE**, distinct invitation, coordinated refusal, personal claim and renewed challenge. |
+| Event 024 part 05 | Q561 · Ume, Misuzu, Sena, P0 | **STRENGTHEN / REVISE**, heard speech, title call and recorded score distinguished from narrated consequences and elided concert singing. |
+
+These eight scoped person-rows answer four cut-bounded questions. Mao's separate Event 022 part 01/05 requests and the event's `ENDLESS DANCE` individual sung-arrangement request have no disposition in this guard. The shared studio voice and authored-picture portions of `AV-SENA-G03` are separately **STRENGTHENED** by both recovered `SRC-0387` reviews. The exact backing allocation, true trio 3DMV and in-story Shibuya stage remain **OPEN**.
+
+The Q-numbers in this table and the next Event 023 table repeat the historical queue line locators used in the qualification table (for example `Queue L556`). They are labels, not current line numbers. In this file each one sits two lines above its Phase 4 request. Read them through their stable part keys: Q556 = `adv_event_022_main-02` (P0 request 5), Q572 = `adv_event_022_main-04` (P1 request 19), Q560 = `adv_event_024_main-04` (P0 request 9), Q561 = `adv_event_024_main-05` (P0 request 10), Q558 = `adv_event_023_main-03` (P0 request 7), Q559 = `adv_event_023_main-05` (P0 request 8), Q573 = `adv_event_023_main-01` (P1 request 20) and Q574 = `adv_event_023_main-04` (P1 request 21).
+
+[Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Recovered Tsubame support focus — 2026-11-25
+
+**Tsubame, 2026-11-25.** In support 2-0066 part 01, SRC-0086 at 52–93 s answers the change from protest to acceptance. The score under the last line remains disputed. For support 3-0094 part 02 (SRC-0091), one direct account covers the cat exchange; the later critical challenge cites that account and does not independently reopen the scene. The acted comparison there remains pending. [Costume exchange on the original recording](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md#the-gold-dragon-on-tsubames-costume).
+
+## Guarded Event 023 — 2026-11-25
+
+| Historical question | Qualified person-specific scope |
+| --- | --- |
+| Q558 · Event 023 part 03 | **STRENGTHEN**, Misuzu's unhurried polite inquiry, giving formula and important-person condition. Interpretation of the coda stays **OPEN**. |
+| Q574 · Event 023 part 04 | **STRENGTHEN**, Misuzu's directed remembered request for a daily nap lullaby. Temari's prospective arrangements and Hiro's clipped prediction retain distinct scope. |
+| Q559 · Event 023 part 05 | **STRENGTHEN**, Misuzu's selective echo and performed gift reception. Specific later play and actually heard music of the disc stay **OPEN**. |
+| Q573 · Event 023 part 01 | **STRENGTHEN**, Temari's disagreement, consultation and invitation. Hiro supplies contextual evidence. Misuzu's recalled phrase leaves a separate person-specific answer **OPEN**. |
+
+These scoped determinations preserve the original request text and individual Gate E requirements. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

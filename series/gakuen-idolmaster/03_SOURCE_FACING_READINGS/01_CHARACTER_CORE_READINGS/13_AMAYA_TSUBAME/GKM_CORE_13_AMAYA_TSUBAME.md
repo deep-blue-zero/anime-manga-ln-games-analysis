@@ -10,9 +10,9 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 title: Gakuen Idolmaster V2 — Amaya Tsubame Phase-3 Character Core Deep Reading
-version: '2.1'
-revised: "2026-11-15"
-revision_note: "v2.1, source-to-analysis audit 2026-11-15: REVISE (attribution, branch scope, track placement and the first retirement thread: GKM-SAA-029, 092, 148, 149, 150, 151, 256, 261, 264; HSCA-019) and STRENGTHEN (GKM-SAA-093, 094, 096, 097, 257, 258, 259, 263; HSCA-111), plus dated, attributed Phase-4/5 event and support integrations in the body and a Phase-4/5 integration pointer table (GKM-SAA-104/108); romance-coded material recorded as bounded and OPEN; no v2.0 claim rejected"
+version: "2.2"
+revised: "2026-11-25"
+revision_note: "v2.1, source-to-analysis audit 2026-11-15: REVISE (attribution, branch scope, track placement and the first retirement thread: GKM-SAA-029, 092, 148, 149, 150, 151, 256, 261, 264; HSCA-019) and STRENGTHEN (GKM-SAA-093, 094, 096, 097, 257, 258, 259, 263; HSCA-111), plus dated, attributed Phase-4/5 event and support integrations in the body and a Phase-4/5 integration pointer table (GKM-SAA-104/108); romance-coded material recorded as bounded and OPEN; no v2.0 claim rejected November 25: STRENGTHEN the support 2-0066 costume exchange with the separately identified recorded edition."
 phase: 3 — Character-Core Readings
 source_lock: GAKUMAS V2 Source Lock 1.0
 continuity_tracks:
@@ -1171,6 +1171,8 @@ Analytical importance: shows that Tsubame recognizes comparison trauma in someon
 **State:** first-year classmate and rival-friend, with Rinami as mediator → witness and comforter of Tsubame's H.I.F. collapse → named rival in SL1.1.
 
 Evidence, by track: in Event 013's first-day flashback Tsubame tells the class, Mao included, that her only rival is Sena (`adv_event_013_main-01` L310–L400). In Event 021 Mao tries to console the second-placed Tsubame after the H.I.F. at which Sena first became Prima Stella, and Tsubame refuses the consolation (`adv_event_021_main-04` L125–L288). In Dear 000 Mao says she wants to overtake "you" this year and that Tsubame has not changed since first year (`adv_dear_atbm_000` L389–L435). In D-MAO Tsubame is relieved when Mao is accepted by 100 Pro (`有村……よかった……本当に`, `adv_dear_amao_022` L203–L226; C1 in D-MAO). In support, Mao embroiders a golden ascending dragon on Tsubame's torn costume because Tsubame's stage looked like one; Tsubame objects, then keeps it, and says they share film and book taste (`adv_csprt-2-0066_01` L98–L158; `_02` L46–L130). Tsubame chooses a moon hairpin for Mao (`adv_csprt-3-0061_01` L99–L106). In one Produce Event choice she refuses the dorm rather than take dorm head Mao's orders (§17). In SL1.1 D-TSUBAME Mao says the old ability gap kept her off the stage where Sena and Tsubame competed, and Tsubame names her a rival (`adv_dear_atbm_031` L120–L304; winter H.I.F. refresh). Analytical importance: Mao is Tsubame's longest-standing same-year rival after Sena, and the "cool senior" pairing of §44 target #7.
+
+In the costume exchange, Mao gives Tsubame the choice of a different design. Tsubame’s turn from a raised objection to a hesitant acceptance appears beside sampled images of her looking away. She keeps the embroidery after hearing what Mao saw in her performance. [Costume exchange on the original recording](../../../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md#the-gold-dragon-on-tsubames-costume).
 
 ## Rinami (added 2026-11-15, GKM-SAA-097; GKM-SAA-104 / GKM-SAA-108)
 

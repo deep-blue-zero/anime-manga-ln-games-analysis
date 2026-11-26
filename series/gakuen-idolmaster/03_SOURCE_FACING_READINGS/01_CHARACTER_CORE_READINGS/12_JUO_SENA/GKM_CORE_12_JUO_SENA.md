@@ -30,6 +30,8 @@ last_updated: "2026-11-15 — source-to-analysis audit corrections"
 
 ## Phase 3 source-facing character deep reading
 
+> **Source-boundary exception — 2026-11-25 (guarded Event 022 or 024).** The earlier source boundary governs the original Phase 3 reading. The separate dated recorded paragraph uses the exact edition, source part and observed scope of this review. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#shibuyas-title-call-and-the-reported-circulation)
+
 ## 0. Status, purpose, and evidence boundary
 
 This is the canonical **Phase-3 source-facing textual core** for Juo Sena. It establishes a falsifiable character model from Sena-owned source families before the numbered-event, support-card, relationship-synthesis, audiovisual and definitive-monograph phases.
@@ -1409,3 +1411,7 @@ For now, the strongest bounded claim is:
 In D-SENA, the 100 Pro president objects to Sena producing while active, then expressly accepts the dual vocation after her external Triple Crown (`adv_dear_jsna_028.txt` L428–530 and `_033.txt` L10–23). The reversal occurs before winter H.I.F. D-SENA 036 gives Sena a fourth title and an invitation for future holders to challenge her. P3-SENA final-failure names Kotone and preserves Sena's competitive intent after defeat. See the bounded 1.1 route for exact state and corroboration.
 
 [Source reading 1](GKM_SENA_TRANSCRIPT_REFRESH_20261112.md)
+
+## Recorded Event 022 and 024 evidence — 2026-11-25
+
+Sena starts by inviting the two younger idols to take back a repertoire she describes as overly associated with her. She laughs and changes the immediate exchange into a challenge. After the live she reads Ume's and Misuzu's effects differently, welcomes wider use and says she no longer wants to give up the song (Event 024 part 04 L206–260, L390–413, part 05 L319–383, L410–414). A renowned performer can continue in a broadened repertoire. The dialogue leaves degree of prior planning and private motives open. `SRC-0387` answers the shared studio vocal and authored-MV portions of `AV-SENA-G03`, with exact individual backing allocation, continuous trio 3DMV blocking and Shibuya's sung performance held open. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#shibuyas-title-call-and-the-reported-circulation)

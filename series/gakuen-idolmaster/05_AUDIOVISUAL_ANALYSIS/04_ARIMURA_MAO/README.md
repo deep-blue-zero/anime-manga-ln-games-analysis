@@ -17,6 +17,8 @@ last_updated: "2026-11-25 — Carbon clip, edition and claim routing"
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
+Q556 tests Mao in Event 022 part 02, parent [300, 597). Japanese mixed hearing distinguishes Mao's drowsy address and idol wish from Kotone's echo, and joins the remembered wallet search to a separate scene of care. Dense frames and a measured early return of backing bound the claim. The wallet deliverer and addressee Mao imagines remain open. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#mao-in-illness-and-memory)
+
 Begin with the [current Carbon update](GKM_MAO_CARBON_AV_UPDATE_20261125.md) for later source bindings, dialogue and performance limits and current sufficiency. The original specialists and controls below preserve the Phase 3 delivery.
 
 The later [Beach-restaurant repair](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#repair-at-the-beach-restaurant) review covers Mao’s apology and her promise concerning both the stage and the shop.

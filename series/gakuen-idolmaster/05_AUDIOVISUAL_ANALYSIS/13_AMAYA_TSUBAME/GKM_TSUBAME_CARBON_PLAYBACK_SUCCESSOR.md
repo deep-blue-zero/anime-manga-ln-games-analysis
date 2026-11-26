@@ -66,6 +66,14 @@ In their first encounter one student identifies Sena as the Prima Stella and ano
 
 Individual Gate E remains open. The recorded date experiment resolves the 3-0086-03 performance question. The arcade recognition now has a named source and interval. Other applicable requests keep their separate dispositions. The Phase 3 report records the earlier delivery. The separate reviews supply the hearing and sampled-picture evidence for the named support scenes. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
 
+## The gold dragon on Tsubame’s costume
+
+SRC-0086 is the 193.213 s two-part recording of the SR support card バディ？. The classroom exchange in 金ピカのドラゴン is part 01 (adv_csprt-2-0066_01 L98–158). At 52.0–56.8 s Tsubame raises her voice to object to the conspicuous embroidery. Mao explains at 65–79.8 s that she saw a golden dragon rising in Tsubame’s stage performance. At 80–84.8 s she offers to change the design. Sampled pictures show Tsubame with arms crossed, colored cheeks and averted gaze. She answers at 85–93 s that the dragon can stay and might be good after all.
+
+Two blind accounts and a separate informed replay locate the change from objection to acceptance. The earlier blind observer inspected an original-derived cut covering the exchange. The later two reviewers received byte-identical copies of the complete retained recording. One blind observer describes a mutter and lower volume on かもしれん. The other singles out the throat-cleared onset of the reply. The observers’ accounts of the backing diverge at about 85 s: one hears pizzicato return, the other describes piano and strings continuing. The change in Tsubame’s words and address can be read without deciding that score cue. Mao offers a reason drawn from watching Tsubame perform, then lets Tsubame decide. The exchange gives no private explanation for her choice or standing permission to alter her clothes.
+
+[Registered original editions](../GKM_CARBON_RECORDING_IDENTITY_CROSSWALK.tsv) · [Support-card reading](../../03_SOURCE_FACING_READINGS/03_SUPPORT_CARD_READINGS/GKM_SUPPORT_SERIES_02_PART_051_074_DEEP_READING.md#15-story_0066--mao-and-tsubame-interpretation-becomes-material-craft).
+
 ## Later support scenes
 
 The later review records Tsubame urging Hiro to rest, her encounter with Kotone at the end of a shift, China’s own description of individualized instruction and the reciprocal training contrast with Saki. Each finding is limited to its registered support window. The playback leaves deliberate waiting, independently demonstrated improvement and unspoken motives separately open. [Four support-scene adjudications](GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)

@@ -133,3 +133,7 @@ For current authority, retrieve:
 → relevant specialist document
 → `GKM_MISUZU_AV_EVIDENCE_AND_METRICS_MATRIX.md`
 → source manifest / exact AV source / Source Lock locator.
+
+## Recorded Event 023 evidence — 2026-11-25
+
+**STRENGTHEN**, exact scene scope. Part 03 L223–232 gives Misuzu's giving formula. Part 04 L219–221 is her recalled daily nap request. In part 05 L268–281 her gift response moves from bright to quiet, and at L296 she voices her planned bedtime listening. Her delivery varies while retaining polite speech. The written emphasis on important people and the future bedtime plan remain separately attributable. [Guarded Event 023 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

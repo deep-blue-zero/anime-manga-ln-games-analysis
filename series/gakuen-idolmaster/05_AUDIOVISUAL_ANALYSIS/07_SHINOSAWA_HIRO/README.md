@@ -38,3 +38,7 @@ Retained release checksums, including CHECKSUMS.md, describe their original ZIP 
 ## Later story-event recording
 
 [Scoped story-event review](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-unnamed-friend). Hiro uses dry commentary, then explains what she wants her friends to see. Her full gathering proposal and the later group agreement remain outside attendance.
+
+## Recorded Event 023 evidence — 2026-11-25
+
+In part 03 Hiro names one successful mission after Temari says the clue helped. In part 05 she speaks a separate report, names a double-spy role and says she resolved both worries and enjoyed herself. Part 05 L393's final word is post-roll. Part 04 L318's ending separately exceeds its guard. [Guarded Event 023 adjudication](../GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

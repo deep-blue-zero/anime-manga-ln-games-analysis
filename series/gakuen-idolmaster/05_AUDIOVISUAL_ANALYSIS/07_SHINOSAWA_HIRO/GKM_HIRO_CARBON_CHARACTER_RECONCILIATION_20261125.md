@@ -34,3 +34,7 @@ Retain speaking voice, sung register and actual performer body as distinct. The 
 ## Sports day recorded evidence — 2026-11-25
 
 The sampled sports-day scenes support Hiro’s guarded decision to act, her audible pre-race dread, the contrast between discomfort and a smile, and two distinct voiced friendship statements. The words and responses in the interval gaps retain their separate written evidence. [Event 14 finding 1](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it) · [Event 14 finding 2](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#exertion-relief-and-friendship-across-four-windows)
+
+## Recorded Event 023 evidence — 2026-11-25
+
+**STRENGTHEN**, exact scene scope. In part 03 Hiro names one successful mission after Temari says the clue helped. In part 05 she speaks a separate report, names a double-spy role and says she resolved both worries and enjoyed herself. Part 05 L393's final word is post-roll. Part 04 L318's ending separately exceeds its guard. [Guarded Event 023 adjudication](../GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

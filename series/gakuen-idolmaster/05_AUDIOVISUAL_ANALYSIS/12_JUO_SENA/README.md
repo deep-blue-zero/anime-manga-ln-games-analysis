@@ -19,6 +19,8 @@ Current claim wording and item-level completion are recorded in the [Carbon play
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
+Q560 and Q561 cover Sena's guarded proposal, reported reception and L414 changed decision. The council scene distinguishes the contest song from the victory-live song. The backstage title has speech and instrumental quotation; the Shibuya sung concert is skipped. The recorded and reported song evidence has separate scopes. `SRC-0387` answers the shared studio vocal and authored-MV portions of `AV-SENA-G03`, with exact individual backing allocation, continuous trio 3DMV blocking and Shibuya's sung performance held open. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#shibuyas-title-call-and-the-reported-circulation)
+
 Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.
 
 | Purpose | Files |

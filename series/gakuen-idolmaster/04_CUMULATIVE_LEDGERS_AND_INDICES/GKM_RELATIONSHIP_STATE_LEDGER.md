@@ -951,3 +951,13 @@ In support `2-0018_02` Saki’s care and apology precede Temari reclaiming respo
 ## Sports day and Hiroshima reciprocity — 2026-11-25
 
 **STRENGTHEN.** Ume differentiates advice by its recipient. Hiro chooses shared struggle despite fearing its cost to friends. Misuzu’s effort for Hiro and her reciprocation of the friendship sit alongside her usual address. In the Hiroshima trio the juniors can reassure a senior whose composure helps them. Inward recognition belongs to Rinami and is not a separate public declaration. A shared effect on private feeling or erasure of seniority remains open. [Sports day and Hiroshima adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## 2026-11-25 bounded Event 022 and 024 relationship-state dispositions
+
+**STRENGTHEN** Mao–Kotone in Event 022 as remembered help, chosen care and an explicitly welcomed older-friend term. The event differentiates these accounts without establishing the wallet deliverer's identity. **STRENGTHEN** the Ume–Misuzu coordination and the separate disputes with Sena in Event 024. They jointly refuse her withdrawal. Ume asks her to stay and promises protection, while Misuzu personally claims the song. Sena re-enters the exchange as a rival and later chooses to keep singing while welcoming wider participation. **OPEN** private relationship and motive interpretations beyond these contexts.
+
+[Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded Event 023 — 2026-11-25
+
+**STRENGTHEN.** Temari accepts advice and company under her own conditions. Hiro's private report to Misuzu and Misuzu's thanks offer a different relationship act. Misuzu's plan to play Temari's gift at bedtime is stated. Future listening and Temari's exact knowledge of the report remain open. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

@@ -312,3 +312,7 @@ The future Phase-7 monograph should organize Temari around five linked systems:
 5. **co-authorship and enclosure** — relationships that increase agency while concentrating dependence.
 
 Events and support cards must test whether the capacities shown in climax-level Dear Idol and song commus generalize to ordinary life.
+
+## Recorded Event 023 evidence — 2026-11-25
+
+**STRENGTHEN**, exact scene scope. Temari disputes Hiro's label at L197, asks for advice at L219–223, declines the video at L310–319 and invites her to shop at L344. Hiro responds at L346 and L355. These are separate audible acts in part 01. Misuzu at L272 is recalled and Rinha is imagined. Their distinctly authored modes bound the comparison. [Guarded Event 023 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md#disputed-closeness-and-accepted-help)

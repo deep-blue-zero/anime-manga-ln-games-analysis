@@ -109,3 +109,11 @@ This matrix is subordinate to `GKM_CORE_11_HATAYA_MISUZU.md`. It keeps high-load
 ## Dated recorded evidence — 2026-11-25
 
 **STRENGTHEN, event scope.** Misuzu’s nostalgic pre-race delivery, selected exertion and later polite reciprocation test a friendship-specific exception to her ordinary approach to effort. The precise MVP rationale is before the race in written source outside its guard. Keep the source’s description of the carry, sampled framing, voiced friendship and the fine action still open distinct. [Exact recording and cue scope](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#exertion-relief-and-friendship-across-four-windows)
+
+## Recorded Event 022 and 024 evidence — 2026-11-25
+
+**STRENGTHEN** Misuzu's coauthored refusal beside her individual competitive proposal. **PRESERVE** rival readings of sincerity and play. **OPEN** the sung concert resemblance, actual uptake and claims about hidden intent or ownership. In the distinct official trio MV, Misuzu moves into audible and pictured foreground while the ensemble keeps a changing center. The video supplies no actual Shibuya performance. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)
+
+## Recorded Event 023 evidence — 2026-11-25
+
+**STRENGTHEN**, exact scene scope. Part 03 L223–232 gives Misuzu's giving formula. Part 04 L219–221 is her recalled daily nap request. In part 05 L268–281 her gift response moves from bright to quiet, and at L296 she voices her planned bedtime listening. Her delivery varies while retaining polite speech. The written emphasis on important people and the future bedtime plan remain separately attributable. [Guarded Event 023 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

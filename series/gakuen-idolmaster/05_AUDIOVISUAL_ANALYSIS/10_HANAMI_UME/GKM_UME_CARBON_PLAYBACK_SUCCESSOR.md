@@ -67,3 +67,7 @@ Ume explicitly calls it excessive teasing at about 207–212 s (L203–204). **S
 ## Sports day recorded evidence — 2026-11-25
 
 Ume’s direct remembered explanation of shared loss and person-specific candor has a performed witness of its own. Hiro’s present report and decision remain respective turns. The final current request extends past the attended clip. [Event 014 performed exchange](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it)
+
+## Recorded Event 022 and 024 evidence — 2026-11-25
+
+Q560 and Q561 cover Ume's guarded Shibuya exchanges, including her own invitation, two-person refusal count and share in the three-voice title call. The backstage recording carries an instrumental quotation of the title. The concert's sung Ume sample and independent reception evidence remain open. The distinct official trio MV supports changing vocal foreground and authored focality. Ume's athletic preparation and shared hook remain separate from the event performance. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)
