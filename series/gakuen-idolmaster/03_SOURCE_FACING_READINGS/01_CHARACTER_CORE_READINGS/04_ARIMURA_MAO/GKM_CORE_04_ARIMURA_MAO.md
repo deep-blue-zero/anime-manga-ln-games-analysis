@@ -1380,3 +1380,7 @@ Temari helps articulate and sustain a prince role that can include a visible lim
 ## Recorded Event 022 and 024 evidence — 2026-11-25
 
 Mao's drowsy requests occur while Kotone tends her (Event 022 part 02 L64–70). In Kotone's remembered entrance day, Mao offers practical help and describes her reason for continuing the search (L275–288, L332–352). The source identifies neither who found the wallet nor who brought it to the office (L372). Mao's voiced thanks and medicine protest remain distinct present-tense actions (L408, L445). The two planes give the analyst separate evidence of receiving care and providing it. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#mao-in-illness-and-memory)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+Mao’s polite replies to the trainer sit between her inward last-chance thoughts and her later conviction that she cannot afford to rest. Kotone initiates care, and Mao later requests a small light. At Sena’s live, Mao distinguishes her private avoidance from what she tells Kotone afterward. The separate Event 003 summer reflection is inward and concerns the particular season she enjoyed. Guarded edges leave some complete speech, the cause of her symptoms and the effect of her future resolve open. [Guarded care and summer adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

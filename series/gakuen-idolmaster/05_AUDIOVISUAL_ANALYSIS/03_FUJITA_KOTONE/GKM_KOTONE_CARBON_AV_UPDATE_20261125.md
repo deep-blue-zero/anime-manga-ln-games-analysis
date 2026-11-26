@@ -48,3 +48,7 @@ Use `PROP-0027-AV-01–04`, `PROP-0036-AV-01–03/06/07`, `PROP-0055`, `PROP-005
 ## Recorded Event 022 and 024 evidence — 2026-11-25
 
 Q572 tests Kotone in Event 022 part 04, parent [1176, 1248). The Japanese mixed-audio accounts separate her hesitant older-friend formulation from Mao's quiet response and overt welcome. The sampled reaction and measured pauses and score remain separate from inferred feelings. Digital-silence checks qualify the continuous-frying report. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#kotone-describes-an-older-friend)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+Kotone’s E022-01 responses move from noticing how Mao feels to giving practical directions. She describes caring for her younger siblings, and the lullaby is a spoken offer. Her earlier room suggestion and her private speculation about fatigue have different roles. The scene leaves cause, bodily measurements and unbroken transport open. [Guarded care and summer adjudication](../GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md#training-accepting-help-and-asking-for-one-thing)

@@ -542,3 +542,7 @@ In Event 024 part 04, `Choo Choo Choo` is the main-competition performance and `
 ## Guarded Event 023 — 2026-11-25
 
 **STRENGTHEN.** The remembered request is spoken over instrumental score. Temari describes her two pieces and Misuzu repeats the lullaby and format. The scene distinguishes instrumental accompaniment from the reported contents of the gift. The sound of Temari's gift and Misuzu's later use remain open. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+**PRESERVE.** Kotone offers a lullaby in speech. The reported offer and the music playing in the game have separate sources. Sena’s concert is represented in the characters’ separate accounts and falls outside the two attended dialogue cuts. The summer score can shape the listener’s access to Mao’s inward speech without revealing who heard the thought in the story. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

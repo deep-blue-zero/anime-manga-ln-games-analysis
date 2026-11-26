@@ -71,3 +71,7 @@ For current Mao AV claims, read:
 4. the original AV source and Source Lock transcript for exact verification.
 
 Do not prefer the superseded request register over the complete baseline.
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+Mao’s polite replies to the trainer sit between her inward last-chance thoughts and her later conviction that she cannot afford to rest. Kotone initiates care, and Mao later requests a small light. At Sena’s live, Mao distinguishes her private avoidance from what she tells Kotone afterward. The separate Event 003 summer reflection is inward and concerns the particular season she enjoyed. Guarded edges leave some complete speech, the cause of her symptoms and the effect of her future resolve open. [Guarded care and summer adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

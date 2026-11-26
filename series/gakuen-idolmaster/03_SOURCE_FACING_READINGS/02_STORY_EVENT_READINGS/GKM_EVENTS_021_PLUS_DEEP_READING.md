@@ -375,6 +375,8 @@ Mao says inwardly that she used excuses such as practice to turn down earlier in
 
 Mao's concluding resolution is precise: she will stop running and look directly at **Sena and herself** so that she can remain a cool version of Mao by choice rather than avoidance.
 
+The guarded training, nursing and concert-going excerpts distinguish Mao’s inward fear of having no alternative from the words she uses with the trainer and with Kotone. Kotone’s care carries its own practical speech. Mao’s written request to leave the small light on nears the cut. The earlier reason for avoiding Sena remains an inward account, while her later thanks and intended change are said to Kotone. [Guarded care and summer adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 ### Event 022 thesis
 
 > **Receiving care can be an act of authorship when it makes self-confrontation possible.**

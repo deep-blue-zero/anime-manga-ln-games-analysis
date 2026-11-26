@@ -30,3 +30,7 @@ The Lilja→Sumika partnership proposal in Lilja Dear 027 belongs to the person 
 ## Dispositions and current sufficiency
 
 **REVISE** `PROP-0020-AV-01/02`, `PROP-0021-AV-01` and `PROP-0226` for performed and displayed role, word choice and edition coverage. **REJECT** collective voice as the explanation of the single imitative cue in `PROP-0244-AV-02` and the unrelated Event 021 source in `PROP-0244-AV-03`. **PRESERVE** the locked and selected-still limits of `PROP-0056` and `PROP-0282` and the production-specific Phase 3 music reading. The later follow-up answers the scoped delivery of `りーぴゃん` as described above. A later [Beach-restaurant repair](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#repair-at-the-beach-restaurant) review addresses Sumika’s account and the reciprocal apologies in E003-03. Keep E012 and Support 3-0055 source-specific readiness requests **OPEN**. The original R2 accounting does not include this Carbon round.
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+The Event 003 part 05 clip separately presents the shutter, Sumika’s account of photographing Mao’s expression, and her suggestion of a group photo. Mao’s response to the description and later swimsuit embarrassment are distinct. Permission and the pictured result remain open. The later group photo and sharing have separate written locators. This is contextual support for Sumika's conduct. [Guarded care and summer adjudication](../GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md#maos-summer-and-sumikas-camera)

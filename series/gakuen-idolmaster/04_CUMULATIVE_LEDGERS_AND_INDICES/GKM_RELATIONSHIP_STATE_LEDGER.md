@@ -961,3 +961,7 @@ In support `2-0018_02` Saki’s care and apology precede Temari reclaiming respo
 ## Guarded Event 023 — 2026-11-25
 
 **STRENGTHEN.** Temari accepts advice and company under her own conditions. Hiro's private report to Misuzu and Misuzu's thanks offer a different relationship act. Misuzu's plan to play Temari's gift at bedtime is stated. Future listening and Temari's exact knowledge of the report remain open. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+**STRENGTHEN.** The care sequence permits a specific request from Mao once Kotone has taken the lead. Mao and Kotone take different actions in attending Sena’s live and describing it afterward. In Event 003, Sumika's candid photo report and later group invitation are distinct acts. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

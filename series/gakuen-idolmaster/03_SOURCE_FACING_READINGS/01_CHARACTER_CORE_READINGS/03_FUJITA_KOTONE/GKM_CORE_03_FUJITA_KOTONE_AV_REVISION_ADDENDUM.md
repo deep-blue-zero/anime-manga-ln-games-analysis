@@ -207,3 +207,7 @@ The following must not be lost when later synthesis compresses the character:
 > **Fujita Kotone begins with an acute awareness that value disappears unless someone acknowledges it materially. The Producer first creates enough floor for her existing ability to appear. Kotone then learns to turn calculation into craft: cuteness becomes a relational interface, fanservice becomes distributed recognition, and audience investment becomes mutual energy rather than one-way purchase. Her mature form is not purified idealism. She remains commercial, jealous, praise-hungry, funny, rough, and ambitious. What changes is that these traits increasingly operate inside chosen relation rather than emergency.**
 
 This formulation should govern Phase-3 comparative work until events, support cards, ensemble synthesis, and the definitive monograph revise it.
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+Kotone’s E022-01 responses move from noticing how Mao feels to giving practical directions. She describes caring for her younger siblings, and the lullaby is a spoken offer. Her earlier room suggestion and her private speculation about fatigue have different roles. The scene leaves cause, bodily measurements and unbroken transport open. [Guarded care and summer adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md#training-accepting-help-and-asking-for-one-thing)

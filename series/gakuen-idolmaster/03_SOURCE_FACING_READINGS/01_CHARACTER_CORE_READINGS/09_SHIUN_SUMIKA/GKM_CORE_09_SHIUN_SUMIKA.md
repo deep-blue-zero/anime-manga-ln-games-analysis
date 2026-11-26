@@ -1223,3 +1223,7 @@ In the Sumika-winning post-H.I.F. communication state, Sumika distinguishes REVE
 (2026-11-15, GKM-SAA-022: the same scene makes the earlier strain explicit. Sumika says she and her mother had fought constantly since she quit ballet (`adv_cidol-ssmk-3-018_03.txt` L69), and that her mother had opposed her becoming an idol (L158). The father's support is reported by the mother: he took Sumika's side, so she gave permission reluctantly (L167). Sumika admits she took out on her mother her own uncertainty about ballet (L221–L225). These facts belong to the Sumika-winning state; the Source Lock 1.0 signals of the same conflict are in §2.)
 
 [Source reading 1](../GKM_COMMU_REVISION_86_DEEP_READING.md)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+The Event 003 part 05 clip separately presents the shutter, Sumika’s account of photographing Mao’s expression, and her suggestion of a group photo. Mao’s response to the description and later swimsuit embarrassment are distinct. Permission and the pictured result remain open. The later group photo and sharing have separate written locators. This is contextual support for Sumika's conduct. [Guarded care and summer adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md#maos-summer-and-sumikas-camera)

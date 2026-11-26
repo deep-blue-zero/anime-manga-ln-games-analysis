@@ -265,3 +265,7 @@ Parent: `GKM_CORE_03_FUJITA_KOTONE.md` v2.1 (dated additions marked `(2026-11-15
 ## Recorded Event 022 and 024 evidence — 2026-11-25
 
 **STRENGTHEN** the older-friend case within Event 022. Test the possibility of courtesy against Kotone's unsolicited description, separate reassurance and Mao's acknowledgement (L530/538, L554/558, L564/567). **OPEN** subsequent durability, private affect and intermittent cooking sounds. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#kotone-describes-an-older-friend)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+Kotone’s E022-01 responses move from noticing how Mao feels to giving practical directions. She describes caring for her younger siblings, and the lullaby is a spoken offer. Her earlier room suggestion and her private speculation about fatigue have different roles. The scene leaves cause, bodily measurements and unbroken transport open. [Guarded care and summer adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md#training-accepting-help-and-asking-for-one-thing)

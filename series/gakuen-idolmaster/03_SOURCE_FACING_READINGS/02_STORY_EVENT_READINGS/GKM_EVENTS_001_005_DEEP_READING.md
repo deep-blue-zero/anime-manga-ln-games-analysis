@@ -451,6 +451,8 @@ After the successful live Mao privately realizes that her last summer at Hatsubo
 
 That ending helps explain why “enjoy the festival” is not a lightweight lesson. For Mao, pleasure becomes an answer to time scarcity that performance results alone cannot solve.
 
+Mao's inward voice acknowledges a season she cannot repeat and says she enjoyed it. The shutter and subsequent outward exchange distinguish that reflection from Sumika’s account of taking a candid photograph and her separate group proposal. The countdown and later sharing have separate written locators. [Guarded care and summer adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md#maos-summer-and-sumikas-camera)
+
 ### Event 003 thesis
 
 > **Professional seriousness fails when it forgets what the profession is for.**

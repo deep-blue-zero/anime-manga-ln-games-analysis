@@ -38,3 +38,7 @@ Start with the integrated baseline. Use the textual core and AV addendum togethe
 | Textual authority | [Character core](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/04_ARIMURA_MAO/GKM_CORE_04_ARIMURA_MAO.md) · [Core evidence](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/04_ARIMURA_MAO/GKM_CORE_04_ARIMURA_MAO_EVIDENCE_MATRIX.md) · [AV revision addendum](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/04_ARIMURA_MAO/GKM_CORE_04_ARIMURA_MAO_AV_REVISION_ADDENDUM.md) |
 
 Retained release checksums describe historical ZIP member bytes and package paths. The [recovery audit](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records recovered originals and repository derivatives.
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+Mao’s polite replies to the trainer sit between her inward last-chance thoughts and her later conviction that she cannot afford to rest. Kotone initiates care, and Mao later requests a small light. At Sena’s live, Mao distinguishes her private avoidance from what she tells Kotone afterward. The separate Event 003 summer reflection is inward and concerns the particular season she enjoyed. Guarded edges leave some complete speech, the cause of her symptoms and the effect of her future resolve open. [Guarded care and summer adjudication](../GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
