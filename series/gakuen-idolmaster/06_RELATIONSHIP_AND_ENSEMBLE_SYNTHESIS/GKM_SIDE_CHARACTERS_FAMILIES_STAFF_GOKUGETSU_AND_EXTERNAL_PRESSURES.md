@@ -842,6 +842,8 @@ It is:
 
 The best side-character pressure is not an obviously evil option. It is a plausible good that clarifies what the protagonist refuses to trade away.
 
+**HSCA-012 source qualification (2026-11-26).** Before Mao enters, Ryuusei tells Sena that Mao’s H.I.F. entry would be inconvenient. He cites the media attention and the prospect of harm before her debut. Sena rebukes him. This gives the agency a separate interest in protecting a prospective recruit’s debut alongside its argument for professional staffing. Dear 026 shows that he can also accept an H.I.F. victory as a public benchmark for keeping the pair together. Mao’s awareness of the earlier exchange and any effect on the actual contest remain open. See `adv_dear_amao_024.txt` L176–197 and L241–269, and `adv_dear_amao_026.txt` L228–267.
+
 ### The offer-maker is Sena's father (GKM-SAA-033, GKM-SAA-086) — 2026-11-15
 
 Ryuusei Juo is the same person as Sena's father, 十王社長 (§2.4). His offer to Mao remains professionally rational in D-MAO. Sena's portrait of him adds that he is capable, cunning, given to roundabout schemes, and unwilling ever to release an idol he has favoured (M-SENA, `adv_cidol-jsna-3-002_02` L243–L249). That is Sena's observation, not a verdict on the Mao offer. In ruby, 100 Pro is read じゅうおうプロ (`adv_dear_atbm_003` L196; `adv_dear_ttmr_011` L22), and the Producer calls ガラクタロード 100 Pro's signature song (`adv_cidol-kllj-3-018_03` L45; the SL1.1 Sena refresh records the same fact).

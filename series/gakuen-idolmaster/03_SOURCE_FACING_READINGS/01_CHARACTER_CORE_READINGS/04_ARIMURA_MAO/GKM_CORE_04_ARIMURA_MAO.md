@@ -861,6 +861,8 @@ This lets Mao fail, retrain, change presentation, test repertoire, and build a n
 
 100Pro is not presented as a cartoon villain. It has stronger professional networks and experienced staff. Ryuusei's position—that professional Mao should have professional production—is rational.
 
+**HSCA-012 source qualification (2026-11-26).** Before Mao enters in Dear 024, Ryuusei tells Sena that he would prefer to avoid the risk to Mao’s debut from entering the heavily covered H.I.F. Sena rebukes him. His evaluation of a prospective recruit’s debut differs from the value Mao later places on testing her ability in the contest. He subsequently treats an H.I.F. victory as a sufficient result to recognize the partnership. His earlier influence on entry or outcome, and whether Mao knew of the remark, remain open. See `adv_dear_amao_024.txt` L176–197 and L241–269, and `adv_dear_amao_026.txt` L228–267.
+
 Mao's refusal is therefore stronger than a simple critique of commercialization. She already wants professional work. She objects to **professionalization that requires severing the production relation through which her current agency was built**.
 
 ## 11.3 Producer education matters directly
