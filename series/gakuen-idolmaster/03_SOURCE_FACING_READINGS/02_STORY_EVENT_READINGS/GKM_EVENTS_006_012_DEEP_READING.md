@@ -605,15 +605,13 @@ The comedy matters because it exposes a recurrent Hiro tendency: **a relational 
 
 ## 6.4 The decisive correction: a fun failure is no longer enough
 
-Hiro grinds cacao by hand until her palms are red and her arms nearly stop working. She describes the pain and difficulty as intensely fun.
-
-The resulting chocolate is gritty and bad.
+Hiro grinds cacao by hand. She describes aching arms and calls the painful work fun. Rinami remarks on her reddened hands. After Rinami tastes the result, Hiro calls the texture gritty and judges the batch a failure.
 
 Early-Hiro logic could have made that outcome satisfactory: the process resisted her; therefore the process worked as hobby.
 
 But this gift has a recipient.
 
-Hiro says the process was fun, **but this is not good enough because the people she loves will not be happy with it**.
+Hiro says the work was fun and the result will not please the friends she wants to give it to.
 
 Then she does something Phase-3 Hiro could not be reduced to doing by a simple “loves difficulty” model:
 
@@ -625,7 +623,7 @@ Difficulty remains enjoyable. But when difficulty conflicts with the value of th
 
 This is a major strengthening of `chosen impossibility becoming accountable attachment`.
 
-## 6.5 Completion stops being empty
+## 6.5 A completion Hiro finds enjoyable
 
 After they finish, Hiro notices something strange:
 
@@ -633,13 +631,13 @@ After they finish, Hiro notices something strange:
 
 That line is one of the most consequential ordinary-life findings in the Hiro corpus.
 
-The old achievement cycle becomes unstable when the completed object remains connected to people outside the problem itself. The chocolate's value does not disappear when resistance disappears because its purpose survives in the friends who will receive it.
+Hiro gives the gift a purpose beyond the technical problem before it is finished. She later calls this completion enjoyable. The scene presents purpose, collaboration and successful completion together, leaving their separate contributions to her enjoyment open.
 
 This offers a noncrisis answer to one of Phase 3's major open questions:
 
 > **Can Hiro access durable value after the impossible task becomes possible?**
 
-Event 010 cannot settle the entire question, but it provides a strong low-stakes affirmative mechanism: **relational afterlife**.
+Event 010 supplies a specific counterexample to a rule that achievement always leaves her empty. Whether the intended recipients give the finished work lasting value remains an interpretation. [Guarded Event 010 review](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#hiro-changes-the-criterion-for-finishing)
 
 ## 6.6 Friendship becomes a public gift
 
@@ -657,14 +655,14 @@ Sena's action is benevolent and narratively charming, but it is still evidence t
 
 ### Event 010 thesis
 
-> **For Hiro, attachment creates an end that survives success.**
+> **In Event 010, Hiro changes course for the friends she wants to please and finds this joint completion enjoyable.**
 
 Pain remains pleasurable. Technical extremity remains attractive. But the friend receiving the result becomes a higher-order constraint capable of making Hiro accept collaboration and care about quality after the challenge itself is over.
 
 ### Claim transitions
 
 - **Hiro — PROMOTE / STRENGTHEN:** “loves resistance” is further revised toward “loves resistance inside an expanding value structure.” Difficulty can be subordinated to recipient welfare without ceasing to be pleasurable.
-- **Hiro — PROMOTE:** relational afterlife is a plausible noncrisis mechanism for sustaining value after completion; success need not produce emptiness when the finished act remains socially alive.
+- **Hiro — STRENGTHEN / OPEN:** one collaborative finish matters to Hiro after the immediate difficulty ends. The lasting effect of her connection to the recipients remains open.
 - **Hiro — STRENGTHEN:** China, Ume, and Misuzu form an explicitly named close-friend network.
 - **Rinami — STRENGTHEN:** recipient-centered scaffolding generalizes from public event production to intimate gift-making; consent-sensitive help is a stable method.
 - **Sena — STRENGTHEN / OPEN:** affection is expressed through spectacular labor and institutional facilitation; her willingness to personalize office power remains a bounded authority-risk signal.
@@ -1458,7 +1456,7 @@ Promote compact deltas for:
 - Mao — role multiplication in client work; theater inheritance into idol vocation;
 - Lilja — effort-as-absolution explicitly identified and revised; mediated friendship expansion;
 - China — hospitality as professional talent; inherited-resource stewardship; operational redesign;
-- Hiro — recipient value can outrank solitary difficulty; relational afterlife after successful completion;
+- Hiro — what she wants to give friends can outrank solitary difficulty. In Event 010 she finds the shared finish enjoyable;
 - Rinami — recipient-centered, consent-sensitive scaffolding across domains;
 - Sumika — avoidance can conceal enduring desire; reciprocal support and rejection of concealment-lies;
 - Ume — divergent creativity plus learnable production method; peer-network expansion;
@@ -1522,7 +1520,7 @@ Promote/add:
 - recipient-oriented production;
 - role multiplication rather than true-self replacement;
 - reciprocal dependence as differentiation;
-- relational afterlife after achievement.
+- a recipient-facing purpose and one enjoyable finish after shared work.
 
 ## Japanese voice/register ledger
 
@@ -1596,3 +1594,7 @@ The next tranche should preserve the same controls:
 4. record contradiction and claim-transition state explicitly;
 5. route character, relationship, continuity, institution, theme, register, AV, and locator deltas into the cumulative infrastructure;
 6. preserve any character with no direct evidence as **NO DIRECT DELTA** rather than inferring from absence.
+
+## Event 010 recorded evidence and source clarification — 2026-11-26
+
+In Event 010 part 04 Hiro says she wants to try making the chocolate alone when Rinami offers help. After judging her first result unsuitable for her friends, Hiro explicitly asks Rinami to make it with her. After they finish she contrasts this occasion with her usual emptiness and says it was enjoyable. The scene leaves the distinct contributions of purpose, companionship and success open. Rinami leaves help available while Hiro tries to make the chocolate on her own. She checks on her later and accepts Hiro’s request to make it together. Hiro judges the first result inadequate. Rinami appraises the finish of the shared attempt. Palms, texture and the full work process have distinct written, reported and sampled-picture limits. The game capture presents Hiro’s viewer-audible inward thanks to China, Ume and Misuzu and then the participants’ account of a live. A selected instrumental passage shares opening material with other editions of ハッピーミルフィーユ. The recorded extent gives no identified Hiro-sung phrase or complete stage. [Guarded written and performed comparison](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).

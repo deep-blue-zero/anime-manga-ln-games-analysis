@@ -1554,3 +1554,7 @@ Event 026 parts 04 and 05 are distinct guards of the exact `8Nh2Uxg0XUI` edition
 [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
 
 Keep original Q499/Q500/Q502 selection rows and route only actual named advances. Q501 remains a separate part-04 request. No transfer of Lilja or Sumika’s K06 evidence to Saki.
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Event 010 part 04 L444 establishes Hiro’s aim to give good chocolate to important friends. Part 05 L397–402 names China, Ume and Misuzu in her inward dedication. Guarded original-upload locators, the physical printed joins and the separate support 1-0005 part 01 request are bound in the report. [Original recording and primary-script locators](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).

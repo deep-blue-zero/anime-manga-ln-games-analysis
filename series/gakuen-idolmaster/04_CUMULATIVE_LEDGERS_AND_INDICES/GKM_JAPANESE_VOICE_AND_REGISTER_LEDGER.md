@@ -734,3 +734,7 @@ In Event 005 part 04, Sena’s L487 is printed `敵よ` and heard as `てきよ`
 ## Spoken and authored contrasts in Event 012 — 2026-11-26
 
 The spoken echo of 免罪符 connects Lilja’s inward account and Saki’s explicit condition in different guarded moments. Sumika’s written ぼきり and the listeners’ ぽきり retain distinct phonetic evidence. K06 marks 一同 as inward and assigns two named takes. Viewer-audible layering leaves the actual audible contributions, the spoken particle near the end of the line and the characters’ earshot open. [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Hiro’s part 04 renewed request and part 05 viewer-audible marked inward dedication occupy different relationships. Rinami’s assent belongs to the joint work, while Temari’s outward hesitation and marked inward alarm in 1-0005 part 01 surround a distinct request for advice. [Scoped register comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).

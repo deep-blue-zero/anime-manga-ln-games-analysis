@@ -550,3 +550,7 @@ In Event 024 part 04, `Choo Choo Choo` is the main-competition performance and `
 ## Guarded comparisons of the Hanami sisters — 2026-11-25
 
 **REVISE.** Saki quotes lyrics in speech and the sisters later play on the title aloud. The first Event 026 excerpt reaches the following chapter’s crowd sound, and the support excerpt reaches the next scene’s score. The score cues, dialogue and the characters’ later accounts refer to different parts of the recording. The actual concert performance remains a separate source question. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Timed openings in separate same-title editions corroborate common musical material under the Event 010 reactions. Exact mix identity and the song Hiro is reported to have sung remain open. In the separate support scene, two backed passages share distinct authored cue material and a short both-channel digital break occurs between them. Exact perceptual silence, instruments and venue or room access retain their own scope. [Measured material and precise source limits](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#musical-material-and-cue-changes).

@@ -214,3 +214,7 @@ The scoped accepted answers are Hanami Saki P0 Q472, Juo Sena P0 Q472, Hanami Um
 ## Event 012 recorded-scene advancement — 2026-11-26
 
 The received person scopes are Hanami Saki P0 Q499, Hanami Saki P0 Q500, Katsuragi Lilja P0 Q499, Katsuragi Lilja P0 Q502, Shiun Sumika P0 Q500, Shiun Sumika P0 Q502. Q501 remains a distinct part 04 request. [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md) The affected numbered manuscripts retain individual Gate E decisions.
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Three original recording windows resolve four named questions within their guards: Hiro P0 Q494 and Q495, Rinami P0 Q494, and Hiro P1 Q601. The cumulative receiving record reaches 55 windows and 64 person-specific answers from 189 submitted windows in 51 jobs. Hiro and Rinami still require separate Gate E decisions. [Reviewed recording basis](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
