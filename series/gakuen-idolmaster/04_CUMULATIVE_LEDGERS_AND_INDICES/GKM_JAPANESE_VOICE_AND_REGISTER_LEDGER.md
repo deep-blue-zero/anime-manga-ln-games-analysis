@@ -720,3 +720,7 @@ Event 022 distinguishes Mao's half-sleep L66/L70, Kotone's L68 echo, Mao's remem
 ## Guarded comparisons of the Hanami sisters — 2026-11-25
 
 **STRENGTHEN.** Saki speaks a lyric about an unseen future, then sets an audience goal and asks the group to rest. The listening scope includes the ending of her earlier conclusion. It leaves its opening outside the window. Ume says an idol should answer her own expectations and addresses herself by her full name. The scenario has no inward flag. Who else heard the turn remains open. Ume’s support part 01 recollection distinguishes following Saki from dreaming specifically of idolhood. Ume affirms her trust and says she wants to find her own answer. The onset of that aspiration remains undated. The next scene’s opening Saki call belongs to support part 02. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Council address convention — Event 025 part 05
+
+Ume addresses China as China-chan (L211), and Misuzu uses Ume-san (L250). Ume’s new proposal concerns reciprocal use across the council. Misuzu wants to wait for absent peers, and China still uses surnames with -san at L303. The script and original caption have no final ne in China’s invitation line. The listening accounts differ on that particle. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)

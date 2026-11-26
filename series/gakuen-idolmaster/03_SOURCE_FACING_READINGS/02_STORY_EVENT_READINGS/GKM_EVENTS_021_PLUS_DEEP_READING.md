@@ -686,6 +686,9 @@ Rinami's joking `なるようになるよ` briefly drives Tsubame to despair bec
 
 China responds by asking for exactly that: a chance for the three juniors to remove the seniors' concerns through demonstrated action.
 
+
+
+**Guarded comparison (2026-11-26).** China accepts responsibility for the paperwork lapse and explains Ume’s assistance. She later asks the seniors for a chance for all three juniors to answer their concerns. The two guarded scenes distinguish her earlier apology from the later request. Tsubame directs Ume to finish collecting the paperwork. Her recorded recollection of entrusting the school to the juniors differs from her present questions about their readiness. Her concern leaves the graduation decision outside this exchange. [Guarded Event 025 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
 ## 6.2 China is explicitly the next student-council president
 
 Event 025 names China as `次期生徒会長`.
@@ -766,6 +769,9 @@ The key maturation is not “we no longer need the seniors.” It is:
 
 > We now understand that senior care had a time limit, so we must become capable of giving comparable care forward.
 
+
+
+**Guarded comparison (2026-11-26).** China retains surname forms at L303, and some given-name address is already in use. The group’s later convention and the proposed gathering remain open. [Recorded pledge and proposed invitation](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md#a-pledge-for-spring-and-an-invitation-still-to-make)
 ## 6.7 First-name intimacy is deferred until the new institution is whole
 
 Ume proposes that the three begin calling one another by first names as fellow student-council members.

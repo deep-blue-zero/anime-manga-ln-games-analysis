@@ -124,3 +124,7 @@ These rows record the claim dispositions of the source-to-analysis audit of 2026
 ## Dated recorded evidence — 2026-11-25
 
 **STRENGTHEN, CHINA-C06, event scope.** China’s quiet reply to Hiro follows Hiro’s own statement of fear. The later public appeal has a different audience. She also proposes the baseball cheer at the failed accompaniment in Hiroshima. The Japanese recording witnesses her invitation, applause and subsequent thanks, while the actual sung cheer falls across an ellipsis. Keep personal insight, audience response and athletic or technical outcomes separate. [Exact recording and cue scope](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#china-shifts-from-addressing-a-teammate-to-calling-in-the-class)
+
+## Guarded evidence for CHINA-C16 — Event 025
+
+**STRENGTHEN within the event guard.** China accepts responsibility for the paperwork lapse and explains Ume’s assistance. She later asks the seniors for a chance for all three juniors to answer their concerns. The two guarded scenes distinguish her earlier apology from the later request. China promises to become a dependable president by spring and then asks Ume and Misuzu for continued help. The proposal to widen their group and invite Hiro is prospective. [Guarded Event 025 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md) Keep the written part 03 designation as a separate locator.

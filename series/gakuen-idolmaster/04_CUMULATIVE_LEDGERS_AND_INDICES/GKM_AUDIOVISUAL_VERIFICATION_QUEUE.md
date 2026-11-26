@@ -1134,3 +1134,7 @@ These four scoped answers preserve the earlier and continuing request boundaries
 | Hanami Ume Q760 P0 | `adv_csprt-3-0052_01` | **STRENGTHEN.** Expressed trust and wish to find her own answer. Exact sound of the next chapter stays bounded to the cut. |
 
 [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded council succession — current disposition
+
+The accepted person scopes are China Q562, Tsubame Q562, China Q563. Q562 uses the complementary Q01 and Q02 clips for each named person. Q563 uses Q03. Q577 remains open for China and Misuzu in part 03, and Q578 remains open for China in part 04. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)

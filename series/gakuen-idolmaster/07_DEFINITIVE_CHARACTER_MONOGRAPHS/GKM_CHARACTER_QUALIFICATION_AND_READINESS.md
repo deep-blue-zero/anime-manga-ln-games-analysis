@@ -198,3 +198,11 @@ The architecture’s numbered list supplies thirteen historical assignments. Pre
 A privately prepared chapter or a source-facing dossier does not supply a completed portrait by its existence. After a chapter is written, test what a reader can reconstruct from it alone and check its load-bearing claims against the initial Japanese, continuity track, and named edition. Record the two outcomes separately. Link an actual draft as soon as it has a durable project path and label its authority. Record a current canonical portrait only after both acceptance checks pass. The current Rinha dossier fulfills the Phase 6 deliverable and person-level obligation at the declared boundary. The reviewer tested role, relationships, speech, ordinary behavior, continuity, predictable reactions and source fidelity, with the evidence and limitations preserved in the linked dossier and matrix.
 
 The supporting-character assessment does not settle every relative, member of staff, former classmate or fan. Reopen individual qualification after new or corrected evidence materially changes a person’s history, relationships, conduct or speech. This qualification record does not confer character discovery or reconstruction grades.
+
+## Kuramoto China — bounded Event 025 evidence
+
+The exact Event 025 disposition advances the named dialogue scopes. Remaining requests and independent definitive acceptance are open. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Amaya Tsubame — bounded Event 025 evidence
+
+The exact Event 025 disposition advances the named dialogue scopes. Remaining requests and independent definitive acceptance are open. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)

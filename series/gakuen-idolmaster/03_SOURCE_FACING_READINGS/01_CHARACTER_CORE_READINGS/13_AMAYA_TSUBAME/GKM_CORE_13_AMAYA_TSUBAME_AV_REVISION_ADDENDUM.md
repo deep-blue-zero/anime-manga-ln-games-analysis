@@ -52,3 +52,7 @@ This addendum routes Phase-3 textual claims through the complete audiovisual pas
 - later common-song portability;
 - full bilateral Sena authority;
 - whether later material gives star quality a stable formal signature.
+
+## Guarded council dialogue — 2026-11-26
+
+Tsubame directs Ume to finish collecting the paperwork. Her recorded recollection of entrusting the school to the juniors differs from her present questions about their readiness. Her concern leaves the graduation decision outside this exchange. [Guarded Event 025 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md) Check the report for the prop, hearing and graduation limits.

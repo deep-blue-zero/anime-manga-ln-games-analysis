@@ -532,3 +532,7 @@ The retained `0GYf2Vyyr-Q` parent provides five separately guarded windows in Ev
 ## Guarded comparisons of the Hanami sisters — 2026-11-25
 
 Event 026 parts 04 and 05 are distinct guards of the exact `8Nh2Uxg0XUI` edition. Support `adv_csprt-3-0052_01` is the substantive dialogue scope in the `LfFlLuVdqz4` guard. The opening of the following chapter retains a separate locator. The adjudication identifies half-open parent ranges and exact take hashes. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded council succession recording — Event 025
+
+Retained Japanese parent 6OOnsdReyTM. The received answer scopes are China Q562, Tsubame Q562, China Q563. The case binds separate A1 cue, original parent and guarded child clocks. It reports independently observed mixed audio and sampled picture with explicit upper limits. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)

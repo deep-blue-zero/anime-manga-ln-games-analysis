@@ -127,3 +127,7 @@ Earlier formulations of changed rows, kept recoverable. A1 locators are given in
 | TSB-066 | **REVISE** (SL1.1 qualification) | SL1.1 status per the 2026-11-12 refresh | GKM-SAA-095 |
 | TSB-067 | **ADD** | — | GKM-SAA-029 |
 | global | **REVISE** (naming) | "Tsukika" | GKM-SAA-261; "Gekka" on actor code `sgka` |
+
+## Guarded evidence for TSB-029 — Event 025
+
+Tsubame moves from assessing the missing work to giving Ume an actionable collection task. Her recalled address and later apprehension have their own locators. A visible physical transfer and a more general right to dictate the successors’ choices remain open. [Guarded Event 025 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
