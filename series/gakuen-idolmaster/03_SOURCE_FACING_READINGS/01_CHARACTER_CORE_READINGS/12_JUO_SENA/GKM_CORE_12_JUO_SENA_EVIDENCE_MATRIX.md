@@ -10,9 +10,9 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: "2026-11-15 — source-to-analysis audit corrections"
-version: "2.1"
-revised: "2026-11-15"
-revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (REVISE / STRENGTHEN): narrows SENA-C40 to reciprocal inspiration with corrected locators, revises SENA-C51 to a reportedly shared family perception, corrects the SENA-C47 locator and adds Event 024 counterpressure, strengthens SENA-C05's counterpressure with the limits of the eye, and records the revision-86 support routing for SENA-C29–C31 and C33–C34"
+version: "2.2"
+revised: "2026-11-25"
+revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (REVISE / STRENGTHEN): narrows SENA-C40 to reciprocal inspiration with corrected locators, revises SENA-C51 to a reportedly shared family perception, corrects the SENA-C47 locator and adds Event 024 counterpressure, strengthens SENA-C05's counterpressure with the limits of the eye, and records the revision-86 support routing for SENA-C29–C31 and C33–C34; v2.2 records the dated written source correction, with the v2.1 wording recoverable from Git history."
 ---
 
 # GKM CORE 12 — JUO SENA EVIDENCE / FALSIFICATION MATRIX
@@ -69,7 +69,7 @@ This matrix is subordinate to `GKM_CORE_12_JUO_SENA.md`. It keeps high-load Phas
 | SENA-C44 | Sena wants a field capable of defeating her while still intending to win. | Dear 025–027 | defeat would be simplest proof of reform | source shows she secretly plans or prefers abdication | **VERY HIGH** |
 | SENA-C45 | Summer H.I.F. represents generative supremacy: first place is re-earned in a field she helped strengthen. | Dear 027 | D-SENA route-specific summit | later route reveals the field remained noncompetitive or reform purely symbolic | **VERY HIGH WITHIN D-SENA** |
 | SENA-C46 | `赤裸々` textually fuses challenge, vulnerability, rebirth and joint authorship. | CIDOL 015 parts 01–03 | realized music/visuals may complicate intent | AV evidence contradicts the proposed stripped/reborn performance logic | **VERY HIGH TEXT / AV PENDING** |
-| SENA-C47 | `ENDLESS DANCE` positions Sena as an institutional archive altered by other idols. | CIDOL 016; Misuzu's archive reading in `adv_cidol-hmsz-3-015_02.txt` L117–L150 (2026-11-15, HSCA-149 locator correction) | interpretation is partly Misuzu's subjective view; Event 024 makes the song contested property, not a commons (event_024 main-04 L206–L372; main-05 L410–L414; HSCA-028) | AV/text later presents Sena as isolated center unaffected by group relation | **HIGH TEXT / AV PENDING** |
+| SENA-C47 | `ENDLESS DANCE` positions Sena as an institutional archive altered by other idols. | CIDOL 016; Misuzu's archive reading in `adv_cidol-hmsz-3-015_02.txt` L117–L150 (2026-11-15, HSCA-149 locator correction) | Misuzu's archive interpretation is situated. Event 024 shows rival claims by Misuzu, Ume and Sena alongside Sena's account of broader participation (`adv_event_024_main-04` L206–L372, `adv_event_024_main-05` L275–L383, L410–L414; HSCA-028, **REVISE**, 2026-11-25). Individual performances and rights stay **OPEN** | AV/text later presents Sena as isolated center unaffected by group relation | **HIGH TEXT / AV PENDING** |
 | SENA-C48 | Sena's broad public work is a genuine civic/representative vocation, not only branding. | sales/pevent corpus; student council | work compulsion and image duty also operate | later source shows she dislikes public service and acts only under obligation | **HIGH** |
 | SENA-C49 | Fan support evolves from passive reception of perfection toward active energy exchange. | Dear 007, 009; sales/handshake; HIF | fan obedience/control remains an issue | later source restores a purely one-directional performer–audience model | **HIGH** |
 | SENA-C50 | Sena's charisma can blur guidance into compliance. | fan-event instruction/obedience; public authority | no coercive abuse is established | recipient evidence shows fans freely contest her and instruction has no refusal cost | **OPEN / MODERATE** |
