@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 248; `STALE` 1; `SUPERSEDED` 43
+- Recorded totals: `CANDIDATE` 250; `STALE` 1; `SUPERSEDED` 43
 
 ## Namespaces
 
@@ -30,7 +30,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`classroom-of-the-elite`](reconstruction_index/classroom-of-the-elite.md) | 3 | 3 |
 | [`cornered-mouse`](reconstruction_index/cornered-mouse.md) | 4 | 4 |
 | [`cosmic-princess-kaguya`](reconstruction_index/cosmic-princess-kaguya.md) | 1 | 1 |
-| [`fx-fighter-kurumi-chan`](reconstruction_index/fx-fighter-kurumi-chan.md) | 7 | 7 |
+| [`fx-fighter-kurumi-chan`](reconstruction_index/fx-fighter-kurumi-chan.md) | 8 | 8 |
 | [`genshin-impact`](reconstruction_index/genshin-impact.md) | 1 | 1 |
 | [`girls-band-cry`](reconstruction_index/girls-band-cry.md) | 1 | 1 |
 | [`harmony`](reconstruction_index/harmony.md) | 1 | 1 |
@@ -60,7 +60,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`silent-witch`](reconstruction_index/silent-witch.md) | 4 | 4 |
 | [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
 | [`sound-euphonium`](reconstruction_index/sound-euphonium.md) | 1 | 1 |
-| [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 5 | 5 |
+| [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 6 | 6 |
 | [`three-days-of-happiness`](reconstruction_index/three-days-of-happiness.md) | 5 | 5 |
 | [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 2 | 2 |
 | [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 9 | 19 |
@@ -119,6 +119,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `fx-fighter-kurumi-chan:takane-yasuko@manga` | [`fx-fighter-kurumi-chan-takane-yasuko-manga-v01-v10-monograph-20261124-01`](reconstruction_index/fx-fighter-kurumi-chan.md#fx-fighter-kurumi-chan-takane-yasuko-manga-v01-v10-monograph-20261124-01) | `CANDIDATE` | `B` | `4e7e052152666f2e967e2b9049331905a7fb4c12` |
 | `fx-fighter-kurumi-chan:tsukimori-kizuna@manga` | [`fx-fighter-kurumi-chan-tsukimori-kizuna-manga-v01-v10-monograph-20261126-02`](reconstruction_index/fx-fighter-kurumi-chan.md#fx-fighter-kurumi-chan-tsukimori-kizuna-manga-v01-v10-monograph-20261126-02) | `CANDIDATE` | `C` | `538800b43315af6a5a62219346dbbfb8194d784e` |
 | `fx-fighter-kurumi-chan:yamashi-mebuki@manga` | [`fx-fighter-kurumi-chan-yamashi-mebuki-manga-v01-v10-monograph-20261125-01`](reconstruction_index/fx-fighter-kurumi-chan.md#fx-fighter-kurumi-chan-yamashi-mebuki-manga-v01-v10-monograph-20261125-01) | `CANDIDATE` | `B` | `bf571a7d5d47cf845f6ead633eb41b568b6e9659` |
+| `fx-fighter-kurumi-chan:zenba-nana@manga` | [`fx-fighter-kurumi-chan-zenba-nana-manga-v01-v10-monograph-20261126-01`](reconstruction_index/fx-fighter-kurumi-chan.md#fx-fighter-kurumi-chan-zenba-nana-manga-v01-v10-monograph-20261126-01) | `CANDIDATE` | `B` | `411012e3bd227ffc2d6771a5391e7193a0a16bab` |
 | `genshin-impact:furina@game` | [`genshin-impact-furina-game-furina-monograph-20261114-01`](reconstruction_index/genshin-impact.md#genshin-impact-furina-game-furina-monograph-20261114-01) | `CANDIDATE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
 | `girls-band-cry:iseri-nina@television-anime` | [`girls-band-cry-iseri-nina-television-anime-v2-ledgers-20261122-01`](reconstruction_index/girls-band-cry.md#girls-band-cry-iseri-nina-television-anime-v2-ledgers-20261122-01) | `CANDIDATE` | `B` | `3923b6cd184b114ee42d15a2dce158a9d8c57e78` |
 | `harmony:tuan-kirie@original-novel` | [`harmony-tuan-kirie-comparative-20261022-01`](reconstruction_index/harmony.md#harmony-tuan-kirie-comparative-20261022-01) | `CANDIDATE` | `E` | `1ac5215d216de2451fd3cf0ed667d90ad9df7cde` |
@@ -310,6 +311,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `the-idolmaster:juo-kunio@mobile-game` | [`the-idolmaster-juo-kunio-mobile-game-v2-monograph-20261126-01`](reconstruction_index/the-idolmaster.md#the-idolmaster-juo-kunio-mobile-game-v2-monograph-20261126-01) | `CANDIDATE` | `C` | `2c80597a054882dc1e6b0e9453c8a3eb24374ad8` |
 | `the-idolmaster:juo-ryuusei@mobile-game` | [`the-idolmaster-juo-ryuusei-mobile-game-v2-monograph-20261126-02`](reconstruction_index/the-idolmaster.md#the-idolmaster-juo-ryuusei-mobile-game-v2-monograph-20261126-02) | `CANDIDATE` | `B` | `538800b43315af6a5a62219346dbbfb8194d784e` |
 | `the-idolmaster:kanzaki-ranko@cinderella-girls-mobile-games` | [`the-idolmaster-kanzaki-ranko-cinderella-girls-mobile-games-monograph-audit-20261123-01`](reconstruction_index/the-idolmaster.md#the-idolmaster-kanzaki-ranko-cinderella-girls-mobile-games-monograph-audit-20261123-01) | `CANDIDATE` | `B` | `85301d53c984037162f87145ae571879a0ce8794` |
+| `the-idolmaster:neo-asari@mobile-game` | [`the-idolmaster-neo-asari-mobile-game-v2-monograph-20261126-01`](reconstruction_index/the-idolmaster.md#the-idolmaster-neo-asari-mobile-game-v2-monograph-20261126-01) | `CANDIDATE` | `C` | `411012e3bd227ffc2d6771a5391e7193a0a16bab` |
 | `the-idolmaster:yonai-p@u149-anime` | [`the-idolmaster-yonai-p-u149-anime-20261023-01`](reconstruction_index/the-idolmaster.md#the-idolmaster-yonai-p-u149-anime-20261023-01) | `CANDIDATE` | `D` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |
 | `three-days-of-happiness:himeno@original-novel` | [`three-days-of-happiness-himeno-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-himeno-original-novel-monograph-20261119-01) | `CANDIDATE` | `D` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
 | `three-days-of-happiness:kusunoki@original-novel` | [`three-days-of-happiness-kusunoki-original-novel-monograph-20261119-01`](reconstruction_index/three-days-of-happiness.md#three-days-of-happiness-kusunoki-original-novel-monograph-20261119-01) | `CANDIDATE` | `B` | `92f1c00e429f2da8672403dd3afd8187d375381a` |
