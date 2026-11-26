@@ -243,7 +243,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Hagen](characters/index/konosuba.md#hagen) | Original light-novel continuity, scoped current monograph | `konosuba:hagen@original-light-novel` | ハーゲン |
 | [Hakushi](characters/index/shiboyugi.md#hakushi) | Japanese light-novel continuity | `shiboyugi:hakushi@light-novel` | 白津川真実; 白士; Shiratsugawa Manami |
 | [Hanako](characters/index/blue-archive.md#hanako) | Blue Archive game | `blue-archive:hanako@game` | — |
-| [Hanami Ume](characters/index/the-idolmaster.md#hanami-ume) | Gakuen Idolmaster mobile-game Phase-3 core | `the-idolmaster:hanami-ume@mobile-game-phase-3-core` | 花海佑芽 |
+| [Hanami Ume](characters/index/the-idolmaster.md#hanami-ume) | Gakuen Idolmaster mobile-game Phase-3 core and Phase-7 definitive monograph | `the-idolmaster:hanami-ume@mobile-game-phase-3-core` | 花海佑芽 |
 | [Hanekawa Tsubasa](characters/index/monogatari-series.md#hanekawa-tsubasa) | Monogatari Series original light novels | `monogatari-series:hanekawa-tsubasa@original-light-novels` | — |
 | [Hange Zoë](characters/index/attack-on-titan.md#hange-zoe) | Attack on Titan manga | `attack-on-titan:hange-zoe@manga` | — |
 | [Hans](characters/index/konosuba.md#hans) | Original light-novel continuity, scoped current monograph | `konosuba:hans@original-light-novel` | ハンス |
