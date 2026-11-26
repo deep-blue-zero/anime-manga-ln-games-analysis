@@ -1092,6 +1092,8 @@ Lilja’s separate `adv_event_015_main-03` request has no coverage in these wind
 
 These eight scoped person-rows answer four cut-bounded questions. Mao's separate Event 022 part 01/05 requests and the event's `ENDLESS DANCE` individual sung-arrangement request have no disposition in this guard. The shared studio voice and authored-picture portions of `AV-SENA-G03` are separately **STRENGTHENED** by both recovered `SRC-0387` reviews. The exact backing allocation, true trio 3DMV and in-story Shibuya stage remain **OPEN**.
 
+The Q-numbers in this table and the next Event 023 table repeat the historical queue line locators used in the qualification table (for example `Queue L556`). They are labels, not current line numbers. In this file each one sits two lines above its Phase 4 request. Read them through their stable part keys: Q556 = `adv_event_022_main-02` (P0 request 5), Q572 = `adv_event_022_main-04` (P1 request 19), Q560 = `adv_event_024_main-04` (P0 request 9), Q561 = `adv_event_024_main-05` (P0 request 10), Q558 = `adv_event_023_main-03` (P0 request 7), Q559 = `adv_event_023_main-05` (P0 request 8), Q573 = `adv_event_023_main-01` (P1 request 20) and Q574 = `adv_event_023_main-04` (P1 request 21).
+
 [Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 ## Recovered Tsubame support focus — 2026-11-25
