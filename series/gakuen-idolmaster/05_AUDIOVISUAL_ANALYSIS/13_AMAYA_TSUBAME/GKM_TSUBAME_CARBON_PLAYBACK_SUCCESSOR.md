@@ -79,3 +79,7 @@ Two blind accounts and a separate informed replay locate the change from objecti
 The later review records Tsubame urging Hiro to rest, her encounter with Kotone at the end of a shift, China’s own description of individualized instruction and the reciprocal training contrast with Saki. Each finding is limited to its registered support window. The playback leaves deliberate waiting, independently demonstrated improvement and unspoken motives separately open. [Four support-scene adjudications](GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 A separate paired review records Tsubame’s stated reassessment of Lilja’s recommendation and her first and revised explanations when Mao recognizes them after a film. It qualifies the local picture and delivery. [Café and cinema scopes](../GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Council review and succession — 2026-11-26
+
+Tsubame directs Ume to finish collecting the paperwork. Her recorded recollection of entrusting the school to the juniors differs from her present questions about their readiness. Her concern leaves the graduation decision outside this exchange. [Guarded Event 025 adjudication](../GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md) The Dear, later support and song-edition cases keep their existing evidence scopes.

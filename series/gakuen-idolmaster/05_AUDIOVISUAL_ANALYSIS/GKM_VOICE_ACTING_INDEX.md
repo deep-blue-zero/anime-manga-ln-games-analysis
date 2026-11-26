@@ -24,14 +24,14 @@ Dialogue delivery, voice/register, scene acting and relation-specific performanc
 | Fujita Kotone | [Specialist](03_FUJITA_KOTONE/GKM_KOTONE_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](03_FUJITA_KOTONE/README.md) |
 | Arimura Mao | [Specialist](04_ARIMURA_MAO/GKM_MAO_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](04_ARIMURA_MAO/README.md) |
 | Katsuragi Lilja | [Specialist](05_KATSURAGI_LILJA/GKM_LILJA_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](05_KATSURAGI_LILJA/README.md) |
-| Kuramoto China | [Specialist](06_KURAMOTO_CHINA/GKM_CHINA_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](06_KURAMOTO_CHINA/README.md) |
+| Kuramoto China | [Specialist](06_KURAMOTO_CHINA/GKM_CHINA_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](06_KURAMOTO_CHINA/README.md) · [Guarded council dialogue](GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md) |
 | Shinosawa Hiro | [Specialist](07_SHINOSAWA_HIRO/GKM_HIRO_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](07_SHINOSAWA_HIRO/README.md) |
 | Himesaki Rinami | [Specialist](08_HIMESAKI_RINAMI/GKM_RINAMI_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](08_HIMESAKI_RINAMI/README.md) |
 | Shiun Sumika | [Specialist](09_SHIUN_SUMIKA/GKM_SUMIKA_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](09_SHIUN_SUMIKA/README.md) |
 | Hanami Ume | [Specialist](10_HANAMI_UME/GKM_UME_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](10_HANAMI_UME/README.md) |
 | Hataya Misuzu | [Specialist](11_HATAYA_MISUZU/GKM_MISUZU_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](11_HATAYA_MISUZU/README.md) |
 | Juo Sena | [Specialist](12_JUO_SENA/GKM_SENA_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](12_JUO_SENA/README.md) |
-| Amaya Tsubame | [Specialist](13_AMAYA_TSUBAME/GKM_TSUBAME_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) · [Four support-scene adjudications](13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md) | [README](13_AMAYA_TSUBAME/README.md) |
+| Amaya Tsubame | [Specialist](13_AMAYA_TSUBAME/GKM_TSUBAME_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) · [Four support-scene adjudications](13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md) | [README](13_AMAYA_TSUBAME/README.md) · [Guarded council dialogue](GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md) |
 | Hiwatari Kanae (supplementary) | [Current reading](14_HIWATARI_KANAE/GKM_KANAE_INTEGRATED_AUDIOVISUAL_READING.md#who-gets-to-hear-her-choose) | [README](14_HIWATARI_KANAE/README.md) |
 
 [All AV files](GKM_AUDIOVISUAL_FILE_INDEX.md) · [AV home](README.md) · [Project state](../CURRENT_STATE_AND_CORPUS_MAP.md). The fourteen numbered rows contain thirteen original Phase 3 packages plus the later Kanae addition. The character READMEs give the current evidence and named corrections. The [September Hiro/Misuzu import](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) preserves its documentary methods, and the [November Carbon reconciliation](GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) records what was actually heard or seen later.
@@ -43,6 +43,8 @@ The guarded Event 022 and 024 review adds partial recorded answers for Arimura M
 Four guarded Event 023 windows separate a remembered request, Temari's gift and Hiro's distinct mission reports. The recorded delivery establishes which register shifts belong to Misuzu, Temari and Hiro. The two pieces on the in-story disc are reported, with the disc's sound and later playback still open. [Guarded Event 023 adjudication](GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 Six guarded windows extend Event 022’s contrasts in training, practical care and chosen company, and give Mao’s separate Event 003 last-summer reflection a recorded comparison. The source and recording distinguish spoken requests, inward thought, instrumental score and a reported photograph. [Guarded care and summer adjudication](GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+Two Event 026 dialogue windows and one support window compare the sisters’ own goals, named self-address and retrospective trust. The excerpts keep quoted lyrics, spoken song titles and a past live performance in their respective evidence scopes. [Guarded Event 026 and support comparison](GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 <!-- RINHA_AV_20260911 -->
 ## Kaya Rinha — distributed-character AV responsibility

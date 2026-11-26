@@ -1512,3 +1512,17 @@ SAKI-L072 now has a recorded part 2 scope. A1 `adv_event_016_main-02.txt` L439�
 ## Guarded care, chosen company and a summer photograph — 2026-11-25
 
 `adv_event_022_main-01` L20–92, L212–281 and L300–399 locate training, care and the requested light. `adv_event_022_main-05` L254–324 and L383–484 locate the separate inward and spoken reports. `adv_event_003_main-05` L369–465 locates Mao’s reflection, the first shutter and proposed group photograph. The report gives amended named boundaries. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+Event 026 parts 04 and 05 are distinct guards of the exact `8Nh2Uxg0XUI` edition. Support `adv_csprt-3-0052_01` is the substantive dialogue scope in the `LfFlLuVdqz4` guard. The opening of the following chapter retains a separate locator. The adjudication identifies half-open parent ranges and exact take hashes. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded Event 025 anchors
+
+| Received scope | A1 speaker and context anchors | Recording windows |
+| --- | --- | --- |
+| China · Q562 | adv_event_025_main-01 L120–135 and L492–517 | Q01 and Q02 |
+| Tsubame · Q562 | adv_event_025_main-01 L93–185, L371 and L405–480 | Q01 and Q02 |
+| China · Q563 | adv_event_025_main-05 L139–211 and L217–331 | Q03 |
+
+[Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md). The clock locators and inspection limits apply to both the printed and spoken material.

@@ -348,8 +348,8 @@ Relational thesis: **Rinami's mature care is reversible rather than unilateral. 
 | Sena ↔ China | E005 | high-asymmetry mentor/successor recruitment with inherited legitimacy questions latent | high |
 | Sena ↔ Kotone | E005 discussion | exceptional recognition without secured consent | high |
 | Sena ↔ Misuzu | E005 | accepted recruitment; reason for remaining-capacity question remains OPEN; bearing evidence `adv_event_005_main-03` L151–L176 (not heard by Misuzu) and L402–L427, SL1.1 `adv_event_027_main-01` L130–L145 and `main-05` L268–L273; competing readings: room for Temari, a Sena-centred motive, a small group (GKM-SAA-106) | high / motive open |
-| Sena ↔ Saki | E005 | **PROMOTE:** mirror rivalry / anti-succession relation; Saki is explicitly `敵`, not successor | very high |
-| Sena ↔ Ume | E005 | epistemic fascination and experimental mentorship begin where Sena cannot read Ume's talent | very high |
+| Sena ↔ Saki | E005 | **PROMOTE:** mirror rivalry; Saki challenges the present Sena as a model. Sena declines Tsubame’s suggestion to recruit Saki and rules out succession and calls Saki `敵` (main-04 L367–L416, L474–L487) | very high |
+| Sena ↔ Ume | E005 | Sena reports uncertainty about Ume’s talent and separately asks why she is excited; she later invites Ume to join the council and offers to guide her (main-05 L401–L427, L534–L574). The cause of that excitement is open | very high |
 | Tsubame ↔ Kotone | E005 discussion | prior rule-enforcement contact includes confidentiality and respect for private circumstances | high |
 
 <!-- PHASE4_EVENTS_006_012_2026-08-23 -->
@@ -965,3 +965,11 @@ In support `2-0018_02` Saki’s care and apology precede Temari reclaiming respo
 ## Guarded care, chosen company and a summer photograph — 2026-11-25
 
 **STRENGTHEN.** The care sequence permits a specific request from Mao once Kotone has taken the lead. Mao and Kotone take different actions in attending Sena’s live and describing it afterward. In Event 003, Sumika's candid photo report and later group invitation are distinct acts. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+**STRENGTHEN.** The sisters can propose distinct goals in front of their colleagues. Ume can accept Saki’s reassurance and keep her question open. Temari’s closing Event 026 line changes her earlier singular formulation to a plural one. The Japanese caption emphasizes the plural suffix. The exact people she has in mind and their future stage remain open. The collective dialogue elsewhere in the excerpt assigns Saki and Ume, while the mixed laughter leaves exact contributor separation open. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded council succession — 2026-11-26
+
+China accepts responsibility for the paperwork lapse and explains Ume’s assistance. She later asks the seniors for a chance for all three juniors to answer their concerns. The two guarded scenes distinguish her earlier apology from the later request. Tsubame directs Ume to finish collecting the paperwork. Her recorded recollection of entrusting the school to the juniors differs from her present questions about their readiness. Her concern leaves the graduation decision outside this exchange. China promises to become a dependable president by spring and then asks Ume and Misuzu for continued help. The proposal to widen their group and invite Hiro is prospective. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)

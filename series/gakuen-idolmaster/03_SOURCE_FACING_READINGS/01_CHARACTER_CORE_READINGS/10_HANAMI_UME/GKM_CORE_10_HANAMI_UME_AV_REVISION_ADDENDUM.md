@@ -61,3 +61,7 @@ This addendum routes the Phase-3 textual claims through the complete audiovisual
 - bilateral Saki/Ume authority after Saki-centered synthesis;
 - class/resource comparison across the cast;
 - whether D-UME’s global summit rhetoric survives other result tracks.
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+Ume says an idol should answer her own expectations and addresses herself by her full name. The scenario has no inward flag. Who else heard the turn remains open. Ume describes her excitement, proposes new partners and says she aims to cover all 765 Pro songs. The spoken title exchange and the earlier stage performance have different scopes. Ume’s support part 01 recollection distinguishes following Saki from dreaming specifically of idolhood. Ume affirms her trust and says she wants to find her own answer. The onset of that aspiration remains undated. [Guarded Event 026 and support comparison](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
