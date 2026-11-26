@@ -52,7 +52,7 @@ Relevant Carbon propositions are `PROP-0227`, `PROP-0230`, `PROP-0260`.
 
 ## Completion boundary
 
-Individual Gate E remains open. The song commu answers the named dialogue question only. The Phase 3 report records its historical delivery. The later support receipt below answers the previously open dog scene within the reviewed part. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
+At the initial Carbon checkpoint individual Gate E remained open. The song commu answers the named dialogue question only. The Phase 3 report records its historical delivery. The later support receipt below answers the previously open dog scene within the reviewed part. [Package file map](README.md) · [AV verification queue](../../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md).
 
 ## Recorded Event 016 parts 2 and 5 — 2026-11-25
 
@@ -62,7 +62,7 @@ The [new targeted Event 016 receipt](../01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTE
 
 **REVISE** the claim about the start of Ume’s teasing in おひさま笑顔、満開ふたつ (2-0067 part 02). On x6mcJ4AOFDw, Temari’s earlier resemblance thought is voiced for the audience (L73–74). Ume has Temari’s later spoken explanation at about 174–179 s (L150–151). Ume uses it to propose that Temari thinks of her as a friend and asks whether that implies wanting to get close or touch her (L157–170). The curious sound around 179–180 s is followed by a more playful delivery at about 189–194 s. The earlier reference to becoming friends at L138 concerns the dog.
 
-Ume explicitly calls it excessive teasing at about 207–212 s (L203–204). **STRENGTHEN** the escalation and her retrospective recognition. The precise beginning of the joke and Temari’s feelings about the friendship premise are **OPEN**. The dog is heard off screen. The transition skips the girls’ play, and the static border does not establish rendered contact. The receipt answers this item at its own scene scope. Individual Gate E remains open. [Recorded support adjudication](../GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+Ume explicitly calls it excessive teasing at about 207–212 s (L203–204). **STRENGTHEN** the escalation and her retrospective recognition. The precise beginning of the joke and Temari’s feelings about the friendship premise are **OPEN**. The dog is heard off screen. The transition skips the girls’ play, and the static border does not establish rendered contact. The receipt answered this item at its own scene scope before the later individual Gate E decision. [Recorded support adjudication](../GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 ## Sports day recorded evidence — 2026-11-25
 
@@ -79,3 +79,7 @@ Ume says an idol should answer her own expectations and addresses herself by her
 ## Recorded exchange and scope — 2026-11-26
 
 Ume’s short first yes confirms her sister as the target. In the later exchange she reports her reserve admission and prior athletic display, then accepts Sena’s conditional council invitation. Each affirmative answers its immediate question. The exact samples and captions leave the rendering of the full athletic display unsettled. Ume asks whether the juniors may take the assignment, asks whether the proposals would work for everyone, and voices the idea of a memory unique to that day. In the final exchange she gives Misuzu the floor and then replies more brightly to her proposal to finish the work together. The result of the plan remains outside these windows. [Guarded Event 005 and 024 adjudication](../GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Ume’s tentative proposal to let Rinami do all the thinking gives way to renewed participation. Rinami admires the ideas Ume and China produce and offers to check excess. She leaves the work of generating ideas to them. Actual use of that authority and any later effect on confidence are separate. Ume explicitly asks to be Saki’s friend after Saki calls Lilja one. Saki names sisterhood in answer. Ume proposes a contest and Lilja reacts with surprise. The delivered contrast adds performed evidence for the moves. Jealousy, teasing and a bid for attention remain possible readings. The scene records no agreement to a contest. Saki withdraws her first assent and asks Ume to approach from the front. Ume announces the change and reports satisfaction later. Sampled approach and the blackout leave contact, a catch and safety open. The revised invitation applies to this occasion. [Hanami Ume’s definitive monograph](../../07_DEFINITIVE_CHARACTER_MONOGRAPHS/22_HANAMI_UME.md) meets Gate E at the admitted boundary. [Guarded Ume adjudication](../GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).

@@ -397,7 +397,7 @@ Ume's care is more immediate and physical. It appears as:
 - insistence that Saki rest emotionally as well as physically;
 - and the willingness to become strong enough to threaten the person she loves.
 
-The tackle-hug support scene is especially useful. Saki does not reject Ume's affection; she redirects the delivery into a safer channel she can receive. Ume, for her part, accepts the boundary without needing the affection itself to be repudiated.
+In support 2-0000 part 01, Saki objects to the surprise tackle, takes back her first assent and asks Ume to approach from the front. Ume announces the revised approach and declares herself satisfied afterward. The sisters’ words show both the revised boundary and its uptake. Whether Saki actually catches Ume remains a separate question. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#a-sister-asks-for-a-different-approach).
 
 ### Ume receiving Saki's care *(2026-11-15; GKM-SAA-023, GKM-SAA-178)*
 
@@ -1759,3 +1759,7 @@ Saki offers a practical goal and endorses a larger one Ume names. The support co
 ## Coaching and reciprocally chosen help in Event 012
 
 Lilja’s agreement to follow a mentor differs from her requests to Sumika. She and Sumika specify different forms of support, agree to them locally and keep their larger-stage promise prospective. Saki’s recalled demand for disclosure is a different intervention from the wish to help that she later describes. The two juniors’ use of her help leaves the pressure of the demand visible. [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Recorded moon-viewing and its remembered quarrel
+
+A shared evening and ordinary care coexist with Temari's reservation and Misuzu's unexplained future method. Temari gives the first serious quarrel value. Misuzu applies the view to one remaining unnamed person and accepts postponement in this exchange. The words establish separate choices about companionship and the timing of further action. The cases leave the shared unit's restoration and the later interlocutor unresolved. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md).

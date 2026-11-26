@@ -40,3 +40,7 @@ _Trace._ PROP-0054-AV-01/02, PROP-0220-AV-01, PROP-0234-AV-01 and PROP-0281-AV-0
 ## Recorded Event 023 evidence — 2026-11-25
 
 **STRENGTHEN**, exact scene scope. Temari disputes Hiro's label at L197, asks for advice at L219–223, declines the video at L310–319 and invites her to shop at L344. Hiro responds at L346 and L355. These are separate audible acts in part 01. Misuzu at L272 is recalled and Rinha is imagined. Their distinctly authored modes bound the comparison. [Guarded Event 023 adjudication](../GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md#disputed-closeness-and-accepted-help)
+
+## Recorded moon-viewing and its remembered quarrel
+
+Temari thanks Misuzu for the blanket and tea offer, admits embarrassment and later questions whether they have made up. Temari owns the reservation that their old relationship has not wholly returned. She reacts more forcefully in the remembered argument than in her later appraisal. Her final deferral leaves a further reconciliation open. One backing recedes around Temari's question and another enters near Misuzu's answer in part 01. Part 02 carries its heard backing across remembered and present turns. The exact upper-bound score change is unresolved. No observed rendition of the earlier song follows. [Guarded moon-viewing adjudication](../GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#temari-answers-the-offer-and-doubts-the-description-of-repair).

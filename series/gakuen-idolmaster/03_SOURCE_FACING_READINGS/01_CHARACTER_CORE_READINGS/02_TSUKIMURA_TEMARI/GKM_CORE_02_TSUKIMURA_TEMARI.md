@@ -1840,3 +1840,7 @@ Temari makes room for Misuzu's account of repair and can distinguish the support
 **Scope.** Separate scoped cases. Post-repair café and pre-main-round rehearsal within Misuzu 018. C1 within E027 and C2 to the main tracks.
 
 **Claim disposition.** `TMR-R86-C02` — STRENGTHEN `TMR-S04` and ADD related evidence for `TMR-C05`.
+
+## Recorded moon-viewing and its remembered quarrel
+
+Temari thanks Misuzu for the blanket and tea offer, admits embarrassment and later questions whether they have made up. Temari owns the reservation that their old relationship has not wholly returned. She reacts more forcefully in the remembered argument than in her later appraisal. Her final deferral leaves a further reconciliation open. [Guarded moon-viewing adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#temari-answers-the-offer-and-doubts-the-description-of-repair).

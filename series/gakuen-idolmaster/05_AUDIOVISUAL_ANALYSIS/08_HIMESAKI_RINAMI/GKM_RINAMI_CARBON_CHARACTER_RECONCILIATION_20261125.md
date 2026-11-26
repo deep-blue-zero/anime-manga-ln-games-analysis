@@ -62,3 +62,7 @@ Rinami’s stage work and heard inward uncertainty coexist during the interrupti
 ## Hiro and Rinami’s recorded Event 010 and support evidence
 
 Rinami leaves help available while Hiro tries to make the chocolate on her own. She checks on her later and accepts Hiro’s request to make it together. Hiro judges the first result inadequate. Rinami appraises the finish of the shared attempt. Palms, texture and the full work process have distinct written, reported and sampled-picture limits. [Event 010 analysis and exact attendance](../GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#rinami-keeps-help-available-and-responds-when-asked).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+**Rinami P1 Q483.** Rinami’s own response moves from admiration of the two juniors’ ideas to an invitation under a specific future check. She keeps authority to intervene if they go too far. The scene leaves future use of that power open. [Guarded Ume adjudication](../GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#ume-keeps-a-role-in-the-work).

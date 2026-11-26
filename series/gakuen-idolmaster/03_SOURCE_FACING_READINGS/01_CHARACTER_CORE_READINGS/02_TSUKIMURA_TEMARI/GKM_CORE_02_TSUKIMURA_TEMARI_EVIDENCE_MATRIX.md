@@ -213,3 +213,7 @@ These rows record the claim transitions applied from the 2026-11-15 source-to-an
 ## D-TEMARI transfer promise and assent
 
 The dated audit table preserves the earlier phrasing. Dear 025 L376–397 records a reported promise and a protest. L428–454 records acceptance of training and a resolve to win. In Dear 026 L23–27, the Producer invokes the earlier plural after Temari says the series had not been disclosed. Dear 027 L182–221 records Temari’s retrospective trust appraisal and value of the trial. The cited lines supply no acceptance of the transfer term by either named idol. Dear 023 L468–514 records a different explicit agreement to defer the dissolution live.
+
+## Recorded moon-viewing and its remembered quarrel
+
+The two person-specific P0 answers add performed support for Temari's reserved response to the repair label, force in the remembered exchange and her separate current deferral. The results leave a later reunion, the unnamed target, and motive for postponement open. [Guarded moon-viewing adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#the-remembered-argument-and-the-present-judgment).
