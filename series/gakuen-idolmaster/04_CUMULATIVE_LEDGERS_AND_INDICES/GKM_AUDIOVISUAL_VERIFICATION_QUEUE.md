@@ -473,6 +473,8 @@ R2 resolves the former late-Dear quality exception. The exact 720p files strengt
 | P0 | `adv_event_005_main-05` | Sena's inability to read Ume; surprise becoming excitement |
 | P1 | `adv_event_005_main-01` | pseudo-agency governance debate; Tsubame/Rinami criticism vs Sena confidence |
 
+**Event 005 written clarification (2026-11-26).** The part 04 P0 distinguishes Saki’s criticism, Tsubame’s recruitment suggestion and Sena’s refusal (L367–L416, L474–L487). The part 05 P0 asks how Sena delivers her unresolved assessment and her question about why she is excited (L401–L427). Whether the delivery distinguishes the two is an inspection question. The written source leaves the cause of the excitement open.
+
 <!-- PHASE4_EVENTS_006_012_2026-08-23 -->
 ## Phase 4 — Events 006–012 AV verification additions
 

@@ -348,8 +348,8 @@ Relational thesis: **Rinami's mature care is reversible rather than unilateral. 
 | Sena ↔ China | E005 | high-asymmetry mentor/successor recruitment with inherited legitimacy questions latent | high |
 | Sena ↔ Kotone | E005 discussion | exceptional recognition without secured consent | high |
 | Sena ↔ Misuzu | E005 | accepted recruitment; reason for remaining-capacity question remains OPEN; bearing evidence `adv_event_005_main-03` L151–L176 (not heard by Misuzu) and L402–L427, SL1.1 `adv_event_027_main-01` L130–L145 and `main-05` L268–L273; competing readings: room for Temari, a Sena-centred motive, a small group (GKM-SAA-106) | high / motive open |
-| Sena ↔ Saki | E005 | **PROMOTE:** mirror rivalry / anti-succession relation; Saki is explicitly `敵`, not successor | very high |
-| Sena ↔ Ume | E005 | epistemic fascination and experimental mentorship begin where Sena cannot read Ume's talent | very high |
+| Sena ↔ Saki | E005 | **PROMOTE:** mirror rivalry; Saki challenges the present Sena as a model. Sena declines Tsubame’s suggestion to recruit Saki and rules out succession and calls Saki `敵` (main-04 L367–L416, L474–L487) | very high |
+| Sena ↔ Ume | E005 | Sena reports uncertainty about Ume’s talent and separately asks why she is excited; she later invites Ume to join the council and offers to guide her (main-05 L401–L427, L534–L574). The cause of that excitement is open | very high |
 | Tsubame ↔ Kotone | E005 discussion | prior rule-enforcement contact includes confidentiality and respect for private circumstances | high |
 
 <!-- PHASE4_EVENTS_006_012_2026-08-23 -->

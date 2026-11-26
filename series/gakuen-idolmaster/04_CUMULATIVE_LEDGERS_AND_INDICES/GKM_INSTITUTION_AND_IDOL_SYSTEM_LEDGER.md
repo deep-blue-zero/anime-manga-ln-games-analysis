@@ -273,7 +273,7 @@ Status: **canonical provisional finding through Phase 3 Hiro AV; adversarial Pha
 - **Student-council pseudo-agency — PROMOTE.** Sena receives permission to make the student council function as a restricted `疑似的なアイドル事務所` and produce freshmen.
 - **Producer Course jurisdiction — STRENGTHEN/PROMOTE.** In conflict with Sena's cross-role production, Producer Course students have priority; Sena cannot contractually bind idols, has reduced institutional benefits, and faces facility restrictions. Producer authority therefore includes concrete contract/resource/facility dimensions.
 - **Cross-role safeguards — PROMOTE.** Hatsuboshi permits experimentation but recognizes conflict-of-interest risks when an elite idol/student-council president accumulates production authority.
-- **Succession doctrine — PROMOTE.** Sena explicitly frames recruitment as cultivating a successor to `一番星` and a future guide for Hatsuboshi. Event 005 simultaneously exposes the limit of vertical succession when Saki and Ume resist or escape the successor model.
+- **Succession doctrine — PROMOTE.** Sena explicitly frames recruitment as cultivating a successor to `一番星` and a future guide for Hatsuboshi. Event 005 distinguishes two decisions. Saki challenges the present Sena as a model, and Sena declines Tsubame’s suggestion to recruit Saki and calls Saki an enemy (main-04 L367–L416, L474–L487). Sena invites Ume into the council after reporting an unsettled assessment of her talent (main-05 L401–L427, L534–L574).
 
 <!-- PHASE4_EVENTS_006_012_2026-08-23 -->
 ## Phase 4 — Events 006–012 institutional additions
