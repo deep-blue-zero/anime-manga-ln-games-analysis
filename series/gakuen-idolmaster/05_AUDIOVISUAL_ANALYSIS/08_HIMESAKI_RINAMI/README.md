@@ -10,19 +10,21 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-09"
+last_updated: "2026-11-25"
 ---
 
 # Himesaki Rinami — audiovisual analysis
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
-Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.
+Rinami’s stage work and heard inward uncertainty coexist during the interruption. Backstage outward thanks and privately voiced recognition of the juniors’ help occupy different turns. The chronology keeps the omitted audience cheer, the closing announcement and the later backstage encounter distinct. [Event 15 finding 1](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#the-crowd-scene-reports-a-cheer-that-playback-elides) · [Event 15 finding 2](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#what-rinami-acknowledges-to-the-others-and-to-herself)
+
+Start with the [current audiovisual findings](GKM_RINAMI_CARBON_CHARACTER_RECONCILIATION_20261125.md). Read the four paired stage recoveries and the independently confirmed council intervention alongside this baseline. The historical file map retains its release scope. Use the textual core and AV addendum together for the character reading.
 
 | Purpose | Files |
 | --- | --- |
 | Integrated analysis | [Baseline](GKM_RINAMI_COMPLETE_AUDIOVISUAL_BASELINE.md) |
-| Specialist readings | [Dialogue and acting](GKM_RINAMI_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) · [Music and performance](GKM_RINAMI_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) |
+| Specialist readings | [Dialogue and acting](GKM_RINAMI_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) · [Music and performance](GKM_RINAMI_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) · [RippleSign rehearsal correction](GKM_RINAMI_CARBON_CHARACTER_RECONCILIATION_20261125.md#ripplesign-and-the-two-accounts-of-rehearsal) |
 | Evidence and measurements | [Evidence matrix](GKM_RINAMI_AV_EVIDENCE_AND_METRICS_MATRIX.md) · [Technical appendix](GKM_PHASE3_RINAMI_AV_TECHNICAL_METRICS_APPENDIX.md) |
 | Source records | [Source manifest](GKM_PHASE3_RINAMI_AUDIOVISUAL_SOURCE_MANIFEST.json) · [Requests and acquisition history](GKM_RINAMI_AUDIOVISUAL_BASELINE_AND_REQUESTS.md) |
 | Completion records | [Completion report](GKM_PHASE3_RINAMI_AUDIOVISUAL_COMPLETION_REPORT.md) · [Delivery audit](GKM_PHASE3_RINAMI_AV_DELIVERY_AUDIT.md) |
@@ -34,3 +36,7 @@ Start with the integrated baseline. Use the textual core and AV addendum togethe
 The current package is R2. The [R1 supersession note](90_SUPERSEDED_RELEASES/R1_SUPERSESSION_NOTE.md) and [R1 archive checksum](90_SUPERSEDED_RELEASES/GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1.zip.sha256) preserve the earlier release. The separately named high-resolution reinspection audit is a likely stale, unverified filename reference with no further collection action requested; the R2 README, delivery audit and technical appendix record the available work. See the [reference correction](../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_TARGETED_REBUILD_CANDIDATES.md#rinami-routing-responsibility).
 
 Retained release checksums describe historical ZIP member bytes and package paths. The [recovery audit](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records recovered originals and repository derivatives.
+
+## Later story-event recording
+
+[Scoped story-event review](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-warning-at-the-beach-restaurant). Rinami first calls Mao by name and later closes the exchange when Mao tries again. Her distinct later sunset conversation keeps separate evidence.

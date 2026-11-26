@@ -10,12 +10,16 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-09"
+last_updated: "2026-11-25 — Carbon clip, edition and claim routing"
 ---
 
 # Shiun Sumika — audiovisual analysis
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
+
+Begin with the [current Carbon update](GKM_SUMIKA_CARBON_AV_UPDATE_20261125.md) for later source bindings, dialogue and performance limits and current sufficiency. The original specialists and controls below preserve the Phase 3 delivery.
+
+The later [Beach-restaurant repair](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#repair-at-the-beach-restaurant) review follows Sumika’s account of family work, her reciprocal apology and the return to familiar address.
 
 Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.
 
@@ -34,3 +38,7 @@ Start with the integrated baseline. Use the textual core and AV addendum togethe
 R2 retains the documented late-Dear surrogate. The [historical Drive-backport manifest](GKM_PHASE3_SUMIKA_AV_DRIVE_BACKPORT_MANIFEST.md) records its original delivery context.
 
 Retained release checksums describe historical ZIP member bytes and package paths. The [recovery audit](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records recovered originals and repository derivatives.
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+The Event 003 part 05 clip separately presents the shutter, Sumika’s account of photographing Mao’s expression, and her suggestion of a group photo. Mao’s response to the description and later swimsuit embarrassment are distinct. Permission and the pictured result remain open. The later group photo and sharing have separate written locators. This is contextual support for Sumika's conduct. [Guarded care and summer adjudication](../GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md#maos-summer-and-sumikas-camera)

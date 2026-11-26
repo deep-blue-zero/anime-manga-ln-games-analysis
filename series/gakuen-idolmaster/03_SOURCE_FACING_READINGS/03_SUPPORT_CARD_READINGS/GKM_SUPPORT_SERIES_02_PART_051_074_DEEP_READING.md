@@ -12,9 +12,9 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-24'
-version: "1.1"
-revised: "2026-11-15"
-revision_note: "Source-to-analysis audit 2026-11-15: REVISE (wording only) of every masculine pronoun for Mao to she/her with a pronoun method note (GKM-SAA-013/031), and REVISE (narrowing) of the story_0071 Sena–Kotone consent critique in §20, §28.12 and §33.7 (HSCA-067)."
+version: "1.2"
+revised: "2026-11-25"
+revision_note: "Source-to-analysis audit 2026-11-15: REVISE (wording only) of every masculine pronoun for Mao to she/her with a pronoun method note (GKM-SAA-013/031), and REVISE (narrowing) of the story_0071 Sena–Kotone consent critique in §20, §28.12 and §33.7 (HSCA-067). November 25: STRENGTHEN §15 with guarded, exact recorded delivery in the costume exchange."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -54,7 +54,7 @@ The present tranche adds a fourth layer:
 
 The key development is not merely more care. It is **better reading**.
 
-- Ume correctly reads Temari's desire to approach a dog, then later recognizes exactly how far she can tease Temari about friendship before retreating.
+- Ume reads Temari's desire to approach a dog, later teases her about friendship, and calls the teasing excessive after Temari leaves.
 - Rinami reads Kotone's exhaustion as older-sister overload and temporarily offers her permission to stop performing that role.
 - Mao and Rinami can disagree about a dance, remember earlier disagreements, and treat friction as part of a durable relation rather than evidence that the relation has failed.
 - Tsubame recognizes that Hiro's request for greater severity is precisely when severity must be constrained by physical reality.
@@ -278,9 +278,9 @@ Mao's attempt to sharpen `なんでやねん` and Sumika's eventual natural reto
 
 Tsubame is helping supervise first-year running. She begins in her normal severe register: straighten the arm, look forward, do not quit because it hurts. Hiro falls far behind. Tsubame initially interprets continued effort as admirable and pushes harder.
 
-Then she notices Hiro's actual physical state.
+Hiro coughs. Tsubame notices her poor colour, orders a break and asks whether she can hear her.
 
-The shift is immediate. Tsubame orders rest, water, and safety. Hiro, barely functional, asks her to be *more* severe. Tsubame reacts with genuine alarm.
+Tsubame offers water. Hiro struggles to get the words out, and Tsubame guesses that she wants more water. Hiro asks for stricter training and insists she can keep going. In SRC-0085 (0.2–105.7 s), the audible contrast is between Hiro’s fragmented breaths and words and Tsubame’s increasingly urgent calls. The opening score drops away around the collapse. Voices and effects continue during the musical gap. Whether Hiro drinks or recovers is left open. [Part 01 recording and voice cues](../../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 Part 2 makes the principle explicit. Tsubame describes Hiro's body without euphemism: poor base stamina, little muscle or fat, slight skeletal build, small appetite, and therefore a body not naturally suited to idol work. Hiro calls her kind.
 
@@ -565,7 +565,7 @@ Tsubame asks Mao to repair a torn costume. Mao uses embroidery to disguise the d
 
 Then Mao explains why she chose it: Tsubame's stage looked to Mao like a golden ascending dragon, forcefully climbing into the sky.
 
-Tsubame changes her mind.
+Mao offers to change the embroidery. Tsubame chooses to keep it and allows that it might be good after all. One historical observer reports a pause. Sampled pictures show her gaze averted. [Costume exchange on the original recording](../../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md#the-gold-dragon-on-tsubames-costume).
 
 This scene is a compact statement of Mao's artistic process. Craft is not merely technical repair. She interprets another performer, materializes the interpretation, and then offers it back to the performer as an object.
 
@@ -595,19 +595,17 @@ Temari wants to approach a friendly dog but hesitates. Ume reads the desire almo
 
 Temari's internal reaction is intensely soft. She is delighted by the animal and privately notices that the dog's openly happy expression resembles Ume's.
 
-Part 2 lets Ume convert the observation into teasing. She says both she and the dog want to play with Temari. After Temari thanks her, Ume parses Temari's earlier comment in the most embarrassing possible way: if the dog felt safe because it resembled Ume, then perhaps Temari thinks of Ume as a friend and wants physical closeness with her too.
+Ume says she and the dog want to play with Temari. Temari expressly says the dog's Ume-like manner helped her feel safe touching it. Ume starts a deduction, says Temari apparently thinks of her as a friend, then asks whether Temari wants to get close to her or touch her. This follows Temari's spoken explanation, which is separate from her earlier private thought about their expressions.
 
-Temari explodes.
-
-Ume immediately recognizes that she has teased enough and retreats with `からかいすぎちゃった`.
+Temari gives a voiced nonlexical reaction and then explicitly insists she wants to touch animals. After Temari leaves, Ume says `からかいすぎちゃった`. The scene shows retrospective recognition of excess. An initial plan to tease remains open.
 
 This is good counterevidence against an “energetic but socially blunt” caricature. Ume is not always subtle, but she can:
 
 1. read a hidden desire;
 2. lower the cost of acting on it;
 3. identify an embarrassment point;
-4. deliberately tease it;
-5. recognize when to stop.
+4. turn the spoken explanation into teasing;
+5. identify her own overreach afterward.
 
 ### Claim transitions
 
@@ -1115,8 +1113,8 @@ Ume's support-card model becomes more socially sophisticated:
 
 - she notices Temari's hidden desire;
 - provides recipient-specific access;
-- teases intentionally;
-- recognizes when the teasing is enough;
+- lets a spoken comparison develop into teasing;
+- names her own excess after Temari leaves;
 - teaches Sena an unfamiliar activity;
 - proposes new council culture rather than simply inheriting old routines.
 
@@ -1317,7 +1315,7 @@ The present tranche shows fluent, spontaneous, positive aesthetic engagement wit
 
 ## 33.3 “Tsubame's harshness means she always wants people pushed harder” — REJECT
 
-Hiro's physical state causes Tsubame to reverse immediately into rest, hydration, and limit-setting. Kotone's observed fatigue similarly causes Tsubame to end training.
+Hiro's physical state causes Tsubame to call a halt and offer water. In support 2-0079 part 02, Tsubame asks how Kotone is doing and whether she has been sleeping. Kotone says she feels energetic. Tsubame ends the lesson on her own assessment, and Kotone accepts her decision (L116–178).
 
 ## 33.4 “Kotone rejects being cared for” — REJECT
 
@@ -1325,7 +1323,7 @@ She accepts Rinami's temporary dependency structure, Saki's sleep advice, and Ts
 
 ## 33.5 “Ume is socially oblivious” — DOWNGRADE
 
-She can recognize hidden desire, facilitate access, tease deliberately, and stop after recognizing overreach. Her most consistent problems are force and enthusiasm calibration.
+She can recognize hidden desire, facilitate access, and later recognize that she teased too much. In this case the recognition follows Temari's departure. Her ability to gauge the limit before overstepping remains open.
 
 ## 33.6 “Mao's actor self must be superseded by idol authenticity” — REJECT
 
@@ -1501,3 +1499,7 @@ Counterevidence to seek:
 - support-story branch material that should not be generalized across continuity.
 
 Do not close Phase 5 until all architecture-defined support bundles have been read and the cumulative ledger/locator/participant audit passes.
+
+## Later Source Lock 1.2 reading of Temari and Ume’s dog encounter — 2026-11-25
+
+The support `adv_csprt-2-0067_02` comparison confirms playful escalation and Ume’s own recognition of excessive teasing at the end. Bind her reaction to Temari’s spoken explanation in L150, keeping Temari’s earlier voiced private comparison separate. The cut skips the play. Dog sound and printed text supply different evidence from the static uploader image. Premeditation and Temari’s private acceptance of a relationship label remain open. [Five support-card adjudications](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

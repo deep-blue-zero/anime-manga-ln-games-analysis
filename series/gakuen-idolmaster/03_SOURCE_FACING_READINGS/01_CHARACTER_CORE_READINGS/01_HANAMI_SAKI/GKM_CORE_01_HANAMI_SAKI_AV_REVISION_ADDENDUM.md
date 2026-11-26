@@ -2,6 +2,7 @@
 title: "Gakuen Idolmaster V2 — Hanami Saki Character-Core Audiovisual Revision Addendum"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "revision addendum to Phase-3 character-core reading"
+artifact_type: claim_revision_ledger
 version: "2.0"
 phase: "3 — Character-Core Readings / Audiovisual Baseline"
 character: "Hanami Saki / 花海咲季"
@@ -12,6 +13,14 @@ status: "canonical addendum; parent core reading remains provisional until event
 ---
 
 # HANAMI SAKI CORE READING — AUDIOVISUAL REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+The separately matched U1 04-07 recording supports the earlier false-bravado account at its own clip clock. The U1 04-21 paired soundtrack distinguishes Saki's admission of Ume's actual physical skill from the later renewal of rivalry. In D-SAKI 033 the aloud institutional name and the loud and soft inner deliveries must retain distinct audio and A1 bindings. The earlier Carbon pass left the injury and rivalry exchange for its own playback check. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_SAKI_CARBON_PLAYBACK_SUCCESSOR.md). Earlier accounting and source locks below describe their own revisions.
+
+## Recorded support 2-0018 part 02 — 2026-11-25
+
+**REVISE.** Saki’s response to Temari’s injury includes an actionable warning and a promise to tape the sprain. She also apologizes for having pushed Temari. The audible chuckle and challenge after agreeing that Temari needs more skill show competition returning to their exchange. The view supplies no visual proof that the taping happens. Saki’s reason for agreeing remains **OPEN**. [Character audiovisual update](../../../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_SAKI_CARBON_PLAYBACK_SUCCESSOR.md#practical-care-and-renewed-rivalry-in-support-2-0018--2026-11-25)
 
 ## 0. Revision status
 

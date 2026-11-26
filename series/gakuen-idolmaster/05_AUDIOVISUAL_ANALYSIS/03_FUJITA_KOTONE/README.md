@@ -10,12 +10,18 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-09"
+last_updated: "2026-11-25 — Carbon clip, edition and claim routing"
 ---
 
 # Fujita Kotone — audiovisual analysis
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
+
+Q572 tests Kotone in Event 022 part 04, parent [1176, 1248). The Japanese mixed-audio accounts separate her hesitant older-friend formulation from Mao's quiet response and overt welcome. The sampled reaction and measured pauses and score remain separate from inferred feelings. Digital-silence checks qualify the continuous-frying report. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#kotone-describes-an-older-friend)
+
+Begin with the [current Carbon update](GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) for later source bindings, dialogue and performance limits and current sufficiency. The original specialists and controls below preserve the Phase 3 delivery.
+
+Kotone asks the festival players to stop as a crowd gathers. In the separate Animate scene she moves from a customer-facing offer to a quiet peer prompt. [Festival game](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-coach-becomes-an-opponent) · [Animate fan encounter](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)
 
 Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.
 
@@ -32,3 +38,7 @@ Start with the integrated baseline. Use the textual core and AV addendum togethe
 Retain the documented text-aligned Dear 011–020 and remote-metadata-only `GO MY WAY!!` source qualifications when using the baseline.
 
 Retained release checksums describe historical ZIP member bytes and package paths. The [recovery audit](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records recovered originals and repository derivatives.
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+Kotone’s E022-01 responses move from noticing how Mao feels to giving practical directions. She describes caring for her younger siblings, and the lullaby is a spoken offer. Her earlier room suggestion and her private speculation about fatigue have different roles. The scene leaves cause, bodily measurements and unbroken transport open. [Guarded care and summer adjudication](../GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md#training-accepting-help-and-asking-for-one-thing)

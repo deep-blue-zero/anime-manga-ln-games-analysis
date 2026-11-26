@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 title: Gakuen Idolmaster V2 — Hataya Misuzu Phase-3 Character Core Deep Reading
-version: '2.1'
+version: "2.3"
 phase: 3 — Character-Core Readings
 source_lock: GAKUMAS V2 Source Lock 1.0
 continuity_tracks:
@@ -20,13 +20,21 @@ continuity_tracks:
 - D-MISUZU
 - M-MISUZU
 reasoning_route: GPT-5.6 Sol — Extra High
-last_updated: '2026-08-16'
-revised: "2026-11-15"
-revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (STRENGTHEN / REVISE; open questions kept OPEN; no v2.0 thesis rejected): adds the reciprocal founding triangle, the Kayo-ranking asymmetry and the concealment-to-disclosure arc (GKM-SAA-004, P1 in narrowed form, severity dissent recorded), corrects attribution, branch scope and locators, integrates event, support and family evidence into the body as dated additions, and adds a Phase-4/5 integration pointer section; replaced v2.0 wording is kept in the 2026-11-15 revision table"
+last_updated: '2026-11-25'
+revised: "2026-11-25"
+revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (STRENGTHEN / REVISE; open questions kept OPEN; no v2.0 thesis rejected): adds the reciprocal founding triangle, the Kayo-ranking asymmetry and the concealment-to-disclosure arc (GKM-SAA-004, P1 in narrowed form, severity dissent recorded), corrects attribution, branch scope and locators, integrates event, support and family evidence into the body as dated additions, and adds a Phase-4/5 integration pointer section; replaced v2.0 wording is kept in the 2026-11-15 revision table; v2.2 records the dated written source correction, with the v2.1 wording recoverable from Git history. v2.3 records the 2026-11-25 written Event 023 revision."
 ---
 
 # GKM CORE 11 — HATAYA MISUZU / 秦谷美鈴
 ## Phase 3 source-facing character deep reading
+
+> **Source-boundary exception — 2026-11-25 (guarded Event 022 or 024).** The earlier source boundary governs the original Phase 3 reading. The separate dated recorded paragraph uses the exact edition, source part and observed scope of this review. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)
+
+> **REVISE — v2.3, 2026-11-25. Misuzu’s account of giving and her response to Hiro.** The earlier reading treated Misuzu’s suspicion that Hiro was asking for someone else as knowledge and called Misuzu a double agent. Misuzu asks whether Hiro is helping someone else. Hiro calls herself a double agent when she reports the outcome. Misuzu thanks her. Whether they agreed in advance remains open. The previous wording is preserved in v2.2.
+
+> **Source-boundary exception — 2026-11-25 (guarded Events 014 and 015 integration).** The original source boundary governs the Phase 3 textual baseline. The separately dated recorded addition in this document draws on Japanese mixed audio and sampled stills in the linked [case 1](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it) · [case 2](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#exertion-relief-and-friendship-across-four-windows). Source-scheduled actions, seen stills and heard delivery retain their individual scopes.
+
+> **Source-boundary exception — 2026-11-25 (Phase 7 four-event audiovisual integration).** The `source_boundary` in the front matter remains this reading's textual baseline. The dated 2026-11-25 addition in the subsection *Recorded Event 002 class gathering discussion — 2026-11-25* (`adv_event_002_main-05`) also draws on Japanese mixed audio and sampled stills. Heard and seen claims there are limited to the windows reviewed in the four-event perceptual adjudication (section [the unnamed friend](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-unnamed-friend)) and establish no wider audiovisual review of Hataya Misuzu.
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Version 2.1 applies the owner-authorized change plan of the source-to-analysis audit of 2026-11-15 through targeted edits. STRENGTHEN: the reciprocal founding triangle, the Kayo-ranking asymmetry and the movement from concealment to disclosure (§3, §7.2, §14.1, §25, §28.1; GKM-SAA-004, adopted at P1 in the reviewer's narrowed form, with the specialist's borderline-P2 view preserved as dissent); recognition of effort (§4.1, §9; GKM-SAA-025); Misuzu's side of SyngUp! (§9.1; GKM-SAA-084); Dear 028–033 (§16.1; GKM-SAA-086); register markers (§27.8; GKM-SAA-087); and event, support and family evidence entered as dated additions in the sections they bear on (GKM-SAA-104, GKM-SAA-108, GKM-SAA-188, GKM-SAA-243, GKM-SAA-244, GKM-SAA-245, GKM-SAA-248, GKM-SAA-249, HSCA-028). REVISE: attribution, branch-scope, sequence and locator corrections in §2.2–§2.3, §3, §4, §7, §7.1, §11, §14, §16, §18, §21, §26, §27.6, §29.2 and §30 (GKM-SAA-085, GKM-SAA-088, GKM-SAA-140, GKM-SAA-141, GKM-SAA-142, GKM-SAA-143, GKM-SAA-240, GKM-SAA-247). Open questions in §32 receive evidence but stay OPEN. The new section *Phase-4/5 integration pointers — 2026-11-15* indexes the event and support evidence, and the *Revision table — 2026-11-15* at the end keeps every replaced v2.0 formulation recoverable. No audiovisual evidence was used.
 
@@ -219,7 +227,9 @@ The mature formulation is:
 
 > **care is both gift and attachment technology.**
 
-**Event evidence (2026-11-15, GKM-SAA-104, STRENGTHEN).** Event 023 (Source Lock 1.0; C1 within the event, C2 globally) states the formula outside any crisis. When Shinosawa Hiro asks what gift would please her, Misuzu sees that Hiro is asking on someone else's behalf (`adv_event_023_main-03.txt` L138–L167) and answers anyway: she prefers giving to receiving and wants to fill the people important to her with herself; her happiness is a loved person "full of Misuzu" (L223–L232). The counterweight is in the same event. Misuzu gives Hiro a usable clue and then works with Hiro as a "double spy" so that Temari can design the gift herself (`main-05` L364–L393). Temari's one-copy lullaby CD, recorded for Misuzu alone, moves her to say that a dream has come true (`main-05` L241–L281). Possessive language and help that leaves the other person the author appear together here.
+**Event evidence (2026-11-15, GKM-SAA-104, STRENGTHEN).** Event 023 (Source Lock 1.0; C1 within the event, C2 globally) states the formula outside any crisis. When Shinosawa Hiro asks what gift would please her, Misuzu asks whether Hiro is seeking the answer for someone else. Hiro denies it, and Misuzu lets that answer stand (`adv_event_023_main-03.txt` L138–L201). Misuzu then says she prefers giving to receiving and wants to fill the people important to her with herself; her happiness is a loved person "full of Misuzu" (L223–L232). The counterweight is in the same event. Misuzu gives Hiro a clue that Temari calls helpful (`main-03` L270–L288). When Hiro later gives Misuzu her report, it is Hiro who calls herself a double agent. Misuzu agrees that it went well and thanks her (`main-05` L364–L393). Temari's one-copy lullaby CD, recorded for Misuzu alone, moves her to say that a dream has come true (`main-05` L241–L281). Possessive language and help that leaves the other person the author appear together here.
+
+**STRENGTHEN — recorded Event 023.** Misuzu speaks the giving formula in a measured and polite voice, expressly referring to people important to her. Her recalled address to まりちゃん and her brighter response to the CD serve different encounters. She quiets on the fulfilled-dream line and says she will listen before bed, repeating how often. Playfulness, desire to matter and affection remain plausible in the same exchange. [Guarded Event 023 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 That dual function begins in childhood.
 
@@ -746,7 +756,7 @@ This is competitive megalomania, but also institutional literacy. Misuzu increas
 
 The route therefore turns comparison from interpersonal jealousy into a mechanism for absorbing institutional history.
 
-**Event evidence — contested ownership (2026-11-15, HSCA-028, STRENGTHEN).** Event 024 (Source Lock 1.0; C1 within the event, C2 globally) carries the same appetite into Sena's song. When Sena treats `ENDLESS DANCE` as a legacy to hand down, Misuzu apologizes and declares that she will make the legendary song hers alone (`adv_event_024_main-04.txt` L368); Hanami Ume at once counters that she will protect it (L372). After the performance Sena says that what she had meant as a ceremony of succession has left her unwilling to let the song go (`main-05` L410–L414), and Misuzu says she expected as much (L417). The song returns to circulation through competing possessive claims rather than as a shared commons (`GKM_EVENTS_021_PLUS_DEEP_READING.md` §5.4–§5.5).
+**Event evidence — contested ownership (2026-11-15, HSCA-028, STRENGTHEN).** Event 024 (Source Lock 1.0; C1 within the event, C2 globally) carries the same appetite into Sena's song. When Sena treats `ENDLESS DANCE` as a legacy to hand down, Misuzu apologizes and declares that she will make the legendary song hers alone (`adv_event_024_main-04.txt` L368); Hanami Ume at once counters that she will protect it (L372). After the performance Sena says that what she had meant as a ceremony of succession has left her unwilling to let the song go (`main-05` L410–L414), and Misuzu says she expected as much (L417). **REVISE**, 2026-11-25. Misuzu's exclusive phrasing stays consequential even as Sena reports other people singing the work (`adv_event_024_main-05` L275–L323, L359–L383). Misuzu's stated claim and the reported wider participation can coexist. The exchange leaves private intent and rights to the work **OPEN** (`GKM_EVENTS_021_PLUS_DEEP_READING.md` §5.4–§5.5).
 
 ---
 
@@ -1039,8 +1049,8 @@ Owner policy, 2026-11-15: the character cores are living documents, and event an
 | Event or support object | A1 locator | What it adds | Core section | Owning reading section | CSL row |
 | --- | --- | --- | --- | --- | --- |
 | Event 013 (hearsay) | `adv_event_013_main-02.txt` L103–L110 | Rinami reports Misuzu as a Kyoto native | §28.7 | `GKM_EVENTS_013_020_DEEP_READING.md` §2 | none for Misuzu |
-| Event 014 | `adv_event_014_main-03.txt` L210–L253; `adv_event_014_main-05.txt` L427–L807 | exertion chosen for Hiro; Hiro does not want a Misuzu at full power from the start; mutual `大切な友達` | §15 | `GKM_EVENTS_013_020_DEEP_READING.md` §3.5 | Phase 4 — Events 013–020, Hataya Misuzu |
-| Event 023 | `adv_event_023_main-03.txt` L138–L236; `adv_event_023_main-05.txt` L241–L393 | possessive gift logic stated plainly; "double spy" help so Temari authors the lullaby CD | §5 | `GKM_EVENTS_021_PLUS_DEEP_READING.md` §4.3 | Phase 4 — Events 021+, Hataya Misuzu |
+| Event 014 | `adv_event_014_main-03.txt` L210–L253; `adv_event_014_main-05.txt` L134–L146, L427–L807 | Misuzu calls Hiro the class MVP for motivating her and chooses to exert herself for Hiro. Hiro says a Misuzu who went all out from the start would seem unlike herself. Hiro says `大切な友達` and `大好き`, and Misuzu answers `わたしもです`. | §15 | `GKM_EVENTS_013_020_DEEP_READING.md` §3.5–§3.6 | Phase 4 — Events 013–020, Hataya Misuzu |
+| Event 023 | `adv_event_023_main-03.txt` L138–L236; `adv_event_023_main-05.txt` L241–L393 | Misuzu’s account of giving; Hiro’s double-agent report and Misuzu’s acknowledgment after Temari presents the CD | §5 | `GKM_EVENTS_021_PLUS_DEEP_READING.md` §4.3 | Phase 4 — Events 021+, Hataya Misuzu |
 | Event 024 (HSCA-028) | `adv_event_024_main-04.txt` L368–L372; `adv_event_024_main-05.txt` L410–L417 | claims `ENDLESS DANCE` as hers alone; Ume counters; Sena keeps the song | §23 | `GKM_EVENTS_021_PLUS_DEEP_READING.md` §5.4–§5.5 | Phase 4 — Events 021+, Hataya Misuzu |
 | Support 2-0055 (revision 86) | `adv_csprt-2-0055_01.txt` L63–L121; `adv_csprt-2-0055_02.txt` L58–L174 | recognizes Saki's different method of rest | §2.4 | `GKM_SUPPORT_REVISION_86_DEEP_READING.md`, family row `adv_csprt-2-0055` | Source Lock 1.1 refresh: Hanami Saki row only; a Misuzu entry is pending |
 | Support 2-0057 (revision 86) | `adv_csprt-2-0057_01.txt` L25–L150; `adv_csprt-2-0057_02.txt` L21–L158 | administrative recall; Sena misreads napping as fatigue | §4 | `GKM_SUPPORT_REVISION_86_DEEP_READING.md`, family row `adv_csprt-2-0057` | Source Lock 1.1 refresh, Hataya Misuzu |
@@ -1192,3 +1202,15 @@ This table keeps recoverable every v2.0 formulation that the 2026-11-15 revision
 | §30 D-MISUZU | GKM-SAA-086 | STRENGTHEN (summary extended) | "It includes SyngUp! reconstruction, N.I.A., summer H.I.F. defeat, wrong-path effort, Producer mutuality, winter H.I.F. and Dear 036 Prima Stella." |
 
 Severity record for GKM-SAA-004: the audit adopted the reciprocal-origin, Kayo-ranking and disclosure additions at P1 in the reviewer's narrowed form, which does not claim that the concealment-to-disclosure arc was absent from every home. The specialist's post-review view, borderline P2 because Misuzu already cries before Temari in Dear 009 (L302), is preserved as dissent, as the owner decided on 2026-11-15.
+
+### Recorded Event 002 class gathering discussion — 2026-11-25
+
+On the Event 002 corridor recording, Misuzu quietly says what has hurt her, then answers with a more pouty vow to make friends. When Hiro asks why she was consulted, Misuzu says they have burdened the class. Her soft delivery allows both grievance and concern for the classmates to stand. Hiro supplies the reason about friendship. [Scoped recording evidence](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-unnamed-friend).
+
+## Individual recorded addition, sports day recorded evidence — 2026-11-25
+
+**STRENGTHEN, with bounded delivery and staging.** Polite address persists beside a quieter nostalgic turn, effort at the finish and a warmly delivered reciprocation. The MVP and causal account occur before the race in the written source. The carrying motion, the end of the question about the day and several later responses have distinct evidentiary limits. [case 1](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#hiro-and-ume-distinguish-choosing-a-challenge-from-deciding-who-pays-for-it) · [case 2](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#exertion-relief-and-friendship-across-four-windows)
+
+## Recorded Event 022 and 024 evidence — 2026-11-25
+
+Misuzu recognizes the two-person assignment, anticipates agreement with Ume, and proposes replying on a cue. Her later promise to take the song for herself belongs to a separate utterance (Event 024 part 04 L187, L299, L328–334, L368). She separately says 'mine alone' as the others enter the title call (part 05 L143–160). Later Misuzu relays Tsukimura's request and Sena identifies a distinct contribution from Misuzu's singing (L340–359). Difference in who says, asks, and attributes matters to the reconstruction. In the distinct official trio MV, Misuzu moves into audible and pictured foreground while the ensemble keeps a changing center. The video supplies no actual Shibuya performance. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)

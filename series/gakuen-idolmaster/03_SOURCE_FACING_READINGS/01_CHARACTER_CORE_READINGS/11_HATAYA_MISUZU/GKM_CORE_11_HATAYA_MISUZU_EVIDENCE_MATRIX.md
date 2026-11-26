@@ -17,6 +17,8 @@ revision_note: "v2.1 (version key added; parent core v2.1): source-to-analysis a
 
 # GKM CORE 11 — HATAYA MISUZU EVIDENCE / FALSIFICATION MATRIX
 
+> **Source-boundary exception — 2026-11-25.** The Phase 3 baseline keeps its original textual scope. The separate section *Dated recorded evidence* assesses Japanese mixed audio and sampled stills from the reviewed Event 014 and 015 intervals. [Exact recording and cue scope](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#exertion-relief-and-friendship-across-four-windows)
+
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Rows MISUZU-C09, C10, C17, C20, C22, C23, C24 and C33 are revised or strengthened in place, and MISUZU-C46 (GKM-SAA-004) and MISUZU-C47 (GKM-SAA-025) are added at the end of the table. The section *Source-to-analysis audit corrections — 2026-11-15* at the end adds the revision-86 support notes and the Source Lock 1.1 communication note, and records every replaced formulation. The version key was added in this revision to match the parent core (v2.1).
 
 This matrix is subordinate to `GKM_CORE_11_HATAYA_MISUZU.md`. It keeps high-load Phase-3 claims falsifiable and traceable. Raw paths identify Source Lock 1.0 primary-source homes; the complete character bundle is an ingestion view rather than a replacement for the raw ADV scripts.
@@ -103,3 +105,15 @@ This matrix is subordinate to `GKM_CORE_11_HATAYA_MISUZU.md`. It keeps high-load
 - MISUZU-C23 — evidence "Dear 022; Dear 032 retrospective crying"; counterpressure "she regulates exposure well"; falsification "later evidence establishes the crying memory was unrelated to defeat or exceptional" (GKM-SAA-085, GKM-SAA-004).
 - MISUZU-C24 — evidence "Dear 022 `発散…減ってしまう`; Dear 026" (GKM-SAA-085).
 - MISUZU-C33 — counterpressure "domination imagery remains strong" (GKM-SAA-088).
+
+## Dated recorded evidence — 2026-11-25
+
+**STRENGTHEN, event scope.** Misuzu’s nostalgic pre-race delivery, selected exertion and later polite reciprocation test a friendship-specific exception to her ordinary approach to effort. The precise MVP rationale is before the race in written source outside its guard. Keep the source’s description of the carry, sampled framing, voiced friendship and the fine action still open distinct. [Exact recording and cue scope](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#exertion-relief-and-friendship-across-four-windows)
+
+## Recorded Event 022 and 024 evidence — 2026-11-25
+
+**STRENGTHEN** Misuzu's coauthored refusal beside her individual competitive proposal. **PRESERVE** rival readings of sincerity and play. **OPEN** the sung concert resemblance, actual uptake and claims about hidden intent or ownership. In the distinct official trio MV, Misuzu moves into audible and pictured foreground while the ensemble keeps a changing center. The video supplies no actual Shibuya performance. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)
+
+## Recorded Event 023 evidence — 2026-11-25
+
+**STRENGTHEN**, exact scene scope. Part 03 L223–232 gives Misuzu's giving formula. Part 04 L219–221 is her recalled daily nap request. In part 05 L268–281 her gift response moves from bright to quiet, and at L296 she voices her planned bedtime listening. Her delivery varies while retaining polite speech. The written emphasis on important people and the future bedtime plan remain separately attributable. [Guarded Event 023 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

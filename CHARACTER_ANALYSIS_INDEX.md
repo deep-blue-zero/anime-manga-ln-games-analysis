@@ -54,7 +54,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`silent-witch`](characters/index/silent-witch.md) | 4 |
 | [`solo-leveling`](characters/index/solo-leveling.md) | 5 |
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
-| [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
+| [`the-idolmaster`](characters/index/the-idolmaster.md) | 35 |
 | [`three-days-of-happiness`](characters/index/three-days-of-happiness.md) | 5 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
 | [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 52 |
@@ -97,6 +97,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Anju Emma](characters/index/86-eighty-six.md#anju-emma) | 86 - Eighty-Six original light novels | `86-eighty-six:anju-emma@original-light-novels` | アンジュ・エマ |
 | [Anna Filante Esteroid](characters/index/konosuba.md#anna-filante-esteroid) | Original light-novel continuity, scoped cohort monograph | `konosuba:anna-filante-esteroid@original-light-novel` | アンナ゠フィランテ゠エステロイド; アンナ＝フィランテ＝エステロイド |
 | [Annette Penrose](characters/index/86-eighty-six.md#annette-penrose) | 86 - Eighty-Six original light novels | `86-eighty-six:annette-penrose@original-light-novels` | アンリエッタ・ペンローズ |
+| [Aoi Nadeshiko](characters/index/the-idolmaster.md#aoi-nadeshiko) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:aoi-nadeshiko@mobile-game` | 藍井撫子 |
 | [Aoyama Yuga](characters/index/my-hero-academia.md#aoyama-yuga) | My Hero Academia manga | `my-hero-academia:aoyama-yuga@manga` | — |
 | [Aqua](characters/index/konosuba.md#aqua) | Original light-novel continuity, main-principal and expanded analysis | `konosuba:aqua@original-light-novel` | — |
 | [Aragaki Ayase](characters/index/oreimo.md#aragaki-ayase) | Oreimo original light novels | `oreimo:aragaki-ayase@original-light-novels` | — |
@@ -276,6 +277,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Hisakawa Hayate](characters/index/the-idolmaster.md#hisakawa-hayate) | Cinderella Girls mobile games | `the-idolmaster:hisakawa-hayate@cinderella-girls-mobile-games` | — |
 | [Hisakawa Nagi](characters/index/the-idolmaster.md#hisakawa-nagi) | Cinderella Girls mobile games | `the-idolmaster:hisakawa-nagi@cinderella-girls-mobile-games` | — |
 | [Historia Reiss](characters/index/attack-on-titan.md#historia-reiss) | Attack on Titan manga | `attack-on-titan:historia-reiss@manga` | — |
+| [Hiwatari Kanae](characters/index/the-idolmaster.md#hiwatari-kanae) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:hiwatari-kanae@mobile-game` | 氷渡香名江 |
 | [Hojo Karen](characters/index/the-idolmaster.md#hojo-karen) | Cinderella Girls mobile games | `the-idolmaster:hojo-karen@cinderella-girls-mobile-games` | — |
 | [Homare](characters/index/shine-post.md#homare) | SHINE POST television anime | `shine-post:homare@television-anime` | 虎渡誉 |
 | [Honami](characters/index/project-sekai.md#honami) | Project SEKAI game — Leo/need | `project-sekai:honami@game` | — |
@@ -315,6 +317,8 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Jougasaki Mika](characters/index/the-idolmaster.md#jougasaki-mika) | Cinderella Girls mobile games | `the-idolmaster:jougasaki-mika@cinderella-girls-mobile-games` | — |
 | [Jougasaki Rika](characters/index/the-idolmaster.md#jougasaki-rika) | Cinderella Girls mobile games | `the-idolmaster:jougasaki-rika@cinderella-girls-mobile-games` | — |
 | [Julius Juukulius](characters/index/re-zero.md#julius-juukulius) | Re:Zero main light novel | `re-zero:julius-juukulius@light-novel` | ユリウス・ユークリウス |
+| [Juo Kunio](characters/index/the-idolmaster.md#juo-kunio) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:juo-kunio@mobile-game` | 十王邦夫 |
+| [Juo Ryuusei](characters/index/the-idolmaster.md#juo-ryuusei) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:juo-ryuusei@mobile-game` | 十王龍正 |
 | [Jūō Sena](characters/index/the-idolmaster.md#juo-sena) | Gakuen Idolmaster mobile-game Phase-3 core | `the-idolmaster:juo-sena@mobile-game-phase-3-core` | 十王星南 |
 | [Kagamihara Nadeshiko](characters/index/yuru-camp.md#kagamihara-nadeshiko) | Japanese manga | `yuru-camp:kagamihara-nadeshiko@manga` | 各務原なでしこ |
 | [Kairi Okayasu](characters/index/peach-girl.md#okayasu-kairi) | Japanese manga | `peach-girl:okayasu-kairi@manga` | 岡安浬; Okayasu Kairi |
@@ -368,6 +372,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Kurena Kukumila](characters/index/86-eighty-six.md#kurena-kukumila) | 86 - Eighty-Six original light novels | `86-eighty-six:kurena-kukumila@original-light-novels` | クレナ・ククミラ |
 | [Kuribayashi](characters/index/rent-a-girlfriend.md#kuribayashi) | Main manga continuity | `rent-a-girlfriend:kuribayashi@manga` | — |
 | [Kurogane Ren](characters/index/shine-post.md#kurogane-ren) | SHINE POST television anime | `shine-post:kurogane-ren@television-anime` | — |
+| [Kuroi](characters/index/the-idolmaster.md#kuroi) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:kuroi@mobile-game` | 黒井崇男 |
 | [Kurokiba Ryō](characters/index/shokugeki-no-soma.md#kurokiba-ryo) | Shokugeki no Soma manga | `shokugeki-no-soma:kurokiba-ryo@manga` | — |
 | [Kurumi](characters/index/lycoris-recoil.md#kurumi) | Lycoris Recoil television anime | `lycoris-recoil:kurumi@television-anime` | Walnut; ウォールナット; クルミ |
 | [Kurusu Kanako](characters/index/oreimo.md#kurusu-kanako) | Oreimo original light novels | `oreimo:kurusu-kanako@original-light-novels` | — |
@@ -420,6 +425,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Mamiya Kanoko](characters/index/watayuri.md#mamiya-kanoko) | Japanese manga | `watayuri:mamiya-kanoko@manga` | — |
 | [Mammon](characters/index/konosuba.md#mammon) | Original light-novel continuity, scoped Tier 2 cohort monograph | `konosuba:mammon@original-light-novel` | マモン |
 | [Mari Otsu](characters/index/sayonara-lara.md#mari-otsu) | Television anime continuity | `sayonara-lara:mari-otsu@anime` | — |
+| [Mashiro Yu](characters/index/the-idolmaster.md#mashiro-yu) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:mashiro-yu@mobile-game` | 真城優 |
 | [Masked gatekeeper (Main 17)](characters/index/konosuba.md#main17-masked-gatekeeper) | Original light-novel continuity, bounded character study | `konosuba:main17-masked-gatekeeper@original-light-novel` | — |
 | [Maxwell](characters/index/konosuba.md#maxwell) | Original light-novel continuity, scoped current monograph | `konosuba:maxwell@original-light-novel` | マクス; マクスウェル |
 | [Megumi](characters/index/konosuba.md#megumi) | Original light-novel continuity, bounded expanded cohort | `konosuba:megumi@original-light-novel` | メグミ |
@@ -481,6 +487,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Nazuna Ayase](characters/index/chiramune.md#nazuna-ayase) | Chiramune light novel | `chiramune:nazuna-ayase@light-novel` | — |
 | [Nene](characters/index/watayuri.md#nene) | Japanese manga continuity | `watayuri:nene@manga` | Saionji; Nishidera Nene; Saionji Nene; 西園寺; 西園寺寧々; 西寺寧々 |
 | [Nene](characters/index/project-sekai.md#nene) | Project SEKAI game — Wonderlands×Showtime | `project-sekai:nene@game` | — |
+| [Neo Asari](characters/index/the-idolmaster.md#neo-asari) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:neo-asari@mobile-game` | 根緒亜紗里 |
 | [Ninomiya Asuka](characters/index/the-idolmaster.md#ninomiya-asuka) | Cinderella Girls mobile games | `the-idolmaster:ninomiya-asuka@cinderella-girls-mobile-games` | — |
 | [Nishikigi Chisato](characters/index/lycoris-recoil.md#nishikigi-chisato) | Lycoris Recoil television anime | `lycoris-recoil:nishikigi-chisato@television-anime` | 錦木千束 |
 | [Nitta Minami](characters/index/the-idolmaster.md#nitta-minami) | Cinderella Girls mobile games | `the-idolmaster:nitta-minami@cinderella-girls-mobile-games` | — |
@@ -501,6 +508,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Otome Sakura](characters/index/lycoris-recoil.md#otome-sakura) | Lycoris Recoil television anime | `lycoris-recoil:otome-sakura@television-anime` | — |
 | [Otto](characters/index/ascendance-of-a-bookworm.md#otto) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:otto@light-novel` | — |
 | [Otto Suwen](characters/index/re-zero.md#otto-suwen) | Re:Zero main light novel | `re-zero:otto-suwen@light-novel` | オットー・スーウェン |
+| [owl](characters/index/the-idolmaster.md#owl) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:owl@mobile-game` | — |
 | [Ozuma](characters/index/konosuba.md#ozuma) | Original light-novel continuity, bounded expanded cohort | `konosuba:ozuma@original-light-novel` | ザトゥ・オズマ |
 | [Pain](characters/index/konosuba.md#pain) | Original light-novel continuity, scoped Tier 2 cohort monograph | `konosuba:pain@original-light-novel` | ペイン |
 | [Patrasche](characters/index/re-zero.md#patrasche) | Re:Zero main light novel | `re-zero:patrasche@light-novel` | パトラッシュ |
@@ -591,6 +599,8 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Shiraishi Chisa](characters/index/idoly-pride.md#shiraishi-chisa) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:shiraishi-chisa@v2-cross-media` | — |
 | [Shiraishi Saki](characters/index/idoly-pride.md#shiraishi-saki) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:shiraishi-saki@v2-cross-media` | — |
 | [Shiraki Hime](characters/index/watayuri.md#shiraki-hime) | Japanese manga | `watayuri:shiraki-hime@manga` | — |
+| [Shirakusa Gekka](characters/index/the-idolmaster.md#shirakusa-gekka) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:shirakusa-gekka@mobile-game` | 白草月花 |
+| [Shirakusa Shion](characters/index/the-idolmaster.md#shirakusa-shion) | Gakuen Idolmaster mobile-game V2 character monograph | `the-idolmaster:shirakusa-shion@mobile-game` | 白草四音 |
 | [Shiratori Tomoe](characters/index/tokyo-7th-sisters.md#shiratori-tomoe) | Tokyo 7th Sisters game | `tokyo-7th-sisters:shiratori-tomoe@game` | — |
 | [Shiro](characters/index/shiboyugi.md#shiro) | Japanese light-novel continuity | `shiboyugi:shiro@light-novel` | 蔵里士郎; 尸狼; Kurari Shirō |
 | [Shiroko](characters/index/blue-archive.md#shiroko) | Blue Archive game | `blue-archive:shiroko@game` | — |

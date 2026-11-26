@@ -54,7 +54,7 @@ Examples recur across very different relationships:
 - Rinami and Mao exchange study methods and ideals of idol longevity without either relationship needing a dramatic confession.
 - China and Hiro remember their first-day physical dependence as an ordinary friendship anecdote.
 - Temari denies that Hiro is a friend while rescuing her from drowning, teaching her to swim, and accepting sincere thanks.
-- Saki and Temari can push one another to injury-adjacent effort, administer first aid, insult each other's limits, and immediately return to rivalry because the relationship can carry correction without collapsing.
+- Saki and Temari push one another to injury-adjacent effort. Saki offers practical care after Temari reports a twist, then accepts Temari's account of her own limits and returns to rivalry.
 - Kotone treats Sena's pursuit as something to evade, yet she also observes and revises her image of Sena when she sees the council president with children and local vendors.
 - Lilja's gratitude to Mao becomes an explicit wish to reproduce Mao's kind-senior behavior for future juniors.
 
@@ -621,17 +621,17 @@ Identity of Misuzu's weight-conscious “friend.” Temari is leading context-ba
 
 Saki stretches Temari harder after revealing that Kotone already gave up at the same point. The comparison predictably activates Temari. Temari endures, then vows revenge and discovers Saki is absurdly flexible.
 
-Part 2 turns stamina work into the same contest. Temari refuses a break because Saki is continuing. She twists her ankle. Saki immediately stops, checks the injury, applies taping, and apologizes for pushing too hard.
+Part 2 turns stamina work into the same contest. Temari refuses a break because Saki is continuing. After stumbling, she says she has twisted it slightly. Saki warns against neglecting a sprain, tells her to lie down, offers to tape it and apologizes for pushing too hard. The retained recording leaves the injury and any application of tape outside the visible evidence.
 
 Temari says the failure is only her own lack of ability.
 
 Saki replies, essentially, “that too,” then tells her to become strong enough to keep up next time.
 
-The exchange is almost impossible to model correctly if one treats care and aggression as mutually exclusive. Saki administers competent first aid and refuses false reassurance. Temari is irritated rather than wounded because the relational contract includes exactly this kind of bluntness.
+Saki offers practical care, then agrees with Temari's own explanation and resumes the challenge. The audience hears Temari's choked inward protest before her steadier spoken retort. The exchange couples care and persistent rivalry. Saki's motive for agreeing and Temari's full private response remain open.
 
 ### Claim transitions
 
-- **Saki — STRENGTHEN:** competitive care can include immediate medical/practical response without suspending standards language.
+- **Saki — STRENGTHEN:** practical instruction, an offer of care and apology can precede a renewed challenge in the same encounter.
 - **Temari — STRENGTHEN:** she experiences Saki's superior physicality as motivational provocation rather than disqualifying humiliation.
 - **Saki ↔ Temari — STRENGTHEN:** the relationship can survive bodily vulnerability without either person having to exit rivalry mode.
 
@@ -841,7 +841,7 @@ Temari denies friendship while repeatedly performing the duties Hiro uses to def
 
 ### Saki and Temari
 
-The pair can train hard enough to expose injury, then remain inside the same rival grammar during first aid. The ability to stay blunt after vulnerability is itself evidence of relational durability.
+After Temari reports a twist, Saki makes a practical offer and apologizes. Both resume the challenge after Temari's account of her own ability. The sequence shows the relationship carrying immediate care and blunt competition in one encounter.
 
 ### Mao and Rinami
 
@@ -1094,7 +1094,7 @@ P0/P1 targets should focus on scenes where delivery could discriminate between c
 1. `csprt-2-0001_01` — Temari defending the “awful friend” she was just criticizing: anger target and emotional leakage.
 2. `csprt-2-0011_02` — Kotone's refusal of Sena's money: comedic evasion versus hard financial boundary.
 3. `csprt-2-0015_02` — Temari/Kotone katsudon sharing: degree of embarrassment, resistance, and comfortable familiarity.
-4. `csprt-2-0018_02` — Saki taping Temari's ankle while preserving rivalry tone.
+4. `csprt-2-0018_02` — Saki's offer to tape the injury and the subsequent return to rivalry. The 2026-11-25 paired review resolves the performed sequence. Application of tape remains open.
 5. `csprt-2-0021_01` — Hiro says `友達`; Temari says `違うから`; delivery needed to model label denial correctly.
 6. `csprt-2-0025_02` — Sena realizes Kotone has been watching her: shift from public composure to recruitment excitement.
 
@@ -1167,3 +1167,7 @@ This tranche does not invalidate the established character cores. It adds ordina
 `support_series_2_part_026-050.dialogue.txt`
 
 Do not mark Support Series 2 or Phase 5 complete until the remaining Series-2 and Series-3 tranches are read, indexed, and routed.
+
+## Later Source Lock 1.2 readings of two priority support scenes — 2026-11-25
+
+For `adv_csprt-2-0011_02`, the exact recording supports Kotone giving a marked, syllabic refusal, then specifying debt and income uncertainty while preserving polite delivery. Sena’s offer does not state repayment terms. For `adv_csprt-2-0018_02`, Saki gives practical instruction and promises taping. The physical act remains unshown. Temari’s audience-audible private protest and the ensuing outward challenge keep their distinct roles. [Five support-card adjudications](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

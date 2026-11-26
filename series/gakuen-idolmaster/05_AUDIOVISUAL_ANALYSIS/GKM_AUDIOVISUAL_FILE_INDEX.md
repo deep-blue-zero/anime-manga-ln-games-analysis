@@ -5,21 +5,33 @@ artifact_type: index
 scope: SERIES_AUDIOVISUAL_ARTIFACT_RETRIEVAL
 generation: V2
 status: canonical
-source_boundary: "Repository paths for the 13 existing Phase-3 integrated character AV packages; retrieval index only, with source and recovery qualifications retained in their governing records"
+source_boundary: "Repository routes for 13 Phase 3 packages, supplementary Kanae and distributed Kaya Rinha, with historical scopes and later revision links"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-11 — Rinha distributed AV packet added; perceptual gate open"
+last_updated: "2026-11-25 — later Carbon perceptual material, Kanae package and current Rinha routing"
 ---
 
 # Audiovisual file index
 
-Each character now has one home directly under `05_AUDIOVISUAL_ANALYSIS/`, containing the integrated baseline, dialogue and music specialists, evidence, source manifests and AV release controls. Start with the [character folders](README.md), or browse the [voice index](GKM_VOICE_ACTING_INDEX.md) and [music/performance index](GKM_MUSIC_AND_PERFORMANCE_INDEX.md). The [current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md) governs project state; the [organization audit](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_FILE_ORGANIZATION_AUDIT_20260909.md) records the consolidation.
+The thirteen original Phase 3 rows preserve the release paths and their source/measurement controls. Open a [character home](README.md) for the current recording and claim revisions, or use the [voice index](GKM_VOICE_ACTING_INDEX.md) and [music and performance index](GKM_MUSIC_AND_PERFORMANCE_INDEX.md). Kanae's supplementary package and Rinha's distributed work appear separately. The [current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md) governs phase progress.
 
 A link establishes where an artifact is stored. It does not independently certify every acquisition or measurement claim in that artifact. Retain source-manifest limitations, release-generation boundaries, and the separate recovery/rebuild dispositions when using these records.
 
 The [recovery audit](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records the restored evidence and remaining collection status. Its [integration manifest](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_MANIFEST_20260909.json) preserves the recovery-time paths and hashes at commit `a38e6aa313324b399adc8e7681a21106f730c15d`. The [AV path migration](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AV_PATH_MIGRATION_20260909.tsv) maps those former Git locations to the consolidated homes. Hiro and Misuzu's [AVE-FULL-20260910 rebuilds](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) are adopted. Their [Hiro document map](07_SHINOSAWA_HIRO/00_README_AND_REBUILD_STATUS.md) and [Misuzu document map](11_HATAYA_MISUZU/00_README_AND_REBUILD_STATUS.md) route all rebuilt supporting documents. Source-wide calculations and sampled still review are documented separately from unperformed fresh listening and continuous-motion review. This Git import itself adds no source inspection.
+
+The [five support-card audiovisual adjudications](GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md) route the current direct comparisons for Saki and Temari, Kotone and Sena, Rinami, Tsubame, and Ume and Temari. Character-local current files carry the results and their limits.
+
+[Subsequent story-event playback](GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) covers five guarded parts of Events 002, 003, 004 and 008. It records scoped corrections to performed dialogue, music placement and staging.
+
+The [guarded sports-day and Hiroshima reviews](GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) track performed dialogue, staging and game music separately across ten exact windows. They file limited answers for China, Hiro, Rinami, Ume and Misuzu. The baseball cheer melody itself falls across a scene ellipsis.
+
+The guarded Event 022 and 024 review adds partial recorded answers for Arimura Mao, Fujita Kotone, Hanami Ume, Hataya Misuzu and Juo Sena. It distinguishes fever and recollection, an older-friend exchange, a two-person refusal, a spoken three-person title, an instrumental quote and reported reception. It leaves the concert's sung performance, later uptake, and separate character requirements open. Two existing exact official trio MV reviews also support a shared studio-vocal and authored-picture comparison without adding attendance to those events. [Guarded Event 022 and 024 adjudication](GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+Four guarded Event 023 windows separate a remembered request, Temari's gift and Hiro's distinct mission reports. The recorded delivery establishes which register shifts belong to Misuzu, Temari and Hiro. The two pieces on the in-story disc are reported, with the disc's sound and later playback still open. [Guarded Event 023 adjudication](GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+Six guarded windows extend Event 022’s contrasts in training, practical care and chosen company, and give Mao’s separate Event 003 last-summer reflection a recorded comparison. The source and recording distinguish spoken requests, inward thought, instrumental score and a reported photograph. [Guarded care and summer adjudication](GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 ## Character routes
 
@@ -39,7 +51,7 @@ The controls column links the claim/evidence matrix, source manifest, completion
 | Hanami Ume | [Baseline](10_HANAMI_UME/GKM_UME_COMPLETE_AUDIOVISUAL_BASELINE.md) | [Dialogue](10_HANAMI_UME/GKM_UME_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [Music / performance](10_HANAMI_UME/GKM_UME_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) | [Evidence](10_HANAMI_UME/GKM_UME_AV_EVIDENCE_AND_METRICS_MATRIX.md) · [Sources](10_HANAMI_UME/GKM_PHASE3_UME_AUDIOVISUAL_SOURCE_MANIFEST.json) · [Completion](10_HANAMI_UME/GKM_PHASE3_UME_AUDIOVISUAL_COMPLETION_REPORT.md) · [Audit](10_HANAMI_UME/GKM_PHASE3_UME_AV_DELIVERY_AUDIT.md) · [Hashes](10_HANAMI_UME/GKM_PHASE3_UME_AV_ARTIFACT_CHECKSUMS.sha256) |
 | Hataya Misuzu | [Baseline](11_HATAYA_MISUZU/GKM_MISUZU_COMPLETE_AUDIOVISUAL_BASELINE.md) | [Dialogue](11_HATAYA_MISUZU/GKM_MISUZU_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [Music / performance](11_HATAYA_MISUZU/GKM_MISUZU_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) | [Evidence](11_HATAYA_MISUZU/GKM_MISUZU_AV_EVIDENCE_AND_METRICS_MATRIX.md) · [Sources](11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AUDIOVISUAL_SOURCE_MANIFEST_REBUILD.md) · [Completion](11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AUDIOVISUAL_COMPLETION_REPORT.md) · [Audit](11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AV_DELIVERY_AUDIT.md) · [Hashes](11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AUDIOVISUAL_ARTIFACT_CHECKSUMS.sha256) |
 | Juo Sena | [Baseline](12_JUO_SENA/GKM_SENA_COMPLETE_AUDIOVISUAL_BASELINE.md) | [Dialogue](12_JUO_SENA/GKM_SENA_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [Music / performance](12_JUO_SENA/GKM_SENA_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) | [Evidence](12_JUO_SENA/GKM_SENA_AV_EVIDENCE_AND_METRICS_MATRIX.md) · [Sources](12_JUO_SENA/GKM_PHASE3_SENA_AUDIOVISUAL_SOURCE_MANIFEST.json) · [Completion](12_JUO_SENA/GKM_PHASE3_SENA_AUDIOVISUAL_COMPLETION_REPORT.md) · [Audit](12_JUO_SENA/GKM_PHASE3_SENA_AV_DELIVERY_AUDIT.md) · [Hashes](12_JUO_SENA/GKM_PHASE3_SENA_AUDIOVISUAL_ARTIFACT_CHECKSUMS.sha256) |
-| Amaya Tsubame | [Baseline](13_AMAYA_TSUBAME/GKM_TSUBAME_COMPLETE_AUDIOVISUAL_BASELINE.md) | [Dialogue](13_AMAYA_TSUBAME/GKM_TSUBAME_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [Music / performance](13_AMAYA_TSUBAME/GKM_TSUBAME_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) | [Evidence](13_AMAYA_TSUBAME/GKM_TSUBAME_AV_EVIDENCE_AND_METRICS_MATRIX.md) · [Sources](13_AMAYA_TSUBAME/GKM_PHASE3_TSUBAME_AUDIOVISUAL_SOURCE_MANIFEST.json) · [Completion](13_AMAYA_TSUBAME/GKM_PHASE3_TSUBAME_AUDIOVISUAL_COMPLETION_REPORT.md) · [Audit](13_AMAYA_TSUBAME/GKM_PHASE3_TSUBAME_AV_DELIVERY_AUDIT.md) · [Hashes](13_AMAYA_TSUBAME/GKM_PHASE3_TSUBAME_AV_ARTIFACT_CHECKSUMS.sha256) |
+| Amaya Tsubame | [Baseline](13_AMAYA_TSUBAME/GKM_TSUBAME_COMPLETE_AUDIOVISUAL_BASELINE.md) | [Dialogue](13_AMAYA_TSUBAME/GKM_TSUBAME_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) · [Four support-scene adjudications](13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md) | [Music / performance](13_AMAYA_TSUBAME/GKM_TSUBAME_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) | [Evidence](13_AMAYA_TSUBAME/GKM_TSUBAME_AV_EVIDENCE_AND_METRICS_MATRIX.md) · [Sources](13_AMAYA_TSUBAME/GKM_PHASE3_TSUBAME_AUDIOVISUAL_SOURCE_MANIFEST.json) · [Completion](13_AMAYA_TSUBAME/GKM_PHASE3_TSUBAME_AUDIOVISUAL_COMPLETION_REPORT.md) · [Audit](13_AMAYA_TSUBAME/GKM_PHASE3_TSUBAME_AV_DELIVERY_AUDIT.md) · [Hashes](13_AMAYA_TSUBAME/GKM_PHASE3_TSUBAME_AV_ARTIFACT_CHECKSUMS.sha256) |
 
 ## Placement and version rules
 
@@ -57,14 +69,18 @@ Rinami's [named source inventory](08_HIMESAKI_RINAMI/SUPPORTING_DATA/GKM_PHASE3_
 
 ## Distributed-character continuation
 
-Rinha remains a distributed, non-playable character responsibility. The completed [source crosswalk](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_SOURCE_CROSSWALK.md) and [evidence matrix](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_EVIDENCE_MATRIX.md) govern target selection and source reuse. Her targeted AV request and bounded source/text, selected-mix and sampled-still baseline are now available in the unnumbered [KAYA_RINHA home](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md). Direct listening, continuous-motion discrimination and the subsequent dossier remain open; the thirteen playable-character packages retain their existing scope.
+Rinha's [current AV route](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) brings together the historical accounting, the later paired recorded-scene findings and the Phase 6 dossier. Her original program is separate from the thirteen Phase 3 packages.
 
 Consult the [AV verification queue](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md) for scoped acquisition decisions and the [AV source crosswalk](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_SOURCE_CROSSWALK.md) for cumulative source routing. Source media remain outside the analytical Git corpus.
+
+## Hiwatari Kanae — supplementary at Source Lock 1.2
+
+[Character map](14_HIWATARI_KANAE/README.md) · [Integrated dialogue, song and performance reading](14_HIWATARI_KANAE/GKM_KANAE_INTEGRATED_AUDIOVISUAL_READING.md) · [Evidence and inspection](14_HIWATARI_KANAE/GKM_KANAE_EVIDENCE_AND_INSPECTION.md) · [Gate E sufficiency](14_HIWATARI_KANAE/README.md#gate-e-at-the-current-boundary).
 
 <!-- RINHA_AV_20260911 -->
 ## Kaya Rinha — distributed-character AV responsibility
 
-The unnumbered [KAYA_RINHA packet](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) adds the 18-target source/text, selected-mix and sampled-still pass across 12 retained recordings. It documents 538 distinct inspected frame points, 18 verified selected-mix measurements and 73 claim dispositions. Direct listening and continuous-motion review are both 0 seconds; the perceptual baseline gate and Rinha dossier remain open.
+The unnumbered [current Kaya Rinha AV reading](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) routes the later paired recordings by target. All eighteen targeted scenes meet the dossier's bounded perceptual requirement. The [reviewed dossier](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) closes Phase 6 at the declared boundary. The exact whole-container C073 promotion, a Rinha sung profile and the separately qualified motive claims remain OPEN. The [September document map](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) preserves its source/measurement record of 538 sampled frame points, eighteen selected-mix measurements and zero direct listening or continuous-motion review during that pass.
 
 - [Integrated baseline and 18 scene records](KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md)
 - [Evidence and metrics matrix](KAYA_RINHA/GKM_KAYA_RINHA_AV_EVIDENCE_AND_METRICS_MATRIX.md)
@@ -72,4 +88,6 @@ The unnumbered [KAYA_RINHA packet](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) add
 - [Source identities and 620-message recount](KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md)
 - [Actual review accounting and methods](KAYA_RINHA/GKM_KAYA_RINHA_REVIEW_ACCOUNTING_AND_METHODS.md)
 
-The baseline owns the bounded voice-analysis responsibility; no separate unheard-voice specialist or numbered fourteenth playable-character core is created.
+The current perceptual and historical baselines cover the distributed voice-analysis responsibility alongside the dossier.
+
+[Carbon propagation and claim routes](GKM_CARBON_PROPAGATION.md) links the current reading for all fifteen character packages. Resolve Carbon recording and playback IDs in the [recording identity crosswalk](GKM_CARBON_RECORDING_IDENTITY_CROSSWALK.tsv). Match each recording to its [scoped claim disposition](GKM_CARBON_CLAIM_TRANSITIONS.tsv).

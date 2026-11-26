@@ -17,6 +17,8 @@ status: "active; Phase-3 character audiovisual crosswalk complete at 13/13"
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
 
+The [Carbon recorded-edition crosswalk](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_RECORDING_IDENTITY_CROSSWALK.tsv) resolves the November SRC and playback IDs to registered recordings, individual review objects, source-clock coordinates and edition limits. The stage and dialogue routes below retain their existing project IDs.
+
 ## Schema
 
 | field | meaning |
@@ -125,7 +127,7 @@ The exact byte sizes, hashes, codecs, resolutions, and durations are preserved i
 | Hinamatsuri / `雪解けに` commu | `adv_cidol-amao-3-009_01..03` | `有村麻央 雪解けに 楽曲コミュ` | **STAGED/INSPECTED** — 1080p30 |
 | `ミラクルナナウ(ﾟ∀ﾟ)！` Mao commu / Osaka homecoming | `adv_cidol-amao-3-013_01..03` | exact uploader-facing title: `【楽曲コミュ】ミラクルナナウ(ﾟ∀ﾟ)！【有村麻央】【学マス】`; fallback `有村麻央 ミラクルナナウ 大阪編` | **STAGED/VERIFIED** — 1080p60, AAC-LC ~128 kbps, ~8:44; Osaka/child-actor/parents sequence confirmed |
 | `見て` / Ryuugetsu Maki commu | `adv_cidol-amao-3-015_01..03` | `有村麻央 見て 楽曲コミュ` | **STAGED/INSPECTED** — 1080p60 |
-| `SUGAR FLAVOR` commu | `adv_cidol-amao-3-017_01..03` | `有村麻央 姫崎莉波 SUGAR FLAVOR 楽曲コミュ` | **STAGED/INSPECTED** — 1080p60. *(2026-11-15, GKM-SAA-076)* Mao-side version; Rinami's `adv_cidol-hrnm-3-018_01..03` (CIDOL 018 in the Rinami rows) is a separate, non-additive C4 version of the unit's origin with the opposite initiator |
+| `SUGAR FLAVOR` commu | `adv_cidol-amao-3-017_01..03` | `有村麻央 姫崎莉波 SUGAR FLAVOR 楽曲コミュ` | **STAGED/INSPECTED** — 1080p60. *(2026-11-15, GKM-SAA-076)* Mao’s CIDOL 017 and Rinami’s `adv_cidol-hrnm-3-018_01..03` are separate C4 accounts. Both recall an earlier invitation from Rinami that Mao declined. Mao makes the successful proposal in 017 and Rinami makes it in 018. [Story and recording comparison](../05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/GKM_RINAMI_CARBON_CHARACTER_RECONCILIATION_20261125.md#ripplesign-and-the-two-accounts-of-rehearsal) |
 | Mao `ガラクタロード` | P3 prescribed-song context | `有村麻央 ガラクタロード H.I.F` | **STAGED** — 1080p60 rendered performance |
 
 **2026-08-17 Mao acquisition delta:** the expanded communication boundary is now **complete**: all eight Mao `cidol` sequences and the full Dear spine including 親愛度10.5 are staged. Song communications remain in the Dialogue/Commu source branch; authored MVs, rendered 3DMVs, and full-song objects remain in the separate Music/MV branch.
@@ -213,6 +215,8 @@ See canonical request packet: `GKM_RINAMI_AUDIOVISUAL_BASELINE_AND_REQUESTS.md`.
 Backfill note — 2026-08-17: the logical Dear 028–037 source remains Drive `1GDVAt5evYW4KoNAxLcZW5r3-u8qkW1Vn` (549,927,147-byte provenance object). Direct inspection used the equivalent 720p30/AAC-LC chat-upload materialization (195,093,333 bytes; SHA-256 `d95d80b4df9e104b4ed8a9c6f1c3c612f5907260f2e7b426eecafb537601a591`). This closes the former late acted-source gap without increasing the logical source count.
 
 Canonical AV authority: `GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md`. The old request packet is superseded provenance.
+
+**Dear 011–020 recording locator, 2026-11-25.** 学マスコミュ保管委員会 published the Sumika compilation used for both editions. The Phase 3 manifest registers `SRC-0332` as a 720p30 file (288,540,028 bytes, SHA-256 `2cb5662547df16aa4fb02b89367c81ee21836dbfb0858fb767a9773f9fe9096f`). The paired local review used `LP-MEDIA-036`, the complete 360p30 rendition with Japanese audio (YouTube formats `134+139`, SHA-256 `f54f76b5129f9abb9f55ac34c755fbc6d043ae806ad94bce468b20b8370558ed`). Its cues use that rendition’s clock. PEND-016 still requires the historical file and a match to its registered checksum. [Public upload](https://www.youtube.com/watch?v=RDhJDf7sO9o) · [Phase 3 source manifest](../05_AUDIOVISUAL_ANALYSIS/09_SHIUN_SUMIKA/GKM_PHASE3_SUMIKA_AUDIOVISUAL_SOURCE_MANIFEST.json) · [Recording identities](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_RECORDING_IDENTITY_CROSSWALK.tsv) · [Historical-edition requirement](GKM_CARBON_RESIDUAL_EVIDENCE_REGISTER.md#historical-edition-and-acquisition)
 
 ## Phase 3 Kotone source crosswalk — 2026-08-15
 
@@ -450,7 +454,7 @@ R2 source note: the high-resolution Dear 021–027 and 028–037 files replace o
 
 All 18 planned targets reference one of 12 retained physical compilations in the [source manifest](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md). The [target map](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/SUPPORTING_DATA/target_map.json) binds unchanged RINHA-AV/RINHA-XW IDs to exact A1 paths and source SHA-256s through the manifest. Caption points confirm scene identity; conservative envelopes are not exact frame cuts or complete word alignments.
 
-Ume11–20 is a new 1080p materialization distinct from historical 720p AV-UME-013; no byte-equivalence or independent-story credit is claimed. EVENT016 is 996×1920 portrait and its embedded chapter labels are shifted; actual main-03 captions govern its locator. Support0097-02 has nine Rinha messages and an independent fan utterance at 174.000s. All media are present; audible performance and continuous movement remain unreviewed.
+Ume11–20 is a new 1080p materialization distinct from historical 720p AV-UME-013; no byte-equivalence or independent-story credit is claimed. EVENT016 is 996×1920 portrait and its embedded chapter labels are shifted; actual main-03 captions govern its locator. Support0097-02 has nine Rinha messages and an independent fan utterance at 174.000s. All listed media were present in the September inventory. Listening and continuous-motion review remained open in that pass. The [later paired Rinha reading](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) records the perceptual scopes and separate whole-container hold.
 
 
 ## Source Lock 1.1 — transcript refresh, 2026-11-12
@@ -459,7 +463,7 @@ The [Carbon register](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKE
 
 ## Source Lock 1.2 — transcript refresh, 2026-11-15
 
-The following Kanae A1 matches have **AV-C** script authority. ADV timeline positions are from commands. Matching them to a recording and measuring its offsets are separate work.
+The following Kanae A1 matches have **AV-C** script authority. ADV timeline positions are from commands. Matching them to a recording and measuring its offsets are separate work. The pending cells preserve the November 15 matching state. For later recorded outcomes and residual questions, see the [current Kanae evidence table](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_EVIDENCE_AND_INSPECTION.md).
 
 | Target | A1 original and physical line | Script identity | Media match |
 | --- | --- | --- | --- |
@@ -470,3 +474,57 @@ The following Kanae A1 matches have **AV-C** script authority. ADV timeline posi
 | AV-HKNE-R88-05 | `adv_live_hkne_001_start/end-01..04-01.txt`; seven `adv_pstep_001_cmmn_` originals in [delta](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261115.tsv) | Paired crowd metadata for 01–03. 04 start has voice commands at L7–8. Seven `cmmn` steps bind Kanae at L2 and use `{voice_asset_id}` placeholders at L12, 10, 12, 14, 13, 14 and 11 in order of the filenames in the delta. *(2026-11-15, GKM-SAA-265, AV-C staging)* `adv_pstep_001_cmmn_before-rest-01-hkne.txt` L1 uses `env_2d_adv_outschool-kcnahouse-out-00-noon`, the same exterior as `before-rest-01-kcna`; `adv_pstep_001_cmmn_after-odekake-01-d-02.txt` L1 ends on `env_3d_adv_toschool-00-00-night`, where the base `after-odekake-01-d` uses `env_2d_adv_dormitory-gate-00-night`. This is consistent with Kanae's live-in service (`adv_dear_hkne_000-01-horizontal.txt` L623). Counterevidence: a rest-day location is not itself a statement of residence, and Produce Series 003 rest steps have no house variants. | pending dispatch and voice asset resolution |
 
 Dear 007 L418 names a China H.I.F. monitor asset in a retrospective scene. The opening joint performance in the same script is separately framed as Kanae's dream. Use the actual assessment commands in Dear 009 to identify the pass performance. See the [AV verification queue](GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md#source-lock-12--transcript-refresh-2026-11-15).
+
+## Recorded Event 016 parts 2 and 5 — 2026-11-25
+
+SRC-0041 binds the registered five-part Event 016 source. A preserves encoded historical picture and audio packets in the attended parent interval 487.5–610.5 s for part 2, and B in 1315.5–1414.5 s for part 5. The same parent serves the already accepted part 3 comparison. Children have separate clocks and payload SHA-256, and no whole-parent listening or full-motion inspection is credited for this follow-up. [Binding and acceptance](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Tsubame support-scene scopes — 2026-11-25
+
+The Japanese support scripts join to four exact recorded editions. Original scope is `SRC-0085` 0.200–105.700 s, `SRC-0087` 190.000–311.500 s, `SRC-0090` 260.000–380.550 s and `SRC-0092` 204.500–306.250 s. Ordered encoded audio and picture packet matches support the attended windows. Exact parent frame checks and approximate heard onsets have different precision. The whole-parent hashes establish identity. [Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Narrow delivery reviews — 2026-11-25
+
+The registered support ranges of SRC-0088 at 127–222 s and 234–322.65 s join `adv_csprt-3-0082_02` and `adv_csprt-3-0082_03`. SRC-0039 at 1174–1225 s joins `adv_event_001_main-05`. The [paired adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md) identifies the measured child-to-parent offsets, written cue roles and observed delivery limits.
+
+## Exact playback editions for five support cards — 2026-11-25
+
+These newly reviewed editions witness already admitted Source Lock 1.2 support scripts. Original time is in seconds on the complete titled parent recording. Review occurred within the registered portions, through packet-matched derivatives. The [adjudications](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md) record full parent digests, exact source-to-child clocks, capabilities and unresolved scope.
+
+| Locked script | Retained recording edition | Inspected original interval |
+| --- | --- | --- |
+| `adv_csprt-2-0018_02` | [6olQr2D94ZA](https://www.youtube.com/watch?v=6olQr2D94ZA), stream selection 137+251 | 80–174.5 s |
+| `adv_csprt-2-0011_02` | [fMBRGgIgj1c](https://www.youtube.com/watch?v=fMBRGgIgj1c), stream selection 137+251-1 | 68–136.95 s |
+| `adv_csprt-1-0004_01` | [8FpuXBIAx_4](https://www.youtube.com/watch?v=8FpuXBIAx_4), Japanese native episode | 0.15–89 s |
+| `adv_csprt-3-0071_03` | [r41O7nY6FvI](https://www.youtube.com/watch?v=r41O7nY6FvI), Japanese native episode | 172–270.5 s |
+| `adv_csprt-2-0067_02` | [x6mcJ4AOFDw](https://www.youtube.com/watch?v=x6mcJ4AOFDw), stream selection 299+140 | 113–211.95 s |
+
+## Exact playback editions for four events — 2026-11-25
+
+[Five guarded reviews across four events](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) join existing A1 event scripts to Japanese-audio rendered editions. Two windows share the same E003 parent. The media files and playback receipts stay in local custody. Parent hashes, child hashes, offsets and scene limits appear in the linked adjudication.
+
+| Locked script | Original edition | Attended original interval |
+| --- | --- | --- |
+| `adv_event_002_main-05` | [usIfiHFGTcE](https://www.youtube.com/watch?v=usIfiHFGTcE), 243+251 | 985–1046 s |
+| `adv_event_003_main-02` | [zEWk-pQjFOQ](https://www.youtube.com/watch?v=zEWk-pQjFOQ), 243+251 | 585.4–669 s |
+| `adv_event_003_main-03` | same E003 edition | 920.5–1034 s |
+| `adv_event_004_main-04` | [eOXV4EBQ5Cs](https://www.youtube.com/watch?v=eOXV4EBQ5Cs), 137+251-1 | 733.5–931 s |
+| `adv_event_008_main-02` | [Wv7SjawFhvc](https://www.youtube.com/watch?v=Wv7SjawFhvc), 399+251-1 | 246.2–404.6 s |
+
+## Exact playback editions for the sports day and Hiroshima — 2026-11-25
+
+The [ten-window edition table](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) binds the full `KRs6HqaQdkg` sports-day and `XEmmMRaYPdI` Hiroshima recordings to five Japanese ADV chapters and ten attended extracts. W08’s three reviewers used the original-tail MKV derivative with exact audio endpoint. Its picture/container endpoints are distinct. Same-show context in another part supplies no coverage extension.
+
+## 2026-11-25 guarded Event 022 and 024 receipt
+
+The Event 022 parent edition is `0GYf2Vyyr-Q` and the Event 024 parent edition is `aS6q0UHUt_0`. The exact four child hashes, guard and parent intervals are recorded in the cited review. The native parent files were unopened by the three listeners per cut. Parent frames and mixed numerical signal were checked within receiving scope. The vocal language was reported by the listeners, independently of parent tags. A separate publisher game-size Rinami mix serves as a backing reference for the `ENDLESS DANCE` instrumental quotation. It supplies no character appearance or singer attribution in the event. Retain `SRC-0387` as the distinct publisher trio audio and authored picture edition with an older paired exact receipt. Keep renderer-only and solo editions distinct.
+
+[Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded Event 023 — 2026-11-25
+
+Retained Japanese parent video `0Ir39nG7XgI` supplies four exact scene witnesses at revision 88. Parent ranges are A part 03 [442.5, 649), B part 04 [653, 877), C part 05 [881.5, 1097), and D part 01 [10, 180). The native observers received distinct packet-bound children, with picture and audio clocks accounted separately. The report records the parent and child digests, attended intervals and separate control samples. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+The retained `0GYf2Vyyr-Q` parent provides five separately guarded windows in Event 022 parts 01 and 05. The `zEWk-pQjFOQ` parent supplies a distinct Event 003-05 guard. Both have named earlier nonoverlapping chapter reviews. The adjudication records exact parent-child digests, guarded clocks and actual modes of inspection. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

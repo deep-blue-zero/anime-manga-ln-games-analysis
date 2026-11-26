@@ -6,6 +6,48 @@ Recorded assessments of subjects in the `ntr-netsuzou-trap` namespace of the [Ch
 
 ## Recorded assessments
 
+### Subject `ntr-netsuzou-trap:fujiwara@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/ntr-netsuzou-trap/fujiwara@manga.jsonl`](../reconstruction_capabilities/ntr-netsuzou-trap/fujiwara@manga.jsonl)
+
+<a id="ntr-netsuzou-trap-fujiwara-manga-monograph-20261122-01"></a>
+
+#### Assessment `ntr-netsuzou-trap-fujiwara-manga-monograph-20261122-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `ntr-netsuzou-trap:fujiwara`
+- Scope: continuity `ntr-netsuzou-trap-manga`
+- Source boundary: Only the subject's one curated REVIEWED item at basis\_commit, read in full with its front matter: the active\_provisional mainline literary monograph on Fujiwara \(18,956 bytes; exact Japanese manga V01-V06 and explicitly routed embedded material, located by VNN SNNNN image order\). Speech is written Japanese as the monograph characterizes it; it quotes almost none of his wording, and no acoustic voice is admitted. The project's Fujiwara evidence ledger, six-state operational model, relationship and ensemble syntheses, sequential readings, cumulative ledgers, local validation audit and LateWinter materials are cited or implied by the monograph but are not curated on this subject, and no claim rests on them beyond what the monograph states, including its own reports of the F-R01 to F-R04 forecast results. The LateWinter afterstory, external side stories, the V02 adult parallel, adaptations and translations are excluded. No primary source was inspected.
+- Temporal boundary: Fujiwara across the Japanese manga mainline V01-V06. Default state: V06 after the publication of the photograph, its attribution to him, his punch-restrained and later unrestrained justifications \(S0010-S0011, S0131-S0132\) and his testimony about Hotaru \(S0107-S0111\), with no remorse or accountability transition shown. Earlier states are used at their located volume: V01 the kick \(S0067-S0068\), insinuation from observed tenderness and the public couple form; V02 the explicit access-for-silence demand and the photograph \(S0110-S0112, S0156-S0158\); V03 deletion and the revealed forwarded copy \(S0006-S0008, S0038-S0040\), preparation advice and reports to Yuma; V04 the earlier H/F dating history and contract terms \(S0020-S0031, a past montage placed before Takeda's confession to Yuma\), silence framed as a favor without a new demand, the identity prescription to Yuma and the tentative exposure intent \(S0145-S0146\); V05 holding Hotaru, the disclosure-permission question, the push and paternity statement and the peer viewing \(S0153-S0156\). The embedded cooking extra \(V05/S0162\) and the V06 school-return scene keep their own placement. The boundary limits evidence, not knowledge: what he has observed or retained is his from the located point, and he is never credited with knowledge the monograph withholds from him, such as Hotaru's relocation.
+- Basis commit: `998f0fc84030f819dd022014cec095840e47f918`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `652cb7dcc13646648cd5ab692d7a65d103c596132581ef3879121beb38e58ca7`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `CROSS_SCENARIO` condition: Select the state first: the V06 default, or a located V01-V06 state with only what he has observed or retained there.
+  - `CROSS_SCENARIO` condition: When he holds information another person lacks, present the located uses as available \(insinuation, withheld specifics, a taunt, a conditional access demand, silence framed as a favor, disclosure pressure, exposure\); do not forecast which, and do not make the access demand the default, since it was absent at the V04 and V05 windows.
+  - `CROSS_SCENARIO` condition: When confronted after a harm, present a justification that recasts the act as a service or a wake-up to its supposed beneficiary, and no remorse transition; this follows the bounded F-R04 support only.
+  - `CROSS_SCENARIO` condition: He may supply useful, partly true information while framing it with an overreaching motive or identity claim; useful testimony is not redemption and not a forecast of reform.
+  - `CROSS_SCENARIO` condition: Physical force is located \(the kick, the holding, the push\) and stays available in a matching confrontation without being forecast; no sexual content, no determination of anyone's consent, and no technical detail of dissemination.
+  - `CROSS_SCENARIO` bounds: chronology The V06 default after publication, attribution and the S0131-S0132 exchange, or a located V01-V06 state with only the knowledge he has there.; interlocutor Takeda as the friend he withholds from and claims to serve; Hotaru as his contract partner under unequal enforcement; Yuma as the secret-holder he pressures. Any other relationship is a separate, lower-confidence transfer.; settings School, the trip, private rooms, phone and computer settings matched to the located scenes.; No LateWinter afterstory, external side story, adult-parallel continuity or future reckoning.; Written-Japanese interpretation only; no generated dialogue presented as his voice.
+  - `ETHICAL_DELIBERATION` condition: Matched questions only: whether knowing a concealed fact licenses withholding, pressure, disclosure or publication, and accountability after such an act.
+  - `ETHICAL_DELIBERATION` condition: Present his located justifications \(others' concealment, waking the beneficiary, silence as a favor, asking permission to tell\) and his overreach in assigning motive or identity.
+  - `ETHICAL_DELIBERATION` condition: Do not invent a weighing, remorse or accountability transition the source does not show.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `dissemination-chain-unshown` (evidence-backed limitation): The technical upload, authenticated account, complete chain and total reach of the publication are unshown, and pressure-conditioned deletion is not proof that all copies are gone.
+  - `forecast-results` (evidence-backed limitation): The monograph reports that F-R01 anticipated a taunt-and-leverage order but not the photograph, demand or publication; F-R02 had its conditional-demand component missing in V04; F-R03 missed at the first V05 window; F-R04 has bounded support only.
+  - `monograph-provisional` (evidence-backed limitation): The monograph's authority status is active\_provisional, so claims resting on it are provisional.
+  - `next-strategy-undetermined` (evidence-backed limitation): The monograph states that his exhaustive motive and the conditions that determine his next strategy, including when private leverage becomes public intervention, remain uncertain.
+  - `no-accountability-transition` (evidence-backed limitation): No remorse, rehabilitation or future reckoning is shown; silent presence in the school-return scene is not rehabilitation.
+  - `no-identity-assignment` (evidence-backed limitation): No given name, sexuality, diagnosis or orientation is assigned; his professed dislike of women is self-presentation.
+  - `operational-instruments-uncurated` (evidence gap): The Fujiwara evidence ledger, six-state operational model, speech evidence, relationship syntheses and validation audit are not curated on this subject; no decision policy is cited beyond the monograph's own reports.
+  - `outside-mainline` (evidence gap): The LateWinter afterstory, external side stories and adaptations are outside this evidence; nothing after V06 is admitted.
+  - `sparse-interiority` (evidence-backed limitation): Interior access is sparse: one clear private deliberation \(V04/S0145-S0146\), with self-presentation and testimony kept distinct from inner constitution.
+  - `unestablished-incidents` (evidence-backed limitation): The V02 bruising cause and the act and permission of the V01 room encounter are not established; only the located kick, holding and push are observed force.
+- Evidence at basis commit:
+  - [`ntr-netsuzou-trap:fujiwara@manga#reviewed-mainline-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/998f0fc84030f819dd022014cec095840e47f918/series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_FUJIWARA_MONOGRAPH.md)
+
 ### Subject `ntr-netsuzou-trap:hotaru-mizushina@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/ntr-netsuzou-trap/hotaru-mizushina@manga.jsonl`](../reconstruction_capabilities/ntr-netsuzou-trap/hotaru-mizushina@manga.jsonl)

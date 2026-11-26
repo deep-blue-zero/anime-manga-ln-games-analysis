@@ -7,13 +7,23 @@ version: "2.1"
 phase: "3 — Character-Core Readings / Audiovisual Baseline"
 character: "Tsukimura Temari / 月村手毬"
 created: "2026-08-15"
-revised: "2026-11-15"
+revised: '2026-11-25 — Carbon write-through'
 revision_note: "Source-to-analysis audit 2026-11-15 corrections: REVISE of the Dear 035–037 address attribution in §6 and REVISE (qualification) of the self-love evidence in §10; no new AV observation."
 status: "canonical revision layer; original textual core remains preserved"
 revises: "GKM_CORE_02_TSUKIMURA_TEMARI.md"
 ---
 
 # TSUKIMURA TEMARI — AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+E001-02 uses Sumika's higher, breathier imitation, beginning after the score has receded. Temari's 16 horizontal bars are an actual displayed reaction. Her later reformulation and proposed class nicknames have distinct intervals and do not prove what she thought at the earlier beat. In E016-03 Rinha's remembered voice and Temari's present lesson provide different speakers and roles. Dear 037's written bars, faint visual rendering and audible reply likewise remain separate. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/02_TSUKIMURA_TEMARI/GKM_TEMARI_CARBON_CHARACTER_RECONCILIATION_20261125.md). Earlier accounting and source locks below describe their own revisions.
+
+In the separate Animate event, Temari’s hesitant public invitation follows a low peer-directed prompt. The audience next hears her inner uncertainty at L262. This is an authored private thought left unspoken to Saki. Her open apology and her later competitive answer to Kotone are separate turns. The customer’s text at L90 explicitly identifies personal fandom; no individual customer voice was established. [Animate fan encounter](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)
+
+## Recorded support 2-0018 and 2-0067, part 02 in each — 2026-11-25
+
+**STRENGTHEN** the difference between what Temari lets her listener hear and what the audience hears. Temari’s choked inner protest after Saki agrees with her self-criticism differs from her more controlled challenge to Saki. With Ume, Temari voices gratitude and explains why the dog seemed safe to touch. That explanation is separate from the prior private thought. Her later explicit objection concerns touch. Her position on Ume’s separate friendship inference remains **OPEN**. [Character audiovisual update](../../../05_AUDIOVISUAL_ANALYSIS/02_TSUKIMURA_TEMARI/GKM_TEMARI_CARBON_CHARACTER_RECONCILIATION_20261125.md#spoken-and-inward-responses-in-two-support-scenes--2026-11-25)
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Two textual corrections from the source-to-analysis audit; no audiovisual material was re-inspected. §6: the given-name step in Dear 037 is the Producer's, not Temari's request (REVISE; GKM-SAA-006). §10: the self-love evidence is qualified by mediated belief, a pre-verdict U1 line and a rank-independent P1 anchor; unconditionality stays unresolved (REVISE; GKM-SAA-046). Earlier wording is quoted in each dated note.
 
@@ -302,3 +312,7 @@ The future Phase-7 monograph should organize Temari around five linked systems:
 5. **co-authorship and enclosure** — relationships that increase agency while concentrating dependence.
 
 Events and support cards must test whether the capacities shown in climax-level Dear Idol and song commus generalize to ordinary life.
+
+## Recorded Event 023 evidence — 2026-11-25
+
+**STRENGTHEN**, exact scene scope. Temari disputes Hiro's label at L197, asks for advice at L219–223, declines the video at L310–319 and invites her to shop at L344. Hiro responds at L346 and L355. These are separate audible acts in part 01. Misuzu at L272 is recalled and Rinha is imagined. Their distinctly authored modes bound the comparison. [Guarded Event 023 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md#disputed-closeness-and-accepted-help)

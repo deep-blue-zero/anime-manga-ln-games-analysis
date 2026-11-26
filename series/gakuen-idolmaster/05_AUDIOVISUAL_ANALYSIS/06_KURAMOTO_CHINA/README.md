@@ -10,12 +10,16 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-09"
+last_updated: "2026-11-25 — Carbon clip, edition and claim routing"
 ---
 
 # Kuramoto China — audiovisual analysis
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
+
+A quiet reply to Hiro turns into a wider class appeal in Event 014. Saki’s later recognition follows a different exchange. In Hiroshima the equipment interruption, China’s invitation and the crowd noise and thanks have playback support. The story passes over the actual performance of the baseball song. [Event 14 finding 1](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#china-shifts-from-addressing-a-teammate-to-calling-in-the-class) · [Event 15 finding 2](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#the-crowd-scene-reports-a-cheer-that-playback-elides)
+
+Begin with the [current Carbon update](GKM_CHINA_CARBON_AV_UPDATE_20261125.md) for later source bindings, dialogue and performance limits and current sufficiency. The original specialists and controls below preserve the Phase 3 delivery.
 
 Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.
 

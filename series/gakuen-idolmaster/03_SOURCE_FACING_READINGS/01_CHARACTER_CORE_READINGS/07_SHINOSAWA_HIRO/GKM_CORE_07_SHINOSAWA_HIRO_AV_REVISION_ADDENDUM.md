@@ -9,7 +9,7 @@ source_boundary: "AVE-FULL-20260910: 33 source recordings computationally proces
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-09-10'
+last_updated: '2026-11-25 — Carbon write-through'
 title: Gakuen Idolmaster V2 — Shinosawa Hiro Phase-3 AV Revision Addendum
 parent_authority: GKM_CORE_07_SHINOSAWA_HIRO.md
 ---
@@ -21,6 +21,10 @@ parent_authority: GKM_CORE_07_SHINOSAWA_HIRO.md
 
 
 # GKM CORE 07 — SHINOSAWA HIRO AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+The earlier Dear 021 script scene contains Hiro's engagement utterance and the Producer's denial. The distinct finished SRC-0173 stereo at 2513–2525.8 s has two separate anonymous hearings of the spoken credits phrase inside the arranged musical frame. Wording of the final vowel stays qualified. A separate line, the sung lead and the relation in the narrative have separate evidence. The recorded utterance does not settle mutual intimacy or body causality. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/GKM_HIRO_CARBON_CHARACTER_RECONCILIATION_20261125.md). Earlier accounting and source locks below describe their own revisions.
 
 ## 0. Authority
 
@@ -130,3 +134,7 @@ The prior execution's visual evidence covered every source ID at its declared sa
 - H13 samples remain derivative locators; similarity to an H12 stage image is not independently established canonical chronology. H16/H33 sampled cover images remain recording-level controls.
 
 At that prior stage, the 20 disposition categories stayed unchanged. Those added visual facets do not imply direct listening or a full continuous audiovisual re-performance of the historical pass.
+
+## Recorded Event 023 evidence — 2026-11-25
+
+**STRENGTHEN**, exact scene scope. In part 03 Hiro names one successful mission after Temari says the clue helped. In part 05 she speaks a separate report, names a double-spy role and says she resolved both worries and enjoyed herself. Part 05 L393's final word is post-roll. Part 04 L318's ending separately exceeds its guard. [Guarded Event 023 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)

@@ -344,9 +344,11 @@ Part 3 gives Mao another ordinary preference and a privacy boundary. Sena accomp
 
 Tsubame teaches China across three domains: council paperwork, idol performance, and academics. In each case, the surface register is severe. She catches errors immediately, demands repetition, and refuses to let enthusiasm substitute for accuracy.
 
-What makes the evidence important is the amount of labor underneath the severity. When China struggles with council work, Tsubame re-explains the process rather than simply dismissing her. In idol training, China asks for another attempt after a poor run; Tsubame privately recognizes the persistence that Sena values and continues. In academics, Tsubame has prepared custom worksheets specifically for China and apparently stayed late making them. Sena and Rinami expose that effort, embarrassing her.
+What makes the evidence important is the amount of labor underneath the severity. When China struggles with council work, Tsubame re-explains the process rather than simply dismissing her. In idol training, China asks for another attempt after a poor run; Tsubame privately recognizes the persistence that Sena values and continues. In part 3, Tsubame says she brought a worksheet prepared for China. Sena says Tsubame appears to have made it herself until late and recalls her pacing in the council room on an earlier occasion. China calls the instruction kind. Tsubame objects that she can hear them and tells China to return to her seat. It is Rinami who privately interprets her reaction as embarrassment.
 
 China also supplies a socioeconomic correction. Asked how a Kuramoto heiress can be weak in academics, she cheerfully answers that she was probably spoiled. The more important formulation follows: she may lack confidence in herself, but she is confident that she has been loved. Wealth has created unusual skills and deficits; it has not created emotional neglect by default.
+
+In SRC-0090 (260.0–380.55 s), China answers Tsubame brightly, accepts the lesson, and later tells the others how she experiences it. Tsubame sighs before introducing the worksheet. Both listeners hear her stammered protests. Her cheeks appear flushed in the samples of Tsubame after she hears the doorway conversation. Neither earlier episode that Sena describes appears in this exchange. [Part 03 recording and speaker attributions](../../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 ### Claim transitions
 
@@ -498,9 +500,9 @@ Kotone's workplace competence is on full display. During an understaffed rush sh
 
 Tsubame's concern appears first as criticism of management: if one illness creates this much strain, the people in charge have failed to staff properly. Kotone recognizes the concern beneath the severity and openly teases her about it. This is an important interactional skill on Kotone's side—she can translate Tsubame's armored language into its practical intent without demanding softer wording.
 
-Kotone also predicts Tsubame's preference well enough to recommend a matcha dessert. After the shift, Tsubame waits, gives her a sweet drink, checks the state of her academics, and notes that other people are worried too. Kotone acknowledges that the council has already arranged accommodations around her employment. When she asks for help with a retest, Tsubame immediately schedules tutoring.
+Kotone also predicts Tsubame's preference well enough to recommend a matcha dessert. Tsubame is there when the shift ends. She asks whether Kotone has finally finished. Kotone asks whether she waited, and Tsubame says it was a coincidence and offers a drink. Tsubame says she has heard about the failed midterm, others worry too, and she can help if anything is troubling Kotone. Kotone mentions the help she has already had with her job before asking for tutoring for a retest.
 
-The gift that seals the exchange is not money. Kotone has saved a collaboration item from `天威無峰シルヴェスタ` because she correctly predicted Tsubame would like it. Tsubame accepts while trying to preserve dignity.
+Kotone then offers a collaboration item a customer gave her. Tsubame recognizes it, accepts and specifies the next day’s library meeting. Kotone’s closing thought tells us she had wanted to give it to the vice-president because she thought she would like it. Tsubame's concern and offer to listen precede the gift. The scene leaves open whether it influenced the particular appointment. In SRC-0087 (190.0–311.5 s), Tsubame’s quick, breathy recognition gives way to a formal reply. The sampled caption at 287.550 s spells the title `天衣無縫シルヴェスタ`, while the revision 88 script (L165) spells it `天威無峰シルヴェスタ`. [Part 03 recording and edition readback](../../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 ### Claim transitions
 
@@ -517,12 +519,12 @@ The quartet's karaoke trip reveals several mundane preference layers. Rinami reg
 
 Rinami's anime song creates a family-history anchor. Her parents were often away for work, so she and her younger sister watched anime together in the evenings. They even submitted illustrations to reader sections (this detail comes from `adv_csprt-3-0074_01` L133, not from `story_0071`, whose anime line is `adv_csprt-3-0071_02` L33; locator tagged 2026-11-15, HSCA-123; see §25). Mao has heard the song enough during repeated karaoke outings with Rinami to know it herself. This gives mature peer friendship a texture of repeated hobby exposure rather than only high-stakes mutual support.
 
-The arcade scene addresses public hierarchy. Tsubame beats Sena at a dance game but suspects Sena was not fully serious. Then strangers immediately recognize Sena and ask for an autograph, reinforcing the visibility gap between No.1 and No.2. Tsubame uses the familiar “second-highest mountain” analogy to describe the asymmetry. A different student then recognizes **Tsubame** specifically and praises the dance she just performed. Mao's response is the correct reconstruction cue: people are watching Tsubame too.
+The arcade scene tests Tsubame's sense of public hierarchy. Tsubame says she won the dance game and suspects Sena held back. The recording omits the live match and score. In the first encounter, one student identifies Sena and another asks her for an autograph. Tsubame uses the second-highest mountain analogy to express her sense of the difference. A third student recognizes Tsubame and praises her dance with Sena. The student turns appear as unvoiced captions in this edition. Tsubame's hesitant thanks and Mao's final response support recognition in this encounter.
 
 ### Claim transitions
 
 - **Sena — STRENGTHEN:** current idol fandom remains active; professional status does not displace fan pleasure.
-- **Tsubame — PROMOTE/STRENGTHEN:** No.2 insecurity includes public-recognition asymmetry, not only competitive score difference. Recognition from an individual observer matters.
+- **Tsubame — STRENGTHEN:** her second-place concern includes whether people see her contribution. A student's particular recognition matters to her; broader relative visibility remains open.
 - **Rinami — STRENGTHEN:** anime/fanart history is a real childhood hobby layer connected to younger-sister companionship.
 - **Third-year quartet — STRENGTHEN:** repeated private leisure has enough history that tastes and songs migrate between members.
 
@@ -920,7 +922,7 @@ This tranche supplies several high-value register distinctions for downstream sp
 5. `adv_csprt-3-0065_03` — Temari's reverse jealousy, recognition of Misuzu's cooking, and Kotone's brokerage.
 6. `adv_csprt-3-0066_03` — Sena saying Hiro's barely viable live nevertheless reached her emotionally.
 7. `adv_csprt-3-0067_01` — Hiro/Misuzu closeness, Misuzu's panic, and Temari's jealous/delegating response.
-8. `adv_csprt-3-0070_03` — Tsubame waiting for Kotone, academic concern, and the `シルヴェスタ` gift reveal.
+8. `adv_csprt-3-0070_03` — Kotone asking whether Tsubame waited, Tsubame’s stated concern, and the `シルヴェスタ` gift reveal.
 9. `adv_csprt-3-0071_03` — Tsubame's No.2 recognition anxiety followed by direct recognition from a student.
 10. `adv_csprt-3-0074_03` — Lilja's homesickness and Rinami's older-sister-coded response.
 
@@ -931,7 +933,7 @@ This tranche supplies several high-value register distinctions for downstream sp
 13. `adv_csprt-3-0054_03` — reveal of Lilja's extreme fighting-game rank and social embarrassment.
 14. `adv_csprt-3-0056_01` — Sena explicitly naming Tsubame as childhood friend and council support.
 15. `adv_csprt-3-0057_02` — Saki/Temari/Kotone disagreement over whether reciprocal utility counts as friendship.
-16. `adv_csprt-3-0062_03` — Tsubame's custom worksheets and embarrassment when the preparation is exposed.
+16. `adv_csprt-3-0062_03` — Tsubame's worksheet, her protest after overhearing Sena and Rinami, and Rinami's private reading of that protest.
 17. `adv_csprt-3-0063_03` — China identifying Lilja's cosplay and Lilja's panic over volume/publicity.
 18. `adv_csprt-3-0075_02` — China's childhood account of wealth, lessons, social difference, and present family belonging.
 
@@ -1070,3 +1072,7 @@ For Phase 7 character modeling, the tranche also substantially improves **domain
 For Phase 8, the institutional implications are increasingly strong: student council, dorm life, family networks, local commerce, ordinary-course clubs, employment, and peer mentorship all function as connected support infrastructure. Hatsuboshi's social system works not because every relationship is harmonious, but because multiple routes remain available when one route is blocked.
 
 The next architecture-defined support boundary is `support_series_3_part_076-102.dialogue.txt` → `GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READING.md`.
+
+## Later Source Lock 1.2 reading of the arcade recognition — 2026-11-25
+
+In `adv_csprt-3-0071_03`, Tsubame reports winning and asks whether Sena held back. The native extent leaves the game and score display outside the shown evidence. After separate students identify Sena and request her autograph, another student recognizes Tsubame and praises their dance. The student recognitions are printed. Tsubame’s own thanks is audible. The result qualifies a categorical reading of invisibility while leaving general public recognition and Sena’s intent open. [Five support-card adjudications](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)

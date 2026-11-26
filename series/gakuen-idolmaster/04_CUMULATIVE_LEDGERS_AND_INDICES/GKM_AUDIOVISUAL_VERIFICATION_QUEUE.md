@@ -2,13 +2,13 @@
 title: "Gakuen Idolmaster V2 - Audiovisual Verification Queue"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.8"
+version: "2.11"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit AV routing (Carbon handoff version 3); RINHA-AV-20260911 state unchanged"
-revised: "2026-11-15"
-revision_note: "v2.8 routing addition (source-to-analysis audit 2026-11-15; every routed question enters as OPEN, no claim changed, no closed queue reopened): cross-references the 36 audit candidates of Carbon supplement GKM-AV-CARBON-20261115-SAA, narrows the E001 main-02 request to delivery, timing and Temari's reaction (GKM-SAA-272) and records already-queued audit items"
-status: "active; Rinha source/text, selected-mix and sampled-still pass delivered; listening, motion and dossier gate open"
+last_updated: "2026-11-25 — Carbon character and claim write-through"
+revised: "2026-11-25"
+revision_note: "v2.10 resolves one recorded support P0 at its observed scope. v2.9 event and support outcomes remain separately dated."
+status: "active; Phase 6 complete at Source Lock 1.2; Phase 7 dialogue and performance requests individually adjudicated"
 ---
 
 # AUDIOVISUAL VERIFICATION QUEUE
@@ -318,7 +318,7 @@ Remaining Phase-3 character AV queue: **none**. All 13 character baselines are c
 | `AV-SENA-M04` | P0 | `Cosmetic` full audio + official Game Size lyric video | glamorous/sensual contemporary-pop diva counter-register; authority vs desirability/attention | REQUESTED |
 | `AV-SENA-G01` | P0 | `Campus mode!! [十王星南]` | academy inheritance | REQUESTED |
 | `AV-SENA-G02` | P1 | `初 [十王星南 Solo ver.]` | inherited repertoire / firstness | REQUESTED |
-| `AV-SENA-G03` | P0 shared | `ENDLESS DANCE` Sena/Ume/Misuzu | shared-stage focality | REQUESTED |
+| `AV-SENA-G03` | P0 shared | `ENDLESS DANCE` Sena/Ume/Misuzu | contrasts in shared vocal and visual focality | **SCOPED ANSWER** — `SRC-0387` studio mix and authored MV. Exact backing attribution, continuous trio 3DMV and the Shibuya concert remain **OPEN**. |
 | `AV-SENA-U01` | P0 | Begrazia `Star-mine` MV + 3DMV + commu if public | strongest-unit construction | REQUESTED |
 | `AV-SENA-U02` | P1 | `Choo Choo Choo` | playful/theatrical range; crosswalk confirmation | REQUESTED |
 | `AV-SENA-R01` | P1 | one or two maximally contrastive common-song performances | portability beyond crown repertoire | REQUESTED SELECTIVELY |
@@ -485,7 +485,7 @@ R2 resolves the former late-Dear quality exception. The exact 720p files strengt
 | P0 | `adv_event_007_main-03` | Temari social failure/humiliation and China redirecting her into strength |
 | P1 | `adv_event_007_main-04` | China/Temari shared idol-origin talk and Temari strength recognition |
 | P0 | `adv_event_007_main-05` | blackout fear, hand-holding, `引っぱっていい`, team-live transition |
-| P0 | `adv_event_008_main-02` | Temari meeting a SyngUp! fan: inner delight vs outer coldness |
+| P0 | `adv_event_008_main-02` | Temari’s attempted exit and spoken fan invitation; her doubt about Saki’s idol-image explanation; Saki and Kotone’s fan-facing and peer-directed speech |
 | P1 | `adv_event_008_main-03` | viral-video humiliation/comedy/opportunity capture |
 | P1 | `adv_event_008_main-04/05` | Kotone fatigue, enforced rest, trio solidarity |
 | P1 | `adv_event_009_main-04` | Lilja overload and Kotone's friendship scaffold |
@@ -502,6 +502,8 @@ R2 resolves the former late-Dear quality exception. The exact 720p files strengt
 | P0 | `adv_event_012_main-05` | Lilja/Sumika reciprocal-support bargain and pre-live resolve |
 
 **Acquisition rule:** prefer a whole event commu or the smallest publicly retrievable complete segment, then timestamp internally. Do not ask the user to manually cut target lines when a complete event video exists.
+
+**E008 part 02 discriminator correction — 2026-11-25 (REVISE).** The historical label was “inner delight vs outer coldness.” Temari’s inner line at L262 rejects Saki’s explanation and asks how to express herself. L209 is addressed to the fan. This text-side correction does not change the P0 priority or assert a completed playback disposition. [Event 008 reading, §4.2](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_006_012_DEEP_READING.md#42-temari-meets-a-syngup-fan).
 
 <!-- PHASE4_EVENTS_013_020_2026-08-23 -->
 ## Phase 4 — Events 013–020 AV verification additions
@@ -617,7 +619,7 @@ No support-card AV target blocks textual Phase-5 progression.
 | `adv_csprt-2-0001_01` | Temari pivots from criticizing Misuzu to angrily defending her when Kotone agrees too strongly — locate attachment leakage and anger target |
 | `adv_csprt-2-0011_02` | Kotone rejects Sena's money — distinguish comedy/evasion from hard debt/autonomy boundary |
 | `adv_csprt-2-0015_02` | Temari/Kotone katsudon sharing — quantify protest versus comfortable familiarity |
-| `adv_csprt-2-0018_02` | Saki tapes Temari's ankle while preserving challenge language — care/rivalry simultaneity |
+| `adv_csprt-2-0018_02` | Original question about care and rivalry. The 2026-11-25 paired review verifies the offer of taping and the renewed challenge. The location of the injury and actual application of tape remain open. See the dispositions below. |
 | `adv_csprt-2-0021_01` | Hiro `友達` / Temari `違うから` — critical for modeling label denial versus enacted friendship |
 | `adv_csprt-2-0025_02` | Sena realizes Kotone watched her — public composure→transparent recruitment excitement transition |
 
@@ -764,7 +766,7 @@ Textual Phase-5 progression is not blocked by these targets.
 5. `S3-0065-03` — Temari reverse jealousy / Misuzu cooking recognition / Kotone brokerage.
 6. `S3-0066-03` — Sena's technically marginal but emotionally compelling Hiro evaluation.
 7. `S3-0067-01` — Hiro/Misuzu closeness + Temari jealousy/delegated trust.
-8. `S3-0070-03` — Tsubame waits for Kotone, academic concern, `シルヴェスタ` gift reveal.
+8. `S3-0070-03` — Tsubame waits for Kotone, academic concern, `シルヴェスタ` gift reveal. [Current finding](#tsubame-support-scene-playback--2026-11-25).
 9. `S3-0071-03` — Tsubame No.2 visibility anxiety + student recognition.
 10. `S3-0074-03` — Lilja homesickness + Rinami sister-coded response.
 
@@ -774,7 +776,7 @@ Textual Phase-5 progression is not blocked by these targets.
 13. `S3-0054-03` — Lilja elite fighting-game rank reveal.
 14. `S3-0056-01` — Sena explicit childhood-friend / council-support gratitude to Tsubame.
 15. `S3-0057-02` — trio disagreement over reciprocal utility as friendship.
-16. `S3-0062-03` — Tsubame custom China worksheets + embarrassment.
+16. `S3-0062-03` — Tsubame custom China worksheets + embarrassment. [Current finding](#tsubame-support-scene-playback--2026-11-25).
 17. `S3-0063-03` — China cosplay identification / Lilja panic.
 18. `S3-0075-02` — China childhood social restriction under wealth + present belonging.
 
@@ -967,3 +969,154 @@ The 2026-11-15 source-to-analysis audit (findings `GKM-SAA-nnn`, change-plan Bat
 | AV-HKNE-R88-05 (GKM-SAA-265) | Also identify the backgrounds of `adv_pstep_001_cmmn_before-rest-01-hkne` and `adv_pstep_001_cmmn_after-odekake-01-d-02`. | AV-C asset identity; deferred with the parent row |
 
 Listening and continuous-motion inspection for this routing both total zero seconds.
+
+## Paired playback dispositions for event and support requests — 2026-11-25
+
+The prior entries preserve the requests as they were made. This dated record adds current evidence dispositions without replacing their original text or changing priority. The 219-key Phase 4/5 census includes 224 distinct script parts. Six P0 and three P1 requests have paired answers for the stated questions. Two additional requests have partial evidence and retain open portions. A no-match result in the sealed inventory identifies a retrieval task. It does not establish that a recording is unavailable elsewhere.
+
+| Request | Source and recording clock, seconds | Decision and observation scope |
+| --- | --- | --- |
+| P0 `adv_event_001_main-02`, `AV-CARBON-E001-001` | `SRC-0039` 443.8–451.1, paired full-file returns `LP-RPL-0322` and `LP-RPL-0388` | **RESOLVED, STRENGTHEN.** Sumika voices the raised mock-Lilja line. The score recedes and Temari arrests before the 16-dash display. Sixteen is the checked on-screen count. The pair supports a staged ventriloquism joke without establishing Temari's private thought or technically silent audio. |
+| P1 `adv_event_001_main-05` | Same `SRC-0039` returns, 1147–1185 for apology and nickname proposal, later exchange beyond 1185 | **REVISE; PARTIAL.** An interrupted, quiet apology leads to a more solemn nickname proposal. The specific delivery of the ensuing `りーぴゃん` was open at this checkpoint. [Later paired answer](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md). |
+| P0 `adv_event_016_main-03` | `SRC-0041` 614.5–675.8 and 676.1–714.8, `LP-RPL-0331` and `LP-RPL-0397`; native interval pair `M2-RPL-043/044` | **RESOLVED, STRENGTHEN.** Temari's present batting instruction is distinguishable from Rinha's remembered voice and the bat strike. There is no rendered Rinha in that recalled window. Source establishes the transmission of practical coaching, with the memories' motives outside its scope. |
+| P1 `adv_event_021_main-01` | Exact historical 720p `SRC-0407` 97–104, 133–158 and 190–205, `LP-RPL-0182` and `LP-RPL-0290` | **RESOLVED, STRENGTHEN.** Rinami's concern about rest becomes a smiling but firm prohibition. The narrower Carbon proposition ending at 162 seconds does not reach the prohibition. The full original observations do. |
+| P1 `adv_event_021_main-02` | Same `SRC-0407` pair, 430–434 and 474–501 | **RESOLVED, STRENGTHEN.** Tsubame's childhood teasing is turned back on her, with an audible change from assertive to stammering. The current café exchange and childhood recollection retain their separate positions. |
+| P0 `adv_event_021_main-03` | Same `SRC-0407` pair, 765–776 | **RESOLVED, STRENGTHEN.** Tsubame says that knowing Sena's work and shortcomings informs her esteem for Sena as an idol. Attribute this judgment to Tsubame. |
+| P0 `adv_event_021_main-04` | Same `SRC-0407` pair, 893–1010, 1012–1020 and 1063–1070 | **RESOLVED, REVISE.** After the second-place result, Tsubame refuses consolation, says Sena had become complete at that H.I.F. and sobs away from Mao. Her evaluation is indexed to that result. |
+| P0 `adv_event_021_main-05` | Same `SRC-0407` pair, 1261–1265 and 1285–1299 | **RESOLVED, REVISE.** Tsubame renews her challenge. Sena's wings comparison is enacted as an audible inner thought. These words are not spoken to Tsubame. |
+| P1 `adv_csprt-3-0079_02` | Exact historical `SRC-0408` 129–198 and 201–208, `LP-RPL-0183` and `LP-RPL-0291` | **RESOLVED, STRENGTHEN.** The coaching dispute distinguishes fundamental preparation from pace and dynamism. Misuzu leaves before giving an opinion when asked. |
+| P0 `adv_csprt-3-0082_01/02/03` | Original `SRC-0088` 27–100, 101–221 and 281–322.711, `OBS-CL-A2-002` and `RPL-CL-C2-002` | **REVISE; PARTIAL.** The hobby-shop discovery and both characters' fluster are heard, with the later cinema interruption confirmed. The detailed café recommendations and cue-level post-interruption delivery were open at this checkpoint. Part 1 does not include Mao or Rinami. [Later source-bound comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md). |
+| P0 `adv_csprt-3-0097_01/02` | Original `SRC-0083` 0–97.3 and 97.3–195.8, `OBS-CL-A1-006` and `RPL-CL-C1-006` | **RESOLVED, STRENGTHEN.** Rinha's private reflection, public greeting, reassurance, reunion and planning are distinguished. The farewell concert is planned within this scope. |
+
+The E021 answers also have a separately tracked same-upload compact of `SRC-0057` with retained historical audio and clocks, `LP-RPL-0343` and `LP-RPL-0409`. The rendition gives a second route for checking the scenes. Its timings cannot be used to certify unrelated edits or ports. The admitted evidence does not imply further audio measurements or scene coverage.
+
+Phase 6 completed at Source Lock 1.2. The earlier Rinha target execution note above applies to its dated acquisition snapshot. The separate C073 whole-container claim still requires its own evidence. An answered event or support request clears only that request's verified scope. The [character qualification and readiness record](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_CHARACTER_QUALIFICATION_AND_READINESS.md) controls individual monograph decisions. [Reconciliation and edition rules](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) · [Rinha perceptual completion and scope](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Native support 3-0086 playback — 2026-11-25
+
+P0 `adv_csprt-3-0086_03`, 貸せ、手本を見せてやる！ / 幼馴染デートに挑戦！ is **RESOLVED at the recorded-scene scope**. In exact local `SRC-0093` 175.0–259.413 s, two candidate-independent observers and a separate challenger distinguish the deliberate reveal, the quieter disclaimer about romantic love, the stand-in joke and Sena's warm liking addressed to Tsubame. The final flustered reply belongs to Tsubame. The source does not determine either person's enduring romantic status. Audio, video samples, native picture-only checks and A1 staging have separate limits. [Scoped playback adjudication](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Carbon character and claim write-through — 2026-11-25
+
+Historical questions above retain their commissioning statuses. These are the later results at the specified scope.
+
+| Target | Current disposition |
+| --- | --- |
+| AV-CARBON-SAA-213 | **RESOLVED for recorded voice-take identity.** Three Kanae-coded narrator takes in the China selection failure align at 43.77/50.77/55.02 s. The actual screen role is narration; the world-internal speaker's identity remains OPEN. [China update](../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_CHINA_CARBON_AV_UPDATE_20261125.md) |
+| AV-CARBON-KOT-001 and -002, SDIV-03, GKM-SAA-052/054 | **PARTIAL.** Repair the stage score, gratitude and two upload clocks. The Sept 12 first-choice record shows a near 7912.5–7943.0 s score gap, the L512 display near 7944.7 s and speech overlap through about 7948.5 s. Clip end must allow the final next-line speech at about 7970.5 s. The clean Sept 21 alternate choice carries separate visual authority. [Kotone update](../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) |
+| AV-CARBON-SAA-001/194 | **PARTIAL.** Proper Mao Dear 022 clip binds the written Kansai transition and renders it at two matched clocks. Independent delivery comparison remains OPEN. In SRC-0236 *Face Me*, the Producer's formulation and Mao's request have an exact source. Interpretive alternatives survive. [Mao update](../05_AUDIOVISUAL_ANALYSIS/04_ARIMURA_MAO/GKM_MAO_CARBON_AV_UPDATE_20261125.md) |
+| AV-HKNE-R88-01/02/04 | **RESOLVED for early-character sonic scope.** Three paired R88 priority routes support the accepted early portrait. [Kanae sufficiency](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/README.md#gate-e-at-the-current-boundary) |
+| AV-HKNE-R88-03/05 | **BOUNDED / OPEN.** R88-03’s ending address supplies supporting coverage. R88-05 retains separate voices and matched outcomes alongside open native B/D visual confirmation and exact dispatch. [Kanae evidence](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_EVIDENCE_AND_INSPECTION.md) |
+| AV-CARBON-SAA-241 and RES-03 | **PARTIAL.** The recorded Misuzu-coded opening assets match the C-stage capture at about 3.08 and 5.18 s. The written messaging labels the character Ume, while the actor and voice assets identify Misuzu. The runtime speaker label remains OPEN. [Current Misuzu scope](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_MISUZU_CARBON_CHARACTER_RECONCILIATION_20261125.md) |
+| AV-CARBON-SAA-221 and RES-04 | **PARTIAL.** Indexed Hiro asset onsets at about 134.62, 139.42 and 184.53 s, along with the song comparison, bind the D `光景` dance rehearsal wrapper. The same recording moves on to a separate E narrative ending. Native grade badge, exact spoken rendering and how two written closing lines align to the single ending voice still need their specific evidence. [Current Hiro scope](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/GKM_HIRO_CARBON_CHARACTER_RECONCILIATION_20261125.md) |
+
+## Recorded Event 016 parts 2 and 5 — 2026-11-25
+
+| Target | Recorded interval and disposition |
+| --- | --- |
+| `adv_event_016_main-02` P1 | **RESOLVED within the recorded question. STRENGTHEN.** SRC-0041 487.5–610.5 s. Saki's evasion, Kotone's quieter appeal to friendship and the explicit refusal to show Ume a weak older sister have separate cues. Broader motive remains OPEN. [Receipt](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md) |
+| `adv_event_016_main-05` P1 | **RESOLVED WITH QUALIFICATION. REVISE.** SRC-0041 1315.5–1414.5 s. The paired returns support reciprocal competitive delivery and Saki encouraging an independent friendship outing. Mutual jealousy and any required causal change into play remain OPEN. [Receipt](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md) |
+
+## Tsubame support-scene playback — 2026-11-25
+
+The historical entries preserve their commissioning questions. These four later paired dispositions apply only to the recorded scenes.
+
+| Target | Current disposition |
+| --- | --- |
+| `adv_csprt-2-0056_01` P0 | **RESOLVED within the recorded question. STRENGTHEN.** `SRC-0085` 0.200–105.700 s. Tsubame’s severe commands turn to an urgent rest instruction and an offer of water. Hiro later asks to be pushed harder. Actual recovery remains open. |
+| `adv_csprt-3-0070_03` P0 | **RESOLVED WITH QUALIFICATION. STRENGTHEN** Tsubame’s guarded answer, consultation offer and shift at the gift in `SRC-0087` 190.000–311.500 s. **REVISE** the earlier claim of waiting. Her intent and the gift’s effect on the later appointment remain open. |
+| `adv_csprt-3-0062_03` P1 | **RESOLVED WITH QUALIFICATION. STRENGTHEN** the shift when Tsubame hears the other officers in `SRC-0090` 260.000–380.550 s. **REVISE** earlier attribution. Sena’s prior worksheet account, China’s stated experience and Rinami’s embarrassment reading retain their speakers. |
+| `adv_csprt-3-0085_03` P1 | **RESOLVED within the recorded question. STRENGTHEN.** `SRC-0092` 204.500–306.250 s. The two respect each other’s method and reassert audition rivalry. The workout itself is skipped. |
+
+[Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Café and cinema P0 and Event 001 nickname P1 — 2026-11-25
+
+| Target | Recorded disposition |
+| --- | --- |
+| `adv_csprt-3-0082_02/03`, grouped P0 | **REVISE. Resolved within the requested delivery scope.** SRC-0088 at 127–222 and 234–322.65 s has paired evidence for reciprocal recommendations and the sequence of the cover story. Part 1 retains its existing paired answer. Ongoing trust, private feelings and romance classification remain open. |
+| `adv_event_001_main-05`, P1 | **STRENGTHEN. Resolved within the specific nickname request.** SRC-0039 at 1174–1225 s separates the flat coinage, puzzled vocative and warmer reply to Kotone. The earlier apology keeps its separate source interval. Lilja’s reason for hesitating and the private motive for the proposal remain open. |
+
+[Source, edition and cue adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md). Other priority items retain individual scope.
+
+## Paired dispositions for five support-card requests — 2026-11-25
+
+At Source Lock 1.2, Japanese ADV revision 88, the retained originals support three separately frozen media-first returns for each named interval. The [chapter-bound adjudications](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md) hold evidence, role, recording identity and remaining questions. These rows update the named audition and delivery issues without closing any numbered Gate E.
+
+| P0 support | Receiving disposition within exact recording scope |
+| --- | --- |
+| `adv_csprt-2-0018_02` | **REVISE.** Saki warns against neglecting the sprain, offers taping and apologizes. Temari answers for her own skill. Challenge resumes. The exact physical application and Saki’s unstated motive remain **OPEN**. |
+| `adv_csprt-2-0011_02` | **REVISE.** A comic delivery and definite monetary boundary coexist. Kotone identifies the debt risk. Sena’s terms and Kotone’s deeper feelings remain **OPEN**. |
+| `adv_csprt-1-0004_01` | **STRENGTHEN.** The guided retry changes phrasing, scoring and expression. The recalled person, circumstances and exact acoustic parameters remain **OPEN**. |
+| `adv_csprt-3-0071_03` | **STRENGTHEN.** Tsubame receives a specific later recognition for the dance. The game result is her report. Point totals, Sena holding back and broader visibility remain **OPEN**. |
+| `adv_csprt-2-0067_02` | **REVISE.** Ume’s outward exchange builds on Temari’s spoken account and ends in an explicit admission of excessive teasing. Its initial intention and wider interpersonal scope remain **OPEN**. |
+
+## Five guarded story-event replies — 2026-11-25
+
+[Five guarded reviews across four events](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) give current dispositions for four P0 and one P1 event keys. The scope is per utterance and speaker. Original priorities remain visible in the discovery sections above.
+
+| Original key | Current scoped disposition |
+| --- | --- |
+| P0 `adv_event_002_main-05` | **STRENGTHEN** heard complaint and mixed comic/hurt response. **REVISE** ordering of Hiro’s and Misuzu’s reasons. Identity, underlying motive and later group agreement retain separate evidence. |
+| P1 `adv_event_003_main-02` | **REVISE** the warning and refusal sequence. Includes two voiced punctuation boxes and Rinami’s interventions. L556 cadence remains disputed. |
+| P0 `adv_event_003_main-03` | **STRENGTHEN** the performed repair and revised service account. Exact kinship, apparent action and the audibility of frying remain **OPEN**. Earlier Mao–Rinami turns are outside attendance. |
+| P0 `adv_event_004_main-04` | **REVISE** the Saki–Lilja shift from coach to rival. Keep the effects’ written assignment distinct from physical plays. Sumika’s person-specific observation remains **OPEN**. |
+| P0 `adv_event_008_main-02` | **REVISE** the former inner-delight discriminator. A publicly voiced invitation precedes a separately voiced inner objection to the suggested idol image. Earshot, deeper motive, lasting change and later event order remain **OPEN**. |
+
+## Event 014 written-source clarification — 2026-11-25
+
+Part 05's P0 shorthand “mutual `大好き`” refers to Hiro's `大好き` and Misuzu's reply `わたしもです` (L793–807). Part 04's P1 distinguishes China's personal resolution to Hiro, her appeal to the class and Saki's later recognition (L130–169, L314–322). See the [written-source revision](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_013_020_DEEP_READING.md#34-china-performs-morale-as-chosen-professional-labor). The recorded queue keys and priorities remain in force.
+
+## Guarded Event 014 and 015 focal answers — 2026-11-25
+
+The [adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) adds seven positive person-specific answers under five original part keys. Original queue lines and historical priorities remain intact. Motion, exact upper-edge audio and unperformed music remain bounded.
+
+| Original request | Bounded disposition |
+| --- | --- |
+| P0 `adv_event_014_main-03` | **STRENGTHEN**, Hiro and Ume. Direct remembered advice and present-day decision are separate. The final imperative extends past the window. |
+| P0 `adv_event_014_main-05` | **REVISE**, Hiro and Misuzu. Fear, exertion, distinct explanations of the smile and the two friendship replies have attended witnesses. The pre-race MVP justification, full later question, answer and thanks retain written scope here. Continuous carry, exact cue edge and inferred causes remain outside. |
+| P1 `adv_event_014_main-04` | **STRENGTHEN**, China. Her quieter reply to Hiro, public class appeal, renewed insistence and Saki’s competitive recognition are located separately. Effects on the outcome and subsequent formal office remain open. |
+| P0 `adv_event_015_main-04` | **REVISE**, China. The intervention and responses are staged and heard around an elided cheer. The melody is unobserved. |
+| P1 `adv_event_015_main-05` | **STRENGTHEN**, Rinami. The thanks she speaks to her two juniors and her privately voiced recognition have different audiences. No new hearing of the finale. |
+
+Lilja’s separate `adv_event_015_main-03` request has no coverage in these windows. No individual numbered Gate E follows from these focal answers alone.
+
+## 2026-11-25 guarded Event 022 and 024 person-specific dispositions
+
+| Part | Person-specific queue scope | Disposition |
+| --- | --- | --- |
+| Event 022 part 02 | Q556 · Mao, P0 | **STRENGTHEN**, bounded answer for fevered speech and distinct remembered care. Identity of wallet deliverer and imagined addressee stay **OPEN**. |
+| Event 022 part 04 | Q572 · Kotone, P1 | **STRENGTHEN**, bounded answer for the older-friend exchange. Earlier outing and later continuity remain elsewhere. |
+| Event 024 part 04 | Q560 · Ume, Misuzu, Sena, P0 | **STRENGTHEN / REVISE**, distinct invitation, coordinated refusal, personal claim and renewed challenge. |
+| Event 024 part 05 | Q561 · Ume, Misuzu, Sena, P0 | **STRENGTHEN / REVISE**, heard speech, title call and recorded score distinguished from narrated consequences and elided concert singing. |
+
+These eight scoped person-rows answer four cut-bounded questions. Mao's separate Event 022 part 01/05 requests and the event's `ENDLESS DANCE` individual sung-arrangement request have no disposition in this guard. The shared studio voice and authored-picture portions of `AV-SENA-G03` are separately **STRENGTHENED** by both recovered `SRC-0387` reviews. The exact backing allocation, true trio 3DMV and in-story Shibuya stage remain **OPEN**.
+
+The Q-numbers in this table and the next Event 023 table repeat the historical queue line locators used in the qualification table (for example `Queue L556`). They are labels, not current line numbers. In this file each one sits two lines above its Phase 4 request. Read them through their stable part keys: Q556 = `adv_event_022_main-02` (P0 request 5), Q572 = `adv_event_022_main-04` (P1 request 19), Q560 = `adv_event_024_main-04` (P0 request 9), Q561 = `adv_event_024_main-05` (P0 request 10), Q558 = `adv_event_023_main-03` (P0 request 7), Q559 = `adv_event_023_main-05` (P0 request 8), Q573 = `adv_event_023_main-01` (P1 request 20) and Q574 = `adv_event_023_main-04` (P1 request 21).
+
+[Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Recovered Tsubame support focus — 2026-11-25
+
+**Tsubame, 2026-11-25.** In support 2-0066 part 01, SRC-0086 at 52–93 s answers the change from protest to acceptance. The score under the last line remains disputed. For support 3-0094 part 02 (SRC-0091), one direct account covers the cat exchange; the later critical challenge cites that account and does not independently reopen the scene. The acted comparison there remains pending. [Costume exchange on the original recording](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md#the-gold-dragon-on-tsubames-costume).
+
+## Guarded Event 023 — 2026-11-25
+
+| Historical question | Qualified person-specific scope |
+| --- | --- |
+| Q558 · Event 023 part 03 | **STRENGTHEN**, Misuzu's unhurried polite inquiry, giving formula and important-person condition. Interpretation of the coda stays **OPEN**. |
+| Q574 · Event 023 part 04 | **STRENGTHEN**, Misuzu's directed remembered request for a daily nap lullaby. Temari's prospective arrangements and Hiro's clipped prediction retain distinct scope. |
+| Q559 · Event 023 part 05 | **STRENGTHEN**, Misuzu's selective echo and performed gift reception. Specific later play and actually heard music of the disc stay **OPEN**. |
+| Q573 · Event 023 part 01 | **STRENGTHEN**, Temari's disagreement, consultation and invitation. Hiro supplies contextual evidence. Misuzu's recalled phrase leaves a separate person-specific answer **OPEN**. |
+
+These scoped determinations preserve the original request text and individual Gate E requirements. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+| Stable part and historical request key | Scoped designation |
+| --- | --- |
+| `adv_event_022_main-01` · Q555 | **STRENGTHEN**, Mao’s spoken assurance and inward insistence that she cannot afford to rest; Kotone’s practical care and its named experience. Two person answers across three guards. Diagnosis and the last heard parts of nearby lines are bounded. |
+| `adv_event_022_main-05` · Q557 | **STRENGTHEN**, Mao’s inward account of earlier avoidance, her spoken admission that she lacked courage to go alone, and her stated aim to face Sena and herself. The concert performance and later actions stay separate. |
+| `adv_event_003_main-05` · Q468 | **STRENGTHEN**, Mao’s inward assessment of her last summer, with an outward response around the photo exchange. Sumika’s contextual role earns no additional numbered scope. |
+
+These four scoped answers preserve the earlier and continuing request boundaries. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

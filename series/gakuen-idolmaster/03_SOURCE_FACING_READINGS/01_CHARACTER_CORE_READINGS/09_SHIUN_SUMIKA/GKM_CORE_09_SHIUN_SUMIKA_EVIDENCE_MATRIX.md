@@ -96,3 +96,7 @@ Claim IDs are unchanged. The table keeps the earlier wording of every cell whose
 | SUMIKA-C04 | **STRENGTHEN** (counterpressure; verifier fix V8) | — | GKM-SAA-108: consent cost of her media ease (supports 3-0008_01, 3-0111_02, 2-0033, 3-0036), with the privacy promise and later acceptance as counterweights |
 | SUMIKA-C17 | **STRENGTHEN** (counterpressure) | — | GKM-SAA-108, verifier fix V4: supports 2-0073, 3-0067 (athletic competence outside dance) |
 | SUMIKA-C28 | **STRENGTHEN** (evidence; verifier fix V4) | — | GKM-SAA-104: E004 and E009 non-enclosure in event continuity |
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+The Event 003 part 05 clip separately presents the shutter, Sumika’s account of photographing Mao’s expression, and her suggestion of a group photo. Mao’s response to the description and later swimsuit embarrassment are distinct. Permission and the pictured result remain open. The later group photo and sharing have separate written locators. This is contextual support for Sumika's conduct. [Guarded care and summer adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md#maos-summer-and-sumikas-camera)

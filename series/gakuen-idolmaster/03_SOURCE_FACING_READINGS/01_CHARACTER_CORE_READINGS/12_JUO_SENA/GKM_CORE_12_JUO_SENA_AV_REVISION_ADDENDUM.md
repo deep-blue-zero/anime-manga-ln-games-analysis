@@ -5,7 +5,7 @@ status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-11-15'
+last_updated: '2026-11-25 — Carbon write-through'
 version: "2.1"
 revised: "2026-11-15"
 revision_note: "v2.1 source-to-analysis audit 2026-11-15 correction (REVISE): SN-R18 now cites the cross-route and SL1.1 defeat evidence instead of reading as evidence-absent, keeping integration and AV delivery open"
@@ -17,6 +17,12 @@ parent_authority: GKM_CORE_12_JUO_SENA.md
 ---
 
 # GKM CORE 12 — JUO SENA AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+A remembered authority figure's delivered voice, Sena's own interruption at the mirror and her actually public claims are separately aligned. The October/November corpus comparison revises the 100プロ readings to the named cue and speaker. The independently accepted 3-0086 experiment puts both deliberate joking and warm direct liking in one exchange; it leaves a durable romantic status open. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_CARBON_PLAYBACK_SUCCESSOR.md). Earlier accounting and source locks below describe their own revisions.
+
+Kotone’s refusal tests what Sena’s recognition can accomplish. In support 2-0011 part 2, Sena offers money for present needs and speaks confidently about Kotone’s earning power. Kotone calls the offer debt and leaves. Only afterward does Sena resolve to try again. In support 3-0071 part 3, another student asks for Sena’s autograph and she assents. Later a student addresses Tsubame about the dance with Sena. Here the attention Sena attracts coexists with recognition that belongs to her partner. Tsubame’s suspicion that Sena held back remains her own interpretation. [The two support recordings and their limits](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md).
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** GKM-SAA-026 **REVISE**s the current-authority text of SN-R18, which stays OPEN; the earlier text is quoted below the table. No AV was inspected for this change, and the other transitions are unchanged.
 

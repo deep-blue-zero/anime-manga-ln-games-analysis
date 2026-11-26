@@ -6,6 +6,122 @@ Recorded assessments of subjects in the `cornered-mouse` namespace of the [Chara
 
 ## Recorded assessments
 
+### Subject `cornered-mouse:imagase@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/cornered-mouse/imagase@manga.jsonl`](../reconstruction_capabilities/cornered-mouse/imagase@manga.jsonl)
+
+<a id="cornered-mouse-imagase-manga-complete-witness-readings-20261122-01"></a>
+
+#### Assessment `cornered-mouse-imagase-manga-complete-witness-readings-20261122-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `cornered-mouse:imagase`
+- Scope: continuity `cornered-mouse-manga`
+- Source boundary: Only the subject's eleven curated REVIEWED items at basis\_commit, each read in full with its front matter: the active\_provisional CORNERED\_MOUSE\_WATARU\_IMAGASE\_MONOGRAPH.md \(14,730 bytes\) and the active\_provisional CM-U01, U02, U03, U04, U06, U07, U08, U09, U10 and CM-S01 deep readings \(about 478 KB together\), over the complete supplied witness CM-JP-AIO2020-LOCAL \(CM-U01-U10 and the separately admitted Hummingbird story with its closing comic\). The historical U06 proposed model, the project ledgers and the corpus readiness review are not curated on this subject and were not used as evidence. The items' own labels and the project's withheld operational release are inputs, not conclusions; the evaluator performed no primary-source inspection.
+- Temporal boundary: From the CM-U01 report bargain through the CM-U10 ring offer and the CM-S01 adult welcome and closing comic, with the Hummingbird adolescent epoch as his earlier history. States are split at the located gaps \(six months after U01, two months inside U06, half a year before U07, six months before U10\) and at the U06 and U09 departures; the post-reunion state is never projected backward, and adolescent conduct is not merged with adult conduct.
+- Basis commit: `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `d8591b0c5065fbe8b1592e9e4c3089630ccd91fc6fe5bfc8249eb3026cde932d`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative written lines only, never presented as quotation or as Japanese line imitation, at a declared state \(U01-U06, the U07-U09 cohabitation, the U10 reunion or the Hummingbird aftermath\).
+  - `DIALOGUE` condition: Register by recipient: senior address with pointed politeness when pressing or hurt with Kyoichi; teasing in the cohabiting states; colloquial abruptness to other men and in work calls; gentle candor with Kamimura.
+  - `DIALOGUE` condition: No acoustic delivery, no mandatory catchphrase, and no lines that resolve his motives into sincere devotion or pure strategy.
+  - `CROSS_SCENARIO` condition: Before predicting, fix the located state, what he knows of Kyoichi's other attachments, whether he has access to private information, and whether a choice is framed explicitly with withdrawal terms.
+  - `CROSS_SCENARIO` condition: Supported response families only: checking private information under suspicion of a rival when he has access, with self-reproach possible afterward; resisting a general proposal to stop while accepting an explicit contextual rejection; pleased embarrassment at small acknowledgments; hesitation or retreat when offered a bond whose cost falls on a third party.
+  - `CROSS_SCENARIO` condition: Abstain on whether he presses or withdraws in a novel crisis, on which motive decides, on strangers, and on any final-state policy after the ring offer.
+  - `CROSS_SCENARIO` bounds: chronology One declared state inside CM-U01-U10 or the CM-S01 adult aftermath, using only what he knows at that point; the six-month and two-month gaps separate states and are never crossed silently.; interlocutor Kyoichi in their existing relationship, a woman he perceives as Kyoichi's chosen or likely partner \(as Natsuki or Tamaki\), Kamimura as a long-standing friend, or a work colleague or client; anyone else only as a separate, lower-confidence case.; settings Contemporary Japanese urban life with his investigator work and the shared household as depicted.; No transfer of the U01 leverage bargain or intimate pressure to strangers or new relationships.; No Reboot-only story, other edition or adaptation material.
+  - `MUNDANE_SOCIAL` condition: Only the sampled ordinary contexts: domestic routine with Kyoichi, the long friendship with Kamimura, and light joking with coworkers.
+  - `MUNDANE_SOCIAL` condition: Adolescent and adult states differ and are declared; warmth with friends is not universal warmth toward strangers.
+  - `MUNDANE_SOCIAL` condition: Abstain on first meetings and unfamiliar social settings.
+  - `ETHICAL_DELIBERATION` condition: Represent self-judgment coexisting with conduct that crosses others' boundaries; never resolve him into an altruist or a manipulator.
+  - `ETHICAL_DELIBERATION` condition: The privacy intrusion under suspicion of a rival is a supported tendency \(three located cases\); guilt and persuasion may occur together.
+  - `ETHICAL_DELIBERATION` condition: Abstain on the outcome of a novel third-party-cost choice.
+  - `ROMANCE_RELATIONSHIP` condition: Only the Kyoichi relationship at a declared state, with response families rather than single outcomes.
+  - `ROMANCE_RELATIONSHIP` condition: Earlier stated preferences never supply assent to later acts; each refusal or wait signal keeps authority at its own time.
+  - `ROMANCE_RELATIONSHIP` condition: No fixed sexual role, no permanent security and no fated outcome.
+  - `PROFESSIONAL_CONTEXT` condition: Only the depicted investigator tasks: evidentiary caution, directing a colleague and protective instructions to a client under surveillance work.
+  - `PROFESSIONAL_CONTEXT` condition: No general competence rating, no unfamiliar institution, and his private distress does not imply work incompetence.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `final-state-thin` (evidence-backed limitation): The post-reunion state has one negotiation, one home encounter and a closing comic; the project's corpus review withholds a current-state response policy.
+  - `motive-ordering-undecided` (evidence-backed limitation): Whether devotion, self-protection or strategy decides a given choice is not discriminated; the readings preserve guilt with persuasion and generosity with tactical lowering.
+  - `no-independent-validation` (evidence gap): No independent or held-out validation exists; the readings' tests are heterogeneous same-author adjudications, not an accuracy sample.
+  - `pa003-failure` (evidence-backed limitation): The one prospective test of his first response to a rejection, CM-PA-003, failed: he accepted the café choice quietly, so no necessary-objection rule holds.
+  - `speech-not-act` (evidence-backed limitation): Threats and wishes \(the Tokyo Bay threat, the harmful wish\) are speech or disclosed thought, never a depicted attempt; they are not generators of violent action.
+  - `testimony-not-certified` (evidence-backed limitation): His work history, medical reports, coping during separations and retrospective strategy account are his testimony, not independently shown.
+  - `u06-model-uncurated` (evidence gap): The historical U06 proposed model and the project ledgers are not curated on this subject, so their rule text was not used as evidence.
+  - `unfamiliar-contexts` (evidence gap): Behavior with strangers, in unfamiliar institutions and outside his investigator work is not established.
+  - `written-register-only` (evidence-backed limitation): An unvoiced manga gives written register only; no acoustic delivery, and few of his Japanese lines are quoted in the readings.
+- Evidence at basis commit:
+  - [`cornered-mouse:imagase@manga#character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/04%20Character%20Studies/CORNERED_MOUSE_WATARU_IMAGASE_MONOGRAPH.md)
+  - [`cornered-mouse:imagase@manga#s01-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_S01_DEEP_READING.md)
+  - [`cornered-mouse:imagase@manga#u01-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md)
+  - [`cornered-mouse:imagase@manga#u02-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md)
+  - [`cornered-mouse:imagase@manga#u03-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md)
+  - [`cornered-mouse:imagase@manga#u04-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md)
+  - [`cornered-mouse:imagase@manga#u06-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md)
+  - [`cornered-mouse:imagase@manga#u07-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md)
+  - [`cornered-mouse:imagase@manga#u08-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md)
+  - [`cornered-mouse:imagase@manga#u09-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U09_DEEP_READING.md)
+  - [`cornered-mouse:imagase@manga#u10-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U10_DEEP_READING.md)
+
+### Subject `cornered-mouse:kyoichi-otomo@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/cornered-mouse/kyoichi-otomo@manga.jsonl`](../reconstruction_capabilities/cornered-mouse/kyoichi-otomo@manga.jsonl)
+
+<a id="cornered-mouse-kyoichi-otomo-manga-complete-witness-readings-20261122-01"></a>
+
+#### Assessment `cornered-mouse-kyoichi-otomo-manga-complete-witness-readings-20261122-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `cornered-mouse:kyoichi-otomo`
+- Scope: continuity `cornered-mouse-manga`
+- Source boundary: Only the subject's nine curated REVIEWED items at basis\_commit, each read in full with its front matter: the active\_provisional CORNERED\_MOUSE\_KYOICHI\_OTOMO\_MONOGRAPH.md \(13,987 bytes\) and the active\_provisional CM-U01, U02, U04, U05, U06, U07, U09 and U10 deep readings \(about 444 KB together\), over the supplied witness CM-JP-AIO2020-LOCAL; CM-S01 enters only through the monograph. The historical U06 proposed model, the project ledgers and the corpus readiness review are not curated on this subject and were not used as evidence. The items' own labels and the project's withheld operational release are inputs, not conclusions; the evaluator performed no primary-source inspection.
+- Temporal boundary: From the CM-U01 marriage and report bargain through the CM-U10 hospital breakup, snow pursuit and ring offer, with the CM-S01 welcome as reported by the monograph. States are split at the located gaps \(six months after U01, two months inside U06, half a year before U07, six months before U10\), at Imagase's U06 and U09 departures and at the U10 breakup; his late recognition of Imagase is never projected backward.
+- Basis commit: `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `b4b460090e7180f67a82083739a61ff3e01f004fd8be4efb0bd97b8bc2e8442a`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative written lines only, never presented as quotation or as Japanese line imitation, at a declared state.
+  - `DIALOGUE` condition: Register by recipient: accommodating politeness with women and at work; blunt, sometimes harsh then apologetic speech with Imagase; incomplete declarations under emotional pressure.
+  - `DIALOGUE` condition: No acoustic delivery, and no completed love declarations where the sampled states give pauses or past tense.
+  - `CROSS_SCENARIO` condition: Before predicting, fix the located state, the person, what he stands to lose, and whether a woman's expectations or Imagase's are in play.
+  - `CROSS_SCENARIO` condition: Supported response families: accommodation and waiting for direction with women; blunt objections followed by apology with Imagase; initiative when loss or replaceability becomes concrete; accounts that place initiative on others.
+  - `CROSS_SCENARIO` condition: Abstain on which bond he chooses in a new triangle, on strangers, on a first-meeting script and on any final-state policy after the ring offer.
+  - `CROSS_SCENARIO` bounds: chronology One declared state inside CM-U01-U10, using only what he knows at that point; the six-month, two-month and half-year gaps separate states and are never crossed silently.; interlocutor Imagase in their existing relationship, a woman he is married to or dating \(as Chikako, Natsuki or Tamaki\), or a coworker; anyone else only as a separate, lower-confidence case.; settings Contemporary Japanese office and domestic life as depicted.; No transfer of intimate-partner conduct to strangers.; No Reboot-only story, other edition or adaptation material.
+  - `MUNDANE_SOCIAL` condition: Only the sampled ordinary contexts: domestic routine with Imagase, office small talk and outings with a partner.
+  - `MUNDANE_SOCIAL` condition: Abstain on first meetings and unfamiliar social settings, which the readings leave open.
+  - `ETHICAL_DELIBERATION` condition: Represent deliberation in terms of least harm and his own comfort, with self-criticism.
+  - `ETHICAL_DELIBERATION` condition: A stated protective principle that yields under renewed attachment is a supported possibility \(two located cases\), not a decided outcome.
+  - `ETHICAL_DELIBERATION` condition: Abstain on the outcome of a novel third-party-cost choice.
+  - `ROMANCE_RELATIONSHIP` condition: Only the sampled relationships \(Imagase, Chikako, Natsuki, Tamaki\) at a declared state, with response families rather than single outcomes.
+  - `ROMANCE_RELATIONSHIP` condition: Earlier stated preferences never supply assent to later acts; refusals and wait signals keep authority at their own time.
+  - `ROMANCE_RELATIONSHIP` condition: No fixed orientation, sexual role or permanent outcome.
+  - `PROFESSIONAL_CONTEXT` condition: Only workplace social presentation: concealment of the private relationship, narrow public wording about partners and the asymmetric visibility of the ring.
+  - `PROFESSIONAL_CONTEXT` condition: No work-competence model and no unfamiliar institution.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `commitment-ordering-undecided` (evidence-backed limitation): Which commitment wins when a woman's claim and Imagase's conflict is not discriminated; he refuses an affair to protect Tamaki and then breaches it.
+  - `final-state-thin` (evidence-backed limitation): The post-reunion state has one negotiation and one home encounter; the project's corpus review withholds a final-state behavioral model.
+  - `no-independent-validation` (evidence gap): No independent or held-out validation exists; the readings' tests are heterogeneous same-author adjudications, not an accuracy sample.
+  - `rival-rule-nondiscriminating` (evidence-backed limitation): The frozen U06 rival rule found no eligible U07-U10 case and supports no claim either way.
+  - `self-accounts-interested` (evidence-backed limitation): His accounts of passivity, of his father and of others' initiative are his own and are repeatedly contradicted by his conduct.
+  - `u06-model-uncurated` (evidence gap): The historical U06 proposed model and the project ledgers are not curated on this subject, so their rule text was not used as evidence.
+  - `unfamiliar-contexts` (evidence gap): Conduct with strangers, in unfamiliar institutions and in his actual work beyond fragments is not established.
+  - `written-register-only` (evidence-backed limitation): An unvoiced manga gives written register only; no acoustic delivery.
+- Evidence at basis commit:
+  - [`cornered-mouse:kyoichi-otomo@manga#character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/04%20Character%20Studies/CORNERED_MOUSE_KYOICHI_OTOMO_MONOGRAPH.md)
+  - [`cornered-mouse:kyoichi-otomo@manga#u01-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md)
+  - [`cornered-mouse:kyoichi-otomo@manga#u02-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md)
+  - [`cornered-mouse:kyoichi-otomo@manga#u04-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md)
+  - [`cornered-mouse:kyoichi-otomo@manga#u05-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U05_DEEP_READING.md)
+  - [`cornered-mouse:kyoichi-otomo@manga#u06-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md)
+  - [`cornered-mouse:kyoichi-otomo@manga#u07-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md)
+  - [`cornered-mouse:kyoichi-otomo@manga#u09-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U09_DEEP_READING.md)
+  - [`cornered-mouse:kyoichi-otomo@manga#u10-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7e5cc6b25221e5c70a52e9aca64f0102ed2a3040/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U10_DEEP_READING.md)
+
 ### Subject `cornered-mouse:natsuki@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/cornered-mouse/natsuki@manga.jsonl`](../reconstruction_capabilities/cornered-mouse/natsuki@manga.jsonl)

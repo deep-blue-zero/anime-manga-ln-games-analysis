@@ -2,14 +2,16 @@
 title: "Gakuen Idolmaster V2 - Japanese Voice and Register Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.6"
+version: "2.9"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit corrections"
+last_updated: "2026-11-25 — Carbon character and claim write-through; written Event 023 revision"
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
 # JAPANESE VOICE AND REGISTER LEDGER
+
+> **REVISE — v2.9, 2026-11-25. The friends’ written register in Event 023.** The earlier register entries treated Temari’s request as contradicting her own words and compressed Hiro’s agent game. Temari contests a label and later requests help. Hiro marks the clue in part 03 and the final report in part 05 as distinct successes. The previous wording is preserved in v2.8.
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
 
@@ -435,9 +437,9 @@ The event tranche contains unusually useful reconstruction evidence because many
 
 - **Sena/Tsubame (E021):** private childhood-friend register moves rapidly between present senior composure, `貴様` rivalry/governance, excited `ねえねえ`, and teasing `泣き虫星南ちゃん`. Do not model `貴様` as literal hostility.
 - **Mao/Kotone (E022):** Kotone's rough/direct imperatives can carry respectful caregiving toward a senior; Mao's ill speech becomes simpler, food-specific, childlike, and regionally textured without deleting `ボク` or prince identity.
-- **Temari/Hiro (E023):** `別に仲良しじゃない` is pragmatically contradicted by immediate reliance/disclosure; verbal distance should not be mapped mechanically to relational distance.
-- **Hiro (E023):** clipped deadpan syntax supports genre-play (`えーじぇんと・広`) without requiring a wholesale voice change.
-- **Misuzu (E023–E025):** formal softness carries explicit possessiveness and committed institutional promises; semantic intensity need not produce harsh syntax.
+- **Temari/Hiro (E023).** Hiro calls them close; Temari disputes the label (「別に仲良しじゃない」). She then asks for advice and invites Hiro to shop. The disagreement and the request are both literal acts (part 01 L193–223, L344–346).
+- **Hiro (E023).** Short declarations and the written forms 「えーじぇんと・広」 and 「だぶる・すぱい」 make two kinds of success part of her agent game. She celebrates getting the clue in part 03 L284–294 and reports the outcome to Misuzu in part 05 L364–393.
+- **Misuzu (E023–E025):** polite written forms carry explicit possessiveness and committed institutional promises; semantic intensity need not produce harsh syntax.
 - **China (E025):** `ですわ` register remains stable through accountability, uncertainty, leadership, and requests for help; femininity/class register is compatible with strong office authority.
 - **Asari (E029, branch-gated):** teacher-polite register survives being produced as an idol; closing `わたしの――プロデューサーくん` adds a new relational address rather than erasing teacher identity.
 
@@ -670,3 +672,47 @@ Textual register only; prosody stays AV-gated (Carbon queue). These rows mirror 
 | Vocal trainer | `LOC-SAA-288B` | Producer | idiolect | drawn-out `～`; `わたし`; `あらあら～プロデューサーも アイドルを目指すのかしら～？`; `厳しくいくから、覚悟してくださいね♪` | teasing with an edge (GKM-SAA-288) | high for these lines |
 | Visual trainer | `LOC-SAA-288C` | Producer | idiolect | `わ`/`ね`/`かしら`; `私`; `あら、ビジュアルトレーナーに進路変更するの？`; `ふふっ、成長したわね♪` | teasing then praise (GKM-SAA-288) | high for these lines |
 | Headmaster Juo Kunio | `LOC-SAA-288D` | Producer | idiolect and staging | laugh `ふふふ……ははは……はーっはっは！！` before the self-introduction; `わし`, `おぬし`, `じゃ`; `おぬしの名前は、確か――` / `そうであったな！` | none of the three trainers or the headmaster uses the Producer's name in these files, unlike Asari's `{user}くん` (GKM-SAA-288) | high for these lines |
+
+## Sena and Tsubame — support 3-0086 written address and performed contrast
+
+`adv_csprt-3-0086_03` L53–182 distinguishes Sena’s given-name address, the explicit relational term `幼馴染`, the different lexical work of `恋` and `好き`, and the move to `あなた` at L173. Tsubame uses `貴様` amid shock, challenge and fluster. That register can coexist with attachment in a high-trust exchange and has to be read in context. Exact `SRC-0093` around 249–255 s carries the warm final statement from Sena to Tsubame. The latter speaks the last reply. **STRENGTHEN** the addressee-specific distinction. The Producer has no line in this two-person interval. [Separate script, returned audio and picture checks](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Carbon character and claim write-through — 2026-11-25
+
+| Name or register | Later recorded support and limit |
+| --- | --- |
+| Temari Dear 037 | GKM-SAA-006 survives for lexical address. The written 18-bar cue, the faint displayed line and matched audible response after about 3048 s are distinct. The cited reports do not certify the split into fractional seconds. [Current Temari update](../05_AUDIOVISUAL_ANALYSIS/02_TSUKIMURA_TEMARI/GKM_TEMARI_CARBON_CHARACTER_RECONCILIATION_20261125.md) |
+| Saki, Sena and Tsubame · `100プロ` | Use individual cue and speaker assignments; the recorded `じゅうおうプロ` token at SRC-0029 around 1913 s is Saki's speech, not an inner line. On SRC-0028 2878–2881 s it is Sena. These variants defeat a uniform rule assigning distinct forms to different people. [Saki](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_SAKI_CARBON_PLAYBACK_SUCCESSOR.md) · [Sena](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_CARBON_PLAYBACK_SUCCESSOR.md) |
+| Tsubame · address | Forceful `貴様`, the informal `お前` choosing people in context, and `プロデューサー` occur on different named routes. `SRC-0028` places some Producer vocatives before the Dear 037 epilogue. Avoid making the passage at 3441.2 s a spoken Producer vocative. [Current Tsubame voice route](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_CARBON_PLAYBACK_SUCCESSOR.md) |
+
+## Recorded role and address comparison, 2026-11-25
+
+**REVISE the register description for support 3-0082.** Expertise changes the length and intensity of Lilja’s recommendation while she retains `センパイ` and polite endings. The cinema interruption changes pace and urgency. Tsubame leads with a stammered explanation and summons Lilja’s reply. Lilja repeats the phrase about acting on impulse with polite syntax. The findings qualify the earlier fandom bullets in these encounters and supply no new test of separate gaming, romance or restraint claims.
+
+Temari’s `りーぴゃん` begins as a proposal for Lilja (L231) and becomes direct address (L244). Sumika’s `真顔` is her own description (L249). Kotone introduces `てまりん` as a threat to use it (L258). Those are different speech acts. [Matched delivery and source limits](../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Recorded speech in three event scenes
+
+In the shop, Sumika moves from recognizing Mao’s concern to her own apology, then recovers her familiar “Mao-cchi senpai.” Mao’s quiet apology and warm reply accompany Sumika’s shift. [Beach-restaurant repair](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#repair-at-the-beach-restaurant)
+
+At the ball-toss stall Lilja continues to use polite Japanese while requesting another try and accepting Saki’s challenge. She voices strain after Saki declares the first-round win and sounds delighted at her own later declaration of victory. She chooses to continue. [Festival game](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-coach-becomes-an-opponent)
+
+At the Animate event Kotone and Saki switch from public customer-facing speech to quieter peer prompts. Temari’s polite invitation is addressed to the customer. The audience hears her private doubt in the later debrief, and her possessive reply to Kotone comes later still. [Animate fan encounter](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)
+
+## Sports day and Hiroshima addresses — 2026-11-25
+
+**STRENGTHEN.** Hiro commonly uses bare `美鈴` and plain endings, while Misuzu uses `篠澤さん` and politeness even in her warm affirmative reply. Hiro’s heard `大好き` and Misuzu’s `はい……わたしもです` retain different wording. China’s quiet reply to Hiro expands to a wider audience with the group’s response blended. In Hiroshima the juniors’ deferential address to Rinami coexists with their direct support. These are scoped voiced records. [Sports day and Hiroshima adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## 2026-11-25 speaker and Japanese register corrections for Events 022 and 024
+
+Event 022 distinguishes Mao's half-sleep L66/L70, Kotone's L68 echo, Mao's remembered senior address and the L408 acknowledgement. In part 04 Kotone's tentative term `年上の友達` coexists with L554 respect, and Mao repeats and welcomes it. At Shibuya Ume gives the count, Ume and Misuzu refuse together, and Misuzu's polite exclusivity is a separate reply. Sena's laughter and challenge do not settle her concealed expectations. The three distinct voice assignments at the title call differ from two assignments at the refusal. L484 pairs only with Ume's `hume-017`.
+
+[Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded Event 023 — 2026-11-25
+
+**STRENGTHEN.** Present Misuzu uses polite speech to 篠澤さん. The remembered request uses まりちゃん. Temari's shifted address to 広 accompanies asking for help. Hiro's ending in part 04 is an authored ordinary named turn delivered reflectively. Part 03 provides separate marked inner lines for Temari. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+**STRENGTHEN.** Mao’s polite answer to the trainer, inward last-chance formulation and spoken acceptance of company have separate audiences. Kotone addresses Mao as her senior and uses familiar practical direction. Kotone’s offers of a book and a lullaby are spoken. Mao’s answer and her later request for a light are separate. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

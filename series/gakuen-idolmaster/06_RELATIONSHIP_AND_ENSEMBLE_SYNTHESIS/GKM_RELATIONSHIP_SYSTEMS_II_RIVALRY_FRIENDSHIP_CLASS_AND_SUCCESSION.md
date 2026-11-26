@@ -12,16 +12,26 @@ source_revision: 32
 governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
-version: '2.1'
+version: '2.3'
 created: '2026-08-24'
-revised: '2026-11-15'
-revision_note: 'Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): one coordinated §9 edit modelling the Producer branch by branch (new §9.2.1, §9.2.2, §9.13), Sena–Tsubame bounds and stages (§5), U1 trio and Worst Three corrections (§3, §4), China–Kanae succession (new §8.7.2, SL1.2), and narrowed open questions; earlier formulations kept recoverable'
+revised: '2026-11-25 — Carbon write-through'
+revision_note: '2026-11-25. Adds the Rinha witness to the boundaries of brokerage, rehearsal access and consent to coaching. Corrects the scope of shared Producer states after the Kanae tranche. Earlier revision: Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): one coordinated §9 edit modelling the Producer branch by branch (new §9.2.1, §9.2.2, §9.13), Sena–Tsubame bounds and stages (§5), U1 trio and Worst Three corrections (§3, §4), China–Kanae succession (new §8.7.2, SL1.2), and narrowed open questions; earlier formulations kept recoverable'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM RELATIONSHIP SYSTEMS II - RIVALRY, FRIENDSHIP, CLASS, AND SUCCESSION
+
+## Recorded comparison note — 2026-11-25
+
+The exact 3-0086 support recording preserves Sena’s teasing frame, direct spoken liking and Tsubame's delivered response and boundary. Apply this scene to the variety of their dyad. Their relationship category remains OPEN. [Paired adjudication](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+China's household interactions on the Episode 0 recordings give another relationship context for her careful decision to leave Kanae a choice. China's later shared Producer assignment with Kanae still belongs to its own authored state. At a separate failed China selection, a Kanae-coded narrator sound match leaves the displayed generic narration role and the in-world speaker question intact. [China recording update](../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_CHINA_CARBON_AV_UPDATE_20261125.md).
+
+> **Revision v2.3, 2026-11-25.** The source-specific protection against merging Producer routes still governs. Under Source Lock 1.2, Kanae’s Produce 001 school event establishes another explicit shared assignment, distinct from Re;IRIS in Unit Story. See §9.2.3.
+
+> **Revision v2.2, 2026-11-25.** Adds the Rinha witness to the boundaries of brokerage, rehearsal access and consent to coaching. Source Lock 1.0 governs the original analysis. The dated additions use separately admitted revision 86 witnesses where named and the [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) at the revision 88 boundary. Earlier statements deferring the branch record the state of work at their original dates.
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Applies the source-to-analysis audit's post-review change plan to this synthesis; each addition is dated and carries its audit ID (`GKM-SAA-nnn`, or `HSCA-nnn` for historical-audit items). §9 is edited once, so that the Producer node is modelled branch by branch: new §9.2.1 (Mao, Lilja, Rinami, Ume, Temari and the U1 witness function, track by track), new §9.2.2 (U1, the one shared-Producer state), additions to §9.5, §9.8, §9.9 and §9.11, and new §9.13 (Producer invariants). Also: §3.2, §3.3 and §3.9 (U1 trio; Kotone's profile); §4.1 and §4.11 (the Worst Three attribution REVISED; earlier wording quoted in place), §4.4, §4.5 and OPEN-RS2-05 (narrowed); §5.3, §5.4, §5.5, §5.9 and §5.11 (Sena–Tsubame stages, bounds and the wager); §7.4; §8.1, §8.6, new §8.7.2 (China–Kanae, SL1.2) and §8.8; §10.7; §13.7; §16.5; and the SL1.1 section (D-TSUBAME routing). Sources are Source Lock 1.0 unless marked SL1.1 or SL1.2; the front-matter `source_boundary` is unchanged. The principal thesis stands. This is the file's first `version` key.
 
@@ -663,7 +673,7 @@ This is important: Sena/Tsubame are not a complete governing dyad.
 
 Support evidence significantly revises any "always push harder" model.
 
-With Hiro, Tsubame begins severe running supervision, observes actual physical danger, and immediately shifts to rest, hydration, and safety. With Kotone, she checks sleep/health and ends training early based on observed fatigue even when Kotone says she is fine.
+During Hiro’s run, Tsubame first encourages persistence. After noticing a change in Hiro’s color, she calls for rest, checks whether Hiro can hear and offers water. Hiro later asks for greater severity and maintains that she can continue. Changed evidence redirects Tsubame’s actions while Hiro still wants more. In a separate rehearsal Tsubame asks Kotone about her sleep and health, then ends the lesson on her own assessment while Kotone says she is energetic.
 
 Her care can be directive and unwelcome while still being recipient-sensitive.
 
@@ -765,7 +775,7 @@ It is **competitive legibility**: people know what others are good at, know who 
 
 Class 1-2's strongest early symbol is the Worst Three.
 
-Rather than organizing low status as shame, the class develops a more affiliative culture in which unusual weaknesses can become shared identity. The sports-festival event makes this class-wide: Class 1-2 loses but metabolizes the loss collectively, and China can become a moral center despite weak physical rank.
+The class develops a culture in which unusual weaknesses can become part of a shared identity. The sports festival gives Class 1-2 a loss to work through together. China reports losing her individual event and still insists the class can win. Saki praises China's fighting spirit and calls her the boss of Class 1-2 (`adv_event_014_main-04.txt` L245–251, L288–322). In the [Event 014 account](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_013_020_DEEP_READING.md#34-china-performs-morale-as-chosen-professional-labor), helping the class persist and winning an individual event are distinct contributions.
 
 This does not make Class 1-2 less ambitious.
 
@@ -879,19 +889,19 @@ Later monographs should preserve distinct senior grammars rather than collapsing
 - Mao tends to protect through practical service, dorm monitoring, craft, and role-sensitive encouragement.
 - Sena tends to create developmental environments, opportunities, and rival structures, with a recurring risk of deciding before consent catches up.
 
-The same junior can respond differently to each style.
+The same junior can respond differently to each style. After a shift Kotone requests tutoring and offers a gift she has saved for Tsubame. In a separate support episode China calls Tsubame’s worksheet-based teaching kind even as Tsubame invokes council standards. Each junior gives her own account of the help. [Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 ## 7.4 Good seniority includes being teachable
 
 The strongest senior/junior scenes are reciprocal.
 
-Tsubame studies Ume's movement because Ume exceeds her in one physical domain. Sena lets Ume teach her an ordinary summer ritual. Mao and Sumika can solve outreach problems by provoking authentic rather than formally correct behavior. Senior status survives because the senior can learn without experiencing learning as status collapse.
+Tsubame studies Ume's movement because Ume exceeds her in one physical domain. In support 3-0085 part 03 Tsubame asks to learn Saki’s machine-based training method. Saki proposes combining their approaches. Tsubame later wonders if they packed in too much. Saki values their work together and still reminds Tsubame that they will be rivals in auditions. Sena lets Ume teach her an ordinary summer ritual. Mao and Sumika can solve outreach problems by provoking authentic rather than formally correct behavior. Senior status survives because the senior can learn without experiencing learning as status collapse.
 
 **Tsubame as the senior who loses and blesses (2026-11-15; GKM-SAA-097).** In other idols' Dear tracks Tsubame is repeatedly the senior obstacle at the Selection who loses and then publicly acknowledges the winner. In `D-SUMIKA` she concedes to Sumika and acknowledges Lilja and REVERSI (`adv_dear_ssmk_032.txt` L113–L177); in `D-SAKI` she tells Saki that she has found a weapon of her own (`adv_dear_hski_032.txt` L31–L68); in `D-RINAMI` she says she has watched Rinami's effort since their first year (`adv_dear_hrnm_032.txt` L20–L55); in SL1.1 `D-KOTONE` she tells Kotone to be proud that she beat her (`adv_dear_fktn_032.txt` L22–L84). In `D-SUMIKA` the reflex 'この私が、星南以外に負けるだと！？' (L31) persists late in the year, so the individuation of `D-TSUBAME` is route-specific. In `D-MAO` Tsubame is relieved when Mao enters 100 Pro (`adv_dear_amao_022.txt` L203–L226). This answers the Tsubame core's falsifier about blocking juniors from surpassing her; the core owns that claim.
 
 ## 7.5 Stopping can be legitimate care
 
-Tsubame stopping Hiro or Kotone is important because Gakumas often celebrates determination.
+Tsubame calling for a rest during Hiro’s run and ending Kotone’s separate rehearsal early are important because Gakumas often celebrates determination.
 
 The corpus nevertheless repeatedly distinguishes admirable effort from preventable collapse.
 
@@ -903,6 +913,8 @@ A senior may have legitimate standing to stop someone when:
 - and the limit is not simply the senior's preferred pace.
 
 This is not blanket authorization for paternalism. It is a bounded care function.
+
+**Ume chooses when Rinha may coach her (2026-11-25).** Seeing Saki burn so fiercely makes Rinha want to intervene. Ume refuses before Rinha asks about burning out, says her own performances will rekindle Saki, and tells Rinha to stay out. Later, when Rinha suggests a song, Ume asks her to join the rehearsal and welcomes strict criticism. Rinha can be refused as an intermediary and chosen as a teacher in the same conversation. Ume’s second answer grants permission for that particular correction. (`adv_dear_hume_029.txt` L357–399, L444–476, D-UME; SRC-0011, P1-004, 299–588 s.)
 
 ## 7.6 Mentorship becomes capture when succession or care erases first-person desire
 
@@ -1090,7 +1102,9 @@ The list above omits Mao, Lilja and Rinami, and models Saki, Temari and Ume from
 
 These rows refine, and do not replace, the bullets above. Saki's 'witness to collapse' gains a `U1` locus; Temari's 'containment-transfer point' gains its textual locus (`D-TEMARI` Dear 009); Ume's 'accelerator' becomes a two-way relation.
 
-### 9.2.2 U1 — the one track with a shared multi-idol Producer *(2026-11-15; GKM-SAA-111)*
+<a id="922-u1--the-one-track-with-a-shared-multi-idol-producer-2026-11-15-gkm-saa-111"></a>
+
+### 9.2.2 U1 — a shared three-idol assignment *(2026-11-15; GKM-SAA-111)*
 
 §1.2 says the Producer cannot be treated as one simultaneous multi-idol manager unless the source creates that shared state. `U1` creates it, so it tests §9.5 and §9.6 directly. All citations are `C1 @ U1`.
 
@@ -1100,6 +1114,12 @@ These rows refine, and do not replace, the bullets above. Saki's 'witness to col
 - **The Producer as a fourth member.** He frames the Re;IRIS–Begrazia contest as also a contest between producers over who raises the better idol, and Saki concludes it was four against three (`04_12` L464–L486).
 
 The shared-Producer state gives §9.5 its clearest concealment-based instance: strategy is withheld from the idols and disclosed after the fact. Counterevidence: each concealment is framed as benevolent and is disclosed (04_10–04_11), and the members ratify the strategy (03_08). OPEN: whether this counts as orchestration (§9.6) or as interpretive monopoly (§9.5).
+
+### 9.2.3 China and Kanae — a second explicit shared assignment *(2026-11-25, Source Lock 1.2)*
+
+Asari names the burden of simultaneously producing two idols and identifies Prima Stella Kuramoto China as one of them. The three answers in `adv_pevent_001_hkne_school_010.txt` L8–25 and L29–90 keep the assignment to China and Kanae fixed. Each gives a different reason for accepting the burden. The Producer describes excitement at two demanding prospects, commitment to a choice he made, or planning and expected mutual benefit. Asari privately doubts his timing in the last alternative. The assignment is invariant here. Their private reasons cannot be merged across answers.
+
+This is a different basis for simultaneous production from Re;IRIS joining its three apparent individual relationships into a unit. Kanae’s Dear 010 L199–234 separately gives a particular permission. Kanae requests help in supporting China so that she can do her own idol work, gives a specific fan-club case, and receives the Producer’s assent. Read the Dear negotiation and the Produce school event at their own state boundaries. Each licenses its particular shared arrangement. Neither draws the Producers assigned to other main routes into the same biography. [Source Lock 1.2 Kanae reading](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/14_HIWATARI_KANAE/GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md)
 
 ## 9.3 Producer value begins where self-management stops being enough
 
@@ -1164,7 +1184,7 @@ Examples differ by route:
 - Temari (`D-TEMARI`) may ratify decisions he has already taken: protest first, then trust (GKM-SAA-044).
 - Ume (`D-UME`) shows the converse risk, convergence: the Producer adopts her intuition and is taught by her to laugh at defeat (GKM-SAA-024).
 - Lilja (`D-LILJA`) and Rinami (`D-RINAMI`) show limits on monopoly: a deferral both keep, and fallibility disclosed to the idol (GKM-SAA-014; HSCA-038).
-- In `U1`, the one shared-Producer state, the risk takes the form of strategy withheld from all three idols and disclosed after the fact (GKM-SAA-111).
+- In `U1`, a shared-Producer state, the risk takes the form of strategy withheld from all three idols and disclosed after the fact (GKM-SAA-111).
 
 The common structural risk is:
 
@@ -1259,7 +1279,8 @@ This directly constrains romanticized readings of decisive producer action elsew
 - **PROMOTE:** mature production should enlarge, not replace, an idol's independent social graph.
 - **OPEN:** how each Phase-7 monograph should adjudicate romance/professional exclusivity in route-specific Producer relationships.
 - **STRENGTHEN (2026-11-15):** the Producer node is modelled branch by branch; Mao, Lilja and Rinami are added, and Saki, Temari and Ume are modelled from both sides (§9.2.1; GKM-SAA-001, 014, 024, 044, 045, 058, 114, 237; HSCA-038).
-- **STRENGTHEN (2026-11-15):** `U1` is the only track in which one Producer handles several idols at once; it supplies the clearest concealment-based instance of the §9.5 risk (§9.2.2; GKM-SAA-111).
+- **STRENGTHEN (2026-11-15):** `U1` establishes one Producer handling several idols at once and supplies the clearest concealment-based instance of the §9.5 risk (§9.2.2; GKM-SAA-111).
+- **REVISE (2026-11-25, SL1.2):** the earlier “only track” wording was too broad. Kanae’s Produce school event independently supplies the China–Kanae simultaneous assignment. Preserve the separate motivations possible among its three answer branches (§9.2.3).
 - **OPEN (2026-11-15):** whether U1's withheld strategy is orchestration or interpretive monopoly; the text frames it as benevolent and disclosed.
 - **PRESERVE + STRENGTHEN (2026-11-15):** route functions stay separate (§9.2), and a small layer of cross-route Producer invariants is recorded with its source families (§9.13; GKM-SAA-115).
 
@@ -1398,6 +1419,8 @@ A broker may:
 - or connect a problem to the person with relevant expertise.
 
 Brokerage should therefore be modeled as competence, not secondhand intimacy.
+
+**Two different kinds of access (2026-11-25).** In Misuzu Dear 034, Rinha stops Temari and Misuzu for Shuka, then tells Shuka to speak for herself. Shuka asks them to beat Sena. In Tsubame’s separate Dear 033, Rinha asks what help Tsubame provided, and Tsubame explains that she handled the formalities for a Gokugetsu student to rehearse at Hatsuboshi. Shuka remains the author of her request. Tsubame can arrange cross-school access without that exchange establishing a close friendship with Rinha. (`adv_dear_hmsz_034.txt` L301–342, L382–395, D-MISUZU; `adv_dear_atbm_033.txt` L60–97, SL1.1 D-TSUBAME.) [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md)
 
 ## 10.8 Internalized others convert relationship into character change
 
@@ -1704,7 +1727,7 @@ Current evidence strongly supports school ecology but cannot safely project ever
 | their competence asymmetry is reciprocal rather than hierarchical | SYNTHESIZED / PROMOTE | very high | core readings + support teaching reversals |
 | internalized friend-models influence action in absence | DIRECT | very high | support `story_0088` |
 | Sena/Tsubame combine fandom, rivalry, childhood intimacy, governance, and future commitment | SYNTHESIZED / PROMOTE | very high | both core readings + E005/E013/E021 + supports |
-| Tsubame's strictness is condition-sensitive rather than always escalation | DIRECT + SYNTHESIZED | very high | support Hiro/Kotone stopping scenes |
+| Tsubame's strictness is condition-sensitive rather than always escalation | DIRECT + SYNTHESIZED | very high | support `2-0056_01` rest instruction and `2-0079_02` ended rehearsal |
 | class networks are developmental-production infrastructure | SYNTHESIZED / STRENGTHEN | high | Phase 2 institution + E001/E014 + joint lessons |
 | seniority assigns responsibility more reliably than truth | SYNTHESIZED / PROMOTE | high | reciprocal senior/junior teaching across support pass |
 | successful succession transfers function rather than identity | SYNTHESIZED / PROMOTE | very high | E024-E026 + support council/dorm/song evidence |
@@ -1838,18 +1861,14 @@ Together they establish two complementary principles:
 
 > **A mature social ecology distributes developmental authority by domain, preserving enough independent relationships that no single person must own every route to care, correction, expertise, opportunity, or future.**
 
-These are now strong enough to correct Phase-3 character models during Phase 7, but Phase 6 is not yet complete.
+These principles inform the Phase 7 revisions of the Phase 3 character models. The original handoff scheduled four additional Phase 6 artifacts under architecture v2.4. Each is now available:
 
-Architecture v2.4 still requires:
+1. [Side characters, families, staff, Gokugetsu and external pressures](GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md)
+2. [Kaya Rinha source crosswalk](GKM_KAYA_RINHA_SOURCE_CROSSWALK.md)
+3. [Kaya Rinha evidence matrix](GKM_KAYA_RINHA_EVIDENCE_MATRIX.md)
+4. [Independently reviewed Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md)
 
-1. `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`;
-2. `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`;
-3. `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`;
-4. `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`.
-
-The Rinha branch remains a hard precondition for final Temari/Misuzu monographs. The side-character synthesis is the next architecture-defined principal operation because family, staff, Gokugetsu, external institutions, and non-playable observers can still correct the apparent center of the social network.
-
-**Next canonical operation:** `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`.
+Phase 6 closed at Source Lock 1.2 on November 25. The dossier satisfies the Rinha dependency for the Temari and Misuzu monographs at that boundary. Both monographs still require their individual Gate E decisions. Rinha's separate exact whole-container C073 question remains open. [Phase 6 closeout](../CURRENT_STATE_AND_CORPUS_MAP.md#phase-6-completion-at-source-lock-12--2026-11-25) · [Individual readiness](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_CHARACTER_QUALIFICATION_AND_READINESS.md)
 
 
 
@@ -1860,3 +1879,19 @@ The Rinha branch remains a hard precondition for final Temari/Misuzu monographs.
 **Senior peer facilitation.** In E028, Tsubame uses her access to open a stage opportunity for Rinami, affirms that the decision is Rinami's and later calls her a prospective rival. In D-TSUBAME 031 Rinami credits Tsubame’s festival backing. This is a separate retrospective witness. D-SENA 031 independently gives Rinami and Mao an explicit continuing challenge to Sena and Tsubame. These sources develop the distribution of agency within the cohort. See [E028](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md#e028--rinamis-career-choice-and-the-school-festival-as-a-bridge-to-professional-work).
 
 **D-TSUBAME routing (2026-11-15; GKM-SAA-262).** The Tsubame winter refresh's own routing is recorded here as pointers; the relation rows belong to the relationship-state ledger. In SL1.1 `D-TSUBAME`: Mao (Dear 031–032), who admits she looked away from Sena and Tsubame as 'special' and has now caught up, while Tsubame thanks her for three years of mutual growth and names her a rival (`adv_dear_atbm_031.txt` L189–L285); Kotone (Dear 033); Shion and 白草月花 (Dear 034); and the Producer (Dear 034–037). See `GKM_TSUBAME_WINTER_HIF_SOURCE_REFRESH.md` in the Tsubame core folder.
+
+## Offers, recognition and their recipients — 2026-11-25
+
+In `adv_csprt-2-0011_02`, Sena’s offer addresses an immediate material constraint, and Kotone switches from an evasive parting formula to direct insistence that she does not want debt. The performance supports both comic texture and a financial limit. Kotone’s interpretation supplies the debt concern. Sena’s actual terms stay unstated. In `adv_csprt-3-0071_03`, two students seek Sena’s attention, and a separate student recognizes Tsubame for the dance with Sena. Tsubame’s thanks gives the concern and counterevidence different registers. The contrast can inform the model of attention between rivals. It leaves relative recognition outside the arcade and the conditions behind the reported result unsettled. [Five support-card adjudications](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Recorded checks on shared struggle and reciprocal mentorship — 2026-11-25
+
+In Event 014 the present acceptance and Ume’s recalled advice are different turns. Hiro can carry acute discomfort and still smile, and Misuzu gives her own reason for saying they can let the result stand. Her polite answer to Hiro’s voiced affection matters beside the extraordinary effort she chooses for a friend. [Sports day and Hiroshima adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#exertion-relief-and-friendship-across-four-windows)
+
+In the Hiroshima dressing room, the juniors’ reassurance and Rinami’s credit for them coexist with their deference and her continuing senior role. Her voiced conclusion is for the audience. She thanks them aloud earlier. The crisis scene and retrospective room occupy distinct performance situations. [Sports day and Hiroshima adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#what-rinami-acknowledges-to-the-others-and-to-herself)
+
+## Recorded Event 022 and 024 evidence — 2026-11-25
+
+Mao and Kotone add a case where practical care and curiosity about an older friend arrive through different acts. The Shibuya juniors answer as a pair for the refusal, then claim the piece in two incompatible ways. Sena can keep participating without requiring agreement on what the song belongs to. The performed register and instrumental quotation give bounded texture to these scenes. The other performances and circulation described after the show remain reported. [Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+Kotone takes charge of immediate care. Mao can ask for a small accommodation while accepting that help, then chooses separate company at Sena’s live. Mao thanks Kotone and says she lacked the courage to watch alone (part 05 L404, L429). Her next decision is expressed in her own words. The guarded summer scene supplies a separate Mao–Sumika test, with a candid photograph reported and a group photo proposed. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

@@ -9,12 +9,16 @@ source_boundary: Claim-transition bridge from GKM_CORE_04_ARIMURA_MAO.md to the 
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-17'
+last_updated: '2026-11-25'
 parent_textual_authority: GKM_CORE_04_ARIMURA_MAO.md
 parent_av_authority: GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # ARIMURA MAO — PHASE-3 AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+For MAO-C24/C25/C27/C31, the revised `SRC-0241` clock binds Dear 022's shock and subsequent Kansai wording without new authority for prosody or the seriousness of the first cry. For attachment, the *Face Me* encounter is a displayed Producer formulation, Mao's question, his deflection, Mao's future-oriented request and her final promise to give him stronger reason to be taken with her. A professional reading coexists with romantic coding. Mutual romantic intent and any relationship inference from a separate sung track stay OPEN. See [the current scene and edition routes](../../../05_AUDIOVISUAL_ANALYSIS/04_ARIMURA_MAO/GKM_MAO_CARBON_AV_UPDATE_20261125.md).
 
 ## Current integrated capsule
 
@@ -67,3 +71,7 @@ For current Mao AV claims, read:
 4. the original AV source and Source Lock transcript for exact verification.
 
 Do not prefer the superseded request register over the complete baseline.
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+Mao’s polite replies to the trainer sit between her inward last-chance thoughts and her later conviction that she cannot afford to rest. Kotone initiates care, and Mao later requests a small light. At Sena’s live, Mao distinguishes her private avoidance from what she tells Kotone afterward. The separate Event 003 summer reflection is inward and concerns the particular season she enjoyed. Guarded edges leave some complete speech, the cause of her symptoms and the effect of her future resolve open. [Guarded care and summer adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
