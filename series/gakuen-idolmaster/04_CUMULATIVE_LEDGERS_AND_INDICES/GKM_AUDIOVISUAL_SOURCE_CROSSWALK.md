@@ -540,3 +540,7 @@ Retained Japanese parent 6OOnsdReyTM. The received answer scopes are China Q562,
 ## Guarded Event 005 and 024 recording reuse — 2026-11-26
 
 The Japanese Event 005 parent is NqK-qO4WvSo. Event 024 parts 02, 04 and 05 use separate guards of the same retained aS6q0UHUt_0 edition. The scoped accepted answers are Hanami Saki P0 Q472, Juo Sena P0 Q472, Hanami Ume P0 Q473, Juo Sena P0 Q473, Hanami Ume P1 Q576, Hataya Misuzu P1 Q576. Other individual requests and readiness requirements retain their own dispositions. [Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Guarded Event 012 recording — 2026-11-26
+
+The retained Japanese original Jzu7bW8VXvA supplies six distinct windows across parts 02, 03 and 05. The frame and audio guard quantities stay separate. The received person scopes are Hanami Saki P0 Q499, Hanami Saki P0 Q500, Katsuragi Lilja P0 Q499, Katsuragi Lilja P0 Q502, Shiun Sumika P0 Q500, Shiun Sumika P0 Q502. Q501 remains a distinct part 04 request. [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
