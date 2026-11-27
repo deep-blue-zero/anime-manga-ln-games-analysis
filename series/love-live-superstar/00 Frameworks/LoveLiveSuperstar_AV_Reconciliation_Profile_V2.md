@@ -113,7 +113,7 @@ When audio appears to differ from the Japanese text, use `SUBTITLE_DIVERGENCE_SU
 
 ## 6. Single-owner integration and canonical homes
 
-The designated integrator performs receiver acceptance under the [handoff contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md), checking complete outputs, source and exposure bounds, hashes/revisions and drift from the handed-off base. Only that owner updates shared cumulative documents and the entrypoint. Specialists retain distinct assigned contributions, not independent copies of the canonical ledgers.
+The designated integrator performs receiver acceptance under the [handoff contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md), checking complete outputs, source and exposure bounds, hashes/revisions and drift from the handed-off base. Only that owner updates shared cumulative documents and the entrypoint. This shared-ledger and entrypoint write rule applies to a bounded relay or other already-admitted targeted reconciliation (§2.1), and to the independent run only after its cross-run comparison barrier has frozen (§2.2). Before that freeze, the independent principal owns the candidate readings and run-local deltas; the repository-aware coordinator alone updates current routing in the entrypoint from neutral receipts; neither writes independent interpretations into the canonical ledgers. Specialists retain distinct assigned contributions, not independent copies of the canonical ledgers.
 
 | Responsibility | Canonical destination after acceptance |
 |---|---|
