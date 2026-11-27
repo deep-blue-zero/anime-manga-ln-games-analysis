@@ -1,0 +1,15 @@
+{
+  "series_id": "love-live-superstar",
+  "stable_slug": "love-live-superstar",
+  "canonical_title": "Love Live! Superstar!!",
+  "media": [
+    "ANIME"
+  ],
+  "repository_path": "series/love-live-superstar/",
+  "canonical_entrypoint": "series/love-live-superstar/01 Source Lock and Inventory/LLS_CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_REVIEWED",
+  "migration_scope": "G5_FINAL_AGGREGATE",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED"
+}
