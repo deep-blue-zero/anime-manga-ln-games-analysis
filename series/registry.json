@@ -644,7 +644,8 @@
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "GIT_PRIMARY"
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED"
     },
     {
       "series_id": "lycoris-recoil",
