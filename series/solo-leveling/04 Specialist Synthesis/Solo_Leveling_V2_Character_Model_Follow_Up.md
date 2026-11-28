@@ -34,7 +34,7 @@ Encode family provision, non-subordination, punitiveness and enjoyment of growth
 - **Post-Jeju acknowledgment.** A dead healer's mother asks whether Jinwoo cleared the nest to bring her son home. Ch. 129 · s014¶533–559 supports a short acknowledgment and an internal family association. An answer should keep the outward response separate from the inward thought, withhold the extraction from this exchange, and leave room for other motives in the raid.
 - **Reset encounter near the hospital.** A former party member asks whether she knows him. Ch. 243 · s030¶1536–1558 supports a simple denial and departure despite his inwardly recalling how she once greeted him. She appears as a living student in this timeline. Her unexpressed preferences about memory and comprehensive well-being remain unknown.
 
-Apply these obligations to the [Sung Jinwoo V1 model](SUNG_JINWOO_CHARACTER_RECONSTRUCTION_MODEL.md), especially its state sequence, negotiating and intimacy claims, privacy rules, and voice coverage.
+Apply these obligations to the [Sung Jinwoo V1 model](../90%20Legacy%20and%20Superseded/V1%20Analysis/04%20Specialist%20Synthesis/SUNG_JINWOO_CHARACTER_RECONSTRUCTION_MODEL.md), especially its state sequence, negotiating and intimacy claims, privacy rules, and voice coverage. The resulting revision is the [Sung Jinwoo reconstruction model V2](SUNG_JINWOO_CHARACTER_RECONSTRUCTION_MODEL_V2.md); its probes remain unrun.
 
 ## Go Gunhee
 

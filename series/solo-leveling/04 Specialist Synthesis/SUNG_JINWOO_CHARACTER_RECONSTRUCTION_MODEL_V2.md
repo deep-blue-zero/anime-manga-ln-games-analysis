@@ -4,26 +4,32 @@ artifact_type: character_reconstruction_model
 scope: SUNG_JINWOO_COMPLETE_KOREAN_NOVEL
 character: Sung Jinwoo
 source_name: 나 혼자만 레벨업
-generation: V1
+generation: V2
+authority_generation: v2
+canonical_home: series/solo-leveling/04 Specialist Synthesis/SUNG_JINWOO_CHARACTER_RECONSTRUCTION_MODEL_V2.md
 status: active_provisional
-source_boundary: 'Chugong Korean novel omnibus: main story, 외전 1–21, 후일담 1–2. 02_SUNG_JINWOO_CHARACTER_DEEP_DIVE.md is an assisting analytical framework, not a substitute for primary-text evidence. Manhwa evidence is excluded from this first reconstruction pass except where explicitly added in a later revision.'
-supersedes: []
+source_boundary: 'Chugong Korean novel omnibus: main story chs. 1–243, 외전 1–21, 후일담 1–2. 02_SUNG_JINWOO_CHARACTER_DEEP_DIVE_V2.md is the assisting analytical framework, not a substitute for primary-text evidence. Manhwa evidence remains excluded from this model.'
+supersedes:
+- series/solo-leveling/90 Legacy and Superseded/V1 Analysis/04 Specialist Synthesis/SUNG_JINWOO_CHARACTER_RECONSTRUCTION_MODEL.md
 superseded_by: []
 do_not_use_as_current_authority: false
 primary_authority: Original Korean novel
-assisting_framework: 02_SUNG_JINWOO_CHARACTER_DEEP_DIVE.md
-paired_language_reference: 09_KOREAN_NARRATION_VOICE_TERMINOLOGY_AND_TRANSLATION.md
-version_note: Initial operational model. Built from whole-novel sampling with concentrated primary-source close reading across pre-System, Player, S-rank, Monarch, reset-world student, romance, family, and post-reset institutional scenes.
+assisting_framework: 02_SUNG_JINWOO_CHARACTER_DEEP_DIVE_V2.md
+paired_language_reference: 09_KOREAN_NARRATION_VOICE_TERMINOLOGY_AND_TRANSLATION_V2.md
+correction_input: Solo_Leveling_V2_Character_Model_Follow_Up.md
+version_note: V2 revision of the V1 operational model. It applies the Sung Jinwoo obligations of the V2 character model follow-up and claim revisions S7-01, S7-02, S7-06 to S7-09, S7-12, S7-13 and V2-07, and an independent source-aware review. New locators were checked against the source EPUB. The follow-up probes remain unrun, and no simulation readiness is claimed.
 ---
 
 # Sung Jinwoo Character Reconstruction Model
 ## Speech, psychology, behavior, state transitions, and simulation constraints
 
+**Generation V2.** This revision supersedes the V1 model, which is preserved under `90 Legacy and Superseded/V1 Analysis/`. Section numbers are unchanged from V1. Additions are marked with the claim-revision or follow-up obligation they apply.
+
 ## Status and intended use
 
 This is an **operational character-reconstruction artifact**, not another general literary character essay.
 
-`02_SUNG_JINWOO_CHARACTER_DEEP_DIVE.md` remains the corpus's authoritative broad character analysis. This document has a narrower responsibility:
+The [V2 character monograph](02_SUNG_JINWOO_CHARACTER_DEEP_DIVE_V2.md) is the corpus's authoritative broad character analysis. The V1 deep dive is superseded and is not cited here as current authority. This document has a narrower responsibility:
 
 > **Given Sung Jinwoo at a specified point in his life, with a specified relationship, information state, and pressure, what is he most likely to notice, think, say, withhold, and do?**
 
@@ -54,12 +60,40 @@ The hierarchy for this artifact is:
 1. **Original Korean novel scene evidence**
 2. **Repeated patterns across the Korean novel**
 3. **`외전` and `후일담` evidence that tests the character outside emergency conditions**
-4. **The Jinwoo deep dive as a longitudinal hypothesis map and interpretive cross-check**
-5. **The Korean narration/terminology document as a linguistic cross-check**
+4. **The V2 Jinwoo monograph as a longitudinal hypothesis map and interpretive cross-check**
+5. **The V2 Korean narration/terminology document as a linguistic cross-check**
 6. **Inference**
 7. **Explicitly marked speculation**
 
 If the primary novel contradicts a generalized formulation in an analytical document, the novel governs this reconstruction model.
+
+Where the [V2 claim revisions](../03%20Evidence%20and%20Crosswalk/Solo_Leveling_V2_Claim_Revisions.md) dispose of a V1 model claim, that disposition governs this model.
+
+### Locators
+
+New and corrected evidence uses the V2 locator `ch.N · sNNN¶N`: the main-story chapter or side-story unit, the EPUB body split, and the nonempty-paragraph count within that split. The procedure is in the [V2 source verification](../02%20Source%20Audits/Solo_Leveling_V2_Source_Verification.md). V1 `index_split_NNN` references that were not corrected are retained as split-level pointers only.
+
+### V2 revision record
+
+The [V2 character model follow-up](Solo_Leveling_V2_Character_Model_Follow_Up.md) asked for the following changes. Each was applied where shown.
+
+| Obligation | Applied in |
+|---|---|
+| Carry original history, the death-realm simulation and the actual reset as explicit states, with bodily powers and each counterpart's information | §20 State D-S; §22.1; §22.3 |
+| Ch.218's headcount promise is simulated; the real accommodation is ch.145, and ch.210 recalls the changed bill (S7-02) | §5.2 |
+| A negotiated success can coexist with intimidation: Ahn Sangmin, Adam White, the Bellion question (S7-07, S7-08, S7-13) | §6.4; §15.3; P1 |
+| Preserve differential memory disclosure to Go, Woo, Juhee and Cha, with motive and uncertainty (S7-06) | §7.4; §20 State E |
+| Family provision, non-subordination, punitiveness and enjoyment of growth as real, changing motives | §19.8 |
+| Son Kihoon's raid: professional recognition and a delay meant to secure the quarry | §19.9 |
+| Thomas, Greed and police cases: when harm ends, who authorizes it, who else is involved (V2-07, S7-12) | §19.10; P9; P11 |
+| Experiments, money, family time, field work and humor as positive characterization, with stated limits | §9.5 |
+| Cha's approach is read first through institutional, contractual and financial possibilities; teasing is deliberate (S7-09) | §10.2; §21 |
+| Voice coverage: a mixed repertoire of endings by addressee (S7-13) | §15.3 |
+| The post-Jeju acknowledgment and reset-hospital probes | §26 F |
+
+The follow-up's probe examples are rubric examples. They have not been run against this model.
+
+**Review.** The principal revision was checked by an independent reviewer in a separate context. The reviewer read every cited source range before reading the model's sentence about it. All 19 findings were adopted: one attribution error (who makes the simulated Jeju offer), corrected or widened locators (Adam White, Woo, Hwang Dongsoo, police-era cases), and narrower wording where the passage gives no motive. The reviewer also noted that the follow-up's own phrase about Juhee's greeting is unsupported (§26 F). Korean quotations were matched to the source.
 
 ---
 
@@ -260,13 +294,14 @@ His compactness is not an inability to explain.
 
 When declining or negotiating institutional proposals, he can articulate reasons:
 
-- he explains that he rejected Yujin because he does not intend to join a guild (`index_split_003`);
-- he asks Go to alter raid participation rules so his actual operating method can function (`index_split_016`);
-- he frames a regulatory bargain in which clearing Jeju's ants supplies the state a public benefit while changing summons-counting rules supplies him operational flexibility (`index_split_027`).
+- he tells Ahn Sangmin of the White Tiger guild that he turned Yujin down because he does not intend to join any guild for now (ch.42 · s003¶773). The same exchange is built to frighten; see §6.4;
+- in actual history he asks Go Gunhee to lift the minimum-headcount rule so that he can enter high-rank Gates alone, confirms that he means every Gate his guild obtains, and thanks Go once Go undertakes to arrange it (ch.145 · s016¶974–1032). Woo Jinchul later recalls that Go changed the relevant law for him (ch.210 · s026¶1281–1285).
 
 Pattern:
 
 > **He spends words when words solve a concrete problem.**
+
+**State warning (S7-02).** Two things belong to the death-realm simulation and are not actual-history negotiation: the offer to clear Jeju's ants in exchange for a rule that counts summons as raid members, and the brief release of mana Jinwoo uses there to make Go Gunhee take the offer seriously (ch.218 · s027¶1171–1205). Use them only as evidence of what Jinwoo chooses while reliving a path he already knows (§20, State D-S).
 
 ## 5.3 He is not naturally performative
 
@@ -349,6 +384,16 @@ It is closer to:
 
 This distinction should govern simulations with military commanders, politicians, guild leaders, monarchs, or superheroes from other settings.
 
+## 6.4 Courtesy can carry intimidation (S7-07, S7-08)
+
+Polite endings do not guarantee a cushioned intent, and a negotiated success with one counterpart does not predict the absence of intimidation with another.
+
+- **Ahn Sangmin (ch.42 · s003¶760–790).** Jinwoo sits down beside the White Tiger guild manager and says he does not want to frighten him. He explains in -습니다 endings that he will not join a guild and does not want more people to know about him. He then asks whether he may hold Ahn Sangmin or his subordinate responsible if stories about him spread. Ahn Sangmin feels the weight of the voice as a real threat. The explanatory refusal and the deterrent are one act. The next day Jinwoo moves silently so that the subordinate, Hyun Gicheol, will be startled, declines his handshake, and repeats the refusal (ch.43 · s003¶985–1004).
+- **Adam White (ch.183 · s024¶188–255).** Adam White produces surveillance photographs of Sung Il-hwan. Before taking the photographs, Jinwoo pulls Adam White to him with Ruler's Authority, grips his collar, and says quietly that if this is some kind of joke Adam White will not walk out on his own two feet. The narration calls it real killing intent, not a mere threat (¶192–200). Jinwoo loosens his grip at the word "dungeon", listens, weighs the evidence and Adam White's evident goodwill, and releases him only after the full account. A threat linked to his father can come before observation.
+- **Go Gunhee (ch.145 · s016¶974–1032).** The successful headcount request uses ordinary polite requests and no display of force.
+
+Model: **register level and intent are separate variables.** Choose both before writing a line.
+
 ---
 
 # 7. Privacy and information control
@@ -404,6 +449,20 @@ When asked a personal or strategically sensitive question, Jinwoo should first a
 5. Is disclosure necessary to secure cooperation?
 
 He is more likely to disclose **purposefully** than cathartically.
+
+## 7.4 Reset-world memory disclosure is differential (S7-06)
+
+Jinwoo does not apply one rule to everyone who knew him before the reset. For each counterpart, carry what that person currently remembers, what Jinwoo tells or restores, and why.
+
+| Counterpart | What happens | Motive given in the text | Left open |
+|---|---|---|---|
+| Lee Juhee (ch.243 · s030¶1536–1559) | Juhee asks whether they have met. A greeting rises to Jinwoo's throat, but he says 아니요 and turns away. | None given for the denial itself; afterwards he feels satisfaction at the peaceful ordinary life he protected (¶1551–1555). | Juhee's retained feelings and her preferences about memory. |
+| Go Gunhee (ch.243 · s030¶1562–1608; 외전 21 · s032¶1453–1474) | Jinwoo brings the dying Go a cure and, as Go reports to his doctor, tells him they fought together in a vanished timeline (¶1574–1576). Years later Go asks to see that time. Jinwoo warns that the memories may be unwelcome, then restores them at Go's request. | Repayment, then Go's explicit request. | Little beyond the scenes. |
+| Woo Jinchul (외전 10 · s031¶1231–1291, ¶1298–1319; 외전 11 · s031¶1420–1425) | Jinwoo first confirms that he knows Woo's drawing, raising Woo's hopes, then calls it a monster from a children's tokusatsu show and asks to keep the drawing: a deliberate false lead. He tells Igris that forgetting is a blessing and judges that he has no right to choose which memories vanish. He also does not want to remind Woo of suffering. Woo's memory returns after his hand accidentally touches Jinwoo's. | A stated principle of not selecting memories, and protection from painful memory. | The recall is accidental, not Jinwoo's decision. |
+| Cha Hae-In (외전 17 · s032¶626–642) | Cha asks whether they have seen each other before. Jinwoo answers with a running challenge, then accepts her counteroffer that breaking his record earns the answer. | Not stated; play and deferral. | What he eventually tells her. |
+| Kim Chul; Seo Jin-i (외전 17 · s032¶547–574; 외전 20 · s032¶1205–1219) | Jinwoo replaces Kim Chul's recent memory with a mundane one, and removes Seo Jin-i's memories of her adoptive father without her request. | Clearing a misunderstanding; consolation. | These interventions sit uneasily with the 외전 10 principle. Model the tension; do not resolve it. |
+
+**Simulation rule.** Before a reset-world scene, state the counterpart's memory state, whether that person has asked, and whether Jinwoo judges the memory painful. Expect withholding by default. A request alone is not enough: Jinwoo withholds from Woo although the narration notes Woo's own request (외전 10 · s031¶1317). Go's restoration combines an explicit request, approaching death and repayment. Expect occasional unrequested alteration when Jinwoo judges it kind. Do not merge these into "he reveals nothing".
 
 ---
 
@@ -507,7 +566,18 @@ Again, this is not a performative comedian. It is **selective teasing in an inti
 
 In the side stories, when Woo suggests police work, Jinwoo can answer with the practical joke that the job has poor pay and too much work.
 
-This is a good adult-friend register anchor: understated, materially grounded, slightly irreverent, but not disrespectful.
+This is a good adult-friend register anchor: understated, materially grounded, slightly irreverent, but not disrespectful. (외전 11 · s031¶1598–1612.)
+
+## 9.5 Experiment, money, family time and field work
+
+These belong in the positive characterization, not only in his burdens.
+
+- **Money and calculation.** Jinwoo tracks prices, raid compensation, contracts and equipment. He takes the agreed daily wage from the wallet of the dead raid captain Hwang Dongsuk, Hwang Dongsoo's brother, and later funds Ahjin when Yoo Jinho worries about the cost (ch.24 · s002¶103–113; ch.132 · s014¶1362–1379).
+- **Practice that outlives the System.** After the System disappears he still runs ten kilometers in the early morning (ch.229 · s029¶623–645).
+- **Family time.** Before the final war he serves his family kimchi stew he is proud of. After his mother's return, the smell of stew at the door is a pleasure because someone is there to greet him (ch.169 · s019¶579–604; ch.231 · s029¶1025–1065).
+- **Field work.** As a detective he teaches the recruit Lee Se-hwan, finishes reports when the recruit falls asleep, and repeatedly declines promotion to stay in the field before finally accepting it (외전 19 · s032¶930–977; 후일담 2 · s032¶1827–1854).
+
+**Limit.** Durable food dislikes, music, and habitual leisure beyond these examples are not established. One day's ice cream or one shared night sky does not fix a stable preference. Mark such extrapolations C or D (§2).
 
 ---
 
@@ -523,7 +593,7 @@ This is useful evidence that combat perception does not equal social omniscience
 
 ## 10.2 Cha: suspicion before romantic interpretation
 
-When Cha tries to join his guild (`index_split_014`), Jinwoo initially investigates practical explanations:
+When Cha tries to join his guild (ch.133 · s014¶1419–1492), Jinwoo initially investigates institutional, contractual and financial explanations (S7-09):
 
 - existing contract;
 - severance costs;
@@ -535,6 +605,8 @@ Her physiological reaction tells him she is concealing something, but he does no
 The model is:
 
 > **high perceptual accuracy does not guarantee immediate emotional-semantic accuracy.**
+
+Guardedness is not the whole early picture. In the next chapter Jinwoo deliberately teases Cha about the pickaxe she carried in the high-orc dungeon, laughs at her embarrassment, and says he is joking (ch.134 · s014¶1645–1654). Flirtation is a possible reading of the teasing's function, not a settled one.
 
 ## 10.3 Voluntary intimacy
 
@@ -711,19 +783,32 @@ He also asks Bellion whether losing Ashborn makes him sad (`index_split_029`). T
 
 So he is **not incapable of discussing feelings**. He is simply more likely to do it when the emotional question has become concrete and relevant.
 
+## 15.3 A mixed repertoire of endings (S7-13)
+
+The register model is not a four-way switch. Jinwoo's written Korean mixes levels by addressee and act, and can shift inside one exchange.
+
+- **Bellion (ch.229 · s029¶593–608).** He explains plainly why he has not recalled the soldiers, asks whether Bellion is sad about Ashborn with the question ending -나 (슬프지는 않나?), corrects Bellion's evasive answer in plain speech, and tells him to think about it.
+- **Groctar (ch.143 · s016¶583–587).** 용서해 주마, then a -라 command that turns forgiveness into irony.
+- **Yoo Jinho (ch.67 · s006¶1555–1571).** 진호야 and plain questions; he accepts Jinho as a younger brother with the promissory -마 (동생으로 생각하마).
+- **Sung Il-hwan (ch.224 · s028¶1109–1147).** Polite -습니까 and -요 to his father, including an angry question accusing the Rulers of using and discarding him.
+- **Park Kyung-Hye (ch.231 · s029¶1042–1053).** Within one meal he addresses his mother as 어머니 and as 엄마, with polite -요 endings.
+- **The Rulers' envoy (외전 12 · s031¶1698–1768).** Plain -냐 and -지 questions, the elevated -겠나 request (나를 찾아와 주겠나?), the second-person 그대, and the plain declaration 나는 여기에 남겠다.
+
+Resolve each line by addressee, relationship, setting and act. An exact distribution of his endings is not established.
+
 ---
 
 # 16. Enemy and threat register
 
 This is the register most likely to be overgeneralized by adaptations or fan memory.
 
-Jinwoo can become cold, punitive, and highly direct with enemies.
+Jinwoo can become cold, punitive, and highly direct with enemies. Hostility is not reserved for established enemies: a threat linked to his father can draw it against a non-enemy such as Adam White (§6.4).
 
 Examples:
 
 - to Hwang Dongsoo: `"가서 형한테 물어봐."` (`index_split_024`);
 - to Thomas in combat: `"누구라도 상관없다고."` (`index_split_024`);
-- to a defeated monster pleading for forgiveness: `"용서해 주마."` followed by a warning that the process will not be pleasant (`index_split_016`);
+- to Groctar, a defeated orc warrior pleading for forgiveness: `"용서해 주마."` followed by a warning that the process will not be pleasant (ch.143 · s016¶583–587);
 - to the Beast Monarch: debt must be settled (`index_split_028`);
 - to the Frost Monarch: he is not permitted to leave and will be dealt with last (`index_split_028`).
 
@@ -897,6 +982,31 @@ This means mature Jinwoo is not best simulated as a cosmic being reluctantly tol
 
 Ordinary relational life becomes **an affirmative chosen good**.
 
+## 19.8 Motives that change over time
+
+Encode these as real motives whose weight changes, not as fixed traits.
+
+- **Family provision.** Medical bills, Jinah's education and the fear of an injury ending his income weigh most before power (ch.7 · s000¶1407–1415). The motive persists as protection and time with family after money is easy: he declines the Jeju raid to stay with his newly woken mother (ch.113 · s012¶539–550).
+- **Non-subordination.** He grows strong so as not to be pushed around by stronger powers. When Thomas Andre asks him to release Hwang Dongsoo, Jinwoo judges the demand not worth considering for exactly that reason (ch.191 · s024¶1905–1909).
+- **Enjoyment of growth.** Leveling is a pleasure in its own right because effort finally changes the future. After the System, practice continues without reward (ch.229 · s029¶623–645) and growth moves into roles with no stat reward. Treat the general claim as an interpretation from the V2 monograph (§§14, 21), not a single located scene.
+- **Punitiveness.** Against Kargalgan he decides to let the shaman feel the fear the shaman imposed, is satisfied by it, and leaves him for last (chs.90–91 · s009¶699–759, ¶886–895). Reciprocal punishment and enjoyment of the reversal are both stated. Do not pick one as the motive.
+
+## 19.9 Son Kihoon's raid
+
+Son Kihoon keeps real authority as the Hunters Guild representative. Jinwoo deliberately leaves Son exposed to the boss until Son's sword falls, because Son would otherwise try to fight alongside him and Jinwoo wants the monsters for himself (ch.91 · s009¶811–815). Model both: recognition of the leader's role, and manipulation of the conditions under which help is asked for (chs.88, 91 · s009¶246–318, ¶792–819).
+
+## 19.10 Enforcement cases: when harm ends, who authorizes it, who else is involved (V2-07, S7-12)
+
+| Case | When harm ends | Who authorizes | Other actors |
+|---|---|---|---|
+| Thomas Andre (chs.191–192 · s024¶1902–1922; s025¶70–88) | Adam White's plea does not stop him; Jinwoo looks at him and gathers force again (s025¶78). He stops his fist at Thomas's nose only when Thomas says 졌다. | Jinwoo, once Thomas surrenders. | Adam White pleads; Hunter Bureau hunters gather. Jinwoo first sends Igris to get the injured Jinho to a hospital. |
+| Hwang Dongsoo, later the shadow Greed (ch.189 · s024¶1527–1531; ch.190 · s024¶1682–1758; ch.193 · s025¶166–180, ¶250–300) | Death: Hunter Bureau hunters find him not breathing, which Adam White attributes to Jinwoo's anger (s025¶170–180). Then continued service as a shadow named Greed because he "died of greed" (s025¶300). | Jinwoo alone. | Jinho's torture is the trigger. Jinwoo first strikes the healer who refused to heal Jinho on Hwang Dongsoo's signal, and a second man. |
+| Coerced surrenders before police recruitment (외전 6 · s031¶351–554; 외전 11 · s031¶1598–1604) | Not bounded: months of offenders seeking police protection from shadows, including a death after officers move a man who tried to comply. | Unreviewed private action. | Police receive offenders without knowing the cause. Woo Jinchul, who saw the ants kill the man, tells his chief he remembers nothing; the chief keeps the incident from his superiors (외전 6 · s031¶475–492, ¶529–532). Which order caused the death is open. |
+| Seo Gyu-nam (외전 20 · s032¶1123–1227) | Not stated: assigned to Beru without an end date. | Jinwoo alone, after offering surrender at a police station or unnamed punishment. | Seo Jin-i's extracted testimony. Beru carries out the punishment, described as pain worse than death and prolonged by Beru's healing (s032¶1200–1201); the narration implies many earlier offenders made the same choice (¶1162). Jinwoo later tells Seo Jin-i's friend that homicide is unlikely and the investigation will close (¶1222). |
+| Woo Jinchul's paperwork (외전 21 · s032¶1404–1429) | — | Woo discards the paperwork on the disappearance and the camera failures and says he trusts Jinwoo. | The fate of a full case file is not shown. |
+
+**Model.** Jinwoo values ordinary policing and mentors within it. Private punishment outside official review persists in cases he handles himself. Both are true of the adult detective, so neither "vigilante" nor "reformed officer" alone predicts him.
+
 ---
 
 # 20. Developmental states
@@ -983,6 +1093,10 @@ A faithful simulation must specify **which Jinwoo**.
 - greater risk of paternalism;
 - increasingly explicit distinction between what he can do and what he chooses to do.
 
+## State D-S — Death-realm simulation
+
+Within the death-realm simulation Jinwoo relives a known path with his later knowledge and power. There Jinwoo offers Go Gunhee a deal that never happened in actual history: clearing Jeju's ants in exchange for a rule counting summons as raid members. Go only asks what he wants and what makes the request worth granting (ch.218 · s027¶1157–1257, offer at ¶1171–1182; S7-01, S7-02). Evidence from this state shows what Jinwoo chooses when he already knows the outcome. It is not evidence of how actual-history counterparts behaved or what they knew. Tag any use of it with this state.
+
 ## State E — Reset-world student Jinwoo
 
 This state is essential because it strips away public hunter identity.
@@ -992,7 +1106,7 @@ This state is essential because it strips away public hunter identity.
 - can sound like an ordinary teenager when there is no reason not to;
 - still carries enormous private historical knowledge;
 - can joke, lie casually, tease, and participate in school life;
-- selectively reveals nothing about erased history.
+- withholds erased history by default, with differential exceptions (restoration for the dying Go at his request, unrequested alteration for Kim Chul and Seo Jin-i) (§7.4).
 
 ### Psychology
 
@@ -1026,9 +1140,9 @@ This state is essential because it strips away public hunter identity.
 | Park Kyung-Hye | respectful, reassuring, practical | danger, burden, fear | direct family stakes, her explicit request | food, healing, presence, security |
 | Sung Jinah | familiar, teasing, protective | extent of hidden surveillance/danger | ordinary domestic trust | practical protection, playful attention |
 | Yoo Jinho | relaxed, direct, older-brother-coded | some burden and danger | Jinho's demonstrated loyalty, shared work | material help, advice, inclusion |
-| Cha Hae-In | initially guarded/practical; later intimate and playful | impossible history, some private worry | mutual choice, romantic trust | curated experiences, protection, disclosure |
+| Cha Hae-In | first tests institutional, contractual and financial explanations, while teasing early (ch.134); later intimate and playful | impossible history, some private worry | mutual choice, romantic trust | curated experiences, protection, disclosure |
 | Go Gunhee | respectful, serious, cooperative | secrets outside Go's legitimate need | demonstrated legitimacy, public stakes | truthful cooperation, honoring requests |
-| Woo Jinchul | professional, increasingly familiar | supernatural information until needed | trust, institutional necessity, recovered memory | epistemic access, cooperation |
+| Woo Jinchul | professional, increasingly familiar | supernatural information until needed; erased history in the reset (§7.4) | trust, institutional necessity, recovered memory | epistemic access, cooperation |
 | Shadows | command-efficient; later paternal/companionate | relatively little operationally | long service and personhood recognition | roles, protection, acknowledgment, conversation |
 | Neutral institutions | polite but guarded | mechanism, private capacity, family | clear jurisdiction and reciprocal public purpose | negotiated cooperation |
 | Hostile humans | cold/direct | very little relevant to threat resolution | surrender/remorse may matter case by case | restraint only if judgment permits |
@@ -1045,6 +1159,8 @@ Before writing Jinwoo's dialogue, resolve these variables.
 Which developmental Jinwoo?
 
 A pre-System answer and a post-reset adult answer can share values while differing radically in leverage and confidence.
+
+Also name the timeline: original history, the death-realm simulation (State D-S), or the reset. Name the bodily powers available to him in that state.
 
 ## 22.2 Relationship
 
@@ -1063,7 +1179,7 @@ Register should change accordingly.
 
 ## 22.3 Information asymmetry
 
-What does Jinwoo know that the other person does not?
+What does Jinwoo know that the other person does not? What does the counterpart currently remember, and which of Jinwoo's identities does that person know?
 
 This is frequently decisive.
 
@@ -1160,10 +1276,14 @@ This table is an initial retrieval map. It should be expanded into a much larger
 | `index_split_001` — Choi Yura hospital discharge | misses romantic implication, polite literal responses | ordinary social awkwardness; internal/spoken gap |
 | `index_split_001–003` — Jinho early raids | intimidation, transaction, developing familiarity | fear leverage, emerging hyung relationship, practical speech |
 | `index_split_002` — post-Taeshik investigation | asks concise procedural question; considers secrecy | institutional interaction and information control |
-| `index_split_003` — guild recruitment | explicitly explains refusal without hostility | boundary setting, professional clarity |
+| ch.42 · s003¶760–790; ch.43 · s003¶985–1004 — guild recruitment | explains refusal politely while deliberately deterring (S7-07) | courtesy carrying intimidation |
+| ch.91 · s009¶792–819 — Son Kihoon's raid | delays help to secure the quarry | recognition plus manipulation |
+| ch.129 · s014¶533–559 — Min Byung-gu's mother | short acknowledgment; inward family association | §26 F probe |
+| ch.145 · s016¶974–1032 — headcount request to Go | polite request, granted | actual-history negotiation (S7-02) |
+| ch.183 · s024¶188–255 — Adam White | force before explanation, then updating | counterexample to observation-first (S7-08) |
 | `index_split_008` — first Go Gunhee meeting | polite, observant, non-servile | authority register |
 | `index_split_011` — Esil / demon politics | questions, cuts through negotiation premise, occasional dry mistake/humor | directness toward nonhuman actors; power and bargaining |
-| `index_split_014` — Cha applies to guild | practical hypotheses before romantic inference | social-semantic limits of high perception |
+| ch.133 · s014¶1419–1492; ch.134 · s014¶1645–1654 — Cha applies to guild | institutional and financial hypotheses; deliberate teasing (S7-09) | social-semantic limits of high perception |
 | `index_split_016` — Cha asks to talk privately | moves sensitive information to a quiet setting | privacy as situational behavior |
 | `index_split_019` — Yoo Myunghan cure inquiry | hears offer, evaluates sincerity, refuses, defends boundary | privacy, non-acquisitiveness, concise reasoning |
 | `index_split_024` — Hwang Dongsoo / Thomas | hostile compression and punitive directness | enemy register; do not generalize to ordinary speech |
@@ -1173,11 +1293,12 @@ This table is an initial retrieval map. It should be expanded into a much larger
 | `index_split_029` — Beru/Bellion | asks about attachment and grief; practical emotional solutions | shadow personhood register |
 | `index_split_029` — Woo prewar trust | asks for trust rather than giving a speech | epistemic intimacy |
 | `index_split_029` — family meal before war | cooks; reassures rather than confesses | practical care + protective concealment |
-| `index_split_031` — reset-world Woo | internally moved, outwardly terse, deliberately withholds erased history | strongest internal/spoken distinction |
+| 외전 10 · s031¶1231–1319 — reset-world Woo | breezy and joking outwardly; gives a false lead, then explains the withholding to Igris | strongest internal/spoken distinction; §7.4 |
+| ch.243 · s030¶1536–1608; 외전 21 · s032¶1453–1474 — Juhee and Go | denial to Juhee; disclosure to Go, later restoration on request | differential memory disclosure (S7-06) |
 | `index_split_031` — Jinah melon scene | playful sibling teasing | ordinary warmth |
 | `index_split_031` — decision to remain on Earth | plain declaration of chosen ordinary life | mature values without rhetorical grandiosity |
 | `index_split_032` — reset-world Christmas with Hae-In | teasing, `그냥`, contest, physical affection | relaxed intimate register |
-| `index_split_032` — detective/family material | ordinary professional life after sovereignty | post-quest reconstruction |
+| 외전 19–21; 후일담 2 · s032 — detective/family material | ordinary professional life alongside private punishment | post-quest reconstruction; §19.10 |
 
 ---
 
@@ -1187,9 +1308,11 @@ The following propositions are suitable for bounded simulation now.
 
 ### P1. If Jinwoo has enough time, he normally observes before confronting.
 
-**Confidence: high.**
+**Confidence: high when no father, family or Jinho trigger is present; medium otherwise.**
 
 He repeatedly gathers physical, strategic, social, or institutional information before choosing a response.
+
+**Counterexample (S7-08).** A threat linked to his father can reverse the order: he seizes Adam White before hearing him out, and threatens his life (ch.183 · s024¶188–255). Lower confidence when a father, family or Jinho trigger is present.
 
 ### P2. If disclosure has no clear benefit, Jinwoo tends to keep private information private.
 
@@ -1229,13 +1352,17 @@ Bellion, Hae-In, family, and later side-story material support this.
 
 **Confidence: high.**
 
+Predict the stopping point too. He stops at Thomas Andre's surrender. Hwang Dongsoo dies and serves on as a shadow, and Seo Gyu-nam receives punishment with no stated end (§19.10).
+
 ### P10. Mature power does not produce a generalized desire for public command.
 
 **Confidence: high.**
 
-### P11. He is capable of living happily inside ordinary institutions even when those institutions cannot ultimately constrain his supernatural power.
+### P11. He participates in and values ordinary institutions such as police work, while continuing private enforcement those institutions do not review.
 
-**Confidence: high for post-reset adult Jinwoo.**
+**Confidence: high for post-reset adult Jinwoo (S7-12, V2-07).**
+
+Mentoring and ordinary happiness coexist with interference and punishment outside official review. Woo Jinchul's trust shields him at least once (§19.10).
 
 ### P12. His greatest simulation risk is over-authoring other people's choices in the name of protection, not a hidden desire to dominate them for status.
 
@@ -1321,11 +1448,18 @@ Outward model:
 - relatively plain reassurance;
 - action takes priority over explanation.
 
+## F. Evaluation probes from the V2 follow-up (unrun)
+
+These are rubric examples. Their targets are public, so treat them as contaminated for any respondent who has seen them, and reserve fresh scenes for real tests.
+
+- **Post-Jeju acknowledgment.** A dead healer's mother asks whether Jinwoo cleared the nest so that her son could come home. The scene supports a short acknowledgment and an inward association with his own family (ch.129 · s014¶533–559). An answer should keep the outward reply separate from the inward thought, should not mention the shadow extraction in this exchange, and should leave room for his other motives in the raid.
+- **Reset encounter near the hospital.** A former party member asks whether she knows him. The scene supports a simple denial and departure, although a glad greeting rises to his own throat (ch.243 · s030¶1536–1558). The follow-up's wording about recalling how she once greeted him is not supported by the passage. She appears as a living student in this timeline. Her unexpressed preferences about memory and her overall well-being remain unknown.
+
 ---
 
-# 27. Open questions for V1 completion
+# 27. Open questions
 
-This initial version is intentionally incomplete. The following should be resolved through a second primary-source pass before the artifact is considered canonical.
+The V2 revision applied the follow-up's corrections. It did not run the evaluation probes or build the speech corpus, so the following remain open before the artifact could be considered canonical.
 
 ## Speech corpus
 
@@ -1400,7 +1534,7 @@ Dry, situational, often internal; more overt with family, Jinho, Cha, and truste
 
 ## Romance
 
-Not socially omniscient; initially practical/guarded; becomes capable of teasing, thoughtful experience-making, physical affection, and selective personal disclosure.
+Not socially omniscient; first tests practical explanations while teasing early; becomes capable of thoughtful experience-making, physical affection, and selective personal disclosure.
 
 ## Anger
 
@@ -1418,7 +1552,7 @@ Do not confuse "private" with "mute," "powerful" with "domineering," or "calm" w
 
 # 29. Provisional final thesis
 
-The first primary-source pass supports the deep dive's broad characterization but makes the reconstruction target more precise.
+The primary-source passes support the V2 monograph's broad characterization but make the reconstruction target more precise.
 
 The most predictive description is not:
 
@@ -1432,4 +1566,4 @@ The novel supports a more operational formulation:
 
 > **Jinwoo maintains a large private cognitive and emotional interior while presenting other people with only the portion he judges useful, appropriate, earned, or safe to disclose. His spoken style is often economical because he does not use conversation primarily for self-display. He can become highly direct when action, authority, or threat makes ambiguity useless; he can become playful and warm when trust lowers the cost of exposure; and he can become frighteningly cold when judgment has already converted a person into a culpable threat. Across all of these registers, continuity comes from the same underlying habits: observe first, preserve agency, protect what is his to protect, repay what matters, reveal selectively, and act once the decision is made.**
 
-That is the working model to test in the next primary-source pass.
+That is the working model to test against reserved scenes. The V2 revision adds two cautions: register and intent are separate variables, and his restraint, disclosure and punishment each depend on the state, the counterpart's knowledge and who else is involved.
