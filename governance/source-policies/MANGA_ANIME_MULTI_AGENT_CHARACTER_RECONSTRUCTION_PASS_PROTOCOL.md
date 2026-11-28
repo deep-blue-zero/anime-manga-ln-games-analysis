@@ -131,7 +131,7 @@ Before execution, the run record declares: the subjects and states (`Character@U
 
 ### 3.3 Scope changes and escalation
 
-The principal may narrow a scope, recording the reason. Broadening the subjects, workstreams or source units, or changing mode, needs a new owner instruction. Escalation runs from MACRP-R to MACRP-T or MACRP-F, and from MACRP-T to MACRP-F. When the gap assessment shows the current mode cannot meet a `REQUIRED` item, record the evidence and the proposed escalation, finish or bound the work that remains valid, and stop that item pending direction. A targeted pass is never silently converted into a full rereading. A pass may also complete without escalation and without changing any model; a reduced or unchanged assessment is a legitimate outcome.
+Within the declared scope, the principal may change diagnostic selections, sampling and sequencing, recording the reason. Dropping a declared subject, state, workstream, source boundary or `REQUIRED` obligation is a scope reduction. A scope reduction needs an explicit owner decision, recorded in the run record, before it counts toward completion (Section 12.2). Until that decision, the item stays in scope with its blocker. Broadening the subjects, workstreams or source units, or changing mode, needs a new owner instruction. Escalation runs from MACRP-R to MACRP-T or MACRP-F, and from MACRP-T to MACRP-F. When the gap assessment shows the current mode cannot meet a `REQUIRED` item, record the evidence and the proposed escalation, finish or bound the work that remains valid, and stop that item pending direction. A targeted pass is never silently converted into a full rereading. A pass may also complete without escalation and without changing any model: once the declared scope is accepted, a reduced or unchanged assessment is a legitimate outcome.
 
 ## 4. Execution modes
 
@@ -408,7 +408,7 @@ Where the scope calls for them, a pass produces or improves: individual monograp
 
 ### 9.2 Drafts before acceptance
 
-This section governs MACRP-R and MACRP-T outputs, and the MACRP-F outputs that revise or supersede an existing current artifact. A MACRP-F unit transaction follows the continuation policy instead: its reading, the new generation's own cumulative ledgers and its entrypoint state become current as each unit closes, at new paths that replace nothing. Until the run's acceptance (Section 12.1), a new or revised monograph, model, ledger section or MACRP-T record that would become current is published only as a working draft under the `draft_noncurrent` quartet at its own working path (`characters/README.md`). It never edits a current artifact in place, and never supersedes one. In-place revisions, promotions to current status and supersession links land together in the acceptance tranche (Section 13.1). At acceptance, a draft either becomes the current successor at its own path, or its accepted content is applied to the current artifact in place and the draft is retired as `historical_legacy`. Discovery and the evaluator therefore never meet an unreviewed revision as current evidence.
+This section governs MACRP-R and MACRP-T outputs, and the MACRP-F outputs that revise or supersede an existing current artifact. A MACRP-F unit transaction follows the continuation policy instead: its reading, the new generation's own cumulative ledgers and its entrypoint state become current as each unit closes, at new paths that replace nothing. Until the affected subjects are accepted (Section 12.2), a new or revised monograph, model, ledger section or MACRP-T record that would become current is published only as a working draft under the `draft_noncurrent` quartet at its own working path (`characters/README.md`). It never edits a current artifact in place, and never supersedes one. A change's in-place revisions, promotions to current status and supersession links land together in the acceptance tranche that accepts its affected subjects (Section 13.1). At acceptance, a draft either becomes the current successor at its own path, or its accepted content is applied to the current artifact in place and the draft is retired as `historical_legacy`. Discovery and the evaluator therefore never meet an unreviewed revision as current evidence.
 
 ### 9.3 Authority ceilings
 
@@ -530,7 +530,11 @@ Acceptance applies handoff Section 11; topology Section 4.1.6 for every MACRP-F 
 
 A run is `completed` only when its whole declared scope is accepted, including any scope reduction the owner explicitly authorized and recorded (Section 3.3). A targeted run may complete without addressing every character or dimension, provided its declared scope and limits are stated accurately. A run with any unmet `REQUIRED` item is never `completed`. It records `blocked` when it waits on an owner decision, a source, a lane or an authority, or `interrupted_pending_recovery` when the work can resume. Either way it records each unmet item with its blocker, the affected artifacts, its next owner and the next action.
 
-Acceptance is per subject. Once every `REQUIRED` item in a subject's declared scope is met and accepted under Section 12.1 as it applies to that subject, the subject's drafts may be promoted in an acceptance tranche (Section 13.1), even while other subjects keep the run `blocked` or `interrupted_pending_recovery`. A subject with an unmet item keeps its drafts noncurrent. Success is never defined by grades: no number of characters moved to any tier, and no expected tier, is a completion criterion.
+Acceptance is per subject. Once every `REQUIRED` item in a subject's declared scope is met and accepted under Section 12.1 as it applies to that subject, the subject's drafts may be promoted in an acceptance tranche (Section 13.1), even while other subjects keep the run `blocked` or `interrupted_pending_recovery`. A subject with an unmet item keeps its drafts noncurrent.
+
+The unit of promotion is a reviewed change, not a file. A change to a shared artifact, such as a cumulative ledger, relationship record or claim register, is promoted only when it is separable from the rest of the draft and concerns only accepted subjects. An indivisible joint change stays noncurrent until every subject it affects is accepted; a relationship entry spanning an accepted and an unaccepted subject is an example. A change to a shared evidence file makes every reconstruction assessment citing that file effectively stale, so batch shared-artifact promotions where practicable rather than promoting them one subject at a time.
+
+Success is never defined by grades: no number of characters moved to any tier, and no expected tier, is a completion criterion.
 
 A configure-only run records `pass_state: blocked`, with the next action to await execution authorization. It writes nothing to the entrypoint and holds no artifacts until execution is authorized.
 
@@ -618,7 +622,7 @@ Establishes the owner-invoked MACRP operation:
 - drafts that stay noncurrent until acceptance;
 - the A-G test battery with controls, three exposure facts, sealed probes and two-sided calibration;
 - baseline comparison with evidence levels for retrospective results;
-- per-subject acceptance, with `completed` reserved for an accepted declared scope;
+- per-subject acceptance, with reviewed changes as the unit of promotion and `completed` reserved for an accepted declared scope, any reduction of which needs an owner decision;
 - atomic owner-reviewed promotion of frozen-release successors;
 - publication, leads and resumption.
 

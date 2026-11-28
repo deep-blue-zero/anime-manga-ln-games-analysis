@@ -68,7 +68,8 @@ This checklist sequences a run under the [MACRP protocol](../MANGA_ANIME_MULTI_A
 2. Write the completion statement, the remaining items, typed as evidence-backed limitations, evidence gaps or deferred work, and the leads (Sections 12.2 and 14). Leads never mention tiers or grades.
 3. In an acceptance tranche, apply the in-place revisions, promote the drafts of each accepted subject, add their supersession links, and update the qualification record and the entrypoint's run summary. Promote only subjects whose in-scope `REQUIRED` items are all met and accepted (Section 12.2).
    - Set `pass_state: completed` in the run record and the entrypoint only when the whole declared scope is accepted.
-   - Otherwise record `blocked` or `interrupted_pending_recovery`, with each unmet item, its blocker, the affected artifacts and the next action.
+   - Otherwise record `blocked` or `interrupted_pending_recovery`, with each unmet item, its blocker, the affected artifacts and the next action. A declared item counts as dropped only with an explicit owner decision (Section 3.3).
+   - In a shared ledger, relationship record or claim register, promote only separable reviewed changes that concern accepted subjects. Keep an indivisible joint change noncurrent until every subject it affects is accepted. Batch shared-artifact promotions where practicable, since each one makes every assessment citing that file stale (Section 12.2).
    - A frozen-release successor stays a draft on this branch. Its promotion and the predecessor's supersession metadata land together in one owner-reviewed governance change (Section 9.5).
 4. Run author preflight, publish, put the leads in the PR description, and wait for the exact-head audit. If a supersession breaks a character reference, the discovery agent's separately identifiable repair commit on the branch resolves it (or the CI agent's, if mechanical); never touch discovery or capability outputs yourself. The CI agent merges.
 

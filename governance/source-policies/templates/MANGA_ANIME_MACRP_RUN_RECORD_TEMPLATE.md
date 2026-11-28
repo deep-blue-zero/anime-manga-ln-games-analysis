@@ -88,7 +88,7 @@ macrp_run:
 | Run-specific acceptance criteria | |
 | Stop conditions | |
 
-**Scope changes:** <Each narrowing with its reason; each broadening with the new instruction that authorized it.>
+**Scope changes:** <Each change of diagnostic selection, sampling or sequencing within scope, with its reason. Each scope reduction (a dropped subject, state, workstream, source boundary or `REQUIRED` obligation) with the owner decision that authorized it, or its blocker while that decision is pending. Each broadening with the new instruction that authorized it.>
 
 ## 3. Baseline and eligibility
 
