@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 270; `SUPERSEDED` 44
+- Recorded totals: `CANDIDATE` 272; `SUPERSEDED` 44
 
 ## Namespaces
 
@@ -37,7 +37,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`idoly-pride`](reconstruction_index/idoly-pride.md) | 1 | 1 |
 | [`kamakura-sho`](reconstruction_index/kamakura-sho.md) | 2 | 5 |
 | [`kimishinu`](reconstruction_index/kimishinu.md) | 3 | 3 |
-| [`konosuba`](reconstruction_index/konosuba.md) | 19 | 19 |
+| [`konosuba`](reconstruction_index/konosuba.md) | 21 | 21 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 21 | 24 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
@@ -150,7 +150,9 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `konosuba:pickles@original-light-novel` | [`konosuba-pickles-ln-yori01-u012-monograph-20261025-01`](reconstruction_index/konosuba.md#konosuba-pickles-ln-yori01-u012-monograph-20261025-01) | `CANDIDATE` | `E` | `2f77b3877760403413fd45de6564ce018cedaf66` |
 | `konosuba:satou-kazuma@original-light-novel` | [`konosuba-satou-kazuma-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-satou-kazuma-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `B` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:vanir@original-light-novel` | [`konosuba-vanir-ln-mask-main17-monograph-20261027-01`](reconstruction_index/konosuba.md#konosuba-vanir-ln-mask-main17-monograph-20261027-01) | `CANDIDATE` | `D` | `e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da` |
+| `konosuba:wiz@original-light-novel` | [`konosuba-wiz-original-light-novel-monograph-20261128-01`](reconstruction_index/konosuba.md#konosuba-wiz-original-light-novel-monograph-20261128-01) | `CANDIDATE` | `B` | `0b5993ec76a6019104a109cf09ea8b0d385e57ef` |
 | `konosuba:yorimichi04-retired-dark-stalker@original-light-novel` | [`konosuba-yorimichi04-retired-dark-stalker-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-yorimichi04-retired-dark-stalker-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
+| `konosuba:yunyun@original-light-novel` | [`konosuba-yunyun-original-light-novel-monograph-20261128-01`](reconstruction_index/konosuba.md#konosuba-yunyun-original-light-novel-monograph-20261128-01) | `CANDIDATE` | `B` | `0b5993ec76a6019104a109cf09ea8b0d385e57ef` |
 | `legend-of-the-galactic-heroes:yang-wen-li@original-novels` | [`legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01`](reconstruction_index/legend-of-the-galactic-heroes.md#legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01) | `CANDIDATE` | `C` | `589435c3ebada7c66aac6b44ed014876d9050423` |
 | `lycoris-recoil:abe@television-anime` | [`lycoris-recoil-abe-tv-monograph-20261127-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-abe-tv-monograph-20261127-01) | `CANDIDATE` | `C` | `9e592d68e2f0be8f35678370e017478d91e01b79` |
 | `lycoris-recoil:akutsu-hikaru@novels` | [`lycoris-recoil-akutsu-hikaru-novels-monograph-20261127-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-akutsu-hikaru-novels-monograph-20261127-01) | `CANDIDATE` | `C` | `9e592d68e2f0be8f35678370e017478d91e01b79` |
