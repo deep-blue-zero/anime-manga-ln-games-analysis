@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 268; `STALE` 1; `SUPERSEDED` 43
+- Recorded totals: `CANDIDATE` 270; `SUPERSEDED` 44
 
 ## Namespaces
 
@@ -39,7 +39,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`kimishinu`](reconstruction_index/kimishinu.md) | 3 | 3 |
 | [`konosuba`](reconstruction_index/konosuba.md) | 19 | 19 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
-| [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 20 | 23 |
+| [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 21 | 24 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`medalist`](reconstruction_index/medalist.md) | 2 | 2 |
 | [`monogatari-series`](reconstruction_index/monogatari-series.md) | 2 | 2 |
@@ -58,7 +58,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 17 | 17 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 3 |
 | [`silent-witch`](reconstruction_index/silent-witch.md) | 4 | 4 |
-| [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
+| [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 4 |
 | [`sound-euphonium`](reconstruction_index/sound-euphonium.md) | 1 | 1 |
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 6 | 6 |
 | [`three-days-of-happiness`](reconstruction_index/three-days-of-happiness.md) | 5 | 5 |
@@ -165,6 +165,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `lycoris-recoil:kana@novels` | [`lycoris-recoil-kana-novels-monograph-20261127-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-kana-novels-monograph-20261127-01) | `CANDIDATE` | `C` | `9e592d68e2f0be8f35678370e017478d91e01b79` |
 | `lycoris-recoil:kurumi@television-anime` | [`lycoris-recoil-kurumi-tv-shorts-monograph-20261126-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-kurumi-tv-shorts-monograph-20261126-01) | `CANDIDATE` | `B` | `ed7035dd754ed1bbeb276627abbd82a2780d6cb0` |
 | `lycoris-recoil:kusunoki@television-anime` | [`lycoris-recoil-kusunoki-tv-shorts-monograph-20261127-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-kusunoki-tv-shorts-monograph-20261127-01) | `CANDIDATE` | `C` | `74cfe228d9e6b56b63c7f0a7225a025c230f5357` |
+| `lycoris-recoil:madame@novels` | [`lycoris-recoil-madame-novels-monograph-20261128-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-madame-novels-monograph-20261128-01) | `CANDIDATE` | `C` | `d843511dce905de8764d8494487417f7d355fa91` |
 | `lycoris-recoil:majima@television-anime` | [`lycoris-recoil-majima-tv-e04-e13-monograph-20261126-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-majima-tv-e04-e13-monograph-20261126-01) | `CANDIDATE` | `C` | `11b79bb6cf4bded643050ecd4e7fda18727316ea` |
 | `lycoris-recoil:mika@television-anime` | [`lycoris-recoil-mika-tv-shorts-monograph-20261126-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-mika-tv-shorts-monograph-20261126-01) | `CANDIDATE` | `B` | `11b79bb6cf4bded643050ecd4e7fda18727316ea` |
 | `lycoris-recoil:mizukawa-kosuke@novels` | [`lycoris-recoil-mizukawa-kosuke-novels-monograph-20261127-01`](reconstruction_index/lycoris-recoil.md#lycoris-recoil-mizukawa-kosuke-novels-monograph-20261127-01) | `CANDIDATE` | `C` | `9e592d68e2f0be8f35678370e017478d91e01b79` |
@@ -322,7 +323,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `silent-witch:louis-miller@light-novel` | [`silent-witch-louis-miller-ln-v01-v12-monograph-20261118-01`](reconstruction_index/silent-witch.md#silent-witch-louis-miller-ln-v01-v12-monograph-20261118-01) | `CANDIDATE` | `B` | `bd3cf48ffe9720fd54551166a5321439c937e62b` |
 | `silent-witch:monica-everett@light-novel` | [`silent-witch-monica-everett-ln-v01-v12-monograph-20261118-01`](reconstruction_index/silent-witch.md#silent-witch-monica-everett-ln-v01-v12-monograph-20261118-01) | `CANDIDATE` | `B` | `2737dd7629ad709ad10b117715984f84b2cc0aa7` |
 | `solo-leveling:cha-hae-in@original-korean-novel` | [`solo-leveling-cha-hae-in-original-korean-novel-reconstruction-model-20261107-01`](reconstruction_index/solo-leveling.md#solo-leveling-cha-hae-in-original-korean-novel-reconstruction-model-20261107-01) | `CANDIDATE` | `C` | `7da71cb9be614645641dc5c0038b1df3acf07063` |
-| `solo-leveling:sung-jinwoo@original-korean-novel` | [`solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01`](reconstruction_index/solo-leveling.md#solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01) | `STALE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
+| `solo-leveling:sung-jinwoo@original-korean-novel` | [`solo-leveling-sung-jinwoo-original-korean-novel-v2-model-and-deep-dive-20261128-01`](reconstruction_index/solo-leveling.md#solo-leveling-sung-jinwoo-original-korean-novel-v2-model-and-deep-dive-20261128-01) | `CANDIDATE` | `B` | `d843511dce905de8764d8494487417f7d355fa91` |
+| `solo-leveling:sung-jinwoo@original-korean-novel` | [`solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01`](reconstruction_index/solo-leveling.md#solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01) | `SUPERSEDED` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
 | `solo-leveling:yoo-jinho@original-korean-novel` | [`solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01`](reconstruction_index/solo-leveling.md#solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01) | `CANDIDATE` | `C` | `923ee527a9f594b30e751e697c62a0b549eb77dc` |
 | `sound-euphonium:kaori-nakaseko@original-novels` | [`sound-euphonium-kaori-nakaseko-original-novels-hibike-monograph-20261114-01`](reconstruction_index/sound-euphonium.md#sound-euphonium-kaori-nakaseko-original-novels-hibike-monograph-20261114-01) | `CANDIDATE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
 | `the-idolmaster:hiwatari-kanae@mobile-game` | [`the-idolmaster-hiwatari-kanae-mobile-game-v2-monograph-20261125-02`](reconstruction_index/the-idolmaster.md#the-idolmaster-hiwatari-kanae-mobile-game-v2-monograph-20261125-02) | `CANDIDATE` | `B` | `9ca41fa087692ae99d6120163c4200d789c65af8` |
