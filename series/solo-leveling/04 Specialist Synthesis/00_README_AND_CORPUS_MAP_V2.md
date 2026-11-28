@@ -93,7 +93,7 @@ Documents 00–12 are the collected analysis. Document 13 is the evidence ledger
 
 ### Provisional reconstruction models
 
-The five V1 operational models remain published provisional artifacts. The [model follow-up](Solo_Leveling_V2_Character_Model_Follow_Up.md) identifies source corrections, ownership, development states and concrete unrun test obligations for Sung Jinwoo, Go Gunhee, Woo Jinchul, Yoo Jinho and Cha Hae-In. Use the corrected literary account and source first for facts. Operational readiness requires separate evidence.
+Four V1 operational models remain published provisional artifacts. Sung Jinwoo's model has a V2 revision, the [Sung Jinwoo reconstruction model V2](SUNG_JINWOO_CHARACTER_RECONSTRUCTION_MODEL_V2.md), which applies the follow-up's corrections and supersedes the V1 model now under `90 Legacy and Superseded/V1 Analysis/`. The [model follow-up](Solo_Leveling_V2_Character_Model_Follow_Up.md) identifies source corrections, ownership, development states and concrete unrun test obligations for Sung Jinwoo, Go Gunhee, Woo Jinchul, Yoo Jinho and Cha Hae-In. Use the corrected literary account and source first for facts. Operational readiness requires separate evidence.
 
 ---
 

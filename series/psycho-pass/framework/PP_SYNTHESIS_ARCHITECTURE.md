@@ -3,23 +3,23 @@ title: "Psycho-Pass — Synthesis and franchise architecture"
 artifact_id: PP_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: psycho-pass
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 authority_generation: PP-INITIAL
-source_boundary: "NONE; metadata-only foundation, no admitted narrative"
+source_boundary: "Governing synthesis architecture (initialized 2026-11-18 bootstrap; live admission and gate status owned by CURRENT_STATE_AND_CORPUS_MAP.md — currently PP-S01NE-E01–E11 complete on branch)"
 canonical_home: series/psycho-pass/framework/PP_SYNTHESIS_ARCHITECTURE.md
 created: 2026-11-18
-last_updated: 2026-11-18
+last_updated: 2026-11-26
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
 
 # Psycho-Pass — Synthesis and franchise architecture
 
-This architecture maintains one franchise root with bounded installment work and provenance-preserving longitudinal synthesis. Its day-one state is administrative: no admitted evidence, portraits, readings, narrative records or accepted claims. The [method](PP_ANALYTICAL_METHOD.md) supplies source-facing analytical duties. This document allocates their durable outputs.
+This architecture maintains one franchise root with bounded installment work and provenance-preserving longitudinal synthesis. Its **2026-11-18 day-one bootstrap state** was administrative (no admitted evidence, portraits, readings, narrative records or accepted claims); for current live admission, completion-gate, and qualification status, follow the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) and [franchise state ledger](../franchise/ledgers/PP_FRANCHISE_STATE_LEDGER.md). The [method](PP_ANALYTICAL_METHOD.md) supplies source-facing analytical duties. This document allocates their durable outputs.
 
 ## Canonical responsibilities and justified homes
 
@@ -92,9 +92,9 @@ Completion is assessed for an explicit installment, tranche or franchise boundar
 | Validation/audit completion | Independent substantive review verifies decisive evidence, causal/character transitions, three-clock integrity, self-containment, source fidelity, significant omissions and disposition of required corrections. Mechanical links/schema checks are additional, not substitutes. |
 | Frozen/release state | Accepted exact artifact versions, source boundaries, open optional issues, current/noncurrent routes and dependency state are preserved and release-audited under live publication governance. Any run/terminal closure is a separate applicable controlled transaction. |
 
-The ordinary dependency order is accepted units → reconciled state → specialist readiness/work → full-series readiness/work → validation → release. Bounded specialist work may occur earlier with an explicit narrower source boundary. No early task relabels the later gate complete. All six narrative completion states are currently **NOT_REACHED** because source admission is NONE.
+The ordinary dependency order is accepted units → reconciled state → specialist readiness/work → full-series readiness/work → validation → release. Bounded specialist work may occur earlier with an explicit narrower source boundary. No early task relabels the later gate complete. *Historical bootstrap note (2026-11-18):* All six narrative completion states were `NOT_REACHED` at initial bootstrap when source admission was `NONE`; consult the live [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) for current gate progression (through `PP-S01NE-E01`–`E11`, sequential-source completion and longitudinal reconciliation are reached on branch while qualified portraits, full-series synthesis, and release to `main` remain open/pending).
 
-Initial architecture history: version 1.0 establishes these responsibilities at PP-INITIAL. Future material amendments record their reason, affected homes, boundary and backfill decision here and update the current map.
+Architecture history: version 1.0 (`2026-11-18`) established these responsibilities at PP-INITIAL; version 1.1 (`2026-11-26`) dated the bootstrap baseline prose as historical and routed live gate/admission checks to `CURRENT_STATE_AND_CORPUS_MAP.md` without changing any architectural contract.
 
 ## Execution ownership and reasoning
 
@@ -106,4 +106,4 @@ The owner prefers Gemini 4 Carbon High for principal continuous-AV work and Open
 
 Long-series work follows the [hybrid protocol](../../../governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md): synchronized local source reading/ledgers, fresh adequately grounded synthesis sessions, and local acceptance/integration. Fresh cloud Pro is the preferred synthesis environment when it can receive the necessary lawful evidence and handoff, not a claim of universally superior interpretation. Actual working topology, capability and provider are recorded per run.
 
-A checkpoint freezes accepted readings, prospective captures and independent observation/review records. Current ledgers, entrypoint and full portraits remain mutable through attributed revisions; source hashes are immutable and changed bytes create new witnesses. The [handoff contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md), [archive policy](../../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md) and [local protocol](../integration/PP_RECONCILIATION_PROTOCOL.md) govern actual-byte handoffs, freeze protection and supersession. This initial CLOSED state has no historical run to seal.
+A checkpoint freezes accepted readings, prospective captures and independent observation/review records. Current ledgers, entrypoint and full portraits remain mutable through attributed revisions; source hashes are immutable and changed bytes create new witnesses. The [handoff contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md), [archive policy](../../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md) and [local protocol](../integration/PP_RECONCILIATION_PROTOCOL.md) govern actual-byte handoffs, freeze protection and supersession. *(Historical 2026-11-18 bootstrap note: the initial CLOSED state had no historical run to seal; live run/publication proof status is tracked in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md).)*

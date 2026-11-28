@@ -35,6 +35,6 @@ Rows deferred only because the single file was full are enrolled through the ord
 
 ## Related agents and inputs
 
-The reconstruction evaluator derives its work from integrated Git state, so discovery changes never wait on reconstruction; an affected assessment becomes effectively stale and the evaluator reconciles it. Either agent may note leads for the other in its PR description; leads are unverified hints, never authority to enroll or assess.
+The reconstruction evaluator derives its work from integrated Git state, so discovery changes never wait on reconstruction; an affected assessment becomes effectively stale and the evaluator reconciles it. Either agent may note leads for the other in its PR description; leads are unverified hints, never authority to enroll or assess. An analysis project may record leads the same way, in its own records and the PR that integrates them, for example a [character reconstruction pass](../source-policies/MANGA_ANIME_MULTI_AGENT_CHARACTER_RECONSTRUCTION_PASS_PROTOCOL.md#14-discovery-and-capability-evaluation-leads)'s completion record; they carry the same weight.
 
 `series/<stable-slug>/.repository/character-registry-upserts.jsonl` files are retired. They may be read as optional leads and are never applied.
