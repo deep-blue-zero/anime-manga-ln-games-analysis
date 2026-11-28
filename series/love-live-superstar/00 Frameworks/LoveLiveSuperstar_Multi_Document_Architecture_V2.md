@@ -3,15 +3,16 @@ title: Love Live! Superstar!! — Multi-Document Analysis and Synthesis Architec
 series: LLS
 artifact_type: synthesis_architecture
 scope: TV S1E01-S3E12
-generation: V2.3
-version: '2.3'
-date: '2026-08-26'
+generation: V2.4
+version: '2.4'
+date: '2026-11-26'
 status: canonical
 architecture_status: Paired architecture for LoveLiveSuperstar_Analytical_Method_V2.md
 source_boundary: Japanese-audio television corpus; sequential semantic seal applies
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: true
 ---
 
 # Love Live! Superstar!! — Multi-Document Analysis and Synthesis Architecture V2
@@ -40,37 +41,54 @@ A third principle:
 
 > **Season boundaries are epistemic checkpoints, not merely folders.**
 
+## 0.1 Authority, adoption and the single entrypoint
+
+The analytical root is `series/love-live-superstar/`, with Git-primary authority through reviewed `main`. The one canonical entrypoint remains [LLS_CURRENT_STATE_AND_CORPUS_MAP.md](../01%20Source%20Lock%20and%20Inventory/LLS_CURRENT_STATE_AND_CORPUS_MAP.md). External Drive bundles and locally accessible source media remain evidence, not competing analytical write surfaces. Branch candidates are proposed changes until integrated.
+
+V2.4 retains the governing method, five cumulative ledgers, accepted episode readings, frozen checkpoints and the fourteen planned specialists. It adds the [continuous-AV companion](LoveLiveSuperstar_Continuous_AV_Companion_Method_V2.md), [reconciliation profile](LoveLiveSuperstar_AV_Reconciliation_Profile_V2.md), and [execution plan](../07%20Audits%20and%20Manifests/LLS_V2_4_AV_EXECUTION_PLAN.md). The [initiation policy](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [topology policy](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md) and [continuation policy](../../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) govern prospective adoption and execution. Current framework metadata does not relabel historical readings as V2.4 products.
+
+The root opts into the prospective initiation contract through its routing descriptor. The entrypoint records a CLOSED preparation gate; this is not a terminal closure or a new byte seal over historical readings. No independent AV episode has been inspected or accepted by this amendment. Existing admitted-source corrections and the musical backfill can proceed within their own authorized scope while the preparation gate remains closed. A new substantive reread or source extension requires truthful OPEN initialization and an actual bounded execution record. The older S3E09 continuation hold remains a separate, explicit dependency.
+
 ---
 
-# I. Drive directory tree
+# I. Repository directory plan
+
+This is a responsibility plan, not a claim that every listed artifact exists. Use the current entrypoint for materialization and coverage. Retain mature paths; create a planned output only when its responsibility has actual work. Source manifests already use the `LLS_PHASE0_*` names below. New V2.4 inspection and claim records are initialized for the coming work, with no invented findings.
 
 ```text
-Love Live! Superstar!!/
+series/love-live-superstar/
 ├── 00 Frameworks/
 │   ├── LoveLiveSuperstar_Analytical_Method_V2.md
-│   └── LoveLiveSuperstar_Multi_Document_Architecture_V2.md
+│   ├── LoveLiveSuperstar_Multi_Document_Architecture_V2.md
+│   ├── LoveLiveSuperstar_Continuous_AV_Companion_Method_V2.md
+│   └── LoveLiveSuperstar_AV_Reconciliation_Profile_V2.md
 ├── 01 Source Lock and Inventory/
-│   ├── 00_PRIMARY_SOURCE_CORPUS_MAP.md
-│   ├── 01_SOURCE_MANIFEST.md
-│   └── checksum_and_bundle_inventory.*
+│   ├── LLS_CURRENT_STATE_AND_CORPUS_MAP.md
+│   ├── LLS_PROJECT_CHANGELOG.md
+│   ├── LLS_PHASE0_CORPUS_INVENTORY_V1.md
+│   ├── LLS_PHASE0_GLOBAL_SOURCE_LOCK_V1.md
+│   └── LLS_PHASE0_* source-lock and manifest files
 ├── 02 Episode Deep Readings/
 │   ├── Season 1/
 │   │   └── LLS_S1E01_DEEP_READING_V2.md ... LLS_S1E12_DEEP_READING_V2.md
 │   ├── Season 2/
 │   │   └── LLS_S2E01_DEEP_READING_V2.md ... LLS_S2E12_DEEP_READING_V2.md
-│   └── Season 3/
-│       └── LLS_S3E01_DEEP_READING_V2.md ... LLS_S3E12_DEEP_READING_V2.md
+│   ├── Season 3/
+│   │   └── LLS_S3E01_DEEP_READING_V2.md ... LLS_S3E12_DEEP_READING_V2.md
+│   └── Independent AV V2.4/ (planned noncurrent candidate readings)
 ├── 03 Season Checkpoints/
 │   ├── LLS_SEASON1_FROZEN_CHECKPOINT.md
 │   ├── LLS_SEASON2_FROZEN_CHECKPOINT.md
 │   ├── LLS_SEASON3_END_STATE_CHECKPOINT.md
-│   └── checkpoint_delta_files/
+│   ├── checkpoint_delta_files/
+│   └── Independent AV V2.4/ (planned independent freezes)
 ├── 04 Retrospective Music and Performance/
 │   ├── episode_addenda/
 │   ├── song_performance_ledger/
 │   └── score_sound_recurrence_index/
 ├── 05 Specialist Synthesis/
 │   ├── character_and_relationship/
+│   │   └── monographs/ (one current portrait per qualified subject and boundary)
 │   ├── ensemble_cohort_succession/
 │   ├── institution_competition_school/
 │   ├── music_performance_voice/
@@ -84,11 +102,14 @@ Love Live! Superstar!!/
 │   ├── LLS_CHARACTER_VOICE_MODEL_LEDGER.md
 │   ├── LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 │   ├── LLS_MUSICAL_DRAMATURGY_LEDGER.md
+│   ├── LLS_AV_EVIDENCE_AND_RECONCILIATION_INDEX.md
 │   ├── LLS_JAPANESE_DIALOGUE_AND_ADDRESS_INDEX.md
 │   ├── LLS_SONG_AND_PERFORMANCE_INDEX.md
 │   ├── LLS_VISUAL_MOTIF_AND_CALLBACK_INDEX.md
 │   └── machine_readable_indexes/
 ├── 07 Audits and Manifests/
+│   ├── LLS_V2_4_AV_EXECUTION_PLAN.md
+│   ├── LLS_CHARACTER_MONOGRAPH_QUALIFICATION.md
 │   ├── duplication_audit/
 │   ├── contradiction_audit/
 │   ├── locator_validation/
@@ -107,16 +128,16 @@ Love Live! Superstar!!/
 The production order is not the same as the final reader order.
 
 1. Freeze source corpus and naming.
-2. Complete Season 1 sequential readings. For each episode: fetch/unpack the Drive bundle locally, complete the audiovisual/acoustic reading, update all applicable model/evidence ledgers, verify durable Drive writes, then delete redundant local source payloads before advancing.
+2. Complete Season 1 sequential readings. For each episode: fetch/unpack the Drive bundle locally, complete the audiovisual/acoustic reading, update all applicable model/evidence ledgers, verify durable analytical persistence, then clean only task-owned redundant local source copies before advancing. The current persistence route is Git; original Drive-era execution remains historical provenance.
 3. Freeze Season 1 checkpoint.
-4. Complete Season 2 sequential readings with the same V2.2 fetch → local analysis → model-ledger update → Drive readback → cleanup lifecycle.
+4. Complete Season 2 sequential readings with the original V2.2 fetch → local analysis → model-ledger update → readback → cleanup lifecycle; use the current Git-primary route for future work.
 5. Write Season-2 pressure deltas against the frozen Season-1 checkpoint.
 6. Freeze Season 2 checkpoint.
 7. Complete Season 3 sequential readings through **S3E08** under V2.2, then impose a deliberate continuation lock before S3E09.
 8. Upgrade method/architecture to V2.3 and create `LLS_MUSICAL_DRAMATURGY_LEDGER.md` as canonical mutable infrastructure under `06 Evidence and Indexes`.
 9. Backfill musical dramaturgy **sequentially from S1E01 through S3E08**, using existing canonical episode artifacts as retrieval/hypothesis layers and reacquiring primary AV evidence proportionally for M2/M3 events. Frozen season checkpoints are not rewritten; claim pressure is recorded by transition state.
 10. Run a musical-dramaturgy integration audit at S3E08. Only after the ledger backfill boundary reaches S3E08 and the audit is verified may the **S3E09 continuation lock be removed**.
-11. Resume S3E09–S3E12 under native V2.3, with musical-dramaturgy write-through performed during each episode lifecycle.
+11. Resume S3E09–S3E12 only after that hold is removed and execution is authorized, using the current V2.4 method family, required independent participation, and musical-dramaturgy write-through during each episode lifecycle.
 12. Freeze Season-3 end-state checkpoint.
 13. Complete retrospective **cross-episode** music/performance work that remains necessary beyond the canonical ledger; basic episode-local audio inspection should already be present in canonical episode files.
 14. Consolidate evidence/locator ledgers.
@@ -131,15 +152,27 @@ Why this order?
 
 The `04 Retrospective Music and Performance` lane remains the **working/reanalysis lane**: episode addenda, bounded AV re-audits, comparative song/score work, recurrence studies, and improved-tooling analysis. It is not the final authority for longitudinal musical state. `06 Evidence and Indexes/LLS_MUSICAL_DRAMATURGY_LEDGER.md` is the canonical cumulative home for verified music-as-action findings; `05 Specialist Synthesis/.../09_MUSIC_SONG_PERFORMANCE_AND_DRAMATURGY.md` is the eventual argumentative synthesis.
 
+## V2.4 independent AV route
+
+The optional independent reread is a separately identified execution inside this same project, with proposed scope S1E01–S3E12. It does not restart or replace the historical V2 lane merely by existing. Its prepared state is NOT_STARTED. The execution plan owns activation, the neutral dispatch packet, per-worker verification, role allocation, freeze barriers and recovery records.
+
+There are two legitimate activation routes: retain the existing semantic ceiling while the older backfill and audit finish; or bind an owner-authorized independent full-series reread whose source range explicitly includes S3E09–S3E12 while retaining the older V2 hold. A directory, draft label, model assignment or planned scope is not that authorization. Use the ordinary root initialization and run fields for the actual active run, not a second canonical entrypoint or competing active root state. If ordinary run/closure mechanisms cannot represent a later independently frozen import, follow initiation Section 3.9.5's separately reviewed exact-publication route; do not invent an exemption in this architecture.
+
+Within an activated run, process episodes chronologically and parallelize responsibilities within each episode. Close its reading, source-aware review, significant disagreements, candidate cumulative deltas and verified durable receipt before advancing. Freeze each independent season checkpoint before the next season. Finish and freeze the authorized scope’s independent retrospective account before exposing it to existing V2 interpretations; a full-series account is required only for a full-series scope. The current governing method's seven hypotheses, cohort studies and full historical map are withheld from neutral earlier-horizon workers.
+
+Candidate episode readings use `02 Episode Deep Readings/Independent AV V2.4/LLS_SxEyy_INDEPENDENT_AV_DEEP_READING_V2_4.md`; candidate checkpoints use `03 Season Checkpoints/Independent AV V2.4/`. Create them only during the authorized run, with `draft_noncurrent`, empty supersession lists and `do_not_use_as_current_authority: true`. They remain recoverable independent evidence/interpretation records, not a second current reading or monograph. Working contribution packets may share a unit transaction artifact; no permanent file per worker is required.
+
+Before reconciliation, cumulative deltas stay in candidate transaction records. They must not silently advance the five current ledgers. After the independent freeze, a named integrator compares the runs claim by claim, preserves both earlier formulations, rechecks load-bearing conflicts, and writes accepted changes into the existing canonical homes. For S3E09–S3E12, an independent candidate cannot by itself close the older V2 hold or fabricate that lane's prospective reading. Resolve the hold and actual exposure before authoring or accepting any current continuation; use a fresh, adequately bounded context where independence is still claimed.
+
 ---
 
 # III. Episode artifact lane
 
 `02 Episode Deep Readings` is canonical for local interpretation.
 
-**Canonicalization gate:** the episode bundle must be fetched from the canonical Drive source, verified against the Phase-0 source lock, unpacked locally, and passed through the governing V2.3 audiovisual/audio, musical-dramaturgy, and model-ledger workflow before its Markdown artifact is declared canonical. When complete episode audio exists, this includes exact subtitle/audio alignment and targeted review of high-value silence, pause, dynamics, score, and performance transitions. Canonicalization also requires the applicable character-state, behavior/decision, voice-model, relationship-conditioning, and musical-dramaturgy deltas to be written, followed by Drive readback and cleanup of redundant local source payloads.
+**Canonicalization gate:** verify the episode bundle against the Phase-0 source lock, its actual available evidence, and any synchronized AV object's identity. Complete the V2.4 method family's relevant channels, required independent contribution and critical review, claim-specific AV adjudication, and model-ledger workflow. When complete episode audio exists, this includes subtitle/audio alignment and targeted review of high-value silence, pause, dynamics, score, and performance transitions. Canonicalization requires the applicable five-ledger deltas, source/evidence and claim-revision routes, a current-unit story synopsis finalized after prospective captures, verified Git-primary persistence and truthful coverage. A candidate independent reading remains noncurrent until reconciliation and acceptance; required unresolved evidence blocks the corresponding completion claim. Cleanup follows verified receipt and preserves sources still needed by open items.
 
-Each episode file is immutable after canonicalization except for factual correction. Later interpretive changes belong in:
+Each episode file is analytically immutable after canonicalization. Factual and interpretive corrections retain its original bytes and are attributed through:
 
 - checkpoint delta files;
 - specialist synthesis;
@@ -177,6 +210,8 @@ Recommended YAML fields:
 - `local_cleanup_status`
 - `retained_local_derivatives`
 - `status`
+
+For new V2.4 products also record or link `inspection_lanes`, the AV object and clock/sampling profile, actual participant contributions and exposure, observation-freeze references, critical-review dispositions, unresolved requirements, and the unit transaction receipt. The [AV evidence index](../06%20Evidence%20and%20Indexes/LLS_AV_EVIDENCE_AND_RECONCILIATION_INDEX.md) owns the compact receipt/coverage schema. No new field is backfilled as a fictitious historical execution fact.
 
 ---
 
@@ -217,7 +252,7 @@ The original Drive episode ZIP is the canonical cold primary source. The local w
 
 Per episode:
 
-> **canonical Drive ZIP → temporary local fetch/unpack → governing V2.3 analysis → compact durable Markdown/ledgers/locators in Drive → readback verification → local cleanup.**
+> **canonical external source → verified temporary fetch/unpack or AV access → governing V2.4 analysis → compact durable Git-primary analytical artifacts (or verified noncurrent working freeze) → readback → task-owned local cleanup.**
 
 Normally delete after successful readback:
 
@@ -230,7 +265,42 @@ Normally delete after successful readback:
 
 Small text derivatives such as corrected Japanese subtitles, dialogue/scene indexes, or compact manifests may be retained only when they materially improve active longitudinal retrieval. Exact timestamps/cue/frame IDs in the durable ledgers should usually make later reacquisition preferable to permanent media duplication.
 
+Those primary-source derivatives stay outside public Git. The public analytical record carries sanitized provenance, brief necessary source anchors and recoverable locators, not full subtitles, transcript dumps, source payloads or private local paths. Never delete the owner's cold-source collection as part of temporary cleanup.
+
 Later checkpoints/specialist syntheses should reacquire only the exact episode bundles needed to verify load-bearing cross-episode claims.
+
+## 4. Individual character monographs and qualification
+
+Person-level synthesis is a required responsibility distinct from the existing cohort/relationship specialists. The [qualification record](../07%20Audits%20and%20Manifests/LLS_CHARACTER_MONOGRAPH_QUALIFICATION.md) is the mutable home for each assessed subject's identity, evidence boundary, outcome, rationale and largest gaps, review trigger, actual monograph path once written, and separate self-containment/fidelity acceptance results. Unassessed means unassessed; it is neither qualification nor rejection.
+
+Apply [initiation Section 5.5.1](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard). Eligibility depends on differentiated convergent evidence, contextual/interlocutor variation and counterexamples, not a fixed eleven-member roster or narrative prominence. Assess supporting characters, adults and rivals when evidence warrants; a group-level role does not automatically qualify each individual. Use `QUALIFIED_PENDING`, `COMPLETE_AT_BOUNDARY`, `DEFERRED_EVIDENCE` and `REASSESS_AFTER_REVISION` as defined there. Every qualified subject creates a production obligation; character-layer completion is blocked while an obligation remains.
+
+The planned home is `05 Specialist Synthesis/character_and_relationship/monographs/LLS_<SUBJECT>_CHARACTER_MONOGRAPH.md`, one current portrait per subject/continuity and declared boundary. Create no placeholder portrait. Kanon's existing planned center/leadership specialist remains a thematic argument; it does not substitute for a usable personal portrait. Cohort studies retain their relational questions and cross-reference individual consequences without duplicating the portraits.
+
+Each portrait makes identity/circumstances, personal history and disclosure order, values and psychology, cognition and decisions, ordinary and exceptional conduct, Japanese speech and performed communication, directed relationships, preferences and everyday life, source-evidenced intimacy, capacities and limits, longitudinal development, a conditional behavioral profile, uncertainty and source traceability understandable in that document itself. Untested dimensions remain unknown; a tested absence needs evidence. For minors, intimacy discussion remains limited to what the source depicts. Links verify and deepen a portrait rather than carrying it. No word quota replaces evidence-proportional depth.
+
+Episode captures feed the five existing ledgers and the AV index: preserve mundane preferences, reasoning and exceptions, voice/body interactions and relationship-specific differences, not just major arc conclusions. Review monographs separately for **self-containment** (document-only questions about this person) and **fidelity** (load-bearing claims against current source/claim state), preferably by a reviewer other than the author; record both outcomes. A compact operational profile is not an independently validated reconstruction model and grants no capability grade.
+
+## 5. Responsibility matrix and execution ownership
+
+| Recurring responsibility | Sequential capture | Cumulative home | Mature destination |
+|---|---|---|---|
+| State, history and development | Changes, disclosure/knowledge boundary and counterexamples | Character-state ledger | Individual monograph; cohort/series specialists |
+| Reasoning, habits and ordinary choices | Conditional behavior, preferences versus accommodation, limits | Behavior/decision ledger | Monograph and separately scoped reconstruction |
+| Language and performed acting | Attested wording; separately anchored voice/body interaction | Voice-model ledger; AV index for inspection/locators | Monograph and Specialist 10 |
+| Directed relationships and group positioning | Interlocutor variation, trust, conflict/repair, staging | Relationship-conditioning matrix | Monographs; Specialists 03–06 |
+| Songs as dramatic action | M0–M3 screening, segment-level diegesis/allocation and outcomes | Musical-dramaturgy ledger | Specialist 09; ensemble/character consequences |
+| Score, ambience, silence and visual-motion recurrence | Observations, opportunities for absence and competing explanations | AV index recurrence routes to unit evidence; music ledger when music-as-action | Specialists 09–11 |
+| Source inspection and independence | Actual coverage, calibration, exposure, freezes and contributions | AV evidence/reconciliation index and linked unit records | Acceptance and evidence audit |
+| Claim changes and disputes | Earlier/new formulations, supporting/counterevidence, transition | Primary-source locator and claim-revision ledger | Corrected cumulative state and dependent syntheses |
+
+Keep institution, competition and thematic observations in their source-facing readings and relevant existing cumulative entries until a separate recurring dimension demonstrates the need for its own ledger. Planned indexes are not automatically populated by their names. The two initialized V2.4 evidence/revision homes solve actual recurring retrieval and adjudication responsibilities; they carry no invented historical observations.
+
+The execution plan records the standing whole-unit principal/integrator, musical dramaturgy, voice/acting, visual/choreographic form, score/sound, character/relationship/language and independent critical-review responsibilities. These are responsibilities, not a fixed worker quota: assign distinct contexts proportionally while retaining genuine independent specialist work and critical review. During the independent phase, the fresh principal/run integrator alone mutates candidate readings and run-local deltas; a separate repository-aware coordinator maintains current routing from receipts and withholds old interpretations. After the scoped cross-run freeze, one designated current-corpus integrator owns accepted shared-ledger and entrypoint changes. A context that inspected old ledgers for setup cannot also claim to be a blind independent principal. Specialists inspect their assigned source scope and preserve material contributions; no coordinator receives inspection credit merely for dispatching work. No ordinary full episode has an automatic reduced configuration.
+
+Sequential readings, AV specialists, reviewers and interpretive ledger work inherit `SUBSTANTIVE_ANALYSIS`, escalating for demonstrated complexity. Checkpoints, monographs, specialist synthesis and architecture use `DEEP_SYNTHESIS`; difficult full-series convergence uses `PREMIUM_QUALITY_FIRST` with a stated reliability rationale. Mechanical source checks use `BOUNDED_STANDARD` or deterministic tools. Resolve actual model and effort on the live surface under the [reasoning policy](../../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md); providers and quota resets confer no evidence capability or authority.
+
+Fresh synthesis receives a versioned, frozen evidence snapshot, actual output targets and the current boundary through the [handoff contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md). The receiving integrator checks complete returned contents, evidence debt, current target drift and lost detail before acceptance. If AV reconciliation changes a central premise, reopen the affected synthesis and its dependents before promotion.
 
 ---
 
@@ -398,6 +468,8 @@ Primary home:
 - characteristic verbal habits;
 - performed vocal-state changes.
 
+This specialist also explains the relation between attested Japanese wording and performed delivery, listener-specific voice/body behavior, vocal interaction timing and the limits of inferring character state or production intention from performance. Individual monographs incorporate what those findings establish about each person rather than sending the reader here to recover their basic speech style.
+
 ## `11_VISUAL_SPATIAL_GRAMMAR_CITY_SCHOOL_STAGE_AND_THRESHOLD.md`
 
 Primary home:
@@ -409,6 +481,8 @@ Primary home:
 - group formations;
 - costume recurrence;
 - visual motifs and transformed callbacks.
+
+Include motion, reaction timing, editing and audiovisual synchronization where actually inspected, and distinguish those path claims from static composition. Specialist 09 owns song-as-action; Specialist 10 owns performed communication; this specialist owns visual form. The AV evidence index routes source facts and recurrence comparisons shared by those arguments.
 
 ## `12_ETHICS_OF_AMBITION_CARE_LEADERSHIP_AND_BECOMING_ADULT.md`
 
@@ -474,7 +548,14 @@ Tracks:
 - exact primary-source locators;
 - later evidence that pressures it;
 - revision state: strengthened / weakened / narrowed / overturned / unresolved;
+- transition: `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT`, or `OPEN` (retain any older descriptive state in its historical record);
 - specialist document home.
+
+This file is initialized in V2.4 as the current home for new attributable claim changes and disputes. Earlier transition histories in the musical and character ledgers remain in place and are cross-referenced when a claim is next touched; no bulk migration or invented retrospective claim IDs.
+
+## `LLS_AV_EVIDENCE_AND_RECONCILIATION_INDEX.md`
+
+Owns actual per-run/per-unit inspection coverage, calibration and exposure receipts, pointers to frozen observations and critical review, and source-locator/recurrence routes for acting, motion, score and sound. It distinguishes independent candidate findings from accepted write-through. The claim-revision ledger owns current formulations and transition history; the five existing ledgers own cumulative interpretation. An empty coverage table means no V2.4 inspection is recorded, not that the earlier corpus has no evidence.
 
 ## `LLS_CHARACTER_STATE_LEDGER.md`
 
@@ -517,7 +598,7 @@ Record factual recurrence first; interpretation second.
 
 # VIII. Cross-document duplication rules
 
-1. Character biography belongs in the character's primary specialist home.
+1. A person's integrated portrait belongs in their qualified individual monograph; cohort and relationship specialists retain their distinct questions. The portrait must remain understandable without following links for basic personality, decisions, relationships or speech.
 2. Whole-group hierarchy belongs in Document 06, even when examples involve Kanon.
 3. Competition theory belongs in Document 08, not repeated in every character document.
 4. Song mechanics belong in Document 09; character documents summarize only relationship-specific consequences.
@@ -533,7 +614,7 @@ Record factual recurrence first; interpretation second.
 
 # IX. Reader order for the mature full-series package
 
-1. `00_README_AND_CORPUS_MAP.md`
+1. The registered `01 Source Lock and Inventory/LLS_CURRENT_STATE_AND_CORPUS_MAP.md` (retain this single current entrypoint).
 2. `01_SERIES_ARCHITECTURE_THREE_YEARS_AND_THE_CHANGING_MEANING_OF_LIELLA.md`
 3. `02_KANON_CENTER_LEADERSHIP_VOICE_AND_DECENTERING.md`
 4. `03_KEKE_SUMIRE_CHISATO_REN_FOUNDING_FIVE_RELATIONSHIP_ECOLOGY.md`
@@ -549,6 +630,8 @@ Record factual recurrence first; interpretation second.
 14. `13_ENDINGS_GRADUATION_FUTURE_AND_WHAT_CAN_CONTINUE.md`
 15. `14_COMPARATIVE_REFERENCE_MATRICES_AND_OPEN_QUESTIONS.md`
 16. evidence/index appendices.
+
+Individual monographs are a parallel person-first reader route from the qualification record once actual portraits exist. The numbered specialist package remains intact; it is not a substitute for that route.
 
 ---
 
@@ -569,6 +652,23 @@ The corpus is ready for final release only when:
 - the final synthesis distinguishes fact, strong inference, interpretation, and speculation;
 - the final ending analysis does not mistake closure for total resolution.
 
+V2.4 distinguishes these gates explicitly:
+
+| Gate | Required evidence of completion |
+|---|---|
+| Independent AV run completion | Authorized range fully inspected by its principals, required independent contributions/review, calibrated and adequately sampled load-bearing observations, closed unit transactions and independent season/full-run freezes; no automatic current authority |
+| Existing V2 continuation release | Musical backfill through S3E08 and its verified integration/readback audit; no bypass from an independent candidate's later coverage |
+| Current sequential-source completion | 36 accepted current episode readings and three season checkpoints, with truthful generation, source and exposure boundaries |
+| Longitudinal and AV reconciliation | Five ledgers current at the declared boundary; evidence and claim histories consistent; required channel debt resolved or the affected completion scope explicitly bounded; material disagreements retained |
+| Specialist readiness | Architecture/role-gap review, stable source/claim routes, qualification decisions and outstanding character obligations, scoped frozen synthesis inputs |
+| Character-layer completion | Every qualified subject has an accepted self-contained portrait; self-containment and fidelity recorded separately; no deferred/unassessed candidate represented as completed |
+| Full-series synthesis readiness | Required specialists and character responsibilities converge; changed central premises propagate to affected documents; unresolved interpretations remain visible |
+| Release | Contradiction, duplication, locator, named-subject/reference and authority audits; source payload exclusion; repository publication checks; explicit freeze state |
+
+An `OPEN` interpretation is a legitimate intellectual outcome, but it cannot certify an unresolved REQUIRED observation. Report the precise bounded scope that is complete. A successful repository check certifies structural/publication requirements, not source truth or character reconstruction readiness.
+
+Extend the architecture only when a recurring dimension has independent evidence, retrieval or synthesis needs. Record material amendments and their justified backfill scope in the current map and revision history. Do not reread historical units solely to retrofit a field, synopsis or participation receipt. New framework versions preserve earlier evidentiary boundaries and frozen bytes.
+
 The intended result is a reusable scholarly-style corpus: locally auditable at scene level, historically faithful to the sequential viewing experience, and strong enough for later cross-series comparison.
 
 
@@ -584,3 +684,7 @@ V2.2 formalizes character modeling as a native longitudinal product of episode a
 ## V2.3 architecture revision — 2026-08-26
 
 V2.3 introduces a canonical musical-dramaturgy ledger under `06 Evidence and Indexes`, distinguishes that authority from the `04 Retrospective Music and Performance` working lane, and establishes a temporary S3E09 continuation lock. The lock remains in force until sequential musical-dramaturgy backfill has advanced from S1E01 through S3E08 and an integration audit confirms ledger/corpus-map consistency. Existing V2.2 episode artifacts and frozen Season-1/Season-2 checkpoints retain their historical authority; the backfill creates deltas and transition records rather than silent rewrites.
+
+## V2.4 architecture revision — 2026-11-26
+
+Adopts the AV method family, source-aware multi-agent execution and a separately bounded independent reread plan; initializes inspection/reconciliation routing and claim-revision infrastructure; adds evidenced monograph qualification and separate individual portraits while retaining all fourteen specialists; defines responsibility, handoff and completion gates; and corrects analytical storage to Git-primary authority. The current map is reduced to present state by moving its historical progress blocks verbatim to the adjacent changelog. No historical reading, checkpoint, five-ledger entry or source-lock artifact is rewritten. The prospective gate remains CLOSED for preparation, independent AV coverage remains zero, and the existing S3E09 hold remains active.
