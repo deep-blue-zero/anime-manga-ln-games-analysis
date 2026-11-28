@@ -375,17 +375,17 @@ The trainer knows Rinami's circumstances but asks her to temporarily remove them
 
 **The trainer's “circumstances” (GKM-SAA-274; inference).** The scene does not say what `あなたの事情` refers to (`adv_csprt-1-0004_01` L65). The most probable referent is the little-sister idol persona Rinami was assigned in her first-year unit, Love☆しすたぁず. The trainer has just named `妹っぽさ` as the problem (L51), and Rinami repeats the word (L57). In Series 3, Rinami calls that period `『Love☆しすたぁず』時代の私`, and Sumika answers that she cannot picture Rinami as a `妹キャラ` (`adv_csprt-3-0064_03` L115, L123; Series 3 parts 051–075 reading §15). In Series 2, Rinami says of the little-sister manner, `私はうまくできなかったから` (`adv_csprt-2-0004_02` L71; Series 2 parts 001–025 reading §6). The trainer never names the unit, so this identification is an inference from cross-support evidence, not a line of this scene.
 
-Rinami repeats the same lines. The trainer immediately says the result is much better and that Rinami's own strengths are visible.
+Rinami repeats the acting task under the new direction. The second take varies the phrasing and divides the final statements into separate boxes. The heard phrasing is softer and smoother, and the score and framing change. The trainer says the result is better and that Rinami's strengths are visible.
 
 This is a compact but very important role-authorship scene.
 
-A preexisting “little sister” story about Rinami is not automatically the route to authentic performance. She becomes more convincing when she stops chasing a category and draws on an actual relational feeling.
+In this exercise the trainer moves Rinami away from deliberate little-sister styling and asks her to imagine someone close. The guided retry sounds different and earns the trainer's approval. The person's identity, what she actually imagined, and how much of the change comes from delivery, direction, or presentation remain open.
 
 ### Claim transitions
 
-- **Rinami — STRENGTHEN:** authentic-feeling performance emerges through relational memory rather than fixed archetype imitation.
+- **Rinami — STRENGTHEN:** changing the acting prompt from a prescribed type to imagining someone close accompanies an audible and trainer-recognized change in this exercise.
 - **Rinami — REVISE (wording revised 2026-11-15, GKM-SAA-274):** the assigned “little-sister” persona is not sufficient as an explanatory master key. It is a persona Rinami was given, not an identity, and it can itself become an artificial performance constraint. Earlier wording: “little-sister identity” is not sufficient as an explanatory master key.
-- **Rinami — STRENGTHEN:** she can transform private relational feeling into professional acting without the relation being literally reenacted.
+- **Rinami — OPEN:** the scene leaves the imagined person and any particular memory or feeling unstated.
 
 ## 6.2 Rinami as actual older sister is stricter than the soft stereotype
 
@@ -1128,3 +1128,11 @@ This tranche particularly strengthens later simulation/reconstruction work becau
 `GKM_SUPPORT_SERIES_02_PART_001_025_DEEP_READING.md`
 
 Use `support_series_2_part_001-025.dialogue.txt` as the complete next source boundary. Preserve source-story grouping, do not assume support-story number is diegetic chronology, update `GKM_SUPPORT_AND_EVENT_PARTICIPANT_INDEX` for every story, and continue routing durable findings into character/relationship/continuity/institution/theme/register/NPC/source-locator/AV infrastructure.
+
+## Later Source Lock 1.2 reading of Rinami’s rehearsal — 2026-11-25
+
+The paired support `adv_csprt-1-0004_01` recording supports a difference between the two acted handkerchief offers. The trainer’s prompts and situational approval stand. The retry has smoother reported phrasing together with a change in scoring and presentation. The scene leaves the content of Rinami's circumstances and the person she pictures open. Do not use this exercise to infer an innate older-sister register or a measured change in speaking speed. [Five support-card adjudications](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Support 1-0005 part 01 recorded follow-up — 2026-11-26
+
+In support 1-0005 part 01 Hiro asks Temari for advice more severe than the feedback Temari gives China. Temari’s hesitant outward answer and her inward alarm have separate audience roles. Hiro says she would welcome criticism. This guard supplies no actual harsh criticism or outcome. The delivery of L55 and L98 differs from the player-audible inner lines L70, L78, L117 and L124. Part 02 and its separate participants retain their source scope. [Support 1-0005 part 01 recording](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#hiro-asks-temari-for-sharper-advice).

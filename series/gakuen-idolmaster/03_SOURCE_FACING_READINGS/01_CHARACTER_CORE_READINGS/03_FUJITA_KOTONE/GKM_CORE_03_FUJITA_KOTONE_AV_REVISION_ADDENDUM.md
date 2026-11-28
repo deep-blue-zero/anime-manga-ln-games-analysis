@@ -10,13 +10,17 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 title: Gakuen Idolmaster V2 — Fujita Kotone Phase-3 Audiovisual Revision Addendum
-version: '2.1'
+version: '2.2'
 created: '2026-08-15'
-revised: '2026-11-15'
+revised: '2026-11-25'
 revision_note: 'v2.1, source-to-analysis audit 2026-11-15: STRENGTHEN §5 with a textual naming of performed reciprocity (GKM-SAA-186) and REVISE §6.1 by narrowing the refusal/autonomy OPEN with Source Lock 1.1 text (GKM-SAA-052); textual routing only, no new audiovisual inspection'
 ---
 
 # GKM CORE 03 — FUJITA KOTONE AUDIOVISUAL REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+Dear 035–037 and the song-communication controls qualify the older voice and financial-deflection claims. The late D036 money turn lies beyond the earlier comparison window. The *Yellow Big Bang!* story includes both deflection after sincerity and a countercase of gratitude that closes without deflection. Producer scoring in the Re;IRIS communication is his own estimate. The playful *Kiramekirari* demonstration has backing and supplies no proof of off-key singing. Apply these revisions to KOTO-C13/C22/C23 and the vocal-development evidence. The statement that Kotone regulates the terms of the Dear 037 reply survives at the script layer. The current paired first-choice print and masked voice cannot establish matching branch performance or romance. See [current recordings and dispositions](../../../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md).
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Two dated notes route later textual evidence into this addendum. §5 gains a STRENGTHEN note (GKM-SAA-186), and §6.1 gains a REVISE note that narrows the OPEN (GKM-SAA-052). The v2.0 transitions, the voice model and the counterpressures are unchanged. No audiovisual evidence was inspected for this revision; the optional AV checks are routed to the Carbon observation queue.
 
@@ -159,6 +163,8 @@ The relationship is not one-way rescue. Kotone interprets the Producer’s work,
 
 Kotone can remain a fan while refusing succession and demanding equality.
 
+Sena’s offer to cover current expenses gives Kotone a specific financial reason to turn her down. In *思惑とガクガク* part 2, Kotone separates the beats of her refusal, stresses her aversion to debt and questions whether an idol income is certain. She keeps her polite, drawn-out endings as she leaves. Sena names no repayment terms. Kotone’s response establishes what she is willing to risk in this exchange. The Producer relationship in §6.1 has its own evidence. [Support 2-0011 part 2, recording and text](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md).
+
 ## 6.3 Saki and Temari
 
 `STRENGTHEN` peer ecology.
@@ -201,3 +207,7 @@ The following must not be lost when later synthesis compresses the character:
 > **Fujita Kotone begins with an acute awareness that value disappears unless someone acknowledges it materially. The Producer first creates enough floor for her existing ability to appear. Kotone then learns to turn calculation into craft: cuteness becomes a relational interface, fanservice becomes distributed recognition, and audience investment becomes mutual energy rather than one-way purchase. Her mature form is not purified idealism. She remains commercial, jealous, praise-hungry, funny, rough, and ambitious. What changes is that these traits increasingly operate inside chosen relation rather than emergency.**
 
 This formulation should govern Phase-3 comparative work until events, support cards, ensemble synthesis, and the definitive monograph revise it.
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+Kotone’s E022-01 responses move from noticing how Mao feels to giving practical directions. She describes caring for her younger siblings, and the lullaby is a spoken offer. Her earlier room suggestion and her private speculation about fatigue have different roles. The scene leaves cause, bodily measurements and unbroken transport open. [Guarded care and summer adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md#training-accepting-help-and-asking-for-one-thing)

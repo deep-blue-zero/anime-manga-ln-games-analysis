@@ -10,7 +10,7 @@ source_boundary: Routes GKM_CORE_08_HIMESAKI_RINAMI.md through the complete Phas
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-22'
+last_updated: '2026-11-25 — Carbon write-through'
 parent_authority: GKM_CORE_08_HIMESAKI_RINAMI.md
 title: Himesaki Rinami Character-Core AV Revision Addendum
 legacy_supersession_notes:
@@ -18,6 +18,14 @@ legacy_supersession_notes:
 ---
 
 # GKM CORE 08 — HIMESAKI RINAMI AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+Four stage performances have paired existing reports across eight overlapping native parts, supplementing earlier exact-audio compact witnesses. Comparison permits work on delivery, arrangements and audience ties. It does not isolate the lead or establish vocal maturation across dissimilar productions. The exact E021-01 Rinami prohibition bounds practical care and authority without relying on the earlier truncated segment or exporting it as a standing rule. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/GKM_RINAMI_CARBON_CHARACTER_RECONCILIATION_20261125.md). Earlier accounting and source locks below describe their own revisions.
+
+## Recorded support 1-0004 part 01 — 2026-11-25
+
+**STRENGTHEN.** Rinami changes her delivery once the trainer redirects her from presenting a younger-sister manner to imagining someone close. A softer, smoother second attempt and the trainer’s approval support flexible acting under guidance. Script punctuation, score and staging also change. The role’s earlier circumstances, the person Rinami imagined and whether this is her usual register remain **OPEN**. [Character audiovisual update](../../../05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/GKM_RINAMI_CARBON_CHARACTER_RECONCILIATION_20261125.md#a-change-of-acting-delivery-in-support-1-0004--2026-11-25)
 
 ## 0. Purpose
 
@@ -95,3 +103,11 @@ The textual core should now route reconstruction through these AV-safe rules:
 ## 5. Evidence-quality note
 
 The complete Dear route is directly inspected at 720p or better: Dear 001-020 at 1080p30, Dear 021-027 at 720p60, and Dear 028-037 at 720p30. R2 closes the R1 late-route visual-quality exception. Ordinary close reading of tears, blush, gaze direction, hand placement, posture, and transition sequencing is now supported; laboratory facial-motion and single-frame mind-reading remain out of scope.
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Rinami leaves help available while Hiro tries to make the chocolate on her own. She checks on her later and accepts Hiro’s request to make it together. Hiro judges the first result inadequate. Rinami appraises the finish of the shared attempt. Palms, texture and the full work process have distinct written, reported and sampled-picture limits. [Guarded Rinami performance](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#rinami-keeps-help-available-and-responds-when-asked).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+**STRENGTHEN** the enacted contrast of appreciative delivery and explicit prospective authority in Rinami’s reply to Ume. The spoken division of labor and later action have separate evidentiary status. [Guarded Ume adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#ume-keeps-a-role-in-the-work).

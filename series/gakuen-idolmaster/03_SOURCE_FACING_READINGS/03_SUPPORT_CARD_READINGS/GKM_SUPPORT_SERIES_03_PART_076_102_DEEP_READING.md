@@ -118,7 +118,7 @@ That makes Phase 5 an essential precursor to Phase 6 rather than decorative slic
 
 Particularly useful anchors include:
 
-- `story_0076` — Temari and Misuzu explicitly say they have reconciled; the relationship remains slightly awkward but mutually desired.
+- `story_0076` — Temari’s inward account says she and Misuzu have reconciled but remain awkward. Misuzu accepts the lunch invitation, and Sena later says Misuzu had long wanted reconciliation. These are distinct speakers and forms of evidence.
 - `story_0079` — third-year succession is active enough for Tsubame to tell Misuzu to support China and Ume after the seniors are gone.
 - `story_0081` — Christmas and ongoing Hanami family gift exchange; grandparents remain connected to dorm life through vegetables and messages.
 - `story_0086` — Sena frames the outing through “things to do while still a high-school student,” making graduation finitude salient.
@@ -137,24 +137,28 @@ The bundle's non-contiguous story numbering does not itself create continuity ga
 
 # 2. `story_0076` — Sena, Temari, and Misuzu: reconciliation creates new access, not restored simplicity
 
-The first part establishes a clean post-reconciliation Temari/Misuzu state. Temari explicitly wants to spend time with Misuzu *because* they have reconciled, but the bond is still awkward enough that she hesitates to ask for lunch. Misuzu immediately accepts and has prepared enough sandwiches to share. Sena, who had been waiting for Misuzu for student-council work, silently urges Misuzu to go and then says openly that Misuzu had wanted reconciliation for a long time.
+The first part presents a post-reconciliation state through Temari’s inward account. She wants to spend time with Misuzu and hesitates to invite her to lunch. Misuzu pauses, then accepts and offers sandwiches. Sena, who has been waiting over student-council business, has an explicitly inward encouragement at L121. Misuzu’s spoken choice follows at L141. After Misuzu proposes going and Temari thanks her, movement cues and Sena-only staging precede Sena’s remark that Misuzu had wanted reconciliation for a long time (L175–186). Sena says the council business will finish soon (L188); the script supplies no completed work, identified substitute worker or reply confirming that Misuzu hears those later remarks.
 
 That combination matters. Repair is neither instantaneous restoration nor merely declarative. Temari's new access has to be exercised again; Misuzu's long-standing desire to reconcile can coexist with the earlier control problems and conflict documented elsewhere.
 
-Part 2 creates a new Sena/Temari axis. Temari preemptively rejects being produced by Sena, but agrees to let the current `一番星` evaluate her singing. Sena recognizes Temari's middle-school `歌姫` reputation, then asks to sing together. Temari's outward challenge is competitive; her inner reaction is delighted and honored. Sena says she is glad that Temari was the person with whom she sang after a long interval and proposes a future live together.
+Part 2 creates a new Sena/Temari axis. Temari preemptively rejects being produced by Sena, who accepts that boundary, then agrees to let the current `一番星` evaluate her singing (L16–46). Sena asks her to sing together and Temari accepts the challenge (L73–99). Sena later calls the result an exhilarating unison and says she is glad Temari was the person with whom she sang after a long interval (L117–121). Temari says aloud that she is honored (L132); her inward line expresses surprise that Sena sang with her (L144). Sena proposes a future live and Temari answers competitively (L151–166). The written account does not itself establish the recorded song, audible vocal allocation or completed future live.
 
 Part 3 shows Misuzu entering this new relation without pretending indifference. She redirects Sena's desire to evaluate Temari into a dance-game contest and then adds a wager: if Misuzu wins against Temari, Temari joins the student council. The scene is comic, but it keeps possession, rivalry, and institutional recruitment in the same social field.
 
 ### Claim transitions
 
-- **Temari ↔ Misuzu — STRENGTHEN repaired-state access:** reconciliation permits lunch, invitation, shared food, and playful rivalry while residual awkwardness remains.
-- **Misuzu — STRENGTHEN:** Sena confirms that reconciliation was something Misuzu had wanted for a long time.
-- **Sena ↔ Temari — PROMOTE:** Sena evaluates Temari as a serious first-year talent; Temari accepts professional evaluation while refusing producer capture; duet pleasure and future-live interest are reciprocal.
-- **Temari — STRENGTHEN:** admiration for elite seniors can produce intense private delight without canceling her public competitive register.
+- **Temari ↔ Misuzu — STRENGTHEN repaired-state access:** renewed contact supports an awkward invitation, an agreement to have lunch together, an offer of sandwiches, and later playful rivalry.
+- **Misuzu — STRENGTHEN:** Sena describes reconciliation as something Misuzu long wanted. This is her account of Misuzu.
+- **Sena ↔ Temari — PROMOTE:** Sena treats Temari as a serious first-year talent while accepting her refusal of producing. Temari accepts evaluation and the joint-singing challenge. Her spoken honor and inward surprise are distinct; Sena’s future-live proposal and the competitive reply remain prospective.
+- **Temari — STRENGTHEN:** Temari explicitly registers inward surprise that Sena sang with her. She answers the later invitation competitively. The degree of delight remains open.
 
 ### Phase-6 rule
 
-Do not reconstruct post-reconciliation Temari/Misuzu as if the rupture never occurred. New warmth is evidence of successful repair; hesitation and rivalry are evidence of the new terms under which that repair operates.
+Do not reconstruct post-reconciliation Temari/Misuzu as if the rupture never occurred. Misuzu accepts the lunch invitation while the talk retains hesitation. Renewed access to ordinary company and continued rivalry can coexist in this story.
+
+**Written-source precision (2026-11-26; Source Lock 1.2 revision 88).** `adv_csprt-3-0076_01.txt` L38/L61/L121 explicitly mark Temari’s and Sena’s inward words; L175–188 separates the later Sena-only staging and remarks. Part 02 L16/L25, L46–99 and L117–166 distinguishes refusal of producing, assessment and joint-singing assent, Sena’s appraisal, Temari’s spoken honor and inward surprise, and the prospective live. Earlier Phase-5 transition labels remain. No communicated silent signal, heard song, completed council duty or future live is added.
+
+Temari thinks about spending time with Misuzu and makes a lunch invitation. The player hears Sena’s explicitly inward encouragement before Misuzu’s own outward assent. Misuzu’s receipt of the encouragement remains open. Misuzu addresses Sena at L23–24. Sena’s forecast for the council work is separate from who completes it. Temari declines being produced, then accepts an assessment and a shared song. Sena praises the represented unison. No independent listener identifies a sung voice inside the two guarded glyph passages. The authored audition cue and different reported score segments remain separate. The later invitation remains prospective. [Guarded SyngUp adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).
 
 # 3. `story_0077` — Saki, China, and Mashiro Yu: recipient modeling becomes explicit product design
 
@@ -245,11 +249,13 @@ Part 3 keeps the Hanami household linked to school life. The sisters prepare gif
 
 # 8. `story_0082` — Lilja and Tsubame: public image does not exhaust private fandom
 
-Lilja and Tsubame unexpectedly discover one another in an anime-merchandise space. Both initially attempt face-saving explanations. Tsubame is disguised; Lilja is holding a large number of capsules from repeated gacha attempts. The embarrassment disappears as soon as they identify shared knowledge.
+Lilja and Tsubame unexpectedly discover one another in an anime-merchandise space. Both initially attempt face-saving explanations. Tsubame is disguised; Lilja is holding a large number of capsules from repeated gacha attempts. Finding shared knowledge gives them something to talk about. Their later reaction when Mao and Rinami discover them shows that the exposure question returns in a different setting.
 
 Part 2 clarifies that Tsubame's public profile is curated rather than false. Her listed interests—calligraphy, Japanese history, reading—are real. Anime is simply omitted because it conflicts with her image strategy. She can discuss favorite titles, adaptation style, character deaths, and genre expectations with specificity. Lilja's anime knowledge partly comes through her Japanese father, adding another route by which Japanese cultural material entered her pre-Hatsuboshi life.
 
-The two exchange recommendations and explicitly call themselves `同士`. Part 3 then shows them deliberately meeting for a film release, analyzing adaptation choices together, and buying merchandise. When Mao and Rinami see them, both lie badly about having met intentionally or watched the film.
+Lilja asks Tsubame what she likes. Tsubame names `ステルス・ブラッド` as her favorite and asks for Lilja’s recommendation. Lilja suggests `ふわっとブレザーつむじちゃん`, and Tsubame reconsiders her assumption about its intended audience and calls them `同士`. In part 3 they discuss the adaptation after seeing `シルヴェスタ`. Tsubame proposes buying a program before Mao spots them. Rinami asks if they also came for a film. Tsubame claims coincidence and cues Lilja, who denies both a planned meeting and a screening. When Mao asks why they are there, Tsubame gives a halting excuse and Lilja echoes part of it. Mao remarks that they seem close.
+
+**Recorded readback, 2026-11-25.** SRC-0088 at 127–222 s and 234–322.65 s supports the reciprocal recommendations and the local order of the cover story. Lilja retains polite forms during advocacy and in the later rush to answer. The sampled picture and sound leave both private motives open. [Paired evidence and exact source scope](../../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md).
 
 ### Claim transitions
 
@@ -296,7 +302,9 @@ Tsubame teaches Saki and Ume seated Zen practice as a means of mental stability 
 
 Part 2 moves to calligraphy. Saki chooses `不撓不屈`, a phrase that aligns cleanly with her established self-concept, and asks for precise technical correction. Ume accidentally writes `七転八倒` when she means `七転八起`; the scene is a bounded comic language error, not evidence for broad intellectual incapacity.
 
-Part 3 reverses the teaching direction. Tsubame evaluates Saki's equipment-heavy, scientific training as rational and says she wants to learn from it because she tends to cling to old methods. Saki refuses the false binary: Zen helped her, so the right solution is to combine useful elements from each system. Their joint session becomes overpacked, but both report real growth and mutual motivational benefit.
+Part 3 reverses the teaching direction. Tsubame evaluates Saki's equipment-heavy, scientific training as rational and says she wants to learn from it because she tends to cling to old methods. Saki says the seated meditation she learned from Tsubame was valuable and proposes combining useful elements from both routines. After the workout Tsubame says they may have packed too much into it. Saki says she feels herself growing when they practise together. Tsubame says Saki gives her encouragement.
+
+In SRC-0092 (204.5–306.25 s), the clock wipe passes over the exercise. Both speakers sound winded afterward. Later Saki gives a short laugh before reminding Tsubame that they are audition rivals. Her proposal to learn together leaves her free to challenge her senior. The competition’s result and any measurable training gain lie outside the window. [Part 03 recording and spoken exchange](../../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 ### Claim transitions
 
@@ -1034,9 +1042,9 @@ Ordinary peer intimacy with Mao uses soft interpretation and emotionally direct 
 
 ## P0 — interpretation-changing performance targets
 
-1. `story_0076/part_01` — Temari's awkward post-reconciliation lunch invitation and Sena's silent encouragement to Misuzu.
-2. `story_0076/part_02` — Sena/Temari duet; contrast between Temari's public challenge and inner delight.
-3. `story_0082/part_01-03` — Tsubame/Lilja fandom embarrassment and the degree of register collapse when discovered by Mao/Rinami.
+1. `story_0076/part_01` — Temari’s awkward post-reconciliation lunch invitation, Sena’s explicitly inward encouragement and Misuzu’s separate spoken reply; any communicated signal or receipt requires its own evidence.
+2. `story_0076/part_02` — the represented Sena/Temari duet, Sena’s appraisal and the contrast between Temari’s outward challenge and explicitly inward surprise.
+3. `story_0082/part_01-03` — Tsubame/Lilja fandom embarrassment and the degree of register collapse when discovered by Mao/Rinami. The [later recorded comparison](../../05_AUDIOVISUAL_ANALYSIS/GKM_CAFE_CINEMA_AND_NICKNAME_PERCEPTUAL_ADJUDICATION_20261125.md) answers the café and cinema delivery questions at the named intervals.
 4. `story_0086/part_03` — Sena's “date / I don't know romantic love / I like you” sequence with Tsubame; essential for affect calibration without over-romanticizing.
 5. `story_0088/part_03` — Hiro/China internalized-other exchange; vocal warmth and comic/serious balance.
 6. `story_0089/part_03` — Saki's `期待していた` / Sena's recognition of prior disappointment and thanks.

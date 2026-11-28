@@ -10,12 +10,18 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-09"
+last_updated: "2026-11-25 — Carbon clip, edition and claim routing"
 ---
 
 # Arimura Mao — audiovisual analysis
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
+
+Q556 tests Mao in Event 022 part 02, parent [300, 597). Japanese mixed hearing distinguishes Mao's drowsy address and idol wish from Kotone's echo, and joins the remembered wallet search to a separate scene of care. Dense frames and a measured early return of backing bound the claim. The wallet deliverer and addressee Mao imagines remain open. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#mao-in-illness-and-memory)
+
+Begin with the [current Carbon update](GKM_MAO_CARBON_AV_UPDATE_20261125.md) for later source bindings, dialogue and performance limits and current sufficiency. The original specialists and controls below preserve the Phase 3 delivery.
+
+The later [Beach-restaurant repair](../GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#repair-at-the-beach-restaurant) review covers Mao’s apology and her promise concerning both the stage and the shop.
 
 Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.
 
@@ -32,3 +38,7 @@ Start with the integrated baseline. Use the textual core and AV addendum togethe
 | Textual authority | [Character core](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/04_ARIMURA_MAO/GKM_CORE_04_ARIMURA_MAO.md) · [Core evidence](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/04_ARIMURA_MAO/GKM_CORE_04_ARIMURA_MAO_EVIDENCE_MATRIX.md) · [AV revision addendum](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/04_ARIMURA_MAO/GKM_CORE_04_ARIMURA_MAO_AV_REVISION_ADDENDUM.md) |
 
 Retained release checksums describe historical ZIP member bytes and package paths. The [recovery audit](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records recovered originals and repository derivatives.
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+Mao’s polite replies to the trainer sit between her inward last-chance thoughts and her later conviction that she cannot afford to rest. Kotone initiates care, and Mao later requests a small light. At Sena’s live, Mao distinguishes her private avoidance from what she tells Kotone afterward. The separate Event 003 summer reflection is inward and concerns the particular season she enjoyed. Guarded edges leave some complete speech, the cause of her symptoms and the effect of her future resolve open. [Guarded care and summer adjudication](../GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)

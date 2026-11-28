@@ -10,12 +10,18 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-09"
+last_updated: "2026-11-25 — Carbon clip, edition and claim routing"
 ---
 
 # Kuramoto China — audiovisual analysis
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
+
+A quiet reply to Hiro turns into a wider class appeal in Event 014. Saki’s later recognition follows a different exchange. In Hiroshima the equipment interruption, China’s invitation and the crowd noise and thanks have playback support. The story passes over the actual performance of the baseball song. [Event 14 finding 1](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#china-shifts-from-addressing-a-teammate-to-calling-in-the-class) · [Event 15 finding 2](../GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#the-crowd-scene-reports-a-cheer-that-playback-elides)
+
+Begin with the [current Carbon update](GKM_CHINA_CARBON_AV_UPDATE_20261125.md) for later source bindings, dialogue and performance limits and current sufficiency. The original specialists and controls below preserve the Phase 3 delivery.
+
+China accepts responsibility for the paperwork lapse and explains Ume’s assistance. She later asks the seniors for a chance for all three juniors to answer their concerns. The two guarded scenes distinguish her earlier apology from the later request. China promises to become a dependable president by spring and then asks Ume and Misuzu for continued help. The proposal to widen their group and invite Hiro is prospective. [Guarded Event 025 adjudication](../GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 Start with the integrated baseline. Use the textual core and AV addendum together for the character reading.
 

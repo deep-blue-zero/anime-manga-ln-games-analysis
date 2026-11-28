@@ -10,11 +10,19 @@ source_boundary: AV revision of GKM_CORE_10_HANAMI_UME.md based on the complete 
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-19'
+last_updated: '2026-11-25 — Carbon write-through'
 title: GKM Core 10 — Hanami Ume AV Revision Addendum
 ---
 
 # GKM CORE 10 — HANAMI UME AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+Keep Saki's dream counterpart distinct from Ume's own later decision and words. The actual Finals return articulates her ambition and welcomes repeat rivalry after the reconciliation. Ume's earlier Dear 028 protest and the two-stem sister exchange are separately staged. In Dear 029 she refuses Rinha's intervention with Saki and independently requests rehearsal judgment. The alternate proof supplied by Goose-P is limited to its jealous comic exchange. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/10_HANAMI_UME/GKM_UME_CARBON_PLAYBACK_SUCCESSOR.md). Earlier accounting and source locks below describe their own revisions.
+
+## Recorded support 2-0067 part 02 — 2026-11-25
+
+**REVISE.** Ume picks up Temari’s spoken explanation about the dog and turns it into a playful question about her relationship with Temari. The questioning start, later change in delivery and explicit admission of excessive teasing give different evidence about how the exchange develops. The point when Ume first intended the joke remains **OPEN**. This narrows when and how she pushes on familiarity. The actual play falls in a time skip. [Character audiovisual update](../../../05_AUDIOVISUAL_ANALYSIS/10_HANAMI_UME/GKM_UME_CARBON_PLAYBACK_SUCCESSOR.md#ume-turns-temaris-thanks-into-wordplay-in-support-2-0067--2026-11-25)
 
 This addendum routes the Phase-3 textual claims through the complete audiovisual pass. It does not mutate the frozen textual core.
 
@@ -53,3 +61,15 @@ This addendum routes the Phase-3 textual claims through the complete audiovisual
 - bilateral Saki/Ume authority after Saki-centered synthesis;
 - class/resource comparison across the cast;
 - whether D-UME’s global summit rhetoric survives other result tracks.
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+Ume says an idol should answer her own expectations and addresses herself by her full name. The scenario has no inward flag. Who else heard the turn remains open. Ume describes her excitement, proposes new partners and says she aims to cover all 765 Pro songs. The spoken title exchange and the earlier stage performance have different scopes. Ume’s support part 01 recollection distinguishes following Saki from dreaming specifically of idolhood. Ume affirms her trust and says she wants to find her own answer. The onset of that aspiration remains undated. [Guarded Event 026 and support comparison](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Recorded exchange and scope — 2026-11-26
+
+Ume’s short first yes confirms her sister as the target. In the later exchange she reports her reserve admission and prior athletic display, then accepts Sena’s conditional council invitation. Each affirmative answers its immediate question. The exact samples and captions leave the rendering of the full athletic display unsettled. Ume asks whether the juniors may take the assignment, asks whether the proposals would work for everyone, and voices the idea of a memory unique to that day. In the final exchange she gives Misuzu the floor and then replies more brightly to her proposal to finish the work together. The result of the plan remains outside these windows. [Guarded Event 005 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Ume’s proposals, relationship labels and terms of approach
+
+**STRENGTHEN** the performed contrasts that support UME-C03 and UME-C16. **REVISE** treating jealousy as established in support 2-0047. Ume’s tentative proposal to let Rinami do all the thinking gives way to renewed participation. Rinami admires the ideas Ume and China produce and offers to check excess. She leaves the work of generating ideas to them. Actual use of that authority and any later effect on confidence are separate. Ume explicitly asks to be Saki’s friend after Saki calls Lilja one. Saki names sisterhood in answer. Ume proposes a contest and Lilja reacts with surprise. The delivered contrast adds performed evidence for the moves. Jealousy, teasing and a bid for attention remain possible readings. The scene records no agreement to a contest. Saki withdraws her first assent and asks Ume to approach from the front. Ume announces the change and reports satisfaction later. Sampled approach and the blackout leave contact, a catch and safety open. The revised invitation applies to this occasion. [Guarded Ume adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).

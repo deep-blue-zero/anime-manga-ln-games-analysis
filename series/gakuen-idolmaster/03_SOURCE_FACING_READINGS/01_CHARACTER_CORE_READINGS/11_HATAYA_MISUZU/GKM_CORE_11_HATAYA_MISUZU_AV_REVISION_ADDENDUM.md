@@ -3,7 +3,7 @@ series: GKM
 generation: V2
 status: canonical
 do_not_use_as_current_authority: false
-last_updated: '2026-09-10'
+last_updated: '2026-11-25 — Carbon write-through'
 artifact_type: claim_revision_ledger
 scope: CHARACTER_HATAYA_MISUZU_PHASE3_AV_ADDENDUM
 character: Hataya Misuzu / 秦谷美鈴
@@ -16,6 +16,10 @@ source_boundary: "AVE-FULL-20260910: 27 source recordings computationally proces
 
 
 # Misuzu — current AV integration addendum
+
+## Carbon carry-forward — 2026-11-25
+
+The café maintains ordinary co-presence after an actual disagreement about whether repair applies to Rinha. The voice identity in a remembered or masked scene stays distinct from a literally shown body or attribution of the remembered speaker's intention. The September 45-claim rebuild and latest perceptual corrections have different authority. The named singing and ending witnesses cannot close a person-wide romance or ending-dispatch claim. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_MISUZU_CARBON_CHARACTER_RECONCILIATION_20261125.md). Earlier accounting and source locks below describe their own revisions.
 
 This is the adopted audiovisual companion for the unchanged canonical textual core. It preserves all 18 original MZ-R identifiers and the complete repository addendum below. These 18 integration rows are separate from the 45 MZ-AV evidence-matrix claims; their inherited transition labels are not automatically current AV confidence categories.
 
@@ -129,3 +133,19 @@ For current authority, retrieve:
 → relevant specialist document
 → `GKM_MISUZU_AV_EVIDENCE_AND_METRICS_MATRIX.md`
 → source manifest / exact AV source / Source Lock locator.
+
+## Recorded Event 023 evidence — 2026-11-25
+
+**STRENGTHEN**, exact scene scope. Part 03 L223–232 gives Misuzu's giving formula. Part 04 L219–221 is her recalled daily nap request. In part 05 L268–281 her gift response moves from bright to quiet, and at L296 she voices her planned bedtime listening. Her delivery varies while retaining polite speech. The written emphasis on important people and the future bedtime plan remain separately attributable. [Guarded Event 023 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Recorded exchange and scope — 2026-11-26
+
+Misuzu gives her own reasons for volunteering, examines the proposals, and suggests turning Ume’s idea into practical work. She asks for the floor before proposing that they finish the work together. Her earlier formal apology is separately audible, with the ensuing self-description crossing the first guard. The plan leaves her private motives and the final result open. [Guarded Event 005 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md#ume-and-misuzu-agree-to-work-together)
+
+## Recorded moon-viewing and its remembered quarrel
+
+Misuzu points to their resumed shared life and agrees it has not returned to its old form. She says she will stop asking Temari to sing together and gives up the aim of being Temari’s wings. Misuzu still plans to make Temari shine in her own way. She keeps her polite address even when her remembered reply is forceful. In the present she includes her own inaction in the account of what went wrong. One backing recedes around Temari's question and another enters near Misuzu's answer in part 01. Part 02 carries its heard backing across remembered and present turns. The exact upper-bound score change is unresolved. No observed rendition of the earlier song follows. [Guarded moon-viewing adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#misuzu-gives-up-one-role-and-keeps-an-aim).
+
+## Five guarded SyngUp support scenes
+
+The listening supports distinct deliveries in her admission of enjoyment, hesitation and lunch assent, filtered question over the phone and voiced changes in her dream and its waking frame. Person scopes are Q766/A, Q788/B, Q713/D and Q714/E. [Guarded SyngUp adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

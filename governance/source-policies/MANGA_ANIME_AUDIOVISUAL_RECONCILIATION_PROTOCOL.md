@@ -2,10 +2,11 @@
 title: Manga / Anime Audiovisual Reconciliation Protocol
 artifact_id: MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL
 artifact_type: audiovisual_reconciliation_protocol
-version: "1.0"
+version: "1.1"
 status: canonical
 scope: staged relay between bundle-mediated analysis and continuous audiovisual review, and integration of the result
 created: 2026-10-24
+last_updated: 2026-11-26
 maintainer: Claude + user
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -41,6 +42,36 @@ It is proportional. A series need not reconcile every episode. Batch by episode 
 | 3 | Integrator, normally the reading author | `BUNDLE_MEDIATED` | The integrated reading, ledger updates, and the reconciliation summary |
 
 One mutable owner per artifact (topology Section 9). The AV reviewer does not edit the deep reading or any ledger. It writes its own review artifact, which the integrator consumes.
+
+### 2.1 Antigravity `/swarm` execution route
+
+When available and verified on the actual surface, `/swarm` may implement these roles, including the AV-primary mirror route. The dated product facts and model examples live in [reasoning/model policy Section 5.3](MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md#google-antigravity-snapshot); refresh them under that policy's freshness rules. Swarm is an execution mechanism, not a new inspection lane or an acceptance gate. A newly undertaken substantive sequential reading still requires [topology Section 4.1](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading).
+
+1. **Bind the assignment.** State the authorized operation, source edition and frontier, current checkpoint, required inspection scope, output homes and stopping boundary. Resuming through Swarm does not reopen completed source units or extend the run.
+2. **Name the analytical owners.** For an AV-primary reading, assign a named principal worker to the required source inspection and integrated reading; a new substantive sequential reading requires the principal's whole-unit coverage. For a bundle-first relay, preserve the Stage 1 author and assign the AV reviewer to Stage 2. A new substantive source reading uses the project's topology Section 4.1 configuration, including an independent specialist and a normally distinct critical reviewer, retaining the permitted reduced configuration where justified. Select source-language and character/performance responsibilities as the project requires. A bounded AV relay otherwise keeps the roles in Section 2. A platform verifier counts only if it performs the assigned source-aware analytical review. The coordinator arranges work; coordination is not evidence of source inspection. Name one analytical integrator, normally the principal, as the sole writer of the integrated reading, shared ledgers and entrypoint; specialists and reviewers own only their assigned contribution artifacts.
+3. **Verify each worker.** Resolve requested models and effort against the current surface, then record observed worker settings under reasoning/model policy Section 12. Independently probe each worker's required evidence channels and access route. A shared filesystem, source path, model name or the principal's successful probe does not establish another worker's audiovisual perception. Apply Section 4.1's clock and sampling requirements to every AV contribution.
+4. **Keep observations ahead of shared interpretations.** Swarm briefs and board traffic are shared (reasoning/model policy Section 5.3). Give neutral source questions and locators first. Until every participant whose independent first pass is required has frozen that pass, keep board posts to neutral assignments, access blockers and compact completion receipts. Write observations to assigned working artifacts; do not read other participants' drafts, logs or interpretive messages before the release barrier. Preserve freeze references, timestamps and hashes, and record actual message/file exposure. An instruction to avoid others' work is not proof of isolation. If the ordering cannot be established, use a separately initialized, adequately bounded session for the affected independent responsibility. Disclose any early exposure as `blind_order_achieved: false`; preserve the work, but do not count contaminated findings as independent. Required independent participation and acceptance remain pending until satisfied under the existing topology policy.
+5. **Release, challenge and integrate.** After the observation freezes, release the adjudication packets and candidate interpretations. Apply Sections 4–5, preserve material disagreements and counterexamples, and let the designated integrator alone update shared state after review. A board consensus does not replace claim-level adjudication or the project's atomic completion requirements.
+6. **Bound delivery and preserve recovery state.** Send scoped task packets and small receipts, keeping full working artifacts in their designated working home. Do not copy source media, base64 payloads, complete bundles or growing transcripts into board messages. Verify whether a source locator is dereferenced locally or serialized into a model request; account for the combined request and retained context, not only each file's size. Follow the episode-bundle and topology transport rules for faithful segmentation and source-clock mappings. If transport fails, preserve the last durable checkpoint, inspect ambiguous results, and reduce or repackage the next request rather than repeat the same oversized payload. A fresh context resumes from verified state without claiming that omitted intervals were inspected.
+
+The following is an assignment skeleton for an AV-primary source reading, to be filled from the authorized project state and current model resolution. For a bounded relay, use its existing Section 2 roles and inspection scope instead. The model/effort placeholders express requests, not verified execution facts:
+
+```text
+/swarm Continue only <authorized operation> from <verified checkpoint>.
+Use <current principal model; requested effort> for the principal audiovisual
+worker and <current review model; requested effort> for the critical reviewer.
+Assign source-language and character/performance specialists as required by
+the project. Name the principal and sole analytical integrator; give every
+worker its own bounded source assignment and contribution artifact.
+Report observed worker model IDs and exposed effort; leave unknown settings
+unknown. Probe each assigned evidence channel. Keep briefs neutral and freeze
+required independent observations before sharing interpretations on the board
+or reading other workers' artifacts. Then adjudicate and integrate under this
+protocol. Use bounded source delivery and preserve checkpoint recovery state.
+Do not advance beyond <authorized stopping boundary>.
+```
+
+If `/swarm` is unavailable, ordinary subagents or separate sessions remain valid when their actual context separation, source access and review satisfy the same requirements. Same-model participants can qualify; different model names alone cannot. An existing successful run need not be restarted to adopt this route.
 
 ## 3. Stage 1: the reading and its verification queue
 
@@ -234,6 +265,10 @@ Report the full distribution of transitions. Do not report only the changes that
 Topology Section 12 evaluates arrangements by accepted analytical quality, missing-evidence rate, transfer defects, and rework. For this relay, also track the share of queued claims revised or rejected, the share of new findings accepted, contested items, and items left `OPEN`. The generic continuous-AV method's ablation extension (Section IX) can compare reconciled and unreconciled readings of the same episode.
 
 ## Changelog
+
+### v1.1 - 2026-11-26 - Antigravity Swarm execution guidance
+
+Adds an optional `/swarm` route with named analytical ownership, per-worker capability and configuration checks, an observation-release barrier for shared communications, bounded delivery and checkpoint recovery. Links volatile model names and product controls to the dated provider snapshot. Existing inspection, claim, independence, source-boundary and acceptance requirements remain governing; no historical execution record or project configuration is rewritten.
 
 ### v1.0 - 2026-10-24 - Initial protocol
 

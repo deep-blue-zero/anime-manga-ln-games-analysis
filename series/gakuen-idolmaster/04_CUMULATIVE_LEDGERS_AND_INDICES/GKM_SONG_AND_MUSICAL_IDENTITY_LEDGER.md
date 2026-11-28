@@ -2,20 +2,34 @@
 title: "Gakuen Idolmaster V2 - Song and Musical Identity Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.14"
-source_lock: "GAKUMAS V2 Source Lock 1.0"
+version: "2.17"
+source_lock: "GAKUMAS V2 Source Locks 1.0–1.2"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit corrections (GKM-SAA-073, 076, 228)"
-revised: "2026-11-15"
-revision_note: "v2.14 correction (source-to-analysis audit 2026-11-15; transitions STRENGTHEN, REVISE and OPEN): Rinami R2 adds singing as root and self-assessed weak skill (GKM-SAA-073); SUGAR FLAVOR origin narrative scoped to two non-additive C4 versions and reopened while the performance close is preserved (GKM-SAA-076); Sumika CIDOL 007 placement anchors added (GKM-SAA-228); no sonic claim changed"
+last_updated: "2026-11-25 — Carbon character and claim write-through; written Event 023 revision"
+revised: "2026-11-25"
+revision_note: "Recorded-scene adjudication at the revision-88 source boundary. The dated baselines and previous revisions follow. v2.17 records the 2026-11-25 written Event 023 revision."
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
 # SONG AND MUSICAL IDENTITY LEDGER
 
+> **REVISE — v2.17, 2026-11-25. The two songs on Temari’s single birthday CD for Misuzu.** This ledger adds the birthday song and lullaby as music made for one intended listener. Temari proposes making a CD and later says she sang both pieces. The source supplies her account of the recording and Misuzu’s intended listening. The previous wording is preserved in v2.16.
+
 > **Revision record — v2.14, 2026-11-15 (source-to-analysis audit corrections).** (1) GKM-SAA-076: the Rinami R2 `SUGAR FLAVOR` disposition "PHASE-3 BILATERAL CLOSE with Mao: synchronized peer difference" is kept for the performance (REVISE in scope) and the origin narrative is reopened (OPEN): Rinami's communication 018 and Mao's communication 017 tell the unit's origin with opposite initiators. (2) GKM-SAA-073, STRENGTHEN: a dated note in the Rinami R2 section. (3) GKM-SAA-228, STRENGTHEN: placement anchors in the Sumika `Campus mode!!` row. Earlier wording is kept in each row. The earlier `last_updated` value read "2026-08-22 — Rinami integrated musical identity R2 promoted; 13/13 character baselines complete".
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
+
+## Source-matched song and scene comparisons, 2026-11-25
+
+These findings qualify the relevant historical rows below. Absolute times refer to the named recording. The [receiver reconciliation](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) distinguishes the paired native parts, other complete editions and separately compared publisher audio.
+
+| Character, work and source | Musical action and evidence | Limit |
+| --- | --- | --- |
+| Himesaki Rinami, L.U.V, SRC-0311 and 36℃ U･B･U, SRC-0313 | In L.U.V the “secret” line coincides with a wink and shushing gesture near 91–92 s. It invites the audience into something she frames as difficult to say. In 36℃ U･B･U a phone message and chime lead into the arena around 19–21 s. Listeners describe staccato lead phrases and answering backing calls. The change of setting enlarges the audience for the address. | Paired reports on native picture and sound. The static full-length L.U.V release is another presentation. Camera, arrangement and mixed lead give the two works distinct forms of address. |
+| Himesaki Rinami, Campus mode!!, SRC-0315 and ガラクタロード, SRC-0316 | The anthem brings projected diction and audience address into a collective setting. The camera establishes Rinami on the float at 116 s and on the main stage at 120 s, with close views at 117–119 s. In ガラクタロード three question-and-answer pairs occupy six printed cues at 28.600–38.767 s. The mixed voices turn a song she uses for private encouragement into an invitation to answer. | The four programs across these two rows total 694.4 s including audio tails. Two reviewers received eight overlapping packet-verified parts. The float crossing itself and the identities of voices in the layered responses remain unresolved. These comparisons support differences of phrasing and audience address. Comparable independent vocal takes would be needed to measure growth in singing skill. SRC-0049 at 64.5–111.5 s contains spoken snack-delivery dialogue and supplies no corroborating duet. |
+| Kaya Rinha, formative speech in the Temari rank-3 communication 009 | In the separate RES-06 recording the invitations at 163.58 and 175.02 s reuse one recorded vocal rendition under different backing. A later introduction at 208.07 s names Rinha. The backing changes again near 273.49 s as she talks about wanting to sing like her older sister, at 273.58–280.27 s. The change in accompaniment gives the repeated speech and the personal wish different dramatic settings. | The childhood material carries an expressed aspiration. Ume Dear 015 at SRC-0013 975–1250 s contains three spoken impressions, followed by ordinary speech near 1230–1231 s. Neither scene supplies a sung Rinha solo or establishes her vocal fidelity to Kei. [Dossier source A](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_CHARACTER_DOSSIER.md#source-locators) and [target P1-007](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md). |
+| Hiwatari Kanae, 初 and メタモルフォーゼ | The actual Dear 009 assessment reaches 初 at SRC-0023 3503.4–3551.3 s. In the solo communication Kanae first assumes the song is China's, then questions the unexpectedly bright pop demo. On SRC-0059 it enters around 81.93 s. Listeners hear her centering breaths against the cheers at 446.7–451.4 s. The instrumental returns around 454.25 s under her next reflection. The staged communication ends before the announced performance. The separate SRC-0125 recording presents a standalone 3D stage performance with a produced soundtrack at about 34–190 s. | Her response to the demo and the performed preparation show why appearing as herself carries a cost. The stage soundtrack preserves the mixed vocal. Her isolated lead and the announced in-story concert remain outside its scope. The gameplay True witness has its own edit and result. [Source Lock 1.2 reading](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/14_HIWATARI_KANAE/GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md). |
+| Shinosawa Hiro, 初 | On SRC-0195 native frames 0–10 carry the opening title before the stage appears at 0.366667 s. A different complete rendition, sm43834849, exhibits 24 publisher-timed lyric starts and leaves the lyric strip blank in the two checked spoken intervals at 17.0–19.9 and 101.766–115.566 s. | Title card, printed lyrics and spoken audience calls have distinct functions in the viewed editions. The native Kotone switch demonstration belongs to a different title. The act of switching lyrics on a Hiro 初 run remains open. [RES-10 and PEND-022](GKM_CARBON_RESIDUAL_EVIDENCE_REGISTER.md). |
 
 ## Schema
 
@@ -204,7 +218,7 @@ Provisional textual sequence hypothesis: `光景 → コントラスト → サ�
 | `Campus mode!! [姫崎莉波]` | CIDOL 007 | inherited institutional song re-authored as `私だけの` version | text strong; AV pending |
 | `Howling over the World [姫崎莉波]` | CIDOL 012 | forceful/shared repertoire + SF genre elasticity | crosswalk text/discovery strong; AV pending |
 | `ガラクタロード [姫崎莉波]` | CIDOL 017 | encouragement inherited from senior and returned outward; conscious onee-san performance no longer required | text strong; AV pending |
-| `SUGAR FLAVOR` / RippleSign | CIDOL 018 | Mao/Rinami peer collaboration; cute + cool mutual learning; three-year history as song material. *(2026-11-15, GKM-SAA-076)* This is the Rinami-side version of the unit's origin; Mao's CIDOL 017 is a separate, non-additive C4 version with the opposite initiator | text strong; AV pending |
+| `SUGAR FLAVOR` / RippleSign | CIDOL 018 | Mao/Rinami peer collaboration; cute + cool mutual learning; three-year history as song material. *(2026-11-15, GKM-SAA-076)* Both C4 versions recall an earlier invitation from Rinami that Mao declined. Rinami renews the invitation in this version. Mao makes the successful proposal in her CIDOL 017. [Edition-specific rehearsal evidence](../05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/GKM_RINAMI_CARBON_CHARACTER_RECONCILIATION_20261125.md#ripplesign-and-the-two-accounts-of-rehearsal) | text strong; AV pending |
 | `歌声は君いろ` | official 2nd-single catalog | supplementary original musical breadth | official title verified; textual commu role not asserted |
 | `標 [姫崎莉波 Solo Ver.]` | official 3rd-single catalog | optional inherited-song solo | CD-exclusive; nonblocking |
 | `ENDLESS DANCE [姫崎莉波 Solo Ver.]` | official 3rd-single catalog | optional tour/shared-song solo | CD-exclusive; nonblocking |
@@ -488,8 +502,63 @@ The revised opaque `musics.txt` has exact hashes in the [source delta](../01_COR
 
 ## Source Lock 1.2 — transcript refresh, 2026-11-15
 
+The A1 columns retain the November 15 textual accounting. The perceptual column points to the subsequent [Kanae recorded-edition findings](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_EVIDENCE_AND_INSPECTION.md#dear-and-performance-editions).
+
 | Character / song | A1 source | Text or command status | Perceptual status |
 | --- | --- | --- | --- |
-| Hiwatari Kanae / `初` | `adv_dear_hkne_002.txt` L345–370, `adv_dear_hkne_009.txt` L217–219 | Assigned assessment piece. Dear 009 specifies a Kanae `all-001` live command. | AV-HKNE-R88-01, playback pending |
-| Hiwatari Kanae / `メタモルフォーゼ` | `adv_cidol-hkne-3-000_01.txt` L116–172 and `_03` L120–196 | Named solo demo, pop characterization in Kanae's speech, and repeats of the instrumental cue. The staged communication ends before her announced performance. | AV-HKNE-R88-02, solo rendition and demo comparison pending |
+| Hiwatari Kanae / `初` | `adv_dear_hkne_002.txt` L345–370, `adv_dear_hkne_009.txt` L217–219 | Assigned assessment piece. Dear 009 specifies a Kanae `all-001` live command. | AV-HKNE-R88-01. Two reviewers matched the embedded assessment at SRC-0023 3503.4–3551.3 s using a same-upload compact rendition with re-encoded audio. SRC-0127 is a separate full-stage performance. |
+| Hiwatari Kanae / `メタモルフォーゼ` | `adv_cidol-hkne-3-000_01.txt` L116–172 and `_03` L120–196 | Named solo demo, pop characterization in Kanae's speech, and repeats of the instrumental cue. The staged communication ends before her announced performance. | AV-HKNE-R88-02. The audio-matched compact renditions supply the demo and preparations on SRC-0059 and the separate released performance on SRC-0125. The complete diegetic live after the announcement remains open. |
 | Kuramoto China / `Wonder Scale` | `adv_dear_hkne_003.txt` L192–235 and `adv_dear_hkne_004.txt` L49–85, L99–152 | Kanae's fan commentary and referenced MV. She agrees to think of the song during a mock shoot. | Same song under China's evidence route, no new performance of it in the mock shoot |
+
+## Carbon character and claim write-through — 2026-11-25
+
+| Work or performance state | Updated recorded consequence |
+| --- | --- |
+| Kanae · `初`, `Wonder Scale` and `メタモルフォーゼ` | R88-01 and -04 distinguish the `初` assessment, an earlier `初` sound-check fragment and refusal to use China's `Wonder Scale` for the walking shoot. R88-02 separates the demo and pre-stage closure from the standalone 3D stage, ranked gameplay and official illustrated MV. [Current musical reading](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_INTEGRATED_AUDIOVISUAL_READING.md#a-song-chosen-with-her-and-claimed-by-her) |
+| Kotone · `Yellow Big Bang!`, `Campus mode!!` and Dear 035–036 | A named complete `Yellow Big Bang!` gameplay capture shows the 944.50→944.75 s lyric toggle. The produced `Campus mode!!` mix and opening call are separate from the effort represented in Kotone's dialogue. Dear 036 ceremonial accompaniment before 3923 s refutes the long silence claim. Its late money turn falls after 4085 s. [Current dialogue and musical controls](../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) |
+
+## Juo Kunio and the Hatsuboshi school song — 2026-11-25
+
+The official release of `標` credits lyrics to Juo Kunio, music to Takafumi Satō and performance to Hatsuboshi Academy. The dated game music registry repeats the lyric credit for three song entries. This supports Kunio's contribution as a lyricist to the school's institutional repertoire. It leaves character-vocal performance and stage-motion questions outside these credits. [Current Kunio monograph](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_JUO_KUNIO.md) · [Official release](https://gakuen-label.idolmaster-official.jp/discography/8jllus_bug4k).
+
+## Hiroshima escort-program repertoire, written sequence — 2026-11-25
+
+Rinami identifies `初` as the trio's opening number and recalls how they discussed dividing its parts (`adv_event_015_main-04` L184–231). When the next track fails to start, China invites the audience to sing a different number, the local baseball cheer, a cappella. A time transition separates the invitation from her thanks and Rinami's account of singing with the crowd (L389–485, L584–638). Rinami then introduces `キミとセミブルー` (L646). Part 05 announces `初` again as the final song before transitioning backstage (`adv_event_015_main-05` L79–103). The local cheer gives the audience a role during the interruption. Its melody, vocal delivery and crowd sound remain outside what these written scenes establish. [Event 015 written reading](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_013_020_DEEP_READING.md#44-china-takes-over-the-crisis-that-rinami-thought-she-had-to-solve).
+
+## Observed music and the elided baseball cheer — 2026-11-25
+
+**REVISE.** Playback W09 establishes the invited cheer’s narrative placement with crowd noise, applause and the clock wipe. The actual sung cheer is elided. Preserve the distinction between absent diegetic accompaniment and the background score. `daily-002` precedes the interruption’s later fade. After the wipe, `daily-001` accompanies China’s thanks. The W09 listeners hear Rinami announce `キミとセミブルー` at L646. The closing `初` announcement in part 05 L95 is before W10. These guards supply no sung samples of either number. In Event 014, the earlier failure-to-friendship cue change and backing continuity across the sampled Saki entrance are separate observations. [Sports day and Hiroshima adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#the-crowd-scene-reports-a-cheer-that-playback-elides)
+
+## Temari’s birthday recording for Misuzu
+
+Temari recalls that Misuzu once asked her to sing a lullaby every day so she could nap. Temari proposes making a CD, and Hiro endorses a single copy for Misuzu. At the birthday Temari says she sang the birthday song and the lullaby on the disc. Misuzu promises to listen before bed. The two pieces matter as a repeatable performance addressed to one recipient. The script supplies neither commercial titles nor an independent hearing of the CD (`adv_event_023_main-04` L219–L230, L255–L264; `adv_event_023_main-05` L229–L231, L281–L302).
+
+## 2026-11-25 Shibuya cue and repertoire distinctions
+
+In Event 024 part 04, `Choo Choo Choo` is the main-competition performance and `ENDLESS DANCE` is the victory-live performance associated with Sena (L99/L136–158). Part 05 L132 calls the `ENDLESS DANCE` instrumental, and independent mixed-signal comparison confirms that music beneath the backstage dialogue. L155 is a three-voice spoken or shouted title. No individually attributable sung trio performance is in the guarded cut. Sena says Ume's delivery encouraged participation and Misuzu's showed accomplished performers another approach. Keep these as Sena's attributions. Preserve separate rows for the composer or rights question, circulated covers, solo editions and actual shared recorded performance. The two exact prior `SRC-0387` reviews supply shared recorded performing evidence elsewhere. They describe alternating local foreground and collective returns in the publisher MV, while finer chorus and backing attribution and the in-story performance remain open.
+
+[Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded Event 023 — 2026-11-25
+
+**STRENGTHEN.** The remembered request is spoken over instrumental score. Temari describes her two pieces and Misuzu repeats the lullaby and format. The scene distinguishes instrumental accompaniment from the reported contents of the gift. The sound of Temari's gift and Misuzu's later use remain open. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+**PRESERVE.** Kotone offers a lullaby in speech. The reported offer and the music playing in the game have separate sources. Sena’s concert is represented in the characters’ separate accounts and falls outside the two attended dialogue cuts. The summer score can shape the listener’s access to Mao’s inward speech without revealing who heard the thought in the story. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+**REVISE.** Saki quotes lyrics in speech and the sisters later play on the title aloud. The first Event 026 excerpt reaches the following chapter’s crowd sound, and the support excerpt reaches the next scene’s score. The score cues, dialogue and the characters’ later accounts refer to different parts of the recording. The actual concert performance remains a separate source question. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Timed openings in separate same-title editions corroborate common musical material under the Event 010 reactions. Exact mix identity and the song Hiro is reported to have sung remain open. In the separate support scene, two backed passages share distinct authored cue material and a short both-channel digital break occurs between them. Exact perceptual silence, instruments and venue or room access retain their own scope. [Measured material and precise source limits](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#musical-material-and-cue-changes).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Five selected fragments of mixed backing match between the end of Event 006 part 03 and the aftermath in support 2-0000 part 01 at one measured offset. The locked scripts assign daily-001 to both passages. Exact onset and the full return remain open. The support 2-0047 part 02 original decodes to zero on both channels before its decoded endpoint. The child has 271 additional zero pairs beyond that endpoint. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#what-the-score-comparison-can-carry).
+
+## Five guarded SyngUp support scenes
+
+Temari declines being produced, then accepts an assessment and a shared song. Sena praises the represented unison. No independent listener identifies a sung voice inside the two guarded glyph passages. The authored audition cue and different reported score segments remain separate. The later invitation remains prospective. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#what-the-rehearsal-lets-them-agree-to).

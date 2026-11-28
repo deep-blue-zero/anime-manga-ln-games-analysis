@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Institution and Idol-System Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.6"
+version: "2.7"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit corrections"
+last_updated: "2026-11-25 — Event 024 reported repertoire reception"
 status: "active; cumulative through Phase 6 side-character synthesis"
 ---
 
@@ -273,7 +273,7 @@ Status: **canonical provisional finding through Phase 3 Hiro AV; adversarial Pha
 - **Student-council pseudo-agency — PROMOTE.** Sena receives permission to make the student council function as a restricted `疑似的なアイドル事務所` and produce freshmen.
 - **Producer Course jurisdiction — STRENGTHEN/PROMOTE.** In conflict with Sena's cross-role production, Producer Course students have priority; Sena cannot contractually bind idols, has reduced institutional benefits, and faces facility restrictions. Producer authority therefore includes concrete contract/resource/facility dimensions.
 - **Cross-role safeguards — PROMOTE.** Hatsuboshi permits experimentation but recognizes conflict-of-interest risks when an elite idol/student-council president accumulates production authority.
-- **Succession doctrine — PROMOTE.** Sena explicitly frames recruitment as cultivating a successor to `一番星` and a future guide for Hatsuboshi. Event 005 simultaneously exposes the limit of vertical succession when Saki and Ume resist or escape the successor model.
+- **Succession doctrine — PROMOTE.** Sena explicitly frames recruitment as cultivating a successor to `一番星` and a future guide for Hatsuboshi. Event 005 distinguishes two decisions. Saki challenges the present Sena as a model, and Sena declines Tsubame’s suggestion to recruit Saki and calls Saki an enemy (main-04 L367–L416, L474–L487). Sena invites Ume into the council after reporting an unsettled assessment of her talent (main-05 L401–L427, L534–L574).
 
 <!-- PHASE4_EVENTS_006_012_2026-08-23 -->
 ## Phase 4 — Events 006–012 institutional additions
@@ -348,7 +348,7 @@ This strengthens an institutional pattern seen elsewhere: Hatsuboshi's hierarchy
 - **China succession (E025):** Kuramoto China is explicitly named the **next student-council president**.
 - **Next-council cohort (E025):** Ume and Misuzu are established current junior council members; Hiro is explicitly a next-council officer candidate. Do not infer final titles beyond China's presidency.
 - **Workflow redesign (E025):** juniors propose an idol-specific scheduling application from Ume's parents' company to reduce coordination failures and enable shared progress visibility. Event does not prove final school-wide adoption.
-- **Living repertoire (E024):** `ENDLESS DANCE` is described as a Hatsuboshi song socially monopolized by association with Sena; Ume/Misuzu/Sena's live visibly reopens it to other performers, including Temari's later setlist request.
+- **Living repertoire (E024, wording REVISED 2026-11-25):** Sena describes `ENDLESS DANCE`, the victory-live number, as school repertoire that fell out of use after its association with her. Misuzu's quiz and Ume's answer put `Choo Choo Choo` in the main competition. After Shibuya, Sena reports other versions, Misuzu relays the request from Tsukimura to put the song in a future live, and Sena chooses to retain it in her own repertoire. The script supplies the characters' accounts of renewed participation (`adv_event_024_main-04` L99, L136–L158, L232–L260; `adv_event_024_main-05` L275–L323, L340–L359, L410–L414).
 - **Producer-project maturation (E024):** Sena's approximately year-long student-council production project ends with explicit recognition that she learned from her idols and that succession need not require her withdrawal.
 - **External representative selection (E026):** an outside cover-live operator can request Hatsuboshi idols; headmaster and Sena participate in recommending representatives based on respect, ability, and reliability.
 - **Event-029 branch possibility:** Producer Course student producing Asari-sensei as idol is internally coherent but continuity-gated; do not promote to baseline institutional history.
@@ -652,3 +652,13 @@ These rows mirror the corrected [side-character synthesis](../06_RELATIONSHIP_AN
 | Senior escort program (annotation) | concurrent installments | — | E018 | program installments can run concurrently, not strictly in series | `adv_event_018_main-01.txt` L186–L209 | annotates Events 013–020 §13.1 (GKM-SAA-269) |
 | `INST-PLURAL-MERIT` / `LOC-INST-020` (scope) | lesson variant | 技術が高いアイドルはいますが | P3-C[SENA] lesson variant | `LOC-INST-020` is a lesson variant for Sena's Producer (`school_1-006-02` L13); the SL1.0 `-02` variants presuppose a P3-C[SENA] run | `adv_pevent_003_cmmn_school_1-006-02.txt` L5, L13, L54–L64 | the plural-merit doctrine keeps its other evidence; this locator is scoped (GKM-SAA-116) |
 | staging-level curriculum (pointer) | lesson and rest staging | — | P3 lessons; Tsubame rest step | AV-C staging items are routed to the Carbon queue; no institutional rule is promoted before observation | `produce_lesson` star objects; `adv_pstep_001_cmmn_before-rest-01-atbm` L1 | deferred (GKM-SAA-289) |
+
+## Accountability, designation and future office — Event 025
+
+China accepts responsibility for the paperwork lapse and explains Ume’s assistance. She later asks the seniors for a chance for all three juniors to answer their concerns. The two guarded scenes distinguish her earlier apology from the later request. Tsubame directs Ume to finish collecting the paperwork. Her recorded recollection of entrusting the school to the juniors differs from her present questions about their readiness. Her concern leaves the graduation decision outside this exchange. China promises to become a dependable president by spring and then asks Ume and Misuzu for continued help. The proposal to widen their group and invite Hiro is prospective. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md) The stated designation is in part 03. The pledge and proposed gathering do not establish a completed change of office or an enacted ritual.
+
+## Appraisal and delegated work — Events 005 and 024
+
+Two kinds of decision have separate evidence in Event 005. Tsubame recommends recruiting Saki and Sena refuses. Later, Sena acknowledges her difficulty assessing Ume, praises Ume’s reported athletic display and makes a conditional invitation to the council. Ume accepts. Neither the initial reserve admission criterion nor the cause of Sena’s earlier excitement has a settled answer. In Event 024 part 02 Sena voices how her earlier self would have taken charge, then delegates the actual planning to Ume and Misuzu. Both contribute to the plan and choose to work together. The episode gives one local test of delegation with further work still ahead.
+
+[Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)

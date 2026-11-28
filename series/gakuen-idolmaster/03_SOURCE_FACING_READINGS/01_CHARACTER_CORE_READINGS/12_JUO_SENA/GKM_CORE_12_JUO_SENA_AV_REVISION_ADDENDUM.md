@@ -5,7 +5,7 @@ status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-11-15'
+last_updated: '2026-11-25 — Carbon write-through'
 version: "2.1"
 revised: "2026-11-15"
 revision_note: "v2.1 source-to-analysis audit 2026-11-15 correction (REVISE): SN-R18 now cites the cross-route and SL1.1 defeat evidence instead of reading as evidence-absent, keeping integration and AV delivery open"
@@ -17,6 +17,12 @@ parent_authority: GKM_CORE_12_JUO_SENA.md
 ---
 
 # GKM CORE 12 — JUO SENA AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+A remembered authority figure's delivered voice, Sena's own interruption at the mirror and her actually public claims are separately aligned. The October/November corpus comparison revises the 100プロ readings to the named cue and speaker. The independently accepted 3-0086 experiment puts both deliberate joking and warm direct liking in one exchange; it leaves a durable romantic status open. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_CARBON_PLAYBACK_SUCCESSOR.md). Earlier accounting and source locks below describe their own revisions.
+
+Kotone’s refusal tests what Sena’s recognition can accomplish. In support 2-0011 part 2, Sena offers money for present needs and speaks confidently about Kotone’s earning power. Kotone calls the offer debt and leaves. Only afterward does Sena resolve to try again. In support 3-0071 part 3, another student asks for Sena’s autograph and she assents. Later a student addresses Tsubame about the dance with Sena. Here the attention Sena attracts coexists with recognition that belongs to her partner. Tsubame’s suspicion that Sena held back remains her own interpretation. [The two support recordings and their limits](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md).
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** GKM-SAA-026 **REVISE**s the current-authority text of SN-R18, which stays OPEN; the earlier text is quoted below the table. No AV was inspected for this change, and the other transitions are unchanged.
 
@@ -61,3 +67,11 @@ This addendum routes the canonical textual core through the completed Phase-3 AV
 → relevant specialist document
 → `GKM_SENA_AV_EVIDENCE_AND_METRICS_MATRIX.md`
 → source manifest / exact AV source / Source Lock locator.
+
+## Recorded exchange and scope — 2026-11-26
+
+Sena answers Saki directly, then gives Tsubame a crisp refusal and calls Saki an enemy in the officers’ exchange. Earlier Rinami observes that Sena looks pleased, while Sena gives anger as her account. The delivery supports a rivalry that can carry different affects in one encounter. Their balance remains open. Sena’s unusually emphatic admission that she could not tell Ume’s talent is followed by her question about her own excitement. She later praises the reported athletic display and moves to a conditional offer. She describes having received a push toward recruitment. The cause of the earlier excitement and the earlier reserve-admission criterion remain open. [Guarded Event 005 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Five guarded SyngUp support scenes
+
+The recorded support distinguishes Sena’s inward encouragement from later spoken appraisal and invitation. Misuzu speaks the greeting at L23. The duet’s written report and the absence of identifiable sung voices in this guard each have their own evidentiary use. Person scopes are Q788/B and Q789/C. [Guarded SyngUp adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

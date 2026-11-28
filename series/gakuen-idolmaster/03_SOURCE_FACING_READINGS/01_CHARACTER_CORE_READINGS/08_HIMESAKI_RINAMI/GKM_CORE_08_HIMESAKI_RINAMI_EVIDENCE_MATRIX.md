@@ -17,6 +17,8 @@ revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (STRENGTHEN
 
 # GKM CORE 08 — HIMESAKI RINAMI EVIDENCE / FALSIFICATION MATRIX
 
+> **Source-boundary exception — 2026-11-25.** The Phase 3 baseline keeps its original textual scope. The separate section *Dated recorded evidence* assesses Japanese mixed audio and sampled stills from the reviewed Event 014 and 015 intervals. [Exact recording and cue scope](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#what-rinami-acknowledges-to-the-others-and-to-herself)
+
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Parent core v2.1. Dated additions are marked inside the affected cells, so each earlier formulation stays readable in place. RINAMI-C31 is a new OPEN row. The claim-revision table at the end of this file lists every transition. A1 lines were re-read for each change. No audiovisual evidence was used.
 
 This matrix records Phase-3 claims, principal textual support, counterpressure, and what later evidence would require revision. `D-RINAMI` is not merged with the four conditional Series-3 Produce Story outcomes.
@@ -105,3 +107,11 @@ These rows record the 2026-11-15 transitions. Each earlier claim text remains in
 | `RINAMI-C21` | STRENGTHEN | GKM-SAA-073 | singing as root and self-assessed weakness; first-fan motif | evidence cell unchanged before the dated note |
 | `RINAMI-C25` | STRENGTHEN | HSCA-044; GKM-SAA-020 | covert interventions and the admitted bluff as governance cases | evidence cell unchanged before the dated note |
 | `RINAMI-C31` | OPEN (new) | GKM-SAA-003 | Producer-side asymmetry; romance conclusion not asserted | — |
+
+## Dated recorded evidence — 2026-11-25
+
+**STRENGTHEN, event scope.** Rinami maintains her public stage task while inwardly wondering about the interruption. In the separate dressing-room scene she thanks her juniors aloud and privately recognizes their contribution in a voiced thought. Their help and their continuing forms of deference coexist. The evidence leaves her unstated contingency plans and the unheard cheer’s actual singing open. [Exact recording and cue scope](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md#what-rinami-acknowledges-to-the-others-and-to-herself)
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+The Event 010 Q494 disposition strengthens the scene-specific linkage between Rinami’s initial deference to Hiro’s choice, later availability, an accepted request and competent assessment of the shared result. RINAMI-C04 and the wider causes of her patterns of care retain separate evidence. [Performed Event 010 evidence](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#rinami-keeps-help-available-and-responds-when-asked).

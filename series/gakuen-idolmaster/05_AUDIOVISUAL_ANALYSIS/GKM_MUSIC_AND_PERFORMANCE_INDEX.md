@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-10"
+last_updated: "2026-11-25 — later Carbon perceptual material, Kanae package and current Rinha routing"
 ---
 
 # Music, MVs and visual performance
@@ -32,5 +32,34 @@ Songs, authored MVs, rendered performances, choreography and visual presentation
 | Hataya Misuzu | [Specialist](11_HATAYA_MISUZU/GKM_MISUZU_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) | [README](11_HATAYA_MISUZU/README.md) |
 | Juo Sena | [Specialist](12_JUO_SENA/GKM_SENA_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) | [README](12_JUO_SENA/README.md) |
 | Amaya Tsubame | [Specialist](13_AMAYA_TSUBAME/GKM_TSUBAME_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) | [README](13_AMAYA_TSUBAME/README.md) |
+| Hiwatari Kanae (supplementary) | [Current reading](14_HIWATARI_KANAE/GKM_KANAE_INTEGRATED_AUDIOVISUAL_READING.md#a-song-chosen-with-her-and-claimed-by-her) | [README](14_HIWATARI_KANAE/README.md) |
 
-[All AV files](GKM_AUDIOVISUAL_FILE_INDEX.md) · [AV home](README.md) · [Project state](../CURRENT_STATE_AND_CORPUS_MAP.md). Hiro and Misuzu's [adopted toolkit rebuilds](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) resolve the documentary rebuild tasks while retaining explicit direct-listening and continuous-motion review gaps.
+[All AV files](GKM_AUDIOVISUAL_FILE_INDEX.md) · [AV home](README.md) · [Project state](../CURRENT_STATE_AND_CORPUS_MAP.md). The fourteen numbered rows contain thirteen original Phase 3 packages plus the later Kanae addition. The character READMEs give the current evidence and named corrections. The [September Hiro/Misuzu import](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) preserves its documentary methods, and the [November Carbon reconciliation](GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) records what was actually heard or seen later.
+
+The [guarded sports-day and Hiroshima reviews](GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) track performed dialogue, staging and game music separately across ten exact windows. They file limited answers for China, Hiro, Rinami, Ume and Misuzu. The baseball cheer melody itself falls across a scene ellipsis.
+
+The guarded Event 022 and 024 review adds partial recorded answers for Arimura Mao, Fujita Kotone, Hanami Ume, Hataya Misuzu and Juo Sena. It distinguishes fever and recollection, an older-friend exchange, a two-person refusal, a spoken three-person title, an instrumental quote and reported reception. It leaves the concert's sung performance, later uptake, and separate character requirements open. Two existing exact official trio MV reviews also support a shared studio-vocal and authored-picture comparison without adding attendance to those events. [Guarded Event 022 and 024 adjudication](GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+Four guarded Event 023 windows separate a remembered request, Temari's gift and Hiro's distinct mission reports. The recorded delivery establishes which register shifts belong to Misuzu, Temari and Hiro. The two pieces on the in-story disc are reported, with the disc's sound and later playback still open. [Guarded Event 023 adjudication](GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+Six guarded windows extend Event 022’s contrasts in training, practical care and chosen company, and give Mao’s separate Event 003 last-summer reflection a recorded comparison. The source and recording distinguish spoken requests, inward thought, instrumental score and a reported photograph. [Guarded care and summer adjudication](GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+Two Event 026 dialogue windows and one support window compare the sisters’ own goals, named self-address and retrospective trust. The excerpts keep quoted lyrics, spoken song titles and a past live performance in their respective evidence scopes. [Guarded Event 026 and support comparison](GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Kaya Rinha
+
+The [current Rinha record](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) distinguishes performed dialogue, the placement of accompaniment, and open sung-identity evidence. The dedicated dossier uses the verified relationship scenes at their bounded scope.
+
+[Carbon propagation and claim routes](GKM_CARBON_PROPAGATION.md) links the current reading for all fifteen character packages.
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Timed openings in separate same-title editions corroborate common musical material under the Event 010 reactions. Exact mix identity and the song Hiro is reported to have sung remain open. In the separate support scene, two backed passages share distinct authored cue material and a short both-channel digital break occurs between them. Exact perceptual silence, instruments and venue or room access retain their own scope. [Contextual score comparison](GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#musical-material-and-cue-changes).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Five selected fragments of mixed backing match between the end of Event 006 part 03 and the aftermath in support 2-0000 part 01 at one measured offset. The locked scripts assign daily-001 to both passages. Exact onset and the full return remain open. The support 2-0047 part 02 original decodes to zero on both channels before its decoded endpoint. The child has 271 additional zero pairs beyond that endpoint. [Guarded Ume adjudication](GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#what-the-score-comparison-can-carry).
+
+## Five guarded SyngUp support scenes
+
+Temari declines being produced, then accepts an assessment and a shared song. Sena praises the represented unison. No independent listener identifies a sung voice inside the two guarded glyph passages. The authored audition cue and different reported score segments remain separate. The later invitation remains prospective. [Guarded SyngUp adjudication](GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#what-the-rehearsal-lets-them-agree-to).

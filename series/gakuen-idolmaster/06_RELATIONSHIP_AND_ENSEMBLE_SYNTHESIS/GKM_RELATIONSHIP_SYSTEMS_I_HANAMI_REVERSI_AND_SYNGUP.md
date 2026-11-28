@@ -5,23 +5,35 @@ analytical_role: relationship_systems_synthesis
 scope: RELATIONSHIP_SYSTEMS_I_HANAMI_REVERSI_AND_SYNGUP
 generation: V2
 status: canonical
-source_boundary: 'GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5: six governing character-core readings (Saki, Ume, Lilja, Sumika, Temari, Misuzu), four canonical numbered-event readings, eight canonical support-card readings covering 498/498 support scripts / 9,777/9,777 support messages, cumulative relationship/continuity/character/source-locator infrastructure, and already-integrated audiovisual findings. Kaya Rinha is treated only through distributed direct/mediated evidence available before her mandatory Phase-6 dedicated crosswalk/evidence/dossier branch. The 2026-11-07 correction (§3.5.1) additionally re-reads Unit Story 01 Episode 01 Part 03 and Episode 04 Parts 04–25 and Saki Dear 009/022 from the A1 raw scripts; these sources were already inside the Saki core''s Phase-3 scope, so no new source object is admitted.'
+source_boundary: 'GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5: six governing character-core readings (Saki, Ume, Lilja, Sumika, Temari, Misuzu), four canonical numbered-event readings, eight canonical support-card readings covering 498/498 support scripts / 9,777/9,777 support messages, cumulative relationship/continuity/character/source-locator infrastructure, and already-integrated audiovisual findings. The original generation treats Kaya Rinha through the pre-dossier distributed direct/mediated evidence. The dated 2026-11-25 revision draws on the Phase 6 dossier at Source Lock 1.2, as specified in the body. The 2026-11-07 correction (§3.5.1) additionally re-reads Unit Story 01 Episode 01 Part 03 and Episode 04 Parts 04–25 and Saki Dear 009/022 from the A1 raw scripts; these sources were already inside the Saki core''s Phase-3 scope, so no new source object is admitted.'
 source_lock: GAKUMAS V2 Source Lock 1.0
 source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
 source_revision: 32
 governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
-version: '2.1'
+version: '2.3'
 created: '2026-08-24'
-revised: '2026-11-15'
-revision_note: 'Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): track-scoped and evidence-routed additions to the Hanami (§3), REVERSI (§4) and SyngUp (§5, one coordinated pass incl. new §5.2.1 and §5.9.2) systems, romance-coded material recorded as bounded and OPEN, and corrected §12 routing; earlier formulations kept recoverable'
+revised: '2026-11-25 — Carbon write-through and written Event 023 revision'
+revision_note: '2026-11-25. Admits the distributed Rinha dossier for the post-unit relationship, distinguishing the café disagreement, the return promise and the prospective dissolution live. Earlier revision: Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): track-scoped and evidence-routed additions to the Hanami (§3), REVERSI (§4) and SyngUp (§5, one coordinated pass incl. new §5.2.1 and §5.9.2) systems, romance-coded material recorded as bounded and OPEN, and corrected §12 routing; earlier formulations kept recoverable. v2.3 records the 2026-11-25 written Event 023 revision.'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM RELATIONSHIP SYSTEMS I — HANAMI, REVERSI, AND SYNGUP
+
+> **REVISE — v2.3, 2026-11-25. The birthday exchange in the SyngUp relationship.** The earlier account gave Misuzu a settled intention that Temari should spend time thinking about her. Misuzu says she delights in someone important to her being full of her. Hiro conditionally applies that image to the time Temari spends choosing the gift. Temari chooses what to make and later confirms what she sang. The previous wording is preserved in v2.2.
+
+## Recorded comparison note — 2026-11-25
+
+The matched episode 7 and episode 21 witnesses keep Saki's private bluff and direct concession to Ume at their separate scenes. The latter does not undo the earlier fear and the contest resumes on terms the sisters can both own. [Saki recording update](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_SAKI_CARBON_PLAYBACK_SUCCESSOR.md).
+
+REVERSI's Dear 027 proposal is addressed by Lilja to Sumika. Treat the merged Dear 037 decision and later still condition separately. Neither proves a native performance variation or a romantic label. [Lilja branch evidence](../05_AUDIOVISUAL_ANALYSIS/05_KATSURAGI_LILJA/GKM_LILJA_CARBON_AV_UPDATE_20261125.md).
+
+The accepted Rinha scene record retains a distinction between paid-forward coaching, present refusal and ordinary access. Later voice and scene limits are directly accessible in the [Rinha character AV home](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md).
+
+> **Revision v2.2, 2026-11-25.** Admits the distributed Rinha dossier for the post-unit relationship, distinguishing the café disagreement, the return promise and the prospective dissolution live. Source Lock 1.0 governs the original analysis. The dated additions use separately admitted revision 86 witnesses where named and the [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) at the revision 88 boundary. Earlier statements deferring the branch record the state of work at their original dates.
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Applies the source-to-analysis audit's post-review change plan to this synthesis; each addition is dated and carries its audit ID (`GKM-SAA-nnn`, or `HSCA-nnn` for historical-audit residuals). Hanami: §3.1, §3.2, §3.3 routing note, §3.5 (formula revised; earlier wording quoted in place), §3.5.1 (speaker of `1勝1敗` corrected; U1 Ume home), §3.7, §3.8, §3.10 rows, §3.11 rule 9. REVERSI: §4.1, §4.3, §4.7, §4.8, §4.10, §4.11, §4.12 rows, §4.13 rules 1–2. SyngUp, edited in one pass: scope tags in §5.2, new §5.2.1, notes in §5.3, §5.5, §5.6, §5.8, §5.9.1 (including the Rinha-crosswalk routing note), new §5.9.2 (GKM-SAA-004, with its severity dissent), §5.12, §5.13, §5.16 rows. Also §1.3 (owner policy on romance-coded material: record, bounded, OPEN), §2, §6.1, §6.6, §6.8, OPEN-RS1-08/09 and §12 (two support-series locators corrected; routes added). Sources are Source Lock 1.0 unless marked SL1.1 or SL1.2; the front-matter `source_boundary` is unchanged. The principal thesis stands. This is the file's first explicit `version` key; the 2026-11-07 and 2026-11-12 states carried none.
 >
@@ -385,11 +397,11 @@ Ume's care is more immediate and physical. It appears as:
 - insistence that Saki rest emotionally as well as physically;
 - and the willingness to become strong enough to threaten the person she loves.
 
-The tackle-hug support scene is especially useful. Saki does not reject Ume's affection; she redirects the delivery into a safer channel she can receive. Ume, for her part, accepts the boundary without needing the affection itself to be repudiated.
+In support 2-0000 part 01, Saki objects to the surprise tackle, takes back her first assent and asks Ume to approach from the front. Ume announces the revised approach and declares herself satisfied afterward. The sisters’ words show both the revised boundary and its uptake. Whether Saki actually catches Ume remains a separate question. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#a-sister-asks-for-a-different-approach).
 
 ### Ume receiving Saki's care *(2026-11-15; GKM-SAA-023, GKM-SAA-178)*
 
-The model above shows how each sister gives care; it also needs the receiving side. In P1 Ume experiences Saki's post-loss scolding and encouragement as another defeat ('また負けたぁ～！'), yet chooses to see her at once, because it is 'the shortest road to victory' (`勝利への一番の近道`, `adv_pstory_001_hume_after-audition-final-failure-01.txt` choice 3, L125–L163). In another branch she expects Saki to praise a pass and finds that frustrating enough to turn into a better live (`adv_pstory_001_hume_after-audition-final-normal-04.txt` choice 3, L74–L92). Her general rule, stated to the Producer, is that she dislikes being praised after a loss (`adv_pstory_001_hume_after-audition-mid-failure-01.txt` choice 3, L122); this is Ume's rule, not Saki's care. The receiving grammar is instrumental acceptance without resentment: Ume takes the care because it makes her stronger, and wants praise she has earned (`adv_pstory_001_hume_ending-true-01.txt` choice 2, L70–L73). The winner's side, Saki's full celebration of her own wins as competition manners that let the loser grieve cleanly, is held in `GKM_CORE_10_HANAMI_UME.md` §6.3. All P1 items are branch-bound (C3). Saki's care also reaches Ume's repertoire (the challenge song; §3.1 note).
+The model above shows how each sister gives care; it also needs the receiving side. In P1 Ume expects Saki’s post-loss scolding and encouragement to restore her strength and feel like another defeat. She chooses to see Saki because she calls it the shortest route to victory. Ume accepts the Producer’s offer to fetch Saki, then exclaims again that she does not want to see her. The expected help and her deliberated choice coexist with reluctance at the end of that branch (`勝利への一番の近道`, `adv_pstory_001_hume_after-audition-final-failure-01.txt` choice 3, L122–176). In another branch she expects Saki to praise a pass and finds that frustrating enough to turn into a better live (`adv_pstory_001_hume_after-audition-final-normal-04.txt` choice 3, L74–L92). Her general rule, stated to the Producer, is that she dislikes being praised after a loss (`adv_pstory_001_hume_after-audition-mid-failure-01.txt` choice 3, L122); this is Ume's rule, not Saki's care. Ume is willing to seek care she expects to help and wants praise she has earned (`adv_pstory_001_hume_ending-true-01.txt` choice 2, L70–L73). The winner's side, Saki's full celebration of her own wins as competition manners that let the loser grieve cleanly, is held in `GKM_CORE_10_HANAMI_UME.md` §6.3. All P1 items are branch-bound (C3). Saki's care also reaches Ume's repertoire (the challenge song; §3.1 note).
 
 ### Relationship permission
 
@@ -411,6 +423,8 @@ But mature modeling must not confuse **broad permission with unlimited permissio
 Events and support stories repeatedly test whether the sister bond can tolerate external friendship.
 
 Saki experiences real jealousy as Ume becomes close to Lilja, student-council peers, and others. Yet the dominant behavior is not enclosure. She often supports the new relation, obtains information about Ume's independent life, or converts loneliness into rivalry, teasing, or renewed contact.
+
+The [paired Event 016 windows](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md) identify Saki's gradual admission of loneliness to Kotone and her refusal to show that vulnerability to Ume. The later exchange contains reciprocal exaggeration and an explicit invitation to enjoy independent friendships. Saki's attachment is clear and Ume's motives are less determinate. Her own statement of a planned outing makes her an active participant in the separation.
 
 Ume likewise acquires friends and models who do not route through Saki. Rinha becomes a non-family rival/teacher. China and Hiro become ordinary friends and later technical/philosophical equals. Misuzu and Sena provide alternative idol logics.
 
@@ -453,7 +467,7 @@ Ume's separately reasoned first preference for 100 Pro converges with Saki's alr
 | Saki fears Ume’s arrival because she would lose the lead *(2026-11-07)* | **EXTEND / STRENGTHEN** | Saki fears losing the counterpart: being found not worth competing against and left behind (U1 `04_13` nightmare; `D-SAKI` Dear 009). The actual Ume confirms the de-totalization and contradicts the abandonment in both tracks, and Ume voices the reciprocal fear of being left (§3.5.1) |
 | `勝ち逃げ` is a `D-SAKI` mechanism *(2026-11-15; GKM-SAA-109)* | **STRENGTHEN** | the protected hierarchy is a cross-track invariant (`D-SAKI` + `U1`) with track-specific mechanisms: field-switching in `D-SAKI`; pre-practised contests and a concealed footrace in `U1`, ended at `04_21` (§3.2 note) |
 | Saki can celebrate Ume without pretending not to hurt *(2026-11-15; GKM-SAA-162)* | **REVISE** | Saki celebrates Ume sincerely while hiding how much it hurts; U1 frames the front as self-aware 強がり, `D-SAKI` as truthful (§3.5 note) |
-| the Hanami bond is argued from Ume's side *(2026-11-15; GKM-SAA-040, GKM-SAA-178, GKM-SAA-023)* | **STRENGTHEN** | the Producer's `D-SAKI` theory makes Ume's older sister the ingredient Saki lacks; Saki co-shapes Ume's repertoire; Ume receives Saki's care instrumentally, without resentment (§3.1, §3.7) |
+| the Hanami bond is argued from Ume's side *(2026-11-15; GKM-SAA-040, GKM-SAA-178, GKM-SAA-023)* | **STRENGTHEN** | the Producer's `D-SAKI` theory makes Ume's older sister the ingredient Saki lacks; Saki co-shapes Ume's repertoire; Ume chooses to ask for expected help. *2026-11-26 qualification of GKM-SAA-023.* Her renewed reluctance remains in the same choice, and the visit itself lies beyond it (§3.1, §3.7) |
 
 ## 3.11 Hanami reconstruction rules
 
@@ -544,7 +558,7 @@ This is one of the clearest examples in the corpus of intimacy deepening through
 
 **Event continuity and bilateral concealment (2026-11-15; GKM-SAA-105, GKM-SAA-123).**
 
-- *E012 shows the same structure, broken by a third party.* In Event 012 Saki tells Sumika she has 'a liar's eyes' (`嘘つきの目`, `adv_event_012_main-03.txt` L555–L561). The event pairs Sumika's concealment with Lilja's mirror error: in inner speech Lilja admits that only running without pause was her 免罪符 for standing beside Sumika (`adv_event_012_main-02.txt` L255), and she asks Saki to become her 師匠 (L715–L721). The pair resolve it with a bilateral contract: Sumika asks Lilja to support her, and Lilja asks in return that Sumika support her and lead her by the hand, since all Lilja can do is try hard (`adv_event_012_main-05.txt` L151–L200). This is the event-continuity precursor of the §4.4 care reversal and gives Saki ↔ Lilja (師匠) and Saki ↔ Sumika a synthesis home here. Saki's own framing, that she acts because it is work, is in E012-04 (L500–L506). Event continuity only; not merged with the Dear tracks.
+- *E012 shows a third party recognizing signs of concealment.* In Event 012 Saki tells Sumika she has 'a liar's eyes' (`嘘つきの目`, `adv_event_012_main-03.txt` L555–L561). The event pairs Sumika's concealment with Lilja's mirror error: in inner speech Lilja admits that only running without pause was her 免罪符 for standing beside Sumika (`adv_event_012_main-02.txt` L255), and she asks Saki to become her 師匠 (L715–L721). Sumika later credits the confrontation with making it possible to consult Saki (part 03 L655–662). In their pre-live exchange, Sumika asks Lilja to support her, and Lilja asks in return that Sumika support and guide her. Sumika agrees (`adv_event_012_main-05.txt` L151–L208). This is the event-continuity precursor of the §4.4 care reversal and gives Saki ↔ Lilja (師匠) and Saki ↔ Sumika a synthesis home here. Saki's own framing, that she acts because it is work, is in E012-04 (L500–L506). Event continuity only; not merged with the Dear tracks.
 - *Concealment is not Sumika's alone.* Lilja also withholds: she refuses to tell ('言いたく、ないです', `adv_dear_kllj_013.txt` L162) and covers early-morning absences as 'just a walk' (`adv_dear_kllj_014.txt` L81; `adv_cidol-kllj-3-006_02.txt` L57). In `D-LILJA` 033 she tells Sumika that she too is afraid but keeps a steady face so that Sumika will not be anxious, a performance prompted by the Producer's request to lead Sumika, and she discloses it in the same scene (`adv_dear_kllj_033.txt` L83–L126). In `D-SUMIKA` 014, Sumika's charge that Lilja overworks however often she is told (`adv_dear_ssmk_014.txt` L344–L363) is a cross-track counter-charge about overwork, not proof of a mirrored concealment. Lilja-side details belong to `GKM_CORE_05_KATSURAGI_LILJA.md`.
 
 ## 4.4 Care reverses direction without erasing origin
@@ -1053,15 +1067,17 @@ Hiro brokers the problem without replacing the dyad.
 
 The final gift—a one-copy birthday/lullaby CD—matters because it transforms a remembered old request into new authored labor.
 
-Misuzu wanted Temari to think about her.
+Misuzu says giving makes her happy when someone important to her is “full of me.” Hiro takes that image in a particular direction. If she has understood Misuzu, she says, then the very act of choosing this gift fills Temari’s head with thoughts of her friend (`adv_event_023_main-03` L223–L236, L334–L345).
 
-Temari remembers, works, records, and chooses.
+Temari remembers Misuzu’s request for a daily lullaby at naptime, proposes recording it and later says she sang both pieces on the CD. Hiro endorses a single copy for Misuzu. When Hiro gives her report afterwards, Misuzu thanks her (`main-04` L219–L230, L255–L264; `main-05` L229–L231, L364–L393).
 
 The old ritual is neither simply resumed nor abandoned.
 
 It is **re-authored**.
 
 This is precisely the relationship system's mature logic.
+
+The performed exchanges give each friend room to shape the encounter. Temari pushes back on a label and still asks for practical help. Hiro plays the spy and later shifts into direct reassurance before she makes her separate report. Misuzu's measured giving formula, recalled politely phrased request and later bright pleasure serve distinct exchanges with Hiro and Temari. This supports an interpretation of changing reciprocity without fixing who knew how much of the plan or turning the reunion into proof of ownership. [Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 ## 5.12 Kotone and Hiro prove that repair can require brokers
 
@@ -1106,6 +1122,8 @@ This is the mature SyngUp form currently supported by V2.
 - `D-MISUZU` Dear 017 and 028: Misuzu's Producer kept Temari in top form for Misuzu's sake, then produces her 'temporarily', telling her she is secondary; Temari answers that they will use each other, 'お互い様' (`adv_dear_hmsz_017.txt` L166–L229; `adv_dear_hmsz_028.txt` L39–L110).
 
 Across these tracks the live is chosen once all three have reconciled, and it is chosen over a title attempt. This strengthens §5.13's claim that the trio can collaborate around an ending. The live's emotional and public outcome remains OPEN (OPEN-RS1-08). Temari's partial answers to her own core's open questions belong to `GKM_CORE_02_TSUKIMURA_TEMARI.md`.
+
+**Whose account of repair? (2026-11-25, SL1.1).** In Misuzu’s café communication, Rinha guesses that Temari and Misuzu made up after watching each other perform. Misuzu confirms the guess. When Temari extends it to Rinha, Rinha recalls someone coming to Gokugetsu and someone crying in public, insists on what happened before and after the performances, and finally jokes that they never reconciled. Misuzu privately marvels at having these ordinary days back. All three can meet at one table and still disagree about what brought them there. Rinha’s protest is direct evidence of that disagreement. The warmth of the conversation cannot settle which description of her history she privately accepts. (`adv_cidol-hmsz-3-018_01.txt` L135–180, L195–279; recorded café, SRC-0060, part 1 0–208.9 s.)
 
 ## 5.14 SyngUp becomes transferable expertise
 
@@ -1581,7 +1599,7 @@ The repaired state is well supported in ordinary life. The strongest stress test
 
 ## OPEN-RS1-07 — What does Rinha actually want from the post-SyngUp future?
 
-This remains the largest required gap and is delegated to the Phase-6 distributed Rinha branch.
+At the original checkpoint this question was delegated to the Phase 6 distributed Rinha branch. **Partly resolved, 2026-11-25.** At H.I.F. Rinha privately revises her expectation about attending, asks the student journalist for discretion, and asks her to wait until she returns. When the former unitmates appear together, Misuzu calls on them to make the dissolution concert a success. The first exchange supplies Rinha’s own intention to return. The second supplies a shared undertaking whose outcome remains open. Neither specifies what Rinha ultimately wants to achieve as an idol. (`adv_csprt-3-0097_01.txt` L27–34, L79–89, L95–134; `adv_csprt-3-0097_02.txt` L133–172.) [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md)
 
 ## OPEN-RS1-08 — What is the final function of the dissolution live?
 
@@ -1616,7 +1634,7 @@ The corpus supports strong intimacy and attraction/possessive coding in several 
 | RS1-SYNGUP-03 | Temari's mature issue is authorship within dependence, not elimination of dependence | **CANONICAL / REVISE** | Temari core + post-SyngUp relational evidence | this synthesis |
 | RS1-SYNGUP-04 | post-rupture care can persist after direct access is revoked | **CANONICAL / PROMOTE** | Support Series 1 S0010 + later estrangement material | this synthesis |
 | RS1-SYNGUP-05 | Temari/Misuzu reconciliation is non-restorative and creates new operating rules/memories | **CANONICAL / MAJOR REVISE** | Series-3 support + Event 023 | this synthesis |
-| RS1-SYNGUP-06 | Rinha remains formative, relationally active, and future-facing after rupture | **CANONICAL BOUNDED / PROMOTE** | distributed direct/memory evidence incl. Event 016, Support S0097 | this synthesis; person-level meaning pending Rinha dossier |
+| RS1-SYNGUP-06 | Rinha remains formative, relationally active, and future-facing after rupture | **CANONICAL BOUNDED / PROMOTE** | distributed direct/memory evidence incl. Event 016, Support S0097 | this synthesis and the [Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md); protective motive and her eventual goal remain OPEN |
 | RS1-SYNGUP-07 | a meaningful dissolution live is compatible with rejecting permanent unit restoration | **CANONICAL BOUNDED / PROMOTE** | Support `story_0097` | this synthesis; exact outcome OPEN |
 
 ---
@@ -1631,7 +1649,7 @@ This is not a replacement for `GKM_PRIMARY_SOURCE_LOCATOR_LEDGER.md`; it is a co
 - Saki Dear 011–012 — N.I.A. set-up and a tied ranking contest (Dear 012 L186–L205); the N.I.A. FINALE fixed there is won in Dear 019. *(Corrected 2026-11-15, GKM-SAA-005; earlier entry: "first stable direct contest".)*
 - U1 Episodes 01–04 — the U1 mechanism of the protected hierarchy: pre-practised contests and a concealed footrace (`02_09`–`02_10`), never having lost (`01_03` L300), staying after being overtaken (`04_12`), concealment ended (`04_21`), first real win (`04_24` L451); mirror misperception (`03_05` L455) (GKM-SAA-109).
 - U1 `03_05`, `04_14`, `04_19`, `04_23` — Ume initiates the Sena relation and takes keeping Sena on stage as her own dream (§3.5.1; GKM-SAA-113).
-- Ume Dear 030 / 033 and C-UME 009 — Saki's work on Ume's repertoire; the pre-final exchange of hidden fear (GKM-SAA-178). P1 after-audition final-failure choice 3 — Ume receiving Saki's care (GKM-SAA-023).
+- Ume Dear 030 / 033 and C-UME 009 — Saki's work on Ume's repertoire; the pre-final exchange of hidden fear (GKM-SAA-178). P1 after-audition final-failure choice 3 — Ume chooses to seek Saki’s expected help and ends by voicing reluctance again (GKM-SAA-023; L122–176).
 - Saki Dear 021–023 — Ume victory / Saki public celebration and private collapse.
 - Saki Dear 036–037 — winter rematch / renewed public race.
 - Ume Dear 006 — "beat Saki as an idol" differentiation.
@@ -1652,7 +1670,7 @@ This is not a replacement for `GKM_PRIMARY_SOURCE_LOCATOR_LEDGER.md`; it is a co
 - Sumika Dear 027–032 — REVERSI formation, history-as-production-material, public vulnerability.
 - Event 004 — Sumika experiences jealousy while allowing Lilja independent friendship expansion.
 - Event 009 — Sumika preserves Lilja's exit rather than forcing social risk.
-- Event 012 — bilateral support / temporary-unit evidence; concealment broken by Saki ('嘘つきの目', 012-03 L561), Lilja's 免罪符 (012-02 L255), the bilateral contract (012-05 L151–L200) (GKM-SAA-105).
+- Event 012 — bilateral support / temporary-unit evidence; Saki confronts Sumika (012-03 L555–575), whom Sumika says she could then consult (L655–662). Lilja privately names effort as her excuse (012-02 L255), and the partners later make reciprocal requests (012-05 L151–L208) (GKM-SAA-105).
 - Sumika Dear 029 / 033 and Lilja Dear 031 / 033 — publicity as the Producer's remedy for fan reaction; track inversion of selfish desire; a running stream; Lilja's disclosed steadiness (HSCA-083, HSCA-079, GKM-SAA-202, GKM-SAA-123). Sumika Dear 032 / 036 — courage from Lilja at the origin (GKM-SAA-232).
 - Event 020 — shared Sweden history, mutual world-expansion, complementary feared futures.
 - Support Series 1 `story_0006` / `0007` — low-stakes relationship myths, karaoke, ice cream.
@@ -1669,7 +1687,7 @@ This is not a replacement for `GKM_PRIMARY_SOURCE_LOCATOR_LEDGER.md`; it is a co
 - Event 002 / 005 / 010 / 014 — Misuzu's estrangement-era jealousy; SyngUp's three-member break; the Valentine ritual; mutual knowledge (§5.8; GKM-SAA-106).
 - U1 `01_11`, `01_13`, `04_17` — Temari's U1 self-account and reputation (§5.2.1; GKM-SAA-032); `02_07`, `04_01` — Kotone's U1 brokerage and Misuzu's hostility (GKM-SAA-277); `04_04`–`04_15` — belief, wound, role reversal, lobbying, pact (§5.9.1; GKM-SAA-110).
 - Temari Dear 009, 025, 034 — handover to the Producer and Misuzu–Producer coordination (§5.3; GKM-SAA-045); Temari Dear 024, 029 — Rinha's language reused (§5.5; GKM-SAA-180).
-- Event 008 — SyngUp fan forces Temari to accept that public memory can survive the unit.
+- Event 008 — A customer identifies as Temari’s fan and recalls attending SyngUp! stages. Temari first deflects, then offers her own invitation after Kotone prompts her. She later claims the fan in response to Kotone’s teasing. The encounter tests Temari’s position as the recipient of attention. Her defense of plural fandom in Dear 016 remains a distinct track. [Animate fan encounter](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image)
 - Event 016 — Rinha coaching language persists inside Temari pedagogy.
 - Event 019 — Temari asserts independent competence to Misuzu.
 - Event 023 — post-repair birthday ritual re-authored through one-copy song/lullaby CD.
@@ -1729,3 +1747,23 @@ No definitive Phase-7 character monograph should be promoted until Phase 6 is su
 - **Hanami and Lilja.** E030 gives Saki's explicit temporary truce with Ume and Lilja's performance-specific mediation. Ume's accepted performance uses a remembered appeal to Saki. The sisters still prefer to compete when possible. See [E030](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md#e030--lilja-leads-by-matching-different-performers-to-the-same-brief).
 - **REVERSI.** In M-SUMIKA 018 part 02, Sumika tells Temari the agreement is a pause while each follows a separate ambition. Temari respects it and voices her own challenge. In part 03 Sumika accepts her mother's support and wants to bring Lilja to Hokkaido. Keep the father's knowledge gap in scope. See [Sumika 018](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/GKM_COMMU_REVISION_86_DEEP_READING.md#sumika-018--using-the-title-pausing-reversi-and-renewed-family-contact).
 - **SyngUp alumni.** Misuzu confirms Rinha's account of restored contact through one another's performances. Rinha pushes back against Temari's extension to their own history. E027 separately shows Temari and Misuzu sharing work and memories while Temari stays outside the student council. The scenes distinguish ongoing personal contact, mentorship and mutually acknowledged repair. See [Misuzu 018](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/GKM_COMMU_REVISION_86_DEEP_READING.md#misuzu-018--relational-repair-and-rehearsal) and [E027](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md#e027--a-commercial-collaboration-across-a-membership-boundary).
+
+## Care, challenge and joking between different partners — 2026-11-25
+
+In `adv_csprt-2-0018_02`, Saki offers practical help and apologizes, and Temari treats the difficulties of the exercise as her own. That exchange leaves room for the rivals’ renewed challenge. Temari’s inward outburst is audience-audible. The later outward answer has a more even delivery. The rendered view leaves physical taping open. In `adv_csprt-2-0067_02`, Ume’s inference takes up the explanation Temari actually gives. Ume then recognizes that she has teased too much. The earlier voiced inner comparison is unavailable as an explicit communication to Ume. Treat these two links to Temari as particular responses to the present partner. They leave the reasons for each woman’s intervention and cross-interlocutor generalizations open. [Five support-card adjudications](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+Saki offers a practical goal and endorses a larger one Ume names. The support comparison brings out Ume’s expressed trust while she reserves the work of deciding what she wants. These are observable choices within particular encounters. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Coaching and reciprocally chosen help in Event 012
+
+Lilja’s agreement to follow a mentor differs from her requests to Sumika. She and Sumika specify different forms of support, agree to them locally and keep their larger-stage promise prospective. Saki’s recalled demand for disclosure is a different intervention from the wish to help that she later describes. The two juniors’ use of her help leaves the pressure of the demand visible. [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Recorded moon-viewing and its remembered quarrel
+
+A shared evening and ordinary care coexist with Temari's reservation and Misuzu's unexplained future method. Temari gives the first serious quarrel value. Misuzu applies the view to one remaining unnamed person and accepts postponement in this exchange. The words establish separate choices about companionship and the timing of further action. The cases leave the shared unit's restoration and the later interlocutor unresolved. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+Misuzu says she also had fun and Hiro describes the effort in her own terms. Hiro’s voiced claim of friendship is her own contribution. Temari later addresses a request to Hiro. The reply, acceptance of a continuing duty and precise motive remain open. Temari thinks about spending time with Misuzu and makes a lunch invitation. The player hears Sena’s explicitly inward encouragement before Misuzu’s own outward assent. Misuzu’s receipt of the encouragement remains open. Misuzu addresses Sena at L23–24. Sena’s forecast for the council work is separate from who completes it. Temari calls out Rinha’s name during the outage. Misuzu’s voice comes through the phone and asks if Temari is all right. Misuzu proposes a truce for tonight, and Temari agrees until thunder stops. Participation by Rinha remains unestablished. Misuzu asks the Temari she encounters in a dream to scold her. Dream-Temari also offers the infirmary earlier and later invites her to a lesson. Misuzu’s waking statement concerns readiness. The dream, actual past chronology and any later attendance keep their separate source requirements. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

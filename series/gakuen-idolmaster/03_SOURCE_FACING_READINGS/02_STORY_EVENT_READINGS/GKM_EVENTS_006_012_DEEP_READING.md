@@ -176,7 +176,7 @@ That is scaffolded authorship rather than maternal takeover.
 
 **STRENGTHEN:** Rinami's care includes process design, boundary setting, and epistemic humility.
 
-**STRENGTHEN:** soft delivery does not mean low authority; she can stop an entire project direction without appropriating ownership of the project.
+**STRENGTHEN** the prospective checking role. Rinami says she will stop them if they go too far. Ume then reaffirms her intention to think of more ideas. The scene gives the terms of the arrangement. The decision she might make on a future proposal remains separate. [Guarded Ume adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#ume-keeps-a-role-in-the-work).
 
 ## 2.5 Hiro supplies the missing user perspective
 
@@ -369,15 +369,13 @@ None of these instincts is wholly wrong. The event's success comes from combinin
 
 ## 4.2 Temari meets a SyngUp! fan
 
-A customer recognizes Temari from SyngUp! and says she is glad Temari continued being an idol.
+A customer identifies as Temari’s fan, recalls attending SyngUp! shows and welcomes Temari’s continuation as an idol (adv_event_008_main-02 L14–38, L90–99). Temari begins to cut the conversation short. Kotone breaks in by drawing attention to her nerves, then covers the moment with a polite apology to the customer (L38–69). When Temari starts to say that Misuzu and Rinha are absent, Saki interrupts with a show of enthusiasm for Temari. Saki tells Temari to read the room, Kotone tells her she is driving away the fan, and Temari says she has no such intention (L99–136). How much of the peer exchange the customer hears remains open.
 
-Temari's internal and external states diverge sharply. She is pleased and affected, but her spoken response threatens to terminate the interaction. Kotone and Saki intervene, help invite the fan to the afternoon live, and push Temari to say she would be happy if the fan came.
+Saki announces that the three will perform together that afternoon. Kotone offers the customer the chance to hear Temari sing live and asks if the customer can come. The customer says yes before Kotone turns to Temari and prompts her to issue her own invitation (L143–194). Temari then tells the customer she would be happy if they came to listen, and offers to fetch a flyer with the time and place (L209–217). The stops and delayed です in her written invitation register hesitation alongside a statement spoken to the customer about how Temari would feel if they came. The scene establishes the promise to fetch the flyer.
 
-Temari then becomes possessive when Kotone jokes the fan might convert to Kotone.
+In the ensuing exchange among the three idols, Temari says she was a little flustered (L240). Saki grants that Temari might have her own idea of an idol and says she need not change it. Temari rejects this explanation in inner speech and wonders how to express herself (L258–268). Saki asks her to call for help and says she will not have a fan saddened. Temari agrees and apologizes (L271–288). Kotone then jokes that the customer might become her fan. Temari declares that the fan is hers and says she is over the hesitation (L297–318). That declaration follows a new peer provocation. Whether this episode brings lasting change remains open.
 
-This scene is a compact rehearsal of the later “gap” public image. The attractive contradiction is not fabricated from nothing: **the cool exterior, visible awkwardness, competitive possessiveness, and intense desire for recognition already coexist in ordinary interaction.**
-
-**STRENGTHEN:** constructed public persona can be an edited amplification of recurring social truth rather than a false mask.
+**REVISE — 2026-11-25.** Hesitation, a clipped attempted ending, assistance from peers, and an invitation Temari speaks to the fan belong to the same encounter. The earlier formulation described initial pleasure and foregrounded a later public-image “gap.” The exact inner line concerns Saki’s explanation and Temari’s uncertainty. Temari’s explicit pleasure here takes the outward, conditional form of inviting the fan. Event 011 supplies a separate comparison: Temari says she was happy the fan approached and asks China whether she came across as cold (adv_event_011_main-03 L320–329). The order of the two events remains unresolved. A link to deliberate branding is interpretive.
 
 ## 4.3 The public wants the mess they did not plan to show
 
@@ -429,14 +427,14 @@ The trio does not control why people arrive, but it can control what happens onc
 ### Claim transitions
 
 - **Kotone — STRENGTHEN / REVISE:** service-work history is transferable professional capital; social intelligence includes operational escalation to staff, crowd management, and risk awareness. The same competence can trigger overfunctioning.
-- **Temari — STRENGTHEN:** the cool/awkward “gap” exists before any deliberate branding; she wants fan connection but often cannot translate inner affect into social surface without scaffolding.
+- **Temari — REVISE / STRENGTHEN:** she can give the fan an invitation herself after a peer prompt, even while she privately struggles to explain the cold impression; her later possessiveness is separately prompted by Kotone.
 - **Saki — STRENGTHEN:** competition pushes her toward opportunity capture and public experimentation; care remains bodily and practical when a teammate's limit becomes visible.
 - **Class 1-1 trio — PROMOTE:** Saki, Temari, and Kotone can function as a high-friction but highly adaptive temporary work unit because their competencies are nonredundant.
 - **Public-image model — STRENGTHEN:** audience attachment can form around error, contradiction, humor, and personality leakage rather than only perfected performance.
 
 ### AV requests
 
-**P0:** `adv_event_008_main-02` — Temari's SyngUp! fan interaction, the internal/external affect gap, and Saki/Kotone's scaffolding.
+**P0:** `adv_event_008_main-02` — Temari’s attempted exit and spoken fan invitation; her doubt about Saki’s idol-image explanation; Saki and Kotone’s fan-facing and peer-directed speech. See §4.2 for the dated textual correction. The [Recorded customer encounter](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image) supports both the outward invitation and the later separately voiced inner uncertainty.
 
 **P1:** `adv_event_008_main-03` — viral-video reaction sequence; useful for distinguishing humiliation, comic anger, and competitive opportunity capture.
 
@@ -607,15 +605,13 @@ The comedy matters because it exposes a recurrent Hiro tendency: **a relational 
 
 ## 6.4 The decisive correction: a fun failure is no longer enough
 
-Hiro grinds cacao by hand until her palms are red and her arms nearly stop working. She describes the pain and difficulty as intensely fun.
-
-The resulting chocolate is gritty and bad.
+Hiro grinds cacao by hand. She describes aching arms and calls the painful work fun. Rinami remarks on her reddened hands. After Rinami tastes the result, Hiro calls the texture gritty and judges the batch a failure.
 
 Early-Hiro logic could have made that outcome satisfactory: the process resisted her; therefore the process worked as hobby.
 
 But this gift has a recipient.
 
-Hiro says the process was fun, **but this is not good enough because the people she loves will not be happy with it**.
+Hiro says the work was fun and the result will not please the friends she wants to give it to.
 
 Then she does something Phase-3 Hiro could not be reduced to doing by a simple “loves difficulty” model:
 
@@ -627,7 +623,7 @@ Difficulty remains enjoyable. But when difficulty conflicts with the value of th
 
 This is a major strengthening of `chosen impossibility becoming accountable attachment`.
 
-## 6.5 Completion stops being empty
+## 6.5 A completion Hiro finds enjoyable
 
 After they finish, Hiro notices something strange:
 
@@ -635,13 +631,13 @@ After they finish, Hiro notices something strange:
 
 That line is one of the most consequential ordinary-life findings in the Hiro corpus.
 
-The old achievement cycle becomes unstable when the completed object remains connected to people outside the problem itself. The chocolate's value does not disappear when resistance disappears because its purpose survives in the friends who will receive it.
+Hiro gives the gift a purpose beyond the technical problem before it is finished. She later calls this completion enjoyable. The scene presents purpose, collaboration and successful completion together, leaving their separate contributions to her enjoyment open.
 
 This offers a noncrisis answer to one of Phase 3's major open questions:
 
 > **Can Hiro access durable value after the impossible task becomes possible?**
 
-Event 010 cannot settle the entire question, but it provides a strong low-stakes affirmative mechanism: **relational afterlife**.
+Event 010 supplies a specific counterexample to a rule that achievement always leaves her empty. Whether the intended recipients give the finished work lasting value remains an interpretation. [Guarded Event 010 review](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#hiro-changes-the-criterion-for-finishing)
 
 ## 6.6 Friendship becomes a public gift
 
@@ -659,14 +655,14 @@ Sena's action is benevolent and narratively charming, but it is still evidence t
 
 ### Event 010 thesis
 
-> **For Hiro, attachment creates an end that survives success.**
+> **In Event 010, Hiro changes course for the friends she wants to please and finds this joint completion enjoyable.**
 
 Pain remains pleasurable. Technical extremity remains attractive. But the friend receiving the result becomes a higher-order constraint capable of making Hiro accept collaboration and care about quality after the challenge itself is over.
 
 ### Claim transitions
 
 - **Hiro — PROMOTE / STRENGTHEN:** “loves resistance” is further revised toward “loves resistance inside an expanding value structure.” Difficulty can be subordinated to recipient welfare without ceasing to be pleasurable.
-- **Hiro — PROMOTE:** relational afterlife is a plausible noncrisis mechanism for sustaining value after completion; success need not produce emptiness when the finished act remains socially alive.
+- **Hiro — STRENGTHEN / OPEN:** one collaborative finish matters to Hiro after the immediate difficulty ends. The lasting effect of her connection to the recipients remains open.
 - **Hiro — STRENGTHEN:** China, Ume, and Misuzu form an explicitly named close-friend network.
 - **Rinami — STRENGTHEN:** recipient-centered scaffolding generalizes from public event production to intimate gift-making; consent-sensitive help is a stable method.
 - **Sena — STRENGTHEN / OPEN:** affection is expressed through spectacular labor and institutional facilitation; her willingness to personalize office power remains a bounded authority-risk signal.
@@ -868,6 +864,8 @@ Lilja accepts Saki as `師匠`.
 
 **REVISE:** Lilja's courage should not be defined as “keeps trying no matter what.” Mature courage includes permitting another person to change how she tries.
 
+**Guarded Event 012 dialogue.** Saki projects her call and criticizes the inefficiency she has been watching as a friend. She offers instruction as an order to become her pupil, and the listeners distinguish her firm condition for withdrawing the offer. Lilja’s explicit request for Saki to teach her supplies the response in this exchange. Saki’s use of 免罪符 echoes Lilja’s inward word for the player. No in-story access follows from the echo. Lilja’s quieter inward account makes continuing to run a condition she uses to justify standing beside Sumika. In the later exchange she says aloud that she wants to become an idol and asks Saki to teach her. The spoken choice supplies initiative where the quieter self-account laid out a constraint. Her final reflective delivery has its own presentation, with no demonstrated in-story audience. [Guarded Event 012 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
 ## 8.5 Sumika's avoidance is not lack of desire
 
 The event reconstructs Sumika's side of the same period.
@@ -891,6 +889,8 @@ She confronts Sumika's “liar's eyes” and demands the whole story.
 Later Sumika says she is glad Saki did so because otherwise she might still be refusing to look at the problem.
 
 This is an important strengthening of Saki's epistemic style. Competition trained her to notice **deviation from an opponent's expected behavior**. Mature care then lets her use that anomaly detection for another person's welfare.
+
+**Guarded Event 012 dialogue.** Saki’s recalled demand that Sumika tell her everything is direct and weighted. Later she says she had noticed the change in a respected rival and could not see its trigger. She says she wanted to help if something kept Sumika from trying despite wanting to. The listeners hear a brighter shift on calling the others her friends. The earlier pressure, the later account, and Sumika’s response have their own evidence. Sumika’s quiet inward account of fear contrasts with the brighter assurances she gives Lilja. She later tells Saki that the confrontational exchange let her seek advice. The original script and caption print ぼきり, while the listeners transcribe ぽきり. The earlier ellipsis and heard breathing retain separate nameplate and audio assignments. The underlying cause, precise consonant and others’ access to the inward line remain open. [Guarded Event 012 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
 
 ## 8.7 One system, two opposite errors
 
@@ -937,6 +937,8 @@ This is an exceptionally strong precursor to the later REVERSI formulation of **
 
 Their bond is not mature because they have become equally strong in the same way. It is mature because each can name a weakness the other is being asked to help govern.
 
+**Guarded Event 012 dialogue.** Lilja proposes leaving the larger-stage promise open, then asks Sumika to support and guide her. The listeners report a measured request with its own rising end. This gives her an initiative of her own in the agreement. Her next spoken answer and individual inward line before the show have separate roles. The picture and dialogue leave actual hand contact and the stage result open. Sumika asks Lilja quietly for support and acknowledges wanting to stand beside her. She agrees to Lilja’s request and later speaks more brightly about what they might do together. Her inward final line gives being beside someone as a reason to keep running. The line’s companion remains unnamed. The script assigns only Lilja and Sumika to the preceding layered group cue, with individual contributions to the mix unresolved. [Guarded Event 012 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
 ## 8.10 Sumika's “no more lies” needs precise interpretation
 
 After Lilja falls ill from overexertion, Saki tells Sumika that Lilja needs someone beside her. Sumika doubts she can be that person while still unable to dance properly.
@@ -967,7 +969,7 @@ Lilja must stop using exhaustion as moral proof. Sumika must stop using withdraw
 - **Saki — STRENGTHEN:** professional responsibility and personal affection are explicitly differentiated rather than collapsed.
 - **Lilja — PROMOTE / REVISE:** courage is not indiscriminate persistence. She explicitly used effort as relational absolution; maturation requires accepting method, rest, and reciprocal support.
 - **Sumika — PROMOTE / STRENGTHEN:** apparent unseriousness can conceal high-stakes fear and continuing desire; recovery requires disclosure without abandoning self-authored brightness.
-- **Lilja ↔ Sumika — PROMOTE:** reciprocal support is explicitly contractualized in the relationship; neither rescuer/rescued nor unilateral follower/leader is adequate.
+- **Lilja ↔ Sumika — PROMOTE:** the two explicitly ask for different forms of support and agree to help each other; neither rescuer/rescued nor unilateral follower/leader is adequate.
 - **Saki ↔ Lilja / Saki ↔ Sumika — PROMOTE:** Saki becomes a major peer-development node rather than only rival/classmate.
 
 ### AV requests
@@ -980,6 +982,8 @@ Lilja must stop using exhaustion as moral proof. Sumika must stop using withdraw
 
 **P1:** `adv_event_012_main-04` — three-person training, Sumika's `もう、嘘はつかない`, Lilja falling ill, and Saki asking Sumika to become a sustaining partner.
 
+**Current received scope.** The received person scopes are Hanami Saki P0 Q499, Hanami Saki P0 Q500, Katsuragi Lilja P0 Q499, Katsuragi Lilja P0 Q502, Shiun Sumika P0 Q500, Shiun Sumika P0 Q502. Q501 remains a distinct part 04 request. [Guarded Event 012 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
 ---
 
 # 9. Cross-event character-state audit
@@ -989,7 +993,7 @@ Lilja must stop using exhaustion as moral proof. Sumika must stop using withdraw
 | character | transition | events | Phase-4 delta from 006–012 |
 | --- | --- | --- | --- |
 | Hanami Saki | **PROMOTE / STRENGTHEN** | E008, E009, E012 | competition/optimization becomes transferable pedagogy; care includes enforced rest, role responsibility, and individualized training; sister attachment still permits mild jealousy |
-| Tsukimura Temari | **PROMOTE / STRENGTHEN** | E007, E008, E011 | professional severity becomes domain-sensitive support; genuine effort can earn active carrying; public awkwardness and inner enthusiasm remain sharply split; peer help becomes reciprocal |
+| Tsukimura Temari | **PROMOTE / STRENGTHEN** | E007, E008, E011 | professional severity becomes domain-sensitive support; genuine effort can earn active carrying; fan-facing awkwardness can coexist with wanting contact, and peer prompts can help Temari voice it; peer help becomes reciprocal |
 | Fujita Kotone | **STRENGTHEN / REVISE** | E008, E009 | service-work history is real idol-professional capital; she can broker relationships and operationally manage crowds, but competence tempts her into overfunctioning |
 | Arimura Mao | **PROMOTE / STRENGTHEN** | E011 | refractive role authorship is directly enacted in client work; acting inheritance and idol vocation coexist without replacement |
 | Katsuragi Lilja | **PROMOTE / REVISE** | E009, E012 | social expansion can be scaffolded and then self-authored; raw effort can become an absolution ritual and therefore needs method, rest, and reciprocity |
@@ -1372,7 +1376,7 @@ The Valentine recollection with Temari preserves Misuzu's gentle storytelling. T
 | P0 | `adv_event_007_main-03` | Temari social failure, humiliation, China advising her; pressure and shame calibration |
 | P0 | `adv_event_007_main-05` | Temari blackout fear, hand-holding, `引っぱっていい`, team live transition |
 | P1 | `adv_event_007_main-04` | China/Temari shared origin and Temari recognizing China's strengths |
-| P0 | `adv_event_008_main-02` | Temari meeting SyngUp! fan; inner joy vs outer coldness |
+| P0 | `adv_event_008_main-02` | Temari’s attempted exit and spoken fan invitation; her doubt about Saki’s idol-image explanation; Saki and Kotone’s fan-facing and peer-directed speech |
 | P1 | `adv_event_008_main-03` | viral-video reactions; humiliation/comedy/opportunity capture |
 | P1 | `adv_event_008_main-04/05` | Kotone fatigue, forced rest, trio solidarity |
 | P1 | `adv_event_009_main-04` | Lilja overload and Kotone's friendship scaffold |
@@ -1452,7 +1456,7 @@ Promote compact deltas for:
 - Mao — role multiplication in client work; theater inheritance into idol vocation;
 - Lilja — effort-as-absolution explicitly identified and revised; mediated friendship expansion;
 - China — hospitality as professional talent; inherited-resource stewardship; operational redesign;
-- Hiro — recipient value can outrank solitary difficulty; relational afterlife after successful completion;
+- Hiro — what she wants to give friends can outrank solitary difficulty. In Event 010 she finds the shared finish enjoyable;
 - Rinami — recipient-centered, consent-sensitive scaffolding across domains;
 - Sumika — avoidance can conceal enduring desire; reciprocal support and rejection of concealment-lies;
 - Ume — divergent creativity plus learnable production method; peer-network expansion;
@@ -1516,7 +1520,7 @@ Promote/add:
 - recipient-oriented production;
 - role multiplication rather than true-self replacement;
 - reciprocal dependence as differentiation;
-- relational afterlife after achievement.
+- a recipient-facing purpose and one enjoyable finish after shared work.
 
 ## Japanese voice/register ledger
 
@@ -1590,3 +1594,7 @@ The next tranche should preserve the same controls:
 4. record contradiction and claim-transition state explicitly;
 5. route character, relationship, continuity, institution, theme, register, AV, and locator deltas into the cumulative infrastructure;
 6. preserve any character with no direct evidence as **NO DIRECT DELTA** rather than inferring from absence.
+
+## Event 010 recorded evidence and source clarification — 2026-11-26
+
+In Event 010 part 04 Hiro says she wants to try making the chocolate alone when Rinami offers help. After judging her first result unsuitable for her friends, Hiro explicitly asks Rinami to make it with her. After they finish she contrasts this occasion with her usual emptiness and says it was enjoyable. The scene leaves the distinct contributions of purpose, companionship and success open. Rinami leaves help available while Hiro tries to make the chocolate on her own. She checks on her later and accepts Hiro’s request to make it together. Hiro judges the first result inadequate. Rinami appraises the finish of the shared attempt. Palms, texture and the full work process have distinct written, reported and sampled-picture limits. The game capture presents Hiro’s viewer-audible inward thanks to China, Ume and Misuzu and then the participants’ account of a live. A selected instrumental passage shares opening material with other editions of ハッピーミルフィーユ. The recorded extent gives no identified Hiro-sung phrase or complete stage. [Guarded written and performed comparison](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).

@@ -13,12 +13,16 @@ do_not_use_as_current_authority: false
 last_updated: '2026-08-22'
 title: Katsuragi Lilja Phase-3 Character-Core AV Revision Addendum
 parent_authority: GKM_CORE_05_KATSURAGI_LILJA.md
-version: "2.1"
-revised: "2026-11-15"
+version: '2.2'
+revised: '2026-11-25'
 revision_note: "v2.1 applies the source-to-analysis audit 2026-11-15 corrections (REVISE / OPEN): the open claim on refusal is narrowed to sustained disagreement over a production decision and separation, and the support-card register question is marked answered textually by cross-reference; no audiovisual evidence was reviewed"
 ---
 
 # GKM CORE 05 — KATSURAGI LILJA AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+Treat the heard impression under the nameplate リーリヤ？ as Sumika's voiced parody. The E030 compact instead aligns Lilja's halting advice with her own script voice and Ume's subsequent response. These are stronger controls on differentiated peer roles than the E001 imitation. Dear 027's addressee is Sumika. In Dear 037 player paths reunite before a separate still condition; tracking two different stills by choice is unsafe. This updates the performed/visible support for LILJA-C25/C30 and leaves exact rendered-branch and romantic classification OPEN. See [current scene and edition evidence](../../../05_AUDIOVISUAL_ANALYSIS/05_KATSURAGI_LILJA/GKM_LILJA_CARBON_AV_UPDATE_20261125.md).
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Two bullets in §5 change, with no new audiovisual review. GKM-SAA-059 (REVISE, OPEN narrowed): the v2.0 bullet read "sustained disagreement or refusal with the Producer"; Source Lock 1.0 text already shows a graded repertoire of refusal (parent core §12.2 note), so only sustained disagreement over a production decision, and separation, stay open. GKM-SAA-107 (REVISE, cross-reference): the v2.0 bullet "whether support cards show a materially more casual peer register" is kept and marked as answered textually by the parent core §17.1; audible delivery stays open.
 
@@ -177,3 +181,7 @@ Lilja's audiovisual development does not replace timidity with fearlessness. It 
 The current Phase-3 formulation is:
 
 > **Lilja does not prove that weakness was false. She learns to organize weakness into a permeable world: support can enter, technique can stabilize it, and courage can leave toward someone else.**
+
+## Guarded Event 012 evidence — 2026-11-26
+
+**STRENGTHEN within the named guards.** Lilja’s quieter inward account makes continuing to run a condition she uses to justify standing beside Sumika. In the later exchange she says aloud that she wants to become an idol and asks Saki to teach her. The spoken choice supplies initiative where the quieter self-account laid out a constraint. Her final reflective delivery has its own presentation, with no demonstrated in-story audience. Lilja proposes leaving the larger-stage promise open, then asks Sumika to support and guide her. The listeners report a measured request with its own rising end. This gives her an initiative of her own in the agreement. Her next spoken answer and individual inward line before the show have separate roles. The picture and dialogue leave actual hand contact and the stage result open. [Guarded Event 012 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)

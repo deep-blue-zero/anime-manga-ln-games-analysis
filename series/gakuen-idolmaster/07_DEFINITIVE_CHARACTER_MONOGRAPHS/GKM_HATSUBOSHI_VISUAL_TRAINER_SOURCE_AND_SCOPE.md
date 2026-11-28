@@ -1,0 +1,44 @@
+# Hatsuboshi visual trainer — sources, scope and readiness
+
+Companion to the [portrait of Hatsuboshi’s visual trainer](GKM_HATSUBOSHI_VISUAL_TRAINER.md). The Japanese scripts are from [Source Lock 1.2, revision 88](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261115.md) at Campus-adv-txts Git commit `f8ff5ef7b243f2f7e3b2723def31072874539ca9`. The locators use one-based physical lines under `Resource/` at that revision. The source check binds the named dialogue boxes to their role-specific voice commands, keeps other speakers’ lines separate, and treats model-only staging as distinct from a speaking appearance. Recorded delivery comes from the bounded support-card comparison below. [Character qualification](GKM_CHARACTER_QUALIFICATION_AND_READINESS.md)
+
+## Rinami and the two takes
+
+- `adv_csprt-1-0004_01.txt` L5–18, L25–81, L83–84, L89–102 and L107–113. The trainer’s named boxes are L25, 36, 42, 51, 65, 71, 107 and 112, with distinct `trvi` commands. The script attributes the thanks to Rinami in both takes. The trigger for trying again is an instruction sequence, with no proof of the imagined person or backstory. Separate support part 02 is outside this comparison.
+- Handkerchief support `頼れる先輩お姉さん`, sealed Five Support Window C, `8FpuXBIAx_4` Japanese native parent `2a26f91460c015034f331837538a86d1a3bcf25207713560b2033e4d2d5f0c55`, attended parent clock 0.15–89 s. The first Rinami take c.3–15 s and the second c.63–75 s have independent hearing and sampled images. In the same scene the trainer's heard turns include the clear stop that softens into a tactful critique at c.15–22 s (C3, L25), the gently delivered imagination prompt at c.51–54 s (C11, L71) and the immediate bright approval at c.75–79 s (C17, L107). The assembled replay, score and staging do not isolate why the delivery seems different. Relative durations given in the compiled proof are authored voice-command timings, distinct from an audible measurement. The sampled frames do not show a handkerchief. It is the object named in the exercise.
+- The [sealed handkerchief adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md#the-handkerchief-rehearsal) identifies the reviewed source, inspection modes, cue times and limits. Its final receipt records the native manifest digest `ea8b0644dab830aca21ae7ac23353fd04e807bae05bf5697de3bc41bc87532ef`.
+
+## Cost of an exercise
+
+- `adv_csprt-1-0003_01.txt` L7–47 and L53–125. The trainer's actual replies at L74/88/102/120 contrast with Mao's image concern and continuing protest. Public constraint in the character's experience, qualified exercise in the instructor's account. Only the text is used for this contrast.
+- `adv_csprt-2-0004_02.txt` L5–35, L41 and L74–92. Distinct group exercise: she sees Kuramoto China and Rinami looking like sisters and imagines their marketability. This shows she can invoke a familiar type even as China, in response, says she wants to be the dependable one. Keep that separate from the instructor’s advice in Rinami’s handkerchief rehearsal.
+- `adv_cidol-amao-3-017_03.txt` L233–268. She advises Mao and Rinami to express real feeling within an assigned love song. It is the trainer’s prompt. It does not settle the protagonists’ private feelings.
+
+## Saki learns and teaches
+
+- `adv_csprt-2-0039_01.txt` L6–31, L72–128. Relaxation, interpreting the exercise, the student’s suggested uses, and the trainer asking how Saki receives a comparison to her own profession. Saki says she will teach Ume and will use the praised aptitude toward idolhood.
+- `adv_csprt-2-0039_02.txt` L6–51, L66–121, L153. Distinguish standards, expressed encouragement and the trainer’s printed reaction to Saki's question. The slang exchange is recounted in `adv_csprt-3-0100_03.txt`; the retelling is a separate form of evidence about the same incident.
+
+## Curriculum and audience
+
+- `adv_pevent_003_cmmn_school_3-003.txt` L5–61. The chooser is at L17. In the basics branch, L19–30 contains the career joke, L24 camera assignment and the emergency-lesson guess. The separate live/visual branch L35–46 places the venue/light answer before praise for the question. L52–61 gives the distinct third answer on body-condition maintenance.
+- `adv_pevent_003_cmmn_school_3-001.txt` L7–68; `adv_pevent_003_cmmn_school_3-002.txt` L5–63. Winter H.I.F. curriculum comparing alternatives in separate answer branches. Faculty suggestions about audiences and judges are advice rather than proven universal predictions.
+- `adv_cidol-fktn-3-007_02.txt` L18–106, L150–163, L185–231, L290–309 and L355. Existing fan service aptitude, spread through a crowd, distinct camera pressure, the requested Producer demonstration, the trainer's own reception of a gesture directed to Kotone and the estimated barrier to timely mastery.
+
+## Colleagues and limits
+
+- `adv_csprt-3-0100_01.txt` L62, L90–136. Counts of students, individualized work effectively assigned to student Producers, and the visual trainer’s own proposal that the instructors keep learning; the dance trainer supplies the submission proposal at L136.
+- `adv_csprt-3-0100_02.txt` L8–103 and L110–150. Her qualification, reassurance and hesitation; keep the vocal trainer’s different first reaction, independent reassurance, and later anxious question separate.
+- `adv_dear_hume_034.txt` L251–310, L322–331. Three different views on completion, Ume’s promise as a pupil, and Ume's mother as an admired colleague. L310 belongs to the visual instructor; fandom and national-hero language are the dance trainer’s L322. The mother’s own later caption-only utterances cannot establish a timbre for anyone pictured behind them.
+
+## Off duty
+
+- `adv_csprt-3-0100_03.txt` L8–44, L59–81 and L169; `adv_csprt-2-0039_02.txt` L66–103. In part 03 the visual trainer opens the depicted conversation; the two other trainers characterize the change of setting and timing. The work labels and accompanying musical notes identify authored presentation. The story supplies no further household or habitual leisure findings. Treat opening the interaction and endorsing the outing as distinct from proof of unshown arrangements.
+
+## Recording limits
+
+- The individual speaker and voice screen searched 4,052 pinned Resource text files. Thirty-nine have both named visual-trainer boxes and visual-trainer voice commands. Some other sources use her model in staging without qualifying as her own speaking appearances. Across them, 262 boxes and 263 voice commands cover 243 commands at the `trvi` actor slot and 20 at the local `Vtrainer` slot. `adv_pstory_001_hume_after-step-1-normal-01.txt` contains twenty named boxes and twenty `trvi`-stem voices at the `Vtrainer` actor slot, starting at L33 and L38. In Ume Dear 034 there are eight individual visual-trainer boxes and nine `trvi` commands. At L34–35 the extra voice contributes to a box attributed to `一同` (the group). Counts alone cannot replace line-to-cue verification. The actor assets for the three trainers are independently distinguishable in staff scenes; model codes establish a source role, with no actor name or generalized commercial credits.
+- Within the examined scope, `adv_csprt-1-0004_01` is the live queue’s applicable P0 for the exact prompted before/after scene. The present sealed C disposition covers the delivery discrimination with its limits. No status transfers to Rinami’s whole monograph.
+- `adv_csprt-1-0003_01` remains a live P1, `王子様のひと呼吸 / ポージングレッスン`, on Mao’s embarrassment versus maintained prince voice. It is valuable adjacent evidence. The current trainer text relies on her prompts and Mao’s explicit written reservations, so no finding on either person’s exact delivery is needed for that contrast. If promoted to a claim about how she sounds while insisting or how Mao’s voice reacts, resolve the exact P1 source before doing so.
+- Staff support `3-0100_01/02/03` and Saki support `2-0039_01/02` have exact original script locators and named voice assets. A whole matched recording and cue clocks for the trainer's particular lines would be material if the scope expands to a performed contrast with peers or to the slang reaction. No named public P0 or P1 for those particular trainer findings was located. The exact wording supports the written case independently. No new auditory comparison is performed in this preparation.
+- Independent review passed source fidelity, self-containment and individual Gate E at the declared ordinary-staff-role boundary. The portrait uses her individual supported teaching and colleague behavior, with performed delivery scoped to the sealed handkerchief window. The separate Mao Q600 P1 remains open for Mao’s acted response. Further conclusions about the trainer’s broader vocal contrast, audible pressure, private life or singing require a scope reassessment.

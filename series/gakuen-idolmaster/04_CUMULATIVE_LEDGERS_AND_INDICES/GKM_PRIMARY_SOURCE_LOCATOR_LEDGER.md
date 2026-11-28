@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Primary Source Locator Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.15"
+version: "2.17"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-15 — source-to-analysis audit corrections"
+last_updated: "2026-11-25 — Carbon character and claim write-through"
 status: "active; cumulative through Phase 6 Kaya Rinha source-crosswalk routing"
 ---
 
@@ -1455,3 +1455,118 @@ Physical A1 line numbers are for the Source Lock snapshot named in the scope col
 | `LOC-SAA-048A` | Temari and Misuzu have skipped the winter H.I.F. for the dissolution live (delta, verifier fix V1) | `adv_dear_atbm_033.txt` | `transcripts_raw/05_dear_idol/atbm=Tsubame_Amaya/dear_033.txt` | C1 @ D-TSUBAME, SL1.1 | 60–196; 104–112 | `まさか『H.I.F』に出場しないとは` / `解散ライブにわたしたちのすべてを注ぎ込む` |
 | `LOC-SAA-048B` | Temari's regret at missing the H.I.F. (delta, verifier fix V1) | `adv_dear_jsna_034.txt` | `transcripts_raw/05_dear_idol/jsna=Sena_Juo/dear_034.txt` | C1 @ D-SENA, SL1.1 | 79–493; 457 | `今回の『H.I.F』に出ていないことが悔しいな` |
 | `LOC-SAA-073A` | the handshake event: Rinami's first customer (choice 3 of 3) (delta, verifier fix V4) | `adv_pevent_002_hrnm_sales_4-003-01.txt` | `transcripts_raw/02_produce_events/event_002/hrnm=Rinami_Himesaki/sales_4-003-01.txt` | Produce Event, C3 | 57 | `きみが最初のお客さん？` |
+
+## Support 3-0086 — verified transcript and performance locator
+
+| Locator | Locked object and retrieval anchor | Recorded source |
+| --- | --- | --- |
+| `LOC-AV-SENA-TSB-0086-03` | `Resource/adv_csprt-3-0086_03.txt`, archive `transcripts_raw/04_support_card_stories/support_series_3/story_0086/part_03.txt`, L71–182. 貸せ、手本を見せてやる！ / 幼馴染デートに挑戦！ | `SRC-0093` 175.0–259.413 s whole-parent scope. Reveal ~208–213 s, definition and disclaimer ~220–240 s, last address and reply ~249–259.413 s. [Edition, exact hashes and clock distinctions](../05_AUDIOVISUAL_ANALYSIS/12_JUO_SENA/GKM_SENA_TSUBAME_SUPPORT_3_0086_PERCEPTUAL_ADJUDICATION_20261125.md). |
+
+## Carbon character and claim write-through — 2026-11-25
+
+| Stable route | Exact source and working boundary |
+| --- | --- |
+| `LOC-SAA-291C` · China failure | Keep the A1 script row above. In the complete matched P3 selection-failure rendering the iris retains a lit spot at the 43.30 s sample and goes fully dark by the 43.37 s sample. The three Kanae-coded voice onsets are around 43.77, 50.77 and 55.02 s. China’s surrounding voiced controls are about 36.64 and 62.40 s. Printed role remains `ナレーション`. [China AV evidence](../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_CHINA_CARBON_AV_UPDATE_20261125.md) |
+| GKM-SAA-052 / SDIV-03 · Kotone Dear 037 | Relevant A1 L411/L419 for choice 1 and L465/L472 for choice 2 plus L512/L523 after convergence. SRC-0024 display near 7944.7 s and masked audio through about 7948.5 s. Use about 7971 s for the end. Preserve different SRC-0025 clocks; its ending movie is excluded as dialogue evidence. [Kotone AV history](../05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_CARBON_AV_UPDATE_20261125.md) |
+| REG E001 · Sumika mock-Lilja | `adv_event_001_main-02.txt` L341–345 with `ssmk-018` and the 16-dash Temari box. SRC-0039 paired 443.8–451.1 s. Part 5 L95 is a reformulated address at its own time. [Sumika AV scope](../05_AUDIOVISUAL_ANALYSIS/09_SHIUN_SUMIKA/GKM_SUMIKA_CARBON_AV_UPDATE_20261125.md) |
+| GKM-SAA-194 · Mao *Face Me* | SRC-0236 around 575.1, 601.5, 604.7 and from 611.5 s holds the filmed dialogue. The source is neither a Sena solo nor a witness for Mao's uninferred vocal mechanism. [Mao AV scope](../05_AUDIOVISUAL_ANALYSIS/04_ARIMURA_MAO/GKM_MAO_CARBON_AV_UPDATE_20261125.md) |
+| AV-HKNE-R88 / RES-01 · Kanae | The [character package evidence table](../05_AUDIOVISUAL_ANALYSIS/14_HIWATARI_KANAE/GKM_KANAE_EVIDENCE_AND_INSPECTION.md) supplies source IDs, paired claims, matched song clocks, alternate performers' roles and the native vs uploader-labeled outcome split. The versioned R88 A1 inventory remains unchanged. |
+
+## Recorded Event 016 parts 2 and 5 — 2026-11-25
+
+SAKI-L072 now has a recorded part 2 scope. A1 `adv_event_016_main-02.txt` L439–576 joins SRC-0041 parent 526.7–609.6 s for Saki's initial shift and stated refusal to disclose vulnerability to Ume. Part 5 L362–557 joins 1315.5–1414.5 s, with private reverberant lead-in, separate peer outings and assertive exchanges. The score and listener times use the historical media clock. [Accepted comparison](../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJUDICATION_20261125.md).
+
+## Tsubame support scenes — locked text and recorded locations
+
+| Locator | Exact script and lines | Original recording scope |
+| --- | --- | --- |
+| `LOC-AV-TSB-HIRO-0056-01` | `Resource/adv_csprt-2-0056_01.txt` L13–206, rest/water L91–140 and Hiro’s request L149–196 | `SRC-0085` 0.200–105.700 s. |
+| `LOC-AV-TSB-KOT-0070-03` | `Resource/adv_csprt-3-0070_03.txt` L9–193, with the two gift title spellings scoped to the selected source | `SRC-0087` 190.000–311.500 s. Historical printed title at 287.550 s differs from pinned L165. |
+| `LOC-AV-TSB-CHINA-0062-03` | `Resource/adv_csprt-3-0062_03.txt` L12–161, with Sena’s report and Rinami’s thought separately attributed | `SRC-0090` 260.000–380.550 s. Picture change at 351.416667 s is separate from heard timing. |
+| `LOC-AV-TSB-SAKI-0085-03` | `Resource/adv_csprt-3-0085_03.txt` L8–143, joint method decision L28–56 and later rivalry L122–143 | `SRC-0092` 204.500–306.250 s. The clock wipe skips the workout. |
+
+[Four support-scene adjudications](../05_AUDIOVISUAL_ANALYSIS/13_AMAYA_TSUBAME/GKM_TSUBAME_FOUR_SUPPORT_SCENE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## 2026-11-25 guarded Event 022 and 024 locators
+
+| Pinned Japanese revision 88 part | Decisive written handles | Native parent cut |
+| --- | --- | --- |
+| `adv_event_022_main-02` | L64–70 speaker separation; L148/L275–352 remembered search; L372 report; L408/L445 present | `0GYf2Vyyr-Q` [300, 597) |
+| `adv_event_022_main-04` | L525–558 relationship naming; L564–573 Mao responds | `0GYf2Vyyr-Q` [1176, 1248) |
+| `adv_event_024_main-04` | L99/L136–158 two songs; L187–260 assignment; L280–312 joint refusal; L340/L368–372 independent aims; L390–413 challenge | `aS6q0UHUt_0` [778, 1044) |
+| `adv_event_024_main-05` | L132 instrumental; L155–160 title speaker assignments; L275–400 reported reception; L414 reversal; L484/485 Ume and excluded L496/499 | `aS6q0UHUt_0` [1045, 1324.1) |
+
+[Guarded Event 022 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded Event 023 — 2026-11-25
+
+| Locked Japanese script part | Decisive A1 turns | Attended parent interval `0Ir39nG7XgI` |
+| --- | --- | --- |
+| `adv_event_023_main-03` | L138–167 unnamed inquiry, L210–236 giving and its scope, L288/L294 clue and mission, L334–357 conditional reading | [442.5, 649) |
+| `adv_event_023_main-04` | L169/L187 concert attended, L219–230 remembered nap, L255–296 planned disc, L312–318 prediction with a clipped end | [653, 877) |
+| `adv_event_023_main-05` | L229–231 reported gift contents, L248–302 response and intention, L345–393 distinct report and degree of completion | [881.5, 1097) |
+| `adv_event_023_main-01` | L187–224 disputed closeness and request, L272 recalled reply, L310–319 refusal, L344–355 shopping and reply | [10, 180) |
+
+[Guarded Event 023 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+`adv_event_022_main-01` L20–92, L212–281 and L300–399 locate training, care and the requested light. `adv_event_022_main-05` L254–324 and L383–484 locate the separate inward and spoken reports. `adv_event_003_main-05` L369–465 locates Mao’s reflection, the first shutter and proposed group photograph. The report gives amended named boundaries. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+Event 026 parts 04 and 05 are distinct guards of the exact `8Nh2Uxg0XUI` edition. Support `adv_csprt-3-0052_01` is the substantive dialogue scope in the `LfFlLuVdqz4` guard. The opening of the following chapter retains a separate locator. The adjudication identifies half-open parent ranges and exact take hashes. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded Event 025 anchors
+
+| Received scope | A1 speaker and context anchors | Recording windows |
+| --- | --- | --- |
+| China · Q562 | adv_event_025_main-01 L120–135 and L492–517 | Q01 and Q02 |
+| Tsubame · Q562 | adv_event_025_main-01 L93–185, L371 and L405–480 | Q01 and Q02 |
+| China · Q563 | adv_event_025_main-05 L139–211 and L217–331 | Q03 |
+
+[Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md). The clock locators and inspection limits apply to both the printed and spoken material.
+
+## Guarded Event 005 and 024 primary locators — 2026-11-26
+
+| Received scope | Primary-script locator | Window |
+| --- | --- | --- |
+| Hanami Saki P0 Q472 | adv_event_005_main-04 L367–416 | A |
+| Juo Sena P0 Q472 | adv_event_005_main-04 L419–425 and L453–487 | A |
+| Hanami Ume P0 Q473 | adv_event_005_main-05 L282–303, L353, L468–501 and L553–591 | B and C |
+| Juo Sena P0 Q473 | adv_event_005_main-05 L390–427, L498–539, L553–591 | B and C |
+| Hanami Ume P1 Q576 | adv_event_024_main-02 L48–62, L229–257, L278–291 and L412–438 | D, E and F |
+| Hataya Misuzu P1 Q576 | adv_event_024_main-02 L68–90, L229–275, L291–302 and L412–438 | D, E and F |
+
+[Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Guarded Event 012 received scope — 2026-11-26
+
+| Received scope | Script locator | Guarded windows |
+| --- | --- | --- |
+| Hanami Saki P0 Q499 | adv_event_012_main-02 L592–596, L608–721 | K02 |
+| Hanami Saki P0 Q500 | adv_event_012_main-03 L555–575, L584–675 and L692–697 | K04 |
+| Katsuragi Lilja P0 Q499 | adv_event_012_main-02 L202–259, L586–596 and L632–734 | K01 and K02 |
+| Katsuragi Lilja P0 Q502 | adv_event_012_main-05 L88–143, L187–200, L469 and L495–496 | K05 and K06 |
+| Shiun Sumika P0 Q500 | adv_event_012_main-03 L326–354, L404–425, L450–501 and L655–662 | K03 and K04 |
+| Shiun Sumika P0 Q502 | adv_event_012_main-05 L151–176, L208–213, L447–458 and L497–498 | K05 and K06 |
+
+[Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+Keep original Q499/Q500/Q502 selection rows and route only actual named advances. Q501 remains a separate part-04 request. No transfer of Lilja or Sumika’s K06 evidence to Saki.
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Event 010 part 04 L444 establishes Hiro’s aim to give good chocolate to important friends. Part 05 L397–402 names China, Ume and Misuzu in her inward dedication. Guarded original-upload locators, the physical printed joins and the separate support 1-0005 part 01 request are bound in the report. [Original recording and primary-script locators](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Recorded moon-viewing and its remembered quarrel
+
+Part 01 L101–114 assigns the reservation to Temari. Part 02 L137–162 keeps the unnamed remaining person, Temari's deferral and Misuzu's reply separate. The original picture at 198.750 s locates the eleven printed glyphs at L153. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#the-remembered-argument-and-the-present-judgment).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Event 006 part 03 L322–423 has original guard [684.000, 754.000) s. Support 2-0047 part 02 L93–164 has picture guard [144.400, 186.466) s and sound guard extending to 186.474 s. Support 2-0000 part 01 L30–118 has guard [0.100, 88.200) s. All three IDs, editions, child bounds and inspection limits are bound in the receipt. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+The exact source identifiers and original/child clocks attach to each of the five named script parts. The 0021 part 02 recorded evidence belongs to Temari’s address and Misuzu’s telephone reply. The Event 016 recording and Rinha’s earlier verified work retain separate locators. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

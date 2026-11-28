@@ -562,18 +562,22 @@ A good Producer simulation should distinguish **private uncertainty** from **the
 
 Part 1 is a rain-shelter near-miss. Temari sees sleeping Misuzu and spends multiple internal turns deciding whether it is safe/responsible to leave her there. Misuzu has already awakened and offers Temari a towel so she will not catch cold. Temari accepts and flees once the rain eases.
 
-Part 2 contains one of the highest-value distributed-character lines in Phase 5. Alone during thunder and a power outage, Temari panics, calls for Misuzu, then reflexively calls `りんはぁ……雷とめてぇ……` before Misuzu appears. Whatever the exact chronology of all Rinha material, this is strong evidence that **Kaya Rinha occupies an automatic safety/attachment position in Temari's fear response**.
+Part 2 gives a specific attachment locator. Alone during thunder and a power outage, Temari calls for the absent Misuzu and later says `りんはぁ……雷とめてぇ……` (L23–30, L91). A ringtone and phone-use commands precede Misuzu’s reply (L92, L98, L106, L109). The call can support an attachment/safety reading of Temari; it gives no Rinha reply, received request or behavior, and does not establish that Misuzu enters the room.
 
-Misuzu says she was also frightened and proposes a one-night truce: tomorrow they can resume being “in a fight,” but until the thunder ends they can be together. Temari agrees.
+In the phone exchange Misuzu refers to the loud thunder and says `怖くて` (L126), then proposes a truce for now, tonight only, with the quarrel allowed to resume tomorrow (L128–132). Temari agrees only until the thunder stops (L137). The words do not establish a visit, physical company or enduring reconciliation; the exact motive of Misuzu’s fear wording remains open.
 
-Part 3 is a dream. Misuzu dreams that Temari wakes her from rain-induced sleep and says they are middle-school third-years at a critical time. Misuzu notices the visual inconsistency herself—she is wearing a high-school uniform—so the scene must not be treated as literal chronology. What matters is the desired remembered interaction: Misuzu asks Temari to scold her in the old way, and dream-Temari says `一緒にレッスン行こう！`.
+Part 3 is a dream. The represented Temari says they are middle-school third-years (L70), while Misuzu’s inward line questions that claim against a high-school uniform (L77). The line does not specify a real chronological transition or establish whose rendered clothing proves it. Misuzu asks for renewed scolding (L105, L121). Dream-Temari agrees and scolds her (L130, L137), then invites Misuzu to join her at the lesson with `一緒にレッスン行こう！` (L144). Misuzu names it a dream on waking (L167) and says she can still make today’s lesson (L170). That last line is prospective, and the dream does not independently verify a remembered encounter.
 
 ### Claim transitions
 
-- **Kaya Rinha — MAJOR PROMOTION:** Temari invokes Rinha reflexively under childlike fear; mandatory Phase-6 Rinha reconstruction should route this as attachment/safety evidence.
+- **Kaya Rinha — MAJOR PROMOTION:** retain this Phase-5 attachment locator as Temari’s observer evidence. Her call supports an attachment/safety interpretation without supplying Rinha’s presence, action, motive or receipt of the request.
 - **Temari ↔ Misuzu — STRENGTHEN:** temporary truces can restore old caregiving access without pretending the larger conflict is resolved.
-- **Misuzu — STRENGTHEN:** she misses not only Temari's affection but Temari's corrective demand on her.
-- **Continuity — DISCIPLINE:** part 3 is dream/memory synthesis, not a literal event record.
+- **Misuzu — STRENGTHEN:** within the dream, she explicitly asks for renewed corrective prompting rather than only receiving a demand imposed by Temari. Whether it reproduces an actual past exchange remains open.
+- **Continuity — DISCIPLINE:** part 3 is a dream with contradictory school-year and uniform references, not a literal event record or an independently dated flashback.
+
+**Written-source precision (2026-11-26; Source Lock 1.2 revision 88).** The qualifications above use `adv_csprt-3-0021_02.txt` L91–137 and `_03.txt` L70–170. Earlier Phase-5 locator and transition labels remain as dated analytical provenance. Misuzu’s entry is by phone, the truce is limited, and the represented school year and uniform belong to a dream. These written distinctions supply no new hearing, Rinha action or phase/gate decision.
+
+Temari calls out Rinha’s name during the outage. Misuzu’s voice comes through the phone and asks if Temari is all right. Misuzu proposes a truce for tonight, and Temari agrees until thunder stops. Participation by Rinha remains unestablished. Misuzu asks the Temari she encounters in a dream to scold her. Dream-Temari also offers the infirmary earlier and later invites her to a lesson. Misuzu’s waking statement concerns readiness. The dream, actual past chronology and any later attendance keep their separate source requirements. [Guarded SyngUp adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).
 
 ---
 
@@ -753,7 +757,7 @@ The professional “wizard” role is explicitly a **performed responsibility**,
 
 ## P0 / major dossiers
 
-1. **Temari ↔ Misuzu** — add estrangement-era mutual observation, shared-summit language, co-regulation, elite shared lesson, thunder truce, and Misuzu's dream of being scolded/escorted back to training.
+1. **Temari ↔ Misuzu** — add estrangement-era mutual observation, shared-summit language, co-regulation, elite shared lesson, thunder truce, and Misuzu's dream in which she asks for renewed scolding and receives a joint lesson invitation.
 2. **Saki ↔ Temari ↔ Kotone** — formalize the Class 1-1 friendship triangle separately from unit/professional alignment.
 3. **Ume ↔ China ↔ Hiro** — formalize as an explicit friendship/aspiration cluster with asymmetric competence exchange.
 4. **Sena ↔ Kotone** — producer-origin relationship: first desired producee, reputation anxiety, friendship-label negotiation, rivalry declaration, unit proposal, private motivational aftereffect.

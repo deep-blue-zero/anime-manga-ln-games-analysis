@@ -5,7 +5,7 @@ analytical_role: side_character_synthesis
 scope: SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES
 generation: V2
 status: canonical
-source_boundary: 'GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5 and Phase-6 Relationship Systems I-II: cumulative NPC/side-character, relationship, institution, continuity, character, source-locator, theme, and AV infrastructure; thirteen character-core readings; four numbered-event readings; eight support-card readings; and targeted speaker/mention searches across raw corpus surfaces for distributed figures. Kaya Rinha is included only at the structural side-character level here and remains subject to the mandatory dedicated Phase-6 source-crosswalk/evidence-matrix/dossier reconstruction.'
+source_boundary: 'GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5 and Phase-6 Relationship Systems I-II: cumulative NPC/side-character, relationship, institution, continuity, character, source-locator, theme, and AV infrastructure; thirteen character-core readings; four numbered-event readings; eight support-card readings; and targeted speaker/mention searches across raw corpus surfaces for distributed figures. The original pass treated Kaya Rinha at the structural side-character level. Her subsequent Source Lock 1.2 reconstruction is routed in the body.'
 source_lock: GAKUMAS V2 Source Lock 1.0
 source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
 source_revision: 32
@@ -13,15 +13,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-24'
-version: '2.1'
-revised: '2026-11-15'
-revision_note: 'Source-to-analysis audit 2026-11-15 targeted corrections (REVISE / STRENGTHEN / OPEN): merges the Juo father, 十王社長 and Ryuusei Juo into one entity, adds route-scoped family, staff, Gokugetsu/961 and secondary-figure evidence, and records China household gatekeeping as OPEN; all other content unchanged'
+version: '2.2'
+revised: '2026-11-25'
+revision_note: '2026-11-25. Routes Rinha’s independent purpose and her distinct roles as fan, mentor and participant to the distributed Phase 6 dossier. Earlier revision: Source-to-analysis audit 2026-11-15 targeted corrections (REVISE / STRENGTHEN / OPEN): merges the Juo father, 十王社長 and Ryuusei Juo into one entity, adds route-scoped family, staff, Gokugetsu/961 and secondary-figure evidence, and records China household gatekeeping as OPEN; all other content unchanged'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM SIDE CHARACTERS, FAMILIES, STAFF, GOKUGETSU, AND EXTERNAL PRESSURES
+
+> **Revision v2.2, 2026-11-25.** Routes Rinha’s independent purpose and her distinct roles as fan, mentor and participant to the distributed Phase 6 dossier. Source Lock 1.0 governs the original analysis. The dated additions use separately admitted revision 86 witnesses where named and the [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) at the revision 88 boundary. Earlier statements deferring the branch record the state of work at their original dates.
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** The file had no version key before this revision; its generation-V2 text is treated as v2.0. REVISE: Sena's father, 十王社長, President Juo and Ryuusei Juo / 十王龍正 are one person (§2.4, §5.1, §12, §13; GKM-SAA-033 with GKM-SAA-252); the Hanami parents are differentiated (§2.1, GKM-SAA-239); Lilja's mother kept opposing the plan (§2.6, GKM-SAA-124); the Juo evaluator's eye is reportedly shared rather than inherited (§2.4, GKM-SAA-250); the Gekka romanization gains its metadata basis (§4.2, GKM-SAA-261). STRENGTHEN: dated, track-labelled additions in §2.1–§2.10, §3.1, §4.1–§4.6, §5.1, §7.1–§7.5, §14.2 and §15 Q12 (GKM-SAA-001, 002, 009, 020, 022, 035, 047, 074, 086, 089, 090, 096, 126, 171, 192, 197, 218, 230, 236, 245, 287; HSCA-043, HSCA-145). OPEN: China's household gatekeeping of the Producer is recorded without a romance conclusion (§2.3, GKM-SAA-016). Each changed formulation names its v2.0 wording in place. The principal thesis and all other sections are unchanged.
 
@@ -74,13 +76,13 @@ This document may state that Rinha:
 - is implicated in Gokugetsu/external-pressure history;
 - remains future-facing after SyngUp's rupture.
 
-It must not convert those statements into a definitive personality dossier. Architecture v2.4 requires:
+The original reading stopped short of a definitive personality dossier. Architecture v2.4 required:
 
 - `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`;
 - `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`;
 - `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`.
 
-Those artifacts must separate Rinha's own words/actions from Temari's Rinha, Misuzu's Rinha, Saki's Rinha, remembered Rinha, and later observer inference.
+The architecture required those artifacts to distinguish Rinha's own words and actions from other characters' views of her, their recollections and later observer inference. For the completed person-level reconstruction and its limits, begin with the [accepted dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md).
 
 ---
 
@@ -247,6 +249,8 @@ This yields a side-character/family principle with broad applicability:
 
 Later, debt repayment does not erase Kotone's family identity. Her siblings become fans, artists, conversational partners, school visitors, and possible sources of comparison anxiety. They are not simply dependents waiting for her earnings.
 
+The [portrait of Kotone’s eldest younger sister](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KOTONE_ELDEST_YOUNGER_SISTER.md) follows the child Kotone identifies in Event 016. Her reported responsibility for the smaller children helps explain the outing. Her decisions to take instruction, propose a plan and ask about Kotone’s school life show how she takes part in it. The [evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KOTONE_ELDEST_YOUNGER_SISTER_SOURCE_AND_SCOPE.md) identifies which other appearances still lack a birth-order match.
+
 The mature Fujita family model is therefore **redistribution of care**, not escape from family.
 
 ## 2.3 The Kuramoto household: loving capital needs constitutional restraint
@@ -270,6 +274,8 @@ That same love can produce:
 - and a standing possibility that a school problem can become a corporate-power problem.
 
 The route's mature answer is not rejection of family support. China increasingly builds **internal constitutional restraints** around inherited power.
+
+The [portrait of China’s grandfather](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KURAMOTO_GRANDFATHER.md) distinguishes China’s account of the childhood appeal from his own three turns in the Kanae transfer conversation. The independent exam condition comes from the Producer. The grandfather agrees and asks what happens if the plan fails. The two song communications in which his request prompts different responses further bound what his authority means for any particular audition. The [reviewed evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KURAMOTO_GRANDFATHER_SOURCE_AND_SCOPE.md#speech-and-evidence-limits) records the written boundary.
 
 ### Kanae as a person, not a household function
 
@@ -342,11 +348,15 @@ Removing either side would distort Sena.
 
 The double coding above stands, now with one actor who is both Sena's father and the president of 100 Pro.
 
+**Later individual portraits, 2026-11-25.** [Ryuusei's profile](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_JUO_RYUUSEI.md) follows the agency offer to Mao, Sena's refusal and his written retraction. [Kunio's profile](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_JUO_KUNIO.md) follows the headmaster's admissions discretion, family encounters, distinct contest authority and specified musical credit. Keep the two relationships and organizations distinct.
+
 ## 2.5 Rinami's family: a good alternative life makes choice more meaningful
 
-Rinami's family is analytically unusual because it offers a plausible alternative good life rather than an obvious oppressive past.
+Rinami's family is analytically unusual because it offers a plausible alternative good life rather than an obvious oppressive past. The reviewed [Shiori portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HIMESAKI_SHIORI.md) follows the younger sister’s separate interests and decisions. She can object to a family role, protect a guest from a practical inconvenience and later welcome him in her own right. Her disclosure about Rinami’s public older-sister role does not erase her pride in her work.
 
-Her father once imagined her inheriting the family sake brewery. When Rinami expresses a major desire for idolhood, he supports it partly because large self-authored wishes are unusual for her. Later, during a family crisis, he asks the Producer whether becoming a top idol will actually make Rinami happy.
+Rinami reports that her father hoped she would take over work at the family brewery. In the separate Event 028 family scene he asks whether she has considered her choice and tells her she can return home if things become difficult. He later asks the Producer whether becoming a top idol will make Rinami happy. The [reviewed individual portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HIMESAKI_FATHER.md) distinguishes these scenes, Rinami’s report of his change of mind and Shiori’s account of his everyday fandom.
+
+Rinami’s mother first tries to put off giving her difficult news before a performance. When Rinami presses, her mother tells her what the doctor said and that she is at the hospital with Rinami’s father. At a later family call, she says she does not know much about idols and tells Rinami she is rooting for her. The [portrait of Rinami’s mother](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HIMESAKI_MOTHER.md) follows how she makes these decisions and distinguishes her words from what Shiori and Rinami remember.
 
 This matters because Rinami's route cannot define agency as escape from a bad home.
 
@@ -413,6 +423,8 @@ This archive can threaten her when public rediscovery turns old ability into exp
 The family function is thus not simply pressure or support. It is **provenance**.
 
 **Family strain and authorship conflict (GKM-SAA-022) — 2026-11-15.** The judgment above that the family evidence is "less individually interior" is too strong for the current record. Under SL1.0, ballet began at the parents' instruction (`adv_dear_ssmk_010` L169); Sumika falls silent when asked whether home was cramped (`adv_cidol-ssmk-3-014_02` L141–L154); she describes her gyaru style as rebellion against her mother (`adv_event_020_main-03` L194–L211); she finds it hard to tell her parents that she wants idolhood (`adv_dear_ssmk_032` L414); and her mother warns that Sumika skips practice, which Sumika rebuffs (`adv_csprt-3-0093_01` L164–L169). SL1.1 M-SUMIKA 018_03 (`adv_cidol-ssmk-3-018_03` L62–L335), in the state where Sumika wins, confirms conflict since she quit ballet, the mother's opposition, the father's support as the mother reports it, and a repair. Linking that repair to her Dear 032 confession is a cross-track identification. The family function is therefore provenance together with a conflict over who authors her assigned future.
+
+**Sumika’s mother as an interlocutor (REVISE) — 2026-11-25.** Dear 010 L169 records Sumika saying that 親 told her to start ballet. The line leaves open which parent spoke or whether both did. At the entrance examination the mother addresses Lilja directly with a warning about Sumika (`adv_csprt-3-0093_01` L136–169). In the separate Sumika-winning communication she acknowledges her opposition and later asks Sumika whether she may support her. Her account of the father’s support is reported speech. The [reviewed portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIUN_SUMIKA_MOTHER.md) distinguishes the mother’s decisions, Sumika’s interpretation and the outcomes still open after the call.
 
 ## 2.10 Misuzu's family: relation can be inherited before it is chosen
 
@@ -524,7 +536,7 @@ The vocal trainer emphasizes plural standards:
 - throat protection;
 - and strategy for evaluative settings.
 
-With an advanced student such as Temari, returning to fundamentals is not humiliation. It is a professional judgment that success can create blind spots.
+When Temari treats a basic exercise as beneath her stage of development, the vocal trainer explains what it can still do and explicitly credits her existing singing. Temari reports finding it easier to produce voice after a repeat. In a separate class, the trainer allocates limited turns between Temari and the newly arrived Saki. Her concern for the conditions of learning can protect a pupil or leave the limits of praise unclear. Lilja taking the sit-up joke literally is a concrete failure of calibration. [Vocal trainer portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_VOCAL_TRAINER.md) · [Source and scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_VOCAL_TRAINER_SOURCE_AND_SCOPE.md)
 
 ### Dance trainer
 
@@ -536,7 +548,7 @@ The dance trainer treats bodies as evidence. She is unusually concerned with:
 - movement fundamentals;
 - and whether effort remains productive.
 
-Her severity is real. Late support material adds an important correction: she notices that students experience her as harsh and asks whether she has gone too far. The other trainers distinguish demanding standards from arbitrary punishment, and students themselves request another repetition.
+She asks her colleagues if she is too strict after hearing students talk about her. The visual trainer connects her demands to a purpose, and the vocal trainer offers reassurance and later voices doubt. In the ensuing lesson the students ask to try again. The visual trainer calls that possible evidence of enthusiasm. Across Kotone’s two lessons, she values the instructor's care and privately resents an instruction she cannot readily carry out. Ume takes a comparison meant to anger her as encouragement. A student's response gives a teacher evidence about the intervention, and that response can differ sharply from the one she hoped to elicit. [Dance trainer portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_DANCE_TRAINER.md) · [Source and scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_DANCE_TRAINER_SOURCE_AND_SCOPE.md)
 
 The result is not 'harsh teacher secretly nice.' It is more useful:
 
@@ -555,6 +567,8 @@ The visual trainer's domain extends beyond cosmetics. She links:
 - and the body's ability to present itself under venue pressure.
 
 She can also recognize unexpected aptitude, such as Saki's trainer-like ability, without treating that aptitude as incompatible with idolhood.
+
+Her responses to a student’s hesitation vary with the task. She cushions her critique and offers a new way to approach the handkerchief scene with Rinami, while in Mao’s posing lesson she persists when Mao worries about showing an unfinished side of her image. Off duty she admits to colleagues that Saki’s unfamiliarity with her slang discouraged her. The [individual portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_VISUAL_TRAINER.md) follows these differences and the [reviewed evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_HATSUBOSHI_VISUAL_TRAINER_SOURCE_AND_SCOPE.md#recording-limits) identifies the sealed handkerchief performance and the other written contrasts.
 
 ## 3.3 Staff self-audit: successful students can make old pedagogy obsolete
 
@@ -632,7 +646,7 @@ They make internal success answerable to someone who is not obligated to recogni
 
 ## 4.1 Shion: hostile mirror, technician, recruiter, and wounded comparator
 
-Shirakusa Shion appears across several core routes, and her function changes by recipient.
+Shirakusa Shion appears across several core routes, and her conduct changes with the person and the purpose of the encounter. The [current Shion portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIRAKUSA_SHION.md) distinguishes what she teaches Lilja, what she tries to secure from rival idols, and what she rejects from Tsubame and Gekka. Its [evidence appendix](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIRAKUSA_SHION_SOURCE_AND_SCOPE.md#the-two-recorded-speaking-contrasts) preserves the two narrow spoken comparisons.
 
 ### Against Mao
 
@@ -656,7 +670,7 @@ Cruelty and pedagogical usefulness coexist; one does not excuse the other.
 
 ### Against Rinami
 
-Shion weaponizes old `Love☆しすたぁず` footage to argue that earlier performance proves current identity is fake.
+Shion weaponizes old `Love☆しすたぁず` footage to argue that earlier performance proves current identity is fake. The Producer reports gathering evidence on the earlier footage himself (`adv_dear_hrnm_013`). Shion separately threatens to circulate a misleading clip (Dear 015). The Producer later calls his own counterthreat a bluff (Dear 016). The first presentation and the threatened release are distinct events.
 
 Rinami's answer is archival rather than purifying: the old work can have been sincere and still be a poor fit for the mature self.
 
@@ -670,7 +684,7 @@ Shion engineers social isolation and offers another institution as sanctuary. Sh
 
 Here Shion is not merely critic; she is recruiter and alternative-institution pressure.
 
-Sumika's answer is not only refusal (GKM-SAA-230; C1 @ D-SUMIKA; 2026-11-15). After declaring that she and Shion can never agree (`adv_dear_ssmk_018` L100–L111), Sumika later thanks the defeated Shion for exposing her complacency, says she was glad to be invited even if the invitation was false, and parts with 「またね」 (`adv_dear_ssmk_019` L57–L89). The incompatibility concerns their idol philosophies, not a severed relation.
+Sumika's answer is not only refusal (GKM-SAA-230; C1 @ D-SUMIKA; 2026-11-15). After declaring that she and Shion can never agree (`adv_dear_ssmk_018` L100–L111), Sumika later thanks the defeated Shion for exposing her complacency, says she was glad to be invited even if the invitation was false, and parts with 「またね」 (`adv_dear_ssmk_019` L57–L89). The incompatibility concerns their idol philosophies. The farewell is Sumika’s initiative and leaves Shion’s response and later terms of contact open.
 
 ### Through Tsubame
 
@@ -678,7 +692,7 @@ Tsubame recognizes in Shion a comparison wound structurally similar to her own S
 
 This prevents Shion from remaining a one-note villain. Her damage becomes legible without turning harmful behavior into innocence.
 
-The D-TSUBAME outcome records both refusal and repair (GKM-SAA-096; 2026-11-15). Shion rejects Tsubame's pity (`adv_dear_atbm_016` L127–L170), and Tsubame concedes, in a muttered spoken line whose speaker label is hidden, that her present self cannot reach Shion's heart (L278). Tsubame then challenges Gekka, who agrees to reconsider her own idol model if Tsubame wins (`adv_dear_atbm_018` L113–L123). After Gekka concedes defeat, Shion insists that she will not be saved by Tsubame, and Gekka takes Shion home to straighten her out (`adv_dear_atbm_019` L54–L154). By Dear 023 Gekka trains Shion daily and credits Tsubame with having changed her (`adv_dear_atbm_023` L245–L264, L414–L420). Tsubame's hero principle works indirectly here, without coercing Shion.
+The D-TSUBAME outcome records refusal and changed involvement (GKM-SAA-096; 2026-11-15). Shion rejects Tsubame's pity (`adv_dear_atbm_016` L127–L170), and Tsubame concedes, in a muttered spoken line whose speaker label is hidden, that her present self cannot reach Shion's heart (L278). Tsubame then challenges Gekka, who agrees to reconsider her own idol model if Tsubame wins (`adv_dear_atbm_018` L113–L123). After Gekka concedes defeat, Shion insists that she will not be saved by Tsubame, and Gekka takes Shion home to straighten her out (`adv_dear_atbm_019` L54–L154). By Dear 023 Gekka trains Shion daily and credits Tsubame with having changed her (`adv_dear_atbm_023` L245–L264, L414–L420). Gekka crediting Tsubame makes the influence explicit in Gekka’s account. Shion later says she was avoiding Gekka and resents having to take daily lessons (Dear 034 L98–138). The record leaves reciprocal repair and Shion’s consent open.
 
 ### Shion synthesis
 
@@ -692,9 +706,9 @@ A core character who can answer Shion has usually developed enough self-authorsh
 
 ## 4.2 `白草月花`: external standard, world horizon, and scouting authority
 
-The Japanese-name identity `白草月花` is authoritative in this corpus; prior analytical artifacts vary in romanization between Gekka/Tsukika. Until transliteration is independently locked, this document preserves the Japanese identity and uses **Gekka** as the working English shorthand because it is already common in the V2 artifacts.
+The Japanese-name identity `白草月花` is authoritative in this corpus; prior analytical artifacts vary in romanization between Gekka/Tsukika. A recorded pronunciation in the corpus supports **Gekka** as the series romanization.
 
-Metadata basis (GKM-SAA-261; 2026-11-15): the A1 scripts give 月花 no ruby, and her actor and voice-asset code is `sgka` (for example `sud_vo_adv_dear_atbm_004_sgka-001`), which supports the reading Gekka; the form "Tsukika" is not attested in A1. The corpus therefore harmonises on 白草月花 with Gekka as its single working romanization. An official reading would still need a credited source.
+Metadata basis (GKM-SAA-261; 2026-11-15): the A1 scripts give 月花 no ruby, and her actor and voice-asset code is `sgka` (for example `sud_vo_adv_dear_atbm_004_sgka-001`), which supports the reading Gekka; the form "Tsukika" is not attested in A1. The corpus therefore harmonises on 白草月花 with Gekka as its single working romanization. A later [recorded name control](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIRAKUSA_GEKKA_SOURCE_AND_SCOPE.md#recorded-speech-and-name) identifies Sena’s `しらくさ げっか` at 28:03 in the exact alternative Kotone Dear compilation. A credited spelling remains separate.
 
 Gekka's repeated function is external legitimacy.
 
@@ -728,7 +742,7 @@ This provides a clean cross-system rule:
 
 > **Domain expertise does not transfer automatically into relationship expertise.**
 
-**Further witnesses (GKM-SAA-020, GKM-SAA-096) — 2026-11-15.** Two Dear routes add evidence beyond `story_0105`. In D-RINAMI, Gekka calls Shion 「愚妹」 ("foolish younger sister"; `adv_dear_hrnm_018` L97; `adv_dear_hrnm_031` L142, L180) and justifies the word by Shion's straying from the idol's proper path of pleasing fans and wasting her gifts and environment (031 L217–L224). Rinami tells Gekka not to use such a word for her own sister (L209), applying her relational idea of sisterhood to Gekka herself. In D-TSUBAME, Gekka takes Shion home and trains her daily after losing to Tsubame (§4.1, "Through Tsubame"). That is a second witness of sister repair, bound to D-TSUBAME and separate from `story_0105`; it does not erase the managerial contact pattern of the support story.
+**Further witnesses (GKM-SAA-020, GKM-SAA-096) — 2026-11-15.** Two Dear routes add evidence beyond `story_0105`. In D-RINAMI, Gekka calls Shion 「愚妹」 ("foolish younger sister"; `adv_dear_hrnm_018` L97; `adv_dear_hrnm_031` L142, L180) and justifies the word by Shion's straying from the idol's proper path of pleasing fans and wasting her gifts and environment (031 L217–L224). Rinami tells Gekka not to use such a word for her own sister (L209), applying her relational idea of sisterhood to Gekka herself. In D-TSUBAME, Gekka takes Shion home and trains her daily after losing to Tsubame (§4.1, "Through Tsubame"). That gives a separate D-TSUBAME account of increased involvement, with reciprocal repair still open. In Dear 034 L62–138 Shion disputes Gekka’s view of her relation to Tsubame and reports trying to avoid her sister. The [Gekka portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_SHIRAKUSA_GEKKA.md) keeps these responses separate from the earlier support story’s managerial contact.
 
 ## 4.4 Nadeshiko: inherited power and miscalibrated brokerage
 
@@ -743,6 +757,8 @@ This is a valuable Phase-6 correction:
 > **Brokerage is not good merely because the broker wants reconciliation.**
 
 A broker must have an accurate model of the blocked edge and permission to intervene.
+
+The [Aoi Nadeshiko portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_AOI_NADESHIKO.md) follows those two patterns alongside her hospitality to a visitor and her private reactions when rivals offer care. In China’s Dear route she says herself that she uses Aoi resources to discourage rivals’ fans. In Kanae’s Dear route she invokes loyalty to an unnamed elder while China welcomes the attention paid to Kanae. The Shirakusa support leaves her interpretation of Shion’s discomfort and Shion’s actual refusal distinct. The [reviewed evidence scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_AOI_NADESHIKO_SOURCE_AND_SCOPE.md#hospitality-and-performed-voice) binds the voiced corridor and Sumika exchanges to separate recording editions.
 
 ## 4.5 Kuroi: institutional rivalry includes acquisition, not just comparison
 
@@ -764,11 +780,13 @@ SL1.0 Dear sources give the rival institution an identity that v2.0 built only f
 - **The school.** 極月学園 is a small elite school funded by 961 Pro in Sena's words (C1 @ D-TSUBAME, `adv_dear_atbm_012` L125) and founded by 961 Pro in Mao's words (C1 @ D-MAO, `adv_dear_amao_013` L180). The difference between 出資 (funding) and 設立 (founding) is kept as stated.
 - **Kuroi's office.** Kuroi is its 理事長 (board chairman). Shion addresses him so in the Dear 010-01 cutaway that recurs across routes (for example `adv_dear_kcna_010-01` L98–L112; `adv_dear_hume_010-01` L113–L127; `adv_dear_ttmr_010-01` L146–L160), and the Producer calls him 黒井理事長 (`adv_dear_jsna_011` L28).
 - **Direct recruitment.** In D-UME, Kuroi tells the Producer to bring Ume to 961 Pro; the Producer refuses before a three-way choice of reasons, so the refusal is invariant (`adv_dear_hume_016` L28–L35). In Dear 035 the Producer confirms repeated poaching offers for Ume, from 961 Pro and many other agencies; Ume names 100 Pro as her first choice while admitting that competing against Hatsuboshi from 961 had tempted her (`adv_dear_hume_035` L148–L263). 961 is therefore a live alternative that Ume weighs.
-- **Branch statements.** In one branch of the refusal the Producer says 961 Pro does not employ producers (L38); in another Kuroi complains about Hatsuboshi's "false lessons" on him and sends a message to 「あの老いぼれと冷血漢」 (L45–L49). Both are C3 choice-branch content and the speakers' own assertions. The text does not name the old man or the cold-blooded man, and this synthesis does not resolve them from other scenes. In D-CHINA, Hatsuboshi does teach a course on 961-style production: China reads its syllabus title (`adv_dear_kcna_010-01` L83).
+- **Branch statements.** In one branch of the refusal the Producer asks whether 961 Pro employs people under the title of Producer (L38); in another Kuroi complains about Hatsuboshi's "false lessons" on him and sends a message to 「あの老いぼれと冷血漢」 (L45–L49). The role question, compliance protest and separate compensation exchange (L52–L56) are each C3 choice content. The text does not name the old man or the cold-blooded man, and this synthesis does not resolve them from other scenes. In D-CHINA, Hatsuboshi does teach a course on 961-style production: China reads its syllabus title (`adv_dear_kcna_010-01` L83).
 - **N.I.A.** In D-MAO, Gekka says that the organiser, 961 Pro, approves her irregular challenge (`adv_dear_amao_018` L250), and the Producer speaks of N.I.A.'s organiser (L284). Route-scoped, 961 is an organiser of N.I.A.; compare the headmaster's account of its planning in §2.4 and in the spine reading §4.2.
 - **SyngUp.** In D-TEMARI, Misuzu reports that Rinha has left Hatsuboshi for 961 Pro (`adv_dear_ttmr_010-01` L122–L132), and the Producer reads 961's intent as fielding her in N.I.A. (`adv_dear_ttmr_011` L114–L118). Thanked by the Producer, Kuroi answers that SyngUp! will now come to him whole (`adv_dear_ttmr_026` L224–L225). Rinha's own "end-of-career" account is adjudicated in the Rinha evidence matrix (RINHA-C023, RINHA-C024).
 
 Kuroi is therefore a person with institutional authority, chairman of a 961-backed school linked to 961 Pro's recruitment and to N.I.A., and not only a support-story scout.
+
+The [Kuroi portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KUROI.md) follows his recruiting offers, work with scouts and scrutiny of Gekka’s unanswered messages. The Producer identifies him as Gokugetsu’s chairman and 961 Pro’s president in Saki Dear 013 L169. In Temari Dear 025 the Producer says he promised that Temari and Misuzu would transfer after graduation if their side lost against Rinha’s side. Temari objects to the promise and later declares her own win against Rinha in Dear 026 L289. The [reviewed source scope](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_KUROI_SOURCE_AND_SCOPE.md#k6-sound-credits-and-gate-e) confirms the played compliance reply in a separately published Ume Dear 016 recording. The other two choices remain written evidence.
 
 ## 4.6 Gokugetsu as a counterinstitution
 
@@ -902,6 +920,8 @@ Second, Tsubame explicitly preserves her refusal right. Broadcasting meaning bec
 
 Yu therefore models a useful form of **institutional permeability without identity capture**.
 
+**Yu’s choice of work (2026-11-25).** Before the formal interview, Tsubame asks if Sena has put Yu up to the assignment. Yu says she was asked and is glad to help (`adv_csprt-3-0104_02` L10–34). Afterward Tsubame explicitly says she can decline further work. Yu explains that bringing idols’ appeal to an audience is rewarding and credits Sena with helping her discover that. Only when Sena proposes additional jobs does Yu ask her to go easy. Tsubame adds her encouragement afterward (`adv_csprt-3-0104_03` L56–85,101–128). The [reviewed portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_MASHIRO_YU.md) relates that exchange to the way Yu asks about injuries, hesitates to interrupt a meal and approaches Saki and China when she hears her name. The [evidence appendix](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_MASHIRO_YU_SOURCE_AND_SCOPE.md#speech-music-and-limits) records the separate question of how she sounds in the broadcast.
+
 ## 5.6 Fans, students, and ordinary-course clubs as weak-tie evidence
 
 Unnamed fans and student groups should generally remain collective actors unless individual evidence becomes durable.
@@ -964,15 +984,17 @@ The current evidence is inconsistent with reducing Rinha to:
 
 Her later H.I.F. interiority alone establishes that the festival and past relationships still matter to her. Future dissolution-live coordination shows that she can participate in ending-work without requiring unit restoration.
 
-But Phase 6 must stop here.
+The original Phase 6 reading stopped at this structural account. It called for a source inventory that named viewpoint and continuity and distinguished Rinha's own conduct from other characters' accounts.
 
-The next operation must inventory every unique Rinha source, label viewpoint and continuity state, and distinguish direct evidence from observer construction before promoting a stable personality model.
-
-### Current structural formulation
+### Historical structural formulation
 
 > **Rinha is a distributed relational hinge whose actions and remembered presence alter Temari, Misuzu, Saki, Ume, SyngUp, H.I.F., and Gokugetsu-facing interpretation. Her importance is already canonical; her definitive person-level model is not.**
 
+**Current scope at Source Lock 1.2.** The independently accepted [Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) and its [recorded-scene adjudication](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md) supersede this provisional status. The targeted perceptual gate covers eighteen selected scenes and supports Phase 6 closure at this boundary. The separate whole-container C073 requirement remains open. The dossier distinguishes Rinha’s actions and speech from memories and judgments attributed to other characters.
+
 ---
+
+**Rinha’s own uses for the stage (2026-11-25).** The distributed dossier supplies a direct comparison for this earlier structural account. In Misuzu Dear 024, after delighting in the merchandise she bought, Rinha speaks as a fan who will withhold the title of idol even from herself when resolve or heart is missing. Misuzu assigns that judgment to the fans and says she will wait for Rinha. In the third part of the festival support story, Rinha asks Ume to sing away a worry she has carried for a long time. Ume calls that an idol’s job. The sequence ends with Ume’s answer. Rinha can set a demanding standard for performers and place herself in the audience when she needs something a singer can give her. The content of the worry and the success of the requested performance remain open. (`adv_dear_hmsz_024.txt` L496–514, L522–586, L619–623; `adv_csprt-3-0097_03.txt` L124–154.) [Kaya Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md)
 
 # 7. Secondary distributed figures: small line counts can still carry large counterfactual weight
 
@@ -1004,11 +1026,13 @@ Current use:
 
 Cross-link (GKM-SAA-074; 2026-11-15): the supporter path is one that Rinami herself considered. Before meeting the Producer she found student-council work for idols enjoyable and fulfilling, and thought that supporting idols might be enough if she never turned professional (M-RINAMI, `adv_cidol-hrnm-3-013_03` L54–L74). In 017_02 her inner speech wonders whether support work suits her better than idolhood, while her body kept training (`adv_cidol-hrnm-3-017_02` L134–L209). Kana's differentiated future is therefore also Rinami's road not taken. The valuation of support stays two-sided: a real vocation and a temptation to self-erasure.
 
+**Kana’s separate choice of work (REVISE) — 2026-11-25.** Kana reports enjoying support for idols and wanting to study stage direction. The evidence for aptitude comes from her account. Her attendance at the festival shows one way to support Rinami now (`adv_dear_hrnm_022` L40–73 and `adv_dear_hrnm_033` L172–218). Rinami’s separate Event 028 report describes similar plans for an unnamed leader; the identification and later professional work are open. The [reviewed portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_FORMER_LOVE_SISTERS_KANA.md) establishes Kana’s own conduct and its written scope. The “later stage-direction path”, “adjacent professional competence” and “differentiated professional futures” earlier in this section therefore describe a stated plan and self-assessed aptitude, not an established career.
+
 ## 7.3 `owl`
 
 The former Hatsuboshi idol admired by Hiro functions as a historical model of constructed idol persona and collaborative/public artifact.
 
-The figure is less important as a fully reconstructable person than as evidence that Hiro's idol imagination has predecessors outside the immediate cast.
+The admitted record also supports owl’s own differentiated conduct. In her appointment with China she prescribes a particular amount of work, then recognizes that the pupil’s successful interpretation differs from her model. With Hiro she accounts for a public role built in collaboration and sets limits on how far the junior should generalize the advice. The [current owl portrait](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_OWL.md) and [recorded limits](../07_DEFINITIVE_CHARACTER_MONOGRAPHS/GKM_OWL_SOURCE_AND_SCOPE.md#recorded-and-authored-voice) retain the exact unvoiced greeting and distinguish it from other speakers’ heard accounts.
 
 This broadens Hiro's cultural genealogy beyond Producer + classmates + current summit.
 
@@ -1358,36 +1382,30 @@ Mashiro, fans, workers, vendors, ordinary-course clubs, and unnamed observers pr
 ## OPEN
 
 - exact independent motives of several Gokugetsu actors across all contexts;
-- transliteration lock for some Japanese-name side characters where prior artifacts differ (白草月花 harmonised on Gekka from `sgka` metadata, §4.2, GKM-SAA-261; an official reading remains open);
+- credited spelling for some Japanese-name side characters where prior artifacts differ (白草月花 has `sgka` metadata and a recorded Gekka name control, §4.2; a credits-page spelling remains open);
 - full internal mechanics of 100Pro and its relation to Hatsuboshi (narrowed 2026-11-15: 100 Pro's president is Sena's father and the headmaster's son, and the headmaster attributes N.I.A.'s planning to Kuroi and, by inference, that son, §2.4, GKM-SAA-033; contracts, recruitment terms and H.I.F. authority remain open);
 - consistent H.I.F. judging membership/rubric;
 - broader family interiority for several core idols;
 - long-term fate and current independent vocation of several former unitmates;
-- complete Rinha personality model pending mandatory Phase-6 branch.
+- Rinha's undisclosed motives, final post-unit goal and the outcome of the planned dissolution live at the [accepted dossier's source boundary](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md).
 
 ---
 
 # 13. Priority side-character authority map
 
-The following is the current recommended retrieval hierarchy.
+The tiers record the side-character pass's original priorities. Kaya Rinha's completed reconstruction is routed below.
 
-## Tier S - dedicated Phase-6 reconstruction required
+## Tier S - dedicated Phase 6 reconstruction
 
 ### Kaya Rinha / 賀陽燐羽
 
-Current authority for person-level use remains **distributed and provisional** until:
-
-1. `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`
-2. `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`
-3. `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`
-
-are complete.
+Begin person-level retrieval with the [accepted dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md). Use the [source crosswalk](GKM_KAYA_RINHA_SOURCE_CROSSWALK.md) for viewpoint and continuity and the [evidence matrix](GKM_KAYA_RINHA_EVIDENCE_MATRIX.md) for claim dispositions. The [audiovisual adjudication](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md) gives the guard for the recorded scenes.
 
 ## Tier A - high-value recurring side figures
 
 - Neo Asari / 根緒亜紗里
 - Shirakusa Shion / 白草四音
-- 白草月花 / working shorthand Gekka
+- Shirakusa Gekka / 白草月花
 - Hiwatari Kanae / 氷渡香名江
 - Juo Kunio / 十王邦夫
 - Juo Ryuusei / 十王龍正 — 十王社長, 100 Pro president, Kunio's son and Sena's father (one entity, §2.4, GKM-SAA-033)
@@ -1492,7 +1510,7 @@ How a character treats a vendor, journalist, child, stranger, worker, or ordinar
 
 10. Which Shion traits survive outside adversarial contexts?
 11. How does Gekka behave when she is not evaluating, competing, or training?
-12. What exactly is Kuroi's institutional role and authority? (Partly answered 2026-11-15: he is 理事長 of the 961-funded or 961-founded 極月学園, recruits for 961 Pro, and is linked to N.I.A.'s organisation, §4.5, GKM-SAA-035, GKM-SAA-236. His formal position inside 961 Pro and his private motives remain open.)
+12. What exactly is Kuroi's institutional role and authority? (Partly answered 2026-11-15: he is 理事長 of the 961-funded or 961-founded 極月学園, recruits for 961 Pro, and is linked to N.I.A.'s organisation, §4.5, GKM-SAA-035, GKM-SAA-236. The later person-level review has identified him as 961 Pro’s president from Saki Dear 013 L169. The internal reach of that authority and his private motives remain open.)
 13. How much of Nadeshiko's coercive behavior is personal versus systemic?
 14. How does the Gekka/Shion sibling relation look from Shion's direct perspective across more than `story_0105`?
 
@@ -1510,6 +1528,8 @@ How a character treats a vendor, journalist, child, stranger, worker, or ordinar
 21. Where do Temari, Misuzu, and Saki disagree about Rinha?
 22. What does Rinha do in contexts where none of those three is the primary relational center?
 23. Which direct scenes justify a dedicated AV baseline/request artifact?
+
+**Resolution at the November 2026 boundary.** The [Rinha crosswalk](GKM_KAYA_RINHA_SOURCE_CROSSWALK.md) and [claim matrix](GKM_KAYA_RINHA_EVIDENCE_MATRIX.md) distinguish named speech from memory, masked attribution and observer testimony. The [recorded-scene adjudication](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md) accounts for eleven priority and seven supplementary scenes. The [dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) answers the person-level questions at their respective route boundaries, while keeping undisclosed motives, a final post-unit goal and the outcome of the dissolution live open.
 
 ---
 
@@ -1554,24 +1574,22 @@ That is the difference between a socially embedded character model and a protago
 
 # 17. Phase-6 routing and next operation
 
-With this artifact complete, the architecture-defined major relationship syntheses and the side-character synthesis are all complete.
+**Current status.** [Phase 6 is closed at Source Lock 1.2](../CURRENT_STATE_AND_CORPUS_MAP.md#phase-6-completion-at-source-lock-12--2026-11-25). The [Rinha dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) is the person-level input for the separate Temari and Misuzu monograph readiness decisions.
 
-Phase 6 must **not** close yet.
+**Historical planning checkpoint.** When this side-character synthesis was completed, the major relationship syntheses were also complete. Kaya Rinha's distributed-character reconstruction was the remaining Phase 6 branch.
 
-The mandatory remaining branch is Kaya Rinha distributed-character reconstruction.
-
-The next canonical operation is:
+The first required deliverable at that checkpoint was:
 
 `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`
 
-It must inventory unique canonical source objects, continuity/viewpoint state, direct-versus-mediated evidence type, relationship tags, and AV/public-retrieval routing before the evidence matrix or dossier is written.
+The plan called for an inventory of unique canonical sources, continuity and viewpoint, direct and mediated evidence, relationship tags, and audiovisual and public retrieval routes before the follow-on work.
 
-After the crosswalk:
+The next deliverables in that plan were:
 
 1. `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`
 2. `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`
 
-must be completed sufficiently to prevent the definitive Temari/Misuzu monographs from depending only on host-character perception.
+Their purpose was to give the eventual Temari and Misuzu monographs a source-grounded account of Rinha alongside their own perspectives.
 
 ---
 

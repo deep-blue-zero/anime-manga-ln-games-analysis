@@ -12,12 +12,16 @@ do_not_use_as_current_authority: false
 last_updated: '2026-08-17'
 title: Gakuen Idolmaster V2 — Shiun Sumika Phase-3 AV Revision Addendum
 parent_authority: GKM_CORE_09_SHIUN_SUMIKA.md
-version: "2.1"
-revised: "2026-11-15"
+version: '2.2'
+revised: '2026-11-25'
 revision_note: "v2.1 source-to-analysis audit 2026-11-15 correction (REVISE, textual scope only): the Love & Joy coauthorship row now records domain-split authorship (GKM-SAA-131); AV results unchanged and no new AV review"
 ---
 
 # SHIUN SUMIKA — PHASE-3 AV REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+The E001 label リーリヤ？ does not authorize a Lilja performance or a collective actor inference. Sumika's single `ssmk-018` cue is played as a raised, breathier imitation in the paired edition. Temari's P5 sharper recollection is her own wording. This adds a local instance of strategic unseriousness to the distinct ordinary brightness model. The direct Lilja-to-Sumika partnership proposal remains scoped to Lilja Dear 027, and the separate Dear 037 still condition and romance ceiling control the downstream claim. See [the current scene and scope revision](../../../05_AUDIOVISUAL_ANALYSIS/09_SHIUN_SUMIKA/GKM_SUMIKA_CARBON_AV_UPDATE_20261125.md).
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** The front matter carried no version key; the 2026-08-17 addendum is treated as v2.0. **REVISE (textual scope):** the `Love & Joy` coauthorship row gains a dated scope note from GKM-SAA-131; the earlier cell wording is kept verbatim at the start of the cell. No AV result was changed and no audiovisual evidence was inspected for this revision.
 
@@ -43,3 +47,11 @@ This addendum routes the textual Phase-3 hypotheses into their post-AV state. It
 ## Current integrated capsule
 
 > **Shiun Sumika is the idol of self-authored expectation, realized audiovisually through kinetic self-authorship. Her development does not replace a false gyaru with a serious true self. It teaches her to use authentic brightness, protected stillness, ballet-derived craft, differentiated relationship, and **reversible register permeability** as chosen forms of address: vulnerability can stand, support can be received, and brightness can return without erasure.**
+
+## Guarded care, chosen company and a summer photograph — 2026-11-25
+
+The Event 003 part 05 clip separately presents the shutter, Sumika’s account of photographing Mao’s expression, and her suggestion of a group photo. Mao’s response to the description and later swimsuit embarrassment are distinct. Permission and the pictured result remain open. The later group photo and sharing have separate written locators. This is contextual support for Sumika's conduct. [Guarded care and summer adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md#maos-summer-and-sumikas-camera)
+
+## Guarded Event 012 evidence — 2026-11-26
+
+**STRENGTHEN within the named guards.** Sumika’s quiet inward account of fear contrasts with the brighter assurances she gives Lilja. She later tells Saki that the confrontational exchange let her seek advice. The original script and caption print ぼきり, while the listeners transcribe ぽきり. The earlier ellipsis and heard breathing retain separate nameplate and audio assignments. The underlying cause, precise consonant and others’ access to the inward line remain open. Sumika asks Lilja quietly for support and acknowledges wanting to stand beside her. She agrees to Lilja’s request and later speaks more brightly about what they might do together. Her inward final line gives being beside someone as a reason to keep running. The line’s companion remains unnamed. The script assigns only Lilja and Sumika to the preceding layered group cue, with individual contributions to the mix unresolved. [Guarded Event 012 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)

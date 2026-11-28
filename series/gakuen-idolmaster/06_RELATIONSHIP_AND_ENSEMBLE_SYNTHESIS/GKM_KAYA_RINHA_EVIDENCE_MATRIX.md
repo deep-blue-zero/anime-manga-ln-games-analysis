@@ -5,24 +5,29 @@ analytical_role: distributed_character_claim_adjudication
 scope: KAYA_RINHA
 generation: V2
 status: canonical
-source_boundary: GAKUMAS V2 Source Lock 1.0 — corrected Kaya Rinha crosswalk of 118 deduplicated canonical source objects / 6,709 containing messages; 43 objects contain 620 logical Rinha dialogue messages after tagged-speaker parser correction; prior Phase-6 Systems I and side-character synthesis used only as claims-to-audit, not substitutes for primary evidence
-source_lock: GAKUMAS V2 Source Lock 1.0
-source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
-source_revision: 32
+source_boundary: Historical Source Lock 1.0 claim matrix with separately labelled Source Lock 1.1 witnesses anchored at admitted Source Lock 1.2, plus registered November recorded-scene evidence
+source_lock: GAKUMAS V2 Source Lock 1.2
+source_commit: f8ff5ef7b243f2f7e3b2723def31072874539ca9
+source_revision: 88
+historical_matrix_source_lock: GAKUMAS V2 Source Lock 1.0
+historical_matrix_source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
+historical_matrix_source_revision: 32
 governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 governing_crosswalk: GKM_KAYA_RINHA_SOURCE_CROSSWALK.md — Drive 16LQV0l604NU3E6-c5qusD7sy66xzu99a
 created: '2026-08-24'
-last_updated: '2026-09-11'
-version: '2.1'
-revised: '2026-11-15'
-revision_note: 'Source-to-analysis audit 2026-11-15 corrections (STRENGTHEN, with OPEN annexes): adds RINHA-C074 on Misuzu''s pre-transfer estrangement from Rinha (inference-labelled, dissent recorded), routes the masked-speaker D-MISUZU 019 voice to C058/C045 as an OPEN witness, and adds a public-perception note to C001 and §6.1; the 73 inherited dispositions and the AV gate are unchanged'
+last_updated: '2026-11-25'
+version: '2.2'
+revised: '2026-11-25'
+revision_note: '2026-11-25: scopes recorded performance claims to the verified scenes, retains the 1.0 scope and the 1.1 textual additions, and adjudicates C073 at the matched-passage level. The whole-container promotion remains open.'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 # GKM KAYA RINHA EVIDENCE MATRIX
+
+> **Revision v2.2, 2026-11-25.** The historical 1.0 matrix and 2026-11-15 additions remain below. The [perceptual claim revisions](#recorded-scene-adjudication--2026-11-25) govern the affected claims and cite the subsequent recorded evidence and separately admitted 1.1 witnesses. Read the [person-level dossier](GKM_KAYA_RINHA_CHARACTER_DOSSIER.md) for synthesis. The recorded-scene gate has a narrower scope than the historical whole-container promotion under C073.
 
 > **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** The file had no version key before this revision; its text is treated as v2.0. STRENGTHEN: new claim RINHA-C074 (GKM-SAA-158; inference-labelled, with the HSCA-119 dissent recorded); public-perception note on C001 and §6.1 (GKM-SAA-290). OPEN witness added to C058 and C045: the masked-speaker `krnh` voice in D-MISUZU 019 (GKM-SAA-117, GKM-SAA-242). The 73 inherited claim IDs and dispositions are unchanged; the matrix now holds 74 claims. Displayed-name counts (620 messages) are unchanged; the crosswalk records the separate actor-resolved figure. Direct listening, continuous-motion review, C073 and the dossier perceptual gate remain open.
 
@@ -32,7 +37,7 @@ do_not_use_as_current_authority: false
 
 This is the second mandatory artifact in the Phase-6 distributed reconstruction of **Kaya Rinha / 賀陽燐羽**. The source crosswalk answers **where Rinha evidence exists**. This matrix answers **what that evidence can prove, what it cannot prove, which earlier formulations survive, and which claims require audiovisual adjudication before they can be promoted into the character dossier**.
 
-This document is canonical for **claim status and promotion ceilings** inside the current Source Lock 1.0 boundary. It is not yet the holistic Rinha character dossier. It deliberately keeps route-conditioned self-report, observer report, memory, and present support evidence separate whenever collapsing them would manufacture a single false biography.
+This document is canonical for **claim status and promotion ceilings**. Its original evidence body operates at Source Lock 1.0. Later 1.1 text and recorded-scene adjudications are explicitly dated. It deliberately keeps route-conditioned self-report, observer report, memory, and present support evidence separate whenever collapsing them would manufacture a single false biography.
 
 The governing rule remains:
 
@@ -430,7 +435,7 @@ The corrected direct density (43 objects / 620 messages) is well above the thres
 | --- | --- | --- |
 | Temari Dear 015 | C034–C035, C067–C070 | whether denial of martyr framing is flat, angry, ashamed, or affect-leaking; public-blame discussion |
 | Temari Dear 016 | C009, C012–C014, C057, C070 | retirement/fan handoff + Temari tears + Rinha emotional disruption |
-| Temari Dear 020 | C030, C073 | rare Rinha interiority and transition back into coaching |
+| Temari Dear 020 | C030, C073 | Rinha’s memory of forming SyngUp! and a distinct current training direction to Shion and Nadeshiko. [Source and addressee check](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md#dear-020-memory-and-present-addressees). |
 | Misuzu Dear 016 | C009, C012, C033, C058 | “not an idol” self-state, dream-wound challenge, old-peer intimacy/conflict |
 | Misuzu Dear 024 | C011, C018, C054, C066–C073 | fandom versus self-disqualification; professional severity; ordinary banter |
 | Saki Dear 026 | C005–C008, C033, C059, C070 | longest autobiographical disclosure; grief/shame/self-blame versus analytical narration |
@@ -527,7 +532,7 @@ Until AV backfill and dossier synthesis are complete, a conservative Rinha simul
 
 ## 12. Claim-register summary
 
-This matrix adjudicates **73 bounded claims** (74 since 2026-11-15, when RINHA-C074 was added under GKM-SAA-158; the 73 inherited dispositions are unchanged). The dominant result is not wholesale rejection of prior Phase-6 work; it is **precision gain**. Systems I’s relationship-level conclusions largely survive and strengthen, while person-level shortcuts become narrower:
+This matrix adjudicates **73 bounded claims** (74 since 2026-11-15, when RINHA-C074 was added under GKM-SAA-158; the original dispositions are recoverable above, with current audiovisual revisions in the dated section below). The dominant result is not wholesale rejection of prior Phase-6 work; it is **precision gain**. Systems I’s relationship-level conclusions largely survive and strengthen, while person-level shortcuts become narrower:
 
 - “former leader” → teacher/rival/organizer/fan/attachment figure with direct interiority;
 - “no idol passion” → severe self-disqualification after an exhausted inherited dream, contradicted by continuing idol desire/affect without yet yielding a new final telos;
@@ -549,7 +554,7 @@ This matrix adjudicates **73 bounded claims** (74 since 2026-11-15, when RINHA-C
 - P0/P1 discriminating scene set defined;
 - dossier-safe and dossier-forbidden formulations separated.
 
-### Next canonical operation
+### Next operation at the September checkpoint
 
 The owner-approved [request plan](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md) has been executed for acquisition, text/source validation, selected-mix measurement and sampled-still inspection. All 18 targets are present. The [all-claim change report](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_CLAIM_CHANGE_REPORT.md) records the 73 dispositions without claiming a complete perceptual pass.
 
@@ -561,3 +566,37 @@ The dossier remains mandatory before Phase 6 can close.
 ## Source Lock 1.1 — transcript refresh, 2026-11-12
 
 The [1.1 Rinha witnesses](GKM_KAYA_RINHA_SOURCE_CROSSWALK.md#source-lock-11--additional-rinha-witnesses) extend the evidence for repair with unresolved equivalence. Rinha recognizes Misuzu and Temari's repair and rejects the same description of her own history in the café. D-SENA separately supplies Rinha's address to Sena, deflection toward Misuzu and a prospective answer about professional rivalry. D-TSUBAME 033 supplies direct participation in the rehearsal-access exchange. The text leaves the strength of the café denial and performed tone open. Preserve the 73 inherited claim dispositions and adjudicate the 1.1 witnesses at their named story states when the relevant evidence is reviewed.
+
+## Recorded-scene adjudication — 2026-11-25
+
+The [receiver reconciliation](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) and [target evidence addendum](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md) join registered recordings to the historical and current lock. The 1.0 denominator remains 118 objects, 43 exact displayed-name speaking files, and 620 named entries. A separate actor-resolved historical count of 626 is in the crosswalk. The 28 exact Rinha messages in three added 1.1 witnesses carry their own denominator. This update retains 74 distinct claims, including C074. Unlisted claims carry forward their previous dispositions.
+
+| Affected claims | Transition | Adopted observation and remaining scope |
+| --- | --- | --- |
+| C005–C008, C033, C059, C070 | STRENGTHEN and REVISE | In Saki Dear 026, SRC-0035 1967–2305 s, the earlier play, remembered attack and present disclosure have different delivery functions. Quiet named encouragement around 2171–2182 s follows Rinha’s autobiographical account. Preserve the self-report and repudiation of substitution. Objective responsibility for Kei remains OPEN under C006. |
+| C009–C015, C018–C021, C054 | STRENGTHEN | Specific evidence distinguishes the normatively disqualified performer from the engaged fan. Misuzu Dear 024’s creed and pre-existing score coexist, SRC-0014 1297–1323 s. Support 0097 part 1 separates interior expectation at L27/L34, speaking before the journalist at L79/L89 and asking the journalist to keep quiet and wait at L118–134. Her future telos and a Prima Stella goal stay OPEN under C016/C017. |
+| C034–C035 | PRESERVE and OPEN | Temari Dear 015, XW-037, and SRC-0032 1732.2–1790.5 s support a direct, strongly resistant reply to Temari’s proposed self-sacrifice. The change in public blame survives. Mixed or primarily protective intention remains underdetermined and can be discussed only as interpretation. |
+| C036–C041, C055–C056, C058 | STRENGTHEN | SRC-0083 support parts 1–3 and the distinct SRC-0060 café establish continuing ordinary access and closure work. Misuzu commu 018 part 1 L135–279 has Rinha refuse the idea that she made up for the same reasons as the other two. Keep the completed outcome of the planned dissolution live and the earlier masked bedside voice’s physical presence OPEN. |
+| C042–C044, C046–C048, C060 | STRENGTHEN | Event 016 main-03 L26/L123 and L147–151 distinguish Temari’s present coaching from remembered Rinha’s. In Ume Dear 029 L373 and L393–395 Rinha accepts one refusal. Ume then initiates rehearsal and explicitly asks for strict critique at L462 and L468–476. The 3D scene and voiced interpretation do not convert a specific agreement into indefinite permission. |
+| C051, C052, C053 | REVISE and PRESERVE | Saki’s commu 017 part 3 L62–87 and L91–164 give different solutions from Sena and Rinha, respectively. Ume Dear 015 has recorded Rinha speech moving toward an imitation of Ume around SRC-0013 1199–1218 s and back to ordinary delivery around 1230–1231 s. Temari Dear 025 L192 and L205–214 identify Kei and a deliberately limited imitation aim. These support performance principles and local spoken changes. Exact acoustic fidelity, a sung profile and universal imitation remain unsupported. |
+| C057, C070 | REVISE | Breath catches and compromised composure are reported over the changing 2D portrait in Temari Dear 016, SRC-0032 2205–2219 s. Support 0097 part 3 moves toward a direct request and stops Rinha’s dialogue before Ume’s assent. A standard pattern of immediate hardening after disclosure does not describe these outcomes. |
+| C062–C063 | PRESERVE bounded and OPEN | SRC-0013 1466.3–1468.7 s has the staged kiss beat, printed cue and reaction, with physical contact unconfirmed in the sampled frames. Other scenes permit intimacy coding at their own scope. Romantic categorization, ownership and consent outside a specific interaction stay open. |
+| C064 | REVISE and OPEN | The inherited absence of a speaking encounter is superseded by Tsubame Dear 033 L77 and L97. Rinha asks about rehearsal access and Tsubame explains the permission. The brief exchange supplies institutional and social conduct. A developed bilateral relationship remains OPEN. |
+| C065–C072 | PRESERVE and STRENGTHEN | Lexical counts retain their historical scope. Matched hearings discriminate vocal tasks locally. Keep strong anger and professional judgments available in the model, in addition to playful, caring and defensive functions. Receiver work supports edition and frame/word attribution. Listening belongs to the paired observer sessions. |
+| C073 | STRENGTHEN for named passages, OPEN for broader promotion | Use the six-way comparison below under `ALLOW_BOUNDED`. Five of the six controls overlap the 18-target set. Two have paired original-container evidence and four now have paired native scene evidence. Whole-original completion for the commissioned PROP-0153 and unrestricted register classification remain OPEN. |
+| C074 | PRESERVE | The explicit Misuzu statement precedes the news of the transfer. The unnamed support witness retains its inference label and HSCA-119 dissent. It does not establish what Rinha wanted at that point. |
+
+### Six-way voice comparison
+
+These are matched tasks and named alternatives. Intervals are approximate positions on the source parent clock, with scene-wide coverage in the addendum. Emotional labels interpret delivered sounds and their scene function.
+
+| Task | Matched cue | Discrimination |
+| --- | --- | --- |
+| Play | P0-006, SRC-0035 1978.5–1983.5 s, Saki Dear 026 | The opening provocation belongs to an ongoing exchange with Saki. Its reported delivery and narrative role differ from the same scene’s attack recollection and sustained disclosure. |
+| Defense | P0-001, SRC-0032 1732.2–1790.5 s, Temari Dear 015 | Rinha refuses the favorable account of her taking public blame. Downward or sharper delivery can be defensive or rankled. It cannot choose between those explanations. |
+| Wounded composure | P0-002, SRC-0032 2205–2219 s, Temari Dear 016 | Breathy disruption and varying delivery accompany Temari’s need. Rinha is a 2D portrait in this edition. The portrayal gives no independent body-motion or rendered-cry evidence. |
+| Embarrassment | P1-005, SRC-0031 1244.8–1317.9 s, Temari Dear 024 | Groans follow recollections of imitation. The offer of the karaoke video brings a shouted reaction. Irritation and the later training invitation follow. The marked word 戻せて has three dots at about 1342 s. |
+| Professional severity | P0-005, SRC-0014 1297–1323 s, Misuzu Dear 024 | The grave standard for being an idol follows merchandise pleasure and keeps existing accompaniment, while the Event 016 lesson’s directives and practical remedy supply a teaching comparison. |
+| Apparent genuine anger or hostility | P0-006, SRC-0035 2121.5–2126.5 s, with P0-004 SRC-0017 1602–1606 s | The remembered attack in Saki Dear 026 has a biting delivery and memory reverb. Misuzu Dear 016 has a loud competitive retort. In the separate A1-only Temari Dear 014 L60–75, Nadeshiko experiences contempt and Rinha issues a rank insult, professional rebuke and threat. Misuzu’s favorable account at L92 is local counterevidence. Force and impact remain compatible with more than one motive. |
+
+Keep the hostile-style historical comparator beside current Ume sister-play, late Support 0097’s public warmth and need, and the negotiations of former SyngUp! peers. The six registers are comparison cases and do not predict the function of an unobserved gesture. The C073 whole-container and hidden-motive questions are carried in the [residual evidence register](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_CARBON_RESIDUAL_EVIDENCE_REGISTER.md).

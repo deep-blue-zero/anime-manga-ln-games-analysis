@@ -2,6 +2,7 @@
 title: "Gakuen Idolmaster V2 — Hanami Saki Character-Core Audiovisual Revision Addendum"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "revision addendum to Phase-3 character-core reading"
+artifact_type: claim_revision_ledger
 version: "2.0"
 phase: "3 — Character-Core Readings / Audiovisual Baseline"
 character: "Hanami Saki / 花海咲季"
@@ -12,6 +13,14 @@ status: "canonical addendum; parent core reading remains provisional until event
 ---
 
 # HANAMI SAKI CORE READING — AUDIOVISUAL REVISION ADDENDUM
+
+## Carbon carry-forward — 2026-11-25
+
+The separately matched U1 04-07 recording supports the earlier false-bravado account at its own clip clock. The U1 04-21 paired soundtrack distinguishes Saki's admission of Ume's actual physical skill from the later renewal of rivalry. In D-SAKI 033 the aloud institutional name and the loud and soft inner deliveries must retain distinct audio and A1 bindings. The earlier Carbon pass left the injury and rivalry exchange for its own playback check. [Current recorded-evidence scope](../../../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_SAKI_CARBON_PLAYBACK_SUCCESSOR.md). Earlier accounting and source locks below describe their own revisions.
+
+## Recorded support 2-0018 part 02 — 2026-11-25
+
+**REVISE.** Saki’s response to Temari’s injury includes an actionable warning and a promise to tape the sprain. She also apologizes for having pushed Temari. The audible chuckle and challenge after agreeing that Temari needs more skill show competition returning to their exchange. The view supplies no visual proof that the taping happens. Saki’s reason for agreeing remains **OPEN**. [Character audiovisual update](../../../05_AUDIOVISUAL_ANALYSIS/01_HANAMI_SAKI/GKM_SAKI_CARBON_PLAYBACK_SUCCESSOR.md#practical-care-and-renewed-rivalry-in-support-2-0018--2026-11-25)
 
 ## 0. Revision status
 
@@ -310,3 +319,19 @@ The definitive Saki monograph should retain the parent document’s core structu
 10. Events, support cards, Ume’s core pass, and cross-idol prescribed-song comparison can still revise scope and ethics.
 
 The audiovisual baseline therefore changes the Saki model from a principally textual theory of constructed indomitability into a **multimodally demonstrated performance system**.
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+Saki speaks a lyric about an unseen future, then sets an audience goal and asks the group to rest. The listening scope includes the ending of her earlier conclusion. It leaves its opening outside the window. Saki says the performance felt shared with the audience. She encourages Ume’s wish to try more covers and answers her in spoken wordplay. The audience and performance reach this exchange through the participants’ accounts. [Guarded Event 026 and support comparison](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Recorded exchange and scope — 2026-11-26
+
+Saki’s delivery gathers force as she moves from a judgment about the present Sena to her own promise to become an example. Her disappointment and the new challenge belong to the same address. Sena’s later decision about recruitment remains a separate exchange. [Guarded Event 005 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md#saki-challenges-the-present-sena)
+
+## Guarded Event 012 evidence — 2026-11-26
+
+**STRENGTHEN within the named guards.** Saki projects her call and criticizes the inefficiency she has been watching as a friend. She offers instruction as an order to become her pupil, and the listeners distinguish her firm condition for withdrawing the offer. Lilja’s explicit request for Saki to teach her supplies the response in this exchange. Saki’s use of 免罪符 echoes Lilja’s inward word for the player. No in-story access follows from the echo. Saki’s recalled demand that Sumika tell her everything is direct and weighted. Later she says she had noticed the change in a respected rival and could not see its trigger. She says she wanted to help if something kept Sumika from trying despite wanting to. The listeners hear a brighter shift on calling the others her friends. The earlier pressure, the later account, and Sumika’s response have their own evidence. [Guarded Event 012 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Ume’s proposals, relationship labels and terms of approach
+
+**STRENGTHEN SAKI-C20** for one delivered comparison of friendship and sisterhood. The paired answers distinguish what Saki explicitly calls the two relationships in that support story. A general ordering of the two relationships remains open. [Guarded Ume adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#asking-to-be-a-friend-and-proposing-a-contest).
