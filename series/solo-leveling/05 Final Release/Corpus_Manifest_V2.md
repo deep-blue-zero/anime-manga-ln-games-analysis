@@ -38,7 +38,7 @@ The following paths preserve V1 as published analytical history. The V2 successo
 | `90 Legacy and Superseded/V1 Analysis/04 Specialist Synthesis/12_COMPARATIVE_REFERENCE_MATRICES_AND_FINAL_QUESTIONS.md` | `04 Specialist Synthesis/12_COMPARATIVE_REFERENCE_MATRICES_AND_FINAL_QUESTIONS_V2.md` |
 | `90 Legacy and Superseded/V1 Analysis/03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md` | `03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER_V2.md` |
 
-The V2 methodological amendment retains the full V1 frameworks as foundations and corrects the source and evidence provisions where they affect the new edition. The Phase 1 identity audit and final Phase 3 evidence audit remain retrievable, with the corrected evidence and report giving their subsequent dispositions. The five provisional V1 model artifacts have no successor model in this release.
+The V2 methodological amendment retains the full V1 frameworks as foundations and corrects the source and evidence provisions where they affect the new edition. The Phase 1 identity audit and final Phase 3 evidence audit remain retrievable, with the corrected evidence and report giving their subsequent dispositions. At publication the five provisional V1 model artifacts had no successor model. On 2026-11-27 the Sung Jinwoo model received a V2 revision, `04 Specialist Synthesis/SUNG_JINWOO_CHARACTER_RECONSTRUCTION_MODEL_V2.md`, and the V1 model moved to `90 Legacy and Superseded/V1 Analysis/04 Specialist Synthesis/`. The revision is outside the exact V2 artifact table below. The other four models still have no successor.
 
 ## Historical release integrity
 
@@ -60,7 +60,7 @@ Paths are relative to `series/solo-leveling/`. [Artifact_Checksums_V2.sha256](Ar
 | `03 Evidence and Crosswalk/Solo_Leveling_Corrected_Correspondence_Map_v2.json` | 20,705 | `c6cd376f93c189a849081820610ec63c1d7a140f7a1dd2cdfc5c6b5aa90ccbc8` |
 | `03 Evidence and Crosswalk/Solo_Leveling_Corrected_Correspondence_Map_v2.md` | 16,566 | `2bcd6e0ea3b59f7944ad69a40d8f1c549107322c2f9f300a5154e92b6adf18d7` |
 | `03 Evidence and Crosswalk/Solo_Leveling_V2_Claim_Revisions.md` | 71,812 | `916f31335cb8d22e78045cc577cd7b1fd480ca7767a432e880e514a06bc3b2a5` |
-| `04 Specialist Synthesis/00_README_AND_CORPUS_MAP_V2.md` | 17,178 | `0e85fb14d861d6e16b29f0be68ced8af5069a67f96b1f13f4f5716452b52ffa2` |
+| `04 Specialist Synthesis/00_README_AND_CORPUS_MAP_V2.md` | 17,427 | `8b84282286d6356dcccc3742e61bed45c1692264d72a9170422e0c891eafb6b2` |
 | `04 Specialist Synthesis/01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION_V2.md` | 68,110 | `3377668c706d81f981ef86f8a2b98699da1db9dce27e663d34c55db6c0d898ae` |
 | `04 Specialist Synthesis/02_SUNG_JINWOO_CHARACTER_DEEP_DIVE_V2.md` | 110,421 | `881356dd358efff476df8984d49149a920f6461a824435ebd03a180cd1d111d1` |
 | `04 Specialist Synthesis/03_POWER_AUTONOMY_SOVEREIGNTY_AND_SELF_AUTHORSHIP_V2.md` | 57,429 | `1123ec791fcb7ec806100b9df137f1de2ebbac82bc72cece192c13bba0fc65bd` |
@@ -73,5 +73,5 @@ Paths are relative to `series/solo-leveling/`. [Artifact_Checksums_V2.sha256](Ar
 | `04 Specialist Synthesis/10_MANHWA_ADAPTATION_VISUAL_GRAMMAR_AND_RECOMPOSITION_V2.md` | 58,084 | `5269b1031c3031dba66b6bb7cfe1eb18666e09b842bceb30b63d3490310cdc94` |
 | `04 Specialist Synthesis/11_SIDE_STORIES_RESET_ORDINARY_LIFE_AND_SUHO_V2.md` | 55,745 | `9bab2f324eb9c93689759d69db9a06517802bca30e524b95632756206f9ad713` |
 | `04 Specialist Synthesis/12_COMPARATIVE_REFERENCE_MATRICES_AND_FINAL_QUESTIONS_V2.md` | 36,181 | `a27ca244ceed45054ab8effae21ce3e0ebcc4e46465f432c08a7afe68e707714` |
-| `04 Specialist Synthesis/Solo_Leveling_V2_Character_Model_Follow_Up.md` | 13,614 | `b7516622c87bb51e1f0afac2a7f1e98941768370c978ea0727eb4d24708d8c0b` |
+| `04 Specialist Synthesis/Solo_Leveling_V2_Character_Model_Follow_Up.md` | 13,834 | `0c56b9bae41297fac66d6b1e4d22f7ce311cf7422342efa948a60316fc7e6fe8` |
 | `05 Final Release/Solo_Leveling_V1_to_V2_Analytical_Change_Report.md` | 13,299 | `ba648aca7ca26c4c4d4df3f92791e4720a16c3467176cbace5d4c0b6d880343c` |
