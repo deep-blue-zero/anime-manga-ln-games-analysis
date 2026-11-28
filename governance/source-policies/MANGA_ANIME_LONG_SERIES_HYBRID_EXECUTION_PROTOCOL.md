@@ -2,11 +2,11 @@
 title: Manga / Anime Long-Series Hybrid Execution Protocol
 artifact_id: MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL
 artifact_type: long_series_hybrid_execution_protocol
-version: "1.2"
+version: "1.3"
 status: canonical
 scope: preferred phase lifecycle for substantial longitudinal series and bounded live-service corpora
 created: 2026-09-13
-last_updated: 2026-11-15
+last_updated: 2026-11-24
 maintainer: ChatGPT + user
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -173,7 +173,7 @@ Novel later evidence does not invalidate useful earlier analysis automatically. 
 
 Introduce the topology at the next appropriate boundary without restarting completed readings. An active project adopts the multi-agent reading workflow of topology Section 4.1 at its next substantive source reading, under that section's applicability rule. An active project can hand a closed tranche to cloud synthesis while preserving its existing root, ledger design, naming, and historical interpretations.
 
-A thin existing monograph can undergo an authorized deepening pass against mature evidence without rerunning the sequential phase. Architecture gaps require explicit repair under the initiation policy, not cosmetic scaffolding. This protocol does not itself authorize a material restart.
+A thin existing monograph can undergo an authorized deepening pass against mature evidence without rerunning the sequential phase. When the owner invokes such a pass, or a targeted or full reanalysis, as a [Multi-Agent Character Reconstruction Pass](MANGA_ANIME_MULTI_AGENT_CHARACTER_RECONSTRUCTION_PASS_PROTOCOL.md), that protocol governs it. Architecture gaps require explicit repair under the initiation policy, not cosmetic scaffolding. This protocol does not itself authorize a material restart.
 
 Record the adopted topology and stage ownership once in the existing entrypoint or governing architecture. Use the handoff template only where a real transfer warrants it. Do not create permanent handoff documents for every trivial internal action.
 
@@ -192,6 +192,10 @@ Evaluate the topology by evidence-grounded analytical depth, preserved prospecti
 The default may be changed for a task when another adequate route is better. Record the reason; do not convert a situational exception into a claim that cloud or local is categorically superior.
 
 ## Changelog
+
+### v1.3 - 2026-11-24 - Character reconstruction pass pointer
+
+Section 12 points to the Multi-Agent Character Reconstruction Pass protocol for deepening passes and targeted or full reanalysis that the owner invokes as such a pass. Phase lifecycle, ownership and adoption rules are otherwise unchanged.
 
 ### v1.2 - 2026-11-15 - Multi-agent source reading
 

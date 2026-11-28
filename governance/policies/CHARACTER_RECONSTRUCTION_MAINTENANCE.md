@@ -245,7 +245,7 @@ These rulings record how the owner reads the specification's tier definitions af
 
 ## Discovery and reconstruction referrals
 
-Work discovery is Git-derived. Either agent may note leads for the other in its PR description: discovery may name subjects whose analysis changed materially, which the evaluator may pass as `--hint` values; the evaluator may name substantial analysis that is not enrolled. Leads are prioritization hints only. A hint cannot add a subject the queue does not already contain, and the evaluator never invents or adds a discovery identity.
+Work discovery is Git-derived. Either agent may note leads for the other in its PR description: discovery may name subjects whose analysis changed materially, which the evaluator may pass as `--hint` values; the evaluator may name substantial analysis that is not enrolled. Leads are prioritization hints only. A hint cannot add a subject the queue does not already contain, and the evaluator never invents or adds a discovery identity. An analysis project may record leads the same way, in its own records and the PR that integrates them, for example a [character reconstruction pass](../source-policies/MANGA_ANIME_MULTI_AGENT_CHARACTER_RECONSTRUCTION_PASS_PROTOCOL.md#14-discovery-and-capability-evaluation-leads)'s completion record. Such a lead is an equally unverified hint and never proposes a grade.
 
 ## Branch, publication, and integration
 
