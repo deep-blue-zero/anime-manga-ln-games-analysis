@@ -101,6 +101,14 @@ Acquire this universal context for every repository task, then the reading for e
 
 A policy link identifies ownership, not a demand to read every linked file; a cross-reference becomes required when the operation depends on it. This table makes no project method, freeze, source boundary, evidence requirement or publication control optional. When a task cannot be bounded to the listed sections, read the owning policy in full.
 
+**Detached packet-only participants.** Some participants in an owner-invoked protocol work only from an assignment packet, for example under MACRP Section 5.4. Such a participant is not performing a repository task, whatever its commit access, provided it:
+
+- reads and writes no repository or project content beyond the packet;
+- reaches source material outside the repository only through the packet's authorized route; and
+- returns its findings to a principal who performs this section's acquisition.
+
+Its packet, its receipt and the protocol's source-handling limits govern it, and the receipt records what it accessed. A participant that consults repository content beyond its packet is performing a repository task and follows this section in full.
+
 A `MISSING` series route is legitimate only when its `series_id` is in `allowed_missing_canonical_entrypoints` in `governance/repository-controls/tracked-file-policy.json`. The validator enforces this, and the set is currently empty.
 
 Conversation memory, search-result ranking, file recency, and filename similarity do not outrank the live repository records.

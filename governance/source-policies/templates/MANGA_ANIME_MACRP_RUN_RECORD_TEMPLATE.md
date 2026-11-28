@@ -53,6 +53,8 @@ macrp_run:
   run_id: null
   modes: {}                       # subject -> MACRP-R | MACRP-T | MACRP-F
   pass_state: blocked             # blocked while configure-only; then active | completed | blocked | interrupted_pending_recovery
+                                  # completed only when the whole declared scope is accepted (Protocol Section 12.2)
+  accepted_subjects: []           # subjects whose drafts were promoted, with the accepting commit
   next_stage: null
   project_root: null              # series/<slug> or studies/<slug>
   canonical_entrypoint: null      # exact registered path
@@ -90,7 +92,7 @@ macrp_run:
 
 ## 3. Baseline and eligibility
 
-**Baseline:** `baseline_commit` <full SHA>; frozen on <date>. Drift check at execution start: <none | refrozen at <SHA> because ...>.
+**Baseline:** `baseline_commit` <full SHA>; frozen on <date>. Drift check at execution start, over every governing input (Protocol Section 2.1): <none | immaterial, with the reason | refrozen at <SHA> because ..., with the configuration steps rerun>.
 
 **Baseline artifacts at `baseline_commit`:**
 
@@ -215,8 +217,8 @@ Generated responses are noncanonical and never evidence.
 
 ## 11. Baseline comparison
 
-| Dimension of change (Protocol Section 11) | Baseline state | Revised state | Evidence and probes (rule IDs and model versions) |
-|---|---|---|---|
+| Dimension of change (Protocol Section 11) | Baseline state | Revised state | Evidence level (correction, retrospective consistency, targeted-fix confirmation, unseen-probe improvement) | Evidence and probes (rule IDs and model versions) |
+|---|---|---|---|---|
 
 **Overconfidence found in the baseline:** <List.>
 
@@ -245,9 +247,14 @@ Generated responses are noncanonical and never evidence.
 
 **Name-and-reference check (handoff Section 15.6):** sampled scope and material findings.
 
+**Per-subject acceptance (Protocol Section 12.2):**
+
+| Subject and state | In-scope `REQUIRED` items met? | Accepted? | Promoted in commit, or the pending owner-reviewed change for a frozen-release successor |
+|---|---|---|---|
+
 ## 13. Completion, remaining gaps and leads
 
-**Completion statement:** <What the run did and did not establish, within its declared scope.>
+**Completion statement:** <What the run did and did not establish, within its declared scope. State `pass_state`: `completed` only if the whole declared scope, or an owner-authorized reduction of it, is accepted; otherwise `blocked` or `interrupted_pending_recovery`, with the unmet items below.>
 
 **Remaining items:** <Each as an evidence-backed limitation, an evidence gap the admitted source cannot close, or deferred work, with its next owner.>
 

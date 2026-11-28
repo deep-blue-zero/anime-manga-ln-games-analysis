@@ -39,7 +39,7 @@ This checklist sequences a run under the [MACRP protocol](../MANGA_ANIME_MULTI_A
 
 ## 2. Independent work
 
-1. If execution starts after a configure-only stop, check `main` against the baseline and refreeze if a target artifact changed (Section 2.1). Then record the run in the entrypoint as step 1.9 describes.
+1. If execution starts after a configure-only stop, compare `main` with the baseline for every governing input in the run record: targets, method, architecture, admitted boundary, entrypoint, authority and freeze states, held-artifact ownership and the governance documents applied. On a material change, refreeze and rerun the affected configuration steps before executing (Section 2.1). Then record the run in the entrypoint as step 1.9 describes.
 2. Have the probe designer, an independent context that will not revise any model, write and seal the probe set. Include untargeted regression probes and control arms. Name the custodian that keeps the full set from the revisers, and record only its digest in the run record. If custody cannot be shown, record the set as `REVISERS_EXPOSED` (Section 10.4).
 3. Dispatch each specialist and reviewer with an assignment packet, including the source-handling limits, in a separate context (Section 5.4). Participants return findings; only the principal commits. For MACRP-F, run every unit under topology Section 4.1 and the continuation policy, reconciling each unit against the preceding generation's reading of it.
 4. Collect each participant's own findings, with locators, local occurrence IDs and per-proposition epistemic statuses (Section 7). Commit them unaltered, apart from source-text sanitization, as `draft_noncurrent` finding records before reconciling. Record each receipt, including auto-loaded instructions and latent knowledge.
@@ -59,14 +59,17 @@ This checklist sequences a run under the [MACRP protocol](../MANGA_ANIME_MULTI_A
 1. Reviewer A checks that every source-facing record lies inside the admitted boundary and the selection, then audits rule by rule against source, including its own sample. Reviewer B challenges for rival readings, counterexamples in uncited source, omissions, caricature and over-hedging (Section 10.1).
 2. Once the drafts are frozen, commit the probe set and check it against its digest. Administer it through respondents and judges in separate contexts. Respondents use exactly the recorded inputs and state confidence and distance. Present normalized outputs under neutral labels. Record all three exposure facts and calibration (Sections 10.2-10.4).
 3. Run the self-containment and fidelity reviews for every new or generally revised monograph, and the name-and-reference check on substantial prose.
-4. Compare the drafts with the baseline using the sealed probes and control arms (Section 11).
-5. Fix supported defects through the same routes. Re-check a fix with a fresh sealed probe, never with the probe that exposed it.
+4. Compare the drafts with the baseline using the sealed probes and control arms (Section 11). Report each change at its evidence level: source-verified correction, retrospective consistency gain, targeted-fix confirmation, or improvement on unseen probes.
+5. Fix supported defects through the same routes. Rerunning the probe that exposed a defect only confirms the fix on that probe; a claim that the fix generalizes needs a fresh sealed probe (Section 10.4).
 
 ## 5. Accept, publish and refer
 
 1. Check the fifteen acceptance criteria and the run-specific criteria (Section 12.1), and record each result.
 2. Write the completion statement, the remaining items, typed as evidence-backed limitations, evidence gaps or deferred work, and the leads (Sections 12.2 and 14). Leads never mention tiers or grades.
-3. In one acceptance tranche, apply the in-place revisions, promote the accepted drafts, add the supersession links, update the qualification record and the entrypoint's run summary, and set `pass_state: completed` in both the run record and the entrypoint. Supersession metadata on a frozen-release predecessor goes through a separate reviewed governance change instead; until it lands, the successor stays a draft (Section 9.5).
+3. In an acceptance tranche, apply the in-place revisions, promote the drafts of each accepted subject, add their supersession links, and update the qualification record and the entrypoint's run summary. Promote only subjects whose in-scope `REQUIRED` items are all met and accepted (Section 12.2).
+   - Set `pass_state: completed` in the run record and the entrypoint only when the whole declared scope is accepted.
+   - Otherwise record `blocked` or `interrupted_pending_recovery`, with each unmet item, its blocker, the affected artifacts and the next action.
+   - A frozen-release successor stays a draft on this branch. Its promotion and the predecessor's supersession metadata land together in one owner-reviewed governance change (Section 9.5).
 4. Run author preflight, publish, put the leads in the PR description, and wait for the exact-head audit. If a supersession breaks a character reference, the discovery agent's separately identifiable repair commit on the branch resolves it (or the CI agent's, if mechanical); never touch discovery or capability outputs yourself. The CI agent merges.
 
 ## If interrupted

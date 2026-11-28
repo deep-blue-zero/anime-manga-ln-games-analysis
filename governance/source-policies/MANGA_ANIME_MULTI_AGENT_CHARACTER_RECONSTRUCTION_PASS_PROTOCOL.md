@@ -68,7 +68,7 @@ A pass, in any mode, never:
 
 ### 2.1 Baseline freeze
 
-Freeze the baseline first. Choose one full commit SHA on `main` containing the project's integrated state, and record it as `baseline_commit` with the paths of the baseline artifacts. Unintegrated work on the project branch is not part of the baseline; wait for its integration, or record it separately as an unintegrated delta that carries no authority. The baseline is never edited to make later work look consistent. When execution begins after a configure-only instruction, compare current `main` with the baseline. If a target artifact changed, refreeze and record the drift (handoff Section 10).
+Freeze the baseline first. Choose one full commit SHA on `main` containing the project's integrated state, and record it as `baseline_commit` with the paths of the baseline artifacts. Unintegrated work on the project branch is not part of the baseline; wait for its integration, or record it separately as an unintegrated delta that carries no authority. The baseline is never edited to make later work look consistent. When execution begins after a configure-only instruction, compare current `main` with the baseline for every governing input the run record names: the target artifacts; the project's governing method, architecture, admitted source boundary and canonical entrypoint; authority and freeze states; the mutable ownership of artifacts the run would hold; and the governance documents the run applies. If any changed materially, refreeze, rerun the configuration steps the change affects (eligibility, baseline assessment, diagnosis, scope and test design), and record the drift before executing (handoff Section 10). Record an immaterial change with the reason it leaves the configuration valid.
 
 ### 2.2 Eligibility
 
@@ -232,7 +232,7 @@ For source-facing work the topology governs the configuration, and the shapes ab
 
 Topology Sections 4.1.3-4.1.5 define genuine independence, knowledge boundaries and durable contributions, and govern here. A pass adds the following.
 
-- **Controlled exposure.** A specialist, reviewer or probe respondent whose assignment depends on limited exposure receives an assignment packet: the authorized source or its retrieval route, the necessary source and chronology metadata, the governing method constraints, the source-handling limits (Section 6.6; no transmission of source material beyond the authorized route, topology Section 4.1.7), its assigned workstreams and the output and locator conventions. It is instructed not to retrieve other repository or project content. It is not performing a repository operation; the principal, who writes to Git, performs the routing Section 6 acquisition. Where a runtime loads repository instructions automatically, the receipt records what was loaded and what it exposed. Where practicable, initial observations precede exposure to the principal's draft or the preceding generation's conclusions. In MACRP-R the baseline artifacts are the input, so independence means forming an assessment of them, and of the source passages, without the principal's diagnosis or revisions. For a decisive passage, the participant inspects the source before reading the baseline's interpretation of it, and records that order.
+- **Controlled exposure.** A specialist, reviewer or probe respondent whose assignment depends on limited exposure receives an assignment packet: the authorized source or its retrieval route, the necessary source and chronology metadata, the governing method constraints, the source-handling limits (Section 6.6; no transmission of source material beyond the authorized route, topology Section 4.1.7), its assigned workstreams and the output and locator conventions. It is instructed not to retrieve other repository or project content. Under routing Section 6's exception for detached packet-only participants, it is not performing a repository task; the principal, who writes to Git, performs the routing Section 6 acquisition. A participant that reads beyond its packet loses the exception and follows routing Section 6 in full. Where a runtime loads repository instructions automatically, the receipt records what was loaded and what it exposed. Where practicable, initial observations precede exposure to the principal's draft or the preceding generation's conclusions. In MACRP-R the baseline artifacts are the input, so independence means forming an assessment of them, and of the source passages, without the principal's diagnosis or revisions. For a decisive passage, the participant inspects the source before reading the baseline's interpretation of it, and records that order.
 - **Latent knowledge.** Models may already know a well-known work. Each receipt records whether the participant recognized the work or recalled events beyond its packet, and Section 10.3 records the same for probes.
 - **Frozen findings.** Each participant's material findings are its own output. They are committed, sanitized only to remove source text beyond brief anchors (Section 6.6), in its own finding record or the unit's transaction record, before the principal reconciles them. A finding record is provenance and carries the `draft_noncurrent` quartet. A digest may supplement the committed record and never replaces it. Reconciliation cites findings by ID, and a later change to a finding is a new entry.
 - **Reviewers inspect sources.** Reviewers A and B examine source passages directly, where practical before reading the candidate interpretation. Besides the passages the principal names as decisive, each draws its own sample. Approving prose is not review.
@@ -270,7 +270,7 @@ Each preference observation records the speaker and any persona or role in play,
 | `IMPOSED_CONDUCT` | Conduct substantially constrained by duty, authority or resources |
 | `UNKNOWN` | Insufficient evidence to infer a preference |
 
-A stable preference needs an explicit preference that conduct does not contradict, or a repeated voluntary choice. One meal does not establish a favorite food, and one outfit does not establish an aesthetic. A paratext field, such as a game profile's favorite food, is recorded under its own source class and authority. Record absent evidence as `UNKNOWN` where the source gave no opportunity. Where it did, the absence is an evidence-backed limitation (generic method Section 8). Never invent a personal detail to complete a template.
+A stable preference needs an explicit preference that conduct does not contradict, or a repeated voluntary choice. One meal does not establish a favorite food, and one outfit does not establish an aesthetic. A paratext field, such as a game profile's favorite food, is recorded under its own source class and authority. Absence alone never makes a preference claim. A claim stays `UNKNOWN` unless conduct affirmatively shows that the character does not, cannot or would not choose the option: a refusal, an expressed aversion, or repeated voluntary choices against it. Under generic method Section 8, opportunity is a prerequisite for negative evidence, not negative evidence itself. Where the source gave an opportunity the character did not take, record the observation with its `opportunity` field so that later evidence can combine with it, and keep the claim `UNKNOWN`. Never invent a personal detail to complete a template.
 
 ### 6.4 Source language and communication
 
@@ -296,7 +296,7 @@ This is a documented record convention, not a repository schema or a new databas
 |---|---|
 | `observation_id` | Stable ID in the project's ID scheme |
 | `occurrence_id` | The canonical occurrence ID from the run's occurrence register |
-| `re_presentation_of` | For a flashback, recap, retelling, adaptation or shared text, the original occurrence |
+| `re_presentation_of` | For a flashback, recap, retelling, shared text, or an adaptation unchanged within the same continuity, the original occurrence |
 | `subject` and `state` | The analysis subject and `Character@Unit` state |
 | `locator` | Exact source locator in the project's grammar, plus edition or witness |
 | `source_class` | The source's class and authority under the project's admission rules |
@@ -323,7 +323,7 @@ This is a documented record convention, not a repository schema or a new databas
 
 The generic method's evidence classes (`DS`, `DB`, `NI`, `RB`, `OS`, `PF`, `INF`) or the project's equivalents describe each observation's evidence route alongside these fields.
 
-**Occurrences.** An occurrence is one depicted happening at one point of story time. The principal keeps the run's occurrence register and maps each specialist's local IDs, and each baseline citation of the same locator, to one canonical `occurrence_id` during reconciliation. A flashback, recap, retelling by another narrator, adaptation of the same event, or text shared across routes or reprints is a re-presentation of the original occurrence. It may add a channel, such as performance in an adaptation, but it is not independent support. Corroboration counts distinct occurrences, never observations, specialists, documents or re-presentations. Agreement among specialists about one occurrence is interpretive agreement, not independent source support.
+**Occurrences.** An occurrence is one depicted happening at one point of story time. The principal keeps the run's occurrence register and maps each specialist's local IDs, and each baseline citation of the same locator, to one canonical `occurrence_id` during reconciliation. A flashback, recap, retelling by another narrator, text shared across routes or reprints, or an adaptation that depicts the same event substantively unchanged within the same continuity is a re-presentation of the original occurrence. It may add a channel, such as performance in an adaptation, but it is not independent support. An adaptation in a separate continuity, or one that materially changes the depicted conduct, receives its own `occurrence_id`, linked to the source occurrence through `related` rather than merged with it. It supports only its own continuity and incarnation selectors (Section 7.4) and never corroborates the source continuity. Corroboration counts distinct occurrences, never observations, specialists, documents or re-presentations. Agreement among specialists about one occurrence is interpretive agreement, not independent source support.
 
 ### 7.2 Epistemic status
 
@@ -422,7 +422,7 @@ A new or generally revised monograph meets the self-contained standard and passe
 
 Follow the project's convention for revising models, subject to these limits:
 
-- **Frozen release.** A target in a frozen, final or archival release is analytically immutable (routing Section 8.2). The pass issues a successor. The predecessor's administrative supersession metadata is changed only through the reviewed governance change that section requires, never from the pass's own branch. Until that change lands, the successor stays `draft_noncurrent`, and the run records the pending step.
+- **Frozen release.** A target in a frozen, final or archival release is analytically immutable (routing Section 8.2). The pass issues a successor, which stays `draft_noncurrent` with both supersession arrays empty, as `characters/README.md` requires of a draft. Promotion is one atomic, owner-reviewed governance change under routing Section 8.2, never a commit on the pass's own branch. In a single commit it promotes the accepted successor and sets its `supersedes`, and marks the predecessor `superseded` with the reciprocal `superseded_by` and the veto flag, changing nothing else in the frozen artifact. No intermediate state ever has only one side changed. Until that change lands, the successor remains a valid draft, the predecessor remains current, and the run records the pending step and its owner.
 - **Byte lock.** A target explicitly declared byte-immutable, hash-locked or archival-locked, or a `NONE_FROZEN` object, receives no edit at all. Reciprocal supersession would change its bytes, so its successor stays `draft_noncurrent`. The run records the blocker and asks the owner for the route, for example a separate routing record the architecture adopts. It never leaves two current artifacts for one subject.
 - **Recorded hash.** A hash that an audit or manifest merely records is not a lock. The audit remains the record of the bytes it examined, and the manifest is refreshed by its owning process.
 
@@ -470,13 +470,13 @@ Every probe records three exposure facts with its result.
 
 **Probe exposure** — `SEALED_FROM_REVISERS` or `REVISERS_EXPOSED`: whether anyone who revised the model saw the probe before the revised artifacts were frozen.
 
-Never present a retrospective, masked or reviser-exposed result as prediction or improvement (generic method Section 15). Disclose accidental exposure; it downgrades the record.
+Never present a retrospective, masked or reviser-exposed result as prediction (generic method Section 15) or as an unqualified improvement. Report it at the evidence level its exposure supports (Section 11). Disclose accidental exposure; it downgrades the record.
 
 ### 10.4 Records, leakage and judging
 
 - **Design and seal.** The probe designer writes each probe's definition: ID, test, subject and state, conditions, the varied variable, exposure classes, withheld material and the basis for judging. It seals the set before revision begins. The full set stays with a custodian no reviser reads before the revised artifacts are frozen: a separately initialized session that keeps it and returns only the digest, an owner-held copy, or a working-plane file the revisers are instructed not to open. The run record names the custodian and holds only the digest until the drafts freeze; then the set is committed and checked against the digest. Where the runtime routes the designer's output through the principal, or custody cannot be shown, the set is `REVISERS_EXPOSED`, and the run records that consequence for promotion and comparison. A set that the principal or another reviser has seen is `REVISERS_EXPOSED`.
 - **Untargeted probes.** Each set includes probes drawn independently of the diagnostic units and of the deficiencies the revision addresses, to catch regressions. A Test A encounter taken from a unit the revision mined is source-known for the revised model.
-- **No re-validation by the probe that drove a fix.** A defect fixed after testing is re-checked by a fresh, sealed probe. Rerunning the probe that exposed it records `REVISERS_EXPOSED` and shows nothing about improvement.
+- **Fixes and re-checks.** Rerunning the probe that exposed a defect is a targeted-fix confirmation: it records `REVISERS_EXPOSED` and shows only that the fix resolves that probe. A claim that the fix generalizes needs a fresh, sealed probe.
 - **Respondents and judges.** A respondent answers from exactly its recorded inputs and states confidence and distance with each prediction. A judge other than the respondent and the model's author judges with source locators and the sealed basis. One respondent context may answer several probes under identical model and exposure conditions. Baseline and revised artifacts, and model-based and monograph-only conditions, use separate contexts.
 - **Blinding.** When baseline and revised outputs are compared, present them in a normalized form (the same format and length bounds) under neutral labels, and judge by a rubric that disregards length.
 - **Synthetic-output firewall.** Generated responses are labeled noncanonical, kept only as far as adjudication needs, and never cited as evidence about the character (generic method Section 1).
@@ -486,6 +486,17 @@ Never present a retrospective, masked or reviser-exposed result as prediction or
 ## 11. Comparison against the pre-pass baseline
 
 Every completed run compares its result with the frozen baseline, covering what applies: newly extracted observations; independently verified existing observations, counting only those confirmed by direct source inspection; materially refined interpretations; corrected claims; new counterexamples; additional ordinary-life and preference evidence; more differentiated linguistic behavior; newly supported conditional mechanisms and priority arbitration; improved relationship conditioning; better state and chronology separation; reduced reliance on generic personality assumptions, shown against the control arm; changed test results; new and persistent limitations; and evidence that an earlier interpretation was overconfident.
+
+Report each change at the evidence level its exposure supports:
+
+| Level | Meaning |
+|---|---|
+| Source-verified correction | A claim corrected against direct source inspection, with its locator |
+| Retrospective consistency gain | Within the examined cases, the revised artifacts match source outcomes the baseline missed or misstated. Labeled with its outcome and probe exposure; never a prediction |
+| Targeted-fix confirmation | A rerun of the probe that exposed a defect passes after the fix (Section 10.4). It confirms that probe only |
+| Improvement on unseen probes | Reserved for sealed probes no reviser saw (`SEALED_FROM_REVISERS`), with outcome exposure `MASKED`, `HELD_OUT` or `PROSPECTIVE` and latent knowledge stated |
+
+In a mature project the analysts have read the source, and a well-known work usually cannot exclude latent knowledge, so most results are retrospective. Report them at their level rather than suppressing them or presenting them as prediction. Record exposure and results separately for each tested version.
 
 Where feasible, administer equivalent sealed probes to the baseline and the revised artifacts in separate fresh contexts, under the blinding rules of Section 10.4. Record every exposure so that reused probes are never later mistaken for fresh ones. Results attach to the rule and model version tested; a test of an earlier version does not describe a changed rule. Document length, agent count, observation count and the number of characters touched are not measures of quality. One decisive counterexample can outweigh hundreds of repetitive observations.
 
@@ -517,7 +528,9 @@ Acceptance applies handoff Section 11; topology Section 4.1.6 for every MACRP-F 
 
 ### 12.2 Completion and state
 
-A run completes when its declared scope is accepted, or truthfully bounded with every remaining `REQUIRED` item recorded as a blocker. A targeted run may complete without addressing every character or dimension, provided its scope and limits are stated accurately. Success is never defined by grades: no number of characters moved to any tier, and no expected tier, is a completion criterion.
+A run is `completed` only when its whole declared scope is accepted, including any scope reduction the owner explicitly authorized and recorded (Section 3.3). A targeted run may complete without addressing every character or dimension, provided its declared scope and limits are stated accurately. A run with any unmet `REQUIRED` item is never `completed`. It records `blocked` when it waits on an owner decision, a source, a lane or an authority, or `interrupted_pending_recovery` when the work can resume. Either way it records each unmet item with its blocker, the affected artifacts, its next owner and the next action.
+
+Acceptance is per subject. Once every `REQUIRED` item in a subject's declared scope is met and accepted under Section 12.1 as it applies to that subject, the subject's drafts may be promoted in an acceptance tranche (Section 13.1), even while other subjects keep the run `blocked` or `interrupted_pending_recovery`. A subject with an unmet item keeps its drafts noncurrent. Success is never defined by grades: no number of characters moved to any tier, and no expected tier, is a completion criterion.
 
 A configure-only run records `pass_state: blocked`, with the next action to await execution authorization. It writes nothing to the entrypoint and holds no artifacts until execution is authorized.
 
@@ -534,7 +547,7 @@ Natural tranches are:
 1. configuration and baseline;
 2. frozen independent findings;
 3. drafts of reconciled and revised artifacts, all `draft_noncurrent` (Section 9.2);
-4. acceptance: review, testing, comparison, the in-place revisions, promotions and supersession links, the completion record with `pass_state: completed`, and the leads in that PR's description.
+4. acceptance: review, testing, comparison, and the in-place revisions, promotions and supersession links for each accepted subject (Section 12.2), with the leads in that PR's description. A frozen-release successor is promoted instead by the owner-reviewed governance change in Section 9.5. The run record and entrypoint carry the run's actual state; `pass_state: completed` is set only in the tranche that accepts the last in-scope subject.
 
 A MACRP-F run publishes per-unit transactions under the continuation policy instead of tranche 2, and closes with tranches 3 and 4 at its synthesis stage. When a supersession or revision breaks an existing character reference, the PR cannot merge until the discovery outputs are repaired in a separately identifiable commit on the same branch. That commit is the discovery agent's, or the CI agent's when the repair is purely mechanical (discovery policy, "Lag and broken references"). The pass's own commits never touch discovery or capability outputs. Record any owner hold, the PR number and the last audited head in the run record.
 
@@ -559,7 +572,7 @@ A lead never states, proposes or implies a tier or a dimension grade. The A-E de
 - **Recovery first.** After an interruption, recover verified state from the run record, the branch and `main` before writing (continuation Section 7). Observed state outranks remembered state, and a polished draft never becomes canonical because a session ended.
 - **Lost or contaminated contributions.** A specialist context lost before its findings were committed, or a frozen record that cannot be recovered, is rerun fresh with a new receipt, never reconstructed from memory or from a digest. A contaminated contribution is disclosed and loses independent or prospective credit for whatever the exposure touched.
 - **Stops.** Stop the affected item on: missing or inaccessible required sources; a required lane or independent context that is unavailable; unresolved authority; a scope boundary the work would cross; a concurrent conflict on a held artifact; or a base drift that is semantically material (handoff Section 10). Continue independent authorized work that stays valid.
-- **Partial completion.** Preserve valid work, record every unmet `REQUIRED` item with its blocker and next owner, and never report the run complete. An abandoned run records `pass_state: blocked` with its reason, keeps its accepted outputs and leaves its drafts noncurrent.
+- **Partial completion.** Preserve valid work, record every unmet `REQUIRED` item with its blocker and next owner, and never report the run complete (Section 12.2). Subjects already accepted keep their promoted outputs; every other draft stays noncurrent. An abandoned run records `pass_state: blocked` with its reason.
 
 ## 16. Artifact responsibilities
 
@@ -581,13 +594,13 @@ A run fulfills these logical responsibilities. Existing canonical artifacts fulf
 
 ## 17. Invoking a pass
 
-An owner instruction names the mode, the project, the subjects or selection rule, the boundary and the comparison baseline, for example:
+An owner instruction names the mode, the project, and the subjects or a selection rule. MACRP-T also names its deficiencies or workstreams. MACRP-F also names the source boundary and the comparison baseline generation (Section 3.1). For MACRP-R and MACRP-T, configuration freezes the baseline at `baseline_commit` (Section 2.1) and uses the admitted boundary unless the instruction names a narrower one. For example:
 
 - *Configure and execute MACRP-F for* `<project>` *through* `<admitted boundary and supplements>`*, using* `<earlier generation>` *as the frozen comparison baseline.*
 - *Execute MACRP-T for* `<subject>`*, concentrating on* `<deficiencies, such as mundane behavior, written voice, humor and independent practical competence>`*.*
 - *Execute MACRP-R for* `<subjects>`*, integrating and independently reviewing their existing reconstruction models before deciding whether further source inspection is warranted.*
 
-When an instruction omits a required element, the agent configures the run, records the gap and proposes the missing element, and does not execute beyond what the instruction covers.
+When an instruction omits an element its mode requires (Section 3.1), the agent configures the run, records the gap and proposes the missing element, and does not execute beyond what the instruction covers.
 
 ## Changelog
 
@@ -604,6 +617,9 @@ Establishes the owner-invoked MACRP operation:
 - reconciliation dispositions mapped to the archive transitions;
 - drafts that stay noncurrent until acceptance;
 - the A-G test battery with controls, three exposure facts, sealed probes and two-sided calibration;
-- baseline comparison, acceptance and completion, publication, leads and resumption.
+- baseline comparison with evidence levels for retrospective results;
+- per-subject acceptance, with `completed` reserved for an accepted declared scope;
+- atomic owner-reviewed promotion of frozen-release successors;
+- publication, leads and resumption.
 
 It adds no schema, validator, workflow, registry or capability criterion.
