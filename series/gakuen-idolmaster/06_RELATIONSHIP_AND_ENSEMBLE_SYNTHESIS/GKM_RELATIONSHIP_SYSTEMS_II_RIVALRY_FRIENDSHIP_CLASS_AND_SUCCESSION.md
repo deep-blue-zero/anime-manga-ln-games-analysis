@@ -433,6 +433,8 @@ She can be:
 
 This horizontal social field makes Ume larger without making Saki smaller.
 
+**Different accounts of keeping up (HSCA-064, 2026-11-26, C1 @ D-HIRO).** In Hiro's Dear 030, Ume says she has finally caught up and reached the start line, after recalling her N.I.A. defeat and promising a rematch (L322–L362). Hiro says she and China had felt left behind. China agrees. Ume says she had been lonely when they seemed to go ahead together (L376–L405). China's account that all three followed different paths and Hiro's 'we met again' keep the comparison plural (L421–L435). Ume's account of catching up therefore also applies to friends in this route. Each describes how the others’ progress looked from a different position. Their actual ranking and any deliberate abandonment remain open. The exchange partly answers the Ume-side bilateral reading; durability under serious disagreement remains open.
+
 ## 4.4 Friendship gives Hiro shared stakes
 
 Early Hiro chooses difficulty largely for private stimulation.
@@ -1106,14 +1108,16 @@ These rows refine, and do not replace, the bullets above. Saki's 'witness to col
 
 ### 9.2.2 U1 — a shared three-idol assignment *(2026-11-15; GKM-SAA-111)*
 
-§1.2 says the Producer cannot be treated as one simultaneous multi-idol manager unless the source creates that shared state. `U1` creates it, so it tests §9.5 and §9.6 directly. All citations are `C1 @ U1`.
+§1.2 says the Producer cannot be treated as one simultaneous multi-idol manager unless the source creates that shared state. `U1` creates it, so it tests §9.5 and §9.6 directly. Shared scenes are `C1 @ U1`. The `04_04` exchange identified as choice 1 is `C3 @ U1`.
 
 - **Exclusive bonds revealed as a unit.** The Producer has cultivated Saki, Temari and Kotone separately and introduces them to each other as one unit for H.I.F.; Temari protests that she had believed he would produce only her (`adv_unit_01-01_03.txt` L409–L543, L475–L485).
 - **Jealousy across a shared Producer.** When he joins the unit in raising Ume, Temari calls him a two-timer in inner speech (`03_08` L258–L276).
-- **Strategy held back from the idols.** He keeps another approach in reserve (inner speech, `03_04` L402). He proposes that the unit raise Ume as its strongest rival, and the members adopt the plan with enthusiasm (`03_08` L383–L461). He films Ume on the spot as 'the best boost item' for Saki (`04_01` L120–L132). He runs duo lessons whose purpose, a contingency in case Saki did not recover, he discloses only afterwards; Saki says that, told so plainly, she can no longer be angry (`04_11` L221–L337).
+- **Separate strategies and their audiences.** The Producer keeps another approach in reserve (inner speech, `03_04` L402). He proposes that the unit raise Ume as its strongest rival. Saki welcomes the idea. Temari volunteers to teach singing, and Kotone first questions the proposal and then agrees to trust the Producer. The Producer asks Ume separately and she agrees (`03_08` L383–L632). He films Ume on the spot as the best boost item for Saki (`04_01` L120–L132).
+- **A contingency planned with Kotone.** In one choice Kotone considers what to do if Re;IRIS loses and asks the Producer to keep this from her two partners to protect morale (`adv_unit_01-04_04.txt` L225–L452, choice 1). In the shared later scene she says she and the Producer discussed plans before the match and that he supplied the duo choreography (`04_10` L308–L404). Her explanation establishes the plan was kept from Saki.
+- **The later explanation of the duo lessons.** The Producer says he intended duo lessons regardless of Saki’s condition. He also wanted the others to prepare to give up on that summer and switch to a duo if she could not return. Saki says she can no longer be angry after hearing him put it so plainly (`04_11` L207–L337).
 - **The Producer as a fourth member.** He frames the Re;IRIS–Begrazia contest as also a contest between producers over who raises the better idol, and Saki concludes it was four against three (`04_12` L464–L486).
 
-The shared-Producer state gives §9.5 its clearest concealment-based instance: strategy is withheld from the idols and disclosed after the fact. Counterevidence: each concealment is framed as benevolent and is disclosed (04_10–04_11), and the members ratify the strategy (03_08). OPEN: whether this counts as orchestration (§9.6) or as interpretive monopoly (§9.5).
+**Written qualification (HSCA-026, GKM-SAA-111).** Different parts of the plan had different audiences. Kotone shares the pre-match contingency, while the Producer later explains a further purpose for the lessons. The group’s agreement to raise Ume concerns its own strategy. Which aspects they could question before acting remains important to whether this is orchestration (§9.6) or interpretive monopoly (§9.5). That judgment stays OPEN.
 
 ### 9.2.3 China and Kanae — a second explicit shared assignment *(2026-11-25, Source Lock 1.2)*
 
@@ -1184,7 +1188,7 @@ Examples differ by route:
 - Temari (`D-TEMARI`) can object to the way the Producer makes a decision while using the opportunity he creates. In Dear 025 she takes on the training after protesting his reported transfer promise. Her later account of his trust addresses the trial. Her explicit agreement to defer the dissolution live in Dear 023 has a separate basis. (GKM-SAA-044.)
 - Ume (`D-UME`) shows the converse risk, convergence: the Producer adopts her intuition and is taught by her to laugh at defeat (GKM-SAA-024).
 - Lilja (`D-LILJA`) and Rinami (`D-RINAMI`) show limits on monopoly: a deferral both keep, and fallibility disclosed to the idol (GKM-SAA-014; HSCA-038).
-- In `U1`, a shared-Producer state, the risk takes the form of strategy withheld from all three idols and disclosed after the fact (GKM-SAA-111).
+- In `U1`, the shared Producer keeps some approaches in reserve and discusses the pre-match contingency with Kotone. Kotone reports keeping it from Saki. The Producer explains another purpose of the duo lessons after Saki returns (GKM-SAA-111, HSCA-026, §9.2.2).
 
 The common structural risk is:
 
