@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 272; `SUPERSEDED` 44
+- Recorded totals: `CANDIDATE` 274; `SUPERSEDED` 44
 
 ## Namespaces
 
@@ -37,7 +37,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`idoly-pride`](reconstruction_index/idoly-pride.md) | 1 | 1 |
 | [`kamakura-sho`](reconstruction_index/kamakura-sho.md) | 2 | 5 |
 | [`kimishinu`](reconstruction_index/kimishinu.md) | 3 | 3 |
-| [`konosuba`](reconstruction_index/konosuba.md) | 21 | 21 |
+| [`konosuba`](reconstruction_index/konosuba.md) | 23 | 23 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`lycoris-recoil`](reconstruction_index/lycoris-recoil.md) | 21 | 24 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
@@ -143,6 +143,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `konosuba:heidel@original-light-novel` | [`konosuba-heidel-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-heidel-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:iris@original-light-novel` | [`konosuba-iris-original-light-novel-expanded-model-20261121-01`](reconstruction_index/konosuba.md#konosuba-iris-original-light-novel-expanded-model-20261121-01) | `CANDIDATE` | `B` | `7e5cc6b25221e5c70a52e9aca64f0102ed2a3040` |
 | `konosuba:karen-donnelly@original-light-novel` | [`konosuba-karen-donnelly-original-light-novel-calibration-20261116-01`](reconstruction_index/konosuba.md#konosuba-karen-donnelly-original-light-novel-calibration-20261116-01) | `CANDIDATE` | `C` | `f979bbe513c5013ec494c6268aca5168ff39296b` |
+| `konosuba:komekko@original-light-novel` | [`konosuba-komekko-original-light-novel-monograph-20261128-01`](reconstruction_index/konosuba.md#konosuba-komekko-original-light-novel-monograph-20261128-01) | `CANDIDATE` | `B` | `5cc707046a5081324c506b9f687da4aaabd96806` |
+| `konosuba:leen@original-light-novel` | [`konosuba-leen-original-light-novel-monograph-20261128-01`](reconstruction_index/konosuba.md#konosuba-leen-original-light-novel-monograph-20261128-01) | `CANDIDATE` | `C` | `5cc707046a5081324c506b9f687da4aaabd96806` |
 | `konosuba:mammon@original-light-novel` | [`konosuba-mammon-ln-main17-u012-monograph-20261026-01`](reconstruction_index/konosuba.md#konosuba-mammon-ln-main17-u012-monograph-20261026-01) | `CANDIDATE` | `E` | `c1ce63553e42527cebd7e6e4a665429c69619c88` |
 | `konosuba:megumin@original-light-novel` | [`konosuba-megumin-ln-main17-expanded-staged-20261027-01`](reconstruction_index/konosuba.md#konosuba-megumin-ln-main17-expanded-staged-20261027-01) | `CANDIDATE` | `C` | `e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da` |
 | `konosuba:metal-mora@trpg-advanced-supplied-scenario` | [`konosuba-metal-mora-trpg-advanced-supplied-scenario-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-metal-mora-trpg-advanced-supplied-scenario-calibration-20261027-01) | `CANDIDATE` | `E` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
