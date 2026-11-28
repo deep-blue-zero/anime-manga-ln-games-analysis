@@ -1,0 +1,16 @@
+{
+  "series_id": "gundam-witch-from-mercury",
+  "stable_slug": "gundam-witch-from-mercury",
+  "canonical_title": "Mobile Suit Gundam: The Witch from Mercury / 機動戦士ガンダム 水星の魔女",
+  "media": [
+    "ANIME"
+  ],
+  "repository_path": "series/gundam-witch-from-mercury/",
+  "canonical_entrypoint": "series/gundam-witch-from-mercury/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_UNREVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261127",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Japanese anime project for PROLOGUE and the 24 numbered episodes; character and relationship development, corporate institutions, technology and audiovisual form, with separately bounded supplementary and adaptation witnesses."
+}
