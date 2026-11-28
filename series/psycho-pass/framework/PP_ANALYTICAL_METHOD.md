@@ -3,17 +3,17 @@ title: "Psycho-Pass — Analytical method"
 artifact_id: PP_ANALYTICAL_METHOD
 artifact_type: analytical_method
 series: psycho-pass
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 authority_generation: PP-INITIAL
-source_boundary: "NONE; metadata-only foundation, no admitted narrative"
+source_boundary: "Governing method (initialized 2026-11-18 bootstrap; live admission boundary owned by CURRENT_STATE_AND_CORPUS_MAP.md — currently PP-S01NE-E01–E11 complete on branch)"
 canonical_home: series/psycho-pass/framework/PP_ANALYTICAL_METHOD.md
 created: 2026-11-18
-last_updated: 2026-11-18
+last_updated: 2026-11-26
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
 
