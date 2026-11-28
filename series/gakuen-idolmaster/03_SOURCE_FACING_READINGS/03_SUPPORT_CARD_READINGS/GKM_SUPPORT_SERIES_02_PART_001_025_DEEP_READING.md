@@ -48,7 +48,7 @@ Closeness appears through tolerated intrusion, routine correction, shared food, 
 
 Examples recur across very different relationships:
 
-- Saki tells Ume not to tackle-hug anyone else, then ultimately accepts the physical affection because it is *Ume's* affection and because Saki trusts herself to receive it.
+- Saki forbids Ume from surprising the other girls with a tackle. She takes back her first assent to Ume’s exception and asks Ume to approach from the front.
 - Temari complains about a middle-school friend who obstructed training, then reflexively defends that friend's good qualities when Kotone criticizes her; the relational attachment survives inside the grievance.
 - Mao scolds Kotone about chores and food management while repeatedly discovering that Kotone is more responsible than her presentation suggests.
 - Rinami and Mao exchange study methods and ideals of idol longevity without either relationship needing a dramatic confession.
@@ -139,13 +139,13 @@ Where the containing support story is modular, the embedded memory may still be 
 **Participants:** Ume, Saki  
 **Functions:** sibling physicality, safety calibration, ordinary affirmation
 
-Ume's default physical affection is extreme enough to be hazardous. She tackles Saki from behind while calling it a hug. Saki objects not to the affection but to the delivery mechanism: a surprise impact capable of causing injury is not, in her terminology, a hug.
+Saki describes a surprise tackle. Ume calls the action an affectionate hug. Saki says the recipient could get hurt if she did not receive it properly. The direction of the initial approach and the physical contact require their own evidence.
 
-The first important distinction is recipient-specific safety. Saki explicitly tells Ume never to do this to other girls. Ume replies that she only does it to Saki. Saki initially accepts that exception, catches herself, and still protests—before finally telling Ume to come from the front so Saki can receive her full force.
+Saki tells Ume never to do it to other girls, and Ume proposes limiting it to Saki. Saki initially agrees and immediately takes back that answer. She tells Ume to come from the front and says she will receive her full force. Ume announces the new approach and later declares herself satisfied. The invitation applies to this approach in this exchange. [Guarded Ume adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#a-sister-asks-for-a-different-approach).
 
-The joke reveals a stable sibling bargain:
+In this exchange each sister gives terms for acting on the affection:
 
-> **Saki does not demand that Ume become less Ume; she tries to convert Ume's intensity into a form she can safely receive.**
+> **Saki offers a different direction of approach, and Ume takes up that instruction.**
 
 The second part is quieter. Ume chooses to eat lunch with Saki simply because she feels like having “older-sister time.” Saki checks on her lessons, hears that she is often scolded but enjoying herself, and concludes that this is a good sign. She then guarantees that Ume will become the best idol—after Saki herself.
 
@@ -153,13 +153,13 @@ Ume responds by patting Saki's head and saying she likes her. Saki's answer is c
 
 ### Claim transitions
 
-- **Saki — STRENGTHEN:** care does not always mean reducing intensity; she often seeks a safe channel for it.
-- **Ume — STRENGTHEN:** physical affection is direct, exuberant, and recipient-specific rather than indiscriminate.
+- **Saki — STRENGTHEN:** within this exchange, Saki offers a change of approach after objecting to the risk of injury.
+- **Ume — STRENGTHEN:** she voices exuberant affection, proposes a limited recipient and changes the announced approach when Saki objects. General permission and physical impact remain open.
 - **Saki ↔ Ume — STRENGTHEN:** explicit affection can be ordinary and low-drama inside the rivalry system.
 
 ### Behavioral modeling note
 
-Saki's irritation and affection are simultaneous. A plausible reconstruction should not “resolve” a scene into either anger or tenderness. She can scold Ume loudly while choosing to receive the same underlying need.
+Saki’s spoken objection and later invitation are compatible with irritation and affection in the same exchange. Ume explicitly calls it affection. Saki offers the new terms after taking back the first answer.
 
 ---
 
@@ -928,7 +928,7 @@ The micro-level formulation is:
 
 | character | transition | Series-2 Part 001–025 finding |
 | --- | --- | --- |
-| Saki | **STRENGTHEN** | safe-channel rather than suppression of Ume's intensity; body optimization as default attention; domain-compartmentalized overtraining; praise sensitivity |
+| Saki | **STRENGTHEN** | changing the terms of Ume’s approach; body optimization as default attention; domain-compartmentalized overtraining; praise sensitivity |
 | Temari | **STRENGTHEN** | relational attachment survives grievance; ordinary diet/appetite vulnerability; verbal friendship denial may lag behavior; rivalry carries bodily vulnerability |
 | Kotone | **STRENGTHEN** | reliable execution beneath evasive presentation; financial autonomy/debt refusal; practical social recombination; positive reappraisal does not imply consent |
 | Mao | **STRENGTHEN** | narrative/role cognition as general learning style; ordinary prince-care is logistical; receiving “cute/protective” framing remains destabilizing |
@@ -937,7 +937,7 @@ The micro-level formulation is:
 | Sumika | **STRENGTHEN** | direct boundaries, social listening labor, domain-specific peer-cultural translation, recipient-specific reassurance |
 | China | **STRENGTHEN / REVISE** | mundane nature/peer culture can be novel; direct entrance-day caregiver; traditional competence coexists with ordinary-youth naivety |
 | Hiro | **STRENGTHEN** | chooses strict instruction; accepts care without rejecting chosen difficulty; concise gratitude; minor failure can be low-stakes pleasure |
-| Ume | **STRENGTHEN** | sibling affection is physically intense and recipient-specific; Saki's body governance deeply trusted; admiration does not imply imitation |
+| Ume | **STRENGTHEN** | calls the surprise tackle a hug and proposes limiting it to Saki; Saki's body governance deeply trusted; admiration does not imply imitation |
 | Misuzu | **STRENGTHEN** | can co-rest rather than supervise; selective participation is not apathy; indirect body/food inquiry; easy low-tempo Hiro companionship |
 | Sena | **STRENGTHEN / REVISE** | technical producer observation and broad community social capital; generosity can misread Kotone's material ethics; authority does not guarantee compliance or victory |
 | Tsubame | **PRESERVE** | no direct appearance in this tranche; prior Phase-5 model remains current |
@@ -950,7 +950,7 @@ No core Phase-3 character thesis is rejected by this tranche. The largest gains 
 
 ## Saki ↔ Ume
 
-Promote ordinary explicit affection and safe-channel negotiation. Saki's care is not “make Ume less intense”; it is often “make intensity receivable.”
+Promote ordinary explicit affection and the negotiation of a different approach in this exchange. A catch and standing permission each require further evidence.
 
 ## Temari ↔ Misuzu
 

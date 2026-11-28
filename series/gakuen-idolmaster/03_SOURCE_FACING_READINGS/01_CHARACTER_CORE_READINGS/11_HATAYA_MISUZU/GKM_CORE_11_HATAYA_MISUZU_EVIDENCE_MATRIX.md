@@ -117,3 +117,15 @@ This matrix is subordinate to `GKM_CORE_11_HATAYA_MISUZU.md`. It keeps high-load
 ## Recorded Event 023 evidence — 2026-11-25
 
 **STRENGTHEN**, exact scene scope. Part 03 L223–232 gives Misuzu's giving formula. Part 04 L219–221 is her recalled daily nap request. In part 05 L268–281 her gift response moves from bright to quiet, and at L296 she voices her planned bedtime listening. Her delivery varies while retaining polite speech. The written emphasis on important people and the future bedtime plan remain separately attributable. [Guarded Event 023 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded readings associated with the current event evidence — 2026-11-26
+
+**STRENGTHEN within the named clips.** Misuzu gives her own reasons for volunteering, examines the proposals, and suggests turning Ume’s idea into practical work. She asks for the floor before proposing that they finish the work together. Her earlier formal apology is separately audible, with the ensuing self-description crossing the first guard. The plan leaves her private motives and the final result open. [Guarded Event 005 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md#ume-and-misuzu-agree-to-work-together)
+
+## Recorded moon-viewing and its remembered quarrel
+
+The two person-specific P0 answers strengthen the bounded contrast between Misuzu's offer, resolve, remembered anger and current self-criticism. Her proposed way to make Temari shine and the authority for it remain open. [Guarded moon-viewing adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#misuzu-gives-up-one-role-and-keeps-an-aim).
+
+## Five guarded SyngUp support scenes
+
+The received person scopes are Q766/A, Q788/B, Q713/D and Q714/E. The edition, lines, guard, supported observation and open alternative for each follow the paired report. [Guarded SyngUp adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#received-person-specific-scopes).

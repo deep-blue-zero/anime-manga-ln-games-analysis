@@ -280,7 +280,7 @@ Their friendship does not require psychological sameness.
 
 Ume's search for Misuzu is comic exaggeration, but it also supplies a clean early distinction between athletic capacity and idol skill. She races through the school, identifies Misuzu at extreme distance, and treats physical action as her default solution.
 
-That matters later in Event 005, when Sena cannot read Ume's idol talent but is astonished by the physical demonstrations that won the headmaster's supplementary-admission approval. Across the tranche, Ume's body is an obvious resource whose translation into “idol talent” remains uncertain.
+Event 005 later distinguishes athletic ability from the talent Sena is trying to assess. Ume says she demonstrated athletic skills at her reinterview, and Sena praises that ability. Ume’s reserve admission leaves the selection criterion open (adv_event_005_main-05 L353, L440–475, L534).
 
 This supports the Phase-3 distinction between **developmental potential** and conventional starting metrics.
 
@@ -700,18 +700,18 @@ Sena observes that Saki has grown significantly since the entrance ceremony, the
 
 Saki does not accept the senior's authority. She says that Sena's older public words once embodied the pride and ambition she admired in Hatsuboshi. The present Sena is therefore a disappointment. Saki then announces that she will destroy the supposedly unbreakable wall and become an example **for Sena**, replacing the example supplied by Sena's earlier self.
 
-After Saki leaves, Sena insults her talent and calls her reckless—while visibly, according to Rinami's dialogue, becoming more animated. Tsubame and Rinami both say Saki resembles Sena. Sena refuses to recruit her.
+After Saki leaves, Sena calls her reckless and says she can only look ahead. Rinami describes Sena as in good spirits. Sena says anger is making her chest burn. Tsubame says Saki shows promise and suggests scouting her. Sena refuses and rejects the successor category (L442–487).
 
 Her reason is decisive:
 
-> Saki is not a successor. She is an enemy/rival.
+Sena rules out Saki as her successor and calls her an enemy.
 
 This scene directly exposes the difference between two relational categories in Sena's early production project:
 
 - **successor** — someone Sena can cultivate from above;
 - **rival/enemy** — someone whose claim can answer Sena from the same competitive plane.
 
-Saki becomes valuable precisely because she refuses the first category.
+Saki says the present Sena is no model for her. Sena declines Tsubame’s suggestion to recruit Saki and calls Saki an enemy (adv_event_005_main-04 L367–416, L474–487).
 
 ### Claim transitions
 
@@ -722,17 +722,19 @@ Saki becomes valuable precisely because she refuses the first category.
 - **Saki — STRENGTHEN:** her “false genius” self-understanding is compatible with elite observers seeing real limits. Her development claim is not “I secretly have infinite natural talent” but “a limit is not entitled to final jurisdiction.”
 - **Saki/Sena — PROMOTE:** mirror rivalry is a major Phase-6 relationship edge.
 
-## 7.8 Ume defeats Sena's talent-reading eye by being unreadable
+**Guarded conversation.** Saki’s delivery gathers force as she moves from a judgment about the present Sena to her own promise to become an example. Her disappointment and the new challenge belong to the same address. Sena’s later decision about recruitment remains a separate exchange. Sena answers Saki directly, then gives Tsubame a crisp refusal and calls Saki an enemy in the officers’ exchange. Earlier Rinami observes that Sena looks pleased, while Sena gives anger as her account. The delivery supports a rivalry that can carry different affects in one encounter. Their balance remains open. [Guarded Event 005 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## 7.8 Sena cannot assess Ume’s talent in their first encounter
 
 Sena looks for one more freshman who might develop fast enough for the summer H.I.F. She sees Ume running and immediately chases her.
 
-The crucial discovery is not that Sena sees enormous talent. It is that **Sena cannot read Ume at all**.
+Sena says she could not tell how much talent Ume had in this encounter. She calls it the first time this has happened (adv_event_005_main-05 L401–415).
 
-Ume is a supplementary admit. Her demonstrated qualification was extreme athletic capacity: inverted fingertip push-ups and acrobatics. Sena is astonished that someone with that body entered from the bottom of the selection system. Yet the thing that excites Sena is precisely that her usual eye fails.
+Ume says she was admitted from the reserve list. Tsubame treats that as evidence of lower current standing. Ume later recounts demonstrating her athletic ability at her second interview by doing handstand fingertip push-ups. Sena reacts with surprise. Earlier, Sena says she is excited and asks why (adv_event_005_main-05 L353, L368–394, L427, L440–475).
 
 This is a small but powerful epistemic wound in the early Sena model.
 
-If her talent-recognition skill were perfect, Ume would be only another high-potential asset. Instead Ume becomes a source of uncertainty—and uncertainty becomes exciting.
+Uncertainty and excitement coexist in Sena's account. That uncertainty itself interests her is a possible reading; she does not state the cause of her excitement.
 
 **STRENGTHEN:** Ume's development cannot be reduced to conventional idol parameters.
 
@@ -750,11 +752,13 @@ This gives a useful low-stakes reconstruction rule for Rinami: **soft delivery c
 
 **STRENGTHEN:** hospitality is compatible with boundary judgment and criticism.
 
+**Guarded appraisal and invitation.** Ume’s short first yes confirms her sister as the target. In the later exchange she reports her reserve admission and prior athletic display, then accepts Sena’s conditional council invitation. Each affirmative answers its immediate question. The exact samples and captions leave the rendering of the full athletic display unsettled. Sena’s unusually emphatic admission that she could not tell Ume’s talent is followed by her question about her own excitement. She later praises the reported athletic display and moves to a conditional offer. She describes having received a push toward recruitment. The cause of the earlier excitement and the earlier reserve-admission criterion remain open. [Guarded Event 005 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
 ## 7.10 Event 005 thesis
 
 > **Sena tries to reproduce the future vertically and discovers the most interesting people are those who resist being legible as successors.**
 
-China readily enters the inherited structure. Misuzu enters for reasons that remain partly opaque. Kotone resists possession. Saki rejects the successor relation so completely that Sena reclassifies her as a rival. Ume defeats the talent-recognition apparatus by being unreadable.
+China readily enters the inherited structure. Misuzu enters for reasons that remain partly opaque. Kotone resists possession. Saki challenges the present Sena as a model. Sena calls her an enemy. Sena reports that she could not assess Ume’s talent in this encounter.
 
 The story therefore does more than introduce a student council roster. It dramatizes the limit of succession as a model of development.
 
@@ -765,6 +769,8 @@ The story therefore does more than introduce a student council roster. It dramat
 **P0:** `adv_event_005_main-05` — Sena's reaction to being unable to read Ume's talent and the transition into excitement.
 
 **P1:** `adv_event_005_main-01` — Tsubame/Rinami responses to Sena's pseudo-agency plan; useful for institutional-role voice modeling.
+
+**Current scope (2026-11-26).** The requests above record the original selection. The scoped accepted answers are Hanami Saki P0 Q472, Juo Sena P0 Q472, Hanami Ume P0 Q473, Juo Sena P0 Q473. Other individual requests and readiness requirements retain their own dispositions. [Guarded Event 005 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
 
 ---
 
@@ -908,15 +914,15 @@ Sena selects Misuzu as elite successor material; Misuzu joins only after checkin
 
 ### Sena ↔ Saki
 
-Sena tests Saki with a deterministic wall; Saki rejects the premise and turns the challenge back on Sena. Sena refuses to place her below herself as a successor and instead names her an enemy/rival.
+Sena tests Saki with a deterministic wall. Saki turns the challenge back on Sena and says the present Sena offers her no model. Tsubame suggests scouting Saki. Sena declines and calls Saki an enemy (adv_event_005_main-04 L367–416, L474–487).
 
 **State:** mirror rivalry / anti-succession relation. High priority for Phase 6.
 
 ### Sena ↔ Ume
 
-Sena cannot read Ume's talent in her usual way and experiences the uncertainty as excitement.
+Sena says this is her first encounter in which she cannot assess a person’s talent. She also says she feels excited and asks why. After Ume recounts the athletic demonstration from her reinterview, Sena praises her ability and offers to guide her if she joins the student council (adv_event_005_main-05 L401–427, L440–574).
 
-**State:** epistemic fascination plus experimental mentorship.
+**State:** uncertain initial assessment and an explicit offer of mentorship.
 
 ### Tsubame ↔ Kotone
 
@@ -1040,7 +1046,7 @@ At the same time, characters modify those mechanisms:
 - Sumika invents a bonding intervention.
 - Class 1-2 copies and transforms it.
 - Sena redesigns the student council into a pseudo-agency.
-- Saki refuses Sena's succession model and forces a rival model into view.
+- Saki challenges the present Sena as a model. Tsubame suggests scouting Saki. Sena declines and identifies Saki as an enemy.
 
 Institution and character are mutually productive.
 
@@ -1146,7 +1152,7 @@ The tranche produces few outright Phase-3 rejections, but it does reject several
    Her jealousy is overt even though the delivery remains soft.
 
 7. **REJECT:** Sena's talent eye is infallible.  
-   Ume is explicitly unreadable to her, and the failure increases rather than decreases interest.
+   Sena describes her first failed assessment of this kind in her encounter with Ume. She separately reports excitement and asks why.
 
 8. **REVISE:** Class cohesion should not be measured by absence of argument.  
    Class 1-1 becomes more functional while remaining argumentative.
@@ -1237,7 +1243,7 @@ Promote:
 - Hiro: friends create a prosocial boundary around desired difficulty.
 - Rinami: festival/audience reframe; institutional critique inside soft register.
 - Sumika: family service obligation; deliberate nonpossessive handling of jealousy.
-- Ume: Worst Three identity; body/talent distinction; unreadability to Sena.
+- Ume: Worst Three identity; athletic ability and idol talent; Sena’s unresolved initial assessment.
 - Misuzu: early Class 1-2 reputation gap; jealous friend state; student-council motive OPEN.
 - Sena: pseudo-agency successor project; Saki rival reclassification; Ume epistemic failure.
 - Tsubame: Kotone confidentiality; role-bounded skepticism of Sena.

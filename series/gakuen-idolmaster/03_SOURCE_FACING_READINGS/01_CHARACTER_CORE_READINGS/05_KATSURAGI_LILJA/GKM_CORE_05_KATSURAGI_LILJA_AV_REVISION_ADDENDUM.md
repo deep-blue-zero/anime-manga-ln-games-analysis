@@ -181,3 +181,7 @@ Lilja's audiovisual development does not replace timidity with fearlessness. It 
 The current Phase-3 formulation is:
 
 > **Lilja does not prove that weakness was false. She learns to organize weakness into a permeable world: support can enter, technique can stabilize it, and courage can leave toward someone else.**
+
+## Guarded Event 012 evidence — 2026-11-26
+
+**STRENGTHEN within the named guards.** Lilja’s quieter inward account makes continuing to run a condition she uses to justify standing beside Sumika. In the later exchange she says aloud that she wants to become an idol and asks Saki to teach her. The spoken choice supplies initiative where the quieter self-account laid out a constraint. Her final reflective delivery has its own presentation, with no demonstrated in-story audience. Lilja proposes leaving the larger-stage promise open, then asks Sumika to support and guide her. The listeners report a measured request with its own rising end. This gives her an initiative of her own in the agreement. Her next spoken answer and individual inward line before the show have separate roles. The picture and dialogue leave actual hand contact and the stage result open. [Guarded Event 012 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)

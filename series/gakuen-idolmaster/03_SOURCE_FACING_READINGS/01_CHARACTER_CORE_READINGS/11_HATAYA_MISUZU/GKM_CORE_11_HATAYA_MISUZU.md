@@ -700,6 +700,8 @@ First, she no longer needs permanent SyngUp! restoration to make unit work emoti
 
 Second, she can admit that she entered student council partly through an absurdly strategic desire to turn it into a comfortable future gathering point for old friends. This is comic but consistent: Misuzu often modifies institutions by making them hospitable to her chosen relationships.
 
+**Recorded comparison (2026-11-26).** Misuzu gives her own reasons for volunteering, examines the proposals, and suggests turning Ume’s idea into practical work. She asks for the floor before proposing that they finish the work together. Her earlier formal apology is separately audible, with the ensuing self-description crossing the first guard. The plan leaves her private motives and the final result open. [Guarded Event 005 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md#ume-and-misuzu-agree-to-work-together)
+
 Third, she revises an earlier contempt for seniors. Living and working with the student council forces her to recognize that the older students are substantial performers and difficult opponents.
 
 Fourth, Ume becomes important because Misuzu spontaneously reads her as Rinha-like. That reading is not in CIDOL 010. It is stated in CIDOL 015_01 (`adv_cidol-hmsz-3-015_01.txt` L72–L160), and its D-MISUZU source is Misuzu's inner realization in Dear 014 that Ume resembles "someone" (L242–L254) (locator revised 2026-11-15, GKM-SAA-247):
@@ -1214,3 +1216,11 @@ On the Event 002 corridor recording, Misuzu quietly says what has hurt her, then
 ## Recorded Event 022 and 024 evidence — 2026-11-25
 
 Misuzu recognizes the two-person assignment, anticipates agreement with Ume, and proposes replying on a cue. Her later promise to take the song for herself belongs to a separate utterance (Event 024 part 04 L187, L299, L328–334, L368). She separately says 'mine alone' as the others enter the title call (part 05 L143–160). Later Misuzu relays Tsukimura's request and Sena identifies a distinct contribution from Misuzu's singing (L340–359). Difference in who says, asks, and attributes matters to the reconstruction. In the distinct official trio MV, Misuzu moves into audible and pictured foreground while the ensemble keeps a changing center. The video supplies no actual Shibuya performance. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)
+
+## Recorded moon-viewing and its remembered quarrel
+
+Misuzu points to their resumed shared life and agrees it has not returned to its old form. She says she will stop asking Temari to sing together and gives up the aim of being Temari’s wings. Misuzu still plans to make Temari shine in her own way. She keeps her polite address even when her remembered reply is forceful. In the present she includes her own inaction in the account of what went wrong. [Guarded moon-viewing adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#misuzu-gives-up-one-role-and-keeps-an-aim).
+
+## Five guarded SyngUp support scenes
+
+**STRENGTHEN within the named support guards.** Misuzu states her own pleasure, accepts an invitation in her own time and proposes a limited truce. In the separate dream she asks the represented Temari to provide the scolding she misses. None of these actions requires supplementing her stated aims with a fixed hidden motive. [Guarded SyngUp adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

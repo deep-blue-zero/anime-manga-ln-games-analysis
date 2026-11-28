@@ -69,3 +69,19 @@ The [new targeted Event 016 receipt](GKM_EVENT016_HANAMI_SISTERS_PERCEPTUAL_ADJU
 **REVISE.** In support 2-0018 part 02, かちこちストレッチ, Saki offers a break and Temari declines. After the stumble Saki warns that a sprain can worsen if ignored and says she will do the taping (L93–111). On 6olQr2D94ZA, the warning is around 134.5–138.8 s and the taping instruction around 140.8–144.8 s. The cut shifts to a desk-side view of the same dance room. The injury, tape and application remain outside the frame. L116 assigns a fumble effect that the listeners did not securely locate in the mix. Completion of the taping is **OPEN**.
 
 Saki apologizes for pushing Temari. She accepts Temari’s self-assessment, then renews the challenge. The light chuckle at about 170–173 s gives their competitive answer an audible warmth (L120–169). The turn establishes how Saki combines a safety response with accountability and rivalry. Whether her agreement was simple candor or deliberate provocation remains **OPEN**. Individual Gate E remains open. [Recorded support adjudication](../GKM_PHASE7_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+Saki speaks a lyric about an unseen future, then sets an audience goal and asks the group to rest. The listening scope includes the ending of her earlier conclusion. It leaves its opening outside the window. Saki says the performance felt shared with the audience. She encourages Ume’s wish to try more covers and answers her in spoken wordplay. The audience and performance reach this exchange through the participants’ accounts. [Guarded Event 026 and support comparison](../GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Recorded exchange and scope — 2026-11-26
+
+Saki’s delivery gathers force as she moves from a judgment about the present Sena to her own promise to become an example. Her disappointment and the new challenge belong to the same address. Sena’s later decision about recruitment remains a separate exchange. [Guarded Event 005 and 024 adjudication](../GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md#saki-challenges-the-present-sena)
+
+## Guarded coaching and support dialogue — 2026-11-26
+
+Saki projects her call and criticizes the inefficiency she has been watching as a friend. She offers instruction as an order to become her pupil, and the listeners distinguish her firm condition for withdrawing the offer. Lilja’s explicit request for Saki to teach her supplies the response in this exchange. Saki’s use of 免罪符 echoes Lilja’s inward word for the player. No in-story access follows from the echo. Saki’s recalled demand that Sumika tell her everything is direct and weighted. Later she says she had noticed the change in a respected rival and could not see its trigger. She says she wanted to help if something kept Sumika from trying despite wanting to. The listeners hear a brighter shift on calling the others her friends. The earlier pressure, the later account, and Sumika’s response have their own evidence. [Guarded Event 012 adjudication](../GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Ume’s proposals, relationship labels and terms of approach
+
+**Saki P1 Q660.** Saki brightly affirms that Lilja is her friend, then answers Ume in a more matter-of-fact register by naming her as her sister. The content and delivery distinguish the two responses. A motive to exclude Ume remains open. [Guarded Ume adjudication](../GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#asking-to-be-a-friend-and-proposing-a-contest).

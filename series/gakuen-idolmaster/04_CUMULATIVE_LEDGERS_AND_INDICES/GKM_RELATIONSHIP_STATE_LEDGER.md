@@ -348,8 +348,8 @@ Relational thesis: **Rinami's mature care is reversible rather than unilateral. 
 | Sena ↔ China | E005 | high-asymmetry mentor/successor recruitment with inherited legitimacy questions latent | high |
 | Sena ↔ Kotone | E005 discussion | exceptional recognition without secured consent | high |
 | Sena ↔ Misuzu | E005 | accepted recruitment; reason for remaining-capacity question remains OPEN; bearing evidence `adv_event_005_main-03` L151–L176 (not heard by Misuzu) and L402–L427, SL1.1 `adv_event_027_main-01` L130–L145 and `main-05` L268–L273; competing readings: room for Temari, a Sena-centred motive, a small group (GKM-SAA-106) | high / motive open |
-| Sena ↔ Saki | E005 | **PROMOTE:** mirror rivalry / anti-succession relation; Saki is explicitly `敵`, not successor | very high |
-| Sena ↔ Ume | E005 | epistemic fascination and experimental mentorship begin where Sena cannot read Ume's talent | very high |
+| Sena ↔ Saki | E005 | **PROMOTE:** mirror rivalry; Saki challenges the present Sena as a model. Sena declines Tsubame’s suggestion to recruit Saki and rules out succession and calls Saki `敵` (main-04 L367–L416, L474–L487) | very high |
+| Sena ↔ Ume | E005 | Sena reports uncertainty about Ume’s talent and separately asks why she is excited; she later invites Ume to join the council and offers to guide her (main-05 L401–L427, L534–L574). The cause of that excitement is open | very high |
 | Tsubame ↔ Kotone | E005 discussion | prior rule-enforcement contact includes confidentiality and respect for private circumstances | high |
 
 <!-- PHASE4_EVENTS_006_012_2026-08-23 -->
@@ -366,7 +366,7 @@ Relational thesis: **Rinami's mature care is reversible rather than unilateral. 
 | Saki ↔ Temari ↔ Kotone | E008 | at the Animate counter, Saki and Kotone distinguish customer-facing remarks from quiet peer correction. Kotone prompts and Temari delivers her own invitation. Their later response to Kotone’s overwork is a separate event passage. [Animate fan encounter](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md#the-fan-and-the-idol-image) | high |
 | Kotone ↔ Lilja | E009 | direct friendship edge; Kotone gives permission to rely on her and scaffolds, but Lilja chooses the job and later initiates relation herself | high |
 | Lilja ↔ Ume | E009 | acquaintance becomes direct friendship through collaborative baking and teaching | high |
-| Lilja ↔ Sumika | E009/E012 | **PROMOTE:** historical asymmetry is revised into explicit bilateral support—`support me, and I will support you`—without fusion | very high |
+| Lilja ↔ Sumika | E009/E012 | **PROMOTE:** in Event 012, Sumika requests support, Lilja asks in return for support and guidance, and Sumika agrees. The two have specified different needs | very high |
 | Hiro ↔ Rinami | E010 | consent-sensitive help: assistance remains available without becoming compulsory; Hiro requests it only after her value ordering changes | very high |
 | Hiro ↔ China / Ume / Misuzu | E010 | explicit `大切なお友達` close-friend cluster; preserve as direct network evidence rather than proximity inference | very high |
 | Sena ↔ Hiro | E010 | admired junior / resource-facilitation edge; affection and gratitude are translated into access to a stage | high |
@@ -374,7 +374,7 @@ Relational thesis: **Rinami's mature care is reversible rather than unilateral. 
 | Mao ↔ Temari | E011 | mentor/learner reciprocity: Mao transmits acting craft; Temari then advocates for Mao's suppressed role desire | very high |
 | Mao ↔ China | E011 | junior operational redesign improves the senior's job-state and enables role plurality | high |
 | Saki ↔ Lilja | E012 | **PROMOTE:** explicit `師匠` developmental relation; Saki targets method, not merely morale | very high |
-| Saki ↔ Sumika | E012 | challenge-based support and graded recovery; Saki identifies concealment, forces causal clarification, and adapts training/work to Sumika's actual constraint | very high |
+| Saki ↔ Sumika | E012 | Saki confronts suspected concealment. Sumika later says that enabled her to consult Saki. Separate written part 04 evidence describes subsequent adaptation of training and work | very high |
 
 <!-- PHASE4_EVENTS_013_020_2026-08-23 -->
 ## Phase 4 — Events 013–020 relationship-state additions
@@ -398,7 +398,7 @@ The following edges are strong enough to enter the cumulative relationship ledge
 | Temari ↔ Rinha | E016 historical | Rinha's coaching language persists as Temari's later teaching repertoire |
 | Hiro ↔ Sumika | E018 | fear of being seen through becomes reciprocal disclosure and planned shared play |
 | Hiro ↔ Mao | E018 | structural recognition of prior-life discontinuity becomes direct mutual respect |
-| Mao ↔ Sumika | E018 | senior notices embodied fear and adapts production without infantilization |
+| Mao ↔ Sumika | E018 | after Hiro’s knee question and Sumika’s account, Mao calls for careful rehearsal and Sumika agrees; proposed terms and implementation remain separate *(written-source precision, 2026-11-26)* |
 | Saki ↔ Temari ↔ Kotone | E019 | **PROMOTE:** high-friction peers become travel-capable operational friends with stable domain roles |
 | Temari ↔ Misuzu | E019 | direct evidence that care can persist across physical separation and independent peer functioning |
 | Lilja ↔ Sumika | E020 | **PROMOTE:** shared Sweden history, mutual world-expansion, intimate trait knowledge, and complementary feared futures form a central Phase-6 relationship dossier |
@@ -461,7 +461,7 @@ Phase-4 relationship hypothesis promoted for Phase 6 testing: relation produces 
 
 | relationship | transition | evidence / implication |
 | --- | --- | --- |
-| Saki ↔ Ume | **STRENGTHEN** | ordinary explicit affection plus safe-channel negotiation: Saki redirects hazardous tackle-hugs rather than rejecting Ume's need for contact |
+| Saki ↔ Ume | **STRENGTHEN** | ordinary explicit affection plus safe-channel negotiation: Saki redirects hazardous tackle-hugs rather than rejecting Ume's need for contact *2026-11-26 qualification.* Ume describes affection. Saki names injury risk, withdraws her first assent and offers a front approach. Whether she catches Ume remains open. |
 | Temari ↔ Misuzu | **STRENGTHEN** | Temari's grievance reflexively becomes defense when Kotone flattens Misuzu; Misuzu independently names the same training incompatibility while preserving affection |
 | Kotone ↔ Mao | **STRENGTHEN** | Mao's dorm supervision repeatedly discovers competence beneath Kotone's evasive surface; health advice becomes negotiable rather than unilateral |
 | Mao ↔ Rinami | **STRENGTHEN** | study advice, career-philosophy disagreement, beach logistics, and reciprocal protection show normalized long-term peer access |
@@ -538,8 +538,8 @@ Phase-4 relationship hypothesis promoted for Phase 6 testing: relation produces 
 | relationship / cluster | transition | Series-3 evidence | Phase-6 routing |
 | --- | --- | --- | --- |
 | Saki ↔ Temari ↔ Kotone | **PROMOTE** | Saki explicitly asserts `友達`; Temari/Kotone deny the label while continuing meals, tutoring, intervention, teasing; all three reject a proposed unit | build a friendship-triangle dossier separate from unit/professional alignment |
-| Temari ↔ Misuzu | **MAJOR PROMOTION** | mutual observation of new friends; `夢の場所で`; indirect effort/rest correction during estrangement; elite shared lesson yields reciprocal moderation; thunder truce; Misuzu dream asks for old scolding / `一緒にレッスン行こう` | P0 dossier: broken access + continuing witnesshood + co-regulation + remembered dependence |
-| Temari ↔ Kaya Rinha | **PROMOTE** | during thunder/power-outage panic Temari calls `りんはぁ……雷とめてぇ` before Misuzu arrives | mandatory Rinha reconstruction: attachment/safety reflex evidence |
+| Temari ↔ Misuzu | **MAJOR PROMOTION** | mutual observation of new friends; `夢の場所で`; indirect effort/rest correction during estrangement; elite shared lesson yields reciprocal moderation; thunder truce; in Misuzu’s dream she asks for renewed scolding and the represented Temari says `一緒にレッスン行こう`. *2026-11-26 written qualification.* Support 3-0021 part 03 L70–170 is a dream; it does not independently verify a remembered past exchange. | P0 dossier: broken access + continuing witnesshood + co-regulation + remembered dependence (the dream is not memory evidence for it) |
+| Temari ↔ Kaya Rinha | **PROMOTE** | during thunder/power-outage panic Temari calls `りんはぁ……雷とめてぇ` before Misuzu’s phone reply. *2026-11-26 written qualification.* In support 3-0021 part 02 L91–109 Temari addresses Rinha. Misuzu replies by phone; the earlier “before Misuzu arrives” wording does not establish her physical presence. Rinha’s presence, response and receipt remain open. | mandatory Rinha reconstruction: attachment/safety reflex evidence |
 | Ume ↔ China ↔ Hiro | **MAJOR PROMOTION** | room visits, first China home-friend visit, Hiro explicitly asks if they are friends, shared meals/training/hiking/study, joint vow to become idols | P0 trio dossier: asymmetric competence exchange and first-friend formation |
 | Mao ↔ Rinami | **PROMOTE** | same-year first meeting; Rinami initially reads Mao as senior; mature pair support new students differently; Mao declines council while respecting Rinami's service vocation | connect entry-year recognition to mature role divergence |
 | Sumika ↔ Lilja | **MAJOR PROMOTION** | explicit `親友`; pre-/early-enrollment photos/shopping; move-in; food, waking, late-return safety, anime-goods shopping | treat as domestic/cohabiting best-friend system |
@@ -587,7 +587,7 @@ Phase-4 relationship hypothesis promoted for Phase 6 testing: relation produces 
 | Rinami ↔ Sumika | **PROMOTE** | Sumika discloses fear of dance; Rinami discloses her own first-year post-unit stage fear without claiming equivalence | vulnerable-support / analogous-wound dossier |
 | Rinami ↔ Lilja | **PROMOTE** | shared anime knowledge, hair exchange, migration loneliness, parent-contact encouragement | homesickness / older-sister-coded care dossier |
 | China ↔ Lilja | **PROMOTE** | reciprocal sweets + anime viewing + follow-up fandom + friendship gift | cross-class fandom/cultural-exchange dossier |
-| Hiro ↔ Misuzu ↔ Temari | **PROMOTE** | Hiro elicits Misuzu effort; Temari's jealousy coexists with explicit trust in Hiro continuing to mobilize Misuzu | effort-condition / delegated-trust triangle |
+| Hiro ↔ Misuzu ↔ Temari | **PROMOTE** | Hiro elicits Misuzu effort; Temari says she already knew when Misuzu would make an effort and addresses Hiro with `今後も、その調子でよろしく`. *2026-11-26 written qualification.* In support 3-0067 part 01 L162 Temari addresses a request to Hiro. The scene leaves jealousy, Hiro’s acknowledgment and later action open; the earlier “jealousy coexists with explicit trust” wording is a proposed reading to test, not an established finding. | effort-condition triangle; test the proposed jealousy / delegated-trust reading |
 | Mao ↔ China | **PROMOTE** | Mao preserves China's training intention while replacing unsafe stair imitation with safe method; playful role access | method-translation mentorship dossier |
 | Kotone ↔ family ↔ Saki/Temari | **STRENGTHEN** | younger sister visits school; Saki/Temari guide and are already trusted play contacts | family-perimeter expansion |
 | China ↔ Kotone | **PROMOTE** | personalized low-cost gift reciprocity across large wealth asymmetry; invitation extends to Kotone siblings | cross-class reciprocity / family-network expansion |
@@ -965,3 +965,41 @@ In support `2-0018_02` Saki’s care and apology precede Temari reclaiming respo
 ## Guarded care, chosen company and a summer photograph — 2026-11-25
 
 **STRENGTHEN.** The care sequence permits a specific request from Mao once Kotone has taken the lead. Mao and Kotone take different actions in attending Sena’s live and describing it afterward. In Event 003, Sumika's candid photo report and later group invitation are distinct acts. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+**STRENGTHEN.** The sisters can propose distinct goals in front of their colleagues. Ume can accept Saki’s reassurance and keep her question open. Temari’s closing Event 026 line changes her earlier singular formulation to a plural one. The Japanese caption emphasizes the plural suffix. The exact people she has in mind and their future stage remain open. The collective dialogue elsewhere in the excerpt assigns Saki and Ume, while the mixed laughter leaves exact contributor separation open. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded council succession — 2026-11-26
+
+China accepts responsibility for the paperwork lapse and explains Ume’s assistance. She later asks the seniors for a chance for all three juniors to answer their concerns. The two guarded scenes distinguish her earlier apology from the later request. Tsubame directs Ume to finish collecting the paperwork. Her recorded recollection of entrusting the school to the juniors differs from her present questions about their readiness. Her concern leaves the graduation decision outside this exchange. China promises to become a dependable president by spring and then asks Ume and Misuzu for continued help. The proposal to widen their group and invite Hiro is prospective. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Local authority and joint work in Events 005 and 024
+
+| Pair | Scene and bounded state | Transition |
+| --- | --- | --- |
+| Sena ↔ Saki | Event 005 part 04. Saki offers to become a model for Sena. Sena addresses Saki directly and subsequently refuses Tsubame’s proposal to recruit her. | **STRENGTHEN** the distinction between the rivalry and succession. |
+| Sena ↔ Ume | Event 005 part 05. Ume names her sister as a goal and later accepts a council invitation. Sena says she could not assess the talent, then praises the reported athletic display and offers guidance. | **STRENGTHEN** the separate roles in the recruitment. The cause of her earlier excitement stays **OPEN**. |
+| Ume ↔ Misuzu | Event 024 part 02. Ume supplies an audience criterion and one-day memory proposal. Misuzu proposes making the idea concrete and asks them to see it through together. Ume agrees. | **STRENGTHEN** this local agreement. Later collaboration and the event outcome retain separate evidence. |
+
+[Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Received Event 012 relationship states
+
+Saki projects her call and criticizes the inefficiency she has been watching as a friend. She offers instruction as an order to become her pupil, and the listeners distinguish her firm condition for withdrawing the offer. Lilja’s explicit request for Saki to teach her supplies the response in this exchange. Saki’s use of 免罪符 echoes Lilja’s inward word for the player. No in-story access follows from the echo. Saki’s recalled demand that Sumika tell her everything is direct and weighted. Later she says she had noticed the change in a respected rival and could not see its trigger. She says she wanted to help if something kept Sumika from trying despite wanting to. The listeners hear a brighter shift on calling the others her friends. The earlier pressure, the later account, and Sumika’s response have their own evidence. Lilja’s quieter inward account makes continuing to run a condition she uses to justify standing beside Sumika. In the later exchange she says aloud that she wants to become an idol and asks Saki to teach her. The spoken choice supplies initiative where the quieter self-account laid out a constraint. Her final reflective delivery has its own presentation, with no demonstrated in-story audience. Lilja proposes leaving the larger-stage promise open, then asks Sumika to support and guide her. The listeners report a measured request with its own rising end. This gives her an initiative of her own in the agreement. Her next spoken answer and individual inward line before the show have separate roles. The picture and dialogue leave actual hand contact and the stage result open. Sumika’s quiet inward account of fear contrasts with the brighter assurances she gives Lilja. She later tells Saki that the confrontational exchange let her seek advice. The original script and caption print ぼきり, while the listeners transcribe ぽきり. The earlier ellipsis and heard breathing retain separate nameplate and audio assignments. The underlying cause, precise consonant and others’ access to the inward line remain open. Sumika asks Lilja quietly for support and acknowledges wanting to stand beside her. She agrees to Lilja’s request and later speaks more brightly about what they might do together. Her inward final line gives being beside someone as a reason to keep running. The line’s companion remains unnamed. The script assigns only Lilja and Sumika to the preceding layered group cue, with individual contributions to the mix unresolved. [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+In Event 010 part 04 Hiro says she wants to try making the chocolate alone when Rinami offers help. After judging her first result unsuitable for her friends, Hiro explicitly asks Rinami to make it with her. After they finish she contrasts this occasion with her usual emptiness and says it was enjoyable. The scene leaves the distinct contributions of purpose, companionship and success open. Rinami’s separate assent follows the changed request. The named dedication, friends’ live reactions, and subsequent return gifts are separate sides of the Event 010 exchange. [Event 010 relation evidence](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Recorded moon-viewing and its remembered quarrel
+
+A shared evening and ordinary care coexist with Temari's reservation and Misuzu's unexplained future method. Temari gives the first serious quarrel value. Misuzu applies the view to one remaining unnamed person and accepts postponement in this exchange. The words establish separate choices about companionship and the timing of further action. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#the-remembered-argument-and-the-present-judgment).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Ume explicitly asks to be Saki’s friend after Saki calls Lilja one. Saki names sisterhood in answer. Ume proposes a contest and Lilja reacts with surprise. The delivered contrast adds performed evidence for the moves. Jealousy, teasing and a bid for attention remain possible readings. The scene records no agreement to a contest. Saki withdraws her first assent and asks Ume to approach from the front. Ume announces the change and reports satisfaction later. Sampled approach and the blackout leave contact, a catch and safety open. The revised invitation applies to this occasion. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+Misuzu says she also had fun and Hiro describes the effort in her own terms. Hiro’s voiced claim of friendship is her own contribution. Temari later addresses a request to Hiro. The reply, acceptance of a continuing duty and precise motive remain open. Temari calls out Rinha’s name during the outage. Misuzu’s voice comes through the phone and asks if Temari is all right. Misuzu proposes a truce for tonight, and Temari agrees until thunder stops. Participation by Rinha remains unestablished. Misuzu asks the Temari she encounters in a dream to scold her. Dream-Temari also offers the infirmary earlier and later invites her to a lesson. Misuzu’s waking statement concerns readiness. The dream, actual past chronology and any later attendance keep their separate source requirements. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

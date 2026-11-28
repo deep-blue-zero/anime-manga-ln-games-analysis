@@ -546,3 +546,19 @@ In Event 024 part 04, `Choo Choo Choo` is the main-competition performance and `
 ## Guarded care, chosen company and a summer photograph — 2026-11-25
 
 **PRESERVE.** Kotone offers a lullaby in speech. The reported offer and the music playing in the game have separate sources. Sena’s concert is represented in the characters’ separate accounts and falls outside the two attended dialogue cuts. The summer score can shape the listener’s access to Mao’s inward speech without revealing who heard the thought in the story. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+**REVISE.** Saki quotes lyrics in speech and the sisters later play on the title aloud. The first Event 026 excerpt reaches the following chapter’s crowd sound, and the support excerpt reaches the next scene’s score. The score cues, dialogue and the characters’ later accounts refer to different parts of the recording. The actual concert performance remains a separate source question. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Timed openings in separate same-title editions corroborate common musical material under the Event 010 reactions. Exact mix identity and the song Hiro is reported to have sung remain open. In the separate support scene, two backed passages share distinct authored cue material and a short both-channel digital break occurs between them. Exact perceptual silence, instruments and venue or room access retain their own scope. [Measured material and precise source limits](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#musical-material-and-cue-changes).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Five selected fragments of mixed backing match between the end of Event 006 part 03 and the aftermath in support 2-0000 part 01 at one measured offset. The locked scripts assign daily-001 to both passages. Exact onset and the full return remain open. The support 2-0047 part 02 original decodes to zero on both channels before its decoded endpoint. The child has 271 additional zero pairs beyond that endpoint. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#what-the-score-comparison-can-carry).
+
+## Five guarded SyngUp support scenes
+
+Temari declines being produced, then accepts an assessment and a shared song. Sena praises the represented unison. No independent listener identifies a sung voice inside the two guarded glyph passages. The authored audition cue and different reported score segments remain separate. The later invitation remains prospective. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#what-the-rehearsal-lets-them-agree-to).

@@ -118,3 +118,15 @@ Phase-4 event and Phase-5 support evidence was integrated into the parent core b
 ## Recorded Event 022 and 024 evidence — 2026-11-25
 
 **STRENGTHEN** distinction among Ume's count, joint refusal, invitation, protection, title call and post-live comments. Keep the actual performance and reception comparison **OPEN**. Sena attributes a permissions effect to Ume. Ume's role remains distinct from the account Sena gives of Misuzu. The distinct official trio MV supports changing vocal foreground and authored focality. Ume's athletic preparation and shared hook remain separate from the event performance. [Guarded Event 022 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+Ume says an idol should answer her own expectations and addresses herself by her full name. The scenario has no inward flag. Who else heard the turn remains open. Ume describes her excitement, proposes new partners and says she aims to cover all 765 Pro songs. The spoken title exchange and the earlier stage performance have different scopes. Ume’s support part 01 recollection distinguishes following Saki from dreaming specifically of idolhood. Ume affirms her trust and says she wants to find her own answer. The onset of that aspiration remains undated. [Guarded Event 026 and support comparison](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded readings associated with the current event evidence — 2026-11-26
+
+**STRENGTHEN within the named clips.** Ume’s short first yes confirms her sister as the target. In the later exchange she reports her reserve admission and prior athletic display, then accepts Sena’s conditional council invitation. Each affirmative answers its immediate question. The exact samples and captions leave the rendering of the full athletic display unsettled. Ume asks whether the juniors may take the assignment, asks whether the proposals would work for everyone, and voices the idea of a memory unique to that day. In the final exchange she gives Misuzu the floor and then replies more brightly to her proposal to finish the work together. The result of the plan remains outside these windows. [Guarded Event 005 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Ume’s proposals, relationship labels and terms of approach
+
+**UME-C03 and UME-C16, STRENGTHEN within the guarded evidence.** Support 2-0000 part 01 L30–118 tests one change of terms. Event 006 part 03 L322–423 tests retaining one’s work under agreed checking. Support 2-0047 part 02 L93–164 distinguishes an explicit wish for friendship, Saki’s distinct answer and a request to compete. Motive and contact remain open. [Guarded Ume adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).

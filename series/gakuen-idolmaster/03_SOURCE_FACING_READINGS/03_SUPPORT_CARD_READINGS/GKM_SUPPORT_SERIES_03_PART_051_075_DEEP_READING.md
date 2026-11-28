@@ -163,6 +163,8 @@ Ume supplies one of the clearest individuation statements in the support corpus.
 
 Saki responds correctly: she guarantees that the current Ume is a real idol, but does not supply the missing answer for her. This strengthens the distinction between Saki's body/training authority in domains where Ume welcomes it and Ume's increasing authorship over identity.
 
+Ume’s support part 01 recollection distinguishes following Saki from dreaming specifically of idolhood. Ume affirms her trust and says she wants to find her own answer. The onset of that aspiration remains undated. The guarded comparison reaches only the start of the next room and a separate Saki call. Its later recovery dialogue has its own source. [Guarded Event 026 and support comparison](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md#the-question-ume-wants-to-answer-on-her-own)
+
 Part 2 adds a recovery correction to Saki. Her schedule has become overloaded, and she recognizes that prioritizing routine while neglecting recovery defeats the purpose of being the person who always maintains best condition. Ume pushes further: rest should not reduce to sleep when companionship can restore a different kind of fatigue. Saki accepts that talking with Ume may repair emotional exhaustion better than more sleep.
 
 Part 3 preserves sibling possessiveness without making it the whole relationship. Ume has identified the idol who originally inspired Saki and immediately reclassifies that person as an enemy because she wants to be Saki's number one. Saki answers that Ume has been her number-one idol since the day they met. The source does **not** identify the unnamed inspiration here; that identity remains routed elsewhere or OPEN in this artifact.
@@ -440,7 +442,7 @@ Hiro provides evidence that Hatsuboshi's idol economy contains forms of appeal n
 
 # 18. `story_0067` — sports festival: collective performance without unit formation
 
-The first part deepens the Hiro–Misuzu relation through physical play. Misuzu admits that the sports festival was genuinely fun even though she initially frames participation as uncharacteristic. Hiro rejects the contradiction: this also looks like Misuzu to her. Temari's arrival turns the scene into affectionate jealousy. She already knows that Misuzu will work hard under particular relational conditions and tells Hiro, in effect, to keep producing those conditions.
+The first part deepens the Hiro–Misuzu relation through their accounts of the sports festival. Misuzu frames the exercise as uncharacteristic and admits enjoying it; Hiro says it seems characteristic of her. Temari asks about Misuzu trying hard with Hiro, Misuzu asks Hiro to help explain, and Hiro instead declares how close they are. Temari says she already knew when Misuzu would make an effort, then addresses Hiro: `今後も、その調子でよろしく`. The closing words invite that role. They do not establish Hiro’s receipt or acceptance after the preceding departure cues.
 
 This is useful because it differentiates motivation from global laziness. Misuzu is not equally willing under every demand. Specific relational structures can mobilize effort that generic exhortation cannot.
 
@@ -451,10 +453,14 @@ Part 3 gives Sumika athletic recognition from Ume. Sumika had built an insurmoun
 ### Claim transitions
 
 - **Hiro ↔ Misuzu — STRENGTHEN:** Hiro can draw effort from Misuzu without reproducing Temari's old dynamic.
-- **Temari ↔ Misuzu ↔ Hiro — PROMOTE:** the triangle contains jealousy, recognition, and delegated trust rather than simple rivalry over affection.
+- **Temari ↔ Misuzu ↔ Hiro — PROMOTE:** Temari’s stated prior understanding and addressed request coexist with Hiro and Misuzu’s friendship. Jealousy is one possible interpretation; received or enacted delegation remains open.
 - **Ume — PROMOTE/STRENGTHEN:** she can conceptualize idol performance as collective production even without unit membership.
 - **Sumika — STRENGTHEN:** high athletic ability remains an active competence after the ballet rupture.
 - **Ume ↔ Sumika — PROMOTE:** athletic respect can become a bridge into idol rivalry.
+
+**Written-source precision (2026-11-26; Source Lock 1.2 revision 88).** In `adv_csprt-3-0067_01.txt`, L97 is Misuzu’s request for Hiro’s help, L123 is Hiro’s declaration of friendship, and L156–162 is Temari’s statement and address. Authored departure cues at L120–129 and the absence of Hiro’s reply leave receipt and subsequent compliance open. Earlier Phase-5 transition labels remain; jealousy is an interpretation to test, not an independently resolved written motive.
+
+Misuzu says she also had fun and Hiro describes the effort in her own terms. Hiro’s voiced claim of friendship is her own contribution. Temari later addresses a request to Hiro. The reply, acceptance of a continuing duty and precise motive remain open. [Guarded SyngUp adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#enjoyment-and-the-request-to-hiro).
 
 ---
 
@@ -815,7 +821,7 @@ Highest-priority Phase-6 dossiers after this tranche:
 8. **Rinami ↔ Sumika** — credible vulnerable disclosure grounded in different but analogous stage fear.
 9. **Rinami ↔ Lilja** — migration/homesickness, fandom, hair skill, and older-sister-coded care.
 10. **China ↔ Lilja** — fandom-based cross-class friendship and cultural exchange.
-11. **Hiro ↔ Misuzu ↔ Temari** — effort conditions, jealousy, and delegated trust.
+11. **Hiro ↔ Misuzu ↔ Temari** — effort conditions and Temari’s request to Hiro. Motive and acknowledgment stay open.
 12. **Third-year quartet** — leisure, rank asymmetry, childhood familiarity, graduation finitude, and repeated off-duty intimacy.
 13. **Kotone ↔ family ↔ peers** — Saki/Temari enter the sibling-care perimeter; China begins extending the reverse invitation toward Kotone's siblings.
 
@@ -921,7 +927,7 @@ This tranche supplies several high-value register distinctions for downstream sp
 4. `adv_csprt-3-0064_03` — Sumika's fear of dancing and Rinami's `Love☆しすたぁず` disclosure.
 5. `adv_csprt-3-0065_03` — Temari's reverse jealousy, recognition of Misuzu's cooking, and Kotone's brokerage.
 6. `adv_csprt-3-0066_03` — Sena saying Hiro's barely viable live nevertheless reached her emotionally.
-7. `adv_csprt-3-0067_01` — Hiro/Misuzu closeness, Misuzu's panic, and Temari's jealous/delegating response.
+7. `adv_csprt-3-0067_01` — Hiro/Misuzu closeness, Misuzu’s appeal for help, and Temari’s closing address to Hiro, with motive and receipt open.
 8. `adv_csprt-3-0070_03` — Kotone asking whether Tsubame waited, Tsubame’s stated concern, and the `シルヴェスタ` gift reveal.
 9. `adv_csprt-3-0071_03` — Tsubame's No.2 recognition anxiety followed by direct recognition from a student.
 10. `adv_csprt-3-0074_03` — Lilja's homesickness and Rinami's older-sister-coded response.

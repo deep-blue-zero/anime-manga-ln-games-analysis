@@ -40,3 +40,11 @@ Retained release checksums describe historical ZIP member bytes and package path
 ## Recorded Event 023 evidence — 2026-11-25
 
 Temari disputes Hiro's label at L197, asks for advice at L219–223, declines the video at L310–319 and invites her to shop at L344. Hiro responds at L346 and L355. These are separate audible acts in part 01. Misuzu at L272 is recalled and Rinha is imagined. Their distinctly authored modes bound the comparison. [Guarded Event 023 adjudication](../GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md#disputed-closeness-and-accepted-help)
+
+## Recorded moon-viewing and its remembered quarrel
+
+Temari thanks Misuzu for the blanket and tea offer, admits embarrassment and later questions whether they have made up. Temari owns the reservation that their old relationship has not wholly returned. She reacts more forcefully in the remembered argument than in her later appraisal. Her final deferral leaves a further reconciliation open. [Guarded moon-viewing adjudication](../GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#temari-answers-the-offer-and-doubts-the-description-of-repair).
+
+## Five guarded SyngUp support scenes
+
+The latest guarded support observations cover Q766/A, Q788/B, Q789/C, Q713/D and Q714/E. The comparison identifies the recorded turns, their written roles and the remaining interpretive limits. [Guarded SyngUp adjudication](../GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

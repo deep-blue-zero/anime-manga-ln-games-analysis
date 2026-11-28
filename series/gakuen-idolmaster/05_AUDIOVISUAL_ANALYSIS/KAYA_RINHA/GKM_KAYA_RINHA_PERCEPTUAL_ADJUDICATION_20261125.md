@@ -15,6 +15,14 @@ last_updated: "2026-11-25"
 
 This dated addendum completes the scoped listening and picture comparison required by [request plan §15](GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md#15-av-completion-criteria). The [September baseline](GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md) and [measurement matrix](GKM_KAYA_RINHA_AV_EVIDENCE_AND_METRICS_MATRIX.md) remain evidence for their original textual, selected-mix and sampled-still scopes. Their zero listening and motion counts are correct for that pass. The [November receiver receipt](../GKM_CARBON_LOCAL_PLAYBACK_RECONCILIATION.md) accounts for the subsequent inspections and the observer freeze limitation. The [claim matrix](../../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_EVIDENCE_MATRIX.md#recorded-scene-adjudication--2026-11-25) owns the analytic transitions.
 
+## Dear 020 memory and present addressees
+
+The Dear 020 script contains three separately framed moments. Rinha identifies a memory of forming SyngUp! at L14. In the recalled schoolroom, Temari says singing beside Rinha helps her improve and asks for instruction (L18–32). Rinha’s thoughts recognize what both former partners gave her (L36).
+
+The script returns to the N.I.A. exterior at L40–41. The crying companions’ response at L49 uses Shion’s and Nadeshiko’s voice assignments at L50–51. Rinha refers to their current contract and says she will train them as she returns to idol work (L52–55). The sampled training line around 3123.933 s in SRC-0032 belongs to this current exchange. At L62 the script starts a separate scene where Temari searches for Rinha and wants to boast about the win. She does not find her in that search (L62–100 and L139).
+
+REVISE the September baseline’s identification of the training recipient. The earlier baseline, measurements, request plan and checksums preserve their September record. The later paired review still supplies scene-scoped evidence of the change from Rinha’s recollection to severe coaching. C030 keeps the founding-memory contribution. The distinct whole-container C073 requirement remains open. Dear 024–025 supplies other current exchanges between Rinha and Temari.
+
 ## Source and coverage
 
 The original [source manifest](GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md) and [target map](SUPPORTING_DATA/target_map.json) retain the 12 parent identities, original hashes and caption alignments. The table below uses Carbon source IDs and registered parent times. The eighteen scenes have paired reported audition and picture evidence. Three contiguous support parts share one already paired historical whole source. The other fifteen scenes were paired using sixteen packet-verified bounded media files. The SRC-0032 sound-only copy is a corroborating audio observation with a reported unaided clock drift, and receives no image credit. Observers used a native-media input. The receiver confirmed wording, selected native frames, parent-stream identity and peer-source order. Frame observations carry frame scope unless the delivery task actually required and documented continuous motion.
@@ -25,7 +33,7 @@ Five of the six C073 controls belong to the original eighteen. Two, the first su
 | --- | --- | --- | --- | --- |
 | P0-001 | SRC-0032 1578–1851 s | Temari 015, XW-037 | M2 packet-verified A/V window | Angry/defensive refusal, delay and chuckle can coexist. Rejection of praise leaves the protective motive OPEN. |
 | P0-002 | SRC-0032 1847–2223 s | Temari 016, XW-038 | M2 packet-verified A/V window | Audible distress and changed composure, edition uses Rinha’s static/swapped 2D portrait. No unsupported embodied crying animation. |
-| P0-003 | SRC-0032 3053–3355 s | Temari 020, XW-041 | M2 packet-verified A/V window | Internal warmth, scoff, command. The narrower commissioned cue is 3057.2–3127.6 s, with the two dots over 戻す. C073. |
+| P0-003 | SRC-0032 3053–3355 s | Temari 020, XW-041 | M2 packet-verified A/V window | Internal warmth, scoff, command to her present companions. The narrower commissioned cue is 3057.2–3127.6 s, with the two dots over 戻す. C073. |
 | P0-004 | SRC-0017 1224–1636 s | Misuzu 016, XW-061 | M2 packet-verified A/V window | Quiet disrupted reply versus loud raspy competitive outburst. Misuzu speaks the diagnosis of Rinha’s wound. |
 | P0-005 | SRC-0014 941–1394 s | Misuzu 024, XW-069 | M2 packet-verified A/V window | Playful fan enthusiasm versus standards speech. `pretty-001` continues under the creed. C073. |
 | P0-006 | SRC-0035 1967–2305 s | Saki 026, XW-083 | M2 packet-verified A/V window | Sustained disclosure continues to quiet named encouragement. Preserve subjective guilt and refusal of substitution. A1 L45 and a native frame at 1983 s correct the challenger heading of Saki Dear 024 to Dear 026. |

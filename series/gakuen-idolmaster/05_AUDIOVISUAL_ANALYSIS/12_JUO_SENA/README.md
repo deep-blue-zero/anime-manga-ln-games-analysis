@@ -15,6 +15,8 @@ last_updated: "2026-11-25"
 
 # Juo Sena — audiovisual analysis
 
+**Current recorded comparison.** Sena answers Saki directly, then gives Tsubame a crisp refusal and calls Saki an enemy in the officers’ exchange. Earlier Rinami observes that Sena looks pleased, while Sena gives anger as her account. The delivery supports a rivalry that can carry different affects in one encounter. Their balance remains open. Sena’s unusually emphatic admission that she could not tell Ume’s talent is followed by her question about her own excitement. She later praises the reported athletic display and moves to a conditional offer. She describes having received a push toward recruitment. The cause of the earlier excitement and the earlier reserve-admission criterion remain open. [Guarded Event 005 and 024 adjudication](../GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
 Current claim wording and item-level completion are recorded in the [Carbon playback successor](GKM_SENA_CARBON_PLAYBACK_SUCCESSOR.md). The baseline and Phase 3 completion report retain their original inspection boundary.
 
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
@@ -34,3 +36,7 @@ Start with the integrated baseline. Use the textual core and AV addendum togethe
 | Textual authority | [Character core](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/12_JUO_SENA/GKM_CORE_12_JUO_SENA.md) · [Core evidence](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/12_JUO_SENA/GKM_CORE_12_JUO_SENA_EVIDENCE_MATRIX.md) · [AV revision addendum](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/12_JUO_SENA/GKM_CORE_12_JUO_SENA_AV_REVISION_ADDENDUM.md) |
 
 Retained release checksums describe historical ZIP member bytes and package paths. The [recovery audit](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records recovered originals and repository derivatives.
+
+## Five guarded SyngUp support scenes
+
+The latest guarded support observations cover Q788/B and Q789/C. The comparison identifies the recorded turns, their written roles and the remaining interpretive limits. [Guarded SyngUp adjudication](../GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

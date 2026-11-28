@@ -28,6 +28,8 @@ do_not_use_as_current_authority: false
 
 > **2026-09-11 exact-speaker correction.** The 43 A1 direct files and their A2 logical entries agree on **620** Rinha messages. The earlier 621 total included `燐羽様ファン` at support0097 part02 raw line 143; that object contains nine Rinha messages. The fan remains public-reception evidence. Source Lock, all 118 objects, 6,709 containing messages and crosswalk IDs are unchanged. [Audit](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md). The prior tagged-speaker correction recovered the larger direct pool; this further correction excludes a prefix-name false positive.
 
+> **Current Dear 020 source note.** XW-041 contains Rinha’s recollection of forming SyngUp! and Temari’s recalled request, then Rinha’s current L52–55 training offer to companions voiced as Shion and Nadeshiko, then Temari’s separate search. The paired perceptual reading and its limits are in the [dated current adjudication](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md#dear-020-memory-and-present-addressees).
+
 ## 0. Purpose, authority, and non-dossier rule
 
 This is the first mandatory artifact in the Phase-6 distributed reconstruction of **Kaya Rinha / 賀陽燐羽**. It is a source-routing document, not a personality monograph. Its job is to answer, before interpretation: **where does Rinha actually exist in Source Lock 1.0, whose story is each appearance embedded in, what kind of presence is it, what continuity envelope governs it, and which objects can support direct claims about Rinha herself?**
@@ -526,3 +528,7 @@ An exact scan of all 172 new A1 objects found 28 messages with the displayed Rin
 Other new exact name references appear in Misuzu 018 part 02 L187, Temari 021 part 03 L092 and support 2-0078 part 01 L155. They are reports or calls by other speakers.
 
 **Actor-resolved note — 2026-11-15 (GKM-SAA-117).** The scan above used the displayed speaker only. Resolving by voice stem finds two SL1.1 group lines that include a Rinha voice. In `adv_dear_fktn_035.txt` at L349 the label 「アンチ？の方々」 carries four voices, including `sud_vo_adv_dear_fktn_035_krnh-001` (L352), inside a scene that Kotone imagines. In `adv_dear_jsna_034.txt` at L332 the label 一同 carries `sud_vo_adv_dear_jsna_034_krnh-009` (L335). Neither is single-speaker Rinha speech, and neither is added to the 28 displayed-name messages.
+
+## Five guarded SyngUp support scenes
+
+RINHA-XW-109 gives Temari’s address in support 3-0021 part 02. The recording also gives Misuzu’s own telephone reply. The automatic-memory label remains a reading of Temari’s call. The evidence here concerns Temari and Misuzu, while Rinha’s already accepted action and speech have their own source entries. The original Event 016 watch retains its separate edition and clock. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#a-telephone-truce-through-thunder).

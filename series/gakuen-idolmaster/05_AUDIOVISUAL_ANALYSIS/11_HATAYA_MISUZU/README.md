@@ -15,6 +15,8 @@ last_updated: "2026-11-25"
 
 # Hataya Misuzu — audiovisual analysis
 
+**Current recorded comparison.** Misuzu gives her own reasons for volunteering, examines the proposals, and suggests turning Ume’s idea into practical work. She asks for the floor before proposing that they finish the work together. Her earlier formal apology is separately audible, with the ensuing self-description crossing the first guard. The plan leaves her private motives and the final result open. [Guarded Event 005 and 024 adjudication](../GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md#ume-and-misuzu-agree-to-work-together)
+
 [All character AV files](../GKM_AUDIOVISUAL_FILE_INDEX.md) · [Project state](../../CURRENT_STATE_AND_CORPUS_MAP.md)
 
 Q560 and Q561 separate Misuzu's quiet proposal of a joint refusal, her distinct claim to the song and her share in the spoken title call and reported circulation. The recording's instrumental is audible against dialogue. Misuzu's looked-for sung contribution at the concert and the wider reactions remain unmeasured. In the distinct official trio MV, Misuzu moves into audible and pictured foreground while the ensemble keeps a changing center. The video supplies no actual Shibuya performance. [Guarded Event 022 and 024 adjudication](../GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md#senas-proposal-and-the-juniors-distinct-answers)
@@ -44,3 +46,11 @@ Retained release checksums, including CHECKSUMS.md, describe their original ZIP 
 ## Recorded Event 023 evidence — 2026-11-25
 
 Part 03 L223–232 gives Misuzu's giving formula. Part 04 L219–221 is her recalled daily nap request. In part 05 L268–281 her gift response moves from bright to quiet, and at L296 she voices her planned bedtime listening. Her delivery varies while retaining polite speech. The written emphasis on important people and the future bedtime plan remain separately attributable. [Guarded Event 023 adjudication](../GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Recorded moon-viewing and its remembered quarrel
+
+Misuzu points to their resumed shared life and agrees it has not returned to its old form. She says she will stop asking Temari to sing together and gives up the aim of being Temari’s wings. Misuzu still plans to make Temari shine in her own way. She keeps her polite address even when her remembered reply is forceful. In the present she includes her own inaction in the account of what went wrong. [Guarded moon-viewing adjudication](../GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#misuzu-gives-up-one-role-and-keeps-an-aim).
+
+## Five guarded SyngUp support scenes
+
+The latest guarded support observations cover Q766/A, Q788/B, Q713/D and Q714/E. The comparison identifies the recorded turns, their written roles and the remaining interpretive limits. [Guarded SyngUp adjudication](../GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

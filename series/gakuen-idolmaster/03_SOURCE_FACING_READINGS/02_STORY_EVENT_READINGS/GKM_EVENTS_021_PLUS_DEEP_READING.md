@@ -553,15 +553,17 @@ Sena explicitly changes her usual behavior during culture-festival planning. Ear
 
 Misuzu's response is a notable state marker. She says the student-council members are now **important people** to her. Helping them is therefore something she wants to do, even while she apologizes for still lacking spontaneous initiative.
 
-Ume and Misuzu initially drown in collected suggestions because they have solicited too many incompatible preferences. Their solution is not to ask Sena to rescue them. They identify a higher-order criterion—an experience that produces a one-day-only special memory—then search old culture-festival records for reusable structure.
+Ume asks whether the collected proposals would appeal to everyone, then suggests giving attendees a memory unique to the day. Misuzu proposes doing the work needed to give that idea a concrete form (L229–302).
 
-They find an old immersive mystery-play concept and adapt it. When the possibility of recruiting someone more technically skilled arises, they explicitly choose to finish the project together.
+Misuzu suggests looking for clues in earlier festival records, and Ume proposes dividing the search. Ume finds a plan for an immersive puzzle play with a one-time experience. Misuzu recognizes the fit with their criterion and proposes adapting the puzzle content while reusing the framework (L326–401).
 
-This is a clean progression from Phase-4 scaffolded authorship toward **independent co-authorship**.
+Misuzu raises getting help from someone who is good at making puzzles. Later Ume gives her the next turn, Misuzu proposes they make the activity together through the end, and Ume agrees (L408–438). Responsibility for the work shifts to the two juniors. The discussion leaves the work itself and the result ahead of them.
 
-**STRENGTHEN — Ume:** energetic creativity is now paired with archival learning and concept selection; she does not require every problem to be solved through immediate action.
+**STRENGTHEN — Ume:** Her concern for the audience leads to a concrete criterion and a search, with her own suggestion to divide the work.
 
-**STRENGTHEN — Misuzu:** when relationally invested, she can perform tedious source review and design labor without ceasing to describe effort as effort.
+**STRENGTHEN — Misuzu:** She moves from reviewing the proposals to identifying a method and taking initiative in the joint commitment. She calls for steady practical work.
+
+**Guarded planning dialogue.** Ume asks whether the juniors may take the assignment, asks whether the proposals would work for everyone, and voices the idea of a memory unique to that day. In the final exchange she gives Misuzu the floor and then replies more brightly to her proposal to finish the work together. The result of the plan remains outside these windows. Misuzu gives her own reasons for volunteering, examines the proposals, and suggests turning Ume’s idea into practical work. She asks for the floor before proposing that they finish the work together. Her earlier formal apology is separately audible, with the ensuing self-description crossing the first guard. The plan leaves her private motives and the final result open. [Guarded Event 005 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
 
 ## 5.3 The interview assignment shows belonging through critique
 
@@ -658,6 +660,8 @@ The event presents a way to reopen a song to other performers while its best-kno
 - **P1:** `adv_event_024_main-01` — final producer address versus flashback to Misuzu's early noncompliance.
 - **P1:** `adv_event_024_main-02` — Ume/Misuzu decide to complete the culture-festival concept themselves.
 
+**Current scope (2026-11-26).** The scoped accepted answers are Hanami Ume P1 Q576, Hataya Misuzu P1 Q576. Other individual requests and readiness requirements retain their own dispositions. [Guarded Event 005 and 024 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
 ---
 
 # 6. Event 025 — the next student council: stewardship without imitation
@@ -686,6 +690,9 @@ Rinami's joking `なるようになるよ` briefly drives Tsubame to despair bec
 
 China responds by asking for exactly that: a chance for the three juniors to remove the seniors' concerns through demonstrated action.
 
+
+
+**Guarded comparison (2026-11-26).** China accepts responsibility for the paperwork lapse and explains Ume’s assistance. She later asks the seniors for a chance for all three juniors to answer their concerns. The two guarded scenes distinguish her earlier apology from the later request. Tsubame directs Ume to finish collecting the paperwork. Her recorded recollection of entrusting the school to the juniors differs from her present questions about their readiness. Her concern leaves the graduation decision outside this exchange. [Guarded Event 025 adjudication](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
 ## 6.2 China is explicitly the next student-council president
 
 Event 025 names China as `次期生徒会長`.
@@ -766,6 +773,9 @@ The key maturation is not “we no longer need the seniors.” It is:
 
 > We now understand that senior care had a time limit, so we must become capable of giving comparable care forward.
 
+
+
+**Guarded comparison (2026-11-26).** China retains surname forms at L303, and some given-name address is already in use. The group’s later convention and the proposed gathering remain open. [Recorded pledge and proposed invitation](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md#a-pledge-for-spring-and-an-invitation-still-to-make)
 ## 6.7 First-name intimacy is deferred until the new institution is whole
 
 Ume proposes that the three begin calling one another by first names as fellow student-council members.
@@ -877,7 +887,7 @@ This makes the cover event structurally parallel to Event 024. In both cases, an
 
 ## 7.5 Ume turns external lineage into self-address
 
-After Saki's intervention, Ume privately tells herself:
+After Saki’s intervention, Ume addresses herself by name. She gives three thoughts about what she can do next.
 
 - her own future is still unseen;
 - an idol must answer even her own expectations;
@@ -898,6 +908,8 @@ The trio's success is not only that they performed the song well. It is that the
 This is the same circulatory legacy grammar seen in `ENDLESS DANCE`:
 
 `receive -> interpret -> perform -> widen access`.
+
+Saki speaks a lyric about an unseen future, then sets an audience goal and asks the group to rest. The listening scope includes the ending of her earlier conclusion. It leaves its opening outside the window. Ume says an idol should answer her own expectations and addresses herself by her full name. The scenario has no inward flag. Who else heard the turn remains open. Ume describes her excitement, proposes new partners and says she aims to cover all 765 Pro songs. The spoken title exchange and the earlier stage performance have different scopes. Temari’s closing Event 026 line changes her earlier singular formulation to a plural one. The Japanese caption emphasizes the plural suffix. The exact people she has in mind and their future stage remain open. The collective dialogue elsewhere in the excerpt assigns Saki and Ume, while the mixed laughter leaves exact contributor separation open. [Guarded Event 026 and support comparison](../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 ### Event 026 thesis
 

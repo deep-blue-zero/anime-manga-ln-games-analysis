@@ -137,3 +137,15 @@ For current authority, retrieve:
 ## Recorded Event 023 evidence — 2026-11-25
 
 **STRENGTHEN**, exact scene scope. Part 03 L223–232 gives Misuzu's giving formula. Part 04 L219–221 is her recalled daily nap request. In part 05 L268–281 her gift response moves from bright to quiet, and at L296 she voices her planned bedtime listening. Her delivery varies while retaining polite speech. The written emphasis on important people and the future bedtime plan remain separately attributable. [Guarded Event 023 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Recorded exchange and scope — 2026-11-26
+
+Misuzu gives her own reasons for volunteering, examines the proposals, and suggests turning Ume’s idea into practical work. She asks for the floor before proposing that they finish the work together. Her earlier formal apology is separately audible, with the ensuing self-description crossing the first guard. The plan leaves her private motives and the final result open. [Guarded Event 005 and 024 adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md#ume-and-misuzu-agree-to-work-together)
+
+## Recorded moon-viewing and its remembered quarrel
+
+Misuzu points to their resumed shared life and agrees it has not returned to its old form. She says she will stop asking Temari to sing together and gives up the aim of being Temari’s wings. Misuzu still plans to make Temari shine in her own way. She keeps her polite address even when her remembered reply is forceful. In the present she includes her own inaction in the account of what went wrong. One backing recedes around Temari's question and another enters near Misuzu's answer in part 01. Part 02 carries its heard backing across remembered and present turns. The exact upper-bound score change is unresolved. No observed rendition of the earlier song follows. [Guarded moon-viewing adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#misuzu-gives-up-one-role-and-keeps-an-aim).
+
+## Five guarded SyngUp support scenes
+
+The listening supports distinct deliveries in her admission of enjoyment, hesitation and lunch assent, filtered question over the phone and voiced changes in her dream and its waking frame. Person scopes are Q766/A, Q788/B, Q713/D and Q714/E. [Guarded SyngUp adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

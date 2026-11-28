@@ -44,8 +44,22 @@ Four guarded Event 023 windows separate a remembered request, Temari's gift and 
 
 Six guarded windows extend Event 022’s contrasts in training, practical care and chosen company, and give Mao’s separate Event 003 last-summer reflection a recorded comparison. The source and recording distinguish spoken requests, inward thought, instrumental score and a reported photograph. [Guarded care and summer adjudication](GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
 
+Two Event 026 dialogue windows and one support window compare the sisters’ own goals, named self-address and retrospective trust. The excerpts keep quoted lyrics, spoken song titles and a past live performance in their respective evidence scopes. [Guarded Event 026 and support comparison](GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 ## Kaya Rinha
 
 The [current Rinha record](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_CHARACTER_RECONCILIATION_20261125.md) distinguishes performed dialogue, the placement of accompaniment, and open sung-identity evidence. The dedicated dossier uses the verified relationship scenes at their bounded scope.
 
 [Carbon propagation and claim routes](GKM_CARBON_PROPAGATION.md) links the current reading for all fifteen character packages.
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Timed openings in separate same-title editions corroborate common musical material under the Event 010 reactions. Exact mix identity and the song Hiro is reported to have sung remain open. In the separate support scene, two backed passages share distinct authored cue material and a short both-channel digital break occurs between them. Exact perceptual silence, instruments and venue or room access retain their own scope. [Contextual score comparison](GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#musical-material-and-cue-changes).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Five selected fragments of mixed backing match between the end of Event 006 part 03 and the aftermath in support 2-0000 part 01 at one measured offset. The locked scripts assign daily-001 to both passages. Exact onset and the full return remain open. The support 2-0047 part 02 original decodes to zero on both channels before its decoded endpoint. The child has 271 additional zero pairs beyond that endpoint. [Guarded Ume adjudication](GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#what-the-score-comparison-can-carry).
+
+## Five guarded SyngUp support scenes
+
+Temari declines being produced, then accepts an assessment and a shared song. Sena praises the represented unison. No independent listener identifies a sung voice inside the two guarded glyph passages. The authored audition cue and different reported score segments remain separate. The later invitation remains prospective. [Guarded SyngUp adjudication](GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#what-the-rehearsal-lets-them-agree-to).

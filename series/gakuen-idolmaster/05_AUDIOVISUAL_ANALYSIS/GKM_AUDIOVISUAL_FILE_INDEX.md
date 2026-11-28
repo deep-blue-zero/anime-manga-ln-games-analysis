@@ -25,6 +25,12 @@ The [five support-card audiovisual adjudications](GKM_PHASE7_FIVE_SUPPORT_PERCEP
 
 [Subsequent story-event playback](GKM_PHASE7_FOUR_EVENT_PERCEPTUAL_ADJUDICATION_20261125.md) covers five guarded parts of Events 002, 003, 004 and 008. It records scoped corrections to performed dialogue, music placement and staging.
 
+The received person scopes are Hanami Saki P0 Q499, Hanami Saki P0 Q500, Katsuragi Lilja P0 Q499, Katsuragi Lilja P0 Q502, Shiun Sumika P0 Q500, Shiun Sumika P0 Q502. Q501 remains a distinct part 04 request. [Guarded Event 012 adjudication](GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+The scoped accepted answers are Hanami Saki P0 Q472, Juo Sena P0 Q472, Hanami Ume P0 Q473, Juo Sena P0 Q473, Hanami Ume P1 Q576, Hataya Misuzu P1 Q576. Other individual requests and readiness requirements retain their own dispositions. [Guarded Event 005 and 024 adjudication](GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+China accepts responsibility for the paperwork lapse and explains Ume’s assistance. She later asks the seniors for a chance for all three juniors to answer their concerns. The two guarded scenes distinguish her earlier apology from the later request. Tsubame directs Ume to finish collecting the paperwork. Her recorded recollection of entrusting the school to the juniors differs from her present questions about their readiness. Her concern leaves the graduation decision outside this exchange. China promises to become a dependable president by spring and then asks Ume and Misuzu for continued help. The proposal to widen their group and invite Hiro is prospective. [Guarded Event 025 adjudication](GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
+
 The [guarded sports-day and Hiroshima reviews](GKM_PHASE7_SPORTS_DAY_AND_HIROSHIMA_PERCEPTUAL_ADJUDICATION_20261125.md) track performed dialogue, staging and game music separately across ten exact windows. They file limited answers for China, Hiro, Rinami, Ume and Misuzu. The baseball cheer melody itself falls across a scene ellipsis.
 
 The guarded Event 022 and 024 review adds partial recorded answers for Arimura Mao, Fujita Kotone, Hanami Ume, Hataya Misuzu and Juo Sena. It distinguishes fever and recollection, an older-friend exchange, a two-person refusal, a spoken three-person title, an instrumental quote and reported reception. It leaves the concert's sung performance, later uptake, and separate character requirements open. Two existing exact official trio MV reviews also support a shared studio-vocal and authored-picture comparison without adding attendance to those events. [Guarded Event 022 and 024 adjudication](GKM_PHASE7_MAO_KOTONE_AND_SHIBUYA_PERCEPTUAL_ADJUDICATION_20261125.md)
@@ -32,6 +38,12 @@ The guarded Event 022 and 024 review adds partial recorded answers for Arimura M
 Four guarded Event 023 windows separate a remembered request, Temari's gift and Hiro's distinct mission reports. The recorded delivery establishes which register shifts belong to Misuzu, Temari and Hiro. The two pieces on the in-story disc are reported, with the disc's sound and later playback still open. [Guarded Event 023 adjudication](GKM_PHASE7_EVENT_023_PRIVATE_PERFORMANCE_PERCEPTUAL_ADJUDICATION_20261125.md)
 
 Six guarded windows extend Event 022’s contrasts in training, practical care and chosen company, and give Mao’s separate Event 003 last-summer reflection a recorded comparison. The source and recording distinguish spoken requests, inward thought, instrumental score and a reported photograph. [Guarded care and summer adjudication](GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+Two Event 026 dialogue windows and one support window compare the sisters’ own goals, named self-address and retrospective trust. The excerpts keep quoted lyrics, spoken song titles and a past live performance in their respective evidence scopes. [Guarded Event 026 and support comparison](GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+[Hiro’s collaboration and inward dedication](GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#hiro-changes-the-criterion-for-finishing) · [Rinami’s separate follow-up](GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#rinami-keeps-help-available-and-responds-when-asked) · [Hiro’s support story question](GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#hiro-asks-temari-for-sharper-advice)
+
+Two guarded windows supply four individual P0 answers. Q733 concerns Temari and Misuzu in part 01. Q734 concerns each in part 02. The total reaches 57 accepted recording windows and 68 person-specific answers. Both characters still require individual Gate E decisions. [Guarded moon-viewing adjudication](GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md).
 
 ## Character routes
 
@@ -61,7 +73,7 @@ All 13 characters keep their AV completion reports, delivery audits, internal ch
 
 Dialogue and music specialists now use the same character-based placement for all 13 characters, including Lilja. The role indexes provide subject browsing through links to those files.
 
-Every character home has a current `README.md`. The seven earlier current package document maps remain useful release-level guides: [Mao](04_ARIMURA_MAO/00_README_AND_DOCUMENT_MAP.md), [Lilja](05_KATSURAGI_LILJA/00_README_AND_DOCUMENT_MAP.md), [China](06_KURAMOTO_CHINA/00_README_AND_DOCUMENT_MAP.md), [Rinami](08_HIMESAKI_RINAMI/00_README_AND_DOCUMENT_MAP.md), [Sumika](09_SHIUN_SUMIKA/00_README_AND_DOCUMENT_MAP.md), [Ume](10_HANAMI_UME/00_README_AND_DOCUMENT_MAP.md), and [Tsubame](13_AMAYA_TSUBAME/00_README_AND_DOCUMENT_MAP.md). Original package-member paths in those records can differ from Git placement; use verified recovery mappings and this index to resolve the current home.
+Every numbered character home has a current `README.md`. The seven earlier current package document maps remain useful release-level guides: [Mao](04_ARIMURA_MAO/00_README_AND_DOCUMENT_MAP.md), [Lilja](05_KATSURAGI_LILJA/00_README_AND_DOCUMENT_MAP.md), [China](06_KURAMOTO_CHINA/00_README_AND_DOCUMENT_MAP.md), [Rinami](08_HIMESAKI_RINAMI/00_README_AND_DOCUMENT_MAP.md), [Sumika](09_SHIUN_SUMIKA/00_README_AND_DOCUMENT_MAP.md), [Ume](10_HANAMI_UME/00_README_AND_DOCUMENT_MAP.md), and [Tsubame](13_AMAYA_TSUBAME/00_README_AND_DOCUMENT_MAP.md). Original package-member paths in those records can differ from Git placement; use verified recovery mappings and this index to resolve the current home.
 
 Temari's table entries identify the current repository generation. Its [current music JSON](02_TSUKIMURA_TEMARI/SUPPORTING_DATA/GKM_TEMARI_MUSIC_SIGNAL_METRICS.json) and [current dialogue dataset](02_TSUKIMURA_TEMARI/SUPPORTING_DATA/GKM_TEMARI_DIALOGUE_SCENE_SIGNAL_METRICS.json) now match that generation. The [music CSV](02_TSUKIMURA_TEMARI/SUPPORTING_DATA/GKM_TEMARI_MUSIC_SIGNAL_METRICS.csv) is retained in Temari's `SUPPORTING_DATA/` as **historical data**: its 15 rows and 17 shared fields match the [preserved predecessor JSON](../90%20Legacy%20and%20Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_TEMARI_MUSIC_SIGNAL_METRICS.json), not the restored current JSON. The [predecessor evidence matrix](../90%20Legacy%20and%20Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_TEMARI_AV_EVIDENCE_AND_METRICS_MATRIX.md) and five companion analyses are separately preserved with explicit noncurrent/successor routing. Rinami's [R1 supersession note](08_HIMESAKI_RINAMI/90_SUPERSEDED_RELEASES/R1_SUPERSESSION_NOTE.md) likewise preserves the older release boundary.
 
@@ -91,3 +103,11 @@ The unnumbered [current Kaya Rinha AV reading](KAYA_RINHA/GKM_KAYA_RINHA_CARBON_
 The current perceptual and historical baselines cover the distributed voice-analysis responsibility alongside the dossier.
 
 [Carbon propagation and claim routes](GKM_CARBON_PROPAGATION.md) links the current reading for all fifteen character packages. Resolve Carbon recording and playback IDs in the [recording identity crosswalk](GKM_CARBON_RECORDING_IDENTITY_CROSSWALK.tsv). Match each recording to its [scoped claim disposition](GKM_CARBON_CLAIM_TRANSITIONS.tsv).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Three independently received original windows add 5 person-specific answers. Cumulative receiving reaches 60 recording windows and 73 person-specific answers. Ume’s Q483, Q660 and Q628 have guarded answers. Rinami’s own Q483 answer concerns her prospective checking role. Saki’s own Q660 answer concerns her two distinct responses. [Guarded Ume adjudication](GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+Five original recording windows add twelve separately scoped P0 answers for Temari, Misuzu, Hiro and Sena. This brings the accepted totals to 65 recording windows and 85 person-specific answers. Each person’s remaining requests and readiness retain their own dispositions. [Guarded SyngUp adjudication](GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).

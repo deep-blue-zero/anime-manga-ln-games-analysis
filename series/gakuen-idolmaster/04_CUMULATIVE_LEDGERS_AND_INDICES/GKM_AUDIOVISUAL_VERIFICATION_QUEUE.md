@@ -473,6 +473,8 @@ R2 resolves the former late-Dear quality exception. The exact 720p files strengt
 | P0 | `adv_event_005_main-05` | Sena's inability to read Ume; surprise becoming excitement |
 | P1 | `adv_event_005_main-01` | pseudo-agency governance debate; Tsubame/Rinami criticism vs Sena confidence |
 
+**Event 005 written clarification (2026-11-26).** The part 04 P0 distinguishes Saki’s criticism, Tsubame’s recruitment suggestion and Sena’s refusal (L367–L416, L474–L487). The part 05 P0 asks how Sena delivers her unresolved assessment and her question about why she is excited (L401–L427). The scoped accepted answers are Hanami Saki P0 Q472, Juo Sena P0 Q472, Hanami Ume P0 Q473, Juo Sena P0 Q473. Other individual requests and readiness requirements retain their own dispositions. [Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md) The written source leaves the cause of the excitement open.
+
 <!-- PHASE4_EVENTS_006_012_2026-08-23 -->
 ## Phase 4 — Events 006–012 AV verification additions
 
@@ -530,7 +532,7 @@ Priority reflects interpretive leverage, not presumed visual spectacle.
 | P0 | `adv_event_017_main-04` | Mao/Sena private dialogue; “unguarded smile” advice |
 | P0 | `adv_event_017_main-05` | Rinami insecurity → daily-life idol definition → camera reversal |
 | P1 | `adv_event_017_main-02` | Mao coffee pose versus spontaneous enacted prince behavior |
-| P1 | `adv_event_018_main-02` | Mao noticing Sumika's knee-related hesitation and adapting plan |
+| P1 | `adv_event_018_main-02` | Hiro’s knee question, Sumika’s account and Mao’s proposed rehearsal adjustment; implementation remains separate |
 | P0 | `adv_event_018_main-04` | Hiro observer → surprise participant in theatrical ending |
 | P0 | `adv_event_018_main-05` | Hiro disclosure and Sumika naming why Hiro felt frightening |
 | P1 | `adv_event_019_main-01` | friend-invitation consent correction and instant acceptance |
@@ -659,7 +661,7 @@ Whole support-commu retrieval remains preferred over user-cut excerpts.
 12. `story_0035/part_02` — Hiro Santa/idol dream-giving reframe.
 13. `story_0043/part_01` — Lilja openly angry after Ume ignores pace.
 14. `story_0044/part_01` — `千奈ぴょん` teasing and desired form of address.
-15. `story_0047/part_02` — Saki explicitly calls Lilja a friend; Ume's sister-category jealousy.
+15. `story_0047/part_02` — Saki calls Lilja a friend, Ume asks for the same label, and Saki gives her a different answer. Test Ume’s delivery and the ensuing challenge, with motive open.
 16. `story_0050/part_01` — Kotone sincerely praises Temari's discipline.
 
 Prefer complete support-commu segments; timestamp internally; no user-side clipping requirement where whole scenes are retrievable.
@@ -765,7 +767,7 @@ Textual Phase-5 progression is not blocked by these targets.
 4. `S3-0064-03` — Sumika dance fear + Rinami `Love☆しすたぁず` disclosure.
 5. `S3-0065-03` — Temari reverse jealousy / Misuzu cooking recognition / Kotone brokerage.
 6. `S3-0066-03` — Sena's technically marginal but emotionally compelling Hiro evaluation.
-7. `S3-0067-01` — Hiro/Misuzu closeness + Temari jealousy/delegated trust.
+7. `S3-0067-01` — Hiro/Misuzu closeness and Temari’s closing address to Hiro; test the proposed jealousy/delegation reading with motive, receipt and later compliance open. *(Written-source precision, 2026-11-26; Q766 unchanged.)*
 8. `S3-0070-03` — Tsubame waits for Kotone, academic concern, `シルヴェスタ` gift reveal. [Current finding](#tsubame-support-scene-playback--2026-11-25).
 9. `S3-0071-03` — Tsubame No.2 visibility anxiety + student recognition.
 10. `S3-0074-03` — Lilja homesickness + Rinami sister-coded response.
@@ -787,8 +789,8 @@ Textual Phase-5 progression is not blocked by these targets.
 ## Phase 5 closure - Support Series 3 Part 076-102 AV queue additions
 
 ### P0 - interpretation-changing performance targets
-1. `S3-0076-01` - Temari's awkward post-reconciliation lunch invitation and Sena's silent encouragement to Misuzu.
-2. `S3-0076-02` - Sena/Temari duet; public challenge versus Temari inner delight.
+1. `S3-0076-01` - Temari’s awkward post-reconciliation lunch invitation, Sena’s explicitly inward encouragement (A1 L121), and Misuzu’s separate spoken reply (L141). Test any rendered cue and possible receipt without presuming a spoken permission or communicated signal. *(Written-source precision, 2026-11-26; Q788 unchanged.)*
+2. `S3-0076-02` - represented Sena/Temari duet and its audible scope. Compare Temari’s outward challenge and marked inward surprise.
 3. `S3-0082-01-03` - Tsubame/Lilja fandom embarrassment and register collapse when discovered by Mao/Rinami.
 4. `S3-0086-03` - Sena's date / not-knowing-romantic-love / liking-Tsubame sequence; essential anti-overclaim calibration.
 5. `S3-0088-03` - Hiro/China internalized-other exchange; comic/serious balance and warmth.
@@ -856,7 +858,7 @@ No new acquisition is blocking the **evidence matrix** itself.
 | --- | --- | --- |
 | P0 | Temari Dear 015 | public-villain/blame language: triumph, armor, bitterness, or mixed affect |
 | P0 | Temari Dear 016 | intended retirement/fan handoff; destabilization when Temari asks her not to quit |
-| P0 | Temari Dear 020 | rare Rinha interiority plus SyngUp formation motive and restoration training |
+| P0 | Temari Dear 020 | Rinha’s founding recollection and present coaching of Shion and Nadeshiko. Temari’s later search is separate. [Received scene scope](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_PERCEPTUAL_ADJUDICATION_20261125.md#dear-020-memory-and-present-addressees). |
 | P0 | Misuzu Dear 016 | “already quit” self-definition, fan handoff, Misuzu challenge, wound defensiveness |
 | P0 | Misuzu Dear 024 | `私は、一アイドルファンとして` severe idol ontology versus fandom enthusiasm |
 | P0 | Saki Dear 026 | older-sister autobiography, shame/self-blame, uniqueness/non-substitution boundary |
@@ -1120,3 +1122,70 @@ These scoped determinations preserve the original request text and individual Ga
 | `adv_event_003_main-05` · Q468 | **STRENGTHEN**, Mao’s inward assessment of her last summer, with an outward response around the photo exchange. Sumika’s contextual role earns no additional numbered scope. |
 
 These four scoped answers preserve the earlier and continuing request boundaries. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+| Person and scope | Exact A1 part | Disposition |
+| --- | --- | --- |
+| Hanami Ume Q565 P0 | `adv_event_026_main-04` | **STRENGTHEN.** Named self-address. Earshot and physical movement remain open. |
+| Hanami Saki Q565 P0 | `adv_event_026_main-04` | **STRENGTHEN.** Spoken lyric quotation, practical goal and rest advice. The beginning of the older conclusion is outside the lower guard. |
+| Hanami Ume Q566 P0 | `adv_event_026_main-05` | **STRENGTHEN.** Spoken excitement and proposed cover repertory. |
+| Hanami Saki Q566 P0 | `adv_event_026_main-05` | **STRENGTHEN.** Her reported audience unity and encouragement. |
+| Hanami Ume Q760 P0 | `adv_csprt-3-0052_01` | **STRENGTHEN.** Expressed trust and wish to find her own answer. Exact sound of the next chapter stays bounded to the cut. |
+
+[Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded council succession — current disposition
+
+The accepted person scopes are China Q562, Tsubame Q562, China Q563. Q562 uses the complementary Q01 and Q02 clips for each named person. Q563 uses Q03. Q577 remains open for China and Misuzu in part 03, and Q578 remains open for China in part 04. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Event 005 and 024 received person scopes — 2026-11-26
+
+| Received scope | Primary-script locator | Window |
+| --- | --- | --- |
+| Hanami Saki P0 Q472 | adv_event_005_main-04 L367–416 | A |
+| Juo Sena P0 Q472 | adv_event_005_main-04 L419–425 and L453–487 | A |
+| Hanami Ume P0 Q473 | adv_event_005_main-05 L282–303, L353, L468–501 and L553–591 | B and C |
+| Juo Sena P0 Q473 | adv_event_005_main-05 L390–427, L498–539, L553–591 | B and C |
+| Hanami Ume P1 Q576 | adv_event_024_main-02 L48–62, L229–257, L278–291 and L412–438 | D, E and F |
+| Hataya Misuzu P1 Q576 | adv_event_024_main-02 L68–90, L229–275, L291–302 and L412–438 | D, E and F |
+
+[Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Guarded Event 012 received scope — 2026-11-26
+
+| Received scope | Script locator | Guarded windows |
+| --- | --- | --- |
+| Hanami Saki P0 Q499 | adv_event_012_main-02 L592–596, L608–721 | K02 |
+| Hanami Saki P0 Q500 | adv_event_012_main-03 L555–575, L584–675 and L692–697 | K04 |
+| Katsuragi Lilja P0 Q499 | adv_event_012_main-02 L202–259, L586–596 and L632–734 | K01 and K02 |
+| Katsuragi Lilja P0 Q502 | adv_event_012_main-05 L88–143, L187–200, L469 and L495–496 | K05 and K06 |
+| Shiun Sumika P0 Q500 | adv_event_012_main-03 L326–354, L404–425, L450–501 and L655–662 | K03 and K04 |
+| Shiun Sumika P0 Q502 | adv_event_012_main-05 L151–176, L208–213, L447–458 and L497–498 | K05 and K06 |
+
+[Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+Keep original Q499/Q500/Q502 selection rows and route only actual named advances. Q501 remains a separate part-04 request. No transfer of Lilja or Sumika’s K06 evidence to Saki.
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+| Earned scope | Locked source | Guarded window |
+| --- | --- | --- |
+| Shinosawa Hiro P0 Q494 | Event 010 part 04 L193–219, L312–319, L426–509 | A |
+| Himesaki Rinami P0 Q494 | Event 010 part 04 L193–219, L353, L450–481 | A |
+| Shinosawa Hiro P0 Q495 | Event 010 part 05 L388–400, L439–509, L521–626 | B |
+| Shinosawa Hiro P1 Q601 | Support 1-0005 part 01 L40–55, L70, L78, L98, L111–124 | C |
+
+A counts once as a recording window and twice as a person-specific answer. The existing selection rows and other participants retain their prior scope. [Guarded adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Recorded moon-viewing and its remembered quarrel
+
+Two guarded windows supply four individual P0 answers. Q733 concerns Temari and Misuzu in part 01. Q734 concerns each in part 02. The total reaches 57 accepted recording windows and 68 person-specific answers. Both characters still require individual Gate E decisions. The earlier queue rows record why these questions were asked. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Ume’s three central recorded questions
+
+Three independently received original windows add 5 person-specific answers. Cumulative receiving reaches 60 recording windows and 73 person-specific answers. Ume’s Q483, Q660 and Q628 have guarded answers. Rinami’s own Q483 answer concerns her prospective checking role. Saki’s own Q660 answer concerns her two distinct responses. Q628 uses Saki’s speech as context for Ume’s own answer. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#person-specific-dispositions).
+
+## Five guarded SyngUp support scenes
+
+The guarded receiving answers Temari, Hiro and Misuzu Q766, Temari, Misuzu and Sena Q788, Temari and Sena Q789, and Temari and Misuzu separately in Q713 and Q714. The earlier cue and relationship wording in the queue remains source-specific. Five original recording windows add twelve separately scoped P0 answers for Temari, Misuzu, Hiro and Sena. This brings the accepted totals to 65 recording windows and 85 person-specific answers. Each person’s remaining requests and readiness retain their own dispositions. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md#received-person-specific-scopes).

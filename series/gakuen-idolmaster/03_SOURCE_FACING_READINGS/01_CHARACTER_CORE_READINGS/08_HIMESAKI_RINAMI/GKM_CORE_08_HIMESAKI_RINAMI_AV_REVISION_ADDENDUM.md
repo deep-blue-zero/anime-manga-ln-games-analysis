@@ -103,3 +103,11 @@ The textual core should now route reconstruction through these AV-safe rules:
 ## 5. Evidence-quality note
 
 The complete Dear route is directly inspected at 720p or better: Dear 001-020 at 1080p30, Dear 021-027 at 720p60, and Dear 028-037 at 720p30. R2 closes the R1 late-route visual-quality exception. Ordinary close reading of tears, blush, gaze direction, hand placement, posture, and transition sequencing is now supported; laboratory facial-motion and single-frame mind-reading remain out of scope.
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Rinami leaves help available while Hiro tries to make the chocolate on her own. She checks on her later and accepts Hiro’s request to make it together. Hiro judges the first result inadequate. Rinami appraises the finish of the shared attempt. Palms, texture and the full work process have distinct written, reported and sampled-picture limits. [Guarded Rinami performance](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md#rinami-keeps-help-available-and-responds-when-asked).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+**STRENGTHEN** the enacted contrast of appreciative delivery and explicit prospective authority in Rinami’s reply to Ume. The spoken division of labor and later action have separate evidentiary status. [Guarded Ume adjudication](../../../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md#ume-keeps-a-role-in-the-work).

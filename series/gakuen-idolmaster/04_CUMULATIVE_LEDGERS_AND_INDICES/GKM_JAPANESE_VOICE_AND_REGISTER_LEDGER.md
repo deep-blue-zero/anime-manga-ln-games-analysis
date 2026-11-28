@@ -716,3 +716,37 @@ Event 022 distinguishes Mao's half-sleep L66/L70, Kotone's L68 echo, Mao's remem
 ## Guarded care, chosen company and a summer photograph — 2026-11-25
 
 **STRENGTHEN.** Mao’s polite answer to the trainer, inward last-chance formulation and spoken acceptance of company have separate audiences. Kotone addresses Mao as her senior and uses familiar practical direction. Kotone’s offers of a book and a lullaby are spoken. Mao’s answer and her later request for a light are separate. [Guarded care and summer adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_MAO_CARE_AND_LAST_SUMMER_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Guarded comparisons of the Hanami sisters — 2026-11-25
+
+**STRENGTHEN.** Saki speaks a lyric about an unseen future, then sets an audience goal and asks the group to rest. The listening scope includes the ending of her earlier conclusion. It leaves its opening outside the window. Ume says an idol should answer her own expectations and addresses herself by her full name. The scenario has no inward flag. Who else heard the turn remains open. Ume’s support part 01 recollection distinguishes following Saki from dreaming specifically of idolhood. Ume affirms her trust and says she wants to find her own answer. The onset of that aspiration remains undated. The next scene’s opening Saki call belongs to support part 02. [Guarded Event 026 and support comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HANAMI_SISTERS_EVENT_026_AND_SUPPORT_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Council address convention — Event 025 part 05
+
+Ume addresses China as China-chan (L211), and Misuzu uses Ume-san (L250). Ume’s new proposal concerns reciprocal use across the council. Misuzu wants to wait for absent peers, and China still uses surnames with -san at L303. The script and original caption have no final ne in China’s invitation line. The listening accounts differ on that particle. [Guarded Event 025 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_025_COUNCIL_SUCCESSION_PERCEPTUAL_ADJUDICATION_20261125.md)
+
+## Recorded speech in appraisal and planning — 2026-11-26
+
+In Event 005 part 04, Sena’s L487 is printed `敵よ` and heard as `てきよ`. Part 04 L103 assigns the same written noun the ruby `ライバル` elsewhere in the chapter. The two readings belong to different turns. In Event 024 part 02, Ume asks Sena a polite question about the assignment. The Ume–Misuzu conversations use an asymmetric familiar and polite pair: Ume says `美鈴ちゃん` and Misuzu says `佑芽さん`. Ume’s `いいよ` in F gives Misuzu the next turn. Her later `うんっ！` accepts Misuzu’s proposal to work together. Misuzu’s formal apology in D is audible, while its succeeding self-description crosses the upper guard.
+
+[Guarded Event 005 and 024 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_005_RECRUITMENT_AND_024_COUNCIL_PLANNING_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Spoken and authored contrasts in Event 012 — 2026-11-26
+
+The spoken echo of 免罪符 connects Lilja’s inward account and Saki’s explicit condition in different guarded moments. Sumika’s written ぼきり and the listeners’ ぽきり retain distinct phonetic evidence. K06 marks 一同 as inward and assigns two named takes. Viewer-audible layering leaves the actual audible contributions, the spoken particle near the end of the line and the characters’ earshot open. [Guarded Event 012 adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_EVENT_012_COACHING_AND_RECIPROCAL_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md)
+
+## Hiro and Rinami’s recorded Event 010 and support evidence
+
+Hiro’s part 04 renewed request and part 05 viewer-audible marked inward dedication occupy different relationships. Rinami’s assent belongs to the joint work, while Temari’s outward hesitation and marked inward alarm in 1-0005 part 01 surround a distinct request for advice. [Scoped register comparison](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_HIRO_RINAMI_COLLABORATION_AND_ADVICE_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Recorded moon-viewing and its remembered quarrel
+
+Misuzu's polite form survives a change in force during the remembered argument. Temari's casual question, startled opening and quieter reservation occupy separate turns. The later long caption and deferral are separate evidence from reported nonlexical sound. [Guarded moon-viewing adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_TEMARI_MISUZU_MOON_VIEWING_PERCEPTUAL_ADJUDICATION_20261126.md#the-remembered-argument-and-the-present-judgment).
+
+## Ume’s proposals, relationship labels and terms of approach
+
+Ume’s suggestion 全部考えてもらった方が早いかも in Event 006 qualifies a possible course. Her later わかりました and choice to think of more mark a distinct response. In support 2-0047 Ume asks for the named friend relationship, then challenges Lilja. Saki’s reply calls Ume her 妹. Its scope is the stated request. [Guarded Ume adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_UME_INITIATIVE_RELATIONSHIP_AND_BOUNDARIES_PERCEPTUAL_ADJUDICATION_20261126.md).
+
+## Five guarded SyngUp support scenes
+
+A’s pinned printed ruby とうかい over 韜晦 survives the precise original check. The first two reports give a different hearing, which remains visible. In B Sena’s encouragement is explicitly inward. C distinguishes Temari’s hidden display cues from her separately marked inward L144. [Guarded SyngUp adjudication](../05_AUDIOVISUAL_ANALYSIS/GKM_PHASE7_SYNGUP_FIVE_SUPPORT_PERCEPTUAL_ADJUDICATION_20261126.md).
